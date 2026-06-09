@@ -1,19 +1,11 @@
 import { useRef, useState } from 'react';
+import { t } from '../i18n/messages';
 
 const STATUS_ICON = {
   ok: '✅',
   failed: '❌',
   warning: '⚠️',
   unreadable: '❓',
-};
-
-const CHECK_LABELS = {
-  time: 'Uhrzeit',
-  date: 'Datum & Jahr',
-  format: 'Bildformat (JPG)',
-  shutterSpeed: 'Verschlusszeit',
-  cardImages: 'Speicherkarte',
-  pictureStyle: 'Bildprofil',
 };
 
 function CheckRow({ label, check }) {
@@ -53,7 +45,6 @@ function compressForApi(dataUrl) {
       ctx.fillStyle = '#fff';
       ctx.fillRect(0, 0, w, h);
       ctx.drawImage(img, 0, 0, w, h);
-      // Try quality levels until under ~500KB base64 (~375KB binary)
       let q = 0.85, out = canvas.toDataURL('image/jpeg', q);
       while (out.length > 500_000 && q > 0.45) {
         q -= 0.07;
@@ -61,7 +52,7 @@ function compressForApi(dataUrl) {
       }
       resolve(out);
     };
-    img.onerror = () => resolve(dataUrl); // fallback to original
+    img.onerror = () => resolve(dataUrl);
     img.src = dataUrl;
   });
 }
@@ -95,7 +86,6 @@ async function sendWithRetry(payload, maxAttempts = 3) {
       clearTimeout(timeout);
       lastErr = err;
       if (attempt < maxAttempts) {
-        // Exponential backoff: 1s, 2s
         await new Promise((r) => setTimeout(r, attempt * 1000));
       }
     }
@@ -103,7 +93,7 @@ async function sendWithRetry(payload, maxAttempts = 3) {
   throw lastErr;
 }
 
-export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, expectedImageSize, expectedJpeg }) {
+export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, expectedImageSize, expectedJpeg, lang = 'en' }) {
   const inputRef = useRef(null);
   const [preview, setPreview] = useState(null);
   const [imageData, setImageData] = useState(null);
@@ -111,6 +101,22 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
   const [attempt, setAttempt] = useState(0);
   const [result, setResult] = useState(initialResult ?? null);
   const [error, setError] = useState(null);
+
+  // Translation helper
+  const tr = (key, vars) => {
+    let str = t(lang, key);
+    if (vars) Object.entries(vars).forEach(([k, v]) => { str = str.replace(`{${k}}`, v); });
+    return str;
+  };
+
+  const CHECK_LABELS = {
+    time: tr('checkLabelTime'),
+    date: tr('checkLabelDate'),
+    format: tr('checkLabelFormat'),
+    shutterSpeed: tr('checkLabelShutterSpeed'),
+    cardImages: tr('checkLabelCardImages'),
+    pictureStyle: tr('checkLabelPictureStyle'),
+  };
 
   function handleFile(file) {
     if (!file || !file.type.startsWith('image/')) return;
@@ -138,23 +144,19 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
     setResult(null);
     setAttempt(1);
     try {
-      // Compress before sending — prevents 4MB Edge Function limit errors
       const compressed = await compressForApi(imageData);
-      // Pass today's date so the AI can verify against the actual current date
-      const today = new Date();
-      const currentDate = today.toISOString().slice(0, 10); // "YYYY-MM-DD"
       const data = await sendWithRetry(
-        { image: compressed, mediaType: 'image/jpeg', cameraModel, expectedImageSize, expectedJpeg, currentDate },
+        { image: compressed, mediaType: 'image/jpeg', cameraModel, expectedImageSize, expectedJpeg, language: lang },
         3,
       );
       setResult(data);
       if (onResult) onResult(data);
       if (data.status === 'accepted' && onAccepted) onAccepted();
     } catch (err) {
-      const rawMsg = err?.message ?? 'unbekannt';
+      const rawMsg = err?.message ?? 'unknown';
       const msg = err?.name === 'AbortError'
-        ? 'Zeitüberschreitung — bitte versuche es nochmal.'
-        : `Fehler: ${rawMsg}`;
+        ? tr('cameraCheckTimeout')
+        : `${tr('cameraCheckErrorLabel')}: ${rawMsg}`;
       setError(msg);
     } finally {
       setLoading(false);
@@ -185,8 +187,8 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
           onDragOver={(e) => e.preventDefault()}
         >
           <div className="text-5xl mb-3">📷</div>
-          <p className="font-bold text-gray-700 text-sm">Foto des Kamera-Displays</p>
-          <p className="text-xs text-gray-400 mt-1">Tippen zum Aufnehmen oder Auswählen</p>
+          <p className="font-bold text-gray-700 text-sm">{tr('cameraCheckUploadHint')}</p>
+          <p className="text-xs text-gray-400 mt-1">{tr('cameraCheckUploadSubhint')}</p>
           <input
             ref={inputRef}
             type="file"
@@ -202,49 +204,49 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
       {preview && !result && (
         <div className="space-y-3">
           <div className="rounded-2xl overflow-hidden border border-gray-200 bg-gray-50">
-            <img src={preview} alt="Kamera-Display" className="w-full object-contain max-h-72" />
+            <img src={preview} alt="Camera display" className="w-full object-contain max-h-72" />
           </div>
           {loading ? (
             <div className="rounded-2xl bg-[#f0f2fa] p-4 text-center">
               <div className="text-2xl mb-1 animate-pulse">🤖</div>
-              <p className="text-sm font-semibold text-[#1C2B6B]">KI analysiert dein Kamera-Display…</p>
-              <p className="text-xs text-gray-400 mt-0.5">Uhrzeit · Datum · Format · Karte · Bildprofil</p>
+              <p className="text-sm font-semibold text-[#1C2B6B]">{tr('cameraCheckAnalyzing')}</p>
+              <p className="text-xs text-gray-400 mt-0.5">{tr('cameraCheckAnalyzingDetail')}</p>
               {attempt > 1 && (
-                <p className="text-xs text-amber-600 mt-1">Versuch {attempt} von 3…</p>
+                <p className="text-xs text-amber-600 mt-1">{tr('cameraCheckAttempt', { n: attempt })}</p>
               )}
             </div>
           ) : (
             <div className="flex gap-2">
               <button onClick={handleReset}
                 className="flex-1 rounded-2xl border border-gray-200 py-3 text-sm font-semibold text-gray-600 hover:bg-gray-50 active:scale-95 transition-transform">
-                Anderes Foto
+                {tr('cameraCheckChangePhoto')}
               </button>
               <button onClick={handleSubmit}
                 className="flex-[2] rounded-2xl bg-[#1C2B6B] py-3 text-sm font-bold text-white hover:bg-[#16225a] active:scale-95 transition-transform">
-                Jetzt prüfen →
+                {tr('cameraCheckVerify')}
               </button>
             </div>
           )}
         </div>
       )}
 
-      {/* Error — with retry button */}
+      {/* Error */}
       {error && !loading && (
         <div className="mt-3 rounded-2xl bg-red-50 border border-red-200 p-4">
-          <p className="text-sm text-red-700 font-semibold mb-1">⚠️ Fehler</p>
+          <p className="text-sm text-red-700 font-semibold mb-1">⚠️ {tr('cameraCheckErrorLabel')}</p>
           <p className="text-xs text-red-600 mb-3">{error}</p>
           <div className="flex gap-2">
             <button
               onClick={handleSubmit}
               className="flex-1 rounded-xl bg-red-600 py-2.5 text-sm font-bold text-white hover:bg-red-700 active:scale-95 transition-transform"
             >
-              🔄 Nochmal versuchen
+              {tr('cameraCheckRetry')}
             </button>
             <button
               onClick={handleReset}
               className="rounded-xl border border-red-200 px-4 py-2.5 text-sm font-semibold text-red-600"
             >
-              Neues Foto
+              {tr('cameraCheckNewPhoto')}
             </button>
           </div>
         </div>
@@ -268,13 +270,12 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
                 hasWarning ? 'text-amber-800' :
                 'text-red-800'
               }`}>
-                {accepted ? 'Kamera-Check bestanden' :
-                 hasWarning ? 'Bestanden mit Hinweisen' :
-                 'Nicht bestanden'}
+                {accepted ? tr('cameraCheckPassed') :
+                 hasWarning ? tr('cameraCheckPassedWarnings') :
+                 tr('cameraCheckFailed')}
               </span>
             </div>
 
-            {/* Decline reasons */}
             {result.declineReasons?.length > 0 && (
               <ul className="mt-2 space-y-1">
                 {result.declineReasons.map((r, i) => (
@@ -283,7 +284,6 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
               </ul>
             )}
 
-            {/* Warnings */}
             {result.warnings?.length > 0 && (
               <ul className="mt-2 space-y-1">
                 {result.warnings.map((w, i) => (
@@ -304,7 +304,7 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
 
           {/* Preview thumbnail */}
           <div className="rounded-lg overflow-hidden border border-gray-100">
-            <img src={preview} alt="Kamera-Display" className="w-full object-contain max-h-40 opacity-70" />
+            <img src={preview} alt="Camera display" className="w-full object-contain max-h-40 opacity-70" />
           </div>
 
           {/* Actions */}
@@ -314,7 +314,7 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
                 onClick={handleReset}
                 className="flex-1 py-2 rounded-lg bg-[#1C2B6B] text-white text-sm font-semibold"
               >
-                Neues Foto hochladen
+                {tr('cameraCheckUploadNew')}
               </button>
             )}
             {(accepted || hasWarning) && (
@@ -322,7 +322,7 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
                 onClick={handleReset}
                 className="flex-1 py-2 rounded-lg border border-gray-300 text-sm text-gray-600"
               >
-                Foto ersetzen
+                {tr('cameraCheckReplacePhoto')}
               </button>
             )}
           </div>

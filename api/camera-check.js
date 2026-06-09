@@ -99,7 +99,7 @@ export default async function handler(req, res) {
       return res.status(500).json({ error: 'API key not configured on server' });
     }
 
-    const { image, cameraModel, expectedImageSize, expectedJpeg } = req.body;
+    const { image, cameraModel, expectedImageSize, expectedJpeg, language } = req.body;
 
     if (!image) {
       return res.status(400).json({ error: 'No image provided' });
@@ -116,6 +116,10 @@ export default async function handler(req, res) {
     const cameraContext = cameraModel
       ? `The photographer is using a ${cameraModel}. Expected settings: Image Size = "${expectedImageSize}", JPEG quality = "${expectedJpeg}". Verify against these exact values.`
       : 'Camera model is unknown. Accept any reasonable JPG setting that is not RAW and not the finest quality option.';
+
+    // Language instruction — all message/warning/declineReason text must be in this language
+    const langNames = { en: 'English', de: 'German', es: 'Spanish', it: 'Italian', fr: 'French' };
+    const langInstruction = `IMPORTANT: Write ALL text in the "message", "warnings", and "declineReasons" fields in ${langNames[language] || 'English'}.`;
 
     // Server-side timeout: abort Anthropic call after 25s so Vercel doesn't kill us silently
     const abortCtrl = new AbortController();
@@ -139,7 +143,7 @@ export default async function handler(req, res) {
             role: 'user',
             content: [
               { type: 'image', source: { type: 'base64', media_type: 'image/jpeg', data: base64 } },
-              { type: 'text', text: `${cameraContext} Analyze this camera display and return only JSON.` },
+              { type: 'text', text: `${cameraContext} ${langInstruction} Analyze this camera display and return only JSON.` },
             ],
           }],
         }),

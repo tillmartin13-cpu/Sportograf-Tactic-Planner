@@ -5,6 +5,7 @@ import { TRACK_COLORS } from '../../lib/locationTypes';
 import { buildSpotMarkerHtml } from '../../lib/spotMarkerHtml';
 import L from 'leaflet';
 import { usePhotographerStore } from '../../store/usePhotographerStore';
+import { usePhTranslation } from '../../i18n/usePhTranslation';
 import { useMyProfile } from '../../hooks/useMyProfile';
 import { formatTimeShort } from '../../lib/timeConflict';
 import { findAllCameraSettings } from '../../lib/cameraSettings';
@@ -782,6 +783,7 @@ function WeatherBriefing({ event, spots }) {
 // ─── Main view ────────────────────────────────────────────────────────────────
 
 export function TacticDetail({ onOpenCheckIn }) {
+  const { t } = usePhTranslation();
   const activeTacticId = usePhotographerStore((s) => s.activeTacticId);
   const tactics = usePhotographerStore((s) => s.tactics);
   const closeDetail = usePhotographerStore((s) => s.closeDetail);
@@ -837,7 +839,7 @@ export function TacticDetail({ onOpenCheckIn }) {
             onClick={closeDetail}
             className="mb-1 block text-xs text-gray-400 hover:text-gray-600"
           >
-            ← All tactics
+            {t('tacticDetailBack')}
           </button>
           {greeting && (
             <div className="text-sm font-bold text-[#1C2B6B]/60 mb-0.5">{greeting}</div>
@@ -854,7 +856,7 @@ export function TacticDetail({ onOpenCheckIn }) {
               : 'bg-[#1C2B6B] text-white hover:bg-[#16225a]'
           }`}
         >
-          {isComplete ? '✅ Checked in' : 'Check-in'}
+          {isComplete ? t('tacticDetailCheckedIn') : t('tacticDetailCheckIn')}
         </button>
       </div>
 
@@ -876,25 +878,25 @@ export function TacticDetail({ onOpenCheckIn }) {
       {/* Not matched hint */}
       {!isMatched && acronym && (
         <div className="rounded-2xl border border-dashed border-amber-200 bg-amber-50 px-4 py-3 text-xs text-amber-700">
-          ⚠️ Acronym <strong>{acronym}</strong> not found in this tactic. Showing all spots.
+          ⚠️ {t('tacticDetailNotMatched', { code: acronym })}
         </div>
       )}
 
       {/* No acronym hint */}
       {!acronym && (
         <div className="rounded-2xl border border-dashed border-gray-200 bg-gray-50 px-4 py-3 text-xs text-gray-500">
-          💡 Enter your acronym in settings to see only your spots and personalized info.
+          💡 {t('tacticDetailNoAcronym')}
         </div>
       )}
 
       {/* Spots */}
       <div>
         <h3 className="mb-2 text-xs font-bold uppercase tracking-wider text-gray-400">
-          {isMatched ? `My spots` : 'All spots'} · {mySpots.length}
+          {isMatched ? t('tacticDetailMySpots') : t('tacticDetailAllSpots')} · {mySpots.length}
         </h3>
         {mySpots.length === 0 ? (
           <div className="rounded-2xl border border-dashed border-gray-200 bg-gray-50 p-6 text-center text-sm text-gray-400">
-            No spots found.
+            {t('tacticDetailNoSpots')}
           </div>
         ) : (
           <div className="flex flex-col gap-3">

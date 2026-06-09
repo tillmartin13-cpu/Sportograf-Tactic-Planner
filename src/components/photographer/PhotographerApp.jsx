@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { usePhotographerStore } from '../../store/usePhotographerStore';
+import { usePhTranslation } from '../../i18n/usePhTranslation';
 import { BrandLogo } from '../BrandLogo';
 import { BottomNav } from './BottomNav';
 import { TacticManager } from './TacticManager';
@@ -15,6 +16,7 @@ const LANGUAGES = [
 ];
 
 function SettingsSheet({ onClose }) {
+  const { t } = usePhTranslation();
   const acronym = usePhotographerStore((s) => s.acronym);
   const language = usePhotographerStore((s) => s.language);
   const setAcronym = usePhotographerStore((s) => s.setAcronym);
@@ -28,21 +30,21 @@ function SettingsSheet({ onClose }) {
         onClick={(e) => e.stopPropagation()}
       >
         <div className="mb-4 flex items-center justify-between">
-          <h3 className="font-bold text-gray-900">Settings</h3>
+          <h3 className="font-bold text-gray-900">{t('settingsTitle')}</h3>
           <button type="button" onClick={onClose} className="text-gray-400 hover:text-gray-600 text-xl leading-none">×</button>
         </div>
 
         <div className="space-y-4">
           <div>
             <label className="block text-xs font-bold uppercase tracking-wider text-gray-400 mb-1.5">
-              Your Acronym
+              {t('settingsAcronymLabel')}
             </label>
             <div className="flex gap-2">
               <input
                 type="text"
                 value={draft}
                 onChange={(e) => setDraft(e.target.value.toUpperCase())}
-                placeholder="e.g. ALN"
+                placeholder={t('settingsAcronymPlaceholder')}
                 maxLength={6}
                 className="flex-1 rounded-xl border border-gray-200 px-3 py-2.5 text-sm font-bold uppercase tracking-wider focus:outline-none focus:ring-2 focus:ring-[#1C2B6B]"
               />
@@ -51,14 +53,14 @@ function SettingsSheet({ onClose }) {
                 onClick={() => { setAcronym(draft); onClose(); }}
                 className="rounded-xl bg-[#1C2B6B] px-4 py-2.5 text-sm font-bold text-white"
               >
-                Save
+                {t('settingsSave')}
               </button>
             </div>
           </div>
 
           <div>
             <label className="block text-xs font-bold uppercase tracking-wider text-gray-400 mb-1.5">
-              Language
+              {t('settingsLanguageLabel')}
             </label>
             <div className="flex gap-2 flex-wrap">
               {LANGUAGES.map((l) => (

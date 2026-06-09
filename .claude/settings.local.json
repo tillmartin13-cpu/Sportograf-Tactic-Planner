@@ -7,7 +7,12 @@
       "Bash(git commit *)",
       "Bash(git remote *)",
       "Bash(git branch *)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "Bash(python3 -c ' *)",
+      "Bash(node -e ' *)",
+      "Skill(claude-api)",
+      "Skill(claude-api:*)",
+      "Bash(npx vercel *)"
     ]
   }
 }

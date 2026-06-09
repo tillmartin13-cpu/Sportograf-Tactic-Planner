@@ -1,8 +1,10 @@
 import { useRef, useState } from 'react';
 import { usePhotographerStore } from '../../store/usePhotographerStore';
+import { usePhTranslation } from '../../i18n/usePhTranslation';
 
 /** Inline prompt shown when no acronym is set yet — blocks JSON upload */
 function AcronymGate({ onSaved }) {
+  const { t } = usePhTranslation();
   const setAcronym = usePhotographerStore((s) => s.setAcronym);
   const [draft, setDraft] = useState('');
   const [touched, setTouched] = useState(false);
@@ -19,8 +21,8 @@ function AcronymGate({ onSaved }) {
       <div className="flex items-center gap-2 mb-3">
         <span className="text-2xl">🪪</span>
         <div>
-          <p className="font-bold text-amber-900 text-sm">Acronym required</p>
-          <p className="text-xs text-amber-700 mt-0.5">Enter your photographer acronym before loading a tactic.</p>
+          <p className="font-bold text-amber-900 text-sm">{t('acronymGateTitle')}</p>
+          <p className="text-xs text-amber-700 mt-0.5">{t('acronymGateBody')}</p>
         </div>
       </div>
       <div className="flex gap-2">
@@ -29,7 +31,7 @@ function AcronymGate({ onSaved }) {
           value={draft}
           onChange={(e) => { setDraft(e.target.value.toUpperCase()); setTouched(false); }}
           onKeyDown={(e) => e.key === 'Enter' && handleSave()}
-          placeholder="e.g. ALN"
+          placeholder={t('settingsAcronymPlaceholder')}
           maxLength={6}
           className={`flex-1 rounded-xl border px-3 py-2.5 text-sm font-bold uppercase tracking-wider focus:outline-none focus:ring-2 focus:ring-amber-400 ${
             touched && !valid ? 'border-red-400 bg-red-50' : 'border-amber-300 bg-white'
@@ -40,13 +42,13 @@ function AcronymGate({ onSaved }) {
           onClick={handleSave}
           className="rounded-xl bg-[#1C2B6B] px-4 py-2.5 text-sm font-bold text-white hover:bg-[#16225a] active:scale-95 transition-transform"
         >
-          Save
+          {t('acronymGateSave')}
         </button>
       </div>
       {touched && !valid && (
-        <p className="mt-1.5 text-xs text-red-600">Please enter at least 2 characters.</p>
+        <p className="mt-1.5 text-xs text-red-600">{t('acronymGateError')}</p>
       )}
-      <p className="mt-2 text-xs text-amber-600">You can change it later in ⚙️ Settings.</p>
+      <p className="mt-2 text-xs text-amber-600">{t('acronymGateHint')}</p>
     </div>
   );
 }
@@ -58,6 +60,7 @@ function eventTypeIcon(pkg) {
 }
 
 function TacticCard({ entry, onOpen, onDelete }) {
+  const { t } = usePhTranslation();
   const { pkg } = entry;
   const event = pkg?.event;
   const acronym = usePhotographerStore((s) => s.acronym);
@@ -129,17 +132,17 @@ function TacticCard({ entry, onOpen, onDelete }) {
       <div className="mt-3 flex items-center justify-between">
         {isComplete ? (
           <span className="flex items-center gap-1 text-xs font-semibold text-green-600">
-            <span>✅</span> Check-in done
+            <span>✅</span> {t('tacticManagerCheckInDone')}
           </span>
         ) : (
-          <span className="text-xs text-gray-400">Check-in pending</span>
+          <span className="text-xs text-gray-400">{t('tacticManagerCheckInPending')}</span>
         )}
         <button
           type="button"
           onClick={() => onOpen(entry.id)}
           className="rounded-xl bg-[#1C2B6B] px-4 py-1.5 text-xs font-bold text-white hover:bg-[#16225a] transition-colors"
         >
-          Open
+          {t('tacticManagerOpen')}
         </button>
       </div>
     </div>
@@ -147,27 +150,26 @@ function TacticCard({ entry, onOpen, onDelete }) {
 }
 
 function DeleteConfirmModal({ onConfirm, onCancel }) {
+  const { t } = usePhTranslation();
   return (
     <div className="fixed inset-0 z-50 flex items-end justify-center bg-black/40 p-4">
       <div className="w-full max-w-sm rounded-2xl bg-white p-6 shadow-xl">
-        <h3 className="font-bold text-gray-900">Delete tactic?</h3>
-        <p className="mt-1 text-sm text-gray-500">
-          This cannot be undone. The tactic file will be removed from your device.
-        </p>
+        <h3 className="font-bold text-gray-900">{t('tacticManagerDeleteTitle')}</h3>
+        <p className="mt-1 text-sm text-gray-500">{t('tacticManagerDeleteBody')}</p>
         <div className="mt-4 flex gap-2">
           <button
             type="button"
             onClick={onCancel}
             className="flex-1 rounded-xl border border-gray-200 py-2.5 text-sm font-semibold text-gray-600"
           >
-            Cancel
+            {t('tacticManagerCancel')}
           </button>
           <button
             type="button"
             onClick={onConfirm}
             className="flex-1 rounded-xl bg-red-500 py-2.5 text-sm font-bold text-white hover:bg-red-600"
           >
-            Delete
+            {t('tacticManagerDeleteConfirm')}
           </button>
         </div>
       </div>
@@ -176,6 +178,7 @@ function DeleteConfirmModal({ onConfirm, onCancel }) {
 }
 
 export function TacticManager() {
+  const { t } = usePhTranslation();
   const tactics = usePhotographerStore((s) => s.tactics);
   const importTacticJson = usePhotographerStore((s) => s.importTacticJson);
   const deleteTactic = usePhotographerStore((s) => s.deleteTactic);
@@ -206,8 +209,8 @@ export function TacticManager() {
       {sorted.length === 0 && (
         <div className="rounded-2xl border border-dashed border-gray-300 bg-gray-50 p-8 text-center">
           <div className="text-4xl mb-2">📋</div>
-          <p className="font-semibold text-gray-600 text-sm">No tactics loaded yet</p>
-          <p className="text-xs text-gray-400 mt-1">Ask your team lead for the tactic JSON file</p>
+          <p className="font-semibold text-gray-600 text-sm">{t('tacticManagerEmpty')}</p>
+          <p className="text-xs text-gray-400 mt-1">{t('tacticManagerEmptyHint')}</p>
         </div>
       )}
 
@@ -233,7 +236,7 @@ export function TacticManager() {
             onClick={() => fileRef.current?.click()}
             className="flex items-center justify-center gap-2 rounded-2xl border-2 border-dashed border-[#1C2B6B]/30 bg-[#f8f9ff] py-4 text-sm font-bold text-[#1C2B6B] hover:border-[#1C2B6B]/60 hover:bg-[#f0f2fa] transition-colors"
           >
-            <span className="text-lg">+</span> Load new tactic (JSON)
+            {t('tacticManagerLoad')}
           </button>
           <input
             ref={fileRef}
