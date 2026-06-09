@@ -34,7 +34,7 @@ Rules:
   - If shutter speed is 1/500 to 1/999: status = "warning", add to warnings: "Verschlusszeit koennte zu langsam sein — 1/1000s oder schneller empfohlen."
   - If shutter speed >= 1/1000: status = "ok"
   - If not visible on this screen: status = "unreadable", message = "Verschlusszeit nicht ablesbar — bitte im Aufnahmemodus fotografieren."
-- cardImages check: if the display shows a frame counter and it looks like there are existing images, warn that the card may not be formatted.
+- cardImages check: look for any indicator of existing images on the card — file number counter (e.g. "0823", "DSC_0823"), remaining shots counter, or folder/file info. If the file number or image count suggests more than 5 existing images, set status = "warning" and add to warnings: "Speicherkarte enthält bereits Bilder (ca. ${detected}) — bitte Karte formatieren." If the card appears empty or has ≤5 images, status = "ok". If unreadable, status = "unreadable".
 - pictureStyle: look for "Neutral", "Standard", "Picture Control" settings. Warn if saturated style detected.
 - If the image does not show a camera display at all, set uploadNewPhoto=true and decline.`;
 
