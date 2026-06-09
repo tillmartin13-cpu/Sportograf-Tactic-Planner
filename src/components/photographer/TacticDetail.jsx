@@ -1,5 +1,6 @@
-import { useState, useEffect, useRef } from 'react';
-import { MapContainer, TileLayer, Marker, Popup, useMap } from 'react-leaflet';
+import React, { useState, useEffect, useRef } from 'react';
+import { MapContainer, TileLayer, Marker, Polyline, Popup, useMap } from 'react-leaflet';
+import { TRACK_COLORS, LOCATION_TYPES } from '../../lib/locationTypes';
 import L from 'leaflet';
 import { usePhotographerStore } from '../../store/usePhotographerStore';
 import { useMyProfile } from '../../hooks/useMyProfile';
@@ -298,6 +299,87 @@ L.Icon.Default.mergeOptions({
   shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
 });
 
+// ─── Track helpers ────────────────────────────────────────────────────────────
+
+function bearingBetween(p1, p2) {
+  const r = Math.PI / 180;
+  const lat1 = p1.lat * r, lat2 = p2.lat * r;
+  const dLon = (p2.lng - p1.lng) * r;
+  const y = Math.sin(dLon) * Math.cos(lat2);
+  const x = Math.cos(lat1) * Math.sin(lat2) - Math.sin(lat1) * Math.cos(lat2) * Math.cos(dLon);
+  return ((Math.atan2(y, x) * 180) / Math.PI + 360) % 360;
+}
+
+/** Sample ~count evenly-spaced arrow positions along a track */
+function trackArrows(points, count = 22) {
+  if (points.length < 4) return [];
+  const step = Math.max(2, Math.floor(points.length / count));
+  const arrows = [];
+  for (let i = step; i < points.length - 1; i += step) {
+    const lookback = Math.min(Math.floor(step / 2), i);
+    const angle = bearingBetween(points[i - lookback], points[i]);
+    arrows.push({ pos: [points[i].lat, points[i].lng], angle });
+  }
+  return arrows;
+}
+
+function makeArrowIcon(angle, color) {
+  return L.divIcon({
+    className: '',
+    html: `<svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg">
+      <path d="M7 1 L11.5 12 L7 8.5 L2.5 12 Z"
+        fill="${color}" fill-opacity="0.85" stroke="white" stroke-width="0.8"
+        transform="rotate(${Math.round(angle)}, 7, 7)" />
+    </svg>`,
+    iconSize: [14, 14],
+    iconAnchor: [7, 7],
+  });
+}
+
+// ─── Spot marker icons ────────────────────────────────────────────────────────
+
+function makeSpotIcon(spot, isMine) {
+  const type = spot.location_type || 'photo';
+  const isPhoto = type === 'photo';
+  const cfg = LOCATION_TYPES[type];
+
+  if (isPhoto) {
+    // Photo spot: rectangular badge with name
+    const bg = isMine ? '#1C2B6B' : '#6b7280';
+    const opacity = isMine ? 1 : 0.75;
+    return L.divIcon({
+      className: '',
+      html: `<div style="
+        background:${bg};color:#fff;opacity:${opacity};
+        border:2px solid #fff;border-radius:6px;
+        padding:2px 6px;font-size:10px;font-weight:800;
+        white-space:nowrap;line-height:1.3;
+        box-shadow:0 1px 5px rgba(0,0,0,0.3);
+      ">${spot.name || '?'}</div>`,
+      iconAnchor: [0, 24],
+      iconSize: null,
+    });
+  }
+
+  // General spot: round badge with emoji
+  const emoji = cfg?.emoji || '📍';
+  const bg = cfg?.color || '#2196F3';
+  return L.divIcon({
+    className: '',
+    html: `<div style="
+      background:${bg};color:#fff;
+      border:2px solid #fff;border-radius:999px;
+      width:28px;height:28px;display:flex;align-items:center;justify-content:center;
+      font-size:13px;line-height:1;
+      box-shadow:0 1px 5px rgba(0,0,0,0.3);
+    ">${emoji}</div>`,
+    iconAnchor: [14, 14],
+    iconSize: [28, 28],
+  });
+}
+
+// ─── GPS location icon ────────────────────────────────────────────────────────
+
 // Build SVG location icon — dot + optional directional cone
 function makeLocationIcon(heading) {
   const hasHeading = heading !== null && heading !== undefined;
@@ -333,16 +415,19 @@ function makeLocationIcon(heading) {
   });
 }
 
-function FitBounds({ spots }) {
+function FitBounds({ allSpots, gpxTracks }) {
   const map = useMap();
   useEffect(() => {
-    const coords = spots.filter((s) => s.latitude != null).map((s) => [s.latitude, s.longitude]);
-    if (coords.length === 1) {
-      map.setView(coords[0], 14);
-    } else if (coords.length > 1) {
-      map.fitBounds(coords, { padding: [24, 24] });
+    const spotCoords = allSpots.filter((s) => s.latitude != null).map((s) => [s.latitude, s.longitude]);
+    const trackCoords = gpxTracks.flatMap((t) => (t.points || []).map((p) => [p.lat, p.lng]));
+    const all = [...spotCoords, ...trackCoords];
+    if (all.length === 1) {
+      map.setView(all[0], 14);
+    } else if (all.length > 1) {
+      map.fitBounds(all, { padding: [20, 20] });
     }
-  }, [map, spots]);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);  // only on mount — don't re-fit when position updates
   return null;
 }
 
@@ -372,149 +457,165 @@ function CenterOnMe({ position }) {
 }
 
 function headingLabel(deg) {
-  const dirs = ['N','NE','E','SE','S','SW','W','NW','N'];
+  const dirs = ['N', 'NE', 'E', 'SE', 'S', 'SW', 'W', 'NW'];
   return dirs[Math.round(deg / 45) % 8];
 }
 
-function SpotsMap({ spots }) {
+const TILES = {
+  street:    { url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',                                                               attr: '© OpenStreetMap' },
+  satellite: { url: 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', attr: '© Esri' },
+};
+
+/** mySpotIds: Set of spot IDs belonging to this photographer */
+function SpotsMap({ allSpots, mySpotIds, gpxTracks }) {
   const [layer, setLayer] = useState('street');
   const [myPos, setMyPos] = useState(null);
   const [heading, setHeading] = useState(null);
   const [geoError, setGeoError] = useState(false);
   const [needsCompassPerm, setNeedsCompassPerm] = useState(false);
-  const validSpots = spots.filter((s) => s.latitude != null);
 
-  // Live GPS tracking
+  const visibleSpots = allSpots.filter((s) => s.latitude != null);
+  const hasContent = visibleSpots.length > 0 || gpxTracks.some((t) => t.points?.length > 1);
+  if (!hasContent) return null;
+
+  // Live GPS
   useEffect(() => {
     if (!navigator.geolocation) return;
-    const watchId = navigator.geolocation.watchPosition(
-      (pos) => setMyPos([pos.coords.latitude, pos.coords.longitude]),
+    const id = navigator.geolocation.watchPosition(
+      (p) => setMyPos([p.coords.latitude, p.coords.longitude]),
       () => setGeoError(true),
       { enableHighAccuracy: true, maximumAge: 5000, timeout: 10000 },
     );
-    return () => navigator.geolocation.clearWatch(watchId);
+    return () => navigator.geolocation.clearWatch(id);
   }, []);
 
-  // Compass / heading tracking
+  // Compass
   useEffect(() => {
-    function handleOrientation(e) {
-      // iOS: webkitCompassHeading (degrees clockwise from north, 0-360)
-      // Android: alpha (degrees counterclockwise from north → convert)
+    function onOrientation(e) {
       const h = e.webkitCompassHeading != null
         ? e.webkitCompassHeading
-        : e.alpha != null
-          ? (360 - e.alpha + (screen.orientation?.angle ?? 0)) % 360
-          : null;
+        : e.alpha != null ? (360 - e.alpha + (screen.orientation?.angle ?? 0)) % 360 : null;
       if (h != null) setHeading(Math.round(h));
     }
-
     if (typeof DeviceOrientationEvent?.requestPermission === 'function') {
-      // iOS 13+ — needs user gesture; show button
       setNeedsCompassPerm(true);
     } else {
-      window.addEventListener('deviceorientation', handleOrientation, true);
+      window.addEventListener('deviceorientation', onOrientation, true);
+      return () => window.removeEventListener('deviceorientation', onOrientation, true);
     }
-    return () => window.removeEventListener('deviceorientation', handleOrientation, true);
   }, []);
 
   async function requestCompassPerm() {
     try {
-      const state = await DeviceOrientationEvent.requestPermission();
-      if (state === 'granted') {
+      if ((await DeviceOrientationEvent.requestPermission()) === 'granted') {
         setNeedsCompassPerm(false);
         window.addEventListener('deviceorientation', (e) => {
-          const h = e.webkitCompassHeading != null ? e.webkitCompassHeading : null;
+          const h = e.webkitCompassHeading ?? null;
           if (h != null) setHeading(Math.round(h));
         }, true);
       }
-    } catch {
-      setNeedsCompassPerm(false);
-    }
+    } catch { setNeedsCompassPerm(false); }
   }
 
-  if (!validSpots.length) return null;
-
-  const tiles = {
-    street: {
-      url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
-      attribution: '© OpenStreetMap contributors',
-    },
-    satellite: {
-      url: 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
-      attribution: '© Esri',
-    },
-  };
+  const fallbackCenter = visibleSpots[0]
+    ? [visibleSpots[0].latitude, visibleSpots[0].longitude]
+    : gpxTracks[0]?.points?.[0]
+      ? [gpxTracks[0].points[0].lat, gpxTracks[0].points[0].lng]
+      : [51.5, 10];
 
   return (
     <div className="rounded-2xl overflow-hidden border border-gray-200 shadow-sm">
       {/* Layer toggle */}
       <div className="flex border-b border-gray-100 bg-white">
         {[['street', '🗺️ Map'], ['satellite', '🛰️ Satellite']].map(([k, label]) => (
-          <button
-            key={k}
-            type="button"
-            onClick={() => setLayer(k)}
-            className={`flex-1 py-2 text-xs font-bold transition-colors ${
-              layer === k ? 'bg-[#1C2B6B] text-white' : 'text-gray-500 hover:bg-gray-50'
-            }`}
-          >
+          <button key={k} type="button" onClick={() => setLayer(k)}
+            className={`flex-1 py-2 text-xs font-bold transition-colors ${layer === k ? 'bg-[#1C2B6B] text-white' : 'text-gray-500 hover:bg-gray-50'}`}>
             {label}
           </button>
         ))}
       </div>
-      <MapContainer
-        style={{ height: 260, width: '100%' }}
-        zoom={13}
-        center={[validSpots[0].latitude, validSpots[0].longitude]}
-        zoomControl={false}
-        attributionControl={false}
-        scrollWheelZoom={false}
-      >
-        <TileLayer key={layer} url={tiles[layer].url} attribution={tiles[layer].attribution} />
-        <FitBounds spots={validSpots} />
 
-        {/* Spot markers */}
-        {validSpots.map((spot, i) => (
-          <Marker key={spot.id || i} position={[spot.latitude, spot.longitude]}>
-            <Popup>
-              <div className="text-xs font-bold">{spot.name}</div>
-              {spot.time_from && (
-                <div className="text-xs text-gray-500">
-                  {formatTimeShort(spot.time_from)}–{formatTimeShort(spot.time_to)}
-                </div>
-              )}
-            </Popup>
-          </Marker>
-        ))}
+      <MapContainer style={{ height: 300, width: '100%' }} zoom={13} center={fallbackCenter}
+        zoomControl={false} attributionControl={false} scrollWheelZoom={false}>
+        <TileLayer key={layer} url={TILES[layer].url} attribution={TILES[layer].attr} />
+        <FitBounds allSpots={visibleSpots} gpxTracks={gpxTracks} />
 
-        {/* Own position — dot + directional cone */}
+        {/* GPX Tracks — polyline + directional arrows */}
+        {gpxTracks.map((track, ti) => {
+          const color = TRACK_COLORS[ti % TRACK_COLORS.length];
+          const pts = (track.points || []).map((p) => [p.lat, p.lng]);
+          const arrows = trackArrows(track.points || []);
+          return (
+            <React.Fragment key={track.name + ti}>
+              <Polyline positions={pts} color={color} weight={3} opacity={0.8} />
+              {arrows.map((a, ai) => (
+                <Marker key={ai} position={a.pos} icon={makeArrowIcon(a.angle, color)} />
+              ))}
+            </React.Fragment>
+          );
+        })}
+
+        {/* All spots — navy for mine, gray for others, emoji for general */}
+        {visibleSpots.map((spot, i) => {
+          const isMine = mySpotIds ? mySpotIds.has(spot.id) : true;
+          const type = spot.location_type || 'photo';
+          const isPhoto = type === 'photo';
+          return (
+            <Marker key={spot.id || i} position={[spot.latitude, spot.longitude]}
+              icon={makeSpotIcon(spot, isMine)}>
+              <Popup>
+                <div className="text-xs font-bold">{spot.name}</div>
+                {isPhoto && !isMine && (
+                  <div className="text-[10px] text-gray-400">Other photographer</div>
+                )}
+                {(spot.time_from || spot.time_to) && (
+                  <div className="text-xs text-gray-500">
+                    {formatTimeShort(spot.time_from)}–{formatTimeShort(spot.time_to)}
+                  </div>
+                )}
+                {spot.notes && <div className="text-xs text-gray-500 mt-0.5">{spot.notes}</div>}
+              </Popup>
+            </Marker>
+          );
+        })}
+
+        {/* Own GPS position */}
         {myPos && (
           <Marker position={myPos} icon={makeLocationIcon(heading)}>
             <Popup>
               <div className="text-xs font-bold">📍 Your position</div>
               {heading !== null && (
-                <div className="text-xs text-gray-500">{Math.round(heading)}° {headingLabel(heading)}</div>
+                <div className="text-xs text-gray-500">{heading}° {headingLabel(heading)}</div>
               )}
             </Popup>
           </Marker>
         )}
 
-        {/* Center-on-me button */}
         <CenterOnMe position={myPos} />
       </MapContainer>
 
-      {/* iOS compass permission */}
+      {/* Legend */}
+      <div className="flex items-center gap-3 bg-white px-3 py-1.5 text-[10px] text-gray-400 flex-wrap">
+        <span className="flex items-center gap-1">
+          <span className="inline-block h-2.5 w-2.5 rounded bg-[#1C2B6B]" /> My spots
+        </span>
+        <span className="flex items-center gap-1">
+          <span className="inline-block h-2.5 w-2.5 rounded bg-gray-400" /> Other photographers
+        </span>
+        {gpxTracks.map((t, i) => (
+          <span key={i} className="flex items-center gap-1">
+            <span className="inline-block h-0.5 w-4 rounded" style={{ background: TRACK_COLORS[i % TRACK_COLORS.length] }} />
+            {t.name || `Route ${i + 1}`}
+          </span>
+        ))}
+      </div>
+
       {needsCompassPerm && myPos && (
-        <button
-          type="button"
-          onClick={requestCompassPerm}
-          className="flex w-full items-center justify-center gap-2 bg-[#f0f2fa] px-3 py-2 text-xs font-bold text-[#1C2B6B] hover:bg-[#e4e8f5] transition-colors"
-        >
+        <button type="button" onClick={requestCompassPerm}
+          className="flex w-full items-center justify-center gap-2 bg-[#f0f2fa] px-3 py-2 text-xs font-bold text-[#1C2B6B] hover:bg-[#e4e8f5] transition-colors">
           🧭 Enable compass direction
         </button>
       )}
-
-      {/* Geo error hint */}
       {geoError && (
         <div className="bg-amber-50 px-3 py-1.5 text-[10px] text-amber-700 text-center">
           ⚠️ Location access denied — enable in browser settings
@@ -749,10 +850,12 @@ export function TacticDetail({ onOpenCheckIn }) {
         <ProfileCard profile={profile} spotCount={mySpots.length} />
       )}
 
-      {/* Spots map */}
-      {mySpots.some((s) => s.latitude != null) && (
-        <SpotsMap spots={mySpots} />
-      )}
+      {/* Spots map — all spots + GPX tracks */}
+      <SpotsMap
+        allSpots={spots}
+        mySpotIds={mySpotIds ?? null}
+        gpxTracks={entry?.pkg?.tactic?.gpxTracks ?? []}
+      />
 
       {/* Weather briefing */}
       <WeatherBriefing event={event} spots={mySpots.length > 0 ? mySpots : spots} />
