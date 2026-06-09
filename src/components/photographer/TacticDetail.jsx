@@ -3,6 +3,7 @@ import { usePhotographerStore } from '../../store/usePhotographerStore';
 import { useMyProfile } from '../../hooks/useMyProfile';
 import { formatTimeShort } from '../../lib/timeConflict';
 import { findAllCameraSettings } from '../../lib/cameraSettings';
+import { useWeather, wmoToEmoji, getPhotoTips } from '../../hooks/useWeather';
 
 // ─── Navigation options ───────────────────────────────────────────────────────
 
@@ -242,6 +243,147 @@ function SpotCard({ spot, index }) {
   );
 }
 
+// ─── Weather briefing ─────────────────────────────────────────────────────────
+
+function WeatherBriefing({ event, spots }) {
+  const [expanded, setExpanded] = useState(false);
+
+  // Use event location or first spot with coords
+  const lat = event?.latitude ?? event?.lat ?? spots.find((s) => s.latitude != null)?.latitude;
+  const lon = event?.longitude ?? event?.lon ?? spots.find((s) => s.longitude != null)?.longitude;
+  // Support both date field names
+  const dateStr = event?.date || event?.eventDate || null;
+
+  const { weather, loading, error } = useWeather(lat, lon, dateStr);
+
+  if (!dateStr) return null; // no date, can't show weather
+  if (!lat || !lon) return null; // no location
+
+  const diffDays = (new Date(dateStr) - new Date()) / 86400000;
+  if (diffDays < -1 || diffDays > 16) {
+    // Out of forecast range
+    return (
+      <div className="rounded-2xl border border-gray-100 bg-gray-50 px-4 py-3 text-xs text-gray-400">
+        🌤️ Weather forecast only available within 16 days of the event.
+      </div>
+    );
+  }
+
+  if (loading) {
+    return (
+      <div className="rounded-2xl border border-gray-100 bg-gray-50 px-4 py-3 text-xs text-gray-400 flex items-center gap-2">
+        <span className="animate-spin inline-block">🌀</span> Loading weather…
+      </div>
+    );
+  }
+
+  if (error || !weather) return null;
+
+  const { daily, hourly } = weather;
+  const { icon, label } = wmoToEmoji(daily.weathercode);
+
+  // Filter hourly to event time window (roughly); time_from/to are "HH:MM"
+  const parseHour = (t) => t ? parseInt(t.split(':')[0], 10) : NaN;
+  const timeFroms = spots.map((s) => parseHour(s.time_from)).filter((n) => !isNaN(n));
+  const timeTos = spots.map((s) => parseHour(s.time_to)).filter((n) => !isNaN(n));
+  const startHour = timeFroms.length ? Math.min(...timeFroms) : 6;
+  const endHour = timeTos.length ? Math.max(...timeTos) : 18;
+  const window = hourly.filter((h) => h.hour >= startHour && h.hour <= endHour);
+  const tips = getPhotoTips(daily, window);
+
+  // Group hourly for small chart (every 2h within window ±2)
+  const chartHours = hourly.filter((h) => h.hour >= Math.max(0, startHour - 1) && h.hour <= Math.min(23, endHour + 1));
+
+  return (
+    <div className="rounded-2xl border border-blue-100 bg-gradient-to-br from-blue-50 to-indigo-50 overflow-hidden">
+      {/* Header */}
+      <button
+        type="button"
+        onClick={() => setExpanded((v) => !v)}
+        className="flex w-full items-center gap-3 p-4 text-left"
+      >
+        <span className="text-2xl leading-none">{icon}</span>
+        <div className="flex-1 min-w-0">
+          <div className="text-xs font-bold uppercase tracking-wider text-[#1C2B6B]/50 mb-0.5">
+            Weather Briefing
+          </div>
+          <div className="flex items-baseline gap-2 flex-wrap">
+            <span className="font-extrabold text-[#1C2B6B]">
+              {Math.round(daily.tempMin)}°–{Math.round(daily.tempMax)}°C
+            </span>
+            <span className="text-xs text-[#1C2B6B]/70">{label}</span>
+            {daily.rain > 0 && (
+              <span className="text-xs text-blue-600 font-semibold">
+                💧 {daily.rain.toFixed(1)} mm
+              </span>
+            )}
+          </div>
+        </div>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          strokeWidth="2.5"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          className={`h-4 w-4 text-[#1C2B6B]/40 shrink-0 transition-transform ${expanded ? 'rotate-180' : ''}`}
+        >
+          <polyline points="6 9 12 15 18 9" />
+        </svg>
+      </button>
+
+      {expanded && (
+        <div className="border-t border-blue-100 px-4 pb-4 pt-3 space-y-3">
+          {/* Hourly chart (simple text table) */}
+          {chartHours.length > 0 && (
+            <div className="overflow-x-auto">
+              <div className="flex gap-2 min-w-max pb-1">
+                {chartHours.map((h) => {
+                  const { icon: hIcon } = wmoToEmoji(h.weathercode);
+                  return (
+                    <div key={h.hour} className="flex flex-col items-center gap-0.5 min-w-[36px]">
+                      <span className="text-[10px] font-bold text-[#1C2B6B]/50">{h.hour}:00</span>
+                      <span className="text-base leading-none">{hIcon}</span>
+                      <span className="text-[11px] font-bold text-[#1C2B6B]">{Math.round(h.temp)}°</span>
+                      {h.rain > 0 && (
+                        <span className="text-[9px] text-blue-500">💧{h.rain.toFixed(1)}</span>
+                      )}
+                      <span className="text-[9px] text-gray-400">{Math.round(h.windspeed)}km/h</span>
+                    </div>
+                  );
+                })}
+              </div>
+            </div>
+          )}
+
+          {/* Sunrise/Sunset */}
+          {(daily.sunrise || daily.sunset) && (
+            <div className="flex gap-3 text-xs text-[#1C2B6B]/70">
+              {daily.sunrise && (
+                <span>🌅 {new Date(daily.sunrise).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}</span>
+              )}
+              {daily.sunset && (
+                <span>🌇 {new Date(daily.sunset).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}</span>
+              )}
+            </div>
+          )}
+
+          {/* Photo tips */}
+          <div className="space-y-1.5">
+            <div className="text-[10px] font-bold uppercase tracking-wider text-[#1C2B6B]/40">
+              📸 Photo Tips
+            </div>
+            {tips.map((tip, i) => (
+              <div key={i} className="text-xs text-[#1C2B6B]/80 leading-snug">{tip}</div>
+            ))}
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
+
 // ─── Main view ────────────────────────────────────────────────────────────────
 
 export function TacticDetail({ onOpenCheckIn }) {
@@ -258,7 +400,7 @@ export function TacticDetail({ onOpenCheckIn }) {
   // Compute my spots locally to avoid selector returning new array on every render
   const spots = entry?.pkg?.tactic?.spots ?? [];
   const photographers = entry?.pkg?.photographers ?? [];
-  const assignments = entry?.pkg?.assignments ?? [];
+  const assignments = entry?.pkg?.tactic?.assignments ?? [];
   const ph = photographers.find(
     (p) => p.code === acronym || p.code === acronym?.replace(/\d+$/, ''),
   );
@@ -317,6 +459,9 @@ export function TacticDetail({ onOpenCheckIn }) {
       {isMatched && profile && (
         <ProfileCard profile={profile} spotCount={mySpots.length} />
       )}
+
+      {/* Weather briefing */}
+      <WeatherBriefing event={event} spots={mySpots.length > 0 ? mySpots : spots} />
 
       {/* Not matched hint */}
       {!isMatched && acronym && (

@@ -17,7 +17,7 @@ function TacticCard({ entry, onOpen, onDelete }) {
   // Compute my spots locally — never call store functions as selectors (returns new array = infinite loop)
   const spots = pkg?.tactic?.spots ?? [];
   const photographers = pkg?.photographers ?? [];
-  const assignments = pkg?.assignments ?? [];
+  const assignments = pkg?.tactic?.assignments ?? [];
   const ph = photographers.find(
     (p) => p.code === acronym || p.code === acronym?.replace(/\d+$/, ''),
   );
