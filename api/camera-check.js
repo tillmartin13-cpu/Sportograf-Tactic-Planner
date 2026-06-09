@@ -26,7 +26,7 @@ Rules:
 - status = "accepted" if all critical checks pass and no warnings
 - uploadNewPhoto = true if the image is unreadable, not a camera display, too blurry, or critical info cannot be determined
 - Time check: look for the clock/time display on camera LCD. It must show a plausible current time. If you cannot read it, mark unreadable.
-- Date check: must show correct day, month, and year. Watch for year errors (e.g. 2012, 0001 are wrong).
+- Date check: read the date directly from the camera display. Accept it if it shows a plausible date (year between 2024 and 2030, valid day and month). Only fail if the year is clearly wrong (e.g. 2001, 0001, 1970) or the date is unreadable. Do NOT compare against any external reference date or your training cutoff — trust what the display shows.
 - Format check: must be JPG. Shown as "NORMAL", "STANDARD", "FINE S", "L" etc depending on brand. RAW or RAW+JPEG = failed. The finest JPG option (FINE L on Nikon, etc.) should also be flagged.
 - cardImages check: if the display shows a frame counter with remaining shots and it looks like there are existing images (e.g. frame counter is not at maximum, or file number is not 0001), warn that the card may not be formatted.
 - pictureStyle: look for "Neutral", "Standard", "Picture Control" settings. Warn if saturated style detected.
@@ -57,11 +57,6 @@ export default async function handler(req) {
     const base64 = image.includes(',') ? image.split(',')[1] : image;
     if (!base64 || base64.length < 100) return json({ error: 'Image data too short / corrupt' }, 400);
 
-    // Use client-supplied date (reliable) or fall back to server time
-    const todayStr = currentDate ?? new Date().toISOString().slice(0, 10);
-    const [yyyy, mm, dd] = todayStr.split('-');
-    const dateContext = `Today's date is ${dd}.${mm}.${yyyy} (day.month.year). Use this as the reference for the date check — do NOT rely on your training data cutoff for what year/date it is.`;
-
     const cameraContext = cameraModel
       ? `The photographer is using a ${cameraModel}. Expected settings: Image Size = "${expectedImageSize}", JPEG quality = "${expectedJpeg}". Verify against these exact values.`
       : 'Camera model is unknown. Accept any reasonable JPG setting that is not RAW and not the finest quality option.';
@@ -81,7 +76,7 @@ export default async function handler(req) {
           role: 'user',
           content: [
             { type: 'image', source: { type: 'base64', media_type: 'image/jpeg', data: base64 } },
-            { type: 'text', text: `${dateContext} ${cameraContext} Analyze this camera display and return only JSON.` },
+            { type: 'text', text: `${cameraContext} Analyze this camera display and return only JSON.` },
           ],
         }],
       }),
