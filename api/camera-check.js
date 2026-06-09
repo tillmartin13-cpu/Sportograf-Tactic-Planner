@@ -1,4 +1,4 @@
-export const config = { runtime: 'edge', maxDuration: 30 };
+export const config = { maxDuration: 30 };
 
 const SYSTEM_PROMPT = `You are a camera settings verification assistant for sports photographers.
 You analyze photos of camera LCD displays and determine if the settings are correct for a Sportograf event.
@@ -30,44 +30,45 @@ Rules:
 - Date check: read the date directly from the camera display. Accept it if it shows a plausible date (year between 2024 and 2030, valid day and month). Only fail if the year is clearly wrong (e.g. 2001, 0001, 1970) or the date is unreadable. Do NOT compare against any external reference date — trust what the display shows.
 - Format check: must be JPG. Shown as "NORMAL", "STANDARD", "FINE S", "L" etc depending on brand. RAW or RAW+JPEG = failed. The finest JPG option (FINE L on Nikon, etc.) should also be flagged.
 - Shutter speed check: look for the shutter speed value on the display (shown as e.g. "1/500", "1/1000", "500", "1000"). Extract the denominator as a number.
-  - If shutter speed < 1/500 (e.g. 1/250, 1/100): status = "failed", add to declineReasons: "Verschlusszeit zu langsam (${detected}) — mindestens 1/500s erforderlich."
-  - If shutter speed is 1/500 to 1/999: status = "warning", add to warnings: "Verschlusszeit (${detected}) könnte zu langsam sein — 1/1000s oder schneller empfohlen."
+  - If shutter speed < 1/500 (e.g. 1/250, 1/100): status = "failed", add to declineReasons: "Verschlusszeit zu langsam — mindestens 1/500s erforderlich."
+  - If shutter speed is 1/500 to 1/999: status = "warning", add to warnings: "Verschlusszeit koennte zu langsam sein — 1/1000s oder schneller empfohlen."
   - If shutter speed >= 1/1000: status = "ok"
-  - If not visible on this screen / camera is in a mode that doesn't show shutter speed: status = "unreadable", message = "Verschlusszeit nicht ablesbar — bitte im Aufnahmemodus fotografieren."
-- cardImages check: if the display shows a frame counter with remaining shots and it looks like there are existing images (e.g. frame counter is not at maximum, or file number is not 0001), warn that the card may not be formatted.
+  - If not visible on this screen: status = "unreadable", message = "Verschlusszeit nicht ablesbar — bitte im Aufnahmemodus fotografieren."
+- cardImages check: if the display shows a frame counter and it looks like there are existing images, warn that the card may not be formatted.
 - pictureStyle: look for "Neutral", "Standard", "Picture Control" settings. Warn if saturated style detected.
 - If the image does not show a camera display at all, set uploadNewPhoto=true and decline.`;
 
-export default async function handler(req) {
-  // Top-level try-catch so Vercel never returns a silent HTML 500
-  try {
-    if (req.method !== 'POST') {
-      return json({ error: 'Method not allowed' }, 405);
-    }
+export default async function handler(req, res) {
+  // Only POST
+  if (req.method !== 'POST') {
+    return res.status(405).json({ error: 'Method not allowed' });
+  }
 
+  try {
     const apiKey = process.env.ANTHROPIC_API_KEY;
     if (!apiKey) {
-      return json({ error: 'API key not configured on server' }, 500);
+      return res.status(500).json({ error: 'API key not configured on server' });
     }
 
-    let body;
-    try {
-      body = await req.json();
-    } catch {
-      return json({ error: 'Invalid JSON body' }, 400);
+    const { image, cameraModel, expectedImageSize, expectedJpeg } = req.body;
+
+    if (!image) {
+      return res.status(400).json({ error: 'No image provided' });
     }
 
-    const { image, mediaType = 'image/jpeg', cameraModel, expectedImageSize, expectedJpeg, currentDate } = body;
-    if (!image) return json({ error: 'No image provided' }, 400);
+    const base64 = typeof image === 'string' && image.includes(',')
+      ? image.split(',')[1]
+      : image;
 
-    const base64 = image.includes(',') ? image.split(',')[1] : image;
-    if (!base64 || base64.length < 100) return json({ error: 'Image data too short / corrupt' }, 400);
+    if (!base64 || base64.length < 100) {
+      return res.status(400).json({ error: 'Image data too short or corrupt' });
+    }
 
     const cameraContext = cameraModel
       ? `The photographer is using a ${cameraModel}. Expected settings: Image Size = "${expectedImageSize}", JPEG quality = "${expectedJpeg}". Verify against these exact values.`
       : 'Camera model is unknown. Accept any reasonable JPG setting that is not RAW and not the finest quality option.';
 
-    const anthropicResponse = await fetch('https://api.anthropic.com/v1/messages', {
+    const anthropicRes = await fetch('https://api.anthropic.com/v1/messages', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -88,13 +89,16 @@ export default async function handler(req) {
       }),
     });
 
-    if (!anthropicResponse.ok) {
-      const errText = await anthropicResponse.text().catch(() => '');
-      console.error('Anthropic API error', anthropicResponse.status, errText);
-      return json({ error: `Anthropic ${anthropicResponse.status}`, detail: errText.slice(0, 300) }, 502);
+    if (!anthropicRes.ok) {
+      const errText = await anthropicRes.text().catch(() => '');
+      console.error('Anthropic error', anthropicRes.status, errText);
+      return res.status(502).json({
+        error: `Anthropic API error ${anthropicRes.status}`,
+        detail: errText.slice(0, 300),
+      });
     }
 
-    const data = await anthropicResponse.json();
+    const data = await anthropicRes.json();
     const content = data.content?.[0]?.text ?? '';
 
     let result;
@@ -111,20 +115,13 @@ export default async function handler(req) {
       };
     }
 
-    return json(result, 200);
+    return res.status(200).json(result);
 
   } catch (err) {
-    // Catch-all — ensures we always return JSON, never a Vercel HTML error page
-    const detail = String(err?.message ?? err);
-    const stack = String(err?.stack ?? '').slice(0, 300);
-    console.error('camera-check unhandled error:', detail, stack);
-    return json({ error: 'Internal server error', detail: detail.slice(0, 300), stack: stack }, 500);
+    console.error('camera-check error:', err);
+    return res.status(500).json({
+      error: 'Internal server error',
+      detail: String(err?.message ?? err).slice(0, 300),
+    });
   }
-}
-
-function json(data, status = 200) {
-  return new Response(JSON.stringify(data), {
-    status,
-    headers: { 'Content-Type': 'application/json' },
-  });
 }
