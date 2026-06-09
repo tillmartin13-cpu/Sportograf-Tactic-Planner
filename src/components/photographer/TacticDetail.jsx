@@ -1,4 +1,5 @@
-import React, { useState, useEffect, useRef, useMemo } from 'react';
+import React, { useState, useEffect, useRef, useMemo, useCallback } from 'react';
+import { createPortal } from 'react-dom';
 import { MapContainer, TileLayer, Marker, Polyline, Popup, useMap } from 'react-leaflet';
 import { TRACK_COLORS } from '../../lib/locationTypes';
 import { buildSpotMarkerHtml } from '../../lib/spotMarkerHtml';
@@ -63,7 +64,7 @@ const VIEW_OPTIONS = (lat, lng) => [
     id: 'streetview',
     label: 'Street View',
     img: '/streetview.png',
-    url: `https://www.google.com/maps?q=&layer=c&cbll=${lat},${lng}`,
+    url: `https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=${lat},${lng}`,
   },
   {
     id: 'mapillary',
@@ -82,30 +83,72 @@ function openExternal(url) {
 
 function NavigateButton({ lat, lng }) {
   const [open, setOpen] = useState(false);
-  const ref = useRef(null);
-
-  useEffect(() => {
-    if (!open) return;
-    // Use touchend (not touchstart) — touchstart fires before tap completes
-    // and closes the dropdown before the user can select an option
-    function handler(e) {
-      if (ref.current && !ref.current.contains(e.target)) setOpen(false);
-    }
-    document.addEventListener('mousedown', handler);
-    document.addEventListener('touchend', handler);
-    return () => {
-      document.removeEventListener('mousedown', handler);
-      document.removeEventListener('touchend', handler);
-    };
-  }, [open]);
+  const [dropRect, setDropRect] = useState(null);
+  const btnRef = useRef(null);
 
   const options = navOptions(lat, lng);
 
+  function handleToggle() {
+    if (!open && btnRef.current) {
+      const r = btnRef.current.getBoundingClientRect();
+      setDropRect({ top: r.bottom + 4, left: r.left });
+    }
+    setOpen((v) => !v);
+  }
+
+  // Close on outside tap
+  useEffect(() => {
+    if (!open) return;
+    function handler(e) {
+      if (btnRef.current && btnRef.current.contains(e.target)) return;
+      setOpen(false);
+    }
+    document.addEventListener('touchend', handler);
+    document.addEventListener('mousedown', handler);
+    return () => {
+      document.removeEventListener('touchend', handler);
+      document.removeEventListener('mousedown', handler);
+    };
+  }, [open]);
+
+  const dropdown = open && dropRect && createPortal(
+    <div
+      style={{
+        position: 'fixed',
+        top: dropRect.top,
+        left: dropRect.left,
+        zIndex: 99999,
+        width: 192,
+      }}
+      className="overflow-hidden rounded-2xl border border-gray-100 bg-white shadow-2xl"
+    >
+      {options.map((opt) => (
+        <button
+          key={opt.id}
+          type="button"
+          onPointerDown={(e) => {
+            e.stopPropagation();
+            setOpen(false);
+            openExternal(opt.url);
+          }}
+          className="flex w-full items-center gap-3 px-4 py-3 text-sm font-semibold text-gray-700 active:bg-[#f0f2fa]"
+        >
+          <span className="flex h-6 w-6 shrink-0 items-center justify-center overflow-hidden rounded">
+            <img src={opt.img} alt={opt.label} className={opt.imgClass} />
+          </span>
+          {opt.label}
+        </button>
+      ))}
+    </div>,
+    document.body,
+  );
+
   return (
-    <div ref={ref} className="relative">
+    <>
       <button
+        ref={btnRef}
         type="button"
-        onClick={() => setOpen((v) => !v)}
+        onClick={handleToggle}
         className="flex w-full flex-col items-center justify-center gap-1 py-2.5 text-[10px] font-semibold text-gray-500 hover:bg-[#f0f2fa] hover:text-[#1C2B6B] transition-colors active:bg-[#f0f2fa]"
       >
         <span className="flex items-center gap-1">
@@ -116,25 +159,8 @@ function NavigateButton({ lat, lng }) {
         </span>
         Navigate
       </button>
-
-      {open && (
-        <div className="absolute right-0 top-full z-50 mt-1 w-44 overflow-hidden rounded-2xl border border-gray-100 bg-white shadow-xl">
-          {options.map((opt) => (
-            <button
-              key={opt.id}
-              type="button"
-              onClick={() => { setOpen(false); openExternal(opt.url); }}
-              className="flex w-full items-center gap-3 px-4 py-3 text-sm font-semibold text-gray-700 hover:bg-[#f0f2fa] hover:text-[#1C2B6B] transition-colors active:bg-[#f0f2fa]"
-            >
-              <span className="flex h-6 w-6 shrink-0 items-center justify-center overflow-hidden rounded">
-                <img src={opt.img} alt={opt.label} className={opt.imgClass} />
-              </span>
-              {opt.label}
-            </button>
-          ))}
-        </div>
-      )}
-    </div>
+      {dropdown}
+    </>
   );
 }
 
@@ -519,24 +545,51 @@ function SpotsMap({ allSpots, mySpotIds, gpxTracks }) {
         {/* All spots — same marker style as planning map */}
         {visibleSpots.map((spot, i) => {
           const isMine = mySpotIds ? mySpotIds.has(spot.id) : true;
+          const lat = spot.latitude, lng = spot.longitude;
+          const svUrl = `https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=${lat},${lng}`;
+          const mapUrl = `https://www.mapillary.com/app/?lat=${lat}&lng=${lng}&z=17`;
+          const navOpts = navOptions(lat, lng);
           return (
             <Marker
               key={spot.id || i}
-              position={[spot.latitude, spot.longitude]}
+              position={[lat, lng]}
               icon={makeSpotMarkerIcon(spot, i + 1, isMine)}
               zIndexOffset={isMine ? 500 : 100}
             >
-              <Popup>
-                <div className="text-xs font-bold text-[#1C2B6B]">{spot.name}</div>
-                {!isMine && (spot.location_type === 'photo' || !spot.location_type) && (
-                  <div className="text-[10px] text-gray-400">Other photographer</div>
-                )}
-                {(spot.time_from || spot.time_to) && (
-                  <div className="text-xs text-[#5b6aa8] mt-0.5">
-                    {formatTimeShort(spot.time_from)}–{formatTimeShort(spot.time_to)}
+              <Popup minWidth={200}>
+                <div style={{ fontFamily: 'system-ui', fontSize: 13 }}>
+                  <div style={{ fontWeight: 800, color: '#1C2B6B', marginBottom: 2 }}>{spot.name}</div>
+                  {!isMine && (spot.location_type === 'photo' || !spot.location_type) && (
+                    <div style={{ fontSize: 10, color: '#9ca3af', marginBottom: 2 }}>Other photographer</div>
+                  )}
+                  {(spot.time_from || spot.time_to) && (
+                    <div style={{ fontSize: 11, color: '#5b6aa8', marginBottom: 4 }}>
+                      {formatTimeShort(spot.time_from)}–{formatTimeShort(spot.time_to)}
+                    </div>
+                  )}
+                  {spot.notes && (
+                    <div style={{ fontSize: 11, color: '#6b7280', marginBottom: 6 }}>{spot.notes}</div>
+                  )}
+                  {/* Actions */}
+                  <div style={{ display: 'flex', gap: 6, marginTop: 6, flexWrap: 'wrap' }}>
+                    <button onClick={() => openExternal(svUrl)}
+                      style={{ display:'flex', alignItems:'center', gap:4, background:'#f0f2fa', border:'none', borderRadius:8, padding:'5px 8px', fontSize:11, fontWeight:700, color:'#1C2B6B', cursor:'pointer' }}>
+                      <img src="/streetview.png" style={{ width:14, height:14, objectFit:'contain' }} alt="" /> Street View
+                    </button>
+                    <button onClick={() => openExternal(mapUrl)}
+                      style={{ display:'flex', alignItems:'center', gap:4, background:'#f0f2fa', border:'none', borderRadius:8, padding:'5px 8px', fontSize:11, fontWeight:700, color:'#1C2B6B', cursor:'pointer' }}>
+                      <img src="/mapillary.png" style={{ width:14, height:14, objectFit:'contain' }} alt="" /> Mapillary
+                    </button>
                   </div>
-                )}
-                {spot.notes && <div className="text-xs text-gray-500 mt-0.5">{spot.notes}</div>}
+                  <div style={{ display: 'flex', gap: 6, marginTop: 6, flexWrap: 'wrap' }}>
+                    {navOpts.map((opt) => (
+                      <button key={opt.id} onClick={() => openExternal(opt.url)}
+                        style={{ display:'flex', alignItems:'center', gap:4, background:'#f0f2fa', border:'none', borderRadius:8, padding:'5px 8px', fontSize:11, fontWeight:700, color:'#1C2B6B', cursor:'pointer' }}>
+                        <img src={opt.img} style={{ width:14, height:14, objectFit:'contain' }} alt="" /> {opt.label}
+                      </button>
+                    ))}
+                  </div>
+                </div>
               </Popup>
             </Marker>
           );
