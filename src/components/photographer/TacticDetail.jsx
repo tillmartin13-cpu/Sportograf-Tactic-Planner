@@ -20,19 +20,24 @@ function navOptions(lat, lng) {
     {
       id: 'googlemaps',
       label: 'Google Maps',
-      icon: '🗺️',
+      img: '/mymaps.png',
+      imgClass: 'h-6 w-6 object-contain',
       url: `https://www.google.com/maps/dir/?api=1&destination=${coord}&travelmode=driving`,
     },
     {
       id: 'waze',
       label: 'Waze',
-      icon: '🚗',
+      img: '/Waze_logo_2022.png',
+      // Wide logo — show only the ghost (right side) via object-right
+      imgClass: 'h-6 w-6 object-cover object-right',
       url: `https://waze.com/ul?ll=${coord}&navigate=yes`,
     },
     {
       id: 'komoot',
       label: 'Komoot',
-      icon: '🥾',
+      img: '/Komoot-logo-type.svg.png',
+      // Wide logo — show only the circle (left side) via object-left
+      imgClass: 'h-6 w-6 object-cover object-left',
       url: `https://www.komoot.com/plan/@${lat},${lng},15z`,
     },
   ];
@@ -41,7 +46,8 @@ function navOptions(lat, lng) {
     options.splice(1, 0, {
       id: 'applemaps',
       label: 'Apple Maps',
-      icon: '🍎',
+      img: '/Apple_Maps_iOS_26_icon.png',
+      imgClass: 'h-6 w-6 object-contain',
       url: `maps://maps.apple.com/?daddr=${coord}&dirflg=d`,
     });
   }
@@ -54,13 +60,13 @@ const VIEW_OPTIONS = (lat, lng) => [
   {
     id: 'streetview',
     label: 'Street View',
-    icon: '👀',
+    img: '/streetview.png',
     url: `https://www.google.com/maps?q=&layer=c&cbll=${lat},${lng}`,
   },
   {
     id: 'mapillary',
     label: 'Mapillary',
-    icon: '📸',
+    img: '/mapillary.png',
     url: `https://www.mapillary.com/app/?lat=${lat}&lng=${lng}&z=17`,
   },
 ];
@@ -98,12 +104,15 @@ function NavigateButton({ lat, lng }) {
       <button
         type="button"
         onClick={() => setOpen((v) => !v)}
-        className="flex w-full items-center justify-center gap-1.5 py-2.5 text-[11px] font-semibold text-[#1C2B6B] hover:bg-[#f0f2fa] transition-colors"
+        className="flex w-full flex-col items-center justify-center gap-1 py-2.5 text-[10px] font-semibold text-gray-500 hover:bg-[#f0f2fa] hover:text-[#1C2B6B] transition-colors active:bg-[#f0f2fa]"
       >
-        🧭 Navigate
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className={`h-3 w-3 transition-transform ${open ? 'rotate-180' : ''}`}>
-          <polyline points="6 9 12 15 18 9" />
-        </svg>
+        <span className="flex items-center gap-1">
+          <img src="/mymaps.png" alt="Navigate" className="h-5 w-5 object-contain" />
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className={`h-3 w-3 transition-transform ${open ? 'rotate-180' : ''}`}>
+            <polyline points="6 9 12 15 18 9" />
+          </svg>
+        </span>
+        Navigate
       </button>
 
       {open && (
@@ -113,9 +122,11 @@ function NavigateButton({ lat, lng }) {
               key={opt.id}
               type="button"
               onClick={() => { setOpen(false); openExternal(opt.url); }}
-              className="flex w-full items-center gap-2.5 px-4 py-3 text-sm font-semibold text-gray-700 hover:bg-[#f0f2fa] hover:text-[#1C2B6B] transition-colors"
+              className="flex w-full items-center gap-3 px-4 py-3 text-sm font-semibold text-gray-700 hover:bg-[#f0f2fa] hover:text-[#1C2B6B] transition-colors active:bg-[#f0f2fa]"
             >
-              <span className="text-base leading-none">{opt.icon}</span>
+              <span className="flex h-6 w-6 shrink-0 items-center justify-center overflow-hidden rounded">
+                <img src={opt.img} alt={opt.label} className={opt.imgClass} />
+              </span>
               {opt.label}
             </button>
           ))}
@@ -261,9 +272,10 @@ function SpotCard({ spot, index }) {
               key={opt.id}
               type="button"
               onClick={() => openExternal(opt.url)}
-              className="flex flex-1 items-center justify-center gap-1.5 py-2.5 text-[11px] font-semibold text-gray-500 hover:bg-[#f0f2fa] hover:text-[#1C2B6B] transition-colors border-r border-gray-100 active:bg-[#f0f2fa]"
+              className="flex flex-1 flex-col items-center justify-center gap-1 py-2.5 text-[10px] font-semibold text-gray-500 hover:bg-[#f0f2fa] hover:text-[#1C2B6B] transition-colors border-r border-gray-100 active:bg-[#f0f2fa]"
             >
-              <span>{opt.icon}</span> {opt.label}
+              <img src={opt.img} alt={opt.label} className="h-5 w-5 object-contain" />
+              {opt.label}
             </button>
           ))}
           {/* Navigate dropdown */}
