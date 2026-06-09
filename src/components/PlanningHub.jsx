@@ -52,9 +52,9 @@ export function PlanningHub({ title = 'Tactic Planner' }) {
         {activeView === 'hyrox' && event ? (
           <HyroxPlanner />
         ) : (
-          <div className="relative flex min-h-0 flex-1 flex-col gap-3 overflow-hidden p-3 lg:flex-row lg:gap-4 lg:p-4">
+          <div className="relative flex min-h-0 flex-1 flex-col gap-3 overflow-y-auto overflow-x-hidden p-3 lg:flex-row lg:overflow-hidden lg:gap-4 lg:p-4">
             {/* Map + spots */}
-            <div className="flex min-h-0 min-w-0 flex-1 flex-col gap-3 overflow-hidden">
+            <div className="flex min-h-0 min-w-0 flex-1 flex-col gap-3 lg:overflow-hidden">
               {event ? (
                 mapExpanded ? (
                   <div className="relative min-h-0 flex-1">
@@ -80,7 +80,7 @@ export function PlanningHub({ title = 'Tactic Planner' }) {
             {!mapExpanded && (
               <>
                 {/* Desktop */}
-                <div className="hidden lg:flex w-80 shrink-0 flex-col gap-4 overflow-y-auto">
+                <div className="hidden lg:flex w-80 shrink-0 flex-col gap-4 overflow-y-auto min-h-0">
                   {event ? (
                     <>
                       <PhotographersPanel />
