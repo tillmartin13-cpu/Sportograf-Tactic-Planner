@@ -141,9 +141,10 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
       if (onResult) onResult(data);
       if (data.status === 'accepted' && onAccepted) onAccepted();
     } catch (err) {
+      const rawMsg = err?.message ?? 'unbekannt';
       const msg = err?.name === 'AbortError'
         ? 'Zeitüberschreitung — bitte versuche es nochmal.'
-        : `Verbindungsfehler (${err?.message ?? 'unbekannt'}) — bitte versuche es nochmal.`;
+        : `Fehler: ${rawMsg}`;
       setError(msg);
     } finally {
       setLoading(false);

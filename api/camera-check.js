@@ -33,92 +33,90 @@ Rules:
 - If the image does not show a camera display at all, set uploadNewPhoto=true and decline.`;
 
 export default async function handler(req) {
-  if (req.method !== 'POST') {
-    return new Response(JSON.stringify({ error: 'Method not allowed' }), { status: 405 });
-  }
-
-  const apiKey = process.env.ANTHROPIC_API_KEY;
-  if (!apiKey) {
-    return new Response(JSON.stringify({ error: 'API key not configured' }), { status: 500 });
-  }
-
-  let body;
+  // Top-level try-catch so Vercel never returns a silent HTML 500
   try {
-    body = await req.json();
-  } catch {
-    return new Response(JSON.stringify({ error: 'Invalid request body' }), { status: 400 });
-  }
+    if (req.method !== 'POST') {
+      return json({ error: 'Method not allowed' }, 405);
+    }
 
-  const { image, mediaType = 'image/jpeg', cameraModel, expectedImageSize, expectedJpeg } = body;
-  if (!image) {
-    return new Response(JSON.stringify({ error: 'No image provided' }), { status: 400 });
-  }
+    const apiKey = process.env.ANTHROPIC_API_KEY;
+    if (!apiKey) {
+      return json({ error: 'API key not configured on server' }, 500);
+    }
 
-  const cameraContext = cameraModel
-    ? `The photographer is using a ${cameraModel}. Expected settings: Image Size = "${expectedImageSize}", JPEG quality = "${expectedJpeg}". Verify against these exact values.`
-    : 'Camera model is unknown. Accept any reasonable JPG setting that is not RAW and not the finest quality option.';
+    let body;
+    try {
+      body = await req.json();
+    } catch {
+      return json({ error: 'Invalid JSON body' }, 400);
+    }
 
-  // Strip data URL prefix if present
-  const base64 = image.includes(',') ? image.split(',')[1] : image;
+    const { image, mediaType = 'image/jpeg', cameraModel, expectedImageSize, expectedJpeg } = body;
+    if (!image) return json({ error: 'No image provided' }, 400);
 
-  const anthropicResponse = await fetch('https://api.anthropic.com/v1/messages', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'x-api-key': apiKey,
-      'anthropic-version': '2023-06-01',
-    },
-    body: JSON.stringify({
-      model: 'claude-haiku-4-5',
-      max_tokens: 1024,
-      system: SYSTEM_PROMPT,
-      messages: [
-        {
+    const base64 = image.includes(',') ? image.split(',')[1] : image;
+    if (!base64 || base64.length < 100) return json({ error: 'Image data too short / corrupt' }, 400);
+
+    const cameraContext = cameraModel
+      ? `The photographer is using a ${cameraModel}. Expected settings: Image Size = "${expectedImageSize}", JPEG quality = "${expectedJpeg}". Verify against these exact values.`
+      : 'Camera model is unknown. Accept any reasonable JPG setting that is not RAW and not the finest quality option.';
+
+    const anthropicResponse = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'x-api-key': apiKey,
+        'anthropic-version': '2023-06-01',
+      },
+      body: JSON.stringify({
+        model: 'claude-3-5-haiku-20241022',
+        max_tokens: 1024,
+        system: SYSTEM_PROMPT,
+        messages: [{
           role: 'user',
           content: [
-            {
-              type: 'image',
-              source: { type: 'base64', media_type: mediaType, data: base64 },
-            },
-            {
-              type: 'text',
-              text: `Please analyze this camera display photo and verify the settings. ${cameraContext} Return only the JSON response.`,
-            },
+            { type: 'image', source: { type: 'base64', media_type: 'image/jpeg', data: base64 } },
+            { type: 'text', text: `Analyze this camera display. ${cameraContext} Return only JSON.` },
           ],
-        },
-      ],
-    }),
-  });
+        }],
+      }),
+    });
 
-  if (!anthropicResponse.ok) {
-    const err = await anthropicResponse.text();
-    console.error('Anthropic error:', anthropicResponse.status, err);
-    return new Response(JSON.stringify({ error: 'AI service error', detail: err, status_code: anthropicResponse.status }), { status: 502 });
-  }
+    if (!anthropicResponse.ok) {
+      const errText = await anthropicResponse.text().catch(() => '');
+      console.error('Anthropic API error', anthropicResponse.status, errText);
+      return json({ error: `Anthropic ${anthropicResponse.status}`, detail: errText.slice(0, 300) }, 502);
+    }
 
-  const data = await anthropicResponse.json();
-  const content = data.content?.[0]?.text ?? '';
+    const data = await anthropicResponse.json();
+    const content = data.content?.[0]?.text ?? '';
 
-  let result;
-  try {
-    // Extract JSON even if model wraps it in backticks
-    const match = content.match(/\{[\s\S]*\}/);
-    result = JSON.parse(match ? match[0] : content);
-  } catch {
-    return new Response(
-      JSON.stringify({
+    let result;
+    try {
+      const match = content.match(/\{[\s\S]*\}/);
+      result = JSON.parse(match ? match[0] : content);
+    } catch {
+      result = {
         status: 'declined',
         uploadNewPhoto: true,
-        declineReasons: ['Das Bild konnte nicht ausgewertet werden. Bitte lade ein neues Foto hoch.'],
+        declineReasons: ['KI-Antwort konnte nicht ausgewertet werden. Bitte neues Foto hochladen.'],
         warnings: [],
         checks: {},
-      }),
-      { status: 200 },
-    );
-  }
+      };
+    }
 
-  return new Response(JSON.stringify(result), {
-    status: 200,
+    return json(result, 200);
+
+  } catch (err) {
+    // Catch-all — ensures we always return JSON, never a Vercel HTML error page
+    console.error('camera-check unhandled error:', err);
+    return json({ error: 'Internal server error', detail: String(err?.message ?? err).slice(0, 200) }, 500);
+  }
+}
+
+function json(data, status = 200) {
+  return new Response(JSON.stringify(data), {
+    status,
     headers: { 'Content-Type': 'application/json' },
   });
 }
