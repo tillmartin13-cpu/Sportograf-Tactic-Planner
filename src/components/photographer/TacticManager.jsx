@@ -10,8 +10,21 @@ function eventTypeIcon(pkg) {
 function TacticCard({ entry, onOpen, onDelete }) {
   const { pkg } = entry;
   const event = pkg?.event;
-  const mySpots = usePhotographerStore((s) => s.getMySpots(entry.id));
-  const isComplete = usePhotographerStore((s) => s.isCheckInComplete(entry.id));
+  const acronym = usePhotographerStore((s) => s.acronym);
+  const checkIn = usePhotographerStore((s) => s.checkIns[entry.id]);
+  const isComplete = !!checkIn?.completedAt;
+
+  // Compute my spots locally — never call store functions as selectors (returns new array = infinite loop)
+  const spots = pkg?.tactic?.spots ?? [];
+  const photographers = pkg?.photographers ?? [];
+  const assignments = pkg?.assignments ?? [];
+  const ph = photographers.find(
+    (p) => p.code === acronym || p.code === acronym?.replace(/\d+$/, ''),
+  );
+  const mySpotIds = ph
+    ? new Set(assignments.filter((a) => a.photographer_id === ph.id).map((a) => a.spot_id))
+    : null;
+  const mySpots = mySpotIds ? spots.filter((s) => mySpotIds.has(s.id)) : spots;
 
   const date = event?.date
     ? new Date(event.date).toLocaleDateString(undefined, { weekday: 'short', day: '2-digit', month: '2-digit', year: 'numeric' })

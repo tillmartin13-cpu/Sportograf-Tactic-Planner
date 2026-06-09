@@ -88,12 +88,12 @@ export function PhotographerApp({ onExit = () => {} }) {
   const screen = usePhotographerStore((s) => s.screen);
   const openCheckIn = usePhotographerStore((s) => s.openCheckIn);
   const activeTacticId = usePhotographerStore((s) => s.activeTacticId);
-  const getActiveTactic = usePhotographerStore((s) => s.getActiveTactic);
+  const tactics = usePhotographerStore((s) => s.tactics);
 
   const [showSettings, setShowSettings] = useState(false);
   const [activeTab, setActiveTab] = useState('tactics');
 
-  const activeTactic = getActiveTactic();
+  const activeTactic = tactics.find((t) => t.id === activeTacticId) ?? null;
   const photographers = activeTactic?.pkg?.photographers ?? [];
   const myPhotographer = photographers.find(
     (p) => p.code === acronym || p.code === acronym.replace(/\d+$/, ''),

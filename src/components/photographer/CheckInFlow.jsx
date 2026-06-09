@@ -25,7 +25,7 @@ export function CheckInFlow({ tacticId, cameraString }) {
   const setCameraCheckResult = usePhotographerStore((s) => s.setCameraCheckResult);
   const completeCheckIn = usePhotographerStore((s) => s.completeCheckIn);
   const closeCheckIn = usePhotographerStore((s) => s.closeCheckIn);
-  const checkIn = usePhotographerStore((s) => s.getCheckIn(tacticId));
+  const checkIn = usePhotographerStore((s) => s.checkIns[tacticId] ?? {});
 
   const steps = checkIn.steps || {};
   const cameraResult = checkIn.cameraCheckResult;

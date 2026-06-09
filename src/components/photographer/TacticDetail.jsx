@@ -245,12 +245,27 @@ function SpotCard({ spot, index }) {
 // ─── Main view ────────────────────────────────────────────────────────────────
 
 export function TacticDetail({ onOpenCheckIn }) {
-  const entry = usePhotographerStore((s) => s.getActiveTactic());
+  const activeTacticId = usePhotographerStore((s) => s.activeTacticId);
+  const tactics = usePhotographerStore((s) => s.tactics);
   const closeDetail = usePhotographerStore((s) => s.closeDetail);
   const acronym = usePhotographerStore((s) => s.acronym);
-  const mySpots = usePhotographerStore((s) => s.getMySpots(entry?.id));
-  const isComplete = usePhotographerStore((s) => s.isCheckInComplete(entry?.id));
+  const checkIn = usePhotographerStore((s) => s.checkIns[activeTacticId]);
+
+  const entry = tactics.find((t) => t.id === activeTacticId) ?? null;
+  const isComplete = !!checkIn?.completedAt;
   const profile = useMyProfile(entry?.pkg);
+
+  // Compute my spots locally to avoid selector returning new array on every render
+  const spots = entry?.pkg?.tactic?.spots ?? [];
+  const photographers = entry?.pkg?.photographers ?? [];
+  const assignments = entry?.pkg?.assignments ?? [];
+  const ph = photographers.find(
+    (p) => p.code === acronym || p.code === acronym?.replace(/\d+$/, ''),
+  );
+  const mySpotIds = ph
+    ? new Set(assignments.filter((a) => a.photographer_id === ph.id).map((a) => a.spot_id))
+    : null;
+  const mySpots = mySpotIds ? spots.filter((s) => mySpotIds.has(s.id)) : spots;
 
   if (!entry) return null;
 
