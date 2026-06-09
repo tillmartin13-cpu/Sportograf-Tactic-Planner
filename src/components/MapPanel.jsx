@@ -1,0 +1,81 @@
+import { useCurrentEvent } from '../hooks/useCurrentEvent';
+import { useTactic } from '../hooks/useTactic';
+import { usePlannerStore } from '../store/usePlannerStore';
+import { TacticMap } from './TacticMap';
+import { useTranslation } from '../i18n/useTranslation';
+
+export function MapPanel({ fullscreen = false, onExpand, onCollapse }) {
+  const event = useCurrentEvent();
+  const tactic = useTactic(event?.id);
+  const photographers = usePlannerStore((s) => s.photographers) || [];
+  const openCreateSpotModal = usePlannerStore((s) => s.openCreateSpotModal);
+  const openEditSpotModal = usePlannerStore((s) => s.openEditSpotModal);
+  const movePhotoSpot = usePlannerStore((s) => s.movePhotoSpot);
+  const toggleReferenceLayer = usePlannerStore((s) => s.toggleReferenceLayer);
+  const { t } = useTranslation();
+
+  if (!event) return null;
+
+  const mapProps = {
+    tactic,
+    spots: tactic.spots,
+    referenceSpots: tactic.referenceSpots || [],
+    showReferenceLayer: tactic.showReferenceLayer !== false,
+    assignments: tactic.assignments,
+    photographers,
+    onMapClick: openCreateSpotModal,
+    onSpotClick: openEditSpotModal,
+    onSpotDragEnd: movePhotoSpot,
+    onToggleReferenceLayer: toggleReferenceLayer,
+  };
+
+  if (fullscreen) {
+    return (
+      <div className="relative flex h-full min-h-0 flex-col overflow-hidden rounded-xl border border-[#e3e7f2] bg-white shadow-sm">
+        {onCollapse && (
+          <button
+            type="button"
+            onClick={onCollapse}
+            className="absolute right-3 top-3 z-[1000] rounded-lg bg-[#1C2B6B] px-3 py-1.5 text-[11px] font-bold text-white shadow-md hover:bg-[#152258]"
+          >
+            {t('toolsBackPlan')}
+          </button>
+        )}
+        <TacticMap
+          {...mapProps}
+          interactive
+          showLayerToggle
+          enableMapClick
+          className="min-h-0 flex-1 w-full"
+        />
+      </div>
+    );
+  }
+
+  return (
+    <div className="relative w-full shrink-0 overflow-hidden rounded-xl border border-[#e3e7f2] bg-white shadow-sm">
+      <button
+        type="button"
+        onClick={onExpand}
+        className="group relative block h-[120px] w-full cursor-pointer text-left sm:h-[140px]"
+        aria-label={t('toolsOpenMap')}
+      >
+        <TacticMap
+          {...mapProps}
+          interactive={false}
+          showLayerToggle={false}
+          enableMapClick={false}
+          className="pointer-events-none absolute inset-0 h-full w-full"
+        />
+        <div className="absolute inset-0 z-[600] flex items-end justify-center bg-gradient-to-t from-black/35 via-transparent to-transparent p-3 opacity-0 transition group-hover:opacity-100">
+          <span className="rounded-full bg-white/95 px-3 py-1.5 text-xs font-bold text-[#1C2B6B] shadow">
+            {t('mapClickExpand')}
+          </span>
+        </div>
+        <div className="absolute right-2 top-2 z-[600] rounded-full bg-[#1C2B6B]/85 px-2.5 py-1 text-[10px] font-bold text-white shadow">
+          {t('mapTapExpand')}
+        </div>
+      </button>
+    </div>
+  );
+}
