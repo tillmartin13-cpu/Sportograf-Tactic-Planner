@@ -1,6 +1,8 @@
 import { useState, useEffect, useRef } from 'react';
 import { usePhotographerStore } from '../../store/usePhotographerStore';
+import { useMyProfile } from '../../hooks/useMyProfile';
 import { formatTimeShort } from '../../lib/timeConflict';
+import { findAllCameraSettings } from '../../lib/cameraSettings';
 
 // ─── Navigation options ───────────────────────────────────────────────────────
 
@@ -113,6 +115,75 @@ function NavigateButton({ lat, lng }) {
   );
 }
 
+// ─── Personalized profile card ───────────────────────────────────────────────
+
+function ProfileCard({ profile, spotCount }) {
+  const fullName = [profile.firstName, profile.lastName].filter(Boolean).join(' ') || profile.name || profile.code;
+  const cameras = profile.cameras || profile.equipment || '';
+  const lenses = profile.lenses || '';
+  const flashes = profile.flashes || '';
+  const dispatch = profile.dispatch || '';
+
+  const camSettings = cameras ? findAllCameraSettings(cameras) : [];
+
+  return (
+    <div className="rounded-2xl border border-[#1C2B6B]/20 bg-[#f0f2fa] p-4">
+      <div className="flex items-start gap-3">
+        {/* Avatar */}
+        <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-2xl bg-[#1C2B6B] text-sm font-extrabold text-white">
+          {profile.code}
+        </div>
+        <div className="min-w-0 flex-1">
+          <div className="font-extrabold text-[#1C2B6B] leading-tight">{fullName}</div>
+          <div className="flex flex-wrap gap-1.5 mt-1">
+            <span className="rounded-full bg-[#1C2B6B]/10 px-2 py-0.5 text-[10px] font-bold text-[#1C2B6B]">
+              📷 {spotCount} spot{spotCount !== 1 ? 's' : ''}
+            </span>
+            {dispatch && (
+              <span className="rounded-full bg-[#1C2B6B]/10 px-2 py-0.5 text-[10px] font-bold text-[#1C2B6B]">
+                📍 {dispatch.toUpperCase()}
+              </span>
+            )}
+          </div>
+        </div>
+      </div>
+
+      {/* Equipment */}
+      {cameras && (
+        <div className="mt-3 space-y-1.5">
+          <div className="text-[10px] font-bold uppercase tracking-widest text-[#1C2B6B]/50">Equipment</div>
+          <div className="text-xs text-[#1C2B6B]/80 leading-snug">{cameras}</div>
+
+          {/* Camera settings recommendations */}
+          {camSettings.length > 0 && (
+            <div className="mt-2 space-y-1">
+              {camSettings.map((s, i) => (
+                <div key={i} className="flex items-center gap-2 rounded-xl bg-white/70 px-3 py-2">
+                  <span className="text-[11px] font-extrabold text-[#1C2B6B] min-w-[80px]">{s.model}</span>
+                  <span className="text-[10px] text-gray-500">
+                    {s.imageSize} · {s.jpegQuality}
+                  </span>
+                </div>
+              ))}
+            </div>
+          )}
+
+          {lenses && (
+            <div className="text-[10px] text-[#1C2B6B]/60 leading-snug">
+              <span className="font-bold">Lenses: </span>{lenses}
+            </div>
+          )}
+          {flashes && (
+            <div className="text-[10px] text-[#1C2B6B]/60 leading-snug">
+              <span className="font-bold">Flash: </span>{flashes}
+            </div>
+          )}
+        </div>
+      )}
+    </div>
+  );
+}
+
 // ─── Spot card ────────────────────────────────────────────────────────────────
 
 function SpotCard({ spot, index }) {
@@ -179,15 +250,16 @@ export function TacticDetail({ onOpenCheckIn }) {
   const acronym = usePhotographerStore((s) => s.acronym);
   const mySpots = usePhotographerStore((s) => s.getMySpots(entry?.id));
   const isComplete = usePhotographerStore((s) => s.isCheckInComplete(entry?.id));
+  const profile = useMyProfile(entry?.pkg);
 
   if (!entry) return null;
 
   const { pkg } = entry;
   const event = pkg?.event;
-  const photographers = pkg?.photographers ?? [];
-  const myPhotographer = photographers.find(
-    (p) => p.code === acronym || p.code === acronym.replace(/\d+$/, ''),
-  );
+  const isMatched = !!profile;
+
+  const firstName = profile?.firstName || profile?.name?.split(' ')[0] || null;
+  const greeting = firstName ? `Hey ${firstName} 👋` : acronym ? `Hey ${acronym} 👋` : null;
 
   const date = event?.date
     ? new Date(event.date).toLocaleDateString(undefined, {
@@ -207,6 +279,9 @@ export function TacticDetail({ onOpenCheckIn }) {
           >
             ← All tactics
           </button>
+          {greeting && (
+            <div className="text-sm font-bold text-[#1C2B6B]/60 mb-0.5">{greeting}</div>
+          )}
           <h2 className="text-base font-extrabold leading-tight text-[#1C2B6B]">{event?.name}</h2>
           {date && <div className="mt-0.5 text-xs text-gray-400">{date}</div>}
         </div>
@@ -223,16 +298,33 @@ export function TacticDetail({ onOpenCheckIn }) {
         </button>
       </div>
 
-      {/* My spots */}
+      {/* Personalized profile card */}
+      {isMatched && profile && (
+        <ProfileCard profile={profile} spotCount={mySpots.length} />
+      )}
+
+      {/* Not matched hint */}
+      {!isMatched && acronym && (
+        <div className="rounded-2xl border border-dashed border-amber-200 bg-amber-50 px-4 py-3 text-xs text-amber-700">
+          ⚠️ Acronym <strong>{acronym}</strong> not found in this tactic. Showing all spots.
+        </div>
+      )}
+
+      {/* No acronym hint */}
+      {!acronym && (
+        <div className="rounded-2xl border border-dashed border-gray-200 bg-gray-50 px-4 py-3 text-xs text-gray-500">
+          💡 Enter your acronym in settings to see only your spots and personalized info.
+        </div>
+      )}
+
+      {/* Spots */}
       <div>
         <h3 className="mb-2 text-xs font-bold uppercase tracking-wider text-gray-400">
-          {acronym ? `My spots (${acronym})` : 'All spots'} · {mySpots.length}
+          {isMatched ? `My spots` : 'All spots'} · {mySpots.length}
         </h3>
         {mySpots.length === 0 ? (
           <div className="rounded-2xl border border-dashed border-gray-200 bg-gray-50 p-6 text-center text-sm text-gray-400">
-            {acronym
-              ? 'No spots assigned to your acronym.'
-              : 'Enter your acronym in settings to filter your spots.'}
+            No spots found.
           </div>
         ) : (
           <div className="flex flex-col gap-3">

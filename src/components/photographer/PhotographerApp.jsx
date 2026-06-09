@@ -100,9 +100,11 @@ export function PhotographerApp({ onExit = () => {} }) {
   );
   const cameraString = myPhotographer?.cameras || myPhotographer?.equipment || '';
 
-  const greeting = acronym
-    ? `Hello, ${acronym}`
-    : 'Sportograf';
+  const displayName = myPhotographer?.firstName
+    || myPhotographer?.name?.split(' ')[0]
+    || acronym
+    || null;
+  const greeting = displayName ? `Hello, ${displayName}` : 'SG Tactics';
 
   return (
     <div className="flex h-full flex-col bg-[#f4f5f8]">
