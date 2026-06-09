@@ -5,7 +5,6 @@ import { SpotsList } from './SpotsList';
 import { PhotographersPanel } from './PhotographersPanel';
 import { MapPanel } from './MapPanel';
 import { TopBar } from './TopBar';
-import { TeamCheckInPanel } from './TeamCheckInPanel';
 import { TravelPanel } from './TravelPanel';
 import { PlannerOnboarding } from './PlannerOnboarding';
 import { ReferenceTimeline } from './ReferenceTimeline';
@@ -56,11 +55,10 @@ export function PlanningHub({ title = 'Tactic Planner' }) {
           )}
         </div>
 
-        <div className="flex w-full shrink-0 flex-col gap-4 lg:w-80">
+        <div className="flex w-full shrink-0 flex-col gap-4 overflow-y-auto lg:w-80">
           {event ? (
             <>
               <PhotographersPanel />
-              <TeamCheckInPanel />
               <TravelPanel />
             </>
           ) : (
