@@ -6,8 +6,6 @@ import { LanguageSettingsModal } from './LanguageSettingsModal';
 import { useTranslation } from '../i18n/useTranslation';
 import { isHyroxEvent } from '../lib/hyrox';
 
-// ─── File-picker button ──────────────────────────────────────────────────────
-
 function ImportRow({ icon, label, accept, onPick, onClick }) {
   const ref = useRef(null);
 
@@ -23,38 +21,23 @@ function ImportRow({ icon, label, accept, onPick, onClick }) {
   if (accept) {
     return (
       <>
-        <input
-          ref={ref}
-          type="file"
-          accept={accept}
-          className="hidden"
-          onChange={(e) => {
-            const file = e.target.files?.[0];
-            if (file) onPick(file);
-            e.target.value = '';
-          }}
+        <input ref={ref} type="file" accept={accept} className="hidden"
+          onChange={(e) => { const f = e.target.files?.[0]; if (f) onPick(f); e.target.value = ''; }}
         />
         <div onClick={() => ref.current?.click()}>{inner}</div>
       </>
     );
   }
-
   return <div onClick={onClick}>{inner}</div>;
 }
 
-// ─── Status badge ────────────────────────────────────────────────────────────
-
 function Badge({ ok, label }) {
   return (
-    <span className={`rounded-full px-2 py-0.5 text-[10px] font-bold ${
-      ok ? 'bg-[#dcfce7] text-[#166534]' : 'bg-[#f1f3f9] text-[#8a93b0]'
-    }`}>
+    <span className={`rounded-full px-2 py-0.5 text-[10px] font-bold ${ok ? 'bg-[#dcfce7] text-[#166534]' : 'bg-[#f1f3f9] text-[#8a93b0]'}`}>
       {label}
     </span>
   );
 }
-
-// ─── Section label ───────────────────────────────────────────────────────────
 
 function SectionLabel({ children }) {
   return (
@@ -64,9 +47,7 @@ function SectionLabel({ children }) {
   );
 }
 
-// ─── Main panel ──────────────────────────────────────────────────────────────
-
-export function PlannerToolsPanel({ activeView, onViewChange }) {
+function PanelContent({ activeView, onViewChange, onClose }) {
   const event = useCurrentEvent();
   const tactic = useTactic(event?.id);
   const photographers = usePlannerStore((s) => s.photographers) || [];
@@ -86,10 +67,14 @@ export function PlannerToolsPanel({ activeView, onViewChange }) {
   const hasReference = (tactic.referenceSpots || []).length > 0;
   const hyrox = isHyroxEvent(event);
 
-  return (
-    <aside className="flex h-full w-60 shrink-0 flex-col border-r border-[var(--sg-border)] bg-[#fafbff]">
+  function navTo(view) {
+    onViewChange?.(view);
+    onClose?.();
+  }
 
-      {/* Event info card */}
+  return (
+    <div className="flex h-full flex-col">
+      {/* Event info */}
       {event ? (
         <div className="border-b border-[var(--sg-border)] bg-white px-4 py-3">
           <div className="flex items-start gap-2">
@@ -100,9 +85,7 @@ export function PlannerToolsPanel({ activeView, onViewChange }) {
               </div>
               <div className="flex items-center gap-1.5 mt-0.5">
                 <span className="text-[11px] font-bold text-[var(--sg-muted)]">#{event.id}</span>
-                {event.eventDate && (
-                  <span className="text-[11px] text-[var(--sg-muted)]">· {event.eventDate}</span>
-                )}
+                {event.eventDate && <span className="text-[11px] text-[var(--sg-muted)]">· {event.eventDate}</span>}
               </div>
             </div>
           </div>
@@ -120,35 +103,19 @@ export function PlannerToolsPanel({ activeView, onViewChange }) {
         </div>
       )}
 
-      {/* Scrollable body */}
+      {/* Scrollable content */}
       <div className="flex-1 overflow-y-auto py-1">
-
-        {/* View switcher — only when event is active */}
         {event && (
           <>
             <SectionLabel>View</SectionLabel>
             <div className="space-y-0.5 px-1.5">
-              <button
-                type="button"
-                onClick={() => onViewChange?.('planner')}
-                className={`flex w-full items-center gap-2.5 rounded-xl px-3 py-2 text-sm font-semibold transition-colors ${
-                  activeView === 'planner' || !activeView
-                    ? 'bg-[#1C2B6B] text-white'
-                    : 'text-[var(--sg-navy)] hover:bg-[var(--sg-tint)]'
-                }`}
-              >
+              <button type="button" onClick={() => navTo('planner')}
+                className={`flex w-full items-center gap-2.5 rounded-xl px-3 py-2 text-sm font-semibold transition-colors ${activeView === 'planner' || !activeView ? 'bg-[#1C2B6B] text-white' : 'text-[var(--sg-navy)] hover:bg-[var(--sg-tint)]'}`}>
                 <span className="text-base">🗺️</span> Tactic Planner
               </button>
               {hyrox && (
-                <button
-                  type="button"
-                  onClick={() => onViewChange?.('hyrox')}
-                  className={`flex w-full items-center gap-2.5 rounded-xl px-3 py-2 text-sm font-semibold transition-colors ${
-                    activeView === 'hyrox'
-                      ? 'bg-[#1C2B6B] text-white'
-                      : 'text-[var(--sg-navy)] hover:bg-[var(--sg-tint)]'
-                  }`}
-                >
+                <button type="button" onClick={() => navTo('hyrox')}
+                  className={`flex w-full items-center gap-2.5 rounded-xl px-3 py-2 text-sm font-semibold transition-colors ${activeView === 'hyrox' ? 'bg-[#1C2B6B] text-white' : 'text-[var(--sg-navy)] hover:bg-[var(--sg-tint)]'}`}>
                   <span className="text-base">🏋️</span> Hyrox Planner
                 </button>
               )}
@@ -156,70 +123,68 @@ export function PlannerToolsPanel({ activeView, onViewChange }) {
           </>
         )}
 
-        {/* Import */}
         <SectionLabel>Import</SectionLabel>
         <div className="space-y-0.5 px-1.5">
-          <ImportRow
-            icon="👥"
-            label="Team CSV"
-            accept=".csv,.txt"
-            onPick={async (f) => importTeamCsv(await f.text())}
-          />
-          <ImportRow
-            icon="🛤️"
-            label="GPX Route"
-            accept=".gpx"
-            onPick={loadGpx}
-          />
-          <ImportRow
-            icon="📍"
-            label="KML / KMZ"
-            accept=".kml,.kmz"
-            onPick={importKml}
-          />
-          <ImportRow
-            icon="📋"
-            label="Infofile"
-            accept=".txt"
-            onPick={async (f) => importInfofile(await f.text())}
-          />
+          <ImportRow icon="👥" label="Team CSV" accept=".csv,.txt" onPick={async (f) => { await importTeamCsv(await f.text()); onClose?.(); }} />
+          <ImportRow icon="🛤️" label="GPX Route" accept=".gpx" onPick={(f) => { loadGpx(f); onClose?.(); }} />
+          <ImportRow icon="📍" label="KML / KMZ" accept=".kml,.kmz" onPick={(f) => { importKml(f); onClose?.(); }} />
+          <ImportRow icon="📋" label="Infofile" accept=".txt" onPick={async (f) => { await importInfofile(await f.text()); onClose?.(); }} />
         </div>
 
-        {/* Actions */}
         <SectionLabel>Actions</SectionLabel>
         <div className="space-y-0.5 px-1.5">
-          <ImportRow
-            icon="🔍"
-            label="Expand Map"
-            onClick={() => setMapExpanded(true)}
-          />
+          <ImportRow icon="🔍" label="Expand Map" onClick={() => { setMapExpanded(true); onClose?.(); }} />
           {hasReference && (
-            <ImportRow
-              icon="👁️"
-              label={tactic.showReferenceLayer !== false ? 'Hide Reference' : 'Show Reference'}
-              onClick={toggleReferenceLayer}
-            />
+            <ImportRow icon="👁️" label={tactic.showReferenceLayer !== false ? 'Hide Reference' : 'Show Reference'} onClick={() => { toggleReferenceLayer(); onClose?.(); }} />
           )}
-          <ImportRow
-            icon="📤"
-            label="Export JSON"
-            onClick={() => exportTacticJson(true)}
-          />
+          <ImportRow icon="📤" label="Export JSON" onClick={() => exportTacticJson(true)} />
         </div>
       </div>
 
       {/* Footer */}
       <div className="border-t border-[var(--sg-border)] bg-white px-3 py-2.5">
-        <button
-          type="button"
-          onClick={() => setSettingsOpen(true)}
-          className="flex w-full items-center justify-center gap-2 rounded-xl py-2 text-xs font-semibold text-[var(--sg-muted)] hover:bg-[var(--sg-tint)] hover:text-[var(--sg-navy)] transition-colors"
-        >
+        <button type="button" onClick={() => setSettingsOpen(true)}
+          className="flex w-full items-center justify-center gap-2 rounded-xl py-2 text-xs font-semibold text-[var(--sg-muted)] hover:bg-[var(--sg-tint)] hover:text-[var(--sg-navy)] transition-colors">
           ⚙️ {t('settings')}
         </button>
       </div>
 
       <LanguageSettingsModal open={settingsOpen} onClose={() => setSettingsOpen(false)} />
-    </aside>
+    </div>
+  );
+}
+
+// ─── Exported component — sidebar on desktop, drawer on mobile ───────────────
+
+export function PlannerToolsPanel({ activeView, onViewChange, mobileOpen, onMobileClose }) {
+  return (
+    <>
+      {/* Desktop: always visible sidebar */}
+      <aside className="hidden lg:flex h-full w-60 shrink-0 flex-col border-r border-[var(--sg-border)] bg-[#fafbff]">
+        <PanelContent activeView={activeView} onViewChange={onViewChange} />
+      </aside>
+
+      {/* Mobile: drawer with backdrop */}
+      {mobileOpen && (
+        <div className="fixed inset-0 z-[800] lg:hidden">
+          {/* Backdrop */}
+          <div className="absolute inset-0 bg-black/40" onClick={onMobileClose} />
+          {/* Drawer */}
+          <aside className="absolute left-0 top-0 h-full w-72 bg-[#fafbff] shadow-2xl flex flex-col">
+            <div className="flex items-center justify-between border-b border-[var(--sg-border)] bg-white px-4 py-3">
+              <span className="text-sm font-extrabold text-[var(--sg-navy)]">Menu</span>
+              <button type="button" onClick={onMobileClose} className="rounded-lg p-1.5 text-gray-400 hover:text-gray-600">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className="h-5 w-5">
+                  <line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" />
+                </svg>
+              </button>
+            </div>
+            <div className="flex-1 overflow-hidden">
+              <PanelContent activeView={activeView} onViewChange={onViewChange} onClose={onMobileClose} />
+            </div>
+          </aside>
+        </div>
+      )}
+    </>
   );
 }

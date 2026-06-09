@@ -45,9 +45,9 @@ export function PlannerEntryModal() {
   };
 
   return (
-    <div className="fixed inset-0 z-[7000] flex items-end justify-center bg-black/45 p-4 sm:items-center">
+    <div className="fixed inset-0 z-[7000] flex items-end justify-center bg-black/45 sm:items-center sm:p-4">
       <div
-        className="sg-card flex max-h-[92vh] w-full max-w-lg flex-col overflow-y-auto p-5 sm:p-6"
+        className="sg-card flex max-h-[92dvh] w-full max-w-lg flex-col overflow-y-auto rounded-b-none rounded-t-3xl p-5 sm:rounded-2xl sm:p-6"
         role="dialog"
         aria-labelledby="planner-entry-title"
       >
