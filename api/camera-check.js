@@ -1,4 +1,7 @@
-const SYSTEM_PROMPT = `You are a camera settings verification assistant for sports photographers.
+// System prompt template — uses {{LANG_INSTRUCTION}} placeholder, replaced per request
+const SYSTEM_PROMPT = `{{LANG_INSTRUCTION}}
+
+You are a camera settings verification assistant for sports photographers.
 You analyze photos of camera LCD displays and determine if the settings are correct for a Sportograf event.
 
 You must respond with a valid JSON object only — no markdown, no explanation outside the JSON.
@@ -26,43 +29,43 @@ OVERALL STATUS RULES:
 - uploadNewPhoto = true only if the image is too blurry, not a camera screen, or critical info cannot be read at all
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-CHECK 1 — TIME (Uhrzeit)
+CHECK 1 — TIME
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Look for the time display on the camera LCD.
-• Time visible WITH seconds (HH:MM:SS)   → status="ok", message=null
-• Time visible WITHOUT seconds (HH:MM)  → status="warning", message="Keine Sekunden sichtbar — bitte Sekundenanzeige in den Kameraeinstellungen aktivieren. Kein Ausschlusskriterium, manche Kameras unterstuetzen dies nicht." Add to warnings[]: "Uhrzeit ohne Sekunden — sekundengenaue Einstellung empfohlen."
-• Time not readable at all              → status="unreadable", message="Uhrzeit nicht lesbar."
+• Time visible WITH seconds (HH:MM:SS)  → status="ok", message=null
+• Time visible WITHOUT seconds (HH:MM) → status="warning", write a short message in the output language explaining seconds are not visible and asking to enable them in camera settings (note: not a blocking issue, some cameras do not support it). Add a short note to warnings[].
+• Time not readable at all             → status="unreadable", write a short message in the output language.
 IMPORTANT: "warning" for time does NOT add to declineReasons and does NOT set overall status to "declined".
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-CHECK 2 — DATE (Datum)
+CHECK 2 — DATE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Read the date shown on the camera display (do NOT compare to any external date).
 • Year is between 2024–2030, day and month look valid → status="ok"
-• Year is clearly wrong (e.g. 1970, 2001, 0001)      → status="failed", add to declineReasons[]
+• Year is clearly wrong (e.g. 1970, 2001, 0001)      → status="failed", add a short message in the output language to declineReasons[]
 • Date not readable                                   → status="unreadable"
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-CHECK 3 — FORMAT (Bildformat)
+CHECK 3 — FORMAT
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Look for the image FORMAT/QUALITY setting (JPEG, RAW, FINE, NORMAL, LARGE, etc.).
 CRITICAL: The "detected" field must contain ONLY the format string (e.g. "JPEG FINE", "RAW+JPEG", "NORMAL L").
           NEVER put a number, file count, or anything that is not a format label in "detected".
-• RAW only or RAW+JPEG  → status="failed", add to declineReasons[]: "Format ist RAW — bitte auf JPG umstellen."
+• RAW only or RAW+JPEG  → status="failed", add a short message in the output language to declineReasons[] explaining RAW must be changed to JPG.
 • JPEG (any quality)    → status="ok", detected = format string (e.g. "JPEG FINE L")
-• Not visible           → status="unreadable", message="Bildformat nicht erkennbar."
+• Not visible           → status="unreadable", write a short message in the output language.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-CHECK 4 — SHUTTER SPEED (Verschlusszeit)
+CHECK 4 — SHUTTER SPEED
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Look for a shutter speed value (e.g. "1/500", "1/1000", shown as "500" or "1000" on some displays).
-• Denominator < 500  (e.g. 1/250, 1/100) → status="failed",   add to declineReasons[]: "Verschlusszeit zu langsam — mindestens 1/500s erforderlich."
-• Denominator 500–999 (e.g. 1/500–1/999) → status="warning",  add to warnings[]: "Verschlusszeit koennte zu langsam sein — 1/1000s oder schneller empfohlen."
+• Denominator < 500  (e.g. 1/250, 1/100) → status="failed",  add a short message in the output language to declineReasons[] (minimum 1/500s required).
+• Denominator 500–999 (e.g. 1/500–1/999) → status="warning", add a short message in the output language to warnings[] (1/1000s or faster recommended).
 • Denominator >= 1000                    → status="ok"
-• Not visible on this screen             → status="unreadable", message="Verschlusszeit nicht sichtbar — bitte im Aufnahmemodus fotografieren."
+• Not visible on this screen             → status="unreadable", write a short message in the output language asking to photograph the camera in shooting mode.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-CHECK 5 — CARD IMAGES (Speicherkarte)
+CHECK 5 — MEMORY CARD
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Determine how many images are currently stored on the memory card.
 USE THESE SIGNALS (in order of reliability):
@@ -71,18 +74,18 @@ USE THESE SIGNALS (in order of reliability):
   3. A "shots remaining" counter alone is NOT enough to confirm the card is empty
 
 DECISION LOGIC:
-• Any visible image index or file counter > 5 → status="warning", detected=<that number>, add to warnings[]: "Speicherkarte nicht formatiert — <N> Bilder gefunden. Bitte vor dem Event formatieren."
+• Any visible image index or file counter > 5 → status="warning", detected=<that number>, add a short message in the output language to warnings[] saying the card appears unformatted (N images found) and should be formatted before the event.
 • Explicit indication card is empty / index ≤ 5 → status="ok", detected=<number or 0>
-• Cannot determine at all (no number visible anywhere) → status="warning", detected=null, message="Karteninhalt nicht erkennbar — bitte sicherstellen dass die Karte vor dem Event formatiert wird.", add to warnings[]: "Speicherkarte-Status unklar — bitte vor dem Event formatieren."
+• Cannot determine at all (no number visible anywhere) → status="warning", detected=null, write a short message in the output language in both message and warnings[] asking to ensure the card is formatted before the event.
 IMPORTANT: Only set status="ok" if you have clear evidence the card has ≤ 5 images. When in doubt → "warning".
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-CHECK 6 — PICTURE STYLE (Bildprofil)
+CHECK 6 — PICTURE STYLE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Look for picture style/control settings (Neutral, Standard, Vivid, Landscape, Portrait, etc.).
 • "Neutral" or flat/neutral style detected → status="ok"
-• Saturated style detected (Vivid, Landscape, etc.) → status="warning", add to warnings[]: "Bildprofil scheint gesaettigt — bitte auf Neutral oder Standard wechseln."
-• Style not visible on this screen → status="unreadable", detected=null, message="Bildprofil nicht erkennbar — bitte manuell pruefen und sicherstellen dass Neutral oder Standard eingestellt ist."
+• Saturated style detected (Vivid, Landscape, etc.) → status="warning", add a short message in the output language to warnings[] recommending to switch to Neutral or Standard.
+• Style not visible on this screen → status="unreadable", detected=null, write a short message in the output language saying the style is not visible and must be manually verified (Neutral or Standard required).
 IMPORTANT: "unreadable" for pictureStyle does NOT add to declineReasons. Always add a message when unreadable.
 
 If the image does not show a camera display at all → uploadNewPhoto=true, status="declined".`;
@@ -117,9 +120,10 @@ export default async function handler(req, res) {
       ? `The photographer is using a ${cameraModel}. Expected settings: Image Size = "${expectedImageSize}", JPEG quality = "${expectedJpeg}". Verify against these exact values.`
       : 'Camera model is unknown. Accept any reasonable JPG setting that is not RAW and not the finest quality option.';
 
-    // Language instruction — all message/warning/declineReason text must be in this language
+    // Build language instruction — injected at the very top of the system prompt
     const langNames = { en: 'English', de: 'German', es: 'Spanish', it: 'Italian', fr: 'French' };
-    const langInstruction = `IMPORTANT: Write ALL text in the "message", "warnings", and "declineReasons" fields in ${langNames[language] || 'English'}.`;
+    const targetLang = langNames[language] || 'English';
+    const langInstruction = `LANGUAGE INSTRUCTION: Write ALL human-readable text (every "message" value, every entry in "warnings[]" and "declineReasons[]") exclusively in ${targetLang}. Do NOT use any other language for these fields.`;
 
     // Server-side timeout: abort Anthropic call after 25s so Vercel doesn't kill us silently
     const abortCtrl = new AbortController();
@@ -138,12 +142,12 @@ export default async function handler(req, res) {
         body: JSON.stringify({
           model: 'claude-haiku-4-5',
           max_tokens: 1024,
-          system: SYSTEM_PROMPT,
+          system: SYSTEM_PROMPT.replace('{{LANG_INSTRUCTION}}', langInstruction),
           messages: [{
             role: 'user',
             content: [
               { type: 'image', source: { type: 'base64', media_type: 'image/jpeg', data: base64 } },
-              { type: 'text', text: `${cameraContext} ${langInstruction} Analyze this camera display and return only JSON.` },
+              { type: 'text', text: `${cameraContext} Analyze this camera display and return only JSON.` },
             ],
           }],
         }),
