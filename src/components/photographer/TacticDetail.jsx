@@ -298,6 +298,27 @@ L.Icon.Default.mergeOptions({
   shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
 });
 
+// Pulsing blue dot icon for own position
+const myLocationIcon = L.divIcon({
+  className: '',
+  html: `<div style="
+    width:18px;height:18px;border-radius:50%;
+    background:#2563eb;border:3px solid #fff;
+    box-shadow:0 0 0 3px rgba(37,99,235,0.35);
+    animation:sg-pulse 2s ease-in-out infinite;
+  "></div>`,
+  iconSize: [18, 18],
+  iconAnchor: [9, 9],
+});
+
+// Inject pulse keyframes once
+if (typeof document !== 'undefined' && !document.getElementById('sg-pulse-style')) {
+  const s = document.createElement('style');
+  s.id = 'sg-pulse-style';
+  s.textContent = `@keyframes sg-pulse{0%,100%{box-shadow:0 0 0 3px rgba(37,99,235,0.35)}50%{box-shadow:0 0 0 7px rgba(37,99,235,0.1)}}`;
+  document.head.appendChild(s);
+}
+
 function FitBounds({ spots }) {
   const map = useMap();
   useEffect(() => {
@@ -311,9 +332,48 @@ function FitBounds({ spots }) {
   return null;
 }
 
+function CenterOnMe({ position }) {
+  const map = useMap();
+  const handleClick = () => {
+    if (position) map.setView(position, Math.max(map.getZoom(), 15), { animate: true });
+  };
+  if (!position) return null;
+  return (
+    <div className="leaflet-bottom leaflet-right" style={{ marginBottom: 8, marginRight: 8 }}>
+      <button
+        type="button"
+        onClick={handleClick}
+        title="Center on my location"
+        style={{
+          background: '#fff', border: '2px solid #e5e7eb', borderRadius: 10,
+          width: 36, height: 36, display: 'flex', alignItems: 'center',
+          justifyContent: 'center', boxShadow: '0 1px 4px rgba(0,0,0,0.15)',
+          cursor: 'pointer', fontSize: 16,
+        }}
+      >
+        📍
+      </button>
+    </div>
+  );
+}
+
 function SpotsMap({ spots }) {
   const [layer, setLayer] = useState('street');
+  const [myPos, setMyPos] = useState(null);
+  const [geoError, setGeoError] = useState(false);
   const validSpots = spots.filter((s) => s.latitude != null);
+
+  // Live position tracking
+  useEffect(() => {
+    if (!navigator.geolocation) return;
+    const watchId = navigator.geolocation.watchPosition(
+      (pos) => setMyPos([pos.coords.latitude, pos.coords.longitude]),
+      () => setGeoError(true),
+      { enableHighAccuracy: true, maximumAge: 5000, timeout: 10000 },
+    );
+    return () => navigator.geolocation.clearWatch(watchId);
+  }, []);
+
   if (!validSpots.length) return null;
 
   const tiles = {
@@ -345,7 +405,7 @@ function SpotsMap({ spots }) {
         ))}
       </div>
       <MapContainer
-        style={{ height: 220, width: '100%' }}
+        style={{ height: 260, width: '100%' }}
         zoom={13}
         center={[validSpots[0].latitude, validSpots[0].longitude]}
         zoomControl={false}
@@ -354,6 +414,8 @@ function SpotsMap({ spots }) {
       >
         <TileLayer key={layer} url={tiles[layer].url} attribution={tiles[layer].attribution} />
         <FitBounds spots={validSpots} />
+
+        {/* Spot markers */}
         {validSpots.map((spot, i) => (
           <Marker key={spot.id || i} position={[spot.latitude, spot.longitude]}>
             <Popup>
@@ -366,7 +428,26 @@ function SpotsMap({ spots }) {
             </Popup>
           </Marker>
         ))}
+
+        {/* Own position — blue pulsing dot */}
+        {myPos && (
+          <Marker position={myPos} icon={myLocationIcon}>
+            <Popup>
+              <div className="text-xs font-bold">📍 Your position</div>
+            </Popup>
+          </Marker>
+        )}
+
+        {/* Center-on-me button */}
+        <CenterOnMe position={myPos} />
       </MapContainer>
+
+      {/* Geo error hint */}
+      {geoError && (
+        <div className="bg-amber-50 px-3 py-1.5 text-[10px] text-amber-700 text-center">
+          ⚠️ Location access denied — enable in browser settings
+        </div>
+      )}
     </div>
   );
 }
