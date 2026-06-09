@@ -241,7 +241,10 @@ export const usePlannerStore = create(
 
         let assignments = [...tactic.assignments];
         if (isPhoto) {
-          const ph = get().photographers.find((p) => p.code === name);
+          // Match photographer by exact code OR stripping trailing digits (TILL2 → TILL)
+          const ph = get().photographers.find(
+            (p) => p.code === name || p.code === name.replace(/\d+$/, ''),
+          );
           if (ph && !assignments.some((a) => a.spot_id === spot.id && a.photographer_id === ph.id)) {
             assignments.push({
               id: uid('asg'),

@@ -24,7 +24,13 @@ function TacticCard({ entry, onOpen, onDelete }) {
   const mySpotIds = ph
     ? new Set(assignments.filter((a) => a.photographer_id === ph.id).map((a) => a.spot_id))
     : null;
-  const mySpots = mySpotIds ? spots.filter((s) => mySpotIds.has(s.id)) : spots;
+  const mySpots = mySpotIds
+    ? spots.filter(
+        (s) =>
+          mySpotIds.has(s.id) ||
+          (acronym && s.name?.toUpperCase().startsWith(acronym.toUpperCase())),
+      )
+    : spots;
 
   const date = event?.date
     ? new Date(event.date).toLocaleDateString(undefined, { weekday: 'short', day: '2-digit', month: '2-digit', year: 'numeric' })

@@ -1,9 +1,12 @@
 import { useState, useEffect, useRef } from 'react';
+import { MapContainer, TileLayer, Marker, Popup, useMap } from 'react-leaflet';
+import L from 'leaflet';
 import { usePhotographerStore } from '../../store/usePhotographerStore';
 import { useMyProfile } from '../../hooks/useMyProfile';
 import { formatTimeShort } from '../../lib/timeConflict';
 import { findAllCameraSettings } from '../../lib/cameraSettings';
 import { useWeather, wmoToEmoji, getPhotoTips } from '../../hooks/useWeather';
+import 'leaflet/dist/leaflet.css';
 
 // ─── Navigation options ───────────────────────────────────────────────────────
 
@@ -216,6 +219,32 @@ function SpotCard({ spot, index }) {
         {spot.notes && (
           <p className="mt-2 text-xs text-gray-500">{spot.notes}</p>
         )}
+
+        {/* Reference photos */}
+        {spot.refImages?.length > 0 && (
+          <div className="mt-3">
+            <div className="mb-1.5 text-[10px] font-bold uppercase tracking-wider text-gray-400">
+              Reference photos
+            </div>
+            <div className="flex gap-2 overflow-x-auto pb-1">
+              {spot.refImages.map((img, idx) => (
+                <a
+                  key={idx}
+                  href={img.data}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="shrink-0"
+                >
+                  <img
+                    src={img.data}
+                    alt={img.name || `ref-${idx}`}
+                    className="h-24 w-24 rounded-xl object-cover border border-gray-200"
+                  />
+                </a>
+              ))}
+            </div>
+          </div>
+        )}
       </div>
 
       {/* Action bar */}
@@ -239,6 +268,89 @@ function SpotCard({ spot, index }) {
           </div>
         </div>
       )}
+    </div>
+  );
+}
+
+// ─── Spot map ────────────────────────────────────────────────────────────────
+
+// Fix Leaflet default marker icons (missing in bundlers)
+delete L.Icon.Default.prototype._getIconUrl;
+L.Icon.Default.mergeOptions({
+  iconUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png',
+  iconRetinaUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon-2x.png',
+  shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
+});
+
+function FitBounds({ spots }) {
+  const map = useMap();
+  useEffect(() => {
+    const coords = spots.filter((s) => s.latitude != null).map((s) => [s.latitude, s.longitude]);
+    if (coords.length === 1) {
+      map.setView(coords[0], 14);
+    } else if (coords.length > 1) {
+      map.fitBounds(coords, { padding: [24, 24] });
+    }
+  }, [map, spots]);
+  return null;
+}
+
+function SpotsMap({ spots }) {
+  const [layer, setLayer] = useState('street');
+  const validSpots = spots.filter((s) => s.latitude != null);
+  if (!validSpots.length) return null;
+
+  const tiles = {
+    street: {
+      url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+      attribution: '© OpenStreetMap contributors',
+    },
+    satellite: {
+      url: 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
+      attribution: '© Esri',
+    },
+  };
+
+  return (
+    <div className="rounded-2xl overflow-hidden border border-gray-200 shadow-sm">
+      {/* Layer toggle */}
+      <div className="flex border-b border-gray-100 bg-white">
+        {[['street', '🗺️ Map'], ['satellite', '🛰️ Satellite']].map(([k, label]) => (
+          <button
+            key={k}
+            type="button"
+            onClick={() => setLayer(k)}
+            className={`flex-1 py-2 text-xs font-bold transition-colors ${
+              layer === k ? 'bg-[#1C2B6B] text-white' : 'text-gray-500 hover:bg-gray-50'
+            }`}
+          >
+            {label}
+          </button>
+        ))}
+      </div>
+      <MapContainer
+        style={{ height: 220, width: '100%' }}
+        zoom={13}
+        center={[validSpots[0].latitude, validSpots[0].longitude]}
+        zoomControl={false}
+        attributionControl={false}
+        scrollWheelZoom={false}
+      >
+        <TileLayer key={layer} url={tiles[layer].url} attribution={tiles[layer].attribution} />
+        <FitBounds spots={validSpots} />
+        {validSpots.map((spot, i) => (
+          <Marker key={spot.id || i} position={[spot.latitude, spot.longitude]}>
+            <Popup>
+              <div className="text-xs font-bold">{spot.name}</div>
+              {spot.time_from && (
+                <div className="text-xs text-gray-500">
+                  {formatTimeShort(spot.time_from)}–{formatTimeShort(spot.time_to)}
+                </div>
+              )}
+            </Popup>
+          </Marker>
+        ))}
+      </MapContainer>
     </div>
   );
 }
@@ -407,7 +519,15 @@ export function TacticDetail({ onOpenCheckIn }) {
   const mySpotIds = ph
     ? new Set(assignments.filter((a) => a.photographer_id === ph.id).map((a) => a.spot_id))
     : null;
-  const mySpots = mySpotIds ? spots.filter((s) => mySpotIds.has(s.id)) : spots;
+  // Primary: assignment-based. Fallback: spot name starts with photographer code
+  // (e.g. "TILL2" matches photographer "TILL" when TL forgot to create the assignment)
+  const mySpots = mySpotIds
+    ? spots.filter(
+        (s) =>
+          mySpotIds.has(s.id) ||
+          (acronym && s.name?.toUpperCase().startsWith(acronym.toUpperCase())),
+      )
+    : spots;
 
   if (!entry) return null;
 
@@ -460,26 +580,9 @@ export function TacticDetail({ onOpenCheckIn }) {
         <ProfileCard profile={profile} spotCount={mySpots.length} />
       )}
 
-      {/* Sportograf links */}
-      {event?.id && (
-        <div className="flex gap-2">
-          <a
-            href={`https://www.sportograf.com/en/shop/event/${event.id}`}
-            target="_blank"
-            rel="noreferrer"
-            className="flex flex-1 items-center justify-center gap-1.5 rounded-2xl border border-[#1C2B6B]/20 bg-white py-2.5 text-xs font-bold text-[#1C2B6B] hover:bg-[#f0f2fa] transition-colors shadow-sm"
-          >
-            <span>📷</span> Sportograf Photo Pool
-          </a>
-          <a
-            href={`https://www.sportograf.com/en/shop/event/${event.id}#search`}
-            target="_blank"
-            rel="noreferrer"
-            className="flex items-center justify-center gap-1.5 rounded-2xl border border-[#1C2B6B]/20 bg-white px-4 py-2.5 text-xs font-bold text-[#1C2B6B] hover:bg-[#f0f2fa] transition-colors shadow-sm"
-          >
-            <span>🔍</span>
-          </a>
-        </div>
+      {/* Spots map */}
+      {mySpots.some((s) => s.latitude != null) && (
+        <SpotsMap spots={mySpots} />
       )}
 
       {/* Weather briefing */}
