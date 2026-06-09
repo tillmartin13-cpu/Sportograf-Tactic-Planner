@@ -12,6 +12,7 @@ Respond with this exact structure:
     "time": { "status": "ok" | "failed" | "unreadable", "detected": "<value or null>", "message": "<null or issue description>" },
     "date": { "status": "ok" | "failed" | "unreadable", "detected": "<value or null>", "message": "<null or issue description>" },
     "format": { "status": "ok" | "failed" | "unreadable", "detected": "<value or null>", "message": "<null or issue description>" },
+    "shutterSpeed": { "status": "ok" | "warning" | "failed" | "unreadable", "detected": "<value or null>", "message": "<null or issue description>" },
     "cardImages": { "status": "ok" | "warning" | "unreadable", "detected": "<count or null>", "message": "<null or warning description>" },
     "pictureStyle": { "status": "ok" | "warning" | "unreadable", "detected": "<value or null>", "message": "<null or issue description>" }
   },
@@ -21,13 +22,18 @@ Respond with this exact structure:
 }
 
 Rules:
-- status = "declined" if time, date, or format check failed
-- status = "warning" if accepted but there are warnings (e.g. images on card)
+- status = "declined" if time, date, format, or shutterSpeed check failed
+- status = "warning" if accepted but there are warnings
 - status = "accepted" if all critical checks pass and no warnings
 - uploadNewPhoto = true if the image is unreadable, not a camera display, too blurry, or critical info cannot be determined
 - Time check: look for the clock/time display on camera LCD. It must show a plausible current time. If you cannot read it, mark unreadable.
-- Date check: read the date directly from the camera display. Accept it if it shows a plausible date (year between 2024 and 2030, valid day and month). Only fail if the year is clearly wrong (e.g. 2001, 0001, 1970) or the date is unreadable. Do NOT compare against any external reference date or your training cutoff — trust what the display shows.
+- Date check: read the date directly from the camera display. Accept it if it shows a plausible date (year between 2024 and 2030, valid day and month). Only fail if the year is clearly wrong (e.g. 2001, 0001, 1970) or the date is unreadable. Do NOT compare against any external reference date — trust what the display shows.
 - Format check: must be JPG. Shown as "NORMAL", "STANDARD", "FINE S", "L" etc depending on brand. RAW or RAW+JPEG = failed. The finest JPG option (FINE L on Nikon, etc.) should also be flagged.
+- Shutter speed check: look for the shutter speed value on the display (shown as e.g. "1/500", "1/1000", "500", "1000"). Extract the denominator as a number.
+  - If shutter speed < 1/500 (e.g. 1/250, 1/100): status = "failed", add to declineReasons: "Verschlusszeit zu langsam (${detected}) — mindestens 1/500s erforderlich."
+  - If shutter speed is 1/500 to 1/999: status = "warning", add to warnings: "Verschlusszeit (${detected}) könnte zu langsam sein — 1/1000s oder schneller empfohlen."
+  - If shutter speed >= 1/1000: status = "ok"
+  - If not visible on this screen / camera is in a mode that doesn't show shutter speed: status = "unreadable", message = "Verschlusszeit nicht ablesbar — bitte im Aufnahmemodus fotografieren."
 - cardImages check: if the display shows a frame counter with remaining shots and it looks like there are existing images (e.g. frame counter is not at maximum, or file number is not 0001), warn that the card may not be formatted.
 - pictureStyle: look for "Neutral", "Standard", "Picture Control" settings. Warn if saturated style detected.
 - If the image does not show a camera display at all, set uploadNewPhoto=true and decline.`;
@@ -69,7 +75,7 @@ export default async function handler(req) {
         'anthropic-version': '2023-06-01',
       },
       body: JSON.stringify({
-        model: 'claude-3-5-haiku-20241022',
+        model: 'claude-3-5-sonnet-20241022',
         max_tokens: 1024,
         system: SYSTEM_PROMPT,
         messages: [{

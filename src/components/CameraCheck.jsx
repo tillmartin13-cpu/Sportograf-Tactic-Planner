@@ -11,6 +11,7 @@ const CHECK_LABELS = {
   time: 'Uhrzeit',
   date: 'Datum & Jahr',
   format: 'Bildformat (JPG)',
+  shutterSpeed: 'Verschlusszeit',
   cardImages: 'Speicherkarte',
   pictureStyle: 'Bildprofil',
 };
