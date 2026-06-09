@@ -81,8 +81,14 @@ async function sendWithRetry(payload, maxAttempts = 3) {
       });
       clearTimeout(timeout);
       if (!res.ok) {
-        const detail = await res.text().catch(() => '');
-        throw new Error(`HTTP ${res.status}: ${detail.slice(0, 200)}`);
+        let detail = '';
+        try {
+          const errJson = await res.json();
+          detail = errJson.detail || errJson.error || JSON.stringify(errJson);
+        } catch {
+          detail = await res.text().catch(() => '');
+        }
+        throw new Error(`HTTP ${res.status}: ${detail.slice(0, 300)}`);
       }
       return await res.json();
     } catch (err) {

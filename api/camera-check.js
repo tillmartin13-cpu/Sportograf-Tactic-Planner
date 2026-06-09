@@ -75,7 +75,7 @@ export default async function handler(req) {
         'anthropic-version': '2023-06-01',
       },
       body: JSON.stringify({
-        model: 'claude-3-5-sonnet-20241022',
+        model: 'claude-3-haiku-20240307',
         max_tokens: 1024,
         system: SYSTEM_PROMPT,
         messages: [{
@@ -115,8 +115,10 @@ export default async function handler(req) {
 
   } catch (err) {
     // Catch-all — ensures we always return JSON, never a Vercel HTML error page
-    console.error('camera-check unhandled error:', err);
-    return json({ error: 'Internal server error', detail: String(err?.message ?? err).slice(0, 200) }, 500);
+    const detail = String(err?.message ?? err);
+    const stack = String(err?.stack ?? '').slice(0, 300);
+    console.error('camera-check unhandled error:', detail, stack);
+    return json({ error: 'Internal server error', detail: detail.slice(0, 300), stack: stack }, 500);
   }
 }
 
