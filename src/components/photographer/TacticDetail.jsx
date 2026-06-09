@@ -49,22 +49,28 @@ function navOptions(lat, lng) {
   return options;
 }
 
+// Street View first (more commonly used), Mapillary second
 const VIEW_OPTIONS = (lat, lng) => [
-  {
-    id: 'mapillary',
-    label: 'Mapillary',
-    icon: '📸',
-    url: `https://www.mapillary.com/app/?lat=${lat}&lng=${lng}&z=17`,
-  },
   {
     id: 'streetview',
     label: 'Street View',
     icon: '👀',
     url: `https://www.google.com/maps?q=&layer=c&cbll=${lat},${lng}`,
   },
+  {
+    id: 'mapillary',
+    label: 'Mapillary',
+    icon: '📸',
+    url: `https://www.mapillary.com/app/?lat=${lat}&lng=${lng}&z=17`,
+  },
 ];
 
 // ─── Navigate dropdown ────────────────────────────────────────────────────────
+
+// PWA-safe external link opener — target="_blank" is unreliable in iOS standalone mode
+function openExternal(url) {
+  window.open(url, '_blank', 'noopener,noreferrer');
+}
 
 function NavigateButton({ lat, lng }) {
   const [open, setOpen] = useState(false);
@@ -72,14 +78,16 @@ function NavigateButton({ lat, lng }) {
 
   useEffect(() => {
     if (!open) return;
+    // Use touchend (not touchstart) — touchstart fires before tap completes
+    // and closes the dropdown before the user can select an option
     function handler(e) {
       if (ref.current && !ref.current.contains(e.target)) setOpen(false);
     }
     document.addEventListener('mousedown', handler);
-    document.addEventListener('touchstart', handler);
+    document.addEventListener('touchend', handler);
     return () => {
       document.removeEventListener('mousedown', handler);
-      document.removeEventListener('touchstart', handler);
+      document.removeEventListener('touchend', handler);
     };
   }, [open]);
 
@@ -101,17 +109,15 @@ function NavigateButton({ lat, lng }) {
       {open && (
         <div className="absolute right-0 top-full z-50 mt-1 w-44 overflow-hidden rounded-2xl border border-gray-100 bg-white shadow-xl">
           {options.map((opt) => (
-            <a
+            <button
               key={opt.id}
-              href={opt.url}
-              target="_blank"
-              rel="noreferrer"
-              onClick={() => setOpen(false)}
-              className="flex items-center gap-2.5 px-4 py-3 text-sm font-semibold text-gray-700 hover:bg-[#f0f2fa] hover:text-[#1C2B6B] transition-colors"
+              type="button"
+              onClick={() => { setOpen(false); openExternal(opt.url); }}
+              className="flex w-full items-center gap-2.5 px-4 py-3 text-sm font-semibold text-gray-700 hover:bg-[#f0f2fa] hover:text-[#1C2B6B] transition-colors"
             >
               <span className="text-base leading-none">{opt.icon}</span>
               {opt.label}
-            </a>
+            </button>
           ))}
         </div>
       )}
@@ -228,19 +234,18 @@ function SpotCard({ spot, index }) {
             </div>
             <div className="flex gap-2 overflow-x-auto pb-1">
               {spot.refImages.map((img, idx) => (
-                <a
+                <button
                   key={idx}
-                  href={img.data}
-                  target="_blank"
-                  rel="noreferrer"
+                  type="button"
+                  onClick={() => openExternal(img.data)}
                   className="shrink-0"
                 >
                   <img
                     src={img.data}
                     alt={img.name || `ref-${idx}`}
-                    className="h-24 w-24 rounded-xl object-cover border border-gray-200"
+                    className="h-24 w-24 rounded-xl object-cover border border-gray-200 active:opacity-80"
                   />
-                </a>
+                </button>
               ))}
             </div>
           </div>
@@ -250,17 +255,16 @@ function SpotCard({ spot, index }) {
       {/* Action bar */}
       {hasCoords && (
         <div className="flex border-t border-gray-100">
-          {/* View options */}
+          {/* View options — window.open for PWA/iOS standalone compatibility */}
           {viewOptions.map((opt) => (
-            <a
+            <button
               key={opt.id}
-              href={opt.url}
-              target="_blank"
-              rel="noreferrer"
-              className="flex flex-1 items-center justify-center gap-1.5 py-2.5 text-[11px] font-semibold text-gray-500 hover:bg-[#f0f2fa] hover:text-[#1C2B6B] transition-colors border-r border-gray-100"
+              type="button"
+              onClick={() => openExternal(opt.url)}
+              className="flex flex-1 items-center justify-center gap-1.5 py-2.5 text-[11px] font-semibold text-gray-500 hover:bg-[#f0f2fa] hover:text-[#1C2B6B] transition-colors border-r border-gray-100 active:bg-[#f0f2fa]"
             >
               <span>{opt.icon}</span> {opt.label}
-            </a>
+            </button>
           ))}
           {/* Navigate dropdown */}
           <div className="flex-1">
