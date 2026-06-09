@@ -131,7 +131,7 @@ export function WelcomeScreen() {
   return (
     <div className="flex min-h-full flex-col bg-[#f4f5f8]">
       {/* Header — logo only here, nowhere else */}
-      <header className="flex items-center justify-between bg-[#1C2B6B] px-5 py-3">
+      <header className="safe-top flex items-center justify-between bg-[#1C2B6B] px-5 py-3">
         <BrandLogo variant="white" className="h-7 w-[120px]" />
         <div className="flex items-center gap-2">
           <button

@@ -42,7 +42,7 @@ const TABS = [
 
 export function BottomNav({ activeTab, onTabChange }) {
   return (
-    <nav className="flex border-t border-gray-200 bg-white">
+    <nav className="safe-bottom flex border-t border-gray-200 bg-white">
       {TABS.map((tab) => {
         const isActive = !tab.external && activeTab === tab.id;
         if (tab.external) {

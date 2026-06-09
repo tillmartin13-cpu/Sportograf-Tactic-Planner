@@ -107,7 +107,7 @@ export function PhotographerApp({ onExit = () => {} }) {
   return (
     <div className="flex h-full flex-col bg-[#f4f5f8]">
       {/* Header */}
-      <header className="flex items-center justify-between bg-[#1C2B6B] px-4 py-3">
+      <header className="safe-top flex items-center justify-between bg-[#1C2B6B] px-4 py-3">
         <button
           type="button"
           onClick={onExit}
