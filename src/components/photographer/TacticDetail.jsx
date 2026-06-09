@@ -1,6 +1,7 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { MapContainer, TileLayer, Marker, Polyline, Popup, useMap } from 'react-leaflet';
-import { TRACK_COLORS, LOCATION_TYPES } from '../../lib/locationTypes';
+import { TRACK_COLORS } from '../../lib/locationTypes';
+import { buildSpotMarkerHtml } from '../../lib/spotMarkerHtml';
 import L from 'leaflet';
 import { usePhotographerStore } from '../../store/usePhotographerStore';
 import { useMyProfile } from '../../hooks/useMyProfile';
@@ -299,83 +300,45 @@ L.Icon.Default.mergeOptions({
   shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
 });
 
-// ─── Track helpers ────────────────────────────────────────────────────────────
+// ─── Track direction arrows (same logic as TacticMap) ────────────────────────
 
-function bearingBetween(p1, p2) {
-  const r = Math.PI / 180;
-  const lat1 = p1.lat * r, lat2 = p2.lat * r;
-  const dLon = (p2.lng - p1.lng) * r;
-  const y = Math.sin(dLon) * Math.cos(lat2);
-  const x = Math.cos(lat1) * Math.sin(lat2) - Math.sin(lat1) * Math.cos(lat2) * Math.cos(dLon);
-  return ((Math.atan2(y, x) * 180) / Math.PI + 360) % 360;
+function DirectionArrows({ track, color }) {
+  const map = useMap();
+  const markers = useMemo(() => {
+    if (!track?.points?.length || track.points.length < 2) return [];
+    const count = Math.max(3, Math.min(15, Math.floor((track.totalKm || 0) / 2)));
+    const intervalKm = (track.totalKm || 1) / (count + 1);
+    let nextKm = intervalKm;
+    const arrows = [];
+    for (let i = 1; i < track.points.length; i++) {
+      if ((track.cumKm?.[i] ?? i / track.points.length * (track.totalKm || 1)) < nextKm) continue;
+      nextKm += intervalKm;
+      const p1 = track.points[i];
+      const p2 = track.points[Math.min(i + 10, track.points.length - 1)];
+      const deg = (Math.atan2(p2.lng - p1.lng, p2.lat - p1.lat) * 180) / Math.PI;
+      const html = `<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14"><polygon points="7,1 11,11 7,8 3,11" fill="${color}" opacity="0.75" stroke="rgba(255,255,255,0.6)" stroke-width="0.8" stroke-linejoin="round" transform="rotate(${deg.toFixed(1)},7,7)"/></svg>`;
+      arrows.push({ key: `${i}`, pos: [p1.lat, p1.lng], icon: L.divIcon({ className: '', html, iconSize: [14, 14], iconAnchor: [7, 7] }) });
+      if (nextKm > (track.totalKm || 0)) break;
+    }
+    return arrows;
+  }, [track, color]);
+
+  useEffect(() => {
+    const refs = markers.map((a) => L.marker(a.pos, { icon: a.icon, interactive: false, zIndexOffset: -200 }).addTo(map));
+    return () => refs.forEach((m) => m.remove());
+  }, [map, markers]);
+
+  return null;
 }
 
-/** Sample ~count evenly-spaced arrow positions along a track */
-function trackArrows(points, count = 22) {
-  if (points.length < 4) return [];
-  const step = Math.max(2, Math.floor(points.length / count));
-  const arrows = [];
-  for (let i = step; i < points.length - 1; i += step) {
-    const lookback = Math.min(Math.floor(step / 2), i);
-    const angle = bearingBetween(points[i - lookback], points[i]);
-    arrows.push({ pos: [points[i].lat, points[i].lng], angle });
-  }
-  return arrows;
-}
+// ─── Spot marker — identical style to planning map ────────────────────────────
 
-function makeArrowIcon(angle, color) {
-  return L.divIcon({
-    className: '',
-    html: `<svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg">
-      <path d="M7 1 L11.5 12 L7 8.5 L2.5 12 Z"
-        fill="${color}" fill-opacity="0.85" stroke="white" stroke-width="0.8"
-        transform="rotate(${Math.round(angle)}, 7, 7)" />
-    </svg>`,
-    iconSize: [14, 14],
-    iconAnchor: [7, 7],
-  });
-}
-
-// ─── Spot marker icons ────────────────────────────────────────────────────────
-
-function makeSpotIcon(spot, isMine) {
-  const type = spot.location_type || 'photo';
-  const isPhoto = type === 'photo';
-  const cfg = LOCATION_TYPES[type];
-
-  if (isPhoto) {
-    // Photo spot: rectangular badge with name
-    const bg = isMine ? '#1C2B6B' : '#6b7280';
-    const opacity = isMine ? 1 : 0.75;
-    return L.divIcon({
-      className: '',
-      html: `<div style="
-        background:${bg};color:#fff;opacity:${opacity};
-        border:2px solid #fff;border-radius:6px;
-        padding:2px 6px;font-size:10px;font-weight:800;
-        white-space:nowrap;line-height:1.3;
-        box-shadow:0 1px 5px rgba(0,0,0,0.3);
-      ">${spot.name || '?'}</div>`,
-      iconAnchor: [0, 24],
-      iconSize: null,
-    });
-  }
-
-  // General spot: round badge with emoji
-  const emoji = cfg?.emoji || '📍';
-  const bg = cfg?.color || '#2196F3';
-  return L.divIcon({
-    className: '',
-    html: `<div style="
-      background:${bg};color:#fff;
-      border:2px solid #fff;border-radius:999px;
-      width:28px;height:28px;display:flex;align-items:center;justify-content:center;
-      font-size:13px;line-height:1;
-      box-shadow:0 1px 5px rgba(0,0,0,0.3);
-    ">${emoji}</div>`,
-    iconAnchor: [14, 14],
-    iconSize: [28, 28],
-  });
+function makeSpotMarkerIcon(spot, index, isMine) {
+  // Wrap in opacity container for non-own spots
+  const html = isMine
+    ? buildSpotMarkerHtml(spot, index)
+    : `<div style="opacity:0.5">${buildSpotMarkerHtml(spot, index)}</div>`;
+  return L.divIcon({ className: '', html, iconSize: [0, 0], iconAnchor: [0, 0] });
 }
 
 // ─── GPS location icon ────────────────────────────────────────────────────────
@@ -540,36 +503,36 @@ function SpotsMap({ allSpots, mySpotIds, gpxTracks }) {
         <TileLayer key={layer} url={TILES[layer].url} attribution={TILES[layer].attr} />
         <FitBounds allSpots={visibleSpots} gpxTracks={gpxTracks} />
 
-        {/* GPX Tracks — polyline + directional arrows */}
+        {/* GPX Tracks — polyline + direction arrows (same as planning map) */}
         {gpxTracks.map((track, ti) => {
           const color = TRACK_COLORS[ti % TRACK_COLORS.length];
           const pts = (track.points || []).map((p) => [p.lat, p.lng]);
-          const arrows = trackArrows(track.points || []);
+          if (pts.length < 2) return null;
           return (
             <React.Fragment key={track.name + ti}>
-              <Polyline positions={pts} color={color} weight={3} opacity={0.8} />
-              {arrows.map((a, ai) => (
-                <Marker key={ai} position={a.pos} icon={makeArrowIcon(a.angle, color)} />
-              ))}
+              <Polyline positions={pts} color={color} weight={4} opacity={0.88} />
+              <DirectionArrows track={track} color={color} />
             </React.Fragment>
           );
         })}
 
-        {/* All spots — navy for mine, gray for others, emoji for general */}
+        {/* All spots — same marker style as planning map */}
         {visibleSpots.map((spot, i) => {
           const isMine = mySpotIds ? mySpotIds.has(spot.id) : true;
-          const type = spot.location_type || 'photo';
-          const isPhoto = type === 'photo';
           return (
-            <Marker key={spot.id || i} position={[spot.latitude, spot.longitude]}
-              icon={makeSpotIcon(spot, isMine)}>
+            <Marker
+              key={spot.id || i}
+              position={[spot.latitude, spot.longitude]}
+              icon={makeSpotMarkerIcon(spot, i + 1, isMine)}
+              zIndexOffset={isMine ? 500 : 100}
+            >
               <Popup>
-                <div className="text-xs font-bold">{spot.name}</div>
-                {isPhoto && !isMine && (
+                <div className="text-xs font-bold text-[#1C2B6B]">{spot.name}</div>
+                {!isMine && (spot.location_type === 'photo' || !spot.location_type) && (
                   <div className="text-[10px] text-gray-400">Other photographer</div>
                 )}
                 {(spot.time_from || spot.time_to) && (
-                  <div className="text-xs text-gray-500">
+                  <div className="text-xs text-[#5b6aa8] mt-0.5">
                     {formatTimeShort(spot.time_from)}–{formatTimeShort(spot.time_to)}
                   </div>
                 )}
@@ -594,21 +557,18 @@ function SpotsMap({ allSpots, mySpotIds, gpxTracks }) {
         <CenterOnMe position={myPos} />
       </MapContainer>
 
-      {/* Legend */}
-      <div className="flex items-center gap-3 bg-white px-3 py-1.5 text-[10px] text-gray-400 flex-wrap">
-        <span className="flex items-center gap-1">
-          <span className="inline-block h-2.5 w-2.5 rounded bg-[#1C2B6B]" /> My spots
-        </span>
-        <span className="flex items-center gap-1">
-          <span className="inline-block h-2.5 w-2.5 rounded bg-gray-400" /> Other photographers
-        </span>
-        {gpxTracks.map((t, i) => (
-          <span key={i} className="flex items-center gap-1">
-            <span className="inline-block h-0.5 w-4 rounded" style={{ background: TRACK_COLORS[i % TRACK_COLORS.length] }} />
-            {t.name || `Route ${i + 1}`}
-          </span>
-        ))}
-      </div>
+      {/* Legend — track names only */}
+      {gpxTracks.length > 0 && (
+        <div className="flex items-center gap-3 bg-white px-3 py-1.5 text-[10px] text-gray-400 flex-wrap border-t border-gray-100">
+          {gpxTracks.map((t, i) => (
+            <span key={i} className="flex items-center gap-1.5">
+              <span className="inline-block h-0.5 w-5 rounded-full" style={{ background: TRACK_COLORS[i % TRACK_COLORS.length] }} />
+              {t.name || `Route ${i + 1}`}
+              {t.totalKm ? ` · ${t.totalKm.toFixed(1)} km` : ''}
+            </span>
+          ))}
+        </div>
+      )}
 
       {needsCompassPerm && myPos && (
         <button type="button" onClick={requestCompassPerm}
