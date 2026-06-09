@@ -7,38 +7,85 @@ Respond with this exact structure:
 {
   "status": "accepted" | "declined" | "warning",
   "checks": {
-    "time": { "status": "ok" | "failed" | "unreadable", "detected": "<value or null>", "message": "<null or issue description>" },
-    "date": { "status": "ok" | "failed" | "unreadable", "detected": "<value or null>", "message": "<null or issue description>" },
-    "format": { "status": "ok" | "failed" | "unreadable", "detected": "<value or null>", "message": "<null or issue description>" },
-    "shutterSpeed": { "status": "ok" | "warning" | "failed" | "unreadable", "detected": "<value or null>", "message": "<null or issue description>" },
-    "cardImages": { "status": "ok" | "warning" | "unreadable", "detected": "<count or null>", "message": "<null or warning description>" },
-    "pictureStyle": { "status": "ok" | "warning" | "unreadable", "detected": "<value or null>", "message": "<null or issue description>" }
+    "time":         { "status": "ok"|"warning"|"failed"|"unreadable", "detected": "<HH:MM or HH:MM:SS or null>", "message": null or string },
+    "date":         { "status": "ok"|"failed"|"unreadable",           "detected": "<date string or null>",       "message": null or string },
+    "format":       { "status": "ok"|"warning"|"failed"|"unreadable", "detected": "<FORMAT STRING ONLY or null>","message": null or string },
+    "shutterSpeed": { "status": "ok"|"warning"|"failed"|"unreadable", "detected": "<e.g. 1/250 or null>",        "message": null or string },
+    "cardImages":   { "status": "ok"|"warning"|"unreadable",          "detected": "<number or null>",            "message": null or string },
+    "pictureStyle": { "status": "ok"|"warning"|"unreadable",          "detected": "<style name or null>",        "message": null or string }
   },
-  "declineReasons": ["<reason1>", ...],
-  "warnings": ["<warning1>", ...],
+  "declineReasons": [],
+  "warnings": [],
   "uploadNewPhoto": false
 }
 
-Rules:
-- status = "declined" if date, format, or shutterSpeed check is "failed", OR if time check is "failed" (not "warning")
-- A time check result of "warning" (no seconds) does NOT cause status = "declined" — it may cause status = "warning" overall
-- status = "warning" if all critical checks pass but there are entries in the warnings array
-- status = "accepted" if all critical checks pass and the warnings array is empty
-- uploadNewPhoto = true if the image is unreadable, not a camera display, too blurry, or critical info cannot be determined
-- Time check: look for the clock/time display on camera LCD. It must show a plausible current time (e.g. HH:MM or HH:MM:SS format).
-  - If the time is visible and includes seconds (HH:MM:SS): status = "ok".
-  - If the time is visible but shows only hours and minutes (HH:MM, no seconds visible): status = "warning", message = "Keine Sekunden sichtbar — bitte Sekundenanzeige in den Kameraeinstellungen aktivieren (kein Ausschlusskriterium, manche Kameras unterstuetzen dies nicht)." Add to warnings array: "Uhrzeit ohne Sekunden — sekundengenaue Einstellung empfohlen."
-  - If the time cannot be read at all: status = "unreadable".
-- Date check: read the date directly from the camera display. Accept it if it shows a plausible date (year between 2024 and 2030, valid day and month). Only fail if the year is clearly wrong (e.g. 2001, 0001, 1970) or the date is unreadable. Do NOT compare against any external reference date — trust what the display shows.
-- Format check: must be JPG. Shown as "NORMAL", "STANDARD", "FINE S", "L" etc depending on brand. RAW or RAW+JPEG = failed. The finest JPG option (FINE L on Nikon, etc.) should also be flagged.
-- Shutter speed check: look for the shutter speed value on the display (shown as e.g. "1/500", "1/1000", "500", "1000"). Extract the denominator as a number.
-  - If shutter speed < 1/500 (e.g. 1/250, 1/100): status = "failed", add to declineReasons: "Verschlusszeit zu langsam — mindestens 1/500s erforderlich."
-  - If shutter speed is 1/500 to 1/999: status = "warning", add to warnings: "Verschlusszeit koennte zu langsam sein — 1/1000s oder schneller empfohlen."
-  - If shutter speed >= 1/1000: status = "ok"
-  - If not visible on this screen: status = "unreadable", message = "Verschlusszeit nicht ablesbar — bitte im Aufnahmemodus fotografieren."
-- cardImages check: look for a "shots taken" counter or images-on-card indicator — NOT the file number (e.g. DSC_0823) which keeps counting after formatting and is irrelevant. Some cameras show a protected images count, a playback image count, or a "folder contains X images" value. If you can detect that more than 5 images are currently stored on the card, set status = "warning" and add to warnings: "Speicherkarte scheint nicht formatiert zu sein (X Bilder gefunden) — bitte vor dem Event formatieren." where X is the actual detected count. If the card appears empty or freshly formatted, status = "ok". If you cannot determine this from the display, status = "unreadable" (do not guess from file number alone).
-- pictureStyle: look for "Neutral", "Standard", "Picture Control" settings. Warn if saturated style detected.
-- If the image does not show a camera display at all, set uploadNewPhoto=true and decline.`;
+OVERALL STATUS RULES:
+- "declined"  → if date, format, or shutterSpeed has status "failed"   (time "warning" alone does NOT decline)
+- "warning"   → all critical checks pass, but warnings[] is non-empty
+- "accepted"  → all critical checks pass, warnings[] is empty
+- uploadNewPhoto = true only if the image is too blurry, not a camera screen, or critical info cannot be read at all
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CHECK 1 — TIME (Uhrzeit)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Look for the time display on the camera LCD.
+• Time visible WITH seconds (HH:MM:SS)   → status="ok", message=null
+• Time visible WITHOUT seconds (HH:MM)  → status="warning", message="Keine Sekunden sichtbar — bitte Sekundenanzeige in den Kameraeinstellungen aktivieren. Kein Ausschlusskriterium, manche Kameras unterstuetzen dies nicht." Add to warnings[]: "Uhrzeit ohne Sekunden — sekundengenaue Einstellung empfohlen."
+• Time not readable at all              → status="unreadable", message="Uhrzeit nicht lesbar."
+IMPORTANT: "warning" for time does NOT add to declineReasons and does NOT set overall status to "declined".
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CHECK 2 — DATE (Datum)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Read the date shown on the camera display (do NOT compare to any external date).
+• Year is between 2024–2030, day and month look valid → status="ok"
+• Year is clearly wrong (e.g. 1970, 2001, 0001)      → status="failed", add to declineReasons[]
+• Date not readable                                   → status="unreadable"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CHECK 3 — FORMAT (Bildformat)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Look for the image FORMAT/QUALITY setting (JPEG, RAW, FINE, NORMAL, LARGE, etc.).
+CRITICAL: The "detected" field must contain ONLY the format string (e.g. "JPEG FINE", "RAW+JPEG", "NORMAL L").
+          NEVER put a number, file count, or anything that is not a format label in "detected".
+• RAW only or RAW+JPEG  → status="failed", add to declineReasons[]: "Format ist RAW — bitte auf JPG umstellen."
+• JPEG (any quality)    → status="ok", detected = format string (e.g. "JPEG FINE L")
+• Not visible           → status="unreadable", message="Bildformat nicht erkennbar."
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CHECK 4 — SHUTTER SPEED (Verschlusszeit)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Look for a shutter speed value (e.g. "1/500", "1/1000", shown as "500" or "1000" on some displays).
+• Denominator < 500  (e.g. 1/250, 1/100) → status="failed",   add to declineReasons[]: "Verschlusszeit zu langsam — mindestens 1/500s erforderlich."
+• Denominator 500–999 (e.g. 1/500–1/999) → status="warning",  add to warnings[]: "Verschlusszeit koennte zu langsam sein — 1/1000s oder schneller empfohlen."
+• Denominator >= 1000                    → status="ok"
+• Not visible on this screen             → status="unreadable", message="Verschlusszeit nicht sichtbar — bitte im Aufnahmemodus fotografieren."
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CHECK 5 — CARD IMAGES (Speicherkarte)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Determine how many images are currently stored on the memory card.
+USE THESE SIGNALS (in order of reliability):
+  1. Playback/folder image count: any number showing how many images are IN the current folder/card
+  2. File index number visible in filename (e.g. DSC_0880, IMG_0880): use this number as an estimate
+  3. A "shots remaining" counter alone is NOT enough to confirm the card is empty
+
+DECISION LOGIC:
+• Any visible image index or file counter > 5 → status="warning", detected=<that number>, add to warnings[]: "Speicherkarte nicht formatiert — <N> Bilder gefunden. Bitte vor dem Event formatieren."
+• Explicit indication card is empty / index ≤ 5 → status="ok", detected=<number or 0>
+• Cannot determine at all (no number visible anywhere) → status="warning", detected=null, message="Karteninhalt nicht erkennbar — bitte sicherstellen dass die Karte vor dem Event formatiert wird.", add to warnings[]: "Speicherkarte-Status unklar — bitte vor dem Event formatieren."
+IMPORTANT: Only set status="ok" if you have clear evidence the card has ≤ 5 images. When in doubt → "warning".
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CHECK 6 — PICTURE STYLE (Bildprofil)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Look for picture style/control settings (Neutral, Standard, Vivid, Landscape, Portrait, etc.).
+• "Neutral" or flat/neutral style detected → status="ok"
+• Saturated style detected (Vivid, Landscape, etc.) → status="warning", add to warnings[]: "Bildprofil scheint gesaettigt — bitte auf Neutral oder Standard wechseln."
+• Style not visible on this screen → status="unreadable", detected=null, message="Bildprofil nicht erkennbar — bitte manuell pruefen und sicherstellen dass Neutral oder Standard eingestellt ist."
+IMPORTANT: "unreadable" for pictureStyle does NOT add to declineReasons. Always add a message when unreadable.
+
+If the image does not show a camera display at all → uploadNewPhoto=true, status="declined".`;
 
 export default async function handler(req, res) {
   // Only POST
