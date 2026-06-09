@@ -315,7 +315,7 @@ export function TacticMap({
 
       <div className="absolute left-2 top-[90px] z-[500] flex flex-col gap-1.5">
         {interactive && enableMapClick && (
-          <div className="rounded-lg bg-white/95 px-2.5 py-1.5 text-[10px] font-bold text-[#5b6aa8] shadow-md">
+          <div className="rounded-lg bg-black/30 px-2.5 py-1 text-[10px] text-white/80 backdrop-blur-sm">
             Click map to add spot
           </div>
         )}

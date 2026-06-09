@@ -36,9 +36,9 @@ export function MapPanel({ fullscreen = false, onExpand, onCollapse }) {
           <button
             type="button"
             onClick={onCollapse}
-            className="absolute bottom-4 right-3 z-[1000] rounded-lg bg-[#1C2B6B] px-3 py-1.5 text-[11px] font-bold text-white shadow-md hover:bg-[#152258]"
+            className="absolute bottom-5 left-1/2 -translate-x-1/2 z-[1000] rounded-xl bg-[#1C2B6B] px-6 py-2.5 text-sm font-bold text-white shadow-lg hover:bg-[#152258]"
           >
-            {t('toolsBackPlan')}
+            ← Back to Planning
           </button>
         )}
         <TacticMap
