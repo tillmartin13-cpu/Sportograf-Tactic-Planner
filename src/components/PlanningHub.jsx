@@ -6,6 +6,7 @@ import { PhotographersPanel } from './PhotographersPanel';
 import { MapPanel } from './MapPanel';
 import { TopBar } from './TopBar';
 import { TeamCheckInPanel } from './TeamCheckInPanel';
+import { TravelPanel } from './TravelPanel';
 import { PlannerOnboarding } from './PlannerOnboarding';
 import { ReferenceTimeline } from './ReferenceTimeline';
 import { SpotModal } from './SpotModal';
@@ -60,6 +61,7 @@ export function PlanningHub({ title = 'Tactic Planner' }) {
             <>
               <PhotographersPanel />
               <TeamCheckInPanel />
+              <TravelPanel />
             </>
           ) : (
             <div className="sg-card p-4 text-sm text-[var(--sg-muted)]">
