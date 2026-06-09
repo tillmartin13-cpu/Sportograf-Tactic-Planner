@@ -36,7 +36,7 @@ export function MapPanel({ fullscreen = false, onExpand, onCollapse }) {
           <button
             type="button"
             onClick={onCollapse}
-            className="absolute right-3 top-3 z-[1000] rounded-lg bg-[#1C2B6B] px-3 py-1.5 text-[11px] font-bold text-white shadow-md hover:bg-[#152258]"
+            className="absolute bottom-4 right-3 z-[1000] rounded-lg bg-[#1C2B6B] px-3 py-1.5 text-[11px] font-bold text-white shadow-md hover:bg-[#152258]"
           >
             {t('toolsBackPlan')}
           </button>
