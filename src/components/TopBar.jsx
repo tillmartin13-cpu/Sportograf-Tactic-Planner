@@ -85,10 +85,13 @@ export function TopBar({ title = 'Tactic Planner' }) {
           <button
             type="button"
             onClick={exitToWelcome}
-            className="ml-1 rounded-[10px] px-2 py-1.5 text-[11px] font-bold text-white/70 hover:bg-white/10"
-            title="Exit"
+            className="ml-1 flex items-center gap-1 rounded-[10px] px-2 py-1.5 text-[11px] font-bold text-white/70 hover:bg-white/10 hover:text-white"
+            title="Back to home"
           >
-            ✕
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className="h-3.5 w-3.5">
+              <polyline points="15 18 9 12 15 6" />
+            </svg>
+            Home
           </button>
         </div>
       </header>

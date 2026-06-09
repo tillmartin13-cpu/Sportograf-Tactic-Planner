@@ -83,7 +83,7 @@ function SettingsSheet({ onClose }) {
   );
 }
 
-export function PhotographerApp({ onExit }) {
+export function PhotographerApp({ onExit = () => {} }) {
   const acronym = usePhotographerStore((s) => s.acronym);
   const screen = usePhotographerStore((s) => s.screen);
   const openCheckIn = usePhotographerStore((s) => s.openCheckIn);
@@ -108,7 +108,17 @@ export function PhotographerApp({ onExit }) {
     <div className="flex h-full flex-col bg-[#f4f5f8]">
       {/* Header */}
       <header className="flex items-center justify-between bg-[#1C2B6B] px-4 py-3">
-        <BrandLogo variant="white" className="h-6 w-[90px]" />
+        <button
+          type="button"
+          onClick={onExit}
+          className="flex items-center gap-1.5 text-xs font-semibold text-white/70 hover:text-white transition-colors"
+          aria-label="Back to start"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className="h-4 w-4">
+            <polyline points="15 18 9 12 15 6" />
+          </svg>
+          Home
+        </button>
         <span className="text-xs font-semibold text-white/70">{greeting}</span>
         <button
           type="button"
