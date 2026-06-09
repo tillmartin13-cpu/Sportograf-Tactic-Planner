@@ -2,19 +2,19 @@ import Papa from 'papaparse';
 import { normalizeEventId, uid } from './id';
 
 const COL_ALIASES = {
-  acronym: ['acronym', 'kuerzel', 'kürzel', 'code', 'short'],
-  firstName: ['first name', 'firstname', 'first_name', 'vorname'],
-  lastName: ['last name', 'lastname', 'last_name', 'nachname'],
-  email: ['email', 'e-mail', 'mail'],
-  phone: ['phone', 'telefon', 'mobile'],
-  dateOfBirth: ['dateofbirth', 'date of birth', 'date_of_birth', 'dob', 'geburtstag'],
-  dispatch: ['dispatch', 'einsatzort', 'location', 'standort'],
+  acronym: ['photographer acronym', 'acronym', 'kuerzel', 'kürzel', 'code', 'short'],
+  firstName: ['photographer first name', 'first name', 'firstname', 'first_name', 'vorname'],
+  lastName: ['photographer last name', 'last name', 'lastname', 'last_name', 'nachname'],
+  email: ['photographer email', 'email', 'e-mail', 'mail'],
+  phone: ['photographer phone', 'phone', 'telefon', 'mobile'],
+  dateOfBirth: ['photographer date of birth', 'dateofbirth', 'date of birth', 'date_of_birth', 'dob', 'geburtstag'],
+  dispatch: ['dispatch name', 'dispatch', 'einsatzort', 'location', 'standort'],
   cameras: ['cameras', 'camera', 'kameras'],
   lenses: ['lenses', 'lens', 'objektive', 'objektiv'],
   flashes: ['flashes', 'flash', 'blitz', 'blitze'],
-  eventId: ['eventid', 'event id', 'event_id', 'id'],
-  eventName: ['eventname', 'event name', 'event_name', 'event', 'veranstaltung'],
-  eventDate: ['eventdate', 'event date', 'event_date', 'date', 'datum'],
+  eventId: ['event id', 'eventid', 'event_id', 'id'],
+  eventName: ['event name', 'eventname', 'event_name', 'event', 'veranstaltung'],
+  eventDate: ['event date', 'eventdate', 'event_date', 'date', 'datum'],
   predecessorEventId: [
     'predecessoreventid',
     'predecessor event id',
@@ -137,11 +137,14 @@ export function parseTeamCsv(text) {
     const acronym = cell(row, col.acronym).toUpperCase();
     if (!acronym) return;
 
+    const firstName = cell(row, col.firstName);
+    const lastName = cell(row, col.lastName);
     photographers.push({
       id: uid('ph'),
       code: acronym,
-      firstName: cell(row, col.firstName),
-      lastName: cell(row, col.lastName),
+      firstName,
+      lastName,
+      name: [firstName, lastName].filter(Boolean).join(' ') || acronym,
       email: cell(row, col.email),
       phone: cell(row, col.phone),
       dateOfBirth: col.dateOfBirth >= 0 ? parseCsvDate(cell(row, col.dateOfBirth)) : '',
