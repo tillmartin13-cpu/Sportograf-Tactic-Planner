@@ -1,4 +1,11 @@
-export const config = { maxDuration: 30 };
+export const config = {
+  maxDuration: 30,
+  api: {
+    bodyParser: {
+      sizeLimit: '6mb',
+    },
+  },
+};
 
 const SYSTEM_PROMPT = `You are a camera settings verification assistant for sports photographers.
 You analyze photos of camera LCD displays and determine if the settings are correct for a Sportograf event.
