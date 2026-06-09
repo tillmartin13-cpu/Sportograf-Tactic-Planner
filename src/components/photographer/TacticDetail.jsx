@@ -298,25 +298,39 @@ L.Icon.Default.mergeOptions({
   shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
 });
 
-// Pulsing blue dot icon for own position
-const myLocationIcon = L.divIcon({
-  className: '',
-  html: `<div style="
-    width:18px;height:18px;border-radius:50%;
-    background:#2563eb;border:3px solid #fff;
-    box-shadow:0 0 0 3px rgba(37,99,235,0.35);
-    animation:sg-pulse 2s ease-in-out infinite;
-  "></div>`,
-  iconSize: [18, 18],
-  iconAnchor: [9, 9],
-});
+// Build SVG location icon — dot + optional directional cone
+function makeLocationIcon(heading) {
+  const hasHeading = heading !== null && heading !== undefined;
+  const size = 48;
+  const cx = 24;
+  const cy = 24;
+  const dotR = 8;
+  const ringR = 13;
 
-// Inject pulse keyframes once
-if (typeof document !== 'undefined' && !document.getElementById('sg-pulse-style')) {
-  const s = document.createElement('style');
-  s.id = 'sg-pulse-style';
-  s.textContent = `@keyframes sg-pulse{0%,100%{box-shadow:0 0 0 3px rgba(37,99,235,0.35)}50%{box-shadow:0 0 0 7px rgba(37,99,235,0.1)}}`;
-  document.head.appendChild(s);
+  // Triangle points toward heading (up = north = 0°)
+  // We draw it pointing up and rotate around center
+  const coneH = 14; // height of triangle above dot
+  const coneW = 8;  // half-width
+  const tipY = cy - dotR - coneH;
+  const baseY = cy - dotR + 1;
+  const triangle = hasHeading
+    ? `<path d="M ${cx} ${tipY} L ${cx - coneW} ${baseY} L ${cx + coneW} ${baseY} Z"
+         fill="rgba(37,99,235,0.85)" stroke="white" stroke-width="1.2" stroke-linejoin="round"
+         transform="rotate(${heading}, ${cx}, ${cy})" />`
+    : '';
+
+  const svg = `<svg width="${size}" height="${size}" viewBox="0 0 ${size} ${size}" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="${cx}" cy="${cy}" r="${ringR}" fill="rgba(37,99,235,0.18)" />
+    ${triangle}
+    <circle cx="${cx}" cy="${cy}" r="${dotR}" fill="#2563eb" stroke="white" stroke-width="2.5" />
+  </svg>`;
+
+  return L.divIcon({
+    className: '',
+    html: svg,
+    iconSize: [size, size],
+    iconAnchor: [cx, cy],
+  });
 }
 
 function FitBounds({ spots }) {
@@ -357,13 +371,20 @@ function CenterOnMe({ position }) {
   );
 }
 
+function headingLabel(deg) {
+  const dirs = ['N','NE','E','SE','S','SW','W','NW','N'];
+  return dirs[Math.round(deg / 45) % 8];
+}
+
 function SpotsMap({ spots }) {
   const [layer, setLayer] = useState('street');
   const [myPos, setMyPos] = useState(null);
+  const [heading, setHeading] = useState(null);
   const [geoError, setGeoError] = useState(false);
+  const [needsCompassPerm, setNeedsCompassPerm] = useState(false);
   const validSpots = spots.filter((s) => s.latitude != null);
 
-  // Live position tracking
+  // Live GPS tracking
   useEffect(() => {
     if (!navigator.geolocation) return;
     const watchId = navigator.geolocation.watchPosition(
@@ -373,6 +394,43 @@ function SpotsMap({ spots }) {
     );
     return () => navigator.geolocation.clearWatch(watchId);
   }, []);
+
+  // Compass / heading tracking
+  useEffect(() => {
+    function handleOrientation(e) {
+      // iOS: webkitCompassHeading (degrees clockwise from north, 0-360)
+      // Android: alpha (degrees counterclockwise from north → convert)
+      const h = e.webkitCompassHeading != null
+        ? e.webkitCompassHeading
+        : e.alpha != null
+          ? (360 - e.alpha + (screen.orientation?.angle ?? 0)) % 360
+          : null;
+      if (h != null) setHeading(Math.round(h));
+    }
+
+    if (typeof DeviceOrientationEvent?.requestPermission === 'function') {
+      // iOS 13+ — needs user gesture; show button
+      setNeedsCompassPerm(true);
+    } else {
+      window.addEventListener('deviceorientation', handleOrientation, true);
+    }
+    return () => window.removeEventListener('deviceorientation', handleOrientation, true);
+  }, []);
+
+  async function requestCompassPerm() {
+    try {
+      const state = await DeviceOrientationEvent.requestPermission();
+      if (state === 'granted') {
+        setNeedsCompassPerm(false);
+        window.addEventListener('deviceorientation', (e) => {
+          const h = e.webkitCompassHeading != null ? e.webkitCompassHeading : null;
+          if (h != null) setHeading(Math.round(h));
+        }, true);
+      }
+    } catch {
+      setNeedsCompassPerm(false);
+    }
+  }
 
   if (!validSpots.length) return null;
 
@@ -429,11 +487,14 @@ function SpotsMap({ spots }) {
           </Marker>
         ))}
 
-        {/* Own position — blue pulsing dot */}
+        {/* Own position — dot + directional cone */}
         {myPos && (
-          <Marker position={myPos} icon={myLocationIcon}>
+          <Marker position={myPos} icon={makeLocationIcon(heading)}>
             <Popup>
               <div className="text-xs font-bold">📍 Your position</div>
+              {heading !== null && (
+                <div className="text-xs text-gray-500">{Math.round(heading)}° {headingLabel(heading)}</div>
+              )}
             </Popup>
           </Marker>
         )}
@@ -441,6 +502,17 @@ function SpotsMap({ spots }) {
         {/* Center-on-me button */}
         <CenterOnMe position={myPos} />
       </MapContainer>
+
+      {/* iOS compass permission */}
+      {needsCompassPerm && myPos && (
+        <button
+          type="button"
+          onClick={requestCompassPerm}
+          className="flex w-full items-center justify-center gap-2 bg-[#f0f2fa] px-3 py-2 text-xs font-bold text-[#1C2B6B] hover:bg-[#e4e8f5] transition-colors"
+        >
+          🧭 Enable compass direction
+        </button>
+      )}
 
       {/* Geo error hint */}
       {geoError && (
