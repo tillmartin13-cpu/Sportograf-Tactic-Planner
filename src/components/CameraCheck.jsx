@@ -133,8 +133,11 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
     try {
       // Compress before sending — prevents 4MB Edge Function limit errors
       const compressed = await compressForApi(imageData);
+      // Pass today's date so the AI can verify against the actual current date
+      const today = new Date();
+      const currentDate = today.toISOString().slice(0, 10); // "YYYY-MM-DD"
       const data = await sendWithRetry(
-        { image: compressed, mediaType: 'image/jpeg', cameraModel, expectedImageSize, expectedJpeg },
+        { image: compressed, mediaType: 'image/jpeg', cameraModel, expectedImageSize, expectedJpeg, currentDate },
         3,
       );
       setResult(data);

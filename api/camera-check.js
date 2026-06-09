@@ -51,11 +51,16 @@ export default async function handler(req) {
       return json({ error: 'Invalid JSON body' }, 400);
     }
 
-    const { image, mediaType = 'image/jpeg', cameraModel, expectedImageSize, expectedJpeg } = body;
+    const { image, mediaType = 'image/jpeg', cameraModel, expectedImageSize, expectedJpeg, currentDate } = body;
     if (!image) return json({ error: 'No image provided' }, 400);
 
     const base64 = image.includes(',') ? image.split(',')[1] : image;
     if (!base64 || base64.length < 100) return json({ error: 'Image data too short / corrupt' }, 400);
+
+    // Use client-supplied date (reliable) or fall back to server time
+    const todayStr = currentDate ?? new Date().toISOString().slice(0, 10);
+    const [yyyy, mm, dd] = todayStr.split('-');
+    const dateContext = `Today's date is ${dd}.${mm}.${yyyy} (day.month.year). Use this as the reference for the date check — do NOT rely on your training data cutoff for what year/date it is.`;
 
     const cameraContext = cameraModel
       ? `The photographer is using a ${cameraModel}. Expected settings: Image Size = "${expectedImageSize}", JPEG quality = "${expectedJpeg}". Verify against these exact values.`
@@ -76,7 +81,7 @@ export default async function handler(req) {
           role: 'user',
           content: [
             { type: 'image', source: { type: 'base64', media_type: 'image/jpeg', data: base64 } },
-            { type: 'text', text: `Analyze this camera display. ${cameraContext} Return only JSON.` },
+            { type: 'text', text: `${dateContext} ${cameraContext} Analyze this camera display and return only JSON.` },
           ],
         }],
       }),
