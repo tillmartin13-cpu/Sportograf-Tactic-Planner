@@ -1,6 +1,56 @@
 import { useRef, useState } from 'react';
 import { usePhotographerStore } from '../../store/usePhotographerStore';
 
+/** Inline prompt shown when no acronym is set yet — blocks JSON upload */
+function AcronymGate({ onSaved }) {
+  const setAcronym = usePhotographerStore((s) => s.setAcronym);
+  const [draft, setDraft] = useState('');
+  const [touched, setTouched] = useState(false);
+  const valid = draft.trim().length >= 2;
+
+  function handleSave() {
+    if (!valid) { setTouched(true); return; }
+    setAcronym(draft.trim());
+    onSaved?.();
+  }
+
+  return (
+    <div className="rounded-2xl border border-amber-200 bg-amber-50 p-5">
+      <div className="flex items-center gap-2 mb-3">
+        <span className="text-2xl">🪪</span>
+        <div>
+          <p className="font-bold text-amber-900 text-sm">Acronym required</p>
+          <p className="text-xs text-amber-700 mt-0.5">Enter your photographer acronym before loading a tactic.</p>
+        </div>
+      </div>
+      <div className="flex gap-2">
+        <input
+          type="text"
+          value={draft}
+          onChange={(e) => { setDraft(e.target.value.toUpperCase()); setTouched(false); }}
+          onKeyDown={(e) => e.key === 'Enter' && handleSave()}
+          placeholder="e.g. ALN"
+          maxLength={6}
+          className={`flex-1 rounded-xl border px-3 py-2.5 text-sm font-bold uppercase tracking-wider focus:outline-none focus:ring-2 focus:ring-amber-400 ${
+            touched && !valid ? 'border-red-400 bg-red-50' : 'border-amber-300 bg-white'
+          }`}
+        />
+        <button
+          type="button"
+          onClick={handleSave}
+          className="rounded-xl bg-[#1C2B6B] px-4 py-2.5 text-sm font-bold text-white hover:bg-[#16225a] active:scale-95 transition-transform"
+        >
+          Save
+        </button>
+      </div>
+      {touched && !valid && (
+        <p className="mt-1.5 text-xs text-red-600">Please enter at least 2 characters.</p>
+      )}
+      <p className="mt-2 text-xs text-amber-600">You can change it later in ⚙️ Settings.</p>
+    </div>
+  );
+}
+
 function eventTypeIcon(pkg) {
   const name = (pkg?.event?.name || '').toLowerCase();
   if (name.includes('hyrox')) return '🏋️';
@@ -130,6 +180,8 @@ export function TacticManager() {
   const importTacticJson = usePhotographerStore((s) => s.importTacticJson);
   const deleteTactic = usePhotographerStore((s) => s.deleteTactic);
   const openTactic = usePhotographerStore((s) => s.openTactic);
+  const acronym = usePhotographerStore((s) => s.acronym);
+  const hasAcronym = acronym && acronym.trim().length >= 2;
 
   const fileRef = useRef(null);
   const [deleteId, setDeleteId] = useState(null);
@@ -174,20 +226,26 @@ export function TacticManager() {
         </div>
       )}
 
-      <button
-        type="button"
-        onClick={() => fileRef.current?.click()}
-        className="flex items-center justify-center gap-2 rounded-2xl border-2 border-dashed border-[#1C2B6B]/30 bg-[#f8f9ff] py-4 text-sm font-bold text-[#1C2B6B] hover:border-[#1C2B6B]/60 hover:bg-[#f0f2fa] transition-colors"
-      >
-        <span className="text-lg">+</span> Load new tactic (JSON)
-      </button>
-      <input
-        ref={fileRef}
-        type="file"
-        accept=".json,application/json"
-        className="hidden"
-        onChange={(e) => { handleFile(e.target.files?.[0]); e.target.value = ''; }}
-      />
+      {hasAcronym ? (
+        <>
+          <button
+            type="button"
+            onClick={() => fileRef.current?.click()}
+            className="flex items-center justify-center gap-2 rounded-2xl border-2 border-dashed border-[#1C2B6B]/30 bg-[#f8f9ff] py-4 text-sm font-bold text-[#1C2B6B] hover:border-[#1C2B6B]/60 hover:bg-[#f0f2fa] transition-colors"
+          >
+            <span className="text-lg">+</span> Load new tactic (JSON)
+          </button>
+          <input
+            ref={fileRef}
+            type="file"
+            accept=".json,application/json"
+            className="hidden"
+            onChange={(e) => { handleFile(e.target.files?.[0]); e.target.value = ''; }}
+          />
+        </>
+      ) : (
+        <AcronymGate />
+      )}
 
       {deleteId && (
         <DeleteConfirmModal
