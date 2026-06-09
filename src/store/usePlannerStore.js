@@ -519,9 +519,13 @@ export const usePlannerStore = create(
             const idx = merged.findIndex((p) => p.code === incoming.code);
             if (idx >= 0) {
               const { id: _dropId, ...rest } = incoming;
-              merged[idx] = { ...merged[idx], ...rest };
+              const existingEventIds = merged[idx].eventIds || (merged[idx].eventId ? [merged[idx].eventId] : []);
+              const eventIds = existingEventIds.includes(targetEventId)
+                ? existingEventIds
+                : [...existingEventIds, targetEventId];
+              merged[idx] = { ...merged[idx], ...rest, eventIds };
             } else {
-              merged.push(incoming);
+              merged.push({ ...incoming, eventIds: [targetEventId] });
             }
           });
 

@@ -50,7 +50,12 @@ function SectionLabel({ children }) {
 function PanelContent({ activeView, onViewChange, onClose }) {
   const event = useCurrentEvent();
   const tactic = useTactic(event?.id);
-  const photographers = usePlannerStore((s) => s.photographers) || [];
+  const allPhotographers = usePlannerStore((s) => s.photographers) || [];
+  const photographers = event
+    ? allPhotographers.filter((p) =>
+        p.eventIds ? p.eventIds.includes(event.id) : p.eventId === event.id,
+      )
+    : [];
   const importTeamCsv = usePlannerStore((s) => s.importTeamCsv);
   const importInfofile = usePlannerStore((s) => s.importInfofile);
   const loadGpx = usePlannerStore((s) => s.loadGpx);

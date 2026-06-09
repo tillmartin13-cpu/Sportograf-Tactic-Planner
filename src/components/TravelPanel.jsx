@@ -128,7 +128,12 @@ function PhotographerChip({ photographer, assignedCarId }) {
 
 export function TravelPanel() {
   const event = useCurrentEvent();
-  const photographers = usePlannerStore((s) => s.photographers) || [];
+  const allPhotographers = usePlannerStore((s) => s.photographers) || [];
+  const photographers = event
+    ? allPhotographers.filter((p) =>
+        p.eventIds ? p.eventIds.includes(event.id) : p.eventId === event.id,
+      )
+    : [];
   const updateEvent = usePlannerStore((s) => s.updateEvent);
 
   const [collapsed, setCollapsed] = useState(true);

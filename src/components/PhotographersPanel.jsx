@@ -3,9 +3,18 @@ import { useCurrentEvent } from '../hooks/useCurrentEvent';
 import { useTactic } from '../hooks/useTactic';
 
 export function PhotographersPanel() {
-  const photographers = usePlannerStore((s) => s.photographers) || [];
+  const allPhotographers = usePlannerStore((s) => s.photographers) || [];
   const event = useCurrentEvent();
   const tactic = useTactic(event?.id);
+
+  // Only show photographers belonging to the current event
+  const photographers = event
+    ? allPhotographers.filter((p) =>
+        p.eventIds
+          ? p.eventIds.includes(event.id)
+          : p.eventId === event.id,
+      )
+    : [];
 
   if (!event) {
     return (
