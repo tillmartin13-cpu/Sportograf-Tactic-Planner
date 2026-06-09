@@ -36,7 +36,7 @@ export function MapPanel({ fullscreen = false, onExpand, onCollapse }) {
           <button
             type="button"
             onClick={onCollapse}
-            className="absolute bottom-5 left-1/2 -translate-x-1/2 z-[1000] rounded-xl bg-[#1C2B6B] px-6 py-2.5 text-sm font-bold text-white shadow-lg hover:bg-[#152258]"
+            className="absolute top-3 left-1/2 -translate-x-1/2 z-[1000] rounded-xl bg-[#1C2B6B] px-6 py-2.5 text-sm font-bold text-white shadow-lg hover:bg-[#152258]"
           >
             ← Back to Planning
           </button>
