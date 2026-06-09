@@ -189,7 +189,11 @@ export function findCameraSettings(cameraString) {
     const brandNorm = normalise(entry.brand);
 
     let score = 0;
-    if (input.includes(modelNorm) || modelNorm.includes(input)) score += 10;
+    if (input.includes(modelNorm) || modelNorm.includes(input)) {
+      // Base match score; add model length so more specific models beat shorter prefixes
+      // e.g. "d500" matches both D5 (len 2) and D500 (len 4) → D500 wins
+      score += 10 + modelNorm.length;
+    }
     if (input.includes(brandNorm)) score += 2;
     // Partial model overlap
     if (score === 0) {

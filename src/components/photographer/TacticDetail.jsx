@@ -460,6 +460,28 @@ export function TacticDetail({ onOpenCheckIn }) {
         <ProfileCard profile={profile} spotCount={mySpots.length} />
       )}
 
+      {/* Sportograf links */}
+      {event?.id && (
+        <div className="flex gap-2">
+          <a
+            href={`https://www.sportograf.com/en/shop/event/${event.id}`}
+            target="_blank"
+            rel="noreferrer"
+            className="flex flex-1 items-center justify-center gap-1.5 rounded-2xl border border-[#1C2B6B]/20 bg-white py-2.5 text-xs font-bold text-[#1C2B6B] hover:bg-[#f0f2fa] transition-colors shadow-sm"
+          >
+            <span>📷</span> Sportograf Photo Pool
+          </a>
+          <a
+            href={`https://www.sportograf.com/en/shop/event/${event.id}#search`}
+            target="_blank"
+            rel="noreferrer"
+            className="flex items-center justify-center gap-1.5 rounded-2xl border border-[#1C2B6B]/20 bg-white px-4 py-2.5 text-xs font-bold text-[#1C2B6B] hover:bg-[#f0f2fa] transition-colors shadow-sm"
+          >
+            <span>🔍</span>
+          </a>
+        </div>
+      )}
+
       {/* Weather briefing */}
       <WeatherBriefing event={event} spots={mySpots.length > 0 ? mySpots : spots} />
 
