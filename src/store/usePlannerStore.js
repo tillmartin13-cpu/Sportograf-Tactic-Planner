@@ -292,7 +292,7 @@ export const usePlannerStore = create(
           appScreen: APP_SCREEN.planner,
           officeSession: false,
           showPlannerEntryModal: true,
-          currentEventId: null,
+          currentEventId: null, // intentional: new event flow
           photographerPackage: null,
           mapExpanded: false,
         }),
@@ -436,7 +436,14 @@ export const usePlannerStore = create(
         }
       },
 
-      selectEvent: (eventId) => set({ currentEventId: eventId, mapExpanded: false }),
+      selectEvent: (eventId) =>
+        set({
+          currentEventId: eventId,
+          mapExpanded: false,
+          appScreen: APP_SCREEN.planner,
+          showPlannerEntryModal: false,
+          officeSession: false,
+        }),
 
       deleteEvent: (eventId) => {
         if (!window.confirm(`Delete event ${eventId}?`)) return;

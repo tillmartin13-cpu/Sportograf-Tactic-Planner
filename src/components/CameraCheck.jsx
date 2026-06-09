@@ -98,30 +98,23 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
   const hasWarning = result?.status === 'warning';
 
   return (
-    <div className="w-full max-w-md mx-auto">
-      <div className="mb-4">
-        <h3 className="font-bold text-gray-900 text-base mb-1">Kamera-Check</h3>
-        <p className="text-sm text-gray-500">
-          Fotografiere das Kamera-Display mit deinem Handy und lade das Bild hier hoch.
-          Wir prüfen Uhrzeit, Datum, Format und Einstellungen automatisch.
-        </p>
-      </div>
-
+    <div className="w-full">
       {/* Upload area */}
       {!preview && (
         <div
-          className="border-2 border-dashed border-gray-300 rounded-xl p-8 text-center cursor-pointer hover:border-blue-400 hover:bg-blue-50 transition-colors"
+          className="border-2 border-dashed border-gray-300 rounded-2xl p-6 text-center cursor-pointer hover:border-[#1C2B6B] hover:bg-[#f0f2fa] transition-colors active:scale-[0.98]"
           onClick={() => inputRef.current?.click()}
           onDrop={handleDrop}
           onDragOver={(e) => e.preventDefault()}
         >
-          <div className="text-4xl mb-2">📷</div>
-          <p className="font-semibold text-gray-700 text-sm">Foto hier ablegen oder klicken</p>
-          <p className="text-xs text-gray-400 mt-1">JPG, PNG — Foto des Kamera-Displays</p>
+          <div className="text-5xl mb-3">📷</div>
+          <p className="font-bold text-gray-700 text-sm">Foto des Kamera-Displays</p>
+          <p className="text-xs text-gray-400 mt-1">Tippen zum Aufnehmen oder Auswählen</p>
           <input
             ref={inputRef}
             type="file"
             accept="image/*"
+            capture="environment"
             className="hidden"
             onChange={(e) => handleFile(e.target.files?.[0])}
           />
@@ -131,27 +124,25 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
       {/* Preview */}
       {preview && !result && (
         <div className="space-y-3">
-          <div className="rounded-xl overflow-hidden border border-gray-200 bg-gray-50">
-            <img src={preview} alt="Kamera-Display" className="w-full object-contain max-h-64" />
+          <div className="rounded-2xl overflow-hidden border border-gray-200 bg-gray-50">
+            <img src={preview} alt="Kamera-Display" className="w-full object-contain max-h-72" />
           </div>
-          <div className="flex gap-2">
-            <button
-              onClick={handleReset}
-              className="flex-1 py-2 rounded-lg border border-gray-300 text-sm text-gray-600 hover:bg-gray-50"
-            >
-              Anderes Foto
-            </button>
-            <button
-              onClick={handleSubmit}
-              disabled={loading}
-              className="flex-1 py-2 rounded-lg bg-[#1C2B6B] text-white text-sm font-semibold hover:bg-[#16225a] disabled:opacity-50 disabled:cursor-not-allowed"
-            >
-              {loading ? 'Wird geprüft…' : 'Jetzt prüfen'}
-            </button>
-          </div>
-          {loading && (
-            <div className="text-center text-xs text-gray-400 animate-pulse">
-              KI analysiert dein Kamera-Display…
+          {loading ? (
+            <div className="rounded-2xl bg-[#f0f2fa] p-4 text-center">
+              <div className="text-2xl mb-1 animate-pulse">🤖</div>
+              <p className="text-sm font-semibold text-[#1C2B6B]">KI analysiert dein Kamera-Display…</p>
+              <p className="text-xs text-gray-400 mt-0.5">Uhrzeit · Datum · Format · Karte · Bildprofil</p>
+            </div>
+          ) : (
+            <div className="flex gap-2">
+              <button onClick={handleReset}
+                className="flex-1 rounded-2xl border border-gray-200 py-3 text-sm font-semibold text-gray-600 hover:bg-gray-50 active:scale-95 transition-transform">
+                Anderes Foto
+              </button>
+              <button onClick={handleSubmit}
+                className="flex-[2] rounded-2xl bg-[#1C2B6B] py-3 text-sm font-bold text-white hover:bg-[#16225a] active:scale-95 transition-transform">
+                Jetzt prüfen →
+              </button>
             </div>
           )}
         </div>

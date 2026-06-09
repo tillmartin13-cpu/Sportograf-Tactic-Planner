@@ -120,7 +120,6 @@ export function WelcomeScreen() {
 
   function handleOpenEvent(id) {
     selectEvent(id);
-    openTacticPlanner();
   }
 
   function handleDeleteConfirm() {

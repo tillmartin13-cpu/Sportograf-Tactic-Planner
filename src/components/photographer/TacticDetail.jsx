@@ -161,7 +161,7 @@ function ProfileCard({ profile, spotCount }) {
                 <div key={i} className="flex items-center gap-2 rounded-xl bg-white/70 px-3 py-2">
                   <span className="text-[11px] font-extrabold text-[#1C2B6B] min-w-[80px]">{s.model}</span>
                   <span className="text-[10px] text-gray-500">
-                    {s.imageSize} · {s.jpegQuality}
+                    {s.imageSize} · {s.jpeg}
                   </span>
                 </div>
               ))}
