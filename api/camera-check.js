@@ -1,12 +1,3 @@
-export const config = {
-  maxDuration: 30,
-  api: {
-    bodyParser: {
-      sizeLimit: '6mb',
-    },
-  },
-};
-
 const SYSTEM_PROMPT = `You are a camera settings verification assistant for sports photographers.
 You analyze photos of camera LCD displays and determine if the settings are correct for a Sportograf event.
 
@@ -29,11 +20,15 @@ Respond with this exact structure:
 }
 
 Rules:
-- status = "declined" if time, date, format, or shutterSpeed check failed
-- status = "warning" if accepted but there are warnings
-- status = "accepted" if all critical checks pass and no warnings
+- status = "declined" if date, format, or shutterSpeed check is "failed", OR if time check is "failed" (not "warning")
+- A time check result of "warning" (no seconds) does NOT cause status = "declined" — it may cause status = "warning" overall
+- status = "warning" if all critical checks pass but there are entries in the warnings array
+- status = "accepted" if all critical checks pass and the warnings array is empty
 - uploadNewPhoto = true if the image is unreadable, not a camera display, too blurry, or critical info cannot be determined
-- Time check: look for the clock/time display on camera LCD. It must show a plausible current time. If you cannot read it, mark unreadable.
+- Time check: look for the clock/time display on camera LCD. It must show a plausible current time (e.g. HH:MM or HH:MM:SS format).
+  - If the time is visible and includes seconds (HH:MM:SS): status = "ok".
+  - If the time is visible but shows only hours and minutes (HH:MM, no seconds visible): status = "warning", message = "Keine Sekunden sichtbar — bitte Sekundenanzeige in den Kameraeinstellungen aktivieren (kein Ausschlusskriterium, manche Kameras unterstuetzen dies nicht)." Add to warnings array: "Uhrzeit ohne Sekunden — sekundengenaue Einstellung empfohlen."
+  - If the time cannot be read at all: status = "unreadable".
 - Date check: read the date directly from the camera display. Accept it if it shows a plausible date (year between 2024 and 2030, valid day and month). Only fail if the year is clearly wrong (e.g. 2001, 0001, 1970) or the date is unreadable. Do NOT compare against any external reference date — trust what the display shows.
 - Format check: must be JPG. Shown as "NORMAL", "STANDARD", "FINE S", "L" etc depending on brand. RAW or RAW+JPEG = failed. The finest JPG option (FINE L on Nikon, etc.) should also be flagged.
 - Shutter speed check: look for the shutter speed value on the display (shown as e.g. "1/500", "1/1000", "500", "1000"). Extract the denominator as a number.
@@ -75,26 +70,45 @@ export default async function handler(req, res) {
       ? `The photographer is using a ${cameraModel}. Expected settings: Image Size = "${expectedImageSize}", JPEG quality = "${expectedJpeg}". Verify against these exact values.`
       : 'Camera model is unknown. Accept any reasonable JPG setting that is not RAW and not the finest quality option.';
 
-    const anthropicRes = await fetch('https://api.anthropic.com/v1/messages', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'x-api-key': apiKey,
-        'anthropic-version': '2023-06-01',
-      },
-      body: JSON.stringify({
-        model: 'claude-haiku-4-5',
-        max_tokens: 1024,
-        system: SYSTEM_PROMPT,
-        messages: [{
-          role: 'user',
-          content: [
-            { type: 'image', source: { type: 'base64', media_type: 'image/jpeg', data: base64 } },
-            { type: 'text', text: `${cameraContext} Analyze this camera display and return only JSON.` },
-          ],
-        }],
-      }),
-    });
+    // Server-side timeout: abort Anthropic call after 25s so Vercel doesn't kill us silently
+    const abortCtrl = new AbortController();
+    const abortTimer = setTimeout(() => abortCtrl.abort(), 25_000);
+
+    let anthropicRes;
+    try {
+      anthropicRes = await fetch('https://api.anthropic.com/v1/messages', {
+        method: 'POST',
+        signal: abortCtrl.signal,
+        headers: {
+          'Content-Type': 'application/json',
+          'x-api-key': apiKey,
+          'anthropic-version': '2023-06-01',
+        },
+        body: JSON.stringify({
+          model: 'claude-haiku-4-5',
+          max_tokens: 1024,
+          system: SYSTEM_PROMPT,
+          messages: [{
+            role: 'user',
+            content: [
+              { type: 'image', source: { type: 'base64', media_type: 'image/jpeg', data: base64 } },
+              { type: 'text', text: `${cameraContext} Analyze this camera display and return only JSON.` },
+            ],
+          }],
+        }),
+      });
+    } catch (fetchErr) {
+      clearTimeout(abortTimer);
+      const isTimeout = fetchErr?.name === 'AbortError';
+      console.error('Anthropic fetch error:', fetchErr?.name, fetchErr?.message);
+      return res.status(503).json({
+        error: isTimeout ? 'Anthropic API timeout (>25s)' : 'Anthropic API unreachable',
+        detail: isTimeout
+          ? 'Die KI-Analyse hat zu lange gedauert. Bitte nochmal versuchen.'
+          : String(fetchErr?.message ?? fetchErr).slice(0, 300),
+      });
+    }
+    clearTimeout(abortTimer);
 
     if (!anthropicRes.ok) {
       const errText = await anthropicRes.text().catch(() => '');
