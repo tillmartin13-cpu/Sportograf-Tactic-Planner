@@ -29,21 +29,8 @@ function navOptions(lat, lng) {
       icon: '🥾',
       url: `https://www.komoot.com/plan/@${lat},${lng},15z`,
     },
-    {
-      id: 'mapillary',
-      label: 'Mapillary',
-      icon: '📸',
-      url: `https://www.mapillary.com/app/?lat=${lat}&lng=${lng}&z=17`,
-    },
-    {
-      id: 'streetview',
-      label: 'Street View',
-      icon: '👀',
-      url: `https://www.google.com/maps?q=&layer=c&cbll=${coord}`,
-    },
   ];
 
-  // Apple Maps only on iOS
   if (isIOS()) {
     options.splice(1, 0, {
       id: 'applemaps',
@@ -55,6 +42,21 @@ function navOptions(lat, lng) {
 
   return options;
 }
+
+const VIEW_OPTIONS = (lat, lng) => [
+  {
+    id: 'mapillary',
+    label: 'Mapillary',
+    icon: '📸',
+    url: `https://www.mapillary.com/app/?lat=${lat}&lng=${lng}&z=17`,
+  },
+  {
+    id: 'streetview',
+    label: 'Street View',
+    icon: '👀',
+    url: `https://www.google.com/maps?q=&layer=c&cbll=${lat},${lng}`,
+  },
+];
 
 // ─── Navigate dropdown ────────────────────────────────────────────────────────
 
@@ -78,20 +80,20 @@ function NavigateButton({ lat, lng }) {
   const options = navOptions(lat, lng);
 
   return (
-    <div ref={ref} className="relative shrink-0">
+    <div ref={ref} className="relative">
       <button
         type="button"
         onClick={() => setOpen((v) => !v)}
-        className="flex items-center gap-1.5 rounded-xl bg-[#1C2B6B] px-3 py-2 text-xs font-bold text-white hover:bg-[#16225a] active:scale-95 transition-transform"
+        className="flex w-full items-center justify-center gap-1.5 py-2.5 text-[11px] font-semibold text-[#1C2B6B] hover:bg-[#f0f2fa] transition-colors"
       >
-        Navigate
+        🧭 Navigate
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className={`h-3 w-3 transition-transform ${open ? 'rotate-180' : ''}`}>
           <polyline points="6 9 12 15 18 9" />
         </svg>
       </button>
 
       {open && (
-        <div className="absolute right-0 top-full z-50 mt-1.5 w-44 overflow-hidden rounded-2xl border border-gray-100 bg-white shadow-xl">
+        <div className="absolute right-0 top-full z-50 mt-1 w-44 overflow-hidden rounded-2xl border border-gray-100 bg-white shadow-xl">
           {options.map((opt) => (
             <a
               key={opt.id}
@@ -117,37 +119,53 @@ function SpotCard({ spot, index }) {
   const lat = spot.latitude;
   const lng = spot.longitude;
   const hasCoords = lat != null && lng != null;
+  const viewOptions = hasCoords ? VIEW_OPTIONS(lat, lng) : [];
 
   return (
-    <div className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm">
-      <div className="flex items-start justify-between gap-2">
-        <div className="min-w-0">
-          <div className="font-bold text-[#1C2B6B] leading-snug">
-            <span className="mr-1 font-normal text-gray-400">#{index + 1}</span>
-            {spot.name}
-          </div>
-          <div className="mt-1 flex flex-wrap items-center gap-2">
-            {(spot.time_from || spot.time_to) && (
-              <span className="rounded-full bg-[#f0f2fa] px-2 py-0.5 text-[11px] font-semibold text-[#1C2B6B]">
-                🕐 {formatTimeShort(spot.time_from)}–{formatTimeShort(spot.time_to)}
-              </span>
-            )}
-            {spot.km_mark != null && (
-              <span className="rounded-full bg-[#f0f2fa] px-2 py-0.5 text-[11px] font-semibold text-[#1C2B6B]">
-                📍 {Number(spot.km_mark).toFixed(1)} km
-              </span>
-            )}
-            {hasCoords && (
-              <span className="text-[10px] text-gray-300">
-                {Number(lat).toFixed(5)}, {Number(lng).toFixed(5)}
-              </span>
-            )}
+    <div className="rounded-2xl border border-gray-200 bg-white shadow-sm overflow-hidden">
+      {/* Main info */}
+      <div className="p-4">
+        <div className="font-bold text-[#1C2B6B] leading-snug">
+          <span className="mr-1 font-normal text-gray-400">#{index + 1}</span>
+          {spot.name}
+        </div>
+        <div className="mt-1.5 flex flex-wrap items-center gap-1.5">
+          {(spot.time_from || spot.time_to) && (
+            <span className="rounded-full bg-[#f0f2fa] px-2 py-0.5 text-[11px] font-semibold text-[#1C2B6B]">
+              🕐 {formatTimeShort(spot.time_from)}–{formatTimeShort(spot.time_to)}
+            </span>
+          )}
+          {spot.km_mark != null && (
+            <span className="rounded-full bg-[#f0f2fa] px-2 py-0.5 text-[11px] font-semibold text-[#1C2B6B]">
+              📍 {Number(spot.km_mark).toFixed(1)} km
+            </span>
+          )}
+        </div>
+        {spot.notes && (
+          <p className="mt-2 text-xs text-gray-500">{spot.notes}</p>
+        )}
+      </div>
+
+      {/* Action bar */}
+      {hasCoords && (
+        <div className="flex border-t border-gray-100">
+          {/* View options */}
+          {viewOptions.map((opt) => (
+            <a
+              key={opt.id}
+              href={opt.url}
+              target="_blank"
+              rel="noreferrer"
+              className="flex flex-1 items-center justify-center gap-1.5 py-2.5 text-[11px] font-semibold text-gray-500 hover:bg-[#f0f2fa] hover:text-[#1C2B6B] transition-colors border-r border-gray-100"
+            >
+              <span>{opt.icon}</span> {opt.label}
+            </a>
+          ))}
+          {/* Navigate dropdown */}
+          <div className="flex-1">
+            <NavigateButton lat={lat} lng={lng} />
           </div>
         </div>
-        {hasCoords && <NavigateButton lat={lat} lng={lng} />}
-      </div>
-      {spot.notes && (
-        <p className="mt-2 border-t border-gray-100 pt-2 text-xs text-gray-500">{spot.notes}</p>
       )}
     </div>
   );
