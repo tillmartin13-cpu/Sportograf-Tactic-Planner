@@ -31,11 +31,16 @@ OVERALL STATUS RULES:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 CHECK 1 — TIME
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Look for the time display on the camera LCD.
-• Time visible WITH seconds (HH:MM:SS)  → status="ok", message=null
-• Time visible WITHOUT seconds (HH:MM) → status="warning", write a short message in the output language explaining seconds are not visible and asking to enable them in camera settings (note: not a blocking issue, some cameras do not support it). Add a short note to warnings[].
-• Time not readable at all             → status="unreadable", write a short message in the output language.
-IMPORTANT: "warning" for time does NOT add to declineReasons and does NOT set overall status to "declined".
+Look for the time display on the camera LCD. Count the number groups separated by colons.
+
+DEFAULT IS WARNING. Only set status="ok" if you can clearly count THREE number groups (HH:MM:SS).
+
+• Exactly THREE groups visible, e.g. "14:23:07" (HH:MM:SS) → status="ok", message=null
+• Only TWO groups visible, e.g. "14:23" (HH:MM), OR you are not sure if seconds are shown → status="warning", write a message in the output language: seconds not visible, please enable second-display in camera settings (not a blocking issue — some cameras do not support it). Add the same note to warnings[].
+• Time not visible at all → status="unreadable"
+
+RULE: If you cannot clearly see a third pair of digits after the minutes, it is HH:MM → status MUST be "warning", not "ok".
+IMPORTANT: Time "warning" does NOT add to declineReasons and does NOT set overall status to "declined".
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 CHECK 2 — DATE
@@ -67,17 +72,23 @@ Look for a shutter speed value (e.g. "1/500", "1/1000", shown as "500" or "1000"
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 CHECK 5 — MEMORY CARD
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Determine how many images are currently stored on the memory card.
-USE THESE SIGNALS (in order of reliability):
-  1. Playback/folder image count: any number showing how many images are IN the current folder/card
-  2. File index number visible in filename (e.g. DSC_0880, IMG_0880): use this number as an estimate
-  3. A "shots remaining" counter alone is NOT enough to confirm the card is empty
+Determine whether the memory card has been formatted (i.e. is essentially empty).
 
-DECISION LOGIC:
-• Any visible image index or file counter > 5 → status="warning", detected=<that number>, add a short message in the output language to warnings[] saying the card appears unformatted (N images found) and should be formatted before the event.
-• Explicit indication card is empty / index ≤ 5 → status="ok", detected=<number or 0>
-• Cannot determine at all (no number visible anywhere) → status="warning", detected=null, write a short message in the output language in both message and warnings[] asking to ensure the card is formatted before the event.
-IMPORTANT: Only set status="ok" if you have clear evidence the card has ≤ 5 images. When in doubt → "warning".
+DEFAULT IS WARNING. Only set status="ok" if you have clear, unambiguous proof that the card is empty or nearly empty (≤ 5 images).
+
+LOOK FOR these indicators — use the FIRST one you find:
+  1. A folder/playback image count explicitly showing how many photos are stored (e.g. "1/880" in playback, or "880 images")
+  2. A file name or file number counter (e.g. "DSC_0880", "IMG_0823", "_MG_1234") — the NUMBER in the filename is the shot count estimate
+  3. Any other counter that suggests stored images
+
+DECISION:
+• Found a number > 5 (from any of the above sources) → status="warning", detected=<that number>, write a message in the output language to warnings[]: card appears unformatted (N images found), format before the event.
+• Found clear proof card is empty or index ≤ 5 → status="ok", detected=<number>
+• Cannot find any number at all on the display → status="warning", detected=null, write a message in the output language to both message field and warnings[]: card status unknown, please format before event.
+
+CRITICAL: A file number like DSC_0823 means approximately 823 photos have been taken — this card is NOT empty → status="warning".
+CRITICAL: "shots remaining" counter (how many more shots can be taken) is NOT proof the card is formatted. Ignore it.
+CRITICAL: Do NOT set status="ok" just because you cannot find evidence of images. The default is "warning".
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 CHECK 6 — PICTURE STYLE
