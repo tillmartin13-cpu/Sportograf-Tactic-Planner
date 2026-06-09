@@ -1,4 +1,4 @@
-export const config = { runtime: 'edge' };
+export const config = { runtime: 'edge', maxDuration: 30 };
 
 const SYSTEM_PROMPT = `You are a camera settings verification assistant for sports photographers.
 You analyze photos of camera LCD displays and determine if the settings are correct for a Sportograf event.
@@ -69,7 +69,7 @@ export default async function handler(req) {
       'anthropic-version': '2023-06-01',
     },
     body: JSON.stringify({
-      model: 'claude-haiku-4-5-20251001',
+      model: 'claude-haiku-4-5',
       max_tokens: 1024,
       system: SYSTEM_PROMPT,
       messages: [
@@ -92,7 +92,8 @@ export default async function handler(req) {
 
   if (!anthropicResponse.ok) {
     const err = await anthropicResponse.text();
-    return new Response(JSON.stringify({ error: 'AI service error', detail: err }), { status: 502 });
+    console.error('Anthropic error:', anthropicResponse.status, err);
+    return new Response(JSON.stringify({ error: 'AI service error', detail: err, status_code: anthropicResponse.status }), { status: 502 });
   }
 
   const data = await anthropicResponse.json();

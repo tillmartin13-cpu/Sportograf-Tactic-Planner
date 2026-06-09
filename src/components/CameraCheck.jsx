@@ -35,20 +35,81 @@ function CheckRow({ label, check }) {
   );
 }
 
+/** Compress image to max 1200px / ~500KB before sending to API */
+function compressForApi(dataUrl) {
+  return new Promise((resolve) => {
+    const img = new Image();
+    img.onload = () => {
+      const MAX = 1200;
+      let w = img.width, h = img.height;
+      if (w > MAX || h > MAX) {
+        if (w > h) { h = Math.round(h * MAX / w); w = MAX; }
+        else { w = Math.round(w * MAX / h); h = MAX; }
+      }
+      const canvas = document.createElement('canvas');
+      canvas.width = w; canvas.height = h;
+      const ctx = canvas.getContext('2d');
+      ctx.fillStyle = '#fff';
+      ctx.fillRect(0, 0, w, h);
+      ctx.drawImage(img, 0, 0, w, h);
+      // Try quality levels until under ~500KB base64 (~375KB binary)
+      let q = 0.85, out = canvas.toDataURL('image/jpeg', q);
+      while (out.length > 500_000 && q > 0.45) {
+        q -= 0.07;
+        out = canvas.toDataURL('image/jpeg', q);
+      }
+      resolve(out);
+    };
+    img.onerror = () => resolve(dataUrl); // fallback to original
+    img.src = dataUrl;
+  });
+}
+
+/** Send with retry — up to maxAttempts times, doubling delay each time */
+async function sendWithRetry(payload, maxAttempts = 3) {
+  let lastErr;
+  for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 28_000);
+    try {
+      const res = await fetch('/api/camera-check', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload),
+        signal: controller.signal,
+      });
+      clearTimeout(timeout);
+      if (!res.ok) {
+        const detail = await res.text().catch(() => '');
+        throw new Error(`HTTP ${res.status}: ${detail.slice(0, 200)}`);
+      }
+      return await res.json();
+    } catch (err) {
+      clearTimeout(timeout);
+      lastErr = err;
+      if (attempt < maxAttempts) {
+        // Exponential backoff: 1s, 2s
+        await new Promise((r) => setTimeout(r, attempt * 1000));
+      }
+    }
+  }
+  throw lastErr;
+}
+
 export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, expectedImageSize, expectedJpeg }) {
   const inputRef = useRef(null);
   const [preview, setPreview] = useState(null);
   const [imageData, setImageData] = useState(null);
-  const [mediaType, setMediaType] = useState('image/jpeg');
   const [loading, setLoading] = useState(false);
+  const [attempt, setAttempt] = useState(0);
   const [result, setResult] = useState(initialResult ?? null);
   const [error, setError] = useState(null);
 
   function handleFile(file) {
     if (!file || !file.type.startsWith('image/')) return;
-    setMediaType(file.type || 'image/jpeg');
     setResult(null);
     setError(null);
+    setAttempt(0);
     const reader = new FileReader();
     reader.onload = (e) => {
       setPreview(e.target.result);
@@ -68,18 +129,22 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
     setLoading(true);
     setError(null);
     setResult(null);
+    setAttempt(1);
     try {
-      const res = await fetch('/api/camera-check', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ image: imageData, mediaType, cameraModel, expectedImageSize, expectedJpeg }),
-      });
-      const data = await res.json();
+      // Compress before sending — prevents 4MB Edge Function limit errors
+      const compressed = await compressForApi(imageData);
+      const data = await sendWithRetry(
+        { image: compressed, mediaType: 'image/jpeg', cameraModel, expectedImageSize, expectedJpeg },
+        3,
+      );
       setResult(data);
       if (onResult) onResult(data);
       if (data.status === 'accepted' && onAccepted) onAccepted();
     } catch (err) {
-      setError('Verbindungsfehler. Bitte versuche es erneut.');
+      const msg = err?.name === 'AbortError'
+        ? 'Zeitüberschreitung — bitte versuche es nochmal.'
+        : `Verbindungsfehler (${err?.message ?? 'unbekannt'}) — bitte versuche es nochmal.`;
+      setError(msg);
     } finally {
       setLoading(false);
     }
@@ -90,6 +155,7 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
     setImageData(null);
     setResult(null);
     setError(null);
+    setAttempt(0);
     if (inputRef.current) inputRef.current.value = '';
   }
 
@@ -132,6 +198,9 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
               <div className="text-2xl mb-1 animate-pulse">🤖</div>
               <p className="text-sm font-semibold text-[#1C2B6B]">KI analysiert dein Kamera-Display…</p>
               <p className="text-xs text-gray-400 mt-0.5">Uhrzeit · Datum · Format · Karte · Bildprofil</p>
+              {attempt > 1 && (
+                <p className="text-xs text-amber-600 mt-1">Versuch {attempt} von 3…</p>
+              )}
             </div>
           ) : (
             <div className="flex gap-2">
@@ -148,10 +217,25 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
         </div>
       )}
 
-      {/* Error */}
-      {error && (
-        <div className="mt-3 p-3 rounded-lg bg-red-50 border border-red-200 text-sm text-red-700">
-          {error}
+      {/* Error — with retry button */}
+      {error && !loading && (
+        <div className="mt-3 rounded-2xl bg-red-50 border border-red-200 p-4">
+          <p className="text-sm text-red-700 font-semibold mb-1">⚠️ Fehler</p>
+          <p className="text-xs text-red-600 mb-3">{error}</p>
+          <div className="flex gap-2">
+            <button
+              onClick={handleSubmit}
+              className="flex-1 rounded-xl bg-red-600 py-2.5 text-sm font-bold text-white hover:bg-red-700 active:scale-95 transition-transform"
+            >
+              🔄 Nochmal versuchen
+            </button>
+            <button
+              onClick={handleReset}
+              className="rounded-xl border border-red-200 px-4 py-2.5 text-sm font-semibold text-red-600"
+            >
+              Neues Foto
+            </button>
+          </div>
         </div>
       )}
 
