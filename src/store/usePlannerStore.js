@@ -560,7 +560,6 @@ export const usePlannerStore = create(
             currentEventId: targetEventId,
             appScreen: APP_SCREEN.planner,
             officeSession: false,
-            showPlannerEntryModal: false,
           });
           get().showToast(
             translate(lang, 'csvImported')

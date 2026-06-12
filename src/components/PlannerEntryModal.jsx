@@ -18,6 +18,7 @@ export function PlannerEntryModal() {
   const [code, setCode] = useState('');
   const [codeError, setCodeError] = useState('');
   const [codeLoading, setCodeLoading] = useState(false);
+  const [csvJustImported, setCsvJustImported] = useState(false);
   const [newId, setNewId] = useState('');
   const [newName, setNewName] = useState('');
   const csvRef = useRef(null);
@@ -87,7 +88,8 @@ export function PlannerEntryModal() {
               const file = e.target.files?.[0];
               if (!file) return;
               try {
-                await importTeamCsv(await file.text());
+                const ok = await importTeamCsv(await file.text());
+                if (ok) setCsvJustImported(true);
               } catch {
                 /* importTeamCsv reports its own errors */
               } finally {
@@ -103,11 +105,19 @@ export function PlannerEntryModal() {
             {t('entryImportCsv')}
           </button>
 
-          {event && (
+          {csvJustImported && (
+            <div className="mt-3 rounded-xl bg-green-50 border border-green-200 px-3 py-2.5 text-xs text-green-800">
+              <span className="font-bold">✓ {t('csvImportedShort')}</span>
+              <span className="ml-1">{t('csvImportedReferenceHint')}</span>
+            </div>
+          )}
+
+          {event && !csvJustImported && (
             <p className="mt-2 text-center text-xs font-semibold text-[var(--sg-navy)]">
               {t('eventActive').replace('{id}', event.id)}
             </p>
           )}
+
 
           <div className="mt-4 border-t border-[var(--sg-border)] pt-4">
             <p className="text-[10px] font-bold uppercase tracking-wide text-[#bbb]">{t('optional')}</p>
