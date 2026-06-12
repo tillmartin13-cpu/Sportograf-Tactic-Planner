@@ -283,7 +283,7 @@ export function HyroxPlanner() {
                   </span>
                   {count > 0 ? (
                     <span className={`text-[10px] font-bold ${isGreen ? 'text-green-600' : 'text-yellow-600'}`}>
-                      {spots.join(', ')}
+                      {count} {count === 1 ? 'spot' : 'spots'}
                     </span>
                   ) : (
                     <span className="truncate text-[10px] text-gray-400">{ph.firstName || ph.name || ''}</span>
