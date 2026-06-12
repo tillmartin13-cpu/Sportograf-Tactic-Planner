@@ -12,6 +12,7 @@ import { findAllCameraSettings } from '../../lib/cameraSettings';
 import { useWeather, wmoToEmoji, getPhotoTips } from '../../hooks/useWeather';
 import { HYROX_STATIONS } from '../../lib/hyrox';
 import { getStationImages } from '../../lib/hyroxStationImages';
+import { ElevationProfile } from '../ElevationProfile';
 import 'leaflet/dist/leaflet.css';
 
 // ─── Navigation options ───────────────────────────────────────────────────────
@@ -454,13 +455,16 @@ function headingLabel(deg) {
 }
 
 const TILES = {
-  street:    { url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',                                                               attr: '© OpenStreetMap' },
+  map:       { url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', attr: '© OpenStreetMap' },
   satellite: { url: 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', attr: '© Esri' },
+  terrain:   { url: 'https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', attr: '© OpenTopoMap' },
 };
 
 /** mySpotIds: Set of spot IDs belonging to this photographer */
 function SpotsMap({ allSpots, mySpotIds, gpxTracks }) {
-  const [layer, setLayer] = useState('street');
+  const [layer, setLayer] = useState('map');
+  const [activeTrackIndex, setActiveTrackIndex] = useState(null);
+  const [hoverKm, setHoverKm] = useState(null);
   const [myPos, setMyPos] = useState(null);
   const [heading, setHeading] = useState(null);
   const [geoError, setGeoError] = useState(false);
@@ -515,16 +519,42 @@ function SpotsMap({ allSpots, mySpotIds, gpxTracks }) {
       ? [gpxTracks[0].points[0].lat, gpxTracks[0].points[0].lng]
       : [51.5, 10];
 
+  const hasElevation = gpxTracks.some((t) => t.points?.some((p) => p.ele != null));
+
   return (
-    <div className="rounded-2xl overflow-hidden border border-gray-200 shadow-sm">
-      {/* Layer toggle */}
-      <div className="flex border-b border-gray-100 bg-white">
-        {[['street', '🗺️ Map'], ['satellite', '🛰️ Satellite']].map(([k, label]) => (
-          <button key={k} type="button" onClick={() => setLayer(k)}
-            className={`flex-1 py-2 text-xs font-bold transition-colors ${layer === k ? 'bg-[#1C2B6B] text-white' : 'text-gray-500 hover:bg-gray-50'}`}>
-            {label}
-          </button>
-        ))}
+    <div className="rounded-2xl overflow-hidden border border-[#e3e7f2] shadow-sm bg-white">
+      {/* Top bar: layer pills + track tabs */}
+      <div className="flex items-center justify-between gap-2 px-3 py-2 border-b border-[#f0f2fa]">
+        {/* Layer selector — subtle pills */}
+        <div className="flex gap-1 rounded-lg bg-[#f3f5fa] p-0.5">
+          {[['map','Map'],['satellite','Satellite'],['terrain','Terrain']].map(([k, lbl]) => (
+            <button key={k} type="button" onClick={() => setLayer(k)}
+              className={`rounded-md px-2.5 py-1 text-[11px] font-bold transition-colors ${
+                layer === k ? 'bg-white text-[#1C2B6B] shadow-sm' : 'text-[#8a93b0] hover:text-[#1C2B6B]'
+              }`}>
+              {lbl}
+            </button>
+          ))}
+        </div>
+
+        {/* Track selector tabs */}
+        {gpxTracks.length > 1 && (
+          <div className="flex gap-1 overflow-x-auto">
+            {gpxTracks.map((t, i) => {
+              const color = TRACK_COLORS[i % TRACK_COLORS.length];
+              const isActive = activeTrackIndex === i;
+              return (
+                <button key={i} type="button" onClick={() => { setActiveTrackIndex(isActive ? null : i); setHoverKm(null); }}
+                  className={`flex shrink-0 items-center gap-1 rounded-md px-2 py-1 text-[11px] font-bold transition-colors ${
+                    isActive ? 'bg-[#1C2B6B] text-white' : 'bg-[#f3f5fa] text-[#5b6aa8] hover:bg-[#e8ebf5]'
+                  }`}>
+                  <span className="inline-block h-1.5 w-1.5 rounded-full shrink-0" style={{ background: isActive ? 'white' : color }} />
+                  {t.name || `Track ${i+1}`}
+                </button>
+              );
+            })}
+          </div>
+        )}
       </div>
 
       <MapContainer style={{ height: 300, width: '100%' }} zoom={13} center={fallbackCenter}
@@ -532,17 +562,35 @@ function SpotsMap({ allSpots, mySpotIds, gpxTracks }) {
         <TileLayer key={layer} url={TILES[layer].url} attribution={TILES[layer].attr} />
         <FitBounds allSpots={visibleSpots} gpxTracks={gpxTracks} />
 
-        {/* GPX Tracks — polyline + direction arrows (same as planning map) */}
+        {/* GPX Tracks */}
         {gpxTracks.map((track, ti) => {
           const color = TRACK_COLORS[ti % TRACK_COLORS.length];
           const pts = (track.points || []).map((p) => [p.lat, p.lng]);
           if (pts.length < 2) return null;
+          const dimmed = activeTrackIndex !== null && activeTrackIndex !== ti;
           return (
             <React.Fragment key={track.name + ti}>
-              <Polyline positions={pts} color={color} weight={4} opacity={0.88} />
-              <DirectionArrows track={track} color={color} />
+              <Polyline positions={pts} color={color} weight={4} opacity={dimmed ? 0.25 : 0.88} />
+              {!dimmed && <DirectionArrows track={track} color={color} />}
             </React.Fragment>
           );
+        })}
+
+        {/* Elevation hover marker */}
+        {hoverKm != null && gpxTracks.map((track, ti) => {
+          if (activeTrackIndex !== null && activeTrackIndex !== ti) return null;
+          const idx = track.cumKm?.findIndex((c) => c >= hoverKm);
+          if (idx == null) return null;
+          const i = idx === -1 ? track.points.length - 1 : idx;
+          const pt = track.points[i];
+          if (!pt) return null;
+          const color = TRACK_COLORS[ti % TRACK_COLORS.length];
+          const icon = L.divIcon({
+            className: '',
+            html: `<div style="width:14px;height:14px;border-radius:50%;background:${color};border:2px solid white;box-shadow:0 1px 4px rgba(0,0,0,.4);margin:-7px 0 0 -7px"></div>`,
+            iconSize: [0, 0],
+          });
+          return <Marker key={`hover-${ti}`} position={[pt.lat, pt.lng]} icon={icon} interactive={false} />;
         })}
 
         {/* All spots — same marker style as planning map */}
@@ -613,16 +661,17 @@ function SpotsMap({ allSpots, mySpotIds, gpxTracks }) {
         <CenterOnMe position={myPos} />
       </MapContainer>
 
-      {/* Legend — track names only */}
-      {gpxTracks.length > 0 && (
-        <div className="flex items-center gap-3 bg-white px-3 py-1.5 text-[10px] text-gray-400 flex-wrap border-t border-gray-100">
-          {gpxTracks.map((t, i) => (
-            <span key={i} className="flex items-center gap-1.5">
-              <span className="inline-block h-0.5 w-5 rounded-full" style={{ background: TRACK_COLORS[i % TRACK_COLORS.length] }} />
-              {t.name || `Route ${i + 1}`}
-              {t.totalKm ? ` · ${t.totalKm.toFixed(1)} km` : ''}
-            </span>
-          ))}
+      {/* Elevation profile */}
+      {hasElevation && (
+        <div className="border-t border-[#f0f2fa]">
+          <ElevationProfile
+            tracks={activeTrackIndex !== null ? [gpxTracks[activeTrackIndex]].filter(Boolean) : gpxTracks}
+            spots={allSpots}
+            onHoverKm={setHoverKm}
+            onActiveTrackIndex={(i) => {
+              if (i !== null && activeTrackIndex === null) setActiveTrackIndex(i);
+            }}
+          />
         </div>
       )}
 
