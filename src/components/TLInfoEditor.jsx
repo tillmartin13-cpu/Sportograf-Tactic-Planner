@@ -12,11 +12,14 @@ function WhatsAppIcon() {
   );
 }
 
+const PRESET_NAMES = ['Team Chat', 'GPX/Timecheck', 'Community', 'Other'];
+
 export function TLInfoEditor() {
   const event = useCurrentEvent();
   const tactic = useTactic(event?.id);
   const updateTactic = usePlannerStore((s) => s.updateTactic);
-  const [newGroupName, setNewGroupName] = useState('');
+  const [newGroupPreset, setNewGroupPreset] = useState('Team Chat');
+  const [newGroupCustomName, setNewGroupCustomName] = useState('');
   const [newGroupUrl, setNewGroupUrl] = useState('');
   const [addingGroup, setAddingGroup] = useState(false);
 
@@ -30,11 +33,12 @@ export function TLInfoEditor() {
   }
 
   function addGroup() {
-    const name = newGroupName.trim();
     const url = newGroupUrl.trim();
     if (!url) return;
-    patch({ whatsappGroups: [...groups, { id: Date.now().toString(), name: name || 'WhatsApp Group', url }] });
-    setNewGroupName('');
+    const name = newGroupPreset === 'Other' ? (newGroupCustomName.trim() || 'Other') : newGroupPreset;
+    patch({ whatsappGroups: [...groups, { id: Date.now().toString(), name, url }] });
+    setNewGroupPreset('Team Chat');
+    setNewGroupCustomName('');
     setNewGroupUrl('');
     setAddingGroup(false);
   }
@@ -89,13 +93,22 @@ export function TLInfoEditor() {
 
           {addingGroup ? (
             <div className="flex flex-col gap-1.5 rounded-xl border border-[#e3e7f2] bg-[#f8f9ff] p-2.5">
-              <input
+              <select
                 autoFocus
-                value={newGroupName}
-                onChange={(e) => setNewGroupName(e.target.value)}
-                placeholder="Group name (optional)"
-                className="w-full rounded-lg border border-[#e3e7f2] px-2 py-1.5 text-xs outline-none focus:border-[#1C2B6B]"
-              />
+                value={newGroupPreset}
+                onChange={(e) => setNewGroupPreset(e.target.value)}
+                className="w-full rounded-lg border border-[#e3e7f2] bg-white px-2 py-1.5 text-xs outline-none focus:border-[#1C2B6B]"
+              >
+                {PRESET_NAMES.map((n) => <option key={n} value={n}>{n}</option>)}
+              </select>
+              {newGroupPreset === 'Other' && (
+                <input
+                  value={newGroupCustomName}
+                  onChange={(e) => setNewGroupCustomName(e.target.value)}
+                  placeholder="Custom group name"
+                  className="w-full rounded-lg border border-[#e3e7f2] px-2 py-1.5 text-xs outline-none focus:border-[#1C2B6B]"
+                />
+              )}
               <input
                 value={newGroupUrl}
                 onChange={(e) => setNewGroupUrl(e.target.value)}

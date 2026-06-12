@@ -4,11 +4,11 @@ import { useCurrentEvent } from '../hooks/useCurrentEvent';
 import { detectEventType } from '../lib/hyrox';
 
 const TYPES = [
-  { id: 'standard_race',  label: 'Standard Race',           sublabel: 'Marathon · Trail · Cycling · MTB',      description: 'GPX route, km marks, spot planning along the course.',          hasRoute: true  },
-  { id: 'hyrox',          label: 'HYROX',                   sublabel: 'Indoor fitness race',                   description: 'Station-based planner with wave assignments and HYROX template.', hasRoute: false, autoDetect: true },
-  { id: 'obstacle_gpx',   label: 'Obstacle Race with GPX',  sublabel: 'OCR · DEKA · Spartan with course map',  description: 'GPX route available — plan spots along the course.',             hasRoute: true  },
-  { id: 'obstacle_no_gpx',label: 'Obstacle Race without GPX',sublabel: 'Stadium · Arena · Indoor course',      description: 'No GPS route — plan spots and assignments without km marks.',    hasRoute: false },
-  { id: 'other',          label: 'Other',                   sublabel: 'Any event type',                        description: 'Full planner with GPX route support.',                          hasRoute: true  },
+  { id: 'standard_race',   label: 'Standard Race',            hasRoute: true,  autoDetect: false },
+  { id: 'hyrox',           label: 'HYROX',                    hasRoute: false, autoDetect: true  },
+  { id: 'obstacle_gpx',    label: 'Obstacle Race with GPX',   hasRoute: true,  autoDetect: false },
+  { id: 'obstacle_no_gpx', label: 'Obstacle Race without GPX',hasRoute: false, autoDetect: false },
+  { id: 'other',           label: 'Other',                    hasRoute: true,  autoDetect: false },
 ];
 
 export function EventTypeModal() {
@@ -71,10 +71,6 @@ export function EventTypeModal() {
                         </span>
                       )}
                     </div>
-                    <div className="text-[11px] text-[#8a93b0]">{type.sublabel}</div>
-                    {isSelected && (
-                      <div className="mt-1 text-[11px] text-[#5b6aa8]">{type.description}</div>
-                    )}
                   </div>
                   <div className={`h-4 w-4 shrink-0 rounded-full border-2 transition-colors ${
                     isSelected ? 'border-[#1C2B6B] bg-[#1C2B6B]' : 'border-[#c8cfe0] bg-white'

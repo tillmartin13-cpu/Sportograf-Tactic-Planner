@@ -285,14 +285,14 @@ export function HyroxPlanner() {
     patch({ stations: next });
   }
 
-  // Per-photographer: which station indices (1-based) they appear in (any wave)
+  // Per-photographer: count of wave assignments (each wave × station cell = 1 spot)
   const phStations = {};
   stations.forEach((station, idx) => {
     waves.forEach((wave) => {
       const key = cellKey(station.id, wave);
       (assignments[key] || []).forEach((phId) => {
         if (!phStations[phId]) phStations[phId] = new Set();
-        phStations[phId].add(idx + 1);
+        phStations[phId].add(key);
       });
     });
   });
