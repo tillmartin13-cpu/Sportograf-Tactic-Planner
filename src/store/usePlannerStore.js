@@ -327,7 +327,7 @@ export const usePlannerStore = create(
           return false;
         }
         const entry = REFERENCE_CODES[code];
-        if (!entry || entry[0] !== event.id) {
+        if (!entry || String(entry[0]) !== String(event.id)) {
           get().showToast(translate(lang, 'codeEventMismatch'));
           return false;
         }
