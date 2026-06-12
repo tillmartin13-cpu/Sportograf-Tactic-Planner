@@ -26,9 +26,9 @@ export function PlanningHub({ title = 'Tactic Planner' }) {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [mobileSidebarOpen, setMobileSidebarOpen] = useState(false);
 
+  const refSpots = tactic.referenceSpots || [];
   const showReferenceTimeline =
-    tactic.importedFrom?.type === 'infofile' &&
-    tactic.spots.some((s) => s.time_from && s.time_to);
+    refSpots.some((s) => s.time_from && s.time_to);
 
   const refSource = tactic.referenceImportedFrom || tactic.importedFrom;
   const referenceLabel = refSource?.eventDate
@@ -65,7 +65,11 @@ export function PlanningHub({ title = 'Tactic Planner' }) {
                 ) : (
                   <>
                     {showReferenceTimeline && (
-                      <ReferenceTimeline spots={tactic.spots} referenceLabel={referenceLabel} />
+                      <ReferenceTimeline
+                        spots={refSpots}
+                        referenceTimeline={tactic.referenceTimeline || []}
+                        referenceLabel={referenceLabel}
+                      />
                     )}
                     {tactic.referenceTimeline?.length > 0 && (
                       <PhotographerTimeline timeline={tactic.referenceTimeline} referenceLabel={referenceLabel} />
