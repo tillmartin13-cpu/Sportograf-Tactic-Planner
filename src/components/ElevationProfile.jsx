@@ -1,11 +1,9 @@
 import { useCallback, useMemo, useRef, useState } from 'react';
-import { useTactic } from '../hooks/useTactic';
-import { useCurrentEvent } from '../hooks/useCurrentEvent';
 import { TRACK_COLORS } from '../lib/locationTypes';
 
-const HEIGHT = 88;
-const PAD_TOP = 8;
-const PAD_BOTTOM = 20; // space for km labels
+const HEIGHT = 96;
+const PAD_TOP = 10;
+const PAD_BOTTOM = 20;
 const PAD_LEFT = 36;
 const PAD_RIGHT = 8;
 
@@ -17,7 +15,7 @@ function buildProfile(track) {
   const minEle = Math.min(...eles);
   const maxEle = Math.max(...eles);
   const range = maxEle - minEle || 1;
-  const totalKm = track.totalKm || track.cumKm[track.cumKm.length - 1] || 1;
+  const totalKm = track.totalKm || track.cumKm?.[track.cumKm.length - 1] || 1;
 
   return { pts, eles, minEle, maxEle, range, totalKm, cumKm: track.cumKm };
 }
@@ -33,7 +31,6 @@ function eleToY(ele, minEle, range) {
 function buildPath(profile, width) {
   if (!profile) return '';
   const { pts, cumKm, totalKm, minEle, range } = profile;
-  const drawH = HEIGHT - PAD_TOP - PAD_BOTTOM;
   const pts2 = pts
     .map((p, i) => (p.ele != null ? `${kmToX(cumKm[i], totalKm, width).toFixed(1)},${eleToY(p.ele, minEle, range).toFixed(1)}` : null))
     .filter(Boolean);
@@ -59,15 +56,29 @@ function kmTicks(totalKm, width) {
   return ticks;
 }
 
-export function ElevationProfile({ onHoverKm, hoverKm }) {
-  const event = useCurrentEvent();
-  const tactic = useTactic(event?.id);
+function getHoverInfo(profile, km, width) {
+  if (!profile || km == null) return null;
+  const idx = profile.cumKm.findIndex((c) => c >= km);
+  const i = idx === -1 ? profile.pts.length - 1 : idx;
+  const ele = profile.pts[i]?.ele;
+  return { x: kmToX(km, profile.totalKm, width), ele };
+}
+
+// Build spot markers: photo spots with km_mark on this track
+function buildSpotMarkers(spots, profile, width) {
+  if (!spots?.length || !profile) return [];
+  return spots
+    .filter((s) => s.km_mark != null && s.km_mark >= 0 && s.km_mark <= profile.totalKm)
+    .map((s) => ({
+      spot: s,
+      x: kmToX(s.km_mark, profile.totalKm, width),
+    }));
+}
+
+function TrackProfile({ track, trackIndex, spots, onHoverKm, activeHoverKm }) {
   const svgRef = useRef(null);
   const [width, setWidth] = useState(600);
-
-  const tracks = tactic?.gpxTracks ?? [];
-  const profiles = useMemo(() => tracks.map(buildProfile), [tracks]);
-  const hasData = profiles.some(Boolean);
+  const [localHover, setLocalHover] = useState(null);
 
   const measuredRef = useCallback((node) => {
     if (!node) return;
@@ -78,101 +89,148 @@ export function ElevationProfile({ onHoverKm, hoverKm }) {
     return () => ro.disconnect();
   }, []);
 
-  if (!hasData) return null;
+  const profile = useMemo(() => buildProfile(track), [track]);
+  const color = TRACK_COLORS[trackIndex % TRACK_COLORS.length] ?? '#1C2B6B';
+
+  if (!profile) return null;
+
+  const hoverKm = localHover;
+  const hoverInfo = getHoverInfo(profile, hoverKm, width);
+  const spotMarkers = buildSpotMarkers(spots, profile, width);
+  const linePath = buildPath(profile, width);
+  const fillPath = buildFill(profile, width);
+  const ticks = kmTicks(profile.totalKm, width);
 
   function handleMouseMove(e) {
     const rect = svgRef.current?.getBoundingClientRect();
     if (!rect) return;
     const x = e.clientX - rect.left;
-    const profile = profiles.find(Boolean);
-    if (!profile) return;
     const km = Math.max(0, Math.min(profile.totalKm, ((x - PAD_LEFT) / (width - PAD_LEFT - PAD_RIGHT)) * profile.totalKm));
+    setLocalHover(km);
     onHoverKm?.(km);
   }
 
   function handleMouseLeave() {
+    setLocalHover(null);
     onHoverKm?.(null);
   }
 
-  // Find ele at hoverKm for tooltip
-  function getHoverInfo(profile, km) {
-    if (!profile || km == null) return null;
-    const idx = profile.cumKm.findIndex((c) => c >= km);
-    const i = idx === -1 ? profile.pts.length - 1 : idx;
-    const ele = profile.pts[i]?.ele;
-    return { x: kmToX(km, profile.totalKm, width), ele };
-  }
+  // Show the cursor from external hover (other track) too, but dimmed
+  const externalHover = activeHoverKm != null && localHover == null ? getHoverInfo(profile, activeHoverKm, width) : null;
 
   return (
-    <div ref={measuredRef} className="relative w-full select-none rounded-xl border border-[#e3e7f2] bg-white overflow-hidden" style={{ height: HEIGHT }}>
-      <svg
-        ref={svgRef}
-        width={width}
-        height={HEIGHT}
-        onMouseMove={handleMouseMove}
-        onMouseLeave={handleMouseLeave}
-        className="cursor-crosshair"
-      >
-        {profiles.map((profile, ti) => {
-          if (!profile) return null;
-          const color = TRACK_COLORS[ti % TRACK_COLORS.length] ?? '#1C2B6B';
-          const fillPath = buildFill(profile, width);
-          const linePath = buildPath(profile, width);
-          const ticks = kmTicks(profile.totalKm, width);
-          const hoverInfo = getHoverInfo(profile, hoverKm);
+    <div className="flex flex-col">
+      <div className="flex items-center gap-2 px-2 py-0.5">
+        <span className="inline-block h-2 w-2 rounded-full shrink-0" style={{ background: color }} />
+        <span className="text-[10px] font-semibold text-[#8a93b0] truncate">{track.name || `Track ${trackIndex + 1}`}</span>
+        <span className="text-[10px] text-[#b0b8cf]">{profile.totalKm.toFixed(1)} km · {Math.round(profile.minEle)}–{Math.round(profile.maxEle)} m</span>
+      </div>
+      <div ref={measuredRef} className="relative w-full select-none" style={{ height: HEIGHT }}>
+        <svg
+          ref={svgRef}
+          width={width}
+          height={HEIGHT}
+          onMouseMove={handleMouseMove}
+          onMouseLeave={handleMouseLeave}
+          className="cursor-crosshair"
+        >
+          {/* Fill */}
+          <path d={fillPath} fill={color} fillOpacity={0.13} />
+          {/* Line */}
+          <path d={linePath} fill="none" stroke={color} strokeWidth={1.5} />
 
-          return (
-            <g key={ti}>
-              {/* Fill */}
-              <path d={fillPath} fill={color} fillOpacity={0.12} />
-              {/* Line */}
-              <path d={linePath} fill="none" stroke={color} strokeWidth={1.5} />
+          {/* Axes */}
+          <line x1={PAD_LEFT} y1={PAD_TOP} x2={PAD_LEFT} y2={HEIGHT - PAD_BOTTOM} stroke="#e3e7f2" strokeWidth={1} />
+          <line x1={PAD_LEFT} y1={HEIGHT - PAD_BOTTOM} x2={width - PAD_RIGHT} y2={HEIGHT - PAD_BOTTOM} stroke="#e3e7f2" strokeWidth={1} />
 
-              {/* Km axis ticks */}
-              {ticks.map(({ km, x }) => (
-                <g key={km}>
-                  <line x1={x} y1={HEIGHT - PAD_BOTTOM} x2={x} y2={HEIGHT - PAD_BOTTOM + 3} stroke="#c0c8e0" strokeWidth={1} />
-                  <text x={x} y={HEIGHT - 4} textAnchor="middle" fontSize={9} fill="#9aa3bf">{km}</text>
-                </g>
-              ))}
+          {/* Km ticks */}
+          {ticks.map(({ km, x }) => (
+            <g key={km}>
+              <line x1={x} y1={HEIGHT - PAD_BOTTOM} x2={x} y2={HEIGHT - PAD_BOTTOM + 3} stroke="#c0c8e0" strokeWidth={1} />
+              <text x={x} y={HEIGHT - 4} textAnchor="middle" fontSize={9} fill="#9aa3bf">{km}</text>
+            </g>
+          ))}
 
-              {/* Ele labels */}
-              <text x={PAD_LEFT - 3} y={PAD_TOP + 4} textAnchor="end" fontSize={9} fill="#9aa3bf">
-                {Math.round(profile.maxEle)}
-              </text>
-              <text x={PAD_LEFT - 3} y={HEIGHT - PAD_BOTTOM - 1} textAnchor="end" fontSize={9} fill="#9aa3bf">
-                {Math.round(profile.minEle)}
-              </text>
+          {/* Ele labels */}
+          <text x={PAD_LEFT - 3} y={PAD_TOP + 4} textAnchor="end" fontSize={9} fill="#9aa3bf">{Math.round(profile.maxEle)}</text>
+          <text x={PAD_LEFT - 3} y={HEIGHT - PAD_BOTTOM - 1} textAnchor="end" fontSize={9} fill="#9aa3bf">{Math.round(profile.minEle)}</text>
 
-              {/* Hover cursor */}
-              {hoverInfo && (
-                <g>
-                  <line
-                    x1={hoverInfo.x} y1={PAD_TOP} x2={hoverInfo.x} y2={HEIGHT - PAD_BOTTOM}
-                    stroke={color} strokeWidth={1} strokeDasharray="3,2"
-                  />
-                  <circle cx={hoverInfo.x} cy={hoverInfo.ele != null ? eleToY(hoverInfo.ele, profile.minEle, profile.range) : PAD_TOP}
-                    r={3.5} fill={color} />
-                  {hoverInfo.ele != null && (
-                    <text x={Math.min(hoverInfo.x + 4, width - 50)} y={eleToY(hoverInfo.ele, profile.minEle, profile.range) - 5}
-                      fontSize={9} fill={color} fontWeight="bold">
-                      {Math.round(hoverInfo.ele)}m · {hoverKm?.toFixed(1)}km
-                    </text>
-                  )}
-                </g>
+          {/* km label */}
+          <text x={width - PAD_RIGHT} y={HEIGHT - 4} textAnchor="end" fontSize={9} fill="#9aa3bf">km</text>
+
+          {/* Spot markers */}
+          {spotMarkers.map(({ spot, x }) => {
+            const display = spot.name || '';
+            const yBase = HEIGHT - PAD_BOTTOM;
+            return (
+              <g key={spot.id}>
+                <line x1={x} y1={PAD_TOP} x2={x} y2={yBase} stroke="#1C2B6B" strokeWidth={0.8} strokeDasharray="2,2" strokeOpacity={0.4} />
+                <circle cx={x} cy={yBase} r={3} fill="#1C2B6B" fillOpacity={0.7} />
+                {display && (
+                  <text
+                    x={x}
+                    y={PAD_TOP - 2}
+                    textAnchor="middle"
+                    fontSize={8}
+                    fill="#1C2B6B"
+                    fontWeight="bold"
+                    opacity={0.8}
+                  >
+                    {display}
+                  </text>
+                )}
+              </g>
+            );
+          })}
+
+          {/* Hover cursor (local) */}
+          {hoverInfo && (
+            <g>
+              <line x1={hoverInfo.x} y1={PAD_TOP} x2={hoverInfo.x} y2={HEIGHT - PAD_BOTTOM} stroke={color} strokeWidth={1} strokeDasharray="3,2" />
+              <circle cx={hoverInfo.x} cy={hoverInfo.ele != null ? eleToY(hoverInfo.ele, profile.minEle, profile.range) : PAD_TOP} r={3.5} fill={color} />
+              {hoverInfo.ele != null && (
+                <text
+                  x={Math.min(hoverInfo.x + 5, width - 55)}
+                  y={eleToY(hoverInfo.ele, profile.minEle, profile.range) - 5}
+                  fontSize={9} fill={color} fontWeight="bold"
+                >
+                  {Math.round(hoverInfo.ele)}m · {hoverKm?.toFixed(1)}km
+                </text>
               )}
             </g>
-          );
-        })}
+          )}
 
-        {/* Y axis line */}
-        <line x1={PAD_LEFT} y1={PAD_TOP} x2={PAD_LEFT} y2={HEIGHT - PAD_BOTTOM} stroke="#e3e7f2" strokeWidth={1} />
-        {/* X axis line */}
-        <line x1={PAD_LEFT} y1={HEIGHT - PAD_BOTTOM} x2={width - PAD_RIGHT} y2={HEIGHT - PAD_BOTTOM} stroke="#e3e7f2" strokeWidth={1} />
+          {/* External hover cursor (dimmed) */}
+          {externalHover && (
+            <line
+              x1={externalHover.x} y1={PAD_TOP} x2={externalHover.x} y2={HEIGHT - PAD_BOTTOM}
+              stroke={color} strokeWidth={1} strokeDasharray="3,2" opacity={0.35}
+            />
+          )}
+        </svg>
+      </div>
+    </div>
+  );
+}
 
-        {/* km label */}
-        <text x={width - PAD_RIGHT} y={HEIGHT - 4} textAnchor="end" fontSize={9} fill="#9aa3bf">km</text>
-      </svg>
+export function ElevationProfile({ tracks = [], spots = [], onHoverKm, activeHoverKm = null }) {
+  const profiles = useMemo(() => tracks.map(buildProfile), [tracks]);
+  const hasData = profiles.some(Boolean);
+
+  if (!hasData) return null;
+
+  return (
+    <div className="flex flex-col divide-y divide-[#f0f2fa] rounded-xl border border-[#e3e7f2] bg-white overflow-hidden">
+      {tracks.map((track, i) => (
+        <TrackProfile
+          key={track.name ?? i}
+          track={track}
+          trackIndex={i}
+          spots={spots}
+          onHoverKm={onHoverKm}
+          activeHoverKm={activeHoverKm}
+        />
+      ))}
     </div>
   );
 }

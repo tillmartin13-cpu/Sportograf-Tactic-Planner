@@ -1,10 +1,12 @@
+import { useState } from 'react';
 import { useCurrentEvent } from '../hooks/useCurrentEvent';
 import { useTactic } from '../hooks/useTactic';
 import { usePlannerStore } from '../store/usePlannerStore';
 import { TacticMap } from './TacticMap';
+import { ElevationProfile } from './ElevationProfile';
 import { useTranslation } from '../i18n/useTranslation';
 
-export function MapPanel({ fullscreen = false, onExpand, onCollapse, hoverKm = null }) {
+export function MapPanel({ fullscreen = false, onExpand, onCollapse }) {
   const event = useCurrentEvent();
   const tactic = useTactic(event?.id);
   const photographers = usePlannerStore((s) => s.photographers) || [];
@@ -13,6 +15,7 @@ export function MapPanel({ fullscreen = false, onExpand, onCollapse, hoverKm = n
   const movePhotoSpot = usePlannerStore((s) => s.movePhotoSpot);
   const toggleReferenceLayer = usePlannerStore((s) => s.toggleReferenceLayer);
   const { t } = useTranslation();
+  const [hoverKm, setHoverKm] = useState(null);
 
   if (!event) return null;
 
@@ -29,6 +32,10 @@ export function MapPanel({ fullscreen = false, onExpand, onCollapse, hoverKm = n
     onSpotDragEnd: movePhotoSpot,
     onToggleReferenceLayer: toggleReferenceLayer,
   };
+
+  const tracks = tactic?.gpxTracks ?? [];
+  const spots = tactic?.spots ?? [];
+  const hasElevation = tracks.some((t) => t.points?.some((p) => p.ele != null));
 
   if (fullscreen) {
     return (
@@ -50,6 +57,16 @@ export function MapPanel({ fullscreen = false, onExpand, onCollapse, hoverKm = n
           hoverKm={hoverKm}
           className="min-h-0 flex-1 w-full"
         />
+        {hasElevation && (
+          <div className="shrink-0 border-t border-[#e3e7f2]">
+            <ElevationProfile
+              tracks={tracks}
+              spots={spots}
+              onHoverKm={setHoverKm}
+              activeHoverKm={hoverKm}
+            />
+          </div>
+        )}
       </div>
     );
   }
