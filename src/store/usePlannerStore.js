@@ -554,12 +554,15 @@ export const usePlannerStore = create(
             }
           });
 
+          const tactic = loadTactic(targetEventId) || emptyTactic();
+          const hasReference = tactic.referenceSpots && tactic.referenceSpots.length > 0;
           set({
             events,
             photographers: merged,
             currentEventId: targetEventId,
             appScreen: APP_SCREEN.planner,
             officeSession: false,
+            showPlannerEntryModal: !hasReference,
           });
           get().showToast(
             translate(lang, 'csvImported')
