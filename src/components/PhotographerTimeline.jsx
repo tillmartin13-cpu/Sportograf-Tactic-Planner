@@ -55,11 +55,11 @@ export function PhotographerTimeline({ timeline = [], referenceLabel }) {
     <div className="shrink-0 rounded-xl border border-[#e3e7f2] bg-white px-3 py-2.5">
       <div className="mb-2 flex items-center justify-between gap-2">
         <div>
-          <h3 className="text-xs font-extrabold text-[#1C2B6B]">
-            {t('refTimelineTitle') || 'Last year — photographer schedule'}
-          </h3>
+          <p className="text-[10px] font-semibold uppercase tracking-wide text-[#8a93b0]">
+            {t('refTimelineTitle') || '2025 Event — Photographer Schedule'}
+          </p>
           {referenceLabel && (
-            <p className="text-[10px] text-[#8a93b0]">{referenceLabel}</p>
+            <h3 className="text-sm font-extrabold text-[#1C2B6B]">{referenceLabel}</h3>
           )}
         </div>
         <span className="rounded-full bg-[#f0f4ff] px-2 py-0.5 text-[10px] font-bold text-[#5b6aa8]">
