@@ -316,7 +316,7 @@ export function SpotModal() {
               value={name}
               onChange={(e) => setName(e.target.value.toUpperCase())}
               className="sg-input mt-1.5 font-mono font-bold uppercase"
-              placeholder="e.g. KG"
+              placeholder=""
             />
             <datalist id="team-acronym-list">
               {photographers.map((p) => (
