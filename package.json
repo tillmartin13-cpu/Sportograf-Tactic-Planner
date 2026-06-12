@@ -23,6 +23,7 @@
     "@tailwindcss/vite": "^4.1.8",
     "@vitejs/plugin-react": "^4.5.2",
     "tailwindcss": "^4.1.8",
-    "vite": "^6.3.5"
+    "vite": "^6.3.5",
+    "vite-plugin-imagemin": "^0.6.1"
   }
 }

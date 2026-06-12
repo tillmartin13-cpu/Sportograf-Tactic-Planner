@@ -2,6 +2,58 @@ import { useState } from 'react';
 import { usePlannerStore } from '../store/usePlannerStore';
 import { useCurrentEvent } from '../hooks/useCurrentEvent';
 import { HYROX_STATIONS, defaultWaves } from '../lib/hyrox';
+import { getStationImages } from '../lib/hyroxStationImages';
+
+// ─── Lightbox ────────────────────────────────────────────────────────────────
+
+function Lightbox({ src, onClose }) {
+  return (
+    <div
+      className="fixed inset-0 z-[9000] flex items-center justify-center bg-black/80"
+      onClick={onClose}
+    >
+      <img
+        src={src}
+        alt=""
+        className="max-h-[90dvh] max-w-[90vw] rounded-xl object-contain shadow-2xl"
+        onClick={(e) => e.stopPropagation()}
+      />
+      <button
+        type="button"
+        onClick={onClose}
+        className="absolute right-4 top-4 rounded-full bg-white/20 px-3 py-1 text-sm font-bold text-white hover:bg-white/40"
+      >
+        ✕
+      </button>
+    </div>
+  );
+}
+
+// ─── Station image thumbnails ─────────────────────────────────────────────────
+
+function StationImages({ stationId }) {
+  const [lightbox, setLightbox] = useState(null);
+  const images = getStationImages(stationId);
+  if (!images.length) return null;
+  return (
+    <>
+      <div className="mt-1 flex flex-wrap gap-1">
+        {images.map((src) => (
+          <button
+            key={src}
+            type="button"
+            onClick={() => setLightbox(src)}
+            className="h-10 w-10 overflow-hidden rounded-md border border-gray-200 bg-gray-100 hover:border-[#1C2B6B] transition-colors"
+            title="Beispielbild vergrößern"
+          >
+            <img src={src} alt="" className="h-full w-full object-cover" loading="lazy" />
+          </button>
+        ))}
+      </div>
+      {lightbox && <Lightbox src={lightbox} onClose={() => setLightbox(null)} />}
+    </>
+  );
+}
 
 // ─── helpers ────────────────────────────────────────────────────────────────
 
@@ -287,6 +339,7 @@ export function HyroxPlanner() {
                         />
                         <span className="text-xs font-bold text-gray-700">{station.label}</span>
                       </div>
+                      <StationImages stationId={station.id} />
                     </td>
                     {waves.map((w) => (
                       <MatrixCell
