@@ -79,7 +79,10 @@ export function SpotModal() {
   const removeSpot = usePlannerStore((s) => s.removeSpot);
   const event = useCurrentEvent();
   const tactic = useTactic(event?.id);
-  const photographers = usePlannerStore((s) => s.photographers) || [];
+  const allPhotographers = usePlannerStore((s) => s.photographers) || [];
+  const photographers = event
+    ? allPhotographers.filter((p) => p.eventIds ? p.eventIds.includes(event.id) : p.eventId === event.id)
+    : allPhotographers;
 
   const [locationType, setLocationType] = useState('photo');
   const [name, setName] = useState('');
