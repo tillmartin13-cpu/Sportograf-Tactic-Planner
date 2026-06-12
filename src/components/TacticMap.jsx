@@ -257,12 +257,15 @@ export function TacticMap({
     .filter((s) => s.latitude != null && s.longitude != null)
     .sort((a, b) => (a.position ?? 0) - (b.position ?? 0));
 
-  const hasData = spotsWithCoords.length > 0 || referenceWithCoords.length > 0 || tracks.length > 0;
+  const referenceWithCoordsAll = referenceSpots.filter((s) => s.latitude != null && s.longitude != null);
+  const hasData = spotsWithCoords.length > 0 || referenceWithCoordsAll.length > 0 || tracks.length > 0;
   const defaultCenter = spotsWithCoords[0]
     ? [spotsWithCoords[0].latitude, spotsWithCoords[0].longitude]
     : tracks[0]?.points[0]
       ? [tracks[0].points[0].lat, tracks[0].points[0].lng]
-      : [51.5, -0.12];
+      : referenceWithCoordsAll[0]
+        ? [referenceWithCoordsAll[0].latitude, referenceWithCoordsAll[0].longitude]
+        : [51.5, -0.12];
 
   const startIcon = useMemo(
     () =>
