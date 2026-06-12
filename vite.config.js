@@ -19,7 +19,9 @@ export default defineConfig({
     VitePWA({
       registerType: 'autoUpdate',
       workbox: {
-        // Don't cache large station images — always fetch fresh
+        cleanupOutdatedCaches: true,
+        skipWaiting: true,
+        clientsClaim: true,
         globPatterns: ['**/*.{js,css,html,ico,png,svg,woff2}'],
         runtimeCaching: [
           {
@@ -29,7 +31,7 @@ export default defineConfig({
           },
         ],
       },
-      manifest: false, // keep our own public/manifest.json
+      manifest: false,
     }),
   ],
   resolve: {
