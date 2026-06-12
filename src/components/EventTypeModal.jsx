@@ -4,70 +4,11 @@ import { useCurrentEvent } from '../hooks/useCurrentEvent';
 import { detectEventType } from '../lib/hyrox';
 
 const TYPES = [
-  {
-    id: 'standard_race',
-    label: 'Standard Race',
-    sublabel: 'Marathon · Trail · Cycling · MTB',
-    description: 'GPX route, km marks, spot planning along the course.',
-    hasRoute: true,
-    icon: (
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="h-6 w-6">
-        <path d="M3 17l4-8 4 4 4-6 4 6" />
-      </svg>
-    ),
-  },
-  {
-    id: 'hyrox',
-    label: 'HYROX',
-    sublabel: 'Indoor fitness race',
-    description: 'Station-based planner with wave assignments and HYROX template.',
-    hasRoute: false,
-    autoDetect: true,
-    icon: (
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="h-6 w-6">
-        <circle cx="12" cy="12" r="9" />
-        <path d="M8 12h8M12 8v8" />
-      </svg>
-    ),
-  },
-  {
-    id: 'obstacle_gpx',
-    label: 'Obstacle Race with GPX',
-    sublabel: 'OCR · DEKA · Spartan with course map',
-    description: 'GPX route available — plan spots along the course.',
-    hasRoute: true,
-    icon: (
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="h-6 w-6">
-        <path d="M3 12h4l3-9 4 18 3-9h4" />
-      </svg>
-    ),
-  },
-  {
-    id: 'obstacle_no_gpx',
-    label: 'Obstacle Race without GPX',
-    sublabel: 'Stadium · Arena · Indoor course',
-    description: 'No GPS route — plan spots and assignments without km marks.',
-    hasRoute: false,
-    icon: (
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="h-6 w-6">
-        <rect x="3" y="10" width="18" height="11" rx="1" />
-        <path d="M3 10l9-7 9 7" />
-      </svg>
-    ),
-  },
-  {
-    id: 'other',
-    label: 'Other',
-    sublabel: 'Any event type',
-    description: 'Full planner with GPX route support.',
-    hasRoute: true,
-    icon: (
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="h-6 w-6">
-        <circle cx="12" cy="12" r="9" />
-        <path d="M12 8v4M12 16h.01" />
-      </svg>
-    ),
-  },
+  { id: 'standard_race',  label: 'Standard Race',           sublabel: 'Marathon · Trail · Cycling · MTB',      description: 'GPX route, km marks, spot planning along the course.',          hasRoute: true  },
+  { id: 'hyrox',          label: 'HYROX',                   sublabel: 'Indoor fitness race',                   description: 'Station-based planner with wave assignments and HYROX template.', hasRoute: false, autoDetect: true },
+  { id: 'obstacle_gpx',   label: 'Obstacle Race with GPX',  sublabel: 'OCR · DEKA · Spartan with course map',  description: 'GPX route available — plan spots along the course.',             hasRoute: true  },
+  { id: 'obstacle_no_gpx',label: 'Obstacle Race without GPX',sublabel: 'Stadium · Arena · Indoor course',      description: 'No GPS route — plan spots and assignments without km marks.',    hasRoute: false },
+  { id: 'other',          label: 'Other',                   sublabel: 'Any event type',                        description: 'Full planner with GPX route support.',                          hasRoute: true  },
 ];
 
 export function EventTypeModal() {
@@ -119,9 +60,6 @@ export function EventTypeModal() {
                 }`}
               >
                 <div className="flex items-center gap-3">
-                  <div className={`shrink-0 ${isSelected ? 'text-[#1C2B6B]' : 'text-[#8a93b0]'}`}>
-                    {type.icon}
-                  </div>
                   <div className="min-w-0 flex-1">
                     <div className="flex items-center gap-2">
                       <span className={`text-sm font-extrabold ${isSelected ? 'text-[#1C2B6B]' : 'text-[#3a4060]'}`}>
