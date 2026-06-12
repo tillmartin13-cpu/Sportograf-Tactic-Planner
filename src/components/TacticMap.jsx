@@ -311,6 +311,7 @@ export function TacticMap({
   onSpotClick,
   onSpotDragEnd,
   onToggleReferenceLayer,
+  hoverKm = null,
   className = 'h-full w-full',
 }) {
   const [layer, setLayer] = useState('map');
@@ -424,6 +425,21 @@ export function TacticMap({
           return (
             <Polyline key={track.name + trackIndex} positions={positions} color={color} weight={4} opacity={0.88} />
           );
+        })}
+
+        {/* Elevation profile hover marker */}
+        {hoverKm != null && tracks.map((track, trackIndex) => {
+          const idx = track.cumKm.findIndex((c) => c >= hoverKm);
+          const i = idx === -1 ? track.points.length - 1 : idx;
+          const pt = track.points[i];
+          if (!pt) return null;
+          const color = TRACK_COLORS[trackIndex % TRACK_COLORS.length];
+          const icon = L.divIcon({
+            className: '',
+            html: `<div style="width:14px;height:14px;border-radius:50%;background:${color};border:2px solid white;box-shadow:0 1px 4px rgba(0,0,0,.4);margin:-7px 0 0 -7px"></div>`,
+            iconSize: [0, 0],
+          });
+          return <Marker key={`hover-${trackIndex}`} position={[pt.lat, pt.lng]} icon={icon} interactive={false} />;
         })}
 
         {tracks.map((track, trackIndex) => (

@@ -11,7 +11,8 @@ export function parseGpx(xmlText, fileName = 'route') {
         const lat = parseFloat(node.getAttribute('lat'));
         const lng = parseFloat(node.getAttribute('lon'));
         if (!Number.isNaN(lat) && !Number.isNaN(lng)) {
-          points.push({ lat, lng });
+          const eleRaw = parseFloat(node.querySelector('ele')?.textContent);
+          points.push({ lat, lng, ele: Number.isNaN(eleRaw) ? null : eleRaw });
         }
       });
       break;

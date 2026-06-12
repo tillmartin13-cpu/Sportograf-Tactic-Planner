@@ -4,7 +4,7 @@ import { usePlannerStore } from '../store/usePlannerStore';
 import { TacticMap } from './TacticMap';
 import { useTranslation } from '../i18n/useTranslation';
 
-export function MapPanel({ fullscreen = false, onExpand, onCollapse }) {
+export function MapPanel({ fullscreen = false, onExpand, onCollapse, hoverKm = null }) {
   const event = useCurrentEvent();
   const tactic = useTactic(event?.id);
   const photographers = usePlannerStore((s) => s.photographers) || [];
@@ -47,6 +47,7 @@ export function MapPanel({ fullscreen = false, onExpand, onCollapse }) {
           interactive
           showLayerToggle
           enableMapClick
+          hoverKm={hoverKm}
           className="min-h-0 flex-1 w-full"
         />
       </div>

@@ -49,12 +49,17 @@ function SvgIcon({ name, size = 16 }) {
 
 // ─── File trigger row ─────────────────────────────────────────────────────────
 
-function FileRow({ icon, label, accept, onPick, hint }) {
+function FileRow({ icon, label, accept, onPick, hint, multiple = false }) {
   const ref = useRef(null);
   return (
     <>
-      <input ref={ref} type="file" accept={accept} className="hidden"
-        onChange={(e) => { const f = e.target.files?.[0]; if (f) onPick(f); e.target.value = ''; }} />
+      <input ref={ref} type="file" accept={accept} multiple={multiple} className="hidden"
+        onChange={(e) => {
+          const files = Array.from(e.target.files || []);
+          if (multiple) { files.forEach((f) => onPick(f)); }
+          else if (files[0]) onPick(files[0]);
+          e.target.value = '';
+        }} />
       <button
         type="button"
         onClick={() => ref.current?.click()}
@@ -235,8 +240,8 @@ function PanelContent({ activeView, onViewChange, onClose }) {
             <FileRow icon="users" label="Team CSV" hint="Opens or creates the event" accept=".csv,.txt"
               onPick={async (f) => { await importTeamCsv(await f.text()); onClose?.(); }} />
             {!indoor && (
-              <FileRow icon="gpx" label="GPX Route" hint="Race course track" accept=".gpx"
-                onPick={(f) => { loadGpx(f); onClose?.(); }} />
+              <FileRow icon="gpx" label="GPX Route" hint="Race course track — select multiple" accept=".gpx" multiple
+                onPick={(f) => { loadGpx(f); }} />
             )}
             {!indoor && (
               <FileRow icon="pin" label="KML / KMZ" hint="Spots + route from Google Maps" accept=".kml,.kmz"

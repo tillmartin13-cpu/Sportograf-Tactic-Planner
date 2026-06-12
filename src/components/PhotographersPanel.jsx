@@ -37,12 +37,12 @@ export function PhotographersPanel() {
   const spotBadgeLabel = (count) => (count === 1 ? '1 Spot' : `${count} Spots`);
 
   return (
-    <div className="rounded-xl border border-[#e3e7f2] bg-white">
-      <div className="border-b border-[#eef0f6] px-4 py-3">
+    <div className="flex min-h-0 flex-1 flex-col rounded-xl border border-[#e3e7f2] bg-white">
+      <div className="shrink-0 border-b border-[#eef0f6] px-4 py-3">
         <h2 className="text-sm font-extrabold text-[#1C2B6B]">Team</h2>
         <p className="text-xs text-[#8a93b0]">Drag onto a spot to assign</p>
       </div>
-      <div className="max-h-[420px] overflow-y-auto p-2">
+      <div className="min-h-0 flex-1 overflow-y-auto p-2">
         {photographers.length === 0 && (
           <p className="px-2 py-4 text-sm text-[#9aa3bf]">No team yet — import team CSV from the left panel.</p>
         )}

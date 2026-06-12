@@ -14,6 +14,7 @@ import { SpotModal } from './SpotModal';
 import { EventTypeModal } from './EventTypeModal';
 import { PlannerToolsPanel } from './PlannerToolsPanel';
 import { HyroxPlanner } from './HyroxPlanner';
+import { ElevationProfile } from './ElevationProfile';
 import { useTranslation } from '../i18n/useTranslation';
 
 export function PlanningHub({ title = 'Tactic Planner' }) {
@@ -26,6 +27,7 @@ export function PlanningHub({ title = 'Tactic Planner' }) {
   const [activeView, setActiveView] = useState(() =>
     event?.eventType === 'hyrox' ? 'hyrox' : 'planner',
   );
+  const [hoverKm, setHoverKm] = useState(null);
 
   useEffect(() => {
     setActiveView(event?.eventType === 'hyrox' ? 'hyrox' : 'planner');
@@ -81,7 +83,8 @@ export function PlanningHub({ title = 'Tactic Planner' }) {
                     {tactic.referenceTimeline?.length > 0 && (
                       <PhotographerTimeline timeline={tactic.referenceTimeline} referenceLabel={referenceLabel} />
                     )}
-                    <MapPanel onExpand={() => setMapExpanded(true)} />
+                    <MapPanel onExpand={() => setMapExpanded(true)} hoverKm={hoverKm} />
+                    <ElevationProfile onHoverKm={setHoverKm} hoverKm={hoverKm} />
                     <div className="min-h-[220px] flex-1 overflow-hidden">
                       <SpotsList />
                     </div>
@@ -96,11 +99,13 @@ export function PlanningHub({ title = 'Tactic Planner' }) {
             {!mapExpanded && (
               <>
                 {/* Desktop */}
-                <div className="hidden lg:flex w-80 shrink-0 flex-col gap-4 overflow-y-auto min-h-0">
+                <div className="hidden lg:flex w-80 shrink-0 flex-col gap-3 overflow-hidden min-h-0">
                   {event ? (
                     <>
                       <PhotographersPanel />
-                      <TravelPanel />
+                      <div className="shrink-0">
+                        <TravelPanel />
+                      </div>
                     </>
                   ) : (
                     <div className="sg-card p-4 text-sm text-[var(--sg-muted)]">
