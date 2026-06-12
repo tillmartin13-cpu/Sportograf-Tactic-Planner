@@ -31,6 +31,11 @@ const TILES = {
 function FitBounds({ spots, referenceSpots, tracks }) {
   const map = useMap();
 
+  // Stable keys so fitBounds only fires when actual content changes, not on every parent re-render
+  const tracksKey = tracks.map((t) => t.name + t.totalKm).join('|');
+  const spotsKey = spots.map((s) => s.id).join(',');
+  const refSpotsKey = referenceSpots.map((s) => s.id).join(',');
+
   useEffect(() => {
     const points = [];
     tracks.forEach((t) => t.points.forEach((p) => points.push([p.lat, p.lng])));
@@ -42,7 +47,8 @@ function FitBounds({ spots, referenceSpots, tracks }) {
     } else if (points.length === 1) {
       map.setView(points[0], 15);
     }
-  }, [map, spots, referenceSpots, tracks]);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [map, tracksKey, spotsKey, refSpotsKey]);
 
   return null;
 }
