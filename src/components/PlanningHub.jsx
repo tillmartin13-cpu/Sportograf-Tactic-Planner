@@ -26,6 +26,7 @@ export function PlanningHub({ title = 'Tactic Planner' }) {
   const [activeView, setActiveView] = useState(() =>
     event?.eventType === 'hyrox' ? 'hyrox' : 'planner',
   );
+  const [refExpanded, setRefExpanded] = useState(false);
 
   useEffect(() => {
     setActiveView(event?.eventType === 'hyrox' ? 'hyrox' : 'planner');
@@ -71,15 +72,39 @@ export function PlanningHub({ title = 'Tactic Planner' }) {
                   </div>
                 ) : (
                   <>
-                    {showReferenceTimeline && (
-                      <ReferenceTimeline
-                        spots={refSpots}
-                        referenceTimeline={tactic.referenceTimeline || []}
-                        referenceLabel={referenceLabel}
-                      />
-                    )}
-                    {tactic.referenceTimeline?.length > 0 && (
-                      <PhotographerTimeline timeline={tactic.referenceTimeline} referenceLabel={referenceLabel} />
+                    {(showReferenceTimeline || tactic.referenceTimeline?.length > 0) && (
+                      <div className="rounded-xl border border-[#e3e7f2] bg-white overflow-hidden">
+                        <button
+                          type="button"
+                          onClick={() => setRefExpanded((v) => !v)}
+                          className="flex w-full items-center justify-between px-3 py-2 text-left hover:bg-[#f8f9ff] transition-colors"
+                        >
+                          <span className="flex items-center gap-2 text-xs font-bold text-[#5b6aa8]">
+                            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M12 8v4l3 3"/><circle cx="12" cy="12" r="10"/></svg>
+                            {referenceLabel}
+                          </span>
+                          <svg
+                            width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"
+                            className={`text-[#b0b8cf] transition-transform ${refExpanded ? 'rotate-180' : ''}`}
+                          >
+                            <polyline points="6 9 12 15 18 9" />
+                          </svg>
+                        </button>
+                        {refExpanded && (
+                          <div className="border-t border-[#f0f2fa]">
+                            {showReferenceTimeline && (
+                              <ReferenceTimeline
+                                spots={refSpots}
+                                referenceTimeline={tactic.referenceTimeline || []}
+                                referenceLabel={referenceLabel}
+                              />
+                            )}
+                            {tactic.referenceTimeline?.length > 0 && (
+                              <PhotographerTimeline timeline={tactic.referenceTimeline} referenceLabel={referenceLabel} />
+                            )}
+                          </div>
+                        )}
+                      </div>
                     )}
                     <MapPanel onExpand={() => setMapExpanded(true)} />
                     <div className="min-h-[220px] flex-1 overflow-hidden">
