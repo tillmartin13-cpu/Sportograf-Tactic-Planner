@@ -4,9 +4,15 @@ export function isHyroxEvent(event) {
   return (event.name || '').toLowerCase().includes('hyrox');
 }
 
-export function isIndoorEvent(event) {
+// Events with no GPS route (hide GPX import, KM marks, route features)
+export function isNoRouteEvent(event) {
   if (!event) return false;
-  return event.eventType === 'indoor';
+  return event.eventType === 'obstacle_no_gpx' || event.eventType === 'hyrox';
+}
+
+// Keep old name as alias for backwards compat
+export function isIndoorEvent(event) {
+  return isNoRouteEvent(event);
 }
 
 export function detectEventType(name) {

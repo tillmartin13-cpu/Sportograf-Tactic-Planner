@@ -164,12 +164,20 @@ function PanelContent({ activeView, onViewChange, onClose }) {
                 <span className="text-xs text-[var(--sg-muted)]">{event.eventDate}</span>
               )}
             </div>
-            {event.eventType && event.eventType !== 'gpx_race' && (
+            {event.eventType && event.eventType !== 'standard_race' && (
               <div className="mt-1.5">
                 <span className={`rounded-full px-2 py-0.5 text-[10px] font-bold ${
-                  hyrox ? 'bg-[#fef3c7] text-[#92400e]' : 'bg-[#f0fdf4] text-[#166534]'
+                  event.eventType === 'hyrox' ? 'bg-[#fef3c7] text-[#92400e]' :
+                  event.eventType === 'obstacle_gpx' ? 'bg-[#f0fdf4] text-[#166534]' :
+                  event.eventType === 'obstacle_no_gpx' ? 'bg-[#fdf4ff] text-[#7e22ce]' :
+                  'bg-[#f1f5f9] text-[#475569]'
                 }`}>
-                  {hyrox ? 'HYROX' : 'Indoor / Stadium'}
+                  {{
+                    hyrox: 'HYROX',
+                    obstacle_gpx: 'Obstacle w/ GPX',
+                    obstacle_no_gpx: 'Obstacle w/o GPX',
+                    other: 'Other',
+                  }[event.eventType] || event.eventType}
                 </span>
               </div>
             )}
@@ -177,7 +185,7 @@ function PanelContent({ activeView, onViewChange, onClose }) {
               <Stat label="Photographers" value={hasTeam ? photographers.length : '—'} ok={hasTeam} />
               <Stat label="Spots" value={hasSpots ? tactic.spots.length : '—'} ok={hasSpots} />
               {!indoor && <Stat label="Route" value={hasRoute ? 'GPS' : '—'} ok={hasRoute} />}
-              {indoor && <Stat label="Type" value="Indoor" ok={true} />}
+              {indoor && <Stat label="Route" value="—" ok={false} />}
             </div>
           </>
         ) : (
