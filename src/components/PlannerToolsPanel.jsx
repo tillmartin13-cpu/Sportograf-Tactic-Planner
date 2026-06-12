@@ -5,6 +5,7 @@ import { useTactic } from '../hooks/useTactic';
 import { LanguageSettingsModal } from './LanguageSettingsModal';
 import { useTranslation } from '../i18n/useTranslation';
 import { isHyroxEvent, isIndoorEvent } from '../lib/hyrox';
+import { TLInfoEditor } from './TLInfoEditor';
 
 // ─── Icons ───────────────────────────────────────────────────────────────────
 
@@ -263,6 +264,12 @@ function PanelContent({ activeView, onViewChange, onClose }) {
               />
             )}
             <ActionRow icon="download" label="Export JSON" hint="Share with photographers" onClick={() => exportTacticJson(true)} />
+            <div className="my-2 border-t border-[var(--sg-border)]" />
+            {/* TL Info */}
+            <div className="px-1 py-1">
+              <p className="mb-2 text-[10px] font-bold uppercase tracking-wide text-[#9aa3bf]">TL Info for team</p>
+              <TLInfoEditor />
+            </div>
           </>
         )}
       </div>

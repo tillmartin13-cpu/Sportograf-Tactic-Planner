@@ -10,6 +10,8 @@ import { useMyProfile } from '../../hooks/useMyProfile';
 import { formatTimeShort } from '../../lib/timeConflict';
 import { findAllCameraSettings } from '../../lib/cameraSettings';
 import { useWeather, wmoToEmoji, getPhotoTips } from '../../hooks/useWeather';
+import { HYROX_STATIONS } from '../../lib/hyrox';
+import { getStationImages } from '../../lib/hyroxStationImages';
 import 'leaflet/dist/leaflet.css';
 
 // ─── Navigation options ───────────────────────────────────────────────────────
@@ -780,6 +782,114 @@ function WeatherBriefing({ event, spots }) {
   );
 }
 
+// ─── TL Info section ─────────────────────────────────────────────────────────
+
+function TLInfoSection({ pkg }) {
+  const tlInfo = pkg?.tactic?.tlInfo;
+  if (!tlInfo) return null;
+  const { notes, whatsappGroups = [] } = tlInfo;
+  if (!notes && !whatsappGroups.length) return null;
+
+  return (
+    <div className="rounded-2xl border border-[#e3e7f2] bg-white p-4">
+      <h3 className="mb-3 text-xs font-bold uppercase tracking-wider text-gray-400">Team Info</h3>
+      {notes && (
+        <p className="mb-3 whitespace-pre-wrap text-sm text-[#1C2B6B] leading-relaxed">{notes}</p>
+      )}
+      {whatsappGroups.length > 0 && (
+        <div className="flex flex-col gap-2">
+          {whatsappGroups.map((g) => (
+            <a
+              key={g.id}
+              href={g.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-3 rounded-xl bg-[#f0fdf4] px-3 py-2.5 text-sm font-bold text-[#166534] hover:bg-[#dcfce7] transition-colors"
+            >
+              <svg viewBox="0 0 24 24" fill="currentColor" className="h-5 w-5 text-[#25D366] shrink-0">
+                <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/>
+                <path d="M12 0C5.373 0 0 5.373 0 12c0 2.127.558 4.126 1.532 5.862L.053 23.447a.5.5 0 0 0 .608.61l5.701-1.494A11.954 11.954 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.89 0-3.663-.523-5.176-1.432l-.371-.22-3.383.887.9-3.293-.242-.381A9.96 9.96 0 0 1 2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/>
+              </svg>
+              {g.name}
+            </a>
+          ))}
+        </div>
+      )}
+    </div>
+  );
+}
+
+// ─── HYROX section ────────────────────────────────────────────────────────────
+
+function HyroxSection({ pkg, acronym, photographers }) {
+  const hyrox = pkg?.event?.hyrox;
+  if (!hyrox) return null;
+
+  const assignments = hyrox.assignments || {};
+  const waves = hyrox.waves || [];
+  const waveTimes = hyrox.waveTimes || {};
+  const cellTimes = hyrox.cellTimes || {};
+  const activeStationIds = hyrox.stations || HYROX_STATIONS.map((s) => s.id);
+  const stations = HYROX_STATIONS.filter((s) => activeStationIds.includes(s.id));
+
+  const ph = photographers.find(
+    (p) => p.code === acronym || p.code === acronym?.replace(/\d+$/, ''),
+  );
+
+  // Find all cells where this photographer is assigned
+  const myAssignments = [];
+  stations.forEach((station) => {
+    waves.forEach((wave) => {
+      const key = `${station.id}__${wave}`;
+      const phIds = assignments[key] || [];
+      if (!ph || phIds.includes(ph.id)) {
+        const ct = cellTimes[key];
+        const wt = waveTimes[wave];
+        myAssignments.push({ station, wave, cellTime: ct, waveTime: wt, isAssigned: phIds.includes(ph?.id) });
+      }
+    });
+  });
+
+  const relevant = ph ? myAssignments.filter((a) => a.isAssigned) : myAssignments;
+  if (!relevant.length && ph) return null;
+
+  return (
+    <div className="rounded-2xl border border-[#e3e7f2] bg-white p-4">
+      <h3 className="mb-3 text-xs font-bold uppercase tracking-wider text-gray-400">
+        HYROX — {ph ? 'My Stations' : 'All Stations'}
+      </h3>
+      <div className="flex flex-col gap-2">
+        {relevant.map(({ station, wave, cellTime, waveTime }) => {
+          const images = getStationImages(station.id);
+          const timeFrom = cellTime?.from || waveTime?.from;
+          const timeTo = cellTime?.to || waveTime?.to;
+          return (
+            <div key={`${station.id}__${wave}`} className="rounded-xl border border-[#f0f2fa] bg-[#f8f9ff] p-3">
+              <div className="flex items-center justify-between gap-2">
+                <div className="flex items-center gap-2">
+                  <span className="inline-block h-2.5 w-2.5 shrink-0 rounded-full" style={{ background: station.color }} />
+                  <span className="text-sm font-extrabold text-[#1C2B6B]">{station.label}</span>
+                  <span className="rounded bg-[#e8eaf6] px-1.5 py-0.5 text-[10px] font-bold text-[#4a5680]">Wave {wave}</span>
+                </div>
+                {(timeFrom || timeTo) && (
+                  <span className="text-xs font-semibold text-[#6b7db3]">{timeFrom || '–'} – {timeTo || '–'}</span>
+                )}
+              </div>
+              {images.length > 0 && (
+                <div className="mt-2 flex flex-wrap gap-1.5">
+                  {images.map((src) => (
+                    <img key={src} src={src} alt="" className="h-14 w-14 rounded-lg object-cover border border-[#e3e7f2]" loading="lazy" />
+                  ))}
+                </div>
+              )}
+            </div>
+          );
+        })}
+      </div>
+    </div>
+  );
+}
+
 // ─── Main view ────────────────────────────────────────────────────────────────
 
 export function TacticDetail({ onOpenCheckIn }) {
@@ -874,6 +984,14 @@ export function TacticDetail({ onOpenCheckIn }) {
 
       {/* Weather briefing */}
       <WeatherBriefing event={event} spots={mySpots.length > 0 ? mySpots : spots} />
+
+      {/* TL Info */}
+      <TLInfoSection pkg={pkg} />
+
+      {/* HYROX stations */}
+      {event?.eventType === 'hyrox' && (
+        <HyroxSection pkg={pkg} acronym={acronym} photographers={photographers} />
+      )}
 
       {/* Not matched hint */}
       {!isMatched && acronym && (
