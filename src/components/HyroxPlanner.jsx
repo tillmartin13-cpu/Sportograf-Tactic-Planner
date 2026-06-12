@@ -278,7 +278,7 @@ export function HyroxPlanner() {
                       : 'border-[#e3e7f2] bg-white hover:border-[#1C2B6B]'
                   }`}
                 >
-                  <span className={`text-xs font-extrabold ${isGreen ? 'text-green-700' : isYellow ? 'text-yellow-700' : 'text-[#1C2B6B]'}`}>
+                  <span className={`text-sm font-extrabold ${isGreen ? 'text-green-700' : isYellow ? 'text-yellow-700' : 'text-[#1C2B6B]'}`}>
                     {ph.code}
                   </span>
                   {count > 0 ? (
@@ -320,7 +320,7 @@ export function HyroxPlanner() {
             <table className="w-full border-collapse text-sm">
               <thead>
                 <tr>
-                  <th className="border border-gray-200 bg-[#f0f2fa] px-3 py-2 text-left text-xs font-extrabold text-[#1C2B6B] min-w-[140px]">
+                  <th className="border border-gray-200 bg-[#f0f2fa] px-3 py-2 text-left text-xs font-extrabold text-[#1C2B6B] min-w-[80px]">
                     Station
                   </th>
                   {waves.map((w) => (
