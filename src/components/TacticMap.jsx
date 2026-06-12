@@ -312,6 +312,7 @@ export function TacticMap({
   onSpotDragEnd,
   onToggleReferenceLayer,
   hoverKm = null,
+  activeTrackIndex = null,
   className = 'h-full w-full',
 }) {
   const [layer, setLayer] = useState('map');
@@ -427,8 +428,9 @@ export function TacticMap({
           );
         })}
 
-        {/* Elevation profile hover marker */}
+        {/* Elevation profile hover marker — only for the active track */}
         {hoverKm != null && tracks.map((track, trackIndex) => {
+          if (activeTrackIndex !== null && trackIndex !== activeTrackIndex) return null;
           const idx = track.cumKm.findIndex((c) => c >= hoverKm);
           const i = idx === -1 ? track.points.length - 1 : idx;
           const pt = track.points[i];

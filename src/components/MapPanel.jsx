@@ -16,6 +16,7 @@ export function MapPanel({ fullscreen = false, onExpand, onCollapse }) {
   const toggleReferenceLayer = usePlannerStore((s) => s.toggleReferenceLayer);
   const { t } = useTranslation();
   const [hoverKm, setHoverKm] = useState(null);
+  const [activeTrackIndex, setActiveTrackIndex] = useState(null);
 
   if (!event) return null;
 
@@ -55,6 +56,7 @@ export function MapPanel({ fullscreen = false, onExpand, onCollapse }) {
           showLayerToggle
           enableMapClick
           hoverKm={hoverKm}
+          activeTrackIndex={activeTrackIndex}
           className="min-h-0 flex-1 w-full"
         />
         {hasElevation && (
@@ -63,7 +65,7 @@ export function MapPanel({ fullscreen = false, onExpand, onCollapse }) {
               tracks={tracks}
               spots={spots}
               onHoverKm={setHoverKm}
-              activeHoverKm={hoverKm}
+              onActiveTrackIndex={setActiveTrackIndex}
             />
           </div>
         )}
