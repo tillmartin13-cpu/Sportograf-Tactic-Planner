@@ -75,7 +75,7 @@ export function PlanningHub({ title = 'Tactic Planner' }) {
                       <PhotographerTimeline timeline={tactic.referenceTimeline} referenceLabel={referenceLabel} />
                     )}
                     <MapPanel onExpand={() => setMapExpanded(true)} />
-                    <div className="min-h-0 flex-1 overflow-hidden">
+                    <div className="min-h-[220px] flex-1 overflow-hidden">
                       <SpotsList />
                     </div>
                   </>
