@@ -50,6 +50,7 @@ function emptyTactic() {
     spots: [],
     assignments: [],
     referenceSpots: [],
+    referenceTimeline: [],
     showReferenceLayer: true,
     gpxTracks: [],
     gpxTrack: [],
@@ -349,9 +350,30 @@ export const usePlannerStore = create(
           const tracks = getGpxTracks(get().getTactic(event.id));
           const converted = infofileToTactic(parsed, photographerIndex(get().photographers));
           const matched = rematchAllPhotoSpots(converted.spots, tracks);
+          // Build per-photographer timeline from raw camera data
+          const referenceTimeline = [];
+          for (const rawSpot of parsed.rawSpots) {
+            for (const cam of rawSpot.cameras) {
+              if (cam.code && cam.time_from && cam.time_to) {
+                referenceTimeline.push({
+                  code: cam.code,
+                  spotName: rawSpot.name,
+                  time_from: cam.time_from,
+                  time_to: cam.time_to,
+                  images: cam.images || 0,
+                });
+              }
+            }
+          }
           get().updateTactic(event.id, {
             referenceSpots: snapshotReferenceSpots(matched),
+            referenceTimeline,
             showReferenceLayer: true,
+            referenceImportedFrom: {
+              eventId: predecessorId,
+              eventDate: parsed.meta.date || '',
+              at: new Date().toISOString(),
+            },
           });
         } catch {
           get().showToast(translate(lang, 'referenceFileParseError'));

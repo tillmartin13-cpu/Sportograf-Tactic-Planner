@@ -9,6 +9,7 @@ import { TopBar } from './TopBar';
 import { TravelPanel } from './TravelPanel';
 import { PlannerOnboarding } from './PlannerOnboarding';
 import { ReferenceTimeline } from './ReferenceTimeline';
+import { PhotographerTimeline } from './PhotographerTimeline';
 import { SpotModal } from './SpotModal';
 import { PlannerToolsPanel } from './PlannerToolsPanel';
 import { HyroxPlanner } from './HyroxPlanner';
@@ -29,10 +30,11 @@ export function PlanningHub({ title = 'Tactic Planner' }) {
     tactic.importedFrom?.type === 'infofile' &&
     tactic.spots.some((s) => s.time_from && s.time_to);
 
-  const referenceLabel = tactic.importedFrom?.eventDate
-    ? `${t('referenceFrom')} ${tactic.importedFrom.eventDate}`
-    : tactic.importedFrom?.eventId
-      ? `${t('referenceFrom')} Event ${tactic.importedFrom.eventId}`
+  const refSource = tactic.referenceImportedFrom || tactic.importedFrom;
+  const referenceLabel = refSource?.eventDate
+    ? `${t('referenceFrom')} ${refSource.eventDate}`
+    : refSource?.eventId
+      ? `${t('referenceFrom')} Event ${refSource.eventId}`
       : t('referenceFromInfofile');
 
   return (
@@ -64,6 +66,9 @@ export function PlanningHub({ title = 'Tactic Planner' }) {
                   <>
                     {showReferenceTimeline && (
                       <ReferenceTimeline spots={tactic.spots} referenceLabel={referenceLabel} />
+                    )}
+                    {tactic.referenceTimeline?.length > 0 && (
+                      <PhotographerTimeline timeline={tactic.referenceTimeline} referenceLabel={referenceLabel} />
                     )}
                     <MapPanel onExpand={() => setMapExpanded(true)} />
                     <div className="min-h-0 flex-1 overflow-hidden">
