@@ -86,37 +86,68 @@ function PhChip({ ph, onDragStart, small = false }) {
 
 // ─── Cell in the matrix ─────────────────────────────────────────────────────
 
-function MatrixCell({ stationId, wave, assigned, photographers, onDrop, onRemove }) {
+function MatrixCell({ stationId, wave, assigned, photographers, times, onDrop, onRemove, onTimeChange }) {
   const [over, setOver] = useState(false);
+  const [showTimes, setShowTimes] = useState(false);
 
   const phs = assigned
     .map((id) => photographers.find((p) => p.id === id))
     .filter(Boolean);
 
+  const from = times?.from || '';
+  const to = times?.to || '';
+  const hasTimes = from || to;
+
   return (
     <td
-      className={`border border-gray-200 p-1 align-top transition-colors min-w-[72px] ${
+      className={`border border-gray-200 p-1 align-top transition-colors min-w-[80px] ${
         over ? 'bg-blue-50' : 'bg-white'
       }`}
-      style={{ minWidth: 72 }}
       onDragOver={(e) => { e.preventDefault(); setOver(true); }}
       onDragLeave={() => setOver(false)}
       onDrop={(e) => { e.preventDefault(); setOver(false); const id = e.dataTransfer.getData('ph_id'); if (id) onDrop(stationId, wave, id); }}
     >
+      {/* Photographer chips */}
       <div className="flex flex-wrap gap-1">
         {phs.map((ph) => (
           <div key={ph.id} className="group relative">
             <span className="flex items-center gap-0.5 rounded-full bg-[#1C2B6B] px-1.5 py-0.5 text-[10px] font-bold text-white leading-none">
               {ph.code}
-              <button
-                type="button"
-                onClick={() => onRemove(stationId, wave, ph.id)}
-                className="ml-0.5 opacity-60 hover:opacity-100 leading-none"
-              >×</button>
+              <button type="button" onClick={() => onRemove(stationId, wave, ph.id)} className="ml-0.5 opacity-60 hover:opacity-100 leading-none">×</button>
             </span>
           </div>
         ))}
       </div>
+
+      {/* Time display / editor */}
+      {hasTimes && !showTimes && (
+        <button
+          type="button"
+          onClick={() => setShowTimes(true)}
+          className="mt-1 block text-[9px] text-[#6b7db3] hover:underline leading-tight"
+        >
+          {from || '–'} – {to || '–'}
+        </button>
+      )}
+      {showTimes ? (
+        <div className="mt-1 flex flex-col gap-0.5" onClick={(e) => e.stopPropagation()}>
+          <input type="time" value={from} onChange={(e) => onTimeChange(stationId, wave, 'from', e.target.value)}
+            className="w-full rounded border border-[#d5daea] px-1 py-0.5 text-[9px] outline-none focus:border-[#1C2B6B]" />
+          <input type="time" value={to} onChange={(e) => onTimeChange(stationId, wave, 'to', e.target.value)}
+            className="w-full rounded border border-[#d5daea] px-1 py-0.5 text-[9px] outline-none focus:border-[#1C2B6B]" />
+          <button type="button" onClick={() => setShowTimes(false)} className="text-[9px] font-bold text-[#1C2B6B] hover:underline text-left">Done</button>
+        </div>
+      ) : (
+        !hasTimes && (
+          <button
+            type="button"
+            onClick={() => setShowTimes(true)}
+            className="mt-1 block text-[9px] text-gray-300 hover:text-[#6b7db3] leading-tight"
+          >
+            + time
+          </button>
+        )
+      )}
     </td>
   );
 }
@@ -217,6 +248,13 @@ export function HyroxPlanner() {
     const key = cellKey(stationId, wave);
     const current = assignments[key] || [];
     patch({ assignments: { ...assignments, [key]: current.filter(id => id !== phId) } });
+  }
+
+  function handleCellTimeChange(stationId, wave, field, value) {
+    const key = cellKey(stationId, wave);
+    const cellTimes = { ...(hyrox.cellTimes || {}) };
+    cellTimes[key] = { ...(cellTimes[key] || {}), [field]: value };
+    patch({ cellTimes });
   }
 
   function addWave() {
@@ -393,8 +431,10 @@ export function HyroxPlanner() {
                         wave={w}
                         assigned={getAssignment(hyrox, station.id, w)}
                         photographers={photographers}
+                        times={(hyrox.cellTimes || {})[cellKey(station.id, w)]}
                         onDrop={handleDrop}
                         onRemove={handleRemove}
+                        onTimeChange={handleCellTimeChange}
                       />
                     ))}
                   </tr>
