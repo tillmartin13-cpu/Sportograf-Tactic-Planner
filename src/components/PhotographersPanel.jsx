@@ -1,6 +1,7 @@
 import { usePlannerStore } from '../store/usePlannerStore';
 import { useCurrentEvent } from '../hooks/useCurrentEvent';
 import { useTactic } from '../hooks/useTactic';
+import { LsIcon } from './LsIcon';
 
 export function PhotographersPanel() {
   const allPhotographers = usePlannerStore((s) => s.photographers) || [];
@@ -58,7 +59,10 @@ export function PhotographersPanel() {
             className="mb-1 cursor-grab rounded-lg border border-[#e8ebf4] bg-[#fafbff] px-3 py-2 active:cursor-grabbing"
           >
             <div className="flex items-center justify-between gap-2">
-              <span className="text-sm font-extrabold text-[#1C2B6B]">{ph.code}</span>
+              <span className="flex items-center gap-1.5 text-sm font-extrabold text-[#1C2B6B]">
+                {ph.code}
+                {ph.hasLs && <LsIcon size={14} className="text-[#5b6aa8] shrink-0" />}
+              </span>
               <span
                 className={`rounded-full px-2 py-0.5 text-[10px] font-bold ${spotBadgeClass(count)}`}
               >

@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useState } from 'react';
 import { usePlannerStore } from '../store/usePlannerStore';
+import { LsIcon } from './LsIcon';
 import { useCurrentEvent } from '../hooks/useCurrentEvent';
 import { useTactic } from '../hooks/useTactic';
 import { LOCATION_TYPES } from '../lib/locationTypes';
@@ -307,10 +308,16 @@ export function SpotModal() {
             <datalist id="team-acronym-list">
               {photographers.map((p) => (
                 <option key={p.id} value={p.code}>
-                  {[p.firstName, p.lastName].filter(Boolean).join(' ')}
+                  {[p.firstName, p.lastName].filter(Boolean).join(' ')}{p.hasLs ? ' · Remote camera' : ''}
                 </option>
               ))}
             </datalist>
+            {(() => { const match = photographers.find(p => p.code === name.toUpperCase()); return match?.hasLs ? (
+              <div className="mt-1.5 flex items-center gap-1.5 text-[11px] font-semibold text-[#5b6aa8]">
+                <LsIcon size={13} className="shrink-0" />
+                Remote camera (LS)
+              </div>
+            ) : null; })()}
           </label>
         ) : (
           <label className="mb-3 block">

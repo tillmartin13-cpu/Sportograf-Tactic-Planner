@@ -12,6 +12,7 @@ const COL_ALIASES = {
   cameras: ['cameras', 'camera', 'kameras'],
   lenses: ['lenses', 'lens', 'objektive', 'objektiv'],
   flashes: ['flashes', 'flash', 'blitz', 'blitze'],
+  hasLs: ['ls', 'lichtschranke', 'remote camera', 'remote', 'has ls', 'has_ls', 'remote cam'],
   eventId: ['event id', 'eventid', 'event_id', 'id'],
   eventName: ['event name', 'eventname', 'event_name', 'event', 'veranstaltung'],
   eventDate: ['event date', 'eventdate', 'event_date', 'date', 'datum'],
@@ -120,6 +121,7 @@ export function parseTeamCsv(text) {
     cameras: findColumn(headers, 'cameras'),
     lenses: findColumn(headers, 'lenses'),
     flashes: findColumn(headers, 'flashes'),
+    hasLs: findColumn(headers, 'hasLs'),
     eventId: findColumn(headers, 'eventId'),
     eventName: findColumn(headers, 'eventName'),
     eventDate: findColumn(headers, 'eventDate'),
@@ -152,6 +154,7 @@ export function parseTeamCsv(text) {
       cameras: cell(row, col.cameras),
       lenses: cell(row, col.lenses),
       flashes: cell(row, col.flashes),
+      hasLs: col.hasLs >= 0 ? /^(1|yes|ja|true|x)$/i.test(cell(row, col.hasLs)) : false,
     });
   });
 
