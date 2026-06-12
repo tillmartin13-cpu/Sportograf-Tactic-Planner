@@ -123,11 +123,22 @@ function MatrixCell({ stationId, wave, assigned, photographers, onDrop, onRemove
 
 // ─── Wave header controls ────────────────────────────────────────────────────
 
-function WaveHeader({ wave, onDelete }) {
+function WaveHeader({ wave, times, onDelete, onTimeChange }) {
+  const [open, setOpen] = useState(false);
+  const from = times?.from || '';
+  const to = times?.to || '';
+
   return (
-    <th className="border border-gray-200 bg-[#f0f2fa] px-3 py-2 text-center text-xs font-extrabold text-[#1C2B6B]">
+    <th className="border border-gray-200 bg-[#f0f2fa] px-2 py-1.5 text-center text-xs font-extrabold text-[#1C2B6B] min-w-[90px]">
       <div className="flex items-center justify-center gap-1">
-        Wave {wave}
+        <button
+          type="button"
+          onClick={() => setOpen((v) => !v)}
+          className="font-extrabold text-[#1C2B6B] hover:underline"
+          title="Set wave time"
+        >
+          Wave {wave}
+        </button>
         <button
           type="button"
           onClick={() => onDelete(wave)}
@@ -135,6 +146,32 @@ function WaveHeader({ wave, onDelete }) {
           title="Remove wave"
         >×</button>
       </div>
+      {(from || to) && !open && (
+        <div className="mt-0.5 text-[9px] font-normal text-[#6b7db3]">
+          {from || '–'} – {to || '–'}
+        </div>
+      )}
+      {open && (
+        <div className="mt-1.5 flex flex-col gap-1" onClick={(e) => e.stopPropagation()}>
+          <input
+            type="time"
+            value={from}
+            onChange={(e) => onTimeChange(wave, 'from', e.target.value)}
+            className="w-full rounded border border-[#d5daea] px-1 py-0.5 text-[10px] font-normal text-gray-700 outline-none focus:border-[#1C2B6B]"
+          />
+          <input
+            type="time"
+            value={to}
+            onChange={(e) => onTimeChange(wave, 'to', e.target.value)}
+            className="w-full rounded border border-[#d5daea] px-1 py-0.5 text-[10px] font-normal text-gray-700 outline-none focus:border-[#1C2B6B]"
+          />
+          <button
+            type="button"
+            onClick={() => setOpen(false)}
+            className="text-[9px] font-bold text-[#1C2B6B] hover:underline"
+          >Done</button>
+        </div>
+      )}
     </th>
   );
 }
@@ -193,7 +230,15 @@ export function HyroxPlanner() {
   function deleteWave(wave) {
     const newAssignments = { ...assignments };
     HYROX_STATIONS.forEach(s => { delete newAssignments[cellKey(s.id, wave)]; });
-    patch({ waves: waves.filter(w => w !== wave), assignments: newAssignments });
+    const newWaveTimes = { ...(hyrox.waveTimes || {}) };
+    delete newWaveTimes[wave];
+    patch({ waves: waves.filter(w => w !== wave), assignments: newAssignments, waveTimes: newWaveTimes });
+  }
+
+  function handleTimeChange(wave, field, value) {
+    const waveTimes = { ...(hyrox.waveTimes || {}) };
+    waveTimes[wave] = { ...(waveTimes[wave] || {}), [field]: value };
+    patch({ waveTimes });
   }
 
   function toggleStation(id) {
@@ -324,7 +369,7 @@ export function HyroxPlanner() {
                     Station
                   </th>
                   {waves.map((w) => (
-                    <WaveHeader key={w} wave={w} onDelete={deleteWave} />
+                    <WaveHeader key={w} wave={w} times={(hyrox.waveTimes || {})[w]} onDelete={deleteWave} onTimeChange={handleTimeChange} />
                   ))}
                 </tr>
               </thead>
