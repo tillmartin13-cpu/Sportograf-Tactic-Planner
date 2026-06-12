@@ -57,20 +57,20 @@ function formatExactTime(iso) {
 function ReferenceSpotMarker({ spot, index, referenceTimeline }) {
   const openCreateSpotModal = usePlannerStore((s) => s.openCreateSpotModal);
   const map = useMap();
+  // Cameras at this spot from timeline
+  const cameras = (referenceTimeline || []).filter((e) => e.spotName === spot.name);
+  const totalImages = cameras.reduce((s, e) => s + (e.images || 0), 0);
+
   const icon = useMemo(
     () =>
       L.divIcon({
         className: '',
-        html: buildReferenceSpotMarkerHtml(spot.name, index + 1),
+        html: buildReferenceSpotMarkerHtml(spot.name, index + 1, spot.time_from, spot.time_to, totalImages),
         iconSize: [0, 0],
         iconAnchor: [0, 0],
       }),
-    [spot.name, index],
+    [spot.name, index, spot.time_from, spot.time_to, totalImages],
   );
-
-  // Cameras at this spot from timeline
-  const cameras = (referenceTimeline || []).filter((e) => e.spotName === spot.name);
-  const totalImages = cameras.reduce((s, e) => s + (e.images || 0), 0);
 
   const lat = spot.latitude;
   const lng = spot.longitude;
