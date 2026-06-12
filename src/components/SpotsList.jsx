@@ -113,6 +113,24 @@ function SpotCard({ spot, index }) {
       </div>
 
       <SpotAssignments spotId={spot.id} />
+
+      {spot.refImages?.length > 0 && (
+        <div className="mt-2 flex gap-1">
+          {spot.refImages.slice(0, 3).map((img, i) => (
+            <img
+              key={i}
+              src={img.data}
+              alt=""
+              className="h-8 w-8 rounded-md object-cover border border-[#e3e7f2]"
+            />
+          ))}
+          {spot.refImages.length > 3 && (
+            <div className="flex h-8 w-8 items-center justify-center rounded-md border border-[#e3e7f2] bg-[#f4f5fa] text-[9px] font-bold text-[#8a93b0]">
+              +{spot.refImages.length - 3}
+            </div>
+          )}
+        </div>
+      )}
     </div>
   );
 }
