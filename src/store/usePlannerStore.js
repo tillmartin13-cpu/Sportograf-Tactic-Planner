@@ -706,35 +706,41 @@ export const usePlannerStore = create(
             kmlText = await file.text();
           }
 
-          const incoming = parseKml(kmlText);
+          const { spots: incomingSpots, tracks: kmlTracks } = parseKml(kmlText);
           const tactic = get().getTactic(event.id);
-          let spots = incoming;
+          let spots = incomingSpots;
 
-          if (tactic.spots.length > 0) {
+          if (incomingSpots.length > 0 && tactic.spots.length > 0) {
             const add = window.confirm(
-              `Add ${incoming.length} spots from KML to the existing ${tactic.spots.length} spots?\n\nOK = Add · Cancel = Replace all spots`,
+              `Add ${incomingSpots.length} spots from KML to the existing ${tactic.spots.length} spots?\n\nOK = Add · Cancel = Replace all spots`,
             );
             spots = add
               ? [
                   ...tactic.spots,
-                  ...incoming.map((spot, index) => ({
+                  ...incomingSpots.map((spot, index) => ({
                     ...spot,
                     position: tactic.spots.length + index,
                   })),
                 ]
-              : incoming;
+              : incomingSpots;
           }
 
-          const gpxTracks = getGpxTracks(tactic);
-          get().updateTactic(event.id, {
-            spots: rematchAllPhotoSpots(spots, gpxTracks),
-            importedFrom: {
-              type: 'kml',
-              fileName: file.name,
-              at: new Date().toISOString(),
-            },
-          });
-          get().showToast(`${incoming.length} spots imported from KML.`);
+          // Merge KML tracks with any existing GPX tracks
+          const existingTracks = getGpxTracks(tactic);
+          const mergedTracks = kmlTracks.length > 0 ? [...existingTracks, ...kmlTracks] : existingTracks;
+
+          const update = {
+            spots: rematchAllPhotoSpots(spots, mergedTracks),
+            importedFrom: { type: 'kml', fileName: file.name, at: new Date().toISOString() },
+          };
+          if (kmlTracks.length > 0) update.gpxTracks = mergedTracks;
+
+          get().updateTactic(event.id, update);
+
+          const parts = [];
+          if (incomingSpots.length > 0) parts.push(`${incomingSpots.length} spots`);
+          if (kmlTracks.length > 0) parts.push(`${kmlTracks.length} route${kmlTracks.length > 1 ? 's' : ''}`);
+          get().showToast(`KML imported: ${parts.join(' + ') || 'no data found'}.`);
         } catch (err) {
           get().showToast(err?.message || 'KML import failed.');
         }
