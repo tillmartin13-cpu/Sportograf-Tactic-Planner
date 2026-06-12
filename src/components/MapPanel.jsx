@@ -20,6 +20,7 @@ export function MapPanel({ fullscreen = false, onExpand, onCollapse }) {
     tactic,
     spots: tactic.spots,
     referenceSpots: tactic.referenceSpots || [],
+    referenceTimeline: tactic.referenceTimeline || [],
     showReferenceLayer: tactic.showReferenceLayer !== false,
     assignments: tactic.assignments,
     photographers,

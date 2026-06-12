@@ -46,7 +46,14 @@ function FitBounds({ spots, referenceSpots, tracks }) {
   return null;
 }
 
-function ReferenceSpotMarker({ spot, index, referenceLabel }) {
+function formatExactTime(iso) {
+  if (!iso) return '—';
+  const d = new Date(iso);
+  if (isNaN(d)) return iso;
+  return `${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}:${String(d.getSeconds()).padStart(2,'0')}`;
+}
+
+function ReferenceSpotMarker({ spot, index, referenceTimeline }) {
   const icon = useMemo(
     () =>
       L.divIcon({
@@ -58,17 +65,64 @@ function ReferenceSpotMarker({ spot, index, referenceLabel }) {
     [spot.name, index],
   );
 
+  // Cameras at this spot from timeline
+  const cameras = (referenceTimeline || []).filter((e) => e.spotName === spot.name);
+  const totalImages = cameras.reduce((s, e) => s + (e.images || 0), 0);
+
+  const lat = spot.latitude;
+  const lng = spot.longitude;
+  const streetViewUrl = `https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=${lat},${lng}`;
+  const mapillaryUrl = `https://www.mapillary.com/app/?lat=${lat}&lng=${lng}&z=17`;
+
   return (
-    <Marker position={[spot.latitude, spot.longitude]} icon={icon} interactive={false} zIndexOffset={200}>
-      <Popup>
-        <div className="text-xs">
-          <strong className="text-[#7c3aed]">{referenceLabel}</strong>
-          <div className="font-bold text-[#1C2B6B]">{spot.name}</div>
+    <Marker position={[lat, lng]} icon={icon} zIndexOffset={200}>
+      <Popup minWidth={200} maxWidth={280}>
+        <div style={{ fontFamily: 'inherit', fontSize: 12, lineHeight: 1.5 }}>
+          <div style={{ fontWeight: 800, color: '#1C2B6B', marginBottom: 2 }}>{spot.name}</div>
           {(spot.time_from || spot.time_to) && (
-            <div className="text-[#5b6aa8]">
-              {formatTimeShort(spot.time_from)} – {formatTimeShort(spot.time_to)}
+            <div style={{ color: '#64748b', fontSize: 11, marginBottom: 4 }}>
+              {formatExactTime(spot.time_from)} – {formatExactTime(spot.time_to)}
             </div>
           )}
+          {totalImages > 0 && (
+            <div style={{ color: '#475569', fontSize: 11, marginBottom: 6 }}>
+              {totalImages.toLocaleString()} images total
+            </div>
+          )}
+          {cameras.length > 0 && (
+            <table style={{ width: '100%', borderCollapse: 'collapse', marginBottom: 8, fontSize: 11 }}>
+              <thead>
+                <tr style={{ color: '#94a3b8', fontWeight: 700 }}>
+                  <td style={{ paddingBottom: 2 }}>Code</td>
+                  <td style={{ paddingBottom: 2 }}>Time</td>
+                  <td style={{ paddingBottom: 2, textAlign: 'right' }}>Img</td>
+                </tr>
+              </thead>
+              <tbody>
+                {cameras.map((cam, i) => (
+                  <tr key={i} style={{ borderTop: '1px solid #f1f5f9' }}>
+                    <td style={{ paddingTop: 2, fontWeight: 700, color: '#1C2B6B' }}>{cam.code}</td>
+                    <td style={{ paddingTop: 2, color: '#475569', whiteSpace: 'nowrap' }}>
+                      {formatExactTime(cam.time_from)}–{formatExactTime(cam.time_to)}
+                    </td>
+                    <td style={{ paddingTop: 2, textAlign: 'right', color: '#64748b' }}>
+                      {cam.images > 0 ? cam.images.toLocaleString() : '—'}
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          )}
+          <div style={{ display: 'flex', gap: 6, marginTop: 4 }}>
+            <a href={streetViewUrl} target="_blank" rel="noreferrer"
+              style={{ flex: 1, textAlign: 'center', background: '#f1f5f9', color: '#1C2B6B', borderRadius: 6, padding: '4px 0', fontSize: 11, fontWeight: 700, textDecoration: 'none', display: 'block' }}>
+              Street View
+            </a>
+            <a href={mapillaryUrl} target="_blank" rel="noreferrer"
+              style={{ flex: 1, textAlign: 'center', background: '#f1f5f9', color: '#1C2B6B', borderRadius: 6, padding: '4px 0', fontSize: 11, fontWeight: 700, textDecoration: 'none', display: 'block' }}>
+              Mapillary
+            </a>
+          </div>
         </div>
       </Popup>
     </Marker>
@@ -233,6 +287,7 @@ export function TacticMap({
   tactic,
   spots = [],
   referenceSpots = [],
+  referenceTimeline = [],
   showReferenceLayer = true,
   assignments = [],
   photographers = [],
@@ -385,7 +440,7 @@ export function TacticMap({
             key={`ref-${spot.id}-${index}`}
             spot={spot}
             index={index}
-            referenceLabel={t('mapReferenceLabel')}
+            referenceTimeline={referenceTimeline}
           />
         ))}
 
