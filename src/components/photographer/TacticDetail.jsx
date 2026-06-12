@@ -823,6 +823,8 @@ function TLInfoSection({ pkg }) {
 
 function HyroxSection({ pkg, acronym, photographers }) {
   const hyrox = pkg?.event?.hyrox;
+  const [lightboxSrc, setLightboxSrc] = useState(null);
+
   if (!hyrox) return null;
 
   const assignments = hyrox.assignments || {};
@@ -836,7 +838,6 @@ function HyroxSection({ pkg, acronym, photographers }) {
     (p) => p.code === acronym || p.code === acronym?.replace(/\d+$/, ''),
   );
 
-  // Find all cells where this photographer is assigned
   const myAssignments = [];
   stations.forEach((station) => {
     waves.forEach((wave) => {
@@ -854,39 +855,69 @@ function HyroxSection({ pkg, acronym, photographers }) {
   if (!relevant.length && ph) return null;
 
   return (
-    <div className="rounded-2xl border border-[#e3e7f2] bg-white p-4">
-      <h3 className="mb-3 text-xs font-bold uppercase tracking-wider text-gray-400">
-        HYROX — {ph ? 'My Stations' : 'All Stations'}
-      </h3>
-      <div className="flex flex-col gap-2">
-        {relevant.map(({ station, wave, cellTime, waveTime }) => {
-          const images = getStationImages(station.id);
-          const timeFrom = cellTime?.from || waveTime?.from;
-          const timeTo = cellTime?.to || waveTime?.to;
-          return (
-            <div key={`${station.id}__${wave}`} className="rounded-xl border border-[#f0f2fa] bg-[#f8f9ff] p-3">
-              <div className="flex items-center justify-between gap-2">
-                <div className="flex items-center gap-2">
-                  <span className="inline-block h-2.5 w-2.5 shrink-0 rounded-full" style={{ background: station.color }} />
-                  <span className="text-sm font-extrabold text-[#1C2B6B]">{station.label}</span>
-                  <span className="rounded bg-[#e8eaf6] px-1.5 py-0.5 text-[10px] font-bold text-[#4a5680]">Wave {wave}</span>
+    <>
+      {lightboxSrc && createPortal(
+        <div
+          className="fixed inset-0 z-[9999] flex items-center justify-center bg-black/80 p-4"
+          onClick={() => setLightboxSrc(null)}
+        >
+          <img
+            src={lightboxSrc}
+            alt=""
+            className="max-h-full max-w-full rounded-2xl object-contain shadow-2xl"
+            onClick={(e) => e.stopPropagation()}
+          />
+          <button
+            type="button"
+            onClick={() => setLightboxSrc(null)}
+            className="absolute right-4 top-4 rounded-full bg-white/20 p-2 text-white hover:bg-white/40"
+          >
+            ✕
+          </button>
+        </div>,
+        document.body
+      )}
+      <div className="rounded-2xl border border-[#e3e7f2] bg-white p-4">
+        <h3 className="mb-3 text-xs font-bold uppercase tracking-wider text-gray-400">
+          HYROX — {ph ? 'My Stations' : 'All Stations'}
+        </h3>
+        <div className="flex flex-col gap-2">
+          {relevant.map(({ station, wave, cellTime, waveTime }) => {
+            const images = getStationImages(station.id);
+            const timeFrom = cellTime?.from || waveTime?.from;
+            const timeTo = cellTime?.to || waveTime?.to;
+            return (
+              <div key={`${station.id}__${wave}`} className="rounded-xl border border-[#f0f2fa] bg-[#f8f9ff] p-3">
+                <div className="flex items-center justify-between gap-2">
+                  <div className="flex items-center gap-2">
+                    <span className="inline-block h-2.5 w-2.5 shrink-0 rounded-full" style={{ background: station.color }} />
+                    <span className="text-sm font-extrabold text-[#1C2B6B]">{station.label}</span>
+                    <span className="rounded bg-[#e8eaf6] px-1.5 py-0.5 text-[10px] font-bold text-[#4a5680]">Wave {wave}</span>
+                  </div>
+                  {(timeFrom || timeTo) && (
+                    <span className="text-xs font-semibold text-[#6b7db3]">{timeFrom || '–'} – {timeTo || '–'}</span>
+                  )}
                 </div>
-                {(timeFrom || timeTo) && (
-                  <span className="text-xs font-semibold text-[#6b7db3]">{timeFrom || '–'} – {timeTo || '–'}</span>
+                {images.length > 0 && (
+                  <div className="mt-2 flex flex-wrap gap-1.5">
+                    {images.map((src) => (
+                      <button
+                        key={src}
+                        type="button"
+                        onClick={() => setLightboxSrc(src)}
+                        className="h-14 w-14 shrink-0 overflow-hidden rounded-lg border border-[#e3e7f2] focus:outline-none"
+                      >
+                        <img src={src} alt="" className="h-full w-full object-cover" loading="lazy" />
+                      </button>
+                    ))}
+                  </div>
                 )}
               </div>
-              {images.length > 0 && (
-                <div className="mt-2 flex flex-wrap gap-1.5">
-                  {images.map((src) => (
-                    <img key={src} src={src} alt="" className="h-14 w-14 rounded-lg object-cover border border-[#e3e7f2]" loading="lazy" />
-                  ))}
-                </div>
-              )}
-            </div>
-          );
-        })}
+            );
+          })}
+        </div>
       </div>
-    </div>
+    </>
   );
 }
 
