@@ -483,6 +483,13 @@ export const usePlannerStore = create(
         }
       },
 
+      updateEventType: (eventId, eventType) =>
+        set((state) => ({
+          events: state.events.map((e) =>
+            e.id === eventId ? { ...e, eventType } : e,
+          ),
+        })),
+
       selectEvent: (eventId) =>
         set({
           currentEventId: eventId,

@@ -4,6 +4,17 @@ export function isHyroxEvent(event) {
   return (event.name || '').toLowerCase().includes('hyrox');
 }
 
+export function isIndoorEvent(event) {
+  if (!event) return false;
+  return event.eventType === 'indoor';
+}
+
+export function detectEventType(name) {
+  const n = (name || '').toLowerCase();
+  if (n.includes('hyrox')) return 'hyrox';
+  return null; // null = no auto-detect, user must choose
+}
+
 export const HYROX_STATIONS = [
   { id: 'start',    label: 'Start / Finish',       icon: '🏁', color: '#1C2B6B' },
   { id: 'run',      label: 'Running Corridor',      icon: '🏃', color: '#4B5FA6' },

@@ -11,6 +11,7 @@ import { PlannerOnboarding } from './PlannerOnboarding';
 import { ReferenceTimeline } from './ReferenceTimeline';
 import { PhotographerTimeline } from './PhotographerTimeline';
 import { SpotModal } from './SpotModal';
+import { EventTypeModal } from './EventTypeModal';
 import { PlannerToolsPanel } from './PlannerToolsPanel';
 import { HyroxPlanner } from './HyroxPlanner';
 import { useTranslation } from '../i18n/useTranslation';
@@ -139,6 +140,7 @@ export function PlanningHub({ title = 'Tactic Planner' }) {
       </div>
 
       <SpotModal />
+      <EventTypeModal />
     </div>
   );
 }

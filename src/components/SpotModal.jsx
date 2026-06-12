@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from 'react';
 import { usePlannerStore } from '../store/usePlannerStore';
 import { LsIcon } from './LsIcon';
 import { useCurrentEvent } from '../hooks/useCurrentEvent';
+import { isIndoorEvent } from '../lib/hyrox';
 import { useTactic } from '../hooks/useTactic';
 import { LOCATION_TYPES } from '../lib/locationTypes';
 import { TRACK_COLORS } from '../lib/locationTypes';
@@ -339,7 +340,7 @@ export function SpotModal() {
           </label>
         )}
 
-        {isPhoto && coords && spotModal.mode === 'create' && (
+        {isPhoto && coords && spotModal.mode === 'create' && !isIndoorEvent(event) && (
           <div className="mb-3">
             <span className="text-[10px] font-bold uppercase tracking-wide text-[#bbb]">Route match</span>
             <div className="mt-1.5">

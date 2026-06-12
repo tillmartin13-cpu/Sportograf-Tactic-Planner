@@ -4,7 +4,7 @@ import { useCurrentEvent } from '../hooks/useCurrentEvent';
 import { useTactic } from '../hooks/useTactic';
 import { LanguageSettingsModal } from './LanguageSettingsModal';
 import { useTranslation } from '../i18n/useTranslation';
-import { isHyroxEvent } from '../lib/hyrox';
+import { isHyroxEvent, isIndoorEvent } from '../lib/hyrox';
 
 // ─── Icons ───────────────────────────────────────────────────────────────────
 
@@ -142,6 +142,7 @@ function PanelContent({ activeView, onViewChange, onClose }) {
   const hasSpots = tactic.spots.length > 0;
   const hasReference = (tactic.referenceSpots || []).length > 0;
   const hyrox = isHyroxEvent(event);
+  const indoor = isIndoorEvent(event);
 
   function navTo(view) { onViewChange?.(view); onClose?.(); }
 
@@ -163,10 +164,20 @@ function PanelContent({ activeView, onViewChange, onClose }) {
                 <span className="text-xs text-[var(--sg-muted)]">{event.eventDate}</span>
               )}
             </div>
+            {event.eventType && event.eventType !== 'gpx_race' && (
+              <div className="mt-1.5">
+                <span className={`rounded-full px-2 py-0.5 text-[10px] font-bold ${
+                  hyrox ? 'bg-[#fef3c7] text-[#92400e]' : 'bg-[#f0fdf4] text-[#166534]'
+                }`}>
+                  {hyrox ? 'HYROX' : 'Indoor / Stadium'}
+                </span>
+              </div>
+            )}
             <div className="mt-3 grid grid-cols-3 gap-1.5">
               <Stat label="Photographers" value={hasTeam ? photographers.length : '—'} ok={hasTeam} />
               <Stat label="Spots" value={hasSpots ? tactic.spots.length : '—'} ok={hasSpots} />
-              <Stat label="Route" value={hasRoute ? 'GPS' : '—'} ok={hasRoute} />
+              {!indoor && <Stat label="Route" value={hasRoute ? 'GPS' : '—'} ok={hasRoute} />}
+              {indoor && <Stat label="Type" value="Indoor" ok={true} />}
             </div>
           </>
         ) : (
@@ -214,12 +225,18 @@ function PanelContent({ activeView, onViewChange, onClose }) {
           <div className="ml-2 border-l-2 border-[#eef1fb] pl-2 space-y-0.5">
             <FileRow icon="users" label="Team CSV" hint="Opens or creates the event" accept=".csv,.txt"
               onPick={async (f) => { await importTeamCsv(await f.text()); onClose?.(); }} />
-            <FileRow icon="gpx" label="GPX Route" hint="Race course track" accept=".gpx"
-              onPick={(f) => { loadGpx(f); onClose?.(); }} />
-            <FileRow icon="pin" label="KML / KMZ" hint="Spot coordinates" accept=".kml,.kmz"
-              onPick={(f) => { importKml(f); onClose?.(); }} />
-            <FileRow icon="infofile" label="Infofile" hint="Spots + assignments from Sportograf" accept=".txt"
-              onPick={async (f) => { await importInfofile(await f.text()); onClose?.(); }} />
+            {!indoor && (
+              <FileRow icon="gpx" label="GPX Route" hint="Race course track" accept=".gpx"
+                onPick={(f) => { loadGpx(f); onClose?.(); }} />
+            )}
+            {!indoor && (
+              <FileRow icon="pin" label="KML / KMZ" hint="Spots + route from Google Maps" accept=".kml,.kmz"
+                onPick={(f) => { importKml(f); onClose?.(); }} />
+            )}
+            {!indoor && (
+              <FileRow icon="infofile" label="Infofile" hint="Spots + assignments from Sportograf" accept=".txt"
+                onPick={async (f) => { await importInfofile(await f.text()); onClose?.(); }} />
+            )}
           </div>
         )}
 
