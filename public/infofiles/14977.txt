@@ -1,0 +1,171 @@
+EventId: 14977
+Spots: 28
+Total Images: 265328
+Time:	01.01.0001 23:00:00 to 31.12.2099 22:59:59
+Duration: 766642.23:59:59
+
+(1) - Impressions / Pano
+	PANO1
+(2) - 0.0 km
+	JR1
+		Images:	19445
+		Time:	26.01.2025 06:58:31 until 26.01.2025 10:36:45
+		Duration:	03:38:14
+		Location:	NULL NULL
+
+	JR1LS1
+		Images:	8999
+		Time:	26.01.2025 06:33:16 until 26.01.2025 09:38:54
+		Duration:	03:05:38
+		Location:	NULL NULL
+
+	ML1
+		Images:	39502
+		Time:	01.01.0001 23:00:00 until 26.01.2025 10:31:53
+		Duration:	739275.11:31:53
+		Location:	NULL NULL
+
+	WDA1
+		Images:	6993
+		Time:	26.01.2025 04:25:01 until 26.01.2025 05:38:40
+		Duration:	01:13:39
+		Location:	NULL NULL
+
+	CCA1
+		Images:	6569
+		Time:	26.01.2025 07:02:22 until 26.01.2025 08:19:54
+		Duration:	01:17:32
+		Location:	NULL NULL
+
+	TM1
+		Images:	5251
+		Time:	26.01.2025 08:03:56 until 26.01.2025 10:32:39
+		Duration:	02:28:43
+		Location:	NULL NULL
+
+	CF1
+		Images:	10306
+		Time:	26.01.2025 07:18:26 until 26.01.2025 10:15:45
+		Duration:	02:57:19
+		Location:	NULL NULL
+
+	AD1
+		Images:	3726
+		Time:	26.01.2025 07:16:12 until 26.01.2025 10:00:36
+		Duration:	02:44:24
+		Location:	NULL NULL
+
+	PB1
+		Images:	14313
+		Time:	26.01.2025 07:21:37 until 26.01.2025 10:08:14
+		Duration:	02:46:37
+		Location:	NULL NULL
+
+	AC1
+		Images:	10714
+		Time:	26.01.2025 07:21:44 until 26.01.2025 10:09:21
+		Duration:	02:47:37
+		Location:	NULL NULL
+
+	JA1
+		Images:	11778
+		Time:	26.01.2025 07:24:26 until 26.01.2025 10:39:43
+		Duration:	03:15:17
+		Location:	NULL NULL
+
+	JA1LS1
+		Images:	9955
+		Time:	26.01.2025 07:24:58 until 26.01.2025 10:23:51
+		Duration:	02:58:53
+		Location:	NULL NULL
+
+	MM1
+		Images:	22056
+		Time:	26.01.2025 07:01:34 until 26.01.2025 10:06:25
+		Duration:	03:04:51
+		Location:	NULL NULL
+
+	DK1
+		Images:	12076
+		Time:	26.01.2025 07:20:05 until 26.01.2025 10:34:43
+		Duration:	03:14:38
+		Location:	NULL NULL
+
+	DK1LS1
+		Images:	10506
+		Time:	26.01.2025 06:52:07 until 26.01.2025 11:07:48
+		Duration:	04:15:41
+		Location:	NULL NULL
+
+	WDA2
+		Images:	8538
+		Time:	26.01.2025 08:35:46 until 26.01.2025 11:07:29
+		Duration:	02:31:43
+		Location:	NULL NULL
+
+	JD1
+		Images:	13943
+		Time:	26.01.2025 07:33:38 until 26.01.2025 11:08:12
+		Duration:	03:34:34
+		Location:	NULL NULL
+
+	CCA2
+		Images:	8972
+		Time:	26.01.2025 06:05:47 until 26.01.2025 08:57:27
+		Duration:	02:51:40
+		Location:	NULL NULL
+
+	CCA2LS1
+		Images:	11157
+		Time:	31.12.2013 19:00:01 until 31.12.2099 22:59:59
+		Duration:	31411.03:59:58
+		Location:	NULL NULL
+
+	PK1
+		Images:	5561
+		Time:	26.01.2025 08:02:06 until 26.01.2025 10:08:26
+		Duration:	02:06:20
+		Location:	NULL NULL
+
+	LM1
+		Images:	3003
+		Time:	26.01.2025 08:28:54 until 26.01.2025 12:17:15
+		Duration:	03:48:21
+		Location:	NULL NULL
+
+	KM1
+		Images:	761
+		Time:	26.01.2025 08:47:53 until 26.01.2025 11:41:16
+		Duration:	02:53:23
+		Location:	NULL NULL
+
+	HW1
+		Images:	745
+		Time:	26.01.2025 08:05:46 until 26.01.2025 10:41:00
+		Duration:	02:35:14
+		Location:	NULL NULL
+
+	CS1
+		Images:	803
+		Time:	26.01.2025 08:26:26 until 26.01.2025 11:55:39
+		Duration:	03:29:13
+		Location:	NULL NULL
+
+	DB1
+		Images:	644
+		Time:	26.01.2025 07:48:30 until 26.01.2025 10:48:50
+		Duration:	03:00:20
+		Location:	NULL NULL
+
+	DKX1
+		Images:	12095
+		Time:	26.01.2025 07:51:20 until 26.01.2025 09:48:37
+		Duration:	01:57:17
+		Location:	NULL NULL
+
+	DKX1LS1
+		Images:	6917
+		Time:	26.01.2025 07:45:42 until 26.01.2025 09:43:44
+		Duration:	01:58:02
+		Location:	NULL NULL
+

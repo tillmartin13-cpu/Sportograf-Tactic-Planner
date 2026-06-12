@@ -1,0 +1,161 @@
+EventId: 13857
+Spots: 24
+Total Images: 46500
+Time:	13.07.2025 07:45:21 to 13.07.2025 18:40:49
+Duration: 10:55:28
+
+(1) - Impressions / Pano
+	MDO1IMP1
+		Images:	89
+		Time:	13.07.2025 07:54:25 until 13.07.2025 08:58:07
+		Duration:	01:03:42
+		Location:	48.39599 15.5873
+
+	BS1IMP1
+		Images:	14
+		Time:	13.07.2025 08:01:56 until 13.07.2025 10:08:08
+		Duration:	02:06:12
+		Location:	48.41074 15.49848
+
+	EHL1DRONE1
+		Images:	97
+		Time:	13.07.2025 07:45:21 until 13.07.2025 13:30:37
+		Duration:	05:45:16
+		Location:	48.41074 15.49848
+
+(2) - Mittel-/Langdistanz km 1,0
+	MDO1
+		Images:	1006
+		Time:	13.07.2025 09:02:51 until 13.07.2025 09:16:35
+		Duration:	00:13:44
+		Location:	48.39855 15.57445
+
+(3) - Mittel-/Langdistanz km 8,5
+	BS1
+		Images:	607
+		Time:	13.07.2025 08:41:56 until 13.07.2025 09:24:26
+		Duration:	00:42:30
+		Location:	48.40908 15.50598
+
+	BS1LS1
+		Images:	579
+		Time:	13.07.2025 08:25:10 until 13.07.2025 09:25:52
+		Duration:	01:00:42
+		Location:	48.40908 15.50598
+
+(4) - Mittel-/Langdistanz km 9
+	EHL1
+		Images:	1356
+		Time:	13.07.2025 08:56:36 until 13.07.2025 09:26:42
+		Duration:	00:30:06
+		Location:	48.41074 15.49848
+
+	EHL1LS1
+		Images:	1519
+		Time:	13.07.2025 08:54:47 until 13.07.2025 09:26:26
+		Duration:	00:31:39
+		Location:	48.41074 15.49848
+
+	EHL1LS2
+		Images:	767
+		Time:	13.07.2025 08:42:00 until 13.07.2025 11:09:49
+		Duration:	02:27:49
+		Location:	48.41074 15.49848
+
+(5) - Mitteldistanz km 72,0 / Langdistanz km 168,5
+	THO2
+		Images:	1841
+		Time:	13.07.2025 11:36:39 until 13.07.2025 18:07:27
+		Duration:	06:30:48
+		Location:	48.2923 15.40786
+
+	THO2LS1
+		Images:	1152
+		Time:	13.07.2025 14:19:22 until 13.07.2025 17:23:25
+		Duration:	03:04:03
+		Location:	48.2923 15.40786
+
+(6) - Mitteldistanz km 81,5 / Langdistanz km 178,0
+	BS2
+		Images:	5143
+		Time:	13.07.2025 11:28:28 until 13.07.2025 17:33:23
+		Duration:	06:04:55
+		Location:	48.32397 15.47655
+
+	BS2LS1
+		Images:	2314
+		Time:	13.07.2025 10:51:38 until 13.07.2025 17:35:07
+		Duration:	06:43:29
+		Location:	48.32397 15.47655
+
+(7) - Mitteldistanz km 84,5 / Langdistanz km 180,5
+	EHL2
+		Images:	4222
+		Time:	13.07.2025 11:24:32 until 13.07.2025 17:47:30
+		Duration:	06:22:58
+		Location:	48.31241 15.48372
+
+	EHL2LS1
+		Images:	2110
+		Time:	13.07.2025 11:04:37 until 13.07.2025 12:17:08
+		Duration:	01:12:31
+		Location:	48.31241 15.48372
+
+	EHL2LS2
+		Images:	3667
+		Time:	13.07.2025 11:10:36 until 13.07.2025 17:43:44
+		Duration:	06:33:08
+		Location:	48.31241 15.48372
+
+(8) - Mitteldistanz km 94,5 / Langdistanz km 190,5
+	DG2
+		Images:	5017
+		Time:	13.07.2025 11:30:51 until 13.07.2025 18:11:27
+		Duration:	06:40:36
+		Location:	48.36607 15.51189
+
+	DG2LS1
+		Images:	1583
+		Time:	13.07.2025 11:15:19 until 13.07.2025 18:13:01
+		Duration:	06:57:42
+		Location:	48.36607 15.51189
+
+(9) - Finish
+	MDO2
+		Images:	6491
+		Time:	13.07.2025 09:28:51 until 13.07.2025 18:40:49
+		Duration:	09:11:58
+		Location:	48.39599 15.5873
+
+	MDO2LS1
+		Images:	1501
+		Time:	13.07.2025 09:52:22 until 13.07.2025 18:38:14
+		Duration:	08:45:52
+		Location:	48.39599 15.5873
+
+	MDO2LS2
+		Images:	1182
+		Time:	13.07.2025 10:12:23 until 13.07.2025 18:19:24
+		Duration:	08:07:01
+		Location:	48.39599 15.5873
+
+(10) - Kurzdistanz km 10,5
+	DG1
+		Images:	2005
+		Time:	13.07.2025 09:25:15 until 13.07.2025 11:15:24
+		Duration:	01:50:09
+		Location:	48.36366 15.53071
+
+	DG1LS1
+		Images:	479
+		Time:	13.07.2025 09:13:33 until 13.07.2025 09:59:30
+		Duration:	00:45:57
+		Location:	48.36366 15.53071
+
+(11) - Kurzdistanz km 29,0
+	THO1
+		Images:	1759
+		Time:	13.07.2025 09:45:04 until 13.07.2025 11:28:19
+		Duration:	01:43:15
+		Location:	48.29374 15.40764
+

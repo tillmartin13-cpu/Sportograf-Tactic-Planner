@@ -1,0 +1,47 @@
+EventId: 14970
+Spots: 6
+Total Images: 32368
+Time:	02.05.2025 18:41:40 to 03.05.2025 17:27:44
+Duration: 22:46:04
+
+(1) - Zone 2 500m Row
+	ANLI1
+		Images:	4050
+		Time:	02.05.2025 20:55:14 until 03.05.2025 16:59:49
+		Duration:	20:04:35
+		Location:	38.57839 -121.49144
+
+(2) - Zone 5 500m Ski Erg
+	AMON1
+		Images:	5871
+		Time:	03.05.2025 07:43:36 until 03.05.2025 17:05:58
+		Duration:	09:22:22
+		Location:	38.57839 -121.49144
+
+(3) - Zone 6 100m Farmers Carry
+	RUMU1
+		Images:	1835
+		Time:	02.05.2025 21:20:13 until 03.05.2025 17:09:15
+		Duration:	19:49:02
+		Location:	38.57839 -121.49144
+
+(4) - Zone 7 25c Air Bike
+	MKI1
+		Images:	8925
+		Time:	02.05.2025 18:41:40 until 03.05.2025 17:12:13
+		Duration:	22:30:33
+		Location:	38.57839 -121.49144
+
+(5) - Zone 9 Tank Push/Pull
+	DAVL1
+		Images:	9135
+		Time:	03.05.2025 06:54:50 until 03.05.2025 17:27:44
+		Duration:	10:32:54
+		Location:	38.57839 -121.49144
+
+	MCAR1
+		Images:	2552
+		Time:	02.05.2025 19:11:53 until 03.05.2025 16:18:09
+		Duration:	21:06:16
+		Location:	38.57839 -121.49144
+

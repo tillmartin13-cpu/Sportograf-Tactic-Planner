@@ -1,0 +1,32 @@
+EventId: 14982
+Spots: 4
+Total Images: 6845
+Time:	31.12.2015 23:20:05 to 19.02.2025 17:11:08
+Duration: 3337.17:51:03
+
+(1) - Finish
+	BSTE1
+		Images:	999
+		Time:	19.02.2025 13:55:52 until 19.02.2025 14:57:50
+		Duration:	01:01:58
+		Location:	NULL NULL
+
+	SHOM1
+		Images:	999
+		Time:	19.02.2025 14:57:51 until 19.02.2025 16:40:25
+		Duration:	01:42:34
+		Location:	NULL NULL
+
+(2) - 50.0 km
+	PHAL1
+		Images:	171
+		Time:	19.02.2025 16:40:25 until 19.02.2025 17:11:08
+		Duration:	00:30:43
+		Location:	NULL NULL
+
+	TRIG1
+		Images:	4676
+		Time:	31.12.2015 23:20:05 until 19.02.2025 13:55:50
+		Duration:	3337.14:35:45
+		Location:	NULL NULL
+

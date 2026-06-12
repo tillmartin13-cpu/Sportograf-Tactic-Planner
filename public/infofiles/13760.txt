@@ -1,0 +1,74 @@
+EventId: 13760
+Spots: 11
+Total Images: 4728
+Time:	20.09.2025 09:14:56 to 20.09.2025 16:34:16
+Duration: 07:19:20
+
+(1) - Impressions / Pano
+	PANO1
+(2) - Start
+	MAWI1
+		Images:	434
+		Time:	20.09.2025 09:14:56 until 20.09.2025 10:49:35
+		Duration:	01:34:39
+		Location:	47.13935 9.51082
+
+(3) - 18.0 km grosse Runde
+	MAWI1LS1
+		Images:	62
+		Time:	20.09.2025 11:07:58 until 20.09.2025 11:09:29
+		Duration:	00:01:31
+		Location:	47.14527 9.50575
+
+(4) - 31.5 km grosse Runde
+	MAPP2
+		Images:	288
+		Time:	20.09.2025 09:46:49 until 20.09.2025 11:54:01
+		Duration:	02:07:12
+		Location:	47.14079 9.52477
+
+	MAPP2LS1
+		Images:	468
+		Time:	20.09.2025 09:31:23 until 20.09.2025 11:54:02
+		Duration:	02:22:39
+		Location:	47.14079 9.52477
+
+(5) - 36.1 km kleine Runde / 67.1 km grosse Runde
+	EVL1
+		Images:	333
+		Time:	20.09.2025 09:58:08 until 20.09.2025 13:03:59
+		Duration:	03:05:51
+		Location:	47.02415 9.50180
+
+	EVL1LS1
+		Images:	302
+		Time:	20.09.2025 10:00:13 until 20.09.2025 13:20:17
+		Duration:	03:20:04
+		Location:	47.02415 9.50180
+
+(6) - 58.5 km kleine Runde / 89.8 km grosse Runde
+	MAPP1
+		Images:	615
+		Time:	20.09.2025 13:29:36 until 20.09.2025 16:05:53
+		Duration:	02:36:17
+		Location:	47.14079 9.52477
+
+	MAPP1LS1
+		Images:	774
+		Time:	20.09.2025 11:56:03 until 20.09.2025 16:13:14
+		Duration:	04:17:11
+		Location:	47.14079 9.52477
+
+(7) - Finish
+	MAWI2
+		Images:	1063
+		Time:	20.09.2025 13:13:29 until 20.09.2025 16:34:16
+		Duration:	03:20:47
+		Location:	47.13935 9.51082
+
+	MAWI2LS1
+		Images:	389
+		Time:	20.09.2025 12:07:59 until 20.09.2025 16:24:41
+		Duration:	04:16:42
+		Location:	47.13935 9.51082
+

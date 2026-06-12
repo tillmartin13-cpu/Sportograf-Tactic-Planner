@@ -1,0 +1,119 @@
+EventId: 14446
+Spots: 17
+Total Images: 31625
+Time:	11.10.2025 07:17:44 to 11.10.2025 18:39:37
+Duration: 11:21:53
+
+(1) - Start
+	BRP2
+		Images:	131
+		Time:	11.10.2025 07:17:44 until 11.10.2025 09:00:13
+		Duration:	01:42:29
+		Location:	43.17115 16.44130
+
+(2) - LOG CARRY
+	SALI1
+		Images:	3098
+		Time:	11.10.2025 08:12:17 until 11.10.2025 11:24:02
+		Duration:	03:11:45
+		Location:	43.17400 16.42852
+
+(3) - SAND BAG
+	GIBE1
+		Images:	4959
+		Time:	11.10.2025 08:33:00 until 11.10.2025 11:58:33
+		Duration:	03:25:33
+		Location:	43.17481 16.44150
+
+(4) - MONKEY BAR
+	BATI1
+		Images:	1819
+		Time:	11.10.2025 08:38:16 until 11.10.2025 13:24:25
+		Duration:	04:46:09
+		Location:	43.17572 16.43946
+
+(5) - SLACK LINE
+	MMI1
+		Images:	1843
+		Time:	11.10.2025 09:22:17 until 11.10.2025 14:41:48
+		Duration:	05:19:31
+		Location:	43.16238 16.48647
+
+	MMI1LS1
+		Images:	1779
+		Time:	11.10.2025 08:52:58 until 11.10.2025 14:43:48
+		Duration:	05:50:50
+		Location:	43.16238 16.48647
+
+(6) - ATLAS CARRY
+	LULE1
+		Images:	2866
+		Time:	11.10.2025 11:04:11 until 11.10.2025 13:13:37
+		Duration:	02:09:26
+		Location:	43.15986 16.46558
+
+	LULE1LS1
+		Images:	698
+		Time:	11.10.2025 10:08:25 until 11.10.2025 13:17:37
+		Duration:	03:09:12
+		Location:	43.15986 16.46558
+
+	LULE1LS2
+		Images:	455
+		Time:	11.10.2025 11:23:42 until 11.10.2025 14:18:33
+		Duration:	02:54:51
+		Location:	43.15986 16.46558
+
+(7) - SWIM OUT  BEFORE FINISH LINE
+	SALI2
+		Images:	3689
+		Time:	11.10.2025 12:00:38 until 11.10.2025 17:47:41
+		Duration:	05:47:03
+		Location:	43.16970 16.44131
+
+(8) - FRAME
+	NBE1
+		Images:	3047
+		Time:	11.10.2025 08:57:00 until 11.10.2025 18:39:37
+		Duration:	09:42:37
+		Location:	43.16970 16.44131
+
+(9) - 30 MT BEFORE FINISH LINE
+	DARU1LS1
+		Images:	1341
+		Time:	11.10.2025 09:13:13 until 11.10.2025 17:55:37
+		Duration:	08:42:24
+		Location:	43.17115 16.44131
+
+(10) - Finish
+	BRP1
+		Images:	2299
+		Time:	11.10.2025 09:03:18 until 11.10.2025 17:55:35
+		Duration:	08:52:17
+		Location:	43.17115 16.44130
+
+	BRP1LS1
+		Images:	441
+		Time:	11.10.2025 09:42:53 until 11.10.2025 17:35:32
+		Duration:	07:52:39
+		Location:	43.17115 16.44130
+
+	BATI2
+		Images:	639
+		Time:	11.10.2025 13:24:46 until 11.10.2025 14:15:32
+		Duration:	00:50:46
+		Location:	43.17115 16.44130
+
+	DARU1
+		Images:	2496
+		Time:	11.10.2025 10:34:16 until 11.10.2025 17:59:29
+		Duration:	07:25:13
+		Location:	43.17115 16.44130
+
+(11) - Impressions / Pano
+	DARU1DRONE1
+		Images:	25
+		Time:	11.10.2025 08:38:11 until 11.10.2025 17:07:04
+		Duration:	08:28:53
+		Location:	43.17115 16.44130
+

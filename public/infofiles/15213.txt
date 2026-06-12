@@ -1,0 +1,103 @@
+EventId: 15213
+Spots: 17
+Total Images: 27530
+Time:	02.02.2025 06:22:00 to 02.02.2025 17:45:27
+Duration: 11:23:27
+
+(1) - Amrap
+	AKC1
+		Images:	2046
+		Time:	02.02.2025 08:15:00 until 02.02.2025 12:44:56
+		Duration:	04:29:56
+		Location:	-27.47584 153.01669
+
+	AKC1IMP1
+		Images:	17
+		Time:	02.02.2025 06:47:00 until 02.02.2025 07:54:45
+		Duration:	01:07:45
+		Location:	-27.47584 153.01669
+
+	AMI2
+		Images:	1582
+		Time:	02.02.2025 15:24:20 until 02.02.2025 17:45:27
+		Duration:	02:21:07
+		Location:	-27.47584 153.01669
+
+	JEK2
+		Images:	2618
+		Time:	02.02.2025 07:36:09 until 02.02.2025 17:45:26
+		Duration:	10:09:17
+		Location:	-27.47584 153.01669
+
+	MFS3
+		Images:	6855
+		Time:	02.02.2025 08:15:02 until 02.02.2025 17:45:23
+		Duration:	09:30:21
+		Location:	-27.47584 153.01669
+
+(2) - Liftoff
+	AKC2
+		Images:	1523
+		Time:	02.02.2025 07:56:27 until 02.02.2025 17:18:03
+		Duration:	09:21:36
+		Location:	-27.47584 153.01669
+
+	JEK1
+		Images:	2902
+		Time:	02.02.2025 07:48:16 until 02.02.2025 15:11:33
+		Duration:	07:23:17
+		Location:	-27.47584 153.01669
+
+	JEK1IMP1
+		Images:	21
+		Time:	02.02.2025 07:28:04 until 02.02.2025 07:48:16
+		Duration:	00:20:12
+		Location:	-27.47584 153.01669
+
+	MTS1
+		Images:	1679
+		Time:	02.02.2025 07:17:36 until 02.02.2025 12:51:58
+		Duration:	05:34:22
+		Location:	-27.47584 153.01669
+
+	MTS1IMP1
+		Images:	54
+		Time:	02.02.2025 06:51:33 until 02.02.2025 07:33:26
+		Duration:	00:41:53
+		Location:	-27.47584 153.01669
+
+(3) - Engine
+	AMI1
+		Images:	4194
+		Time:	02.02.2025 06:22:00 until 02.02.2025 15:24:20
+		Duration:	09:02:20
+		Location:	-27.47584 153.01669
+
+	JEK3
+		Images:	379
+		Time:	02.02.2025 15:13:28 until 02.02.2025 16:05:14
+		Duration:	00:51:46
+		Location:	-27.47584 153.01669
+
+	JEK3LS1
+		Images:	2387
+		Time:	02.02.2025 06:51:10 until 02.02.2025 17:11:47
+		Duration:	10:20:37
+		Location:	-27.47584 153.01669
+
+	MTS2
+		Images:	1225
+		Time:	02.02.2025 12:52:46 until 02.02.2025 16:29:52
+		Duration:	03:37:06
+		Location:	-27.47584 153.01669
+
+(4) - Sprint
+	MFS2
+	MFS2IMP1
+		Images:	48
+		Time:	02.02.2025 07:01:37 until 02.02.2025 08:08:07
+		Duration:	01:06:30
+		Location:	-27.47584 153.01669
+
+(5) - Impressions / Pano
+	PANO1

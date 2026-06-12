@@ -1,0 +1,59 @@
+EventId: 14721
+Spots: 9
+Total Images: 3793
+Time:	22.08.2025 07:43:22 to 23.08.2025 13:16:24
+Duration: 1.05:33:02
+
+(1) - City
+	KD1
+		Images:	169
+		Time:	22.08.2025 20:27:58 until 23.08.2025 10:11:17
+		Duration:	13:43:19
+		Location:	46.01959 7.74654
+
+	KD1LS1
+		Images:	232
+		Time:	22.08.2025 20:27:30 until 22.08.2025 20:53:00
+		Duration:	00:25:30
+		Location:	46.01959 7.74654
+
+(2) - Impressions / Pano
+	PANO1
+(3) - Uphill
+	BP1
+		Images:	274
+		Time:	22.08.2025 07:43:22 until 23.08.2025 13:16:24
+		Duration:	1.05:33:02
+		Location:	46.01545 7.76596
+
+	BP1LS2
+		Images:	337
+		Time:	22.08.2025 19:58:57 until 23.08.2025 09:01:08
+		Duration:	13:02:11
+		Location:	46.01545 7.76596
+
+	BP1LS1
+		Images:	317
+		Time:	22.08.2025 19:46:16 until 22.08.2025 22:10:49
+		Duration:	02:24:33
+		Location:	46.01545 7.76596
+
+(4) - Finish
+	BECK1
+		Images:	1907
+		Time:	22.08.2025 08:10:37 until 23.08.2025 11:11:40
+		Duration:	1.03:01:03
+		Location:	46.01698 7.77029
+
+	BECK1DRONE1
+		Images:	15
+		Time:	22.08.2025 08:43:09 until 23.08.2025 10:55:37
+		Duration:	1.02:12:28
+		Location:	46.01698 7.77029
+
+	BECK1LS1
+		Images:	528
+		Time:	22.08.2025 20:28:29 until 22.08.2025 22:09:52
+		Duration:	01:41:23
+		Location:	46.01698 7.77029
+

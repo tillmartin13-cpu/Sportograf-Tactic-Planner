@@ -1,0 +1,320 @@
+EventId: 14730
+Spots: 49
+Total Images: 183912
+Time:	13.04.2025 07:20:00 to 13.04.2025 16:29:59
+Duration: 09:09:59
+
+(1) - Start
+	LKE1
+		Images:	3453
+		Time:	13.04.2025 13:02:17 until 13.04.2025 13:36:28
+		Duration:	00:34:11
+		Location:	47.36693 8.54395
+
+(2) - 1,9 km / 13,2 km
+	RONS1
+		Images:	5771
+		Time:	13.04.2025 13:20:18 until 13.04.2025 15:20:53
+		Duration:	02:00:35
+		Location:	47.35315 8.55626
+
+	RONS1LS1
+		Images:	6211
+		Time:	13.04.2025 13:12:07 until 13.04.2025 15:35:56
+		Duration:	02:23:49
+		Location:	47.35315 8.55626
+
+(3) - 2,2 km / 12,2 km
+	CVG1
+		Images:	3284
+		Time:	13.04.2025 13:22:04 until 13.04.2025 14:10:01
+		Duration:	00:47:57
+		Location:	47.35045 8.56028
+
+(4) - 2,7 km / 10,8 km
+	DCC1
+		Images:	1976
+		Time:	13.04.2025 13:23:33 until 13.04.2025 14:10:03
+		Duration:	00:46:30
+		Location:	47.34675 8.56395
+
+(5) - 4,1 km / 10,7 km
+	LLM1
+		Images:	3231
+		Time:	13.04.2025 13:27:04 until 13.04.2025 14:50:36
+		Duration:	01:23:32
+		Location:	47.33504 8.57017
+
+(6) - 4,2 km / 10,8 km
+	LAPO1
+		Images:	3413
+		Time:	13.04.2025 13:28:08 until 13.04.2025 14:51:16
+		Duration:	01:23:08
+		Location:	47.33537 8.56971
+
+(7) - 6,2 km / 9,0 km
+	LEBE1
+		Images:	5089
+		Time:	13.04.2025 08:16:35 until 13.04.2025 14:52:45
+		Duration:	06:36:10
+		Location:	47.32020 8.57884
+
+(8) - 10,1 km
+	ELLA1
+		Images:	7212
+		Time:	13.04.2025 13:25:59 until 13.04.2025 14:10:49
+		Duration:	00:44:50
+		Location:	47.30313 8.59124
+
+(9) - 10,2 km
+	CAIS1
+		Images:	5108
+		Time:	13.04.2025 12:42:38 until 13.04.2025 14:38:03
+		Duration:	01:55:25
+		Location:	47.30903 8.58635
+
+(10) - 14,0 km
+	EVL1
+		Images:	2866
+		Time:	13.04.2025 09:42:20 until 13.04.2025 14:20:02
+		Duration:	04:37:42
+		Location:	47.33419 8.57084
+
+(11) - 14,1 km
+	TE1LS1
+		Images:	1422
+		Time:	13.04.2025 13:00:37 until 13.04.2025 14:13:34
+		Duration:	01:12:57
+		Location:	47.33143 8.57229
+
+	TE2
+		Images:	1071
+		Time:	13.04.2025 14:41:18 until 13.04.2025 15:03:02
+		Duration:	00:21:44
+		Location:	47.33143 8.57229
+
+	TE2LS1
+		Images:	2408
+		Time:	13.04.2025 14:13:34 until 13.04.2025 14:59:26
+		Duration:	00:45:52
+		Location:	47.33143 8.57229
+
+(12) - 14,3 km
+	MAWI1
+		Images:	3722
+		Time:	13.04.2025 12:08:18 until 13.04.2025 14:46:41
+		Duration:	02:38:23
+		Location:	47.33028 8.57299
+
+	MAWI1LS1
+		Images:	113
+		Time:	13.04.2025 13:29:00 until 13.04.2025 14:59:21
+		Duration:	01:30:21
+		Location:	47.33028 8.57299
+
+(13) - 14,5 km
+	LBL1
+		Images:	8293
+		Time:	13.04.2025 13:16:32 until 13.04.2025 15:38:18
+		Duration:	02:21:46
+		Location:	47.36354 8.54673
+
+(14) - 14,6 km
+	BECK1
+		Images:	9072
+		Time:	13.04.2025 13:17:03 until 13.04.2025 15:48:58
+		Duration:	02:31:55
+		Location:	47.36238 8.54727
+
+	BECK1LS1
+		Images:	15702
+		Time:	13.04.2025 11:04:34 until 13.04.2025 16:15:59
+		Duration:	05:11:25
+		Location:	47.36238 8.54727
+
+(15) - 15,1 km
+	CHR1
+		Images:	3657
+		Time:	13.04.2025 07:32:43 until 13.04.2025 15:32:54
+		Duration:	08:00:11
+		Location:	47.36693 8.54395
+
+	CHR1LS2
+		Images:	1834
+		Time:	13.04.2025 13:40:12 until 13.04.2025 15:26:27
+		Duration:	01:46:15
+		Location:	47.36693 8.54395
+
+	CHR1LS1
+		Images:	847
+		Time:	13.04.2025 13:42:09 until 13.04.2025 15:27:31
+		Duration:	01:45:22
+		Location:	47.36693 8.54395
+
+(16) - 15,7 km
+	AC1
+		Images:	2360
+		Time:	13.04.2025 14:00:42 until 13.04.2025 15:48:01
+		Duration:	01:47:19
+		Location:	47.36392 8.53616
+
+	UEC1
+		Images:	2124
+		Time:	13.04.2025 13:59:25 until 13.04.2025 15:38:10
+		Duration:	01:38:45
+		Location:	47.36394 8.53560
+
+	UEC1LS2
+		Images:	1244
+		Time:	13.04.2025 13:53:37 until 13.04.2025 15:37:22
+		Duration:	01:43:45
+		Location:	47.36394 8.53560
+
+	UEC1LS1
+		Images:	722
+		Time:	13.04.2025 13:56:43 until 13.04.2025 15:35:55
+		Duration:	01:39:12
+		Location:	47.36394 8.53560
+
+(17) - 16,5 km
+	JGU1
+		Images:	5530
+		Time:	13.04.2025 08:32:28 until 13.04.2025 16:15:15
+		Duration:	07:42:47
+		Location:	47.35836 8.53549
+
+	JGU1LS1
+		Images:	560
+		Time:	13.04.2025 14:06:08 until 13.04.2025 14:34:24
+		Duration:	00:28:16
+		Location:	47.35836 8.53549
+
+(18) - 16,6 km
+	STHE1
+		Images:	5521
+		Time:	13.04.2025 13:24:31 until 13.04.2025 15:44:38
+		Duration:	02:20:07
+		Location:	47.35771 8.53478
+
+(19) - 18,1 km
+	COR1
+		Images:	2498
+		Time:	13.04.2025 07:20:00 until 13.04.2025 13:36:29
+		Duration:	06:16:29
+		Location:	47.36693 8.54395
+
+	COR1LS1
+		Images:	3477
+		Time:	13.04.2025 13:03:40 until 13.04.2025 16:01:31
+		Duration:	02:57:51
+		Location:	47.36693 8.54395
+
+(20) - 18,7 km
+	TD1
+		Images:	5917
+		Time:	13.04.2025 14:09:35 until 13.04.2025 16:17:15
+		Duration:	02:07:40
+		Location:	47.37159 8.53420
+
+(21) - 19,2 km
+	SEI1
+		Images:	6188
+		Time:	13.04.2025 14:12:49 until 13.04.2025 16:24:05
+		Duration:	02:11:16
+		Location:	47.37359 8.53842
+
+(22) - 19,7 km
+	NBI1
+		Images:	5947
+		Time:	13.04.2025 14:12:55 until 13.04.2025 16:24:55
+		Duration:	02:12:00
+		Location:	47.37238 8.53825
+
+(23) - 19,8 km
+	DABI1
+		Images:	3517
+		Time:	13.04.2025 14:12:30 until 13.04.2025 16:23:56
+		Duration:	02:11:26
+		Location:	47.37004 8.53926
+
+	DABI1LS1
+		Images:	1574
+		Time:	13.04.2025 13:36:56 until 13.04.2025 16:23:56
+		Duration:	02:47:00
+		Location:	47.37004 8.53926
+
+(24) - 19,9 km
+	RLLA1
+(25) - 20,1 km
+	EP1
+		Images:	7450
+		Time:	13.04.2025 08:01:26 until 13.04.2025 16:26:12
+		Duration:	08:24:46
+		Location:	47.36695 8.54160
+
+	EP1LS2
+		Images:	3648
+		Time:	13.04.2025 13:57:58 until 13.04.2025 16:25:31
+		Duration:	02:27:33
+		Location:	47.36695 8.54160
+
+	EP1LS1
+		Images:	3060
+		Time:	13.04.2025 13:58:01 until 13.04.2025 16:25:33
+		Duration:	02:27:32
+		Location:	47.36695 8.54160
+
+(26) - 20,4 km
+	ANI1
+		Images:	2268
+		Time:	13.04.2025 14:15:13 until 13.04.2025 16:22:21
+		Duration:	02:07:08
+		Location:	47.36993 8.54174
+
+(27) - 20,5 km
+	MRO1
+		Images:	4673
+		Time:	13.04.2025 13:58:45 until 13.04.2025 16:26:32
+		Duration:	02:27:47
+		Location:	47.36987 8.54141
+
+(28) - Verpflegung
+	EVL2
+		Images:	89
+		Time:	13.04.2025 14:24:26 until 13.04.2025 14:58:46
+		Duration:	00:34:20
+		Location:	47.32875 8.57323
+
+(29) - Finish
+	BP1
+		Images:	5415
+		Time:	13.04.2025 14:17:16 until 13.04.2025 16:27:07
+		Duration:	02:09:51
+		Location:	47.36623 8.54579
+
+	BP1LS2
+		Images:	4367
+		Time:	13.04.2025 14:14:35 until 13.04.2025 16:27:41
+		Duration:	02:13:06
+		Location:	47.36623 8.54579
+
+	BP1LS1
+		Images:	4874
+		Time:	13.04.2025 14:13:51 until 13.04.2025 16:29:59
+		Duration:	02:16:08
+		Location:	47.36623 8.54579
+
+	DIG1
+		Images:	163
+		Time:	13.04.2025 13:51:51 until 13.04.2025 14:23:48
+		Duration:	00:31:57
+		Location:	47.36622 8.54583
+
+	MA1
+		Images:	4968
+		Time:	13.04.2025 14:17:21 until 13.04.2025 16:27:06
+		Duration:	02:09:45
+		Location:	47.36623 8.54579
+
+(30) - Impressions / Pano
+	PANO1

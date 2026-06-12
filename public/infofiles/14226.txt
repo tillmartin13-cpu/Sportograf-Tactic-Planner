@@ -1,0 +1,112 @@
+EventId: 14226
+Spots: 16
+Total Images: 36458
+Time:	09.08.2025 07:33:09 to 10.08.2025 14:57:34
+Duration: 1.07:24:25
+
+(1) - Swim - Start
+	POK1
+		Images:	1398
+		Time:	09.08.2025 08:02:06 until 09.08.2025 10:09:54
+		Duration:	02:07:48
+		Location:	59.97095 10.73046
+
+	MAKO2
+		Images:	1794
+		Time:	09.08.2025 12:34:14 until 09.08.2025 13:28:31
+		Duration:	00:54:17
+		Location:	59.97095 10.73046
+
+	AGA1DRONE1
+		Images:	69
+		Time:	10.08.2025 09:50:42 until 10.08.2025 14:57:34
+		Duration:	05:06:52
+		Location:	59.96754 10.72734
+
+(2) - Bike - Transition zone
+	AGA1
+		Images:	1381
+		Time:	09.08.2025 10:05:55 until 09.08.2025 12:12:53
+		Duration:	02:06:58
+		Location:	59.96830 10.72776
+
+	AGA1LS1
+		Images:	193
+		Time:	09.08.2025 09:37:33 until 09.08.2025 13:28:55
+		Duration:	03:51:22
+		Location:	59.96830 10.72776
+
+(3) - Bike - 5.0 km
+	MAKO1
+		Images:	8539
+		Time:	09.08.2025 07:33:09 until 09.08.2025 11:57:54
+		Duration:	04:24:45
+		Location:	59.97785 10.76090
+
+(4) - Bike - 32.0 km
+	CO1
+		Images:	1473
+		Time:	09.08.2025 09:30:04 until 09.08.2025 12:12:43
+		Duration:	02:42:39
+		Location:	59.99541 10.76526
+
+(5) - Bike - 4.0 km
+	CO4
+		Images:	160
+		Time:	09.08.2025 13:58:36 until 09.08.2025 14:41:28
+		Duration:	00:42:52
+		Location:	59.97776 10.76080
+
+(6) - Run - 4.0 km & 9.0 km
+	POK2
+		Images:	5386
+		Time:	09.08.2025 10:29:27 until 09.08.2025 15:30:56
+		Duration:	05:01:29
+		Location:	59.97598 10.73584
+
+(7) - Run - 1.0 km & 6.0 km
+	MAKO3
+		Images:	2400
+		Time:	09.08.2025 13:38:10 until 09.08.2025 15:00:14
+		Duration:	01:22:04
+		Location:	59.96844 10.72296
+
+(8) - Finish
+	AGA2
+		Images:	10573
+		Time:	09.08.2025 12:13:11 until 09.08.2025 15:57:47
+		Duration:	03:44:36
+		Location:	59.96754 10.72734
+
+	CO2
+		Images:	646
+		Time:	09.08.2025 13:12:31 until 09.08.2025 13:37:17
+		Duration:	00:24:46
+		Location:	59.96754 10.72734
+
+	AGA2LS1
+		Images:	1690
+		Time:	09.08.2025 10:38:25 until 09.08.2025 15:21:59
+		Duration:	04:43:34
+		Location:	59.96754 10.72734
+
+(9) - Medals
+	CO3
+		Images:	198
+		Time:	09.08.2025 12:44:55 until 09.08.2025 15:32:45
+		Duration:	02:47:50
+		Location:	59.96754 10.72734
+
+	MAKO4
+		Images:	91
+		Time:	09.08.2025 15:12:36 until 09.08.2025 15:22:35
+		Duration:	00:09:59
+		Location:	59.96754 10.72734
+
+(10) - Swim - Impressions / Pano
+	PANO1
+		Images:	467
+		Time:	09.08.2025 08:46:13 until 09.08.2025 15:19:56
+		Duration:	06:33:43
+		Location:	59.96754 10.72734
+

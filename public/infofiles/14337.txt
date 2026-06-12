@@ -1,0 +1,773 @@
+EventId: 14337
+Spots: 121
+Total Images: 223580
+Time:	16.05.2025 06:08:22 to 18.05.2025 18:16:27
+Duration: 2.12:08:05
+
+(1) - Start 100K - Orschwiller
+	MAPP1
+		Images:	468
+		Time:	16.05.2025 06:26:42 until 16.05.2025 07:30:35
+		Duration:	01:03:53
+		Location:	48.24123 7.38290
+
+(2) - 0.4 km Orschwiller - Église Saint-Maurice (100K)
+	BECK1
+		Images:	1033
+		Time:	16.05.2025 07:02:05 until 16.05.2025 07:34:20
+		Duration:	00:32:15
+		Location:	48.24027 7.37927
+
+	BECK1LS1
+		Images:	640
+		Time:	16.05.2025 06:59:11 until 16.05.2025 07:39:51
+		Duration:	00:40:40
+		Location:	48.24027 7.37927
+
+	BECK1LS2
+		Images:	534
+		Time:	16.05.2025 06:53:01 until 16.05.2025 07:36:12
+		Duration:	00:43:11
+		Location:	48.24027 7.37927
+
+(3) - 3.6 km Rodern - Église Saint-Georges (100K)
+	HS1
+		Images:	1560
+		Time:	16.05.2025 07:08:32 until 16.05.2025 08:04:18
+		Duration:	00:55:46
+		Location:	48.22501 7.35330
+
+	HS1LS1
+		Images:	972
+		Time:	16.05.2025 06:56:37 until 16.05.2025 07:59:16
+		Duration:	01:02:39
+		Location:	48.22501 7.35330
+
+(4) - 10.0 km Château du Haut-Koenigsbourg (100K)
+	AGU1
+		Images:	1966
+		Time:	16.05.2025 07:53:53 until 16.05.2025 09:24:28
+		Duration:	01:30:35
+		Location:	48.24948 7.34423
+
+	AGU1LS2
+		Images:	1408
+		Time:	16.05.2025 07:45:14 until 16.05.2025 09:31:45
+		Duration:	01:46:31
+		Location:	48.24948 7.34423
+
+	AGU1LS1
+		Images:	1406
+		Time:	16.05.2025 07:47:00 until 16.05.2025 09:35:20
+		Duration:	01:48:20
+		Location:	48.24948 7.34423
+
+	LUJ1
+		Images:	3601
+		Time:	16.05.2025 07:14:25 until 16.05.2025 09:10:20
+		Duration:	01:55:55
+		Location:	48.24905 7.33941
+
+	AA1
+		Images:	2413
+		Time:	16.05.2025 07:11:56 until 16.05.2025 09:14:50
+		Duration:	02:02:54
+		Location:	48.24929 7.34562
+
+(5) - 15.4 km Château de Kintzheim (100K)
+	DIG1
+		Images:	5022
+		Time:	16.05.2025 06:08:22 until 16.05.2025 17:16:23
+		Duration:	11:08:01
+		Location:	48.25646 7.38591
+
+(6) - 18.6 km Châtenois - Église Saint-Georges (100K)
+	JOMA1
+		Images:	1274
+		Time:	16.05.2025 08:27:41 until 16.05.2025 10:42:57
+		Duration:	02:15:16
+		Location:	48.26941 7.39677
+
+	JOMA1LS2
+		Images:	985
+		Time:	16.05.2025 08:27:51 until 16.05.2025 10:43:27
+		Duration:	02:15:36
+		Location:	48.26941 7.39677
+
+(7) - 31.0 km Dambach-la-Ville (100K)
+	MAPP2
+		Images:	3378
+		Time:	16.05.2025 08:52:53 until 16.05.2025 13:13:42
+		Duration:	04:20:49
+		Location:	48.32324 7.42505
+
+	MAPP2LS1
+		Images:	1608
+		Time:	16.05.2025 09:07:13 until 16.05.2025 13:31:12
+		Duration:	04:23:59
+		Location:	48.32324 7.42505
+
+(8) - 31.7 km Dambach-la-Ville - Chapelle Saint-Sébastian (100K)
+	HS2
+		Images:	1755
+		Time:	16.05.2025 09:33:12 until 16.05.2025 13:55:03
+		Duration:	04:21:51
+		Location:	48.32694 7.42003
+
+	HS2LS2
+		Images:	1396
+		Time:	16.05.2025 09:12:10 until 16.05.2025 13:05:50
+		Duration:	03:53:40
+		Location:	48.32694 7.42003
+
+	HS2LS1
+		Images:	1417
+		Time:	16.05.2025 09:11:08 until 16.05.2025 13:04:38
+		Duration:	03:53:30
+		Location:	48.32694 7.42003
+
+(9) - 33.7 km Château du Bernstein (100K)
+	BECK2
+		Images:	3149
+		Time:	16.05.2025 09:48:56 until 16.05.2025 13:37:18
+		Duration:	03:48:22
+		Location:	48.32161 7.39912
+
+	BECK2LS1
+		Images:	1151
+		Time:	16.05.2025 09:45:42 until 16.05.2025 13:37:04
+		Duration:	03:51:22
+		Location:	48.32161 7.39912
+
+	BECK2LS2
+		Images:	1545
+		Time:	16.05.2025 09:53:51 until 16.05.2025 13:36:20
+		Duration:	03:42:29
+		Location:	48.32161 7.39912
+
+(10) - 49.7 km Andlau (100K)
+	AGU2
+		Images:	2623
+		Time:	16.05.2025 08:40:25 until 16.05.2025 16:59:44
+		Duration:	08:19:19
+		Location:	48.40185 7.41277
+
+	AGU2LS2
+		Images:	1314
+		Time:	16.05.2025 11:55:26 until 16.05.2025 17:10:53
+		Duration:	05:15:27
+		Location:	48.40185 7.41277
+
+	AGU2LS1
+		Images:	1280
+		Time:	16.05.2025 12:01:39 until 16.05.2025 17:08:07
+		Duration:	05:06:28
+		Location:	48.40185 7.41277
+
+(11) - 52.6 km Château d’Andlau (100K)
+	LUJ2
+		Images:	3808
+		Time:	16.05.2025 11:03:27 until 16.05.2025 17:22:32
+		Duration:	06:19:05
+		Location:	48.38948 7.41700
+
+(12) - 54.3 km Château du Spesbourg (100K)
+	ROB1
+		Images:	6232
+		Time:	16.05.2025 10:30:34 until 16.05.2025 17:57:24
+		Duration:	07:26:50
+		Location:	48.40184 7.39766
+
+	ROB1LS2
+		Images:	1063
+		Time:	16.05.2025 10:25:17 until 16.05.2025 18:16:12
+		Duration:	07:50:55
+		Location:	48.40184 7.39766
+
+	ROB1LS1
+		Images:	1000
+		Time:	16.05.2025 11:32:35 until 16.05.2025 18:07:41
+		Duration:	06:35:06
+		Location:	48.40184 7.39766
+
+	AA2
+		Images:	2230
+		Time:	16.05.2025 11:32:04 until 16.05.2025 17:51:23
+		Duration:	06:19:19
+		Location:	48.40182 7.39758
+
+(13) - Start 100M - Turckheim
+	MAPP3
+		Images:	286
+		Time:	16.05.2025 18:20:08 until 16.05.2025 19:01:01
+		Duration:	00:40:53
+		Location:	48.08614 7.27104
+
+(14) - 1.5 km Col du Brand (100M)
+	BECK3
+		Images:	822
+		Time:	16.05.2025 19:06:02 until 16.05.2025 19:13:57
+		Duration:	00:07:55
+		Location:	48.09307 7.27558
+
+	BECK3LS2
+		Images:	890
+		Time:	16.05.2025 18:53:09 until 16.05.2025 19:16:51
+		Duration:	00:23:42
+		Location:	48.09307 7.27558
+
+	BECK3LS1
+		Images:	578
+		Time:	16.05.2025 18:56:14 until 16.05.2025 19:16:34
+		Duration:	00:20:20
+		Location:	48.09307 7.27558
+
+(15) - 9.1 km Katzenthal - Château du Wineck (100M)
+	AGU3
+		Images:	895
+		Time:	16.05.2025 19:39:31 until 16.05.2025 20:39:15
+		Duration:	00:59:44
+		Location:	48.10921 7.27756
+
+	AGU3LS2
+		Images:	688
+		Time:	16.05.2025 19:32:19 until 16.05.2025 20:42:41
+		Duration:	01:10:22
+		Location:	48.10921 7.27756
+
+	AGU3LS1
+		Images:	687
+		Time:	16.05.2025 19:31:45 until 16.05.2025 20:42:07
+		Duration:	01:10:22
+		Location:	48.10921 7.27756
+
+(16) - Start 20K Friday - Obernai
+	LUJ3
+		Images:	647
+		Time:	16.05.2025 19:46:29 until 16.05.2025 20:17:25
+		Duration:	00:30:56
+		Location:	48.46228 7.48250
+
+(17) - 5.0 km Chem. Kaeferlaechelweg (20K FRI)
+	AA3
+		Images:	1753
+		Time:	16.05.2025 19:52:48 until 16.05.2025 20:56:15
+		Duration:	01:03:27
+		Location:	48.45685 7.45338
+
+(18) - 15.3 km L’Ehn (20K FRI)
+	ROB2
+		Images:	4144
+		Time:	16.05.2025 20:53:39 until 16.05.2025 22:31:34
+		Duration:	01:37:55
+		Location:	48.46841 7.45576
+
+	ROB2LS2
+		Images:	869
+		Time:	16.05.2025 20:24:26 until 16.05.2025 22:23:19
+		Duration:	01:58:53
+		Location:	48.46841 7.45576
+
+	ROB2LS1
+		Images:	724
+		Time:	16.05.2025 20:10:52 until 16.05.2025 22:20:41
+		Duration:	02:09:49
+		Location:	48.46841 7.45576
+
+(19) - 100.2 km Château d’Andlau (100M)
+	AGU4
+		Images:	481
+		Time:	17.05.2025 08:47:58 until 17.05.2025 14:15:04
+		Duration:	05:27:06
+		Location:	48.40163 7.41294
+
+	AGU4LS2
+		Images:	618
+		Time:	17.05.2025 08:45:38 until 17.05.2025 14:26:03
+		Duration:	05:40:25
+		Location:	48.40163 7.41294
+
+	AGU4LS1
+		Images:	624
+		Time:	17.05.2025 08:39:52 until 17.05.2025 14:27:26
+		Duration:	05:47:34
+		Location:	48.40163 7.41294
+
+(20) - 101.9 km Château du Spesbourg (100M)
+	LUJ5
+		Images:	509
+		Time:	17.05.2025 08:25:10 until 17.05.2025 17:04:54
+		Duration:	08:39:44
+		Location:	48.40205 7.39749
+
+(21) - 113.3 km / 4.9 km Château du Landsberg (100M, 20K SAT)
+	HS4
+		Images:	3529
+		Time:	17.05.2025 09:05:09 until 17.05.2025 18:46:56
+		Duration:	09:41:47
+		Location:	48.42063 7.42240
+
+	HS4LS2
+		Images:	2313
+		Time:	17.05.2025 08:13:52 until 17.05.2025 16:47:45
+		Duration:	08:33:53
+		Location:	48.42063 7.42240
+
+	HS4LS1
+		Images:	2210
+		Time:	17.05.2025 08:28:16 until 17.05.2025 16:47:40
+		Duration:	08:19:24
+		Location:	48.42063 7.42240
+
+	MAMO1
+		Images:	3519
+		Time:	17.05.2025 08:28:51 until 17.05.2025 16:47:00
+		Duration:	08:18:09
+		Location:	48.42047 7.42227
+
+(22) - 118.8 km / 10.1 km Château de Dreistein (100M, 20K SAT)
+	DIG3
+		Images:	4038
+		Time:	17.05.2025 15:32:46 until 17.05.2025 18:51:52
+		Duration:	03:19:06
+		Location:	48.43977 7.39137
+
+(23) - 121.1 km / 12.5 km Château du Birkenfels (100M, 20K SAT)
+	JOMA3
+		Images:	1589
+		Time:	17.05.2025 15:50:38 until 17.05.2025 18:42:11
+		Duration:	02:51:33
+		Location:	48.42916 7.38435
+
+	JOMA3LS2
+		Images:	1470
+		Time:	17.05.2025 15:45:34 until 17.05.2025 18:25:20
+		Duration:	02:39:46
+		Location:	48.42916 7.38435
+
+	JOMA3LS1
+		Images:	1480
+		Time:	17.05.2025 15:36:19 until 17.05.2025 18:25:20
+		Duration:	02:49:01
+		Location:	48.42916 7.38435
+
+(24) - 124.0 km Château du Kagenfels (100M)
+	BECK8
+		Images:	531
+		Time:	17.05.2025 09:43:01 until 17.05.2025 14:10:51
+		Duration:	04:27:50
+		Location:	48.44504 7.36683
+
+	BECK8LS2
+		Images:	170
+		Time:	17.05.2025 09:26:50 until 17.05.2025 14:05:22
+		Duration:	04:38:32
+		Location:	48.44504 7.36683
+
+	BECK8LS1
+		Images:	204
+		Time:	17.05.2025 09:01:38 until 17.05.2025 13:57:18
+		Duration:	04:55:40
+		Location:	48.44504 7.36683
+
+	MAPP8
+		Images:	558
+		Time:	17.05.2025 09:07:53 until 17.05.2025 14:17:09
+		Duration:	05:09:16
+		Location:	48.44357 7.36620
+
+	MAPP8LS1
+		Images:	320
+		Time:	17.05.2025 08:45:19 until 17.05.2025 14:03:10
+		Duration:	05:17:51
+		Location:	48.44357 7.36620
+
+(25) - Start 20K Saturday - Barr
+	MAPP5
+		Images:	270
+		Time:	17.05.2025 15:06:56 until 17.05.2025 15:50:55
+		Duration:	00:43:59
+		Location:	48.41006 7.45102
+
+(26) - 1.0 km Barr - Vignes (20K SAT)
+	BECK5
+		Images:	2261
+		Time:	17.05.2025 15:04:13 until 17.05.2025 15:55:25
+		Duration:	00:51:12
+		Location:	48.40901 7.44341
+
+	BECK5LS2
+		Images:	584
+		Time:	17.05.2025 15:14:28 until 17.05.2025 15:54:11
+		Duration:	00:39:43
+		Location:	48.40901 7.44341
+
+	BECK5LS1
+		Images:	584
+		Time:	17.05.2025 15:15:50 until 17.05.2025 15:54:14
+		Duration:	00:38:24
+		Location:	48.40901 7.44341
+
+(27) - Finish (100M, 100K, 20K FRI, 20K SAT)
+	AA4
+		Images:	2766
+		Time:	17.05.2025 11:36:05 until 17.05.2025 23:51:56
+		Duration:	12:15:51
+		Location:	48.46031 7.48453
+
+	HS3
+		Images:	793
+		Time:	16.05.2025 17:06:16 until 16.05.2025 22:44:54
+		Duration:	05:38:38
+		Location:	48.46031 7.48453
+
+	HS3LS1
+		Images:	518
+		Time:	16.05.2025 16:03:09 until 16.05.2025 21:34:17
+		Duration:	05:31:08
+		Location:	48.46031 7.48453
+
+	HS3LS2
+		Images:	510
+		Time:	16.05.2025 16:05:24 until 16.05.2025 21:34:43
+		Duration:	05:29:19
+		Location:	48.46031 7.48453
+
+	ROB3
+		Images:	8912
+		Time:	17.05.2025 11:32:35 until 17.05.2025 23:51:56
+		Duration:	12:19:21
+		Location:	48.46031 7.48453
+
+	LUJ4
+		Images:	1532
+		Time:	16.05.2025 19:20:16 until 16.05.2025 22:46:49
+		Duration:	03:26:33
+		Location:	48.46031 7.48453
+
+	DIG2
+		Images:	944
+		Time:	16.05.2025 22:48:41 until 17.05.2025 05:35:06
+		Duration:	06:46:25
+		Location:	48.46031 7.48453
+
+	JOMA2
+		Images:	520
+		Time:	16.05.2025 23:30:40 until 17.05.2025 07:03:38
+		Duration:	07:32:58
+		Location:	48.46031 7.48453
+
+	JOMA2LS1
+		Images:	1487
+		Time:	16.05.2025 23:03:19 until 17.05.2025 07:06:05
+		Duration:	08:02:46
+		Location:	48.46031 7.48453
+
+	JOMA2LS2
+		Images:	1405
+		Time:	16.05.2025 23:14:47 until 17.05.2025 07:05:11
+		Duration:	07:50:24
+		Location:	48.46031 7.48453
+
+	BECK4
+		Images:	1696
+		Time:	17.05.2025 07:20:45 until 17.05.2025 19:29:39
+		Duration:	12:08:54
+		Location:	48.46031 7.48453
+
+	MAPP4
+		Images:	104
+		Time:	17.05.2025 07:04:50 until 17.05.2025 07:26:40
+		Duration:	00:21:50
+		Location:	48.46031 7.48453
+
+	ROB3LS2
+		Images:	1742
+		Time:	17.05.2025 11:56:25 until 17.05.2025 23:19:19
+		Duration:	11:22:54
+		Location:	48.46031 7.48453
+
+	ROB3LS1
+		Images:	1366
+		Time:	17.05.2025 11:40:32 until 17.05.2025 21:42:44
+		Duration:	10:02:12
+		Location:	48.46031 7.48453
+
+	AGU5
+		Images:	439
+		Time:	18.05.2025 00:00:49 until 18.05.2025 07:58:02
+		Duration:	07:57:13
+		Location:	48.46031 7.48453
+
+	AGU5LS2
+		Images:	584
+		Time:	18.05.2025 01:04:34 until 18.05.2025 08:01:11
+		Duration:	06:56:37
+		Location:	48.46031 7.48453
+
+	AGU5LS1
+		Images:	683
+		Time:	18.05.2025 00:31:38 until 18.05.2025 08:00:41
+		Duration:	07:29:03
+		Location:	48.46031 7.48453
+
+(28) - Start 50K - Barr
+	LUJ6
+		Images:	1823
+		Time:	18.05.2025 06:35:12 until 18.05.2025 08:00:49
+		Duration:	01:25:37
+		Location:	48.40989 7.45070
+
+(29) - 1.0 km Barr - Vignes (50K)
+	MAPP6
+		Images:	1485
+		Time:	18.05.2025 07:06:38 until 18.05.2025 08:16:03
+		Duration:	01:09:25
+		Location:	48.41004 7.44290
+
+	MAPP6LS1
+		Images:	1216
+		Time:	18.05.2025 06:46:14 until 18.05.2025 08:16:45
+		Duration:	01:30:31
+		Location:	48.41004 7.44290
+
+	BECK6
+		Images:	2288
+		Time:	18.05.2025 07:04:27 until 18.05.2025 08:11:43
+		Duration:	01:07:16
+		Location:	48.40901 7.44342
+
+	BECK6LS2
+		Images:	866
+		Time:	18.05.2025 06:48:03 until 18.05.2025 08:11:40
+		Duration:	01:23:37
+		Location:	48.40901 7.44342
+
+	BECK6LS1
+		Images:	708
+		Time:	18.05.2025 06:57:48 until 18.05.2025 07:54:15
+		Duration:	00:56:27
+		Location:	48.40901 7.44342
+
+(30) - 4.9 km Château du Landsberg (50K)
+	ROB4
+		Images:	3946
+		Time:	18.05.2025 07:28:44 until 18.05.2025 08:52:59
+		Duration:	01:24:15
+		Location:	48.42055 7.42245
+
+	ROB4LS2
+		Images:	1765
+		Time:	18.05.2025 07:16:26 until 18.05.2025 08:55:50
+		Duration:	01:39:24
+		Location:	48.42055 7.42245
+
+	ROB4LS1
+		Images:	2755
+		Time:	18.05.2025 07:25:40 until 18.05.2025 10:39:00
+		Duration:	03:13:20
+		Location:	48.42055 7.42245
+
+	AA5
+		Images:	3837
+		Time:	18.05.2025 07:26:31 until 18.05.2025 09:55:06
+		Duration:	02:28:35
+		Location:	48.42043 7.42253
+
+(31) - 10.1 km Château de Dreistein (50K)
+	DIG5
+		Images:	5865
+		Time:	18.05.2025 07:52:29 until 18.05.2025 09:49:24
+		Duration:	01:56:55
+		Location:	48.43968 7.39138
+
+(32) - 12.5 km Château du Birkenfels (50K)
+	HS7
+		Images:	3168
+		Time:	18.05.2025 08:02:18 until 18.05.2025 09:56:35
+		Duration:	01:54:17
+		Location:	48.42924 7.38412
+
+	HS5LS2
+		Images:	1914
+		Time:	18.05.2025 07:46:30 until 18.05.2025 10:04:34
+		Duration:	02:18:04
+		Location:	48.42924 7.38412
+
+	HS5LS1
+		Images:	2548
+		Time:	18.05.2025 07:51:26 until 18.05.2025 10:06:45
+		Duration:	02:15:19
+		Location:	48.42924 7.38412
+
+(33) - 15.7 km Château de Kagenfels (50K)
+	MAMO2
+		Images:	3300
+		Time:	18.05.2025 07:55:34 until 18.05.2025 12:23:28
+		Duration:	04:27:54
+		Location:	48.44512 7.36673
+
+	JOMA5
+		Images:	2442
+		Time:	18.05.2025 08:14:17 until 18.05.2025 11:00:27
+		Duration:	02:46:10
+		Location:	48.44530 7.36645
+
+	JOMA5LS2
+		Images:	1878
+		Time:	18.05.2025 07:42:20 until 18.05.2025 11:00:28
+		Duration:	03:18:08
+		Location:	48.44530 7.36645
+
+	JOMA5LS1
+		Images:	1160
+		Time:	18.05.2025 07:52:50 until 18.05.2025 10:56:47
+		Duration:	03:03:57
+		Location:	48.44530 7.36645
+
+(34) - 43.0 km Rosheim (50K)
+	AA6
+		Images:	2767
+		Time:	18.05.2025 09:57:32 until 18.05.2025 16:19:01
+		Duration:	06:21:29
+		Location:	48.49617 7.46884
+
+(35) - 45.4 km Rosheim  - Vignes (50K)
+	ROB5
+		Images:	6165
+		Time:	18.05.2025 10:17:14 until 18.05.2025 16:22:42
+		Duration:	06:05:28
+		Location:	48.48791 7.46484
+
+	ROB5LS2
+		Images:	848
+		Time:	18.05.2025 10:30:56 until 18.05.2025 14:37:03
+		Duration:	04:06:07
+		Location:	48.48791 7.46484
+
+	ROB5LS1
+		Images:	1171
+		Time:	18.05.2025 10:43:37 until 18.05.2025 15:11:23
+		Duration:	04:27:46
+		Location:	48.48791 7.46484
+
+(36) - 49.0 km Obernai - Forêt (50K)
+	DIG4
+		Images:	5818
+		Time:	18.05.2025 11:13:40 until 18.05.2025 17:26:24
+		Duration:	06:12:44
+		Location:	48.47068 7.48029
+
+(37) - 49.3 km Obernai - Vignes (50K)
+	HS8
+		Images:	3678
+		Time:	18.05.2025 11:40:41 until 18.05.2025 17:29:53
+		Duration:	05:49:12
+		Location:	48.46880 7.48152
+
+	HS6LS2
+		Images:	1689
+		Time:	18.05.2025 11:25:28 until 18.05.2025 17:14:48
+		Duration:	05:49:20
+		Location:	48.46880 7.48152
+
+(38) - 50.0 km Obernai - Mémorial National (50K)
+	MAMO3
+		Images:	2017
+		Time:	18.05.2025 12:28:41 until 18.05.2025 17:37:04
+		Duration:	05:08:23
+		Location:	48.46574 7.47998
+
+(39) - 50.7 km Obernai (50K)
+	JOMA4
+		Images:	1843
+		Time:	18.05.2025 12:32:25 until 18.05.2025 17:44:26
+		Duration:	05:12:01
+		Location:	48.46300 7.48510
+
+	JOMA4LS2
+		Images:	1543
+		Time:	18.05.2025 12:20:06 until 18.05.2025 17:52:24
+		Duration:	05:32:18
+		Location:	48.46300 7.48510
+
+	JOMA4LS1
+		Images:	1475
+		Time:	18.05.2025 12:29:03 until 18.05.2025 17:44:31
+		Duration:	05:15:28
+		Location:	48.46300 7.48510
+
+(40) - Finish 50K
+	MAPP7
+		Images:	2738
+		Time:	18.05.2025 10:35:06 until 18.05.2025 18:16:27
+		Duration:	07:41:21
+		Location:	48.46030 7.48455
+
+	MAPP7LS1
+		Images:	1919
+		Time:	18.05.2025 10:39:32 until 18.05.2025 18:08:02
+		Duration:	07:28:30
+		Location:	48.46030 7.48455
+
+	LUJ7
+		Images:	12874
+		Time:	18.05.2025 10:30:45 until 18.05.2025 18:10:42
+		Duration:	07:39:57
+		Location:	48.46030 7.48455
+
+	BECK7
+		Images:	2451
+		Time:	18.05.2025 10:34:55 until 18.05.2025 15:49:54
+		Duration:	05:14:59
+		Location:	48.46030 7.48455
+
+	BECK7LS2
+		Images:	2563
+		Time:	18.05.2025 10:24:36 until 18.05.2025 18:14:51
+		Duration:	07:50:15
+		Location:	48.46030 7.48455
+
+	BECK7LS1
+		Images:	3772
+		Time:	18.05.2025 10:54:56 until 18.05.2025 17:28:13
+		Duration:	06:33:17
+		Location:	48.46030 7.48455
+
+(41) - Drone Impressions
+	DIG1DRONE1
+		Images:	25
+		Time:	16.05.2025 07:50:26 until 16.05.2025 07:58:55
+		Duration:	00:08:29
+		Location:	48.25646 7.38591
+
+	BECK2DRONE1
+		Images:	8
+		Time:	16.05.2025 10:07:34 until 16.05.2025 10:10:00
+		Duration:	00:02:26
+		Location:	48.25646 7.38591
+
+	BECK1DRONE1
+		Images:	22
+		Time:	16.05.2025 07:09:26 until 16.05.2025 07:21:06
+		Duration:	00:11:40
+		Location:	48.25646 7.38591
+
+	DIG2DRONE1
+		Images:	67
+		Time:	17.05.2025 06:30:31 until 17.05.2025 18:48:01
+		Duration:	12:17:30
+		Location:	48.25646 7.38591
+
+	BECK6DRONE1
+		Images:	17
+		Time:	18.05.2025 06:33:19 until 18.05.2025 07:27:00
+		Duration:	00:53:41
+		Location:	48.25646 7.38591
+
+	DIG5DRONE1
+		Images:	69
+		Time:	18.05.2025 09:54:24 until 18.05.2025 11:29:15
+		Duration:	01:34:51
+		Location:	48.25646 7.38591
+

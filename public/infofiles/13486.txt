@@ -1,0 +1,183 @@
+EventId: 13486
+Spots: 28
+Total Images: 83632
+Time:	19.03.2025 18:47:19 to 23.03.2025 15:04:10
+Duration: 3.20:16:51
+
+(1) - Bike - 0.4 km
+	VN3
+		Images:	2498
+		Time:	23.03.2025 07:35:37 until 23.03.2025 08:36:54
+		Duration:	01:01:17
+		Location:	-38.14652 144.36766
+
+	VN3LS1
+		Images:	1720
+		Time:	22.03.2025 19:21:45 until 23.03.2025 08:44:01
+		Duration:	13:22:16
+		Location:	-38.14652 144.36766
+
+(2) - Bike - 0.5 km
+	EMM1
+		Images:	4721
+		Time:	19.03.2025 18:47:19 until 23.03.2025 09:29:01
+		Duration:	3.14:41:42
+		Location:	-38.14691 144.36750
+
+(3) - Bike - 25.1 km
+	PBOY1
+		Images:	1112
+		Time:	23.03.2025 06:42:03 until 23.03.2025 09:28:05
+		Duration:	02:46:02
+		Location:	-38.17902 144.49738
+
+(4) - Bike - 28.6 km
+	PBOY2
+		Images:	932
+		Time:	23.03.2025 09:34:10 until 23.03.2025 11:37:10
+		Duration:	02:03:00
+		Location:	-38.17902 144.49738
+
+(5) - Bike - 9.9 km
+	DTI1
+		Images:	7804
+		Time:	23.03.2025 06:33:14 until 23.03.2025 13:36:17
+		Duration:	07:03:03
+		Location:	-38.17625 144.47455
+
+	DTI1LS1
+		Images:	9650
+		Time:	23.03.2025 06:16:45 until 23.03.2025 11:13:59
+		Duration:	04:57:14
+		Location:	-38.17625 144.47455
+
+(6) - Bike - Transition zone
+	KSL2
+		Images:	2584
+		Time:	23.03.2025 06:52:42 until 23.03.2025 08:17:19
+		Duration:	01:24:37
+		Location:	-38.14711 144.37305
+
+(7) - Finish
+	NIF4
+		Images:	470
+		Time:	23.03.2025 14:05:25 until 23.03.2025 14:57:32
+		Duration:	00:52:07
+		Location:	-38.14704 144.37168
+
+	VN4
+		Images:	6203
+		Time:	23.03.2025 10:16:13 until 23.03.2025 14:35:55
+		Duration:	04:19:42
+		Location:	-38.14704 144.37168
+
+	VN4LS2
+		Images:	2475
+		Time:	22.03.2025 19:18:04 until 23.03.2025 14:59:47
+		Duration:	19:41:43
+		Location:	-38.14704 144.37168
+
+	VN4LS1
+		Images:	2019
+		Time:	23.03.2025 09:13:13 until 23.03.2025 14:22:19
+		Duration:	05:09:06
+		Location:	-38.14704 144.37168
+
+	KSL3
+		Images:	412
+		Time:	23.03.2025 08:54:48 until 23.03.2025 11:28:42
+		Duration:	02:33:54
+		Location:	-38.14711 144.37305
+
+	KSL5
+		Images:	1177
+		Time:	23.03.2025 13:18:10 until 23.03.2025 14:57:34
+		Duration:	01:39:24
+		Location:	-38.14704 144.37168
+
+	CSM2
+		Images:	7359
+		Time:	23.03.2025 10:03:25 until 23.03.2025 13:09:04
+		Duration:	03:05:39
+		Location:	-38.14704 144.37168
+
+	CSM2LS1
+		Images:	1872
+		Time:	23.03.2025 11:03:45 until 23.03.2025 15:04:10
+		Duration:	04:00:25
+		Location:	-38.14704 144.37168
+
+(8) - Run - 0.7 km
+	NIF3
+		Images:	9573
+		Time:	23.03.2025 07:45:23 until 23.03.2025 13:34:42
+		Duration:	05:49:19
+		Location:	-38.14308 144.36172
+
+(9) - Run - 10.0 km
+	DTI2
+		Images:	784
+		Time:	23.03.2025 13:36:28 until 23.03.2025 14:41:33
+		Duration:	01:05:05
+		Location:	-38.14678 144.36933
+
+	DTI2LS1
+		Images:	848
+		Time:	23.03.2025 12:36:51 until 23.03.2025 14:51:19
+		Duration:	02:14:28
+		Location:	-38.14678 144.36933
+
+(10) - Run - 21.0 km
+	PBOY3
+		Images:	886
+		Time:	23.03.2025 13:19:49 until 23.03.2025 15:01:22
+		Duration:	01:41:33
+		Location:	-38.14347 144.36175
+
+(11) - Run - 6.3 km
+	EMM2
+		Images:	6572
+		Time:	23.03.2025 09:34:07 until 23.03.2025 14:17:09
+		Duration:	04:43:02
+		Location:	-38.14308 144.36172
+
+(12) - Swim - Impressions / Pano
+	PANO1
+(13) - Swim - Start
+	NIF1
+		Images:	2134
+		Time:	23.03.2025 06:01:44 until 23.03.2025 07:14:18
+		Duration:	01:12:34
+		Location:	-38.14689 144.36755
+
+	VN5
+		Images:	276
+		Time:	23.03.2025 05:44:06 until 23.03.2025 06:44:36
+		Duration:	01:00:30
+		Location:	-38.14679 144.37019
+
+	VN2
+		Images:	3941
+		Time:	23.03.2025 06:45:01 until 23.03.2025 07:14:25
+		Duration:	00:29:24
+		Location:	-38.14679 144.37019
+
+(14) - Swim - Transition zone
+	KSL1
+		Images:	74
+		Time:	23.03.2025 05:53:31 until 23.03.2025 06:46:54
+		Duration:	00:53:23
+		Location:	-38.14711 144.37305
+
+	KSL4
+		Images:	278
+		Time:	23.03.2025 11:56:39 until 23.03.2025 13:14:57
+		Duration:	01:18:18
+		Location:	-38.14711 144.37305
+
+	CSM1
+		Images:	5258
+		Time:	23.03.2025 06:42:33 until 23.03.2025 08:12:27
+		Duration:	01:29:54
+		Location:	-38.1469 144.3705
+

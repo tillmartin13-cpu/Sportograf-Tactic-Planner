@@ -1,0 +1,161 @@
+EventId: 13433
+Spots: 24
+Total Images: 78225
+Time:	08.11.2025 21:18:27 to 09.11.2025 16:03:56
+Duration: 18:45:29
+
+(1) - Bike - 38,0 km
+	AMG1
+		Images:	4660
+		Time:	09.11.2025 05:06:22 until 09.11.2025 08:04:14
+		Duration:	02:57:52
+		Location:	15.49972 73.83392
+
+(2) - Bike - 86,0 km Atal Setu Goa Bridge Background
+	AMG2
+		Images:	5672
+		Time:	09.11.2025 08:48:48 until 09.11.2025 14:53:50
+		Duration:	06:05:02
+		Location:	15.48209 73.80887
+
+(3) - Swim - Transition zone Swim Finish
+	KADE1
+		Images:	825
+		Time:	09.11.2025 04:58:02 until 09.11.2025 08:04:52
+		Duration:	03:06:50
+		Location:	15.47863 73.80606
+
+	SAUS3
+		Images:	639
+		Time:	09.11.2025 05:31:22 until 09.11.2025 06:16:01
+		Duration:	00:44:39
+		Location:	15.47863 73.80606
+
+	PASA2
+		Images:	2077
+		Time:	09.11.2025 06:24:48 until 09.11.2025 08:12:00
+		Duration:	01:47:12
+		Location:	15.47863 73.80606
+
+(4) - Swim - Start
+	KADE1DRONE1
+		Images:	94
+		Time:	09.11.2025 04:48:18 until 09.11.2025 14:01:40
+		Duration:	09:13:22
+		Location:	15.47863 73.80606
+
+	MUP1
+		Images:	1527
+		Time:	09.11.2025 05:49:49 until 09.11.2025 06:15:37
+		Duration:	00:25:48
+		Location:	15.47863 73.80606
+
+	PASA1
+		Images:	2262
+		Time:	09.11.2025 05:22:24 until 09.11.2025 06:24:30
+		Duration:	01:02:06
+		Location:	15.47863 73.80606
+
+	SAUS1
+		Images:	3237
+		Time:	09.11.2025 06:23:22 until 09.11.2025 07:26:08
+		Duration:	01:02:46
+		Location:	15.47863 73.80606
+
+(5) - Run - 0,0 km
+	KADE2
+		Images:	5928
+		Time:	09.11.2025 08:40:17 until 09.11.2025 16:03:56
+		Duration:	07:23:39
+		Location:	15.47723 73.80831
+
+(6) - Bike - 24,0 km Near Kala Academy
+	MADG1
+		Images:	7254
+		Time:	09.11.2025 05:44:23 until 09.11.2025 11:49:09
+		Duration:	06:04:46
+		Location:	15.49481 73.81853
+
+(7) - Run - 15,0 km
+	MADG2
+		Images:	770
+		Time:	09.11.2025 12:37:51 until 09.11.2025 14:45:16
+		Duration:	02:07:25
+		Location:	15.47032 73.80774
+
+(8) - Bike - Transition zone
+	MUP2
+		Images:	925
+		Time:	09.11.2025 06:42:09 until 09.11.2025 07:42:00
+		Duration:	00:59:51
+		Location:	15.48341 73.80860
+
+	MUP2LS1
+		Images:	636
+		Time:	09.11.2025 06:31:43 until 09.11.2025 07:43:45
+		Duration:	01:12:02
+		Location:	15.48341 73.80860
+
+	MUP2LS2
+		Images:	629
+		Time:	09.11.2025 06:33:48 until 09.11.2025 07:43:45
+		Duration:	01:09:57
+		Location:	15.48341 73.80860
+
+	SAS1
+		Images:	4851
+		Time:	08.11.2025 21:18:27 until 09.11.2025 08:53:47
+		Duration:	11:35:20
+		Location:	15.48341 73.80860
+
+(9) - Finish
+	MUP3
+		Images:	4948
+		Time:	09.11.2025 10:18:48 until 09.11.2025 14:59:55
+		Duration:	04:41:07
+		Location:	15.48209 73.80887
+
+	MUP3LS1
+		Images:	907
+		Time:	09.11.2025 10:02:31 until 09.11.2025 14:58:34
+		Duration:	04:56:03
+		Location:	15.48209 73.80887
+
+	MUP3LS2
+		Images:	1021
+		Time:	09.11.2025 10:02:32 until 09.11.2025 15:02:15
+		Duration:	04:59:43
+		Location:	15.48209 73.80887
+
+	PASA3
+		Images:	5387
+		Time:	09.11.2025 09:48:15 until 09.11.2025 14:56:43
+		Duration:	05:08:28
+		Location:	15.48209 73.80887
+
+	SAS2
+		Images:	5174
+		Time:	09.11.2025 09:45:09 until 09.11.2025 14:56:50
+		Duration:	05:11:41
+		Location:	15.48209 73.80887
+
+	SSR2
+		Images:	2040
+		Time:	09.11.2025 12:42:17 until 09.11.2025 14:56:50
+		Duration:	02:14:33
+		Location:	15.48209 73.80887
+
+(10) - Run - 2,0 km
+	SAUS2
+		Images:	12626
+		Time:	09.11.2025 09:01:29 until 09.11.2025 15:17:46
+		Duration:	06:16:17
+		Location:	15.46630 73.80649
+
+(11) - Bike - 21,0 km Zuari Bridge
+	SSR1
+		Images:	4136
+		Time:	09.11.2025 05:32:40 until 09.11.2025 11:02:45
+		Duration:	05:30:05
+		Location:	15.41133 73.90701
+

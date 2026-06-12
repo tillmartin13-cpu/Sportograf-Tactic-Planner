@@ -1,0 +1,41 @@
+EventId: 11998
+Spots: 5
+Total Images: 13724
+Time:	20.06.2025 13:13:16 to 20.06.2025 22:12:00
+Duration: 08:58:44
+
+(1) - Swim - Start
+	OLM1
+		Images:	2010
+		Time:	20.06.2025 13:13:16 until 20.06.2025 18:08:09
+		Duration:	04:54:53
+		Location:	56.03778 12.61685
+
+(2) - Swim - Transition zone
+	OLM2
+		Images:	2470
+		Time:	20.06.2025 18:09:01 until 20.06.2025 18:36:10
+		Duration:	00:27:09
+		Location:	56.03816 12.61725
+
+(3) - Bike - 0.5 km
+	PAG1
+		Images:	3661
+		Time:	20.06.2025 17:17:42 until 20.06.2025 19:32:34
+		Duration:	02:14:52
+		Location:	56.03982 12.60870
+
+(4) - Run - 0.3 km
+	ZSZ1
+		Images:	2610
+		Time:	20.06.2025 17:20:05 until 20.06.2025 19:54:16
+		Duration:	02:34:11
+		Location:	56.03963 12.61607
+
+(5) - Finish
+	OLM3
+		Images:	2973
+		Time:	20.06.2025 18:40:30 until 20.06.2025 22:12:00
+		Duration:	03:31:30
+		Location:	56.03839 12.61610
+

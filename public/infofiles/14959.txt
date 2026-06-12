@@ -1,0 +1,107 @@
+EventId: 14959
+Spots: 15
+Total Images: 76241
+Time:	12.09.2025 18:29:47 to 15.09.2025 12:48:48
+Duration: 2.18:19:01
+
+(1) - Obstacle 3 Monkey Bars
+	PAKE1
+		Images:	5431
+		Time:	13.09.2025 08:12:35 until 14.09.2025 14:46:07
+		Duration:	1.06:33:32
+		Location:	47.82801 -122.01043
+
+	WEG1
+		Images:	5687
+		Time:	14.09.2025 06:59:25 until 14.09.2025 14:00:48
+		Duration:	07:01:23
+		Location:	47.82801 -122.01043
+
+	JECA1
+		Images:	5714
+		Time:	13.09.2025 07:01:41 until 14.09.2025 14:59:52
+		Duration:	1.07:58:11
+		Location:	47.82801 -122.01043
+
+(2) - Obstacle 5 Atlas Carry
+	ABEN1
+		Images:	4757
+		Time:	13.09.2025 07:26:39 until 14.09.2025 14:59:40
+		Duration:	1.07:33:01
+		Location:	47.82970 -122.01733
+
+(3) - Obstacle 20 Rolling Mud
+	DIRO1
+		Images:	1699
+		Time:	12.09.2025 20:19:59 until 14.09.2025 14:59:11
+		Duration:	1.18:39:12
+		Location:	47.83049 -122.01940
+
+(4) - Obstacle 21 Dunk Wall
+	TERT1
+		Images:	3162
+		Time:	12.09.2025 18:29:47 until 14.09.2025 02:50:13
+		Duration:	1.08:20:26
+		Location:	47.83079 -122.01932
+
+(5) - Obstacle 23 Sandbag Carry
+	ARON1
+		Images:	12477
+		Time:	14.09.2025 07:32:15 until 14.09.2025 15:14:13
+		Duration:	07:41:58
+		Location:	47.83352 -122.01562
+
+(6) - Obstacle 24 Barbed Wire Carry
+	VMM1
+		Images:	19138
+		Time:	13.09.2025 06:59:13 until 14.09.2025 15:28:27
+		Duration:	1.08:29:14
+		Location:	47.83634 -122.01273
+
+(7) - Obstacle 26 Bucket Carry
+	AKAS1
+		Images:	8092
+		Time:	13.09.2025 18:53:10 until 15.09.2025 12:48:48
+		Duration:	1.17:55:38
+		Location:	47.83740 -122.01319
+
+(8) - Obstacle 28 Multi-Rig
+	SAMT1
+		Images:	2675
+		Time:	13.09.2025 06:40:47 until 14.09.2025 16:12:35
+		Duration:	1.09:31:48
+		Location:	47.83524 -122.00519
+
+	LLCA1
+		Images:	5815
+		Time:	14.09.2025 07:54:30 until 14.09.2025 16:17:53
+		Duration:	08:23:23
+		Location:	47.83524 -122.00519
+
+(9) - Herotent
+	ABKI1
+		Images:	1396
+		Time:	14.09.2025 05:57:18 until 14.09.2025 17:01:10
+		Duration:	11:03:52
+		Location:	47.83624 -121.99629
+
+(10) - Festival Area
+	JEFFL1
+		Images:	15
+		Time:	14.09.2025 07:20:19 until 14.09.2025 14:39:19
+		Duration:	07:19:00
+		Location:	47.83624 -121.99629
+
+	JOD1
+		Images:	165
+		Time:	14.09.2025 11:24:43 until 14.09.2025 13:42:41
+		Duration:	02:17:58
+		Location:	47.83624 -121.99629
+
+(11) - Drone
+	WEG1DRONE1
+		Images:	15
+		Time:	14.09.2025 14:34:49 until 14.09.2025 14:44:25
+		Duration:	00:09:36
+		Location:	47.83624 -121.99629
+

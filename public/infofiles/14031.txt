@@ -1,0 +1,187 @@
+EventId: 14031
+Spots: 28
+Total Images: 137133
+Time:	27.07.2025 09:19:38 to 27.07.2025 17:49:29
+Duration: 08:29:51
+
+(1) - Finish
+	ALN1
+		Images:	14739
+		Time:	27.07.2025 10:04:25 until 27.07.2025 17:47:54
+		Duration:	07:43:29
+		Location:	49.46902 8.52708
+
+	ALN1LS2
+		Images:	2761
+		Time:	27.07.2025 09:34:03 until 27.07.2025 17:43:41
+		Duration:	08:09:38
+		Location:	49.46902 8.52708
+
+	ALN1LS1
+		Images:	4235
+		Time:	27.07.2025 09:37:01 until 27.07.2025 17:29:42
+		Duration:	07:52:41
+		Location:	49.46902 8.52708
+
+(2) - Obstacle 5 Schaumparty
+	BA1
+		Images:	1601
+		Time:	27.07.2025 09:47:07 until 27.07.2025 11:01:40
+		Duration:	01:14:33
+		Location:	49.46647 8.52899
+
+	DEES1
+		Images:	4629
+		Time:	27.07.2025 09:47:07 until 27.07.2025 16:37:43
+		Duration:	06:50:36
+		Location:	49.46647 8.52899
+
+(3) - Obstacle 20 Containerrutsche
+	BA2
+		Images:	5687
+		Time:	27.07.2025 11:13:17 until 27.07.2025 17:46:52
+		Duration:	06:33:35
+		Location:	49.46827 8.52510
+
+(4) - Herotent
+	DABI1
+		Images:	3821
+		Time:	27.07.2025 10:04:45 until 27.07.2025 17:28:40
+		Duration:	07:23:55
+		Location:	49.46900 8.52713
+
+	LTH1
+		Images:	4146
+		Time:	27.07.2025 09:41:00 until 27.07.2025 17:49:29
+		Duration:	08:08:29
+		Location:	49.46900 8.52713
+
+(5) - Obstacle 6 Pyramide
+	ISA1
+		Images:	2510
+		Time:	27.07.2025 09:49:34 until 27.07.2025 16:46:09
+		Duration:	06:56:35
+		Location:	49.46625 8.52824
+
+	ISA1LS2
+		Images:	1080
+		Time:	27.07.2025 10:00:40 until 27.07.2025 13:02:38
+		Duration:	03:01:58
+		Location:	49.46625 8.52824
+
+	ISA1LS1
+		Images:	117
+		Time:	27.07.2025 09:48:35 until 27.07.2025 12:46:34
+		Duration:	02:57:59
+		Location:	49.46625 8.52824
+
+(6) - Obstacle 3 Schlammbecken
+	JOS1
+		Images:	21268
+		Time:	27.07.2025 09:43:54 until 27.07.2025 16:30:21
+		Duration:	06:46:27
+		Location:	49.46989 8.52938
+
+	LV1
+		Images:	7451
+		Time:	27.07.2025 09:20:04 until 27.07.2025 16:30:19
+		Duration:	07:10:15
+		Location:	49.46989 8.52938
+
+(7) - Obstacle 14 Gitterbecken
+	KG1
+		Images:	3626
+		Time:	27.07.2025 09:44:10 until 27.07.2025 17:25:44
+		Duration:	07:41:34
+		Location:	49.46898 8.52808
+
+	KG1LS1
+		Images:	9066
+		Time:	27.07.2025 09:28:40 until 27.07.2025 14:59:11
+		Duration:	05:30:31
+		Location:	49.46881 8.52805
+
+	SBRO1
+		Images:	3038
+		Time:	27.07.2025 10:07:26 until 27.07.2025 17:24:36
+		Duration:	07:17:10
+		Location:	49.46898 8.52808
+
+(8) - Obstacle 13 Krabbelstrecke
+	LBL1
+		Images:	6286
+		Time:	27.07.2025 13:33:40 until 27.07.2025 17:22:25
+		Duration:	03:48:45
+		Location:	49.46859 8.52806
+
+(9) - Obstacle 4 Tauchbecken
+	MAWI1
+		Images:	5196
+		Time:	27.07.2025 09:43:51 until 27.07.2025 16:39:25
+		Duration:	06:55:34
+		Location:	49.46870 8.52902
+
+	MAWI1LS1
+		Images:	3001
+		Time:	27.07.2025 09:19:38 until 27.07.2025 15:29:12
+		Duration:	06:09:34
+		Location:	49.46870 8.52902
+
+(10) - Impressions / Pano
+	MAWI2
+		Images:	42
+		Time:	27.07.2025 16:40:05 until 27.07.2025 16:55:30
+		Duration:	00:15:25
+		Location:	49.46902 8.52708
+
+	MOG1
+		Images:	46
+		Time:	27.07.2025 10:00:06 until 27.07.2025 11:22:27
+		Duration:	01:22:21
+		Location:	49.46902 8.52708
+
+	MOG1DRONE1
+		Images:	9
+		Time:	27.07.2025 10:11:58 until 27.07.2025 10:13:44
+		Duration:	00:01:46
+		Location:	49.46902 8.52708
+
+(11) - Obstacle 6 Piratenplanke
+	MBEN1
+		Images:	16195
+		Time:	27.07.2025 09:47:28 until 27.07.2025 16:39:30
+		Duration:	06:52:02
+		Location:	49.46624 8.52807
+
+	MBEN1LS1
+		Images:	1838
+		Time:	27.07.2025 09:44:08 until 27.07.2025 12:46:05
+		Duration:	03:01:57
+		Location:	49.46624 8.52807
+
+(12) - Obstacle 12 Ninja Jump
+	MDH1
+		Images:	7539
+		Time:	27.07.2025 09:26:43 until 27.07.2025 17:15:55
+		Duration:	07:49:12
+		Location:	49.46783 8.52668
+
+(13) - Obstacle 19 Seiltanz
+	MOG2
+		Images:	107
+		Time:	27.07.2025 11:22:41 until 27.07.2025 11:41:53
+		Duration:	00:19:12
+		Location:	49.46826 8.52648
+
+	MOG2LS2
+		Images:	3491
+		Time:	27.07.2025 09:35:39 until 27.07.2025 17:31:35
+		Duration:	07:55:56
+		Location:	49.46826 8.52648
+
+	MOG2LS1
+		Images:	3608
+		Time:	27.07.2025 09:50:33 until 27.07.2025 17:31:58
+		Duration:	07:41:25
+		Location:	49.46826 8.52648
+

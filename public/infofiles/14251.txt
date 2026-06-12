@@ -1,0 +1,65 @@
+EventId: 14251
+Spots: 9
+Total Images: 16073
+Time:	12.06.2025 17:53:12 to 12.06.2025 20:21:58
+Duration: 02:28:46
+
+(1) - Swim - Start
+	OBE2
+		Images:	452
+		Time:	12.06.2025 17:53:12 until 12.06.2025 18:41:03
+		Duration:	00:47:51
+		Location:	46.61980 14.25431
+
+(2) - Swim - Transition zone
+	CK1
+		Images:	1367
+		Time:	12.06.2025 18:14:06 until 12.06.2025 18:59:22
+		Duration:	00:45:16
+		Location:	46.62041 14.25417
+
+	CK1LS2
+		Images:	1787
+		Time:	12.06.2025 18:10:51 until 12.06.2025 18:50:27
+		Duration:	00:39:36
+		Location:	46.62041 14.25417
+
+	CK1LS1
+		Images:	765
+		Time:	12.06.2025 18:11:25 until 12.06.2025 18:48:32
+		Duration:	00:37:07
+		Location:	46.62041 14.25417
+
+(3) - Bike - 18.0 km
+	MLE1
+		Images:	1084
+		Time:	12.06.2025 18:36:23 until 12.06.2025 19:52:29
+		Duration:	01:16:06
+		Location:	46.61876 14.26198
+
+(4) - Run - 4.0 km
+	OBE1
+		Images:	2560
+		Time:	12.06.2025 18:48:00 until 12.06.2025 20:21:58
+		Duration:	01:33:58
+		Location:	46.62112 14.25408
+
+(5) - Finish
+	CK2LS2
+		Images:	2965
+		Time:	12.06.2025 19:17:49 until 12.06.2025 20:07:26
+		Duration:	00:49:37
+		Location:	46.62123 14.25507
+
+	CK2LS1
+		Images:	2547
+		Time:	12.06.2025 19:17:18 until 12.06.2025 20:06:55
+		Duration:	00:49:37
+		Location:	46.62123 14.25507
+
+	CK2
+		Images:	2546
+		Time:	12.06.2025 19:18:35 until 12.06.2025 20:16:56
+		Duration:	00:58:21
+		Location:	46.62123 14.25507
+

@@ -1,0 +1,15 @@
+EventId: 13962
+Spots: 2
+Total Images: 113
+Time:	10.08.2025 14:16:23 to 10.08.2025 14:33:39
+Duration: 00:17:16
+
+(1) - Impressions / Pano
+	PANO1
+(2) - none
+	ZZZ1
+		Images:	113
+		Time:	10.08.2025 14:16:23 until 10.08.2025 14:33:39
+		Duration:	00:17:16
+		Location:	NULL NULL
+

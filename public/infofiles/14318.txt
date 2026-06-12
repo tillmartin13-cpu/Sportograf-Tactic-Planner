@@ -1,0 +1,169 @@
+EventId: 14318
+Spots: 25
+Total Images: 196081
+Time:	07.11.2025 13:25:06 to 09.11.2025 13:49:47
+Duration: 2.00:24:41
+
+(1) - Obstacle 1 Cord Crawl #1
+	IVA1
+		Images:	11006
+		Time:	07.11.2025 19:24:12 until 08.11.2025 15:07:45
+		Duration:	19:43:33
+		Location:	42.34592 -71.09643
+
+	VICY4
+		Images:	654
+		Time:	08.11.2025 09:58:38 until 08.11.2025 10:10:31
+		Duration:	00:11:53
+		Location:	42.34592 -71.09643
+
+(2) - Obstacle 6 Sandbag Carry
+	HADA1
+		Images:	11187
+		Time:	07.11.2025 20:26:11 until 09.11.2025 06:54:34
+		Duration:	1.10:28:23
+		Location:	42.34667 -71.09625
+
+	VICY1LS1
+		Images:	5618
+		Time:	08.11.2025 07:19:27 until 08.11.2025 15:17:58
+		Duration:	07:58:31
+		Location:	42.34667 -71.09625
+
+	VICY2
+		Images:	753
+		Time:	08.11.2025 10:21:51 until 08.11.2025 10:36:48
+		Duration:	00:14:57
+		Location:	42.34667 -71.09625
+
+(3) - Obstacle 7 7ft Wall
+	IO1
+		Images:	15457
+		Time:	07.11.2025 19:30:10 until 08.11.2025 16:03:48
+		Duration:	20:33:38
+		Location:	42.34650 -71.09587
+
+	VICY3
+		Images:	1035
+		Time:	08.11.2025 10:38:18 until 08.11.2025 10:55:18
+		Duration:	00:17:00
+		Location:	42.34650 -71.09587
+
+(4) - Obstacle 8 Jump Rope
+	ANMF1
+		Images:	9342
+		Time:	07.11.2025 19:26:06 until 09.11.2025 06:49:14
+		Duration:	1.11:23:08
+		Location:	42.34626 -71.09602
+
+	WMY1
+		Images:	4245
+		Time:	08.11.2025 06:31:32 until 08.11.2025 15:27:46
+		Duration:	08:56:14
+		Location:	42.34626 -71.09602
+
+(5) - Fenway Background
+	WMY1LS1
+		Images:	5303
+		Time:	08.11.2025 06:20:16 until 08.11.2025 15:18:31
+		Duration:	08:58:15
+		Location:	42.34591 -71.09638
+
+(6) - Obstacle 10 Helix
+	MRKE1
+		Images:	14772
+		Time:	08.11.2025 05:51:50 until 09.11.2025 07:05:18
+		Duration:	1.01:13:28
+		Location:	42.34561 -71.09587
+
+	KIZD1
+		Images:	2924
+		Time:	08.11.2025 05:50:01 until 09.11.2025 06:46:35
+		Duration:	1.00:56:34
+		Location:	42.34561 -71.09587
+
+(7) - Obstacle 13 Jerry Can Carry
+	VICY1LS2
+		Images:	7370
+		Time:	08.11.2025 05:51:07 until 08.11.2025 14:47:05
+		Duration:	08:55:58
+		Location:	42.34571 -71.09808
+
+(8) - Obstacle 14 Monkey Bars
+	EUGP1
+		Images:	5814
+		Time:	08.11.2025 05:35:06 until 09.11.2025 07:03:06
+		Duration:	1.01:28:00
+		Location:	42.34559 -71.09759
+
+	YEP1
+		Images:	11959
+		Time:	07.11.2025 13:25:06 until 08.11.2025 16:03:40
+		Duration:	1.02:38:34
+		Location:	42.34559 -71.09759
+
+(9) - Obstacle 17 Box Jump
+	LMB1
+		Images:	8933
+		Time:	08.11.2025 04:22:20 until 09.11.2025 13:49:47
+		Duration:	1.09:27:27
+		Location:	42.34687 -71.09764
+
+	ALTO1
+		Images:	12781
+		Time:	08.11.2025 05:50:45 until 09.11.2025 06:55:16
+		Duration:	1.01:04:31
+		Location:	42.34687 -71.09764
+
+(10) - Obstacle 19 A-Frame Cargo
+	PEC1
+		Images:	9890
+		Time:	08.11.2025 05:11:19 until 08.11.2025 16:15:14
+		Duration:	11:03:55
+		Location:	42.34697 -71.09655
+
+	VICY5
+		Images:	1733
+		Time:	08.11.2025 08:51:25 until 08.11.2025 11:33:52
+		Duration:	02:42:27
+		Location:	42.34697 -71.09655
+
+(11) - Obstacle 22 Gauntlet
+	SWDY1
+		Images:	34108
+		Time:	07.11.2025 15:51:00 until 09.11.2025 05:53:45
+		Duration:	1.14:02:45
+		Location:	42.34632 -71.09680
+
+	LMB1LS1
+		Images:	6952
+		Time:	08.11.2025 05:53:51 until 09.11.2025 07:01:42
+		Duration:	1.01:07:51
+		Location:	42.34632 -71.09680
+
+	VICY6
+		Images:	1404
+		Time:	08.11.2025 11:34:50 until 08.11.2025 15:14:37
+		Duration:	03:39:47
+		Location:	42.34632 -71.09680
+
+(12) - Herotent
+	PKO1
+		Images:	8139
+		Time:	08.11.2025 04:24:28 until 08.11.2025 16:18:07
+		Duration:	11:53:39
+		Location:	42.34642 -71.09732
+
+	JAYA1
+		Images:	3954
+		Time:	08.11.2025 04:08:03 until 09.11.2025 06:56:54
+		Duration:	1.02:48:51
+		Location:	42.34642 -71.09732
+
+(13) - Venue
+	VICY1
+		Images:	748
+		Time:	08.11.2025 08:36:23 until 09.11.2025 09:36:38
+		Duration:	1.01:00:15
+		Location:	42.34632 -71.09680
+

@@ -1,0 +1,167 @@
+EventId: 14755
+Spots: 25
+Total Images: 68316
+Time:	31.12.2012 23:01:42 to 25.05.2025 14:01:20
+Duration: 4527.14:59:38
+
+(1) - Start
+	NWO1
+		Images:	923
+		Time:	24.05.2025 09:42:40 until 25.05.2025 12:28:20
+		Duration:	1.02:45:40
+		Location:	52.37248 4.52865
+
+(2) - Slack Line (Day)
+	RVAM1
+		Images:	2763
+		Time:	23.05.2025 22:04:34 until 25.05.2025 09:53:03
+		Duration:	1.11:48:29
+		Location:	52.37960 4.52793
+
+(3) - Chain Carry (Day)
+	KFK1
+		Images:	3735
+		Time:	23.05.2025 22:49:42 until 25.05.2025 09:31:55
+		Duration:	1.10:42:13
+		Location:	52.38916 4.54040
+
+	KFK1LS1
+		Images:	1856
+		Time:	23.05.2025 22:29:29 until 24.05.2025 15:58:43
+		Duration:	17:29:14
+		Location:	52.38916 4.54040
+
+(4) - Cargo Net out (Day)
+	MW1
+		Images:	3827
+		Time:	23.05.2025 22:59:01 until 25.05.2025 11:20:25
+		Duration:	1.12:21:24
+		Location:	52.38776 4.54724
+
+	MW1LS1
+		Images:	941
+		Time:	23.05.2025 23:04:28 until 24.05.2025 11:23:48
+		Duration:	12:19:20
+		Location:	52.38776 4.54724
+
+(5) - Slip-Wall (Day)
+	EVI1
+		Images:	4145
+		Time:	23.05.2025 22:03:22 until 25.05.2025 09:21:44
+		Duration:	1.11:18:22
+		Location:	52.37461 4.52673
+
+	MW2LS1
+		Images:	246
+		Time:	24.05.2025 12:56:53 until 24.05.2025 14:54:09
+		Duration:	01:57:16
+		Location:	52.37461 4.52673
+
+(6) - Slip-Wall (Nightrace)
+	KFK2
+		Images:	919
+		Time:	24.05.2025 20:19:19 until 24.05.2025 22:45:29
+		Duration:	02:26:10
+		Location:	52.37461 4.52673
+
+(7) - Multirig (Day)
+	FAH1
+		Images:	3570
+		Time:	23.05.2025 22:48:09 until 24.05.2025 16:51:10
+		Duration:	18:03:01
+		Location:	52.37365 4.52392
+
+(8) - Bucket Carry (Day)
+	TOG1
+		Images:	9626
+		Time:	24.05.2025 10:29:59 until 24.05.2025 16:53:08
+		Duration:	06:23:09
+		Location:	52.37322 4.52315
+
+	TOG1LS1
+		Images:	1065
+		Time:	24.05.2025 09:58:43 until 24.05.2025 13:50:15
+		Duration:	03:51:32
+		Location:	52.37322 4.52315
+
+	TOG1LS2
+		Images:	2376
+		Time:	31.12.2012 23:01:42 until 24.05.2025 13:50:14
+		Duration:	4526.14:48:32
+		Location:	52.37322 4.52315
+
+(9) - Impressions / Pano
+	TOG1DRONE1
+		Images:	20
+		Time:	24.05.2025 09:56:34 until 24.05.2025 10:07:03
+		Duration:	00:10:29
+		Location:	52.37322 4.52315
+
+	PANO1
+(10) - Bucket Carry (Nightrace)
+	SIL2
+		Images:	1505
+		Time:	24.05.2025 20:23:58 until 24.05.2025 23:04:42
+		Duration:	02:40:44
+		Location:	52.37322 4.52315
+
+(11) - Atlas Carry (Day)
+	MW2
+		Images:	1372
+		Time:	24.05.2025 15:22:34 until 24.05.2025 16:54:54
+		Duration:	01:32:20
+		Location:	52.37278 4.52352
+
+(12) - A-frame (Day)
+	OT1
+		Images:	13707
+		Time:	23.05.2025 13:40:42 until 25.05.2025 12:37:26
+		Duration:	1.22:56:44
+		Location:	52.37290 4.52501
+
+	OT1LS1
+		Images:	2705
+		Time:	24.05.2025 10:49:37 until 24.05.2025 14:24:26
+		Duration:	03:34:49
+		Location:	52.37290 4.52501
+
+(13) - Firejump (Day)
+	MBEN1
+		Images:	4408
+		Time:	24.05.2025 10:34:04 until 25.05.2025 14:01:20
+		Duration:	1.03:27:16
+		Location:	52.37278 4.52583
+
+	MBEN1LS1
+		Images:	1120
+		Time:	24.05.2025 09:46:33 until 24.05.2025 16:34:59
+		Duration:	06:48:26
+		Location:	52.37278 4.52583
+
+	MBEN1LS2
+		Images:	1272
+		Time:	24.05.2025 10:27:22 until 24.05.2025 17:03:46
+		Duration:	06:36:24
+		Location:	52.37278 4.52583
+
+(14) - Firejump (Nightrace)
+	NWO2
+		Images:	153
+		Time:	24.05.2025 19:16:17 until 24.05.2025 22:39:27
+		Duration:	03:23:10
+		Location:	52.37278 4.52583
+
+(15) - Herotent (Day)
+	SIL1
+		Images:	5193
+		Time:	24.05.2025 10:09:29 until 24.05.2025 17:16:56
+		Duration:	07:07:27
+		Location:	52.37265 4.52603
+
+(16) - Herotent (Nightrace)
+	TOG2
+		Images:	855
+		Time:	24.05.2025 19:18:33 until 24.05.2025 23:12:12
+		Duration:	03:53:39
+		Location:	52.37265 4.52603
+

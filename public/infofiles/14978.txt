@@ -1,0 +1,110 @@
+EventId: 14978
+Spots: 18
+Total Images: 43839
+Time:	01.01.0001 23:00:00 to 02.02.2025 07:37:30
+Duration: 739282.08:37:30
+
+(1) - Impressions / Pano
+	PANO1
+(2) - 0.0 km Tom MSC 1
+	TMEND1
+		Images:	2922
+		Time:	01.02.2025 06:40:10 until 01.02.2025 07:23:22
+		Duration:	00:43:12
+		Location:	NULL NULL
+
+(3) - none
+	RSCHI1
+		Images:	1598
+		Time:	01.02.2025 05:45:56 until 01.02.2025 07:26:07
+		Duration:	01:40:11
+		Location:	NULL NULL
+
+	ANG1LS1
+		Images:	2877
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+	DTIDE1
+		Images:	4718
+		Time:	01.02.2025 06:46:04 until 01.02.2025 07:50:54
+		Duration:	01:04:50
+		Location:	NULL NULL
+
+	SGENT1
+	JCOX1
+		Images:	2503
+		Time:	30.01.2025 18:46:41 until 30.01.2025 19:51:27
+		Duration:	01:04:46
+		Location:	NULL NULL
+
+	CGAIT1
+		Images:	1078
+		Time:	01.02.2025 06:31:41 until 01.02.2025 07:48:41
+		Duration:	01:17:00
+		Location:	NULL NULL
+
+	EGELL1
+		Images:	3158
+		Time:	01.02.2025 06:46:31 until 01.02.2025 08:01:02
+		Duration:	01:14:31
+		Location:	NULL NULL
+
+	MSANC1
+		Images:	2191
+		Time:	01.02.2025 06:20:05 until 01.02.2025 07:52:10
+		Duration:	01:32:05
+		Location:	NULL NULL
+
+	KCALL1
+		Images:	628
+		Time:	01.02.2025 05:50:58 until 01.02.2025 08:01:48
+		Duration:	02:10:50
+		Location:	NULL NULL
+
+	JDIEJ1
+		Images:	522
+		Time:	01.02.2025 05:38:39 until 01.02.2025 07:55:47
+		Duration:	02:17:08
+		Location:	NULL NULL
+
+	TRIGG1LS1
+		Images:	2964
+		Time:	01.01.0001 23:00:00 until 02.02.2025 07:37:30
+		Duration:	739282.08:37:30
+		Location:	NULL NULL
+
+	TRIGG1
+		Images:	2700
+		Time:	01.02.2025 04:46:29 until 01.02.2025 06:38:26
+		Duration:	01:51:57
+		Location:	NULL NULL
+
+	TRIGG1LS2
+		Images:	3016
+		Time:	01.02.2025 07:31:00 until 01.02.2025 08:37:44
+		Duration:	01:06:44
+		Location:	NULL NULL
+
+(4) - 0.0 km Finish Trigger
+	ANG1
+		Images:	8572
+		Time:	01.02.2025 06:26:11 until 01.02.2025 07:52:08
+		Duration:	01:25:57
+		Location:	NULL NULL
+
+(5) - 0.0 km DAve edelson msc 2
+	DEDEL1
+		Images:	2525
+		Time:	01.02.2025 06:45:50 until 01.02.2025 07:44:01
+		Duration:	00:58:11
+		Location:	NULL NULL
+
+(6) - 0.0 km oscar MSC 2
+	OOCHO1
+		Images:	1867
+		Time:	01.02.2025 06:45:44 until 01.02.2025 07:44:00
+		Duration:	00:58:16
+		Location:	NULL NULL
+

@@ -1,0 +1,451 @@
+EventId: 14301
+Spots: 71
+Total Images: 629219
+Time:	02.11.2025 06:56:05 to 02.11.2025 15:41:12
+Duration: 08:45:07
+
+(1) - 100m before finish
+	BAG2
+		Images:	3410
+		Time:	02.11.2025 11:10:49 until 02.11.2025 12:15:59
+		Duration:	01:05:10
+		Location:	50.84237 4.36475
+
+	BCROP1
+		Images:	11181
+		Time:	02.11.2025 08:08:00 until 02.11.2025 14:41:02
+		Duration:	06:33:02
+		Location:	50.84237 4.36475
+
+	BCROP2
+		Images:	8159
+		Time:	02.11.2025 08:08:13 until 02.11.2025 14:39:58
+		Duration:	06:31:45
+		Location:	50.84237 4.36475
+
+	BNKO1
+		Images:	2260
+		Time:	02.11.2025 07:35:45 until 02.11.2025 08:57:54
+		Duration:	01:22:09
+		Location:	50.84237 4.36475
+
+(2) - 10m before finish
+	BAG2LS1
+		Images:	2066
+		Time:	02.11.2025 10:57:30 until 02.11.2025 14:19:19
+		Duration:	03:21:49
+		Location:	50.84237 4.36475
+
+	BAG2LS2
+		Images:	2009
+		Time:	02.11.2025 10:58:30 until 02.11.2025 13:56:02
+		Duration:	02:57:32
+		Location:	50.84237 4.36475
+
+(3) - 2,2km before finish (Parc du Cinquantenaire)
+	BANR1
+		Images:	18998
+		Time:	02.11.2025 08:01:15 until 02.11.2025 14:37:57
+		Duration:	06:36:42
+		Location:	50.84138 4.38875
+
+	BOT1
+		Images:	26754
+		Time:	02.11.2025 07:33:52 until 02.11.2025 14:57:10
+		Duration:	07:23:18
+		Location:	50.84138 4.38875
+
+(4) - 250m before finish (Hertoglaan)
+	BJKE1
+		Images:	16591
+		Time:	02.11.2025 08:07:22 until 02.11.2025 14:58:56
+		Duration:	06:51:34
+		Location:	50.8436 4.36552
+
+	BJKE1LS1
+		Images:	10000
+		Time:	02.11.2025 08:08:33 until 02.11.2025 13:47:14
+		Duration:	05:38:41
+		Location:	50.8436 4.36552
+
+	BJKE1LS2
+		Images:	2913
+		Time:	02.11.2025 08:08:48 until 02.11.2025 10:52:14
+		Duration:	02:43:26
+		Location:	50.8436 4.36552
+
+	BOP1
+		Images:	13553
+		Time:	02.11.2025 08:10:00 until 02.11.2025 14:41:04
+		Duration:	06:31:04
+		Location:	50.8436 4.36552
+
+	BOP1LS1
+		Images:	6475
+		Time:	02.11.2025 08:08:52 until 02.11.2025 14:12:23
+		Duration:	06:03:31
+		Location:	50.8436 4.36552
+
+(5) - 2km before finish (tunnel exit)
+	BMBEN1
+		Images:	14181
+		Time:	02.11.2025 08:49:35 until 02.11.2025 15:41:12
+		Duration:	06:51:37
+		Location:	50.84313 4.38032
+
+	BMBEN1LS1
+		Images:	18219
+		Time:	02.11.2025 08:11:44 until 02.11.2025 14:37:30
+		Duration:	06:25:46
+		Location:	50.84313 4.38032
+
+	BRA1
+		Images:	20224
+		Time:	02.11.2025 08:18:43 until 02.11.2025 14:42:52
+		Duration:	06:24:09
+		Location:	50.84313 4.38032
+
+	BRA1LS1
+		Images:	13608
+		Time:	02.11.2025 09:11:22 until 02.11.2025 15:39:50
+		Duration:	06:28:28
+		Location:	50.84313 4.38032
+
+	BRA1LS2
+		Images:	17075
+		Time:	02.11.2025 08:47:20 until 02.11.2025 15:40:47
+		Duration:	06:53:27
+		Location:	50.84313 4.38032
+
+(6) - 3,0 km (7km)
+	BBC1
+		Images:	15528
+		Time:	02.11.2025 07:51:51 until 02.11.2025 14:45:35
+		Duration:	06:53:44
+		Location:	50.83899 4.40043
+
+	BCWA1
+		Images:	13420
+		Time:	02.11.2025 07:52:30 until 02.11.2025 14:45:30
+		Duration:	06:53:00
+		Location:	50.83899 4.40043
+
+(7) - 3,0 km Koekelberg
+	BAG1
+		Images:	6335
+		Time:	02.11.2025 08:57:39 until 02.11.2025 09:35:11
+		Duration:	00:37:32
+		Location:	50.86592 4.32008
+
+	BAG1LS1
+		Images:	876
+		Time:	02.11.2025 08:59:18 until 02.11.2025 09:33:38
+		Duration:	00:34:20
+		Location:	50.86592 4.32008
+
+	BAG1LS2
+		Images:	1215
+		Time:	02.11.2025 09:09:18 until 02.11.2025 09:33:38
+		Duration:	00:24:20
+		Location:	50.86592 4.32008
+
+(8) - 3,5 km before finish (Montgomery)
+	BDAV1
+		Images:	11953
+		Time:	02.11.2025 08:06:27 until 02.11.2025 14:21:14
+		Duration:	06:14:47
+		Location:	50.83768 4.40704
+
+	BDAV1LS1
+		Images:	6092
+		Time:	02.11.2025 08:00:07 until 02.11.2025 14:31:43
+		Duration:	06:31:36
+		Location:	50.83768 4.40704
+
+	BDAV1LS2
+		Images:	7374
+		Time:	02.11.2025 07:53:02 until 02.11.2025 14:12:07
+		Duration:	06:19:05
+		Location:	50.83768 4.40704
+
+	BSDT1
+		Images:	9589
+		Time:	02.11.2025 08:13:39 until 02.11.2025 14:32:37
+		Duration:	06:18:58
+		Location:	50.83768 4.40704
+
+	BSDT1LS1
+		Images:	5555
+		Time:	02.11.2025 07:54:34 until 02.11.2025 14:36:50
+		Duration:	06:42:16
+		Location:	50.83768 4.40704
+
+	BSDT1LS2
+		Images:	3381
+		Time:	02.11.2025 07:55:25 until 02.11.2025 14:39:40
+		Duration:	06:44:15
+		Location:	50.83768 4.40704
+
+(9) - 3,6km before finish (Avenue de Tervuren)
+	BTID1
+		Images:	15411
+		Time:	02.11.2025 07:59:15 until 02.11.2025 14:43:07
+		Duration:	06:43:52
+		Location:	50.83832 4.40355
+
+	BTID1LS1
+		Images:	9533
+		Time:	02.11.2025 08:01:10 until 02.11.2025 14:43:16
+		Duration:	06:42:06
+		Location:	50.83832 4.40355
+
+(10) - 3,7km before finish
+	BFVE1
+		Images:	9697
+		Time:	02.11.2025 07:51:20 until 02.11.2025 14:40:38
+		Duration:	06:49:18
+		Location:	50.83827 4.4076
+
+(11) - 400m before finish (Weststraat)
+	BROSO1
+		Images:	25105
+		Time:	02.11.2025 07:15:19 until 02.11.2025 15:01:43
+		Duration:	07:46:24
+		Location:	50.84593 4.36724
+
+	BROSO1LS1
+		Images:	14220
+		Time:	02.11.2025 07:20:11 until 02.11.2025 14:08:26
+		Duration:	06:48:15
+		Location:	50.84593 4.36724
+
+(12) - Atomiumlaan - km8,5/21, km17/42
+	ALV1
+		Images:	15364
+		Time:	02.11.2025 08:26:20 until 02.11.2025 11:30:13
+		Duration:	03:03:53
+		Location:	50.89602 4.34307
+
+	ALV1LS1
+		Images:	4430
+		Time:	02.11.2025 08:21:36 until 02.11.2025 11:25:57
+		Duration:	03:04:21
+		Location:	50.89602 4.34307
+
+	APETE1
+		Images:	8160
+		Time:	02.11.2025 08:25:00 until 02.11.2025 11:30:18
+		Duration:	03:05:18
+		Location:	50.89602 4.34307
+
+(13) - Church "Our lady of Laeken"   km3/HalfMarathon - km29,4 FullMarathon
+	ADIK1
+		Images:	14636
+		Time:	02.11.2025 07:45:22 until 02.11.2025 13:16:49
+		Duration:	05:31:27
+		Location:	50.87952 4.35602
+
+(14) - Finish
+	BALN1
+		Images:	22203
+		Time:	02.11.2025 08:21:28 until 02.11.2025 14:30:13
+		Duration:	06:08:45
+		Location:	50.84248 4.36355
+
+	BALN1LS1
+		Images:	8866
+		Time:	02.11.2025 08:00:46 until 02.11.2025 14:32:56
+		Duration:	06:32:10
+		Location:	50.84248 4.36355
+
+	BALN1LS2
+		Images:	9410
+		Time:	02.11.2025 08:03:25 until 02.11.2025 14:30:21
+		Duration:	06:26:56
+		Location:	50.84248 4.36355
+
+	BNKO2
+		Images:	7354
+		Time:	02.11.2025 09:04:58 until 02.11.2025 15:02:16
+		Duration:	05:57:18
+		Location:	50.84248 4.36355
+
+(15) - Herotent Fontaine de Neptune km31/FullMarathon - km10/HalfMarathon
+	AWIP1
+		Images:	9465
+		Time:	02.11.2025 07:58:39 until 02.11.2025 13:24:42
+		Duration:	05:26:03
+		Location:	50.89328 4.35857
+
+	AWIP1LS1
+		Images:	6199
+		Time:	02.11.2025 07:28:24 until 02.11.2025 13:07:58
+		Duration:	05:39:34
+		Location:	50.89328 4.35857
+
+(16) - Impressions / Pano
+	AMK1DRONE1
+		Images:	24
+		Time:	02.11.2025 09:30:57 until 02.11.2025 10:57:48
+		Duration:	01:26:51
+		Location:	50.89543 4.33368
+
+	BAG1DRONE1
+		Images:	17
+		Time:	02.11.2025 09:44:59 until 02.11.2025 09:46:58
+		Duration:	00:01:59
+		Location:	50.86592 4.32008
+
+	PANO1
+(17) - Japanese Tower km31/FullMarathon - km10/HalfMarathon
+	AMW1
+		Images:	20602
+		Time:	02.11.2025 08:30:41 until 02.11.2025 13:33:42
+		Duration:	05:03:01
+		Location:	50.89321 4.3615
+
+	AMW1LS1
+		Images:	4576
+		Time:	02.11.2025 08:15:10 until 02.11.2025 12:43:11
+		Duration:	04:28:01
+		Location:	50.89321 4.3615
+
+	AMW1LS2
+		Images:	8407
+		Time:	02.11.2025 07:57:09 until 02.11.2025 13:33:52
+		Duration:	05:36:43
+		Location:	50.89321 4.3615
+
+(18) - King Albert II parkque start/HalfMarathon - km26.5/FullMarathon
+	AGVDL2
+		Images:	2139
+		Time:	02.11.2025 11:26:26 until 02.11.2025 12:49:19
+		Duration:	01:22:53
+		Location:	50.85724 4.35605
+
+	ATB2
+		Images:	5651
+		Time:	02.11.2025 10:21:57 until 02.11.2025 12:38:23
+		Duration:	02:16:26
+		Location:	50.85724 4.35605
+
+	ATB2LS1
+		Images:	4972
+		Time:	02.11.2025 09:38:23 until 02.11.2025 12:49:19
+		Duration:	03:10:56
+		Location:	50.85724 4.35605
+
+(19) - Medals
+	BADHA1
+		Images:	4256
+		Time:	02.11.2025 08:22:13 until 02.11.2025 14:56:42
+		Duration:	06:34:29
+		Location:	50.84248 4.36355
+
+(20) - Parc de l'Atomium km31/FullMarathon - km10/HalfMarathon
+	AACO1
+		Images:	22250
+		Time:	02.11.2025 07:48:04 until 02.11.2025 11:46:36
+		Duration:	03:58:32
+		Location:	50.89513 4.35177
+
+	ASSW1
+		Images:	10064
+		Time:	02.11.2025 08:12:59 until 02.11.2025 11:46:55
+		Duration:	03:33:56
+		Location:	50.89513 4.35177
+
+	ASSW1LS1
+		Images:	4062
+		Time:	02.11.2025 08:00:09 until 02.11.2025 11:18:20
+		Duration:	03:18:11
+		Location:	50.89513 4.35177
+
+	ASSW1LS2
+		Images:	2669
+		Time:	02.11.2025 08:05:45 until 02.11.2025 11:18:24
+		Duration:	03:12:39
+		Location:	50.89513 4.35177
+
+(21) - Simon Bolivarlaan downtown Brussel km25,5 + km27/ FullMarathon - km1/HalfMarathon
+	APBO1
+		Images:	7598
+		Time:	02.11.2025 07:10:39 until 02.11.2025 12:54:27
+		Duration:	05:43:48
+		Location:	50.86156 4.35472
+
+	APBO1LS1
+		Images:	2661
+		Time:	02.11.2025 07:01:31 until 02.11.2025 12:43:46
+		Duration:	05:42:15
+		Location:	50.86156 4.35472
+
+(22) - Stade Roi Baudouin km6,6/21, km15,3/42
+	AJOS1
+		Images:	14309
+		Time:	02.11.2025 08:20:05 until 02.11.2025 11:24:38
+		Duration:	03:04:33
+		Location:	50.89543 4.33368
+
+	AMK1
+		Images:	12301
+		Time:	02.11.2025 08:23:13 until 02.11.2025 11:16:03
+		Duration:	02:52:50
+		Location:	50.89543 4.33368
+
+	AMK1LS1
+		Images:	7226
+		Time:	02.11.2025 08:25:56 until 02.11.2025 11:09:25
+		Duration:	02:43:29
+		Location:	50.89543 4.33368
+
+	AMK1LS2
+		Images:	3174
+		Time:	02.11.2025 08:24:05 until 02.11.2025 09:21:32
+		Duration:	00:57:27
+		Location:	50.89543 4.33368
+
+	AMK1LS3
+		Images:	4369
+		Time:	02.11.2025 09:57:38 until 02.11.2025 11:11:22
+		Duration:	01:13:44
+		Location:	50.89543 4.33368
+
+(23) - Start
+	AGVDL1
+		Images:	2340
+		Time:	02.11.2025 06:56:05 until 02.11.2025 11:26:26
+		Duration:	04:30:21
+		Location:	50.85557 4.3551
+
+	ASDEJ1
+		Images:	1596
+		Time:	02.11.2025 09:00:27 until 02.11.2025 11:01:32
+		Duration:	02:01:05
+		Location:	50.85698 4.35285
+
+	ASPSL1
+		Images:	1711
+		Time:	02.11.2025 08:55:14 until 02.11.2025 11:04:46
+		Duration:	02:09:32
+		Location:	50.85698 4.35285
+
+	ATB1
+		Images:	6357
+		Time:	02.11.2025 06:58:12 until 02.11.2025 09:09:25
+		Duration:	02:11:13
+		Location:	50.85557 4.3551
+
+(24) - Witte Broekkaai, Modderhoeve  km24,5/FullMarathon
+	ASDEJ2
+		Images:	3882
+		Time:	02.11.2025 11:01:32 until 02.11.2025 12:40:19
+		Duration:	01:38:47
+		Location:	50.8602 4.35015
+
+	ASPSL2
+		Images:	2959
+		Time:	02.11.2025 11:04:46 until 02.11.2025 12:40:20
+		Duration:	01:35:34
+		Location:	50.8602 4.35015
+

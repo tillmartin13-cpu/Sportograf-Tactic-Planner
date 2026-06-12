@@ -1,0 +1,53 @@
+EventId: 14359
+Spots: 7
+Total Images: 9971
+Time:	26.07.2025 09:27:31 to 26.07.2025 13:58:14
+Duration: 04:30:43
+
+(1) - 4,3 km
+	MAPF1
+		Images:	704
+		Time:	26.07.2025 10:20:14 until 26.07.2025 11:29:02
+		Duration:	01:08:48
+		Location:	47.29290 10.15338
+
+(2) - 1,9 km
+	MAXB1
+		Images:	692
+		Time:	26.07.2025 10:05:44 until 26.07.2025 10:12:31
+		Duration:	00:06:47
+		Location:	47.31235 10.14522
+
+(3) - 12,8 km
+	SVL1
+		Images:	3978
+		Time:	26.07.2025 11:34:18 until 26.07.2025 13:45:38
+		Duration:	02:11:20
+		Location:	47.29378 10.11439
+
+	SVL1LS2
+		Images:	569
+		Time:	26.07.2025 10:59:50 until 26.07.2025 13:44:23
+		Duration:	02:44:33
+		Location:	47.29268 10.11368
+
+	SVL1LS1
+		Images:	1881
+		Time:	26.07.2025 11:04:26 until 26.07.2025 13:44:50
+		Duration:	02:40:24
+		Location:	47.29322 10.11421
+
+(4) - Start
+	LKE1
+		Images:	246
+		Time:	26.07.2025 09:27:31 until 26.07.2025 10:00:28
+		Duration:	00:32:57
+		Location:	47.29290 10.15338
+
+(5) - Finish
+	LKE2
+		Images:	1901
+		Time:	26.07.2025 10:00:11 until 26.07.2025 13:58:14
+		Duration:	03:58:03
+		Location:	47.30963 10.12165
+

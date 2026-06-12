@@ -1,0 +1,244 @@
+EventId: 13330
+Spots: 37
+Total Images: 274508
+Time:	01.01.0001 23:00:00 to 21.06.2025 18:57:08
+Duration: 739421.19:57:08
+
+(1) - Start
+	RAH1
+		Images:	262
+		Time:	20.06.2025 23:46:55 until 21.06.2025 10:26:32
+		Duration:	10:39:37
+		Location:	42.50541 -0.35785
+
+(2) - QH Km 102
+	MANR1
+		Images:	12518
+		Time:	21.06.2025 09:27:31 until 21.06.2025 13:33:19
+		Duration:	04:05:48
+		Location:	43.06125 -0.47837
+
+	MANR1LS1
+		Images:	4164
+		Time:	21.06.2025 08:48:58 until 21.06.2025 13:33:42
+		Duration:	04:44:44
+		Location:	43.06125 -0.47837
+
+(3) - Impressions / Pano
+	MANR1DRONE1
+		Images:	10
+		Time:	21.06.2025 09:11:40 until 21.06.2025 10:19:23
+		Duration:	01:07:43
+		Location:	43.06125 -0.47837
+
+	PANO1
+(4) - QH Km 104
+	JLTG1
+		Images:	12165
+		Time:	21.06.2025 09:14:25 until 21.06.2025 13:43:17
+		Duration:	04:28:52
+		Location:	43.06125 -0.47837
+
+	JLTG1LS2
+		Images:	6435
+		Time:	21.06.2025 08:38:51 until 21.06.2025 13:47:25
+		Duration:	05:08:34
+		Location:	43.06125 -0.47837
+
+	JLTG1LS1
+		Images:	6455
+		Time:	21.06.2025 08:28:21 until 21.06.2025 13:45:22
+		Duration:	05:17:01
+		Location:	43.06125 -0.47837
+
+(5) - QH Km 105
+	TGM1
+		Images:	12767
+		Time:	21.06.2025 09:33:09 until 21.06.2025 13:43:53
+		Duration:	04:10:44
+		Location:	43.06217 -0.45599
+
+	TGM1LS2
+		Images:	6052
+		Time:	21.06.2025 09:01:15 until 21.06.2025 13:53:25
+		Duration:	04:52:10
+		Location:	43.06217 -0.45599
+
+	TGM1LS1
+		Images:	4121
+		Time:	21.06.2025 08:47:57 until 21.06.2025 12:48:32
+		Duration:	04:00:35
+		Location:	43.06217 -0.45599
+
+(6) - QH Km 107
+	MIFP1
+		Images:	18520
+		Time:	01.01.0001 23:00:00 until 21.06.2025 14:04:54
+		Duration:	739421.15:04:54
+		Location:	43.06217 -0.45599
+
+	MIFP1LS1
+		Images:	6444
+		Time:	21.06.2025 05:50:38 until 21.06.2025 13:55:24
+		Duration:	08:04:46
+		Location:	43.06217 -0.45599
+
+(7) - QH Km 135
+	STO1
+		Images:	13766
+		Time:	21.06.2025 09:15:00 until 21.06.2025 15:48:07
+		Duration:	06:33:07
+		Location:	42.88348 -0.40314
+
+	STO1LS1
+		Images:	10738
+		Time:	21.06.2025 10:49:16 until 21.06.2025 15:52:56
+		Duration:	05:03:40
+		Location:	42.88348 -0.40314
+
+(8) - QH Km 139
+	RAVE1
+		Images:	17487
+		Time:	21.06.2025 08:45:43 until 21.06.2025 16:13:45
+		Duration:	07:28:02
+		Location:	42.8589 -0.39196
+
+(9) - QH Km 145
+	MCAS1
+		Images:	10425
+		Time:	21.06.2025 08:12:59 until 21.06.2025 16:31:15
+		Duration:	08:18:16
+		Location:	42.82194 -0.40572
+
+(10) - QH Km 147
+	ATRE1
+		Images:	23554
+		Time:	21.06.2025 08:12:59 until 21.06.2025 17:34:13
+		Duration:	09:21:14
+		Location:	42.80871 -0.41795
+
+(11) - QH Km 170
+	JCR2
+		Images:	8913
+		Time:	21.06.2025 12:02:36 until 21.06.2025 17:09:10
+		Duration:	05:06:34
+		Location:	42.69038 -0.3105
+
+	JCR2LS1
+		Images:	6346
+		Time:	21.06.2025 11:30:07 until 21.06.2025 17:15:09
+		Duration:	05:45:02
+		Location:	42.69038 -0.3105
+
+(12) - QH Km 172
+	AFGA2
+		Images:	9810
+		Time:	21.06.2025 11:41:33 until 21.06.2025 17:11:52
+		Duration:	05:30:19
+		Location:	42.68757 -0.30816
+
+	AFGA2LS1
+		Images:	6167
+		Time:	21.06.2025 11:27:13 until 21.06.2025 17:17:21
+		Duration:	05:50:08
+		Location:	42.68757 -0.30816
+
+(13) - QH Km 173
+	JIA2
+		Images:	9421
+		Time:	21.06.2025 11:30:18 until 21.06.2025 17:18:32
+		Duration:	05:48:14
+		Location:	42.68075 -0.31681
+
+(14) - QH Km 179
+	OHO2
+		Images:	3840
+		Time:	21.06.2025 11:55:56 until 21.06.2025 18:13:22
+		Duration:	06:17:26
+		Location:	42.63313 -0.32772
+
+	ANC2
+		Images:	10136
+		Time:	21.06.2025 12:06:41 until 21.06.2025 18:13:40
+		Duration:	06:06:59
+		Location:	42.63313 -0.32772
+
+	JPBR2
+		Images:	9964
+		Time:	21.06.2025 12:19:29 until 21.06.2025 18:12:51
+		Duration:	05:53:22
+		Location:	42.63313 -0.32772
+
+(15) - TR Km 21
+	JIA1
+		Images:	2573
+		Time:	21.06.2025 07:18:16 until 21.06.2025 09:45:16
+		Duration:	02:27:00
+		Location:	42.62225 -0.30508
+
+(16) - TR Km 23
+	AFGA1
+		Images:	2957
+		Time:	21.06.2025 08:49:09 until 21.06.2025 09:58:38
+		Duration:	01:09:29
+		Location:	42.6203 -0.28205
+
+	AFGA1LS1
+		Images:	1493
+		Time:	21.06.2025 08:15:06 until 21.06.2025 11:24:49
+		Duration:	03:09:43
+		Location:	42.6203 -0.28205
+
+(17) - TR Km 24
+	JCR1
+		Images:	1599
+		Time:	21.06.2025 07:43:35 until 21.06.2025 09:59:10
+		Duration:	02:15:35
+		Location:	42.62045 -0.27527
+
+	JCR1LS1
+		Images:	1416
+		Time:	21.06.2025 07:38:45 until 21.06.2025 10:00:43
+		Duration:	02:21:58
+		Location:	42.62045 -0.27527
+
+(18) - TR Km 28
+	JPBR1
+		Images:	4702
+		Time:	21.06.2025 08:24:48 until 21.06.2025 10:19:17
+		Duration:	01:54:29
+		Location:	42.62716 -0.2329
+
+(19) - TR Km 33
+	OHO1
+		Images:	3327
+		Time:	21.06.2025 08:36:22 until 21.06.2025 11:02:42
+		Duration:	02:26:20
+		Location:	42.61581 -0.19907
+
+(20) - TR Km 34
+	ANC1
+		Images:	4251
+		Time:	20.06.2025 23:49:28 until 21.06.2025 11:03:26
+		Duration:	11:13:58
+		Location:	42.6189 -0.19715
+
+	ANC1LS1
+		Images:	1599
+		Time:	20.06.2025 23:53:05 until 21.06.2025 11:03:26
+		Duration:	11:10:21
+		Location:	42.6189 -0.19715
+
+(21) - Finish
+	RAH2LS1
+		Images:	7210
+		Time:	20.06.2025 23:50:14 until 21.06.2025 18:57:08
+		Duration:	19:06:54
+		Location:	42.50487 -0.35597
+
+	RAH2
+		Images:	12901
+		Time:	21.06.2025 10:26:33 until 21.06.2025 18:52:06
+		Duration:	08:25:33
+		Location:	42.50487 -0.35597
+

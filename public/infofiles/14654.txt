@@ -1,0 +1,155 @@
+EventId: 14654
+Spots: 23
+Total Images: 44153
+Time:	26.04.2025 05:34:52 to 26.04.2025 19:29:06
+Duration: 13:54:14
+
+(1) - Start 70KM
+	MAMO1
+		Images:	101
+		Time:	26.04.2025 05:42:42 until 26.04.2025 06:02:18
+		Duration:	00:19:36
+		Location:	47.92683 7.02815
+
+(2) - Start 49KM
+	MAMO2
+		Images:	338
+		Time:	26.04.2025 06:19:26 until 26.04.2025 07:02:45
+		Duration:	00:43:19
+		Location:	47.92683 7.02815
+
+(3) - Start 37KM
+	MAMO3
+		Images:	338
+		Time:	26.04.2025 09:40:54 until 26.04.2025 10:02:56
+		Duration:	00:22:02
+		Location:	47.92683 7.02815
+
+(4) - 1.2 km Le Markstein (70KM)
+	KD1
+		Images:	317
+		Time:	26.04.2025 05:34:52 until 26.04.2025 06:51:41
+		Duration:	01:16:49
+		Location:	47.92263 7.03718
+
+(5) - 1.2 km Le Markstein (49KM)
+	KD3
+		Images:	392
+		Time:	26.04.2025 06:53:22 until 26.04.2025 07:09:34
+		Duration:	00:16:12
+		Location:	47.92263 7.03718
+
+	KD1LS1
+		Images:	436
+		Time:	26.04.2025 06:56:13 until 26.04.2025 07:11:32
+		Duration:	00:15:19
+		Location:	47.92263 7.03718
+
+(6) - 2.4 km Hundsruecken (70KM, 49KM)
+	JSCH1
+		Images:	2063
+		Time:	26.04.2025 06:10:53 until 26.04.2025 07:27:36
+		Duration:	01:16:43
+		Location:	47.91290 7.04711
+
+(7) - 7.2 km Lac du ballon (70KM, 49KM)
+	BECK1
+		Images:	2157
+		Time:	26.04.2025 06:35:28 until 26.04.2025 08:07:39
+		Duration:	01:32:11
+		Location:	47.91452 7.09584
+
+	BECK1LS1
+		Images:	731
+		Time:	26.04.2025 06:32:39 until 26.04.2025 08:04:01
+		Duration:	01:31:22
+		Location:	47.91452 7.09584
+
+	BECK1LS2
+		Images:	1049
+		Time:	26.04.2025 06:26:28 until 26.04.2025 08:03:21
+		Duration:	01:36:53
+		Location:	47.91452 7.09584
+
+(8) - 30.9 km Col du haag (70KM, 49KM)
+	DIG1
+		Images:	6736
+		Time:	26.04.2025 07:32:47 until 26.04.2025 13:08:15
+		Duration:	05:35:28
+		Location:	47.90495 7.08995
+
+(9) - 50.3 km / 16.0 km Lac de la Lauch (70KM, 37KM)
+	JSCH2
+		Images:	5412
+		Time:	26.04.2025 08:14:59 until 26.04.2025 15:39:19
+		Duration:	07:24:20
+		Location:	47.93400 7.04405
+
+(10) - 56.3 km / 22.0 km / 2.8 km Le Breitfirst (70KM, 37KM, 19KM)
+	BECK2
+		Images:	3832
+		Time:	26.04.2025 11:14:55 until 26.04.2025 16:16:04
+		Duration:	05:01:09
+		Location:	47.94273 7.02342
+
+	BECK2LS1
+		Images:	3858
+		Time:	26.04.2025 11:13:13 until 26.04.2025 16:00:52
+		Duration:	04:47:39
+		Location:	47.94273 7.02342
+
+	BECK2LS2
+		Images:	1161
+		Time:	26.04.2025 11:29:33 until 26.04.2025 15:24:34
+		Duration:	03:55:01
+		Location:	47.94273 7.02342
+
+(11) - 57.0 km / 22.7 km / 3.5 km Le Breitfirst (70KM, 37KM, 19KM)
+	KD2
+		Images:	1613
+		Time:	26.04.2025 11:40:57 until 26.04.2025 13:29:47
+		Duration:	01:48:50
+		Location:	47.94662 7.02230
+
+	KD2LS1
+		Images:	1347
+		Time:	26.04.2025 11:36:25 until 26.04.2025 16:18:39
+		Duration:	04:42:14
+		Location:	47.94662 7.02230
+
+	KD2LS2
+		Images:	1351
+		Time:	26.04.2025 11:09:46 until 26.04.2025 16:15:57
+		Duration:	05:06:11
+		Location:	47.94662 7.02230
+
+(12) - 70.3 km / 36.0 km / 16.8 km Le Markstein (70KM, 37KM, 19KM)
+	DIG2
+		Images:	5563
+		Time:	26.04.2025 13:59:52 until 26.04.2025 18:35:45
+		Duration:	04:35:53
+		Location:	47.92472 7.02097
+
+(13) - Climb before Finish
+	JSCH3
+		Images:	1397
+		Time:	26.04.2025 17:00:03 until 26.04.2025 18:53:51
+		Duration:	01:53:48
+		Location:	47.92807 7.02928
+
+(14) - Finish
+	MAMO4
+		Images:	3936
+		Time:	26.04.2025 11:30:47 until 26.04.2025 19:29:06
+		Duration:	07:58:19
+		Location:	47.92757 7.02876
+
+(15) - Impressions / Pano
+	PANO1
+(16) - Drone
+	BECK2DRONE1
+		Images:	25
+		Time:	26.04.2025 08:32:42 until 26.04.2025 17:17:01
+		Duration:	08:44:19
+		Location:	47.94273 7.02342
+

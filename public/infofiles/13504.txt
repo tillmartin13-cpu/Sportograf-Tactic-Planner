@@ -1,0 +1,113 @@
+EventId: 13504
+Spots: 17
+Total Images: 27728
+Time:	07.06.2025 09:43:31 to 07.06.2025 17:42:06
+Duration: 07:58:35
+
+(1) - Start
+	MW1
+		Images:	401
+		Time:	07.06.2025 09:45:51 until 07.06.2025 11:32:37
+		Duration:	01:46:46
+		Location:	68.56872 14.91255
+
+(2) - 3.8 km
+	AGP1
+		Images:	1968
+		Time:	07.06.2025 09:43:31 until 07.06.2025 12:22:15
+		Duration:	02:38:44
+		Location:	68.57086 14.82463
+
+(3) - 9.5 km
+	JOM1
+		Images:	3027
+		Time:	07.06.2025 10:36:30 until 07.06.2025 12:54:14
+		Duration:	02:17:44
+		Location:	68.58155 14.69880
+
+	JOM1LS1
+		Images:	1341
+		Time:	07.06.2025 11:49:12 until 07.06.2025 12:54:30
+		Duration:	01:05:18
+		Location:	68.58155 14.69880
+
+(4) - 15.5 km
+	AGU1
+		Images:	1580
+		Time:	07.06.2025 11:32:15 until 07.06.2025 13:36:10
+		Duration:	02:03:55
+		Location:	68.55149 14.63393
+
+	AGU1LS2
+		Images:	396
+		Time:	07.06.2025 12:18:18 until 07.06.2025 13:36:51
+		Duration:	01:18:33
+		Location:	68.55149 14.63393
+
+	AGU1LS1
+		Images:	396
+		Time:	07.06.2025 12:18:48 until 07.06.2025 13:37:20
+		Duration:	01:18:32
+		Location:	68.55149 14.63393
+
+(5) - 17.0 km Halfmarathon
+	AGP2
+		Images:	2875
+		Time:	07.06.2025 11:14:57 until 07.06.2025 13:52:22
+		Duration:	02:37:25
+		Location:	68.57164 14.82333
+
+(6) - 2.5 km /10km
+	AGU2
+		Images:	2025
+		Time:	07.06.2025 15:08:15 until 07.06.2025 16:04:59
+		Duration:	00:56:44
+		Location:	68.56719 14.84980
+
+	AGU2LS2
+		Images:	1009
+		Time:	07.06.2025 14:37:59 until 07.06.2025 16:06:29
+		Duration:	01:28:30
+		Location:	68.56719 14.84980
+
+	AGU2LS1
+		Images:	1012
+		Time:	07.06.2025 14:41:01 until 07.06.2025 16:06:58
+		Duration:	01:25:57
+		Location:	68.56719 14.84980
+
+(7) - 3.8 km /10km
+	AGP3
+		Images:	1389
+		Time:	07.06.2025 15:00:13 until 07.06.2025 15:37:06
+		Duration:	00:36:53
+		Location:	68.57086 14.82463
+
+(8) - 6.0 km /10km
+	JOM2
+		Images:	2131
+		Time:	07.06.2025 15:03:25 until 07.06.2025 15:53:14
+		Duration:	00:49:49
+		Location:	68.57203 14.82310
+
+	JOM2LS1
+		Images:	933
+		Time:	07.06.2025 15:12:06 until 07.06.2025 15:53:22
+		Duration:	00:41:16
+		Location:	68.57203 14.82310
+
+(9) - Finish
+	MW2
+		Images:	5796
+		Time:	07.06.2025 11:34:51 until 07.06.2025 17:42:06
+		Duration:	06:07:15
+		Location:	68.56729 14.91382
+
+	MW2LS1
+		Images:	1449
+		Time:	07.06.2025 11:53:40 until 07.06.2025 17:27:32
+		Duration:	05:33:52
+		Location:	68.56729 14.91382
+
+(10) - Impressions / Pano
+	PANO1

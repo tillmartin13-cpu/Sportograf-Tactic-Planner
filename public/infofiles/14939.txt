@@ -1,0 +1,527 @@
+EventId: 14939
+Spots: 84
+Total Images: 137088
+Time:	01.01.0001 23:00:00 to 20.07.2025 14:58:37
+Duration: 739450.15:58:37
+
+(1) - 100K - 28km
+	MATR1
+		Images:	2983
+		Time:	18.07.2025 00:37:33 until 18.07.2025 14:27:56
+		Duration:	13:50:23
+		Location:	45.73062 7.82191
+
+	MATR1LS2
+		Images:	634
+		Time:	18.07.2025 09:29:27 until 19.07.2025 10:37:30
+		Duration:	1.01:08:03
+		Location:	45.73062 7.82191
+
+	MATR1LS1
+		Images:	1025
+		Time:	18.07.2025 09:00:14 until 18.07.2025 14:25:40
+		Duration:	05:25:26
+		Location:	45.73062 7.82191
+
+(2) - 100K - 28,5km
+	BRN1
+		Images:	3987
+		Time:	18.07.2025 08:36:11 until 18.07.2025 14:27:21
+		Duration:	05:51:10
+		Location:	45.73137 7.81879
+
+	BRN1LS2
+		Images:	1157
+		Time:	18.07.2025 09:14:56 until 18.07.2025 14:28:44
+		Duration:	05:13:48
+		Location:	45.73137 7.81879
+
+	BRN1LS1
+		Images:	347
+		Time:	18.07.2025 08:57:05 until 18.07.2025 14:24:12
+		Duration:	05:27:07
+		Location:	45.73137 7.81879
+
+(3) - 100K - 30km
+	LULE1
+		Images:	2807
+		Time:	18.07.2025 10:28:17 until 18.07.2025 14:23:44
+		Duration:	03:55:27
+		Location:	45.73454 7.81174
+
+	LULE1LS2
+		Images:	1126
+		Time:	18.07.2025 08:43:34 until 18.07.2025 14:17:33
+		Duration:	05:33:59
+		Location:	45.73072 7.81242
+
+	LULE1LS1
+		Images:	981
+		Time:	18.07.2025 08:20:32 until 18.07.2025 14:25:49
+		Duration:	06:05:17
+		Location:	45.73072 7.81242
+
+(4) - 100K - 36,5km
+	GAZ1
+		Images:	2534
+		Time:	18.07.2025 10:42:13 until 18.07.2025 20:21:45
+		Duration:	09:39:32
+		Location:	45.74929 7.75693
+
+	GAZ1LS2
+		Images:	763
+		Time:	18.07.2025 09:57:10 until 18.07.2025 16:59:38
+		Duration:	07:02:28
+		Location:	45.74929 7.75693
+
+	GAZ1LS1
+		Images:	700
+		Time:	18.07.2025 10:11:42 until 18.07.2025 16:06:16
+		Duration:	05:54:34
+		Location:	45.74929 7.75693
+
+(5) - Impressions / Pano
+	GAZ1DRONE1
+	FRN1DRONE1
+		Images:	38
+		Time:	18.07.2025 13:57:32 until 18.07.2025 18:51:26
+		Duration:	04:53:54
+		Location:	45.74929 7.75693
+
+	MATR2DRONE1
+		Images:	27
+		Time:	18.07.2025 11:03:39 until 19.07.2025 13:07:40
+		Duration:	1.02:04:01
+		Location:	45.74929 7.75693
+
+	PANO1
+(6) - 100K - 37km
+	AGU1
+		Images:	2111
+		Time:	18.07.2025 09:52:02 until 18.07.2025 17:06:13
+		Duration:	07:14:11
+		Location:	45.75182 7.75672
+
+	AGU1LS1
+		Images:	947
+		Time:	18.07.2025 09:44:58 until 18.07.2025 17:02:54
+		Duration:	07:17:56
+		Location:	45.75182 7.75672
+
+	AGU1LS2
+		Images:	949
+		Time:	18.07.2025 09:40:57 until 18.07.2025 17:00:10
+		Duration:	07:19:13
+		Location:	45.75182 7.75672
+
+(7) - 100K - 68km
+	EB1
+		Images:	2063
+		Time:	17.07.2025 23:26:50 until 18.07.2025 23:26:27
+		Duration:	23:59:37
+		Location:	45.85431 7.79309
+
+	EB1LS1
+		Images:	1047
+		Time:	01.01.0001 23:00:00 until 18.07.2025 23:33:58
+		Duration:	739449.00:33:58
+		Location:	45.85431 7.79309
+
+	EB1LS2
+		Images:	245
+		Time:	18.07.2025 14:28:03 until 18.07.2025 20:39:01
+		Duration:	06:10:58
+		Location:	45.85431 7.79309
+
+(8) - 100K - 69km
+	FRN1
+		Images:	543
+		Time:	18.07.2025 12:50:08 until 18.07.2025 23:22:20
+		Duration:	10:32:12
+		Location:	45.85736 7.80238
+
+	FRN1LS1
+		Images:	454
+		Time:	18.07.2025 12:46:40 until 18.07.2025 18:57:19
+		Duration:	06:10:39
+		Location:	45.85736 7.80238
+
+(9) - 100M - Start
+	MATR4
+		Images:	211
+		Time:	18.07.2025 18:32:45 until 18.07.2025 19:01:29
+		Duration:	00:28:44
+		Location:	45.73717 7.32049
+
+(10) - 100K - 10km
+	LULE2
+		Images:	1035
+		Time:	18.07.2025 20:04:10 until 18.07.2025 21:26:57
+		Duration:	01:22:47
+		Location:	45.77657 7.33858
+
+	LULE2LS1
+		Images:	557
+		Time:	31.12.1999 23:00:01 until 18.07.2025 21:08:38
+		Duration:	9330.22:08:37
+		Location:	45.77657 7.33858
+
+	LULE2LS2
+		Images:	478
+		Time:	18.07.2025 19:08:59 until 18.07.2025 21:06:59
+		Duration:	01:58:00
+		Location:	45.77657 7.33858
+
+	BRN2
+		Images:	1376
+		Time:	18.07.2025 20:10:28 until 18.07.2025 21:00:04
+		Duration:	00:49:36
+		Location:	45.77592 7.34087
+
+	BRN2LS1
+		Images:	679
+		Time:	18.07.2025 19:18:11 until 19.07.2025 03:19:23
+		Duration:	08:01:12
+		Location:	45.77592 7.34087
+
+	BRN2LS2
+		Images:	911
+		Time:	18.07.2025 19:25:13 until 18.07.2025 21:12:36
+		Duration:	01:47:23
+		Location:	45.77592 7.34087
+
+(11) - 100K - Finish
+	BEB1
+		Images:	2217
+		Time:	18.07.2025 14:12:05 until 19.07.2025 00:52:02
+		Duration:	10:39:57
+		Location:	45.77709 7.82336
+
+	FRN1LS2
+		Images:	487
+		Time:	18.07.2025 10:14:04 until 19.07.2025 00:44:41
+		Duration:	14:30:37
+		Location:	45.77709 7.82336
+
+	FRN2
+		Images:	471
+		Time:	19.07.2025 00:50:13 until 19.07.2025 03:21:33
+		Duration:	02:31:20
+		Location:	45.77709 7.82336
+
+	FRN2LS1
+		Images:	501
+		Time:	19.07.2025 00:45:25 until 19.07.2025 10:12:30
+		Duration:	09:27:05
+		Location:	45.77709 7.82336
+
+	BRN3
+		Images:	394
+		Time:	19.07.2025 03:22:49 until 19.07.2025 07:10:06
+		Duration:	03:47:17
+		Location:	45.77709 7.82336
+
+	BRN3LS1
+		Images:	191
+		Time:	19.07.2025 03:20:35 until 19.07.2025 07:11:40
+		Duration:	03:51:05
+		Location:	45.77709 7.82336
+
+(12) - 100M - 82km
+	GAZ2
+		Images:	3046
+		Time:	19.07.2025 05:24:26 until 19.07.2025 16:53:50
+		Duration:	11:29:24
+		Location:	45.93402 7.66852
+
+	GAZ2LS2
+		Images:	285
+		Time:	19.07.2025 05:52:08 until 19.07.2025 15:47:24
+		Duration:	09:55:16
+		Location:	45.93402 7.66852
+
+	GAZ2LS1
+		Images:	355
+		Time:	19.07.2025 06:05:51 until 19.07.2025 15:47:34
+		Duration:	09:41:43
+		Location:	45.93402 7.66852
+
+(13) - 100M - 83,5km
+	AGU2
+		Images:	1697
+		Time:	19.07.2025 05:42:09 until 19.07.2025 16:53:29
+		Duration:	11:11:20
+		Location:	45.92538 7.66960
+
+	AGU2LS2
+		Images:	784
+		Time:	19.07.2025 06:48:00 until 19.07.2025 14:56:36
+		Duration:	08:08:36
+		Location:	45.92538 7.66960
+
+	AGU2LS1
+		Images:	774
+		Time:	19.07.2025 06:47:14 until 19.07.2025 14:56:16
+		Duration:	08:09:02
+		Location:	45.92538 7.66960
+
+(14) - 50K - 21km
+	MATR2
+		Images:	4170
+		Time:	19.07.2025 11:39:19 until 20.07.2025 00:12:51
+		Duration:	12:33:32
+		Location:	45.84336 7.84621
+
+	MATR2LS2
+		Images:	1268
+		Time:	19.07.2025 11:20:57 until 19.07.2025 15:44:52
+		Duration:	04:23:55
+		Location:	45.84336 7.84621
+
+	MATR2LS1
+		Images:	5525
+		Time:	19.07.2025 10:42:50 until 19.07.2025 15:47:37
+		Duration:	05:04:47
+		Location:	45.84336 7.84621
+
+(15) - 50K - 21,5km
+	EB2
+		Images:	5084
+		Time:	01.01.0001 23:00:00 until 19.07.2025 16:30:10
+		Duration:	739449.17:30:10
+		Location:	45.84556 7.84628
+
+	EB2LS2
+		Images:	924
+		Time:	19.07.2025 11:18:43 until 19.07.2025 16:15:00
+		Duration:	04:56:17
+		Location:	45.84556 7.84628
+
+	EB2LS1
+		Images:	9242
+		Time:	01.01.0001 23:00:00 until 19.07.2025 16:20:17
+		Duration:	739449.17:20:17
+		Location:	45.84556 7.84628
+
+(16) - 50K - 23km
+	LULE3
+		Images:	4657
+		Time:	19.07.2025 11:34:41 until 19.07.2025 15:57:57
+		Duration:	04:23:16
+		Location:	45.85102 7.85143
+
+	LULE3LS1
+		Images:	622
+		Time:	19.07.2025 10:22:50 until 19.07.2025 16:11:08
+		Duration:	05:48:18
+		Location:	45.85102 7.85143
+
+(17) - 100M - 110km / 50K - 30km
+	BRN4
+		Images:	2656
+		Time:	19.07.2025 14:41:13 until 19.07.2025 21:35:41
+		Duration:	06:54:28
+		Location:	45.84268 7.81295
+
+	BRN4LS2
+		Images:	832
+		Time:	19.07.2025 15:16:11 until 19.07.2025 21:39:01
+		Duration:	06:22:50
+		Location:	45.84268 7.81295
+
+	BRN4LS1
+		Images:	3568
+		Time:	19.07.2025 15:02:18 until 19.07.2025 21:47:05
+		Duration:	06:44:47
+		Location:	45.84268 7.81295
+
+(18) - 100M - 114,5km / 50K - 34,5km
+	BEB2
+		Images:	4010
+		Time:	19.07.2025 09:45:19 until 19.07.2025 20:53:32
+		Duration:	11:08:13
+		Location:	45.80958 7.81656
+
+(19) - 100M / 50K - Finish
+	FRN3
+		Images:	6040
+		Time:	19.07.2025 10:34:51 until 19.07.2025 20:36:08
+		Duration:	10:01:17
+		Location:	45.77702 7.82343
+
+	FRN3LS2
+		Images:	1371
+		Time:	19.07.2025 10:13:36 until 19.07.2025 20:19:38
+		Duration:	10:06:02
+		Location:	45.77702 7.82343
+
+	FRN3LS1
+		Images:	1320
+		Time:	19.07.2025 10:24:03 until 19.07.2025 20:16:48
+		Duration:	09:52:45
+		Location:	45.77702 7.82343
+
+	LULE4
+		Images:	261
+		Time:	19.07.2025 21:31:48 until 20.07.2025 00:03:08
+		Duration:	02:31:20
+		Location:	45.77702 7.82343
+
+	LULE4LS2
+		Images:	237
+		Time:	19.07.2025 20:25:25 until 19.07.2025 23:57:20
+		Duration:	03:31:55
+		Location:	45.77702 7.82343
+
+	LULE4LS1
+		Images:	526
+		Time:	19.07.2025 20:20:25 until 20.07.2025 03:15:31
+		Duration:	06:55:06
+		Location:	45.77702 7.82343
+
+(20) - 100M - Finish
+	MATR3
+		Images:	269
+		Time:	20.07.2025 00:15:07 until 20.07.2025 02:55:20
+		Duration:	02:40:13
+		Location:	45.77702 7.82343
+
+	MATR3LS2
+		Images:	314
+		Time:	20.07.2025 00:02:04 until 20.07.2025 03:15:31
+		Duration:	03:13:27
+		Location:	45.77702 7.82343
+
+	MATR3LS1
+		Images:	413
+		Time:	20.07.2025 00:02:55 until 20.07.2025 10:07:53
+		Duration:	10:04:58
+		Location:	45.77702 7.82343
+
+	EB3
+		Images:	223
+		Time:	20.07.2025 03:06:43 until 20.07.2025 07:08:36
+		Duration:	04:01:53
+		Location:	45.77702 7.82343
+
+	EB3LS1
+		Images:	307
+		Time:	20.07.2025 03:26:43 until 20.07.2025 07:08:14
+		Duration:	03:41:31
+		Location:	45.77702 7.82343
+
+(21) - 20K - Start
+	GAZ3
+		Images:	1048
+		Time:	20.07.2025 09:31:26 until 20.07.2025 10:48:40
+		Duration:	01:17:14
+		Location:	45.77702 7.82343
+
+(22) - 20K - 4,5Km
+	FRN4
+		Images:	1904
+		Time:	20.07.2025 10:06:51 until 20.07.2025 11:00:45
+		Duration:	00:53:54
+		Location:	45.81267 7.82650
+
+	FRN4LS2
+		Images:	904
+		Time:	20.07.2025 09:45:28 until 20.07.2025 11:00:13
+		Duration:	01:14:45
+		Location:	45.81267 7.82650
+
+	FRN4LS1
+		Images:	1015
+		Time:	20.07.2025 09:36:17 until 20.07.2025 11:03:14
+		Duration:	01:26:57
+		Location:	45.81267 7.82650
+
+(23) - 20K - 10,5Km
+	BRN5
+		Images:	2353
+		Time:	20.07.2025 10:33:54 until 20.07.2025 13:14:07
+		Duration:	02:40:13
+		Location:	45.80953 7.81660
+
+	BRN5LS2
+		Images:	1056
+		Time:	20.07.2025 10:19:38 until 20.07.2025 13:06:40
+		Duration:	02:47:02
+		Location:	45.80953 7.81660
+
+	BRN5LS1
+		Images:	1182
+		Time:	12.07.2025 18:43:51 until 20.07.2025 12:41:27
+		Duration:	7.17:57:36
+		Location:	45.80953 7.81660
+
+(24) - 20K - 14Km
+	LULE5
+		Images:	4479
+		Time:	20.07.2025 11:13:19 until 20.07.2025 13:27:29
+		Duration:	02:14:10
+		Location:	45.78903 7.82149
+
+	LULE5LS2
+		Images:	875
+		Time:	20.07.2025 10:19:13 until 20.07.2025 13:30:02
+		Duration:	03:10:49
+		Location:	45.78903 7.82149
+
+	LULE5LS1
+		Images:	997
+		Time:	20.07.2025 10:09:34 until 20.07.2025 13:37:03
+		Duration:	03:27:29
+		Location:	45.78903 7.82149
+
+(25) - 20K - 14,5Km
+	BEB3
+		Images:	3031
+		Time:	20.07.2025 10:20:06 until 20.07.2025 14:23:07
+		Duration:	04:03:01
+		Location:	45.78290 7.82023
+
+	BEB3LS1
+		Images:	935
+		Time:	20.07.2025 10:09:00 until 20.07.2025 13:50:56
+		Duration:	03:41:56
+		Location:	45.78290 7.82023
+
+(26) - 20K - 15Km
+	AGU3
+		Images:	1611
+		Time:	20.07.2025 10:51:37 until 20.07.2025 13:53:08
+		Duration:	03:01:31
+		Location:	45.77880 7.81944
+
+	AGU3LS2
+		Images:	6745
+		Time:	20.07.2025 10:35:54 until 20.07.2025 14:54:03
+		Duration:	04:18:09
+		Location:	45.77880 7.81944
+
+	AGU3LS1
+		Images:	6700
+		Time:	20.07.2025 10:44:17 until 20.07.2025 14:53:18
+		Duration:	04:09:01
+		Location:	45.77880 7.81944
+
+(27) - 20K - Finish
+	GAZ4
+		Images:	2992
+		Time:	20.07.2025 11:09:48 until 20.07.2025 14:58:37
+		Duration:	03:48:49
+		Location:	45.77702 7.82343
+
+	GAZ4LS1
+		Images:	716
+		Time:	20.07.2025 10:33:39 until 20.07.2025 14:28:33
+		Duration:	03:54:54
+		Location:	45.77702 7.82343
+
+	GAZ4LS2
+		Images:	789
+		Time:	20.07.2025 09:45:23 until 20.07.2025 14:41:15
+		Duration:	04:55:52
+		Location:	45.77702 7.82343
+

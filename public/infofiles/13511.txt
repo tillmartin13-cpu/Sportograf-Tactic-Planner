@@ -1,0 +1,163 @@
+EventId: 13511
+Spots: 25
+Total Images: 68514
+Time:	17.05.2025 06:31:21 to 18.05.2025 00:23:36
+Duration: 17:52:15
+
+(1) - Swim Start
+	AMP1
+		Images:	209
+		Time:	17.05.2025 07:00:03 until 17.05.2025 07:21:01
+		Duration:	00:20:58
+		Location:	28.91984 -13.66244
+
+	SDML1
+		Images:	302
+		Time:	17.05.2025 06:36:08 until 17.05.2025 07:20:33
+		Duration:	00:44:25
+		Location:	28.91984 -13.66244
+
+(2) - Swim Exit
+	AMP2
+		Images:	1168
+		Time:	17.05.2025 06:37:33 until 17.05.2025 09:29:13
+		Duration:	02:51:40
+		Location:	28.91981 -13.66168
+
+	SDML2
+		Images:	1715
+		Time:	17.05.2025 07:39:26 until 17.05.2025 09:29:05
+		Duration:	01:49:39
+		Location:	28.91981 -13.66168
+
+(3) - Finish
+	AMP3
+		Images:	1817
+		Time:	17.05.2025 15:11:08 until 17.05.2025 22:11:46
+		Duration:	07:00:38
+		Location:	28.92035 -13.66194
+
+	JLTJ3
+		Images:	4827
+		Time:	17.05.2025 15:08:49 until 18.05.2025 00:23:36
+		Duration:	09:14:47
+		Location:	28.92035 -13.66194
+
+	JLTJ3LS2
+		Images:	2456
+		Time:	17.05.2025 14:45:05 until 17.05.2025 20:02:47
+		Duration:	05:17:42
+		Location:	28.92035 -13.66194
+
+	JLTJ3LS1
+		Images:	2350
+		Time:	17.05.2025 14:59:15 until 17.05.2025 21:30:41
+		Duration:	06:31:26
+		Location:	28.92035 -13.66194
+
+(4) - Bike - 100,0 km
+	JAI2
+		Images:	5775
+		Time:	17.05.2025 10:45:10 until 17.05.2025 15:38:02
+		Duration:	04:52:52
+		Location:	29.13272 -13.51679
+
+	JAI1LS1
+		Images:	3724
+		Time:	17.05.2025 10:44:35 until 17.05.2025 15:14:44
+		Duration:	04:30:09
+		Location:	29.13272 -13.51679
+
+(5) - General
+	JLTJ1
+		Images:	369
+		Time:	17.05.2025 06:31:21 until 17.05.2025 07:22:47
+		Duration:	00:51:26
+		Location:	28.92097 -13.66239
+
+	JMGJ1
+		Images:	137
+		Time:	17.05.2025 06:33:33 until 17.05.2025 07:55:25
+		Duration:	01:21:52
+		Location:	28.92097 -13.66239
+
+(6) - Bike - Transition zone
+	JLTJ2
+		Images:	2854
+		Time:	17.05.2025 07:50:45 until 17.05.2025 09:41:37
+		Duration:	01:50:52
+		Location:	28.92086 -13.66300
+
+	JLTJ2LS1
+		Images:	1579
+		Time:	17.05.2025 07:43:39 until 17.05.2025 14:44:08
+		Duration:	07:00:29
+		Location:	28.92086 -13.66300
+
+	JMGJ2
+		Images:	1883
+		Time:	17.05.2025 07:56:15 until 17.05.2025 09:40:54
+		Duration:	01:44:39
+		Location:	28.92086 -13.66300
+
+(7) - Run - Mirador de Playa Blanca
+	JMGJ3
+		Images:	4788
+		Time:	17.05.2025 12:48:59 until 17.05.2025 22:23:36
+		Duration:	09:34:37
+		Location:	28.92039 -13.66017
+
+(8) - Bike - 110,0 km
+	JRP1
+		Images:	11949
+		Time:	17.05.2025 11:05:22 until 17.05.2025 15:57:47
+		Duration:	04:52:25
+		Location:	29.20673 -13.48787
+
+	JRP1LS1
+		Images:	1178
+		Time:	17.05.2025 10:41:44 until 17.05.2025 15:58:52
+		Duration:	05:17:08
+		Location:	29.20673 -13.48787
+
+(9) - Bike - 20,0 km
+	LUM1
+		Images:	6393
+		Time:	17.05.2025 08:26:02 until 17.05.2025 10:44:24
+		Duration:	02:18:22
+		Location:	28.96270 -13.72651
+
+	LUM1LS1
+		Images:	1012
+		Time:	17.05.2025 08:25:34 until 17.05.2025 10:42:26
+		Duration:	02:16:52
+		Location:	28.96270 -13.72651
+
+(10) - Bike - 150,0 km
+	LUM2
+		Images:	4521
+		Time:	17.05.2025 11:28:56 until 17.05.2025 18:16:01
+		Duration:	06:47:05
+		Location:	29.00778 -13.68511
+
+	LUM2LS1
+		Images:	1927
+		Time:	17.05.2025 12:15:20 until 17.05.2025 17:47:31
+		Duration:	05:32:11
+		Location:	29.00778 -13.68511
+
+(11) - Run - Playa Buches
+	LUM3
+		Images:	106
+		Time:	17.05.2025 20:37:50 until 17.05.2025 21:15:47
+		Duration:	00:37:57
+		Location:	28.92029 -13.65585
+
+	SDML3
+		Images:	5475
+		Time:	17.05.2025 12:47:09 until 17.05.2025 22:27:49
+		Duration:	09:40:40
+		Location:	28.92029 -13.65585
+
+(12) - Swim - Impressions / Pano
+	PANO1

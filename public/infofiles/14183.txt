@@ -1,0 +1,248 @@
+EventId: 14183
+Spots: 39
+Total Images: 517289
+Time:	06.09.2025 14:03:32 to 07.09.2025 15:20:44
+Duration: 1.01:17:12
+
+(1) - 100m before finish
+	ADATI1
+		Images:	25541
+		Time:	07.09.2025 09:11:42 until 07.09.2025 14:10:06
+		Duration:	04:58:24
+		Location:	51.48178 -0.01254
+
+	ADATI1LS1
+		Images:	13232
+		Time:	07.09.2025 09:40:06 until 07.09.2025 13:38:23
+		Duration:	03:58:17
+		Location:	51.48178 -0.01254
+
+	AKMIN1
+		Images:	22774
+		Time:	07.09.2025 08:25:23 until 07.09.2025 14:10:07
+		Duration:	05:44:44
+		Location:	51.48178 -0.01254
+
+(2) - 11.4 km
+	BSHAK1
+		Images:	20055
+		Time:	07.09.2025 07:30:53 until 07.09.2025 12:17:54
+		Duration:	04:47:01
+		Location:	51.50708 -0.07419
+
+	BSTEM2
+		Images:	31302
+		Time:	07.09.2025 08:55:58 until 07.09.2025 12:23:58
+		Duration:	03:28:00
+		Location:	51.50776 -0.07666
+
+(3) - 11.5 km
+	BGWH1
+		Images:	34750
+		Time:	07.09.2025 07:10:22 until 07.09.2025 12:20:43
+		Duration:	05:10:21
+		Location:	51.50547 -0.07535
+
+	BLRE1
+		Images:	6359
+		Time:	06.09.2025 14:03:32 until 07.09.2025 12:20:42
+		Duration:	22:17:10
+		Location:	51.50547 -0.07535
+
+(4) - 11.6 km
+	BDP1
+		Images:	25321
+		Time:	07.09.2025 06:36:22 until 07.09.2025 11:52:12
+		Duration:	05:15:50
+		Location:	51.50515 -0.07558
+
+	BDP1LS1
+		Images:	2005
+		Time:	07.09.2025 07:48:58 until 07.09.2025 10:51:12
+		Duration:	03:02:14
+		Location:	51.50515 -0.07558
+
+	BJIHI1
+		Images:	8327
+		Time:	07.09.2025 08:11:51 until 07.09.2025 12:21:47
+		Duration:	04:09:56
+		Location:	51.50515 -0.07558
+
+	BJIHI1LS1
+		Images:	1556
+		Time:	07.09.2025 09:18:32 until 07.09.2025 09:49:14
+		Duration:	00:30:42
+		Location:	51.50515 -0.07558
+
+(5) - 11.7 km
+	BLJA1
+		Images:	10391
+		Time:	06.09.2025 22:24:29 until 07.09.2025 12:08:55
+		Duration:	13:44:26
+		Location:	51.50447 -0.07863
+
+	BRLW1
+		Images:	12705
+		Time:	07.09.2025 07:28:32 until 07.09.2025 12:22:08
+		Duration:	04:53:36
+		Location:	51.50447 -0.07863
+
+(6) - 12.4 km
+	BBUM1
+		Images:	18825
+		Time:	07.09.2025 06:25:37 until 07.09.2025 12:33:25
+		Duration:	06:07:48
+		Location:	51.49833 -0.07163
+
+	BNLA1
+		Images:	30156
+		Time:	07.09.2025 06:38:55 until 07.09.2025 12:33:05
+		Duration:	05:54:10
+		Location:	51.49833 -0.07163
+
+(7) - 50m before finish
+	ASHP1
+		Images:	15716
+		Time:	07.09.2025 08:46:56 until 07.09.2025 14:10:51
+		Duration:	05:23:55
+		Location:	51.48230 -0.01243
+
+	ASHP1LS1
+		Images:	4338
+		Time:	07.09.2025 08:17:16 until 07.09.2025 13:39:59
+		Duration:	05:22:43
+		Location:	51.48230 -0.01243
+
+(8) - Canary Wharf
+	AAH1
+		Images:	11776
+		Time:	07.09.2025 07:16:25 until 07.09.2025 11:11:34
+		Duration:	03:55:09
+		Location:	51.50336 -0.01960
+
+	ASCP1
+		Images:	8578
+		Time:	07.09.2025 08:06:34 until 07.09.2025 11:17:18
+		Duration:	03:10:44
+		Location:	51.50436 -0.02520
+
+(9) - Finish
+	AAH2
+		Images:	2588
+		Time:	07.09.2025 12:18:47 until 07.09.2025 14:27:07
+		Duration:	02:08:20
+		Location:	51.48292 -0.01247
+
+	AGU1
+		Images:	8106
+		Time:	07.09.2025 08:19:01 until 07.09.2025 14:23:42
+		Duration:	06:04:41
+		Location:	51.48292 -0.01247
+
+	AJUW1
+		Images:	20454
+		Time:	07.09.2025 08:14:29 until 07.09.2025 12:06:31
+		Duration:	03:52:02
+		Location:	51.48292 -0.01247
+
+	AJUW1LS1
+		Images:	10949
+		Time:	07.09.2025 07:30:16 until 07.09.2025 13:42:13
+		Duration:	06:11:57
+		Location:	51.48292 -0.01247
+
+	AJUW1LS2
+		Images:	2974
+		Time:	07.09.2025 07:36:53 until 07.09.2025 13:25:29
+		Duration:	05:48:36
+		Location:	51.48292 -0.01247
+
+	APAS1
+		Images:	11620
+		Time:	07.09.2025 08:52:01 until 07.09.2025 12:06:30
+		Duration:	03:14:29
+		Location:	51.48292 -0.01247
+
+	APAS1LS1
+		Images:	6963
+		Time:	07.09.2025 08:12:36 until 07.09.2025 13:43:13
+		Duration:	05:30:37
+		Location:	51.48292 -0.01247
+
+	ASCP2
+		Images:	1667
+		Time:	07.09.2025 12:18:25 until 07.09.2025 14:27:19
+		Duration:	02:08:54
+		Location:	51.48292 -0.01247
+
+(10) - Impressions / Pano
+	PANO1
+(11) - Just before finish
+	AALN1LS1
+		Images:	13891
+		Time:	07.09.2025 09:02:40 until 07.09.2025 13:56:47
+		Duration:	04:54:07
+		Location:	51.48247 -0.01246
+
+	AALN1LS2
+		Images:	13891
+		Time:	07.09.2025 09:02:40 until 07.09.2025 13:56:47
+		Duration:	04:54:07
+		Location:	51.48247 -0.01246
+
+	AQVT1
+		Images:	40372
+		Time:	07.09.2025 09:11:51 until 07.09.2025 14:11:00
+		Duration:	04:59:09
+		Location:	51.48247 -0.01246
+
+	AQVT1LS1
+		Images:	14060
+		Time:	06.09.2025 18:54:56 until 07.09.2025 13:50:33
+		Duration:	18:55:37
+		Location:	51.48247 -0.01246
+
+	ASALA1
+		Images:	22783
+		Time:	07.09.2025 08:14:49 until 07.09.2025 14:10:53
+		Duration:	05:56:04
+		Location:	51.48247 -0.01246
+
+	ASALA1LS1
+		Images:	6182
+		Time:	07.09.2025 08:26:17 until 07.09.2025 13:28:40
+		Duration:	05:02:23
+		Location:	51.48247 -0.01246
+
+(12) - Medals
+	AALN1
+		Images:	7788
+		Time:	07.09.2025 09:22:57 until 07.09.2025 13:55:14
+		Duration:	04:32:17
+		Location:	51.48233 -0.01161
+
+	ACNS1
+		Images:	5830
+		Time:	07.09.2025 11:23:22 until 07.09.2025 15:20:44
+		Duration:	03:57:22
+		Location:	51.48233 -0.01161
+
+	AJOEM1
+		Images:	7666
+		Time:	07.09.2025 09:42:19 until 07.09.2025 14:03:19
+		Duration:	04:21:00
+		Location:	51.48233 -0.01161
+
+	AKYY1
+		Images:	14406
+		Time:	07.09.2025 09:36:29 until 07.09.2025 14:35:03
+		Duration:	04:58:34
+		Location:	51.48233 -0.01161
+
+(13) - Start
+	BSTEM1
+		Images:	1392
+		Time:	07.09.2025 07:22:31 until 07.09.2025 08:55:06
+		Duration:	01:32:35
+		Location:	51.50883 -0.06847
+

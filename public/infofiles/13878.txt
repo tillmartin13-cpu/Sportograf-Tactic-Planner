@@ -1,0 +1,178 @@
+EventId: 13878
+Spots: 27
+Total Images: 17599
+Time:	05.07.2025 06:14:00 to 05.07.2025 18:11:14
+Duration: 11:57:14
+
+(1) - Start
+	HS3
+		Images:	294
+		Time:	05.07.2025 06:14:00 until 05.07.2025 07:31:56
+		Duration:	01:17:56
+		Location:	46.49069 9.90475
+
+	TE1
+		Images:	311
+		Time:	05.07.2025 07:10:53 until 05.07.2025 10:17:01
+		Duration:	03:06:08
+		Location:	46.49069 9.90475
+
+(2) - 13.0 km (Corvatsch) Fuorcla Surlej
+	MAWI1
+		Images:	587
+		Time:	05.07.2025 09:19:45 until 05.07.2025 12:55:39
+		Duration:	03:35:54
+		Location:	46.42869 9.83445
+
+	MAWI1LS1
+		Images:	165
+		Time:	05.07.2025 10:46:51 until 05.07.2025 12:44:29
+		Duration:	01:57:38
+		Location:	46.42869 9.83445
+
+	MAWI1LS2
+		Images:	161
+		Time:	05.07.2025 11:01:05 until 05.07.2025 13:47:06
+		Duration:	02:46:01
+		Location:	46.42869 9.83445
+
+(3) - 15.5 km (Gletschermarathon) Diavolezza
+	KD1
+		Images:	1252
+		Time:	05.07.2025 09:34:48 until 05.07.2025 11:31:12
+		Duration:	01:56:24
+		Location:	46.41110 9.96506
+
+	KD1LS1
+		Images:	344
+		Time:	05.07.2025 09:42:52 until 05.07.2025 11:31:13
+		Duration:	01:48:21
+		Location:	46.41110 9.96506
+
+	BECK1
+		Images:	1343
+		Time:	05.07.2025 09:27:57 until 05.07.2025 14:31:06
+		Duration:	05:03:09
+		Location:	46.41153 9.96522
+
+	BECK1LS2
+		Images:	505
+		Time:	05.07.2025 09:43:31 until 05.07.2025 11:40:02
+		Duration:	01:56:31
+		Location:	46.41153 9.96522
+
+	BECK1LS1
+		Images:	504
+		Time:	05.07.2025 09:32:37 until 05.07.2025 11:42:12
+		Duration:	02:09:35
+		Location:	46.41153 9.96522
+
+(4) - 33.0 km / 9.0 km (Gletschermarathon/Steinbock) Alp Languard
+	HS1
+		Images:	1841
+		Time:	05.07.2025 10:28:27 until 05.07.2025 15:31:10
+		Duration:	05:02:43
+		Location:	46.48772 9.92427
+
+	HS1LS1
+		Images:	699
+		Time:	05.07.2025 09:06:05 until 05.07.2025 15:31:15
+		Duration:	06:25:10
+		Location:	46.48772 9.92427
+
+	HS1LS2
+		Images:	687
+		Time:	05.07.2025 10:47:04 until 05.07.2025 15:31:47
+		Duration:	04:44:43
+		Location:	46.48772 9.92427
+
+(5) - 41.0 km (Gletschermarathon) Pontresina Crast’Ota
+	KD2
+		Images:	288
+		Time:	05.07.2025 15:13:45 until 05.07.2025 17:45:50
+		Duration:	02:32:05
+		Location:	46.49573 9.90592
+
+	KD2LS1
+		Images:	126
+		Time:	05.07.2025 16:06:12 until 05.07.2025 18:02:56
+		Duration:	01:56:44
+		Location:	46.49573 9.90592
+
+(6) - 41.5 km (Gletschermarathon) Pontresina Wald
+	BECK2
+		Images:	1110
+		Time:	05.07.2025 14:31:25 until 05.07.2025 18:06:15
+		Duration:	03:34:50
+		Location:	46.49285 9.90809
+
+	BECK2LS2
+		Images:	236
+		Time:	05.07.2025 14:31:22 until 05.07.2025 17:16:50
+		Duration:	02:45:28
+		Location:	46.49285 9.90809
+
+	BECK2LS1
+		Images:	291
+		Time:	05.07.2025 14:23:32 until 05.07.2025 17:37:04
+		Duration:	03:13:32
+		Location:	46.49285 9.90809
+
+(7) - 41.8 km (Gletschermarathon) Pontresina Wiese
+	HS2
+		Images:	171
+		Time:	05.07.2025 16:43:29 until 05.07.2025 18:08:56
+		Duration:	01:25:27
+		Location:	46.49138 9.90851
+
+	HS2LS1
+		Images:	268
+		Time:	05.07.2025 16:31:17 until 05.07.2025 18:08:31
+		Duration:	01:37:14
+		Location:	46.49138 9.90851
+
+	HS2LS2
+		Images:	112
+		Time:	05.07.2025 16:35:43 until 05.07.2025 18:07:18
+		Duration:	01:31:35
+		Location:	46.49138 9.90851
+
+(8) - 29.0 km (Corvatsch) Pontresina Bahnhof
+	MAWI2
+		Images:	229
+		Time:	05.07.2025 14:45:13 until 05.07.2025 17:21:40
+		Duration:	02:36:27
+		Location:	46.49297 9.89547
+
+	MAWI2LS1
+		Images:	705
+		Time:	05.07.2025 14:26:18 until 05.07.2025 17:46:21
+		Duration:	03:20:03
+		Location:	46.49297 9.89547
+
+	MAWI2LS2
+		Images:	578
+		Time:	05.07.2025 13:47:59 until 05.07.2025 17:47:08
+		Duration:	03:59:09
+		Location:	46.49297 9.89547
+
+(9) - Finish
+	TE2
+		Images:	4770
+		Time:	05.07.2025 11:35:03 until 05.07.2025 18:11:14
+		Duration:	06:36:11
+		Location:	46.49069 9.90475
+
+(10) - Drohne
+	PANO1
+		Images:	2
+		Time:	05.07.2025 12:34:04 until 05.07.2025 12:36:10
+		Duration:	00:02:06
+		Location:	46.41153 9.96522
+
+	BECK1DRONE1
+		Images:	20
+		Time:	05.07.2025 12:32:49 until 05.07.2025 12:36:11
+		Duration:	00:03:22
+		Location:	46.41153 9.96522
+

@@ -1,0 +1,424 @@
+EventId: 16167
+Spots: 68
+Total Images: 235986
+Time:	06.11.2025 07:57:12 to 16.11.2025 21:45:30
+Duration: 10.13:48:18
+
+(1) - Station 1 Skierg
+	YEP1
+		Images:	3988
+		Time:	16.11.2025 06:47:13 until 16.11.2025 12:56:44
+		Duration:	06:09:31
+		Location:	41.89163 -87.60380
+
+	EUGP1
+		Images:	3713
+		Time:	16.11.2025 06:27:35 until 16.11.2025 12:56:22
+		Duration:	06:28:47
+		Location:	41.89163 -87.60380
+
+	DANG1
+		Images:	3455
+		Time:	16.11.2025 07:02:53 until 16.11.2025 12:57:37
+		Duration:	05:54:44
+		Location:	41.89163 -87.60380
+
+	JANH2
+		Images:	5130
+		Time:	16.11.2025 13:12:57 until 16.11.2025 19:14:41
+		Duration:	06:01:44
+		Location:	41.89163 -87.60380
+
+	PRR2
+		Images:	6737
+		Time:	16.11.2025 13:13:19 until 16.11.2025 19:17:12
+		Duration:	06:03:53
+		Location:	41.89163 -87.60380
+
+	NIMA2
+		Images:	5050
+		Time:	16.11.2025 13:13:53 until 16.11.2025 19:15:41
+		Duration:	06:01:48
+		Location:	41.89163 -87.60380
+
+	MAT1
+		Images:	1881
+		Time:	16.11.2025 08:03:38 until 16.11.2025 14:27:28
+		Duration:	06:23:50
+		Location:	41.89163 -87.60380
+
+	JBB1
+		Images:	4246
+		Time:	15.11.2025 06:31:47 until 16.11.2025 14:27:15
+		Duration:	1.07:55:28
+		Location:	41.89163 -87.60380
+
+	SAM1
+		Images:	2389
+		Time:	16.11.2025 08:03:38 until 16.11.2025 16:59:00
+		Duration:	08:55:22
+		Location:	41.89163 -87.60380
+
+	VICY1
+		Images:	986
+		Time:	16.11.2025 16:34:38 until 16.11.2025 16:58:07
+		Duration:	00:23:29
+		Location:	41.89163 -87.60380
+
+(2) - Station 6 Farmers Carry
+	DANG1LS1
+		Images:	4000
+		Time:	06.11.2025 07:57:12 until 16.11.2025 06:51:48
+		Duration:	9.22:54:36
+		Location:	41.89163 -87.60380
+
+	MAT5LS1
+		Images:	5528
+		Time:	16.11.2025 06:44:06 until 16.11.2025 19:10:04
+		Duration:	12:25:58
+		Location:	41.89163 -87.60380
+
+	VICY6LS2
+		Images:	8911
+		Time:	16.11.2025 07:15:18 until 16.11.2025 20:20:08
+		Duration:	13:04:50
+		Location:	41.89163 -87.60380
+
+(3) - Station 2 Sled Push
+	PRR1
+		Images:	1659
+		Time:	15.11.2025 06:51:20 until 16.11.2025 13:00:18
+		Duration:	1.06:08:58
+		Location:	41.89163 -87.60380
+
+	JANH1
+		Images:	1971
+		Time:	16.11.2025 06:36:05 until 16.11.2025 13:03:56
+		Duration:	06:27:51
+		Location:	41.89163 -87.60380
+
+	DPE1
+		Images:	2977
+		Time:	15.11.2025 07:01:08 until 16.11.2025 13:00:13
+		Duration:	1.05:59:05
+		Location:	41.89163 -87.60380
+
+	NIMA1
+		Images:	2674
+		Time:	16.11.2025 06:59:37 until 16.11.2025 12:59:34
+		Duration:	05:59:57
+		Location:	41.89163 -87.60380
+
+	EUGP2
+		Images:	2525
+		Time:	16.11.2025 13:06:27 until 16.11.2025 19:27:32
+		Duration:	06:21:05
+		Location:	41.89163 -87.60380
+
+	YEP2
+		Images:	2438
+		Time:	16.11.2025 13:09:13 until 16.11.2025 19:29:32
+		Duration:	06:20:19
+		Location:	41.89163 -87.60380
+
+	DANG2
+		Images:	4944
+		Time:	16.11.2025 13:02:50 until 16.11.2025 19:27:18
+		Duration:	06:24:28
+		Location:	41.89163 -87.60380
+
+	MKON2
+		Images:	1729
+		Time:	16.11.2025 13:04:30 until 16.11.2025 19:29:53
+		Duration:	06:25:23
+		Location:	41.89163 -87.60380
+
+	SAM2
+		Images:	3488
+		Time:	15.11.2025 07:12:05 until 15.11.2025 12:59:26
+		Duration:	05:47:21
+		Location:	41.89163 -87.60380
+
+(4) - Station 3 Sled Pull
+	IZZY1
+		Images:	3740
+		Time:	16.11.2025 07:22:42 until 16.11.2025 13:08:07
+		Duration:	05:45:25
+		Location:	41.89163 -87.60380
+
+	DANM1
+		Images:	3027
+		Time:	16.11.2025 07:18:34 until 16.11.2025 13:08:42
+		Duration:	05:50:08
+		Location:	41.89163 -87.60380
+
+	TAPO1
+		Images:	1732
+		Time:	15.11.2025 06:38:40 until 16.11.2025 13:05:07
+		Duration:	1.06:26:27
+		Location:	41.89163 -87.60380
+
+	MUK1
+		Images:	7936
+		Time:	16.11.2025 07:05:11 until 16.11.2025 13:28:07
+		Duration:	06:22:56
+		Location:	41.89163 -87.60380
+
+	LIT2
+		Images:	3466
+		Time:	16.11.2025 13:21:17 until 16.11.2025 19:42:26
+		Duration:	06:21:09
+		Location:	41.89163 -87.60380
+
+	AKT2
+		Images:	3607
+		Time:	15.11.2025 13:51:17 until 16.11.2025 19:45:05
+		Duration:	1.05:53:48
+		Location:	41.89163 -87.60380
+
+	ANMF2
+		Images:	4262
+		Time:	16.11.2025 13:28:54 until 16.11.2025 19:43:59
+		Duration:	06:15:05
+		Location:	41.89163 -87.60380
+
+	PEC2
+		Images:	4309
+		Time:	16.11.2025 13:28:40 until 16.11.2025 19:45:17
+		Duration:	06:16:37
+		Location:	41.89163 -87.60380
+
+	MAT2
+		Images:	161
+		Time:	16.11.2025 13:13:07 until 16.11.2025 13:20:42
+		Duration:	00:07:35
+		Location:	41.89163 -87.60380
+
+	JBB2
+		Images:	341
+		Time:	15.11.2025 14:12:26 until 16.11.2025 13:27:12
+		Duration:	23:14:46
+		Location:	41.89163 -87.60380
+
+	SAM3
+		Images:	157
+		Time:	16.11.2025 13:08:58 until 16.11.2025 13:14:27
+		Duration:	00:05:29
+		Location:	41.89163 -87.60380
+
+	VICY2
+		Images:	52
+		Time:	16.11.2025 13:08:56 until 16.11.2025 13:27:57
+		Duration:	00:19:01
+		Location:	41.89163 -87.60380
+
+(5) - Station 5 Rowing
+	LIT1
+		Images:	4553
+		Time:	15.11.2025 07:25:31 until 16.11.2025 13:11:42
+		Duration:	1.05:46:11
+		Location:	41.89163 -87.60380
+
+	AKT1
+		Images:	5769
+		Time:	15.11.2025 11:16:15 until 16.11.2025 13:08:48
+		Duration:	1.01:52:33
+		Location:	41.89163 -87.60380
+
+	IZZY2
+		Images:	4962
+		Time:	16.11.2025 13:16:32 until 16.11.2025 20:24:36
+		Duration:	07:08:04
+		Location:	41.89163 -87.60380
+
+	DANM2
+		Images:	6256
+		Time:	16.11.2025 13:14:45 until 16.11.2025 20:11:50
+		Duration:	06:57:05
+		Location:	41.89163 -87.60380
+
+	MAT3
+		Images:	2745
+		Time:	16.11.2025 11:08:16 until 16.11.2025 17:42:49
+		Duration:	06:34:33
+		Location:	41.89163 -87.60380
+
+	JBB3
+		Images:	4147
+		Time:	16.11.2025 11:06:39 until 16.11.2025 15:10:08
+		Duration:	04:03:29
+		Location:	41.89163 -87.60380
+
+	VICY3
+		Images:	2286
+		Time:	16.11.2025 08:07:21 until 16.11.2025 17:42:16
+		Duration:	09:34:55
+		Location:	41.89163 -87.60380
+
+(6) - Station 7 Sandbag Lunges
+	DEHA1
+		Images:	2927
+		Time:	16.11.2025 07:39:28 until 16.11.2025 13:28:44
+		Duration:	05:49:16
+		Location:	41.89163 -87.60380
+
+	ARIM1
+		Images:	5073
+		Time:	15.11.2025 06:40:27 until 16.11.2025 13:19:38
+		Duration:	1.06:39:11
+		Location:	41.89163 -87.60380
+
+	DEHA2
+		Images:	2505
+		Time:	16.11.2025 13:33:19 until 16.11.2025 21:00:51
+		Duration:	07:27:32
+		Location:	41.89163 -87.60380
+
+	TAPO2
+		Images:	5843
+		Time:	16.11.2025 13:11:22 until 16.11.2025 21:05:42
+		Duration:	07:54:20
+		Location:	41.89163 -87.60380
+
+	MAT4
+		Images:	927
+		Time:	16.11.2025 08:37:38 until 16.11.2025 09:07:52
+		Duration:	00:30:14
+		Location:	41.89163 -87.60380
+
+	JBB4
+		Images:	2566
+		Time:	16.11.2025 08:38:26 until 16.11.2025 20:29:00
+		Duration:	11:50:34
+		Location:	41.89163 -87.60380
+
+	SAM4
+		Images:	2097
+		Time:	16.11.2025 11:09:37 until 16.11.2025 17:37:49
+		Duration:	06:28:12
+		Location:	41.89163 -87.60380
+
+	VICY4
+		Images:	989
+		Time:	16.11.2025 14:41:01 until 16.11.2025 15:08:21
+		Duration:	00:27:20
+		Location:	41.89163 -87.60380
+
+(7) - Station 8 Wall Balls
+	PEC1
+		Images:	3411
+		Time:	15.11.2025 06:19:42 until 16.11.2025 13:17:50
+		Duration:	1.06:58:08
+		Location:	41.89163 -87.60380
+
+	ANMF1
+		Images:	7390
+		Time:	15.11.2025 06:24:52 until 16.11.2025 13:16:00
+		Duration:	1.06:51:08
+		Location:	41.89163 -87.60380
+
+	ZACM2
+		Images:	2485
+		Time:	16.11.2025 13:18:32 until 16.11.2025 21:45:30
+		Duration:	08:26:58
+		Location:	41.89163 -87.60380
+
+	ARIM2
+		Images:	11083
+		Time:	16.11.2025 13:20:16 until 16.11.2025 21:03:13
+		Duration:	07:42:57
+		Location:	41.89163 -87.60380
+
+	MAT5
+		Images:	2381
+		Time:	16.11.2025 09:17:18 until 16.11.2025 18:32:35
+		Duration:	09:15:17
+		Location:	41.89163 -87.60380
+
+	JBB5
+		Images:	10036
+		Time:	16.11.2025 09:17:44 until 16.11.2025 17:34:36
+		Duration:	08:16:52
+		Location:	41.89163 -87.60380
+
+(8) - Finish
+	ZACM1
+		Images:	2606
+		Time:	15.11.2025 06:54:14 until 16.11.2025 13:10:59
+		Duration:	1.06:16:45
+		Location:	41.89163 -87.60380
+
+	DPE2
+		Images:	6358
+		Time:	16.11.2025 13:09:30 until 16.11.2025 21:29:02
+		Duration:	08:19:32
+		Location:	41.89163 -87.60380
+
+	SAM5
+		Images:	1469
+		Time:	16.11.2025 08:38:50 until 16.11.2025 18:15:21
+		Duration:	09:36:31
+		Location:	41.89163 -87.60380
+
+	SAM6LS1
+		Images:	3138
+		Time:	16.11.2025 06:57:26 until 16.11.2025 20:24:26
+		Duration:	13:27:00
+		Location:	41.89163 -87.60380
+
+	VICY5
+		Images:	1193
+		Time:	16.11.2025 10:33:27 until 16.11.2025 16:05:43
+		Duration:	05:32:16
+		Location:	41.89163 -87.60380
+
+	VICY6LS1
+		Images:	4019
+		Time:	16.11.2025 07:07:04 until 16.11.2025 21:23:26
+		Duration:	14:16:22
+		Location:	41.89163 -87.60380
+
+(9) - Medalwall
+	SCOT1
+		Images:	3317
+		Time:	15.11.2025 20:00:50 until 16.11.2025 13:30:24
+		Duration:	17:29:34
+		Location:	41.89163 -87.60380
+
+	MKON1
+		Images:	2182
+		Time:	16.11.2025 06:48:48 until 16.11.2025 12:58:05
+		Duration:	06:09:17
+		Location:	41.89163 -87.60380
+
+	MUK2
+		Images:	2372
+		Time:	16.11.2025 13:30:38 until 16.11.2025 21:33:38
+		Duration:	08:03:00
+		Location:	41.89163 -87.60380
+
+	SCOT2
+		Images:	3982
+		Time:	16.11.2025 13:31:19 until 16.11.2025 21:15:57
+		Duration:	07:44:38
+		Location:	41.89163 -87.60380
+
+	SAM6
+		Images:	306
+		Time:	16.11.2025 09:23:37 until 16.11.2025 15:47:50
+		Duration:	06:24:13
+		Location:	41.89163 -87.60380
+
+(10) - venue
+	JBB6
+		Images:	512
+		Time:	16.11.2025 06:52:29 until 16.11.2025 07:52:16
+		Duration:	00:59:47
+		Location:	41.89163 -87.60380
+
+	VICY6
+		Images:	891
+		Time:	16.11.2025 08:37:09 until 16.11.2025 10:32:14
+		Duration:	01:55:05
+		Location:	41.89163 -87.60380
+

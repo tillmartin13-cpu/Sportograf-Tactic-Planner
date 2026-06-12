@@ -1,0 +1,107 @@
+EventId: 14430
+Spots: 15
+Total Images: 73854
+Time:	21.06.2025 06:59:27 to 22.06.2025 17:17:53
+Duration: 1.10:18:26
+
+(1) - Start
+	JKRE2
+		Images:	322
+		Time:	22.06.2025 07:24:25 until 22.06.2025 08:04:50
+		Duration:	00:40:25
+		Location:	NULL NULL
+
+(2) - Obstacle 5 Monkey Bars
+	CIFU1
+		Images:	6998
+		Time:	21.06.2025 07:19:05 until 22.06.2025 15:01:05
+		Duration:	1.07:42:00
+		Location:	NULL NULL
+
+	JOFU1
+		Images:	7625
+		Time:	21.06.2025 10:49:15 until 22.06.2025 15:06:30
+		Duration:	1.04:17:15
+		Location:	NULL NULL
+
+(3) - Obstacle 20 Bucket Carry
+	NYMI1
+		Images:	9341
+		Time:	22.06.2025 08:24:02 until 22.06.2025 15:20:08
+		Duration:	06:56:06
+		Location:	NULL NULL
+
+(4) - Obstacle 22 Multi-Rig
+	JGAB1
+		Images:	5329
+		Time:	21.06.2025 06:59:27 until 22.06.2025 15:37:59
+		Duration:	1.08:38:32
+		Location:	NULL NULL
+
+	SCTH1
+		Images:	5348
+		Time:	22.06.2025 06:19:36 until 22.06.2025 15:38:03
+		Duration:	09:18:27
+		Location:	NULL NULL
+
+(5) - Obstacle 25 Sandbag Carry
+	JIB1
+		Images:	8612
+		Time:	21.06.2025 07:11:31 until 22.06.2025 15:56:01
+		Duration:	1.08:44:30
+		Location:	NULL NULL
+
+(6) - Obstacle 27 Z Wall
+	JGAB2
+		Images:	54
+		Time:	22.06.2025 14:31:46 until 22.06.2025 14:45:49
+		Duration:	00:14:03
+		Location:	NULL NULL
+
+(7) - Obstacle 30 Barbed Wire Crawl
+	SAN1
+		Images:	3523
+		Time:	21.06.2025 07:47:05 until 22.06.2025 16:49:50
+		Duration:	1.09:02:45
+		Location:	NULL NULL
+
+	MIGO2
+		Images:	160
+		Time:	22.06.2025 08:44:54 until 22.06.2025 08:58:01
+		Duration:	00:13:07
+		Location:	NULL NULL
+
+(8) - Obstacle 33 A-Frame Cargo
+	LLCA1
+		Images:	10348
+		Time:	21.06.2025 07:28:54 until 22.06.2025 17:07:41
+		Duration:	1.09:38:47
+		Location:	NULL NULL
+
+(9) - Obstacle 34 Fire Jump
+	MIGO1
+		Images:	11111
+		Time:	21.06.2025 08:25:12 until 22.06.2025 17:09:41
+		Duration:	1.08:44:29
+		Location:	NULL NULL
+
+	JOD2
+		Images:	266
+		Time:	22.06.2025 08:53:27 until 22.06.2025 10:28:41
+		Duration:	01:35:14
+		Location:	NULL NULL
+
+(10) - Herotent
+	JKRE1
+		Images:	4493
+		Time:	22.06.2025 08:50:58 until 22.06.2025 17:17:53
+		Duration:	08:26:55
+		Location:	NULL NULL
+
+(11) - Festival Area
+	JOD1
+		Images:	319
+		Time:	21.06.2025 10:24:34 until 22.06.2025 14:37:28
+		Duration:	1.04:12:54
+		Location:	NULL NULL
+

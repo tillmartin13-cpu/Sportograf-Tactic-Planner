@@ -1,0 +1,592 @@
+EventId: 14718
+Spots: 94
+Total Images: 810604
+Time:	06.12.2025 03:47:58 to 07.12.2025 12:39:37
+Duration: 1.08:51:39
+
+(1) - Anderson Bridge - 10K-KM9.7/M-KM41.9
+	AHTT1LS1
+		Images:	6911
+		Time:	07.12.2025 06:56:46 until 07.12.2025 11:17:32
+		Duration:	04:20:46
+		Location:	1.28814 103.85168
+
+	AHTT2
+		Images:	28905
+		Time:	07.12.2025 06:39:54 until 07.12.2025 11:34:00
+		Duration:	04:54:06
+		Location:	1.28814 103.85168
+
+	ARSK2
+		Images:	16168
+		Time:	07.12.2025 08:36:24 until 07.12.2025 11:28:52
+		Duration:	02:52:28
+		Location:	1.28814 103.85168
+
+	DARM1
+		Images:	9632
+		Time:	07.12.2025 04:16:34 until 07.12.2025 11:27:54
+		Duration:	07:11:20
+		Location:	1.28691 103.85294
+
+	DSUA1
+		Images:	2168
+		Time:	07.12.2025 07:29:35 until 07.12.2025 11:27:56
+		Duration:	03:58:21
+		Location:	1.28691 103.85294
+
+(2) - Bay East Garden - M-KM15
+	BLDB1
+		Images:	5491
+		Time:	07.12.2025 04:08:05 until 07.12.2025 06:25:30
+		Duration:	02:17:25
+		Location:	1.28808 103.86901
+
+	BLDB1LS1
+		Images:	779
+		Time:	07.12.2025 06:01:10 until 07.12.2025 06:40:43
+		Duration:	00:39:33
+		Location:	1.28808 103.86901
+
+	BNTA1
+		Images:	7396
+		Time:	07.12.2025 04:21:55 until 07.12.2025 08:41:31
+		Duration:	04:19:36
+		Location:	1.28808 103.86901
+
+	BNTA1LS1
+		Images:	1307
+		Time:	07.12.2025 05:58:00 until 07.12.2025 06:42:06
+		Duration:	00:44:06
+		Location:	1.28808 103.86901
+
+(3) - Bayfront - M-KM33.7
+	EJMAO2
+		Images:	2216
+		Time:	07.12.2025 08:15:23 until 07.12.2025 10:06:29
+		Duration:	01:51:06
+		Location:	1.28362 103.85987
+
+	EVMM2
+		Images:	20791
+		Time:	07.12.2025 05:49:56 until 07.12.2025 10:06:16
+		Duration:	04:16:20
+		Location:	1.28362 103.85987
+
+(4) - Bayfront - M/KM33.7
+	BPNQ1
+		Images:	33066
+		Time:	07.12.2025 03:59:28 until 07.12.2025 10:20:36
+		Duration:	06:21:08
+		Location:	1.28361 103.86244
+
+	BTDK1
+		Images:	15030
+		Time:	07.12.2025 03:58:21 until 07.12.2025 10:04:30
+		Duration:	06:06:09
+		Location:	1.28361 103.86244
+
+(5) - Collyer Quay - M-KM41.7
+	DJOSS2
+		Images:	1119
+		Time:	07.12.2025 08:32:20 until 07.12.2025 11:06:32
+		Duration:	02:34:12
+		Location:	1.2845 103.85311
+
+	DWIG2
+		Images:	4640
+		Time:	07.12.2025 08:25:03 until 07.12.2025 11:11:46
+		Duration:	02:46:43
+		Location:	1.2845 103.85311
+
+	EPCT1
+		Images:	14425
+		Time:	07.12.2025 04:27:40 until 07.12.2025 11:27:21
+		Duration:	06:59:41
+		Location:	1.2845 103.85311
+
+	EPCT1LS1
+		Images:	4398
+		Time:	07.12.2025 05:58:47 until 07.12.2025 09:49:24
+		Duration:	03:50:37
+		Location:	1.2845 103.85311
+
+	ERDI1
+		Images:	5092
+		Time:	07.12.2025 04:59:09 until 07.12.2025 11:06:58
+		Duration:	06:07:49
+		Location:	1.2845 103.85311
+
+	ERDI1LS1
+		Images:	2624
+		Time:	07.12.2025 04:34:04 until 07.12.2025 11:06:23
+		Duration:	06:32:19
+		Location:	1.2845 103.85311
+
+(6) - Connaught Dr - 10K-KM9.9/M-KM42
+	CLEHA1
+		Images:	19269
+		Time:	07.12.2025 05:34:53 until 07.12.2025 11:30:56
+		Duration:	05:56:03
+		Location:	1.28972 103.85327
+
+	CREC1
+		Images:	40422
+		Time:	07.12.2025 05:33:07 until 07.12.2025 11:33:26
+		Duration:	06:00:19
+		Location:	1.28972 103.85327
+
+	CTYO1
+		Images:	5268
+		Time:	07.12.2025 05:25:34 until 07.12.2025 11:29:35
+		Duration:	06:04:01
+		Location:	1.28972 103.85327
+
+(7) - East Coast Park - M-KM19.5/KM28
+	AMVV1
+		Images:	10165
+		Time:	07.12.2025 04:06:56 until 07.12.2025 08:52:10
+		Duration:	04:45:14
+		Location:	1.29638 103.89841
+
+	AMVV1LS1
+		Images:	5331
+		Time:	07.12.2025 03:12:13 until 07.12.2025 09:12:52
+		Duration:	06:00:39
+		Location:	1.29638 103.89841
+
+	ANTT1
+		Images:	15098
+		Time:	07.12.2025 03:45:24 until 07.12.2025 09:03:03
+		Duration:	05:17:39
+		Location:	1.29638 103.89841
+
+	ANTT1LS1
+		Images:	7381
+		Time:	07.12.2025 03:31:13 until 07.12.2025 09:03:18
+		Duration:	05:32:05
+		Location:	1.29638 103.89841
+
+	ECHTE2
+		Images:	812
+		Time:	07.12.2025 08:24:52 until 07.12.2025 09:02:49
+		Duration:	00:37:57
+		Location:	1.29638 103.89841
+
+(8) - East Coast Park - M-KM21/KM26
+	BNP1
+		Images:	15301
+		Time:	07.12.2025 04:08:16 until 07.12.2025 08:44:08
+		Duration:	04:35:52
+		Location:	1.29993 103.90692
+
+	BNP1LS1
+		Images:	13195
+		Time:	07.12.2025 03:18:17 until 07.12.2025 08:33:59
+		Duration:	05:15:42
+		Location:	1.29993 103.90692
+
+	CANDR1
+		Images:	8586
+		Time:	07.12.2025 04:12:50 until 07.12.2025 09:36:57
+		Duration:	05:24:07
+		Location:	1.29993 103.90692
+
+	CCAH2
+		Images:	649
+		Time:	07.12.2025 08:09:07 until 07.12.2025 08:45:07
+		Duration:	00:36:00
+		Location:	1.29993 103.90692
+
+(9) - Ekiden Changeover Zone 1 - M-KM11.5
+	EVMM1
+		Images:	1940
+		Time:	07.12.2025 03:13:06 until 07.12.2025 05:41:12
+		Duration:	02:28:06
+		Location:	1.27912 103.86045
+
+(10) - Ekiden Changeover Zone 2 - M-KM24
+	CCAH1
+		Images:	1031
+		Time:	07.12.2025 04:42:22 until 07.12.2025 07:03:38
+		Duration:	02:21:16
+		Location:	1.30801 103.93005
+
+(11) - Esplanade Dr - 10K-KM8.2/M-KM9.4
+	DJOSS1
+		Images:	2254
+		Time:	07.12.2025 03:02:51 until 07.12.2025 08:28:43
+		Duration:	05:25:52
+		Location:	1.288 103.85419
+
+	DVLA1
+		Images:	7385
+		Time:	07.12.2025 02:56:36 until 07.12.2025 08:13:48
+		Duration:	05:17:12
+		Location:	1.288 103.85419
+
+	DWIG1
+		Images:	9826
+		Time:	07.12.2025 02:53:19 until 07.12.2025 08:12:39
+		Duration:	05:19:20
+		Location:	1.288 103.85419
+
+(12) - Finish
+	AGIP1
+		Images:	30
+		Time:	07.12.2025 09:51:41 until 07.12.2025 09:53:47
+		Duration:	00:02:06
+		Location:	1.28989 103.85298
+
+	AGIP1DRONE2
+		Images:	19
+		Time:	07.12.2025 08:18:35 until 07.12.2025 08:49:43
+		Duration:	00:31:08
+		Location:	1.28989 103.85298
+
+	AGIP1LS1
+		Images:	3031
+		Time:	07.12.2025 05:52:26 until 07.12.2025 08:57:37
+		Duration:	03:05:11
+		Location:	1.28989 103.85298
+
+	AGIP1LS2
+		Images:	6020
+		Time:	07.12.2025 05:25:47 until 07.12.2025 11:42:24
+		Duration:	06:16:37
+		Location:	1.28989 103.85298
+
+	ARYH2
+		Images:	1021
+		Time:	07.12.2025 09:18:16 until 07.12.2025 11:23:17
+		Duration:	02:05:01
+		Location:	1.28989 103.85298
+
+	ARYT2
+		Images:	2115
+		Time:	07.12.2025 09:46:37 until 07.12.2025 11:23:24
+		Duration:	01:36:47
+		Location:	1.28989 103.85298
+
+	BBXC2
+		Images:	18212
+		Time:	07.12.2025 08:51:36 until 07.12.2025 11:42:22
+		Duration:	02:50:46
+		Location:	1.29059 103.85252
+
+	BLDB2
+		Images:	7930
+		Time:	07.12.2025 08:21:33 until 07.12.2025 10:28:48
+		Duration:	02:07:15
+		Location:	1.29059 103.85252
+
+	BLVM1
+		Images:	17566
+		Time:	07.12.2025 05:35:37 until 07.12.2025 11:38:45
+		Duration:	06:03:08
+		Location:	1.29059 103.85252
+
+	BNNG1
+		Images:	9051
+		Time:	07.12.2025 05:31:13 until 07.12.2025 08:57:04
+		Duration:	03:25:51
+		Location:	1.29059 103.85252
+
+	BNNG1LS1
+		Images:	8870
+		Time:	07.12.2025 05:15:24 until 07.12.2025 11:39:11
+		Duration:	06:23:47
+		Location:	1.29059 103.85252
+
+	BNNG1LS2
+		Images:	5682
+		Time:	07.12.2025 05:00:26 until 07.12.2025 11:39:03
+		Duration:	06:38:37
+		Location:	1.29059 103.85252
+
+	BNTA2
+		Images:	6006
+		Time:	07.12.2025 08:44:47 until 07.12.2025 09:52:35
+		Duration:	01:07:48
+		Location:	1.29059 103.85252
+
+	BTDB1
+		Images:	16443
+		Time:	07.12.2025 04:48:46 until 07.12.2025 10:14:58
+		Duration:	05:26:12
+		Location:	1.29059 103.85252
+
+	BTDB1LS1
+		Images:	13175
+		Time:	07.12.2025 06:05:35 until 07.12.2025 11:43:03
+		Duration:	05:37:28
+		Location:	1.29059 103.85252
+
+	BTNA2
+		Images:	6285
+		Time:	07.12.2025 08:48:45 until 07.12.2025 11:11:41
+		Duration:	02:22:56
+		Location:	1.29059 103.85252
+
+	CLEM1
+		Images:	16017
+		Time:	07.12.2025 05:34:13 until 07.12.2025 11:38:41
+		Duration:	06:04:28
+		Location:	1.29004 103.85185
+
+	CLEM1LS1
+		Images:	5971
+		Time:	07.12.2025 05:04:20 until 07.12.2025 11:20:27
+		Duration:	06:16:07
+		Location:	1.29004 103.85185
+
+	CLEM1LS2
+		Images:	5942
+		Time:	07.12.2025 07:00:40 until 07.12.2025 11:20:27
+		Duration:	04:19:47
+		Location:	1.29004 103.85185
+
+	CMLWH1
+		Images:	7877
+		Time:	07.12.2025 05:08:26 until 07.12.2025 11:01:46
+		Duration:	05:53:20
+		Location:	1.29004 103.85185
+
+	CVW1
+		Images:	10520
+		Time:	07.12.2025 05:35:40 until 07.12.2025 11:38:24
+		Duration:	06:02:44
+		Location:	1.29004 103.85185
+
+	DBIC1LS1
+		Images:	4151
+		Time:	07.12.2025 06:02:42 until 07.12.2025 11:20:27
+		Duration:	05:17:45
+		Location:	1.28995 103.85222
+
+	DJBR1
+		Images:	15204
+		Time:	07.12.2025 05:35:43 until 07.12.2025 11:38:51
+		Duration:	06:03:08
+		Location:	1.28995 103.85222
+
+(13) - Flower Dome - M-KM13/KM33
+	EDCL1
+		Images:	19531
+		Time:	07.12.2025 04:01:06 until 07.12.2025 12:01:29
+		Duration:	08:00:23
+		Location:	1.28525 103.86358
+
+	EDCL1LS1
+		Images:	9058
+		Time:	07.12.2025 06:18:14 until 07.12.2025 12:39:37
+		Duration:	06:21:23
+		Location:	1.28525 103.86358
+
+	EOCH1
+		Images:	11075
+		Time:	07.12.2025 03:50:53 until 07.12.2025 11:36:07
+		Duration:	07:45:14
+		Location:	1.28525 103.86358
+
+	EOCH1LS1
+		Images:	8775
+		Time:	07.12.2025 03:18:16 until 07.12.2025 06:33:49
+		Duration:	03:15:33
+		Location:	1.28525 103.86358
+
+	EOCH1LS2
+		Images:	5768
+		Time:	07.12.2025 06:34:00 until 07.12.2025 10:03:56
+		Duration:	03:29:56
+		Location:	1.28525 103.86358
+
+(14) - Lau Pa Sat - M-KM36/KM41
+	DBUP1
+		Images:	9653
+		Time:	07.12.2025 05:10:08 until 07.12.2025 11:27:14
+		Duration:	06:17:06
+		Location:	1.28083 103.84988
+
+	DYR1
+		Images:	8914
+		Time:	07.12.2025 05:31:23 until 07.12.2025 11:27:54
+		Duration:	05:56:31
+		Location:	1.28083 103.84988
+
+	ELMD2
+		Images:	9018
+		Time:	07.12.2025 06:32:38 until 07.12.2025 11:27:55
+		Duration:	04:55:17
+		Location:	1.28083 103.84988
+
+	ERPB2
+		Images:	10024
+		Time:	07.12.2025 06:35:08 until 07.12.2025 11:27:41
+		Duration:	04:52:33
+		Location:	1.28083 103.84988
+
+(15) - Marina Barrage Dam - M-KM32
+	DMFAZ1
+		Images:	18293
+		Time:	07.12.2025 03:48:54 until 07.12.2025 10:34:14
+		Duration:	06:45:20
+		Location:	1.2816 103.87024
+
+	DPZIE1
+		Images:	13767
+		Time:	07.12.2025 04:48:45 until 07.12.2025 10:26:52
+		Duration:	05:38:07
+		Location:	1.2816 103.87024
+
+(16) - Medals
+	ABB1
+		Images:	7782
+		Time:	07.12.2025 05:05:09 until 07.12.2025 10:31:34
+		Duration:	05:26:25
+		Location:	1.28989 103.85298
+
+	AKIK2
+		Images:	2531
+		Time:	06.12.2025 09:03:19 until 06.12.2025 11:29:35
+		Duration:	02:26:16
+		Location:	1.28989 103.85298
+
+	AKTA1
+		Images:	3674
+		Time:	07.12.2025 06:08:33 until 07.12.2025 11:31:16
+		Duration:	05:22:43
+		Location:	1.28989 103.85298
+
+	AYH2
+		Images:	965
+		Time:	07.12.2025 09:03:23 until 07.12.2025 11:39:29
+		Duration:	02:36:06
+		Location:	1.28989 103.85298
+
+	CBRPE1
+		Images:	2167
+		Time:	07.12.2025 06:08:29 until 07.12.2025 10:26:30
+		Duration:	04:18:01
+		Location:	1.29004 103.85185
+
+	CCAH3
+		Images:	93
+		Time:	07.12.2025 10:32:38 until 07.12.2025 10:45:15
+		Duration:	00:12:37
+		Location:	1.29004 103.85185
+
+	CROH1
+		Images:	10419
+		Time:	07.12.2025 05:12:15 until 07.12.2025 11:39:39
+		Duration:	06:27:24
+		Location:	1.29004 103.85185
+
+	DBIC1
+		Images:	6263
+		Time:	07.12.2025 05:47:26 until 07.12.2025 09:58:20
+		Duration:	04:10:54
+		Location:	1.28995 103.85222
+
+	DVLA2
+		Images:	2405
+		Time:	07.12.2025 08:33:45 until 07.12.2025 11:41:28
+		Duration:	03:07:43
+		Location:	1.28995 103.85222
+
+	ECAA2
+		Images:	924
+		Time:	07.12.2025 10:27:40 until 07.12.2025 11:28:18
+		Duration:	01:00:38
+		Location:	1.29026 103.84993
+
+(17) - Merdeka Bridge - 10K-KM5.5/M-KM7
+	BBXC1
+		Images:	29538
+		Time:	07.12.2025 03:18:20 until 07.12.2025 07:23:19
+		Duration:	04:04:59
+		Location:	1.30427 103.86855
+
+	BTNA1
+		Images:	22000
+		Time:	07.12.2025 03:29:18 until 07.12.2025 07:32:11
+		Duration:	04:02:53
+		Location:	1.30427 103.86855
+
+(18) - Mountbatten Rd - M-KM5.5
+	ELMD1
+		Images:	3654
+		Time:	07.12.2025 03:29:42 until 07.12.2025 05:04:53
+		Duration:	01:35:11
+		Location:	1.30708 103.88
+
+	ERPB1
+		Images:	3253
+		Time:	07.12.2025 03:36:56 until 07.12.2025 05:04:53
+		Duration:	01:27:57
+		Location:	1.30708 103.88
+
+(19) - Nicoll Hwy Station - 10K-KM7.3/M-KM8.5
+	ARSK1
+		Images:	8561
+		Time:	07.12.2025 03:29:05 until 07.12.2025 07:51:05
+		Duration:	04:22:00
+		Location:	1.30057 103.86061
+
+	ARYH1
+		Images:	6522
+		Time:	07.12.2025 03:44:05 until 07.12.2025 07:51:53
+		Duration:	04:07:48
+		Location:	1.30057 103.86061
+
+	ARYT1
+		Images:	12839
+		Time:	07.12.2025 03:49:22 until 07.12.2025 09:46:36
+		Duration:	05:57:14
+		Location:	1.30057 103.86061
+
+(20) - Republic Ave - 10K/M-KM1.5
+	ECAA1
+		Images:	3195
+		Time:	07.12.2025 02:49:02 until 07.12.2025 06:40:18
+		Duration:	03:51:16
+		Location:	1.30341 103.86680
+
+	ECHTE1
+		Images:	4558
+		Time:	07.12.2025 03:28:40 until 07.12.2025 06:39:19
+		Duration:	03:10:39
+		Location:	1.30341 103.86680
+
+	EJMAO1
+		Images:	4947
+		Time:	07.12.2025 02:52:54 until 07.12.2025 08:13:57
+		Duration:	05:21:03
+		Location:	1.30341 103.86680
+
+	EJMAO1LS1
+		Images:	1032
+		Time:	07.12.2025 03:32:44 until 07.12.2025 06:16:04
+		Duration:	02:43:20
+		Location:	1.30341 103.86680
+
+(21) - Start
+	AHTT1
+		Images:	5363
+		Time:	07.12.2025 02:56:39 until 07.12.2025 06:19:35
+		Duration:	03:22:56
+		Location:	1.29243 103.86399
+
+(22) - Suntec City - 10K-KM7.7/M-KM8.9
+	AKIK1
+		Images:	4853
+		Time:	06.12.2025 03:47:58 until 06.12.2025 08:06:50
+		Duration:	04:18:52
+		Location:	1.29291 103.85329
+
+	AYH1
+		Images:	5981
+		Time:	07.12.2025 03:27:38 until 07.12.2025 07:54:53
+		Duration:	04:27:15
+		Location:	1.29291 103.85329
+

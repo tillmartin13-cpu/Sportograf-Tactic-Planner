@@ -1,0 +1,366 @@
+EventId: 14850
+Spots: 59
+Total Images: 189525
+Time:	25.03.2025 06:52:17 to 25.04.2025 20:49:14
+Duration: 31.13:56:57
+
+(1) - IMP
+	MANR1
+		Images:	219
+		Time:	25.04.2025 09:00:29 until 25.04.2025 17:58:54
+		Duration:	08:58:25
+		Location:	41.35467 2.13499
+
+	TGM1
+		Images:	150
+		Time:	25.04.2025 09:20:33 until 25.04.2025 10:16:42
+		Duration:	00:56:09
+		Location:	41.35467 2.13499
+
+	JLTG1
+		Images:	522
+		Time:	25.04.2025 08:49:02 until 25.04.2025 10:57:13
+		Duration:	02:08:11
+		Location:	41.35467 2.13499
+
+(2) - SKIERG
+	OSR1
+		Images:	4863
+		Time:	24.04.2025 21:23:25 until 25.04.2025 15:10:14
+		Duration:	17:46:49
+		Location:	41.35467 2.13499
+
+	MIFP1
+		Images:	4779
+		Time:	25.04.2025 08:11:41 until 25.04.2025 15:07:44
+		Duration:	06:56:03
+		Location:	41.35467 2.13499
+
+	RAVE1
+		Images:	16619
+		Time:	25.04.2025 07:46:09 until 25.04.2025 15:00:31
+		Duration:	07:14:22
+		Location:	41.35467 2.13499
+
+	AFGA2
+		Images:	3211
+		Time:	25.04.2025 15:34:40 until 25.04.2025 19:01:44
+		Duration:	03:27:04
+		Location:	41.35467 2.13499
+
+	CJL2
+		Images:	4263
+		Time:	25.04.2025 15:35:27 until 25.04.2025 19:01:02
+		Duration:	03:25:35
+		Location:	41.35467 2.13499
+
+	FRZ2
+		Images:	5592
+		Time:	25.04.2025 15:35:05 until 25.04.2025 18:59:56
+		Duration:	03:24:51
+		Location:	41.35467 2.13499
+
+	JLTG6
+		Images:	732
+		Time:	25.04.2025 15:15:32 until 25.04.2025 16:57:11
+		Duration:	01:41:39
+		Location:	41.35467 2.13499
+
+	TGM7
+		Images:	194
+		Time:	25.04.2025 15:07:41 until 25.04.2025 15:20:23
+		Duration:	00:12:42
+		Location:	41.35467 2.13499
+
+(3) - SLED PUSH
+	AFGA1
+		Images:	3274
+		Time:	25.04.2025 08:09:09 until 25.04.2025 15:29:02
+		Duration:	07:19:53
+		Location:	41.35467 2.13499
+
+	CJL1
+		Images:	3911
+		Time:	25.04.2025 08:06:52 until 25.04.2025 15:30:28
+		Duration:	07:23:36
+		Location:	41.35467 2.13499
+
+	FRZ1
+		Images:	9265
+		Time:	25.04.2025 06:56:10 until 25.04.2025 15:30:26
+		Duration:	08:34:16
+		Location:	41.35467 2.13499
+
+	JIA2
+		Images:	701
+		Time:	25.04.2025 16:18:00 until 25.04.2025 19:10:34
+		Duration:	02:52:34
+		Location:	41.35467 2.13499
+
+	EGO2
+		Images:	2373
+		Time:	25.04.2025 15:33:25 until 25.04.2025 19:13:27
+		Duration:	03:40:02
+		Location:	41.35467 2.13499
+
+	TGM10
+		Images:	91
+		Time:	25.04.2025 17:00:29 until 25.04.2025 17:17:24
+		Duration:	00:16:55
+		Location:	41.35467 2.13499
+
+	JMO2
+		Images:	2107
+		Time:	25.04.2025 15:35:07 until 25.04.2025 19:11:05
+		Duration:	03:35:58
+		Location:	41.35467 2.13499
+
+(4) - SLED PULL
+	JCR1
+		Images:	1844
+		Time:	25.04.2025 07:45:47 until 25.04.2025 15:10:38
+		Duration:	07:24:51
+		Location:	41.35467 2.13499
+
+	MBP1
+		Images:	2509
+		Time:	25.04.2025 08:04:34 until 25.04.2025 15:17:48
+		Duration:	07:13:14
+		Location:	41.35467 2.13499
+
+	MIFP2
+		Images:	3169
+		Time:	25.04.2025 15:22:13 until 25.04.2025 19:23:54
+		Duration:	04:01:41
+		Location:	41.35467 2.13499
+
+	RAVE2
+		Images:	6536
+		Time:	25.04.2025 15:03:58 until 25.04.2025 19:19:09
+		Duration:	04:15:11
+		Location:	41.35467 2.13499
+
+	OSR2
+		Images:	2084
+		Time:	25.04.2025 15:25:25 until 25.04.2025 19:26:38
+		Duration:	04:01:13
+		Location:	41.35467 2.13499
+
+	EGO1
+		Images:	5308
+		Time:	25.04.2025 08:05:49 until 25.04.2025 15:21:10
+		Duration:	07:15:21
+		Location:	41.35467 2.13499
+
+(5) - ROWING
+	MRAB1
+		Images:	6986
+		Time:	25.04.2025 07:48:44 until 25.04.2025 15:33:33
+		Duration:	07:44:49
+		Location:	41.35467 2.13499
+
+	MCAS2
+		Images:	8881
+		Time:	25.04.2025 15:38:13 until 25.04.2025 20:03:50
+		Duration:	04:25:37
+		Location:	41.35467 2.13499
+
+	MBP2
+		Images:	2673
+		Time:	25.04.2025 15:23:39 until 25.04.2025 19:58:30
+		Duration:	04:34:51
+		Location:	41.35467 2.13499
+
+	URU1
+		Images:	12958
+		Time:	25.04.2025 07:55:35 until 25.04.2025 15:22:43
+		Duration:	07:27:08
+		Location:	41.35467 2.13499
+
+	JLTG2
+		Images:	322
+		Time:	25.04.2025 10:59:18 until 25.04.2025 11:09:44
+		Duration:	00:10:26
+		Location:	41.35467 2.13499
+
+	JLTG3
+		Images:	241
+		Time:	25.04.2025 11:09:49 until 25.04.2025 11:35:45
+		Duration:	00:25:56
+		Location:	41.35467 2.13499
+
+	TGM2
+		Images:	301
+		Time:	25.04.2025 11:12:17 until 25.04.2025 11:48:06
+		Duration:	00:35:49
+		Location:	41.35467 2.13499
+
+	JLTG5
+		Images:	611
+		Time:	25.04.2025 14:15:22 until 25.04.2025 15:11:37
+		Duration:	00:56:15
+		Location:	41.35467 2.13499
+
+	TGM5
+		Images:	288
+		Time:	25.04.2025 14:07:48 until 25.04.2025 14:40:17
+		Duration:	00:32:29
+		Location:	41.35467 2.13499
+
+(6) - SANDBAG
+	JRD1
+		Images:	8681
+		Time:	25.04.2025 07:55:08 until 25.04.2025 15:20:08
+		Duration:	07:25:00
+		Location:	41.35467 2.13499
+
+	JCR2
+		Images:	3292
+		Time:	25.04.2025 15:22:38 until 25.04.2025 20:27:11
+		Duration:	05:04:33
+		Location:	41.35467 2.13499
+
+	TGM6
+		Images:	58
+		Time:	25.04.2025 14:48:57 until 25.04.2025 14:57:26
+		Duration:	00:08:29
+		Location:	41.35467 2.13499
+
+	TGM9
+		Images:	37
+		Time:	25.04.2025 16:45:11 until 25.04.2025 16:52:22
+		Duration:	00:07:11
+		Location:	41.35467 2.13499
+
+(7) - WALL BALLS
+	MCAS1
+		Images:	8544
+		Time:	25.04.2025 08:09:24 until 25.04.2025 15:29:58
+		Duration:	07:20:34
+		Location:	41.35467 2.13499
+
+	MRAB2
+		Images:	5624
+		Time:	25.04.2025 11:40:48 until 25.04.2025 20:21:29
+		Duration:	08:40:41
+		Location:	41.35467 2.13499
+
+	JMO1
+		Images:	7163
+		Time:	25.04.2025 08:13:51 until 25.04.2025 15:24:44
+		Duration:	07:10:53
+		Location:	41.35467 2.13499
+
+	URU2
+		Images:	3944
+		Time:	25.04.2025 15:29:19 until 25.04.2025 20:45:49
+		Duration:	05:16:30
+		Location:	41.35467 2.13499
+
+	JLTG7
+		Images:	1906
+		Time:	25.04.2025 16:57:35 until 25.04.2025 19:09:33
+		Duration:	02:11:58
+		Location:	41.35467 2.13499
+
+	JLTG4
+		Images:	537
+		Time:	25.04.2025 11:45:34 until 25.04.2025 14:12:47
+		Duration:	02:27:13
+		Location:	41.35467 2.13499
+
+	TGM3
+		Images:	227
+		Time:	25.04.2025 11:50:14 until 25.04.2025 12:18:06
+		Duration:	00:27:52
+		Location:	41.35467 2.13499
+
+	TGM8
+		Images:	35
+		Time:	25.04.2025 15:25:19 until 25.04.2025 16:18:49
+		Duration:	00:53:30
+		Location:	41.35467 2.13499
+
+	TGM11
+		Images:	189
+		Time:	25.04.2025 17:29:18 until 25.04.2025 17:59:01
+		Duration:	00:29:43
+		Location:	41.35467 2.13499
+
+(8) - FARMERS CARRY
+	TGM1LS1
+		Images:	7756
+		Time:	25.04.2025 08:33:33 until 25.04.2025 20:15:17
+		Duration:	11:41:44
+		Location:	41.35467 2.13499
+
+	MANR1LS1
+		Images:	4983
+		Time:	25.04.2025 08:38:51 until 25.04.2025 20:15:45
+		Duration:	11:36:54
+		Location:	41.35467 2.13499
+
+(9) - Finish
+	JIA1
+		Images:	3127
+		Time:	25.04.2025 08:07:31 until 25.04.2025 15:36:55
+		Duration:	07:29:24
+		Location:	41.35467 2.13499
+
+	STO2
+		Images:	4767
+		Time:	25.04.2025 15:37:16 until 25.04.2025 20:48:26
+		Duration:	05:11:10
+		Location:	41.35467 2.13499
+
+	JLTG8
+		Images:	143
+		Time:	25.04.2025 11:36:29 until 25.04.2025 11:42:11
+		Duration:	00:05:42
+		Location:	41.35467 2.13499
+
+	TGM4
+		Images:	231
+		Time:	25.04.2025 12:27:04 until 25.04.2025 12:57:02
+		Duration:	00:29:58
+		Location:	41.35467 2.13499
+
+	TGM12
+		Images:	279
+		Time:	25.04.2025 18:12:56 until 25.04.2025 18:43:42
+		Duration:	00:30:46
+		Location:	41.35467 2.13499
+
+	JLTG1LS1
+		Images:	2578
+		Time:	25.03.2025 06:52:17 until 25.03.2025 19:47:30
+		Duration:	12:55:13
+		Location:	41.35467 2.13499
+
+	TGM1LS2
+		Images:	2850
+		Time:	25.04.2025 07:48:30 until 25.04.2025 20:48:50
+		Duration:	13:00:20
+		Location:	41.35467 2.13499
+
+(10) - HERO WALL
+	STO1
+		Images:	1326
+		Time:	25.04.2025 07:36:32 until 25.04.2025 15:36:36
+		Duration:	08:00:04
+		Location:	41.35467 2.13499
+
+	JRD2
+		Images:	1390
+		Time:	25.04.2025 15:26:29 until 25.04.2025 20:49:14
+		Duration:	05:22:45
+		Location:	41.35467 2.13499
+
+	STO3
+		Images:	2281
+		Time:	25.04.2025 08:10:03 until 25.04.2025 20:43:42
+		Duration:	12:33:39
+		Location:	41.35467 2.13499
+
+(11) - Impressions / Pano
+	PANO1

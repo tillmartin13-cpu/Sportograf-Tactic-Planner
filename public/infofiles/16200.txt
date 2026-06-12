@@ -1,0 +1,280 @@
+EventId: 16200
+Spots: 44
+Total Images: 140247
+Time:	01.01.0001 23:00:00 to 29.11.2025 20:40:42
+Duration: 739582.21:40:42
+
+(1) - Finish
+	EGG1
+		Images:	2940
+		Time:	29.11.2025 07:59:21 until 29.11.2025 13:14:53
+		Duration:	05:15:32
+		Location:	NULL NULL
+
+	PM1LS1
+		Images:	2078
+		Time:	29.11.2025 06:55:11 until 29.11.2025 20:40:42
+		Duration:	13:45:31
+		Location:	NULL NULL
+
+	DANG1LS1
+		Images:	2664
+		Time:	29.11.2025 07:19:02 until 29.11.2025 20:40:33
+		Duration:	13:21:31
+		Location:	NULL NULL
+
+	DANG3
+		Images:	4702
+		Time:	29.11.2025 09:18:45 until 29.11.2025 20:32:17
+		Duration:	11:13:32
+		Location:	NULL NULL
+
+	FO2
+		Images:	3772
+		Time:	29.11.2025 13:25:32 until 29.11.2025 17:32:26
+		Duration:	04:06:54
+		Location:	NULL NULL
+
+(2) - Medalwall
+	EGG2
+		Images:	2953
+		Time:	29.11.2025 13:21:26 until 29.11.2025 20:37:50
+		Duration:	07:16:24
+		Location:	NULL NULL
+
+	FO1
+		Images:	3027
+		Time:	29.11.2025 07:48:40 until 29.11.2025 20:34:28
+		Duration:	12:45:48
+		Location:	NULL NULL
+
+	NIJA3
+		Images:	125
+		Time:	29.11.2025 12:14:36 until 29.11.2025 12:26:50
+		Duration:	00:12:14
+		Location:	NULL NULL
+
+(3) - Station 1 Skierg
+	PM1
+		Images:	6305
+		Time:	29.11.2025 07:03:28 until 29.11.2025 12:59:48
+		Duration:	05:56:20
+		Location:	NULL NULL
+
+	DANG1
+		Images:	1819
+		Time:	29.11.2025 08:03:30 until 29.11.2025 14:11:13
+		Duration:	06:07:43
+		Location:	NULL NULL
+
+	LMLS1
+		Images:	4978
+		Time:	29.11.2025 06:54:05 until 29.11.2025 13:11:58
+		Duration:	06:17:53
+		Location:	NULL NULL
+
+	NIJA1
+		Images:	3049
+		Time:	29.11.2025 08:04:51 until 29.11.2025 13:16:19
+		Duration:	05:11:28
+		Location:	NULL NULL
+
+	SAM2
+		Images:	7183
+		Time:	29.11.2025 13:15:47 until 29.11.2025 18:54:45
+		Duration:	05:38:58
+		Location:	NULL NULL
+
+	ABRE2
+		Images:	4748
+		Time:	29.11.2025 13:15:51 until 29.11.2025 18:58:50
+		Duration:	05:42:59
+		Location:	NULL NULL
+
+(4) - Station 2 Sled Push
+	IVPA1
+		Images:	2078
+		Time:	29.11.2025 07:01:54 until 29.11.2025 13:10:49
+		Duration:	06:08:55
+		Location:	NULL NULL
+
+	GAPA1
+		Images:	1282
+		Time:	29.11.2025 07:15:51 until 29.11.2025 13:06:17
+		Duration:	05:50:26
+		Location:	NULL NULL
+
+	SGD1
+		Images:	1693
+		Time:	29.11.2025 07:00:47 until 29.11.2025 12:15:18
+		Duration:	05:14:31
+		Location:	NULL NULL
+
+	MATS2
+		Images:	2010
+		Time:	29.11.2025 13:01:34 until 29.11.2025 19:10:58
+		Duration:	06:09:24
+		Location:	NULL NULL
+
+	HGU2
+		Images:	1489
+		Time:	29.11.2025 13:20:05 until 29.11.2025 19:09:45
+		Duration:	05:49:40
+		Location:	NULL NULL
+
+	EMAG2
+		Images:	974
+		Time:	29.11.2025 13:21:23 until 29.11.2025 19:10:45
+		Duration:	05:49:22
+		Location:	NULL NULL
+
+(5) - Station 3 Sled Pull
+	IVPA2
+		Images:	1740
+		Time:	29.11.2025 13:15:09 until 29.11.2025 19:23:13
+		Duration:	06:08:04
+		Location:	NULL NULL
+
+	GAPA2
+		Images:	1950
+		Time:	29.11.2025 13:08:01 until 29.11.2025 19:27:22
+		Duration:	06:19:21
+		Location:	NULL NULL
+
+	SGD2
+		Images:	1882
+		Time:	29.11.2025 13:02:20 until 29.11.2025 19:25:35
+		Duration:	06:23:15
+		Location:	NULL NULL
+
+	MATS1
+		Images:	1901
+		Time:	29.11.2025 07:03:36 until 29.11.2025 12:49:45
+		Duration:	05:46:09
+		Location:	NULL NULL
+
+	HGU1
+		Images:	2077
+		Time:	28.11.2025 22:24:40 until 29.11.2025 13:19:17
+		Duration:	14:54:37
+		Location:	NULL NULL
+
+	EMAG1
+		Images:	1041
+		Time:	29.11.2025 07:12:47 until 29.11.2025 13:20:22
+		Duration:	06:07:35
+		Location:	NULL NULL
+
+(6) - Station 5 Rowing
+	LMLS2
+		Images:	5143
+		Time:	29.11.2025 13:17:22 until 29.11.2025 19:53:47
+		Duration:	06:36:25
+		Location:	NULL NULL
+
+	DAP1
+		Images:	5125
+		Time:	29.11.2025 07:07:15 until 29.11.2025 12:55:16
+		Duration:	05:48:01
+		Location:	NULL NULL
+
+	PHM1
+		Images:	1987
+		Time:	01.01.0001 23:00:00 until 29.11.2025 13:00:29
+		Duration:	739582.14:00:29
+		Location:	NULL NULL
+
+	MAT1
+		Images:	6590
+		Time:	29.11.2025 07:58:28 until 29.11.2025 16:59:55
+		Duration:	09:01:27
+		Location:	NULL NULL
+
+	VAR2
+		Images:	4336
+		Time:	29.11.2025 13:09:44 until 29.11.2025 19:50:51
+		Duration:	06:41:07
+		Location:	NULL NULL
+
+(7) - none
+	MAT1LS1
+		Images:	2295
+		Time:	29.11.2025 07:25:19 until 29.11.2025 20:40:21
+		Duration:	13:15:02
+		Location:	NULL NULL
+
+(8) - Station 6 Farmers Carry
+	EGG1LS1
+		Images:	2270
+		Time:	29.11.2025 07:11:13 until 29.11.2025 20:18:42
+		Duration:	13:07:29
+		Location:	NULL NULL
+
+	FO1LS1
+		Images:	2274
+		Time:	29.11.2025 07:07:42 until 29.11.2025 20:18:56
+		Duration:	13:11:14
+		Location:	NULL NULL
+
+	SAM1LS1
+		Images:	2412
+		Time:	29.11.2025 07:43:09 until 29.11.2025 19:35:57
+		Duration:	11:52:48
+		Location:	NULL NULL
+
+(9) - Station 7 Sandbag Lunges
+	PM2
+		Images:	5426
+		Time:	29.11.2025 13:08:02 until 29.11.2025 20:13:49
+		Duration:	07:05:47
+		Location:	NULL NULL
+
+	MAT2
+		Images:	4811
+		Time:	29.11.2025 08:34:13 until 29.11.2025 19:17:29
+		Duration:	10:43:16
+		Location:	NULL NULL
+
+	SAM1
+		Images:	6299
+		Time:	29.11.2025 07:49:10 until 29.11.2025 13:07:28
+		Duration:	05:18:18
+		Location:	NULL NULL
+
+(10) - Station 8 Wall Balls
+	DAP2
+		Images:	4922
+		Time:	29.11.2025 13:04:12 until 29.11.2025 20:35:21
+		Duration:	07:31:09
+		Location:	NULL NULL
+
+	PHM2
+		Images:	1614
+		Time:	29.11.2025 13:16:11 until 29.11.2025 20:35:42
+		Duration:	07:19:31
+		Location:	NULL NULL
+
+	DANG2
+		Images:	3893
+		Time:	29.11.2025 08:34:38 until 29.11.2025 19:53:53
+		Duration:	11:19:15
+		Location:	NULL NULL
+
+	NIJA2
+		Images:	5390
+		Time:	29.11.2025 08:33:26 until 29.11.2025 19:57:28
+		Duration:	11:24:02
+		Location:	NULL NULL
+
+	ABRE1
+		Images:	2293
+		Time:	29.11.2025 07:01:08 until 29.11.2025 13:08:43
+		Duration:	06:07:35
+		Location:	NULL NULL
+
+	VAR1
+		Images:	2707
+		Time:	29.11.2025 08:03:31 until 29.11.2025 13:01:30
+		Duration:	04:57:59
+		Location:	NULL NULL
+

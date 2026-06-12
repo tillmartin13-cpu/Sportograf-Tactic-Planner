@@ -1,0 +1,102 @@
+EventId: 14835
+Spots: 15
+Total Images: 9779
+Time:	12.03.2025 16:50:00 to 12.03.2025 19:29:56
+Duration: 02:39:56
+
+(1) - Run
+	PARO10
+		Images:	1032
+		Time:	12.03.2025 16:55:34 until 12.03.2025 19:09:01
+		Duration:	02:13:27
+		Location:	55.86124 -4.28870
+
+(2) - SkiErg
+	BKO1
+		Images:	1995
+		Time:	12.03.2025 16:50:00 until 12.03.2025 18:38:42
+		Duration:	01:48:42
+		Location:	55.86124 -4.28870
+
+(3) - Sled Push
+	PARO2
+		Images:	310
+		Time:	12.03.2025 17:12:54 until 12.03.2025 18:45:15
+		Duration:	01:32:21
+		Location:	55.86124 -4.28870
+
+	BKO2
+		Images:	601
+		Time:	12.03.2025 17:12:59 until 12.03.2025 18:45:15
+		Duration:	01:32:16
+		Location:	55.86124 -4.28870
+
+(4) - Sled Pull
+	PARO3
+		Images:	434
+		Time:	12.03.2025 17:18:42 until 12.03.2025 18:51:59
+		Duration:	01:33:17
+		Location:	55.86124 -4.28870
+
+	BKO3
+		Images:	430
+		Time:	12.03.2025 17:20:45 until 12.03.2025 18:51:50
+		Duration:	01:31:05
+		Location:	55.86124 -4.28870
+
+(5) - Burpeee Jumps
+	PARO4
+		Images:	296
+		Time:	12.03.2025 17:25:58 until 12.03.2025 18:59:00
+		Duration:	01:33:02
+		Location:	55.86124 -4.28870
+
+	BKO4
+		Images:	391
+		Time:	12.03.2025 17:28:35 until 12.03.2025 18:58:46
+		Duration:	01:30:11
+		Location:	55.86124 -4.28870
+
+(6) - Rowing
+	BKO5
+		Images:	1051
+		Time:	12.03.2025 17:34:15 until 12.03.2025 19:06:07
+		Duration:	01:31:52
+		Location:	55.86124 -4.28870
+
+(7) - Farmers Carry
+	BKO6
+		Images:	233
+		Time:	12.03.2025 17:43:13 until 12.03.2025 19:11:29
+		Duration:	01:28:16
+		Location:	55.86124 -4.28870
+
+(8) - Sandbag Lunges
+	PARO7
+		Images:	521
+		Time:	12.03.2025 17:45:44 until 12.03.2025 19:19:54
+		Duration:	01:34:10
+		Location:	55.86124 -4.28870
+
+	BKO7
+		Images:	347
+		Time:	12.03.2025 17:50:56 until 12.03.2025 19:18:20
+		Duration:	01:27:24
+		Location:	55.86124 -4.28870
+
+(9) - Wall Balls
+	BKO8
+		Images:	1530
+		Time:	12.03.2025 17:54:30 until 12.03.2025 19:29:49
+		Duration:	01:35:19
+		Location:	55.86124 -4.28870
+
+(10) - Finish
+	PARO9
+		Images:	608
+		Time:	12.03.2025 17:56:49 until 12.03.2025 19:29:56
+		Duration:	01:33:07
+		Location:	55.86124 -4.28870
+
+(11) - Impressions / Pano
+	PANO1

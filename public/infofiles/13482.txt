@@ -1,0 +1,79 @@
+EventId: 13482
+Spots: 11
+Total Images: 39236
+Time:	26.10.2025 05:32:48 to 26.10.2025 15:41:43
+Duration: 10:08:55
+
+(1) - Bike - 13.0 km
+	FIRO1
+		Images:	2608
+		Time:	26.10.2025 07:41:47 until 26.10.2025 12:35:07
+		Duration:	04:53:20
+		Location:	NULL NULL
+
+(2) - Swim - Transition zone
+	GAMA1
+		Images:	2698
+		Time:	26.10.2025 07:09:15 until 26.10.2025 09:11:52
+		Duration:	02:02:37
+		Location:	NULL NULL
+
+(3) - Finish
+	GAMA2
+		Images:	4501
+		Time:	26.10.2025 10:26:55 until 26.10.2025 15:41:43
+		Duration:	05:14:48
+		Location:	NULL NULL
+
+	GAT2
+		Images:	3896
+		Time:	26.10.2025 11:13:49 until 26.10.2025 15:38:43
+		Duration:	04:24:54
+		Location:	NULL NULL
+
+	GAT2LS1
+		Images:	1430
+		Time:	26.10.2025 08:42:32 until 26.10.2025 15:39:26
+		Duration:	06:56:54
+		Location:	NULL NULL
+
+	CC2
+		Images:	3730
+		Time:	26.10.2025 10:46:20 until 26.10.2025 15:21:00
+		Duration:	04:34:40
+		Location:	NULL NULL
+
+(4) - Swim - Start
+	GAT1
+		Images:	2156
+		Time:	26.10.2025 05:58:37 until 26.10.2025 07:18:08
+		Duration:	01:19:31
+		Location:	NULL NULL
+
+(5) - Bike - 32.0 km
+	MLU1
+		Images:	8359
+		Time:	26.10.2025 06:21:35 until 26.10.2025 12:12:50
+		Duration:	05:51:15
+		Location:	NULL NULL
+
+	MLU1LS1
+		Images:	2069
+		Time:	26.10.2025 09:08:09 until 26.10.2025 12:18:37
+		Duration:	03:10:28
+		Location:	NULL NULL
+
+(6) - Bike - Transition zone
+	CC1
+		Images:	3810
+		Time:	26.10.2025 07:20:48 until 26.10.2025 08:39:43
+		Duration:	01:18:55
+		Location:	NULL NULL
+
+(7) - Run - 5.0 km
+	AMU1
+		Images:	3979
+		Time:	26.10.2025 05:32:48 until 26.10.2025 14:54:50
+		Duration:	09:22:02
+		Location:	NULL NULL
+

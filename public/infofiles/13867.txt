@@ -1,0 +1,88 @@
+EventId: 13867
+Spots: 12
+Total Images: 47153
+Time:	23.05.2025 18:51:13 to 24.05.2025 21:30:55
+Duration: 1.02:39:42
+
+(1) - Start
+	BK1
+		Images:	2646
+		Time:	24.05.2025 07:18:00 until 24.05.2025 09:26:56
+		Duration:	02:08:56
+		Location:	53.06629 8.84509
+
+	SZ1
+		Images:	1297
+		Time:	24.05.2025 07:30:31 until 24.05.2025 14:37:53
+		Duration:	07:07:22
+		Location:	53.06629 8.84509
+
+(2) - Impressions / Pano
+	BK1DRONE1
+		Images:	19
+		Time:	24.05.2025 08:14:05 until 24.05.2025 08:18:44
+		Duration:	00:04:39
+		Location:	53.06629 8.84509
+
+(3) - KM 2.0 Weser
+	PDD1
+		Images:	3324
+		Time:	24.05.2025 07:32:44 until 24.05.2025 10:08:19
+		Duration:	02:35:35
+		Location:	53.05557 8.85629
+
+(4) - KM 3,8 Wehrstrasse
+	MNO1
+		Images:	8250
+		Time:	24.05.2025 07:29:22 until 24.05.2025 10:17:52
+		Duration:	02:48:30
+		Location:	53.05030 8.86169
+
+(5) - KM 5,1 Arster Weserdeich
+	JKOR1
+		Images:	7875
+		Time:	23.05.2025 18:51:13 until 24.05.2025 10:43:53
+		Duration:	15:52:40
+		Location:	53.03204 8.86179
+
+(6) - KM 37,0 Airport
+	PDD2
+		Images:	4081
+		Time:	24.05.2025 11:59:43 until 24.05.2025 18:25:52
+		Duration:	06:26:09
+		Location:	53.04826 8.75976
+
+(7) - KM 45,6 Fahrradbrücke
+	JKOR2
+		Images:	5444
+		Time:	24.05.2025 12:44:44 until 24.05.2025 20:30:30
+		Duration:	07:45:46
+		Location:	53.06298 8.81041
+
+(8) - Bogen vorm Ziel
+	BK2
+		Images:	1019
+		Time:	24.05.2025 16:32:10 until 24.05.2025 17:34:38
+		Duration:	01:02:28
+		Location:	53.06629 8.84509
+
+(9) - Finish
+	MNO2
+		Images:	10883
+		Time:	24.05.2025 14:03:40 until 24.05.2025 21:30:55
+		Duration:	07:27:15
+		Location:	53.06626 8.84501
+
+	BK1LS1
+		Images:	1179
+		Time:	24.05.2025 14:15:35 until 24.05.2025 20:42:51
+		Duration:	06:27:16
+		Location:	53.06626 8.84501
+
+(10) - Herotent
+	SZ2
+		Images:	1136
+		Time:	24.05.2025 14:47:10 until 24.05.2025 21:20:42
+		Duration:	06:33:32
+		Location:	53.06626 8.84501
+

@@ -1,0 +1,33 @@
+EventId: 15953
+Spots: 5
+Total Images: 6807
+Time:	25.04.2025 18:40:16 to 25.04.2025 20:49:25
+Duration: 02:09:09
+
+(1) - Impressions / Pano
+	PANO1
+(2) - 0.0 km
+	MIKO1
+		Images:	1456
+		Time:	25.04.2025 19:50:32 until 25.04.2025 20:41:29
+		Duration:	00:50:57
+		Location:	NULL NULL
+
+	ZABE1
+		Images:	1684
+		Time:	25.04.2025 19:30:11 until 25.04.2025 20:29:25
+		Duration:	00:59:14
+		Location:	NULL NULL
+
+	ANGR1
+		Images:	944
+		Time:	25.04.2025 19:24:51 until 25.04.2025 20:48:39
+		Duration:	01:23:48
+		Location:	NULL NULL
+
+	JORO1
+		Images:	2723
+		Time:	25.04.2025 18:40:16 until 25.04.2025 20:49:25
+		Duration:	02:09:09
+		Location:	NULL NULL
+

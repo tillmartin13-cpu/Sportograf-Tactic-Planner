@@ -1,0 +1,13 @@
+EventId: 14021
+Spots: 1
+Total Images: 743
+Time:	26.10.2025 07:41:54 to 26.10.2025 14:57:13
+Duration: 07:15:19
+
+(1) - none
+	IMP1
+		Images:	743
+		Time:	26.10.2025 07:41:54 until 26.10.2025 14:57:13
+		Duration:	07:15:19
+		Location:	NULL NULL
+

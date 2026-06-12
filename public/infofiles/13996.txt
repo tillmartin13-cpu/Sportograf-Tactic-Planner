@@ -1,0 +1,191 @@
+EventId: 13996
+Spots: 29
+Total Images: 233117
+Time:	01.01.0001 23:00:00 to 30.08.2025 18:19:48
+Duration: 739491.19:19:48
+
+(1) - Obstacle 5 Crew Carry
+	ALN1
+		Images:	15144
+		Time:	30.08.2025 10:00:09 until 30.08.2025 16:43:49
+		Duration:	06:43:40
+		Location:	NULL NULL
+
+	ALN1LS2
+		Images:	5403
+		Time:	30.08.2025 09:46:39 until 30.08.2025 16:43:53
+		Duration:	06:57:14
+		Location:	NULL NULL
+
+	ALN1LS1
+		Images:	5446
+		Time:	30.08.2025 09:47:36 until 30.08.2025 16:46:50
+		Duration:	06:59:14
+		Location:	NULL NULL
+
+(2) - Obstacle 7 Barbwire Battle
+	DPH1
+		Images:	11566
+		Time:	30.08.2025 10:18:39 until 30.08.2025 17:44:04
+		Duration:	07:25:25
+		Location:	NULL NULL
+
+	DPH1LS1
+		Images:	4471
+		Time:	30.08.2025 10:17:44 until 30.08.2025 13:22:41
+		Duration:	03:04:57
+		Location:	NULL NULL
+
+	OT1
+		Images:	17734
+		Time:	01.01.0001 23:00:00 until 30.08.2025 17:44:38
+		Duration:	739491.18:44:38
+		Location:	NULL NULL
+
+	OT1LS1
+		Images:	7615
+		Time:	30.08.2025 09:40:23 until 30.08.2025 17:55:14
+		Duration:	08:14:51
+		Location:	NULL NULL
+
+(3) - Start
+	DRI1
+		Images:	2787
+		Time:	30.08.2025 10:17:44 until 30.08.2025 12:40:20
+		Duration:	02:22:36
+		Location:	NULL NULL
+
+	DRI1DRONE1
+		Images:	21
+		Time:	30.08.2025 10:21:57 until 30.08.2025 16:00:46
+		Duration:	05:38:49
+		Location:	NULL NULL
+
+(4) - Obstacle 25 Boulder Box
+	FCO1
+		Images:	8095
+		Time:	30.08.2025 10:09:42 until 30.08.2025 16:39:36
+		Duration:	06:29:54
+		Location:	NULL NULL
+
+(5) - Herotent
+	JKE1
+		Images:	1872
+		Time:	30.08.2025 09:55:30 until 30.08.2025 18:19:48
+		Duration:	08:24:18
+		Location:	NULL NULL
+
+	MBEN1
+		Images:	2396
+		Time:	30.08.2025 10:55:48 until 30.08.2025 18:15:21
+		Duration:	07:19:33
+		Location:	NULL NULL
+
+(6) - Finish
+	JKE1LS1
+		Images:	392
+		Time:	30.08.2025 09:20:00 until 30.08.2025 16:36:16
+		Duration:	07:16:16
+		Location:	NULL NULL
+
+	KFK1
+		Images:	8677
+		Time:	30.08.2025 09:30:05 until 30.08.2025 18:19:18
+		Duration:	08:49:13
+		Location:	NULL NULL
+
+	KFK1LS1
+		Images:	6685
+		Time:	30.08.2025 08:59:38 until 30.08.2025 18:18:01
+		Duration:	09:18:23
+		Location:	NULL NULL
+
+(7) - Obstacle 13 Rotten River
+	KSA1
+		Images:	17570
+		Time:	30.08.2025 10:18:57 until 30.08.2025 17:28:51
+		Duration:	07:09:54
+		Location:	NULL NULL
+
+	KSA1LS2
+		Images:	4935
+		Time:	30.08.2025 09:40:54 until 30.08.2025 17:03:21
+		Duration:	07:22:27
+		Location:	NULL NULL
+
+	KSA1LS1
+		Images:	4028
+		Time:	30.08.2025 09:44:09 until 30.08.2025 16:39:26
+		Duration:	06:55:17
+		Location:	NULL NULL
+
+	NBA1
+		Images:	18720
+		Time:	30.08.2025 10:21:13 until 30.08.2025 17:49:13
+		Duration:	07:28:00
+		Location:	NULL NULL
+
+(8) - Obstacle 1
+	MBEN1LS1
+		Images:	4511
+		Time:	30.08.2025 09:12:33 until 30.08.2025 18:17:36
+		Duration:	09:05:03
+		Location:	NULL NULL
+
+(9) - Obstacle 22 Clumsy Cliffhanger
+	MW1
+		Images:	15678
+		Time:	30.08.2025 09:59:46 until 30.08.2025 17:45:42
+		Duration:	07:45:56
+		Location:	NULL NULL
+
+	MW1LS2
+		Images:	2997
+		Time:	30.08.2025 09:58:13 until 30.08.2025 17:50:40
+		Duration:	07:52:27
+		Location:	NULL NULL
+
+	MW1LS1
+		Images:	2650
+		Time:	30.08.2025 09:55:53 until 30.08.2025 17:50:40
+		Duration:	07:54:47
+		Location:	NULL NULL
+
+	RA1
+		Images:	14861
+		Time:	30.08.2025 10:45:57 until 30.08.2025 17:45:36
+		Duration:	06:59:39
+		Location:	NULL NULL
+
+	RA1LS2
+		Images:	5722
+		Time:	30.08.2025 10:24:59 until 30.08.2025 17:43:49
+		Duration:	07:18:50
+		Location:	NULL NULL
+
+	RA1LS1
+		Images:	6997
+		Time:	30.08.2025 10:28:14 until 30.08.2025 17:44:33
+		Duration:	07:16:19
+		Location:	NULL NULL
+
+(10) - Obstacle 11 Freak Froster
+	STL1
+		Images:	10023
+		Time:	30.08.2025 09:52:56 until 30.08.2025 17:43:02
+		Duration:	07:50:06
+		Location:	NULL NULL
+
+	VL1
+		Images:	20638
+		Time:	30.08.2025 09:51:09 until 30.08.2025 17:43:22
+		Duration:	07:52:13
+		Location:	NULL NULL
+
+(11) - Obstacle 23 Rapid Rings
+	WBEC1
+		Images:	5483
+		Time:	30.08.2025 10:51:03 until 30.08.2025 17:30:40
+		Duration:	06:39:37
+		Location:	NULL NULL
+

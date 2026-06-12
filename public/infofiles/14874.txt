@@ -1,0 +1,100 @@
+EventId: 14874
+Spots: 14
+Total Images: 19861
+Time:	18.10.2025 06:19:49 to 19.10.2025 14:57:50
+Duration: 1.08:38:01
+
+(1) - Obstacle 4 Twister
+	YG1
+		Images:	2285
+		Time:	19.10.2025 09:10:58 until 19.10.2025 12:27:34
+		Duration:	03:16:36
+		Location:	42.52923 14.05825
+
+(2) - Obstacle 5 Log carry
+	MMI1
+		Images:	1755
+		Time:	18.10.2025 11:09:27 until 19.10.2025 12:32:04
+		Duration:	1.01:22:37
+		Location:	42.52872 14.05830
+
+	MMI1LS2
+		Images:	825
+		Time:	19.10.2025 09:05:24 until 19.10.2025 12:29:08
+		Duration:	03:23:44
+		Location:	42.52872 14.05830
+
+	MMI1LS1
+		Images:	931
+		Time:	19.10.2025 09:17:14 until 19.10.2025 12:29:39
+		Duration:	03:12:25
+		Location:	42.52872 14.05830
+
+(3) - Impressions / Pano
+	MMI1DRONE1
+		Images:	53
+		Time:	18.10.2025 06:19:49 until 19.10.2025 10:10:43
+		Duration:	1.03:50:54
+		Location:	42.52872 14.05830
+
+(4) - Obstacle 6 Bender
+	VHO1
+		Images:	1637
+		Time:	18.10.2025 09:16:22 until 19.10.2025 12:42:08
+		Duration:	1.03:25:46
+		Location:	42.52987 14.06099
+
+(5) - Obstacle 9 Tilting ladder
+	SORI1
+		Images:	2534
+		Time:	18.10.2025 09:20:42 until 19.10.2025 12:53:05
+		Duration:	1.03:32:23
+		Location:	42.53160 14.06828
+
+(6) - Obstacle 20 Sandbag
+	RLO1LS1
+		Images:	792
+		Time:	19.10.2025 10:00:02 until 19.10.2025 13:41:12
+		Duration:	03:41:10
+		Location:	42.51750 14.05859
+
+(7) - Obstacle 21 Inverted wall
+	LIG1
+		Images:	1917
+		Time:	18.10.2025 09:42:27 until 19.10.2025 14:38:50
+		Duration:	1.04:56:23
+		Location:	42.51891 14.05947
+
+(8) - Firejump
+	BRP1
+		Images:	2760
+		Time:	19.10.2025 09:19:18 until 19.10.2025 14:57:38
+		Duration:	05:38:20
+		Location:	42.52018 14.06264
+
+	BRP1LS1
+		Images:	980
+		Time:	19.10.2025 08:49:21 until 19.10.2025 14:42:08
+		Duration:	05:52:47
+		Location:	42.52018 14.06264
+
+	BRP1LS2
+		Images:	972
+		Time:	19.10.2025 09:37:10 until 19.10.2025 14:42:09
+		Duration:	05:04:59
+		Location:	42.52018 14.06264
+
+(9) - Herotent
+	RSP1
+		Images:	2282
+		Time:	18.10.2025 13:46:10 until 19.10.2025 14:57:50
+		Duration:	1.01:11:40
+		Location:	42.52011 14.06247
+
+(10) - Jumper
+	RLO1
+		Images:	136
+		Time:	18.10.2025 10:42:04 until 19.10.2025 12:22:04
+		Duration:	1.01:40:00
+		Location:	42.52011 14.06247
+

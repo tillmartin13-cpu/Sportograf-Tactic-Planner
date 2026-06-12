@@ -1,0 +1,110 @@
+EventId: 15507
+Spots: 17
+Total Images: 7463
+Time:	01.11.2025 10:12:59 to 02.11.2025 12:06:40
+Duration: 1.01:53:41
+
+(1) - Ceremony
+	FO1
+		Images:	157
+		Time:	01.11.2025 10:12:59 until 01.11.2025 15:32:24
+		Duration:	05:19:25
+		Location:	487.94224 825.94227
+
+(2) - Start
+	ABRE1
+		Images:	428
+		Time:	02.11.2025 06:29:59 until 02.11.2025 06:54:56
+		Duration:	00:24:57
+		Location:	-34.44839 -57.85218
+
+	MATS1
+		Images:	113
+		Time:	02.11.2025 06:31:59 until 02.11.2025 06:54:43
+		Duration:	00:22:44
+		Location:	-34.44839 -57.85218
+
+	FO2
+		Images:	93
+		Time:	02.11.2025 06:20:01 until 02.11.2025 06:46:26
+		Duration:	00:26:25
+		Location:	-34.44839 -57.85218
+
+	ABRE3DRONE1
+		Images:	83
+		Time:	02.11.2025 10:36:28 until 02.11.2025 10:49:29
+		Duration:	00:13:01
+		Location:	-34.44839 -57.85218
+
+	MATS1DRONE1
+		Images:	98
+		Time:	02.11.2025 07:33:42 until 02.11.2025 09:04:18
+		Duration:	01:30:36
+		Location:	-34.44839 -57.85218
+
+	FO2DRONE1
+		Images:	84
+		Time:	01.11.2025 10:47:31 until 02.11.2025 07:55:47
+		Duration:	21:08:16
+		Location:	-34.44839 -57.85218
+
+	PANO1
+(3) - 25.0 km
+	MATS2
+		Images:	488
+		Time:	02.11.2025 07:32:16 until 02.11.2025 08:11:27
+		Duration:	00:39:11
+		Location:	-34.30769 -57.86912
+
+(4) - 35.0 km
+	ABRE2
+		Images:	724
+		Time:	02.11.2025 07:42:16 until 02.11.2025 08:17:22
+		Duration:	00:35:06
+		Location:	-34.21098 -57.88282
+
+	ABRE2LS1
+		Images:	535
+		Time:	02.11.2025 07:33:11 until 02.11.2025 08:09:51
+		Duration:	00:36:40
+		Location:	-34.21098 -57.88282
+
+(5) - 90.0 km
+	FO3
+		Images:	908
+		Time:	02.11.2025 07:53:25 until 02.11.2025 08:21:41
+		Duration:	00:28:16
+		Location:	-34.18766 -57.89780
+
+	FO4
+		Images:	905
+		Time:	02.11.2025 09:27:50 until 02.11.2025 11:41:28
+		Duration:	02:13:38
+		Location:	-34.43012 -57.86681
+
+(6) - 110.0 km
+	MATS3
+		Images:	1197
+		Time:	02.11.2025 08:45:07 until 02.11.2025 11:43:40
+		Duration:	02:58:33
+		Location:	-34.43739 -57.86586
+
+(7) - Finish
+	ABRE3
+		Images:	1179
+		Time:	02.11.2025 09:24:12 until 02.11.2025 12:06:40
+		Duration:	02:42:28
+		Location:	-34.44839 -57.85218
+
+	ABRE3LS2
+		Images:	154
+		Time:	02.11.2025 09:19:07 until 02.11.2025 11:57:07
+		Duration:	02:38:00
+		Location:	-34.44839 -57.85218
+
+	ABRE3LS1
+		Images:	317
+		Time:	02.11.2025 09:08:17 until 02.11.2025 11:57:38
+		Duration:	02:49:21
+		Location:	-34.44839 -57.85218
+

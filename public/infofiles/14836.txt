@@ -1,0 +1,342 @@
+EventId: 14836
+Spots: 55
+Total Images: 382826
+Time:	12.03.2025 22:37:45 to 14.03.2025 21:40:47
+Duration: 1.23:03:02
+
+(1) - Run
+	JUW8LS1
+		Images:	5573
+		Time:	14.03.2025 06:17:03 until 14.03.2025 20:06:56
+		Duration:	13:49:53
+		Location:	55.86126 -4.28877
+
+	CUP3LS1
+		Images:	5267
+		Time:	14.03.2025 06:19:29 until 14.03.2025 20:06:57
+		Duration:	13:47:28
+		Location:	55.86126 -4.28877
+
+(2) - SkiErg
+	APDA1
+		Images:	4539
+		Time:	13.03.2025 06:27:45 until 14.03.2025 13:56:45
+		Duration:	1.07:29:00
+		Location:	55.86126 -4.28877
+
+	KSTH1
+		Images:	5828
+		Time:	14.03.2025 06:24:33 until 14.03.2025 13:56:56
+		Duration:	07:32:23
+		Location:	55.86126 -4.28877
+
+	LOT1
+		Images:	10015
+		Time:	13.03.2025 06:59:58 until 14.03.2025 13:56:43
+		Duration:	1.06:56:45
+		Location:	55.86126 -4.28877
+
+	BKO1
+		Images:	769
+		Time:	14.03.2025 13:56:36 until 14.03.2025 14:08:07
+		Duration:	00:11:31
+		Location:	55.86126 -4.28877
+
+	FRN1
+		Images:	1957
+		Time:	14.03.2025 06:41:56 until 14.03.2025 14:13:43
+		Duration:	07:31:47
+		Location:	55.86126 -4.28877
+
+	DAWH2
+		Images:	13216
+		Time:	14.03.2025 14:11:48 until 14.03.2025 19:41:33
+		Duration:	05:29:45
+		Location:	55.86126 -4.28877
+
+	CUP2
+		Images:	10304
+		Time:	14.03.2025 14:05:17 until 14.03.2025 19:39:18
+		Duration:	05:34:01
+		Location:	55.86126 -4.28877
+
+	FRZ2
+		Images:	9602
+		Time:	14.03.2025 14:14:34 until 14.03.2025 18:59:28
+		Duration:	04:44:54
+		Location:	55.86126 -4.28877
+
+(3) - Sled Push
+	JBRE1
+		Images:	3074
+		Time:	13.03.2025 06:55:13 until 14.03.2025 14:13:05
+		Duration:	1.07:17:52
+		Location:	55.86126 -4.28877
+
+	MALV1
+		Images:	17140
+		Time:	13.03.2025 06:49:54 until 14.03.2025 14:19:36
+		Duration:	1.07:29:42
+		Location:	55.86126 -4.28877
+
+	DP1
+		Images:	11749
+		Time:	14.03.2025 07:11:17 until 14.03.2025 14:19:01
+		Duration:	07:07:44
+		Location:	55.86126 -4.28877
+
+	WIN2
+		Images:	5769
+		Time:	14.03.2025 14:24:18 until 14.03.2025 19:51:05
+		Duration:	05:26:47
+		Location:	55.86126 -4.28877
+
+	BKO2
+		Images:	2813
+		Time:	14.03.2025 06:45:37 until 14.03.2025 08:38:20
+		Duration:	01:52:43
+		Location:	55.86126 -4.28877
+
+	MKH2
+		Images:	3978
+		Time:	14.03.2025 14:22:52 until 14.03.2025 19:50:52
+		Duration:	05:28:00
+		Location:	55.86126 -4.28877
+
+	KYY2
+		Images:	6315
+		Time:	14.03.2025 14:21:47 until 14.03.2025 19:50:35
+		Duration:	05:28:48
+		Location:	55.86126 -4.28877
+
+(4) - Sled Pull
+	CUP1
+		Images:	16792
+		Time:	14.03.2025 06:45:38 until 14.03.2025 13:59:27
+		Duration:	07:13:49
+		Location:	55.86126 -4.28877
+
+	DAWH1
+		Images:	4744
+		Time:	13.03.2025 06:47:37 until 14.03.2025 14:02:18
+		Duration:	1.07:14:41
+		Location:	55.86126 -4.28877
+
+	FRZ1
+		Images:	12656
+		Time:	13.03.2025 09:04:04 until 14.03.2025 14:02:22
+		Duration:	1.04:58:18
+		Location:	55.86126 -4.28877
+
+	KSTH2
+		Images:	3667
+		Time:	14.03.2025 14:03:49 until 14.03.2025 20:01:50
+		Duration:	05:58:01
+		Location:	55.86126 -4.28877
+
+	APDA2
+		Images:	1967
+		Time:	14.03.2025 14:01:45 until 14.03.2025 20:05:23
+		Duration:	06:03:38
+		Location:	55.86126 -4.28877
+
+	LOT2
+		Images:	8014
+		Time:	14.03.2025 14:05:16 until 14.03.2025 19:59:59
+		Duration:	05:54:43
+		Location:	55.86126 -4.28877
+
+	JUW3
+		Images:	1333
+		Time:	14.03.2025 06:46:44 until 14.03.2025 08:15:20
+		Duration:	01:28:36
+		Location:	55.86126 -4.28877
+
+(5) - Rowing
+	MKH1
+		Images:	4532
+		Time:	12.03.2025 22:37:45 until 14.03.2025 14:17:23
+		Duration:	1.15:39:38
+		Location:	55.86126 -4.28877
+
+	CNS1
+		Images:	7052
+		Time:	13.03.2025 06:45:15 until 14.03.2025 14:12:41
+		Duration:	1.07:27:26
+		Location:	55.86126 -4.28877
+
+	BKO4
+		Images:	9474
+		Time:	14.03.2025 09:21:05 until 14.03.2025 18:00:13
+		Duration:	08:39:08
+		Location:	55.86126 -4.28877
+
+	PARO4
+		Images:	96
+		Time:	14.03.2025 07:34:40 until 14.03.2025 14:23:19
+		Duration:	06:48:39
+		Location:	55.86126 -4.28877
+
+	FRN4
+		Images:	4596
+		Time:	14.03.2025 09:22:04 until 14.03.2025 18:02:01
+		Duration:	08:39:57
+		Location:	55.86126 -4.28877
+
+	DP2
+		Images:	13435
+		Time:	14.03.2025 14:24:08 until 14.03.2025 20:38:46
+		Duration:	06:14:38
+		Location:	55.86126 -4.28877
+
+	JBRE2
+		Images:	8859
+		Time:	14.03.2025 14:15:08 until 14.03.2025 20:45:41
+		Duration:	06:30:33
+		Location:	55.86126 -4.28877
+
+(6) - Farmers Carry
+	PARO7LS1
+		Images:	5140
+		Time:	14.03.2025 07:34:54 until 14.03.2025 21:00:00
+		Duration:	13:25:06
+		Location:	55.86126 -4.28877
+
+	PARO7LS2
+		Images:	10655
+		Time:	14.03.2025 07:41:31 until 14.03.2025 21:02:16
+		Duration:	13:20:45
+		Location:	55.86126 -4.28877
+
+(7) - Sandbag Lunges
+	KYY1
+		Images:	8965
+		Time:	14.03.2025 06:53:44 until 14.03.2025 14:14:28
+		Duration:	07:20:44
+		Location:	55.86126 -4.28877
+
+	WIN1
+		Images:	8917
+		Time:	13.03.2025 06:49:10 until 14.03.2025 14:14:39
+		Duration:	1.07:25:29
+		Location:	55.86126 -4.28877
+
+	BKO5
+		Images:	9427
+		Time:	14.03.2025 09:59:52 until 14.03.2025 18:44:45
+		Duration:	08:44:53
+		Location:	55.86126 -4.28877
+
+	FRN5
+		Images:	6140
+		Time:	13.03.2025 15:00:34 until 14.03.2025 18:37:13
+		Duration:	1.03:36:39
+		Location:	55.86126 -4.28877
+
+	MALV2
+		Images:	20824
+		Time:	14.03.2025 14:25:54 until 14.03.2025 21:21:40
+		Duration:	06:55:46
+		Location:	55.86126 -4.28877
+
+	CNS2
+		Images:	5820
+		Time:	13.03.2025 14:34:00 until 14.03.2025 21:16:15
+		Duration:	1.06:42:15
+		Location:	55.86126 -4.28877
+
+(8) - Wall Balls
+	CMS1
+		Images:	6716
+		Time:	14.03.2025 06:32:07 until 14.03.2025 13:57:47
+		Duration:	07:25:40
+		Location:	55.86126 -4.28877
+
+	BKO6
+		Images:	6065
+		Time:	14.03.2025 10:40:18 until 14.03.2025 19:17:00
+		Duration:	08:36:42
+		Location:	55.86126 -4.28877
+
+	PARO6
+		Images:	1624
+		Time:	14.03.2025 12:29:58 until 14.03.2025 14:10:01
+		Duration:	01:40:03
+		Location:	55.86126 -4.28877
+
+	PHA1
+		Images:	10358
+		Time:	13.03.2025 06:26:39 until 14.03.2025 13:57:36
+		Duration:	1.07:30:57
+		Location:	55.86126 -4.28877
+
+	JUW6
+		Images:	579
+		Time:	14.03.2025 13:58:06 until 14.03.2025 14:15:07
+		Duration:	00:17:01
+		Location:	55.86126 -4.28877
+
+	FRN6
+		Images:	3279
+		Time:	14.03.2025 10:29:04 until 14.03.2025 19:17:30
+		Duration:	08:48:26
+		Location:	55.86126 -4.28877
+
+	TOMY2
+		Images:	4682
+		Time:	14.03.2025 14:16:29 until 14.03.2025 21:30:55
+		Duration:	07:14:26
+		Location:	55.86126 -4.28877
+
+	KMIN2
+		Images:	9888
+		Time:	14.03.2025 14:05:39 until 14.03.2025 21:30:47
+		Duration:	07:25:08
+		Location:	55.86126 -4.28877
+
+(9) - Finish
+	PHA2
+		Images:	20092
+		Time:	14.03.2025 14:02:34 until 14.03.2025 21:37:30
+		Duration:	07:34:56
+		Location:	55.86126 -4.28877
+
+	FRN8LS1
+		Images:	3966
+		Time:	14.03.2025 07:51:43 until 14.03.2025 20:15:38
+		Duration:	12:23:55
+		Location:	55.86126 -4.28877
+
+	KMIN1
+		Images:	13109
+		Time:	14.03.2025 06:34:00 until 14.03.2025 14:03:46
+		Duration:	07:29:46
+		Location:	55.86126 -4.28877
+
+	JUW7
+		Images:	2569
+		Time:	14.03.2025 09:28:39 until 14.03.2025 17:46:38
+		Duration:	08:17:59
+		Location:	55.86126 -4.28877
+
+	LOT3LS1
+		Images:	3854
+		Time:	14.03.2025 06:27:37 until 14.03.2025 20:15:26
+		Duration:	13:47:49
+		Location:	55.86126 -4.28877
+
+(10) - Hero Wall
+	CMS2
+		Images:	2901
+		Time:	14.03.2025 14:07:51 until 14.03.2025 21:40:47
+		Duration:	07:32:56
+		Location:	55.86126 -4.28877
+
+	TOMY1
+		Images:	2125
+		Time:	14.03.2025 06:24:21 until 14.03.2025 14:07:08
+		Duration:	07:42:47
+		Location:	55.86126 -4.28877
+
+(11) - Impressions / Pano
+	PANO1

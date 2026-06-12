@@ -1,0 +1,214 @@
+EventId: 13818
+Spots: 32
+Total Images: 137992
+Time:	01.11.2025 14:34:21 to 02.11.2025 12:36:01
+Duration: 22:01:40
+
+(1) - Swim - Impressions / Pano
+	PANO1
+	BRBR1IMP1
+		Images:	97
+		Time:	02.11.2025 04:00:12 until 02.11.2025 05:10:42
+		Duration:	01:10:30
+		Location:	-26.38638 153.09262
+
+	JEK2IMP1
+		Images:	2
+		Time:	02.11.2025 03:21:36 until 02.11.2025 05:15:06
+		Duration:	01:53:30
+		Location:	-26.38626 153.09133
+
+(2) - Bike - 1.6 km
+	AKC1
+		Images:	4505
+		Time:	02.11.2025 04:20:34 until 02.11.2025 07:59:34
+		Duration:	03:39:00
+		Location:	-26.39458 153.07815
+
+(3) - Bike - 1.7 km
+	AKC2
+		Images:	2025
+		Time:	02.11.2025 07:59:34 until 02.11.2025 09:15:13
+		Duration:	01:15:39
+		Location:	-26.39549 153.07805
+
+(4) - Run - 8.5 km
+	AKC3
+		Images:	2614
+		Time:	02.11.2025 09:24:15 until 02.11.2025 12:14:43
+		Duration:	02:50:28
+		Location:	-26.39370 153.07863
+
+(5) - Bike - 4.5 km
+	BSZ1
+		Images:	151
+		Time:	02.11.2025 06:49:21 until 02.11.2025 07:18:38
+		Duration:	00:29:17
+		Location:	-26.39654 153.07110
+
+(6) - Run - 2.4 km
+	BSZ2
+		Images:	4077
+		Time:	02.11.2025 05:38:27 until 02.11.2025 11:25:56
+		Duration:	05:47:29
+		Location:	-26.39632 153.07197
+
+(7) - Run - 6.6 km
+	BSZ5
+		Images:	77
+		Time:	02.11.2025 11:19:57 until 02.11.2025 11:23:58
+		Duration:	00:04:01
+		Location:	-26.39641 153.07241
+
+(8) - Bike - 2.5 km
+	BSZ3
+		Images:	4578
+		Time:	02.11.2025 07:08:06 until 02.11.2025 11:25:56
+		Duration:	04:17:50
+		Location:	-26.39652 153.07187
+
+(9) - Bike - 6.6 km
+	BSZ4
+		Images:	159
+		Time:	02.11.2025 11:28:05 until 02.11.2025 11:53:30
+		Duration:	00:25:25
+		Location:	-26.39692 153.07066
+
+(10) - Swim - Start
+	BRBR1
+		Images:	6991
+		Time:	02.11.2025 05:15:08 until 02.11.2025 10:00:04
+		Duration:	04:44:56
+		Location:	-26.38638 153.09262
+
+	JAPA1
+		Images:	3603
+		Time:	02.11.2025 04:13:00 until 02.11.2025 08:25:05
+		Duration:	04:12:05
+		Location:	-26.38638 153.09262
+
+(11) - Run - Transition zone
+	BRBR2
+		Images:	384
+		Time:	02.11.2025 10:00:04 until 02.11.2025 11:16:22
+		Duration:	01:16:18
+		Location:	-26.38945 153.09047
+
+	JEK4
+		Images:	71
+		Time:	02.11.2025 10:10:16 until 02.11.2025 11:14:27
+		Duration:	01:04:11
+		Location:	-26.38942 153.08412
+
+	JAPA2
+		Images:	613
+		Time:	02.11.2025 08:56:48 until 02.11.2025 10:41:13
+		Duration:	01:44:25
+		Location:	-26.38945 153.09047
+
+(12) - Finish
+	BRBR3
+		Images:	627
+		Time:	02.11.2025 03:57:55 until 02.11.2025 12:25:02
+		Duration:	08:27:07
+		Location:	-26.38827 153.09016
+
+	RBT1
+		Images:	12314
+		Time:	01.11.2025 14:34:21 until 02.11.2025 12:26:01
+		Duration:	21:51:40
+		Location:	-26.38827 153.09016
+
+	CFW2
+		Images:	2371
+		Time:	02.11.2025 11:09:08 until 02.11.2025 12:25:59
+		Duration:	01:16:51
+		Location:	-26.38827 153.09016
+
+	JEK2
+		Images:	7926
+		Time:	02.11.2025 08:33:30 until 02.11.2025 11:48:31
+		Duration:	03:15:01
+		Location:	-26.38827 153.09016
+
+	JEK2LS1
+		Images:	5243
+		Time:	01.11.2025 14:34:21 until 02.11.2025 12:20:00
+		Duration:	21:45:39
+		Location:	-26.38827 153.09016
+
+	NIPA3
+		Images:	9451
+		Time:	02.11.2025 04:19:07 until 02.11.2025 09:08:11
+		Duration:	04:49:04
+		Location:	-26.38827 153.09016
+
+(13) - Bike - 13.0 km
+	CFW1
+		Images:	20142
+		Time:	01.11.2025 19:02:47 until 02.11.2025 09:57:08
+		Duration:	14:54:21
+		Location:	-26.40532 152.98941
+
+(14) - Swim - Transition zone
+	JEK1
+		Images:	3104
+		Time:	02.11.2025 04:24:54 until 02.11.2025 06:33:36
+		Duration:	02:08:42
+		Location:	-26.38626 153.09133
+
+	NIPA2
+		Images:	5294
+		Time:	02.11.2025 09:35:52 until 02.11.2025 12:03:58
+		Duration:	02:28:06
+		Location:	-26.38626 153.09133
+
+(15) - Bike - Transition zone
+	JEK3
+		Images:	1096
+		Time:	02.11.2025 06:59:19 until 02.11.2025 08:28:09
+		Duration:	01:28:50
+		Location:	-26.38961 153.09036
+
+(16) - Bike - 3.2 km
+	VN1
+		Images:	12927
+		Time:	02.11.2025 04:43:52 until 02.11.2025 11:03:03
+		Duration:	06:19:11
+		Location:	-26.39580 153.06898
+
+(17) - Bike - 3.0 km
+	VN1LS1
+		Images:	5423
+		Time:	02.11.2025 05:43:11 until 02.11.2025 09:51:28
+		Duration:	04:08:17
+		Location:	-26.39555 153.06942
+
+(18) - Bike - 36.0 km
+	VN1LS2
+		Images:	5441
+		Time:	02.11.2025 03:56:44 until 02.11.2025 11:09:50
+		Duration:	07:13:06
+		Location:	-26.39580 153.06898
+
+(19) - Bike - 10.8 km
+	CLK1
+		Images:	11824
+		Time:	02.11.2025 05:36:33 until 02.11.2025 09:51:36
+		Duration:	04:15:03
+		Location:	-26.40019 152.99945
+
+(20) - Bike - 11.0 km
+	CLK2
+		Images:	1727
+		Time:	02.11.2025 11:14:08 until 02.11.2025 12:36:01
+		Duration:	01:21:53
+		Location:	-26.40040 152.99998
+
+(21) - Run - 5.0 km
+	LEFO1
+		Images:	3135
+		Time:	01.11.2025 19:32:25 until 02.11.2025 11:55:30
+		Duration:	16:23:05
+		Location:	-26.40396 153.07318
+

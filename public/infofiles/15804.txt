@@ -1,0 +1,134 @@
+EventId: 15804
+Spots: 20
+Total Images: 31897
+Time:	08.05.2025 09:49:30 to 10.05.2025 21:59:44
+Duration: 2.12:10:14
+
+(1) - Generales Maratón
+	AFGA1
+		Images:	38
+		Time:	10.05.2025 05:42:15 until 10.05.2025 06:39:39
+		Duration:	00:57:24
+		Location:	28.61574 -17.83409
+
+(2) - Km - 2 Ultra
+	ABAB1
+		Images:	536
+		Time:	09.05.2025 21:45:14 until 10.05.2025 06:22:39
+		Duration:	08:37:25
+		Location:	28.46311 -17.84477
+
+(3) - Km - 6 Ultra / Km - 6 Media Maratón
+	JMGJ1
+		Images:	1776
+		Time:	10.05.2025 06:34:20 until 10.05.2025 08:53:39
+		Duration:	02:19:19
+		Location:	28.48649 -17.85154
+
+(4) - Km - 10 Ultra / Km - 10 Media Maratón
+	JLTG1
+		Images:	2169
+		Time:	10.05.2025 06:47:20 until 10.05.2025 10:31:47
+		Duration:	03:44:27
+		Location:	28.51803 -17.83577
+
+(5) - Km - 10,5 Ultra / Km - 10,5 Media Maratón
+	JIA1
+		Images:	2306
+		Time:	10.05.2025 06:54:25 until 10.05.2025 10:18:17
+		Duration:	03:23:52
+		Location:	28.51911 -17.83476
+
+(6) - Km - 23 Ultra
+	AFGA2
+		Images:	1166
+		Time:	10.05.2025 08:41:41 until 10.05.2025 09:34:18
+		Duration:	00:52:37
+		Location:	28.61263 -17.83605
+
+(7) - Meta Media Maratón
+	AFGA3
+		Images:	1918
+		Time:	10.05.2025 10:16:00 until 10.05.2025 13:41:10
+		Duration:	03:25:10
+		Location:	28.61385 -17.83631
+
+	AFGA3LS1
+		Images:	1478
+		Time:	10.05.2025 08:18:58 until 10.05.2025 13:51:27
+		Duration:	05:32:29
+		Location:	28.61385 -17.83631
+
+(8) - Km - 48 Ultra / Km - 22 Maraton
+	MANR1
+		Images:	5183
+		Time:	10.05.2025 07:46:36 until 10.05.2025 16:36:30
+		Duration:	08:49:54
+		Location:	28.7543 -17.85353
+
+(9) - Km - 67,5 Ultra / Km - 42 Maraton
+	JLTG2
+		Images:	1273
+		Time:	10.05.2025 13:00:27 until 10.05.2025 21:59:44
+		Duration:	08:59:17
+		Location:	28.65401 -17.94905
+
+	JLTG2LS2
+		Images:	1085
+		Time:	10.05.2025 14:21:22 until 10.05.2025 20:15:08
+		Duration:	05:53:46
+		Location:	28.65401 -17.94905
+
+	JLTG2LS1
+		Images:	1225
+		Time:	10.05.2025 13:15:44 until 10.05.2025 20:40:19
+		Duration:	07:24:35
+		Location:	28.65401 -17.94905
+
+(10) - Km - 67,8 Ultra / Km - 42,3 Maraton
+	JIA2
+		Images:	1248
+		Time:	10.05.2025 13:21:47 until 10.05.2025 21:00:02
+		Duration:	07:38:15
+		Location:	28.65365 -17.9492
+
+(11) - Meta Maratón
+	ABAB2
+		Images:	5121
+		Time:	10.05.2025 08:18:58 until 10.05.2025 17:07:49
+		Duration:	08:48:51
+		Location:	28.65872 -17.91309
+
+(12) - Meta Ultra
+	ABAB3
+		Images:	541
+		Time:	10.05.2025 18:09:55 until 10.05.2025 21:23:48
+		Duration:	03:13:53
+		Location:	28.65872 -17.91309
+
+	AFGA4
+		Images:	1369
+		Time:	10.05.2025 17:13:44 until 10.05.2025 21:45:51
+		Duration:	04:32:07
+		Location:	28.65872 -17.91309
+
+	JMGJ2
+		Images:	2161
+		Time:	10.05.2025 11:35:32 until 10.05.2025 21:56:07
+		Duration:	10:20:35
+		Location:	28.65872 -17.91309
+
+	JMGJ2LS1
+		Images:	1291
+		Time:	10.05.2025 03:01:36 until 10.05.2025 09:55:52
+		Duration:	06:54:16
+		Location:	28.65872 -17.91309
+
+(13) - Impressions / Pano
+	MANR1DRONE1
+		Images:	13
+		Time:	08.05.2025 09:49:30 until 09.05.2025 16:56:15
+		Duration:	1.07:06:45
+		Location:	28.65146 -17.9466
+
+	PANO1

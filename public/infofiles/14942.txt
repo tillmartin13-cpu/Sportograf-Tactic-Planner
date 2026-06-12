@@ -1,0 +1,120 @@
+EventId: 14942
+Spots: 18
+Total Images: 48558
+Time:	24.01.2025 17:15:28 to 24.01.2025 21:55:54
+Duration: 04:40:26
+
+(1) - Running
+	BKO1LS1
+		Images:	738
+		Time:	24.01.2025 18:09:44 until 24.01.2025 20:39:00
+		Duration:	02:29:16
+		Location:	53.47627 -2.24747
+
+	BKO1LS2
+		Images:	775
+		Time:	24.01.2025 18:09:47 until 24.01.2025 20:44:38
+		Duration:	02:34:51
+		Location:	53.47627 -2.24747
+
+(2) - SkiErg
+	GUD1
+		Images:	1380
+		Time:	24.01.2025 17:40:02 until 24.01.2025 20:17:14
+		Duration:	02:37:12
+		Location:	53.47627 -2.24747
+
+	PHA1
+		Images:	4585
+		Time:	24.01.2025 17:18:38 until 24.01.2025 20:16:42
+		Duration:	02:58:04
+		Location:	53.47627 -2.24747
+
+(3) - Sled Push
+	CUP1
+		Images:	1542
+		Time:	24.01.2025 18:07:32 until 24.01.2025 20:27:17
+		Duration:	02:19:45
+		Location:	53.47627 -2.24747
+
+	YCAN1
+		Images:	1013
+		Time:	24.01.2025 17:18:40 until 24.01.2025 20:32:40
+		Duration:	03:14:00
+		Location:	53.47627 -2.24747
+
+(4) - Sled Pull
+	BKO1
+		Images:	7591
+		Time:	24.01.2025 18:16:35 until 24.01.2025 20:44:29
+		Duration:	02:27:54
+		Location:	53.47627 -2.24747
+
+	PARO1
+		Images:	1206
+		Time:	24.01.2025 18:51:33 until 24.01.2025 20:20:50
+		Duration:	01:29:17
+		Location:	53.47627 -2.24747
+
+(5) - Rowing
+	QVT1
+		Images:	6605
+		Time:	24.01.2025 17:21:35 until 24.01.2025 21:07:32
+		Duration:	03:45:57
+		Location:	53.47627 -2.24747
+
+(6) - Farmers Carry
+	PARO1LS1
+		Images:	388
+		Time:	24.01.2025 18:13:09 until 24.01.2025 21:31:16
+		Duration:	03:18:07
+		Location:	53.47627 -2.24747
+
+	PARO1LS2
+		Images:	733
+		Time:	24.01.2025 18:45:39 until 24.01.2025 21:27:20
+		Duration:	02:41:41
+		Location:	53.47627 -2.24747
+
+(7) - Sandbag Lunges
+	THB1
+		Images:	9999
+		Time:	24.01.2025 17:15:28 until 24.01.2025 21:29:49
+		Duration:	04:14:21
+		Location:	53.47627 -2.24747
+
+(8) - Wall Balls
+	LOT1
+		Images:	7268
+		Time:	24.01.2025 18:51:45 until 24.01.2025 21:41:53
+		Duration:	02:50:08
+		Location:	53.47627 -2.24747
+
+(9) - Finish
+	JBT1
+		Images:	3064
+		Time:	24.01.2025 17:36:01 until 24.01.2025 21:55:07
+		Duration:	04:19:06
+		Location:	53.47627 -2.24747
+
+	GUD1LS1
+		Images:	431
+		Time:	24.01.2025 18:57:52 until 24.01.2025 20:28:35
+		Duration:	01:30:43
+		Location:	53.47627 -2.24747
+
+	LOT2LS1
+		Images:	577
+		Time:	24.01.2025 19:00:18 until 24.01.2025 21:37:05
+		Duration:	02:36:47
+		Location:	53.47627 -2.24747
+
+(10) - Hero Wall
+	KYY1
+		Images:	663
+		Time:	24.01.2025 17:27:17 until 24.01.2025 21:55:54
+		Duration:	04:28:37
+		Location:	53.47627 -2.24747
+
+(11) - Impressions / Pano
+	PANO1

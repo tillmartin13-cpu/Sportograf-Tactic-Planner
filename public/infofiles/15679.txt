@@ -1,0 +1,431 @@
+EventId: 15679
+Spots: 64
+Total Images: 901647
+Time:	01.01.0001 23:00:00 to 16.03.2025 17:28:01
+Duration: 739324.18:28:01
+
+(1) - 0.0 km 859949 JIM DEE MSC 1
+	GJDEE1
+		Images:	23229
+		Time:	16.03.2025 04:53:06 until 16.03.2025 08:13:20
+		Duration:	03:20:14
+		Location:	NULL NULL
+
+(2) - 0.0 km 859950 WILLIAM DEE MSC 1
+	GWDEE1
+		Images:	15279
+		Time:	16.03.2025 05:55:07 until 16.03.2025 09:21:59
+		Duration:	03:26:52
+		Location:	NULL NULL
+
+(3) - 0.0 km ALAN NG 859911 MSC 3
+	BALAN1
+		Images:	45416
+		Time:	16.03.2025 06:24:52 until 16.03.2025 10:37:38
+		Duration:	04:12:46
+		Location:	NULL NULL
+
+(4) - 0.0 km alex pre finish
+	GALEX1
+		Images:	17161
+		Time:	16.03.2025 05:59:01 until 16.03.2025 09:12:48
+		Duration:	03:13:47
+		Location:	NULL NULL
+
+(5) - 0.0 km ALEX ROSENFELD PRE FIN 859941
+	AAROS1
+		Images:	9131
+		Time:	16.03.2025 09:15:07 until 16.03.2025 11:34:47
+		Duration:	02:19:40
+		Location:	NULL NULL
+
+(6) - 0.0 km Asher Dorlester 859956 MSC4
+	DAD1
+		Images:	8240
+		Time:	16.03.2025 05:33:54 until 16.03.2025 10:23:34
+		Duration:	04:49:40
+		Location:	NULL NULL
+
+(7) - 0.0 km Banners
+	EDB1
+		Images:	2089
+		Time:	16.03.2025 06:53:00 until 16.03.2025 12:44:34
+		Duration:	05:51:34
+		Location:	NULL NULL
+
+	EHW1
+		Images:	2222
+		Time:	16.03.2025 06:57:16 until 16.03.2025 12:24:19
+		Duration:	05:27:03
+		Location:	NULL NULL
+
+	EIDB1
+		Images:	2670
+		Time:	16.03.2025 05:54:45 until 16.03.2025 12:29:38
+		Duration:	06:34:53
+		Location:	NULL NULL
+
+	EJY1
+		Images:	1624
+		Time:	15.03.2025 18:53:17 until 16.03.2025 00:27:37
+		Duration:	05:34:20
+		Location:	NULL NULL
+
+	ELA1
+		Images:	1596
+		Time:	16.03.2025 06:53:03 until 16.03.2025 12:29:43
+		Duration:	05:36:40
+		Location:	NULL NULL
+
+	EMQ1
+		Images:	1973
+		Time:	16.03.2025 07:08:12 until 16.03.2025 12:21:50
+		Duration:	05:13:38
+		Location:	NULL NULL
+
+	ESC1
+		Images:	2407
+		Time:	16.03.2025 07:54:00 until 16.03.2025 13:22:41
+		Duration:	05:28:41
+		Location:	NULL NULL
+
+	EWB1
+		Images:	644
+		Time:	16.03.2025 06:33:49 until 16.03.2025 10:36:19
+		Duration:	04:02:30
+		Location:	NULL NULL
+
+(8) - 0.0 km BRUCE 859915 MSC 6
+	ABRU1
+		Images:	10446
+		Time:	16.03.2025 06:17:02 until 16.03.2025 11:47:44
+		Duration:	05:30:42
+		Location:	NULL NULL
+
+(9) - 0.0 km CAROLINE SUN 859902 MEDALS
+	GCSUN1
+		Images:	2905
+		Time:	16.03.2025 07:29:40 until 16.03.2025 11:43:33
+		Duration:	04:13:53
+		Location:	NULL NULL
+
+(10) - 0.0 km Chris Federico 859909 msc 2
+	BCHRI1
+		Images:	5054
+		Time:	16.03.2025 06:19:38 until 16.03.2025 07:35:58
+		Duration:	01:16:20
+		Location:	NULL NULL
+
+(11) - 0.0 km Christian Fiore 859922 MSC4
+	DCF1
+		Images:	28924
+		Time:	16.03.2025 06:36:16 until 16.03.2025 11:29:13
+		Duration:	04:52:57
+		Location:	NULL NULL
+
+(12) - 0.0 km Christine McCann
+	GCMC1
+		Images:	20689
+		Time:	16.03.2025 06:01:43 until 16.03.2025 11:17:09
+		Duration:	05:15:26
+		Location:	NULL NULL
+
+(13) - 0.0 km CODY MSC 6 859917
+	ACODY1
+		Images:	30077
+		Time:	16.03.2025 03:11:09 until 16.03.2025 08:29:17
+		Duration:	05:18:08
+		Location:	NULL NULL
+
+(14) - 0.0 km DARREN 854408 MSC 2
+	BDKEP1
+		Images:	7906
+		Time:	16.03.2025 06:21:07 until 16.03.2025 09:48:20
+		Duration:	03:27:13
+		Location:	NULL NULL
+
+(15) - 0.0 km ELIJAH MSC 6 859916
+	AELI1
+		Images:	13669
+		Time:	16.03.2025 05:59:20 until 16.03.2025 12:04:43
+		Duration:	06:05:23
+		Location:	NULL NULL
+
+(16) - 0.0 km finish trigger left side
+	GFTL1
+		Images:	61027
+		Time:	16.03.2025 04:02:40 until 16.03.2025 10:59:49
+		Duration:	06:57:09
+		Location:	NULL NULL
+
+(17) - 0.0 km finish trigger right side
+	GFTRS1
+		Images:	10015
+		Time:	16.03.2025 04:36:16 until 16.03.2025 10:33:11
+		Duration:	05:56:55
+		Location:	NULL NULL
+
+(18) - 0.0 km FINISH TRIGGER UP RIGHT
+	GFTUR1
+		Images:	7709
+		Time:	16.03.2025 07:48:30 until 16.03.2025 08:52:49
+		Duration:	01:04:19
+		Location:	NULL NULL
+
+(19) - 0.0 km finish upshot LEFT side
+	GFUL1
+		Images:	21690
+		Time:	16.03.2025 06:08:11 until 16.03.2025 10:46:33
+		Duration:	04:38:22
+		Location:	NULL NULL
+
+(20) - 0.0 km FINISH UPSHOT RIGHT SIDE
+	GFURS1
+		Images:	10842
+		Time:	12.10.2024 10:34:37 until 16.03.2025 10:16:20
+		Duration:	154.23:41:43
+		Location:	NULL NULL
+
+(21) - 0.0 km GUY 859912 MSC 3
+	BGUY1
+		Images:	36973
+		Time:	16.03.2025 06:19:51 until 16.03.2025 17:28:01
+		Duration:	11:08:10
+		Location:	NULL NULL
+
+(22) - 0.0 km HENRY PRE FIN 859942
+	AHCAS1
+		Images:	12844
+		Time:	16.03.2025 08:21:45 until 16.03.2025 11:40:54
+		Duration:	03:19:09
+		Location:	NULL NULL
+
+(23) - 0.0 km jay adorable finish line
+	GJAY1
+		Images:	9491
+		Time:	16.03.2025 06:55:46 until 16.03.2025 12:22:00
+		Duration:	05:26:14
+		Location:	NULL NULL
+
+(24) - 0.0 km JIM DEE PRE FIN 859945
+	AJDEE1
+		Images:	12017
+		Time:	16.03.2025 09:44:37 until 16.03.2025 12:27:41
+		Duration:	02:43:04
+		Location:	NULL NULL
+
+(25) - 0.0 km Joseph Rich 859924 MSC7
+	DJR1
+		Images:	25886
+		Time:	16.03.2025 06:32:13 until 16.03.2025 12:00:56
+		Duration:	05:28:43
+		Location:	NULL NULL
+
+(26) - 0.0 km LEFT PRE FINISH UPSHOT TRIGGER
+	GPUTL1
+		Images:	17687
+		Time:	16.03.2025 06:05:47 until 16.03.2025 11:01:13
+		Duration:	04:55:26
+		Location:	NULL NULL
+
+(27) - 0.0 km Lucas Kroll Finish line
+	GLK1
+		Images:	46174
+		Time:	16.03.2025 04:36:16 until 16.03.2025 12:28:41
+		Duration:	07:52:25
+		Location:	NULL NULL
+
+(28) - 0.0 km MARVIN PRE FIN 859894
+	BMARV1
+		Images:	25562
+		Time:	16.03.2025 06:11:50 until 16.03.2025 12:57:53
+		Duration:	06:46:03
+		Location:	NULL NULL
+
+(29) - 0.0 km MAURICIO PRE FIN
+	GRICO1
+		Images:	17050
+		Time:	16.03.2025 06:52:39 until 16.03.2025 11:30:59
+		Duration:	04:38:20
+		Location:	NULL NULL
+
+(30) - 0.0 km Medals
+	EAD1
+		Images:	3366
+		Time:	16.03.2025 06:09:47 until 16.03.2025 11:15:37
+		Duration:	05:05:50
+		Location:	NULL NULL
+
+	ECB1
+		Images:	12562
+		Time:	16.03.2025 05:06:47 until 16.03.2025 10:18:36
+		Duration:	05:11:49
+		Location:	NULL NULL
+
+	ELM1
+		Images:	6958
+		Time:	16.03.2025 07:04:02 until 16.03.2025 12:44:16
+		Duration:	05:40:14
+		Location:	NULL NULL
+
+	EPK1
+		Images:	10170
+		Time:	16.03.2025 07:25:03 until 16.03.2025 10:45:48
+		Duration:	03:20:45
+		Location:	NULL NULL
+
+	ERL1
+		Images:	9805
+		Time:	16.03.2025 07:02:05 until 16.03.2025 12:12:16
+		Duration:	05:10:11
+		Location:	NULL NULL
+
+	ESB1
+		Images:	9764
+		Time:	31.12.2013 19:00:05 until 16.03.2025 09:34:26
+		Duration:	4092.14:34:21
+		Location:	NULL NULL
+
+	ESG1
+		Images:	3464
+		Time:	16.03.2025 07:11:37 until 16.03.2025 12:14:32
+		Duration:	05:02:55
+		Location:	NULL NULL
+
+(31) - 0.0 km MSC 1 TRIGGER 859951
+	GTRA1
+(32) - 0.0 km msc 2 trigger 859910
+	BTRB1
+		Images:	11346
+		Time:	16.03.2025 05:58:26 until 16.03.2025 10:17:42
+		Duration:	04:19:16
+		Location:	NULL NULL
+
+(33) - 0.0 km MSC 3 TRIGGER 859913
+	BTRC1
+		Images:	12998
+		Time:	16.03.2024 05:55:36 until 16.03.2024 10:32:21
+		Duration:	04:36:45
+		Location:	NULL NULL
+
+(34) - 0.0 km MSC 6 TRIGGER 859918
+	ATRF1
+		Images:	14512
+		Time:	16.03.2025 06:28:27 until 16.03.2025 12:04:57
+		Duration:	05:36:30
+		Location:	NULL NULL
+
+(35) - 0.0 km PABLO BARAJAS MSC 8 864272
+	APBAR1
+		Images:	23852
+		Time:	16.03.2025 06:51:44 until 16.03.2025 12:20:37
+		Duration:	05:28:53
+		Location:	NULL NULL
+
+(36) - 0.0 km PRE FIN RICO
+	ARICO1
+		Images:	1815
+		Time:	16.03.2025 11:32:24 until 16.03.2025 13:24:58
+		Duration:	01:52:34
+		Location:	NULL NULL
+
+(37) - 0.0 km pre fin trigger mid 859938
+	BTRY1
+		Images:	21874
+		Time:	16.03.2025 06:46:13 until 16.03.2025 11:37:19
+		Duration:	04:51:06
+		Location:	NULL NULL
+
+(38) - 0.0 km pre fin trigger right 859943
+	BTRX1
+		Images:	11674
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(39) - 0.0 km pre Finish RIGHT side trigger
+	GPLS1
+		Images:	11488
+		Time:	16.03.2025 06:48:11 until 16.03.2025 12:20:51
+		Duration:	05:32:40
+		Location:	NULL NULL
+
+(40) - 0.0 km PRE PRE FINISH LEFT TRIGGER
+	GPPLT1
+		Images:	9999
+		Time:	16.03.2025 09:59:02 until 16.03.2025 12:47:01
+		Duration:	02:47:59
+		Location:	NULL NULL
+
+(41) - 0.0 km PRE PRE FINISH RTIGGER
+	GPPFT1
+		Images:	7410
+		Time:	01.01.0001 23:00:00 until 24.12.2000 16:40:57
+		Duration:	730476.17:40:57
+		Location:	NULL NULL
+
+(42) - 0.0 km RACHEL MSC 8 859952
+	ARCZ1
+		Images:	11196
+		Time:	16.03.2025 08:42:51 until 16.03.2025 13:49:18
+		Duration:	05:06:27
+		Location:	NULL NULL
+
+(43) - 0.0 km TANJA MOM MSC 8 859953
+	ATMOM1
+		Images:	14262
+		Time:	16.03.2025 07:10:35 until 16.03.2025 11:50:41
+		Duration:	04:40:06
+		Location:	NULL NULL
+
+(44) - 0.0 km Terry Wherry 859923 MSC7
+	DTW1
+		Images:	28673
+		Time:	16.03.2025 05:39:11 until 16.03.2025 10:56:46
+		Duration:	05:17:35
+		Location:	NULL NULL
+
+(45) - 0.0 km TRENT MSC 6 859914
+	ATREN1
+		Images:	40114
+		Time:	16.03.2025 06:19:57 until 16.03.2025 10:45:04
+		Duration:	04:25:07
+		Location:	NULL NULL
+
+(46) - 0.0 km Trigger 859957 MSC4
+	DTRD1
+		Images:	10656
+		Time:	16.03.2025 06:36:08 until 16.03.2025 10:01:03
+		Duration:	03:24:55
+		Location:	NULL NULL
+
+(47) - 0.0 km Trigger 864213 MSC7
+	DTRI1
+		Images:	15875
+		Time:	16.03.2025 07:08:34 until 16.03.2025 11:58:26
+		Duration:	04:49:52
+		Location:	NULL NULL
+
+(48) - 0.0 km TRIGGER MSC 8 859955
+	BTRH1
+		Images:	14488
+		Time:	16.03.2025 06:34:18 until 16.03.2025 12:04:08
+		Duration:	05:29:50
+		Location:	NULL NULL
+
+(49) - 0.0 km WILLIAM DEE PRE FIN 859946
+	AWDEE1
+		Images:	7457
+		Time:	16.03.2025 10:46:03 until 16.03.2025 13:26:02
+		Duration:	02:39:59
+		Location:	NULL NULL
+
+(50) - Impressions / Pano
+	PANO1
+(51) - none
+	SGENT1
+		Images:	7551
+		Time:	16.03.2025 08:40:40 until 16.03.2025 10:16:03
+		Duration:	01:35:23
+		Location:	NULL NULL
+

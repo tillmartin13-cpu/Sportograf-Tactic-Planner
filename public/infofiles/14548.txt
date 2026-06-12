@@ -1,0 +1,126 @@
+EventId: 14548
+Spots: 18
+Total Images: 93108
+Time:	21.11.2025 13:20:20 to 23.11.2025 14:34:53
+Duration: 2.01:14:33
+
+(1) - Obstacle 3 Barbed Wire Crawl
+	GOB1
+		Images:	6844
+		Time:	22.11.2025 06:00:05 until 23.11.2025 13:08:43
+		Duration:	1.07:08:38
+		Location:	33.37817 -112.31471
+
+(2) - Obstacle 6 Monkey Bars
+	DVAL1
+		Images:	11448
+		Time:	22.11.2025 06:00:25 until 23.11.2025 13:09:08
+		Duration:	1.07:08:43
+		Location:	33.37912 -112.31135
+
+	AHG1
+		Images:	6870
+		Time:	22.11.2025 06:09:28 until 23.11.2025 13:13:12
+		Duration:	1.07:03:44
+		Location:	33.37912 -112.31135
+
+(3) - Obstacle 10 Bucket Carry
+	KHN1
+		Images:	10520
+		Time:	22.11.2025 21:01:13 until 23.11.2025 13:32:31
+		Duration:	16:31:18
+		Location:	33.37625 -112.30654
+
+	KHN1LS1
+		Images:	2108
+		Time:	23.11.2025 06:13:43 until 23.11.2025 13:41:43
+		Duration:	07:28:00
+		Location:	33.37223 -112.31115
+
+	KHN1LS2
+		Images:	1386
+		Time:	23.11.2025 10:23:19 until 23.11.2025 12:53:52
+		Duration:	02:30:33
+		Location:	33.37268 -112.30837
+
+(4) - Obstacle 10 Plate Drag
+	TUD1
+		Images:	6196
+		Time:	22.11.2025 06:02:45 until 23.11.2025 13:59:57
+		Duration:	1.07:57:12
+		Location:	33.37458 -112.30817
+
+	JABE1
+		Images:	11212
+		Time:	23.11.2025 06:27:14 until 23.11.2025 13:59:30
+		Duration:	07:32:16
+		Location:	33.37458 -112.30817
+
+(5) - Obstacle 11 6' Wall
+	TRIW1
+		Images:	2547
+		Time:	23.11.2025 06:28:34 until 23.11.2025 14:06:20
+		Duration:	07:37:46
+		Location:	33.37395 -112.30664
+
+(6) - Obstacle 14 Olympus
+	AGJ1
+		Images:	3712
+		Time:	22.11.2025 05:17:28 until 23.11.2025 11:34:58
+		Duration:	1.06:17:30
+		Location:	33.37163 -112.31304
+
+(7) - Obstacle 24 Twister
+	DDC1
+		Images:	4834
+		Time:	21.11.2025 13:20:20 until 23.11.2025 12:37:24
+		Duration:	1.23:17:04
+		Location:	33.37178 -112.31281
+
+	JAL1
+		Images:	4483
+		Time:	22.11.2025 05:55:41 until 23.11.2025 12:37:20
+		Duration:	1.06:41:39
+		Location:	33.37178 -112.31281
+
+(8) - Obstacle 29 Multi-Rig
+	VAL1
+		Images:	7490
+		Time:	22.11.2025 06:02:34 until 23.11.2025 14:17:39
+		Duration:	1.08:15:05
+		Location:	33.37178 -112.31281
+
+	BGR1
+		Images:	1911
+		Time:	23.11.2025 06:55:41 until 23.11.2025 13:47:36
+		Duration:	06:51:55
+		Location:	33.37178 -112.31281
+
+(9) - Obstacle 30 Sandbag Carry
+	JANH1
+		Images:	7894
+		Time:	22.11.2025 05:45:43 until 23.11.2025 14:25:27
+		Duration:	1.08:39:44
+		Location:	33.37230 -112.31163
+
+(10) - Herotent
+	LLCA1
+		Images:	3414
+		Time:	22.11.2025 06:33:44 until 23.11.2025 14:34:53
+		Duration:	1.08:01:09
+		Location:	33.37237 -112.31443
+
+(11) - Festival Area
+	JOD1
+		Images:	220
+		Time:	22.11.2025 11:16:56 until 23.11.2025 12:37:51
+		Duration:	1.01:20:55
+		Location:	33.37237 -112.31443
+
+(12) - Drone
+	JOD1DRONE1
+		Images:	19
+		Time:	22.11.2025 13:40:52 until 23.11.2025 11:49:06
+		Duration:	22:08:14
+		Location:	33.37237 -112.31443
+

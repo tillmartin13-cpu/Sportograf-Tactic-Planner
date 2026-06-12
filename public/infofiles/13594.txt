@@ -1,0 +1,102 @@
+EventId: 13594
+Spots: 15
+Total Images: 55354
+Time:	26.10.2025 07:39:25 to 26.10.2025 14:11:57
+Duration: 06:32:32
+
+(1) - Reifenhindernis
+	LPI1
+		Images:	4596
+		Time:	26.10.2025 07:39:25 until 26.10.2025 13:08:09
+		Duration:	05:28:44
+		Location:	50.85623 10.86478
+
+(2) - Monkeybar
+	GUD1
+		Images:	6727
+		Time:	26.10.2025 08:57:33 until 26.10.2025 13:00:52
+		Duration:	04:03:19
+		Location:	50.86864 10.86410
+
+(3) - Impressions / Pano
+	GUD1DRONE1
+		Images:	6
+		Time:	26.10.2025 07:54:28 until 26.10.2025 07:58:08
+		Duration:	00:03:40
+		Location:	50.86864 10.86410
+
+	PANO1
+(4) - Balance Beam
+	GUD1LS1
+		Images:	2583
+		Time:	26.10.2025 08:21:24 until 26.10.2025 12:23:51
+		Duration:	04:02:27
+		Location:	50.86864 10.86410
+
+	GUD1LS2
+		Images:	2587
+		Time:	26.10.2025 08:46:07 until 26.10.2025 12:23:52
+		Duration:	03:37:45
+		Location:	50.86864 10.86410
+
+	MIH2
+		Images:	6725
+		Time:	26.10.2025 10:51:58 until 26.10.2025 13:01:37
+		Duration:	02:09:39
+		Location:	50.86854 10.86308
+
+(5) - Wall
+	MIH1
+		Images:	2795
+		Time:	26.10.2025 07:51:59 until 26.10.2025 10:49:11
+		Duration:	02:57:12
+		Location:	50.86857 10.86270
+
+(6) - Torfstich
+	SJK1
+		Images:	2028
+		Time:	26.10.2025 07:50:51 until 26.10.2025 13:08:21
+		Duration:	05:17:30
+		Location:	50.87029 10.85801
+
+(7) - Hohe Nummer
+	TIM1
+		Images:	4372
+		Time:	26.10.2025 07:58:42 until 26.10.2025 13:44:26
+		Duration:	05:45:44
+		Location:	50.86312 10.84493
+
+(8) - Powerslide
+	RIS1
+		Images:	4728
+		Time:	26.10.2025 08:55:17 until 26.10.2025 14:02:10
+		Duration:	05:06:53
+		Location:	50.86533 10.83390
+
+(9) - Schlammbowle
+	NU1
+		Images:	7870
+		Time:	26.10.2025 09:13:32 until 26.10.2025 14:06:27
+		Duration:	04:52:55
+		Location:	50.86400 10.83346
+
+	NU1LS1
+		Images:	1314
+		Time:	26.10.2025 07:55:24 until 26.10.2025 13:50:42
+		Duration:	05:55:18
+		Location:	50.86400 10.83346
+
+(10) - Tauch ab!
+	SK1
+		Images:	3108
+		Time:	26.10.2025 10:10:16 until 26.10.2025 14:10:58
+		Duration:	04:00:42
+		Location:	50.86483 10.83214
+
+(11) - Finish
+	ROH1
+		Images:	5915
+		Time:	26.10.2025 07:57:46 until 26.10.2025 14:11:57
+		Duration:	06:14:11
+		Location:	50.86483 10.83214
+

@@ -1,0 +1,133 @@
+EventId: 14983
+Spots: 19
+Total Images: 150753
+Time:	21.02.2025 08:25:29 to 21.02.2025 17:33:24
+Duration: 09:07:55
+
+(1) - Impressions / Pano
+	PANO1
+(2) - 0.0 km Start - 860205 - Keith Tromiczak
+	GSTKT1
+		Images:	1033
+		Time:	21.02.2025 08:25:29 until 21.02.2025 10:27:03
+		Duration:	02:01:34
+		Location:	NULL NULL
+
+(3) - 0.0 km MSC 1 - 860206 - Ryan Pletz
+	GONRP1
+		Images:	5195
+		Time:	21.02.2025 09:52:47 until 21.02.2025 12:43:02
+		Duration:	02:50:15
+		Location:	NULL NULL
+
+(4) - 0.0 km MSC 1 - 860207 - Patrick Halpin
+	GONPH1
+		Images:	3249
+		Time:	21.02.2025 09:53:54 until 21.02.2025 12:55:34
+		Duration:	03:01:40
+		Location:	NULL NULL
+
+(5) - 0.0 km MSC 2 - 860217 - Scott Homich
+	GTWSH1
+		Images:	10288
+		Time:	21.02.2025 11:05:00 until 21.02.2025 15:12:10
+		Duration:	04:07:10
+		Location:	NULL NULL
+
+(6) - 0.0 km MSC 3 - 860219 - Christopher Juhn
+	GTHCJ1
+		Images:	6325
+		Time:	21.02.2025 11:29:45 until 21.02.2025 16:40:37
+		Duration:	05:10:52
+		Location:	NULL NULL
+
+(7) - 0.0 km MSC 3 - 860220 - Jennifer Gallant
+	GTHJG1
+		Images:	9551
+		Time:	21.02.2025 09:05:15 until 21.02.2025 13:23:52
+		Duration:	04:18:37
+		Location:	NULL NULL
+
+(8) - none
+	GTHJG2
+		Images:	225
+		Time:	21.02.2025 15:30:59 until 21.02.2025 15:40:33
+		Duration:	00:09:34
+		Location:	NULL NULL
+
+	GTHJG3
+		Images:	5103
+		Time:	21.02.2025 13:25:40 until 21.02.2025 15:20:49
+		Duration:	01:55:09
+		Location:	NULL NULL
+
+(9) - 0.0 km PreFinish - 860208 - Giang Pham
+	GPFGP1
+		Images:	684
+		Time:	21.02.2025 15:18:10 until 21.02.2025 16:13:59
+		Duration:	00:55:49
+		Location:	NULL NULL
+
+(10) - 0.0 km PreFinish - 860209 - Keith Tromiczak
+	GPFKT1
+		Images:	4005
+		Time:	21.02.2025 11:55:01 until 21.02.2025 15:45:13
+		Duration:	03:50:12
+		Location:	NULL NULL
+
+(11) - 0.0 km PreFinish - 860210 - Trigger One
+	GPFTO1
+		Images:	21519
+		Time:	21.02.2025 09:39:23 until 21.02.2025 16:30:17
+		Duration:	06:50:54
+		Location:	NULL NULL
+
+(12) - 0.0 km PreFinish - 860211 - Trigger Two
+	GPFTT1
+		Images:	21449
+		Time:	21.02.2025 09:47:17 until 21.02.2025 16:30:18
+		Duration:	06:43:01
+		Location:	NULL NULL
+
+(13) - 0.0 km Finish - 860212 - Phillip Reyes
+	GFNPR1
+		Images:	7017
+		Time:	21.02.2025 10:15:50 until 21.02.2025 16:28:52
+		Duration:	06:13:02
+		Location:	NULL NULL
+
+(14) - 0.0 km Finish - 860213 - Trigger One
+	GFNTO1
+		Images:	21546
+		Time:	21.02.2025 09:56:38 until 21.02.2025 16:29:42
+		Duration:	06:33:04
+		Location:	NULL NULL
+
+(15) - 0.0 km Finish - 860214 - Trigger Two
+	GFNTT1
+		Images:	21649
+		Time:	21.02.2025 10:52:51 until 21.02.2025 17:33:24
+		Duration:	06:40:33
+		Location:	NULL NULL
+
+(16) - 0.0 km Medals - 8602215 - Paul Ostrum
+	GMDPO1
+		Images:	2163
+		Time:	21.02.2025 09:32:11 until 21.02.2025 16:12:45
+		Duration:	06:40:34
+		Location:	NULL NULL
+
+(17) - 0.0 km Medals - 860216 - Jack Parsons
+	GMDJP1
+		Images:	751
+		Time:	21.02.2025 09:52:58 until 21.02.2025 14:55:57
+		Duration:	05:02:59
+		Location:	NULL NULL
+
+(18) - 0.0 km MSC 2 - 000000 - Giang Pham
+	GTHGP1
+		Images:	9001
+		Time:	21.02.2025 09:20:49 until 21.02.2025 14:22:39
+		Duration:	05:01:50
+		Location:	NULL NULL
+

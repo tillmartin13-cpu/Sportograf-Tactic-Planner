@@ -1,0 +1,141 @@
+EventId: 14601
+Spots: 21
+Total Images: 93533
+Time:	20.09.2025 07:13:57 to 21.09.2025 16:52:39
+Duration: 1.09:38:42
+
+(1) - Event Village
+	BKO1
+		Images:	187
+		Time:	20.09.2025 09:27:30 until 21.09.2025 10:20:45
+		Duration:	1.00:53:15
+		Location:	51.09264 -0.25046
+
+	BKO1DRONE1
+		Images:	11
+		Time:	20.09.2025 09:09:52 until 21.09.2025 09:40:05
+		Duration:	1.00:30:13
+		Location:	51.09264 -0.25046
+
+(2) - Kiss of Mud
+	DP1
+		Images:	15023
+		Time:	21.09.2025 09:04:26 until 21.09.2025 14:47:14
+		Duration:	05:42:48
+		Location:	51.08975 -0.24781
+
+	DP1LS1
+		Images:	2583
+		Time:	21.09.2025 08:58:28 until 21.09.2025 14:50:56
+		Duration:	05:52:28
+		Location:	51.08975 -0.24781
+
+	RLW1
+		Images:	9378
+		Time:	20.09.2025 07:44:32 until 21.09.2025 14:47:17
+		Duration:	1.07:02:45
+		Location:	51.08975 -0.24781
+
+	BKO3
+		Images:	4099
+		Time:	21.09.2025 11:27:22 until 21.09.2025 12:06:50
+		Duration:	00:39:28
+		Location:	51.08975 -0.24781
+
+(3) - Mud Mile
+	KYY1
+		Images:	10727
+		Time:	20.09.2025 08:07:59 until 21.09.2025 14:59:53
+		Duration:	1.06:51:54
+		Location:	51.09156 -0.24494
+
+	BKO4
+		Images:	632
+		Time:	21.09.2025 12:13:44 until 21.09.2025 12:24:47
+		Duration:	00:11:03
+		Location:	51.09156 -0.24494
+
+(4) - Blockness Monster
+	RD1
+		Images:	5579
+		Time:	21.09.2025 10:22:51 until 21.09.2025 16:15:23
+		Duration:	05:52:32
+		Location:	51.08857 -0.24731
+
+	BKO5
+		Images:	1934
+		Time:	21.09.2025 12:31:52 until 21.09.2025 12:50:53
+		Duration:	00:19:01
+		Location:	51.08857 -0.24731
+
+(5) - Everest
+	CMS1
+		Images:	10611
+		Time:	21.09.2025 10:30:23 until 21.09.2025 16:21:10
+		Duration:	05:50:47
+		Location:	51.09122 -0.24831
+
+	DATI1
+		Images:	3441
+		Time:	20.09.2025 08:42:30 until 21.09.2025 16:25:45
+		Duration:	1.07:43:15
+		Location:	51.09122 -0.24831
+
+	BKO6
+		Images:	3533
+		Time:	21.09.2025 13:04:15 until 21.09.2025 13:48:42
+		Duration:	00:44:27
+		Location:	51.09122 -0.24831
+
+(6) - Cage Crawl
+	KSTH1
+		Images:	6890
+		Time:	20.09.2025 08:08:25 until 21.09.2025 16:35:11
+		Duration:	1.08:26:46
+		Location:	51.09199 -0.24868
+
+	BKO7
+		Images:	1656
+		Time:	21.09.2025 13:50:40 until 21.09.2025 14:07:55
+		Duration:	00:17:15
+		Location:	51.09199 -0.24868
+
+(7) - Elektroshock Therapy
+	YCAN1
+		Images:	6298
+		Time:	20.09.2025 07:13:57 until 21.09.2025 16:41:20
+		Duration:	1.09:27:23
+		Location:	51.09262 -0.25018
+
+	BKO8
+		Images:	1415
+		Time:	21.09.2025 14:13:25 until 21.09.2025 14:31:01
+		Duration:	00:17:36
+		Location:	51.09262 -0.25018
+
+(8) - Finish
+	BKO2LS1
+		Images:	3886
+		Time:	21.09.2025 09:29:18 until 21.09.2025 16:52:39
+		Duration:	07:23:21
+		Location:	51.09264 -0.25046
+
+	BKO2LS2
+		Images:	3893
+		Time:	21.09.2025 09:33:25 until 21.09.2025 16:52:25
+		Duration:	07:19:00
+		Location:	51.09264 -0.25046
+
+(9) - Hero Tent
+	CNS1
+		Images:	1446
+		Time:	20.09.2025 07:37:06 until 21.09.2025 16:43:42
+		Duration:	1.09:06:36
+		Location:	51.09264 -0.25046
+
+	BKO9
+		Images:	301
+		Time:	21.09.2025 14:40:06 until 21.09.2025 15:06:50
+		Duration:	00:26:44
+		Location:	51.09264 -0.25046
+

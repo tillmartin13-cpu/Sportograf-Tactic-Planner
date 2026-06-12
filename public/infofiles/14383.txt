@@ -1,0 +1,91 @@
+EventId: 14383
+Spots: 13
+Total Images: 29207
+Time:	20.09.2025 07:05:04 to 21.09.2025 15:17:34
+Duration: 1.08:12:30
+
+(1) - 5,0 km
+	DAV1
+		Images:	956
+		Time:	20.09.2025 07:18:18 until 21.09.2025 09:24:29
+		Duration:	1.02:06:11
+		Location:	50.78767 5.74794
+
+	DAV1LS1
+		Images:	735
+		Time:	21.09.2025 07:33:49 until 21.09.2025 09:26:58
+		Duration:	01:53:09
+		Location:	50.78767 5.74794
+
+	DAV1LS2
+		Images:	805
+		Time:	21.09.2025 07:30:12 until 21.09.2025 09:27:54
+		Duration:	01:57:42
+		Location:	50.78767 5.74794
+
+(2) - 7,0 km
+	TID1
+		Images:	2524
+		Time:	21.09.2025 07:17:09 until 21.09.2025 12:31:37
+		Duration:	05:14:28
+		Location:	50.81339 5.79526
+
+	TID1LS1
+		Images:	1248
+		Time:	21.09.2025 07:13:32 until 21.09.2025 09:48:46
+		Duration:	02:35:14
+		Location:	50.81339 5.79526
+
+(3) - 23,0 km
+	KMC1
+		Images:	4045
+		Time:	20.09.2025 07:23:52 until 21.09.2025 12:26:32
+		Duration:	1.05:02:40
+		Location:	50.86692 5.81591
+
+(4) - 25,0 km
+	KDA1
+		Images:	3347
+		Time:	20.09.2025 07:20:20 until 21.09.2025 13:23:52
+		Duration:	1.06:03:32
+		Location:	50.86472 5.82082
+
+(5) - 26,0 km
+	EVIQ1
+		Images:	3325
+		Time:	20.09.2025 07:05:04 until 21.09.2025 13:41:55
+		Duration:	1.06:36:51
+		Location:	50.85754 5.82522
+
+(6) - 60,0 km
+	DAV2
+		Images:	1906
+		Time:	20.09.2025 12:09:13 until 21.09.2025 14:26:50
+		Duration:	1.02:17:37
+		Location:	50.7793 5.80779
+
+	DAV2LS1
+		Images:	1636
+		Time:	21.09.2025 10:27:52 until 21.09.2025 14:57:07
+		Duration:	04:29:15
+		Location:	50.7793 5.80779
+
+	DAV2LS2
+		Images:	1683
+		Time:	21.09.2025 10:28:18 until 21.09.2025 14:57:13
+		Duration:	04:28:55
+		Location:	50.7793 5.80779
+
+(7) - 65,0 km
+	TID2
+		Images:	4191
+		Time:	21.09.2025 10:10:06 until 21.09.2025 15:17:34
+		Duration:	05:07:28
+		Location:	50.78426 5.78215
+
+	TID2LS1
+		Images:	2792
+		Time:	21.09.2025 10:16:31 until 21.09.2025 14:59:14
+		Duration:	04:42:43
+		Location:	50.78426 5.78215
+

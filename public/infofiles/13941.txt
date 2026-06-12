@@ -1,0 +1,339 @@
+EventId: 13941
+Spots: 51
+Total Images: 635061
+Time:	04.04.2025 11:32:31 to 05.04.2025 19:48:11
+Duration: 1.08:15:40
+
+(1) - 0.0 km before finish, Koppenberg top
+	BTID1
+		Images:	13450
+		Time:	05.04.2025 07:20:05 until 05.04.2025 16:46:29
+		Duration:	09:26:24
+		Location:	50.81099 3.57876
+
+(2) - 0.0 km Start  80km, 128km, 158km
+	BGVDL1
+		Images:	3279
+		Time:	05.04.2025 07:18:19 until 05.04.2025 10:49:28
+		Duration:	03:31:09
+		Location:	50.84320 3.61012
+
+	BMOKU1
+		Images:	7269
+		Time:	05.04.2025 06:40:09 until 05.04.2025 12:48:46
+		Duration:	06:08:37
+		Location:	50.84058 3.59264
+
+(3) - 0.0 km Start 228 km
+	BBAR1
+		Images:	1614
+		Time:	04.04.2025 21:25:16 until 05.04.2025 08:17:15
+		Duration:	10:51:59
+		Location:	51.20852 3.22500
+
+(4) - 12,7 km before finish, Paterberg Top
+	AFCO1
+		Images:	18276
+		Time:	05.04.2025 08:37:29 until 05.04.2025 18:10:32
+		Duration:	09:33:03
+		Location:	50.78212 3.54800
+
+	AGAC1
+		Images:	28814
+		Time:	04.04.2025 19:47:40 until 05.04.2025 18:37:56
+		Duration:	22:50:16
+		Location:	50.78203 3.54794
+
+(5) - 12,9 km before finish, Paterberg Top
+	AMARS1
+		Images:	9277
+		Time:	05.04.2025 09:21:59 until 05.04.2025 18:49:16
+		Duration:	09:27:17
+		Location:	50.78335 3.54847
+
+(6) - 13.8 km before finish, Fast downhill section to Patersberg
+	BKO1
+		Images:	5022
+		Time:	05.04.2025 05:42:27 until 05.04.2025 18:19:43
+		Duration:	12:37:16
+		Location:	50.77656 3.54585
+
+(7) - 14.0 km before finish, Fast downhill section to Patersberg
+	BFVE1
+		Images:	12388
+		Time:	05.04.2025 09:20:41 until 05.04.2025 18:18:06
+		Duration:	08:57:25
+		Location:	50.77656 3.54585
+
+(8) - 16.4 km before finish, Oude Kwaremont Top
+	BKOLS1
+		Images:	14912
+		Time:	04.04.2025 14:51:12 until 05.04.2025 18:25:20
+		Duration:	1.03:34:08
+		Location:	50.77037 3.52971
+
+(9) - 17,3 km before finish, Oude Kwaremont botom
+	ASEO1
+		Images:	23247
+		Time:	05.04.2025 07:54:24 until 05.04.2025 18:33:05
+		Duration:	10:38:41
+		Location:	50.77893 3.52596
+
+(10) - 17,5 km before finish, Oude Kwaremont botom
+	AMIJA1
+		Images:	22304
+		Time:	04.04.2025 11:32:31 until 05.04.2025 18:51:37
+		Duration:	1.07:19:06
+		Location:	50.77964 3.52585
+
+(11) - 17,7 km before finish, Oude Kwaremont botom
+	AMAJ1
+		Images:	9877
+		Time:	05.04.2025 07:42:06 until 05.04.2025 18:44:51
+		Duration:	11:02:45
+		Location:	50.78058 3.52570
+
+(12) - 22,4 km /128/158, 95,4/228, Paddestraat
+	AJKE1
+		Images:	20267
+		Time:	04.04.2025 16:33:07 until 05.04.2025 11:48:10
+		Duration:	19:15:03
+		Location:	50.81565 3.59851
+
+	AJKE1LS1
+		Images:	12386
+		Time:	04.04.2025 16:41:38 until 05.04.2025 11:50:12
+		Duration:	19:08:34
+		Location:	50.81565 3.59851
+
+	AJKE1LS2
+		Images:	12347
+		Time:	04.04.2025 16:36:54 until 05.04.2025 11:40:24
+		Duration:	19:03:30
+		Location:	50.81565 3.59851
+
+(13) - 22,8 km /128/158, 95,4/228, Paddestraat
+	AMIBU1
+		Images:	15136
+		Time:	04.04.2025 21:00:59 until 05.04.2025 11:40:05
+		Duration:	14:39:06
+		Location:	50.81899 3.59821
+
+	AMIBU1LS1
+		Images:	10565
+		Time:	04.04.2025 21:05:48 until 05.04.2025 11:47:22
+		Duration:	14:41:34
+		Location:	50.87749 3.76460
+
+	ATOBB1
+		Images:	14671
+		Time:	04.04.2025 14:24:34 until 05.04.2025 11:36:10
+		Duration:	21:11:36
+		Location:	50.81898 3.59814
+
+	ATOBB1DRONE1
+		Images:	109
+		Time:	05.04.2025 07:36:42 until 05.04.2025 14:41:37
+		Duration:	07:04:55
+		Location:	50.81898 3.59814
+
+	ATOBB1LS1
+		Images:	7730
+		Time:	04.04.2025 14:00:44 until 05.04.2025 11:48:37
+		Duration:	21:47:53
+		Location:	50.87753 3.76483
+
+	ATOBB1LS2
+		Images:	8347
+		Time:	04.04.2025 14:17:47 until 05.04.2025 11:53:24
+		Duration:	21:35:37
+		Location:	50.87753 3.76483
+
+(14) - 23.4 km before finish, Karnemelkbeekstraat climb
+	BDIK1
+		Images:	35743
+		Time:	05.04.2025 08:09:17 until 05.04.2025 18:33:04
+		Duration:	10:23:47
+		Location:	50.75720 3.53882
+
+	BSTDM1
+		Images:	17743
+		Time:	05.04.2025 08:17:57 until 05.04.2025 18:32:54
+		Duration:	10:14:57
+		Location:	50.75615 3.53947
+
+(15) - 40.1 km before finish, Tenhoutestraat
+	BSPSL1
+		Images:	10389
+		Time:	05.04.2025 07:34:27 until 05.04.2025 16:06:35
+		Duration:	08:32:08
+		Location:	50.78259 3.65638
+
+(16) - 42.0 km before finish, Stationsberg coblestone downhill
+	BBAR2
+		Images:	28663
+		Time:	05.04.2025 08:17:53 until 05.04.2025 17:06:05
+		Duration:	08:48:12
+		Location:	50.80114 3.61850
+
+	BTB1
+		Images:	26921
+		Time:	05.04.2025 07:54:56 until 05.04.2025 17:06:00
+		Duration:	09:11:04
+		Location:	50.80103 3.61890
+
+	BTB1LS1
+		Images:	4794
+		Time:	05.04.2025 08:34:11 until 05.04.2025 17:06:11
+		Duration:	08:32:00
+		Location:	50.80103 3.61890
+
+(17) - 48,2 km before finish, Downhill after Koppenberg
+	AMIBU2
+		Images:	5680
+		Time:	05.04.2025 13:44:10 until 05.04.2025 16:20:48
+		Duration:	02:36:38
+		Location:	50.84048 3.59266
+
+	ATOBB2
+		Images:	4146
+		Time:	05.04.2025 14:45:02 until 05.04.2025 16:00:11
+		Duration:	01:15:09
+		Location:	50.84048 3.59266
+
+	ATOBB2LS1
+		Images:	5182
+		Time:	05.04.2025 13:19:06 until 05.04.2025 16:21:34
+		Duration:	03:02:28
+		Location:	50.84048 3.59266
+
+	ATOBB2LS2
+		Images:	5075
+		Time:	05.04.2025 13:10:58 until 05.04.2025 16:16:05
+		Duration:	03:05:07
+		Location:	50.84048 3.59266
+
+(18) - 48,4 km before finish, Downhill after Koppenberg
+	AMIBU2LS1
+		Images:	3466
+		Time:	05.04.2025 13:29:29 until 05.04.2025 16:25:00
+		Duration:	02:55:31
+		Location:	50.84057 3.59275
+
+(19) - 48,6 km before finish, Downhill after Koppenberg
+	AJKE2
+		Images:	8659
+		Time:	05.04.2025 13:33:39 until 05.04.2025 16:49:55
+		Duration:	03:16:16
+		Location:	50.81565 3.59851
+
+	AJKE2LS1
+		Images:	5066
+		Time:	05.04.2025 13:04:09 until 05.04.2025 16:52:32
+		Duration:	03:48:23
+		Location:	50.81565 3.59851
+
+	AJKE2LS2
+		Images:	3967
+		Time:	05.04.2025 13:18:53 until 05.04.2025 15:16:35
+		Duration:	01:57:42
+		Location:	50.81565 3.59851
+
+(20) - 50.4 km before finish, Koppenberg top
+	BTID1LS1
+		Images:	24165
+		Time:	05.04.2025 07:46:43 until 05.04.2025 16:36:35
+		Duration:	08:49:52
+		Location:	50.81099 3.57876
+
+	BTLA1
+		Images:	16878
+		Time:	05.04.2025 07:26:45 until 05.04.2025 16:46:32
+		Duration:	09:19:47
+		Location:	50.81110 3.57882
+
+(21) - 61,4 km before finish, Ellestraat
+	ADPH1
+		Images:	18961
+		Time:	05.04.2025 07:43:23 until 05.04.2025 16:41:37
+		Duration:	08:58:14
+		Location:	50.80918 3.6388
+
+(22) - 62,1 km before finish, Ellestraat
+	ANBA1
+		Images:	16497
+		Time:	04.04.2025 21:36:23 until 05.04.2025 16:30:52
+		Duration:	18:54:29
+		Location:	50.80466 3.63868
+
+(23) - 62,4 km before finish, Aatse Heerweg
+	AMB1
+		Images:	18745
+		Time:	05.04.2025 07:42:08 until 05.04.2025 16:26:16
+		Duration:	08:44:08
+		Location:	50.80304 3.63952
+
+(24) - 65.0 km /158, 135,6/228 Muur van Geraardsbergen
+	BLMC1
+		Images:	17016
+		Time:	04.04.2025 18:24:36 until 05.04.2025 13:55:53
+		Duration:	19:31:17
+		Location:	50.77220 3.89016
+
+	BPBO1
+		Images:	15776
+		Time:	05.04.2025 07:53:21 until 05.04.2025 13:58:21
+		Duration:	06:05:00
+		Location:	50.77262 3.89103
+
+(25) - 8.6 km before finish, Kluisbergenbrug
+	BLMC2
+		Images:	5949
+		Time:	05.04.2025 15:17:25 until 05.04.2025 19:21:28
+		Duration:	04:04:03
+		Location:	50.77220 3.89016
+
+	BPBO2
+		Images:	8732
+		Time:	05.04.2025 15:17:40 until 05.04.2025 19:22:37
+		Duration:	04:04:57
+		Location:	50.79579 3.50328
+
+(26) - Finish
+	BGVDL2
+		Images:	8317
+		Time:	05.04.2025 10:52:41 until 05.04.2025 19:47:34
+		Duration:	08:54:53
+		Location:	50.84048 3.59266
+
+	BMOKU2
+		Images:	8500
+		Time:	05.04.2025 12:48:47 until 05.04.2025 19:45:51
+		Duration:	06:57:04
+		Location:	50.84048 3.59266
+
+	BMOKU2LS1
+		Images:	14443
+		Time:	05.04.2025 11:10:51 until 05.04.2025 19:48:11
+		Duration:	08:37:20
+		Location:	50.84048 3.59266
+
+	BMOKU2LS2
+		Images:	11001
+		Time:	05.04.2025 15:06:11 until 05.04.2025 19:48:11
+		Duration:	04:42:00
+		Location:	50.84048 3.59266
+
+	BPATL1
+		Images:	13299
+		Time:	04.04.2025 22:18:10 until 05.04.2025 19:47:29
+		Duration:	21:29:19
+		Location:	50.84048 3.59266
+
+(27) - Impressions / Pano
+	PANO1
+		Images:	1
+		Time:	05.04.2025 07:25:20 until 05.04.2025 07:25:20
+		Duration:	00:00:00
+		Location:	NULL NULL
+

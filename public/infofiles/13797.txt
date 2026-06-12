@@ -1,0 +1,98 @@
+EventId: 13797
+Spots: 15
+Total Images: 63435
+Time:	06.09.2025 20:52:43 to 07.09.2025 16:12:56
+Duration: 19:20:13
+
+(1) - Swim - Impressions / Pano
+	VL1IMP1
+		Images:	341
+		Time:	07.09.2025 08:53:47 until 07.09.2025 09:31:17
+		Duration:	00:37:30
+		Location:	51.68547 6.44120
+
+	PANO1
+(2) - Swim - Start
+	VL1
+		Images:	56
+		Time:	07.09.2025 08:26:04 until 07.09.2025 08:36:56
+		Duration:	00:10:52
+		Location:	51.68398 6.43382
+
+	MGA1
+		Images:	11673
+		Time:	06.09.2025 20:52:43 until 07.09.2025 15:16:00
+		Duration:	18:23:17
+		Location:	51.67944 6.44033
+
+	FRST1
+		Images:	6347
+		Time:	07.09.2025 08:25:20 until 07.09.2025 14:30:30
+		Duration:	06:05:10
+		Location:	51.68398 6.43382
+
+(3) - Bike - 1,0 km
+	MARS1
+		Images:	6799
+		Time:	06.09.2025 21:33:57 until 07.09.2025 14:54:34
+		Duration:	17:20:37
+		Location:	51.68354 6.43134
+
+	MARS1LS1
+		Images:	4927
+		Time:	07.09.2025 08:36:55 until 07.09.2025 15:02:17
+		Duration:	06:25:22
+		Location:	51.68354 6.43134
+
+(4) - Run - Transition zone
+	FRST2
+		Images:	735
+		Time:	07.09.2025 10:03:28 until 07.09.2025 14:44:20
+		Duration:	04:40:52
+		Location:	51.68323 6.43617
+
+(5) - Run - 1,0 km
+	STL1
+		Images:	4927
+		Time:	07.09.2025 08:36:55 until 07.09.2025 15:02:17
+		Duration:	06:25:22
+		Location:	51.68412 6.42895
+
+	STL1LS1
+		Images:	7427
+		Time:	07.09.2025 08:56:09 until 07.09.2025 15:29:06
+		Duration:	06:32:57
+		Location:	51.68412 6.42895
+
+(6) - Finish
+	FRST3
+		Images:	271
+		Time:	07.09.2025 14:54:57 until 07.09.2025 15:42:35
+		Duration:	00:47:38
+		Location:	51.68347 6.43712
+
+	VL2
+		Images:	8823
+		Time:	07.09.2025 09:34:09 until 07.09.2025 16:12:56
+		Duration:	06:38:47
+		Location:	51.68347 6.43712
+
+	VL2LS2
+		Images:	6138
+		Time:	07.09.2025 09:48:57 until 07.09.2025 16:12:52
+		Duration:	06:23:55
+		Location:	51.68347 6.43712
+
+	VL2LS1
+		Images:	4916
+		Time:	07.09.2025 10:05:37 until 07.09.2025 16:00:59
+		Duration:	05:55:22
+		Location:	51.68347 6.43712
+
+(7) - Run - Impressions / Pano
+	MGA1DRONE1
+		Images:	55
+		Time:	07.09.2025 08:23:52 until 07.09.2025 15:43:03
+		Duration:	07:19:11
+		Location:	51.68398 6.43382
+

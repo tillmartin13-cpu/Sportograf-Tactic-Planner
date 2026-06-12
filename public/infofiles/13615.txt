@@ -1,0 +1,172 @@
+EventId: 13615
+Spots: 26
+Total Images: 228573
+Time:	15.06.2025 08:47:05 to 16.07.2025 04:37:16
+Duration: 30.19:50:11
+
+(1) - Obstacle 3 Kletterwand
+	MIV1
+		Images:	17383
+		Time:	15.06.2025 09:39:57 until 15.06.2025 16:26:42
+		Duration:	06:46:45
+		Location:	51.50513 7.06042
+
+	MIV1LS2
+		Images:	4538
+		Time:	15.06.2025 09:06:20 until 15.06.2025 16:26:45
+		Duration:	07:20:25
+		Location:	51.50513 7.06042
+
+	MIV1LS1
+		Images:	4107
+		Time:	15.06.2025 09:41:20 until 15.06.2025 16:26:45
+		Duration:	06:45:25
+		Location:	51.50513 7.06042
+
+(2) - Obstacle 5 Schlammbecken
+	OT1
+		Images:	19735
+		Time:	15.06.2025 09:43:28 until 15.06.2025 16:33:34
+		Duration:	06:50:06
+		Location:	51.50620 7.05818
+
+	OT1LS1
+		Images:	7091
+		Time:	15.06.2025 09:20:20 until 15.06.2025 15:38:13
+		Duration:	06:17:53
+		Location:	51.50620 7.05818
+
+	MW1
+		Images:	3945
+		Time:	15.06.2025 11:16:42 until 15.06.2025 15:24:41
+		Duration:	04:07:59
+		Location:	51.50620 7.05818
+
+(3) - Obstacle 6 Schaumparty
+	RA1
+		Images:	27335
+		Time:	15.06.2025 09:45:51 until 15.06.2025 16:36:51
+		Duration:	06:51:00
+		Location:	51.50742 7.05487
+
+	RA1LS2
+		Images:	7665
+		Time:	15.06.2025 09:35:25 until 15.06.2025 16:37:14
+		Duration:	07:01:49
+		Location:	51.50742 7.05487
+
+	RA1LS1
+		Images:	8011
+		Time:	15.07.2025 21:50:34 until 16.07.2025 04:37:16
+		Duration:	06:46:42
+		Location:	51.50742 7.05487
+
+(4) - Obstacle 8 Piratenplanke
+	DEES1
+		Images:	11056
+		Time:	15.06.2025 09:49:42 until 15.06.2025 16:45:37
+		Duration:	06:55:55
+		Location:	51.50510 7.05473
+
+	LV1
+		Images:	13693
+		Time:	15.06.2025 09:48:18 until 15.06.2025 16:46:56
+		Duration:	06:58:38
+		Location:	51.50510 7.05473
+
+	LV1LS1
+		Images:	5046
+		Time:	15.06.2025 09:48:48 until 15.06.2025 16:44:42
+		Duration:	06:55:54
+		Location:	51.50510 7.05473
+
+(5) - Obstacle 12 Ninja Jump
+	DPH1
+		Images:	8706
+		Time:	15.06.2025 09:53:34 until 15.06.2025 17:00:15
+		Duration:	07:06:41
+		Location:	51.50616 7.05755
+
+(6) - Obstacle 13 Krabbelstrecke
+	BENP1
+		Images:	4204
+		Time:	15.06.2025 10:08:07 until 15.06.2025 17:12:03
+		Duration:	07:03:56
+		Location:	51.50635 7.05523
+
+	NBA1
+		Images:	8384
+		Time:	15.06.2025 09:48:53 until 15.06.2025 17:12:24
+		Duration:	07:23:31
+		Location:	51.50635 7.05523
+
+(7) - Obstacle 16 Gitterbecken
+	FCO1
+		Images:	8872
+		Time:	15.06.2025 10:09:18 until 15.06.2025 17:29:13
+		Duration:	07:19:55
+		Location:	51.50643 7.05402
+
+	GAC1
+		Images:	10245
+		Time:	15.06.2025 10:05:45 until 15.06.2025 17:29:17
+		Duration:	07:23:32
+		Location:	51.50643 7.05402
+
+(8) - Obstacle 20 Containerrutsche
+	MBEN1
+		Images:	28918
+		Time:	15.06.2025 09:53:28 until 15.06.2025 17:25:25
+		Duration:	07:31:57
+		Location:	51.50596 7.05591
+
+	JKE1LS1
+		Images:	497
+		Time:	15.06.2025 09:06:16 until 15.06.2025 17:39:25
+		Duration:	08:33:09
+		Location:	51.50596 7.05591
+
+(9) - Finish
+	ALN1
+		Images:	17208
+		Time:	15.06.2025 10:11:30 until 15.06.2025 17:40:54
+		Duration:	07:29:24
+		Location:	51.50596 7.05591
+
+	ALN1DRONE1
+		Images:	29
+		Time:	15.06.2025 10:35:30 until 15.06.2025 12:12:36
+		Duration:	01:37:06
+		Location:	51.50596 7.05591
+
+	ALN1LS2
+		Images:	2826
+		Time:	15.06.2025 09:49:03 until 15.06.2025 17:34:01
+		Duration:	07:44:58
+		Location:	51.50596 7.05591
+
+	ALN1LS1
+		Images:	2493
+		Time:	15.06.2025 09:53:13 until 15.06.2025 17:30:31
+		Duration:	07:37:18
+		Location:	51.50596 7.05591
+
+	KFK1LS1
+		Images:	3056
+		Time:	15.06.2025 08:47:05 until 15.06.2025 17:27:01
+		Duration:	08:39:56
+		Location:	51.50596 7.05591
+
+(10) - Herotent
+	JKE1
+		Images:	1779
+		Time:	15.06.2025 09:54:04 until 15.06.2025 17:43:27
+		Duration:	07:49:23
+		Location:	51.50597 7.05589
+
+	KFK1
+		Images:	1751
+		Time:	15.06.2025 09:14:47 until 15.06.2025 17:25:22
+		Duration:	08:10:35
+		Location:	51.50597 7.05589
+

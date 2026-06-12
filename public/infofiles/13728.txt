@@ -1,0 +1,104 @@
+EventId: 13728
+Spots: 16
+Total Images: 35307
+Time:	23.03.2025 07:22:27 to 23.03.2025 11:03:25
+Duration: 03:40:58
+
+(1) - Impressions / Pano
+	PANO1
+(2) - Impression
+	EVL2
+		Images:	167
+		Time:	23.03.2025 09:11:52 until 23.03.2025 09:34:44
+		Duration:	00:22:52
+		Location:	47.74187 7.34063
+
+(3) - Start
+	MAMO1
+		Images:	424
+		Time:	23.03.2025 07:22:27 until 23.03.2025 08:06:52
+		Duration:	00:44:25
+		Location:	47.73873 7.32070
+
+(4) - 6.0 km / 17.9 km
+	MAWI1
+		Images:	4783
+		Time:	23.03.2025 08:23:47 until 23.03.2025 10:35:29
+		Duration:	02:11:42
+		Location:	47.73785 7.33258
+
+	MAWI1LS2
+		Images:	5970
+		Time:	23.03.2025 07:55:25 until 23.03.2025 10:33:57
+		Duration:	02:38:32
+		Location:	47.73785 7.33258
+
+	MAWI1LS1
+(5) - 6.9 km / 18.2 km
+	BECK1
+		Images:	7416
+		Time:	23.03.2025 07:40:20 until 23.03.2025 10:37:38
+		Duration:	02:57:18
+		Location:	47.74187 7.34063
+
+(6) - 7.0 km / 18.3 km
+	BECK1LS2
+		Images:	3621
+		Time:	23.03.2025 08:00:27 until 23.03.2025 10:40:16
+		Duration:	02:39:49
+		Location:	47.74187 7.34063
+
+	BECK1LS1
+		Images:	3374
+		Time:	23.03.2025 08:05:17 until 23.03.2025 10:39:03
+		Duration:	02:33:46
+		Location:	47.74187 7.34063
+
+(7) - 7.5 km
+	EVL1
+		Images:	2459
+		Time:	23.03.2025 07:41:51 until 23.03.2025 09:00:56
+		Duration:	01:19:05
+		Location:	47.74470 7.33961
+
+(8) - 8.0 km Place de la Réunion
+	JNK1
+		Images:	1654
+		Time:	23.03.2025 08:04:16 until 23.03.2025 09:03:12
+		Duration:	00:58:56
+		Location:	47.74672 7.33921
+
+(9) - 10.3 km
+	MAMO3
+		Images:	1135
+		Time:	23.03.2025 08:31:42 until 23.03.2025 08:59:24
+		Duration:	00:27:42
+		Location:	47.73873 7.32070
+
+(10) - 19.5 km
+	EVL4
+		Images:	1929
+		Time:	23.03.2025 09:45:42 until 23.03.2025 10:41:18
+		Duration:	00:55:36
+		Location:	47.73852 7.33270
+
+(11) - Ravitaillement
+	EVL3
+		Images:	18
+		Time:	23.03.2025 09:41:53 until 23.03.2025 09:44:09
+		Duration:	00:02:16
+		Location:	47.73852 7.33270
+
+(12) - Finish
+	JNK2
+		Images:	433
+		Time:	23.03.2025 09:06:58 until 23.03.2025 11:03:25
+		Duration:	01:56:27
+		Location:	47.73873 7.32070
+
+	MAMO2
+		Images:	1924
+		Time:	23.03.2025 09:02:50 until 23.03.2025 11:02:59
+		Duration:	02:00:09
+		Location:	47.73873 7.32070
+

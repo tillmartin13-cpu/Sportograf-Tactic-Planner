@@ -1,0 +1,312 @@
+EventId: 16168
+Spots: 51
+Total Images: 268939
+Time:	20.10.2025 08:00:18 to 21.11.2025 17:06:42
+Duration: 32.09:06:24
+
+(1) - Station 1 SKIERG
+	AFGA1
+		Images:	6937
+		Time:	20.11.2025 07:04:07 until 21.11.2025 07:17:05
+		Duration:	1.00:12:58
+		Location:	44.89287 -0.58259
+
+	IBLA1
+		Images:	5008
+		Time:	20.11.2025 07:00:48 until 20.11.2025 14:12:34
+		Duration:	07:11:46
+		Location:	44.89287 -0.58259
+
+	JDU1
+		Images:	10538
+		Time:	20.11.2025 06:36:59 until 20.11.2025 14:12:47
+		Duration:	07:35:48
+		Location:	44.89287 -0.58259
+
+	LULE2
+		Images:	8477
+		Time:	20.11.2025 14:26:11 until 20.11.2025 19:59:11
+		Duration:	05:33:00
+		Location:	44.89287 -0.58259
+
+	GUF2
+		Images:	2698
+		Time:	20.11.2025 14:25:42 until 20.11.2025 20:04:58
+		Duration:	05:39:16
+		Location:	44.89287 -0.58259
+
+	AIS2
+		Images:	5156
+		Time:	20.11.2025 14:35:17 until 20.11.2025 20:05:01
+		Duration:	05:29:44
+		Location:	44.89287 -0.58259
+
+(2) - Station 2 SLED PUSH
+	TGM1
+		Images:	3249
+		Time:	20.11.2025 07:13:37 until 21.11.2025 07:37:46
+		Duration:	1.00:24:09
+		Location:	44.89287 -0.58259
+
+	MAI1
+		Images:	10739
+		Time:	20.11.2025 07:08:26 until 20.11.2025 14:35:35
+		Duration:	07:27:09
+		Location:	44.89287 -0.58259
+
+	JI1
+		Images:	5901
+		Time:	20.11.2025 07:13:08 until 20.11.2025 14:34:51
+		Duration:	07:21:43
+		Location:	44.89287 -0.58259
+
+	JRD2
+		Images:	2209
+		Time:	20.11.2025 14:55:37 until 20.11.2025 19:58:56
+		Duration:	05:03:19
+		Location:	44.89287 -0.58259
+
+	JCR2
+		Images:	2692
+		Time:	20.11.2025 14:47:23 until 20.11.2025 20:12:15
+		Duration:	05:24:52
+		Location:	44.89287 -0.58259
+
+	JIA2
+		Images:	2183
+		Time:	20.11.2025 14:35:56 until 20.11.2025 19:57:48
+		Duration:	05:21:52
+		Location:	44.89287 -0.58259
+
+	MANR2
+		Images:	136
+		Time:	20.11.2025 14:35:33 until 20.11.2025 14:46:46
+		Duration:	00:11:13
+		Location:	44.89287 -0.58259
+
+(3) - SMILE ARCH
+	JLTG1LS1
+		Images:	5189
+		Time:	20.11.2025 07:31:15 until 20.11.2025 20:16:48
+		Duration:	12:45:33
+		Location:	44.89287 -0.58259
+
+	JLTG1LS2
+		Images:	5575
+		Time:	20.11.2025 07:32:01 until 20.11.2025 21:15:50
+		Duration:	13:43:49
+		Location:	44.89287 -0.58259
+
+(4) - Station 3 SLED PULL
+	LULE1
+		Images:	6241
+		Time:	20.11.2025 07:17:30 until 20.11.2025 14:20:07
+		Duration:	07:02:37
+		Location:	44.89287 -0.58259
+
+	GUF1
+		Images:	3259
+		Time:	20.11.2025 07:13:28 until 20.11.2025 14:10:39
+		Duration:	06:57:11
+		Location:	44.89287 -0.58259
+
+	AIS1
+		Images:	3047
+		Time:	20.11.2025 06:53:48 until 20.11.2025 14:24:35
+		Duration:	07:30:47
+		Location:	44.89287 -0.58259
+
+	AFGA2
+		Images:	3608
+		Time:	20.11.2025 14:25:39 until 20.11.2025 20:28:37
+		Duration:	06:02:58
+		Location:	44.89287 -0.58259
+
+	IBLA2
+		Images:	3259
+		Time:	20.11.2025 14:24:58 until 20.11.2025 20:25:57
+		Duration:	06:00:59
+		Location:	44.89287 -0.58259
+
+	JDU2
+		Images:	7457
+		Time:	20.11.2025 14:28:17 until 20.11.2025 20:17:20
+		Duration:	05:49:03
+		Location:	44.89287 -0.58259
+
+(5) - Station 5 ROWING
+	JIA1
+		Images:	6329
+		Time:	20.11.2025 06:49:50 until 20.11.2025 14:26:51
+		Duration:	07:37:01
+		Location:	44.89287 -0.58259
+
+	GGA1
+		Images:	5379
+		Time:	20.11.2025 06:39:16 until 21.11.2025 07:01:33
+		Duration:	1.00:22:17
+		Location:	44.89287 -0.58259
+
+	MAI2
+		Images:	18534
+		Time:	20.11.2025 15:00:36 until 20.11.2025 20:39:50
+		Duration:	05:39:14
+		Location:	44.89287 -0.58259
+
+	TGM2
+		Images:	5168
+		Time:	20.11.2025 14:31:29 until 20.11.2025 20:53:39
+		Duration:	06:22:10
+		Location:	44.89287 -0.58259
+
+	MAAU1
+		Images:	2700
+		Time:	20.11.2025 07:20:25 until 20.11.2025 18:01:10
+		Duration:	10:40:45
+		Location:	44.89287 -0.58259
+
+	AFA1
+		Images:	1844
+		Time:	20.11.2025 07:20:00 until 20.11.2025 18:01:03
+		Duration:	10:41:03
+		Location:	44.89287 -0.58259
+
+	MANR3
+		Images:	112
+		Time:	20.11.2025 14:27:03 until 20.11.2025 14:30:46
+		Duration:	00:03:43
+		Location:	44.89287 -0.58259
+
+(6) - Station 6 FARMERS CARRY
+	MANR1LS1
+		Images:	6659
+		Time:	20.11.2025 06:57:57 until 20.11.2025 21:23:32
+		Duration:	14:25:35
+		Location:	44.89287 -0.58259
+
+	FRN1LS1
+		Images:	10903
+		Time:	20.11.2025 09:26:56 until 20.11.2025 21:23:33
+		Duration:	11:56:37
+		Location:	44.89287 -0.58259
+
+(7) - Station 7 SANDBAG LUNGES
+	JRD1
+		Images:	8410
+		Time:	20.11.2025 06:32:34 until 20.11.2025 14:43:48
+		Duration:	08:11:14
+		Location:	44.89287 -0.58259
+
+	JCR1
+		Images:	5070
+		Time:	20.11.2025 06:40:29 until 21.11.2025 06:51:46
+		Duration:	1.00:11:17
+		Location:	44.89287 -0.58259
+
+	GGA2
+		Images:	4609
+		Time:	20.11.2025 14:39:08 until 20.11.2025 21:39:51
+		Duration:	07:00:43
+		Location:	44.89287 -0.58259
+
+	JI2
+		Images:	14349
+		Time:	20.11.2025 14:44:50 until 20.11.2025 21:43:23
+		Duration:	06:58:33
+		Location:	44.89287 -0.58259
+
+	MAAU2
+		Images:	3970
+		Time:	20.11.2025 09:51:34 until 20.11.2025 18:35:12
+		Duration:	08:43:38
+		Location:	44.89287 -0.58259
+
+	AFA2
+		Images:	1178
+		Time:	20.11.2025 09:51:07 until 20.11.2025 18:31:06
+		Duration:	08:39:59
+		Location:	44.89287 -0.58259
+
+(8) - Station 8 WALL BALLS
+	MIFP1
+		Images:	4511
+		Time:	20.11.2025 07:25:43 until 21.11.2025 07:00:33
+		Duration:	23:34:50
+		Location:	44.89287 -0.58259
+
+	JLTG1
+		Images:	5943
+		Time:	20.11.2025 07:51:00 until 21.11.2025 17:06:42
+		Duration:	1.09:15:42
+		Location:	44.89287 -0.58259
+
+	ATRE2
+		Images:	2168
+		Time:	20.10.2025 15:42:56 until 20.10.2025 22:58:26
+		Duration:	07:15:30
+		Location:	44.89287 -0.58259
+
+	RAVE2
+		Images:	14480
+		Time:	20.11.2025 14:07:24 until 20.11.2025 21:48:54
+		Duration:	07:41:30
+		Location:	44.89287 -0.58259
+
+	MAAU3
+		Images:	2724
+		Time:	20.11.2025 10:40:31 until 20.11.2025 19:11:20
+		Duration:	08:30:49
+		Location:	44.89287 -0.58259
+
+	AFA3
+		Images:	921
+		Time:	20.11.2025 10:34:41 until 20.11.2025 19:12:55
+		Duration:	08:38:14
+		Location:	44.89287 -0.58259
+
+	MANR1
+		Images:	1733
+		Time:	20.11.2025 08:48:01 until 21.11.2025 08:18:27
+		Duration:	23:30:26
+		Location:	44.89287 -0.58259
+
+(9) - Finish
+	RAVE1
+		Images:	16915
+		Time:	20.11.2025 07:52:45 until 21.11.2025 07:31:29
+		Duration:	23:38:44
+		Location:	44.89287 -0.58259
+
+	MIFP2
+		Images:	6335
+		Time:	20.11.2025 13:25:35 until 20.11.2025 22:16:01
+		Duration:	08:50:26
+		Location:	44.89287 -0.58259
+
+	TGM1LS2
+		Images:	4015
+		Time:	20.11.2025 05:40:55 until 20.11.2025 21:57:04
+		Duration:	16:16:09
+		Location:	44.89287 -0.58259
+
+	TGM1LS1
+		Images:	3518
+		Time:	20.11.2025 06:40:51 until 20.11.2025 21:03:36
+		Duration:	14:22:45
+		Location:	44.89287 -0.58259
+
+	FRN1
+(10) - Medalwall
+	ATRE1
+		Images:	3428
+		Time:	20.10.2025 08:00:18 until 21.10.2025 07:34:10
+		Duration:	23:33:52
+		Location:	44.89287 -0.58259
+
+	JLTG2
+		Images:	3475
+		Time:	20.11.2025 14:24:50 until 20.11.2025 22:20:05
+		Duration:	07:55:15
+		Location:	44.89287 -0.58259
+
+	FRN2

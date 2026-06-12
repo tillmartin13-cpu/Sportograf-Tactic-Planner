@@ -1,0 +1,430 @@
+EventId: 14370
+Spots: 68
+Total Images: 102099
+Time:	31.12.2012 23:00:03 to 21.09.2025 15:08:07
+Duration: 4646.16:08:04
+
+(1) - start 50 k
+	GAZ1
+		Images:	38
+		Time:	19.09.2025 09:21:33 until 19.09.2025 09:25:52
+		Duration:	00:04:19
+		Location:	46.40850 14.14611
+
+(2) - 15km 50 k
+	BRN1
+		Images:	9091
+		Time:	19.09.2025 09:53:10 until 19.09.2025 14:22:53
+		Duration:	04:29:43
+		Location:	46.48103 14.09502
+
+	BRN1LS1
+		Images:	1218
+		Time:	19.09.2025 09:05:48 until 19.09.2025 14:32:37
+		Duration:	05:26:49
+		Location:	46.48103 14.09502
+
+	BRN1LS2
+		Images:	2619
+		Time:	19.09.2025 08:38:52 until 19.09.2025 14:25:25
+		Duration:	05:46:33
+		Location:	46.48103 14.09502
+
+(3) - 16km 50 k
+	MDS1
+		Images:	3704
+		Time:	19.09.2025 10:29:57 until 19.09.2025 14:52:24
+		Duration:	04:22:27
+		Location:	46.48569 14.08637
+
+	MDS1LS1
+		Images:	1068
+		Time:	19.09.2025 08:16:03 until 19.09.2025 14:33:09
+		Duration:	06:17:06
+		Location:	46.48569 14.08637
+
+	MDS1LS2
+		Images:	862
+		Time:	19.09.2025 08:07:27 until 19.09.2025 21:10:11
+		Duration:	13:02:44
+		Location:	46.48569 14.08637
+
+(4) - 18 km 50 k
+	MATR1
+		Images:	3875
+		Time:	19.09.2025 09:26:35 until 19.09.2025 15:25:32
+		Duration:	05:58:57
+		Location:	46.49010 14.05824
+
+	MATR1LS1
+		Images:	1172
+		Time:	19.09.2025 09:22:44 until 19.09.2025 21:06:45
+		Duration:	11:44:01
+		Location:	46.49010 14.05824
+
+	MATR1LS2
+		Images:	1320
+		Time:	19.09.2025 09:00:53 until 19.09.2025 21:28:45
+		Duration:	12:27:52
+		Location:	46.49010 14.05824
+
+(5) - Start 120 k
+	BRN2
+		Images:	401
+		Time:	19.09.2025 20:52:56 until 19.09.2025 21:31:23
+		Duration:	00:38:27
+		Location:	46.34048 14.17597
+
+(6) - Finish 50 k
+	GAZ2
+		Images:	4396
+		Time:	19.09.2025 12:45:45 until 19.09.2025 17:32:03
+		Duration:	04:46:18
+		Location:	46.48428 13.78477
+
+	GAZ2LS2
+		Images:	1128
+		Time:	19.09.2025 12:08:30 until 19.09.2025 12:08:30
+		Duration:	00:00:00
+		Location:	46.48428 13.78477
+
+	GAZ2LS1
+		Images:	1036
+		Time:	19.09.2025 12:50:01 until 19.09.2025 19:26:46
+		Duration:	06:36:45
+		Location:	46.48428 13.78477
+
+	LULE2LS1
+		Images:	745
+		Time:	19.09.2025 11:57:27 until 19.09.2025 19:53:26
+		Duration:	07:55:59
+		Location:	46.48428 13.78477
+
+	LULE2
+		Images:	2431
+		Time:	19.09.2025 17:33:18 until 19.09.2025 22:44:18
+		Duration:	05:11:00
+		Location:	46.48428 13.78477
+
+(7) - Tibetan bridge 3 km after start 120 K
+	MATR2
+		Images:	192
+		Time:	19.09.2025 21:30:50 until 19.09.2025 21:53:22
+		Duration:	00:22:32
+		Location:	46.32845 14.18684
+
+	MATR2LS2
+		Images:	532
+		Time:	19.09.2025 21:29:27 until 19.09.2025 22:01:19
+		Duration:	00:31:52
+		Location:	46.32845 14.18684
+
+	MATR2LS1
+		Images:	288
+		Time:	19.09.2025 21:12:21 until 19.09.2025 22:04:53
+		Duration:	00:52:32
+		Location:	46.32845 14.18684
+
+(8) - 2 km after start 120 K
+	MDS2
+		Images:	307
+		Time:	19.09.2025 21:39:03 until 19.09.2025 21:52:10
+		Duration:	00:13:07
+		Location:	46.32949 14.18593
+
+	MDS2LS2
+		Images:	87
+		Time:	19.09.2025 21:31:38 until 19.09.2025 21:52:09
+		Duration:	00:20:31
+		Location:	46.32949 14.18593
+
+	MDS2LS1
+		Images:	523
+		Time:	19.09.2025 21:13:56 until 19.09.2025 21:52:09
+		Duration:	00:38:13
+		Location:	46.32949 14.18593
+
+(9) - Impressions / Pano
+	MATR1DRONE1
+		Images:	44
+		Time:	26.08.2025 07:07:54 until 20.09.2025 10:33:04
+		Duration:	25.03:25:10
+		Location:	46.49010 14.05820
+
+(10) - Start 80 k Bled
+	BRN3
+		Images:	180
+		Time:	20.09.2025 08:20:36 until 20.09.2025 09:05:27
+		Duration:	00:44:51
+		Location:	46.36697 14.08589
+
+(11) - 7 km after start 80 K
+	MATR3
+	MATR3LS2
+		Images:	1134
+		Time:	20.09.2025 09:22:48 until 20.09.2025 10:15:33
+		Duration:	00:52:45
+		Location:	46.39205 14.10511
+
+	MATR3LS1
+		Images:	686
+		Time:	20.09.2025 09:13:54 until 20.09.2025 10:10:14
+		Duration:	00:56:20
+		Location:	46.39205 14.10511
+
+(12) - 1 km before aid station Sedlo Suha 120 K 80 K
+	LULE3
+		Images:	6048
+		Time:	20.09.2025 10:49:31 until 20.09.2025 19:29:34
+		Duration:	08:40:03
+		Location:	46.48487 14.08948
+
+	LULE3LS2
+		Images:	1443
+		Time:	20.09.2025 11:01:41 until 20.09.2025 19:24:17
+		Duration:	08:22:36
+		Location:	46.48487 14.08948
+
+	LULE3LS1
+		Images:	2112
+		Time:	20.09.2025 12:38:47 until 20.09.2025 19:20:25
+		Duration:	06:41:38
+		Location:	46.48487 14.08948
+
+(13) - Pusti Rovt
+	GAZ3
+		Images:	5310
+		Time:	20.09.2025 11:00:22 until 20.09.2025 19:20:26
+		Duration:	08:20:04
+		Location:	46.48093 14.09482
+
+	GAZ3LS1
+		Images:	360
+		Time:	20.09.2025 13:23:42 until 20.09.2025 18:21:26
+		Duration:	04:57:44
+		Location:	46.48093 14.09482
+
+	GAZ3LS2
+		Images:	519
+		Time:	20.09.2025 13:40:45 until 20.09.2025 18:46:47
+		Duration:	05:06:02
+		Location:	46.48093 14.09482
+
+(14) - 3 km before finish
+	MATR4
+		Images:	2243
+		Time:	20.09.2025 09:30:09 until 20.09.2025 10:05:39
+		Duration:	00:35:30
+		Location:	46.48933 13.80553
+
+	MATR4LS2
+		Images:	345
+		Time:	20.09.2025 13:15:24 until 20.09.2025 19:26:01
+		Duration:	06:10:37
+		Location:	46.48933 13.80553
+
+	MATR4LS1
+		Images:	810
+		Time:	20.09.2025 13:18:51 until 20.09.2025 19:16:35
+		Duration:	05:57:44
+		Location:	46.48933 13.80553
+
+	BRN4
+		Images:	438
+		Time:	20.09.2025 13:58:44 until 20.09.2025 18:17:42
+		Duration:	04:18:58
+		Location:	46.48933 13.80553
+
+	BRN4LS1
+		Images:	156
+		Time:	20.09.2025 13:54:04 until 20.09.2025 18:31:11
+		Duration:	04:37:07
+		Location:	46.48933 13.80553
+
+	BRN4LS2
+		Images:	144
+		Time:	20.09.2025 13:14:28 until 20.09.2025 18:24:52
+		Duration:	05:10:24
+		Location:	46.48933 13.80553
+
+(15) - Finish  120 K E 80 K
+	MDS3
+		Images:	1370
+		Time:	20.09.2025 12:24:39 until 20.09.2025 19:25:23
+		Duration:	07:00:44
+		Location:	46.48428 13.78477
+
+	MDS3LS1
+		Images:	361
+		Time:	20.09.2025 09:50:28 until 20.09.2025 19:16:38
+		Duration:	09:26:10
+		Location:	46.48428 13.78477
+
+	MDS3LS2
+		Images:	429
+		Time:	20.09.2025 09:53:12 until 20.09.2025 19:16:39
+		Duration:	09:23:27
+		Location:	46.48428 13.78477
+
+	MATR5
+		Images:	1709
+		Time:	20.09.2025 19:32:22 until 21.09.2025 01:02:46
+		Duration:	05:30:24
+		Location:	46.48428 13.78477
+
+	MATR5LS1
+		Images:	892
+		Time:	20.09.2025 19:17:24 until 21.09.2025 01:10:35
+		Duration:	05:53:11
+		Location:	46.48428 13.78477
+
+	MATR5LS2
+		Images:	609
+		Time:	20.09.2025 19:30:34 until 21.09.2025 01:03:22
+		Duration:	05:32:48
+		Location:	46.48428 13.78477
+
+	BRN5
+		Images:	524
+		Time:	20.09.2025 14:36:03 until 21.09.2025 06:59:14
+		Duration:	16:23:11
+		Location:	46.48428 13.78477
+
+	BRN5LS1
+		Images:	563
+		Time:	21.09.2025 01:11:27 until 21.09.2025 07:00:12
+		Duration:	05:48:45
+		Location:	46.48428 13.78477
+
+	BRN5LS2
+		Images:	336
+		Time:	21.09.2025 01:22:57 until 21.09.2025 06:52:49
+		Duration:	05:29:52
+		Location:	46.48428 13.78477
+
+(16) - 5 km after start 25 k & 15 k  & Funny
+	LULE4
+		Images:	5097
+		Time:	21.09.2025 09:10:18 until 21.09.2025 10:42:48
+		Duration:	01:32:30
+		Location:	46.47681 13.78110
+
+	LULE4LS1
+		Images:	1064
+		Time:	21.09.2025 08:47:01 until 21.09.2025 10:20:27
+		Duration:	01:33:26
+		Location:	46.47681 13.78110
+
+	LULE4LS2
+		Images:	932
+		Time:	21.09.2025 08:43:31 until 21.09.2025 10:20:03
+		Duration:	01:36:32
+		Location:	46.47681 13.78110
+
+(17) - 4 km after start 25 K & 15 K  & Funny
+	GAZ4
+		Images:	1263
+		Time:	21.09.2025 09:28:43 until 21.09.2025 11:11:30
+		Duration:	01:42:47
+		Location:	46.47793 13.78124
+
+	GAZ4LS1
+		Images:	660
+		Time:	21.09.2025 08:54:11 until 21.09.2025 11:19:54
+		Duration:	02:25:43
+		Location:	46.47793 13.78124
+
+	GAZ4LS2
+		Images:	295
+		Time:	21.09.2025 11:25:25 until 21.09.2025 13:35:16
+		Duration:	02:09:51
+		Location:	46.47793 13.78124
+
+(18) - Gozd Martljek 25 k & 15 K
+	MDS4
+		Images:	5614
+		Time:	21.09.2025 09:34:34 until 21.09.2025 11:54:38
+		Duration:	02:20:04
+		Location:	46.48169 13.83777
+
+	MDS4LS1
+		Images:	1813
+		Time:	21.09.2025 09:03:49 until 21.09.2025 12:10:44
+		Duration:	03:06:55
+		Location:	46.48169 13.83777
+
+	MDS4LS2
+		Images:	2093
+		Time:	21.09.2025 09:03:48 until 21.09.2025 12:05:16
+		Duration:	03:01:28
+		Location:	46.48169 13.83777
+
+(19) - 1 Km before Finish 25 K
+	LULE5
+		Images:	2297
+		Time:	21.09.2025 11:46:08 until 21.09.2025 14:01:15
+		Duration:	02:15:07
+		Location:	46.48330 13.78238
+
+	LULE5LS1
+		Images:	1157
+		Time:	21.09.2025 11:19:12 until 21.09.2025 14:02:24
+		Duration:	02:43:12
+		Location:	46.48330 13.78238
+
+	LULE5LS2
+		Images:	867
+		Time:	21.09.2025 11:15:46 until 21.09.2025 14:02:42
+		Duration:	02:46:56
+		Location:	46.48330 13.78238
+
+(20) - 1 Km Before Finish 15 K
+	GAZ5
+		Images:	1852
+		Time:	21.09.2025 11:40:50 until 21.09.2025 13:32:07
+		Duration:	01:51:17
+		Location:	46.48649 13.79234
+
+	GAZ5LS1
+		Images:	612
+		Time:	31.12.2012 23:00:03 until 21.09.2025 10:22:23
+		Duration:	4646.11:22:20
+		Location:	46.48649 13.79234
+
+	GAZ5LS2
+		Images:	409
+		Time:	21.09.2025 11:29:21 until 21.09.2025 13:35:30
+		Duration:	02:06:09
+		Location:	46.48649 13.79234
+
+(21) - Finish 25 k & 15 k
+	MATR6
+		Images:	4744
+		Time:	21.09.2025 09:59:02 until 21.09.2025 13:16:01
+		Duration:	03:16:59
+		Location:	46.48419 13.78476
+
+	MATR6LS1
+		Images:	1793
+		Time:	07.09.2025 11:22:33 until 21.09.2025 15:01:50
+		Duration:	14.03:39:17
+		Location:	46.48419 13.78476
+
+	MATR6LS2
+		Images:	2335
+		Time:	21.09.2025 10:28:50 until 21.09.2025 13:09:11
+		Duration:	02:40:21
+		Location:	46.48419 13.78476
+
+	MDS5
+		Images:	1185
+		Time:	21.09.2025 13:17:12 until 21.09.2025 15:08:07
+		Duration:	01:50:55
+		Location:	46.48419 13.78476
+
+	MDS5LS1
+		Images:	219
+		Time:	21.09.2025 13:12:58 until 21.09.2025 15:04:36
+		Duration:	01:51:38
+		Location:	46.48419 13.78476
+

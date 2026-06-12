@@ -1,0 +1,77 @@
+EventId: 13586
+Spots: 11
+Total Images: 66551
+Time:	17.05.2025 08:31:52 to 17.05.2025 17:58:23
+Duration: 09:26:31
+
+(1) - Start
+	DP1
+		Images:	3735
+		Time:	17.05.2025 08:31:52 until 17.05.2025 11:14:13
+		Duration:	02:42:21
+		Location:	54.88110 -4.18217
+
+(2) - Finish
+	DP2
+		Images:	10811
+		Time:	17.05.2025 12:06:23 until 17.05.2025 17:57:03
+		Duration:	05:50:40
+		Location:	54.88042 -4.18216
+
+	DP2LS1
+		Images:	1663
+		Time:	17.05.2025 12:15:01 until 17.05.2025 17:03:44
+		Duration:	04:48:43
+		Location:	54.88042 -4.18216
+
+(3) - 30.4 km
+	FRZ1
+		Images:	4908
+		Time:	17.05.2025 09:23:27 until 17.05.2025 11:20:46
+		Duration:	01:57:19
+		Location:	54.93712 -4.17290
+
+(4) - 97.8 km
+	FRZ2
+		Images:	4867
+		Time:	17.05.2025 12:02:57 until 17.05.2025 17:06:16
+		Duration:	05:03:19
+		Location:	54.95186 -4.25602
+
+(5) - 29.3 km
+	HCF1
+		Images:	5353
+		Time:	17.05.2025 09:23:08 until 17.05.2025 11:20:05
+		Duration:	01:56:57
+		Location:	54.93611 -4.16910
+
+(6) - 99.3 km
+	HCF2
+		Images:	8714
+		Time:	17.05.2025 11:58:08 until 17.05.2025 17:29:40
+		Duration:	05:31:32
+		Location:	54.94133 -4.26393
+
+(7) - 60.5 km
+	PHA1
+		Images:	13248
+		Time:	17.05.2025 09:51:18 until 17.05.2025 14:57:09
+		Duration:	05:05:51
+		Location:	55.03699 -4.19342
+
+(8) - 8.3 km
+	TSO1
+		Images:	11250
+		Time:	17.05.2025 09:29:47 until 17.05.2025 12:47:54
+		Duration:	03:18:07
+		Location:	54.91575 -4.11867
+
+(9) - Herotent
+	TSO2
+		Images:	2002
+		Time:	17.05.2025 12:57:02 until 17.05.2025 17:58:23
+		Duration:	05:01:21
+		Location:	54.88018 -4.18207
+
+(10) - Impressions / Pano
+	PANO1

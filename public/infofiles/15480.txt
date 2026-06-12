@@ -1,0 +1,62 @@
+EventId: 15480
+Spots: 9
+Total Images: 19347
+Time:	12.09.2025 10:25:58 to 13.09.2025 12:40:13
+Duration: 1.02:14:15
+
+(1) - Swim - Start
+	DP1
+		Images:	723
+		Time:	12.09.2025 10:25:58 until 13.09.2025 08:38:34
+		Duration:	22:12:36
+		Location:	51.48772 -0.65479
+
+(2) - Run - 2.3 km 2.5km laps, different distances for different tri lengths
+	DP2
+		Images:	4329
+		Time:	13.09.2025 08:44:06 until 13.09.2025 12:17:52
+		Duration:	03:33:46
+		Location:	51.49014 -0.65444
+
+(3) - Finish
+	DP2LS1
+		Images:	240
+		Time:	13.09.2025 07:21:54 until 13.09.2025 12:18:41
+		Duration:	04:56:47
+		Location:	51.48841 -0.65072
+
+	DP2LS2
+		Images:	246
+		Time:	12.09.2025 10:30:15 until 13.09.2025 12:18:33
+		Duration:	1.01:48:18
+		Location:	51.48841 -0.65072
+
+	TOMY2
+		Images:	3398
+		Time:	13.09.2025 10:19:03 until 13.09.2025 12:40:13
+		Duration:	02:21:10
+		Location:	51.48841 -0.65072
+
+(4) - Bike - 4.8 km 5.3km lap, different distances for different tri lengths
+	GWH1
+		Images:	6002
+		Time:	13.09.2025 08:03:37 until 13.09.2025 11:26:56
+		Duration:	03:23:19
+		Location:	51.48846 -0.65760
+
+(5) - Ceremony
+	GWH2
+		Images:	81
+		Time:	13.09.2025 11:47:39 until 13.09.2025 12:28:10
+		Duration:	00:40:31
+		Location:	51.48841 -0.65072
+
+(6) - Swim - Transition zone
+	TOMY1
+		Images:	4328
+		Time:	13.09.2025 08:05:03 until 13.09.2025 10:16:24
+		Duration:	02:11:21
+		Location:	51.48826 -0.65087
+
+(7) - Swim - Impressions / Pano
+	PANO1

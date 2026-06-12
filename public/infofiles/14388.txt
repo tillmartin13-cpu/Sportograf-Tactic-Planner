@@ -1,0 +1,122 @@
+EventId: 14388
+Spots: 17
+Total Images: 84337
+Time:	22.08.2025 18:27:01 to 24.08.2025 14:46:39
+Duration: 1.20:19:38
+
+(1) - Obstacle 3 Monkey Bars
+	AMON1
+		Images:	6516
+		Time:	23.08.2025 06:45:17 until 24.08.2025 12:57:20
+		Duration:	1.06:12:03
+		Location:	38.37696 -121.33971
+
+(2) - Obstacle 7 Bucket Carry
+	RUMU1
+		Images:	2201
+		Time:	23.08.2025 06:27:38 until 24.08.2025 13:26:23
+		Duration:	1.06:58:45
+		Location:	38.37386 -121.34206
+
+(3) - Obstacle 9 Atlas Carry
+	DANG1
+		Images:	6686
+		Time:	24.08.2025 07:22:42 until 24.08.2025 13:39:15
+		Duration:	06:16:33
+		Location:	38.37356 -121.33610
+
+	MAT1
+		Images:	6999
+		Time:	23.08.2025 06:55:47 until 24.08.2025 13:11:56
+		Duration:	1.06:16:09
+		Location:	38.37356 -121.33610
+
+(4) - Trail after Atlas Carry
+	DANG1LS1
+		Images:	2120
+		Time:	24.08.2025 07:23:12 until 24.08.2025 13:16:12
+		Duration:	05:53:00
+		Location:	38.37080 -121.33733
+
+	MAT1LS1
+		Images:	2206
+		Time:	24.08.2025 07:22:30 until 24.08.2025 13:15:29
+		Duration:	05:52:59
+		Location:	38.37080 -121.33733
+
+(5) - Obstacle 11 Barbed Wire Crawl
+	DMCI1
+		Images:	6278
+		Time:	24.08.2025 07:27:42 until 24.08.2025 14:05:14
+		Duration:	06:37:32
+		Location:	38.36890 -121.33329
+
+(6) - Obstacle 11 by Barbed Wire Crawl
+	DMCI1LS1
+		Images:	7979
+		Time:	23.08.2025 06:37:19 until 24.08.2025 14:07:02
+		Duration:	1.07:29:43
+		Location:	38.36890 -121.33329
+
+(7) - Obstacle 12 Multi-Rig
+	MKI1
+		Images:	8759
+		Time:	23.08.2025 06:34:24 until 24.08.2025 13:53:00
+		Duration:	1.07:18:36
+		Location:	38.36890 -121.33434
+
+	TERT1
+		Images:	850
+		Time:	22.08.2025 18:27:01 until 24.08.2025 01:50:10
+		Duration:	1.07:23:09
+		Location:	38.36890 -121.33434
+
+(8) - Obstacle 13 Sandbag Carry
+	DVAL1
+		Images:	12134
+		Time:	23.08.2025 06:41:58 until 24.08.2025 14:06:48
+		Duration:	1.07:24:50
+		Location:	38.36814 -121.33400
+
+(9) - Obstacle 15 Vertical Cargo
+	AIPA1
+		Images:	6197
+		Time:	23.08.2025 06:28:57 until 24.08.2025 14:15:38
+		Duration:	1.07:46:41
+		Location:	38.36972 -121.33184
+
+(10) - Obstacle 24 Rolling Mud
+	DDS1
+		Images:	5298
+		Time:	23.08.2025 06:55:56 until 24.08.2025 14:37:27
+		Duration:	1.07:41:31
+		Location:	38.37236 -121.33066
+
+(11) - Obstacle 25 Dunk Wall
+	DEST1
+		Images:	6338
+		Time:	23.08.2025 06:42:38 until 24.08.2025 14:38:17
+		Duration:	1.07:55:39
+		Location:	38.36694 -121.34950
+
+(12) - Herotent
+	HOG1
+		Images:	3182
+		Time:	23.08.2025 06:25:04 until 24.08.2025 14:46:39
+		Duration:	1.08:21:35
+		Location:	38.37160 -121.33295
+
+(13) - Random/Promo
+	MCAR1
+		Images:	558
+		Time:	23.08.2025 06:56:15 until 24.08.2025 10:46:49
+		Duration:	1.03:50:34
+		Location:	38.37160 -121.33295
+
+(14) - Drone
+	MCAR1IMP1
+		Images:	36
+		Time:	23.08.2025 09:46:28 until 24.08.2025 11:52:29
+		Duration:	1.02:06:01
+		Location:	38.37160 -121.33295
+

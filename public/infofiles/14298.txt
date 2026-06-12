@@ -1,0 +1,232 @@
+EventId: 14298
+Spots: 35
+Total Images: 125035
+Time:	26.09.2025 00:49:00 to 28.09.2025 11:11:48
+Duration: 2.10:22:48
+
+(1) - Start
+	ABAA1
+		Images:	705
+		Time:	27.09.2025 06:10:30 until 27.09.2025 07:35:43
+		Duration:	01:25:13
+		Location:	4.85598 100.74539
+
+	HTT1
+		Images:	88
+		Time:	26.09.2025 00:49:00 until 27.09.2025 03:01:55
+		Duration:	1.02:12:55
+		Location:	4.85598 100.74539
+
+	JKHA1
+		Images:	928
+		Time:	27.09.2025 02:20:02 until 27.09.2025 07:41:21
+		Duration:	05:21:19
+		Location:	4.85598 100.74539
+
+	MFAZ1
+		Images:	771
+		Time:	27.09.2025 04:51:28 until 27.09.2025 05:35:36
+		Duration:	00:44:08
+		Location:	4.85598 100.74539
+
+	MVV1
+		Images:	338
+		Time:	27.09.2025 02:22:16 until 27.09.2025 05:01:25
+		Duration:	02:39:09
+		Location:	4.85598 100.74539
+
+	MVV4
+		Images:	630
+		Time:	28.09.2025 07:33:42 until 28.09.2025 08:01:39
+		Duration:	00:27:57
+		Location:	4.85598 100.74539
+
+	RADM1
+		Images:	428
+		Time:	27.09.2025 04:52:15 until 27.09.2025 07:08:28
+		Duration:	02:16:13
+		Location:	4.85598 100.74539
+
+(2) - Finish
+	ABAA2
+		Images:	9106
+		Time:	27.09.2025 08:02:29 until 28.09.2025 03:03:37
+		Duration:	19:01:08
+		Location:	4.85355 100.74379
+
+	HTT4LS1
+		Images:	819
+		Time:	27.09.2025 23:24:58 until 28.09.2025 09:11:58
+		Duration:	09:47:00
+		Location:	4.85355 100.74379
+
+	JKHA3
+		Images:	1239
+		Time:	27.09.2025 21:07:07 until 28.09.2025 02:42:12
+		Duration:	05:35:05
+		Location:	4.85355 100.74379
+
+	MFAZ3
+		Images:	9211
+		Time:	28.09.2025 03:16:05 until 28.09.2025 11:04:28
+		Duration:	07:48:23
+		Location:	4.85355 100.74379
+
+	MVV1LS1
+		Images:	1554
+		Time:	27.09.2025 09:22:06 until 27.09.2025 21:27:36
+		Duration:	12:05:30
+		Location:	4.85355 100.74379
+
+	MVV3
+		Images:	13558
+		Time:	27.09.2025 12:09:07 until 28.09.2025 07:33:08
+		Duration:	19:24:01
+		Location:	4.85355 100.74379
+
+	PZIE2
+		Images:	7749
+		Time:	27.09.2025 14:09:18 until 27.09.2025 22:03:13
+		Duration:	07:53:55
+		Location:	4.85355 100.74379
+
+	RADM3
+		Images:	12855
+		Time:	27.09.2025 07:12:25 until 28.09.2025 10:59:34
+		Duration:	1.03:47:09
+		Location:	4.85355 100.74379
+
+	RY3
+		Images:	612
+		Time:	27.09.2025 21:40:47 until 28.09.2025 03:03:32
+		Duration:	05:22:45
+		Location:	4.85355 100.74379
+
+(3) - 92,0 km Taiping Prison - All Distance
+	ABAA3
+		Images:	2421
+		Time:	27.09.2025 14:48:18 until 27.09.2025 22:06:20
+		Duration:	07:18:02
+		Location:	4.85936 100.74823
+
+	MVV5
+		Images:	826
+		Time:	28.09.2025 08:45:19 until 28.09.2025 10:48:25
+		Duration:	02:03:06
+		Location:	4.85936 100.74823
+
+(4) - 1,5 km Lake Garden - All Distance
+	ABAA4
+		Images:	893
+		Time:	28.09.2025 08:05:37 until 28.09.2025 08:25:29
+		Duration:	00:19:52
+		Location:	4.85162 100.75039
+
+	HTT2
+		Images:	7318
+		Time:	27.09.2025 03:04:04 until 27.09.2025 09:21:36
+		Duration:	06:17:32
+		Location:	4.85162 100.75039
+
+	HTT5
+		Images:	1633
+		Time:	28.09.2025 06:50:31 until 28.09.2025 08:21:17
+		Duration:	01:30:46
+		Location:	4.85162 100.75039
+
+(5) - 31,0 km Tamor - MY100/MY50/MY25
+	HTT1LS1
+		Images:	277
+		Time:	27.09.2025 08:22:32 until 27.09.2025 23:22:05
+		Duration:	14:59:33
+		Location:	4.82280 100.76164
+
+	RY1
+		Images:	7437
+		Time:	27.09.2025 07:22:25 until 27.09.2025 12:45:00
+		Duration:	05:22:35
+		Location:	4.82280 100.76164
+
+(6) - 67,0 km MY100/MY50/MY25
+	HTT2LS1
+		Images:	1377
+		Time:	27.09.2025 13:41:54 until 27.09.2025 20:18:14
+		Duration:	06:36:20
+		Location:	4.81842 100.77216
+
+	HTT3
+		Images:	25552
+		Time:	27.09.2025 09:21:48 until 27.09.2025 23:31:36
+		Duration:	14:09:48
+		Location:	4.81842 100.77216
+
+(7) - 47,0 km KTM Tunnel
+	JKHA2
+		Images:	1409
+		Time:	27.09.2025 06:55:14 until 27.09.2025 12:11:24
+		Duration:	05:16:10
+		Location:	4.79680 100.75253
+
+(8) - 3,0 km MY13
+	JKHA4
+		Images:	620
+		Time:	28.09.2025 08:11:19 until 28.09.2025 08:53:22
+		Duration:	00:42:03
+		Location:	4.86062 100.75918
+
+(9) - 63,0 km Coconut Plantation - MY100 - (37KM - MY50)
+	MFAZ2
+		Images:	5240
+		Time:	27.09.2025 08:10:08 until 27.09.2025 19:14:22
+		Duration:	11:04:14
+		Location:	4.86590 100.76255
+
+(10) - 4,0 km Murugan Temple - MY100
+	MFAZ4
+		Images:	530
+		Time:	27.09.2025 03:17:40 until 27.09.2025 03:58:11
+		Duration:	00:40:31
+		Location:	4.86590 100.76255
+
+(11) - 11,0 km Angkasa - MY100
+	MVV2
+		Images:	2215
+		Time:	27.09.2025 05:03:06 until 27.09.2025 09:07:53
+		Duration:	04:04:47
+		Location:	4.86104 10.79301
+
+(12) - 27,4 km Tiger Temple-Bodhi - MY100/MY50/MY25
+	PZIE1
+		Images:	2763
+		Time:	27.09.2025 06:28:23 until 27.09.2025 13:38:06
+		Duration:	07:09:43
+		Location:	4.83316 100.76216
+
+(13) - 2,0 km MY13
+	PZIE3
+		Images:	808
+		Time:	28.09.2025 08:03:58 until 28.09.2025 11:11:48
+		Duration:	03:07:50
+		Location:	4.85527 100.74813
+
+(14) - 71,0 km Bukit Limau - MY100/MY50/MY25
+	RADM2
+		Images:	1449
+		Time:	27.09.2025 14:12:18 until 27.09.2025 16:48:59
+		Duration:	02:36:41
+		Location:	4.83198 100.76501
+
+(15) - 47,0 km Old RailwayTrack - MY100/MY50
+	RY2
+		Images:	405
+		Time:	27.09.2025 14:17:01 until 27.09.2025 16:04:23
+		Duration:	01:47:22
+		Location:	4.79365 100.75722
+
+(16) - 4,0 km
+	RY4
+		Images:	1271
+		Time:	28.09.2025 08:13:04 until 28.09.2025 08:53:52
+		Duration:	00:40:48
+		Location:	4.85694 100.75272
+

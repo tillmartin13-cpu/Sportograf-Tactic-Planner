@@ -1,0 +1,113 @@
+EventId: 15961
+Spots: 16
+Total Images: 136599
+Time:	01.01.0001 23:00:00 to 04.05.2025 02:08:55
+Duration: 739373.03:08:55
+
+(1) - Impressions / Pano
+	PANO1
+(2) - 0.0 km PreFIN- Andy W
+	ANDYW1
+		Images:	10112
+		Time:	03.05.2025 07:27:15 until 03.05.2025 13:39:03
+		Duration:	06:11:48
+		Location:	NULL NULL
+
+(3) - 0.0 km FIN-Clifton Radford
+	CLIFT1
+		Images:	12473
+		Time:	03.05.2025 07:27:55 until 03.05.2025 10:36:25
+		Duration:	03:08:30
+		Location:	NULL NULL
+
+(4) - 0.0 km PreFIN-Chris Granger
+	CHRIS1
+		Images:	25928
+		Time:	03.05.2025 08:46:46 until 04.05.2025 02:08:55
+		Duration:	17:22:09
+		Location:	NULL NULL
+
+(5) - 0.0 km Fin-Toby
+	TOBY1
+		Images:	19604
+		Time:	03.05.2025 06:38:32 until 03.05.2025 13:37:28
+		Duration:	06:58:56
+		Location:	NULL NULL
+
+(6) - 0.0 km MSC Michael Koseruba
+	MIKEK1
+		Images:	9514
+		Time:	01.01.0001 23:00:00 until 03.05.2025 12:19:38
+		Duration:	739372.13:19:38
+		Location:	NULL NULL
+
+(7) - 0.0 km MSC Eric Andrews
+	ERIC1
+		Images:	7939
+		Time:	03.05.2025 07:44:18 until 03.05.2025 11:39:08
+		Duration:	03:54:50
+		Location:	NULL NULL
+
+(8) - 0.0 km Noah Jatczak
+	NOAHJ1
+		Images:	11680
+		Time:	03.05.2025 07:27:00 until 03.05.2025 11:32:58
+		Duration:	04:05:58
+		Location:	NULL NULL
+
+(9) - 0.0 km Finish-Andy Yee
+	ANDYY1
+		Images:	9664
+		Time:	03.05.2025 07:26:10 until 03.05.2025 13:38:41
+		Duration:	06:12:31
+		Location:	NULL NULL
+
+(10) - 0.0 km Medals- Jill Matthews
+	JILL1
+		Images:	1598
+		Time:	03.05.2025 07:38:45 until 03.05.2025 13:44:46
+		Duration:	06:06:01
+		Location:	NULL NULL
+
+(11) - 0.0 km Medals August Scgweitzer
+	AS1
+		Images:	1860
+		Time:	03.05.2025 07:50:43 until 03.05.2025 12:15:54
+		Duration:	04:25:11
+		Location:	NULL NULL
+
+(12) - 0.0 km Medals- Kellie Coleman
+	KELLI1
+		Images:	825
+		Time:	03.05.2025 07:37:56 until 03.05.2025 11:15:52
+		Duration:	03:37:56
+		Location:	NULL NULL
+
+(13) - 0.0 km Medals-Holly Christman
+	HOLLY1
+		Images:	763
+		Time:	02.05.2025 17:35:41 until 02.05.2025 21:19:55
+		Duration:	03:44:14
+		Location:	NULL NULL
+
+(14) - 0.0 km trigger finish
+	AUTO1
+		Images:	9605
+		Time:	01.05.2024 22:19:44 until 03.05.2025 10:25:34
+		Duration:	366.12:05:50
+		Location:	NULL NULL
+
+(15) - 0.0 km trigger prefin 1
+	AUTO2
+		Images:	6537
+		Time:	03.05.2025 07:02:55 until 03.05.2025 10:38:05
+		Duration:	03:35:10
+		Location:	NULL NULL
+
+(16) - 0.0 km trigger prefin 2
+	AUTO3
+		Images:	8497
+		Time:	03.05.2025 07:29:01 until 03.05.2025 10:37:52
+		Duration:	03:08:51
+		Location:	NULL NULL
+

@@ -1,0 +1,113 @@
+EventId: 13576
+Spots: 17
+Total Images: 25682
+Time:	10.05.2025 06:57:07 to 10.05.2025 13:29:42
+Duration: 06:32:35
+
+(1) - PK 41,7
+	ALSE1
+		Images:	3214
+		Time:	10.05.2025 08:59:35 until 10.05.2025 10:14:19
+		Duration:	01:14:44
+		Location:	41.07132 -3.45945
+
+	ALSE1LS1
+		Images:	990
+		Time:	10.05.2025 08:57:01 until 10.05.2025 10:17:22
+		Duration:	01:20:21
+		Location:	41.07132 -3.45945
+
+(2) - PK 12,1
+	JAI1
+		Images:	2731
+		Time:	10.05.2025 07:57:16 until 10.05.2025 08:15:12
+		Duration:	00:17:56
+		Location:	41.05018 -3.58197
+
+	JAI1LS1
+		Images:	1957
+		Time:	10.05.2025 07:31:27 until 10.05.2025 08:15:14
+		Duration:	00:43:47
+		Location:	41.05034 -3.58183
+
+(3) - META
+	JAI2
+		Images:	3396
+		Time:	10.05.2025 09:54:27 until 10.05.2025 11:26:44
+		Duration:	01:32:17
+		Location:	40.99582 -3.63607
+
+	LUM4
+		Images:	1927
+		Time:	10.05.2025 11:26:43 until 10.05.2025 13:27:02
+		Duration:	02:00:19
+		Location:	40.99582 -3.63607
+
+(4) - Impressions / Pano
+	PANO1
+(5) - IMP
+	LUM1
+		Images:	29
+		Time:	10.05.2025 06:58:42 until 10.05.2025 07:26:30
+		Duration:	00:27:48
+		Location:	40.99067 -3.64075
+
+	ROM1
+		Images:	298
+		Time:	10.05.2025 06:57:07 until 10.05.2025 07:29:11
+		Duration:	00:32:04
+		Location:	40.99067 -3.64075
+
+(6) - SALIDA
+	LUM2
+		Images:	814
+		Time:	10.05.2025 07:35:44 until 10.05.2025 07:40:48
+		Duration:	00:05:04
+		Location:	40.99067 -3.64075
+
+	ROM2
+		Images:	310
+		Time:	10.05.2025 07:33:49 until 10.05.2025 07:40:42
+		Duration:	00:06:53
+		Location:	40.99067 -3.64075
+
+(7) - PK 51,5
+	LUM3
+		Images:	1121
+		Time:	10.05.2025 09:14:34 until 10.05.2025 09:48:10
+		Duration:	00:33:36
+		Location:	41.04584 -3.48766
+
+(8) - PK 51,9
+	ROM3
+		Images:	923
+		Time:	10.05.2025 09:11:08 until 10.05.2025 09:45:41
+		Duration:	00:34:33
+		Location:	41.04388 -3.49124
+
+	ROM1LS1
+		Images:	364
+		Time:	10.05.2025 08:59:00 until 10.05.2025 09:47:44
+		Duration:	00:48:44
+		Location:	41.04388 -3.49124
+
+(9) - PUENTE META
+	ROM4
+		Images:	1071
+		Time:	10.05.2025 11:28:51 until 10.05.2025 13:29:42
+		Duration:	02:00:51
+		Location:	40.99594 -3.63600
+
+(10) - PK 43,5
+	CRGA1
+		Images:	3977
+		Time:	10.05.2025 08:24:01 until 10.05.2025 10:30:00
+		Duration:	02:05:59
+		Location:	41.07407 -3.46811
+
+	CRGA1LS1
+		Images:	2560
+		Time:	10.05.2025 08:09:35 until 10.05.2025 10:33:23
+		Duration:	02:23:48
+		Location:	41.07407 -3.46811
+

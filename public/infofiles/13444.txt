@@ -1,0 +1,135 @@
+EventId: 13444
+Spots: 21
+Total Images: 33322
+Time:	01.01.0001 23:00:00 to 18.10.2025 23:47:00
+Duration: 739541.00:47:00
+
+(1) - Finish 5,9+16+25+50+75+100 km
+	AREM1
+		Images:	4669
+		Time:	18.10.2025 12:22:01 until 18.10.2025 18:26:42
+		Duration:	06:04:41
+		Location:	50.84098 14.74507
+
+	AREM1LS1
+		Images:	946
+		Time:	18.10.2025 12:06:46 until 18.10.2025 17:53:26
+		Duration:	05:46:40
+		Location:	50.84098 14.74507
+
+	AREM1LS2
+		Images:	628
+		Time:	18.10.2025 12:14:23 until 18.10.2025 18:29:21
+		Duration:	06:14:58
+		Location:	50.84098 14.74507
+
+	ZZX1
+		Images:	244
+		Time:	18.10.2025 17:55:27 until 18.10.2025 23:41:43
+		Duration:	05:46:16
+		Location:	50.84098 14.74507
+
+	ZZX1LS1
+		Images:	136
+		Time:	18.10.2025 18:26:43 until 18.10.2025 23:47:00
+		Duration:	05:20:17
+		Location:	50.84098 14.74507
+
+	ZZX1LS2
+		Images:	210
+		Time:	01.01.0001 23:00:00 until 18.10.2025 23:46:31
+		Duration:	739541.00:46:31
+		Location:	50.84098 14.74507
+
+(2) - Impressions / Pano
+	ADAR1DRONE1
+		Images:	12
+		Time:	18.10.2025 08:33:13 until 18.10.2025 08:41:33
+		Duration:	00:08:20
+		Location:	50.84709 14.76609
+
+	AGUD1DRONE1
+		Images:	12
+		Time:	18.10.2025 11:06:21 until 18.10.2025 11:13:39
+		Duration:	00:07:18
+		Location:	50.84988 14.65099
+
+	PANO1
+(3) - km 15,2@16 km / km 24,2@25 km / km 49,2@50 km / km 74,2@75 km / km 99,2@100 km - Kelchsteine
+	ABS2
+		Images:	3968
+		Time:	18.10.2025 13:27:19 until 18.10.2025 18:23:37
+		Duration:	04:56:18
+		Location:	50.84709 14.76609
+
+	ABS2LS1
+		Images:	1063
+		Time:	18.10.2025 13:09:07 until 18.10.2025 18:34:46
+		Duration:	05:25:39
+		Location:	50.84709 14.76609
+
+(4) - km 17,9@25 km / km 43,3@50+75+100 km - Johannisstein
+	AHKU1
+		Images:	7614
+		Time:	18.10.2025 08:37:39 until 18.10.2025 16:12:48
+		Duration:	07:35:09
+		Location:	50.84709 14.76609
+
+(5) - km 20,0@25 km / km 45,5@50 km / km 70,9@75 km / km 81,0@100 km - Hochwald
+	ADAR2
+		Images:	3077
+		Time:	18.10.2025 12:55:57 until 18.10.2025 17:55:02
+		Duration:	04:59:05
+		Location:	50.84709 14.76609
+
+	ADAR2LS1
+		Images:	839
+		Time:	18.10.2025 12:36:01 until 18.10.2025 17:55:25
+		Duration:	05:19:24
+		Location:	50.84709 14.76609
+
+(6) - km 23,3@50+75+100 km - Kleine Herkuleskeule/Ende Nonnensteig
+	ADAR1
+		Images:	2654
+		Time:	18.10.2025 07:58:46 until 18.10.2025 11:50:12
+		Duration:	03:51:26
+		Location:	50.84709 14.76609
+
+	ADAR1LS1
+		Images:	328
+		Time:	18.10.2025 07:37:47 until 18.10.2025 11:51:57
+		Duration:	04:14:10
+		Location:	50.84709 14.76609
+
+(7) - km 37,4@50+75+100 km - Oberlausitzer Bergweg bei Hubertusbaude
+	AGUD1
+		Images:	2515
+		Time:	18.10.2025 08:25:31 until 18.10.2025 15:04:29
+		Duration:	06:38:58
+		Location:	50.84709 14.76609
+
+	AGUD1LS1
+		Images:	852
+		Time:	18.10.2025 08:30:06 until 18.10.2025 15:05:37
+		Duration:	06:35:31
+		Location:	50.84709 14.76609
+
+	AGUD1LS2
+		Images:	908
+		Time:	18.10.2025 08:08:52 until 18.10.2025 15:05:36
+		Duration:	06:56:44
+		Location:	50.84709 14.76609
+
+(8) - km 8,2@25+50+75+100 km - Böhmische Aussicht
+	ABS1
+		Images:	1901
+		Time:	18.10.2025 07:29:41 until 18.10.2025 12:11:26
+		Duration:	04:41:45
+		Location:	50.84709 14.76609
+
+	ABS1LS1
+		Images:	746
+		Time:	18.10.2025 07:05:36 until 18.10.2025 12:10:53
+		Duration:	05:05:17
+		Location:	50.84709 14.76609
+

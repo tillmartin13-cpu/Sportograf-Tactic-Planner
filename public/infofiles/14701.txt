@@ -1,0 +1,145 @@
+EventId: 14701
+Spots: 22
+Total Images: 127154
+Time:	13.09.2025 06:53:14 to 13.09.2025 20:03:26
+Duration: 13:10:12
+
+(1) - Start
+	BK1
+		Images:	634
+		Time:	13.09.2025 10:54:32 until 13.09.2025 13:31:30
+		Duration:	02:36:58
+		Location:	53.56098 10.08291
+
+	BK2DRONE1
+		Images:	9
+		Time:	13.09.2025 12:52:57 until 13.09.2025 12:57:54
+		Duration:	00:04:57
+		Location:	53.56098 10.08291
+
+(2) - Impressions / Pano
+	PANO1
+(3) - Tauchbecken
+	MNO1
+		Images:	11311
+		Time:	13.09.2025 09:21:04 until 13.09.2025 16:55:10
+		Duration:	07:34:06
+		Location:	53.55764 10.08185
+
+(4) - Seiltanz
+	PDD1
+		Images:	8195
+		Time:	13.09.2025 08:46:48 until 13.09.2025 17:27:06
+		Duration:	08:40:18
+		Location:	53.56064 10.08238
+
+(5) - Krabbelstrecke
+	FES1
+		Images:	13768
+		Time:	13.09.2025 08:43:54 until 13.09.2025 17:31:22
+		Duration:	08:47:28
+		Location:	53.55939 10.08484
+
+	DABT1
+		Images:	9035
+		Time:	13.09.2025 08:47:59 until 13.09.2025 17:30:55
+		Duration:	08:42:56
+		Location:	53.55939 10.08484
+
+(6) - Gitterbecken
+	DWE1
+		Images:	5350
+		Time:	13.09.2025 09:33:41 until 13.09.2025 17:33:57
+		Duration:	08:00:16
+		Location:	53.55889 10.08450
+
+	DWE1LS1
+		Images:	3190
+		Time:	13.09.2025 09:20:22 until 13.09.2025 17:32:19
+		Duration:	08:11:57
+		Location:	53.55889 10.08450
+
+	BK2
+		Images:	871
+		Time:	13.09.2025 15:14:28 until 13.09.2025 20:03:26
+		Duration:	04:48:58
+		Location:	53.55889 10.08450
+
+	DWE1LS2
+		Images:	2618
+		Time:	13.09.2025 09:51:25 until 13.09.2025 17:33:23
+		Duration:	07:41:58
+		Location:	53.55889 10.08450
+
+	GL1
+		Images:	6830
+		Time:	13.09.2025 09:10:05 until 13.09.2025 17:34:56
+		Duration:	08:24:51
+		Location:	53.55889 10.08450
+
+(7) - Schaumparty
+	PLA1
+		Images:	8815
+		Time:	13.09.2025 09:38:08 until 13.09.2025 17:12:25
+		Duration:	07:34:17
+		Location:	53.56048 10.08777
+
+(8) - Wasserrutsche
+	THM2
+		Images:	9016
+		Time:	13.09.2025 12:25:11 until 13.09.2025 17:20:57
+		Duration:	04:55:46
+		Location:	53.56098 10.08291
+
+(9) - Schlammbecken
+	BOC1
+		Images:	10470
+		Time:	13.09.2025 08:54:22 until 13.09.2025 18:01:04
+		Duration:	09:06:42
+		Location:	53.55854 10.08429
+
+	MGEN1
+		Images:	6267
+		Time:	13.09.2025 09:59:22 until 13.09.2025 18:01:00
+		Duration:	08:01:38
+		Location:	53.55854 10.08429
+
+(10) - Containerrutsche
+	THM1
+		Images:	4540
+		Time:	13.09.2025 08:53:38 until 13.09.2025 12:16:48
+		Duration:	03:23:10
+		Location:	53.55893 10.08413
+
+(11) - Finish
+	HT1LS1
+		Images:	2906
+		Time:	13.09.2025 10:08:49 until 13.09.2025 18:02:08
+		Duration:	07:53:19
+		Location:	53.55937 10.08442
+
+	JKOR1LS1
+		Images:	3986
+		Time:	13.09.2025 06:58:05 until 13.09.2025 18:06:00
+		Duration:	11:07:55
+		Location:	53.55937 10.08442
+
+	JOPE1
+		Images:	10719
+		Time:	13.09.2025 09:35:52 until 13.09.2025 18:10:25
+		Duration:	08:34:33
+		Location:	53.55937 10.08442
+
+(12) - Herotent
+	JKOR1
+		Images:	4617
+		Time:	13.09.2025 06:53:14 until 13.09.2025 18:10:35
+		Duration:	11:17:21
+		Location:	53.55937 10.08442
+
+	HT1
+		Images:	4007
+		Time:	13.09.2025 09:13:46 until 13.09.2025 18:07:50
+		Duration:	08:54:04
+		Location:	53.55937 10.08442
+

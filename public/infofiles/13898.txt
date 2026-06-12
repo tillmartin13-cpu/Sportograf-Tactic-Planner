@@ -1,0 +1,111 @@
+EventId: 13898
+Spots: 17
+Total Images: 22191
+Time:	28.06.2025 01:05:34 to 28.06.2025 19:46:33
+Duration: 18:40:59
+
+(1) - Start
+	MAWI1
+		Images:	349
+		Time:	28.06.2025 01:05:34 until 28.06.2025 03:22:20
+		Duration:	02:16:46
+		Location:	46.9769 7.48148
+
+(2) - Impressions / Pano
+	PANO1
+	EVL1DRONE1
+		Images:	11
+		Time:	28.06.2025 13:03:49 until 28.06.2025 16:46:23
+		Duration:	03:42:34
+		Location:	46.34328 8.02598
+
+(3) - Impressions Sarnersee
+	MAWI2
+		Images:	40
+		Time:	28.06.2025 04:48:34 until 28.06.2025 05:32:58
+		Duration:	00:44:24
+		Location:	46.86308 8.19379
+
+(4) - 127.1 km Lungernersee
+	MAWI3
+		Images:	660
+		Time:	28.06.2025 06:32:20 until 28.06.2025 09:49:37
+		Duration:	03:17:17
+		Location:	46.79747 8.16204
+
+	MAWI3LS2
+		Images:	166
+		Time:	28.06.2025 07:54:43 until 28.06.2025 09:49:59
+		Duration:	01:55:16
+		Location:	46.79747 8.16204
+
+	MAWI3LS1
+		Images:	242
+		Time:	28.06.2025 06:36:39 until 28.06.2025 09:50:08
+		Duration:	03:13:29
+		Location:	46.79747 8.16204
+
+(5) - 169.8 km Räterichsbodensee
+	TE1
+		Images:	2585
+		Time:	28.06.2025 07:32:58 until 28.06.2025 13:17:09
+		Duration:	05:44:11
+		Location:	46.57956 8.33465
+
+	TE1LS2
+		Images:	2883
+		Time:	28.06.2025 08:17:46 until 28.06.2025 13:23:40
+		Duration:	05:05:54
+		Location:	46.57956 8.33465
+
+	TE1LS1
+		Images:	2968
+		Time:	28.06.2025 07:42:48 until 28.06.2025 13:21:33
+		Duration:	05:38:45
+		Location:	46.57956 8.33465
+
+(6) - 173.1 km Grimselpass
+	JNK1
+		Images:	1510
+		Time:	28.06.2025 07:22:04 until 28.06.2025 13:41:01
+		Duration:	06:18:57
+		Location:	46.56528 8.33272
+
+	JNK1LS1
+		Images:	553
+		Time:	28.06.2025 08:33:59 until 28.06.2025 13:40:26
+		Duration:	05:06:27
+		Location:	46.56528 8.33272
+
+(7) - 223.3 km Hohfluekapelle
+	EVL1
+		Images:	1035
+		Time:	28.06.2025 09:25:13 until 28.06.2025 17:08:41
+		Duration:	07:43:28
+		Location:	46.34328 8.02598
+
+	EVL1LS2
+		Images:	4627
+		Time:	28.06.2025 09:13:21 until 28.06.2025 16:04:53
+		Duration:	06:51:32
+		Location:	46.34328 8.02598
+
+	EVL1LS1
+		Images:	3212
+		Time:	28.06.2025 09:09:32 until 28.06.2025 16:05:31
+		Duration:	06:55:59
+		Location:	46.34328 8.02598
+
+(8) - Finish
+	MAPP1
+		Images:	800
+		Time:	28.06.2025 10:26:37 until 28.06.2025 19:46:33
+		Duration:	09:19:56
+		Location:	46.02246 7.74944
+
+	MAPP1LS1
+		Images:	550
+		Time:	28.06.2025 09:18:50 until 28.06.2025 19:46:29
+		Duration:	10:27:39
+		Location:	46.02246 7.74944
+

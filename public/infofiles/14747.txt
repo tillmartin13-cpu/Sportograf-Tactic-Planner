@@ -1,0 +1,348 @@
+EventId: 14747
+Spots: 56
+Total Images: 336665
+Time:	01.01.0001 23:00:00 to 05.05.2025 20:46:31
+Duration: 739374.21:46:31
+
+(1) - Run
+	BKO6LS1
+		Images:	5625
+		Time:	05.05.2025 08:03:00 until 05.05.2025 19:32:55
+		Duration:	11:29:55
+		Location:	51.49674 -0.21073
+
+	BKO6LS2
+		Images:	5129
+		Time:	05.05.2025 08:30:53 until 05.05.2025 19:32:44
+		Duration:	11:01:51
+		Location:	51.49674 -0.21073
+
+(2) - SkiErg
+	DP2
+		Images:	5910
+		Time:	05.05.2025 15:05:03 until 05.05.2025 19:06:47
+		Duration:	04:01:44
+		Location:	51.49674 -0.21073
+
+	MKH1
+		Images:	6601
+		Time:	03.05.2025 07:59:05 until 05.05.2025 14:49:45
+		Duration:	2.06:50:40
+		Location:	51.49674 -0.21073
+
+	WIN1
+		Images:	8615
+		Time:	04.05.2025 08:38:40 until 05.05.2025 14:59:01
+		Duration:	1.06:20:21
+		Location:	51.49674 -0.21073
+
+	THB1
+		Images:	13726
+		Time:	04.05.2025 07:52:09 until 05.05.2025 15:00:24
+		Duration:	1.07:08:15
+		Location:	51.49674 -0.21073
+
+	BKO1
+		Images:	3637
+		Time:	05.05.2025 10:24:09 until 05.05.2025 16:01:22
+		Duration:	05:37:13
+		Location:	51.49674 -0.21073
+
+	JUW1
+		Images:	2620
+		Time:	03.05.2025 07:45:28 until 05.05.2025 15:07:12
+		Duration:	2.07:21:44
+		Location:	51.49674 -0.21073
+
+	MALV2
+		Images:	7240
+		Time:	05.05.2025 15:15:14 until 05.05.2025 19:07:08
+		Duration:	03:51:54
+		Location:	51.49674 -0.21073
+
+	KYY2
+		Images:	6083
+		Time:	05.05.2025 15:09:56 until 05.05.2025 19:08:30
+		Duration:	03:58:34
+		Location:	51.49674 -0.21073
+
+(3) - Sled Push
+	CUP1
+		Images:	9200
+		Time:	03.05.2025 08:19:05 until 05.05.2025 15:11:57
+		Duration:	2.06:52:52
+		Location:	51.49674 -0.21073
+
+	LOT1
+		Images:	7274
+		Time:	03.05.2025 07:30:33 until 05.05.2025 15:19:09
+		Duration:	2.07:48:36
+		Location:	51.49674 -0.21073
+
+	DAWH1
+		Images:	9440
+		Time:	03.05.2025 07:35:28 until 05.05.2025 15:20:11
+		Duration:	2.07:44:43
+		Location:	51.49674 -0.21073
+
+	CMS2
+		Images:	4493
+		Time:	05.05.2025 15:26:09 until 05.05.2025 19:19:04
+		Duration:	03:52:55
+		Location:	51.49674 -0.21073
+
+	RLW2
+		Images:	2093
+		Time:	05.05.2025 15:20:30 until 05.05.2025 19:17:04
+		Duration:	03:56:34
+		Location:	51.49674 -0.21073
+
+	JOEM2
+		Images:	2798
+		Time:	05.05.2025 15:19:28 until 05.05.2025 19:16:47
+		Duration:	03:57:19
+		Location:	51.49674 -0.21073
+
+	BKO2
+		Images:	2748
+		Time:	05.05.2025 08:21:21 until 05.05.2025 09:16:55
+		Duration:	00:55:34
+		Location:	51.49674 -0.21073
+
+(4) - Sled Pull
+	THB2
+		Images:	8166
+		Time:	05.05.2025 15:11:09 until 05.05.2025 19:25:15
+		Duration:	04:14:06
+		Location:	51.49674 -0.21073
+
+	MALV1
+		Images:	10045
+		Time:	03.05.2025 07:55:02 until 05.05.2025 15:04:05
+		Duration:	2.07:09:03
+		Location:	51.49674 -0.21073
+
+	WIN2
+		Images:	3915
+		Time:	05.05.2025 15:05:27 until 05.05.2025 19:28:37
+		Duration:	04:23:10
+		Location:	51.49674 -0.21073
+
+	KYY1
+		Images:	10353
+		Time:	05.05.2025 08:29:32 until 05.05.2025 15:04:16
+		Duration:	06:34:44
+		Location:	51.49674 -0.21073
+
+	MKH2
+		Images:	5558
+		Time:	05.05.2025 15:00:02 until 05.05.2025 19:26:24
+		Duration:	04:26:22
+		Location:	51.49674 -0.21073
+
+	DP1
+		Images:	9714
+		Time:	03.05.2025 07:24:45 until 05.05.2025 14:59:03
+		Duration:	2.07:34:18
+		Location:	51.49674 -0.21073
+
+(5) - Rowing
+	QVT1
+		Images:	12752
+		Time:	03.05.2025 07:26:20 until 05.05.2025 15:24:43
+		Duration:	2.07:58:23
+		Location:	51.49674 -0.21073
+
+	BKO3
+		Images:	6223
+		Time:	05.05.2025 10:59:32 until 05.05.2025 18:10:06
+		Duration:	07:10:34
+		Location:	51.49674 -0.21073
+
+	CMS1
+		Images:	17440
+		Time:	05.05.2025 08:35:14 until 05.05.2025 15:22:42
+		Duration:	06:47:28
+		Location:	51.49674 -0.21073
+
+	JUW3
+		Images:	3995
+		Time:	05.05.2025 10:59:10 until 05.05.2025 17:50:36
+		Duration:	06:51:26
+		Location:	51.49674 -0.21073
+
+	DAWH2
+		Images:	6889
+		Time:	05.05.2025 15:29:20 until 05.05.2025 19:58:16
+		Duration:	04:28:56
+		Location:	51.49674 -0.21073
+
+	LOT2
+		Images:	7692
+		Time:	05.05.2025 15:25:26 until 05.05.2025 19:44:22
+		Duration:	04:18:56
+		Location:	51.49674 -0.21073
+
+(6) - Farmers Carry
+	PARO5LS1
+		Images:	3652
+		Time:	05.05.2025 08:34:45 until 05.05.2025 20:19:44
+		Duration:	11:44:59
+		Location:	51.49674 -0.21073
+
+	PARO5LS2
+		Images:	6238
+		Time:	05.05.2025 08:52:27 until 05.05.2025 20:23:13
+		Duration:	11:30:46
+		Location:	51.49674 -0.21073
+
+(7) - Sandbag Lunges
+	RLW1
+		Images:	5289
+		Time:	05.05.2025 08:47:03 until 05.05.2025 15:12:23
+		Duration:	06:25:20
+		Location:	51.49674 -0.21073
+
+	JOEM1
+		Images:	5001
+		Time:	05.05.2025 08:47:54 until 05.05.2025 15:19:28
+		Duration:	06:31:34
+		Location:	51.49674 -0.21073
+
+	BKO4
+		Images:	3776
+		Time:	05.05.2025 12:18:37 until 05.05.2025 16:40:35
+		Duration:	04:21:58
+		Location:	51.49674 -0.21073
+
+	JUW4
+		Images:	3251
+		Time:	05.05.2025 12:19:19 until 05.05.2025 16:38:23
+		Duration:	04:19:04
+		Location:	51.49674 -0.21073
+
+	PARO4
+		Images:	557
+		Time:	05.05.2025 15:06:19 until 05.05.2025 15:27:53
+		Duration:	00:21:34
+		Location:	51.49674 -0.21073
+
+	CUP2
+		Images:	6506
+		Time:	05.05.2025 15:19:14 until 05.05.2025 20:03:07
+		Duration:	04:43:53
+		Location:	51.49674 -0.21073
+
+	QVT2
+		Images:	6507
+		Time:	05.05.2025 15:28:31 until 05.05.2025 20:20:34
+		Duration:	04:52:03
+		Location:	51.49674 -0.21073
+
+(8) - Wall Balls
+	CNS1
+		Images:	7548
+		Time:	03.05.2025 07:34:13 until 05.05.2025 14:43:35
+		Duration:	2.07:09:22
+		Location:	51.49674 -0.21073
+
+	BKO5
+		Images:	8219
+		Time:	05.05.2025 11:41:09 until 05.05.2025 15:41:42
+		Duration:	04:00:33
+		Location:	51.49674 -0.21073
+
+	JUW5
+		Images:	4614
+		Time:	05.05.2025 11:38:27 until 05.05.2025 19:18:08
+		Duration:	07:39:41
+		Location:	51.49674 -0.21073
+
+	TOMY1
+		Images:	9496
+		Time:	03.05.2025 07:38:20 until 05.05.2025 14:48:20
+		Duration:	2.07:10:00
+		Location:	51.49674 -0.21073
+
+	SALA2
+		Images:	12141
+		Time:	05.05.2025 14:48:50 until 05.05.2025 20:32:37
+		Duration:	05:43:47
+		Location:	51.49674 -0.21073
+
+	FRZ3
+		Images:	2517
+		Time:	01.01.0001 23:00:00 until 05.05.2025 16:48:39
+		Duration:	739374.17:48:39
+		Location:	51.49674 -0.21073
+
+	FRZ2
+		Images:	4563
+		Time:	05.05.2025 16:47:18 until 05.05.2025 20:31:07
+		Duration:	03:43:49
+		Location:	51.49674 -0.21073
+
+	PARO6
+		Images:	345
+		Time:	05.05.2025 14:56:46 until 05.05.2025 15:03:37
+		Duration:	00:06:51
+		Location:	51.49674 -0.21073
+
+(9) - Finish
+	SALA1
+		Images:	8339
+		Time:	03.05.2025 07:34:41 until 05.05.2025 14:39:19
+		Duration:	2.07:04:38
+		Location:	51.49674 -0.21073
+
+	PARO2
+		Images:	3651
+		Time:	05.05.2025 12:03:55 until 05.05.2025 18:49:54
+		Duration:	06:45:59
+		Location:	51.49674 -0.21073
+
+	JUW6LS1
+		Images:	2441
+		Time:	05.05.2025 09:09:48 until 05.05.2025 19:34:05
+		Duration:	10:24:17
+		Location:	51.49674 -0.21073
+
+	JUW6LS2
+		Images:	2059
+		Time:	05.05.2025 09:09:32 until 05.05.2025 19:37:58
+		Duration:	10:28:26
+		Location:	51.49674 -0.21073
+
+	TOMY2
+		Images:	17852
+		Time:	05.05.2025 14:50:32 until 05.05.2025 20:46:31
+		Duration:	05:55:59
+		Location:	51.49674 -0.21073
+
+(10) - Hero Wall
+	FRZ1
+		Images:	3577
+		Time:	03.05.2025 07:15:48 until 05.05.2025 14:54:38
+		Duration:	2.07:38:50
+		Location:	51.49674 -0.21073
+
+	BKO6
+		Images:	104
+		Time:	05.05.2025 18:48:52 until 05.05.2025 18:59:31
+		Duration:	00:10:39
+		Location:	51.49674 -0.21073
+
+	CNS2
+		Images:	1772
+		Time:	05.05.2025 14:55:07 until 05.05.2025 20:44:35
+		Duration:	05:49:28
+		Location:	51.49674 -0.21073
+
+	PARO3
+		Images:	671
+		Time:	05.05.2025 12:35:55 until 05.05.2025 18:28:02
+		Duration:	05:52:07
+		Location:	51.49674 -0.21073
+
+(11) - Impressions / Pano
+	PANO1

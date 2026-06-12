@@ -1,0 +1,167 @@
+EventId: 14239
+Spots: 25
+Total Images: 114809
+Time:	29.06.2025 05:51:29 to 30.06.2025 00:01:09
+Duration: 18:09:40
+
+(1) - Swim - Transition zone
+	ALL1
+		Images:	4093
+		Time:	29.06.2025 05:51:29 until 29.06.2025 10:04:59
+		Duration:	04:13:30
+		Location:	43.69482 7.26398
+
+	ALL1LS1
+		Images:	3648
+		Time:	29.06.2025 06:10:09 until 29.06.2025 10:37:05
+		Duration:	04:26:56
+		Location:	43.69482 7.26398
+
+(2) - Run - 41.0 km
+	ALL2
+		Images:	7278
+		Time:	29.06.2025 10:59:16 until 29.06.2025 23:48:28
+		Duration:	12:49:12
+		Location:	43.69468 7.26145
+
+	CC4
+		Images:	529
+		Time:	29.06.2025 15:34:33 until 29.06.2025 20:20:24
+		Duration:	04:45:51
+		Location:	43.69468 7.26145
+
+(3) - Finish
+	ALL2LS1
+		Images:	7373
+		Time:	29.06.2025 10:37:31 until 29.06.2025 23:50:43
+		Duration:	13:13:12
+		Location:	43.69477 7.26245
+
+	CC5
+		Images:	1915
+		Time:	29.06.2025 10:25:00 until 29.06.2025 19:21:02
+		Duration:	08:56:02
+		Location:	43.69477 7.26245
+
+	DCC2
+		Images:	5647
+		Time:	29.06.2025 10:25:57 until 29.06.2025 21:06:48
+		Duration:	10:40:51
+		Location:	43.69477 7.26245
+
+	NBI2
+		Images:	1798
+		Time:	29.06.2025 21:04:59 until 30.06.2025 00:01:09
+		Duration:	02:56:10
+		Location:	43.69477 7.26245
+
+	RLLA2
+		Images:	3277
+		Time:	29.06.2025 21:02:24 until 30.06.2025 00:01:08
+		Duration:	02:58:44
+		Location:	43.69477 7.26245
+
+	SEI2
+		Images:	6900
+		Time:	29.06.2025 10:29:07 until 29.06.2025 21:04:23
+		Duration:	10:35:16
+		Location:	43.69477 7.26245
+
+(4) - Bike - 2.0 km
+	CC1
+		Images:	10865
+		Time:	29.06.2025 06:52:58 until 29.06.2025 10:02:31
+		Duration:	03:09:33
+		Location:	43.69458 7.27133
+
+(5) - Run - 2.0 km
+	CC2
+		Images:	2296
+		Time:	29.06.2025 11:08:26 until 29.06.2025 19:41:47
+		Duration:	08:33:21
+		Location:	43.69438 7.25808
+
+	DART2
+		Images:	11861
+		Time:	29.06.2025 09:20:56 until 29.06.2025 21:00:29
+		Duration:	11:39:33
+		Location:	43.69438 7.25808
+
+(6) - Run - 3.0 km
+	CC3
+		Images:	2377
+		Time:	29.06.2025 11:42:54 until 29.06.2025 20:08:18
+		Duration:	08:25:24
+		Location:	43.694 7.25483
+
+	LAPO2
+		Images:	6831
+		Time:	29.06.2025 09:19:32 until 29.06.2025 21:01:56
+		Duration:	11:42:24
+		Location:	43.694 7.25483
+
+(7) - Swim - Start
+	DART1
+		Images:	3218
+		Time:	29.06.2025 06:01:47 until 29.06.2025 09:19:54
+		Duration:	03:18:07
+		Location:	43.69479 7.27283
+
+	DCC1
+		Images:	3059
+		Time:	29.06.2025 06:02:37 until 29.06.2025 09:53:27
+		Duration:	03:50:50
+		Location:	43.69458 7.27133
+
+	LAPO1
+		Images:	2670
+		Time:	29.06.2025 06:03:19 until 29.06.2025 07:46:34
+		Duration:	01:43:15
+		Location:	43.69479 7.27283
+
+	SEI1
+		Images:	3679
+		Time:	29.06.2025 06:04:37 until 29.06.2025 09:53:28
+		Duration:	03:48:51
+		Location:	43.69458 7.27133
+
+(8) - Bike - 150.0 km
+	LEBE1
+		Images:	4073
+		Time:	29.06.2025 08:22:53 until 29.06.2025 17:29:10
+		Duration:	09:06:17
+		Location:	43.80066 7.08513
+
+	LEBE1DRONE1
+		Images:	43
+		Time:	29.06.2025 07:58:13 until 29.06.2025 10:43:48
+		Duration:	02:45:35
+		Location:	43.80066 7.08513
+
+	LEBE1LS1
+		Images:	2143
+		Time:	29.06.2025 07:37:37 until 29.06.2025 17:21:14
+		Duration:	09:43:37
+		Location:	43.80066 7.08513
+
+(9) - Bike - 140.0 km
+	MARY1
+		Images:	11633
+		Time:	29.06.2025 08:21:08 until 29.06.2025 17:15:13
+		Duration:	08:54:05
+		Location:	43.80066 7.08513
+
+(10) - Bike - 100.0 km
+	NBI1
+		Images:	2740
+		Time:	29.06.2025 11:09:53 until 29.06.2025 16:25:40
+		Duration:	05:15:47
+		Location:	43.79604 6.91305
+
+(11) - Bike - 105.0 km
+	RLLA1
+		Images:	4863
+		Time:	29.06.2025 10:43:14 until 29.06.2025 16:05:44
+		Duration:	05:22:30
+		Location:	43.694 7.25483
+

@@ -1,0 +1,76 @@
+EventId: 15375
+Spots: 11
+Total Images: 66175
+Time:	01.03.2025 06:48:59 to 01.03.2025 20:08:02
+Duration: 13:19:03
+
+(1) - ROW
+	ROJ1
+		Images:	4609
+		Time:	01.03.2025 07:02:32 until 01.03.2025 19:30:35
+		Duration:	12:28:03
+		Location:	36.62196 -4.51385
+
+(2) - BOX JUMP/STEP OVER
+	FAR1
+		Images:	3148
+		Time:	01.03.2025 06:54:33 until 01.03.2025 19:32:54
+		Duration:	12:38:21
+		Location:	36.62196 -4.51385
+
+(3) - Ball SIT-UP THROW
+	JMB1
+		Images:	7781
+		Time:	01.03.2025 06:48:59 until 01.03.2025 19:34:58
+		Duration:	12:45:59
+		Location:	36.62196 -4.51385
+
+(4) - SKIERG
+	CCG1
+		Images:	15690
+		Time:	01.03.2025 07:12:17 until 01.03.2025 19:37:02
+		Duration:	12:24:45
+		Location:	36.62196 -4.51385
+
+(5) - FARM,S WALK
+	CCG1LS1
+		Images:	2202
+		Time:	01.03.2025 06:55:03 until 01.03.2025 19:40:43
+		Duration:	12:45:40
+		Location:	36.62196 -4.51385
+
+	JMCA1LS1
+		Images:	1259
+		Time:	01.03.2025 07:50:39 until 01.03.2025 19:41:07
+		Duration:	11:50:28
+		Location:	36.62196 -4.51385
+
+(6) - AIR BIKE
+	JCFJ1
+		Images:	20271
+		Time:	01.03.2025 07:19:58 until 01.03.2025 19:46:22
+		Duration:	12:26:24
+		Location:	36.62196 -4.51385
+
+(7) - TANK PUSH/PULL
+	JMCA1
+		Images:	2747
+		Time:	01.03.2025 07:34:26 until 01.03.2025 19:53:21
+		Duration:	12:18:55
+		Location:	36.62196 -4.51385
+
+(8) - FINISH
+	JCFJ1LS1
+		Images:	4707
+		Time:	01.03.2025 07:07:15 until 01.03.2025 20:07:24
+		Duration:	13:00:09
+		Location:	36.62196 -4.51385
+
+	JCFJ1LS2
+		Images:	3761
+		Time:	01.03.2025 07:02:29 until 01.03.2025 20:08:02
+		Duration:	13:05:33
+		Location:	36.62196 -4.51385
+
+(9) - Impressions / Pano
+	PANO1

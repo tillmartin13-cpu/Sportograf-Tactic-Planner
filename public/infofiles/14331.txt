@@ -1,0 +1,161 @@
+EventId: 14331
+Spots: 25
+Total Images: 188360
+Time:	07.06.2025 07:11:17 to 07.06.2025 21:01:54
+Duration: 13:50:37
+
+(1) - Start
+	THS1
+		Images:	13456
+		Time:	07.06.2025 07:14:36 until 07.06.2025 10:44:33
+		Duration:	03:29:57
+		Location:	NULL NULL
+
+	FBG1
+		Images:	3165
+		Time:	07.06.2025 07:11:17 until 07.06.2025 12:50:42
+		Duration:	05:39:25
+		Location:	NULL NULL
+
+(2) - 17,3 km Motala, Ödeshögsvägen
+	VLE1
+		Images:	11022
+		Time:	07.06.2025 08:01:57 until 07.06.2025 14:16:32
+		Duration:	06:14:35
+		Location:	NULL NULL
+
+	VLE1LS1
+		Images:	5909
+		Time:	07.06.2025 07:38:32 until 07.06.2025 14:19:17
+		Duration:	06:40:45
+		Location:	NULL NULL
+
+(3) - 20,3 km Östergötlands Län
+	LEM1
+		Images:	12107
+		Time:	07.06.2025 07:40:43 until 07.06.2025 14:35:50
+		Duration:	06:55:07
+		Location:	NULL NULL
+
+	LEM1LS1
+		Images:	6603
+		Time:	07.06.2025 08:06:09 until 07.06.2025 14:32:23
+		Duration:	06:26:14
+		Location:	NULL NULL
+
+	LEM1LS2
+		Images:	4851
+		Time:	07.06.2025 07:31:06 until 07.06.2025 14:32:31
+		Duration:	07:01:25
+		Location:	NULL NULL
+
+(4) - 22,9 km Östergötlands Län
+	RW1
+		Images:	12861
+		Time:	07.06.2025 08:32:34 until 07.06.2025 14:53:50
+		Duration:	06:21:16
+		Location:	NULL NULL
+
+	RW1LS1
+		Images:	5719
+		Time:	07.06.2025 07:54:56 until 07.06.2025 14:54:24
+		Duration:	06:59:28
+		Location:	NULL NULL
+
+	RW1LS2
+		Images:	817
+		Time:	07.06.2025 07:28:06 until 07.06.2025 13:57:19
+		Duration:	06:29:13
+		Location:	NULL NULL
+
+(5) - 44,1 km Ombergs Turisthotel
+	RJ1
+		Images:	14732
+		Time:	07.06.2025 08:52:10 until 07.06.2025 16:52:42
+		Duration:	08:00:32
+		Location:	NULL NULL
+
+	RJ1LS1
+		Images:	4902
+		Time:	07.06.2025 08:36:45 until 07.06.2025 16:53:36
+		Duration:	08:16:51
+		Location:	NULL NULL
+
+	RJ1LS2
+		Images:	5314
+		Time:	07.06.2025 08:28:54 until 07.06.2025 16:52:45
+		Duration:	08:23:51
+		Location:	NULL NULL
+
+	RJ1DRONE1
+		Images:	18
+		Time:	07.06.2025 13:26:40 until 07.06.2025 18:17:00
+		Duration:	04:50:20
+		Location:	NULL NULL
+
+(6) - km 54,1 / km 103,0, Röks Kyrka
+	RYS1
+		Images:	10949
+		Time:	07.06.2025 09:18:42 until 07.06.2025 18:32:56
+		Duration:	09:14:14
+		Location:	NULL NULL
+
+	RYS1LS1
+		Images:	8814
+		Time:	07.06.2025 08:43:16 until 07.06.2025 18:37:00
+		Duration:	09:53:44
+		Location:	NULL NULL
+
+	RYS1LS2
+		Images:	6916
+		Time:	07.06.2025 08:22:17 until 07.06.2025 18:37:17
+		Duration:	10:15:00
+		Location:	NULL NULL
+
+(7) - km 64,7 / 113,6, Väderstad Airplane
+	SHNI1
+		Images:	13766
+		Time:	07.06.2025 09:20:41 until 07.06.2025 19:00:25
+		Duration:	09:39:44
+		Location:	NULL NULL
+
+(8) - km 69,1 / km 118,0, Appuna Kyrka
+	BIL1
+		Images:	4587
+		Time:	07.06.2025 09:26:22 until 07.06.2025 19:30:50
+		Duration:	10:04:28
+		Location:	NULL NULL
+
+	BIL1LS1
+		Images:	2777
+		Time:	07.06.2025 08:52:57 until 07.06.2025 19:31:37
+		Duration:	10:38:40
+		Location:	NULL NULL
+
+(9) - Finish
+	THS2
+		Images:	23148
+		Time:	07.06.2025 11:14:38 until 07.06.2025 20:48:40
+		Duration:	09:34:02
+		Location:	NULL NULL
+
+	THS2LS1
+		Images:	6021
+		Time:	07.06.2025 11:26:34 until 07.06.2025 20:48:39
+		Duration:	09:22:05
+		Location:	NULL NULL
+
+	THS2LS2
+		Images:	4867
+		Time:	07.06.2025 11:08:47 until 07.06.2025 20:51:19
+		Duration:	09:42:32
+		Location:	NULL NULL
+
+	FBG2
+		Images:	5039
+		Time:	07.06.2025 12:58:18 until 07.06.2025 21:01:54
+		Duration:	08:03:36
+		Location:	NULL NULL
+
+(10) - Impressions / Pano
+	PANO1

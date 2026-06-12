@@ -1,0 +1,136 @@
+EventId: 14459
+Spots: 20
+Total Images: 151045
+Time:	09.05.2025 19:49:24 to 10.05.2025 20:02:04
+Duration: 1.00:12:40
+
+(1) - Blockness Monster
+	KYY1
+		Images:	10636
+		Time:	10.05.2025 08:27:41 until 10.05.2025 18:44:16
+		Duration:	10:16:35
+		Location:	51.57447 -0.89278
+
+	MYN1
+		Images:	5348
+		Time:	10.05.2025 08:13:42 until 10.05.2025 18:06:09
+		Duration:	09:52:27
+		Location:	51.57447 -0.89278
+
+	JUW2
+		Images:	2158
+		Time:	10.05.2025 10:45:34 until 10.05.2025 11:05:53
+		Duration:	00:20:19
+		Location:	51.57447 -0.89278
+
+(2) - Stairway to Heaven
+	SALA1
+		Images:	16602
+		Time:	10.05.2025 09:06:00 until 10.05.2025 18:47:08
+		Duration:	09:41:08
+		Location:	51.57447 -0.89183
+
+	JUW3
+		Images:	2579
+		Time:	10.05.2025 11:11:14 until 10.05.2025 11:28:53
+		Duration:	00:17:39
+		Location:	51.57447 -0.89183
+
+(3) - Kiss of Mud
+	DACA1
+		Images:	4269
+		Time:	10.05.2025 07:55:16 until 10.05.2025 18:30:18
+		Duration:	10:35:02
+		Location:	51.57521 -0.88823
+
+	THB1
+		Images:	29779
+		Time:	10.05.2025 09:11:07 until 10.05.2025 18:43:09
+		Duration:	09:32:02
+		Location:	51.57521 -0.88823
+
+	JUW4
+		Images:	3114
+		Time:	10.05.2025 11:34:45 until 10.05.2025 12:04:34
+		Duration:	00:29:49
+		Location:	51.57521 -0.88823
+
+(4) - Everest
+	JOEM1
+		Images:	10049
+		Time:	10.05.2025 08:21:16 until 10.05.2025 17:21:40
+		Duration:	09:00:24
+		Location:	51.57189 -0.88702
+
+	STHH1
+		Images:	12866
+		Time:	10.05.2025 07:38:27 until 10.05.2025 17:49:15
+		Duration:	10:10:48
+		Location:	51.57189 -0.88702
+
+(5) - Hanging Tough
+	CMS1
+		Images:	23074
+		Time:	10.05.2025 07:41:22 until 10.05.2025 17:43:16
+		Duration:	10:01:54
+		Location:	51.57006 -0.88620
+
+	JUW6
+		Images:	1244
+		Time:	10.05.2025 12:20:12 until 10.05.2025 12:30:49
+		Duration:	00:10:37
+		Location:	51.57006 -0.88620
+
+(6) - Skid Marked
+	MKH1
+		Images:	14949
+		Time:	10.05.2025 07:28:51 until 10.05.2025 18:49:06
+		Duration:	11:20:15
+		Location:	51.56750 -0.88868
+
+	JUW7
+		Images:	2110
+		Time:	10.05.2025 12:39:44 until 10.05.2025 12:52:54
+		Duration:	00:13:10
+		Location:	51.56750 -0.88868
+
+(7) - Electric Shock Treatment
+	AMK1
+		Images:	4180
+		Time:	09.05.2025 19:49:24 until 10.05.2025 18:47:06
+		Duration:	22:57:42
+		Location:	51.56660 -0.88584
+
+	JUW8
+		Images:	1127
+		Time:	10.05.2025 13:19:04 until 10.05.2025 13:33:17
+		Duration:	00:14:13
+		Location:	51.56660 -0.88584
+
+(8) - Herotent
+	GWH1
+		Images:	1702
+		Time:	10.05.2025 07:32:48 until 10.05.2025 20:02:04
+		Duration:	12:29:16
+		Location:	51.56691 -0.88578
+
+	NLA1
+		Images:	5159
+		Time:	10.05.2025 07:49:48 until 10.05.2025 19:02:45
+		Duration:	11:12:57
+		Location:	51.56691 -0.88578
+
+(9) - Various
+	JUW1DRONE1
+		Images:	20
+		Time:	10.05.2025 08:16:30 until 10.05.2025 10:40:08
+		Duration:	02:23:38
+		Location:	51.56660 -0.88584
+
+(10) - Impressions / Pano
+	PANO1
+		Images:	80
+		Time:	10.05.2025 07:31:43 until 10.05.2025 09:26:56
+		Duration:	01:55:13
+		Location:	51.56660 -0.88584
+

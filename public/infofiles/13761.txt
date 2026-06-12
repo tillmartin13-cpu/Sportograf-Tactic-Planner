@@ -1,0 +1,151 @@
+EventId: 13761
+Spots: 22
+Total Images: 38323
+Time:	10.05.2025 07:03:50 to 10.05.2025 21:28:17
+Duration: 14:24:27
+
+(1) - Start
+	BENL1
+		Images:	359
+		Time:	10.05.2025 07:43:09 until 10.05.2025 13:31:25
+		Duration:	05:48:16
+		Location:	52.31711 9.80819
+
+	KSA1DRONE1
+		Images:	13
+		Time:	10.05.2025 09:04:36 until 10.05.2025 09:08:04
+		Duration:	00:03:28
+		Location:	52.31711 9.80819
+
+(2) - Finish
+	BENL2
+		Images:	4789
+		Time:	10.05.2025 07:03:50 until 10.05.2025 20:58:43
+		Duration:	13:54:53
+		Location:	52.31711 9.80819
+
+	RA2
+		Images:	4584
+		Time:	10.05.2025 14:29:50 until 10.05.2025 21:28:17
+		Duration:	06:58:27
+		Location:	52.31711 9.80819
+
+	RA2LS2
+		Images:	1760
+		Time:	10.05.2025 15:00:42 until 10.05.2025 21:14:12
+		Duration:	06:13:30
+		Location:	52.31711 9.80819
+
+	RA2LS1
+		Images:	1596
+		Time:	10.05.2025 15:05:43 until 10.05.2025 21:20:43
+		Duration:	06:15:00
+		Location:	52.31711 9.80819
+
+	KSA2DRONE1
+		Images:	12
+		Time:	10.05.2025 16:41:35 until 10.05.2025 16:45:43
+		Duration:	00:04:08
+		Location:	52.31711 9.80819
+
+(3) - 4.4 km Alte Leine
+	MELS1
+		Images:	6498
+		Time:	10.05.2025 07:53:43 until 10.05.2025 13:23:55
+		Duration:	05:30:12
+		Location:	52.31982 9.76575
+
+(4) - 46.0 km An der Leine naehe Bruecke Spaete  Holywiesen
+	MELS2
+		Images:	6575
+		Time:	10.05.2025 13:48:55 until 10.05.2025 19:56:11
+		Duration:	06:07:16
+		Location:	52.32836 9.76575
+
+(5) - 0.8 km Expo Bruecke
+	FGA1
+		Images:	3813
+		Time:	10.05.2025 07:23:11 until 10.05.2025 12:17:33
+		Duration:	04:54:22
+		Location:	52.31143 9.80130
+
+(6) - 21.2 km VPS2  / Versorgungsstation 2
+	FGA2
+		Images:	397
+		Time:	10.05.2025 12:42:24 until 10.05.2025 14:55:52
+		Duration:	02:13:28
+		Location:	52.31117 9.60875
+
+(7) - Herotent
+	FGA3
+		Images:	1778
+		Time:	10.05.2025 14:33:15 until 10.05.2025 21:05:06
+		Duration:	06:31:51
+		Location:	52.31711 9.80819
+
+(8) - 12.1 km Ihme Roloven
+	RA1
+		Images:	3934
+		Time:	10.05.2025 09:25:07 until 10.05.2025 11:48:43
+		Duration:	02:23:36
+		Location:	52.30475 9.68219
+
+(9) - 13.1 km VPS1/3 Versorgungsstation 1/3
+	RA1IMP1
+		Images:	56
+		Time:	10.05.2025 13:26:05 until 10.05.2025 13:32:44
+		Duration:	00:06:39
+		Location:	52.30177 9.67536
+
+	KSA1IMP1
+		Images:	24
+		Time:	10.05.2025 12:14:22 until 10.05.2025 13:23:32
+		Duration:	01:09:10
+		Location:	52.30177 9.67536
+
+	KSA1DRONE3
+		Images:	13
+		Time:	10.05.2025 09:59:15 until 10.05.2025 10:03:02
+		Duration:	00:03:47
+		Location:	52.30443 9.68466
+
+(10) - 12.2 km Ihme Roloven
+	RA1LS1
+		Images:	486
+		Time:	10.05.2025 10:26:40 until 10.05.2025 11:26:46
+		Duration:	01:00:06
+		Location:	52.30475 9.68219
+
+	RA1LS2
+		Images:	437
+		Time:	10.05.2025 10:25:23 until 10.05.2025 11:26:52
+		Duration:	01:01:29
+		Location:	52.30475 9.68219
+
+(11) - 13.0 km Ihme Roloven
+	KSA1
+		Images:	1113
+		Time:	10.05.2025 10:05:44 until 10.05.2025 12:36:14
+		Duration:	02:30:30
+		Location:	52.30443 9.68466
+
+	KSA1DRONE4
+		Images:	13
+		Time:	10.05.2025 13:08:56 until 10.05.2025 13:13:53
+		Duration:	00:04:57
+		Location:	52.30443 9.68466
+
+(12) - Impressions / Pano
+	KSA2
+		Images:	60
+		Time:	10.05.2025 15:45:40 until 10.05.2025 17:06:57
+		Duration:	01:21:17
+		Location:	52.31711 9.80819
+
+(13) - 3.1 km Wiesendachhaus
+	KSA1DRONE2
+		Images:	13
+		Time:	10.05.2025 09:25:45 until 10.05.2025 09:29:42
+		Duration:	00:03:57
+		Location:	52.31407 9.77762
+

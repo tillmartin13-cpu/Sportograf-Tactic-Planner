@@ -1,0 +1,463 @@
+EventId: 14560
+Spots: 75
+Total Images: 229535
+Time:	01.01.0001 23:00:00 to 14.12.2025 11:17:07
+Duration: 739597.12:17:07
+
+(1) - Medalwall
+	IGM2
+		Images:	1909
+		Time:	11.12.2025 14:04:51 until 11.12.2025 21:00:19
+		Duration:	06:55:28
+		Location:	-37.82426 144.95585
+
+	VFV3
+		Images:	1426
+		Time:	11.12.2025 14:23:48 until 11.12.2025 19:30:21
+		Duration:	05:06:33
+		Location:	-37.82426 144.95585
+
+	VN1
+		Images:	5420
+		Time:	11.12.2025 06:52:18 until 11.12.2025 14:05:40
+		Duration:	07:13:22
+		Location:	-37.82426 144.95585
+
+	CSM1
+		Images:	2962
+		Time:	11.12.2025 08:45:08 until 13.12.2025 07:48:54
+		Duration:	1.23:03:46
+		Location:	-37.82426 144.95585
+
+(2) - Station 7 Sandbag Lunges
+	IGM3LS1
+		Images:	1681
+		Time:	01.01.0001 23:00:00 until 11.12.2025 20:30:31
+		Duration:	739594.21:30:31
+		Location:	-37.82426 144.95585
+
+	KSL4
+		Images:	221
+		Time:	11.12.2025 14:04:09 until 11.12.2025 14:46:47
+		Duration:	00:42:38
+		Location:	-37.82426 144.95585
+
+	TT2
+		Images:	4932
+		Time:	11.12.2025 06:11:32 until 11.12.2025 20:29:23
+		Duration:	14:17:51
+		Location:	-37.82426 144.95585
+
+	JUBA4
+		Images:	892
+		Time:	10.12.2025 18:09:06 until 11.12.2025 14:55:23
+		Duration:	20:46:17
+		Location:	-37.82426 144.95585
+
+	MFS4
+		Images:	478
+		Time:	11.12.2025 11:39:18 until 11.12.2025 12:10:35
+		Duration:	00:31:17
+		Location:	-37.82426 144.95585
+
+(3) - Finish
+	MALO2
+		Images:	4718
+		Time:	11.12.2025 07:53:40 until 11.12.2025 14:14:38
+		Duration:	06:20:58
+		Location:	-37.82426 144.95585
+
+	TOSC3
+		Images:	222
+		Time:	11.12.2025 12:15:19 until 11.12.2025 12:51:37
+		Duration:	00:36:18
+		Location:	-37.82426 144.95585
+
+	JUBA2
+		Images:	1943
+		Time:	11.12.2025 09:37:03 until 11.12.2025 15:36:43
+		Duration:	05:59:40
+		Location:	-37.82426 144.95585
+
+	MFS5
+		Images:	633
+		Time:	11.12.2025 15:06:31 until 11.12.2025 15:33:52
+		Duration:	00:27:21
+		Location:	-37.82426 144.95585
+
+	TOSC7LS1
+		Images:	10046
+		Time:	10.12.2025 17:12:03 until 11.12.2025 19:02:11
+		Duration:	1.01:50:08
+		Location:	-37.82426 144.95585
+
+	TOSC8LS1
+		Images:	11354
+		Time:	10.12.2025 17:10:14 until 11.12.2025 20:58:35
+		Duration:	1.03:48:21
+		Location:	-37.82426 144.95585
+
+	TKU3
+		Images:	3831
+		Time:	11.12.2025 14:13:47 until 11.12.2025 20:58:41
+		Duration:	06:44:54
+		Location:	-37.82426 144.95585
+
+	JUBA5
+		Images:	97
+		Time:	11.12.2025 18:41:15 until 11.12.2025 18:48:17
+		Duration:	00:07:02
+		Location:	-37.82426 144.95585
+
+(4) - Impressions / Pano
+	PANO1
+	ALEV1
+		Images:	95
+		Time:	11.12.2025 06:13:53 until 13.12.2025 13:07:49
+		Duration:	2.06:53:56
+		Location:	-37.82426 144.95585
+
+	BSZ1
+		Images:	109
+		Time:	11.12.2025 06:15:30 until 14.12.2025 06:42:02
+		Duration:	3.00:26:32
+		Location:	-37.82426 144.95585
+
+	KSL1
+		Images:	137
+		Time:	11.12.2025 06:15:16 until 11.12.2025 07:03:08
+		Duration:	00:47:52
+		Location:	-37.82426 144.95585
+
+	MKAN1
+		Images:	9
+		Time:	11.12.2025 06:33:17 until 12.12.2025 09:39:01
+		Duration:	1.03:05:44
+		Location:	-37.82426 144.95585
+
+	DJA1
+		Images:	18
+		Time:	11.12.2025 06:26:22 until 12.12.2025 06:52:11
+		Duration:	1.00:25:49
+		Location:	-37.82426 144.95585
+
+	VFV1
+		Images:	59
+		Time:	11.12.2025 06:09:33 until 12.12.2025 07:10:05
+		Duration:	1.01:00:32
+		Location:	-37.82426 144.95585
+
+	WP1
+		Images:	292
+		Time:	11.12.2025 06:14:26 until 11.12.2025 07:29:12
+		Duration:	01:14:46
+		Location:	-37.82426 144.95585
+
+	IDS1
+		Images:	27
+		Time:	11.12.2025 06:21:41 until 12.12.2025 06:51:31
+		Duration:	1.00:29:50
+		Location:	-37.82426 144.95585
+
+	ZMO1
+		Images:	35
+		Time:	11.12.2025 06:15:23 until 11.12.2025 07:50:22
+		Duration:	01:34:59
+		Location:	-37.82426 144.95585
+
+	MALO1
+		Images:	69
+		Time:	11.12.2025 06:16:33 until 11.12.2025 07:33:05
+		Duration:	01:16:32
+		Location:	-37.82426 144.95585
+
+	TPA1
+		Images:	261
+		Time:	11.12.2025 07:31:42 until 14.12.2025 11:17:07
+		Duration:	3.03:45:25
+		Location:	-37.82426 144.95585
+
+	TKU1
+		Images:	75
+		Time:	11.12.2025 06:11:40 until 14.12.2025 07:00:04
+		Duration:	3.00:48:24
+		Location:	-37.82426 144.95585
+
+(5) - Station 1 Skierge
+	ALEV2
+		Images:	2610
+		Time:	11.12.2025 06:50:46 until 11.12.2025 13:47:34
+		Duration:	06:56:48
+		Location:	-37.82426 144.95585
+
+	BSZ2
+		Images:	2893
+		Time:	11.12.2025 07:02:51 until 11.12.2025 13:48:12
+		Duration:	06:45:21
+		Location:	-37.82426 144.95585
+
+	KSL2
+		Images:	1406
+		Time:	11.12.2025 07:03:23 until 11.12.2025 13:47:30
+		Duration:	06:44:07
+		Location:	-37.82426 144.95585
+
+	DJA3
+		Images:	1056
+		Time:	11.12.2025 14:12:58 until 11.12.2025 18:25:39
+		Duration:	04:12:41
+		Location:	-37.82426 144.95585
+
+	WP3
+		Images:	2595
+		Time:	11.12.2025 14:13:09 until 11.12.2025 18:26:14
+		Duration:	04:13:05
+		Location:	-37.82426 144.95585
+
+	PBOY2
+		Images:	7021
+		Time:	11.12.2025 14:12:17 until 11.12.2025 19:16:30
+		Duration:	05:04:13
+		Location:	-37.82426 144.95585
+
+	TOSC4
+		Images:	530
+		Time:	11.12.2025 13:54:21 until 11.12.2025 13:59:59
+		Duration:	00:05:38
+		Location:	-37.82426 144.95585
+
+	MFS1
+		Images:	674
+		Time:	11.12.2025 07:02:39 until 11.12.2025 08:37:43
+		Duration:	01:35:04
+		Location:	-37.82426 144.95585
+
+	KEJ2
+		Images:	139
+		Time:	11.12.2025 14:13:24 until 11.12.2025 14:19:35
+		Duration:	00:06:11
+		Location:	-37.82426 144.95585
+
+(6) - Station 8 Wall Balls
+	ALEV3
+		Images:	2074
+		Time:	11.12.2025 13:59:01 until 11.12.2025 20:52:44
+		Duration:	06:53:43
+		Location:	-37.82426 144.95585
+
+	KEJ3
+		Images:	6253
+		Time:	11.12.2025 14:26:45 until 11.12.2025 20:58:08
+		Duration:	06:31:23
+		Location:	-37.82426 144.95585
+
+	BSZ3
+		Images:	2158
+		Time:	11.12.2025 14:01:12 until 11.12.2025 19:05:01
+		Duration:	05:03:49
+		Location:	-37.82426 144.95585
+
+	IDS2
+		Images:	3891
+		Time:	11.12.2025 07:50:57 until 13.12.2025 06:55:55
+		Duration:	1.23:04:58
+		Location:	-37.82426 144.95585
+
+	CVO1
+		Images:	3104
+		Time:	11.12.2025 06:15:22 until 11.12.2025 13:57:06
+		Duration:	07:41:44
+		Location:	-37.82426 144.95585
+
+	ZMO2
+		Images:	2315
+		Time:	11.12.2025 06:15:23 until 11.12.2025 13:58:57
+		Duration:	07:43:34
+		Location:	-37.82426 144.95585
+
+	TPA3
+		Images:	1929
+		Time:	11.12.2025 09:34:25 until 11.12.2025 18:16:47
+		Duration:	08:42:22
+		Location:	-37.82426 144.95585
+
+	MFS3
+		Images:	1047
+		Time:	11.12.2025 09:32:52 until 13.12.2025 07:17:19
+		Duration:	1.21:44:27
+		Location:	-37.82426 144.95585
+
+(7) - Station 2 Sled Push
+	JEK1
+		Images:	5057
+		Time:	10.12.2025 17:41:31 until 11.12.2025 13:59:30
+		Duration:	20:17:59
+		Location:	-37.82426 144.95585
+
+	MKAN2
+		Images:	3560
+		Time:	11.12.2025 07:10:00 until 11.12.2025 13:51:17
+		Duration:	06:41:17
+		Location:	-37.82426 144.95585
+
+	TT3
+		Images:	348
+		Time:	11.12.2025 14:08:08 until 11.12.2025 15:59:53
+		Duration:	01:51:45
+		Location:	-37.82426 144.95585
+
+	IDS3
+		Images:	3534
+		Time:	11.12.2025 14:21:03 until 11.12.2025 18:49:03
+		Duration:	04:28:00
+		Location:	-37.82426 144.95585
+
+	CVO2
+		Images:	2482
+		Time:	11.12.2025 14:20:51 until 11.12.2025 19:25:25
+		Duration:	05:04:34
+		Location:	-37.82426 144.95585
+
+	ZMO3
+		Images:	1727
+		Time:	11.12.2025 14:22:58 until 11.12.2025 19:32:12
+		Duration:	05:09:14
+		Location:	-37.82426 144.95585
+
+	TOSC2
+		Images:	1332
+		Time:	11.12.2025 11:37:34 until 11.12.2025 14:10:34
+		Duration:	02:33:00
+		Location:	-37.82426 144.95585
+
+	TKU2
+		Images:	2665
+		Time:	10.12.2025 19:51:42 until 11.12.2025 13:50:15
+		Duration:	17:58:33
+		Location:	-37.82426 144.95585
+
+(8) - Station 3 Sled Pull
+	DJA2
+		Images:	2572
+		Time:	11.12.2025 07:16:32 until 11.12.2025 13:58:35
+		Duration:	06:42:03
+		Location:	-37.82426 144.95585
+
+	VFV2
+		Images:	3363
+		Time:	11.12.2025 06:00:07 until 11.12.2025 13:48:15
+		Duration:	07:48:08
+		Location:	-37.82426 144.95585
+
+	IGM1
+		Images:	3591
+		Time:	11.12.2025 07:18:15 until 12.12.2025 10:25:23
+		Duration:	1.03:07:08
+		Location:	-37.82426 144.95585
+
+	MALO3
+		Images:	5350
+		Time:	11.12.2025 14:29:38 until 13.12.2025 08:06:19
+		Duration:	1.17:36:41
+		Location:	-37.82426 144.95585
+
+	CSM2
+		Images:	5362
+		Time:	11.12.2025 14:17:07 until 13.12.2025 07:00:59
+		Duration:	1.16:43:52
+		Location:	-37.82426 144.95585
+
+	SNT1
+		Images:	3382
+		Time:	11.12.2025 13:25:09 until 14.12.2025 06:59:39
+		Duration:	2.17:34:30
+		Location:	-37.82426 144.95585
+
+(9) - Station 4 Burpees
+	KSL3
+		Images:	996
+		Time:	11.12.2025 15:06:31 until 11.12.2025 19:50:31
+		Duration:	04:44:00
+		Location:	-37.82426 144.95585
+
+	KEJ1
+		Images:	10958
+		Time:	10.12.2025 14:26:34 until 12.12.2025 06:47:18
+		Duration:	1.16:20:44
+		Location:	-37.82426 144.95585
+
+	TOSC1
+		Images:	2922
+		Time:	10.12.2025 17:06:55 until 11.12.2025 10:34:19
+		Duration:	17:27:24
+		Location:	-37.82426 144.95585
+
+	JUBA1
+		Images:	2612
+		Time:	11.12.2025 12:15:25 until 11.12.2025 17:51:13
+		Duration:	05:35:48
+		Location:	-37.82426 144.95585
+
+(10) - Station 5 Rowing
+	JEK2
+		Images:	5538
+		Time:	11.12.2025 14:07:06 until 11.12.2025 20:04:23
+		Duration:	05:57:17
+		Location:	-37.82426 144.95585
+
+	MKAN3
+		Images:	2075
+		Time:	11.12.2025 14:24:56 until 12.12.2025 08:11:42
+		Duration:	17:46:46
+		Location:	-37.82426 144.95585
+
+	WP2
+		Images:	8221
+		Time:	11.12.2025 07:29:53 until 11.12.2025 13:57:01
+		Duration:	06:27:08
+		Location:	-37.82426 144.95585
+
+	PBOY1
+		Images:	17030
+		Time:	11.12.2025 06:24:45 until 11.12.2025 13:55:19
+		Duration:	07:30:34
+		Location:	-37.82426 144.95585
+
+	JUBA3
+		Images:	831
+		Time:	11.12.2025 11:32:16 until 11.12.2025 11:57:03
+		Duration:	00:24:47
+		Location:	-37.82426 144.95585
+
+	TPA2
+		Images:	1767
+		Time:	11.12.2025 09:04:45 until 11.12.2025 18:03:55
+		Duration:	08:59:10
+		Location:	-37.82426 144.95585
+
+	MFS2
+		Images:	2107
+		Time:	11.12.2025 09:03:10 until 11.12.2025 17:33:18
+		Duration:	08:30:08
+		Location:	-37.82426 144.95585
+
+(11) - Station 5 Sled Pull
+	TOSC5
+		Images:	61
+		Time:	11.12.2025 14:13:47 until 11.12.2025 14:15:40
+		Duration:	00:01:53
+		Location:	-37.82426 144.95585
+
+(12) - Station 6 Farmers Carry
+	JEK3LS1
+		Images:	5796
+		Time:	10.12.2025 17:47:34 until 11.12.2025 20:10:54
+		Duration:	1.02:23:20
+		Location:	-37.82426 144.95585
+
+	TPA4LS1
+		Images:	28647
+		Time:	11.12.2025 08:23:28 until 11.12.2025 14:43:40
+		Duration:	06:20:12
+		Location:	-37.82426 144.95585
+

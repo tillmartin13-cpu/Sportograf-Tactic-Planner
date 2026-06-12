@@ -1,0 +1,103 @@
+EventId: 14497
+Spots: 14
+Total Images: 42045
+Time:	20.09.2025 13:37:27 to 21.09.2025 14:52:39
+Duration: 1.01:15:12
+
+(1) - Start
+	IVO1
+		Images:	507
+		Time:	20.09.2025 14:54:36 until 21.09.2025 11:00:32
+		Duration:	20:05:56
+		Location:	51.25539 12.42328
+
+(2) - Laufstrecke zwischen Hindernis 1 und 2
+	ALES1LS1
+		Images:	2124
+		Time:	21.09.2025 09:47:11 until 21.09.2025 13:46:16
+		Duration:	03:59:05
+		Location:	51.25385 12.42319
+
+(3) - Obstacle 6 Rohrkrepierer
+	WV1
+		Images:	3415
+		Time:	20.09.2025 13:37:27 until 21.09.2025 13:51:50
+		Duration:	1.00:14:23
+		Location:	51.25576 12.42324
+
+(4) - Obstacle 7 Monkeybar
+	SBRA1
+		Images:	5045
+		Time:	20.09.2025 14:22:06 until 21.09.2025 13:59:13
+		Duration:	23:37:07
+		Location:	51.25878 12.42587
+
+(5) - Obstacle 9 Crawl Shower
+	ANPE1
+		Images:	3063
+		Time:	21.09.2025 10:23:03 until 21.09.2025 14:09:09
+		Duration:	03:46:06
+		Location:	51.25731 12.42771
+
+(6) - Obstacle 10 Höllenrausch
+	MDA1
+		Images:	7062
+		Time:	21.09.2025 09:33:27 until 21.09.2025 14:15:52
+		Duration:	04:42:25
+		Location:	51.25639 12.42943
+
+(7) - Obstacle 11 Klettermax
+	FKL1
+		Images:	2704
+		Time:	20.09.2025 14:55:59 until 21.09.2025 14:20:20
+		Duration:	23:24:21
+		Location:	51.25646 12.43071
+
+(8) - Obstacle 12 Megabridge
+	FKL1LS1
+		Images:	1257
+		Time:	21.09.2025 10:42:23 until 21.09.2025 14:16:05
+		Duration:	03:33:42
+		Location:	51.25638 12.43120
+
+(9) - Obstacle 14 Gib Gummi
+	ALES1
+		Images:	4874
+		Time:	21.09.2025 10:16:42 until 21.09.2025 14:44:36
+		Duration:	04:27:54
+		Location:	51.25411 12.42313
+
+(10) - Obstacle 17 Schlammschlacht
+	IVO2
+		Images:	5275
+		Time:	21.09.2025 11:03:43 until 21.09.2025 14:50:49
+		Duration:	03:47:06
+		Location:	51.25496 12.42357
+
+(11) - Herotent
+	EHL1
+		Images:	2732
+		Time:	21.09.2025 09:50:00 until 21.09.2025 14:52:39
+		Duration:	05:02:39
+		Location:	51.25539 12.42328
+
+(12) - Finish
+	EHL1LS1
+		Images:	2256
+		Time:	21.09.2025 09:53:08 until 21.09.2025 14:46:55
+		Duration:	04:53:47
+		Location:	51.25539 12.42328
+
+	EHL1LS2
+		Images:	1668
+		Time:	21.09.2025 09:48:54 until 21.09.2025 13:34:59
+		Duration:	03:46:05
+		Location:	51.25539 12.42328
+
+(13) - Impressions / Pano
+	EHL1DRONE1
+		Images:	63
+		Time:	20.09.2025 15:10:49 until 21.09.2025 10:31:08
+		Duration:	19:20:19
+		Location:	51.25539 12.42328
+

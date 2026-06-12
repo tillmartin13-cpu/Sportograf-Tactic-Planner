@@ -1,0 +1,53 @@
+EventId: 14792
+Spots: 26
+Total Images: 1254
+Time:	25.01.2025 07:04:47 to 26.01.2025 10:43:01
+Duration: 1.03:38:14
+
+(1) - 1,0 km 49+62
+	LV1
+		Images:	1251
+		Time:	25.01.2025 07:04:47 until 25.01.2025 08:09:05
+		Duration:	01:04:18
+		Location:	50.12833 5.79958
+
+	MK1
+(2) - 3,4 km 49+62
+	MAW1
+	MAW1LS1
+(3) - km 12,5 - 49+62
+	MK2
+	LV2
+		Images:	1
+		Time:	26.01.2025 09:46:14 until 26.01.2025 09:46:14
+		Duration:	00:00:00
+		Location:	50.14314 5.79665
+
+(4) - km 12,7 / 62+49
+	MK2LS1
+	LV2LS1
+(5) - km 14 - 49+62
+	MAW2
+	MAW2LS1
+	MAW2LS2
+(6) - km 34,5/62 + km23,5/49
+	MK3
+	MK3LS1
+	LV3LS1
+(7) - km 35/62 + km24/49
+	LV3
+(8) - km 40/62 + km28/49)
+	MAW3
+	MAW3LS1
+	MAW3LS2
+(9) - km3 /10 + km 8,8/21   Nighttrail
+	MAW4
+	MAW4LS1
+(10) - km 5,8/ 10 + km16/21 Nighttrail
+	LV4
+	LV4LS1
+	MK4
+	MK4LS1
+(11) - Impressions / Pano
+	MK1DRONE1
+	PANO1

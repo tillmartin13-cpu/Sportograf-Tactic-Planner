@@ -1,0 +1,117 @@
+EventId: 14963
+Spots: 17
+Total Images: 4340
+Time:	26.04.2025 18:53:48 to 27.04.2025 00:55:34
+Duration: 06:01:46
+
+(1) - #1 KISS OF MUD
+	BESC1
+		Images:	267
+		Time:	26.04.2025 21:04:37 until 26.04.2025 21:55:16
+		Duration:	00:50:39
+		Location:	33.63856 -84.69917
+
+	RUHO1
+		Images:	261
+		Time:	26.04.2025 20:59:21 until 26.04.2025 21:55:21
+		Duration:	00:56:00
+		Location:	33.63856 -84.69917
+
+(2) - #11 BLOCK NESS MONSTER
+	GMAL2
+		Images:	395
+		Time:	26.04.2025 20:30:59 until 26.04.2025 21:31:00
+		Duration:	01:00:01
+		Location:	33.64741 -84.70094
+
+	SICA2
+		Images:	654
+		Time:	26.04.2025 21:32:02 until 26.04.2025 22:30:50
+		Duration:	00:58:48
+		Location:	33.64741 -84.70094
+
+(3) - #14 CAGE CRAWL
+	BESC3
+		Images:	218
+		Time:	26.04.2025 23:09:29 until 26.04.2025 23:55:27
+		Duration:	00:45:58
+		Location:	33.64703 -84.70704
+
+	RUHO3
+		Images:	127
+		Time:	26.04.2025 23:09:47 until 26.04.2025 23:55:43
+		Duration:	00:45:56
+		Location:	33.64703 -84.70704
+
+(4) - #15 JUST THE TIP
+	BESC4
+		Images:	269
+		Time:	26.04.2025 22:16:59 until 26.04.2025 22:54:15
+		Duration:	00:37:16
+		Location:	33.64444 -84.71194
+
+	RUHO4
+		Images:	115
+		Time:	26.04.2025 22:17:50 until 26.04.2025 22:54:42
+		Duration:	00:36:52
+		Location:	33.64444 -84.71194
+
+(5) - #16 HANGIN TOUGH
+	GMAL4
+		Images:	196
+		Time:	26.04.2025 22:37:15 until 26.04.2025 23:18:45
+		Duration:	00:41:30
+		Location:	33.64730 -84.70379
+
+	SICA4
+		Images:	172
+		Time:	26.04.2025 23:37:40 until 27.04.2025 00:18:48
+		Duration:	00:41:08
+		Location:	33.64730 -84.70379
+
+(6) - #17 MUDDERHORN
+	GMAL1
+		Images:	421
+		Time:	26.04.2025 18:53:48 until 26.04.2025 20:09:14
+		Duration:	01:15:26
+		Location:	33.63814 -84.71150
+
+	SICA1
+		Images:	515
+		Time:	26.04.2025 20:04:20 until 26.04.2025 21:31:02
+		Duration:	01:26:42
+		Location:	33.63814 -84.71150
+
+(7) - #18 PIRAMID SCHEME
+	GMAL3
+		Images:	242
+		Time:	26.04.2025 21:34:35 until 26.04.2025 22:30:24
+		Duration:	00:55:49
+		Location:	33.63922 -84.71080
+
+	SICA3
+		Images:	169
+		Time:	26.04.2025 22:34:47 until 26.04.2025 23:30:04
+		Duration:	00:55:17
+		Location:	33.63922 -84.71080
+
+(8) - #20 ELECTROSHOCK THERAPY
+	BESC2
+		Images:	136
+		Time:	27.04.2025 00:14:19 until 27.04.2025 00:42:42
+		Duration:	00:28:23
+		Location:	33.63734 -84.71060
+
+	RUHO2
+		Images:	166
+		Time:	27.04.2025 00:14:42 until 27.04.2025 00:55:34
+		Duration:	00:40:52
+		Location:	33.63734 -84.71060
+
+(9) - Impressions / Pano
+	SICA5
+		Images:	17
+		Time:	26.04.2025 19:49:07 until 26.04.2025 19:55:18
+		Duration:	00:06:11
+		Location:	33.63734 -84.71060
+

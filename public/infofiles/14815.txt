@@ -1,0 +1,13 @@
+EventId: 14815
+Spots: 1
+Total Images: 2570
+Time:	23.02.2025 08:00:43 to 23.02.2025 19:59:06
+Duration: 11:58:23
+
+(1) - Run
+	EP9
+		Images:	2570
+		Time:	23.02.2025 08:00:43 until 23.02.2025 19:59:06
+		Duration:	11:58:23
+		Location:	48.21718 16.40902
+

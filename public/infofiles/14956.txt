@@ -1,0 +1,88 @@
+EventId: 14956
+Spots: 12
+Total Images: 67056
+Time:	08.08.2025 22:38:21 to 10.08.2025 15:33:21
+Duration: 1.16:55:00
+
+(1) - Obstacle 4 Monkey Bars
+	JIB1
+		Images:	6073
+		Time:	09.08.2025 06:55:04 until 10.08.2025 14:05:09
+		Duration:	1.07:10:05
+		Location:	44.00242 -116.79068
+
+(2) - Obstacle 6 Atlas Carry
+	JANH1
+		Images:	2914
+		Time:	09.08.2025 09:12:57 until 10.08.2025 14:12:22
+		Duration:	1.04:59:25
+		Location:	44.00029 -116.78965
+
+	DDC1
+		Images:	5443
+		Time:	09.08.2025 06:43:38 until 10.08.2025 14:13:06
+		Duration:	1.07:29:28
+		Location:	44.00029 -116.78965
+
+(3) - Obstacle 9 Barbed Wire Crawl
+	DMI1
+		Images:	12670
+		Time:	09.08.2025 06:50:46 until 10.08.2025 14:29:57
+		Duration:	1.07:39:11
+		Location:	43.99719 -116.77845
+
+(4) - Obstacle 11 Dunk Wall
+	MRKE1
+		Images:	8322
+		Time:	10.08.2025 07:34:37 until 10.08.2025 14:38:58
+		Duration:	07:04:21
+		Location:	43.99711 -116.77818
+
+(5) - Trail before Multi-Rig
+	DMCI1LS1
+		Images:	9819
+		Time:	09.08.2025 07:12:33 until 10.08.2025 13:48:08
+		Duration:	1.06:35:35
+		Location:	44.00128 -116.77561
+
+(6) - Obstacle 15 Multi-Rig
+	DMCI1
+		Images:	5644
+		Time:	10.08.2025 07:41:42 until 10.08.2025 14:59:37
+		Duration:	07:17:55
+		Location:	44.00124 -116.77563
+
+	AHB1
+		Images:	4495
+		Time:	08.08.2025 22:38:21 until 10.08.2025 14:54:17
+		Duration:	1.16:15:56
+		Location:	44.00124 -116.77563
+
+(7) - Obstacle 16 Bucket Carry
+	JASP1
+		Images:	8277
+		Time:	09.08.2025 07:08:57 until 10.08.2025 15:08:42
+		Duration:	1.07:59:45
+		Location:	44.00243 -116.77571
+
+(8) - Herotent
+	MAPM1
+		Images:	3020
+		Time:	09.08.2025 06:42:47 until 10.08.2025 15:33:21
+		Duration:	1.08:50:34
+		Location:	44.00546 -116.78134
+
+(9) - Festival Area
+	JOD1
+		Images:	325
+		Time:	09.08.2025 13:01:40 until 10.08.2025 13:25:42
+		Duration:	1.00:24:02
+		Location:	44.00546 -116.78134
+
+(10) - Drone
+	DMI1DRONE1
+		Images:	53
+		Time:	09.08.2025 06:53:54 until 10.08.2025 14:21:12
+		Duration:	1.07:27:18
+		Location:	44.00546 -116.78134
+

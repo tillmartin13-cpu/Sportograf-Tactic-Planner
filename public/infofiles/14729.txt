@@ -1,0 +1,97 @@
+EventId: 14729
+Spots: 15
+Total Images: 58901
+Time:	14.03.2025 08:16:40 to 15.03.2025 16:28:43
+Duration: 1.08:12:03
+
+(1) - 5,4 km till finish
+	GUD1
+		Images:	9248
+		Time:	14.03.2025 09:36:09 until 15.03.2025 14:13:52
+		Duration:	1.04:37:43
+		Location:	61.13512 10.58193
+
+	GUD1LS1
+		Images:	2304
+		Time:	14.03.2025 09:33:06 until 14.03.2025 16:27:18
+		Duration:	06:54:12
+		Location:	61.13512 10.58193
+
+	GUD1LS2
+		Images:	2221
+		Time:	14.03.2025 09:33:07 until 14.03.2025 16:27:18
+		Duration:	06:54:11
+		Location:	61.13512 10.58193
+
+(2) - 2,2 km till finish
+	DASC1
+		Images:	8675
+		Time:	14.03.2025 08:30:29 until 15.03.2025 09:57:43
+		Duration:	1.01:27:14
+		Location:	61.13283 10.53012
+
+(3) - 1,2 km till finish
+	ROH1
+		Images:	6729
+		Time:	14.03.2025 08:48:44 until 15.03.2025 09:59:23
+		Duration:	1.01:10:39
+		Location:	61.13858 10.51504
+
+	ROH1LS1
+		Images:	2761
+		Time:	14.03.2025 08:17:45 until 15.03.2025 07:59:21
+		Duration:	23:41:36
+		Location:	61.13858 10.51504
+
+	ROH1LS2
+		Images:	2628
+		Time:	14.03.2025 08:16:40 until 14.03.2025 16:56:20
+		Duration:	08:39:40
+		Location:	61.13858 10.51504
+
+(4) - 0,5 km till finish
+	BS1
+		Images:	9701
+		Time:	14.03.2025 09:52:37 until 15.03.2025 14:30:49
+		Duration:	1.04:38:12
+		Location:	61.13526 10.50712
+
+	BS1LS1
+		Images:	2359
+		Time:	14.03.2025 08:23:22 until 15.03.2025 07:25:49
+		Duration:	23:02:27
+		Location:	61.13526 10.50712
+
+(5) - Finish
+	NH1
+		Images:	7464
+		Time:	14.03.2025 09:10:40 until 14.03.2025 17:04:28
+		Duration:	07:53:48
+		Location:	61.13447 10.50809
+
+	NH1LS1
+		Images:	1230
+		Time:	14.03.2025 09:59:39 until 14.03.2025 17:57:43
+		Duration:	07:58:04
+		Location:	61.13447 10.50809
+
+	NH1LS2
+		Images:	3537
+		Time:	14.03.2025 08:36:53 until 14.03.2025 17:04:37
+		Duration:	08:27:44
+		Location:	61.13447 10.50809
+
+(6) - Impressions / Pano
+	GUD1DRONE1
+		Images:	13
+		Time:	14.03.2025 09:14:12 until 15.03.2025 08:01:01
+		Duration:	22:46:49
+		Location:	61.13512 10.58193
+
+	ROH1DRONE1
+		Images:	26
+		Time:	14.03.2025 15:11:05 until 15.03.2025 14:47:04
+		Duration:	23:35:59
+		Location:	61.13858 10.51504
+
+	PANO1

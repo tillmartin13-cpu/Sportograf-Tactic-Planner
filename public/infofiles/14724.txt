@@ -1,0 +1,113 @@
+EventId: 14724
+Spots: 16
+Total Images: 73936
+Time:	21.06.2025 06:56:22 to 22.06.2025 13:42:30
+Duration: 1.06:46:08
+
+(1) - Herotent
+	AGP1
+		Images:	2575
+		Time:	21.06.2025 09:06:45 until 21.06.2025 16:38:55
+		Duration:	07:32:10
+		Location:	NULL NULL
+
+(2) - Obstacle 1 Sandbag Carry
+	AGU1
+		Images:	8732
+		Time:	21.06.2025 07:59:33 until 21.06.2025 16:15:28
+		Duration:	08:15:55
+		Location:	48.16214 15.60296
+
+	AGU1LS2
+		Images:	3819
+		Time:	21.06.2025 10:01:09 until 21.06.2025 16:16:47
+		Duration:	06:15:38
+		Location:	48.16214 15.60296
+
+	AGU1LS1
+		Images:	3821
+		Time:	21.06.2025 10:00:42 until 21.06.2025 16:28:06
+		Duration:	06:27:24
+		Location:	48.16214 15.60296
+
+(3) - Obstacle 1 Vertical Net
+	CK1
+		Images:	269
+		Time:	21.06.2025 15:30:21 until 21.06.2025 15:34:30
+		Duration:	00:04:09
+		Location:	48.16247 15.60003
+
+(4) - Impressions / Pano
+	CK1DRONE1
+		Images:	37
+		Time:	21.06.2025 13:24:14 until 22.06.2025 13:42:30
+		Duration:	1.00:18:16
+		Location:	48.16247 15.60003
+
+	PANO1
+		Images:	31
+		Time:	21.06.2025 08:13:21 until 22.06.2025 11:41:22
+		Duration:	1.03:28:01
+		Location:	48.16247 15.60003
+
+(5) - Finish
+	CK1LS2
+		Images:	2787
+		Time:	21.06.2025 10:42:39 until 21.06.2025 15:32:21
+		Duration:	04:49:42
+		Location:	48.16247 15.60003
+
+	CK1LS1
+		Images:	4611
+		Time:	21.06.2025 10:39:06 until 21.06.2025 15:32:10
+		Duration:	04:53:04
+		Location:	48.16247 15.60003
+
+	JAKO1
+		Images:	2909
+		Time:	21.06.2025 10:35:22 until 21.06.2025 16:34:50
+		Duration:	05:59:28
+		Location:	48.16247 15.60003
+
+(6) - Obstacle 1 A Frame Cargo
+	DRU1
+		Images:	6041
+		Time:	21.06.2025 06:56:22 until 21.06.2025 15:49:06
+		Duration:	08:52:44
+		Location:	48.16187 15.59946
+
+(7) - Obstacle 1 Monkey Bars
+	EUGP1
+		Images:	3690
+		Time:	21.06.2025 08:55:16 until 22.06.2025 08:42:14
+		Duration:	23:46:58
+		Location:	48.16503 15.60628
+
+(8) - Obstacle 1 Dunk wall
+	MIW1
+		Images:	6302
+		Time:	21.06.2025 10:32:12 until 21.06.2025 15:38:02
+		Duration:	05:05:50
+		Location:	48.16166 15.59826
+
+(9) - Obstacle 1 Multirig
+	RIP1
+		Images:	11178
+		Time:	21.06.2025 08:33:22 until 22.06.2025 09:13:56
+		Duration:	1.00:40:34
+		Location:	48.15833 15.59224
+
+(10) - Obstacle 1 Rope Climb
+	YEP1
+		Images:	4876
+		Time:	21.06.2025 08:32:40 until 22.06.2025 09:09:17
+		Duration:	1.00:36:37
+		Location:	48.15586 15.59154
+
+(11) - Obstacle 1 Barbwire Crawl
+	KYR1
+		Images:	12257
+		Time:	21.06.2025 08:36:57 until 22.06.2025 09:03:45
+		Duration:	1.00:26:48
+		Location:	48.16192 15.59991
+

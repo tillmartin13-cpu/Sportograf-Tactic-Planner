@@ -1,0 +1,122 @@
+EventId: 14429
+Spots: 17
+Total Images: 64565
+Time:	16.02.2025 05:53:01 to 16.02.2025 12:42:25
+Duration: 06:49:24
+
+(1) - Obstacle 9 Monkey Bars
+	MCAR1
+		Images:	1966
+		Time:	16.02.2025 07:11:20 until 16.02.2025 11:08:44
+		Duration:	03:57:24
+		Location:	33.57927 -111.65938
+
+	KHN1
+		Images:	4398
+		Time:	16.02.2025 06:09:28 until 16.02.2025 11:08:27
+		Duration:	04:58:59
+		Location:	33.57927 -111.65938
+
+(2) - Impressions / Pano
+	MCAR1DRONE1
+		Images:	19
+		Time:	16.02.2025 06:44:32 until 16.02.2025 06:48:24
+		Duration:	00:03:52
+		Location:	33.57927 -111.65938
+
+(3) - Obstacle 13 Atlas Carry
+	DAKK1
+		Images:	4171
+		Time:	16.02.2025 06:10:46 until 16.02.2025 11:09:05
+		Duration:	04:58:19
+		Location:	33.58038 -111.66060
+
+	MCKR1
+		Images:	1989
+		Time:	16.02.2025 06:10:46 until 16.02.2025 11:16:56
+		Duration:	05:06:10
+		Location:	33.58038 -111.66060
+
+(4) - Obstacle 14 Vertical Cargo
+	DMI1
+		Images:	6728
+		Time:	16.02.2025 06:13:08 until 16.02.2025 11:21:57
+		Duration:	05:08:49
+		Location:	33.57911 -111.66043
+
+(5) - Obstacle 15 Craft A-Frame Cargo
+	KAH1
+		Images:	4333
+		Time:	16.02.2025 05:53:01 until 16.02.2025 11:24:35
+		Duration:	05:31:34
+		Location:	33.57919 -111.66110
+
+(6) - Obstacle 16 Bucket Carry
+	DVAL1
+		Images:	9827
+		Time:	16.02.2025 06:07:05 until 16.02.2025 11:45:27
+		Duration:	05:38:22
+		Location:	33.57630 -111.65974
+
+(7) - Obstacle 17 Barbed Wire Crawl
+	TUD1
+		Images:	3494
+		Time:	16.02.2025 05:56:57 until 16.02.2025 10:55:37
+		Duration:	04:58:40
+		Location:	33.57519 -111.65957
+
+(8) - Obstacle 19 Dunk Wall
+	MATA1
+		Images:	6537
+		Time:	16.02.2025 06:20:34 until 16.02.2025 12:01:34
+		Duration:	05:41:00
+		Location:	33.57519 -111.65957
+
+(9) - Obstacle 24 Sandbag Carry
+	AHB1
+		Images:	5359
+		Time:	16.02.2025 06:17:31 until 16.02.2025 12:10:19
+		Duration:	05:52:48
+		Location:	33.57647 -111.65938
+
+(10) - Obstacle 25 Titan Fitness Multi-Rig Trail
+	KHN1LS1
+		Images:	867
+		Time:	16.02.2025 07:19:44 until 16.02.2025 11:17:52
+		Duration:	03:58:08
+		Location:	33.57905 -111.65996
+
+(11) - Obstacle 25 Titan Fitness Multi-Rig
+	DDC1
+		Images:	4256
+		Time:	16.02.2025 06:16:37 until 16.02.2025 12:15:05
+		Duration:	05:58:28
+		Location:	33.57905 -111.65996
+
+	VICY1
+		Images:	3992
+		Time:	16.02.2025 06:28:07 until 16.02.2025 12:29:02
+		Duration:	06:00:55
+		Location:	33.57905 -111.65996
+
+(12) - Obstacle 27 Fire Jump
+	GOB1
+		Images:	2241
+		Time:	16.02.2025 06:19:38 until 16.02.2025 12:38:28
+		Duration:	06:18:50
+		Location:	33.5805 -111.66143
+
+(13) - Finish
+	KHN1LS2
+		Images:	966
+		Time:	16.02.2025 06:53:56 until 16.02.2025 11:43:27
+		Duration:	04:49:31
+		Location:	33.5805 -111.66146
+
+(14) - Herotent
+	JANH1
+		Images:	3422
+		Time:	16.02.2025 05:58:32 until 16.02.2025 12:42:25
+		Duration:	06:43:53
+		Location:	33.58075 -111.66140
+

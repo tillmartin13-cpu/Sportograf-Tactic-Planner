@@ -1,0 +1,164 @@
+EventId: 14204
+Spots: 28
+Total Images: 292341
+Time:	14.11.2025 17:38:24 to 19.11.2025 12:18:33
+Duration: 4.18:40:09
+
+(1) - 40.0 km
+	JUBA1
+	JUBA1LS1
+		Images:	8404
+		Time:	15.11.2025 06:25:07 until 15.11.2025 12:40:30
+		Duration:	06:15:23
+		Location:	NULL NULL
+
+	DMB3
+		Images:	796
+		Time:	15.11.2025 12:43:38 until 15.11.2025 15:34:25
+		Duration:	02:50:47
+		Location:	NULL NULL
+
+(2) - Finish
+	MALO1
+		Images:	23458
+		Time:	15.11.2025 06:14:14 until 15.11.2025 13:19:38
+		Duration:	07:05:24
+		Location:	NULL NULL
+
+	MTRL2
+		Images:	18438
+		Time:	15.11.2025 10:08:49 until 15.11.2025 14:11:46
+		Duration:	04:02:57
+		Location:	NULL NULL
+
+	MASU1
+		Images:	25056
+		Time:	15.11.2025 06:49:20 until 15.11.2025 13:31:59
+		Duration:	06:42:39
+		Location:	NULL NULL
+
+	BRON2
+		Images:	4379
+		Time:	15.11.2025 09:12:17 until 15.11.2025 13:12:17
+		Duration:	04:00:00
+		Location:	NULL NULL
+
+	TRDN2
+		Images:	5818
+		Time:	15.11.2025 09:58:21 until 15.11.2025 15:08:43
+		Duration:	05:10:22
+		Location:	NULL NULL
+
+	DMB2
+		Images:	902
+		Time:	15.11.2025 11:09:19 until 15.11.2025 12:40:40
+		Duration:	01:31:21
+		Location:	NULL NULL
+
+(3) - Impressions / Pano
+	PANO1
+(4) - 39.5 km
+	MTRL1
+		Images:	7371
+		Time:	15.11.2025 06:38:21 until 15.11.2025 10:07:51
+		Duration:	03:29:30
+		Location:	NULL NULL
+
+	RYB1
+(5) - Start
+	BRON1
+		Images:	2247
+		Time:	15.11.2025 06:58:36 until 15.11.2025 09:31:02
+		Duration:	02:32:26
+		Location:	NULL NULL
+
+	RGD1
+		Images:	676
+		Time:	15.11.2025 10:22:18 until 15.11.2025 10:43:28
+		Duration:	00:21:10
+		Location:	NULL NULL
+
+	MBRO1
+		Images:	23654
+		Time:	15.11.2025 05:55:48 until 15.11.2025 13:59:15
+		Duration:	08:03:27
+		Location:	NULL NULL
+
+	MBC1
+		Images:	11509
+		Time:	15.11.2025 05:52:31 until 15.11.2025 15:00:09
+		Duration:	09:07:38
+		Location:	NULL NULL
+
+(6) - 22.6 km
+	RISO1
+		Images:	8685
+		Time:	14.11.2025 17:38:24 until 19.11.2025 12:18:33
+		Duration:	4.18:40:09
+		Location:	NULL NULL
+
+(7) - 34.8 km
+	KML1
+		Images:	38898
+		Time:	14.11.2025 18:32:12 until 15.11.2025 14:28:06
+		Duration:	19:55:54
+		Location:	NULL NULL
+
+	RGD2
+		Images:	6325
+		Time:	15.11.2025 07:17:48 until 15.11.2025 13:24:39
+		Duration:	06:06:51
+		Location:	NULL NULL
+
+(8) - 26.5 km
+	DDAV1
+		Images:	23925
+		Time:	15.11.2025 06:04:48 until 15.11.2025 12:32:43
+		Duration:	06:27:55
+		Location:	NULL NULL
+
+(9) - 33.0 km
+	EBAR1
+		Images:	36276
+		Time:	14.11.2025 17:58:57 until 15.11.2025 14:10:57
+		Duration:	20:12:00
+		Location:	NULL NULL
+
+(10) - 18.0 km
+	JALL1
+		Images:	12986
+		Time:	15.11.2025 08:28:20 until 15.11.2025 14:53:30
+		Duration:	06:25:10
+		Location:	NULL NULL
+
+(11) - 27.0 km
+	TRDN1
+		Images:	8590
+		Time:	15.11.2025 07:20:48 until 15.11.2025 09:58:20
+		Duration:	02:37:32
+		Location:	NULL NULL
+
+(12) - 41.0 km
+	DARR1
+		Images:	12317
+		Time:	15.11.2025 05:45:42 until 15.11.2025 14:51:33
+		Duration:	09:05:51
+		Location:	NULL NULL
+
+	DARR1LS1
+(13) - 41.7 km
+	LEWD1
+		Images:	6975
+		Time:	15.11.2025 06:18:03 until 15.11.2025 15:03:26
+		Duration:	08:45:23
+		Location:	NULL NULL
+
+(14) - 13.5 km
+	DMB1
+		Images:	4656
+		Time:	15.11.2025 08:18:18 until 15.11.2025 12:40:59
+		Duration:	04:22:41
+		Location:	NULL NULL
+
+(15) - 41.5 km
+	KOH1

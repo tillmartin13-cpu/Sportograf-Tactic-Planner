@@ -1,0 +1,59 @@
+EventId: 15955
+Spots: 9
+Total Images: 4547
+Time:	31.12.2013 19:00:01 to 31.12.2099 22:59:59
+Duration: 31411.03:59:58
+
+(1) - Impressions / Pano
+	PANO1
+(2) - 0.0 km Lida Pr 865598
+	LNIX1
+		Images:	108
+		Time:	26.04.2025 07:24:16 until 26.04.2025 08:02:14
+		Duration:	00:37:58
+		Location:	NULL NULL
+
+(3) - 0.0 km Lida Medals 863159
+	LNIX2
+		Images:	428
+		Time:	26.04.2025 08:07:38 until 26.04.2025 09:50:55
+		Duration:	01:43:17
+		Location:	NULL NULL
+
+(4) - 0.0 km MSC 1 Andy 865599
+	AWINZ1
+		Images:	1456
+		Time:	26.04.2025 08:11:07 until 26.04.2025 09:49:06
+		Duration:	01:37:59
+		Location:	NULL NULL
+
+(5) - 0.0 km PreFin Deborah 863157
+	DSHEA1
+		Images:	3
+		Time:	26.04.2025 08:15:51 until 26.04.2025 08:15:53
+		Duration:	00:00:02
+		Location:	NULL NULL
+
+(6) - 0.0 km PreFin Deborah 863157 Kids
+	DSHEA2
+		Images:	1
+		Time:	26.04.2025 09:34:04 until 26.04.2025 09:34:04
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(7) - 0.0 km Pre Fin Trigger 863158
+	DSHEA1LS1
+		Images:	2547
+		Time:	31.12.2013 19:00:01 until 31.12.2099 22:59:59
+		Duration:	31411.03:59:58
+		Location:	NULL NULL
+
+(8) - 0.0 km Fin Steve 863154
+	SZAN1
+(9) - 0.0 km Fin Trigger 863155
+	SZAN1LS1
+		Images:	4
+		Time:	26.04.2025 06:59:23 until 26.04.2025 06:59:26
+		Duration:	00:00:03
+		Location:	NULL NULL
+

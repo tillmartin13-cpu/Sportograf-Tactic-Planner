@@ -1,0 +1,110 @@
+EventId: 14288
+Spots: 16
+Total Images: 81191
+Time:	28.09.2025 09:03:21 to 28.09.2025 15:48:26
+Duration: 06:45:05
+
+(1) - Laufstrecke zwischen Obstacle 7 Treibsand und Obstacle 8 Ententeich
+	TIM1
+		Images:	5837
+		Time:	28.09.2025 10:15:39 until 28.09.2025 14:02:37
+		Duration:	03:46:58
+		Location:	51.26106 12.40402
+
+(2) - Obstacle 21 Poolparty
+	SJK1
+		Images:	2673
+		Time:	28.09.2025 09:22:12 until 28.09.2025 14:57:27
+		Duration:	05:35:15
+		Location:	51.25530 12.42289
+
+(3) - Laufstrecke vor Obstacle 23 Monkey Bar
+	GUD1LS1
+		Images:	1503
+		Time:	28.09.2025 09:43:55 until 28.09.2025 15:15:21
+		Duration:	05:31:26
+		Location:	51.25797 12.42592
+
+	GUD1LS2
+		Images:	1388
+		Time:	28.09.2025 09:44:09 until 28.09.2025 15:15:21
+		Duration:	05:31:12
+		Location:	51.25797 12.42592
+
+(4) - Obstacle 23 Monkey Bar
+	GUD1
+		Images:	11328
+		Time:	28.09.2025 10:39:24 until 28.09.2025 15:06:40
+		Duration:	04:27:16
+		Location:	51.25866 12.42594
+
+(5) - Obstacle 25 Crawl Shower
+	DAR1
+		Images:	10880
+		Time:	28.09.2025 09:44:58 until 28.09.2025 15:17:21
+		Duration:	05:32:23
+		Location:	51.25711 12.42917
+
+(6) - Laufstrecke nach Obstacle 25 Crawl Shower
+	DAR1LS1
+		Images:	1671
+		Time:	28.09.2025 09:24:55 until 28.09.2025 15:17:24
+		Duration:	05:52:29
+		Location:	51.25711 12.42917
+
+(7) - Obstacle 26 Hoellenrausch
+	MIH1
+		Images:	16504
+		Time:	28.09.2025 09:27:19 until 28.09.2025 15:18:15
+		Duration:	05:50:56
+		Location:	51.25659 12.42935
+
+	MIH1LS1
+		Images:	333
+		Time:	28.09.2025 14:20:16 until 28.09.2025 15:21:46
+		Duration:	01:01:30
+		Location:	51.25659 12.42935
+
+(8) - Laufstrecke vor Obstacle 31 Gib Gumi
+	MERO1LS1
+		Images:	2042
+		Time:	28.09.2025 09:25:03 until 28.09.2025 15:44:21
+		Duration:	06:19:18
+		Location:	51.25385 12.42316
+
+(9) - Obstacle 31 Gib Gummi
+	MERO1
+		Images:	13470
+		Time:	28.09.2025 10:24:05 until 28.09.2025 15:42:11
+		Duration:	05:18:06
+		Location:	51.25411 12.42307
+
+(10) - Obstacle 34 Schlammschlacht
+	RIS1
+		Images:	9421
+		Time:	28.09.2025 10:44:55 until 28.09.2025 15:46:17
+		Duration:	05:01:22
+		Location:	51.25485 12.42354
+
+(11) - Finish
+	TIH1LS1
+		Images:	1984
+		Time:	28.09.2025 09:31:31 until 28.09.2025 15:47:40
+		Duration:	06:16:09
+		Location:	51.25537 12.42339
+
+(12) - Herotent
+	TIH1
+		Images:	2151
+		Time:	28.09.2025 09:03:21 until 28.09.2025 15:48:26
+		Duration:	06:45:05
+		Location:	51.25540 12.42332
+
+(13) - Impressions / Pano
+	GUD1DRONE1
+		Images:	6
+		Time:	28.09.2025 09:55:15 until 28.09.2025 10:03:59
+		Duration:	00:08:44
+		Location:	51.25537 12.42339
+
+	PANO1

@@ -1,0 +1,104 @@
+EventId: 14647
+Spots: 15
+Total Images: 65481
+Time:	05.07.2025 07:03:57 to 06.07.2025 17:20:03
+Duration: 1.10:16:06
+
+(1) - 8 - Kiss of Mud
+	APDA1
+		Images:	5855
+		Time:	05.07.2025 07:22:02 until 06.07.2025 14:10:40
+		Duration:	1.06:48:38
+		Location:	52.88517 -0.77841
+
+	KSTH1
+		Images:	3352
+		Time:	05.07.2025 07:51:39 until 06.07.2025 14:09:59
+		Duration:	1.06:18:20
+		Location:	52.88517 -0.77841
+
+	BKO2
+		Images:	2111
+		Time:	05.07.2025 09:41:57 until 06.07.2025 11:46:38
+		Duration:	1.02:04:41
+		Location:	52.88517 -0.77841
+
+(2) - 12 - Blockness Monster
+	GHI1
+		Images:	5533
+		Time:	05.07.2025 07:56:15 until 06.07.2025 15:44:20
+		Duration:	1.07:48:05
+		Location:	52.88264 -0.77579
+
+	YCAN1
+		Images:	13569
+		Time:	05.07.2025 07:03:57 until 06.07.2025 15:45:38
+		Duration:	1.08:41:41
+		Location:	52.88264 -0.77579
+
+	BKO3
+		Images:	3996
+		Time:	06.07.2025 11:54:18 until 06.07.2025 12:56:48
+		Duration:	01:02:30
+		Location:	52.88264 -0.77579
+
+(3) - 16- Everest
+	DANO1
+		Images:	5570
+		Time:	06.07.2025 10:05:17 until 06.07.2025 15:51:29
+		Duration:	05:46:12
+		Location:	52.88664 -0.76812
+
+	MSO1
+		Images:	2250
+		Time:	06.07.2025 08:39:20 until 06.07.2025 16:29:36
+		Duration:	07:50:16
+		Location:	52.88664 -0.76812
+
+	BKO4
+		Images:	548
+		Time:	06.07.2025 13:17:16 until 06.07.2025 13:26:34
+		Duration:	00:09:18
+		Location:	52.88664 -0.76812
+
+(4) - 20 - Twinkle Toes
+	DAKE1
+		Images:	2792
+		Time:	06.07.2025 10:22:59 until 06.07.2025 16:55:29
+		Duration:	06:32:30
+		Location:	52.88862 -0.76691
+
+(5) - 21 - Mud Mile
+	LOT1
+		Images:	8401
+		Time:	06.07.2025 10:24:27 until 06.07.2025 16:59:52
+		Duration:	06:35:25
+		Location:	52.88992 -0.76685
+
+(6) - 23 - Elektroshock Therapy
+	CUP1
+		Images:	9486
+		Time:	06.07.2025 09:41:23 until 06.07.2025 17:18:24
+		Duration:	07:37:01
+		Location:	52.89052 -0.77335
+
+	BKO5
+		Images:	798
+		Time:	06.07.2025 13:57:00 until 06.07.2025 14:06:50
+		Duration:	00:09:50
+		Location:	52.89052 -0.77335
+
+(7) - Hero Tent
+	OLH1
+		Images:	857
+		Time:	06.07.2025 10:33:14 until 06.07.2025 17:20:03
+		Duration:	06:46:49
+		Location:	52.89057 -0.77391
+
+(8) - Impressions / Pano
+	BKO1
+		Images:	356
+		Time:	06.07.2025 09:46:23 until 06.07.2025 10:24:46
+		Duration:	00:38:23
+		Location:	52.89057 -0.77391
+

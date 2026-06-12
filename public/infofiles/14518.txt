@@ -1,0 +1,317 @@
+EventId: 14518
+Spots: 50
+Total Images: 235489
+Time:	12.11.2025 06:19:28 to 16.11.2025 08:49:32
+Duration: 4.02:30:04
+
+(1) - SKIERG
+	CMS1
+		Images:	8685
+		Time:	15.11.2025 07:02:36 until 15.11.2025 13:54:50
+		Duration:	06:52:14
+		Location:	53.32307 -6.22670
+
+	SOUG1
+		Images:	3384
+		Time:	13.11.2025 06:32:12 until 15.11.2025 13:54:12
+		Duration:	2.07:22:00
+		Location:	53.32307 -6.22670
+
+	SAL1
+		Images:	2007
+		Time:	13.11.2025 07:07:51 until 15.11.2025 14:10:02
+		Duration:	2.07:02:11
+		Location:	53.32307 -6.22670
+
+	DP1
+		Images:	864
+		Time:	12.11.2025 06:48:25 until 16.11.2025 07:41:55
+		Duration:	4.00:53:30
+		Location:	53.32307 -6.22670
+
+	JUW1
+		Images:	939
+		Time:	13.11.2025 06:28:34 until 15.11.2025 14:06:49
+		Duration:	2.07:38:15
+		Location:	53.32307 -6.22670
+
+	TOMY2
+		Images:	4372
+		Time:	15.11.2025 14:04:21 until 15.11.2025 19:38:01
+		Duration:	05:33:40
+		Location:	53.32307 -6.22670
+
+	MKH2
+		Images:	2769
+		Time:	14.11.2025 06:48:01 until 15.11.2025 19:38:03
+		Duration:	1.12:50:02
+		Location:	53.32307 -6.22670
+
+	HED2
+		Images:	3242
+		Time:	15.11.2025 14:06:46 until 15.11.2025 19:38:17
+		Duration:	05:31:31
+		Location:	53.32307 -6.22670
+
+(2) - SLED PUSH
+	HED1
+		Images:	2085
+		Time:	12.11.2025 06:39:56 until 15.11.2025 14:04:07
+		Duration:	3.07:24:11
+		Location:	53.32307 -6.22670
+
+	OHAL1
+		Images:	6541
+		Time:	12.11.2025 07:04:31 until 15.11.2025 14:04:26
+		Duration:	3.06:59:55
+		Location:	53.32307 -6.22670
+
+	SHP1
+		Images:	4758
+		Time:	13.11.2025 06:10:20 until 16.11.2025 07:09:08
+		Duration:	3.00:58:48
+		Location:	53.32307 -6.22670
+
+	APDA2
+		Images:	3008
+		Time:	15.11.2025 14:05:36 until 16.11.2025 06:55:18
+		Duration:	16:49:42
+		Location:	53.32307 -6.22670
+
+	LOT2
+		Images:	3351
+		Time:	15.11.2025 14:05:08 until 15.11.2025 19:46:18
+		Duration:	05:41:10
+		Location:	53.32307 -6.22670
+
+	MALV2
+		Images:	6395
+		Time:	15.11.2025 14:14:10 until 15.11.2025 19:46:38
+		Duration:	05:32:28
+		Location:	53.32307 -6.22670
+
+(3) - Run
+	CUP1LS2
+		Images:	4344
+		Time:	15.11.2025 06:21:14 until 15.11.2025 19:55:50
+		Duration:	13:34:36
+		Location:	53.32307 -6.22670
+
+	CUP1LS1
+		Images:	4354
+		Time:	15.11.2025 06:21:42 until 15.11.2025 19:57:04
+		Duration:	13:35:22
+		Location:	53.32307 -6.22670
+
+(4) - SLED PULL
+	DAMU1
+		Images:	3076
+		Time:	15.11.2025 07:17:18 until 15.11.2025 13:58:07
+		Duration:	06:40:49
+		Location:	53.32307 -6.22670
+
+	TOMY1
+		Images:	5077
+		Time:	15.11.2025 06:21:43 until 15.11.2025 13:57:59
+		Duration:	07:36:16
+		Location:	53.32307 -6.22670
+
+	WIN1
+		Images:	5944
+		Time:	12.11.2025 06:30:47 until 15.11.2025 13:56:07
+		Duration:	3.07:25:20
+		Location:	53.32307 -6.22670
+
+	SOUG2
+		Images:	4739
+		Time:	12.11.2025 06:23:45 until 15.11.2025 19:58:52
+		Duration:	3.13:35:07
+		Location:	53.32307 -6.22670
+
+	SAL2
+		Images:	1829
+		Time:	12.11.2025 08:30:02 until 15.11.2025 20:01:25
+		Duration:	3.11:31:23
+		Location:	53.32307 -6.22670
+
+	CMS2
+		Images:	9856
+		Time:	15.11.2025 13:58:18 until 15.11.2025 19:54:47
+		Duration:	05:56:29
+		Location:	53.32307 -6.22670
+
+(5) - ROWING
+	LOT1
+		Images:	5685
+		Time:	14.11.2025 07:38:45 until 15.11.2025 13:53:33
+		Duration:	1.06:14:48
+		Location:	53.32307 -6.22670
+
+	MKH1
+		Images:	2121
+		Time:	12.11.2025 07:10:21 until 15.11.2025 14:02:56
+		Duration:	3.06:52:35
+		Location:	53.32307 -6.22670
+
+	JUW2
+		Images:	4957
+		Time:	12.11.2025 07:09:20 until 16.11.2025 07:01:17
+		Duration:	3.23:51:57
+		Location:	53.32307 -6.22670
+
+	DP2
+		Images:	5749
+		Time:	15.11.2025 09:19:26 until 15.11.2025 18:02:22
+		Duration:	08:42:56
+		Location:	53.32307 -6.22670
+
+	DAMU2
+		Images:	1825
+		Time:	15.11.2025 14:04:51 until 16.11.2025 08:49:32
+		Duration:	18:44:41
+		Location:	53.32307 -6.22670
+
+	SHP2
+		Images:	3352
+		Time:	12.11.2025 06:23:01 until 15.11.2025 20:37:33
+		Duration:	3.14:14:32
+		Location:	53.32307 -6.22670
+
+(6) - FARMERS CARRY
+	LOT1LS1
+		Images:	2781
+		Time:	15.11.2025 06:14:18 until 15.11.2025 20:27:13
+		Duration:	14:12:55
+		Location:	53.32307 -6.22670
+
+	DP1LS1
+		Images:	7138
+		Time:	15.11.2025 06:06:00 until 15.11.2025 20:27:46
+		Duration:	14:21:46
+		Location:	53.32307 -6.22670
+
+(7) - SANDBAGS
+	APDA1
+		Images:	5883
+		Time:	12.11.2025 06:19:28 until 15.11.2025 14:00:16
+		Duration:	3.07:40:48
+		Location:	53.32307 -6.22670
+
+	MALV1
+		Images:	9857
+		Time:	14.11.2025 06:34:08 until 15.11.2025 14:08:35
+		Duration:	1.07:34:27
+		Location:	53.32307 -6.22670
+
+	JUW3
+		Images:	3805
+		Time:	15.11.2025 09:55:54 until 15.11.2025 18:38:01
+		Duration:	08:42:07
+		Location:	53.32307 -6.22670
+
+	DP3
+		Images:	4044
+		Time:	15.11.2025 09:57:52 until 15.11.2025 18:39:39
+		Duration:	08:41:47
+		Location:	53.32307 -6.22670
+
+	OHAL2
+		Images:	6199
+		Time:	15.11.2025 14:14:54 until 15.11.2025 21:10:37
+		Duration:	06:55:43
+		Location:	53.32307 -6.22670
+
+	WIN2
+		Images:	4200
+		Time:	15.11.2025 14:00:49 until 15.11.2025 21:00:00
+		Duration:	06:59:11
+		Location:	53.32307 -6.22670
+
+(8) - WALL BALLS
+	YCAN1
+		Images:	9382
+		Time:	13.11.2025 06:31:12 until 16.11.2025 06:34:20
+		Duration:	3.00:03:08
+		Location:	53.32307 -6.22670
+
+	DAWH1
+		Images:	4756
+		Time:	13.11.2025 06:53:42 until 15.11.2025 13:53:19
+		Duration:	2.06:59:37
+		Location:	53.32307 -6.22670
+
+	DP4
+		Images:	3773
+		Time:	15.11.2025 10:39:22 until 15.11.2025 19:18:32
+		Duration:	08:39:10
+		Location:	53.32307 -6.22670
+
+	JOEM2
+		Images:	21035
+		Time:	12.11.2025 06:53:32 until 15.11.2025 21:22:33
+		Duration:	3.14:29:01
+		Location:	53.32307 -6.22670
+
+	KYY2
+		Images:	7295
+		Time:	15.11.2025 14:06:13 until 15.11.2025 21:22:17
+		Duration:	07:16:04
+		Location:	53.32307 -6.22670
+
+	CUP3
+		Images:	581
+		Time:	15.11.2025 07:37:38 until 15.11.2025 14:04:40
+		Duration:	06:27:02
+		Location:	53.32307 -6.22670
+
+(9) - WALLBALLS
+	JUW4
+		Images:	4683
+		Time:	15.11.2025 10:39:43 until 15.11.2025 19:17:33
+		Duration:	08:37:50
+		Location:	53.32307 -6.22670
+
+(10) - Finish
+	JOEM1
+		Images:	2639
+		Time:	14.11.2025 06:26:46 until 15.11.2025 09:28:56
+		Duration:	1.03:02:10
+		Location:	53.32307 -6.22670
+
+	CUP1
+		Images:	2404
+		Time:	14.11.2025 07:48:48 until 16.11.2025 07:47:32
+		Duration:	1.23:58:44
+		Location:	53.32307 -6.22670
+
+	DAWH2
+		Images:	4097
+		Time:	12.11.2025 06:26:14 until 15.11.2025 21:35:27
+		Duration:	3.15:09:13
+		Location:	53.32307 -6.22670
+
+	JUW1LS1
+		Images:	7873
+		Time:	15.11.2025 07:05:50 until 15.11.2025 20:25:59
+		Duration:	13:20:09
+		Location:	53.32307 -6.22670
+
+	JUW1LS2
+		Images:	2565
+		Time:	15.11.2025 07:05:55 until 15.11.2025 20:22:13
+		Duration:	13:16:18
+		Location:	53.32307 -6.22670
+
+(11) - HERO
+	KYY1
+		Images:	1758
+		Time:	15.11.2025 07:17:35 until 15.11.2025 14:01:02
+		Duration:	06:43:27
+		Location:	53.32307 -6.22670
+
+	YCAN2
+		Images:	3432
+		Time:	14.11.2025 06:42:34 until 15.11.2025 21:39:26
+		Duration:	1.14:56:52
+		Location:	53.32307 -6.22670
+

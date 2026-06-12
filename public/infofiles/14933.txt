@@ -1,0 +1,298 @@
+EventId: 14933
+Spots: 46
+Total Images: 61944
+Time:	16.07.2025 07:27:40 to 20.07.2025 04:33:13
+Duration: 3.21:05:33
+
+(1) - E250 Start
+	ALEP1
+		Images:	133
+		Time:	16.07.2025 07:27:40 until 16.07.2025 09:33:49
+		Duration:	02:06:09
+		Location:	46.62401 8.03429
+
+(2) - 2.0 km E250, Grindelwald
+	COR1
+		Images:	357
+		Time:	16.07.2025 08:02:13 until 16.07.2025 08:22:41
+		Duration:	00:20:28
+		Location:	46.61421 8.01974
+
+	COR1LS2
+		Images:	124
+		Time:	16.07.2025 07:49:10 until 16.07.2025 08:20:06
+		Duration:	00:30:56
+		Location:	46.61421 8.01974
+
+	COR1LS1
+		Images:	113
+		Time:	16.07.2025 08:09:15 until 16.07.2025 08:20:09
+		Duration:	00:10:54
+		Location:	46.61421 8.01974
+
+(3) - 10.0 km E250 Eiger Express
+	COR2
+		Images:	723
+		Time:	16.07.2025 09:45:55 until 16.07.2025 11:20:32
+		Duration:	01:34:37
+		Location:	46.57646 7.97775
+
+	COR2LS2
+		Images:	251
+		Time:	16.07.2025 09:34:09 until 16.07.2025 10:43:18
+		Duration:	01:09:09
+		Location:	46.57646 7.97775
+
+	COR2LS1
+		Images:	245
+		Time:	16.07.2025 09:42:47 until 16.07.2025 10:43:20
+		Duration:	01:00:33
+		Location:	46.57646 7.97775
+
+(4) - 12.0 km E250, Eiger
+	ALEP2
+		Images:	511
+		Time:	16.07.2025 09:34:27 until 16.07.2025 12:05:29
+		Duration:	02:31:02
+		Location:	46.57227 7.96500
+
+	ALEP2LS1
+		Images:	195
+		Time:	16.07.2025 09:41:03 until 16.07.2025 11:10:50
+		Duration:	01:29:47
+		Location:	46.57227 7.96500
+
+	ALEP2LS2
+		Images:	174
+		Time:	16.07.2025 09:42:10 until 16.07.2025 11:10:49
+		Duration:	01:28:39
+		Location:	46.57227 7.96500
+
+(5) - 97.0 km E250, Rhone River
+	ALEP3
+		Images:	398
+		Time:	17.07.2025 10:49:39 until 17.07.2025 17:25:58
+		Duration:	06:36:19
+		Location:	46.30710 7.73552
+
+	ALEP3LS1
+		Images:	183
+		Time:	17.07.2025 11:07:36 until 17.07.2025 17:28:22
+		Duration:	06:20:46
+		Location:	46.30710 7.73552
+
+	ALEP3LS2
+		Images:	194
+		Time:	17.07.2025 10:49:40 until 17.07.2025 17:28:19
+		Duration:	06:38:39
+		Location:	46.30710 7.73552
+
+(6) - 132.0 km E250, Belalp
+	COR3
+		Images:	195
+		Time:	17.07.2025 14:46:12 until 17.07.2025 19:04:18
+		Duration:	04:18:06
+		Location:	46.36424 7.96249
+
+	COR3LS2
+		Images:	82
+		Time:	17.07.2025 15:07:53 until 17.07.2025 18:21:18
+		Duration:	03:13:25
+		Location:	46.36424 7.96249
+
+	COR3LS1
+		Images:	86
+		Time:	17.07.2025 15:07:14 until 17.07.2025 18:21:19
+		Duration:	03:14:05
+		Location:	46.36424 7.96249
+
+(7) - E51 Start
+	PINO1
+		Images:	274
+		Time:	19.07.2025 04:41:47 until 19.07.2025 07:45:55
+		Duration:	03:04:08
+		Location:	46.62401 8.03429
+
+(8) - E16 Start
+	PINO3
+		Images:	103
+		Time:	19.07.2025 08:58:34 until 19.07.2025 09:30:39
+		Duration:	00:32:05
+		Location:	46.62401 8.03429
+
+(9) - E51 / E16 Start
+	CVG1
+		Images:	221
+		Time:	19.07.2025 04:33:45 until 19.07.2025 09:00:36
+		Duration:	04:26:51
+		Location:	46.62401 8.03429
+
+(10) - 2.5km/E51
+	FMU1
+		Images:	2716
+		Time:	19.07.2025 07:26:05 until 19.07.2025 10:33:34
+		Duration:	03:07:29
+		Location:	46.62802 8.06140
+
+(11) - 8km/E101/E51, Grosse Scheidegg
+	LLM1
+		Images:	5300
+		Time:	19.07.2025 04:58:24 until 19.07.2025 10:04:09
+		Duration:	05:05:45
+		Location:	46.65342 8.09663
+
+(12) - 10km/E101/E51, Grosse Scheidegg
+	RLLA1
+		Images:	3631
+		Time:	19.07.2025 05:09:27 until 19.07.2025 10:30:27
+		Duration:	05:21:00
+		Location:	46.66617 8.09333
+
+(13) - 17.5km/E101, Bort
+	COR4
+		Images:	1483
+		Time:	19.07.2025 05:17:01 until 19.07.2025 07:42:39
+		Duration:	02:25:38
+		Location:	46.64742 8.05040
+
+	COR4LS2
+		Images:	608
+		Time:	19.07.2025 05:38:04 until 19.07.2025 09:44:35
+		Duration:	04:06:31
+		Location:	46.64742 8.05040
+
+	COR4LS1
+		Images:	610
+		Time:	19.07.2025 05:34:57 until 19.07.2025 09:44:36
+		Duration:	04:09:39
+		Location:	46.64742 8.05040
+
+(14) - 26.5km/E101, 17.5km/E51, Bachalpsee
+	ALEP4
+		Images:	3502
+		Time:	19.07.2025 05:26:37 until 19.07.2025 12:01:14
+		Duration:	06:34:37
+		Location:	46.66775 8.02277
+
+	ALEP4LS2
+		Images:	782
+		Time:	19.07.2025 06:20:51 until 19.07.2025 12:09:29
+		Duration:	05:48:38
+		Location:	46.66775 8.02277
+
+	ALEP4LS1
+		Images:	744
+		Time:	19.07.2025 06:23:23 until 19.07.2025 12:09:34
+		Duration:	05:46:11
+		Location:	46.66775 8.02277
+
+(15) - 9.5km/E16, Bort
+	COR5
+		Images:	2214
+		Time:	19.07.2025 09:46:26 until 19.07.2025 12:09:24
+		Duration:	02:22:58
+		Location:	46.64742 8.05040
+
+	COR5LS2
+		Images:	916
+		Time:	19.07.2025 09:46:22 until 19.07.2025 11:57:07
+		Duration:	02:10:45
+		Location:	46.64742 8.05040
+
+	COR5LS1
+		Images:	916
+		Time:	19.07.2025 09:46:23 until 19.07.2025 11:57:08
+		Duration:	02:10:45
+		Location:	46.64742 8.05040
+
+(16) - 50km/E101, 18km/E35 Kleine Scheidegg
+	UEC1
+		Images:	2986
+		Time:	18.07.2025 23:14:03 until 19.07.2025 16:09:42
+		Duration:	16:55:39
+		Location:	46.58967 7.96228
+
+	UEC1LS1
+		Images:	1296
+		Time:	17.07.2025 20:01:01 until 19.07.2025 13:28:42
+		Duration:	1.17:27:41
+		Location:	46.58967 7.96228
+
+	UEC1LS2
+		Images:	1386
+		Time:	18.07.2025 23:15:14 until 19.07.2025 16:05:55
+		Duration:	16:50:41
+		Location:	46.58967 7.96228
+
+(17) - 50.5km/E101, 18.5km/E35 Kleine Scheidegg
+	EP1
+		Images:	4999
+		Time:	18.07.2025 23:26:59 until 19.07.2025 16:42:16
+		Duration:	17:15:17
+		Location:	46.58824 7.96118
+
+	EP1LS2
+		Images:	1909
+		Time:	19.07.2025 09:43:10 until 19.07.2025 15:16:58
+		Duration:	05:33:48
+		Location:	46.58824 7.96118
+
+	EP1LS1
+		Images:	1526
+		Time:	19.07.2025 09:01:26 until 19.07.2025 17:20:38
+		Duration:	08:19:12
+		Location:	46.58824 7.96118
+
+(18) - 52km/E101, 20km/E35 Kleine Scheidegg Downhill
+	STHE1
+		Images:	3667
+		Time:	19.07.2025 08:47:44 until 19.07.2025 16:42:28
+		Duration:	07:54:44
+		Location:	46.58559 7.96839
+
+(19) - 57km/E101, 25km/E35, Brandegg
+	FMU2
+		Images:	3095
+		Time:	19.07.2025 10:36:16 until 19.07.2025 18:02:16
+		Duration:	07:26:00
+		Location:	46.60850 8.00576
+
+(20) - Finish
+	RLLA2
+		Images:	2923
+		Time:	19.07.2025 12:34:01 until 19.07.2025 18:12:41
+		Duration:	05:38:40
+		Location:	46.62401 8.03429
+
+	PINO2
+		Images:	3630
+		Time:	19.07.2025 10:07:01 until 19.07.2025 18:14:39
+		Duration:	08:07:38
+		Location:	46.62401 8.03429
+
+	CVG2
+		Images:	2653
+		Time:	19.07.2025 08:20:59 until 19.07.2025 16:28:37
+		Duration:	08:07:38
+		Location:	46.62401 8.03429
+
+	LLM2
+		Images:	3139
+		Time:	19.07.2025 12:28:09 until 19.07.2025 18:54:34
+		Duration:	06:26:25
+		Location:	46.62401 8.03429
+
+	ALEP5
+		Images:	739
+		Time:	19.07.2025 18:55:52 until 20.07.2025 04:33:13
+		Duration:	09:37:21
+		Location:	46.62401 8.03429
+
+(21) - Impressions / Pano
+	COR5DRONE1
+		Images:	12
+		Time:	19.07.2025 09:14:29 until 19.07.2025 10:56:42
+		Duration:	01:42:13
+		Location:	46.62401 8.03429
+
+	PANO1

@@ -1,0 +1,231 @@
+EventId: 13960
+Spots: 35
+Total Images: 104012
+Time:	25.05.2025 07:30:41 to 25.05.2025 17:34:34
+Duration: 10:03:53
+
+(1) - Swim - Start
+	BECK1
+		Images:	4000
+		Time:	25.05.2025 07:54:37 until 25.05.2025 11:27:27
+		Duration:	03:32:50
+		Location:	49.17045 8.61676
+
+	BECK1LS1
+		Images:	1821
+		Time:	25.05.2025 07:48:48 until 25.05.2025 10:05:33
+		Duration:	02:16:45
+		Location:	49.17045 8.61676
+
+	BECK1LS2
+		Images:	1975
+		Time:	25.05.2025 07:41:16 until 25.05.2025 10:05:52
+		Duration:	02:24:36
+		Location:	49.17045 8.61676
+
+	ISA1
+		Images:	682
+		Time:	25.05.2025 07:39:53 until 25.05.2025 09:01:01
+		Duration:	01:21:08
+		Location:	49.17006 8.61748
+
+	JOMA3
+		Images:	564
+		Time:	25.05.2025 13:08:22 until 25.05.2025 13:28:12
+		Duration:	00:19:50
+		Location:	49.17003 8.61752
+
+(2) - Finish
+	BECK2
+		Images:	9222
+		Time:	25.05.2025 11:45:16 until 25.05.2025 17:34:34
+		Duration:	05:49:18
+		Location:	49.21532 8.65884
+
+	BECK2LS1
+		Images:	3300
+		Time:	25.05.2025 10:59:12 until 25.05.2025 15:42:23
+		Duration:	04:43:11
+		Location:	49.21532 8.65884
+
+	BECK2LS2
+		Images:	3050
+		Time:	25.05.2025 11:08:22 until 25.05.2025 17:16:00
+		Duration:	06:07:38
+		Location:	49.21532 8.65884
+
+(3) - Bike - 10.5 km
+	DABI1
+		Images:	3828
+		Time:	25.05.2025 07:31:07 until 25.05.2025 10:23:48
+		Duration:	02:52:41
+		Location:	49.20796 8.66078
+
+(4) - Run - 4.7 km
+	DABI2LS1
+		Images:	748
+		Time:	25.05.2025 14:40:27 until 25.05.2025 17:09:18
+		Duration:	02:28:51
+		Location:	49.20936 8.65428
+
+	DABI2
+		Images:	7284
+		Time:	25.05.2025 11:01:41 until 25.05.2025 17:01:39
+		Duration:	05:59:58
+		Location:	49.20936 8.65428
+
+	DABI2LS2
+		Images:	4439
+		Time:	25.05.2025 11:37:56 until 25.05.2025 14:39:02
+		Duration:	03:01:06
+		Location:	49.20936 8.65428
+
+(5) - Bike - 18.3 km
+	HS1
+		Images:	6924
+		Time:	25.05.2025 08:24:47 until 25.05.2025 16:23:39
+		Duration:	07:58:52
+		Location:	49.20215 8.75992
+
+	HS1LS2
+		Images:	5809
+		Time:	25.05.2025 07:53:47 until 25.05.2025 15:55:52
+		Duration:	08:02:05
+		Location:	49.20215 8.75992
+
+	HS1LS1
+		Images:	5755
+		Time:	25.05.2025 07:55:29 until 25.05.2025 12:05:13
+		Duration:	04:09:44
+		Location:	49.20215 8.75992
+
+(6) - Bike - Transition zone
+	ISA2
+		Images:	46
+		Time:	25.05.2025 09:15:05 until 25.05.2025 09:42:50
+		Duration:	00:27:45
+		Location:	49.21237 8.65632
+
+(7) - Run - 4.0 km
+	ISA3
+		Images:	3127
+		Time:	25.05.2025 11:11:53 until 25.05.2025 17:21:57
+		Duration:	06:10:04
+		Location:	49.21722 8.65820
+
+	ISA3LS1
+		Images:	921
+		Time:	25.05.2025 11:00:13 until 25.05.2025 14:14:49
+		Duration:	03:14:36
+		Location:	49.21722 8.65820
+
+(8) - Swim - Transition zone
+	JOMA1
+		Images:	1848
+		Time:	25.05.2025 08:11:12 until 25.05.2025 10:01:16
+		Duration:	01:50:04
+		Location:	49.17060 8.61729
+
+	JOMA1LS1
+		Images:	2103
+		Time:	25.05.2025 08:01:43 until 25.05.2025 10:06:36
+		Duration:	02:04:53
+		Location:	49.17060 8.61729
+
+(9) - Run - 5.5 km
+	JOMA2
+		Images:	732
+		Time:	25.05.2025 11:07:13 until 25.05.2025 12:22:33
+		Duration:	01:15:20
+		Location:	49.20362 8.65481
+
+	JOMA2LS1
+		Images:	769
+		Time:	25.05.2025 10:59:33 until 25.05.2025 12:25:37
+		Duration:	01:26:04
+		Location:	49.20362 8.65481
+
+(10) - Run - 1.4 km
+	JOMA4
+		Images:	1140
+		Time:	25.05.2025 15:05:30 until 25.05.2025 17:09:12
+		Duration:	02:03:42
+		Location:	49.21888 8.66293
+
+	JOMA4LS2
+		Images:	1514
+		Time:	25.05.2025 14:43:50 until 25.05.2025 17:21:49
+		Duration:	02:37:59
+		Location:	49.21888 8.66293
+
+	JOMA4LS1
+		Images:	1656
+		Time:	25.05.2025 14:56:54 until 25.05.2025 17:17:35
+		Duration:	02:20:41
+		Location:	49.21888 8.66293
+
+(11) - Bike - 14.2 km
+	LBO1
+		Images:	5115
+		Time:	25.05.2025 07:30:41 until 25.05.2025 15:07:58
+		Duration:	07:37:17
+		Location:	49.21109 8.70606
+
+	LBO2
+		Images:	3247
+		Time:	25.05.2025 10:39:54 until 25.05.2025 15:40:37
+		Duration:	05:00:43
+		Location:	49.21185 8.70235
+
+(12) - Bike - 36.8 km
+	TE1LS2
+		Images:	7267
+		Time:	25.05.2025 08:10:09 until 25.05.2025 11:37:08
+		Duration:	03:26:59
+		Location:	49.10367 8.74834
+
+	TE1LS1
+		Images:	3310
+		Time:	25.05.2025 08:34:39 until 25.05.2025 11:46:31
+		Duration:	03:11:52
+		Location:	49.10367 8.74834
+
+	TE4
+		Images:	7543
+		Time:	25.05.2025 08:44:32 until 25.05.2025 13:53:50
+		Duration:	05:09:18
+		Location:	49.10367 8.74834
+
+(13) - Bike - 58.3 km
+	TE2
+		Images:	114
+		Time:	25.05.2025 12:14:00 until 25.05.2025 12:51:38
+		Duration:	00:37:38
+		Location:	49.10734 8.78426
+
+(14) - Bike - 18.0 km
+	TE3
+		Images:	1868
+		Time:	25.05.2025 13:53:10 until 25.05.2025 15:36:00
+		Duration:	01:42:50
+		Location:	49.20313 8.75686
+
+	TE3LS2
+		Images:	1039
+		Time:	25.05.2025 13:23:54 until 25.05.2025 15:16:02
+		Duration:	01:52:08
+		Location:	49.20313 8.75686
+
+	TE3LS1
+		Images:	1230
+		Time:	25.05.2025 13:21:56 until 25.05.2025 15:37:16
+		Duration:	02:15:20
+		Location:	49.20313 8.75686
+
+(15) - Swim - Impressions / Pano
+	PANO1
+		Images:	22
+		Time:	25.05.2025 12:19:46 until 25.05.2025 13:30:21
+		Duration:	01:10:35
+		Location:	NULL NULL
+

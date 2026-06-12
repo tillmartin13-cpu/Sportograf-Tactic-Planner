@@ -1,0 +1,114 @@
+EventId: 14363
+Spots: 16
+Total Images: 156702
+Time:	31.12.2011 18:00:00 to 05.10.2025 07:55:16
+Duration: 5026.13:55:16
+
+(1) - Obstacle 4 Monkey Bars
+	AVE1
+		Images:	10278
+		Time:	04.10.2025 06:34:44 until 05.10.2025 06:45:44
+		Duration:	1.00:11:00
+		Location:	36.18751 -86.15390
+
+	SAMT1
+		Images:	4116
+		Time:	03.10.2025 20:58:39 until 04.10.2025 15:23:55
+		Duration:	18:25:16
+		Location:	36.18751 -86.15390
+
+(2) - Obstacle 6 Twister
+	EMBA1
+		Images:	4917
+		Time:	04.10.2025 06:59:20 until 05.10.2025 07:49:30
+		Duration:	1.00:50:10
+		Location:	36.19429 -86.15519
+
+	JMCK1
+		Images:	6118
+		Time:	04.10.2025 07:18:23 until 05.10.2025 06:41:47
+		Duration:	23:23:24
+		Location:	36.19430 -86.15518
+
+(3) - Obstacle 14 Hay Wall #2
+	ROOT1
+		Images:	7527
+		Time:	04.10.2025 06:55:42 until 05.10.2025 07:22:18
+		Duration:	1.00:26:36
+		Location:	36.19044 -86.15560
+
+(4) - Obstacle 15 Barbed Wire Crawl
+	PEC1
+		Images:	48229
+		Time:	04.10.2025 06:43:38 until 05.10.2025 07:28:22
+		Duration:	1.00:44:44
+		Location:	36.18935 -86.15414
+
+(5) - Obstacle 17 Bucket Carry
+	CHIT1
+		Images:	10973
+		Time:	04.10.2025 08:32:21 until 04.10.2025 16:51:10
+		Duration:	08:18:49
+		Location:	36.19038 -86.15806
+
+(6) - Obstacle 18 Multi-Rig
+	MSK1
+		Images:	14796
+		Time:	04.10.2025 07:24:35 until 05.10.2025 07:55:16
+		Duration:	1.00:30:41
+		Location:	36.18764 -86.15854
+
+	RUHO1
+		Images:	5735
+		Time:	04.10.2025 06:42:33 until 05.10.2025 07:01:38
+		Duration:	1.00:19:05
+		Location:	36.18764 -86.15854
+
+(7) - Obstacle 20 Atlas
+	NADA1
+		Images:	9987
+		Time:	03.10.2025 22:33:05 until 04.10.2025 16:10:01
+		Duration:	17:36:56
+		Location:	36.18652 -86.15781
+
+	MCKR1
+		Images:	4772
+		Time:	31.12.2011 18:00:00 until 04.10.2025 16:10:09
+		Duration:	5025.22:10:09
+		Location:	36.18652 -86.15781
+
+(8) - Obstacle 22 Sandbag Carry
+	ISAK1
+		Images:	12750
+		Time:	04.10.2025 06:38:09 until 04.10.2025 16:45:48
+		Duration:	10:07:39
+		Location:	36.18643 -86.15222
+
+(9) - Obstacle 28 Fire Jump
+	DAKK1
+		Images:	12411
+		Time:	03.10.2025 22:22:00 until 04.10.2025 16:12:11
+		Duration:	17:50:11
+		Location:	36.19027 -86.15361
+
+(10) - Herotent
+	MABI1
+		Images:	3864
+		Time:	04.10.2025 06:59:18 until 04.10.2025 17:15:26
+		Duration:	10:16:08
+		Location:	36.19005 -86.15375
+
+(11) - Festival Area
+	JOD1
+		Images:	210
+		Time:	03.10.2025 18:31:55 until 05.10.2025 07:49:24
+		Duration:	1.13:17:29
+		Location:	36.19005 -86.15375
+
+(12) - Drone
+	JOD1DRONE1
+		Images:	19
+		Time:	04.10.2025 07:21:29 until 05.10.2025 06:57:03
+		Duration:	23:35:34
+		Location:	36.19005 -86.15375
+

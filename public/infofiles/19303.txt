@@ -1,0 +1,21 @@
+EventId: 19303
+Spots: 3
+Total Images: 924
+Time:	22.11.2025 13:26:24 to 22.11.2025 15:57:59
+Duration: 02:31:35
+
+(1) - Impressions / Pano
+	PANO1
+(2) - none
+	ZZZ1
+		Images:	108
+		Time:	22.11.2025 13:36:16 until 22.11.2025 15:57:59
+		Duration:	02:21:43
+		Location:	NULL NULL
+
+	ZZZ2
+		Images:	816
+		Time:	22.11.2025 13:26:24 until 22.11.2025 15:57:59
+		Duration:	02:31:35
+		Location:	NULL NULL
+

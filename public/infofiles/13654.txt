@@ -1,0 +1,128 @@
+EventId: 13654
+Spots: 18
+Total Images: 94278
+Time:	25.04.2025 06:23:03 to 26.04.2025 21:36:33
+Duration: 1.15:13:30
+
+(1) - Start
+	BK3DRONE1
+		Images:	28
+		Time:	26.04.2025 07:37:09 until 26.04.2025 07:44:05
+		Duration:	00:06:56
+		Location:	54.14431 10.96225
+
+(2) - Start Grömitz
+	BK1
+		Images:	2346
+		Time:	25.04.2025 06:23:03 until 26.04.2025 09:30:11
+		Duration:	1.03:07:08
+		Location:	54.14431 10.96225
+
+	FES1
+		Images:	266
+		Time:	26.04.2025 07:53:08 until 26.04.2025 08:17:22
+		Duration:	00:24:14
+		Location:	54.14431 10.96225
+
+	DWE1
+		Images:	1335
+		Time:	26.04.2025 07:06:29 until 26.04.2025 09:29:53
+		Duration:	02:23:24
+		Location:	54.14431 10.96225
+
+(3) - Start Scharbeutz
+	SZ1
+		Images:	1329
+		Time:	26.04.2025 07:30:05 until 26.04.2025 09:16:27
+		Duration:	01:46:22
+		Location:	54.02689 10.75588
+
+(4) - Pelzerhaken
+	BK2
+		Images:	3760
+		Time:	26.04.2025 11:09:12 until 26.04.2025 13:25:13
+		Duration:	02:16:01
+		Location:	54.08977 10.87864
+
+	DWE2
+		Images:	2902
+		Time:	26.04.2025 11:15:24 until 26.04.2025 14:00:02
+		Duration:	02:44:38
+		Location:	54.08977 10.87864
+
+(5) - Neustadt Rundhafen
+	JKOR1
+		Images:	8743
+		Time:	25.04.2025 17:52:49 until 26.04.2025 15:33:44
+		Duration:	21:40:55
+		Location:	54.09471 10.81573
+
+(6) - Promenade Haffkrug
+	MNO1
+		Images:	18003
+		Time:	26.04.2025 07:45:31 until 26.04.2025 19:51:51
+		Duration:	12:06:20
+		Location:	54.04498 10.75005
+
+(7) - Weiße Brücke
+	PDD1
+		Images:	5160
+		Time:	26.04.2025 06:33:04 until 26.04.2025 21:09:20
+		Duration:	14:36:16
+		Location:	54.02036 10.76170
+
+(8) - Pohnsdorfer Strasse
+	SZ2
+		Images:	4661
+		Time:	26.04.2025 10:23:27 until 26.04.2025 14:29:23
+		Duration:	04:05:56
+		Location:	54.08861 10.77963
+
+(9) - Kloster Cismar
+	PLA1
+		Images:	8758
+		Time:	26.04.2025 08:37:31 until 26.04.2025 21:24:47
+		Duration:	12:47:16
+		Location:	54.18998 10.98645
+
+(10) - Steilküste Grömitz
+	FES2
+		Images:	17998
+		Time:	26.04.2025 08:17:24 until 26.04.2025 19:06:19
+		Duration:	10:48:55
+		Location:	54.13219 10.94116
+
+(11) - Finish Scharbeutz
+	SZ3
+		Images:	8003
+		Time:	26.04.2025 14:39:44 until 26.04.2025 21:19:06
+		Duration:	06:39:22
+		Location:	54.02689 10.75588
+
+(12) - Finish Grömitz
+	BK3
+		Images:	6936
+		Time:	26.04.2025 13:25:14 until 26.04.2025 20:43:31
+		Duration:	07:18:17
+		Location:	54.14431 10.96225
+
+	FES3
+		Images:	537
+		Time:	26.04.2025 19:06:19 until 26.04.2025 20:44:57
+		Duration:	01:38:38
+		Location:	54.14431 10.96225
+
+(13) - Herotent Scharbeutz
+	JKOR2
+		Images:	1622
+		Time:	26.04.2025 16:22:14 until 26.04.2025 21:36:33
+		Duration:	05:14:19
+		Location:	54.02689 10.75588
+
+(14) - Herotent Grömitz
+	DWE3
+		Images:	1891
+		Time:	26.04.2025 14:54:36 until 26.04.2025 21:24:39
+		Duration:	06:30:03
+		Location:	54.14431 10.96225
+

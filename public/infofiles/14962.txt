@@ -1,0 +1,96 @@
+EventId: 14962
+Spots: 13
+Total Images: 74921
+Time:	18.09.2025 16:04:17 to 21.09.2025 16:27:57
+Duration: 3.00:23:40
+
+(1) - 0.7 km
+	CCZ1
+		Images:	587
+		Time:	20.09.2025 09:30:31 until 21.09.2025 10:15:17
+		Duration:	1.00:44:46
+		Location:	40.26338 -87.26677
+
+(2) - Obstacle 2 HURDLES
+	DANM1
+		Images:	9194
+		Time:	21.09.2025 07:33:38 until 21.09.2025 13:31:29
+		Duration:	05:57:51
+		Location:	40.26338 -87.26677
+
+(3) - Obstacle 3 MONKEY BARS
+	ISAK1
+		Images:	7907
+		Time:	21.09.2025 07:14:10 until 21.09.2025 13:33:34
+		Duration:	06:19:24
+		Location:	40.26293 -87.26493
+
+(4) - Obstacle 7 STAIRWAY TO SPARTA
+	LIT1
+		Images:	3688
+		Time:	20.09.2025 09:44:46 until 21.09.2025 12:36:31
+		Duration:	1.02:51:45
+		Location:	40.26390 -87.27776
+
+(5) - Obstacle 24 CHAIN CARRY
+	IZZY1
+		Images:	10799
+		Time:	21.09.2025 07:31:27 until 21.09.2025 16:13:33
+		Duration:	08:42:06
+		Location:	40.26488 -87.27109
+
+(6) - Obstacle 0 HERO TENT
+	JAYP1
+		Images:	2857
+		Time:	20.09.2025 07:45:49 until 21.09.2025 16:27:57
+		Duration:	1.08:42:08
+		Location:	40.26555 -87.26778
+
+(7) - Obstacle 4 INVERTED WALL
+	KAH1
+		Images:	6048
+		Time:	20.09.2025 08:27:27 until 21.09.2025 13:46:15
+		Duration:	1.05:18:48
+		Location:	40.26244 -87.26773
+
+(8) - Obstacle 8 7FT WALL
+	MCKR1
+		Images:	3722
+		Time:	20.09.2025 07:52:36 until 21.09.2025 12:36:34
+		Duration:	1.04:43:58
+		Location:	40.26581 -87.27658
+
+(9) - Obstacle 19 SLIP WALL
+	NADA1
+		Images:	8353
+		Time:	21.09.2025 06:39:08 until 21.09.2025 14:50:51
+		Duration:	08:11:43
+		Location:	40.27110 -87.26592
+
+(10) - Obstacle 23 A-FRAME CARGO
+	TAPO1
+		Images:	5983
+		Time:	21.09.2025 07:46:33 until 21.09.2025 16:08:54
+		Duration:	08:22:21
+		Location:	-40.26585 -87.27083
+
+(11) - Obstacle 28 MULTI-RIG
+	PRR1
+		Images:	4532
+		Time:	20.09.2025 11:57:14 until 21.09.2025 15:24:49
+		Duration:	1.03:27:35
+		Location:	40.26523 -87.26796
+
+	JBB1
+		Images:	11106
+		Time:	20.09.2025 07:36:13 until 21.09.2025 16:24:41
+		Duration:	1.08:48:28
+		Location:	40.26523 -87.26796
+
+(12) - Obstacle 1
+	PRR1DRONE1
+		Images:	123
+		Time:	18.09.2025 16:04:17 until 19.09.2025 20:10:12
+		Duration:	1.04:05:55
+		Location:	40.26555 -87.26778
+

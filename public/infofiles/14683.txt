@@ -1,0 +1,89 @@
+EventId: 14683
+Spots: 12
+Total Images: 61836
+Time:	01.01.0001 23:00:00 to 06.04.2025 13:40:38
+Duration: 739345.14:40:38
+
+(1) - Start
+	CCZ1
+		Images:	105
+		Time:	05.04.2025 11:18:19 until 05.04.2025 11:38:10
+		Duration:	00:19:51
+		Location:	37.84798 -120.84645
+
+(2) - Obstacle 11 TYROLEAN TRAVERSE
+	DEST1
+		Images:	4135
+		Time:	04.04.2025 22:18:42 until 05.04.2025 17:00:52
+		Duration:	18:42:10
+		Location:	37.83748 -120.85043
+
+(3) - Obstacle 14 INVERTED WALL
+	HOG1
+		Images:	8131
+		Time:	05.04.2025 07:31:10 until 06.04.2025 07:40:27
+		Duration:	1.00:09:17
+		Location:	37.84184 -120.85250
+
+(4) - Obstacle 15 BARBED WIRE #15
+	AIPA1
+		Images:	5688
+		Time:	05.04.2025 06:40:27 until 06.04.2025 07:06:54
+		Duration:	1.00:26:27
+		Location:	37.84350 -120.85099
+
+(5) - Obstacle 18 ATLAS CARRY
+	RUMU1
+		Images:	1696
+		Time:	04.04.2025 20:23:26 until 05.04.2025 16:58:25
+		Duration:	20:34:59
+		Location:	37.84572 -120.85407
+
+(6) - Obstacle 20 SANDBAG CARRY #2
+	JWI1
+		Images:	5972
+		Time:	04.04.2025 17:27:20 until 06.04.2025 07:13:14
+		Duration:	1.13:45:54
+		Location:	37.84674 -120.85144
+
+(7) - Obstacle 28 MULTI-RIG
+	TERT1
+		Images:	6678
+		Time:	05.04.2025 08:18:53 until 05.04.2025 18:23:58
+		Duration:	10:05:05
+		Location:	37.84974 -120.84833
+
+	DDC1
+		Images:	5964
+		Time:	04.04.2025 17:16:54 until 06.04.2025 07:45:30
+		Duration:	1.14:28:36
+		Location:	37.84974 -120.84833
+
+(8) - Obstacle 32 A FRAME CARGO
+	AMON1
+		Images:	12043
+		Time:	05.04.2025 08:21:02 until 05.04.2025 18:56:51
+		Duration:	10:35:49
+		Location:	37.84779 -120.84742
+
+(9) - Obstacle 33 SLIP WALL
+	BICI1
+		Images:	6481
+		Time:	05.04.2025 08:47:48 until 05.04.2025 19:40:40
+		Duration:	10:52:52
+		Location:	37.84740 -120.84736
+
+(10) - Obstacle 33 SLIP WALL / FINISH
+	BICI1LS1
+		Images:	1457
+		Time:	01.01.0001 23:00:00 until 05.04.2025 10:51:22
+		Duration:	739344.11:51:22
+		Location:	37.84740 -120.84736
+
+(11) - Obstacle 0 HERO TENT
+	JOKY1
+		Images:	3481
+		Time:	04.04.2025 22:46:16 until 05.04.2025 20:20:36
+		Duration:	21:34:20
+		Location:	37.84729 -120.84748
+

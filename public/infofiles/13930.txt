@@ -1,0 +1,86 @@
+EventId: 13930
+Spots: 12
+Total Images: 21362
+Time:	12.04.2025 05:43:57 to 12.04.2025 16:28:08
+Duration: 10:44:11
+
+(1) - Start
+	FVE1
+		Images:	2191
+		Time:	12.04.2025 07:30:23 until 12.04.2025 10:04:53
+		Duration:	02:34:30
+		Location:	51.29081 4.49813
+
+(2) - 6,0 km
+	DAV1
+		Images:	1472
+		Time:	12.04.2025 07:37:20 until 12.04.2025 09:54:20
+		Duration:	02:17:00
+		Location:	51.31919 4.48680
+
+	DAV1LS1
+		Images:	537
+		Time:	12.04.2025 07:28:09 until 12.04.2025 09:58:10
+		Duration:	02:30:01
+		Location:	51.31919 4.48680
+
+	DAV1LS2
+		Images:	526
+		Time:	12.04.2025 07:31:40 until 12.04.2025 09:56:31
+		Duration:	02:24:51
+		Location:	51.31919 4.48680
+
+(3) - 16,0 km
+	KO1
+		Images:	948
+		Time:	12.04.2025 05:43:57 until 12.04.2025 12:15:58
+		Duration:	06:32:01
+		Location:	51.33924 4.39445
+
+(4) - 20,0 km
+	DIK1
+		Images:	2913
+		Time:	12.04.2025 07:31:11 until 12.04.2025 11:28:46
+		Duration:	03:57:35
+		Location:	51.35599 4.38599
+
+(5) - 72,0 km
+	FVE2
+		Images:	3131
+		Time:	12.04.2025 10:50:31 until 12.04.2025 15:51:04
+		Duration:	05:00:33
+		Location:	51.23876 4.52960
+
+(6) - 73,5 km
+	DAV2
+		Images:	1894
+		Time:	12.04.2025 11:09:26 until 12.04.2025 15:52:43
+		Duration:	04:43:17
+		Location:	51.23631 4.52119
+
+	DAV2LS2
+		Images:	1556
+		Time:	12.04.2025 11:00:12 until 12.04.2025 16:28:08
+		Duration:	05:27:56
+		Location:	51.23631 4.52119
+
+	DAV2LS1
+		Images:	1446
+		Time:	12.04.2025 10:45:58 until 12.04.2025 16:28:08
+		Duration:	05:42:10
+		Location:	51.23631 4.52119
+
+(7) - 74,0 km
+	KO2
+		Images:	1529
+		Time:	12.04.2025 12:15:59 until 12.04.2025 16:05:04
+		Duration:	03:49:05
+		Location:	51.23803 4.50447
+
+(8) - 74,5 km
+	DIK2
+		Images:	3219
+		Time:	12.04.2025 11:29:11 until 12.04.2025 15:57:24
+		Duration:	04:28:13
+		Location:	51.23932 4.50117
+

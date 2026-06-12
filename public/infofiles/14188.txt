@@ -1,0 +1,120 @@
+EventId: 14188
+Spots: 18
+Total Images: 144284
+Time:	25.05.2025 06:45:31 to 25.05.2025 18:22:58
+Duration: 11:37:27
+
+(1) - Start
+	HJS2
+(2) - Seiltanz
+	NBA1
+		Images:	8579
+		Time:	25.05.2025 09:43:25 until 25.05.2025 16:30:34
+		Duration:	06:47:09
+		Location:	NULL NULL
+
+(3) - Gitterbecken
+	AFR1
+		Images:	8472
+		Time:	25.05.2025 09:49:08 until 25.05.2025 16:46:21
+		Duration:	06:57:13
+		Location:	NULL NULL
+
+	WOA1
+		Images:	3131
+		Time:	25.05.2025 07:10:21 until 25.05.2025 16:47:05
+		Duration:	09:36:44
+		Location:	NULL NULL
+
+(4) - Schaumparty
+	NE1
+		Images:	5163
+		Time:	25.05.2025 10:03:58 until 25.05.2025 17:13:13
+		Duration:	07:09:15
+		Location:	NULL NULL
+
+(5) - Krabbelstrecke
+	MIGE1
+		Images:	14962
+		Time:	25.05.2025 10:06:39 until 25.05.2025 17:31:12
+		Duration:	07:24:33
+		Location:	NULL NULL
+
+	SBRO1
+		Images:	9381
+		Time:	25.05.2025 06:45:31 until 25.05.2025 17:10:58
+		Duration:	10:25:27
+		Location:	NULL NULL
+
+(6) - Kletterwand
+	VIT1
+		Images:	8280
+		Time:	25.05.2025 09:53:20 until 25.05.2025 17:34:46
+		Duration:	07:41:26
+		Location:	NULL NULL
+
+	MIB1
+		Images:	9478
+		Time:	25.05.2025 09:53:21 until 25.05.2025 17:34:44
+		Duration:	07:41:23
+		Location:	NULL NULL
+
+(7) - Pyramide
+	NKR1
+		Images:	3212
+		Time:	25.05.2025 09:31:16 until 25.05.2025 17:58:13
+		Duration:	08:26:57
+		Location:	NULL NULL
+
+	JDA1
+		Images:	8619
+		Time:	25.05.2025 09:45:20 until 25.05.2025 17:21:51
+		Duration:	07:36:31
+		Location:	NULL NULL
+
+(8) - Containerrutsche
+	ROC1
+		Images:	23388
+		Time:	25.05.2025 10:00:36 until 25.05.2025 18:02:58
+		Duration:	08:02:22
+		Location:	NULL NULL
+
+(9) - Finish
+	ROB1LS2
+		Images:	2991
+		Time:	25.05.2025 09:34:05 until 25.05.2025 18:06:30
+		Duration:	08:32:25
+		Location:	NULL NULL
+
+	ROB1LS1
+		Images:	3072
+		Time:	25.05.2025 09:40:22 until 25.05.2025 18:22:58
+		Duration:	08:42:36
+		Location:	NULL NULL
+
+	HJS1
+		Images:	9004
+		Time:	25.05.2025 09:24:46 until 25.05.2025 18:05:33
+		Duration:	08:40:47
+		Location:	NULL NULL
+
+(10) - Herotent
+	KG1
+		Images:	1588
+		Time:	25.05.2025 08:37:12 until 25.05.2025 17:35:02
+		Duration:	08:57:50
+		Location:	NULL NULL
+
+	LTH1
+		Images:	24933
+		Time:	25.05.2025 09:02:38 until 25.05.2025 18:08:00
+		Duration:	09:05:22
+		Location:	NULL NULL
+
+(11) - Impressions / Pano
+	ROB1
+		Images:	31
+		Time:	25.05.2025 10:40:37 until 25.05.2025 11:49:19
+		Duration:	01:08:42
+		Location:	NULL NULL
+

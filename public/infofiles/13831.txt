@@ -1,0 +1,106 @@
+EventId: 13831
+Spots: 16
+Total Images: 33643
+Time:	05.04.2025 17:43:24 to 06.04.2025 16:17:30
+Duration: 22:34:06
+
+(1) - 0,1 km
+	RDA1
+		Images:	783
+		Time:	06.04.2025 07:57:56 until 06.04.2025 10:12:33
+		Duration:	02:14:37
+		Location:	NULL NULL
+
+(2) - 0,5 km
+	NKR1
+		Images:	1126
+		Time:	05.04.2025 17:43:24 until 06.04.2025 10:21:08
+		Duration:	16:37:44
+		Location:	NULL NULL
+
+	JTA1
+		Images:	1989
+		Time:	06.04.2025 07:50:59 until 06.04.2025 10:20:48
+		Duration:	02:29:49
+		Location:	NULL NULL
+
+(3) - 3,0 km Uitkijktoren Mesch
+	AG1
+		Images:	6492
+		Time:	06.04.2025 08:02:41 until 06.04.2025 10:14:13
+		Duration:	02:11:32
+		Location:	NULL NULL
+
+	AG1LS2
+		Images:	683
+		Time:	06.04.2025 07:56:01 until 06.04.2025 10:04:27
+		Duration:	02:08:26
+		Location:	NULL NULL
+
+	AG1LS1
+		Images:	697
+		Time:	06.04.2025 07:59:32 until 06.04.2025 10:03:55
+		Duration:	02:04:23
+		Location:	NULL NULL
+
+(4) - 3,2 km Uitkijktoren Mesch
+	STBA1
+		Images:	1446
+		Time:	06.04.2025 08:03:16 until 06.04.2025 10:08:56
+		Duration:	02:05:40
+		Location:	NULL NULL
+
+(5) - Impressions / Pano
+	AG1DRONE1
+		Images:	34
+		Time:	06.04.2025 08:20:11 until 06.04.2025 08:28:18
+		Duration:	00:08:07
+		Location:	NULL NULL
+
+	PANO1
+(6) - 25km before finish
+	NKR2
+		Images:	4732
+		Time:	06.04.2025 11:18:30 until 06.04.2025 15:09:16
+		Duration:	03:50:46
+		Location:	NULL NULL
+
+(7) - 22km before finish
+	JTA2
+		Images:	2242
+		Time:	06.04.2025 11:01:59 until 06.04.2025 15:01:23
+		Duration:	03:59:24
+		Location:	NULL NULL
+
+	RDA2
+		Images:	1851
+		Time:	06.04.2025 10:57:36 until 06.04.2025 15:01:15
+		Duration:	04:03:39
+		Location:	NULL NULL
+
+(8) - 2km before finish - Eijsden Castle
+	STBA2
+		Images:	1801
+		Time:	06.04.2025 11:08:46 until 06.04.2025 16:14:34
+		Duration:	05:05:48
+		Location:	NULL NULL
+
+(9) - Finish
+	AG2
+		Images:	6893
+		Time:	06.04.2025 11:37:54 until 06.04.2025 16:17:30
+		Duration:	04:39:36
+		Location:	NULL NULL
+
+	AG2LS1
+		Images:	1733
+		Time:	06.04.2025 11:22:51 until 06.04.2025 15:22:57
+		Duration:	04:00:06
+		Location:	NULL NULL
+
+	AG2LS2
+		Images:	1141
+		Time:	06.04.2025 11:31:09 until 06.04.2025 15:25:39
+		Duration:	03:54:30
+		Location:	NULL NULL
+

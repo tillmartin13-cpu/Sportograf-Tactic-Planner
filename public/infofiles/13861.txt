@@ -1,0 +1,171 @@
+EventId: 13861
+Spots: 26
+Total Images: 145299
+Time:	26.04.2025 22:40:28 to 27.04.2025 15:43:36
+Duration: 17:03:08
+
+(1) - 1.5 km @ 45km und 100km
+	CKO1
+		Images:	11328
+		Time:	27.04.2025 09:25:57 until 27.04.2025 11:07:55
+		Duration:	01:41:58
+		Location:	51.51441 9.91352
+
+(2) - 4km @45km und 100km
+	STM1
+		Images:	2740
+		Time:	27.04.2025 09:44:27 until 27.04.2025 11:13:04
+		Duration:	01:28:37
+		Location:	51.49495 9.90668
+
+	STM1LS1
+		Images:	1954
+		Time:	27.04.2025 10:30:37 until 27.04.2025 11:13:13
+		Duration:	00:42:36
+		Location:	51.49495 9.90668
+
+(3) - 6,5km @45km und 100km
+	AL1
+		Images:	1367
+		Time:	27.04.2025 10:28:43 until 27.04.2025 11:18:14
+		Duration:	00:49:31
+		Location:	51.4757 9.91159
+
+(4) - 21,6km @45km / 76km @100km
+	THS1
+		Images:	12033
+		Time:	27.04.2025 10:40:15 until 27.04.2025 14:45:06
+		Duration:	04:04:51
+		Location:	51.48652 9.76455
+
+	THS1LS2
+		Images:	6285
+		Time:	27.04.2025 10:46:15 until 27.04.2025 14:49:23
+		Duration:	04:03:08
+		Location:	51.48652 9.76455
+
+	THS1LS1
+		Images:	5805
+		Time:	27.04.2025 10:46:49 until 27.04.2025 14:49:32
+		Duration:	04:02:43
+		Location:	51.48652 9.76455
+
+(5) - Impressions / Pano
+	THS1DRONE1
+		Images:	22
+		Time:	27.04.2025 10:22:27 until 27.04.2025 14:49:12
+		Duration:	04:26:45
+		Location:	51.48652 9.76455
+
+	PANO1
+(6) - 22,7km @45km / 77,1km @100km
+	MASCH1
+		Images:	9003
+		Time:	27.04.2025 09:37:58 until 27.04.2025 14:53:13
+		Duration:	05:15:15
+		Location:	51.47741 9.76332
+
+(7) - 23,8km @45km / 78,2km @100km
+	ROH1
+		Images:	9528
+		Time:	27.04.2025 10:09:59 until 27.04.2025 14:55:30
+		Duration:	04:45:31
+		Location:	51.47685 9.76962
+
+	ROH1LS2
+		Images:	4094
+		Time:	27.04.2025 10:38:32 until 27.04.2025 14:57:10
+		Duration:	04:18:38
+		Location:	51.47685 9.76962
+
+	ROH1LS1
+		Images:	3690
+		Time:	27.04.2025 09:51:03 until 27.04.2025 14:55:46
+		Duration:	05:04:43
+		Location:	51.47685 9.76962
+
+(8) - 24,3km @45km / 78,7km @100km
+	SBU1
+		Images:	11504
+		Time:	27.04.2025 11:00:57 until 27.04.2025 15:06:55
+		Duration:	04:05:58
+		Location:	51.47841 9.77528
+
+	SBU1LS1
+		Images:	3669
+		Time:	27.04.2025 09:58:31 until 27.04.2025 15:03:59
+		Duration:	05:05:28
+		Location:	51.47841 9.77528
+
+(9) - 34.5km @ 45km / 89.5km @100km
+	EZ1
+		Images:	6064
+		Time:	26.04.2025 22:40:28 until 27.04.2025 15:18:16
+		Duration:	16:37:48
+		Location:	51.468 9.86857
+
+	EZ1LS1
+		Images:	2440
+		Time:	26.04.2025 22:42:36 until 27.04.2025 15:20:18
+		Duration:	16:37:42
+		Location:	51.468 9.86857
+
+(10) - 36km @ 45km / 91km @100km
+	TV1
+		Images:	4554
+		Time:	27.04.2025 11:18:14 until 27.04.2025 15:21:10
+		Duration:	04:02:56
+		Location:	51.472 9.89042
+
+(11) - 37.5km @ 45km / 92,km @100km
+	AL2
+		Images:	3240
+		Time:	27.04.2025 11:20:28 until 27.04.2025 15:24:59
+		Duration:	04:04:31
+		Location:	51.4757 9.91159
+
+(12) - 40km @45km / 95km @100km
+	STM2
+		Images:	9295
+		Time:	27.04.2025 11:15:47 until 27.04.2025 15:34:22
+		Duration:	04:18:35
+		Location:	51.49495 9.90668
+
+	STM2LS1
+		Images:	2345
+		Time:	27.04.2025 11:15:47 until 27.04.2025 15:31:27
+		Duration:	04:15:40
+		Location:	51.49495 9.90668
+
+(13) - 42,5km @ 45km / 97,5km @100km
+	CKO2
+		Images:	11757
+		Time:	27.04.2025 11:19:27 until 27.04.2025 15:37:19
+		Duration:	04:17:52
+		Location:	51.51441 9.91352
+
+(14) - Finish
+	JOJE1
+		Images:	4459
+		Time:	27.04.2025 09:21:33 until 27.04.2025 15:42:13
+		Duration:	06:20:40
+		Location:	51.52912 9.93615
+
+	MAE1
+		Images:	9585
+		Time:	27.04.2025 10:00:19 until 27.04.2025 15:43:15
+		Duration:	05:42:56
+		Location:	51.52912 9.93615
+
+	MAE1LS1
+		Images:	3024
+		Time:	27.04.2025 11:30:46 until 27.04.2025 15:43:15
+		Duration:	04:12:29
+		Location:	51.52912 9.93615
+
+	MAE1LS2
+		Images:	5514
+		Time:	27.04.2025 10:33:39 until 27.04.2025 15:43:36
+		Duration:	05:09:57
+		Location:	51.52912 9.93615
+

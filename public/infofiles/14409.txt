@@ -1,0 +1,109 @@
+EventId: 14409
+Spots: 17
+Total Images: 6993
+Time:	22.08.2025 07:42:25 to 23.08.2025 13:16:24
+Duration: 1.05:33:59
+
+(1) - Start
+	BP1
+		Images:	116
+		Time:	22.08.2025 07:42:25 until 23.08.2025 13:16:24
+		Duration:	1.05:33:59
+		Location:	46.02241 7.74695
+
+(2) - 2.0 km
+	KD1
+		Images:	305
+		Time:	22.08.2025 08:03:56 until 23.08.2025 10:11:17
+		Duration:	1.02:07:21
+		Location:	46.02242 7.73851
+
+	KD1LS1
+		Images:	250
+		Time:	22.08.2025 08:15:35 until 22.08.2025 08:29:26
+		Duration:	00:13:51
+		Location:	46.02242 7.73851
+
+(3) - Rothornhütte
+	BECK1
+		Images:	666
+		Time:	22.08.2025 08:10:37 until 23.08.2025 10:40:01
+		Duration:	1.02:29:24
+		Location:	46.04856 7.69752
+
+	BECK1LS2
+		Images:	307
+		Time:	22.08.2025 09:47:02 until 22.08.2025 12:03:56
+		Duration:	02:16:54
+		Location:	46.04856 7.69752
+
+	BECK1LS1
+		Images:	1331
+		Time:	22.08.2025 09:32:25 until 22.08.2025 12:10:31
+		Duration:	02:38:06
+		Location:	46.04856 7.69752
+
+	BECK1DRONE1
+		Images:	29
+		Time:	22.08.2025 08:43:09 until 23.08.2025 10:55:37
+		Duration:	1.02:12:28
+		Location:	46.04856 7.69752
+
+(4) - 23.0 km
+	BECK2
+		Images:	322
+		Time:	22.08.2025 14:23:07 until 22.08.2025 15:50:20
+		Duration:	01:27:13
+		Location:	46.03051 7.75101
+
+	BECK2LS2
+		Images:	131
+		Time:	22.08.2025 14:04:49 until 22.08.2025 15:49:53
+		Duration:	01:45:04
+		Location:	46.03051 7.75101
+
+	BECK2LS1
+		Images:	187
+		Time:	22.08.2025 13:56:54 until 22.08.2025 15:50:08
+		Duration:	01:53:14
+		Location:	46.03051 7.75101
+
+(5) - 24.0 km
+	KD2
+		Images:	534
+		Time:	22.08.2025 11:42:03 until 22.08.2025 15:54:30
+		Duration:	04:12:27
+		Location:	46.02503 7.74767
+
+	KD2LS2
+		Images:	351
+		Time:	22.08.2025 11:31:32 until 22.08.2025 16:01:49
+		Duration:	04:30:17
+		Location:	46.02503 7.74767
+
+	KD2LS1
+		Images:	357
+		Time:	22.08.2025 11:18:10 until 22.08.2025 16:08:55
+		Duration:	04:50:45
+		Location:	46.02503 7.74767
+
+(6) - Finish
+	BP2
+		Images:	1014
+		Time:	22.08.2025 08:37:27 until 22.08.2025 15:58:30
+		Duration:	07:21:03
+		Location:	46.02241 7.74695
+
+	BP2LS2
+		Images:	716
+		Time:	22.08.2025 10:10:15 until 22.08.2025 15:58:41
+		Duration:	05:48:26
+		Location:	46.02241 7.74695
+
+	BP2LS1
+		Images:	365
+		Time:	22.08.2025 10:20:48 until 22.08.2025 15:58:36
+		Duration:	05:37:48
+		Location:	46.02241 7.74695
+
+	PANO1

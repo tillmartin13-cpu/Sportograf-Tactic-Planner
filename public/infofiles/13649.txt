@@ -1,0 +1,172 @@
+EventId: 13649
+Spots: 26
+Total Images: 29959
+Time:	01.01.0001 23:00:00 to 21.09.2025 12:41:20
+Duration: 739513.13:41:20
+
+(1) - Special Impressions - Bigiw Run
+	OCH1
+		Images:	1207
+		Time:	01.01.0001 23:00:00 until 20.09.2025 17:58:32
+		Duration:	739512.18:58:32
+		Location:	7.11072 125.66650
+
+(2) - Swim - Impressions / Pano
+	OCH2
+		Images:	91
+		Time:	21.09.2025 04:39:47 until 21.09.2025 05:32:38
+		Duration:	00:52:51
+		Location:	7.10983 125.66605
+
+	OCH2DRONE1
+		Images:	81
+		Time:	21.09.2025 05:15:05 until 21.09.2025 06:38:30
+		Duration:	01:23:25
+		Location:	7.10983 125.66605
+
+	CHTE1
+		Images:	191
+		Time:	21.09.2025 04:37:53 until 21.09.2025 05:43:17
+		Duration:	01:05:24
+		Location:	7.10983 125.66605
+
+	DCL1
+		Images:	74
+		Time:	21.09.2025 04:40:28 until 21.09.2025 06:27:50
+		Duration:	01:47:22
+		Location:	7.10983 125.66605
+
+(3) - Swim - Start
+	OCH3
+		Images:	202
+		Time:	21.09.2025 05:33:16 until 21.09.2025 05:43:35
+		Duration:	00:10:19
+		Location:	7.11025 125.66513
+
+	OCH4
+		Images:	789
+		Time:	21.09.2025 06:01:05 until 21.09.2025 06:31:37
+		Duration:	00:30:32
+		Location:	7.11025 125.66513
+
+	DCL2
+		Images:	148
+		Time:	21.09.2025 05:39:17 until 21.09.2025 05:43:01
+		Duration:	00:03:44
+		Location:	7.11025 125.66513
+
+	DCL4
+		Images:	486
+		Time:	21.09.2025 06:19:24 until 21.09.2025 06:26:55
+		Duration:	00:07:31
+		Location:	7.11025 125.66513
+
+(4) - Swim - Transition zone
+	OCH5
+		Images:	1780
+		Time:	21.09.2025 06:40:18 until 21.09.2025 07:22:02
+		Duration:	00:41:44
+		Location:	7.11025 125.66513
+
+	DCL3
+		Images:	326
+		Time:	21.09.2025 05:51:41 until 21.09.2025 06:18:15
+		Duration:	00:26:34
+		Location:	7.11025 125.66513
+
+(5) - Bike - Impressions / Pano
+	CAA1
+		Images:	34
+		Time:	20.09.2025 21:02:42 until 21.09.2025 08:14:31
+		Duration:	11:11:49
+		Location:	7.08336 125.67197
+
+(6) - Bike - 0,0 km
+	CAA2
+		Images:	2658
+		Time:	21.09.2025 06:02:27 until 21.09.2025 09:15:24
+		Duration:	03:12:57
+		Location:	7.08336 125.67197
+
+	JMAO1
+		Images:	3972
+		Time:	21.09.2025 06:01:25 until 21.09.2025 12:41:20
+		Duration:	06:39:55
+		Location:	7.08894 125.66938
+
+	JMAO1LS1
+		Images:	2481
+		Time:	21.09.2025 05:29:58 until 21.09.2025 09:03:06
+		Duration:	03:33:08
+		Location:	7.08894 125.66938
+
+(7) - Run - Impressions / Pano
+	CHTE3
+		Images:	7
+		Time:	21.09.2025 05:55:02 until 21.09.2025 05:57:46
+		Duration:	00:02:44
+		Location:	7.11244 125.66936
+
+	DCL5
+		Images:	10
+		Time:	21.09.2025 06:29:41 until 21.09.2025 06:54:42
+		Duration:	00:25:01
+		Location:	7.11025 125.66513
+
+(8) - Run - 0,0 km
+	CHTE2
+		Images:	3889
+		Time:	21.09.2025 05:45:35 until 21.09.2025 11:00:50
+		Duration:	05:15:15
+		Location:	7.11244 125.66936
+
+(9) - Finish
+	DCL6
+		Images:	897
+		Time:	21.09.2025 06:54:53 until 21.09.2025 08:15:20
+		Duration:	01:20:27
+		Location:	7.11027 125.66594
+
+	DCL7
+		Images:	1989
+		Time:	21.09.2025 08:24:02 until 21.09.2025 11:38:48
+		Duration:	03:14:46
+		Location:	7.11027 125.66594
+
+	CAA3
+		Images:	26
+		Time:	21.09.2025 10:30:15 until 21.09.2025 12:19:44
+		Duration:	01:49:29
+		Location:	7.11027 125.66594
+
+	OCH6
+		Images:	1024
+		Time:	21.09.2025 07:23:58 until 21.09.2025 11:38:51
+		Duration:	04:14:53
+		Location:	7.11027 125.66594
+
+	OCH6LS1
+		Images:	4394
+		Time:	21.09.2025 07:41:09 until 21.09.2025 11:42:47
+		Duration:	04:01:38
+		Location:	7.11027 125.66594
+
+	OCH6LS2
+		Images:	3028
+		Time:	20.09.2025 20:51:00 until 21.09.2025 11:42:47
+		Duration:	14:51:47
+		Location:	7.11027 125.66594
+
+(10) - Ceremony
+	DCL8
+		Images:	63
+		Time:	21.09.2025 09:43:04 until 21.09.2025 10:02:52
+		Duration:	00:19:48
+		Location:	7.11072 125.66650
+
+	CAA4
+		Images:	112
+		Time:	21.09.2025 12:19:55 until 21.09.2025 12:41:19
+		Duration:	00:21:24
+		Location:	7.11072 125.66650
+

@@ -1,0 +1,76 @@
+EventId: 14741
+Spots: 11
+Total Images: 20169
+Time:	26.06.2025 16:39:51 to 29.06.2025 12:20:13
+Duration: 2.19:40:22
+
+(1) - Finish
+	GAZ1
+		Images:	5717
+		Time:	26.06.2025 16:39:51 until 26.06.2025 21:02:47
+		Duration:	04:22:56
+		Location:	46.53743 12.13699
+
+	GAZ1LS1
+		Images:	1036
+		Time:	26.06.2025 17:09:21 until 26.06.2025 21:05:50
+		Duration:	03:56:29
+		Location:	46.53743 12.13699
+
+(2) - 10km before finish
+	AGU1
+		Images:	1673
+		Time:	26.06.2025 18:07:02 until 27.06.2025 11:18:03
+		Duration:	17:11:01
+		Location:	46.55745 12.18648
+
+	AGU1LS1
+		Images:	1113
+		Time:	26.06.2025 18:53:14 until 26.06.2025 20:22:58
+		Duration:	01:29:44
+		Location:	46.55745 12.18648
+
+	AGU1LS2
+		Images:	2597
+		Time:	26.06.2025 17:50:27 until 26.06.2025 20:07:29
+		Duration:	02:17:02
+		Location:	46.55745 12.18648
+
+(3) - 12.0 km Malga Larieto
+	FRN1
+		Images:	1361
+		Time:	26.06.2025 18:01:25 until 27.06.2025 12:58:17
+		Duration:	18:56:52
+		Location:	46.55201 12.17609
+
+	FRN1LS1
+		Images:	924
+		Time:	26.06.2025 17:30:00 until 26.06.2025 20:18:15
+		Duration:	02:48:15
+		Location:	46.55201 12.17609
+
+	FRN1DRONE1
+		Images:	6
+		Time:	26.06.2025 20:34:07 until 27.06.2025 11:49:29
+		Duration:	15:15:22
+		Location:	46.55201 12.17609
+
+(4) - 18.0 km Mietres
+	LULE1
+		Images:	3618
+		Time:	26.06.2025 18:23:37 until 27.06.2025 11:40:57
+		Duration:	17:17:20
+		Location:	46.54870 12.14301
+
+	LULE1LS2
+		Images:	851
+		Time:	26.06.2025 18:59:05 until 27.06.2025 10:31:47
+		Duration:	15:32:42
+		Location:	46.54870 12.14301
+
+	LULE1LS1
+		Images:	1242
+		Time:	26.06.2025 17:44:30 until 26.06.2025 20:48:24
+		Duration:	03:03:54
+		Location:	46.54870 12.14301
+

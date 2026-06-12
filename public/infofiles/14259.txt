@@ -1,0 +1,298 @@
+EventId: 14259
+Spots: 46
+Total Images: 34875
+Time:	01.01.0001 23:00:00 to 19.04.2025 16:56:20
+Duration: 739358.17:56:20
+
+(1) - 0.0 km Registration
+	S99BRN1
+		Images:	156
+		Time:	14.04.2025 13:37:11 until 14.04.2025 18:49:35
+		Duration:	05:12:24
+		Location:	44.52111 14.45914
+
+(2) - Impressions / Pano
+	S99MATR1
+		Images:	144
+		Time:	14.04.2025 13:23:30 until 14.04.2025 16:18:00
+		Duration:	02:54:30
+		Location:	44.52111 14.45914
+
+	S3BRN1
+		Images:	45
+		Time:	18.04.2025 08:20:20 until 18.04.2025 08:33:23
+		Duration:	00:13:03
+		Location:	45.02754 14.49685
+
+	S3MATR1
+		Images:	77
+		Time:	18.04.2025 09:58:13 until 18.04.2025 10:27:40
+		Duration:	00:29:27
+		Location:	45.01416 14.56378
+
+	S4MATR1
+		Images:	76
+		Time:	19.04.2025 09:15:31 until 19.04.2025 09:42:27
+		Duration:	00:26:56
+		Location:	44.96707 14.74949
+
+(3) - Start
+	S0BRN1
+		Images:	3742
+		Time:	15.04.2025 11:28:56 until 15.04.2025 15:01:50
+		Duration:	03:32:54
+		Location:	44.52100 14.46021
+
+	S1MATR1
+		Images:	137
+		Time:	16.04.2025 08:24:35 until 16.04.2025 09:17:45
+		Duration:	00:53:10
+		Location:	44.53226 14.46859
+
+	S1MATR1DRONE1
+		Images:	33
+		Time:	16.04.2025 08:59:41 until 16.04.2025 09:12:45
+		Duration:	00:13:04
+		Location:	44.53226 14.46859
+
+	S3MATR2
+		Images:	32
+		Time:	18.04.2025 10:32:56 until 18.04.2025 10:45:02
+		Duration:	00:12:06
+		Location:	45.01416 14.56378
+
+	S3MATR2DRONE1
+		Images:	15
+		Time:	18.04.2025 10:40:47 until 18.04.2025 10:54:29
+		Duration:	00:13:42
+		Location:	45.01416 14.56378
+
+	S4MATR2
+		Images:	203
+		Time:	19.04.2025 09:42:27 until 19.04.2025 10:15:22
+		Duration:	00:32:55
+		Location:	44.96707 14.74949
+
+	S4MATR2DRONE1
+		Images:	11
+		Time:	19.04.2025 09:53:13 until 19.04.2025 10:00:15
+		Duration:	00:07:02
+		Location:	44.96707 14.74949
+
+(4) - 9.0 km
+	S0MATR1
+		Images:	2315
+		Time:	15.04.2025 11:35:10 until 15.04.2025 14:52:47
+		Duration:	03:17:37
+		Location:	44.54330 14.44548
+
+	S0MATR1DRONE1
+		Images:	11
+		Time:	15.04.2025 12:58:33 until 15.04.2025 13:07:52
+		Duration:	00:09:19
+		Location:	44.54330 14.44548
+
+	S0MATR1LS2
+		Images:	615
+		Time:	15.04.2025 13:18:00 until 15.04.2025 15:06:17
+		Duration:	01:48:17
+		Location:	44.54330 14.44548
+
+(5) - 8.5 km
+	S0MATR1LS1
+		Images:	422
+		Time:	15.04.2025 11:55:28 until 15.04.2025 15:12:15
+		Duration:	03:16:47
+		Location:	44.54330 14.44548
+
+(6) - Finish
+	S0BRN1LS1
+		Images:	3173
+		Time:	15.04.2025 11:47:44 until 15.04.2025 14:55:23
+		Duration:	03:07:39
+		Location:	44.52100 14.46021
+
+	S4BRN2
+		Images:	2665
+		Time:	19.04.2025 12:03:52 until 19.04.2025 16:48:31
+		Duration:	04:44:39
+		Location:	44.96707 14.74949
+
+	S4MATR3LS1
+		Images:	495
+		Time:	19.04.2025 11:37:23 until 19.04.2025 16:48:09
+		Duration:	05:10:46
+		Location:	44.96707 14.74949
+
+	S4MATR3LS2
+		Images:	308
+		Time:	19.04.2025 10:49:50 until 19.04.2025 16:48:16
+		Duration:	05:58:26
+		Location:	44.96707 14.74949
+
+	S4BRN2LS1
+		Images:	313
+		Time:	19.04.2025 12:49:18 until 19.04.2025 16:56:20
+		Duration:	04:07:02
+		Location:	44.96707 14.74949
+
+(7) - 2.0 km
+	S1BRN1
+		Images:	523
+		Time:	16.04.2025 08:24:00 until 16.04.2025 09:22:36
+		Duration:	00:58:36
+		Location:	44.53994 14.45426
+
+(8) - 30.0 km
+	S1MATR2
+		Images:	1314
+		Time:	16.04.2025 10:21:09 until 16.04.2025 12:19:18
+		Duration:	01:58:09
+		Location:	44.51379 14.51746
+
+	S1MATR2LS1
+		Images:	686
+		Time:	16.04.2025 10:07:38 until 16.04.2025 12:19:30
+		Duration:	02:11:52
+		Location:	44.51379 14.51746
+
+	S1MATR2LS2
+		Images:	1050
+		Time:	16.04.2025 10:16:33 until 16.04.2025 12:25:11
+		Duration:	02:08:38
+		Location:	44.51379 14.51746
+
+	S1MATR2DRONE1
+		Images:	22
+		Time:	16.04.2025 11:19:14 until 16.04.2025 11:22:36
+		Duration:	00:03:22
+		Location:	44.51379 14.51746
+
+(9) - 31.5 km
+	S1BRN2
+		Images:	1541
+		Time:	16.04.2025 10:09:33 until 16.04.2025 12:26:11
+		Duration:	02:16:38
+		Location:	44.51996 14.50597
+
+	S1BRN2LS1
+		Images:	533
+		Time:	16.04.2025 10:04:01 until 16.04.2025 12:34:02
+		Duration:	02:30:01
+		Location:	44.51996 14.50597
+
+	S1BRN2LS2
+		Images:	616
+		Time:	16.04.2025 09:49:49 until 16.04.2025 12:27:49
+		Duration:	02:38:00
+		Location:	44.51996 14.50597
+
+(10) - 18.0 km
+	S2MATR1
+		Images:	1619
+		Time:	17.04.2025 10:54:36 until 17.04.2025 12:18:16
+		Duration:	01:23:40
+		Location:	44.86906 14.34555
+
+	S2MATR1DRONE1
+		Images:	14
+		Time:	17.04.2025 10:54:40 until 17.04.2025 12:09:04
+		Duration:	01:14:24
+		Location:	44.86906 14.34555
+
+	S2MATR1LS1
+		Images:	591
+		Time:	17.04.2025 10:12:37 until 17.04.2025 12:18:10
+		Duration:	02:05:33
+		Location:	44.86906 14.34555
+
+	S2MATR1LS2
+		Images:	612
+		Time:	17.04.2025 09:56:27 until 17.04.2025 12:22:15
+		Duration:	02:25:48
+		Location:	44.86906 14.34555
+
+(11) - 25.0 km
+	S2BRN1
+		Images:	1070
+		Time:	17.04.2025 11:01:30 until 17.04.2025 12:45:42
+		Duration:	01:44:12
+		Location:	44.83474 14.34888
+
+	S2BRN1LS1
+		Images:	674
+		Time:	17.04.2025 10:57:43 until 17.04.2025 12:54:40
+		Duration:	01:56:57
+		Location:	44.83474 14.34888
+
+	S2BRN1LS2
+		Images:	840
+		Time:	17.04.2025 10:38:32 until 17.04.2025 12:55:27
+		Duration:	02:16:55
+		Location:	44.83474 14.34888
+
+(12) - 22.0 km
+	S3BRN2
+		Images:	1671
+		Time:	18.04.2025 10:59:59 until 18.04.2025 13:15:23
+		Duration:	02:15:24
+		Location:	45.01416 14.56378
+
+	S3BRN2LS2
+		Images:	688
+		Time:	18.04.2025 10:17:25 until 18.04.2025 13:15:11
+		Duration:	02:57:46
+		Location:	45.01416 14.56378
+
+	S3BRN2LS1
+		Images:	539
+		Time:	18.04.2025 10:47:48 until 18.04.2025 13:33:29
+		Duration:	02:45:41
+		Location:	45.01416 14.56378
+
+(13) - 57.0 km
+	S3MATR3
+		Images:	1397
+		Time:	01.01.0001 23:00:00 until 18.04.2025 17:07:45
+		Duration:	739357.18:07:45
+		Location:	44.98360 14.76162
+
+	S3MATR3DRONE1
+		Images:	66
+		Time:	18.04.2025 13:05:35 until 18.04.2025 16:35:27
+		Duration:	03:29:52
+		Location:	44.98360 14.76162
+
+	S3MATR3LS2
+		Images:	633
+		Time:	18.04.2025 12:44:41 until 18.04.2025 16:38:48
+		Duration:	03:54:07
+		Location:	44.98360 14.76162
+
+	S3MATR3LS1
+		Images:	804
+		Time:	18.04.2025 12:58:35 until 18.04.2025 16:29:45
+		Duration:	03:31:10
+		Location:	44.98360 14.76162
+
+(14) - 5.0 km
+	S4BRN1
+		Images:	547
+		Time:	19.04.2025 09:54:58 until 19.04.2025 10:47:32
+		Duration:	00:52:34
+		Location:	44.97853 14.75642
+
+(15) - 70.0 km
+	S4MATR3
+		Images:	1017
+		Time:	19.04.2025 12:45:10 until 19.04.2025 14:53:49
+		Duration:	02:08:39
+		Location:	44.97178 14.73789
+
+(16) - Ceremony
+	S4MATR4
+		Images:	820
+		Time:	19.04.2025 15:19:21 until 19.04.2025 16:46:56
+		Duration:	01:27:35
+		Location:	44.96707 14.74949
+

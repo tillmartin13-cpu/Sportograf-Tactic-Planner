@@ -1,0 +1,105 @@
+EventId: 14187
+Spots: 15
+Total Images: 44894
+Time:	25.05.2025 06:11:28 to 25.05.2025 17:29:57
+Duration: 11:18:29
+
+(1) - Bike - 0,0 km 0 km Tg Balau Bike Roundabout
+	IMH1
+		Images:	5009
+		Time:	25.05.2025 06:47:22 until 25.05.2025 12:18:14
+		Duration:	05:30:52
+		Location:	1.60537 104.25048
+
+	PZIE1
+		Images:	1914
+		Time:	25.05.2025 07:14:43 until 25.05.2025 12:19:39
+		Duration:	05:04:56
+		Location:	1.60537 104.25048
+
+(2) - Run - 0,0 km Run Near the Finish Line
+	IMH2
+		Images:	3432
+		Time:	25.05.2025 13:09:34 until 25.05.2025 15:44:32
+		Duration:	02:34:58
+		Location:	1.53688 104.2637
+
+(3) - Swim - Impressions / Pano
+	MUS1
+		Images:	72
+		Time:	25.05.2025 06:12:28 until 25.05.2025 06:31:08
+		Duration:	00:18:40
+		Location:	1.54190 104.26601
+
+	VMM1
+		Images:	505
+		Time:	25.05.2025 06:11:28 until 25.05.2025 08:26:03
+		Duration:	02:14:35
+		Location:	1.54190 104.26601
+
+(4) - Swim - Start
+	MUS2
+		Images:	2394
+		Time:	25.05.2025 06:37:46 until 25.05.2025 08:27:04
+		Duration:	01:49:18
+		Location:	1.54190 104.26601
+
+	VMM2
+		Images:	7923
+		Time:	25.05.2025 07:05:06 until 25.05.2025 08:29:43
+		Duration:	01:24:37
+		Location:	1.54190 104.26601
+
+(5) - Bike - Transition zone Bike Transition
+	MUS3
+		Images:	626
+		Time:	25.05.2025 09:46:49 until 25.05.2025 11:12:14
+		Duration:	01:25:25
+		Location:	1.54190 104.26601
+
+(6) - Finish
+	MUS4
+		Images:	6861
+		Time:	25.05.2025 11:05:24 until 25.05.2025 17:29:57
+		Duration:	06:24:33
+		Location:	1.54190 104.26601
+
+	PZIE2
+		Images:	363
+		Time:	25.05.2025 13:38:50 until 25.05.2025 17:08:27
+		Duration:	03:29:37
+		Location:	1.54190 104.26601
+
+	VMM4
+		Images:	9031
+		Time:	25.05.2025 09:40:10 until 25.05.2025 15:44:35
+		Duration:	06:04:25
+		Location:	1.54190 104.26601
+
+	VMM4LS1
+		Images:	608
+		Time:	25.05.2025 11:57:33 until 25.05.2025 15:41:05
+		Duration:	03:43:32
+		Location:	1.54190 104.26601
+
+(7) - Bike - Transition zone Transition-Impressions
+	RY1
+		Images:	891
+		Time:	25.05.2025 06:47:03 until 25.05.2025 08:32:21
+		Duration:	01:45:18
+		Location:	1.54190 104.26601
+
+(8) - Run - 0,0 km Run
+	RY2
+		Images:	4917
+		Time:	25.05.2025 09:55:40 until 25.05.2025 15:31:50
+		Duration:	05:36:10
+		Location:	1.53812 104.26622
+
+(9) - Bike - Transition zone Run Transition
+	VMM3
+		Images:	348
+		Time:	25.05.2025 09:49:25 until 25.05.2025 10:22:40
+		Duration:	00:33:15
+		Location:	1.54190 104.26601
+

@@ -1,0 +1,144 @@
+EventId: 14642
+Spots: 22
+Total Images: 122199
+Time:	13.09.2025 08:57:45 to 13.09.2025 18:24:40
+Duration: 09:26:55
+
+(1) - Impressions / Pano
+	PANO1
+	LEM1DRONE1
+		Images:	12
+		Time:	13.09.2025 16:20:15 until 13.09.2025 16:23:56
+		Duration:	00:03:41
+		Location:	54.14176 10.95256
+
+	LEM1
+		Images:	302
+		Time:	13.09.2025 10:45:20 until 13.09.2025 18:02:00
+		Duration:	07:16:40
+		Location:	54.14176 10.95256
+
+(2) - Obstacle 2 Freak Froster
+	QCC1
+		Images:	8740
+		Time:	13.09.2025 09:18:36 until 13.09.2025 16:46:37
+		Duration:	07:28:01
+		Location:	54.14473 10.96218
+
+	VR1
+		Images:	5721
+		Time:	13.09.2025 08:57:45 until 13.09.2025 16:45:47
+		Duration:	07:48:02
+		Location:	54.14473 10.96218
+
+(3) - Obstacle 6 Crew Carry
+	LSI1
+		Images:	7923
+		Time:	13.09.2025 09:52:25 until 13.09.2025 16:35:39
+		Duration:	06:43:14
+		Location:	54.14408 10.94565
+
+(4) - Obstacle 9 Muddy Maniacs
+	RET1
+		Images:	10501
+		Time:	13.09.2025 09:58:58 until 13.09.2025 17:38:05
+		Duration:	07:39:07
+		Location:	54.13699 10.94553
+
+(5) - Obstacle 10 Barbwire Battle
+	JMAR1
+		Images:	27469
+		Time:	13.09.2025 10:08:13 until 13.09.2025 17:40:45
+		Duration:	07:32:32
+		Location:	54.13684 10.94520
+
+	PSA1
+		Images:	5692
+		Time:	13.09.2025 09:14:44 until 13.09.2025 17:40:44
+		Duration:	08:26:00
+		Location:	54.13684 10.94520
+
+(6) - Obstacle 11 Speed Slide
+	LEM1LS1
+		Images:	2281
+		Time:	13.09.2025 10:35:10 until 13.09.2025 17:55:51
+		Duration:	07:20:41
+		Location:	54.13394 10.94354
+
+	LEM1LS2
+		Images:	1812
+		Time:	13.09.2025 10:28:16 until 13.09.2025 17:55:51
+		Duration:	07:27:35
+		Location:	54.13394 10.94354
+
+(7) - Obstacle 13 Rotten River
+	DAB1
+		Images:	3040
+		Time:	13.09.2025 10:04:24 until 13.09.2025 17:07:46
+		Duration:	07:03:22
+		Location:	54.13641 10.94663
+
+	SLOM1
+		Images:	6542
+		Time:	13.09.2025 09:40:22 until 13.09.2025 17:55:30
+		Duration:	08:15:08
+		Location:	54.13641 10.94663
+
+(8) - Obstacle 18 Clumsy Cliffhanger
+	FDC1
+		Images:	4639
+		Time:	13.09.2025 09:24:56 until 13.09.2025 17:14:10
+		Duration:	07:49:14
+		Location:	54.14951 10.97786
+
+	LUKS1
+		Images:	5008
+		Time:	13.09.2025 10:05:01 until 13.09.2025 17:14:24
+		Duration:	07:09:23
+		Location:	54.14951 10.97786
+
+(9) - Obstacle 19 Rapid Rings
+	CM1
+		Images:	7174
+		Time:	13.09.2025 09:13:16 until 13.09.2025 17:28:09
+		Duration:	08:14:53
+		Location:	54.15324 10.98765
+
+	CM1LS1
+		Images:	3480
+		Time:	13.09.2025 09:06:05 until 13.09.2025 17:26:11
+		Duration:	08:20:06
+		Location:	54.15324 10.98765
+
+(10) - Finish
+	RYS1
+		Images:	10475
+		Time:	13.09.2025 09:49:27 until 13.09.2025 18:19:47
+		Duration:	08:30:20
+		Location:	54.14176 10.95514
+
+	RYS1LS2
+		Images:	2172
+		Time:	13.09.2025 09:13:00 until 13.09.2025 18:24:40
+		Duration:	09:11:40
+		Location:	54.14176 10.95514
+
+	RYS1LS1
+		Images:	2784
+		Time:	13.09.2025 09:06:17 until 13.09.2025 17:59:50
+		Duration:	08:53:33
+		Location:	54.14176 10.95514
+
+(11) - Herotent
+	MFR1
+		Images:	2740
+		Time:	13.09.2025 09:19:56 until 13.09.2025 18:19:32
+		Duration:	08:59:36
+		Location:	54.14176 10.95256
+
+	PJE1
+		Images:	3692
+		Time:	13.09.2025 09:20:22 until 13.09.2025 18:16:45
+		Duration:	08:56:23
+		Location:	54.14176 10.95256
+

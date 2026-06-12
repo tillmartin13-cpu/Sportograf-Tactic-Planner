@@ -1,0 +1,97 @@
+EventId: 13650
+Spots: 14
+Total Images: 21473
+Time:	07.09.2025 09:49:29 to 07.09.2025 13:37:39
+Duration: 03:48:10
+
+(1) - 1,5KM Nach Pertisau
+	CHR1
+		Images:	1071
+		Time:	07.09.2025 09:55:45 until 07.09.2025 10:18:52
+		Duration:	00:23:07
+		Location:	47.43269 11.71126
+
+	CHR1LS1
+		Images:	411
+		Time:	07.09.2025 09:49:29 until 07.09.2025 10:18:54
+		Duration:	00:29:25
+		Location:	47.43269 11.71126
+
+	CHR1LS2
+		Images:	413
+		Time:	07.09.2025 09:50:48 until 07.09.2025 10:19:21
+		Duration:	00:28:33
+		Location:	47.43269 11.71126
+
+(2) - 5KM Maurach Atoll
+	EA1
+		Images:	1087
+		Time:	07.09.2025 10:16:19 until 07.09.2025 10:42:01
+		Duration:	00:25:42
+		Location:	47.43011 11.73595
+
+(3) - 18 KM Gaisalmsteig
+	EJ1
+		Images:	2769
+		Time:	07.09.2025 10:49:06 until 07.09.2025 13:06:00
+		Duration:	02:16:54
+		Location:	47.47988 11.69948
+
+(4) - Vor der Gaisalm
+	MADM1
+		Images:	3627
+		Time:	07.09.2025 10:43:57 until 07.09.2025 12:41:04
+		Duration:	01:57:07
+		Location:	47.47784 11.70135
+
+(5) - Nach der Gaisalm
+	UEC1
+		Images:	3090
+		Time:	07.09.2025 11:00:03 until 07.09.2025 13:12:17
+		Duration:	02:12:14
+		Location:	47.46128 11.70287
+
+	UEC1LS1
+		Images:	1190
+		Time:	07.09.2025 10:17:30 until 07.09.2025 13:12:34
+		Duration:	02:55:04
+		Location:	47.46128 11.70287
+
+	UEC1LS2
+		Images:	1211
+		Time:	07.09.2025 10:22:07 until 07.09.2025 13:12:29
+		Duration:	02:50:22
+		Location:	47.46128 11.70287
+
+(6) - 22KM Promenade
+	CHR2
+		Images:	2595
+		Time:	07.09.2025 11:24:45 until 07.09.2025 13:28:15
+		Duration:	02:03:30
+		Location:	47.46128 11.70287
+
+	CHR2DRONE1
+		Images:	19
+		Time:	07.09.2025 11:42:55 until 07.09.2025 11:52:35
+		Duration:	00:09:40
+		Location:	47.46128 11.70287
+
+	CHR2LS1
+		Images:	1176
+		Time:	07.09.2025 10:48:17 until 07.09.2025 13:09:10
+		Duration:	02:20:53
+		Location:	47.46128 11.70287
+
+	CHR2LS2
+		Images:	1206
+		Time:	07.09.2025 10:47:31 until 07.09.2025 13:09:10
+		Duration:	02:21:39
+		Location:	47.46128 11.70287
+
+(7) - Finish
+	EA2
+		Images:	1608
+		Time:	07.09.2025 11:28:51 until 07.09.2025 13:37:39
+		Duration:	02:08:48
+		Location:	47.44208 11.70032
+

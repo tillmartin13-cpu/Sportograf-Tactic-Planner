@@ -1,0 +1,179 @@
+EventId: 13503
+Spots: 28
+Total Images: 48989
+Time:	19.10.2025 08:23:55 to 19.10.2025 17:05:24
+Duration: 08:41:29
+
+(1) - 6.0 km Sint Jansbosweg
+	MAW1
+		Images:	3406
+		Time:	19.10.2025 09:04:28 until 19.10.2025 10:33:12
+		Duration:	01:28:44
+		Location:	50.85355 5.85118
+
+	MAW1LS1
+		Images:	806
+		Time:	19.10.2025 08:23:55 until 19.10.2025 10:36:30
+		Duration:	02:12:35
+		Location:	50.85355 5.85118
+
+	MAW1LS2
+		Images:	882
+		Time:	19.10.2025 08:36:22 until 19.10.2025 10:32:17
+		Duration:	01:55:55
+		Location:	50.85355 5.85118
+
+(2) - 6.2 km Sint Jansboskapel, Schin op Geul
+	SIL1
+		Images:	1982
+		Time:	19.10.2025 09:10:10 until 19.10.2025 10:22:07
+		Duration:	01:11:57
+		Location:	50.85352 5.85161
+
+(3) - 7.8 km Schinderweg
+	THL1
+		Images:	4001
+		Time:	19.10.2025 09:05:52 until 19.10.2025 10:16:47
+		Duration:	01:10:55
+		Location:	50.84201 5.84323
+
+	THL1DRONE1
+		Images:	27
+		Time:	19.10.2025 09:01:53 until 19.10.2025 12:22:35
+		Duration:	03:20:42
+		Location:	50.84201 5.84323
+
+	THL1LS1
+		Images:	1411
+		Time:	19.10.2025 09:02:48 until 19.10.2025 10:24:24
+		Duration:	01:21:36
+		Location:	50.84201 5.84323
+
+	THL1LS2
+		Images:	1304
+		Time:	19.10.2025 08:32:25 until 19.10.2025 10:20:33
+		Duration:	01:48:08
+		Location:	50.84201 5.84323
+
+(4) - 14.0 km Dodemanweg
+	NWO1LS1
+		Images:	786
+		Time:	19.10.2025 09:02:56 until 19.10.2025 10:53:25
+		Duration:	01:50:29
+		Location:	50.83404 5.86830
+
+	NWO1
+		Images:	2606
+		Time:	19.10.2025 09:02:56 until 19.10.2025 10:53:25
+		Duration:	01:50:29
+		Location:	50.83404 5.86830
+
+	NWO1LS2
+		Images:	344
+		Time:	19.10.2025 09:16:07 until 19.10.2025 10:28:20
+		Duration:	01:12:13
+		Location:	50.83404 5.86830
+
+(5) - 14.2 km Gronzedellerweg
+	TOG1
+		Images:	796
+		Time:	19.10.2025 08:45:23 until 19.10.2025 10:55:31
+		Duration:	02:10:08
+		Location:	50.83658 5.87115
+
+	TOG1LS1
+		Images:	837
+		Time:	19.10.2025 08:28:20 until 19.10.2025 11:03:01
+		Duration:	02:34:41
+		Location:	50.83658 5.87115
+
+	TOG1LS2
+		Images:	821
+		Time:	19.10.2025 08:28:01 until 19.10.2025 11:08:20
+		Duration:	02:40:19
+		Location:	50.83658 5.87115
+
+(6) - 77.0 km Aan de Sjteng
+	THL2
+		Images:	5813
+		Time:	19.10.2025 11:51:03 until 19.10.2025 15:59:07
+		Duration:	04:08:04
+		Location:	50.81652 5.76057
+
+	THL2LS1
+		Images:	1085
+		Time:	19.10.2025 11:08:16 until 19.10.2025 15:03:51
+		Duration:	03:55:35
+		Location:	50.81652 5.76057
+
+	THL2LS2
+		Images:	828
+		Time:	19.10.2025 11:09:01 until 19.10.2025 15:09:42
+		Duration:	04:00:41
+		Location:	50.81652 5.76057
+
+(7) - 83.0 km /110 + 78/85 Grubweg
+	TOG2
+		Images:	3004
+		Time:	19.10.2025 11:02:18 until 19.10.2025 16:08:56
+		Duration:	05:06:38
+		Location:	50.82250 5.76470
+
+	TOG2LS1
+		Images:	733
+		Time:	19.10.2025 11:41:11 until 19.10.2025 16:16:39
+		Duration:	04:35:28
+		Location:	50.82250 5.76470
+
+	TOG2LS2
+		Images:	702
+		Time:	19.10.2025 11:48:48 until 19.10.2025 16:16:38
+		Duration:	04:27:50
+		Location:	50.82250 5.76470
+
+(8) - 85.0 km /110 + 79.5/85 Vendelweg
+	NWO2
+		Images:	3662
+		Time:	19.10.2025 12:09:41 until 19.10.2025 16:09:14
+		Duration:	03:59:33
+		Location:	50.82572 5.77118
+
+	NWO2LS1
+		Images:	1137
+		Time:	19.10.2025 12:02:47 until 19.10.2025 16:16:06
+		Duration:	04:13:19
+		Location:	50.82572 5.77118
+
+	NWO2LS2
+		Images:	1009
+		Time:	19.10.2025 12:00:04 until 19.10.2025 16:15:56
+		Duration:	04:15:52
+		Location:	50.82572 5.77118
+
+(9) - Finish
+	MAW2
+		Images:	5112
+		Time:	19.10.2025 11:41:23 until 19.10.2025 16:31:31
+		Duration:	04:50:08
+		Location:	50.86624 5.82189
+
+	MAW2LS1
+		Images:	798
+		Time:	19.10.2025 11:11:03 until 19.10.2025 16:50:38
+		Duration:	05:39:35
+		Location:	50.86624 5.82189
+
+	MAW2LS2
+		Images:	933
+		Time:	19.10.2025 11:23:34 until 19.10.2025 16:32:56
+		Duration:	05:09:22
+		Location:	50.86594 5.82176
+
+	SIL2
+		Images:	4164
+		Time:	19.10.2025 12:25:41 until 19.10.2025 17:05:24
+		Duration:	04:39:43
+		Location:	50.86591 5.82174
+
+(10) - Impressions / Pano
+	PANO1

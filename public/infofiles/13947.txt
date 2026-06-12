@@ -1,0 +1,79 @@
+EventId: 13947
+Spots: 11
+Total Images: 27779
+Time:	24.08.2025 06:47:39 to 24.08.2025 14:01:31
+Duration: 07:13:52
+
+(1) - 97,4 km
+	ALEP1
+		Images:	2482
+		Time:	24.08.2025 08:22:11 until 24.08.2025 13:04:40
+		Duration:	04:42:29
+		Location:	47.48769 12.00063
+
+	ALEP1DRONE1
+		Images:	22
+		Time:	24.08.2025 08:12:31 until 24.08.2025 08:19:56
+		Duration:	00:07:25
+		Location:	47.48769 12.00063
+
+	ALEP1LS2
+		Images:	1819
+		Time:	24.08.2025 07:52:30 until 24.08.2025 13:04:43
+		Duration:	05:12:13
+		Location:	47.48769 12.00063
+
+	ALEP1LS1
+		Images:	1842
+		Time:	24.08.2025 07:52:13 until 24.08.2025 12:57:48
+		Duration:	05:05:35
+		Location:	47.48769 12.00063
+
+(2) - 42,4 km
+	LKE1
+		Images:	4306
+		Time:	24.08.2025 08:05:16 until 24.08.2025 09:58:45
+		Duration:	01:53:29
+		Location:	47.52359 12.03119
+
+(3) - 46,3 km
+	SZT1
+		Images:	1657
+		Time:	24.08.2025 08:05:16 until 24.08.2025 10:05:50
+		Duration:	02:00:34
+		Location:	47.50666 11.98723
+
+(4) - 71,9 km
+	UEC1
+		Images:	1365
+		Time:	24.08.2025 09:23:07 until 24.08.2025 11:37:52
+		Duration:	02:14:45
+		Location:	47.51182 11.89833
+
+(5) - 71,6 km
+	UEC1LS2
+		Images:	907
+		Time:	24.08.2025 09:23:19 until 24.08.2025 11:36:19
+		Duration:	02:13:00
+		Location:	47.51205 11.89825
+
+	UEC1LS1
+		Images:	877
+		Time:	24.08.2025 08:23:11 until 24.08.2025 11:31:32
+		Duration:	03:08:21
+		Location:	47.51205 11.89825
+
+(6) - Start
+	ULKE1
+		Images:	2598
+		Time:	24.08.2025 06:47:39 until 24.08.2025 08:24:21
+		Duration:	01:36:42
+		Location:	47.58221 12.17040
+
+(7) - Finish
+	ULKE2
+		Images:	9904
+		Time:	24.08.2025 08:24:21 until 24.08.2025 14:01:31
+		Duration:	05:37:10
+		Location:	47.58221 12.17040
+

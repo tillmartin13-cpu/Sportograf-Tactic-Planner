@@ -1,0 +1,91 @@
+EventId: 13647
+Spots: 13
+Total Images: 94002
+Time:	17.10.2025 22:06:22 to 18.10.2026 13:45:38
+Duration: 365.15:39:16
+
+(1) - #11 CAGE CRAWL
+	GIP3
+		Images:	5716
+		Time:	18.10.2025 08:35:12 until 18.10.2025 13:24:07
+		Duration:	04:48:55
+		Location:	36.20723 -86.18759
+
+(2) - #12 JUST THE TIP
+	SICA1
+		Images:	10403
+		Time:	17.10.2026 15:59:43 until 18.10.2026 13:45:38
+		Duration:	21:45:55
+		Location:	36.20701 -86.18895
+
+	SICA1LS1
+		Images:	18285
+		Time:	18.10.2025 08:15:04 until 18.10.2025 14:23:53
+		Duration:	06:08:49
+		Location:	36.20701 -86.18895
+
+(3) - #13 THE BLOCK NESS MONSTER
+	TAT1
+		Images:	3081
+		Time:	18.10.2025 07:15:16 until 18.10.2025 14:00:29
+		Duration:	06:45:13
+		Location:	36.20650 -86.18873
+
+(4) - #14 KISS OF MUD
+	MSK1
+		Images:	16532
+		Time:	17.10.2025 22:06:22 until 18.10.2025 15:37:13
+		Duration:	17:30:51
+		Location:	36.20753 -86.18636
+
+(5) - #18 MUDDDERHORN
+	WILG1
+		Images:	8673
+		Time:	18.10.2025 06:06:17 until 18.10.2025 15:46:17
+		Duration:	09:40:00
+		Location:	36.20274 -86.18664
+
+	GIP1
+		Images:	263
+		Time:	18.10.2025 13:58:26 until 18.10.2025 14:35:51
+		Duration:	00:37:25
+		Location:	36.20274 -86.18664
+
+(6) - #19 ARCTIC ENEMA
+	STRO1
+		Images:	6414
+		Time:	18.10.2025 06:56:29 until 18.10.2025 15:44:43
+		Duration:	08:48:14
+		Location:	36.20217 -86.18698
+
+	GIP2
+		Images:	355
+		Time:	18.10.2025 13:24:37 until 18.10.2025 13:42:44
+		Duration:	00:18:07
+		Location:	36.20217 -86.18698
+
+	GIP1LS1
+		Images:	3447
+		Time:	18.10.2025 07:01:31 until 18.10.2025 15:14:31
+		Duration:	08:13:00
+		Location:	36.20217 -86.18698
+
+(7) - #20 ELECTROSHOCK THERAPY
+	MIGC1
+		Images:	19108
+		Time:	18.10.2025 06:05:12 until 18.10.2025 15:48:26
+		Duration:	09:43:14
+		Location:	36.20224 -86.18734
+
+	GIP4
+		Images:	240
+		Time:	18.10.2025 07:10:57 until 18.10.2025 13:55:46
+		Duration:	06:44:49
+		Location:	36.20224 -86.18734
+
+	GIP1LS3
+		Images:	1485
+		Time:	18.10.2025 07:54:42 until 18.10.2025 15:20:12
+		Duration:	07:25:30
+		Location:	36.20224 -86.18734
+

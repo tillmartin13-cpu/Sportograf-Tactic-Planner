@@ -1,0 +1,73 @@
+EventId: 14626
+Spots: 10
+Total Images: 9076
+Time:	11.04.2025 18:59:51 to 11.04.2025 23:20:45
+Duration: 04:20:54
+
+(1) - Sand bag carry
+	AKS1
+		Images:	2574
+		Time:	11.04.2025 20:56:23 until 11.04.2025 23:01:23
+		Duration:	02:05:00
+		Location:	48.17384 11.54760
+
+(2) - Olympiastadion
+	AKS1LS1
+		Images:	488
+		Time:	11.04.2025 20:16:41 until 11.04.2025 22:58:29
+		Duration:	02:41:48
+		Location:	48.17374 11.54598
+
+(3) - Log carry
+	NJO1
+		Images:	852
+		Time:	11.04.2025 19:52:21 until 11.04.2025 22:04:07
+		Duration:	02:11:46
+		Location:	48.17174 11.55816
+
+	NJO1LS2
+		Images:	855
+		Time:	11.04.2025 20:24:26 until 11.04.2025 22:03:55
+		Duration:	01:39:29
+		Location:	48.17174 11.55816
+
+(4) - Drone
+	NJO1DRONE1
+		Images:	11
+		Time:	11.04.2025 20:08:44 until 11.04.2025 20:10:47
+		Duration:	00:02:03
+		Location:	48.17174 11.55816
+
+(5) - Finish
+	NJO1LS1
+		Images:	905
+		Time:	11.04.2025 19:00:31 until 11.04.2025 23:06:36
+		Duration:	04:06:05
+		Location:	48.17353 11.54874
+
+	RSJ1
+		Images:	793
+		Time:	11.04.2025 20:10:24 until 11.04.2025 23:18:48
+		Duration:	03:08:24
+		Location:	48.17353 11.54874
+
+	RSJ1LS1
+		Images:	879
+		Time:	11.04.2025 18:59:51 until 11.04.2025 23:19:02
+		Duration:	04:19:11
+		Location:	48.17353 11.54874
+
+(6) - Herotent
+	YS1
+		Images:	1328
+		Time:	11.04.2025 20:18:16 until 11.04.2025 23:20:45
+		Duration:	03:02:29
+		Location:	48.17385 11.54851
+
+(7) - A-Frame
+	YS1LS1
+		Images:	391
+		Time:	11.04.2025 19:59:33 until 11.04.2025 22:38:02
+		Duration:	02:38:29
+		Location:	48.17362 11.54956
+

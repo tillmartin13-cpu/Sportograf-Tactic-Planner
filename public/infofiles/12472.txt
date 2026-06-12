@@ -1,0 +1,481 @@
+EventId: 12472
+Spots: 84
+Total Images: 250961
+Time:	30.05.2025 00:31:31 to 30.05.2025 23:02:01
+Duration: 22:30:30
+
+(1) - Finish
+	ADEHA2
+		Images:	50
+		Time:	30.05.2025 15:19:40 until 30.05.2025 15:21:58
+		Duration:	00:02:18
+		Location:	40.7595 -74.00887
+
+	AGIP1LS1
+	AGIP1LS2
+	AGIP3
+		Images:	302
+		Time:	30.05.2025 14:59:36 until 30.05.2025 15:18:56
+		Duration:	00:19:20
+		Location:	40.7595 -74.00887
+
+	AMAT2
+		Images:	1396
+		Time:	30.05.2025 09:47:39 until 30.05.2025 13:25:30
+		Duration:	03:37:51
+		Location:	40.7595 -74.00887
+
+	ATOMJ1
+		Images:	5377
+		Time:	30.05.2025 06:38:05 until 30.05.2025 14:57:35
+		Duration:	08:19:30
+		Location:	40.7595 -74.00887
+
+	BDEHA1
+		Images:	6184
+		Time:	30.05.2025 15:22:58 until 30.05.2025 23:00:36
+		Duration:	07:37:38
+		Location:	40.75950 -74.00887
+
+	BGIP1LS1
+		Images:	1371
+		Time:	30.05.2025 07:27:43 until 30.05.2025 21:25:53
+		Duration:	13:58:10
+		Location:	40.75950 -74.00887
+
+	BGIP1LS2
+		Images:	2070
+		Time:	30.05.2025 07:43:50 until 30.05.2025 21:27:05
+		Duration:	13:43:15
+		Location:	40.75950 -74.00887
+
+	BMAT3
+		Images:	917
+		Time:	30.05.2025 16:54:06 until 30.05.2025 20:44:41
+		Duration:	03:50:35
+		Location:	40.75950 -74.00887
+
+(2) - IMP
+	BBND1
+		Images:	802
+		Time:	30.05.2025 17:07:27 until 30.05.2025 17:42:29
+		Duration:	00:35:02
+		Location:	40.75950 -74.00887
+
+	BGIP1
+(3) - Medalwall
+	AMAT3
+		Images:	993
+		Time:	30.05.2025 10:41:18 until 30.05.2025 14:27:48
+		Duration:	03:46:30
+		Location:	40.7595 -74.00887
+
+	APKO1
+		Images:	2084
+		Time:	30.05.2025 08:04:05 until 30.05.2025 15:49:35
+		Duration:	07:45:30
+		Location:	40.7595 -74.00887
+
+	BMAT2
+		Images:	990
+		Time:	30.05.2025 17:42:33 until 30.05.2025 21:22:53
+		Duration:	03:40:20
+		Location:	40.75950 -74.00887
+
+	BPKO1
+		Images:	1231
+		Time:	30.05.2025 15:50:00 until 30.05.2025 23:02:01
+		Duration:	07:12:01
+		Location:	40.75950 -74.00887
+
+(4) - Station 1 Ski Erg
+	AMAT1
+		Images:	1785
+		Time:	30.05.2025 08:56:45 until 30.05.2025 12:40:19
+		Duration:	03:43:34
+		Location:	40.7595 -74.00887
+
+	AMRKE2
+		Images:	80
+		Time:	30.05.2025 15:15:36 until 30.05.2025 15:18:47
+		Duration:	00:03:11
+		Location:	40.7595 -74.00887
+
+	AVICY1
+		Images:	5716
+		Time:	30.05.2025 08:54:49 until 30.05.2025 16:41:00
+		Duration:	07:46:11
+		Location:	40.7595 -74.00887
+
+	AWMY1
+		Images:	3392
+		Time:	30.05.2025 06:48:05 until 30.05.2025 15:00:24
+		Duration:	08:12:19
+		Location:	40.7595 -74.00887
+
+	AYEP1
+		Images:	4777
+		Time:	30.05.2025 07:03:08 until 30.05.2025 15:00:38
+		Duration:	07:57:30
+		Location:	40.7595 -74.00887
+
+	BMAT1
+		Images:	1540
+		Time:	30.05.2025 16:01:44 until 30.05.2025 19:40:44
+		Duration:	03:39:00
+		Location:	40.75950 -74.00887
+
+	BMRKE1
+		Images:	4878
+		Time:	30.05.2025 15:05:58 until 30.05.2025 21:09:36
+		Duration:	06:03:38
+		Location:	40.75950 -74.00887
+
+	BPEC1
+		Images:	1997
+		Time:	30.05.2025 15:37:59 until 30.05.2025 21:11:08
+		Duration:	05:33:09
+		Location:	40.75950 -74.00887
+
+	BVICY1
+		Images:	4482
+		Time:	30.05.2025 16:06:22 until 30.05.2025 20:59:23
+		Duration:	04:53:01
+		Location:	40.75950 -74.00887
+
+(5) - Station 2 Sled Push
+	ABND2
+		Images:	2430
+		Time:	30.05.2025 07:47:04 until 30.05.2025 13:22:52
+		Duration:	05:35:48
+		Location:	40.7595 -74.00887
+
+	ADANM1
+		Images:	2633
+		Time:	30.05.2025 06:24:19 until 30.05.2025 15:02:48
+		Duration:	08:38:29
+		Location:	40.7595 -74.00887
+
+	ADEHA1
+		Images:	1980
+		Time:	30.05.2025 07:42:44 until 30.05.2025 15:18:58
+		Duration:	07:36:14
+		Location:	40.7595 -74.00887
+
+	AMAU1
+		Images:	3714
+		Time:	30.05.2025 07:42:33 until 30.05.2025 15:11:41
+		Duration:	07:29:08
+		Location:	40.7595 -74.00887
+
+	ASWDY2
+		Images:	14
+		Time:	30.05.2025 15:22:45 until 30.05.2025 15:31:20
+		Duration:	00:08:35
+		Location:	40.7595 -74.00887
+
+	ATYHA1
+		Images:	8298
+		Time:	30.05.2025 00:31:31 until 30.05.2025 15:10:42
+		Duration:	14:39:11
+		Location:	40.7595 -74.00887
+
+	AVICY3
+		Images:	30
+		Time:	30.05.2025 15:12:57 until 30.05.2025 15:17:08
+		Duration:	00:04:11
+		Location:	40.7595 -74.00887
+
+	BGAUB1
+		Images:	2031
+		Time:	30.05.2025 15:17:42 until 30.05.2025 21:28:37
+		Duration:	06:10:55
+		Location:	40.75950 -74.00887
+
+	BJSAN1
+		Images:	4341
+		Time:	30.05.2025 15:13:35 until 30.05.2025 21:27:24
+		Duration:	06:13:49
+		Location:	40.75950 -74.00887
+
+	BNIJA1
+		Images:	4550
+		Time:	30.05.2025 16:15:36 until 30.05.2025 21:24:06
+		Duration:	05:08:30
+		Location:	40.75950 -74.00887
+
+	BSWDY1
+		Images:	1840
+		Time:	30.05.2025 15:22:45 until 30.05.2025 21:22:36
+		Duration:	05:59:51
+		Location:	40.75950 -74.00887
+
+(6) - Station 3 Sled Pull
+	ADANG1
+		Images:	2687
+		Time:	30.05.2025 07:48:48 until 30.05.2025 15:06:32
+		Duration:	07:17:44
+		Location:	40.7595 -74.00887
+
+	AEUGP1
+		Images:	2649
+		Time:	30.05.2025 07:07:19 until 30.05.2025 15:14:44
+		Duration:	08:07:25
+		Location:	40.7595 -74.00887
+
+	AGAUB1
+		Images:	3118
+		Time:	30.05.2025 06:58:44 until 30.05.2025 15:10:43
+		Duration:	08:11:59
+		Location:	40.7595 -74.00887
+
+	AGIP2
+		Images:	1322
+		Time:	30.05.2025 12:15:52 until 30.05.2025 14:58:37
+		Duration:	02:42:45
+		Location:	40.7595 -74.00887
+
+	ASWDY1
+		Images:	3048
+		Time:	30.05.2025 07:34:07 until 30.05.2025 15:09:44
+		Duration:	07:35:37
+		Location:	40.7595 -74.00887
+
+	BANMF1
+		Images:	5292
+		Time:	30.05.2025 15:07:42 until 30.05.2025 21:42:15
+		Duration:	06:34:33
+		Location:	40.75950 -74.00887
+
+	BSAM1
+		Images:	6050
+		Time:	30.05.2025 15:31:57 until 30.05.2025 20:58:52
+		Duration:	05:26:55
+		Location:	40.75950 -74.00887
+
+	BTOMJ1
+		Images:	2184
+		Time:	30.05.2025 15:13:45 until 30.05.2025 21:41:58
+		Duration:	06:28:13
+		Location:	40.75950 -74.00887
+
+	BYEP1
+		Images:	7416
+		Time:	30.05.2025 15:05:13 until 30.05.2025 21:59:54
+		Duration:	06:54:41
+		Location:	40.75950 -74.00887
+
+(7) - Station 5 Rowing
+	ACCZ1
+		Images:	2707
+		Time:	30.05.2025 09:03:58 until 30.05.2025 16:36:21
+		Duration:	07:32:23
+		Location:	40.7595 -74.00887
+
+	ADANM2
+		Images:	135
+		Time:	30.05.2025 15:22:14 until 30.05.2025 15:23:12
+		Duration:	00:00:58
+		Location:	40.7595 -74.00887
+
+	AMAT5
+		Images:	135
+		Time:	30.05.2025 08:36:53 until 30.05.2025 08:41:09
+		Duration:	00:04:16
+		Location:	40.7595 -74.00887
+
+	ANIJA1
+		Images:	6859
+		Time:	30.05.2025 08:02:45 until 30.05.2025 15:20:27
+		Duration:	07:17:42
+		Location:	40.7595 -74.00887
+
+	ANIMA1
+		Images:	1749
+		Time:	30.05.2025 09:00:40 until 30.05.2025 12:39:19
+		Duration:	03:38:39
+		Location:	40.7595 -74.00887
+
+	ASAM1
+		Images:	9581
+		Time:	30.05.2025 08:08:35 until 30.05.2025 15:24:40
+		Duration:	07:16:05
+		Location:	40.7595 -74.00887
+
+	BCCZ1
+		Images:	1087
+		Time:	30.05.2025 17:40:23 until 30.05.2025 19:21:05
+		Duration:	01:40:42
+		Location:	40.75950 -74.00887
+
+	BDANM1
+		Images:	12648
+		Time:	30.05.2025 15:24:28 until 30.05.2025 22:18:00
+		Duration:	06:53:32
+		Location:	40.75950 -74.00887
+
+	BEUGP1
+		Images:	5564
+		Time:	30.05.2025 15:25:18 until 30.05.2025 22:15:53
+		Duration:	06:50:35
+		Location:	40.75950 -74.00887
+
+	BNIMA1
+		Images:	866
+		Time:	30.05.2025 16:02:17 until 30.05.2025 19:31:03
+		Duration:	03:28:46
+		Location:	40.75950 -74.00887
+
+(8) - Station 6 Farmers' Carry
+	ADANG1LS1
+	ASAM1LS1
+	BDANG1LS1
+		Images:	3883
+		Time:	30.05.2025 08:10:35 until 30.05.2025 21:08:04
+		Duration:	12:57:29
+		Location:	40.75950 -74.00887
+
+	BSAM1LS1
+		Images:	4298
+		Time:	30.05.2025 07:32:19 until 30.05.2025 21:07:29
+		Duration:	13:35:10
+		Location:	40.75950 -74.00887
+
+(9) - Station 7 Sandbag Lunges
+	AANMF1
+		Images:	10188
+		Time:	30.05.2025 07:00:03 until 30.05.2025 14:59:04
+		Duration:	07:59:01
+		Location:	40.7595 -74.00887
+
+	ACCZ2
+	AMRKE1
+		Images:	6582
+		Time:	30.05.2025 06:52:34 until 30.05.2025 15:18:47
+		Duration:	08:26:13
+		Location:	40.7595 -74.00887
+
+	ANIMA3
+		Images:	1946
+		Time:	30.05.2025 09:49:37 until 30.05.2025 15:18:43
+		Duration:	05:29:06
+		Location:	40.7595 -74.00887
+
+	AVICY4
+		Images:	169
+		Time:	30.05.2025 14:59:27 until 30.05.2025 15:07:39
+		Duration:	00:08:12
+		Location:	40.7595 -74.00887
+
+	BCCZ2
+	BMAU1
+		Images:	5291
+		Time:	30.05.2025 15:19:17 until 30.05.2025 22:47:51
+		Duration:	07:28:34
+		Location:	40.75950 -74.00887
+
+	BNIMA2
+		Images:	1173
+		Time:	30.05.2025 16:52:27 until 30.05.2025 20:27:00
+		Duration:	03:34:33
+		Location:	40.75950 -74.00887
+
+	BTYHA1
+		Images:	25485
+		Time:	30.05.2025 15:42:42 until 30.05.2025 22:55:29
+		Duration:	07:12:47
+		Location:	40.75950 -74.00887
+
+	BWMY1
+		Images:	4559
+		Time:	30.05.2025 15:08:14 until 30.05.2025 22:45:35
+		Duration:	07:37:21
+		Location:	40.75950 -74.00887
+
+(10) - Station 8 Wall Balls
+	ACCZ3
+		Images:	2064
+		Time:	30.05.2025 10:41:13 until 30.05.2025 15:20:35
+		Duration:	04:39:22
+		Location:	40.7595 -74.00887
+
+	AJSAN1
+		Images:	8036
+		Time:	30.05.2025 07:31:39 until 30.05.2025 14:57:38
+		Duration:	07:25:59
+		Location:	40.7595 -74.00887
+
+	AMAT4
+		Images:	209
+		Time:	30.05.2025 14:58:36 until 30.05.2025 15:13:09
+		Duration:	00:14:33
+		Location:	40.7595 -74.00887
+
+	ANIMA2
+		Images:	1107
+		Time:	30.05.2025 10:44:48 until 30.05.2025 14:19:29
+		Duration:	03:34:41
+		Location:	40.7595 -74.00887
+
+	ANIMA2LS1
+	APEC1
+		Images:	2574
+		Time:	30.05.2025 07:55:54 until 30.05.2025 15:36:13
+		Duration:	07:40:19
+		Location:	40.7595 -74.00887
+
+	ATYHA2
+		Images:	1093
+		Time:	30.05.2025 15:17:45 until 30.05.2025 15:42:03
+		Duration:	00:24:18
+		Location:	40.7595 -74.00887
+
+	BCCZ3
+		Images:	565
+		Time:	30.05.2025 20:58:38 until 30.05.2025 21:24:47
+		Duration:	00:26:09
+		Location:	40.75950 -74.00887
+
+	BDANG1
+		Images:	3951
+		Time:	30.05.2025 15:23:53 until 30.05.2025 23:00:19
+		Duration:	07:36:26
+		Location:	40.75950 -74.00887
+
+	BNIMA3
+		Images:	925
+		Time:	30.05.2025 17:42:05 until 30.05.2025 21:26:52
+		Duration:	03:44:47
+		Location:	40.75950 -74.00887
+
+	BNIMA3LS1
+		Images:	5399
+		Time:	30.05.2025 07:14:09 until 30.05.2025 21:37:14
+		Duration:	14:23:05
+		Location:	40.75950 -74.00887
+
+(11) - Venue
+	ABND1
+		Images:	425
+		Time:	30.05.2025 07:44:08 until 30.05.2025 07:59:37
+		Duration:	00:15:29
+		Location:	40.7595 -74.00887
+
+	AGIP1
+		Images:	676
+		Time:	30.05.2025 10:40:38 until 30.05.2025 12:10:08
+		Duration:	01:29:30
+		Location:	40.7595 -74.00887
+
+	ANIMA4
+		Images:	284
+		Time:	30.05.2025 07:02:12 until 30.05.2025 10:33:50
+		Duration:	03:31:38
+		Location:	40.7595 -74.00887
+
+	AVICY2
+		Images:	707
+		Time:	30.05.2025 10:24:59 until 30.05.2025 12:58:27
+		Duration:	02:33:28
+		Location:	40.7595 -74.00887
+

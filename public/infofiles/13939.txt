@@ -1,0 +1,193 @@
+EventId: 13939
+Spots: 30
+Total Images: 19637
+Time:	10.08.2025 14:37:15 to 17.08.2025 16:52:02
+Duration: 7.02:14:47
+
+(1) - Finish
+	LUJ1
+		Images:	3794
+		Time:	16.08.2025 09:44:49 until 16.08.2025 17:01:39
+		Duration:	07:16:50
+		Location:	46.63943 8.59077
+
+	LUJ1LS1
+		Images:	688
+		Time:	16.08.2025 10:13:55 until 16.08.2025 17:03:53
+		Duration:	06:49:58
+		Location:	46.63943 8.59077
+
+(2) - 36.0 km
+	MAWI1
+		Images:	190
+		Time:	10.08.2025 14:37:15 until 16.08.2025 06:31:13
+		Duration:	5.15:53:58
+		Location:	47.14073 8.65851
+
+	MAWI1DRONE1
+		Images:	27
+		Time:	16.08.2025 10:08:27 until 17.08.2025 16:52:02
+		Duration:	1.06:43:35
+		Location:	47.14073 8.65851
+
+	MAWI1LS1
+		Images:	170
+		Time:	16.08.2025 04:59:28 until 16.08.2025 13:43:39
+		Duration:	08:44:11
+		Location:	47.14073 8.65851
+
+	MAWI2IMP1
+		Images:	105
+		Time:	16.08.2025 10:01:06 until 16.08.2025 12:43:57
+		Duration:	02:42:51
+		Location:	47.14073 8.65851
+
+(3) - 135.0 km
+	MAWI2
+		Images:	337
+		Time:	16.08.2025 13:30:32 until 16.08.2025 16:31:20
+		Duration:	03:00:48
+		Location:	46.66209 8.58651
+
+	RONS2
+		Images:	628
+		Time:	16.08.2025 08:58:31 until 16.08.2025 11:16:24
+		Duration:	02:17:53
+		Location:	46.86980 8.85802
+
+	RONS2LS2
+		Images:	394
+		Time:	16.08.2025 09:38:38 until 16.08.2025 11:09:00
+		Duration:	01:30:22
+		Location:	46.86980 8.85802
+
+	RONS3LS1
+		Images:	323
+		Time:	16.08.2025 13:29:51 until 16.08.2025 16:18:36
+		Duration:	02:48:45
+		Location:	46.86980 8.85802
+
+	RONS2LS1
+		Images:	606
+		Time:	16.08.2025 09:35:30 until 16.08.2025 11:09:17
+		Duration:	01:33:47
+		Location:	46.86980 8.85802
+
+(4) - 190.0 km
+	MAWI2LS1
+		Images:	712
+		Time:	16.08.2025 13:44:04 until 16.08.2025 16:33:41
+		Duration:	02:49:37
+		Location:	47.14073 8.65851
+
+	MAWI3
+		Images:	121
+		Time:	16.08.2025 11:34:13 until 16.08.2025 12:04:59
+		Duration:	00:30:46
+		Location:	47.14073 8.65851
+
+(5) - 63.0 km
+	MOG1LS2
+		Images:	864
+		Time:	16.08.2025 05:05:36 until 16.08.2025 07:43:39
+		Duration:	02:38:03
+		Location:	47.13250 8.87826
+
+	MOG1
+		Images:	532
+		Time:	16.08.2025 04:59:21 until 16.08.2025 07:35:11
+		Duration:	02:35:50
+		Location:	47.13250 8.87826
+
+	MOG1LS1
+		Images:	1427
+		Time:	16.08.2025 05:11:32 until 16.08.2025 09:32:42
+		Duration:	04:21:10
+		Location:	47.13250 8.87826
+
+(6) - 192.0 km
+	MOG2
+		Images:	1400
+		Time:	16.08.2025 09:48:57 until 16.08.2025 16:38:59
+		Duration:	06:50:02
+		Location:	46.64722 8.59089
+
+	MOG2LS2
+		Images:	1563
+		Time:	16.08.2025 09:40:03 until 16.08.2025 16:37:58
+		Duration:	06:57:55
+		Location:	46.64722 8.59089
+
+	MOG2LS1
+		Images:	1551
+		Time:	16.08.2025 09:42:43 until 16.08.2025 16:39:46
+		Duration:	06:57:03
+		Location:	46.64722 8.59089
+
+(7) - Start
+	ROB1
+		Images:	324
+		Time:	16.08.2025 01:54:24 until 16.08.2025 02:45:13
+		Duration:	00:50:49
+		Location:	47.35682 8.51973
+
+(8) - 130.5 km
+	ROB3
+		Images:	869
+		Time:	16.08.2025 08:55:30 until 16.08.2025 11:25:06
+		Duration:	02:29:36
+		Location:	46.87305 8.87222
+
+	ROB3LS2
+		Images:	415
+		Time:	16.08.2025 10:03:49 until 16.08.2025 10:56:04
+		Duration:	00:52:15
+		Location:	46.87305 8.87222
+
+	ROB3LS1
+		Images:	395
+		Time:	16.08.2025 09:44:37 until 16.08.2025 10:46:15
+		Duration:	01:01:38
+		Location:	46.87305 8.87222
+
+(9) - 34.0 km
+	ROB2
+		Images:	804
+		Time:	16.08.2025 03:59:34 until 16.08.2025 05:57:37
+		Duration:	01:58:03
+		Location:	47.13743 8.60438
+
+	ROB2LS1
+		Images:	165
+		Time:	16.08.2025 04:30:28 until 16.08.2025 05:57:59
+		Duration:	01:27:31
+		Location:	47.13743 8.60438
+
+(10) - 54.0 km
+	RONS1
+		Images:	498
+		Time:	16.08.2025 05:20:45 until 16.08.2025 08:56:11
+		Duration:	03:35:26
+		Location:	47.13251 8.78622
+
+	RONS1LS2
+		Images:	119
+		Time:	15.08.2025 21:13:01 until 16.08.2025 07:06:56
+		Duration:	09:53:55
+		Location:	47.13251 8.78622
+
+	RONS1LS1
+		Images:	141
+		Time:	15.08.2025 21:10:01 until 16.08.2025 07:10:39
+		Duration:	10:00:38
+		Location:	47.13251 8.78622
+
+(11) - 188.0 km
+	RONS3
+		Images:	475
+		Time:	16.08.2025 13:35:34 until 16.08.2025 16:26:31
+		Duration:	02:50:57
+		Location:	46.66736 8.58702
+
+(12) - Impressions / Pano
+	PANO1

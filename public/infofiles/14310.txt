@@ -1,0 +1,135 @@
+EventId: 14310
+Spots: 20
+Total Images: 46124
+Time:	30.10.2025 16:32:23 to 02.11.2025 14:04:38
+Duration: 2.21:32:15
+
+(1) - Start
+	CRF1
+		Images:	54
+		Time:	31.10.2025 05:01:20 until 31.10.2025 06:26:47
+		Duration:	01:25:27
+		Location:	-34.34678 19.13022
+
+	ROWA3
+		Images:	89
+		Time:	01.11.2025 05:35:46 until 01.11.2025 06:57:16
+		Duration:	01:21:30
+		Location:	-34.15407 19.05933
+
+(2) - Stage 1 32.4KM Uphill Switchbacks
+	TAZ1
+		Images:	4227
+		Time:	31.10.2025 07:23:11 until 31.10.2025 10:04:58
+		Duration:	02:41:47
+		Location:	-34.24774 19.19097
+
+(3) - Stage 1 32.5KM Valley View
+	TAZ1LS1
+		Images:	486
+		Time:	31.10.2025 07:23:52 until 31.10.2025 08:13:55
+		Duration:	00:50:03
+		Location:	-34.24785 19.19261
+
+(4) - Stage 1 34.7KM Vineyard View
+	ROWA1
+		Images:	3390
+		Time:	31.10.2025 07:28:33 until 31.10.2025 10:11:21
+		Duration:	02:42:48
+		Location:	-34.24076 19.19780
+
+(5) - Stage 1 50.8KM Jakkalsvlei Dam
+	CRF2
+		Images:	5000
+		Time:	31.10.2025 08:09:54 until 31.10.2025 10:53:28
+		Duration:	02:43:34
+		Location:	-34.16640 19.12004
+
+(6) - Jakkalsvlei Drone
+	CRF2DRONE1
+		Images:	28
+		Time:	31.10.2025 07:56:00 until 31.10.2025 10:37:55
+		Duration:	02:41:55
+		Location:	-34.16640 19.12004
+
+(7) - Stage 2 26.4KM Single Track Bridge Approach
+	TAZ2
+		Images:	3460
+		Time:	01.11.2025 07:00:56 until 01.11.2025 09:35:45
+		Duration:	02:34:49
+		Location:	-34.15436 19.09135
+
+(8) - Stage 2 26.5KM Rietvlei Magic Bridge
+	CRF3
+		Images:	4453
+		Time:	01.11.2025 06:50:30 until 01.11.2025 09:39:33
+		Duration:	02:49:03
+		Location:	-34.15514 19.08825
+
+(9) - Rietvlei Magic Bridge Drone
+	CRF3DRONE1
+		Images:	52
+		Time:	01.11.2025 05:44:53 until 01.11.2025 08:16:30
+		Duration:	02:31:37
+		Location:	-34.15514 19.08825
+
+(10) - Stage 2 26.5KM Bridge Exit
+	TAZ2LS1
+		Images:	1064
+		Time:	01.11.2025 06:22:15 until 01.11.2025 09:39:53
+		Duration:	03:17:38
+		Location:	-34.15514 19.08825
+
+(11) - Stage 2 65.4KM Wave Rider Camera 1
+	ROWA2
+		Images:	4240
+		Time:	30.10.2025 16:32:23 until 01.11.2025 13:55:37
+		Duration:	1.21:23:14
+		Location:	-34.15618 19.05061
+
+(12) - Stage 2 65.4 Wave Rider Camera 2
+	CRF4
+		Images:	428
+		Time:	01.11.2025 12:31:39 until 01.11.2025 13:22:21
+		Duration:	00:50:42
+		Location:	-34.15618 19.05061
+
+(13) - Stage 3 43KM Cowboy Town
+	TAZ3
+		Images:	3775
+		Time:	02.11.2025 07:16:11 until 02.11.2025 11:54:55
+		Duration:	04:38:44
+		Location:	-34.05217 18.93466
+
+(14) - Stage 3 60KM Mountain View
+	CRF5
+		Images:	5739
+		Time:	02.11.2025 08:48:21 until 02.11.2025 13:50:54
+		Duration:	05:02:33
+		Location:	-34.05057 18.87972
+
+(15) - Mountain View Drone
+	CRF5DRONE1
+		Images:	38
+		Time:	02.11.2025 07:18:49 until 02.11.2025 10:36:01
+		Duration:	03:17:12
+		Location:	-34.05057 18.87972
+
+(16) - Stage 3 61.5Km Floating Bridge
+	ROWA4
+		Images:	4199
+		Time:	02.11.2025 10:28:43 until 02.11.2025 13:58:51
+		Duration:	03:30:08
+		Location:	-34.05744 18.88217
+
+(17) - Stage 3 61KM Remote Camera
+	ROWA4LS1
+(18) - Finish
+	SAKE1
+		Images:	5402
+		Time:	02.11.2025 08:43:52 until 02.11.2025 14:04:38
+		Duration:	05:20:46
+		Location:	-34.06483 18.88712
+
+(19) - Impressions / Pano
+	PANO1

@@ -1,0 +1,110 @@
+EventId: 13832
+Spots: 17
+Total Images: 44068
+Time:	22.06.2025 08:53:49 to 22.06.2025 15:55:24
+Duration: 07:01:35
+
+(1) - Swim - Impressions / Pano
+	AG1
+		Images:	142
+		Time:	22.06.2025 08:58:28 until 22.06.2025 09:57:04
+		Duration:	00:58:36
+		Location:	NULL NULL
+
+	AG1DRONE1
+		Images:	19
+		Time:	22.06.2025 10:24:24 until 22.06.2025 10:30:09
+		Duration:	00:05:45
+		Location:	NULL NULL
+
+	PANO1
+(2) - Swim - Transition zone
+	JHKE1
+		Images:	560
+		Time:	22.06.2025 08:53:49 until 22.06.2025 10:42:01
+		Duration:	01:48:12
+		Location:	NULL NULL
+
+(3) - Bike - Transition zone
+	AG2
+		Images:	866
+		Time:	22.06.2025 10:15:06 until 22.06.2025 11:09:57
+		Duration:	00:54:51
+		Location:	NULL NULL
+
+	AG2LS2
+		Images:	689
+		Time:	22.06.2025 10:08:29 until 22.06.2025 11:09:50
+		Duration:	01:01:21
+		Location:	NULL NULL
+
+	AG2LS1
+		Images:	422
+		Time:	22.06.2025 10:12:34 until 22.06.2025 11:10:23
+		Duration:	00:57:49
+		Location:	NULL NULL
+
+(4) - Bike - 0,5 km
+	ALN1
+		Images:	13060
+		Time:	22.06.2025 09:50:59 until 22.06.2025 14:30:26
+		Duration:	04:39:27
+		Location:	NULL NULL
+
+	ALN1LS2
+		Images:	5609
+		Time:	22.06.2025 09:36:51 until 22.06.2025 15:00:17
+		Duration:	05:23:26
+		Location:	NULL NULL
+
+	ALN1LS1
+		Images:	4883
+		Time:	22.06.2025 09:36:52 until 22.06.2025 15:00:18
+		Duration:	05:23:26
+		Location:	NULL NULL
+
+(5) - Run - 0,5 km
+	ALN2
+		Images:	1292
+		Time:	22.06.2025 14:30:48 until 22.06.2025 15:18:14
+		Duration:	00:47:26
+		Location:	NULL NULL
+
+	ALN2LS2
+		Images:	2694
+		Time:	22.06.2025 09:14:38 until 22.06.2025 15:14:37
+		Duration:	05:59:59
+		Location:	NULL NULL
+
+	ALN2LS1
+		Images:	2357
+		Time:	22.06.2025 09:22:03 until 22.06.2025 15:14:15
+		Duration:	05:52:12
+		Location:	NULL NULL
+
+(6) - Run - 1,0 km vor dem Hafen
+	JHKE2
+		Images:	2077
+		Time:	22.06.2025 11:02:23 until 22.06.2025 15:20:24
+		Duration:	04:18:01
+		Location:	NULL NULL
+
+(7) - Finish
+	AG3LS2
+		Images:	1419
+		Time:	22.06.2025 11:28:43 until 22.06.2025 15:31:47
+		Duration:	04:03:04
+		Location:	NULL NULL
+
+	AG3LS1
+		Images:	1757
+		Time:	22.06.2025 11:42:34 until 22.06.2025 15:38:04
+		Duration:	03:55:30
+		Location:	NULL NULL
+
+	AG3
+		Images:	6222
+		Time:	22.06.2025 11:19:19 until 22.06.2025 15:55:24
+		Duration:	04:36:05
+		Location:	NULL NULL
+

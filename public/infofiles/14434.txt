@@ -1,0 +1,109 @@
+EventId: 14434
+Spots: 15
+Total Images: 93455
+Time:	07.03.2025 17:30:44 to 08.03.2025 16:38:23
+Duration: 23:07:39
+
+(1) - Obstacle 11 Bucket Carry
+	CIFU1
+		Images:	11833
+		Time:	07.03.2025 17:31:40 until 08.03.2025 14:11:26
+		Duration:	20:39:46
+		Location:	29.91185 -96.31830
+
+(2) - Obstacle 12 A Frame
+	JMS1
+		Images:	7037
+		Time:	08.03.2025 05:59:15 until 08.03.2025 14:18:02
+		Duration:	08:18:47
+		Location:	29.91051 -96.31681
+
+(3) - Obstacle 12 Course Past A Frame
+	JOFU1LS2
+		Images:	226
+		Time:	08.03.2025 07:57:29 until 08.03.2025 14:30:49
+		Duration:	06:33:20
+		Location:	29.91084 -96.31689
+
+(4) - Obstacle 13 Multi Rig
+	VICY1
+		Images:	5537
+		Time:	08.03.2025 05:11:35 until 08.03.2025 14:10:18
+		Duration:	08:58:43
+		Location:	29.90977 -96.31646
+
+	KECO1
+		Images:	4204
+		Time:	08.03.2025 06:01:46 until 08.03.2025 14:18:49
+		Duration:	08:17:03
+		Location:	29.90998 -96.31679
+
+(5) - Obstacle 25 Barbed Wire Crawl 2
+	GAPO1
+		Images:	5672
+		Time:	08.03.2025 05:50:48 until 08.03.2025 15:24:22
+		Duration:	09:33:34
+		Location:	29.90307 -96.31032
+
+(6) - Obstacle 26 Rolling Mud
+	AKT1
+		Images:	11642
+		Time:	08.03.2025 06:03:28 until 08.03.2025 15:28:25
+		Duration:	09:24:57
+		Location:	29.90289 -96.31025
+
+(7) - Obstacle 27 Dunk Wall
+	CCZ1
+		Images:	7784
+		Time:	08.03.2025 07:49:00 until 08.03.2025 15:28:48
+		Duration:	07:39:48
+		Location:	29.90245 -96.30924
+
+(8) - Obstacle 28 Slip Wall
+	DOBR1
+		Images:	13916
+		Time:	08.03.2025 07:51:06 until 08.03.2025 16:17:46
+		Duration:	08:26:40
+		Location:	29.90261 -96.31033
+
+(9) - Obstacle 29 Plate Drag
+	AWD1
+		Images:	4660
+		Time:	08.03.2025 07:50:57 until 08.03.2025 15:32:14
+		Duration:	07:41:17
+		Location:	29.90158 -96.31103
+
+	JVI1
+		Images:	5273
+		Time:	08.03.2025 03:49:01 until 08.03.2025 15:33:19
+		Duration:	11:44:18
+		Location:	29.90158 -96.31103
+
+(10) - Obstacle 33 Fire Jump
+	JLEY1
+		Images:	11068
+		Time:	08.03.2025 06:02:50 until 08.03.2025 16:37:28
+		Duration:	10:34:38
+		Location:	29.90468 -96.31827
+
+(11) - Finish
+	JOFU1LS1
+		Images:	413
+		Time:	07.03.2025 17:37:24 until 08.03.2025 15:48:45
+		Duration:	22:11:21
+		Location:	29.90500 -96.31799
+
+(12) - Herotent
+	PRU1
+		Images:	4124
+		Time:	07.03.2025 18:11:48 until 08.03.2025 16:38:23
+		Duration:	22:26:35
+		Location:	29.90500 -96.31799
+
+(13) - Impressions / Pano
+	JOFU1
+		Images:	66
+		Time:	07.03.2025 17:30:44 until 08.03.2025 11:21:02
+		Duration:	17:50:18
+		Location:	29.90638 -96.31925
+

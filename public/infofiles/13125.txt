@@ -1,0 +1,93 @@
+EventId: 13125
+Spots: 13
+Total Images: 10384
+Time:	31.08.2025 07:25:50 to 31.08.2025 16:58:14
+Duration: 09:32:24
+
+(1) - Start
+	DABI1
+		Images:	479
+		Time:	31.08.2025 07:25:50 until 31.08.2025 08:57:19
+		Duration:	01:31:29
+		Location:	48.06931 6.86822
+
+(2) - 9,5 km
+	EVL1
+		Images:	696
+		Time:	31.08.2025 07:52:24 until 31.08.2025 09:17:59
+		Duration:	01:25:35
+		Location:	48.06218 6.98345
+
+	EVL1LS1
+		Images:	257
+		Time:	31.08.2025 07:48:05 until 31.08.2025 09:17:15
+		Duration:	01:29:10
+		Location:	48.06218 6.98345
+
+(3) - 12,5 km
+	MRO1
+		Images:	1186
+		Time:	31.08.2025 07:34:56 until 31.08.2025 09:36:28
+		Duration:	02:01:32
+		Location:	48.06177 7.01918
+
+(4) - 14,3 km
+	LBO1
+		Images:	896
+		Time:	31.08.2025 08:27:08 until 31.08.2025 09:43:06
+		Duration:	01:15:58
+		Location:	48.03721 7.00801
+
+(5) - 141,8 km
+	MRO2
+		Images:	1629
+		Time:	31.08.2025 10:01:13 until 31.08.2025 16:40:12
+		Duration:	06:38:59
+		Location:	48.05228 6.94495
+
+(6) - 143,8 km
+	LBO2
+		Images:	876
+		Time:	31.08.2025 10:13:11 until 31.08.2025 16:43:23
+		Duration:	06:30:12
+		Location:	48.03973 6.93033
+
+(7) - 155,0 km
+	EVL2
+		Images:	625
+		Time:	31.08.2025 11:17:02 until 31.08.2025 16:55:21
+		Duration:	05:38:19
+		Location:	48.02524 6.89670
+
+	EVL2LS1
+		Images:	1011
+		Time:	31.08.2025 11:15:39 until 31.08.2025 16:58:14
+		Duration:	05:42:35
+		Location:	48.02524 6.89670
+
+(8) - Finish
+	DABI2
+		Images:	2315
+		Time:	31.08.2025 11:40:42 until 31.08.2025 16:29:08
+		Duration:	04:48:26
+		Location:	48.05967 6.89239
+
+	DABI2LS1
+		Images:	400
+		Time:	31.08.2025 11:37:23 until 31.08.2025 16:32:38
+		Duration:	04:55:15
+		Location:	48.05967 6.89210
+
+(9) - Impressions / Pano
+	EVL1DRONE1
+		Images:	13
+		Time:	31.08.2025 09:01:00 until 31.08.2025 09:06:22
+		Duration:	00:05:22
+		Location:	48.06218 6.98345
+
+	PANO1
+		Images:	1
+		Time:	31.08.2025 15:30:02 until 31.08.2025 15:30:02
+		Duration:	00:00:00
+		Location:	48.06931 6.86822
+

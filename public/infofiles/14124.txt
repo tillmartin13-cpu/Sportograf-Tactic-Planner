@@ -1,0 +1,163 @@
+EventId: 14124
+Spots: 24
+Total Images: 124601
+Time:	22.06.2025 06:16:53 to 22.06.2025 16:20:38
+Duration: 10:03:45
+
+(1) - Swim - Start
+	RA1
+		Images:	9632
+		Time:	22.06.2025 06:45:53 until 22.06.2025 08:52:56
+		Duration:	02:07:03
+		Location:	52.63844 5.06468
+
+(2) - Swim - Transition zone
+	FAH1
+		Images:	2888
+		Time:	22.06.2025 06:16:53 until 22.06.2025 07:59:05
+		Duration:	01:42:12
+		Location:	52.63692 5.06377
+
+	MBEN1
+		Images:	7283
+		Time:	22.06.2025 07:01:40 until 22.06.2025 09:02:13
+		Duration:	02:00:33
+		Location:	52.637 5.06463
+
+	MBEN2
+		Images:	1802
+		Time:	22.06.2025 09:38:49 until 22.06.2025 10:20:33
+		Duration:	00:41:44
+		Location:	52.637 5.06463
+
+(3) - Bike - Transition zone
+	CAR1
+		Images:	4007
+		Time:	22.06.2025 06:54:33 until 22.06.2025 09:06:23
+		Duration:	02:11:50
+		Location:	52.63762 5.06785
+
+(4) - Bike - 3.9 km
+	RVAM1
+		Images:	3306
+		Time:	22.06.2025 07:22:36 until 22.06.2025 09:39:54
+		Duration:	02:17:18
+		Location:	52.63573 5.11061
+
+(5) - Bike - 7.5 km
+	MW1
+		Images:	2054
+		Time:	22.06.2025 07:36:23 until 22.06.2025 09:28:20
+		Duration:	01:51:57
+		Location:	52.62316 5.14764
+
+	MW2
+		Images:	897
+		Time:	22.06.2025 09:54:58 until 22.06.2025 10:46:45
+		Duration:	00:51:47
+		Location:	52.62316 5.14764
+
+	MW1DRONE1
+		Images:	51
+		Time:	22.06.2025 09:06:20 until 22.06.2025 09:18:23
+		Duration:	00:12:03
+		Location:	52.62316 5.14764
+
+	MW1LS1
+		Images:	2265
+		Time:	22.06.2025 07:36:27 until 22.06.2025 10:52:47
+		Duration:	03:16:20
+		Location:	52.62316 5.14764
+
+(6) - Bike - 17.2 km
+	EVI1
+		Images:	2652
+		Time:	22.06.2025 07:16:34 until 22.06.2025 09:53:43
+		Duration:	02:37:09
+		Location:	52.67288 5.24247
+
+	EVI2
+		Images:	668
+		Time:	22.06.2025 09:56:54 until 22.06.2025 11:09:19
+		Duration:	01:12:25
+		Location:	52.67288 5.24247
+
+(7) - Bike - 0.5 km before transition
+	CAR2
+		Images:	3419
+		Time:	22.06.2025 09:29:00 until 22.06.2025 11:53:21
+		Duration:	02:24:21
+		Location:	52.63833 5.06935
+
+(8) - Run - 6.0 km before finish
+	EVI3
+		Images:	2156
+		Time:	22.06.2025 12:12:07 until 22.06.2025 15:32:54
+		Duration:	03:20:47
+		Location:	52.63921 5.05944
+
+(9) - Run - 5.7 km before finish
+	CAR3
+		Images:	4109
+		Time:	22.06.2025 12:13:07 until 22.06.2025 14:40:46
+		Duration:	02:27:39
+		Location:	52.63753 5.06285
+
+(10) - Run - 5.5 km before finish
+	RVAM2
+		Images:	4464
+		Time:	22.06.2025 09:40:56 until 22.06.2025 15:28:16
+		Duration:	05:47:20
+		Location:	52.63753 5.06285
+
+(11) - Run - 5.0 km before finish
+	MBEN3
+		Images:	16565
+		Time:	22.06.2025 10:50:35 until 22.06.2025 15:31:17
+		Duration:	04:40:42
+		Location:	52.63684 5.05894
+
+	MBEN3LS1
+		Images:	16366
+		Time:	22.06.2025 10:49:18 until 22.06.2025 15:32:15
+		Duration:	04:42:57
+		Location:	52.63684 5.05894
+
+(12) - Run - 4.5 km before finish
+	FAH2
+		Images:	6481
+		Time:	22.06.2025 09:34:34 until 22.06.2025 15:06:13
+		Duration:	05:31:39
+		Location:	52.63862 5.05631
+
+	MW3
+		Images:	2625
+		Time:	22.06.2025 12:10:20 until 22.06.2025 14:57:36
+		Duration:	02:47:16
+		Location:	52.63862 5.05631
+
+	MW3LS1
+		Images:	3855
+		Time:	22.06.2025 12:05:54 until 22.06.2025 14:59:54
+		Duration:	02:54:00
+		Location:	52.63862 5.05631
+
+(13) - Finish
+	RA2
+		Images:	18660
+		Time:	22.06.2025 09:41:14 until 22.06.2025 16:20:38
+		Duration:	06:39:24
+		Location:	52.64170 5.04622
+
+	RA2LS2
+		Images:	4611
+		Time:	22.06.2025 09:53:38 until 22.06.2025 15:57:31
+		Duration:	06:03:53
+		Location:	52.64170 5.04622
+
+	RA2LS1
+		Images:	3785
+		Time:	22.06.2025 09:59:41 until 22.06.2025 16:20:19
+		Duration:	06:20:38
+		Location:	52.64170 5.04622
+

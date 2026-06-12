@@ -1,0 +1,129 @@
+EventId: 14854
+Spots: 20
+Total Images: 22376
+Time:	06.07.2025 06:45:31 to 06.07.2025 14:18:15
+Duration: 07:32:44
+
+(1) - Start
+	JNK1
+		Images:	514
+		Time:	06.07.2025 06:45:31 until 06.07.2025 07:22:22
+		Duration:	00:36:51
+		Location:	46.69978 10.09493
+
+(2) - 110,0 km
+	MOG2
+		Images:	1098
+		Time:	06.07.2025 10:38:40 until 06.07.2025 14:08:03
+		Duration:	03:29:23
+		Location:	46.65928 10.03693
+
+	MOG2LS2
+		Images:	1648
+		Time:	06.07.2025 10:25:21 until 06.07.2025 14:12:36
+		Duration:	03:47:15
+		Location:	46.65928 10.03693
+
+	MOG2LS1
+		Images:	1654
+		Time:	06.07.2025 10:29:18 until 06.07.2025 14:11:25
+		Duration:	03:42:07
+		Location:	46.65928 10.03693
+
+(3) - 113,0 km
+	EVL2LS2
+		Images:	1605
+		Time:	06.07.2025 10:15:24 until 06.07.2025 14:13:58
+		Duration:	03:58:34
+		Location:	46.67717 10.06994
+
+	EVL2LS1
+		Images:	1089
+		Time:	06.07.2025 10:07:34 until 06.07.2025 14:14:25
+		Duration:	04:06:51
+		Location:	46.67717 10.06994
+
+	EVL2
+		Images:	1045
+		Time:	06.07.2025 10:23:48 until 06.07.2025 14:13:12
+		Duration:	03:49:24
+		Location:	46.67717 10.06994
+
+(4) - 14,7 km
+	EVL1
+		Images:	1519
+		Time:	06.07.2025 07:14:01 until 06.07.2025 08:21:16
+		Duration:	01:07:15
+		Location:	46.74600 9.99419
+
+	EVL1LS2
+		Images:	821
+		Time:	06.07.2025 07:11:03 until 06.07.2025 08:23:55
+		Duration:	01:12:52
+		Location:	46.74600 9.99419
+
+	EVL1LS1
+		Images:	628
+		Time:	06.07.2025 07:08:18 until 06.07.2025 08:21:55
+		Duration:	01:13:37
+		Location:	46.74600 9.99419
+
+(5) - 20,3 km
+	MOG1
+		Images:	798
+		Time:	06.07.2025 07:57:48 until 06.07.2025 09:14:21
+		Duration:	01:16:33
+		Location:	46.75689 9.93921
+
+	MOG1LS2
+		Images:	1264
+		Time:	06.07.2025 07:40:51 until 06.07.2025 09:17:15
+		Duration:	01:36:24
+		Location:	46.75689 9.93921
+
+	MOG1LS1
+		Images:	1149
+		Time:	06.07.2025 07:41:57 until 06.07.2025 09:17:34
+		Duration:	01:35:37
+		Location:	46.75689 9.93921
+
+(6) - Albulaviadukte
+	ROB1
+		Images:	2354
+		Time:	06.07.2025 08:26:39 until 06.07.2025 11:57:30
+		Duration:	03:30:51
+		Location:	46.60217 9.75487
+
+	ROB1LS1
+		Images:	1671
+		Time:	06.07.2025 08:10:51 until 06.07.2025 12:03:03
+		Duration:	03:52:12
+		Location:	46.60217 9.75487
+
+	ROB1LS2
+		Images:	1188
+		Time:	06.07.2025 09:23:58 until 06.07.2025 12:02:23
+		Duration:	02:38:25
+		Location:	46.60217 9.75487
+
+(7) - Finish
+	JNK2
+		Images:	692
+		Time:	06.07.2025 10:20:54 until 06.07.2025 14:18:15
+		Duration:	03:57:21
+		Location:	46.69916 10.09400
+
+	JNK2LS1
+		Images:	1623
+		Time:	06.07.2025 10:12:03 until 06.07.2025 14:18:03
+		Duration:	04:06:00
+		Location:	46.69916 10.09400
+
+(8) - Impressions / Pano
+	EVL1DRONE1
+		Images:	16
+		Time:	06.07.2025 07:23:05 until 06.07.2025 11:11:54
+		Duration:	03:48:49
+		Location:	46.74600 9.99419
+
+	PANO1

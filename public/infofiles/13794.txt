@@ -1,0 +1,121 @@
+EventId: 13794
+Spots: 17
+Total Images: 59277
+Time:	08.06.2025 06:20:26 to 08.06.2025 18:49:03
+Duration: 12:28:37
+
+(1) - km 8 of 100K & 200K
+	SOUG1
+		Images:	4183
+		Time:	08.06.2025 06:23:21 until 08.06.2025 08:54:47
+		Duration:	02:31:26
+		Location:	53.11542 -6.53590
+
+(2) - IMP
+	SOUG1DRONE1
+		Images:	6
+		Time:	08.06.2025 06:39:54 until 08.06.2025 06:43:59
+		Duration:	00:04:05
+		Location:	53.11542 -6.53590
+
+(3) - km 14 of 100K & 200K
+	DAMU1
+		Images:	1176
+		Time:	08.06.2025 06:20:26 until 08.06.2025 08:34:28
+		Duration:	02:14:02
+		Location:	53.10445 -6.48754
+
+(4) - km 18 of 100K & 200K
+	GMU1
+		Images:	7045
+		Time:	08.06.2025 06:48:40 until 08.06.2025 08:24:37
+		Duration:	01:35:57
+		Location:	53.14033 -6.49072
+
+(5) - km 43.6 of 100K & 200K
+	HED1
+		Images:	2439
+		Time:	08.06.2025 06:58:33 until 08.06.2025 11:48:18
+		Duration:	04:49:45
+		Location:	53.13920 -6.31799
+
+(6) - km 52.5 of 100 K & 200 K
+	OHAL1
+		Images:	2797
+		Time:	08.06.2025 07:55:42 until 08.06.2025 10:36:52
+		Duration:	02:41:10
+		Location:	53.08910 -6.35392
+
+	OHAL1LS2
+		Images:	2374
+		Time:	08.06.2025 07:55:24 until 08.06.2025 10:35:29
+		Duration:	02:40:05
+		Location:	53.08910 -6.35392
+
+	OHAL1LS1
+		Images:	4000
+		Time:	08.06.2025 08:27:46 until 08.06.2025 15:49:20
+		Duration:	07:21:34
+		Location:	53.08910 -6.35392
+
+(7) - km 53.7 of 100K & 200K
+	GEB3
+		Images:	3013
+		Time:	08.06.2025 06:57:53 until 08.06.2025 10:04:01
+		Duration:	03:06:08
+		Location:	53.06398 -6.35785
+
+(8) - km 150 of 200K
+	HED2
+		Images:	1619
+		Time:	08.06.2025 11:50:53 until 08.06.2025 16:45:57
+		Duration:	04:55:04
+		Location:	52.92475 -6.38764
+
+(9) - km 155.4 of 200K
+	OHAL2
+		Images:	3074
+		Time:	08.06.2025 11:29:03 until 08.06.2025 16:55:00
+		Duration:	05:25:57
+		Location:	52.96000 -6.35439
+
+	OHAL2LS2
+		Images:	1235
+		Time:	08.06.2025 11:22:19 until 08.06.2025 16:57:16
+		Duration:	05:34:57
+		Location:	52.96000 -6.35439
+
+	OHAL2LS1
+		Images:	268
+		Time:	08.06.2025 15:50:33 until 08.06.2025 16:56:47
+		Duration:	01:06:14
+		Location:	52.96000 -6.35439
+
+(10) - km 157.9 of 200K
+	GEB2
+		Images:	1711
+		Time:	08.06.2025 12:57:36 until 08.06.2025 15:29:29
+		Duration:	02:31:53
+		Location:	52.96986 -6.31961
+
+(11) - km 73 of 100K  & 173 of 200K
+	SOUG2
+		Images:	12298
+		Time:	08.06.2025 09:28:50 until 08.06.2025 18:01:12
+		Duration:	08:32:22
+		Location:	53.04169 -6.39730
+
+(12) - km 89.7 of 100K & 189.7 of 200K
+	DAMU2
+		Images:	1491
+		Time:	08.06.2025 09:50:14 until 08.06.2025 18:24:43
+		Duration:	08:34:29
+		Location:	53.09187 -6.60116
+
+(13) - Finish
+	GMU2
+		Images:	10548
+		Time:	08.06.2025 09:20:26 until 08.06.2025 18:49:03
+		Duration:	09:28:37
+		Location:	53.14107 -6.57242
+

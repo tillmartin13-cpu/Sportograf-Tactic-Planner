@@ -1,0 +1,568 @@
+EventId: 14356
+Spots: 92
+Total Images: 615053
+Time:	05.12.2025 06:15:04 to 05.12.2025 21:51:22
+Duration: 15:36:18
+
+(1) - Farmers Carry
+	DALN1LS1
+		Images:	13174
+		Time:	05.12.2025 07:29:54 until 05.12.2025 21:16:13
+		Duration:	13:46:19
+		Location:	51.50697 0.02623
+
+	DCUP2LS1
+		Images:	8661
+		Time:	05.12.2025 06:16:59 until 05.12.2025 21:15:18
+		Duration:	14:58:19
+		Location:	51.50697 0.02623
+
+(2) - Finish
+	CBKO1
+		Images:	8462
+		Time:	05.12.2025 09:26:57 until 05.12.2025 17:57:11
+		Duration:	08:30:14
+		Location:	51.50697 0.02623
+
+	CLEBE1
+		Images:	8317
+		Time:	05.12.2025 07:54:33 until 05.12.2025 14:17:51
+		Duration:	06:23:18
+		Location:	51.50697 0.02623
+
+	DJUW2LS1
+		Images:	4750
+		Time:	05.12.2025 07:50:24 until 05.12.2025 20:42:45
+		Duration:	12:52:21
+		Location:	51.50697 0.02623
+
+	DJUW2LS2
+		Images:	5753
+		Time:	05.12.2025 07:49:46 until 05.12.2025 20:41:04
+		Duration:	12:51:18
+		Location:	51.50697 0.02623
+
+	DKYY1
+		Images:	15519
+		Time:	05.12.2025 14:17:57 until 05.12.2025 21:49:02
+		Duration:	07:31:05
+		Location:	51.50697 0.02623
+
+(3) - Hero Wall
+	CDART1
+		Images:	1897
+		Time:	05.12.2025 08:01:42 until 05.12.2025 14:13:31
+		Duration:	06:11:49
+		Location:	51.50697 0.02623
+
+	CLZA1
+		Images:	2026
+		Time:	05.12.2025 08:18:17 until 05.12.2025 14:17:53
+		Duration:	05:59:36
+		Location:	51.50697 0.02623
+
+	CMAAU1
+		Images:	4420
+		Time:	05.12.2025 07:05:51 until 05.12.2025 14:17:30
+		Duration:	07:11:39
+		Location:	51.50697 0.02623
+
+	CMKH1
+		Images:	1243
+		Time:	05.12.2025 07:54:40 until 05.12.2025 14:12:43
+		Duration:	06:18:03
+		Location:	51.50697 0.02623
+
+	DCNS1
+		Images:	1523
+		Time:	05.12.2025 14:33:44 until 05.12.2025 21:51:05
+		Duration:	07:17:21
+		Location:	51.50697 0.02623
+
+	DLEBE1
+		Images:	4722
+		Time:	05.12.2025 14:21:41 until 05.12.2025 21:45:18
+		Duration:	07:23:37
+		Location:	51.50697 0.02623
+
+	DLRE1
+		Images:	2172
+		Time:	05.12.2025 14:21:44 until 05.12.2025 21:51:22
+		Duration:	07:29:38
+		Location:	51.50697 0.02623
+
+	DYCAN1
+		Images:	4247
+		Time:	05.12.2025 14:14:16 until 05.12.2025 21:40:12
+		Duration:	07:25:56
+		Location:	51.50697 0.02623
+
+(4) - Rowing
+	CALN1
+		Images:	5299
+		Time:	05.12.2025 09:21:15 until 05.12.2025 17:56:44
+		Duration:	08:35:29
+		Location:	51.50697 0.02623
+
+	CCUP1
+		Images:	7342
+		Time:	05.12.2025 07:51:00 until 05.12.2025 18:01:21
+		Duration:	10:10:21
+		Location:	51.50697 0.02623
+
+	CGAT1
+		Images:	6064
+		Time:	05.12.2025 07:07:32 until 05.12.2025 14:13:21
+		Duration:	07:05:49
+		Location:	51.50697 0.02623
+
+	CJOEM1
+		Images:	10058
+		Time:	05.12.2025 06:35:14 until 05.12.2025 14:04:17
+		Duration:	07:29:03
+		Location:	51.50697 0.02623
+
+	CJUW1
+		Images:	7237
+		Time:	05.12.2025 06:39:02 until 05.12.2025 17:57:40
+		Duration:	11:18:38
+		Location:	51.50697 0.02623
+
+	CLSI1
+		Images:	13441
+		Time:	05.12.2025 06:51:22 until 05.12.2025 14:01:46
+		Duration:	07:10:24
+		Location:	51.50697 0.02623
+
+	CMALV1
+		Images:	9772
+		Time:	05.12.2025 09:19:45 until 05.12.2025 18:02:36
+		Duration:	08:42:51
+		Location:	51.50697 0.02623
+
+	CPLA1
+		Images:	6689
+		Time:	05.12.2025 06:19:56 until 05.12.2025 14:07:56
+		Duration:	07:48:00
+		Location:	51.50697 0.02623
+
+	DAHO1
+		Images:	6308
+		Time:	05.12.2025 14:20:50 until 05.12.2025 21:01:55
+		Duration:	06:41:05
+		Location:	51.50697 0.02623
+
+	DGUF1
+		Images:	3708
+		Time:	05.12.2025 14:07:23 until 05.12.2025 20:58:24
+		Duration:	06:51:01
+		Location:	51.50697 0.02623
+
+	DMYN1
+		Images:	3109
+		Time:	05.12.2025 14:05:29 until 05.12.2025 20:42:57
+		Duration:	06:37:28
+		Location:	51.50697 0.02623
+
+	DSHAK1
+		Images:	7158
+		Time:	05.12.2025 14:11:00 until 05.12.2025 20:45:03
+		Duration:	06:34:03
+		Location:	51.50697 0.02623
+
+(5) - Run
+	DBKO2LS1
+		Images:	6490
+		Time:	05.12.2025 07:36:09 until 05.12.2025 20:07:44
+		Duration:	12:31:35
+		Location:	51.50697 0.02623
+
+	DBKO2LS2
+		Images:	5258
+		Time:	05.12.2025 07:37:41 until 05.12.2025 20:35:21
+		Duration:	12:57:40
+		Location:	51.50697 0.02623
+
+(6) - Sandbag Lunges
+	CALN2
+		Images:	8532
+		Time:	05.12.2025 09:58:23 until 05.12.2025 18:39:37
+		Duration:	08:41:14
+		Location:	51.50697 0.02623
+
+	CCM1
+		Images:	6508
+		Time:	05.12.2025 06:58:54 until 05.12.2025 14:05:44
+		Duration:	07:06:50
+		Location:	51.50697 0.02623
+
+	CCUP2
+		Images:	3730
+		Time:	05.12.2025 09:57:54 until 05.12.2025 18:39:52
+		Duration:	08:41:58
+		Location:	51.50697 0.02623
+
+	CJUW2
+		Images:	8489
+		Time:	05.12.2025 09:58:27 until 05.12.2025 18:39:24
+		Duration:	08:40:57
+		Location:	51.50697 0.02623
+
+	CLOT1
+		Images:	6616
+		Time:	05.12.2025 06:57:11 until 05.12.2025 14:05:44
+		Duration:	07:08:33
+		Location:	51.50697 0.02623
+
+	CMALV2
+		Images:	7766
+		Time:	05.12.2025 09:58:41 until 05.12.2025 18:41:36
+		Duration:	08:42:55
+		Location:	51.50697 0.02623
+
+	CSAL1
+		Images:	4387
+		Time:	05.12.2025 07:08:01 until 05.12.2025 14:14:42
+		Duration:	07:06:41
+		Location:	51.50697 0.02623
+
+	CTOMY1
+		Images:	17073
+		Time:	05.12.2025 07:42:54 until 05.12.2025 14:11:01
+		Duration:	06:28:07
+		Location:	51.50697 0.02623
+
+	DAGP1
+		Images:	4713
+		Time:	05.12.2025 14:06:54 until 05.12.2025 21:32:32
+		Duration:	07:25:38
+		Location:	51.50697 0.02623
+
+	DDAWH1
+		Images:	9403
+		Time:	05.12.2025 14:26:57 until 05.12.2025 21:31:24
+		Duration:	07:04:27
+		Location:	51.50697 0.02623
+
+	DKMIN1
+		Images:	15831
+		Time:	05.12.2025 14:05:51 until 05.12.2025 21:26:50
+		Duration:	07:20:59
+		Location:	51.50697 0.02623
+
+	DLSI1
+		Images:	6743
+		Time:	05.12.2025 14:16:19 until 05.12.2025 21:27:31
+		Duration:	07:11:12
+		Location:	51.50697 0.02623
+
+(7) - SkiErg
+	CJAK1
+		Images:	5273
+		Time:	05.12.2025 07:03:30 until 05.12.2025 13:48:36
+		Duration:	06:45:06
+		Location:	51.50697 0.02623
+
+	CJUW4
+		Images:	921
+		Time:	05.12.2025 13:54:07 until 05.12.2025 14:07:51
+		Duration:	00:13:44
+		Location:	51.50697 0.02623
+
+	CMIMA1
+		Images:	7364
+		Time:	05.12.2025 06:39:34 until 05.12.2025 13:58:17
+		Duration:	07:18:43
+		Location:	51.50697 0.02623
+
+	COH1
+		Images:	5653
+		Time:	05.12.2025 06:38:52 until 05.12.2025 13:49:11
+		Duration:	07:10:19
+		Location:	51.50697 0.02623
+
+	CRLW1
+		Images:	10808
+		Time:	05.12.2025 07:03:08 until 05.12.2025 13:58:24
+		Duration:	06:55:16
+		Location:	51.50697 0.02623
+
+	CSHP1
+		Images:	3271
+		Time:	05.12.2025 06:35:56 until 05.12.2025 13:48:08
+		Duration:	07:12:12
+		Location:	51.50697 0.02623
+
+	CWIN1
+		Images:	8059
+		Time:	05.12.2025 07:03:16 until 05.12.2025 13:56:38
+		Duration:	06:53:22
+		Location:	51.50697 0.02623
+
+	DARRM1
+		Images:	10388
+		Time:	05.12.2025 14:04:22 until 05.12.2025 20:09:58
+		Duration:	06:05:36
+		Location:	51.50697 0.02623
+
+	DCMS1
+		Images:	19199
+		Time:	05.12.2025 14:08:08 until 05.12.2025 20:08:41
+		Duration:	06:00:33
+		Location:	51.50697 0.02623
+
+	DDP1
+		Images:	16132
+		Time:	05.12.2025 14:05:27 until 05.12.2025 20:07:50
+		Duration:	06:02:23
+		Location:	51.50697 0.02623
+
+	DJAKO1
+		Images:	4158
+		Time:	05.12.2025 14:08:58 until 05.12.2025 20:08:40
+		Duration:	05:59:42
+		Location:	51.50697 0.02623
+
+	DKSTH1
+		Images:	8111
+		Time:	05.12.2025 14:04:21 until 05.12.2025 20:08:39
+		Duration:	06:04:18
+		Location:	51.50697 0.02623
+
+	DPLA1
+		Images:	7335
+		Time:	05.12.2025 14:27:45 until 05.12.2025 20:10:22
+		Duration:	05:42:37
+		Location:	51.50697 0.02623
+
+(8) - Sled Pull
+	CARRM1
+		Images:	3729
+		Time:	05.12.2025 07:14:53 until 05.12.2025 13:56:38
+		Duration:	06:41:45
+		Location:	51.50697 0.02623
+
+	CCMS1
+		Images:	12360
+		Time:	05.12.2025 07:18:12 until 05.12.2025 13:59:17
+		Duration:	06:41:05
+		Location:	51.50697 0.02623
+
+	CJAKO1
+		Images:	5050
+		Time:	05.12.2025 07:16:33 until 05.12.2025 14:00:43
+		Duration:	06:44:10
+		Location:	51.50697 0.02623
+
+	CKSTH1
+		Images:	5478
+		Time:	05.12.2025 07:06:19 until 05.12.2025 13:56:45
+		Duration:	06:50:26
+		Location:	51.50697 0.02623
+
+	CLRE1
+		Images:	3410
+		Time:	05.12.2025 07:16:32 until 05.12.2025 13:59:55
+		Duration:	06:43:23
+		Location:	51.50697 0.02623
+
+	CYCAN1
+		Images:	15662
+		Time:	05.12.2025 06:25:02 until 05.12.2025 14:04:24
+		Duration:	07:39:22
+		Location:	51.50697 0.02623
+
+	DJAK1
+		Images:	7170
+		Time:	05.12.2025 14:01:43 until 05.12.2025 20:23:54
+		Duration:	06:22:11
+		Location:	51.50697 0.02623
+
+	DMIMA1
+		Images:	7260
+		Time:	05.12.2025 14:05:30 until 05.12.2025 20:24:52
+		Duration:	06:19:22
+		Location:	51.50697 0.02623
+
+	DOH1
+		Images:	4473
+		Time:	05.12.2025 13:56:50 until 05.12.2025 20:24:14
+		Duration:	06:27:24
+		Location:	51.50697 0.02623
+
+	DRLW1
+		Images:	9130
+		Time:	05.12.2025 14:05:18 until 05.12.2025 20:30:25
+		Duration:	06:25:07
+		Location:	51.50697 0.02623
+
+	DSHP1
+		Images:	4304
+		Time:	05.12.2025 14:04:03 until 05.12.2025 20:30:14
+		Duration:	06:26:11
+		Location:	51.50697 0.02623
+
+	DWIN1
+		Images:	6847
+		Time:	05.12.2025 14:04:24 until 05.12.2025 20:32:50
+		Duration:	06:28:26
+		Location:	51.50697 0.02623
+
+(9) - Sled Push
+	CAGP1
+		Images:	2890
+		Time:	05.12.2025 07:11:01 until 05.12.2025 13:57:46
+		Duration:	06:46:45
+		Location:	51.50697 0.02623
+
+	CALN4
+		Images:	422
+		Time:	05.12.2025 13:56:54 until 05.12.2025 14:18:18
+		Duration:	00:21:24
+		Location:	51.50697 0.02623
+
+	CDP1
+		Images:	7343
+		Time:	05.12.2025 07:10:23 until 05.12.2025 13:58:37
+		Duration:	06:48:14
+		Location:	51.50697 0.02623
+
+	CGUF1
+		Images:	2325
+		Time:	05.12.2025 07:12:02 until 05.12.2025 13:56:32
+		Duration:	06:44:30
+		Location:	51.50697 0.02623
+
+	CKMIN1
+		Images:	5865
+		Time:	05.12.2025 06:42:01 until 05.12.2025 13:30:09
+		Duration:	06:48:08
+		Location:	51.50697 0.02623
+
+	CMALV4
+		Images:	842
+		Time:	05.12.2025 14:03:22 until 05.12.2025 14:18:03
+		Duration:	00:14:41
+		Location:	51.50697 0.02623
+
+	CMYN1
+		Images:	1878
+		Time:	05.12.2025 07:11:29 until 05.12.2025 13:28:47
+		Duration:	06:17:18
+		Location:	51.50697 0.02623
+
+	CSHAK1
+		Images:	4866
+		Time:	05.12.2025 06:49:57 until 05.12.2025 13:56:57
+		Duration:	07:07:00
+		Location:	51.50697 0.02623
+
+	DCM1
+		Images:	3410
+		Time:	05.12.2025 14:13:37 until 05.12.2025 20:18:26
+		Duration:	06:04:49
+		Location:	51.50697 0.02623
+
+	DDART1
+		Images:	1704
+		Time:	05.12.2025 14:57:57 until 05.12.2025 20:18:26
+		Duration:	05:20:29
+		Location:	51.50697 0.02623
+
+	DGAT1
+		Images:	3440
+		Time:	05.12.2025 14:18:27 until 05.12.2025 20:19:44
+		Duration:	06:01:17
+		Location:	51.50697 0.02623
+
+	DJOEM1
+		Images:	5874
+		Time:	05.12.2025 14:17:08 until 05.12.2025 20:20:23
+		Duration:	06:03:15
+		Location:	51.50697 0.02623
+
+	DSAL1
+		Images:	1396
+		Time:	05.12.2025 14:26:17 until 05.12.2025 20:10:39
+		Duration:	05:44:22
+		Location:	51.50697 0.02623
+
+	DTOMY1
+		Images:	10389
+		Time:	05.12.2025 14:26:11 until 05.12.2025 20:19:03
+		Duration:	05:52:52
+		Location:	51.50697 0.02623
+
+(10) - Wall Balls
+	CAHO1
+		Images:	8017
+		Time:	05.12.2025 06:15:46 until 05.12.2025 14:12:58
+		Duration:	07:57:12
+		Location:	51.50697 0.02623
+
+	CALN3
+		Images:	4896
+		Time:	05.12.2025 10:39:56 until 05.12.2025 19:23:23
+		Duration:	08:43:27
+		Location:	51.50697 0.02623
+
+	CCNS1
+		Images:	7206
+		Time:	05.12.2025 06:46:54 until 05.12.2025 14:21:48
+		Duration:	07:34:54
+		Location:	51.50697 0.02623
+
+	CCUP3
+		Images:	3527
+		Time:	05.12.2025 10:41:28 until 05.12.2025 19:18:07
+		Duration:	08:36:39
+		Location:	51.50697 0.02623
+
+	CDAWH1
+		Images:	4462
+		Time:	05.12.2025 06:15:04 until 05.12.2025 14:13:43
+		Duration:	07:58:39
+		Location:	51.50697 0.02623
+
+	CJUW3
+		Images:	5759
+		Time:	05.12.2025 10:41:23 until 05.12.2025 19:20:58
+		Duration:	08:39:35
+		Location:	51.50697 0.02623
+
+	CKYY1
+		Images:	16559
+		Time:	05.12.2025 07:51:07 until 05.12.2025 14:15:53
+		Duration:	06:24:46
+		Location:	51.50697 0.02623
+
+	CMALV3
+		Images:	5729
+		Time:	05.12.2025 10:40:29 until 05.12.2025 19:22:51
+		Duration:	08:42:22
+		Location:	51.50697 0.02623
+
+	DLOT1
+		Images:	8804
+		Time:	05.12.2025 14:15:48 until 05.12.2025 21:45:00
+		Duration:	07:29:12
+		Location:	51.50697 0.02623
+
+	DLZA1
+		Images:	7278
+		Time:	05.12.2025 14:28:56 until 05.12.2025 21:39:46
+		Duration:	07:10:50
+		Location:	51.50697 0.02623
+
+	DMAAU1
+		Images:	7638
+		Time:	05.12.2025 14:30:17 until 05.12.2025 21:31:59
+		Duration:	07:01:42
+		Location:	51.50697 0.02623
+
+	DMKH1
+		Images:	6379
+		Time:	05.12.2025 14:20:17 until 05.12.2025 21:37:08
+		Duration:	07:16:51
+		Location:	51.50697 0.02623
+

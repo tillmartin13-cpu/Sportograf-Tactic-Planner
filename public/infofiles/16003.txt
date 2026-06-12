@@ -1,0 +1,97 @@
+EventId: 16003
+Spots: 13
+Total Images: 76216
+Time:	21.11.2024 14:23:38 to 18.05.2025 07:34:48
+Duration: 177.17:11:10
+
+(1) - Obstacle 9 Sandbag Carry
+	ELPA1
+		Images:	10400
+		Time:	17.05.2025 07:11:37 until 17.05.2025 14:05:50
+		Duration:	06:54:13
+		Location:	41.27639 -81.01641
+
+(2) - Obstacle 7 Bucket Carry
+	AWES1
+		Images:	11945
+		Time:	16.05.2025 20:29:21 until 17.05.2025 13:55:48
+		Duration:	17:26:27
+		Location:	41.27916 -81.01569
+
+(3) - Obstacle 16 Log Carry
+	DAKK1
+		Images:	9220
+		Time:	10.05.2025 09:19:03 until 18.05.2025 07:34:48
+		Duration:	7.22:15:45
+		Location:	41.27780 -81.01968
+
+(4) - Obstacle 17 Tyrolean Traverse
+	JBB1
+		Images:	10292
+		Time:	16.05.2025 17:21:00 until 18.05.2025 07:08:49
+		Duration:	1.13:47:49
+		Location:	41.27919 -81.01846
+
+(5) - Obstacle 21 Multi Rig
+	RYN1
+		Images:	3289
+		Time:	17.05.2025 08:42:34 until 17.05.2025 18:32:55
+		Duration:	09:50:21
+		Location:	41.27387 -81.01781
+
+(6) - none
+	RYN1DRONE1
+		Images:	35
+		Time:	21.11.2024 14:23:38 until 22.11.2024 13:41:37
+		Duration:	23:17:59
+		Location:	NULL NULL
+
+(7) - Obstacle 21 Multirig
+	ISAK1
+		Images:	4145
+		Time:	17.05.2025 07:15:56 until 17.05.2025 18:32:07
+		Duration:	11:16:11
+		Location:	41.27387 -81.01781
+
+(8) - Obstacle 23 Craft A Frame Cargo
+	KAH1
+		Images:	6147
+		Time:	16.05.2025 21:54:22 until 18.05.2025 07:18:24
+		Duration:	1.09:24:02
+		Location:	41.27382 -81.01548
+
+(9) - Obstacle 30 Rope Climb
+	IZZY1
+		Images:	6245
+		Time:	17.05.2025 06:23:11 until 17.05.2025 19:56:27
+		Duration:	13:33:16
+		Location:	41.26683 -81.02633
+
+(10) - Obstacle 32 Firejump
+	GMAL1
+		Images:	7299
+		Time:	17.05.2025 09:03:23 until 18.05.2025 07:22:17
+		Duration:	22:18:54
+		Location:	41.26807 -81.02673
+
+(11) - Obstacle 28 Barbed Wire Crawl #2
+	SICA1
+		Images:	3890
+		Time:	16.05.2025 17:21:00 until 18.05.2025 07:06:06
+		Duration:	1.13:45:06
+		Location:	41.26559 -81.02805
+
+(12) - Herotent 000
+	ADDS1
+		Images:	2630
+		Time:	16.05.2025 21:18:04 until 17.05.2025 20:04:30
+		Duration:	22:46:26
+		Location:	41.26828 -81.02669
+
+(13) - Impressions / Pano
+	CCZ1
+		Images:	678
+		Time:	16.05.2025 12:39:16 until 17.05.2025 10:05:09
+		Duration:	21:25:53
+		Location:	41.26828 -81.02669
+

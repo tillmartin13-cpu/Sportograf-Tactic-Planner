@@ -1,0 +1,321 @@
+EventId: 16152
+Spots: 51
+Total Images: 181988
+Time:	19.10.2025 07:45:58 to 19.10.2025 20:08:25
+Duration: 12:22:27
+
+(1) - Skierg
+	ASQ1
+		Images:	2069
+		Time:	19.10.2025 08:34:46 until 19.10.2025 15:02:04
+		Duration:	06:27:18
+		Location:	39.50369 -0.42620
+
+	JMO1
+		Images:	12253
+		Time:	19.10.2025 08:31:41 until 19.10.2025 13:39:12
+		Duration:	05:07:31
+		Location:	39.50369 -0.42620
+
+	URU1
+		Images:	9369
+		Time:	19.10.2025 08:21:54 until 19.10.2025 15:02:24
+		Duration:	06:40:30
+		Location:	39.50369 -0.42620
+
+	RAH2
+		Images:	804
+		Time:	19.10.2025 15:05:35 until 19.10.2025 16:34:02
+		Duration:	01:28:27
+		Location:	39.50369 -0.42620
+
+	RAVE2
+		Images:	6997
+		Time:	19.10.2025 15:06:42 until 19.10.2025 18:36:12
+		Duration:	03:29:30
+		Location:	39.50369 -0.42620
+
+	STO2
+		Images:	2696
+		Time:	19.10.2025 15:07:34 until 19.10.2025 18:05:27
+		Duration:	02:57:53
+		Location:	39.50369 -0.42620
+
+(2) - Sled Push
+	ROG1
+		Images:	4263
+		Time:	19.10.2025 08:09:42 until 19.10.2025 14:55:43
+		Duration:	06:46:01
+		Location:	39.50369 -0.42620
+
+	CRGA1
+		Images:	3973
+		Time:	19.10.2025 08:03:38 until 19.10.2025 14:50:24
+		Duration:	06:46:46
+		Location:	39.50369 -0.42620
+
+	RAH1
+		Images:	7114
+		Time:	19.10.2025 08:13:39 until 19.10.2025 18:36:30
+		Duration:	10:22:51
+		Location:	39.50369 -0.42620
+
+	AGAR2
+		Images:	2203
+		Time:	19.10.2025 15:05:15 until 19.10.2025 18:41:16
+		Duration:	03:36:01
+		Location:	39.50369 -0.42620
+
+	URU2
+		Images:	2722
+		Time:	19.10.2025 15:08:57 until 19.10.2025 18:24:39
+		Duration:	03:15:42
+		Location:	39.50369 -0.42620
+
+	JMO2
+		Images:	4751
+		Time:	19.10.2025 14:54:27 until 19.10.2025 18:44:40
+		Duration:	03:50:13
+		Location:	39.50369 -0.42620
+
+(3) - Sled Pull
+	JASA1
+		Images:	2811
+		Time:	19.10.2025 08:06:07 until 19.10.2025 13:47:00
+		Duration:	05:40:53
+		Location:	39.50369 -0.42620
+
+	AMRU1
+		Images:	4116
+		Time:	19.10.2025 08:08:04 until 19.10.2025 14:59:06
+		Duration:	06:51:02
+		Location:	39.50369 -0.42620
+
+	RAVE1
+		Images:	5284
+		Time:	19.10.2025 07:56:40 until 19.10.2025 15:00:02
+		Duration:	07:03:22
+		Location:	39.50369 -0.42620
+
+	ASQ2
+		Images:	821
+		Time:	19.10.2025 15:06:48 until 19.10.2025 18:50:41
+		Duration:	03:43:53
+		Location:	39.50369 -0.42620
+
+	OAC2
+		Images:	1471
+		Time:	19.10.2025 15:00:24 until 19.10.2025 18:50:27
+		Duration:	03:50:03
+		Location:	39.50369 -0.42620
+
+	ROG2
+		Images:	2773
+		Time:	19.10.2025 15:01:44 until 19.10.2025 18:44:47
+		Duration:	03:43:03
+		Location:	39.50369 -0.42620
+
+	PARO1
+		Images:	432
+		Time:	19.10.2025 09:49:28 until 19.10.2025 10:19:04
+		Duration:	00:29:36
+		Location:	39.50369 -0.42620
+
+	JRP1
+		Images:	361
+		Time:	19.10.2025 08:44:19 until 19.10.2025 10:19:25
+		Duration:	01:35:06
+		Location:	39.50369 -0.42620
+
+(4) - Rowing
+	AGAR1
+		Images:	6629
+		Time:	19.10.2025 09:02:14 until 19.10.2025 14:57:07
+		Duration:	05:54:53
+		Location:	39.50369 -0.42620
+
+	SVY1
+		Images:	5631
+		Time:	19.10.2025 08:34:58 until 19.10.2025 14:51:23
+		Duration:	06:16:25
+		Location:	39.50369 -0.42620
+
+	AMRU2
+		Images:	2891
+		Time:	19.10.2025 15:04:01 until 19.10.2025 19:14:02
+		Duration:	04:10:01
+		Location:	39.50369 -0.42620
+
+	EP2
+		Images:	4864
+		Time:	19.10.2025 14:57:52 until 19.10.2025 19:22:57
+		Duration:	04:25:05
+		Location:	39.50369 -0.42620
+
+	JCFJ2
+		Images:	2731
+		Time:	19.10.2025 16:04:27 until 19.10.2025 18:23:15
+		Duration:	02:18:48
+		Location:	39.50369 -0.42620
+
+	JRP2
+		Images:	1772
+		Time:	19.10.2025 11:01:03 until 19.10.2025 14:04:35
+		Duration:	03:03:32
+		Location:	39.50369 -0.42620
+
+	PARO2
+		Images:	4067
+		Time:	19.10.2025 11:00:47 until 19.10.2025 18:05:53
+		Duration:	07:05:06
+		Location:	39.50369 -0.42620
+
+(5) - Farmers Carry
+	PARO4LS2
+		Images:	4984
+		Time:	19.10.2025 09:10:56 until 19.10.2025 19:27:21
+		Duration:	10:16:25
+		Location:	39.50369 -0.42620
+
+	PARO4LS1
+		Images:	5778
+		Time:	19.10.2025 09:01:12 until 19.10.2025 19:30:04
+		Duration:	10:28:52
+		Location:	39.50369 -0.42620
+
+(6) - Sandbag Lunges
+	JCFJ1
+		Images:	12803
+		Time:	19.10.2025 08:05:21 until 19.10.2025 16:55:37
+		Duration:	08:50:16
+		Location:	39.50369 -0.42620
+
+	STO1
+		Images:	3284
+		Time:	19.10.2025 09:00:26 until 19.10.2025 14:59:30
+		Duration:	05:59:04
+		Location:	39.50369 -0.42620
+
+	JASA2
+		Images:	3475
+		Time:	19.10.2025 15:06:25 until 19.10.2025 19:45:29
+		Duration:	04:39:04
+		Location:	39.50369 -0.42620
+
+	CRGA2
+		Images:	3460
+		Time:	19.10.2025 14:59:50 until 19.10.2025 19:44:20
+		Duration:	04:44:30
+		Location:	39.50369 -0.42620
+
+	JCFJ3
+		Images:	1201
+		Time:	19.10.2025 16:12:45 until 19.10.2025 18:23:15
+		Duration:	02:10:30
+		Location:	39.50369 -0.42620
+
+	JRP3
+		Images:	376
+		Time:	19.10.2025 12:24:43 until 19.10.2025 12:59:00
+		Duration:	00:34:17
+		Location:	39.50369 -0.42620
+
+	PARO3
+		Images:	2034
+		Time:	19.10.2025 12:24:34 until 19.10.2025 16:40:23
+		Duration:	04:15:49
+		Location:	39.50369 -0.42620
+
+(7) - Wall Balls
+	EP1
+		Images:	5618
+		Time:	19.10.2025 08:03:33 until 19.10.2025 14:47:14
+		Duration:	06:43:41
+		Location:	39.50369 -0.42620
+
+	SVY2
+		Images:	2325
+		Time:	19.10.2025 15:01:29 until 19.10.2025 19:38:27
+		Duration:	04:36:58
+		Location:	39.50369 -0.42620
+
+	OAC1
+		Images:	2313
+		Time:	19.10.2025 08:16:22 until 19.10.2025 14:51:04
+		Duration:	06:34:42
+		Location:	39.50369 -0.42620
+
+	JMP2
+		Images:	347
+		Time:	19.10.2025 14:51:49 until 19.10.2025 15:07:38
+		Duration:	00:15:49
+		Location:	39.50369 -0.42620
+
+	JCFJ4
+		Images:	1265
+		Time:	19.10.2025 15:38:19 until 19.10.2025 19:02:15
+		Duration:	03:23:56
+		Location:	39.50369 -0.42620
+
+	JRP4
+		Images:	5002
+		Time:	19.10.2025 11:40:14 until 19.10.2025 20:04:23
+		Duration:	08:24:09
+		Location:	39.50369 -0.42620
+
+	PARO5
+		Images:	2907
+		Time:	19.10.2025 11:40:58 until 19.10.2025 15:59:48
+		Duration:	04:18:50
+		Location:	39.50369 -0.42620
+
+(8) - Finish
+	JRP4LS1
+		Images:	2094
+		Time:	19.10.2025 07:54:25 until 19.10.2025 20:06:56
+		Duration:	12:12:31
+		Location:	39.50369 -0.42620
+
+	JCFJ4LS1
+		Images:	1220
+		Time:	19.10.2025 07:45:58 until 19.10.2025 20:03:46
+		Duration:	12:17:48
+		Location:	39.50369 -0.42620
+
+	PARO6
+		Images:	835
+		Time:	19.10.2025 18:33:09 until 19.10.2025 18:49:37
+		Duration:	00:16:28
+		Location:	39.50369 -0.42620
+
+	IME2
+		Images:	2969
+		Time:	19.10.2025 15:47:40 until 19.10.2025 20:06:23
+		Duration:	04:18:43
+		Location:	39.50369 -0.42620
+
+	JMP1
+		Images:	1242
+		Time:	19.10.2025 08:01:22 until 19.10.2025 15:46:59
+		Duration:	07:45:37
+		Location:	39.50369 -0.42620
+
+	JMB1
+		Images:	7557
+		Time:	19.10.2025 08:47:26 until 19.10.2025 15:19:09
+		Duration:	06:31:43
+		Location:	39.50369 -0.42620
+
+(9) - Hero Wall
+	IME1
+		Images:	1560
+		Time:	19.10.2025 09:30:20 until 19.10.2025 15:11:12
+		Duration:	05:40:52
+		Location:	39.50369 -0.42620
+
+	JMB2
+		Images:	1471
+		Time:	19.10.2025 15:20:41 until 19.10.2025 20:08:25
+		Duration:	04:47:44
+		Location:	39.50369 -0.42620
+

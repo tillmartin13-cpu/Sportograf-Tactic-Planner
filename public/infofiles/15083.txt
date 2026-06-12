@@ -1,0 +1,376 @@
+EventId: 15083
+Spots: 60
+Total Images: 295076
+Time:	01.01.0001 23:00:00 to 06.07.2025 21:50:24
+Duration: 739436.22:50:24
+
+(1) - 0.0 km SKIERG
+	CRBR1
+		Images:	2186
+		Time:	04.07.2025 10:01:02 until 06.07.2025 10:09:14
+		Duration:	2.00:08:12
+		Location:	NULL NULL
+
+	CSM2
+		Images:	13565
+		Time:	06.07.2025 15:03:26 until 06.07.2025 20:00:44
+		Duration:	04:57:18
+		Location:	NULL NULL
+
+	CVO1
+		Images:	1907
+		Time:	06.07.2025 08:03:57 until 06.07.2025 13:39:06
+		Duration:	05:35:09
+		Location:	NULL NULL
+
+	JUBA3
+		Images:	1694
+		Time:	06.07.2025 19:04:36 until 06.07.2025 19:59:05
+		Duration:	00:54:29
+		Location:	NULL NULL
+
+	LMLS2
+		Images:	3656
+		Time:	06.07.2025 15:14:35 until 06.07.2025 19:06:29
+		Duration:	03:51:54
+		Location:	NULL NULL
+
+	NCJ1
+		Images:	4018
+		Time:	04.07.2025 08:16:12 until 06.07.2025 14:38:31
+		Duration:	2.06:22:19
+		Location:	NULL NULL
+
+	ROST1
+		Images:	15146
+		Time:	01.01.0001 23:00:00 until 06.07.2025 14:36:14
+		Duration:	739436.15:36:14
+		Location:	NULL NULL
+
+	TOSC2
+		Images:	19987
+		Time:	06.07.2025 15:04:30 until 06.07.2025 20:14:35
+		Duration:	05:10:05
+		Location:	NULL NULL
+
+	MFS5
+		Images:	378
+		Time:	06.07.2025 19:04:09 until 06.07.2025 19:19:32
+		Duration:	00:15:23
+		Location:	NULL NULL
+
+	IGM4
+		Images:	1259
+		Time:	06.07.2025 12:35:10 until 06.07.2025 16:06:24
+		Duration:	03:31:14
+		Location:	NULL NULL
+
+(2) - 0.0 km SLED PUSH
+	CRBR2
+		Images:	2454
+		Time:	06.07.2025 10:15:07 until 06.07.2025 14:50:22
+		Duration:	04:35:15
+		Location:	NULL NULL
+
+	CSM1
+		Images:	6421
+		Time:	04.07.2025 08:20:05 until 06.07.2025 14:49:50
+		Duration:	2.06:29:45
+		Location:	NULL NULL
+
+	JBR2
+		Images:	757
+		Time:	06.07.2025 14:14:31 until 06.07.2025 20:11:24
+		Duration:	05:56:53
+		Location:	NULL NULL
+
+	LMLS1
+		Images:	2904
+		Time:	06.07.2025 07:56:21 until 06.07.2025 13:46:30
+		Duration:	05:50:09
+		Location:	NULL NULL
+
+	SNT2
+		Images:	2637
+		Time:	06.07.2025 15:29:17 until 06.07.2025 20:10:45
+		Duration:	04:41:28
+		Location:	NULL NULL
+
+	TOSC1
+		Images:	13028
+		Time:	06.07.2025 08:04:24 until 06.07.2025 15:00:13
+		Duration:	06:55:49
+		Location:	NULL NULL
+
+	ZMO2
+		Images:	2469
+		Time:	06.07.2025 15:36:05 until 06.07.2025 20:14:50
+		Duration:	04:38:45
+		Location:	NULL NULL
+
+	EAP2
+		Images:	3538
+		Time:	05.07.2025 08:41:18 until 06.07.2025 08:06:57
+		Duration:	23:25:39
+		Location:	NULL NULL
+
+(3) - 0.0 km WALL BALL
+	CRBR3
+		Images:	4695
+		Time:	06.07.2025 15:08:54 until 06.07.2025 21:16:02
+		Duration:	06:07:08
+		Location:	NULL NULL
+
+	IDS1
+		Images:	6321
+		Time:	04.07.2025 07:59:37 until 06.07.2025 15:05:34
+		Duration:	2.07:05:57
+		Location:	NULL NULL
+
+	JUBA1
+		Images:	6704
+		Time:	06.07.2025 08:17:44 until 06.07.2025 14:35:26
+		Duration:	06:17:42
+		Location:	NULL NULL
+
+	SNT1
+		Images:	6528
+		Time:	06.07.2025 08:53:23 until 06.07.2025 15:06:06
+		Duration:	06:12:43
+		Location:	NULL NULL
+
+	TKU2
+		Images:	8297
+		Time:	06.07.2025 15:19:50 until 06.07.2025 21:49:24
+		Duration:	06:29:34
+		Location:	NULL NULL
+
+	VFV2
+		Images:	7547
+		Time:	06.07.2025 15:09:11 until 06.07.2025 21:28:59
+		Duration:	06:19:48
+		Location:	NULL NULL
+
+	MFS3
+		Images:	137
+		Time:	06.07.2025 17:18:52 until 06.07.2025 17:29:37
+		Duration:	00:10:45
+		Location:	NULL NULL
+
+(4) - 0.0 km ROWING
+	CVO2
+		Images:	2834
+		Time:	06.07.2025 13:42:46 until 06.07.2025 20:04:05
+		Duration:	06:21:19
+		Location:	NULL NULL
+
+	JUBA2
+		Images:	5238
+		Time:	06.07.2025 14:52:54 until 06.07.2025 18:52:32
+		Duration:	03:59:38
+		Location:	NULL NULL
+
+	MALO1
+		Images:	9373
+		Time:	05.07.2025 09:10:51 until 06.07.2025 14:48:53
+		Duration:	1.05:38:02
+		Location:	NULL NULL
+
+	TPA2
+		Images:	14826
+		Time:	05.07.2025 18:56:05 until 06.07.2025 20:55:15
+		Duration:	1.01:59:10
+		Location:	NULL NULL
+
+	VN1
+		Images:	14
+		Time:	06.07.2025 14:38:05 until 06.07.2025 14:38:43
+		Duration:	00:00:38
+		Location:	NULL NULL
+
+	EAP1
+		Images:	4250
+		Time:	03.07.2025 19:39:59 until 06.07.2025 02:48:07
+		Duration:	2.07:08:08
+		Location:	NULL NULL
+
+	MFS4
+		Images:	162
+		Time:	06.07.2025 20:23:47 until 06.07.2025 20:31:05
+		Duration:	00:07:18
+		Location:	NULL NULL
+
+	IGM3
+		Images:	405
+		Time:	06.07.2025 11:59:44 until 06.07.2025 12:13:23
+		Duration:	00:13:39
+		Location:	NULL NULL
+
+(5) - Herotent
+	IAF1
+		Images:	3546
+		Time:	06.07.2025 09:30:13 until 06.07.2025 14:50:07
+		Duration:	05:19:54
+		Location:	NULL NULL
+
+	KSL1
+		Images:	2101
+		Time:	04.07.2025 07:43:07 until 06.07.2025 14:49:44
+		Duration:	2.07:06:37
+		Location:	NULL NULL
+
+	NCJ2
+		Images:	2020
+		Time:	04.07.2025 07:49:14 until 06.07.2025 21:50:24
+		Duration:	2.14:01:10
+		Location:	NULL NULL
+
+	VN2
+		Images:	3969
+		Time:	06.07.2025 14:52:24 until 06.07.2025 18:30:40
+		Duration:	03:38:16
+		Location:	NULL NULL
+
+	IGM2
+		Images:	267
+		Time:	06.07.2025 14:51:46 until 06.07.2025 16:03:17
+		Duration:	01:11:31
+		Location:	NULL NULL
+
+(6) - 0.0 km SLED PULL
+	IAF2
+		Images:	1744
+		Time:	06.07.2025 15:17:36 until 06.07.2025 20:18:40
+		Duration:	05:01:04
+		Location:	NULL NULL
+
+	JBR1
+		Images:	1838
+		Time:	06.07.2025 08:18:35 until 06.07.2025 14:53:14
+		Duration:	06:34:39
+		Location:	NULL NULL
+
+	KSL2
+		Images:	1609
+		Time:	06.07.2025 15:05:35 until 06.07.2025 20:19:59
+		Duration:	05:14:24
+		Location:	NULL NULL
+
+	MALO2
+		Images:	7297
+		Time:	06.07.2025 15:08:28 until 06.07.2025 20:25:14
+		Duration:	05:16:46
+		Location:	NULL NULL
+
+	TKU1
+		Images:	3414
+		Time:	06.07.2025 08:20:29 until 06.07.2025 14:33:41
+		Duration:	06:13:12
+		Location:	NULL NULL
+
+	ZMO1
+		Images:	3740
+		Time:	06.07.2025 08:17:29 until 06.07.2025 15:30:42
+		Duration:	07:13:13
+		Location:	NULL NULL
+
+(7) - Finish
+	IDS2
+		Images:	9990
+		Time:	06.07.2025 15:08:18 until 06.07.2025 21:49:06
+		Duration:	06:40:48
+		Location:	NULL NULL
+
+	PBOY1
+		Images:	7388
+		Time:	06.07.2025 08:03:16 until 06.07.2025 15:07:23
+		Duration:	07:04:07
+		Location:	NULL NULL
+
+	TPA1
+		Images:	7007
+		Time:	04.07.2025 10:32:06 until 06.07.2025 15:06:44
+		Duration:	2.04:34:38
+		Location:	NULL NULL
+
+	TPA1LS1
+		Images:	7319
+		Time:	06.07.2025 12:25:02 until 06.07.2025 21:37:10
+		Duration:	09:12:08
+		Location:	NULL NULL
+
+	VFV3
+		Images:	180
+		Time:	06.07.2025 21:15:13 until 06.07.2025 21:31:06
+		Duration:	00:15:53
+		Location:	NULL NULL
+
+	VN3LS1
+		Images:	4923
+		Time:	06.07.2025 12:08:30 until 06.07.2025 21:35:17
+		Duration:	09:26:47
+		Location:	NULL NULL
+
+	WP2
+		Images:	2395
+		Time:	06.07.2025 14:59:02 until 06.07.2025 21:31:13
+		Duration:	06:32:11
+		Location:	NULL NULL
+
+	MFS1
+		Images:	1406
+		Time:	06.07.2025 11:23:17 until 06.07.2025 21:12:48
+		Duration:	09:49:31
+		Location:	NULL NULL
+
+	IGM1
+		Images:	81
+		Time:	05.07.2025 11:46:52 until 06.07.2025 16:28:26
+		Duration:	1.04:41:34
+		Location:	NULL NULL
+
+(8) - 0.0 km LUNGEES
+	PBOY2
+		Images:	11678
+		Time:	06.07.2025 15:37:23 until 06.07.2025 21:24:05
+		Duration:	05:46:42
+		Location:	NULL NULL
+
+	ROST2
+		Images:	5175
+		Time:	06.07.2025 08:03:17 until 06.07.2025 18:54:57
+		Duration:	10:51:40
+		Location:	NULL NULL
+
+	VFV1
+		Images:	8350
+		Time:	05.07.2025 07:56:01 until 06.07.2025 15:08:57
+		Duration:	1.07:12:56
+		Location:	NULL NULL
+
+	WP1
+		Images:	6293
+		Time:	06.07.2025 08:04:51 until 06.07.2025 14:58:23
+		Duration:	06:53:32
+		Location:	NULL NULL
+
+(9) - 0.0 km RUN
+	MFS2
+		Images:	402
+		Time:	06.07.2025 09:01:22 until 06.07.2025 11:06:46
+		Duration:	02:05:24
+		Location:	NULL NULL
+
+(10) - 0.0 km FARMERS CARRY
+	IGM5LS1
+		Images:	8314
+		Time:	06.07.2025 09:04:11 until 06.07.2025 20:14:34
+		Duration:	11:10:23
+		Location:	NULL NULL
+
+	IGM5LS2
+		Images:	7283
+		Time:	06.07.2025 09:08:26 until 06.07.2025 19:09:48
+		Duration:	10:01:22
+		Location:	NULL NULL
+

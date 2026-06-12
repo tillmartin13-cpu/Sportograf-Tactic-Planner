@@ -1,0 +1,78 @@
+EventId: 14406
+Spots: 11
+Total Images: 10392
+Time:	30.04.2025 17:31:40 to 30.04.2025 21:18:11
+Duration: 03:46:31
+
+(1) - Start
+	EP1
+		Images:	327
+		Time:	30.04.2025 17:40:40 until 30.04.2025 20:00:55
+		Duration:	02:20:15
+		Location:	47.26975 11.39533
+
+(2) - KM1 Inn Promenade
+	CHR1
+		Images:	1048
+		Time:	30.04.2025 18:08:37 until 30.04.2025 20:09:13
+		Duration:	02:00:36
+		Location:	47.27748 11.39671
+
+	CHR1LS1
+		Images:	351
+		Time:	30.04.2025 18:00:54 until 30.04.2025 20:09:55
+		Duration:	02:09:01
+		Location:	47.27748 11.39671
+
+	CHR1LS2
+		Images:	337
+		Time:	30.04.2025 18:02:31 until 30.04.2025 20:09:33
+		Duration:	02:07:02
+		Location:	47.27748 11.39671
+
+(3) - KM3.5 Innsbruck Blick
+	COR1LS1
+		Images:	565
+		Time:	30.04.2025 17:35:32 until 30.04.2025 20:46:30
+		Duration:	03:10:58
+		Location:	47.28610 11.39952
+
+	COR1LS2
+		Images:	554
+		Time:	30.04.2025 17:31:40 until 30.04.2025 20:46:28
+		Duration:	03:14:48
+		Location:	47.28610 11.39952
+
+(4) - KM3.75 Singletrail
+	COR1
+		Images:	1229
+		Time:	30.04.2025 17:53:29 until 30.04.2025 20:43:57
+		Duration:	02:50:28
+		Location:	47.28685 11.40159
+
+(5) - Impressions / Pano
+	COR1DRONE1
+		Images:	6
+		Time:	30.04.2025 19:17:14 until 30.04.2025 19:19:15
+		Duration:	00:02:01
+		Location:	47.28685 11.40159
+
+(6) - Finish
+	EP2
+		Images:	2066
+		Time:	30.04.2025 18:35:08 until 30.04.2025 21:18:11
+		Duration:	02:43:03
+		Location:	47.26975 11.39533
+
+	EP2LS1
+		Images:	2701
+		Time:	30.04.2025 18:29:55 until 30.04.2025 21:09:47
+		Duration:	02:39:52
+		Location:	47.26975 11.39533
+
+	EP2LS2
+		Images:	1208
+		Time:	30.04.2025 18:25:24 until 30.04.2025 21:18:06
+		Duration:	02:52:42
+		Location:	47.26975 11.39533
+

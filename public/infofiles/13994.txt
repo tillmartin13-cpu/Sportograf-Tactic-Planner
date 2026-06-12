@@ -1,0 +1,62 @@
+EventId: 13994
+Spots: 8
+Total Images: 16477
+Time:	01.01.0001 23:00:00 to 15.03.2025 16:43:58
+Duration: 739323.17:43:58
+
+(1) - 30.0 km
+	CC1
+		Images:	1260
+		Time:	15.03.2025 07:39:03 until 15.03.2025 08:46:16
+		Duration:	01:07:13
+		Location:	43.88514 7.24841
+
+(2) - 115.0 km
+	CC2
+		Images:	2515
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	43.73437 7.34814
+
+(3) - 32.0 km
+	ELLA1
+		Images:	2370
+		Time:	15.03.2025 07:12:23 until 15.03.2025 08:45:51
+		Duration:	01:33:28
+		Location:	43.79513 7.40554
+
+(4) - 100.0 km
+	LEBE1
+		Images:	1783
+		Time:	15.03.2025 09:39:14 until 15.03.2025 14:12:45
+		Duration:	04:33:31
+		Location:	43.89716 7.23733
+
+(5) - 120.0 km
+	ELLA2
+		Images:	4002
+		Time:	15.03.2025 10:04:04 until 15.03.2025 14:13:29
+		Duration:	04:09:25
+		Location:	43.71012 7.31038
+
+(6) - Start
+	LTU1
+		Images:	777
+		Time:	15.03.2025 07:18:54 until 15.03.2025 09:17:38
+		Duration:	01:58:44
+		Location:	43.69503 7.26154
+
+(7) - Finish
+	LTU2
+		Images:	2166
+		Time:	15.03.2025 09:49:22 until 15.03.2025 16:43:58
+		Duration:	06:54:36
+		Location:	43.69503 7.26154
+
+(8) - 95.0 km
+	MARY1
+		Images:	1604
+		Time:	15.03.2025 08:04:07 until 15.03.2025 14:13:20
+		Duration:	06:09:13
+		Location:	43.80308 7.40259
+

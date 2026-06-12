@@ -1,0 +1,198 @@
+EventId: 13520
+Spots: 31
+Total Images: 93884
+Time:	12.10.2025 09:19:53 to 12.10.2025 15:34:16
+Duration: 06:14:23
+
+(1) - 0,1 km
+	DRI1
+		Images:	6314
+		Time:	12.10.2025 09:45:46 until 12.10.2025 10:29:49
+		Duration:	00:44:03
+		Location:	51.40700 7.01764
+
+	DRI1LS1
+		Images:	1401
+		Time:	12.10.2025 09:21:00 until 12.10.2025 10:46:38
+		Duration:	01:25:38
+		Location:	51.40700 7.01764
+
+	DRI1LS2
+		Images:	1716
+		Time:	12.10.2025 09:31:40 until 12.10.2025 10:31:00
+		Duration:	00:59:20
+		Location:	51.40700 7.01764
+
+(2) - 0,8 km
+	ALN1
+		Images:	3777
+		Time:	12.10.2025 09:48:41 until 12.10.2025 10:39:54
+		Duration:	00:51:13
+		Location:	51.40315 7.00718
+
+	ALN1LS2
+		Images:	770
+		Time:	12.10.2025 09:32:42 until 12.10.2025 10:41:22
+		Duration:	01:08:40
+		Location:	51.40315 7.00718
+
+	ALN1LS1
+		Images:	961
+		Time:	12.10.2025 09:19:53 until 12.10.2025 10:41:25
+		Duration:	01:21:32
+		Location:	51.40315 7.00718
+
+(3) - Impressions / Pano
+	AG3
+		Images:	29
+		Time:	12.10.2025 14:11:50 until 12.10.2025 14:30:41
+		Duration:	00:18:51
+		Location:	51.40691 7.01980
+
+	AG2DRONE1
+		Images:	20
+		Time:	12.10.2025 11:54:20 until 12.10.2025 11:59:13
+		Duration:	00:04:53
+		Location:	51.39845 7.00512
+
+	PANO1
+(4) - 8,0 km Essen-Werden
+	AG1
+		Images:	9083
+		Time:	12.10.2025 09:50:36 until 12.10.2025 11:04:09
+		Duration:	01:13:33
+		Location:	51.39296 7.00024
+
+	AG1LS2
+		Images:	998
+		Time:	12.10.2025 09:59:13 until 12.10.2025 10:57:59
+		Duration:	00:58:46
+		Location:	51.39296 7.00024
+
+	AG1LS1
+		Images:	1276
+		Time:	12.10.2025 09:53:22 until 12.10.2025 11:01:07
+		Duration:	01:07:45
+		Location:	51.39296 7.00024
+
+(5) - 15,5 km Kupferdreh
+	DPH1
+		Images:	3583
+		Time:	12.10.2025 10:23:21 until 12.10.2025 11:59:45
+		Duration:	01:36:24
+		Location:	51.39276 7.07640
+
+	DPH1LS1
+		Images:	1589
+		Time:	12.10.2025 10:18:44 until 12.10.2025 12:00:25
+		Duration:	01:41:41
+		Location:	51.39276 7.07640
+
+(6) - 15,0 km Kupferdreh
+	RA1
+		Images:	5600
+		Time:	12.10.2025 10:21:51 until 12.10.2025 12:01:00
+		Duration:	01:39:09
+		Location:	51.39018 7.07559
+
+	RA1LS2
+		Images:	1597
+		Time:	12.10.2025 10:04:41 until 12.10.2025 12:01:06
+		Duration:	01:56:25
+		Location:	51.39018 7.07559
+
+	RA1LS1
+		Images:	1486
+		Time:	12.10.2025 09:58:14 until 12.10.2025 12:01:06
+		Duration:	02:02:52
+		Location:	51.39018 7.07559
+
+(7) - 27,0 km Hardenbergufer
+	AG2LS1
+		Images:	563
+		Time:	12.10.2025 11:21:06 until 12.10.2025 13:20:20
+		Duration:	01:59:14
+		Location:	51.39845 7.00512
+
+	AG2LS2
+		Images:	632
+		Time:	12.10.2025 11:23:00 until 12.10.2025 13:22:29
+		Duration:	01:59:29
+		Location:	51.39845 7.00512
+
+	AG2
+		Images:	3296
+		Time:	12.10.2025 11:32:47 until 12.10.2025 13:40:57
+		Duration:	02:08:10
+		Location:	51.39845 7.00512
+
+(8) - 36,5 km Stauseebogen
+	DPH2
+		Images:	1762
+		Time:	12.10.2025 12:47:39 until 12.10.2025 15:03:44
+		Duration:	02:16:05
+		Location:	51.39279 7.07376
+
+	DPH2LS1
+		Images:	701
+		Time:	12.10.2025 12:38:52 until 12.10.2025 15:04:22
+		Duration:	02:25:30
+		Location:	51.39279 7.07376
+
+(9) - 37,0 km
+	RA2
+		Images:	3964
+		Time:	12.10.2025 12:36:15 until 12.10.2025 15:03:34
+		Duration:	02:27:19
+		Location:	51.39195 7.07336
+
+	RA2LS2
+		Images:	848
+		Time:	12.10.2025 12:29:34 until 12.10.2025 15:03:41
+		Duration:	02:34:07
+		Location:	51.39195 7.07336
+
+	RA2LS1
+		Images:	823
+		Time:	12.10.2025 12:32:32 until 12.10.2025 15:03:45
+		Duration:	02:31:13
+		Location:	51.39195 7.07336
+
+(10) - 0,8 km vor dem Ziel
+	ALN2
+		Images:	9991
+		Time:	12.10.2025 11:24:43 until 12.10.2025 14:57:00
+		Duration:	03:32:17
+		Location:	51.40800 7.02870
+
+	ALN2LS1
+		Images:	2084
+		Time:	12.10.2025 11:19:53 until 12.10.2025 14:29:42
+		Duration:	03:09:49
+		Location:	51.40800 7.02870
+
+	ALN2LS2
+		Images:	2112
+		Time:	12.10.2025 11:17:43 until 12.10.2025 14:44:48
+		Duration:	03:27:05
+		Location:	51.40800 7.02870
+
+(11) - Finish
+	DRI2LS1
+		Images:	4329
+		Time:	12.10.2025 10:49:14 until 12.10.2025 15:29:16
+		Duration:	04:40:02
+		Location:	51.40691 7.01980
+
+	DRI2LS2
+		Images:	6207
+		Time:	12.10.2025 10:42:51 until 12.10.2025 15:28:06
+		Duration:	04:45:15
+		Location:	51.40691 7.01980
+
+	DRI2
+		Images:	16372
+		Time:	12.10.2025 10:46:52 until 12.10.2025 15:34:16
+		Duration:	04:47:24
+		Location:	51.40691 7.01980
+

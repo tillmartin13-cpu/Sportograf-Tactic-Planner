@@ -1,0 +1,146 @@
+EventId: 14108
+Spots: 21
+Total Images: 18005
+Time:	01.01.0001 23:00:00 to 06.12.2025 14:21:22
+Duration: 739589.15:21:22
+
+(1) - Start and Imporessions
+	CRF1
+		Images:	34
+		Time:	05.12.2025 11:18:01 until 05.12.2025 12:10:32
+		Duration:	00:52:31
+		Location:	-22.62114 17.09254
+
+(2) - Start and Impressions
+	NJO1
+		Images:	77
+		Time:	05.12.2025 11:42:50 until 05.12.2025 12:17:54
+		Duration:	00:35:04
+		Location:	-22.62114 17.09254
+
+(3) - 22.0 km Supporter Fun
+	TAZ1
+		Images:	1845
+		Time:	05.12.2025 13:45:12 until 05.12.2025 15:59:41
+		Duration:	02:14:29
+		Location:	-22.71087 16.96449
+
+(4) - 22.9 km Supporter Fun
+	JHI1
+		Images:	1028
+		Time:	05.12.2025 12:37:42 until 05.12.2025 17:14:17
+		Duration:	04:36:35
+		Location:	-22.71087 16.96449
+
+(5) - 22.9 km Through the Supporters LS
+	JHI1LS1
+		Images:	580
+		Time:	05.12.2025 12:11:05 until 05.12.2025 16:00:50
+		Duration:	03:49:45
+		Location:	-22.71087 16.96449
+
+(6) - On The Road Various
+	TAZ2
+		Images:	333
+		Time:	05.12.2025 17:11:02 until 05.12.2025 19:33:35
+		Duration:	02:22:33
+		Location:	-23.02533 16.34299
+
+(7) - 36.3 km On The Road before Water Point 1
+	NJO3
+		Images:	111
+		Time:	05.12.2025 12:50:32 until 05.12.2025 14:51:14
+		Duration:	02:00:42
+		Location:	-22.97060 16.45342
+
+(8) - 88.8 km US Pass
+	NJO2
+		Images:	973
+		Time:	05.12.2025 15:08:35 until 05.12.2025 19:06:51
+		Duration:	03:58:16
+		Location:	-22.79419 16.88449
+
+(9) - 88.8 km Us Pass LS
+	NJO2LS1
+		Images:	902
+		Time:	05.12.2025 08:21:55 until 05.12.2025 20:05:07
+		Duration:	11:43:12
+		Location:	-22.97060 16.45342
+
+(10) - 89.9 km Us Pass
+	CRF2
+		Images:	608
+		Time:	05.12.2025 16:47:36 until 05.12.2025 20:07:54
+		Duration:	03:20:18
+		Location:	-22.97360 16.44453
+
+(11) - Drone Varios Distances
+	CRF2DRONE1
+		Images:	28
+		Time:	05.12.2025 13:11:40 until 06.12.2025 13:11:50
+		Duration:	1.00:00:10
+		Location:	-22.97060 16.45342
+
+(12) - Oasis Night Fun
+	NJO5
+		Images:	85
+		Time:	05.12.2025 19:06:53 until 05.12.2025 23:24:05
+		Duration:	04:17:12
+		Location:	-22.97060 16.45342
+
+(13) - 0.0 km Night Riders Various
+	JHI2
+		Images:	200
+		Time:	01.01.0001 23:00:00 until 06.12.2025 01:34:29
+		Duration:	739589.02:34:29
+		Location:	-23.02533 16.34299
+
+(14) - On The Road and Waterpoint
+	JHI3
+		Images:	200
+		Time:	01.01.0001 23:00:00 until 06.12.2025 01:34:29
+		Duration:	739589.02:34:29
+		Location:	-23.02533 16.34299
+
+(15) - 357.0 km Moon Landscape
+	JHI4
+		Images:	820
+		Time:	01.01.0001 23:00:00 until 06.12.2025 11:19:02
+		Duration:	739589.12:19:02
+		Location:	-22.62926 14.80840
+
+	JHI4LS1
+(16) - 357.0 km Sand and Rock Moonscape
+	TAZ3
+		Images:	3990
+		Time:	06.12.2025 04:58:30 until 06.12.2025 11:04:06
+		Duration:	06:05:36
+		Location:	-22.62826 14.80723
+
+(17) - 400.8 km Wooden Bridge Finish Approach
+	CRF3
+		Images:	3235
+		Time:	06.12.2025 05:06:05 until 06.12.2025 14:20:51
+		Duration:	09:14:46
+		Location:	-22.64672 14.52652
+
+(18) - Finish
+	NJO4
+		Images:	2283
+		Time:	06.12.2025 04:51:45 until 06.12.2025 14:21:22
+		Duration:	09:29:37
+		Location:	-22.64562 14.52621
+
+	NJO4LS1
+		Images:	672
+		Time:	06.12.2025 02:00:01 until 06.12.2025 13:54:09
+		Duration:	11:54:08
+		Location:	-22.64562 14.52621
+
+(19) - Impressions / Pano
+	PANO1
+		Images:	1
+		Time:	05.12.2025 14:14:48 until 05.12.2025 14:14:48
+		Duration:	00:00:00
+		Location:	NULL NULL
+

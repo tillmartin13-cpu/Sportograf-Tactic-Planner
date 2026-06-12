@@ -1,0 +1,132 @@
+EventId: 14010
+Spots: 19
+Total Images: 118496
+Time:	24.05.2025 08:09:33 to 24.05.2025 17:12:24
+Duration: 09:02:51
+
+(1) - Start
+	HJS2
+		Images:	127
+		Time:	24.05.2025 09:23:35 until 24.05.2025 10:02:06
+		Duration:	00:38:31
+		Location:	50.09887 8.80016
+
+(2) - Seiltanz
+	KG1
+		Images:	4031
+		Time:	24.05.2025 08:09:33 until 24.05.2025 15:36:12
+		Duration:	07:26:39
+		Location:	50.09840 8.79909
+
+(3) - Schlammbecken
+	NE1
+		Images:	5230
+		Time:	24.05.2025 09:51:25 until 24.05.2025 15:57:55
+		Duration:	06:06:30
+		Location:	50.09969 8.79694
+
+	ROC1
+		Images:	12932
+		Time:	24.05.2025 09:29:10 until 24.05.2025 15:57:16
+		Duration:	06:28:06
+		Location:	50.09969 8.79694
+
+(4) - Laufstrecke
+	KG1LS1
+		Images:	3401
+		Time:	24.05.2025 10:15:17 until 24.05.2025 14:48:43
+		Duration:	04:33:26
+		Location:	50.09864 8.79916
+
+(5) - Gitterbecken
+	SBRO1
+		Images:	6823
+		Time:	24.05.2025 08:34:55 until 24.05.2025 15:50:30
+		Duration:	07:15:35
+		Location:	50.09965 8.79695
+
+	MIGE1
+		Images:	14882
+		Time:	24.05.2025 09:36:53 until 24.05.2025 16:00:36
+		Duration:	06:23:43
+		Location:	50.09965 8.79695
+
+(6) - Schaumparty
+	LTH1
+		Images:	6094
+		Time:	24.05.2025 08:51:15 until 24.05.2025 16:23:56
+		Duration:	07:32:41
+		Location:	50.09478 8.79684
+
+(7) - Krabbelstrecke
+	AFR1
+		Images:	12719
+		Time:	24.05.2025 09:30:14 until 24.05.2025 16:17:51
+		Duration:	06:47:37
+		Location:	50.09687 8.79373
+
+	JDA1
+		Images:	6040
+		Time:	24.05.2025 09:46:43 until 24.05.2025 16:33:06
+		Duration:	06:46:23
+		Location:	50.09687 8.79373
+
+(8) - Tauchbecken
+	DOC1
+		Images:	4135
+		Time:	24.05.2025 10:01:22 until 24.05.2025 16:22:52
+		Duration:	06:21:30
+		Location:	50.09667 8.79378
+
+	MIB1
+		Images:	6800
+		Time:	24.05.2025 09:23:58 until 24.05.2025 16:33:43
+		Duration:	07:09:45
+		Location:	50.09667 8.79378
+
+(9) - Abenteuerbahn
+	NBA1
+		Images:	10712
+		Time:	24.05.2025 10:02:47 until 24.05.2025 16:38:24
+		Duration:	06:35:37
+		Location:	50.09744 8.79436
+
+(10) - Containerrutsche
+	VIT1
+		Images:	10080
+		Time:	24.05.2025 09:14:15 until 24.05.2025 16:48:21
+		Duration:	07:34:06
+		Location:	50.09609 8.79971
+
+(11) - Finish
+	HJS3
+		Images:	7293
+		Time:	24.05.2025 10:13:32 until 24.05.2025 17:10:25
+		Duration:	06:56:53
+		Location:	50.09529 8.79966
+
+	ROB1LS2
+		Images:	1334
+		Time:	24.05.2025 09:37:08 until 24.05.2025 17:10:57
+		Duration:	07:33:49
+		Location:	50.09529 8.79966
+
+	ROB1LS1
+		Images:	1717
+		Time:	24.05.2025 09:32:13 until 24.05.2025 17:10:57
+		Duration:	07:38:44
+		Location:	50.09529 8.79966
+
+(12) - Herotent
+	NKR1
+		Images:	2421
+		Time:	24.05.2025 09:33:00 until 24.05.2025 17:12:24
+		Duration:	07:39:24
+		Location:	50.09603 8.80008
+
+	ROB1
+		Images:	1725
+		Time:	24.05.2025 10:41:29 until 24.05.2025 16:41:00
+		Duration:	05:59:31
+		Location:	50.09603 8.80008
+

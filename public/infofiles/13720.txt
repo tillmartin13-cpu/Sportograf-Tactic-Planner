@@ -1,0 +1,289 @@
+EventId: 13720
+Spots: 44
+Total Images: 175087
+Time:	01.01.0001 23:00:00 to 16.06.2025 12:29:06
+Duration: 739416.13:29:06
+
+(1) - Start
+	MDS1
+		Images:	1516
+		Time:	15.06.2025 06:15:58 until 15.06.2025 07:08:42
+		Duration:	00:52:44
+		Location:	46.02085 11.90224
+
+	NBI1
+		Images:	854
+		Time:	15.06.2025 06:15:17 until 15.06.2025 07:09:29
+		Duration:	00:54:12
+		Location:	46.02085 11.90224
+
+(2) - 12.4 km Cesiomaaggiore
+	RAM1
+		Images:	2182
+		Time:	15.06.2025 07:23:07 until 15.06.2025 10:37:26
+		Duration:	03:14:19
+		Location:	46.08616 11.99497
+
+	RAM1LS1
+		Images:	2278
+		Time:	01.01.0001 23:00:00 until 15.06.2025 10:11:47
+		Duration:	739415.11:11:47
+		Location:	46.08616 11.99497
+
+	RAM1LS2
+		Images:	1216
+		Time:	15.06.2025 07:22:58 until 15.06.2025 09:21:36
+		Duration:	01:58:38
+		Location:	46.08616 11.99497
+
+(3) - Impressions / Pano
+	RAM1DRONE1
+		Images:	19
+		Time:	16.06.2025 12:18:18 until 16.06.2025 12:29:06
+		Duration:	00:10:48
+		Location:	46.08616 11.99499
+
+	MTR1DRONE1
+		Images:	30
+		Time:	15.06.2025 13:47:33 until 15.06.2025 13:54:11
+		Duration:	00:06:38
+		Location:	46.08617 11.99429
+
+(4) - 13.0 km Cesiomaaggiore
+	MTR1LS2
+		Images:	1428
+		Time:	15.06.2025 07:05:46 until 15.06.2025 07:51:47
+		Duration:	00:46:01
+		Location:	46.08617 11.99423
+
+	MTR1
+		Images:	1697
+		Time:	15.06.2025 07:15:08 until 15.06.2025 07:45:33
+		Duration:	00:30:25
+		Location:	46.08617 11.99423
+
+	MTR1LS1
+		Images:	1475
+		Time:	15.06.2025 07:13:31 until 15.06.2025 07:48:59
+		Duration:	00:35:28
+		Location:	46.08617 11.99423
+
+(5) - 18.0 km S. Gregorio nelle Alpi
+	DDF1
+		Images:	2164
+		Time:	15.06.2025 07:27:23 until 15.06.2025 07:56:45
+		Duration:	00:29:22
+		Location:	46.09361 12.00246
+
+	DDF1LS1
+		Images:	2746
+		Time:	15.06.2025 06:54:48 until 15.06.2025 09:52:18
+		Duration:	02:57:30
+		Location:	46.09361 12.00246
+
+(6) - 90.5 km Forcella Staulanza
+	LULE1
+		Images:	2430
+		Time:	15.06.2025 10:14:58 until 15.06.2025 12:22:42
+		Duration:	02:07:44
+		Location:	46.42863 12.11073
+
+	LULE1LS1
+		Images:	2790
+		Time:	15.06.2025 09:57:48 until 15.06.2025 12:19:36
+		Duration:	02:21:48
+		Location:	46.42863 12.11073
+
+(7) - 91.0 km Forcella Staulanza
+	GAZ1
+		Images:	7596
+		Time:	15.06.2025 10:02:29 until 15.06.2025 12:26:54
+		Duration:	02:24:25
+		Location:	46.42729 12.11283
+
+	GAZ1LS2
+		Images:	881
+		Time:	15.06.2025 10:11:15 until 15.06.2025 12:28:54
+		Duration:	02:17:39
+		Location:	46.42729 12.11283
+
+	GAZ1LS1
+		Images:	1364
+		Time:	15.06.2025 09:59:17 until 15.06.2025 12:29:03
+		Duration:	02:29:46
+		Location:	46.42729 12.11283
+
+(8) - 93.0 km Forcella Staulanza
+	FUP1
+		Images:	2092
+		Time:	15.06.2025 09:59:36 until 15.06.2025 12:43:58
+		Duration:	02:44:22
+		Location:	46.41862 12.09538
+
+(9) - 111.2 km Passo Duran
+	RSA1
+		Images:	1977
+		Time:	15.06.2025 09:39:28 until 15.06.2025 14:05:30
+		Duration:	04:26:02
+		Location:	46.32642 12.09699
+
+(10) - 114.0 km Passo Duran
+	GMA1
+		Images:	1782
+		Time:	15.06.2025 10:03:24 until 15.06.2025 14:01:15
+		Duration:	03:57:51
+		Location:	46.31241 12.09468
+
+(11) - 130.0 km La Valle Agordina
+	MIPA1
+		Images:	1511
+		Time:	15.06.2025 10:38:07 until 15.06.2025 14:26:46
+		Duration:	03:48:39
+		Location:	46.28312 12.06805
+
+(12) - 149.0 km Sagron
+	PINO1
+		Images:	5869
+		Time:	15.06.2025 09:19:01 until 15.06.2025 16:50:37
+		Duration:	07:31:36
+		Location:	46.19605 11.92426
+
+(13) - 147.8 km Sagron
+	RLLA1
+		Images:	17583
+		Time:	15.06.2025 08:55:07 until 15.06.2025 17:09:07
+		Duration:	08:14:00
+		Location:	46.19758 11.91905
+
+(14) - 155.0 km Sagron
+	EB1
+		Images:	9114
+		Time:	15.06.2025 08:37:47 until 15.06.2025 17:20:00
+		Duration:	08:42:13
+		Location:	46.19122 11.88991
+
+	EB1LS2
+		Images:	3767
+		Time:	15.06.2025 07:58:57 until 15.06.2025 17:24:59
+		Duration:	09:26:02
+		Location:	46.19122 11.88991
+
+	EB1LS1
+		Images:	3771
+		Time:	15.06.2025 08:15:15 until 15.06.2025 17:25:20
+		Duration:	09:10:05
+		Location:	46.19122 11.88991
+
+(15) - 163.0 km Mezzano
+	MMO1
+		Images:	13761
+		Time:	15.06.2025 06:53:56 until 15.06.2025 17:46:05
+		Duration:	10:52:09
+		Location:	46.14030 11.77531
+
+(16) - 189.0 km Croce D´Àune
+	RAM2
+		Images:	12217
+		Time:	15.06.2025 10:06:44 until 15.06.2025 18:20:48
+		Duration:	08:14:04
+		Location:	46.06130 11.82957
+
+	RAM2LS2
+		Images:	5637
+		Time:	15.06.2025 09:30:58 until 15.06.2025 18:18:32
+		Duration:	08:47:34
+		Location:	46.06130 11.82957
+
+	RAM2LS1
+		Images:	7231
+		Time:	01.01.0001 23:00:00 until 15.06.2025 18:29:09
+		Duration:	739415.19:29:09
+		Location:	46.06130 11.82957
+
+(17) - 175.0 km Croce D´Àune
+	MTR2LS2
+		Images:	4240
+		Time:	15.06.2025 09:15:10 until 15.06.2025 18:03:36
+		Duration:	08:48:26
+		Location:	46.06130 11.82957
+
+	MTR2
+		Images:	9215
+		Time:	15.06.2025 10:11:36 until 15.06.2025 18:00:20
+		Duration:	07:48:44
+		Location:	46.06130 11.82957
+
+	MTR2LS1
+		Images:	5898
+		Time:	15.06.2025 09:27:07 until 15.06.2025 18:10:45
+		Duration:	08:43:38
+		Location:	46.06130 11.82957
+
+(18) - 0.0 km Croce D´Àune
+	DDF2
+		Images:	3891
+		Time:	15.06.2025 09:16:19 until 15.06.2025 18:31:51
+		Duration:	09:15:32
+		Location:	46.02085 11.90224
+
+	DDF2LS1
+		Images:	10792
+		Time:	15.06.2025 09:58:06 until 15.06.2025 18:27:29
+		Duration:	08:29:23
+		Location:	46.02085 11.90224
+
+(19) - Finish
+	LULE2LS1
+		Images:	960
+		Time:	15.06.2025 15:50:22 until 15.06.2025 18:50:47
+		Duration:	03:00:25
+		Location:	46.02085 11.90224
+
+	MIPA2
+		Images:	411
+		Time:	15.06.2025 16:59:53 until 15.06.2025 19:29:32
+		Duration:	02:29:39
+		Location:	46.02085 11.90224
+
+	RSA2
+		Images:	1495
+		Time:	15.06.2025 17:00:04 until 15.06.2025 19:32:25
+		Duration:	02:32:21
+		Location:	46.02085 11.90224
+
+	GMA2
+		Images:	1074
+		Time:	15.06.2025 16:58:00 until 15.06.2025 19:27:24
+		Duration:	02:29:24
+		Location:	46.02085 11.90224
+
+	MDS2
+		Images:	6688
+		Time:	15.06.2025 07:09:23 until 15.06.2025 18:27:26
+		Duration:	11:18:03
+		Location:	46.02085 11.90224
+
+	MDS2LS2
+		Images:	2360
+		Time:	15.06.2025 09:22:47 until 15.06.2025 19:07:45
+		Duration:	09:44:58
+		Location:	46.02085 11.90224
+
+	MDS2LS1
+		Images:	2548
+		Time:	15.06.2025 09:46:20 until 15.06.2025 18:29:29
+		Duration:	08:43:09
+		Location:	46.02085 11.90224
+
+	FUP2
+		Images:	235
+		Time:	15.06.2025 16:24:46 until 15.06.2025 19:41:47
+		Duration:	03:17:01
+		Location:	46.02085 11.90224
+
+	NBI2
+		Images:	6302
+		Time:	15.06.2025 10:37:19 until 15.06.2025 17:41:13
+		Duration:	07:03:54
+		Location:	46.02085 11.90224
+

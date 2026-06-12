@@ -1,0 +1,190 @@
+EventId: 14610
+Spots: 28
+Total Images: 72169
+Time:	03.07.2025 20:45:08 to 04.07.2025 22:38:46
+Duration: 1.01:53:38
+
+(1) - Portrait before Start
+	CC1
+		Images:	1012
+		Time:	04.07.2025 06:36:30 until 04.07.2025 07:59:30
+		Duration:	01:23:00
+		Location:	46.18158 6.70302
+
+	BEB1
+		Images:	1592
+		Time:	04.07.2025 06:17:38 until 04.07.2025 08:02:50
+		Duration:	01:45:12
+		Location:	46.18158 6.70302
+
+(2) - Obstacle 1 Ou Ou
+	LAPO1
+		Images:	1766
+		Time:	04.07.2025 06:58:16 until 04.07.2025 08:32:00
+		Duration:	01:33:44
+		Location:	46.18259 6.68847
+
+	ARF1
+		Images:	1030
+		Time:	04.07.2025 06:59:02 until 04.07.2025 08:31:54
+		Duration:	01:32:52
+		Location:	46.18259 6.68847
+
+(3) - Obstacle 2 8 Feet Wall
+	EB1
+		Images:	6470
+		Time:	04.07.2025 06:59:33 until 04.07.2025 15:59:25
+		Duration:	08:59:52
+		Location:	46.17454 6.69370
+
+	EB1LS2
+		Images:	598
+		Time:	04.07.2025 06:59:33 until 04.07.2025 09:00:07
+		Duration:	02:00:34
+		Location:	46.17454 6.69370
+
+(4) - Obstacle 8 Barbed Wired
+	GAT1
+		Images:	4377
+		Time:	04.07.2025 06:32:55 until 04.07.2025 15:25:39
+		Duration:	08:52:44
+		Location:	46.13003 6.71150
+
+(5) - Obstacle 9  Iconic Obstacle Highest point on track
+	LTU1
+		Images:	2636
+		Time:	04.07.2025 08:20:43 until 04.07.2025 12:07:26
+		Duration:	03:46:43
+		Location:	46.13785 6.73091
+
+(6) - Obstacle 10 Log Carry
+	RLLA1
+		Images:	5220
+		Time:	04.07.2025 08:53:48 until 04.07.2025 12:54:18
+		Duration:	04:00:30
+		Location:	46.14424 6.71404
+
+(7) - Obstacle 11 Small A Frame
+	IVB1
+		Images:	4899
+		Time:	03.07.2025 20:45:08 until 04.07.2025 15:00:55
+		Duration:	18:15:47
+		Location:	46.14673 6.72186
+
+(8) - Obstacle 13 Chain Carry
+	PINO1
+		Images:	5382
+		Time:	04.07.2025 07:25:47 until 04.07.2025 20:13:07
+		Duration:	12:47:20
+		Location:	46.15758 6.71067
+
+(9) - Obstacle 14 Plat Drag
+	RLLA2
+		Images:	1055
+		Time:	04.07.2025 14:13:19 until 04.07.2025 20:14:02
+		Duration:	06:00:43
+		Location:	46.15772 6.71066
+
+	IVB3
+		Images:	1477
+		Time:	04.07.2025 16:06:02 until 04.07.2025 19:44:11
+		Duration:	03:38:09
+		Location:	46.15772 6.71066
+
+(10) - Obstacle 19 Cascade Net Climb
+	DART1
+		Images:	10201
+		Time:	04.07.2025 07:34:57 until 04.07.2025 21:02:08
+		Duration:	13:27:11
+		Location:	46.16562 6.71208
+
+(11) - Obstacle 22 Inverted Wall
+	BEB2
+		Images:	3415
+		Time:	04.07.2025 09:50:12 until 04.07.2025 20:44:06
+		Duration:	10:53:54
+		Location:	46.18223 6.70665
+
+(12) - Obstacle 23 Multi Rig
+	CC2
+		Images:	3670
+		Time:	04.07.2025 10:07:33 until 04.07.2025 21:28:05
+		Duration:	11:20:32
+		Location:	46.18275 6.70576
+
+(13) - Obstacle 34  Bucket Carry
+	EB1LS1
+		Images:	2838
+		Time:	04.07.2025 06:59:33 until 04.07.2025 20:42:10
+		Duration:	13:42:37
+		Location:	46.19001 6.69759
+
+	AMU1
+		Images:	2408
+		Time:	04.07.2025 06:56:22 until 04.07.2025 20:38:44
+		Duration:	13:42:22
+		Location:	46.19001 6.69759
+
+	AMU2LS1
+		Images:	2195
+		Time:	04.07.2025 08:55:11 until 04.07.2025 20:41:37
+		Duration:	11:46:26
+		Location:	46.19001 6.69759
+
+(14) - Obstacle 53 Fire Junp
+	ARF2
+		Images:	2131
+		Time:	04.07.2025 10:10:12 until 04.07.2025 21:20:45
+		Duration:	11:10:33
+		Location:	46.18154 6.70332
+
+	FRN1
+		Images:	338
+		Time:	04.07.2025 17:20:19 until 04.07.2025 17:55:33
+		Duration:	00:35:14
+		Location:	46.18154 6.70332
+
+	FRN1LS2
+		Images:	1378
+		Time:	04.07.2025 10:51:39 until 04.07.2025 22:38:46
+		Duration:	11:47:07
+		Location:	46.18154 6.70332
+
+	FRN1LS1
+		Images:	1542
+		Time:	04.07.2025 11:11:40 until 04.07.2025 21:36:30
+		Duration:	10:24:50
+		Location:	46.18154 6.70332
+
+	GAT2
+		Images:	730
+		Time:	04.07.2025 15:35:31 until 04.07.2025 20:11:34
+		Duration:	04:36:03
+		Location:	46.18154 6.70332
+
+	IVB2
+		Images:	265
+		Time:	04.07.2025 21:21:29 until 04.07.2025 22:31:56
+		Duration:	01:10:27
+		Location:	46.18154 6.70332
+
+(15) - Impressions / Pano
+	FRN1DRONE1
+		Images:	32
+		Time:	04.07.2025 12:25:39 until 04.07.2025 12:41:44
+		Duration:	00:16:05
+		Location:	46.18154 6.70332
+
+(16) - Herotent
+	LAPO2
+		Images:	2862
+		Time:	04.07.2025 10:09:22 until 04.07.2025 21:15:52
+		Duration:	11:06:30
+		Location:	46.18154 6.70332
+
+	RLLA3
+		Images:	650
+		Time:	04.07.2025 21:14:58 until 04.07.2025 22:28:30
+		Duration:	01:13:32
+		Location:	46.18154 6.70332
+

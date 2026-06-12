@@ -1,0 +1,109 @@
+EventId: 13781
+Spots: 16
+Total Images: 47003
+Time:	15.06.2025 08:03:56 to 15.06.2025 16:16:09
+Duration: 08:12:13
+
+(1) - Start
+	REH1
+		Images:	610
+		Time:	15.06.2025 08:20:35 until 15.06.2025 09:35:18
+		Duration:	01:14:43
+		Location:	NULL NULL
+
+	REH1LS1
+		Images:	1033
+		Time:	15.06.2025 08:03:56 until 15.06.2025 09:35:07
+		Duration:	01:31:11
+		Location:	NULL NULL
+
+(2) - Impressions / Pano
+	PANO1
+		Images:	1
+		Time:	15.06.2025 08:49:30 until 15.06.2025 08:49:30
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(3) - 33,0 km
+	ROH1
+		Images:	4403
+		Time:	15.06.2025 10:09:14 until 15.06.2025 12:21:06
+		Duration:	02:11:52
+		Location:	NULL NULL
+
+	ROH1LS1
+		Images:	1190
+		Time:	15.06.2025 09:27:20 until 15.06.2025 11:26:20
+		Duration:	01:59:00
+		Location:	NULL NULL
+
+	ROH1LS2
+		Images:	1362
+		Time:	15.06.2025 08:54:26 until 15.06.2025 11:26:22
+		Duration:	02:31:56
+		Location:	NULL NULL
+
+(4) - 36,5 km
+	THO1
+		Images:	3537
+		Time:	15.06.2025 09:27:05 until 15.06.2025 13:32:21
+		Duration:	04:05:16
+		Location:	NULL NULL
+
+	THO1LS1
+		Images:	1920
+		Time:	15.06.2025 10:05:40 until 15.06.2025 12:21:26
+		Duration:	02:15:46
+		Location:	NULL NULL
+
+	THO1LS2
+		Images:	1945
+		Time:	15.06.2025 10:14:22 until 15.06.2025 12:20:14
+		Duration:	02:05:52
+		Location:	NULL NULL
+
+(5) - 38,0 km
+	DG1
+		Images:	7906
+		Time:	15.06.2025 08:42:07 until 15.06.2025 12:23:29
+		Duration:	03:41:22
+		Location:	NULL NULL
+
+	DG1LS1
+		Images:	1760
+		Time:	15.06.2025 10:18:34 until 15.06.2025 12:19:34
+		Duration:	02:01:00
+		Location:	NULL NULL
+
+(6) - 60,0 km
+	MDO1
+		Images:	7386
+		Time:	15.06.2025 09:59:50 until 15.06.2025 13:44:51
+		Duration:	03:45:01
+		Location:	NULL NULL
+
+	MDO1LS1
+		Images:	1358
+		Time:	15.06.2025 09:48:13 until 15.06.2025 13:46:58
+		Duration:	03:58:45
+		Location:	NULL NULL
+
+(7) - Finish
+	REH2
+		Images:	7645
+		Time:	15.06.2025 11:20:00 until 15.06.2025 15:13:40
+		Duration:	03:53:40
+		Location:	NULL NULL
+
+	REH2LS1
+		Images:	4876
+		Time:	15.06.2025 11:07:13 until 15.06.2025 16:16:09
+		Duration:	05:08:56
+		Location:	NULL NULL
+
+	REH2IMP1
+		Images:	71
+		Time:	15.06.2025 16:00:35 until 15.06.2025 16:11:55
+		Duration:	00:11:20
+		Location:	NULL NULL
+

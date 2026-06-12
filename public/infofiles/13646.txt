@@ -1,0 +1,109 @@
+EventId: 13646
+Spots: 15
+Total Images: 89176
+Time:	23.08.2025 08:09:08 to 23.08.2025 18:49:01
+Duration: 10:39:53
+
+(1) - Start
+	DMO1
+		Images:	110
+		Time:	23.08.2025 08:09:08 until 23.08.2025 08:52:32
+		Duration:	00:43:24
+		Location:	51.51931 9.92727
+
+(2) - Obstacle 3 Sidney Slide
+	BS1
+		Images:	18179
+		Time:	23.08.2025 08:54:58 until 23.08.2025 16:22:40
+		Duration:	07:27:42
+		Location:	51.52020 9.92586
+
+(3) - Obstacle 3 Sidney Slide Laufstrecke
+	BS1LS1
+		Images:	3805
+		Time:	23.08.2025 08:39:30 until 23.08.2025 16:24:59
+		Duration:	07:45:29
+		Location:	51.52020 9.92586
+
+(4) - Obstacle 5 Springfield Splash
+	DAL1
+		Images:	2473
+		Time:	23.08.2025 08:57:07 until 23.08.2025 16:26:49
+		Duration:	07:29:42
+		Location:	51.52016 9.92764
+
+(5) - Obstacle 14 London Tubes
+	RW1
+		Images:	9522
+		Time:	23.08.2025 11:46:34 until 23.08.2025 17:36:15
+		Duration:	05:49:41
+		Location:	51.51587 9.91805
+
+(6) - Obstacle 14 London Tubes Laufstrecke
+	RW1LS1
+		Images:	4558
+		Time:	23.08.2025 10:16:29 until 23.08.2025 17:49:20
+		Duration:	07:32:51
+		Location:	51.51587 9.91805
+
+	RW1LS2
+		Images:	552
+		Time:	23.08.2025 16:35:39 until 23.08.2025 17:40:46
+		Duration:	01:05:07
+		Location:	51.51587 9.91805
+
+(7) - Obstacle 15 Chicago Chain
+	VLE1
+		Images:	10620
+		Time:	23.08.2025 11:48:17 until 23.08.2025 17:40:11
+		Duration:	05:51:54
+		Location:	51.51404 9.91785
+
+(8) - Obstacle 15 Chicago Chain Laufstrecke
+	VLE1LS1
+		Images:	2407
+		Time:	23.08.2025 08:27:07 until 23.08.2025 17:42:09
+		Duration:	09:15:02
+		Location:	51.51404 9.91785
+
+(9) - Obstacle 31 Cologne Crossover
+	EHL2
+		Images:	9005
+		Time:	23.08.2025 12:00:08 until 23.08.2025 15:03:59
+		Duration:	03:03:51
+		Location:	51.51107 9.92320
+
+(10) - Finish
+	EHL1LS1
+		Images:	16436
+		Time:	23.08.2025 08:49:36 until 23.08.2025 18:34:21
+		Duration:	09:44:45
+		Location:	51.51931 9.92727
+
+	EHL1LS2
+		Images:	7851
+		Time:	23.08.2025 08:56:05 until 23.08.2025 18:49:01
+		Duration:	09:52:56
+		Location:	51.51931 9.92727
+
+(11) - Herotent
+	DMO2
+		Images:	2803
+		Time:	23.08.2025 09:16:50 until 23.08.2025 18:45:55
+		Duration:	09:29:05
+		Location:	51.51931 9.92727
+
+(12) - General Pictures
+	EHL1
+		Images:	789
+		Time:	23.08.2025 09:29:31 until 23.08.2025 11:21:56
+		Duration:	01:52:25
+		Location:	51.51931 9.92727
+
+(13) - Impressions / Pano
+	EHL1DRONE1
+		Images:	66
+		Time:	23.08.2025 15:19:50 until 23.08.2025 16:15:38
+		Duration:	00:55:48
+		Location:	51.51931 9.92727
+

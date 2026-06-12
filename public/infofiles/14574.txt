@@ -1,0 +1,71 @@
+EventId: 14574
+Spots: 10
+Total Images: 41979
+Time:	24.08.2025 08:27:47 to 24.08.2025 15:56:25
+Duration: 07:28:38
+
+(1) - Obstacle 9 Slackline
+	AGP1
+		Images:	3223
+		Time:	24.08.2025 08:42:54 until 24.08.2025 14:33:30
+		Duration:	05:50:36
+		Location:	60.98780 25.63459
+
+(2) - Finish
+	FMM1
+		Images:	5463
+		Time:	24.08.2025 09:06:23 until 24.08.2025 15:50:22
+		Duration:	06:43:59
+		Location:	60.98421 25.63526
+
+(3) - Obstacle 26 Multi Rig
+	JAK1
+		Images:	2865
+		Time:	24.08.2025 09:33:37 until 24.08.2025 15:31:48
+		Duration:	05:58:11
+		Location:	60.98418 25.63347
+
+(4) - Start
+	JAK2
+		Images:	15
+		Time:	24.08.2025 08:59:59 until 24.08.2025 09:17:35
+		Duration:	00:17:36
+		Location:	60.98495 25.63452
+
+(5) - Obstacle 13 Bucket Carry
+	LZA1
+		Images:	3557
+		Time:	24.08.2025 09:27:53 until 24.08.2025 14:51:02
+		Duration:	05:23:09
+		Location:	60.98780 25.63459
+
+(6) - Obstacle 20 Barbedwire
+	OLM1
+		Images:	9032
+		Time:	24.08.2025 08:33:43 until 24.08.2025 14:59:20
+		Duration:	06:25:37
+		Location:	60.98258 25.62562
+
+(7) - Obstacle 21 Armer
+	PEKL1
+		Images:	11577
+		Time:	24.08.2025 08:27:47 until 24.08.2025 15:17:09
+		Duration:	06:49:22
+		Location:	60.98226 25.62806
+
+(8) - Herotent
+	YECY1
+		Images:	956
+		Time:	24.08.2025 09:52:34 until 24.08.2025 15:56:25
+		Duration:	06:03:51
+		Location:	60.98398 25.63574
+
+(9) - Impressions / Pano
+	PANO1
+(10) - Obstacle 30 A Frame
+	BSAH1
+		Images:	5291
+		Time:	24.08.2025 09:15:11 until 24.08.2025 15:33:04
+		Duration:	06:17:53
+		Location:	60.98410 25.63412
+

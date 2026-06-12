@@ -1,0 +1,173 @@
+EventId: 14046
+Spots: 26
+Total Images: 153695
+Time:	21.06.2025 08:49:43 to 21.06.2025 17:30:04
+Duration: 08:40:21
+
+(1) - Start
+	GUD1
+		Images:	111
+		Time:	21.06.2025 12:26:26 until 21.06.2025 12:41:32
+		Duration:	00:15:06
+		Location:	51.32514 12.35947
+
+(2) - Obstacle 4 Schlammbecken
+	SBU1
+		Images:	5794
+		Time:	21.06.2025 09:56:19 until 21.06.2025 16:14:43
+		Duration:	06:18:24
+		Location:	51.32798 12.35966
+
+	VLE1
+		Images:	7468
+		Time:	21.06.2025 09:50:33 until 21.06.2025 16:14:38
+		Duration:	06:24:05
+		Location:	51.32798 12.35966
+
+(3) - Laufstrecke nach Obstacle 4 Schlammbecken
+	VLE1LS1
+		Images:	6201
+		Time:	21.06.2025 09:12:59 until 21.06.2025 16:16:57
+		Duration:	07:03:58
+		Location:	51.32810 12.36040
+
+(4) - Obstacle 5 Tauchbecken
+	HKU1
+		Images:	8024
+		Time:	21.06.2025 09:39:21 until 21.06.2025 16:19:42
+		Duration:	06:40:21
+		Location:	51.32743 12.36292
+
+	LW1
+		Images:	7306
+		Time:	21.06.2025 09:15:59 until 21.06.2025 16:19:37
+		Duration:	07:03:38
+		Location:	51.32743 12.36292
+
+(5) - Obstacle 8 Schaumparty
+	MASC1
+		Images:	5947
+		Time:	21.06.2025 10:01:40 until 21.06.2025 16:31:08
+		Duration:	06:29:28
+		Location:	51.32398 12.36482
+
+(6) - Laufstrecke vor Obstacle 9 Krabbelstrecke
+	RW1LS1
+		Images:	2151
+		Time:	21.06.2025 09:47:55 until 21.06.2025 14:04:30
+		Duration:	04:16:35
+		Location:	51.32529 12.36499
+
+	RW1LS2
+		Images:	3501
+		Time:	21.06.2025 09:35:38 until 21.06.2025 16:34:07
+		Duration:	06:58:29
+		Location:	51.32529 12.36499
+
+(7) - Obstacle 9 Krabbelstrecke
+	RW1
+		Images:	12735
+		Time:	21.06.2025 10:05:23 until 21.06.2025 16:35:50
+		Duration:	06:30:27
+		Location:	51.32555 12.36531
+
+	STM1
+		Images:	10042
+		Time:	21.06.2025 09:58:37 until 21.06.2025 16:35:17
+		Duration:	06:36:40
+		Location:	51.32555 12.36531
+
+(8) - Laufstrecke nach Obstacle 9 Krabbelstrecke
+	STM1LS1
+		Images:	4272
+		Time:	21.06.2025 10:06:10 until 21.06.2025 16:38:11
+		Duration:	06:32:01
+		Location:	51.32529 12.36499
+
+(9) - Obstacle 10 Container Rutsche
+	CHSA1
+		Images:	9516
+		Time:	21.06.2025 09:00:30 until 21.06.2025 16:44:55
+		Duration:	07:44:25
+		Location:	51.32244 12.36318
+
+(10) - Obstacle 11 Gitterbecken
+	JARI1
+		Images:	6364
+		Time:	21.06.2025 10:13:36 until 21.06.2025 16:57:52
+		Duration:	06:44:16
+		Location:	51.32494 12.35786
+
+	JOWE1
+		Images:	9948
+		Time:	21.06.2025 09:31:01 until 21.06.2025 16:57:46
+		Duration:	07:26:45
+		Location:	51.32494 12.35786
+
+(11) - Obstacle 12 Seiltanz
+	HV1
+		Images:	16325
+		Time:	21.06.2025 09:25:07 until 21.06.2025 17:00:33
+		Duration:	07:35:26
+		Location:	51.32519 12.35811
+
+(12) - Laufstrecke nach Obstacle 12 Seiltanz
+	HV1LS1
+		Images:	3500
+		Time:	21.06.2025 09:04:50 until 21.06.2025 17:07:41
+		Duration:	08:02:51
+		Location:	51.32472 12.35801
+
+(13) - Laufstrecke vor Finish
+	BS1LS1
+		Images:	4580
+		Time:	21.06.2025 08:55:49 until 21.06.2025 17:23:07
+		Duration:	08:27:18
+		Location:	51.32529 12.36499
+
+	MERO1LS1
+		Images:	4707
+		Time:	21.06.2025 08:49:43 until 21.06.2025 17:22:33
+		Duration:	08:32:50
+		Location:	51.32529 12.36499
+
+(14) - Finish
+	GUD1LS1
+		Images:	2236
+		Time:	21.06.2025 10:22:47 until 21.06.2025 17:30:04
+		Duration:	07:07:17
+		Location:	51.32529 12.36499
+
+	GUD1LS2
+		Images:	2269
+		Time:	21.06.2025 10:22:46 until 21.06.2025 17:28:53
+		Duration:	07:06:07
+		Location:	51.32529 12.36499
+
+	KWEI1
+		Images:	10230
+		Time:	21.06.2025 08:51:57 until 21.06.2025 17:23:11
+		Duration:	08:31:14
+		Location:	51.32529 12.36499
+
+(15) - Herotent
+	BS1
+		Images:	4066
+		Time:	21.06.2025 09:52:01 until 21.06.2025 17:14:11
+		Duration:	07:22:10
+		Location:	51.32529 12.36499
+
+	MERO1
+		Images:	6394
+		Time:	21.06.2025 09:43:59 until 21.06.2025 17:24:06
+		Duration:	07:40:07
+		Location:	51.32529 12.36499
+
+(16) - Impressions / Pano
+	GUD1DRONE1
+		Images:	8
+		Time:	21.06.2025 11:53:54 until 21.06.2025 11:59:17
+		Duration:	00:05:23
+		Location:	51.32529 12.36499
+
+	PANO1

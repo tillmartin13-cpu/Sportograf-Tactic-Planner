@@ -1,0 +1,104 @@
+EventId: 13836
+Spots: 15
+Total Images: 157523
+Time:	26.09.2025 10:16:13 to 27.09.2025 14:35:38
+Duration: 1.04:19:25
+
+(1) - Guards memorial
+	RLW1
+		Images:	11523
+		Time:	27.09.2025 08:44:23 until 27.09.2025 14:06:20
+		Duration:	05:21:57
+		Location:	NULL NULL
+
+(2) - Admiral building
+	WIN1
+		Images:	6628
+		Time:	27.09.2025 08:46:03 until 27.09.2025 14:21:49
+		Duration:	05:35:46
+		Location:	NULL NULL
+
+(3) - War rooms
+	JUW1
+		Images:	7090
+		Time:	27.09.2025 07:21:08 until 27.09.2025 14:11:01
+		Duration:	06:49:53
+		Location:	NULL NULL
+
+(4) - Park
+	BKO1
+		Images:	10917
+		Time:	27.09.2025 09:14:46 until 27.09.2025 14:23:51
+		Duration:	05:09:05
+		Location:	NULL NULL
+
+	BKO1LS1
+		Images:	1629
+		Time:	27.09.2025 09:06:47 until 27.09.2025 14:07:51
+		Duration:	05:01:04
+		Location:	NULL NULL
+
+	BKO1LS2
+		Images:	1613
+		Time:	27.09.2025 09:06:48 until 27.09.2025 14:23:12
+		Duration:	05:16:24
+		Location:	NULL NULL
+
+(5) - Birdcage walk
+	CUP1
+		Images:	15344
+		Time:	27.09.2025 09:34:02 until 27.09.2025 14:27:08
+		Duration:	04:53:06
+		Location:	NULL NULL
+
+	DP1
+		Images:	14242
+		Time:	27.09.2025 09:16:55 until 27.09.2025 14:27:05
+		Duration:	05:10:10
+		Location:	NULL NULL
+
+	DP1LS1
+		Images:	1768
+		Time:	27.09.2025 09:03:05 until 27.09.2025 14:27:05
+		Duration:	05:24:00
+		Location:	NULL NULL
+
+(6) - Before finish
+	KYY1
+		Images:	12032
+		Time:	27.09.2025 09:04:20 until 27.09.2025 14:28:10
+		Duration:	05:23:50
+		Location:	NULL NULL
+
+	TOMY1
+		Images:	27164
+		Time:	27.09.2025 09:34:23 until 27.09.2025 14:27:52
+		Duration:	04:53:29
+		Location:	NULL NULL
+
+(7) - Finish
+	CMS1
+		Images:	27703
+		Time:	27.09.2025 08:55:35 until 27.09.2025 14:21:45
+		Duration:	05:26:10
+		Location:	NULL NULL
+
+	CNS1
+		Images:	14485
+		Time:	26.09.2025 10:16:13 until 27.09.2025 14:14:35
+		Duration:	1.03:58:22
+		Location:	NULL NULL
+
+(8) - Medals
+	LOT2
+		Images:	1869
+		Time:	27.09.2025 08:36:20 until 27.09.2025 14:35:15
+		Duration:	05:58:55
+		Location:	NULL NULL
+
+	DATI1
+		Images:	3516
+		Time:	27.09.2025 08:45:21 until 27.09.2025 14:35:38
+		Duration:	05:50:17
+		Location:	NULL NULL
+

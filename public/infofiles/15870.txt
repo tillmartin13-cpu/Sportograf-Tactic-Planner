@@ -1,0 +1,111 @@
+EventId: 15870
+Spots: 17
+Total Images: 27433
+Time:	14.09.2025 07:36:12 to 14.09.2025 14:47:56
+Duration: 07:11:44
+
+(1) - Finish
+	DABI1
+		Images:	5124
+		Time:	14.09.2025 07:36:12 until 14.09.2025 14:25:07
+		Duration:	06:48:55
+		Location:	48.04133 8.19094
+
+	DABI1LS1
+		Images:	683
+		Time:	14.09.2025 10:51:03 until 14.09.2025 14:25:19
+		Duration:	03:34:16
+		Location:	48.04133 8.19094
+
+(2) - 34.1 km
+	DABI2
+		Images:	220
+		Time:	14.09.2025 09:21:39 until 14.09.2025 10:36:23
+		Duration:	01:14:44
+		Location:	48.04136 8.19099
+
+(3) - 91.1 km 42.6/56.2/42.6
+	JNK1
+		Images:	1379
+		Time:	14.09.2025 09:23:08 until 14.09.2025 13:57:54
+		Duration:	04:34:46
+		Location:	48.04405 8.23213
+
+	JNK1LS1
+		Images:	492
+		Time:	14.09.2025 10:00:52 until 14.09.2025 12:41:58
+		Duration:	02:41:06
+		Location:	48.04405 8.23213
+
+	LUJ1LS1
+		Images:	1028
+		Time:	14.09.2025 08:46:39 until 14.09.2025 12:07:27
+		Duration:	03:20:48
+		Location:	48.04405 8.23213
+
+(4) - 53.9 km 7.8/19.0/7.8/
+	LUJ1
+		Images:	796
+		Time:	14.09.2025 08:46:36 until 14.09.2025 14:47:56
+		Duration:	06:01:20
+		Location:	48.07948 8.15723
+
+(5) - 74.0 km 29.5/40.5/29.5
+	MAWI1
+		Images:	1778
+		Time:	14.09.2025 08:59:38 until 14.09.2025 13:01:10
+		Duration:	04:01:32
+		Location:	48.05847 8.26404
+
+	MAWI1LS1
+		Images:	789
+		Time:	14.09.2025 08:38:02 until 14.09.2025 13:17:37
+		Duration:	04:39:35
+		Location:	48.05847 8.26404
+
+	MAWI1LS2
+		Images:	1044
+		Time:	14.09.2025 08:09:24 until 14.09.2025 12:57:11
+		Duration:	04:47:47
+		Location:	48.05847 8.26404
+
+(6) - 16.5 km
+	RONS1
+		Images:	571
+		Time:	14.09.2025 08:31:47 until 14.09.2025 10:34:15
+		Duration:	02:02:28
+		Location:	48.01829 8.29090
+
+	RONS1LS2
+		Images:	420
+		Time:	14.09.2025 08:19:57 until 14.09.2025 09:00:25
+		Duration:	00:40:28
+		Location:	48.01829 8.29090
+
+	RONS1LS1
+		Images:	206
+		Time:	14.09.2025 08:14:48 until 14.09.2025 09:08:18
+		Duration:	00:53:30
+		Location:	48.01829 8.29090
+
+(7) - 85.0 km
+	RONS2
+		Images:	1842
+		Time:	14.09.2025 10:39:44 until 14.09.2025 13:37:14
+		Duration:	02:57:30
+		Location:	48.05081 8.30156
+
+	RONS2LS2
+		Images:	816
+		Time:	14.09.2025 10:06:41 until 14.09.2025 13:45:06
+		Duration:	03:38:25
+		Location:	48.05081 8.30156
+
+	RONS2LS1
+		Images:	10245
+		Time:	14.09.2025 09:53:38 until 14.09.2025 13:41:32
+		Duration:	03:47:54
+		Location:	48.05081 8.30156
+
+(8) - Impressions / Pano
+	PANO1

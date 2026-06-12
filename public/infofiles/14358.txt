@@ -1,0 +1,653 @@
+EventId: 14358
+Spots: 106
+Total Images: 515104
+Time:	13.03.2025 06:36:45 to 04.12.2025 22:23:32
+Duration: 266.15:46:47
+
+(1) - Farmers Carry
+	BALN10LS1
+		Images:	7488
+		Time:	04.12.2025 07:33:12 until 04.12.2025 20:48:55
+		Duration:	13:15:43
+		Location:	51.50697 0.02623
+
+	BCUP9LS1
+		Images:	7082
+		Time:	04.12.2025 07:38:51 until 04.12.2025 21:24:34
+		Duration:	13:45:43
+		Location:	51.50697 0.02623
+
+	BDP2LS1
+		Images:	6922
+		Time:	04.12.2025 07:47:45 until 04.12.2025 20:32:39
+		Duration:	12:44:54
+		Location:	51.50697 0.02623
+
+(2) - Finish
+	ABKO7
+		Images:	14107
+		Time:	04.12.2025 09:30:04 until 04.12.2025 17:59:49
+		Duration:	08:29:45
+		Location:	51.50697 0.02623
+
+	AWIN1
+		Images:	10708
+		Time:	04.12.2025 07:19:19 until 04.12.2025 13:50:18
+		Duration:	06:30:59
+		Location:	51.50697 0.02623
+
+	BJUW7LS1
+		Images:	4272
+		Time:	04.12.2025 07:30:38 until 04.12.2025 20:37:50
+		Duration:	13:07:12
+		Location:	51.50697 0.02623
+
+	BJUW7LS2
+		Images:	5796
+		Time:	04.12.2025 07:30:43 until 04.12.2025 20:39:43
+		Duration:	13:09:00
+		Location:	51.50697 0.02623
+
+	BRLW1
+		Images:	11793
+		Time:	04.12.2025 13:50:39 until 04.12.2025 22:19:38
+		Duration:	08:28:59
+		Location:	51.50697 0.02623
+
+(3) - Hero Wall
+	AJAK1
+		Images:	2577
+		Time:	04.12.2025 07:11:29 until 04.12.2025 14:07:42
+		Duration:	06:56:13
+		Location:	51.50697 0.02623
+
+	AMIMA1
+		Images:	3188
+		Time:	04.12.2025 08:00:51 until 04.12.2025 14:09:59
+		Duration:	06:09:08
+		Location:	51.50697 0.02623
+
+	AOH1
+		Images:	2052
+		Time:	04.12.2025 06:09:57 until 04.12.2025 14:08:13
+		Duration:	07:58:16
+		Location:	51.50697 0.02623
+
+	ASHP1
+		Images:	2033
+		Time:	04.12.2025 07:59:21 until 04.12.2025 13:48:39
+		Duration:	05:49:18
+		Location:	51.50697 0.02623
+
+	BALN8
+		Images:	39
+		Time:	04.12.2025 16:16:20 until 04.12.2025 16:23:50
+		Duration:	00:07:30
+		Location:	51.50697 0.02623
+
+	BJOEM1
+		Images:	1795
+		Time:	04.12.2025 14:20:01 until 04.12.2025 21:33:16
+		Duration:	07:13:15
+		Location:	51.50697 0.02623
+
+	BLOT1
+		Images:	1950
+		Time:	04.12.2025 14:11:55 until 04.12.2025 22:05:03
+		Duration:	07:53:08
+		Location:	51.50697 0.02623
+
+	BTOMY1
+		Images:	2132
+		Time:	04.12.2025 13:45:00 until 04.12.2025 22:23:32
+		Duration:	08:38:32
+		Location:	51.50697 0.02623
+
+(4) - Impressions / Pano
+	ABKO9
+		Images:	184
+		Time:	04.12.2025 10:05:10 until 04.12.2025 10:10:07
+		Duration:	00:04:57
+		Location:	51.50697 0.02623
+
+	BALN9
+		Images:	35
+		Time:	04.12.2025 09:03:05 until 04.12.2025 09:05:33
+		Duration:	00:02:28
+		Location:	51.50697 0.02623
+
+(5) - Rowing
+	ACMS1
+		Images:	6903
+		Time:	04.12.2025 07:33:24 until 04.12.2025 14:03:03
+		Duration:	06:29:39
+		Location:	51.50697 0.02623
+
+	ACUP4
+		Images:	3995
+		Time:	04.12.2025 07:43:58 until 04.12.2025 14:55:38
+		Duration:	07:11:40
+		Location:	51.50697 0.02623
+
+	AJUW4
+		Images:	3268
+		Time:	04.12.2025 07:31:10 until 04.12.2025 14:56:20
+		Duration:	07:25:10
+		Location:	51.50697 0.02623
+
+	AKYY1
+		Images:	9286
+		Time:	04.12.2025 07:35:11 until 04.12.2025 14:03:40
+		Duration:	06:28:29
+		Location:	51.50697 0.02623
+
+	ALRE1
+		Images:	4023
+		Time:	04.12.2025 06:29:20 until 04.12.2025 14:04:28
+		Duration:	07:35:08
+		Location:	51.50697 0.02623
+
+	ALZA1
+		Images:	4309
+		Time:	04.12.2025 06:39:02 until 04.12.2025 13:59:58
+		Duration:	07:20:56
+		Location:	51.50697 0.02623
+
+	AMALV4
+		Images:	8667
+		Time:	04.12.2025 09:18:40 until 04.12.2025 14:58:04
+		Duration:	05:39:24
+		Location:	51.50697 0.02623
+
+	BALN4
+		Images:	2445
+		Time:	04.12.2025 09:19:12 until 04.12.2025 18:02:13
+		Duration:	08:43:01
+		Location:	51.50697 0.02623
+
+	BCNS1
+		Images:	3829
+		Time:	04.12.2025 14:06:19 until 04.12.2025 20:31:35
+		Duration:	06:25:16
+		Location:	51.50697 0.02623
+
+	BCUP4
+		Images:	1580
+		Time:	04.12.2025 17:37:10 until 04.12.2025 17:57:59
+		Duration:	00:20:49
+		Location:	51.50697 0.02623
+
+	BJAK1
+		Images:	7881
+		Time:	04.12.2025 14:54:43 until 04.12.2025 20:51:54
+		Duration:	05:57:11
+		Location:	51.50697 0.02623
+
+	BJUW4
+		Images:	1386
+		Time:	04.12.2025 17:30:30 until 04.12.2025 17:59:08
+		Duration:	00:28:38
+		Location:	51.50697 0.02623
+
+	BLEBE1
+		Images:	4586
+		Time:	04.12.2025 14:05:25 until 04.12.2025 21:09:39
+		Duration:	07:04:14
+		Location:	51.50697 0.02623
+
+	BMAAU1
+		Images:	7418
+		Time:	04.12.2025 14:05:50 until 04.12.2025 20:41:51
+		Duration:	06:36:01
+		Location:	51.50697 0.02623
+
+	BMALV4
+		Images:	3067
+		Time:	04.12.2025 17:29:59 until 04.12.2025 17:59:30
+		Duration:	00:29:31
+		Location:	51.50697 0.02623
+
+	BMKH2
+		Images:	265
+		Time:	04.12.2025 14:11:49 until 04.12.2025 14:26:31
+		Duration:	00:14:42
+		Location:	51.50697 0.02623
+
+(6) - Run
+	BBKO9LS1
+		Images:	7694
+		Time:	04.12.2025 07:32:28 until 04.12.2025 20:30:54
+		Duration:	12:58:26
+		Location:	51.50697 0.02623
+
+	BBKO9LS2
+		Images:	5526
+		Time:	04.12.2025 06:45:34 until 04.12.2025 20:31:56
+		Duration:	13:46:22
+		Location:	51.50697 0.02623
+
+(7) - Sandbag Lunges
+	AARRM1
+		Images:	3919
+		Time:	04.12.2025 07:16:05 until 04.12.2025 14:13:19
+		Duration:	06:57:14
+		Location:	51.50697 0.02623
+
+	ACUP5
+		Images:	2688
+		Time:	04.12.2025 09:58:41 until 04.12.2025 15:38:15
+		Duration:	05:39:34
+		Location:	51.50697 0.02623
+
+	AJAKO1
+		Images:	5472
+		Time:	04.12.2025 07:40:02 until 04.12.2025 15:05:55
+		Duration:	07:25:53
+		Location:	51.50697 0.02623
+
+	AJUW5
+		Images:	5432
+		Time:	04.12.2025 09:58:37 until 04.12.2025 15:36:13
+		Duration:	05:37:36
+		Location:	51.50697 0.02623
+
+	AKSTH1
+		Images:	6325
+		Time:	04.12.2025 06:03:57 until 04.12.2025 14:08:44
+		Duration:	08:04:47
+		Location:	51.50697 0.02623
+
+	AMALV5
+		Images:	5557
+		Time:	04.12.2025 09:52:23 until 04.12.2025 15:36:45
+		Duration:	05:44:22
+		Location:	51.50697 0.02623
+
+	AYCAN1
+		Images:	17089
+		Time:	04.12.2025 06:33:43 until 04.12.2025 14:08:14
+		Duration:	07:34:31
+		Location:	51.50697 0.02623
+
+	BALN5
+		Images:	3761
+		Time:	04.12.2025 09:55:59 until 04.12.2025 18:38:18
+		Duration:	08:42:19
+		Location:	51.50697 0.02623
+
+	BCUP5
+		Images:	1258
+		Time:	04.12.2025 18:05:35 until 04.12.2025 18:41:11
+		Duration:	00:35:36
+		Location:	51.50697 0.02623
+
+	BGAT1
+		Images:	6582
+		Time:	04.12.2025 14:22:20 until 04.12.2025 21:25:41
+		Duration:	07:03:21
+		Location:	51.50697 0.02623
+
+	BJUW5
+		Images:	2369
+		Time:	04.12.2025 18:08:05 until 04.12.2025 18:39:32
+		Duration:	00:31:27
+		Location:	51.50697 0.02623
+
+	BKYY1
+		Images:	8709
+		Time:	04.12.2025 14:09:06 until 04.12.2025 21:39:04
+		Duration:	07:29:58
+		Location:	51.50697 0.02623
+
+	BLZA1
+		Images:	4373
+		Time:	04.12.2025 14:07:29 until 04.12.2025 21:21:25
+		Duration:	07:13:56
+		Location:	51.50697 0.02623
+
+	BMALV5
+		Images:	2436
+		Time:	04.12.2025 18:07:56 until 04.12.2025 18:41:42
+		Duration:	00:33:46
+		Location:	51.50697 0.02623
+
+	BMKH1
+		Images:	4735
+		Time:	04.12.2025 14:35:10 until 04.12.2025 21:21:18
+		Duration:	06:46:08
+		Location:	51.50697 0.02623
+
+(8) - SkiErg
+	AAGP1
+		Images:	4887
+		Time:	04.12.2025 07:03:24 until 04.12.2025 13:57:44
+		Duration:	06:54:20
+		Location:	51.50697 0.02623
+
+	ACUP1
+		Images:	1126
+		Time:	04.12.2025 13:54:38 until 04.12.2025 14:08:42
+		Duration:	00:14:04
+		Location:	51.50697 0.02623
+
+	ADP1
+		Images:	15717
+		Time:	04.12.2025 07:02:17 until 04.12.2025 13:56:54
+		Duration:	06:54:37
+		Location:	51.50697 0.02623
+
+	AGUF1
+		Images:	4293
+		Time:	04.12.2025 07:03:41 until 04.12.2025 13:46:55
+		Duration:	06:43:14
+		Location:	51.50697 0.02623
+
+	AJUW1
+		Images:	571
+		Time:	04.12.2025 13:54:44 until 04.12.2025 14:06:39
+		Duration:	00:11:55
+		Location:	51.50697 0.02623
+
+	AKMIN1
+		Images:	12877
+		Time:	04.12.2025 06:14:55 until 04.12.2025 13:47:04
+		Duration:	07:32:09
+		Location:	51.50697 0.02623
+
+	ALSI1
+		Images:	9071
+		Time:	04.12.2025 07:02:42 until 04.12.2025 13:58:43
+		Duration:	06:56:01
+		Location:	51.50697 0.02623
+
+	AMALV1
+		Images:	3024
+		Time:	04.12.2025 07:43:52 until 04.12.2025 16:19:05
+		Duration:	08:35:13
+		Location:	51.50697 0.02623
+
+	ASHAK1
+		Images:	6731
+		Time:	13.03.2025 06:36:45 until 04.12.2025 13:46:49
+		Duration:	266.07:10:04
+		Location:	51.50697 0.02623
+
+	BAHO1
+		Images:	4481
+		Time:	04.12.2025 14:23:13 until 04.12.2025 19:55:17
+		Duration:	05:32:04
+		Location:	51.50697 0.02623
+
+	BCM1
+		Images:	5520
+		Time:	04.12.2025 14:03:32 until 04.12.2025 19:55:18
+		Duration:	05:51:46
+		Location:	51.50697 0.02623
+
+	BDART1
+		Images:	7292
+		Time:	04.12.2025 14:23:53 until 04.12.2025 19:54:37
+		Duration:	05:30:44
+		Location:	51.50697 0.02623
+
+	BDAWH1
+		Images:	3633
+		Time:	04.12.2025 14:23:18 until 04.12.2025 19:54:37
+		Duration:	05:31:19
+		Location:	51.50697 0.02623
+
+	BMYN1
+		Images:	4684
+		Time:	04.12.2025 14:07:19 until 04.12.2025 19:55:54
+		Duration:	05:48:35
+		Location:	51.50697 0.02623
+
+	BSAL1
+		Images:	6511
+		Time:	04.12.2025 14:06:34 until 04.12.2025 20:03:39
+		Duration:	05:57:05
+		Location:	51.50697 0.02623
+
+(9) - Sled Pull
+	AAHO1
+		Images:	4333
+		Time:	04.12.2025 06:35:11 until 04.12.2025 14:02:50
+		Duration:	07:27:39
+		Location:	51.50697 0.02623
+
+	ACM1
+		Images:	4063
+		Time:	04.12.2025 06:34:46 until 04.12.2025 13:55:36
+		Duration:	07:20:50
+		Location:	51.50697 0.02623
+
+	ADART1
+		Images:	7421
+		Time:	04.12.2025 06:56:35 until 04.12.2025 13:55:17
+		Duration:	06:58:42
+		Location:	51.50697 0.02623
+
+	ADAWH1
+		Images:	5315
+		Time:	04.12.2025 06:22:06 until 04.12.2025 14:02:36
+		Duration:	07:40:30
+		Location:	51.50697 0.02623
+
+	AMYN1
+		Images:	2523
+		Time:	04.12.2025 06:48:42 until 04.12.2025 14:00:42
+		Duration:	07:12:00
+		Location:	51.50697 0.02623
+
+	ASAL1
+		Images:	3127
+		Time:	04.12.2025 07:18:06 until 04.12.2025 13:56:55
+		Duration:	06:38:49
+		Location:	51.50697 0.02623
+
+	BAGP1
+		Images:	3882
+		Time:	04.12.2025 14:05:16 until 04.12.2025 20:16:58
+		Duration:	06:11:42
+		Location:	51.50697 0.02623
+
+	BDP1
+		Images:	7345
+		Time:	04.12.2025 14:01:58 until 04.12.2025 20:22:40
+		Duration:	06:20:42
+		Location:	51.50697 0.02623
+
+	BGUF1
+		Images:	3104
+		Time:	04.12.2025 14:04:34 until 04.12.2025 20:16:13
+		Duration:	06:11:39
+		Location:	51.50697 0.02623
+
+	BKMIN1
+		Images:	7624
+		Time:	04.12.2025 13:56:26 until 04.12.2025 20:25:44
+		Duration:	06:29:18
+		Location:	51.50697 0.02623
+
+	BLSI1
+		Images:	7791
+		Time:	04.12.2025 14:06:34 until 04.12.2025 20:11:44
+		Duration:	06:05:10
+		Location:	51.50697 0.02623
+
+	BSHAK1
+		Images:	3791
+		Time:	04.12.2025 14:02:54 until 04.12.2025 20:25:20
+		Duration:	06:22:26
+		Location:	51.50697 0.02623
+
+(10) - Sled Push
+	ACNS1
+		Images:	5098
+		Time:	04.12.2025 07:10:53 until 04.12.2025 13:56:50
+		Duration:	06:45:57
+		Location:	51.50697 0.02623
+
+	ALEBE1
+		Images:	2819
+		Time:	04.12.2025 07:10:16 until 04.12.2025 13:54:19
+		Duration:	06:44:03
+		Location:	51.50697 0.02623
+
+	ALOT1
+		Images:	2860
+		Time:	04.12.2025 07:11:02 until 04.12.2025 13:58:23
+		Duration:	06:47:21
+		Location:	51.50697 0.02623
+
+	AMAAU1
+		Images:	5045
+		Time:	04.12.2025 06:33:44 until 04.12.2025 13:58:17
+		Duration:	07:24:33
+		Location:	51.50697 0.02623
+
+	AMALV2
+		Images:	366
+		Time:	04.12.2025 14:02:23 until 04.12.2025 14:10:21
+		Duration:	00:07:58
+		Location:	51.50697 0.02623
+
+	AMKH1
+		Images:	3817
+		Time:	04.12.2025 06:27:32 until 04.12.2025 13:57:33
+		Duration:	07:30:01
+		Location:	51.50697 0.02623
+
+	BALN2
+		Images:	146
+		Time:	04.12.2025 13:54:00 until 04.12.2025 14:10:58
+		Duration:	00:16:58
+		Location:	51.50697 0.02623
+
+	BARRM1
+		Images:	1981
+		Time:	04.12.2025 14:32:59 until 04.12.2025 20:10:02
+		Duration:	05:37:03
+		Location:	51.50697 0.02623
+
+	BCMS1
+		Images:	6254
+		Time:	04.12.2025 14:09:49 until 04.12.2025 20:04:43
+		Duration:	05:54:54
+		Location:	51.50697 0.02623
+
+	BJAKO1
+		Images:	4417
+		Time:	04.12.2025 15:13:06 until 04.12.2025 21:06:27
+		Duration:	05:53:21
+		Location:	51.50697 0.02623
+
+	BKSTH1
+		Images:	2771
+		Time:	04.12.2025 14:34:12 until 04.12.2025 20:04:53
+		Duration:	05:30:41
+		Location:	51.50697 0.02623
+
+	BLRE1
+		Images:	2851
+		Time:	04.12.2025 14:40:28 until 04.12.2025 20:09:45
+		Duration:	05:29:17
+		Location:	51.50697 0.02623
+
+	BYCAN1
+		Images:	8581
+		Time:	04.12.2025 14:34:35 until 04.12.2025 20:11:17
+		Duration:	05:36:42
+		Location:	51.50697 0.02623
+
+(11) - Wall Balls
+	ACUP6
+		Images:	2385
+		Time:	04.12.2025 10:37:28 until 04.12.2025 16:11:51
+		Duration:	05:34:23
+		Location:	51.50697 0.02623
+
+	AGAT1
+		Images:	6340
+		Time:	04.12.2025 06:23:10 until 04.12.2025 14:15:24
+		Duration:	07:52:14
+		Location:	51.50697 0.02623
+
+	AJOEM1
+		Images:	9775
+		Time:	04.12.2025 06:37:38 until 04.12.2025 14:08:16
+		Duration:	07:30:38
+		Location:	51.50697 0.02623
+
+	AJUW6
+		Images:	3786
+		Time:	04.12.2025 10:38:06 until 04.12.2025 16:16:26
+		Duration:	05:38:20
+		Location:	51.50697 0.02623
+
+	AMALV6
+		Images:	1656
+		Time:	04.12.2025 10:38:01 until 04.12.2025 11:11:48
+		Duration:	00:33:47
+		Location:	51.50697 0.02623
+
+	ARLW1
+		Images:	4153
+		Time:	04.12.2025 07:09:04 until 04.12.2025 13:14:08
+		Duration:	06:05:04
+		Location:	51.50697 0.02623
+
+	ATOMY1
+		Images:	7814
+		Time:	04.12.2025 07:21:17 until 04.12.2025 13:15:57
+		Duration:	05:54:40
+		Location:	51.50697 0.02623
+
+	BALN6
+		Images:	2589
+		Time:	04.12.2025 09:00:33 until 04.12.2025 19:20:10
+		Duration:	10:19:37
+		Location:	51.50697 0.02623
+
+	BCUP6
+		Images:	663
+		Time:	04.12.2025 18:48:04 until 04.12.2025 19:17:51
+		Duration:	00:29:47
+		Location:	51.50697 0.02623
+
+	BJUW6
+		Images:	2248
+		Time:	04.12.2025 18:52:01 until 04.12.2025 19:16:44
+		Duration:	00:24:43
+		Location:	51.50697 0.02623
+
+	BMALV6
+		Images:	1337
+		Time:	04.12.2025 18:51:10 until 04.12.2025 19:19:29
+		Duration:	00:28:19
+		Location:	51.50697 0.02623
+
+	BMIMA1
+		Images:	5465
+		Time:	04.12.2025 14:15:49 until 04.12.2025 21:09:47
+		Duration:	06:53:58
+		Location:	51.50697 0.02623
+
+	BOH1
+		Images:	6363
+		Time:	04.12.2025 14:17:45 until 04.12.2025 21:09:07
+		Duration:	06:51:22
+		Location:	51.50697 0.02623
+
+	BSHP1
+		Images:	3812
+		Time:	04.12.2025 13:56:08 until 04.12.2025 22:06:23
+		Duration:	08:10:15
+		Location:	51.50697 0.02623
+
+	BWIN1
+		Images:	7989
+		Time:	04.12.2025 13:52:57 until 04.12.2025 22:09:03
+		Duration:	08:16:06
+		Location:	51.50697 0.02623
+

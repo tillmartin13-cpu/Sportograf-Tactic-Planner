@@ -1,0 +1,124 @@
+EventId: 13196
+Spots: 18
+Total Images: 179973
+Time:	27.11.2020 07:30:58 to 27.04.2025 16:14:58
+Duration: 1612.08:44:00
+
+(1) - Start
+	FMT1
+		Images:	2265
+		Time:	27.04.2025 07:19:35 until 27.04.2025 09:00:43
+		Duration:	01:41:08
+		Location:	51.23493 6.77175
+
+(2) - 1,0 km
+	AG1
+		Images:	4635
+		Time:	27.04.2025 08:05:40 until 27.04.2025 09:40:25
+		Duration:	01:34:45
+		Location:	51.23535 6.7779
+
+(3) - 2,5 km Königsallee (Kö-Galerie)
+	WEN1
+		Images:	13219
+		Time:	27.11.2020 07:30:58 until 27.04.2025 13:16:32
+		Duration:	1612.05:45:34
+		Location:	51.22303 6.77916
+
+(4) - Impressions / Pano
+	AG1DRONE1
+		Images:	23
+		Time:	27.04.2025 08:57:36 until 27.04.2025 09:05:52
+		Duration:	00:08:16
+		Location:	51.23535 6.7779
+
+	PANO1
+(5) - 3,0 km Königsallee
+	JTA1
+		Images:	4087
+		Time:	27.04.2025 08:33:36 until 27.04.2025 13:19:01
+		Duration:	04:45:25
+		Location:	51.22552 6.77851
+
+(6) - 3,5km vor dem Ziel (Stadttor)
+	MARSC1
+		Images:	12151
+		Time:	27.04.2025 06:01:38 until 27.04.2025 15:16:35
+		Duration:	09:14:57
+		Location:	51.2156 6.7629
+
+(7) - km4/21, km25/42 (Ratinger Tor)
+	NKR1
+		Images:	6375
+		Time:	27.04.2025 07:10:20 until 27.04.2025 13:27:23
+		Duration:	06:17:03
+		Location:	51.22981 6.77769
+
+(8) - 13,0 km Tonhalle (Marathon)
+	FMT2
+		Images:	12576
+		Time:	27.04.2025 09:59:44 until 27.04.2025 12:03:35
+		Duration:	02:03:51
+		Location:	51.23172 6.77057
+
+(9) - 14,0 km Luegplatz (Marathon)
+	AG2
+		Images:	341
+		Time:	27.04.2025 09:40:34 until 27.04.2025 10:20:49
+		Duration:	00:40:15
+		Location:	51.2317 6.76358
+
+(10) - 19,0 km Oberkassel (Marathon)
+	AG3
+		Images:	19890
+		Time:	27.04.2025 10:29:11 until 27.04.2025 12:46:18
+		Duration:	02:17:07
+		Location:	51.23032 6.76256
+
+(11) - 9km vor dem Ziel (Hofgarten)
+	PMC1
+		Images:	9824
+		Time:	27.04.2025 08:56:28 until 27.04.2025 14:39:29
+		Duration:	05:43:01
+		Location:	51.22974 6.78733
+
+(12) - 4km vor dem Ziel (Zollhof)
+	SJA1
+		Images:	25339
+		Time:	27.04.2025 08:33:10 until 27.04.2025 15:13:44
+		Duration:	06:40:34
+		Location:	51.21629 6.75929
+
+	SJA1LS1
+		Images:	12401
+		Time:	27.04.2025 08:58:03 until 27.04.2025 14:58:59
+		Duration:	06:00:56
+		Location:	51.21629 6.75929
+
+(13) - 2,2km vor dem Ziel (Graf-Adolf-Platz)
+	BENP1
+		Images:	10720
+		Time:	27.04.2025 08:59:21 until 27.04.2025 15:29:37
+		Duration:	06:30:16
+		Location:	51.21913 6.77764
+
+(14) - 1km vor dem Ziel (Apollowiese)
+	STL1
+		Images:	16019
+		Time:	27.04.2025 09:05:05 until 27.04.2025 15:59:39
+		Duration:	06:54:34
+		Location:	51.22079 6.76656
+
+(15) - Finish
+	VL1
+		Images:	15209
+		Time:	27.04.2025 09:18:02 until 27.04.2025 16:14:58
+		Duration:	06:56:56
+		Location:	51.2234 6.7687
+
+	VL1LS1
+		Images:	14899
+		Time:	27.04.2025 08:33:29 until 27.04.2025 16:06:45
+		Duration:	07:33:16
+		Location:	51.2234 6.7687
+

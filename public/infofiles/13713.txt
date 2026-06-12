@@ -1,0 +1,141 @@
+EventId: 13713
+Spots: 20
+Total Images: 73785
+Time:	08.11.2025 18:22:55 to 09.11.2025 14:06:05
+Duration: 19:43:10
+
+(1) - Bike - 0.5 km 1st spot
+	RECA1
+		Images:	1218
+		Time:	09.11.2025 01:54:17 until 09.11.2025 07:08:47
+		Duration:	05:14:30
+		Location:	-37.86026 144.97192
+
+(2) - Bike - 4.0 km 1st Spot
+	WP1
+		Images:	9053
+		Time:	08.11.2025 20:18:27 until 09.11.2025 07:09:58
+		Duration:	10:51:31
+		Location:	-37.84048 144.97546
+
+(3) - Bike - 4.5 km 1st Spot
+	EMM1
+		Images:	5510
+		Time:	09.11.2025 04:25:04 until 09.11.2025 07:27:12
+		Duration:	03:02:08
+		Location:	-37.86416 144.97219
+
+(4) - Bike - 5.0 km 1st Spot
+	DJA1
+		Images:	4828
+		Time:	09.11.2025 05:36:37 until 09.11.2025 08:16:54
+		Duration:	02:40:17
+		Location:	-37.88195 144.97789
+
+(5) - Bike - 5.0 km 1st Spot unitl 10am after 10 am will be 50km
+	DTI1
+		Images:	5051
+		Time:	08.11.2025 18:22:55 until 09.11.2025 08:59:09
+		Duration:	14:36:14
+		Location:	-37.88195 144.97789
+
+(6) - Bike - 5.0 km LS
+	DTI1LS1
+		Images:	5685
+		Time:	08.11.2025 18:23:40 until 09.11.2025 08:47:51
+		Duration:	14:24:11
+		Location:	-37.88195 144.97789
+
+(7) - Bike - 84.0 km
+	PBOY2
+		Images:	343
+		Time:	09.11.2025 09:01:37 until 09.11.2025 10:41:58
+		Duration:	01:40:21
+		Location:	-37.91996 144.98817
+
+(8) - Bike - 9.0 km 1st Spot Southbound
+	PBOY1
+		Images:	6325
+		Time:	09.11.2025 05:17:58 until 09.11.2025 08:43:40
+		Duration:	03:25:42
+		Location:	-37.92136 144.98801
+
+(9) - Bike - Transition zone 2nd Spot
+	KSL2
+		Images:	1253
+		Time:	09.11.2025 05:27:06 until 09.11.2025 07:32:16
+		Duration:	02:05:10
+		Location:	-37.86048 144.97206
+
+(10) - Finish
+	DTI2
+		Images:	2220
+		Time:	09.11.2025 11:06:11 until 09.11.2025 12:47:55
+		Duration:	01:41:44
+		Location:	-37.86118 144.97137
+
+	KSL3
+		Images:	3261
+		Time:	09.11.2025 08:57:56 until 09.11.2025 14:06:04
+		Duration:	05:08:08
+		Location:	-37.86118 144.97137
+
+	KSL4
+		Images:	607
+		Time:	09.11.2025 11:31:55 until 09.11.2025 12:48:49
+		Duration:	01:16:54
+		Location:	-37.86264 144.97253
+
+	PBOY3
+		Images:	1351
+		Time:	09.11.2025 12:12:00 until 09.11.2025 13:18:41
+		Duration:	01:06:41
+		Location:	-37.86118 144.97137
+
+	WP2
+		Images:	12065
+		Time:	09.11.2025 07:43:47 until 09.11.2025 11:29:02
+		Duration:	03:45:15
+		Location:	-37.86264 144.97253
+
+	RECA3
+		Images:	950
+		Time:	09.11.2025 11:05:32 until 09.11.2025 14:06:05
+		Duration:	03:00:33
+		Location:	-37.86264 144.97253
+
+(11) - Run - 0.2 km 2nd Spot
+	RECA2
+		Images:	1168
+		Time:	09.11.2025 07:42:53 until 09.11.2025 10:47:20
+		Duration:	03:04:27
+		Location:	-37.83762 144.97083
+
+(12) - Run - 1.0 km 2nd Spot
+	EMM2
+		Images:	6183
+		Time:	08.11.2025 19:00:17 until 09.11.2025 11:30:56
+		Duration:	16:30:39
+		Location:	-37.84048 144.97546
+
+(13) - Run - 2.5 km 2nd Spot Until 12 and then doing 18km
+	DJA2
+		Images:	5591
+		Time:	09.11.2025 08:42:13 until 09.11.2025 13:18:51
+		Duration:	04:36:38
+		Location:	-37.88229 144.97600
+
+(14) - Run - 20.0 km 3rd Spot
+	EMM3
+		Images:	1024
+		Time:	09.11.2025 11:58:27 until 09.11.2025 14:05:19
+		Duration:	02:06:52
+		Location:	-37.86518 144.97112
+
+(15) - Swim - Transition zone 1st Spot No Swiming but Transition to Bike
+	KSL1
+		Images:	99
+		Time:	09.11.2025 04:37:56 until 09.11.2025 05:25:24
+		Duration:	00:47:28
+		Location:	-37.83762 144.97083
+

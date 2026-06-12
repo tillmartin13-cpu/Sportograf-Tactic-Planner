@@ -1,0 +1,79 @@
+EventId: 13792
+Spots: 12
+Total Images: 27273
+Time:	06.09.2025 07:48:46 to 06.09.2025 16:35:29
+Duration: 08:46:43
+
+(1) - km 1,8 all loops
+	MK1
+		Images:	4982
+		Time:	06.09.2025 07:56:29 until 06.09.2025 13:00:32
+		Duration:	05:04:03
+		Location:	50.86018 5.79832
+
+	MK1LS1
+		Images:	1224
+		Time:	06.09.2025 08:55:18 until 06.09.2025 12:56:50
+		Duration:	04:01:32
+		Location:	50.86018 5.79832
+
+	MK1LS2
+		Images:	1113
+		Time:	06.09.2025 08:08:55 until 06.09.2025 12:54:48
+		Duration:	04:45:53
+		Location:	50.86018 5.79832
+
+(2) - 1.8 km all loops (Afdaling Brakke Berg)
+	LV1
+		Images:	3714
+		Time:	06.09.2025 08:18:47 until 06.09.2025 13:04:29
+		Duration:	04:45:42
+		Location:	50.86511 5.79031
+
+	LV1LS1
+		Images:	1696
+		Time:	06.09.2025 07:58:14 until 06.09.2025 13:04:53
+		Duration:	05:06:39
+		Location:	50.86511 5.79031
+
+	LV1LS2
+		Images:	1274
+		Time:	06.09.2025 08:07:17 until 06.09.2025 13:07:27
+		Duration:	05:00:10
+		Location:	50.86511 5.79031
+
+(3) - 3.0 km all loops en first downhill
+	JOS1
+		Images:	6197
+		Time:	06.09.2025 07:48:46 until 06.09.2025 13:32:22
+		Duration:	05:43:36
+		Location:	50.86728 5.79084
+
+(4) - Cauberg 800 meters to the finish
+	JOS2
+		Images:	1324
+		Time:	06.09.2025 13:48:34 until 06.09.2025 16:34:09
+		Duration:	02:45:35
+		Location:	50.86252 5.82957
+
+	LV2
+		Images:	1067
+		Time:	06.09.2025 13:44:35 until 06.09.2025 16:35:29
+		Duration:	02:50:54
+		Location:	50.86252 5.82957
+
+(5) - Cauberg 300 meters to the finish
+	MK2
+		Images:	4642
+		Time:	06.09.2025 13:58:13 until 06.09.2025 16:32:22
+		Duration:	02:34:09
+		Location:	50.86102 5.82353
+
+(6) - Impressions / Pano
+	MK1DRONE1
+		Images:	40
+		Time:	06.09.2025 09:22:13 until 06.09.2025 16:06:57
+		Duration:	06:44:44
+		Location:	50.86102 5.82353
+
+	PANO1

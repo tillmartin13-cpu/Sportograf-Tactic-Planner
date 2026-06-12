@@ -1,0 +1,169 @@
+EventId: 14387
+Spots: 25
+Total Images: 146130
+Time:	15.08.2025 18:30:16 to 17.08.2025 13:28:24
+Duration: 1.18:58:08
+
+(1) - Obstacle 5 Bender
+	MAT1
+		Images:	6061
+		Time:	16.08.2025 07:22:37 until 17.08.2025 10:13:43
+		Duration:	1.02:51:06
+		Location:	42.43394 -72.12952
+
+	MAT1LS1
+		Images:	5255
+		Time:	16.08.2025 08:10:46 until 16.08.2025 12:20:58
+		Duration:	04:10:12
+		Location:	42.43394 -72.12952
+
+	DANG1
+		Images:	4320
+		Time:	16.08.2025 07:23:18 until 17.08.2025 06:59:25
+		Duration:	23:36:07
+		Location:	42.43394 -72.12952
+
+(2) - Obstacle 6 Plate Drag
+	EUGP1
+		Images:	2334
+		Time:	16.08.2025 07:35:34 until 16.08.2025 12:56:24
+		Duration:	05:20:50
+		Location:	42.43405 -72.13063
+
+	YEP1
+		Images:	5037
+		Time:	16.08.2025 07:23:55 until 16.08.2025 12:57:38
+		Duration:	05:33:43
+		Location:	42.43405 -72.13063
+
+(3) - Obstacle 12 Helix
+	EUGP2
+		Images:	538
+		Time:	16.08.2025 13:29:24 until 16.08.2025 15:14:46
+		Duration:	01:45:22
+		Location:	42.42886 -72.12175
+
+	YEP2
+		Images:	1012
+		Time:	16.08.2025 13:40:17 until 16.08.2025 15:15:34
+		Duration:	01:35:17
+		Location:	42.42886 -72.12175
+
+	VICY2
+		Images:	2594
+		Time:	16.08.2025 12:33:29 until 16.08.2025 19:46:28
+		Duration:	07:12:59
+		Location:	42.42886 -72.12175
+
+(4) - Obstacle 13 A Frame Cargo
+	PEC1
+		Images:	24353
+		Time:	15.08.2025 20:16:41 until 17.08.2025 07:31:00
+		Duration:	1.11:14:19
+		Location:	42.42852 -72.12130
+
+	VICY3
+		Images:	1094
+		Time:	16.08.2025 11:30:55 until 17.08.2025 10:23:33
+		Duration:	22:52:38
+		Location:	42.42852 -72.12130
+
+(5) - Obstacle 19 Dunk Wall
+	WMY1
+		Images:	11635
+		Time:	15.08.2025 23:04:42 until 16.08.2025 15:49:43
+		Duration:	16:45:01
+		Location:	42.43141 -72.11547
+
+	VICY4
+		Images:	860
+		Time:	16.08.2025 11:08:54 until 16.08.2025 19:39:54
+		Duration:	08:31:00
+		Location:	42.43141 -72.11547
+
+(6) - Obstacle 21 Slip Wall
+	MAT2
+		Images:	1541
+		Time:	16.08.2025 13:42:04 until 16.08.2025 15:34:31
+		Duration:	01:52:27
+		Location:	42.43102 -72.11466
+
+(7) - Obstacle 22 Barbed Wire Crawl #2
+	MRKE1
+		Images:	16625
+		Time:	16.08.2025 07:50:03 until 17.08.2025 06:57:13
+		Duration:	23:07:10
+		Location:	42.43077 -72.11425
+
+	VICY5
+		Images:	585
+		Time:	16.08.2025 10:51:05 until 16.08.2025 19:37:44
+		Duration:	08:46:39
+		Location:	42.43077 -72.11425
+
+(8) - Obstacle 23 Sandbag Carry
+	DANG2
+		Images:	3434
+		Time:	16.08.2025 13:29:57 until 16.08.2025 16:02:20
+		Duration:	02:32:23
+		Location:	42.42641 -72.11058
+
+(9) - Obstacle 24 Multi-Rig
+	ALTO1
+		Images:	13598
+		Time:	16.08.2025 07:47:58 until 17.08.2025 07:10:45
+		Duration:	23:22:47
+		Location:	42.42600 -72.11536
+
+	ANMF1
+		Images:	13571
+		Time:	16.08.2025 07:51:44 until 17.08.2025 07:22:24
+		Duration:	23:30:40
+		Location:	42.42600 -72.11536
+
+(10) - Obstacle 25 Bucket Carry
+	JAYA1
+		Images:	13220
+		Time:	15.08.2025 18:30:16 until 16.08.2025 16:28:13
+		Duration:	21:57:57
+		Location:	42.42472 -72.12258
+
+	VICY6
+		Images:	450
+		Time:	16.08.2025 11:58:18 until 16.08.2025 12:08:46
+		Duration:	00:10:28
+		Location:	42.42472 -72.12258
+
+(11) - Obstacle 28 Fire Jump
+	LMB1
+		Images:	7747
+		Time:	16.08.2025 07:46:38 until 17.08.2025 13:08:56
+		Duration:	1.05:22:18
+		Location:	42.42869 -72.12175
+
+	VICY7
+		Images:	580
+		Time:	16.08.2025 12:16:52 until 16.08.2025 12:31:04
+		Duration:	00:14:12
+		Location:	42.42869 -72.12175
+
+(12) - Herotent
+	KLOW1
+		Images:	8913
+		Time:	16.08.2025 07:42:59 until 16.08.2025 16:44:19
+		Duration:	09:01:20
+		Location:	42.42466 -72.12402
+
+	VICY8
+		Images:	221
+		Time:	16.08.2025 13:42:19 until 16.08.2025 13:54:33
+		Duration:	00:12:14
+		Location:	42.42466 -72.12402
+
+(13) - Venue
+	VICY1
+		Images:	543
+		Time:	16.08.2025 09:17:48 until 17.08.2025 09:26:27
+		Duration:	1.00:08:39
+		Location:	42.42466 -72.12402
+

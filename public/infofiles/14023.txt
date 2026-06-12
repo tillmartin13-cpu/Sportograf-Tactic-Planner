@@ -1,0 +1,102 @@
+EventId: 14023
+Spots: 15
+Total Images: 35802
+Time:	28.08.2025 19:06:19 to 30.08.2025 22:52:03
+Duration: 2.03:45:44
+
+(1) - Start
+	RJ1
+		Images:	81
+		Time:	30.08.2025 18:47:28 until 30.08.2025 19:00:03
+		Duration:	00:12:35
+		Location:	50.97536 11.01469
+
+(2) - 0.6 km Lauentor
+	DAR1
+		Images:	2373
+		Time:	30.08.2025 18:59:09 until 30.08.2025 22:08:21
+		Duration:	03:09:12
+		Location:	50.97661 11.01542
+
+(3) - 0,6 km Lauentor
+	DAR1LS1
+		Images:	2399
+		Time:	30.08.2025 18:27:08 until 30.08.2025 22:08:02
+		Duration:	03:40:54
+		Location:	50.97661 11.01542
+
+(4) - 3,8km Rathausbruecke
+	UL1
+		Images:	1915
+		Time:	30.08.2025 19:12:03 until 30.08.2025 22:22:19
+		Duration:	03:10:16
+		Location:	50.97864 11.02799
+
+	UL1LS1
+		Images:	2700
+		Time:	28.08.2025 19:06:19 until 28.08.2025 22:27:11
+		Duration:	03:20:52
+		Location:	50.97864 11.02799
+
+(5) - 4,1 km Rathaus
+	DG1
+		Images:	6645
+		Time:	30.08.2025 18:31:39 until 30.08.2025 22:52:03
+		Duration:	04:20:24
+		Location:	50.97764 11.02637
+
+(6) - 4,2km Tigerente
+	SBU1
+		Images:	3038
+		Time:	30.08.2025 19:18:51 until 30.08.2025 22:44:17
+		Duration:	03:25:26
+		Location:	50.97732 11.02668
+
+	SBU1LS1
+		Images:	3881
+		Time:	30.08.2025 19:18:03 until 30.08.2025 22:20:37
+		Duration:	03:02:34
+		Location:	50.97732 11.02668
+
+(7) - 5,2 Herrmannsbrunnen
+	NU1
+		Images:	2151
+		Time:	30.08.2025 17:56:49 until 30.08.2025 22:42:46
+		Duration:	04:45:57
+		Location:	50.97395 11.01947
+
+	NU1LS1
+		Images:	4307
+		Time:	30.08.2025 17:51:31 until 30.08.2025 22:28:58
+		Duration:	04:37:27
+		Location:	50.97395 11.01947
+
+(8) - 5,4km Laufstrecke Ziel
+	RJ1LS1
+		Images:	1796
+		Time:	30.08.2025 20:10:04 until 30.08.2025 22:18:21
+		Duration:	02:08:17
+		Location:	50.97521 11.01600
+
+(9) - Finish
+	RJ2
+		Images:	3017
+		Time:	30.08.2025 19:15:54 until 30.08.2025 22:44:59
+		Duration:	03:29:05
+		Location:	50.97521 11.01600
+
+	RJ1LS2
+		Images:	1494
+		Time:	30.08.2025 19:18:45 until 30.08.2025 22:45:45
+		Duration:	03:27:00
+		Location:	50.97521 11.01600
+
+(10) - Drohne
+	DAR1DRONE1
+		Images:	5
+		Time:	30.08.2025 19:22:26 until 30.08.2025 19:25:55
+		Duration:	00:03:29
+		Location:	50.97521 11.01600
+
+(11) - Impressions / Pano
+	PANO1

@@ -1,0 +1,342 @@
+EventId: 14809
+Spots: 55
+Total Images: 164942
+Time:	08.02.2025 06:37:00 to 09.02.2025 20:57:48
+Duration: 1.14:20:48
+
+(1) - IMPRESSION
+	ATRE1
+		Images:	34
+		Time:	08.02.2025 06:37:00 until 09.02.2025 07:14:57
+		Duration:	1.00:37:57
+		Location:	43.66514 1.35357
+
+	GGT1
+		Images:	30
+		Time:	09.02.2025 06:56:48 until 09.02.2025 07:37:49
+		Duration:	00:41:01
+		Location:	43.66514 1.35357
+
+	DAFE1
+		Images:	21
+		Time:	09.02.2025 06:50:42 until 09.02.2025 07:36:03
+		Duration:	00:45:21
+		Location:	43.66514 1.35357
+
+	GGA1
+		Images:	17
+		Time:	09.02.2025 06:52:23 until 09.02.2025 07:21:17
+		Duration:	00:28:54
+		Location:	43.66514 1.35357
+
+	JCR1
+		Images:	19
+		Time:	09.02.2025 06:22:18 until 09.02.2025 07:14:49
+		Duration:	00:52:31
+		Location:	43.66514 1.35357
+
+	RAVE1
+		Images:	72
+		Time:	08.02.2025 06:41:47 until 09.02.2025 07:14:49
+		Duration:	1.00:33:02
+		Location:	43.66514 1.35357
+
+	UGA1
+		Images:	24
+		Time:	09.02.2025 07:01:12 until 09.02.2025 07:44:37
+		Duration:	00:43:25
+		Location:	43.66514 1.35357
+
+	JLTG1
+		Images:	703
+		Time:	09.02.2025 07:12:05 until 09.02.2025 10:02:29
+		Duration:	02:50:24
+		Location:	43.66514 1.35357
+
+	STO1
+		Images:	125
+		Time:	09.02.2025 06:55:59 until 09.02.2025 09:55:41
+		Duration:	02:59:42
+		Location:	43.66514 1.35357
+
+	MANR1
+		Images:	691
+		Time:	09.02.2025 07:19:30 until 09.02.2025 14:54:41
+		Duration:	07:35:11
+		Location:	43.66514 1.35357
+
+(2) - SKIERG
+	AIS1
+		Images:	7523
+		Time:	08.02.2025 06:47:23 until 09.02.2025 13:50:36
+		Duration:	1.07:03:13
+		Location:	43.66514 1.35357
+
+	MRAB1
+		Images:	15270
+		Time:	09.02.2025 07:06:56 until 09.02.2025 14:02:51
+		Duration:	06:55:55
+		Location:	43.66514 1.35357
+
+	URU1
+		Images:	5128
+		Time:	08.02.2025 06:45:56 until 09.02.2025 13:51:10
+		Duration:	1.07:05:14
+		Location:	43.66514 1.35357
+
+	ANC2
+		Images:	3973
+		Time:	09.02.2025 14:03:18 until 09.02.2025 19:18:04
+		Duration:	05:14:46
+		Location:	43.66514 1.35357
+
+	STO2
+		Images:	719
+		Time:	09.02.2025 15:06:28 until 09.02.2025 18:18:15
+		Duration:	03:11:47
+		Location:	43.66514 1.35357
+
+	JIA2
+		Images:	2061
+		Time:	09.02.2025 14:26:22 until 09.02.2025 19:17:27
+		Duration:	04:51:05
+		Location:	43.66514 1.35357
+
+	JLTG9
+		Images:	667
+		Time:	09.02.2025 17:51:34 until 09.02.2025 18:21:01
+		Duration:	00:29:27
+		Location:	43.66514 1.35357
+
+(3) - SLED PUSH
+	ANC1
+		Images:	2409
+		Time:	09.02.2025 06:54:24 until 09.02.2025 14:02:34
+		Duration:	07:08:10
+		Location:	43.66514 1.35357
+
+	JIA1
+		Images:	1045
+		Time:	09.02.2025 06:44:21 until 09.02.2025 14:12:23
+		Duration:	07:28:02
+		Location:	43.66514 1.35357
+
+	TGM2
+		Images:	7310
+		Time:	09.02.2025 14:06:57 until 09.02.2025 19:26:21
+		Duration:	05:19:24
+		Location:	43.66514 1.35357
+
+	STO3
+		Images:	192
+		Time:	09.02.2025 14:12:11 until 09.02.2025 14:36:38
+		Duration:	00:24:27
+		Location:	43.66514 1.35357
+
+	JMO1
+		Images:	2922
+		Time:	09.02.2025 07:17:04 until 09.02.2025 14:11:39
+		Duration:	06:54:35
+		Location:	43.66514 1.35357
+
+	GGT3
+		Images:	3645
+		Time:	09.02.2025 14:37:30 until 09.02.2025 19:26:21
+		Duration:	04:48:51
+		Location:	43.66514 1.35357
+
+	UGA3
+		Images:	2673
+		Time:	09.02.2025 14:36:02 until 09.02.2025 19:31:13
+		Duration:	04:55:11
+		Location:	43.66514 1.35357
+
+(4) - SLED PULL
+	TGM1
+		Images:	6156
+		Time:	09.02.2025 07:22:08 until 09.02.2025 13:59:41
+		Duration:	06:37:33
+		Location:	43.66514 1.35357
+
+	AIS2
+		Images:	3152
+		Time:	09.02.2025 14:14:32 until 09.02.2025 19:34:12
+		Duration:	05:19:40
+		Location:	43.66514 1.35357
+
+	MRAB2
+		Images:	6353
+		Time:	09.02.2025 14:08:55 until 09.02.2025 19:25:46
+		Duration:	05:16:51
+		Location:	43.66514 1.35357
+
+	JRD1
+		Images:	2129
+		Time:	09.02.2025 07:08:16 until 09.02.2025 14:07:13
+		Duration:	06:58:57
+		Location:	43.66514 1.35357
+
+	URU2
+		Images:	2776
+		Time:	09.02.2025 14:06:36 until 09.02.2025 19:52:18
+		Duration:	05:45:42
+		Location:	43.66514 1.35357
+
+	JPBR1
+		Images:	2903
+		Time:	09.02.2025 07:24:20 until 09.02.2025 14:42:26
+		Duration:	07:18:06
+		Location:	43.66514 1.35357
+
+(5) - ROWING
+	RAVE2
+		Images:	7026
+		Time:	09.02.2025 07:33:15 until 09.02.2025 14:16:25
+		Duration:	06:43:10
+		Location:	43.66514 1.35357
+
+	ATRE2
+		Images:	2267
+		Time:	09.02.2025 07:37:49 until 09.02.2025 14:19:10
+		Duration:	06:41:21
+		Location:	43.66514 1.35357
+
+	STO5
+		Images:	1783
+		Time:	09.02.2025 11:13:55 until 09.02.2025 17:29:34
+		Duration:	06:15:39
+		Location:	43.66514 1.35357
+
+	JLTG5
+		Images:	230
+		Time:	09.02.2025 10:51:28 until 09.02.2025 11:00:46
+		Duration:	00:09:18
+		Location:	43.66514 1.35357
+
+	GGA3
+		Images:	4259
+		Time:	09.02.2025 14:26:24 until 09.02.2025 20:08:01
+		Duration:	05:41:37
+		Location:	43.66514 1.35357
+
+	JMO2
+		Images:	4616
+		Time:	09.02.2025 14:20:41 until 09.02.2025 19:50:41
+		Duration:	05:30:00
+		Location:	43.66514 1.35357
+
+(6) - SANDBAG
+	GGA2
+		Images:	3759
+		Time:	08.02.2025 18:48:34 until 09.02.2025 14:14:07
+		Duration:	19:25:33
+		Location:	43.66514 1.35357
+
+	STO6
+		Images:	274
+		Time:	09.02.2025 16:22:04 until 09.02.2025 16:40:29
+		Duration:	00:18:25
+		Location:	43.66514 1.35357
+
+	JCR3
+		Images:	2734
+		Time:	09.02.2025 14:28:31 until 09.02.2025 20:25:21
+		Duration:	05:56:50
+		Location:	43.66514 1.35357
+
+	JLTG6
+		Images:	839
+		Time:	09.02.2025 11:41:45 until 09.02.2025 12:21:10
+		Duration:	00:39:25
+		Location:	43.66514 1.35357
+
+	JRD2
+		Images:	3405
+		Time:	09.02.2025 14:14:40 until 09.02.2025 20:23:33
+		Duration:	06:08:53
+		Location:	43.66514 1.35357
+
+(7) - WALL BALLS
+	UGA2
+		Images:	5902
+		Time:	09.02.2025 07:51:23 until 09.02.2025 14:20:36
+		Duration:	06:29:13
+		Location:	43.66514 1.35357
+
+	ATRE3
+		Images:	1265
+		Time:	09.02.2025 14:22:48 until 09.02.2025 20:25:33
+		Duration:	06:02:45
+		Location:	43.66514 1.35357
+
+	GGT2
+		Images:	3541
+		Time:	09.02.2025 07:55:25 until 09.02.2025 14:22:00
+		Duration:	06:26:35
+		Location:	43.66514 1.35357
+
+	RAVE3
+		Images:	3094
+		Time:	09.02.2025 14:24:44 until 09.02.2025 20:45:57
+		Duration:	06:21:13
+		Location:	43.66514 1.35357
+
+	STO7
+		Images:	1850
+		Time:	09.02.2025 11:58:53 until 09.02.2025 19:12:34
+		Duration:	07:13:41
+		Location:	43.66514 1.35357
+
+	JLTG7
+		Images:	1937
+		Time:	09.02.2025 12:36:49 until 09.02.2025 19:29:41
+		Duration:	06:52:52
+		Location:	43.66514 1.35357
+
+(8) - FARMERS CARRY
+	STO9LS1
+		Images:	6016
+		Time:	09.02.2025 06:44:55 until 09.02.2025 20:18:51
+		Duration:	13:33:56
+		Location:	43.66514 1.35357
+
+	TGM3LS1
+		Images:	7758
+		Time:	09.02.2025 06:27:30 until 09.02.2025 20:17:47
+		Duration:	13:50:17
+		Location:	43.66514 1.35357
+
+(9) - Finish
+	JCR2
+		Images:	9189
+		Time:	09.02.2025 07:57:27 until 09.02.2025 14:12:08
+		Duration:	06:14:41
+		Location:	43.66514 1.35357
+
+	JPBR2
+		Images:	2689
+		Time:	09.02.2025 14:42:57 until 09.02.2025 20:57:48
+		Duration:	06:14:51
+		Location:	43.66514 1.35357
+
+	JLTG10LS1
+		Images:	4090
+		Time:	09.02.2025 06:39:05 until 09.02.2025 20:43:32
+		Duration:	14:04:27
+		Location:	43.66514 1.35357
+
+	STO8
+		Images:	1899
+		Time:	09.02.2025 12:45:58 until 09.02.2025 19:25:08
+		Duration:	06:39:10
+		Location:	43.66514 1.35357
+
+(10) - HERO WALL
+	DAFE2
+		Images:	3778
+		Time:	09.02.2025 07:40:05 until 09.02.2025 20:53:47
+		Duration:	13:13:42
+		Location:	43.66514 1.35357
+
+(11) - Impressions / Pano
+	PANO1

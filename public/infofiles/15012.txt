@@ -1,0 +1,197 @@
+EventId: 15012
+Spots: 31
+Total Images: 148783
+Time:	16.01.2025 23:31:41 to 18.01.2025 06:16:31
+Duration: 1.06:44:50
+
+(1) - Start
+	NIZ1
+		Images:	4000
+		Time:	16.01.2025 23:31:41 until 17.01.2025 08:42:52
+		Duration:	09:11:11
+		Location:	25.32072 51.53342
+
+	GSH1
+		Images:	474
+		Time:	17.01.2025 04:45:08 until 17.01.2025 08:43:27
+		Duration:	03:58:19
+		Location:	25.32072 51.53342
+
+(2) - National Theater / Corniche
+	ARP1
+		Images:	6619
+		Time:	17.01.2025 04:59:25 until 17.01.2025 08:34:59
+		Duration:	03:35:34
+		Location:	25.30968 51.51882
+
+	MUP1
+		Images:	6456
+		Time:	17.01.2025 05:07:57 until 17.01.2025 08:22:36
+		Duration:	03:14:39
+		Location:	25.30968 51.51882
+
+	MUP1LS1
+		Images:	1772
+		Time:	17.01.2025 04:47:58 until 17.01.2025 08:23:17
+		Duration:	03:35:19
+		Location:	25.30968 51.51882
+
+(3) - Al Tawoon Street
+	SAQ1
+		Images:	9754
+		Time:	17.01.2025 04:20:25 until 17.01.2025 10:07:06
+		Duration:	05:46:41
+		Location:	25.31838 51.52542
+
+(4) - Abdullah Bin Zaid Al Mahmoud Islamic Cultural Center
+	ASTU1
+		Images:	14148
+		Time:	17.01.2025 04:10:26 until 17.01.2025 10:52:39
+		Duration:	06:42:13
+		Location:	25.31017 51.51939
+
+	CK1
+		Images:	13563
+		Time:	17.01.2025 05:10:48 until 17.01.2025 11:06:52
+		Duration:	05:56:04
+		Location:	25.31017 51.51939
+
+	CK1LS1
+		Images:	12826
+		Time:	17.01.2025 05:48:07 until 17.01.2025 10:29:05
+		Duration:	04:40:58
+		Location:	25.31017 51.51939
+
+	CK1LS2
+		Images:	8381
+		Time:	17.01.2025 06:08:02 until 17.01.2025 09:58:10
+		Duration:	03:50:08
+		Location:	25.31017 51.51939
+
+(5) - Amiri Diwan
+	MBEN1
+		Images:	7642
+		Time:	17.01.2025 04:09:12 until 17.01.2025 11:21:28
+		Duration:	07:12:16
+		Location:	25.29422 51.52536
+
+	MBEN1LS1
+		Images:	4294
+		Time:	17.01.2025 05:29:56 until 17.01.2025 11:21:42
+		Duration:	05:51:46
+		Location:	25.29422 51.52536
+
+	MW1
+		Images:	10284
+		Time:	17.01.2025 05:53:48 until 17.01.2025 11:20:44
+		Duration:	05:26:56
+		Location:	25.29422 51.52536
+
+(6) - Doha Tower
+	GUD1
+		Images:	14840
+		Time:	17.01.2025 07:08:35 until 17.01.2025 11:57:23
+		Duration:	04:48:48
+		Location:	25.31792 51.53086
+
+	GUD1LS2
+		Images:	4268
+		Time:	17.01.2025 06:31:24 until 17.01.2025 10:42:11
+		Duration:	04:10:47
+		Location:	25.31792 51.53086
+
+	GUD1LS1
+		Images:	748
+		Time:	17.01.2025 06:32:46 until 17.01.2025 10:42:04
+		Duration:	04:09:18
+		Location:	25.31792 51.53086
+
+	SA1
+		Images:	3479
+		Time:	17.01.2025 07:23:33 until 17.01.2025 11:15:13
+		Duration:	03:51:40
+		Location:	25.31792 51.53086
+
+	SA1LS1
+		Images:	704
+		Time:	17.01.2025 07:02:57 until 17.01.2025 08:54:35
+		Duration:	01:51:38
+		Location:	25.31792 51.53086
+
+(7) - LA’EEB Statue
+	MUP2
+		Images:	2234
+		Time:	17.01.2025 08:37:27 until 17.01.2025 11:52:14
+		Duration:	03:14:47
+		Location:	25.31017 51.51939
+
+	MUP2LS1
+		Images:	1112
+		Time:	17.01.2025 08:25:05 until 17.01.2025 09:20:38
+		Duration:	00:55:33
+		Location:	25.31017 51.51939
+
+	ARP2
+		Images:	953
+		Time:	17.01.2025 08:35:43 until 17.01.2025 10:24:37
+		Duration:	01:48:54
+		Location:	25.31017 51.51939
+
+(8) - Finish
+	ADSA1
+		Images:	3857
+		Time:	17.01.2025 06:08:08 until 17.01.2025 11:52:24
+		Duration:	05:44:16
+		Location:	25.31856 51.53158
+
+	NJO1
+		Images:	8209
+		Time:	17.01.2025 06:03:41 until 17.01.2025 11:58:01
+		Duration:	05:54:20
+		Location:	25.31846 51.53126
+
+	GSH2
+		Images:	859
+		Time:	17.01.2025 08:15:18 until 17.01.2025 11:57:58
+		Duration:	03:42:40
+		Location:	25.31846 51.53126
+
+	NIZ2
+		Images:	2105
+		Time:	17.01.2025 08:42:52 until 17.01.2025 11:58:24
+		Duration:	03:15:32
+		Location:	25.31846 51.53126
+
+	SAQ2
+		Images:	1071
+		Time:	17.01.2025 10:23:54 until 17.01.2025 11:58:03
+		Duration:	01:34:09
+		Location:	25.31838 51.53093
+
+(9) - Medals
+	GOR1
+		Images:	2762
+		Time:	17.01.2025 06:22:06 until 17.01.2025 12:22:20
+		Duration:	06:00:14
+		Location:	25.31916 51.53267
+
+	SADH1
+		Images:	1102
+		Time:	17.01.2025 05:57:14 until 17.01.2025 11:39:34
+		Duration:	05:42:20
+		Location:	25.31898 51.53171
+
+(10) - Impressions / Pano
+	GOR1IMP1
+		Images:	146
+		Time:	17.01.2025 04:59:37 until 17.01.2025 06:13:40
+		Duration:	01:14:03
+		Location:	25.32072 51.53342
+
+	SA1DRONE1
+		Images:	121
+		Time:	17.01.2025 05:50:17 until 18.01.2025 06:16:31
+		Duration:	1.00:26:14
+		Location:	25.32072 51.53342
+
+	PANO1

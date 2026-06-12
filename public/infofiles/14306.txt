@@ -1,0 +1,350 @@
+EventId: 14306
+Spots: 53
+Total Images: 114104
+Time:	14.11.2025 12:20:02 to 16.11.2025 22:49:59
+Duration: 2.10:29:57
+
+(1) - 17,0 km TransLantau 100, 50, 20
+	CWO1
+		Images:	3046
+		Time:	15.11.2025 07:52:35 until 15.11.2025 13:29:48
+		Duration:	05:37:13
+		Location:	22.28673 113.95900
+
+(2) - 20,0 km TransLantau 20
+	CWO2
+		Images:	1491
+		Time:	15.11.2025 15:33:50 until 15.11.2025 17:01:07
+		Duration:	01:27:17
+		Location:	22.25702 113.98633
+
+(3) - Finish
+	CWO3
+		Images:	725
+		Time:	15.11.2025 20:46:36 until 16.11.2025 01:55:06
+		Duration:	05:08:30
+		Location:	22.26721 113.99712
+
+	DIDA3
+		Images:	2730
+		Time:	15.11.2025 15:44:04 until 15.11.2025 20:51:45
+		Duration:	05:07:41
+		Location:	22.26721 113.99712
+
+	HTT4
+		Images:	5014
+		Time:	16.11.2025 16:02:59 until 16.11.2025 22:49:27
+		Duration:	06:46:28
+		Location:	22.26721 113.99712
+
+	HTT4LS1
+		Images:	1890
+		Time:	16.11.2025 16:00:27 until 16.11.2025 21:57:08
+		Duration:	05:56:41
+		Location:	22.26721 113.99712
+
+	HTT1DRONE1
+		Images:	63
+		Time:	14.11.2025 12:20:02 until 15.11.2025 15:15:08
+		Duration:	1.02:55:06
+		Location:	22.26721 113.99712
+
+	HYI4
+		Images:	1364
+		Time:	15.11.2025 14:43:47 until 16.11.2025 02:16:16
+		Duration:	11:32:29
+		Location:	22.26721 113.99712
+
+	MVV2
+		Images:	5314
+		Time:	15.11.2025 11:23:27 until 16.11.2025 22:49:59
+		Duration:	1.11:26:32
+		Location:	22.26721 113.99712
+
+	MVV2LS1
+		Images:	2340
+		Time:	15.11.2025 11:23:31 until 16.11.2025 05:37:54
+		Duration:	18:14:23
+		Location:	22.26721 113.99712
+
+	PNQ4
+		Images:	1116
+		Time:	16.11.2025 09:52:48 until 16.11.2025 18:18:46
+		Duration:	08:25:58
+		Location:	22.26721 113.99712
+
+	RSK6
+		Images:	1475
+		Time:	16.11.2025 02:03:21 until 16.11.2025 09:12:28
+		Duration:	07:09:07
+		Location:	22.26721 113.99712
+
+	TDB4
+		Images:	703
+		Time:	15.11.2025 21:11:21 until 16.11.2025 01:57:39
+		Duration:	04:46:18
+		Location:	22.26721 113.99712
+
+	TDB4LS1
+		Images:	270
+		Time:	15.11.2025 21:16:52 until 16.11.2025 01:52:44
+		Duration:	04:35:52
+		Location:	22.26721 113.99712
+
+	TDB4LS2
+		Images:	848
+		Time:	15.11.2025 21:32:36 until 16.11.2025 08:18:20
+		Duration:	10:45:44
+		Location:	22.26721 113.99712
+
+(4) - 31,0 km TransLantau 50
+	CWO4
+		Images:	2500
+		Time:	16.11.2025 10:08:51 until 16.11.2025 16:48:44
+		Duration:	06:39:53
+		Location:	22.25725 113.98583
+
+	RSK4
+		Images:	1969
+		Time:	16.11.2025 11:34:26 until 16.11.2025 16:59:15
+		Duration:	05:24:49
+		Location:	22.25009 113.99067
+
+(5) - 1,0 km TransLantau 120
+	DIDA1
+		Images:	424
+		Time:	14.11.2025 19:02:58 until 16.11.2025 17:48:31
+		Duration:	1.22:45:33
+		Location:	22.27200 114.00080
+
+(6) - 64,0 km Tai O - TransLantau 120
+	DIDA2
+		Images:	3193
+		Time:	14.11.2025 18:25:10 until 15.11.2025 13:02:01
+		Duration:	18:36:51
+		Location:	22.25894 113.85641
+
+(7) - 17,0 km TransLantau 50
+	DIDA4
+		Images:	8425
+		Time:	16.11.2025 09:48:00 until 16.11.2025 14:27:16
+		Duration:	04:39:16
+		Location:	22.28673 113.95900
+
+(8) - 52,0 km 300m before finish of TransLantau 50
+	DIDA5
+		Images:	921
+		Time:	16.11.2025 17:49:44 until 16.11.2025 20:27:39
+		Duration:	02:37:55
+		Location:	22.26756 113.99810
+
+(9) - 17,0 km TransLantau 120
+	HTT1
+		Images:	2690
+		Time:	14.11.2025 20:57:28 until 15.11.2025 00:12:43
+		Duration:	03:15:15
+		Location:	22.28673 113.95900
+
+	HTT1LS1
+		Images:	426
+		Time:	14.11.2025 20:09:04 until 14.11.2025 23:36:12
+		Duration:	03:27:08
+		Location:	22.28673 113.95900
+
+(10) - 86,0 km Lantau Peak
+	HTT2
+		Images:	10897
+		Time:	15.11.2025 08:51:10 until 15.11.2025 22:34:03
+		Duration:	13:42:53
+		Location:	22.24697 113.91830
+
+	HTT2LS2
+		Images:	1835
+		Time:	15.11.2025 10:41:37 until 16.11.2025 15:55:20
+		Duration:	1.05:13:43
+		Location:	22.24697 113.91830
+
+	HTT2LS1
+		Images:	1017
+		Time:	15.11.2025 11:37:15 until 16.11.2025 09:57:46
+		Duration:	22:20:31
+		Location:	22.24697 113.91830
+
+(11) - 11,0 km TransLantau 50
+	HTT3
+		Images:	5992
+		Time:	16.11.2025 09:38:42 until 16.11.2025 12:05:51
+		Duration:	02:27:09
+		Location:	22.29972 114.00029
+
+	HTT3LS1
+		Images:	2857
+		Time:	16.11.2025 10:16:32 until 16.11.2025 16:02:44
+		Duration:	05:46:12
+		Location:	22.29972 114.00029
+
+(12) - Start
+	HYI1
+		Images:	190
+		Time:	14.11.2025 17:30:28 until 14.11.2025 19:00:36
+		Duration:	01:30:08
+		Location:	22.26721 113.99712
+
+	PNQ2
+		Images:	1250
+		Time:	15.11.2025 06:36:54 until 16.11.2025 09:49:10
+		Duration:	1.03:12:16
+		Location:	22.26721 113.99712
+
+	RSK1
+		Images:	383
+		Time:	14.11.2025 17:57:16 until 15.11.2025 07:47:03
+		Duration:	13:49:47
+		Location:	22.26721 113.99712
+
+	TDB2
+		Images:	802
+		Time:	15.11.2025 06:38:06 until 15.11.2025 10:53:05
+		Duration:	04:14:59
+		Location:	22.26721 113.99712
+
+(13) - 11,0 km TransLantau 100, 50, 20 - Discovery Bay lookout
+	HYI2
+		Images:	5598
+		Time:	15.11.2025 08:20:41 until 15.11.2025 12:55:14
+		Duration:	04:34:33
+		Location:	22.30055 114.00302
+
+(14) - 22,0 km TransLantau 20
+	HYI3
+		Images:	2738
+		Time:	16.11.2025 02:16:52 until 16.11.2025 19:56:11
+		Duration:	17:39:19
+		Location:	22.26687 113.99499
+
+(15) - 20,8 km TransLantau 100, 50, 20
+	HYI5
+		Images:	3602
+		Time:	16.11.2025 10:36:54 until 16.11.2025 14:27:07
+		Duration:	03:50:13
+		Location:	22.26221 113.96820
+
+	RSK2
+		Images:	3724
+		Time:	15.11.2025 07:47:37 until 15.11.2025 15:11:29
+		Duration:	07:23:52
+		Location:	22.26221 113.96820
+
+(16) - 1,5 km TransLantau 120
+	MVV1
+		Images:	670
+		Time:	14.11.2025 19:08:15 until 14.11.2025 21:55:24
+		Duration:	02:47:09
+		Location:	22.27261 114.00645
+
+	PNQ1
+		Images:	1240
+		Time:	14.11.2025 19:13:10 until 14.11.2025 19:43:58
+		Duration:	00:30:48
+		Location:	22.27604 114.00905
+
+(17) - 1,3 km TransLantau 120
+	MVV1LS1
+		Images:	486
+		Time:	14.11.2025 18:22:41 until 14.11.2025 19:33:29
+		Duration:	01:10:48
+		Location:	22.27268 114.00609
+
+	MVV3
+		Images:	3188
+		Time:	15.11.2025 07:15:28 until 15.11.2025 11:02:23
+		Duration:	03:46:55
+		Location:	22.27268 114.00609
+
+	MVV3LS1
+		Images:	1936
+		Time:	15.11.2025 07:37:27 until 15.11.2025 10:16:08
+		Duration:	02:38:41
+		Location:	22.27268 114.00609
+
+(18) - 42,0 km Chi Ma Wan Country trail
+	MVV4
+		Images:	3724
+		Time:	16.11.2025 12:08:01 until 16.11.2025 16:38:49
+		Duration:	04:30:48
+		Location:	22.23094 113.98471
+
+(19) - Start TransLantau 50
+	MVV5
+		Images:	479
+		Time:	16.11.2025 08:10:40 until 16.11.2025 08:50:20
+		Duration:	00:39:40
+		Location:	22.26721 113.99712
+
+(20) - 60,0 km Nam Shan campsite
+	PNQ3
+		Images:	6248
+		Time:	15.11.2025 10:07:05 until 15.11.2025 23:09:19
+		Duration:	13:02:14
+		Location:	22.25808 113.98374
+
+(21) - 52,0 km 200m before the finish line of TransLantau 50
+	PNQ5
+		Images:	970
+		Time:	16.11.2025 18:37:11 until 16.11.2025 21:34:33
+		Duration:	02:57:22
+		Location:	22.26766 113.99774
+
+(22) - 78,0 km Lantau Trail sec.12
+	RSK3
+		Images:	132
+		Time:	15.11.2025 15:20:47 until 15.11.2025 18:15:05
+		Duration:	02:54:18
+		Location:	22.25863 114.00680
+
+(23) - 51,8 km 800m before finish line of TransLantau 50
+	RSK5
+		Images:	453
+		Time:	16.11.2025 18:18:07 until 16.11.2025 20:32:04
+		Duration:	02:13:57
+		Location:	22.26723 113.99823
+
+(24) - 1,8 km TransLantau 120
+	TDB1
+		Images:	545
+		Time:	14.11.2025 18:41:00 until 14.11.2025 20:00:03
+		Duration:	01:19:03
+		Location:	22.27339 114.00788
+
+(25) - 74,0 km Chi Ma Wan Country trail
+	TDB3
+		Images:	777
+		Time:	15.11.2025 12:51:03 until 15.11.2025 18:04:38
+		Duration:	05:13:35
+		Location:	22.23094 113.98471
+
+	TDB3LS1
+		Images:	391
+		Time:	15.11.2025 15:13:49 until 15.11.2025 18:02:45
+		Duration:	02:48:56
+		Location:	22.23094 113.98471
+
+	TDB3LS2
+		Images:	268
+		Time:	15.11.2025 13:53:41 until 15.11.2025 21:30:53
+		Duration:	07:37:12
+		Location:	22.23094 113.98471
+
+(26) - 1,8 km TransLantau 50
+	TDB5
+		Images:	1605
+		Time:	16.11.2025 08:33:30 until 16.11.2025 09:24:02
+		Duration:	00:50:32
+		Location:	22.27339 114.00788
+
+	TDB5LS1
+		Images:	1170
+		Time:	16.11.2025 08:19:21 until 16.11.2025 09:23:46
+		Duration:	01:04:25
+		Location:	22.27339 114.00788
+

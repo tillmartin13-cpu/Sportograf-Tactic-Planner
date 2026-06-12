@@ -1,0 +1,88 @@
+EventId: 14483
+Spots: 12
+Total Images: 33876
+Time:	04.10.2025 07:01:33 to 05.10.2025 15:56:24
+Duration: 1.08:54:51
+
+(1) - Obstacle 7 Barbed Wire Crawl
+	JANH1
+		Images:	3379
+		Time:	05.10.2025 08:01:09 until 05.10.2025 12:32:31
+		Duration:	04:31:22
+		Location:	37.64137 -119.01210
+
+(2) - Obstacle 19 Tilted Ladder
+	DDC1
+		Images:	3317
+		Time:	05.10.2025 06:54:26 until 05.10.2025 12:50:37
+		Duration:	05:56:11
+		Location:	37.64457 -119.00542
+
+(3) - Obstacle 20 Chain Carry
+	DDS1
+		Images:	2398
+		Time:	04.10.2025 18:38:32 until 05.10.2025 12:48:16
+		Duration:	18:09:44
+		Location:	37.64424 -119.00539
+
+(4) - Obstacle 23 A-Frame Cargo
+	MKI1
+		Images:	5271
+		Time:	04.10.2025 07:05:08 until 05.10.2025 13:46:35
+		Duration:	1.06:41:27
+		Location:	37.64710 -119.01368
+
+(5) - Obstacle 24 Bucket Carry
+	VMM1
+		Images:	4643
+		Time:	04.10.2025 07:01:33 until 05.10.2025 13:48:53
+		Duration:	1.06:47:20
+		Location:	37.64779 -119.01328
+
+(6) - Obstacle 26 Multi Rig
+	DMCI1
+		Images:	3909
+		Time:	04.10.2025 16:20:14 until 05.10.2025 13:59:56
+		Duration:	21:39:42
+		Location:	37.64811 -119.01098
+
+	DMCI1LS1
+		Images:	804
+		Time:	04.10.2025 07:45:19 until 05.10.2025 14:01:50
+		Duration:	1.06:16:31
+		Location:	37.64811 -119.01098
+
+(7) - Obstacle 29 Sandbag Carry
+	KHN1
+		Images:	6530
+		Time:	04.10.2025 07:53:37 until 05.10.2025 14:24:06
+		Duration:	1.06:30:29
+		Location:	37.64631 -119.00569
+
+(8) - Trail Near Sandbag
+	KHN1LS1
+		Images:	710
+		Time:	05.10.2025 07:46:08 until 05.10.2025 14:11:10
+		Duration:	06:25:02
+		Location:	37.64578 -119.00594
+
+(9) - Herotent
+	DVAL1
+		Images:	1623
+		Time:	04.10.2025 09:12:45 until 05.10.2025 14:38:12
+		Duration:	1.05:25:27
+		Location:	37.64429 -119.00505
+
+(10) - Random Trail and Obstacles
+	MCAR1
+		Images:	1279
+		Time:	04.10.2025 08:04:02 until 05.10.2025 13:18:03
+		Duration:	1.05:14:01
+		Location:	37.64429 -119.00505
+
+	MCAR2
+		Images:	13
+		Time:	04.10.2025 19:59:01 until 05.10.2025 15:56:24
+		Duration:	19:57:23
+		Location:	37.64429 -119.00505
+

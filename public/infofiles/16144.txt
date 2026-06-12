@@ -1,0 +1,151 @@
+EventId: 16144
+Spots: 22
+Total Images: 139945
+Time:	24.10.2025 10:50:16 to 26.10.2025 13:12:35
+Duration: 2.02:22:19
+
+(1) - Obstacle 5 Chain Carry
+	AAD1
+		Images:	12103
+		Time:	25.10.2025 07:33:20 until 26.10.2025 13:12:35
+		Duration:	1.05:39:15
+		Location:	38.39324 -78.76537
+
+(2) - Obstacle 7 Olympus
+	TYHA1
+		Images:	8532
+		Time:	25.10.2025 07:09:38 until 26.10.2025 06:30:40
+		Duration:	23:21:02
+		Location:	38.39260 -78.76749
+
+	MRKE1
+		Images:	1688
+		Time:	25.10.2025 07:20:47 until 25.10.2025 11:13:23
+		Duration:	03:52:36
+		Location:	38.39260 -78.76749
+
+(3) - Obstacle 12 Bender
+	ANMF1
+		Images:	3000
+		Time:	25.10.2025 08:35:29 until 26.10.2025 06:48:18
+		Duration:	22:12:49
+		Location:	38.39745 -78.76310
+
+(4) - Obstacle 15 Barbed Wire Crawl #2
+	ANMF2
+		Images:	1001
+		Time:	25.10.2025 11:30:20 until 25.10.2025 17:18:47
+		Duration:	05:48:27
+		Location:	38.40039 -78.75959
+
+	VICY4
+		Images:	1226
+		Time:	25.10.2025 12:03:37 until 25.10.2025 15:59:10
+		Duration:	03:55:33
+		Location:	38.40039 -78.75959
+
+(5) - Obstacle 17 Bucket Carry
+	SWDY1
+		Images:	21766
+		Time:	24.10.2025 10:50:16 until 25.10.2025 17:25:06
+		Duration:	1.06:34:50
+		Location:	38.39994 -78.75906
+
+	VICY3
+		Images:	477
+		Time:	25.10.2025 11:46:21 until 25.10.2025 13:02:31
+		Duration:	01:16:10
+		Location:	38.39994 -78.75906
+
+(6) - Obstacle 19 Plate Drag
+	YEP1
+		Images:	6082
+		Time:	25.10.2025 08:09:06 until 26.10.2025 06:48:25
+		Duration:	22:39:19
+		Location:	38.40338 -78.75521
+
+	EUGP1
+		Images:	4074
+		Time:	25.10.2025 08:07:32 until 26.10.2025 06:37:05
+		Duration:	22:29:33
+		Location:	38.40338 -78.75521
+
+(7) - Obstacle 21 Helix
+	TYHA2
+		Images:	15138
+		Time:	25.10.2025 11:42:08 until 25.10.2025 17:35:54
+		Duration:	05:53:46
+		Location:	38.40084 -78.75503
+
+	MRKE2
+		Images:	8120
+		Time:	25.10.2025 11:44:22 until 25.10.2025 17:50:29
+		Duration:	06:06:07
+		Location:	38.40084 -78.75503
+
+(8) - Obstacle 24 Monkey Bars
+	WMY1
+		Images:	8077
+		Time:	25.10.2025 07:43:27 until 25.10.2025 18:00:14
+		Duration:	10:16:47
+		Location:	38.40182 -78.75664
+
+	GAUB1
+		Images:	7712
+		Time:	25.10.2025 07:47:50 until 25.10.2025 17:36:50
+		Duration:	09:49:00
+		Location:	38.40182 -78.75664
+
+(9) - Obstacle 26 A-Frame Cargo
+	IZZY1
+		Images:	12030
+		Time:	25.10.2025 07:57:49 until 25.10.2025 18:08:33
+		Duration:	10:10:44
+		Location:	38.40361 -78.75423
+
+	VICY5
+		Images:	257
+		Time:	25.10.2025 16:33:13 until 25.10.2025 16:39:57
+		Duration:	00:06:44
+		Location:	38.40361 -78.75423
+
+(10) - Obstacle 26 Fire Jump
+	BESC1
+		Images:	17538
+		Time:	25.10.2025 07:42:29 until 25.10.2025 18:09:57
+		Duration:	10:27:28
+		Location:	38.40335 -78.75386
+
+	VICY1LS3
+		Images:	2301
+		Time:	25.10.2025 10:14:26 until 25.10.2025 17:42:42
+		Duration:	07:28:16
+		Location:	38.40335 -78.75386
+
+(11) - Herotent
+	CCZ1
+		Images:	5330
+		Time:	24.10.2025 22:09:16 until 26.10.2025 08:25:40
+		Duration:	1.10:16:24
+		Location:	38.40332 -78.75495
+
+	VICY2
+		Images:	161
+		Time:	25.10.2025 14:06:45 until 25.10.2025 16:46:57
+		Duration:	02:40:12
+		Location:	38.40332 -78.75495
+
+(12) - Venue
+	VICY1
+		Images:	344
+		Time:	25.10.2025 08:55:08 until 25.10.2025 16:22:09
+		Duration:	07:27:01
+		Location:	38.40332 -78.75495
+
+(13) - Obstacle 22 Sandbag Carry
+	VICY1LS2
+		Images:	2988
+		Time:	25.10.2025 08:28:32 until 25.10.2025 17:29:41
+		Duration:	09:01:09
+		Location:	38.40066 -78.75560
+

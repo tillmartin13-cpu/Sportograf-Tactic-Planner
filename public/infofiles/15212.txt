@@ -1,0 +1,101 @@
+EventId: 15212
+Spots: 15
+Total Images: 40999
+Time:	01.02.2025 06:41:17 to 01.02.2025 18:10:47
+Duration: 11:29:30
+
+(1) - Impressions
+	MTS1
+		Images:	103
+		Time:	01.02.2025 06:56:46 until 01.02.2025 08:01:31
+		Duration:	01:04:45
+		Location:	-27.47615 153.02035
+
+	AMI1
+		Images:	32
+		Time:	01.02.2025 06:49:30 until 01.02.2025 07:10:25
+		Duration:	00:20:55
+		Location:	-27.47615 153.02035
+
+	MFS1
+		Images:	57
+		Time:	01.02.2025 07:04:58 until 01.02.2025 15:15:45
+		Duration:	08:10:47
+		Location:	-27.47615 153.02035
+
+	CHRO1
+		Images:	56
+		Time:	01.02.2025 06:41:17 until 01.02.2025 07:27:21
+		Duration:	00:46:04
+		Location:	-27.47615 153.02035
+
+(2) - Engine
+	MFS4
+		Images:	270
+		Time:	01.02.2025 14:05:58 until 01.02.2025 14:23:19
+		Duration:	00:17:21
+		Location:	-27.47615 153.02035
+
+	CHRO4
+		Images:	7390
+		Time:	01.02.2025 12:46:30 until 01.02.2025 16:56:49
+		Duration:	04:10:19
+		Location:	-27.47615 153.02035
+
+	CFW2
+		Images:	4226
+		Time:	01.02.2025 06:51:26 until 01.02.2025 12:40:09
+		Duration:	05:48:43
+		Location:	-27.47615 153.02035
+
+(3) - Run
+	AMI2
+		Images:	324
+		Time:	01.02.2025 07:10:49 until 01.02.2025 08:07:43
+		Duration:	00:56:54
+		Location:	-27.47615 153.02035
+
+	CHRO2
+		Images:	204
+		Time:	01.02.2025 07:31:49 until 01.02.2025 11:52:48
+		Duration:	04:20:59
+		Location:	-27.47615 153.02035
+
+(4) - Lift Off
+	MFS2
+		Images:	2436
+		Time:	01.02.2025 07:49:50 until 01.02.2025 17:05:26
+		Duration:	09:15:36
+		Location:	-27.47615 153.02035
+
+	CHRO3
+		Images:	9363
+		Time:	01.02.2025 07:42:56 until 01.02.2025 17:43:27
+		Duration:	10:00:31
+		Location:	-27.47615 153.02035
+
+	CFW3
+		Images:	3066
+		Time:	01.02.2025 12:50:29 until 01.02.2025 17:42:55
+		Duration:	04:52:26
+		Location:	-27.47615 153.02035
+
+(5) - AMRAP / Sprint
+	AMI3
+		Images:	5179
+		Time:	01.02.2025 08:13:28 until 01.02.2025 18:09:40
+		Duration:	09:56:12
+		Location:	-27.47615 153.02035
+
+	MFS3
+		Images:	685
+		Time:	01.02.2025 12:23:15 until 01.02.2025 16:14:41
+		Duration:	03:51:26
+		Location:	-27.47615 153.02035
+
+	MTS2
+		Images:	7608
+		Time:	01.02.2025 08:12:33 until 01.02.2025 18:10:47
+		Duration:	09:58:14
+		Location:	-27.47615 153.02035
+

@@ -1,0 +1,320 @@
+EventId: 14930
+Spots: 50
+Total Images: 102082
+Time:	11.07.2025 21:25:02 to 13.07.2025 15:58:02
+Duration: 1.18:33:00
+
+(1) - Start - 100M
+	JOVO1
+		Images:	269
+		Time:	11.07.2025 21:25:02 until 11.07.2025 22:00:57
+		Duration:	00:35:55
+		Location:	46.09553 7.22789
+
+(2) - 0.5 km (100M) Verbier
+	ISA1
+		Images:	143
+		Time:	11.07.2025 21:40:12 until 11.07.2025 22:10:54
+		Duration:	00:30:42
+		Location:	46.09430 7.23186
+
+(3) - 4.0 km (100M) Verbier
+	BECK1
+		Images:	258
+		Time:	11.07.2025 22:28:25 until 11.07.2025 23:01:32
+		Duration:	00:33:07
+		Location:	46.10128 7.24506
+
+	BECK1LS2
+		Images:	356
+		Time:	11.07.2025 22:22:52 until 11.07.2025 22:45:36
+		Duration:	00:22:44
+		Location:	46.10128 7.24506
+
+	BECK1LS1
+		Images:	190
+		Time:	11.07.2025 22:07:44 until 11.07.2025 22:33:00
+		Duration:	00:25:16
+		Location:	46.10128 7.24506
+
+(4) - 4.5 km (100M) Verbier
+	MAWI1
+		Images:	297
+		Time:	11.07.2025 21:40:14 until 12.07.2025 00:01:15
+		Duration:	02:21:01
+		Location:	46.10045 7.24607
+
+(5) - 71.4 km (100M), 9.3 km (100K) Col Fenêtre
+	CHR1
+		Images:	7274
+		Time:	12.07.2025 07:21:00 until 12.07.2025 17:00:26
+		Duration:	09:39:26
+		Location:	45.87613 7.14512
+
+	CHR1LS2
+		Images:	2310
+		Time:	12.07.2025 08:29:31 until 12.07.2025 16:37:58
+		Duration:	08:08:27
+		Location:	45.87613 7.14512
+
+	CHR1LS1
+		Images:	2291
+		Time:	12.07.2025 08:47:44 until 12.07.2025 16:37:58
+		Duration:	07:50:14
+		Location:	45.87613 7.14512
+
+(6) - 74.6 km (100M), 12.4 km (100K) Gd St Bernard
+	DIG1
+		Images:	10049
+		Time:	12.07.2025 07:16:35 until 12.07.2025 17:57:18
+		Duration:	10:40:43
+		Location:	45.86812 7.17012
+
+	DIG1LS1
+		Images:	4955
+		Time:	12.07.2025 07:48:36 until 12.07.2025 17:36:09
+		Duration:	09:47:33
+		Location:	45.86812 7.17012
+
+(7) - 76.6 km (100M), 14.4 km (100K) Col des Chevaux
+	COR1
+		Images:	4957
+		Time:	12.07.2025 06:53:08 until 12.07.2025 18:36:13
+		Duration:	11:43:05
+		Location:	45.88152 7.16992
+
+	COR1LS2
+		Images:	2589
+		Time:	12.07.2025 09:01:01 until 12.07.2025 17:45:12
+		Duration:	08:44:11
+		Location:	45.88152 7.16992
+
+	COR1LS1
+		Images:	436
+		Time:	12.07.2025 09:01:52 until 12.07.2025 17:45:12
+		Duration:	08:43:20
+		Location:	45.88152 7.16992
+
+(8) - Start - 50K
+	ISA2
+		Images:	490
+		Time:	12.07.2025 07:35:17 until 12.07.2025 09:31:01
+		Duration:	01:55:44
+		Location:	46.06119 7.19455
+
+(9) - 6.0 km (50K) Montagne du Six Blanc
+	JOVO2
+		Images:	4782
+		Time:	12.07.2025 08:50:25 until 12.07.2025 10:47:24
+		Duration:	01:56:59
+		Location:	46.04035 7.18869
+
+(10) - 113.8 km (100M), 52.2 km (100K), 20 km (50K) Passerelle de Corbassière
+	MAWI2
+		Images:	4507
+		Time:	12.07.2025 11:18:09 until 12.07.2025 20:13:55
+		Duration:	08:55:46
+		Location:	46.00548 7.29066
+
+	MAWI2LS2
+		Images:	2392
+		Time:	12.07.2025 11:48:12 until 13.07.2025 07:15:16
+		Duration:	19:27:04
+		Location:	46.00548 7.29066
+
+	MAWI2LS1
+		Images:	2223
+		Time:	12.07.2025 11:24:46 until 12.07.2025 18:24:54
+		Duration:	07:00:08
+		Location:	46.00548 7.29066
+
+(11) - 115.8 km (100M), 53.2 km (100K), 22 km (50K) Cabane Panossière
+	BECK2
+		Images:	4236
+		Time:	12.07.2025 10:33:04 until 12.07.2025 21:04:30
+		Duration:	10:31:26
+		Location:	45.99991 7.29750
+
+	BECK2LS2
+		Images:	3689
+		Time:	12.07.2025 11:57:57 until 12.07.2025 19:09:16
+		Duration:	07:11:19
+		Location:	45.99991 7.29750
+
+	BECK2LS1
+		Images:	4209
+		Time:	12.07.2025 12:15:11 until 12.07.2025 18:49:51
+		Duration:	06:34:40
+		Location:	45.99991 7.29750
+
+(12) - Start - 20K
+	MAWI3
+		Images:	141
+		Time:	13.07.2025 07:20:27 until 13.07.2025 08:02:37
+		Duration:	00:42:10
+		Location:	46.09568 7.22718
+
+(13) - 9.0 km (20K) Col de la Marlene
+	ISA4
+		Images:	1837
+		Time:	13.07.2025 08:31:45 until 13.07.2025 10:56:03
+		Duration:	02:24:18
+		Location:	46.11934 7.20774
+
+	ISA4LS2
+		Images:	538
+		Time:	13.07.2025 08:30:21 until 13.07.2025 10:31:05
+		Duration:	02:00:44
+		Location:	46.11934 7.20774
+
+	ISA4LS1
+		Images:	623
+		Time:	13.07.2025 08:30:57 until 13.07.2025 10:27:36
+		Duration:	01:56:39
+		Location:	46.11934 7.20774
+
+(14) - 9.3 km (20K) Col de la Marlene
+	BECK3
+		Images:	2889
+		Time:	13.07.2025 08:38:47 until 13.07.2025 10:52:12
+		Duration:	02:13:25
+		Location:	46.12069 7.21090
+
+	BECK3LS2
+		Images:	1078
+		Time:	13.07.2025 07:59:36 until 13.07.2025 11:03:19
+		Duration:	03:03:43
+		Location:	46.12069 7.21090
+
+	BECK3LS1
+		Images:	1162
+		Time:	13.07.2025 08:04:26 until 13.07.2025 10:59:28
+		Duration:	02:55:02
+		Location:	46.12069 7.21090
+
+(15) - 10.7 km (20K) Croix de Coeur
+	DIG2
+		Images:	4085
+		Time:	13.07.2025 07:29:10 until 13.07.2025 11:15:09
+		Duration:	03:45:59
+		Location:	46.12072 7.23722
+
+	DIG2LS1
+		Images:	1627
+		Time:	13.07.2025 08:24:16 until 13.07.2025 11:07:34
+		Duration:	02:43:18
+		Location:	46.12072 7.23722
+
+(16) - 15.8 km (20K) Col du Creblet
+	CHR2
+		Images:	3508
+		Time:	13.07.2025 09:09:52 until 13.07.2025 12:52:22
+		Duration:	03:42:30
+		Location:	46.10117 7.26734
+
+	CHR2LS2
+		Images:	1187
+		Time:	13.07.2025 08:55:55 until 13.07.2025 12:31:43
+		Duration:	03:35:48
+		Location:	46.10117 7.26734
+
+	CHR2LS1
+		Images:	1171
+		Time:	13.07.2025 09:01:55 until 13.07.2025 12:28:37
+		Duration:	03:26:42
+		Location:	46.10117 7.26734
+
+(17) - 15.3 km (20K) Col du Creblet
+	COR2
+		Images:	2484
+		Time:	13.07.2025 08:45:25 until 13.07.2025 12:55:33
+		Duration:	04:10:08
+		Location:	46.10398 7.26576
+
+	COR2LS2
+		Images:	1243
+		Time:	13.07.2025 08:57:07 until 13.07.2025 12:50:43
+		Duration:	03:53:36
+		Location:	46.10398 7.26576
+
+	COR2LS1
+		Images:	1238
+		Time:	13.07.2025 09:00:30 until 13.07.2025 12:50:44
+		Duration:	03:50:14
+		Location:	46.10398 7.26576
+
+(18) - Finish
+	ISA3
+		Images:	3272
+		Time:	12.07.2025 12:31:32 until 12.07.2025 22:13:19
+		Duration:	09:41:47
+		Location:	46.09568 7.22718
+
+	ISA3LS2
+		Images:	1004
+		Time:	12.07.2025 12:55:39 until 12.07.2025 21:47:54
+		Duration:	08:52:15
+		Location:	46.09568 7.22718
+
+	ISA3LS1
+		Images:	883
+		Time:	12.07.2025 13:17:38 until 12.07.2025 21:24:34
+		Duration:	08:06:56
+		Location:	46.09568 7.22718
+
+	JOVO3
+		Images:	3034
+		Time:	12.07.2025 22:16:24 until 13.07.2025 08:11:11
+		Duration:	09:54:47
+		Location:	46.09568 7.22718
+
+	MAWI4
+		Images:	2481
+		Time:	13.07.2025 08:21:22 until 13.07.2025 15:58:02
+		Duration:	07:36:40
+		Location:	46.09568 7.22718
+
+	MAWI4LS2
+		Images:	1681
+		Time:	13.07.2025 07:17:40 until 13.07.2025 12:50:31
+		Duration:	05:32:51
+		Location:	46.09568 7.22718
+
+	MAWI4LS1
+		Images:	1828
+		Time:	13.07.2025 09:56:30 until 13.07.2025 15:04:26
+		Duration:	05:07:56
+		Location:	46.09568 7.22718
+
+(19) - Impressions / Pano
+	PANO1
+	BECK2DRONE1
+		Images:	56
+		Time:	12.07.2025 16:31:28 until 12.07.2025 20:11:46
+		Duration:	03:40:18
+		Location:	45.99991 7.29750
+
+	BECK3DRONE1
+		Images:	36
+		Time:	13.07.2025 08:13:46 until 13.07.2025 08:34:59
+		Duration:	00:21:13
+		Location:	46.12069 7.21090
+
+	COR2DRONE1
+		Images:	21
+		Time:	13.07.2025 10:56:48 until 13.07.2025 11:05:40
+		Duration:	00:08:52
+		Location:	46.10398 7.26576
+
+	DIG2DRONE1
+		Images:	6
+		Time:	13.07.2025 08:07:33 until 13.07.2025 08:11:43
+		Duration:	00:04:10
+		Location:	46.12072 7.23722
+
+	DIG1DRONE1
+		Images:	67
+		Time:	12.07.2025 07:54:17 until 12.07.2025 16:15:58
+		Duration:	08:21:41
+		Location:	45.86812 7.17012
+

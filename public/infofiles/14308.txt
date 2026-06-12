@@ -1,0 +1,100 @@
+EventId: 14308
+Spots: 14
+Total Images: 109685
+Time:	28.03.2025 06:34:53 to 30.03.2025 09:14:35
+Duration: 2.02:39:42
+
+(1) - OVER WALLS #2
+	KEMA1
+		Images:	3008
+		Time:	29.03.2025 05:45:47 until 29.03.2025 12:24:37
+		Duration:	06:38:50
+		Location:	26.37839 -80.23231
+
+(2) - MONKEY BARS #4
+	JAZZ1
+		Images:	7105
+		Time:	29.03.2025 06:07:18 until 30.03.2025 07:02:54
+		Duration:	1.00:55:36
+		Location:	26.37574 -80.23908
+
+(3) - BARBED WIRE CRAWL #6
+	BMY1
+		Images:	6715
+		Time:	29.03.2025 06:26:16 until 29.03.2025 13:58:07
+		Duration:	07:31:51
+		Location:	26.37296 -80.23334
+
+(4) - HELIX
+	JACL1
+		Images:	23626
+		Time:	28.03.2025 18:03:15 until 30.03.2025 07:22:46
+		Duration:	1.13:19:31
+		Location:	26.37476 -80.23271
+
+	BESC1
+		Images:	15231
+		Time:	28.03.2025 17:39:38 until 30.03.2025 07:03:32
+		Duration:	1.13:23:54
+		Location:	26.37476 -80.23271
+
+(5) - ATLAS CARRY #14
+	GMAL1
+		Images:	3653
+		Time:	29.03.2025 06:05:41 until 29.03.2025 13:55:56
+		Duration:	07:50:15
+		Location:	26.37215 -80.23317
+
+	CUL1
+		Images:	7913
+		Time:	29.03.2025 06:10:01 until 30.03.2025 07:14:51
+		Duration:	1.01:04:50
+		Location:	26.37215 -80.23317
+
+(6) - PLATE DRAG #15
+	ORGA1
+		Images:	5066
+		Time:	28.03.2025 06:34:53 until 30.03.2025 07:10:09
+		Duration:	2.00:35:16
+		Location:	26.37261 -80.23321
+
+	JPP1
+		Images:	2614
+		Time:	28.03.2025 13:49:15 until 30.03.2025 07:06:07
+		Duration:	1.17:16:52
+		Location:	26.37261 -80.23321
+
+(7) - TITAN FITNESS MULTI-RIG #17
+	JOVI1
+		Images:	12383
+		Time:	29.03.2025 06:04:09 until 30.03.2025 07:02:41
+		Duration:	1.00:58:32
+		Location:	26.37356 -80.23387
+
+	RASC1
+		Images:	5486
+		Time:	29.03.2025 06:26:07 until 30.03.2025 07:02:47
+		Duration:	1.00:36:40
+		Location:	26.37356 -80.23387
+
+(8) - CRAFT A-FRAME CARGO #18
+	AUC1
+		Images:	7339
+		Time:	29.03.2025 05:50:59 until 30.03.2025 07:10:19
+		Duration:	1.01:19:20
+		Location:	26.37407 -80.23449
+
+(9) - HERO TENT
+	JHRO1
+		Images:	8916
+		Time:	29.03.2025 06:12:04 until 30.03.2025 07:08:43
+		Duration:	1.00:56:39
+		Location:	26.37477 -80.23444
+
+(10) - Impressions / Pano
+	SICA1
+		Images:	627
+		Time:	29.03.2025 06:43:34 until 29.03.2025 12:06:11
+		Duration:	05:22:37
+		Location:	26.37477 -80.23444
+

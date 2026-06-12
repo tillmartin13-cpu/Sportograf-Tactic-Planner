@@ -1,0 +1,153 @@
+EventId: 14581
+Spots: 23
+Total Images: 34632
+Time:	21.11.2025 14:14:30 to 22.11.2025 17:12:22
+Duration: 1.02:57:52
+
+(1) - Obstacle 2 OVER WALLS
+	AGP1
+		Images:	2848
+		Time:	22.11.2025 06:32:03 until 22.11.2025 15:29:25
+		Duration:	08:57:22
+		Location:	24.13662 54.73772
+
+(2) - Impressions / Pano
+	AGP1IMP1
+		Images:	104
+		Time:	22.11.2025 16:47:35 until 22.11.2025 17:12:22
+		Duration:	00:24:47
+		Location:	24.13921 54.73915
+
+	LV1IMP1
+		Images:	110
+		Time:	22.11.2025 16:44:14 until 22.11.2025 16:57:00
+		Duration:	00:12:46
+		Location:	24.13921 54.73915
+
+	MK1IMP1
+		Images:	284
+		Time:	22.11.2025 10:49:53 until 22.11.2025 14:55:58
+		Duration:	04:06:05
+		Location:	24.13921 54.73915
+
+	PANO1
+(3) - Obstacle 3 OVER UNDERS
+	MRGO1
+		Images:	477
+		Time:	22.11.2025 06:32:08 until 22.11.2025 07:39:26
+		Duration:	01:07:18
+		Location:	24.13633 54.73752
+
+(4) - Obstacle 5 BARBED WIRE 1
+	LV1
+		Images:	1852
+		Time:	22.11.2025 05:48:08 until 22.11.2025 08:16:06
+		Duration:	02:27:58
+		Location:	24.13633 54.73752
+
+	JOS1
+		Images:	976
+		Time:	22.11.2025 06:31:13 until 22.11.2025 08:12:04
+		Duration:	01:40:51
+		Location:	24.13633 54.73752
+
+(5) - Obstacle 24 OLYMPUS
+	ADSA1
+		Images:	2151
+		Time:	22.11.2025 07:10:06 until 22.11.2025 14:15:00
+		Duration:	07:04:54
+		Location:	24.13057 54.72585
+
+(6) - Obstacle 25 VERTICAL CARGO 2.0
+	ADSM1
+		Images:	4671
+		Time:	21.11.2025 14:14:30 until 22.11.2025 14:20:31
+		Duration:	1.00:06:01
+		Location:	24.13145 54.72551
+
+(7) - Obstacle 27 BARBED WIRE 2
+	JOS2
+		Images:	1882
+		Time:	22.11.2025 08:32:10 until 22.11.2025 14:38:33
+		Duration:	06:06:23
+		Location:	24.13256 54.73787
+
+	MK2
+		Images:	688
+		Time:	22.11.2025 13:30:00 until 22.11.2025 14:06:21
+		Duration:	00:36:21
+		Location:	24.13256 54.73787
+
+(8) - Obstacle 28 ATLAS
+	LV2
+		Images:	3151
+		Time:	22.11.2025 08:32:48 until 22.11.2025 15:44:35
+		Duration:	07:11:47
+		Location:	24.13256 54.73787
+
+	MK1
+		Images:	320
+		Time:	22.11.2025 14:13:49 until 22.11.2025 14:32:48
+		Duration:	00:18:59
+		Location:	24.13256 54.73787
+
+(9) - Obstacle 31 SANDBAG
+	AGP2
+		Images:	1687
+		Time:	22.11.2025 08:12:05 until 22.11.2025 12:39:28
+		Duration:	04:27:23
+		Location:	24.13794 54.73752
+
+	MK3
+		Images:	661
+		Time:	22.11.2025 12:43:29 until 22.11.2025 16:42:20
+		Duration:	03:58:51
+		Location:	24.13794 54.73752
+
+(10) - Running Course between sandbag - A-Frame
+	MK2LS1
+		Images:	1193
+		Time:	22.11.2025 08:07:42 until 22.11.2025 15:36:04
+		Duration:	07:28:22
+		Location:	24.13874 54.73842
+
+(11) - exit A-Frame
+	MK1LS1
+		Images:	723
+		Time:	22.11.2025 08:38:39 until 22.11.2025 15:31:50
+		Duration:	06:53:11
+		Location:	24.1388 54.73844
+
+(12) - Obstacle 33 MODIFIED MULTI-RIG
+	MISE1
+		Images:	3195
+		Time:	22.11.2025 06:50:24 until 22.11.2025 15:18:10
+		Duration:	08:27:46
+		Location:	24.13908 54.73849
+
+	MK5
+		Images:	519
+		Time:	22.11.2025 15:59:22 until 22.11.2025 16:14:40
+		Duration:	00:15:18
+		Location:	24.13908 54.73849
+
+(13) - FIREJUMP / FINISH
+	MALM1
+		Images:	4356
+		Time:	22.11.2025 06:44:52 until 22.11.2025 15:42:08
+		Duration:	08:57:16
+		Location:	24.13925 54.739
+
+	MK4
+		Images:	444
+		Time:	22.11.2025 15:37:03 until 22.11.2025 15:57:01
+		Duration:	00:19:58
+		Location:	24.13925 54.739
+
+(14) - HEROWALL
+	MRGO2
+		Images:	2340
+		Time:	22.11.2025 08:19:58 until 22.11.2025 15:44:15
+		Duration:	07:24:17
+		Location:	24.13921 54.73915
+

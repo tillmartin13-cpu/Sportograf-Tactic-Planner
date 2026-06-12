@@ -1,0 +1,874 @@
+EventId: 15941
+Spots: 129
+Total Images: 1677246
+Time:	01.01.0001 23:00:00 to 21.05.2025 14:48:06
+Duration: 739390.15:48:06
+
+(1) - 0,0 km msc 10 darren kepplez 861679
+	GDKEP1
+		Images:	65735
+		Time:	16.03.2025 06:21:07 until 21.04.2025 17:40:00
+		Duration:	36.11:18:53
+		Location:	NULL NULL
+
+(2) - 0,0 km msc 10 katie orsino 861681
+	GKOR1
+		Images:	18297
+		Time:	21.04.2025 10:23:21 until 21.04.2025 15:35:30
+		Duration:	05:12:09
+		Location:	NULL NULL
+
+(3) - 0,0 km msc 9 alex rosenfeld 861676
+	GAROS1
+		Images:	18042
+		Time:	21.04.2025 10:14:10 until 21.04.2025 15:19:09
+		Duration:	05:04:59
+		Location:	NULL NULL
+
+(4) - 0,0 km MSC9 Joseph Rich 861677
+	GJRIC1
+		Images:	25143
+		Time:	21.04.2025 11:02:13 until 21.04.2025 16:33:20
+		Duration:	05:31:07
+		Location:	NULL NULL
+
+(5) - 0,0 km MSC9 Kelly Sheehan 861675
+	GKSHE1
+		Images:	29239
+		Time:	21.04.2025 10:21:46 until 21.04.2025 17:25:09
+		Duration:	07:03:23
+		Location:	NULL NULL
+
+(6) - 0,0 km MSC9 Trigger5 861678
+	GTRII1
+		Images:	17904
+		Time:	21.04.2025 11:02:07 until 21.04.2025 16:54:05
+		Duration:	05:51:58
+		Location:	NULL NULL
+
+(7) - 0.0 km
+	DALCH1
+		Images:	5288
+		Time:	21.04.2025 11:55:58 until 21.04.2025 18:23:21
+		Duration:	06:27:23
+		Location:	NULL NULL
+
+	DARSU1
+		Images:	4563
+		Time:	21.04.2025 12:25:45 until 21.04.2025 17:39:43
+		Duration:	05:13:58
+		Location:	NULL NULL
+
+	DCHCL1
+		Images:	17891
+		Time:	21.04.2025 10:18:58 until 21.04.2025 16:01:34
+		Duration:	05:42:36
+		Location:	NULL NULL
+
+	DCHVA1
+		Images:	1753
+		Time:	13.04.2025 14:08:51 until 21.04.2025 17:35:18
+		Duration:	8.03:26:27
+		Location:	NULL NULL
+
+	DCLAB1
+		Images:	4507
+		Time:	21.04.2025 10:08:39 until 21.04.2025 12:00:41
+		Duration:	01:52:02
+		Location:	NULL NULL
+
+	DCLBI1
+		Images:	7047
+		Time:	21.04.2025 12:03:12 until 21.04.2025 16:23:49
+		Duration:	04:20:37
+		Location:	NULL NULL
+
+	DGUED1
+		Images:	13689
+		Time:	21.04.2025 12:07:34 until 21.04.2025 17:12:18
+		Duration:	05:04:44
+		Location:	NULL NULL
+
+	DHAMI1
+		Images:	316
+		Time:	21.04.2025 22:12:41 until 22.04.2025 02:26:42
+		Duration:	04:14:01
+		Location:	NULL NULL
+
+	DIADI1
+		Images:	1468
+		Time:	21.04.2025 11:13:24 until 21.04.2025 17:35:59
+		Duration:	06:22:35
+		Location:	NULL NULL
+
+	DJABU1
+		Images:	2417
+		Time:	21.04.2025 11:08:49 until 21.04.2025 17:38:40
+		Duration:	06:29:51
+		Location:	NULL NULL
+
+	DJOBU1
+		Images:	23466
+		Time:	21.04.2025 12:55:57 until 21.04.2025 15:59:44
+		Duration:	03:03:47
+		Location:	NULL NULL
+
+	DMEBA1
+		Images:	2447
+		Time:	21.04.2025 12:28:02 until 21.04.2025 17:57:53
+		Duration:	05:29:51
+		Location:	NULL NULL
+
+	DMIWE1
+		Images:	2888
+		Time:	21.04.2025 12:20:52 until 21.04.2025 17:55:39
+		Duration:	05:34:47
+		Location:	NULL NULL
+
+	DPEKO1
+		Images:	7800
+		Time:	21.04.2025 13:32:05 until 21.04.2025 15:57:33
+		Duration:	02:25:28
+		Location:	NULL NULL
+
+	DPETK1
+		Images:	4429
+		Time:	21.04.2025 15:58:14 until 21.04.2025 18:23:11
+		Duration:	02:24:57
+		Location:	NULL NULL
+
+	DPHRE1
+		Images:	21065
+		Time:	21.04.2025 10:34:37 until 21.04.2025 17:20:25
+		Duration:	06:45:48
+		Location:	NULL NULL
+
+	DPKOL1
+		Images:	3859
+		Time:	21.04.2025 11:56:52 until 21.04.2025 15:57:31
+		Duration:	04:00:39
+		Location:	NULL NULL
+
+	DPRLO1
+		Images:	4829
+		Time:	21.04.2025 11:21:26 until 21.04.2025 17:41:40
+		Duration:	06:20:14
+		Location:	NULL NULL
+
+	DSIBH1
+		Images:	9547
+		Time:	31.12.2013 19:00:03 until 21.04.2025 06:33:49
+		Duration:	4128.11:33:46
+		Location:	NULL NULL
+
+	FGAOR1
+		Images:	17348
+		Time:	21.04.2025 10:25:43 until 21.04.2025 17:53:13
+		Duration:	07:27:30
+		Location:	NULL NULL
+
+	FHAOG1
+		Images:	19175
+		Time:	01.01.0001 23:00:00 until 21.04.2025 17:30:27
+		Duration:	739360.18:30:27
+		Location:	NULL NULL
+
+	FJONU1
+		Images:	14398
+		Time:	21.04.2025 10:01:14 until 21.04.2025 14:01:20
+		Duration:	04:00:06
+		Location:	NULL NULL
+
+	FMACA1
+		Images:	17611
+		Time:	21.04.2025 12:56:17 until 21.04.2025 18:03:41
+		Duration:	05:07:24
+		Location:	NULL NULL
+
+	VTRIG1
+		Images:	21905
+		Time:	21.04.2025 09:29:10 until 21.04.2025 16:23:58
+		Duration:	06:54:48
+		Location:	NULL NULL
+
+	XTRIG1
+		Images:	10759
+		Time:	01.01.0001 23:00:00 until 21.04.2025 14:09:27
+		Duration:	739360.15:09:27
+		Location:	NULL NULL
+
+(8) - 0.0 km 861753 msc 5 lana citowski
+	MLANA1
+		Images:	34163
+		Time:	21.04.2025 09:40:22 until 21.04.2025 14:51:39
+		Duration:	05:11:17
+		Location:	NULL NULL
+
+(9) - 0.0 km ALEX ROSENFELD MSC 9 861676
+	DROSE1
+		Images:	6774
+		Time:	21.04.2025 15:25:41 until 21.04.2025 17:26:14
+		Duration:	02:00:33
+		Location:	NULL NULL
+
+(10) - 0.0 km alisyn tousignant msc 11 865614
+	MATOU1
+		Images:	5786
+		Time:	21.04.2025 15:07:48 until 21.04.2025 17:56:02
+		Duration:	02:48:14
+		Location:	NULL NULL
+
+(11) - 0.0 km antoine belamy medals 861718
+	ZABE1
+		Images:	4100
+		Time:	21.04.2025 13:16:17 until 21.04.2025 17:04:39
+		Duration:	03:48:22
+		Location:	NULL NULL
+
+(12) - 0.0 km ANTONIO BELAMY, MEDALS 861718
+	NANTO1
+		Images:	1197
+		Time:	21.04.2025 11:54:35 until 21.04.2025 13:06:10
+		Duration:	01:11:35
+		Location:	NULL NULL
+
+(13) - 0.0 km banners aaron espiritusanto 861738
+	ZAESP1
+		Images:	1214
+		Time:	21.04.2025 12:42:16 until 21.04.2025 16:48:55
+		Duration:	04:06:39
+		Location:	NULL NULL
+
+(14) - 0.0 km banners barbara cinderman 861735
+	ZBLIN1
+		Images:	1178
+		Time:	21.04.2025 10:58:27 until 21.04.2025 16:49:00
+		Duration:	05:50:33
+		Location:	NULL NULL
+
+(15) - 0.0 km banners cayla martin 861740
+	ZCMAR1
+		Images:	1010
+		Time:	20.04.2025 23:27:50 until 21.04.2025 16:39:36
+		Duration:	17:11:46
+		Location:	NULL NULL
+
+(16) - 0.0 km banners devon white 861739
+	ZDWH1
+		Images:	949
+		Time:	21.04.2025 12:36:15 until 21.04.2025 16:51:15
+		Duration:	04:15:00
+		Location:	NULL NULL
+
+(17) - 0.0 km banners joseph berman 861736
+	ZJBER1
+		Images:	418
+		Time:	21.04.2025 12:39:51 until 21.04.2025 16:33:47
+		Duration:	03:53:56
+		Location:	NULL NULL
+
+(18) - 0.0 km Banners katie wool 861744
+	ZKWOO1
+		Images:	1683
+		Time:	21.04.2025 10:41:13 until 21.04.2025 17:30:31
+		Duration:	06:49:18
+		Location:	NULL NULL
+
+(19) - 0.0 km banners muriel newey 861741
+	ZMNE1
+		Images:	341
+		Time:	21.04.2025 11:34:30 until 21.04.2025 17:01:40
+		Duration:	05:27:10
+		Location:	NULL NULL
+
+(20) - 0.0 km banners stephen nyanya 861742
+	ZSNY1
+		Images:	1016
+		Time:	21.04.2025 10:50:22 until 21.04.2025 15:59:12
+		Duration:	05:08:50
+		Location:	NULL NULL
+
+(21) - 0.0 km camden heisner 861748 msc 4
+	ZCHEI1
+		Images:	24557
+		Time:	21.04.2025 08:57:23 until 21.04.2025 14:02:36
+		Duration:	05:05:13
+		Location:	NULL NULL
+
+(22) - 0.0 km DAVE TIDESWELL PRE FIN 861697
+	NDTID1
+		Images:	11148
+		Time:	21.04.2025 11:41:32 until 21.04.2025 13:54:46
+		Duration:	02:13:14
+		Location:	NULL NULL
+
+(23) - 0.0 km Fin Trigger Far right
+	MCGAY1
+		Images:	13007
+		Time:	21.04.2025 05:55:39 until 21.04.2025 15:04:55
+		Duration:	09:09:16
+		Location:	NULL NULL
+
+(24) - 0.0 km finish far right 861755
+	WFFR1
+		Images:	7445
+		Time:	21.04.2025 15:05:43 until 21.04.2025 17:09:56
+		Duration:	02:04:13
+		Location:	NULL NULL
+
+(25) - 0.0 km finish line left 861708
+	WFL1
+		Images:	19954
+		Time:	21.04.2025 09:18:50 until 21.04.2025 14:52:01
+		Duration:	05:33:11
+		Location:	NULL NULL
+
+(26) - 0.0 km Finish Trigger Far Left 861642
+	FTFL1
+		Images:	7039
+		Time:	21.04.2025 12:40:47 until 21.04.2025 14:55:43
+		Duration:	02:14:56
+		Location:	NULL NULL
+
+	MSGEN1
+		Images:	11868
+		Time:	21.04.2025 04:25:38 until 21.04.2025 12:40:07
+		Duration:	08:14:29
+		Location:	NULL NULL
+
+(27) - 0.0 km finish trigger right 861709
+	WFR1
+		Images:	18350
+		Time:	21.04.2025 06:50:04 until 21.04.2025 17:53:08
+		Duration:	11:03:04
+		Location:	NULL NULL
+
+(28) - 0.0 km medals erin flagg 861714
+	ZEFLA1
+		Images:	7622
+		Time:	21.04.2025 11:09:24 until 21.04.2025 17:12:14
+		Duration:	06:02:50
+		Location:	NULL NULL
+
+(29) - 0.0 km medals ethan walsh 861720
+	ZEWA1
+		Images:	5190
+		Time:	21.04.2025 11:09:04 until 21.04.2025 16:40:25
+		Duration:	05:31:21
+		Location:	NULL NULL
+
+(30) - 0.0 km medals jennifer valiant durran 861723
+	ZJVD1
+		Images:	4281
+		Time:	21.04.2025 12:17:03 until 21.04.2025 17:13:10
+		Duration:	04:56:07
+		Location:	NULL NULL
+
+(31) - 0.0 km medals marjorie schmidt 861722
+	ZMSC1
+		Images:	4015
+		Time:	21.04.2025 23:15:03 until 22.04.2025 04:44:33
+		Duration:	05:29:30
+		Location:	NULL NULL
+
+(32) - 0.0 km medals nate adams 861726
+	ZNADA1
+		Images:	6530
+		Time:	21.04.2025 12:21:53 until 21.04.2025 17:13:26
+		Duration:	04:51:33
+		Location:	NULL NULL
+
+(33) - 0.0 km medals ryan holland 861728
+	ZRHO1
+		Images:	3559
+		Time:	21.04.2025 11:37:56 until 21.04.2025 16:55:59
+		Duration:	05:18:03
+		Location:	NULL NULL
+
+(34) - 0.0 km medals sydney ciardi 861716
+	ZSCI1
+		Images:	5847
+		Time:	21.04.2025 11:09:34 until 21.04.2025 17:12:48
+		Duration:	06:03:14
+		Location:	NULL NULL
+
+(35) - 0.0 km medals wasil durran 861713
+	ZWDU1
+		Images:	2998
+		Time:	21.04.2025 12:21:50 until 21.04.2025 16:56:50
+		Duration:	04:35:00
+		Location:	NULL NULL
+
+(36) - 0.0 km mid mass alan ng 861661
+	EANG1
+		Images:	50467
+		Time:	21.04.2025 10:22:52 until 21.04.2025 15:50:36
+		Duration:	05:27:44
+		Location:	NULL NULL
+
+(37) - 0.0 km mid mass daniel libon 861663
+	EDLIB1
+		Images:	20355
+		Time:	21.04.2025 10:27:32 until 21.04.2025 14:33:16
+		Duration:	04:05:44
+		Location:	NULL NULL
+
+(38) - 0.0 km mid mass patrick dunn 865611
+	EPDUN1
+		Images:	20182
+		Time:	21.04.2025 10:11:49 until 21.04.2025 15:45:14
+		Duration:	05:33:25
+		Location:	NULL NULL
+
+(39) - 0.0 km mid mass rory fisher 861662
+	ERFI1
+		Images:	30022
+		Time:	11.11.2024 10:56:15 until 21.04.2025 15:19:17
+		Duration:	161.04:23:02
+		Location:	NULL NULL
+
+(40) - 0.0 km mid mass trigger 865612
+	ETRM1
+		Images:	27717
+		Time:	21.04.2025 10:09:54 until 21.04.2025 15:45:55
+		Duration:	05:36:01
+		Location:	NULL NULL
+
+(41) - 0.0 km MSC 1 GUY 861646
+	NGUY1
+		Images:	15032
+		Time:	21.04.2025 08:57:48 until 21.04.2025 10:39:36
+		Duration:	01:41:48
+		Location:	NULL NULL
+
+(42) - 0.0 km MSC 1 JON BURKE 861648
+	NJBUR1
+		Images:	7402
+		Time:	21.04.2025 08:14:48 until 21.04.2025 11:35:03
+		Duration:	03:20:15
+		Location:	NULL NULL
+
+(43) - 0.0 km MSC 1 RICO 861647
+	NRICO1
+		Images:	5939
+		Time:	21.04.2025 09:12:50 until 21.04.2025 11:29:15
+		Duration:	02:16:25
+		Location:	NULL NULL
+
+(44) - 0.0 km MSC 1 TRIGGER 861647
+	NTRA1
+		Images:	4491
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(45) - 0.0 km msc 10 jim dee 861682
+	HJDEE1
+		Images:	26986
+		Time:	21.04.2025 12:18:09 until 21.04.2025 16:45:30
+		Duration:	04:27:21
+		Location:	NULL NULL
+
+(46) - 0.0 km msc 10 julio 861679
+	DJULI1
+		Images:	36460
+		Time:	01.01.0001 23:00:00 until 21.04.2025 17:40:19
+		Duration:	739360.18:40:19
+		Location:	NULL NULL
+
+(47) - 0.0 km msc 10 julio 861680
+	WJMOR1
+(48) - 0.0 km msc 10 peter wood 861756
+	HPWOO1
+		Images:	17508
+		Time:	21.04.2025 14:23:11 until 21.04.2025 17:42:55
+		Duration:	03:19:44
+		Location:	NULL NULL
+
+(49) - 0.0 km msc 11 gus 861684
+	MGGAR1
+		Images:	32424
+		Time:	21.04.2025 10:52:07 until 21.04.2025 17:57:04
+		Duration:	07:04:57
+		Location:	NULL NULL
+
+(50) - 0.0 km msc 11 josh hummel 861688
+	HJHUM1
+		Images:	3628
+		Time:	21.04.2025 14:10:12 until 21.04.2025 16:32:23
+		Duration:	02:22:11
+		Location:	NULL NULL
+
+(51) - 0.0 km msc 11 paul meredith 861687
+	HPMER1
+		Images:	13144
+		Time:	21.04.2025 14:44:36 until 21.04.2025 17:56:48
+		Duration:	03:12:12
+		Location:	NULL NULL
+
+(52) - 0.0 km msc 11 rachel 862685
+	HRCZ1
+		Images:	30808
+		Time:	21.04.2025 10:32:41 until 21.04.2025 17:55:26
+		Duration:	07:22:45
+		Location:	NULL NULL
+
+(53) - 0.0 km msc 11 william dee 861683
+	HWDEE1
+		Images:	20911
+		Time:	21.04.2025 13:12:59 until 21.04.2025 17:44:49
+		Duration:	04:31:50
+		Location:	NULL NULL
+
+(54) - 0.0 km MSC 2 JIM DEE 861650
+	FJDEE1
+		Images:	14135
+		Time:	21.04.2025 08:10:17 until 21.04.2025 10:31:27
+		Duration:	02:21:10
+		Location:	NULL NULL
+
+(55) - 0.0 km MSC 2 PETER WOOD 861653
+	FPWOO1
+		Images:	9825
+		Time:	21.04.2025 09:13:24 until 21.04.2025 11:26:21
+		Duration:	02:12:57
+		Location:	NULL NULL
+
+(56) - 0.0 km MSC 2 WILLIAM DEE 861651
+	FWDEE1
+		Images:	8302
+		Time:	21.04.2025 09:12:37 until 21.04.2025 11:35:40
+		Duration:	02:23:03
+		Location:	NULL NULL
+
+(57) - 0.0 km MSC 3 ALISYN TOUSIGNANT 861655
+	AATOU1
+		Images:	7722
+		Time:	21.04.2025 08:41:37 until 21.04.2025 12:03:11
+		Duration:	03:21:34
+		Location:	NULL NULL
+
+(58) - 0.0 km MSC 3 JOSH 861656
+	AJOSH1
+		Images:	4287
+		Time:	21.04.2025 08:10:18 until 21.04.2025 11:03:38
+		Duration:	02:53:20
+		Location:	NULL NULL
+
+(59) - 0.0 km MSC 3 PAUL MEREDITH 861654
+	APMER1
+		Images:	10239
+		Time:	21.04.2025 09:22:39 until 21.04.2025 11:53:53
+		Duration:	02:31:14
+		Location:	NULL NULL
+
+(60) - 0.0 km MSC 3 TRIGGER 861657
+	ATRC1
+		Images:	8983
+		Time:	01.01.0001 23:00:00 until 01.01.2014 01:29:53
+		Duration:	735232.02:29:53
+		Location:	NULL NULL
+
+(61) - 0.0 km msc 4 harrison rice 861750
+	EHRIC1
+		Images:	6788
+		Time:	21.04.2025 09:34:38 until 21.04.2025 14:46:45
+		Duration:	05:12:07
+		Location:	NULL NULL
+
+(62) - 0.0 km msc 4 henry 861747
+	BHCAS1
+		Images:	11100
+		Time:	21.04.2025 08:35:13 until 21.04.2025 14:46:15
+		Duration:	06:11:02
+		Location:	NULL NULL
+
+(63) - 0.0 km msc 4 liam crowley 861749
+	ELACR1
+		Images:	10346
+		Time:	21.04.2025 08:28:06 until 21.04.2025 13:39:47
+		Duration:	05:11:41
+		Location:	NULL NULL
+
+(64) - 0.0 km msc 4 trigger 861751
+	ZTRD1
+		Images:	9185
+		Time:	21.04.2025 09:14:16 until 21.04.2025 13:56:57
+		Duration:	04:42:41
+		Location:	NULL NULL
+
+(65) - 0.0 km msc 5 catherine stackpole 861754
+	HCST1
+		Images:	17790
+		Time:	21.04.2025 08:35:29 until 21.05.2025 14:48:06
+		Duration:	30.06:12:37
+		Location:	NULL NULL
+
+(66) - 0.0 km msc 5 iavana 861752
+	ZIVAN1
+		Images:	19408
+		Time:	21.04.2025 09:10:35 until 21.04.2025 14:21:05
+		Duration:	05:10:30
+		Location:	NULL NULL
+
+(67) - 0.0 km msc 5 trigger 861757
+	MTRE1
+		Images:	11835
+		Time:	21.04.2025 08:28:55 until 21.04.2025 13:54:00
+		Duration:	05:25:05
+		Location:	NULL NULL
+
+(68) - 0.0 km msc 7 alex krivenyshev 861664
+	BAKR1
+		Images:	16149
+		Time:	21.04.2025 09:48:28 until 21.04.2025 16:32:38
+		Duration:	06:44:10
+		Location:	NULL NULL
+
+(69) - 0.0 km msc 7 david lavallee 861643
+	BDL1
+		Images:	15165
+		Time:	21.04.2025 10:23:16 until 21.04.2025 16:37:45
+		Duration:	06:14:29
+		Location:	NULL NULL
+
+(70) - 0.0 km msc 7 irene calder 861665
+	BICA1
+		Images:	16303
+		Time:	21.04.2025 09:08:58 until 21.04.2025 16:32:48
+		Duration:	07:23:50
+		Location:	NULL NULL
+
+(71) - 0.0 km msc 7 marvin dangerfield 861667
+	EMDAN1
+		Images:	7423
+		Time:	21.04.2025 14:15:20 until 21.04.2025 15:51:57
+		Duration:	01:36:37
+		Location:	NULL NULL
+
+(72) - 0.0 km msc 7 mike borden 861666
+	BMBOR1
+		Images:	18630
+		Time:	21.04.2025 09:07:28 until 21.04.2025 15:12:40
+		Duration:	06:05:12
+		Location:	NULL NULL
+
+(73) - 0.0 km msc 7 trigger 861668
+	ETRG1
+		Images:	42905
+		Time:	21.04.2025 10:16:35 until 21.04.2025 16:43:25
+		Duration:	06:26:50
+		Location:	NULL NULL
+
+(74) - 0.0 km msc 8 elijah druitt 861670
+	ZEDR1
+		Images:	23239
+		Time:	21.04.2025 10:33:56 until 21.04.2025 16:30:14
+		Duration:	05:56:18
+		Location:	NULL NULL
+
+(75) - 0.0 km msc 8 haley dando 861671
+	BHDAN1
+		Images:	18451
+		Time:	01.01.0001 23:00:00 until 21.04.2025 17:55:46
+		Duration:	739360.18:55:46
+		Location:	NULL NULL
+
+(76) - 0.0 km msc 8 pablo barajas 861672
+	EPBAR1
+		Images:	20428
+		Time:	21.04.2025 11:04:12 until 21.04.2025 17:14:43
+		Duration:	06:10:31
+		Location:	NULL NULL
+
+(77) - 0.0 km msc 8 terry 861669
+	ETWH1
+		Images:	20346
+		Time:	21.04.2025 09:33:27 until 21.04.2025 16:29:52
+		Duration:	06:56:25
+		Location:	NULL NULL
+
+(78) - 0.0 km msc 8 trigger 861673
+	ETRH1
+		Images:	19553
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(79) - 0.0 km MSC2 TRIGGER
+	FTRB1
+		Images:	6697
+		Time:	21.04.2025 08:56:34 until 21.04.2025 11:32:36
+		Duration:	02:36:02
+		Location:	NULL NULL
+
+(80) - 0.0 km MSC9 Christian Fiore 861674
+	HCFIO1
+		Images:	41662
+		Time:	21.04.2025 10:29:55 until 21.04.2025 17:21:52
+		Duration:	06:51:57
+		Location:	NULL NULL
+
+(81) - 0.0 km pol santos msc 11 861686
+	MPOL1
+		Images:	52379
+		Time:	21.03.2025 09:30:04 until 21.03.2025 17:04:04
+		Duration:	07:34:00
+		Location:	NULL NULL
+
+(82) - 0.0 km Pre Fin Dave Tideswell
+	MDTWE1
+		Images:	11306
+		Time:	21.04.2025 13:56:23 until 21.04.2025 15:36:10
+		Duration:	01:39:47
+		Location:	NULL NULL
+
+(83) - 0.0 km pre fin desmond tan 861699
+	WDES1
+		Images:	22488
+		Time:	21.04.2025 11:34:27 until 21.04.2025 17:26:18
+		Duration:	05:51:51
+		Location:	NULL NULL
+
+(84) - 0.0 km Pre Fin Far Ground
+	MDTWE1LS1
+		Images:	11646
+		Time:	21.04.2025 12:42:10 until 21.04.2025 15:58:04
+		Duration:	03:15:54
+		Location:	NULL NULL
+
+(85) - 0.0 km pre fin far left front 861701
+	WPFF1
+		Images:	5624
+		Time:	21.04.2025 15:59:23 until 21.04.2025 17:47:27
+		Duration:	01:48:04
+		Location:	NULL NULL
+
+(86) - 0.0 km pre fin ground trigger left 861704
+	WPFGL1
+		Images:	13577
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(87) - 0.0 km Pre Fin Jeff
+	MJLAU1
+		Images:	17342
+		Time:	21.04.2025 10:39:37 until 21.04.2025 15:57:02
+		Duration:	05:17:25
+		Location:	NULL NULL
+
+(88) - 0.0 km pre fin jeff lautenberger 861696
+	WJLA1
+		Images:	5279
+		Time:	21.04.2025 15:57:55 until 21.04.2025 18:20:09
+		Duration:	02:22:14
+		Location:	NULL NULL
+
+(89) - 0.0 km pre fin jonathan roberts 861698
+	WJROB1
+		Images:	18912
+		Time:	21.04.2025 12:35:33 until 21.04.2025 16:30:35
+		Duration:	03:55:02
+		Location:	NULL NULL
+
+(90) - 0.0 km PRE FIN LEFT 861702
+	NPFL1
+		Images:	5385
+		Time:	01.01.0001 23:00:00 until 21.04.2025 07:15:22
+		Duration:	739360.08:15:22
+		Location:	NULL NULL
+
+(91) - 0.0 km PRE FIN LEFT UP 861704
+	NPFUP1
+		Images:	3454
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(92) - 0.0 km pre fin right ground 861705
+	WPFRG1
+		Images:	17150
+		Time:	21.04.2025 12:39:03 until 21.04.2025 17:36:03
+		Duration:	04:57:00
+		Location:	NULL NULL
+
+(93) - 0.0 km pre fin trent 861700
+	WTWEL1
+		Images:	27808
+		Time:	21.04.2025 12:33:31 until 21.04.2025 18:20:12
+		Duration:	05:46:41
+		Location:	NULL NULL
+
+(94) - 0.0 km Pre Fin Trigger Right
+	NSGEN1
+		Images:	8299
+		Time:	21.04.2025 12:30:43 until 21.04.2025 14:49:42
+		Duration:	02:18:59
+		Location:	NULL NULL
+
+(95) - 0.0 km pre fin trigger right 861703
+	WPFTR1
+		Images:	12826
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(96) - 0.0 km pre fn left
+	WPFL1
+		Images:	8843
+		Time:	21.04.2025 14:50:58 until 21.04.2025 17:19:09
+		Duration:	02:28:11
+		Location:	NULL NULL
+
+(97) - 0.0 km PRE RACE CANDID CLAUDE 861638
+	ACBIR1
+		Images:	5165
+		Time:	21.04.2025 05:36:29 until 21.04.2025 07:55:29
+		Duration:	02:19:00
+		Location:	NULL NULL
+
+(98) - 0.0 km PRE RACE CANDID MEGYN 861636
+	AMBAR1
+		Images:	1154
+		Time:	21.04.2025 07:36:54 until 21.04.2025 09:54:52
+		Duration:	02:17:58
+		Location:	NULL NULL
+
+(99) - 0.0 km PRE RACE CANDID PETER 861637
+	APKOL1
+		Images:	3213
+		Time:	21.04.2025 07:35:00 until 21.04.2025 10:01:56
+		Duration:	02:26:56
+		Location:	NULL NULL
+
+(100) - 0.0 km PRE RACE CANDID SIMON 861639
+	ASBHO1
+		Images:	3288
+		Time:	20.04.2025 19:41:55 until 20.04.2025 21:57:54
+		Duration:	02:15:59
+		Location:	NULL NULL
+
+(101) - 0.0 km START PR J ROBERTS 862644
+	NJROB1
+		Images:	1465
+		Time:	21.04.2025 08:14:58 until 21.04.2025 10:10:39
+		Duration:	01:55:41
+		Location:	NULL NULL
+
+(102) - 0.0 km START PR TRENT 862645
+	NTWEL1
+		Images:	1018
+		Time:	21.04.2025 08:37:28 until 21.04.2025 10:11:01
+		Duration:	01:33:33
+		Location:	NULL NULL
+
+(103) - Impressions / Pano
+	PANO1
+(104) - none
+	HDTID1
+		Images:	11189
+		Time:	21.04.2025 15:37:31 until 21.04.2025 18:01:27
+		Duration:	02:23:56
+		Location:	NULL NULL
+

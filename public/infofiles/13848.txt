@@ -1,0 +1,285 @@
+EventId: 13848
+Spots: 43
+Total Images: 98773
+Time:	02.05.2025 20:33:42 to 05.05.2025 06:39:48
+Duration: 2.10:06:06
+
+(1) - Bike - 40.0 km
+	BSZ1
+		Images:	628
+		Time:	04.05.2025 06:08:28 until 04.05.2025 09:23:34
+		Duration:	03:15:06
+		Location:	31.47107 152.93288
+
+	BSZ3
+		Images:	492
+		Time:	04.05.2025 12:26:09 until 04.05.2025 14:44:39
+		Duration:	02:18:30
+		Location:	31.47107 152.93288
+
+(2) - Bike - 40.2 km
+	BSZ2
+		Images:	1854
+		Time:	04.05.2025 09:24:05 until 04.05.2025 16:25:24
+		Duration:	07:01:19
+		Location:	31.47107 152.93288
+
+(3) - Bike - 171.0 km
+	BSZ4
+		Images:	736
+		Time:	04.05.2025 07:46:34 until 04.05.2025 15:29:17
+		Duration:	07:42:43
+		Location:	-31.47415 152.93340
+
+(4) - Finish
+	BSZ5
+		Images:	1654
+		Time:	04.05.2025 18:58:42 until 05.05.2025 00:31:16
+		Duration:	05:32:34
+		Location:	-31.42785 152.90873
+
+	JEK5LS1
+		Images:	2469
+		Time:	04.05.2025 04:22:56 until 04.05.2025 21:43:54
+		Duration:	17:20:58
+		Location:	-31.42785 152.90873
+
+	JEK5LS2
+		Images:	778
+		Time:	04.05.2025 17:31:24 until 04.05.2025 21:45:07
+		Duration:	04:13:43
+		Location:	-31.42785 152.90873
+
+	MTS1
+		Images:	8538
+		Time:	03.05.2025 21:05:39 until 05.05.2025 06:39:48
+		Duration:	1.09:34:09
+		Location:	-31.42785 152.90873
+
+	AKC3
+		Images:	2590
+		Time:	04.05.2025 10:05:55 until 04.05.2025 17:57:49
+		Duration:	07:51:54
+		Location:	-31.42785 152.90873
+
+	TOSC5
+		Images:	220
+		Time:	04.05.2025 17:09:30 until 04.05.2025 19:02:43
+		Duration:	01:53:13
+		Location:	-31.42785 152.90873
+
+	TOSC8
+		Images:	138
+		Time:	04.05.2025 20:10:13 until 04.05.2025 23:50:29
+		Duration:	03:40:16
+		Location:	-31.42785 152.90873
+
+	PBOY4
+		Images:	1641
+		Time:	04.05.2025 17:56:06 until 04.05.2025 21:43:31
+		Duration:	03:47:25
+		Location:	-31.42785 152.90873
+
+	AMI3
+		Images:	804
+		Time:	04.05.2025 21:34:57 until 05.05.2025 00:31:09
+		Duration:	02:56:12
+		Location:	-31.42785 152.90873
+
+(5) - Bike - 10.0 km
+	JEK1
+		Images:	5978
+		Time:	04.05.2025 05:56:54 until 04.05.2025 09:26:19
+		Duration:	03:29:25
+		Location:	-31.47482 152.93649
+
+(6) - Bike - 10.1 km
+	JEK1LS1
+		Images:	2035
+		Time:	04.05.2025 10:38:17 until 04.05.2025 14:13:06
+		Duration:	03:34:49
+		Location:	-31.47565 152.93667
+
+	JEK2
+		Images:	940
+		Time:	04.05.2025 09:26:37 until 04.05.2025 09:52:25
+		Duration:	00:25:48
+		Location:	-31.47565 152.93664
+
+(7) - Bike - Impressions / Pano
+	JEK1DRONE1
+		Images:	19
+		Time:	04.05.2025 06:18:49 until 04.05.2025 06:28:34
+		Duration:	00:09:45
+		Location:	-31.47482 152.93649
+
+	JEK5IMP1
+		Images:	67
+		Time:	04.05.2025 21:15:39 until 04.05.2025 21:47:56
+		Duration:	00:32:17
+		Location:	-31.47565 152.93667
+
+(8) - Bike - 142.8 km
+	JEK3
+		Images:	1967
+		Time:	04.05.2025 09:52:37 until 04.05.2025 10:52:28
+		Duration:	00:59:51
+		Location:	-31.47552 152.93687
+
+	JEK4
+		Images:	4550
+		Time:	04.05.2025 12:24:21 until 04.05.2025 16:01:31
+		Duration:	03:37:10
+		Location:	-31.47552 152.93687
+
+(9) - Run - 187.3 km
+	MTS2
+		Images:	743
+		Time:	04.05.2025 04:21:22 until 04.05.2025 21:49:08
+		Duration:	17:27:46
+		Location:	-31.43113 152.90528
+
+(10) - Bike - Transition zone
+	AKC1
+		Images:	134
+		Time:	04.05.2025 08:42:14 until 04.05.2025 09:37:18
+		Duration:	00:55:04
+		Location:	-31.42995 152.89958
+
+	AKC2
+		Images:	1014
+		Time:	04.05.2025 06:43:17 until 04.05.2025 08:39:09
+		Duration:	01:55:52
+		Location:	-31.42995 152.89958
+
+	CLK1
+		Images:	2599
+		Time:	04.05.2025 05:34:39 until 04.05.2025 09:07:47
+		Duration:	03:33:08
+		Location:	-31.42995 152.89958
+
+(11) - Bike - 46.2 km
+	TOSC1
+		Images:	282
+		Time:	03.05.2025 17:36:15 until 04.05.2025 10:56:22
+		Duration:	17:20:07
+		Location:	-31.42914 152.91687
+
+(12) - Bike - 4.0 km
+	TOSC2
+		Images:	295
+		Time:	04.05.2025 07:29:57 until 04.05.2025 12:38:36
+		Duration:	05:08:39
+		Location:	-31.42912 152.91019
+
+(13) - Bike - 179.0 km
+	TOSC2LS2
+		Images:	2414
+		Time:	04.05.2025 14:01:25 until 04.05.2025 15:52:06
+		Duration:	01:50:41
+		Location:	-31.42912 152.91019
+
+(14) - Bike - 135.0 km
+	TOSC2LS1
+		Images:	554
+		Time:	04.05.2025 12:38:38 until 04.05.2025 14:00:18
+		Duration:	01:21:40
+		Location:	-31.42912 152.91019
+
+(15) - Bike - 136.0 km
+	TOSC3
+		Images:	47
+		Time:	04.05.2025 07:49:38 until 04.05.2025 07:59:48
+		Duration:	00:10:10
+		Location:	-31.43031 152.91871
+
+(16) - Bike - 178.0 km
+	TOSC4
+		Images:	7544
+		Time:	04.05.2025 08:07:10 until 04.05.2025 09:58:13
+		Duration:	01:51:03
+		Location:	-31.43031 152.91871
+
+(17) - Bike - 152.0 km
+	TOSC6
+		Images:	5368
+		Time:	04.05.2025 11:11:05 until 04.05.2025 15:58:30
+		Duration:	04:47:25
+		Location:	-31.42892 152.91367
+
+(18) - Bike - 152.4 km
+	TOSC7
+		Images:	506
+		Time:	04.05.2025 16:09:12 until 04.05.2025 16:27:56
+		Duration:	00:18:44
+		Location:	-31.42919 152.90931
+
+(19) - Bike - 0.0 km
+	TOSC1IMP1
+		Images:	33
+		Time:	04.05.2025 10:06:34 until 04.05.2025 10:58:51
+		Duration:	00:52:17
+		Location:	-31.42995 152.89958
+
+(20) - Run - 52.6 km
+	CLK2
+		Images:	5575
+		Time:	04.05.2025 09:09:28 until 04.05.2025 14:24:59
+		Duration:	05:15:31
+		Location:	-31.42684 152.91204
+
+	CLK3
+		Images:	482
+		Time:	04.05.2025 14:25:23 until 04.05.2025 23:16:53
+		Duration:	08:51:30
+		Location:	-31.42684 152.91204
+
+	CLK4
+(21) - Run - 186.0 km
+	CLK5
+		Images:	203
+		Time:	04.05.2025 19:26:01 until 04.05.2025 20:57:47
+		Duration:	01:31:46
+		Location:	-31.43056 152.90569
+
+(22) - Bike - 6.4 km
+	PBOY1
+		Images:	3251
+		Time:	04.05.2025 06:19:19 until 04.05.2025 09:10:23
+		Duration:	02:51:04
+		Location:	-31.44502 152.92734
+
+(23) - Bike - 44.0 km
+	PBOY2
+		Images:	1423
+		Time:	04.05.2025 05:58:54 until 04.05.2025 12:20:49
+		Duration:	06:21:55
+		Location:	-31.44502 152.92734
+
+(24) - Bike - 138.3 km
+	PBOY3
+		Images:	2174
+		Time:	04.05.2025 12:24:38 until 04.05.2025 15:45:20
+		Duration:	03:20:42
+		Location:	-31.44502 152.92734
+
+(25) - Run - 55.0 km
+	AMI1
+		Images:	81
+		Time:	02.05.2025 20:33:42 until 04.05.2025 07:28:21
+		Duration:	1.10:54:39
+		Location:	-31.43013 152.90571
+
+	AMI2LS1
+		Images:	7763
+		Time:	04.05.2025 07:53:03 until 04.05.2025 17:02:01
+		Duration:	09:08:58
+		Location:	-31.43013 152.90571
+
+(26) - Run - 187.0 km
+	AMI2
+		Images:	18190
+		Time:	04.05.2025 08:56:33 until 04.05.2025 20:17:50
+		Duration:	11:21:17
+		Location:	-31.43013 152.90571
+

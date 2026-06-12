@@ -1,0 +1,41 @@
+EventId: 13640
+Spots: 5
+Total Images: 7582
+Time:	20.07.2025 07:40:01 to 20.07.2025 17:12:24
+Duration: 09:32:23
+
+(1) - Start
+	LLM1
+		Images:	427
+		Time:	20.07.2025 07:40:01 until 20.07.2025 09:03:44
+		Duration:	01:23:43
+		Location:	46.51164 8.69399
+
+(2) - Finish
+	LLM2
+		Images:	1749
+		Time:	20.07.2025 10:40:05 until 20.07.2025 17:12:24
+		Duration:	06:32:19
+		Location:	46.51164 8.69399
+
+(3) - 20.0 km
+	RLLA1
+		Images:	1323
+		Time:	20.07.2025 09:20:40 until 20.07.2025 11:17:28
+		Duration:	01:56:48
+		Location:	46.54965 8.56605
+
+(4) - 51.0 km
+	PINO1
+		Images:	1820
+		Time:	20.07.2025 10:23:48 until 20.07.2025 13:29:27
+		Duration:	03:05:39
+		Location:	46.57719 8.38779
+
+(5) - 85.0 km
+	CVG1
+		Images:	2263
+		Time:	20.07.2025 12:40:35 until 20.07.2025 16:09:49
+		Duration:	03:29:14
+		Location:	46.47774 8.38396
+

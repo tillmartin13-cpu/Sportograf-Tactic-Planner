@@ -1,0 +1,122 @@
+EventId: 15944
+Spots: 37
+Total Images: 99712
+Time:	27.04.2024 06:55:39 to 27.04.2025 13:09:28
+Duration: 365.06:13:49
+
+(1) - 0.0 km
+	AALRE1
+	AALST1
+	ABRSM1
+	ABSMI1
+	ACARS1
+	ACASH1
+	ACOBA1
+	ACONB1
+	ADADR1
+	ADDRA1
+	AERLU1
+	AJOFE1
+	AKAHU1
+	AKIME1
+	AKIMM1
+	APASI1
+	ASTEL1
+	ASTLI1
+	ATGER1
+	ATGGR1
+	BANWI1
+		Images:	1566
+		Time:	27.04.2025 06:33:20 until 27.04.2025 06:58:32
+		Duration:	00:25:12
+		Location:	NULL NULL
+
+	BAWIL1
+		Images:	6616
+		Time:	27.04.2025 08:07:01 until 27.04.2025 13:03:17
+		Duration:	04:56:16
+		Location:	NULL NULL
+
+	BTIGR1
+		Images:	18030
+		Time:	27.04.2025 07:28:42 until 27.04.2025 12:43:02
+		Duration:	05:14:20
+		Location:	NULL NULL
+
+	BTRGR1
+		Images:	2442
+		Time:	27.04.2024 06:55:39 until 27.04.2024 07:36:20
+		Duration:	00:40:41
+		Location:	NULL NULL
+
+	BTRIG1
+		Images:	1571
+		Time:	27.04.2025 06:36:19 until 27.04.2025 07:08:19
+		Duration:	00:32:00
+		Location:	NULL NULL
+
+	BTRRG1
+		Images:	16674
+		Time:	27.04.2025 07:31:40 until 27.04.2025 12:28:56
+		Duration:	04:57:16
+		Location:	NULL NULL
+
+	BTTRG1
+		Images:	13792
+		Time:	27.04.2025 08:05:32 until 27.04.2025 10:13:42
+		Duration:	02:08:10
+		Location:	NULL NULL
+
+	CERIL1
+		Images:	7650
+		Time:	27.04.2025 07:36:15 until 27.04.2025 13:09:28
+		Duration:	05:33:13
+		Location:	NULL NULL
+
+	CPSIS1
+		Images:	16318
+		Time:	27.04.2025 08:04:18 until 27.04.2025 12:29:15
+		Duration:	04:24:57
+		Location:	NULL NULL
+
+(2) - 0.0 km 861144 kyle brown
+	XKBA1
+		Images:	2504
+		Time:	27.04.2025 06:33:18 until 27.04.2025 06:56:03
+		Duration:	00:22:45
+		Location:	NULL NULL
+
+(3) - 0.0 km 861147 paul sisk msc 2
+	XPSIS1
+		Images:	574
+		Time:	27.04.2025 07:19:19 until 27.04.2025 07:22:57
+		Duration:	00:03:38
+		Location:	NULL NULL
+
+(4) - 0.0 km 861155 ryan williams
+	XRWIL1
+(5) - 0.0 km 861156 stephen archinald
+	XSAR1
+(6) - 0.0 km 861167 jb bilbrey pr start
+	XJBB1
+		Images:	433
+		Time:	27.04.2025 05:54:39 until 27.04.2025 06:58:59
+		Duration:	01:04:20
+		Location:	NULL NULL
+
+(7) - 0.0 km 861172 kyle brown pre fin
+	XKBB1
+		Images:	71
+		Time:	27.04.2025 07:41:20 until 27.04.2025 07:50:43
+		Duration:	00:09:23
+		Location:	NULL NULL
+
+(8) - 0.0 km jb bilbrey pre fin 861173
+	XJBA1
+		Images:	11471
+		Time:	27.04.2025 07:23:10 until 27.04.2025 12:42:57
+		Duration:	05:19:47
+		Location:	NULL NULL
+
+(9) - Impressions / Pano
+	PANO1

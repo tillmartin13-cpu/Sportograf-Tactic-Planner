@@ -1,0 +1,129 @@
+EventId: 14179
+Spots: 20
+Total Images: 34897
+Time:	16.05.2025 21:17:34 to 17.05.2025 19:10:43
+Duration: 21:53:09
+
+(1) - 1,24km von 42km; 21km; 11km
+	SIL1
+		Images:	3971
+		Time:	17.05.2025 09:06:14 until 17.05.2025 13:14:32
+		Duration:	04:08:18
+		Location:	50.46892 6.09470
+
+(2) - 1,49km von 42km; 21km; 11km
+	NWO1
+		Images:	2670
+		Time:	17.05.2025 09:06:05 until 17.05.2025 13:15:43
+		Duration:	04:09:38
+		Location:	50.46834 6.09217
+
+	NWO1LS1
+		Images:	671
+		Time:	17.05.2025 11:03:53 until 17.05.2025 13:19:53
+		Duration:	02:16:00
+		Location:	50.46834 6.09217
+
+	NWO1LS2
+		Images:	279
+		Time:	17.05.2025 12:54:57 until 17.05.2025 13:18:44
+		Duration:	00:23:47
+		Location:	50.46834 6.09217
+
+(3) - 5,2km von 42km; 21km
+	JKE1
+		Images:	3204
+		Time:	16.05.2025 22:06:19 until 17.05.2025 12:53:53
+		Duration:	14:47:34
+		Location:	50.45405 6.10142
+
+	JKE1LS1
+		Images:	1288
+		Time:	16.05.2025 21:23:00 until 17.05.2025 13:13:27
+		Duration:	15:50:27
+		Location:	50.45405 6.10142
+
+	JKE1LS2
+		Images:	1258
+		Time:	16.05.2025 21:17:34 until 17.05.2025 11:56:49
+		Duration:	14:39:15
+		Location:	50.45405 6.10142
+
+(4) - 27,3km von 85km
+	OP1
+		Images:	684
+		Time:	16.05.2025 22:58:00 until 17.05.2025 11:07:28
+		Duration:	12:09:28
+		Location:	50.43386 6.03109
+
+	OP1LS1
+		Images:	349
+		Time:	16.05.2025 22:57:51 until 17.05.2025 11:42:25
+		Duration:	12:44:34
+		Location:	50.43386 6.03109
+
+(5) - 67km von 85km; 27,9km von 42km
+	OP2
+		Images:	2268
+		Time:	17.05.2025 11:50:08 until 17.05.2025 19:04:10
+		Duration:	07:14:02
+		Location:	50.43062 6.02327
+
+	OP2LS1
+		Images:	1149
+		Time:	17.05.2025 11:43:18 until 17.05.2025 19:06:42
+		Duration:	07:23:24
+		Location:	50.43062 6.02327
+
+(6) - 67,3km von 85km; 28,2km von 42km
+	JKE2
+		Images:	3032
+		Time:	17.05.2025 12:56:50 until 17.05.2025 19:10:43
+		Duration:	06:13:53
+		Location:	50.43206 6.02310
+
+	JKE2LS1
+		Images:	793
+		Time:	17.05.2025 13:14:46 until 17.05.2025 17:30:10
+		Duration:	04:15:24
+		Location:	50.43206 6.02310
+
+	JKE2LS2
+		Images:	778
+		Time:	17.05.2025 13:27:49 until 17.05.2025 18:49:05
+		Duration:	05:21:16
+		Location:	50.43206 6.02310
+
+(7) - 84,6km von 85km; 41,6km von 42km; 10,6km von 11km; xkm von tri+
+	NWO2
+		Images:	2318
+		Time:	17.05.2025 14:25:48 until 17.05.2025 19:03:06
+		Duration:	04:37:18
+		Location:	50.47396 6.10127
+
+	NWO2LS1
+		Images:	1256
+		Time:	17.05.2025 14:37:04 until 17.05.2025 19:02:53
+		Duration:	04:25:49
+		Location:	50.47396 6.10127
+
+	NWO2LS2
+		Images:	1212
+		Time:	17.05.2025 14:46:40 until 17.05.2025 19:08:17
+		Duration:	04:21:37
+		Location:	50.47396 6.10127
+
+	SIL2
+		Images:	7694
+		Time:	17.05.2025 14:19:10 until 17.05.2025 19:03:30
+		Duration:	04:44:20
+		Location:	50.47396 6.10127
+
+(8) - Impressions / Pano
+	SIL1DRONE1
+		Images:	23
+		Time:	17.05.2025 11:17:29 until 17.05.2025 16:05:29
+		Duration:	04:48:00
+		Location:	50.47396 6.10127
+
+	PANO1

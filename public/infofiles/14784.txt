@@ -1,0 +1,63 @@
+EventId: 14784
+Spots: 9
+Total Images: 14860
+Time:	05.09.2025 11:32:43 to 05.09.2025 17:02:28
+Duration: 05:29:45
+
+(1) - Start
+	BECK1
+		Images:	2998
+		Time:	05.09.2025 12:00:28 until 05.09.2025 17:02:28
+		Duration:	05:02:00
+		Location:	48.01771 8.53087
+
+	BECK1LS1
+		Images:	852
+		Time:	05.09.2025 11:38:43 until 05.09.2025 16:05:08
+		Duration:	04:26:25
+		Location:	48.01771 8.53087
+
+(2) - 5,5 km
+	JNK1LS1
+		Images:	347
+		Time:	05.09.2025 11:32:43 until 05.09.2025 15:10:31
+		Duration:	03:37:48
+		Location:	47.98780 8.54367
+
+	JNK1
+		Images:	1233
+		Time:	05.09.2025 11:32:43 until 05.09.2025 16:14:24
+		Duration:	04:41:41
+		Location:	47.98780 8.54367
+
+	JNK2
+		Images:	1472
+		Time:	05.09.2025 11:32:43 until 05.09.2025 16:14:24
+		Duration:	04:41:41
+		Location:	47.98780 8.54367
+
+(3) - 16,4 km
+	TE1
+		Images:	5996
+		Time:	05.09.2025 11:58:02 until 05.09.2025 16:37:51
+		Duration:	04:39:49
+		Location:	47.99046 8.62991
+
+	TE1DRONE1
+		Images:	5
+		Time:	05.09.2025 11:38:30 until 05.09.2025 11:39:35
+		Duration:	00:01:05
+		Location:	47.99046 8.62991
+
+	TE1LS2
+		Images:	1026
+		Time:	05.09.2025 12:01:42 until 05.09.2025 16:35:40
+		Duration:	04:33:58
+		Location:	47.99046 8.62991
+
+	TE1LS1
+		Images:	931
+		Time:	05.09.2025 11:46:05 until 05.09.2025 14:54:54
+		Duration:	03:08:49
+		Location:	47.99046 8.62991
+

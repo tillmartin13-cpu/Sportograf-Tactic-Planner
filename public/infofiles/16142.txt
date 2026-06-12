@@ -1,0 +1,82 @@
+EventId: 16142
+Spots: 11
+Total Images: 35417
+Time:	04.09.2025 19:00:14 to 06.09.2025 09:03:51
+Duration: 1.14:03:37
+
+(1) - ZONE 1 RAM Reverse Lunge
+	JMS1
+		Images:	4046
+		Time:	04.09.2025 19:00:14 until 04.09.2025 23:29:41
+		Duration:	04:29:27
+		Location:	30.26031 -97.75302
+
+(2) - ZONE 2+3: ROW + BOX STEP
+	AWD1
+		Images:	844
+		Time:	05.09.2025 07:34:51 until 05.09.2025 16:09:39
+		Duration:	08:34:48
+		Location:	30.26031 -97.75302
+
+	JMS2
+		Images:	3940
+		Time:	05.09.2025 00:38:25 until 05.09.2025 16:09:39
+		Duration:	15:31:14
+		Location:	30.26031 -97.75302
+
+(3) - ZONE 4: MED BALL
+	AKT1
+		Images:	2513
+		Time:	05.09.2025 06:54:42 until 05.09.2025 17:20:58
+		Duration:	10:26:16
+		Location:	30.26031 -97.75302
+
+(4) - ZONE 5: SKI
+	GAPO1
+		Images:	7266
+		Time:	05.09.2025 07:44:27 until 05.09.2025 17:26:51
+		Duration:	09:42:24
+		Location:	30.26031 -97.75302
+
+(5) - ZONE 6: FARMERS CARRY
+	CIFU1
+		Images:	2919
+		Time:	04.09.2025 19:40:47 until 06.09.2025 09:03:51
+		Duration:	1.13:23:04
+		Location:	30.26031 -97.75302
+
+(6) - ZONE 7: AIR BIKE
+	PRU1
+		Images:	3633
+		Time:	04.09.2025 22:00:28 until 05.09.2025 17:37:02
+		Duration:	19:36:34
+		Location:	30.26031 -97.75302
+
+(7) - ZONE 9: SLED PUSH/PULL
+	GDRP1
+		Images:	6365
+		Time:	04.09.2025 22:05:47 until 06.09.2025 07:31:38
+		Duration:	1.09:25:51
+		Location:	30.26031 -97.75302
+
+(8) - LS1: FINISH
+	JOFU1LS1
+		Images:	645
+		Time:	04.09.2025 19:37:24 until 05.09.2025 18:04:23
+		Duration:	22:26:59
+		Location:	30.26031 -97.75302
+
+(9) - LS2: FINISH
+	JOFU1LS2
+		Images:	2600
+		Time:	04.09.2025 19:41:23 until 05.09.2025 18:04:25
+		Duration:	22:23:02
+		Location:	30.26031 -97.75302
+
+(10) - IMPRESSIONS
+	JOFU1
+		Images:	646
+		Time:	04.09.2025 19:35:40 until 06.09.2025 07:56:05
+		Duration:	1.12:20:25
+		Location:	30.26031 -97.75302
+

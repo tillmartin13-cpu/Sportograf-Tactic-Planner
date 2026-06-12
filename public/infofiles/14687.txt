@@ -1,0 +1,172 @@
+EventId: 14687
+Spots: 26
+Total Images: 60226
+Time:	31.12.2017 23:00:06 to 23.03.2025 16:12:39
+Duration: 2638.17:12:33
+
+(1) - Start
+	EB1
+		Images:	223
+		Time:	22.03.2025 03:01:07 until 22.03.2025 03:03:01
+		Duration:	00:01:54
+		Location:	43.48665 11.37424
+
+(2) - Dievole, 5 km after start
+	EB2
+		Images:	3382
+		Time:	22.03.2025 03:39:22 until 22.03.2025 08:05:11
+		Duration:	04:25:49
+		Location:	43.43118 11.34779
+
+	EB2LS1
+		Images:	1004
+		Time:	22.03.2025 06:27:02 until 22.03.2025 08:24:20
+		Duration:	01:57:18
+		Location:	43.43118 11.34779
+
+	EB2LS2
+		Images:	828
+		Time:	22.03.2025 06:48:27 until 22.03.2025 08:20:55
+		Duration:	01:32:28
+		Location:	43.43118 11.34779
+
+(3) - Arillo, 7 km after start
+	FRN1
+		Images:	1072
+		Time:	22.03.2025 03:49:05 until 23.03.2025 08:24:22
+		Duration:	1.04:35:17
+		Location:	43.41989 11.36281
+
+	FRN1LS2
+		Images:	769
+		Time:	22.03.2025 06:02:37 until 22.03.2025 08:19:42
+		Duration:	02:17:05
+		Location:	43.41989 11.36281
+
+	FRN1LS1
+		Images:	585
+		Time:	22.03.2025 06:36:26 until 22.03.2025 08:17:54
+		Duration:	01:41:28
+		Location:	43.41989 11.36281
+
+(4) - Impressions / Pano
+	FRN1DRONE1
+		Images:	85
+		Time:	22.03.2025 07:46:49 until 23.03.2025 16:12:39
+		Duration:	1.08:25:50
+		Location:	43.41989 11.36289
+
+(5) - Vertine
+	FRN2
+		Images:	1232
+		Time:	22.03.2025 11:27:29 until 22.03.2025 16:59:48
+		Duration:	05:32:19
+		Location:	43.46807 11.41834
+
+	FRN2LS1
+		Images:	6751
+		Time:	22.03.2025 09:55:56 until 22.03.2025 17:03:55
+		Duration:	07:07:59
+		Location:	43.46807 11.41834
+
+	FRN2LS2
+		Images:	756
+		Time:	22.03.2025 10:47:16 until 22.03.2025 16:33:14
+		Duration:	05:45:58
+		Location:	43.46807 11.41834
+
+	FRN2LS3
+		Images:	4453
+		Time:	22.03.2025 10:24:39 until 22.03.2025 17:07:49
+		Duration:	06:43:10
+		Location:	43.46807 11.41834
+
+(6) - Vertine old town
+	EB3
+		Images:	2058
+		Time:	22.03.2025 09:41:34 until 22.03.2025 16:56:53
+		Duration:	07:15:19
+		Location:	43.46981 11.41786
+
+	EB3LS1
+		Images:	1798
+		Time:	22.03.2025 11:03:33 until 22.03.2025 17:16:44
+		Duration:	06:13:11
+		Location:	43.46981 11.41786
+
+(7) - Castello albola
+	GAZ1
+		Images:	4766
+		Time:	22.03.2025 09:56:19 until 22.03.2025 19:22:33
+		Duration:	09:26:14
+		Location:	43.51871 11.40287
+
+	GAZ1LS1
+		Images:	1522
+		Time:	22.03.2025 09:58:32 until 22.03.2025 19:08:15
+		Duration:	09:09:43
+		Location:	43.51871 11.40287
+
+(8) - After Castello albola
+	LULE1
+		Images:	4209
+		Time:	22.03.2025 10:53:59 until 22.03.2025 19:34:15
+		Duration:	08:40:16
+		Location:	43.51903 11.40030
+
+	LULE1LS1
+		Images:	1605
+		Time:	22.03.2025 10:01:41 until 22.03.2025 16:51:00
+		Duration:	06:49:19
+		Location:	43.51903 11.40030
+
+	LULE1LS2
+		Images:	1240
+		Time:	22.03.2025 11:18:59 until 22.03.2025 18:50:58
+		Duration:	07:31:59
+		Location:	43.51903 11.40030
+
+(9) - S.Michele
+	MATR1
+		Images:	4201
+		Time:	22.03.2025 10:54:59 until 22.03.2025 20:36:18
+		Duration:	09:41:19
+		Location:	43.55252 11.38803
+
+	MATR1LS1
+		Images:	4466
+		Time:	22.03.2025 10:27:41 until 22.03.2025 21:50:49
+		Duration:	11:23:08
+		Location:	43.55252 11.38803
+
+	LEBE1
+		Images:	3885
+		Time:	22.03.2025 10:58:11 until 22.03.2025 21:51:12
+		Duration:	10:53:01
+		Location:	43.55185 11.38563
+
+(10) - Finish
+	RALLA1
+		Images:	7096
+		Time:	31.12.2017 23:00:06 until 22.03.2025 23:05:51
+		Duration:	2638.00:05:45
+		Location:	43.48665 11.37424
+
+	RALLA1LS1
+		Images:	1054
+		Time:	22.03.2025 08:54:57 until 22.03.2025 23:02:42
+		Duration:	14:07:45
+		Location:	43.48665 11.37424
+
+	LULE2
+		Images:	821
+		Time:	22.03.2025 23:20:55 until 23.03.2025 04:52:31
+		Duration:	05:31:36
+		Location:	43.48665 11.37424
+
+	LULE2LS1
+		Images:	358
+		Time:	22.03.2025 23:16:43 until 23.03.2025 04:58:33
+		Duration:	05:41:50
+		Location:	43.48665 11.37424
+

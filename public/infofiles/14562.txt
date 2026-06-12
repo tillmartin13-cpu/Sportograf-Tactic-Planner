@@ -1,0 +1,156 @@
+EventId: 14562
+Spots: 23
+Total Images: 62995
+Time:	21.03.2025 17:34:05 to 23.03.2025 16:53:24
+Duration: 1.23:19:19
+
+(1) - Start 10 k Wine run
+	LULE1
+		Images:	250
+		Time:	21.03.2025 17:34:05 until 21.03.2025 18:00:31
+		Duration:	00:26:26
+		Location:	NULL NULL
+
+(2) - 1 km before finish 10 k Wine run
+	GAZ1
+		Images:	630
+		Time:	21.03.2025 18:01:46 until 21.03.2025 20:03:35
+		Duration:	02:01:49
+		Location:	NULL NULL
+
+	GAZ1LS1
+		Images:	99
+		Time:	21.03.2025 18:29:42 until 21.03.2025 19:54:03
+		Duration:	01:24:21
+		Location:	NULL NULL
+
+(3) - 100 m before finish 10k Wine Run
+	MATR1
+		Images:	845
+		Time:	21.03.2025 17:57:41 until 21.03.2025 20:11:46
+		Duration:	02:14:05
+		Location:	NULL NULL
+
+(4) - Finish 10 k Wine run
+	LULE2LS1
+		Images:	766
+		Time:	21.03.2025 18:47:02 until 21.03.2025 19:56:53
+		Duration:	01:09:51
+		Location:	NULL NULL
+
+	LULE2
+		Images:	920
+		Time:	21.03.2025 18:19:07 until 21.03.2025 20:12:40
+		Duration:	01:53:33
+		Location:	NULL NULL
+
+(5) - Start Race 20k&50k
+	LEBE1
+		Images:	582
+		Time:	23.03.2025 06:49:05 until 23.03.2025 08:02:20
+		Duration:	01:13:15
+		Location:	NULL NULL
+
+(6) - 1 km Before Finish Race 20k&50k
+	GAZ2
+		Images:	10219
+		Time:	23.03.2025 07:16:52 until 23.03.2025 16:16:52
+		Duration:	09:00:00
+		Location:	NULL NULL
+
+	GAZ2LS1
+		Images:	3842
+		Time:	23.03.2025 07:53:08 until 23.03.2025 16:16:32
+		Duration:	08:23:24
+		Location:	NULL NULL
+
+(7) - Single track Before Vertine Race 20k&50k
+	FRN1
+		Images:	1815
+		Time:	22.03.2025 05:35:53 until 23.03.2025 14:14:06
+		Duration:	1.08:38:13
+		Location:	NULL NULL
+
+	FRN1LS1
+		Images:	2668
+		Time:	23.03.2025 08:08:52 until 23.03.2025 14:32:30
+		Duration:	06:23:38
+		Location:	NULL NULL
+
+	FRN1LS2
+		Images:	2844
+		Time:	23.03.2025 07:46:45 until 23.03.2025 14:32:30
+		Duration:	06:45:45
+		Location:	NULL NULL
+
+(8) - Impressions / Pano
+	FRN1DRONE1
+		Images:	84
+		Time:	22.03.2025 07:51:56 until 23.03.2025 16:12:39
+		Duration:	1.08:20:43
+		Location:	NULL NULL
+
+	MATR2DRONE1
+		Images:	36
+		Time:	22.03.2025 12:47:23 until 23.03.2025 13:10:51
+		Duration:	1.00:23:28
+		Location:	NULL NULL
+
+(9) - Vertine old Town Race 20k&50k
+	EB1
+		Images:	5130
+		Time:	23.03.2025 07:36:51 until 23.03.2025 14:34:36
+		Duration:	06:57:45
+		Location:	NULL NULL
+
+	EB1LS1
+		Images:	2252
+		Time:	23.03.2025 07:41:33 until 23.03.2025 14:36:49
+		Duration:	06:55:16
+		Location:	NULL NULL
+
+(10) - Race 20k&50k
+	MATR2
+		Images:	4632
+		Time:	23.03.2025 08:04:38 until 23.03.2025 15:37:30
+		Duration:	07:32:52
+		Location:	NULL NULL
+
+	MATR2LS1
+		Images:	1876
+		Time:	23.03.2025 08:07:40 until 23.03.2025 15:37:36
+		Duration:	07:29:56
+		Location:	NULL NULL
+
+(11) - Il vallone Race 20k&50k
+	RALLA1
+		Images:	8272
+		Time:	22.03.2025 12:20:35 until 23.03.2025 15:46:56
+		Duration:	1.03:26:21
+		Location:	NULL NULL
+
+	RALLA1LS1
+		Images:	3195
+		Time:	23.03.2025 07:34:21 until 23.03.2025 15:27:21
+		Duration:	07:53:00
+		Location:	NULL NULL
+
+(12) - Finish Race 20k&50k
+	LEBE2
+		Images:	7794
+		Time:	23.03.2025 08:27:51 until 23.03.2025 16:34:12
+		Duration:	08:06:21
+		Location:	NULL NULL
+
+	LEBE2LS1
+		Images:	1723
+		Time:	23.03.2025 06:42:03 until 23.03.2025 15:23:31
+		Duration:	08:41:28
+		Location:	NULL NULL
+
+	LULE3LS1
+		Images:	2517
+		Time:	23.03.2025 15:12:09 until 23.03.2025 16:53:24
+		Duration:	01:41:15
+		Location:	NULL NULL
+

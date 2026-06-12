@@ -1,0 +1,115 @@
+EventId: 14055
+Spots: 17
+Total Images: 61662
+Time:	23.05.2025 21:05:48 to 24.05.2025 20:15:24
+Duration: 23:09:36
+
+(1) - Start
+	IMOG1
+		Images:	158
+		Time:	24.05.2025 05:32:38 until 24.05.2025 06:27:50
+		Duration:	00:55:12
+		Location:	NULL NULL
+
+(2) - 0.5 km Åmot bru
+	FAT1
+		Images:	106
+		Time:	24.05.2025 05:38:28 until 24.05.2025 10:39:30
+		Duration:	05:01:02
+		Location:	NULL NULL
+
+(3) - 28.5 km Vettakollen
+	JOM1
+		Images:	2204
+		Time:	24.05.2025 08:06:39 until 24.05.2025 10:24:36
+		Duration:	02:17:57
+		Location:	NULL NULL
+
+(4) - 34.0 km Holmenkollen
+	AGM1
+		Images:	579
+		Time:	24.05.2025 08:31:09 until 24.05.2025 11:37:11
+		Duration:	03:06:02
+		Location:	NULL NULL
+
+(5) - 54.5 km Åbortjernet
+	AGU1
+		Images:	4009
+		Time:	24.05.2025 10:09:37 until 24.05.2025 15:06:20
+		Duration:	04:56:43
+		Location:	NULL NULL
+
+	AGU1LS2
+		Images:	2695
+		Time:	24.05.2025 10:28:03 until 24.05.2025 15:07:17
+		Duration:	04:39:14
+		Location:	NULL NULL
+
+	AGU1LS1
+		Images:	2697
+		Time:	24.05.2025 10:36:05 until 24.05.2025 15:38:58
+		Duration:	05:02:53
+		Location:	NULL NULL
+
+(6) - 57.5 km Østernvann
+	JJ1
+		Images:	11540
+		Time:	24.05.2025 09:31:14 until 24.05.2025 16:36:13
+		Duration:	07:04:59
+		Location:	NULL NULL
+
+(7) - 62.5 km Hammerfossen
+	DTES1
+		Images:	6387
+		Time:	24.05.2025 10:11:35 until 24.05.2025 16:18:39
+		Duration:	06:07:04
+		Location:	NULL NULL
+
+(8) - 69.0 km Granfossen
+	AGM2
+		Images:	1343
+		Time:	24.05.2025 12:57:10 until 24.05.2025 18:12:01
+		Duration:	05:14:51
+		Location:	NULL NULL
+
+	IMOG2
+		Images:	3676
+		Time:	24.05.2025 10:09:53 until 24.05.2025 18:24:03
+		Duration:	08:14:10
+		Location:	NULL NULL
+
+(9) - 71.5 km Vækerøparken
+	MAKO1
+		Images:	8074
+		Time:	23.05.2025 21:05:48 until 24.05.2025 18:28:12
+		Duration:	21:22:24
+		Location:	NULL NULL
+
+(10) - 75.0 km Bygdøy
+	POK1
+		Images:	9573
+		Time:	24.05.2025 10:26:36 until 24.05.2025 19:28:18
+		Duration:	09:01:42
+		Location:	NULL NULL
+
+(11) - Finish
+	FAT2
+		Images:	3662
+		Time:	24.05.2025 11:27:08 until 24.05.2025 20:14:48
+		Duration:	08:47:40
+		Location:	NULL NULL
+
+	JOM2
+		Images:	2105
+		Time:	24.05.2025 12:08:00 until 24.05.2025 18:47:24
+		Duration:	06:39:24
+		Location:	NULL NULL
+
+	JOM2LS1
+		Images:	2854
+		Time:	24.05.2025 11:57:41 until 24.05.2025 20:15:24
+		Duration:	08:17:43
+		Location:	NULL NULL
+
+(12) - Impressions / Pano
+	PANO1

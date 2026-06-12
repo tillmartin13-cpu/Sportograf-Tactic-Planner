@@ -1,0 +1,100 @@
+EventId: 14339
+Spots: 14
+Total Images: 48567
+Time:	20.06.2025 16:20:41 to 21.06.2025 20:21:01
+Duration: 1.04:00:20
+
+(1) - Obstacle 5 Monkey Bars
+	JGAB1
+		Images:	6708
+		Time:	21.06.2025 06:59:27 until 21.06.2025 13:21:40
+		Duration:	06:22:13
+		Location:	NULL NULL
+
+	SCTH1
+		Images:	3508
+		Time:	20.06.2025 20:35:27 until 21.06.2025 13:10:15
+		Duration:	16:34:48
+		Location:	NULL NULL
+
+(2) - Obstacle 19 Inverted Wall
+	NYMI1
+		Images:	9799
+		Time:	21.06.2025 08:30:27 until 21.06.2025 16:02:37
+		Duration:	07:32:10
+		Location:	NULL NULL
+
+(3) - Obstacle 20 Bucket Carry
+	SAN1
+		Images:	3514
+		Time:	21.06.2025 07:38:22 until 21.06.2025 15:45:40
+		Duration:	08:07:18
+		Location:	NULL NULL
+
+(4) - Obstacle 22 Multi-Rig
+	LLCA1
+		Images:	3222
+		Time:	21.06.2025 07:28:54 until 21.06.2025 15:55:53
+		Duration:	08:26:59
+		Location:	NULL NULL
+
+	MIGO1
+		Images:	4148
+		Time:	21.06.2025 08:25:03 until 21.06.2025 16:18:29
+		Duration:	07:53:26
+		Location:	NULL NULL
+
+(5) - Obstacle 25 Sandbag Carry
+	JKRE1
+		Images:	4612
+		Time:	21.06.2025 08:49:19 until 21.06.2025 16:44:07
+		Duration:	07:54:48
+		Location:	NULL NULL
+
+(6) - Obstacle 30 Barbed Wire
+	JIB1
+		Images:	4400
+		Time:	20.06.2025 22:37:24 until 21.06.2025 18:32:36
+		Duration:	19:55:12
+		Location:	NULL NULL
+
+	SCTH2
+		Images:	168
+		Time:	21.06.2025 05:38:18 until 21.06.2025 14:40:53
+		Duration:	09:02:35
+		Location:	NULL NULL
+
+(7) - Obstacle 34 Fire Jump
+	JOFU1
+		Images:	3956
+		Time:	20.06.2025 16:25:29 until 21.06.2025 20:20:04
+		Duration:	1.03:54:35
+		Location:	NULL NULL
+
+	JOFU1LS1
+		Images:	1375
+		Time:	20.06.2025 16:20:41 until 21.06.2025 18:22:27
+		Duration:	1.02:01:46
+		Location:	NULL NULL
+
+(8) - Herotent
+	CIFU1
+		Images:	2716
+		Time:	20.06.2025 16:26:47 until 21.06.2025 20:21:01
+		Duration:	1.03:54:14
+		Location:	NULL NULL
+
+(9) - Festival Area
+	JOD1
+		Images:	434
+		Time:	21.06.2025 10:24:34 until 21.06.2025 13:43:07
+		Duration:	03:18:33
+		Location:	NULL NULL
+
+(10) - Drone Photos
+	JOD1DRONE1
+		Images:	7
+		Time:	21.06.2025 13:20:14 until 21.06.2025 14:11:33
+		Duration:	00:51:19
+		Location:	NULL NULL
+

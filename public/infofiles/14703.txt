@@ -1,0 +1,447 @@
+EventId: 14703
+Spots: 70
+Total Images: 245082
+Time:	27.06.2025 07:23:00 to 29.06.2025 12:30:18
+Duration: 2.05:07:18
+
+(1) - Start
+	MDS1
+		Images:	1282
+		Time:	27.06.2025 07:32:51 until 27.06.2025 08:07:06
+		Duration:	00:34:15
+		Location:	46.53735 12.13698
+
+	BEB1
+		Images:	1338
+		Time:	27.06.2025 07:23:13 until 27.06.2025 08:07:32
+		Duration:	00:44:19
+		Location:	46.53735 12.13698
+
+(2) - 20.0 km Forcella Col dei Bos
+	GAZ1
+		Images:	9140
+		Time:	27.06.2025 09:49:21 until 27.06.2025 13:56:46
+		Duration:	04:07:25
+		Location:	46.53352 12.03589
+
+	GAZ1LS1
+		Images:	578
+		Time:	27.06.2025 10:49:52 until 27.06.2025 12:36:11
+		Duration:	01:46:19
+		Location:	46.53352 12.03589
+
+(3) - 23.0 km Col dei Bos
+	LULE1
+		Images:	6168
+		Time:	27.06.2025 10:57:42 until 27.06.2025 13:37:42
+		Duration:	02:40:00
+		Location:	46.52616 12.03690
+
+	LULE1LS1
+		Images:	1072
+		Time:	27.06.2025 10:40:55 until 27.06.2025 13:41:21
+		Duration:	03:00:26
+		Location:	46.52616 12.03690
+
+	LULE1LS2
+		Images:	1118
+		Time:	27.06.2025 10:31:47 until 27.06.2025 13:42:18
+		Duration:	03:10:31
+		Location:	46.52616 12.03690
+
+(4) - 26.0 km 5 Torri
+	FRN1
+		Images:	13698
+		Time:	27.06.2025 10:08:09 until 27.06.2025 15:26:08
+		Duration:	05:17:59
+		Location:	46.50381 12.04301
+
+	FRN1LS2
+		Images:	2293
+		Time:	27.06.2025 10:08:14 until 27.06.2025 15:32:32
+		Duration:	05:24:18
+		Location:	46.50381 12.04301
+
+	FRN1LS1
+		Images:	2915
+		Time:	27.06.2025 10:17:33 until 27.06.2025 17:37:53
+		Duration:	07:20:20
+		Location:	46.50381 12.04301
+
+(5) - Impressions / Pano
+	FRN1DRONE1
+		Images:	15
+		Time:	27.06.2025 11:48:01 until 27.06.2025 11:54:04
+		Duration:	00:06:03
+		Location:	46.50381 12.04300
+
+(6) - 27.0 km 5 Torri
+	AGU1
+		Images:	4642
+		Time:	27.06.2025 10:28:44 until 27.06.2025 15:32:52
+		Duration:	05:04:08
+		Location:	46.50381 12.04301
+
+	AGU1LS1
+		Images:	2813
+		Time:	27.06.2025 10:15:28 until 27.06.2025 15:34:01
+		Duration:	05:18:33
+		Location:	46.50381 12.04301
+
+	AGU1LS2
+		Images:	2806
+		Time:	27.06.2025 10:14:35 until 27.06.2025 15:28:31
+		Duration:	05:13:56
+		Location:	46.50381 12.04301
+
+(7) - 30.0 km Passo Giau
+	MAGA1
+		Images:	2823
+		Time:	27.06.2025 11:15:11 until 27.06.2025 16:08:14
+		Duration:	04:53:03
+		Location:	46.48921 12.04834
+
+	MAGA1LS2
+		Images:	7328
+		Time:	27.06.2025 10:43:48 until 27.06.2025 16:10:04
+		Duration:	05:26:16
+		Location:	46.48921 12.04834
+
+	MAGA1LS1
+		Images:	2158
+		Time:	27.06.2025 11:01:11 until 27.06.2025 16:10:20
+		Duration:	05:09:09
+		Location:	46.48921 12.04834
+
+(8) - 35.0 km Forcella Col Piombin
+	BRN1
+		Images:	6556
+		Time:	27.06.2025 11:10:50 until 27.06.2025 16:27:54
+		Duration:	05:17:04
+		Location:	46.47655 12.06218
+
+	BRN1LS2
+		Images:	1858
+		Time:	27.06.2025 10:34:12 until 27.06.2025 16:32:06
+		Duration:	05:57:54
+		Location:	46.47655 12.06218
+
+	BRN1LS1
+		Images:	2255
+		Time:	27.06.2025 10:41:05 until 27.06.2025 16:32:51
+		Duration:	05:51:46
+		Location:	46.47655 12.06218
+
+(9) - 37.0 km Forcella Ambrizzola
+	RAM1
+		Images:	9890
+		Time:	27.06.2025 10:54:38 until 27.06.2025 17:55:43
+		Duration:	07:01:05
+		Location:	46.46880 12.10761
+
+	RAM1LS2
+		Images:	2402
+		Time:	27.06.2025 09:30:54 until 27.06.2025 17:53:50
+		Duration:	08:22:56
+		Location:	46.46880 12.10761
+
+	RAM1LS1
+		Images:	2157
+		Time:	27.06.2025 09:40:49 until 27.06.2025 17:49:53
+		Duration:	08:09:04
+		Location:	46.46880 12.10761
+
+(10) - 38.0 km Croda da Lago
+	NBE1
+		Images:	6691
+		Time:	27.06.2025 11:05:59 until 27.06.2025 18:13:09
+		Duration:	07:07:10
+		Location:	46.48164 12.10456
+
+(11) - 39.0 km Croda da Lago
+	GIBE1
+		Images:	8454
+		Time:	27.06.2025 09:09:56 until 27.06.2025 18:14:41
+		Duration:	09:04:45
+		Location:	46.48803 12.10566
+
+(12) - Finish
+	BEB2
+		Images:	5184
+		Time:	27.06.2025 08:13:18 until 27.06.2025 20:32:39
+		Duration:	12:19:21
+		Location:	46.53735 12.13698
+
+	MDS2
+		Images:	4317
+		Time:	27.06.2025 07:23:00 until 27.06.2025 19:39:26
+		Duration:	12:16:26
+		Location:	46.53735 12.13698
+
+	MDS2LS2
+		Images:	1486
+		Time:	27.06.2025 11:14:31 until 27.06.2025 19:42:05
+		Duration:	08:27:34
+		Location:	46.53735 12.13698
+
+	MDS2LS1
+		Images:	1359
+		Time:	27.06.2025 11:19:05 until 27.06.2025 19:39:29
+		Duration:	08:20:24
+		Location:	46.53735 12.13698
+
+	GIBE2
+		Images:	9460
+		Time:	28.06.2025 10:49:32 until 28.06.2025 20:29:17
+		Duration:	09:39:45
+		Location:	46.53735 12.13698
+
+	MMO2
+		Images:	7862
+		Time:	28.06.2025 16:52:55 until 28.06.2025 20:33:33
+		Duration:	03:40:38
+		Location:	46.53735 12.13698
+
+	AGU3LS2
+		Images:	1098
+		Time:	28.06.2025 20:06:38 until 29.06.2025 01:09:33
+		Duration:	05:02:55
+		Location:	46.53735 12.13698
+
+	AGU3LS1
+		Images:	1102
+		Time:	28.06.2025 20:12:58 until 29.06.2025 01:10:13
+		Duration:	04:57:15
+		Location:	46.53735 12.13698
+
+	AGU3
+		Images:	2458
+		Time:	28.06.2025 22:00:03 until 29.06.2025 01:17:45
+		Duration:	03:17:42
+		Location:	46.53735 12.13698
+
+	FRN4
+		Images:	829
+		Time:	28.06.2025 20:33:15 until 28.06.2025 21:51:43
+		Duration:	01:18:28
+		Location:	46.53735 12.13698
+
+	FRN3LS1
+		Images:	2992
+		Time:	28.06.2025 03:39:32 until 28.06.2025 10:44:08
+		Duration:	07:04:36
+		Location:	46.53735 12.13698
+
+	FRN4LS1
+		Images:	1993
+		Time:	28.06.2025 20:09:47 until 29.06.2025 01:17:38
+		Duration:	05:07:51
+		Location:	46.53735 12.13698
+
+	RAM3
+		Images:	2910
+		Time:	29.06.2025 01:36:32 until 29.06.2025 05:16:00
+		Duration:	03:39:28
+		Location:	46.53735 12.13698
+
+	RAM3LS1
+		Images:	713
+		Time:	28.06.2025 12:32:56 until 29.06.2025 05:05:15
+		Duration:	16:32:19
+		Location:	46.53735 12.13698
+
+	RAM3LS2
+		Images:	495
+		Time:	29.06.2025 01:35:12 until 29.06.2025 05:16:57
+		Duration:	03:41:45
+		Location:	46.53735 12.13698
+
+	NBE3
+		Images:	643
+		Time:	29.06.2025 01:16:37 until 29.06.2025 05:15:53
+		Duration:	03:59:16
+		Location:	46.53735 12.13698
+
+(13) - 31.0 km Passo Giau
+	MMO1
+		Images:	10211
+		Time:	27.06.2025 10:34:00 until 27.06.2025 16:26:13
+		Duration:	05:52:13
+		Location:	46.47976 12.05961
+
+(14) - Start 120k
+	GAZ2
+		Images:	629
+		Time:	27.06.2025 22:43:18 until 27.06.2025 23:13:55
+		Duration:	00:30:37
+		Location:	46.53735 12.13698
+
+	LULE2
+		Images:	2931
+		Time:	27.06.2025 22:43:22 until 27.06.2025 23:14:26
+		Duration:	00:31:04
+		Location:	46.53735 12.13698
+
+(15) - 3 Cime di Lavaredo
+	MDS3
+		Images:	5313
+		Time:	28.06.2025 03:58:06 until 28.06.2025 10:54:43
+		Duration:	06:56:37
+		Location:	46.62690 12.31212
+
+	MDS3LS2
+		Images:	3747
+		Time:	28.06.2025 03:18:38 until 28.06.2025 10:49:09
+		Duration:	07:30:31
+		Location:	46.62690 12.31212
+
+	MDS3LS1
+		Images:	3777
+		Time:	28.06.2025 03:18:36 until 28.06.2025 10:49:17
+		Duration:	07:30:41
+		Location:	46.62690 12.31212
+
+	AGU2
+		Images:	4212
+		Time:	28.06.2025 03:38:06 until 28.06.2025 21:06:12
+		Duration:	17:28:06
+		Location:	46.62690 12.31212
+
+	AGU2LS2
+		Images:	3583
+		Time:	28.06.2025 04:53:17 until 28.06.2025 10:39:19
+		Duration:	05:46:02
+		Location:	46.62690 12.31212
+
+	AGU2LS1
+		Images:	3583
+		Time:	28.06.2025 04:53:17 until 28.06.2025 10:39:19
+		Duration:	05:46:02
+		Location:	46.62690 12.31212
+
+	FRN3
+		Images:	2134
+		Time:	28.06.2025 05:38:59 until 28.06.2025 08:55:42
+		Duration:	03:16:43
+		Location:	46.62690 12.31212
+
+	FRN3DRONE1
+		Images:	37
+		Time:	28.06.2025 05:20:31 until 28.06.2025 09:55:47
+		Duration:	04:35:16
+		Location:	46.62690 12.31212
+
+	FRN3LS2
+		Images:	2930
+		Time:	28.06.2025 05:08:53 until 28.06.2025 10:50:16
+		Duration:	05:41:23
+		Location:	46.62690 12.31212
+
+	FRN2LS1
+		Images:	2992
+		Time:	28.06.2025 03:39:32 until 28.06.2025 10:44:08
+		Duration:	07:04:36
+		Location:	46.62690 12.31212
+
+(16) - Forcella Col dei Bos
+	BRN2LS2
+		Images:	4677
+		Time:	28.06.2025 09:22:50 until 28.06.2025 20:00:03
+		Duration:	10:37:13
+		Location:	46.53352 12.03589
+
+	BRN2LS1
+		Images:	2607
+		Time:	28.06.2025 09:47:49 until 28.06.2025 20:05:50
+		Duration:	10:18:01
+		Location:	46.53352 12.03589
+
+	BRN2
+		Images:	9967
+		Time:	28.06.2025 08:07:22 until 28.06.2025 20:01:33
+		Duration:	11:54:11
+		Location:	46.53352 12.03589
+
+(17) - 5 Torri
+	MAGA2
+		Images:	3720
+		Time:	28.06.2025 09:33:50 until 28.06.2025 20:55:20
+		Duration:	11:21:30
+		Location:	46.50381 12.04301
+
+	MAGA2LS2
+		Images:	3002
+		Time:	28.06.2025 10:41:12 until 28.06.2025 20:51:08
+		Duration:	10:09:56
+		Location:	46.50381 12.04301
+
+	MAGA2LS1
+		Images:	3587
+		Time:	28.06.2025 09:57:16 until 28.06.2025 20:42:31
+		Duration:	10:45:15
+		Location:	46.50381 12.04301
+
+	BEB3
+		Images:	5147
+		Time:	28.06.2025 09:37:26 until 28.06.2025 20:35:01
+		Duration:	10:57:35
+		Location:	46.50381 12.04301
+
+(18) - 0.0 km
+	RAM2
+		Images:	379
+		Time:	28.06.2025 15:28:52 until 28.06.2025 15:55:00
+		Duration:	00:26:08
+		Location:	46.47976 12.05961
+
+(19) - Passo Giau
+	RAM2DRONE1
+		Images:	25
+		Time:	29.06.2025 12:15:56 until 29.06.2025 12:30:18
+		Duration:	00:14:22
+		Location:	46.47976 12.05961
+
+	RAM2LS2
+		Images:	1152
+		Time:	28.06.2025 09:28:17 until 29.06.2025 01:33:44
+		Duration:	16:05:27
+		Location:	46.47976 12.05961
+
+	RAM2LS1
+		Images:	1141
+		Time:	28.06.2025 09:28:16 until 29.06.2025 01:34:10
+		Duration:	16:05:54
+		Location:	46.47976 12.05961
+
+	NBE2
+		Images:	2319
+		Time:	28.06.2025 09:16:03 until 28.06.2025 15:55:30
+		Duration:	06:39:27
+		Location:	46.47976 12.05961
+
+(20) - Forcella Ambrizzola
+	GAZ3
+		Images:	4384
+		Time:	28.06.2025 10:54:24 until 28.06.2025 19:53:39
+		Duration:	08:59:15
+		Location:	46.46880 12.10761
+
+(21) - Croda da Lago
+	GAZ3LS1
+		Images:	474
+		Time:	28.06.2025 12:14:09 until 28.06.2025 20:42:42
+		Duration:	08:28:33
+		Location:	46.46880 12.10761
+
+	LULE3
+		Images:	8252
+		Time:	28.06.2025 11:44:54 until 28.06.2025 18:54:49
+		Duration:	07:09:55
+		Location:	46.48164 12.10456
+
+	LULE3LS1
+		Images:	819
+		Time:	28.06.2025 14:51:58 until 28.06.2025 22:50:24
+		Duration:	07:58:26
+		Location:	46.48164 12.10456
+

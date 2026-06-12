@@ -1,0 +1,224 @@
+EventId: 13694
+Spots: 33
+Total Images: 257633
+Time:	16.06.2025 12:18:18 to 06.07.2025 16:54:30
+Duration: 20.04:36:12
+
+(1) - Start
+	GMA1
+		Images:	860
+		Time:	06.07.2025 06:16:28 until 06.07.2025 07:01:55
+		Duration:	00:45:27
+		Location:	46.57873 11.89773
+
+	RAM1
+		Images:	1842
+		Time:	06.07.2025 06:16:25 until 06.07.2025 07:02:06
+		Duration:	00:45:41
+		Location:	46.57873 11.89773
+
+	MMO1
+		Images:	10037
+		Time:	05.07.2025 22:42:03 until 06.07.2025 07:01:42
+		Duration:	08:19:39
+		Location:	46.57873 11.89773
+
+(2) - 5.0 km Campolongo
+	FUP1
+		Images:	1803
+		Time:	06.07.2025 06:41:52 until 06.07.2025 08:02:17
+		Duration:	01:20:25
+		Location:	46.54111 11.88362
+
+(3) - 5.3 km Campolongo
+	MIPA1
+		Images:	2673
+		Time:	06.07.2025 06:03:58 until 06.07.2025 07:31:40
+		Duration:	01:27:42
+		Location:	46.54111 11.88362
+
+(4) - 5.5 km Campolongo
+	GAZ1
+		Images:	2943
+		Time:	06.07.2025 06:35:25 until 06.07.2025 07:57:34
+		Duration:	01:22:09
+		Location:	46.54111 11.88362
+
+(5) - 30.0 km Passo Sella
+	MDV1
+		Images:	4585
+		Time:	05.07.2025 20:23:54 until 06.07.2025 10:41:39
+		Duration:	14:17:45
+		Location:	46.50860 11.76283
+
+(6) - 31.0 km Passo Sella
+	DEC1
+		Images:	11874
+		Time:	06.07.2025 07:33:47 until 06.07.2025 10:36:47
+		Duration:	03:03:00
+		Location:	46.50860 11.76283
+
+(7) - Passo Sella
+	DEC1DRONE1
+		Images:	16
+		Time:	06.07.2025 06:51:10 until 06.07.2025 16:25:51
+		Duration:	09:34:41
+		Location:	46.50860 11.76283
+
+(8) - 33.0 km Passo Sella
+	GIBE1
+		Images:	19639
+		Time:	06.07.2025 07:00:24 until 06.07.2025 10:43:04
+		Duration:	03:42:40
+		Location:	46.50937 11.76077
+
+(9) - 35.0 km Passo Sella
+	MCO1
+		Images:	19093
+		Time:	06.07.2025 07:19:44 until 06.07.2025 10:45:02
+		Duration:	03:25:18
+		Location:	46.51170 11.76205
+
+(10) - 42.0 km Passo Gardena
+	FUP2
+		Images:	5994
+		Time:	06.07.2025 08:02:17 until 06.07.2025 11:21:56
+		Duration:	03:19:39
+		Location:	46.54715 11.80572
+
+(11) - 43.0 km Passo Gardena
+	GAZ2
+		Images:	5550
+		Time:	06.07.2025 08:36:23 until 06.07.2025 11:25:59
+		Duration:	02:49:36
+		Location:	46.54918 11.80530
+
+	GAZ2LS1
+		Images:	1496
+		Time:	06.07.2025 08:18:58 until 06.07.2025 11:35:06
+		Duration:	03:16:08
+		Location:	46.54918 11.80530
+
+	GAZ1LS1
+		Images:	7480
+		Time:	06.07.2025 08:05:05 until 06.07.2025 13:16:00
+		Duration:	05:10:55
+		Location:	46.54918 11.80530
+
+(12) - 44.0 km Passo Gardena
+	MIPA2
+		Images:	5723
+		Time:	06.07.2025 08:01:14 until 06.07.2025 11:49:14
+		Duration:	03:48:00
+		Location:	46.54999 11.80874
+
+(13) - 107.0 km Valparola
+	RAM2
+		Images:	12054
+		Time:	06.07.2025 08:40:37 until 06.07.2025 15:18:34
+		Duration:	06:37:57
+		Location:	46.52421 11.99838
+
+(14) - Valparola
+	RAM2DRONE1
+		Images:	19
+		Time:	16.06.2025 12:18:18 until 16.06.2025 12:29:06
+		Duration:	00:10:48
+		Location:	46.52421 11.99838
+
+	RAM2LS2
+		Images:	7541
+		Time:	06.07.2025 08:17:22 until 06.07.2025 15:20:05
+		Duration:	07:02:43
+		Location:	46.52421 11.99838
+
+	RAM2LS1
+		Images:	7371
+		Time:	06.07.2025 08:11:18 until 06.07.2025 15:22:41
+		Duration:	07:11:23
+		Location:	46.52421 11.99838
+
+(15) - 108.0 km Valparola
+	GMA2
+		Images:	6768
+		Time:	06.07.2025 07:59:02 until 06.07.2025 15:16:50
+		Duration:	07:17:48
+		Location:	46.52530 11.99719
+
+(16) - 109.0 km Valparola
+	NBE1
+		Images:	8446
+		Time:	06.07.2025 08:42:40 until 06.07.2025 16:54:30
+		Duration:	08:11:50
+		Location:	46.53165 11.98902
+
+(17) - 111.0 km Valparola
+	MAGA1
+		Images:	7095
+		Time:	06.07.2025 09:25:00 until 06.07.2025 15:36:58
+		Duration:	06:11:58
+		Location:	46.53389 11.98957
+
+	MAGA1LS1
+		Images:	10599
+		Time:	06.07.2025 09:23:35 until 06.07.2025 15:39:15
+		Duration:	06:15:40
+		Location:	46.53389 11.98957
+
+(18) - 115.0 km Valparola
+	MMO2
+		Images:	17143
+		Time:	06.07.2025 07:37:10 until 06.07.2025 16:10:09
+		Duration:	08:32:59
+		Location:	46.54875 11.96692
+
+(19) - 125.0 km Mur di Giant
+	DARU1
+		Images:	12479
+		Time:	06.07.2025 09:42:16 until 06.07.2025 16:39:33
+		Duration:	06:57:17
+		Location:	46.58339 11.89928
+
+	DARU1LS1
+		Images:	10227
+		Time:	06.07.2025 09:14:21 until 06.07.2025 15:14:55
+		Duration:	06:00:34
+		Location:	46.58339 11.89928
+
+(20) - Finish
+	TTO1
+		Images:	9458
+		Time:	06.07.2025 08:15:18 until 06.07.2025 16:46:24
+		Duration:	08:31:06
+		Location:	46.55032 11.87102
+
+	RLO1
+		Images:	10230
+		Time:	05.07.2025 20:29:02 until 06.07.2025 16:45:10
+		Duration:	20:16:08
+		Location:	46.55032 11.87102
+
+	RIM1
+		Images:	28163
+		Time:	06.07.2025 07:48:03 until 06.07.2025 13:59:56
+		Duration:	06:11:53
+		Location:	46.55032 11.87102
+
+	MDV2
+		Images:	2213
+		Time:	06.07.2025 13:22:06 until 06.07.2025 16:30:37
+		Duration:	03:08:31
+		Location:	46.55032 11.87102
+
+	MCO2
+		Images:	3948
+		Time:	06.07.2025 13:19:11 until 06.07.2025 16:11:02
+		Duration:	02:51:51
+		Location:	46.55032 11.87102
+
+	DEC2
+		Images:	2271
+		Time:	06.07.2025 13:19:11 until 06.07.2025 14:03:05
+		Duration:	00:43:54
+		Location:	46.55032 11.87102
+

@@ -1,0 +1,142 @@
+EventId: 14728
+Spots: 20
+Total Images: 122918
+Time:	16.08.2025 22:32:43 to 17.08.2025 16:34:27
+Duration: 18:01:44
+
+(1) - Obstacle 4 Monkey Bars
+	MIGO1
+		Images:	7467
+		Time:	17.08.2025 07:38:37 until 17.08.2025 14:56:34
+		Duration:	07:17:57
+		Location:	21.56939 -158.16838
+
+	DNAG1
+		Images:	7197
+		Time:	17.08.2025 07:46:13 until 17.08.2025 14:56:37
+		Duration:	07:10:24
+		Location:	21.56939 -158.16838
+
+(2) - Obstacle 7 Bucket Carry
+	HOG1
+		Images:	11865
+		Time:	17.08.2025 07:25:01 until 17.08.2025 15:19:13
+		Duration:	07:54:12
+		Location:	21.57093 -158.16661
+
+(3) - Obstacle 10 Mi;to Rir
+	NIMA1
+		Images:	3888
+		Time:	17.08.2025 07:36:19 until 17.08.2025 15:33:11
+		Duration:	07:56:52
+		Location:	21.56892 -158.16735
+
+(4) - Obstacle 10 Multi Rig
+	TERT1
+		Images:	2486
+		Time:	16.08.2025 22:32:43 until 17.08.2025 15:33:04
+		Duration:	17:00:21
+		Location:	21.56892 -158.16735
+
+(5) - Obstacle 14 Twister
+	JWI1
+		Images:	4301
+		Time:	17.08.2025 05:06:10 until 17.08.2025 13:33:06
+		Duration:	08:26:56
+		Location:	21.56505 -158.16708
+
+(6) - Obstacle 24 Atlas Carry
+	CHR1
+		Images:	3930
+		Time:	17.08.2025 08:22:13 until 17.08.2025 15:40:36
+		Duration:	07:18:23
+		Location:	21.56835 -158.16792
+
+	CHR1LS2
+		Images:	884
+		Time:	17.08.2025 13:10:43 until 17.08.2025 15:23:23
+		Duration:	02:12:40
+		Location:	21.56835 -158.16792
+
+	COR1LS2
+		Images:	1002
+		Time:	17.08.2025 13:00:35 until 17.08.2025 15:25:45
+		Duration:	02:25:10
+		Location:	21.56835 -158.16792
+
+(7) - Obstacle 24 Atlas Carry LS
+	CHR1LS1
+		Images:	2057
+		Time:	17.08.2025 08:04:14 until 17.08.2025 12:56:46
+		Duration:	04:52:32
+		Location:	21.56835 -158.16792
+
+	COR1LS1
+		Images:	415
+		Time:	17.08.2025 08:34:25 until 17.08.2025 11:32:06
+		Duration:	02:57:41
+		Location:	21.56835 -158.16792
+
+(8) - Obstacle 24 Atas Carry
+	COR1
+		Images:	4529
+		Time:	17.08.2025 08:17:57 until 17.08.2025 15:41:41
+		Duration:	07:23:44
+		Location:	21.56835 -158.16792
+
+(9) - Obstacle 9 A-Frame
+	DDC1
+		Images:	12403
+		Time:	17.08.2025 07:53:34 until 17.08.2025 15:27:46
+		Duration:	07:34:12
+		Location:	21.56948 -158.16710
+
+(10) - Obstacle 25 Inverted Wall
+	MCKR1
+		Images:	6784
+		Time:	17.08.2025 07:13:26 until 17.08.2025 15:09:48
+		Duration:	07:56:22
+		Location:	21.56826 -158.16839
+
+(11) - Obstacle 26 Sandbag Carry
+	DAKK1
+		Images:	12058
+		Time:	17.08.2025 09:02:19 until 17.08.2025 15:58:39
+		Duration:	06:56:20
+		Location:	21.56755 -158.16892
+
+(12) - Obstacle 29 Slip Wall
+	EALC1
+		Images:	10798
+		Time:	17.08.2025 08:23:45 until 17.08.2025 16:18:17
+		Duration:	07:54:32
+		Location:	21.57033 -158.17381
+
+(13) - Obstacle 30 Barbed Wire 2
+	EMIL1
+		Images:	8082
+		Time:	17.08.2025 08:25:06 until 17.08.2025 16:22:23
+		Duration:	07:57:17
+		Location:	21.57055 -158.17413
+
+(14) - Obstacle 33 Fire Jump
+	BSY1
+		Images:	17214
+		Time:	17.08.2025 07:55:59 until 17.08.2025 16:32:09
+		Duration:	08:36:10
+		Location:	21.56887 -158.16646
+
+(15) - Herotent
+	CIFU1
+		Images:	5430
+		Time:	17.08.2025 08:14:28 until 17.08.2025 16:34:27
+		Duration:	08:19:59
+		Location:	21.57140 -158.17340
+
+(16) - Obstacle 34 Impressions
+	JOFU1
+		Images:	128
+		Time:	17.08.2025 10:18:32 until 17.08.2025 11:04:23
+		Duration:	00:45:51
+		Location:	21.56888 -158.16644
+

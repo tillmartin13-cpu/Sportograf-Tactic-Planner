@@ -1,0 +1,268 @@
+EventId: 13955
+Spots: 40
+Total Images: 54254
+Time:	06.09.2025 07:26:16 to 12.09.2025 17:17:26
+Duration: 6.09:51:10
+
+(1) - S1, Start
+	S1COR1
+		Images:	238
+		Time:	06.09.2025 07:26:16 until 06.09.2025 08:05:14
+		Duration:	00:38:58
+		Location:	47.20709 10.13827
+
+	S1MHO3
+		Images:	78
+		Time:	06.09.2025 07:31:46 until 06.09.2025 07:53:22
+		Duration:	00:21:36
+		Location:	47.20709 10.13827
+
+(2) - S1, First Km Impressions
+	S1COR2
+		Images:	105
+		Time:	06.09.2025 08:19:51 until 06.09.2025 08:53:29
+		Duration:	00:33:38
+		Location:	47.20709 10.13827
+
+(3) - 8.5 km S1, Ravensberger Hütte
+	S1COR3
+		Images:	1633
+		Time:	06.09.2025 09:03:01 until 06.09.2025 09:46:22
+		Duration:	00:43:21
+		Location:	47.16834 10.09252
+
+(4) - 21.0 km S1, Freiburger Hütte
+	S1MHO2
+		Images:	4098
+		Time:	06.09.2025 07:31:46 until 06.09.2025 13:04:08
+		Duration:	05:32:22
+		Location:	47.16299 9.98874
+
+	S1MHO2LS1
+		Images:	1057
+		Time:	06.09.2025 09:19:14 until 06.09.2025 12:45:24
+		Duration:	03:26:10
+		Location:	47.16299 9.98874
+
+(5) - 14.0 km S2, Mondspitze
+	S2MHO1
+		Images:	3212
+		Time:	07.09.2025 09:46:28 until 07.09.2025 12:28:13
+		Duration:	02:41:45
+		Location:	47.15262 9.72477
+
+	S2MHO1LS1
+		Images:	1382
+		Time:	07.09.2025 09:36:01 until 07.09.2025 12:31:32
+		Duration:	02:55:31
+		Location:	47.15262 9.72477
+
+(6) - 26.0 km S2, Glattjochbahn
+	S2COR1
+		Images:	2999
+		Time:	07.09.2025 10:58:52 until 07.09.2025 15:14:46
+		Duration:	04:15:54
+		Location:	47.11004 9.69437
+
+	S2COR1LS1
+		Images:	215
+		Time:	07.09.2025 10:21:35 until 07.09.2025 12:01:23
+		Duration:	01:39:48
+		Location:	47.11004 9.69437
+
+(7) - 8.0 km S3, Lünersee Uphill
+	S3MHO1
+		Images:	1744
+		Time:	08.09.2025 06:56:50 until 08.09.2025 08:04:40
+		Duration:	01:07:50
+		Location:	47.06140 9.75005
+
+	S3MHO1LS1
+		Images:	700
+		Time:	08.09.2025 06:42:09 until 08.09.2025 08:05:38
+		Duration:	01:23:29
+		Location:	47.06140 9.75005
+
+(8) - 8.5 km S3, Lünersee
+	S3COR1
+		Images:	1171
+		Time:	08.09.2025 07:16:31 until 08.09.2025 08:19:39
+		Duration:	01:03:08
+		Location:	47.05794 9.74846
+
+	S3COR1LS1
+		Images:	447
+		Time:	08.09.2025 07:02:17 until 08.09.2025 08:04:28
+		Duration:	01:02:11
+		Location:	47.05794 9.74846
+
+(9) - 40.0 km S3, Madrisa
+	S3EP1
+		Images:	3234
+		Time:	08.09.2025 11:28:52 until 08.09.2025 15:53:55
+		Duration:	04:25:03
+		Location:	46.91355 9.86022
+
+	S3EP1LS1
+		Images:	564
+		Time:	08.09.2025 11:34:39 until 08.09.2025 15:42:12
+		Duration:	04:07:33
+		Location:	46.91355 9.86022
+
+(10) - 3.5 km S4
+	S4COR1
+		Images:	710
+		Time:	09.09.2025 09:44:17 until 09.09.2025 10:11:11
+		Duration:	00:26:54
+		Location:	46.87271 9.84801
+
+(11) - 8.4 km S4
+	S4MHO1
+		Images:	1943
+		Time:	09.09.2025 10:18:00 until 09.09.2025 11:45:56
+		Duration:	01:27:56
+		Location:	46.86129 9.83618
+
+(12) - 9.0 km S4
+	S4EP1
+		Images:	2141
+		Time:	09.09.2025 10:08:53 until 09.09.2025 11:54:07
+		Duration:	01:45:14
+		Location:	46.85876 9.84075
+
+(13) - 8.5 km S5, Forest
+	S5MHO1
+		Images:	1892
+		Time:	10.09.2025 09:54:07 until 10.09.2025 12:21:18
+		Duration:	02:27:11
+		Location:	46.72251 10.08311
+
+(14) - 11.5 km S5, Stream
+	S5COR1
+		Images:	1688
+		Time:	10.09.2025 10:11:56 until 10.09.2025 12:44:05
+		Duration:	02:32:09
+		Location:	46.70995 10.10018
+
+	S5COR1LS1
+		Images:	535
+		Time:	10.09.2025 09:57:31 until 10.09.2025 12:34:21
+		Duration:	02:36:50
+		Location:	46.70995 10.10018
+
+(15) - 14.0 km S5
+	S5EP1
+		Images:	1719
+		Time:	10.09.2025 09:54:18 until 10.09.2025 13:10:16
+		Duration:	03:15:58
+		Location:	46.70196 10.09668
+
+	S5EP1LS1
+		Images:	607
+		Time:	10.09.2025 10:24:13 until 10.09.2025 13:12:04
+		Duration:	02:47:51
+		Location:	46.70196 10.09668
+
+(16) - 7.0 km S6
+	S6EP1
+		Images:	2622
+		Time:	11.09.2025 09:11:52 until 11.09.2025 10:21:19
+		Duration:	01:09:27
+		Location:	46.71165 10.15548
+
+	S6EP1LS1
+		Images:	996
+		Time:	11.09.2025 09:06:35 until 11.09.2025 10:16:39
+		Duration:	01:10:04
+		Location:	46.71165 10.15548
+
+(17) - 8.0 km S6, Fuorcla Stragliavita
+	S6MHO1
+		Images:	2367
+		Time:	11.09.2025 09:34:26 until 11.09.2025 11:02:23
+		Duration:	01:27:57
+		Location:	46.71739 10.16017
+
+	S6MHO1LS1
+		Images:	236
+		Time:	11.09.2025 09:31:15 until 11.09.2025 10:57:14
+		Duration:	01:25:59
+		Location:	46.71739 10.16017
+
+(18) - 11.0 km S6
+	S6COR1LS1
+		Images:	263
+		Time:	11.09.2025 09:27:07 until 11.09.2025 11:08:16
+		Duration:	01:41:09
+		Location:	46.73354 10.18877
+
+	S6COR1
+		Images:	1532
+		Time:	11.09.2025 08:43:02 until 11.09.2025 11:57:54
+		Duration:	03:14:52
+		Location:	46.73354 10.18877
+
+(19) - 17.0 km S7, CH/IT Border
+	S7COR1
+		Images:	2389
+		Time:	12.09.2025 10:35:03 until 12.09.2025 13:14:37
+		Duration:	02:39:34
+		Location:	46.74698 10.41711
+
+	S7COR1LS1
+		Images:	623
+		Time:	12.09.2025 10:56:53 until 12.09.2025 13:16:02
+		Duration:	02:19:09
+		Location:	46.74698 10.41711
+
+(20) - 24.0 km S7
+	S7MHO1
+		Images:	2718
+		Time:	12.09.2025 11:28:58 until 12.09.2025 14:39:49
+		Duration:	03:10:51
+		Location:	46.73192 10.47767
+
+	S7MHO1LS1
+		Images:	880
+		Time:	12.09.2025 11:00:21 until 12.09.2025 14:41:44
+		Duration:	03:41:23
+		Location:	46.73192 10.47767
+
+(21) - Finish
+	S7EP1
+		Images:	2938
+		Time:	12.09.2025 11:19:55 until 12.09.2025 15:16:36
+		Duration:	03:56:41
+		Location:	46.80976 10.53869
+
+	S7EP1LS1
+		Images:	974
+		Time:	12.09.2025 10:30:13 until 12.09.2025 15:11:18
+		Duration:	04:41:05
+		Location:	46.80976 10.53869
+
+	S7COR2
+		Images:	1249
+		Time:	12.09.2025 15:17:39 until 12.09.2025 16:55:56
+		Duration:	01:38:17
+		Location:	46.80976 10.53869
+
+	S7COR2LS1
+		Images:	212
+		Time:	12.09.2025 15:11:21 until 12.09.2025 17:17:26
+		Duration:	02:06:05
+		Location:	46.80976 10.53869
+
+	S7MHO2
+		Images:	88
+		Time:	12.09.2025 15:53:15 until 12.09.2025 16:13:24
+		Duration:	00:20:09
+		Location:	46.80976 10.53869
+
+(22) - Impressions / Pano
+	S7COR1DRONE1
+		Images:	55
+		Time:	06.09.2025 10:05:14 until 11.09.2025 11:04:02
+		Duration:	5.00:58:48
+		Location:	46.80976 10.53869
+

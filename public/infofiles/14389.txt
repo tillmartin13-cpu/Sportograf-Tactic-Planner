@@ -1,0 +1,97 @@
+EventId: 14389
+Spots: 15
+Total Images: 74584
+Time:	19.07.2024 11:01:29 to 20.07.2025 12:14:31
+Duration: 366.01:13:02
+
+(1) - Obstacle 1 Ententeich
+	ADCR1
+		Images:	17882
+		Time:	19.07.2025 09:18:00 until 19.07.2025 15:39:12
+		Duration:	06:21:12
+		Location:	47.52308 14.89213
+
+(2) - Finish
+	ADCR2
+	MSN2
+		Images:	3307
+		Time:	19.07.2025 10:22:36 until 19.07.2025 17:07:12
+		Duration:	06:44:36
+		Location:	47.52571 14.90272
+
+	MSN1LS3
+		Images:	441
+		Time:	19.07.2025 08:24:45 until 19.07.2025 14:44:11
+		Duration:	06:19:26
+		Location:	47.52571 14.90015
+
+	MSN1LS2
+		Images:	505
+		Time:	19.07.2025 10:00:16 until 20.07.2025 11:48:45
+		Duration:	1.01:48:29
+		Location:	47.52571 14.90015
+
+(3) - Obstacle 1 ATS- Wasserleitung
+	ASTU1
+		Images:	7409
+		Time:	19.07.2025 09:27:56 until 20.07.2025 08:44:46
+		Duration:	23:16:50
+		Location:	47.51820 14.89844
+
+(4) - Obstacle 1 (kleine) Gösserrunde
+	DRU1
+		Images:	4018
+		Time:	19.07.2025 08:21:12 until 20.07.2025 12:14:31
+		Duration:	1.03:53:19
+		Location:	47.51172 14.90987
+
+(5) - Obstacle 1 Die Haulys
+	ISM1
+		Images:	3471
+		Time:	19.07.2024 11:01:29 until 20.07.2025 10:25:54
+		Duration:	365.23:24:25
+		Location:	47.52013 14.90338
+
+(6) - Obstacle 1 Flyover
+	LOMA1
+		Images:	20539
+		Time:	19.07.2025 08:46:29 until 19.07.2025 16:46:50
+		Duration:	08:00:21
+		Location:	47.51554 14.90586
+
+(7) - Start
+	MSN1
+		Images:	732
+		Time:	19.07.2025 08:22:49 until 20.07.2025 09:16:07
+		Duration:	1.00:53:18
+		Location:	47.52578 14.90262
+
+	MSN1LS1
+		Images:	91
+		Time:	19.07.2025 08:28:13 until 19.07.2025 09:58:46
+		Duration:	01:30:33
+		Location:	47.52387 14.90507
+
+(8) - Obstacle 1 Haulyreifentunnel
+	KYR1
+		Images:	1217
+		Time:	19.07.2025 08:51:26 until 19.07.2025 10:54:35
+		Duration:	02:03:09
+		Location:	47.51683 14.90513
+
+(9) - Obstacle 1 ATS - Wasserleitung
+	KYR2
+		Images:	5338
+		Time:	19.07.2025 10:54:44 until 19.07.2025 16:08:14
+		Duration:	05:13:30
+		Location:	47.51825 14.89807
+
+(10) - Obstacle 1 Antenne Moonwalk
+	XQ1
+		Images:	9632
+		Time:	19.07.2025 08:54:06 until 19.07.2025 16:41:39
+		Duration:	07:47:33
+		Location:	47.51586 14.90519
+
+(11) - Impressions / Pano
+	PANO1

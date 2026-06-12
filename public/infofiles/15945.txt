@@ -1,0 +1,344 @@
+EventId: 15945
+Spots: 51
+Total Images: 326421
+Time:	01.01.0001 23:00:00 to 27.04.2025 16:07:00
+Duration: 739366.17:07:00
+
+(1) - 0.0 km
+	BTHTO2
+		Images:	4140
+		Time:	27.04.2025 11:53:46 until 27.04.2025 13:05:33
+		Duration:	01:11:47
+		Location:	NULL NULL
+
+(2) - 0.0 km 862090 PreCND Arnold Suliguin
+	ARNOL1
+		Images:	1982
+		Time:	27.04.2025 06:35:13 until 27.04.2025 13:03:38
+		Duration:	06:28:25
+		Location:	NULL NULL
+
+(3) - 0.0 km 862096 FIN Toby
+	TOBY1
+		Images:	35755
+		Time:	27.04.2025 09:20:29 until 27.04.2025 15:00:44
+		Duration:	05:40:15
+		Location:	NULL NULL
+
+(4) - 0.0 km 862117 Josh Hires MSC 6
+	ASIJH1
+		Images:	9782
+		Time:	27.04.2025 07:18:41 until 27.04.2025 12:24:53
+		Duration:	05:06:12
+		Location:	NULL NULL
+
+(5) - 0.0 km 862123 - toby, groups & expo
+	PR1
+		Images:	975
+		Time:	27.03.2025 11:00:46 until 26.04.2025 19:21:44
+		Duration:	30.08:20:58
+		Location:	NULL NULL
+
+(6) - 0.0 km 862124 VIP Reception - Phillip Reyes
+	VIP1
+		Images:	138
+		Time:	25.04.2025 18:32:52 until 25.04.2025 20:15:04
+		Duration:	01:42:12
+		Location:	NULL NULL
+
+(7) - 0.0 km Brad Kroll FIN 2.8
+	ABRAD1
+		Images:	1144
+		Time:	27.04.2025 11:36:47 until 27.04.2025 13:27:56
+		Duration:	01:51:09
+		Location:	NULL NULL
+
+(8) - 0.0 km Deepak PostFIN
+	DEEPA1
+		Images:	925
+		Time:	27.04.2025 07:57:50 until 27.04.2025 13:00:21
+		Duration:	05:02:31
+		Location:	NULL NULL
+
+(9) - 0.0 km FIN 862097 Jason Rimmer
+	JASON1
+		Images:	7255
+		Time:	27.04.2025 07:08:49 until 27.04.2025 13:07:21
+		Duration:	05:58:32
+		Location:	NULL NULL
+
+(10) - 0.0 km Matt Medals
+	MATT1
+		Images:	232
+		Time:	26.04.2025 22:08:04 until 26.04.2025 23:59:43
+		Duration:	01:51:39
+		Location:	NULL NULL
+
+(11) - 0.0 km Matt OFP
+	MATT2
+		Images:	1482
+		Time:	27.04.2025 00:00:03 until 27.04.2025 04:03:45
+		Duration:	04:03:42
+		Location:	NULL NULL
+
+(12) - 0.0 km medals arnold
+	ARNOL2
+		Images:	37
+		Time:	27.04.2025 09:13:40 until 27.04.2025 09:22:11
+		Duration:	00:08:31
+		Location:	NULL NULL
+
+(13) - 0.0 km MSC 2 - 862108 - Trigger
+	BTWTO1
+		Images:	83
+		Time:	27.04.2025 06:44:35 until 27.04.2025 08:00:09
+		Duration:	01:15:34
+		Location:	NULL NULL
+
+(14) - 0.0 km MSC 3 - 000000 - Trigger D300
+	BTHTT1
+		Images:	4460
+		Time:	27.04.2025 10:33:08 until 27.04.2025 13:08:37
+		Duration:	02:35:29
+		Location:	NULL NULL
+
+(15) - 0.0 km MSC 3 - 862103 - Phillip Reyes
+	BTHPR1
+		Images:	6982
+		Time:	27.04.2025 07:42:50 until 27.04.2025 10:12:32
+		Duration:	02:29:42
+		Location:	NULL NULL
+
+(16) - 0.0 km MSC 3 - 862105 - Trigger Lumix
+	BTHTO1
+		Images:	3172
+		Time:	27.04.2025 10:24:14 until 27.04.2025 11:27:11
+		Duration:	01:02:57
+		Location:	NULL NULL
+
+(17) - 0.0 km MSC 5 - 862112 - Hal Ogata
+	BFIHO1
+		Images:	19037
+		Time:	27.04.2025 07:00:37 until 27.04.2025 11:39:57
+		Duration:	04:39:20
+		Location:	NULL NULL
+
+(18) - 0.0 km MSC 5 - 865650 - Trigger
+	BFITO1
+		Images:	10101
+		Time:	27.04.2025 06:31:40 until 27.04.2025 10:57:03
+		Duration:	04:25:23
+		Location:	NULL NULL
+
+(19) - 0.0 km MSC 6 - 862116 - Bilal Salim
+	BSIBS1
+		Images:	5768
+		Time:	27.04.2025 07:52:18 until 27.04.2025 12:28:02
+		Duration:	04:35:44
+		Location:	NULL NULL
+
+(20) - 0.0 km MSC 6 - 862130 - Trigger
+	BSITO1
+		Images:	5078
+		Time:	31.12.2006 18:00:01 until 31.12.2006 19:24:40
+		Duration:	01:24:39
+		Location:	NULL NULL
+
+(21) - 0.0 km MSC2 - 862106 - Reg Regalado
+	ATWRR1
+		Images:	1139
+		Time:	27.04.2025 07:06:30 until 27.04.2025 10:26:04
+		Duration:	03:19:34
+		Location:	NULL NULL
+
+(22) - 0.0 km MSC3 - 862104 - Elainne Reyes
+	ATHER1
+		Images:	7842
+		Time:	27.04.2025 07:08:13 until 27.04.2025 10:14:09
+		Duration:	03:05:56
+		Location:	NULL NULL
+
+(23) - 0.0 km MSC6 - 862129 - Reg Regalado
+	ASIRR1
+		Images:	874
+		Time:	27.04.2025 10:28:08 until 27.04.2025 12:24:48
+		Duration:	01:56:40
+		Location:	NULL NULL
+
+(24) - 0.0 km MSC6 - 862130 - Trigger
+	ASITR1
+		Images:	5078
+		Time:	31.12.2006 18:00:01 until 31.12.2006 19:24:40
+		Duration:	01:24:39
+		Location:	NULL NULL
+
+(25) - 0.0 km OFP Lauren
+	LAURE1
+		Images:	1008
+		Time:	26.04.2025 12:49:58 until 26.04.2025 23:56:38
+		Duration:	11:06:40
+		Location:	NULL NULL
+
+(26) - 0.0 km PreCND LaShonda
+	LASHO1
+		Images:	1463
+		Time:	27.04.2025 06:48:40 until 27.04.2025 13:14:20
+		Duration:	06:25:40
+		Location:	NULL NULL
+
+(27) - 0.0 km PreFIN Auto Left
+	AAUTO3
+		Images:	9406
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(28) - 0.0 km PreFIN Auto Right
+	AAUTO4
+		Images:	14499
+		Time:	27.04.2025 09:55:18 until 27.04.2025 16:07:00
+		Duration:	06:11:42
+		Location:	NULL NULL
+
+(29) - 0.0 km PreFIN Emi Ito
+	EMI1
+		Images:	5823
+		Time:	27.04.2025 07:32:28 until 27.04.2025 11:06:20
+		Duration:	03:33:52
+		Location:	NULL NULL
+
+(30) - 0.0 km PreFIN-Chris S
+	CHRIS1
+		Images:	12915
+		Time:	27.04.2025 07:16:41 until 27.04.2025 13:02:35
+		Duration:	05:45:54
+		Location:	NULL NULL
+
+(31) - 0.0 km PreFIN-Desmond Tan
+	DTAN1
+		Images:	8574
+		Time:	27.04.2025 08:00:15 until 27.04.2025 10:58:01
+		Duration:	02:57:46
+		Location:	NULL NULL
+
+(32) - 0.0 km PreFinish - 862120 - Emi Ito
+	APFEI1
+		Images:	7362
+		Time:	27.04.2025 09:45:56 until 27.04.2025 13:10:37
+		Duration:	03:24:41
+		Location:	NULL NULL
+
+(33) - 0.0 km Short Trigger Upshot
+	AAUTO1
+		Images:	13169
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(34) - 0.0 km Start
+	DTAN2
+		Images:	143
+		Time:	27.04.2025 07:22:08 until 27.04.2025 07:55:33
+		Duration:	00:33:25
+		Location:	NULL NULL
+
+(35) - 0.0 km trigger finish left
+	AAUTO2
+		Images:	18702
+		Time:	27.04.2025 09:16:30 until 27.04.2025 15:22:08
+		Duration:	06:05:38
+		Location:	NULL NULL
+
+(36) - Impressions / Pano
+	PANO1
+(37) - none
+	AAUTO5
+		Images:	13327
+		Time:	27.04.2025 10:18:41 until 27.04.2025 16:03:14
+		Duration:	05:44:33
+		Location:	NULL NULL
+
+	BFIEP1
+		Images:	3515
+		Time:	27.04.2025 11:37:36 until 27.04.2025 12:46:50
+		Duration:	01:09:14
+		Location:	NULL NULL
+
+	BFIHO2
+		Images:	3348
+		Time:	27.04.2025 11:41:13 until 27.04.2025 12:37:49
+		Duration:	00:56:36
+		Location:	NULL NULL
+
+	BFIJH1
+		Images:	2027
+		Time:	27.04.2025 10:32:38 until 27.04.2025 11:41:40
+		Duration:	01:09:02
+		Location:	NULL NULL
+
+	BFIJH2
+		Images:	5605
+		Time:	27.04.2025 06:27:18 until 27.04.2025 08:56:36
+		Duration:	02:29:18
+		Location:	NULL NULL
+
+	BFOCE1
+		Images:	9803
+		Time:	27.04.2025 07:36:16 until 27.04.2025 09:53:51
+		Duration:	02:17:35
+		Location:	NULL NULL
+
+	BFOCE2
+		Images:	6935
+		Time:	27.04.2025 09:56:13 until 27.04.2025 11:23:35
+		Duration:	01:27:22
+		Location:	NULL NULL
+
+	BFOCS1
+		Images:	10786
+		Time:	27.04.2025 06:39:01 until 27.04.2025 11:28:21
+		Duration:	04:49:20
+		Location:	NULL NULL
+
+	BFOLG1
+		Images:	839
+		Time:	27.04.2025 09:57:22 until 27.04.2025 10:44:01
+		Duration:	00:46:39
+		Location:	NULL NULL
+
+	BFOLG2
+		Images:	10539
+		Time:	27.04.2025 08:39:42 until 27.04.2025 09:51:48
+		Duration:	01:12:06
+		Location:	NULL NULL
+
+	BFOLG3
+		Images:	10864
+		Time:	27.04.2025 05:13:50 until 27.04.2025 08:38:55
+		Duration:	03:25:05
+		Location:	NULL NULL
+
+	BMDER1
+		Images:	2064
+		Time:	27.04.2025 07:10:52 until 27.04.2025 13:11:35
+		Duration:	06:00:43
+		Location:	NULL NULL
+
+	BONEP1
+		Images:	12739
+		Time:	27.04.2025 08:35:10 until 27.04.2025 10:26:56
+		Duration:	01:51:46
+		Location:	NULL NULL
+
+	BPFDT1
+		Images:	6709
+		Time:	27.04.2025 10:58:41 until 27.04.2025 13:03:29
+		Duration:	02:04:48
+		Location:	NULL NULL
+
+	BPRSS1
+		Images:	796
+		Time:	27.04.2025 14:23:08 until 27.04.2025 15:05:22
+		Duration:	00:42:14
+		Location:	NULL NULL
+

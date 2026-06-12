@@ -1,0 +1,60 @@
+EventId: 13673
+Spots: 9
+Total Images: 15810
+Time:	30.08.2025 09:55:40 to 30.08.2025 15:31:35
+Duration: 05:35:55
+
+(1) - Start
+	NH1
+		Images:	1197
+		Time:	30.08.2025 10:08:53 until 30.08.2025 13:05:47
+		Duration:	02:56:54
+		Location:	51.47256 13.00971
+
+(2) - 29,8 km
+	GUD1
+		Images:	3212
+		Time:	30.08.2025 09:55:40 until 30.08.2025 15:19:53
+		Duration:	05:24:13
+		Location:	51.46004 13.02892
+
+	GUD1LS1
+		Images:	1035
+		Time:	30.08.2025 10:55:46 until 30.08.2025 15:20:12
+		Duration:	04:24:26
+		Location:	51.46004 13.02892
+
+	GUD1LS2
+		Images:	1025
+		Time:	30.08.2025 10:55:45 until 30.08.2025 15:20:11
+		Duration:	04:24:26
+		Location:	51.46004 13.02892
+
+(3) - 31,0 km
+	TIM1
+		Images:	4899
+		Time:	30.08.2025 10:28:40 until 30.08.2025 15:31:23
+		Duration:	05:02:43
+		Location:	51.46706 13.01671
+
+	TIM1LS1
+		Images:	1427
+		Time:	30.08.2025 10:02:30 until 30.08.2025 15:24:22
+		Duration:	05:21:52
+		Location:	51.46706 13.01671
+
+(4) - Finish
+	NH2
+		Images:	3007
+		Time:	30.08.2025 13:24:44 until 30.08.2025 15:31:35
+		Duration:	02:06:51
+		Location:	51.47243 13.00894
+
+(5) - Impressions / Pano
+	GUD1DRONE1
+		Images:	8
+		Time:	30.08.2025 10:31:04 until 30.08.2025 10:39:15
+		Duration:	00:08:11
+		Location:	51.46706 13.01671
+
+	PANO1

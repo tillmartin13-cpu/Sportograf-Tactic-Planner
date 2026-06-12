@@ -1,0 +1,172 @@
+EventId: 14492
+Spots: 26
+Total Images: 68024
+Time:	01.01.0001 23:00:00 to 26.04.2035 20:05:28
+Duration: 743017.21:05:28
+
+(1) - Start
+	MDS1
+		Images:	216
+		Time:	25.08.2025 23:12:00 until 26.08.2025 00:00:00
+		Duration:	00:48:00
+		Location:	45.92790 6.86895
+
+	MATR2
+		Images:	86
+		Time:	25.08.2025 23:12:02 until 25.08.2025 23:52:05
+		Duration:	00:40:03
+		Location:	45.92790 6.86895
+
+(2) - 34.0 km Lago Verney
+	MATR1
+		Images:	2328
+		Time:	26.08.2025 02:40:32 until 26.08.2025 09:19:19
+		Duration:	06:38:47
+		Location:	45.68675 6.87824
+
+	MATR1LS1
+		Images:	1990
+		Time:	26.08.2025 03:02:03 until 26.08.2025 08:26:20
+		Duration:	05:24:17
+		Location:	45.68675 6.87824
+
+(3) - 34.5 km Lago Verney
+	MDS2
+		Images:	1762
+		Time:	26.08.2025 03:45:20 until 26.08.2025 08:59:25
+		Duration:	05:14:05
+		Location:	45.68455 6.88195
+
+	MDS2LS1
+		Images:	3816
+		Time:	26.08.2025 02:50:41 until 26.08.2025 19:42:03
+		Duration:	16:51:22
+		Location:	45.68455 6.88195
+
+(4) - 56.7 km Fort de la Platte
+	LULE2
+		Images:	9194
+		Time:	26.08.2025 06:04:13 until 26.08.2025 13:47:53
+		Duration:	07:43:40
+		Location:	45.63991 6.73850
+
+(5) - 55.6 km Fort de la Platte
+	MAWI1LS1
+		Images:	6234
+		Time:	26.08.2025 06:35:12 until 26.08.2025 13:52:28
+		Duration:	07:17:16
+		Location:	45.63808 6.74253
+
+	MAWI1
+		Images:	2509
+		Time:	26.08.2025 05:47:50 until 26.08.2025 13:41:46
+		Duration:	07:53:56
+		Location:	45.63808 6.74253
+
+(6) - 61.6 km Le passeur de Pralognan
+	BP1
+		Images:	4884
+		Time:	26.08.2025 06:44:55 until 26.08.2025 16:49:20
+		Duration:	10:04:25
+		Location:	45.66827 6.71212
+
+(7) - 61.4 km Le passeur de Pralognan
+	BP1LS1
+		Images:	2932
+		Time:	26.08.2025 06:52:58 until 26.08.2025 16:53:32
+		Duration:	10:00:34
+		Location:	45.66827 6.71212
+
+	TNR1LS1
+		Images:	3233
+		Time:	26.08.2025 07:18:47 until 26.08.2025 17:00:41
+		Duration:	09:41:54
+		Location:	45.66897 6.71207
+
+	TNR1
+		Images:	1837
+		Time:	26.08.2025 07:22:34 until 26.08.2025 16:44:33
+		Duration:	09:21:59
+		Location:	45.66604 6.71119
+
+(8) - 75.7 km Chemin de Cure
+	HS1
+		Images:	3411
+		Time:	26.08.2025 08:24:50 until 26.08.2025 18:37:02
+		Duration:	10:12:12
+		Location:	45.72440 6.68876
+
+	HS1LS1
+		Images:	2245
+		Time:	26.08.2025 07:47:34 until 26.08.2025 18:39:56
+		Duration:	10:52:22
+		Location:	45.72440 6.68876
+
+(9) - 75.8 km Chemin de Cure
+	ROB1LS1
+		Images:	350
+		Time:	26.08.2025 07:56:44 until 26.08.2025 13:43:50
+		Duration:	05:47:06
+		Location:	45.72386 6.68878
+
+	ROB1
+		Images:	3762
+		Time:	01.01.0001 23:00:00 until 26.08.2025 17:50:44
+		Duration:	739487.18:50:44
+		Location:	45.72386 6.68878
+
+(10) - Finish
+	MATR3LS1
+		Images:	1135
+		Time:	26.08.2025 19:44:34 until 27.08.2025 05:00:31
+		Duration:	09:15:57
+		Location:	45.92372 6.86902
+
+	MATR3
+		Images:	1012
+		Time:	26.08.2025 19:42:51 until 27.08.2025 05:11:57
+		Duration:	09:29:06
+		Location:	45.92372 6.86902
+
+	MDS3
+		Images:	603
+		Time:	26.08.2025 20:05:23 until 27.08.2025 03:03:32
+		Duration:	06:58:09
+		Location:	45.92372 6.86902
+
+	MDS3LS1
+		Images:	1039
+		Time:	26.08.2025 19:43:51 until 27.08.2025 18:30:17
+		Duration:	22:46:26
+		Location:	45.92372 6.86902
+
+	MAWI2LS1
+		Images:	1227
+		Time:	27.08.2025 04:48:39 until 27.08.2025 12:43:17
+		Duration:	07:54:38
+		Location:	45.92372 6.86902
+
+	MAWI2
+		Images:	2109
+		Time:	09.08.2025 10:20:50 until 26.04.2035 20:05:28
+		Duration:	3547.09:44:38
+		Location:	45.92372 6.86902
+
+	LULE1
+		Images:	3444
+		Time:	27.08.2025 07:17:39 until 27.08.2025 13:16:12
+		Duration:	05:58:33
+		Location:	45.92372 6.86902
+
+	TNR2
+		Images:	1856
+		Time:	27.08.2025 15:15:11 until 27.08.2025 21:01:19
+		Duration:	05:46:08
+		Location:	45.92372 6.86902
+
+	TNR2LS1
+		Images:	4810
+		Time:	27.08.2025 15:07:03 until 27.08.2025 20:47:27
+		Duration:	05:40:24
+		Location:	45.92372 6.86902
+

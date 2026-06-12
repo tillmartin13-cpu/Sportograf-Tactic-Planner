@@ -1,0 +1,191 @@
+EventId: 15673
+Spots: 37
+Total Images: 261905
+Time:	01.03.2025 18:30:06 to 02.03.2025 22:21:50
+Duration: 1.03:51:44
+
+(1) - none
+	GGGPR1
+	GJODY1
+		Images:	10272
+		Time:	02.03.2025 06:19:53 until 02.03.2025 13:02:05
+		Duration:	06:42:12
+		Location:	NULL NULL
+
+	GDANC1
+		Images:	16367
+		Time:	02.03.2025 19:19:42 until 02.03.2025 22:21:50
+		Duration:	03:02:08
+		Location:	NULL NULL
+
+	GLSON1
+		Images:	9055
+		Time:	02.03.2025 06:19:48 until 02.03.2025 11:36:24
+		Duration:	05:16:36
+		Location:	NULL NULL
+
+	GJOHA1
+		Images:	4829
+		Time:	02.03.2025 06:30:51 until 02.03.2025 07:23:07
+		Duration:	00:52:16
+		Location:	NULL NULL
+
+	GRAYB1
+		Images:	3753
+		Time:	02.03.2025 06:30:10 until 02.03.2025 07:28:20
+		Duration:	00:58:10
+		Location:	NULL NULL
+
+	GLSTW1
+		Images:	3414
+		Time:	02.03.2025 06:20:10 until 02.03.2025 07:26:56
+		Duration:	01:06:46
+		Location:	NULL NULL
+
+	GIANS1
+		Images:	9338
+		Time:	02.03.2025 06:39:39 until 02.03.2025 08:08:04
+		Duration:	01:28:25
+		Location:	NULL NULL
+
+	GDARR1
+	GLSTH1
+		Images:	2460
+		Time:	02.03.2025 06:41:23 until 02.03.2025 08:09:03
+		Duration:	01:27:40
+		Location:	NULL NULL
+
+	GMAXW1
+		Images:	13875
+		Time:	02.03.2025 07:55:29 until 02.03.2025 09:13:48
+		Duration:	01:18:19
+		Location:	NULL NULL
+
+	GLSFO1
+		Images:	4764
+		Time:	02.03.2025 06:58:38 until 02.03.2025 08:20:28
+		Duration:	01:21:50
+		Location:	NULL NULL
+
+	GJONA1
+		Images:	1480
+		Time:	02.03.2025 05:15:57 until 02.03.2025 06:30:08
+		Duration:	01:14:11
+		Location:	NULL NULL
+
+	GDEVO1
+	GBILL1
+		Images:	6354
+		Time:	02.03.2025 07:17:42 until 02.03.2025 12:11:01
+		Duration:	04:53:19
+		Location:	NULL NULL
+
+	GLSSI1
+		Images:	12477
+		Time:	02.03.2025 06:14:37 until 02.03.2025 11:13:04
+		Duration:	04:58:27
+		Location:	NULL NULL
+
+	GIANT1
+		Images:	9988
+		Time:	02.03.2025 09:01:57 until 02.03.2025 11:57:55
+		Duration:	02:55:58
+		Location:	NULL NULL
+
+	GDARE1
+	GLSSE1
+		Images:	3075
+		Time:	02.03.2025 09:00:45 until 02.03.2025 11:59:46
+		Duration:	02:59:01
+		Location:	NULL NULL
+
+	GGABB1
+		Images:	17940
+		Time:	02.03.2025 06:13:55 until 02.03.2025 11:45:42
+		Duration:	05:31:47
+		Location:	NULL NULL
+
+	GMAXI1
+		Images:	11767
+		Time:	02.03.2025 10:26:32 until 02.03.2025 13:32:15
+		Duration:	03:05:43
+		Location:	NULL NULL
+
+	GJOHR1
+		Images:	11860
+		Time:	02.03.2025 08:19:51 until 02.03.2025 13:29:06
+		Duration:	05:09:15
+		Location:	NULL NULL
+
+	GJONT1
+		Images:	11594
+		Time:	02.03.2025 06:39:49 until 02.03.2025 12:25:28
+		Duration:	05:45:39
+		Location:	NULL NULL
+
+	GSYDN1
+		Images:	3731
+		Time:	01.03.2025 18:30:06 until 02.03.2025 01:23:20
+		Duration:	06:53:14
+		Location:	NULL NULL
+
+	GDEVN1
+	GGUSG1
+		Images:	11634
+		Time:	02.03.2025 07:17:27 until 02.03.2025 11:57:51
+		Duration:	04:40:24
+		Location:	NULL NULL
+
+	GRAYH1
+		Images:	5379
+		Time:	02.03.2025 08:10:24 until 02.03.2025 12:02:04
+		Duration:	03:51:40
+		Location:	NULL NULL
+
+	GLSFN1
+		Images:	19191
+		Time:	02.03.2025 04:38:33 until 02.03.2025 12:39:49
+		Duration:	08:01:16
+		Location:	NULL NULL
+
+	GNICO1
+		Images:	1693
+		Time:	02.03.2025 10:07:40 until 02.03.2025 16:32:40
+		Duration:	06:25:00
+		Location:	NULL NULL
+
+	GDOMI1
+		Images:	1121
+		Time:	02.03.2025 07:58:01 until 02.03.2025 12:58:40
+		Duration:	05:00:39
+		Location:	NULL NULL
+
+	GYESH1
+	GAMRY1
+		Images:	2576
+		Time:	02.03.2025 07:05:03 until 02.03.2025 12:59:33
+		Duration:	05:54:30
+		Location:	NULL NULL
+
+(2) - 0.0 km
+	GLSEI1
+	GLSPF1
+		Images:	19100
+		Time:	02.03.2025 05:09:58 until 02.03.2025 13:37:48
+		Duration:	08:27:50
+		Location:	NULL NULL
+
+	GLSPN1
+		Images:	13555
+		Time:	02.03.2025 08:17:24 until 02.03.2025 13:24:23
+		Duration:	05:06:59
+		Location:	NULL NULL
+
+	GLSFI1
+		Images:	19263
+		Time:	02.03.2025 03:55:34 until 02.03.2025 12:43:12
+		Duration:	08:47:38
+		Location:	NULL NULL
+
+(3) - Impressions / Pano
+	PANO1

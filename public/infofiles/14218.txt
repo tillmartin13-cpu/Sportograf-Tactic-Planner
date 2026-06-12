@@ -1,0 +1,91 @@
+EventId: 14218
+Spots: 13
+Total Images: 64126
+Time:	20.09.2025 06:00:46 to 20.09.2025 20:13:02
+Duration: 14:12:16
+
+(1) - Start
+	GWH1
+		Images:	10628
+		Time:	20.09.2025 06:00:46 until 20.09.2025 09:27:57
+		Duration:	03:27:11
+		Location:	51.40493 -0.4037
+
+(2) - 29,0 km
+	MWAT1
+		Images:	7303
+		Time:	20.09.2025 07:43:06 until 20.09.2025 12:48:29
+		Duration:	05:05:23
+		Location:	51.23384 -0.45715
+
+(3) - 37,0 km
+	BME1
+		Images:	2329
+		Time:	20.09.2025 08:25:09 until 20.09.2025 14:00:42
+		Duration:	05:35:33
+		Location:	51.17243 -0.47409
+
+(4) - 75,0 km
+	STHH1
+		Images:	4690
+		Time:	20.09.2025 08:32:49 until 20.09.2025 18:16:42
+		Duration:	09:43:53
+		Location:	50.90652 -0.30634
+
+(5) - 85,0 km
+	LOT1
+		Images:	5513
+		Time:	20.09.2025 10:40:59 until 20.09.2025 18:43:47
+		Duration:	08:02:48
+		Location:	50.86204 -0.25451
+
+	LOT2
+		Images:	1317
+		Time:	20.09.2025 10:21:11 until 20.09.2025 16:55:34
+		Duration:	06:34:23
+		Location:	50.86204 -0.25451
+
+(6) - 95,0 km
+	MWAT2
+		Images:	585
+		Time:	20.09.2025 16:35:27 until 20.09.2025 18:27:10
+		Duration:	01:51:43
+		Location:	50.82414 -0.17289
+
+	BME2
+		Images:	171
+		Time:	20.09.2025 16:18:03 until 20.09.2025 17:27:52
+		Duration:	01:09:49
+		Location:	50.82432 -0.17462
+
+(7) - Finish
+	BME3
+		Images:	64
+		Time:	20.09.2025 17:28:18 until 20.09.2025 17:46:57
+		Duration:	00:18:39
+		Location:	50.82442 -0.17825
+
+	GWH2
+		Images:	13463
+		Time:	20.09.2025 12:32:34 until 20.09.2025 19:06:27
+		Duration:	06:33:53
+		Location:	50.82442 -0.17825
+
+	CUP1
+		Images:	6232
+		Time:	20.09.2025 07:38:36 until 20.09.2025 20:13:02
+		Duration:	12:34:26
+		Location:	50.82442 -0.17825
+
+	CUP2
+		Images:	1427
+		Time:	20.09.2025 11:15:59 until 20.09.2025 18:12:12
+		Duration:	06:56:13
+		Location:	50.82442 -0.17825
+
+	CUP3
+		Images:	10404
+		Time:	20.09.2025 10:40:32 until 20.09.2025 17:53:46
+		Duration:	07:13:14
+		Location:	50.82442 -0.17825
+

@@ -1,0 +1,185 @@
+EventId: 13966
+Spots: 28
+Total Images: 134693
+Time:	02.08.2025 08:47:37 to 02.08.2025 14:59:55
+Duration: 06:12:18
+
+(1) - Start
+	GUD1
+		Images:	149
+		Time:	02.08.2025 11:21:35 until 02.08.2025 11:44:13
+		Duration:	00:22:38
+		Location:	52.15153 11.68626
+
+(2) - Obstacle 3 Schaumparty
+	WV1
+		Images:	7780
+		Time:	02.08.2025 08:50:47 until 02.08.2025 13:45:29
+		Duration:	04:54:42
+		Location:	52.15266 11.68320
+
+(3) - Obstacle 5 Krabbelstrecke
+	AGA1
+		Images:	15711
+		Time:	02.08.2025 09:53:41 until 02.08.2025 14:00:44
+		Duration:	04:07:03
+		Location:	52.1494 11.68845
+
+	LEM1
+		Images:	8561
+		Time:	02.08.2025 09:53:40 until 02.08.2025 14:00:55
+		Duration:	04:07:15
+		Location:	52.1494 11.68845
+
+(4) - Laufstrecke vor Obstacle 5 Krabbelstrecke
+	LEM1LS1
+		Images:	5616
+		Time:	02.08.2025 09:36:19 until 02.08.2025 13:59:00
+		Duration:	04:22:41
+		Location:	52.1494 11.68845
+
+	LEM1LS2
+		Images:	4080
+		Time:	02.08.2025 09:30:40 until 02.08.2025 13:58:59
+		Duration:	04:28:19
+		Location:	52.1494 11.68845
+
+(5) - Obstacle 6 Gitterbecken
+	ANPE1
+		Images:	2723
+		Time:	02.08.2025 09:07:23 until 02.08.2025 14:31:37
+		Duration:	05:24:14
+		Location:	52.14952 11.68900
+
+	MDO1
+		Images:	8085
+		Time:	02.08.2025 09:23:37 until 02.08.2025 14:02:59
+		Duration:	04:39:22
+		Location:	52.14949 11.68907
+
+(6) - Laufstrecke nach Obstacle 6 Gitterbecken
+	MDO1LS1
+		Images:	4225
+		Time:	02.08.2025 09:07:01 until 02.08.2025 14:04:23
+		Duration:	04:57:22
+		Location:	52.14949 11.68907
+
+(7) - Obstacle 9 Seiltanz
+	ABRI1
+		Images:	11306
+		Time:	02.08.2025 10:06:40 until 02.08.2025 14:35:55
+		Duration:	04:29:15
+		Location:	52.15193 11.68711
+
+(8) - Obstacle 10 Containerrutsche
+	ROH1
+		Images:	13796
+		Time:	02.08.2025 09:44:54 until 02.08.2025 14:51:12
+		Duration:	05:06:18
+		Location:	52.15007 11.68794
+
+(9) - Laufstrecke nach Obstacle 10 Containerrutsche
+	ROH1LS1
+		Images:	2226
+		Time:	02.08.2025 09:19:08 until 02.08.2025 14:47:27
+		Duration:	05:28:19
+		Location:	52.14998 11.68861
+
+	SBU1LS1
+		Images:	2618
+		Time:	02.08.2025 09:37:42 until 02.08.2025 14:45:26
+		Duration:	05:07:44
+		Location:	52.14998 11.68861
+
+(10) - Obstacle 11 Schlammbecken
+	RIS1
+		Images:	7226
+		Time:	02.08.2025 08:47:37 until 02.08.2025 14:46:48
+		Duration:	05:59:11
+		Location:	52.14948 11.68870
+
+	SBU1
+		Images:	4086
+		Time:	02.08.2025 10:11:46 until 02.08.2025 14:41:39
+		Duration:	04:29:53
+		Location:	52.14948 11.68870
+
+(11) - Obstacle 12 Tauchbecken
+	DAR1
+		Images:	5709
+		Time:	02.08.2025 10:10:55 until 02.08.2025 14:50:31
+		Duration:	04:39:36
+		Location:	52.14983 11.68805
+
+	RW1
+		Images:	7157
+		Time:	02.08.2025 10:10:56 until 02.08.2025 14:48:28
+		Duration:	04:37:32
+		Location:	52.14983 11.68805
+
+(12) - Laufstrecke nach Obstacle 12 Tauchbecken
+	RW1LS1
+		Images:	3220
+		Time:	02.08.2025 09:25:50 until 02.08.2025 14:50:04
+		Duration:	05:24:14
+		Location:	52.14983 11.68805
+
+	RW1LS2
+		Images:	2764
+		Time:	02.08.2025 09:16:42 until 02.08.2025 14:53:26
+		Duration:	05:36:44
+		Location:	52.14983 11.68805
+
+(13) - Obstacle 13 Reifenteppich
+	DAR1LS1
+		Images:	2372
+		Time:	02.08.2025 09:05:36 until 02.08.2025 14:51:33
+		Duration:	05:45:57
+		Location:	52.15029 11.68728
+
+	DAR1LS2
+		Images:	2464
+		Time:	02.08.2025 09:08:07 until 02.08.2025 14:51:32
+		Duration:	05:43:25
+		Location:	52.15029 11.68728
+
+(14) - Finish
+	LUS1
+		Images:	4330
+		Time:	02.08.2025 10:13:13 until 02.08.2025 14:59:25
+		Duration:	04:46:12
+		Location:	52.15061 11.68626
+
+	GUD1LS1
+		Images:	1637
+		Time:	02.08.2025 09:36:39 until 02.08.2025 14:59:24
+		Duration:	05:22:45
+		Location:	52.15061 11.68626
+
+	GUD1LS2
+		Images:	1803
+		Time:	02.08.2025 09:37:39 until 02.08.2025 14:59:23
+		Duration:	05:21:44
+		Location:	52.15061 11.68626
+
+(15) - Herotent
+	HKU1
+		Images:	2211
+		Time:	02.08.2025 09:40:58 until 02.08.2025 14:49:35
+		Duration:	05:08:37
+		Location:	52.15056 11.68628
+
+	LW1
+		Images:	2828
+		Time:	02.08.2025 08:51:09 until 02.08.2025 14:59:55
+		Duration:	06:08:46
+		Location:	52.15056 11.68628
+
+(16) - Impressions / Pano
+	GUD1DRONE1
+		Images:	10
+		Time:	02.08.2025 12:07:13 until 02.08.2025 12:19:52
+		Duration:	00:12:39
+		Location:	52.15061 11.68626
+
+	PANO1

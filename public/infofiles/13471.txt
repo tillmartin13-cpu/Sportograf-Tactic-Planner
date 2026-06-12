@@ -1,0 +1,47 @@
+EventId: 13471
+Spots: 6
+Total Images: 6049
+Time:	01.01.0001 23:00:00 to 26.10.2026 13:26:22
+Duration: 739913.14:26:22
+
+(1) - SPOT#1
+	AUC1
+		Images:	222
+		Time:	26.10.2025 06:43:32 until 26.10.2025 07:14:03
+		Duration:	00:30:31
+		Location:	27.41637 -81.56598
+
+(2) - SPOT#2
+	AUC2
+		Images:	515
+		Time:	01.01.0001 23:00:00 until 26.10.2025 12:00:37
+		Duration:	739548.13:00:37
+		Location:	27.40012 -81.61523
+
+(3) - SPOT#3
+	RASC1
+		Images:	1425
+		Time:	25.10.2025 21:30:56 until 26.10.2025 09:59:29
+		Duration:	12:28:33
+		Location:	27.42004 -81.58245
+
+(4) - SPOT #4
+	RASC2
+		Images:	735
+		Time:	26.10.2025 10:01:28 until 26.10.2025 12:12:33
+		Duration:	02:11:05
+		Location:	27.41985 -81.58475
+
+(5) - START-FINISH LINE
+	SICA1
+		Images:	2633
+		Time:	26.10.2026 06:01:33 until 26.10.2026 13:13:32
+		Duration:	07:11:59
+		Location:	27.34816 -81.45943
+
+	SICA1LS1
+		Images:	519
+		Time:	26.10.2026 06:46:03 until 26.10.2026 13:26:22
+		Duration:	06:40:19
+		Location:	27.34816 -81.45943
+

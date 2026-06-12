@@ -1,0 +1,142 @@
+EventId: 14898
+Spots: 21
+Total Images: 42182
+Time:	24.01.2025 09:14:10 to 26.01.2025 00:18:24
+Duration: 1.15:04:14
+
+(1) - Start
+	JUW1
+		Images:	111
+		Time:	24.01.2025 09:14:10 until 24.01.2025 11:00:38
+		Duration:	01:46:28
+		Location:	50.02646 -5.10874
+
+(2) - Various
+	JUW1DRONE1
+		Images:	16
+		Time:	24.01.2025 09:33:29 until 24.01.2025 13:31:56
+		Duration:	03:58:27
+		Location:	50.02646 -5.10874
+
+(3) - 16.9km of 100
+	JUW2
+		Images:	1410
+		Time:	24.01.2025 12:21:58 until 24.01.2025 13:51:06
+		Duration:	01:29:08
+		Location:	49.96002 -5.21170
+
+	JUW2LS1
+		Images:	348
+		Time:	24.01.2025 12:03:18 until 24.01.2025 13:54:29
+		Duration:	01:51:11
+		Location:	49.96038 -5.20930
+
+(4) - 37.5km of 100
+	DP2
+		Images:	1441
+		Time:	24.01.2025 14:04:39 until 24.01.2025 17:13:43
+		Duration:	03:09:04
+		Location:	50.07155 -5.29842
+
+	DP2LS1
+		Images:	229
+		Time:	24.01.2025 13:26:53 until 24.01.2025 15:58:42
+		Duration:	02:31:49
+		Location:	50.07155 -5.29842
+
+(5) - 39.5km of 100
+	JUW3
+		Images:	779
+		Time:	24.01.2025 15:11:40 until 24.01.2025 17:12:12
+		Duration:	02:00:32
+		Location:	50.07727 -5.30524
+
+	JUW3LS1
+		Images:	492
+		Time:	24.01.2025 14:48:39 until 24.01.2025 17:22:09
+		Duration:	02:33:30
+		Location:	50.07708 -5.30674
+
+(6) - 7.5km of 50
+	DAWH1
+		Images:	1595
+		Time:	25.01.2025 07:09:41 until 25.01.2025 09:44:06
+		Duration:	02:34:25
+		Location:	50.06657 -5.71448
+
+(7) - 17.5km of 50, 98.4km of 100
+	AHO1
+		Images:	3529
+		Time:	24.01.2025 18:12:22 until 25.01.2025 11:27:09
+		Duration:	17:14:47
+		Location:	50.12813 -5.70465
+
+(8) - 20.7km of 50, 101.5km of 100
+	MALV1
+		Images:	3281
+		Time:	25.01.2025 05:44:20 until 25.01.2025 10:39:44
+		Duration:	04:55:24
+		Location:	50.10796 -5.69651
+
+(9) - 34.5km of 50, 109km of 100
+	PAUH1
+		Images:	6108
+		Time:	25.01.2025 06:53:37 until 25.01.2025 15:55:31
+		Duration:	09:01:54
+		Location:	50.18803 -5.59378
+
+(10) - 15.3km of 25, 55km of 50
+	DAWH2
+		Images:	3353
+		Time:	25.01.2025 11:09:09 until 25.01.2025 18:33:51
+		Duration:	07:24:42
+		Location:	50.19688 -5.43184
+
+(11) - 22.6km of 25, 62.2km of 50, 143.6km of 100
+	MALV2
+		Images:	5703
+		Time:	25.01.2025 12:58:29 until 25.01.2025 18:57:34
+		Duration:	05:59:05
+		Location:	50.24042 -5.39319
+
+(12) - 37km of 25, 76.9km of 50, 157.2km of 100
+	AHO2
+		Images:	2720
+		Time:	24.01.2025 18:12:53 until 25.01.2025 20:48:28
+		Duration:	1.02:35:35
+		Location:	50.27779 -5.25929
+
+(13) - Finish
+	PAUH2
+		Images:	2069
+		Time:	25.01.2025 17:28:02 until 26.01.2025 00:18:24
+		Duration:	06:50:22
+		Location:	50.27674 -5.23423
+
+	JUW4
+		Images:	2297
+		Time:	25.01.2025 05:53:00 until 25.01.2025 19:32:55
+		Duration:	13:39:55
+		Location:	50.27674 -5.23423
+
+	JUW4LS1
+		Images:	2079
+		Time:	25.01.2025 05:08:28 until 25.01.2025 22:10:03
+		Duration:	17:01:35
+		Location:	50.27674 -5.23423
+
+	DP4LS1
+		Images:	1471
+		Time:	25.01.2025 07:01:20 until 25.01.2025 18:18:18
+		Duration:	11:16:58
+		Location:	50.27674 -5.23680
+
+(14) - Medal shots
+	DP4
+		Images:	3151
+		Time:	25.01.2025 05:30:07 until 25.01.2025 23:22:43
+		Duration:	17:52:36
+		Location:	50.27644 -5.23451
+
+(15) - Impressions / Pano
+	PANO1

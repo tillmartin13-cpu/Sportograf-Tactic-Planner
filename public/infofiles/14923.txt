@@ -1,0 +1,348 @@
+EventId: 14923
+Spots: 54
+Total Images: 100013
+Time:	12.06.2025 17:50:47 to 15.06.2025 15:39:03
+Duration: 2.21:48:16
+
+(1) - Impression 80K
+	JMO1
+		Images:	321
+		Time:	13.06.2025 07:38:23 until 13.06.2025 16:36:51
+		Duration:	08:58:28
+		Location:	42.55679 1.53342
+
+(2) - Km 16 - 80K
+	MANR1
+		Images:	5413
+		Time:	13.06.2025 09:49:14 until 13.06.2025 12:04:16
+		Duration:	02:15:02
+		Location:	42.63703 1.47228
+
+	MANR1LS2
+		Images:	607
+		Time:	13.06.2025 09:37:19 until 13.06.2025 12:08:56
+		Duration:	02:31:37
+		Location:	42.63703 1.47228
+
+	MANR1LS1
+		Images:	587
+		Time:	13.06.2025 09:46:21 until 13.06.2025 12:04:27
+		Duration:	02:18:06
+		Location:	42.63703 1.47228
+
+(3) - Impressions / Pano
+	MANR1DRONE1
+		Images:	23
+		Time:	12.06.2025 17:50:47 until 14.06.2025 11:49:04
+		Duration:	1.17:58:17
+		Location:	42.63675 1.47217
+
+	PANO1
+(4) - Km 17 - 80K
+	JLTG1LS1
+		Images:	589
+		Time:	13.06.2025 09:41:54 until 13.06.2025 15:43:04
+		Duration:	06:01:10
+		Location:	42.64555 1.47773
+
+	JLTG1
+		Images:	1276
+		Time:	13.06.2025 10:08:55 until 13.06.2025 12:12:35
+		Duration:	02:03:40
+		Location:	42.64555 1.47773
+
+	JLTG1LS2
+		Images:	514
+		Time:	13.06.2025 09:57:45 until 13.06.2025 16:00:08
+		Duration:	06:02:23
+		Location:	42.64555 1.47773
+
+	AFGA1LS1
+		Images:	586
+		Time:	13.06.2025 09:08:21 until 13.06.2025 12:46:43
+		Duration:	03:38:22
+		Location:	42.64555 1.47773
+
+(5) - Km 19 - 80K
+	AFGA1
+		Images:	3231
+		Time:	13.06.2025 09:02:14 until 14.06.2025 00:47:48
+		Duration:	15:45:34
+		Location:	42.63636 1.48628
+
+(6) - Km 39 - 80K
+	JGM1
+		Images:	6343
+		Time:	13.06.2025 11:47:18 until 13.06.2025 19:30:01
+		Duration:	07:42:43
+		Location:	42.61546 1.63875
+
+(7) - Km 46 - 80K
+	RAVE1
+		Images:	3976
+		Time:	13.06.2025 12:59:39 until 13.06.2025 21:10:15
+		Duration:	08:10:36
+		Location:	42.57677 1.61035
+
+	RAVE1LS1
+		Images:	2468
+		Time:	13.06.2025 12:12:52 until 13.06.2025 21:11:05
+		Duration:	08:58:13
+		Location:	42.57677 1.61035
+
+(8) - Km 53 - 80K
+	JLTG2
+		Images:	638
+		Time:	13.06.2025 16:09:02 until 14.06.2025 01:14:31
+		Duration:	09:05:29
+		Location:	42.5192 1.56593
+
+	JLTG2LS1
+		Images:	442
+		Time:	13.06.2025 15:48:32 until 13.06.2025 21:11:41
+		Duration:	05:23:09
+		Location:	42.5192 1.56593
+
+	JLTG2LS2
+		Images:	450
+		Time:	13.06.2025 16:01:10 until 13.06.2025 21:12:14
+		Duration:	05:11:04
+		Location:	42.5192 1.56593
+
+	MANR2LS2
+		Images:	744
+		Time:	13.06.2025 15:42:55 until 14.06.2025 08:21:22
+		Duration:	16:38:27
+		Location:	42.5192 1.56593
+
+	MANR2LS1
+		Images:	389
+		Time:	13.06.2025 16:13:24 until 13.06.2025 21:00:24
+		Duration:	04:47:00
+		Location:	42.5192 1.56593
+
+(9) - Km 55 - 80K
+	MANR2
+		Images:	3347
+		Time:	13.06.2025 15:51:56 until 14.06.2025 00:26:59
+		Duration:	08:35:03
+		Location:	42.51418 1.56749
+
+(10) - Finish - 80K
+	JMO2
+		Images:	3310
+		Time:	13.06.2025 16:38:16 until 13.06.2025 22:47:23
+		Duration:	06:09:07
+		Location:	42.55679 1.53342
+
+	JGM2
+		Images:	99
+		Time:	13.06.2025 22:14:53 until 13.06.2025 22:44:33
+		Duration:	00:29:40
+		Location:	42.55679 1.53342
+
+	AFGA2
+		Images:	987
+		Time:	13.06.2025 22:47:53 until 14.06.2025 04:37:07
+		Duration:	05:49:14
+		Location:	42.55679 1.53342
+
+	AFGA2LS1
+		Images:	1288
+		Time:	13.06.2025 16:46:55 until 14.06.2025 04:25:32
+		Duration:	11:38:37
+		Location:	42.55679 1.53342
+
+	JMO3
+		Images:	2206
+		Time:	13.06.2025 16:38:16 until 13.06.2025 21:29:28
+		Duration:	04:51:12
+		Location:	42.55679 1.53342
+
+(11) - Finish - 50K ,105K
+	JGM3
+		Images:	1569
+		Time:	14.06.2025 08:08:55 until 14.06.2025 23:01:39
+		Duration:	14:52:44
+		Location:	42.5782 1.4472
+
+	JMO5
+		Images:	7275
+		Time:	14.06.2025 12:47:09 until 14.06.2025 22:49:32
+		Duration:	10:02:23
+		Location:	42.55679 1.53342
+
+	JGM4
+		Images:	945
+		Time:	14.06.2025 23:06:53 until 15.06.2025 07:17:46
+		Duration:	08:10:53
+		Location:	42.55679 1.53342
+
+(12) - Km 22 - 105K - Km 30 - 80K
+	MANR3LS2
+		Images:	1369
+		Time:	14.06.2025 08:21:48 until 14.06.2025 17:53:10
+		Duration:	09:31:22
+		Location:	42.55431 1.45143
+
+	MANR3
+		Images:	10450
+		Time:	14.06.2025 09:14:32 until 14.06.2025 18:04:22
+		Duration:	08:49:50
+		Location:	42.55431 1.45143
+
+	MANR3LS1
+		Images:	1330
+		Time:	14.06.2025 08:35:53 until 14.06.2025 17:53:38
+		Duration:	09:17:45
+		Location:	42.55431 1.45143
+
+(13) - Km 23 - 105K - Km 31 - 80K
+	JLTG3
+		Images:	1300
+		Time:	14.06.2025 09:23:44 until 14.06.2025 18:15:36
+		Duration:	08:51:52
+		Location:	42.55243 1.45429
+
+	JLTG3LS1
+		Images:	442
+		Time:	13.06.2025 15:48:32 until 13.06.2025 21:11:41
+		Duration:	05:23:09
+		Location:	42.55243 1.45429
+
+	JLTG3LS2
+		Images:	1279
+		Time:	14.06.2025 08:42:25 until 14.06.2025 20:46:45
+		Duration:	12:04:20
+		Location:	42.55243 1.45429
+
+(14) - Km 24 - 105K - Km 32 - 80K
+	RAVE2
+		Images:	7759
+		Time:	14.06.2025 08:20:25 until 14.06.2025 22:51:41
+		Duration:	14:31:16
+		Location:	42.54393 1.45375
+
+	RAVE2LS1
+		Images:	3690
+		Time:	14.06.2025 08:05:36 until 14.06.2025 18:01:39
+		Duration:	09:56:03
+		Location:	42.54393 1.45375
+
+(15) - Km 75 - 105K
+	MANR4
+		Images:	113
+		Time:	14.06.2025 21:19:57 until 15.06.2025 09:16:41
+		Duration:	11:56:44
+		Location:	42.59816 1.68145
+
+	MANR4LS1
+		Images:	184
+		Time:	14.06.2025 20:39:24 until 14.06.2025 23:11:16
+		Duration:	02:31:52
+		Location:	42.59816 1.68145
+
+	MANR4LS2
+		Images:	223
+		Time:	14.06.2025 20:20:36 until 14.06.2025 23:18:55
+		Duration:	02:58:19
+		Location:	42.59816 1.68145
+
+	JLTG4LS2
+		Images:	204
+		Time:	14.06.2025 20:49:39 until 14.06.2025 23:09:42
+		Duration:	02:20:03
+		Location:	42.59816 1.68145
+
+	JLTG4
+		Images:	88
+		Time:	14.06.2025 21:27:51 until 15.06.2025 07:16:17
+		Duration:	09:48:26
+		Location:	42.59816 1.68145
+
+	RAVE3LS1
+		Images:	215
+		Time:	14.06.2025 21:48:12 until 14.06.2025 23:48:07
+		Duration:	01:59:55
+		Location:	42.59816 1.68145
+
+(16) - Km 76 - 105K
+	JLTG4LS1
+		Images:	180
+		Time:	14.06.2025 20:29:20 until 14.06.2025 23:09:23
+		Duration:	02:40:03
+		Location:	42.59786 1.68088
+
+(17) - Km 83 - 105K
+	RAVE3
+		Images:	60
+		Time:	14.06.2025 22:52:02 until 14.06.2025 23:38:09
+		Duration:	00:46:07
+		Location:	42.58366 1.63359
+
+(18) - Km 86 - 105K
+	AFGA3
+		Images:	285
+		Time:	14.06.2025 21:14:10 until 14.06.2025 23:47:11
+		Duration:	02:33:01
+		Location:	42.58366 1.63359
+
+(19) - Km 12 - 20K - Km 7 - 10K
+	JLTG5
+		Images:	2466
+		Time:	15.06.2025 07:18:14 until 15.06.2025 15:13:57
+		Duration:	07:55:43
+		Location:	42.57148 1.52115
+
+	JLTG5LS1
+		Images:	1034
+		Time:	15.06.2025 09:12:57 until 15.06.2025 12:33:38
+		Duration:	03:20:41
+		Location:	42.57148 1.52115
+
+	JLTG5LS2
+		Images:	688
+		Time:	15.06.2025 09:44:11 until 15.06.2025 12:40:51
+		Duration:	02:56:40
+		Location:	42.57148 1.52115
+
+(20) - Km 12,5 - 20K - Km 7,5 - 10K
+	MANR5
+		Images:	4911
+		Time:	15.06.2025 09:41:08 until 15.06.2025 12:37:24
+		Duration:	02:56:16
+		Location:	42.57091 1.52163
+
+(21) - Km 19 - 20K
+	AFGA4
+		Images:	1245
+		Time:	15.06.2025 07:40:05 until 15.06.2025 15:27:31
+		Duration:	07:47:26
+		Location:	42.56133 1.5249
+
+	AFGA4LS1
+		Images:	496
+		Time:	15.06.2025 09:08:05 until 15.06.2025 15:02:12
+		Duration:	05:54:07
+		Location:	42.56133 1.5249
+
+(22) - Km 19,5 - 20K
+	JMO4
+		Images:	4007
+		Time:	15.06.2025 08:54:28 until 15.06.2025 15:26:53
+		Duration:	06:32:25
+		Location:	42.56199 1.5262
+
+(23) - Finish - 10K, 20K, 105K
+	RAVE4
+		Images:	5598
+		Time:	15.06.2025 07:18:34 until 15.06.2025 15:39:03
+		Duration:	08:20:29
+		Location:	42.55679 1.53342
+
+	RAVE4LS1
+		Images:	774
+		Time:	15.06.2025 08:42:37 until 15.06.2025 14:25:13
+		Duration:	05:42:36
+		Location:	42.55679 1.53342
+

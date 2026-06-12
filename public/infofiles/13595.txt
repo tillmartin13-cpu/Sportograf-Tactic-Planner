@@ -1,0 +1,137 @@
+EventId: 13595
+Spots: 21
+Total Images: 34192
+Time:	14.06.2025 22:34:06 to 15.06.2025 15:56:10
+Duration: 17:22:04
+
+(1) - Start
+	MSCH1
+		Images:	1210
+		Time:	14.06.2025 22:39:28 until 15.06.2025 07:59:47
+		Duration:	09:20:19
+		Location:	47.85465 13.35082
+
+	MSCH1LS2
+		Images:	983
+		Time:	14.06.2025 22:36:42 until 15.06.2025 08:45:12
+		Duration:	10:08:30
+		Location:	47.85465 13.35082
+
+	MSCH1LS1
+		Images:	406
+		Time:	14.06.2025 22:34:06 until 15.06.2025 08:45:12
+		Duration:	10:11:06
+		Location:	47.85465 13.35082
+
+(2) - Tour A 35km / B 35km / C 19km
+	EP1
+		Images:	2940
+		Time:	15.06.2025 07:22:13 until 15.06.2025 08:53:43
+		Duration:	01:31:30
+		Location:	47.73892 13.39387
+
+	EP1LS1
+		Images:	706
+		Time:	15.06.2025 07:07:16 until 15.06.2025 08:42:16
+		Duration:	01:35:00
+		Location:	47.73892 13.39387
+
+(3) - Tour A 37km / B 37km / C 21km
+	COR1
+		Images:	2469
+		Time:	15.06.2025 07:16:08 until 15.06.2025 09:46:45
+		Duration:	02:30:37
+		Location:	47.73457 13.40996
+
+	COR1LS2
+		Images:	1872
+		Time:	15.06.2025 07:26:44 until 15.06.2025 08:44:40
+		Duration:	01:17:56
+		Location:	47.73457 13.40996
+
+	COR1LS1
+		Images:	1353
+		Time:	15.06.2025 06:35:45 until 15.06.2025 08:38:07
+		Duration:	02:02:22
+		Location:	47.73457 13.40996
+
+(4) - Tour A 66km
+	MIW1
+		Images:	2775
+		Time:	15.06.2025 08:23:07 until 15.06.2025 11:53:33
+		Duration:	03:30:26
+		Location:	47.60478 13.36873
+
+(5) - Tour A 121km / B 60km / C 43km
+	LKE1
+		Images:	4982
+		Time:	15.06.2025 08:26:06 until 15.06.2025 13:05:15
+		Duration:	04:39:09
+		Location:	47.74786 13.66146
+
+(6) - Tour A 136km / B 76km / C 60km
+	COR2
+		Images:	1372
+		Time:	15.06.2025 10:04:21 until 15.06.2025 13:42:19
+		Duration:	03:37:58
+		Location:	47.79026 13.5062
+
+	COR2LS2
+		Images:	1739
+		Time:	15.06.2025 10:01:16 until 15.06.2025 13:08:43
+		Duration:	03:07:27
+		Location:	47.79026 13.5062
+
+	COR2LS1
+		Images:	1712
+		Time:	15.06.2025 10:02:47 until 15.06.2025 13:08:35
+		Duration:	03:05:48
+		Location:	47.79026 13.5062
+
+(7) - Tour A 144km / B 83km
+	EP2
+		Images:	1463
+		Time:	15.06.2025 09:30:23 until 15.06.2025 13:42:37
+		Duration:	04:12:14
+		Location:	47.83232 13.52023
+
+	EP2LS1
+		Images:	360
+		Time:	15.06.2025 09:33:23 until 15.06.2025 12:55:11
+		Duration:	03:21:48
+		Location:	47.83232 13.52023
+
+(8) - 3km Before Finish
+	MIW2
+		Images:	1826
+		Time:	15.06.2025 11:53:50 until 15.06.2025 15:31:13
+		Duration:	03:37:23
+		Location:	47.84234 13.381
+
+(9) - Finish
+	MSCH2
+		Images:	3367
+		Time:	15.06.2025 09:33:46 until 15.06.2025 15:53:22
+		Duration:	06:19:36
+		Location:	47.85465 13.35082
+
+	MSCH2LS2
+		Images:	1540
+		Time:	15.06.2025 08:50:46 until 15.06.2025 15:56:03
+		Duration:	07:05:17
+		Location:	47.85465 13.35082
+
+	MSCH2LS1
+		Images:	1093
+		Time:	15.06.2025 08:50:45 until 15.06.2025 15:56:10
+		Duration:	07:05:25
+		Location:	47.85465 13.35082
+
+(10) - Impressions / Pano
+	COR2DRONE1
+		Images:	24
+		Time:	15.06.2025 06:51:08 until 15.06.2025 11:00:10
+		Duration:	04:09:02
+		Location:	47.85465 13.35082
+
+	PANO1

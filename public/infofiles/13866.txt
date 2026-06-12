@@ -1,0 +1,186 @@
+EventId: 13866
+Spots: 29
+Total Images: 160510
+Time:	29.03.2025 04:44:16 to 29.03.2025 16:39:31
+Duration: 11:55:15
+
+(1) - Start
+	ALN1
+		Images:	9525
+		Time:	29.03.2025 05:20:58 until 29.03.2025 09:58:52
+		Duration:	04:37:54
+		Location:	NULL NULL
+
+(2) - 21,0 km Oude Kortrijkstraat
+	MAW1
+		Images:	5438
+		Time:	29.03.2025 06:40:15 until 29.03.2025 09:37:23
+		Duration:	02:57:08
+		Location:	NULL NULL
+
+	MAW1LS1
+		Images:	2900
+		Time:	29.03.2025 06:01:22 until 29.03.2025 09:44:17
+		Duration:	03:42:55
+		Location:	NULL NULL
+
+	MAW1LS2
+		Images:	2866
+		Time:	29.03.2025 06:16:40 until 29.03.2025 09:57:12
+		Duration:	03:40:32
+		Location:	NULL NULL
+
+(3) - 30,0 km Menenpoort
+	ROC1
+		Images:	5852
+		Time:	29.03.2025 04:44:16 until 29.03.2025 10:10:06
+		Duration:	05:25:50
+		Location:	NULL NULL
+
+(4) - 31,0 km Grote Martk Ypern
+	RA1
+		Images:	9455
+		Time:	29.03.2025 06:29:57 until 29.03.2025 10:04:16
+		Duration:	03:34:19
+		Location:	NULL NULL
+
+	RA1LS1
+		Images:	5434
+		Time:	29.03.2025 06:20:40 until 29.03.2025 10:05:40
+		Duration:	03:45:00
+		Location:	NULL NULL
+
+	RA1LS2
+		Images:	4894
+		Time:	29.03.2025 07:15:13 until 29.03.2025 10:05:21
+		Duration:	02:50:08
+		Location:	NULL NULL
+
+(5) - 64,0 km +144/220 Scherpenberg
+	THL1
+		Images:	10581
+		Time:	29.03.2025 08:18:40 until 29.03.2025 13:12:39
+		Duration:	04:53:59
+		Location:	NULL NULL
+
+	THL1DRONE1
+		Images:	21
+		Time:	29.03.2025 07:34:40 until 29.03.2025 09:28:53
+		Duration:	01:54:13
+		Location:	NULL NULL
+
+	THL1LS1
+		Images:	4029
+		Time:	29.03.2025 08:00:42 until 29.03.2025 12:53:01
+		Duration:	04:52:19
+		Location:	NULL NULL
+
+	THL1LS2
+		Images:	6798
+		Time:	29.03.2025 07:56:33 until 29.03.2025 13:02:26
+		Duration:	05:05:53
+		Location:	NULL NULL
+
+(6) - 48,0 km /80, 70/105+125,156/220km Kemmelberg
+	LV1
+		Images:	10875
+		Time:	29.03.2025 07:49:22 until 29.03.2025 14:35:01
+		Duration:	06:45:39
+		Location:	NULL NULL
+
+	LV1LS1
+		Images:	4336
+		Time:	29.03.2025 07:45:39 until 29.03.2025 14:15:20
+		Duration:	06:29:41
+		Location:	NULL NULL
+
+	MK1
+		Images:	15107
+		Time:	29.03.2025 08:26:01 until 29.03.2025 14:31:54
+		Duration:	06:05:53
+		Location:	NULL NULL
+
+	MK1LS1
+		Images:	3532
+		Time:	29.03.2025 07:49:18 until 29.03.2025 14:15:20
+		Duration:	06:26:02
+		Location:	NULL NULL
+
+	MK1LS2
+		Images:	3953
+		Time:	29.03.2025 08:01:07 until 29.03.2025 14:31:59
+		Duration:	06:30:52
+		Location:	NULL NULL
+
+(7) - Impressions / Pano
+	MK1DRONE1
+		Images:	37
+		Time:	29.03.2025 11:12:35 until 29.03.2025 11:31:55
+		Duration:	00:19:20
+		Location:	NULL NULL
+
+	PANO1
+(8) - 9,0 km before finish Kouterstraat
+	MAW2
+		Images:	4424
+		Time:	29.03.2025 11:56:12 until 29.03.2025 16:08:24
+		Duration:	04:12:12
+		Location:	NULL NULL
+
+	MAW2LS1
+		Images:	1739
+		Time:	29.03.2025 11:29:50 until 29.03.2025 16:08:10
+		Duration:	04:38:20
+		Location:	NULL NULL
+
+	MAW2LS2
+		Images:	1703
+		Time:	29.03.2025 11:41:06 until 29.03.2025 16:03:27
+		Duration:	04:22:21
+		Location:	NULL NULL
+
+(9) - 6,0 km before finish, Sluizenkaai
+	RA2
+		Images:	7502
+		Time:	29.03.2025 11:11:01 until 29.03.2025 16:16:54
+		Duration:	05:05:53
+		Location:	NULL NULL
+
+	RA2LS1
+		Images:	3201
+		Time:	29.03.2025 10:52:53 until 29.03.2025 16:21:34
+		Duration:	05:28:41
+		Location:	NULL NULL
+
+	RA2LS2
+		Images:	3269
+		Time:	29.03.2025 11:03:52 until 29.03.2025 16:21:53
+		Duration:	05:18:01
+		Location:	NULL NULL
+
+(10) - 5,8 km before finish , Noordkaai
+	ROC2
+		Images:	7175
+		Time:	29.03.2025 10:16:44 until 29.03.2025 15:04:19
+		Duration:	04:47:35
+		Location:	NULL NULL
+
+(11) - Finish
+	ALN2
+		Images:	13814
+		Time:	29.03.2025 10:21:25 until 29.03.2025 16:39:31
+		Duration:	06:18:06
+		Location:	NULL NULL
+
+	ALN2LS1
+		Images:	5386
+		Time:	29.03.2025 10:17:41 until 29.03.2025 16:02:04
+		Duration:	05:44:23
+		Location:	NULL NULL
+
+	ALN2LS2
+		Images:	6664
+		Time:	29.03.2025 10:10:05 until 29.03.2025 16:32:19
+		Duration:	06:22:14
+		Location:	NULL NULL
+

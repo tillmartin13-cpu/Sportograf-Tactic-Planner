@@ -1,0 +1,116 @@
+EventId: 14427
+Spots: 16
+Total Images: 131175
+Time:	31.12.2011 19:02:17 to 20.07.2025 08:52:18
+Duration: 4949.13:50:01
+
+(1) - Obstacle 6 TWISTER
+	DAKK1
+		Images:	8230
+		Time:	18.07.2025 23:17:09 until 20.07.2025 07:38:31
+		Duration:	1.08:21:22
+		Location:	NULL NULL
+
+	NADA1
+		Images:	6767
+		Time:	31.12.2011 19:02:17 until 19.07.2025 10:29:42
+		Duration:	4948.15:27:25
+		Location:	NULL NULL
+
+(2) - Obstacle 12 INVERTED WALL
+	MCKR1
+		Images:	7041
+		Time:	19.07.2025 07:37:30 until 19.07.2025 15:12:37
+		Duration:	07:35:07
+		Location:	NULL NULL
+
+(3) - Obstacle 13 MULTI-RIG
+	VICY1
+		Images:	10127
+		Time:	18.07.2025 19:40:45 until 20.07.2025 07:05:14
+		Duration:	1.11:24:29
+		Location:	NULL NULL
+
+	AWES1
+		Images:	4332
+		Time:	18.07.2025 07:38:05 until 18.07.2025 15:21:39
+		Duration:	07:43:34
+		Location:	NULL NULL
+
+(4) - Obstacle 1
+	AWES1DRONE1
+		Images:	42
+		Time:	19.07.2025 08:56:28 until 20.07.2025 08:52:18
+		Duration:	23:55:50
+		Location:	NULL NULL
+
+(5) - Obstacle 14 BUCKET CARRY
+	KAH1
+		Images:	10736
+		Time:	18.07.2025 23:41:40 until 19.07.2025 15:27:29
+		Duration:	15:45:49
+		Location:	NULL NULL
+
+(6) - Obstacle 15 ROLLING MUD
+	ISAK1
+		Images:	8107
+		Time:	19.07.2025 07:15:29 until 20.07.2025 06:50:11
+		Duration:	23:34:42
+		Location:	NULL NULL
+
+(7) - Obstacle 16 DUNK WALL
+	LIT1
+		Images:	8155
+		Time:	19.07.2025 07:17:30 until 19.07.2025 15:33:11
+		Duration:	08:15:41
+		Location:	NULL NULL
+
+(8) - Obstacle 21 CLIF CLIMB
+	IZZY1
+		Images:	6077
+		Time:	19.07.2025 06:57:10 until 20.07.2025 07:12:33
+		Duration:	1.00:15:23
+		Location:	NULL NULL
+
+(9) - Obstacle 23 ROPE CLIMB
+	AKAS1
+		Images:	18465
+		Time:	19.07.2025 07:07:43 until 20.07.2025 07:36:51
+		Duration:	1.00:29:08
+		Location:	NULL NULL
+
+(10) - Obstacle 25 SANDBAG CARRY
+	SARC1
+		Images:	7428
+		Time:	19.07.2025 07:34:23 until 19.07.2025 16:08:18
+		Duration:	08:33:55
+		Location:	NULL NULL
+
+(11) - Obstacle 26 CRAFT A-FRAME CARGO
+	JBB1
+		Images:	18797
+		Time:	18.07.2025 21:07:17 until 20.07.2025 07:13:18
+		Duration:	1.10:06:01
+		Location:	NULL NULL
+
+(12) - Obstacle 28 FIRE JUMP
+	ELPA1
+		Images:	13243
+		Time:	18.07.2025 20:56:33 until 19.07.2025 16:16:31
+		Duration:	19:19:58
+		Location:	NULL NULL
+
+(13) - Herotent
+	JAYP1
+		Images:	3492
+		Time:	19.07.2025 07:38:21 until 20.07.2025 07:34:18
+		Duration:	23:55:57
+		Location:	NULL NULL
+
+(14) - Impressions / Pano
+	CCZ1
+		Images:	134
+		Time:	18.07.2025 20:52:06 until 20.07.2025 08:22:42
+		Duration:	1.11:30:36
+		Location:	NULL NULL
+

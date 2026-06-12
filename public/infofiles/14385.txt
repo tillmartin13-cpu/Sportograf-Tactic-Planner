@@ -1,0 +1,108 @@
+EventId: 14385
+Spots: 16
+Total Images: 8190
+Time:	19.01.2025 08:24:37 to 19.01.2025 12:50:51
+Duration: 04:26:14
+
+(1) - Start
+	BECK1
+		Images:	195
+		Time:	19.01.2025 09:16:39 until 19.01.2025 09:30:46
+		Duration:	00:14:07
+		Location:	46.59527 9.96293
+
+(2) - 10.5 km Innauen
+	TE1LS1
+		Images:	463
+		Time:	19.01.2025 08:24:37 until 19.01.2025 11:06:24
+		Duration:	02:41:47
+		Location:	46.54359 9.89891
+
+	TE1LS2
+		Images:	429
+		Time:	19.01.2025 08:39:00 until 19.01.2025 10:59:07
+		Duration:	02:20:07
+		Location:	46.54359 9.89891
+
+	TE1
+		Images:	1357
+		Time:	19.01.2025 08:54:35 until 19.01.2025 10:51:37
+		Duration:	01:57:02
+		Location:	46.54271 9.89342
+
+(3) - 17.7 km Golz Samedan
+	MAWI1
+		Images:	965
+		Time:	19.01.2025 09:12:16 until 19.01.2025 11:46:32
+		Duration:	02:34:16
+		Location:	46.52145 9.86690
+
+	MAWI1LS1
+		Images:	681
+		Time:	19.01.2025 09:12:25 until 19.01.2025 11:49:45
+		Duration:	02:37:20
+		Location:	46.52145 9.86690
+
+	MAWI1LS2
+		Images:	598
+		Time:	19.01.2025 09:35:50 until 19.01.2025 11:49:11
+		Duration:	02:13:21
+		Location:	46.52145 9.86690
+
+(4) - 23.0 km letzter Anstieg
+	BECK2
+		Images:	915
+		Time:	19.01.2025 10:44:18 until 19.01.2025 12:39:59
+		Duration:	01:55:41
+		Location:	46.49652 9.89078
+
+	BECK2LS2
+		Images:	387
+		Time:	19.01.2025 10:28:57 until 19.01.2025 12:17:27
+		Duration:	01:48:30
+		Location:	46.49652 9.89078
+
+	BECK2LS1
+		Images:	379
+		Time:	19.01.2025 10:37:38 until 19.01.2025 12:18:19
+		Duration:	01:40:41
+		Location:	46.49652 9.89078
+
+(5) - Finish
+	BP1
+		Images:	820
+		Time:	19.01.2025 10:07:07 until 19.01.2025 12:48:05
+		Duration:	02:40:58
+		Location:	46.49439 9.89356
+
+	BP1LS2
+		Images:	545
+		Time:	19.01.2025 09:51:04 until 19.01.2025 12:50:51
+		Duration:	02:59:47
+		Location:	46.49439 9.89356
+
+	BP1LS1
+		Images:	409
+		Time:	19.01.2025 09:07:04 until 19.01.2025 12:39:09
+		Duration:	03:32:05
+		Location:	46.49439 9.89356
+
+(6) - Impressions / Pano
+	PANO1
+		Images:	1
+		Time:	19.01.2025 09:31:49 until 19.01.2025 09:31:49
+		Duration:	00:00:00
+		Location:	46.49439 9.89356
+
+	BECK3
+		Images:	26
+		Time:	19.01.2025 08:55:52 until 19.01.2025 09:14:57
+		Duration:	00:19:05
+		Location:	46.49439 9.89356
+
+	BECK1DRONE2
+		Images:	20
+		Time:	19.01.2025 09:29:11 until 19.01.2025 09:32:25
+		Duration:	00:03:14
+		Location:	46.59527 9.96293
+

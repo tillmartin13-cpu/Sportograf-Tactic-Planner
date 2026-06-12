@@ -1,0 +1,211 @@
+EventId: 14908
+Spots: 32
+Total Images: 83829
+Time:	25.04.2025 19:11:42 to 27.04.2025 14:44:39
+Duration: 1.19:32:57
+
+(1) - Start 100M
+	AGU1
+		Images:	501
+		Time:	25.04.2025 23:03:08 until 26.04.2025 00:00:03
+		Duration:	00:56:55
+		Location:	44.17916 5.12822
+
+(2) - 100M (Km 3)
+	ALL1
+		Images:	1076
+		Time:	25.04.2025 23:33:31 until 26.04.2025 00:28:36
+		Duration:	00:55:05
+		Location:	44.16953 5.15307
+
+(3) - 100M (Km 3.3)
+	LEBE1
+		Images:	292
+		Time:	26.04.2025 00:13:48 until 26.04.2025 07:53:12
+		Duration:	07:39:24
+		Location:	44.16953 5.15307
+
+(4) - Start 100K
+	ALL2
+		Images:	730
+		Time:	26.04.2025 08:00:25 until 26.04.2025 08:41:42
+		Duration:	00:41:17
+		Location:	44.17916 5.12822
+
+(5) - 100K (Km 7.8) / 50K (Km 7.8)
+	ONG1
+		Images:	3334
+		Time:	26.04.2025 06:50:36 until 26.04.2025 09:58:16
+		Duration:	03:07:40
+		Location:	44.18058 5.19108
+
+(6) - 100K (Km 9.5) / 50K (Km 9.5)
+	LEBE2
+		Images:	2754
+		Time:	26.04.2025 00:13:48 until 26.04.2025 10:17:24
+		Duration:	10:03:36
+		Location:	44.19387 5.18357
+
+	LEBE2LS1
+		Images:	3517
+		Time:	26.04.2025 07:42:56 until 26.04.2025 10:16:45
+		Duration:	02:33:49
+		Location:	44.19387 5.18357
+
+(7) - 100K (Km 10.5) / 50K (Km 10.5)
+	EB1
+		Images:	5576
+		Time:	26.04.2025 07:35:55 until 26.04.2025 10:19:18
+		Duration:	02:43:23
+		Location:	44.19426 5.18190
+
+	EB1DRONE1
+		Images:	54
+		Time:	26.04.2025 08:45:46 until 27.04.2025 14:09:24
+		Duration:	1.05:23:38
+		Location:	44.19426 5.18190
+
+	EB1LS1
+		Images:	5729
+		Time:	26.04.2025 07:30:08 until 26.04.2025 10:21:39
+		Duration:	02:51:31
+		Location:	44.19426 5.18190
+
+(8) - 100M (Km 67.8) / 100K (Km 56.5)
+	AGU2
+		Images:	6943
+		Time:	26.04.2025 09:02:30 until 26.04.2025 20:40:33
+		Duration:	11:38:03
+		Location:	44.17427 5.27025
+
+	AGU2LS2
+		Images:	3517
+		Time:	26.04.2025 09:40:54 until 26.04.2025 20:13:21
+		Duration:	10:32:27
+		Location:	44.17427 5.27025
+
+	AGU2LS1
+		Images:	3739
+		Time:	26.04.2025 09:33:01 until 26.04.2025 20:13:54
+		Duration:	10:40:53
+		Location:	44.17427 5.27025
+
+(9) - 100M (Km 77.7) / 100K (Km 66)  / 50K (Km 27.4)
+	ONG2
+		Images:	1960
+		Time:	26.04.2025 11:31:24 until 26.04.2025 20:35:19
+		Duration:	09:03:55
+		Location:	44.16797 5.17359
+
+(10) - 100M (Km 78.5) / 100K (Km 66.8)  / 50K (Km 28.2)
+	LEBE3
+		Images:	2957
+		Time:	26.04.2025 11:53:11 until 26.04.2025 22:08:13
+		Duration:	10:15:02
+		Location:	44.16773 5.16832
+
+	LEBE3LS1
+		Images:	622
+		Time:	26.04.2025 11:32:46 until 27.04.2025 08:50:26
+		Duration:	21:17:40
+		Location:	44.16773 5.16832
+
+(11) - 100M (Km 118) / 100K (Km 84.5)  / 50K (Km 47)
+	EB2
+		Images:	3838
+		Time:	26.04.2025 11:49:51 until 26.04.2025 18:56:12
+		Duration:	07:06:21
+		Location:	44.18952 5.11064
+
+	EB2LS1
+		Images:	2275
+		Time:	26.04.2025 11:56:13 until 26.04.2025 18:58:21
+		Duration:	07:02:08
+		Location:	44.18952 5.11064
+
+(12) - Finish 100M 100K 50K
+	ALL3
+		Images:	7347
+		Time:	26.04.2025 10:38:20 until 27.04.2025 08:20:20
+		Duration:	21:42:00
+		Location:	44.17916 5.12822
+
+	ALL3LS1
+		Images:	2071
+		Time:	25.04.2025 19:11:42 until 26.04.2025 20:08:23
+		Duration:	1.00:56:41
+		Location:	44.17916 5.12822
+
+	EB3
+		Images:	828
+		Time:	27.04.2025 00:05:52 until 27.04.2025 05:56:42
+		Duration:	05:50:50
+		Location:	44.17916 5.12822
+
+	EB3LS1
+		Images:	2713
+		Time:	26.04.2025 19:33:05 until 27.04.2025 05:55:45
+		Duration:	10:22:40
+		Location:	44.17916 5.12822
+
+(13) - Start 20K
+	LEBE4
+		Images:	268
+		Time:	27.04.2025 08:12:08 until 27.04.2025 08:43:06
+		Duration:	00:30:58
+		Location:	44.17916 5.12822
+
+(14) - 20K (Km 20.5)
+	AGU3
+		Images:	4062
+		Time:	27.04.2025 09:55:35 until 27.04.2025 12:53:47
+		Duration:	02:58:12
+		Location:	44.18254 5.09044
+
+	AGU3LS1
+		Images:	1101
+		Time:	27.04.2025 09:40:55 until 27.04.2025 12:39:07
+		Duration:	02:58:12
+		Location:	44.18254 5.09044
+
+	AGU3LS2
+		Images:	1116
+		Time:	27.04.2025 09:40:54 until 27.04.2025 12:58:02
+		Duration:	03:17:08
+		Location:	44.18254 5.09044
+
+(15) - 20K (Km 21.2)
+	ALL4
+		Images:	1900
+		Time:	27.04.2025 09:53:40 until 27.04.2025 13:02:35
+		Duration:	03:08:55
+		Location:	44.18401 5.08861
+
+	ALL4LS1
+		Images:	4502
+		Time:	27.04.2025 09:40:05 until 27.04.2025 13:04:08
+		Duration:	03:24:03
+		Location:	44.18401 5.08861
+
+(16) - 20K (Km 25.4)
+	ONG3
+		Images:	3458
+		Time:	27.04.2025 09:47:35 until 27.04.2025 14:16:23
+		Duration:	04:28:48
+		Location:	44.18952 5.11064
+
+(17) - Finish 20K
+	LEBE5
+		Images:	4144
+		Time:	27.04.2025 10:13:49 until 27.04.2025 14:43:06
+		Duration:	04:29:17
+		Location:	44.17916 5.12822
+
+	LEBE5LS1
+		Images:	905
+		Time:	27.04.2025 09:00:04 until 27.04.2025 14:44:39
+		Duration:	05:44:35
+		Location:	44.17916 5.12822
+
+(18) - Impressions / Pano
+	PANO1

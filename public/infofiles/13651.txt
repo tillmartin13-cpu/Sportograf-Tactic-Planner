@@ -1,0 +1,60 @@
+EventId: 13651
+Spots: 9
+Total Images: 20259
+Time:	21.06.2025 22:52:11 to 22.06.2025 16:16:10
+Duration: 17:23:59
+
+(1) - Swim - Start
+	AGA1
+		Images:	1863
+		Time:	22.06.2025 09:07:57 until 22.06.2025 12:12:04
+		Duration:	03:04:07
+		Location:	53.10185 12.88914
+
+(2) - km 1 / km 12 Schloss Reinsberg
+	PJE1
+		Images:	2479
+		Time:	21.06.2025 23:47:49 until 22.06.2025 13:18:53
+		Duration:	13:31:04
+		Location:	53.11389 12.86345
+
+	PJE1LS1
+		Images:	1074
+		Time:	21.06.2025 22:52:11 until 22.06.2025 14:36:02
+		Duration:	15:43:51
+		Location:	53.11389 12.86345
+
+(3) - Swim - Transition zone Wasserausstieg Warenthin km 7,4 / km 17,4
+	RES1
+		Images:	2184
+		Time:	22.06.2025 08:19:15 until 22.06.2025 14:27:11
+		Duration:	06:07:56
+		Location:	53.11388 12.86340
+
+	RES1LS1
+		Images:	876
+		Time:	22.06.2025 11:49:31 until 22.06.2025 14:10:41
+		Duration:	02:21:10
+		Location:	53.11388 12.86340
+
+(4) - Finish
+	AGA2
+		Images:	4523
+		Time:	22.06.2025 12:12:26 until 22.06.2025 15:15:51
+		Duration:	03:03:25
+		Location:	53.10185 12.88914
+
+	AGA2LS1
+		Images:	6270
+		Time:	22.06.2025 09:52:15 until 22.06.2025 15:15:41
+		Duration:	05:23:26
+		Location:	53.10185 12.88914
+
+	AGA2LS2
+		Images:	990
+		Time:	22.06.2025 10:26:57 until 22.06.2025 16:16:10
+		Duration:	05:49:13
+		Location:	53.10185 12.88914
+
+(5) - Swim - Impressions / Pano
+	PANO1

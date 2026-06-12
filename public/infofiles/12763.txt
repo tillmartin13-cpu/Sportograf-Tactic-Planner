@@ -1,0 +1,106 @@
+EventId: 12763
+Spots: 15
+Total Images: 78366
+Time:	19.10.2024 07:18:09 to 19.10.2024 16:23:53
+Duration: 09:05:44
+
+(1) - Obstacle 1 mud mile
+	TAT1
+		Images:	7137
+		Time:	19.10.2024 07:55:33 until 19.10.2024 13:11:34
+		Duration:	05:16:01
+		Location:	NULL NULL
+
+(2) - Obstacle 11 funky monkey
+	AVE1
+		Images:	10186
+		Time:	19.10.2024 07:50:41 until 19.10.2024 14:46:05
+		Duration:	06:55:24
+		Location:	NULL NULL
+
+(3) - Obstacle 13 blockness monster
+	STRO1
+		Images:	6279
+		Time:	19.10.2024 08:18:36 until 19.10.2024 14:58:03
+		Duration:	06:39:27
+		Location:	NULL NULL
+
+(4) - Obstacle 14 kiss of mud
+	JBB1
+		Images:	5689
+		Time:	19.10.2024 12:26:10 until 19.10.2024 15:09:02
+		Duration:	02:42:52
+		Location:	NULL NULL
+
+(5) - Obstacle 16 berlin walls
+	IZZY1
+		Images:	7593
+		Time:	19.10.2024 07:53:15 until 19.10.2024 15:37:56
+		Duration:	07:44:41
+		Location:	NULL NULL
+
+(6) - Obstacle 18 everest
+	JOJA1
+		Images:	5038
+		Time:	19.10.2024 11:27:57 until 19.10.2024 15:57:35
+		Duration:	04:29:38
+		Location:	NULL NULL
+
+	BAIC4
+		Images:	1775
+		Time:	19.10.2024 11:45:38 until 19.10.2024 13:44:50
+		Duration:	01:59:12
+		Location:	NULL NULL
+
+(7) - Obstacle 20 arctic enema
+	RUHO1
+		Images:	25461
+		Time:	19.10.2024 10:56:46 until 19.10.2024 16:18:22
+		Duration:	05:21:36
+		Location:	NULL NULL
+
+	BAIC3
+		Images:	781
+		Time:	19.10.2024 11:10:38 until 19.10.2024 11:33:23
+		Duration:	00:22:45
+		Location:	NULL NULL
+
+	BAIC5
+		Images:	558
+		Time:	19.10.2024 14:07:38 until 19.10.2024 14:13:57
+		Duration:	00:06:19
+		Location:	NULL NULL
+
+(8) - Obstacle 21 electroshock therapy
+	NIPE1
+		Images:	7067
+		Time:	19.10.2024 07:42:09 until 19.10.2024 16:23:53
+		Duration:	08:41:44
+		Location:	NULL NULL
+
+	BAIC2
+		Images:	232
+		Time:	19.10.2024 10:54:33 until 19.10.2024 11:09:29
+		Duration:	00:14:56
+		Location:	NULL NULL
+
+(9) - Obstacle 22 festival area
+	CCZ1
+		Images:	144
+		Time:	19.10.2024 07:18:09 until 19.10.2024 08:53:55
+		Duration:	01:35:46
+		Location:	NULL NULL
+
+	BAIC1
+		Images:	409
+		Time:	19.10.2024 08:04:11 until 19.10.2024 10:23:15
+		Duration:	02:19:04
+		Location:	NULL NULL
+
+(10) - Impressions / Pano
+	BAIC4DRONE1
+		Images:	17
+		Time:	19.10.2024 09:25:41 until 19.10.2024 14:23:54
+		Duration:	04:58:13
+		Location:	NULL NULL
+

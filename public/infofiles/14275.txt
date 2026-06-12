@@ -1,0 +1,300 @@
+EventId: 14275
+Spots: 45
+Total Images: 37789
+Time:	12.08.2025 11:26:06 to 17.08.2025 15:30:05
+Duration: 5.04:03:59
+
+(1) - Registration
+	S0BECK1
+		Images:	58
+		Time:	12.08.2025 12:06:39 until 12.08.2025 17:32:38
+		Duration:	05:25:59
+		Location:	46.7994 9.82836
+
+	S0HS1
+		Images:	1046
+		Time:	12.08.2025 11:26:06 until 12.08.2025 18:00:14
+		Duration:	06:34:08
+		Location:	46.7994 9.82836
+
+(2) - Stage 1 Start
+	S1HS1
+		Images:	502
+		Time:	13.08.2025 07:48:23 until 13.08.2025 08:41:48
+		Duration:	00:53:25
+		Location:	46.7994 9.82836
+
+	S1BP1
+		Images:	724
+		Time:	13.08.2025 07:13:43 until 13.08.2025 08:41:21
+		Duration:	01:27:38
+		Location:	46.7994 9.82836
+
+(3) - Stage 1 km3.0
+	S1BECK1
+		Images:	1283
+		Time:	13.08.2025 08:16:38 until 13.08.2025 08:54:17
+		Duration:	00:37:39
+		Location:	46.79145 9.82566
+
+(4) - Stage 1 km60.0
+	S1HS2
+		Images:	1770
+		Time:	13.08.2025 10:55:35 until 13.08.2025 16:10:10
+		Duration:	05:14:35
+		Location:	46.58166 9.83288
+
+	S1HS2LS1
+		Images:	620
+		Time:	13.08.2025 10:47:51 until 13.08.2025 15:41:33
+		Duration:	04:53:42
+		Location:	46.58166 9.83288
+
+(5) - Stage 1 km61.0
+	S1BECK2
+		Images:	1409
+		Time:	13.08.2025 10:24:43 until 13.08.2025 16:17:45
+		Duration:	05:53:02
+		Location:	46.58301 9.84090
+
+	S1BECK2LS1
+		Images:	681
+		Time:	13.08.2025 10:46:13 until 13.08.2025 16:17:34
+		Duration:	05:31:21
+		Location:	46.58301 9.84090
+
+(6) - Stage 1 km62.5
+	S1BP2
+		Images:	1277
+		Time:	13.08.2025 11:01:48 until 13.08.2025 16:24:39
+		Duration:	05:22:51
+		Location:	46.58564 9.85906
+
+	S1BP2LS1
+		Images:	546
+		Time:	13.08.2025 10:38:16 until 13.08.2025 16:28:19
+		Duration:	05:50:03
+		Location:	46.58564 9.85906
+
+(7) - Stage 1 km62.7
+	S1BP2LS2
+		Images:	597
+		Time:	13.08.2025 10:53:32 until 13.08.2025 16:30:45
+		Duration:	05:37:13
+		Location:	46.58634 9.86100
+
+(8) - Stage 2 km23.0
+	S2BP1
+		Images:	1368
+		Time:	14.08.2025 06:35:39 until 14.08.2025 12:35:15
+		Duration:	05:59:36
+		Location:	46.50715 9.82217
+
+	S2BP1LS1
+		Images:	602
+		Time:	14.08.2025 08:19:02 until 14.08.2025 11:58:33
+		Duration:	03:39:31
+		Location:	46.50715 9.82217
+
+	S2BP1LS2
+		Images:	1028
+		Time:	14.08.2025 08:42:43 until 14.08.2025 12:48:07
+		Duration:	04:05:24
+		Location:	46.50715 9.82217
+
+(9) - Stage 2 km31.0
+	S2BECK1
+		Images:	1579
+		Time:	14.08.2025 10:11:39 until 14.08.2025 13:22:22
+		Duration:	03:10:43
+		Location:	46.48805 9.79595
+
+	S2BECK1LS1
+		Images:	825
+		Time:	14.08.2025 09:47:02 until 14.08.2025 13:29:36
+		Duration:	03:42:34
+		Location:	46.48805 9.79595
+
+(10) - Stage 2 km32.5
+	S2HS1
+		Images:	629
+		Time:	14.08.2025 09:04:58 until 14.08.2025 13:30:15
+		Duration:	04:25:17
+		Location:	46.48265 9.80607
+
+	S2HS1LS2
+		Images:	576
+		Time:	14.08.2025 08:40:33 until 14.08.2025 13:30:06
+		Duration:	04:49:33
+		Location:	46.48265 9.80607
+
+	S2HS1LS1
+		Images:	749
+		Time:	14.08.2025 09:21:06 until 14.08.2025 13:30:51
+		Duration:	04:09:45
+		Location:	46.48265 9.80607
+
+(11) - Stage 3 Start
+	S3HS1LS1
+		Images:	237
+		Time:	15.08.2025 07:04:24 until 15.08.2025 09:55:01
+		Duration:	02:50:37
+		Location:	46.41083 10.02185
+
+(12) - Stage 3 km0.3
+	S3HS1
+		Images:	1263
+		Time:	15.08.2025 07:31:51 until 15.08.2025 10:45:46
+		Duration:	03:13:55
+		Location:	46.41040 10.02242
+
+(13) - Stage 3 km5.0
+	S3BECK1
+		Images:	1590
+		Time:	15.08.2025 06:44:07 until 15.08.2025 11:08:51
+		Duration:	04:24:44
+		Location:	46.40328 10.01408
+
+	S3BECK1LS1
+		Images:	729
+		Time:	15.08.2025 07:38:17 until 15.08.2025 11:08:55
+		Duration:	03:30:38
+		Location:	46.40328 10.01408
+
+(14) - Stage 3 km14.0
+	S3BP1
+		Images:	1124
+		Time:	15.08.2025 06:31:59 until 15.08.2025 11:43:27
+		Duration:	05:11:28
+		Location:	46.45056 9.94749
+
+	S3BP1LS2
+		Images:	662
+		Time:	15.08.2025 07:14:13 until 15.08.2025 11:47:27
+		Duration:	04:33:14
+		Location:	46.45056 9.94749
+
+	S3BP1LS1
+		Images:	663
+		Time:	15.08.2025 07:16:25 until 15.08.2025 11:45:40
+		Duration:	04:29:15
+		Location:	46.45056 9.94749
+
+(15) - Stage 4 km32.0
+	S4HS1
+		Images:	1132
+		Time:	16.08.2025 09:39:29 until 16.08.2025 12:58:30
+		Duration:	03:19:01
+		Location:	46.77132 9.8809
+
+(16) - Stage 4 km33.0
+	S4BP1
+		Images:	1434
+		Time:	16.08.2025 09:41:14 until 16.08.2025 13:19:29
+		Duration:	03:38:15
+		Location:	46.70253 9.92597
+
+	S4BP1LS1
+		Images:	677
+		Time:	16.08.2025 09:29:35 until 16.08.2025 13:26:34
+		Duration:	03:56:59
+		Location:	46.70253 9.92597
+
+(17) - Stage 4 km39.5
+	S4BECK1
+		Images:	1194
+		Time:	16.08.2025 10:01:34 until 16.08.2025 13:53:28
+		Duration:	03:51:54
+		Location:	46.74545 9.90641
+
+	S4BECK1LS1
+		Images:	1044
+		Time:	16.08.2025 09:56:19 until 16.08.2025 13:53:49
+		Duration:	03:57:30
+		Location:	46.74545 9.90641
+
+(18) - Stage 5 km0.2
+	S5BP1
+		Images:	328
+		Time:	17.08.2025 07:56:41 until 17.08.2025 09:06:13
+		Duration:	01:09:32
+		Location:	46.7994 9.82836
+
+(19) - Stage 5 km4.5
+	S5HS4
+		Images:	1436
+		Time:	17.08.2025 08:23:58 until 17.08.2025 09:35:54
+		Duration:	01:11:56
+		Location:	46.80717 9.82344
+
+(20) - Stage 5 km8.0
+	S5BECK1
+		Images:	1067
+		Time:	17.08.2025 08:59:13 until 17.08.2025 10:43:28
+		Duration:	01:44:15
+		Location:	46.74545 9.90384
+
+	S5BECK1LS1
+		Images:	1088
+		Time:	17.08.2025 08:55:05 until 17.08.2025 10:43:29
+		Duration:	01:48:24
+		Location:	46.74545 9.90384
+
+(21) - Stage 5 0.1km before Finish
+	S5BP2LS1
+		Images:	353
+		Time:	17.08.2025 10:56:53 until 17.08.2025 15:19:53
+		Duration:	04:23:00
+		Location:	46.7994 9.82836
+
+(22) - Stage 5 Finish
+	S5BP2
+		Images:	1096
+		Time:	17.08.2025 10:57:09 until 17.08.2025 15:21:21
+		Duration:	04:24:12
+		Location:	46.7994 9.82836
+
+	S5BP2LS2
+		Images:	486
+		Time:	17.08.2025 09:43:00 until 17.08.2025 15:20:01
+		Duration:	05:37:01
+		Location:	46.7994 9.82836
+
+	S5BP1DRONE1
+		Images:	20
+		Time:	13.08.2025 13:41:31 until 17.08.2025 08:29:43
+		Duration:	3.18:48:12
+		Location:	46.7994 9.82836
+
+	S5BECK2
+		Images:	28
+		Time:	17.08.2025 14:21:36 until 17.08.2025 14:25:48
+		Duration:	00:04:12
+		Location:	46.7994 9.82836
+
+	S5HS3
+		Images:	183
+		Time:	17.08.2025 10:57:22 until 17.08.2025 15:06:52
+		Duration:	04:09:30
+		Location:	46.7994 9.82836
+
+	S5HS2LS1
+		Images:	517
+		Time:	17.08.2025 10:13:36 until 17.08.2025 15:19:48
+		Duration:	05:06:12
+		Location:	46.7994 9.82836
+
+(23) - Stage 5 Medal Wall
+	S5HS2
+		Images:	1222
+		Time:	17.08.2025 11:25:34 until 17.08.2025 15:28:39
+		Duration:	04:03:05
+		Location:	46.7994 9.82836
+
+(24) - Stage 5 Ceremony
+	S5BECK3
+		Images:	347
+		Time:	17.08.2025 14:49:52 until 17.08.2025 15:30:05
+		Duration:	00:40:13
+		Location:	46.7994 9.82836
+

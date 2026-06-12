@@ -1,0 +1,74 @@
+EventId: 13521
+Spots: 10
+Total Images: 17139
+Time:	28.09.2025 08:26:06 to 28.09.2025 16:06:44
+Duration: 07:40:38
+
+(1) - 94.0 km
+	CC2
+		Images:	3800
+		Time:	28.09.2025 10:47:28 until 28.09.2025 14:57:54
+		Duration:	04:10:26
+		Location:	NULL NULL
+
+(2) - 11.0 km
+	CC1
+		Images:	2686
+		Time:	28.09.2025 09:26:00 until 28.09.2025 09:58:37
+		Duration:	00:32:37
+		Location:	NULL NULL
+
+(3) - Start
+	GAT1
+		Images:	140
+		Time:	28.09.2025 08:26:06 until 28.09.2025 08:52:24
+		Duration:	00:26:18
+		Location:	NULL NULL
+
+(4) - Finish
+	GAT2
+		Images:	3414
+		Time:	28.09.2025 10:40:45 until 28.09.2025 16:05:04
+		Duration:	05:24:19
+		Location:	NULL NULL
+
+	GAT2LS1
+		Images:	1228
+		Time:	28.09.2025 08:57:00 until 28.09.2025 16:06:44
+		Duration:	07:09:44
+		Location:	NULL NULL
+
+(5) - 9.0 km
+	LEBE1
+		Images:	1350
+		Time:	28.09.2025 08:58:47 until 28.09.2025 09:49:44
+		Duration:	00:50:57
+		Location:	NULL NULL
+
+(6) - 92.0 km
+	LEBE1DRONE1
+		Images:	43
+		Time:	28.09.2025 08:44:04 until 28.09.2025 14:59:12
+		Duration:	06:15:08
+		Location:	NULL NULL
+
+	LEBE2
+		Images:	1239
+		Time:	28.09.2025 10:37:15 until 28.09.2025 14:18:14
+		Duration:	03:40:59
+		Location:	NULL NULL
+
+(7) - 10.0 km
+	MAPA1
+		Images:	1050
+		Time:	28.09.2025 08:59:36 until 28.09.2025 09:53:23
+		Duration:	00:53:47
+		Location:	NULL NULL
+
+(8) - 93.0 km
+	MAPA2
+		Images:	2189
+		Time:	28.09.2025 10:48:29 until 28.09.2025 14:18:21
+		Duration:	03:29:52
+		Location:	NULL NULL
+

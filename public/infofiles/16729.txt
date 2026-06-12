@@ -1,0 +1,114 @@
+EventId: 16729
+Spots: 17
+Total Images: 102715
+Time:	25.05.2025 06:31:30 to 25.05.2025 14:06:22
+Duration: 07:34:52
+
+(1) - Start
+	BANG1
+		Images:	300
+		Time:	25.05.2025 06:45:18 until 25.05.2025 07:22:39
+		Duration:	00:37:21
+		Location:	44.48095 -73.22187
+
+(2) - 0.8 mi Main Street
+	BHCA1
+		Images:	2356
+		Time:	25.05.2025 07:16:40 until 25.05.2025 08:15:38
+		Duration:	00:58:58
+		Location:	44.47581 -73.21543
+
+	BHCA1LS1
+		Images:	2408
+		Time:	25.05.2025 07:16:45 until 25.05.2025 08:14:36
+		Duration:	00:57:51
+		Location:	44.47581 -73.21543
+
+(3) - 5.5 mi Along the Burlington Bike Path
+	BHCA2
+		Images:	4686
+		Time:	25.05.2025 08:39:08 until 25.05.2025 11:39:05
+		Duration:	02:59:57
+		Location:	44.47302 -73.22054
+
+	BHCA2LS1
+		Images:	4730
+		Time:	25.05.2025 08:35:32 until 25.05.2025 11:40:57
+		Duration:	03:05:25
+		Location:	44.47302 -73.22054
+
+(4) - 5.8 mi Bike Path onto College Street
+	BANG2
+		Images:	9554
+		Time:	25.05.2025 07:39:52 until 25.05.2025 09:07:32
+		Duration:	01:27:40
+		Location:	44.47682 -73.22034
+
+(5) - 6.9 mi Cherry St after turn from Church St.
+	BJHU1
+		Images:	3280
+		Time:	25.05.2025 07:41:41 until 25.05.2025 08:48:07
+		Duration:	01:06:26
+		Location:	44.47930 -73.21394
+
+(6) - 6.9 mi Church Street before turn onto Cherry St.
+	BLCI1
+		Images:	5069
+		Time:	25.05.2025 07:09:04 until 25.05.2025 08:54:22
+		Duration:	01:45:18
+		Location:	44.47930 -73.21394
+
+(7) - 12.5 mi Island Line Trail, 1/2 mile to Finish
+	BICAL1
+		Images:	8239
+		Time:	25.05.2025 08:01:59 until 25.05.2025 13:25:28
+		Duration:	05:23:29
+		Location:	44.48585 -73.22754
+
+(8) - 13.0 mi Island Line Trail, 800 meters to Finish
+	BJHU2
+		Images:	5124
+		Time:	25.05.2025 09:39:46 until 25.05.2025 13:11:17
+		Duration:	03:31:31
+		Location:	44.48352 -73.22411
+
+	BJHU2LS1
+		Images:	9983
+		Time:	25.05.2025 09:35:56 until 25.05.2025 12:23:32
+		Duration:	02:47:36
+		Location:	44.48352 -73.22411
+
+	BLCI2
+		Images:	12474
+		Time:	25.05.2025 09:38:09 until 25.05.2025 13:37:39
+		Duration:	03:59:30
+		Location:	44.48352 -73.22411
+
+(9) - 26.1 mi In the finish chute
+	BHCA3
+		Images:	937
+		Time:	25.05.2025 12:18:12 until 25.05.2025 13:57:48
+		Duration:	01:39:36
+		Location:	44.48064 -73.22237
+
+	BHCA3LS1
+		Images:	1638
+		Time:	25.05.2025 12:16:52 until 25.05.2025 13:11:41
+		Duration:	00:54:49
+		Location:	44.48064 -73.22237
+
+(10) - Finish
+	BANG3
+		Images:	18347
+		Time:	25.05.2025 09:20:37 until 25.05.2025 14:06:22
+		Duration:	04:45:45
+		Location:	44.48011 -73.22219
+
+	BANG3LS1
+		Images:	13590
+		Time:	25.05.2025 06:31:30 until 25.05.2025 13:23:29
+		Duration:	06:51:59
+		Location:	44.48011 -73.22219
+
+(11) - Impressions / Pano
+	PANO1

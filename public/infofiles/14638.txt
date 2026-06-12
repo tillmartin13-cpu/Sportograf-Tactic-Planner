@@ -1,0 +1,78 @@
+EventId: 14638
+Spots: 12
+Total Images: 27824
+Time:	28.06.2025 08:15:53 to 29.06.2025 14:31:27
+Duration: 1.06:15:34
+
+(1) - Start
+	RYS1
+		Images:	927
+		Time:	28.06.2025 08:15:53 until 29.06.2025 13:31:15
+		Duration:	1.05:15:22
+		Location:	52.50506 13.52600
+
+(2) - Affenhaus
+	LEM2
+		Images:	497
+		Time:	29.06.2025 12:27:45 until 29.06.2025 13:35:24
+		Duration:	01:07:39
+		Location:	52.50749 13.52702
+
+	LEM2LS1
+		Images:	137
+		Time:	29.06.2025 13:20:50 until 29.06.2025 13:35:28
+		Duration:	00:14:38
+		Location:	52.50749 13.52702
+
+	LEM2LS2
+		Images:	134
+		Time:	29.06.2025 13:22:14 until 29.06.2025 13:35:28
+		Duration:	00:13:14
+		Location:	52.50749 13.52702
+
+	LEM1
+		Images:	2868
+		Time:	29.06.2025 08:45:42 until 29.06.2025 11:41:48
+		Duration:	02:56:06
+		Location:	52.50751 13.53075
+
+	LEM1LS1
+		Images:	1595
+		Time:	29.06.2025 09:13:44 until 29.06.2025 11:36:56
+		Duration:	02:23:12
+		Location:	52.50751 13.53075
+
+	LEM1LS2
+		Images:	1533
+		Time:	29.06.2025 09:14:19 until 29.06.2025 13:35:28
+		Duration:	04:21:09
+		Location:	52.50751 13.53075
+
+(3) - Lange Allee
+	DAVR1
+		Images:	5336
+		Time:	28.06.2025 08:43:04 until 29.06.2025 14:24:20
+		Duration:	1.05:41:16
+		Location:	52.49997 13.52350
+
+(4) - Finish
+	RYS2
+		Images:	6780
+		Time:	28.06.2025 11:43:12 until 29.06.2025 14:28:42
+		Duration:	1.02:45:30
+		Location:	52.50506 13.52600
+
+	RYS2LS1
+		Images:	3876
+		Time:	29.06.2025 08:57:24 until 29.06.2025 14:31:27
+		Duration:	05:34:03
+		Location:	52.50506 13.52600
+
+	RYS2LS2
+		Images:	4128
+		Time:	29.06.2025 08:43:59 until 29.06.2025 14:31:27
+		Duration:	05:47:28
+		Location:	52.50506 13.52600
+
+(5) - Impressions / Pano
+	PANO1

@@ -1,0 +1,305 @@
+EventId: 15478
+Spots: 48
+Total Images: 506305
+Time:	11.10.2025 10:08:05 to 12.10.2025 14:31:32
+Duration: 1.04:23:27
+
+(1) - BEFORE FINISH
+	BARSE1
+		Images:	2909
+		Time:	12.10.2025 12:23:37 until 12.10.2025 14:31:20
+		Duration:	02:07:43
+		Location:	53.45983 -2.28378
+
+	BCNS1
+		Images:	4188
+		Time:	12.10.2025 12:32:09 until 12.10.2025 14:18:49
+		Duration:	01:46:40
+		Location:	53.45983 -2.28378
+
+	BGU1
+		Images:	7180
+		Time:	12.10.2025 11:19:59 until 12.10.2025 14:18:52
+		Duration:	02:58:53
+		Location:	53.45983 -2.28378
+
+	BRLW1
+		Images:	14748
+		Time:	12.10.2025 10:31:43 until 12.10.2025 14:30:29
+		Duration:	03:58:46
+		Location:	53.45983 -2.28378
+
+	BSAL1
+		Images:	1694
+		Time:	12.10.2025 12:39:13 until 12.10.2025 13:45:12
+		Duration:	01:05:59
+		Location:	53.45983 -2.28378
+
+	BSHP1
+		Images:	7688
+		Time:	12.10.2025 11:20:16 until 12.10.2025 14:30:53
+		Duration:	03:10:37
+		Location:	53.45983 -2.28378
+
+	BTOMY1
+		Images:	5326
+		Time:	12.10.2025 12:28:26 until 12.10.2025 14:30:54
+		Duration:	02:02:28
+		Location:	53.45983 -2.28378
+
+	BWIC1
+		Images:	8988
+		Time:	12.10.2025 12:33:55 until 12.10.2025 14:29:44
+		Duration:	01:55:49
+		Location:	53.45983 -2.28378
+
+(2) - Finish
+	BCUP1
+		Images:	9886
+		Time:	12.10.2025 09:43:46 until 12.10.2025 12:24:50
+		Duration:	02:41:04
+		Location:	53.45924 -2.28434
+
+	BCUP1LS1
+		Images:	9368
+		Time:	12.10.2025 07:50:55 until 12.10.2025 14:02:15
+		Duration:	06:11:20
+		Location:	53.45924 -2.28434
+
+	BDAHA1
+		Images:	1926
+		Time:	12.10.2025 12:19:20 until 12.10.2025 14:31:20
+		Duration:	02:12:00
+		Location:	53.45924 -2.28434
+
+	BDP1
+		Images:	28140
+		Time:	12.10.2025 09:24:30 until 12.10.2025 14:30:47
+		Duration:	05:06:17
+		Location:	53.45924 -2.28434
+
+	BDP1LS1
+		Images:	11539
+		Time:	12.10.2025 07:52:27 until 12.10.2025 13:47:53
+		Duration:	05:55:26
+		Location:	53.45924 -2.28434
+
+	BJUW1
+		Images:	14692
+		Time:	12.10.2025 08:43:28 until 12.10.2025 12:13:43
+		Duration:	03:30:15
+		Location:	53.45924 -2.28434
+
+	BJUW1LS1
+		Images:	10366
+		Time:	12.10.2025 08:36:48 until 12.10.2025 13:19:11
+		Duration:	04:42:23
+		Location:	53.45924 -2.28434
+
+	BKYY1
+		Images:	15098
+		Time:	12.10.2025 10:02:30 until 12.10.2025 14:31:32
+		Duration:	04:29:02
+		Location:	53.45924 -2.28434
+
+	BYCNA1
+		Images:	11788
+		Time:	12.10.2025 12:34:49 until 12.10.2025 14:31:17
+		Duration:	01:56:28
+		Location:	53.45924 -2.28434
+
+(3) - LONGFORD PARK
+	AACB1
+		Images:	20567
+		Time:	12.10.2025 08:21:31 until 12.10.2025 13:29:01
+		Duration:	05:07:30
+		Location:	53.44427 -2.29561
+
+	ASTA1
+		Images:	6668
+		Time:	12.10.2025 08:23:03 until 12.10.2025 13:28:57
+		Duration:	05:05:54
+		Location:	53.44427 -2.29561
+
+(4) - MEDALS
+	BKBH1
+		Images:	5233
+		Time:	12.10.2025 07:56:50 until 12.10.2025 14:28:41
+		Duration:	06:31:51
+		Location:	53.45806 -2.28726
+
+	BKLP1
+		Images:	3898
+		Time:	12.10.2025 08:38:33 until 12.10.2025 13:43:30
+		Duration:	05:04:57
+		Location:	53.45806 -2.28726
+
+	BKSTH1
+		Images:	10358
+		Time:	12.10.2025 07:58:46 until 12.10.2025 14:22:07
+		Duration:	06:23:21
+		Location:	53.45806 -2.28726
+
+	BMIMA1
+		Images:	10171
+		Time:	12.10.2025 07:53:38 until 12.10.2025 14:21:57
+		Duration:	06:28:19
+		Location:	53.45806 -2.28726
+
+	BMPOL1
+		Images:	7542
+		Time:	12.10.2025 07:56:49 until 12.10.2025 14:15:50
+		Duration:	06:19:01
+		Location:	53.45806 -2.28726
+
+	BRD1
+		Images:	3481
+		Time:	12.10.2025 07:59:29 until 12.10.2025 14:10:30
+		Duration:	06:11:01
+		Location:	53.45806 -2.28726
+
+(5) - MILE 1-OUTBOUND
+	AARSE1
+		Images:	6313
+		Time:	12.10.2025 08:58:43 until 12.10.2025 12:08:22
+		Duration:	03:09:39
+		Location:	53.47131 -2.26325
+
+	ARLW1
+		Images:	15919
+		Time:	11.10.2025 10:08:05 until 12.10.2025 11:20:31
+		Duration:	1.01:12:26
+		Location:	53.47131 -2.26325
+
+	ASAL1
+		Images:	3990
+		Time:	12.10.2025 08:52:27 until 12.10.2025 11:19:26
+		Duration:	02:26:59
+		Location:	53.47131 -2.26325
+
+	AWIC1
+		Images:	13054
+		Time:	12.10.2025 09:04:32 until 12.10.2025 11:20:04
+		Duration:	02:15:32
+		Location:	53.47131 -2.26325
+
+(6) - MILE 1-RETURN
+	ACNS1
+		Images:	15016
+		Time:	11.10.2025 13:45:30 until 12.10.2025 11:24:18
+		Duration:	21:38:48
+		Location:	53.47137 -2.26285
+
+	ADAHA1
+		Images:	4896
+		Time:	12.10.2025 09:00:02 until 12.10.2025 11:24:10
+		Duration:	02:24:08
+		Location:	53.47137 -2.26285
+
+	ATOMY1
+		Images:	10051
+		Time:	12.10.2025 08:51:35 until 12.10.2025 11:24:06
+		Duration:	02:32:31
+		Location:	53.47137 -2.26285
+
+	AYCAN1
+		Images:	31347
+		Time:	12.10.2025 08:46:33 until 12.10.2025 11:24:10
+		Duration:	02:37:37
+		Location:	53.47137 -2.26285
+
+(7) - MILE 12
+	BBME1
+		Images:	6441
+		Time:	12.10.2025 08:33:48 until 12.10.2025 13:55:43
+		Duration:	05:21:55
+		Location:	53.45127 -2.27302
+
+	BGO1
+		Images:	5102
+		Time:	12.10.2025 08:43:40 until 12.10.2025 13:54:19
+		Duration:	05:10:39
+		Location:	53.45127 -2.27302
+
+(8) - OLD TRAFFORD
+	AKMIN1
+		Images:	17059
+		Time:	12.10.2025 09:08:18 until 12.10.2025 11:52:49
+		Duration:	02:44:31
+		Location:	53.46387 -2.28888
+
+	AMMAL1
+		Images:	11682
+		Time:	12.10.2025 09:08:25 until 12.10.2025 11:52:13
+		Duration:	02:43:48
+		Location:	53.46387 -2.28888
+
+	APHA1
+		Images:	30692
+		Time:	12.10.2025 07:58:26 until 12.10.2025 11:52:49
+		Duration:	03:54:23
+		Location:	53.46387 -2.28888
+
+(9) - ST ANN'S CHURCH
+	AAAS1
+		Images:	16069
+		Time:	12.10.2025 09:07:17 until 12.10.2025 12:15:41
+		Duration:	03:08:24
+		Location:	53.44838 -2.30692
+
+	AGUY1
+		Images:	12671
+		Time:	12.10.2025 08:47:21 until 12.10.2025 12:15:48
+		Duration:	03:28:27
+		Location:	53.44838 -2.30692
+
+	APDA1
+		Images:	8386
+		Time:	12.10.2025 09:09:28 until 12.10.2025 12:15:09
+		Duration:	03:05:41
+		Location:	53.44838 -2.30692
+
+(10) - Start
+	ADP1
+		Images:	892
+		Time:	12.10.2025 07:41:52 until 12.10.2025 09:18:06
+		Duration:	01:36:14
+		Location:	53.46372 -2.28324
+
+	AGU1
+		Images:	5780
+		Time:	12.10.2025 08:17:42 until 12.10.2025 11:01:34
+		Duration:	02:43:52
+		Location:	53.46372 -2.28324
+
+	AKYY1
+		Images:	443
+		Time:	12.10.2025 07:45:15 until 12.10.2025 09:14:26
+		Duration:	01:29:11
+		Location:	53.46372 -2.28324
+
+	ASHP1
+		Images:	6910
+		Time:	12.10.2025 08:10:13 until 12.10.2025 11:04:38
+		Duration:	02:54:25
+		Location:	53.46372 -2.28324
+
+(11) - STRATFORD PUBLIC HALL
+	ADANO1
+		Images:	18873
+		Time:	12.10.2025 08:57:10 until 12.10.2025 12:18:14
+		Duration:	03:21:04
+		Location:	53.44607 -2.30959
+
+	ALOT1
+		Images:	13596
+		Time:	12.10.2025 09:03:08 until 12.10.2025 12:16:02
+		Duration:	03:12:54
+		Location:	53.44607 -2.30959
+
+	AMSO1
+		Images:	17681
+		Time:	12.10.2025 08:48:27 until 12.10.2025 12:09:45
+		Duration:	03:21:18
+		Location:	53.44607 -2.30959
+

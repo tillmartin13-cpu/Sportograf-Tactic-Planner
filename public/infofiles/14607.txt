@@ -1,0 +1,218 @@
+EventId: 14607
+Spots: 32
+Total Images: 39617
+Time:	05.04.2025 07:03:18 to 06.04.2025 11:18:43
+Duration: 1.04:15:25
+
+(1) - Rolling Mud after start
+	FRN1
+		Images:	335
+		Time:	05.04.2025 08:01:58 until 06.04.2025 11:18:43
+		Duration:	1.03:16:45
+		Location:	45.82096 15.81124
+
+	DDF1
+		Images:	293
+		Time:	05.04.2025 08:14:48 until 06.04.2025 08:51:07
+		Duration:	1.00:36:19
+		Location:	45.82096 15.81124
+
+	NBE1
+		Images:	189
+		Time:	05.04.2025 08:15:18 until 05.04.2025 09:16:56
+		Duration:	01:01:38
+		Location:	45.82096 15.81124
+
+(2) - Obstacle 5 Stairway to Sparta
+	MATR1
+		Images:	1547
+		Time:	05.04.2025 08:40:03 until 06.04.2025 09:42:22
+		Duration:	1.01:02:19
+		Location:	45.82547 15.81822
+
+(3) - Obstacle 11 Bucket Carry
+	MATR1LS1
+		Images:	465
+		Time:	05.04.2025 07:03:18 until 05.04.2025 09:58:41
+		Duration:	02:55:23
+		Location:	45.82547 15.81822
+
+(4) - Obstacle 9 Vertical Net
+	DRN1
+		Images:	702
+		Time:	05.04.2025 08:28:03 until 05.04.2025 09:16:13
+		Duration:	00:48:10
+		Location:	45.82588 15.81473
+
+(5) - Obstacle 10 Balance Wall
+	GAZ1
+		Images:	1526
+		Time:	05.04.2025 08:29:17 until 06.04.2025 10:39:35
+		Duration:	1.02:10:18
+		Location:	45.82588 15.81473
+
+(6) - Obstacle 24 Log Carry
+	LULE1
+		Images:	3990
+		Time:	05.04.2025 10:05:18 until 05.04.2025 13:21:59
+		Duration:	03:16:41
+		Location:	45.82601 15.80213
+
+	LULE1LS1
+		Images:	865
+		Time:	05.04.2025 07:57:18 until 05.04.2025 13:23:00
+		Duration:	05:25:42
+		Location:	45.82601 15.80213
+
+	LULE1LS2
+		Images:	657
+		Time:	05.04.2025 08:08:38 until 05.04.2025 13:19:37
+		Duration:	05:10:59
+		Location:	45.82601 15.80213
+
+(7) - Obstacle 30 Barbed Wire
+	GAZ2
+		Images:	2229
+		Time:	05.04.2025 09:49:14 until 05.04.2025 14:03:23
+		Duration:	04:14:09
+		Location:	45.82111 15.80964
+
+(8) - Obstacle 31 Atlas Carry
+	DDF2
+		Images:	893
+		Time:	05.04.2025 09:33:50 until 05.04.2025 14:05:25
+		Duration:	04:31:35
+		Location:	45.82111 15.80964
+
+(9) - Obstacle 32 tilting ladders
+	DRN2
+		Images:	2168
+		Time:	05.04.2025 09:34:28 until 05.04.2025 14:08:20
+		Duration:	04:33:52
+		Location:	45.82111 15.80964
+
+(10) - Obstacle 32 loop
+	DRN2LS1
+		Images:	101
+		Time:	05.04.2025 11:26:02 until 05.04.2025 14:08:29
+		Duration:	02:42:27
+		Location:	45.82111 15.80964
+
+(11) - Finish
+	FRN1LS1
+		Images:	2763
+		Time:	05.04.2025 07:43:48 until 05.04.2025 14:46:10
+		Duration:	07:02:22
+		Location:	45.82075 15.81032
+
+	IRG1
+		Images:	5186
+		Time:	05.04.2025 08:14:05 until 06.04.2025 10:38:46
+		Duration:	1.02:24:41
+		Location:	45.82075 15.81032
+
+	GAZ1LS1
+		Images:	1514
+		Time:	05.04.2025 08:37:32 until 05.04.2025 13:10:50
+		Duration:	04:33:18
+		Location:	45.82075 15.81032
+
+(12) - Herotent
+	NBE2
+		Images:	618
+		Time:	05.04.2025 09:53:36 until 05.04.2025 14:24:59
+		Duration:	04:31:23
+		Location:	45.82075 15.81032
+
+(13) - NIGHT Rolling Mud after start
+	FRN2
+		Images:	716
+		Time:	05.04.2025 17:59:00 until 05.04.2025 19:15:56
+		Duration:	01:16:56
+		Location:	45.82096 15.81124
+
+(14) - Obstacle 10 NIGHT_Bucket Carry
+	LULE2
+		Images:	1426
+		Time:	05.04.2025 18:16:44 until 05.04.2025 19:28:36
+		Duration:	01:11:52
+		Location:	45.82547 15.81822
+
+	LULE2LS2
+		Images:	475
+		Time:	05.04.2025 18:06:00 until 05.04.2025 19:33:42
+		Duration:	01:27:42
+		Location:	45.82547 15.81822
+
+	LULE2LS1
+		Images:	703
+		Time:	05.04.2025 17:29:41 until 05.04.2025 19:34:31
+		Duration:	02:04:50
+		Location:	45.82547 15.81822
+
+(15) - Obstacle 15 NIGHT_Barbed Wire
+	IRG2
+		Images:	4403
+		Time:	05.04.2025 17:29:48 until 05.04.2025 19:49:59
+		Duration:	02:20:11
+		Location:	45.82111 15.80964
+
+(16) - Obstacle 16 NIGHT_Atlas Carry
+	MATR2
+		Images:	864
+		Time:	05.04.2025 18:12:28 until 05.04.2025 19:48:20
+		Duration:	01:35:52
+		Location:	45.82111 15.80964
+
+	NBE3
+		Images:	482
+		Time:	05.04.2025 18:28:19 until 05.04.2025 19:49:52
+		Duration:	01:21:33
+		Location:	45.82111 15.80964
+
+(17) - Obstacle 17 NIGHT tilting ladders
+	DRN3
+		Images:	1174
+		Time:	05.04.2025 18:29:03 until 05.04.2025 19:51:27
+		Duration:	01:22:24
+		Location:	45.82111 15.80964
+
+	DRN3LS1
+		Images:	118
+		Time:	05.04.2025 17:14:37 until 05.04.2025 19:40:45
+		Duration:	02:26:08
+		Location:	45.82111 15.80964
+
+(18) - NIGHT Finish
+	GAZ3
+		Images:	1953
+		Time:	05.04.2025 17:58:04 until 05.04.2025 20:02:26
+		Duration:	02:04:22
+		Location:	45.82075 15.81032
+
+	GAZ3LS1
+		Images:	301
+		Time:	05.04.2025 16:28:46 until 05.04.2025 19:02:26
+		Duration:	02:33:40
+		Location:	45.82075 15.81032
+
+	FRN2LS1
+		Images:	506
+		Time:	05.04.2025 18:20:07 until 05.04.2025 19:27:11
+		Duration:	01:07:04
+		Location:	45.82075 15.81032
+
+(19) - NIGHT Hero Tent
+	DDF3
+		Images:	429
+		Time:	05.04.2025 18:33:04 until 05.04.2025 20:05:16
+		Duration:	01:32:12
+		Location:	45.82075 15.81032
+
+(20) - Impressions / Pano
+	FRN1DRONE1
+		Images:	19
+		Time:	05.04.2025 08:46:45 until 05.04.2025 19:34:56
+		Duration:	10:48:11
+		Location:	45.82075 15.81032
+

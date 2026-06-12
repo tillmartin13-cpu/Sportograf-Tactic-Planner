@@ -1,0 +1,99 @@
+EventId: 14571
+Spots: 15
+Total Images: 149557
+Time:	19.09.2025 20:55:32 to 20.09.2025 18:04:50
+Duration: 21:09:18
+
+(1) - Obstacle 5 Sandbag Carry
+	MARS1
+		Images:	11968
+		Time:	20.09.2025 06:48:05 until 20.09.2025 16:25:29
+		Duration:	09:37:24
+		Location:	48.86267 1.88684
+
+	MARS1LS1
+		Images:	4177
+		Time:	20.09.2025 08:42:43 until 20.09.2025 14:52:47
+		Duration:	06:10:04
+		Location:	48.86267 1.88684
+
+(2) - Obstacle 9 Olympus
+	JI1
+		Images:	8089
+		Time:	20.09.2025 07:39:53 until 20.09.2025 16:51:38
+		Duration:	09:11:45
+		Location:	48.89485 1.87944
+
+(3) - Obstacle 16 Atlas Carry
+	THL3
+		Images:	1555
+		Time:	20.09.2025 12:14:39 until 20.09.2025 13:13:01
+		Duration:	00:58:22
+		Location:	48.86545 1.90591
+
+	AFA1
+		Images:	3240
+		Time:	20.09.2025 08:04:52 until 20.09.2025 17:08:26
+		Duration:	09:03:34
+		Location:	48.86545 1.90591
+
+(4) - Obstacle 25 Multiring
+	THL2
+		Images:	3151
+		Time:	20.09.2025 10:06:02 until 20.09.2025 14:41:28
+		Duration:	04:35:26
+		Location:	48.86041 1.89811
+
+	MAI1
+		Images:	16011
+		Time:	20.09.2025 07:49:52 until 20.09.2025 18:04:50
+		Duration:	10:14:58
+		Location:	48.86041 1.89811
+
+(5) - Obstacle 23 Barber Wire
+	THL4
+		Images:	4320
+		Time:	20.09.2025 14:42:59 until 20.09.2025 16:28:23
+		Duration:	01:45:24
+		Location:	48.86112 1.89804
+
+	MASG1
+		Images:	2153
+		Time:	20.09.2025 08:00:22 until 20.09.2025 17:24:12
+		Duration:	09:23:50
+		Location:	48.86112 1.89804
+
+(6) - Obstacle 29 Fire Jump
+	IBLA1
+		Images:	8735
+		Time:	19.09.2025 20:55:32 until 20.09.2025 17:42:43
+		Duration:	20:47:11
+		Location:	48.85879 1.89805
+
+	THL1LS2
+		Images:	38646
+		Time:	20.09.2025 08:16:05 until 20.09.2025 17:43:40
+		Duration:	09:27:35
+		Location:	48.85879 1.89805
+
+	THL1
+		Images:	1019
+		Time:	20.09.2025 06:46:10 until 20.09.2025 14:21:42
+		Duration:	07:35:32
+		Location:	48.85879 1.89805
+
+	THL1LS1
+		Images:	37248
+		Time:	20.09.2025 08:32:20 until 20.09.2025 17:43:55
+		Duration:	09:11:35
+		Location:	48.85879 1.89805
+
+(7) - Herotent
+	JDU1
+		Images:	9245
+		Time:	20.09.2025 05:44:54 until 20.09.2025 18:00:16
+		Duration:	12:15:22
+		Location:	48.86007 1.89677
+
+(8) - Impressions / Pano
+	PANO1

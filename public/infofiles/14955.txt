@@ -1,0 +1,101 @@
+EventId: 14955
+Spots: 14
+Total Images: 86889
+Time:	08.08.2025 18:27:21 to 10.08.2025 14:19:46
+Duration: 1.19:52:25
+
+(1) - Start
+	JANH2
+		Images:	99
+		Time:	09.08.2025 06:59:17 until 09.08.2025 08:18:59
+		Duration:	01:19:42
+		Location:	44.00543 -116.78297
+
+	JIB1
+		Images:	414
+		Time:	08.08.2025 18:27:21 until 09.08.2025 08:29:09
+		Duration:	14:01:48
+		Location:	44.00543 -116.78297
+
+(2) - Obstacle 4 Monkey Bars
+	DMI1
+		Images:	14747
+		Time:	08.08.2025 20:56:50 until 10.08.2025 07:33:49
+		Duration:	1.10:36:59
+		Location:	44.00230 -116.79059
+
+(3) - Obstacle 9 Barbed Wire Crawl
+	AHB1
+		Images:	5356
+		Time:	09.08.2025 07:20:36 until 10.08.2025 07:00:44
+		Duration:	23:40:08
+		Location:	43.99701 -116.77902
+
+(4) - Obstacle 11 Dunk Wall
+	MAPM1
+		Images:	9033
+		Time:	09.08.2025 06:41:46 until 09.08.2025 15:02:01
+		Duration:	08:20:15
+		Location:	43.99722 -116.77830
+
+(5) - Obstacle 15 Multi-Rig
+	JASP1
+		Images:	10751
+		Time:	09.08.2025 07:08:57 until 10.08.2025 07:10:29
+		Duration:	1.00:01:32
+		Location:	44.00135 -116.77567
+
+	DDC1
+		Images:	7688
+		Time:	08.08.2025 18:30:26 until 09.08.2025 15:29:23
+		Duration:	20:58:57
+		Location:	44.00135 -116.77567
+
+(6) - Obstacle 16 Bucket Carry
+	DMCI1
+		Images:	10704
+		Time:	09.08.2025 06:55:54 until 09.08.2025 15:34:32
+		Duration:	08:38:38
+		Location:	44.00219 -116.77572
+
+	DMCI1LS1
+		Images:	5228
+		Time:	08.08.2025 22:06:13 until 09.08.2025 11:14:12
+		Duration:	13:07:59
+		Location:	44.00219 -116.77572
+
+(7) - Obstacle 29 Log Carry
+	JANH1
+		Images:	5702
+		Time:	09.08.2025 08:48:14 until 09.08.2025 17:49:11
+		Duration:	09:00:57
+		Location:	44.00848 -116.78326
+
+(8) - Obstacle 33 A-Frame
+	MRKE1
+		Images:	11158
+		Time:	09.08.2025 07:12:09 until 10.08.2025 07:56:13
+		Duration:	1.00:44:04
+		Location:	44.00537 -116.77941
+
+(9) - Herotent
+	JIB2
+		Images:	5489
+		Time:	09.08.2025 08:57:06 until 09.08.2025 18:46:09
+		Duration:	09:49:03
+		Location:	44.00543 -116.78297
+
+(10) - Festival Area
+	JOD1
+		Images:	483
+		Time:	09.08.2025 08:50:06 until 10.08.2025 13:25:35
+		Duration:	1.04:35:29
+		Location:	44.00543 -116.78297
+
+(11) - Drone
+	DMI1DRONE1
+		Images:	37
+		Time:	09.08.2025 06:53:37 until 10.08.2025 14:19:46
+		Duration:	1.07:26:09
+		Location:	44.00543 -116.78297
+

@@ -1,0 +1,21 @@
+EventId: 14522
+Spots: 3
+Total Images: 8742
+Time:	30.11.2025 14:54:53 to 13.12.2025 18:32:10
+Duration: 13.03:37:17
+
+(1) - Impressions / Pano
+	PANO1
+(2) - none
+	ZZZ1
+		Images:	3871
+		Time:	13.12.2025 14:18:01 until 13.12.2025 18:32:10
+		Duration:	04:14:09
+		Location:	NULL NULL
+
+	ZZZ2
+		Images:	4871
+		Time:	30.11.2025 14:54:53 until 13.12.2025 18:27:03
+		Duration:	13.03:32:10
+		Location:	NULL NULL
+

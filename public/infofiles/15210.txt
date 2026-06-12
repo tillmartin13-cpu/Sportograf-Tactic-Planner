@@ -1,0 +1,528 @@
+EventId: 15210
+Spots: 85
+Total Images: 302407
+Time:	01.01.0001 23:00:00 to 19.01.2025 14:07:26
+Duration: 739268.15:07:26
+
+(1) - Thursday 33km: Thursday: Start
+	XDLE1
+		Images:	140
+		Time:	16.01.2025 06:48:01 until 16.01.2025 07:02:24
+		Duration:	00:14:23
+		Location:	NULL NULL
+
+	XSTW1
+		Images:	972
+		Time:	16.01.2025 06:51:40 until 16.01.2025 07:02:17
+		Duration:	00:10:37
+		Location:	NULL NULL
+
+(2) - Thursday 33km: Finish
+	XDLE2
+		Images:	12776
+		Time:	16.01.2025 09:43:53 until 16.01.2025 17:09:15
+		Duration:	07:25:22
+		Location:	NULL NULL
+
+	XNNG2
+		Images:	1097
+		Time:	16.01.2025 13:11:29 until 16.01.2025 13:52:59
+		Duration:	00:41:30
+		Location:	NULL NULL
+
+	XNNG2LS1
+		Images:	5502
+		Time:	16.01.2025 11:43:21 until 16.01.2025 17:38:52
+		Duration:	05:55:31
+		Location:	NULL NULL
+
+	XNP2
+		Images:	87
+		Time:	16.01.2025 17:12:08 until 16.01.2025 17:45:49
+		Duration:	00:33:41
+		Location:	NULL NULL
+
+	XSTW2
+		Images:	2314
+		Time:	16.01.2025 09:26:37 until 16.01.2025 17:09:15
+		Duration:	07:42:38
+		Location:	NULL NULL
+
+(3) - Thursday 33km: 12,5 km
+	XHTT1
+		Images:	10666
+		Time:	16.01.2025 07:56:48 until 16.01.2025 11:56:32
+		Duration:	03:59:44
+		Location:	NULL NULL
+
+	XHTT1LS1
+		Images:	934
+		Time:	16.01.2025 06:28:22 until 16.01.2025 14:44:17
+		Duration:	08:15:55
+		Location:	NULL NULL
+
+	XHTT1LS2
+		Images:	891
+		Time:	16.01.2025 08:03:25 until 16.01.2025 14:35:33
+		Duration:	06:32:08
+		Location:	NULL NULL
+
+(4) - Thursday 33km: 29,5 km
+	XHTT2
+		Images:	6852
+		Time:	16.01.2025 11:56:49 until 16.01.2025 18:04:25
+		Duration:	06:07:36
+		Location:	NULL NULL
+
+	XHTT2LS1
+		Images:	236
+		Time:	16.01.2025 14:44:30 until 16.01.2025 16:53:10
+		Duration:	02:08:40
+		Location:	NULL NULL
+
+	XHTT2LS2
+		Images:	206
+		Time:	16.01.2025 14:36:49 until 16.01.2025 16:23:51
+		Duration:	01:47:02
+		Location:	NULL NULL
+
+	XLNG1
+		Images:	3064
+		Time:	16.01.2025 07:37:57 until 16.01.2025 19:35:53
+		Duration:	11:57:56
+		Location:	NULL NULL
+
+	XLNG1LS1
+		Images:	632
+		Time:	16.01.2025 08:30:13 until 16.01.2025 15:18:15
+		Duration:	06:48:02
+		Location:	NULL NULL
+
+	XLNG1LS2
+		Images:	676
+		Time:	16.01.2025 09:21:56 until 16.01.2025 15:18:57
+		Duration:	05:57:01
+		Location:	NULL NULL
+
+	XPNQ1
+		Images:	10183
+		Time:	16.01.2025 09:31:46 until 16.01.2025 16:40:16
+		Duration:	07:08:30
+		Location:	NULL NULL
+
+(5) - Thursday 33km: 20,0 km
+	XHYI1
+		Images:	5286
+		Time:	16.01.2025 08:35:08 until 16.01.2025 13:09:00
+		Duration:	04:33:52
+		Location:	NULL NULL
+
+	XNP1
+		Images:	8375
+		Time:	16.01.2025 08:36:07 until 16.01.2025 12:32:31
+		Duration:	03:56:24
+		Location:	NULL NULL
+
+	XNP1LS1
+		Images:	1839
+		Time:	16.01.2025 08:15:42 until 16.01.2025 12:51:26
+		Duration:	04:35:44
+		Location:	NULL NULL
+
+	XNP1LS2
+		Images:	1451
+		Time:	16.01.2025 07:41:55 until 16.01.2025 12:25:43
+		Duration:	04:43:48
+		Location:	NULL NULL
+
+(6) - Thursday 33km: 6,5 km
+	XNNG1
+		Images:	1850
+		Time:	16.01.2025 07:18:09 until 16.01.2025 08:35:45
+		Duration:	01:17:36
+		Location:	NULL NULL
+
+	XNNG1DRONE1
+		Images:	6
+		Time:	01.01.0001 23:00:00 until 27.09.2024 19:15:21
+		Duration:	739154.20:15:21
+		Location:	NULL NULL
+
+	XNNG1LS1
+		Images:	407
+		Time:	16.01.2025 06:52:52 until 16.01.2025 08:49:53
+		Duration:	01:57:01
+		Location:	NULL NULL
+
+	XNNG1LS2
+		Images:	521
+		Time:	16.01.2025 06:43:32 until 16.01.2025 08:45:27
+		Duration:	02:01:55
+		Location:	NULL NULL
+
+(7) - Thursday 33km: Impressions / Pano
+	XPANO1
+(8) - Friday 56km:Start
+	YDLE1
+		Images:	322
+		Time:	17.01.2025 06:34:53 until 17.01.2025 07:01:31
+		Duration:	00:26:38
+		Location:	22.39728 114.32043
+
+	YLNG1
+		Images:	231
+		Time:	17.01.2025 06:02:21 until 17.01.2025 07:01:36
+		Duration:	00:59:15
+		Location:	22.39728 114.32043
+
+	YNNG1
+		Images:	356
+		Time:	17.01.2025 06:06:53 until 17.01.2025 07:03:35
+		Duration:	00:56:42
+		Location:	22.39728 114.32043
+
+(9) - Friday 56km:29,0 km
+	YDLE2
+		Images:	6646
+		Time:	17.01.2025 08:24:12 until 17.01.2025 15:24:01
+		Duration:	06:59:49
+		Location:	22.42217 114.32687
+
+(10) - Friday 56km:20,0 km
+	YHTT1
+		Images:	11398
+		Time:	17.01.2025 06:04:36 until 17.01.2025 12:13:49
+		Duration:	06:09:13
+		Location:	22.40942 114.37530
+
+	YHTT1DRONE1
+		Images:	6
+		Time:	28.09.2024 19:44:00 until 28.09.2024 21:06:54
+		Duration:	01:22:54
+		Location:	22.40942 114.37530
+
+	YHTT1LS1
+		Images:	1025
+		Time:	17.01.2025 07:44:49 until 17.01.2025 11:49:42
+		Duration:	04:04:53
+		Location:	22.40942 114.37530
+
+	YHTT1LS2
+		Images:	940
+		Time:	17.01.2025 08:13:29 until 17.01.2025 11:49:42
+		Duration:	03:36:13
+		Location:	22.40942 114.37530
+
+	YPNQ1
+		Images:	11591
+		Time:	17.01.2025 08:20:41 until 17.01.2025 12:18:55
+		Duration:	03:58:14
+		Location:	22.40942 114.37530
+
+(11) - Friday 56km:55,0 km
+	YHTT2
+		Images:	1353
+		Time:	17.01.2025 16:37:09 until 17.01.2025 20:43:35
+		Duration:	04:06:26
+		Location:	22.40326 114.31790
+
+	YHTT2LS1
+		Images:	904
+		Time:	17.01.2025 15:55:59 until 17.01.2025 20:47:01
+		Duration:	04:51:02
+		Location:	22.40326 114.31790
+
+	YHTT2LS2
+		Images:	1038
+		Time:	17.01.2025 15:19:07 until 17.01.2025 20:55:19
+		Duration:	05:36:12
+		Location:	22.40326 114.31790
+
+	YPNQ2
+		Images:	6634
+		Time:	17.01.2025 15:29:01 until 17.01.2025 20:55:46
+		Duration:	05:26:45
+		Location:	22.40326 114.31790
+
+(12) - Friday 56km:12,0 km
+	YHYI1
+		Images:	4578
+		Time:	16.01.2025 05:57:50 until 17.01.2025 10:40:54
+		Duration:	1.04:43:04
+		Location:	22.37902 114.37998
+
+(13) - Friday 56km:Finish
+	YHYI2
+		Images:	3761
+		Time:	17.01.2025 11:36:05 until 17.01.2025 20:13:57
+		Duration:	08:37:52
+		Location:	22.39728 114.32043
+
+	YNP2
+		Images:	7524
+		Time:	17.01.2025 11:36:05 until 17.01.2025 21:28:30
+		Duration:	09:52:25
+		Location:	22.39728 114.32043
+
+	YNP2LS1
+		Images:	4282
+		Time:	17.01.2025 11:43:21 until 17.01.2025 19:12:24
+		Duration:	07:29:03
+		Location:	22.39728 114.32043
+
+	YNP2LS2
+		Images:	5995
+		Time:	17.01.2025 11:39:28 until 17.01.2025 19:12:25
+		Duration:	07:32:57
+		Location:	22.39728 114.32043
+
+(14) - Friday 56km:51,0 km
+	YLNG2
+		Images:	2438
+		Time:	17.01.2025 11:04:32 until 17.01.2025 17:39:32
+		Duration:	06:35:00
+		Location:	22.42282 114.29610
+
+	YLNG2LS1
+		Images:	1598
+		Time:	17.01.2025 09:30:48 until 17.01.2025 15:52:52
+		Duration:	06:22:04
+		Location:	22.42282 114.29610
+
+	YLNG2LS2
+		Images:	2707
+		Time:	17.01.2025 09:13:33 until 17.01.2025 15:46:22
+		Duration:	06:32:49
+		Location:	22.42282 114.29610
+
+(15) - Friday 56km:49,0 km
+	YNNG2
+		Images:	2259
+		Time:	17.01.2025 10:57:05 until 17.01.2025 16:53:46
+		Duration:	05:56:41
+		Location:	22.42980 114.28568
+
+	YNNG2LS1
+		Images:	584
+		Time:	17.01.2025 12:37:07 until 17.01.2025 17:17:02
+		Duration:	04:39:55
+		Location:	22.42980 114.28568
+
+(16) - Friday 56km:6,5 km
+	YNP1
+		Images:	5367
+		Time:	17.01.2025 06:23:50 until 17.01.2025 11:25:26
+		Duration:	05:01:36
+		Location:	22.37418 114.3406
+
+	YNP1LS1
+		Images:	1184
+		Time:	17.01.2025 06:44:13 until 17.01.2025 11:39:29
+		Duration:	04:55:16
+		Location:	22.37418 114.3406
+
+	YNP1LS2
+		Images:	5237
+		Time:	17.01.2025 06:43:20 until 17.01.2025 09:37:05
+		Duration:	02:53:45
+		Location:	22.37418 114.3406
+
+(17) - Friday 56km:Impressions / Pano
+	YPANO1
+(18) - Sat/Sun 103km:12,0 km
+	HTT1
+		Images:	14700
+		Time:	18.01.2025 07:56:26 until 18.01.2025 11:57:52
+		Duration:	04:01:26
+		Location:	22.38039 114.37708
+
+	HTT1LS1
+		Images:	2498
+		Time:	18.01.2025 07:14:22 until 18.01.2025 10:26:37
+		Duration:	03:12:15
+		Location:	22.38039 114.37708
+
+	HTT1LS2
+		Images:	2031
+		Time:	18.01.2025 06:21:35 until 18.01.2025 10:40:41
+		Duration:	04:19:06
+		Location:	22.38039 114.37708
+
+(19) - Sat/Sun 103km:75,0 km
+	HTT2
+		Images:	2627
+		Time:	18.01.2025 12:09:07 until 18.01.2025 23:46:49
+		Duration:	11:37:42
+		Location:	22.35574 114.19253
+
+	HTT2LS1
+		Images:	5278
+		Time:	18.01.2025 16:38:13 until 19.01.2025 04:43:58
+		Duration:	12:05:45
+		Location:	22.35574 114.19253
+
+(20) - Sat/Sun 103km:20,0 km
+	HYI1
+		Images:	8125
+		Time:	18.01.2025 08:15:36 until 18.01.2025 12:14:15
+		Duration:	03:58:39
+		Location:	22.41063 114.37456
+
+	PNQ1
+		Images:	17964
+		Time:	18.01.2025 08:38:15 until 18.01.2025 12:15:26
+		Duration:	03:37:11
+		Location:	22.41063 114.37456
+
+(21) - Sat/Sun 103km:Finish
+	HYI2
+		Images:	5394
+		Time:	19.01.2025 05:00:33 until 19.01.2025 13:13:11
+		Duration:	08:12:38
+		Location:	22.40488 114.10342
+
+	LNG3
+		Images:	494
+		Time:	18.01.2025 16:43:14 until 18.01.2025 22:31:30
+		Duration:	05:48:16
+		Location:	22.40488 114.10342
+
+	NNG2
+		Images:	266
+		Time:	19.01.2025 00:54:08 until 19.01.2025 04:59:36
+		Duration:	04:05:28
+		Location:	22.40488 114.10342
+
+	NNG2DRONE1
+		Images:	3
+		Time:	01.10.2024 00:25:08 until 01.10.2024 00:26:14
+		Duration:	00:01:06
+		Location:	22.40488 114.10342
+
+	NNG2LS1
+		Images:	2465
+		Time:	18.01.2025 23:57:57 until 19.01.2025 05:09:53
+		Duration:	05:11:56
+		Location:	22.40488 114.10342
+
+	NP3
+		Images:	5902
+		Time:	19.01.2025 05:13:36 until 19.01.2025 14:07:26
+		Duration:	08:53:50
+		Location:	22.40488 114.10342
+
+	NP3LS1
+		Images:	3836
+		Time:	19.01.2025 04:47:32 until 19.01.2025 13:34:46
+		Duration:	08:47:14
+		Location:	22.40488 114.10342
+
+	NP3LS2
+		Images:	5691
+		Time:	19.01.2025 05:12:03 until 19.01.2025 13:17:03
+		Duration:	08:05:00
+		Location:	22.40488 114.10342
+
+	PNQ2
+		Images:	6478
+		Time:	18.01.2025 22:31:41 until 19.01.2025 05:13:09
+		Duration:	06:41:28
+		Location:	22.40488 114.10342
+
+	STW2
+		Images:	697
+		Time:	18.01.2025 16:43:13 until 18.01.2025 21:57:12
+		Duration:	05:13:59
+		Location:	22.40488 114.10342
+
+(22) - Sat/Sun 103km:6,5 km
+	LNG1
+		Images:	3778
+		Time:	18.01.2025 07:17:16 until 18.01.2025 10:35:52
+		Duration:	03:18:36
+		Location:	22.37324 114.33859
+
+	LNG1LS1
+		Images:	3349
+		Time:	18.01.2025 06:38:50 until 18.01.2025 08:40:51
+		Duration:	02:02:01
+		Location:	22.37324 114.33859
+
+	LNG1LS2
+		Images:	5534
+		Time:	18.01.2025 06:35:14 until 18.01.2025 11:51:14
+		Duration:	05:16:00
+		Location:	22.37324 114.33859
+
+(23) - Sat/Sun 103km:28,0 km
+	LNG2
+		Images:	2156
+		Time:	18.01.2025 10:36:25 until 18.01.2025 13:57:32
+		Duration:	03:21:07
+		Location:	22.42339 114.33224
+
+	LNG2LS1
+		Images:	2346
+		Time:	18.01.2025 11:52:10 until 18.01.2025 13:47:58
+		Duration:	01:55:48
+		Location:	22.42339 114.33224
+
+(24) - Sat/Sun 103km:49,0 km
+	NNG1
+		Images:	4710
+		Time:	18.01.2025 11:09:19 until 18.01.2025 16:59:39
+		Duration:	05:50:20
+		Location:	22.42926 114.28609
+
+	NNG1DRONE1
+		Images:	2
+		Time:	30.09.2024 03:11:59 until 30.09.2024 03:18:53
+		Duration:	00:06:54
+		Location:	22.42926 114.28609
+
+	NNG1LS1
+		Images:	2133
+		Time:	18.01.2025 11:42:35 until 18.01.2025 17:00:34
+		Duration:	05:17:59
+		Location:	22.42926 114.28609
+
+	NNG1LS2
+		Images:	1637
+		Time:	18.01.2025 12:13:24 until 18.01.2025 17:34:44
+		Duration:	05:21:20
+		Location:	22.42926 114.28609
+
+(25) - Sat/Sun 103km:Start
+	NP1
+		Images:	717
+		Time:	18.01.2025 06:06:47 until 18.01.2025 07:15:03
+		Duration:	01:08:16
+		Location:	22.39792 114.31798
+
+	STW1
+		Images:	403
+		Time:	18.01.2025 06:51:21 until 18.01.2025 16:12:43
+		Duration:	09:21:22
+		Location:	22.39792 114.31798
+
+(26) - Sat/Sun 103km:51,0 km
+	NP2
+		Images:	10790
+		Time:	18.01.2025 11:15:16 until 19.01.2025 05:13:10
+		Duration:	17:57:54
+		Location:	22.42281 114.29343
+
+	NP2LS1
+		Images:	3200
+		Time:	18.01.2025 09:25:45 until 18.01.2025 17:21:48
+		Duration:	07:56:03
+		Location:	22.42281 114.29343
+
+	NP2LS2
+		Images:	10282
+		Time:	18.01.2025 09:43:18 until 19.01.2025 04:49:59
+		Duration:	19:06:41
+		Location:	22.42281 114.29343
+
+(27) - Sat/Sun 103km:Impressions / Pano
+	PANO1

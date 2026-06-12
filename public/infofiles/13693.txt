@@ -1,0 +1,99 @@
+EventId: 13693
+Spots: 14
+Total Images: 13603
+Time:	26.09.2025 20:01:46 to 27.09.2025 17:07:18
+Duration: 21:05:32
+
+(1) - Start
+	RSJ1
+		Images:	103
+		Time:	27.09.2025 11:28:22 until 27.09.2025 13:00:18
+		Duration:	01:31:56
+		Location:	47.55356 10.27301
+
+(2) - Start/Ziel Kids
+	RSJ2
+		Images:	317
+		Time:	27.09.2025 13:28:51 until 27.09.2025 13:50:30
+		Duration:	00:21:39
+		Location:	47.55356 10.27301
+
+	RSJ2LS1
+		Images:	39
+		Time:	27.09.2025 13:36:13 until 27.09.2025 13:50:40
+		Duration:	00:14:27
+		Location:	47.55356 10.27301
+
+(3) - Trailrun
+	LIMA1
+		Images:	1589
+		Time:	26.09.2025 20:01:46 until 27.09.2025 13:22:08
+		Duration:	17:20:22
+		Location:	47.55549 10.29329
+
+(4) - Rennrad
+	EPR1
+		Images:	1532
+		Time:	27.09.2025 11:51:56 until 27.09.2025 14:10:13
+		Duration:	02:18:17
+		Location:	47.57553 10.35431
+
+(5) - Berglauf
+	SVL1
+		Images:	1283
+		Time:	27.09.2025 13:59:38 until 27.09.2025 15:21:22
+		Duration:	01:21:44
+		Location:	47.55525 10.31659
+
+	SVL1LS1
+		Images:	520
+		Time:	27.09.2025 13:35:49 until 27.09.2025 14:57:35
+		Duration:	01:21:46
+		Location:	47.55525 10.31659
+
+	SVL1LS2
+		Images:	493
+		Time:	27.09.2025 14:02:33 until 27.09.2025 15:19:51
+		Duration:	01:17:18
+		Location:	47.55525 10.31659
+
+(6) - Alpinlauf
+	FLOS1
+		Images:	3138
+		Time:	27.09.2025 12:56:33 until 27.09.2025 15:21:47
+		Duration:	02:25:14
+		Location:	47.55549 10.29329
+
+(7) - MTB
+	ADN1
+		Images:	1010
+		Time:	27.09.2025 14:15:03 until 27.09.2025 16:34:49
+		Duration:	02:19:46
+		Location:	47.52883 10.31180
+
+(8) - Strassenlauf
+	LIMA2
+		Images:	1891
+		Time:	27.09.2025 14:08:17 until 27.09.2025 16:21:19
+		Duration:	02:13:02
+		Location:	47.54670 10.27659
+
+(9) - Ziel
+	EPR2
+		Images:	64
+		Time:	27.09.2025 14:49:46 until 27.09.2025 16:06:56
+		Duration:	01:17:10
+		Location:	47.55356 10.27301
+
+	RSJ3
+		Images:	1319
+		Time:	27.09.2025 14:49:45 until 27.09.2025 17:07:18
+		Duration:	02:17:33
+		Location:	47.55356 10.27301
+
+	RSJ3LS1
+		Images:	305
+		Time:	27.09.2025 14:04:39 until 27.09.2025 16:49:28
+		Duration:	02:44:49
+		Location:	47.55356 10.27301
+

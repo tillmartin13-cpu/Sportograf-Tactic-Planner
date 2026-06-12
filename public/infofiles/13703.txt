@@ -1,0 +1,105 @@
+EventId: 13703
+Spots: 15
+Total Images: 43672
+Time:	08.03.2025 16:38:58 to 09.03.2025 14:36:50
+Duration: 21:57:52
+
+(1) - Start
+	SPSL1
+		Images:	897
+		Time:	09.03.2025 08:08:22 until 09.03.2025 11:37:26
+		Duration:	03:29:04
+		Location:	51.12044 2.63201
+
+	GVDL1
+		Images:	183
+		Time:	09.03.2025 07:53:20 until 09.03.2025 09:09:58
+		Duration:	01:16:38
+		Location:	51.12044 2.63201
+
+(2) - 1,0 km
+	AG1
+		Images:	351
+		Time:	09.03.2025 08:26:38 until 09.03.2025 08:39:00
+		Duration:	00:12:22
+		Location:	51.11615 2.62004
+
+	THL1
+		Images:	743
+		Time:	09.03.2025 08:21:02 until 09.03.2025 08:39:11
+		Duration:	00:18:09
+		Location:	51.11615 2.62004
+
+(3) - 2,0 km
+	SBG1
+		Images:	3409
+		Time:	08.03.2025 16:38:58 until 09.03.2025 10:32:53
+		Duration:	17:53:55
+		Location:	51.11252 2.61196
+
+(4) - Hoge Blekker
+	AG2
+		Images:	3674
+		Time:	09.03.2025 09:56:58 until 09.03.2025 12:04:05
+		Duration:	02:07:07
+		Location:	51.11157 2.64738
+
+	AG2LS1
+		Images:	1181
+		Time:	09.03.2025 09:57:01 until 09.03.2025 11:58:27
+		Duration:	02:01:26
+		Location:	51.11157 2.64738
+
+(5) - Impressions / Pano
+	AG2DRONE1
+		Images:	15
+		Time:	09.03.2025 11:48:08 until 09.03.2025 11:50:42
+		Duration:	00:02:34
+		Location:	51.11157 2.64738
+
+	PANO1
+		Images:	13
+		Time:	09.03.2025 11:47:14 until 09.03.2025 13:11:40
+		Duration:	01:24:26
+		Location:	NULL NULL
+
+(6) - Noordduinen
+	THL2
+		Images:	5209
+		Time:	09.03.2025 08:41:18 until 09.03.2025 11:52:59
+		Duration:	03:11:41
+		Location:	51.10746 2.6331
+
+	THL2LS1
+		Images:	831
+		Time:	09.03.2025 09:42:43 until 09.03.2025 11:50:34
+		Duration:	02:07:51
+		Location:	51.10746 2.6331
+
+(7) - Schipgatduinen
+	SBG2
+		Images:	9929
+		Time:	09.03.2025 11:02:37 until 09.03.2025 13:49:07
+		Duration:	02:46:30
+		Location:	51.12884 2.65527
+
+(8) - 1km before finish
+	GVDL2
+		Images:	6886
+		Time:	09.03.2025 09:11:03 until 09.03.2025 14:36:50
+		Duration:	05:25:47
+		Location:	51.12507 2.64521
+
+(9) - Finish
+	SPSL2
+		Images:	9914
+		Time:	09.03.2025 10:22:48 until 09.03.2025 14:20:33
+		Duration:	03:57:45
+		Location:	51.12083 2.63349
+
+	THL3
+		Images:	437
+		Time:	09.03.2025 13:13:53 until 09.03.2025 13:31:29
+		Duration:	00:17:36
+		Location:	51.12083 2.63349
+

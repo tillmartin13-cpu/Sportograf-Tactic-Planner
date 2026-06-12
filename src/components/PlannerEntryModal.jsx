@@ -17,22 +17,28 @@ export function PlannerEntryModal() {
 
   const [code, setCode] = useState('');
   const [codeError, setCodeError] = useState('');
+  const [codeLoading, setCodeLoading] = useState(false);
   const [newId, setNewId] = useState('');
   const [newName, setNewName] = useState('');
   const csvRef = useRef(null);
 
   if (!open) return null;
 
-  const submitReferenceCode = (e) => {
+  const submitReferenceCode = async (e) => {
     e.preventDefault();
     setCodeError('');
     if (!event) {
       setCodeError(t('referenceNeedsEvent'));
       return;
     }
-    const ok = applyReferenceCode(code);
-    if (!ok) setCodeError(t('invalidCode'));
-    else setCode('');
+    setCodeLoading(true);
+    try {
+      const ok = await applyReferenceCode(code);
+      if (!ok) setCodeError(t('codeEventMismatch'));
+      else setCode('');
+    } finally {
+      setCodeLoading(false);
+    }
   };
 
   const handleCreate = (e) => {
@@ -120,10 +126,10 @@ export function PlannerEntryModal() {
               {codeError && <p className="mt-1.5 text-xs font-semibold text-[var(--sg-red)]">{codeError}</p>}
               <button
                 type="submit"
-                disabled={!event}
+                disabled={!event || codeLoading}
                 className="sg-btn mt-3 w-full text-sm disabled:cursor-not-allowed disabled:opacity-50"
               >
-                {t('entryLoadReference')}
+                {codeLoading ? '…' : t('entryLoadReference')}
               </button>
             </form>
           </div>

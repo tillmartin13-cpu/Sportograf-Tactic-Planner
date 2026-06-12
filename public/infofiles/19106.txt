@@ -1,0 +1,15 @@
+EventId: 19106
+Spots: 2
+Total Images: 11
+Time:	01.11.2025 21:51:56 to 01.11.2025 22:52:28
+Duration: 01:00:32
+
+(1) - Impressions / Pano
+	PANO1
+(2) - none
+	ZZZ1
+		Images:	11
+		Time:	01.11.2025 21:51:56 until 01.11.2025 22:52:28
+		Duration:	01:00:32
+		Location:	NULL NULL
+

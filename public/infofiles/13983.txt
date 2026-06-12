@@ -1,0 +1,219 @@
+EventId: 13983
+Spots: 33
+Total Images: 89393
+Time:	01.01.0001 23:00:00 to 18.05.2025 15:15:27
+Duration: 739387.16:15:27
+
+(1) - Expo
+	ANMF1
+		Images:	1460
+		Time:	16.05.2025 10:18:18 until 17.05.2025 16:12:43
+		Duration:	1.05:54:25
+		Location:	40.85852 -73.96212
+
+	GIP1
+		Images:	69
+		Time:	16.05.2025 15:23:16 until 17.05.2025 00:52:39
+		Duration:	09:29:23
+		Location:	40.85852 -73.96212
+
+	ABRE1
+		Images:	179
+		Time:	16.05.2025 11:12:56 until 16.05.2025 12:16:24
+		Duration:	01:03:28
+		Location:	40.85852 -73.96212
+
+	AG2
+		Images:	107
+		Time:	18.05.2025 12:02:41 until 18.05.2025 12:38:30
+		Duration:	00:35:49
+		Location:	40.85852 -73.96212
+
+	TOBB2
+		Images:	140
+		Time:	18.05.2025 12:01:53 until 18.05.2025 12:36:40
+		Duration:	00:34:47
+		Location:	40.85852 -73.96212
+
+(2) - Start
+	ABRE2
+		Images:	1408
+		Time:	18.05.2025 04:36:46 until 18.05.2025 07:18:41
+		Duration:	02:41:55
+		Location:	40.85158 -73.95205
+
+	TIWI1
+		Images:	563
+		Time:	18.05.2025 06:20:11 until 18.05.2025 07:15:24
+		Duration:	00:55:13
+		Location:	40.85158 -73.95205
+
+(3) - 0.8 km Centre Av.
+	MRKE1
+		Images:	1361
+		Time:	18.05.2025 06:29:25 until 18.05.2025 11:24:14
+		Duration:	04:54:49
+		Location:	40.85556 -73.97077
+
+	ANMF2
+		Images:	1490
+		Time:	18.05.2025 07:00:39 until 18.05.2025 07:18:21
+		Duration:	00:17:42
+		Location:	40.85556 -73.97077
+
+(4) - 16.0 km Alpine
+	TOMJ1
+		Images:	3003
+		Time:	18.05.2025 07:17:40 until 18.05.2025 13:22:17
+		Duration:	06:04:37
+		Location:	40.93956 -73.92190
+
+	GAUB1
+		Images:	6058
+		Time:	18.05.2025 06:24:17 until 18.05.2025 12:23:08
+		Duration:	05:58:51
+		Location:	40.93956 -73.92190
+
+	MESE1
+		Images:	1736
+		Time:	18.05.2025 07:07:03 until 18.05.2025 08:07:23
+		Duration:	01:00:20
+		Location:	40.93956 -73.92190
+
+(5) - 34.0 km Nyack
+	JAYA1
+		Images:	4531
+		Time:	18.05.2025 07:44:02 until 18.05.2025 09:20:00
+		Duration:	01:35:58
+		Location:	41.09409 -73.91660
+
+(6) - 113.5 km Tappan
+	JAYA2
+		Images:	4969
+		Time:	18.05.2025 10:13:41 until 18.05.2025 14:36:52
+		Duration:	04:23:11
+		Location:	41.02067 -73.94262
+
+(7) - 46.0 km Haverstraw
+	PEC1
+		Images:	2864
+		Time:	18.05.2025 07:59:40 until 18.05.2025 09:55:32
+		Duration:	01:55:52
+		Location:	41.19702 -73.96709
+
+(8) - 53.0 km Grassy Point
+	AG1
+		Images:	7438
+		Time:	18.05.2025 08:09:08 until 18.05.2025 10:06:51
+		Duration:	01:57:43
+		Location:	41.22368 -73.96365
+
+	AG1LS1
+		Images:	1942
+		Time:	18.05.2025 07:51:18 until 18.05.2025 10:06:51
+		Duration:	02:15:33
+		Location:	41.22368 -73.96365
+
+	AG1LS2
+		Images:	1076
+		Time:	18.05.2025 07:38:58 until 18.05.2025 10:06:46
+		Duration:	02:27:48
+		Location:	41.22368 -73.96365
+
+(9) - 55.0 km Beach Rd.
+	TOBB1
+		Images:	4292
+		Time:	18.05.2025 08:08:33 until 18.05.2025 10:29:52
+		Duration:	02:21:19
+		Location:	41.22919 -73.97690
+
+	TOBB1LS1
+		Images:	1064
+		Time:	18.05.2025 07:51:36 until 18.05.2025 10:30:55
+		Duration:	02:39:19
+		Location:	41.22919 -73.97690
+
+(10) - 63.5 km Cedar Flats Rd.
+	JSAN1
+		Images:	2596
+		Time:	18.05.2025 07:43:16 until 18.05.2025 11:19:14
+		Duration:	03:35:58
+		Location:	41.25705 -74.01596
+
+(11) - 67.0 km Gate Hill Climb
+	GIP2
+		Images:	9624
+		Time:	01.01.0001 23:00:00 until 18.05.2025 12:05:23
+		Duration:	739387.13:05:23
+		Location:	41.23520 -74.03626
+
+	GIP2LS1
+		Images:	3386
+		Time:	18.05.2025 08:08:04 until 18.05.2025 11:08:02
+		Duration:	02:59:58
+		Location:	41.23520 -74.03626
+
+	GIP2LS2
+		Images:	5392
+		Time:	18.05.2025 07:56:28 until 18.05.2025 11:06:38
+		Duration:	03:10:10
+		Location:	41.23520 -74.03626
+
+(12) - 72.5 km Cheesecote Climb
+	CBER1
+		Images:	1184
+		Time:	18.05.2025 09:00:05 until 18.05.2025 12:15:38
+		Duration:	03:15:33
+		Location:	41.21151 -74.05021
+
+(13) - 75.0 km Cheesecote Downhill
+	WAZ1
+		Images:	4076
+		Time:	18.05.2025 08:29:33 until 18.05.2025 11:35:00
+		Duration:	03:05:27
+		Location:	41.20274 -74.04340
+
+(14) - Finish
+	TIWI2
+		Images:	3527
+		Time:	18.05.2025 09:50:35 until 18.05.2025 15:15:15
+		Duration:	05:24:40
+		Location:	40.85767 -73.96164
+
+	MESE2
+		Images:	4613
+		Time:	18.05.2025 09:22:09 until 18.05.2025 15:15:13
+		Duration:	05:53:04
+		Location:	40.85767 -73.96164
+
+	ABRE3
+		Images:	3522
+		Time:	18.05.2025 09:48:03 until 18.05.2025 13:35:02
+		Duration:	03:46:59
+		Location:	40.85767 -73.96164
+
+	MRKE2
+		Images:	1792
+		Time:	18.05.2025 09:56:17 until 18.05.2025 15:03:42
+		Duration:	05:07:25
+		Location:	40.85767 -73.96164
+
+	PEC2
+		Images:	1521
+		Time:	18.05.2025 11:21:46 until 18.05.2025 15:15:16
+		Duration:	03:53:30
+		Location:	40.85767 -73.96164
+
+	JSAN2
+		Images:	1103
+		Time:	18.05.2025 13:10:36 until 18.05.2025 15:15:27
+		Duration:	02:04:51
+		Location:	40.85767 -73.96164
+
+(15) - Medals
+	ANMF3
+		Images:	1307
+		Time:	18.05.2025 10:14:19 until 18.05.2025 15:08:17
+		Duration:	04:53:58
+		Location:	40.85852 -73.96212
+

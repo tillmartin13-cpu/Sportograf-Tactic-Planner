@@ -1,0 +1,59 @@
+EventId: 16268
+Spots: 9
+Total Images: 26957
+Time:	14.06.2025 06:04:02 to 14.06.2025 20:48:20
+Duration: 14:44:18
+
+(1) - Start
+	PHA1
+		Images:	2798
+		Time:	14.06.2025 06:16:58 until 14.06.2025 09:18:32
+		Duration:	03:01:34
+		Location:	54.63402 -2.80976
+
+	YCAN1
+		Images:	1592
+		Time:	14.06.2025 06:04:02 until 14.06.2025 09:18:12
+		Duration:	03:14:10
+		Location:	54.63402 -2.80976
+
+(2) - 13,9 km
+	KSTH1
+		Images:	3287
+		Time:	14.06.2025 07:29:03 until 14.06.2025 15:13:09
+		Duration:	07:44:06
+		Location:	54.57416 -2.92833
+
+(3) - Finish
+	CUP1
+		Images:	4240
+		Time:	14.06.2025 09:08:14 until 14.06.2025 16:00:36
+		Duration:	06:52:22
+		Location:	54.5431 -2.94709
+
+	PHA2
+		Images:	10509
+		Time:	14.06.2025 11:58:12 until 14.06.2025 19:49:44
+		Duration:	07:51:32
+		Location:	54.63402 -2.80976
+
+	YCAN2
+		Images:	3113
+		Time:	14.06.2025 09:18:13 until 14.06.2025 20:01:01
+		Duration:	10:42:48
+		Location:	54.63402 -2.80976
+
+	KSTH2
+		Images:	931
+		Time:	14.06.2025 17:41:36 until 14.06.2025 19:52:22
+		Duration:	02:10:46
+		Location:	54.63402 -2.80976
+
+	CUP2
+		Images:	487
+		Time:	14.06.2025 16:36:26 until 14.06.2025 20:48:20
+		Duration:	04:11:54
+		Location:	54.63402 -2.80976
+
+(4) - Impressions / Pano
+	PANO1

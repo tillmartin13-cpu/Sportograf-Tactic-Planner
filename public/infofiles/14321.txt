@@ -1,0 +1,130 @@
+EventId: 14321
+Spots: 19
+Total Images: 147906
+Time:	31.12.2014 23:00:02 to 19.11.2025 16:22:59
+Duration: 3975.17:22:57
+
+(1) - Obstacle 1 Hurdles
+	JVI1
+		Images:	10283
+		Time:	18.10.2025 21:08:35 until 19.10.2025 15:19:43
+		Duration:	18:11:08
+		Location:	32.35797 -97.72190
+
+	PRU1
+		Images:	6838
+		Time:	18.10.2025 07:23:57 until 19.10.2025 15:20:09
+		Duration:	1.07:56:12
+		Location:	32.35797 -97.72190
+
+(2) - Obstacle 9 Chain Carry
+	JOFU1
+		Images:	452
+		Time:	19.10.2025 09:57:43 until 19.10.2025 10:32:12
+		Duration:	00:34:29
+		Location:	32.36590 -97.71663
+
+	AKT1
+		Images:	7980
+		Time:	18.10.2025 08:40:45 until 19.10.2025 13:04:37
+		Duration:	1.04:23:52
+		Location:	32.36590 -97.71663
+
+(3) - Obstacle 20 Barbed Wire Crawl
+	PTN1
+		Images:	12922
+		Time:	18.10.2025 08:21:00 until 19.10.2025 15:49:44
+		Duration:	1.07:28:44
+		Location:	32.35935 -97.72129
+
+(4) - Obstacle 25 Monkey Bars
+	JMS1
+		Images:	11818
+		Time:	19.10.2025 08:14:38 until 19.10.2025 15:50:09
+		Duration:	07:35:31
+		Location:	32.35766 -97.72309
+
+	AKT2
+		Images:	2635
+		Time:	19.10.2025 13:17:51 until 19.10.2025 16:04:56
+		Duration:	02:47:05
+		Location:	32.35766 -97.72309
+
+	JOFU4
+		Images:	881
+		Time:	19.10.2025 10:44:13 until 19.10.2025 11:02:45
+		Duration:	00:18:32
+		Location:	32.35766 -97.72309
+
+(5) - Obstacle 26 Bucket Carry
+	LAC1
+		Images:	13880
+		Time:	18.10.2025 07:53:15 until 19.10.2025 16:41:38
+		Duration:	1.08:48:23
+		Location:	32.35784 -97.72041
+
+	JOFU2
+		Images:	932
+		Time:	19.10.2025 11:51:23 until 19.10.2025 12:09:05
+		Duration:	00:17:42
+		Location:	32.35784 -97.72041
+
+(6) - Obstacle 28 Sandbag Carry
+	KEA1
+		Images:	13639
+		Time:	18.10.2025 08:14:53 until 19.10.2025 16:32:50
+		Duration:	1.08:17:57
+		Location:	32.35881 -97.71567
+
+	JOFU3
+		Images:	1047
+		Time:	19.10.2025 11:17:34 until 19.10.2025 11:37:51
+		Duration:	00:20:17
+		Location:	32.35881 -97.71567
+
+(7) - Obstacle 29 Atlas Carry
+	GAPO1
+		Images:	13917
+		Time:	19.10.2025 08:25:14 until 19.10.2025 16:44:52
+		Duration:	08:19:38
+		Location:	32.35617 -97.71979
+
+	GDRP1
+		Images:	15595
+		Time:	18.10.2025 08:06:49 until 19.10.2025 16:44:54
+		Duration:	1.08:38:05
+		Location:	32.35617 -97.71979
+
+(8) - Obstacle 33 Multi Rig
+	DDC1
+		Images:	9166
+		Time:	19.10.2025 08:36:07 until 19.10.2025 17:11:03
+		Duration:	08:34:56
+		Location:	32.35728 -97.72310
+
+	PHEN1
+		Images:	14746
+		Time:	18.10.2025 07:25:15 until 19.10.2025 17:21:26
+		Duration:	1.09:56:11
+		Location:	32.35728 -97.72310
+
+(9) - Obstacle 34 Fire Jump
+	GACA1
+		Images:	5737
+		Time:	31.12.2014 23:00:02 until 19.11.2025 16:22:59
+		Duration:	3975.17:22:57
+		Location:	32.35720 -97.72388
+
+	JOFU5
+		Images:	802
+		Time:	19.10.2025 14:06:12 until 19.10.2025 14:24:12
+		Duration:	00:18:00
+		Location:	32.35720 -97.72388
+
+(10) - Herotent
+	CIFU1
+		Images:	4636
+		Time:	18.10.2025 08:07:10 until 19.10.2025 17:27:55
+		Duration:	1.09:20:45
+		Location:	32.35680 -97.72448
+

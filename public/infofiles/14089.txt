@@ -1,0 +1,150 @@
+EventId: 14089
+Spots: 23
+Total Images: 71639
+Time:	21.03.2025 17:45:36 to 22.03.2025 20:19:38
+Duration: 1.02:34:02
+
+(1) - Start
+	THL1
+		Images:	3539
+		Time:	21.03.2025 17:47:20 until 22.03.2025 09:11:37
+		Duration:	15:24:17
+		Location:	51.17639 6.38282
+
+	THL1LS1
+		Images:	1092
+		Time:	21.03.2025 17:45:36 until 22.03.2025 08:16:18
+		Duration:	14:30:42
+		Location:	51.17639 6.38282
+
+(2) - 0,9 km
+	ALN1
+		Images:	8241
+		Time:	22.03.2025 06:24:54 until 22.03.2025 08:22:59
+		Duration:	01:58:05
+		Location:	51.17823 6.37562
+
+	ALN1LS2
+		Images:	1503
+		Time:	22.03.2025 06:33:42 until 22.03.2025 08:19:37
+		Duration:	01:45:55
+		Location:	51.17823 6.37562
+
+	ALN1LS1
+		Images:	1541
+		Time:	22.03.2025 06:31:40 until 22.03.2025 08:15:14
+		Duration:	01:43:34
+		Location:	51.17823 6.37562
+
+(3) - 13,0 km bunter Garten
+	BENP1
+		Images:	3161
+		Time:	21.03.2025 19:08:39 until 22.03.2025 11:02:06
+		Duration:	15:53:27
+		Location:	51.20642 6.43354
+
+(4) - 14,0 km bunter Garten
+	NKR1
+		Images:	2340
+		Time:	22.03.2025 05:42:19 until 22.03.2025 11:07:22
+		Duration:	05:25:03
+		Location:	51.20512 6.43318
+
+(5) - 15,0 km Brücke Kaldenkirchener Str
+	THL2
+		Images:	3905
+		Time:	22.03.2025 09:16:16 until 22.03.2025 10:09:33
+		Duration:	00:53:17
+		Location:	51.21534 6.43527
+
+	THL2DRONE1
+		Images:	24
+		Time:	22.03.2025 06:13:57 until 22.03.2025 16:27:05
+		Duration:	10:13:08
+		Location:	51.21534 6.43527
+
+	THL2LS1
+		Images:	661
+		Time:	21.03.2025 17:49:19 until 22.03.2025 10:16:22
+		Duration:	16:27:03
+		Location:	51.21534 6.43527
+
+	THL2LS2
+		Images:	3890
+		Time:	22.03.2025 09:03:18 until 22.03.2025 13:25:35
+		Duration:	04:22:17
+		Location:	51.21534 6.43527
+
+(6) - 16,0 km Spielkaulenberg
+	ALN2
+		Images:	8386
+		Time:	22.03.2025 09:08:13 until 22.03.2025 11:27:25
+		Duration:	02:19:12
+		Location:	51.21546 6.43868
+
+	ALN2LS2
+		Images:	1537
+		Time:	22.03.2025 09:04:11 until 22.03.2025 11:27:30
+		Duration:	02:23:19
+		Location:	51.21546 6.43868
+
+	ALN2LS1
+		Images:	1542
+		Time:	22.03.2025 09:05:57 until 22.03.2025 11:24:03
+		Duration:	02:18:06
+		Location:	51.21546 6.43868
+
+(7) - 29,0 km Schloss Rheydt
+	THL3
+		Images:	6843
+		Time:	22.03.2025 11:31:18 until 22.03.2025 15:07:15
+		Duration:	03:35:57
+		Location:	51.18200 6.48021
+
+	THL3LS1
+		Images:	3750
+		Time:	22.03.2025 11:24:02 until 22.03.2025 14:36:09
+		Duration:	03:12:07
+		Location:	51.18200 6.48021
+
+(8) - 40,0 km Schloss Wickrath
+	ALN3
+		Images:	9769
+		Time:	22.03.2025 12:27:11 until 22.03.2025 17:21:12
+		Duration:	04:54:01
+		Location:	51.12931 6.41583
+
+	ALN3LS2
+		Images:	2036
+		Time:	22.03.2025 09:08:34 until 22.03.2025 13:40:50
+		Duration:	04:32:16
+		Location:	51.12931 6.41583
+
+	ALN3LS1
+		Images:	2094
+		Time:	22.03.2025 12:40:47 until 22.03.2025 17:13:03
+		Duration:	04:32:16
+		Location:	51.12931 6.41583
+
+(9) - Finish
+	THL4
+		Images:	541
+		Time:	22.03.2025 15:53:06 until 22.03.2025 18:44:03
+		Duration:	02:50:57
+		Location:	51.17664 6.38556
+
+	NKR2
+		Images:	3816
+		Time:	22.03.2025 05:47:36 until 22.03.2025 20:19:38
+		Duration:	14:32:02
+		Location:	51.17664 6.38556
+
+(10) - Herotent
+	BENP2
+		Images:	1428
+		Time:	22.03.2025 14:09:41 until 22.03.2025 19:43:50
+		Duration:	05:34:09
+		Location:	51.17661 6.38566
+
+(11) - Impressions / Pano
+	PANO1

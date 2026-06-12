@@ -1,0 +1,155 @@
+EventId: 14503
+Spots: 23
+Total Images: 47561
+Time:	05.09.2025 21:40:52 to 06.09.2025 16:12:03
+Duration: 18:31:11
+
+(1) - Start
+	BP1IMP1
+		Images:	116
+		Time:	06.09.2025 09:04:40 until 06.09.2025 12:47:56
+		Duration:	03:43:16
+		Location:	46.09939 7.21866
+
+	BP1DRONE1
+		Images:	14
+		Time:	06.09.2025 07:18:35 until 06.09.2025 12:25:57
+		Duration:	05:07:22
+		Location:	46.09939 7.21866
+
+(2) - Log Carry
+	KAM1
+		Images:	6070
+		Time:	05.09.2025 21:40:52 until 06.09.2025 14:24:09
+		Duration:	16:43:17
+		Location:	46.10317 7.20247
+
+(3) - Barbed Wire
+	JTF1
+		Images:	2156
+		Time:	06.09.2025 07:57:06 until 06.09.2025 14:34:39
+		Duration:	06:37:33
+		Location:	46.10482 7.20772
+
+(4) - Chain Carry
+	HS1
+		Images:	1677
+		Time:	06.09.2025 09:14:28 until 06.09.2025 13:26:32
+		Duration:	04:12:04
+		Location:	46.12171 7.23143
+
+	HS1LS1
+		Images:	752
+		Time:	06.09.2025 09:04:01 until 06.09.2025 13:24:39
+		Duration:	04:20:38
+		Location:	46.12171 7.23143
+
+	HS1LS2
+		Images:	670
+		Time:	06.09.2025 09:02:29 until 06.09.2025 13:11:39
+		Duration:	04:09:10
+		Location:	46.12171 7.23143
+
+(5) - Sandbag Carry
+	GAT1
+		Images:	3451
+		Time:	06.09.2025 07:38:36 until 06.09.2025 15:20:12
+		Duration:	07:41:36
+		Location:	46.10068 7.23039
+
+	BP1
+		Images:	1061
+		Time:	06.09.2025 12:56:27 until 06.09.2025 13:26:34
+		Duration:	00:30:07
+		Location:	46.10068 7.23039
+
+	BP1LS1
+		Images:	1993
+		Time:	06.09.2025 07:47:34 until 06.09.2025 15:18:36
+		Duration:	07:31:02
+		Location:	46.10068 7.23039
+
+(6) - Tilting Ladders
+	ELLA1
+		Images:	3894
+		Time:	06.09.2025 07:08:52 until 06.09.2025 15:42:25
+		Duration:	08:33:33
+		Location:	46.09773 7.22130
+
+	ELLA1LS1
+		Images:	1853
+		Time:	06.09.2025 08:32:37 until 06.09.2025 15:03:41
+		Duration:	06:31:04
+		Location:	46.09773 7.22130
+
+	BP2
+		Images:	679
+		Time:	06.09.2025 13:41:51 until 06.09.2025 14:12:55
+		Duration:	00:31:04
+		Location:	46.09773 7.22130
+
+	BP1LS2
+		Images:	1719
+		Time:	06.09.2025 08:32:06 until 06.09.2025 15:42:44
+		Duration:	07:10:38
+		Location:	46.09773 7.22130
+
+(7) - Rope Climb
+	LEBE1LS1
+		Images:	986
+		Time:	06.09.2025 07:38:09 until 06.09.2025 15:22:32
+		Duration:	07:44:23
+		Location:	46.09922 7.21845
+
+(8) - Multi Rig
+	LEBE1
+		Images:	2139
+		Time:	06.09.2025 10:01:11 until 06.09.2025 15:55:44
+		Duration:	05:54:33
+		Location:	46.09922 7.21845
+
+	BP3
+		Images:	221
+		Time:	06.09.2025 14:22:01 until 06.09.2025 14:39:06
+		Duration:	00:17:05
+		Location:	46.09922 7.21845
+
+(9) - A-Frame
+	ARF1
+		Images:	3434
+		Time:	06.09.2025 10:02:43 until 06.09.2025 15:57:06
+		Duration:	05:54:23
+		Location:	46.09958 7.21828
+
+	BP4
+		Images:	234
+		Time:	06.09.2025 14:42:23 until 06.09.2025 15:10:20
+		Duration:	00:27:57
+		Location:	46.09958 7.21828
+
+(10) - Finish
+	ALL1
+		Images:	1657
+		Time:	06.09.2025 09:52:01 until 06.09.2025 16:03:42
+		Duration:	06:11:41
+		Location:	46.09939 7.21866
+
+	ALL1LS1
+		Images:	5694
+		Time:	06.09.2025 08:54:08 until 06.09.2025 16:12:03
+		Duration:	07:17:55
+		Location:	46.09939 7.21866
+
+	BP5
+		Images:	338
+		Time:	06.09.2025 15:15:27 until 06.09.2025 15:44:03
+		Duration:	00:28:36
+		Location:	46.09939 7.21866
+
+(11) - Herotent
+	DART1
+		Images:	6753
+		Time:	06.09.2025 06:54:34 until 06.09.2025 16:07:48
+		Duration:	09:13:14
+		Location:	46.09939 7.21866
+

@@ -1,0 +1,65 @@
+EventId: 14230
+Spots: 9
+Total Images: 14518
+Time:	22.02.2025 04:57:09 to 22.02.2025 09:57:19
+Duration: 05:00:10
+
+(1) - 5,0 km
+	AZF1
+		Images:	716
+		Time:	22.02.2025 04:57:09 until 22.02.2025 07:23:21
+		Duration:	02:26:12
+		Location:	29.39761 47.93079
+
+	YAS1
+		Images:	868
+		Time:	22.02.2025 05:00:38 until 22.02.2025 07:23:34
+		Duration:	02:22:56
+		Location:	29.39761 47.93079
+
+(2) - Finish
+	AZF2
+		Images:	1947
+		Time:	22.02.2025 07:24:31 until 22.02.2025 09:51:30
+		Duration:	02:26:59
+		Location:	29.39749 47.93303
+
+	YAS2
+		Images:	4747
+		Time:	22.02.2025 07:24:37 until 22.02.2025 09:25:22
+		Duration:	02:00:45
+		Location:	29.39749 47.93303
+
+(3) - 4,5 km
+	BUR1
+		Images:	1691
+		Time:	22.02.2025 05:21:09 until 22.02.2025 09:57:19
+		Duration:	04:36:10
+		Location:	29.39407 47.92791
+
+	BUR1DRONE1
+		Images:	66
+		Time:	22.02.2025 07:39:58 until 22.02.2025 08:50:42
+		Duration:	01:10:44
+		Location:	29.39407 47.92791
+
+(4) - Start
+	MUP1
+		Images:	2894
+		Time:	22.02.2025 06:33:40 until 22.02.2025 09:00:01
+		Duration:	02:26:21
+		Location:	29.36841 47.90921
+
+(5) - 2,0 km
+	YUM1DRONE1
+		Images:	53
+		Time:	22.02.2025 06:40:33 until 22.02.2025 09:28:48
+		Duration:	02:48:15
+		Location:	29.37893 47.91466
+
+	YUM1
+		Images:	1536
+		Time:	22.02.2025 07:15:06 until 22.02.2025 08:53:30
+		Duration:	01:38:24
+		Location:	29.37893 47.91466
+

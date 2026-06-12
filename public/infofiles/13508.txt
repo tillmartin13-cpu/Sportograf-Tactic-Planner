@@ -1,0 +1,148 @@
+EventId: 13508
+Spots: 22
+Total Images: 34413
+Time:	01.01.0001 23:00:00 to 08.06.2025 18:57:02
+Duration: 739408.19:57:02
+
+(1) - Start
+	LZE1
+		Images:	561
+		Time:	08.06.2025 08:55:00 until 08.06.2025 09:38:33
+		Duration:	00:43:33
+		Location:	46.82266 12.76801
+
+(2) - Km 13 Nikolsdorf
+	CHR1
+		Images:	74
+		Time:	08.06.2025 16:33:27 until 08.06.2025 16:33:45
+		Duration:	00:00:18
+		Location:	46.79121 12.87347
+
+	CHR1LS1
+		Images:	139
+		Time:	08.06.2025 06:21:18 until 08.06.2025 06:49:20
+		Duration:	00:28:02
+		Location:	46.79121 12.87347
+
+(3) - KM 21,5 Oberdrauburg
+	JH1
+		Images:	903
+		Time:	08.06.2025 06:39:13 until 08.06.2025 10:11:49
+		Duration:	03:32:36
+		Location:	46.74723 12.97056
+
+	JH1LS1
+		Images:	448
+		Time:	08.06.2025 09:50:16 until 08.06.2025 10:12:30
+		Duration:	00:22:14
+		Location:	46.74723 12.97056
+
+	JH1LS2
+		Images:	662
+		Time:	08.06.2025 06:47:31 until 08.06.2025 10:12:30
+		Duration:	03:24:59
+		Location:	46.74723 12.97056
+
+(4) - KM 22 Gailbergpass
+	VB3
+		Images:	2499
+		Time:	08.06.2025 09:54:37 until 08.06.2025 10:22:07
+		Duration:	00:27:30
+		Location:	46.73889 12.96845
+
+	VB1LS1
+		Images:	796
+		Time:	08.06.2025 09:48:06 until 08.06.2025 10:19:19
+		Duration:	00:31:13
+		Location:	46.73889 12.96845
+
+	VB1LS2
+		Images:	1564
+		Time:	08.06.2025 09:50:17 until 08.06.2025 10:19:18
+		Duration:	00:29:01
+		Location:	46.73889 12.96845
+
+(5) - KM 22,5 Gailbergpass
+	VB2
+		Images:	1168
+		Time:	08.06.2025 06:44:07 until 08.06.2025 07:17:33
+		Duration:	00:33:26
+		Location:	46.73953 12.97490
+
+(6) - KM 115,5 Plöckenpass
+	CHR2
+		Images:	1457
+		Time:	01.01.0001 23:00:00 until 08.06.2025 16:37:09
+		Duration:	739408.17:37:09
+		Location:	46.59835 12.94602
+
+	CHR2DRONE1
+		Images:	21
+		Time:	08.06.2025 06:44:59 until 08.06.2025 11:42:43
+		Duration:	04:57:44
+		Location:	46.59835 12.94602
+
+	CHR2LS1
+		Images:	788
+		Time:	08.06.2025 10:23:05 until 08.06.2025 13:31:11
+		Duration:	03:08:06
+		Location:	46.59835 12.94602
+
+	CHR2LS2
+		Images:	792
+		Time:	08.06.2025 10:23:06 until 08.06.2025 13:35:47
+		Duration:	03:12:41
+		Location:	46.59835 12.94602
+
+(7) - KM 37 Kehre vor St. Jakob
+	LKE1
+		Images:	3187
+		Time:	08.06.2025 10:12:41 until 08.06.2025 16:04:26
+		Duration:	05:51:45
+		Location:	46.68323 12.94193
+
+(8) - KM 82 Downhill
+	VB4
+		Images:	2139
+		Time:	08.06.2025 11:41:58 until 08.06.2025 17:55:39
+		Duration:	06:13:41
+		Location:	46.73486 12.47990
+
+	VB2LS1
+		Images:	1440
+		Time:	08.06.2025 10:21:40 until 08.06.2025 17:00:40
+		Duration:	06:39:00
+		Location:	46.73486 12.47990
+
+	VB2LS2
+		Images:	1467
+		Time:	08.06.2025 11:50:34 until 08.06.2025 17:16:05
+		Duration:	05:25:31
+		Location:	46.73486 12.47990
+
+(9) - KM 82,5 Downhill
+	JH2
+		Images:	3762
+		Time:	08.06.2025 11:50:21 until 08.06.2025 17:12:37
+		Duration:	05:22:16
+		Location:	46.73486 12.47990
+
+	JH2LS1
+		Images:	1947
+		Time:	08.06.2025 12:02:30 until 08.06.2025 17:16:18
+		Duration:	05:13:48
+		Location:	46.73486 12.47990
+
+	JH2LS2
+		Images:	1942
+		Time:	08.06.2025 11:58:50 until 08.06.2025 17:16:19
+		Duration:	05:17:29
+		Location:	46.73486 12.47990
+
+(10) - Finish
+	LZE2
+		Images:	6657
+		Time:	08.06.2025 12:00:57 until 08.06.2025 18:57:02
+		Duration:	06:56:05
+		Location:	46.82966 12.76665
+

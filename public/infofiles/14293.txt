@@ -1,0 +1,153 @@
+EventId: 14293
+Spots: 23
+Total Images: 21002
+Time:	15.11.2025 04:38:15 to 15.11.2025 08:08:14
+Duration: 03:29:59
+
+(1) - Swim - Transition zone
+	GIP1
+		Images:	381
+		Time:	15.11.2025 05:17:14 until 15.11.2025 05:38:22
+		Duration:	00:21:08
+		Location:	10.11457 103.97906
+
+	GIP1DRONE1
+		Images:	86
+		Time:	15.11.2025 05:01:13 until 15.11.2025 08:08:14
+		Duration:	03:07:01
+		Location:	10.11457 103.97906
+
+	GIP1LS1
+		Images:	236
+		Time:	15.11.2025 04:48:38 until 15.11.2025 05:42:02
+		Duration:	00:53:24
+		Location:	10.11457 103.97906
+
+	GIP1LS3
+		Images:	226
+		Time:	15.11.2025 04:39:19 until 15.11.2025 05:49:31
+		Duration:	01:10:12
+		Location:	10.11457 103.97906
+
+(2) - Finish
+	GIP2
+		Images:	1186
+		Time:	15.11.2025 06:01:27 until 15.11.2025 07:21:01
+		Duration:	01:19:34
+		Location:	10.11457 103.97906
+
+	GIP2LS1
+		Images:	73
+		Time:	15.11.2025 06:06:43 until 15.11.2025 07:18:39
+		Duration:	01:11:56
+		Location:	10.11457 103.97906
+
+	GIP2LS3
+		Images:	498
+		Time:	15.11.2025 04:39:19 until 15.11.2025 07:23:56
+		Duration:	02:44:37
+		Location:	10.11457 103.97906
+
+	NNG3
+		Images:	920
+		Time:	15.11.2025 06:44:58 until 15.11.2025 07:20:54
+		Duration:	00:35:56
+		Location:	10.11457 103.97906
+
+(3) - Bike - Transition zone
+	NNG1
+		Images:	710
+		Time:	15.11.2025 04:56:55 until 15.11.2025 05:43:04
+		Duration:	00:46:09
+		Location:	10.11463 103.98066
+
+	NNG1LS1
+		Images:	607
+		Time:	15.11.2025 04:38:15 until 15.11.2025 05:43:05
+		Duration:	01:04:50
+		Location:	10.11463 103.98066
+
+(4) - Run - Transition zone
+	NNG2
+		Images:	854
+		Time:	15.11.2025 05:44:43 until 15.11.2025 06:36:04
+		Duration:	00:51:21
+		Location:	10.11463 103.98066
+
+	NNG2LS1
+		Images:	509
+		Time:	15.11.2025 05:48:14 until 15.11.2025 06:36:05
+		Duration:	00:47:51
+		Location:	10.11463 103.98066
+
+(5) - Bike - 2.5 km
+	NP1
+		Images:	2521
+		Time:	15.11.2025 05:16:55 until 15.11.2025 06:12:56
+		Duration:	00:56:01
+		Location:	10.10610 103.99310
+
+	NP1LS1
+		Images:	125
+		Time:	15.11.2025 04:47:08 until 15.11.2025 05:47:22
+		Duration:	01:00:14
+		Location:	10.10610 103.99310
+
+(6) - Bike - 1.1 km
+	NTA1
+		Images:	911
+		Time:	15.11.2025 05:32:04 until 15.11.2025 06:35:09
+		Duration:	01:03:05
+		Location:	10.11669 103.99066
+
+	NTA1LS1
+		Images:	177
+		Time:	15.11.2025 05:05:42 until 15.11.2025 06:34:39
+		Duration:	01:28:57
+		Location:	10.11669 103.99066
+
+	NTA1LS2
+		Images:	1013
+		Time:	15.11.2025 05:44:34 until 15.11.2025 06:32:20
+		Duration:	00:47:46
+		Location:	10.11669 103.99066
+
+(7) - Bike - 0.6 km
+	NTT1
+		Images:	2297
+		Time:	15.11.2025 04:56:23 until 15.11.2025 06:38:14
+		Duration:	01:41:51
+		Location:	10.11561 103.98588
+
+	NTT1LS1
+		Images:	1323
+		Time:	15.11.2025 04:54:16 until 15.11.2025 06:38:14
+		Duration:	01:43:58
+		Location:	10.11561 103.98588
+
+(8) - Swim - Start
+	TAP1
+		Images:	1859
+		Time:	15.11.2025 04:43:27 until 15.11.2025 05:37:32
+		Duration:	00:54:05
+		Location:	10.11440 103.97851
+
+	TDK1
+		Images:	1134
+		Time:	15.11.2025 04:39:53 until 15.11.2025 05:37:21
+		Duration:	00:57:28
+		Location:	10.11440 103.97851
+
+(9) - Run - 1.2 km
+	TAP2
+		Images:	2020
+		Time:	15.11.2025 05:47:48 until 15.11.2025 06:53:50
+		Duration:	01:06:02
+		Location:	10.11672 103.97981
+
+	TDK2
+		Images:	1336
+		Time:	15.11.2025 05:48:49 until 15.11.2025 07:16:05
+		Duration:	01:27:16
+		Location:	10.11672 103.97981
+

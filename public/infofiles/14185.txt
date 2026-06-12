@@ -1,0 +1,72 @@
+EventId: 14185
+Spots: 10
+Total Images: 29402
+Time:	19.09.2025 15:52:05 to 19.09.2025 23:45:07
+Duration: 07:53:02
+
+(1) - Eventdoku
+	THM1
+		Images:	241
+		Time:	19.09.2025 18:28:15 until 19.09.2025 22:58:54
+		Duration:	04:30:39
+		Location:	52.37252 9.74025
+
+(2) - Start
+	BK1
+		Images:	335
+		Time:	19.09.2025 19:50:22 until 19.09.2025 20:20:11
+		Duration:	00:29:49
+		Location:	52.37252 9.74025
+
+(3) - Start / Ziel
+	MELS1
+		Images:	4560
+		Time:	19.09.2025 19:26:59 until 19.09.2025 23:44:54
+		Duration:	04:17:55
+		Location:	52.37252 9.74025
+
+	JKOR1
+		Images:	10378
+		Time:	19.09.2025 19:21:14 until 19.09.2025 23:45:07
+		Duration:	04:23:53
+		Location:	52.37252 9.74025
+
+(4) - Breite Strasse
+	AOA1
+		Images:	3333
+		Time:	19.09.2025 19:50:28 until 19.09.2025 23:17:45
+		Duration:	03:27:17
+		Location:	52.36922 9.73997
+
+(5) - Sportscheck Store Hannover
+	JONL1
+		Images:	2645
+		Time:	19.09.2025 15:52:05 until 19.09.2025 23:11:26
+		Duration:	07:19:21
+		Location:	52.37249 9.73794
+
+(6) - On Cheering Zone
+	BK2
+		Images:	1398
+		Time:	19.09.2025 20:22:14 until 19.09.2025 21:38:27
+		Duration:	01:16:13
+		Location:	52.37399 9.73917
+
+	FGA1
+		Images:	2243
+		Time:	19.09.2025 21:30:09 until 19.09.2025 23:43:27
+		Duration:	02:13:18
+		Location:	52.37399 9.73917
+
+	JOJE1
+		Images:	1910
+		Time:	19.09.2025 19:39:01 until 19.09.2025 23:39:54
+		Duration:	04:00:53
+		Location:	52.37386 9.73894
+
+	THM2
+		Images:	2359
+		Time:	19.09.2025 21:37:03 until 19.09.2025 23:32:36
+		Duration:	01:55:33
+		Location:	52.37399 9.73917
+

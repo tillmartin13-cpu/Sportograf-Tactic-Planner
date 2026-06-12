@@ -1,0 +1,55 @@
+EventId: 14457
+Spots: 7
+Total Images: 32058
+Time:	04.12.2025 22:17:50 to 05.12.2026 16:24:14
+Duration: 365.18:06:24
+
+(1) - Zone #2 500m row
+	ORGA1
+		Images:	4133
+		Time:	05.12.2025 06:39:58 until 06.12.2025 06:37:58
+		Duration:	23:58:00
+		Location:	26.09724 -80.12332
+
+(2) - Zone #5 500m Skierg
+	MAPM1
+		Images:	4753
+		Time:	05.12.2025 06:47:23 until 06.12.2025 06:37:56
+		Duration:	23:50:33
+		Location:	29.09743 -80.12363
+
+(3) - Zone #6 Farmer's Carry
+	GMAL1
+		Images:	3570
+		Time:	04.12.2025 22:17:50 until 06.12.2025 06:35:07
+		Duration:	1.08:17:17
+		Location:	26.09732 -80.12357
+
+(4) - Zone #7 25Cal Air Bike
+	JSTK1
+		Images:	4029
+		Time:	05.12.2025 05:45:20 until 05.12.2025 16:38:55
+		Duration:	10:53:35
+		Location:	26.09758 -80.12358
+
+(5) - Zone #8 Dead Ball Wall Over
+	MIVA1
+		Images:	5043
+		Time:	05.12.2025 03:44:30 until 06.12.2025 13:20:58
+		Duration:	1.09:36:28
+		Location:	26.09737 -80.12327
+
+(6) - Impressions / Pano
+	SICA1
+		Images:	113
+		Time:	05.12.2025 07:43:11 until 05.12.2026 15:46:11
+		Duration:	365.08:03:00
+		Location:	26.09735 -80.12314
+
+(7) - RUNNING AREA
+	SICA1LS1
+		Images:	10417
+		Time:	05.12.2026 06:36:41 until 05.12.2026 16:24:14
+		Duration:	09:47:33
+		Location:	26.09735 -80.12314
+

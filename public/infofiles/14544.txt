@@ -1,0 +1,94 @@
+EventId: 14544
+Spots: 13
+Total Images: 71237
+Time:	13.06.2025 20:28:04 to 15.06.2025 17:46:28
+Duration: 1.21:18:24
+
+(1) - Obstacle 6
+	CASS1
+		Images:	4106
+		Time:	14.06.2025 15:04:37 until 15.06.2025 15:25:30
+		Duration:	1.00:20:53
+		Location:	46.22318 -74.54282
+
+(2) - Obstacle 30
+	CBAC1
+		Images:	8779
+		Time:	15.06.2025 08:12:51 until 15.06.2025 17:26:43
+		Duration:	09:13:52
+		Location:	46.22531 -74.52618
+
+(3) - Obstacle 35
+	DMED1
+		Images:	3480
+		Time:	14.06.2025 08:13:26 until 15.06.2025 17:46:26
+		Duration:	1.09:33:00
+		Location:	46.22477 -74.52621
+
+(4) - General Pictures
+	THAT1DRONE1
+		Images:	101
+		Time:	13.06.2025 20:28:04 until 15.06.2025 14:39:05
+		Duration:	1.18:11:01
+		Location:	46.21738 -74.54547
+
+	NIMA1
+		Images:	1135
+		Time:	14.06.2025 07:14:34 until 15.06.2025 14:47:50
+		Duration:	1.07:33:16
+		Location:	46.21738 -74.54547
+
+(5) - Obstacle 27
+	ERIC1
+		Images:	16024
+		Time:	14.06.2025 08:40:52 until 15.06.2025 16:45:29
+		Duration:	1.08:04:37
+		Location:	46.23030 -74.53360
+
+(6) - Obstacle 34
+	HLN1
+		Images:	10261
+		Time:	15.06.2025 08:54:32 until 15.06.2025 16:54:49
+		Duration:	08:00:17
+		Location:	46.22459 -74.52630
+
+	THAT1
+		Images:	6797
+		Time:	14.06.2025 07:50:51 until 15.06.2025 17:46:28
+		Duration:	1.09:55:37
+		Location:	46.22459 -74.52630
+
+(7) - Obstacle 29
+	JSLR1
+		Images:	4514
+		Time:	14.06.2025 08:42:38 until 15.06.2025 17:24:44
+		Duration:	1.08:42:06
+		Location:	46.22580 -74.52649
+
+(8) - Obstacle 5
+	KENY1
+		Images:	3990
+		Time:	14.06.2025 08:45:39 until 15.06.2025 15:29:44
+		Duration:	1.06:44:05
+		Location:	46.22315 -74.54407
+
+	WTY1
+		Images:	5144
+		Time:	15.06.2025 07:59:00 until 15.06.2025 15:49:54
+		Duration:	07:50:54
+		Location:	46.22315 -74.54407
+
+(9) - Obstacle 4
+	LHBC1
+		Images:	3548
+		Time:	15.06.2025 07:56:34 until 15.06.2025 15:49:19
+		Duration:	07:52:45
+		Location:	46.22303 -74.54358
+
+(10) - Herotent
+	PNR1
+		Images:	3358
+		Time:	15.06.2025 09:08:47 until 15.06.2025 17:46:27
+		Duration:	08:37:40
+		Location:	46.22492 -74.52525
+

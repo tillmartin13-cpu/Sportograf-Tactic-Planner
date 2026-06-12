@@ -1,0 +1,342 @@
+EventId: 16146
+Spots: 55
+Total Images: 298074
+Time:	29.11.2025 06:25:37 to 29.11.2025 21:22:03
+Duration: 14:56:26
+
+(1) - Sandbag Lunges
+	AJL1
+		Images:	6145
+		Time:	29.11.2025 08:16:12 until 29.11.2025 14:04:38
+		Duration:	05:48:26
+		Location:	40.47011 -3.61912
+
+	ALSE2
+		Images:	9116
+		Time:	29.11.2025 14:23:10 until 29.11.2025 20:56:11
+		Duration:	06:33:01
+		Location:	40.47011 -3.61912
+
+	ECL2
+		Images:	6161
+		Time:	29.11.2025 14:40:21 until 29.11.2025 20:58:41
+		Duration:	06:18:20
+		Location:	40.47011 -3.61912
+
+	JAI3
+		Images:	2460
+		Time:	29.11.2025 10:04:08 until 29.11.2025 18:41:11
+		Duration:	08:37:03
+		Location:	40.47011 -3.61912
+
+	JCFJ3
+		Images:	8054
+		Time:	29.11.2025 10:12:29 until 29.11.2025 18:41:40
+		Duration:	08:29:11
+		Location:	40.47011 -3.61912
+
+	JRP4
+		Images:	247
+		Time:	29.11.2025 09:19:09 until 29.11.2025 11:08:51
+		Duration:	01:49:42
+		Location:	40.47011 -3.61912
+
+	SIC1
+		Images:	12089
+		Time:	29.11.2025 08:14:58 until 29.11.2025 14:16:15
+		Duration:	06:01:17
+		Location:	40.47011 -3.61912
+
+(2) - Sled Push
+	AJL2
+		Images:	2153
+		Time:	29.11.2025 14:25:26 until 29.11.2025 19:51:29
+		Duration:	05:26:03
+		Location:	40.47011 -3.61912
+
+	BSTR2
+		Images:	3006
+		Time:	29.11.2025 14:34:00 until 29.11.2025 19:49:30
+		Duration:	05:15:30
+		Location:	40.47011 -3.61912
+
+	ECL1
+		Images:	6714
+		Time:	29.11.2025 06:52:06 until 29.11.2025 14:39:08
+		Duration:	07:47:02
+		Location:	40.47011 -3.61912
+
+	JRP3
+		Images:	37
+		Time:	29.11.2025 07:37:21 until 29.11.2025 10:39:04
+		Duration:	03:01:43
+		Location:	40.47011 -3.61912
+
+	RAVE1
+		Images:	8237
+		Time:	29.11.2025 07:13:54 until 29.11.2025 14:11:10
+		Duration:	06:57:16
+		Location:	40.47011 -3.61912
+
+	ROM1
+		Images:	8485
+		Time:	29.11.2025 06:27:08 until 29.11.2025 14:20:10
+		Duration:	07:53:02
+		Location:	40.47011 -3.61912
+
+	SIC2
+		Images:	6462
+		Time:	29.11.2025 14:25:29 until 29.11.2025 19:50:47
+		Duration:	05:25:18
+		Location:	40.47011 -3.61912
+
+(3) - Rowing
+	ALSE1
+		Images:	12830
+		Time:	29.11.2025 07:18:06 until 29.11.2025 14:15:20
+		Duration:	06:57:14
+		Location:	40.47011 -3.61912
+
+	BSTR1
+		Images:	7978
+		Time:	29.11.2025 06:57:57 until 29.11.2025 14:29:39
+		Duration:	07:31:42
+		Location:	40.47011 -3.61912
+
+	JAI2
+		Images:	1934
+		Time:	29.11.2025 07:19:13 until 29.11.2025 17:59:44
+		Duration:	10:40:31
+		Location:	40.47011 -3.61912
+
+	JCFJ2
+		Images:	8042
+		Time:	29.11.2025 09:23:50 until 29.11.2025 18:02:48
+		Duration:	08:38:58
+		Location:	40.47011 -3.61912
+
+	JRP1
+		Images:	718
+		Time:	29.11.2025 08:49:31 until 29.11.2025 14:19:12
+		Duration:	05:29:41
+		Location:	40.47011 -3.61912
+
+	RAVE2
+		Images:	15047
+		Time:	29.11.2025 14:16:23 until 29.11.2025 20:33:22
+		Duration:	06:16:59
+		Location:	40.47011 -3.61912
+
+	ROM2
+		Images:	8940
+		Time:	29.11.2025 14:24:52 until 29.11.2025 20:33:07
+		Duration:	06:08:15
+		Location:	40.47011 -3.61912
+
+(4) - SkiErg
+	AMRU1
+		Images:	9287
+		Time:	29.11.2025 06:36:34 until 29.11.2025 14:40:12
+		Duration:	08:03:38
+		Location:	40.47011 -3.61912
+
+	CCG2
+		Images:	7522
+		Time:	29.11.2025 14:16:20 until 29.11.2025 19:39:39
+		Duration:	05:23:19
+		Location:	40.47011 -3.61912
+
+	CRGA1
+		Images:	7569
+		Time:	29.11.2025 06:40:07 until 29.11.2025 13:59:15
+		Duration:	07:19:08
+		Location:	40.47011 -3.61912
+
+	JASA2
+		Images:	2097
+		Time:	29.11.2025 14:15:59 until 29.11.2025 19:39:39
+		Duration:	05:23:40
+		Location:	40.47011 -3.61912
+
+	JCFJ5
+		Images:	612
+		Time:	29.11.2025 14:03:55 until 29.11.2025 14:10:48
+		Duration:	00:06:53
+		Location:	40.47011 -3.61912
+
+	JMCA1
+		Images:	5019
+		Time:	29.11.2025 06:36:29 until 29.11.2025 14:00:24
+		Duration:	07:23:55
+		Location:	40.47011 -3.61912
+
+	LUM2
+		Images:	8202
+		Time:	29.11.2025 14:15:10 until 29.11.2025 19:40:48
+		Duration:	05:25:38
+		Location:	40.47011 -3.61912
+
+(5) - Sled Pull
+	AMRU2
+		Images:	7667
+		Time:	29.11.2025 14:42:21 until 29.11.2025 19:59:45
+		Duration:	05:17:24
+		Location:	40.47011 -3.61912
+
+	CCG1
+		Images:	4985
+		Time:	29.11.2025 07:49:02 until 29.11.2025 14:07:20
+		Duration:	06:18:18
+		Location:	40.47011 -3.61912
+
+	CRGA2
+		Images:	4587
+		Time:	29.11.2025 14:09:50 until 29.11.2025 20:04:34
+		Duration:	05:54:44
+		Location:	40.47011 -3.61912
+
+	JASA1
+		Images:	1889
+		Time:	29.11.2025 07:49:01 until 29.11.2025 14:04:47
+		Duration:	06:15:46
+		Location:	40.47011 -3.61912
+
+	JMCA2
+		Images:	3540
+		Time:	29.11.2025 14:12:25 until 29.11.2025 20:04:54
+		Duration:	05:52:29
+		Location:	40.47011 -3.61912
+
+	JRP2
+		Images:	558
+		Time:	29.11.2025 09:00:54 until 29.11.2025 14:26:30
+		Duration:	05:25:36
+		Location:	40.47011 -3.61912
+
+	LUM1
+		Images:	8740
+		Time:	29.11.2025 06:41:44 until 29.11.2025 14:03:02
+		Duration:	07:21:18
+		Location:	40.47011 -3.61912
+
+(6) - Finish
+	JAI1LS1
+		Images:	2963
+		Time:	29.11.2025 08:30:05 until 29.11.2025 20:29:57
+		Duration:	11:59:52
+		Location:	40.47011 -3.61912
+
+	JRP1LS1
+		Images:	2924
+		Time:	29.11.2025 08:29:42 until 29.11.2025 20:29:34
+		Duration:	11:59:52
+		Location:	40.47011 -3.61912
+
+	MIA1
+		Images:	8016
+		Time:	29.11.2025 07:01:52 until 29.11.2025 14:03:40
+		Duration:	07:01:48
+		Location:	40.47011 -3.61912
+
+	MANR3
+		Images:	3084
+		Time:	29.11.2025 09:23:00 until 29.11.2025 18:15:23
+		Duration:	08:52:23
+		Location:	40.47011 -3.61912
+
+	STO2
+		Images:	5636
+		Time:	29.11.2025 14:04:07 until 29.11.2025 21:20:47
+		Duration:	07:16:40
+		Location:	40.47011 -3.61912
+
+(7) - Wall Balls
+	JAI4
+		Images:	1386
+		Time:	29.11.2025 10:41:32 until 29.11.2025 19:15:18
+		Duration:	08:33:46
+		Location:	40.47011 -3.61912
+
+	JCFJ4
+		Images:	4081
+		Time:	29.11.2025 07:08:09 until 29.11.2025 19:18:01
+		Duration:	12:09:52
+		Location:	40.47011 -3.61912
+
+	JMB1
+		Images:	6502
+		Time:	29.11.2025 07:45:16 until 29.11.2025 14:00:34
+		Duration:	06:15:18
+		Location:	40.47011 -3.61912
+
+	JRP5
+		Images:	220
+		Time:	29.11.2025 09:29:27 until 29.11.2025 14:10:47
+		Duration:	04:41:20
+		Location:	40.47011 -3.61912
+
+	MIA2
+		Images:	13619
+		Time:	29.11.2025 14:07:07 until 29.11.2025 21:10:04
+		Duration:	07:02:57
+		Location:	40.47011 -3.61912
+
+	MANR2
+		Images:	521
+		Time:	29.11.2025 07:38:34 until 29.11.2025 14:09:16
+		Duration:	06:30:42
+		Location:	40.47011 -3.61912
+
+	STO1
+		Images:	4326
+		Time:	29.11.2025 07:12:14 until 29.11.2025 14:01:48
+		Duration:	06:49:34
+		Location:	40.47011 -3.61912
+
+	SYV2
+		Images:	3073
+		Time:	29.11.2025 14:11:21 until 29.11.2025 20:52:45
+		Duration:	06:41:24
+		Location:	40.47011 -3.61912
+
+(8) - Smile Arch
+	JCFJ1LS2
+		Images:	6394
+		Time:	29.11.2025 06:41:17 until 29.11.2025 20:10:45
+		Duration:	13:29:28
+		Location:	40.47011 -3.61912
+
+	JCFJ1LS1
+		Images:	5815
+		Time:	29.11.2025 06:38:22 until 29.11.2025 20:05:55
+		Duration:	13:27:33
+		Location:	40.47011 -3.61912
+
+(9) - Hero Wall
+	JMB2
+		Images:	3217
+		Time:	29.11.2025 14:06:12 until 29.11.2025 21:22:03
+		Duration:	07:15:51
+		Location:	40.47011 -3.61912
+
+	SYV1
+		Images:	2407
+		Time:	29.11.2025 08:26:33 until 29.11.2025 14:06:24
+		Duration:	05:39:51
+		Location:	40.47011 -3.61912
+
+(10) - Farmers Carry
+	MANR1LS2
+		Images:	8239
+		Time:	29.11.2025 06:25:37 until 29.11.2025 20:45:22
+		Duration:	14:19:45
+		Location:	40.47011 -3.61912
+
+	MANR1LS1
+		Images:	8522
+		Time:	29.11.2025 06:34:29 until 29.11.2025 20:48:38
+		Duration:	14:14:09
+		Location:	40.47011 -3.61912
+
+(11) - Impressions / Pano
+	PANO1

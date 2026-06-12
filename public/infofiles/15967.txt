@@ -1,0 +1,60 @@
+EventId: 15967
+Spots: 9
+Total Images: 30699
+Time:	16.05.2025 13:39:14 to 16.05.2025 18:59:32
+Duration: 05:20:18
+
+(1) - Impressions / Pano
+	PANO1
+(2) - Finish
+	HKVQ1
+		Images:	8057
+		Time:	16.05.2025 17:05:19 until 16.05.2025 18:59:32
+		Duration:	01:54:13
+		Location:	60.18696 24.92645
+
+	HKSLA1
+		Images:	4766
+		Time:	16.05.2025 16:58:38 until 16.05.2025 18:58:53
+		Duration:	02:00:15
+		Location:	60.18696 24.92645
+
+	HKVQT1
+		Images:	5261
+		Time:	16.05.2025 13:39:14 until 16.05.2025 18:58:06
+		Duration:	05:18:52
+		Location:	60.18696 24.92645
+
+	HKDT1
+		Images:	3082
+		Time:	16.05.2025 17:04:17 until 16.05.2025 18:58:58
+		Duration:	01:54:41
+		Location:	60.18696 24.92645
+
+	HKDTT1
+		Images:	3470
+		Time:	16.05.2025 17:04:12 until 16.05.2025 18:58:33
+		Duration:	01:54:21
+		Location:	60.18696 24.92645
+
+(3) - 0.5 km Olympic Stadium
+	HKJSB1
+		Images:	2274
+		Time:	16.05.2025 16:52:05 until 16.05.2025 18:57:48
+		Duration:	02:05:43
+		Location:	60.18653 24.92796
+
+(4) - Start
+	HKGB1
+		Images:	1547
+		Time:	16.05.2025 17:00:00 until 16.05.2025 18:56:07
+		Duration:	01:56:07
+		Location:	60.18525 24.92465
+
+(5) - 1.0 km Olympic Stadium
+	HKMT1
+		Images:	2242
+		Time:	16.05.2025 17:02:10 until 16.05.2025 18:56:26
+		Duration:	01:54:16
+		Location:	60.18640 24.92924
+

@@ -1,0 +1,900 @@
+EventId: 13757
+Spots: 146
+Total Images: 2482083
+Time:	01.01.0001 23:00:00 to 21.09.2025 17:45:24
+Duration: 739513.18:45:24
+
+(1) - 0,0 km Start
+	ELPI1
+		Images:	2992
+		Time:	21.09.2025 08:05:19 until 21.09.2025 10:59:54
+		Duration:	02:54:35
+		Location:	52.51521 13.3602
+
+	ELUS1
+		Images:	13386
+		Time:	21.09.2025 08:06:44 until 21.09.2025 11:00:59
+		Duration:	02:54:15
+		Location:	52.51521 13.3602
+
+	ESBU1
+		Images:	3559
+		Time:	21.09.2025 08:26:11 until 21.09.2025 10:59:51
+		Duration:	02:33:40
+		Location:	52.51521 13.3602
+
+(2) - 0,9 km Siegessäule
+	EAGA1
+		Images:	1071
+		Time:	21.09.2025 08:20:08 until 21.09.2025 11:03:45
+		Duration:	02:43:37
+		Location:	52.51425 13.34606
+
+(3) - 0.9 km Siegessäule
+	ADAR1
+		Images:	12938
+		Time:	21.09.2025 08:35:29 until 21.09.2025 11:07:10
+		Duration:	02:31:41
+		Location:	52.51425 13.34606
+
+	AMFR1
+		Images:	3873
+		Time:	21.09.2025 08:51:17 until 21.09.2025 11:07:53
+		Duration:	02:16:36
+		Location:	52.51425 13.34606
+
+	ASK1
+		Images:	12060
+		Time:	21.09.2025 08:37:23 until 21.09.2025 11:08:36
+		Duration:	02:31:13
+		Location:	52.51425 13.34606
+
+(4) - 5.1 km Kleiner Tiergarten
+	AKMI1
+		Images:	10401
+		Time:	21.09.2025 07:08:32 until 21.09.2025 11:44:01
+		Duration:	04:35:29
+		Location:	52.52497 13.34627
+
+	ARPRA1
+		Images:	19377
+		Time:	21.09.2025 08:21:36 until 21.09.2025 11:54:29
+		Duration:	03:32:53
+		Location:	52.52497 13.34627
+
+(5) - 52.51601, 13.37257
+	DSBU1
+		Images:	23074
+		Time:	21.09.2025 11:53:30 until 21.09.2025 17:35:50
+		Duration:	05:42:20
+		Location:	52.51601 13.37257
+
+(6) - 6.6 km Moltkebrücke
+	ASF1
+		Images:	3666
+		Time:	21.09.2025 08:29:45 until 21.09.2025 12:01:43
+		Duration:	03:31:58
+		Location:	52.5219 13.36872
+
+	ASF2
+		Images:	10326
+		Time:	21.09.2025 08:34:18 until 21.09.2025 12:00:14
+		Duration:	03:25:56
+		Location:	52.5219 13.36872
+
+(7) - 8.1 km Friedrichstadt-Palast
+	ATHIS1
+		Images:	29393
+		Time:	21.09.2025 09:00:45 until 21.09.2025 12:15:24
+		Duration:	03:14:39
+		Location:	52.5245 13.3875
+
+(8) - Herotent KM 0,9 Siegessäule
+	DASE1
+		Images:	4788
+		Time:	21.09.2025 08:38:07 until 21.09.2025 11:08:20
+		Duration:	02:30:13
+		Location:	52.51425 13.34606
+
+(9) - Impressions / Pano
+	PANO1
+(10) - KM 0,0 Start
+	F1
+	FGUD1
+		Images:	12031
+		Time:	21.09.2025 08:05:03 until 21.09.2025 10:59:49
+		Duration:	02:54:46
+		Location:	52.51521 13.3602
+
+	FGUD1LS1
+		Images:	3046
+		Time:	21.09.2025 08:29:19 until 21.09.2025 11:02:51
+		Duration:	02:33:32
+		Location:	52.51521 13.3602
+
+	FGUD1LS2
+		Images:	3058
+		Time:	21.09.2025 08:29:04 until 21.09.2025 11:02:54
+		Duration:	02:33:50
+		Location:	52.51521 13.3602
+
+	FSJK1
+		Images:	4571
+		Time:	21.09.2025 08:05:09 until 21.09.2025 11:00:42
+		Duration:	02:55:33
+		Location:	52.51521 13.3602
+
+(11) - KM 12,1 Strausberger Platz
+	DEZ1
+		Images:	24976
+		Time:	21.09.2025 09:06:28 until 21.09.2025 13:01:25
+		Duration:	03:54:57
+		Location:	52.51813 13.42799
+
+	DEZ1LS1
+		Images:	2159
+		Time:	21.09.2025 08:28:07 until 21.09.2025 12:55:01
+		Duration:	04:26:54
+		Location:	52.51813 13.42799
+
+	DKHR1
+		Images:	18649
+		Time:	21.09.2025 09:08:04 until 21.09.2025 13:00:21
+		Duration:	03:52:17
+		Location:	52.51813 13.42799
+
+	DKHR1LS1
+		Images:	6011
+		Time:	21.09.2025 09:25:35 until 21.09.2025 12:54:29
+		Duration:	03:28:54
+		Location:	52.51813 13.42799
+
+(12) - KM 20,9 Graffitibrücken
+	CSLE1
+		Images:	20981
+		Time:	21.09.2025 09:12:22 until 21.09.2025 14:10:48
+		Duration:	04:58:26
+		Location:	52.49322 13.36824
+
+	CSLE1LS1
+		Images:	6780
+		Time:	21.09.2025 08:40:36 until 21.09.2025 14:15:59
+		Duration:	05:35:23
+		Location:	52.49322 13.36824
+
+	FJKIM1
+		Images:	21688
+		Time:	21.09.2025 08:17:08 until 21.09.2025 14:11:04
+		Duration:	05:53:56
+		Location:	52.49322 13.36824
+
+(13) - KM 23,3 Rathaus Schöneberg/Kennedy Balcony
+	CMOHI1
+		Images:	23678
+		Time:	21.09.2025 09:23:33 until 21.09.2025 14:45:46
+		Duration:	05:22:13
+		Location:	52.48421 13.34502
+
+	FREM1
+		Images:	49337
+		Time:	21.09.2025 09:25:33 until 21.09.2025 14:46:08
+		Duration:	05:20:35
+		Location:	52.48421 13.34502
+
+	FREM1LS1
+		Images:	950
+		Time:	21.09.2025 09:39:45 until 21.09.2025 14:53:18
+		Duration:	05:13:33
+		Location:	52.48421 13.34502
+
+(14) - KM 34,7 Kurfürstendamm/Café Kranzler
+	EPSA1
+		Images:	10506
+		Time:	21.09.2025 09:07:24 until 21.09.2025 16:17:58
+		Duration:	07:10:34
+		Location:	52.50369 13.33127
+
+	ESTEL1
+		Images:	33305
+		Time:	21.09.2025 08:56:11 until 21.09.2025 16:18:37
+		Duration:	07:22:26
+		Location:	52.50369 13.33127
+
+(15) - KM 35,2 Kaiser-Wilhelm-Gedächtniskirche
+	FDASC1
+		Images:	26383
+		Time:	21.09.2025 09:20:36 until 21.09.2025 16:28:52
+		Duration:	07:08:16
+		Location:	52.50395 13.33696
+
+	FGJ1
+		Images:	6655
+		Time:	21.09.2025 10:52:21 until 21.09.2025 16:24:57
+		Duration:	05:32:36
+		Location:	52.50395 13.33696
+
+	FGJ2
+		Images:	6785
+		Time:	21.09.2025 10:48:16 until 21.09.2025 16:27:28
+		Duration:	05:39:12
+		Location:	52.50395 13.33696
+
+	FMAJA1
+		Images:	19032
+		Time:	21.09.2025 08:33:23 until 21.09.2025 16:20:12
+		Duration:	07:46:49
+		Location:	52.50395 13.33696
+
+(16) - KM 35,5 KaDeWe
+	ETOBM1
+		Images:	11347
+		Time:	21.09.2025 09:38:20 until 21.09.2025 16:26:12
+		Duration:	06:47:52
+		Location:	52.50217 13.34146
+
+	FTV1
+		Images:	13353
+		Time:	21.09.2025 09:35:42 until 21.09.2025 16:23:14
+		Duration:	06:47:32
+		Location:	52.50217 13.34146
+
+(17) - KM 36,5 Nollendorf Platz
+	CBL1
+		Images:	8180
+		Time:	21.09.2025 09:45:18 until 21.09.2025 16:38:56
+		Duration:	06:53:38
+		Location:	52.4992 13.35621
+
+	CBL1LS1
+		Images:	7018
+		Time:	21.09.2025 09:39:27 until 21.09.2025 16:43:04
+		Duration:	07:03:37
+		Location:	52.4992 13.35621
+
+	DAEPB1
+		Images:	16287
+		Time:	21.09.2025 09:39:45 until 21.09.2025 16:37:55
+		Duration:	06:58:10
+		Location:	52.4992 13.35621
+
+(18) - KM 38,8 Potsdamer Platz
+	BGSA1
+		Images:	31198
+		Time:	21.09.2025 08:55:27 until 21.09.2025 17:02:14
+		Duration:	08:06:47
+		Location:	52.5096 13.37866
+
+	BRJ1
+		Images:	24905
+		Time:	21.09.2025 09:48:50 until 21.09.2025 16:58:27
+		Duration:	07:09:37
+		Location:	52.5096 13.37866
+
+	BRJ1LS1
+		Images:	5783
+		Time:	21.09.2025 11:32:51 until 21.09.2025 16:58:51
+		Duration:	05:26:00
+		Location:	52.5096 13.37866
+
+	ETASI1
+		Images:	43140
+		Time:	21.09.2025 09:38:03 until 21.09.2025 16:59:40
+		Duration:	07:21:37
+		Location:	52.5096 13.37866
+
+	GCHWI1
+		Images:	17547
+		Time:	21.09.2025 09:18:19 until 21.09.2025 17:03:09
+		Duration:	07:44:50
+		Location:	52.5096 13.37866
+
+	GCM1
+		Images:	18499
+		Time:	21.09.2025 08:09:22 until 21.09.2025 17:01:24
+		Duration:	08:52:02
+		Location:	52.5096 13.37866
+
+	GCM1LS1
+		Images:	2912
+		Time:	21.09.2025 09:07:44 until 21.09.2025 15:11:58
+		Duration:	06:04:14
+		Location:	52.5096 13.37866
+
+	GDDT1
+		Images:	31308
+		Time:	21.09.2025 09:21:44 until 21.09.2025 17:01:43
+		Duration:	07:39:59
+		Location:	52.5096 13.37866
+
+(19) - KM 39,2 Bundesrat
+	ARPRA2
+		Images:	30780
+		Time:	21.09.2025 12:29:43 until 21.09.2025 17:02:12
+		Duration:	04:32:29
+		Location:	52.50984 13.38172
+
+	BAKON1
+		Images:	12478
+		Time:	21.08.2025 11:06:45 until 21.09.2025 11:02:51
+		Duration:	30.23:56:06
+		Location:	52.50984 13.38172
+
+	BFDC1
+		Images:	27282
+		Time:	21.09.2025 09:34:47 until 21.09.2025 17:01:41
+		Duration:	07:26:54
+		Location:	52.50984 13.38172
+
+	DKMI1
+		Images:	20278
+		Time:	21.09.2025 12:30:43 until 21.09.2025 17:06:14
+		Duration:	04:35:31
+		Location:	52.50984 13.38172
+
+	GKYZ1
+		Images:	20655
+		Time:	21.09.2025 08:43:42 until 21.09.2025 17:00:16
+		Duration:	08:16:34
+		Location:	52.50984 13.38172
+
+(20) - KM 40,4 Deutscher Dom
+	CABL1
+		Images:	21798
+		Time:	21.09.2025 09:03:56 until 21.09.2025 17:17:34
+		Duration:	08:13:38
+		Location:	52.51302 13.39338
+
+	CMIRW1
+		Images:	13210
+		Time:	21.09.2025 13:05:57 until 21.09.2025 17:15:28
+		Duration:	04:09:31
+		Location:	52.51302 13.39338
+
+	CSF1
+		Images:	10000
+		Time:	21.09.2025 13:06:14 until 21.09.2025 17:14:36
+		Duration:	04:08:22
+		Location:	52.51302 13.39338
+
+	DJMU1
+		Images:	19677
+		Time:	21.09.2025 09:46:01 until 21.09.2025 17:14:51
+		Duration:	07:28:50
+		Location:	52.51302 13.39338
+
+	GDAL1
+		Images:	11885
+		Time:	21.09.2025 09:45:16 until 21.09.2025 17:16:49
+		Duration:	07:31:33
+		Location:	52.51302 13.39338
+
+(21) - KM 40,6 Konzerthaus Berlin/Gendarmenmarkt
+	BTHIS1LS1
+		Images:	19502
+		Time:	21.09.2025 13:17:33 until 21.09.2025 17:24:32
+		Duration:	04:06:59
+		Location:	52.51406 13.39318
+
+	CBOC1
+		Images:	27606
+		Time:	21.09.2025 09:06:14 until 21.09.2025 17:19:46
+		Duration:	08:13:32
+		Location:	52.51406 13.39318
+
+	DASE2
+		Images:	7872
+		Time:	21.09.2025 12:31:27 until 21.09.2025 17:05:38
+		Duration:	04:34:11
+		Location:	52.51406 13.39318
+
+	DDAR1
+		Images:	20430
+		Time:	21.09.2025 13:10:15 until 21.09.2025 17:17:38
+		Duration:	04:07:23
+		Location:	52.51406 13.39318
+
+	DHV1
+		Images:	28203
+		Time:	21.09.2025 09:08:18 until 21.09.2025 17:17:54
+		Duration:	08:09:36
+		Location:	52.51406 13.39318
+
+	DHV1LS1
+		Images:	6840
+		Time:	21.09.2025 09:02:23 until 21.09.2025 17:25:06
+		Duration:	08:22:43
+		Location:	52.51406 13.39318
+
+	EFAW1
+		Images:	22524
+		Time:	21.09.2025 09:19:03 until 21.09.2025 17:17:09
+		Duration:	07:58:06
+		Location:	52.51406 13.39318
+
+	GDIA1
+		Images:	21234
+		Time:	21.09.2025 09:26:09 until 21.09.2025 17:16:22
+		Duration:	07:50:13
+		Location:	52.51406 13.39318
+
+	GMFR1LS1
+		Images:	12539
+		Time:	21.09.2025 13:10:17 until 21.09.2025 17:15:37
+		Duration:	04:05:20
+		Location:	52.51406 13.39318
+
+(22) - KM 40,8 Französischer Dom
+	BFKE1
+		Images:	11285
+		Time:	21.09.2025 09:45:42 until 21.09.2025 17:33:02
+		Duration:	07:47:20
+		Location:	52.51494 13.39293
+
+	FEN1
+		Images:	43501
+		Time:	21.09.2025 09:45:47 until 21.09.2025 17:18:11
+		Duration:	07:32:24
+		Location:	52.51494 13.39293
+
+	FJMAR1
+		Images:	32508
+		Time:	21.09.2025 09:45:36 until 21.09.2025 17:24:27
+		Duration:	07:38:51
+		Location:	52.51494 13.39293
+
+	FRET1
+		Images:	14558
+		Time:	21.09.2025 09:45:39 until 21.09.2025 17:25:44
+		Duration:	07:40:05
+		Location:	52.51494 13.39293
+
+(23) - KM 41,4 Unter den Linden
+	ALSI1
+		Images:	16987
+		Time:	21.09.2025 09:15:46 until 21.09.2025 17:40:03
+		Duration:	08:24:17
+		Location:	52.51652 13.3839
+
+	BCFMP1
+		Images:	41772
+		Time:	21.09.2025 09:23:06 until 21.09.2025 17:30:34
+		Duration:	08:07:28
+		Location:	52.51652 13.3839
+
+	BMA1
+		Images:	29052
+		Time:	21.09.2025 08:43:26 until 21.09.2025 17:32:56
+		Duration:	08:49:30
+		Location:	52.51652 13.3839
+
+	CEZ1
+		Images:	11557
+		Time:	21.09.2025 13:49:57 until 21.09.2025 17:41:27
+		Duration:	03:51:30
+		Location:	52.51652 13.3839
+
+	DEQ1
+		Images:	40000
+		Time:	21.09.2025 09:21:16 until 21.09.2025 16:06:35
+		Duration:	06:45:19
+		Location:	52.51652 13.3839
+
+	DEQ1LS1
+		Images:	6593
+		Time:	21.09.2025 16:09:26 until 21.09.2025 17:25:38
+		Duration:	01:16:12
+		Location:	52.51652 13.3839
+
+	DEQ1LS2
+		Images:	5846
+		Time:	21.09.2025 09:08:17 until 21.09.2025 17:23:38
+		Duration:	08:15:21
+		Location:	52.51652 13.3839
+
+	FKHR1
+		Images:	9221
+		Time:	21.09.2025 14:03:06 until 21.09.2025 17:32:15
+		Duration:	03:29:09
+		Location:	52.51652 13.3839
+
+(24) - KM 41,8 Pariser Platz/Hotel Adlon
+	AJUSE1
+		Images:	33527
+		Time:	21.09.2025 09:48:39 until 21.09.2025 17:31:15
+		Duration:	07:42:36
+		Location:	52.51629 13.37836
+
+	AJZE1
+		Images:	48263
+		Time:	21.09.2025 09:06:34 until 21.09.2025 17:29:33
+		Duration:	08:22:59
+		Location:	52.51629 13.37836
+
+	AJZE1LS1
+		Images:	7782
+		Time:	01.01.0001 23:00:00 until 21.09.2025 17:30:25
+		Duration:	739513.18:30:25
+		Location:	52.51629 13.37836
+
+	BRES1
+		Images:	41690
+		Time:	21.09.2025 09:40:19 until 21.09.2025 17:30:54
+		Duration:	07:50:35
+		Location:	52.51629 13.37836
+
+	CSK1
+		Images:	12551
+		Time:	21.09.2025 12:31:08 until 21.09.2025 17:23:31
+		Duration:	04:52:23
+		Location:	52.51629 13.37836
+
+	ENDK1
+		Images:	13427
+		Time:	21.09.2025 08:27:20 until 21.09.2025 17:31:14
+		Duration:	09:03:54
+		Location:	52.51629 13.37836
+
+	FJE1
+		Images:	31105
+		Time:	21.09.2025 08:48:55 until 21.09.2025 17:32:45
+		Duration:	08:43:50
+		Location:	52.51629 13.37836
+
+	FMASC1
+		Images:	4499
+		Time:	21.09.2025 13:01:53 until 21.09.2025 17:23:42
+		Duration:	04:21:49
+		Location:	52.51629 13.37836
+
+	GMAGI1
+		Images:	22729
+		Time:	21.09.2025 08:28:59 until 21.09.2025 17:30:30
+		Duration:	09:01:31
+		Location:	52.51629 13.37836
+
+	GMUM1
+		Images:	13489
+		Time:	21.09.2025 13:03:02 until 21.09.2025 17:30:36
+		Duration:	04:27:34
+		Location:	52.51629 13.37836
+
+(25) - KM 41,9 Brandenburger Tor
+	AJAK1
+		Images:	19995
+		Time:	21.09.2025 09:47:23 until 21.09.2025 17:31:19
+		Duration:	07:43:56
+		Location:	52.51627 13.37689
+
+	CMDO1
+		Images:	34936
+		Time:	21.09.2025 09:03:02 until 21.09.2025 17:31:29
+		Duration:	08:28:27
+		Location:	52.51627 13.37689
+
+	CMDO1LS1
+		Images:	9319
+		Time:	21.09.2025 09:08:03 until 21.09.2025 17:31:44
+		Duration:	08:23:41
+		Location:	52.51627 13.37689
+
+	CPMA1
+		Images:	23319
+		Time:	21.09.2025 10:05:16 until 21.09.2025 17:29:51
+		Duration:	07:24:35
+		Location:	52.51627 13.37689
+
+	CPMA1LS1
+		Images:	8841
+		Time:	21.09.2025 09:50:41 until 21.09.2025 17:21:25
+		Duration:	07:30:44
+		Location:	52.51627 13.37689
+
+	ESLOM1
+		Images:	15675
+		Time:	21.09.2025 09:47:29 until 21.09.2025 17:32:01
+		Duration:	07:44:32
+		Location:	52.51627 13.37689
+
+	FRAMA1
+		Images:	24745
+		Time:	21.09.2025 09:24:42 until 21.09.2025 17:32:24
+		Duration:	08:07:42
+		Location:	52.51627 13.37689
+
+	FRAMA1LS1
+		Images:	8500
+		Time:	21.09.2025 08:58:13 until 21.09.2025 17:30:39
+		Duration:	08:32:26
+		Location:	52.51627 13.37689
+
+(26) - KM 42,0 Zieleinlauf / Finish Straight
+	BBK1
+		Images:	43096
+		Time:	21.09.2025 09:47:42 until 21.09.2025 17:33:02
+		Duration:	07:45:20
+		Location:	52.51612 13.37454
+
+	EALN1
+		Images:	40000
+		Time:	21.09.2025 09:47:39 until 21.09.2025 17:29:30
+		Duration:	07:41:51
+		Location:	52.51612 13.37454
+
+	EMOIK1
+		Images:	21281
+		Time:	21.09.2025 08:52:05 until 21.09.2025 17:33:41
+		Duration:	08:41:36
+		Location:	52.51612 13.37454
+
+	FALN1LS1
+		Images:	19913
+		Time:	21.09.2025 11:57:15 until 21.09.2025 17:17:43
+		Duration:	05:20:28
+		Location:	52.51612 13.37454
+
+	FALN1LS2
+		Images:	17982
+		Time:	21.09.2025 11:57:13 until 21.09.2025 17:17:40
+		Duration:	05:20:27
+		Location:	52.51612 13.37454
+
+	GGBR1
+		Images:	47247
+		Time:	21.09.2025 09:47:40 until 21.09.2025 17:33:36
+		Duration:	07:45:56
+		Location:	52.51612 13.37454
+
+(27) - KM 42,2 Fotobridge after Finish
+	CABRI1
+		Images:	19093
+		Time:	21.09.2025 09:09:23 until 21.09.2025 17:33:39
+		Duration:	08:24:16
+		Location:	52.51599 13.37216
+
+	CNU1
+		Images:	20889
+		Time:	21.09.2025 09:12:29 until 21.09.2025 17:34:24
+		Duration:	08:21:55
+		Location:	52.51599 13.37216
+
+	CNU1LS1
+		Images:	9067
+		Time:	21.09.2025 09:05:51 until 21.09.2025 17:34:58
+		Duration:	08:29:07
+		Location:	52.51599 13.37216
+
+	DAVR1
+		Images:	22548
+		Time:	21.09.2025 09:11:51 until 21.09.2025 17:35:34
+		Duration:	08:23:43
+		Location:	52.51599 13.37216
+
+	GDAN1
+		Images:	14874
+		Time:	21.09.2025 09:47:52 until 21.09.2025 17:32:49
+		Duration:	07:44:57
+		Location:	52.51599 13.37216
+
+	GDAN1LS1
+		Images:	10252
+		Time:	21.09.2025 11:46:55 until 21.09.2025 17:32:30
+		Duration:	05:45:35
+		Location:	52.51599 13.37216
+
+(28) - KM 42.1 Finish / Ziel
+	AGUD1
+		Images:	24654
+		Time:	21.09.2025 12:24:07 until 21.09.2025 17:31:47
+		Duration:	05:07:40
+		Location:	52.51601 13.37257
+
+	AGUD1LS1
+		Images:	6765
+		Time:	21.09.2025 11:56:17 until 21.09.2025 17:36:48
+		Duration:	05:40:31
+		Location:	52.51601 13.37257
+
+	AGUD1LS2
+		Images:	6797
+		Time:	21.09.2025 11:53:09 until 21.09.2025 17:34:45
+		Duration:	05:41:36
+		Location:	52.51601 13.37257
+
+	BLPI1
+		Images:	19593
+		Time:	21.09.2025 11:49:34 until 21.09.2025 17:34:50
+		Duration:	05:45:16
+		Location:	52.51601 13.37257
+
+	BLPI1LS1
+		Images:	9431
+		Time:	21.09.2025 11:54:13 until 21.09.2025 17:35:33
+		Duration:	05:41:20
+		Location:	52.51601 13.37257
+
+	DADHA1
+		Images:	21572
+		Time:	21.09.2025 09:17:22 until 21.09.2025 17:34:57
+		Duration:	08:17:35
+		Location:	52.51601 13.37257
+
+	DAGP1
+		Images:	24904
+		Time:	21.09.2025 09:47:15 until 21.09.2025 17:34:33
+		Duration:	07:47:18
+		Location:	52.51601 13.37257
+
+	DCRIC1
+		Images:	24230
+		Time:	21.09.2025 09:00:18 until 21.09.2025 17:33:58
+		Duration:	08:33:40
+		Location:	52.51601 13.37257
+
+	DCRIC1LS1
+		Images:	10085
+		Time:	21.09.2025 11:57:23 until 21.09.2025 17:34:25
+		Duration:	05:37:02
+		Location:	52.51601 13.37257
+
+	ELUS2
+		Images:	39762
+		Time:	21.09.2025 11:48:40 until 21.09.2025 17:35:31
+		Duration:	05:46:51
+		Location:	52.51601 13.37257
+
+	ESJK1
+		Images:	12809
+		Time:	21.09.2025 11:50:58 until 21.09.2025 17:33:59
+		Duration:	05:43:01
+		Location:	52.51601 13.37257
+
+	GJAKO1
+		Images:	17794
+		Time:	21.09.2025 09:30:57 until 21.09.2025 17:34:53
+		Duration:	08:03:56
+		Location:	52.51601 13.37257
+
+	ZZZ1
+		Images:	31885
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	52.51601 13.37257
+
+(29) - KM 6,6 Moltkebrücke
+	FMIRW1
+		Images:	16582
+		Time:	21.09.2025 07:47:28 until 21.09.2025 12:00:01
+		Duration:	04:12:33
+		Location:	52.5219 13.36872
+
+(30) - KM 7,2 Kronprinzenbrücke
+	FMUM1
+		Images:	16340
+		Time:	21.09.2025 08:34:33 until 21.09.2025 12:04:28
+		Duration:	03:29:55
+		Location:	52.5219 13.37598
+
+	GMASC1
+		Images:	5122
+		Time:	21.09.2025 07:57:11 until 21.09.2025 12:06:02
+		Duration:	04:08:51
+		Location:	52.5219 13.37598
+
+(31) - KM 8,1 Friedrichstadt-Palast
+	CTHO1
+		Images:	35683
+		Time:	21.09.2025 08:30:25 until 21.09.2025 12:15:36
+		Duration:	03:45:11
+		Location:	52.5245 13.3875
+
+	CTHO1LS1
+		Images:	3232
+		Time:	21.09.2025 08:19:32 until 21.09.2025 12:17:32
+		Duration:	03:58:00
+		Location:	52.5245 13.3875
+
+	ETHO1
+		Images:	14945
+		Time:	21.09.2025 13:16:26 until 21.09.2025 17:30:16
+		Duration:	04:13:50
+		Location:	52.5245 13.3875
+
+(32) - Medals
+	BAGA1
+		Images:	19951
+		Time:	21.09.2025 13:00:35 until 21.09.2025 16:37:32
+		Duration:	03:36:57
+		Location:	52.5159 13.37094
+
+	BMATI1
+		Images:	10157
+		Time:	21.09.2025 09:16:19 until 21.09.2025 17:35:56
+		Duration:	08:19:37
+		Location:	52.5159 13.37094
+
+	BMGEN1
+		Images:	14332
+		Time:	21.09.2025 09:25:48 until 21.09.2025 17:31:21
+		Duration:	08:05:33
+		Location:	52.5159 13.37094
+
+	BMMAN1
+		Images:	19428
+		Time:	21.09.2025 09:18:22 until 21.09.2025 17:36:03
+		Duration:	08:17:41
+		Location:	52.5159 13.37094
+
+	CDABT1
+		Images:	3286
+		Time:	21.09.2025 09:29:39 until 21.09.2025 17:37:12
+		Duration:	08:07:33
+		Location:	52.5159 13.37094
+
+	CFW1
+		Images:	9983
+		Time:	21.09.2025 08:17:55 until 21.09.2025 17:37:29
+		Duration:	09:19:34
+		Location:	52.5159 13.37094
+
+	DJOPE1
+		Images:	16344
+		Time:	01.01.2016 00:02:51 until 21.09.2025 17:33:37
+		Duration:	3551.17:30:46
+		Location:	52.5159 13.37094
+
+	DMPU1
+		Images:	9568
+		Time:	21.09.2025 10:27:04 until 21.09.2025 17:03:52
+		Duration:	06:36:48
+		Location:	52.5159 13.37094
+
+	EGA1
+		Images:	11512
+		Time:	21.09.2025 09:20:29 until 21.09.2025 17:37:24
+		Duration:	08:16:55
+		Location:	52.5159 13.37094
+
+	EMEM1
+		Images:	4446
+		Time:	21.09.2025 10:04:05 until 21.09.2025 17:33:56
+		Duration:	07:29:51
+		Location:	52.5159 13.37094
+
+	FDAB1
+		Images:	3426
+		Time:	21.09.2025 10:30:50 until 21.09.2025 17:37:56
+		Duration:	07:07:06
+		Location:	52.5159 13.37094
+
+	FMARS1
+		Images:	10212
+		Time:	21.09.2025 09:24:38 until 21.09.2025 17:34:20
+		Duration:	08:09:42
+		Location:	52.5159 13.37094
+
+	FOAD1
+		Images:	5475
+		Time:	21.09.2025 09:19:27 until 21.09.2025 17:37:25
+		Duration:	08:17:58
+		Location:	52.5159 13.37094
+
+	GQCC1
+		Images:	11862
+		Time:	21.09.2025 09:16:35 until 21.09.2025 17:38:04
+		Duration:	08:21:29
+		Location:	52.5159 13.37094
+
+	GRWE1
+		Images:	5567
+		Time:	21.09.2025 09:19:47 until 21.09.2025 17:37:57
+		Duration:	08:18:10
+		Location:	52.5159 13.37094
+
+	GVR1
+		Images:	23080
+		Time:	21.09.2025 09:16:36 until 21.09.2025 17:45:24
+		Duration:	08:28:48
+		Location:	52.5159 13.37094
+
+(33) - none
+	D1

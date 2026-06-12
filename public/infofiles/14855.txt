@@ -1,0 +1,148 @@
+EventId: 14855
+Spots: 23
+Total Images: 87333
+Time:	31.12.2012 23:00:24 to 26.04.2025 15:45:46
+Duration: 4498.16:45:22
+
+(1) - Obstacle 20 Grand Slide
+	CKO1
+		Images:	15688
+		Time:	24.04.2025 23:17:15 until 26.04.2025 15:42:15
+		Duration:	1.16:25:00
+		Location:	48.91208 2.72835
+
+(2) - Impressions / Pano
+	EVL1DRONE1
+		Images:	9
+		Time:	26.04.2025 10:13:26 until 26.04.2025 10:54:18
+		Duration:	00:40:52
+		Location:	48.91233 2.72931
+
+	PANO1
+	EVL1
+		Images:	1368
+		Time:	26.04.2025 10:04:52 until 26.04.2025 15:02:28
+		Duration:	04:57:36
+		Location:	48.91233 2.72931
+
+(3) - Finish
+	EVL1LS2
+		Images:	1031
+		Time:	26.04.2025 09:40:31 until 26.04.2025 15:43:20
+		Duration:	06:02:49
+		Location:	48.91214 2.72925
+
+	EVL1LS1
+		Images:	1759
+		Time:	26.04.2025 09:33:08 until 26.04.2025 15:45:46
+		Duration:	06:12:38
+		Location:	48.91214 2.72925
+
+	MAI1
+		Images:	9898
+		Time:	26.04.2025 08:43:06 until 26.04.2025 15:42:51
+		Duration:	06:59:45
+		Location:	48.91214 2.72925
+
+(4) - Obstacle 7 Pyramide
+	FVOR1
+		Images:	3750
+		Time:	26.04.2025 09:50:33 until 26.04.2025 14:54:18
+		Duration:	05:03:45
+		Location:	48.90876 2.72680
+
+	FVOR1LS1
+		Images:	3277
+		Time:	26.04.2025 09:48:27 until 26.04.2025 14:58:06
+		Duration:	05:09:39
+		Location:	48.90876 2.72680
+
+	MAWI1
+		Images:	4033
+		Time:	26.04.2025 09:51:21 until 26.04.2025 14:54:56
+		Duration:	05:03:35
+		Location:	48.90876 2.72680
+
+	MAWI1LS1
+		Images:	3125
+		Time:	26.04.2025 09:41:31 until 26.04.2025 14:58:14
+		Duration:	05:16:43
+		Location:	48.90876 2.72680
+
+(5) - Obstacle 10 Great Wall
+	JABR1
+		Images:	3255
+		Time:	26.04.2025 09:51:08 until 26.04.2025 15:02:14
+		Duration:	05:11:06
+		Location:	48.90458 2.73287
+
+	MASG1
+		Images:	1021
+		Time:	26.04.2025 10:06:56 until 26.04.2025 15:03:47
+		Duration:	04:56:51
+		Location:	48.90458 2.73287
+
+(6) - Obstacle 15 Grid Bridge
+	JBAU1
+		Images:	1569
+		Time:	26.04.2025 09:26:19 until 26.04.2025 15:31:35
+		Duration:	06:05:16
+		Location:	48.90665 2.72758
+
+	MAPP1
+		Images:	1756
+		Time:	26.04.2025 10:04:03 until 26.04.2025 15:31:00
+		Duration:	05:26:57
+		Location:	48.90665 2.72758
+
+(7) - Herotent
+	JDU1
+		Images:	3219
+		Time:	26.04.2025 10:18:09 until 26.04.2025 15:44:05
+		Duration:	05:25:56
+		Location:	48.91214 2.72925
+
+	JI1
+		Images:	2066
+		Time:	26.04.2025 09:21:35 until 26.04.2025 15:44:09
+		Duration:	06:22:34
+		Location:	48.91214 2.72925
+
+(8) - Obstacle 8 Foam Party
+	JOMA1
+		Images:	5221
+		Time:	26.04.2025 10:02:38 until 26.04.2025 14:55:02
+		Duration:	04:52:24
+		Location:	48.90882 2.72647
+
+	JOMA1LS2
+		Images:	6483
+		Time:	31.12.2012 23:00:24 until 26.04.2025 14:54:55
+		Duration:	4498.15:54:31
+		Location:	48.90882 2.72647
+
+	JOMA1LS1
+		Images:	6633
+		Time:	31.12.2013 23:00:53 until 01.01.2014 04:19:57
+		Duration:	05:19:04
+		Location:	48.90882 2.72647
+
+(9) - Obstacle 14 Mud Crawl
+	MIB1
+		Images:	4247
+		Time:	26.04.2025 10:30:49 until 26.04.2025 15:21:21
+		Duration:	04:50:32
+		Location:	48.90468 2.72173
+
+	MIB1LS1
+		Images:	1876
+		Time:	26.04.2025 10:27:33 until 26.04.2025 15:23:02
+		Duration:	04:55:29
+		Location:	48.90468 2.72173
+
+	VIT1
+		Images:	6049
+		Time:	26.04.2025 09:46:22 until 26.04.2025 15:21:15
+		Duration:	05:34:53
+		Location:	48.90468 2.72173
+

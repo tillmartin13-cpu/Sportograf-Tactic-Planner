@@ -1,0 +1,360 @@
+EventId: 14652
+Spots: 55
+Total Images: 114214
+Time:	01.01.0001 23:00:00 to 06.07.2025 11:06:19
+Duration: 739436.12:06:19
+
+(1) - START CDH
+	JMP1
+		Images:	84
+		Time:	03.07.2025 22:41:06 until 04.07.2025 06:15:03
+		Duration:	07:33:57
+		Location:	42.81552 0.71153
+
+	JLTG1
+		Images:	281
+		Time:	04.07.2025 05:32:02 until 04.07.2025 14:18:53
+		Duration:	08:46:51
+		Location:	42.81552 0.71153
+
+(2) - CDH KM 7,5
+	OAC1
+		Images:	6813
+		Time:	04.07.2025 07:17:09 until 04.07.2025 09:21:59
+		Duration:	02:04:50
+		Location:	42.81790 0.81221
+
+(3) - CDH KM 7
+	ATRE1
+		Images:	4375
+		Time:	04.07.2025 06:34:45 until 04.07.2025 09:27:46
+		Duration:	02:53:01
+		Location:	42.83862 0.73958
+
+(4) - CDH KM 8
+	UGA1
+		Images:	4589
+		Time:	04.07.2025 07:02:12 until 04.07.2025 08:59:51
+		Duration:	01:57:39
+		Location:	42.82247 0.79962
+
+(5) - CDH KM 10
+	JMO1
+		Images:	3298
+		Time:	04.07.2025 05:59:51 until 04.07.2025 08:44:09
+		Duration:	02:44:18
+		Location:	42.81847 0.81190
+
+	JMO2
+		Images:	3172
+		Time:	04.07.2025 08:44:10 until 04.07.2025 18:50:53
+		Duration:	10:06:43
+		Location:	42.81847 0.81190
+
+(6) - CDH KM 46,9
+	GGA1
+		Images:	2262
+		Time:	04.07.2025 10:07:09 until 04.07.2025 16:24:57
+		Duration:	06:17:48
+		Location:	42.75882 0.99468
+
+	GGA1LS1
+		Images:	2057
+		Time:	04.07.2025 10:43:16 until 04.07.2025 16:19:00
+		Duration:	05:35:44
+		Location:	42.75882 0.99468
+
+	GGA1LS2
+		Images:	2144
+		Time:	04.07.2025 10:39:18 until 04.07.2025 16:17:20
+		Duration:	05:38:02
+		Location:	42.75882 0.99468
+
+	AIS1
+		Images:	4080
+		Time:	04.07.2025 10:49:02 until 04.07.2025 16:12:16
+		Duration:	05:23:14
+		Location:	42.75911 0.99347
+
+	AIS1LS1
+		Images:	1290
+		Time:	04.07.2025 10:16:58 until 04.07.2025 16:12:12
+		Duration:	05:55:14
+		Location:	42.75906 0.99349
+
+(7) - CDH KM 47
+	DAC1
+		Images:	3099
+		Time:	04.07.2025 10:55:29 until 04.07.2025 16:33:50
+		Duration:	05:38:21
+		Location:	42.75866 0.99383
+
+	DAC1LS1
+		Images:	1339
+		Time:	03.07.2025 21:29:11 until 04.07.2025 16:10:37
+		Duration:	18:41:26
+		Location:	42.75866 0.99383
+
+(8) - CDH KM 51
+	JMO3
+		Images:	2443
+		Time:	04.07.2025 13:00:48 until 04.07.2025 18:50:53
+		Duration:	05:50:05
+		Location:	42.66392 0.97582
+
+	MRAB1
+		Images:	3525
+		Time:	04.07.2025 10:21:45 until 04.07.2025 17:20:38
+		Duration:	06:58:53
+		Location:	42.73770 0.97267
+
+(9) - CDH KM 52
+	AMRU1
+		Images:	5973
+		Time:	04.07.2025 10:24:04 until 04.07.2025 16:42:26
+		Duration:	06:18:22
+		Location:	42.74312 0.97668
+
+(10) - CDH KM 53
+	OAC2
+		Images:	5335
+		Time:	04.07.2025 12:34:22 until 04.07.2025 17:27:25
+		Duration:	04:53:03
+		Location:	42.73424 0.97007
+
+(11) - CDH KM 70
+	AFGA1
+		Images:	3404
+		Time:	04.07.2025 12:52:50 until 05.07.2025 05:38:26
+		Duration:	16:45:36
+		Location:	42.65326 0.92795
+
+	AFGA1LS1
+		Images:	927
+		Time:	04.07.2025 12:31:45 until 04.07.2025 21:50:23
+		Duration:	09:18:38
+		Location:	42.65326 0.92795
+
+(12) - CDH KM 77,9
+	RAVE1LS1
+		Images:	6789
+		Time:	04.07.2025 12:37:11 until 04.07.2025 21:48:05
+		Duration:	09:10:54
+		Location:	42.65074 0.93335
+
+(13) - CDH KM 78
+	RAVE1
+		Images:	2963
+		Time:	04.07.2025 13:15:30 until 05.07.2025 05:30:49
+		Duration:	16:15:19
+		Location:	42.65074 0.93336
+
+	TGM1
+		Images:	1217
+		Time:	04.07.2025 13:40:31 until 04.07.2025 21:54:01
+		Duration:	08:13:30
+		Location:	42.65084 0.93357
+
+	TGM1LS1
+		Images:	3094
+		Time:	04.07.2025 13:46:26 until 04.07.2025 22:05:26
+		Duration:	08:19:00
+		Location:	42.65065 0.93341
+
+	TGM1LS2
+		Images:	1450
+		Time:	04.07.2025 12:29:58 until 04.07.2025 21:57:42
+		Duration:	09:27:44
+		Location:	42.65065 0.93336
+
+(14) - FINISH CDH
+	JMP3
+		Images:	1250
+		Time:	04.07.2025 16:31:37 until 04.07.2025 22:16:34
+		Duration:	05:44:57
+		Location:	42.70134 0.79845
+
+	JLTG3
+		Images:	4954
+		Time:	04.07.2025 21:48:39 until 05.07.2025 02:51:05
+		Duration:	05:02:26
+		Location:	42.70134 0.79845
+
+	JLTG3LS1
+		Images:	69
+		Time:	04.07.2025 22:07:52 until 05.07.2025 02:38:19
+		Duration:	04:30:27
+		Location:	42.70134 0.79845
+
+	JLTG3LS2
+		Images:	978
+		Time:	04.07.2025 21:58:29 until 05.07.2025 02:30:41
+		Duration:	04:32:12
+		Location:	42.70134 0.79845
+
+	UGA3
+		Images:	804
+		Time:	05.07.2025 02:53:26 until 05.07.2025 06:15:33
+		Duration:	03:22:07
+		Location:	42.81552 0.71153
+
+(15) - START VDA
+	JMP2
+		Images:	152
+		Time:	04.07.2025 15:27:53 until 04.07.2025 16:01:22
+		Duration:	00:33:29
+		Location:	42.70134 0.79845
+
+(16) - VDA KM 6
+	JLTG2
+		Images:	703
+		Time:	04.07.2025 16:40:30 until 04.07.2025 18:03:02
+		Duration:	01:22:32
+		Location:	42.71565 0.77293
+
+	ATRE2
+		Images:	1781
+		Time:	04.07.2025 16:23:00 until 04.07.2025 17:33:36
+		Duration:	01:10:36
+		Location:	42.71611 0.77202
+
+	UGA2
+		Images:	1555
+		Time:	04.07.2025 16:40:58 until 04.07.2025 17:50:53
+		Duration:	01:09:55
+		Location:	42.71611 0.77202
+
+(17) - VDA KM 109
+	AFGA2
+		Images:	3092
+		Time:	05.07.2025 05:39:04 until 05.07.2025 20:02:33
+		Duration:	14:23:29
+		Location:	42.65326 0.92795
+
+	AFGA2LS1
+		Images:	374
+		Time:	05.07.2025 08:13:28 until 05.07.2025 19:51:28
+		Duration:	11:38:00
+		Location:	42.65297 0.92839
+
+(18) - VDA KM 110
+	RAVE2LS1
+		Images:	1170
+		Time:	05.07.2025 06:11:15 until 05.07.2025 20:00:53
+		Duration:	13:49:38
+		Location:	42.65070 0.93324
+
+	RAVE2
+		Images:	1538
+		Time:	05.07.2025 05:32:58 until 05.07.2025 20:28:46
+		Duration:	14:55:48
+		Location:	42.65070 0.93324
+
+	TGM2
+		Images:	824
+		Time:	05.07.2025 06:08:33 until 05.07.2025 20:33:07
+		Duration:	14:24:34
+		Location:	42.65078 0.93344
+
+(19) - VDA KM 110,6
+	TGM2LS1
+		Images:	1036
+		Time:	05.07.2025 06:22:46 until 05.07.2025 20:27:45
+		Duration:	14:04:59
+		Location:	42.65084 0.93357
+
+(20) - VDA KM 110,5
+	TGM2LS2
+		Images:	1069
+		Time:	05.07.2025 05:04:47 until 05.07.2025 20:01:23
+		Duration:	14:56:36
+		Location:	42.65078 0.93344
+
+(21) - VDA KM 125
+	JMO4
+		Images:	1275
+		Time:	05.07.2025 06:48:17 until 05.07.2025 15:42:42
+		Duration:	08:54:25
+		Location:	42.70285 0.88924
+
+	MRAB2
+		Images:	1364
+		Time:	05.07.2025 15:55:15 until 06.07.2025 01:51:19
+		Duration:	09:56:04
+		Location:	42.70402 0.88941
+
+	AMRU2LS1
+		Images:	436
+		Time:	05.07.2025 15:28:50 until 06.07.2025 01:42:09
+		Duration:	10:13:19
+		Location:	42.70402 0.88941
+
+(22) - VDA KM 127
+	OAC3
+		Images:	1795
+		Time:	05.07.2025 06:59:41 until 05.07.2025 16:22:23
+		Duration:	09:22:42
+		Location:	42.69805 0.87019
+
+	AMRU2
+		Images:	3107
+		Time:	05.07.2025 16:24:25 until 06.07.2025 11:06:19
+		Duration:	18:41:54
+		Location:	42.69808 0.87049
+
+(23) - FINISH VDA
+	ATRE3
+		Images:	410
+		Time:	05.07.2025 08:25:45 until 05.07.2025 12:27:56
+		Duration:	04:02:11
+		Location:	42.81552 0.71153
+
+	JLTG4
+		Images:	2225
+		Time:	05.07.2025 17:59:54 until 06.07.2025 00:52:00
+		Duration:	06:52:06
+		Location:	42.70134 0.79845
+
+	JLTG4LS1
+		Images:	1876
+		Time:	05.07.2025 17:46:18 until 06.07.2025 00:53:51
+		Duration:	07:07:33
+		Location:	42.70134 0.79845
+
+	JLTG4LS2
+		Images:	1772
+		Time:	05.07.2025 18:22:32 until 06.07.2025 00:52:22
+		Duration:	06:29:50
+		Location:	42.70134 0.79845
+
+	JMP4
+		Images:	2113
+		Time:	05.07.2025 12:27:06 until 06.07.2025 06:05:46
+		Duration:	17:38:40
+		Location:	42.70134 0.79845
+
+	JMP4LS1
+		Images:	236
+		Time:	03.07.2025 22:45:37 until 06.07.2025 06:05:49
+		Duration:	2.07:20:12
+		Location:	42.70134 0.79845
+
+	JMP4LS2
+		Images:	233
+		Time:	03.07.2025 22:43:42 until 06.07.2025 06:06:53
+		Duration:	2.07:23:11
+		Location:	42.70134 0.79845
+
+(24) - Impressions / Pano
+	TGM2DRONE1
+		Images:	13
+		Time:	04.07.2025 14:20:26 until 04.07.2025 14:26:37
+		Duration:	00:06:11
+		Location:	42.70134 0.79845
+
+	PANO1
+		Images:	7
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	42.81552 0.71153
+

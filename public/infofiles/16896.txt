@@ -1,0 +1,59 @@
+EventId: 16896
+Spots: 8
+Total Images: 20724
+Time:	14.09.2025 07:41:09 to 14.09.2025 16:05:14
+Duration: 08:24:05
+
+(1) - Start
+	BME1
+		Images:	480
+		Time:	14.09.2025 07:41:09 until 14.09.2025 10:21:21
+		Duration:	02:40:12
+		Location:	55.41939 -1.69833
+
+	TSO1
+		Images:	1125
+		Time:	14.09.2025 07:43:22 until 14.09.2025 10:21:42
+		Duration:	02:38:20
+		Location:	55.41939 -1.69833
+
+(2) - 6,5 km
+	CUP1
+		Images:	6355
+		Time:	14.09.2025 08:59:35 until 14.09.2025 12:07:48
+		Duration:	03:08:13
+		Location:	55.40231 -1.64007
+
+(3) - 11,3 km
+	KLP1
+		Images:	4322
+		Time:	14.09.2025 08:11:56 until 14.09.2025 13:29:22
+		Duration:	05:17:26
+		Location:	55.40143 -1.59293
+
+(4) - 17,7 km
+	TSO2
+		Images:	3722
+		Time:	14.09.2025 10:48:16 until 14.09.2025 15:51:06
+		Duration:	05:02:50
+		Location:	55.45002 -1.58827
+
+(5) - Finish
+	KLP2
+		Images:	832
+		Time:	14.09.2025 14:32:42 until 14.09.2025 16:05:14
+		Duration:	01:32:32
+		Location:	55.46099 -1.5961
+
+	BME2
+		Images:	3463
+		Time:	14.09.2025 10:59:42 until 14.09.2025 15:40:40
+		Duration:	04:40:58
+		Location:	55.46099 -1.5961
+
+	CUP2
+		Images:	425
+		Time:	14.09.2025 14:53:40 until 14.09.2025 15:34:44
+		Duration:	00:41:04
+		Location:	55.46099 -1.5961
+

@@ -1,0 +1,196 @@
+EventId: 15968
+Spots: 31
+Total Images: 413943
+Time:	27.04.2025 07:20:05 to 17.05.2025 18:26:30
+Duration: 20.11:06:25
+
+(1) - Impressions / Pano
+	PANO1
+(2) - Start
+	HJPA1
+		Images:	240
+		Time:	17.05.2025 08:39:02 until 17.05.2025 09:54:17
+		Duration:	01:15:15
+		Location:	60.18430 24.93019
+
+(3) - Finish
+	HJPA2
+		Images:	13855
+		Time:	17.05.2025 10:12:44 until 17.05.2025 18:18:30
+		Duration:	08:05:46
+		Location:	60.18692 24.92647
+
+	HJSB2
+		Images:	8719
+		Time:	17.05.2025 16:03:37 until 17.05.2025 18:26:09
+		Duration:	02:22:32
+		Location:	60.18692 24.92647
+
+	HGBR2
+		Images:	14924
+		Time:	17.05.2025 15:51:40 until 17.05.2025 18:26:08
+		Duration:	02:34:28
+		Location:	60.18635 24.92680
+
+	HARA2
+		Images:	18403
+		Time:	17.05.2025 15:53:44 until 17.05.2025 18:22:20
+		Duration:	02:28:36
+		Location:	60.18692 24.92647
+
+	HDAT1
+		Images:	12038
+		Time:	17.05.2025 10:23:53 until 17.05.2025 14:32:18
+		Duration:	04:08:25
+		Location:	60.18692 24.92647
+
+	HDAT2
+		Images:	13964
+		Time:	17.05.2025 14:33:10 until 17.05.2025 18:02:08
+		Duration:	03:28:58
+		Location:	60.18692 24.92647
+
+	HDATT1
+		Images:	9082
+		Time:	17.05.2025 10:25:33 until 17.05.2025 14:46:45
+		Duration:	04:21:12
+		Location:	60.18692 24.92647
+
+	HDATT2
+		Images:	9318
+		Time:	17.05.2025 14:47:03 until 17.05.2025 18:06:19
+		Duration:	03:19:16
+		Location:	60.18692 24.92647
+
+	HPFT1
+		Images:	9887
+		Time:	17.05.2025 03:19:17 until 17.05.2025 07:37:36
+		Duration:	04:18:19
+		Location:	60.18692 24.92647
+
+	HPFT2
+		Images:	4395
+		Time:	17.05.2025 07:38:18 until 17.05.2025 10:35:49
+		Duration:	02:57:31
+		Location:	60.18692 24.92647
+
+	HFINT1
+		Images:	5520
+		Time:	17.05.2025 04:59:47 until 17.05.2025 08:13:51
+		Duration:	03:14:04
+		Location:	60.18692 24.92647
+
+	HMRB1
+		Images:	3267
+		Time:	16.05.2025 09:11:50 until 16.05.2025 17:18:44
+		Duration:	08:06:54
+		Location:	60.18756 24.92647
+
+	HMAB1
+		Images:	4225
+		Time:	17.05.2025 10:20:44 until 17.05.2025 18:24:16
+		Duration:	08:03:32
+		Location:	60.18756 24.92647
+
+(4) - 22.5 km Baana Tunnel
+	HJSB1
+		Images:	10955
+		Time:	17.05.2025 09:55:50 until 17.05.2025 15:17:10
+		Duration:	05:21:20
+		Location:	60.17392 24.93584
+
+	HGBR1
+		Images:	16731
+		Time:	17.05.2025 09:55:02 until 17.05.2025 15:16:53
+		Duration:	05:21:51
+		Location:	60.17392 24.93584
+
+	HARA1
+		Images:	18253
+		Time:	17.05.2025 09:59:30 until 17.05.2025 15:16:57
+		Duration:	05:17:27
+		Location:	60.17392 24.93584
+
+(5) - 25.2 km Tammasaarenranta
+	HSLA1
+		Images:	20668
+		Time:	17.05.2025 09:53:47 until 17.05.2025 15:38:45
+		Duration:	05:44:58
+		Location:	60.16075 24.90381
+
+	HPST1
+		Images:	24368
+		Time:	17.05.2025 09:40:07 until 17.05.2025 15:38:54
+		Duration:	05:58:47
+		Location:	60.16075 24.90381
+
+	HSLAT1
+		Images:	10013
+		Time:	17.05.2025 09:55:36 until 17.05.2025 15:42:29
+		Duration:	05:46:53
+		Location:	60.16075 24.90381
+
+(6) - 0.5 km Olympic Stadium
+	HSLA2
+		Images:	8032
+		Time:	17.05.2025 16:24:49 until 17.05.2025 18:26:30
+		Duration:	02:01:41
+		Location:	60.18660 24.92922
+
+	HPST2
+		Images:	11177
+		Time:	17.05.2025 16:23:56 until 17.05.2025 18:16:42
+		Duration:	01:52:46
+		Location:	60.18660 24.92922
+
+	HSLAT2
+		Images:	3774
+		Time:	17.05.2025 16:31:08 until 17.05.2025 17:46:19
+		Duration:	01:15:11
+		Location:	60.18660 24.92922
+
+(7) - 29.5 km Kaski Island's Bridge
+	HJJU1
+		Images:	18159
+		Time:	17.05.2025 09:35:49 until 17.05.2025 17:23:38
+		Duration:	07:47:49
+		Location:	60.17138 24.86127
+
+	HSBE1
+		Images:	16781
+		Time:	17.05.2025 10:08:59 until 17.05.2025 16:10:56
+		Duration:	06:01:57
+		Location:	60.17138 24.86127
+
+(8) - 39.5 km Auroransilta
+	HDAL1
+		Images:	21572
+		Time:	17.05.2025 10:01:26 until 17.05.2025 18:06:26
+		Duration:	08:05:00
+		Location:	60.19142 24.92475
+
+	HBAB1
+		Images:	18207
+		Time:	27.04.2025 07:20:05 until 17.05.2025 18:11:07
+		Duration:	20.10:51:02
+		Location:	60.19142 24.92475
+
+(9) - 21.2 km Töölö Bay
+	HVQA1
+		Images:	41381
+		Time:	17.05.2025 09:40:24 until 17.05.2025 17:00:31
+		Duration:	07:20:07
+		Location:	60.18397 24.93187
+
+	HMTO1
+		Images:	28208
+		Time:	17.05.2025 09:40:20 until 17.05.2025 17:59:54
+		Duration:	08:19:34
+		Location:	60.18397 24.93187
+
+	HVQAT1
+		Images:	17827
+		Time:	17.05.2025 10:53:09 until 17.05.2025 17:03:55
+		Duration:	06:10:46
+		Location:	60.18397 24.93187
+

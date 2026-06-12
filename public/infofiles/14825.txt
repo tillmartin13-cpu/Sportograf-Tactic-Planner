@@ -1,0 +1,310 @@
+EventId: 14825
+Spots: 49
+Total Images: 175970
+Time:	14.03.2025 06:23:45 to 15.03.2025 21:17:46
+Duration: 1.14:54:01
+
+(1) - 01 Ski Erg
+	ADRE1
+		Images:	2155
+		Time:	14.03.2025 06:32:11 until 15.03.2025 10:39:10
+		Duration:	1.04:06:59
+		Location:	55.63792 12.57724
+
+	JMAR1
+		Images:	2590
+		Time:	15.03.2025 07:02:34 until 15.03.2025 14:35:08
+		Duration:	07:32:34
+		Location:	55.63792 12.57724
+
+	OLM1
+		Images:	7503
+		Time:	15.03.2025 07:03:23 until 15.03.2025 14:23:17
+		Duration:	07:19:54
+		Location:	55.63792 12.57724
+
+	MFR2
+		Images:	2900
+		Time:	15.03.2025 14:19:06 until 15.03.2025 19:48:03
+		Duration:	05:28:57
+		Location:	55.63792 12.57724
+
+	LPE2
+		Images:	1217
+		Time:	15.03.2025 14:25:23 until 15.03.2025 19:46:06
+		Duration:	05:20:43
+		Location:	55.63792 12.57724
+
+	LEM2
+		Images:	3329
+		Time:	15.03.2025 14:31:30 until 15.03.2025 19:48:43
+		Duration:	05:17:13
+		Location:	55.63792 12.57724
+
+	RYS4
+		Images:	559
+		Time:	15.03.2025 13:57:07 until 15.03.2025 14:18:13
+		Duration:	00:21:06
+		Location:	55.63792 12.57724
+
+	HT4
+		Images:	213
+		Time:	15.03.2025 13:57:34 until 15.03.2025 14:10:17
+		Duration:	00:12:43
+		Location:	55.63792 12.57724
+
+(2) - 02 Sled Push
+	DHD1
+		Images:	3200
+		Time:	15.03.2025 06:19:12 until 15.03.2025 14:29:31
+		Duration:	08:10:19
+		Location:	55.63792 12.57724
+
+	EBO1
+		Images:	4966
+		Time:	15.03.2025 08:00:25 until 15.03.2025 15:20:28
+		Duration:	07:20:03
+		Location:	55.63792 12.57724
+
+	FJO1
+		Images:	3127
+		Time:	14.03.2025 06:23:45 until 15.03.2025 13:59:24
+		Duration:	1.07:35:39
+		Location:	55.63792 12.57724
+
+	MIJ2
+		Images:	1684
+		Time:	14.03.2025 14:51:00 until 15.03.2025 19:57:28
+		Duration:	1.05:06:28
+		Location:	55.63792 12.57724
+
+	BK3
+		Images:	632
+		Time:	15.03.2025 17:02:09 until 15.03.2025 17:19:51
+		Duration:	00:17:42
+		Location:	55.63792 12.57724
+
+	AWIL2
+		Images:	1344
+		Time:	15.03.2025 14:31:20 until 15.03.2025 19:48:04
+		Duration:	05:16:44
+		Location:	55.63792 12.57724
+
+	ADRE4
+		Images:	692
+		Time:	15.03.2025 17:23:14 until 15.03.2025 19:00:47
+		Duration:	01:37:33
+		Location:	55.63792 12.57724
+
+(3) - 03 Sled Pull
+	ADRE3
+		Images:	1112
+		Time:	15.03.2025 11:41:20 until 15.03.2025 14:26:35
+		Duration:	02:45:15
+		Location:	55.63792 12.57724
+
+	AGU1
+		Images:	9203
+		Time:	15.03.2025 07:16:19 until 15.03.2025 14:25:13
+		Duration:	07:08:54
+		Location:	55.63792 12.57724
+
+	LPE1
+		Images:	1182
+		Time:	15.03.2025 07:05:43 until 15.03.2025 14:10:04
+		Duration:	07:04:21
+		Location:	55.63792 12.57724
+
+	MELS2
+		Images:	7680
+		Time:	15.03.2025 14:28:21 until 15.03.2025 19:56:21
+		Duration:	05:28:00
+		Location:	55.63792 12.57724
+
+	EBO2
+		Images:	4820
+		Time:	15.03.2025 15:31:04 until 15.03.2025 21:06:10
+		Duration:	05:35:06
+		Location:	55.63792 12.57724
+
+	ADRE2
+		Images:	1256
+		Time:	15.03.2025 14:28:11 until 15.03.2025 20:05:41
+		Duration:	05:37:30
+		Location:	55.63792 12.57724
+
+(4) - 05 Rowing
+	HT1
+		Images:	1635
+		Time:	14.03.2025 09:03:39 until 15.03.2025 17:39:57
+		Duration:	1.08:36:18
+		Location:	55.63792 12.57724
+
+	AWIL1
+		Images:	5272
+		Time:	15.03.2025 07:28:12 until 15.03.2025 14:28:54
+		Duration:	07:00:42
+		Location:	55.63792 12.57724
+
+	MIJ1
+		Images:	2218
+		Time:	15.03.2025 06:46:33 until 15.03.2025 14:17:08
+		Duration:	07:30:35
+		Location:	55.63792 12.57724
+
+	DHD2
+		Images:	6356
+		Time:	15.03.2025 14:59:07 until 15.03.2025 20:29:21
+		Duration:	05:30:14
+		Location:	55.63792 12.57724
+
+	CM2
+		Images:	7653
+		Time:	15.03.2025 14:17:31 until 15.03.2025 20:27:17
+		Duration:	06:09:46
+		Location:	55.63792 12.57724
+
+	RYS1
+		Images:	1783
+		Time:	15.03.2025 06:18:02 until 15.03.2025 17:38:03
+		Duration:	11:20:01
+		Location:	55.63792 12.57724
+
+(5) - 06 Farmers Carry
+	HT3LS1
+		Images:	6370
+		Time:	15.03.2025 08:02:30 until 15.03.2025 20:14:21
+		Duration:	12:11:51
+		Location:	55.63792 12.57724
+
+	AGU2LS1
+		Images:	6901
+		Time:	15.03.2025 06:49:26 until 15.03.2025 20:09:28
+		Duration:	13:20:02
+		Location:	55.63792 12.57724
+
+(6) - 07 Sandbag Lunges
+	MELS1
+		Images:	5382
+		Time:	14.03.2025 07:01:55 until 15.03.2025 14:18:14
+		Duration:	1.07:16:19
+		Location:	55.63792 12.57724
+
+	HT2
+		Images:	1186
+		Time:	15.03.2025 10:08:32 until 15.03.2025 18:11:45
+		Duration:	08:03:13
+		Location:	55.63792 12.57724
+
+	JMAR2
+		Images:	2958
+		Time:	15.03.2025 14:37:02 until 15.03.2025 21:02:10
+		Duration:	06:25:08
+		Location:	55.63792 12.57724
+
+	AGU2
+		Images:	6745
+		Time:	15.03.2025 14:39:03 until 15.03.2025 20:56:35
+		Duration:	06:17:32
+		Location:	55.63792 12.57724
+
+	RYS2
+		Images:	1180
+		Time:	15.03.2025 10:07:12 until 15.03.2025 17:46:14
+		Duration:	07:39:02
+		Location:	55.63792 12.57724
+
+	LEM1
+		Images:	3997
+		Time:	15.03.2025 07:41:59 until 15.03.2025 14:05:35
+		Duration:	06:23:36
+		Location:	55.63792 12.57724
+
+	BK2
+		Images:	499
+		Time:	15.03.2025 09:17:26 until 15.03.2025 12:37:14
+		Duration:	03:19:48
+		Location:	55.63792 12.57724
+
+(7) - 08 Wall Balls
+	HT3
+		Images:	1341
+		Time:	15.03.2025 10:48:29 until 15.03.2025 18:57:31
+		Duration:	08:09:02
+		Location:	55.63792 12.57724
+
+	MFR1
+		Images:	4779
+		Time:	14.03.2025 06:54:48 until 15.03.2025 14:07:50
+		Duration:	1.07:13:02
+		Location:	55.63792 12.57724
+
+	CM1
+		Images:	3366
+		Time:	14.03.2025 06:30:03 until 15.03.2025 14:12:12
+		Duration:	1.07:42:09
+		Location:	55.63792 12.57724
+
+	PAG2
+		Images:	7953
+		Time:	15.03.2025 14:26:27 until 15.03.2025 21:14:05
+		Duration:	06:47:38
+		Location:	55.63792 12.57724
+
+	FJO2
+		Images:	1702
+		Time:	15.03.2025 14:09:52 until 15.03.2025 20:59:09
+		Duration:	06:49:17
+		Location:	55.63792 12.57724
+
+	RYS3
+		Images:	2190
+		Time:	15.03.2025 10:42:28 until 15.03.2025 19:12:09
+		Duration:	08:29:41
+		Location:	55.63792 12.57724
+
+(8) - The Arch
+	LEM2LS1
+		Images:	5323
+		Time:	14.03.2025 06:32:09 until 15.03.2025 20:10:20
+		Duration:	1.13:38:11
+		Location:	55.63792 12.57724
+
+(9) - Finish
+	RYS4LS1
+		Images:	3444
+		Time:	15.03.2025 06:24:28 until 15.03.2025 20:52:44
+		Duration:	14:28:16
+		Location:	55.63792 12.57724
+
+	RYS4LS2
+		Images:	3806
+		Time:	15.03.2025 06:24:46 until 15.03.2025 20:52:49
+		Duration:	14:28:03
+		Location:	55.63792 12.57724
+
+	PAG1
+		Images:	3755
+		Time:	14.03.2025 06:48:06 until 15.03.2025 14:24:21
+		Duration:	1.07:36:15
+		Location:	55.63792 12.57724
+
+	OLM2
+		Images:	3500
+		Time:	15.03.2025 14:24:11 until 15.03.2025 21:14:30
+		Duration:	06:50:19
+		Location:	55.63792 12.57724
+
+	BK1
+		Images:	3256
+		Time:	15.03.2025 10:03:24 until 15.03.2025 18:28:12
+		Duration:	08:24:48
+		Location:	55.63792 12.57724
+
+(10) - Hero Wall
+	DWE1
+		Images:	10056
+		Time:	14.03.2025 07:38:03 until 15.03.2025 21:17:46
+		Duration:	1.13:39:43
+		Location:	55.63792 12.57724
+

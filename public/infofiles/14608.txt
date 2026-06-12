@@ -1,0 +1,295 @@
+EventId: 14608
+Spots: 46
+Total Images: 427446
+Time:	28.05.2025 17:09:01 to 15.06.2025 00:18:47
+Duration: 17.07:09:46
+
+(1) - Start
+	BIL2
+		Images:	3591
+		Time:	13.06.2025 19:03:09 until 14.06.2025 06:27:42
+		Duration:	11:24:33
+		Location:	58.53548 15.03691
+
+	KSA1
+		Images:	10112
+		Time:	13.06.2025 18:40:37 until 14.06.2025 19:23:05
+		Duration:	1.00:42:28
+		Location:	58.53548 15.03691
+
+	THS1
+		Images:	13036
+		Time:	13.06.2025 18:38:04 until 14.06.2025 12:34:20
+		Duration:	17:56:16
+		Location:	58.53548 15.03691
+
+	WKA1
+		Images:	7286
+		Time:	13.06.2025 19:03:28 until 14.06.2025 04:35:35
+		Duration:	09:32:07
+		Location:	58.53548 15.03691
+
+(2) - 8,0 km Östergötlands Län
+	RJ1
+		Images:	12046
+		Time:	13.06.2025 19:47:34 until 14.06.2025 12:48:36
+		Duration:	17:01:02
+		Location:	58.48861 14.99339
+
+	RJ1LS1
+		Images:	11054
+		Time:	13.06.2025 19:44:37 until 14.06.2025 12:50:53
+		Duration:	17:06:16
+		Location:	58.48861 14.99339
+
+	RJ1LS2
+		Images:	10878
+		Time:	13.06.2025 19:44:35 until 14.06.2025 12:50:48
+		Duration:	17:06:13
+		Location:	58.48861 14.99339
+
+	RJ1DRONE1
+		Images:	29
+		Time:	13.06.2025 21:16:29 until 14.06.2025 20:57:53
+		Duration:	23:41:24
+		Location:	58.48861 14.99339
+
+(3) - 20,5 km Östergötlands Län, Vadstena
+	LEM1
+		Images:	9589
+		Time:	13.06.2025 20:08:15 until 14.06.2025 13:13:13
+		Duration:	17:04:58
+		Location:	58.42345 14.83262
+
+	LEM1LS1
+		Images:	8450
+		Time:	13.06.2025 19:54:02 until 14.06.2025 13:20:55
+		Duration:	17:26:53
+		Location:	58.42345 14.83262
+
+	LEM1LS2
+		Images:	10864
+		Time:	13.06.2025 19:49:33 until 14.06.2025 13:20:14
+		Duration:	17:30:41
+		Location:	58.42345 14.83262
+
+(4) - 52,9 km Ödeshög, Windmill
+	RYS1
+		Images:	15818
+		Time:	13.06.2025 19:24:59 until 14.06.2025 14:26:07
+		Duration:	19:01:08
+		Location:	58.18634 14.59229
+
+	RYS1LS1
+		Images:	11878
+		Time:	13.06.2025 18:48:42 until 14.06.2025 08:41:28
+		Duration:	13:52:46
+		Location:	58.18634 14.59229
+
+	RYS1LS2
+		Images:	11221
+		Time:	13.06.2025 18:47:25 until 14.06.2025 13:55:54
+		Duration:	19:08:29
+		Location:	58.18634 14.59229
+
+(5) - 69,6 km Uppgränna
+	DTES1
+		Images:	5270
+		Time:	13.06.2025 19:43:53 until 14.06.2025 17:42:54
+		Duration:	21:59:01
+		Location:	58.05187 14.49493
+
+(6) - 73,5 km Gränna Kyrka
+	FBG1
+		Images:	9515
+		Time:	13.06.2025 21:17:48 until 14.06.2025 18:23:09
+		Duration:	21:05:21
+		Location:	58.01951 14.46123
+
+(7) - 172,0 km
+	SHNI1
+		Images:	8860
+		Time:	13.06.2025 23:16:14 until 14.06.2025 18:15:33
+		Duration:	18:59:19
+		Location:	58.29832 14.28303
+
+(8) - 206,4 km Karlsborg, Storgatan
+	VLE1
+		Images:	22818
+		Time:	28.05.2025 17:09:01 until 14.06.2025 18:58:48
+		Duration:	17.01:49:47
+		Location:	58.53919 14.50308
+
+	VLE1LS1
+		Images:	13773
+		Time:	14.06.2025 01:29:15 until 14.06.2025 18:11:44
+		Duration:	16:42:29
+		Location:	58.53919 14.50308
+
+(9) - 248,0 km Örebro Län
+	RW1
+		Images:	20841
+		Time:	13.06.2025 23:17:02 until 14.06.2025 20:19:52
+		Duration:	21:02:50
+		Location:	58.82093 14.88226
+
+	RW1LS1
+		Images:	11378
+		Time:	13.06.2025 22:31:22 until 14.06.2025 20:07:32
+		Duration:	21:36:10
+		Location:	58.82093 14.88226
+
+	RW1LS2
+		Images:	15858
+		Time:	13.06.2025 22:17:07 until 14.06.2025 20:12:03
+		Duration:	21:54:56
+		Location:	58.82093 14.88226
+
+	RW1LS3
+		Images:	16136
+		Time:	14.06.2025 03:54:27 until 14.06.2025 20:12:10
+		Duration:	16:17:43
+		Location:	58.82093 14.88226
+
+(10) - Depa 8 Askersund
+	RJ3
+		Images:	35
+		Time:	14.06.2025 16:39:47 until 14.06.2025 16:49:21
+		Duration:	00:09:34
+		Location:	58.87942 14.90519
+
+(11) - 260,5 km Gustavs Grund
+	EHL1
+		Images:	15917
+		Time:	14.06.2025 03:18:11 until 14.06.2025 20:49:24
+		Duration:	17:31:13
+		Location:	58.88222 14.94505
+
+	EHL1LS1
+		Images:	24273
+		Time:	14.06.2025 03:38:25 until 14.06.2025 20:49:31
+		Duration:	17:11:06
+		Location:	58.88222 14.94505
+
+	EHL1LS2
+		Images:	16716
+		Time:	14.06.2025 03:07:31 until 14.06.2025 18:42:40
+		Duration:	15:35:09
+		Location:	58.88222 14.94505
+
+(12) - 264,0 km Ammeberg, Mofallavägen
+	RJ2
+		Images:	1919
+		Time:	14.06.2025 17:57:49 until 14.06.2025 19:03:37
+		Duration:	01:05:48
+		Location:	58.87988 15.00319
+
+	RJ2LS1
+		Images:	2793
+		Time:	14.06.2025 15:55:30 until 14.06.2025 19:12:28
+		Duration:	03:16:58
+		Location:	58.87988 15.00319
+
+(13) - 264,8 km Ammeberg, Askersundsvägen
+	LEM2
+		Images:	5149
+		Time:	14.06.2025 15:57:05 until 14.06.2025 19:22:12
+		Duration:	03:25:07
+		Location:	58.87217 15.00177
+
+	LEM2LS1
+		Images:	2641
+		Time:	14.06.2025 15:49:39 until 14.06.2025 19:22:26
+		Duration:	03:32:47
+		Location:	58.87217 15.00177
+
+	LEM2LS2
+		Images:	2873
+		Time:	14.06.2025 15:53:23 until 14.06.2025 19:22:25
+		Duration:	03:29:02
+		Location:	58.87217 15.00177
+
+(14) - 271,9 km Dalby
+	FBG2
+		Images:	1143
+		Time:	14.06.2025 18:23:26 until 14.06.2025 21:34:19
+		Duration:	03:10:53
+		Location:	58.82956 15.06306
+
+(15) - 298,5 km 16 km before finish
+	DTES2
+		Images:	3164
+		Time:	14.06.2025 17:43:38 until 14.06.2025 22:41:47
+		Duration:	04:58:09
+		Location:	58.65232 15.02968
+
+(16) - 298,8 km
+	RYS2
+		Images:	6047
+		Time:	14.06.2025 17:23:49 until 14.06.2025 22:45:45
+		Duration:	05:21:56
+		Location:	58.65004 15.02504
+
+	RYS2LS1
+		Images:	2625
+		Time:	14.06.2025 17:49:26 until 14.06.2025 22:38:42
+		Duration:	04:49:16
+		Location:	58.65004 15.02504
+
+	RYS2LS2
+		Images:	2357
+		Time:	14.06.2025 17:42:32 until 14.06.2025 21:56:30
+		Duration:	04:13:58
+		Location:	58.65004 15.02504
+
+(17) - Finish
+	THS2
+		Images:	15728
+		Time:	14.06.2025 07:37:51 until 14.06.2025 23:28:16
+		Duration:	15:50:25
+		Location:	58.53500 15.03161
+
+	THS2LS1
+		Images:	19749
+		Time:	14.06.2025 05:01:34 until 14.06.2025 23:29:02
+		Duration:	18:27:28
+		Location:	58.53500 15.03161
+
+	THS2LS2
+		Images:	16006
+		Time:	14.06.2025 04:54:27 until 14.06.2025 22:30:47
+		Duration:	17:36:20
+		Location:	58.53500 15.03161
+
+	THS2DRONE1
+		Images:	30
+		Time:	13.06.2025 20:24:50 until 15.06.2025 00:18:47
+		Duration:	1.03:53:57
+		Location:	58.53500 15.03161
+
+	KSA2
+		Images:	5483
+		Time:	14.06.2025 07:31:32 until 14.06.2025 23:31:48
+		Duration:	16:00:16
+		Location:	58.53500 15.03161
+
+	BIL1
+		Images:	8370
+		Time:	14.06.2025 06:27:42 until 14.06.2025 18:23:16
+		Duration:	11:55:34
+		Location:	58.53500 15.03161
+
+	BIL1LS1
+		Images:	5253
+		Time:	14.06.2025 04:35:30 until 14.06.2025 18:01:24
+		Duration:	13:25:54
+		Location:	58.53500 15.03161
+
+	WKA2
+		Images:	8874
+		Time:	14.06.2025 04:37:38 until 14.06.2025 20:16:27
+		Duration:	15:38:49
+		Location:	58.53500 15.03161
+
+(18) - Impressions / Pano
+	PANO1

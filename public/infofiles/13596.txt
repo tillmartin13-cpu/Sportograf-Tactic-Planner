@@ -1,0 +1,160 @@
+EventId: 13596
+Spots: 24
+Total Images: 35374
+Time:	14.03.2025 19:49:25 to 15.03.2025 11:28:34
+Duration: 15:39:09
+
+(1) - 0.7 km
+	EO1
+		Images:	3376
+		Time:	15.03.2025 09:22:36 until 15.03.2025 09:59:32
+		Duration:	00:36:56
+		Location:	41.88364 12.49003
+
+	EO1LS1
+		Images:	443
+		Time:	15.03.2025 09:24:01 until 15.03.2025 10:00:51
+		Duration:	00:36:50
+		Location:	41.88364 12.49003
+
+	EO1LS2
+		Images:	440
+		Time:	15.03.2025 09:24:30 until 15.03.2025 09:59:51
+		Duration:	00:35:21
+		Location:	41.88364 12.49003
+
+(2) - 1.0 km
+	CSI1
+		Images:	1057
+		Time:	15.03.2025 09:24:58 until 15.03.2025 10:11:13
+		Duration:	00:46:15
+		Location:	41.88297 12.49097
+
+(3) - 1.2 km
+	CSI1LS1
+		Images:	1065
+		Time:	15.03.2025 09:24:12 until 15.03.2025 10:08:50
+		Duration:	00:44:38
+		Location:	41.88297 12.49097
+
+(4) - 2.5 km
+	BRP1
+		Images:	3369
+		Time:	15.03.2025 09:02:10 until 15.03.2025 10:29:33
+		Duration:	01:27:23
+		Location:	41.87375 12.49639
+
+	BRP1LS1
+		Images:	1749
+		Time:	15.03.2025 08:50:38 until 15.03.2025 11:04:17
+		Duration:	02:13:39
+		Location:	41.87375 12.49639
+
+	FMA1
+		Images:	3821
+		Time:	15.03.2025 09:26:38 until 15.03.2025 10:29:15
+		Duration:	01:02:37
+		Location:	41.87435 12.49635
+
+(5) - 4.0 km
+	EO2
+		Images:	1557
+		Time:	15.03.2025 10:08:00 until 15.03.2025 11:00:20
+		Duration:	00:52:20
+		Location:	41.88354 12.48973
+
+	EO2LS1
+		Images:	781
+		Time:	15.03.2025 10:06:27 until 15.03.2025 10:51:02
+		Duration:	00:44:35
+		Location:	41.88354 12.48973
+
+	EO2LS2
+		Images:	1563
+		Time:	15.03.2025 10:00:40 until 15.03.2025 10:51:10
+		Duration:	00:50:30
+		Location:	41.88354 12.48973
+
+(6) - 4.5 km
+	FBO1
+		Images:	2900
+		Time:	14.03.2025 19:49:25 until 15.03.2025 11:09:00
+		Duration:	15:19:35
+		Location:	41.88649 12.48322
+
+	RSP1
+		Images:	4289
+		Time:	15.03.2025 09:35:48 until 15.03.2025 10:58:52
+		Duration:	01:23:04
+		Location:	41.88649 12.48322
+
+(7) - Finish
+	CSI2
+		Images:	551
+		Time:	15.03.2025 10:32:40 until 15.03.2025 11:26:05
+		Duration:	00:53:25
+		Location:	41.88684 12.48379
+
+	FOS2
+		Images:	1254
+		Time:	15.03.2025 10:09:58 until 15.03.2025 11:28:34
+		Duration:	01:18:36
+		Location:	41.88681 12.48374
+
+	LIG2
+		Images:	1938
+		Time:	15.03.2025 09:47:54 until 15.03.2025 11:16:45
+		Duration:	01:28:51
+		Location:	41.88682 12.48360
+
+(8) - Impressions / Pano
+	EM1
+		Images:	242
+		Time:	15.03.2025 06:59:22 until 15.03.2025 11:03:00
+		Duration:	04:03:38
+		Location:	NULL NULL
+
+	PANO1
+		Images:	1
+		Time:	15.03.2025 10:22:19 until 15.03.2025 10:22:19
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(9) - Medals
+	MMI2
+		Images:	341
+		Time:	15.03.2025 10:09:12 until 15.03.2025 11:14:25
+		Duration:	01:05:13
+		Location:	41.88665 12.48433
+
+(10) - Start
+	FOS1
+		Images:	837
+		Time:	15.03.2025 08:47:20 until 15.03.2025 09:57:08
+		Duration:	01:09:48
+		Location:	41.88624 12.48641
+
+	FOS1LS1
+		Images:	583
+		Time:	15.03.2025 09:13:52 until 15.03.2025 09:54:52
+		Duration:	00:41:00
+		Location:	41.88624 12.48641
+
+	LIG1
+		Images:	720
+		Time:	15.03.2025 09:05:08 until 15.03.2025 09:38:50
+		Duration:	00:33:42
+		Location:	41.88624 12.48641
+
+	MMI1
+		Images:	843
+		Time:	15.03.2025 09:01:47 until 15.03.2025 09:54:44
+		Duration:	00:52:57
+		Location:	41.88638 12.48631
+
+	MMI1LS1
+		Images:	1654
+		Time:	15.03.2025 09:15:52 until 15.03.2025 09:54:10
+		Duration:	00:38:18
+		Location:	41.88638 12.48631
+

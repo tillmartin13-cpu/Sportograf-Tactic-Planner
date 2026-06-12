@@ -1,0 +1,161 @@
+EventId: 13897
+Spots: 23
+Total Images: 40859
+Time:	16.02.2025 22:42:24 to 22.02.2025 20:01:19
+Duration: 5.21:18:55
+
+(1) - Start
+	WRFG1
+		Images:	480
+		Time:	22.02.2025 06:23:43 until 22.02.2025 07:35:43
+		Duration:	01:12:00
+		Location:	39.84235 3.12669
+
+(2) - 0.0 km
+	WRFG1IMP1
+		Images:	43
+		Time:	22.02.2025 06:10:42 until 22.02.2025 07:37:49
+		Duration:	01:27:07
+		Location:	39.84235 3.12669
+
+(3) - 2.6 km
+	KKP1
+		Images:	2023
+		Time:	22.02.2025 06:21:11 until 22.02.2025 07:58:18
+		Duration:	01:37:07
+		Location:	39.83518 3.14858
+
+(4) - 3.2 km
+	ACC1
+		Images:	768
+		Time:	22.02.2025 06:04:57 until 22.02.2025 08:23:23
+		Duration:	02:18:26
+		Location:	39.83679 3.15497
+
+	ACC1LS1
+		Images:	908
+		Time:	22.02.2025 06:01:33 until 22.02.2025 07:53:17
+		Duration:	01:51:44
+		Location:	39.83679 3.15497
+
+(5) - 3.9 km
+	FJPH1
+		Images:	2097
+		Time:	22.02.2025 05:58:12 until 22.02.2025 08:18:45
+		Duration:	02:20:33
+		Location:	39.83879 3.16276
+
+(6) - 5.1 km
+	WRFG2
+		Images:	731
+		Time:	22.02.2025 07:48:52 until 22.02.2025 08:13:13
+		Duration:	00:24:21
+		Location:	39.83814 3.15338
+
+(7) - 6.3 km
+	MICE1
+		Images:	2378
+		Time:	22.02.2025 06:01:33 until 22.02.2025 08:48:02
+		Duration:	02:46:29
+		Location:	39.84128 3.14446
+
+(8) - 12.0 km
+	KKP2
+		Images:	1452
+		Time:	22.02.2025 08:12:29 until 22.02.2025 10:21:34
+		Duration:	02:09:05
+		Location:	39.85900 3.11064
+
+(9) - 13.8 km
+	ACC2
+		Images:	1342
+		Time:	22.02.2025 08:27:05 until 22.02.2025 10:45:07
+		Duration:	02:18:02
+		Location:	39.86330 3.12157
+
+	ACC2LS1
+		Images:	1159
+		Time:	22.02.2025 08:23:28 until 22.02.2025 10:45:15
+		Duration:	02:21:47
+		Location:	39.86330 3.12157
+
+(10) - 15.5 km
+	FJPH2
+		Images:	1688
+		Time:	22.02.2025 08:59:40 until 22.02.2025 11:32:54
+		Duration:	02:33:14
+		Location:	39.86487 3.13743
+
+(11) - 18.2 km
+	WRFG2DRONE1
+		Images:	48
+		Time:	16.02.2025 22:42:24 until 22.02.2025 08:57:38
+		Duration:	5.10:15:14
+		Location:	39.87094 3.15447
+
+	WRFG3
+		Images:	6430
+		Time:	22.02.2025 09:17:15 until 22.02.2025 12:47:24
+		Duration:	03:30:09
+		Location:	39.87094 3.15447
+
+(12) - 19.2 km
+	MICE2
+		Images:	3043
+		Time:	22.02.2025 09:08:08 until 22.02.2025 12:04:39
+		Duration:	02:56:31
+		Location:	39.87256 3.16224
+
+(13) - 46.5 km
+	FJPH3
+		Images:	4333
+		Time:	22.02.2025 13:34:50 until 22.02.2025 18:11:27
+		Duration:	04:36:37
+		Location:	39.81828 3.11209
+
+(14) - 48.2 km
+	WRFG4
+		Images:	3973
+		Time:	22.02.2025 14:15:49 until 22.02.2025 19:15:51
+		Duration:	05:00:02
+		Location:	39.82960 3.11873
+
+(15) - 49.3 km
+	ACC3
+		Images:	1719
+		Time:	22.02.2025 12:54:21 until 22.02.2025 19:20:37
+		Duration:	06:26:16
+		Location:	39.83727 3.12356
+
+	ACC3LS1
+		Images:	1416
+		Time:	22.02.2025 13:30:15 until 22.02.2025 17:48:21
+		Duration:	04:18:06
+		Location:	39.83727 3.12356
+
+(16) - Finish
+	MICE3
+		Images:	2146
+		Time:	22.02.2025 12:59:47 until 22.02.2025 20:01:19
+		Duration:	07:01:32
+		Location:	39.84227 3.12629
+
+	MICE3LS1
+		Images:	1342
+		Time:	22.02.2025 13:10:48 until 22.02.2025 17:57:29
+		Duration:	04:46:41
+		Location:	39.84227 3.12629
+
+	MICE3LS2
+		Images:	771
+		Time:	22.02.2025 13:03:42 until 22.02.2025 17:44:17
+		Duration:	04:40:35
+		Location:	39.84227 3.12629
+
+(17) - Herotent
+	KKP3
+		Images:	569
+		Time:	22.02.2025 13:00:36 until 22.02.2025 19:11:26
+		Duration:	06:10:50
+		Location:	39.84235 3.12756
+

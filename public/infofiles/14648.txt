@@ -1,0 +1,135 @@
+EventId: 14648
+Spots: 20
+Total Images: 79498
+Time:	26.07.2025 06:35:13 to 27.07.2025 16:22:35
+Duration: 1.09:47:22
+
+(1) - Start
+	BKO1
+		Images:	254
+		Time:	27.07.2025 10:33:45 until 27.07.2025 11:14:43
+		Duration:	00:40:58
+		Location:	53.96499 -2.08943
+
+	BKO1DRONE1
+		Images:	8
+		Time:	27.07.2025 15:51:06 until 27.07.2025 15:56:12
+		Duration:	00:05:06
+		Location:	53.96499 -2.08943
+
+(2) - 1 - Kiss of Mud
+	KSTH1
+		Images:	3165
+		Time:	26.07.2025 07:39:01 until 27.07.2025 12:59:05
+		Duration:	1.05:20:04
+		Location:	53.96849 -2.09661
+
+	WIN1
+		Images:	7511
+		Time:	27.07.2025 08:41:55 until 27.07.2025 12:58:34
+		Duration:	04:16:39
+		Location:	53.96849 -2.09661
+
+	BKO2
+		Images:	1282
+		Time:	26.07.2025 09:30:02 until 27.07.2025 11:48:19
+		Duration:	1.02:18:17
+		Location:	53.96849 -2.09661
+
+(3) - 2 - Twinkle Toes
+	CMS1
+		Images:	10621
+		Time:	26.07.2025 08:02:56 until 27.07.2025 13:04:58
+		Duration:	1.05:02:02
+		Location:	53.96815 -2.10130
+
+	CMS1LS1
+		Images:	1408
+		Time:	27.07.2025 09:11:24 until 27.07.2025 13:02:44
+		Duration:	03:51:20
+		Location:	53.96815 -2.10130
+
+	BKO3
+		Images:	1346
+		Time:	27.07.2025 11:52:56 until 27.07.2025 12:08:30
+		Duration:	00:15:34
+		Location:	53.96815 -2.10130
+
+(4) - 9 - Hydrophobia
+	TOMY1
+		Images:	12494
+		Time:	26.07.2025 07:58:12 until 27.07.2025 14:27:33
+		Duration:	1.06:29:21
+		Location:	53.96659 -2.08799
+
+	BKO4
+		Images:	1407
+		Time:	27.07.2025 12:24:35 until 27.07.2025 12:41:07
+		Duration:	00:16:32
+		Location:	53.96659 -2.08799
+
+(5) - 15 - Everest
+	DP1
+		Images:	9979
+		Time:	26.07.2025 07:39:07 until 27.07.2025 15:09:48
+		Duration:	1.07:30:41
+		Location:	53.96391 -2.09184
+
+	GHI1
+		Images:	5085
+		Time:	26.07.2025 07:47:53 until 27.07.2025 15:05:40
+		Duration:	1.07:17:47
+		Location:	53.96391 -2.09184
+
+	BKO5
+		Images:	1728
+		Time:	27.07.2025 12:57:14 until 27.07.2025 13:28:49
+		Duration:	00:31:35
+		Location:	53.96391 -2.09184
+
+(6) - 20 - Blockness Monster
+	DMOR1
+		Images:	3360
+		Time:	26.07.2025 07:44:38 until 27.07.2025 16:11:37
+		Duration:	1.08:26:59
+		Location:	53.96264 -2.09095
+
+	BKO6
+		Images:	2208
+		Time:	27.07.2025 13:34:03 until 27.07.2025 13:57:14
+		Duration:	00:23:11
+		Location:	53.96264 -2.09095
+
+(7) - 21 - Elektroshock Therapy
+	AAS1
+		Images:	8672
+		Time:	27.07.2025 10:49:22 until 27.07.2025 16:17:27
+		Duration:	05:28:05
+		Location:	53.96424 -2.09070
+
+	BKO7
+		Images:	1706
+		Time:	27.07.2025 14:05:10 until 27.07.2025 14:24:39
+		Duration:	00:19:29
+		Location:	53.96424 -2.09070
+
+(8) - Finish
+	BKO8LS1
+		Images:	2555
+		Time:	27.07.2025 10:42:53 until 27.07.2025 16:17:48
+		Duration:	05:34:55
+		Location:	53.96443 -2.09122
+
+	DP2LS1
+		Images:	2293
+		Time:	26.07.2025 07:01:57 until 27.07.2025 15:17:06
+		Duration:	1.08:15:09
+		Location:	53.96443 -2.09122
+
+(9) - Hero Wall
+	RD1
+		Images:	2394
+		Time:	26.07.2025 07:57:22 until 27.07.2025 16:22:35
+		Duration:	1.08:25:13
+		Location:	53.96443 -2.09122
+

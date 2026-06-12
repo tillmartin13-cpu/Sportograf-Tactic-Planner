@@ -1,0 +1,126 @@
+EventId: 14873
+Spots: 18
+Total Images: 42981
+Time:	17.10.2025 22:25:13 to 19.10.2025 12:23:55
+Duration: 1.13:58:42
+
+(1) - Obstacle 2 Hurdles
+	YG2
+		Images:	1447
+		Time:	18.10.2025 12:26:45 until 18.10.2025 16:31:21
+		Duration:	04:04:36
+		Location:	42.52763 14.05702
+
+(2) - Obstacle 4 Twister + penalty loop
+	YG3
+		Images:	1572
+		Time:	18.10.2025 09:02:19 until 18.10.2025 12:05:07
+		Duration:	03:02:48
+		Location:	42.52922 14.05823
+
+(3) - Obstacle 15 Barb Wire
+	VHO1
+		Images:	3319
+		Time:	18.10.2025 09:16:22 until 18.10.2025 17:02:28
+		Duration:	07:46:06
+		Location:	42.52898 14.05227
+
+(4) - Obstacle 17 Bucket carry
+	MMI1
+		Images:	3151
+		Time:	18.10.2025 11:08:32 until 19.10.2025 09:20:39
+		Duration:	22:12:07
+		Location:	42.52558 14.05008
+
+	MMI1LS1
+		Images:	1855
+		Time:	18.10.2025 09:32:11 until 18.10.2025 17:10:45
+		Duration:	07:38:34
+		Location:	42.52558 14.05008
+
+	MMI1LS2
+		Images:	1643
+		Time:	18.10.2025 21:32:11 until 19.10.2025 03:21:54
+		Duration:	05:49:43
+		Location:	42.52558 14.05008
+
+(5) - Impressions / Pano
+	MMI1DRONE1
+		Images:	47
+		Time:	18.10.2025 06:19:49 until 19.10.2025 10:08:33
+		Duration:	1.03:48:44
+		Location:	42.52558 14.05008
+
+(6) - Obstacle 19 Multirig
+	BRP1
+		Images:	3710
+		Time:	17.10.2025 22:25:13 until 19.10.2025 10:11:56
+		Duration:	1.11:46:43
+		Location:	42.51807 14.05835
+
+	BRP2
+		Images:	5441
+		Time:	18.10.2025 14:39:20 until 18.10.2025 17:54:52
+		Duration:	03:15:32
+		Location:	42.51807 14.05835
+
+(7) - Obstacle 20 Sandbag carry
+	BRP1LS1
+		Images:	1587
+		Time:	18.10.2025 10:52:44 until 18.10.2025 17:58:15
+		Duration:	07:05:31
+		Location:	42.51810 14.05860
+
+(8) - Obstacle 22 Starway to Sparta
+	RSP1
+		Images:	8996
+		Time:	18.10.2025 09:59:58 until 18.10.2025 18:05:00
+		Duration:	08:05:02
+		Location:	42.51917 14.05987
+
+(9) - Firejump
+	LIG1
+		Images:	769
+		Time:	18.10.2025 09:42:27 until 19.10.2025 12:23:55
+		Duration:	1.02:41:28
+		Location:	42.52016 14.06248
+
+	LIG2
+		Images:	1406
+		Time:	18.10.2025 14:48:54 until 18.10.2025 18:25:07
+		Duration:	03:36:13
+		Location:	42.52016 14.06248
+
+	RLO1LS1
+		Images:	3670
+		Time:	18.10.2025 11:57:48 until 18.10.2025 18:04:38
+		Duration:	06:06:50
+		Location:	42.52016 14.06248
+
+(10) - Herotent
+	SORI1
+		Images:	618
+		Time:	18.10.2025 09:20:01 until 19.10.2025 08:58:27
+		Duration:	23:38:26
+		Location:	42.52004 14.06242
+
+	SORI2
+		Images:	1410
+		Time:	18.10.2025 14:47:32 until 18.10.2025 18:30:29
+		Duration:	03:42:57
+		Location:	42.52004 14.06242
+
+(11) - Jumper
+	RLO1
+		Images:	243
+		Time:	18.10.2025 10:39:41 until 19.10.2025 11:36:18
+		Duration:	1.00:56:37
+		Location:	42.52004 14.06242
+
+(12) - Podium
+	RLO2
+		Images:	2096
+		Time:	18.10.2025 15:41:11 until 18.10.2025 17:31:33
+		Duration:	01:50:22
+		Location:	42.52004 14.06242
+

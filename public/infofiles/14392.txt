@@ -1,0 +1,150 @@
+EventId: 14392
+Spots: 23
+Total Images: 66764
+Time:	07.06.2025 06:21:40 to 07.06.2025 22:03:50
+Duration: 15:42:10
+
+(1) - Generales
+	JGM1
+		Images:	3115
+		Time:	07.06.2025 07:17:07 until 07.06.2025 11:32:21
+		Duration:	04:15:14
+		Location:	42.53427 1.57876
+
+	MCAS1
+		Images:	236
+		Time:	07.06.2025 07:27:52 until 07.06.2025 10:25:17
+		Duration:	02:57:25
+		Location:	42.53427 1.57876
+
+	MANR1
+		Images:	633
+		Time:	07.06.2025 07:27:27 until 07.06.2025 15:03:15
+		Duration:	07:35:48
+		Location:	42.53427 1.57876
+
+	JIA1
+		Images:	21
+		Time:	07.06.2025 07:23:32 until 07.06.2025 09:28:00
+		Duration:	02:04:28
+		Location:	42.53427 1.57876
+
+	RAVE1
+		Images:	114
+		Time:	07.06.2025 07:26:55 until 07.06.2025 09:07:20
+		Duration:	01:40:25
+		Location:	42.53427 1.57876
+
+(2) - Run
+	MIFP1LS1
+		Images:	2274
+		Time:	07.06.2025 06:21:40 until 07.06.2025 18:09:34
+		Duration:	11:47:54
+		Location:	42.52177 1.57233
+
+(3) - Atlas Carry
+	MIFP1
+		Images:	4697
+		Time:	07.06.2025 08:56:20 until 07.06.2025 18:44:44
+		Duration:	09:48:24
+		Location:	42.52184 1.57253
+
+	MANR4
+		Images:	595
+		Time:	07.06.2025 13:06:39 until 07.06.2025 13:24:16
+		Duration:	00:17:37
+		Location:	42.52184 1.57253
+
+(4) - Sandbag Carry
+	JLTG1
+		Images:	6905
+		Time:	07.06.2025 10:38:09 until 07.06.2025 19:17:36
+		Duration:	08:39:27
+		Location:	42.52242 1.5717
+
+	JLTG1LS2
+		Images:	1493
+		Time:	07.06.2025 08:38:04 until 07.06.2025 19:24:34
+		Duration:	10:46:30
+		Location:	42.52242 1.5717
+
+	JLTG1LS1
+		Images:	1779
+		Time:	07.06.2025 08:43:23 until 07.06.2025 19:23:22
+		Duration:	10:39:59
+		Location:	42.52242 1.5717
+
+(5) - Multi Rig
+	STO1
+		Images:	9509
+		Time:	07.06.2025 10:40:10 until 07.06.2025 19:18:56
+		Duration:	08:38:46
+		Location:	42.5224 1.57196
+
+	STO1LS1
+		Images:	2180
+		Time:	07.06.2025 09:05:49 until 07.06.2025 19:21:01
+		Duration:	10:15:12
+		Location:	42.5224 1.57196
+
+(6) - Bucket Carry
+	RAVE2
+		Images:	10079
+		Time:	07.06.2025 09:40:13 until 07.06.2025 21:37:13
+		Duration:	11:57:00
+		Location:	42.53556 1.5817
+
+	MANR2
+		Images:	314
+		Time:	07.06.2025 14:50:17 until 07.06.2025 14:55:06
+		Duration:	00:04:49
+		Location:	42.53556 1.5817
+
+(7) - A-Frame Cargo
+	JGM2
+		Images:	11712
+		Time:	07.06.2025 07:19:49 until 07.06.2025 21:59:15
+		Duration:	14:39:26
+		Location:	42.53697 1.58394
+
+	MANR3
+		Images:	387
+		Time:	07.06.2025 15:04:13 until 07.06.2025 15:11:54
+		Duration:	00:07:41
+		Location:	42.53697 1.58394
+
+(8) - Fire jump
+	MCAS2
+		Images:	8373
+		Time:	07.06.2025 10:25:38 until 07.06.2025 22:01:41
+		Duration:	11:36:03
+		Location:	42.53677 1.58401
+
+	MANR5
+		Images:	196
+		Time:	07.06.2025 15:26:36 until 07.06.2025 15:31:27
+		Duration:	00:04:51
+		Location:	42.53677 1.58401
+
+(9) - none
+	MANR5LS1
+		Images:	878
+		Time:	07.06.2025 10:31:18 until 07.06.2025 16:35:55
+		Duration:	06:04:37
+		Location:	42.53677 1.58401
+
+(10) - Herotent
+	JIA2
+		Images:	1265
+		Time:	07.06.2025 11:07:23 until 07.06.2025 22:03:50
+		Duration:	10:56:27
+		Location:	42.53663 1.58397
+
+(11) - Impressions / Pano
+	PANO1
+	MANR5DRONE1
+		Images:	9
+		Time:	07.06.2025 12:42:55 until 07.06.2025 16:53:06
+		Duration:	04:10:11
+		Location:	42.53427 1.57876
+

@@ -1,0 +1,106 @@
+EventId: 13859
+Spots: 15
+Total Images: 89437
+Time:	14.09.2025 08:26:35 to 14.09.2025 14:44:53
+Duration: 06:18:18
+
+(1) - Start
+	MIGE1
+		Images:	1506
+		Time:	14.09.2025 08:26:35 until 14.09.2025 09:45:29
+		Duration:	01:18:54
+		Location:	48.77567 9.17198
+
+(2) - 16.2 km Grabkapelle Rotenberg
+	ROB1
+		Images:	2678
+		Time:	14.09.2025 09:06:16 until 14.09.2025 09:49:14
+		Duration:	00:42:58
+		Location:	48.78299 9.27217
+
+	ROB1LS1
+		Images:	841
+		Time:	14.09.2025 09:01:09 until 14.09.2025 09:28:49
+		Duration:	00:27:40
+		Location:	48.78299 9.27217
+
+(3) - 63.3 km Nassachtal
+	ROB2
+		Images:	4863
+		Time:	14.09.2025 10:51:50 until 14.09.2025 12:14:07
+		Duration:	01:22:17
+		Location:	48.76608 9.49441
+
+	ROB2DRONE1
+		Images:	10
+		Time:	14.09.2025 12:22:52 until 14.09.2025 12:28:19
+		Duration:	00:05:27
+		Location:	48.76608 9.49441
+
+	ROB2LS1
+		Images:	1844
+		Time:	14.09.2025 10:47:48 until 14.09.2025 12:14:11
+		Duration:	01:26:23
+		Location:	48.76608 9.49441
+
+(4) - Fellbach Öffingen 96Km Lang 33Km K
+	JULG1
+		Images:	4898
+		Time:	14.09.2025 09:03:02 until 14.09.2025 13:42:47
+		Duration:	04:39:45
+		Location:	48.83676 9.29409
+
+(5) - Golden Gatele 108.3 Lang 45.25 Kurz
+	MVO1
+		Images:	2355
+		Time:	14.09.2025 10:26:05 until 14.09.2025 14:11:00
+		Duration:	03:44:55
+		Location:	48.83241 9.20722
+
+	MVO1LS1
+		Images:	993
+		Time:	14.09.2025 10:38:36 until 14.09.2025 14:12:43
+		Duration:	03:34:07
+		Location:	48.83241 9.20722
+
+(6) - Stuttgart Münster 109Km Lang 46.4Km Kurz
+	AKAM1
+		Images:	27413
+		Time:	14.09.2025 09:57:25 until 14.09.2025 14:12:12
+		Duration:	04:14:47
+		Location:	48.82722 9.20820
+
+(7) - Killesberg 113.5Km Lang 50.5Km Kurz
+	SBRO1
+		Images:	4989
+		Time:	14.09.2025 09:53:38 until 14.09.2025 14:29:25
+		Duration:	04:35:47
+		Location:	48.79932 9.17311
+
+(8) - Perkins Park Killesberg 114.3Km Lang 51.2Km Kurz
+	LTH1
+		Images:	6844
+		Time:	14.09.2025 08:43:01 until 14.09.2025 14:26:27
+		Duration:	05:43:26
+		Location:	48.80559 9.17516
+
+(9) - Stuttgart Blick 115.6Km Lang 52.5Km Kurz
+	MSAI1
+		Images:	6765
+		Time:	14.09.2025 09:18:55 until 14.09.2025 14:31:31
+		Duration:	05:12:36
+		Location:	48.79464 9.17525
+
+(10) - Finish
+	MIGE2LS1
+		Images:	17614
+		Time:	14.09.2025 10:18:13 until 14.09.2025 14:44:52
+		Duration:	04:26:39
+		Location:	48.77454 9.17247
+
+	MIGE2
+		Images:	5824
+		Time:	14.09.2025 10:18:14 until 14.09.2025 14:44:53
+		Duration:	04:26:39
+		Location:	48.77454 9.17247
+

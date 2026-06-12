@@ -1,0 +1,150 @@
+EventId: 14043
+Spots: 23
+Total Images: 54769
+Time:	07.06.2025 04:36:44 to 08.06.2025 04:00:55
+Duration: 23:24:11
+
+(1) - Start
+	AKS1
+		Images:	345
+		Time:	07.06.2025 04:55:42 until 07.06.2025 05:26:52
+		Duration:	00:31:10
+		Location:	47.79741 13.0469
+
+	AKS1LS1
+		Images:	57
+		Time:	07.06.2025 04:36:44 until 07.06.2025 05:06:37
+		Duration:	00:29:53
+		Location:	47.79712 13.04709
+
+	AKS1LS2
+		Images:	66
+		Time:	07.06.2025 04:48:40 until 07.06.2025 05:06:06
+		Duration:	00:17:26
+		Location:	47.79712 13.04709
+
+(2) - Zwölferhorn
+	AKS2
+		Images:	4423
+		Time:	07.06.2025 09:24:10 until 07.06.2025 13:36:14
+		Duration:	04:12:04
+		Location:	47.74209 13.34980
+
+(3) - Fuschlsee
+	AKS2LS1
+		Images:	715
+		Time:	07.06.2025 15:17:37 until 07.06.2025 19:06:05
+		Duration:	03:48:28
+		Location:	47.80517 13.28522
+
+	AKS2LS2
+		Images:	785
+		Time:	07.06.2025 14:53:51 until 07.06.2025 19:07:39
+		Duration:	04:13:48
+		Location:	47.80517 13.28522
+
+	YS2
+		Images:	4858
+		Time:	07.06.2025 10:31:17 until 07.06.2025 19:36:31
+		Duration:	09:05:14
+		Location:	47.80305 13.29059
+
+	YS2LS1
+		Images:	2072
+		Time:	07.06.2025 09:57:38 until 07.06.2025 19:21:45
+		Duration:	09:24:07
+		Location:	47.80204 13.29184
+
+	YS2LS2
+		Images:	1960
+		Time:	07.06.2025 10:14:42 until 07.06.2025 19:30:04
+		Duration:	09:15:22
+		Location:	47.80204 13.29184
+
+(4) - Impressions / Pano
+	AKS2DRONE1
+		Images:	28
+		Time:	07.06.2025 11:34:47 until 07.06.2025 15:43:53
+		Duration:	04:09:06
+		Location:	47.74209 13.34980
+
+	PANO1
+(5) - Kapitelplatz
+	AKS3LS1
+		Images:	310
+		Time:	07.06.2025 22:04:35 until 08.06.2025 04:00:55
+		Duration:	05:56:20
+		Location:	47.79755 13.04627
+
+	AKS3LS2
+		Images:	521
+		Time:	07.06.2025 22:09:39 until 08.06.2025 03:57:19
+		Duration:	05:47:40
+		Location:	47.79755 13.04627
+
+(6) - Kapuzinerberg
+	ALIS1
+		Images:	5156
+		Time:	07.06.2025 10:06:37 until 07.06.2025 20:26:40
+		Duration:	10:20:03
+		Location:	47.80368 13.05209
+
+(7) - Nockstein
+	BEM1
+		Images:	18421
+		Time:	07.06.2025 11:17:53 until 07.06.2025 20:29:21
+		Duration:	09:11:28
+		Location:	47.81485 13.12007
+
+(8) - Finish
+	MIW1
+		Images:	6526
+		Time:	07.06.2025 09:29:42 until 08.06.2025 03:53:21
+		Duration:	18:23:39
+		Location:	47.79743 13.04666
+
+	YS3LS1
+		Images:	382
+		Time:	07.06.2025 21:46:10 until 08.06.2025 03:53:21
+		Duration:	06:07:11
+		Location:	47.79749 13.04683
+
+	YS3LS2
+		Images:	335
+		Time:	07.06.2025 21:36:23 until 08.06.2025 03:56:29
+		Duration:	06:20:06
+		Location:	47.79749 13.04683
+
+(9) - Faistenauer Schafberg
+	MJO1
+		Images:	4051
+		Time:	07.06.2025 07:49:20 until 07.06.2025 13:13:44
+		Duration:	05:24:24
+		Location:	47.74436 13.30459
+
+(10) - Plötz Wasserfall
+	MJO2
+		Images:	2209
+		Time:	07.06.2025 13:14:27 until 07.06.2025 20:11:30
+		Duration:	06:57:03
+		Location:	47.79924 13.18268
+
+(11) - St. Gilgen Start
+	YS1
+		Images:	1048
+		Time:	07.06.2025 09:00:28 until 07.06.2025 09:03:50
+		Duration:	00:03:22
+		Location:	47.76683 13.36613
+
+	YS1LS1
+		Images:	236
+		Time:	07.06.2025 09:00:06 until 07.06.2025 09:03:29
+		Duration:	00:03:23
+		Location:	47.76683 13.36613
+
+	YS1LS2
+		Images:	265
+		Time:	07.06.2025 08:57:38 until 07.06.2025 09:05:15
+		Duration:	00:07:37
+		Location:	47.76683 13.36613
+

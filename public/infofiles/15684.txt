@@ -1,0 +1,97 @@
+EventId: 15684
+Spots: 14
+Total Images: 109875
+Time:	04.05.2025 06:23:02 to 04.05.2025 15:44:46
+Duration: 09:21:44
+
+(1) - Start
+	MBAR1
+		Images:	1209
+		Time:	04.05.2025 06:23:02 until 04.05.2025 14:36:02
+		Duration:	08:13:00
+		Location:	27.97501 -82.50286
+
+(2) - LEVEL 2
+	GMAL1
+		Images:	6136
+		Time:	04.05.2025 06:32:45 until 04.05.2025 14:14:20
+		Duration:	07:41:35
+		Location:	27.97656 -82.50328
+
+	JACL1
+		Images:	17552
+		Time:	04.05.2025 06:54:03 until 04.05.2025 15:12:58
+		Duration:	08:18:55
+		Location:	27.97656 -82.50328
+
+	JHRO1
+		Images:	13077
+		Time:	04.05.2025 06:52:58 until 04.05.2025 15:13:41
+		Duration:	08:20:43
+		Location:	27.97656 -82.50328
+
+	MAPM1
+		Images:	10393
+		Time:	04.05.2025 06:31:39 until 04.05.2025 15:13:47
+		Duration:	08:42:08
+		Location:	27.97656 -82.50328
+
+(3) - LEVEL 3
+	BMY1
+		Images:	10738
+		Time:	04.05.2025 06:52:43 until 04.05.2025 15:31:57
+		Duration:	08:39:14
+		Location:	27.97696 -82.50412
+
+	CUL1
+		Images:	17683
+		Time:	04.05.2025 06:48:47 until 04.05.2025 15:33:41
+		Duration:	08:44:54
+		Location:	27.97656 -82.50328
+
+	FC1
+		Images:	2791
+		Time:	04.05.2025 07:37:39 until 04.05.2025 15:30:36
+		Duration:	07:52:57
+		Location:	27.97656 -82.50328
+
+	ORGA1
+		Images:	7021
+		Time:	04.05.2025 06:43:22 until 04.05.2025 15:27:48
+		Duration:	08:44:26
+		Location:	27.97572 -82.50418
+
+(4) - Finish
+	JAZZ1
+		Images:	11703
+		Time:	04.05.2025 07:42:50 until 04.05.2025 15:28:12
+		Duration:	07:45:22
+		Location:	27.97585 -82.50373
+
+	NIMA1
+		Images:	7350
+		Time:	04.05.2025 06:44:53 until 04.05.2025 15:42:50
+		Duration:	08:57:57
+		Location:	27.97585 -82.50373
+
+(5) - Herotent
+	ATOL1
+		Images:	3795
+		Time:	04.05.2025 06:44:28 until 04.05.2025 15:44:46
+		Duration:	09:00:18
+		Location:	27.97602 -82.50370
+
+(6) - Impressions / Pano
+	PANO1
+		Images:	24
+		Time:	04.05.2025 07:19:45 until 04.05.2025 12:25:10
+		Duration:	05:05:25
+		Location:	27.97602 -82.50370
+
+(7) - Ceremony
+	SICA1
+		Images:	403
+		Time:	04.05.2025 06:35:48 until 04.05.2025 12:02:14
+		Duration:	05:26:26
+		Location:	27.97602 -82.50370
+

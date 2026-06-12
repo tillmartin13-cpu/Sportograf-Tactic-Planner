@@ -1,0 +1,179 @@
+EventId: 14915
+Spots: 26
+Total Images: 38046
+Time:	01.01.0001 23:00:00 to 25.05.2025 14:57:57
+Duration: 739394.15:57:57
+
+(1) - Registration
+	JHI6
+		Images:	457
+		Time:	23.05.2025 12:09:36 until 23.05.2025 16:09:26
+		Duration:	03:59:50
+		Location:	-33.95358 22.44876
+
+(2) - Start
+	LDR1
+		Images:	277
+		Time:	23.05.2025 10:01:50 until 23.05.2025 12:00:32
+		Duration:	01:58:42
+		Location:	-33.95358 22.44876
+
+	SAKE2
+		Images:	1947
+		Time:	24.05.2025 06:27:50 until 24.05.2025 17:31:48
+		Duration:	11:03:58
+		Location:	-33.95358 22.44876
+
+	DASU3
+		Images:	27
+		Time:	25.05.2025 08:02:18 until 25.05.2025 11:04:14
+		Duration:	03:01:56
+		Location:	-33.94726 22.45369
+
+	SAKE4
+		Images:	305
+		Time:	25.05.2025 09:37:29 until 25.05.2025 11:18:59
+		Duration:	01:41:30
+		Location:	-33.94726 22.45369
+
+(3) - MUT Miler Forest Ascent
+	SAKE1
+		Images:	473
+		Time:	23.05.2025 12:32:45 until 23.05.2025 14:53:11
+		Duration:	02:20:26
+		Location:	-33.93693 22.45420
+
+(4) - MUT Miler George Peak Ascent
+	DASU1
+		Images:	399
+		Time:	23.05.2025 12:13:49 until 23.05.2025 12:51:54
+		Duration:	00:38:05
+		Location:	-33.93081 22.45384
+
+(5) - MUT Miler Craddock Pass Approach
+	JHI1
+		Images:	547
+		Time:	23.05.2025 14:18:11 until 23.05.2025 17:24:09
+		Duration:	03:05:58
+		Location:	-33.92130 22.42310
+
+(6) - MUT Miler Craddock Pass Waterpoint Approach
+	JHI1LS1
+		Images:	89
+		Time:	23.05.2025 10:21:37 until 23.05.2025 17:16:22
+		Duration:	06:54:45
+		Location:	-33.92134 22.42280
+
+(7) - MUT Miler Craddock Pass Descent
+	TAZ1
+		Images:	356
+		Time:	23.05.2025 14:19:01 until 23.05.2025 17:01:19
+		Duration:	02:42:18
+		Location:	-33.92063 22.42012
+
+(8) - Finish
+	SAKE3
+		Images:	3370
+		Time:	24.05.2025 17:31:48 until 25.05.2025 02:31:53
+		Duration:	09:00:05
+		Location:	-33.95358 22.44876
+
+	DASU4
+		Images:	949
+		Time:	01.01.0001 23:00:00 until 25.05.2025 01:40:34
+		Duration:	739394.02:40:34
+		Location:	-33.95358 22.44876
+
+	LDR4
+		Images:	3118
+		Time:	24.05.2025 12:57:35 until 25.05.2025 05:52:59
+		Duration:	16:55:24
+		Location:	-33.95358 22.44876
+
+	JHI3
+		Images:	93
+		Time:	25.05.2025 01:47:15 until 25.05.2025 05:35:40
+		Duration:	03:48:25
+		Location:	-33.95358 22.44876
+
+	JHI5
+		Images:	307
+		Time:	25.05.2025 11:20:09 until 25.05.2025 12:53:47
+		Duration:	01:33:38
+		Location:	-33.95358 22.44876
+
+	TAZ4
+		Images:	333
+		Time:	25.05.2025 11:21:16 until 25.05.2025 12:20:38
+		Duration:	00:59:22
+		Location:	-33.95358 22.44876
+
+	LDR3
+		Images:	3124
+		Time:	25.05.2025 07:04:46 until 25.05.2025 14:01:49
+		Duration:	06:57:03
+		Location:	-33.95358 22.44876
+
+(9) - Craddock Pass Descent MUT 100 60 Marathon
+	DASU2
+		Images:	2081
+		Time:	24.05.2025 05:45:47 until 24.05.2025 09:41:32
+		Duration:	03:55:45
+		Location:	-33.93081 22.45384
+
+(10) - Montague Pass Approach MUT 100 60 Marathon
+	LDR2
+		Images:	4406
+		Time:	24.05.2025 05:38:49 until 24.05.2025 09:44:50
+		Duration:	04:06:01
+		Location:	-33.92013 22.41866
+
+(11) - Herold Wines Departure MUT 100 & 60
+	JHI2
+		Images:	853
+		Time:	24.05.2025 08:33:30 until 24.05.2025 15:31:16
+		Duration:	06:57:46
+		Location:	-33.87966 22.46129
+
+(12) - Herold Wines Hills MUT 100 60 Marathon
+	TAZ2
+		Images:	2208
+		Time:	24.05.2025 08:37:57 until 24.05.2025 15:40:06
+		Duration:	07:02:09
+		Location:	-33.8802 22.46749
+
+(13) - Mountain Views MUT Challenge & Lite
+	JHI4
+		Images:	3059
+		Time:	25.05.2025 08:00:26 until 25.05.2025 10:21:14
+		Duration:	02:20:48
+		Location:	-33.93574 22.45943
+
+(14) - Forest Trail MUT Challenge & Lite
+	TAZ3
+		Images:	2829
+		Time:	25.05.2025 08:22:14 until 25.05.2025 10:34:08
+		Duration:	02:11:54
+		Location:	-33.93352 22.46278
+
+(15) - Trail Kiosk MUT Challenge & Lite
+	SAKE5
+		Images:	4729
+		Time:	25.05.2025 11:40:05 until 25.05.2025 14:57:57
+		Duration:	03:17:52
+		Location:	-33.94724 22.45463
+
+(16) - Trail Kiosk Approach MUT Challenge & Lite
+	DASU5
+		Images:	1696
+		Time:	25.05.2025 09:47:58 until 25.05.2025 12:41:17
+		Duration:	02:53:19
+		Location:	-33.94686 22.45545
+
+(17) - Impressions / Pano
+	PANO1
+		Images:	14
+		Time:	23.05.2025 18:33:46 until 25.05.2025 11:03:57
+		Duration:	1.16:30:11
+		Location:	NULL NULL
+

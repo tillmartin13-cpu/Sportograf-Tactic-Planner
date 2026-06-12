@@ -1,0 +1,199 @@
+EventId: 13635
+Spots: 31
+Total Images: 29169
+Time:	08.06.2025 09:06:49 to 08.06.2025 18:09:51
+Duration: 09:03:02
+
+(1) - 6km (95km); 6km (45km)
+	BAB1
+		Images:	1131
+		Time:	08.06.2025 09:06:49 until 08.06.2025 11:00:52
+		Duration:	01:54:03
+		Location:	50.46951 5.77852
+
+	BAB1LS1
+		Images:	554
+		Time:	08.06.2025 09:40:16 until 08.06.2025 11:00:26
+		Duration:	01:20:10
+		Location:	50.46951 5.77852
+
+	BAB1LS2
+		Images:	456
+		Time:	08.06.2025 09:40:22 until 08.06.2025 11:00:32
+		Duration:	01:20:10
+		Location:	50.46951 5.77852
+
+(2) - 21,85km (95km); 21,85km (45km)
+	MK1
+		Images:	4515
+		Time:	08.06.2025 10:53:06 until 08.06.2025 12:20:36
+		Duration:	01:27:30
+		Location:	50.47525 5.81890
+
+	MK1LS1
+		Images:	425
+		Time:	08.06.2025 09:54:03 until 08.06.2025 12:22:21
+		Duration:	02:28:18
+		Location:	50.47525 5.81890
+
+(3) - 21,8km (95km); 21,8km (45km)
+	MK1LS2
+		Images:	378
+		Time:	08.06.2025 09:42:03 until 08.06.2025 12:34:41
+		Duration:	02:52:38
+		Location:	50.47486 5.81920
+
+(4) - 26,1km (95km); 3,78km (65km); 26,1km (45km)
+	LV1
+		Images:	1692
+		Time:	08.06.2025 09:36:07 until 08.06.2025 13:00:49
+		Duration:	03:24:42
+		Location:	50.48405 5.81536
+
+	LV1LS1
+		Images:	647
+		Time:	08.06.2025 09:19:04 until 08.06.2025 13:00:42
+		Duration:	03:41:38
+		Location:	50.48405 5.81536
+
+	LV1LS2
+		Images:	580
+		Time:	08.06.2025 09:19:24 until 08.06.2025 13:00:49
+		Duration:	03:41:25
+		Location:	50.48405 5.81536
+
+(5) - 47km (95km); 20,88km (65km)
+	NWO1
+		Images:	1459
+		Time:	08.06.2025 10:31:38 until 08.06.2025 13:29:38
+		Duration:	02:58:00
+		Location:	50.54142 5.78353
+
+	NWO1LS1
+		Images:	601
+		Time:	08.06.2025 10:40:23 until 08.06.2025 14:04:59
+		Duration:	03:24:36
+		Location:	50.54142 5.78353
+
+	NWO1LS2
+		Images:	425
+		Time:	08.06.2025 10:28:54 until 08.06.2025 13:33:14
+		Duration:	03:04:20
+		Location:	50.54142 5.78353
+
+(6) - Impressions / Pano
+	TOG1DRONE1
+		Images:	41
+		Time:	08.06.2025 12:36:00 until 08.06.2025 15:00:42
+		Duration:	02:24:42
+		Location:	50.54638 5.78179
+
+	PANO1
+(7) - 47,7km (95km); 21,62km (65km)
+	TOG1
+		Images:	745
+		Time:	08.06.2025 09:44:12 until 08.06.2025 13:44:22
+		Duration:	04:00:10
+		Location:	50.54638 5.78179
+
+	TOG1LS1
+		Images:	476
+		Time:	08.06.2025 09:29:28 until 08.06.2025 14:10:39
+		Duration:	04:41:11
+		Location:	50.54638 5.78179
+
+	TOG1LS2
+		Images:	472
+		Time:	08.06.2025 09:49:43 until 08.06.2025 13:38:43
+		Duration:	03:49:00
+		Location:	50.54638 5.78179
+
+(8) - 93,5km (95km)
+	LV2
+		Images:	545
+		Time:	08.06.2025 14:27:44 until 08.06.2025 17:46:53
+		Duration:	03:19:09
+		Location:	50.49042 5.83201
+
+	LV2LS1
+		Images:	243
+		Time:	08.06.2025 13:48:25 until 08.06.2025 17:54:45
+		Duration:	04:06:20
+		Location:	50.49042 5.83201
+
+	LV2LS2
+		Images:	167
+		Time:	08.06.2025 14:27:41 until 08.06.2025 17:44:08
+		Duration:	03:16:27
+		Location:	50.49042 5.83201
+
+(9) - 93,63km (95km)
+	MK2
+		Images:	1760
+		Time:	08.06.2025 12:54:10 until 08.06.2025 17:44:01
+		Duration:	04:49:51
+		Location:	50.48961 5.83259
+
+	MK2LS1
+		Images:	211
+		Time:	08.06.2025 13:41:23 until 08.06.2025 17:46:48
+		Duration:	04:05:25
+		Location:	50.48961 5.83259
+
+	MK2LS2
+		Images:	211
+		Time:	08.06.2025 14:14:55 until 08.06.2025 17:46:41
+		Duration:	03:31:46
+		Location:	50.48961 5.83259
+
+(10) - 95,49km (95km); 64,28km (65km)
+	NWO2
+		Images:	950
+		Time:	08.06.2025 15:24:19 until 08.06.2025 17:17:05
+		Duration:	01:52:46
+		Location:	50.49328 5.82077
+
+	NWO2LS1
+		Images:	340
+		Time:	08.06.2025 15:16:16 until 08.06.2025 17:17:05
+		Duration:	02:00:49
+		Location:	50.49328 5.82077
+
+(11) - 95,81km (95km); 64,6km (65km)
+	TOG2
+		Images:	933
+		Time:	08.06.2025 15:10:22 until 08.06.2025 17:44:23
+		Duration:	02:34:01
+		Location:	50.49192 5.82000
+
+	TOG2LS1
+		Images:	226
+		Time:	08.06.2025 15:01:51 until 08.06.2025 17:44:23
+		Duration:	02:42:32
+		Location:	50.49192 5.82000
+
+	TOG2LS2
+		Images:	225
+		Time:	08.06.2025 14:49:58 until 08.06.2025 17:39:10
+		Duration:	02:49:12
+		Location:	50.49192 5.82000
+
+(12) - Finish
+	BAB2
+		Images:	2539
+		Time:	08.06.2025 11:55:17 until 08.06.2025 18:09:51
+		Duration:	06:14:34
+		Location:	50.48703 5.80848
+
+	BAB2LS1
+		Images:	3720
+		Time:	08.06.2025 11:40:13 until 08.06.2025 17:47:40
+		Duration:	06:07:27
+		Location:	50.48703 5.80848
+
+	BAB2LS2
+		Images:	2502
+		Time:	08.06.2025 11:48:52 until 08.06.2025 17:44:04
+		Duration:	05:55:12
+		Location:	50.48703 5.80848
+

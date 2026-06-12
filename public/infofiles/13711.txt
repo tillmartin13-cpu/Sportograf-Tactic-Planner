@@ -1,0 +1,203 @@
+EventId: 13711
+Spots: 31
+Total Images: 88725
+Time:	28.02.2025 19:51:19 to 01.03.2025 14:51:51
+Duration: 19:00:32
+
+(1) - Start
+	TB1
+		Images:	533
+		Time:	28.02.2025 20:30:52 until 01.03.2025 08:31:11
+		Duration:	12:00:19
+		Location:	50.85825 3.27597
+
+(2) - 6,4 km (all distances)
+	DAV1
+		Images:	3468
+		Time:	01.03.2025 07:06:00 until 01.03.2025 10:53:26
+		Duration:	03:47:26
+		Location:	50.88024 3.33143
+
+	DAV1LS1
+		Images:	4002
+		Time:	01.03.2025 06:58:31 until 01.03.2025 10:32:57
+		Duration:	03:34:26
+		Location:	50.88024 3.33143
+
+	DAV1LS2
+		Images:	2312
+		Time:	01.03.2025 07:02:14 until 01.03.2025 10:53:01
+		Duration:	03:50:47
+		Location:	50.88024 3.33143
+
+(3) - 6,8 km (all distances)
+	MOAB1
+		Images:	3766
+		Time:	01.03.2025 06:58:09 until 01.03.2025 11:03:42
+		Duration:	04:05:33
+		Location:	50.87868 3.32853
+
+(4) - 11,4 km (all distances)
+	LMC1
+		Images:	6943
+		Time:	28.02.2025 20:12:20 until 01.03.2025 11:18:26
+		Duration:	15:06:06
+		Location:	50.86517 3.36755
+
+(5) - 23,7 km (all distances)
+	TOG1
+		Images:	8317
+		Time:	01.03.2025 06:43:52 until 01.03.2025 10:52:34
+		Duration:	04:08:42
+		Location:	50.82275 3.45984
+
+	TOG1LS1
+		Images:	2556
+		Time:	01.03.2025 06:34:03 until 01.03.2025 10:54:57
+		Duration:	04:20:54
+		Location:	50.82275 3.45984
+
+	TOG1LS2
+		Images:	2473
+		Time:	01.03.2025 06:29:40 until 01.03.2025 10:56:31
+		Duration:	04:26:51
+		Location:	50.82275 3.45984
+
+(6) - 24,1 km (all distances)
+	NWO1
+		Images:	3141
+		Time:	01.03.2025 06:48:46 until 01.03.2025 10:45:10
+		Duration:	03:56:24
+		Location:	50.82108 3.46059
+
+	NWO1LS1
+		Images:	1221
+		Time:	01.03.2025 08:33:24 until 01.03.2025 12:05:21
+		Duration:	03:31:57
+		Location:	50.82108 3.46059
+
+(7) - (31,7 / 140)km; (31,7 /108)km; (31,7 / 85)km
+	OP1
+		Images:	5919
+		Time:	01.03.2025 06:47:41 until 01.03.2025 11:55:50
+		Duration:	05:08:09
+		Location:	50.80553 3.50897
+
+	OP1LS1
+		Images:	2823
+		Time:	28.02.2025 20:03:03 until 01.03.2025 11:46:45
+		Duration:	15:43:42
+		Location:	50.80553 3.50897
+
+(8) - (110,11 / 140)km; (77,71 / 108)km; 58,25 / 85)km; (37,76 / 65)km
+	DAV2
+		Images:	351
+		Time:	01.03.2025 12:14:26 until 01.03.2025 14:07:39
+		Duration:	01:53:13
+		Location:	50.77568 3.40098
+
+	DAV2LS1
+		Images:	437
+		Time:	01.03.2025 12:03:27 until 01.03.2025 14:07:39
+		Duration:	02:04:12
+		Location:	50.77568 3.40098
+
+	DAV2LS2
+		Images:	253
+		Time:	01.03.2025 11:53:55 until 01.03.2025 14:07:11
+		Duration:	02:13:16
+		Location:	50.77568 3.40098
+
+(9) - (110,3 / 140)km; (77,9 / 108)km; (58,44 / 85)km; (37,95 / 65)km
+	MOAB2
+		Images:	1199
+		Time:	01.03.2025 11:55:37 until 01.03.2025 14:11:29
+		Duration:	02:15:52
+		Location:	50.77593 3.39969
+
+(10) - (113,44 / 140)km; (81,04 / 108)km; (61,58 / 85)km; (41,09 / 65)km
+	LMC2
+		Images:	2029
+		Time:	01.03.2025 11:43:19 until 01.03.2025 14:24:33
+		Duration:	02:41:14
+		Location:	50.77247 3.37296
+
+(11) - (116,5 / 140)km; (84,21 / 108)km; (64,75 / 85)km; (44,25 / 65)km
+	JKE1
+		Images:	9973
+		Time:	28.02.2025 19:51:19 until 01.03.2025 14:23:35
+		Duration:	18:32:16
+		Location:	50.76687 3.34473
+
+	JKE1LS1
+		Images:	3729
+		Time:	01.03.2025 07:13:22 until 01.03.2025 14:17:47
+		Duration:	07:04:25
+		Location:	50.76687 3.34473
+
+	JKE1LS2
+		Images:	3036
+		Time:	28.02.2025 20:10:07 until 01.03.2025 14:23:36
+		Duration:	18:13:29
+		Location:	50.76687 3.34473
+
+(12) - (117,45 / 140)km; (85,16 / 108)km; (65,7 / 85)km; (45,2 / 65)km
+	NWO2
+		Images:	653
+		Time:	01.03.2025 12:28:36 until 01.03.2025 14:06:59
+		Duration:	01:38:23
+		Location:	50.76097 3.35015
+
+	NWO2LS1
+		Images:	395
+		Time:	01.03.2025 12:07:21 until 01.03.2025 14:07:42
+		Duration:	02:00:21
+		Location:	50.76097 3.35015
+
+(13) - (117,85 / 140)km; (85,56 / 108)km; (66,1 / 85)km; (45,6 / 65)km
+	TOG2
+		Images:	1150
+		Time:	01.03.2025 12:31:02 until 01.03.2025 14:07:40
+		Duration:	01:36:38
+		Location:	50.75987 3.35348
+
+	TOG2LS1
+		Images:	334
+		Time:	01.03.2025 12:26:35 until 01.03.2025 14:07:40
+		Duration:	01:41:05
+		Location:	50.75987 3.35348
+
+	TOG2LS2
+		Images:	281
+		Time:	01.03.2025 12:22:46 until 01.03.2025 14:11:18
+		Duration:	01:48:32
+		Location:	50.75987 3.35348
+
+(14) - (123,17 / 140)km; (91,13 / 108)km; (71,67 / 85)km; (50,81 / 65)km
+	GVDL1
+		Images:	7469
+		Time:	28.02.2025 20:18:56 until 01.03.2025 14:34:18
+		Duration:	18:15:22
+		Location:	50.77806 3.34051
+
+(15) - Finish
+	TB2
+		Images:	3604
+		Time:	01.03.2025 09:50:12 until 01.03.2025 14:47:07
+		Duration:	04:56:55
+		Location:	50.85825 3.27597
+
+	TB2LS1
+		Images:	6293
+		Time:	28.02.2025 20:27:12 until 01.03.2025 14:51:51
+		Duration:	18:24:39
+		Location:	50.85825 3.27597
+
+(16) - Impressions / Pano
+	TOG1DRONE1
+		Images:	65
+		Time:	01.03.2025 07:44:45 until 01.03.2025 12:10:00
+		Duration:	04:25:15
+		Location:	50.85825 3.27597
+
+	PANO1

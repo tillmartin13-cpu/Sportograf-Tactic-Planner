@@ -1,0 +1,82 @@
+EventId: 14968
+Spots: 11
+Total Images: 88539
+Time:	12.09.2025 23:04:13 to 14.09.2025 11:20:52
+Duration: 1.12:16:39
+
+(1) - Obstacle 25
+	CBAC1
+		Images:	7787
+		Time:	13.09.2025 08:08:00 until 14.09.2025 09:42:46
+		Duration:	1.01:34:46
+		Location:	42.80286 -80.61674
+
+(2) - Obstacle 22
+	DMED1
+		Images:	3782
+		Time:	13.09.2025 06:42:31 until 13.09.2025 16:04:37
+		Duration:	09:22:06
+		Location:	42.80126 -80.62106
+
+(3) - Obstacle 12
+	ERIC1
+		Images:	12460
+		Time:	13.09.2025 00:01:43 until 13.09.2025 14:32:36
+		Duration:	14:30:53
+		Location:	42.79919 -80.61744
+
+(4) - Obstacle 10
+	HAMK1
+		Images:	19511
+		Time:	12.09.2025 23:04:13 until 14.09.2025 11:17:41
+		Duration:	1.12:13:28
+		Location:	42.80053 -80.62401
+
+(5) - Obstacle 20
+	KENY1
+		Images:	5814
+		Time:	12.09.2025 23:09:05 until 13.09.2025 15:31:56
+		Duration:	16:22:51
+		Location:	42.80144 -80.61508
+
+	WTY1
+		Images:	4090
+		Time:	13.09.2025 08:02:05 until 14.09.2025 09:08:17
+		Duration:	1.01:06:12
+		Location:	42.80144 -80.61508
+
+(6) - Obstacle 11
+	LHBC1
+		Images:	14019
+		Time:	13.09.2025 07:55:02 until 13.09.2025 14:58:39
+		Duration:	07:03:37
+		Location:	42.79969 -80.62099
+
+(7) - Highlights
+	NIMA1
+		Images:	902
+		Time:	13.09.2025 08:04:28 until 14.09.2025 11:20:52
+		Duration:	1.03:16:24
+		Location:	42.80099 -80.61968
+
+(8) - Obstacle 24
+	PNR1
+		Images:	2259
+		Time:	13.09.2025 09:18:42 until 13.09.2025 16:17:58
+		Duration:	06:59:16
+		Location:	42.80294 -80.61685
+
+(9) - Obstacle 26
+	THAT1
+		Images:	12669
+		Time:	13.09.2025 09:22:48 until 13.09.2025 16:33:20
+		Duration:	07:10:32
+		Location:	42.79948 -80.61592
+
+(10) - Obstacle 19
+	CASS1
+		Images:	5246
+		Time:	13.09.2025 07:56:06 until 13.09.2025 15:50:55
+		Duration:	07:54:49
+		Location:	42.80190 -80.61756
+

@@ -1,0 +1,73 @@
+EventId: 15573
+Spots: 10
+Total Images: 48892
+Time:	08.06.2025 08:24:09 to 08.06.2025 15:09:32
+Duration: 06:45:23
+
+(1) - Swim - Transition zone Ausstieg
+	MBEN1
+		Images:	4929
+		Time:	08.06.2025 08:24:09 until 08.06.2025 10:33:55
+		Duration:	02:09:46
+		Location:	50.73691 7.11341
+
+(2) - Bike - 35.0 km
+	MIV1
+		Images:	5667
+		Time:	08.06.2025 09:36:27 until 08.06.2025 12:20:54
+		Duration:	02:44:27
+		Location:	50.70833 7.34106
+
+	MIV1LS2
+		Images:	2438
+		Time:	08.06.2025 09:38:42 until 08.06.2025 12:46:46
+		Duration:	03:08:04
+		Location:	50.70833 7.34106
+
+	MIV1LS1
+		Images:	1654
+		Time:	08.06.2025 09:51:22 until 08.06.2025 12:52:31
+		Duration:	03:01:09
+		Location:	50.70833 7.34106
+
+(3) - Run - Impressions / Pano
+	MIV1IMP1
+		Images:	260
+		Time:	08.06.2025 14:14:40 until 08.06.2025 14:43:26
+		Duration:	00:28:46
+		Location:	50.73691 7.11341
+
+(4) - Run - 1.0 km before finish
+	OT2
+		Images:	15531
+		Time:	08.06.2025 08:24:29 until 08.06.2025 14:57:42
+		Duration:	06:33:13
+		Location:	50.73015 7.11694
+
+(5) - Bike - Transition zone
+	OT1
+		Images:	3122
+		Time:	08.06.2025 08:24:29 until 08.06.2025 10:41:42
+		Duration:	02:17:13
+		Location:	50.73782 7.11333
+
+(6) - Finish
+	MBEN2
+		Images:	5417
+		Time:	08.06.2025 11:49:08 until 08.06.2025 15:09:32
+		Duration:	03:20:24
+		Location:	50.73691 7.11341
+
+	MBEN2LS1
+		Images:	2804
+		Time:	08.06.2025 11:03:34 until 08.06.2025 15:05:02
+		Duration:	04:01:28
+		Location:	50.73691 7.11341
+
+(7) - Run - 1.5 km
+	OT2LS1
+		Images:	7070
+		Time:	08.06.2025 08:32:18 until 08.06.2025 14:48:55
+		Duration:	06:16:37
+		Location:	50.73015 7.11694
+

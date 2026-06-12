@@ -1,0 +1,59 @@
+EventId: 13629
+Spots: 8
+Total Images: 13498
+Time:	22.03.2025 02:59:08 to 22.03.2025 23:26:32
+Duration: 20:27:24
+
+(1) - Start
+	SAKE1
+		Images:	831
+		Time:	22.03.2025 02:59:08 until 22.03.2025 07:15:26
+		Duration:	04:16:18
+		Location:	-33.62566 19.08048
+
+(2) - Canetsfontein Aid Station - Hundred Ultra Marathon Lite
+	RBU1
+		Images:	467
+		Time:	22.03.2025 06:02:16 until 22.03.2025 11:01:28
+		Duration:	04:59:12
+		Location:	-33.66173 19.09031
+
+(3) - Mountain Forest Trail - Hundred Ultra Marathon Challenge Lite
+	TAZ1
+		Images:	1458
+		Time:	22.03.2025 05:41:46 until 22.03.2025 10:11:32
+		Duration:	04:29:46
+		Location:	-33.66273 19.07815
+
+(4) - Hilltop Trail - Light Dash
+	DASU1
+		Images:	1305
+		Time:	22.03.2025 07:40:03 until 22.03.2025 11:50:27
+		Duration:	04:10:24
+		Location:	-33.63494 19.08714
+
+(5) - Finish
+	SAKE2
+		Images:	7401
+		Time:	22.03.2025 08:13:15 until 22.03.2025 21:42:54
+		Duration:	13:29:39
+		Location:	-33.62566 19.08048
+
+	RBU2
+		Images:	1515
+		Time:	22.03.2025 06:02:16 until 22.03.2025 23:26:32
+		Duration:	17:24:16
+		Location:	-33.62566 19.08048
+
+	TAZ2
+		Images:	436
+		Time:	22.03.2025 12:01:49 until 22.03.2025 21:37:33
+		Duration:	09:35:44
+		Location:	-33.62566 19.08048
+
+	DASU2
+		Images:	85
+		Time:	22.03.2025 18:02:38 until 22.03.2025 21:15:19
+		Duration:	03:12:41
+		Location:	-33.62566 19.08048
+

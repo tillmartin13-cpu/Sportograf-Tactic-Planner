@@ -1,0 +1,91 @@
+EventId: 14249
+Spots: 14
+Total Images: 22699
+Time:	26.04.2025 07:07:38 to 26.04.2025 09:48:26
+Duration: 02:40:48
+
+(1) - Spur Road Gates
+	SJK1
+		Images:	1368
+		Time:	26.04.2025 07:15:58 until 26.04.2025 09:28:22
+		Duration:	02:12:24
+		Location:	51.50148 -0.14006
+
+(2) - Queen Victoria Memorial
+	SLE1
+		Images:	1998
+		Time:	26.04.2025 08:13:07 until 26.04.2025 09:27:57
+		Duration:	01:14:50
+		Location:	51.50228 -0.14411
+
+	SLE1LS1
+		Images:	604
+		Time:	26.04.2025 08:24:10 until 26.04.2025 09:32:13
+		Duration:	01:08:03
+		Location:	51.50228 -0.14411
+
+(3) - Buckingham Palace
+	ALN1
+		Images:	4684
+		Time:	26.04.2025 08:27:50 until 26.04.2025 09:31:16
+		Duration:	01:03:26
+		Location:	51.50225 -0.13997
+
+	ALN1LS1
+		Images:	457
+		Time:	26.04.2025 08:19:16 until 26.04.2025 09:30:46
+		Duration:	01:11:30
+		Location:	51.50225 -0.13997
+
+	ALN1LS2
+		Images:	842
+		Time:	26.04.2025 08:20:08 until 26.04.2025 09:32:09
+		Duration:	01:12:01
+		Location:	51.50225 -0.13997
+
+(4) - Finish Straight
+	TIH1
+		Images:	2554
+		Time:	26.04.2025 07:07:38 until 26.04.2025 09:48:26
+		Duration:	02:40:48
+		Location:	51.50294 -0.13807
+
+	TIH1LS1
+		Images:	1158
+		Time:	26.04.2025 07:46:47 until 26.04.2025 09:34:04
+		Duration:	01:47:17
+		Location:	51.50294 -0.13807
+
+(5) - Finish
+	GUD1
+		Images:	4775
+		Time:	26.04.2025 08:37:24 until 26.04.2025 09:32:23
+		Duration:	00:54:59
+		Location:	51.50353 -0.13659
+
+	GUD1LS1
+		Images:	332
+		Time:	26.04.2025 07:45:45 until 26.04.2025 09:22:30
+		Duration:	01:36:45
+		Location:	51.50353 -0.13659
+
+	GUD1LS2
+		Images:	504
+		Time:	26.04.2025 08:37:23 until 26.04.2025 09:29:42
+		Duration:	00:52:19
+		Location:	51.50353 -0.13659
+
+	MIH1
+		Images:	3099
+		Time:	26.04.2025 08:00:58 until 26.04.2025 09:32:22
+		Duration:	01:31:24
+		Location:	51.50353 -0.13659
+
+	MIH1LS1
+		Images:	324
+		Time:	26.04.2025 07:44:57 until 26.04.2025 09:22:32
+		Duration:	01:37:35
+		Location:	51.50353 -0.13659
+
+(6) - Impressions / Pano
+	PANO1

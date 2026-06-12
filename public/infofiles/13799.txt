@@ -1,0 +1,156 @@
+EventId: 13799
+Spots: 23
+Total Images: 123404
+Time:	04.05.2025 06:40:11 to 04.05.2025 16:36:33
+Duration: 09:56:22
+
+(1) - Swim - Start
+	BRN1
+		Images:	3490
+		Time:	04.05.2025 06:40:11 until 04.05.2025 08:17:09
+		Duration:	01:36:58
+		Location:	45.48009 12.58584
+
+	MMO1
+		Images:	888
+		Time:	04.05.2025 06:47:52 until 04.05.2025 08:16:47
+		Duration:	01:28:55
+		Location:	45.48009 12.58584
+
+	DDF1DRONE1
+		Images:	100
+		Time:	04.05.2025 08:22:01 until 04.05.2025 15:54:13
+		Duration:	07:32:12
+		Location:	45.48469 12.59556
+
+(2) - Swim - Transition zone
+	DDF1
+		Images:	2514
+		Time:	04.05.2025 07:35:55 until 04.05.2025 10:16:16
+		Duration:	02:40:21
+		Location:	45.48469 12.59556
+
+	DDF1LS1
+		Images:	10734
+		Time:	04.05.2025 07:09:40 until 04.05.2025 09:20:39
+		Duration:	02:10:59
+		Location:	45.48469 12.59556
+
+(3) - Bike - Transition zone
+	GIBE1
+		Images:	9815
+		Time:	04.05.2025 07:07:04 until 04.05.2025 09:33:33
+		Duration:	02:26:29
+		Location:	45.48653 12.59362
+
+(4) - Bike - 34.0 km
+	MATR1
+		Images:	3591
+		Time:	04.05.2025 08:21:27 until 04.05.2025 11:06:18
+		Duration:	02:44:51
+		Location:	45.54574 12.72670
+
+	MATR1LS2
+		Images:	1738
+		Time:	04.05.2025 07:46:56 until 04.05.2025 11:11:05
+		Duration:	03:24:09
+		Location:	45.54574 12.72670
+
+	MATR1LS1
+		Images:	2448
+		Time:	04.05.2025 07:40:51 until 04.05.2025 11:09:48
+		Duration:	03:28:57
+		Location:	45.54574 12.72670
+
+(5) - Bike - Impressions / Pano
+	MATR1DRONE1
+		Images:	75
+		Time:	04.05.2025 08:55:09 until 04.05.2025 09:17:03
+		Duration:	00:21:54
+		Location:	45.54574 12.72670
+
+(6) - Bike - 48.0 km
+	MDS1
+		Images:	10249
+		Time:	04.05.2025 07:39:03 until 04.05.2025 13:48:23
+		Duration:	06:09:20
+		Location:	45.58111 12.74840
+
+	MDS1LS1
+		Images:	4254
+		Time:	04.05.2025 07:39:03 until 04.05.2025 11:39:02
+		Duration:	03:59:59
+		Location:	45.58111 12.74840
+
+(7) - Bike - 80.0 km
+	GAZ1
+		Images:	19158
+		Time:	04.05.2025 07:19:01 until 04.05.2025 13:55:35
+		Duration:	06:36:34
+		Location:	45.49177 12.59702
+
+	GAZ1LS1
+		Images:	1347
+		Time:	04.05.2025 06:41:24 until 04.05.2025 13:21:43
+		Duration:	06:40:19
+		Location:	45.49177 12.59702
+
+(8) - Run - Impressions / Pano
+	GAZ2
+		Images:	765
+		Time:	04.05.2025 13:56:13 until 04.05.2025 15:18:55
+		Duration:	01:22:42
+		Location:	45.48679 12.59761
+
+(9) - Run - 19.0 km
+	MDS2
+		Images:	787
+		Time:	04.05.2025 07:58:21 until 04.05.2025 16:27:27
+		Duration:	08:29:06
+		Location:	45.48272 12.59028
+
+(10) - Run - 20.3 km
+	MDS2LS1
+		Images:	759
+		Time:	04.05.2025 13:50:02 until 04.05.2025 16:29:47
+		Duration:	02:39:45
+		Location:	45.48189 12.58831
+
+	BRN2
+		Images:	10338
+		Time:	04.05.2025 09:59:12 until 04.05.2025 16:28:38
+		Duration:	06:29:26
+		Location:	45.48196 12.58846
+
+(11) - Run - 20.5 km
+	DDF2
+		Images:	6791
+		Time:	04.05.2025 10:19:35 until 04.05.2025 16:31:05
+		Duration:	06:11:30
+		Location:	45.48071 12.58558
+
+	DDF2LS1
+		Images:	6321
+		Time:	04.05.2025 10:24:28 until 04.05.2025 16:32:12
+		Duration:	06:07:44
+		Location:	45.48071 12.58558
+
+(12) - Finish
+	GIBE2
+		Images:	17223
+		Time:	04.05.2025 10:21:34 until 04.05.2025 16:34:11
+		Duration:	06:12:37
+		Location:	45.48071 12.58558
+
+	MMO2
+		Images:	8532
+		Time:	04.05.2025 08:58:02 until 04.05.2025 16:36:33
+		Duration:	07:38:31
+		Location:	45.48071 12.58558
+
+	BRN2LS1
+		Images:	1487
+		Time:	04.05.2025 09:25:31 until 04.05.2025 16:34:55
+		Duration:	07:09:24
+		Location:	45.48011 12.58487
+

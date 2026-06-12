@@ -1,0 +1,138 @@
+EventId: 14871
+Spots: 19
+Total Images: 7264
+Time:	30.08.2025 18:41:23 to 31.08.2025 16:13:42
+Duration: 21:32:19
+
+(1) - Obstacle 10 STAIRWAY TO SPARTA
+	GIBE1
+		Images:	381
+		Time:	30.08.2025 19:10:22 until 30.08.2025 20:29:00
+		Duration:	01:18:38
+		Location:	46.04817 14.50912
+
+(2) - Obstacle 9 INVERTED WALL
+	GMA1
+		Images:	658
+		Time:	30.08.2025 19:28:15 until 31.08.2025 09:32:48
+		Duration:	14:04:33
+		Location:	46.04819 14.50873
+
+(3) - Obstacle 11 ATLAS CARRY
+	MAGA1
+		Images:	241
+		Time:	30.08.2025 19:32:28 until 30.08.2025 20:32:52
+		Duration:	01:00:24
+		Location:	46.04626 14.51143
+
+(4) - BEFORE ATLAS CARRY
+	MAGA1LS1
+		Images:	182
+		Time:	30.08.2025 18:41:23 until 30.08.2025 20:35:23
+		Duration:	01:54:00
+		Location:	46.04564 14.51169
+
+(5) - Obstacle 13 SLIP WALL
+	BRN1
+		Images:	262
+		Time:	30.08.2025 19:37:07 until 30.08.2025 20:52:51
+		Duration:	01:15:44
+		Location:	46.04784 14.50511
+
+(6) - Obstacle 17 A FRAME
+	DDF1
+		Images:	575
+		Time:	30.08.2025 19:40:34 until 31.08.2025 09:35:00
+		Duration:	13:54:26
+		Location:	46.04986 14.50360
+
+(7) - Obstacle 18 MULTI RIG
+	NAT1
+		Images:	706
+		Time:	30.08.2025 19:40:29 until 31.08.2025 11:16:03
+		Duration:	15:35:34
+		Location:	46.04979 14.50400
+
+(8) - FINISH
+	DDF1LS1
+		Images:	179
+		Time:	30.08.2025 19:38:02 until 30.08.2025 20:59:27
+		Duration:	01:21:25
+		Location:	46.04979 14.50419
+
+(9) - Herotent
+	FUP1
+		Images:	110
+		Time:	30.08.2025 19:45:53 until 30.08.2025 20:58:06
+		Duration:	01:12:13
+		Location:	46.04979 14.50419
+
+(10) - NIGHT - FINISH
+	GMA2
+		Images:	608
+		Time:	30.08.2025 20:56:14 until 31.08.2025 15:45:20
+		Duration:	18:49:06
+		Location:	46.04979 14.50419
+
+	DDF2LS1
+		Images:	247
+		Time:	30.08.2025 21:00:56 until 30.08.2025 23:25:05
+		Duration:	02:24:09
+		Location:	46.04979 14.50419
+
+(11) - Obstacle 2 NIGHT - MONKEY BAR
+	MAGA2
+		Images:	106
+		Time:	30.08.2025 21:31:52 until 30.08.2025 22:01:45
+		Duration:	00:29:53
+		Location:	46.0464 14.51124
+
+(12) - Obstacle 10 NIGHT - STAIRWAY TO SPARTA
+	GIBE2
+		Images:	623
+		Time:	30.08.2025 21:16:06 until 31.08.2025 00:27:05
+		Duration:	03:10:59
+		Location:	46.04817 14.50912
+
+(13) - Obstacle 13 NIGHT - SLIP WALL
+	BRN2
+		Images:	636
+		Time:	30.08.2025 21:27:45 until 30.08.2025 23:10:44
+		Duration:	01:42:59
+		Location:	46.04784 14.50511
+
+(14) - Obstacle 17 NIGHT - A FRAME
+	DDF2
+		Images:	792
+		Time:	30.08.2025 21:17:18 until 30.08.2025 23:22:58
+		Duration:	02:05:40
+		Location:	46.04986 14.50360
+
+(15) - Obstacle 18 NIGHT - MULTI RIG
+	NAT2
+		Images:	564
+		Time:	30.08.2025 20:55:04 until 31.08.2025 14:56:25
+		Duration:	18:01:21
+		Location:	46.04979 14.50400
+
+(16) - Herotent NIGHT
+	FUP2
+		Images:	165
+		Time:	30.08.2025 21:02:13 until 30.08.2025 23:26:51
+		Duration:	02:24:38
+		Location:	46.04979 14.50419
+
+(17) - Impressions / Pano
+	NAT1DRONE1
+		Images:	23
+		Time:	30.08.2025 21:07:08 until 30.08.2025 21:58:55
+		Duration:	00:51:47
+		Location:	46.04991 14.50328
+
+(18) - VENUE
+	BEB1
+		Images:	199
+		Time:	30.08.2025 21:09:14 until 31.08.2025 16:13:42
+		Duration:	19:04:28
+		Location:	46.04979 14.50419
+

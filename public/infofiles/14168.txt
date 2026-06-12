@@ -1,0 +1,143 @@
+EventId: 14168
+Spots: 21
+Total Images: 38228
+Time:	28.06.2025 07:10:49 to 29.06.2025 20:20:06
+Duration: 1.13:09:17
+
+(1) - Start
+	AGA1DRONE1
+		Images:	84
+		Time:	29.06.2025 09:34:33 until 29.06.2025 20:20:06
+		Duration:	10:45:33
+		Location:	52.67929 13.58348
+
+	AGA1
+		Images:	876
+		Time:	28.06.2025 07:30:56 until 28.06.2025 08:18:00
+		Duration:	00:47:04
+		Location:	52.67929 13.58348
+
+	AGA1LS1
+		Images:	1487
+		Time:	28.06.2025 07:27:36 until 28.06.2025 09:30:22
+		Duration:	02:02:46
+		Location:	52.67929 13.58348
+
+	AGA1LS2
+		Images:	575
+		Time:	28.06.2025 07:21:32 until 28.06.2025 08:22:05
+		Duration:	01:00:33
+		Location:	52.67929 13.58348
+
+(2) - 0.7 km Spot 1 (Stadtpark Bernau)
+	CFMP1
+		Images:	4888
+		Time:	28.06.2025 07:11:03 until 28.06.2025 09:56:36
+		Duration:	02:45:33
+		Location:	52.68079 13.59074
+
+(3) - 0.8 km Spot 2 (Stadtpark Bernau)
+	BOC1
+		Images:	407
+		Time:	28.06.2025 07:10:49 until 28.06.2025 08:28:18
+		Duration:	01:17:29
+		Location:	52.68076 13.59091
+
+(4) - 6.5 km Spot 3 (Feld Bernau Nordost)
+	EBO1
+		Images:	2551
+		Time:	28.06.2025 08:04:53 until 28.06.2025 09:57:56
+		Duration:	01:53:03
+		Location:	52.71660 13.63486
+
+(5) - 6.8 km Spot 4 (Waldrand Tempelfelde)
+	CM1
+		Images:	1755
+		Time:	28.06.2025 07:42:57 until 28.06.2025 10:01:09
+		Duration:	02:18:12
+		Location:	52.71884 13.63802
+
+	CM1LS1
+		Images:	1267
+		Time:	28.06.2025 07:37:30 until 28.06.2025 09:41:21
+		Duration:	02:03:51
+		Location:	52.71884 13.63802
+
+(6) - 19.0 km Spot 5 (Kirche Schoenfeld)
+	AGA2
+		Images:	3215
+		Time:	28.06.2025 10:18:36 until 28.06.2025 13:23:50
+		Duration:	03:05:14
+		Location:	52.68112 13.74049
+
+	AGA2LS2
+		Images:	614
+		Time:	28.06.2025 10:21:30 until 28.06.2025 12:50:07
+		Duration:	02:28:37
+		Location:	52.68112 13.74049
+
+	AGA2LS1
+		Images:	3063
+		Time:	28.06.2025 10:09:57 until 28.06.2025 13:04:27
+		Duration:	02:54:30
+		Location:	52.68112 13.74049
+
+(7) - 28.0 km Spot 6 (Feldpassage Tempelfelde Nord)
+	CFMP2
+		Images:	6335
+		Time:	28.06.2025 10:23:09 until 28.06.2025 15:45:37
+		Duration:	05:22:28
+		Location:	52.62866 13.70171
+
+(8) - 30.0 km Spot 7 (Loehmer Haussee)
+	BOC2
+		Images:	3116
+		Time:	28.06.2025 09:22:58 until 28.06.2025 16:14:54
+		Duration:	06:51:56
+		Location:	52.62783 13.67479
+
+(9) - 43.4 km Spot 8 (Steintor Bernau)
+	EBO2
+		Images:	2195
+		Time:	28.06.2025 12:39:10 until 28.06.2025 19:44:39
+		Duration:	07:05:29
+		Location:	52.67835 13.59118
+
+	CFMP3
+		Images:	570
+		Time:	28.06.2025 17:31:04 until 28.06.2025 18:00:25
+		Duration:	00:29:21
+		Location:	52.67835 13.59118
+
+(10) - Finish
+	CM2
+		Images:	3436
+		Time:	28.06.2025 11:47:40 until 28.06.2025 19:48:59
+		Duration:	08:01:19
+		Location:	52.67903 13.58732
+
+	CM2LS1
+		Images:	677
+		Time:	28.06.2025 14:00:11 until 28.06.2025 19:06:34
+		Duration:	05:06:23
+		Location:	52.67903 13.58732
+
+	BOC3
+		Images:	775
+		Time:	28.06.2025 17:23:44 until 28.06.2025 18:27:45
+		Duration:	01:04:01
+		Location:	52.67903 13.58732
+
+	CFMP4
+		Images:	283
+		Time:	28.06.2025 17:19:31 until 28.06.2025 18:36:13
+		Duration:	01:16:42
+		Location:	52.67903 13.58732
+
+(11) - Impressions / Pano
+	PANO1
+		Images:	59
+		Time:	28.06.2025 07:40:10 until 28.06.2025 14:35:57
+		Duration:	06:55:47
+		Location:	52.67903 13.58732
+

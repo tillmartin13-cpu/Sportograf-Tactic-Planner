@@ -1,0 +1,42 @@
+EventId: 13481
+Spots: 6
+Total Images: 7065
+Time:	13.08.2025 17:17:46 to 13.08.2025 20:44:24
+Duration: 03:26:38
+
+(1) - IMP
+	PANO1
+(2) - Swim - Start
+	MIJ1
+		Images:	112
+		Time:	13.08.2025 17:17:46 until 13.08.2025 18:45:41
+		Duration:	01:27:55
+		Location:	NULL NULL
+
+(3) - Bike - 14,3 km
+	BIL1
+		Images:	1858
+		Time:	13.08.2025 18:10:33 until 13.08.2025 19:24:07
+		Duration:	01:13:34
+		Location:	NULL NULL
+
+(4) - Run - 4,1 km
+	EVL1
+		Images:	2371
+		Time:	13.08.2025 17:20:02 until 13.08.2025 20:41:18
+		Duration:	03:21:16
+		Location:	NULL NULL
+
+	EVL1LS1
+		Images:	970
+		Time:	13.08.2025 17:43:51 until 13.08.2025 20:43:00
+		Duration:	02:59:09
+		Location:	NULL NULL
+
+(5) - Finish
+	MIJ2
+		Images:	1754
+		Time:	13.08.2025 18:18:16 until 13.08.2025 20:44:24
+		Duration:	02:26:08
+		Location:	NULL NULL
+

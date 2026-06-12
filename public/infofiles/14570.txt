@@ -1,0 +1,165 @@
+EventId: 14570
+Spots: 25
+Total Images: 31735
+Time:	28.06.2025 04:20:05 to 28.06.2025 22:25:05
+Duration: 18:05:00
+
+(1) - Start
+	EP1
+		Images:	130
+		Time:	28.06.2025 07:15:48 until 28.06.2025 07:39:14
+		Duration:	00:23:26
+		Location:	47.11052 11.30635
+
+(2) - Höhenweg Hochmoor Neue Regensburger Hütte
+	CHR1
+		Images:	623
+		Time:	28.06.2025 04:20:05 until 28.06.2025 07:34:43
+		Duration:	03:14:38
+		Location:	47.05335 11.19008
+
+	CHR1LS1
+		Images:	77
+		Time:	28.06.2025 05:32:12 until 28.06.2025 07:18:21
+		Duration:	01:46:09
+		Location:	47.05335 11.19008
+
+	CHR1LS2
+		Images:	100
+		Time:	28.06.2025 05:22:18 until 28.06.2025 07:18:21
+		Duration:	01:56:03
+		Location:	47.05335 11.19008
+
+	CHR1DRONE1
+		Images:	18
+		Time:	28.06.2025 06:59:14 until 28.06.2025 07:06:52
+		Duration:	00:07:38
+		Location:	47.05335 11.19008
+
+(3) - Classic & Express 1KM Blick auf Neustift
+	EP2
+		Images:	1510
+		Time:	28.06.2025 08:34:55 until 28.06.2025 09:42:06
+		Duration:	01:07:11
+		Location:	47.10457 11.30604
+
+	EP1LS1
+		Images:	1005
+		Time:	28.06.2025 08:08:25 until 28.06.2025 09:43:58
+		Duration:	01:35:33
+		Location:	47.10457 11.30604
+
+(4) - All tracks 2KM Singletrail Wald
+	ALEP1
+		Images:	2638
+		Time:	28.06.2025 07:42:00 until 28.06.2025 09:53:45
+		Duration:	02:11:45
+		Location:	47.09941 11.29405
+
+	ALEP1LS1
+		Images:	676
+		Time:	28.06.2025 08:04:11 until 28.06.2025 09:57:33
+		Duration:	01:53:22
+		Location:	47.09941 11.29405
+
+	ALEP1LS2
+		Images:	663
+		Time:	28.06.2025 08:28:54 until 28.06.2025 09:53:51
+		Duration:	01:24:57
+		Location:	47.09941 11.29405
+
+(5) - Ultra & Classic KM 9 Hühnerspiel
+	HM1
+		Images:	3182
+		Time:	28.06.2025 08:52:44 until 28.06.2025 11:36:46
+		Duration:	02:44:02
+		Location:	47.08406 11.24254
+
+	HM1LS1
+		Images:	864
+		Time:	28.06.2025 08:24:59 until 28.06.2025 11:26:46
+		Duration:	03:01:47
+		Location:	47.08406 11.24254
+
+	HM1LS2
+		Images:	847
+		Time:	28.06.2025 08:30:24 until 28.06.2025 11:16:17
+		Duration:	02:45:53
+		Location:	47.08406 11.24254
+
+(6) - Ultra 23,5KM Sennjoch Trail
+	CHR2
+		Images:	1284
+		Time:	28.06.2025 11:14:05 until 28.06.2025 15:40:41
+		Duration:	04:26:36
+		Location:	47.13532 11.29133
+
+	CHR2LS1
+		Images:	382
+		Time:	28.06.2025 10:52:04 until 28.06.2025 14:33:10
+		Duration:	03:41:06
+		Location:	47.13532 11.29133
+
+	CHR2LS2
+		Images:	391
+		Time:	28.06.2025 10:38:04 until 28.06.2025 14:49:21
+		Duration:	04:11:17
+		Location:	47.13532 11.29133
+
+	CHR2DRONE1
+		Images:	20
+		Time:	28.06.2025 13:17:12 until 28.06.2025 13:27:04
+		Duration:	00:09:52
+		Location:	47.13532 11.29133
+
+(7) - All tracks Pfurtschell
+	ALEP2
+		Images:	1401
+		Time:	28.06.2025 11:16:53 until 28.06.2025 17:02:30
+		Duration:	05:45:37
+		Location:	47.13092 11.32131
+
+	ALEP2LS1
+		Images:	730
+		Time:	28.06.2025 10:46:09 until 28.06.2025 16:39:37
+		Duration:	05:53:28
+		Location:	47.13092 11.32131
+
+	ALEP2LS2
+		Images:	742
+		Time:	28.06.2025 10:43:47 until 28.06.2025 16:39:41
+		Duration:	05:55:54
+		Location:	47.13092 11.32131
+
+(8) - Ultra 50KM Elfertrail
+	HM2
+		Images:	1141
+		Time:	28.06.2025 11:38:27 until 28.06.2025 20:57:58
+		Duration:	09:19:31
+		Location:	47.09366 11.3211
+
+	HM2LS1
+		Images:	245
+		Time:	28.06.2025 14:12:48 until 28.06.2025 19:30:50
+		Duration:	05:18:02
+		Location:	47.09366 11.3211
+
+	HM2LS2
+		Images:	245
+		Time:	28.06.2025 14:12:48 until 28.06.2025 19:26:06
+		Duration:	05:13:18
+		Location:	47.09366 11.3211
+
+(9) - Finish
+	EP3
+		Images:	4227
+		Time:	28.06.2025 11:31:44 until 28.06.2025 22:25:05
+		Duration:	10:53:21
+		Location:	47.11052 11.30635
+
+	EP3LS1
+		Images:	8594
+		Time:	28.06.2025 10:12:06 until 28.06.2025 20:34:24
+		Duration:	10:22:18
+		Location:	47.11052 11.30635
+

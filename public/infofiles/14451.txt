@@ -1,0 +1,88 @@
+EventId: 14451
+Spots: 13
+Total Images: 6980
+Time:	08.08.2025 16:34:47 to 09.08.2025 16:51:02
+Duration: 1.00:16:15
+
+(1) - Start
+	ROB1
+		Images:	362
+		Time:	08.08.2025 16:34:47 until 09.08.2025 06:32:18
+		Duration:	13:57:31
+		Location:	46.86926 9.88141
+
+(2) - km5.0
+	HS1
+		Images:	566
+		Time:	08.08.2025 17:46:33 until 09.08.2025 08:44:57
+		Duration:	14:58:24
+		Location:	46.85914 9.92420
+
+	HS1LS1
+		Images:	258
+		Time:	08.08.2025 18:21:38 until 08.08.2025 19:06:07
+		Duration:	00:44:29
+		Location:	46.85914 9.92420
+
+	HS1LS2
+		Images:	223
+		Time:	08.08.2025 17:42:00 until 08.08.2025 18:53:16
+		Duration:	01:11:16
+		Location:	46.85914 9.92420
+
+	HS1DRONE1
+		Images:	8
+		Time:	08.08.2025 18:14:34 until 08.08.2025 18:59:04
+		Duration:	00:44:30
+		Location:	46.85914 9.92420
+
+(3) - km6.3
+	BP1
+		Images:	461
+		Time:	08.08.2025 18:36:00 until 08.08.2025 19:23:05
+		Duration:	00:47:05
+		Location:	46.86436 9.91687
+
+	BP1LS1
+		Images:	266
+		Time:	08.08.2025 17:57:37 until 09.08.2025 07:03:21
+		Duration:	13:05:44
+		Location:	46.86436 9.91687
+
+	BP1LS2
+		Images:	437
+		Time:	08.08.2025 18:13:16 until 08.08.2025 19:27:56
+		Duration:	01:14:40
+		Location:	46.86436 9.91687
+
+	BP1LS3
+		Images:	256
+		Time:	08.08.2025 17:46:06 until 08.08.2025 19:34:00
+		Duration:	01:47:54
+		Location:	46.86436 9.91687
+
+	BP1DRONE1
+		Images:	42
+		Time:	08.08.2025 17:28:05 until 09.08.2025 16:15:01
+		Duration:	22:46:56
+		Location:	46.86436 9.91687
+
+(4) - Finish
+	ROB2
+		Images:	3815
+		Time:	08.08.2025 18:42:18 until 08.08.2025 20:22:28
+		Duration:	01:40:10
+		Location:	46.86926 9.88141
+
+	ROB2LS2
+		Images:	147
+		Time:	08.08.2025 18:17:44 until 09.08.2025 09:57:30
+		Duration:	15:39:46
+		Location:	46.86926 9.88141
+
+	ROB2LS1
+		Images:	127
+		Time:	08.08.2025 17:25:48 until 08.08.2025 20:11:26
+		Duration:	02:45:38
+		Location:	46.86926 9.88141
+

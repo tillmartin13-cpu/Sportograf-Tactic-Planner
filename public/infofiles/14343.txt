@@ -1,0 +1,117 @@
+EventId: 14343
+Spots: 17
+Total Images: 56478
+Time:	19.07.2025 07:17:34 to 20.07.2025 15:04:40
+Duration: 1.07:47:06
+
+(1) - Med Ball Sit-Up throw
+	ALSE1
+		Images:	4025
+		Time:	20.07.2025 08:08:33 until 20.07.2025 14:42:52
+		Duration:	06:34:19
+		Location:	40.41309 -3.73861
+
+(2) - General
+	ALSE2
+		Images:	48
+		Time:	19.07.2025 07:31:49 until 20.07.2025 08:07:35
+		Duration:	1.00:35:46
+		Location:	40.41309 -3.73861
+
+	JRP2
+		Images:	23
+		Time:	20.07.2025 07:41:13 until 20.07.2025 07:55:53
+		Duration:	00:14:40
+		Location:	40.41309 -3.73861
+
+	LUM2
+		Images:	20
+		Time:	20.07.2025 07:41:20 until 20.07.2025 08:03:03
+		Duration:	00:21:43
+		Location:	40.41309 -3.73861
+
+	ROM2
+		Images:	115
+		Time:	19.07.2025 07:37:20 until 20.07.2025 08:06:41
+		Duration:	1.00:29:21
+		Location:	40.41309 -3.73861
+
+	BSTR1
+		Images:	29
+		Time:	20.07.2025 07:24:41 until 20.07.2025 07:58:49
+		Duration:	00:34:08
+		Location:	40.41309 -3.73861
+
+(3) - Farmers Carry
+	ALSE1LS1
+		Images:	1178
+		Time:	20.07.2025 07:18:05 until 20.07.2025 14:48:14
+		Duration:	07:30:09
+		Location:	40.41309 -3.73861
+
+	ROM1LS1
+		Images:	1065
+		Time:	20.07.2025 07:27:06 until 20.07.2025 14:48:06
+		Duration:	07:21:00
+		Location:	40.41309 -3.73861
+
+(4) - Sky Erg
+	ECL1
+		Images:	9129
+		Time:	19.07.2025 07:42:27 until 20.07.2025 14:46:43
+		Duration:	1.07:04:16
+		Location:	40.41309 -3.73861
+
+(5) - Box Jump
+	JRP1
+		Images:	6350
+		Time:	20.07.2025 08:06:57 until 20.07.2025 14:41:23
+		Duration:	06:34:26
+		Location:	40.41309 -3.73861
+
+(6) - Finish line
+	JRP1LS1
+		Images:	930
+		Time:	20.07.2025 08:13:49 until 20.07.2025 15:04:40
+		Duration:	06:50:51
+		Location:	40.41309 -3.73861
+
+	LUM1LS1
+		Images:	1199
+		Time:	20.07.2025 08:13:38 until 20.07.2025 15:00:40
+		Duration:	06:47:02
+		Location:	40.41309 -3.73861
+
+(7) - Rowimg
+	LUM1
+		Images:	4829
+		Time:	20.07.2025 08:03:50 until 20.07.2025 14:37:36
+		Duration:	06:33:46
+		Location:	40.41309 -3.73861
+
+	BSTR2
+		Images:	7196
+		Time:	20.07.2025 08:03:47 until 20.07.2025 14:37:25
+		Duration:	06:33:38
+		Location:	40.41309 -3.73861
+
+(8) - Tank push / pull
+	RBC1
+		Images:	4931
+		Time:	20.07.2025 07:43:50 until 20.07.2025 14:55:22
+		Duration:	07:11:32
+		Location:	40.41309 -3.73861
+
+(9) - Air Bike
+	ROM1
+		Images:	14841
+		Time:	19.07.2025 08:11:44 until 20.07.2025 14:51:37
+		Duration:	1.06:39:53
+		Location:	40.41309 -3.73861
+
+	BSTR3
+		Images:	568
+		Time:	20.07.2025 08:31:28 until 20.07.2025 11:04:18
+		Duration:	02:32:50
+		Location:	40.41309 -3.73861
+

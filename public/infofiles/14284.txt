@@ -1,0 +1,111 @@
+EventId: 14284
+Spots: 16
+Total Images: 71621
+Time:	01.01.0001 23:00:00 to 12.10.2025 19:08:24
+Duration: 739534.20:08:24
+
+(1) - Start
+	BRP1
+		Images:	1041
+		Time:	01.01.0001 23:00:00 until 12.10.2025 10:28:28
+		Duration:	739534.11:28:28
+		Location:	43.17125 16.44125
+
+(2) - SWIM IN
+	GIBE1
+		Images:	10996
+		Time:	11.10.2025 08:33:00 until 12.10.2025 14:58:20
+		Duration:	1.06:25:20
+		Location:	43.17396 16.42849
+
+(3) - LOG CARRY
+	DARU1
+		Images:	6725
+		Time:	12.10.2025 08:11:00 until 12.10.2025 14:52:37
+		Duration:	06:41:37
+		Location:	43.17347 16.42966
+
+	DARU1LS1
+		Images:	5374
+		Time:	12.10.2025 08:11:06 until 12.10.2025 19:08:24
+		Duration:	10:57:18
+		Location:	43.17347 16.42966
+
+(4) - Impressions / Pano
+	DARU1DRONE1
+		Images:	23
+		Time:	11.10.2025 08:39:22 until 12.10.2025 09:08:22
+		Duration:	1.00:29:00
+		Location:	43.17347 16.42969
+
+(5) - SAND BAG
+	MMI1
+		Images:	5903
+		Time:	11.10.2025 09:33:11 until 12.10.2025 15:33:55
+		Duration:	1.06:00:44
+		Location:	43.17465 16.44201
+
+	MMI1LS1
+		Images:	7690
+		Time:	11.10.2025 08:56:09 until 12.10.2025 13:24:54
+		Duration:	1.04:28:45
+		Location:	43.17465 16.44201
+
+	MMI1LS2
+		Images:	187
+		Time:	12.10.2025 13:24:55 until 12.10.2025 15:36:04
+		Duration:	02:11:09
+		Location:	43.17465 16.44201
+
+	LULE1
+		Images:	4934
+		Time:	12.10.2025 09:32:31 until 12.10.2025 15:30:42
+		Duration:	05:58:11
+		Location:	43.17465 16.44201
+
+	LULE2LS1
+		Images:	398
+		Time:	12.10.2025 17:11:54 until 12.10.2025 17:11:54
+		Duration:	00:00:00
+		Location:	43.17465 16.44201
+
+(6) - FRAME
+	BATI1
+		Images:	7668
+		Time:	11.10.2025 08:43:23 until 12.10.2025 18:05:51
+		Duration:	1.09:22:28
+		Location:	43.16987 16.44126
+
+(7) - SWIM OUT
+	NBE1
+		Images:	5063
+		Time:	11.10.2025 08:57:41 until 12.10.2025 18:05:30
+		Duration:	1.09:07:49
+		Location:	43.16965 16.44130
+
+(8) - Finish
+	BRP2
+		Images:	6350
+		Time:	01.01.0001 23:00:00 until 12.10.2025 18:11:35
+		Duration:	739534.19:11:35
+		Location:	43.17125 16.44125
+
+	BRP2LS1
+		Images:	3300
+		Time:	12.10.2025 11:44:20 until 12.10.2025 17:59:12
+		Duration:	06:14:52
+		Location:	43.17125 16.44125
+
+	LULE1LS1
+		Images:	2341
+		Time:	12.10.2025 10:18:46 until 12.10.2025 16:33:45
+		Duration:	06:14:59
+		Location:	43.17125 16.44125
+
+(9) - Herotent
+	SALI1
+		Images:	3627
+		Time:	11.10.2025 08:12:17 until 12.10.2025 18:17:11
+		Duration:	1.10:04:54
+		Location:	43.17125 16.44125
+

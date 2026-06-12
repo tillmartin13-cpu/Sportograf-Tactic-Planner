@@ -1,0 +1,138 @@
+EventId: 13872
+Spots: 20
+Total Images: 18073
+Time:	01.01.0001 23:00:00 to 01.06.2025 16:44:03
+Duration: 739401.17:44:03
+
+(1) - Eulenbergtrail Downhill
+	MBRE1
+		Images:	1148
+		Time:	01.06.2025 09:54:26 until 01.06.2025 11:13:49
+		Duration:	01:19:23
+		Location:	50.12659 11.17448
+
+	SL1
+		Images:	2804
+		Time:	01.06.2025 10:05:47 until 01.06.2025 11:17:08
+		Duration:	01:11:21
+		Location:	50.12411 11.17606
+
+(2) - Flaschenhaus Trail
+	MBRE2
+		Images:	282
+		Time:	01.06.2025 11:47:21 until 01.06.2025 13:23:35
+		Duration:	01:36:14
+		Location:	50.12170 11.18385
+
+	SL2
+		Images:	429
+		Time:	01.06.2025 11:33:12 until 01.06.2025 13:29:04
+		Duration:	01:55:52
+		Location:	50.12126 11.17710
+
+(3) - Impressions / Pano
+	MBRE3
+		Images:	19
+		Time:	01.06.2025 14:02:49 until 01.06.2025 14:12:45
+		Duration:	00:09:56
+		Location:	50.12170 11.18385
+
+	SL3
+		Images:	23
+		Time:	01.01.0001 23:00:00 until 01.06.2025 14:10:25
+		Duration:	739401.15:10:25
+		Location:	50.12126 11.17710
+
+(4) - Ceremony
+	MBRE4
+		Images:	14
+		Time:	01.06.2025 16:06:35 until 01.06.2025 16:20:49
+		Duration:	00:14:14
+		Location:	50.12170 11.18385
+
+(5) - Krasserweg
+	NJO1
+		Images:	941
+		Time:	01.06.2025 09:35:04 until 01.06.2025 10:50:32
+		Duration:	01:15:28
+		Location:	50.14211 11.15318
+
+	NJO1LS1
+		Images:	252
+		Time:	01.06.2025 09:29:54 until 01.06.2025 10:53:48
+		Duration:	01:23:54
+		Location:	50.14211 11.15318
+
+	NJO1LS2
+		Images:	288
+		Time:	01.06.2025 09:24:11 until 01.06.2025 10:52:42
+		Duration:	01:28:31
+		Location:	50.14211 11.15318
+
+(6) - Drohne
+	NJO1DRONE1
+		Images:	19
+		Time:	01.06.2025 15:10:39 until 01.06.2025 15:15:57
+		Duration:	00:05:18
+		Location:	50.14502 11.13957
+
+(7) - Teufelsgraben
+	NJO2
+		Images:	1151
+		Time:	01.06.2025 11:15:00 until 01.06.2025 15:05:16
+		Duration:	03:50:16
+		Location:	50.13932 11.12757
+
+	NJO2LS2
+		Images:	1225
+		Time:	01.06.2025 12:06:41 until 01.06.2025 14:49:15
+		Duration:	02:42:34
+		Location:	50.13932 11.12757
+
+(8) - Finish
+	NJO2LS1
+		Images:	510
+		Time:	01.06.2025 11:20:23 until 01.06.2025 15:47:44
+		Duration:	04:27:21
+		Location:	50.14381 11.139
+
+	YS2
+		Images:	1791
+		Time:	01.06.2025 11:31:20 until 01.06.2025 16:44:03
+		Duration:	05:12:43
+		Location:	50.14381 11.139
+
+(9) - 0.5 km
+	SISA1
+		Images:	124
+		Time:	01.06.2025 08:12:49 until 01.06.2025 09:34:39
+		Duration:	01:21:50
+		Location:	50.14561 11.14348
+
+(10) - Altenheim Downhill
+	SISA2
+		Images:	1079
+		Time:	01.06.2025 10:59:26 until 01.06.2025 14:06:20
+		Duration:	03:06:54
+		Location:	50.14455 11.08754
+
+(11) - Start
+	YS1
+		Images:	600
+		Time:	01.06.2025 08:11:37 until 01.06.2025 10:45:12
+		Duration:	02:33:35
+		Location:	50.14502 11.13957
+
+(12) - Enduro Race Bogen
+	YS2LS1
+		Images:	2990
+		Time:	31.12.2013 23:00:30 until 01.06.2025 15:59:30
+		Duration:	4169.16:59:00
+		Location:	50.14335 11.13748
+
+	YS2LS2
+		Images:	2384
+		Time:	01.06.2025 11:37:27 until 01.06.2025 15:59:33
+		Duration:	04:22:06
+		Location:	50.14335 11.13748
+

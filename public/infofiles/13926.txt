@@ -1,0 +1,281 @@
+EventId: 13926
+Spots: 45
+Total Images: 224721
+Time:	12.10.2025 06:46:25 to 12.10.2025 22:33:46
+Duration: 15:47:21
+
+(1) - Station 1 Ski Erg
+	SZ1
+		Images:	16616
+		Time:	12.10.2025 07:59:41 until 12.10.2025 20:51:19
+		Duration:	12:51:38
+		Location:	54.38660 18.63564
+
+	LZA1
+		Images:	6508
+		Time:	12.10.2025 07:47:08 until 12.10.2025 14:59:25
+		Duration:	07:12:17
+		Location:	54.38660 18.63564
+
+	PSA1
+		Images:	5802
+		Time:	12.10.2025 07:59:15 until 12.10.2025 20:46:15
+		Duration:	12:47:00
+		Location:	54.38660 18.63564
+
+	LSI2
+		Images:	5335
+		Time:	12.10.2025 15:14:47 until 12.10.2025 20:52:06
+		Duration:	05:37:19
+		Location:	54.38660 18.63564
+
+(2) - Station 2 Sled Push
+	JAKO1
+		Images:	4027
+		Time:	12.10.2025 08:05:31 until 12.10.2025 15:00:41
+		Duration:	06:55:10
+		Location:	54.38660 18.63564
+
+	AGP1
+		Images:	4216
+		Time:	12.10.2025 08:11:38 until 12.10.2025 14:59:53
+		Duration:	06:48:15
+		Location:	54.38660 18.63564
+
+	LSI1
+		Images:	7145
+		Time:	12.10.2025 06:46:25 until 12.10.2025 15:06:18
+		Duration:	08:19:53
+		Location:	54.38660 18.63564
+
+	AGA2
+		Images:	4479
+		Time:	12.10.2025 15:55:59 until 12.10.2025 20:58:17
+		Duration:	05:02:18
+		Location:	54.38660 18.63564
+
+	JAK2
+		Images:	2599
+		Time:	12.10.2025 15:05:22 until 12.10.2025 20:54:55
+		Duration:	05:49:33
+		Location:	54.38660 18.63564
+
+	RKO2
+		Images:	3075
+		Time:	12.10.2025 15:07:02 until 12.10.2025 21:06:53
+		Duration:	05:59:51
+		Location:	54.38660 18.63564
+
+(3) - Station 3 Sled Pull
+	AJS1
+		Images:	3617
+		Time:	12.10.2025 07:12:05 until 12.10.2025 14:59:37
+		Duration:	07:47:32
+		Location:	54.38660 18.63564
+
+	LZA2
+		Images:	3761
+		Time:	12.10.2025 15:06:07 until 12.10.2025 21:08:32
+		Duration:	06:02:25
+		Location:	54.38660 18.63564
+
+	JAKO2
+		Images:	3432
+		Time:	12.10.2025 15:08:48 until 12.10.2025 21:13:10
+		Duration:	06:04:22
+		Location:	54.38660 18.63564
+
+	AGP2
+		Images:	3190
+		Time:	12.10.2025 15:04:04 until 12.10.2025 21:13:28
+		Duration:	06:09:24
+		Location:	54.38660 18.63564
+
+	MIMA1
+		Images:	7507
+		Time:	12.10.2025 07:40:55 until 12.10.2025 15:03:47
+		Duration:	07:22:52
+		Location:	54.38660 18.63564
+
+	JAK1
+		Images:	3239
+		Time:	12.10.2025 07:43:39 until 12.10.2025 14:57:31
+		Duration:	07:13:52
+		Location:	54.38660 18.63564
+
+(4) - Station 5 Rowing
+	JLA1
+		Images:	2513
+		Time:	12.10.2025 07:59:21 until 12.10.2025 18:26:12
+		Duration:	10:26:51
+		Location:	54.38660 18.63564
+
+	RYS1
+		Images:	1369
+		Time:	12.10.2025 08:34:04 until 12.10.2025 18:31:26
+		Duration:	09:57:22
+		Location:	54.38660 18.63564
+
+	CM1
+		Images:	8132
+		Time:	12.10.2025 07:40:22 until 12.10.2025 14:54:27
+		Duration:	07:14:05
+		Location:	54.38660 18.63564
+
+	DABT2
+		Images:	10679
+		Time:	12.10.2025 15:12:00 until 12.10.2025 21:41:43
+		Duration:	06:29:43
+		Location:	54.38660 18.63564
+
+	MFR1
+		Images:	4152
+		Time:	12.10.2025 07:42:57 until 12.10.2025 15:09:21
+		Duration:	07:26:24
+		Location:	54.38660 18.63564
+
+	AJS2
+		Images:	2583
+		Time:	12.10.2025 15:09:51 until 12.10.2025 21:40:09
+		Duration:	06:30:18
+		Location:	54.38660 18.63564
+
+(5) - Station 6 Farmers Carry
+	LEM1LS1
+		Images:	6827
+		Time:	12.10.2025 08:05:42 until 12.10.2025 21:42:38
+		Duration:	13:36:56
+		Location:	54.38660 18.63564
+
+	LEM1LS2
+		Images:	6439
+		Time:	12.10.2025 07:36:56 until 12.10.2025 21:43:50
+		Duration:	14:06:54
+		Location:	54.38660 18.63564
+
+(6) - Station 7 Sandbag Lunges
+	RKO1
+		Images:	6737
+		Time:	12.10.2025 08:48:50 until 12.10.2025 15:00:47
+		Duration:	06:11:57
+		Location:	54.38660 18.63564
+
+	ABRI1
+		Images:	3370
+		Time:	12.10.2025 08:14:13 until 12.10.2025 15:06:31
+		Duration:	06:52:18
+		Location:	54.38660 18.63564
+
+	JLA4
+		Images:	350
+		Time:	12.10.2025 18:35:43 until 12.10.2025 18:57:01
+		Duration:	00:21:18
+		Location:	54.38660 18.63564
+
+	RYS4
+		Images:	737
+		Time:	12.10.2025 18:32:30 until 12.10.2025 19:10:04
+		Duration:	00:37:34
+		Location:	54.38660 18.63564
+
+	DDT2
+		Images:	12934
+		Time:	12.10.2025 15:10:34 until 12.10.2025 22:11:13
+		Duration:	07:00:39
+		Location:	54.38660 18.63564
+
+	LEM1
+		Images:	499
+		Time:	12.10.2025 08:38:42 until 12.10.2025 15:23:46
+		Duration:	06:45:04
+		Location:	54.38660 18.63564
+
+	MFR2
+		Images:	3529
+		Time:	12.10.2025 15:23:05 until 12.10.2025 22:13:03
+		Duration:	06:49:58
+		Location:	54.38660 18.63564
+
+(7) - Station 8 Wall Balls
+	JZE1
+		Images:	24513
+		Time:	12.10.2025 07:58:57 until 12.10.2025 22:18:14
+		Duration:	14:19:17
+		Location:	54.38660 18.63564
+
+	JLA2
+		Images:	579
+		Time:	12.10.2025 10:09:54 until 12.10.2025 13:07:02
+		Duration:	02:57:08
+		Location:	54.38660 18.63564
+
+	RYS2
+		Images:	414
+		Time:	12.10.2025 08:34:24 until 12.10.2025 12:51:10
+		Duration:	04:16:46
+		Location:	54.38660 18.63564
+
+	LEM2
+		Images:	1625
+		Time:	12.10.2025 16:03:25 until 12.10.2025 19:19:03
+		Duration:	03:15:38
+		Location:	54.38660 18.63564
+
+	DABT1
+		Images:	8137
+		Time:	12.10.2025 07:53:19 until 12.10.2025 15:00:36
+		Duration:	07:07:17
+		Location:	54.38660 18.63564
+
+	CM2
+		Images:	6890
+		Time:	12.10.2025 15:01:04 until 12.10.2025 22:22:22
+		Duration:	07:21:18
+		Location:	54.38660 18.63564
+
+(8) - Finish
+	DDT1
+		Images:	3227
+		Time:	12.10.2025 08:55:02 until 12.10.2025 14:59:18
+		Duration:	06:04:16
+		Location:	54.38660 18.63564
+
+	ABRI2
+		Images:	4329
+		Time:	12.10.2025 15:24:13 until 12.10.2025 22:30:47
+		Duration:	07:06:34
+		Location:	54.38660 18.63564
+
+	RYS3
+		Images:	1338
+		Time:	12.10.2025 08:34:40 until 12.10.2025 19:46:42
+		Duration:	11:12:02
+		Location:	54.38660 18.63564
+
+	RYS1LS2
+		Images:	3462
+		Time:	12.10.2025 07:47:34 until 12.10.2025 22:14:48
+		Duration:	14:27:14
+		Location:	54.38660 18.63564
+
+	RYS1LS1
+		Images:	3212
+		Time:	12.10.2025 07:29:26 until 12.10.2025 22:14:45
+		Duration:	14:45:19
+		Location:	54.38660 18.63564
+
+(9) - Hero Wall
+	AGA1
+		Images:	6345
+		Time:	12.10.2025 08:13:56 until 12.10.2025 15:18:56
+		Duration:	07:05:00
+		Location:	54.38660 18.63564
+
+	MIMA2
+		Images:	5252
+		Time:	12.10.2025 15:18:43 until 12.10.2025 22:33:46
+		Duration:	07:15:03
+		Location:	54.38660 18.63564
+
+(10) - Impressions / Pano
+	PANO1

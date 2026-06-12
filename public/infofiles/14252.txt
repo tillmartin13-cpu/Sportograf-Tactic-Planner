@@ -1,0 +1,199 @@
+EventId: 14252
+Spots: 31
+Total Images: 98217
+Time:	24.02.2025 14:52:57 to 15.06.2025 15:24:06
+Duration: 111.00:31:09
+
+(1) - Swim - Start
+	DTQ1
+		Images:	3556
+		Time:	15.06.2025 06:11:28 until 15.06.2025 09:36:10
+		Duration:	03:24:42
+		Location:	35.05583 128.39953
+
+	NNG1DRONE1
+		Images:	5
+		Time:	24.02.2025 14:52:57 until 24.02.2025 17:56:57
+		Duration:	03:04:00
+		Location:	35.05583 128.39953
+
+	NP1
+		Images:	6463
+		Time:	15.06.2025 06:11:37 until 15.06.2025 08:06:44
+		Duration:	01:55:07
+		Location:	35.05583 128.39953
+
+(2) - Run - 5.0 km 12 km
+	DTQ2
+		Images:	4770
+		Time:	15.06.2025 09:59:23 until 15.06.2025 14:10:01
+		Duration:	04:10:38
+		Location:	35.05777 128.40048
+
+	DTQ2LS1
+		Images:	1592
+		Time:	15.06.2025 10:44:39 until 15.06.2025 14:05:41
+		Duration:	03:21:02
+		Location:	35.05777 128.40048
+
+(3) - Bike - 20.0 km
+	LY1
+		Images:	2557
+		Time:	15.06.2025 07:29:29 until 15.06.2025 08:58:01
+		Duration:	01:28:32
+		Location:	35.06595 128.38168
+
+	PNQ1
+		Images:	6464
+		Time:	15.06.2025 07:27:55 until 15.06.2025 09:12:36
+		Duration:	01:44:41
+		Location:	35.06595 128.38168
+
+(4) - Run - 3.0 km
+	LY2
+		Images:	3433
+		Time:	15.06.2025 09:27:52 until 15.06.2025 13:37:47
+		Duration:	04:09:55
+		Location:	35.06731 128.39140
+
+	PNQ2
+		Images:	10368
+		Time:	15.06.2025 09:31:46 until 15.06.2025 12:41:48
+		Duration:	03:10:02
+		Location:	35.06595 128.38168
+
+(5) - Bike - 9.0 km
+	NNG1
+		Images:	2987
+		Time:	15.06.2025 07:12:29 until 15.06.2025 08:40:56
+		Duration:	01:28:27
+		Location:	35.07248 128.45919
+
+	NNG1LS1
+		Images:	1463
+		Time:	15.06.2025 07:13:08 until 15.06.2025 08:35:52
+		Duration:	01:22:44
+		Location:	35.07248 128.45919
+
+(6) - Bike - 65.0 km
+	NNG2
+		Images:	2868
+		Time:	15.06.2025 09:45:04 until 15.06.2025 11:24:32
+		Duration:	01:39:28
+		Location:	35.07334 128.46365
+
+	NNG2LS1
+		Images:	861
+		Time:	15.06.2025 09:08:15 until 15.06.2025 11:02:55
+		Duration:	01:54:40
+		Location:	35.07334 128.46365
+
+	NNG2LS2
+		Images:	901
+		Time:	15.06.2025 09:11:27 until 15.06.2025 11:25:06
+		Duration:	02:13:39
+		Location:	35.07334 128.46365
+
+(7) - Finish
+	NP2
+		Images:	8797
+		Time:	15.06.2025 09:13:18 until 15.06.2025 15:22:18
+		Duration:	06:09:00
+		Location:	35.05771 128.40159
+
+	NP2LS1
+		Images:	2416
+		Time:	15.06.2025 10:21:15 until 15.06.2025 15:24:06
+		Duration:	05:02:51
+		Location:	35.05771 128.40159
+
+	NP2LS2
+		Images:	5096
+		Time:	15.06.2025 09:23:48 until 15.06.2025 15:22:14
+		Duration:	05:58:26
+		Location:	35.05771 128.40159
+
+	TDB2LS2
+		Images:	210
+		Time:	15.06.2025 08:37:38 until 15.06.2025 15:22:28
+		Duration:	06:44:50
+		Location:	35.05771 128.40159
+
+	PNQ4
+		Images:	1862
+		Time:	15.06.2025 13:50:00 until 15.06.2025 15:22:18
+		Duration:	01:32:18
+		Location:	35.05771 128.40159
+
+(8) - Bike - 51.0 km 80km
+	NTA1
+		Images:	5034
+		Time:	15.06.2025 08:25:00 until 15.06.2025 11:15:05
+		Duration:	02:50:05
+		Location:	35.04489 128.42185
+
+	NTA1LS1
+		Images:	4754
+		Time:	15.06.2025 08:19:55 until 15.06.2025 11:17:28
+		Duration:	02:57:33
+		Location:	35.04489 128.42185
+
+	NTA1LS2
+		Images:	1158
+		Time:	15.06.2025 06:43:02 until 15.06.2025 11:23:07
+		Duration:	04:40:05
+		Location:	35.04489 128.42185
+
+(9) - Run - 4.0 km
+	NTA2
+		Images:	2369
+		Time:	15.06.2025 12:27:06 until 15.06.2025 13:43:14
+		Duration:	01:16:08
+		Location:	35.06218 128.39598
+
+	NTA2LS1
+		Images:	1363
+		Time:	15.06.2025 12:20:10 until 15.06.2025 13:43:22
+		Duration:	01:23:12
+		Location:	35.06218 128.39598
+
+	NTA2LS2
+		Images:	962
+		Time:	15.06.2025 12:13:12 until 15.06.2025 13:43:55
+		Duration:	01:30:43
+		Location:	35.06218 128.39598
+
+	PNQ3
+		Images:	810
+		Time:	15.06.2025 12:53:33 until 15.06.2025 13:37:55
+		Duration:	00:44:22
+		Location:	35.06208 128.39709
+
+(10) - Bike - Transition zone
+	TDB1
+		Images:	5764
+		Time:	15.06.2025 06:15:21 until 15.06.2025 09:49:09
+		Duration:	03:33:48
+		Location:	35.05373 128.39794
+
+	TDB1LS1
+		Images:	467
+		Time:	15.06.2025 06:56:13 until 15.06.2025 08:17:33
+		Duration:	01:21:20
+		Location:	35.05373 128.39794
+
+(11) - Run - 6.5 km 13.5 km
+	TDB2
+		Images:	4385
+		Time:	15.06.2025 09:50:28 until 15.06.2025 11:57:19
+		Duration:	02:06:51
+		Location:	35.05495 128.39985
+
+	TDB2LS1
+		Images:	4482
+		Time:	15.06.2025 09:03:20 until 15.06.2025 13:21:14
+		Duration:	04:17:54
+		Location:	35.05477 128.40060
+
+(12) - Swim - Impressions / Pano
+	PANO1

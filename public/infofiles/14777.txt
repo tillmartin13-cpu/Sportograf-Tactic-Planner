@@ -1,0 +1,62 @@
+EventId: 14777
+Spots: 9
+Total Images: 4144
+Time:	29.05.2025 11:32:11 to 01.06.2025 15:09:28
+Duration: 3.03:37:17
+
+(1) - Start
+	ASTU1
+		Images:	677
+		Time:	29.05.2025 11:50:05 until 01.06.2025 13:08:30
+		Duration:	3.01:18:25
+		Location:	47.53144 14.89592
+
+	EP1
+		Images:	394
+		Time:	29.05.2025 17:01:15 until 01.06.2025 13:06:15
+		Duration:	2.20:05:00
+		Location:	47.53144 14.89592
+
+	COR1
+		Images:	285
+		Time:	29.05.2025 11:46:49 until 01.06.2025 13:07:28
+		Duration:	3.01:20:39
+		Location:	47.53144 14.89592
+
+(2) - Check Point 1 - Wasserleitung
+	COR2
+		Images:	1034
+		Time:	30.05.2025 14:20:42 until 01.06.2025 14:26:26
+		Duration:	2.00:05:44
+		Location:	47.51826 14.89810
+
+(3) - Checkpoint 4
+	EP2
+		Images:	557
+		Time:	01.06.2025 13:51:34 until 01.06.2025 14:10:08
+		Duration:	00:18:34
+		Location:	47.52197 14.90480
+
+(4) - Checkpoint 6
+	EP3
+		Images:	608
+		Time:	01.06.2025 14:17:05 until 01.06.2025 15:09:24
+		Duration:	00:52:19
+		Location:	47.52600 14.90189
+
+(5) - Checkpoint 6 & 9
+	COR3
+		Images:	201
+		Time:	31.05.2025 08:36:42 until 01.06.2025 15:09:28
+		Duration:	1.06:32:46
+		Location:	47.52600 14.90189
+
+(6) - Check Point 9
+	ASTU2
+		Images:	386
+		Time:	29.05.2025 13:33:45 until 01.06.2025 15:00:39
+		Duration:	3.01:26:54
+		Location:	47.52585 14.91949
+
+(7) - Impressions / Pano
+	PANO1

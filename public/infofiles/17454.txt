@@ -1,0 +1,33 @@
+EventId: 17454
+Spots: 4
+Total Images: 9719
+Time:	14.12.2025 06:31:15 to 14.12.2025 20:39:34
+Duration: 14:08:19
+
+(1) - Finish1
+	ZZZ1
+		Images:	6062
+		Time:	14.12.2025 06:31:15 until 14.12.2025 12:56:03
+		Duration:	06:24:48
+		Location:	-37.82546 144.95442
+
+	ZZZ2
+		Images:	2891
+		Time:	14.12.2025 12:56:03 until 14.12.2025 20:39:34
+		Duration:	07:43:31
+		Location:	-37.82546 144.95442
+
+(2) - Running
+	ZZZ3
+		Images:	141
+		Time:	14.12.2025 08:51:27 until 14.12.2025 20:21:42
+		Duration:	11:30:15
+		Location:	-37.82546 144.95442
+
+(3) - SledPull1
+	ZZZ4
+		Images:	625
+		Time:	14.12.2025 18:08:07 until 14.12.2025 18:56:09
+		Duration:	00:48:02
+		Location:	-37.82546 144.95442
+

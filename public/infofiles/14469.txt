@@ -1,0 +1,114 @@
+EventId: 14469
+Spots: 16
+Total Images: 57188
+Time:	21.09.2025 07:47:17 to 21.09.2025 17:05:00
+Duration: 09:17:43
+
+(1) - Obstacle 2 Barbed wire - Super + Sprint
+	GIBE1
+		Images:	6501
+		Time:	21.09.2025 08:31:27 until 21.09.2025 15:40:01
+		Duration:	07:08:34
+		Location:	43.97487 12.70444
+
+(2) - Obstacle 17 Starway - Super
+	DARU1
+		Images:	3295
+		Time:	21.09.2025 09:02:45 until 21.09.2025 14:20:02
+		Duration:	05:17:17
+		Location:	43.96981 12.71974
+
+(3) - Obstacle 18 Sandbag - Super + Sprint
+	MAGA1
+		Images:	5014
+		Time:	21.09.2025 09:02:53 until 21.09.2025 16:16:24
+		Duration:	07:13:31
+		Location:	43.97076 12.71933
+
+	MAGA1LS1
+		Images:	2362
+		Time:	21.09.2025 08:56:33 until 21.09.2025 15:56:53
+		Duration:	07:00:20
+		Location:	43.97076 12.71933
+
+(4) - Obstacle 19 6" wall - Super + Sprint
+	DARU2
+		Images:	226
+		Time:	21.09.2025 15:16:55 until 21.09.2025 16:10:11
+		Duration:	00:53:16
+		Location:	43.97121 12.71450
+
+(5) - Obstacle 24 Atlas carry - Super + Sprint
+	NBE1
+		Images:	4597
+		Time:	21.09.2025 08:22:19 until 21.09.2025 16:42:44
+		Duration:	08:20:25
+		Location:	43.98051 12.70052
+
+(6) - Obstacle 25 Hurdles - Super + Sprint
+	MMO1
+		Images:	10881
+		Time:	21.09.2025 08:01:09 until 21.09.2025 16:46:54
+		Duration:	08:45:45
+		Location:	43.98210 12.69747
+
+(7) - Obstacle 28 A-Frame - Super + Sprint
+	VHO1
+		Images:	3590
+		Time:	21.09.2025 07:55:25 until 21.09.2025 16:53:33
+		Duration:	08:58:08
+		Location:	43.97968 12.69664
+
+	RLO2
+		Images:	82
+		Time:	21.09.2025 14:32:03 until 21.09.2025 14:34:54
+		Duration:	00:02:51
+		Location:	43.97968 12.69664
+
+(8) - Obstacle 29 Multirig - Super + Sprint
+	GMA1
+		Images:	6516
+		Time:	21.09.2025 09:25:04 until 21.09.2025 16:56:40
+		Duration:	07:31:36
+		Location:	43.97990 12.69628
+
+(9) - Obstacle 34 Fire jump - Super + Sprint
+	MDV1
+		Images:	2616
+		Time:	21.09.2025 09:25:21 until 21.09.2025 17:03:48
+		Duration:	07:38:27
+		Location:	43.97979 12.69681
+
+	MDV1LS1
+		Images:	3897
+		Time:	21.09.2025 08:30:23 until 21.09.2025 17:04:50
+		Duration:	08:34:27
+		Location:	43.97979 12.69681
+
+	RLO1LS1
+		Images:	3569
+		Time:	21.09.2025 08:40:45 until 21.09.2025 16:44:11
+		Duration:	08:03:26
+		Location:	43.97979 12.69681
+
+(10) - Herotent Hero Tent - Super + Sprint
+	LDL1
+		Images:	3559
+		Time:	21.09.2025 07:47:17 until 21.09.2025 17:05:00
+		Duration:	09:17:43
+		Location:	43.97959 12.69646
+
+(11) - Impressions / Pano
+	DARU1DRONE1
+		Images:	14
+		Time:	21.09.2025 14:47:12 until 21.09.2025 14:55:32
+		Duration:	00:08:20
+		Location:	43.96981 12.71974
+
+(12) - Jumper - Super + Sprint
+	RLO1
+		Images:	469
+		Time:	21.09.2025 09:14:48 until 21.09.2025 14:31:14
+		Duration:	05:16:26
+		Location:	43.97979 12.69681
+

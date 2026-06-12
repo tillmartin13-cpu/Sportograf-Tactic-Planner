@@ -1,0 +1,88 @@
+EventId: 14281
+Spots: 12
+Total Images: 65497
+Time:	18.09.2025 07:47:15 to 19.10.2025 17:45:33
+Duration: 31.09:58:18
+
+(1) - Herotent Hero Wall
+	AOLI1
+		Images:	2574
+		Time:	18.10.2025 07:04:15 until 19.10.2025 17:45:33
+		Duration:	1.10:41:18
+		Location:	44.49718 -80.30885
+
+(2) - Obstacle 30 Multi Rig
+	CASS1
+		Images:	2930
+		Time:	19.10.2025 07:31:39 until 19.10.2025 16:23:34
+		Duration:	08:51:55
+		Location:	44.49855 -80.31072
+
+	LHBC1
+		Images:	3100
+		Time:	18.09.2025 07:47:15 until 19.09.2025 16:24:33
+		Duration:	1.08:37:18
+		Location:	44.49855 -80.31072
+
+(3) - Obstacle 33 Fire Jump
+	CBAC1
+		Images:	15090
+		Time:	19.10.2025 07:21:52 until 19.10.2025 17:10:22
+		Duration:	09:48:30
+		Location:	44.49715 -80.30914
+
+(4) - Obstacle 13 Barbed Wire
+	DMED1
+		Images:	3775
+		Time:	18.10.2025 07:21:17 until 19.10.2025 15:52:16
+		Duration:	1.08:30:59
+		Location:	44.49808 -80.32265
+
+(5) - Obstacle 23 A-Frame
+	HAMK1
+		Images:	8248
+		Time:	19.10.2025 06:59:07 until 19.10.2025 16:27:39
+		Duration:	09:28:32
+		Location:	44.50276 -80.31449
+
+(6) - Obstacle 6 Atlas Carry
+	KENY1
+		Images:	4164
+		Time:	18.10.2025 08:11:16 until 19.10.2025 15:16:33
+		Duration:	1.07:05:17
+		Location:	44.49205 -80.32028
+
+	WTY1
+		Images:	4435
+		Time:	18.10.2025 08:12:09 until 19.10.2025 15:16:28
+		Duration:	1.07:04:19
+		Location:	44.49205 -80.32028
+
+(7) - Obstacle 12 Inverted Wall
+	MAVA1
+		Images:	8415
+		Time:	18.10.2025 09:16:01 until 19.10.2025 15:42:18
+		Duration:	1.06:26:17
+		Location:	44.49626 -80.32260
+
+(8) - Venue
+	NIMA1
+		Images:	323
+		Time:	18.10.2025 13:51:55 until 19.10.2025 12:52:25
+		Duration:	23:00:30
+		Location:	44.50631 -80.31459
+
+(9) - Obstacle 9 Sandbag Carry
+	PNR1
+		Images:	4128
+		Time:	18.10.2025 11:43:03 until 19.10.2025 14:38:10
+		Duration:	1.02:55:07
+		Location:	44.49340 -80.32099
+
+(10) - Obstacle 32 Tire Drag
+	THAT1
+		Images:	8306
+		Time:	19.10.2025 07:35:17 until 19.10.2025 17:09:23
+		Duration:	09:34:06
+		Location:	44.49752 -80.30953
+

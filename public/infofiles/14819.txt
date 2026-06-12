@@ -1,0 +1,342 @@
+EventId: 14819
+Spots: 54
+Total Images: 176934
+Time:	01.03.2025 06:59:51 to 02.03.2025 20:10:23
+Duration: 1.13:10:32
+
+(1) - Skierg
+	BA1
+		Images:	4666
+		Time:	02.03.2025 06:30:13 until 02.03.2025 18:33:46
+		Duration:	12:03:33
+		Location:	48.97938 8.33031
+
+	BP1IMP1
+		Images:	50
+		Time:	02.03.2025 06:35:10 until 02.03.2025 15:42:30
+		Duration:	09:07:20
+		Location:	48.97938 8.33031
+
+	DIG2
+		Images:	3575
+		Time:	02.03.2025 14:15:28 until 02.03.2025 18:29:19
+		Duration:	04:13:51
+		Location:	48.97938 8.33031
+
+	LUJ1
+		Images:	8272
+		Time:	02.03.2025 06:54:57 until 02.03.2025 14:08:47
+		Duration:	07:13:50
+		Location:	48.97938 8.33031
+
+	MAPP1
+		Images:	6489
+		Time:	02.03.2025 06:25:21 until 02.03.2025 13:56:50
+		Duration:	07:31:29
+		Location:	48.97938 8.33031
+
+	NT2
+		Images:	3770
+		Time:	02.03.2025 14:44:12 until 02.03.2025 18:29:42
+		Duration:	03:45:30
+		Location:	48.97938 8.33031
+
+(2) - Impressionen
+	BECK1
+		Images:	551
+		Time:	02.03.2025 06:41:02 until 02.03.2025 09:37:15
+		Duration:	02:56:13
+		Location:	48.97938 8.33031
+
+	EVL1
+		Images:	496
+		Time:	02.03.2025 07:00:07 until 02.03.2025 09:29:39
+		Duration:	02:29:32
+		Location:	48.97938 8.33031
+
+(3) - Farmers Carry
+	BECK1LS1
+		Images:	6007
+		Time:	02.03.2025 07:38:06 until 02.03.2025 19:39:16
+		Duration:	12:01:10
+		Location:	48.97938 8.33031
+
+	BP1LS1
+		Images:	7822
+		Time:	02.03.2025 07:08:28 until 02.03.2025 19:40:40
+		Duration:	12:32:12
+		Location:	48.97938 8.33031
+
+(4) - Sled Push
+	BECK2
+		Images:	929
+		Time:	02.03.2025 10:03:04 until 02.03.2025 17:39:26
+		Duration:	07:36:22
+		Location:	48.97938 8.33031
+
+	EVL2
+		Images:	735
+		Time:	02.03.2025 10:02:29 until 02.03.2025 17:29:00
+		Duration:	07:26:31
+		Location:	48.97938 8.33031
+
+	JNK2
+		Images:	2355
+		Time:	02.03.2025 14:25:26 until 02.03.2025 18:41:55
+		Duration:	04:16:29
+		Location:	48.97938 8.33031
+
+	LTH3
+		Images:	7006
+		Time:	02.03.2025 06:45:01 until 02.03.2025 14:13:13
+		Duration:	07:28:12
+		Location:	48.97938 8.33031
+
+	MIGE1
+		Images:	11199
+		Time:	01.03.2025 11:15:43 until 02.03.2025 14:13:08
+		Duration:	1.02:57:25
+		Location:	48.97938 8.33031
+
+	MSAI2
+		Images:	1517
+		Time:	02.03.2025 14:23:07 until 02.03.2025 18:40:10
+		Duration:	04:17:03
+		Location:	48.97938 8.33031
+
+	NT1
+		Images:	2824
+		Time:	01.03.2025 07:40:19 until 02.03.2025 14:36:00
+		Duration:	1.06:55:41
+		Location:	48.97938 8.33031
+
+(5) - Sled Pull
+	BECK3
+		Images:	892
+		Time:	02.03.2025 10:42:54 until 02.03.2025 16:42:17
+		Duration:	05:59:23
+		Location:	48.97938 8.33031
+
+	DABI1
+		Images:	6016
+		Time:	02.03.2025 06:31:24 until 02.03.2025 14:03:41
+		Duration:	07:32:17
+		Location:	48.97938 8.33031
+
+	EVL3
+		Images:	1046
+		Time:	02.03.2025 10:43:21 until 02.03.2025 16:42:33
+		Duration:	05:59:12
+		Location:	48.97938 8.33031
+
+	HS1
+		Images:	2185
+		Time:	02.03.2025 07:01:51 until 02.03.2025 14:00:52
+		Duration:	06:59:01
+		Location:	48.97938 8.33031
+
+	LBL2
+		Images:	27
+		Time:	02.03.2025 17:05:14 until 02.03.2025 17:07:53
+		Duration:	00:02:39
+		Location:	48.97938 8.33031
+
+	MAWI2
+		Images:	1453
+		Time:	02.03.2025 14:24:47 until 02.03.2025 18:51:44
+		Duration:	04:26:57
+		Location:	48.97938 8.33031
+
+	SBRO2
+		Images:	1579
+		Time:	02.03.2025 14:12:23 until 02.03.2025 18:51:56
+		Duration:	04:39:33
+		Location:	48.97938 8.33031
+
+(6) - Rowing
+	BECK4
+		Images:	1433
+		Time:	02.03.2025 11:21:28 until 02.03.2025 16:13:34
+		Duration:	04:52:06
+		Location:	48.97938 8.33031
+
+	EVL4
+		Images:	807
+		Time:	02.03.2025 11:19:13 until 02.03.2025 16:05:38
+		Duration:	04:46:25
+		Location:	48.97938 8.33031
+
+	JNK1
+		Images:	6916
+		Time:	01.03.2025 06:59:51 until 02.03.2025 14:25:02
+		Duration:	1.07:25:11
+		Location:	48.97938 8.33031
+
+	LTH2
+		Images:	4742
+		Time:	02.03.2025 14:22:54 until 02.03.2025 19:26:30
+		Duration:	05:03:36
+		Location:	48.97938 8.33031
+
+	MIGE2
+		Images:	10372
+		Time:	02.03.2025 14:18:54 until 02.03.2025 19:08:05
+		Duration:	04:49:11
+		Location:	48.97938 8.33031
+
+	MSAI1
+		Images:	5238
+		Time:	02.03.2025 06:39:50 until 02.03.2025 14:09:34
+		Duration:	07:29:44
+		Location:	48.97938 8.33031
+
+(7) - Sandbag Lunges
+	BECK5
+		Images:	338
+		Time:	02.03.2025 12:01:59 until 02.03.2025 12:32:08
+		Duration:	00:30:09
+		Location:	48.97938 8.33031
+
+	BP1
+		Images:	230
+		Time:	02.03.2025 16:08:32 until 02.03.2025 16:35:15
+		Duration:	00:26:43
+		Location:	48.97938 8.33031
+
+	DABI2
+		Images:	2870
+		Time:	02.03.2025 14:09:03 until 02.03.2025 19:50:12
+		Duration:	05:41:09
+		Location:	48.97938 8.33031
+
+	EVL5
+		Images:	502
+		Time:	02.03.2025 12:00:16 until 02.03.2025 12:35:39
+		Duration:	00:35:23
+		Location:	48.97938 8.33031
+
+	HS2
+		Images:	1703
+		Time:	02.03.2025 14:24:28 until 02.03.2025 19:52:43
+		Duration:	05:28:15
+		Location:	48.97938 8.33031
+
+	MAWI1
+		Images:	4870
+		Time:	02.03.2025 07:21:38 until 02.03.2025 12:43:11
+		Duration:	05:21:33
+		Location:	48.97938 8.33031
+
+	SBRO1
+		Images:	2726
+		Time:	01.03.2025 07:25:26 until 02.03.2025 14:05:53
+		Duration:	1.06:40:27
+		Location:	48.97938 8.33031
+
+(8) - Wall Balls
+	BECK6
+		Images:	915
+		Time:	02.03.2025 12:42:25 until 02.03.2025 15:29:59
+		Duration:	02:47:34
+		Location:	48.97938 8.33031
+
+	DIG1
+		Images:	6750
+		Time:	02.03.2025 07:27:18 until 02.03.2025 14:05:18
+		Duration:	06:38:00
+		Location:	48.97938 8.33031
+
+	EVL6
+		Images:	997
+		Time:	02.03.2025 12:42:43 until 02.03.2025 15:35:39
+		Duration:	02:52:56
+		Location:	48.97938 8.33031
+
+	LBL1
+		Images:	7090
+		Time:	02.03.2025 06:24:00 until 02.03.2025 15:48:10
+		Duration:	09:24:10
+		Location:	48.97938 8.33031
+
+	LUJ2
+		Images:	6961
+		Time:	02.03.2025 14:09:19 until 02.03.2025 19:43:54
+		Duration:	05:34:35
+		Location:	48.97938 8.33031
+
+	MAPP2
+		Images:	2817
+		Time:	02.03.2025 14:07:17 until 02.03.2025 20:03:25
+		Duration:	05:56:08
+		Location:	48.97938 8.33031
+
+(9) - Medalwall
+	BECK7
+		Images:	509
+		Time:	02.03.2025 13:18:30 until 02.03.2025 14:01:12
+		Duration:	00:42:42
+		Location:	48.97938 8.33031
+
+	EP1
+		Images:	2889
+		Time:	01.03.2025 07:28:59 until 02.03.2025 13:18:04
+		Duration:	1.05:49:05
+		Location:	48.97938 8.33031
+
+	ROB2
+		Images:	5265
+		Time:	02.03.2025 14:01:56 until 02.03.2025 20:08:05
+		Duration:	06:06:09
+		Location:	48.97938 8.33031
+
+(10) - Finish
+	BECK8
+		Images:	415
+		Time:	02.03.2025 17:39:49 until 02.03.2025 18:14:06
+		Duration:	00:34:17
+		Location:	48.97938 8.33031
+
+	EP2
+		Images:	2981
+		Time:	02.03.2025 14:00:48 until 02.03.2025 20:07:03
+		Duration:	06:06:15
+		Location:	48.97938 8.33031
+
+	EP1LS1
+		Images:	2210
+		Time:	02.03.2025 06:57:44 until 02.03.2025 19:42:01
+		Duration:	12:44:17
+		Location:	48.97938 8.33031
+
+	ROB1
+		Images:	3529
+		Time:	01.03.2025 07:02:08 until 02.03.2025 14:00:16
+		Duration:	1.06:58:08
+		Location:	48.97938 8.33031
+
+	ROB1LS1
+		Images:	718
+		Time:	02.03.2025 06:41:48 until 02.03.2025 20:10:23
+		Duration:	13:28:35
+		Location:	48.97938 8.33031
+
+(11) - Start
+	BP2
+		Images:	10
+		Time:	02.03.2025 08:58:07 until 02.03.2025 10:05:52
+		Duration:	01:07:45
+		Location:	48.97938 8.33031
+
+(12) - Run
+	EVL1LS1
+		Images:	4742
+		Time:	02.03.2025 06:31:25 until 02.03.2025 18:46:31
+		Duration:	12:15:06
+		Location:	48.97938 8.33031
+
+	HS1LS1
+		Images:	3928
+		Time:	02.03.2025 06:31:34 until 02.03.2025 18:47:06
+		Duration:	12:15:32
+		Location:	48.97938 8.33031
+

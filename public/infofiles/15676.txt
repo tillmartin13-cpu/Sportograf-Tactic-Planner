@@ -1,0 +1,101 @@
+EventId: 15676
+Spots: 15
+Total Images: 33390
+Time:	09.03.2025 05:21:15 to 09.03.2025 13:37:56
+Duration: 08:16:41
+
+(1) - 1.7 mi River Road
+	AW1
+		Images:	504
+		Time:	09.03.2025 06:35:12 until 09.03.2025 06:56:02
+		Duration:	00:20:50
+		Location:	36.28702 -76.20263
+
+	ST1
+		Images:	1120
+		Time:	09.03.2025 06:34:54 until 09.03.2025 06:56:32
+		Duration:	00:21:38
+		Location:	36.28702 -76.20263
+
+(2) - 26.2 mi Medal photos
+	CP1
+		Images:	1254
+		Time:	09.03.2025 06:21:20 until 09.03.2025 13:37:56
+		Duration:	07:16:36
+		Location:	36.29686 -76.21888
+
+(3) - 26.0 mi Water Street
+	DS1
+		Images:	3092
+		Time:	09.03.2025 08:01:01 until 09.03.2025 12:47:37
+		Duration:	04:46:36
+		Location:	36.29972 -76.21958
+
+(4) - 4.5 mi On base, helicopter
+	LN1
+		Images:	1631
+		Time:	09.03.2025 06:47:01 until 09.03.2025 07:47:35
+		Duration:	01:00:34
+		Location:	36.26246 -76.19165
+
+(5) - 0.5 mi Bridge, start, Riverside Ave
+	PB1
+		Images:	168
+		Time:	09.03.2025 06:15:51 until 09.03.2025 06:36:19
+		Duration:	00:20:28
+		Location:	36.29605 -76.21716
+
+(6) - Finish
+	SJZ1
+		Images:	3020
+		Time:	09.03.2025 05:21:15 until 09.03.2025 13:37:26
+		Duration:	08:16:11
+		Location:	36.29686 -76.21888
+
+	TRGC1
+		Images:	5658
+		Time:	09.03.2025 06:02:49 until 09.03.2025 13:01:26
+		Duration:	06:58:37
+		Location:	36.29686 -76.21888
+
+(7) - 22.5 mi On base, helicopter
+	LNB1
+		Images:	2499
+		Time:	09.03.2025 07:52:16 until 09.03.2025 12:36:46
+		Duration:	04:44:30
+		Location:	36.26246 -76.19165
+
+	TRG1
+		Images:	1035
+		Time:	09.03.2025 06:06:37 until 09.03.2025 07:35:38
+		Duration:	01:29:01
+		Location:	36.26246 -76.19165
+
+(8) - Impressions / Pano
+	PANO1
+(9) - 26.0 mi South Water Street, Waterfront
+	STB1
+		Images:	2880
+		Time:	09.03.2025 07:42:31 until 09.03.2025 13:02:46
+		Duration:	05:20:15
+		Location:	36.30017 -76.22294
+
+	TRGB1
+		Images:	5274
+		Time:	09.03.2025 06:32:36 until 09.03.2025 11:40:28
+		Duration:	05:07:52
+		Location:	36.30017 -76.22294
+
+	AWB1
+		Images:	1128
+		Time:	09.03.2025 07:50:15 until 09.03.2025 13:29:15
+		Duration:	05:39:00
+		Location:	36.29972 -76.21958
+
+(10) - 26.0 mi Before the finishline; finishing straight
+	PBB1
+		Images:	4127
+		Time:	09.03.2025 07:35:36 until 09.03.2025 13:36:48
+		Duration:	06:01:12
+		Location:	36.29682 -76.21888
+

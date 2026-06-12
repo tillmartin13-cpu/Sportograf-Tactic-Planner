@@ -1,0 +1,59 @@
+EventId: 16267
+Spots: 8
+Total Images: 24820
+Time:	26.09.2025 21:30:47 to 27.09.2025 19:13:36
+Duration: 21:42:49
+
+(1) - 28.0 km The white horse
+	BUM1
+		Images:	4403
+		Time:	27.09.2025 08:01:40 until 27.09.2025 15:03:05
+		Duration:	07:01:25
+		Location:	50.79055 0.14511
+
+(2) - Finish
+	BUM2
+		Images:	2673
+		Time:	27.09.2025 16:28:09 until 27.09.2025 18:42:45
+		Duration:	02:14:36
+		Location:	50.75272 0.26964
+
+	MKH2
+		Images:	3576
+		Time:	27.09.2025 11:25:50 until 27.09.2025 19:13:36
+		Duration:	07:47:46
+		Location:	50.75272 0.26964
+
+	SCP2
+		Images:	142
+		Time:	27.09.2025 18:14:38 until 27.09.2025 18:48:52
+		Duration:	00:34:14
+		Location:	50.75272 0.26964
+
+(3) - Start
+	DANO1
+		Images:	1559
+		Time:	27.09.2025 06:52:29 until 27.09.2025 08:18:42
+		Duration:	01:26:13
+		Location:	50.80911 0.15857
+
+	MKH1
+		Images:	398
+		Time:	26.09.2025 21:30:47 until 27.09.2025 11:28:20
+		Duration:	13:57:33
+		Location:	50.86199 -0.08545
+
+(4) - 39.0 km Beachy head cliffs
+	DANO2
+		Images:	8901
+		Time:	27.09.2025 10:01:28 until 27.09.2025 18:26:39
+		Duration:	08:25:11
+		Location:	50.73812 0.24699
+
+(5) - 35.0 km Seven sisters
+	SCP1
+		Images:	3168
+		Time:	27.09.2025 08:48:22 until 27.09.2025 17:12:32
+		Duration:	08:24:10
+		Location:	50.74612 0.19478
+

@@ -1,0 +1,41 @@
+EventId: 14078
+Spots: 5
+Total Images: 11364
+Time:	06.09.2025 07:21:48 to 06.09.2025 16:55:03
+Duration: 09:33:15
+
+(1) - 31,2 km
+	MIW1
+		Images:	2108
+		Time:	06.09.2025 10:48:38 until 06.09.2025 14:59:36
+		Duration:	04:10:58
+		Location:	47.36290 12.62047
+
+(2) - 74,5 km
+	HAWI1
+		Images:	2226
+		Time:	06.09.2025 09:00:25 until 06.09.2025 12:30:43
+		Duration:	03:30:18
+		Location:	47.38756 12.58431
+
+(3) - 15,6 km
+	SALE1
+		Images:	3375
+		Time:	06.09.2025 09:08:33 until 06.09.2025 11:32:53
+		Duration:	02:24:20
+		Location:	47.38935 12.65907
+
+(4) - Start
+	ULKE1
+		Images:	711
+		Time:	06.09.2025 07:21:48 until 06.09.2025 09:46:26
+		Duration:	02:24:38
+		Location:	47.37852 12.59492
+
+(5) - Finish
+	ULKE2
+		Images:	2944
+		Time:	06.09.2025 09:54:32 until 06.09.2025 16:55:03
+		Duration:	07:00:31
+		Location:	47.37852 12.59492
+

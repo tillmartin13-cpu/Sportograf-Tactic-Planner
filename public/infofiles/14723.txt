@@ -1,0 +1,129 @@
+EventId: 14723
+Spots: 19
+Total Images: 56311
+Time:	28.08.2025 10:27:15 to 29.08.2025 01:15:43
+Duration: 14:48:28
+
+(1) - Technical Downhill KM15.5
+	MHO1
+		Images:	4736
+		Time:	28.08.2025 11:21:53 until 28.08.2025 15:44:50
+		Duration:	04:22:57
+		Location:	46.06539 7.07516
+
+	MHO1LS1
+		Images:	1597
+		Time:	28.08.2025 10:49:56 until 28.08.2025 14:00:55
+		Duration:	03:10:59
+		Location:	46.06539 7.07516
+
+(2) - View of Martigny
+	RSJ1
+		Images:	5539
+		Time:	28.08.2025 10:27:15 until 28.08.2025 16:04:57
+		Duration:	05:37:42
+		Location:	46.08410 7.04609
+
+	RSJ1LS1
+		Images:	1501
+		Time:	28.08.2025 11:00:22 until 28.08.2025 16:04:01
+		Duration:	05:03:39
+		Location:	46.08410 7.04609
+
+(3) - Col de la Forclaz
+	PKA1
+		Images:	2865
+		Time:	28.08.2025 12:03:41 until 28.08.2025 18:16:34
+		Duration:	06:12:53
+		Location:	46.05683 7.00151
+
+	PKA1LS1
+		Images:	2526
+		Time:	28.08.2025 11:58:30 until 28.08.2025 17:12:13
+		Duration:	05:13:43
+		Location:	46.05683 7.00151
+
+(4) - Before Col de Balme KM36,8
+	ALL1
+		Images:	4887
+		Time:	28.08.2025 13:04:19 until 28.08.2025 19:55:40
+		Duration:	06:51:21
+		Location:	46.02884 6.97633
+
+	ALL1LS1
+		Images:	2851
+		Time:	28.08.2025 13:29:50 until 28.08.2025 19:51:43
+		Duration:	06:21:53
+		Location:	46.02884 6.97633
+
+(5) - Before Col de Balme KM37.4
+	CHR1
+		Images:	5172
+		Time:	28.08.2025 13:07:03 until 28.08.2025 20:09:12
+		Duration:	07:02:09
+		Location:	46.02730 6.97068
+
+	CHR1LS1
+		Images:	2479
+		Time:	28.08.2025 13:26:13 until 28.08.2025 19:21:33
+		Duration:	05:55:20
+		Location:	46.02730 6.97068
+
+	CHR1DRONE1
+		Images:	16
+		Time:	28.08.2025 15:43:27 until 28.08.2025 15:52:14
+		Duration:	00:08:47
+		Location:	46.02730 6.97068
+
+(6) - After Col de Balme KM41.5
+	EP1
+		Images:	6167
+		Time:	28.08.2025 14:09:01 until 28.08.2025 20:53:31
+		Duration:	06:44:30
+		Location:	46.01412 6.94099
+
+	EP1LS1
+		Images:	2237
+		Time:	28.08.2025 13:46:40 until 28.08.2025 20:11:45
+		Duration:	06:25:05
+		Location:	46.01412 6.94099
+
+(7) - Downhill Le Tour KM44
+	COR1
+		Images:	1001
+		Time:	28.08.2025 14:06:18 until 28.08.2025 16:33:42
+		Duration:	02:27:24
+		Location:	46.00558 6.94511
+
+	COR1LS1
+		Images:	268
+		Time:	28.08.2025 14:54:11 until 28.08.2025 16:37:30
+		Duration:	01:43:19
+		Location:	46.00558 6.94511
+
+(8) - Downhill Le Tour KM44.5
+	COR2
+		Images:	2285
+		Time:	28.08.2025 16:42:48 until 28.08.2025 19:54:07
+		Duration:	03:11:19
+		Location:	46.00566 6.94766
+
+	COR2LS1
+		Images:	296
+		Time:	28.08.2025 16:38:36 until 28.08.2025 17:52:51
+		Duration:	01:14:15
+		Location:	46.00566 6.94766
+
+(9) - Finish
+	NJO1
+		Images:	5748
+		Time:	28.08.2025 15:07:13 until 29.08.2025 01:15:43
+		Duration:	10:08:30
+		Location:	45.92362 6.86880
+
+	NJO1LS1
+		Images:	4140
+		Time:	28.08.2025 16:50:35 until 29.08.2025 01:09:39
+		Duration:	08:19:04
+		Location:	45.92362 6.86880
+

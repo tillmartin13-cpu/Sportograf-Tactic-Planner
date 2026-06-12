@@ -1,0 +1,340 @@
+EventId: 13589
+Spots: 52
+Total Images: 125927
+Time:	06.12.2025 16:00:43 to 08.12.2025 01:51:20
+Duration: 1.09:50:37
+
+(1) - Swim - Start
+	TRDN1
+		Images:	1384
+		Time:	07.12.2025 04:09:03 until 07.12.2025 05:41:52
+		Duration:	01:32:49
+		Location:	-33.66418 115.34531
+
+	TRDN2
+		Images:	1118
+		Time:	07.12.2025 05:48:26 until 07.12.2025 06:45:44
+		Duration:	00:57:18
+		Location:	-33.66418 115.34531
+
+	TKU1
+		Images:	804
+		Time:	06.12.2025 19:39:32 until 07.12.2025 05:14:11
+		Duration:	09:34:39
+		Location:	-33.66418 115.34531
+
+	TKU2
+		Images:	669
+		Time:	07.12.2025 05:42:36 until 07.12.2025 06:45:33
+		Duration:	01:02:57
+		Location:	-33.66418 115.34531
+
+(2) - Finish
+	TRDN3
+		Images:	10758
+		Time:	07.12.2025 07:33:54 until 07.12.2025 18:45:59
+		Duration:	11:12:05
+		Location:	-33.64502 115.34473
+
+	TKU4
+		Images:	700
+		Time:	07.12.2025 18:35:11 until 07.12.2025 21:17:13
+		Duration:	02:42:02
+		Location:	-33.64502 115.34473
+
+	TSHN3
+		Images:	4306
+		Time:	07.12.2025 08:56:01 until 07.12.2025 14:27:38
+		Duration:	05:31:37
+		Location:	-33.64502 115.34473
+
+	ALEV5
+		Images:	408
+		Time:	07.12.2025 20:54:58 until 07.12.2025 23:43:43
+		Duration:	02:48:45
+		Location:	-33.64502 115.34473
+
+	RIW3
+		Images:	1270
+		Time:	07.12.2025 12:40:13 until 07.12.2025 18:31:26
+		Duration:	05:51:13
+		Location:	-33.64502 115.34473
+
+	JAHN5
+		Images:	2450
+		Time:	07.12.2025 18:50:51 until 07.12.2025 23:21:49
+		Duration:	04:30:58
+		Location:	-33.64502 115.34473
+
+	JDE3
+		Images:	1493
+		Time:	07.12.2025 18:43:53 until 07.12.2025 23:13:33
+		Duration:	04:29:40
+		Location:	-33.64502 115.34473
+
+	DJA3
+		Images:	1347
+		Time:	07.12.2025 18:46:47 until 07.12.2025 23:44:09
+		Duration:	04:57:22
+		Location:	-33.64502 115.34473
+
+	CCHU3
+		Images:	378
+		Time:	07.12.2025 18:51:26 until 07.12.2025 23:43:51
+		Duration:	04:52:25
+		Location:	-33.64502 115.34473
+
+	TOSC5
+		Images:	33
+		Time:	07.12.2025 22:50:36 until 07.12.2025 23:21:52
+		Duration:	00:31:16
+		Location:	-33.64502 115.34473
+
+	TOSC15LS1
+		Images:	1786
+		Time:	07.12.2025 11:40:49 until 08.12.2025 01:51:20
+		Duration:	14:10:31
+		Location:	-33.64502 115.34473
+
+(3) - Run - 184.5 km
+	TRDN4
+		Images:	226
+		Time:	07.12.2025 20:08:40 until 07.12.2025 21:27:57
+		Duration:	01:19:17
+		Location:	33.64451 115.34541
+
+	ALEV3
+		Images:	5087
+		Time:	07.12.2025 10:01:35 until 07.12.2025 17:54:30
+		Duration:	07:52:55
+		Location:	33.66445 115.34623
+
+(4) - Run - 192.5 km
+	TKU3
+		Images:	4237
+		Time:	07.12.2025 07:43:41 until 07.12.2025 16:35:52
+		Duration:	08:52:11
+		Location:	-33.64554 115.34046
+
+(5) - Swim - Transition zone
+	TSHN1
+		Images:	2915
+		Time:	07.12.2025 04:32:57 until 07.12.2025 06:22:42
+		Duration:	01:49:45
+		Location:	33.66461 115.34271
+
+	TSHN2
+		Images:	2937
+		Time:	07.12.2025 06:26:09 until 07.12.2025 08:01:04
+		Duration:	01:34:55
+		Location:	33.66461 115.34271
+
+	ALEV1
+		Images:	2170
+		Time:	07.12.2025 04:45:27 until 07.12.2025 06:27:31
+		Duration:	01:42:04
+		Location:	33.66461 115.34271
+
+	ALEV2
+		Images:	1445
+		Time:	07.12.2025 06:28:57 until 07.12.2025 08:59:52
+		Duration:	02:30:55
+		Location:	33.66461 115.34271
+
+	TOSC1
+		Images:	2502
+		Time:	07.12.2025 04:58:45 until 07.12.2025 10:33:42
+		Duration:	05:34:57
+		Location:	33.66461 115.34271
+
+(6) - Run - 192.2 km
+	TSHN4
+		Images:	2606
+		Time:	07.12.2025 16:29:58 until 07.12.2025 22:57:23
+		Duration:	06:27:25
+		Location:	-33.64560 115.34107
+
+(7) - Swim - Impressions / Pano
+	TSHN5
+		Images:	44
+		Time:	07.12.2025 03:48:27 until 07.12.2025 04:19:41
+		Duration:	00:31:14
+		Location:	33.66461 115.34271
+
+	ALEV4
+		Images:	106
+		Time:	07.12.2025 03:49:44 until 07.12.2025 04:32:43
+		Duration:	00:42:59
+		Location:	33.66461 115.34271
+
+	JAHN4
+		Images:	286
+		Time:	07.12.2025 03:19:13 until 07.12.2025 06:36:20
+		Duration:	03:17:07
+		Location:	33.64453 115.34503
+
+	CCHU4
+		Images:	183
+		Time:	07.12.2025 03:27:54 until 07.12.2025 06:19:33
+		Duration:	02:51:39
+		Location:	33.64453 115.34503
+
+	TOSC6
+		Images:	70
+		Time:	06.12.2025 18:30:05 until 07.12.2025 17:47:59
+		Duration:	23:17:54
+		Location:	-33.66418 115.34531
+
+(8) - Run - 215.9 km
+	ALEV6
+		Images:	67
+		Time:	07.12.2025 21:49:00 until 07.12.2025 22:51:12
+		Duration:	01:02:12
+		Location:	-33.64560 115.34107
+
+(9) - Run - 226.3 km
+	ALEV7
+		Images:	85
+		Time:	07.12.2025 20:04:37 until 07.12.2025 20:23:12
+		Duration:	00:18:35
+		Location:	-33.64466 115.34432
+
+(10) - Bike - Transition zone
+	RIW1
+		Images:	6910
+		Time:	06.12.2025 16:00:43 until 07.12.2025 09:41:58
+		Duration:	17:41:15
+		Location:	-33.64597 115.34329
+
+	RIW4LS1
+		Images:	241
+		Time:	07.12.2025 04:45:25 until 07.12.2025 06:39:28
+		Duration:	01:54:03
+		Location:	-33.64597 115.34329
+
+	RIW5LS1
+		Images:	229
+		Time:	07.12.2025 06:40:27 until 07.12.2025 09:09:59
+		Duration:	02:29:32
+		Location:	-33.64597 115.34329
+
+	TOSC12LS1
+		Images:	4154
+		Time:	06.12.2025 20:26:00 until 07.12.2025 11:00:40
+		Duration:	14:34:40
+		Location:	-33.64597 115.34329
+
+(11) - Bike - 94.4 km
+	RIW2
+		Images:	1270
+		Time:	07.12.2025 09:45:41 until 07.12.2025 12:39:34
+		Duration:	02:53:53
+		Location:	33.64641 115.34558
+
+(12) - Run - 216.2 km
+	RIW6LS1
+		Images:	227
+		Time:	07.12.2025 20:04:07 until 07.12.2025 23:19:04
+		Duration:	03:14:57
+		Location:	-33.64518 115.34541
+
+(13) - Run - 0.0 km
+	JAHN1
+		Images:	3207
+		Time:	07.12.2025 06:40:11 until 07.12.2025 11:42:28
+		Duration:	05:02:17
+		Location:	-33.64475 115.34383
+
+	JAHN2
+		Images:	40
+		Time:	07.12.2025 07:58:52 until 07.12.2025 08:07:27
+		Duration:	00:08:35
+		Location:	-33.64475 115.34383
+
+	CCHU1
+		Images:	1571
+		Time:	07.12.2025 06:45:11 until 07.12.2025 11:43:01
+		Duration:	04:57:50
+		Location:	-33.64475 115.34383
+
+(14) - Run - 184.4 km
+	JAHN3
+		Images:	6110
+		Time:	07.12.2025 11:46:11 until 07.12.2025 17:04:09
+		Duration:	05:17:58
+		Location:	-33.64475 115.34383
+
+	CCHU2
+		Images:	2478
+		Time:	07.12.2025 11:43:34 until 07.12.2025 17:00:36
+		Duration:	05:17:02
+		Location:	-33.64475 115.34383
+
+(15) - Bike - 61.1 km
+	JDE1
+		Images:	7527
+		Time:	07.12.2025 04:23:12 until 07.12.2025 10:59:16
+		Duration:	06:36:04
+		Location:	33.62316 115.44794
+
+(16) - Bike - 160.1 km
+	JDE2
+		Images:	3588
+		Time:	07.12.2025 11:41:22 until 07.12.2025 16:20:22
+		Duration:	04:39:00
+		Location:	33.62316 115.44794
+
+(17) - Bike - 44.6 km
+	DJA1
+		Images:	5866
+		Time:	07.12.2025 03:41:16 until 07.12.2025 10:53:21
+		Duration:	07:12:05
+		Location:	-33.55056 115.51422
+
+(18) - Bike - 141.4 km
+	DJA2
+		Images:	2253
+		Time:	07.12.2025 11:07:29 until 07.12.2025 15:26:20
+		Duration:	04:18:51
+		Location:	-33.55056 115.51422
+
+(19) - Bike - 95.1 km
+	TOSC2
+		Images:	4420
+		Time:	07.12.2025 10:33:56 until 07.12.2025 12:27:20
+		Duration:	01:53:24
+		Location:	-33.64487 115.35267
+
+(20) - Run - Impressions / Pano
+	TOSC3
+		Images:	186
+		Time:	07.12.2025 12:28:36 until 07.12.2025 13:25:12
+		Duration:	00:56:36
+		Location:	-33.64605 115.35410
+
+(21) - Run - 190.0 km
+	TOSC9LS1
+		Images:	3310
+		Time:	07.12.2025 14:02:18 until 07.12.2025 16:17:24
+		Duration:	02:15:06
+		Location:	-33.64314 115.35171
+
+	TOSC10LS1
+		Images:	11771
+		Time:	07.12.2025 16:18:46 until 07.12.2025 17:32:38
+		Duration:	01:13:52
+		Location:	-33.64314 115.35171
+
+(22) - Run - 201.0 km
+	TOSC11
+		Images:	3552
+		Time:	06.12.2025 16:15:08 until 07.12.2025 16:02:55
+		Duration:	23:47:47
+		Location:	-33.64350 115.34982
+
+	TOSC14
+		Images:	3147
+		Time:	07.12.2025 16:14:12 until 07.12.2025 17:32:38
+		Duration:	01:18:26
+		Location:	-33.64350 115.34982
+

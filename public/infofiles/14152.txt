@@ -1,0 +1,72 @@
+EventId: 14152
+Spots: 22
+Total Images: 5638
+Time:	07.08.2025 21:44:13 to 09.08.2025 06:42:55
+Duration: 1.08:58:42
+
+(1) - Start 160k + vertical
+	ALL1
+(2) - Vertical / 0.5Km before finish
+	ALL2
+(3) - Vertical / 0.5K before finish
+	ALL2LS1
+(4) - 160 K / Aletsch Gletscher / 51Km after start
+	ALL3LS1
+	ALL3
+(5) - 50K + 100K / Aletsch Gletscher / 15Km After start
+	ALL4
+	ALL4LS1
+(6) - Finish
+	ALL5
+	AMU5
+	BEB3
+	BEB4
+	BEB4LS1
+	BEB3LS1
+(7) - 50K + 100 K / Burghutte / 20 Km after start
+	AMU4
+(8) - 160K + Vertical / 1 Km after start
+	AMU1
+		Images:	532
+		Time:	08.08.2025 07:17:18 until 08.08.2025 09:14:21
+		Duration:	01:57:03
+		Location:	46.40050 8.12520
+
+(9) - Vertical finish
+	AMU2
+		Images:	420
+		Time:	08.08.2025 10:23:25 until 08.08.2025 13:18:36
+		Duration:	02:55:11
+		Location:	46.42778 8.09090
+
+(10) - 160 K / Burghutte / 56Km after start
+	AMU3
+(11) - Impressions / Pano
+	PANO1
+(12) - 160K / Riederhalp / 15.4Km after start
+	BEB1
+		Images:	1187
+		Time:	07.08.2025 21:44:13 until 08.08.2025 11:25:09
+		Duration:	13:40:56
+		Location:	46.37834 8.02056
+
+(13) - 50K + 100K / 1 Km after start
+	BEB2
+		Images:	1389
+		Time:	09.08.2025 06:01:56 until 09.08.2025 06:42:55
+		Duration:	00:40:59
+		Location:	46.39986 8.12609
+
+	BEB2LS1
+		Images:	1449
+		Time:	09.08.2025 05:50:35 until 09.08.2025 06:42:55
+		Duration:	00:52:20
+		Location:	46.39986 8.12609
+
+(14) - 160K / Riederhalp / 15.5 Km after start
+	BEB1LS1
+		Images:	661
+		Time:	08.08.2025 08:55:58 until 08.08.2025 10:30:26
+		Duration:	01:34:28
+		Location:	46.37809 8.02107
+

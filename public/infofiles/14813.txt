@@ -1,0 +1,157 @@
+EventId: 14813
+Spots: 30
+Total Images: 43926
+Time:	22.02.2025 04:39:02 to 22.02.2025 13:08:48
+Duration: 08:29:46
+
+(1) - Finish
+	AGU4
+		Images:	292
+		Time:	22.02.2025 12:34:18 until 22.02.2025 13:04:01
+		Duration:	00:29:43
+		Location:	NULL NULL
+
+	JOTO1
+		Images:	1158
+		Time:	22.02.2025 06:53:53 until 22.02.2025 12:34:33
+		Duration:	05:40:40
+		Location:	NULL NULL
+
+(2) - Impressions / Pano
+	CK1
+	PANO1
+(3) - Medalwall
+	EP6
+		Images:	391
+		Time:	22.02.2025 12:35:36 until 22.02.2025 13:08:48
+		Duration:	00:33:12
+		Location:	NULL NULL
+
+	LU1
+		Images:	953
+		Time:	22.02.2025 07:07:40 until 22.02.2025 12:34:10
+		Duration:	05:26:30
+		Location:	NULL NULL
+
+(4) - Start
+	LUG1
+(5) - Station 1 SKI ERG
+	MFAJ1
+(6) - Station 1 SKIERG
+	EH1
+	RMI1
+(7) - Station 2 SLED PUSH
+	AGU5
+		Images:	984
+		Time:	22.02.2025 08:19:44 until 22.02.2025 10:28:17
+		Duration:	02:08:33
+		Location:	NULL NULL
+
+	EP1
+		Images:	560
+		Time:	22.02.2025 10:03:20 until 22.02.2025 10:27:38
+		Duration:	00:24:18
+		Location:	NULL NULL
+
+	HKA1
+		Images:	1362
+		Time:	22.02.2025 07:48:49 until 22.02.2025 10:01:09
+		Duration:	02:12:20
+		Location:	NULL NULL
+
+	KYR1
+		Images:	985
+		Time:	22.02.2025 07:53:21 until 22.02.2025 10:02:38
+		Duration:	02:09:17
+		Location:	NULL NULL
+
+(8) - Station 3 SLED PULL
+	AGU1
+		Images:	775
+		Time:	22.02.2025 10:40:33 until 22.02.2025 11:17:47
+		Duration:	00:37:14
+		Location:	NULL NULL
+
+	ASTU1
+		Images:	2707
+		Time:	22.02.2025 08:07:55 until 22.02.2025 10:34:41
+		Duration:	02:26:46
+		Location:	NULL NULL
+
+	EP3
+		Images:	252
+		Time:	22.02.2025 11:13:05 until 22.02.2025 11:19:11
+		Duration:	00:06:06
+		Location:	NULL NULL
+
+	EP2
+		Images:	1058
+		Time:	22.02.2025 10:40:56 until 22.02.2025 11:13:02
+		Duration:	00:32:06
+		Location:	NULL NULL
+
+	ISM1
+		Images:	2237
+		Time:	22.02.2025 04:39:02 until 22.02.2025 10:39:03
+		Duration:	06:00:01
+		Location:	NULL NULL
+
+	KPR1
+		Images:	822
+		Time:	22.02.2025 07:53:55 until 22.02.2025 10:37:31
+		Duration:	02:43:36
+		Location:	NULL NULL
+
+(9) - Station 5 ROWING
+	AGU2
+		Images:	425
+		Time:	22.02.2025 11:19:08 until 22.02.2025 11:57:44
+		Duration:	00:38:36
+		Location:	NULL NULL
+
+	EP4
+		Images:	939
+		Time:	22.02.2025 11:27:48 until 22.02.2025 12:00:12
+		Duration:	00:32:24
+		Location:	NULL NULL
+
+	JUS1
+		Images:	3849
+		Time:	22.02.2025 07:57:56 until 22.02.2025 11:26:48
+		Duration:	03:28:52
+		Location:	NULL NULL
+
+	PBA1
+		Images:	10231
+		Time:	22.02.2025 05:34:00 until 22.02.2025 11:24:28
+		Duration:	05:50:28
+		Location:	NULL NULL
+
+(10) - Station 7 SANDBAG LUNGES
+	ADS1
+	NAG1
+(11) - Station 8 WALL BALLS
+	AGU3
+		Images:	513
+		Time:	22.02.2025 12:02:15 until 22.02.2025 12:30:55
+		Duration:	00:28:40
+		Location:	NULL NULL
+
+	ANN1
+		Images:	3990
+		Time:	22.02.2025 06:56:21 until 22.02.2025 11:36:48
+		Duration:	04:40:27
+		Location:	NULL NULL
+
+	EP5
+		Images:	776
+		Time:	22.02.2025 12:09:19 until 22.02.2025 12:31:31
+		Duration:	00:22:12
+		Location:	NULL NULL
+
+	LOMA1
+		Images:	8667
+		Time:	22.02.2025 07:49:55 until 22.02.2025 12:07:08
+		Duration:	04:17:13
+		Location:	NULL NULL
+

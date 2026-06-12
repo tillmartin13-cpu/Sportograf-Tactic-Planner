@@ -1,0 +1,104 @@
+EventId: 14773
+Spots: 15
+Total Images: 90280
+Time:	11.07.2025 19:43:25 to 13.07.2025 07:50:28
+Duration: 1.12:07:03
+
+(1) - Start
+	BK1
+		Images:	497
+		Time:	12.07.2025 09:22:13 until 13.07.2025 07:38:04
+		Duration:	22:15:51
+		Location:	NULL NULL
+
+(2) - Bike - Lombardsbrücke
+	LARS1
+		Images:	5527
+		Time:	12.07.2025 08:10:29 until 12.07.2025 14:21:13
+		Duration:	06:10:44
+		Location:	NULL NULL
+
+	LARS1LS2
+		Images:	10682
+		Time:	12.07.2025 09:50:59 until 12.07.2025 14:11:02
+		Duration:	04:20:03
+		Location:	NULL NULL
+
+(3) - Bike - Baumwall
+	HT1
+		Images:	9633
+		Time:	12.07.2025 09:16:43 until 13.07.2025 06:44:26
+		Duration:	21:27:43
+		Location:	NULL NULL
+
+(4) - Bike - Fischmarkt
+	DWE1
+		Images:	7700
+		Time:	12.07.2025 09:42:17 until 13.07.2025 06:51:10
+		Duration:	21:08:53
+		Location:	NULL NULL
+
+	DWE1LS1
+		Images:	3764
+		Time:	12.07.2025 09:12:42 until 12.07.2025 14:17:42
+		Duration:	05:05:00
+		Location:	NULL NULL
+
+(5) - Run - Binnenalster
+	PLA1
+		Images:	5148
+		Time:	12.07.2025 09:17:23 until 13.07.2025 07:50:28
+		Duration:	22:33:05
+		Location:	NULL NULL
+
+(6) - Run - Alsterufer
+	GL1
+		Images:	7263
+		Time:	12.07.2025 09:22:34 until 13.07.2025 06:33:03
+		Duration:	21:10:29
+		Location:	NULL NULL
+
+(7) - Swim - Exit
+	PDD1
+		Images:	3686
+		Time:	12.07.2025 07:54:08 until 12.07.2025 13:36:22
+		Duration:	05:42:14
+		Location:	NULL NULL
+
+	JKOR1
+		Images:	11242
+		Time:	11.07.2025 19:43:25 until 12.07.2025 13:36:05
+		Duration:	17:52:40
+		Location:	NULL NULL
+
+(8) - Finish
+	MARM1
+		Images:	16952
+		Time:	12.07.2025 09:11:40 until 13.07.2025 07:27:12
+		Duration:	22:15:32
+		Location:	NULL NULL
+
+	PDD2
+		Images:	851
+		Time:	12.07.2025 13:50:43 until 12.07.2025 15:01:52
+		Duration:	01:11:09
+		Location:	NULL NULL
+
+	LARS1LS1
+		Images:	2668
+		Time:	12.07.2025 08:49:19 until 12.07.2025 14:56:48
+		Duration:	06:07:29
+		Location:	NULL NULL
+
+	JKOR2
+		Images:	3099
+		Time:	12.07.2025 13:52:19 until 12.07.2025 15:24:12
+		Duration:	01:31:53
+		Location:	NULL NULL
+
+	BK2
+		Images:	1561
+		Time:	12.07.2025 12:21:10 until 12.07.2025 13:50:36
+		Duration:	01:29:26
+		Location:	NULL NULL
+

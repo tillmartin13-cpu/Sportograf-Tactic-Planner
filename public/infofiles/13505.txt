@@ -1,0 +1,115 @@
+EventId: 13505
+Spots: 17
+Total Images: 43142
+Time:	13.07.2024 07:29:35 to 13.07.2025 11:48:39
+Duration: 365.04:19:04
+
+(1) - Swim - Transition zone Preparation Start Transition
+	CHTE1
+		Images:	78
+		Time:	13.07.2024 07:29:35 until 13.07.2025 07:23:45
+		Duration:	364.23:54:10
+		Location:	9.58869 123.73065
+
+	DCL1
+		Images:	207
+		Time:	13.07.2025 04:57:30 until 13.07.2025 06:19:38
+		Duration:	01:22:08
+		Location:	9.58869 123.73065
+
+	VMM1
+		Images:	135
+		Time:	13.07.2025 05:00:21 until 13.07.2025 06:17:35
+		Duration:	01:17:14
+		Location:	9.58869 123.73065
+
+(2) - Swim - Start
+	CHTE5
+		Images:	999
+		Time:	13.07.2025 05:45:23 until 13.07.2025 06:47:18
+		Duration:	01:01:55
+		Location:	9.58869 123.73065
+
+	VMM2
+		Images:	3811
+		Time:	13.07.2025 05:28:16 until 13.07.2025 06:49:37
+		Duration:	01:21:21
+		Location:	9.58869 123.73065
+
+(3) - Swim - Transition zone Transition zone exit
+	CHTE3
+		Images:	466
+		Time:	13.07.2025 06:47:20 until 13.07.2025 07:27:11
+		Duration:	00:39:51
+		Location:	9.58874 123.73075
+
+	VMM3
+		Images:	39
+		Time:	13.07.2025 07:02:51 until 13.07.2025 08:16:24
+		Duration:	01:13:33
+		Location:	9.58874 123.73075
+
+(4) - Finish
+	CHTE4
+		Images:	1936
+		Time:	13.07.2024 07:32:47 until 13.07.2025 11:41:44
+		Duration:	365.04:08:57
+		Location:	9.58880 123.73176
+
+	DCL3
+		Images:	644
+		Time:	13.07.2025 04:59:14 until 13.07.2025 11:48:39
+		Duration:	06:49:25
+		Location:	9.58880 123.73176
+
+	LMD2
+		Images:	113
+		Time:	13.07.2025 10:09:03 until 13.07.2025 10:31:23
+		Duration:	00:22:20
+		Location:	9.58880 123.73176
+
+	VMM4
+		Images:	7649
+		Time:	13.07.2025 07:09:44 until 13.07.2025 11:42:23
+		Duration:	04:32:39
+		Location:	9.58880 123.73176
+
+	VMM5LS1
+		Images:	2788
+		Time:	13.07.2025 07:09:49 until 13.07.2025 11:13:21
+		Duration:	04:03:32
+		Location:	9.58880 123.73176
+
+(5) - Run - 0,0 km
+	DCL2
+		Images:	7143
+		Time:	13.07.2025 06:29:57 until 13.07.2025 11:02:33
+		Duration:	04:32:36
+		Location:	9.58027 123.74666
+
+	DCL2LS1
+		Images:	5422
+		Time:	13.07.2025 06:40:34 until 13.07.2025 11:10:17
+		Duration:	04:29:43
+		Location:	9.58027 123.74666
+
+(6) - Bike - 5,0 km
+	LMD1
+		Images:	7840
+		Time:	13.07.2025 06:10:04 until 13.07.2025 10:30:44
+		Duration:	04:20:40
+		Location:	9.58472 123.7625
+
+	RPB1
+		Images:	3704
+		Time:	13.07.2025 06:10:03 until 13.07.2025 08:43:34
+		Duration:	02:33:31
+		Location:	9.58472 123.7625
+
+(7) - Ceremony
+	RPB2
+		Images:	168
+		Time:	13.07.2025 09:47:09 until 13.07.2025 10:08:01
+		Duration:	00:20:52
+		Location:	9.5878 123.73086
+

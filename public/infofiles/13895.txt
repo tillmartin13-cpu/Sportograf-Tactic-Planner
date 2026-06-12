@@ -1,0 +1,124 @@
+EventId: 13895
+Spots: 18
+Total Images: 134579
+Time:	31.05.2025 09:44:07 to 01.06.2025 13:05:47
+Duration: 1.03:21:40
+
+(1) - KM 2,7 Prolog
+	ADN2
+		Images:	18242
+		Time:	31.05.2025 09:55:56 until 31.05.2025 16:13:45
+		Duration:	06:17:49
+		Location:	47.51046 47.50963
+
+(2) - 119.5 km
+	ADN3
+		Images:	14453
+		Time:	01.06.2025 10:08:08 until 01.06.2025 12:58:33
+		Duration:	02:50:25
+		Location:	47.46266 10.22858
+
+(3) - Start Prolog
+	AKS1
+		Images:	5342
+		Time:	31.05.2025 10:18:03 until 31.05.2025 15:51:17
+		Duration:	05:33:14
+		Location:	47.50586 10.37635
+
+(4) - Impressions / Pano
+	AKS1DRONE1
+		Images:	32
+		Time:	31.05.2025 12:48:54 until 01.06.2025 10:32:28
+		Duration:	21:43:34
+		Location:	NULL NULL
+
+	PANO1
+(5) - KM 0,1 Prolog
+	AKS1LS2
+		Images:	1633
+		Time:	31.05.2025 10:46:59 until 31.05.2025 15:51:10
+		Duration:	05:04:11
+		Location:	47.50595 10.37507
+
+	AKS1LS1
+		Images:	1649
+		Time:	31.05.2025 10:54:10 until 31.05.2025 15:58:24
+		Duration:	05:04:14
+		Location:	47.50595 10.37507
+
+(6) - 79.0 km
+	AKS2
+		Images:	4933
+		Time:	01.06.2025 08:53:55 until 01.06.2025 11:14:05
+		Duration:	02:20:10
+		Location:	47.43358 10.16483
+
+(7) - 78.9 km
+	AKS2LS2
+		Images:	2130
+		Time:	01.06.2025 08:37:25 until 01.06.2025 10:56:03
+		Duration:	02:18:38
+		Location:	47.43315 10.16112
+
+	AKS2LS1
+		Images:	2199
+		Time:	01.06.2025 08:36:55 until 01.06.2025 10:55:34
+		Duration:	02:18:39
+		Location:	47.43315 10.16112
+
+(8) - Prolog KM2.2
+	FLOS1
+		Images:	13875
+		Time:	31.05.2025 10:03:04 until 31.05.2025 15:56:43
+		Duration:	05:53:39
+		Location:	47.50652 10.38663
+
+(9) - Finish
+	FLOS2
+		Images:	7238
+		Time:	01.06.2025 09:55:00 until 01.06.2025 13:05:47
+		Duration:	03:10:47
+		Location:	47.46215 10.22699
+
+(10) - KM 59/109
+	IH1
+		Images:	10890
+		Time:	01.06.2025 10:33:42 until 01.06.2025 12:18:43
+		Duration:	01:45:01
+		Location:	47.39637 10.13202
+
+(11) - 75.0 km
+	KVD1
+		Images:	2644
+		Time:	01.06.2025 08:28:55 until 01.06.2025 10:51:25
+		Duration:	02:22:30
+		Location:	47.43751 10.20681
+
+(12) - Finish Prolog
+	MJO1
+		Images:	7348
+		Time:	31.05.2025 09:44:07 until 31.05.2025 16:23:14
+		Duration:	06:39:07
+		Location:	47.51615 10.40704
+
+(13) - KM 47/97
+	MJO2
+		Images:	6974
+		Time:	01.06.2025 07:36:01 until 01.06.2025 11:41:06
+		Duration:	04:05:05
+		Location:	47.44112 10.01053
+
+(14) - 78.0 km
+	PRMI1
+		Images:	2472
+		Time:	01.06.2025 08:18:28 until 01.06.2025 11:24:14
+		Duration:	03:05:46
+		Location:	47.43740 10.17449
+
+(15) - KM 48/98
+	DASA1
+		Images:	32525
+		Time:	01.06.2025 07:11:14 until 01.06.2025 11:46:28
+		Duration:	04:35:14
+		Location:	47.43367 10.03354
+

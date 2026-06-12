@@ -1,0 +1,154 @@
+EventId: 14254
+Spots: 23
+Total Images: 101277
+Time:	17.08.2025 06:55:08 to 17.08.2025 18:30:28
+Duration: 11:35:20
+
+(1) - Swim Exit
+	TIM1
+		Images:	4268
+		Time:	17.08.2025 07:38:54 until 17.08.2025 11:30:30
+		Duration:	03:51:36
+		Location:	NULL NULL
+
+(2) - Swim - Impressions / Pano
+	REM1IMP1
+		Images:	115
+		Time:	17.08.2025 07:38:47 until 17.08.2025 08:20:59
+		Duration:	00:42:12
+		Location:	NULL NULL
+
+	PANO1
+(3) - Transition Zone
+	KMI1
+		Images:	5034
+		Time:	17.08.2025 06:55:08 until 17.08.2025 11:34:58
+		Duration:	04:39:50
+		Location:	NULL NULL
+
+(4) - Bike - 0,7 km
+	SLE1
+		Images:	943
+		Time:	17.08.2025 07:06:06 until 17.08.2025 09:11:29
+		Duration:	02:05:23
+		Location:	NULL NULL
+
+(5) - Run - 11,5 km
+	ROH1
+		Images:	8999
+		Time:	17.08.2025 07:12:03 until 17.08.2025 11:57:40
+		Duration:	04:45:37
+		Location:	NULL NULL
+
+	ROH1LS2
+		Images:	3193
+		Time:	17.08.2025 07:53:37 until 17.08.2025 11:57:52
+		Duration:	04:04:15
+		Location:	NULL NULL
+
+	ROH1LS1
+		Images:	4942
+		Time:	17.08.2025 07:36:20 until 17.08.2025 11:53:16
+		Duration:	04:16:56
+		Location:	NULL NULL
+
+(6) - Bike - 14,7 km
+	NH1
+		Images:	2077
+		Time:	17.08.2025 08:40:26 until 17.08.2025 09:31:13
+		Duration:	00:50:47
+		Location:	NULL NULL
+
+(7) - Bike - 66,6 km
+	NH3
+		Images:	5539
+		Time:	17.08.2025 11:16:51 until 17.08.2025 15:43:59
+		Duration:	04:27:08
+		Location:	NULL NULL
+
+(8) - Bike - 26,4 km
+	NH2
+		Images:	681
+		Time:	17.08.2025 09:31:13 until 17.08.2025 10:24:05
+		Duration:	00:52:52
+		Location:	NULL NULL
+
+(9) - Bike - 29,9 km / 76,5 km
+	ROH2
+		Images:	8387
+		Time:	17.08.2025 09:40:40 until 17.08.2025 14:57:42
+		Duration:	05:17:02
+		Location:	NULL NULL
+
+	ROH2LS2
+		Images:	3447
+		Time:	17.08.2025 11:59:35 until 17.08.2025 14:40:05
+		Duration:	02:40:30
+		Location:	NULL NULL
+
+	ROH2LS3
+		Images:	5562
+		Time:	17.08.2025 09:38:17 until 17.08.2025 14:40:14
+		Duration:	05:01:57
+		Location:	NULL NULL
+
+(10) - Bike - Impressions / Pano
+	ROH2DRONE1
+		Images:	14
+		Time:	17.08.2025 15:06:56 until 17.08.2025 15:08:36
+		Duration:	00:01:40
+		Location:	NULL NULL
+
+(11) - Bike - 29,8 km / 76,4 km
+	ROH2LS1
+		Images:	3150
+		Time:	17.08.2025 11:55:45 until 17.08.2025 14:30:43
+		Duration:	02:34:58
+		Location:	NULL NULL
+
+(12) - Run - 1,1 km
+	KMI2
+		Images:	4601
+		Time:	17.08.2025 11:38:18 until 17.08.2025 17:08:48
+		Duration:	05:30:30
+		Location:	NULL NULL
+
+(13) - Run - 1,5 km
+	TIM2
+		Images:	8713
+		Time:	17.08.2025 12:01:08 until 17.08.2025 17:54:57
+		Duration:	05:53:49
+		Location:	NULL NULL
+
+(14) - Run - 4,1 km
+	SLE2
+		Images:	11796
+		Time:	17.08.2025 10:11:20 until 17.08.2025 17:48:40
+		Duration:	07:37:20
+		Location:	NULL NULL
+
+	SLE2LS1
+		Images:	6090
+		Time:	17.08.2025 09:38:23 until 17.08.2025 17:22:15
+		Duration:	07:43:52
+		Location:	NULL NULL
+
+(15) - Finish
+	REM1
+		Images:	10238
+		Time:	17.08.2025 09:23:52 until 17.08.2025 18:25:02
+		Duration:	09:01:10
+		Location:	NULL NULL
+
+	REM1LS1
+		Images:	1847
+		Time:	17.08.2025 08:59:59 until 17.08.2025 18:30:28
+		Duration:	09:30:29
+		Location:	NULL NULL
+
+	REM1LS2
+		Images:	1641
+		Time:	17.08.2025 08:47:41 until 17.08.2025 18:26:40
+		Duration:	09:38:59
+		Location:	NULL NULL
+

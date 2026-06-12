@@ -1,0 +1,155 @@
+EventId: 14629
+Spots: 23
+Total Images: 77051
+Time:	12.07.2025 07:05:39 to 13.07.2025 10:08:55
+Duration: 1.03:03:16
+
+(1) - 12 - Barbed Wire Crawl
+	LOT1
+		Images:	7667
+		Time:	12.07.2025 08:53:20 until 12.07.2025 15:42:19
+		Duration:	06:48:59
+		Location:	52.88525 -0.77834
+
+	BKO2
+		Images:	672
+		Time:	12.07.2025 11:43:11 until 12.07.2025 12:00:14
+		Duration:	00:17:03
+		Location:	52.88525 -0.77834
+
+(2) - 13 - Inverted Wall
+	MSO1
+		Images:	8888
+		Time:	12.07.2025 08:57:15 until 13.07.2025 08:49:59
+		Duration:	23:52:44
+		Location:	52.88516 -0.77649
+
+	BKO3
+		Images:	342
+		Time:	12.07.2025 12:02:42 until 12.07.2025 12:18:04
+		Duration:	00:15:22
+		Location:	52.88516 -0.77649
+
+(3) - 14 - Monkey Bars
+	DANO1
+		Images:	9470
+		Time:	12.07.2025 08:36:49 until 12.07.2025 15:15:48
+		Duration:	06:38:59
+		Location:	52.88531 -0.77411
+
+	BKO4
+		Images:	863
+		Time:	12.07.2025 12:23:15 until 12.07.2025 12:41:51
+		Duration:	00:18:36
+		Location:	52.88531 -0.77411
+
+(4) - 15 - Atlas Carry
+	MLI1
+		Images:	6746
+		Time:	12.07.2025 08:17:23 until 12.07.2025 15:18:57
+		Duration:	07:01:34
+		Location:	52.88326 -0.77231
+
+	BKO5
+		Images:	525
+		Time:	12.07.2025 12:46:57 until 12.07.2025 13:08:19
+		Duration:	00:21:22
+		Location:	52.88326 -0.77231
+
+(5) - 16 - Sandbag Carry
+	KSTH1
+		Images:	3906
+		Time:	12.07.2025 07:24:42 until 12.07.2025 15:23:44
+		Duration:	07:59:02
+		Location:	52.88422 -0.77305
+
+	BKO6
+		Images:	283
+		Time:	12.07.2025 13:10:28 until 12.07.2025 13:25:31
+		Duration:	00:15:03
+		Location:	52.88422 -0.77305
+
+(6) - 20 - Dunk Wall
+	CUP1
+		Images:	10499
+		Time:	12.07.2025 09:03:28 until 12.07.2025 15:40:19
+		Duration:	06:36:51
+		Location:	52.88251 -0.77558
+
+	BKO7
+		Images:	774
+		Time:	12.07.2025 13:33:40 until 12.07.2025 13:51:43
+		Duration:	00:18:03
+		Location:	52.88251 -0.77558
+
+(7) - 33 - A Frame
+	PHA1
+		Images:	14829
+		Time:	12.07.2025 07:51:16 until 12.07.2025 17:34:37
+		Duration:	09:43:21
+		Location:	52.89057 -0.77023
+
+	BKO8
+		Images:	1130
+		Time:	12.07.2025 14:08:24 until 12.07.2025 14:24:56
+		Duration:	00:16:32
+		Location:	52.89057 -0.77023
+
+(8) - 35 - Fire Jump
+	APDA1
+		Images:	5182
+		Time:	12.07.2025 07:05:39 until 13.07.2025 08:09:11
+		Duration:	1.01:03:32
+		Location:	52.89065 -0.77362
+
+	LOT2
+		Images:	21
+		Time:	12.07.2025 15:33:17 until 12.07.2025 15:34:08
+		Duration:	00:00:51
+		Location:	52.89065 -0.77362
+
+	BKO9
+		Images:	576
+		Time:	12.07.2025 14:27:19 until 12.07.2025 14:40:38
+		Duration:	00:13:19
+		Location:	52.89065 -0.77362
+
+(9) - Finish
+	BKO1LS1
+		Images:	1255
+		Time:	12.07.2025 10:05:26 until 12.07.2025 17:39:51
+		Duration:	07:34:25
+		Location:	52.89152 -0.77322
+
+	CUP2LS1
+		Images:	1284
+		Time:	12.07.2025 09:48:21 until 12.07.2025 17:38:05
+		Duration:	07:49:44
+		Location:	52.89152 -0.77322
+
+(10) - Hero Wall
+	STA1
+		Images:	1510
+		Time:	12.07.2025 08:07:57 until 12.07.2025 17:39:08
+		Duration:	09:31:11
+		Location:	52.89068 -0.77371
+
+	BKO10
+		Images:	212
+		Time:	12.07.2025 14:47:35 until 12.07.2025 15:09:20
+		Duration:	00:21:45
+		Location:	52.89068 -0.77371
+
+(11) - Impressions / Pano
+	BKO11
+		Images:	397
+		Time:	12.07.2025 10:23:00 until 13.07.2025 09:58:56
+		Duration:	23:35:56
+		Location:	52.89152 -0.77322
+
+	BKO11DRONE1
+		Images:	19
+		Time:	12.07.2025 11:14:44 until 13.07.2025 10:08:55
+		Duration:	22:54:11
+		Location:	52.89152 -0.77322
+

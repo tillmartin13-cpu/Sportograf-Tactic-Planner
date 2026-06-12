@@ -1,0 +1,183 @@
+EventId: 14872
+Spots: 26
+Total Images: 28107
+Time:	31.08.2024 09:14:23 to 31.08.2025 16:24:41
+Duration: 365.07:10:18
+
+(1) - PARA RACE
+	BEB1
+		Images:	320
+		Time:	30.08.2025 21:09:17 until 31.08.2025 16:24:41
+		Duration:	19:15:24
+		Location:	46.04979 14.50419
+
+(2) - Obstacle 25 FIRE JUMP
+	BEB1LS1
+		Images:	2385
+		Time:	30.08.2025 20:22:49 until 31.08.2025 13:14:53
+		Duration:	16:52:04
+		Location:	46.04979 14.50419
+
+	NAT1
+		Images:	1190
+		Time:	31.08.2025 08:57:27 until 31.08.2025 13:15:19
+		Duration:	04:17:52
+		Location:	46.04979 14.50419
+
+	NAT1LS1
+		Images:	4728
+		Time:	31.08.2024 09:14:23 until 31.08.2024 12:08:03
+		Duration:	02:53:40
+		Location:	46.04979 14.50419
+
+(3) - SPRINT - FIRE JUMP
+	BEB1LS2
+		Images:	425
+		Time:	31.08.2025 14:23:13 until 31.08.2025 16:05:38
+		Duration:	01:42:25
+		Location:	46.04979 14.50419
+
+(4) - Obstacle 17 VERTICAL NET
+	BRN1
+		Images:	2796
+		Time:	30.08.2025 19:39:18 until 31.08.2025 12:41:04
+		Duration:	17:01:46
+		Location:	46.04560 14.51191
+
+(5) - Obstacle 9 SAND BAG
+	BRN1LS1
+		Images:	513
+		Time:	31.08.2025 08:58:53 until 31.08.2025 12:47:13
+		Duration:	03:48:20
+		Location:	46.04539 14.51228
+
+(6) - Obstacle 17 SPRINT - VERTICAL NET
+	BRN2
+		Images:	1444
+		Time:	31.08.2025 14:29:42 until 31.08.2025 15:53:17
+		Duration:	01:23:35
+		Location:	46.04560 14.51191
+
+(7) - SPRINT - BEFORE VERTICAL NET
+	BRN2LS1
+		Images:	356
+		Time:	31.08.2025 13:50:29 until 31.08.2025 15:53:00
+		Duration:	02:02:31
+		Location:	46.04601 14.51160
+
+(8) - Obstacle 10 STAIRWAY TO SPARTA
+	DDF1
+		Images:	963
+		Time:	30.08.2025 20:30:39 until 31.08.2025 12:37:17
+		Duration:	16:06:38
+		Location:	46.04677 14.51114
+
+(9) - AFTER STAIRWAY TO SPARTA
+	DDF1LS1
+		Images:	460
+		Time:	31.08.2025 09:04:43 until 31.08.2025 12:40:44
+		Duration:	03:36:01
+		Location:	46.04677 14.51114
+
+(10) - Obstacle 10 SPRINT - STAIRWAY TO SPARTA
+	DDF2
+		Images:	475
+		Time:	30.08.2025 21:17:30 until 31.08.2025 15:51:14
+		Duration:	18:33:44
+		Location:	46.04677 14.51114
+
+(11) - SPRINT - AFTER STAIRWAY TO SPARTA
+	DDF2LS1
+		Images:	236
+		Time:	31.08.2025 14:03:13 until 31.08.2025 16:03:03
+		Duration:	01:59:50
+		Location:	46.04677 14.51114
+
+(12) - Impressions / Pano
+	DDF1DRONE1
+		Images:	20
+		Time:	31.08.2025 11:19:40 until 31.08.2025 11:32:37
+		Duration:	00:12:57
+		Location:	46.04669 14.51123
+
+(13) - Obstacle 24 MULTIRIG
+	FUP1
+		Images:	1315
+		Time:	31.08.2025 09:39:08 until 31.08.2025 13:13:35
+		Duration:	03:34:27
+		Location:	46.04976 14.50409
+
+(14) - Obstacle 24 SPRINT - MULTIRIG
+	FUP2
+		Images:	546
+		Time:	31.08.2025 14:43:17 until 31.08.2025 16:23:28
+		Duration:	01:40:11
+		Location:	46.04976 14.50409
+
+(15) - Obstacle 11 SLACK LINE
+	GMA1
+		Images:	1937
+		Time:	31.08.2025 09:25:50 until 31.08.2025 12:30:01
+		Duration:	03:04:11
+		Location:	46.04811 14.50905
+
+(16) - Obstacle 23 SPRINT - FRAME A
+	GMA2
+		Images:	1687
+		Time:	31.08.2025 13:29:21 until 31.08.2025 16:10:14
+		Duration:	02:40:53
+		Location:	46.04978 14.50376
+
+(17) - Herotent
+	GIBE1
+		Images:	811
+		Time:	31.08.2025 09:03:16 until 31.08.2025 13:18:06
+		Duration:	04:14:50
+		Location:	46.04963 14.50453
+
+	GIBE2
+		Images:	251
+		Time:	31.08.2025 14:58:45 until 31.08.2025 16:05:06
+		Duration:	01:06:21
+		Location:	46.04963 14.50453
+
+(18) - Obstacle 12 CHAIN CARRY
+	MAGA1
+		Images:	1264
+		Time:	31.08.2025 09:22:31 until 31.08.2025 12:45:27
+		Duration:	03:22:56
+		Location:	46.04740 14.50764
+
+	MAGA1LS1
+		Images:	1091
+		Time:	30.08.2025 18:41:23 until 31.08.2025 13:41:09
+		Duration:	18:59:46
+		Location:	46.04740 14.50764
+
+(19) - Obstacle 1 SPRINT - ATLAS CARRY
+	MAGA2
+		Images:	489
+		Time:	31.08.2025 14:31:21 until 31.08.2025 16:02:30
+		Duration:	01:31:09
+		Location:	46.04628 14.51128
+
+(20) - SPRINT - BEFORE ATLAS CARRY
+	MAGA2LS1
+		Images:	355
+		Time:	31.08.2025 13:57:19 until 31.08.2025 16:01:45
+		Duration:	02:04:26
+		Location:	46.04628 14.51128
+
+(21) - Obstacle 25 SPRINT - FIRE JUMP
+	NAT2
+		Images:	759
+		Time:	30.08.2025 20:55:04 until 31.08.2025 16:24:15
+		Duration:	19:29:11
+		Location:	46.04979 14.50419
+
+	NAT1LS2
+		Images:	1284
+		Time:	31.08.2024 12:18:49 until 31.08.2024 16:05:41
+		Duration:	03:46:52
+		Location:	46.04979 14.50419
+

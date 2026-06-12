@@ -1,0 +1,169 @@
+EventId: 13854
+Spots: 26
+Total Images: 66947
+Time:	09.05.2025 07:18:53 to 18.05.2025 16:40:08
+Duration: 9.09:21:15
+
+(1) - Impressions / Pano
+	EVL1DRONE1
+		Images:	15
+		Time:	09.05.2025 07:18:53 until 09.05.2025 14:38:52
+		Duration:	07:19:59
+		Location:	NULL NULL
+
+	PANO1
+(2) - Start
+	DABI1
+		Images:	1926
+		Time:	18.05.2025 07:10:49 until 18.05.2025 08:13:39
+		Duration:	01:02:50
+		Location:	NULL NULL
+
+	DABI1LS1
+		Images:	5260
+		Time:	18.05.2025 07:10:49 until 18.05.2025 16:40:08
+		Duration:	09:29:19
+		Location:	NULL NULL
+
+(3) - 5,9 km tous
+	RONS1
+		Images:	2393
+		Time:	17.05.2025 20:54:01 until 18.05.2025 09:34:32
+		Duration:	12:40:31
+		Location:	NULL NULL
+
+	RONS1LS2
+		Images:	984
+		Time:	18.05.2025 07:17:52 until 18.05.2025 07:52:45
+		Duration:	00:34:53
+		Location:	NULL NULL
+
+	RONS1LS1
+		Images:	2554
+		Time:	17.05.2025 20:57:04 until 18.05.2025 08:29:29
+		Duration:	11:32:25
+		Location:	NULL NULL
+
+(4) - 16,0 km tous
+	MOG1
+		Images:	2616
+		Time:	18.05.2025 04:55:35 until 18.05.2025 09:06:39
+		Duration:	04:11:04
+		Location:	NULL NULL
+
+	MOG1LS2
+		Images:	1670
+		Time:	18.05.2025 07:08:49 until 18.05.2025 11:28:33
+		Duration:	04:19:44
+		Location:	NULL NULL
+
+	MOG1LS1
+		Images:	1584
+		Time:	18.05.2025 07:30:54 until 18.05.2025 10:56:30
+		Duration:	03:25:36
+		Location:	NULL NULL
+
+(5) - 34,0 km tous
+	JBAU1
+		Images:	3773
+		Time:	18.05.2025 07:40:43 until 18.05.2025 11:03:47
+		Duration:	03:23:04
+		Location:	NULL NULL
+
+(6) - 63,0 km tous / 118,1km Medi / 171,5 Grand
+	MOG2
+		Images:	3509
+		Time:	18.05.2025 11:36:52 until 18.05.2025 16:25:16
+		Duration:	04:48:24
+		Location:	NULL NULL
+
+	MOG2LS2
+		Images:	3325
+		Time:	18.05.2025 11:28:49 until 18.05.2025 16:27:22
+		Duration:	04:58:33
+		Location:	NULL NULL
+
+	MOG2LS1
+		Images:	3040
+		Time:	18.05.2025 10:57:47 until 18.05.2025 16:29:25
+		Duration:	05:31:38
+		Location:	NULL NULL
+
+(7) - 66,5 km Medi / 119,2km Grand
+	ISA1
+		Images:	3578
+		Time:	18.05.2025 09:36:36 until 18.05.2025 13:35:04
+		Duration:	03:58:28
+		Location:	NULL NULL
+
+	ISA1LS1
+		Images:	2201
+		Time:	18.05.2025 09:08:52 until 18.05.2025 13:34:57
+		Duration:	04:26:05
+		Location:	NULL NULL
+
+(8) - 73,0 km Medi / 125,7km Grand
+	EVL1
+		Images:	3897
+		Time:	18.05.2025 07:26:45 until 18.05.2025 14:14:05
+		Duration:	06:47:20
+		Location:	NULL NULL
+
+	EVL1LS2
+		Images:	2000
+		Time:	18.05.2025 07:33:40 until 18.05.2025 14:13:53
+		Duration:	06:40:13
+		Location:	NULL NULL
+
+	EVL1LS1
+		Images:	1317
+		Time:	18.05.2025 07:26:45 until 18.05.2025 14:10:33
+		Duration:	06:43:48
+		Location:	NULL NULL
+
+(9) - 96,9 km Medi / 150,2km Grand
+	LBO1
+		Images:	3335
+		Time:	18.05.2025 06:39:46 until 18.05.2025 15:18:17
+		Duration:	08:38:31
+		Location:	NULL NULL
+
+(10) - 99,1 km Medi / 153,0km Grand
+	JBAU2
+		Images:	3286
+		Time:	18.05.2025 11:05:22 until 18.05.2025 16:35:09
+		Duration:	05:29:47
+		Location:	NULL NULL
+
+(11) - 107,0 km Medi / 160,6 Grand
+	RONS2LS1
+		Images:	1856
+		Time:	18.05.2025 10:26:04 until 18.05.2025 15:51:43
+		Duration:	05:25:39
+		Location:	NULL NULL
+
+	RONS2LS2
+		Images:	1926
+		Time:	18.05.2025 08:59:25 until 18.05.2025 15:42:07
+		Duration:	06:42:42
+		Location:	NULL NULL
+
+	RONS2
+		Images:	4744
+		Time:	18.05.2025 09:45:22 until 18.05.2025 15:53:31
+		Duration:	06:08:09
+		Location:	NULL NULL
+
+(12) - Finish
+	DABI2LS1
+		Images:	2824
+		Time:	18.05.2025 10:41:30 until 18.05.2025 16:39:32
+		Duration:	05:58:02
+		Location:	NULL NULL
+
+	DABI2
+		Images:	3334
+		Time:	18.05.2025 09:41:41 until 18.05.2025 16:40:08
+		Duration:	06:58:27
+		Location:	NULL NULL
+

@@ -1,0 +1,100 @@
+EventId: 13847
+Spots: 15
+Total Images: 44955
+Time:	22.08.2025 13:05:47 to 24.08.2025 12:42:13
+Duration: 1.23:36:26
+
+(1) - 72,0 km
+	ADS1
+		Images:	2789
+		Time:	24.08.2025 08:53:00 until 24.08.2025 10:20:51
+		Duration:	01:27:51
+		Location:	48.35513 17.18338
+
+(2) - 3,0 km
+	EH1
+		Images:	1808
+		Time:	24.08.2025 06:37:01 until 24.08.2025 07:27:30
+		Duration:	00:50:29
+		Location:	48.14031 17.10454
+
+	EH1LS1
+		Images:	543
+		Time:	24.08.2025 07:06:49 until 24.08.2025 07:59:02
+		Duration:	00:52:13
+		Location:	48.14031 17.10454
+
+(3) - 108,0 km
+	EH2
+		Images:	7144
+		Time:	24.08.2025 08:52:12 until 24.08.2025 12:02:07
+		Duration:	03:09:55
+		Location:	48.19051 17.09789
+
+	EH2LS1
+		Images:	4393
+		Time:	24.08.2025 08:28:06 until 24.08.2025 12:18:44
+		Duration:	03:50:38
+		Location:	48.19051 17.09789
+
+	EH2LS2
+		Images:	1177
+		Time:	24.08.2025 08:41:34 until 24.08.2025 12:35:39
+		Duration:	03:54:05
+		Location:	48.19051 17.09789
+
+(4) - 80,0 km
+	LU1
+		Images:	1945
+		Time:	22.08.2025 13:05:47 until 24.08.2025 12:16:38
+		Duration:	1.23:10:51
+		Location:	48.30205 17.25480
+
+	LU1LS1
+		Images:	1547
+		Time:	24.08.2025 09:06:33 until 24.08.2025 10:50:01
+		Duration:	01:43:28
+		Location:	48.30205 17.25480
+
+(5) - Start
+	MSI1
+		Images:	1341
+		Time:	24.08.2025 06:24:14 until 24.08.2025 07:16:57
+		Duration:	00:52:43
+		Location:	48.14027 17.12319
+
+	MSI1LS1
+		Images:	1026
+		Time:	24.08.2025 06:45:36 until 24.08.2025 07:18:13
+		Duration:	00:32:37
+		Location:	48.14027 17.12319
+
+(6) - Finish
+	MSI2
+		Images:	5928
+		Time:	24.08.2025 08:34:00 until 24.08.2025 12:42:13
+		Duration:	04:08:13
+		Location:	48.18397 17.09906
+
+	MSI2LS1
+		Images:	5924
+		Time:	24.08.2025 08:31:38 until 24.08.2025 12:40:32
+		Duration:	04:08:54
+		Location:	48.18397 17.09906
+
+(7) - 110,0 km
+	MSI2LS2
+		Images:	2705
+		Time:	24.08.2025 08:44:43 until 24.08.2025 12:15:25
+		Duration:	03:30:42
+		Location:	48.18417 17.09907
+
+(8) - 46,0 km
+	NAG1
+		Images:	6685
+		Time:	24.08.2025 07:35:20 until 24.08.2025 11:54:19
+		Duration:	04:18:59
+		Location:	48.24853 17.14437
+
+(9) - Impressions / Pano
+	PANO1

@@ -1,0 +1,295 @@
+EventId: 15966
+Spots: 45
+Total Images: 286013
+Time:	01.01.0001 23:00:00 to 04.05.2025 13:57:37
+Duration: 739373.14:57:37
+
+(1) - Impressions / Pano
+	PANO1
+(2) - 0.0 km MSC 1 John
+	JSPRU1
+		Images:	2867
+		Time:	04.05.2025 07:48:29 until 04.05.2025 09:14:47
+		Duration:	01:26:18
+		Location:	NULL NULL
+
+(3) - 0.0 km Pre Fin John
+	JSPRU2
+		Images:	3380
+		Time:	04.05.2025 10:45:46 until 04.05.2025 13:20:18
+		Duration:	02:34:32
+		Location:	NULL NULL
+
+(4) - 0.0 km MSC 1 Cassidy
+	CTSAN1
+		Images:	1697
+		Time:	04.05.2025 07:44:04 until 04.05.2025 09:14:08
+		Duration:	01:30:04
+		Location:	NULL NULL
+
+(5) - 0.0 km Pre Fin Cassidy
+	CTSAN2
+		Images:	2306
+		Time:	04.05.2025 10:43:20 until 04.05.2025 13:26:42
+		Duration:	02:43:22
+		Location:	NULL NULL
+
+(6) - 0.0 km MSC 2 Dice
+	DWON1
+		Images:	5154
+		Time:	04.05.2025 08:06:08 until 04.05.2025 10:49:22
+		Duration:	02:43:14
+		Location:	NULL NULL
+
+(7) - 0.0 km MSC 8 Dice
+	DWON2
+		Images:	1367
+		Time:	04.05.2025 12:15:33 until 04.05.2025 13:57:37
+		Duration:	01:42:04
+		Location:	NULL NULL
+
+(8) - 0.0 km MSC 2 Hammad
+	HKHAL1
+		Images:	17216
+		Time:	04.05.2025 08:02:16 until 04.05.2025 10:45:34
+		Duration:	02:43:18
+		Location:	NULL NULL
+
+(9) - 0.0 km MSC 8 Hammad
+	HKHAL2
+		Images:	2614
+		Time:	04.05.2025 12:16:10 until 04.05.2025 13:43:47
+		Duration:	01:27:37
+		Location:	NULL NULL
+
+(10) - 0.0 km MSC 4 Wayne
+	WZETO1
+		Images:	2453
+		Time:	04.05.2025 08:20:38 until 04.05.2025 09:36:16
+		Duration:	01:15:38
+		Location:	NULL NULL
+
+(11) - 0.0 km MSC 4 trigger
+	WZETO1LS1
+		Images:	5451
+		Time:	04.05.2025 08:53:54 until 04.05.2025 10:31:02
+		Duration:	01:37:08
+		Location:	NULL NULL
+
+(12) - 0.0 km MSC 5 Bryon
+	BJOHN1
+		Images:	8833
+		Time:	04.05.2025 07:37:00 until 04.05.2025 11:13:36
+		Duration:	03:36:36
+		Location:	NULL NULL
+
+(13) - none
+	BJOHN2
+	HALLE2
+		Images:	6052
+		Time:	04.05.2025 11:13:02 until 04.05.2025 13:32:21
+		Duration:	02:19:19
+		Location:	NULL NULL
+
+	KYIP2
+		Images:	4922
+		Time:	04.05.2025 08:16:47 until 04.05.2025 13:37:18
+		Duration:	05:20:31
+		Location:	NULL NULL
+
+	VRYAB2
+		Images:	12467
+		Time:	04.05.2025 09:27:34 until 04.05.2025 13:55:00
+		Duration:	04:27:26
+		Location:	NULL NULL
+
+	VRYAB1LS2
+		Images:	11063
+		Time:	04.05.2025 09:22:51 until 04.05.2025 13:16:51
+		Duration:	03:54:00
+		Location:	NULL NULL
+
+	ACHER2
+		Images:	9159
+		Time:	04.05.2025 09:28:34 until 04.05.2025 13:31:56
+		Duration:	04:03:22
+		Location:	NULL NULL
+
+	ACHER1LS2
+		Images:	11940
+		Time:	04.05.2025 09:47:03 until 04.05.2025 13:09:55
+		Duration:	03:22:52
+		Location:	NULL NULL
+
+	SGENT2
+		Images:	5578
+		Time:	04.05.2025 09:21:29 until 04.05.2025 11:22:22
+		Duration:	02:00:53
+		Location:	NULL NULL
+
+	SGENT3
+		Images:	4327
+		Time:	04.05.2025 11:41:38 until 04.05.2025 12:54:04
+		Duration:	01:12:26
+		Location:	NULL NULL
+
+	ERSU1
+		Images:	5273
+		Time:	01.01.0001 23:00:00 until 04.05.2025 09:22:46
+		Duration:	739373.10:22:46
+		Location:	NULL NULL
+
+	ERSU2
+		Images:	15779
+		Time:	04.05.2025 09:32:45 until 04.05.2025 13:15:39
+		Duration:	03:42:54
+		Location:	NULL NULL
+
+	BRIAN1
+		Images:	713
+		Time:	04.05.2025 07:46:02 until 04.05.2025 12:39:06
+		Duration:	04:53:04
+		Location:	NULL NULL
+
+	HOSA1
+		Images:	1043
+		Time:	04.05.2025 07:05:14 until 04.05.2025 12:50:43
+		Duration:	05:45:29
+		Location:	NULL NULL
+
+	FERNA1
+		Images:	4761
+		Time:	03.05.2025 23:28:49 until 04.05.2025 13:22:17
+		Duration:	13:53:28
+		Location:	NULL NULL
+
+	JENN1
+		Images:	924
+		Time:	04.05.2025 08:02:02 until 04.05.2025 13:21:50
+		Duration:	05:19:48
+		Location:	NULL NULL
+
+	VUZOV1
+		Images:	954
+		Time:	04.05.2025 07:30:21 until 04.05.2025 13:42:03
+		Duration:	06:11:42
+		Location:	NULL NULL
+
+	BKOHL1
+		Images:	8319
+		Time:	04.05.2025 07:56:46 until 04.05.2025 11:46:39
+		Duration:	03:49:53
+		Location:	NULL NULL
+
+(14) - 0.0 km MSC 5 Halldene
+	HALLE1
+		Images:	17299
+		Time:	04.05.2025 06:36:55 until 04.05.2025 11:13:02
+		Duration:	04:36:07
+		Location:	NULL NULL
+
+(15) - 0.0 km MSC 6 Diego
+	DGUIL1
+		Images:	17840
+		Time:	04.05.2025 07:23:25 until 04.05.2025 13:37:49
+		Duration:	06:14:24
+		Location:	NULL NULL
+
+(16) - 0.0 km MSC 6 Ken
+	KENNG1
+		Images:	17328
+		Time:	04.05.2025 07:35:19 until 04.05.2025 13:35:08
+		Duration:	05:59:49
+		Location:	NULL NULL
+
+(17) - 0.0 km MSC 6 Aaron
+	AKELL1
+		Images:	7414
+		Time:	04.05.2025 07:37:19 until 04.05.2025 13:40:30
+		Duration:	06:03:11
+		Location:	NULL NULL
+
+(18) - 0.0 km MSC 7 Key Yip
+	KYIP1
+		Images:	2295
+		Time:	04.05.2025 07:28:33 until 04.05.2025 10:36:18
+		Duration:	03:07:45
+		Location:	NULL NULL
+
+(19) - 0.0 km MSC 7 Frankie
+	FCHEU1
+		Images:	7758
+		Time:	04.05.2025 07:51:11 until 04.05.2025 13:48:39
+		Duration:	05:57:28
+		Location:	NULL NULL
+
+(20) - 0.0 km Pre Fin Dave
+	DROBI1
+		Images:	18255
+		Time:	04.05.2025 06:36:34 until 04.05.2025 12:12:33
+		Duration:	05:35:59
+		Location:	NULL NULL
+
+(21) - 0.0 km Pre Fin Joe
+	JBUCC1
+		Images:	16966
+		Time:	04.05.2025 06:36:34 until 04.05.2025 13:19:52
+		Duration:	06:43:18
+		Location:	NULL NULL
+
+(22) - 0.0 km Fin Vasiliy
+	VRYAB1
+		Images:	4735
+		Time:	04.05.2025 07:51:05 until 04.05.2025 09:25:41
+		Duration:	01:34:36
+		Location:	NULL NULL
+
+(23) - 0.0 km Trigger ground
+	VRYAB1LS1
+		Images:	3957
+		Time:	04.05.2025 07:52:26 until 04.05.2025 09:15:31
+		Duration:	01:23:05
+		Location:	NULL NULL
+
+(24) - 0.0 km Fin Anatoliy
+	ACHER1
+		Images:	3200
+		Time:	04.05.2025 07:25:55 until 04.05.2025 09:24:48
+		Duration:	01:58:53
+		Location:	NULL NULL
+
+(25) - 0.0 km trigger right
+	ACHER1LS1
+		Images:	4009
+		Time:	04.05.2025 07:53:48 until 04.05.2025 09:16:04
+		Duration:	01:22:16
+		Location:	NULL NULL
+
+(26) - 0.0 km Medals Raymond
+	RAHUI1
+		Images:	1596
+		Time:	04.05.2025 06:27:39 until 04.05.2025 12:26:17
+		Duration:	05:58:38
+		Location:	NULL NULL
+
+(27) - 0.0 km trigger pre
+	SGENT1
+		Images:	3964
+		Time:	04.05.2025 07:48:17 until 04.05.2025 09:16:58
+		Duration:	01:28:41
+		Location:	NULL NULL
+
+(28) - 0.0 km Medals Manuel12:15
+	MANU1
+		Images:	2171
+		Time:	04.05.2025 07:35:07 until 04.05.2025 12:14:58
+		Duration:	04:39:51
+		Location:	NULL NULL
+
+(29) - 0.0 km Medals Haley 12:45
+	HALEY1
+		Images:	614
+		Time:	04.05.2025 07:30:34 until 04.05.2025 12:43:52
+		Duration:	05:13:18
+		Location:	NULL NULL
+

@@ -1,0 +1,172 @@
+EventId: 15710
+Spots: 26
+Total Images: 135096
+Time:	27.04.2025 07:11:57 to 27.04.2025 15:34:12
+Duration: 08:22:15
+
+(1) - Start Marathon
+	UL1
+		Images:	549
+		Time:	27.04.2025 07:54:23 until 27.04.2025 09:23:48
+		Duration:	01:29:25
+		Location:	50.91994 14.07817
+
+(2) - Königstein (M: 2,0 km | HM: -)
+	THO1
+		Images:	1760
+		Time:	27.04.2025 07:32:41 until 27.04.2025 09:43:35
+		Duration:	02:10:54
+		Location:	50.92686 14.05340
+
+	THO1LS1
+		Images:	626
+		Time:	27.04.2025 09:21:00 until 27.04.2025 09:40:16
+		Duration:	00:19:16
+		Location:	50.92686 14.05340
+
+(3) - Rathen (M: 5,9 km | HM: -)
+	MDO1
+		Images:	3057
+		Time:	27.04.2025 07:25:29 until 27.04.2025 10:11:15
+		Duration:	02:45:46
+		Location:	50.95249 14.07988
+
+	MDO1LS1
+		Images:	745
+		Time:	27.04.2025 08:04:43 until 27.04.2025 10:11:18
+		Duration:	02:06:35
+		Location:	50.95249 14.07988
+
+(4) - Pirna (M: 18,1 km | HM: -)
+	SEB2
+		Images:	1182
+		Time:	27.04.2025 10:08:05 until 27.04.2025 11:49:10
+		Duration:	01:41:05
+		Location:	50.96230 13.93868
+
+(5) - Start Halbmarathon
+	SEB1
+		Images:	844
+		Time:	27.04.2025 07:58:41 until 27.04.2025 09:24:10
+		Duration:	01:25:29
+		Location:	50.95880 13.90667
+
+(6) - Schloss Pillnitz (M: 27,9 km | HM: 6,8 km)
+	TIM1LS1
+		Images:	1942
+		Time:	27.04.2025 08:11:55 until 27.04.2025 13:09:40
+		Duration:	04:57:45
+		Location:	51.00785 13.86149
+
+	TIM1LS2
+		Images:	2674
+		Time:	27.04.2025 07:11:57 until 27.04.2025 11:52:00
+		Duration:	04:40:03
+		Location:	51.00785 13.86149
+
+	TIM1
+		Images:	7847
+		Time:	27.04.2025 08:29:21 until 27.04.2025 13:08:04
+		Duration:	04:38:43
+		Location:	51.00785 13.86149
+
+(7) - Blaues Wunder (M: 35,1 km | HM: 14,0 km)
+	DS1
+		Images:	11056
+		Time:	27.04.2025 08:05:24 until 27.04.2025 14:16:30
+		Duration:	06:11:06
+		Location:	51.05733 13.80276
+
+(8) - Schloss Albrechtsberg (M: 36,4 km | HM: 25,3 km)
+	DASC1LS1
+		Images:	14820
+		Time:	27.04.2025 08:09:45 until 27.04.2025 14:28:17
+		Duration:	06:18:32
+		Location:	51.06216 13.78771
+
+	DASC1
+		Images:	5048
+		Time:	27.04.2025 09:22:15 until 27.04.2025 14:27:00
+		Duration:	05:04:45
+		Location:	51.06216 13.78771
+
+(9) - Terrassenufer (M: 40,8 km | HM: 19,7 km)
+	STEL1LS1
+		Images:	8102
+		Time:	27.04.2025 09:30:59 until 27.04.2025 14:15:59
+		Duration:	04:45:00
+		Location:	51.05377 13.73730
+
+	STEL1
+		Images:	9506
+		Time:	27.04.2025 08:21:33 until 27.04.2025 15:15:44
+		Duration:	06:54:11
+		Location:	51.05377 13.73730
+
+(10) - Skyline Altstadt (M: 41,3 km | HM: 20,2 km)
+	DG1LS1
+		Images:	5747
+		Time:	27.04.2025 09:22:43 until 27.04.2025 15:23:01
+		Duration:	06:00:18
+		Location:	51.05820 13.73028
+
+	DG1
+		Images:	19419
+		Time:	27.04.2025 08:10:21 until 27.04.2025 15:22:52
+		Duration:	07:12:31
+		Location:	51.05820 13.73028
+
+(11) - Marienbrücke (M: 41,8 km | HM: 20,7 km)
+	THO2
+		Images:	5291
+		Time:	27.04.2025 10:06:10 until 27.04.2025 15:25:48
+		Duration:	05:19:38
+		Location:	51.06019 13.72784
+
+(12) - Stadioneinlauf (M: 42,0 km | HM: 20,9 km)
+	UL2
+		Images:	3296
+		Time:	27.04.2025 11:21:31 until 27.04.2025 15:29:23
+		Duration:	04:07:52
+		Location:	51.06048 13.72498
+
+(13) - Stadioneinlauf (M: 42,1 km | HM: 21,0 km)
+	MDO2LS1
+		Images:	1636
+		Time:	27.04.2025 11:28:07 until 27.04.2025 15:31:31
+		Duration:	04:03:24
+		Location:	51.06144 13.72355
+
+	MDO2
+		Images:	8210
+		Time:	27.04.2025 11:35:41 until 27.04.2025 15:30:56
+		Duration:	03:55:15
+		Location:	51.06144 13.72355
+
+(14) - Ziel
+	MAWA1LS1
+		Images:	10003
+		Time:	27.04.2025 09:15:33 until 27.04.2025 14:50:08
+		Duration:	05:34:35
+		Location:	51.06071 13.72312
+
+	MAWA1
+		Images:	10587
+		Time:	27.04.2025 08:26:57 until 27.04.2025 15:33:05
+		Duration:	07:06:08
+		Location:	51.06071 13.72312
+
+	SEB3
+		Images:	1142
+		Time:	27.04.2025 12:46:28 until 27.04.2025 15:34:12
+		Duration:	02:47:44
+		Location:	51.06071 13.72312
+
+(15) - Impressions / Pano
+	TIM1DRONE1
+		Images:	7
+		Time:	27.04.2025 08:34:56 until 27.04.2025 14:34:59
+		Duration:	06:00:03
+		Location:	51.06071 13.72312
+
+	PANO1

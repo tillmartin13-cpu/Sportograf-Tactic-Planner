@@ -1,0 +1,176 @@
+EventId: 13763
+Spots: 26
+Total Images: 112736
+Time:	28.06.2025 07:25:36 to 28.06.2025 18:26:57
+Duration: 11:01:21
+
+(1) - Start
+	NJO1
+		Images:	161
+		Time:	28.06.2025 10:38:27 until 28.06.2025 11:12:56
+		Duration:	00:34:29
+		Location:	47.21017 11.01511
+
+(2) - Finish
+	NJO2LS1
+		Images:	5336
+		Time:	28.06.2025 10:36:18 until 28.06.2025 17:24:27
+		Duration:	06:48:09
+		Location:	47.21126 11.01408
+
+	AFRE1
+		Images:	5818
+		Time:	28.06.2025 08:55:25 until 28.06.2025 18:26:10
+		Duration:	09:30:45
+		Location:	47.21126 11.01408
+
+	CK2LS1
+		Images:	665
+		Time:	28.06.2025 12:34:29 until 28.06.2025 15:41:34
+		Duration:	03:07:05
+		Location:	47.21126 11.01408
+
+	CK2LS2
+		Images:	2021
+		Time:	28.06.2025 12:10:11 until 28.06.2025 18:04:45
+		Duration:	05:54:34
+		Location:	47.21126 11.01408
+
+(3) - Drohne
+	NJO2DRONE1
+		Images:	30
+		Time:	28.06.2025 14:08:36 until 28.06.2025 15:12:35
+		Duration:	01:03:59
+		Location:	47.21126 11.01408
+
+(4) - Obstacle 8 Rotten River
+	EA1
+		Images:	2940
+		Time:	28.06.2025 10:18:28 until 28.06.2025 15:06:29
+		Duration:	04:48:01
+		Location:	47.21154 11.01062
+
+	MIW1
+		Images:	5593
+		Time:	28.06.2025 10:13:37 until 28.06.2025 14:45:51
+		Duration:	04:32:14
+		Location:	47.21154 11.01062
+
+(5) - Obstacle 9 Sporty Spider
+	CK1
+		Images:	6967
+		Time:	28.06.2025 08:52:01 until 28.06.2025 12:22:24
+		Duration:	03:30:23
+		Location:	47.21128 11.01130
+
+	CK1LS1
+		Images:	1496
+		Time:	28.06.2025 08:13:13 until 28.06.2025 12:23:26
+		Duration:	04:10:13
+		Location:	47.21128 11.01130
+
+	CK1LS2
+		Images:	1316
+		Time:	28.06.2025 10:13:36 until 28.06.2025 12:09:40
+		Duration:	01:56:04
+		Location:	47.21128 11.01130
+
+(6) - Obstacle 10 Barbwire Battle
+	HAWI1
+		Images:	9491
+		Time:	28.06.2025 07:27:49 until 28.06.2025 14:55:49
+		Duration:	07:28:00
+		Location:	47.21180 11.01161
+
+(7) - Obstacle 11 Freak Froster
+	MASA1
+		Images:	6145
+		Time:	28.06.2025 08:18:05 until 28.06.2025 14:59:33
+		Duration:	06:41:28
+		Location:	47.21161 11.01236
+
+	MIKR1
+		Images:	15644
+		Time:	28.06.2025 08:47:02 until 28.06.2025 15:01:12
+		Duration:	06:14:10
+		Location:	47.21161 11.01236
+
+(8) - Obstacle 15 Clumsy Cliffhanger
+	LKE1
+		Images:	4771
+		Time:	28.06.2025 10:21:21 until 28.06.2025 15:08:42
+		Duration:	04:47:21
+		Location:	47.21102 11.01473
+
+	MBRE1
+		Images:	4631
+		Time:	28.06.2025 09:49:43 until 28.06.2025 15:16:35
+		Duration:	05:26:52
+		Location:	47.21102 11.01473
+
+(9) - Obstacle 17 Speed Slide
+	NJO1LS1
+		Images:	4148
+		Time:	28.06.2025 09:47:38 until 28.06.2025 15:56:52
+		Duration:	06:09:14
+		Location:	47.20983 11.01916
+
+(10) - Obstacle 20 Rapid Rings
+	PJI1
+		Images:	5570
+		Time:	28.06.2025 11:19:20 until 28.06.2025 17:09:49
+		Duration:	05:50:29
+		Location:	47.19892 11.02613
+
+(11) - Obstacle 22 Muscle Monkey
+	ULKE1
+		Images:	2580
+		Time:	28.06.2025 08:59:32 until 28.06.2025 16:02:29
+		Duration:	07:02:57
+		Location:	47.21244 11.01803
+
+(12) - Herotent
+	CK3
+		Images:	2351
+		Time:	28.06.2025 12:40:31 until 28.06.2025 17:48:42
+		Duration:	05:08:11
+		Location:	47.21122 11.01430
+
+	SHUE1
+		Images:	3346
+		Time:	28.06.2025 10:30:32 until 28.06.2025 18:26:57
+		Duration:	07:56:25
+		Location:	47.21122 11.01430
+
+(13) - Obstacle 13 Muddy Maniacs
+	TJA1
+		Images:	7123
+		Time:	28.06.2025 07:25:36 until 28.06.2025 15:05:22
+		Duration:	07:39:46
+		Location:	47.21134 11.01230
+
+(14) - Obstacle 6 Crew Carry
+	SVL1
+		Images:	5216
+		Time:	28.06.2025 10:06:18 until 28.06.2025 14:33:02
+		Duration:	04:26:44
+		Location:	47.21162 11.00392
+
+	SVL1LS1
+		Images:	3719
+		Time:	28.06.2025 09:56:04 until 28.06.2025 14:32:58
+		Duration:	04:36:54
+		Location:	47.21162 11.00392
+
+	SVL1LS2
+		Images:	3554
+		Time:	28.06.2025 09:11:19 until 28.06.2025 14:32:57
+		Duration:	05:21:38
+		Location:	47.21162 11.00392
+
+	SVL1LS3
+		Images:	2104
+		Time:	28.06.2025 09:50:48 until 28.06.2025 14:32:44
+		Duration:	04:41:56
+		Location:	47.21162 11.00392
+

@@ -1,0 +1,196 @@
+EventId: 14869
+Spots: 30
+Total Images: 115167
+Time:	01.01.2016 01:00:00 to 14.06.2025 18:22:48
+Duration: 3452.17:22:48
+
+(1) - Impressions / Pano
+	MAWI1IMP1
+		Images:	41
+		Time:	14.06.2025 08:37:33 until 14.06.2025 09:03:28
+		Duration:	00:25:55
+		Location:	46.83219 6.50781
+
+	BECK1DRONE1
+		Images:	27
+		Time:	13.06.2025 20:23:09 until 14.06.2025 09:14:43
+		Duration:	12:51:34
+		Location:	46.83219 6.50781
+
+(2) - Obstacle 2 Barbed wire crawl
+	ROB1
+		Images:	3944
+		Time:	13.06.2025 20:42:12 until 14.06.2025 16:42:56
+		Duration:	20:00:44
+		Location:	46.82526 6.50278
+
+	ROB1LS1
+		Images:	4504
+		Time:	14.06.2025 08:40:34 until 14.06.2025 15:39:32
+		Duration:	06:58:58
+		Location:	46.82526 6.50278
+
+	ROB1LS2
+		Images:	4360
+		Time:	14.06.2025 09:06:13 until 14.06.2025 16:46:45
+		Duration:	07:40:32
+		Location:	46.82526 6.50278
+
+	YMD1
+		Images:	2829
+		Time:	14.06.2025 07:17:17 until 14.06.2025 16:42:45
+		Duration:	09:25:28
+		Location:	46.82526 6.50278
+
+(3) - Obstacle 6 Chain Carry
+	BECK1
+		Images:	12559
+		Time:	13.06.2025 20:16:02 until 14.06.2025 17:18:52
+		Duration:	21:02:50
+		Location:	46.83219 6.50781
+
+	BECK1LS2
+		Images:	5688
+		Time:	14.06.2025 08:07:16 until 14.06.2025 16:20:22
+		Duration:	08:13:06
+		Location:	46.83219 6.50781
+
+	BECK1LS1
+		Images:	2521
+		Time:	14.06.2025 08:17:12 until 14.06.2025 15:44:12
+		Duration:	07:27:00
+		Location:	46.83219 6.50781
+
+(4) - Obstacle 20 Inverted Wall
+	TE1
+		Images:	8310
+		Time:	14.06.2025 07:48:56 until 14.06.2025 17:27:40
+		Duration:	09:38:44
+		Location:	46.83691 6.50544
+
+	TE1LS1
+		Images:	3261
+		Time:	14.06.2025 07:23:15 until 14.06.2025 17:27:34
+		Duration:	10:04:19
+		Location:	46.83691 6.50544
+
+	TE1LS2
+		Images:	4976
+		Time:	14.06.2025 09:49:07 until 14.06.2025 17:20:00
+		Duration:	07:30:53
+		Location:	46.83691 6.50544
+
+(5) - Obstacle 22 Bucket Carry
+	HS1
+		Images:	4252
+		Time:	13.06.2025 22:45:08 until 14.06.2025 17:45:09
+		Duration:	19:00:01
+		Location:	46.83042 6.49636
+
+	HS1LS2
+		Images:	3250
+		Time:	14.06.2025 09:24:34 until 14.06.2025 16:33:43
+		Duration:	07:09:09
+		Location:	46.83042 6.49636
+
+	HS1LS1
+		Images:	5008
+		Time:	14.06.2025 09:19:01 until 14.06.2025 16:26:30
+		Duration:	07:07:29
+		Location:	46.83042 6.49636
+
+(6) - Obstacle 23 Vertical Net
+	MOG1
+		Images:	3723
+		Time:	13.06.2025 20:02:55 until 14.06.2025 17:59:57
+		Duration:	21:57:02
+		Location:	46.82246 6.50141
+
+	MOG1LS2
+		Images:	3780
+		Time:	14.06.2025 09:49:35 until 14.06.2025 18:04:44
+		Duration:	08:15:09
+		Location:	46.82246 6.50141
+
+	MOG1LS1
+		Images:	4518
+		Time:	13.06.2025 19:42:00 until 14.06.2025 18:03:04
+		Duration:	22:21:04
+		Location:	46.82246 6.50141
+
+(7) - Obstacle 28 Multi-Rig
+	TNR1
+		Images:	3307
+		Time:	14.06.2025 09:25:54 until 14.06.2025 18:05:49
+		Duration:	08:39:55
+		Location:	46.82408 6.50130
+
+	TNR1LS2
+		Images:	1765
+		Time:	14.06.2025 08:08:45 until 14.06.2025 15:25:38
+		Duration:	07:16:53
+		Location:	46.82408 6.50130
+
+	TNR1LS1
+		Images:	2421
+		Time:	14.06.2025 07:52:03 until 14.06.2025 17:14:17
+		Duration:	09:22:14
+		Location:	46.82408 6.50130
+
+(8) - Obstacle 30 A-Frame Cargo
+	EVL1
+		Images:	6232
+		Time:	14.06.2025 07:33:40 until 14.06.2025 18:11:26
+		Duration:	10:37:46
+		Location:	46.82597 6.49953
+
+	EVL1LS1
+		Images:	1793
+		Time:	14.06.2025 07:12:43 until 14.06.2025 17:22:41
+		Duration:	10:09:58
+		Location:	46.82597 6.49953
+
+	EVL1LS2
+		Images:	1917
+		Time:	14.06.2025 07:17:38 until 14.06.2025 17:20:10
+		Duration:	10:02:32
+		Location:	46.82597 6.49953
+
+(9) - Firejump/Finish
+	MAWI1
+		Images:	4362
+		Time:	14.06.2025 14:27:05 until 14.06.2025 18:22:22
+		Duration:	03:55:17
+		Location:	46.82611 6.49999
+
+	MAWI1LS3
+		Images:	1050
+		Time:	01.01.2016 04:15:21 until 01.01.2016 06:11:50
+		Duration:	01:56:29
+		Location:	46.82611 6.49999
+
+	MAWI1LS2
+		Images:	3707
+		Time:	14.06.2025 09:49:26 until 14.06.2025 17:47:32
+		Duration:	07:58:06
+		Location:	46.82611 6.49999
+
+	MAWI1LS1
+		Images:	1252
+		Time:	14.06.2025 09:49:25 until 14.06.2025 14:24:10
+		Duration:	04:34:45
+		Location:	46.82611 6.49999
+
+	MAWI2
+		Images:	1997
+		Time:	01.01.2016 01:00:00 until 01.01.2016 04:14:03
+		Duration:	03:14:03
+		Location:	46.82611 6.49999
+
+(10) - Herotent
+	DABI1
+		Images:	7813
+		Time:	14.06.2025 10:22:51 until 14.06.2025 18:22:48
+		Duration:	07:59:57
+		Location:	46.82597 6.50029
+

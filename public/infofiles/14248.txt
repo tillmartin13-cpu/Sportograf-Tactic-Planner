@@ -1,0 +1,260 @@
+EventId: 14248
+Spots: 40
+Total Images: 100527
+Time:	20.08.2025 20:15:00 to 21.09.2025 16:19:51
+Duration: 31.20:04:51
+
+(1) - Swim Transition Sprint
+	IDS1
+		Images:	2021
+		Time:	21.09.2025 06:41:27 until 21.09.2025 07:21:24
+		Duration:	00:39:57
+		Location:	-33.72229 150.66984
+
+	IGM1
+		Images:	580
+		Time:	21.09.2025 07:00:36 until 21.09.2025 07:25:58
+		Duration:	00:25:22
+		Location:	-33.72229 150.66984
+
+	IGM1LS1
+		Images:	273
+		Time:	21.09.2025 06:43:44 until 21.09.2025 07:25:56
+		Duration:	00:42:12
+		Location:	-33.72229 150.66984
+
+	IGM1LS2
+		Images:	254
+		Time:	21.09.2025 06:25:41 until 21.09.2025 07:25:52
+		Duration:	01:00:11
+		Location:	-33.72229 150.66984
+
+(2) - Swim - Transition zone
+	IDS2
+		Images:	1019
+		Time:	21.09.2025 07:28:28 until 21.09.2025 07:52:18
+		Duration:	00:23:50
+		Location:	-33.72229 150.66984
+
+	IDS2LS2
+		Images:	6091
+		Time:	21.09.2025 06:59:56 until 21.09.2025 08:43:42
+		Duration:	01:43:46
+		Location:	-33.72229 150.66984
+
+	IGM2
+		Images:	2467
+		Time:	21.09.2025 07:28:32 until 21.09.2025 08:58:11
+		Duration:	01:29:39
+		Location:	-33.72229 150.66984
+
+	IGM2LS1
+		Images:	346
+		Time:	21.09.2025 07:26:08 until 21.09.2025 08:58:12
+		Duration:	01:32:04
+		Location:	-33.72229 150.66984
+
+	IGM2LS2
+		Images:	410
+		Time:	21.09.2025 07:26:04 until 21.09.2025 08:58:09
+		Duration:	01:32:05
+		Location:	-33.72229 150.66984
+
+(3) - Bike - Transition zone
+	IDS2LS1
+		Images:	10916
+		Time:	21.09.2025 06:33:12 until 21.09.2025 08:27:02
+		Duration:	01:53:50
+		Location:	-33.72229 150.66984
+
+	WP2
+		Images:	3930
+		Time:	21.09.2025 07:28:07 until 21.09.2025 09:02:41
+		Duration:	01:34:34
+		Location:	-33.72229 150.66984
+
+(4) - Run - 4.6 km
+	IDS3
+		Images:	2080
+		Time:	21.09.2025 09:49:20 until 21.09.2025 11:00:12
+		Duration:	01:10:52
+		Location:	-33.72497 150.66992
+
+(5) - Run - 5.7 km
+	IDS4
+		Images:	10303
+		Time:	21.09.2025 11:03:12 until 21.09.2025 15:13:43
+		Duration:	04:10:31
+		Location:	-33.72497 150.66992
+
+	MFS4
+		Images:	293
+		Time:	21.09.2025 13:46:23 until 21.09.2025 14:39:24
+		Duration:	00:53:01
+		Location:	-33.72497 150.66992
+
+(6) - Run - 0.3 km
+	IGM3
+		Images:	3467
+		Time:	21.09.2025 10:08:11 until 21.09.2025 14:06:39
+		Duration:	03:58:28
+		Location:	-33.72360 150.66834
+
+	IGM3LS1
+		Images:	3545
+		Time:	21.09.2025 09:59:50 until 21.09.2025 14:06:39
+		Duration:	04:06:49
+		Location:	-33.72360 150.66834
+
+	IGM3LS2
+		Images:	2813
+		Time:	21.09.2025 09:59:37 until 21.09.2025 12:27:59
+		Duration:	02:28:22
+		Location:	-33.72360 150.66834
+
+(7) - BIKE SPRINT 7.9KM
+	MFS1
+		Images:	1958
+		Time:	21.09.2025 06:36:17 until 21.09.2025 08:15:28
+		Duration:	01:39:11
+		Location:	-33.69289 150.68026
+
+(8) - Bike - 7.9 km
+	MFS2
+		Images:	1212
+		Time:	21.09.2025 08:06:00 until 21.09.2025 08:45:08
+		Duration:	00:39:08
+		Location:	-33.69289 150.68026
+
+(9) - Bike - 48.4 km
+	MFS3
+		Images:	6062
+		Time:	21.09.2025 08:17:12 until 21.09.2025 12:45:00
+		Duration:	04:27:48
+		Location:	-33.69289 150.68026
+
+(10) - General Pictures
+	MFS5
+		Images:	186
+		Time:	21.09.2025 14:57:25 until 21.09.2025 15:53:28
+		Duration:	00:56:03
+		Location:	-33.72360 150.66834
+
+(11) - Finish
+	MFS6
+		Images:	19
+		Time:	21.09.2025 16:19:10 until 21.09.2025 16:19:51
+		Duration:	00:00:41
+		Location:	-33.72332 150.67120
+
+	SNT4
+		Images:	781
+		Time:	21.09.2025 14:29:18 until 21.09.2025 15:16:34
+		Duration:	00:47:16
+		Location:	-33.72332 150.67120
+
+	TPA4
+		Images:	3325
+		Time:	21.09.2025 09:37:47 until 21.09.2025 15:55:39
+		Duration:	06:17:52
+		Location:	-33.72332 150.67120
+
+	TPA4LS2
+		Images:	3091
+		Time:	21.09.2025 09:21:41 until 21.09.2025 16:02:50
+		Duration:	06:41:09
+		Location:	-33.72332 150.67120
+
+	TPA4LS3
+		Images:	2010
+		Time:	21.09.2025 08:47:55 until 21.09.2025 15:55:31
+		Duration:	07:07:36
+		Location:	-33.72332 150.67120
+
+	VFV4
+		Images:	4672
+		Time:	21.09.2025 09:59:31 until 21.09.2025 16:19:51
+		Duration:	06:20:20
+		Location:	-33.72332 150.67120
+
+(12) - Bike - 10.7 km
+	SNT1
+		Images:	2284
+		Time:	21.09.2025 06:29:20 until 21.09.2025 09:18:57
+		Duration:	02:49:37
+		Location:	-33.67103 150.67646
+
+(13) - Bike - 35.7 km
+	SNT2
+		Images:	4913
+		Time:	21.09.2025 09:35:17 until 21.09.2025 12:35:48
+		Duration:	03:00:31
+		Location:	-33.67103 150.67646
+
+(14) - Run - 20.3 km
+	SNT3
+		Images:	772
+		Time:	21.09.2025 13:32:57 until 21.09.2025 15:52:46
+		Duration:	02:19:49
+		Location:	-33.72361 150.67640
+
+	WP3
+		Images:	6634
+		Time:	21.09.2025 11:00:44 until 21.09.2025 15:49:44
+		Duration:	04:49:00
+		Location:	-33.72361 150.67640
+
+(15) - Swim Start Sprint
+	TPA1
+		Images:	1245
+		Time:	21.09.2025 06:36:35 until 21.09.2025 07:09:05
+		Duration:	00:32:30
+		Location:	-33.72334 150.67016
+
+	VFV1
+		Images:	321
+		Time:	21.09.2025 06:35:36 until 21.09.2025 07:03:51
+		Duration:	00:28:15
+		Location:	-33.72334 150.67016
+
+(16) - Swim - Start
+	TPA2
+		Images:	3634
+		Time:	21.09.2025 07:15:05 until 21.09.2025 07:51:09
+		Duration:	00:36:04
+		Location:	-33.72334 150.67016
+
+	VFV2
+		Images:	2324
+		Time:	21.09.2025 07:14:06 until 21.09.2025 07:46:45
+		Duration:	00:32:39
+		Location:	-33.72334 150.67016
+
+(17) - Finish Sprint
+	TPA3
+		Images:	1874
+		Time:	21.09.2025 07:59:11 until 21.09.2025 09:18:48
+		Duration:	01:19:37
+		Location:	-33.72332 150.67120
+
+	TPA4LS1
+		Images:	325
+		Time:	20.08.2025 20:15:00 until 21.09.2025 09:16:33
+		Duration:	31.13:01:33
+		Location:	-33.72332 150.67120
+
+	VFV3
+		Images:	1074
+		Time:	21.09.2025 07:52:38 until 21.09.2025 09:37:52
+		Duration:	01:45:14
+		Location:	-33.72332 150.67120
+
+(18) - Bike Transition Sprint
+	WP1
+		Images:	1003
+		Time:	20.09.2025 21:44:21 until 21.09.2025 07:27:54
+		Duration:	09:43:33
+		Location:	-33.72229 150.66984
+
+(19) - Swim - Impressions / Pano
+	PANO1

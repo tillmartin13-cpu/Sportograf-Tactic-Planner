@@ -1,0 +1,95 @@
+EventId: 14428
+Spots: 13
+Total Images: 87843
+Time:	08.03.2025 05:58:31 to 09.03.2025 14:47:03
+Duration: 1.08:48:32
+
+(1) - Obstacle 11 Bucket Carry
+	PRU1
+		Images:	8273
+		Time:	09.03.2025 03:55:10 until 09.03.2025 13:18:25
+		Duration:	09:23:15
+		Location:	29.91200 -96.31824
+
+(2) - Obstacle 12 A Frame
+	CCZ1
+		Images:	9707
+		Time:	09.03.2025 05:01:05 until 09.03.2025 13:20:09
+		Duration:	08:19:04
+		Location:	29.91061 -96.31683
+
+(3) - Obstacle 13 Multi Rig
+	DOBR1
+		Images:	10283
+		Time:	09.03.2025 06:36:05 until 09.03.2025 13:22:57
+		Duration:	06:46:52
+		Location:	29.90978 -96.31672
+
+	GAPO1
+		Images:	3686
+		Time:	09.03.2025 06:41:08 until 09.03.2025 13:22:59
+		Duration:	06:41:51
+		Location:	29.90978 -96.31672
+
+(4) - Obstacle 25 Barbed Wire Crawl 2
+	JVI1
+		Images:	11731
+		Time:	09.03.2025 03:43:00 until 09.03.2025 13:53:00
+		Duration:	10:10:00
+		Location:	29.90339 -96.31025
+
+(5) - Obstacle 26 Rolling Mud
+	AWD1
+		Images:	249
+		Time:	09.03.2025 06:47:00 until 09.03.2025 07:33:20
+		Duration:	00:46:20
+		Location:	29.90339 -96.31025
+
+(6) - Obstacle 27 Dunk Wall
+	JMS1
+		Images:	12366
+		Time:	08.03.2025 06:14:43 until 09.03.2025 13:55:33
+		Duration:	1.07:40:50
+		Location:	29.90280 -96.31024
+
+(7) - Obstacle 28 Slip Wall
+	AWD2
+		Images:	3195
+		Time:	09.03.2025 07:34:17 until 09.03.2025 14:01:42
+		Duration:	06:27:25
+		Location:	29.90267 -96.31037
+
+(8) - Obstacle 29 Plate Drag
+	JLEY1
+		Images:	7486
+		Time:	08.03.2025 06:02:50 until 09.03.2025 14:05:34
+		Duration:	1.08:02:44
+		Location:	29.90247 -96.31011
+
+	AKT1
+		Images:	9042
+		Time:	09.03.2025 06:26:25 until 09.03.2025 14:06:10
+		Duration:	07:39:45
+		Location:	29.90177 -96.31015
+
+(9) - Obstacle 33 Fire Jump
+	KECO1
+		Images:	8288
+		Time:	08.03.2025 06:01:46 until 09.03.2025 14:42:06
+		Duration:	1.08:40:20
+		Location:	29.90490 -96.31805
+
+(10) - Herotent
+	CIFU1
+		Images:	3459
+		Time:	08.03.2025 06:03:31 until 09.03.2025 14:47:03
+		Duration:	1.08:43:32
+		Location:	29.90508 -96.31805
+
+(11) - Impressions / Pano
+	VICY1
+		Images:	78
+		Time:	08.03.2025 05:58:31 until 09.03.2025 12:10:30
+		Duration:	1.06:11:59
+		Location:	29.90638 -96.31925
+

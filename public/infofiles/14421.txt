@@ -1,0 +1,48 @@
+EventId: 14421
+Spots: 6
+Total Images: 7750
+Time:	16.02.2025 06:34:26 to 16.02.2025 16:19:22
+Duration: 09:44:56
+
+(1) - ZONE2 500 ROW
+	JHRO1
+		Images:	1748
+		Time:	16.02.2025 06:40:02 until 16.02.2025 15:10:03
+		Duration:	08:30:01
+		Location:	29.20479 -82.26551
+
+(2) - ZONE5 500 SKIERG
+	ORGA1
+		Images:	2781
+		Time:	16.02.2025 06:34:26 until 16.02.2025 14:59:11
+		Duration:	08:24:45
+		Location:	29.20436 -82.26548
+
+(3) - ZONE6 FARMERS CARRY
+	SICA1
+		Images:	1303
+		Time:	16.02.2025 06:37:39 until 16.02.2025 15:09:53
+		Duration:	08:32:14
+		Location:	29.20443 -82.26559
+
+(4) - Impressions / Pano
+	SICA2
+		Images:	60
+		Time:	16.02.2025 10:11:31 until 16.02.2025 11:14:31
+		Duration:	01:03:00
+		Location:	29.20471 -82.26545
+
+(5) - ZONE7 25CAL AIR BIKE
+	MBAR1
+		Images:	664
+		Time:	16.02.2025 06:57:20 until 16.02.2025 14:55:42
+		Duration:	07:58:22
+		Location:	29.20449 -82.26557
+
+(6) - FINISH LINE
+	JACL1
+		Images:	1194
+		Time:	16.02.2025 06:49:08 until 16.02.2025 16:19:22
+		Duration:	09:30:14
+		Location:	29.20471 -82.26545
+

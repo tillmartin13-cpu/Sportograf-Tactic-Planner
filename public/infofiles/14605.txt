@@ -1,0 +1,115 @@
+EventId: 14605
+Spots: 17
+Total Images: 22543
+Time:	01.01.0001 23:00:00 to 02.11.2025 13:51:41
+Duration: 739555.14:51:41
+
+(1) - Km - 13,7
+	TGM1
+		Images:	1819
+		Time:	02.11.2025 08:42:15 until 02.11.2025 11:10:42
+		Duration:	02:28:27
+		Location:	39.75219 2.64287
+
+(2) - Km - 13,8
+	TGM1LS1
+		Images:	548
+		Time:	02.11.2025 08:29:03 until 02.11.2025 11:09:16
+		Duration:	02:40:13
+		Location:	39.75219 2.64287
+
+	TGM1LS2
+		Images:	478
+		Time:	02.11.2025 07:35:33 until 02.11.2025 11:22:44
+		Duration:	03:47:11
+		Location:	39.75219 2.64287
+
+(3) - Km - 14
+	JLTG1
+		Images:	825
+		Time:	02.11.2025 08:24:47 until 02.11.2025 11:36:25
+		Duration:	03:11:38
+		Location:	39.79239 2.81244
+
+	JLTG1LS1
+		Images:	768
+		Time:	02.11.2025 08:24:15 until 02.11.2025 11:52:07
+		Duration:	03:27:52
+		Location:	39.79239 2.81244
+
+	JLTG1LS2
+		Images:	660
+		Time:	02.11.2025 07:46:45 until 02.11.2025 11:29:05
+		Duration:	03:42:20
+		Location:	39.79239 2.81244
+
+(4) - Km - 15
+	MANR1
+		Images:	4668
+		Time:	02.11.2025 08:22:36 until 02.11.2025 11:28:15
+		Duration:	03:05:39
+		Location:	39.76218 2.64547
+
+	MANR1LS1
+		Images:	654
+		Time:	02.11.2025 08:16:16 until 02.11.2025 11:28:33
+		Duration:	03:12:17
+		Location:	39.76218 2.64547
+
+	MANR1LS2
+		Images:	692
+		Time:	02.11.2025 09:07:32 until 02.11.2025 11:28:27
+		Duration:	02:20:55
+		Location:	39.76218 2.64547
+
+(5) - Km - 16,5
+	PARO1
+		Images:	2476
+		Time:	02.11.2025 09:07:49 until 02.11.2025 11:27:39
+		Duration:	02:19:50
+		Location:	39.76267 2.64579
+
+	PARO1LS1
+		Images:	697
+		Time:	02.11.2025 08:29:44 until 02.11.2025 11:29:30
+		Duration:	02:59:46
+		Location:	39.76267 2.64579
+
+(6) - Finish
+	JMP1
+		Images:	2007
+		Time:	02.11.2025 08:56:38 until 02.11.2025 13:51:27
+		Duration:	04:54:49
+		Location:	39.79764 2.69484
+
+	JMP1LS1
+		Images:	989
+		Time:	02.11.2025 09:40:43 until 02.11.2025 13:27:37
+		Duration:	03:46:54
+		Location:	39.79764 2.69484
+
+	MPP1
+		Images:	3176
+		Time:	02.11.2025 09:05:28 until 02.11.2025 13:51:41
+		Duration:	04:46:13
+		Location:	39.79764 2.69484
+
+	JMP1LS2
+		Images:	1031
+		Time:	02.11.2025 09:41:32 until 02.11.2025 13:35:19
+		Duration:	03:53:47
+		Location:	39.79764 2.69484
+
+	MPP1LS1
+		Images:	1035
+		Time:	01.11.2025 07:46:01 until 02.11.2025 13:40:07
+		Duration:	1.05:54:06
+		Location:	39.79764 2.69484
+
+(7) - Impressions / Pano
+	PANO1
+		Images:	8
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	39.79764 2.69484
+

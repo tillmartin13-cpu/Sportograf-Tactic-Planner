@@ -1,0 +1,125 @@
+EventId: 14516
+Spots: 19
+Total Images: 81854
+Time:	10.05.2025 08:06:42 to 11.05.2025 16:20:29
+Duration: 1.08:13:47
+
+(1) - Herotent
+	ALSE1
+		Images:	3950
+		Time:	11.05.2025 10:08:39 until 11.05.2025 16:18:52
+		Duration:	06:10:13
+		Location:	40.69054 -3.61180
+
+(2) - General
+	ALSE2
+		Images:	239
+		Time:	11.05.2025 08:33:13 until 11.05.2025 10:05:01
+		Duration:	01:31:48
+		Location:	40.69054 -3.61180
+
+	JRP1
+		Images:	135
+		Time:	11.05.2025 09:25:26 until 11.05.2025 09:27:12
+		Duration:	00:01:46
+		Location:	40.69054 -3.61180
+
+	JRP1DRONE1
+		Images:	165
+		Time:	10.05.2025 10:06:53 until 11.05.2025 12:47:35
+		Duration:	1.02:40:42
+		Location:	40.69054 -3.61180
+
+	SIC2
+		Images:	140
+		Time:	11.05.2025 08:30:01 until 11.05.2025 09:14:55
+		Duration:	00:44:54
+		Location:	40.69054 -3.61180
+
+(3) - A Frame Cargo
+	CPA1
+		Images:	11903
+		Time:	11.05.2025 08:45:49 until 11.05.2025 15:47:07
+		Duration:	07:01:18
+		Location:	40.69612 -3.61327
+
+	JRP4
+		Images:	3506
+		Time:	11.05.2025 11:15:44 until 11.05.2025 13:38:30
+		Duration:	02:22:46
+		Location:	40.69612 -3.61327
+
+(4) - Multiring
+	CRGA1
+		Images:	15268
+		Time:	11.05.2025 08:42:20 until 11.05.2025 15:47:47
+		Duration:	07:05:27
+		Location:	40.69576 -3.61310
+
+	JRP3
+		Images:	225
+		Time:	11.05.2025 11:25:33 until 11.05.2025 11:36:09
+		Duration:	00:10:36
+		Location:	40.69576 -3.61310
+
+(5) - Water Crossing
+	JAI1
+		Images:	5756
+		Time:	11.05.2025 09:03:41 until 11.05.2025 14:21:01
+		Duration:	05:17:20
+		Location:	40.69408 -3.61273
+
+(6) - Sandbag Carry
+	JG1
+		Images:	8164
+		Time:	10.05.2025 10:14:16 until 11.05.2025 14:43:45
+		Duration:	1.04:29:29
+		Location:	40.69922 -3.61292
+
+	JG1LS1
+		Images:	2585
+		Time:	11.05.2025 09:16:58 until 11.05.2025 14:43:06
+		Duration:	05:26:08
+		Location:	40.69922 -3.61292
+
+	JRP5
+		Images:	760
+		Time:	11.05.2025 10:18:03 until 11.05.2025 10:35:53
+		Duration:	00:17:50
+		Location:	40.69922 -3.61292
+
+(7) - Barbed Wired Crowl
+	JRP2
+		Images:	358
+		Time:	11.05.2025 09:45:32 until 11.05.2025 10:17:41
+		Duration:	00:32:09
+		Location:	40.69839 -3.61287
+
+	ROM1
+		Images:	12462
+		Time:	11.05.2025 09:12:50 until 11.05.2025 15:18:34
+		Duration:	06:05:44
+		Location:	40.69839 -3.61287
+
+(8) - Inverted Wall
+	LUM1
+		Images:	10904
+		Time:	11.05.2025 08:52:12 until 11.05.2025 16:01:47
+		Duration:	07:09:35
+		Location:	40.69260 -3.61438
+
+(9) - Fire Jump
+	SIC3
+		Images:	3851
+		Time:	11.05.2025 09:58:03 until 11.05.2025 16:17:55
+		Duration:	06:19:52
+		Location:	40.69044 -3.61171
+
+	SIC1LS1
+		Images:	1475
+		Time:	11.05.2025 09:56:54 until 11.05.2025 16:20:29
+		Duration:	06:23:35
+		Location:	40.69044 -3.61171
+
+(10) - Impressions / Pano
+	PANO1

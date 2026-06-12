@@ -1,0 +1,225 @@
+EventId: 17278
+Spots: 33
+Total Images: 214366
+Time:	01.01.0001 23:00:00 to 26.07.2025 12:35:18
+Duration: 739456.13:35:18
+
+(1) - 0.0 km aaron winski, msc 1 863469
+	AARON1
+		Images:	7842
+		Time:	26.07.2025 09:17:58 until 26.07.2025 11:16:40
+		Duration:	01:58:42
+		Location:	NULL NULL
+
+(2) - 0.0 km aaron winski, msc 1, 863469
+	BARON1
+		Images:	7842
+		Time:	26.07.2025 09:17:58 until 26.07.2025 11:16:40
+		Duration:	01:58:42
+		Location:	NULL NULL
+
+(3) - 0.0 km bryan sebastian, pfn, 863481
+	BSEB1
+		Images:	9667
+		Time:	26.07.2025 09:35:41 until 26.07.2025 10:55:06
+		Duration:	01:19:25
+		Location:	NULL NULL
+
+(4) - 0.0 km dennis peralta, finish, 863477
+	PERAL1
+		Images:	11018
+		Time:	26.07.2025 08:31:19 until 26.07.2025 11:35:17
+		Duration:	03:03:58
+		Location:	NULL NULL
+
+(5) - 0.0 km eric clifton, pfn, 866067
+	CLIFT1
+		Images:	9310
+		Time:	26.07.2025 08:03:25 until 26.07.2025 11:34:30
+		Duration:	03:31:05
+		Location:	NULL NULL
+
+(6) - 0.0 km erin, medals, 863486
+	ERIN1
+		Images:	1654
+		Time:	26.07.2025 09:01:04 until 26.07.2025 11:19:20
+		Duration:	02:18:16
+		Location:	NULL NULL
+
+(7) - 0.0 km finish trigger, 866068
+	XFIN1
+		Images:	8300
+		Time:	26.07.2025 09:24:56 until 26.07.2025 11:43:18
+		Duration:	02:18:22
+		Location:	NULL NULL
+
+(8) - 0.0 km harral allen start 863487
+	BSTAR1
+		Images:	583
+		Time:	26.07.2025 08:42:43 until 26.07.2025 09:15:00
+		Duration:	00:32:17
+		Location:	NULL NULL
+
+(9) - 0.0 km harral allen, mid 863473
+	BALLE1
+		Images:	6581
+		Time:	26.07.2025 09:32:02 until 26.07.2025 11:31:19
+		Duration:	01:59:17
+		Location:	NULL NULL
+
+(10) - 0.0 km Harral Allen, MID, 863473
+	HARRA1
+		Images:	6581
+		Time:	26.07.2025 09:32:02 until 26.07.2025 11:31:19
+		Duration:	01:59:17
+		Location:	NULL NULL
+
+(11) - 0.0 km Isaiah Ponciana, 863490
+	ZIA1
+		Images:	1243
+		Time:	26.07.2025 09:31:52 until 26.07.2025 11:30:57
+		Duration:	01:59:05
+		Location:	NULL NULL
+
+(12) - 0.0 km israel vega, PFN, 863480
+	ISRAE1
+		Images:	7197
+		Time:	26.07.2025 08:50:59 until 26.07.2025 11:34:47
+		Duration:	02:43:48
+		Location:	NULL NULL
+
+(13) - 0.0 km jay patel, pfn, 863475
+	JAY1
+		Images:	3315
+		Time:	26.07.2025 10:32:37 until 26.07.2025 12:31:51
+		Duration:	01:59:14
+		Location:	NULL NULL
+
+(14) - 0.0 km jeff alltop, finish, 863478
+	ALLTO1
+		Images:	28060
+		Time:	26.07.2025 10:32:44 until 26.07.2025 12:32:12
+		Duration:	01:59:28
+		Location:	NULL NULL
+
+(15) - 0.0 km Jeff Ring, MID, 863471
+	BRING1
+		Images:	8996
+		Time:	26.07.2025 08:55:02 until 26.07.2025 11:33:07
+		Duration:	02:38:05
+		Location:	NULL NULL
+
+	RING1
+		Images:	7211
+		Time:	26.07.2025 08:55:02 until 26.07.2025 11:33:07
+		Duration:	02:38:05
+		Location:	NULL NULL
+
+(16) - 0.0 km mason aschenbrenner, mid 863472
+	MASON1
+		Images:	5639
+		Time:	26.07.2025 08:15:59 until 26.07.2025 11:50:30
+		Duration:	03:34:31
+		Location:	NULL NULL
+
+(17) - 0.0 km mason aschernbrenner, mid, 863472
+	BMAS1
+		Images:	5639
+		Time:	26.07.2025 08:15:59 until 26.07.2025 11:50:30
+		Duration:	03:34:31
+		Location:	NULL NULL
+
+(18) - 0.0 km Mid Trigger, 863471
+	BMID1
+		Images:	7232
+		Time:	26.07.2025 09:21:25 until 26.07.2025 12:32:43
+		Duration:	03:11:18
+		Location:	NULL NULL
+
+	MID1
+		Images:	7232
+		Time:	26.07.2025 09:21:25 until 26.07.2025 12:32:43
+		Duration:	03:11:18
+		Location:	NULL NULL
+
+(19) - 0.0 km mike scanlon, msc 3, 863488
+	MIKE1
+		Images:	7529
+		Time:	26.07.2025 09:05:49 until 26.07.2025 11:37:47
+		Duration:	02:31:58
+		Location:	NULL NULL
+
+(20) - 0.0 km MSC 1 trigger, 863468
+	ONE1
+		Images:	3656
+		Time:	26.07.2025 10:28:50 until 26.07.2025 12:35:18
+		Duration:	02:06:28
+		Location:	NULL NULL
+
+(21) - 0.0 km nicholas morris, medals, 863484
+	NMORR1
+		Images:	533
+		Time:	26.07.2025 09:10:03 until 26.07.2025 11:33:36
+		Duration:	02:23:33
+		Location:	NULL NULL
+
+(22) - 0.0 km Noah, ofp, 863485
+	NOAH1
+		Images:	406
+		Time:	26.07.2025 09:30:59 until 26.07.2025 11:44:11
+		Duration:	02:13:12
+		Location:	NULL NULL
+
+(23) - 0.0 km PFN Trigger, 863482
+	PFN1
+		Images:	18807
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(24) - 0.0 km quick bix finish trigger 863489
+	QUIX1
+		Images:	1873
+		Time:	26.07.2025 09:07:47 until 26.07.2025 10:11:06
+		Duration:	01:03:19
+		Location:	NULL NULL
+
+(25) - 0.0 km Start Photo, Harral Allen
+	START1
+		Images:	583
+		Time:	26.07.2025 08:42:43 until 26.07.2025 09:15:00
+		Duration:	00:32:17
+		Location:	NULL NULL
+
+(26) - 0.0 km travis, medals, 863483
+	TRAVI1
+		Images:	1682
+		Time:	25.07.2025 21:10:14 until 25.07.2025 23:13:10
+		Duration:	02:02:56
+		Location:	NULL NULL
+
+(27) - 0.0 km trigger five, pfn, 863482
+	BFIVE1
+		Images:	18807
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(28) - 0.0 km tyler mccumsey, msc 1, 863470
+	BTYLE1
+		Images:	4674
+		Time:	26.07.2025 09:32:19 until 26.07.2025 11:34:00
+		Duration:	02:01:41
+		Location:	NULL NULL
+
+(29) - 0.0 km tyler, msc 1, 863470
+	TYLER1
+		Images:	4674
+		Time:	26.07.2025 09:32:19 until 26.07.2025 11:34:00
+		Duration:	02:01:41
+		Location:	NULL NULL
+
+(30) - Impressions / Pano
+	PANO1
+(31) - none
+	UNO1

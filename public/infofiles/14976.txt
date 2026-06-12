@@ -1,0 +1,137 @@
+EventId: 14976
+Spots: 23
+Total Images: 104418
+Time:	31.12.2006 18:00:01 to 31.12.2099 22:59:59
+Duration: 33968.04:59:58
+
+(1) - Impressions / Pano
+	PANO1
+(2) - Beach Front Mile 24
+	GPHIL1
+		Images:	4444
+		Time:	19.01.2025 08:02:32 until 19.01.2025 12:59:52
+		Duration:	04:57:20
+		Location:	20.82555 -156.63225
+
+(3) - Medals
+	GKAT1
+		Images:	1359
+		Time:	18.01.2025 19:28:32 until 19.01.2025 00:27:17
+		Duration:	04:58:45
+		Location:	20.84341 -156.65278
+
+	GMIG1
+		Images:	1106
+		Time:	19.01.2025 05:29:56 until 19.01.2025 10:19:41
+		Duration:	04:49:45
+		Location:	20.84341 -156.65278
+
+(4) - Finish
+	GBK1
+		Images:	2924
+		Time:	19.01.2025 13:23:27 until 19.01.2025 16:38:24
+		Duration:	03:14:57
+		Location:	20.84341 -156.65278
+
+	GBK2
+		Images:	4791
+		Time:	19.01.2025 10:48:49 until 19.01.2025 13:23:01
+		Duration:	02:34:12
+		Location:	20.84341 -156.65278
+
+	GFIN1
+		Images:	6113
+		Time:	19.01.2025 13:09:43 until 19.01.2025 15:29:27
+		Duration:	02:19:44
+		Location:	20.84341 -156.65278
+
+	GFIN2
+		Images:	6663
+		Time:	19.01.2025 11:21:05 until 19.01.2025 13:19:40
+		Duration:	01:58:35
+		Location:	20.84341 -156.65278
+
+	GFTUP1
+		Images:	11781
+		Time:	19.01.2025 09:58:27 until 19.01.2025 15:13:46
+		Duration:	05:15:19
+		Location:	20.84341 -156.65278
+
+(5) - Finish upshot
+	GUP1
+(6) - Pre Finish
+	GPFN1
+		Images:	7009
+		Time:	31.12.2006 18:00:01 until 31.12.2006 21:54:48
+		Duration:	03:54:47
+		Location:	20.84341 -156.65278
+
+	GPFN2
+		Images:	13762
+		Time:	18.01.2025 23:22:32 until 19.01.2025 16:41:12
+		Duration:	17:18:40
+		Location:	20.84341 -156.65278
+
+	GPFK1
+		Images:	5392
+		Time:	19.01.2025 08:59:44 until 19.01.2025 13:27:15
+		Duration:	04:27:31
+		Location:	20.84341 -156.65278
+
+(7) - Mountain 1
+	GMTN1
+(8) - Mile 26
+	GPPF1
+	GPFRS1
+		Images:	2663
+		Time:	19.01.2025 06:06:17 until 19.01.2025 10:48:11
+		Duration:	04:41:54
+		Location:	20.83703 -156.64883
+
+(9) - Mile 22 Monkey Pods Trees
+	GPODS1
+		Images:	2429
+		Time:	19.01.2025 06:28:44 until 19.01.2025 10:42:16
+		Duration:	04:13:32
+		Location:	20.81634 -156.62687
+
+(10) - Mile 25
+	GMTNM1
+		Images:	3230
+		Time:	19.01.2025 05:38:23 until 19.01.2025 11:20:33
+		Duration:	05:42:10
+		Location:	20.83486 -156.64280
+
+	GMTNT1
+		Images:	10463
+		Time:	30.09.2024 05:01:08 until 30.09.2024 10:35:22
+		Duration:	05:34:14
+		Location:	20.83486 -156.64280
+
+(11) - Mile 25.5
+	GMTKM1
+		Images:	5667
+		Time:	19.01.2025 06:42:33 until 19.01.2025 11:13:37
+		Duration:	04:31:04
+		Location:	20.83216 156.63970
+
+	GMKTT1
+		Images:	6909
+		Time:	19.01.2025 12:44:32 until 19.01.2025 17:15:40
+		Duration:	04:31:08
+		Location:	20.83216 156.63970
+
+(12) - Monkey Pod Trees Mile 22
+	GMPTR1
+		Images:	2211
+		Time:	19.01.2025 11:08:20 until 19.01.2025 13:16:06
+		Duration:	02:07:46
+		Location:	20.81634 -156.62687
+
+(13) - Oceanfront mile 24
+	GPHTR1
+		Images:	5502
+		Time:	31.12.2013 18:00:02 until 31.12.2099 22:59:59
+		Duration:	31411.04:59:57
+		Location:	20.82555 -156.63225
+

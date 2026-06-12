@@ -1,0 +1,85 @@
+EventId: 14018
+Spots: 12
+Total Images: 57049
+Time:	30.08.2025 05:56:46 to 30.08.2025 19:03:10
+Duration: 13:06:24
+
+(1) - Finish
+	AGM1
+		Images:	3988
+		Time:	30.08.2025 10:31:29 until 30.08.2025 19:02:00
+		Duration:	08:30:31
+		Location:	NULL NULL
+
+	DTES1
+		Images:	10874
+		Time:	30.08.2025 10:36:02 until 30.08.2025 19:03:10
+		Duration:	08:27:08
+		Location:	NULL NULL
+
+(2) - Start
+	BEG1DRONE1
+		Images:	4
+		Time:	30.08.2025 08:42:36 until 30.08.2025 08:51:43
+		Duration:	00:09:07
+		Location:	NULL NULL
+
+	GWE1
+		Images:	420
+		Time:	30.08.2025 08:46:19 until 30.08.2025 09:02:15
+		Duration:	00:15:56
+		Location:	NULL NULL
+
+	JJ1
+		Images:	507
+		Time:	30.08.2025 05:56:46 until 30.08.2025 09:02:06
+		Duration:	03:05:20
+		Location:	NULL NULL
+
+	MAKO1
+		Images:	231
+		Time:	30.08.2025 08:35:33 until 30.08.2025 09:02:07
+		Duration:	00:26:34
+		Location:	NULL NULL
+
+(3) - 62.0 km
+	BEG2
+		Images:	5496
+		Time:	30.08.2025 09:44:57 until 30.08.2025 17:05:04
+		Duration:	07:20:07
+		Location:	NULL NULL
+
+	BEG2DRONE1
+		Images:	4
+		Time:	30.08.2025 15:08:56 until 30.08.2025 15:18:18
+		Duration:	00:09:22
+		Location:	NULL NULL
+
+(4) - 83.0 km
+	FAT1
+		Images:	6367
+		Time:	30.08.2025 11:31:51 until 30.08.2025 18:53:37
+		Duration:	07:21:46
+		Location:	NULL NULL
+
+(5) - 67.0 km
+	GWE2
+		Images:	10582
+		Time:	30.08.2025 09:57:04 until 30.08.2025 17:58:28
+		Duration:	08:01:24
+		Location:	NULL NULL
+
+(6) - 63.0 km
+	JJ3
+		Images:	11310
+		Time:	30.08.2025 09:36:10 until 30.08.2025 16:54:30
+		Duration:	07:18:20
+		Location:	NULL NULL
+
+(7) - 65.0 km
+	MAKO2
+		Images:	7266
+		Time:	30.08.2025 09:28:29 until 30.08.2025 17:50:19
+		Duration:	08:21:50
+		Location:	NULL NULL
+

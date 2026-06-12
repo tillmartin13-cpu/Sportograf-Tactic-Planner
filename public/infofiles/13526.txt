@@ -1,0 +1,137 @@
+EventId: 13526
+Spots: 20
+Total Images: 29872
+Time:	06.09.2025 11:44:07 to 07.09.2025 14:04:18
+Duration: 1.02:20:11
+
+(1) - Start
+	MVO1
+		Images:	996
+		Time:	06.09.2025 11:44:07 until 06.09.2025 13:16:31
+		Duration:	01:32:24
+		Location:	48.81461 9.21190
+
+(2) - 8.4 km Killesberg
+	ROB1
+		Images:	1325
+		Time:	06.09.2025 12:46:25 until 06.09.2025 14:28:25
+		Duration:	01:42:00
+		Location:	48.80529 9.17539
+
+	ROB1LS1
+		Images:	1479
+		Time:	06.09.2025 12:29:52 until 06.09.2025 14:28:52
+		Duration:	01:59:00
+		Location:	48.80529 9.17539
+
+(3) - 11.3 km Krähenwald
+	MSAI1
+		Images:	2629
+		Time:	06.09.2025 12:47:28 until 06.09.2025 15:33:22
+		Duration:	02:45:54
+		Location:	48.79539 9.16029
+
+	AKAM1
+		Images:	3334
+		Time:	06.09.2025 13:34:38 until 06.09.2025 15:35:50
+		Duration:	02:01:12
+		Location:	48.79539 9.16029
+
+(4) - 20.1 km Burbelesbach
+	JULG1
+		Images:	2511
+		Time:	06.09.2025 13:46:30 until 06.09.2025 17:33:26
+		Duration:	03:46:56
+		Location:	48.77485 9.11589
+
+(5) - 28.6 km Riedsee
+	ROB2
+		Images:	1758
+		Time:	06.09.2025 16:41:52 until 06.09.2025 19:18:31
+		Duration:	02:36:39
+		Location:	48.73529 9.15217
+
+	ROB2LS1
+		Images:	1029
+		Time:	06.09.2025 16:36:33 until 06.09.2025 19:18:58
+		Duration:	02:42:25
+		Location:	48.73529 9.15217
+
+(6) - 28.8 km Riedsee
+	MVO2
+		Images:	2234
+		Time:	06.09.2025 16:35:16 until 06.09.2025 19:46:38
+		Duration:	03:11:22
+		Location:	48.73526 9.15301
+
+	MVO2LS1
+		Images:	1623
+		Time:	06.09.2025 16:29:49 until 06.09.2025 19:51:08
+		Duration:	03:21:19
+		Location:	48.73526 9.15301
+
+(7) - 57.1 km Versorgungsstation Denkendorf
+	AKAM2
+		Images:	136
+		Time:	06.09.2025 19:48:10 until 07.09.2025 06:29:56
+		Duration:	10:41:46
+		Location:	48.70128 9.30741
+
+	MSAI2
+		Images:	97
+		Time:	06.09.2025 17:57:11 until 06.09.2025 22:21:24
+		Duration:	04:24:13
+		Location:	48.70128 9.30741
+
+(8) - 71.9 km Esslingen Weinberge
+	ROB3
+		Images:	406
+		Time:	06.09.2025 21:33:38 until 07.09.2025 06:28:09
+		Duration:	08:54:31
+		Location:	48.74396 9.30345
+
+	ROB3LS1
+		Images:	657
+		Time:	07.09.2025 03:32:07 until 07.09.2025 06:29:01
+		Duration:	02:56:54
+		Location:	48.74396 9.30345
+
+(9) - 83.0 km Weinberge Grabkapelle
+	JULG2
+		Images:	1207
+		Time:	07.09.2025 04:57:18 until 07.09.2025 10:59:14
+		Duration:	06:01:56
+		Location:	48.78926 9.27919
+
+(10) - Finish
+	ROB4LS1
+		Images:	275
+		Time:	07.09.2025 09:02:14 until 07.09.2025 13:58:04
+		Duration:	04:55:50
+		Location:	48.81461 9.21190
+
+	MVO3LS1
+		Images:	483
+		Time:	07.09.2025 06:32:14 until 07.09.2025 09:04:29
+		Duration:	02:32:15
+		Location:	48.81461 9.21190
+
+	MVO3
+		Images:	597
+		Time:	07.09.2025 05:17:05 until 07.09.2025 09:05:30
+		Duration:	03:48:25
+		Location:	48.81461 9.21190
+
+	AKAM3
+		Images:	5227
+		Time:	07.09.2025 06:32:11 until 07.09.2025 14:03:20
+		Duration:	07:31:09
+		Location:	48.81461 9.21190
+
+(11) - Herotent
+	MSAI3
+		Images:	1869
+		Time:	07.09.2025 06:28:12 until 07.09.2025 14:04:18
+		Duration:	07:36:06
+		Location:	48.81461 9.21190
+

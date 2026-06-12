@@ -1,0 +1,108 @@
+EventId: 14689
+Spots: 15
+Total Images: 106522
+Time:	05.04.2025 06:55:50 to 06.04.2025 17:06:51
+Duration: 1.10:11:01
+
+(1) - Start
+	CCZ1
+		Images:	330
+		Time:	05.04.2025 11:18:19 until 06.04.2025 08:59:05
+		Duration:	21:40:46
+		Location:	37.84765 -120.84638
+
+(2) - Obstacle 13 MONKEY BARS
+	JOKY1
+		Images:	12194
+		Time:	06.04.2025 07:46:12 until 06.04.2025 15:07:57
+		Duration:	07:21:45
+		Location:	37.84054 -120.85014
+
+	AMON1
+		Images:	13608
+		Time:	06.04.2025 07:46:13 until 06.04.2025 15:06:39
+		Duration:	07:20:26
+		Location:	37.84054 -120.85014
+
+(3) - Obstacle 14 INVERTED WALL
+	DDC1
+		Images:	14224
+		Time:	06.04.2025 07:43:28 until 06.04.2025 15:15:39
+		Duration:	07:32:11
+		Location:	37.84184 -120.85257
+
+(4) - Obstacle 15 BARBED WIRE
+	TERT1
+		Images:	6081
+		Time:	05.04.2025 08:18:53 until 06.04.2025 15:23:32
+		Duration:	1.07:04:39
+		Location:	37.84365 -120.85120
+
+(5) - Obstacle 23 BENDER
+	AIPA1
+		Images:	5017
+		Time:	05.04.2025 06:55:50 until 06.04.2025 14:02:14
+		Duration:	1.07:06:24
+		Location:	37.85294 -120.86177
+
+(6) - Obstacle 17 BUCKET CARRY
+	BICI1
+		Images:	12485
+		Time:	05.04.2025 08:52:36 until 06.04.2025 15:37:52
+		Duration:	1.06:45:16
+		Location:	37.84483 -120.85645
+
+(7) - Impressions / Pano
+	BICI1DRONE1
+		Images:	24
+		Time:	06.04.2025 13:31:20 until 06.04.2025 13:42:02
+		Duration:	00:10:42
+		Location:	NULL NULL
+
+(8) - Obstacle 27 HERCULES
+	JWI1
+		Images:	3920
+		Time:	05.04.2025 07:04:47 until 06.04.2025 16:24:22
+		Duration:	1.09:19:35
+		Location:	37.84883 -120.84973
+
+(9) - Obstacle 20 SANDBAG CARRY
+	NIMA1LS1
+		Images:	4280
+		Time:	06.04.2025 07:58:24 until 06.04.2025 16:26:04
+		Duration:	08:27:40
+		Location:	37.84705 -120.85189
+
+	NIMA2
+		Images:	10200
+		Time:	06.04.2025 07:58:43 until 06.04.2025 16:11:55
+		Duration:	08:13:12
+		Location:	37.84705 -120.85189
+
+(10) - Obstacle 32 A FRAME CARGO
+	RUMU1
+		Images:	6069
+		Time:	06.04.2025 07:36:11 until 06.04.2025 17:00:07
+		Duration:	09:23:56
+		Location:	37.84820 -120.84700
+
+(11) - Obstacle 33 SLIP WALL
+	HOG1
+		Images:	13038
+		Time:	06.04.2025 07:33:34 until 06.04.2025 17:01:12
+		Duration:	09:27:38
+		Location:	37.84756 -120.84735
+
+(12) - Herotent
+	DEST1
+		Images:	4858
+		Time:	06.04.2025 08:28:46 until 06.04.2025 17:06:51
+		Duration:	08:38:05
+		Location:	37.84716 -120.84761
+
+	CCZ2
+		Images:	194
+		Time:	06.04.2025 15:06:35 until 06.04.2025 15:22:09
+		Duration:	00:15:34
+		Location:	37.84716 -120.84761
+

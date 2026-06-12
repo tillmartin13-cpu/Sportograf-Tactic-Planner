@@ -1,0 +1,120 @@
+EventId: 13883
+Spots: 18
+Total Images: 67703
+Time:	10.05.2025 06:52:42 to 11.05.2025 16:32:33
+Duration: 1.09:39:51
+
+(1) - 1,5 km
+	JTA1
+		Images:	896
+		Time:	11.05.2025 05:52:16 until 11.05.2025 10:31:15
+		Duration:	04:38:59
+		Location:	50.86123 5.82357
+
+(2) - 9,0 km
+	ROC1
+		Images:	2884
+		Time:	10.05.2025 21:16:11 until 11.05.2025 09:45:22
+		Duration:	12:29:11
+		Location:	50.84052 5.80449
+
+(3) - 17,0 km
+	OP1
+		Images:	5922
+		Time:	11.05.2025 08:54:31 until 11.05.2025 10:23:51
+		Duration:	01:29:20
+		Location:	50.82651 5.86745
+
+	OP1LS1
+		Images:	3055
+		Time:	11.05.2025 09:02:19 until 11.05.2025 10:24:56
+		Duration:	01:22:37
+		Location:	50.82651 5.86745
+
+(4) - 17,5 km
+	MAW1
+		Images:	12533
+		Time:	11.05.2025 09:12:19 until 11.05.2025 10:21:18
+		Duration:	01:08:59
+		Location:	50.82572 5.86838
+
+	MAW1LS1
+		Images:	1974
+		Time:	11.05.2025 08:49:54 until 11.05.2025 10:24:08
+		Duration:	01:34:14
+		Location:	50.82572 5.86838
+
+	MAW1LS2
+		Images:	1938
+		Time:	11.05.2025 08:58:54 until 11.05.2025 10:24:10
+		Duration:	01:25:16
+		Location:	50.82572 5.86838
+
+	MAW1DRONE1
+		Images:	8
+		Time:	10.05.2025 08:34:42 until 11.05.2025 15:33:57
+		Duration:	1.06:59:15
+		Location:	50.82572 5.86838
+
+(5) - 45,0 km
+	NBA1
+		Images:	5000
+		Time:	11.05.2025 10:12:18 until 11.05.2025 13:41:58
+		Duration:	03:29:40
+		Location:	50.86253 5.82880
+
+(6) - 92,0 km / 147,5 km
+	MAW2
+		Images:	8868
+		Time:	10.05.2025 09:29:42 until 11.05.2025 16:05:53
+		Duration:	1.06:36:11
+		Location:	50.86162 5.76786
+
+	MAW2LS1
+		Images:	2083
+		Time:	11.05.2025 11:25:57 until 11.05.2025 16:09:23
+		Duration:	04:43:26
+		Location:	50.86162 5.76786
+
+	MAW2LS2
+		Images:	3231
+		Time:	11.05.2025 11:31:16 until 11.05.2025 16:08:09
+		Duration:	04:36:53
+		Location:	50.86162 5.76786
+
+(7) - 92,5 km / 148 km
+	OP2
+		Images:	5169
+		Time:	11.05.2025 11:32:01 until 11.05.2025 16:10:41
+		Duration:	04:38:40
+		Location:	50.86241 5.76700
+
+	OP2LS1
+		Images:	1752
+		Time:	11.05.2025 11:23:37 until 11.05.2025 13:35:59
+		Duration:	02:12:22
+		Location:	50.86241 5.76700
+
+(8) - 97,5 km / 153
+	ROC2
+		Images:	8360
+		Time:	11.05.2025 10:00:47 until 11.05.2025 16:10:21
+		Duration:	06:09:34
+		Location:	50.87104 5.80003
+
+(9) - 99,0 km / 154,5 km
+	NBA2
+		Images:	1916
+		Time:	11.05.2025 13:41:59 until 11.05.2025 16:31:50
+		Duration:	02:49:51
+		Location:	50.86795 5.81930
+
+(10) - Finish
+	JTA2
+		Images:	2107
+		Time:	11.05.2025 10:33:23 until 11.05.2025 16:32:33
+		Duration:	05:59:10
+		Location:	50.86759 5.82211
+
+(11) - Impressions / Pano
+	PANO1

@@ -1,0 +1,90 @@
+EventId: 14220
+Spots: 13
+Total Images: 16795
+Time:	23.05.2025 22:47:36 to 24.05.2025 14:14:45
+Duration: 15:27:09
+
+(1) - Swim - Start
+	MUS1
+		Images:	1172
+		Time:	24.05.2025 07:21:02 until 24.05.2025 08:15:42
+		Duration:	00:54:40
+		Location:	1.54227 104.2663
+
+	VMM1
+		Images:	695
+		Time:	24.05.2025 07:05:05 until 24.05.2025 07:38:22
+		Duration:	00:33:17
+		Location:	1.54227 104.2663
+
+(2) - Swim - Transition zone
+	MUS2
+		Images:	295
+		Time:	24.05.2025 06:08:49 until 24.05.2025 07:21:02
+		Duration:	01:12:13
+		Location:	1.54227 104.2663
+
+	RY1
+		Images:	198
+		Time:	24.05.2025 06:38:24 until 24.05.2025 08:16:03
+		Duration:	01:37:39
+		Location:	1.54227 104.2663
+
+	VMM3
+		Images:	163
+		Time:	24.05.2025 06:13:51 until 24.05.2025 07:44:46
+		Duration:	01:30:55
+		Location:	1.54227 104.2663
+
+(3) - Finish
+	MUS3
+		Images:	2539
+		Time:	24.05.2025 08:20:04 until 24.05.2025 14:14:45
+		Duration:	05:54:41
+		Location:	1.54227 104.2663
+
+	PZIE2
+		Images:	112
+		Time:	24.05.2025 11:07:15 until 24.05.2025 13:00:38
+		Duration:	01:53:23
+		Location:	1.54227 104.2663
+
+	VMM2
+		Images:	6935
+		Time:	24.05.2025 07:47:00 until 24.05.2025 12:02:13
+		Duration:	04:15:13
+		Location:	1.54227 104.2663
+
+	IMH2
+		Images:	72
+		Time:	23.05.2025 22:47:36 until 24.05.2025 11:42:47
+		Duration:	12:55:11
+		Location:	1.54227 104.2663
+
+(4) - Bike - 0,0 km Bike Roundabout
+	PZIE1
+		Images:	912
+		Time:	24.05.2025 06:48:21 until 24.05.2025 13:32:26
+		Duration:	06:44:05
+		Location:	1.60668 104.25034
+
+	IMH1
+		Images:	1274
+		Time:	24.05.2025 06:34:12 until 24.05.2025 09:44:20
+		Duration:	03:10:08
+		Location:	1.60668 104.25034
+
+(5) - Run - 0,0 km Roundabout
+	RY2
+		Images:	2290
+		Time:	24.05.2025 08:17:42 until 24.05.2025 11:55:21
+		Duration:	03:37:39
+		Location:	1.53812 104.26622
+
+(6) - Swim - Impressions / Pano
+	VMM4
+		Images:	138
+		Time:	24.05.2025 06:12:19 until 24.05.2025 06:56:57
+		Duration:	00:44:38
+		Location:	1.54227 104.2663
+

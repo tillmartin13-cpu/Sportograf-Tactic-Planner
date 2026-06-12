@@ -1,0 +1,87 @@
+EventId: 13565
+Spots: 12
+Total Images: 38083
+Time:	11.10.2025 07:26:39 to 11.10.2025 17:38:13
+Duration: 10:11:34
+
+(1) - Start
+	SOUG1
+		Images:	1670
+		Time:	11.10.2025 07:26:39 until 11.10.2025 11:06:51
+		Duration:	03:40:12
+		Location:	52.04891 -9.51731
+
+(2) - Cycle - Stage 1 Km 4
+	SKAL1
+		Images:	647
+		Time:	11.10.2025 08:09:14 until 11.10.2025 09:41:31
+		Duration:	01:32:17
+		Location:	52.03284 -9.49300
+
+(3) - Cycle - Stage 1 Km 5,8
+	GMU1
+		Images:	1476
+		Time:	11.10.2025 07:58:49 until 11.10.2025 09:45:51
+		Duration:	01:47:02
+		Location:	52.01745 -9.49657
+
+(4) - Kayak -
+	LEHE1
+		Images:	9193
+		Time:	11.10.2025 08:59:21 until 11.10.2025 12:48:18
+		Duration:	03:48:57
+		Location:	52.00629 -9.52424
+
+(5) - Run
+	OHAL1
+		Images:	3647
+		Time:	11.10.2025 09:03:26 until 11.10.2025 15:07:41
+		Duration:	06:04:15
+		Location:	52.00075 -9.50611
+
+	OHAL1LS1
+		Images:	854
+		Time:	11.10.2025 09:11:52 until 11.10.2025 14:19:42
+		Duration:	05:07:50
+		Location:	52.00075 -9.50611
+
+	OHAL1LS2
+		Images:	936
+		Time:	11.10.2025 10:34:44 until 11.10.2025 13:57:53
+		Duration:	03:23:09
+		Location:	52.00075 -9.50611
+
+(6) - Cycle - Stage 3,5 & 7
+	GMU2
+		Images:	6476
+		Time:	11.10.2025 07:58:49 until 11.10.2025 12:58:33
+		Duration:	04:59:44
+		Location:	52.01321 -9.49760
+
+(7) - final Run
+	SKAL2
+		Images:	3249
+		Time:	11.10.2025 10:55:35 until 11.10.2025 16:06:29
+		Duration:	05:10:54
+		Location:	52.04804 -9.52204
+
+(8) - Finish
+	LEHE2
+		Images:	746
+		Time:	11.10.2025 12:48:18 until 11.10.2025 15:29:04
+		Duration:	02:40:46
+		Location:	52.04846 -9.51494
+
+	SOUG2
+		Images:	9168
+		Time:	11.10.2025 10:41:57 until 11.10.2025 16:08:43
+		Duration:	05:26:46
+		Location:	52.04846 -9.51494
+
+(9) - Impressions / Pano
+	PANO1
+		Images:	21
+		Time:	11.10.2025 07:41:44 until 11.10.2025 17:38:13
+		Duration:	09:56:29
+		Location:	52.04846 -9.51494
+

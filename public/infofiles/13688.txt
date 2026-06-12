@@ -1,0 +1,76 @@
+EventId: 13688
+Spots: 10
+Total Images: 111873
+Time:	18.07.2025 23:41:40 to 06.09.2025 15:26:36
+Duration: 49.15:44:56
+
+(1) - Start
+	CCZ1
+		Images:	675
+		Time:	06.09.2025 06:39:30 until 06.09.2025 08:46:11
+		Duration:	02:06:41
+		Location:	39.90687 -75.16532
+
+(2) - Obstacle 3 JERRY CAN CARRY
+	TAMA1
+		Images:	13304
+		Time:	06.09.2025 06:41:17 until 06.09.2025 14:10:58
+		Duration:	07:29:41
+		Location:	39.90520 -75.16532
+
+(3) - Obstacle 5 A-FRAME CARGO
+	MRKE1
+		Images:	13194
+		Time:	06.09.2025 07:13:50 until 06.09.2025 14:16:49
+		Duration:	07:02:59
+		Location:	39.90694 -75.16765
+
+(4) - Obstacle 9 MULTI-RIG
+	JSAN1
+		Images:	6771
+		Time:	06.09.2025 07:06:09 until 06.09.2025 14:24:13
+		Duration:	07:18:04
+		Location:	39.90674 -75.16796
+
+(5) - Obstacle 15 7FT WALL
+	TYHA1
+		Images:	23334
+		Time:	05.09.2025 23:38:53 until 06.09.2025 14:57:52
+		Duration:	15:18:59
+		Location:	39.90536 -75.16761
+
+(6) - Obstacle 17 PUSH UP
+	ELAM1
+		Images:	6606
+		Time:	06.09.2025 07:31:35 until 06.09.2025 15:13:10
+		Duration:	07:41:35
+		Location:	39.90564 -75.16713
+
+(7) - Obstacle 19 ROPE CLIMB
+	RU1
+		Images:	6740
+		Time:	05.09.2025 20:17:22 until 06.09.2025 15:16:02
+		Duration:	18:58:40
+		Location:	39.90660 -75.16610
+
+(8) - Obstacle 20 BOX JUMP
+	ANMF1
+		Images:	21902
+		Time:	05.09.2025 18:53:30 until 06.09.2025 15:20:21
+		Duration:	20:26:51
+		Location:	39.90646 -75.16680
+
+(9) - Obstacle 22 GAUNTLET
+	JAYK1
+		Images:	13124
+		Time:	18.07.2025 23:41:40 until 06.09.2025 15:26:01
+		Duration:	49.15:44:21
+		Location:	39.90598 -75.16590
+
+(10) - Obstacle 0 FINISH LINE
+	AAD1
+		Images:	6223
+		Time:	06.09.2025 06:35:12 until 06.09.2025 15:26:36
+		Duration:	08:51:24
+		Location:	39.90598 -75.16590
+

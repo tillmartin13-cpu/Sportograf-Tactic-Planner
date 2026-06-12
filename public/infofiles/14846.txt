@@ -1,0 +1,73 @@
+EventId: 14846
+Spots: 53
+Total Images: 2
+Time:	31.01.2025 16:47:30 to 31.01.2025 19:19:41
+Duration: 02:32:11
+
+(1) - Finish
+	MAT1
+	DVAL1
+	GIP5
+	GIP5LS2
+	GIP5LS1
+	VICY5
+(2) - Medalwall
+	ANP1
+	DANG5
+(3) - Station 1 Skierg
+	KHN2
+	MATA2
+	DANM1
+	NIJA1
+	JOD1
+	MIGO3
+(4) - Station 2 Sled Push
+	EUGP1
+	DEST2
+	YEP1
+	KHN1
+	ANGA2
+	NIJA2
+	DANG1
+	GIP1
+		Images:	2
+		Time:	31.01.2025 16:47:30 until 31.01.2025 19:19:41
+		Duration:	02:32:11
+		Location:	36.13276 -115.15648
+
+	VICY1
+(5) - Station 3 Sled Pull
+	HJP1
+	DEST1
+	AGJ1
+	GOB2
+	JANH2
+	DANG2
+	GIP2
+	VICY2
+	DMI3
+(6) - Station 5 Rowing
+	HJP2
+	AGJ2
+	ANGA1
+	JANH1
+	GIP3
+	VICY3
+(7) - Station 6 Farmers Carry
+	DANG2LS1
+	DMI2
+(8) - Station 7 Sandbag lunges
+	EUGP2
+	YEP2
+	GOB1
+	DMI1
+	DANG3
+(9) - Station 8 Wall Balls
+	JOD2
+	DANM2
+	MIGO2
+	MATA1
+	JAL1
+	DANG4
+	GIP4
+	VICY4

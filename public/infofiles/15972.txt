@@ -1,0 +1,243 @@
+EventId: 15972
+Spots: 36
+Total Images: 321604
+Time:	31.12.2013 19:00:01 to 31.12.2099 22:59:59
+Duration: 31411.03:59:58
+
+(1) - Impressions / Pano
+	PANO1
+(2) - 0.0 km 862413 Zach MSC 7 Day 2
+	ZACH1
+		Images:	5130
+		Time:	31.05.2025 10:39:41 until 31.05.2025 21:36:53
+		Duration:	10:57:12
+		Location:	NULL NULL
+
+(3) - 0.0 km 862410 Zah MSC 5 Day 2
+	ZACH2
+		Images:	2675
+		Time:	31.05.2025 07:15:54 until 31.05.2025 09:37:35
+		Duration:	02:21:41
+		Location:	NULL NULL
+
+(4) - 0.0 km 862409 Mark MSC 4 Day 2
+	MARK1
+		Images:	2627
+		Time:	31.05.2025 06:28:02 until 31.05.2025 10:50:02
+		Duration:	04:22:00
+		Location:	NULL NULL
+
+(5) - 0.0 km 862418 Mark MSC 10 Day2
+	MARK2
+		Images:	9237
+		Time:	31.05.2025 11:43:11 until 31.05.2025 19:25:15
+		Duration:	07:42:04
+		Location:	NULL NULL
+
+(6) - 0.0 km 862402 Peggy MSC1 Day 2
+	PEGGY1
+		Images:	1668
+		Time:	31.05.2025 05:50:28 until 31.05.2025 09:29:57
+		Duration:	03:39:29
+		Location:	NULL NULL
+
+(7) - 0.0 km 862388 Peggy Finish Day 2
+	PEGGY2
+		Images:	4076
+		Time:	31.05.2025 10:52:09 until 01.06.2025 00:13:29
+		Duration:	13:21:20
+		Location:	NULL NULL
+
+(8) - 0.0 km 8+2418 Mark MSC 10 Day 2
+	ADDIS1
+		Images:	6281
+		Time:	31.05.2025 08:32:52 until 31.05.2025 20:02:16
+		Duration:	11:29:24
+		Location:	NULL NULL
+
+(9) - 0.0 km 865735 Addison MSC 10 Day 2
+	ADDIS2
+		Images:	27379
+		Time:	30.05.2025 23:42:31 until 31.05.2025 08:11:04
+		Duration:	08:28:33
+		Location:	NULL NULL
+
+(10) - 0.0 km 862404 Garrett MSC 2 Day 2
+	GARRE1
+		Images:	7155
+		Time:	31.05.2025 06:56:03 until 31.05.2025 10:12:22
+		Duration:	03:16:19
+		Location:	NULL NULL
+
+(11) - 0.0 km 862392 Garrett Pre Fin Day 2
+	GARRE2
+		Images:	4488
+		Time:	31.05.2025 11:07:07 until 31.05.2025 17:03:47
+		Duration:	05:56:40
+		Location:	NULL NULL
+
+(12) - 0.0 km 862403 Brantley MSC 2 Day 2
+	BRANT1
+		Images:	3066
+		Time:	31.05.2025 05:18:06 until 31.05.2025 10:37:43
+		Duration:	05:19:37
+		Location:	NULL NULL
+
+(13) - 0.0 km 862391 Pre Fin Day 2
+	BRANT2
+		Images:	12162
+		Time:	31.05.2025 10:46:03 until 31.05.2025 20:59:45
+		Duration:	10:13:42
+		Location:	NULL NULL
+
+(14) - 0.0 km 862407 Jhad MSC3 Day 2
+	JHAD1
+		Images:	5958
+		Time:	31.05.2025 06:02:03 until 31.05.2025 08:12:59
+		Duration:	02:10:56
+		Location:	NULL NULL
+
+(15) - 0.0 km 862416 Jhad MSC 9 Day 2
+	JHAD2
+		Images:	13592
+		Time:	31.05.2025 09:46:19 until 31.05.2025 21:24:31
+		Duration:	11:38:12
+		Location:	NULL NULL
+
+(16) - 0.0 km 862406 MSC3 Day 2
+	DON1
+		Images:	4208
+		Time:	31.05.2025 06:08:10 until 31.05.2025 08:12:54
+		Duration:	02:04:44
+		Location:	NULL NULL
+
+(17) - 0.0 km 862415 Don MSC 9 Day 2
+	DON2
+		Images:	7576
+		Time:	31.05.2025 09:58:18 until 31.05.2025 21:24:30
+		Duration:	11:26:12
+		Location:	NULL NULL
+
+(18) - 0.0 km 862367 Claude Finsih Day 2
+	CLAUD1
+		Images:	21831
+		Time:	31.05.2025 09:00:17 until 01.06.2025 02:02:00
+		Duration:	17:01:43
+		Location:	NULL NULL
+
+(19) - 0.0 km 862398 jhad msc2
+	JAZV1
+		Images:	545
+		Time:	30.05.2025 14:49:04 until 30.05.2025 15:58:41
+		Duration:	01:09:37
+		Location:	NULL NULL
+
+(20) - 0.0 km 862395 don msc1
+	DONW1
+		Images:	401
+		Time:	30.05.2025 15:30:58 until 30.05.2025 16:07:59
+		Duration:	00:37:01
+		Location:	NULL NULL
+
+(21) - 0.0 km 862399 claude start
+	CBIRD1
+		Images:	324
+		Time:	30.05.2025 12:54:50 until 30.05.2025 14:57:57
+		Duration:	02:03:07
+		Location:	NULL NULL
+
+(22) - 0.0 km 862401 Claude MSC1 Day2
+	CBIRD2
+		Images:	4332
+		Time:	31.05.2025 04:28:20 until 31.05.2025 08:30:33
+		Duration:	04:02:13
+		Location:	NULL NULL
+
+(23) - 0.0 km 862408 MSC3 Trigger
+	ATRIG1
+		Images:	2446
+		Time:	31.05.2025 06:11:42 until 31.05.2025 08:13:10
+		Duration:	02:01:28
+		Location:	NULL NULL
+
+(24) - 0.0 km 862417 MSC9 Trigger ay 2
+	BTRIG1
+		Images:	68440
+		Time:	31.05.2025 09:50:39 until 31.05.2025 21:03:23
+		Duration:	11:12:44
+		Location:	NULL NULL
+
+(25) - 0.0 km 865736 Trigger MSC 10
+	CTRIG1
+		Images:	27379
+		Time:	30.05.2025 23:42:31 until 31.05.2025 08:11:04
+		Duration:	08:28:33
+		Location:	NULL NULL
+
+(26) - 0.0 km 862405 Trigger MSC 2 Day 2
+	DTRIG1
+		Images:	4079
+		Time:	31.12.2013 19:00:01 until 31.12.2099 22:59:59
+		Duration:	31411.03:59:58
+		Location:	NULL NULL
+
+(27) - 0.0 km 862412 Scott MSC 7 Day 2
+	SCOTT1
+		Images:	8113
+		Time:	31.05.2025 10:07:50 until 31.05.2025 20:55:50
+		Duration:	10:48:00
+		Location:	NULL NULL
+
+(28) - 0.0 km 865732 Scott MSC 5 Day 2
+	SCOTT2
+		Images:	4314
+		Time:	31.05.2025 06:24:44 until 31.05.2025 08:54:34
+		Duration:	02:29:50
+		Location:	NULL NULL
+
+(29) - 0.0 km 865734 Trigger MSC 7
+	ETRIG1
+		Images:	19227
+		Time:	31.05.2025 06:46:44 until 31.05.2025 12:42:20
+		Duration:	05:55:36
+		Location:	NULL NULL
+
+(30) - 0.0 km 865733 Trigger MSC 5 Day 2
+	FTRIG1
+		Images:	3534
+		Time:	31.05.2025 03:05:13 until 31.05.2025 05:40:28
+		Duration:	02:35:15
+		Location:	NULL NULL
+
+(31) - 0.0 km 862411 Mary MSC6 Day 2
+	MARY1
+(32) - 0.0 km 862414 Mary MSC 9 Day 2
+	MARY2
+		Images:	5461
+		Time:	31.05.2025 10:31:58 until 31.05.2025 18:59:59
+		Duration:	08:28:01
+		Location:	NULL NULL
+
+(33) - 0.0 km Start Trigger MSC 1
+	STRIG1
+		Images:	7548
+		Time:	30.05.2025 20:05:43 until 31.05.2025 10:32:29
+		Duration:	14:26:46
+		Location:	NULL NULL
+
+(34) - 0.0 km 862388 Finish Trigger
+	FINT1
+		Images:	21424
+		Time:	31.05.2025 16:33:02 until 31.05.2025 23:22:41
+		Duration:	06:49:39
+		Location:	NULL NULL
+
+(35) - none
+	FINT2
+(36) - 0.0 km 865731 Trigger MSC 4 Day 2
+	ZTRIG1
+		Images:	4928
+		Time:	30.05.2025 19:39:54 until 30.05.2025 23:39:51
+		Duration:	03:59:57
+		Location:	NULL NULL
+

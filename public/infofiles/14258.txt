@@ -1,0 +1,495 @@
+EventId: 14258
+Spots: 75
+Total Images: 174041
+Time:	15.03.2025 06:45:54 to 23.03.2025 13:49:52
+Duration: 8.07:03:58
+
+(1) - Impressions / Pano
+	PANO1
+(2) - Registration
+	S99TAZ1
+		Images:	709
+		Time:	15.03.2025 07:03:35 until 15.03.2025 12:13:41
+		Duration:	05:10:06
+		Location:	-33.79961 18.62428
+
+	S99JHI1
+		Images:	790
+		Time:	15.03.2025 06:45:54 until 15.03.2025 13:02:29
+		Duration:	06:16:35
+		Location:	-33.79961 18.62428
+
+	S99LARS1
+		Images:	135
+		Time:	15.03.2025 07:06:40 until 15.03.2025 12:27:17
+		Duration:	05:20:37
+		Location:	-33.79961 18.62428
+
+	S99BP1
+		Images:	66
+		Time:	15.03.2025 07:21:30 until 15.03.2025 12:33:08
+		Duration:	05:11:38
+		Location:	-33.79961 18.62428
+
+(3) - Prologue - Start
+	S0CRF1
+		Images:	5531
+		Time:	16.03.2025 04:54:29 until 16.03.2025 12:29:44
+		Duration:	07:35:15
+		Location:	-33.79737 18.62552
+
+(4) - Prologue - @km2.2
+	S0BP1LS1
+		Images:	2549
+		Time:	16.03.2025 05:43:59 until 16.03.2025 12:39:18
+		Duration:	06:55:19
+		Location:	-33.7876 18.61649
+
+(5) - Prologue - km2.5
+	S0BP1
+		Images:	3410
+		Time:	16.03.2025 06:23:14 until 16.03.2025 13:18:36
+		Duration:	06:55:22
+		Location:	-33.78620 18.61656
+
+	S0BP1LS2
+		Images:	2281
+		Time:	16.03.2025 06:10:58 until 16.03.2025 12:42:10
+		Duration:	06:31:12
+		Location:	-33.78620 18.61656
+
+(6) - Prologue - Floating Bridge @km11.0
+	S0JHI1
+		Images:	4620
+		Time:	16.03.2025 06:31:28 until 16.03.2025 12:53:57
+		Duration:	06:22:29
+		Location:	-33.75984 18.60708
+
+(7) - Prologue - Toyota Tough Section @km17.5
+	S0LARS1
+		Images:	5226
+		Time:	16.03.2025 06:19:19 until 16.03.2025 13:11:48
+		Duration:	06:52:29
+		Location:	-33.75984 18.60708
+
+	S0LARS1LS1
+		Images:	1422
+		Time:	16.03.2025 05:47:07 until 16.03.2025 13:11:44
+		Duration:	07:24:37
+		Location:	-33.75984 18.60708
+
+(8) - S1 - Hoogekraal MTB Trails @km45.0
+	S1BP1LS2
+		Images:	1242
+		Time:	17.03.2025 07:39:22 until 17.03.2025 11:32:00
+		Duration:	03:52:38
+		Location:	-33.78202 18.57761
+
+	S1BP1
+		Images:	1575
+		Time:	17.03.2025 06:23:02 until 17.03.2025 11:22:50
+		Duration:	04:59:48
+		Location:	-33.78102 18.57689
+
+	S1BP1LS1
+		Images:	1868
+		Time:	17.03.2025 07:43:11 until 17.03.2025 11:38:26
+		Duration:	03:55:15
+		Location:	-33.78289 18.57560
+
+(9) - S1 - KOM @km55.0
+	S1CRF1
+		Images:	4364
+		Time:	17.03.2025 09:25:06 until 17.03.2025 13:02:52
+		Duration:	03:37:46
+		Location:	-33.81911 18.60080
+
+(10) - S1 - km70.5
+	S1JHI1
+		Images:	5340
+		Time:	17.03.2025 08:26:58 until 17.03.2025 14:57:35
+		Duration:	06:30:37
+		Location:	-33.84669 18.59991
+
+	S1JHI1LS1
+		Images:	876
+		Time:	17.03.2025 07:54:55 until 17.03.2025 11:48:17
+		Duration:	03:53:22
+		Location:	-33.84737 18.59949
+
+(11) - S1 - km85.0
+	S1LARS1
+		Images:	7437
+		Time:	17.03.2025 07:14:20 until 17.03.2025 16:22:19
+		Duration:	09:07:59
+		Location:	-33.81031 18.61037
+
+	S1LARS1LS1
+		Images:	1805
+		Time:	17.03.2025 07:01:04 until 17.03.2025 14:45:22
+		Duration:	07:44:18
+		Location:	-33.81087 18.60985
+
+(12) - S1 - Finish
+	S1BP2
+		Images:	38
+		Time:	17.03.2025 13:13:45 until 17.03.2025 13:21:10
+		Duration:	00:07:25
+		Location:	-33.79700 18.62530
+
+(13) - S2 - km21.0
+	S2CRF1
+		Images:	4752
+		Time:	18.03.2025 05:26:32 until 18.03.2025 11:56:53
+		Duration:	06:30:21
+		Location:	-33.72376 18.69148
+
+(14) - S2 - km43.0
+	S2JHI1
+		Images:	3001
+		Time:	18.03.2025 06:42:44 until 18.03.2025 13:01:55
+		Duration:	06:19:11
+		Location:	-33.69591 18.83103
+
+(15) - S2 - km61.0
+	S2LARS1
+		Images:	237
+		Time:	18.03.2025 06:52:09 until 18.03.2025 08:39:59
+		Duration:	01:47:50
+		Location:	-33.76674 18.92159
+
+	S2LARS2
+		Images:	2792
+		Time:	18.03.2025 08:45:35 until 18.03.2025 14:48:45
+		Duration:	06:03:10
+		Location:	-33.76887 18.92045
+
+	S2LARS1LS1
+		Images:	6526
+		Time:	18.03.2025 06:42:56 until 18.03.2025 12:07:16
+		Duration:	05:24:20
+		Location:	-33.76698 18.92141
+
+(16) - S2 - Finish
+	S2BP1
+		Images:	3188
+		Time:	18.03.2025 06:53:37 until 18.03.2025 15:10:20
+		Duration:	08:16:43
+		Location:	-33.77928 18.92354
+
+	S2BP1LS1
+		Images:	1255
+		Time:	18.03.2025 07:22:48 until 18.03.2025 15:05:37
+		Duration:	07:42:49
+		Location:	-33.77928 18.92354
+
+(17) - S3 - Start
+	S3BP1
+		Images:	88
+		Time:	19.03.2025 05:40:12 until 19.03.2025 06:21:46
+		Duration:	00:41:34
+		Location:	-33.77928 18.92354
+
+(18) - S3 - KOM @km23.0
+	S3JHI1
+		Images:	3782
+		Time:	19.03.2025 06:20:20 until 19.03.2025 10:11:33
+		Duration:	03:51:13
+		Location:	-33.70081 18.93199
+
+	S3JHI1LS1
+		Images:	2657
+		Time:	19.03.2025 06:34:21 until 19.03.2025 10:13:20
+		Duration:	03:38:59
+		Location:	-33.70081 18.93199
+
+(19) - S3 - Toyota Tough Section @km35.0
+	S3LARS1
+		Images:	2064
+		Time:	19.03.2025 07:00:50 until 19.03.2025 10:07:29
+		Duration:	03:06:39
+		Location:	-33.68643 18.93817
+
+	S3LARS1LS1
+		Images:	3324
+		Time:	19.03.2025 06:35:47 until 19.03.2025 11:48:49
+		Duration:	05:13:02
+		Location:	-33.68643 18.93817
+
+(20) - S3 - Krismiskamp @km68.0
+	S3CRF1
+		Images:	4641
+		Time:	19.03.2025 05:15:50 until 19.03.2025 13:40:50
+		Duration:	08:25:00
+		Location:	-33.75031 18.92746
+
+(21) - S3 - Spice Route @km73.0
+	S3BP2
+		Images:	1942
+		Time:	19.03.2025 08:30:28 until 19.03.2025 13:51:29
+		Duration:	05:21:01
+		Location:	-33.75878 18.91993
+
+	S3BP1LS1
+		Images:	1473
+		Time:	19.03.2025 07:40:49 until 19.03.2025 13:51:08
+		Duration:	06:10:19
+		Location:	-33.75906 18.92024
+
+(22) - S3 - Finish
+	S3JHI2
+		Images:	68
+		Time:	19.03.2025 12:54:29 until 19.03.2025 13:08:41
+		Duration:	00:14:12
+		Location:	-33.77928 18.92354
+
+(23) - S3 - Impressions
+	S3LARS2
+		Images:	22
+		Time:	19.03.2025 17:48:40 until 19.03.2025 18:11:14
+		Duration:	00:22:34
+		Location:	-33.77928 18.92354
+
+	S3BP3
+		Images:	48
+		Time:	19.03.2025 05:37:38 until 19.03.2025 17:46:30
+		Duration:	12:08:52
+		Location:	-33.77928 18.92354
+
+(24) - S4 - km30.4
+	S4JHI1
+		Images:	4314
+		Time:	20.03.2025 06:29:40 until 20.03.2025 09:37:58
+		Duration:	03:08:18
+		Location:	-33.76996 18.94339
+
+	S4JHI1LS1
+		Images:	1900
+		Time:	20.03.2025 06:16:11 until 20.03.2025 09:39:17
+		Duration:	03:23:06
+		Location:	-33.76994 18.94310
+
+	S4JHI2
+		Images:	441
+		Time:	20.03.2025 07:47:39 until 20.03.2025 08:41:49
+		Duration:	00:54:10
+		Location:	-33.76996 18.94339
+
+(25) - S4 - Taal Monument Climb km 39.0
+	S4BP1
+		Images:	2653
+		Time:	20.03.2025 07:36:22 until 20.03.2025 10:48:37
+		Duration:	03:12:15
+		Location:	-33.76301 18.94446
+
+	S4BP1LS1
+		Images:	1450
+		Time:	20.03.2025 06:33:48 until 20.03.2025 11:07:55
+		Duration:	04:34:07
+		Location:	-33.76351 18.94435
+
+	S4BP1LS2
+		Images:	2526
+		Time:	20.03.2025 06:53:42 until 20.03.2025 10:55:08
+		Duration:	04:01:26
+		Location:	-33.76301 18.94446
+
+(26) - S4 - Vernooy Trail @km40.0
+	S4LARS1
+		Images:	3817
+		Time:	20.03.2025 07:11:36 until 20.03.2025 10:51:27
+		Duration:	03:39:51
+		Location:	-33.76238 18.94626
+
+	S4LARS1LS1
+		Images:	1715
+		Time:	20.03.2025 07:33:01 until 20.03.2025 11:37:43
+		Duration:	04:04:42
+		Location:	-33.76213 18.94651
+
+(27) - S4 - Nantes Dam @km48.5
+	S4CRF1
+		Images:	6454
+		Time:	20.03.2025 05:27:33 until 20.03.2025 11:50:57
+		Duration:	06:23:24
+		Location:	-33.74044 18.92920
+
+(28) - S4 - Impressions
+	S4LARS2
+		Images:	71
+		Time:	20.03.2025 12:28:21 until 20.03.2025 12:43:37
+		Duration:	00:15:16
+		Location:	-33.77928 18.92354
+
+(29) - S5 - Toyota Tough Section @km60.0
+	S5LARS1
+		Images:	5348
+		Time:	21.03.2025 06:57:30 until 21.03.2025 13:03:45
+		Duration:	06:06:15
+		Location:	-33.92872 18.90070
+
+(30) - S5 - Idasvallei Dam @km54.5
+	S5JHI1
+		Images:	3626
+		Time:	21.03.2025 07:02:12 until 21.03.2025 12:17:10
+		Duration:	05:14:58
+		Location:	-33.91978 18.90005
+
+	S5JHI1LS1
+		Images:	1791
+		Time:	21.03.2025 06:16:18 until 21.03.2025 09:59:18
+		Duration:	03:43:00
+		Location:	-33.91909 18.90000
+
+(31) - S5 - Muratie @km35.0
+	S5BP1
+		Images:	3045
+		Time:	21.03.2025 06:11:10 until 21.03.2025 12:05:44
+		Duration:	05:54:34
+		Location:	-33.86854 18.87322
+
+(32) - S5 - Muratie @km36.0
+	S5BP1LS1
+		Images:	1836
+		Time:	21.03.2025 06:35:35 until 21.03.2025 10:54:48
+		Duration:	04:19:13
+		Location:	-33.87221 18.87822
+
+(33) - S5 - Water Crossing @km64.0
+	S5CRF1
+		Images:	6399
+		Time:	21.03.2025 06:45:21 until 21.03.2025 13:16:07
+		Duration:	06:30:46
+		Location:	-33.94083 18.89001
+
+(34) - S6 - @km39.0
+	S6BP1
+		Images:	3136
+		Time:	22.03.2025 05:50:05 until 22.03.2025 11:44:03
+		Duration:	05:53:58
+		Location:	-34.08562 18.94702
+
+	S6BP1LS1
+		Images:	1309
+		Time:	22.03.2025 06:37:39 until 22.03.2025 11:53:46
+		Duration:	05:16:07
+		Location:	-34.08520 18.94863
+
+(35) - S6 - @km45.0
+	S6JHI1
+		Images:	2096
+		Time:	22.03.2025 06:10:41 until 22.03.2025 07:51:24
+		Duration:	01:40:43
+		Location:	-34.03489 18.91438
+
+(36) - S6 - WP3 @km72.0
+	S6CRF1
+		Images:	6901
+		Time:	22.03.2025 07:40:02 until 22.03.2025 14:24:50
+		Duration:	06:44:48
+		Location:	-34.02884 18.93468
+
+(37) - S6 - @km83.0
+	S6LARS1
+		Images:	4443
+		Time:	22.03.2025 06:00:08 until 22.03.2025 15:02:13
+		Duration:	09:02:05
+		Location:	-34.05157 18.88253
+
+(38) - S6 - @km83.5
+	S6JHI2
+		Images:	3444
+		Time:	22.03.2025 09:45:47 until 22.03.2025 14:51:02
+		Duration:	05:05:15
+		Location:	-34.05516 18.88119
+
+(39) - S7 - Start
+	S7CRF1
+		Images:	573
+		Time:	23.03.2025 08:52:08 until 23.03.2025 11:04:58
+		Duration:	02:12:50
+		Location:	-34.06570 18.88725
+
+	S7BP5
+		Images:	155
+		Time:	23.03.2025 07:48:05 until 23.03.2025 10:01:13
+		Duration:	02:13:08
+		Location:	-34.06570 18.88725
+
+	S7JHI1
+		Images:	226
+		Time:	23.03.2025 09:20:40 until 23.03.2025 10:46:22
+		Duration:	01:25:42
+		Location:	-34.06570 18.88725
+
+(40) - S7 - km0.5
+	S7LARS1
+		Images:	1300
+		Time:	23.03.2025 07:38:59 until 23.03.2025 10:13:29
+		Duration:	02:34:30
+		Location:	-34.06193 18.88779
+
+(41) - S7 - Finish
+	S7BP1
+		Images:	1272
+		Time:	23.03.2025 08:52:26 until 23.03.2025 12:16:44
+		Duration:	03:24:18
+		Location:	-34.06621 18.88773
+
+	S7BP1LS1
+		Images:	896
+		Time:	23.03.2025 10:19:31 until 23.03.2025 13:42:35
+		Duration:	03:23:04
+		Location:	-34.06621 18.88773
+
+	S7JHI2
+		Images:	4391
+		Time:	23.03.2025 11:03:17 until 23.03.2025 13:42:30
+		Duration:	02:39:13
+		Location:	-34.06621 18.88773
+
+	S7JHI2LS1
+		Images:	147
+		Time:	23.03.2025 10:41:02 until 23.03.2025 13:42:26
+		Duration:	03:01:24
+		Location:	-34.06621 18.88773
+
+(42) - S7 - Mixed Zone after Finish
+	S7BP3
+		Images:	140
+		Time:	23.03.2025 12:30:33 until 23.03.2025 13:43:29
+		Duration:	01:12:56
+		Location:	-34.06621 18.88521
+
+	S7TAZ1
+		Images:	355
+		Time:	23.03.2025 11:04:58 until 23.03.2025 12:29:24
+		Duration:	01:24:26
+		Location:	-34.06621 18.88521
+
+(43) - S7 - Ceremony
+	S7BP2
+		Images:	80
+		Time:	23.03.2025 12:08:15 until 23.03.2025 12:25:18
+		Duration:	00:17:03
+		Location:	-34.06621 18.88773
+
+(44) - S7 - Medals
+	S7BP4
+		Images:	338
+		Time:	23.03.2025 12:33:16 until 23.03.2025 13:42:47
+		Duration:	01:09:31
+		Location:	-34.06621 18.88521
+
+	S7TAZ2
+		Images:	566
+		Time:	23.03.2025 12:30:00 until 23.03.2025 13:36:02
+		Duration:	01:06:02
+		Location:	-34.06621 18.88521
+
+	S7CRF2
+		Images:	1743
+		Time:	23.03.2025 11:14:48 until 23.03.2025 13:49:52
+		Duration:	02:35:04
+		Location:	-34.06621 18.88521
+

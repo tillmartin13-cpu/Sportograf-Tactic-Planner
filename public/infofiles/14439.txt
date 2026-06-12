@@ -1,0 +1,134 @@
+EventId: 14439
+Spots: 19
+Total Images: 93741
+Time:	07.06.2025 07:02:23 to 06.08.2025 17:09:30
+Duration: 60.10:07:07
+
+(1) - Start
+	NIMA1
+		Images:	3553
+		Time:	08.06.2025 07:43:03 until 08.06.2025 13:41:14
+		Duration:	05:58:11
+		Location:	39.14749 -84.88272
+
+	NIMA1LS1
+		Images:	847
+		Time:	08.06.2025 07:31:56 until 08.06.2025 13:41:26
+		Duration:	06:09:30
+		Location:	39.14749 -84.88272
+
+(2) - Obstacle 13 Twister
+	AAD1
+		Images:	9174
+		Time:	08.06.2025 08:06:02 until 08.06.2025 13:38:35
+		Duration:	05:32:33
+		Location:	39.14886 -84.89054
+
+(3) - Obstacle 10 Rolling Mud
+	HAMK1
+		Images:	11355
+		Time:	08.06.2025 07:54:03 until 08.06.2025 14:54:39
+		Duration:	07:00:36
+		Location:	39.14555 -84.88832
+
+(4) - Obstacle 11 Dunk Wall
+	GIP1
+		Images:	6275
+		Time:	08.06.2025 08:09:59 until 08.06.2025 14:56:25
+		Duration:	06:46:26
+		Location:	39.14548 -84.88810
+
+	GIP1LS2
+		Images:	2362
+		Time:	07.06.2025 10:12:04 until 08.06.2025 13:38:01
+		Duration:	1.03:25:57
+		Location:	39.14548 -84.88810
+
+(5) - Run
+	GIP1LS1
+		Images:	745
+		Time:	08.06.2025 08:05:08 until 08.06.2025 15:04:43
+		Duration:	06:59:35
+		Location:	39.14582 -84.88762
+
+(6) - Obstacle 27 A-Frame Cargo
+	ROOT1
+		Images:	2855
+		Time:	08.06.2025 07:48:55 until 08.06.2025 16:32:21
+		Duration:	08:43:26
+		Location:	39.14694 -84.88646
+
+	JBB1
+		Images:	15337
+		Time:	08.06.2025 07:04:07 until 08.06.2025 15:53:53
+		Duration:	08:49:46
+		Location:	39.14336 -84.88523
+
+(7) - Obstacle 28 Inverted Wall
+	DMCI1
+		Images:	7186
+		Time:	08.06.2025 07:54:32 until 08.06.2025 16:28:40
+		Duration:	08:34:08
+		Location:	39.14700 -84.88694
+
+(8) - Obstacle 29 Hercules Hoist
+	AWES1
+		Images:	3629
+		Time:	08.06.2025 08:48:30 until 08.06.2025 15:25:55
+		Duration:	06:37:25
+		Location:	39.14694 -84.88646
+
+(9) - Obstacle 32 Sandbag Carry #2
+	THAT1
+		Images:	6216
+		Time:	08.06.2025 08:11:49 until 08.06.2025 17:11:11
+		Duration:	08:59:22
+		Location:	39.14380 -84.88552
+
+(10) - Obstacle 30 Monkey Bars
+	PRR1
+		Images:	6926
+		Time:	08.06.2025 08:51:05 until 08.06.2025 16:47:46
+		Duration:	07:56:41
+		Location:	39.14706 -84.88634
+
+	CCZ1
+		Images:	1768
+		Time:	08.06.2025 09:55:34 until 08.06.2025 11:57:09
+		Duration:	02:01:35
+		Location:	39.14706 -84.88634
+
+(11) - Impressions / Pano
+	PRR1DRONE1
+		Images:	54
+		Time:	07.06.2025 07:02:23 until 07.06.2025 10:38:53
+		Duration:	03:36:30
+		Location:	39.14749 -84.88272
+
+	CCZ1DRONE1
+		Images:	9
+		Time:	08.06.2025 13:47:24 until 08.06.2025 13:47:44
+		Duration:	00:00:20
+		Location:	39.14749 -84.88272
+
+(12) - Obstacle 34 Slip Wall
+	IZZY1
+		Images:	7614
+		Time:	08.06.2025 09:09:25 until 08.06.2025 17:08:25
+		Duration:	07:59:00
+		Location:	39.14767 -84.88490
+
+(13) - Obstacle 35 Fire Jump
+	LIT1
+		Images:	4986
+		Time:	08.06.2025 17:09:07 until 06.08.2025 17:09:30
+		Duration:	59.00:00:23
+		Location:	39.14738 -84.88373
+
+(14) - Herotent
+	SCOT1
+		Images:	2850
+		Time:	08.06.2025 07:59:09 until 08.06.2025 17:11:32
+		Duration:	09:12:23
+		Location:	39.14736 -84.88401
+

@@ -1,0 +1,84 @@
+EventId: 14734
+Spots: 12
+Total Images: 18146
+Time:	05.07.2025 06:04:49 to 05.07.2025 12:50:22
+Duration: 06:45:33
+
+(1) - Start
+	MOG1
+		Images:	890
+		Time:	05.07.2025 06:04:49 until 05.07.2025 07:10:22
+		Duration:	01:05:33
+		Location:	46.41618 10.01371
+
+(2) - 42,0 km
+	EVL1
+		Images:	1936
+		Time:	05.07.2025 07:08:11 until 05.07.2025 09:58:44
+		Duration:	02:50:33
+		Location:	46.44007 10.05546
+
+	EVL1LS2
+		Images:	1466
+		Time:	05.07.2025 07:23:17 until 05.07.2025 09:53:07
+		Duration:	02:29:50
+		Location:	46.44007 10.05546
+
+	EVL1LS1
+		Images:	855
+		Time:	05.07.2025 07:15:06 until 05.07.2025 09:50:54
+		Duration:	02:35:48
+		Location:	46.44007 10.05546
+
+(3) - 50,5 km
+	JNK1
+		Images:	1989
+		Time:	05.07.2025 07:44:47 until 05.07.2025 10:53:05
+		Duration:	03:08:18
+		Location:	46.41618 10.01371
+
+	JNK1LS1
+		Images:	1689
+		Time:	05.07.2025 08:27:30 until 05.07.2025 10:48:49
+		Duration:	02:21:19
+		Location:	46.41618 10.01371
+
+(4) - 59,0 km
+	ROB1
+		Images:	4042
+		Time:	05.07.2025 07:45:08 until 05.07.2025 11:15:09
+		Duration:	03:30:01
+		Location:	46.45893 9.94063
+
+	ROB1LS1
+		Images:	2895
+		Time:	05.07.2025 08:27:49 until 05.07.2025 10:54:17
+		Duration:	02:26:28
+		Location:	46.45893 9.94063
+
+(5) - Finish
+	MOG2
+		Images:	1014
+		Time:	05.07.2025 09:23:00 until 05.07.2025 12:49:11
+		Duration:	03:26:11
+		Location:	46.69926 10.09421
+
+	MOG2LS2
+		Images:	668
+		Time:	05.07.2025 09:27:18 until 05.07.2025 12:50:22
+		Duration:	03:23:04
+		Location:	46.69926 10.09421
+
+	MOG2LS1
+		Images:	701
+		Time:	05.07.2025 09:16:28 until 05.07.2025 12:50:05
+		Duration:	03:33:37
+		Location:	46.69926 10.09421
+
+(6) - Impressions / Pano
+	PANO1
+		Images:	1
+		Time:	05.07.2025 07:45:13 until 05.07.2025 07:45:13
+		Duration:	00:00:00
+		Location:	46.41618 10.01371
+

@@ -1,0 +1,120 @@
+EventId: 14681
+Spots: 17
+Total Images: 135846
+Time:	14.03.2025 18:35:59 to 16.03.2025 11:20:52
+Duration: 1.16:44:53
+
+(1) - Obstacle 3 Barb Wire Crawl
+	MCAR2
+		Images:	2983
+		Time:	15.03.2025 05:48:16 until 15.03.2025 12:16:06
+		Duration:	06:27:50
+		Location:	35.98055 -114.93329
+
+	MKI1
+		Images:	19180
+		Time:	14.03.2025 19:06:25 until 16.03.2025 08:48:52
+		Duration:	1.13:42:27
+		Location:	35.98055 -114.93329
+
+(2) - Obstacle 4 Monkey Bars
+	DDC1
+		Images:	13577
+		Time:	14.03.2025 18:35:59 until 15.03.2025 13:52:20
+		Duration:	19:16:21
+		Location:	35.98170 -114.93291
+
+	DDS1
+		Images:	8388
+		Time:	14.03.2025 18:38:13 until 15.03.2025 14:20:49
+		Duration:	19:42:36
+		Location:	35.98170 -114.93291
+
+(3) - Obstacle 5 Slip Wall
+	KHN1LS1
+		Images:	3629
+		Time:	14.03.2025 20:12:24 until 15.03.2025 15:23:34
+		Duration:	19:11:10
+		Location:	35.98119 -114.93307
+
+(4) - Obstacle 6 Plate Drag
+	DVAL1
+		Images:	11720
+		Time:	15.03.2025 06:05:43 until 16.03.2025 07:45:40
+		Duration:	1.01:39:57
+		Location:	35.98063 -114.93383
+
+	SCTH1
+		Images:	5317
+		Time:	15.03.2025 04:42:23 until 15.03.2025 14:20:57
+		Duration:	09:38:34
+		Location:	35.98063 -114.93383
+
+(5) - Obstacle 14 Multi-Rig
+	MATA1
+		Images:	8969
+		Time:	15.03.2025 06:36:27 until 15.03.2025 15:31:45
+		Duration:	08:55:18
+		Location:	35.98112 -114.94483
+
+	GOB1
+		Images:	5405
+		Time:	15.03.2025 06:39:27 until 16.03.2025 05:47:29
+		Duration:	23:08:02
+		Location:	35.98112 -114.94483
+
+(6) - Obstacle 17 Inverted Wall
+	JAL1
+		Images:	5388
+		Time:	15.03.2025 03:34:32 until 15.03.2025 15:27:18
+		Duration:	11:52:46
+		Location:	35.98166 -114.94147
+
+(7) - Obstacle 18 Bucket Carry
+	JAHN1
+		Images:	13480
+		Time:	15.03.2025 06:06:12 until 15.03.2025 15:31:45
+		Duration:	09:25:33
+		Location:	35.97924 -114.93951
+
+(8) - Obstacle 22 A-Frame Cargo
+	KHN1
+		Images:	19030
+		Time:	14.03.2025 20:09:21 until 16.03.2025 06:00:42
+		Duration:	1.09:51:21
+		Location:	35.98162 -114.93341
+
+(9) - Obstacle 23 Fire Jump
+	TUD1
+		Images:	5927
+		Time:	15.03.2025 05:36:03 until 16.03.2025 05:50:59
+		Duration:	1.00:14:56
+		Location:	35.98175 -114.93330
+
+(10) - Herotent
+	JO1
+		Images:	1565
+		Time:	14.03.2025 20:00:12 until 15.03.2025 15:57:58
+		Duration:	19:57:46
+		Location:	35.98226 -114.93346
+
+	MCAR1
+		Images:	1318
+		Time:	15.03.2025 12:30:36 until 16.03.2025 05:49:34
+		Duration:	17:18:58
+		Location:	35.98226 -114.93346
+
+(11) - Drone
+	MCAR1DRONE1
+		Images:	17
+		Time:	15.03.2025 07:08:28 until 16.03.2025 06:39:13
+		Duration:	23:30:45
+		Location:	35.98226 -114.93346
+
+(12) - Finish
+	KHN1LS2
+		Images:	9951
+		Time:	14.03.2025 20:14:36 until 15.03.2025 15:34:15
+		Duration:	19:19:39
+		Location:	35.98183 -114.93340
+

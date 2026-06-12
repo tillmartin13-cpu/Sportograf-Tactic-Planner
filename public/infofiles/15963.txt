@@ -1,0 +1,318 @@
+EventId: 15963
+Spots: 50
+Total Images: 400435
+Time:	02.05.2025 06:00:45 to 03.05.2025 12:55:27
+Duration: 1.06:54:42
+
+(1) - Impressions / Pano
+	PANO1
+(2) - 0.0 km PR's & Start - 860765 - Phillip Reyes
+	BSTPR1
+(3) - 0.0 km PR's & Start - 860766 - JB Bilbrey
+	BSTJB1
+		Images:	1456
+		Time:	03.05.2025 06:24:37 until 03.05.2025 08:30:30
+		Duration:	02:05:53
+		Location:	NULL NULL
+
+(4) - 0.0 km MSC 1 - 860767 - Gary Brockman
+	BONGB1
+		Images:	3638
+		Time:	03.05.2025 10:31:35 until 03.05.2025 10:53:16
+		Duration:	00:21:41
+		Location:	NULL NULL
+
+(5) - none
+	BONGB3
+		Images:	6179
+		Time:	03.05.2025 10:56:12 until 03.05.2025 12:04:53
+		Duration:	01:08:41
+		Location:	NULL NULL
+
+	BONGB4
+		Images:	9199
+		Time:	03.05.2025 08:48:36 until 03.05.2025 10:10:07
+		Duration:	01:21:31
+		Location:	NULL NULL
+
+	BONCM3
+		Images:	9116
+		Time:	03.05.2025 06:06:58 until 03.05.2025 08:58:22
+		Duration:	02:51:24
+		Location:	NULL NULL
+
+	BONCM2
+		Images:	4704
+		Time:	03.05.2025 07:05:33 until 03.05.2025 08:14:36
+		Duration:	01:09:03
+		Location:	NULL NULL
+
+	BTWMF2
+		Images:	14272
+		Time:	03.05.2025 10:06:26 until 03.05.2025 11:17:36
+		Duration:	01:11:10
+		Location:	NULL NULL
+
+	BFOBS2
+		Images:	7700
+		Time:	03.05.2025 10:40:30 until 03.05.2025 11:41:36
+		Duration:	01:01:06
+		Location:	NULL NULL
+
+	BFOTO2
+		Images:	6646
+		Time:	03.05.2025 09:53:44 until 03.05.2025 10:33:28
+		Duration:	00:39:44
+		Location:	NULL NULL
+
+	BFOTO3
+		Images:	5873
+		Time:	03.05.2025 07:29:35 until 03.05.2025 09:11:09
+		Duration:	01:41:34
+		Location:	NULL NULL
+
+	BBDTJ2
+		Images:	20
+		Time:	03.05.2025 07:09:05 until 03.05.2025 07:17:50
+		Duration:	00:08:45
+		Location:	NULL NULL
+
+(6) - 0.0 km
+	BONGB2
+		Images:	9163
+		Time:	03.05.2025 07:08:33 until 03.05.2025 08:46:18
+		Duration:	01:37:45
+		Location:	NULL NULL
+
+(7) - 0.0 km MSC 1 - 860768 - Courtney Motz
+	BONCM1
+		Images:	5297
+		Time:	03.05.2025 08:59:48 until 03.05.2025 11:02:58
+		Duration:	02:03:10
+		Location:	NULL NULL
+
+(8) - 0.0 km MSC 1 - 860769 - Jimmie Jones
+	BONJJ1
+(9) - 0.0 km MSC 1 - 860770 - Trigger
+	BONTO1
+		Images:	15975
+		Time:	03.05.2025 06:00:29 until 03.05.2025 11:05:43
+		Duration:	05:05:14
+		Location:	NULL NULL
+
+(10) - 0.0 km MSC 2 - 860739 - Jeff Ring
+	BTWJR1
+		Images:	16879
+		Time:	03.05.2025 07:17:24 until 03.05.2025 11:19:18
+		Duration:	04:01:54
+		Location:	NULL NULL
+
+(11) - 0.0 km MSC 2 - 860740 - Michael Pollock
+	BTWMP1
+		Images:	8580
+		Time:	03.05.2025 07:50:35 until 03.05.2025 11:19:17
+		Duration:	03:28:42
+		Location:	NULL NULL
+
+(12) - 0.0 km MSC 2 - 860741 - Michael Foller
+	BTWMF1
+		Images:	26071
+		Time:	03.05.2025 07:48:56 until 03.05.2025 10:05:56
+		Duration:	02:17:00
+		Location:	NULL NULL
+
+(13) - 0.0 km MSC 2 - 860742 - Trigger
+	BTWTO1
+		Images:	11157
+		Time:	03.05.2025 06:25:14 until 03.05.2025 10:18:56
+		Duration:	03:53:42
+		Location:	NULL NULL
+
+(14) - 0.0 km MSC 3 - 860744 - Zach Bender
+	BTHZB1
+		Images:	10970
+		Time:	03.05.2025 08:13:51 until 03.05.2025 10:36:09
+		Duration:	02:22:18
+		Location:	NULL NULL
+
+(15) - 0.0 km MSC 3 - 860745 - Mark Evrard
+	BTHME1
+		Images:	24150
+		Time:	03.05.2025 08:21:07 until 03.05.2025 10:43:40
+		Duration:	02:22:33
+		Location:	NULL NULL
+
+(16) - 0.0 km MSC 3 - 860747 - Shea Rhim
+	BTHSR1
+		Images:	10033
+		Time:	03.05.2025 08:20:00 until 03.05.2025 10:47:00
+		Duration:	02:27:00
+		Location:	NULL NULL
+
+(17) - 0.0 km MSC 3 - 860748 - Trigger One
+	BTHTO1
+		Images:	9672
+		Time:	03.05.2025 07:13:10 until 03.05.2025 09:54:20
+		Duration:	02:41:10
+		Location:	NULL NULL
+
+(18) - 0.0 km MSC 3 - 860749 - Trigger Two
+	BTHTT1
+		Images:	8574
+		Time:	03.05.2025 06:13:23 until 03.05.2025 08:42:59
+		Duration:	02:29:36
+		Location:	NULL NULL
+
+(19) - 0.0 km MSC 4 - 860718 - Brian Spurlock
+	BFOBS1
+		Images:	22717
+		Time:	03.05.2025 07:10:36 until 03.05.2025 10:36:33
+		Duration:	03:25:57
+		Location:	NULL NULL
+
+(20) - 0.0 km MSC 4 - 860720 - Trigger
+	BFOTO1
+		Images:	6635
+		Time:	03.05.2025 09:13:12 until 03.05.2025 09:50:08
+		Duration:	00:36:56
+		Location:	NULL NULL
+
+(21) - 0.0 km MSC 4 - 860750 - Frank Stone
+	BFOFS1
+		Images:	6673
+		Time:	03.05.2025 07:09:46 until 03.05.2025 12:17:46
+		Duration:	05:08:00
+		Location:	NULL NULL
+
+(22) - 0.0 km MSC 4 - 865677 - Kenneth Moreland
+	BFOKM1
+		Images:	12640
+		Time:	03.05.2025 06:15:07 until 03.05.2025 11:22:17
+		Duration:	05:07:10
+		Location:	NULL NULL
+
+(23) - 0.0 km PreFinish - 855013 - JB Bilbrey
+	BPFJB1
+		Images:	21386
+		Time:	03.05.2025 08:47:20 until 03.05.2025 12:30:16
+		Duration:	03:42:56
+		Location:	NULL NULL
+
+(24) - 0.0 km PreFinish - 860751 - Anthony Miller
+	BPFAM1
+		Images:	6721
+		Time:	03.05.2025 06:52:04 until 03.05.2025 12:28:25
+		Duration:	05:36:21
+		Location:	NULL NULL
+
+(25) - 0.0 km PreFinish - 860752 - Trigger One
+	BPFTO1
+		Images:	12014
+		Time:	02.05.2025 06:00:45 until 02.05.2025 10:43:41
+		Duration:	04:42:56
+		Location:	NULL NULL
+
+(26) - 0.0 km PreFinish - 860753 - Trigger Two
+	BPFTT1
+		Images:	15467
+		Time:	03.05.2025 03:22:29 until 03.05.2025 09:15:28
+		Duration:	05:52:59
+		Location:	NULL NULL
+
+(27) - 0.0 km Finish - 860761 - Phillip Reyes
+	BFNPR1
+		Images:	16512
+		Time:	03.05.2025 09:03:59 until 03.05.2025 12:30:55
+		Duration:	03:26:56
+		Location:	NULL NULL
+
+(28) - 0.0 km Finish - 860762 - William Knoth
+	BFNRP1
+		Images:	6258
+		Time:	03.05.2025 07:02:18 until 03.05.2025 12:31:19
+		Duration:	05:29:01
+		Location:	NULL NULL
+
+(29) - 0.0 km Finish - 860764 - Trigger
+	BFNTO1
+		Images:	18099
+		Time:	03.05.2025 06:16:38 until 03.05.2025 11:31:19
+		Duration:	05:14:41
+		Location:	NULL NULL
+
+(30) - 0.0 km Medals - 860721 - Arthur Mansavage
+	BMDAM1
+		Images:	2246
+		Time:	03.05.2025 07:09:04 until 03.05.2025 12:35:50
+		Duration:	05:26:46
+		Location:	NULL NULL
+
+(31) - 0.0 km Medals - 860722 - Sophia Tintera
+	BMDST1
+		Images:	2199
+		Time:	03.05.2025 07:05:54 until 03.05.2025 12:35:18
+		Duration:	05:29:24
+		Location:	NULL NULL
+
+(32) - 0.0 km Medals - 860723 - Marissa Corps
+	BMDMC1
+(33) - 0.0 km Medals - 860724 - Oscar Sanchez-Cortes
+	BMDOS1
+(34) - 0.0 km Medals - 860725 -
+	BMDWK1
+(35) - 0.0 km Medals - 860726 - Angelica Bateman
+	BMDAB1
+		Images:	1967
+		Time:	03.05.2025 06:44:24 until 03.05.2025 12:29:00
+		Duration:	05:44:36
+		Location:	NULL NULL
+
+(36) - 0.0 km Backdrops - 860754 - Tyree Jakes
+	BBDTJ1
+		Images:	1814
+		Time:	03.05.2025 07:26:15 until 03.05.2025 12:00:51
+		Duration:	04:34:36
+		Location:	NULL NULL
+
+(37) - 0.0 km Backdrops - 860755 - Ashley Jones
+	BBDAJ1
+		Images:	773
+		Time:	03.05.2025 02:17:14 until 03.05.2025 12:55:27
+		Duration:	10:38:13
+		Location:	NULL NULL
+
+(38) - 0.0 km Backdrops - 860756 - Emma Pearce
+	BBDEP1
+		Images:	2218
+		Time:	03.05.2025 07:13:52 until 03.05.2025 12:33:23
+		Duration:	05:19:31
+		Location:	NULL NULL
+
+(39) - 0.0 km Backdrops - 860757 - Zane West
+	BBDZW1
+		Images:	851
+		Time:	03.05.2025 07:17:17 until 03.05.2025 11:54:01
+		Duration:	04:36:44
+		Location:	NULL NULL
+
+(40) - 0.0 km Backdrops - 860758 - Lakiska Flippin
+	BBDLF1
+		Images:	685
+		Time:	03.05.2025 07:22:33 until 03.05.2025 12:33:49
+		Duration:	05:11:16
+		Location:	NULL NULL
+
+(41) - 0.0 km Backdrops - 860759 - Lucas Irvine
+	BBDLI1
+		Images:	2089
+		Time:	03.05.2025 07:14:23 until 03.05.2025 12:00:12
+		Duration:	04:45:49
+		Location:	NULL NULL
+
+(42) - 0.0 km Finish - 000000 - Trigger Up Shot Right
+	BFNTT1
+		Images:	15147
+		Time:	03.05.2025 00:00:44 until 03.05.2025 04:19:23
+		Duration:	04:18:39
+		Location:	NULL NULL
+

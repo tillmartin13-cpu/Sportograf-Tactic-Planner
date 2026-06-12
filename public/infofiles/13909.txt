@@ -1,0 +1,139 @@
+EventId: 13909
+Spots: 21
+Total Images: 136294
+Time:	13.07.2025 08:58:08 to 13.07.2025 18:13:26
+Duration: 09:15:18
+
+(1) - Start
+	GUD1
+		Images:	161
+		Time:	13.07.2025 12:18:23 until 13.07.2025 12:40:40
+		Duration:	00:22:17
+		Location:	48.12324 11.71320
+
+(2) - Obstacle 4 Piratenplanke
+	LTA1
+		Images:	4517
+		Time:	13.07.2025 09:47:30 until 13.07.2025 16:35:39
+		Duration:	06:48:09
+		Location:	48.12176 11.72047
+
+	MIW1
+		Images:	6486
+		Time:	13.07.2025 09:47:05 until 13.07.2025 16:34:41
+		Duration:	06:47:36
+		Location:	48.12176 11.72047
+
+(3) - Obstacle 6 Wasserrutsche
+	AFRE2
+		Images:	96
+		Time:	13.07.2025 14:45:24 until 13.07.2025 14:54:48
+		Duration:	00:09:24
+		Location:	48.11795 11.72234
+
+	JUH2
+		Images:	2398
+		Time:	13.07.2025 14:44:02 until 13.07.2025 16:45:29
+		Duration:	02:01:27
+		Location:	48.11795 11.72234
+
+(4) - Obstacle 7 Krabbelstrecke
+	AFRE1
+		Images:	7223
+		Time:	13.07.2025 09:25:04 until 13.07.2025 16:54:50
+		Duration:	07:29:46
+		Location:	48.11795 11.72234
+
+	JUH1
+		Images:	8220
+		Time:	13.07.2025 09:28:38 until 13.07.2025 14:31:02
+		Duration:	05:02:24
+		Location:	48.11798 11.72256
+
+(5) - Obstacle 9 Gitterbecken
+	ALIS1
+		Images:	5629
+		Time:	13.07.2025 09:59:07 until 13.07.2025 16:57:55
+		Duration:	06:58:48
+		Location:	48.11911 11.71638
+
+	SALE1
+		Images:	5065
+		Time:	13.07.2025 09:33:48 until 13.07.2025 17:08:23
+		Duration:	07:34:35
+		Location:	48.11909 11.71632
+
+(6) - Obstacle 15 Schaumparty
+	DASA1
+		Images:	10450
+		Time:	13.07.2025 09:51:35 until 13.07.2025 17:29:04
+		Duration:	07:37:29
+		Location:	48.12079 11.71954
+
+(7) - Obstacle 17 Ninja Jump
+	EPR1
+		Images:	6328
+		Time:	13.07.2025 09:56:31 until 13.07.2025 17:47:46
+		Duration:	07:51:15
+		Location:	48.12269 11.71855
+
+(8) - Obstacle 18 Kletterwand
+	KVD1
+		Images:	6221
+		Time:	13.07.2025 09:57:02 until 13.07.2025 17:50:03
+		Duration:	07:53:01
+		Location:	48.12287 11.71790
+
+(9) - Obstacle 20 Containerrutsche
+	LIMA1
+		Images:	14040
+		Time:	13.07.2025 09:13:29 until 13.07.2025 17:56:37
+		Duration:	08:43:08
+		Location:	48.12316 11.71470
+
+	MASA1
+		Images:	7600
+		Time:	13.07.2025 09:02:11 until 13.07.2025 17:54:51
+		Duration:	08:52:40
+		Location:	48.12311 11.71456
+
+(10) - Finish
+	PGE1
+		Images:	14829
+		Time:	13.07.2025 08:58:08 until 13.07.2025 17:54:45
+		Duration:	08:56:37
+		Location:	48.12326 11.71494
+
+	GUD1LS1
+		Images:	16628
+		Time:	13.07.2025 09:36:28 until 13.07.2025 18:13:26
+		Duration:	08:36:58
+		Location:	48.12326 11.71494
+
+	GUD1LS2
+		Images:	16012
+		Time:	13.07.2025 09:37:58 until 13.07.2025 17:53:03
+		Duration:	08:15:05
+		Location:	48.12326 11.71494
+
+(11) - Herotent
+	RSJ1
+		Images:	2124
+		Time:	13.07.2025 09:13:48 until 13.07.2025 17:55:36
+		Duration:	08:41:48
+		Location:	48.12331 11.71495
+
+	UL1
+		Images:	2257
+		Time:	13.07.2025 09:24:27 until 13.07.2025 17:56:24
+		Duration:	08:31:57
+		Location:	48.12331 11.71495
+
+(12) - Impressions / Pano
+	GUD1DRONE1
+		Images:	10
+		Time:	13.07.2025 13:56:03 until 13.07.2025 14:04:41
+		Duration:	00:08:38
+		Location:	48.12331 11.71495
+
+	PANO1

@@ -1,0 +1,39 @@
+EventId: 14787
+Spots: 5
+Total Images: 3293
+Time:	03.10.2025 17:49:33 to 05.10.2025 12:14:36
+Duration: 1.18:25:03
+
+(1) - 22.5 km Hartkaiser
+	ANI1
+		Images:	1052
+		Time:	04.10.2025 09:35:51 until 05.10.2025 10:19:01
+		Duration:	1.00:43:10
+		Location:	47.49483 12.27621
+
+(2) - 24.0 km Tanzbodensee
+	COR1
+		Images:	1220
+		Time:	03.10.2025 17:52:24 until 05.10.2025 10:55:15
+		Duration:	1.17:02:51
+		Location:	47.48711 12.25703
+
+	COR1LS2
+		Images:	484
+		Time:	04.10.2025 09:55:49 until 04.10.2025 12:13:47
+		Duration:	02:17:58
+		Location:	47.48711 12.25703
+
+	COR1LS1
+		Images:	485
+		Time:	04.10.2025 09:53:48 until 04.10.2025 12:13:38
+		Duration:	02:19:50
+		Location:	47.48711 12.25703
+
+(3) - Impressions / Pano
+	COR1DRONE1
+		Images:	46
+		Time:	03.10.2025 17:49:33 until 04.10.2025 11:33:48
+		Duration:	17:44:15
+		Location:	47.48711 12.25703
+

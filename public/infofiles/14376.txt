@@ -1,0 +1,116 @@
+EventId: 14376
+Spots: 18
+Total Images: 51152
+Time:	19.09.2025 09:10:20 to 20.09.2025 17:11:57
+Duration: 1.08:01:37
+
+(1) - 0,6 km
+	JKE1
+		Images:	8005
+		Time:	19.09.2025 19:41:24 until 20.09.2025 10:42:42
+		Duration:	15:01:18
+		Location:	50.78648 5.77063
+
+	JKE1LS1
+		Images:	1343
+		Time:	19.09.2025 18:03:09 until 20.09.2025 10:19:33
+		Duration:	16:16:24
+		Location:	50.78648 5.77063
+
+	JKE1LS2
+		Images:	1328
+		Time:	19.09.2025 18:08:54 until 20.09.2025 10:28:47
+		Duration:	16:19:53
+		Location:	50.78648 5.77063
+
+(2) - 1,6 km
+	MIBU1
+		Images:	3519
+		Time:	19.09.2025 15:18:31 until 20.09.2025 10:19:50
+		Duration:	19:01:19
+		Location:	50.79470 5.77576
+
+	MIBU1LS1
+		Images:	1784
+		Time:	19.09.2025 15:13:59 until 20.09.2025 08:05:07
+		Duration:	16:51:08
+		Location:	50.79470 5.77576
+
+(3) - 3,4 km
+	TOBB1DRONE1
+		Images:	105
+		Time:	20.09.2025 07:48:53 until 20.09.2025 14:00:09
+		Duration:	06:11:16
+		Location:	50.80218 5.79499
+
+	TOBB1
+		Images:	4284
+		Time:	19.09.2025 09:11:23 until 20.09.2025 10:20:04
+		Duration:	1.01:08:41
+		Location:	50.80218 5.79499
+
+	TOBB1LS1
+		Images:	1107
+		Time:	19.09.2025 09:10:20 until 20.09.2025 10:24:54
+		Duration:	1.01:14:34
+		Location:	50.80218 5.79499
+
+	TOBB1LS2
+		Images:	1293
+		Time:	19.09.2025 09:10:51 until 20.09.2025 10:28:20
+		Duration:	1.01:17:29
+		Location:	50.80218 5.79499
+
+(4) - 13,5 km before finish
+	TOBB2
+		Images:	3368
+		Time:	20.09.2025 12:02:01 until 20.09.2025 16:16:00
+		Duration:	04:13:59
+		Location:	50.75670 5.87901
+
+	TOBB2LS1
+		Images:	1755
+		Time:	20.09.2025 11:53:10 until 20.09.2025 16:18:53
+		Duration:	04:25:43
+		Location:	50.75670 5.87901
+
+	TOBB2LS2
+		Images:	2117
+		Time:	20.09.2025 11:40:03 until 20.09.2025 16:21:30
+		Duration:	04:41:27
+		Location:	50.75670 5.87901
+
+(5) - 6,0 km before finish
+	MIBU2
+		Images:	3853
+		Time:	20.09.2025 11:16:01 until 20.09.2025 16:47:03
+		Duration:	05:31:02
+		Location:	50.76142 5.82210
+
+	MIBU2LS1
+		Images:	2330
+		Time:	20.09.2025 08:31:08 until 20.09.2025 14:20:37
+		Duration:	05:49:29
+		Location:	50.76142 5.82210
+
+(6) - 1,0 km before finish
+	JKE2
+		Images:	9824
+		Time:	20.09.2025 10:52:16 until 20.09.2025 17:11:57
+		Duration:	06:19:41
+		Location:	50.78511 5.77516
+
+	JKE2LS1
+		Images:	2438
+		Time:	20.09.2025 11:05:40 until 20.09.2025 17:01:59
+		Duration:	05:56:19
+		Location:	50.78511 5.77516
+
+	JKE2LS2
+		Images:	2699
+		Time:	20.09.2025 11:01:39 until 20.09.2025 16:54:54
+		Duration:	05:53:15
+		Location:	50.78511 5.77516
+
+(7) - Impressions / Pano
+	PANO1

@@ -1,0 +1,197 @@
+EventId: 14079
+Spots: 30
+Total Images: 42312
+Time:	19.07.2025 06:07:46 to 19.07.2025 21:23:17
+Duration: 15:15:31
+
+(1) - Start
+	MAWI1IMP1
+		Images:	86
+		Time:	19.07.2025 06:16:13 until 19.07.2025 09:47:24
+		Duration:	03:31:11
+		Location:	47.92678 7.02810
+
+	MAWI1
+		Images:	682
+		Time:	19.07.2025 06:59:28 until 19.07.2025 10:11:17
+		Duration:	03:11:49
+		Location:	47.92678 7.02810
+
+(2) - km1.0 (63K, 42K, 14K)
+	MOG1LS2
+		Images:	833
+		Time:	19.07.2025 06:25:15 until 19.07.2025 10:24:14
+		Duration:	03:58:59
+		Location:	47.92079 7.03991
+
+	MOG1
+		Images:	1132
+		Time:	19.07.2025 07:06:48 until 19.07.2025 10:20:32
+		Duration:	03:13:44
+		Location:	47.92079 7.03991
+
+	MOG1LS1
+		Images:	823
+		Time:	19.07.2025 06:27:10 until 19.07.2025 10:25:48
+		Duration:	03:58:38
+		Location:	47.92079 7.03991
+
+(3) - km3.0 (63K, 42K)
+	HS1
+		Images:	446
+		Time:	19.07.2025 06:57:01 until 19.07.2025 08:29:17
+		Duration:	01:32:16
+		Location:	47.91154 7.04711
+
+	HS1LS2
+		Images:	702
+		Time:	19.07.2025 06:56:42 until 19.07.2025 10:17:28
+		Duration:	03:20:46
+		Location:	47.91154 7.04711
+
+	HS1LS1
+		Images:	108
+		Time:	19.07.2025 06:57:47 until 19.07.2025 07:44:24
+		Duration:	00:46:37
+		Location:	47.91154 7.04711
+
+(4) - km21.5/ km13.5/ 1km before Finish (80K, 63K/ 42K/ 24K, 14K)
+	TE1
+		Images:	7489
+		Time:	19.07.2025 06:07:46 until 19.07.2025 13:34:41
+		Duration:	07:26:55
+		Location:	47.92474 7.03253
+
+	TE1LS2
+		Images:	645
+		Time:	19.07.2025 06:33:44 until 19.07.2025 13:54:16
+		Duration:	07:20:32
+		Location:	47.92474 7.03253
+
+	TE1LS1
+		Images:	1272
+		Time:	19.07.2025 06:11:26 until 19.07.2025 14:09:10
+		Duration:	07:57:44
+		Location:	47.92474 7.03253
+
+(5) - km26.0/ km18.0/ km5.0 (80K, 63K/ 42K/ 24K)
+	BP1
+		Images:	2601
+		Time:	19.07.2025 07:27:45 until 19.07.2025 10:21:36
+		Duration:	02:53:51
+		Location:	47.94712 7.04551
+
+	BP1DRONE1
+		Images:	16
+		Time:	19.07.2025 06:24:18 until 19.07.2025 19:51:08
+		Duration:	13:26:50
+		Location:	47.94712 7.04551
+
+	BP1LS2
+		Images:	840
+		Time:	19.07.2025 06:36:34 until 19.07.2025 10:31:59
+		Duration:	03:55:25
+		Location:	47.94712 7.04551
+
+	BP1LS1
+		Images:	1100
+		Time:	19.07.2025 07:03:02 until 19.07.2025 10:24:31
+		Duration:	03:21:29
+		Location:	47.94712 7.04551
+
+(6) - km62.5/ km44.5/ km23.5/ km10.5 (80K/ 63K/ 42K/ 24K)
+	HS2
+		Images:	1753
+		Time:	19.07.2025 09:35:34 until 19.07.2025 17:16:11
+		Duration:	07:40:37
+		Location:	47.96490 6.98840
+
+	HS2LS2
+		Images:	498
+		Time:	19.07.2025 10:17:55 until 19.07.2025 12:20:57
+		Duration:	02:03:02
+		Location:	47.96490 6.98840
+
+	HS2LS1
+		Images:	832
+		Time:	19.07.2025 09:11:10 until 19.07.2025 12:23:50
+		Duration:	03:12:40
+		Location:	47.96490 6.98840
+
+(7) - 4km before Finish (80K, 63K, 42K, 24K)
+	MOG2
+		Images:	1487
+		Time:	19.07.2025 11:00:15 until 19.07.2025 20:33:14
+		Duration:	09:32:59
+		Location:	47.92545 6.99999
+
+	MOG2LS2
+		Images:	1207
+		Time:	19.07.2025 10:49:51 until 19.07.2025 20:36:27
+		Duration:	09:46:36
+		Location:	47.92545 6.99999
+
+	MOG2LS1
+		Images:	1232
+		Time:	19.07.2025 10:50:11 until 19.07.2025 20:09:35
+		Duration:	09:19:24
+		Location:	47.92545 6.99999
+
+(8) - 1.5km before Finish (80K, 63K, 42K)
+	TE2
+		Images:	1794
+		Time:	19.07.2025 14:14:26 until 19.07.2025 20:47:50
+		Duration:	06:33:24
+		Location:	47.92345 7.02767
+
+	TE2LS2
+		Images:	1999
+		Time:	19.07.2025 14:01:27 until 19.07.2025 19:35:35
+		Duration:	05:34:08
+		Location:	47.92345 7.02767
+
+	TE2LS1
+		Images:	1831
+		Time:	19.07.2025 14:09:30 until 19.07.2025 20:24:21
+		Duration:	06:14:51
+		Location:	47.92345 7.02767
+
+(9) - 0.2km before Finish
+	BP2
+		Images:	1777
+		Time:	19.07.2025 11:25:06 until 19.07.2025 20:08:25
+		Duration:	08:43:19
+		Location:	47.92805 7.02662
+
+	BP2LS1
+		Images:	1676
+		Time:	19.07.2025 11:10:25 until 19.07.2025 20:43:16
+		Duration:	09:32:51
+		Location:	47.92805 7.02662
+
+(10) - Stairs to Finsih
+	BP2LS2
+		Images:	1918
+		Time:	19.07.2025 10:53:56 until 19.07.2025 21:08:05
+		Duration:	10:14:09
+		Location:	47.92749 7.02878
+
+(11) - Finish
+	MAWI2
+		Images:	2942
+		Time:	19.07.2025 10:54:01 until 19.07.2025 21:23:17
+		Duration:	10:29:16
+		Location:	47.92749 7.02878
+
+	MAWI2LS1
+		Images:	1281
+		Time:	19.07.2025 06:14:22 until 19.07.2025 20:36:59
+		Duration:	14:22:37
+		Location:	47.92749 7.02878
+
+	MAWI2LS2
+		Images:	1310
+		Time:	19.07.2025 10:31:43 until 19.07.2025 21:03:55
+		Duration:	10:32:12
+		Location:	47.92749 7.02878
+

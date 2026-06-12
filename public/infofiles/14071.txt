@@ -1,0 +1,134 @@
+EventId: 14071
+Spots: 20
+Total Images: 23882
+Time:	18.01.2025 05:59:58 to 18.01.2025 15:24:26
+Duration: 09:24:28
+
+(1) - Start
+	START1
+		Images:	1064
+		Time:	18.01.2025 05:59:58 until 18.01.2025 10:01:24
+		Duration:	04:01:26
+		Location:	NULL NULL
+
+(2) - Pinzgablick KM 4,5 Strecke S, M, L, XL
+	EP1LS1
+		Images:	673
+		Time:	18.01.2025 07:19:37 until 18.01.2025 10:52:26
+		Duration:	03:32:49
+		Location:	NULL NULL
+
+	EP1LS2
+		Images:	672
+		Time:	18.01.2025 07:16:01 until 18.01.2025 08:27:28
+		Duration:	01:11:27
+		Location:	NULL NULL
+
+	EP1
+		Images:	1104
+		Time:	18.01.2025 07:08:45 until 18.01.2025 10:59:25
+		Duration:	03:50:40
+		Location:	NULL NULL
+
+(3) - Unterhalb der Hangalm Bergstation
+	MIRS1
+		Images:	3217
+		Time:	18.01.2025 07:16:38 until 18.01.2025 10:26:37
+		Duration:	03:09:59
+		Location:	NULL NULL
+
+	MIRS1LS1
+		Images:	2935
+		Time:	18.01.2025 07:24:14 until 18.01.2025 10:25:40
+		Duration:	03:01:26
+		Location:	NULL NULL
+
+(4) - Panorama Alm Kitzbühel Strecke M, L, XL
+	SVL1
+		Images:	4311
+		Time:	18.01.2025 08:19:12 until 18.01.2025 12:38:04
+		Duration:	04:18:52
+		Location:	NULL NULL
+
+	SVL1DRONE1
+		Images:	42
+		Time:	18.01.2025 08:19:12 until 18.01.2025 08:31:32
+		Duration:	00:12:20
+		Location:	NULL NULL
+
+	SVL1LS1
+		Images:	949
+		Time:	18.01.2025 07:28:36 until 18.01.2025 11:06:58
+		Duration:	03:38:22
+		Location:	NULL NULL
+
+	SVL1LS2
+		Images:	997
+		Time:	18.01.2025 07:35:48 until 18.01.2025 11:06:55
+		Duration:	03:31:07
+		Location:	NULL NULL
+
+(5) - KM 5,3 Strecke S
+	MIRS2
+		Images:	259
+		Time:	18.01.2025 10:54:16 until 18.01.2025 11:59:23
+		Duration:	01:05:07
+		Location:	NULL NULL
+
+	MIRS2LS1
+		Images:	319
+		Time:	18.01.2025 10:55:37 until 18.01.2025 12:23:30
+		Duration:	01:27:53
+		Location:	NULL NULL
+
+(6) - Hangalm Talstation Strecke S, M, L, XL
+	SVL2LS1
+		Images:	278
+		Time:	18.01.2025 12:06:09 until 18.01.2025 13:13:48
+		Duration:	01:07:39
+		Location:	NULL NULL
+
+	SVL2LS2
+		Images:	250
+		Time:	18.01.2025 12:08:12 until 18.01.2025 13:16:49
+		Duration:	01:08:37
+		Location:	NULL NULL
+
+	SVL2
+		Images:	1092
+		Time:	18.01.2025 13:21:59 until 18.01.2025 14:15:09
+		Duration:	00:53:10
+		Location:	NULL NULL
+
+(7) - Kurz vor Ziel
+	EP2
+		Images:	176
+		Time:	18.01.2025 12:17:04 until 18.01.2025 12:59:22
+		Duration:	00:42:18
+		Location:	NULL NULL
+
+	EP2LS1
+		Images:	549
+		Time:	18.01.2025 11:58:09 until 18.01.2025 14:39:35
+		Duration:	02:41:26
+		Location:	NULL NULL
+
+	EP2LS2
+		Images:	1018
+		Time:	18.01.2025 12:04:13 until 18.01.2025 14:43:10
+		Duration:	02:38:57
+		Location:	NULL NULL
+
+(8) - Finish
+	ZIEL1
+		Images:	2734
+		Time:	18.01.2025 10:03:49 until 18.01.2025 15:24:26
+		Duration:	05:20:37
+		Location:	NULL NULL
+
+	ZIEL1LS1
+		Images:	1243
+		Time:	18.01.2025 10:05:12 until 18.01.2025 14:34:24
+		Duration:	04:29:12
+		Location:	NULL NULL
+

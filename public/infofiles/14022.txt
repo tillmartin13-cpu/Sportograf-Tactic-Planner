@@ -1,0 +1,87 @@
+EventId: 14022
+Spots: 12
+Total Images: 42562
+Time:	27.09.2025 07:53:07 to 27.09.2025 17:03:39
+Duration: 09:10:32
+
+(1) - Boston Bug
+	ADRE1
+		Images:	1907
+		Time:	27.09.2025 07:53:07 until 27.09.2025 10:55:54
+		Duration:	03:02:47
+		Location:	52.51313 13.23255
+
+(2) - Chicago Chains
+	ADRE2
+		Images:	3910
+		Time:	27.09.2025 12:11:42 until 27.09.2025 14:41:16
+		Duration:	02:29:34
+		Location:	52.51064 13.23337
+
+(3) - Finisher Wall
+	AGA1
+		Images:	12079
+		Time:	27.09.2025 09:28:53 until 27.09.2025 16:27:07
+		Duration:	06:58:14
+		Location:	52.51447 13.23656
+
+	AGA1DRONE1
+		Images:	7
+		Time:	27.09.2025 16:52:47 until 27.09.2025 17:03:39
+		Duration:	00:10:52
+		Location:	52.51447 13.23656
+
+(4) - Finish
+	AGA1IMP1
+		Images:	260
+		Time:	27.09.2025 11:53:16 until 27.09.2025 16:12:22
+		Duration:	04:19:06
+		Location:	52.51447 13.23656
+
+	AGA1LS1
+		Images:	3599
+		Time:	27.09.2025 09:15:13 until 27.09.2025 16:18:47
+		Duration:	07:03:34
+		Location:	52.51447 13.23656
+
+(5) - London Tubes
+	ASE1
+		Images:	3072
+		Time:	27.09.2025 08:09:42 until 27.09.2025 15:32:46
+		Duration:	07:23:04
+		Location:	52.51739 13.24235
+
+(6) - Porto Pipes
+	ASE2
+		Images:	1166
+		Time:	27.09.2025 10:11:15 until 27.09.2025 11:21:51
+		Duration:	01:10:36
+		Location:	52.51680 13.24194
+
+	MIRW1
+		Images:	171
+		Time:	27.09.2025 07:53:25 until 27.09.2025 09:38:05
+		Duration:	01:44:40
+		Location:	52.51680 13.24194
+
+(7) - Springfield Splash
+	MFR1
+		Images:	4423
+		Time:	27.09.2025 09:12:53 until 27.09.2025 15:12:10
+		Duration:	05:59:17
+		Location:	52.51575 13.23583
+
+(8) - Mud and Down
+	RAMA1
+		Images:	8296
+		Time:	27.09.2025 08:28:24 until 27.09.2025 15:57:52
+		Duration:	07:29:28
+		Location:	52.51721 13.24062
+
+(9) - Trippy Ladder
+	MIRW2
+		Images:	3672
+		Time:	27.09.2025 09:39:00 until 27.09.2025 15:46:49
+		Duration:	06:07:49
+		Location:	52.51519 13.24368
+

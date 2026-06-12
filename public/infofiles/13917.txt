@@ -1,0 +1,41 @@
+EventId: 13917
+Spots: 5
+Total Images: 33561
+Time:	03.10.2025 19:02:31 to 04.10.2025 16:35:02
+Duration: 21:32:31
+
+(1) - GRAVEL ROAD
+	AGJ1
+		Images:	6446
+		Time:	04.10.2025 06:12:29 until 04.10.2025 15:32:08
+		Duration:	09:19:39
+		Location:	34.11675 -109.89170
+
+(2) - COUNTRY CLUB TRAIL #632
+	MIGO1
+		Images:	3545
+		Time:	03.10.2025 19:02:31 until 04.10.2025 14:49:41
+		Duration:	19:47:10
+		Location:	34.14188 -109.89223
+
+(3) - LOS BURROS TRAIL (35-50 MILE)
+	VAV1
+		Images:	9670
+		Time:	03.10.2025 19:59:13 until 04.10.2025 13:35:08
+		Duration:	17:35:55
+		Location:	34.12583 -109.78777
+
+(4) - Finish
+	AHB1
+		Images:	6130
+		Time:	04.10.2025 08:14:49 until 04.10.2025 16:35:02
+		Duration:	08:20:13
+		Location:	34.11256 -109.89488
+
+(5) - START LINE-FINISH
+	SICA1
+		Images:	7770
+		Time:	04.10.2025 07:02:12 until 04.10.2025 14:20:42
+		Duration:	07:18:30
+		Location:	34.11256 -109.89488
+

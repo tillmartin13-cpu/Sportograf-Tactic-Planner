@@ -1,0 +1,302 @@
+EventId: 13920
+Spots: 46
+Total Images: 41336
+Time:	01.01.0001 23:00:00 to 12.07.2025 17:37:39
+Duration: 739442.18:37:39
+
+(1) - 33,8/1000km
+	AKS1
+		Images:	191
+		Time:	10.07.2025 18:23:36 until 10.07.2025 21:08:54
+		Duration:	02:45:18
+		Location:	47.21760 8.80567
+
+(2) - 33/1000km
+	AKS1LS1
+		Images:	253
+		Time:	10.07.2025 17:45:31 until 10.07.2025 21:13:43
+		Duration:	03:28:12
+		Location:	47.21950 8.80823
+
+(3) - 301/1000km
+	AKS2
+		Images:	99
+		Time:	11.07.2025 08:29:30 until 11.07.2025 10:54:16
+		Duration:	02:24:46
+		Location:	46.67067 9.63399
+
+(4) - 300/1000km
+	AKS2LS1
+		Images:	486
+		Time:	11.07.2025 08:21:11 until 11.07.2025 11:42:17
+		Duration:	03:21:06
+		Location:	46.67287 9.63136
+
+(5) - vor Schwerzenbach
+	AKS3
+		Images:	403
+		Time:	11.07.2025 16:13:33 until 11.07.2025 18:20:56
+		Duration:	02:07:23
+		Location:	47.37958 8.64812
+
+	AKS3LS1
+		Images:	388
+		Time:	11.07.2025 14:10:11 until 11.07.2025 18:17:51
+		Duration:	04:07:40
+		Location:	47.37866 8.64387
+
+(6) - 374/1000km
+	AKS4LS1
+		Images:	189
+		Time:	11.07.2025 12:55:07 until 11.07.2025 14:09:05
+		Duration:	01:13:58
+		Location:	46.97782 9.54064
+
+(7) - Hütten
+	AKS6
+		Images:	3260
+		Time:	12.07.2025 08:48:28 until 12.07.2025 15:04:44
+		Duration:	06:16:16
+		Location:	47.17382 8.64228
+
+	AKS6LS2
+		Images:	11576
+		Time:	12.07.2025 08:32:26 until 12.07.2025 14:00:52
+		Duration:	05:28:26
+		Location:	47.17267 8.63572
+
+(8) - 54,5/1000km
+	EP1
+		Images:	54
+		Time:	10.07.2025 21:06:31 until 10.07.2025 23:56:51
+		Duration:	02:50:20
+		Location:	46.91590 8.97840
+
+	EP1LS1
+		Images:	73
+		Time:	10.07.2025 21:32:01 until 11.07.2025 11:06:59
+		Duration:	13:34:58
+		Location:	46.91590 8.97840
+
+	EP1LS2
+		Images:	18
+		Time:	01.01.0001 23:00:00 until 10.07.2025 23:56:47
+		Duration:	739441.00:56:47
+		Location:	46.91590 8.97840
+
+(9) - 412,2/1000km
+	EP2
+		Images:	147
+		Time:	11.07.2025 11:32:26 until 11.07.2025 17:58:14
+		Duration:	06:25:48
+		Location:	47.19294 9.40099
+
+(10) - 412,4/1000km
+	EP2LS1
+		Images:	384
+		Time:	11.07.2025 11:07:39 until 11.07.2025 16:55:47
+		Duration:	05:48:08
+		Location:	47.19275 9.40416
+
+	EP2LS2
+		Images:	60
+		Time:	01.01.0001 23:00:00 until 11.07.2025 14:35:07
+		Duration:	739441.15:35:07
+		Location:	47.19275 9.40416
+
+(11) - Finish/Ceremony
+	EP3
+		Images:	1657
+		Time:	12.07.2025 07:36:00 until 12.07.2025 17:37:39
+		Duration:	10:01:39
+		Location:	47.32768 8.60627
+
+(12) - Finish
+	EP3LS2
+		Images:	4545
+		Time:	12.07.2025 08:20:54 until 12.07.2025 17:04:37
+		Duration:	08:43:43
+		Location:	47.32768 8.60627
+
+	EP3LS1
+		Images:	3475
+		Time:	12.07.2025 08:09:36 until 12.07.2025 15:55:47
+		Duration:	07:46:11
+		Location:	47.32768 8.60627
+
+(13) - 109/1000km
+	JH1
+		Images:	52
+		Time:	10.07.2025 21:23:59 until 11.07.2025 00:51:18
+		Duration:	03:27:19
+		Location:	46.87203 8.86113
+
+	JH1LS1
+		Images:	133
+		Time:	10.07.2025 21:38:42 until 11.07.2025 00:51:22
+		Duration:	03:12:40
+		Location:	46.87203 8.86113
+
+	JH1LS2
+		Images:	170
+		Time:	10.07.2025 21:44:34 until 11.07.2025 00:51:11
+		Duration:	03:06:37
+		Location:	46.87203 8.86113
+
+(14) - 410/1000km
+	JH2
+		Images:	209
+		Time:	11.07.2025 11:41:13 until 11.07.2025 20:53:28
+		Duration:	09:12:15
+		Location:	47.18861 9.41873
+
+	JH2LS1
+		Images:	242
+		Time:	11.07.2025 11:14:31 until 11.07.2025 16:59:34
+		Duration:	05:45:03
+		Location:	47.18861 9.41873
+
+	JH2LS2
+		Images:	230
+		Time:	11.07.2025 11:19:44 until 11.07.2025 16:58:58
+		Duration:	05:39:14
+		Location:	47.18861 9.41873
+
+(15) - Zugersee
+	JH3
+		Images:	743
+		Time:	12.07.2025 08:16:41 until 12.07.2025 14:20:27
+		Duration:	06:03:46
+		Location:	47.08124 8.52353
+
+	JH3LS1
+		Images:	1572
+		Time:	12.07.2025 08:31:24 until 12.07.2025 14:20:28
+		Duration:	05:49:04
+		Location:	47.08124 8.52353
+
+	JH3LS2
+		Images:	1543
+		Time:	12.07.2025 08:34:36 until 12.07.2025 14:20:26
+		Duration:	05:45:50
+		Location:	47.08124 8.52353
+
+(16) - 11,5/1000km
+	YS1
+		Images:	180
+		Time:	10.07.2025 18:21:39 until 10.07.2025 20:24:55
+		Duration:	02:03:16
+		Location:	47.28616 8.66122
+
+(17) - Impressions / Pano
+	YS1DRONE1
+		Images:	29
+		Time:	10.07.2025 20:02:51 until 12.07.2025 09:58:47
+		Duration:	1.13:55:56
+		Location:	NULL NULL
+
+	PANO1
+(18) - 11,3/1000km
+	YS1LS1
+		Images:	305
+		Time:	10.07.2025 18:15:43 until 10.07.2025 20:29:44
+		Duration:	02:14:01
+		Location:	47.28616 8.66122
+
+	YS1LS2
+		Images:	403
+		Time:	10.07.2025 18:14:36 until 10.07.2025 20:29:57
+		Duration:	02:15:21
+		Location:	47.28616 8.66122
+
+(19) - 306,8/1000km
+	YS2
+		Images:	130
+		Time:	11.07.2025 08:41:55 until 11.07.2025 11:20:40
+		Duration:	02:38:45
+		Location:	46.69216 9.69141
+
+(20) - 306,6/1000km
+	YS2LS1
+		Images:	406
+		Time:	11.07.2025 08:05:15 until 11.07.2025 11:24:06
+		Duration:	03:18:51
+		Location:	46.69004 9.68750
+
+	YS2LS2
+		Images:	396
+		Time:	11.07.2025 08:07:47 until 11.07.2025 11:24:19
+		Duration:	03:16:32
+		Location:	46.69004 9.68750
+
+(21) - 375/1000km
+	YS3
+		Images:	82
+		Time:	11.07.2025 13:19:59 until 11.07.2025 14:08:05
+		Duration:	00:48:06
+		Location:	46.97928 9.53850
+
+(22) - 376/1000km
+	YS3LS1
+		Images:	91
+		Time:	11.07.2025 12:48:27 until 11.07.2025 14:13:08
+		Duration:	01:24:41
+		Location:	46.97939 9.53507
+
+	YS3LS2
+		Images:	95
+		Time:	11.07.2025 12:49:17 until 11.07.2025 14:14:33
+		Duration:	01:25:16
+		Location:	46.97939 9.53507
+
+(23) - Lindau
+	YS4
+		Images:	410
+		Time:	11.07.2025 16:41:08 until 11.07.2025 17:51:37
+		Duration:	01:10:29
+		Location:	47.43774 8.67210
+
+	YS4LS2
+		Images:	703
+		Time:	11.07.2025 16:22:29 until 11.07.2025 17:56:56
+		Duration:	01:34:27
+		Location:	47.43709 8.66983
+
+	YS4LS1
+		Images:	693
+		Time:	11.07.2025 16:22:52 until 11.07.2025 17:54:33
+		Duration:	01:31:41
+		Location:	47.43709 8.66983
+
+(24) - Pfannenstiel
+	YS5LS2
+		Images:	279
+		Time:	11.07.2025 19:48:44 until 12.07.2025 08:27:42
+		Duration:	12:38:58
+		Location:	47.28215 8.67903
+
+	YS5LS1
+		Images:	265
+		Time:	11.07.2025 20:00:22 until 11.07.2025 21:45:12
+		Duration:	01:44:50
+		Location:	47.28215 8.67903
+
+(25) - Edlibach
+	YS6
+		Images:	1617
+		Time:	12.07.2025 09:26:11 until 12.07.2025 14:34:47
+		Duration:	05:08:36
+		Location:	47.18237 8.56520
+
+	YS6LS2
+		Images:	2046
+		Time:	12.07.2025 09:10:23 until 12.07.2025 14:41:53
+		Duration:	05:31:30
+		Location:	47.18237 8.56520
+
+	YS6LS1
+		Images:	1054
+		Time:	12.07.2025 09:06:41 until 12.07.2025 14:40:51
+		Duration:	05:34:10
+		Location:	47.18237 8.56520
+

@@ -1,0 +1,141 @@
+EventId: 14661
+Spots: 21
+Total Images: 89843
+Time:	14.06.2025 07:33:05 to 15.06.2025 14:01:27
+Duration: 1.06:28:22
+
+(1) - Start
+	DAR1
+		Images:	77
+		Time:	14.06.2025 08:56:32 until 14.06.2025 09:18:22
+		Duration:	00:21:50
+		Location:	50.10702 11.45799
+
+	HKU1
+		Images:	157
+		Time:	14.06.2025 07:33:05 until 14.06.2025 09:43:11
+		Duration:	02:10:06
+		Location:	50.10702 11.45799
+
+(2) - Obstacle 9 Barbed Wire Crawl
+	LPI1
+		Images:	4198
+		Time:	14.06.2025 08:44:29 until 14.06.2025 12:18:17
+		Duration:	03:33:48
+		Location:	50.10684 11.49841
+
+(3) - Obstacle 15 Ape Hanger
+	RIS1
+		Images:	5055
+		Time:	14.06.2025 09:43:42 until 14.06.2025 14:41:40
+		Duration:	04:57:58
+		Location:	50.08559 11.48848
+
+(4) - Obstacle 17 Chain Carry
+	GUD1
+		Images:	11761
+		Time:	14.06.2025 10:15:35 until 14.06.2025 15:04:55
+		Duration:	04:49:20
+		Location:	50.08126 11.48270
+
+	GUD1LS1
+		Images:	1037
+		Time:	14.06.2025 09:10:05 until 14.06.2025 14:45:38
+		Duration:	05:35:33
+		Location:	50.08126 11.48270
+
+	GUD1LS2
+		Images:	1041
+		Time:	14.06.2025 09:06:43 until 14.06.2025 14:45:38
+		Duration:	05:38:55
+		Location:	50.08126 11.48270
+
+(5) - Obstacle 20 Tilting Ladders
+	YEP1
+		Images:	4114
+		Time:	14.06.2025 08:39:33 until 15.06.2025 08:04:11
+		Duration:	23:24:38
+		Location:	50.10760 11.46696
+
+(6) - Obstacle 21 7 Foot Wall
+	EUGP1
+		Images:	5922
+		Time:	14.06.2025 08:47:41 until 15.06.2025 09:52:09
+		Duration:	1.01:04:28
+		Location:	50.10765 11.46698
+
+(7) - Obstacle 24 Balance Beams
+	LPI2
+		Images:	3507
+		Time:	14.06.2025 12:56:34 until 14.06.2025 17:07:17
+		Duration:	04:10:43
+		Location:	50.10865 11.46526
+
+(8) - Obstacle 25 Sandbag Carry
+	SBU1
+		Images:	5951
+		Time:	14.06.2025 08:41:33 until 14.06.2025 17:44:41
+		Duration:	09:03:08
+		Location:	50.10738 11.45966
+
+	SBU1LS1
+		Images:	1524
+		Time:	14.06.2025 08:53:07 until 15.06.2025 08:55:58
+		Duration:	1.00:02:51
+		Location:	50.10752 11.45950
+
+(9) - Obstacle 29 Slip Wall
+	SK1LS1
+		Images:	1250
+		Time:	14.06.2025 08:40:22 until 14.06.2025 17:14:01
+		Duration:	08:33:39
+		Location:	50.10822 11.45711
+
+(10) - Obstacle 30 Multi Rig
+	SK1
+		Images:	3124
+		Time:	14.06.2025 10:17:54 until 15.06.2025 14:01:27
+		Duration:	1.03:43:33
+		Location:	50.10822 11.45711
+
+(11) - Obstacle 31 A Frame Big
+	HKU2
+		Images:	7531
+		Time:	14.06.2025 11:01:46 until 14.06.2025 17:58:17
+		Duration:	06:56:31
+		Location:	50.10821 11.45700
+
+(12) - Obstacle 32 Fire Jump
+	DAR2
+		Images:	6359
+		Time:	14.06.2025 11:02:15 until 15.06.2025 09:38:27
+		Duration:	22:36:12
+		Location:	50.10832 11.45696
+
+	DAR1LS1
+		Images:	18463
+		Time:	14.06.2025 08:47:32 until 14.06.2025 14:27:43
+		Duration:	05:40:11
+		Location:	50.10832 11.45696
+
+	DAR1LS2
+		Images:	7279
+		Time:	14.06.2025 14:51:02 until 14.06.2025 17:46:14
+		Duration:	02:55:12
+		Location:	50.10832 11.45696
+
+(13) - Herotent
+	CLL1
+		Images:	1480
+		Time:	14.06.2025 10:24:57 until 14.06.2025 18:02:06
+		Duration:	07:37:09
+		Location:	50.10847 11.45662
+
+(14) - Impressions / Pano
+	GUD1DRONE1
+		Images:	13
+		Time:	14.06.2025 09:25:46 until 15.06.2025 12:09:30
+		Duration:	1.02:43:44
+		Location:	50.08126 11.48270
+
+	PANO1

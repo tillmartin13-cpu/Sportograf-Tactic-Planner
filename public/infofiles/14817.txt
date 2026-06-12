@@ -1,0 +1,197 @@
+EventId: 14817
+Spots: 31
+Total Images: 69007
+Time:	23.02.2025 07:09:35 to 23.02.2025 16:20:58
+Duration: 09:11:23
+
+(1) - Station 1 SkiErg
+	LKU1
+		Images:	9020
+		Time:	23.02.2025 07:35:43 until 23.02.2025 14:45:43
+		Duration:	07:10:00
+		Location:	50.26664 19.02775
+
+	NU1
+		Images:	713
+		Time:	23.02.2025 07:28:32 until 23.02.2025 10:48:33
+		Duration:	03:20:01
+		Location:	50.26664 19.02775
+
+	DAR2
+		Images:	322
+		Time:	23.02.2025 08:34:12 until 23.02.2025 12:18:15
+		Duration:	03:44:03
+		Location:	50.26664 19.02775
+
+(2) - Station 2 Sled Push
+	HKU1
+		Images:	2501
+		Time:	23.02.2025 08:11:08 until 23.02.2025 14:48:50
+		Duration:	06:37:42
+		Location:	50.26664 19.02775
+
+	ROH1
+		Images:	6235
+		Time:	23.02.2025 08:11:18 until 23.02.2025 14:40:15
+		Duration:	06:28:57
+		Location:	50.26664 19.02775
+
+	DAR3
+		Images:	390
+		Time:	23.02.2025 09:02:52 until 23.02.2025 12:55:50
+		Duration:	03:52:58
+		Location:	50.26664 19.02775
+
+	GUD1
+		Images:	676
+		Time:	23.02.2025 09:02:36 until 23.02.2025 12:46:30
+		Duration:	03:43:54
+		Location:	50.26664 19.02775
+
+(3) - Station 3 Sled Pull
+	JAKO1
+		Images:	4121
+		Time:	23.02.2025 08:00:26 until 23.02.2025 14:58:17
+		Duration:	06:57:51
+		Location:	50.26664 19.02775
+
+	SZB1
+		Images:	1442
+		Time:	23.02.2025 08:01:11 until 23.02.2025 10:54:37
+		Duration:	02:53:26
+		Location:	50.26664 19.02775
+
+	NU2
+		Images:	679
+		Time:	23.02.2025 11:02:43 until 23.02.2025 14:57:25
+		Duration:	03:54:42
+		Location:	50.26664 19.02775
+
+	DAR4
+		Images:	792
+		Time:	23.02.2025 09:30:57 until 23.02.2025 13:18:50
+		Duration:	03:47:53
+		Location:	50.26664 19.02775
+
+	GUD2
+		Images:	1348
+		Time:	23.02.2025 09:29:40 until 23.02.2025 13:17:48
+		Duration:	03:48:08
+		Location:	50.26664 19.02775
+
+(4) - Station 5 Rowing
+	THO1
+		Images:	6019
+		Time:	23.02.2025 07:48:45 until 23.02.2025 15:25:39
+		Duration:	07:36:54
+		Location:	50.26664 19.02775
+
+	DAR5
+		Images:	456
+		Time:	23.02.2025 09:58:03 until 23.02.2025 10:17:16
+		Duration:	00:19:13
+		Location:	50.26664 19.02775
+
+	GUD3
+		Images:	1545
+		Time:	23.02.2025 13:31:25 until 23.02.2025 13:48:17
+		Duration:	00:16:52
+		Location:	50.26664 19.02775
+
+(5) - Station 6 Farmers Carry
+	GUD1LS1
+		Images:	3257
+		Time:	23.02.2025 07:30:14 until 23.02.2025 15:41:14
+		Duration:	08:11:00
+		Location:	50.26664 19.02775
+
+	GUD1LS2
+		Images:	3024
+		Time:	23.02.2025 07:24:22 until 23.02.2025 15:41:14
+		Duration:	08:16:52
+		Location:	50.26664 19.02775
+
+(6) - Station 7 Sandbag Lunges
+	LZA1
+		Images:	6646
+		Time:	23.02.2025 07:09:35 until 23.02.2025 15:51:14
+		Duration:	08:41:39
+		Location:	50.26664 19.02775
+
+	DAR6
+		Images:	418
+		Time:	23.02.2025 13:32:24 until 23.02.2025 13:48:43
+		Duration:	00:16:19
+		Location:	50.26664 19.02775
+
+	GUD4
+		Images:	470
+		Time:	23.02.2025 09:59:50 until 23.02.2025 10:21:01
+		Duration:	00:21:11
+		Location:	50.26664 19.02775
+
+(7) - Station 8 Wall Balls
+	MIMA1
+		Images:	5263
+		Time:	23.02.2025 07:50:17 until 23.02.2025 16:10:41
+		Duration:	08:20:24
+		Location:	50.26664 19.02775
+
+	RW1
+		Images:	3473
+		Time:	23.02.2025 08:16:41 until 23.02.2025 16:12:15
+		Duration:	07:55:34
+		Location:	50.26664 19.02775
+
+	DAR7
+		Images:	647
+		Time:	23.02.2025 10:52:13 until 23.02.2025 15:25:19
+		Duration:	04:33:06
+		Location:	50.26664 19.02775
+
+	GUD5
+		Images:	608
+		Time:	23.02.2025 14:02:31 until 23.02.2025 14:22:11
+		Duration:	00:19:40
+		Location:	50.26664 19.02775
+
+(8) - Finish
+	AGP1
+		Images:	3431
+		Time:	23.02.2025 08:53:58 until 23.02.2025 16:10:35
+		Duration:	07:16:37
+		Location:	50.26664 19.02775
+
+	DAR8
+		Images:	579
+		Time:	23.02.2025 11:18:24 until 23.02.2025 14:52:27
+		Duration:	03:34:03
+		Location:	50.26664 19.02775
+
+	BS1LS1
+		Images:	1289
+		Time:	23.02.2025 07:25:59 until 23.02.2025 16:10:38
+		Duration:	08:44:39
+		Location:	50.26664 19.02775
+
+	RW1LS1
+		Images:	1448
+		Time:	23.02.2025 07:29:45 until 23.02.2025 16:20:58
+		Duration:	08:51:13
+		Location:	50.26664 19.02775
+
+(9) - Herowall
+	BS1
+		Images:	2095
+		Time:	23.02.2025 08:12:13 until 23.02.2025 16:11:59
+		Duration:	07:59:46
+		Location:	50.26664 19.02775
+
+(10) - Impressions / Pano
+	DAR1
+		Images:	100
+		Time:	23.02.2025 07:37:42 until 23.02.2025 12:10:36
+		Duration:	04:32:54
+		Location:	50.26664 19.02775
+
+	PANO1

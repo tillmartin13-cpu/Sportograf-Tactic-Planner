@@ -1,0 +1,170 @@
+EventId: 13598
+Spots: 25
+Total Images: 141203
+Time:	01.06.2025 06:32:21 to 01.06.2025 17:31:09
+Duration: 10:58:48
+
+(1) - 10.0 km
+	CAIS1
+		Images:	4488
+		Time:	01.06.2025 07:48:38 until 01.06.2025 08:27:07
+		Duration:	00:38:29
+		Location:	44.25641 5.15397
+
+	CAIS1LS1
+		Images:	675
+		Time:	01.06.2025 07:34:53 until 01.06.2025 08:17:48
+		Duration:	00:42:55
+		Location:	44.25641 5.15397
+
+	LAPO1
+		Images:	3076
+		Time:	01.06.2025 06:32:21 until 01.06.2025 08:27:35
+		Duration:	01:55:14
+		Location:	44.25660 5.14984
+
+(2) - 131.0 km
+	CAIS2
+		Images:	6680
+		Time:	01.06.2025 10:00:25 until 01.06.2025 16:59:49
+		Duration:	06:59:24
+		Location:	44.16942 5.28865
+
+	CAIS2LS1
+		Images:	7143
+		Time:	01.06.2025 10:17:53 until 01.06.2025 15:40:53
+		Duration:	05:23:00
+		Location:	44.16942 5.28865
+
+(3) - Start
+	CC1
+		Images:	2154
+		Time:	01.06.2025 07:02:39 until 01.06.2025 07:53:07
+		Duration:	00:50:28
+		Location:	44.24394 5.06945
+
+	GAT1
+		Images:	4612
+		Time:	01.06.2025 06:50:51 until 01.06.2025 07:53:11
+		Duration:	01:02:20
+		Location:	44.24394 5.06945
+
+	MARY1
+		Images:	1326
+		Time:	01.06.2025 06:43:18 until 01.06.2025 09:21:09
+		Duration:	02:37:51
+		Location:	44.24394 5.06945
+
+(4) - 129.0 km
+	CC2
+		Images:	7369
+		Time:	01.06.2025 09:56:36 until 01.06.2025 16:23:03
+		Duration:	06:26:27
+		Location:	44.16239 5.29926
+
+(5) - 90.0 km
+	GABO1
+		Images:	3489
+		Time:	01.06.2025 09:59:52 until 01.06.2025 12:34:45
+		Duration:	02:34:53
+		Location:	44.05025 5.33046
+
+(6) - 130.0 km
+	GAT2
+		Images:	4174
+		Time:	01.06.2025 09:57:52 until 01.06.2025 16:49:28
+		Duration:	06:51:36
+		Location:	44.16543 5.29492
+
+(7) - 133.0 km
+	JLTG1
+		Images:	9548
+		Time:	01.06.2025 09:53:26 until 01.06.2025 17:09:28
+		Duration:	07:16:02
+		Location:	44.17106 5.28202
+
+	JLTG1LS1
+		Images:	5341
+		Time:	01.06.2025 09:09:02 until 01.06.2025 14:06:09
+		Duration:	04:57:07
+		Location:	44.17106 5.28202
+
+	JLTG1LS2
+		Images:	3485
+		Time:	01.06.2025 09:20:36 until 01.06.2025 16:00:35
+		Duration:	06:39:59
+		Location:	44.17106 5.28202
+
+(8) - 132.0 km
+	LAPO2
+		Images:	3818
+		Time:	01.06.2025 10:02:09 until 01.06.2025 17:04:36
+		Duration:	07:02:27
+		Location:	44.16919 5.28443
+
+(9) - 136.0 km
+	LEBE1
+		Images:	7698
+		Time:	01.06.2025 09:23:31 until 01.06.2025 17:31:09
+		Duration:	08:07:38
+		Location:	44.17347 5.26982
+
+	LEBE1DRONE1
+		Images:	35
+		Time:	01.06.2025 09:35:20 until 01.06.2025 12:48:27
+		Duration:	03:13:07
+		Location:	44.17347 5.26982
+
+(10) - 94.0 km
+	LUB1
+		Images:	5581
+		Time:	01.06.2025 08:58:58 until 01.06.2025 14:02:08
+		Duration:	05:03:10
+		Location:	44.06751 5.31502
+
+(11) - Finish
+	MANR1
+		Images:	30434
+		Time:	01.06.2025 09:31:29 until 01.06.2025 17:13:39
+		Duration:	07:42:10
+		Location:	44.17351 5.27563
+
+	MANR1LS2
+		Images:	7442
+		Time:	01.06.2025 09:17:25 until 01.06.2025 16:58:18
+		Duration:	07:40:53
+		Location:	44.17351 5.27563
+
+	MANR1LS1
+		Images:	6137
+		Time:	01.06.2025 09:19:59 until 01.06.2025 14:53:54
+		Duration:	05:33:55
+		Location:	44.17351 5.27563
+
+(12) - 96.0 km
+	MAPA1
+		Images:	3284
+		Time:	01.06.2025 08:45:41 until 01.06.2025 12:49:42
+		Duration:	04:04:01
+		Location:	44.06351 5.31209
+
+(13) - 134.0 km
+	MIFP1
+		Images:	10318
+		Time:	01.06.2025 09:31:01 until 01.06.2025 17:16:17
+		Duration:	07:45:16
+		Location:	44.17431 5.28079
+
+(14) - 92.0 km
+	ELLA1
+		Images:	2700
+		Time:	01.06.2025 09:01:01 until 01.06.2025 12:38:09
+		Duration:	03:37:08
+		Location:	44.06201 5.31773
+
+	ELLA1IMP1
+		Images:	196
+		Time:	01.06.2025 14:05:47 until 01.06.2025 15:33:46
+		Duration:	01:27:59
+		Location:	44.06201 5.31773
+

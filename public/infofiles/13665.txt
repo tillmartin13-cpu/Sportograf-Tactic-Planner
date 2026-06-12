@@ -1,0 +1,68 @@
+EventId: 13665
+Spots: 10
+Total Images: 6416
+Time:	14.03.2025 18:43:40 to 14.03.2025 21:14:15
+Duration: 02:30:35
+
+(1) - Start
+	MUP1
+		Images:	274
+		Time:	14.03.2025 18:51:16 until 14.03.2025 19:57:08
+		Duration:	01:05:52
+		Location:	29.26155 48.02251
+
+	SAQ1
+		Images:	218
+		Time:	14.03.2025 19:08:12 until 14.03.2025 20:00:12
+		Duration:	00:52:00
+		Location:	29.26155 48.02251
+
+(2) - 500,0 m
+	SA1
+		Images:	238
+		Time:	14.03.2025 19:54:34 until 14.03.2025 19:59:18
+		Duration:	00:04:44
+		Location:	29.26106 48.02302
+
+(3) - 1,0 km
+	ARP1
+		Images:	1050
+		Time:	14.03.2025 19:53:09 until 14.03.2025 20:43:43
+		Duration:	00:50:34
+		Location:	29.25956 48.02465
+
+(4) - 5,0 km
+	GOR1
+		Images:	974
+		Time:	14.03.2025 18:43:40 until 14.03.2025 21:14:15
+		Duration:	02:30:35
+		Location:	29.25987 48.02447
+
+	SA2
+		Images:	458
+		Time:	14.03.2025 20:07:52 until 14.03.2025 20:48:00
+		Duration:	00:40:08
+		Location:	29.26106 48.02302
+
+(5) - Medals
+	YUM1
+		Images:	159
+		Time:	14.03.2025 19:48:17 until 14.03.2025 20:49:24
+		Duration:	01:01:07
+		Location:	29.26155 48.02251
+
+(6) - Finish
+	SAQ2
+		Images:	1758
+		Time:	14.03.2025 20:06:54 until 14.03.2025 20:58:10
+		Duration:	00:51:16
+		Location:	29.26155 48.02251
+
+	MUP2
+		Images:	1287
+		Time:	14.03.2025 20:05:04 until 14.03.2025 21:03:46
+		Duration:	00:58:42
+		Location:	29.26155 48.02251
+
+(7) - Impressions / Pano
+	PANO1

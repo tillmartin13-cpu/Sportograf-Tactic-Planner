@@ -1,0 +1,95 @@
+EventId: 14454
+Spots: 13
+Total Images: 74388
+Time:	02.05.2025 17:49:49 to 03.05.2025 17:07:53
+Duration: 23:18:04
+
+(1) - Start
+	BRW2
+		Images:	29
+		Time:	03.05.2025 06:56:42 until 03.05.2025 07:16:56
+		Duration:	00:20:14
+		Location:	47.83085 -122.01402
+
+(2) - Obstacle 6 Log Carry
+	HOG1
+		Images:	9798
+		Time:	02.05.2025 21:54:19 until 03.05.2025 13:07:11
+		Duration:	15:12:52
+		Location:	47.83008 -122.00034
+
+(3) - Obstacle 10 Bucket Carry
+	BICI1
+		Images:	8653
+		Time:	03.05.2025 07:39:37 until 03.05.2025 14:31:09
+		Duration:	06:51:32
+		Location:	47.83190 -122.01017
+
+	BICI1LS1
+		Images:	5321
+		Time:	03.05.2025 07:03:52 until 03.05.2025 14:45:48
+		Duration:	07:41:56
+		Location:	47.83190 -122.01017
+
+(4) - Obstacle 14 Barbed Wire Crawl
+	MATC1
+		Images:	10895
+		Time:	03.05.2025 07:50:36 until 03.05.2025 15:32:14
+		Duration:	07:41:38
+		Location:	47.83293 -122.01641
+
+(5) - Obstacle 15 Dunk Wall
+	WOM1
+		Images:	4378
+		Time:	02.05.2025 17:49:49 until 03.05.2025 15:37:45
+		Duration:	21:47:56
+		Location:	47.83260 -122.01696
+
+(6) - Obstacle 19 Multi-Rig
+	PAKE1
+		Images:	7174
+		Time:	03.05.2025 07:05:20 until 03.05.2025 15:45:57
+		Duration:	08:40:37
+		Location:	47.83166 -122.01661
+
+(7) - Obstacle 23 A-Frame Cargo
+	BRW1
+		Images:	7242
+		Time:	03.05.2025 08:00:34 until 03.05.2025 17:07:53
+		Duration:	09:07:19
+		Location:	47.82976 -122.01396
+
+(8) - Obstacle 24 Monkey Bars
+	ARON1
+		Images:	9236
+		Time:	02.05.2025 19:58:55 until 03.05.2025 16:09:54
+		Duration:	20:10:59
+		Location:	47.82957 -122.01343
+
+(9) - Obstacle 27 Fire Jump
+	DEST1
+		Images:	8666
+		Time:	03.05.2025 07:24:24 until 03.05.2025 16:22:13
+		Duration:	08:57:49
+		Location:	47.82903 -122.01408
+
+(10) - Herotent
+	DMCI1
+		Images:	2464
+		Time:	02.05.2025 22:36:42 until 03.05.2025 16:22:42
+		Duration:	17:46:00
+		Location:	47.82911 -122.01451
+
+(11) - Festival Area
+	JOD1
+		Images:	518
+		Time:	02.05.2025 21:26:03 until 03.05.2025 13:35:03
+		Duration:	16:09:00
+		Location:	47.82911 -122.01451
+
+	JOD1DRONE1
+		Images:	14
+		Time:	03.05.2025 10:39:28 until 03.05.2025 10:51:16
+		Duration:	00:11:48
+		Location:	47.82911 -122.01451
+

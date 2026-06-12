@@ -1,0 +1,82 @@
+EventId: 13563
+Spots: 12
+Total Images: 30304
+Time:	28.09.2025 08:05:31 to 28.09.2025 17:31:35
+Duration: 09:26:04
+
+(1) - Start
+	SOUG1
+		Images:	924
+		Time:	28.09.2025 08:34:27 until 28.09.2025 09:35:48
+		Duration:	01:01:21
+		Location:	52.34711 -7.41508
+
+(2) - Km23 of 100K & 150K
+	OHAL1
+		Images:	2950
+		Time:	28.09.2025 08:05:31 until 28.09.2025 10:54:19
+		Duration:	02:48:48
+		Location:	52.30685 -7.64161
+
+	OHAL1LS1
+		Images:	1806
+		Time:	28.09.2025 09:08:13 until 28.09.2025 11:24:45
+		Duration:	02:16:32
+		Location:	52.30685 -7.64161
+
+(3) - Km 26 of 100K & 150K
+	HED1
+		Images:	1080
+		Time:	28.09.2025 08:21:13 until 28.09.2025 10:52:51
+		Duration:	02:31:38
+		Location:	52.32598 -7.62927
+
+(4) - Km 62 of 150K
+	DAMU1
+		Images:	1076
+		Time:	28.09.2025 08:35:51 until 28.09.2025 12:45:42
+		Duration:	04:09:51
+		Location:	52.25873 -7.93818
+
+(5) - Km 66 of 100K & Km 116 of 150K
+	GMU1
+		Images:	6067
+		Time:	28.09.2025 10:54:40 until 28.09.2025 17:05:58
+		Duration:	06:11:18
+		Location:	52.16516 -7.53925
+
+(6) - Km 82 of 100K & Km 132 of 150K
+	OHAL2
+		Images:	3203
+		Time:	28.09.2025 11:25:51 until 28.09.2025 16:58:14
+		Duration:	05:32:23
+		Location:	52.29095 -7.45938
+
+	OHAL2LS1
+		Images:	3941
+		Time:	28.09.2025 12:01:23 until 28.09.2025 16:58:31
+		Duration:	04:57:08
+		Location:	52.29095 -7.45938
+
+(7) - Km 83 of 100K & Km 133 of 150K
+	HED2
+		Images:	2202
+		Time:	28.09.2025 11:34:28 until 28.09.2025 17:09:32
+		Duration:	05:35:04
+		Location:	52.31440 -7.43343
+
+(8) - Finish
+	SOUG2
+		Images:	6574
+		Time:	28.09.2025 09:40:44 until 28.09.2025 17:04:47
+		Duration:	07:24:03
+		Location:	52.34837 -7.40931
+
+	DAMU2
+		Images:	481
+		Time:	28.09.2025 12:45:49 until 28.09.2025 17:31:35
+		Duration:	04:45:46
+		Location:	52.34837 -7.40931
+
+(9) - Impressions / Pano
+	PANO1

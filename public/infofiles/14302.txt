@@ -1,0 +1,114 @@
+EventId: 14302
+Spots: 16
+Total Images: 63379
+Time:	01.01.0001 23:00:00 to 07.09.2025 16:05:28
+Duration: 739499.17:05:28
+
+(1) - Obstacle 3 Barbed Wire Crawl
+	APEC1
+		Images:	12391
+		Time:	05.09.2025 11:14:58 until 05.09.2025 15:15:27
+		Duration:	04:00:29
+		Location:	37.91730 -81.13222
+
+(2) - Obstacle 5 Sandbag Carry
+	AJMCK1
+		Images:	3491
+		Time:	05.09.2025 07:43:16 until 05.09.2025 14:52:57
+		Duration:	07:09:41
+		Location:	37.91927 -81.13158
+
+(3) - Obstacle 7 Slip Wall
+	AJBB1
+		Images:	9394
+		Time:	05.09.2025 11:05:45 until 05.09.2025 15:02:06
+		Duration:	03:56:21
+		Location:	37.91741 -81.13177
+
+(4) - Obstacle 8 Water Crossing
+	ATRC1
+		Images:	5451
+		Time:	04.09.2025 17:54:50 until 05.09.2025 15:19:22
+		Duration:	21:24:32
+		Location:	37.91600 -81.13357
+
+(5) - Obstacle 11 A-Frame Cargo #2
+	AMBRS1
+		Images:	4016
+		Time:	05.09.2025 11:37:28 until 05.09.2025 15:38:43
+		Duration:	04:01:15
+		Location:	37.91855 -81.13686
+
+(6) - Obstacle 12 Tilting Ladder
+	AEUGP1
+		Images:	1711
+		Time:	05.09.2025 11:40:42 until 05.09.2025 15:40:03
+		Duration:	03:59:21
+		Location:	37.91880 -81.13630
+
+	AYEP1
+		Images:	2630
+		Time:	05.09.2025 11:41:43 until 05.09.2025 15:39:30
+		Duration:	03:57:47
+		Location:	37.91880 -81.13630
+
+(7) - Impressions / Pano
+	AYEP1DRONE1
+		Images:	1
+		Time:	05.09.2025 17:30:50 until 05.09.2025 17:30:50
+		Duration:	00:00:00
+		Location:	37.91880 -81.13630
+
+	AVICY2
+		Images:	13
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	37.91815 -81.13560
+
+(8) - Obstacle 31 T Wall
+	ASICA1
+		Images:	1992
+		Time:	05.09.2025 11:43:30 until 05.09.2025 16:06:58
+		Duration:	04:23:28
+		Location:	37.92494 -81.13630
+
+	AGMAL1
+		Images:	1320
+		Time:	05.09.2025 11:30:10 until 05.09.2025 16:12:13
+		Duration:	04:42:03
+		Location:	37.92494 -81.13630
+
+(9) - Obstacle 35 Chain Carry
+	ACORS1
+		Images:	9131
+		Time:	05.09.2025 11:46:46 until 05.09.2025 16:39:16
+		Duration:	04:52:30
+		Location:	37.91822 -81.13422
+
+	ATFUL1
+		Images:	1443
+		Time:	05.09.2025 11:42:00 until 05.09.2025 16:38:59
+		Duration:	04:56:59
+		Location:	37.91822 -81.13422
+
+(10) - Obstacle 38 Fire Jump
+	AMSK1
+		Images:	6411
+		Time:	05.09.2025 11:19:18 until 05.09.2025 16:45:14
+		Duration:	05:25:56
+		Location:	37.91813 -81.13536
+
+(11) - Herotent
+	AELPA1
+		Images:	3221
+		Time:	04.09.2025 23:03:56 until 05.09.2025 16:57:17
+		Duration:	17:53:21
+		Location:	37.91815 -81.13560
+
+(12) - Venue
+	AVICY1
+		Images:	697
+		Time:	01.01.0001 23:00:00 until 05.09.2025 14:41:33
+		Duration:	739497.15:41:33
+		Location:	37.91815 -81.13560
+

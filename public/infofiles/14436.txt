@@ -1,0 +1,127 @@
+EventId: 14436
+Spots: 18
+Total Images: 58598
+Time:	13.04.2025 05:20:30 to 13.04.2025 13:40:12
+Duration: 08:19:42
+
+(1) - Start
+	MCAR1
+		Images:	166
+		Time:	13.04.2025 06:58:34 until 13.04.2025 09:04:31
+		Duration:	02:05:57
+		Location:	NULL NULL
+
+	MCAR1DRONE1
+		Images:	24
+		Time:	13.04.2025 09:19:02 until 13.04.2025 09:28:10
+		Duration:	00:09:08
+		Location:	NULL NULL
+
+(2) - Tunnel
+	MCAR2
+		Images:	723
+		Time:	13.04.2025 10:34:15 until 13.04.2025 11:10:37
+		Duration:	00:36:22
+		Location:	NULL NULL
+
+(3) - Obstacle 10 Monkey Bars
+	FREM1
+		Images:	2421
+		Time:	13.04.2025 05:20:30 until 13.04.2025 12:05:45
+		Duration:	06:45:15
+		Location:	NULL NULL
+
+	KHN1
+		Images:	4862
+		Time:	13.04.2025 06:53:31 until 13.04.2025 12:02:58
+		Duration:	05:09:27
+		Location:	NULL NULL
+
+(4) - Trail after Start.
+	KHN1LS1
+		Images:	1231
+		Time:	13.04.2025 06:36:53 until 13.04.2025 12:04:01
+		Duration:	05:27:08
+		Location:	NULL NULL
+
+(5) - Obstacle 11 Craft A-Frame Cargo
+	MKI1
+		Images:	7892
+		Time:	13.04.2025 06:58:22 until 13.04.2025 12:10:07
+		Duration:	05:11:45
+		Location:	NULL NULL
+
+(6) - Obstacle 13 Sandbag Carry
+	DDC1
+		Images:	5625
+		Time:	13.04.2025 07:14:09 until 13.04.2025 12:24:43
+		Duration:	05:10:34
+		Location:	NULL NULL
+
+(7) - Obstacle 14 Inverted Wall
+	DDS1
+		Images:	4512
+		Time:	13.04.2025 07:15:30 until 13.04.2025 12:31:20
+		Duration:	05:15:50
+		Location:	NULL NULL
+
+(8) - Obstacle 17 Multi-Rig
+	ROBL1
+		Images:	4942
+		Time:	13.04.2025 06:49:55 until 13.04.2025 12:38:24
+		Duration:	05:48:29
+		Location:	NULL NULL
+
+	TUD1
+		Images:	4478
+		Time:	13.04.2025 07:02:59 until 13.04.2025 12:37:01
+		Duration:	05:34:02
+		Location:	NULL NULL
+
+(9) - Obstacle 18 Bucket Carry
+	BICI1
+		Images:	3773
+		Time:	13.04.2025 07:21:44 until 13.04.2025 12:43:24
+		Duration:	05:21:40
+		Location:	NULL NULL
+
+	BICI1LS1
+		Images:	1565
+		Time:	13.04.2025 07:34:53 until 13.04.2025 12:43:23
+		Duration:	05:08:30
+		Location:	NULL NULL
+
+(10) - Obstacle 22 Dunk Wall
+	DVAL1
+		Images:	8476
+		Time:	13.04.2025 06:57:07 until 13.04.2025 13:27:58
+		Duration:	06:30:51
+		Location:	NULL NULL
+
+(11) - Obstacle 23 Barbed Wire Crawl
+	HJP1
+		Images:	4553
+		Time:	13.04.2025 07:16:26 until 13.04.2025 13:31:48
+		Duration:	06:15:22
+		Location:	NULL NULL
+
+(12) - Obstacle 26 Fire Jump
+	JO1
+		Images:	1022
+		Time:	13.04.2025 07:34:04 until 13.04.2025 13:37:19
+		Duration:	06:03:15
+		Location:	NULL NULL
+
+(13) - Herotent
+	DMI1
+		Images:	1482
+		Time:	13.04.2025 06:59:12 until 13.04.2025 13:40:12
+		Duration:	06:41:00
+		Location:	NULL NULL
+
+	MATA1
+		Images:	851
+		Time:	13.04.2025 07:50:45 until 13.04.2025 13:14:40
+		Duration:	05:23:55
+		Location:	NULL NULL
+

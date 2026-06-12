@@ -1,0 +1,144 @@
+EventId: 13732
+Spots: 21
+Total Images: 18933
+Time:	10.08.2025 09:27:34 to 10.08.2025 14:37:15
+Duration: 05:09:41
+
+(1) - Start Pontresina
+	EVL1
+		Images:	267
+		Time:	10.08.2025 09:27:34 until 10.08.2025 10:01:33
+		Duration:	00:33:59
+		Location:	46.49291 9.90273
+
+(2) - Start Sils im Engadin
+	LBL1
+		Images:	346
+		Time:	10.08.2025 09:33:47 until 10.08.2025 10:16:42
+		Duration:	00:42:55
+		Location:	46.43170 9.76132
+
+(3) - 0.5 km
+	LBL2
+		Images:	946
+		Time:	10.08.2025 10:20:45 until 10.08.2025 10:48:54
+		Duration:	00:28:09
+		Location:	46.42997 9.76154
+
+(4) - 5.0 km Run Pontresina
+	EVL2
+		Images:	1002
+		Time:	10.08.2025 10:18:42 until 10.08.2025 10:59:17
+		Duration:	00:40:35
+		Location:	46.49423 9.88993
+
+	EVL2LS1
+		Images:	339
+		Time:	10.08.2025 10:18:39 until 10.08.2025 11:00:44
+		Duration:	00:42:05
+		Location:	46.49423 9.88993
+
+(5) - 5.1 km Sommerlauf
+	JNK1
+		Images:	900
+		Time:	10.08.2025 10:11:57 until 10.08.2025 12:03:00
+		Duration:	01:51:03
+		Location:	46.45018 9.80608
+
+	JNK1LS1
+		Images:	640
+		Time:	10.08.2025 10:33:09 until 10.08.2025 11:10:36
+		Duration:	00:37:27
+		Location:	46.45018 9.80608
+
+(6) - 18.4 km Sommerlauf
+	EVL3
+		Images:	1481
+		Time:	10.08.2025 11:14:31 until 10.08.2025 13:07:19
+		Duration:	01:52:48
+		Location:	46.49925 9.88050
+
+	EVL3LS1
+		Images:	553
+		Time:	10.08.2025 11:13:27 until 10.08.2025 13:08:21
+		Duration:	01:54:54
+		Location:	46.49925 9.88050
+
+(7) - 21.0 km
+	MOG1
+		Images:	1658
+		Time:	10.08.2025 10:10:42 until 10.08.2025 13:48:22
+		Duration:	03:37:40
+		Location:	46.49185 9.84630
+
+	MOG1LS2
+		Images:	1595
+		Time:	10.08.2025 10:35:31 until 10.08.2025 13:57:28
+		Duration:	03:21:57
+		Location:	46.49185 9.84630
+
+	MOG1LS1
+		Images:	1595
+		Time:	10.08.2025 10:34:43 until 10.08.2025 13:58:27
+		Duration:	03:23:44
+		Location:	46.49185 9.84630
+
+(8) - 1.1 km vor Finish
+	LBL3
+		Images:	1767
+		Time:	10.08.2025 11:56:15 until 10.08.2025 13:51:04
+		Duration:	01:54:49
+		Location:	46.48889 9.83932
+
+(9) - 0.8 km vor Finish
+	JNK2
+		Images:	823
+		Time:	10.08.2025 12:03:23 until 10.08.2025 13:38:57
+		Duration:	01:35:34
+		Location:	46.48984 9.83877
+
+	JNK2LS1
+		Images:	699
+		Time:	10.08.2025 11:57:31 until 10.08.2025 13:13:11
+		Duration:	01:15:40
+		Location:	46.48984 9.83877
+
+(10) - Finish
+	MAWI1LS2
+		Images:	1115
+		Time:	10.08.2025 10:19:13 until 10.08.2025 14:19:03
+		Duration:	03:59:50
+		Location:	46.49032 9.83762
+
+	MAWI1
+		Images:	2556
+		Time:	10.08.2025 10:20:19 until 10.08.2025 14:37:15
+		Duration:	04:16:56
+		Location:	46.49032 9.83762
+
+	MAWI1LS1
+		Images:	618
+		Time:	10.08.2025 10:18:51 until 10.08.2025 14:29:43
+		Duration:	04:10:52
+		Location:	46.49032 9.83762
+
+(11) - Finish Impressions
+	EVL4
+		Images:	25
+		Time:	10.08.2025 13:39:12 until 10.08.2025 13:51:57
+		Duration:	00:12:45
+		Location:	46.49032 9.83762
+
+(12) - Impressions / Pano
+	EVL3DRONE1
+		Images:	7
+		Time:	10.08.2025 12:42:49 until 10.08.2025 12:44:07
+		Duration:	00:01:18
+		Location:	46.49925 9.88050
+
+	PANO1
+		Images:	1
+		Time:	10.08.2025 10:25:02 until 10.08.2025 10:25:02
+		Duration:	00:00:00
+		Location:	46.49185 9.84630
+

@@ -1,0 +1,107 @@
+EventId: 14480
+Spots: 16
+Total Images: 44761
+Time:	22.11.2025 07:38:05 to 23.11.2025 14:43:10
+Duration: 1.07:05:05
+
+(1) - Beater
+	ALSE3
+		Images:	3913
+		Time:	22.11.2025 08:12:31 until 22.11.2025 10:30:18
+		Duration:	02:17:47
+		Location:	28.41278 -16.55931
+
+	JRP3
+		Images:	622
+		Time:	22.11.2025 08:47:14 until 22.11.2025 09:39:24
+		Duration:	00:52:10
+		Location:	28.41278 -16.55931
+
+(2) - Multi Rig
+	ALSE4
+		Images:	4621
+		Time:	22.11.2025 10:30:35 until 22.11.2025 14:57:39
+		Duration:	04:27:04
+		Location:	28.41897 -16.54209
+
+(3) - Water Crossing
+	CRGA1
+		Images:	7611
+		Time:	22.11.2025 08:27:48 until 23.11.2025 08:29:10
+		Duration:	1.00:01:22
+		Location:	28.41969 -16.54327
+
+	CRGA1LS1
+		Images:	1055
+		Time:	22.11.2025 08:30:03 until 22.11.2025 14:39:13
+		Duration:	06:09:10
+		Location:	28.41969 -16.54327
+
+	JRP4
+		Images:	438
+		Time:	22.11.2025 10:51:11 until 22.11.2025 13:01:54
+		Duration:	02:10:43
+		Location:	28.41969 -16.54327
+
+(4) - A Frame Cargo
+	EU1
+		Images:	7181
+		Time:	22.11.2025 08:26:17 until 23.11.2025 10:29:11
+		Duration:	1.02:02:54
+		Location:	28.41897 -16.54209
+
+(5) - Chain Carry
+	JAI1
+		Images:	4405
+		Time:	22.11.2025 08:15:21 until 23.11.2025 07:43:33
+		Duration:	23:28:12
+		Location:	28.41306 -16.55912
+
+	JAI1LS1
+		Images:	1260
+		Time:	22.11.2025 08:10:36 until 22.11.2025 13:35:51
+		Duration:	05:25:15
+		Location:	28.41306 -16.55912
+
+	JRP2
+		Images:	974
+		Time:	22.11.2025 08:10:30 until 22.11.2025 09:58:17
+		Duration:	01:47:47
+		Location:	28.41306 -16.55912
+
+(6) - Monkey Bars
+	JASA1
+		Images:	3000
+		Time:	22.11.2025 07:40:18 until 23.11.2025 14:43:10
+		Duration:	1.07:02:52
+		Location:	28.41813 -16.54800
+
+	JRP1
+		Images:	239
+		Time:	22.11.2025 13:36:56 until 22.11.2025 13:55:50
+		Duration:	00:18:54
+		Location:	28.41813 -16.54800
+
+(7) - Drone
+	JRP1DRONE1
+		Images:	23
+		Time:	22.11.2025 07:41:08 until 23.11.2025 11:01:14
+		Duration:	1.03:20:06
+		Location:	28.41813 -16.54800
+
+(8) - Herotent
+	REDI1
+		Images:	2744
+		Time:	22.11.2025 07:38:05 until 22.11.2025 15:00:30
+		Duration:	07:22:25
+		Location:	28.41846 -16.55188
+
+(9) - Fire Jump
+	SIC1
+		Images:	6674
+		Time:	22.11.2025 08:10:43 until 22.11.2025 14:59:28
+		Duration:	06:48:45
+		Location:	28.41851 -16.55188
+
+(10) - Impressions / Pano
+	PANO1

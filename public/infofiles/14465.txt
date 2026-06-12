@@ -1,0 +1,102 @@
+EventId: 14465
+Spots: 14
+Total Images: 58575
+Time:	18.05.2025 06:36:06 to 18.06.2025 12:55:22
+Duration: 31.06:19:16
+
+(1) - Obstacle 4 Monkey Bars
+	AKT1
+		Images:	3142
+		Time:	18.05.2025 06:41:06 until 18.05.2025 11:47:06
+		Duration:	05:06:00
+		Location:	30.79439 -98.35167
+
+(2) - Obstacle 13 Atlas Carry
+	SCSE1
+		Images:	1732
+		Time:	18.05.2025 09:57:13 until 18.05.2025 12:12:19
+		Duration:	02:15:06
+		Location:	30.79163 -98.35261
+
+	DOBR1
+		Images:	4665
+		Time:	18.05.2025 07:19:05 until 18.05.2025 12:05:00
+		Duration:	04:45:55
+		Location:	30.79160 -98.35246
+
+(3) - Obstacle 17 Bucket Carry
+	GAPO1
+		Images:	6240
+		Time:	18.05.2025 07:26:47 until 18.05.2025 12:49:10
+		Duration:	05:22:23
+		Location:	30.79488 -98.35420
+
+(4) - Obstacle 19 Sandbag Carry
+	BICI1
+		Images:	4218
+		Time:	18.05.2025 07:35:28 until 18.05.2025 13:07:04
+		Duration:	05:31:36
+		Location:	30.79246 -98.35831
+
+(5) - Obstacle 19 Sandbag Carry LS
+	BICI1LS1
+		Images:	2256
+		Time:	18.05.2025 06:52:13 until 18.05.2025 12:58:53
+		Duration:	06:06:40
+		Location:	30.79246 -98.35831
+
+(6) - Obstacle 21 Barbed wire Crawl
+	GDRP1
+		Images:	7950
+		Time:	18.05.2025 07:07:33 until 18.05.2025 12:58:37
+		Duration:	05:51:04
+		Location:	30.79482 -98.35939
+
+(7) - Obstacle 24 Slip Wall
+	AWD1
+		Images:	2273
+		Time:	18.05.2025 07:36:11 until 18.05.2025 12:58:46
+		Duration:	05:22:35
+		Location:	30.79498 -98.36008
+
+(8) - Obstacle 25 Multi Rig
+	GACA1
+		Images:	3596
+		Time:	18.06.2025 06:53:02 until 18.06.2025 12:55:22
+		Duration:	06:02:20
+		Location:	30.79835 -98.35949
+
+	JVI1
+		Images:	2875
+		Time:	18.05.2025 07:39:31 until 18.05.2025 12:56:24
+		Duration:	05:16:53
+		Location:	30.79837 -98.35939
+
+(9) - Obstacle 26 A Frame
+	JMS1
+		Images:	6852
+		Time:	18.05.2025 06:59:26 until 18.05.2025 12:58:15
+		Duration:	05:58:49
+		Location:	30.79850 -98.36005
+
+(10) - Obstacle 27 Fire Jump
+	PRU1
+		Images:	6330
+		Time:	18.05.2025 06:36:06 until 18.05.2025 12:59:18
+		Duration:	06:23:12
+		Location:	30.79862 -98.36007
+
+(11) - Herotent
+	CIFU1
+		Images:	2561
+		Time:	18.05.2025 07:10:30 until 18.05.2025 14:21:35
+		Duration:	07:11:05
+		Location:	30.79892 -98.35993
+
+(12) - Trail Only
+	TRAIL1
+		Images:	3885
+		Time:	18.05.2025 07:46:08 until 18.05.2025 09:54:10
+		Duration:	02:08:02
+		Location:	30.79246 -98.35831
+

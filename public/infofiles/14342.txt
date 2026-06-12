@@ -1,0 +1,133 @@
+EventId: 14342
+Spots: 19
+Total Images: 133671
+Time:	01.01.0001 23:00:00 to 07.09.2025 18:05:58
+Duration: 739499.19:05:58
+
+(1) - Obstacle 8 Water Crossing
+	CIZZY1
+		Images:	8722
+		Time:	07.09.2025 06:54:06 until 07.09.2025 10:59:56
+		Duration:	04:05:50
+		Location:	37.91600 -81.13357
+
+(2) - Obstacle 11 A-Frame Cargo #2
+	CTRC1
+		Images:	8399
+		Time:	07.09.2025 07:00:41 until 07.09.2025 11:13:41
+		Duration:	04:13:00
+		Location:	37.91855 -81.13686
+
+(3) - Obstacle 12 Tilting Ladder
+	CEUGP1
+		Images:	2169
+		Time:	07.09.2025 07:24:45 until 07.09.2025 11:15:35
+		Duration:	03:50:50
+		Location:	37.91880 -81.13630
+
+	CYEP1
+		Images:	2808
+		Time:	07.09.2025 07:21:12 until 07.09.2025 11:18:00
+		Duration:	03:56:48
+		Location:	37.91880 -81.13630
+
+(4) - Obstacle 19 Stairway to Sparta
+	CJBB1
+		Images:	16883
+		Time:	07.09.2025 06:51:54 until 07.09.2025 13:04:30
+		Duration:	06:12:36
+		Location:	37.92852 -81.12808
+
+	CTFUL1
+		Images:	6391
+		Time:	07.09.2025 07:46:33 until 07.09.2025 13:16:05
+		Duration:	05:29:32
+		Location:	37.91991 -81.12458
+
+(5) - Obstacle 20 Tyrolean Traverse
+	CCORS1
+		Images:	15413
+		Time:	07.09.2025 07:46:26 until 07.09.2025 12:19:37
+		Duration:	04:33:11
+		Location:	37.91991 -81.12458
+
+(6) - Obstacle 27 Laser Pistol
+	CELPA1
+		Images:	10961
+		Time:	07.09.2025 07:11:58 until 07.09.2025 16:51:02
+		Duration:	09:39:04
+		Location:	37.91999 -81.12502
+
+(7) - Obstacle 31 T Wall
+	CMSK1
+		Images:	3650
+		Time:	07.09.2025 10:42:58 until 07.09.2025 16:25:13
+		Duration:	05:42:15
+		Location:	37.92494 -81.13630
+
+	CJMCK1
+		Images:	2154
+		Time:	07.09.2025 10:41:20 until 07.09.2025 15:52:50
+		Duration:	05:11:30
+		Location:	37.92494 -81.13630
+
+(8) - Obstacle 35 Chain Carry
+	CGMAL1
+		Images:	10755
+		Time:	07.09.2025 07:33:18 until 07.09.2025 17:12:32
+		Duration:	09:39:14
+		Location:	37.91822 -81.13422
+
+	CPEC1
+		Images:	17211
+		Time:	07.09.2025 09:00:40 until 07.09.2025 17:32:08
+		Duration:	08:31:28
+		Location:	37.91822 -81.13422
+
+(9) - Obstacle 38 Fire Jump
+	CSICA1
+		Images:	11074
+		Time:	07.09.2025 07:59:43 until 07.09.2025 17:37:21
+		Duration:	09:37:38
+		Location:	37.91813 -81.13536
+
+	CSICA1LS1
+		Images:	2233
+		Time:	07.09.2025 07:45:57 until 07.09.2025 17:37:43
+		Duration:	09:51:46
+		Location:	37.91813 -81.13536
+
+	CSICA1LS2
+		Images:	9485
+		Time:	07.09.2025 07:53:26 until 07.09.2025 17:37:18
+		Duration:	09:43:52
+		Location:	37.91813 -81.13536
+
+(10) - Herotent
+	CMBRS1
+		Images:	2496
+		Time:	07.09.2025 09:19:26 until 07.09.2025 18:05:58
+		Duration:	08:46:32
+		Location:	37.91815 -81.13560
+
+(11) - Start
+	CPEC2
+		Images:	1375
+		Time:	07.09.2025 08:28:43 until 07.09.2025 08:55:07
+		Duration:	00:26:24
+		Location:	37.91815 -81.13560
+
+(12) - Trail Spot 1
+	CJMCK2
+		Images:	492
+		Time:	07.09.2025 08:49:47 until 07.09.2025 10:19:57
+		Duration:	01:30:10
+		Location:	37.92003 -81.13018
+
+(13) - Trail Spot 2
+	CMSK2
+		Images:	897
+		Time:	07.09.2025 08:41:42 until 07.09.2025 10:19:11
+		Duration:	01:37:29
+		Location:	37.91925 -81.12788
+

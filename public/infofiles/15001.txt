@@ -1,0 +1,390 @@
+EventId: 15001
+Spots: 62
+Total Images: 244507
+Time:	08.08.2025 19:09:24 to 10.08.2025 01:07:52
+Duration: 1.05:58:28
+
+(1) - Station 5 Rowing
+	ANDR1
+		Images:	6587
+		Time:	08.08.2025 19:09:24 until 09.08.2025 14:57:49
+		Duration:	19:48:25
+		Location:	35.45995 139.63518
+
+	AYO2
+		Images:	7577
+		Time:	09.08.2025 15:03:33 until 09.08.2025 21:24:39
+		Duration:	06:21:06
+		Location:	35.45995 139.63518
+
+	HTT5
+		Images:	4647
+		Time:	09.08.2025 09:19:11 until 09.08.2025 13:57:07
+		Duration:	04:37:56
+		Location:	35.45995 139.63518
+
+	LV5
+		Images:	2330
+		Time:	09.08.2025 17:10:16 until 09.08.2025 20:32:31
+		Duration:	03:22:15
+		Location:	35.45995 139.63518
+
+	MK5
+		Images:	4414
+		Time:	09.08.2025 10:40:19 until 09.08.2025 17:41:18
+		Duration:	07:00:59
+		Location:	35.45995 139.63518
+
+	RSK2
+		Images:	6311
+		Time:	09.08.2025 15:01:18 until 09.08.2025 21:15:05
+		Duration:	06:13:47
+		Location:	35.45995 139.63518
+
+	STW1
+		Images:	4901
+		Time:	09.08.2025 08:38:11 until 09.08.2025 15:16:26
+		Duration:	06:38:15
+		Location:	35.45995 139.63518
+
+(2) - Station 2 Sled Push
+	ANDR2
+		Images:	2502
+		Time:	09.08.2025 15:10:56 until 09.08.2025 20:43:53
+		Duration:	05:32:57
+		Location:	35.45995 139.63518
+
+	HTT2
+		Images:	1176
+		Time:	09.08.2025 09:21:41 until 09.08.2025 19:59:10
+		Duration:	10:37:29
+		Location:	35.45995 139.63518
+
+	MOMO1
+		Images:	1734
+		Time:	09.08.2025 07:26:07 until 09.08.2025 16:53:16
+		Duration:	09:27:09
+		Location:	35.45995 139.63518
+
+	NNI1
+		Images:	2079
+		Time:	09.08.2025 07:28:51 until 09.08.2025 14:49:22
+		Duration:	07:20:31
+		Location:	35.45995 139.63518
+
+	RYH2
+		Images:	3063
+		Time:	09.08.2025 14:51:18 until 09.08.2025 20:43:56
+		Duration:	05:52:38
+		Location:	35.45995 139.63518
+
+	RYT2
+		Images:	4983
+		Time:	09.08.2025 14:59:11 until 09.08.2025 20:39:08
+		Duration:	05:39:57
+		Location:	35.45995 139.63518
+
+	YH1
+		Images:	2481
+		Time:	09.08.2025 08:02:50 until 09.08.2025 14:57:39
+		Duration:	06:54:49
+		Location:	35.45995 139.63518
+
+(3) - Station 8 Wallballs
+	AKM1
+		Images:	2301
+		Time:	09.08.2025 07:26:48 until 09.08.2025 15:10:28
+		Duration:	07:43:40
+		Location:	35.45995 139.63518
+
+	DLO2
+		Images:	4748
+		Time:	09.08.2025 18:15:13 until 09.08.2025 22:15:43
+		Duration:	04:00:30
+		Location:	35.45995 139.63518
+
+	HTT8
+		Images:	3073
+		Time:	09.08.2025 09:03:11 until 09.08.2025 17:49:34
+		Duration:	08:46:23
+		Location:	35.45995 139.63518
+
+	LV8
+		Images:	993
+		Time:	09.08.2025 17:47:06 until 09.08.2025 20:34:46
+		Duration:	02:47:40
+		Location:	35.45995 139.63518
+
+	MK7
+		Images:	1890
+		Time:	09.08.2025 11:21:07 until 09.08.2025 18:06:09
+		Duration:	06:45:02
+		Location:	35.45995 139.63518
+
+	TDB1
+		Images:	4838
+		Time:	09.08.2025 07:27:23 until 09.08.2025 15:07:30
+		Duration:	07:40:07
+		Location:	35.45995 139.63518
+
+	VMM2
+		Images:	11306
+		Time:	09.08.2025 15:06:24 until 09.08.2025 22:15:46
+		Duration:	07:09:22
+		Location:	35.45995 139.63518
+
+(4) - Station 3 Sled Pull
+	AKM2
+		Images:	1031
+		Time:	09.08.2025 15:11:59 until 09.08.2025 20:47:57
+		Duration:	05:35:58
+		Location:	35.45995 139.63518
+
+	DLO1
+		Images:	8883
+		Time:	09.08.2025 07:26:21 until 09.08.2025 14:59:45
+		Duration:	07:33:24
+		Location:	35.45995 139.63518
+
+	HTT3
+		Images:	79
+		Time:	09.08.2025 09:39:02 until 09.08.2025 09:43:28
+		Duration:	00:04:26
+		Location:	35.45995 139.63518
+
+	LKN2
+		Images:	5784
+		Time:	09.08.2025 14:49:25 until 09.08.2025 20:51:43
+		Duration:	06:02:18
+		Location:	35.45995 139.63518
+
+	LV3
+		Images:	93
+		Time:	09.08.2025 19:41:27 until 09.08.2025 21:06:15
+		Duration:	01:24:48
+		Location:	35.45995 139.63518
+
+	RDI2
+		Images:	1793
+		Time:	09.08.2025 15:03:04 until 09.08.2025 20:53:02
+		Duration:	05:49:58
+		Location:	35.45995 139.63518
+
+	RYT1
+		Images:	6199
+		Time:	09.08.2025 08:03:38 until 09.08.2025 14:58:56
+		Duration:	06:55:18
+		Location:	35.45995 139.63518
+
+	VMM1
+		Images:	8641
+		Time:	09.08.2025 07:35:36 until 09.08.2025 14:59:01
+		Duration:	07:23:25
+		Location:	35.45995 139.63518
+
+(5) - Station 1 Skierg
+	AYO1
+		Images:	7079
+		Time:	09.08.2025 08:04:07 until 09.08.2025 14:54:19
+		Duration:	06:50:12
+		Location:	35.45995 139.63518
+
+	HTT1
+		Images:	5945
+		Time:	09.08.2025 08:14:59 until 09.08.2025 17:01:06
+		Duration:	08:46:07
+		Location:	35.45995 139.63518
+
+	KTN1
+		Images:	9062
+		Time:	09.08.2025 08:03:37 until 09.08.2025 14:50:19
+		Duration:	06:46:42
+		Location:	35.45995 139.63518
+
+	LV1
+		Images:	6483
+		Time:	09.08.2025 09:58:39 until 09.08.2025 19:48:22
+		Duration:	09:49:43
+		Location:	35.45995 139.63518
+
+	MK1
+		Images:	2785
+		Time:	09.08.2025 09:58:45 until 09.08.2025 17:04:05
+		Duration:	07:05:20
+		Location:	35.45995 139.63518
+
+	MOMO2
+		Images:	1909
+		Time:	09.08.2025 15:16:37 until 09.08.2025 20:52:44
+		Duration:	05:36:07
+		Location:	35.45995 139.63518
+
+	NNI2
+		Images:	2989
+		Time:	09.08.2025 14:55:45 until 09.08.2025 20:26:33
+		Duration:	05:30:48
+		Location:	35.45995 139.63518
+
+	RDI1
+		Images:	4822
+		Time:	09.08.2025 07:33:40 until 09.08.2025 14:48:52
+		Duration:	07:15:12
+		Location:	35.45995 139.63518
+
+	YH2
+		Images:	4601
+		Time:	09.08.2025 14:58:04 until 09.08.2025 20:25:35
+		Duration:	05:27:31
+		Location:	35.45995 139.63518
+
+(6) - Station 4 Burpee Broad Jumps
+	HTT4
+		Images:	1396
+		Time:	09.08.2025 08:24:40 until 09.08.2025 20:18:29
+		Duration:	11:53:49
+		Location:	35.45995 139.63518
+
+	LV4
+		Images:	71
+		Time:	09.08.2025 19:34:32 until 09.08.2025 20:38:56
+		Duration:	01:04:24
+		Location:	35.45995 139.63518
+
+(7) - Finish
+	HTT6
+		Images:	1621
+		Time:	09.08.2025 17:49:46 until 09.08.2025 20:49:04
+		Duration:	02:59:18
+		Location:	35.45995 139.63518
+
+	HTT8LS1
+		Images:	7417
+		Time:	09.08.2025 07:28:08 until 10.08.2025 01:07:52
+		Duration:	17:39:44
+		Location:	35.45995 139.63518
+
+	LMD2
+		Images:	13651
+		Time:	09.08.2025 09:21:40 until 09.08.2025 22:19:29
+		Duration:	12:57:49
+		Location:	35.45995 139.63518
+
+	LV6
+		Images:	1951
+		Time:	09.08.2025 11:18:07 until 09.08.2025 21:36:34
+		Duration:	10:18:27
+		Location:	35.45995 139.63518
+
+	RSK1
+		Images:	2770
+		Time:	09.08.2025 07:43:40 until 09.08.2025 14:54:42
+		Duration:	07:11:02
+		Location:	35.45995 139.63518
+
+(8) - Station 7 Sandbag Lunges
+	HTT7
+		Images:	2573
+		Time:	09.08.2025 09:15:45 until 09.08.2025 17:42:52
+		Duration:	08:27:07
+		Location:	35.45995 139.63518
+
+	LMD1
+		Images:	15945
+		Time:	09.08.2025 07:37:56 until 09.08.2025 14:52:58
+		Duration:	07:15:02
+		Location:	35.45995 139.63518
+
+	LV7
+		Images:	822
+		Time:	09.08.2025 09:35:36 until 09.08.2025 13:55:29
+		Duration:	04:19:53
+		Location:	35.45995 139.63518
+
+	MK6
+		Images:	392
+		Time:	09.08.2025 14:49:23 until 09.08.2025 15:03:04
+		Duration:	00:13:41
+		Location:	35.45995 139.63518
+
+	STW2
+		Images:	2715
+		Time:	09.08.2025 15:17:42 until 09.08.2025 21:53:01
+		Duration:	06:35:19
+		Location:	35.45995 139.63518
+
+(9) - Medalwall
+	HTT9
+		Images:	1984
+		Time:	09.08.2025 11:51:00 until 09.08.2025 15:24:02
+		Duration:	03:33:02
+		Location:	35.45995 139.63518
+
+	KTN2
+		Images:	2247
+		Time:	09.08.2025 15:03:01 until 09.08.2025 22:30:39
+		Duration:	07:27:38
+		Location:	35.45995 139.63518
+
+	LKN1
+		Images:	3159
+		Time:	09.08.2025 09:02:58 until 09.08.2025 14:21:04
+		Duration:	05:18:06
+		Location:	35.45995 139.63518
+
+	LV10
+		Images:	923
+		Time:	09.08.2025 14:38:36 until 09.08.2025 19:13:51
+		Duration:	04:35:15
+		Location:	35.45995 139.63518
+
+	MK8
+		Images:	899
+		Time:	09.08.2025 12:00:32 until 09.08.2025 18:57:43
+		Duration:	06:57:11
+		Location:	35.45995 139.63518
+
+	RYH1
+		Images:	1524
+		Time:	09.08.2025 07:47:31 until 09.08.2025 14:26:39
+		Duration:	06:39:08
+		Location:	35.45995 139.63518
+
+	TDB2
+		Images:	2885
+		Time:	09.08.2025 15:15:34 until 09.08.2025 22:17:20
+		Duration:	07:01:46
+		Location:	35.45995 139.63518
+
+(10) - Venue
+	LV9
+		Images:	229
+		Time:	09.08.2025 08:55:44 until 09.08.2025 20:57:05
+		Duration:	12:01:21
+		Location:	35.45995 139.63518
+
+	MK4
+		Images:	151
+		Time:	09.08.2025 09:01:57 until 09.08.2025 21:37:35
+		Duration:	12:35:38
+		Location:	35.45995 139.63518
+
+(11) - Farmers Carry
+	LV2LS1
+		Images:	3598
+		Time:	09.08.2025 08:23:30 until 09.08.2025 21:39:13
+		Duration:	13:15:43
+		Location:	35.45995 139.63518
+
+	MK8LS1
+		Images:	6047
+		Time:	09.08.2025 07:54:12 until 09.08.2025 21:41:38
+		Duration:	13:47:26
+		Location:	35.45995 139.63518
+
+(12) - Run
+	MK2
+		Images:	7425
+		Time:	09.08.2025 19:19:49 until 09.08.2025 21:31:27
+		Duration:	02:11:38
+		Location:	35.45995 139.63518
+

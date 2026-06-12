@@ -1,0 +1,56 @@
+EventId: 15294
+Spots: 8
+Total Images: 28717
+Time:	21.11.2025 14:22:30 to 22.11.2025 17:30:14
+Duration: 1.03:07:44
+
+(1) - Double team
+	GSH1
+		Images:	5627
+		Time:	21.11.2025 14:22:30 until 22.11.2025 16:55:39
+		Duration:	1.02:33:09
+		Location:	25.03831 55.22470
+
+(2) - Cardio Club
+	MAMS1
+		Images:	9286
+		Time:	22.11.2025 07:16:48 until 22.11.2025 16:50:05
+		Duration:	09:33:17
+		Location:	25.03806 55.22524
+
+(3) - Ceremony
+	MAMS2
+		Images:	162
+		Time:	22.11.2025 17:05:01 until 22.11.2025 17:30:14
+		Duration:	00:25:13
+		Location:	25.03828 55.22502
+
+(4) - Divide & Conquer
+	MGOT1
+		Images:	5411
+		Time:	22.11.2025 07:06:22 until 22.11.2025 16:49:55
+		Duration:	09:43:33
+		Location:	25.03852 55.22531
+
+(5) - Lift Heavy
+	NIZ1
+		Images:	6252
+		Time:	21.11.2025 14:37:01 until 22.11.2025 16:45:50
+		Duration:	1.02:08:49
+		Location:	25.03875 55.22261
+
+(6) - Impressions / Pano
+	NIZ2
+		Images:	35
+		Time:	22.11.2025 16:53:39 until 22.11.2025 16:59:59
+		Duration:	00:06:20
+		Location:	25.03828 55.22502
+
+	PANO1
+(7) - Hard Labour
+	TELO1
+		Images:	1937
+		Time:	22.11.2025 07:04:14 until 22.11.2025 16:40:31
+		Duration:	09:36:17
+		Location:	25.03830 55.22494
+

@@ -1,0 +1,115 @@
+EventId: 14419
+Spots: 16
+Total Images: 78346
+Time:	01.03.2025 06:03:08 to 02.03.2025 12:37:15
+Duration: 1.06:34:07
+
+(1) - CRAFT A-FRAME CARGO #5
+	BESC1
+		Images:	5694
+		Time:	01.03.2025 06:45:18 until 02.03.2025 11:45:29
+		Duration:	1.05:00:11
+		Location:	30.19458 -81.92400
+
+(2) - MONKEY BARS #6
+	JACL1
+		Images:	8142
+		Time:	01.03.2025 06:03:08 until 02.03.2025 11:15:14
+		Duration:	1.05:12:06
+		Location:	30.19465 -81.92488
+
+(3) - Z WALL #16
+	CUL1
+		Images:	3546
+		Time:	02.03.2025 06:13:28 until 02.03.2025 11:33:48
+		Duration:	05:20:20
+		Location:	30.19282 -81.92482
+
+	RASC1
+		Images:	2341
+		Time:	01.03.2025 07:17:06 until 02.03.2025 11:34:43
+		Duration:	1.04:17:37
+		Location:	30.19282 -81.92482
+
+(4) - BARBED WIRE CRAWL #18
+	ORGA1
+		Images:	5827
+		Time:	01.03.2025 06:06:59 until 02.03.2025 12:09:13
+		Duration:	1.06:02:14
+		Location:	30.19611 -81.92392
+
+(5) - SANDBAG CARRY #20
+	JHRO1
+		Images:	4901
+		Time:	02.03.2025 06:18:41 until 02.03.2025 12:01:06
+		Duration:	05:42:25
+		Location:	30.19650 -81.92315
+
+(6) - PLATE DRAG #21
+	MBAR1
+		Images:	2845
+		Time:	01.03.2025 06:19:08 until 02.03.2025 12:09:10
+		Duration:	1.05:50:02
+		Location:	30.19696 -81.92255
+
+(7) - SLIP WALL #23
+	GMAL1
+		Images:	5506
+		Time:	02.03.2025 06:08:01 until 02.03.2025 12:19:18
+		Duration:	06:11:17
+		Location:	30.19823 -81.92342
+
+(8) - TITAN FITNESS MULTI-RIG #24
+	KAH1
+		Images:	2330
+		Time:	02.03.2025 06:02:16 until 02.03.2025 12:32:20
+		Duration:	06:30:04
+		Location:	30.19973 -81.92187
+
+	ISAK1
+		Images:	1844
+		Time:	02.03.2025 06:17:22 until 02.03.2025 12:31:14
+		Duration:	06:13:52
+		Location:	30.19973 -81.92187
+
+(9) - FIRE JUMP # 25
+	VICY1
+		Images:	5705
+		Time:	01.03.2025 06:25:42 until 02.03.2025 12:34:27
+		Duration:	1.06:08:45
+		Location:	30.19918 -81.92298
+
+(10) - HERO TENT
+	CRRA1
+		Images:	1980
+		Time:	01.03.2025 06:16:03 until 02.03.2025 12:37:15
+		Duration:	1.06:21:12
+		Location:	30.19917 -81.92338
+
+(11) - 4.0 km
+	JPP2
+		Images:	2049
+		Time:	02.03.2025 05:29:03 until 02.03.2025 08:46:55
+		Duration:	03:17:52
+		Location:	30.19918 -81.92057
+
+(12) - 5.0 km
+	SICA1
+		Images:	1291
+		Time:	01.03.2025 06:23:48 until 02.03.2025 09:19:41
+		Duration:	1.02:55:53
+		Location:	30.19955 -81.92188
+
+	SICA2
+		Images:	23848
+		Time:	02.03.2025 06:56:39 until 02.03.2025 09:09:08
+		Duration:	02:12:29
+		Location:	30.19955 -81.92188
+
+(13) - Impressions / Pano
+	JPP1
+		Images:	497
+		Time:	01.03.2025 06:15:08 until 02.03.2025 11:18:22
+		Duration:	1.05:03:14
+		Location:	30.19696 -81.92255
+

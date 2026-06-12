@@ -1,0 +1,15 @@
+EventId: 16269
+Spots: 2
+Total Images: 1100
+Time:	21.06.2025 08:53:04 to 21.06.2025 11:34:53
+Duration: 02:41:49
+
+(1) - Impressions / Pano
+	PANO1
+(2) - none
+	ZZZ1
+		Images:	1100
+		Time:	21.06.2025 08:53:04 until 21.06.2025 11:34:53
+		Duration:	02:41:49
+		Location:	NULL NULL
+

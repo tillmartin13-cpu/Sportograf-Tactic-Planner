@@ -1,0 +1,311 @@
+EventId: 14799
+Spots: 49
+Total Images: 168711
+Time:	01.02.2025 11:44:42 to 02.02.2025 18:41:31
+Duration: 1.06:56:49
+
+(1) - Station 1 SKIERG
+	DART1
+		Images:	9660
+		Time:	02.02.2025 07:03:18 until 02.02.2025 13:48:39
+		Duration:	06:45:21
+		Location:	45.02661 7.66023
+
+	MILK1
+		Images:	8745
+		Time:	02.02.2025 06:18:42 until 02.02.2025 14:20:47
+		Duration:	08:02:05
+		Location:	45.02661 7.66023
+
+	LAPO1
+		Images:	11247
+		Time:	02.02.2025 07:04:25 until 02.02.2025 14:20:59
+		Duration:	07:16:34
+		Location:	45.02661 7.66023
+
+	AMU2
+		Images:	2544
+		Time:	02.02.2025 14:27:50 until 02.02.2025 17:11:37
+		Duration:	02:43:47
+		Location:	45.02661 7.66023
+
+	PINO2
+		Images:	1320
+		Time:	02.02.2025 14:34:24 until 02.02.2025 17:10:54
+		Duration:	02:36:30
+		Location:	45.02661 7.66023
+
+	DCC2
+		Images:	1362
+		Time:	02.02.2025 14:25:47 until 02.02.2025 17:10:48
+		Duration:	02:45:01
+		Location:	45.02661 7.66023
+
+(2) - Station 2 SLED PUSH
+	LEBE1
+		Images:	3553
+		Time:	01.02.2025 11:44:42 until 02.02.2025 14:09:42
+		Duration:	1.02:25:00
+		Location:	45.02661 7.66023
+
+	LULE1
+		Images:	9782
+		Time:	02.02.2025 07:14:09 until 02.02.2025 17:20:41
+		Duration:	10:06:32
+		Location:	45.02661 7.66023
+
+	GAT1
+		Images:	2218
+		Time:	02.02.2025 07:12:41 until 02.02.2025 14:10:25
+		Duration:	06:57:44
+		Location:	45.02661 7.66023
+
+	EB1
+		Images:	972
+		Time:	02.02.2025 08:16:50 until 02.02.2025 10:06:30
+		Duration:	01:49:40
+		Location:	45.02661 7.66023
+
+	AGU1
+		Images:	589
+		Time:	02.02.2025 09:19:46 until 02.02.2025 10:12:31
+		Duration:	00:52:45
+		Location:	45.02661 7.66023
+
+	CVG2
+		Images:	820
+		Time:	02.02.2025 14:42:09 until 02.02.2025 17:19:58
+		Duration:	02:37:49
+		Location:	45.02661 7.66023
+
+	LLM2
+		Images:	1210
+		Time:	02.02.2025 14:48:18 until 02.02.2025 17:20:59
+		Duration:	02:32:41
+		Location:	45.02661 7.66023
+
+(3) - SMILE GATE WELCOME IN HYROX
+	FRN1LS1
+		Images:	3049
+		Time:	02.02.2025 07:38:39 until 02.02.2025 17:49:24
+		Duration:	10:10:45
+		Location:	45.02661 7.66023
+
+(4) - Station 3 SLED PULL
+	GABO1
+		Images:	2868
+		Time:	02.02.2025 07:17:31 until 02.02.2025 14:34:16
+		Duration:	07:16:45
+		Location:	45.02661 7.66023
+
+	ELLA1
+		Images:	9037
+		Time:	02.02.2025 07:01:14 until 02.02.2025 14:27:20
+		Duration:	07:26:06
+		Location:	45.02661 7.66023
+
+	CAIS1
+		Images:	4488
+		Time:	02.02.2025 07:14:02 until 02.02.2025 14:27:39
+		Duration:	07:13:37
+		Location:	45.02661 7.66023
+
+	EB2
+		Images:	1630
+		Time:	02.02.2025 10:06:48 until 02.02.2025 17:28:26
+		Duration:	07:21:38
+		Location:	45.02661 7.66023
+
+	AGU2
+		Images:	1721
+		Time:	02.02.2025 10:12:48 until 02.02.2025 17:23:10
+		Duration:	07:10:22
+		Location:	45.02661 7.66023
+
+	RLLA2
+		Images:	1167
+		Time:	02.02.2025 14:56:46 until 02.02.2025 17:33:02
+		Duration:	02:36:16
+		Location:	45.02661 7.66023
+
+	MILK2
+		Images:	2142
+		Time:	02.02.2025 14:35:22 until 02.02.2025 17:32:08
+		Duration:	02:56:46
+		Location:	45.02661 7.66023
+
+	LAPO2
+		Images:	1854
+		Time:	02.02.2025 14:35:38 until 02.02.2025 17:32:17
+		Duration:	02:56:39
+		Location:	45.02661 7.66023
+
+(5) - Station 5 ROWING
+	LLM1
+		Images:	7672
+		Time:	02.02.2025 07:36:04 until 02.02.2025 14:36:10
+		Duration:	07:00:06
+		Location:	45.02661 7.66023
+
+	DCC1
+		Images:	4372
+		Time:	02.02.2025 07:29:54 until 02.02.2025 14:18:10
+		Duration:	06:48:16
+		Location:	45.02661 7.66023
+
+	EB3
+		Images:	2482
+		Time:	02.02.2025 10:55:18 until 02.02.2025 16:51:06
+		Duration:	05:55:48
+		Location:	45.02661 7.66023
+
+	AGU3
+		Images:	1527
+		Time:	02.02.2025 10:53:04 until 02.02.2025 16:44:35
+		Duration:	05:51:31
+		Location:	45.02661 7.66023
+
+	DART2
+		Images:	3640
+		Time:	02.02.2025 14:21:59 until 02.02.2025 17:59:42
+		Duration:	03:37:43
+		Location:	45.02661 7.66023
+
+	ELLA2
+		Images:	5647
+		Time:	02.02.2025 14:43:25 until 02.02.2025 17:55:35
+		Duration:	03:12:10
+		Location:	45.02661 7.66023
+
+(6) - Station 7 SANDBAG LUNGES
+	RLLA1
+		Images:	3696
+		Time:	02.02.2025 06:53:40 until 02.02.2025 14:38:11
+		Duration:	07:44:31
+		Location:	45.02661 7.66023
+
+	FEZ1
+		Images:	7703
+		Time:	02.02.2025 06:58:43 until 02.02.2025 14:20:38
+		Duration:	07:21:55
+		Location:	45.02661 7.66023
+
+	EB4
+		Images:	598
+		Time:	02.02.2025 11:31:19 until 02.02.2025 12:02:12
+		Duration:	00:30:53
+		Location:	45.02661 7.66023
+
+	AGU4
+		Images:	615
+		Time:	02.02.2025 11:35:23 until 02.02.2025 11:52:03
+		Duration:	00:16:40
+		Location:	45.02661 7.66023
+
+	GABO2
+		Images:	2284
+		Time:	02.02.2025 14:41:55 until 02.02.2025 18:25:53
+		Duration:	03:43:58
+		Location:	45.02661 7.66023
+
+	CAIS2
+		Images:	5378
+		Time:	02.02.2025 14:43:20 until 02.02.2025 18:22:01
+		Duration:	03:38:41
+		Location:	45.02661 7.66023
+
+(7) - Station 6 FARMER CARRY
+	AGU4LS2
+		Images:	3734
+		Time:	02.02.2025 07:05:30 until 02.02.2025 18:07:31
+		Duration:	11:02:01
+		Location:	45.02661 7.66023
+
+	AGU4LS1
+		Images:	3048
+		Time:	02.02.2025 07:05:11 until 02.02.2025 18:08:43
+		Duration:	11:03:32
+		Location:	45.02661 7.66023
+
+(8) - Station 8 WALL BALLS
+	AMU1
+		Images:	3230
+		Time:	02.02.2025 06:33:54 until 02.02.2025 14:21:40
+		Duration:	07:47:46
+		Location:	45.02661 7.66023
+
+	PINO1
+		Images:	1894
+		Time:	02.02.2025 07:57:25 until 02.02.2025 14:30:26
+		Duration:	06:33:01
+		Location:	45.02661 7.66023
+
+	EB5
+		Images:	2229
+		Time:	02.02.2025 12:07:17 until 02.02.2025 16:13:00
+		Duration:	04:05:43
+		Location:	45.02661 7.66023
+
+	AGU5
+		Images:	1933
+		Time:	02.02.2025 12:01:02 until 02.02.2025 16:13:34
+		Duration:	04:12:32
+		Location:	45.02661 7.66023
+
+	LEBE2
+		Images:	2582
+		Time:	02.02.2025 14:19:20 until 02.02.2025 18:36:21
+		Duration:	04:17:01
+		Location:	45.02661 7.66023
+
+	GAT2
+		Images:	2213
+		Time:	02.02.2025 14:20:15 until 02.02.2025 18:30:33
+		Duration:	04:10:18
+		Location:	45.02661 7.66023
+
+(9) - Finish
+	CVG1
+		Images:	4761
+		Time:	02.02.2025 07:53:00 until 02.02.2025 14:33:06
+		Duration:	06:40:06
+		Location:	45.02661 7.66023
+
+	ALL2
+		Images:	4028
+		Time:	02.02.2025 14:33:52 until 02.02.2025 18:40:17
+		Duration:	04:06:25
+		Location:	45.02661 7.66023
+
+	EB5LS1
+		Images:	3337
+		Time:	02.02.2025 07:11:01 until 02.02.2025 18:40:40
+		Duration:	11:29:39
+		Location:	45.02661 7.66023
+
+	EB5LS2
+		Images:	3368
+		Time:	02.02.2025 07:11:37 until 02.02.2025 18:41:31
+		Duration:	11:29:54
+		Location:	45.02661 7.66023
+
+(10) - Medalwall
+	ALL1
+		Images:	2351
+		Time:	02.02.2025 07:00:52 until 02.02.2025 14:29:00
+		Duration:	07:28:08
+		Location:	45.02661 7.66023
+
+	FEZ2
+		Images:	2388
+		Time:	02.02.2025 14:26:45 until 02.02.2025 18:41:19
+		Duration:	04:14:34
+		Location:	45.02661 7.66023
+
+(11) - Impressions / Pano
+	FRN1DRONE1
+		Images:	23
+		Time:	02.02.2025 09:03:29 until 02.02.2025 09:10:29
+		Duration:	00:07:00
+		Location:	45.02661 7.66023
+

@@ -1,0 +1,109 @@
+EventId: 14250
+Spots: 16
+Total Images: 20542
+Time:	20.07.2025 07:38:29 to 20.07.2025 12:46:10
+Duration: 05:07:41
+
+(1) - Swim - Start
+	AKAM1
+		Images:	645
+		Time:	20.07.2025 08:08:03 until 20.07.2025 09:32:18
+		Duration:	01:24:15
+		Location:	48.51856 9.05814
+
+	HS1
+		Images:	2024
+		Time:	20.07.2025 08:07:09 until 20.07.2025 11:16:30
+		Duration:	03:09:21
+		Location:	48.51905 9.05725
+
+(2) - Bike - 40.0 km End of Bike
+	AKAM2
+		Images:	69
+		Time:	20.07.2025 09:32:35 until 20.07.2025 10:17:33
+		Duration:	00:44:58
+		Location:	48.51856 9.05814
+
+(3) - Finish
+	AKAM3
+		Images:	2509
+		Time:	20.07.2025 10:20:58 until 20.07.2025 12:41:08
+		Duration:	02:20:10
+		Location:	48.51856 9.05814
+
+	HS1LS1
+		Images:	1257
+		Time:	20.07.2025 10:15:50 until 20.07.2025 12:46:10
+		Duration:	02:30:20
+		Location:	48.51856 9.05814
+
+(4) - Bike - 1.0 km
+	MOG1
+		Images:	2728
+		Time:	20.07.2025 08:54:16 until 20.07.2025 11:47:01
+		Duration:	02:52:45
+		Location:	48.52147 9.05750
+
+	MOG1LS2
+		Images:	1153
+		Time:	20.07.2025 08:38:12 until 20.07.2025 11:36:19
+		Duration:	02:58:07
+		Location:	48.52147 9.05750
+
+	MOG1LS1
+		Images:	1196
+		Time:	20.07.2025 08:38:35 until 20.07.2025 11:36:40
+		Duration:	02:58:05
+		Location:	48.52147 9.05750
+
+(5) - Bike - Transition zone
+	MOG1DRONE1
+		Images:	17
+		Time:	20.07.2025 07:55:35 until 20.07.2025 08:02:35
+		Duration:	00:07:00
+		Location:	48.52147 9.05750
+
+	MOG1IMP1
+		Images:	12
+		Time:	20.07.2025 07:38:29 until 20.07.2025 07:42:24
+		Duration:	00:03:55
+		Location:	48.52147 9.05750
+
+	TE1
+		Images:	1081
+		Time:	20.07.2025 07:40:08 until 20.07.2025 10:22:13
+		Duration:	02:42:05
+		Location:	48.51828 9.05313
+
+	TE1LS3
+		Images:	475
+		Time:	20.07.2025 08:34:41 until 20.07.2025 09:29:35
+		Duration:	00:54:54
+		Location:	48.51828 9.05313
+
+	TE1LS1
+		Images:	493
+		Time:	20.07.2025 08:37:56 until 20.07.2025 09:30:28
+		Duration:	00:52:32
+		Location:	48.51828 9.05313
+
+(6) - Run - 0.5 km Allee
+	TE2
+		Images:	4830
+		Time:	20.07.2025 10:22:13 until 20.07.2025 12:02:16
+		Duration:	01:40:03
+		Location:	48.51828 9.05313
+
+(7) - Run - 0.5 km
+	TE1LS4
+		Images:	1013
+		Time:	20.07.2025 09:44:08 until 20.07.2025 12:04:07
+		Duration:	02:19:59
+		Location:	48.51828 9.05313
+
+	TE1LS2
+		Images:	1040
+		Time:	20.07.2025 09:45:06 until 20.07.2025 12:09:50
+		Duration:	02:24:44
+		Location:	48.51828 9.05313
+

@@ -1,0 +1,48 @@
+EventId: 14599
+Spots: 6
+Total Images: 50168
+Time:	29.08.2025 22:03:28 to 31.08.2025 09:11:27
+Duration: 1.11:07:59
+
+(1) - Station 6 100 M FARMERS CARRY
+	CCZ1
+		Images:	6021
+		Time:	30.08.2025 07:31:05 until 30.08.2025 17:18:19
+		Duration:	09:47:14
+		Location:	41.11464 -85.12339
+
+(2) - ZONE 7/8 (25C AIR BIKE/20 DEAD BALL OVER)
+	DPE1
+		Images:	8366
+		Time:	30.08.2025 07:45:11 until 31.08.2025 09:11:27
+		Duration:	1.01:26:16
+		Location:	41.11464 -85.12339
+
+(3) - Station 9 100-M TANK PUSH/PULL
+	IZZY1
+		Images:	5431
+		Time:	30.08.2025 07:29:42 until 30.08.2025 17:31:31
+		Duration:	10:01:49
+		Location:	41.11464 -85.12339
+
+(4) - Station 5 500M SKI ERG
+	JAYP1
+		Images:	4201
+		Time:	30.08.2025 07:21:03 until 31.08.2025 07:21:41
+		Duration:	1.00:00:38
+		Location:	41.11464 -85.12339
+
+(5) - ZONE 1/2 (30 RAM ALT REVERSE LUNGE/500M ROW)
+	JBB1
+		Images:	15294
+		Time:	29.08.2025 22:03:28 until 31.08.2025 07:49:30
+		Duration:	1.09:46:02
+		Location:	41.11464 -85.12339
+
+(6) - ZONE 3/4 (20 BOX JUMP/STEP OVER/25 MED BALL SIT-UP THROW)
+	RYN1
+		Images:	10855
+		Time:	30.08.2025 07:25:45 until 31.08.2025 08:08:10
+		Duration:	1.00:42:25
+		Location:	41.11464 -85.12339
+

@@ -1,0 +1,126 @@
+EventId: 14130
+Spots: 18
+Total Images: 77505
+Time:	01.01.0001 23:00:00 to 16.11.2025 16:25:13
+Duration: 739569.17:25:13
+
+(1) - Swim - Start
+	CRF1
+		Images:	2736
+		Time:	16.11.2025 05:13:34 until 16.11.2025 06:30:32
+		Duration:	01:16:58
+		Location:	-34.17740 22.13674
+
+	CRF1DRONE1
+		Images:	5
+		Time:	16.11.2025 05:05:29 until 16.11.2025 05:07:24
+		Duration:	00:01:55
+		Location:	-34.17740 22.13674
+
+	JCA1
+		Images:	1920
+		Time:	15.11.2025 14:21:38 until 16.11.2025 06:30:35
+		Duration:	16:08:57
+		Location:	-34.17740 22.13674
+
+(2) - Swim - Finish
+	LDR1
+		Images:	3382
+		Time:	15.11.2025 14:20:38 until 16.11.2025 08:10:51
+		Duration:	17:50:13
+		Location:	-34.17186 22.12683
+
+	ROWA1
+		Images:	8200
+		Time:	16.11.2025 05:18:18 until 16.11.2025 07:38:22
+		Duration:	02:20:04
+		Location:	-34.17186 22.12683
+
+(3) - Swim - Transition zone Swim tro Bike
+	PKI1
+		Images:	313
+		Time:	16.11.2025 05:03:02 until 16.11.2025 10:12:10
+		Duration:	05:09:08
+		Location:	-34.17288 22.12839
+
+(4) - Bike - Mount Line
+	DKA1
+		Images:	3803
+		Time:	16.11.2025 05:00:43 until 16.11.2025 07:58:57
+		Duration:	02:58:14
+		Location:	-34.17308 22.12917
+
+(5) - Bike - 16.6 km Bike 2
+	JHI1
+		Images:	4825
+		Time:	16.11.2025 08:04:37 until 16.11.2025 10:22:07
+		Duration:	02:17:30
+		Location:	-34.15185 21.99967
+
+(6) - Bike - 71.0 km Bike
+	JHI2
+		Images:	1256
+		Time:	16.11.2025 10:22:14 until 16.11.2025 11:38:40
+		Duration:	01:16:26
+		Location:	-34.15185 21.99967
+
+(7) - Bike - 71.6 km Bike 1
+	TAZ1
+		Images:	7001
+		Time:	16.11.2025 08:14:35 until 16.11.2025 11:34:44
+		Duration:	03:20:09
+		Location:	-34.15587 22.00763
+
+(8) - Bike - Transition zone  Bike TRransition to Run
+	PKI2
+		Images:	2344
+		Time:	01.01.0001 23:00:00 until 16.11.2025 14:56:00
+		Duration:	739569.15:56:00
+		Location:	-34.17288 22.12839
+
+(9) - Wooden Bridge All 3 Laps
+	CRF2
+		Images:	5000
+		Time:	16.11.2025 07:12:30 until 16.11.2025 11:08:56
+		Duration:	03:56:26
+		Location:	-34.18106 22.15550
+
+(10) - Cat Walk Turn All 3 Laps
+	JCA2
+		Images:	4920
+		Time:	16.11.2025 07:13:01 until 16.11.2025 14:14:59
+		Duration:	07:01:58
+		Location:	-34.17637 22.13682
+
+(11) - Finish
+	DKA2
+		Images:	13720
+		Time:	16.11.2025 08:31:44 until 16.11.2025 13:38:59
+		Duration:	05:07:15
+		Location:	-34.17670 22.13592
+
+	LDR2
+		Images:	10735
+		Time:	16.11.2025 08:35:17 until 16.11.2025 16:25:13
+		Duration:	07:49:56
+		Location:	-34.17646 22.13554
+
+	ROWA2
+		Images:	6373
+		Time:	16.11.2025 09:55:26 until 16.11.2025 14:56:21
+		Duration:	05:00:55
+		Location:	-34.17646 22.13539
+
+	ROWA2LS1
+		Images:	957
+		Time:	01.01.0001 23:00:00 until 16.11.2025 13:55:29
+		Duration:	739569.14:55:29
+		Location:	-34.17646 22.13539
+
+(12) - Swim - Impressions / Pano
+	PANO1
+		Images:	15
+		Time:	13.11.2025 15:27:28 until 15.11.2025 09:59:19
+		Duration:	1.18:31:51
+		Location:	-34.17740 22.13674
+

@@ -1,0 +1,163 @@
+EventId: 13706
+Spots: 25
+Total Images: 98976
+Time:	08.03.2025 05:21:33 to 08.03.2025 21:09:51
+Duration: 15:48:18
+
+(1) - 1,0 km nach Start - Marienbrücke
+	HV1
+		Images:	2923
+		Time:	08.03.2025 05:46:43 until 08.03.2025 08:43:58
+		Duration:	02:57:15
+		Location:	51.06048 13.73108
+
+	HV1LS1
+		Images:	2943
+		Time:	08.03.2025 05:21:33 until 08.03.2025 08:49:02
+		Duration:	03:27:29
+		Location:	51.06048 13.73108
+
+(2) - 1,5 km nach Start - Palaisgarten
+	GUD1
+		Images:	6810
+		Time:	08.03.2025 06:33:44 until 08.03.2025 08:47:14
+		Duration:	02:13:30
+		Location:	51.06093 13.73766
+
+	GUD1LS1
+		Images:	2504
+		Time:	08.03.2025 06:09:38 until 08.03.2025 08:44:13
+		Duration:	02:34:35
+		Location:	51.06093 13.73766
+
+	GUD1LS2
+		Images:	2549
+		Time:	08.03.2025 06:06:42 until 08.03.2025 08:44:13
+		Duration:	02:37:31
+		Location:	51.06093 13.73766
+
+(3) - 2,0 km nach Start - Goldener Reiter
+	DAR1
+		Images:	6409
+		Time:	08.03.2025 05:29:00 until 08.03.2025 09:12:07
+		Duration:	03:43:07
+		Location:	51.05895 13.74249
+
+(4) - 4,7 km nach Start - Garnisonkirche St. Martin
+	DG1
+		Images:	9329
+		Time:	08.03.2025 06:04:24 until 08.03.2025 09:49:41
+		Duration:	03:45:17
+		Location:	51.07460 13.76207
+
+	DG1LS1
+		Images:	2248
+		Time:	08.03.2025 06:41:58 until 08.03.2025 09:49:22
+		Duration:	03:07:24
+		Location:	51.07460 13.76207
+
+(5) - 8,5 km nach Start - Obelisk-Denkmal für König Albert
+	RJ1
+		Images:	8694
+		Time:	08.03.2025 07:24:36 until 08.03.2025 10:36:22
+		Duration:	03:11:46
+		Location:	51.06872 13.80355
+
+	RJ1LS1
+		Images:	2051
+		Time:	08.03.2025 07:15:30 until 08.03.2025 10:36:41
+		Duration:	03:21:11
+		Location:	51.06872 13.80355
+
+	RJ1LS2
+		Images:	1915
+		Time:	08.03.2025 07:17:00 until 08.03.2025 10:36:25
+		Duration:	03:19:25
+		Location:	51.06872 13.80355
+
+(6) - 25,1 km nach Start - Reitzendorfer Mühle
+	HV2
+		Images:	3898
+		Time:	08.03.2025 10:18:49 until 08.03.2025 14:42:39
+		Duration:	04:23:50
+		Location:	51.02069 13.91118
+
+	HV2LS1
+		Images:	3776
+		Time:	08.03.2025 10:17:16 until 08.03.2025 14:49:38
+		Duration:	04:32:22
+		Location:	51.02069 13.91118
+
+(7) - 33,9 km nach Start - Leitenweg Weinberge
+	GUD2
+		Images:	10202
+		Time:	08.03.2025 10:25:57 until 08.03.2025 17:00:34
+		Duration:	06:34:37
+		Location:	51.01148 13.88092
+
+	GUD2LS1
+		Images:	3027
+		Time:	08.03.2025 10:46:03 until 08.03.2025 16:43:24
+		Duration:	05:57:21
+		Location:	51.01148 13.88092
+
+	GUD2LS2
+		Images:	3038
+		Time:	08.03.2025 10:48:42 until 08.03.2025 16:41:55
+		Duration:	05:53:13
+		Location:	51.01148 13.88092
+
+(8) - 49,0 km nach Start - Terrassenufer
+	RJ2
+		Images:	2614
+		Time:	08.03.2025 12:58:44 until 08.03.2025 21:01:38
+		Duration:	08:02:54
+		Location:	51.05952 13.73187
+
+	RJ2LS1
+		Images:	3384
+		Time:	08.03.2025 14:40:41 until 08.03.2025 21:01:44
+		Duration:	06:21:03
+		Location:	51.05952 13.73187
+
+	RJ2LS2
+		Images:	3312
+		Time:	08.03.2025 14:40:32 until 08.03.2025 20:36:13
+		Duration:	05:55:41
+		Location:	51.05952 13.73187
+
+(9) - Zieleinlauf
+	DG2LS1
+		Images:	8640
+		Time:	08.03.2025 13:00:29 until 08.03.2025 20:58:01
+		Duration:	07:57:32
+		Location:	51.06289 13.72359
+
+(10) - Ziel
+	DG2
+		Images:	4452
+		Time:	08.03.2025 13:01:25 until 08.03.2025 20:46:31
+		Duration:	07:45:06
+		Location:	51.06290 13.72394
+
+	DAR2LS1
+		Images:	1965
+		Time:	08.03.2025 13:01:24 until 08.03.2025 21:09:51
+		Duration:	08:08:27
+		Location:	51.06290 13.72394
+
+(11) - Herotent
+	DAR2
+		Images:	2285
+		Time:	08.03.2025 10:38:22 until 08.03.2025 21:01:56
+		Duration:	10:23:34
+		Location:	51.06290 13.72394
+
+(12) - Impressions / Pano
+	GUD2DRONE1
+		Images:	8
+		Time:	08.03.2025 10:55:36 until 08.03.2025 11:01:52
+		Duration:	00:06:16
+		Location:	51.01148 13.88092
+
+	PANO1

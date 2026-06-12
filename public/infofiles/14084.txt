@@ -1,0 +1,78 @@
+EventId: 14084
+Spots: 11
+Total Images: 22625
+Time:	27.07.2025 08:03:19 to 27.07.2025 15:16:30
+Duration: 07:13:11
+
+(1) - Start
+	BP1LS1
+		Images:	1473
+		Time:	27.07.2025 09:45:40 until 27.07.2025 14:41:29
+		Duration:	04:55:49
+		Location:	47.92712 7.02781
+
+	BP1LS3
+		Images:	683
+		Time:	27.07.2025 09:41:34 until 27.07.2025 13:47:54
+		Duration:	04:06:20
+		Location:	47.92712 7.02781
+
+(2) - 200m after Start
+	BP1
+		Images:	3204
+		Time:	27.07.2025 09:57:02 until 27.07.2025 14:17:36
+		Duration:	04:20:34
+		Location:	47.93986 7.86846
+
+	BP1DRONE1
+		Images:	11
+		Time:	27.07.2025 08:20:39 until 27.07.2025 10:41:22
+		Duration:	02:20:43
+		Location:	47.93986 7.86846
+
+	BP1LS2
+		Images:	1407
+		Time:	27.07.2025 09:37:21 until 27.07.2025 14:22:39
+		Duration:	04:45:18
+		Location:	47.93923 7.87028
+
+(3) - km7.1
+	HS1
+		Images:	2827
+		Time:	27.07.2025 09:07:56 until 27.07.2025 14:30:53
+		Duration:	05:22:57
+		Location:	47.91418 7.88217
+
+	HS1LS2
+		Images:	1647
+		Time:	27.07.2025 08:47:13 until 27.07.2025 14:40:37
+		Duration:	05:53:24
+		Location:	47.91418 7.88217
+
+	HS1LS1
+		Images:	2439
+		Time:	27.07.2025 09:17:17 until 27.07.2025 14:41:08
+		Duration:	05:23:51
+		Location:	47.91418 7.88217
+
+(4) - km9.8
+	JBAU1
+		Images:	3726
+		Time:	27.07.2025 10:30:58 until 27.07.2025 14:57:59
+		Duration:	04:27:01
+		Location:	47.91822 7.89075
+
+(5) - km11.2
+	MAPP1
+		Images:	2856
+		Time:	27.07.2025 08:51:50 until 27.07.2025 15:15:32
+		Duration:	06:23:42
+		Location:	47.91024 7.89096
+
+(6) - Finish
+	FVOR1
+		Images:	2352
+		Time:	27.07.2025 08:03:19 until 27.07.2025 15:16:30
+		Duration:	07:13:11
+		Location:	47.90869 7.89205
+

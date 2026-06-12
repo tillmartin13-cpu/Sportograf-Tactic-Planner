@@ -1,0 +1,491 @@
+EventId: 15973
+Spots: 78
+Total Images: 682711
+Time:	04.05.2025 07:05:14 to 31.05.2025 19:20:40
+Duration: 27.12:15:26
+
+(1) - 12,5 km Royal College of Music
+	GFELI2
+		Images:	4680
+		Time:	31.05.2025 13:18:28 until 31.05.2025 14:11:39
+		Duration:	00:53:11
+		Location:	59.34289 18.08112
+
+	GIWI2
+		Images:	1877
+		Time:	31.05.2025 13:20:03 until 31.05.2025 14:15:34
+		Duration:	00:55:31
+		Location:	59.34289 18.08112
+
+	JSBLO2
+		Images:	3012
+		Time:	31.05.2025 13:22:46 until 31.05.2025 14:12:46
+		Duration:	00:50:00
+		Location:	59.34289 18.08112
+
+	MBIAN2
+		Images:	4051
+		Time:	31.05.2025 13:16:37 until 31.05.2025 14:02:58
+		Duration:	00:46:21
+		Location:	59.34289 18.08112
+
+(2) - 2,0 km Observatory
+	DTIDE1
+		Images:	4440
+		Time:	31.05.2025 12:06:07 until 31.05.2025 13:17:18
+		Duration:	01:11:11
+		Location:	59.34259 18.05688
+
+	DTIDE1LS1
+		Images:	1672
+		Time:	31.05.2025 12:06:23 until 31.05.2025 12:34:12
+		Duration:	00:27:49
+		Location:	59.34259 18.05688
+
+	GFELI1
+		Images:	3092
+		Time:	31.05.2025 12:04:04 until 31.05.2025 12:36:03
+		Duration:	00:31:59
+		Location:	59.34259 18.05688
+
+	GIWI1
+		Images:	1346
+		Time:	31.05.2025 11:44:46 until 31.05.2025 12:36:14
+		Duration:	00:51:28
+		Location:	59.34259 18.05688
+
+	JSBLO1
+		Images:	2624
+		Time:	31.05.2025 12:05:55 until 31.05.2025 12:38:45
+		Duration:	00:32:50
+		Location:	59.34259 18.05688
+
+	MBIAN1
+		Images:	3115
+		Time:	31.05.2025 11:17:19 until 31.05.2025 12:34:50
+		Duration:	01:17:31
+		Location:	59.34496 18.07890
+
+(3) - 21,0 km City Park Bridge
+	GSHER1
+		Images:	17393
+		Time:	31.05.2025 12:20:50 until 31.05.2025 17:43:20
+		Duration:	05:22:30
+		Location:	59.33175 18.09349
+
+	GSHER2
+		Images:	19398
+		Time:	31.05.2025 13:15:07 until 31.05.2025 15:08:46
+		Duration:	01:53:39
+		Location:	59.33175 18.09349
+
+(4) - 21.0 km City Park Bridge
+	AASAN1
+		Images:	7035
+		Time:	31.05.2025 14:03:46 until 31.05.2025 17:47:15
+		Duration:	03:43:29
+		Location:	59.33175 18.09349
+
+	AASAN2
+		Images:	3620
+		Time:	31.05.2025 12:13:21 until 31.05.2025 14:02:27
+		Duration:	01:49:06
+		Location:	59.33175 18.09349
+
+(5) - 31,0 km Kungsholmen
+	GOLGA2
+		Images:	5186
+		Time:	31.05.2025 14:20:54 until 31.05.2025 17:01:02
+		Duration:	02:40:08
+		Location:	59.32713 18.03789
+
+(6) - 31.0 km Kungsholmen
+	ASARA2
+		Images:	18887
+		Time:	31.05.2025 13:36:03 until 31.05.2025 17:01:24
+		Duration:	03:25:21
+		Location:	59.32713 18.03789
+
+	ASARA2LS1
+		Images:	7989
+		Time:	31.05.2025 13:42:21 until 31.05.2025 16:46:57
+		Duration:	03:04:36
+		Location:	59.32713 18.03789
+
+(7) - 33,5 km St. Eriksplan
+	GBEN2
+		Images:	11472
+		Time:	31.05.2025 13:04:22 until 31.05.2025 17:20:54
+		Duration:	04:16:32
+		Location:	59.33913 18.03967
+
+	GFRAN2
+		Images:	5506
+		Time:	31.05.2025 13:43:22 until 31.05.2025 15:28:58
+		Duration:	01:45:36
+		Location:	59.33913 18.03967
+
+	GFRAN3
+		Images:	4638
+		Time:	31.05.2025 15:28:59 until 31.05.2025 17:15:43
+		Duration:	01:46:44
+		Location:	59.33913 18.03967
+
+	GHUGO1
+		Images:	22684
+		Time:	31.05.2025 11:54:13 until 31.05.2025 17:17:39
+		Duration:	05:23:26
+		Location:	59.33913 18.03967
+
+(8) - 37.5 km Norrbro Bridge
+	AFAB2
+		Images:	28760
+		Time:	31.05.2025 13:56:37 until 31.05.2025 17:08:50
+		Duration:	03:12:13
+		Location:	59.32861 18.06957
+
+	AFAB3
+		Images:	2387
+		Time:	31.05.2025 17:12:36 until 31.05.2025 17:58:23
+		Duration:	00:45:47
+		Location:	59.32861 18.06957
+
+	AVAN1
+		Images:	33419
+		Time:	31.05.2025 14:01:16 until 31.05.2025 17:57:41
+		Duration:	03:56:25
+		Location:	59.32861 18.06957
+
+	AVAN1LS1
+		Images:	24906
+		Time:	31.05.2025 13:55:16 until 31.05.2025 17:47:02
+		Duration:	03:51:46
+		Location:	59.32861 18.06957
+
+(9) - 37.7 km Opera
+	AMARC1LS1
+		Images:	5382
+		Time:	31.05.2025 13:42:20 until 31.05.2025 15:12:19
+		Duration:	01:29:59
+		Location:	59.32972 18.07143
+
+	AMARC2
+		Images:	10470
+		Time:	31.05.2025 13:43:56 until 31.05.2025 15:08:51
+		Duration:	01:24:55
+		Location:	59.32972 18.07143
+
+	AMARC2LS1
+		Images:	11629
+		Time:	31.05.2025 12:30:21 until 31.05.2025 18:05:11
+		Duration:	05:34:50
+		Location:	59.32972 18.07143
+
+	ASAHA2
+		Images:	11148
+		Time:	31.05.2025 13:39:18 until 31.05.2025 18:02:48
+		Duration:	04:23:30
+		Location:	59.32972 18.07143
+
+	AVICT2
+		Images:	18854
+		Time:	31.05.2025 12:25:00 until 31.05.2025 18:01:42
+		Duration:	05:36:42
+		Location:	59.32972 18.07143
+
+(10) - 38,5 km Royal Dramatic Theatre
+	GJJON2
+		Images:	17950
+		Time:	31.05.2025 13:52:18 until 31.05.2025 18:09:42
+		Duration:	04:17:24
+		Location:	59.33238 18.07717
+
+(11) - 38.5 km Royal Dramatic Theatre
+	ADAVI2
+		Images:	13285
+		Time:	31.05.2025 14:04:28 until 31.05.2025 18:08:47
+		Duration:	04:04:19
+		Location:	59.33238 18.07717
+
+	AGBRA1
+		Images:	6921
+		Time:	31.05.2025 14:14:09 until 31.05.2025 18:08:45
+		Duration:	03:54:36
+		Location:	59.33238 18.07717
+
+	AGBRA2
+		Images:	18515
+		Time:	31.05.2025 14:18:01 until 31.05.2025 16:49:59
+		Duration:	02:31:58
+		Location:	59.33238 18.07717
+
+	AGBRA2LS2
+		Images:	7292
+		Time:	31.05.2025 04:28:34 until 31.05.2025 18:10:19
+		Duration:	13:41:45
+		Location:	59.33238 18.07717
+
+	AGBRA4
+		Images:	4946
+		Time:	31.05.2025 16:51:55 until 31.05.2025 18:08:25
+		Duration:	01:16:30
+		Location:	59.33238 18.07717
+
+(12) - 4,5 km St. Eriksplan
+	GBEN1
+		Images:	5190
+		Time:	31.05.2025 11:56:03 until 31.05.2025 13:02:39
+		Duration:	01:06:36
+		Location:	59.33913 18.03967
+
+	GFRAN1
+		Images:	3453
+		Time:	31.05.2025 12:05:30 until 31.05.2025 13:03:07
+		Duration:	00:57:37
+		Location:	59.33913 18.03967
+
+(13) - 42,0 km Stadium Entrance
+	DTIDE2
+		Images:	28470
+		Time:	31.05.2025 14:34:16 until 31.05.2025 16:51:57
+		Duration:	02:17:41
+		Location:	59.34566 18.07634
+
+	DTIDE2LS1
+		Images:	7661
+		Time:	31.05.2025 13:59:03 until 31.05.2025 16:52:09
+		Duration:	02:53:06
+		Location:	59.34566 18.07634
+
+	DTIDE2LS2
+		Images:	5730
+		Time:	31.05.2025 16:53:30 until 31.05.2025 18:32:19
+		Duration:	01:38:49
+		Location:	59.34566 18.07634
+
+	DTIDE3
+		Images:	250
+		Time:	31.05.2025 14:11:43 until 31.05.2025 14:30:52
+		Duration:	00:19:09
+		Location:	59.34566 18.07634
+
+	DTIDE4
+		Images:	14785
+		Time:	31.05.2025 16:55:57 until 31.05.2025 18:49:56
+		Duration:	01:53:59
+		Location:	59.34566 18.07634
+
+(14) - 6,6 km Kungsholmen
+	GOLGA1
+		Images:	3286
+		Time:	31.05.2025 12:19:38 until 31.05.2025 14:20:53
+		Duration:	02:01:15
+		Location:	59.32680 18.04345
+
+(15) - 6.6 km Kungsholmen
+	ASARA1
+		Images:	9459
+		Time:	31.05.2025 12:12:46 until 31.05.2025 13:18:44
+		Duration:	01:05:58
+		Location:	59.32680 18.04345
+
+	ASARA1LS1
+		Images:	3067
+		Time:	31.05.2025 12:19:27 until 31.05.2025 19:20:40
+		Duration:	07:01:13
+		Location:	59.32680 18.04345
+
+(16) - 7,5 km City Hall
+	GJJON1
+		Images:	5933
+		Time:	31.05.2025 11:43:17 until 31.05.2025 13:33:26
+		Duration:	01:50:09
+		Location:	59.32823 18.05748
+
+(17) - 7.5 km City Hall
+	ADAVI1
+		Images:	5656
+		Time:	31.05.2025 12:23:18 until 31.05.2025 13:26:03
+		Duration:	01:02:45
+		Location:	59.32823 18.05748
+
+	AGBRA2LS1
+		Images:	3520
+		Time:	31.05.2025 12:18:01 until 31.05.2025 13:21:19
+		Duration:	01:03:18
+		Location:	59.32823 18.05748
+
+	AGBRA3
+		Images:	12057
+		Time:	31.05.2025 12:23:22 until 31.05.2025 13:21:06
+		Duration:	00:57:44
+		Location:	59.32823 18.05748
+
+	AGBRA3LS1
+		Images:	3581
+		Time:	31.05.2025 12:21:15 until 31.05.2025 13:22:05
+		Duration:	01:00:50
+		Location:	59.32823 18.05748
+
+(18) - 8,5 km Gamla Stan
+	GVAN1
+		Images:	17728
+		Time:	31.05.2025 12:00:49 until 31.05.2025 13:33:20
+		Duration:	01:32:31
+		Location:	59.32697 18.06929
+
+	GVAN1LS1
+		Images:	7147
+		Time:	31.05.2025 12:24:23 until 31.05.2025 13:38:11
+		Duration:	01:13:48
+		Location:	59.32697 18.06929
+
+(19) - 8.5 km Gamla Stan
+	AFAB1
+		Images:	14280
+		Time:	31.05.2025 11:53:05 until 31.05.2025 13:40:59
+		Duration:	01:47:54
+		Location:	59.32697 18.06929
+
+(20) - 9.0 km Opera
+	AMARC1
+		Images:	20635
+		Time:	31.05.2025 12:26:24 until 31.05.2025 18:01:07
+		Duration:	05:34:43
+		Location:	59.32972 18.07143
+
+	ASAHA1
+		Images:	4352
+		Time:	31.05.2025 12:26:27 until 31.05.2025 13:32:25
+		Duration:	01:05:58
+		Location:	59.32972 18.07143
+
+(21) - Finish
+	ABKOD1
+		Images:	19498
+		Time:	31.05.2025 14:11:33 until 31.05.2025 18:51:36
+		Duration:	04:40:03
+		Location:	59.34496 18.07890
+
+	ABKOD1LS1
+		Images:	6923
+		Time:	31.05.2025 11:17:57 until 31.05.2025 18:49:29
+		Duration:	07:31:32
+		Location:	59.34496 18.07890
+
+	ACHIU1
+		Images:	1253
+		Time:	31.05.2025 14:13:36 until 31.05.2025 18:15:29
+		Duration:	04:01:53
+		Location:	59.34496 18.07890
+
+	ADARI1
+		Images:	1917
+		Time:	31.05.2025 14:13:20 until 31.05.2025 18:29:27
+		Duration:	04:16:07
+		Location:	59.34496 18.07890
+
+	AFELI1
+		Images:	2029
+		Time:	31.05.2025 17:10:09 until 31.05.2025 18:48:05
+		Duration:	01:37:56
+		Location:	59.34496 18.07890
+
+	AJERO1
+		Images:	4799
+		Time:	31.05.2025 17:12:44 until 31.05.2025 18:51:42
+		Duration:	01:38:58
+		Location:	59.34496 18.07890
+
+	AJSCO1
+		Images:	4799
+		Time:	31.05.2025 17:12:44 until 31.05.2025 18:51:42
+		Duration:	01:38:58
+		Location:	59.34496 18.07890
+
+	AJSCO1LS1
+		Images:	14544
+		Time:	31.05.2025 11:28:45 until 31.05.2025 18:35:28
+		Duration:	07:06:43
+		Location:	59.34496 18.07890
+
+	AMEHR1
+		Images:	2574
+		Time:	31.05.2025 13:22:59 until 31.05.2025 18:11:49
+		Duration:	04:48:50
+		Location:	59.34496 18.07890
+
+	AMICH1
+		Images:	4302
+		Time:	31.05.2025 17:01:35 until 31.05.2025 18:43:59
+		Duration:	01:42:24
+		Location:	59.34496 18.07890
+
+	AMICH2
+		Images:	9903
+		Time:	31.05.2025 11:16:41 until 31.05.2025 17:00:41
+		Duration:	05:44:00
+		Location:	59.34496 18.07890
+
+	ANAZI1
+		Images:	3186
+		Time:	04.05.2025 07:05:14 until 31.05.2025 18:10:36
+		Duration:	27.11:05:22
+		Location:	59.34496 18.07890
+
+	ASGEN1
+		Images:	14746
+		Time:	31.05.2025 14:36:13 until 31.05.2025 18:43:14
+		Duration:	04:07:01
+		Location:	59.34496 18.07890
+
+	ASGEN2
+		Images:	7070
+		Time:	31.05.2025 14:33:04 until 31.05.2025 18:51:54
+		Duration:	04:18:50
+		Location:	59.34496 18.07890
+
+	ASIMO1
+		Images:	3513
+		Time:	31.05.2025 12:17:51 until 31.05.2025 17:59:03
+		Duration:	05:41:12
+		Location:	59.34496 18.07890
+
+	ATHOM1
+		Images:	2715
+		Time:	31.05.2025 13:15:44 until 31.05.2025 18:18:11
+		Duration:	05:02:27
+		Location:	59.34496 18.07890
+
+	AVIRA1
+		Images:	5786
+		Time:	31.05.2025 13:17:56 until 31.05.2025 17:56:25
+		Duration:	04:38:29
+		Location:	59.34496 18.07890
+
+	GFELI3
+		Images:	5430
+		Time:	31.05.2025 14:29:15 until 31.05.2025 17:08:45
+		Duration:	02:39:30
+		Location:	59.34496 18.07890
+
+	GIWI3
+		Images:	7278
+		Time:	31.05.2025 14:34:13 until 31.05.2025 18:51:38
+		Duration:	04:17:25
+		Location:	59.34496 18.07890
+
+	JSBLO3
+		Images:	14423
+		Time:	31.05.2025 14:36:13 until 31.05.2025 17:09:57
+		Duration:	02:33:44
+		Location:	59.34496 18.07890
+
+(22) - Impressions / Pano
+	GBKOD1
+		Images:	202
+		Time:	31.05.2025 11:37:13 until 31.05.2025 13:33:32
+		Duration:	01:56:19
+		Location:	NULL NULL
+
+	PANO1

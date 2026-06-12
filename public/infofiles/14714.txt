@@ -1,0 +1,111 @@
+EventId: 14714
+Spots: 16
+Total Images: 51616
+Time:	20.11.2025 14:46:24 to 23.11.2025 15:39:35
+Duration: 3.00:53:11
+
+(1) - Obstacle 3 OVER UNDER - JERRY CAN
+	MK1
+		Images:	5667
+		Time:	23.11.2025 12:01:43 until 23.11.2025 14:41:19
+		Duration:	02:39:36
+		Location:	24.13633 54.73753
+
+(2) - Obstacle 5 Barbedwire
+	ADSA1
+		Images:	1703
+		Time:	22.11.2025 07:23:57 until 23.11.2025 08:47:25
+		Duration:	1.01:23:28
+		Location:	24.13253 54.73808
+
+(3) - Obstacle 27 Barbedwire 2
+	ADSA2
+		Images:	4374
+		Time:	23.11.2025 09:01:57 until 23.11.2025 12:33:01
+		Duration:	03:31:04
+		Location:	24.13256 54.73787
+
+(4) - Obstacle 28 Atlas
+	MAMS1
+		Images:	3218
+		Time:	23.11.2025 08:33:26 until 23.11.2025 12:42:52
+		Duration:	04:09:26
+		Location:	24.13362 54.73712
+
+(5) - Obstacle 29 Monkeybars
+	ADSM1
+		Images:	1547
+		Time:	22.11.2025 07:22:57 until 23.11.2025 12:48:33
+		Duration:	1.05:25:36
+		Location:	24.13638 54.73692
+
+(6) - Obstacle 31 sandbags
+	AGP1
+		Images:	4080
+		Time:	20.11.2025 15:23:06 until 23.11.2025 13:17:25
+		Duration:	2.21:54:19
+		Location:	24.13796 54.73745
+
+(7) - Runtrack between Sandbag - A-Frame
+	MK1LS1
+		Images:	1844
+		Time:	23.11.2025 07:12:56 until 23.11.2025 13:25:35
+		Duration:	06:12:39
+		Location:	24.13876 54.73842
+
+(8) - Obstacle 32 A-Frame
+	LV1
+		Images:	5361
+		Time:	21.11.2025 16:52:55 until 23.11.2025 13:46:55
+		Duration:	1.20:54:00
+		Location:	24.1388 54.73844
+
+(9) - A-Frame exit
+	MK2LS1
+		Images:	1512
+		Time:	23.11.2025 07:25:31 until 23.11.2025 13:30:47
+		Duration:	06:05:16
+		Location:	24.1388 54.73844
+
+(10) - Obstacle 33 Mofified Multirig
+	GSH1
+		Images:	3130
+		Time:	23.11.2025 07:56:52 until 23.11.2025 13:24:38
+		Duration:	05:27:46
+		Location:	24.139 54.73848
+
+(11) - Obstacle 35 DUNKWALL
+	MK2
+		Images:	1311
+		Time:	23.11.2025 14:48:13 until 23.11.2025 15:39:35
+		Duration:	00:51:22
+		Location:	24.13936 54.73879
+
+	JOS1
+		Images:	4132
+		Time:	20.11.2025 14:55:19 until 23.11.2025 13:46:46
+		Duration:	2.22:51:27
+		Location:	24.13936 54.73879
+
+(12) - Slipwall-Firejump-Finish
+	MISE1
+		Images:	11880
+		Time:	22.11.2025 06:52:58 until 23.11.2025 13:40:30
+		Duration:	1.06:47:32
+		Location:	24.13933 54.73894
+
+(13) - HEROWALL
+	MRGO1
+		Images:	1548
+		Time:	20.11.2025 15:28:21 until 23.11.2025 13:37:58
+		Duration:	2.22:09:37
+		Location:	24.13926 54.73911
+
+(14) - Impressions / Pano
+	MK1IMP1
+		Images:	283
+		Time:	21.11.2025 16:27:00 until 23.11.2025 15:23:57
+		Duration:	1.22:56:57
+		Location:	24.13926 54.73911
+
+	PANO1

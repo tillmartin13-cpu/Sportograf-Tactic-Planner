@@ -1,0 +1,93 @@
+EventId: 13509
+Spots: 14
+Total Images: 128795
+Time:	05.04.2025 18:57:35 to 07.04.2025 14:39:04
+Duration: 1.19:41:29
+
+(1) - 6,0 km /42 . 32,5/42. 11,2/21. 0,3/10
+	BAR1
+		Images:	7669
+		Time:	06.04.2025 08:36:22 until 06.04.2025 13:40:37
+		Duration:	05:04:15
+		Location:	50.45059 4.86036
+
+(2) - 23,2 km /42  2,1/21
+	JAD1
+		Images:	3075
+		Time:	06.04.2025 09:36:05 until 06.04.2025 12:30:37
+		Duration:	02:54:32
+		Location:	50.38065 4.86744
+
+(3) - 33,9 km /42  2,1/21 1,8/10
+	MER1
+		Images:	4231
+		Time:	06.04.2025 08:02:39 until 06.04.2025 14:53:41
+		Duration:	06:51:02
+		Location:	50.46134 4.86997
+
+(4) - 27,5 km /42 1,8/10
+	MTR1
+		Images:	9741
+		Time:	06.04.2025 07:33:57 until 06.04.2025 12:47:49
+		Duration:	05:13:52
+		Location:	50.41258 4.8828
+
+(5) - 34,1 km /42.  12,9/21. 2,1/10
+	MW1
+		Images:	13241
+		Time:	05.04.2025 19:02:18 until 06.04.2025 13:53:22
+		Duration:	18:51:04
+		Location:	50.46121 4.86932
+
+	MW1LS2
+		Images:	5622
+		Time:	05.04.2025 18:57:35 until 06.04.2025 13:27:10
+		Duration:	18:29:35
+		Location:	50.46121 4.86932
+
+	MW1LS1
+		Images:	7396
+		Time:	05.04.2025 19:00:20 until 06.04.2025 13:46:35
+		Duration:	18:46:15
+		Location:	50.46121 4.86932
+
+(6) - Finish
+	TID1
+		Images:	12073
+		Time:	06.04.2025 08:53:45 until 06.04.2025 15:19:07
+		Duration:	06:25:22
+		Location:	50.46776 4.84794
+
+	TID1LS1
+		Images:	7793
+		Time:	06.04.2025 10:41:14 until 06.04.2025 15:05:00
+		Duration:	04:23:46
+		Location:	50.46776 4.84794
+
+(7) - Impressions / Pano
+	PANO1
+(8) - 40,0 km /42. 18,8/21. 8/10.
+	DRI1
+		Images:	30181
+		Time:	06.04.2025 08:52:04 until 06.04.2025 13:48:44
+		Duration:	04:56:40
+		Location:	50.46216 4.86843
+
+	DRI1LS1
+		Images:	8882
+		Time:	07.04.2025 09:10:22 until 07.04.2025 14:39:04
+		Duration:	05:28:42
+		Location:	50.46216 4.86843
+
+	DRI1DRONE1
+		Images:	11
+		Time:	06.04.2025 09:41:38 until 06.04.2025 12:10:49
+		Duration:	02:29:11
+		Location:	50.46216 4.86843
+
+	DRI1LS2
+		Images:	18880
+		Time:	06.04.2025 08:25:46 until 06.04.2025 13:39:03
+		Duration:	05:13:17
+		Location:	50.46216 4.86843
+

@@ -1,0 +1,150 @@
+EventId: 14856
+Spots: 23
+Total Images: 73694
+Time:	02.05.2025 14:54:26 to 03.05.2025 14:32:46
+Duration: 23:38:20
+
+(1) - Start
+	NWO1
+		Images:	1176
+		Time:	03.05.2025 10:07:30 until 03.05.2025 12:33:48
+		Duration:	02:26:18
+		Location:	50.98190 4.50758
+
+(2) - Obstacle 3 Balance Dancer
+	DIK1
+		Images:	2509
+		Time:	03.05.2025 09:20:01 until 03.05.2025 13:14:49
+		Duration:	03:54:48
+		Location:	50.98040 4.51066
+
+	MTR1
+		Images:	4623
+		Time:	03.05.2025 08:59:04 until 03.05.2025 13:21:54
+		Duration:	04:22:50
+		Location:	50.98040 4.51066
+
+(3) - Impressions / Pano
+	DIK1DRONE1
+		Images:	17
+		Time:	03.05.2025 13:00:56 until 03.05.2025 13:11:58
+		Duration:	00:11:02
+		Location:	50.98040 4.51066
+
+	PANO1
+(4) - Obstacle 5 Grid Ridge
+	NWO1LS2
+		Images:	3041
+		Time:	03.05.2025 09:52:06 until 03.05.2025 13:00:02
+		Duration:	03:07:56
+		Location:	50.98208 4.50684
+
+	NWO1LS1
+		Images:	4000
+		Time:	03.05.2025 09:52:43 until 03.05.2025 13:29:00
+		Duration:	03:36:17
+		Location:	50.98208 4.50684
+
+	TID1
+		Images:	4099
+		Time:	02.05.2025 14:54:26 until 03.05.2025 13:21:24
+		Duration:	22:26:58
+		Location:	50.98208 4.50684
+
+	TID1LS1
+		Images:	5039
+		Time:	02.05.2025 14:57:00 until 03.05.2025 13:23:10
+		Duration:	22:26:10
+		Location:	50.98208 4.50684
+
+	ACCA1
+		Images:	4020
+		Time:	03.05.2025 06:54:34 until 03.05.2025 13:21:26
+		Duration:	06:26:52
+		Location:	50.98208 4.50684
+
+(5) - Obstacle 6 Mud Pond
+	FVE1
+		Images:	1952
+		Time:	03.05.2025 09:12:01 until 03.05.2025 13:22:19
+		Duration:	04:10:18
+		Location:	50.98236 4.50655
+
+	KO1
+		Images:	1826
+		Time:	03.05.2025 07:08:59 until 03.05.2025 13:22:29
+		Duration:	06:13:30
+		Location:	50.98236 4.50655
+
+(6) - Obstacle 8 Foam Party
+	DAV1
+		Images:	3603
+		Time:	03.05.2025 09:25:31 until 03.05.2025 13:31:41
+		Duration:	04:06:10
+		Location:	50.98688 4.50046
+
+	DAV1LS1
+		Images:	2363
+		Time:	03.05.2025 10:07:01 until 03.05.2025 13:35:52
+		Duration:	03:28:51
+		Location:	50.98688 4.50046
+
+(7) - Obstacle 10 Mud Crawl
+	BENL1
+		Images:	2513
+		Time:	03.05.2025 07:38:22 until 03.05.2025 13:37:21
+		Duration:	05:58:59
+		Location:	50.98860 4.49943
+
+	KSA1
+		Images:	5524
+		Time:	03.05.2025 10:23:39 until 03.05.2025 13:38:44
+		Duration:	03:15:05
+		Location:	50.98860 4.49943
+
+(8) - Obstacle 11 Great Wall
+	BC1
+		Images:	2572
+		Time:	03.05.2025 09:23:17 until 03.05.2025 13:42:53
+		Duration:	04:19:36
+		Location:	50.98883 4.50213
+
+(9) - Obstacle 16 Waterslide
+	PBO1
+		Images:	3627
+		Time:	02.05.2025 16:34:00 until 03.05.2025 14:16:33
+		Duration:	21:42:33
+		Location:	50.98383 4.50672
+
+(10) - Finish
+	RA1
+		Images:	14516
+		Time:	03.05.2025 10:05:35 until 03.05.2025 14:30:33
+		Duration:	04:24:58
+		Location:	50.98190 4.50758
+
+	RA1LS2
+		Images:	1184
+		Time:	03.05.2025 09:51:50 until 03.05.2025 14:32:46
+		Duration:	04:40:56
+		Location:	50.98190 4.50758
+
+	RA1LS1
+		Images:	1203
+		Time:	03.05.2025 09:47:31 until 03.05.2025 14:32:41
+		Duration:	04:45:10
+		Location:	50.98190 4.50758
+
+(11) - Herotent
+	SAMA1
+		Images:	1044
+		Time:	03.05.2025 10:16:19 until 03.05.2025 14:18:32
+		Duration:	04:02:13
+		Location:	50.98181 4.50761
+
+	SIL1
+		Images:	3243
+		Time:	03.05.2025 10:17:51 until 03.05.2025 14:31:31
+		Duration:	04:13:40
+		Location:	50.98181 4.50761
+

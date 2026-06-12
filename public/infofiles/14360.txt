@@ -1,0 +1,124 @@
+EventId: 14360
+Spots: 18
+Total Images: 124681
+Time:	11.07.2025 21:45:48 to 13.07.2025 09:25:05
+Duration: 1.11:39:17
+
+(1) - Obstacle 14 Bucket Carry
+	MRKE1
+		Images:	24801
+		Time:	12.07.2025 08:03:35 until 13.07.2025 07:33:02
+		Duration:	23:29:27
+		Location:	40.81900 -75.51127
+
+	VICY2
+		Images:	731
+		Time:	12.07.2025 12:00:34 until 12.07.2025 12:15:49
+		Duration:	00:15:15
+		Location:	40.81900 -75.51127
+
+(2) - Obstacle 15 A-Frame Cargo
+	JAYK1
+		Images:	4692
+		Time:	12.07.2025 07:45:15 until 13.07.2025 07:30:05
+		Duration:	23:44:50
+		Location:	40.81925 -75.51102
+
+	VICY3
+		Images:	637
+		Time:	12.07.2025 12:16:49 until 12.07.2025 12:31:56
+		Duration:	00:15:07
+		Location:	40.81925 -75.51102
+
+(3) - Obstacle 17 Ape Hanger
+	LMB1
+		Images:	3639
+		Time:	12.07.2025 07:04:59 until 13.07.2025 06:58:17
+		Duration:	23:53:18
+		Location:	40.82041 -75.50633
+
+	VICY4
+		Images:	994
+		Time:	12.07.2025 12:44:04 until 12.07.2025 13:04:50
+		Duration:	00:20:46
+		Location:	40.82041 -75.50633
+
+(4) - Obstacle 20 Plate Drag
+	SWDY1
+		Images:	19311
+		Time:	11.07.2025 21:45:48 until 13.07.2025 07:11:58
+		Duration:	1.09:26:10
+		Location:	40.82219 -75.51122
+
+	ANMF1
+		Images:	11763
+		Time:	12.07.2025 08:13:17 until 13.07.2025 07:39:33
+		Duration:	23:26:16
+		Location:	40.82219 -75.51122
+
+(5) - Obstacle 22 Barbed Wire Crawl
+	AAD1
+		Images:	16640
+		Time:	12.07.2025 07:04:07 until 13.07.2025 07:17:19
+		Duration:	1.00:13:12
+		Location:	40.82091 -75.51013
+
+	VICY6
+		Images:	300
+		Time:	12.07.2025 11:47:17 until 12.07.2025 11:57:25
+		Duration:	00:10:08
+		Location:	40.82091 -75.51013
+
+(6) - Obstacle 23 Z Wall
+	JSAN1
+		Images:	3784
+		Time:	12.07.2025 05:34:11 until 12.07.2025 18:37:55
+		Duration:	13:03:44
+		Location:	40.82094 -75.50919
+
+	WMY1
+		Images:	5672
+		Time:	12.07.2025 07:45:24 until 12.07.2025 18:17:32
+		Duration:	10:32:08
+		Location:	40.82094 -75.50919
+
+(7) - Obstacle 25 Multi Rig
+	EUGP1
+		Images:	3516
+		Time:	12.07.2025 08:06:48 until 12.07.2025 18:48:09
+		Duration:	10:41:21
+		Location:	40.82266 -75.51036
+
+	YEP1
+		Images:	6051
+		Time:	12.07.2025 08:06:27 until 13.07.2025 07:39:00
+		Duration:	23:32:33
+		Location:	40.82266 -75.51036
+
+(8) - Obstacle 26 Fire Jump
+	TYHA1
+		Images:	17237
+		Time:	12.07.2025 07:40:44 until 13.07.2025 07:20:38
+		Duration:	23:39:54
+		Location:	40.82255 -75.51105
+
+	VICY5
+		Images:	375
+		Time:	12.07.2025 10:59:08 until 12.07.2025 11:17:03
+		Duration:	00:17:55
+		Location:	40.82255 -75.51105
+
+(9) - Herotent
+	PEC1
+		Images:	3954
+		Time:	12.07.2025 07:55:22 until 13.07.2025 09:25:05
+		Duration:	1.01:29:43
+		Location:	40.82272 -75.51133
+
+(10) - Venue
+	VICY1
+		Images:	575
+		Time:	12.07.2025 07:10:03 until 12.07.2025 09:10:57
+		Duration:	02:00:54
+		Location:	40.82272 -75.51133
+

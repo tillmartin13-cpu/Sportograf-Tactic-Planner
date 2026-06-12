@@ -1,0 +1,49 @@
+EventId: 13578
+Spots: 7
+Total Images: 34838
+Time:	01.01.0001 23:00:00 to 21.06.2025 18:10:26
+Duration: 739421.19:10:26
+
+(1) - Zone #2 500W ROW
+	JEFL1
+		Images:	4202
+		Time:	01.01.0001 23:00:00 until 21.06.2025 17:40:25
+		Duration:	739421.18:40:25
+		Location:	35.38935 -80.50009
+
+	JEFL2
+(2) - Zone#5 500M SKIERG
+	MBRS1
+		Images:	3679
+		Time:	21.06.2025 07:51:33 until 21.06.2025 17:51:22
+		Duration:	09:59:49
+		Location:	35.38943 -80.50094
+
+(3) - Zone #6 Farmer's Carry
+	DBCH1
+		Images:	6569
+		Time:	21.06.2025 07:18:02 until 21.06.2025 17:53:40
+		Duration:	10:35:38
+		Location:	35.38950 -80.50099
+
+(4) - Zone #7 25CAL air bike
+	LJN1
+		Images:	10263
+		Time:	20.06.2025 22:45:09 until 21.06.2025 17:59:41
+		Duration:	19:14:32
+		Location:	35.38937 -80.50093
+
+(5) - Zone #9  Tank Push/pull
+	EVE1
+		Images:	9765
+		Time:	21.06.2025 07:02:52 until 21.06.2025 18:10:26
+		Duration:	11:07:34
+		Location:	35.38959 -80.50105
+
+(6) - Impressions / Pano
+	SICA1
+		Images:	360
+		Time:	21.06.2025 07:34:33 until 21.06.2025 14:24:27
+		Duration:	06:49:54
+		Location:	35.38935 -80.50009
+

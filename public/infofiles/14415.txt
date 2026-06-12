@@ -1,0 +1,94 @@
+EventId: 14415
+Spots: 13
+Total Images: 136644
+Time:	01.01.0001 23:00:00 to 27.04.2025 20:13:33
+Duration: 739366.21:13:33
+
+(1) - Obstacle 18 Barbed Wire Crawl #2
+	ALTO1
+		Images:	14169
+		Time:	27.04.2025 08:08:22 until 27.04.2025 17:37:56
+		Duration:	09:29:34
+		Location:	41.17080 -74.53258
+
+(2) - Obstacle 19 Multi-Rig
+	MESE1
+		Images:	11077
+		Time:	01.01.0001 23:00:00 until 27.04.2025 16:56:02
+		Duration:	739366.17:56:02
+		Location:	41.17572 -74.53252
+
+	AAD1
+		Images:	18706
+		Time:	26.04.2025 09:34:11 until 27.04.2025 17:08:25
+		Duration:	1.07:34:14
+		Location:	41.17572 -74.53252
+
+(3) - Obstacle 22 Slip Wall
+	MRKE1
+		Images:	11459
+		Time:	27.04.2025 07:45:03 until 27.04.2025 17:21:37
+		Duration:	09:36:34
+		Location:	41.17741 -74.53177
+
+(4) - Obstacle 23 Traverse Wall
+	KLOW1
+		Images:	6981
+		Time:	27.04.2025 08:26:04 until 27.04.2025 17:43:23
+		Duration:	09:17:19
+		Location:	41.17419 -74.53227
+
+	ANMF1
+		Images:	7692
+		Time:	27.04.2025 08:24:46 until 27.04.2025 17:37:37
+		Duration:	09:12:51
+		Location:	41.17419 -74.53227
+
+(5) - Obstacle 26 Sandbag Carry
+	WMY1
+		Images:	10747
+		Time:	26.04.2025 09:35:24 until 27.04.2025 17:38:35
+		Duration:	1.08:03:11
+		Location:	41.17119 -74.52811
+
+(6) - Obstacle 27 Monkey Bars
+	YEP1
+		Images:	9338
+		Time:	27.04.2025 08:16:25 until 27.04.2025 18:04:12
+		Duration:	09:47:47
+		Location:	41.17198 -74.52642
+
+	EUGP1
+		Images:	8279
+		Time:	26.04.2025 19:38:08 until 27.04.2025 19:21:40
+		Duration:	23:43:32
+		Location:	41.17198 -74.52642
+
+(7) - Obstacle 29 Craft A-Frame
+	TIWI1
+		Images:	7967
+		Time:	27.04.2025 06:54:21 until 27.04.2025 18:26:18
+		Duration:	11:31:57
+		Location:	41.17241 -74.52702
+
+(8) - Obstacle 30 Bucket Carry
+	JSAN1
+		Images:	10157
+		Time:	01.01.0001 23:00:00 until 27.04.2025 18:02:37
+		Duration:	739366.19:02:37
+		Location:	41.17322 -74.52788
+
+(9) - Obstacle 33 Fire Jump
+	SWDY1
+		Images:	15895
+		Time:	25.04.2025 23:30:54 until 27.04.2025 20:12:03
+		Duration:	1.20:41:09
+		Location:	41.17786 -74.53147
+
+(10) - Herotent
+	JAYA1
+		Images:	4174
+		Time:	27.04.2025 07:53:56 until 27.04.2025 20:13:33
+		Duration:	12:19:37
+		Location:	41.17800 -74.53138
+

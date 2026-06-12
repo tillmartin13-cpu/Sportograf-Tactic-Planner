@@ -1,0 +1,179 @@
+EventId: 14646
+Spots: 28
+Total Images: 94486
+Time:	18.10.2025 08:49:54 to 19.10.2025 16:43:13
+Duration: 1.07:53:19
+
+(1) - Generales
+	DAFE1
+		Images:	98
+		Time:	18.10.2025 08:53:46 until 19.10.2025 09:02:44
+		Duration:	1.00:08:58
+		Location:	41.63832 2.70434
+
+	MANR1
+		Images:	241
+		Time:	18.10.2025 08:49:54 until 19.10.2025 09:21:23
+		Duration:	1.00:31:29
+		Location:	41.63832 2.70434
+
+	AFGA1
+		Images:	19
+		Time:	19.10.2025 08:38:23 until 19.10.2025 08:59:41
+		Duration:	00:21:18
+		Location:	41.63832 2.70434
+
+	MANR4
+		Images:	111
+		Time:	19.10.2025 11:31:31 until 19.10.2025 11:45:16
+		Duration:	00:13:45
+		Location:	41.63832 2.70434
+
+	MANR6
+		Images:	176
+		Time:	19.10.2025 12:59:31 until 19.10.2025 13:51:16
+		Duration:	00:51:45
+		Location:	41.63832 2.70434
+
+(2) - Bucket Carry
+	JLTG1LS2
+		Images:	1882
+		Time:	19.10.2025 09:04:41 until 19.10.2025 14:55:58
+		Duration:	05:51:17
+		Location:	41.64082 2.70836
+
+	JLTG1LS1
+		Images:	2046
+		Time:	19.10.2025 08:58:37 until 19.10.2025 14:55:03
+		Duration:	05:56:26
+		Location:	41.64082 2.70836
+
+	JLTG1
+		Images:	9161
+		Time:	18.10.2025 09:45:10 until 19.10.2025 14:53:19
+		Duration:	1.05:08:09
+		Location:	41.64082 2.70836
+
+	MANR2
+		Images:	324
+		Time:	19.10.2025 09:35:31 until 19.10.2025 11:07:23
+		Duration:	01:31:52
+		Location:	41.64082 2.70836
+
+(3) - Rolling Mud
+	DAFE2
+		Images:	16593
+		Time:	19.10.2025 09:33:10 until 19.10.2025 15:46:55
+		Duration:	06:13:45
+		Location:	41.63878 2.70779
+
+	MANR3
+		Images:	198
+		Time:	19.10.2025 11:08:17 until 19.10.2025 11:20:21
+		Duration:	00:12:04
+		Location:	41.63878 2.70779
+
+(4) - Multi Rig
+	JIA1
+		Images:	7213
+		Time:	19.10.2025 08:55:49 until 19.10.2025 15:20:03
+		Duration:	06:24:14
+		Location:	41.62897 2.71334
+
+	MANR7
+		Images:	219
+		Time:	18.10.2025 13:12:01 until 19.10.2025 15:17:22
+		Duration:	1.02:05:21
+		Location:	41.62897 2.71334
+
+(5) - Barbed wire
+	MIFP1
+		Images:	7809
+		Time:	18.10.2025 10:00:11 until 19.10.2025 15:24:39
+		Duration:	1.05:24:28
+		Location:	41.62891 2.71303
+
+	MANR9
+		Images:	980
+		Time:	19.10.2025 11:58:38 until 19.10.2025 12:20:21
+		Duration:	00:21:43
+		Location:	41.62891 2.71303
+
+(6) - Log Carry
+	MIFP1LS1
+		Images:	5286
+		Time:	18.10.2025 08:50:07 until 19.10.2025 15:34:25
+		Duration:	1.06:44:18
+		Location:	41.62899 2.71354
+
+	JRD1
+		Images:	9938
+		Time:	19.10.2025 09:41:59 until 19.10.2025 15:28:25
+		Duration:	05:46:26
+		Location:	41.62899 2.71354
+
+	MANR5
+		Images:	597
+		Time:	19.10.2025 12:24:53 until 19.10.2025 12:55:43
+		Duration:	00:30:50
+		Location:	41.62899 2.71354
+
+(7) - Sandbag Carry
+	TGM1
+		Images:	11263
+		Time:	19.10.2025 09:44:49 until 19.10.2025 15:38:17
+		Duration:	05:53:28
+		Location:	41.62784 2.70917
+
+	TGM1LS2
+		Images:	2062
+		Time:	18.10.2025 08:59:21 until 19.10.2025 15:38:14
+		Duration:	1.06:38:53
+		Location:	41.62784 2.70917
+
+	TGM1LS1
+		Images:	2634
+		Time:	19.10.2025 09:45:15 until 19.10.2025 15:38:41
+		Duration:	05:53:26
+		Location:	41.62784 2.70917
+
+(8) - Fire jump
+	JCR1
+		Images:	5717
+		Time:	18.10.2025 10:55:37 until 19.10.2025 16:24:49
+		Duration:	1.05:29:12
+		Location:	41.63833 2.70786
+
+	AFGA2LS1
+		Images:	2545
+		Time:	19.10.2025 08:08:35 until 19.10.2025 16:33:54
+		Duration:	08:25:19
+		Location:	41.63833 2.70786
+
+	JCR1LS1
+		Images:	5572
+		Time:	19.10.2025 08:36:08 until 19.10.2025 16:03:31
+		Duration:	07:27:23
+		Location:	41.63833 2.70786
+
+	MANR8
+		Images:	141
+		Time:	19.10.2025 15:19:21 until 19.10.2025 16:43:13
+		Duration:	01:23:52
+		Location:	41.63833 2.70786
+
+(9) - Herotent
+	AFGA2
+		Images:	1644
+		Time:	19.10.2025 10:08:16 until 19.10.2025 16:29:25
+		Duration:	06:21:09
+		Location:	41.63839 2.70748
+
+(10) - Impressions / Pano
+	MANR1DRONE1
+		Images:	9
+		Time:	19.10.2025 10:10:45 until 19.10.2025 10:19:09
+		Duration:	00:08:24
+		Location:	41.63833 2.70786
+
+	PANO1

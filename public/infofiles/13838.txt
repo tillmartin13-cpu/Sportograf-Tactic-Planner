@@ -1,0 +1,29 @@
+EventId: 13838
+Spots: 4
+Total Images: 3977
+Time:	17.05.2025 08:16:43 to 17.05.2025 13:44:09
+Duration: 05:27:26
+
+(1) - Start
+	TIM1
+		Images:	644
+		Time:	17.05.2025 08:45:17 until 17.05.2025 10:43:15
+		Duration:	01:57:58
+		Location:	50.60007 10.81349
+
+(2) - Ziel
+	LPI1
+		Images:	2434
+		Time:	17.05.2025 08:16:43 until 17.05.2025 11:17:01
+		Duration:	03:00:18
+		Location:	50.60190 10.81184
+
+(3) - Siegerehrung
+	TIM2
+		Images:	899
+		Time:	17.05.2025 12:20:16 until 17.05.2025 13:44:09
+		Duration:	01:23:53
+		Location:	50.60190 10.81184
+
+(4) - Impressions / Pano
+	PANO1

@@ -1,0 +1,485 @@
+EventId: 16233
+Spots: 77
+Total Images: 839254
+Time:	01.01.0001 23:00:00 to 04.06.2025 12:59:07
+Duration: 739404.13:59:07
+
+(1) - Technisches Museum KM16,4
+	AJGU1
+		Images:	4272
+		Time:	06.04.2025 09:15:36 until 06.04.2025 12:09:17
+		Duration:	02:53:41
+		Location:	48.19017 16.31838
+
+(2) - 12.0 km Cafe Savoy
+	BYS1
+		Images:	34712
+		Time:	06.04.2025 09:35:36 until 06.04.2025 11:22:42
+		Duration:	01:47:06
+		Location:	48.19738 16.35974
+
+	BYS1LS2
+		Images:	2021
+		Time:	06.04.2025 09:16:50 until 06.04.2025 11:28:59
+		Duration:	02:12:09
+		Location:	48.19738 16.35974
+
+	BYS1LS1
+		Images:	2287
+		Time:	06.04.2025 09:02:34 until 06.04.2025 11:32:10
+		Duration:	02:29:36
+		Location:	48.19738 16.35974
+
+	BAKS1
+		Images:	13781
+		Time:	06.04.2025 09:34:56 until 06.04.2025 11:24:31
+		Duration:	01:49:35
+		Location:	48.19738 16.35974
+
+	BAKS1LS1
+		Images:	1988
+		Time:	06.04.2025 09:17:44 until 06.04.2025 11:27:43
+		Duration:	02:09:59
+		Location:	48.19738 16.35974
+
+(3) - 20.5 km Natur Museum
+	BPBA1
+		Images:	20000
+		Time:	06.04.2025 08:52:18 until 06.04.2025 12:30:52
+		Duration:	03:38:34
+		Location:	48.20625 16.35984
+
+(4) - 20.5 km Museum Quartier
+	BADCR1
+		Images:	18520
+		Time:	06.04.2025 09:56:25 until 06.04.2025 12:18:53
+		Duration:	02:22:28
+		Location:	48.20475 16.35839
+
+	BWB2
+		Images:	14694
+		Time:	06.04.2025 09:01:06 until 06.04.2025 11:27:42
+		Duration:	02:26:36
+		Location:	48.20475 16.35839
+
+	BWB3
+(5) - Hauptallee/ Lusthaus KM32/-
+	AEP1
+		Images:	7395
+		Time:	06.04.2025 10:33:04 until 06.04.2025 14:29:24
+		Duration:	03:56:20
+		Location:	48.19257 16.43851
+
+	AEP1LS1
+		Images:	2933
+		Time:	05.04.2025 20:47:39 until 06.04.2025 14:23:58
+		Duration:	17:36:19
+		Location:	48.19257 16.43851
+
+	AUEC1
+		Images:	6022
+		Time:	04.04.2025 19:23:10 until 06.04.2025 13:55:47
+		Duration:	1.18:32:37
+		Location:	48.19257 16.43851
+
+	AUEC1LS1
+		Images:	1480
+		Time:	04.04.2025 19:54:05 until 06.04.2025 13:55:17
+		Duration:	1.18:01:12
+		Location:	48.19257 16.43851
+
+	AUEC1LS2
+		Images:	1605
+		Time:	04.04.2025 19:20:17 until 06.04.2025 13:23:52
+		Duration:	1.18:03:35
+		Location:	48.19257 16.43851
+
+(6) - Schwarzenbergplatz KM10.4
+	ASDS1
+		Images:	27390
+		Time:	03.04.2025 14:16:57 until 06.04.2025 15:24:02
+		Duration:	3.01:07:05
+		Location:	48.20164 16.37407
+
+	AHSA1
+		Images:	25714
+		Time:	06.04.2025 09:29:35 until 06.04.2025 15:24:00
+		Duration:	05:54:25
+		Location:	48.20164 16.37407
+
+(7) - 42.0 km Parlament
+	BMSN1
+		Images:	9092
+		Time:	06.04.2025 09:06:32 until 06.04.2025 16:02:25
+		Duration:	06:55:53
+		Location:	48.20831 16.36005
+
+	BMSN1LS1
+		Images:	5949
+		Time:	06.04.2025 09:09:22 until 06.04.2025 15:37:02
+		Duration:	06:27:40
+		Location:	48.20831 16.36005
+
+(8) - 20.5 km Volkstheater Halbmarathon
+	BSTHE1
+		Images:	21004
+		Time:	06.04.2025 09:48:56 until 06.04.2025 12:58:48
+		Duration:	03:09:52
+		Location:	48.20528 16.3583
+
+	BSRO1
+		Images:	10080
+		Time:	04.04.2025 20:19:00 until 06.04.2025 12:48:19
+		Duration:	1.16:29:19
+		Location:	48.20528 16.3583
+
+(9) - Schüttelstraße Skyline KM6
+	AWPO1
+		Images:	4936
+		Time:	06.04.2025 08:42:07 until 06.04.2025 10:36:53
+		Duration:	01:54:46
+		Location:	48.2003 16.40889
+
+	AMJO1
+		Images:	16151
+		Time:	06.04.2025 08:38:57 until 06.04.2025 10:50:15
+		Duration:	02:11:18
+		Location:	48.2003 16.40889
+
+(10) - Donauseitenkanal KM26/-
+	ACHR1
+		Images:	9993
+		Time:	06.04.2025 09:39:31 until 06.04.2025 13:21:50
+		Duration:	03:42:19
+		Location:	48.21251 16.379
+
+	ACHR1LS1
+		Images:	3536
+		Time:	06.04.2025 09:18:49 until 06.04.2025 13:11:29
+		Duration:	03:52:40
+		Location:	48.21251 16.379
+
+	ACHR1LS2
+		Images:	3523
+		Time:	05.04.2025 23:27:44 until 06.04.2025 13:10:20
+		Duration:	13:42:36
+		Location:	48.21251 16.379
+
+	AANI1
+		Images:	4436
+		Time:	06.04.2025 10:18:04 until 06.04.2025 13:21:43
+		Duration:	03:03:39
+		Location:	48.19257 16.43851
+
+(11) - Start
+	CASTU1
+		Images:	437
+		Time:	06.04.2025 08:01:24 until 06.04.2025 09:35:45
+		Duration:	01:34:21
+		Location:	48.2312 16.41501
+
+	CLOMA3
+		Images:	9361
+		Time:	06.04.2025 06:16:59 until 06.04.2025 11:31:30
+		Duration:	05:14:31
+		Location:	48.2312 16.41501
+
+	CLOMA2LS1
+		Images:	5523
+		Time:	06.04.2025 11:07:24 until 06.04.2025 15:43:42
+		Duration:	04:36:18
+		Location:	48.2312 16.41501
+
+	CKPR1
+		Images:	28172
+		Time:	05.04.2025 19:45:06 until 06.04.2025 15:38:23
+		Duration:	19:53:17
+		Location:	48.20831 16.36005
+
+	CDRU1
+		Images:	8350
+		Time:	06.04.2025 08:29:35 until 06.04.2025 16:20:23
+		Duration:	07:50:48
+		Location:	48.20831 16.36005
+
+	CDASA1
+		Images:	2397
+		Time:	06.04.2025 08:14:48 until 06.04.2025 09:48:29
+		Duration:	01:33:41
+		Location:	48.22507 16.40389
+
+(12) - 18.0 km Bahnhof West
+	BULKE1
+		Images:	5008
+		Time:	06.04.2025 09:50:22 until 06.04.2025 12:14:49
+		Duration:	02:24:27
+		Location:	48.19602 16.34083
+
+(13) - Impressions / Pano
+	PANO1
+(14) - 22.0 km Votivkirche
+	BANN1
+		Images:	9379
+		Time:	06.04.2025 09:52:59 until 06.04.2025 12:52:08
+		Duration:	02:59:09
+		Location:	48.21432 16.3614
+
+	BFAB1
+		Images:	9856
+		Time:	06.04.2025 09:06:55 until 06.04.2025 11:58:55
+		Duration:	02:52:00
+		Location:	48.21432 16.3614
+
+(15) - Cafe Prückl KM9,5
+	AJUS1
+		Images:	29203
+		Time:	06.04.2025 09:27:06 until 06.04.2025 14:19:58
+		Duration:	04:52:52
+		Location:	48.20709 16.38047
+
+	AADS1
+		Images:	24330
+		Time:	06.04.2025 09:14:59 until 06.04.2025 15:20:23
+		Duration:	06:05:24
+		Location:	48.20709 16.38047
+
+(16) - 11 km & 41 km Wiener Staatsoper
+	BLUL1
+		Images:	11751
+		Time:	06.04.2025 09:32:47 until 06.04.2025 15:28:14
+		Duration:	05:55:27
+		Location:	48.20266 16.36796
+
+	BLUL1LS1
+		Images:	17367
+		Time:	01.01.0001 23:00:00 until 06.04.2025 15:28:49
+		Duration:	739345.16:28:49
+		Location:	48.20266 16.36796
+
+	BADRO1
+		Images:	24456
+		Time:	04.04.2025 21:10:09 until 06.04.2025 15:34:32
+		Duration:	1.18:24:23
+		Location:	48.20266 16.36796
+
+(17) - 23.0 km La Papeterie Liechtenstein
+	BMR1
+		Images:	4081
+		Time:	06.04.2025 10:06:44 until 06.04.2025 13:05:41
+		Duration:	02:58:57
+		Location:	48.221 16.35995
+
+	BYSE1
+		Images:	9405
+		Time:	06.04.2025 10:06:46 until 06.04.2025 12:49:30
+		Duration:	02:42:44
+		Location:	48.221 16.35995
+
+(18) - Allee Kärtner Ring KM10,6
+	AKHW1
+		Images:	21741
+		Time:	06.04.2025 09:32:15 until 06.04.2025 15:27:17
+		Duration:	05:55:02
+		Location:	48.20206 16.37088
+
+	ARIP1
+		Images:	23988
+		Time:	06.04.2025 09:20:20 until 06.04.2025 14:48:38
+		Duration:	05:28:18
+		Location:	48.20206 16.37088
+
+(19) - 16.5 km Technisches Museum
+	BMLE1
+		Images:	15130
+		Time:	04.04.2025 08:23:51 until 06.04.2025 12:10:13
+		Duration:	2.03:46:22
+		Location:	48.19017 16.31838
+
+(20) - 41.5 km Natur Museum
+	BPBA2
+		Images:	19951
+		Time:	06.04.2025 12:30:52 until 06.04.2025 15:34:18
+		Duration:	03:03:26
+		Location:	48.20625 16.35984
+
+(21) - Bahnhof City West KM18,3
+	ALKE1
+		Images:	15983
+		Time:	06.04.2025 08:35:04 until 06.04.2025 12:14:49
+		Duration:	03:39:45
+		Location:	48.19602 16.34083
+
+(22) - Schloss Schönbrunn KM16
+	ASAMS1
+		Images:	15517
+		Time:	05.04.2025 20:37:40 until 06.04.2025 11:54:48
+		Duration:	15:17:08
+		Location:	48.18816 16.31427
+
+(23) - 20.5 km & 41.5 km Natur Museum
+	BLU1
+		Images:	12752
+		Time:	06.04.2025 10:02:37 until 06.04.2025 15:34:26
+		Duration:	05:31:49
+		Location:	48.20625 16.35984
+
+(24) - 16.0 km Schloss Schönbrunn
+	BCOR1LS2
+		Images:	2041
+		Time:	06.04.2025 09:15:51 until 06.04.2025 11:40:59
+		Duration:	02:25:08
+		Location:	48.18816 16.31427
+
+	BCOR1LS1
+		Images:	2456
+		Time:	06.04.2025 09:17:43 until 06.04.2025 11:49:31
+		Duration:	02:31:48
+		Location:	48.18816 16.31427
+
+	BCOR1
+		Images:	10311
+		Time:	06.04.2025 09:24:25 until 06.04.2025 11:56:55
+		Duration:	02:32:30
+		Location:	48.18816 16.31427
+
+	BIH1
+		Images:	16763
+		Time:	04.04.2025 22:36:11 until 06.04.2025 12:02:50
+		Duration:	1.13:26:39
+		Location:	48.18816 16.31427
+
+(25) - Finish
+	CEH1
+		Images:	17240
+		Time:	06.04.2025 10:03:36 until 06.04.2025 12:51:35
+		Duration:	02:47:59
+		Location:	48.21104 16.36084
+
+	CEH1LS1
+		Images:	9733
+		Time:	04.06.2025 09:51:27 until 04.06.2025 12:59:07
+		Duration:	03:07:40
+		Location:	48.21104 16.36084
+
+	CEH1LS2
+		Images:	10761
+		Time:	06.04.2025 09:37:59 until 06.04.2025 12:55:09
+		Duration:	03:17:10
+		Location:	48.21104 16.36084
+
+	CNAG1
+		Images:	10901
+		Time:	06.04.2025 10:03:36 until 06.04.2025 12:57:48
+		Duration:	02:54:12
+		Location:	48.21104 16.36084
+
+	CRMI2
+		Images:	16448
+		Time:	04.04.2025 22:35:07 until 06.04.2025 15:47:09
+		Duration:	1.17:12:02
+		Location:	48.21104 16.36084
+
+	CJOTO2
+		Images:	10629
+		Time:	06.04.2025 11:08:20 until 06.04.2025 15:41:53
+		Duration:	04:33:33
+		Location:	48.21104 16.36084
+
+	CASTU2
+		Images:	11641
+		Time:	06.04.2025 10:05:49 until 06.04.2025 15:18:53
+		Duration:	05:13:04
+		Location:	48.21104 16.36084
+
+	CLOMA1LS1
+		Images:	9023
+		Time:	06.04.2025 07:23:49 until 06.04.2025 15:44:40
+		Duration:	08:20:51
+		Location:	48.21104 16.36084
+
+	CLOMA2
+		Images:	20658
+		Time:	06.04.2025 11:31:49 until 06.04.2025 15:41:44
+		Duration:	04:09:55
+		Location:	48.21104 16.36084
+
+	CKSZ1
+		Images:	7381
+		Time:	06.04.2025 08:47:59 until 06.04.2025 15:43:54
+		Duration:	06:55:55
+		Location:	48.21104 16.36084
+
+	CJAT1
+		Images:	15983
+		Time:	01.01.0001 23:00:00 until 06.04.2025 15:47:04
+		Duration:	739345.16:47:04
+		Location:	48.21104 16.36084
+
+	CKVD1
+		Images:	11524
+		Time:	06.04.2025 11:08:17 until 06.04.2025 15:40:08
+		Duration:	04:31:51
+		Location:	48.21104 16.36084
+
+	CMIW1
+		Images:	7924
+		Time:	06.04.2025 10:17:47 until 06.04.2025 15:46:28
+		Duration:	05:28:41
+		Location:	48.21104 16.36084
+
+	CISM1
+		Images:	8961
+		Time:	06.04.2025 06:21:45 until 06.04.2025 15:40:33
+		Duration:	09:18:48
+		Location:	48.21104 16.36084
+
+	CISM1LS1
+		Images:	3656
+		Time:	06.04.2025 09:46:32 until 06.04.2025 14:38:53
+		Duration:	04:52:21
+		Location:	48.21104 16.36084
+
+	CHKA2
+		Images:	4878
+		Time:	06.04.2025 10:50:26 until 06.04.2025 15:27:38
+		Duration:	04:37:12
+		Location:	48.21104 16.36084
+
+	CDASA2
+		Images:	6665
+		Time:	06.04.2025 11:07:50 until 06.04.2025 15:40:29
+		Duration:	04:32:39
+		Location:	48.21104 16.36084
+
+(26) - 1.0 km
+	CRMI1
+		Images:	2131
+		Time:	06.04.2025 09:11:46 until 06.04.2025 09:49:55
+		Duration:	00:38:09
+		Location:	48.22507 16.40389
+
+	CJOTO1
+		Images:	2944
+		Time:	06.04.2025 07:40:06 until 06.04.2025 09:44:05
+		Duration:	02:03:59
+		Location:	48.22507 16.40389
+
+	CHKA1
+		Images:	6055
+		Time:	06.04.2025 09:07:28 until 06.04.2025 09:51:18
+		Duration:	00:43:50
+		Location:	48.21779 16.39022
+
+(27) - Rustenschacheralle KM36
+	AWPO2
+		Images:	5177
+		Time:	06.04.2025 10:48:40 until 06.04.2025 14:42:43
+		Duration:	03:54:03
+		Location:	48.20146 16.40983
+
+	AMJO2
+		Images:	9718
+		Time:	06.04.2025 10:59:16 until 06.04.2025 14:42:04
+		Duration:	03:42:48
+		Location:	48.20146 16.40983
+

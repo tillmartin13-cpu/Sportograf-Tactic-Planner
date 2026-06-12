@@ -1,0 +1,111 @@
+EventId: 14238
+Spots: 16
+Total Images: 19502
+Time:	09.08.2025 09:23:09 to 09.08.2025 17:02:46
+Duration: 07:39:37
+
+(1) - Swim
+	BENP1
+		Images:	1044
+		Time:	09.08.2025 09:24:15 until 09.08.2025 11:00:59
+		Duration:	01:36:44
+		Location:	50.58754 5.97305
+
+	VL2
+		Images:	789
+		Time:	09.08.2025 09:24:10 until 09.08.2025 14:10:28
+		Duration:	04:46:18
+		Location:	50.58754 5.97305
+
+(2) - Bike - Transition zone
+	MARBR1
+		Images:	2895
+		Time:	09.08.2025 09:26:34 until 09.08.2025 10:51:39
+		Duration:	01:25:05
+		Location:	50.58849 5.96966
+
+	VL4
+		Images:	37
+		Time:	09.08.2025 14:14:39 until 09.08.2025 14:15:57
+		Duration:	00:01:18
+		Location:	50.58849 5.96966
+
+(3) - Bike - 1.0 km
+	VL1
+		Images:	148
+		Time:	09.08.2025 10:24:07 until 09.08.2025 10:43:55
+		Duration:	00:19:48
+		Location:	50.58992 5.98028
+
+	VL1LS1
+		Images:	92
+		Time:	09.08.2025 10:32:17 until 09.08.2025 10:44:33
+		Duration:	00:12:16
+		Location:	50.58992 5.98028
+
+(4) - Bike - 1.5 km
+	STL1
+		Images:	1216
+		Time:	09.08.2025 09:23:09 until 09.08.2025 11:40:01
+		Duration:	02:16:52
+		Location:	50.58390 5.97547
+
+	STL1LS1
+		Images:	844
+		Time:	09.08.2025 09:48:45 until 09.08.2025 10:46:07
+		Duration:	00:57:22
+		Location:	50.58390 5.97547
+
+(5) - Bike - 18.0 km Sprint only
+	VL5
+		Images:	868
+		Time:	09.08.2025 14:38:04 until 09.08.2025 15:38:02
+		Duration:	00:59:58
+		Location:	50.58849 5.96966
+
+(6) - 2.0 km before finish
+	STL2
+		Images:	2340
+		Time:	09.08.2025 11:52:58 until 09.08.2025 16:52:41
+		Duration:	04:59:43
+		Location:	50.58992 5.98028
+
+	STL2LS1
+		Images:	53
+		Time:	09.08.2025 15:17:37 until 09.08.2025 16:27:59
+		Duration:	01:10:22
+		Location:	50.58992 5.98028
+
+(7) - 1.0 km before finish
+	BENP2
+		Images:	1779
+		Time:	09.08.2025 11:02:50 until 09.08.2025 17:01:42
+		Duration:	05:58:52
+		Location:	50.58897 5.97429
+
+(8) - Finish
+	VL3
+		Images:	1227
+		Time:	09.08.2025 12:12:24 until 09.08.2025 17:02:46
+		Duration:	04:50:22
+		Location:	50.58831 5.97231
+
+	VL3LS1
+		Images:	1407
+		Time:	09.08.2025 11:49:45 until 09.08.2025 17:00:30
+		Duration:	05:10:45
+		Location:	50.58831 5.97231
+
+	MARBR2
+		Images:	4742
+		Time:	09.08.2025 10:57:58 until 09.08.2025 16:34:02
+		Duration:	05:36:04
+		Location:	50.58831 5.97231
+
+(9) - Drone
+	VL1DRONE1
+		Images:	21
+		Time:	09.08.2025 09:47:46 until 09.08.2025 14:56:53
+		Duration:	05:09:07
+		Location:	50.58831 5.97231
+

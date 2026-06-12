@@ -1,0 +1,263 @@
+EventId: 13525
+Spots: 42
+Total Images: 119228
+Time:	29.11.2025 04:25:02 to 29.11.2025 13:01:03
+Duration: 08:36:01
+
+(1) - Start
+	SADH1
+		Images:	2129
+		Time:	29.11.2025 05:41:54 until 29.11.2025 07:17:35
+		Duration:	01:35:41
+		Location:	29.38940 47.98415
+
+	AAM1
+		Images:	1143
+		Time:	29.11.2025 05:53:08 until 29.11.2025 07:17:22
+		Duration:	01:24:14
+		Location:	29.38988 47.98368
+
+	ALSH1
+		Images:	1094
+		Time:	29.11.2025 05:35:59 until 29.11.2025 07:19:30
+		Duration:	01:43:31
+		Location:	29.38987 47.98366
+
+	FRN1
+		Images:	4245
+		Time:	29.11.2025 06:23:02 until 29.11.2025 07:10:48
+		Duration:	00:47:46
+		Location:	29.38894 47.98448
+
+	MANB1
+		Images:	805
+		Time:	29.11.2025 06:31:39 until 29.11.2025 07:17:36
+		Duration:	00:45:57
+		Location:	29.38728 47.98465
+
+(2) - 0.5 km
+	SHPA1
+		Images:	1606
+		Time:	29.11.2025 04:44:24 until 29.11.2025 07:55:04
+		Duration:	03:10:40
+		Location:	29.38637 47.97883
+
+	AZF1
+		Images:	3682
+		Time:	29.11.2025 06:08:13 until 29.11.2025 07:44:39
+		Duration:	01:36:26
+		Location:	29.38458 47.97805
+
+(3) - Grand Mosque
+	BUR1
+		Images:	2177
+		Time:	29.11.2025 05:26:24 until 29.11.2025 07:54:37
+		Duration:	02:28:13
+		Location:	29.37942 47.97233
+
+	LAK1
+		Images:	3993
+		Time:	29.11.2025 04:25:02 until 29.11.2025 07:51:44
+		Duration:	03:26:42
+		Location:	29.37845 47.97096
+
+(4) - Old Market
+	MUP1
+		Images:	6500
+		Time:	29.11.2025 06:34:17 until 29.11.2025 08:49:26
+		Duration:	02:15:09
+		Location:	29.37495 47.97469
+
+	MUP1LS2
+		Images:	2472
+		Time:	29.11.2025 06:16:07 until 29.11.2025 08:52:27
+		Duration:	02:36:20
+		Location:	29.37495 47.97469
+
+	MUP1LS1
+		Images:	2485
+		Time:	29.11.2025 06:08:01 until 29.11.2025 10:31:02
+		Duration:	04:23:01
+		Location:	29.37495 47.97469
+
+	YUM1
+		Images:	3546
+		Time:	29.11.2025 06:54:24 until 29.11.2025 07:57:58
+		Duration:	01:03:34
+		Location:	29.37437 47.97245
+
+	PW1
+		Images:	4761
+		Time:	29.11.2025 06:22:28 until 29.11.2025 09:55:54
+		Duration:	03:33:26
+		Location:	29.37542 47.97455
+
+(5) - National Assembly of Kuwait
+	GOR1
+		Images:	5099
+		Time:	29.11.2025 05:38:21 until 29.11.2025 10:34:52
+		Duration:	04:56:31
+		Location:	29.36990 47.96223
+
+	SAQ1
+		Images:	5639
+		Time:	29.11.2025 06:40:55 until 29.11.2025 08:38:20
+		Duration:	01:57:25
+		Location:	29.37023 47.96224
+
+(6) - Kuwait Cultural Center
+	ARP1
+		Images:	5695
+		Time:	29.11.2025 06:04:15 until 29.11.2025 08:21:20
+		Duration:	02:17:05
+		Location:	29.36179 47.95686
+
+	YAS1
+		Images:	9811
+		Time:	29.11.2025 04:43:10 until 29.11.2025 08:12:18
+		Duration:	03:29:08
+		Location:	29.36211 47.95681
+
+(7) - Kuwait Towers
+	MUP2
+		Images:	532
+		Time:	29.11.2025 10:16:39 until 29.11.2025 11:39:28
+		Duration:	01:22:49
+		Location:	29.38120 48.00305
+
+	RJ1LS1
+		Images:	1452
+		Time:	29.11.2025 07:13:55 until 29.11.2025 11:06:05
+		Duration:	03:52:10
+		Location:	29.39092 47.99656
+
+	RJ1
+		Images:	6570
+		Time:	29.11.2025 06:36:57 until 29.11.2025 11:00:54
+		Duration:	04:23:57
+		Location:	29.39092 47.99656
+
+	YUM2
+		Images:	2702
+		Time:	29.11.2025 08:44:04 until 29.11.2025 11:11:03
+		Duration:	02:26:59
+		Location:	29.39106 47.99783
+
+(8) - 200m Before Finish Line
+	BUR2
+		Images:	1733
+		Time:	29.11.2025 07:59:00 until 29.11.2025 10:35:48
+		Duration:	02:36:48
+		Location:	29.39026 47.98353
+
+	LAK2
+		Images:	3550
+		Time:	29.11.2025 08:14:22 until 29.11.2025 12:03:52
+		Duration:	03:49:30
+		Location:	29.39022 47.98343
+
+(9) - Finish
+	PW2
+		Images:	429
+		Time:	29.11.2025 09:59:18 until 29.11.2025 11:38:36
+		Duration:	01:39:18
+		Location:	29.39106 47.98202
+
+	MANB2
+		Images:	914
+		Time:	29.11.2025 07:25:59 until 29.11.2025 11:51:25
+		Duration:	04:25:26
+		Location:	29.39097 47.98176
+
+	ARP2
+		Images:	1540
+		Time:	29.11.2025 09:15:07 until 29.11.2025 11:36:45
+		Duration:	02:21:38
+		Location:	29.39106 47.98202
+
+	SA1
+		Images:	3770
+		Time:	29.11.2025 07:26:44 until 29.11.2025 09:14:25
+		Duration:	01:47:41
+		Location:	29.39106 47.98202
+
+	SA1LS1
+		Images:	1649
+		Time:	29.11.2025 06:14:50 until 29.11.2025 08:18:24
+		Duration:	02:03:34
+		Location:	29.39106 47.98202
+
+	AAM2
+		Images:	8434
+		Time:	29.11.2025 07:23:39 until 29.11.2025 13:01:03
+		Duration:	05:37:24
+		Location:	29.39084 47.98120
+
+	FRN2LS1
+		Images:	3894
+		Time:	29.11.2025 05:32:05 until 29.11.2025 09:02:33
+		Duration:	03:30:28
+		Location:	29.39084 47.98120
+
+	ALSH2
+		Images:	1858
+		Time:	29.11.2025 07:20:45 until 29.11.2025 11:38:36
+		Duration:	04:17:51
+		Location:	29.39084 47.98120
+
+	SADH2
+		Images:	4607
+		Time:	29.11.2025 07:24:12 until 29.11.2025 10:11:52
+		Duration:	02:47:40
+		Location:	29.39084 47.98120
+
+	SHPA2
+		Images:	2480
+		Time:	29.11.2025 08:03:00 until 29.11.2025 12:02:20
+		Duration:	03:59:20
+		Location:	29.39084 47.98120
+
+	AZF2
+		Images:	1456
+		Time:	29.11.2025 07:51:56 until 29.11.2025 11:41:49
+		Duration:	03:49:53
+		Location:	29.38967 47.98078
+
+	YAS2
+		Images:	105
+		Time:	29.11.2025 09:07:47 until 29.11.2025 10:00:32
+		Duration:	00:52:45
+		Location:	29.39049 47.98064
+
+	FRN2
+		Images:	4361
+		Time:	29.11.2025 07:10:48 until 29.11.2025 09:56:30
+		Duration:	02:45:42
+		Location:	29.39084 47.98120
+
+(10) - Impressions / Pano
+	MANB1IMP1
+		Images:	34
+		Time:	29.11.2025 05:38:03 until 29.11.2025 06:04:34
+		Duration:	00:26:31
+		Location:	29.39084 47.98120
+
+	SAQ1IMP1
+		Images:	46
+		Time:	29.11.2025 04:42:56 until 29.11.2025 09:43:08
+		Duration:	05:00:12
+		Location:	29.39084 47.98120
+
+	SA1DRONE1
+		Images:	128
+		Time:	29.11.2025 06:41:57 until 29.11.2025 09:50:42
+		Duration:	03:08:45
+		Location:	29.39084 47.98120
+
+	GOR1IMP1
+		Images:	102
+		Time:	29.11.2025 05:38:21 until 29.11.2025 10:34:52
+		Duration:	04:56:31
+		Location:	29.39084 47.98120
+
+	PANO1

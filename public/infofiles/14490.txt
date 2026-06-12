@@ -1,0 +1,130 @@
+EventId: 14490
+Spots: 18
+Total Images: 53805
+Time:	01.01.0001 23:00:00 to 20.09.2025 18:14:28
+Duration: 739512.19:14:28
+
+(1) - Obstacle 5 Armer
+	MMO1
+		Images:	5833
+		Time:	20.09.2025 07:39:17 until 20.09.2025 12:45:11
+		Duration:	05:05:54
+		Location:	43.96222 12.69846
+
+(2) - Obstacle 11 Log Carry
+	MDV1LS1
+		Images:	775
+		Time:	20.09.2025 07:22:45 until 20.09.2025 13:05:13
+		Duration:	05:42:28
+		Location:	43.96045 12.70581
+
+(3) - Obstacle 12 Tilting Ladder
+	MDV1
+		Images:	1708
+		Time:	20.09.2025 07:10:19 until 20.09.2025 13:03:57
+		Duration:	05:53:38
+		Location:	43.96051 12.70595
+
+(4) - Obstacle 17 Starway
+	LDL1
+		Images:	3428
+		Time:	20.09.2025 09:22:47 until 20.09.2025 13:44:56
+		Duration:	04:22:09
+		Location:	43.96975 12.71987
+
+(5) - Obstacle 18 Sandbag carry
+	MDV2
+		Images:	1397
+		Time:	20.09.2025 14:11:06 until 20.09.2025 17:05:20
+		Duration:	02:54:14
+		Location:	43.97009 12.71892
+
+(6) - Obstacle 19 6" Wall
+	LDL2
+		Images:	1641
+		Time:	20.09.2025 14:01:12 until 20.09.2025 17:12:51
+		Duration:	03:11:39
+		Location:	43.97123 12.71460
+
+(7) - Obstacle 20 Balance walk
+	MMO3
+		Images:	516
+		Time:	20.09.2025 14:03:14 until 20.09.2025 14:17:19
+		Duration:	00:14:05
+		Location:	43.97482 12.71220
+
+(8) - Obstacle 21 Bucket carry
+	MAGA1
+		Images:	4673
+		Time:	20.09.2025 10:01:37 until 20.09.2025 17:37:14
+		Duration:	07:35:37
+		Location:	43.97680 12.70847
+
+(9) - Obstacle 24 Atlas
+	MMO2
+		Images:	2553
+		Time:	20.09.2025 14:43:17 until 20.09.2025 17:41:54
+		Duration:	02:58:37
+		Location:	43.98058 12.70046
+
+(10) - Obstacle 25 Hurdles
+	VHO1
+		Images:	4002
+		Time:	20.09.2025 08:04:31 until 20.09.2025 17:58:14
+		Duration:	09:53:43
+		Location:	43.98193 12.69745
+
+(11) - Obstacle 29 Multirig
+	GIBE1
+		Images:	9362
+		Time:	20.09.2025 09:27:35 until 20.09.2025 18:07:34
+		Duration:	08:39:59
+		Location:	43.97986 12.69618
+
+(12) - Obstacle 31 Rolling Mud
+	GMA1
+		Images:	6031
+		Time:	20.09.2025 08:58:11 until 20.09.2025 18:10:06
+		Duration:	09:11:55
+		Location:	43.97973 12.69720
+
+(13) - Obstacle 34 Firejump
+	DARU1
+		Images:	4049
+		Time:	20.09.2025 10:16:17 until 20.09.2025 18:13:48
+		Duration:	07:57:31
+		Location:	43.97975 12.69686
+
+	DARU1LS1
+		Images:	2947
+		Time:	20.09.2025 09:51:18 until 20.09.2025 18:14:28
+		Duration:	08:23:10
+		Location:	43.97975 12.69686
+
+	RLO1LS1
+		Images:	1574
+		Time:	20.09.2025 10:12:41 until 20.09.2025 18:11:54
+		Duration:	07:59:13
+		Location:	43.97975 12.69686
+
+(14) - Herotent
+	NBE1
+		Images:	2949
+		Time:	20.09.2025 09:38:59 until 20.09.2025 18:14:12
+		Duration:	08:35:13
+		Location:	43.97958 12.69636
+
+(15) - Impressions / Pano
+	MDV1DRONE1
+		Images:	48
+		Time:	01.01.0001 23:00:00 until 20.09.2025 17:48:40
+		Duration:	739512.18:48:40
+		Location:	43.97958 12.69636
+
+(16) - Jumper
+	RLO1
+		Images:	319
+		Time:	20.09.2025 09:37:58 until 20.09.2025 17:03:22
+		Duration:	07:25:24
+		Location:	43.97958 12.69636
+

@@ -1,0 +1,101 @@
+EventId: 14438
+Spots: 14
+Total Images: 36277
+Time:	31.12.2008 19:00:00 to 24.08.2025 14:29:02
+Duration: 6079.19:29:02
+
+(1) - #9 MONKEY BARS
+	SNR1
+		Images:	1847
+		Time:	24.08.2025 07:13:39 until 24.08.2025 13:02:37
+		Duration:	05:48:58
+		Location:	45.27396 -76.78372
+
+	PNR1
+		Images:	2051
+		Time:	24.08.2025 07:14:07 until 24.08.2025 12:51:57
+		Duration:	05:37:50
+		Location:	45.27396 -76.78372
+
+(2) - #13 SANDBAG CARRY
+	CASS1
+		Images:	2206
+		Time:	24.08.2025 07:14:59 until 24.08.2025 13:09:28
+		Duration:	05:54:29
+		Location:	45.27386 -76.78221
+
+	CUW1
+		Images:	2294
+		Time:	24.08.2025 07:14:57 until 24.08.2025 13:09:13
+		Duration:	05:54:16
+		Location:	45.27386 -76.78221
+
+(3) - #14 A-FRAME CARGO
+	ERIC1
+		Images:	3440
+		Time:	23.08.2025 06:40:59 until 24.08.2025 13:14:23
+		Duration:	1.06:33:24
+		Location:	45.27406 -76.78189
+
+(4) - #19 MULTI-RIG
+	WTY1
+		Images:	5088
+		Time:	23.08.2025 07:57:09 until 24.08.2025 13:52:43
+		Duration:	1.05:55:34
+		Location:	45.27540 -76.77465
+
+(5) - #20 DUNK WALL
+	THAT1
+		Images:	6600
+		Time:	24.08.2025 07:19:01 until 24.08.2025 13:52:12
+		Duration:	06:33:11
+		Location:	45.27513 -76.77446
+
+(6) - #24 ATLAS CARRY
+	KENY1
+		Images:	2076
+		Time:	23.08.2025 09:45:04 until 24.08.2025 13:53:45
+		Duration:	1.04:08:41
+		Location:	45.27499 -76.77511
+
+	LHBC1
+		Images:	3110
+		Time:	24.08.2025 07:24:13 until 24.08.2025 14:08:51
+		Duration:	06:44:38
+		Location:	45.27499 -76.77511
+
+(7) - #27 SLIP WALL
+	AOLI1
+		Images:	1945
+		Time:	31.12.2008 19:00:00 until 24.08.2025 14:29:02
+		Duration:	6079.19:29:02
+		Location:	45.27444 -76.78269
+
+(8) - Herotent HERO TENT
+	DMED1
+		Images:	1175
+		Time:	23.08.2025 07:26:41 until 24.08.2025 14:28:44
+		Duration:	1.07:02:03
+		Location:	45.27400 -76.78305
+
+(9) - Impressions / Pano
+	PANO1
+		Images:	22
+		Time:	24.08.2025 13:00:29 until 24.08.2025 14:26:21
+		Duration:	01:25:52
+		Location:	45.27400 -76.78305
+
+(10) - 17.0 km TRIAL RUN
+	SICA1
+		Images:	1140
+		Time:	23.08.2025 06:53:32 until 24.08.2025 11:35:35
+		Duration:	1.04:42:03
+		Location:	45.25820 -76.73734
+
+(11) - 20.0 km TRIAL RUN
+	CBAC1
+		Images:	3283
+		Time:	23.08.2025 07:19:25 until 24.08.2025 11:59:02
+		Duration:	1.04:39:37
+		Location:	45.27191 -76.78066
+

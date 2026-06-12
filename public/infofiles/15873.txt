@@ -1,0 +1,310 @@
+EventId: 15873
+Spots: 49
+Total Images: 183521
+Time:	18.07.2025 19:18:33 to 20.07.2025 17:50:18
+Duration: 1.22:31:45
+
+(1) - Station 1 Skierg
+	JMAD1
+		Images:	2085
+		Time:	19.07.2025 07:25:23 until 19.07.2025 14:59:18
+		Duration:	07:33:55
+		Location:	NULL NULL
+
+	DWDT1
+		Images:	3784
+		Time:	19.07.2025 07:25:41 until 20.07.2025 07:26:25
+		Duration:	1.00:00:44
+		Location:	NULL NULL
+
+	JCA1
+		Images:	10734
+		Time:	19.07.2025 06:57:46 until 20.07.2025 11:31:23
+		Duration:	1.04:33:37
+		Location:	NULL NULL
+
+	ROWA2
+		Images:	3634
+		Time:	19.07.2025 15:21:55 until 19.07.2025 20:17:51
+		Duration:	04:55:56
+		Location:	NULL NULL
+
+	TIG2
+		Images:	3648
+		Time:	19.07.2025 15:20:58 until 19.07.2025 20:17:57
+		Duration:	04:56:59
+		Location:	NULL NULL
+
+	JHI5
+		Images:	211
+		Time:	19.07.2025 14:33:50 until 19.07.2025 15:21:00
+		Duration:	00:47:10
+		Location:	NULL NULL
+
+	TAZ5
+		Images:	507
+		Time:	19.07.2025 15:04:01 until 19.07.2025 15:19:11
+		Duration:	00:15:10
+		Location:	NULL NULL
+
+	KAMA2
+		Images:	7138
+		Time:	19.07.2025 15:29:01 until 19.07.2025 20:16:52
+		Duration:	04:47:51
+		Location:	NULL NULL
+
+(2) - Station 2 Sled Push
+	TIG1
+		Images:	3240
+		Time:	19.07.2025 07:21:30 until 20.07.2025 08:30:53
+		Duration:	1.01:09:23
+		Location:	NULL NULL
+
+	KAMA1
+		Images:	3321
+		Time:	19.07.2025 06:59:02 until 19.07.2025 15:28:41
+		Duration:	08:29:39
+		Location:	NULL NULL
+
+	ROWA1
+		Images:	2907
+		Time:	19.07.2025 06:56:42 until 20.07.2025 07:42:08
+		Duration:	1.00:45:26
+		Location:	NULL NULL
+
+	DAFO2
+		Images:	6992
+		Time:	19.07.2025 15:14:40 until 19.07.2025 20:31:07
+		Duration:	05:16:27
+		Location:	NULL NULL
+
+	MBEL2
+		Images:	953
+		Time:	19.07.2025 15:26:40 until 19.07.2025 20:27:58
+		Duration:	05:01:18
+		Location:	NULL NULL
+
+	PKI2
+		Images:	1342
+		Time:	19.07.2025 15:29:20 until 19.07.2025 20:28:33
+		Duration:	04:59:13
+		Location:	NULL NULL
+
+(3) - Station 3 Sled Pull
+	LDR1
+		Images:	3710
+		Time:	19.07.2025 07:01:04 until 20.07.2025 07:23:12
+		Duration:	1.00:22:08
+		Location:	NULL NULL
+
+	BONI1
+		Images:	11091
+		Time:	19.07.2025 06:56:14 until 19.07.2025 15:30:03
+		Duration:	08:33:49
+		Location:	NULL NULL
+
+	NFEN1
+		Images:	5391
+		Time:	19.07.2025 07:28:05 until 20.07.2025 07:43:19
+		Duration:	1.00:15:14
+		Location:	NULL NULL
+
+	DWDT2
+		Images:	4189
+		Time:	19.07.2025 07:25:41 until 19.07.2025 20:43:53
+		Duration:	13:18:12
+		Location:	NULL NULL
+
+	JCA2
+		Images:	5995
+		Time:	19.07.2025 15:07:43 until 20.07.2025 14:22:15
+		Duration:	23:14:32
+		Location:	NULL NULL
+
+	JMAD2
+		Images:	2196
+		Time:	19.07.2025 15:13:06 until 19.07.2025 20:43:23
+		Duration:	05:30:17
+		Location:	NULL NULL
+
+(4) - Station 5 Rowing
+	LDT1
+		Images:	2801
+		Time:	19.07.2025 07:23:36 until 20.07.2025 08:18:08
+		Duration:	1.00:54:32
+		Location:	NULL NULL
+
+	RBU1
+		Images:	6129
+		Time:	19.07.2025 06:53:28 until 19.07.2025 15:03:31
+		Duration:	08:10:03
+		Location:	NULL NULL
+
+	JHI2
+		Images:	1483
+		Time:	19.07.2025 09:25:00 until 19.07.2025 18:32:06
+		Duration:	09:07:06
+		Location:	NULL NULL
+
+	TAZ2
+		Images:	4009
+		Time:	19.07.2025 08:07:47 until 19.07.2025 18:27:42
+		Duration:	10:19:55
+		Location:	NULL NULL
+
+	DASU2
+		Images:	2819
+		Time:	19.07.2025 15:17:17 until 19.07.2025 21:05:23
+		Duration:	05:48:06
+		Location:	NULL NULL
+
+	SAKE2
+		Images:	6384
+		Time:	19.07.2025 15:08:09 until 19.07.2025 21:12:09
+		Duration:	06:04:00
+		Location:	NULL NULL
+
+(5) - Station 6 Farmers Carry
+	BECK1LS2
+		Images:	5978
+		Time:	19.07.2025 08:03:40 until 19.07.2025 21:29:00
+		Duration:	13:25:20
+		Location:	NULL NULL
+
+	BECK1LS1
+		Images:	2921
+		Time:	19.07.2025 08:41:25 until 19.07.2025 21:12:37
+		Duration:	12:31:12
+		Location:	NULL NULL
+
+(6) - Station 7 Sandbag Lunges
+	SAKE1
+		Images:	4357
+		Time:	19.07.2025 06:55:07 until 20.07.2025 07:42:43
+		Duration:	1.00:47:36
+		Location:	NULL NULL
+
+	DASU1
+		Images:	3702
+		Time:	19.07.2025 06:56:21 until 20.07.2025 07:39:19
+		Duration:	1.00:42:58
+		Location:	NULL NULL
+
+	LDT2
+		Images:	2502
+		Time:	19.07.2025 15:15:13 until 19.07.2025 21:57:12
+		Duration:	06:41:59
+		Location:	NULL NULL
+
+	JHI3
+		Images:	1267
+		Time:	19.07.2025 10:08:00 until 19.07.2025 19:23:44
+		Duration:	09:15:44
+		Location:	NULL NULL
+
+	TAZ3
+		Images:	1869
+		Time:	19.07.2025 10:08:34 until 19.07.2025 19:02:19
+		Duration:	08:53:45
+		Location:	NULL NULL
+
+	RBU2
+		Images:	5129
+		Time:	19.07.2025 15:11:41 until 20.07.2025 07:53:16
+		Duration:	16:41:35
+		Location:	NULL NULL
+
+	BECK2
+		Images:	251
+		Time:	19.07.2025 14:59:55 until 19.07.2025 15:17:42
+		Duration:	00:17:47
+		Location:	NULL NULL
+
+(7) - Station 8 Wall Balls
+	MBEL1
+		Images:	1069
+		Time:	19.07.2025 05:57:31 until 20.07.2025 09:29:53
+		Duration:	1.03:32:22
+		Location:	NULL NULL
+
+	DAFO1
+		Images:	11040
+		Time:	19.07.2025 05:51:10 until 20.07.2025 07:31:15
+		Duration:	1.01:40:05
+		Location:	NULL NULL
+
+	PKI3
+		Images:	2413
+		Time:	19.07.2025 07:38:16 until 19.07.2025 15:24:33
+		Duration:	07:46:17
+		Location:	NULL NULL
+
+	LDR2
+		Images:	6306
+		Time:	19.07.2025 15:21:52 until 19.07.2025 22:05:15
+		Duration:	06:43:23
+		Location:	NULL NULL
+
+	BONI2
+		Images:	8027
+		Time:	19.07.2025 15:34:29 until 19.07.2025 21:47:37
+		Duration:	06:13:08
+		Location:	NULL NULL
+
+	NFEN2
+		Images:	3318
+		Time:	19.07.2025 15:26:34 until 19.07.2025 22:14:07
+		Duration:	06:47:33
+		Location:	NULL NULL
+
+(8) - Finish
+	BYB1
+		Images:	4188
+		Time:	19.07.2025 06:56:40 until 19.07.2025 22:22:00
+		Duration:	15:25:20
+		Location:	NULL NULL
+
+	JHI1LS2
+		Images:	1731
+		Time:	18.07.2025 19:25:02 until 19.07.2025 20:36:34
+		Duration:	1.01:11:32
+		Location:	NULL NULL
+
+	JHI1LS1
+		Images:	820
+		Time:	19.07.2025 08:02:22 until 20.07.2025 07:08:36
+		Duration:	23:06:14
+		Location:	NULL NULL
+
+	JHI4
+		Images:	727
+		Time:	19.07.2025 10:51:59 until 19.07.2025 19:42:50
+		Duration:	08:50:51
+		Location:	NULL NULL
+
+(9) - Medalwall
+	DPA1
+		Images:	7363
+		Time:	19.07.2025 06:53:54 until 19.07.2025 22:24:37
+		Duration:	15:30:43
+		Location:	NULL NULL
+
+	TAZ4
+		Images:	1762
+		Time:	19.07.2025 10:56:15 until 19.07.2025 19:55:46
+		Duration:	08:59:31
+		Location:	NULL NULL
+
+(10) - Impressions
+	JHI1
+		Images:	48
+		Time:	18.07.2025 19:18:33 until 19.07.2025 08:57:54
+		Duration:	13:39:21
+		Location:	NULL NULL
+
+	BECK1
+		Images:	40
+		Time:	19.07.2025 13:45:40 until 20.07.2025 17:50:18
+		Duration:	1.04:04:38
+		Location:	NULL NULL
+

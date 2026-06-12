@@ -1,0 +1,241 @@
+EventId: 13714
+Spots: 35
+Total Images: 50946
+Time:	01.01.0001 23:00:00 to 18.05.2025 14:18:27
+Duration: 739387.15:18:27
+
+(1) - Etapa 1 - Salida
+	S1TGM1
+		Images:	5525
+		Time:	16.05.2025 14:59:57 until 16.05.2025 17:27:50
+		Duration:	02:27:53
+		Location:	42.46562 -2.4763
+
+	S1TGM1LS1
+		Images:	959
+		Time:	16.05.2025 14:59:59 until 16.05.2025 19:02:03
+		Duration:	04:02:04
+		Location:	42.46562 -2.4763
+
+(2) - Etapa 1 - Km 5.6
+	S1PARO1LS1
+		Images:	545
+		Time:	16.05.2025 14:43:29 until 16.05.2025 17:56:26
+		Duration:	03:12:57
+		Location:	42.48732 -2.51349
+
+(3) - Etapa 1 - Km 5.8
+	S1PARO1LS2
+		Images:	551
+		Time:	16.05.2025 14:43:34 until 16.05.2025 17:56:32
+		Duration:	03:12:58
+		Location:	42.48723 -2.5136
+
+(4) - Etapa 1 - Km 5.9
+	S1PARO1
+		Images:	5080
+		Time:	16.05.2025 15:11:05 until 16.05.2025 17:45:48
+		Duration:	02:34:43
+		Location:	42.48723 -2.5136
+
+(5) - Impressions / Pano
+	S1PARO1DRONE1
+		Images:	5
+		Time:	16.05.2025 17:50:31 until 16.05.2025 18:56:48
+		Duration:	01:06:17
+		Location:	42.46562 -2.4763
+
+	PANO1
+		Images:	4
+		Time:	01.01.0001 23:00:00 until 17.05.2025 20:49:51
+		Duration:	739386.21:49:51
+		Location:	42.46562 -2.4763
+
+	S2PARO1DRONE1
+		Images:	5
+		Time:	17.05.2025 10:31:09 until 17.05.2025 11:19:06
+		Duration:	00:47:57
+		Location:	42.29383 -2.54316
+
+	S2MANR1DRONE1
+		Images:	15
+		Time:	17.05.2025 10:24:40 until 17.05.2025 14:03:52
+		Duration:	03:39:12
+		Location:	42.46562 -2.4763
+
+	S3PARO2DRONE1
+		Images:	8
+		Time:	18.05.2025 11:51:35 until 18.05.2025 12:45:00
+		Duration:	00:53:25
+		Location:	42.41760 -2.50504
+
+	S3MANR2DRONE1
+		Images:	4
+		Time:	18.05.2025 10:21:13 until 18.05.2025 13:11:12
+		Duration:	02:49:59
+		Location:	42.41898 -2.50313
+
+(6) - Etapa 1 - Km 19.5
+	S1MANR1
+		Images:	1044
+		Time:	16.05.2025 12:46:33 until 16.05.2025 18:49:53
+		Duration:	06:03:20
+		Location:	42.45202 -2.50992
+
+	S1MANR1LS1
+		Images:	1099
+		Time:	16.05.2025 13:01:38 until 16.05.2025 18:49:39
+		Duration:	05:48:01
+		Location:	42.45202 -2.50992
+
+(7) - Etapa 1 - Km 19.7
+	S1MANR1LS2
+		Images:	894
+		Time:	16.05.2025 15:16:05 until 16.05.2025 17:55:57
+		Duration:	02:39:52
+		Location:	42.45195 -2.51015
+
+(8) - Etapa 2 - Km 18.2
+	S2MANR1
+		Images:	506
+		Time:	17.05.2025 09:19:02 until 17.05.2025 10:28:56
+		Duration:	01:09:54
+		Location:	42.33512 -2.49945
+
+(9) - Etapa 2 - Km 23.6
+	S2TGM1LS1
+		Images:	1521
+		Time:	17.05.2025 09:56:18 until 17.05.2025 11:00:44
+		Duration:	01:04:26
+		Location:	42.30336 -2.53612
+
+(10) - Etapa 2 - Km 23.8
+	S2TGM1LS2
+		Images:	1297
+		Time:	17.05.2025 09:36:28 until 17.05.2025 11:03:49
+		Duration:	01:27:21
+		Location:	42.30255 -2.53874
+
+(11) - Etapa 2 - Km 23.9
+	S2TGM1
+		Images:	2165
+		Time:	17.05.2025 10:21:16 until 17.05.2025 11:07:33
+		Duration:	00:46:17
+		Location:	42.30152 -2.53633
+
+(12) - Etapa 2 - Km 25.3
+	S2PARO1LS1
+		Images:	892
+		Time:	17.05.2025 09:19:32 until 17.05.2025 11:22:10
+		Duration:	02:02:38
+		Location:	42.29423 -2.54396
+
+(13) - Etapa 2 - Km 25.5
+	S2PARO1
+		Images:	4085
+		Time:	17.05.2025 10:26:23 until 17.05.2025 11:20:05
+		Duration:	00:53:42
+		Location:	42.29383 -2.54316
+
+(14) - Etapa 2 - Km 25.7
+	S2PARO1LS2
+		Images:	942
+		Time:	17.05.2025 09:57:37 until 17.05.2025 11:32:57
+		Duration:	01:35:20
+		Location:	42.29383 -2.54316
+
+(15) - Etapa 2 - Km 55.7
+	S2MANR2
+		Images:	513
+		Time:	17.05.2025 11:18:13 until 17.05.2025 15:07:52
+		Duration:	03:49:39
+		Location:	42.33543 -2.47807
+
+(16) - Etapa 2 - Km 69.3
+	S2TGM2
+		Images:	2778
+		Time:	17.05.2025 12:53:49 until 17.05.2025 16:00:36
+		Duration:	03:06:47
+		Location:	42.42130 -2.49564
+
+(17) - Etapa 2 - Km 69.5
+	S2TGM2LS1
+		Images:	666
+		Time:	17.05.2025 12:08:22 until 17.05.2025 16:06:43
+		Duration:	03:58:21
+		Location:	42.42142 -2.49615
+
+(18) - Etapa 2 - Km 69.7
+	S2TGM2LS2
+		Images:	514
+		Time:	17.05.2025 12:36:14 until 17.05.2025 14:46:34
+		Duration:	02:10:20
+		Location:	42.42142 -2.49663
+
+(19) - Etapa 3 - Km 17.5
+	S3MANR1
+		Images:	451
+		Time:	18.05.2025 10:06:25 until 18.05.2025 10:36:50
+		Duration:	00:30:25
+		Location:	42.36599 -2.52626
+
+(20) - Etapa 3 - Km 17.7
+	S3MANR1LS2
+		Images:	760
+		Time:	18.05.2025 09:50:48 until 18.05.2025 10:43:06
+		Duration:	00:52:18
+		Location:	42.36638 -2.52737
+
+	S3MANR1LS1
+		Images:	696
+		Time:	18.05.2025 10:05:18 until 18.05.2025 10:43:06
+		Duration:	00:37:48
+		Location:	42.36638 -2.52737
+
+(21) - Etapa 3 - Km 19.1
+	S3PARO1LS1
+		Images:	1040
+		Time:	18.05.2025 09:35:55 until 18.05.2025 10:56:48
+		Duration:	01:20:53
+		Location:	42.36002 -2.54525
+
+(22) - Etapa 3 - Km 19.3
+	S3PARO1
+		Images:	3429
+		Time:	18.05.2025 10:11:58 until 18.05.2025 10:51:28
+		Duration:	00:39:30
+		Location:	42.36002 -2.54525
+
+	S3PARO1LS2
+		Images:	988
+		Time:	18.05.2025 10:02:10 until 18.05.2025 10:54:48
+		Duration:	00:52:38
+		Location:	42.36002 -2.54525
+
+(23) - Etapa 3 - Km 42
+	S3PARO2
+		Images:	4101
+		Time:	18.05.2025 11:35:23 until 18.05.2025 13:49:19
+		Duration:	02:13:56
+		Location:	42.41760 -2.50504
+
+(24) - Etapa 3 - Km 42.5
+	S3MANR2
+		Images:	2318
+		Time:	18.05.2025 11:33:13 until 18.05.2025 13:50:25
+		Duration:	02:17:12
+		Location:	42.41898 -2.50313
+
+(25) - Etapa 3 - Meta
+	S3TGM1
+		Images:	5083
+		Time:	18.05.2025 08:53:36 until 18.05.2025 14:18:27
+		Duration:	05:24:51
+		Location:	42.45354 -2.45574
+
+	S3TGM1LS1
+		Images:	463
+		Time:	18.05.2025 11:33:10 until 18.05.2025 14:12:56
+		Duration:	02:39:46
+		Location:	42.45354 -2.45574
+

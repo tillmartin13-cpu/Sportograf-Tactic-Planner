@@ -1,0 +1,152 @@
+EventId: 14751
+Spots: 23
+Total Images: 70605
+Time:	24.05.2025 09:37:45 to 25.05.2025 14:55:47
+Duration: 1.05:18:02
+
+(1) - Start
+	NWO1
+		Images:	572
+		Time:	24.05.2025 10:12:02 until 25.05.2025 12:56:24
+		Duration:	1.02:44:22
+		Location:	52.37269 4.52755
+
+(2) - Slack Line
+	FAH1
+		Images:	3879
+		Time:	24.05.2025 09:58:27 until 25.05.2025 14:17:06
+		Duration:	1.04:18:39
+		Location:	52.37977 4.52861
+
+(3) - Chain Carry
+	MW1
+		Images:	5882
+		Time:	24.05.2025 09:40:22 until 25.05.2025 13:33:10
+		Duration:	1.03:52:48
+		Location:	52.38932 4.54072
+
+	MW1LS1
+		Images:	922
+		Time:	25.05.2025 10:34:54 until 25.05.2025 13:33:08
+		Duration:	02:58:14
+		Location:	52.38932 4.54072
+
+(4) - Cargo Net Out
+	EVI1
+		Images:	918
+		Time:	24.05.2025 09:37:45 until 25.05.2025 10:46:11
+		Duration:	1.01:08:26
+		Location:	52.38268 4.54856
+
+(5) - Slip Wall
+	OT1
+		Images:	12280
+		Time:	25.05.2025 09:52:18 until 25.05.2025 14:28:42
+		Duration:	04:36:24
+		Location:	52.37463 4.52661
+
+	NWO2
+		Images:	182
+		Time:	25.05.2025 11:55:55 until 25.05.2025 12:04:53
+		Duration:	00:08:58
+		Location:	52.37463 4.52661
+
+	NWO2LS1
+		Images:	417
+		Time:	25.05.2025 12:15:11 until 25.05.2025 13:22:10
+		Duration:	01:06:59
+		Location:	52.37463 4.52661
+
+	NWO2LS2
+		Images:	99
+		Time:	25.05.2025 12:20:07 until 25.05.2025 12:57:35
+		Duration:	00:37:28
+		Location:	52.37463 4.52661
+
+(6) - Wall
+	NWO1LS1
+		Images:	1853
+		Time:	25.05.2025 11:09:05 until 25.05.2025 11:51:38
+		Duration:	00:42:33
+		Location:	52.37269 4.52755
+
+	NWO1LS2
+		Images:	1596
+		Time:	25.05.2025 11:13:58 until 25.05.2025 11:52:04
+		Duration:	00:38:06
+		Location:	52.37269 4.52755
+
+(7) - Multirig
+	KFK1
+		Images:	9944
+		Time:	25.05.2025 09:29:04 until 25.05.2025 14:54:30
+		Duration:	05:25:26
+		Location:	52.37372 4.52391
+
+	KFK1LS1
+		Images:	1837
+		Time:	25.05.2025 09:08:03 until 25.05.2025 14:52:11
+		Duration:	05:44:08
+		Location:	52.37372 4.52391
+
+(8) - Bucket Carry
+	MBEN1
+		Images:	8534
+		Time:	24.05.2025 16:14:10 until 25.05.2025 14:17:13
+		Duration:	22:03:03
+		Location:	52.37322 4.52315
+
+	MBEN1LS1
+		Images:	2378
+		Time:	25.05.2025 09:39:47 until 25.05.2025 14:19:16
+		Duration:	04:39:29
+		Location:	52.37322 4.52315
+
+	MBEN1LS2
+		Images:	2445
+		Time:	25.05.2025 09:57:51 until 25.05.2025 14:18:40
+		Duration:	04:20:49
+		Location:	52.37322 4.52315
+
+(9) - Atlas Carry
+	EVI2
+		Images:	921
+		Time:	25.05.2025 10:46:58 until 25.05.2025 14:27:24
+		Duration:	03:40:26
+		Location:	52.37298 4.52341
+
+(10) - A-frame
+	SIL1
+		Images:	9304
+		Time:	25.05.2025 09:32:58 until 25.05.2025 14:30:19
+		Duration:	04:57:21
+		Location:	52.37291 4.52517
+
+(11) - Impressions / Pano
+	SIL1DRONE1
+		Images:	50
+		Time:	25.05.2025 09:07:56 until 25.05.2025 13:14:52
+		Duration:	04:06:56
+		Location:	52.37291 4.52517
+
+	PANO1
+(12) - Firejump
+	RVAM1
+		Images:	2489
+		Time:	25.05.2025 09:07:09 until 25.05.2025 14:55:47
+		Duration:	05:48:38
+		Location:	52.37270 4.52575
+
+	TOG1LS1
+		Images:	1929
+		Time:	25.05.2025 09:59:29 until 25.05.2025 14:30:48
+		Duration:	04:31:19
+		Location:	52.37270 4.52575
+
+(13) - Herotent
+	TOG1
+		Images:	2161
+		Time:	25.05.2025 09:44:13 until 25.05.2025 14:36:23
+		Duration:	04:52:10
+		Location:	52.37270 4.52602
+

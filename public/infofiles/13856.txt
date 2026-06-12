@@ -1,0 +1,89 @@
+EventId: 13856
+Spots: 13
+Total Images: 41073
+Time:	07.06.2025 05:59:52 to 07.06.2025 18:51:17
+Duration: 12:51:25
+
+(1) - Start
+	DIG1
+		Images:	3146
+		Time:	07.06.2025 05:59:52 until 07.06.2025 07:39:02
+		Duration:	01:39:10
+		Location:	47.69769 6.63739
+
+(2) - 182.0 km 94 km
+	DIG2
+		Images:	6435
+		Time:	07.06.2025 08:37:04 until 07.06.2025 18:45:14
+		Duration:	10:08:10
+		Location:	47.77507 6.77090
+
+(3) - none
+	DIG2DRONE1
+		Images:	52
+		Time:	07.06.2025 06:28:42 until 07.06.2025 16:05:04
+		Duration:	09:36:22
+		Location:	NULL NULL
+
+	DIG2LS1
+		Images:	5837
+		Time:	07.06.2025 10:28:36 until 07.06.2025 18:01:12
+		Duration:	07:32:36
+		Location:	47.77507 6.77090
+
+(4) - 87.3 km 94
+	HS1
+		Images:	2118
+		Time:	07.06.2025 09:35:38 until 07.06.2025 13:05:09
+		Duration:	03:29:31
+		Location:	47.90692 7.10424
+
+(5) - 182.0 km 94
+	JNK1
+		Images:	1690
+		Time:	07.06.2025 09:27:21 until 07.06.2025 15:38:19
+		Duration:	06:10:58
+		Location:	47.94820 6.96162
+
+(6) - 95.0 km
+	LBL1
+		Images:	3962
+		Time:	07.06.2025 09:07:15 until 07.06.2025 13:15:17
+		Duration:	04:08:02
+		Location:	47.92474 7.01727
+
+(7) - 2.5 km
+	MAWI1
+		Images:	1550
+		Time:	07.06.2025 06:34:37 until 07.06.2025 10:42:55
+		Duration:	04:08:18
+		Location:	47.70285 6.66913
+
+	MAWI1LS1
+		Images:	1327
+		Time:	07.06.2025 06:42:01 until 07.06.2025 07:45:25
+		Duration:	01:03:24
+		Location:	47.70285 6.66913
+
+(8) - Finish
+	MAWI2
+		Images:	5163
+		Time:	07.06.2025 10:45:05 until 07.06.2025 18:51:17
+		Duration:	08:06:12
+		Location:	47.77198 6.77837
+
+	MAWI2LS1
+		Images:	709
+		Time:	07.06.2025 10:38:47 until 07.06.2025 12:42:28
+		Duration:	02:03:41
+		Location:	47.77198 6.77837
+
+(9) - 153.0 km 65 km
+	NO1
+		Images:	9084
+		Time:	07.06.2025 09:37:59 until 07.06.2025 17:50:52
+		Duration:	08:12:53
+		Location:	47.79732 6.83916
+
+(10) - Impressions / Pano
+	PANO1

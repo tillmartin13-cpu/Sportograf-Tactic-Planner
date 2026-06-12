@@ -1,0 +1,89 @@
+EventId: 13430
+Spots: 13
+Total Images: 40695
+Time:	12.10.2025 10:46:53 to 12.10.2025 14:23:45
+Duration: 03:36:52
+
+(1) - Start
+	EBO1
+		Images:	5686
+		Time:	12.10.2025 10:46:53 until 12.10.2025 14:11:27
+		Duration:	03:24:34
+		Location:	52.51953 13.29545
+
+(2) - 1.0 km
+	AEPB1
+		Images:	1483
+		Time:	12.10.2025 12:03:32 until 12.10.2025 12:15:43
+		Duration:	00:12:11
+		Location:	52.51664 13.30880
+
+(3) - 2.6 km
+	CRIC1
+		Images:	2751
+		Time:	12.10.2025 11:24:51 until 12.10.2025 12:29:01
+		Duration:	01:04:10
+		Location:	52.51328 13.33207
+
+	CRIC1LS2
+		Images:	610
+		Time:	12.10.2025 12:09:26 until 12.10.2025 12:29:48
+		Duration:	00:20:22
+		Location:	52.51328 13.33207
+
+	CRIC1LS1
+		Images:	612
+		Time:	12.10.2025 12:09:28 until 12.10.2025 12:29:50
+		Duration:	00:20:22
+		Location:	52.51328 13.33207
+
+(4) - 3.9 km
+	MOIK1
+		Images:	1507
+		Time:	12.10.2025 10:58:18 until 12.10.2025 12:41:10
+		Duration:	01:42:52
+		Location:	52.51308 13.35005
+
+(5) - 5.7 km
+	MPU1
+		Images:	3235
+		Time:	12.10.2025 11:54:07 until 12.10.2025 13:39:23
+		Duration:	01:45:16
+		Location:	52.50566 13.33982
+
+	JOPE1
+		Images:	4783
+		Time:	12.10.2025 12:01:28 until 12.10.2025 13:32:05
+		Duration:	01:30:37
+		Location:	52.50563 13.33989
+
+(6) - 6.2 km
+	BOC1
+		Images:	2597
+		Time:	12.10.2025 11:01:55 until 12.10.2025 13:33:54
+		Duration:	02:31:59
+		Location:	52.50567 13.33420
+
+(7) - 8.6 km
+	SZI1
+		Images:	9890
+		Time:	12.10.2025 11:05:25 until 12.10.2025 14:23:45
+		Duration:	03:18:20
+		Location:	52.50702 13.29895
+
+(8) - 9.4 km
+	AEPB2
+		Images:	6892
+		Time:	12.10.2025 12:30:33 until 12.10.2025 14:04:42
+		Duration:	01:34:09
+		Location:	52.51600 13.29681
+
+(9) - Finish
+	CRIC2
+		Images:	649
+		Time:	12.10.2025 13:18:23 until 12.10.2025 14:10:31
+		Duration:	00:52:08
+		Location:	52.51953 13.29545
+
+(10) - Impressions / Pano
+	PANO1

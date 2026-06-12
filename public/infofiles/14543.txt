@@ -1,0 +1,266 @@
+EventId: 14543
+Spots: 40
+Total Images: 65638
+Time:	15.03.2025 04:44:34 to 15.03.2025 16:42:34
+Duration: 11:58:00
+
+(1) - Venue
+	BIC1
+		Images:	273
+		Time:	15.03.2025 05:55:58 until 15.03.2025 06:34:14
+		Duration:	00:38:16
+		Location:	NULL NULL
+
+	HTT3
+		Images:	969
+		Time:	15.03.2025 10:23:14 until 15.03.2025 15:48:33
+		Duration:	05:25:19
+		Location:	NULL NULL
+
+(2) - KIDS - Finish
+	BIC2
+		Images:	1710
+		Time:	15.03.2025 07:18:22 until 15.03.2025 12:20:28
+		Duration:	05:02:06
+		Location:	NULL NULL
+
+(3) - Herotent
+	BXC1
+		Images:	1530
+		Time:	15.03.2025 07:47:16 until 15.03.2025 16:35:59
+		Duration:	08:48:43
+		Location:	NULL NULL
+
+(4) - Obstacle 5 Monkey Bars
+	DLO1
+		Images:	1081
+		Time:	15.03.2025 05:48:16 until 15.03.2025 07:30:02
+		Duration:	01:41:46
+		Location:	NULL NULL
+
+(5) - KIDS - Rope Climb
+	DLO2
+		Images:	1518
+		Time:	15.03.2025 08:10:59 until 15.03.2025 10:21:17
+		Duration:	02:10:18
+		Location:	NULL NULL
+
+(6) - Obstacle 26 Z-Wall
+	DLO3
+		Images:	1520
+		Time:	15.03.2025 10:44:14 until 15.03.2025 15:05:16
+		Duration:	04:21:02
+		Location:	NULL NULL
+
+(7) - Start Ultra-Beast
+	HTT1
+		Images:	1094
+		Time:	15.03.2025 04:44:34 until 15.03.2025 06:52:20
+		Duration:	02:07:46
+		Location:	NULL NULL
+
+(8) - KIDS - Tire Jump
+	HTT2
+		Images:	4858
+		Time:	15.03.2025 06:47:10 until 15.03.2025 10:17:36
+		Duration:	03:30:26
+		Location:	NULL NULL
+
+(9) - Obstacle 5 KIDS-O.U.T
+	HTT2LS2
+		Images:	5286
+		Time:	15.03.2025 07:20:49 until 15.03.2025 14:02:29
+		Duration:	06:41:40
+		Location:	NULL NULL
+
+(10) - Obstacle 12 KIDS-Sandbag Carry
+	HTT2LS1
+		Images:	385
+		Time:	15.03.2025 07:36:37 until 15.03.2025 10:31:25
+		Duration:	02:54:48
+		Location:	NULL NULL
+
+(11) - Obstacle 23 Barbed Wire Crawl
+	LVM1
+		Images:	4944
+		Time:	15.03.2025 06:26:51 until 15.03.2025 14:58:52
+		Duration:	08:32:01
+		Location:	NULL NULL
+
+(12) - Impressions / Pano
+	LVM1DRONE1
+		Images:	5
+		Time:	15.03.2025 05:52:43 until 15.03.2025 11:15:14
+		Duration:	05:22:31
+		Location:	NULL NULL
+
+	PANO1
+(13) - 6.0 km Yanchao Moon World
+	NNG1
+		Images:	819
+		Time:	15.03.2025 05:44:54 until 15.03.2025 08:24:11
+		Duration:	02:39:17
+		Location:	NULL NULL
+
+	NNG1LS1
+		Images:	173
+		Time:	15.03.2025 06:11:31 until 15.03.2025 08:11:14
+		Duration:	01:59:43
+		Location:	NULL NULL
+
+	NNG1LS2
+		Images:	343
+		Time:	15.03.2025 05:43:24 until 15.03.2025 08:19:32
+		Duration:	02:36:08
+		Location:	NULL NULL
+
+(14) - Finish
+	NNG2
+		Images:	1472
+		Time:	15.03.2025 08:47:11 until 15.03.2025 16:28:45
+		Duration:	07:41:34
+		Location:	NULL NULL
+
+	NNG2LS1
+		Images:	270
+		Time:	15.03.2025 09:00:21 until 15.03.2025 16:42:34
+		Duration:	07:42:13
+		Location:	NULL NULL
+
+	NNG2LS2
+		Images:	361
+		Time:	15.03.2025 09:11:20 until 15.03.2025 15:24:34
+		Duration:	06:13:14
+		Location:	NULL NULL
+
+(15) - Obstacle 29 A-Frame Cargo
+	NTA1
+		Images:	2290
+		Time:	15.03.2025 06:42:08 until 15.03.2025 11:28:29
+		Duration:	04:46:21
+		Location:	NULL NULL
+
+	NTT3
+		Images:	3291
+		Time:	15.03.2025 11:12:06 until 15.03.2025 16:25:19
+		Duration:	05:13:13
+		Location:	NULL NULL
+
+	NTT3LS1
+		Images:	126
+		Time:	15.03.2025 10:48:09 until 15.03.2025 16:25:25
+		Duration:	05:37:16
+		Location:	NULL NULL
+
+	NTT3LS2
+		Images:	197
+		Time:	15.03.2025 11:03:03 until 15.03.2025 16:24:14
+		Duration:	05:21:11
+		Location:	NULL NULL
+
+(16) - Obstacle 3 Sand bag Carry
+	NTA1LS2
+		Images:	2365
+		Time:	15.03.2025 08:13:21 until 15.03.2025 10:12:55
+		Duration:	01:59:34
+		Location:	NULL NULL
+
+	NTA1LS1
+		Images:	314
+		Time:	15.03.2025 06:26:14 until 15.03.2025 11:38:43
+		Duration:	05:12:29
+		Location:	NULL NULL
+
+(17) - Obstacle 28 Plate Drag
+	NTA2
+		Images:	793
+		Time:	15.03.2025 12:22:04 until 15.03.2025 15:59:59
+		Duration:	03:37:55
+		Location:	NULL NULL
+
+(18) - Obstacle 1
+	NTA2LS1
+		Images:	185
+		Time:	15.03.2025 12:05:02 until 15.03.2025 15:31:10
+		Duration:	03:26:08
+		Location:	NULL NULL
+
+	NTA2LS2
+		Images:	2402
+		Time:	15.03.2025 11:18:38 until 15.03.2025 14:13:21
+		Duration:	02:54:43
+		Location:	NULL NULL
+
+(19) - Start
+	NTT1
+		Images:	180
+		Time:	15.03.2025 05:44:09 until 15.03.2025 06:30:10
+		Duration:	00:46:01
+		Location:	NULL NULL
+
+(20) - KIDS - A-Frame Cargo
+	NTT2
+		Images:	3515
+		Time:	15.03.2025 06:02:11 until 15.03.2025 10:38:47
+		Duration:	04:36:36
+		Location:	NULL NULL
+
+(21) - Obstacle 4 KIDS Balance Beam
+	NTT2LS1
+		Images:	4000
+		Time:	15.03.2025 07:25:54 until 15.03.2025 08:57:11
+		Duration:	01:31:17
+		Location:	NULL NULL
+
+	NTT2LS2
+		Images:	3214
+		Time:	15.03.2025 07:29:58 until 15.03.2025 10:17:16
+		Duration:	02:47:18
+		Location:	NULL NULL
+
+(22) - Obstacle 2 Verticle Cargo
+	TDB1
+		Images:	820
+		Time:	15.03.2025 05:36:31 until 15.03.2025 07:10:38
+		Duration:	01:34:07
+		Location:	NULL NULL
+
+(23) - KIDS - Caterpillar Crawl
+	TDB2
+		Images:	6012
+		Time:	15.03.2025 07:28:43 until 15.03.2025 10:20:48
+		Duration:	02:52:05
+		Location:	NULL NULL
+
+	TDB2LS1
+		Images:	5077
+		Time:	15.03.2025 06:24:05 until 15.03.2025 09:23:13
+		Duration:	02:59:08
+		Location:	NULL NULL
+
+(24) - Obstacle 27 Bucket Carry
+	TDB3
+		Images:	483
+		Time:	15.03.2025 11:59:05 until 15.03.2025 16:15:42
+		Duration:	04:16:37
+		Location:	NULL NULL
+
+	TDB3LS1
+		Images:	258
+		Time:	15.03.2025 10:23:49 until 15.03.2025 15:17:12
+		Duration:	04:53:23
+		Location:	NULL NULL
+
+	TDB3LS2
+		Images:	163
+		Time:	15.03.2025 10:35:25 until 15.03.2025 16:23:40
+		Duration:	05:48:15
+		Location:	NULL NULL
+
+(25) - Obstacle 24 Multi Rig
+	TNA1
+		Images:	1342
+		Time:	15.03.2025 06:28:53 until 15.03.2025 15:53:18
+		Duration:	09:24:25
+		Location:	NULL NULL
+

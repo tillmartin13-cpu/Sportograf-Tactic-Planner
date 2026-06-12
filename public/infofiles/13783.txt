@@ -1,0 +1,81 @@
+EventId: 13783
+Spots: 12
+Total Images: 135410
+Time:	14.06.2025 09:37:29 to 14.06.2025 18:29:13
+Duration: 08:51:44
+
+(1) - 1.0 km
+	JOM1
+		Images:	9624
+		Time:	14.06.2025 09:44:32 until 14.06.2025 12:50:41
+		Duration:	03:06:09
+		Location:	61.13925 10.51239
+
+(2) - 3.0 km
+	AWEE1
+		Images:	7061
+		Time:	14.06.2025 10:07:08 until 14.06.2025 12:58:34
+		Duration:	02:51:26
+		Location:	61.13914 10.52773
+
+(3) - 46.0 km
+	BEG1
+		Images:	9406
+		Time:	14.06.2025 09:38:44 until 14.06.2025 15:54:40
+		Duration:	06:15:56
+		Location:	61.13840 10.58502
+
+	MAKO1
+		Images:	8511
+		Time:	14.06.2025 10:47:34 until 14.06.2025 15:57:14
+		Duration:	05:09:40
+		Location:	61.14150 10.59332
+
+(4) - 49.0 km
+	FJO1
+		Images:	65404
+		Time:	14.06.2025 09:51:44 until 14.06.2025 16:18:11
+		Duration:	06:26:27
+		Location:	61.13250 10.58800
+
+(5) - 58.0 km
+	SMEE1
+		Images:	8621
+		Time:	14.06.2025 09:37:29 until 14.06.2025 18:29:13
+		Duration:	08:51:44
+		Location:	61.12152 10.48174
+
+(6) - 59.0 km
+	AWEE2
+		Images:	4863
+		Time:	14.06.2025 13:29:32 until 14.06.2025 17:00:44
+		Duration:	03:31:12
+		Location:	61.12280 10.47588
+
+(7) - Finish
+	AWIL1
+		Images:	9073
+		Time:	14.06.2025 10:24:37 until 14.06.2025 18:09:48
+		Duration:	07:45:11
+		Location:	61.12305 10.47352
+
+	BEG2
+		Images:	203
+		Time:	14.06.2025 16:54:01 until 14.06.2025 17:23:40
+		Duration:	00:29:39
+		Location:	61.12305 10.47352
+
+	JOM2
+		Images:	7370
+		Time:	14.06.2025 13:30:04 until 14.06.2025 15:59:48
+		Duration:	02:29:44
+		Location:	61.12305 10.47352
+
+	JOM2LS1
+		Images:	5274
+		Time:	14.06.2025 13:28:25 until 14.06.2025 18:11:06
+		Duration:	04:42:41
+		Location:	61.12305 10.47352
+
+(8) - Impressions / Pano
+	PANO1

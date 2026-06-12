@@ -1,0 +1,129 @@
+EventId: 13692
+Spots: 19
+Total Images: 61166
+Time:	21.06.2024 11:29:46 to 21.06.2025 18:20:29
+Duration: 365.06:50:43
+
+(1) - Start
+	UL1
+		Images:	1231
+		Time:	21.06.2025 11:41:38 until 21.06.2025 14:33:35
+		Duration:	02:51:57
+		Location:	50.07845 14.38835
+
+	PU1
+		Images:	386
+		Time:	21.06.2025 11:56:00 until 21.06.2025 14:33:25
+		Duration:	02:37:25
+		Location:	50.07845 14.38835
+
+(2) - Impressions / Pano
+	PU1IMP1
+		Images:	19
+		Time:	21.06.2025 10:30:24 until 21.06.2025 11:05:14
+		Duration:	00:34:50
+		Location:	50.07845 14.38835
+
+	ROH1IMP1
+		Images:	13
+		Time:	21.06.2025 16:38:13 until 21.06.2025 16:38:55
+		Duration:	00:00:42
+		Location:	50.08510 14.12886
+
+	ROH1DRONE1
+		Images:	12
+		Time:	21.06.2025 16:46:07 until 21.06.2025 16:47:00
+		Duration:	00:00:53
+		Location:	50.08510 14.12886
+
+(3) - Unhošť
+	ROH1
+		Images:	6968
+		Time:	21.06.2025 11:36:35 until 21.06.2025 15:32:59
+		Duration:	03:56:24
+		Location:	50.08510 14.12886
+
+	ROH1LS1
+		Images:	4052
+		Time:	21.06.2025 11:26:03 until 21.06.2025 15:33:28
+		Duration:	04:07:25
+		Location:	50.08510 14.12886
+
+(4) - Malé Kyšice
+	THS1LS2
+		Images:	1835
+		Time:	21.06.2025 11:41:22 until 21.06.2025 15:46:45
+		Duration:	04:05:23
+		Location:	50.06666 14.07589
+
+	THS1LS1
+		Images:	2137
+		Time:	21.06.2025 11:54:15 until 21.06.2025 15:46:28
+		Duration:	03:52:13
+		Location:	50.06666 14.07589
+
+	THS1
+		Images:	10609
+		Time:	21.06.2025 12:39:44 until 21.06.2025 15:45:02
+		Duration:	03:05:18
+		Location:	50.06666 14.07589
+
+(5) - Běleč
+	JEM1
+		Images:	4117
+		Time:	21.06.2025 14:05:33 until 21.06.2025 17:15:50
+		Duration:	03:10:17
+		Location:	50.05349 13.99413
+
+	JEM1LS1
+		Images:	1654
+		Time:	21.06.2024 11:29:46 until 21.06.2024 17:16:34
+		Duration:	05:46:48
+		Location:	50.05349 13.99413
+
+(6) - Chyňava
+	JOLA1
+		Images:	3440
+		Time:	21.06.2025 11:37:02 until 21.06.2025 17:14:52
+		Duration:	05:37:50
+		Location:	50.03303 14.06823
+
+(7) - Břve
+	LEKL1
+		Images:	4217
+		Time:	21.06.2025 10:42:11 until 21.06.2025 17:39:22
+		Duration:	06:57:11
+		Location:	50.06963 14.24276
+
+(8) - Sobín
+	DS1
+		Images:	9218
+		Time:	21.06.2025 13:32:06 until 21.06.2025 17:51:54
+		Duration:	04:19:48
+		Location:	50.06905 14.25305
+
+(9) - Finish
+	UL2
+		Images:	4408
+		Time:	21.06.2025 15:15:52 until 21.06.2025 18:12:57
+		Duration:	02:57:05
+		Location:	50.07845 14.38835
+
+	UL2LS1
+		Images:	2498
+		Time:	21.06.2025 15:07:11 until 21.06.2025 18:20:29
+		Duration:	03:13:18
+		Location:	50.07845 14.38835
+
+	UL2LS2
+		Images:	2485
+		Time:	21.06.2025 15:05:41 until 21.06.2025 18:20:20
+		Duration:	03:14:39
+		Location:	50.07845 14.38835
+
+	PU2
+		Images:	1867
+		Time:	21.06.2025 15:16:01 until 21.06.2025 18:17:16
+		Duration:	03:01:15
+		Location:	50.07845 14.38835
+

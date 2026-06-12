@@ -1,0 +1,138 @@
+EventId: 14414
+Spots: 21
+Total Images: 125730
+Time:	17.05.2025 08:40:03 to 19.05.2025 14:15:49
+Duration: 2.05:35:46
+
+(1) - Schlammbecken
+	DEK1
+		Images:	4756
+		Time:	17.05.2025 08:40:03 until 18.05.2025 16:33:15
+		Duration:	1.07:53:12
+		Location:	52.47690 13.52455
+
+	MPU1
+		Images:	3597
+		Time:	18.05.2025 09:44:26 until 18.05.2025 16:33:17
+		Duration:	06:48:51
+		Location:	52.47690 13.52455
+
+(2) - Schaumbecken
+	EBO1
+		Images:	10939
+		Time:	18.05.2025 09:45:48 until 18.05.2025 16:36:50
+		Duration:	06:51:02
+		Location:	52.47609 13.52466
+
+(3) - Kletterwand
+	GEPA1
+		Images:	14931
+		Time:	18.05.2025 09:50:28 until 18.05.2025 16:44:51
+		Duration:	06:54:23
+		Location:	52.47724 13.52567
+
+	IL1
+		Images:	10013
+		Time:	18.05.2025 09:44:20 until 18.05.2025 16:44:51
+		Duration:	07:00:31
+		Location:	52.47724 13.52567
+
+(4) - Piratenplanke
+	CHWI1
+		Images:	10757
+		Time:	17.05.2025 09:28:22 until 18.05.2025 16:42:09
+		Duration:	1.07:13:47
+		Location:	52.47636 13.52798
+
+(5) - Pyramide
+	AEPB1
+		Images:	6217
+		Time:	17.05.2025 12:53:37 until 18.05.2025 16:56:28
+		Duration:	1.04:02:51
+		Location:	52.47483 13.52919
+
+(6) - Krabbelstrecke
+	SLOM1
+		Images:	5578
+		Time:	17.05.2025 09:02:29 until 18.05.2025 17:05:00
+		Duration:	1.08:02:31
+		Location:	52.47361 13.52530
+
+	JUSE1
+		Images:	6158
+		Time:	17.05.2025 09:16:55 until 18.05.2025 17:04:03
+		Duration:	1.07:47:08
+		Location:	52.47361 13.52530
+
+(7) - Gitterbecken
+	DABT1
+		Images:	6430
+		Time:	17.05.2025 09:47:08 until 18.05.2025 17:09:27
+		Duration:	1.07:22:19
+		Location:	52.47454 13.52497
+
+	MEM1
+		Images:	3583
+		Time:	18.05.2025 09:04:21 until 18.05.2025 16:06:02
+		Duration:	07:01:41
+		Location:	52.47454 13.52497
+
+(8) - Seiltanz
+	AP1
+		Images:	11427
+		Time:	17.05.2025 08:48:37 until 18.05.2025 17:01:51
+		Duration:	1.08:13:14
+		Location:	52.47324 13.52697
+
+(9) - Finish
+	EQ1
+		Images:	17904
+		Time:	18.05.2025 09:44:06 until 18.05.2025 17:40:58
+		Duration:	07:56:52
+		Location:	52.47427 13.52839
+
+	EQ1LS1
+		Images:	1323
+		Time:	18.05.2025 09:19:36 until 18.05.2025 17:36:52
+		Duration:	08:17:16
+		Location:	52.47427 13.52839
+
+	KHR1LS1
+		Images:	1116
+		Time:	18.05.2025 09:30:14 until 18.05.2025 16:44:07
+		Duration:	07:13:53
+		Location:	52.47427 13.52839
+
+	AGA1LS1
+		Images:	6099
+		Time:	18.05.2025 10:18:22 until 18.05.2025 17:42:19
+		Duration:	07:23:57
+		Location:	52.47427 13.52839
+
+(10) - Herotent
+	KHR1
+		Images:	1956
+		Time:	17.05.2025 10:47:16 until 18.05.2025 17:37:49
+		Duration:	1.06:50:33
+		Location:	52.47427 13.52839
+
+	DDT1
+		Images:	2653
+		Time:	17.05.2025 09:40:39 until 18.05.2025 17:38:57
+		Duration:	1.07:58:18
+		Location:	52.47427 13.52839
+
+(11) - Impressions / Pano
+	AGA1
+		Images:	226
+		Time:	18.05.2025 11:01:55 until 18.05.2025 11:51:32
+		Duration:	00:49:37
+		Location:	52.47427 13.52839
+
+	AGA1DRONE1
+		Images:	66
+		Time:	19.05.2025 13:53:32 until 19.05.2025 14:15:49
+		Duration:	00:22:17
+		Location:	52.47427 13.52839
+
+	PANO1

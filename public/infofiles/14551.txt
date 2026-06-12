@@ -1,0 +1,131 @@
+EventId: 14551
+Spots: 19
+Total Images: 75785
+Time:	16.05.2025 17:03:49 to 18.05.2025 19:46:51
+Duration: 2.02:43:02
+
+(1) - Obstacle 1 Randoms
+	MCAR1
+		Images:	1025
+		Time:	17.05.2025 07:13:15 until 17.05.2025 13:09:00
+		Duration:	05:55:45
+		Location:	34.23531 -116.89056
+
+	MCAR1IMP1
+		Images:	32
+		Time:	17.05.2025 21:01:27 until 18.05.2025 19:46:51
+		Duration:	22:45:24
+		Location:	34.23531 -116.89056
+
+(2) - Obstacle 3 Sand Bag Carry
+	JO1
+		Images:	2417
+		Time:	17.05.2025 07:43:23 until 17.05.2025 14:46:11
+		Duration:	07:02:48
+		Location:	34.22290 -116.89734
+
+	JO1LS2
+		Images:	535
+		Time:	17.05.2025 07:04:56 until 17.05.2025 15:07:53
+		Duration:	08:02:57
+		Location:	34.22290 -116.89734
+
+	JO1LS1
+		Images:	1040
+		Time:	17.05.2025 07:26:27 until 17.05.2025 15:21:43
+		Duration:	07:55:16
+		Location:	34.22290 -116.89734
+
+(3) - Obstacle 6 Barbed Wire Crawl 1
+	FREM1
+		Images:	2479
+		Time:	16.05.2025 21:00:15 until 17.05.2025 13:47:59
+		Duration:	16:47:44
+		Location:	34.23369 -116.88754
+
+	MATA1
+		Images:	4176
+		Time:	17.05.2025 09:00:59 until 17.05.2025 18:17:06
+		Duration:	09:16:07
+		Location:	34.23369 -116.88754
+
+(4) - Obstacle 18 Barbed Wire Crawl 2
+	FREM2
+		Images:	1015
+		Time:	17.05.2025 14:52:05 until 17.05.2025 18:21:09
+		Duration:	03:29:04
+		Location:	34.22674 -116.89995
+
+	MATA2
+		Images:	525
+		Time:	17.05.2025 08:05:06 until 17.05.2025 09:00:58
+		Duration:	00:55:52
+		Location:	34.22674 -116.89995
+
+(5) - Obstacle 22 Inverted Wall
+	DDS1
+		Images:	6227
+		Time:	16.05.2025 17:09:39 until 17.05.2025 18:19:59
+		Duration:	1.01:10:20
+		Location:	34.23452 -116.89496
+
+(6) - Obstacle 24 Multi-Rig,Monkey, Twister Combo
+	TUD1
+		Images:	6751
+		Time:	17.05.2025 06:51:18 until 18.05.2025 07:55:03
+		Duration:	1.01:03:45
+		Location:	34.23525 -116.89254
+
+	DDC1
+		Images:	10627
+		Time:	16.05.2025 17:03:49 until 17.05.2025 18:14:39
+		Duration:	1.01:10:50
+		Location:	34.23525 -116.89254
+
+(7) - Obstacle 27 Bucket Carry
+	HJP1
+		Images:	6640
+		Time:	17.05.2025 07:09:12 until 17.05.2025 19:01:44
+		Duration:	11:52:32
+		Location:	34.23491 -116.89110
+
+	KHN1LS2
+		Images:	1295
+		Time:	16.05.2025 22:08:09 until 17.05.2025 17:36:00
+		Duration:	19:27:51
+		Location:	34.23491 -116.89110
+
+(8) - Obstacle 28 Slip Wall
+	KHN1
+		Images:	10430
+		Time:	16.05.2025 22:05:10 until 17.05.2025 17:22:19
+		Duration:	19:17:09
+		Location:	34.23397 -116.88787
+
+	GOB1
+		Images:	5335
+		Time:	17.05.2025 06:44:56 until 18.05.2025 08:08:01
+		Duration:	1.01:23:05
+		Location:	34.23397 -116.88787
+
+(9) - Obstacle 27 Before Bucket Carry
+	KHN1LS1
+		Images:	656
+		Time:	16.05.2025 22:07:14 until 17.05.2025 17:14:27
+		Duration:	19:07:13
+		Location:	34.23387 -116.88876
+
+(10) - Finish
+	DVAL1
+		Images:	11209
+		Time:	17.05.2025 07:01:45 until 17.05.2025 19:44:47
+		Duration:	12:43:02
+		Location:	34.23531 -116.89056
+
+(11) - Herotent
+	JOG1
+		Images:	3370
+		Time:	17.05.2025 05:53:47 until 17.05.2025 19:47:16
+		Duration:	13:53:29
+		Location:	34.23531 -116.89056
+

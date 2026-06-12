@@ -1,0 +1,82 @@
+EventId: 15111
+Spots: 12
+Total Images: 8054
+Time:	01.02.2025 22:31:34 to 02.02.2025 09:41:49
+Duration: 11:10:15
+
+(1) - Start
+	GSH1
+		Images:	161
+		Time:	02.02.2025 04:55:36 until 02.02.2025 05:51:56
+		Duration:	00:56:20
+		Location:	25.18977 55.29900
+
+	NIZ1
+		Images:	743
+		Time:	01.02.2025 22:31:34 until 02.02.2025 05:51:43
+		Duration:	07:20:09
+		Location:	25.18977 55.29900
+
+(2) - Finish
+	GSH2
+		Images:	1471
+		Time:	02.02.2025 07:23:33 until 02.02.2025 09:39:44
+		Duration:	02:16:11
+		Location:	24.96339 55.14311
+
+	NIZ2
+		Images:	1758
+		Time:	02.02.2025 07:36:50 until 02.02.2025 09:38:11
+		Duration:	02:01:21
+		Location:	24.96339 55.14311
+
+	REG3
+		Images:	59
+		Time:	02.02.2025 09:22:15 until 02.02.2025 09:41:49
+		Duration:	00:19:34
+		Location:	24.96339 55.14311
+
+(3) - 22.0 km
+	MRGO1
+		Images:	576
+		Time:	02.02.2025 04:49:03 until 02.02.2025 06:50:19
+		Duration:	02:01:16
+		Location:	25.06076 55.30510
+
+(4) - 101.0 km
+	MRGO2
+		Images:	1044
+		Time:	02.02.2025 08:18:18 until 02.02.2025 09:40:12
+		Duration:	01:21:54
+		Location:	24.96203 55.14431
+
+(5) - 25.0 km
+	MUP1
+		Images:	664
+		Time:	02.02.2025 05:26:08 until 02.02.2025 05:55:49
+		Duration:	00:29:41
+		Location:	25.05022 55.28656
+
+(6) - 99.5 km
+	MUP2
+		Images:	532
+		Time:	02.02.2025 07:23:04 until 02.02.2025 08:13:10
+		Duration:	00:50:06
+		Location:	24.96133 55.14352
+
+(7) - 16.0 km
+	REG1
+		Images:	603
+		Time:	02.02.2025 04:48:23 until 02.02.2025 06:43:43
+		Duration:	01:55:20
+		Location:	25.09251 55.35854
+
+(8) - 100.0 km
+	REG2
+		Images:	443
+		Time:	02.02.2025 08:18:19 until 02.02.2025 09:06:31
+		Duration:	00:48:12
+		Location:	24.96203 55.14431
+
+(9) - Impressions / Pano
+	PANO1

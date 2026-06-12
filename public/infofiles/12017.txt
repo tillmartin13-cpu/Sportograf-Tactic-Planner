@@ -1,0 +1,84 @@
+EventId: 12017
+Spots: 12
+Total Images: 17435
+Time:	10.05.2025 05:11:37 to 10.05.2025 08:19:27
+Duration: 03:07:50
+
+(1) - Swim - Start
+	HTT1
+		Images:	2176
+		Time:	10.05.2025 05:11:37 until 10.05.2025 06:48:30
+		Duration:	01:36:53
+		Location:	16.01487 108.26416
+
+	NTT1
+		Images:	1300
+		Time:	10.05.2025 05:17:15 until 10.05.2025 06:15:45
+		Duration:	00:58:30
+		Location:	16.01487 108.26416
+
+(2) - Finish
+	HTT2
+		Images:	3810
+		Time:	10.05.2025 06:49:55 until 10.05.2025 07:57:28
+		Duration:	01:07:33
+		Location:	16.01487 108.26416
+
+	HTT2LS1
+		Images:	284
+		Time:	10.05.2025 06:29:21 until 10.05.2025 08:02:35
+		Duration:	01:33:14
+		Location:	16.01487 108.26416
+
+	NTT2
+		Images:	2003
+		Time:	10.05.2025 06:50:00 until 10.05.2025 07:57:19
+		Duration:	01:07:19
+		Location:	16.01487 108.26416
+
+	NTT2LS2
+		Images:	194
+		Time:	10.05.2025 06:48:24 until 10.05.2025 08:13:24
+		Duration:	01:25:00
+		Location:	16.01487 108.26416
+
+	NTT2LS1
+		Images:	428
+		Time:	10.05.2025 06:45:30 until 10.05.2025 08:15:47
+		Duration:	01:30:17
+		Location:	16.01487 108.26416
+
+(3) - Run - 1,5 km
+	MVV1
+		Images:	3587
+		Time:	10.05.2025 05:55:55 until 10.05.2025 07:39:18
+		Duration:	01:43:23
+		Location:	16.02035 108.25756
+
+(4) - Swim - Transition zone
+	NTT1LS1
+		Images:	388
+		Time:	10.05.2025 05:54:34 until 10.05.2025 06:18:16
+		Duration:	00:23:42
+		Location:	16.01487 108.26416
+
+	TDK1
+		Images:	76
+		Time:	10.05.2025 05:16:39 until 10.05.2025 06:02:07
+		Duration:	00:45:28
+		Location:	16.01487 108.26416
+
+(5) - Bike - 3,0 km
+	TAP1
+		Images:	1989
+		Time:	10.05.2025 05:27:19 until 10.05.2025 07:29:15
+		Duration:	02:01:56
+		Location:	16.02519 108.25663
+
+(6) - Bike - 12,0 km
+	TDK2
+		Images:	1200
+		Time:	10.05.2025 06:11:40 until 10.05.2025 08:19:27
+		Duration:	02:07:47
+		Location:	16.00603 108.26554
+

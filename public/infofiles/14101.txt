@@ -1,0 +1,156 @@
+EventId: 14101
+Spots: 24
+Total Images: 48584
+Time:	25.05.2025 08:02:44 to 25.05.2025 14:26:04
+Duration: 06:23:20
+
+(1) - Start
+	ALES1
+		Images:	731
+		Time:	25.05.2025 08:47:27 until 25.05.2025 09:52:23
+		Duration:	01:04:56
+		Location:	51.28928 12.42616
+
+	ALES1LS1
+		Images:	489
+		Time:	25.05.2025 08:02:44 until 25.05.2025 09:55:26
+		Duration:	01:52:42
+		Location:	51.28928 12.42616
+
+	VLE1
+		Images:	787
+		Time:	25.05.2025 09:10:56 until 25.05.2025 09:52:23
+		Duration:	00:41:27
+		Location:	51.28928 12.42616
+
+(2) - Aplelstein
+	TV1
+		Images:	1045
+		Time:	25.05.2025 09:22:14 until 25.05.2025 12:13:04
+		Duration:	02:50:50
+		Location:	51.27865 12.42906
+
+(3) - Wachtbergdenkmal
+	JOWE1
+		Images:	1310
+		Time:	25.05.2025 09:22:52 until 25.05.2025 10:36:16
+		Duration:	01:13:24
+		Location:	51.27302 12.43055
+
+	JOWE1LS1
+		Images:	756
+		Time:	25.05.2025 09:21:35 until 25.05.2025 09:28:13
+		Duration:	00:06:38
+		Location:	51.27302 12.43055
+
+	JOWE2
+		Images:	4000
+		Time:	25.05.2025 10:41:15 until 25.05.2025 13:50:56
+		Duration:	03:09:41
+		Location:	51.27302 12.43055
+
+	JOWE2LS1
+		Images:	7588
+		Time:	25.05.2025 10:42:50 until 25.05.2025 13:01:43
+		Duration:	02:18:53
+		Location:	51.27302 12.43055
+
+(4) - Störmthaler Kanal
+	ANPE1
+		Images:	1786
+		Time:	25.05.2025 09:26:15 until 25.05.2025 11:30:17
+		Duration:	02:04:02
+		Location:	51.24797 12.42449
+
+(5) - Störmthaler See
+	JUT1
+		Images:	1849
+		Time:	25.05.2025 08:36:41 until 25.05.2025 10:38:51
+		Duration:	02:02:10
+		Location:	51.22321 12.42676
+
+	JUT1LS1
+		Images:	1035
+		Time:	25.05.2025 09:00:49 until 25.05.2025 10:22:37
+		Duration:	01:21:48
+		Location:	51.22321 12.42676
+
+(6) - Störmthaler See Serpentine
+	THS1LS2
+		Images:	3228
+		Time:	25.05.2025 08:26:57 until 25.05.2025 13:33:27
+		Duration:	05:06:30
+		Location:	51.24490 12.46724
+
+	THS1LS1
+		Images:	317
+		Time:	25.05.2025 08:57:07 until 25.05.2025 11:06:28
+		Duration:	02:09:21
+		Location:	51.24490 12.46724
+
+	THS1
+		Images:	3281
+		Time:	25.05.2025 10:26:17 until 25.05.2025 13:47:26
+		Duration:	03:21:09
+		Location:	51.24490 12.46724
+
+(7) - Impressions / Pano
+	THS1DRONE1
+		Images:	4
+		Time:	25.05.2025 11:07:54 until 25.05.2025 11:09:37
+		Duration:	00:01:43
+		Location:	51.24490 12.46724
+
+	PANO1
+(8) - 7- Seen Wanderweg
+	KWEI1
+		Images:	2470
+		Time:	25.05.2025 08:26:20 until 25.05.2025 13:37:56
+		Duration:	05:11:36
+		Location:	51.25426 12.43669
+
+(9) - Apelstein
+	TV2
+		Images:	2399
+		Time:	25.05.2025 10:36:58 until 25.05.2025 13:45:37
+		Duration:	03:08:39
+		Location:	51.27745 12.42939
+
+(10) - Finish
+	ALES2
+		Images:	4692
+		Time:	25.05.2025 10:50:45 until 25.05.2025 14:23:46
+		Duration:	03:33:01
+		Location:	51.31884 12.39926
+
+	ALES2LS1
+		Images:	1242
+		Time:	25.05.2025 10:33:17 until 25.05.2025 13:43:18
+		Duration:	03:10:01
+		Location:	51.31884 12.39926
+
+	VLE2
+		Images:	3071
+		Time:	25.05.2025 10:36:02 until 25.05.2025 13:43:19
+		Duration:	03:07:17
+		Location:	51.31884 12.39926
+
+	VLE2LS1
+		Images:	5373
+		Time:	25.05.2025 11:29:27 until 25.05.2025 13:28:48
+		Duration:	01:59:21
+		Location:	51.31884 12.39926
+
+(11) - Medaillen
+	JUT2
+		Images:	886
+		Time:	25.05.2025 12:13:46 until 25.05.2025 14:26:04
+		Duration:	02:12:18
+		Location:	51.31884 12.39926
+
+	ANPE2
+		Images:	245
+		Time:	25.05.2025 11:34:16 until 25.05.2025 13:40:07
+		Duration:	02:05:51
+		Location:	51.31884 12.39926
+

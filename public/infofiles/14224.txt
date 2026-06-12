@@ -1,0 +1,156 @@
+EventId: 14224
+Spots: 23
+Total Images: 105498
+Time:	10.05.2025 06:24:21 to 10.05.2025 17:14:02
+Duration: 10:49:41
+
+(1) - Swim - Start
+	FRSA1
+		Images:	2076
+		Time:	10.05.2025 06:50:23 until 10.05.2025 09:02:26
+		Duration:	02:12:03
+		Location:	39.84012 3.12919
+
+	GAAA1
+		Images:	2042
+		Time:	10.05.2025 06:51:31 until 10.05.2025 08:40:42
+		Duration:	01:49:11
+		Location:	39.84012 3.12919
+
+(2) - Swim - Exit
+	KKP1
+		Images:	4827
+		Time:	10.05.2025 06:24:21 until 10.05.2025 09:50:27
+		Duration:	03:26:06
+		Location:	39.83898 3.12682
+
+	MPP1
+		Images:	6250
+		Time:	10.05.2025 07:46:32 until 10.05.2025 09:50:06
+		Duration:	02:03:34
+		Location:	39.83898 3.12682
+
+(3) - Swim - Impressions / Pano
+	MPP1IMP1
+		Images:	14
+		Time:	10.05.2025 06:51:47 until 10.05.2025 07:13:27
+		Duration:	00:21:40
+		Location:	39.83898 3.12682
+
+(4) - Bike - Transition zone
+	GAAA3
+		Images:	1338
+		Time:	10.05.2025 08:50:36 until 10.05.2025 09:54:23
+		Duration:	01:03:47
+		Location:	39.83984 3.12136
+
+(5) - Bike - 22.0 km
+	ACC1
+		Images:	4552
+		Time:	10.05.2025 07:09:34 until 10.05.2025 11:14:05
+		Duration:	04:04:31
+		Location:	39.86660 2.93528
+
+	ACC1LS1
+		Images:	5001
+		Time:	10.05.2025 07:07:18 until 10.05.2025 11:17:50
+		Duration:	04:10:32
+		Location:	39.86660 2.93528
+
+	ACC1LS2
+		Images:	4917
+		Time:	10.05.2025 07:08:41 until 10.05.2025 11:17:47
+		Duration:	04:09:06
+		Location:	39.86660 2.93528
+
+(6) - Bike - 33.0 km
+	WRFG1
+		Images:	9662
+		Time:	10.05.2025 08:07:37 until 10.05.2025 12:15:18
+		Duration:	04:07:41
+		Location:	39.81126 2.89050
+
+	WRFG1DRONE1
+		Images:	50
+		Time:	10.05.2025 08:33:17 until 10.05.2025 11:16:26
+		Duration:	02:43:09
+		Location:	39.81126 2.89050
+
+(7) - Bike - 36.0 km
+	FJPH1
+		Images:	4126
+		Time:	10.05.2025 08:02:52 until 10.05.2025 12:14:21
+		Duration:	04:11:29
+		Location:	39.79199 2.89426
+
+(8) - 1.5KM from finish
+	GAAA2
+		Images:	14725
+		Time:	10.05.2025 10:37:21 until 10.05.2025 17:03:29
+		Duration:	06:26:08
+		Location:	39.83434 3.12087
+
+(9) - 1KM from finish
+	ACC2
+		Images:	6663
+		Time:	10.05.2025 12:35:33 until 10.05.2025 17:07:41
+		Duration:	04:32:08
+		Location:	39.83803 3.12462
+
+	ACC2LS2
+		Images:	5602
+		Time:	10.05.2025 12:25:22 until 10.05.2025 17:04:01
+		Duration:	04:38:39
+		Location:	39.83803 3.12462
+
+	ACC2LS1
+		Images:	6476
+		Time:	10.05.2025 12:27:45 until 10.05.2025 17:04:01
+		Duration:	04:36:16
+		Location:	39.83803 3.12462
+
+(10) - 0.5KM from finish
+	WRFG2
+		Images:	4987
+		Time:	10.05.2025 14:24:26 until 10.05.2025 17:10:31
+		Duration:	02:46:05
+		Location:	39.84027 3.12739
+
+(11) - Finish
+	FJPH2
+		Images:	3204
+		Time:	10.05.2025 14:27:44 until 10.05.2025 16:21:39
+		Duration:	01:53:55
+		Location:	39.84121 3.13089
+
+	FRSA2
+		Images:	3694
+		Time:	10.05.2025 10:56:20 until 10.05.2025 17:14:02
+		Duration:	06:17:42
+		Location:	39.84121 3.13089
+
+	MPP2
+		Images:	7524
+		Time:	10.05.2025 10:58:43 until 10.05.2025 16:55:10
+		Duration:	05:56:27
+		Location:	39.84121 3.13089
+
+	MPP2LS1
+		Images:	2740
+		Time:	10.05.2025 11:49:12 until 10.05.2025 16:26:57
+		Duration:	04:37:45
+		Location:	39.84121 3.13089
+
+	MPP2LS2
+		Images:	2854
+		Time:	10.05.2025 11:52:49 until 10.05.2025 16:57:29
+		Duration:	05:04:40
+		Location:	39.84121 3.13089
+
+(12) - Medals
+	KKP2
+		Images:	2174
+		Time:	10.05.2025 11:05:16 until 10.05.2025 16:40:57
+		Duration:	05:35:41
+		Location:	39.84117 3.13114
+

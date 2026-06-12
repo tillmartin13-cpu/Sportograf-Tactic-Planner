@@ -1,0 +1,252 @@
+EventId: 15223
+Spots: 39
+Total Images: 29753
+Time:	01.01.0001 23:00:00 to 04.10.2025 18:36:56
+Duration: 739526.19:36:56
+
+(1) - 0.0 km 100M / BATOPILAS
+	AGAV1
+		Images:	84
+		Time:	02.10.2025 17:09:50 until 02.10.2025 17:13:02
+		Duration:	00:03:12
+		Location:	NULL NULL
+
+	EDG1
+		Images:	150
+		Time:	02.10.2025 16:49:18 until 02.10.2025 18:54:39
+		Duration:	02:05:21
+		Location:	NULL NULL
+
+	EGG1
+		Images:	103
+		Time:	02.10.2025 17:04:28 until 02.10.2025 18:09:28
+		Duration:	01:05:00
+		Location:	NULL NULL
+
+	EGG1LS1
+		Images:	51
+		Time:	02.10.2025 17:04:40 until 02.10.2025 17:05:19
+		Duration:	00:00:39
+		Location:	NULL NULL
+
+	MAT1
+		Images:	422
+		Time:	02.10.2025 17:09:23 until 02.10.2025 17:24:22
+		Duration:	00:14:59
+		Location:	NULL NULL
+
+	MAT1LS1
+		Images:	53
+		Time:	02.10.2025 17:13:06 until 02.10.2025 17:18:54
+		Duration:	00:05:48
+		Location:	NULL NULL
+
+(2) - 0.0 km 100M / START
+	SGD1
+		Images:	565
+		Time:	02.10.2025 16:38:48 until 03.10.2025 11:32:29
+		Duration:	18:53:41
+		Location:	NULL NULL
+
+(3) - 155.0 km DIVISADERO
+	MAT5
+		Images:	2057
+		Time:	04.10.2025 09:25:41 until 04.10.2025 15:38:06
+		Duration:	06:12:25
+		Location:	NULL NULL
+
+	MAT5LS2
+		Images:	612
+		Time:	04.10.2025 09:07:01 until 04.10.2025 12:25:25
+		Duration:	03:18:24
+		Location:	NULL NULL
+
+	MAT5LS1
+		Images:	641
+		Time:	04.10.2025 08:59:20 until 04.10.2025 12:30:14
+		Duration:	03:30:54
+		Location:	NULL NULL
+
+(4) - 2.0 km PARQUE BARRANCAS SALIDA
+	MAT4LS1
+		Images:	692
+		Time:	04.10.2025 07:33:12 until 04.10.2025 08:47:28
+		Duration:	01:14:16
+		Location:	NULL NULL
+
+	MAT4
+		Images:	2563
+		Time:	04.10.2025 07:37:18 until 04.10.2025 08:47:52
+		Duration:	01:10:34
+		Location:	NULL NULL
+
+(5) - 23.0 km GUITAYVO
+	EDG3
+		Images:	1091
+		Time:	03.10.2025 11:53:04 until 03.10.2025 21:03:46
+		Duration:	09:10:42
+		Location:	NULL NULL
+
+(6) - 25.0 km GUITAYVO
+	AGAV3
+		Images:	506
+		Time:	03.10.2025 11:25:32 until 03.10.2025 19:05:36
+		Duration:	07:40:04
+		Location:	NULL NULL
+
+	EGG3
+		Images:	306
+		Time:	03.10.2025 12:38:43 until 03.10.2025 19:39:00
+		Duration:	07:00:17
+		Location:	NULL NULL
+
+	EGG3LS1
+		Images:	180
+		Time:	03.10.2025 12:28:32 until 03.10.2025 18:47:44
+		Duration:	06:19:12
+		Location:	NULL NULL
+
+	MAT3
+		Images:	861
+		Time:	01.01.0001 23:00:00 until 03.10.2025 18:41:48
+		Duration:	739525.19:41:48
+		Location:	NULL NULL
+
+	MAT3LS1
+		Images:	138
+		Time:	03.10.2025 12:30:32 until 03.10.2025 18:48:49
+		Duration:	06:18:17
+		Location:	NULL NULL
+
+(7) - 25.0 km GUITAYVO / Nocturno
+	EGG5
+		Images:	155
+		Time:	03.10.2025 19:58:17 until 03.10.2025 21:37:30
+		Duration:	01:39:13
+		Location:	NULL NULL
+
+	MAT3LS2
+		Images:	147
+		Time:	03.10.2025 19:00:42 until 03.10.2025 21:36:14
+		Duration:	02:35:32
+		Location:	NULL NULL
+
+	AGAV4
+		Images:	283
+		Time:	03.10.2025 19:10:28 until 03.10.2025 20:07:04
+		Duration:	00:56:36
+		Location:	NULL NULL
+
+	EGG3LS2
+		Images:	113
+		Time:	03.10.2025 19:01:22 until 03.10.2025 21:25:53
+		Duration:	02:24:31
+		Location:	NULL NULL
+
+(8) - 25.0 km HUERACHI
+	EGG4
+		Images:	2719
+		Time:	04.10.2025 10:34:48 until 04.10.2025 12:51:11
+		Duration:	02:16:23
+		Location:	NULL NULL
+
+	EGG4LS1
+		Images:	351
+		Time:	04.10.2025 10:59:40 until 04.10.2025 12:42:54
+		Duration:	01:43:14
+		Location:	NULL NULL
+
+	SGD3
+		Images:	1437
+		Time:	04.10.2025 10:19:57 until 04.10.2025 13:45:03
+		Duration:	03:25:06
+		Location:	NULL NULL
+
+	EDG4
+		Images:	768
+		Time:	04.10.2025 10:57:58 until 04.10.2025 12:48:03
+		Duration:	01:50:05
+		Location:	NULL NULL
+
+(9) - 3.0 km Estacion Chepe Posada Barrancas
+	EDG2
+		Images:	1018
+		Time:	03.10.2025 07:50:17 until 03.10.2025 08:33:47
+		Duration:	00:43:30
+		Location:	NULL NULL
+
+(10) - 4.0 km CEROCAHUI
+	EGG2LS1
+		Images:	151
+		Time:	03.10.2025 09:08:34 until 03.10.2025 09:22:27
+		Duration:	00:13:53
+		Location:	NULL NULL
+
+	EGG2
+		Images:	255
+		Time:	03.10.2025 20:02:39 until 03.10.2025 20:04:27
+		Duration:	00:01:48
+		Location:	NULL NULL
+
+	MAT2
+		Images:	1103
+		Time:	03.10.2025 17:49:49 until 03.10.2025 18:06:21
+		Duration:	00:16:32
+		Location:	NULL NULL
+
+	MAT2LS1
+		Images:	110
+		Time:	03.10.2025 08:56:46 until 03.10.2025 09:18:54
+		Duration:	00:22:08
+		Location:	NULL NULL
+
+(11) - 6.0 km 59K
+	AGAV2
+		Images:	1280
+		Time:	03.10.2025 08:12:48 until 03.10.2025 08:51:57
+		Duration:	00:39:09
+		Location:	NULL NULL
+
+(12) - Finish
+	MAT3LS3
+		Images:	1676
+		Time:	04.10.2025 13:48:53 until 04.10.2025 18:36:56
+		Duration:	04:48:03
+		Location:	NULL NULL
+
+	EDG5
+		Images:	259
+		Time:	04.10.2025 14:23:09 until 04.10.2025 15:28:03
+		Duration:	01:04:54
+		Location:	NULL NULL
+
+	SGD2
+		Images:	2750
+		Time:	03.10.2025 12:27:25 until 04.10.2025 15:46:54
+		Duration:	1.03:19:29
+		Location:	NULL NULL
+
+	SGD1DRONE1
+		Images:	152
+		Time:	02.10.2025 16:47:59 until 04.10.2025 16:26:26
+		Duration:	1.23:38:27
+		Location:	NULL NULL
+
+	AGAV5
+		Images:	1998
+		Time:	04.10.2025 07:15:26 until 04.10.2025 16:29:01
+		Duration:	09:13:35
+		Location:	NULL NULL
+
+	EGG6
+		Images:	1644
+		Time:	04.10.2025 13:57:27 until 04.10.2025 15:28:19
+		Duration:	01:30:52
+		Location:	NULL NULL
+
+	EGG6LS1
+		Images:	309
+		Time:	04.10.2025 13:49:07 until 04.10.2025 16:39:38
+		Duration:	02:50:31
+		Location:	NULL NULL
+

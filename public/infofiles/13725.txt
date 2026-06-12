@@ -1,0 +1,141 @@
+EventId: 13725
+Spots: 21
+Total Images: 31419
+Time:	21.06.2025 04:47:06 to 21.06.2025 19:36:14
+Duration: 14:49:08
+
+(1) - Start
+	MAE1
+		Images:	1629
+		Time:	21.06.2025 06:01:32 until 21.06.2025 08:42:34
+		Duration:	02:41:02
+		Location:	50.41816 12.93321
+
+(2) - 0.5 km
+	MAE1LS2
+		Images:	529
+		Time:	21.06.2025 06:47:54 until 21.06.2025 08:40:58
+		Duration:	01:53:04
+		Location:	50.41860 12.93742
+
+	MAE1LS1
+		Images:	797
+		Time:	21.06.2025 05:53:49 until 21.06.2025 08:41:51
+		Duration:	02:48:02
+		Location:	50.41860 12.93742
+
+(3) - 1.4 km
+	THO1
+		Images:	1464
+		Time:	21.06.2025 04:47:06 until 21.06.2025 08:58:50
+		Duration:	04:11:44
+		Location:	50.42413 12.92923
+
+	THO1LS2
+		Images:	825
+		Time:	21.06.2025 06:02:52 until 21.06.2025 08:58:50
+		Duration:	02:55:58
+		Location:	50.42413 12.92923
+
+	THO1LS1
+		Images:	793
+		Time:	21.06.2025 06:07:02 until 21.06.2025 08:58:50
+		Duration:	02:51:48
+		Location:	50.42413 12.92923
+
+(4) - 4.5 km
+	DASC1
+		Images:	2588
+		Time:	21.06.2025 05:41:08 until 21.06.2025 09:32:25
+		Duration:	03:51:17
+		Location:	50.43169 12.89147
+
+	DASC1LS1
+		Images:	925
+		Time:	21.06.2025 06:11:58 until 21.06.2025 09:34:22
+		Duration:	03:22:24
+		Location:	50.43169 12.89147
+
+(5) - 21.4 km
+	DG1
+		Images:	6621
+		Time:	21.06.2025 05:44:22 until 21.06.2025 15:31:23
+		Duration:	09:47:01
+		Location:	50.39929 12.77878
+
+	DG1LS1
+		Images:	6057
+		Time:	21.06.2025 08:05:47 until 21.06.2025 14:36:59
+		Duration:	06:31:12
+		Location:	50.39929 12.77878
+
+(6) - 32.7 km
+	DG2
+		Images:	864
+		Time:	21.06.2025 15:32:22 until 21.06.2025 17:21:03
+		Duration:	01:48:41
+		Location:	50.41817 12.67688
+
+	DG2LS1
+		Images:	333
+		Time:	21.06.2025 15:27:19 until 21.06.2025 17:20:55
+		Duration:	01:53:36
+		Location:	50.41817 12.67688
+
+(7) - Finish 35km
+	THO2
+		Images:	1213
+		Time:	21.06.2025 10:27:33 until 21.06.2025 18:05:26
+		Duration:	07:37:53
+		Location:	50.43095 12.70648
+
+	THO2LS2
+		Images:	429
+		Time:	21.06.2025 10:34:18 until 21.06.2025 18:14:48
+		Duration:	07:40:30
+		Location:	50.43095 12.70648
+
+(8) - Finish
+	THO2LS1
+		Images:	423
+		Time:	21.06.2025 11:16:21 until 21.06.2025 18:14:49
+		Duration:	06:58:28
+		Location:	50.43095 12.70648
+
+	MAE2
+		Images:	1965
+		Time:	21.06.2025 12:14:10 until 21.06.2025 19:36:14
+		Duration:	07:22:04
+		Location:	50.45597 12.64420
+
+	MAE2LS1
+		Images:	632
+		Time:	21.06.2025 12:12:42 until 21.06.2025 19:35:31
+		Duration:	07:22:49
+		Location:	50.45545 12.64600
+
+	MAE2LS2
+		Images:	678
+		Time:	21.06.2025 12:41:42 until 21.06.2025 19:34:37
+		Duration:	06:52:55
+		Location:	50.45545 12.64600
+
+	MAE2DRONE1
+		Images:	31
+		Time:	21.06.2025 06:19:22 until 21.06.2025 13:14:46
+		Duration:	06:55:24
+		Location:	50.45597 12.64420
+
+(9) - 39.7 km
+	DASC2
+		Images:	1765
+		Time:	21.06.2025 11:08:10 until 21.06.2025 17:04:54
+		Duration:	05:56:44
+		Location:	50.42449 12.59581
+
+	DASC2LS1
+		Images:	858
+		Time:	21.06.2025 11:32:03 until 21.06.2025 17:04:56
+		Duration:	05:32:53
+		Location:	50.42449 12.59581
+

@@ -1,0 +1,144 @@
+EventId: 14401
+Spots: 22
+Total Images: 101373
+Time:	14.09.2025 08:38:26 to 14.09.2025 18:21:17
+Duration: 09:42:51
+
+(1) - Obstacle 2 Freak Froster
+	JMAR1
+		Images:	10433
+		Time:	14.09.2025 09:46:34 until 14.09.2025 16:09:22
+		Duration:	06:22:48
+		Location:	54.14465 10.96199
+
+	VR1
+		Images:	5400
+		Time:	14.09.2025 09:46:08 until 14.09.2025 16:09:21
+		Duration:	06:23:13
+		Location:	54.14465 10.96199
+
+(2) - Obstacle 9 Muddy Maniacs
+	RET1
+		Images:	7678
+		Time:	14.09.2025 10:03:00 until 14.09.2025 17:07:25
+		Duration:	07:04:25
+		Location:	54.13699 10.94556
+
+	LSI1
+		Images:	10093
+		Time:	14.09.2025 09:56:14 until 14.09.2025 17:06:08
+		Duration:	07:09:54
+		Location:	54.13699 10.94556
+
+(3) - Obstacle 10 Barbwire Battle
+	LUKS1
+		Images:	6931
+		Time:	14.09.2025 09:16:15 until 14.09.2025 17:09:44
+		Duration:	07:53:29
+		Location:	54.13666 10.94561
+
+	FDC1
+		Images:	6135
+		Time:	14.09.2025 09:29:29 until 14.09.2025 17:09:18
+		Duration:	07:39:49
+		Location:	54.13666 10.94561
+
+(4) - Weg zur Speed Slide
+	CM1LS1
+		Images:	3629
+		Time:	14.09.2025 09:34:51 until 14.09.2025 16:12:59
+		Duration:	06:38:08
+		Location:	54.13601 10.94532
+
+(5) - Obstacle 11 Speed Slide
+	LEM1LS1
+		Images:	2402
+		Time:	14.09.2025 10:18:49 until 14.09.2025 16:12:19
+		Duration:	05:53:30
+		Location:	54.13391 10.94355
+
+	LEM1LS2
+		Images:	1870
+		Time:	14.09.2025 10:12:16 until 14.09.2025 16:12:19
+		Duration:	06:00:03
+		Location:	54.13391 10.94355
+
+(6) - Obstacle 13 Rotten River
+	MFR1
+		Images:	6040
+		Time:	14.09.2025 09:22:20 until 14.09.2025 17:22:06
+		Duration:	07:59:46
+		Location:	54.13642 10.94654
+
+	CM1
+		Images:	6532
+		Time:	14.09.2025 09:53:17 until 14.09.2025 17:17:26
+		Duration:	07:24:09
+		Location:	54.13642 10.94654
+
+(7) - Obstacle 18 Clumsy Cliffhanger
+	SLOM1
+		Images:	3307
+		Time:	14.09.2025 10:06:58 until 14.09.2025 17:56:17
+		Duration:	07:49:19
+		Location:	54.14944 10.97782
+
+	DAB1
+		Images:	2266
+		Time:	14.09.2025 10:19:34 until 14.09.2025 15:56:48
+		Duration:	05:37:14
+		Location:	54.14944 10.97782
+
+(8) - Obstacle 20 Boulder Box
+	PSA1
+		Images:	2362
+		Time:	14.09.2025 09:38:27 until 14.09.2025 16:18:35
+		Duration:	06:40:08
+		Location:	54.15792 10.99880
+
+(9) - Finish
+	RYS1
+		Images:	9331
+		Time:	14.09.2025 09:41:55 until 14.09.2025 18:20:55
+		Duration:	08:39:00
+		Location:	54.14178 10.95514
+
+	RYS1LS2
+		Images:	5070
+		Time:	14.09.2025 09:30:11 until 14.09.2025 18:21:12
+		Duration:	08:51:01
+		Location:	54.14178 10.95514
+
+	RYS1LS1
+		Images:	4995
+		Time:	14.09.2025 09:29:52 until 14.09.2025 18:21:17
+		Duration:	08:51:25
+		Location:	54.14178 10.95514
+
+(10) - Herotent
+	PJE1
+		Images:	3876
+		Time:	14.09.2025 08:38:26 until 14.09.2025 18:01:14
+		Duration:	09:22:48
+		Location:	54.14178 10.95514
+
+	QCC1
+		Images:	2790
+		Time:	14.09.2025 08:41:51 until 14.09.2025 18:20:54
+		Duration:	09:39:03
+		Location:	54.14178 10.95514
+
+(11) - Impressions / Pano
+	LEM1
+		Images:	208
+		Time:	14.09.2025 13:41:11 until 14.09.2025 16:29:40
+		Duration:	02:48:29
+		Location:	54.14178 10.95514
+
+	LEM1DRONE1
+		Images:	25
+		Time:	14.09.2025 15:42:47 until 14.09.2025 15:56:07
+		Duration:	00:13:20
+		Location:	54.14178 10.95514
+
+	PANO1

@@ -1,0 +1,293 @@
+EventId: 13830
+Spots: 44
+Total Images: 59926
+Time:	14.06.2025 20:26:12 to 21.06.2025 13:24:59
+Duration: 6.16:58:47
+
+(1) - Start
+	SBRO1
+		Images:	271
+		Time:	14.06.2025 20:26:12 until 15.06.2025 06:54:13
+		Duration:	10:28:01
+		Location:	47.26890 11.39263
+
+(2) - S1 Haiminger Berg
+	CHR1
+		Images:	2249
+		Time:	15.06.2025 07:37:07 until 15.06.2025 09:42:46
+		Duration:	02:05:39
+		Location:	47.24208 10.89837
+
+	CHR1DRONE1
+		Images:	11
+		Time:	15.06.2025 08:07:30 until 15.06.2025 08:14:53
+		Duration:	00:07:23
+		Location:	47.24208 10.89837
+
+	CHR1LS1
+		Images:	1762
+		Time:	15.06.2025 07:59:31 until 15.06.2025 09:01:09
+		Duration:	01:01:38
+		Location:	47.24208 10.89837
+
+(3) - S1 Downhill Oetz
+	JH1
+		Images:	2173
+		Time:	15.06.2025 08:38:14 until 15.06.2025 10:41:57
+		Duration:	02:03:43
+		Location:	47.20973 10.88335
+
+	JH1LS1
+		Images:	1410
+		Time:	15.06.2025 08:21:14 until 15.06.2025 10:41:43
+		Duration:	02:20:29
+		Location:	47.20973 10.88335
+
+(4) - S1 Roppen Ausblick
+	SBRO2
+		Images:	2363
+		Time:	15.06.2025 08:09:49 until 15.06.2025 11:26:16
+		Duration:	03:16:27
+		Location:	47.20973 10.88335
+
+(5) - S1 Siegerehrung
+	SBRO3
+		Images:	105
+		Time:	15.06.2025 15:46:14 until 16.06.2025 08:35:37
+		Duration:	16:49:23
+		Location:	47.24094 10.74701
+
+(6) - S2 Pillerhöhe KM20
+	CHR2
+		Images:	2032
+		Time:	16.06.2025 09:44:43 until 16.06.2025 10:49:18
+		Duration:	01:04:35
+		Location:	47.11703 10.66749
+
+	CHR2DRONE1
+		Images:	9
+		Time:	16.06.2025 10:18:14 until 16.06.2025 10:23:44
+		Duration:	00:05:30
+		Location:	47.11703 10.66749
+
+	CHR2LS1
+		Images:	958
+		Time:	16.06.2025 09:15:35 until 16.06.2025 10:35:27
+		Duration:	01:19:52
+		Location:	47.11703 10.66749
+
+(7) - S2 Pillerhöhe KM22
+	JH2LS2
+		Images:	672
+		Time:	16.06.2025 09:35:35 until 16.06.2025 11:03:35
+		Duration:	01:28:00
+		Location:	47.10653 10.68015
+
+	JH2LS1
+		Images:	689
+		Time:	16.06.2025 09:26:01 until 16.06.2025 10:58:58
+		Duration:	01:32:57
+		Location:	47.10653 10.68015
+
+	JH2
+		Images:	1982
+		Time:	16.06.2025 09:32:34 until 16.06.2025 10:58:42
+		Duration:	01:26:08
+		Location:	47.10653 10.68015
+
+(8) - S2 Downhill Kauns
+	SBRO4
+		Images:	2649
+		Time:	16.06.2025 08:40:18 until 16.06.2025 11:18:21
+		Duration:	02:38:03
+		Location:	47.07891 10.69672
+
+(9) - S2 Siegerehrung
+	SBRO5
+		Images:	191
+		Time:	16.06.2025 12:08:27 until 17.06.2025 09:44:58
+		Duration:	21:36:31
+		Location:	46.96773 10.53424
+
+(10) - S3 Uphill Passo Stelvio KM75.5
+	SBRO6
+		Images:	4401
+		Time:	17.06.2025 09:52:36 until 17.06.2025 15:45:24
+		Duration:	05:52:48
+		Location:	46.53391 10.47525
+
+(11) - S3 Uphill Passo Stelvio KM80
+	CHR3
+		Images:	2506
+		Time:	17.06.2025 10:33:27 until 17.06.2025 15:43:35
+		Duration:	05:10:08
+		Location:	46.52985 10.45277
+
+	CHR3DRONE1
+		Images:	10
+		Time:	17.06.2025 12:55:36 until 17.06.2025 13:00:08
+		Duration:	00:04:32
+		Location:	46.52985 10.45277
+
+	CHR3LS1
+		Images:	1241
+		Time:	17.06.2025 12:00:44 until 17.06.2025 13:18:42
+		Duration:	01:17:58
+		Location:	46.52985 10.45277
+
+(12) - S3 Downhill Passo Stelvio KM90.5
+	JH3
+		Images:	3365
+		Time:	17.06.2025 11:58:34 until 17.06.2025 15:26:36
+		Duration:	03:28:02
+		Location:	46.51498 10.40449
+
+	JH3LS1
+		Images:	1765
+		Time:	17.06.2025 12:00:05 until 17.06.2025 15:16:56
+		Duration:	03:16:51
+		Location:	46.51498 10.40449
+
+(13) - S4 Uphill Passo Mortirolo KM55
+	SBRO7
+		Images:	2370
+		Time:	18.06.2025 09:17:42 until 18.06.2025 12:28:36
+		Duration:	03:10:54
+		Location:	46.26203 10.26628
+
+(14) - S4 Uphill Passo Mortirolo KM63
+	CHR4
+		Images:	2558
+		Time:	17.06.2025 20:31:56 until 18.06.2025 14:05:29
+		Duration:	17:33:33
+		Location:	46.24687 10.29308
+
+	CHR4DRONE1
+		Images:	7
+		Time:	18.06.2025 11:26:20 until 18.06.2025 11:32:57
+		Duration:	00:06:37
+		Location:	46.24687 10.29308
+
+	CHR4LS1
+		Images:	1183
+		Time:	18.06.2025 10:55:47 until 18.06.2025 13:53:01
+		Duration:	02:57:14
+		Location:	46.24687 10.29308
+
+(15) - S4 Passo Mortirolo
+	JH4
+		Images:	2897
+		Time:	18.06.2025 11:09:00 until 18.06.2025 14:20:33
+		Duration:	03:11:33
+		Location:	46.24687 10.29308
+
+	JH4LS1
+		Images:	1017
+		Time:	18.06.2025 10:53:15 until 18.06.2025 14:25:52
+		Duration:	03:32:37
+		Location:	46.24687 10.29308
+
+	JH4LS2
+		Images:	940
+		Time:	18.06.2025 11:04:27 until 18.06.2025 14:15:08
+		Duration:	03:10:41
+		Location:	46.24687 10.29308
+
+(16) - S5 Passo di Santa Cristina
+	SBRO8
+		Images:	874
+		Time:	19.06.2025 08:45:35 until 19.06.2025 10:53:54
+		Duration:	02:08:19
+		Location:	46.17004 10.15454
+
+(17) - S5 Passo del Vivione
+	CHR5LS1
+		Images:	653
+		Time:	19.06.2025 10:47:07 until 19.06.2025 14:17:51
+		Duration:	03:30:44
+		Location:	46.03478 10.19354
+
+	CHR5
+		Images:	1671
+		Time:	15.06.2025 07:37:23 until 19.06.2025 15:44:22
+		Duration:	4.08:06:59
+		Location:	46.03478 10.19354
+
+	CHR5DRONE1
+		Images:	12
+		Time:	19.06.2025 13:14:36 until 19.06.2025 13:22:27
+		Duration:	00:07:51
+		Location:	46.03478 10.19354
+
+(18) - S5 Downhill Passo del Vivione
+	JH5
+		Images:	2448
+		Time:	19.06.2025 10:49:29 until 19.06.2025 14:00:30
+		Duration:	03:11:01
+		Location:	46.02561 10.21924
+
+	JH5LS1
+		Images:	694
+		Time:	19.06.2025 10:45:55 until 19.06.2025 14:03:07
+		Duration:	03:17:12
+		Location:	46.02561 10.21924
+
+(19) - S5 Passo di Croce di Salven KM87
+	SBRO9
+		Images:	1931
+		Time:	19.06.2025 11:54:59 until 19.06.2025 17:10:26
+		Duration:	05:15:27
+		Location:	45.94330 10.11296
+
+(20) - S6 Passo Crocedomini
+	SBRO10
+		Images:	2175
+		Time:	20.06.2025 09:25:52 until 20.06.2025 14:15:08
+		Duration:	04:49:16
+		Location:	45.90862 10.41109
+
+(21) - S6 Downhill Passo Crocedomini
+	CHR6LS1
+		Images:	933
+		Time:	20.06.2025 09:35:39 until 20.06.2025 13:21:47
+		Duration:	03:46:08
+		Location:	45.91455 10.42412
+
+	CHR6
+		Images:	1700
+		Time:	20.06.2025 08:31:44 until 20.06.2025 14:19:59
+		Duration:	05:48:15
+		Location:	45.91455 10.42412
+
+	CHR6DRONE1
+		Images:	15
+		Time:	20.06.2025 10:05:47 until 20.06.2025 10:45:09
+		Duration:	00:39:22
+		Location:	45.91455 10.42412
+
+(22) - S7 Allee beforer finish
+	SBRO11
+		Images:	716
+		Time:	21.06.2025 10:25:42 until 21.06.2025 13:24:59
+		Duration:	02:59:17
+		Location:	45.88500 10.84234
+
+(23) - Finish
+	CHR7DRONE1
+		Images:	8
+		Time:	21.06.2025 12:42:29 until 21.06.2025 12:44:50
+		Duration:	00:02:21
+		Location:	45.88500 10.84234
+
+	CHR7
+		Images:	1658
+		Time:	21.06.2025 10:13:57 until 21.06.2025 13:19:13
+		Duration:	03:05:16
+		Location:	45.88500 10.84234
+
+	CHR7LS1
+		Images:	652
+		Time:	21.06.2025 10:49:27 until 21.06.2025 12:46:24
+		Duration:	01:56:57
+		Location:	45.88500 10.84234
+

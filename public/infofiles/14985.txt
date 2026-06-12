@@ -1,0 +1,27 @@
+EventId: 14985
+Spots: 9
+Total Images: 1071
+Time:	23.02.2025 06:52:05 to 23.02.2025 08:00:05
+Duration: 01:08:00
+
+(1) - Impressions / Pano
+	PANO1
+(2) - 0.0 km PR Start
+	PK1
+		Images:	1071
+		Time:	23.02.2025 06:52:05 until 23.02.2025 08:00:05
+		Duration:	01:08:00
+		Location:	NULL NULL
+
+(3) - 0.0 km PR/Finish
+	SB1
+(4) - 0.0 km MSC1
+	WD1
+	WD1LS1
+(5) - 0.0 km MSC2
+	JA1
+	JA1LS1
+(6) - 0.0 km MSC3
+	JK1
+(7) - 0.0 km
+	JK1LS1

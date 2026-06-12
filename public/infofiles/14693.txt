@@ -1,0 +1,61 @@
+EventId: 14693
+Spots: 9
+Total Images: 100731
+Time:	15.02.2025 06:40:38 to 15.02.2025 17:04:00
+Duration: 10:23:22
+
+(1) - Barbell Club
+	DAWN1
+		Images:	8546
+		Time:	15.02.2025 06:40:38 until 15.02.2025 17:04:00
+		Duration:	10:23:22
+		Location:	51.27817 -0.76166
+
+(2) - Hold on
+	JUW1
+		Images:	15095
+		Time:	15.02.2025 07:25:32 until 15.02.2025 16:47:26
+		Duration:	09:21:54
+		Location:	51.27817 -0.76166
+
+	DP1
+		Images:	19562
+		Time:	15.02.2025 07:31:04 until 15.02.2025 16:53:17
+		Duration:	09:22:13
+		Location:	51.27817 -0.76166
+
+(3) - Full Send
+	JUW1LS1
+		Images:	3902
+		Time:	15.02.2025 07:09:05 until 15.02.2025 16:07:05
+		Duration:	08:58:00
+		Location:	51.27817 -0.76166
+
+(4) - Block Party
+	KYY1
+		Images:	17858
+		Time:	15.02.2025 07:31:47 until 15.02.2025 16:54:57
+		Duration:	09:23:10
+		Location:	51.27817 -0.76166
+
+	PAS1
+		Images:	19426
+		Time:	15.02.2025 07:31:22 until 15.02.2025 16:55:36
+		Duration:	09:24:14
+		Location:	51.27817 -0.76166
+
+	QVT1
+		Images:	16168
+		Time:	15.02.2025 07:32:41 until 15.02.2025 16:55:35
+		Duration:	09:22:54
+		Location:	51.27817 -0.76166
+
+(5) - Podiums
+	KYY2
+		Images:	174
+		Time:	15.02.2025 16:59:40 until 15.02.2025 17:03:44
+		Duration:	00:04:04
+		Location:	51.27817 -0.76166
+
+(6) - Impressions / Pano
+	PANO1

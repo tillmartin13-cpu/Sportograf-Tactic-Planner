@@ -1,0 +1,313 @@
+EventId: 14611
+Spots: 50
+Total Images: 254838
+Time:	01.01.0001 23:00:00 to 11.04.2025 22:08:34
+Duration: 739350.23:08:34
+
+(1) - Start Selfie
+	SELF1
+		Images:	906
+		Time:	11.04.2025 07:20:36 until 11.04.2025 20:43:23
+		Duration:	13:22:47
+		Location:	50.94446 6.98113
+
+(2) - Obstacle 1 SkiErg
+	LUGR1
+		Images:	4562
+		Time:	11.04.2025 07:19:38 until 11.04.2025 14:29:40
+		Duration:	07:10:02
+		Location:	50.94446 6.98113
+
+	MBEN1
+		Images:	5998
+		Time:	11.04.2025 08:15:35 until 11.04.2025 14:28:49
+		Duration:	06:13:14
+		Location:	50.94446 6.98113
+
+	MW1
+		Images:	4994
+		Time:	11.04.2025 08:05:35 until 11.04.2025 14:00:21
+		Duration:	05:54:46
+		Location:	50.94446 6.98113
+
+	FCO2
+		Images:	2704
+		Time:	01.01.0001 23:00:00 until 11.04.2025 18:20:25
+		Duration:	739350.19:20:25
+		Location:	50.94446 6.98113
+
+	WEN2
+		Images:	3722
+		Time:	11.04.2025 14:46:18 until 11.04.2025 20:46:54
+		Duration:	06:00:36
+		Location:	50.94446 6.98113
+
+	KFK1
+		Images:	4749
+		Time:	10.04.2025 10:01:52 until 11.04.2025 20:49:36
+		Duration:	1.10:47:44
+		Location:	50.94446 6.98113
+
+	GUD5
+		Images:	324
+		Time:	11.04.2025 14:30:41 until 11.04.2025 14:38:45
+		Duration:	00:08:04
+		Location:	50.94446 6.98113
+
+(3) - Obstacle 2 Sled Push
+	AGU1
+		Images:	3072
+		Time:	11.04.2025 08:18:41 until 11.04.2025 15:07:39
+		Duration:	06:48:58
+		Location:	50.94446 6.98113
+
+	MHO1
+		Images:	4748
+		Time:	11.04.2025 08:06:05 until 11.04.2025 14:47:47
+		Duration:	06:41:42
+		Location:	50.94446 6.98113
+
+	KFK2
+		Images:	3111
+		Time:	11.04.2025 07:40:05 until 11.04.2025 14:59:26
+		Duration:	07:19:21
+		Location:	50.94446 6.98113
+
+	STL2
+		Images:	4790
+		Time:	11.04.2025 15:12:28 until 11.04.2025 21:00:14
+		Duration:	05:47:46
+		Location:	50.94446 6.98113
+
+	VL2
+		Images:	6686
+		Time:	11.04.2025 08:24:13 until 11.04.2025 21:03:02
+		Duration:	12:38:49
+		Location:	50.94446 6.98113
+
+	RA2
+		Images:	8785
+		Time:	11.04.2025 16:06:26 until 11.04.2025 21:00:13
+		Duration:	04:53:47
+		Location:	50.94446 6.98113
+
+(4) - Obstacle 3 Sled Pull
+	SSW1
+		Images:	5698
+		Time:	10.04.2025 10:21:08 until 11.04.2025 14:35:25
+		Duration:	1.04:14:17
+		Location:	50.94446 6.98113
+
+	FCO1
+		Images:	3662
+		Time:	11.04.2025 07:51:51 until 11.04.2025 14:30:29
+		Duration:	06:38:38
+		Location:	50.94446 6.98113
+
+	WEN1
+		Images:	3886
+		Time:	11.04.2025 08:13:18 until 11.04.2025 14:36:10
+		Duration:	06:22:52
+		Location:	50.94446 6.98113
+
+	MBEN2
+		Images:	5309
+		Time:	11.04.2025 14:40:07 until 11.04.2025 21:03:16
+		Duration:	06:23:09
+		Location:	50.94446 6.98113
+
+	MW2
+		Images:	5275
+		Time:	11.04.2025 14:35:12 until 11.04.2025 21:04:17
+		Duration:	06:29:05
+		Location:	50.94446 6.98113
+
+	BENL2
+		Images:	3490
+		Time:	11.04.2025 15:28:37 until 11.04.2025 20:43:04
+		Duration:	05:14:27
+		Location:	50.94446 6.98113
+
+(5) - Obstacle 5 Rowing
+	STL1
+		Images:	5060
+		Time:	10.04.2025 10:37:19 until 11.04.2025 14:59:37
+		Duration:	1.04:22:18
+		Location:	50.94446 6.98113
+
+	VL1
+		Images:	7781
+		Time:	10.04.2025 10:13:37 until 11.04.2025 14:40:18
+		Duration:	1.04:26:41
+		Location:	50.94446 6.98113
+
+	SSW2
+		Images:	10486
+		Time:	11.04.2025 14:39:57 until 11.04.2025 21:20:50
+		Duration:	06:40:53
+		Location:	50.94446 6.98113
+
+	DRI2
+		Images:	12767
+		Time:	11.04.2025 15:00:53 until 11.04.2025 21:41:04
+		Duration:	06:40:11
+		Location:	50.94446 6.98113
+
+	ALN1
+		Images:	2036
+		Time:	11.04.2025 09:35:52 until 11.04.2025 16:39:17
+		Duration:	07:03:25
+		Location:	50.94446 6.98113
+
+	GUD1
+		Images:	1853
+		Time:	11.04.2025 09:33:57 until 11.04.2025 16:20:46
+		Duration:	06:46:49
+		Location:	50.94446 6.98113
+
+(6) - Running arch
+	GUD1LS1
+		Images:	2636
+		Time:	10.04.2025 10:52:58 until 11.04.2025 21:27:26
+		Duration:	1.10:34:28
+		Location:	50.94446 6.98113
+
+	GUD1LS2
+		Images:	2582
+		Time:	11.04.2025 07:41:36 until 11.04.2025 21:27:25
+		Duration:	13:45:49
+		Location:	50.94446 6.98113
+
+(7) - Obstacle 6 Farmers Carry
+	ALN1LS1
+		Images:	6316
+		Time:	11.04.2025 08:25:38 until 11.04.2025 21:52:09
+		Duration:	13:26:31
+		Location:	50.94446 6.98113
+
+	ALN1LS2
+		Images:	5627
+		Time:	11.04.2025 08:14:37 until 11.04.2025 21:34:52
+		Duration:	13:20:15
+		Location:	50.94446 6.98113
+
+(8) - Obstacle 7 Sandbag Lunges
+	RA1
+		Images:	9329
+		Time:	11.04.2025 08:52:20 until 11.04.2025 15:20:17
+		Duration:	06:27:57
+		Location:	50.94446 6.98113
+
+	BENL1
+		Images:	2790
+		Time:	11.04.2025 08:10:39 until 11.04.2025 14:49:02
+		Duration:	06:38:23
+		Location:	50.94446 6.98113
+
+	MSC2
+		Images:	2922
+		Time:	11.04.2025 15:23:24 until 11.04.2025 21:44:03
+		Duration:	06:20:39
+		Location:	50.94446 6.98113
+
+	OT2
+		Images:	27621
+		Time:	11.04.2025 14:49:36 until 11.04.2025 22:02:55
+		Duration:	07:13:19
+		Location:	50.94446 6.98113
+
+	ALN2
+		Images:	1608
+		Time:	11.04.2025 10:10:03 until 11.04.2025 17:04:22
+		Duration:	06:54:19
+		Location:	50.94446 6.98113
+
+	GUD2
+		Images:	1207
+		Time:	11.04.2025 10:08:54 until 11.04.2025 17:08:16
+		Duration:	06:59:22
+		Location:	50.94446 6.98113
+
+(9) - Obstacle 8 Wall Balls
+	OT1
+		Images:	13803
+		Time:	11.04.2025 07:46:53 until 11.04.2025 14:37:36
+		Duration:	06:50:43
+		Location:	50.94446 6.98113
+
+	THL1
+		Images:	3428
+		Time:	11.04.2025 08:53:43 until 11.04.2025 14:30:05
+		Duration:	05:36:22
+		Location:	50.94446 6.98113
+
+	MHO2
+		Images:	6923
+		Time:	11.04.2025 14:58:39 until 11.04.2025 21:55:55
+		Duration:	06:57:16
+		Location:	50.94446 6.98113
+
+	LUGR2
+		Images:	4564
+		Time:	11.04.2025 14:38:44 until 11.04.2025 22:03:01
+		Duration:	07:24:17
+		Location:	50.94446 6.98113
+
+	ALN3
+		Images:	1561
+		Time:	11.04.2025 10:51:28 until 11.04.2025 17:50:30
+		Duration:	06:59:02
+		Location:	50.94446 6.98113
+
+	GUD3
+		Images:	1004
+		Time:	11.04.2025 10:53:12 until 11.04.2025 17:47:17
+		Duration:	06:54:05
+		Location:	50.94446 6.98113
+
+(10) - Finish
+	MSC1
+		Images:	3109
+		Time:	11.04.2025 08:18:24 until 11.04.2025 15:15:09
+		Duration:	06:56:45
+		Location:	50.94446 6.98113
+
+	AGU2
+		Images:	6491
+		Time:	11.04.2025 15:15:25 until 11.04.2025 21:54:46
+		Duration:	06:39:21
+		Location:	50.94446 6.98113
+
+	GUD4
+		Images:	1044
+		Time:	11.04.2025 11:29:38 until 11.04.2025 18:30:36
+		Duration:	07:00:58
+		Location:	50.94446 6.98113
+
+	AGU2LS1
+		Images:	6757
+		Time:	11.04.2025 07:59:26 until 11.04.2025 21:58:14
+		Duration:	13:58:48
+		Location:	50.94446 6.98113
+
+	ALN4LS1
+		Images:	5415
+		Time:	11.04.2025 08:52:51 until 11.04.2025 21:57:07
+		Duration:	13:04:16
+		Location:	50.94446 6.98113
+
+(11) - Herowall
+	DRI1
+		Images:	3438
+		Time:	11.04.2025 09:08:52 until 11.04.2025 14:49:51
+		Duration:	05:40:59
+		Location:	50.94446 6.98113
+
+	THL2
+		Images:	8209
+		Time:	11.04.2025 14:51:17 until 11.04.2025 22:08:34
+		Duration:	07:17:17
+		Location:	50.94446 6.98113
+
+(12) - Impressions / Pano
+	PANO1

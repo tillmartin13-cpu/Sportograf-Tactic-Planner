@@ -1,0 +1,159 @@
+EventId: 14440
+Spots: 23
+Total Images: 151672
+Time:	01.01.0001 23:00:00 to 07.09.2025 16:05:28
+Duration: 739499.17:05:28
+
+(1) - Obstacle 3 Barbed Wire Crawl
+	BELPA1
+		Images:	13451
+		Time:	05.09.2025 23:13:46 until 06.09.2025 16:53:52
+		Duration:	17:40:06
+		Location:	37.91730 -81.13222
+
+	BVICY2
+		Images:	428
+		Time:	06.09.2025 11:27:28 until 06.09.2025 11:32:17
+		Duration:	00:04:49
+		Location:	37.91730 -81.13222
+
+(2) - Obstacle 5 Sandbag Carry
+	BGMAL2
+		Images:	762
+		Time:	06.09.2025 14:50:54 until 06.09.2025 17:00:28
+		Duration:	02:09:34
+		Location:	37.91927 -81.13158
+
+(3) - Obstacle 7 Slip Wall
+	BSICA1
+		Images:	12508
+		Time:	06.09.2025 07:54:57 until 06.09.2025 17:08:27
+		Duration:	09:13:30
+		Location:	37.91741 -81.13177
+
+	BVICY3
+		Images:	229
+		Time:	06.09.2025 11:44:08 until 06.09.2025 11:47:43
+		Duration:	00:03:35
+		Location:	37.91741 -81.13177
+
+(4) - Obstacle 8 Water Crossing
+	BMBRS1
+		Images:	10092
+		Time:	06.09.2025 07:22:32 until 06.09.2025 17:19:46
+		Duration:	09:57:14
+		Location:	37.91600 -81.13357
+
+	BVICY4
+		Images:	856
+		Time:	06.09.2025 11:57:37 until 06.09.2025 12:16:59
+		Duration:	00:19:22
+		Location:	37.91600 -81.13357
+
+(5) - Obstacle 12 Tilting Ladder
+	BMSK1
+		Images:	5687
+		Time:	06.09.2025 08:10:00 until 06.09.2025 13:02:35
+		Duration:	04:52:35
+		Location:	37.91880 -81.13630
+
+	BJMCK1
+		Images:	5889
+		Time:	06.09.2025 07:14:05 until 06.09.2025 17:30:17
+		Duration:	10:16:12
+		Location:	37.91880 -81.13630
+
+(6) - Obstacle 15 Bucket Carry
+	BPEC2
+		Images:	8788
+		Time:	06.09.2025 15:10:12 until 06.09.2025 17:47:10
+		Duration:	02:36:58
+		Location:	37.92551 -81.13718
+
+(7) - Obstacle 17 Bender
+	BGMAL1
+		Images:	1767
+		Time:	06.09.2025 08:15:24 until 06.09.2025 13:49:08
+		Duration:	05:33:44
+		Location:	37.92975 -81.13372
+
+	BPEC1
+		Images:	26558
+		Time:	06.09.2025 07:41:34 until 06.09.2025 14:35:42
+		Duration:	06:54:08
+		Location:	37.92975 -81.13372
+
+(8) - Obstacle 19 Stairway to Sparta
+	BJBB1
+		Images:	21036
+		Time:	06.09.2025 08:07:24 until 06.09.2025 14:04:49
+		Duration:	05:57:25
+		Location:	37.92852 -81.12808
+
+(9) - Obstacle 11 A-Frame Cargo #2
+	BJBB2
+		Images:	7486
+		Time:	06.09.2025 15:00:03 until 06.09.2025 17:30:46
+		Duration:	02:30:43
+		Location:	37.91855 -81.13686
+
+(10) - Obstacle 31 T Wall
+	BCORS1
+		Images:	4955
+		Time:	06.09.2025 08:22:11 until 06.09.2025 13:22:19
+		Duration:	05:00:08
+		Location:	37.92494 -81.13630
+
+	BTFUL1
+		Images:	4168
+		Time:	06.09.2025 08:25:54 until 06.09.2025 13:22:10
+		Duration:	04:56:16
+		Location:	37.92494 -81.13630
+
+(11) - Obstacle 35 Chain Carry
+	BEUGP1
+		Images:	3406
+		Time:	06.09.2025 08:03:05 until 06.09.2025 18:19:23
+		Duration:	10:16:18
+		Location:	37.91822 -81.13422
+
+	BYEP1
+		Images:	7459
+		Time:	06.09.2025 07:43:26 until 06.09.2025 17:34:47
+		Duration:	09:51:21
+		Location:	37.91822 -81.13422
+
+(12) - Obstacle 38 Fire Jump
+	BTRC1
+		Images:	8683
+		Time:	06.09.2025 07:03:33 until 06.09.2025 18:27:14
+		Duration:	11:23:41
+		Location:	37.91813 -81.13536
+
+(13) - Herotent
+	BIZZY1
+		Images:	6671
+		Time:	05.09.2025 22:30:59 until 06.09.2025 18:32:25
+		Duration:	20:01:26
+		Location:	37.91815 -81.13560
+
+	BVICY5
+		Images:	432
+		Time:	06.09.2025 12:38:30 until 06.09.2025 15:22:48
+		Duration:	02:44:18
+		Location:	37.91815 -81.13560
+
+(14) - Venue
+	BVICY1
+		Images:	284
+		Time:	06.09.2025 07:21:10 until 06.09.2025 09:49:56
+		Duration:	02:28:46
+		Location:	37.91815 -81.13560
+
+(15) - Impressions / Pano
+	BVICY6
+		Images:	16
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	37.91815 -81.13560
+

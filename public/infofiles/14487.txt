@@ -1,0 +1,125 @@
+EventId: 14487
+Spots: 19
+Total Images: 38372
+Time:	28.03.2025 17:32:01 to 30.03.2025 08:18:24
+Duration: 1.14:46:23
+
+(1) - ENGINE
+	IGM1
+		Images:	2381
+		Time:	29.03.2025 06:35:00 until 29.03.2025 15:09:29
+		Duration:	08:34:29
+		Location:	-33.87464 151.19946
+
+	TPA2
+		Images:	2416
+		Time:	29.03.2025 12:41:53 until 29.03.2025 17:34:36
+		Duration:	04:52:43
+		Location:	-33.87464 151.19946
+
+	WP1
+		Images:	4365
+		Time:	28.03.2025 17:32:01 until 29.03.2025 12:53:40
+		Duration:	19:21:39
+		Location:	-33.87464 151.19946
+
+(2) - LIFT OFF
+	IGM2
+		Images:	847
+		Time:	29.03.2025 08:02:47 until 29.03.2025 10:37:07
+		Duration:	02:34:20
+		Location:	-33.87464 151.19946
+
+	NIF3
+		Images:	952
+		Time:	29.03.2025 12:50:48 until 29.03.2025 18:05:38
+		Duration:	05:14:50
+		Location:	-33.87464 151.19946
+
+	TPA1
+		Images:	1113
+		Time:	29.03.2025 07:06:19 until 30.03.2025 08:18:24
+		Duration:	1.01:12:05
+		Location:	-33.87464 151.19946
+
+	WP2
+		Images:	356
+		Time:	29.03.2025 11:32:23 until 30.03.2025 08:16:06
+		Duration:	20:43:43
+		Location:	-33.87464 151.19946
+
+	VFV3
+		Images:	3317
+		Time:	29.03.2025 07:51:15 until 29.03.2025 18:05:50
+		Duration:	10:14:35
+		Location:	-33.87464 151.19946
+
+(3) - AMRAP
+	IGM3
+		Images:	1677
+		Time:	29.03.2025 11:18:53 until 29.03.2025 17:55:42
+		Duration:	06:36:49
+		Location:	-33.87464 151.19946
+
+	NIF2
+		Images:	3006
+		Time:	29.03.2025 08:46:52 until 29.03.2025 16:20:54
+		Duration:	07:34:02
+		Location:	-33.87464 151.19946
+
+	TPA3
+		Images:	445
+		Time:	29.03.2025 16:35:27 until 29.03.2025 18:34:47
+		Duration:	01:59:20
+		Location:	-33.87464 151.19946
+
+	WP3
+		Images:	4467
+		Time:	29.03.2025 13:02:46 until 29.03.2025 18:35:01
+		Duration:	05:32:15
+		Location:	-33.87464 151.19946
+
+	VFV1
+		Images:	2212
+		Time:	29.03.2025 06:31:01 until 29.03.2025 11:12:49
+		Duration:	04:41:48
+		Location:	-33.87464 151.19946
+
+	VFV2
+		Images:	2183
+		Time:	29.03.2025 08:15:12 until 29.03.2025 18:33:40
+		Duration:	10:18:28
+		Location:	-33.87464 151.19946
+
+	VFV5
+		Images:	2183
+		Time:	29.03.2025 08:15:12 until 29.03.2025 18:33:40
+		Duration:	10:18:28
+		Location:	-33.87464 151.19946
+
+(4) - SPRINT
+	NIF1
+		Images:	1087
+		Time:	29.03.2025 06:41:13 until 30.03.2025 08:07:17
+		Duration:	1.01:26:04
+		Location:	-33.87464 151.19946
+
+	TPA4LS1
+		Images:	5297
+		Time:	29.03.2025 06:35:38 until 29.03.2025 17:17:44
+		Duration:	10:42:06
+		Location:	-33.87464 151.19946
+
+(5) - Herotent
+	TPA4
+		Images:	7
+		Time:	29.03.2025 17:35:12 until 29.03.2025 17:55:18
+		Duration:	00:20:06
+		Location:	-33.87464 151.19946
+
+	VFV4
+		Images:	61
+		Time:	29.03.2025 11:19:39 until 29.03.2025 11:26:04
+		Duration:	00:06:25
+		Location:	-33.87464 151.19946
+

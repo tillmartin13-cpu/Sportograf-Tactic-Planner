@@ -1,0 +1,93 @@
+EventId: 16006
+Spots: 14
+Total Images: 29112
+Time:	23.03.2025 05:57:11 to 23.03.2025 16:40:58
+Duration: 10:43:47
+
+(1) - 5.0 km Jubiläumskreuz
+	ASTU1
+		Images:	5126
+		Time:	23.03.2025 06:36:11 until 23.03.2025 10:08:27
+		Duration:	03:32:16
+		Location:	47.98053 16.16311
+
+(2) - Ceremony
+	ASTU2
+		Images:	400
+		Time:	23.03.2025 08:28:16 until 23.03.2025 13:26:16
+		Duration:	04:58:00
+		Location:	NULL NULL
+
+	KPR3
+		Images:	53
+		Time:	23.03.2025 13:08:50 until 23.03.2025 13:25:56
+		Duration:	00:17:06
+		Location:	NULL NULL
+
+	ISM4
+		Images:	174
+		Time:	23.03.2025 15:57:52 until 23.03.2025 16:09:54
+		Duration:	00:12:02
+		Location:	NULL NULL
+
+(3) - Finish
+	ASTU3
+		Images:	203
+		Time:	23.03.2025 13:05:43 until 23.03.2025 13:11:46
+		Duration:	00:06:03
+		Location:	47.96703 16.21082
+
+	DRU1
+		Images:	4424
+		Time:	23.03.2025 06:01:30 until 23.03.2025 14:16:14
+		Duration:	08:14:44
+		Location:	47.96706 16.21022
+
+	KPR2
+		Images:	35
+		Time:	23.03.2025 13:10:29 until 23.03.2025 13:17:30
+		Duration:	00:07:01
+		Location:	47.96703 16.21082
+
+	ISM3
+		Images:	1319
+		Time:	23.03.2025 10:49:29 until 23.03.2025 16:40:58
+		Duration:	05:51:29
+		Location:	47.96703 16.21082
+
+	ISM3LS1
+		Images:	1844
+		Time:	23.03.2025 05:57:11 until 23.03.2025 15:34:27
+		Duration:	09:37:16
+		Location:	47.96696 16.21271
+
+(4) - 0.0 km Finish2
+	DRU2
+		Images:	403
+		Time:	23.03.2025 13:55:05 until 23.03.2025 16:40:56
+		Duration:	02:45:51
+		Location:	47.96703 16.21082
+
+(5) - 14.5 km
+	KPR1
+		Images:	11476
+		Time:	23.03.2025 06:02:55 until 23.03.2025 11:18:39
+		Duration:	05:15:44
+		Location:	48.00018 16.19664
+
+(6) - Impressions / Pano
+	PANO1
+(7) - 1.0 km
+	ISM1
+		Images:	1529
+		Time:	23.03.2025 06:38:44 until 23.03.2025 09:34:11
+		Duration:	02:55:27
+		Location:	48.00018 16.19664
+
+(8) - 1.2 km
+	ISM2
+		Images:	2126
+		Time:	23.03.2025 09:37:35 until 23.03.2025 10:30:03
+		Duration:	00:52:28
+		Location:	47.96817 16.20629
+

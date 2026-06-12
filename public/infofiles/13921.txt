@@ -1,0 +1,160 @@
+EventId: 13921
+Spots: 25
+Total Images: 57361
+Time:	20.07.2025 07:02:44 to 20.07.2025 17:14:36
+Duration: 10:11:52
+
+(1) - Start
+	ISA1
+		Images:	592
+		Time:	20.07.2025 07:02:44 until 20.07.2025 07:53:23
+		Duration:	00:50:39
+		Location:	47.81117 7.10447
+
+(2) - 16.0 km
+	MAWI1
+		Images:	2631
+		Time:	20.07.2025 08:15:33 until 20.07.2025 09:15:44
+		Duration:	01:00:11
+		Location:	47.86909 7.09531
+
+	MAWI1LS2
+		Images:	2977
+		Time:	20.07.2025 08:15:41 until 20.07.2025 09:15:56
+		Duration:	01:00:15
+		Location:	47.86909 7.09531
+
+	MAWI1LS1
+		Images:	2994
+		Time:	20.07.2025 08:09:20 until 20.07.2025 09:15:56
+		Duration:	01:06:36
+		Location:	47.86909 7.09531
+
+(3) - 19.0 km
+	LBL1
+		Images:	2847
+		Time:	20.07.2025 08:17:24 until 20.07.2025 09:35:21
+		Duration:	01:17:57
+		Location:	47.87778 7.11895
+
+(4) - 27.0 km
+	DABI1
+		Images:	3573
+		Time:	20.07.2025 07:48:28 until 20.07.2025 11:01:16
+		Duration:	03:12:48
+		Location:	47.89759 7.10334
+
+	DABI1LS1
+		Images:	2749
+		Time:	20.07.2025 08:26:07 until 20.07.2025 11:09:18
+		Duration:	02:43:11
+		Location:	47.89759 7.10334
+
+(5) - 35.0 km
+	MAPP1
+		Images:	4444
+		Time:	20.07.2025 07:38:56 until 20.07.2025 11:41:54
+		Duration:	04:02:58
+		Location:	47.92220 7.03753
+
+	MAPP1LS1
+		Images:	1974
+		Time:	20.07.2025 09:01:39 until 20.07.2025 11:32:22
+		Duration:	02:30:43
+		Location:	47.92220 7.03753
+
+(6) - 86.0 km
+	MAMO1
+		Images:	2096
+		Time:	20.07.2025 10:31:30 until 20.07.2025 14:13:11
+		Duration:	03:41:41
+		Location:	47.98514 7.12093
+
+(7) - 91.1 km
+	JSCH1
+		Images:	6616
+		Time:	20.07.2025 10:44:45 until 20.07.2025 14:27:31
+		Duration:	03:42:46
+		Location:	47.98076 7.07664
+
+(8) - 101.0 km
+	EVL1
+		Images:	2789
+		Time:	20.07.2025 08:27:01 until 20.07.2025 14:57:57
+		Duration:	06:30:56
+		Location:	47.97832 7.05536
+
+	EVL1LS1
+		Images:	1831
+		Time:	20.07.2025 07:52:57 until 20.07.2025 14:59:32
+		Duration:	07:06:35
+		Location:	47.97832 7.05536
+
+(9) - 110.9 km
+	MAPP2
+		Images:	2213
+		Time:	20.07.2025 11:43:31 until 20.07.2025 15:25:19
+		Duration:	03:41:48
+		Location:	47.97832 7.05536
+
+	MAPP2LS1
+		Images:	1389
+		Time:	20.07.2025 11:43:29 until 20.07.2025 15:21:54
+		Duration:	03:38:25
+		Location:	47.97832 7.05536
+
+(10) - 119.8 km
+	DABI2
+(11) - 127.3 km
+	LBL2
+		Images:	4876
+		Time:	20.07.2025 09:52:42 until 20.07.2025 16:25:55
+		Duration:	06:33:13
+		Location:	47.85989 7.13778
+
+(12) - 128.5 km
+	MAWI2
+		Images:	2922
+		Time:	20.07.2025 10:13:10 until 20.07.2025 16:06:58
+		Duration:	05:53:48
+		Location:	47.86545 7.12556
+
+	MAWI2LS2
+		Images:	1487
+		Time:	20.07.2025 09:59:38 until 20.07.2025 16:09:42
+		Duration:	06:10:04
+		Location:	47.86545 7.12556
+
+	MAWI2LS1
+		Images:	2094
+		Time:	20.07.2025 10:09:18 until 20.07.2025 16:06:55
+		Duration:	05:57:37
+		Location:	47.86545 7.12556
+
+(13) - Finish
+	ISA2
+		Images:	2509
+		Time:	20.07.2025 09:49:13 until 20.07.2025 17:14:36
+		Duration:	07:25:23
+		Location:	47.81117 7.10447
+
+	ISA2LS2
+		Images:	749
+		Time:	20.07.2025 09:10:02 until 20.07.2025 16:47:37
+		Duration:	07:37:35
+		Location:	47.81117 7.10447
+
+	ISA2LS1
+		Images:	1000
+		Time:	20.07.2025 09:12:02 until 20.07.2025 16:47:20
+		Duration:	07:35:18
+		Location:	47.81117 7.10447
+
+(14) - Impressions / Pano
+	EVL1DRONE1
+		Images:	9
+		Time:	20.07.2025 08:22:26 until 20.07.2025 16:44:10
+		Duration:	08:21:44
+		Location:	47.81117 7.10447
+
+	PANO1

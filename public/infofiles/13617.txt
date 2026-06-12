@@ -1,0 +1,112 @@
+EventId: 13617
+Spots: 17
+Total Images: 46244
+Time:	29.08.2025 11:58:32 to 30.08.2025 15:54:25
+Duration: 1.03:55:53
+
+(1) - 4.7 km  all distances
+	MTR1
+		Images:	7047
+		Time:	29.08.2025 20:44:42 until 30.08.2025 09:22:42
+		Duration:	12:38:00
+		Location:	50.10589 5.82118
+
+(2) - 5.6 km all distances
+	PBO1
+		Images:	2658
+		Time:	29.08.2025 20:35:40 until 30.08.2025 09:22:38
+		Duration:	12:46:58
+		Location:	50.11159 5.8265
+
+(3) - 13.8 km all distances
+	MK1
+		Images:	4123
+		Time:	30.08.2025 08:56:57 until 30.08.2025 09:43:16
+		Duration:	00:46:19
+		Location:	50.15 5.86823
+
+	MK1LS1
+		Images:	1087
+		Time:	30.08.2025 08:56:01 until 30.08.2025 09:47:58
+		Duration:	00:51:57
+		Location:	50.15 5.86823
+
+	MK1LS2
+		Images:	1094
+		Time:	30.08.2025 08:54:28 until 30.08.2025 09:43:25
+		Duration:	00:48:57
+		Location:	50.15 5.86823
+
+(4) - Impressions / Pano
+	MK1DRONE1
+		Images:	17
+		Time:	30.08.2025 14:33:40 until 30.08.2025 14:48:54
+		Duration:	00:15:14
+		Location:	50.15 5.86823
+
+	PANO1
+(5) - 15.7 km all distances
+	LV1
+		Images:	3284
+		Time:	30.08.2025 08:54:23 until 30.08.2025 09:52:13
+		Duration:	00:57:50
+		Location:	50.1636 5.86275
+
+	LV1LS1
+		Images:	167
+		Time:	30.08.2025 08:25:52 until 30.08.2025 09:45:37
+		Duration:	01:19:45
+		Location:	50.1636 5.86275
+
+(6) - LAP 2+3 - km 24,8 + km70,6 + km 116
+	LV2
+		Images:	3441
+		Time:	30.08.2025 10:45:20 until 30.08.2025 15:54:25
+		Duration:	05:09:05
+		Location:	50.21688 5.79471
+
+	LV2LS1
+		Images:	782
+		Time:	30.08.2025 11:25:18 until 30.08.2025 15:15:28
+		Duration:	03:50:10
+		Location:	50.21688 5.79471
+
+	LV2LS2
+		Images:	1028
+		Time:	30.08.2025 11:38:35 until 30.08.2025 15:14:51
+		Duration:	03:36:16
+		Location:	50.21688 5.79471
+
+(7) - LAP 2+3 - km 25.5 + km71.5,6 + km 117
+	MK2
+		Images:	5703
+		Time:	30.08.2025 10:33:21 until 30.08.2025 15:14:07
+		Duration:	04:40:46
+		Location:	50.21749 5.78507
+
+	MK2LS1
+		Images:	1434
+		Time:	29.08.2025 11:58:32 until 30.08.2025 14:59:33
+		Duration:	1.03:01:01
+		Location:	50.21749 5.78507
+
+	MK2LS2
+		Images:	1290
+		Time:	30.08.2025 10:46:09 until 30.08.2025 15:09:27
+		Duration:	04:23:18
+		Location:	50.21749 5.78507
+
+(8) - LAP 2+3 - km 41,6 + km 87,5 + km133
+	PBO2
+		Images:	7363
+		Time:	30.08.2025 10:04:40 until 30.08.2025 15:45:52
+		Duration:	05:41:12
+		Location:	50.14294 5.80459
+
+(9) - Finish
+	MTR2
+		Images:	5726
+		Time:	30.08.2025 09:57:04 until 30.08.2025 15:51:26
+		Duration:	05:54:22
+		Location:	50.13323 5.78868
+

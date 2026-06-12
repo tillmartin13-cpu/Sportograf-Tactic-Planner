@@ -1,0 +1,67 @@
+EventId: 16893
+Spots: 9
+Total Images: 67822
+Time:	10.05.2025 06:17:29 to 11.05.2025 09:44:42
+Duration: 1.03:27:13
+
+(1) - Start
+	BKO1
+		Images:	2169
+		Time:	10.05.2025 06:17:29 until 10.05.2025 09:46:12
+		Duration:	03:28:43
+		Location:	52.93419 1.28424
+
+(2) - Weybourne Cliffs - 10.2Km
+	LOT1
+		Images:	6772
+		Time:	10.05.2025 08:16:58 until 11.05.2025 09:44:42
+		Duration:	1.01:27:44
+		Location:	52.94884 1.14197
+
+	BKO3
+		Images:	5769
+		Time:	10.05.2025 10:19:09 until 10.05.2025 12:09:49
+		Duration:	01:50:40
+		Location:	52.94884 1.14197
+
+(3) - Cley Beach - 16.8Km
+	OH1
+		Images:	7324
+		Time:	10.05.2025 08:59:20 until 11.05.2025 08:42:33
+		Duration:	23:43:13
+		Location:	52.96556 1.04871
+
+(4) - Wells Paddle Sports - 34.5Km
+	DANO1
+		Images:	17472
+		Time:	10.05.2025 10:33:39 until 11.05.2025 07:04:54
+		Duration:	20:31:15
+		Location:	52.95686 0.86233
+
+(5) - Holkham Obelisk - 41.7Km
+	LOT2
+		Images:	7342
+		Time:	10.05.2025 13:51:09 until 10.05.2025 21:11:24
+		Duration:	07:20:15
+		Location:	52.94353 0.80204
+
+	OH2
+		Images:	2881
+		Time:	10.05.2025 15:28:13 until 10.05.2025 17:57:26
+		Duration:	02:29:13
+		Location:	52.94353 0.80204
+
+(6) - Finish
+	BKO2
+		Images:	17907
+		Time:	10.05.2025 13:54:38 until 10.05.2025 21:25:38
+		Duration:	07:31:00
+		Location:	52.94604 0.79960
+
+(7) - Impressions / Pano
+	OH3
+		Images:	186
+		Time:	10.05.2025 18:34:35 until 10.05.2025 19:10:44
+		Duration:	00:36:09
+		Location:	52.94604 0.79960
+

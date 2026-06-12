@@ -1,0 +1,199 @@
+EventId: 13432
+Spots: 31
+Total Images: 257710
+Time:	13.09.2025 17:53:06 to 14.09.2025 13:28:04
+Duration: 19:34:58
+
+(1) - Start
+	BGL1
+		Images:	12478
+		Time:	14.09.2025 09:00:07 until 14.09.2025 12:46:22
+		Duration:	03:46:15
+		Location:	NULL NULL
+
+	JDU1
+		Images:	999
+		Time:	13.09.2025 22:05:55 until 14.09.2025 09:49:39
+		Duration:	11:43:44
+		Location:	NULL NULL
+
+	THL1
+		Images:	315
+		Time:	14.09.2025 07:52:34 until 14.09.2025 09:11:02
+		Duration:	01:18:28
+		Location:	NULL NULL
+
+(2) - 0.5 km
+	PBO1
+		Images:	2461
+		Time:	13.09.2025 19:35:20 until 14.09.2025 09:29:59
+		Duration:	13:54:39
+		Location:	NULL NULL
+
+	JBE1
+		Images:	9376
+		Time:	14.09.2025 08:59:05 until 14.09.2025 11:33:07
+		Duration:	02:34:02
+		Location:	NULL NULL
+
+(3) - 1.0 km Alma Tunnel
+	NKR1
+		Images:	11153
+		Time:	14.09.2025 06:37:33 until 14.09.2025 12:28:06
+		Duration:	05:50:33
+		Location:	NULL NULL
+
+	KFK1
+		Images:	15890
+		Time:	13.09.2025 20:18:37 until 14.09.2025 12:33:29
+		Duration:	16:14:52
+		Location:	NULL NULL
+
+(4) - 2.5 km  Avenue des Champs
+	LV1LS2
+		Images:	6174
+		Time:	14.09.2025 09:36:39 until 14.09.2025 12:01:08
+		Duration:	02:24:29
+		Location:	NULL NULL
+
+	LV1
+		Images:	17645
+		Time:	14.09.2025 09:08:22 until 14.09.2025 12:04:40
+		Duration:	02:56:18
+		Location:	NULL NULL
+
+	LV1LS1
+		Images:	1476
+		Time:	14.09.2025 09:11:45 until 14.09.2025 09:36:38
+		Duration:	00:24:53
+		Location:	NULL NULL
+
+	MK1LS1
+		Images:	2857
+		Time:	14.09.2025 08:37:12 until 14.09.2025 12:05:04
+		Duration:	03:27:52
+		Location:	NULL NULL
+
+	MK1
+		Images:	23337
+		Time:	14.09.2025 08:50:27 until 14.09.2025 12:00:50
+		Duration:	03:10:23
+		Location:	NULL NULL
+
+	MK1LS2
+		Images:	6260
+		Time:	14.09.2025 09:12:09 until 14.09.2025 11:39:33
+		Duration:	02:27:24
+		Location:	NULL NULL
+
+(5) - 4.0 km before finish,Pont Alexander III
+	PMC2
+		Images:	7002
+		Time:	14.09.2025 10:35:07 until 14.09.2025 12:19:08
+		Duration:	01:44:01
+		Location:	NULL NULL
+
+	PMC1
+		Images:	6145
+		Time:	14.09.2025 08:30:53 until 14.09.2025 10:35:07
+		Duration:	02:04:14
+		Location:	NULL NULL
+
+	JOS1
+		Images:	12639
+		Time:	14.09.2025 08:31:51 until 14.09.2025 11:02:47
+		Duration:	02:30:56
+		Location:	NULL NULL
+
+	JOS2
+		Images:	7796
+		Time:	14.09.2025 11:02:47 until 14.09.2025 12:16:59
+		Duration:	01:14:12
+		Location:	NULL NULL
+
+(6) - 3.5 km before finish
+	PBO2
+		Images:	16694
+		Time:	14.09.2025 09:30:15 until 14.09.2025 12:42:21
+		Duration:	03:12:06
+		Location:	NULL NULL
+
+	JBE2
+		Images:	2777
+		Time:	14.09.2025 11:33:29 until 14.09.2025 12:41:16
+		Duration:	01:07:47
+		Location:	NULL NULL
+
+(7) - 3.0 km before finish
+	JDU2
+		Images:	5806
+		Time:	14.09.2025 09:49:41 until 14.09.2025 12:41:44
+		Duration:	02:52:03
+		Location:	NULL NULL
+
+(8) - 2.2 km befor finish Pont de Bir Haikeim
+	THL2LS1
+		Images:	4006
+		Time:	14.09.2025 09:50:10 until 14.09.2025 12:18:04
+		Duration:	02:27:54
+		Location:	NULL NULL
+
+	THL2
+		Images:	30630
+		Time:	14.09.2025 09:31:50 until 14.09.2025 12:52:02
+		Duration:	03:20:12
+		Location:	NULL NULL
+
+(9) - 2.0 km before finish ,Pont de Bir-Hakeim
+	IBLA1
+		Images:	7963
+		Time:	14.09.2025 08:50:03 until 14.09.2025 13:00:43
+		Duration:	04:10:40
+		Location:	NULL NULL
+
+	TAYP1
+		Images:	4326
+		Time:	14.09.2025 09:02:14 until 14.09.2025 12:54:05
+		Duration:	03:51:51
+		Location:	NULL NULL
+
+(10) - 1.0 km before finish , nakd zone
+	MASG1
+		Images:	3824
+		Time:	14.09.2025 00:05:17 until 14.09.2025 13:09:15
+		Duration:	13:03:58
+		Location:	NULL NULL
+
+	API1
+		Images:	10318
+		Time:	13.09.2025 17:53:06 until 14.09.2025 13:02:42
+		Duration:	19:09:36
+		Location:	NULL NULL
+
+(11) - Finish
+	JI1
+		Images:	9298
+		Time:	14.09.2025 07:39:28 until 14.09.2025 13:28:04
+		Duration:	05:48:36
+		Location:	NULL NULL
+
+	FRED1
+		Images:	5721
+		Time:	14.09.2025 08:35:52 until 14.09.2025 13:19:46
+		Duration:	04:43:54
+		Location:	NULL NULL
+
+	GUF1
+		Images:	2520
+		Time:	14.09.2025 08:35:24 until 14.09.2025 12:16:41
+		Duration:	03:41:17
+		Location:	NULL NULL
+
+	MAI1
+		Images:	9824
+		Time:	14.09.2025 07:39:45 until 14.09.2025 13:19:17
+		Duration:	05:39:32
+		Location:	NULL NULL
+
+(12) - Impressions / Pano
+	PANO1

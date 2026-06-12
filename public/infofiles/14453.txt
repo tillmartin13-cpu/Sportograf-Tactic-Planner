@@ -1,0 +1,348 @@
+EventId: 14453
+Spots: 56
+Total Images: 198265
+Time:	07.11.2025 08:18:18 to 09.11.2025 14:46:36
+Duration: 2.06:28:18
+
+(1) - Finish
+	CCZ1LS1
+		Images:	2443
+		Time:	08.11.2025 09:38:53 until 08.11.2025 21:23:20
+		Duration:	11:44:27
+		Location:	19.44052 -99.22374
+
+	IPL1
+		Images:	8265
+		Time:	08.11.2025 07:27:51 until 08.11.2025 14:14:18
+		Duration:	06:46:27
+		Location:	19.44052 -99.22374
+
+	EGG1LS1
+		Images:	5981
+		Time:	07.11.2025 08:18:18 until 08.11.2025 20:24:11
+		Duration:	1.12:05:53
+		Location:	19.44052 -99.22374
+
+	SAM4
+		Images:	3293
+		Time:	08.11.2025 11:51:51 until 08.11.2025 19:50:05
+		Duration:	07:58:14
+		Location:	19.44052 -99.22374
+
+	JCSH2
+		Images:	5711
+		Time:	08.11.2025 14:39:06 until 08.11.2025 22:06:33
+		Duration:	07:27:27
+		Location:	19.44052 -99.22374
+
+(2) - Medalwall
+	VAR1
+		Images:	2161
+		Time:	08.11.2025 08:39:45 until 08.11.2025 14:13:07
+		Duration:	05:33:22
+		Location:	19.44052 -99.22374
+
+	EGG4
+		Images:	1007
+		Time:	08.11.2025 11:57:28 until 08.11.2025 19:58:08
+		Duration:	08:00:40
+		Location:	19.44052 -99.22374
+
+	ARV2
+		Images:	2838
+		Time:	08.11.2025 14:43:19 until 08.11.2025 22:09:05
+		Duration:	07:25:46
+		Location:	19.44052 -99.22374
+
+(3) - Station 1 SKIERG
+	ANP1
+		Images:	2452
+		Time:	08.11.2025 08:16:31 until 08.11.2025 16:49:42
+		Duration:	08:33:11
+		Location:	19.44052 -99.22374
+
+	PM1
+		Images:	3951
+		Time:	08.11.2025 07:34:29 until 08.11.2025 11:49:52
+		Duration:	04:15:23
+		Location:	19.44052 -99.22374
+
+	MAT1
+		Images:	6855
+		Time:	08.11.2025 08:49:57 until 08.11.2025 16:49:29
+		Duration:	07:59:32
+		Location:	19.44052 -99.22374
+
+	HASC2
+		Images:	3054
+		Time:	08.11.2025 10:41:39 until 08.11.2025 20:08:50
+		Duration:	09:27:11
+		Location:	19.44052 -99.22374
+
+	FRV2
+		Images:	4597
+		Time:	08.11.2025 13:25:52 until 08.11.2025 20:09:20
+		Duration:	06:43:28
+		Location:	19.44052 -99.22374
+
+	DANG1
+		Images:	3626
+		Time:	08.11.2025 07:34:07 until 08.11.2025 11:49:05
+		Duration:	04:14:58
+		Location:	19.44052 -99.22374
+
+(4) - Station 2 SLED PUSH
+	LMLS2
+	ANP4
+		Images:	626
+		Time:	08.11.2025 13:29:31 until 08.11.2025 14:01:54
+		Duration:	00:32:23
+		Location:	19.44052 -99.22374
+
+	AGAV1
+		Images:	1336
+		Time:	08.11.2025 07:43:39 until 08.11.2025 13:28:40
+		Duration:	05:45:01
+		Location:	19.44052 -99.22374
+
+	RMM1
+		Images:	1654
+		Time:	08.11.2025 07:25:18 until 08.11.2025 13:29:02
+		Duration:	06:03:44
+		Location:	19.44052 -99.22374
+
+	JABR1
+		Images:	3563
+		Time:	08.11.2025 07:38:37 until 09.11.2025 08:26:23
+		Duration:	1.00:47:46
+		Location:	19.44052 -99.22374
+
+	SAM1
+		Images:	2186
+		Time:	08.11.2025 08:15:08 until 09.11.2025 07:49:37
+		Duration:	23:34:29
+		Location:	19.44052 -99.22374
+
+	EGG1
+		Images:	453
+		Time:	08.11.2025 08:51:44 until 08.11.2025 09:39:56
+		Duration:	00:48:12
+		Location:	19.44052 -99.22374
+
+	JLTG2
+		Images:	4360
+		Time:	08.11.2025 14:02:16 until 08.11.2025 20:22:00
+		Duration:	06:19:44
+		Location:	19.44052 -99.22374
+
+	PAROM2
+		Images:	2050
+		Time:	08.11.2025 14:07:37 until 08.11.2025 19:06:24
+		Duration:	04:58:47
+		Location:	19.44052 -99.22374
+
+(5) - none
+	SAM5
+		Images:	269
+		Time:	08.11.2025 12:57:04 until 08.11.2025 13:21:19
+		Duration:	00:24:15
+		Location:	NULL NULL
+
+	EGG5
+		Images:	269
+		Time:	08.11.2025 12:57:04 until 08.11.2025 13:21:19
+		Duration:	00:24:15
+		Location:	NULL NULL
+
+(6) - Station 3 SLED PULL
+	AGAV2
+		Images:	1970
+		Time:	08.11.2025 14:03:00 until 08.11.2025 20:41:54
+		Duration:	06:38:54
+		Location:	19.44052 -99.22374
+
+	RMM2
+		Images:	2071
+		Time:	08.11.2025 14:06:38 until 08.11.2025 20:28:45
+		Duration:	06:22:07
+		Location:	19.44052 -99.22374
+
+	JABR2
+		Images:	4840
+		Time:	08.11.2025 14:08:35 until 08.11.2025 20:41:40
+		Duration:	06:33:05
+		Location:	19.44052 -99.22374
+
+	SAM2
+		Images:	3164
+		Time:	08.11.2025 09:46:23 until 08.11.2025 17:52:06
+		Duration:	08:05:43
+		Location:	19.44052 -99.22374
+
+	EGG2
+		Images:	1598
+		Time:	08.11.2025 09:44:14 until 08.11.2025 18:08:38
+		Duration:	08:24:24
+		Location:	19.44052 -99.22374
+
+	JLTG1
+		Images:	3188
+		Time:	08.11.2025 07:33:53 until 08.11.2025 13:27:27
+		Duration:	05:53:34
+		Location:	19.44052 -99.22374
+
+	LMLS1
+		Images:	4879
+		Time:	08.11.2025 07:52:44 until 09.11.2025 07:53:51
+		Duration:	1.00:01:07
+		Location:	19.44052 -99.22374
+
+	PAROM1
+		Images:	4140
+		Time:	08.11.2025 07:52:21 until 08.11.2025 13:15:56
+		Duration:	05:23:35
+		Location:	19.44052 -99.22374
+
+(7) - Station 5 ROWING
+	ANP2
+		Images:	3071
+		Time:	08.11.2025 09:48:50 until 08.11.2025 17:48:16
+		Duration:	07:59:26
+		Location:	19.44052 -99.22374
+
+	MAT2
+		Images:	1164
+		Time:	08.11.2025 09:48:44 until 08.11.2025 17:50:04
+		Duration:	08:01:20
+		Location:	19.44052 -99.22374
+
+	HASC1
+		Images:	886
+		Time:	08.11.2025 08:08:16 until 08.11.2025 09:48:35
+		Duration:	01:40:19
+		Location:	19.44052 -99.22374
+
+	FRV1
+		Images:	2507
+		Time:	08.11.2025 08:11:42 until 08.11.2025 12:59:25
+		Duration:	04:47:43
+		Location:	19.44052 -99.22374
+
+	CCZ2
+		Images:	6546
+		Time:	08.11.2025 12:48:39 until 08.11.2025 21:17:37
+		Duration:	08:28:58
+		Location:	19.44052 -99.22374
+
+	EDD2
+		Images:	8063
+		Time:	08.11.2025 13:03:54 until 09.11.2025 14:46:36
+		Duration:	1.01:42:42
+		Location:	19.44052 -99.22374
+
+(8) - Station 6 FARMERS CARRY
+	DANG1LS1
+		Images:	2544
+		Time:	08.11.2025 10:45:08 until 08.11.2025 21:30:15
+		Duration:	10:45:07
+		Location:	19.44052 -99.22374
+
+	MAT1LS1
+		Images:	5512
+		Time:	08.11.2025 07:37:43 until 08.11.2025 21:07:53
+		Duration:	13:30:10
+		Location:	19.44052 -99.22374
+
+	SAM1LS1
+		Images:	3586
+		Time:	08.11.2025 08:13:09 until 08.11.2025 20:15:42
+		Duration:	12:02:33
+		Location:	19.44052 -99.22374
+
+(9) - Station 7 SANDBAG LUNGES
+	IPL2
+		Images:	6964
+		Time:	08.11.2025 14:38:55 until 08.11.2025 21:44:27
+		Duration:	07:05:32
+		Location:	19.44052 -99.22374
+
+	VAR2
+		Images:	2008
+		Time:	08.11.2025 14:40:56 until 08.11.2025 21:08:41
+		Duration:	06:27:45
+		Location:	19.44052 -99.22374
+
+	ANP3
+		Images:	3949
+		Time:	08.11.2025 10:52:01 until 08.11.2025 20:49:35
+		Duration:	09:57:34
+		Location:	19.44052 -99.22374
+
+	MAT3
+		Images:	2987
+		Time:	08.11.2025 10:51:33 until 08.11.2025 18:49:45
+		Duration:	07:58:12
+		Location:	19.44052 -99.22374
+
+	ARV1
+		Images:	2313
+		Time:	08.11.2025 08:25:54 until 08.11.2025 14:10:46
+		Duration:	05:44:52
+		Location:	19.44052 -99.22374
+
+	JCSH1
+		Images:	4123
+		Time:	08.11.2025 08:24:13 until 08.11.2025 14:11:31
+		Duration:	05:47:18
+		Location:	19.44052 -99.22374
+
+(10) - Station 8 WALL BALLS
+	PM2
+		Images:	10710
+		Time:	08.11.2025 12:21:38 until 08.11.2025 21:55:58
+		Duration:	09:34:20
+		Location:	19.44052 -99.22374
+
+	DANG2
+		Images:	11057
+		Time:	08.11.2025 12:19:52 until 08.11.2025 21:58:28
+		Duration:	09:38:36
+		Location:	19.44052 -99.22374
+
+	SAM3
+		Images:	1317
+		Time:	08.11.2025 10:52:50 until 08.11.2025 18:49:03
+		Duration:	07:56:13
+		Location:	19.44052 -99.22374
+
+	EGG3
+		Images:	3277
+		Time:	08.11.2025 07:31:08 until 08.11.2025 18:49:17
+		Duration:	11:18:09
+		Location:	19.44052 -99.22374
+
+	CCZ1
+		Images:	3321
+		Time:	08.11.2025 08:31:12 until 08.11.2025 12:18:26
+		Duration:	03:47:14
+		Location:	19.44052 -99.22374
+
+	EDD1
+		Images:	601
+		Time:	08.11.2025 10:56:21 until 08.11.2025 11:40:55
+		Duration:	00:44:34
+		Location:	19.44052 -99.22374
+
+(11) - Station 9 SMILE ARCH
+	PM1LS1
+		Images:	5429
+		Time:	08.11.2025 07:20:23 until 08.11.2025 20:36:04
+		Duration:	13:15:41
+		Location:	19.44052 -99.22374
+
+	JLTG1LS1
+		Images:	7479
+		Time:	08.11.2025 07:19:36 until 08.11.2025 20:26:35
+		Duration:	13:06:59
+		Location:	19.44052 -99.22374
+

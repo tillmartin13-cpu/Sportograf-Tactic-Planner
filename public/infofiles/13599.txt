@@ -1,0 +1,226 @@
+EventId: 13599
+Spots: 34
+Total Images: 77749
+Time:	31.12.2012 23:00:13 to 06.07.2025 17:01:42
+Duration: 4569.18:01:29
+
+(1) - Start
+	UEC1
+		Images:	969
+		Time:	06.07.2025 05:46:05 until 06.07.2025 06:36:09
+		Duration:	00:50:04
+		Location:	47.49977 10.51352
+
+(2) - 12km (66, 103, 138, 214)
+	MSCH1
+		Images:	2173
+		Time:	06.07.2025 06:01:15 until 06.07.2025 10:02:52
+		Duration:	04:01:37
+		Location:	47.50611 10.49192
+
+	MSCH1LS2
+		Images:	612
+		Time:	06.07.2025 05:59:57 until 06.07.2025 07:10:31
+		Duration:	01:10:34
+		Location:	47.50611 10.49192
+
+	MSCH1LS1
+		Images:	1110
+		Time:	06.07.2025 06:00:51 until 06.07.2025 07:10:31
+		Duration:	01:09:40
+		Location:	47.50611 10.49192
+
+(3) - 14km (66, 103, 138, 214)
+	COR1
+		Images:	1607
+		Time:	06.07.2025 06:19:49 until 06.07.2025 07:09:31
+		Duration:	00:49:42
+		Location:	47.51111 10.46544
+
+	COR1LS2
+		Images:	736
+		Time:	06.07.2025 05:54:07 until 06.07.2025 07:05:11
+		Duration:	01:11:04
+		Location:	47.51111 10.46544
+
+	COR1LS1
+		Images:	795
+		Time:	06.07.2025 06:19:49 until 06.07.2025 07:05:26
+		Duration:	00:45:37
+		Location:	47.51111 10.46544
+
+(4) - 38.5km (66, 103, 138)
+	TJA1
+		Images:	1939
+		Time:	06.07.2025 06:55:42 until 06.07.2025 08:53:20
+		Duration:	01:57:38
+		Location:	47.49423 10.57249
+
+(5) - 39.5km (66, 103, 138)
+	MADM1
+		Images:	3625
+		Time:	06.07.2025 07:31:41 until 06.07.2025 09:01:52
+		Duration:	01:30:11
+		Location:	47.49094 10.58747
+
+(6) - 43.5km (66, 103, 138)
+	EP1LS1
+		Images:	890
+		Time:	06.07.2025 06:53:07 until 06.07.2025 09:12:14
+		Duration:	02:19:07
+		Location:	47.46937 10.61718
+
+	EP1
+		Images:	1273
+		Time:	06.07.2025 07:38:25 until 06.07.2025 09:09:11
+		Duration:	01:30:46
+		Location:	47.46937 10.61718
+
+(7) - 45.5km (66, 103, 138)
+	SVL1
+		Images:	926
+		Time:	06.07.2025 07:42:16 until 06.07.2025 10:42:59
+		Duration:	03:00:43
+		Location:	47.45248 10.62509
+
+	SVL1LS3
+		Images:	1225
+		Time:	06.07.2025 08:15:59 until 06.07.2025 10:10:16
+		Duration:	01:54:17
+		Location:	47.45248 10.62509
+
+	SVL1LS2
+		Images:	1928
+		Time:	06.07.2025 07:59:52 until 06.07.2025 11:46:19
+		Duration:	03:46:27
+		Location:	47.45248 10.62509
+
+	SVL1LS1
+		Images:	549
+		Time:	31.12.2012 23:00:13 until 06.07.2025 10:00:53
+		Duration:	4569.11:00:40
+		Location:	47.45248 10.62509
+
+(8) - 71km (214)
+	ADN1
+		Images:	8818
+		Time:	06.07.2025 07:09:52 until 06.07.2025 09:53:17
+		Duration:	02:43:25
+		Location:	47.43588 10.17830
+
+(9) - 138.5km (214)
+	COR2
+		Images:	2931
+		Time:	06.07.2025 08:53:34 until 06.07.2025 13:41:24
+		Duration:	04:47:50
+		Location:	47.26098 10.09412
+
+	COR2LS1
+		Images:	266
+		Time:	06.07.2025 10:19:19 until 06.07.2025 11:08:20
+		Duration:	00:49:01
+		Location:	47.26098 10.09412
+
+	COR2LS2
+		Images:	1890
+		Time:	06.07.2025 10:14:49 until 06.07.2025 13:31:02
+		Duration:	03:16:13
+		Location:	47.26098 10.09412
+
+(10) - 144km (214)
+	MSCH2
+		Images:	1617
+		Time:	06.07.2025 10:04:50 until 06.07.2025 14:03:55
+		Duration:	03:59:05
+		Location:	47.26905 10.14250
+
+	MSCH2LS2
+		Images:	1271
+		Time:	06.07.2025 10:06:05 until 06.07.2025 14:04:18
+		Duration:	03:58:13
+		Location:	47.26905 10.14250
+
+	MSCH2LS1
+		Images:	1337
+		Time:	06.07.2025 10:06:53 until 06.07.2025 14:04:02
+		Duration:	03:57:09
+		Location:	47.26905 10.14250
+
+(11) - 53.5km (66), 90.5km (103), 125.5km (138), 202.5km (214)
+	SVL2
+		Images:	7306
+		Time:	06.07.2025 12:15:00 until 06.07.2025 16:30:48
+		Duration:	04:15:48
+		Location:	47.45409 10.62380
+
+	SVL2LS1
+		Images:	974
+		Time:	06.07.2025 14:48:48 until 06.07.2025 16:31:00
+		Duration:	01:42:12
+		Location:	47.45409 10.62380
+
+(12) - 56km (66), 93km (103), 128km (138), 204km (214)
+	EP2
+		Images:	4151
+		Time:	06.07.2025 09:24:59 until 06.07.2025 16:36:27
+		Duration:	07:11:28
+		Location:	47.46835 10.61693
+
+	EP2LS1
+		Images:	1075
+		Time:	06.07.2025 13:15:47 until 06.07.2025 14:37:26
+		Duration:	01:21:39
+		Location:	47.46835 10.61693
+
+	EP2LS2
+		Images:	4376
+		Time:	06.07.2025 09:25:11 until 06.07.2025 16:34:03
+		Duration:	07:08:52
+		Location:	47.46835 10.61693
+
+(13) - 59km (66), 96km (103), 131km (138), 207km (214)
+	MADM2
+		Images:	7993
+		Time:	06.07.2025 09:21:58 until 06.07.2025 16:48:51
+		Duration:	07:26:53
+		Location:	47.49044 10.58832
+
+(14) - 61km (66), 98km (103), 133km (138), 209km (214)
+	TJA2
+		Images:	5420
+		Time:	06.07.2025 08:55:36 until 06.07.2025 16:51:18
+		Duration:	07:55:42
+		Location:	47.49423 10.57249
+
+(15) - Finish
+	UEC2
+		Images:	4627
+		Time:	06.07.2025 08:38:58 until 06.07.2025 17:01:42
+		Duration:	08:22:44
+		Location:	47.49977 10.51352
+
+	UEC2LS2
+		Images:	1331
+		Time:	06.07.2025 08:38:48 until 06.07.2025 17:01:30
+		Duration:	08:22:42
+		Location:	47.49977 10.51352
+
+	UEC2LS1
+		Images:	1688
+		Time:	06.07.2025 08:31:04 until 06.07.2025 17:01:35
+		Duration:	08:30:31
+		Location:	47.49977 10.51352
+
+	ADN2
+		Images:	284
+		Time:	06.07.2025 13:45:40 until 06.07.2025 16:30:50
+		Duration:	02:45:10
+		Location:	47.49977 10.51352
+
+(16) - Impressions / Pano
+	COR1DRONE1
+		Images:	37
+		Time:	06.07.2025 06:30:51 until 06.07.2025 11:19:01
+		Duration:	04:48:10
+		Location:	47.49977 10.51352
+

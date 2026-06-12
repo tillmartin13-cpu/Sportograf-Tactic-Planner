@@ -1,0 +1,312 @@
+EventId: 14556
+Spots: 49
+Total Images: 277507
+Time:	18.04.2025 06:55:43 to 20.04.2025 18:49:57
+Duration: 2.11:54:14
+
+(1) - 1 SKIERG
+	OT1
+		Images:	22416
+		Time:	19.04.2025 08:03:44 until 19.04.2025 14:59:53
+		Duration:	06:56:09
+		Location:	48.86620 2.31221
+
+	JSCH1
+		Images:	9382
+		Time:	19.04.2025 08:04:45 until 19.04.2025 15:09:40
+		Duration:	07:04:55
+		Location:	48.86620 2.31221
+
+	FCO1
+		Images:	5035
+		Time:	19.04.2025 08:04:26 until 19.04.2025 15:10:04
+		Duration:	07:05:38
+		Location:	48.86620 2.31221
+
+	EVL2
+		Images:	5212
+		Time:	19.04.2025 15:13:36 until 19.04.2025 20:29:19
+		Duration:	05:15:43
+		Location:	48.86620 2.31221
+
+	BECK2
+		Images:	4885
+		Time:	19.04.2025 13:06:33 until 20.04.2025 10:00:42
+		Duration:	20:54:09
+		Location:	48.86620 2.31221
+
+	ALN2
+		Images:	6053
+		Time:	19.04.2025 15:14:53 until 20.04.2025 18:49:57
+		Duration:	1.03:35:04
+		Location:	48.86620 2.31221
+
+(2) - 2 SLED PUSH
+	AFA1
+		Images:	7055
+		Time:	18.04.2025 10:30:32 until 19.04.2025 15:00:16
+		Duration:	1.04:29:44
+		Location:	48.86620 2.31221
+
+	MAI1
+		Images:	8901
+		Time:	18.04.2025 06:55:43 until 19.04.2025 21:02:01
+		Duration:	1.14:06:18
+		Location:	48.86620 2.31221
+
+	MIV1
+		Images:	8206
+		Time:	19.04.2025 08:31:57 until 20.04.2025 09:32:01
+		Duration:	1.01:00:04
+		Location:	48.86620 2.31221
+
+	CK2
+		Images:	6979
+		Time:	19.04.2025 15:01:06 until 19.04.2025 20:40:46
+		Duration:	05:39:40
+		Location:	48.86620 2.31221
+
+	HS2
+		Images:	1390
+		Time:	18.04.2025 16:03:58 until 19.04.2025 20:40:01
+		Duration:	1.04:36:03
+		Location:	48.86620 2.31221
+
+	JI2
+		Images:	4886
+		Time:	19.04.2025 13:31:56 until 19.04.2025 21:02:37
+		Duration:	07:30:41
+		Location:	48.86620 2.31221
+
+(3) - SMILE GATE
+	AGU1LS1
+		Images:	6077
+		Time:	19.04.2025 08:42:51 until 19.04.2025 21:11:41
+		Duration:	12:28:50
+		Location:	48.86620 2.31221
+
+	FRN1LS1
+		Images:	4578
+		Time:	19.04.2025 13:45:00 until 19.04.2025 21:11:13
+		Duration:	07:26:13
+		Location:	48.86620 2.31221
+
+(4) - 3 SLED PULL
+	HS1
+		Images:	1840
+		Time:	18.04.2025 08:41:25 until 19.04.2025 14:56:43
+		Duration:	1.06:15:18
+		Location:	48.86620 2.31221
+
+	JI1
+		Images:	1917
+		Time:	18.04.2025 07:37:40 until 19.04.2025 14:35:30
+		Duration:	1.06:57:50
+		Location:	48.86620 2.31221
+
+	MW1
+		Images:	5050
+		Time:	18.04.2025 07:40:12 until 19.04.2025 15:05:42
+		Duration:	1.07:25:30
+		Location:	48.86620 2.31221
+
+	JSCH2
+		Images:	2563
+		Time:	18.04.2025 07:19:52 until 19.04.2025 18:40:26
+		Duration:	1.11:20:34
+		Location:	48.86620 2.31221
+
+	MAI2
+		Images:	3081
+		Time:	18.04.2025 07:08:36 until 19.04.2025 18:39:15
+		Duration:	1.11:30:39
+		Location:	48.86620 2.31221
+
+	FCO2
+		Images:	4316
+		Time:	19.04.2025 15:25:41 until 19.04.2025 20:50:41
+		Duration:	05:25:00
+		Location:	48.86620 2.31221
+
+(5) - 5 ROWING
+	NO1
+		Images:	4342
+		Time:	19.04.2025 08:13:08 until 19.04.2025 15:14:07
+		Duration:	07:00:59
+		Location:	48.86620 2.31221
+
+	MAPP1
+		Images:	3964
+		Time:	18.04.2025 07:18:51 until 19.04.2025 15:19:02
+		Duration:	1.08:00:11
+		Location:	48.86620 2.31221
+
+	SSW2
+		Images:	12272
+		Time:	18.04.2025 15:44:02 until 20.04.2025 16:11:11
+		Duration:	2.00:27:09
+		Location:	48.86620 2.31221
+
+	MDH2
+		Images:	4257
+		Time:	18.04.2025 17:06:11 until 19.04.2025 21:20:36
+		Duration:	1.04:14:25
+		Location:	48.86620 2.31221
+
+	VICY1
+		Images:	3004
+		Time:	18.04.2025 07:18:10 until 19.04.2025 18:59:42
+		Duration:	1.11:41:32
+		Location:	48.86620 2.31221
+
+	KD1
+		Images:	2395
+		Time:	19.04.2025 09:53:08 until 19.04.2025 19:10:39
+		Duration:	09:17:31
+		Location:	48.86620 2.31221
+
+(6) - 6 FARMERS CARRY
+	KD1LS1
+		Images:	6131
+		Time:	19.04.2025 06:56:57 until 20.04.2025 06:29:41
+		Duration:	23:32:44
+		Location:	48.86620 2.31221
+
+	BECK1LS1
+		Images:	7468
+		Time:	19.04.2025 08:40:35 until 19.04.2025 21:49:17
+		Duration:	13:08:42
+		Location:	48.86620 2.31221
+
+(7) - 7 SANDBAG LUNGES
+	BECK1
+		Images:	3722
+		Time:	19.04.2025 08:47:36 until 19.04.2025 13:06:00
+		Duration:	04:18:24
+		Location:	48.86620 2.31221
+
+	ALN1
+		Images:	9778
+		Time:	19.04.2025 08:46:27 until 19.04.2025 15:04:46
+		Duration:	06:18:19
+		Location:	48.86620 2.31221
+
+	AFA2
+		Images:	2964
+		Time:	19.04.2025 15:06:34 until 19.04.2025 20:15:55
+		Duration:	05:09:21
+		Location:	48.86620 2.31221
+
+	MW2
+		Images:	5670
+		Time:	19.04.2025 15:12:48 until 19.04.2025 21:43:44
+		Duration:	06:30:56
+		Location:	48.86620 2.31221
+
+	VICY2
+		Images:	2087
+		Time:	19.04.2025 10:54:19 until 19.04.2025 19:58:40
+		Duration:	09:04:21
+		Location:	48.86620 2.31221
+
+	KD2
+		Images:	2615
+		Time:	19.04.2025 10:56:16 until 19.04.2025 20:26:46
+		Duration:	09:30:30
+		Location:	48.86620 2.31221
+
+(8) - 8 WALL BALLS
+	SSW1
+		Images:	10195
+		Time:	18.04.2025 07:16:10 until 20.04.2025 09:36:24
+		Duration:	2.02:20:14
+		Location:	48.86620 2.31221
+
+	MDH1
+		Images:	2641
+		Time:	19.04.2025 07:35:25 until 19.04.2025 15:17:13
+		Duration:	07:41:48
+		Location:	48.86620 2.31221
+
+	MAPP2
+		Images:	2173
+		Time:	19.04.2025 15:29:02 until 19.04.2025 21:57:13
+		Duration:	06:28:11
+		Location:	48.86620 2.31221
+
+	NO2
+		Images:	9869
+		Time:	19.04.2025 15:25:09 until 19.04.2025 21:35:10
+		Duration:	06:10:01
+		Location:	48.86620 2.31221
+
+	KD3
+		Images:	1798
+		Time:	18.04.2025 08:11:24 until 19.04.2025 17:22:02
+		Duration:	1.09:10:38
+		Location:	48.86620 2.31221
+
+	VICY3
+		Images:	2088
+		Time:	19.04.2025 11:39:18 until 19.04.2025 20:20:19
+		Duration:	08:41:01
+		Location:	48.86620 2.31221
+
+(9) - Finish
+	EVL1
+		Images:	6041
+		Time:	18.04.2025 07:00:48 until 20.04.2025 07:33:23
+		Duration:	2.00:32:35
+		Location:	48.86620 2.31221
+
+	OT2
+		Images:	24149
+		Time:	19.04.2025 15:06:57 until 19.04.2025 22:03:09
+		Duration:	06:56:12
+		Location:	48.86620 2.31221
+
+	AGU1
+		Images:	3970
+		Time:	18.04.2025 08:58:39 until 20.04.2025 14:44:32
+		Duration:	2.05:45:53
+		Location:	48.86620 2.31221
+
+	AGU1LS2
+		Images:	4409
+		Time:	19.04.2025 08:46:53 until 19.04.2025 22:10:49
+		Duration:	13:23:56
+		Location:	48.86620 2.31221
+
+	FRN1LS2
+		Images:	7021
+		Time:	18.04.2025 07:56:08 until 19.04.2025 22:18:20
+		Duration:	1.14:22:12
+		Location:	48.86620 2.31221
+
+(10) - Medalwall
+	CK1
+		Images:	5716
+		Time:	19.04.2025 07:08:27 until 20.04.2025 07:34:33
+		Duration:	1.00:26:06
+		Location:	48.86620 2.31221
+
+	MIV2
+		Images:	5388
+		Time:	19.04.2025 15:16:24 until 19.04.2025 22:09:50
+		Duration:	06:53:26
+		Location:	48.86620 2.31221
+
+(11) - EXPO
+	FRN1
+		Images:	8
+		Time:	18.04.2025 13:17:41 until 18.04.2025 20:02:55
+		Duration:	06:45:14
+		Location:	48.86629 2.31228
+
+(12) - START MIRROR SELFIE
+	SGMI1
+		Images:	1548
+		Time:	19.04.2025 07:22:38 until 19.04.2025 20:15:25
+		Duration:	12:52:47
+		Location:	48.86620 2.31221
+

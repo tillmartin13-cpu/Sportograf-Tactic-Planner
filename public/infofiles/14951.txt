@@ -1,0 +1,102 @@
+EventId: 14951
+Spots: 14
+Total Images: 47291
+Time:	28.06.2025 09:44:41 to 29.06.2025 11:57:07
+Duration: 1.02:12:26
+
+(1) - Start
+	JUW1
+		Images:	426
+		Time:	28.06.2025 09:44:41 until 28.06.2025 12:01:17
+		Duration:	02:16:36
+		Location:	52.89154 -0.77240
+
+	DANO1
+		Images:	1033
+		Time:	28.06.2025 10:25:42 until 28.06.2025 12:01:19
+		Duration:	01:35:37
+		Location:	52.89154 -0.77240
+
+(2) - Various
+	JUW1DRONE1
+		Images:	32
+		Time:	28.06.2025 10:26:02 until 28.06.2025 19:37:24
+		Duration:	09:11:22
+		Location:	52.89154 -0.77498
+
+(3) - Blockness Monster
+	JUW2
+		Images:	3114
+		Time:	28.06.2025 18:50:01 until 28.06.2025 19:30:31
+		Duration:	00:40:30
+		Location:	52.88250 -0.77323
+
+(4) - Moat-er Floating
+	DANO2
+		Images:	8206
+		Time:	28.06.2025 12:01:19 until 28.06.2025 14:27:51
+		Duration:	02:26:32
+		Location:	52.88074 -0.77061
+
+(5) - Kiss of Mud
+	JUW3
+		Images:	6085
+		Time:	28.06.2025 13:57:11 until 28.06.2025 15:08:59
+		Duration:	01:11:48
+		Location:	52.88528 -0.77841
+
+(6) - Everest
+	DANO3
+		Images:	6381
+		Time:	28.06.2025 14:53:28 until 28.06.2025 16:33:47
+		Duration:	01:40:19
+		Location:	52.88659 -0.76552
+
+(7) - Walk the Plank/Fire Fly
+	JUW4
+		Images:	4140
+		Time:	29.06.2025 07:38:15 until 29.06.2025 09:23:48
+		Duration:	01:45:33
+		Location:	52.88089 -0.78063
+
+(8) - Mud Mile
+	DANO4
+		Images:	3741
+		Time:	28.06.2025 17:05:05 until 28.06.2025 19:04:06
+		Duration:	01:59:01
+		Location:	52.88993 -0.76445
+
+(9) - Skidmarked
+	JUW5
+		Images:	4315
+		Time:	28.06.2025 18:00:02 until 28.06.2025 18:43:43
+		Duration:	00:43:41
+		Location:	52.88319 -0.77944
+
+(10) - Swings Both Ways
+	DANO5
+		Images:	2761
+		Time:	28.06.2025 19:13:46 until 28.06.2025 20:12:32
+		Duration:	00:58:46
+		Location:	52.89130 -0.76383
+
+(11) - Stairway to Heaven
+	DANO7
+		Images:	1635
+		Time:	29.06.2025 09:11:46 until 29.06.2025 09:49:21
+		Duration:	00:37:35
+		Location:	52.89287 -0.75602
+
+(12) - Finish
+	JUW6
+		Images:	1743
+		Time:	28.06.2025 20:56:49 until 29.06.2025 11:56:53
+		Duration:	15:00:04
+		Location:	52.89136 -0.77053
+
+	DANO6
+		Images:	3679
+		Time:	28.06.2025 21:23:46 until 29.06.2025 11:57:07
+		Duration:	14:33:21
+		Location:	52.89136 -0.77053
+

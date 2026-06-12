@@ -1,0 +1,76 @@
+EventId: 15144
+Spots: 11
+Total Images: 17267
+Time:	10.05.2025 07:45:12 to 10.05.2025 10:14:27
+Duration: 02:29:15
+
+(1) - Swim - Start
+	HTT1
+		Images:	3813
+		Time:	10.05.2025 08:20:43 until 10.05.2025 09:30:26
+		Duration:	01:09:43
+		Location:	16.01487 108.26416
+
+	MVV1
+		Images:	1594
+		Time:	10.05.2025 08:23:55 until 10.05.2025 09:46:42
+		Duration:	01:22:47
+		Location:	16.01487 108.26416
+
+(2) - Finish
+	HTT2
+		Images:	2490
+		Time:	10.05.2025 09:31:55 until 10.05.2025 10:14:16
+		Duration:	00:42:21
+		Location:	16.01487 108.26416
+
+	HTT2LS1
+		Images:	462
+		Time:	10.05.2025 08:04:58 until 10.05.2025 10:12:53
+		Duration:	02:07:55
+		Location:	16.01487 108.26416
+
+	TAP1
+		Images:	990
+		Time:	10.05.2025 09:03:28 until 10.05.2025 10:12:17
+		Duration:	01:08:49
+		Location:	16.01487 108.26416
+
+	NTT1LS1
+		Images:	205
+		Time:	10.05.2025 08:23:06 until 10.05.2025 10:11:22
+		Duration:	01:48:16
+		Location:	16.01487 108.26416
+
+	NTT1
+		Images:	2216
+		Time:	10.05.2025 08:39:57 until 10.05.2025 10:14:27
+		Duration:	01:34:30
+		Location:	16.01487 108.26416
+
+(3) - Run - 0,6 km
+	LDB1
+		Images:	2093
+		Time:	10.05.2025 08:54:10 until 10.05.2025 09:51:27
+		Duration:	00:57:17
+		Location:	16.01890 108.25930
+
+	LDB1LS1
+		Images:	2006
+		Time:	10.05.2025 07:45:12 until 10.05.2025 09:43:00
+		Duration:	01:57:48
+		Location:	16.01890 108.25930
+
+(4) - Bike - 2,0 km
+	NTA1
+		Images:	1036
+		Time:	10.05.2025 08:56:32 until 10.05.2025 09:44:50
+		Duration:	00:48:18
+		Location:	16.00616 108.26548
+
+	NTA1LS1
+		Images:	362
+		Time:	10.05.2025 08:13:19 until 10.05.2025 09:41:16
+		Duration:	01:27:57
+		Location:	16.00616 108.26548
+

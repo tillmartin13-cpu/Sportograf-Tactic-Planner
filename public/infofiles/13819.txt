@@ -1,0 +1,251 @@
+EventId: 13819
+Spots: 37
+Total Images: 58709
+Time:	10.05.2025 12:49:21 to 11.05.2025 15:52:15
+Duration: 1.03:02:54
+
+(1) - Start
+	BK1DRONE1
+		Images:	44
+		Time:	10.05.2025 20:59:16 until 11.05.2025 13:30:37
+		Duration:	16:31:21
+		Location:	52.48600 7.98902
+
+	LARS1
+		Images:	563
+		Time:	10.05.2025 12:49:21 until 10.05.2025 14:17:26
+		Duration:	01:28:05
+		Location:	52.48600 7.98902
+
+	BK1
+		Images:	698
+		Time:	10.05.2025 12:58:38 until 10.05.2025 14:21:37
+		Duration:	01:22:59
+		Location:	52.48600 7.98902
+
+(2) - Kurve nach dem Ziel
+	BK1LS1
+		Images:	2959
+		Time:	10.05.2025 12:52:15 until 10.05.2025 21:51:10
+		Duration:	08:58:55
+		Location:	52.48622 7.98934
+
+	BK1LS3
+		Images:	2377
+		Time:	11.05.2025 05:41:24 until 11.05.2025 12:42:38
+		Duration:	07:01:14
+		Location:	52.48622 7.98934
+
+(3) - Hügel nach dem Start
+	BK2
+		Images:	4770
+		Time:	10.05.2025 14:28:29 until 10.05.2025 16:20:05
+		Duration:	01:51:36
+		Location:	52.48624 7.98854
+
+(4) - Wald Wasserski
+	BK3
+		Images:	3959
+		Time:	10.05.2025 18:11:46 until 11.05.2025 12:08:36
+		Duration:	17:56:50
+		Location:	52.48794 7.98512
+
+(5) - Wald
+	LARS1LS2
+		Images:	2704
+		Time:	10.05.2025 14:38:05 until 10.05.2025 18:01:21
+		Duration:	03:23:16
+		Location:	52.48437 7.97962
+
+(6) - Wäldchen am Seehof
+	LARS2
+		Images:	743
+		Time:	10.05.2025 14:53:06 until 10.05.2025 16:35:10
+		Duration:	01:42:04
+		Location:	52.48418 7.97787
+
+(7) - Seehof
+	LARS3
+		Images:	1489
+		Time:	10.05.2025 16:43:33 until 10.05.2025 17:51:34
+		Duration:	01:08:01
+		Location:	52.48428 7.97990
+
+(8) - Abfahrt Seehof
+	LARS4
+		Images:	1961
+		Time:	10.05.2025 18:05:03 until 10.05.2025 20:48:12
+		Duration:	02:43:09
+		Location:	52.48428 7.97990
+
+(9) - Deich am Seehof
+	LARS5
+		Images:	432
+		Time:	10.05.2025 20:48:28 until 10.05.2025 23:21:14
+		Duration:	02:32:46
+		Location:	52.48608 7.98341
+
+(10) - Hangabfahrt
+	LARS7
+		Images:	2246
+		Time:	11.05.2025 07:48:38 until 11.05.2025 09:41:27
+		Duration:	01:52:49
+		Location:	52.48671 7.98388
+
+(11) - Kurvenhügel
+	THM1
+		Images:	57
+		Time:	10.05.2025 12:58:43 until 10.05.2025 13:26:04
+		Duration:	00:27:21
+		Location:	52.49042 7.98784
+
+	THM1LS5
+		Images:	1259
+		Time:	11.05.2025 10:37:55 until 11.05.2025 11:16:15
+		Duration:	00:38:20
+		Location:	52.49042 7.98784
+
+	THM1LS1
+		Images:	1295
+		Time:	10.05.2025 14:26:53 until 10.05.2025 15:58:56
+		Duration:	01:32:03
+		Location:	52.49042 7.98784
+
+(12) - Steile Auffahrt
+	THM2
+		Images:	2695
+		Time:	10.05.2025 14:32:48 until 11.05.2025 11:02:26
+		Duration:	20:29:38
+		Location:	52.49042 7.98784
+
+	THM1LS2
+		Images:	909
+		Time:	10.05.2025 16:33:04 until 10.05.2025 18:56:20
+		Duration:	02:23:16
+		Location:	52.49042 7.98784
+
+(13) - Waldstück Nord West
+	THM3
+		Images:	2440
+		Time:	10.05.2025 16:14:22 until 10.05.2025 18:51:58
+		Duration:	02:37:36
+		Location:	52.49594 7.97482
+
+	THM1LS3
+		Images:	581
+		Time:	10.05.2025 19:05:19 until 10.05.2025 20:39:56
+		Duration:	01:34:37
+		Location:	52.49594 7.97482
+
+(14) - Trail Seehof
+	LARS1LS3
+		Images:	1230
+		Time:	10.05.2025 18:01:41 until 10.05.2025 19:43:56
+		Duration:	01:42:15
+		Location:	52.48481 7.97949
+
+(15) - kleines Waldstück
+	THM4
+		Images:	2241
+		Time:	10.05.2025 19:13:27 until 10.05.2025 20:51:35
+		Duration:	01:38:08
+		Location:	52.46833 7.96901
+
+	THM1LS4
+		Images:	257
+		Time:	11.05.2025 09:05:04 until 11.05.2025 10:04:54
+		Duration:	00:59:50
+		Location:	52.46833 7.96901
+
+(16) - Deich
+	LARS8
+		Images:	2365
+		Time:	11.05.2025 09:44:00 until 11.05.2025 11:31:24
+		Duration:	01:47:24
+		Location:	52.48629 7.98332
+
+(17) - am Deich 1
+	THM5
+		Images:	729
+		Time:	11.05.2025 06:44:12 until 11.05.2025 08:11:19
+		Duration:	01:27:07
+		Location:	52.46833 7.96901
+
+	THM6
+		Images:	1376
+		Time:	11.05.2025 09:17:37 until 11.05.2025 11:59:00
+		Duration:	02:41:23
+		Location:	52.46833 7.96901
+
+(18) - Germanenland
+	LARS6
+		Images:	949
+		Time:	11.05.2025 05:58:56 until 11.05.2025 07:47:26
+		Duration:	01:48:30
+		Location:	52.48595 7.98541
+
+	LARS1LS4
+		Images:	1015
+		Time:	10.05.2025 20:01:12 until 10.05.2025 22:22:25
+		Duration:	02:21:13
+		Location:	52.48588 7.98708
+
+(19) - Germanenland 2
+	LARS1LS6
+		Images:	3492
+		Time:	11.05.2025 05:48:18 until 11.05.2025 13:05:14
+		Duration:	07:16:56
+		Location:	52.48595 7.98573
+
+(20) - Rampe vorm Ziel
+	LARS1LS1
+		Images:	1783
+		Time:	10.05.2025 13:38:45 until 11.05.2025 04:09:10
+		Duration:	14:30:25
+		Location:	52.48612 7.98934
+
+(21) - Strasse am Deich
+	BK4
+		Images:	3302
+		Time:	11.05.2025 06:27:57 until 11.05.2025 09:48:06
+		Duration:	03:20:09
+		Location:	52.49642 7.98280
+
+(22) - Ziel
+	LARS9
+		Images:	36
+		Time:	11.05.2025 11:39:58 until 11.05.2025 12:37:27
+		Duration:	00:57:29
+		Location:	52.48588 7.98708
+
+	BK1LS2
+		Images:	842
+		Time:	10.05.2025 22:17:09 until 11.05.2025 05:40:34
+		Duration:	07:23:25
+		Location:	52.48588 7.98708
+
+	LARS1LS5
+		Images:	3141
+		Time:	10.05.2025 22:30:25 until 11.05.2025 05:47:34
+		Duration:	07:17:09
+		Location:	52.48588 7.98708
+
+	THM8
+		Images:	1377
+		Time:	11.05.2025 12:34:54 until 11.05.2025 14:41:47
+		Duration:	02:06:53
+		Location:	52.48588 7.98708
+
+(23) - Siegerehrung
+	LARS10
+		Images:	180
+		Time:	11.05.2025 14:49:04 until 11.05.2025 15:52:15
+		Duration:	01:03:11
+		Location:	52.48588 7.98708
+
+	THM7
+		Images:	213
+		Time:	11.05.2025 14:55:36 until 11.05.2025 15:52:12
+		Duration:	00:56:36
+		Location:	52.48588 7.98708
+

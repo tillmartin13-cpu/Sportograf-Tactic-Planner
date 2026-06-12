@@ -1,0 +1,162 @@
+EventId: 14452
+Spots: 24
+Total Images: 19413
+Time:	08.08.2025 16:34:47 to 09.08.2025 18:09:14
+Duration: 1.01:34:27
+
+(1) - Start
+	HS1
+		Images:	582
+		Time:	08.08.2025 17:48:30 until 09.08.2025 09:28:38
+		Duration:	15:40:08
+		Location:	46.86921 9.87856
+
+(2) - km6.3
+	DBOR1
+		Images:	1588
+		Time:	09.08.2025 06:01:35 until 09.08.2025 11:15:55
+		Duration:	05:14:20
+		Location:	46.86440 9.91659
+
+(3) - km11.5 (T24)
+	ROB2
+		Images:	1248
+		Time:	08.08.2025 18:42:33 until 09.08.2025 12:12:22
+		Duration:	17:29:49
+		Location:	46.88704 9.87966
+
+	ROB2LS1
+		Images:	41
+		Time:	09.08.2025 10:14:40 until 09.08.2025 11:48:50
+		Duration:	01:34:10
+		Location:	46.88704 9.87966
+
+	ROB2LS2
+		Images:	505
+		Time:	08.08.2025 18:44:53 until 09.08.2025 11:49:10
+		Duration:	17:04:17
+		Location:	46.88704 9.87966
+
+(4) - km12.0 (T54, T33)
+	ROB1
+		Images:	1329
+		Time:	08.08.2025 16:34:47 until 09.08.2025 09:07:55
+		Duration:	16:33:08
+		Location:	46.88929 9.88456
+
+	ROB1LS1
+		Images:	249
+		Time:	09.08.2025 06:37:13 until 09.08.2025 08:31:09
+		Duration:	01:53:56
+		Location:	46.88929 9.88456
+
+(5) - km16.0 (T33, T54)
+	BP1DRONE1
+		Images:	26
+		Time:	08.08.2025 17:28:05 until 09.08.2025 16:15:01
+		Duration:	22:46:56
+		Location:	46.91156 9.88681
+
+	BP3
+		Images:	1919
+		Time:	09.08.2025 06:23:54 until 09.08.2025 11:12:16
+		Duration:	04:48:22
+		Location:	46.91156 9.88681
+
+	BP1LS1
+		Images:	974
+		Time:	09.08.2025 07:03:21 until 09.08.2025 11:12:01
+		Duration:	04:08:40
+		Location:	46.91156 9.88681
+
+(6) - km16.2 (T33, T54)
+	BP1LS2
+		Images:	2758
+		Time:	08.08.2025 18:14:12 until 09.08.2025 11:23:19
+		Duration:	17:09:07
+		Location:	46.91095 9.88294
+
+(7) - km25.0 (T33)
+	BP2LS3
+		Images:	255
+		Time:	09.08.2025 06:11:12 until 09.08.2025 17:16:33
+		Duration:	11:05:21
+		Location:	46.90840 9.86139
+
+(8) - km50.0 (T54), km25.5 (T33)
+	BP4
+		Images:	583
+		Time:	09.08.2025 12:47:58 until 09.08.2025 17:00:28
+		Duration:	04:12:30
+		Location:	46.91194 9.85572
+
+	BP2LS1
+		Images:	273
+		Time:	09.08.2025 12:21:51 until 09.08.2025 16:52:34
+		Duration:	04:30:43
+		Location:	46.91194 9.85572
+
+	BP2LS2
+		Images:	160
+		Time:	09.08.2025 12:09:26 until 09.08.2025 17:07:12
+		Duration:	04:57:46
+		Location:	46.91194 9.85572
+
+(9) - 4km before Finish (T33, T54)
+	ROB3
+		Images:	380
+		Time:	09.08.2025 12:48:11 until 09.08.2025 17:12:46
+		Duration:	04:24:35
+		Location:	46.89200 9.87909
+
+	ROB3LS1
+		Images:	241
+		Time:	09.08.2025 13:00:29 until 09.08.2025 17:31:10
+		Duration:	04:30:41
+		Location:	46.89200 9.87909
+
+	ROB3LS2
+		Images:	212
+		Time:	09.08.2025 12:50:22 until 09.08.2025 15:50:32
+		Duration:	03:00:10
+		Location:	46.89200 9.87909
+
+(10) - 1.5km before Finish (T24)
+	DBOR2
+		Images:	822
+		Time:	09.08.2025 11:18:56 until 09.08.2025 14:58:56
+		Duration:	03:40:00
+		Location:	46.87591 9.86566
+
+(11) - 0.5km before Finish
+	DBOR4
+		Images:	218
+		Time:	09.08.2025 16:52:29 until 09.08.2025 18:09:14
+		Duration:	01:16:45
+		Location:	46.87429 9.87779
+
+(12) - Finish
+	HS2
+		Images:	1747
+		Time:	09.08.2025 10:34:35 until 09.08.2025 18:07:54
+		Duration:	07:33:19
+		Location:	46.86921 9.87856
+
+	HS2LS1
+		Images:	1555
+		Time:	09.08.2025 10:25:40 until 09.08.2025 17:55:02
+		Duration:	07:29:22
+		Location:	46.86921 9.87856
+
+	HS2LS2
+		Images:	1647
+		Time:	09.08.2025 10:18:40 until 09.08.2025 17:52:16
+		Duration:	07:33:36
+		Location:	46.86921 9.87856
+
+	DBOR3
+		Images:	96
+		Time:	09.08.2025 16:31:43 until 09.08.2025 16:43:11
+		Duration:	00:11:28
+		Location:	46.86921 9.87856
+

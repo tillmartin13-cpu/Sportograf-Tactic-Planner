@@ -1,0 +1,339 @@
+EventId: 13918
+Spots: 54
+Total Images: 206460
+Time:	12.04.2025 07:53:44 to 12.04.2025 22:14:17
+Duration: 14:20:33
+
+(1) - Station 2 Sled Push
+	AYO1
+		Images:	5633
+		Time:	12.04.2025 08:37:01 until 12.04.2025 14:26:13
+		Duration:	05:49:12
+		Location:	NULL NULL
+
+	KIK1
+		Images:	2737
+		Time:	12.04.2025 08:27:28 until 12.04.2025 14:37:18
+		Duration:	06:09:50
+		Location:	NULL NULL
+
+	KTN1
+		Images:	2658
+		Time:	12.04.2025 09:37:03 until 12.04.2025 15:36:30
+		Duration:	05:59:27
+		Location:	NULL NULL
+
+	NTA2
+		Images:	2269
+		Time:	12.04.2025 14:36:23 until 12.04.2025 20:16:31
+		Duration:	05:40:08
+		Location:	NULL NULL
+
+	NTT2
+		Images:	3662
+		Time:	12.04.2025 14:37:22 until 12.04.2025 20:31:51
+		Duration:	05:54:29
+		Location:	NULL NULL
+
+	TDB2
+		Images:	2485
+		Time:	12.04.2025 15:15:47 until 12.04.2025 20:28:22
+		Duration:	05:12:35
+		Location:	NULL NULL
+
+(2) - Station 1 Ski Erg
+	AYO2
+		Images:	8373
+		Time:	12.04.2025 14:38:12 until 12.04.2025 20:33:47
+		Duration:	05:55:35
+		Location:	NULL NULL
+
+	KIK2
+		Images:	2584
+		Time:	12.04.2025 15:06:04 until 12.04.2025 20:27:04
+		Duration:	05:21:00
+		Location:	NULL NULL
+
+	KTN2
+		Images:	5353
+		Time:	12.04.2025 15:39:09 until 12.04.2025 21:17:55
+		Duration:	05:38:46
+		Location:	NULL NULL
+
+	NTA1
+		Images:	4563
+		Time:	12.04.2025 08:21:45 until 12.04.2025 14:28:50
+		Duration:	06:07:05
+		Location:	NULL NULL
+
+	NTT1
+		Images:	6953
+		Time:	12.04.2025 08:28:42 until 12.04.2025 14:31:25
+		Duration:	06:02:43
+		Location:	NULL NULL
+
+	TDB1
+		Images:	6829
+		Time:	12.04.2025 08:16:47 until 12.04.2025 14:10:03
+		Duration:	05:53:16
+		Location:	NULL NULL
+
+(3) - Station 7 Sandbag Lunges
+	DCL1
+		Images:	8452
+		Time:	12.04.2025 09:29:01 until 12.04.2025 14:40:08
+		Duration:	05:11:07
+		Location:	NULL NULL
+
+	IMH2
+		Images:	3423
+		Time:	12.04.2025 14:15:30 until 12.04.2025 21:39:24
+		Duration:	07:23:54
+		Location:	NULL NULL
+
+	JERO3
+		Images:	4465
+		Time:	12.04.2025 10:39:17 until 12.04.2025 17:50:32
+		Duration:	07:11:15
+		Location:	NULL NULL
+
+	LMD2
+		Images:	12423
+		Time:	12.04.2025 14:40:22 until 12.04.2025 21:56:45
+		Duration:	07:16:23
+		Location:	NULL NULL
+
+	PCT1
+		Images:	3282
+		Time:	12.04.2025 08:16:28 until 12.04.2025 14:13:51
+		Duration:	05:57:23
+		Location:	NULL NULL
+
+	RYT3
+		Images:	1307
+		Time:	12.04.2025 10:38:19 until 12.04.2025 17:43:58
+		Duration:	07:05:39
+		Location:	NULL NULL
+
+(4) - Finish
+	DCL2
+		Images:	6816
+		Time:	12.04.2025 14:52:17 until 12.04.2025 22:11:03
+		Duration:	07:18:46
+		Location:	NULL NULL
+
+	NNG1LS1
+		Images:	1970
+		Time:	12.04.2025 08:35:22 until 12.04.2025 19:03:09
+		Duration:	10:27:47
+		Location:	NULL NULL
+
+	NNG2
+		Images:	840
+		Time:	12.04.2025 10:51:59 until 12.04.2025 18:09:19
+		Duration:	07:17:20
+		Location:	NULL NULL
+
+	PNQ1
+		Images:	8518
+		Time:	12.04.2025 09:03:24 until 12.04.2025 14:52:08
+		Duration:	05:48:44
+		Location:	NULL NULL
+
+	TDB1LS1
+		Images:	2728
+		Time:	12.04.2025 08:20:48 until 12.04.2025 20:52:04
+		Duration:	12:31:16
+		Location:	NULL NULL
+
+(5) - Station 8 Wall Balls
+	DTQ1
+		Images:	4248
+		Time:	12.04.2025 09:21:18 until 12.04.2025 13:57:38
+		Duration:	04:36:20
+		Location:	NULL NULL
+
+	JERO4
+		Images:	3517
+		Time:	12.04.2025 11:19:58 until 12.04.2025 18:20:56
+		Duration:	07:00:58
+		Location:	NULL NULL
+
+	KTA2
+		Images:	2703
+		Time:	12.04.2025 14:58:44 until 12.04.2025 21:51:28
+		Duration:	06:52:44
+		Location:	NULL NULL
+
+	RYH1
+		Images:	5981
+		Time:	12.04.2025 08:22:38 until 12.04.2025 13:51:31
+		Duration:	05:28:53
+		Location:	NULL NULL
+
+	RYT4
+		Images:	2053
+		Time:	12.04.2025 11:20:21 until 12.04.2025 18:22:36
+		Duration:	07:02:15
+		Location:	NULL NULL
+
+	YH2
+		Images:	2611
+		Time:	12.04.2025 14:55:10 until 12.04.2025 21:54:58
+		Duration:	06:59:48
+		Location:	NULL NULL
+
+(6) - Station 3 Sled Pull
+	DTQ2
+		Images:	3856
+		Time:	12.04.2025 14:32:47 until 12.04.2025 20:40:08
+		Duration:	06:07:21
+		Location:	NULL NULL
+
+	LMD1
+		Images:	5545
+		Time:	12.04.2025 08:00:47 until 12.04.2025 14:33:11
+		Duration:	06:32:24
+		Location:	NULL NULL
+
+	OCH1
+		Images:	4202
+		Time:	12.04.2025 08:42:57 until 12.04.2025 13:46:32
+		Duration:	05:03:35
+		Location:	NULL NULL
+
+	PNQ2
+		Images:	5606
+		Time:	12.04.2025 14:58:45 until 12.04.2025 20:48:27
+		Duration:	05:49:42
+		Location:	NULL NULL
+
+	RYH2
+		Images:	4051
+		Time:	12.04.2025 14:34:12 until 12.04.2025 20:46:38
+		Duration:	06:12:26
+		Location:	NULL NULL
+
+	VMM1
+		Images:	5090
+		Time:	12.04.2025 08:33:06 until 12.04.2025 14:30:09
+		Duration:	05:57:03
+		Location:	NULL NULL
+
+(7) - Medalwall
+	IMH1
+		Images:	1387
+		Time:	12.04.2025 08:06:02 until 12.04.2025 13:43:29
+		Duration:	05:37:27
+		Location:	NULL NULL
+
+	NNG3
+		Images:	1225
+		Time:	12.04.2025 11:12:45 until 12.04.2025 18:40:34
+		Duration:	07:27:49
+		Location:	NULL NULL
+
+	PCT2
+		Images:	4391
+		Time:	12.04.2025 14:24:09 until 12.04.2025 22:14:17
+		Duration:	07:50:08
+		Location:	NULL NULL
+
+(8) - Station 0 Venue
+	JERO1
+		Images:	207
+		Time:	12.04.2025 08:33:20 until 12.04.2025 17:54:22
+		Duration:	09:21:02
+		Location:	NULL NULL
+
+	NNG1
+		Images:	177
+		Time:	12.04.2025 09:02:30 until 12.04.2025 12:12:26
+		Duration:	03:09:56
+		Location:	NULL NULL
+
+(9) - Station 5 Rowing
+	JERO2
+		Images:	2215
+		Time:	12.04.2025 09:49:48 until 12.04.2025 17:23:00
+		Duration:	07:33:12
+		Location:	NULL NULL
+
+	KTA1
+		Images:	3267
+		Time:	12.04.2025 09:13:54 until 12.04.2025 14:46:15
+		Duration:	05:32:21
+		Location:	NULL NULL
+
+	OCH2
+		Images:	4635
+		Time:	12.04.2025 14:45:44 until 12.04.2025 21:18:38
+		Duration:	06:32:54
+		Location:	NULL NULL
+
+	RYT2
+		Images:	2133
+		Time:	12.04.2025 10:06:02 until 12.04.2025 17:22:50
+		Duration:	07:16:48
+		Location:	NULL NULL
+
+	VMM2
+		Images:	7553
+		Time:	12.04.2025 14:41:14 until 12.04.2025 21:07:35
+		Duration:	06:26:21
+		Location:	NULL NULL
+
+	YH1
+		Images:	4036
+		Time:	12.04.2025 08:15:32 until 12.04.2025 14:42:18
+		Duration:	06:26:46
+		Location:	NULL NULL
+
+(10) - Station 4 Burpees
+	JERO5
+		Images:	1483
+		Time:	12.04.2025 18:59:34 until 12.04.2025 21:10:01
+		Duration:	02:10:27
+		Location:	NULL NULL
+
+	RYT5
+		Images:	1348
+		Time:	12.04.2025 19:03:17 until 12.04.2025 21:01:00
+		Duration:	01:57:43
+		Location:	NULL NULL
+
+(11) - Run
+	NTA1LS1
+		Images:	1578
+		Time:	12.04.2025 07:53:44 until 12.04.2025 15:47:44
+		Duration:	07:54:00
+		Location:	NULL NULL
+
+	VMM1LS1
+		Images:	3332
+		Time:	12.04.2025 08:16:56 until 12.04.2025 21:08:30
+		Duration:	12:51:34
+		Location:	NULL NULL
+
+(12) - Station 6 Farmers Carry
+	NTT1LS1
+		Images:	3546
+		Time:	12.04.2025 09:13:17 until 12.04.2025 20:48:50
+		Duration:	11:35:33
+		Location:	NULL NULL
+
+	OCH1LS1
+		Images:	5512
+		Time:	12.04.2025 08:05:12 until 12.04.2025 21:23:31
+		Duration:	13:18:19
+		Location:	NULL NULL
+
+(13) - Start
+	RYT1
+		Images:	649
+		Time:	12.04.2025 08:30:00 until 12.04.2025 10:00:09
+		Duration:	01:30:09
+		Location:	NULL NULL
+
+(14) - Impressions / Pano
+	PANO1

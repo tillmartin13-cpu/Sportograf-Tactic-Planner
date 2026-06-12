@@ -1,0 +1,79 @@
+EventId: 14637
+Spots: 12
+Total Images: 28402
+Time:	28.06.2025 08:15:49 to 29.06.2025 12:45:42
+Duration: 1.04:29:53
+
+(1) - Start
+	JOHS1
+		Images:	1562
+		Time:	28.06.2025 08:21:35 until 28.06.2025 14:45:35
+		Duration:	06:24:00
+		Location:	52.50506 13.52600
+
+(2) - Langallee
+	DAVR1
+		Images:	4160
+		Time:	28.06.2025 08:23:34 until 28.06.2025 14:49:10
+		Duration:	06:25:36
+		Location:	52.49997 13.52607
+
+(3) - Affenhaus
+	RYS1
+		Images:	2446
+		Time:	28.06.2025 08:15:49 until 29.06.2025 09:08:49
+		Duration:	1.00:53:00
+		Location:	52.50728 13.52420
+
+	RYS1LS2
+		Images:	1219
+		Time:	28.06.2025 09:23:08 until 28.06.2025 10:16:35
+		Duration:	00:53:27
+		Location:	52.50728 13.52420
+
+	RYS1LS1
+		Images:	1337
+		Time:	28.06.2025 09:22:16 until 28.06.2025 10:17:43
+		Duration:	00:55:27
+		Location:	52.50728 13.52420
+
+	RYS2
+		Images:	1981
+		Time:	28.06.2025 11:32:17 until 29.06.2025 12:45:42
+		Duration:	1.01:13:25
+		Location:	52.50748 13.53221
+
+	RYS2LS1
+		Images:	601
+		Time:	28.06.2025 12:49:12 until 28.06.2025 13:38:18
+		Duration:	00:49:06
+		Location:	52.50748 13.53221
+
+(4) - Trail Run Course
+	RYS3
+		Images:	709
+		Time:	28.06.2025 15:01:55 until 28.06.2025 15:25:39
+		Duration:	00:23:44
+		Location:	52.50665 13.53456
+
+	RYS3LS2
+		Images:	895
+		Time:	28.06.2025 15:03:49 until 28.06.2025 15:25:43
+		Duration:	00:21:54
+		Location:	52.50665 13.53456
+
+	RYS3LS1
+		Images:	965
+		Time:	28.06.2025 10:51:28 until 28.06.2025 15:25:44
+		Duration:	04:34:16
+		Location:	52.50665 13.53456
+
+(5) - Finish
+	JOHS2
+		Images:	12524
+		Time:	28.06.2025 09:46:25 until 28.06.2025 15:40:05
+		Duration:	05:53:40
+		Location:	52.50506 13.52600
+
+(6) - Impressions / Pano
+	PANO1

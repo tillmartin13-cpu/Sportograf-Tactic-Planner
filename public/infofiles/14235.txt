@@ -1,0 +1,138 @@
+EventId: 14235
+Spots: 21
+Total Images: 58522
+Time:	01.01.0001 23:00:00 to 08.02.2025 14:28:28
+Duration: 739288.15:28:28
+
+(1) - Swim - Start
+	KAJ1
+		Images:	1150
+		Time:	01.01.0001 23:00:00 until 08.02.2025 05:57:39
+		Duration:	739288.06:57:39
+		Location:	23.61936 58.46754
+
+(2) - Swim - Finish
+	MUP1LS2
+		Images:	900
+		Time:	08.02.2025 05:42:40 until 08.02.2025 07:15:07
+		Duration:	01:32:27
+		Location:	23.61817 58.46654
+
+	MUP1LS1
+		Images:	888
+		Time:	08.02.2025 05:42:46 until 08.02.2025 09:17:40
+		Duration:	03:34:54
+		Location:	23.61817 58.46654
+
+	SAS1
+		Images:	6134
+		Time:	07.02.2025 19:54:12 until 08.02.2025 09:54:16
+		Duration:	14:00:04
+		Location:	23.61858 58.46609
+
+(3) - Bike - Transition zone
+	MUP1
+		Images:	2562
+		Time:	08.02.2025 05:57:53 until 08.02.2025 07:07:42
+		Duration:	01:09:49
+		Location:	23.61866 58.46757
+
+(4) - Bike - Royal Opera House
+	AMG1
+		Images:	3691
+		Time:	08.02.2025 06:15:15 until 08.02.2025 07:28:26
+		Duration:	01:13:11
+		Location:	23.61466 58.46774
+
+(5) - Bike - Alam Palace
+	PASA1
+		Images:	4270
+		Time:	07.02.2025 19:24:00 until 08.02.2025 08:14:37
+		Duration:	12:50:37
+		Location:	23.61199 58.59370
+
+(6) - Bike - 34,0 km
+	SA1
+		Images:	3242
+		Time:	08.02.2025 06:16:01 until 08.02.2025 08:28:26
+		Duration:	02:12:25
+		Location:	23.58032 58.60404
+
+	SA1LS1
+		Images:	1093
+		Time:	08.02.2025 06:42:58 until 08.02.2025 08:12:34
+		Duration:	01:29:36
+		Location:	23.58032 58.60404
+
+	SA1LS2
+		Images:	1118
+		Time:	08.02.2025 06:44:39 until 08.02.2025 08:28:30
+		Duration:	01:43:51
+		Location:	23.58032 58.60404
+
+(7) - Run - 5km, 12km, 19km
+	SA2LS2
+		Images:	727
+		Time:	08.02.2025 09:58:37 until 08.02.2025 12:48:21
+		Duration:	02:49:44
+		Location:	23.61642 58.47156
+
+	SA2
+		Images:	2513
+		Time:	08.02.2025 09:55:50 until 08.02.2025 12:55:05
+		Duration:	02:59:15
+		Location:	23.61642 58.47156
+
+	SA2LS1
+		Images:	1160
+		Time:	08.02.2025 09:54:44 until 08.02.2025 13:19:42
+		Duration:	03:24:58
+		Location:	23.61642 58.47156
+
+(8) - Run - Qurum Natural Park
+	KAJ2
+		Images:	4898
+		Time:	08.02.2025 07:12:24 until 08.02.2025 13:47:50
+		Duration:	06:35:26
+		Location:	23.61735 58.49026
+
+	PASA2
+		Images:	4797
+		Time:	08.02.2025 06:03:13 until 08.02.2025 13:03:52
+		Duration:	07:00:39
+		Location:	23.61619 58.48615
+
+(9) - Run - Qurum Beach
+	AMG2
+		Images:	6276
+		Time:	08.02.2025 08:32:04 until 08.02.2025 13:24:17
+		Duration:	04:52:13
+		Location:	23.62145 58.47250
+
+(10) - Finish
+	MUP2
+		Images:	5488
+		Time:	08.02.2025 08:50:25 until 08.02.2025 14:14:20
+		Duration:	05:23:55
+		Location:	23.61914 58.46843
+
+	MUP2LS2
+		Images:	811
+		Time:	08.02.2025 09:15:59 until 08.02.2025 14:25:24
+		Duration:	05:09:25
+		Location:	23.61914 58.46843
+
+	MUP2LS1
+		Images:	795
+		Time:	08.02.2025 09:21:46 until 08.02.2025 14:25:42
+		Duration:	05:03:56
+		Location:	23.61914 58.46843
+
+	SAS2
+		Images:	6009
+		Time:	08.02.2025 07:37:27 until 08.02.2025 14:28:28
+		Duration:	06:51:01
+		Location:	23.61914 58.46843
+
+(11) - Swim - Impressions / Pano
+	PANO1

@@ -1,0 +1,346 @@
+EventId: 15079
+Spots: 59
+Total Images: 187123
+Time:	01.03.2025 06:54:25 to 03.03.2025 19:15:10
+Duration: 2.12:20:45
+
+(1) - Station 7
+	TOSC1
+		Images:	621
+		Time:	02.03.2025 12:49:55 until 02.03.2025 13:22:35
+		Duration:	00:32:40
+		Location:	-27.47638 153.01833
+
+	LMRL2
+		Images:	8156
+		Time:	02.03.2025 14:05:45 until 02.03.2025 20:29:00
+		Duration:	06:23:15
+		Location:	-27.47638 153.01833
+
+	WP1
+		Images:	4805
+		Time:	02.03.2025 06:45:07 until 02.03.2025 14:03:21
+		Duration:	07:18:14
+		Location:	-27.47638 153.01833
+
+	TPA6
+		Images:	597
+		Time:	02.03.2025 16:03:47 until 02.03.2025 20:04:31
+		Duration:	04:00:44
+		Location:	-27.47638 153.01833
+
+(2) - Station 5
+	TOSC2
+		Images:	1120
+		Time:	02.03.2025 11:06:02 until 02.03.2025 16:22:08
+		Duration:	05:16:06
+		Location:	-27.47638 153.01833
+
+	AKC3
+		Images:	2634
+		Time:	02.03.2025 14:06:30 until 02.03.2025 20:02:29
+		Duration:	05:55:59
+		Location:	-27.47638 153.01833
+
+	IGM1
+		Images:	10405
+		Time:	02.03.2025 06:53:48 until 02.03.2025 13:57:36
+		Duration:	07:03:48
+		Location:	-27.47638 153.01833
+
+	VFV2
+		Images:	5374
+		Time:	02.03.2025 07:26:39 until 02.03.2025 13:59:22
+		Duration:	06:32:43
+		Location:	-27.47638 153.01833
+
+	AMI3
+		Images:	4571
+		Time:	02.03.2025 14:10:16 until 02.03.2025 20:06:24
+		Duration:	05:56:08
+		Location:	-27.47638 153.01833
+
+	TPA5
+		Images:	740
+		Time:	02.03.2025 08:44:43 until 02.03.2025 15:22:38
+		Duration:	06:37:55
+		Location:	-27.47638 153.01833
+
+(3) - Station 2
+	TOSC3
+		Images:	540
+		Time:	02.03.2025 10:31:22 until 02.03.2025 10:58:52
+		Duration:	00:27:30
+		Location:	-27.47638 153.01833
+
+	JEK1
+		Images:	6238
+		Time:	03.03.2025 07:11:52 until 03.03.2025 14:05:12
+		Duration:	06:53:20
+		Location:	-27.47638 153.01833
+
+	IGM2
+		Images:	2283
+		Time:	02.03.2025 14:07:08 until 02.03.2025 17:38:19
+		Duration:	03:31:11
+		Location:	-27.47638 153.01833
+
+	VFV1
+		Images:	3970
+		Time:	02.03.2025 14:05:08 until 02.03.2025 19:27:38
+		Duration:	05:22:30
+		Location:	-27.47638 153.01833
+
+	AMI2
+		Images:	4311
+		Time:	02.03.2025 07:11:10 until 02.03.2025 14:07:31
+		Duration:	06:56:21
+		Location:	-27.47638 153.01833
+
+	TPA4
+		Images:	231
+		Time:	02.03.2025 09:32:12 until 02.03.2025 09:58:29
+		Duration:	00:26:17
+		Location:	-27.47638 153.01833
+
+(4) - Station 8
+	TOSC4
+		Images:	1629
+		Time:	02.03.2025 11:36:42 until 02.03.2025 17:50:21
+		Duration:	06:13:39
+		Location:	-27.47638 153.01833
+
+	MTS2
+		Images:	4504
+		Time:	02.03.2025 07:51:50 until 02.03.2025 14:00:44
+		Duration:	06:08:54
+		Location:	-27.47638 153.01833
+
+	CHRO1
+		Images:	9414
+		Time:	02.03.2025 05:52:18 until 02.03.2025 14:03:18
+		Duration:	08:11:00
+		Location:	-27.47638 153.01833
+
+	NIF2
+		Images:	5662
+		Time:	02.03.2025 14:03:07 until 02.03.2025 20:46:21
+		Duration:	06:43:14
+		Location:	-27.47638 153.01833
+
+	JBR2
+		Images:	1090
+		Time:	02.03.2025 13:23:18 until 02.03.2025 20:39:53
+		Duration:	07:16:35
+		Location:	-27.47638 153.01833
+
+	TPA3
+		Images:	507
+		Time:	02.03.2025 10:34:12 until 02.03.2025 15:54:25
+		Duration:	05:20:13
+		Location:	-27.47638 153.01833
+
+(5) - Finish
+	TOSC5
+		Images:	402
+		Time:	02.03.2025 17:54:27 until 02.03.2025 18:30:41
+		Duration:	00:36:14
+		Location:	-27.47638 153.01833
+
+	TOSC7LS1
+		Images:	7189
+		Time:	02.03.2025 07:09:56 until 02.03.2025 20:50:41
+		Duration:	13:40:45
+		Location:	-27.47638 153.01833
+
+	TOSC6LS1
+		Images:	8392
+		Time:	02.03.2025 07:22:28 until 02.03.2025 21:17:39
+		Duration:	13:55:11
+		Location:	-27.47638 153.01833
+
+	BSZ2
+		Images:	2453
+		Time:	02.03.2025 07:53:05 until 02.03.2025 14:23:35
+		Duration:	06:30:30
+		Location:	-27.47638 153.01833
+
+	VN2
+		Images:	15388
+		Time:	02.03.2025 14:21:09 until 02.03.2025 20:49:28
+		Duration:	06:28:19
+		Location:	-27.47638 153.01833
+
+	MFS2
+		Images:	745
+		Time:	02.03.2025 18:55:33 until 02.03.2025 20:52:11
+		Duration:	01:56:38
+		Location:	-27.47638 153.01833
+
+(6) - Start
+	TOSC6
+	TOSC7
+	JEK3
+(7) - Impressions / Pano
+	PANO1
+	AKC1
+		Images:	10
+		Time:	02.03.2025 06:35:48 until 02.03.2025 07:00:34
+		Duration:	00:24:46
+		Location:	-27.47638 153.01833
+
+	MTS1
+		Images:	7
+		Time:	02.03.2025 06:52:13 until 02.03.2025 06:55:18
+		Duration:	00:03:05
+		Location:	-27.47638 153.01833
+
+	CHRO3
+		Images:	25
+		Time:	02.03.2025 06:30:14 until 02.03.2025 11:21:13
+		Duration:	04:50:59
+		Location:	-27.47638 153.01833
+
+	JGAT1
+		Images:	25
+		Time:	01.03.2025 21:35:40 until 02.03.2025 07:40:20
+		Duration:	10:04:40
+		Location:	-27.47638 153.01833
+
+	BSZ1
+		Images:	46
+		Time:	02.03.2025 06:30:31 until 02.03.2025 07:45:23
+		Duration:	01:14:52
+		Location:	-27.47638 153.01833
+
+	AMI1
+		Images:	30
+		Time:	02.03.2025 06:31:49 until 02.03.2025 06:52:53
+		Duration:	00:21:04
+		Location:	-27.47638 153.01833
+
+	TPA2
+		Images:	205
+		Time:	02.03.2025 07:51:12 until 02.03.2025 12:31:10
+		Duration:	04:39:58
+		Location:	-27.47638 153.01833
+
+(8) - Station 3
+	AKC2
+		Images:	3686
+		Time:	02.03.2025 07:22:10 until 02.03.2025 13:55:14
+		Duration:	06:33:04
+		Location:	-27.47638 153.01833
+
+	MTS3
+		Images:	3285
+		Time:	02.03.2025 14:06:14 until 02.03.2025 19:39:19
+		Duration:	05:33:05
+		Location:	-27.47638 153.01833
+
+	CHRO2
+		Images:	6403
+		Time:	02.03.2025 14:09:10 until 02.03.2025 19:38:54
+		Duration:	05:29:44
+		Location:	-27.47638 153.01833
+
+	NIF1
+		Images:	3335
+		Time:	02.03.2025 07:17:04 until 02.03.2025 13:51:48
+		Duration:	06:34:44
+		Location:	-27.47638 153.01833
+
+	WP2
+		Images:	3131
+		Time:	02.03.2025 14:06:53 until 02.03.2025 19:28:14
+		Duration:	05:21:21
+		Location:	-27.47638 153.01833
+
+	JBR1
+		Images:	889
+		Time:	02.03.2025 07:18:09 until 02.03.2025 13:22:14
+		Duration:	06:04:05
+		Location:	-27.47638 153.01833
+
+(9) - Medalwall
+	JGAT2
+		Images:	3713
+		Time:	02.03.2025 08:03:15 until 02.03.2025 13:30:51
+		Duration:	05:27:36
+		Location:	-27.47638 153.01833
+
+	CFW2
+		Images:	3193
+		Time:	02.03.2025 14:13:31 until 02.03.2025 20:44:58
+		Duration:	06:31:27
+		Location:	-27.47638 153.01833
+
+	VN1
+		Images:	2759
+		Time:	02.03.2025 06:42:09 until 02.03.2025 14:13:02
+		Duration:	07:30:53
+		Location:	-27.47638 153.01833
+
+	JBR3
+		Images:	1640
+		Time:	02.03.2025 14:14:38 until 02.03.2025 18:54:22
+		Duration:	04:39:44
+		Location:	-27.47638 153.01833
+
+	TPA1
+		Images:	16
+		Time:	02.03.2025 11:14:33 until 02.03.2025 12:30:03
+		Duration:	01:15:30
+		Location:	-27.47638 153.01833
+
+(10) - Station 1
+	JGAT3
+		Images:	2229
+		Time:	02.03.2025 14:21:09 until 02.03.2025 19:14:23
+		Duration:	04:53:14
+		Location:	-27.47638 153.01833
+
+	JEK2
+		Images:	7720
+		Time:	03.03.2025 14:06:54 until 03.03.2025 19:15:10
+		Duration:	05:08:16
+		Location:	-27.47638 153.01833
+
+	CFW1
+		Images:	3729
+		Time:	02.03.2025 05:01:46 until 02.03.2025 14:00:07
+		Duration:	08:58:21
+		Location:	-27.47638 153.01833
+
+	BSZ3
+		Images:	1813
+		Time:	02.03.2025 14:33:31 until 02.03.2025 19:14:34
+		Duration:	04:41:03
+		Location:	-27.47638 153.01833
+
+	LMRL1
+		Images:	3579
+		Time:	02.03.2025 06:28:48 until 02.03.2025 13:58:14
+		Duration:	07:29:26
+		Location:	-27.47638 153.01833
+
+	MFS1
+		Images:	4321
+		Time:	02.03.2025 07:04:42 until 02.03.2025 13:17:18
+		Duration:	06:12:36
+		Location:	-27.47638 153.01833
+
+(11) - Station 6
+	JEK3LS1
+		Images:	4039
+		Time:	02.03.2025 06:47:58 until 02.03.2025 21:02:07
+		Duration:	14:14:09
+		Location:	-27.47638 153.01833
+
+	TPA7
+	TPA7LS1
+		Images:	12776
+		Time:	01.03.2025 06:54:25 until 02.03.2025 20:46:21
+		Duration:	1.13:51:56
+		Location:	-27.47638 153.01833
+

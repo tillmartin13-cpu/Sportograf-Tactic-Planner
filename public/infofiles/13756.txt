@@ -1,0 +1,664 @@
+EventId: 13756
+Spots: 107
+Total Images: 1545336
+Time:	01.01.0001 23:00:00 to 05.10.2025 17:21:03
+Duration: 739527.18:21:03
+
+(1) - Cäcillienstrasse - 1,5km nach Start
+	BKSA1
+		Images:	16779
+		Time:	05.10.2025 09:37:08 until 05.10.2025 16:44:22
+		Duration:	07:07:14
+		Location:	50.9352 6.95255
+
+	BKSA1LS1
+		Images:	647
+		Time:	05.10.2025 08:22:07 until 05.10.2025 09:41:53
+		Duration:	01:19:46
+		Location:	50.9352 6.95255
+
+	BKSA1LS2
+		Images:	2336
+		Time:	05.10.2025 08:01:55 until 05.10.2025 09:34:01
+		Duration:	01:32:06
+		Location:	50.9352 6.95255
+
+	BLUGR1
+		Images:	6985
+		Time:	05.10.2025 07:31:15 until 05.10.2025 09:42:35
+		Duration:	02:11:20
+		Location:	50.9352 6.95255
+
+	BMBEN1
+		Images:	10745
+		Time:	05.10.2025 06:53:12 until 05.10.2025 10:32:36
+		Duration:	03:39:24
+		Location:	50.9352 6.95255
+
+	BMBEN1LS1
+		Images:	2074
+		Time:	05.10.2025 07:49:38 until 05.10.2025 09:32:33
+		Duration:	01:42:55
+		Location:	50.9352 6.95255
+
+	DMABR1
+		Images:	4277
+		Time:	05.10.2025 08:05:59 until 05.10.2025 09:49:11
+		Duration:	01:43:12
+		Location:	50.9352 6.95255
+
+(2) - Cäcillienstrasse - 1,5km vor Ziel
+	BKSA2
+		Images:	12790
+		Time:	05.10.2025 08:36:40 until 05.10.2025 16:37:19
+		Duration:	08:00:39
+		Location:	50.9352 6.95255
+
+	BKSA2LS1
+		Images:	12779
+		Time:	05.10.2025 09:39:30 until 05.10.2025 16:44:10
+		Duration:	07:04:40
+		Location:	50.9352 6.95255
+
+	BLUGR2
+		Images:	14618
+		Time:	05.10.2025 09:43:39 until 05.10.2025 16:48:08
+		Duration:	07:04:29
+		Location:	50.9352 6.95255
+
+	BMBEN2
+		Images:	21664
+		Time:	05.10.2025 10:32:36 until 05.10.2025 16:43:46
+		Duration:	06:11:10
+		Location:	50.9352 6.95255
+
+	BMBEN2LS1
+		Images:	13939
+		Time:	05.10.2025 09:41:33 until 05.10.2025 16:44:26
+		Duration:	07:02:53
+		Location:	50.9352 6.95255
+
+	BNWO2LS1
+		Images:	5771
+		Time:	05.10.2025 11:55:49 until 05.10.2025 16:50:39
+		Duration:	04:54:50
+		Location:	50.9352 6.95255
+
+	BNWO2LS2
+		Images:	5702
+		Time:	05.10.2025 12:01:11 until 05.10.2025 16:52:35
+		Duration:	04:51:24
+		Location:	50.9352 6.95255
+
+	DMABR2
+		Images:	16709
+		Time:	05.10.2025 10:03:52 until 05.10.2025 16:45:16
+		Duration:	06:41:24
+		Location:	50.93572 6.94737
+
+(3) - Ceremony
+	PANO1
+(4) - Deutzbrücke - 1km nach Start
+	DLEAE1
+		Images:	7353
+		Time:	05.10.2025 07:56:02 until 05.10.2025 11:02:18
+		Duration:	03:06:16
+		Location:	50.93619 6.96364
+
+	DLEAE2
+		Images:	9228
+		Time:	05.10.2025 11:33:19 until 05.10.2025 16:50:34
+		Duration:	05:17:15
+		Location:	50.93619 6.96364
+
+	DMAW1
+		Images:	20584
+		Time:	05.10.2025 08:24:47 until 05.10.2025 11:02:13
+		Duration:	02:37:26
+		Location:	50.93619 6.96364
+
+	DMAW1LS1
+		Images:	2779
+		Time:	05.10.2025 08:02:29 until 05.10.2025 11:04:31
+		Duration:	03:02:02
+		Location:	50.93619 6.96364
+
+	DMAW1LS2
+		Images:	3136
+		Time:	05.10.2025 08:08:47 until 05.10.2025 11:07:48
+		Duration:	02:59:01
+		Location:	50.93619 6.96364
+
+	DOP1
+		Images:	7996
+		Time:	05.10.2025 08:34:25 until 05.10.2025 11:02:24
+		Duration:	02:27:59
+		Location:	50.93619 6.96364
+
+	DOP1LS1
+		Images:	3328
+		Time:	05.10.2025 08:00:06 until 05.10.2025 11:02:12
+		Duration:	03:02:06
+		Location:	50.93619 6.96364
+
+(5) - Deutzbrücke 1 km nach Start
+	BNWO1
+		Images:	8251
+		Time:	05.10.2025 08:34:39 until 05.10.2025 11:02:14
+		Duration:	02:27:35
+		Location:	50.93630 6.96360
+
+	BNWO1LS1
+		Images:	2239
+		Time:	05.10.2025 08:21:41 until 05.10.2025 11:06:26
+		Duration:	02:44:45
+		Location:	50.93630 6.96360
+
+	BNWO1LS2
+		Images:	2275
+		Time:	05.10.2025 08:24:38 until 05.10.2025 11:08:04
+		Duration:	02:43:26
+		Location:	50.93630 6.96360
+
+(6) - Finish
+	CALN1
+		Images:	24667
+		Time:	05.10.2025 09:32:07 until 05.10.2025 16:53:39
+		Duration:	07:21:32
+		Location:	50.94158 6.95368
+
+	CALN1LS1
+		Images:	15446
+		Time:	05.10.2025 09:25:35 until 05.10.2025 16:56:40
+		Duration:	07:31:05
+		Location:	50.94158 6.95368
+
+	CIWI1
+		Images:	16650
+		Time:	05.10.2025 09:02:36 until 05.10.2025 16:58:17
+		Duration:	07:55:41
+		Location:	50.94158 6.95368
+
+	CTOBB1
+		Images:	47525
+		Time:	05.10.2025 08:49:43 until 05.10.2025 16:53:33
+		Duration:	08:03:50
+		Location:	50.94158 6.95368
+
+	CTOBB1LS1
+		Images:	13486
+		Time:	05.10.2025 08:23:01 until 05.10.2025 16:53:34
+		Duration:	08:30:33
+		Location:	50.94158 6.95368
+
+	CTOBB1LS2
+		Images:	11764
+		Time:	05.10.2025 08:38:23 until 05.10.2025 17:21:03
+		Duration:	08:42:40
+		Location:	50.94158 6.95368
+
+(7) - Finisher Medals
+	CACFU1
+		Images:	8084
+		Time:	05.10.2025 08:30:00 until 05.10.2025 16:48:28
+		Duration:	08:18:28
+		Location:	50.94222 6.95273
+
+	CJUWI1
+		Images:	13545
+		Time:	05.10.2025 09:22:03 until 05.10.2025 16:57:17
+		Duration:	07:35:14
+		Location:	50.94222 6.95273
+
+	CNKR1
+		Images:	6636
+		Time:	05.10.2025 09:23:14 until 05.10.2025 17:10:43
+		Duration:	07:47:29
+		Location:	50.94222 6.95273
+
+	CSTL1
+		Images:	5188
+		Time:	05.10.2025 09:32:05 until 05.10.2025 17:10:18
+		Duration:	07:38:13
+		Location:	50.94222 6.95273
+
+(8) - Hohe Strasse - 1km vor Ziel
+	DMAW2
+		Images:	16094
+		Time:	05.10.2025 11:47:35 until 05.10.2025 16:46:44
+		Duration:	04:59:09
+		Location:	50.93591 6.95616
+
+	DMAW2LS1
+		Images:	6096
+		Time:	05.10.2025 11:43:19 until 05.10.2025 16:48:03
+		Duration:	05:04:44
+		Location:	50.93591 6.95616
+
+	DMAW2LS2
+		Images:	5691
+		Time:	05.10.2025 11:38:25 until 05.10.2025 16:50:51
+		Duration:	05:12:26
+		Location:	50.93591 6.95616
+
+	DOP2
+		Images:	9842
+		Time:	05.10.2025 11:04:30 until 05.10.2025 16:48:06
+		Duration:	05:43:36
+		Location:	50.93591 6.95616
+
+	DOP2LS1
+		Images:	7885
+		Time:	05.10.2025 11:03:00 until 05.10.2025 16:43:19
+		Duration:	05:40:19
+		Location:	50.93591 6.95616
+
+(9) - Hotspot Friesenplatz Puma Cheer Zone - km25,2
+	ABENL1
+		Images:	23197
+		Time:	05.10.2025 09:09:20 until 05.10.2025 14:27:12
+		Duration:	05:17:52
+		Location:	50.94079 6.93816
+
+	ADPH1
+		Images:	16148
+		Time:	05.10.2025 09:02:06 until 05.10.2025 14:27:50
+		Duration:	05:25:44
+		Location:	50.94079 6.93816
+
+	ARA1
+		Images:	44433
+		Time:	05.10.2025 09:09:09 until 05.10.2025 14:27:49
+		Duration:	05:18:40
+		Location:	50.94079 6.93816
+
+(10) - Hotspot Mediapark - km29
+	CSJA1
+		Images:	26317
+		Time:	05.10.2025 09:21:05 until 05.10.2025 15:04:33
+		Duration:	05:43:28
+		Location:	50.94708 6.94478
+
+	CSJA1LS1
+		Images:	10671
+		Time:	05.10.2025 09:31:16 until 05.10.2025 14:58:23
+		Duration:	05:27:07
+		Location:	50.94708 6.94478
+
+(11) - Hotspot mediapark km 29
+	AMLU1
+		Images:	16620
+		Time:	05.10.2025 08:56:55 until 05.10.2025 12:17:27
+		Duration:	03:20:32
+		Location:	50.94708 6.94478
+
+	AMLU1LS1
+		Images:	13612
+		Time:	05.10.2025 12:17:28 until 05.10.2025 15:04:47
+		Duration:	02:47:19
+		Location:	50.94708 6.94478
+
+(12) - Hotspot Reisdorf Längste Theke - km19
+	ADEES1
+		Images:	9611
+		Time:	05.10.2025 08:52:26 until 05.10.2025 13:39:25
+		Duration:	04:46:59
+		Location:	50.91623 6.92663
+
+	AJOS1
+		Images:	19843
+		Time:	05.10.2025 09:05:20 until 05.10.2025 13:37:40
+		Duration:	04:32:20
+		Location:	50.91623 6.92663
+
+	ALV1
+		Images:	21659
+		Time:	05.10.2025 08:49:54 until 05.10.2025 13:36:48
+		Duration:	04:46:54
+		Location:	50.91623 6.92663
+
+	ALV1LS1
+		Images:	6344
+		Time:	05.10.2025 08:29:40 until 05.10.2025 13:18:30
+		Duration:	04:48:50
+		Location:	50.91623 6.92663
+
+	AMK1
+		Images:	25100
+		Time:	05.10.2025 08:58:35 until 05.10.2025 13:33:29
+		Duration:	04:34:54
+		Location:	50.91623 6.92663
+
+	AMK1LS1
+		Images:	10743
+		Time:	05.10.2025 08:51:43 until 05.10.2025 13:28:29
+		Duration:	04:36:46
+		Location:	50.91623 6.92663
+
+	AMK1LS2
+		Images:	10367
+		Time:	05.10.2025 08:49:00 until 05.10.2025 13:26:25
+		Duration:	04:37:25
+		Location:	50.91623 6.92663
+
+	APETE1
+		Images:	25349
+		Time:	05.10.2025 08:43:30 until 05.10.2025 13:37:15
+		Duration:	04:53:45
+		Location:	50.91623 6.92663
+
+(13) - Hotspot Rewegroup Hammersmeile - km 29,5
+	CPMC1
+		Images:	23328
+		Time:	05.10.2025 09:22:31 until 05.10.2025 13:38:19
+		Duration:	04:15:48
+		Location:	50.94834 6.9508
+
+	CWEN1
+		Images:	42957
+		Time:	05.10.2025 09:22:20 until 05.10.2025 15:59:46
+		Duration:	06:37:26
+		Location:	50.94834 6.9508
+
+(14) - Hotspot Runsquad Cologne Cheer Zone - km 27
+	ANBA1
+		Images:	44579
+		Time:	05.10.2025 09:16:13 until 05.10.2025 14:49:01
+		Duration:	05:32:48
+		Location:	50.94621 6.92538
+
+	AWBEC1
+		Images:	17460
+		Time:	05.10.2025 06:49:05 until 05.10.2025 14:57:08
+		Duration:	08:08:03
+		Location:	50.94621 6.92538
+
+(15) - Impressions / Pano
+	BTOBB1DRONE1
+		Images:	36
+		Time:	05.10.2025 10:42:56 until 05.10.2025 10:46:56
+		Duration:	00:04:00
+		Location:	50.93624 6.94056
+
+	PANO1
+(16) - km 38
+	CPMC2
+		Images:	5464
+		Time:	05.10.2025 13:42:15 until 05.10.2025 15:47:53
+		Duration:	02:05:38
+		Location:	50.94834 6.9508
+
+(17) - Köln Dom 200meter vor Ziel
+	CJKE1
+		Images:	34560
+		Time:	05.10.2025 08:28:15 until 05.10.2025 16:57:13
+		Duration:	08:28:58
+		Location:	50.94173 6.95604
+
+	CJKE1LS1
+		Images:	8798
+		Time:	05.10.2025 09:30:24 until 05.10.2025 16:57:36
+		Duration:	07:27:12
+		Location:	50.94173 6.95604
+
+(18) - Kölner Dom 200m vor Ziel
+	AFCO1
+		Images:	36082
+		Time:	05.10.2025 08:05:56 until 05.10.2025 16:57:09
+		Duration:	08:51:13
+		Location:	50.94173 6.95604
+
+	AGAC1
+		Images:	38180
+		Time:	05.10.2025 08:49:38 until 05.10.2025 16:57:05
+		Duration:	08:07:27
+		Location:	50.94173 6.95604
+
+	AMARS1
+		Images:	33858
+		Time:	05.10.2025 09:33:59 until 05.10.2025 16:57:18
+		Duration:	07:23:19
+		Location:	50.94173 6.95604
+
+(19) - Neumarkt - 2,5 km vor Ziel
+	BACCA2
+		Images:	37146
+		Time:	05.10.2025 11:57:06 until 05.10.2025 16:45:49
+		Duration:	04:48:43
+		Location:	50.93637 6.94749
+
+	BAMAR2
+		Images:	28616
+		Time:	05.10.2025 09:54:27 until 05.10.2025 16:45:53
+		Duration:	06:51:26
+		Location:	50.93637 6.94749
+
+	BOT2
+		Images:	42059
+		Time:	01.01.0001 23:00:00 until 05.10.2025 16:40:06
+		Duration:	739527.17:40:06
+		Location:	50.93637 6.94749
+
+	BOT2LS1
+		Images:	9998
+		Time:	05.10.2025 11:02:57 until 05.10.2025 15:52:52
+		Duration:	04:49:55
+		Location:	50.93637 6.94749
+
+	BOT2LS2
+		Images:	10723
+		Time:	05.10.2025 10:09:24 until 05.10.2025 16:41:49
+		Duration:	06:32:25
+		Location:	50.93637 6.94749
+
+	BPBO2
+		Images:	20751
+		Time:	05.10.2025 10:26:45 until 05.10.2025 16:39:40
+		Duration:	06:12:55
+		Location:	50.93637 6.94749
+
+(20) - Neumarkt - 2,5km vor Ziel
+	DACCA2
+		Images:	30223
+		Time:	05.10.2025 09:55:46 until 05.10.2025 11:53:59
+		Duration:	01:58:13
+		Location:	50.93637 6.94749
+
+(21) - Neumarkt - 2km nach Start
+	BAMAR1
+		Images:	7025
+		Time:	05.10.2025 08:37:43 until 05.10.2025 09:54:13
+		Duration:	01:16:30
+		Location:	50.93572 6.94737
+
+	BOT1
+		Images:	16175
+		Time:	05.10.2025 08:37:15 until 05.10.2025 09:50:59
+		Duration:	01:13:44
+		Location:	50.93572 6.94737
+
+	BOT1LS1
+		Images:	10171
+		Time:	05.10.2025 08:25:56 until 05.10.2025 11:02:56
+		Duration:	02:37:00
+		Location:	50.93572 6.94737
+
+	BOT1LS2
+		Images:	2067
+		Time:	05.10.2025 08:24:44 until 05.10.2025 10:00:14
+		Duration:	01:35:30
+		Location:	50.93572 6.94737
+
+	BPBO1
+		Images:	8931
+		Time:	05.10.2025 08:19:55 until 05.10.2025 10:05:14
+		Duration:	01:45:19
+		Location:	50.93572 6.94737
+
+(22) - Neumartkt - 2km nach Start
+	DACCA1
+		Images:	7519
+		Time:	05.10.2025 08:22:09 until 05.10.2025 09:54:24
+		Duration:	01:32:15
+		Location:	50.93572 6.94737
+
+(23) - Rudofplatz - 2,7 km vor Ziel
+	BMIJA2
+		Images:	10408
+		Time:	05.10.2025 11:58:13 until 05.10.2025 16:36:46
+		Duration:	04:38:33
+		Location:	50.93624 6.94056
+
+	BMIV2
+		Images:	30106
+		Time:	05.10.2025 11:35:08 until 05.10.2025 16:42:19
+		Duration:	05:07:11
+		Location:	50.93624 6.94056
+
+	BMSC2
+		Images:	7277
+		Time:	05.10.2025 13:16:56 until 05.10.2025 16:25:57
+		Duration:	03:09:01
+		Location:	50.93624 6.94056
+
+	BMW2
+		Images:	24331
+		Time:	05.10.2025 09:52:40 until 05.10.2025 14:40:29
+		Duration:	04:47:49
+		Location:	50.93624 6.94056
+
+	BMW2LS1
+		Images:	3506
+		Time:	05.10.2025 09:44:04 until 05.10.2025 14:43:01
+		Duration:	04:58:57
+		Location:	50.93624 6.94056
+
+	BMW2LS2
+		Images:	13005
+		Time:	05.10.2025 09:44:18 until 05.10.2025 14:43:21
+		Duration:	04:59:03
+		Location:	50.93624 6.94056
+
+(24) - Rudolfplatz - 2,5km nach Start
+	BADHA1
+		Images:	10707
+		Time:	05.10.2025 08:39:21 until 05.10.2025 16:32:17
+		Duration:	07:52:56
+		Location:	50.93573 6.94057
+
+	BANR1
+		Images:	5938
+		Time:	05.10.2025 08:39:04 until 05.10.2025 10:15:06
+		Duration:	01:36:02
+		Location:	50.93573 6.94057
+
+	BMW1
+		Images:	7820
+		Time:	05.10.2025 08:38:51 until 05.10.2025 09:32:59
+		Duration:	00:54:08
+		Location:	50.93573 6.94057
+
+	BMW1LS1
+		Images:	4170
+		Time:	05.10.2025 08:31:39 until 05.10.2025 09:33:12
+		Duration:	01:01:33
+		Location:	50.93573 6.94057
+
+	BMW1LS2
+		Images:	2269
+		Time:	05.10.2025 08:31:06 until 05.10.2025 09:33:06
+		Duration:	01:02:00
+		Location:	50.93573 6.94057
+
+	BTOMF1
+		Images:	2259
+		Time:	05.10.2025 08:18:53 until 05.10.2025 09:36:21
+		Duration:	01:17:28
+		Location:	50.93573 6.94057
+
+	DANR2
+		Images:	19330
+		Time:	05.10.2025 10:16:33 until 05.10.2025 16:38:49
+		Duration:	06:22:16
+		Location:	50.93573 6.94057
+
+	DTOMF1
+		Images:	9701
+		Time:	05.10.2025 09:39:09 until 05.10.2025 11:31:15
+		Duration:	01:52:06
+		Location:	50.93573 6.94057
+
+	DTOMF2
+		Images:	16726
+		Time:	05.10.2025 11:31:15 until 05.10.2025 16:38:13
+		Duration:	05:06:58
+		Location:	50.93573 6.94057
+
+(25) - Rudolfplatz - 2,6 km Nach Start
+	BMIJA1
+		Images:	16168
+		Time:	05.10.2025 09:04:44 until 05.10.2025 11:15:38
+		Duration:	02:10:54
+		Location:	50.93546 6.93876
+
+	BMIV1
+		Images:	15127
+		Time:	05.10.2025 09:01:51 until 05.10.2025 11:00:37
+		Duration:	01:58:46
+		Location:	50.93546 6.93876
+
+	BMSC1
+		Images:	9932
+		Time:	05.10.2025 08:42:00 until 05.10.2025 12:49:33
+		Duration:	04:07:33
+		Location:	50.93546 6.93876
+
+(26) - Universitätstrasse Tunnel km20,5
+	AMOKU1
+		Images:	17534
+		Time:	05.10.2025 08:45:34 until 05.10.2025 13:48:28
+		Duration:	05:02:54
+		Location:	50.92835 6.92815
+
+	AMOKU1LS1
+		Images:	12681
+		Time:	05.10.2025 08:32:55 until 05.10.2025 13:26:10
+		Duration:	04:53:15
+		Location:	50.92835 6.92815
+
+	ASSW1
+		Images:	27862
+		Time:	04.10.2025 19:03:39 until 05.10.2025 13:47:03
+		Duration:	18:43:24
+		Location:	50.92835 6.92815
+
+	ASSW1LS1
+		Images:	13354
+		Time:	05.10.2025 08:45:42 until 05.10.2025 13:31:23
+		Duration:	04:45:41
+		Location:	50.92835 6.92815
+
+	ASSW1LS2
+		Images:	6632
+		Time:	05.10.2025 08:44:42 until 05.10.2025 13:31:53
+		Duration:	04:47:11
+		Location:	50.92835 6.92815
+
+	AST1
+		Images:	19765
+		Time:	05.10.2025 08:45:56 until 05.10.2025 13:47:42
+		Duration:	05:01:46
+		Location:	50.92835 6.92815
+
+	AST1LS1
+		Images:	9312
+		Time:	05.10.2025 08:31:32 until 05.10.2025 13:35:02
+		Duration:	05:03:30
+		Location:	50.92835 6.92815
+
+	AWIP1
+		Images:	9113
+		Time:	05.10.2025 08:40:40 until 05.10.2025 13:39:38
+		Duration:	04:58:58
+		Location:	50.92835 6.92815
+

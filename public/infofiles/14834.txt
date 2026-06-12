@@ -1,0 +1,15 @@
+EventId: 14834
+Spots: 2
+Total Images: 779
+Time:	19.04.2025 14:26:23 to 19.04.2025 16:56:07
+Duration: 02:29:44
+
+(1) - Impressions / Pano
+	PANO1
+(2) - Start
+	BERM1
+		Images:	779
+		Time:	19.04.2025 14:26:23 until 19.04.2025 16:56:07
+		Duration:	02:29:44
+		Location:	-80.13330 25.79428
+

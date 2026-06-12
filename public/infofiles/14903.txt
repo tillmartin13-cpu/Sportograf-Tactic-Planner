@@ -1,0 +1,256 @@
+EventId: 14903
+Spots: 40
+Total Images: 62718
+Time:	11.04.2025 16:32:59 to 13.04.2025 14:01:03
+Duration: 1.21:28:04
+
+(1) - 100M Start Friday
+	MATR1
+		Images:	140
+		Time:	11.04.2025 16:32:59 until 11.04.2025 17:22:42
+		Duration:	00:49:43
+		Location:	45.08551 14.12270
+
+(2) - 100M Friday/5 km after start
+	BRN1
+		Images:	333
+		Time:	11.04.2025 17:08:06 until 11.04.2025 17:17:20
+		Duration:	00:09:14
+		Location:	45.07511 14.13479
+
+	BRN1LS1
+		Images:	405
+		Time:	11.04.2025 16:48:47 until 11.04.2025 19:00:26
+		Duration:	02:11:39
+		Location:	45.07511 14.13479
+
+(3) - 100M Friday PLOMIN LUKA
+	MATR2
+		Images:	972
+		Time:	11.04.2025 19:00:02 until 11.04.2025 21:20:40
+		Duration:	02:20:38
+		Location:	45.15644 14.18842
+
+	MATR2LS1
+		Images:	1233
+		Time:	11.04.2025 19:04:48 until 12.04.2025 10:53:55
+		Duration:	15:49:07
+		Location:	45.15644 14.18842
+
+	BRN2
+		Images:	731
+		Time:	11.04.2025 18:52:37 until 11.04.2025 21:24:51
+		Duration:	02:32:14
+		Location:	45.15304 14.18608
+
+	BRN2LS1
+		Images:	255
+		Time:	11.04.2025 19:04:01 until 11.04.2025 21:25:00
+		Duration:	02:20:59
+		Location:	45.15304 14.18608
+
+(4) - 110K 10 km after start
+	GAZ1
+		Images:	1900
+		Time:	12.04.2025 06:12:55 until 12.04.2025 09:27:38
+		Duration:	03:14:43
+		Location:	45.40621 14.01984
+
+	GAZ1LS1
+		Images:	240
+		Time:	12.04.2025 06:23:26 until 12.04.2025 07:18:29
+		Duration:	00:55:03
+		Location:	45.40621 14.01984
+
+(5) - 110K 12 km after start
+	LULE1
+		Images:	1610
+		Time:	12.04.2025 07:54:35 until 12.04.2025 08:25:35
+		Duration:	00:31:00
+		Location:	45.41917 14.02720
+
+	LULE1LS1
+		Images:	821
+		Time:	12.04.2025 07:34:44 until 12.04.2025 12:55:39
+		Duration:	05:20:55
+		Location:	45.41917 14.02720
+
+	LULE1LS2
+		Images:	709
+		Time:	12.04.2025 07:27:20 until 12.04.2025 08:27:04
+		Duration:	00:59:44
+		Location:	45.41917 14.02720
+
+(6) - 50k 9 km after start
+	GAZ2
+		Images:	1603
+		Time:	12.04.2025 09:27:50 until 12.04.2025 12:16:12
+		Duration:	02:48:22
+		Location:	45.38592 13.94381
+
+	GAZ2LS1
+		Images:	431
+		Time:	12.04.2025 08:32:40 until 12.04.2025 09:25:45
+		Duration:	00:53:05
+		Location:	45.38592 13.94381
+
+(7) - 50k 10 km after start
+	LULE2
+		Images:	2009
+		Time:	12.04.2025 09:34:19 until 12.04.2025 10:14:49
+		Duration:	00:40:30
+		Location:	45.38485 13.94209
+
+	LULE2LS1
+		Images:	534
+		Time:	12.04.2025 07:23:19 until 12.04.2025 10:16:22
+		Duration:	02:53:03
+		Location:	45.38485 13.94209
+
+(8) - All race  S. Giorgio 10 km before GROŽNJAN
+	GAZ3
+		Images:	2927
+		Time:	12.04.2025 12:27:25 until 12.04.2025 16:23:54
+		Duration:	03:56:29
+		Location:	45.37784 13.76188
+
+	GAZ3LS1
+		Images:	658
+		Time:	12.04.2025 11:10:47 until 12.04.2025 15:24:00
+		Duration:	04:13:13
+		Location:	45.37784 13.76188
+
+(9) - All race  S. Giorgio 9 km before GROŽNJAN
+	LULE3
+		Images:	6854
+		Time:	12.04.2025 13:10:12 until 12.04.2025 15:56:43
+		Duration:	02:46:31
+		Location:	45.37915 13.75574
+
+	LULE3LS1
+		Images:	1134
+		Time:	12.04.2025 12:41:31 until 12.04.2025 16:28:48
+		Duration:	03:47:17
+		Location:	45.37915 13.75574
+
+(10) - Motovun all race
+	MATR3LS1
+		Images:	5050
+		Time:	12.04.2025 10:34:30 until 12.04.2025 19:14:03
+		Duration:	08:39:33
+		Location:	45.33520 13.82867
+
+(11) - Finish
+	BRN3
+		Images:	5253
+		Time:	12.04.2025 10:56:00 until 12.04.2025 20:41:45
+		Duration:	09:45:45
+		Location:	45.43340 13.51806
+
+	BRN3LS1
+		Images:	5338
+		Time:	12.04.2025 09:59:43 until 12.04.2025 20:41:24
+		Duration:	10:41:41
+		Location:	45.43340 13.51806
+
+	LULE4
+		Images:	1539
+		Time:	12.04.2025 20:35:22 until 13.04.2025 00:22:29
+		Duration:	03:47:07
+		Location:	45.43340 13.51806
+
+	LULE4LS1
+		Images:	1088
+		Time:	12.04.2025 20:37:10 until 13.04.2025 00:20:54
+		Duration:	03:43:44
+		Location:	45.43340 13.51806
+
+	GAZ4LS1
+	GAZ4
+		Images:	742
+		Time:	13.04.2025 00:32:13 until 13.04.2025 06:49:11
+		Duration:	06:16:58
+		Location:	45.43340 13.51806
+
+	GAZ4LS2
+		Images:	481
+		Time:	12.04.2025 23:24:53 until 13.04.2025 04:44:03
+		Duration:	05:19:10
+		Location:	45.43340 13.51806
+
+	MATR3
+		Images:	4801
+		Time:	12.04.2025 10:59:46 until 12.04.2025 19:08:50
+		Duration:	08:09:04
+		Location:	45.43340 13.51806
+
+	MATR3LS2
+		Images:	2518
+		Time:	12.04.2025 10:54:37 until 12.04.2025 19:09:31
+		Duration:	08:14:54
+		Location:	45.43340 13.51806
+
+	MATR4
+		Images:	2262
+		Time:	13.04.2025 06:57:37 until 13.04.2025 14:01:03
+		Duration:	07:03:26
+		Location:	45.43340 13.51806
+
+	MATR4LS1
+		Images:	956
+		Time:	13.04.2025 06:20:20 until 13.04.2025 13:56:54
+		Duration:	07:36:34
+		Location:	45.43340 13.51806
+
+(12) - 5 km after start 20 k
+	BRN4
+		Images:	838
+		Time:	13.04.2025 10:10:27 until 13.04.2025 10:43:33
+		Duration:	00:33:06
+		Location:	45.40329 13.68409
+
+	BRN4LS1
+		Images:	316
+		Time:	13.04.2025 09:49:06 until 13.04.2025 10:39:21
+		Duration:	00:50:15
+		Location:	45.40329 13.68409
+
+	LULE5
+		Images:	1469
+		Time:	13.04.2025 10:27:53 until 13.04.2025 10:40:35
+		Duration:	00:12:42
+		Location:	45.40329 13.68409
+
+(13) - 3 km before Finish 20k
+	BRN5
+		Images:	849
+		Time:	13.04.2025 11:27:22 until 13.04.2025 12:57:53
+		Duration:	01:30:31
+		Location:	45.43348 13.55601
+
+	BRN5LS1
+		Images:	276
+		Time:	13.04.2025 11:27:59 until 13.04.2025 12:57:58
+		Duration:	01:29:59
+		Location:	45.43348 13.55601
+
+(14) - 4 km before finish 20k
+	LULE6
+		Images:	2908
+		Time:	13.04.2025 11:37:18 until 13.04.2025 12:48:26
+		Duration:	01:11:08
+		Location:	45.43395 13.55892
+
+	LULE6LS1
+		Images:	294
+		Time:	13.04.2025 11:26:19 until 13.04.2025 12:42:17
+		Duration:	01:15:58
+		Location:	45.43395 13.55892
+
+(15) - Impressions / Pano
+	MATR1DRONE1
+		Images:	241
+		Time:	11.04.2025 16:56:36 until 13.04.2025 13:46:27
+		Duration:	1.20:49:51
+		Location:	45.43340 13.51800
+

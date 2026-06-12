@@ -1,0 +1,129 @@
+EventId: 15345
+Spots: 59
+Total Images: 71577
+Time:	05.04.2025 08:17:36 to 05.04.2025 21:52:30
+Duration: 13:34:54
+
+(1) - Venue
+	GIP1
+(2) - Station 4 Burpee Board Jump
+	GIP2
+	NNG4
+	NP3
+		Images:	10134
+		Time:	05.04.2025 14:05:30 until 05.04.2025 20:33:53
+		Duration:	06:28:23
+		Location:	31.18360 121.48377
+
+	MVV1
+(3) - Station 5 Rowing
+	GIP3
+	HTT4
+	ZHMI3
+		Images:	3985
+		Time:	05.04.2025 14:07:38 until 05.04.2025 20:54:53
+		Duration:	06:47:15
+		Location:	31.18360 121.48377
+
+	NTA1
+	LDB1
+	PNQ2
+		Images:	9704
+		Time:	05.04.2025 14:13:38 until 05.04.2025 20:44:10
+		Duration:	06:30:32
+		Location:	31.18360 121.48377
+
+(4) - Station 7 Sandbag Lunges
+	GIP5
+	NNG5
+	NP1LS1
+		Images:	4583
+		Time:	05.04.2025 08:17:36 until 05.04.2025 21:06:40
+		Duration:	12:49:04
+		Location:	31.18360 121.48377
+
+	HOWE2
+	HOWE3
+	DMCI1
+(5) - Station 8 Wall Balls
+	GIP4
+	NNG8
+	HTT5
+	TAP2
+	MOMO3
+	LNG1
+	PNQ1
+(6) - Finish
+	GIP6
+	GIP6LS1
+	NNG6
+	NNG1LS1
+	SUHE1
+	SUHE2
+		Images:	21360
+		Time:	05.04.2025 13:48:15 until 05.04.2025 20:41:30
+		Duration:	06:53:15
+		Location:	31.18360 121.48377
+
+	HUIC2
+(7) - Station 2 Sled Push
+	NNG1
+	HTT3
+	HALI2
+	ZHMI1
+	ZHMI2
+	TAP1
+	NTA2
+		Images:	2551
+		Time:	05.04.2025 14:24:45 until 05.04.2025 20:04:11
+		Duration:	05:39:26
+		Location:	31.18360 121.48377
+
+(8) - Station 1 SkiErg
+	NNG3
+	HTT2
+	NP1
+	HALI1
+	LDB2
+	LNG2
+(9) - Station 3 Sled Pull
+	NNG2
+	HTT7
+	MOMO1
+	MOMO2
+	HOWE1
+	MVV2
+		Images:	3739
+		Time:	05.04.2025 14:11:29 until 05.04.2025 20:15:41
+		Duration:	06:04:12
+		Location:	31.18360 121.48377
+
+	DMCI2
+(10) - Herowall
+	NNG7
+	HTT6
+	HUIC1
+(11) - Start
+	HTT1
+(12) - Ceremony
+	NP2
+		Images:	82
+		Time:	05.04.2025 21:26:40 until 05.04.2025 21:52:30
+		Duration:	00:25:50
+		Location:	31.18360 121.48377
+
+(13) - Run Between S2 & S3
+	MVV1LS1
+		Images:	5111
+		Time:	05.04.2025 08:31:11 until 05.04.2025 20:17:08
+		Duration:	11:45:57
+		Location:	31.18360 121.48377
+
+(14) - Station 6 Farmers Carry
+	LDB1LS1
+	NTA1LS1
+		Images:	10328
+		Time:	05.04.2025 08:37:05 until 05.04.2025 18:20:42
+		Duration:	09:43:37
+		Location:	31.18360 121.48377
+

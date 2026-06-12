@@ -1,0 +1,80 @@
+EventId: 14858
+Spots: 11
+Total Images: 7053
+Time:	06.04.2025 07:45:19 to 06.04.2025 14:20:56
+Duration: 06:35:37
+
+(1) - Start
+	CSI1
+		Images:	395
+		Time:	06.04.2025 07:45:19 until 06.04.2025 08:34:57
+		Duration:	00:49:38
+		Location:	43.93319 10.91548
+
+(2) - 0.6 km
+	FMA1
+		Images:	379
+		Time:	06.04.2025 08:30:35 until 06.04.2025 08:36:56
+		Duration:	00:06:21
+		Location:	43.93107 10.91410
+
+(3) - 60.0 km
+	FBO1
+		Images:	1228
+		Time:	06.04.2025 10:44:39 until 06.04.2025 12:31:56
+		Duration:	01:47:17
+		Location:	43.80927 10.92871
+
+	FBO1LS1
+		Images:	438
+		Time:	06.04.2025 10:46:32 until 06.04.2025 12:18:11
+		Duration:	01:31:39
+		Location:	43.80927 10.92871
+
+(4) - 0.0 km
+	EO1LS1
+		Images:	136
+		Time:	06.04.2025 10:27:31 until 06.04.2025 11:48:11
+		Duration:	01:20:40
+		Location:	43.78034 10.97724
+
+(5) - 72.0 km
+	EO1
+		Images:	965
+		Time:	06.04.2025 10:19:33 until 06.04.2025 11:42:05
+		Duration:	01:22:32
+		Location:	43.78034 10.97724
+
+(6) - 123.0 km
+	FMA2
+		Images:	796
+		Time:	06.04.2025 10:09:16 until 06.04.2025 13:54:42
+		Duration:	03:45:26
+		Location:	43.92710 10.89968
+
+(7) - Finish
+	CSI2
+		Images:	760
+		Time:	06.04.2025 10:12:30 until 06.04.2025 14:20:54
+		Duration:	04:08:24
+		Location:	43.93319 10.91548
+
+	CSI2LS1
+		Images:	1934
+		Time:	06.04.2025 10:09:02 until 06.04.2025 14:20:56
+		Duration:	04:11:54
+		Location:	43.93319 10.91548
+
+(8) - Impressions / Pano
+	PANO1
+		Images:	2
+		Time:	06.04.2025 09:59:42 until 06.04.2025 12:51:40
+		Duration:	02:51:58
+		Location:	NULL NULL
+
+	EO1DRONE1
+		Images:	20
+		Time:	06.04.2025 09:57:46 until 06.04.2025 12:52:16
+		Duration:	02:54:30
+		Location:	NULL NULL
+

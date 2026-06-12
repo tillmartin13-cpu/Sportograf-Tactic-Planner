@@ -1,0 +1,200 @@
+EventId: 14007
+Spots: 31
+Total Images: 75411
+Time:	01.01.2014 08:00:06 to 10.08.2025 17:01:41
+Duration: 4239.09:01:35
+
+(1) - Swim - Start
+	OCH1
+		Images:	6043
+		Time:	10.08.2025 04:59:50 until 10.08.2025 07:54:05
+		Duration:	02:54:15
+		Location:	10.30307 124.01916
+
+	DCL1
+		Images:	2744
+		Time:	10.08.2025 05:01:02 until 10.08.2025 06:55:28
+		Duration:	01:54:26
+		Location:	10.30307 124.01916
+
+(2) - Impressions Swim
+	OCH3
+		Images:	70
+		Time:	10.08.2025 04:59:50 until 10.08.2025 06:08:04
+		Duration:	01:08:14
+		Location:	10.30307 124.01916
+
+	DCL6
+		Images:	70
+		Time:	10.08.2025 05:09:17 until 10.08.2025 05:39:31
+		Duration:	00:30:14
+		Location:	10.30307 124.01916
+
+(3) - Impressions Bike
+	DCL4
+		Images:	1
+		Time:	10.08.2025 06:57:08 until 10.08.2025 06:57:08
+		Duration:	00:00:00
+		Location:	10.30561 124.01917
+
+	JMAO3
+		Images:	4
+		Time:	10.08.2025 05:55:44 until 10.08.2025 11:39:07
+		Duration:	05:43:23
+		Location:	10.27781 123.91061
+
+	CAA6
+		Images:	15
+		Time:	10.08.2025 05:57:44 until 10.08.2025 11:40:39
+		Duration:	05:42:55
+		Location:	10.28631 123.89924
+
+	CHTE5
+		Images:	12
+		Time:	10.08.2025 05:47:27 until 10.08.2025 11:15:52
+		Duration:	05:28:25
+		Location:	10.28631 123.89924
+
+(4) - Impressions Finish
+	DCL5
+		Images:	3
+		Time:	10.08.2025 08:52:08 until 10.08.2025 09:34:23
+		Duration:	00:42:15
+		Location:	10.30675 124.01736
+
+(5) - Swim - Impressions / Pano
+	RPB1
+		Images:	53
+		Time:	10.08.2025 05:00:30 until 10.08.2025 05:32:40
+		Duration:	00:32:10
+		Location:	10.30523 124.01941
+
+	PANO1
+(6) - Bike - 0,0 km
+	RPB2
+		Images:	790
+		Time:	10.08.2025 05:52:27 until 10.08.2025 06:41:15
+		Duration:	00:48:48
+		Location:	10.30561 124.01917
+
+(7) - Run - 0,0 km
+	RPB3
+		Images:	141
+		Time:	10.08.2025 06:44:26 until 10.08.2025 06:52:41
+		Duration:	00:08:15
+		Location:	10.307 124.01769
+
+	PCT1
+		Images:	6803
+		Time:	10.08.2025 06:26:04 until 10.08.2025 15:03:13
+		Duration:	08:37:09
+		Location:	10.31109 124.02288
+
+	PCT1LS1
+		Images:	8633
+		Time:	10.08.2025 06:07:40 until 10.08.2025 14:48:28
+		Duration:	08:40:48
+		Location:	10.31109 124.02288
+
+	RPB4
+		Images:	6118
+		Time:	10.08.2025 09:04:18 until 10.08.2025 14:37:32
+		Duration:	05:33:14
+		Location:	10.32709 124.03979
+
+(8) - Bike - 0,0 km Before CCLEX Toll Plaza
+	CHTE1
+		Images:	1201
+		Time:	09.08.2025 21:20:39 until 10.08.2025 06:53:39
+		Duration:	09:33:00
+		Location:	10.26592 123.94028
+
+(9) - Bike - 0,0 km After CCLEX Toll Plaza
+	JMAO1
+		Images:	5128
+		Time:	08.08.2025 18:16:17 until 10.08.2025 12:48:29
+		Duration:	1.18:32:12
+		Location:	10.27781 123.91061
+
+(10) - Bike - 0,0 km CCLEX Bridge
+	CAA4
+		Images:	7791
+		Time:	09.08.2025 18:40:40 until 10.08.2025 12:48:42
+		Duration:	18:08:02
+		Location:	10.28631 123.89924
+
+(11) - Bike - 0,0 km CCLEX-South Road Properties
+	CHTE2
+		Images:	5620
+		Time:	10.08.2025 06:53:44 until 10.08.2025 11:29:38
+		Duration:	04:35:54
+		Location:	10.28780 123.89791
+
+(12) - Finish
+	DCL2
+		Images:	2399
+		Time:	10.08.2025 06:57:08 until 10.08.2025 08:34:13
+		Duration:	01:37:05
+		Location:	10.30675 124.01736
+
+	OCH2
+		Images:	1819
+		Time:	10.08.2025 09:51:20 until 10.08.2025 15:24:48
+		Duration:	05:33:28
+		Location:	10.30650 124.01617
+
+	OCH2LS1
+		Images:	4013
+		Time:	01.01.2014 08:00:06 until 10.08.2025 15:27:15
+		Duration:	4239.07:27:09
+		Location:	10.30650 124.01617
+
+	OCH2LS2
+		Images:	5235
+		Time:	10.08.2025 08:51:51 until 10.08.2025 15:28:39
+		Duration:	06:36:48
+		Location:	10.30650 124.01617
+
+	DCL3
+		Images:	7027
+		Time:	10.08.2025 08:51:57 until 10.08.2025 15:26:29
+		Duration:	06:34:32
+		Location:	10.30650 124.01617
+
+	DCL3LS1
+		Images:	814
+		Time:	10.08.2025 09:11:20 until 10.08.2025 15:27:23
+		Duration:	06:16:03
+		Location:	10.30650 124.01617
+
+	JMAO2
+		Images:	1737
+		Time:	10.08.2025 12:49:35 until 10.08.2025 15:59:09
+		Duration:	03:09:34
+		Location:	10.30650 124.01617
+
+	CAA5
+		Images:	724
+		Time:	10.08.2025 12:50:02 until 10.08.2025 14:38:03
+		Duration:	01:48:01
+		Location:	10.30650 124.01617
+
+	CHTE3
+		Images:	162
+		Time:	10.08.2025 12:46:26 until 10.08.2025 14:43:54
+		Duration:	01:57:28
+		Location:	10.30650 124.01617
+
+(13) - Ceremony
+	CHTE4
+		Images:	126
+		Time:	10.08.2025 16:10:32 until 10.08.2025 17:01:41
+		Duration:	00:51:09
+		Location:	10.30443 124.01884
+
+	CAA3
+		Images:	115
+		Time:	10.08.2025 16:06:13 until 10.08.2025 17:01:38
+		Duration:	00:55:25
+		Location:	10.30443 124.01884
+

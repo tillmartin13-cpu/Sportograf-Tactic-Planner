@@ -1,0 +1,69 @@
+EventId: 14732
+Spots: 10
+Total Images: 12347
+Time:	25.07.2025 21:13:17 to 26.07.2025 15:25:53
+Duration: 18:12:36
+
+(1) - Start
+	DRU1
+		Images:	210
+		Time:	26.07.2025 07:56:28 until 26.07.2025 10:27:20
+		Duration:	02:30:52
+		Location:	47.54210 14.88337
+
+	ISM1
+		Images:	457
+		Time:	25.07.2025 21:13:17 until 26.07.2025 09:46:04
+		Duration:	12:32:47
+		Location:	47.54210 14.88337
+
+	KYR1
+		Images:	135
+		Time:	26.07.2025 09:32:00 until 26.07.2025 09:45:19
+		Duration:	00:13:19
+		Location:	47.54249 14.88516
+
+(2) - 13.0 km
+	DRU2
+		Images:	1014
+		Time:	26.07.2025 10:27:46 until 26.07.2025 12:40:31
+		Duration:	02:12:45
+		Location:	47.52310 14.91439
+
+(3) - Ceremony
+	DRU3
+		Images:	77
+		Time:	26.07.2025 14:31:25 until 26.07.2025 15:25:53
+		Duration:	00:54:28
+		Location:	NULL NULL
+
+(4) - 12.5 km
+	ISM2
+		Images:	4449
+		Time:	26.07.2025 10:26:18 until 26.07.2025 12:22:57
+		Duration:	01:56:39
+		Location:	47.52215 14.91562
+
+(5) - 3.2 km
+	KYR2
+		Images:	616
+		Time:	26.07.2025 10:09:18 until 26.07.2025 10:23:19
+		Duration:	00:14:01
+		Location:	47.52607 14.89178
+
+(6) - 7.0 km
+	KYR3
+		Images:	1259
+		Time:	26.07.2025 08:38:40 until 26.07.2025 11:12:29
+		Duration:	02:33:49
+		Location:	47.52160 14.90491
+
+(7) - Finish
+	NAG1
+		Images:	4130
+		Time:	26.07.2025 09:51:25 until 26.07.2025 12:36:00
+		Duration:	02:44:35
+		Location:	47.52497 14.91163
+
+(8) - Impressions / Pano
+	PANO1

@@ -1,0 +1,146 @@
+EventId: 13963
+Spots: 21
+Total Images: 82837
+Time:	06.09.2025 23:43:04 to 07.09.2025 18:32:40
+Duration: 18:49:36
+
+(1) - Start
+	CK1
+		Images:	351
+		Time:	07.09.2025 06:01:46 until 07.09.2025 06:49:29
+		Duration:	00:47:43
+		Location:	47.44506 12.39231
+
+	CK1DRONE1
+		Images:	14
+		Time:	07.09.2025 06:22:18 until 07.09.2025 10:59:28
+		Duration:	04:37:10
+		Location:	47.44506 12.39231
+
+(2) - 15.2 km Pass Thurn
+	ANI1
+		Images:	558
+		Time:	07.09.2025 07:08:32 until 07.09.2025 07:30:46
+		Duration:	00:22:14
+		Location:	47.32525 12.40660
+
+(3) - 15.5 km Pass Thurn
+	KYR1
+		Images:	6028
+		Time:	07.09.2025 06:46:38 until 07.09.2025 10:00:21
+		Duration:	03:13:43
+		Location:	47.32863 12.40944
+
+(4) - 15.7 km Pass Thurn
+	EP1
+		Images:	1678
+		Time:	07.09.2025 07:01:39 until 07.09.2025 07:33:54
+		Duration:	00:32:15
+		Location:	47.32949 12.40941
+
+	EP1LS1
+		Images:	361
+		Time:	07.09.2025 07:01:44 until 07.09.2025 07:24:04
+		Duration:	00:22:20
+		Location:	47.32949 12.40941
+
+(5) - 104.9 km Ziller
+	DRU1
+		Images:	2042
+		Time:	07.09.2025 07:42:08 until 07.09.2025 11:30:45
+		Duration:	03:48:37
+		Location:	47.37152 11.85792
+
+(6) - 109.7 km
+	NAG1
+		Images:	7863
+		Time:	07.09.2025 08:06:50 until 07.09.2025 11:58:28
+		Duration:	03:51:38
+		Location:	47.37381 11.87408
+
+(7) - 110.3 km Bruckerberg
+	EH1
+		Images:	5441
+		Time:	07.09.2025 08:33:31 until 07.09.2025 12:10:04
+		Duration:	03:36:33
+		Location:	47.37696 11.87498
+
+(8) - 110.3 km
+	EH1LS1
+		Images:	2790
+		Time:	07.09.2025 08:42:02 until 07.09.2025 11:51:30
+		Duration:	03:09:28
+		Location:	47.37696 11.87498
+
+	EH1LS2
+		Images:	4703
+		Time:	07.09.2025 08:46:08 until 07.09.2025 11:52:59
+		Duration:	03:06:51
+		Location:	47.37696 11.87498
+
+(9) - 141.2 km
+	KYR2
+		Images:	19881
+		Time:	07.09.2025 06:46:38 until 07.09.2025 14:17:24
+		Duration:	07:30:46
+		Location:	47.48590 11.89378
+
+(10) - 136.0 km
+	ANI2
+		Images:	2216
+		Time:	07.09.2025 07:00:19 until 07.09.2025 13:50:46
+		Duration:	06:50:27
+		Location:	47.50389 11.90637
+
+(11) - 144.5 km
+	EP2
+		Images:	3060
+		Time:	07.09.2025 10:39:21 until 07.09.2025 14:23:46
+		Duration:	03:44:25
+		Location:	47.46874 11.87373
+
+	EP2LS1
+		Images:	1229
+		Time:	07.09.2025 09:57:37 until 07.09.2025 13:57:19
+		Duration:	03:59:42
+		Location:	47.46874 11.87373
+
+(12) - 158.9 km
+	ASTU1
+		Images:	3945
+		Time:	07.09.2025 10:47:10 until 07.09.2025 15:06:29
+		Duration:	04:19:19
+		Location:	47.48764 12.00075
+
+(13) - Finish
+	KPR1
+		Images:	4792
+		Time:	06.09.2025 23:43:04 until 07.09.2025 16:59:51
+		Duration:	17:16:47
+		Location:	47.46874 11.87373
+
+	CK2
+		Images:	7595
+		Time:	07.09.2025 06:36:58 until 07.09.2025 18:32:40
+		Duration:	11:55:42
+		Location:	47.46721 12.42935
+
+	CK2LS2
+		Images:	5152
+		Time:	07.09.2025 12:34:53 until 07.09.2025 17:24:31
+		Duration:	04:49:38
+		Location:	47.46721 12.42935
+
+	CK2LS1
+		Images:	3137
+		Time:	07.09.2025 12:33:55 until 07.09.2025 17:24:49
+		Duration:	04:50:54
+		Location:	47.46721 12.42935
+
+(14) - Impressions / Pano
+	PANO1
+		Images:	1
+		Time:	07.09.2025 07:00:31 until 07.09.2025 07:00:31
+		Duration:	00:00:00
+		Location:	NULL NULL
+

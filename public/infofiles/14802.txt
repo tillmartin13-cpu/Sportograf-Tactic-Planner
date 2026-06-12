@@ -1,0 +1,363 @@
+EventId: 14802
+Spots: 58
+Total Images: 201006
+Time:	01.01.0001 23:00:00 to 02.02.2025 20:58:54
+Duration: 739282.21:58:54
+
+(1) - SLED PUSH
+	DDAV2
+		Images:	1569
+		Time:	02.02.2025 14:05:34 until 02.02.2025 19:53:11
+		Duration:	05:47:37
+		Location:	NULL NULL
+
+	DARR2
+		Images:	1520
+		Time:	02.02.2025 15:40:33 until 02.02.2025 20:58:54
+		Duration:	05:18:21
+		Location:	NULL NULL
+
+	GCO1
+		Images:	4102
+		Time:	02.02.2025 05:31:44 until 02.02.2025 13:30:45
+		Duration:	07:59:01
+		Location:	NULL NULL
+
+	IGM2
+		Images:	511
+		Time:	02.02.2025 10:34:35 until 02.02.2025 14:27:46
+		Duration:	03:53:11
+		Location:	NULL NULL
+
+	JUBA1
+		Images:	1115
+		Time:	02.02.2025 10:33:48 until 02.02.2025 11:00:06
+		Duration:	00:26:18
+		Location:	NULL NULL
+
+	MALO2
+		Images:	593
+		Time:	02.02.2025 10:16:41 until 02.02.2025 11:00:53
+		Duration:	00:44:12
+		Location:	NULL NULL
+
+	RYS2
+		Images:	5899
+		Time:	02.02.2025 13:32:53 until 02.02.2025 19:00:58
+		Duration:	05:28:05
+		Location:	NULL NULL
+
+	TOSC2
+		Images:	3468
+		Time:	02.02.2025 14:00:17 until 02.02.2025 19:10:07
+		Duration:	05:09:50
+		Location:	NULL NULL
+
+	TPA1
+		Images:	1611
+		Time:	02.02.2025 07:08:29 until 02.02.2025 13:12:37
+		Duration:	06:04:08
+		Location:	NULL NULL
+
+	TPA3
+		Images:	1689
+		Time:	02.02.2025 07:08:29 until 02.02.2025 20:34:17
+		Duration:	13:25:48
+		Location:	NULL NULL
+
+	VIAL1
+		Images:	3602
+		Time:	01.02.2025 17:05:58 until 02.02.2025 13:11:16
+		Duration:	20:05:18
+		Location:	NULL NULL
+
+(2) - SKYERG
+	BRON1
+		Images:	8371
+		Time:	02.02.2025 07:04:14 until 02.02.2025 13:01:30
+		Duration:	05:57:16
+		Location:	NULL NULL
+
+	COR1
+		Images:	8627
+		Time:	01.02.2025 06:48:14 until 02.02.2025 12:59:28
+		Duration:	1.06:11:14
+		Location:	NULL NULL
+
+	NIF2
+		Images:	5116
+		Time:	02.02.2025 13:25:27 until 02.02.2025 18:53:13
+		Duration:	05:27:46
+		Location:	NULL NULL
+
+	RNA1
+		Images:	9569
+		Time:	02.02.2025 06:36:19 until 02.02.2025 13:01:03
+		Duration:	06:24:44
+		Location:	NULL NULL
+
+(3) - ROWING
+	BRON2
+		Images:	5848
+		Time:	02.02.2025 13:19:11 until 02.02.2025 19:51:00
+		Duration:	06:31:49
+		Location:	NULL NULL
+
+	IGM4
+		Images:	762
+		Time:	02.02.2025 14:32:30 until 02.02.2025 15:12:19
+		Duration:	00:39:49
+		Location:	NULL NULL
+
+	JUBA3
+		Images:	1090
+		Time:	02.02.2025 11:54:44 until 02.02.2025 12:20:59
+		Duration:	00:26:15
+		Location:	NULL NULL
+
+	MALO4
+		Images:	3667
+		Time:	02.02.2025 11:52:33 until 02.02.2025 16:14:00
+		Duration:	04:21:27
+		Location:	NULL NULL
+
+	MASU1
+		Images:	6148
+		Time:	02.02.2025 07:31:44 until 02.02.2025 13:16:49
+		Duration:	05:45:05
+		Location:	NULL NULL
+
+	RISO2
+		Images:	3748
+		Time:	02.02.2025 13:29:24 until 02.02.2025 19:38:24
+		Duration:	06:09:00
+		Location:	NULL NULL
+
+	NIF1
+		Images:	6873
+		Time:	02.02.2025 06:54:54 until 02.02.2025 13:12:18
+		Duration:	06:17:24
+		Location:	NULL NULL
+
+(4) - WALL BALL
+	COR2
+		Images:	5651
+		Time:	02.02.2025 13:27:55 until 02.02.2025 19:40:47
+		Duration:	06:12:52
+		Location:	NULL NULL
+
+	DDAV1
+		Images:	7069
+		Time:	02.02.2025 06:40:53 until 02.02.2025 12:59:04
+		Duration:	06:18:11
+		Location:	NULL NULL
+
+	IGM5
+		Images:	668
+		Time:	02.02.2025 11:09:43 until 02.02.2025 13:26:59
+		Duration:	02:17:16
+		Location:	NULL NULL
+
+	JUBA4
+		Images:	932
+		Time:	02.02.2025 12:28:46 until 02.02.2025 12:47:41
+		Duration:	00:18:55
+		Location:	NULL NULL
+
+	OBL1
+		Images:	7655
+		Time:	02.02.2025 06:59:51 until 02.02.2025 13:14:11
+		Duration:	06:14:20
+		Location:	NULL NULL
+
+	VIAL2
+		Images:	3283
+		Time:	01.02.2025 17:05:58 until 02.02.2025 18:52:55
+		Duration:	1.01:46:57
+		Location:	NULL NULL
+
+	VIAL3
+		Images:	957
+		Time:	02.02.2025 19:09:53 until 02.02.2025 20:32:15
+		Duration:	01:22:22
+		Location:	NULL NULL
+
+	MBRO2
+		Images:	2881
+		Time:	02.02.2025 13:32:46 until 02.02.2025 20:04:48
+		Duration:	06:32:02
+		Location:	NULL NULL
+
+(5) - SLED PULL
+	DARR1
+		Images:	6874
+		Time:	02.02.2025 07:06:48 until 02.02.2025 19:12:05
+		Duration:	12:05:17
+		Location:	NULL NULL
+
+	GBBR2
+		Images:	2299
+		Time:	02.02.2025 13:20:22 until 02.02.2025 19:35:26
+		Duration:	06:15:04
+		Location:	NULL NULL
+
+	IGM3
+		Images:	305
+		Time:	02.02.2025 11:09:43 until 02.02.2025 11:42:57
+		Duration:	00:33:14
+		Location:	NULL NULL
+
+	GCO2
+		Images:	4471
+		Time:	02.02.2025 05:32:13 until 02.02.2025 19:17:48
+		Duration:	13:45:35
+		Location:	NULL NULL
+
+	JUBA2
+		Images:	1103
+		Time:	02.02.2025 11:10:47 until 02.02.2025 11:41:07
+		Duration:	00:30:20
+		Location:	NULL NULL
+
+	MALO3
+		Images:	421
+		Time:	02.02.2025 11:10:25 until 02.02.2025 11:52:10
+		Duration:	00:41:45
+		Location:	NULL NULL
+
+	MBRO1
+		Images:	4481
+		Time:	02.02.2025 07:09:34 until 02.02.2025 13:22:14
+		Duration:	06:12:40
+		Location:	NULL NULL
+
+(6) - Finish
+	DARR1LS1
+		Images:	2742
+		Time:	02.02.2025 06:47:13 until 02.02.2025 19:26:20
+		Duration:	12:39:07
+		Location:	NULL NULL
+
+	DDAV3
+		Images:	6869
+		Time:	02.02.2025 13:14:58 until 02.02.2025 19:02:08
+		Duration:	05:47:10
+		Location:	NULL NULL
+
+	GBBR3
+		Images:	475
+		Time:	02.02.2025 19:52:00 until 02.02.2025 20:34:18
+		Duration:	00:42:18
+		Location:	NULL NULL
+
+	OBL2
+		Images:	7649
+		Time:	02.02.2025 13:19:46 until 02.02.2025 20:34:33
+		Duration:	07:14:47
+		Location:	NULL NULL
+
+	RYS1
+		Images:	3489
+		Time:	02.02.2025 06:19:49 until 02.02.2025 12:55:39
+		Duration:	06:35:50
+		Location:	NULL NULL
+
+	TOSC1
+		Images:	670
+		Time:	02.02.2025 07:22:21 until 02.02.2025 13:22:50
+		Duration:	06:00:29
+		Location:	NULL NULL
+
+	TPA2
+		Images:	1499
+		Time:	02.02.2025 13:24:49 until 02.02.2025 20:07:30
+		Duration:	06:42:41
+		Location:	NULL NULL
+
+(7) - Herotent HERO WALL 2
+	GBBR1
+		Images:	1298
+		Time:	02.02.2025 08:10:36 until 02.02.2025 13:08:15
+		Duration:	04:57:39
+		Location:	NULL NULL
+
+(8) - RUNNING
+	IGM1
+		Images:	2835
+		Time:	02.02.2025 09:14:27 until 02.02.2025 19:20:01
+		Duration:	10:05:34
+		Location:	NULL NULL
+
+	MALO1
+		Images:	1684
+		Time:	02.02.2025 07:58:39 until 02.02.2025 09:11:06
+		Duration:	01:12:27
+		Location:	NULL NULL
+
+	TPA1LS1
+		Images:	9655
+		Time:	01.02.2025 07:40:49 until 02.02.2025 19:16:14
+		Duration:	1.11:35:25
+		Location:	NULL NULL
+
+	TPA3LS1
+		Images:	3292
+		Time:	01.01.0001 23:00:00 until 02.02.2025 17:27:12
+		Duration:	739282.18:27:12
+		Location:	NULL NULL
+
+(9) - FARMERS CARR
+	IGM1LS1
+		Images:	4067
+		Time:	02.02.2025 07:33:36 until 02.02.2025 19:55:45
+		Duration:	12:22:09
+		Location:	NULL NULL
+
+(10) - Impressions / Pano
+	KOH1
+		Images:	147
+		Time:	02.02.2025 06:57:11 until 02.02.2025 07:42:42
+		Duration:	00:45:31
+		Location:	NULL NULL
+
+	PANO1
+(11) - Herotent HERO 1
+	KOH2
+		Images:	7356
+		Time:	02.02.2025 06:32:49 until 02.02.2025 20:34:36
+		Duration:	14:01:47
+		Location:	NULL NULL
+
+(12) - LUNGES
+	MALO5
+		Images:	934
+		Time:	02.02.2025 17:39:34 until 02.02.2025 18:57:36
+		Duration:	01:18:02
+		Location:	NULL NULL
+
+	MASU2
+		Images:	6408
+		Time:	02.02.2025 13:24:42 until 02.02.2025 20:14:17
+		Duration:	06:49:35
+		Location:	NULL NULL
+
+	RISO1
+		Images:	2860
+		Time:	02.02.2025 06:43:49 until 02.02.2025 13:17:15
+		Duration:	06:33:26
+		Location:	NULL NULL
+
+(13) - FINISH LINE
+	MALO6
+		Images:	724
+		Time:	02.02.2025 19:06:52 until 02.02.2025 20:04:15
+		Duration:	00:57:23
+		Location:	NULL NULL
+
+(14) - Herotent HERO 2
+	RNA2
+		Images:	1319
+		Time:	02.02.2025 13:12:05 until 02.02.2025 20:10:37
+		Duration:	06:58:32
+		Location:	NULL NULL
+

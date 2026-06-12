@@ -1,0 +1,71 @@
+EventId: 15640
+Spots: 16
+Total Images: 516
+Time:	21.02.2025 07:47:27 to 23.02.2025 19:06:10
+Duration: 2.11:18:43
+
+(1) - 18,1 km before Finish (Spjutmo)
+	SBRO1
+		Images:	293
+		Time:	21.02.2025 08:56:17 until 23.02.2025 09:58:38
+		Duration:	2.01:02:21
+		Location:	61.07426 14.32425
+
+(2) - 16,1 km before Finish (Hökberget)
+	COR1LS1
+		Images:	1
+		Time:	23.02.2025 08:42:45 until 23.02.2025 08:42:45
+		Duration:	00:00:00
+		Location:	61.06348 14.35333
+
+	COR1
+		Images:	179
+		Time:	23.02.2025 08:33:05 until 23.02.2025 10:19:44
+		Duration:	01:46:39
+		Location:	61.06348 14.35333
+
+(3) - 4,7 km before Finish (Hemus)
+	IVAH1LS1
+	IVAH1
+(4) - 3,8 km before Finish (Hemus)
+	RKO1
+(5) - 2,7 km before Finish (Hemus)
+	DADA1
+(6) - 1,7 km before Finish (Mora)
+	JLA1
+		Images:	6
+		Time:	21.02.2025 07:47:27 until 22.02.2025 08:36:08
+		Duration:	1.00:48:41
+		Location:	61.06151 14.34749
+
+	JLA1LS1
+(7) - 1,2 km before Finish (Mora)
+	MAV1
+		Images:	2
+		Time:	22.02.2025 08:12:12 until 22.02.2025 08:20:50
+		Duration:	00:08:38
+		Location:	61.06122 14.34923
+
+(8) - Finish
+	ALN1LS1
+	MW1LS1
+		Images:	1
+		Time:	23.02.2025 09:14:46 until 23.02.2025 09:14:46
+		Duration:	00:00:00
+		Location:	61.00699 14.54266
+
+	MW1
+	ALN1
+		Images:	1
+		Time:	21.02.2025 11:28:48 until 21.02.2025 11:28:48
+		Duration:	00:00:00
+		Location:	61.01813 14.40941
+
+	MAE2
+		Images:	1
+		Time:	23.02.2025 19:06:10 until 23.02.2025 19:06:10
+		Duration:	00:00:00
+		Location:	61.00699 14.54266
+
+(9) - Impressions / Pano
+	PANO1

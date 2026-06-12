@@ -1,0 +1,105 @@
+EventId: 14219
+Spots: 17
+Total Images: 33367
+Time:	06.06.2025 23:00:29 to 07.06.2025 19:49:56
+Duration: 20:49:27
+
+(1) - Swim - Start
+	ALN1
+		Images:	3264
+		Time:	07.06.2025 08:58:57 until 07.06.2025 15:12:42
+		Duration:	06:13:45
+		Location:	50.44721 4.86311
+
+	ALN1DRONE1
+		Images:	16
+		Time:	07.06.2025 09:38:57 until 07.06.2025 18:17:09
+		Duration:	08:38:12
+		Location:	50.44721 4.86311
+
+	ALN1LS2
+		Images:	708
+		Time:	07.06.2025 08:50:38 until 07.06.2025 15:12:22
+		Duration:	06:21:44
+		Location:	50.44721 4.86311
+
+	ALN1LS1
+		Images:	778
+		Time:	07.06.2025 08:50:42 until 07.06.2025 15:11:34
+		Duration:	06:20:52
+		Location:	50.44721 4.86311
+
+(2) - Finish
+	ALN2
+		Images:	5229
+		Time:	07.06.2025 10:55:03 until 07.06.2025 19:49:56
+		Duration:	08:54:53
+		Location:	50.45733 4.85745
+
+	ALN2LS2
+		Images:	837
+		Time:	07.06.2025 10:47:38 until 07.06.2025 19:47:24
+		Duration:	08:59:46
+		Location:	50.45733 4.85745
+
+	ALN2LS1
+		Images:	832
+		Time:	07.06.2025 10:52:40 until 07.06.2025 19:40:23
+		Duration:	08:47:43
+		Location:	50.45733 4.85745
+
+	DRI2
+		Images:	128
+		Time:	07.06.2025 10:34:08 until 07.06.2025 10:37:03
+		Duration:	00:02:55
+		Location:	50.45733 4.85745
+
+(3) - Bike - 15,7 km
+	BAR1
+		Images:	5121
+		Time:	06.06.2025 23:00:29 until 07.06.2025 18:30:10
+		Duration:	19:29:41
+		Location:	50.44278 4.84759
+
+(4) - Bike - 0,5 km Barrage de la Plante
+	DRI1
+		Images:	2473
+		Time:	07.06.2025 08:53:02 until 07.06.2025 15:03:33
+		Duration:	06:10:31
+		Location:	50.44721 4.86311
+
+(5) - Bike - 0,5 km before finish
+	DRI3
+		Images:	4591
+		Time:	07.06.2025 15:42:48 until 07.06.2025 19:18:49
+		Duration:	03:36:01
+		Location:	50.45623 4.85773
+
+	DRI2LS2
+		Images:	2735
+		Time:	07.06.2025 11:28:12 until 07.06.2025 17:13:33
+		Duration:	05:45:21
+		Location:	50.45623 4.85773
+
+	DRI2LS1
+		Images:	3826
+		Time:	07.06.2025 11:09:14 until 07.06.2025 16:33:13
+		Duration:	05:23:59
+		Location:	50.45623 4.85773
+
+	KJ2
+		Images:	144
+		Time:	07.06.2025 15:20:41 until 07.06.2025 15:42:10
+		Duration:	00:21:29
+		Location:	50.45623 4.85773
+
+(6) - Run - 4,0 km
+	DRI4
+	KJ1
+		Images:	2685
+		Time:	07.06.2025 09:31:17 until 07.06.2025 19:33:41
+		Duration:	10:02:24
+		Location:	50.45964 4.85928
+
+(7) - Swim - Impressions / Pano
+	PANO1

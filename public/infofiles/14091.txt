@@ -1,0 +1,190 @@
+EventId: 14091
+Spots: 29
+Total Images: 32792
+Time:	30.05.2024 18:22:41 to 01.06.2026 03:22:00
+Duration: 731.08:59:19
+
+(1) - Start
+	AGP1
+		Images:	176
+		Time:	30.05.2025 10:19:34 until 30.05.2025 13:59:12
+		Duration:	03:39:38
+		Location:	67.99111 13.01075
+
+(2) - 0.5 km Kirkefjorden
+	JOM1
+		Images:	491
+		Time:	30.05.2025 10:22:53 until 30.05.2025 13:44:56
+		Duration:	03:22:03
+		Location:	67.99512 13.01135
+
+	JOM1LS1
+		Images:	142
+		Time:	30.05.2025 12:44:13 until 30.05.2025 13:44:56
+		Duration:	01:00:43
+		Location:	67.99512 13.01135
+
+(3) - 16.5 km Kvalvika Beach
+	AGU1
+		Images:	974
+		Time:	30.05.2025 10:50:29 until 30.05.2025 19:15:50
+		Duration:	08:25:21
+		Location:	68.07646 13.09692
+
+	AGU1LS2
+		Images:	158
+		Time:	30.05.2025 12:58:06 until 30.05.2025 17:39:05
+		Duration:	04:40:59
+		Location:	68.07646 13.09692
+
+	AGU1LS1
+		Images:	165
+		Time:	30.05.2025 12:44:28 until 30.05.2025 17:38:32
+		Duration:	04:54:04
+		Location:	68.07646 13.09692
+
+	MW1
+		Images:	649
+		Time:	30.05.2025 15:22:15 until 30.05.2025 17:43:50
+		Duration:	02:21:35
+		Location:	68.08242 13.10539
+
+	MW1LS2
+		Images:	312
+		Time:	29.05.2025 21:21:58 until 30.05.2025 17:52:22
+		Duration:	20:30:24
+		Location:	68.08242 13.10539
+
+	MW1LS1
+		Images:	390
+		Time:	30.05.2025 13:06:06 until 30.05.2025 17:45:50
+		Duration:	04:39:44
+		Location:	68.08242 13.10539
+
+(4) - 37.3 km Nusfjord
+	JOM2
+		Images:	1007
+		Time:	30.05.2025 17:22:36 until 30.05.2025 20:51:55
+		Duration:	03:29:19
+		Location:	68.02880 13.34193
+
+	JOM2LS1
+		Images:	132
+		Time:	30.05.2025 17:22:48 until 30.05.2025 20:52:03
+		Duration:	03:29:15
+		Location:	68.02880 13.34193
+
+(5) - 38.3 km Nusfjord
+	AGP2
+		Images:	764
+		Time:	30.05.2024 18:22:41 until 30.05.2026 23:07:21
+		Duration:	730.04:44:40
+		Location:	68.03410 13.34857
+
+(6) - 54.3 km Napp
+	MW2
+		Images:	941
+		Time:	30.05.2025 21:15:15 until 31.05.2025 01:53:41
+		Duration:	04:38:26
+		Location:	68.12447 13.44116
+
+	MW2LS1
+		Images:	141
+		Time:	30.05.2025 20:46:37 until 31.05.2025 02:02:18
+		Duration:	05:15:41
+		Location:	68.12447 13.44116
+
+(7) - 61.2 km Offersoykammen
+	AGU2
+		Images:	1449
+		Time:	30.05.2025 21:02:26 until 31.05.2025 02:37:26
+		Duration:	05:35:00
+		Location:	68.15090 13.47602
+
+	AGU2LS2
+		Images:	2399
+		Time:	30.05.2025 20:49:03 until 31.05.2025 02:07:32
+		Duration:	05:18:29
+		Location:	68.15090 13.47602
+
+	AGU2LS1
+		Images:	2425
+		Time:	30.05.2025 20:48:32 until 31.05.2025 02:07:01
+		Duration:	05:18:29
+		Location:	68.15090 13.47602
+
+(8) - 123.5 km Dalstuva
+	AGU3
+		Images:	3357
+		Time:	31.05.2025 11:20:57 until 31.05.2025 20:39:57
+		Duration:	09:19:00
+		Location:	68.22037 13.99522
+
+(9) - 148.0 km Jordtind
+	MW3
+		Images:	1395
+		Time:	31.05.2025 12:30:20 until 31.05.2025 22:28:59
+		Duration:	09:58:39
+		Location:	68.24419 14.36578
+
+	MW3LS1
+		Images:	1309
+		Time:	31.05.2025 13:48:39 until 31.05.2025 22:02:32
+		Duration:	08:13:53
+		Location:	68.24419 14.36578
+
+(10) - 156.2 km Tjeldbergtind
+	AGP3
+		Images:	4844
+		Time:	31.05.2024 15:17:31 until 01.06.2026 03:22:00
+		Duration:	730.12:04:29
+		Location:	68.22974 14.49901
+
+(11) - 17.0 km Brustranda/50Miles
+	ROH1
+		Images:	996
+		Time:	31.05.2025 10:31:31 until 31.05.2025 11:06:44
+		Duration:	00:35:13
+		Location:	68.20927 13.84811
+
+(12) - 31.5 km Borge/50Miles
+	ROH4
+		Images:	1456
+		Time:	31.05.2025 16:23:32 until 31.05.2025 20:10:29
+		Duration:	03:46:57
+		Location:	68.23750 13.76641
+
+	ROH3
+		Images:	698
+		Time:	31.05.2025 14:11:32 until 31.05.2025 18:08:23
+		Duration:	03:56:51
+		Location:	68.23750 13.76641
+
+(13) - 37.3 km Torvdalshalsen/50Miles
+	ROH2
+		Images:	2019
+		Time:	31.05.2025 12:17:25 until 31.05.2025 16:20:27
+		Duration:	04:03:02
+		Location:	68.26023 13.83008
+
+(14) - Finish
+	JOM3
+		Images:	3050
+		Time:	31.05.2025 06:39:04 until 01.06.2025 03:08:29
+		Duration:	20:29:25
+		Location:	68.23208 14.56532
+
+	JOM3LS1
+		Images:	831
+		Time:	31.05.2025 06:38:47 until 01.06.2025 03:08:28
+		Duration:	20:29:41
+		Location:	68.23208 14.56532
+
+	ROH5
+		Images:	122
+		Time:	31.05.2025 20:13:33 until 31.05.2025 20:57:49
+		Duration:	00:44:16
+		Location:	68.23208 14.56532
+
+(15) - Impressions / Pano
+	PANO1

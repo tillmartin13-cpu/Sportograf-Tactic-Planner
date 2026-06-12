@@ -1,0 +1,65 @@
+EventId: 16274
+Spots: 9
+Total Images: 50322
+Time:	19.07.2025 06:35:25 to 19.07.2025 21:03:21
+Duration: 14:27:56
+
+(1) - Start
+	DANO1
+		Images:	9256
+		Time:	19.07.2025 06:35:25 until 19.07.2025 09:44:44
+		Duration:	03:09:19
+		Location:	53.21253 -1.66867
+
+	BME3
+		Images:	268
+		Time:	19.07.2025 09:11:45 until 19.07.2025 12:39:52
+		Duration:	03:28:07
+		Location:	53.21253 -1.66867
+
+	BKO3
+		Images:	1475
+		Time:	19.07.2025 06:36:27 until 19.07.2025 09:47:03
+		Duration:	03:10:36
+		Location:	53.21253 -1.66867
+
+(2) - River Bradford Valley - 6.5Km
+	CUP1
+		Images:	9100
+		Time:	19.07.2025 07:48:08 until 19.07.2025 11:30:49
+		Duration:	03:42:41
+		Location:	53.17064 -1.70488
+
+(3) - Half Marathon Finish
+	BME1
+		Images:	3748
+		Time:	19.07.2025 12:42:08 until 19.07.2025 16:28:34
+		Duration:	03:46:26
+		Location:	53.20734 -1.79805
+
+(4) - Monsal Dale Viaduct - 36.2Km
+	BKO1
+		Images:	9497
+		Time:	19.07.2025 12:37:33 until 19.07.2025 19:45:53
+		Duration:	07:08:20
+		Location:	53.24066 -1.72996
+
+(5) - Full Marathon Finish
+	DANO2
+		Images:	11131
+		Time:	19.07.2025 13:32:02 until 19.07.2025 21:03:21
+		Duration:	07:31:19
+		Location:	53.21253 -1.66867
+
+	CUP2
+		Images:	3952
+		Time:	19.07.2025 13:32:01 until 19.07.2025 17:54:26
+		Duration:	04:22:25
+		Location:	53.21253 -1.66867
+
+	BME2
+		Images:	1895
+		Time:	19.07.2025 17:21:30 until 19.07.2025 20:04:25
+		Duration:	02:42:55
+		Location:	53.21253 -1.66867
+

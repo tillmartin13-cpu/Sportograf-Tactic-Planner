@@ -1,0 +1,103 @@
+EventId: 14719
+Spots: 16
+Total Images: 22740
+Time:	06.06.2025 15:40:18 to 06.06.2025 22:10:52
+Duration: 06:30:34
+
+(1) - Tuddarps Recycling
+	THS1
+		Images:	2468
+		Time:	06.06.2025 17:21:29 until 06.06.2025 20:33:23
+		Duration:	03:11:54
+		Location:	58.51411 15.05000
+
+	THS1LS1
+		Images:	1186
+		Time:	06.06.2025 17:05:39 until 06.06.2025 19:29:29
+		Duration:	02:23:50
+		Location:	58.51411 15.05000
+
+	THS1LS2
+		Images:	1201
+		Time:	06.06.2025 16:54:22 until 06.06.2025 19:29:29
+		Duration:	02:35:07
+		Location:	58.51411 15.05000
+
+(2) - The Dross Bridge
+	RJ1
+		Images:	3131
+		Time:	06.06.2025 17:50:05 until 06.06.2025 20:42:36
+		Duration:	02:52:31
+		Location:	58.51411 15.05000
+
+	RJ1LS1
+		Images:	1016
+		Time:	06.06.2025 17:16:46 until 06.06.2025 20:47:19
+		Duration:	03:30:33
+		Location:	58.51411 15.05000
+
+	RJ1LS2
+		Images:	1217
+		Time:	06.06.2025 17:07:38 until 06.06.2025 20:44:57
+		Duration:	03:37:19
+		Location:	58.51411 15.05000
+
+	RJ1DRONE1
+		Images:	15
+		Time:	06.06.2025 18:35:41 until 06.06.2025 20:20:52
+		Duration:	01:45:11
+		Location:	58.51411 15.05000
+
+(3) - Canyon Power Climb
+	LEM1
+		Images:	2156
+		Time:	06.06.2025 18:14:39 until 06.06.2025 21:31:33
+		Duration:	03:16:54
+		Location:	58.56661 15.02299
+
+	LEM1LS1
+		Images:	2183
+		Time:	06.06.2025 17:53:29 until 06.06.2025 21:16:20
+		Duration:	03:22:51
+		Location:	58.56661 15.02299
+
+	LEM1LS2
+		Images:	1698
+		Time:	06.06.2025 15:40:18 until 06.06.2025 20:59:21
+		Duration:	05:19:03
+		Location:	58.56661 15.02299
+
+(4) - Sunset View
+	RW1
+		Images:	522
+		Time:	06.06.2025 17:07:34 until 06.06.2025 22:00:53
+		Duration:	04:53:19
+		Location:	58.52762 14.97636
+
+	RW1LS1
+		Images:	1160
+		Time:	06.06.2025 16:20:21 until 06.06.2025 22:00:52
+		Duration:	05:40:31
+		Location:	58.52762 14.97636
+
+	RW1LS2
+		Images:	1180
+		Time:	06.06.2025 16:44:20 until 06.06.2025 22:01:13
+		Duration:	05:16:53
+		Location:	58.52762 14.97636
+
+(5) - 1 km before finish
+	EHL1
+		Images:	2296
+		Time:	06.06.2025 17:50:17 until 06.06.2025 22:10:52
+		Duration:	04:20:35
+		Location:	58.53176 15.02037
+
+	EHL1LS1
+		Images:	1311
+		Time:	06.06.2025 17:33:50 until 06.06.2025 21:46:29
+		Duration:	04:12:39
+		Location:	58.53176 15.02037
+
+(6) - Impressions / Pano
+	PANO1

@@ -1,0 +1,118 @@
+EventId: 14212
+Spots: 17
+Total Images: 15828
+Time:	01.01.0001 23:00:00 to 25.08.2025 00:40:18
+Duration: 739486.01:40:18
+
+(1) - Bike - 8.1 km
+	JNA1
+		Images:	3128
+		Time:	24.08.2025 22:00:05 until 25.08.2025 00:40:18
+		Duration:	02:40:13
+		Location:	48.16229 7.79671
+
+(2) - Bike - Impressions / Pano
+	JNA1DRONE1
+		Images:	36
+		Time:	24.08.2025 09:50:53 until 24.08.2025 09:55:49
+		Duration:	00:04:56
+		Location:	48.16229 7.79671
+
+(3) - Run - 9.6 km
+	JNA2
+		Images:	1089
+		Time:	24.08.2025 13:54:37 until 24.08.2025 16:44:16
+		Duration:	02:49:39
+		Location:	48.15433 7.78426
+
+(4) - Run - 3.8 km
+	JOMA2
+		Images:	1409
+		Time:	24.08.2025 12:03:38 until 24.08.2025 15:45:11
+		Duration:	03:41:33
+		Location:	48.14900 7.78511
+
+	JOMA2LS2
+		Images:	1400
+		Time:	24.08.2025 12:00:26 until 24.08.2025 15:28:24
+		Duration:	03:27:58
+		Location:	48.14900 7.78511
+
+	JOMA2LS1
+		Images:	1394
+		Time:	24.08.2025 12:02:03 until 24.08.2025 15:31:09
+		Duration:	03:29:06
+		Location:	48.14900 7.78511
+
+(5) - Bike - 6.1 km
+	JOMA1
+		Images:	503
+		Time:	24.08.2025 10:32:25 until 24.08.2025 11:32:26
+		Duration:	01:00:01
+		Location:	48.16373 7.77581
+
+	JOMA1LS2
+		Images:	541
+		Time:	24.08.2025 10:18:06 until 24.08.2025 11:36:29
+		Duration:	01:18:23
+		Location:	48.16373 7.77581
+
+	JOMA1LS1
+		Images:	535
+		Time:	24.08.2025 10:05:15 until 24.08.2025 11:35:05
+		Duration:	01:29:50
+		Location:	48.16373 7.77581
+
+(6) - Swim - Start
+	RONS1
+		Images:	1120
+		Time:	24.08.2025 09:30:14 until 24.08.2025 11:15:26
+		Duration:	01:45:12
+		Location:	48.16547 7.74304
+
+	RONS1DRONE1
+		Images:	32
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	48.16547 7.74304
+
+(7) - Finish
+	RONS2
+		Images:	3005
+		Time:	24.08.2025 12:10:23 until 24.08.2025 16:57:37
+		Duration:	04:47:14
+		Location:	48.15490 7.78069
+
+	RONS2LS2
+		Images:	506
+		Time:	24.08.2025 12:01:29 until 24.08.2025 17:00:10
+		Duration:	04:58:41
+		Location:	48.15490 7.78069
+
+	RONS2LS1
+		Images:	469
+		Time:	24.08.2025 12:10:29 until 24.08.2025 16:57:41
+		Duration:	04:47:12
+		Location:	48.15490 7.78069
+
+(8) - Ceremony
+	RONS3
+		Images:	20
+		Time:	24.08.2025 17:43:09 until 24.08.2025 17:55:46
+		Duration:	00:12:37
+		Location:	48.15490 7.78069
+
+(9) - Bike - Transition zone
+	RONS1LS1
+		Images:	636
+		Time:	24.08.2025 09:13:59 until 24.08.2025 11:24:05
+		Duration:	02:10:06
+		Location:	48.16381 7.74348
+
+(10) - Swim - Impressions / Pano
+	PANO1
+		Images:	5
+		Time:	24.08.2025 22:00:05 until 24.08.2025 22:22:37
+		Duration:	00:22:32
+		Location:	NULL NULL
+

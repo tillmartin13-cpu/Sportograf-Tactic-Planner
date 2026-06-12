@@ -1,0 +1,126 @@
+EventId: 13544
+Spots: 18
+Total Images: 19227
+Time:	12.07.2025 00:10:05 to 13.07.2025 01:01:30
+Duration: 1.00:51:25
+
+(1) - Start
+	ELLA1
+		Images:	153
+		Time:	12.07.2025 04:37:11 until 12.07.2025 05:02:54
+		Duration:	00:25:43
+		Location:	46.00959 6.92388
+
+	GAT1
+		Images:	256
+		Time:	12.07.2025 04:38:20 until 12.07.2025 05:03:13
+		Duration:	00:24:53
+		Location:	46.00959 6.92388
+
+	ARF1
+		Images:	85
+		Time:	12.07.2025 04:41:39 until 12.07.2025 05:03:08
+		Duration:	00:21:29
+		Location:	46.00959 6.92388
+
+(2) - 69.0 km from Start
+	ELLA2
+		Images:	857
+		Time:	12.07.2025 07:17:32 until 12.07.2025 09:31:22
+		Duration:	02:13:50
+		Location:	46.00315 6.92336
+
+	ELLA2LS1
+		Images:	1154
+		Time:	12.07.2025 07:09:55 until 12.07.2025 08:56:29
+		Duration:	01:46:34
+		Location:	46.00315 6.92336
+
+(3) - 69.1 km from Start
+	GAT2
+		Images:	1050
+		Time:	12.07.2025 07:10:30 until 12.07.2025 14:37:04
+		Duration:	07:26:34
+		Location:	46.00355 6.92355
+
+(4) - 69.8 km from Start
+	ARF2
+		Images:	1178
+		Time:	12.07.2025 07:06:29 until 12.07.2025 09:19:32
+		Duration:	02:13:03
+		Location:	46.00959 6.92388
+
+(5) - 81.0 km from Start
+	BEB1
+		Images:	2257
+		Time:	12.07.2025 07:31:59 until 12.07.2025 09:51:33
+		Duration:	02:19:34
+		Location:	46.05205 6.99605
+
+(6) - 83.9 km from Start
+	LEBE1
+		Images:	724
+		Time:	12.07.2025 07:42:39 until 12.07.2025 09:43:28
+		Duration:	02:00:49
+		Location:	46.05816 6.99961
+
+	LEBE1LS1
+		Images:	1018
+		Time:	12.07.2025 07:35:36 until 12.07.2025 09:55:57
+		Duration:	02:20:21
+		Location:	46.05816 6.99961
+
+(7) - 91.5 km from End
+	BEB2
+		Images:	1608
+		Time:	12.07.2025 13:25:41 until 12.07.2025 19:03:27
+		Duration:	05:37:46
+		Location:	45.71548 6.94112
+
+(8) - 81.9 km from End
+	LEBE2
+		Images:	1567
+		Time:	12.07.2025 14:22:21 until 12.07.2025 19:51:00
+		Duration:	05:28:39
+		Location:	45.69085 6.89019
+
+	LEBE2LS1
+		Images:	1462
+		Time:	12.07.2025 13:47:36 until 12.07.2025 19:14:17
+		Duration:	05:26:41
+		Location:	45.69085 6.89019
+
+(9) - Impressions / Pano
+	LEBE2DRONE1
+		Images:	41
+		Time:	12.07.2025 08:32:50 until 12.07.2025 16:51:24
+		Duration:	08:18:34
+		Location:	45.69085 6.89019
+
+(10) - 40.3 km from End
+	GAT3
+		Images:	1913
+		Time:	12.07.2025 14:51:17 until 12.07.2025 22:01:37
+		Duration:	07:10:20
+		Location:	45.69516 6.72444
+
+(11) - 32.6 km from End
+	ARF3
+		Images:	1420
+		Time:	12.07.2025 14:18:50 until 12.07.2025 22:17:13
+		Duration:	07:58:23
+		Location:	45.69381 6.65847
+
+(12) - Finish
+	ELLA3
+		Images:	1944
+		Time:	12.07.2025 00:10:05 until 13.07.2025 00:04:52
+		Duration:	23:54:47
+		Location:	46.00959 6.92388
+
+	ELLA3LS1
+		Images:	540
+		Time:	12.07.2025 15:32:45 until 13.07.2025 01:01:30
+		Duration:	09:28:45
+		Location:	46.00959 6.92388
+

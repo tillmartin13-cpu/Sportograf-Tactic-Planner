@@ -1,0 +1,85 @@
+EventId: 13729
+Spots: 12
+Total Images: 28456
+Time:	27.06.2025 20:11:22 to 28.06.2025 18:35:59
+Duration: 22:24:37
+
+(1) - Start
+	EJ1
+		Images:	140
+		Time:	28.06.2025 09:35:35 until 28.06.2025 15:25:37
+		Duration:	05:50:02
+		Location:	47.1607 11.2343
+
+(2) - Finish
+	EJ2
+		Images:	2568
+		Time:	28.06.2025 15:47:18 until 28.06.2025 18:35:59
+		Duration:	02:48:41
+		Location:	47.1610 11.2343
+
+	UEC2LS1
+		Images:	636
+		Time:	28.06.2025 16:46:25 until 28.06.2025 18:33:04
+		Duration:	01:46:39
+		Location:	47.1610 11.2343
+
+	UEC2LS2
+		Images:	510
+		Time:	28.06.2025 16:44:57 until 28.06.2025 18:33:00
+		Duration:	01:48:03
+		Location:	47.1610 11.2343
+
+(3) - Wand 4 Panier
+	FPB1
+		Images:	8324
+		Time:	28.06.2025 14:33:51 until 28.06.2025 18:23:55
+		Duration:	03:50:04
+		Location:	47.1613 11.2343
+
+(4) - Rutschpartie
+	JGU1
+		Images:	3689
+		Time:	28.06.2025 08:45:59 until 28.06.2025 17:38:09
+		Duration:	08:52:10
+		Location:	47.1456 11.2358
+
+(5) - Monkeyland
+	SE1
+		Images:	1071
+		Time:	28.06.2025 14:21:06 until 28.06.2025 18:27:29
+		Duration:	04:06:23
+		Location:	47.1610 11.2342
+
+(6) - Hupf in den Gatsch
+	UEC1
+		Images:	2560
+		Time:	27.06.2025 20:13:37 until 28.06.2025 16:38:43
+		Duration:	20:25:06
+		Location:	47.1611 11.2343
+
+	UEC1LS1
+		Images:	1985
+		Time:	27.06.2025 20:11:22 until 28.06.2025 16:35:14
+		Duration:	20:23:52
+		Location:	47.1611 11.2343
+
+	UEC1LS2
+		Images:	1869
+		Time:	27.06.2025 20:20:55 until 28.06.2025 16:38:50
+		Duration:	20:17:55
+		Location:	47.1611 11.2343
+
+(7) - Bagjump
+	COK1LS1
+		Images:	1210
+		Time:	28.06.2025 14:54:55 until 28.06.2025 17:00:11
+		Duration:	02:05:16
+		Location:	47.1607 11.2345
+
+	CO1
+		Images:	3894
+		Time:	28.06.2025 15:15:13 until 28.06.2025 18:30:34
+		Duration:	03:15:21
+		Location:	47.1607 11.2345
+

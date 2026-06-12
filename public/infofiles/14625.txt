@@ -1,0 +1,133 @@
+EventId: 14625
+Spots: 19
+Total Images: 132048
+Time:	17.05.2025 07:41:09 to 17.05.2025 18:17:08
+Duration: 10:35:59
+
+(1) - Start
+	DANO1
+		Images:	4426
+		Time:	17.05.2025 09:12:00 until 17.05.2025 15:19:22
+		Duration:	06:07:22
+		Location:	51.56788 -0.88839
+
+	GWH2
+		Images:	50
+		Time:	17.05.2025 09:30:17 until 17.05.2025 09:45:23
+		Duration:	00:15:06
+		Location:	51.56788 -0.88839
+
+	THB2
+		Images:	58
+		Time:	17.05.2025 08:18:50 until 17.05.2025 08:29:49
+		Duration:	00:10:59
+		Location:	51.56788 -0.88839
+
+(2) - Impressions / Pano
+	DANO1DRONE1
+		Images:	40
+		Time:	17.05.2025 08:08:31 until 17.05.2025 13:26:12
+		Duration:	05:17:41
+		Location:	51.56788 -0.88839
+
+(3) - Obstacle 1 Out's
+	DANO2
+		Images:	543
+		Time:	17.05.2025 08:20:45 until 17.05.2025 08:48:55
+		Duration:	00:28:10
+		Location:	51.56792 -0.88806
+
+(4) - Obstacle 2 A Wall
+	DANO3
+		Images:	278
+		Time:	17.05.2025 14:52:28 until 17.05.2025 14:58:47
+		Duration:	00:06:19
+		Location:	51.56556 -0.88457
+
+	GWH1
+		Images:	14500
+		Time:	17.05.2025 07:52:44 until 17.05.2025 18:13:43
+		Duration:	10:20:59
+		Location:	51.56556 -0.88457
+
+(5) - Obstacle 3 Fire Jump
+	DANO4
+		Images:	355
+		Time:	17.05.2025 15:21:17 until 17.05.2025 17:15:13
+		Duration:	01:53:56
+		Location:	51.56658 -0.88319
+
+(6) - Obstacle 5 Inverted Wall
+	DANO5
+		Images:	418
+		Time:	17.05.2025 16:35:01 until 17.05.2025 16:41:42
+		Duration:	00:06:41
+		Location:	51.56729 -0.88633
+
+	MKH1
+		Images:	8234
+		Time:	17.05.2025 08:30:19 until 17.05.2025 17:07:37
+		Duration:	08:37:18
+		Location:	51.56729 -0.88633
+
+(7) - Finish
+	DANO1LS1
+		Images:	1273
+		Time:	17.05.2025 07:58:41 until 17.05.2025 18:14:14
+		Duration:	10:15:33
+		Location:	51.56658 -0.88319
+
+	DANO1LS2
+		Images:	1282
+		Time:	17.05.2025 07:58:42 until 17.05.2025 18:14:15
+		Duration:	10:15:33
+		Location:	51.56658 -0.88319
+
+	TOMY1
+		Images:	25747
+		Time:	17.05.2025 07:42:49 until 17.05.2025 18:14:10
+		Duration:	10:31:21
+		Location:	51.56658 -0.88319
+
+(8) - Herotent
+	CMS1
+		Images:	1394
+		Time:	17.05.2025 08:00:46 until 17.05.2025 18:17:08
+		Duration:	10:16:22
+		Location:	51.56689 -0.88327
+
+(9) - Obstacle 0 Barbed Wire
+	WIN1
+		Images:	11892
+		Time:	17.05.2025 08:17:34 until 17.05.2025 17:07:46
+		Duration:	08:50:12
+		Location:	51.57550 -0.88527
+
+(10) - Obstacle 0 Dunk Wall
+	KYY1
+		Images:	13236
+		Time:	17.05.2025 08:27:50 until 17.05.2025 16:35:06
+		Duration:	08:07:16
+		Location:	51.57440 -0.89035
+
+(11) - Obstacle 0 Atlas Carry
+	CNS1
+		Images:	17131
+		Time:	17.05.2025 07:41:09 until 17.05.2025 11:40:34
+		Duration:	03:59:25
+		Location:	51.57434 -0.88991
+
+(12) - Obstacle 0 Multi Rig
+	THB1
+		Images:	4035
+		Time:	17.05.2025 09:56:50 until 17.05.2025 17:43:33
+		Duration:	07:46:43
+		Location:	51.56986 -0.88354
+
+(13) - Obstacle 0 Sandbag Carry
+	COSU1
+		Images:	27156
+		Time:	17.05.2025 08:30:55 until 17.05.2025 17:11:37
+		Duration:	08:40:42
+		Location:	51.57613 -0.88593
+

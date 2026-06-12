@@ -1,0 +1,151 @@
+EventId: 13445
+Spots: 22
+Total Images: 44614
+Time:	17.10.2025 20:30:00 to 19.10.2025 13:24:12
+Duration: 1.16:54:12
+
+(1) - Start
+	MUM1
+		Images:	323
+		Time:	18.10.2025 08:49:40 until 18.10.2025 09:25:48
+		Duration:	00:36:08
+		Location:	54.37263 13.69721
+
+(2) - Impressions / Pano
+	EHL1DRONE1
+		Images:	57
+		Time:	18.10.2025 08:59:27 until 19.10.2025 07:33:39
+		Duration:	22:34:12
+		Location:	54.37263 13.69721
+
+	MOIK2
+		Images:	178
+		Time:	18.10.2025 11:00:31 until 18.10.2025 14:48:55
+		Duration:	03:48:24
+		Location:	54.37263 13.69721
+
+(3) - 0,4 km
+	CM1
+		Images:	1617
+		Time:	18.10.2025 09:01:43 until 18.10.2025 10:34:28
+		Duration:	01:32:45
+		Location:	54.37456 13.69446
+
+	CM1LS1
+		Images:	961
+		Time:	18.10.2025 08:50:19 until 18.10.2025 10:30:23
+		Duration:	01:40:04
+		Location:	54.37456 13.69446
+
+(4) - 1,9 km
+	MOIK1
+		Images:	2862
+		Time:	18.10.2025 08:57:17 until 18.10.2025 10:50:02
+		Duration:	01:52:45
+		Location:	54.38011 13.67436
+
+(5) - 9,0 km
+	EHL1
+		Images:	3748
+		Time:	18.10.2025 10:17:17 until 18.10.2025 12:37:59
+		Duration:	02:20:42
+		Location:	54.3939 13.59922
+
+	EHL1LS1
+		Images:	2933
+		Time:	18.10.2025 10:09:14 until 18.10.2025 12:40:01
+		Duration:	02:30:47
+		Location:	54.3939 13.59922
+
+(6) - 10,0 km
+	MUM2
+		Images:	8686
+		Time:	18.10.2025 09:53:37 until 18.10.2025 12:49:03
+		Duration:	02:55:26
+		Location:	54.39970 13.60691
+
+(7) - 36,1 km
+	CFMP1
+		Images:	7293
+		Time:	18.10.2025 14:57:17 until 18.10.2025 19:40:14
+		Duration:	04:42:57
+		Location:	54.47494 13.57148
+
+(8) - 47,0 km
+	ABRI1
+		Images:	1276
+		Time:	18.10.2025 09:46:34 until 18.10.2025 22:14:24
+		Duration:	12:27:50
+		Location:	54.39836 13.62650
+
+(9) - 52,5 km
+	CM2
+		Images:	1701
+		Time:	18.10.2025 15:39:38 until 18.10.2025 23:42:45
+		Duration:	08:03:07
+		Location:	54.38599 13.69202
+
+	CM2LS1
+		Images:	882
+		Time:	18.10.2025 17:17:10 until 18.10.2025 23:41:27
+		Duration:	06:24:17
+		Location:	54.38599 13.69202
+
+(10) - 85,5 km
+	PSA2
+		Images:	35
+		Time:	19.10.2025 06:50:51 until 19.10.2025 09:29:03
+		Duration:	02:38:12
+		Location:	54.38156 13.62845
+
+(11) - 102,0 km
+	JZE2
+		Images:	2189
+		Time:	19.10.2025 06:50:34 until 19.10.2025 11:06:00
+		Duration:	04:15:26
+		Location:	54.35776 13.69619
+
+(12) - Finish
+	PSA1
+		Images:	1823
+		Time:	18.10.2025 16:23:52 until 19.10.2025 06:25:19
+		Duration:	14:01:27
+		Location:	54.37263 13.69721
+
+	MOIK3
+		Images:	243
+		Time:	18.10.2025 23:53:19 until 19.10.2025 06:43:13
+		Duration:	06:49:54
+		Location:	54.37263 13.69721
+
+	JZE1LS1
+		Images:	4814
+		Time:	18.10.2025 17:03:50 until 19.10.2025 07:39:29
+		Duration:	14:35:39
+		Location:	54.37263 13.69721
+
+	CFMP2
+		Images:	1658
+		Time:	17.10.2025 20:30:00 until 19.10.2025 13:18:17
+		Duration:	1.16:48:17
+		Location:	54.37263 13.69721
+
+(13) - Herotent
+	JZE1
+		Images:	854
+		Time:	18.10.2025 09:44:46 until 18.10.2025 23:34:15
+		Duration:	13:49:29
+		Location:	54.37263 13.69721
+
+	MUM3
+		Images:	192
+		Time:	18.10.2025 23:52:43 until 19.10.2025 06:45:01
+		Duration:	06:52:18
+		Location:	54.37263 13.69721
+
+	ABRI2
+		Images:	289
+		Time:	19.10.2025 07:07:54 until 19.10.2025 13:24:12
+		Duration:	06:16:18
+		Location:	54.37263 13.69721
+

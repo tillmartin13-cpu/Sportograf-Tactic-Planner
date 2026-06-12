@@ -1,0 +1,129 @@
+EventId: 13749
+Spots: 19
+Total Images: 38680
+Time:	01.01.0001 23:00:00 to 07.06.2025 15:32:07
+Duration: 739407.16:32:07
+
+(1) - Impressions / Pano
+	DAFE1
+		Images:	53
+		Time:	06.06.2025 17:07:35 until 06.06.2025 17:47:19
+		Duration:	00:39:44
+		Location:	42.44003 1.93437
+
+	JMO1
+		Images:	104
+		Time:	06.06.2025 17:12:21 until 06.06.2025 17:45:11
+		Duration:	00:32:50
+		Location:	42.44003 1.93437
+
+	TGM1
+		Images:	34
+		Time:	06.06.2025 17:11:41 until 06.06.2025 20:44:25
+		Duration:	03:32:44
+		Location:	42.44003 1.93437
+
+	JMP1
+		Images:	54
+		Time:	06.06.2025 17:07:20 until 06.06.2025 21:59:03
+		Duration:	04:51:43
+		Location:	42.44003 1.93437
+
+	DAFE2
+		Images:	63
+		Time:	07.06.2025 06:47:14 until 07.06.2025 07:27:37
+		Duration:	00:40:23
+		Location:	42.44003 1.93437
+
+	PANO1
+		Images:	1
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	42.43687 1.92755
+
+	TGM1DRONE1
+		Images:	60
+		Time:	07.06.2025 12:09:30 until 07.06.2025 12:34:20
+		Duration:	00:24:50
+		Location:	42.55360 1.82421
+
+(2) - Start
+	JMP2
+		Images:	1169
+		Time:	07.06.2025 06:49:51 until 07.06.2025 07:38:42
+		Duration:	00:48:51
+		Location:	42.44003 1.93437
+
+	DAFE3
+		Images:	343
+		Time:	07.06.2025 07:29:21 until 07.06.2025 10:04:21
+		Duration:	02:35:00
+		Location:	42.44003 1.93437
+
+(3) - KM 2
+	JMO2
+		Images:	1342
+		Time:	07.06.2025 07:16:07 until 07.06.2025 09:00:08
+		Duration:	01:44:01
+		Location:	42.42612 1.92661
+
+(4) - KM 3
+	TGM2
+		Images:	1389
+		Time:	07.06.2025 07:01:28 until 07.06.2025 07:45:52
+		Duration:	00:44:24
+		Location:	42.42609 1.91713
+
+(5) - KM 98
+	DAFE4
+		Images:	5244
+		Time:	07.06.2025 09:47:57 until 07.06.2025 13:41:35
+		Duration:	03:53:38
+		Location:	42.54276 1.71160
+
+(6) - KM 106
+	JMO3
+		Images:	8467
+		Time:	07.06.2025 09:10:21 until 07.06.2025 14:30:49
+		Duration:	05:20:28
+		Location:	42.56103 1.80813
+
+(7) - KM 110
+	TGM3LS1
+		Images:	2679
+		Time:	07.06.2025 09:57:16 until 07.06.2025 14:43:24
+		Duration:	04:46:08
+		Location:	42.55389 1.82336
+
+	TGM3
+		Images:	8267
+		Time:	07.06.2025 10:40:53 until 07.06.2025 14:34:21
+		Duration:	03:53:28
+		Location:	42.55360 1.82421
+
+(8) - KM 111
+	TGM3LS2
+		Images:	2746
+		Time:	07.06.2025 10:42:20 until 07.06.2025 14:27:34
+		Duration:	03:45:14
+		Location:	42.55366 1.82366
+
+(9) - Finish
+	JMP3LS1
+		Images:	1269
+		Time:	07.06.2025 10:21:00 until 07.06.2025 15:24:43
+		Duration:	05:03:43
+		Location:	42.43997 1.93427
+
+	JMP3
+		Images:	4207
+		Time:	07.06.2025 11:08:25 until 07.06.2025 15:32:07
+		Duration:	04:23:42
+		Location:	42.44003 1.93437
+
+	JMP3LS2
+		Images:	1189
+		Time:	07.06.2025 10:26:20 until 07.06.2025 15:24:33
+		Duration:	04:58:13
+		Location:	42.44003 1.93437
+

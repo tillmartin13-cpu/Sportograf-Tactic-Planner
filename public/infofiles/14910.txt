@@ -1,0 +1,233 @@
+EventId: 14910
+Spots: 35
+Total Images: 194099
+Time:	16.05.2024 14:05:42 to 18.05.2025 15:13:26
+Duration: 367.01:07:44
+
+(1) - Start - 100k & 50k Route
+	BKO3
+		Images:	975
+		Time:	17.05.2025 07:46:10 until 17.05.2025 09:01:13
+		Duration:	01:15:03
+		Location:	53.11828 -4.12101
+
+	BKO3DRONE1
+		Images:	21
+		Time:	17.05.2025 08:49:04 until 17.05.2025 09:03:08
+		Duration:	00:14:04
+		Location:	53.11828 -4.12101
+
+	YCAN1
+		Images:	295
+		Time:	17.05.2025 04:05:49 until 17.05.2025 05:03:09
+		Duration:	00:57:20
+		Location:	53.11828 -4.12101
+
+(2) - Start - 25k Route
+	BKO5
+		Images:	1050
+		Time:	18.05.2025 08:23:40 until 18.05.2025 09:00:35
+		Duration:	00:36:55
+		Location:	53.11828 -4.12101
+
+(3) - 2.6Km - 100 Mile Route
+	BKO1
+		Images:	1533
+		Time:	16.05.2025 12:42:43 until 16.05.2025 13:33:04
+		Duration:	00:50:21
+		Location:	53.10768 -4.12062
+
+	BKO1LS1
+		Images:	217
+		Time:	16.05.2025 13:11:12 until 16.05.2025 13:21:54
+		Duration:	00:10:42
+		Location:	53.10768 -4.12062
+
+	BKO1DRONE1
+		Images:	19
+		Time:	16.05.2025 13:02:19 until 16.05.2025 13:20:45
+		Duration:	00:18:26
+		Location:	53.10768 -4.12062
+
+(4) - 3.6Km - 25k Route
+	MALV4
+		Images:	2490
+		Time:	18.05.2025 08:38:38 until 18.05.2025 09:26:43
+		Duration:	00:48:05
+		Location:	53.10616 -4.11611
+
+	MALV4LS1
+		Images:	432
+		Time:	18.05.2025 08:20:52 until 18.05.2025 09:27:56
+		Duration:	01:07:04
+		Location:	53.10616 -4.11611
+
+(5) - 4.5Km - 100k Route
+	MALV1
+		Images:	2152
+		Time:	17.05.2025 04:59:02 until 17.05.2025 05:49:05
+		Duration:	00:50:03
+		Location:	53.09411 -4.09814
+
+	MALV1LS1
+		Images:	294
+		Time:	17.05.2025 05:22:11 until 17.05.2025 06:33:04
+		Duration:	01:10:53
+		Location:	53.09411 -4.09814
+
+(6) - 5.7Km - 50k Route
+	MALV3
+		Images:	5893
+		Time:	17.05.2025 08:35:22 until 17.05.2025 10:12:40
+		Duration:	01:37:18
+		Location:	53.08588 -4.08560
+
+	MALV3LS1
+		Images:	1247
+		Time:	17.05.2025 07:50:28 until 17.05.2025 10:19:48
+		Duration:	02:29:20
+		Location:	53.08588 -4.08560
+
+(7) - 7.1Km - 100k & 50k Route
+	CUP2
+		Images:	8319
+		Time:	17.05.2025 05:18:01 until 17.05.2025 10:59:51
+		Duration:	05:41:50
+		Location:	53.07762 -4.08206
+
+	CUP2LS1
+		Images:	29010
+		Time:	17.05.2025 05:23:20 until 17.05.2025 10:54:41
+		Duration:	05:31:21
+		Location:	53.07762 -4.08206
+
+(8) - 8.6Km - 25k Route
+	KU3
+		Images:	4509
+		Time:	18.05.2025 09:19:49 until 18.05.2025 10:51:33
+		Duration:	01:31:44
+		Location:	53.06590 -4.08196
+
+	KU3LS1
+		Images:	694
+		Time:	18.05.2025 08:40:28 until 18.05.2025 11:37:56
+		Duration:	02:57:28
+		Location:	53.06590 -4.08196
+
+(9) - 10.4Km - 100 Mile Route
+	CUP1
+		Images:	2224
+		Time:	16.05.2025 14:13:25 until 16.05.2025 15:49:58
+		Duration:	01:36:33
+		Location:	53.07500 -4.04901
+
+	CUP1LS2
+		Images:	4841
+		Time:	16.05.2025 14:13:21 until 16.05.2025 15:52:40
+		Duration:	01:39:19
+		Location:	53.07500 -4.04901
+
+	CUP1LS1
+		Images:	306
+		Time:	16.05.2024 14:05:42 until 16.05.2024 15:53:13
+		Duration:	01:47:31
+		Location:	53.07500 -4.04901
+
+(10) - 10.8km - 100k & 50k Route
+	KU1
+		Images:	6582
+		Time:	17.05.2025 05:09:29 until 17.05.2025 07:31:15
+		Duration:	02:21:46
+		Location:	53.07685 -4.04442
+
+	KU1LS1
+		Images:	941
+		Time:	17.05.2025 04:55:19 until 17.05.2025 07:31:20
+		Duration:	02:36:01
+		Location:	53.07685 -4.04442
+
+(11) - 12.2Km - 100 Mile Route
+	BKO2
+		Images:	1572
+		Time:	16.05.2025 14:24:28 until 16.05.2025 16:20:38
+		Duration:	01:56:10
+		Location:	53.08037 -4.02648
+
+	BKO2DRONE1
+		Images:	8
+		Time:	16.05.2025 16:25:51 until 16.05.2025 16:31:22
+		Duration:	00:05:31
+		Location:	53.08037 -4.02648
+
+(12) - 16.7Km - 25k Route
+	YCAN3
+		Images:	6847
+		Time:	18.05.2025 08:51:01 until 18.05.2025 12:54:45
+		Duration:	04:03:44
+		Location:	53.06592 -4.12806
+
+(13) - 131.9Km - 100 Mile Route, 72.2Km - 100k Route & 25.2Km - 50k Route
+	MALV2
+		Images:	11830
+		Time:	17.05.2025 12:45:29 until 17.05.2025 19:12:15
+		Duration:	06:26:46
+		Location:	53.06328 -4.08439
+
+(14) - 132.3Km - 100 Mile Route, 72.6Km - 100k Route & 25.6Km - 50k Route
+	KU2
+		Images:	10149
+		Time:	17.05.2025 11:21:07 until 18.05.2025 06:26:51
+		Duration:	19:05:44
+		Location:	53.06789 -4.07983
+
+	KU2LS1
+		Images:	6029
+		Time:	17.05.2025 11:41:11 until 17.05.2025 21:00:32
+		Duration:	09:19:21
+		Location:	53.06789 -4.07983
+
+(15) - 134.5Km - 100 Mile Route, 74.8Km - 100k Route & 27.8Km - 50k Route
+	CUP3LS1
+		Images:	23312
+		Time:	17.05.2025 12:08:54 until 17.05.2025 19:46:50
+		Duration:	07:37:56
+		Location:	53.07831 -4.09719
+
+	CUP3
+		Images:	11738
+		Time:	17.05.2025 12:02:24 until 17.05.2025 19:45:13
+		Duration:	07:42:49
+		Location:	53.07831 -4.09719
+
+(16) - 141.1Km - 100 Mile Route, 81.2Km - 100k Route & 33.9Km - 50k Route
+	YCAN2
+		Images:	6405
+		Time:	17.05.2025 05:05:57 until 17.05.2025 21:08:54
+		Duration:	16:02:57
+		Location:	53.06645 -4.16416
+
+(17) - Finish
+	CUP4
+		Images:	9141
+		Time:	18.05.2025 02:09:04 until 18.05.2025 15:13:26
+		Duration:	13:04:22
+		Location:	53.11828 -4.12101
+
+	BKO4
+		Images:	25572
+		Time:	17.05.2025 12:59:20 until 18.05.2025 13:43:54
+		Duration:	1.00:44:34
+		Location:	53.11828 -4.12101
+
+	BKO4LS2
+		Images:	4958
+		Time:	17.05.2025 12:20:47 until 18.05.2025 15:02:14
+		Duration:	1.02:41:27
+		Location:	53.11828 -4.12101
+
+	BKO4LS1
+		Images:	2494
+		Time:	17.05.2025 12:15:18 until 18.05.2025 15:02:02
+		Duration:	1.02:46:44
+		Location:	53.11828 -4.12101
+

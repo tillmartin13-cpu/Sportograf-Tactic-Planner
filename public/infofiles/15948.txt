@@ -1,0 +1,323 @@
+EventId: 15948
+Spots: 46
+Total Images: 280448
+Time:	03.05.2025 07:02:04 to 03.06.2025 11:38:16
+Duration: 31.04:36:12
+
+(1) - Impressions / Pano
+	PANO1
+(2) - 0.0 km 861282 Cerys Horton MSC 1
+	CHOR1
+		Images:	2205
+		Time:	04.05.2025 06:42:01 until 04.05.2025 08:39:01
+		Duration:	01:57:00
+		Location:	NULL NULL
+
+(3) - 0.0 km 861283 Matt Iovannone MSC 1
+	MIOV1
+		Images:	7113
+		Time:	03.05.2025 07:02:04 until 03.05.2025 08:38:47
+		Duration:	01:36:43
+		Location:	NULL NULL
+
+(4) - 0.0 km 861285 Trigger One MSC 1
+	TRA1
+		Images:	2407
+		Time:	04.05.2025 06:52:19 until 04.05.2025 08:38:22
+		Duration:	01:46:03
+		Location:	NULL NULL
+
+(5) - 0.0 km 861286 Joseph Antonie MSC 2
+	JANT1
+		Images:	3688
+		Time:	04.05.2025 07:23:45 until 04.05.2025 08:50:34
+		Duration:	01:26:49
+		Location:	NULL NULL
+
+(6) - 0.0 km 861287 Anwar Ali MSC 2
+	AALI1
+		Images:	6771
+		Time:	04.05.2025 07:14:46 until 04.05.2025 08:56:32
+		Duration:	01:41:46
+		Location:	NULL NULL
+
+(7) - 0.0 km 861290 Marvin Dangerfield MSC 3
+	MDAN1
+		Images:	13628
+		Time:	04.05.2025 06:44:00 until 04.05.2025 10:20:39
+		Duration:	03:36:39
+		Location:	NULL NULL
+
+(8) - 0.0 km 861292 Robyn Brody MSC 3
+	RBRO1
+		Images:	10292
+		Time:	04.05.2025 06:55:08 until 04.05.2025 09:12:27
+		Duration:	02:17:19
+		Location:	NULL NULL
+
+(9) - 0.0 km 861293 Dave Cox MSC 3
+	DCOX1
+		Images:	18126
+		Time:	04.05.2025 07:03:44 until 04.05.2025 10:25:52
+		Duration:	03:22:08
+		Location:	NULL NULL
+
+(10) - 0.0 km 861294 Trigger Two MSC 3
+	TRB1
+		Images:	8258
+		Time:	04.05.2025 06:58:48 until 04.05.2025 10:02:51
+		Duration:	03:04:03
+		Location:	NULL NULL
+
+(11) - 0.0 km 861295 Trigger Three MSC 3
+	TRC1
+		Images:	8396
+		Time:	04.05.2025 06:51:30 until 04.05.2025 10:09:30
+		Duration:	03:18:00
+		Location:	NULL NULL
+
+(12) - 0.0 km 861327 Billy Myers MSC 4
+	BMYE1
+		Images:	14903
+		Time:	04.05.2025 07:33:49 until 04.05.2025 11:00:23
+		Duration:	03:26:34
+		Location:	NULL NULL
+
+(13) - 0.0 km 861328 Chase Boggs MSC 4
+	CBOG1
+		Images:	3124
+		Time:	04.05.2025 06:38:13 until 04.05.2025 09:53:54
+		Duration:	03:15:41
+		Location:	NULL NULL
+
+(14) - 0.0 km 861329 Cerys Horton MSC 4
+	HORC1
+		Images:	2692
+		Time:	03.05.2025 09:29:53 until 03.05.2025 10:54:36
+		Duration:	01:24:43
+		Location:	NULL NULL
+
+(15) - 0.0 km 861330 Matt Iovannone MSC 4
+	IOVM1
+		Images:	1368
+		Time:	04.05.2025 09:30:26 until 04.05.2025 10:56:39
+		Duration:	01:26:13
+		Location:	NULL NULL
+
+(16) - 0.0 km 861331 Trigger One MSC 4
+	TRD1
+		Images:	11563
+		Time:	04.05.2025 06:33:10 until 04.05.2025 10:59:53
+		Duration:	04:26:43
+		Location:	NULL NULL
+
+(17) - 0.0 km 861296 Mauricio Campino MSC 5
+	MCAM1
+		Images:	10521
+		Time:	04.05.2025 07:46:25 until 04.05.2025 11:14:42
+		Duration:	03:28:17
+		Location:	NULL NULL
+
+(18) - 0.0 km 861297 Anwar Ali MSC 5
+	ALIA1
+		Images:	5192
+		Time:	04.05.2025 09:39:43 until 04.05.2025 11:18:31
+		Duration:	01:38:48
+		Location:	NULL NULL
+
+(19) - 0.0 km 861298 Emily Cohen MSC 5
+	ECOH1
+		Images:	4520
+		Time:	04.05.2025 07:42:26 until 04.05.2025 11:11:55
+		Duration:	03:29:29
+		Location:	NULL NULL
+
+(20) - 0.0 km 861299 Joseph Antonie MSC 5
+	ANTJ1
+		Images:	1949
+		Time:	04.05.2025 09:35:01 until 04.05.2025 11:12:40
+		Duration:	01:37:39
+		Location:	NULL NULL
+
+(21) - 0.0 km 861300 Jesse Beam MSC 5
+	JBEA1
+		Images:	8211
+		Time:	04.05.2025 06:37:30 until 04.05.2025 10:08:13
+		Duration:	03:30:43
+		Location:	NULL NULL
+
+(22) - 0.0 km 861302 Trigger Three MSC 5
+	TRE1
+		Images:	10384
+		Time:	04.05.2025 07:49:35 until 04.05.2025 10:53:44
+		Duration:	03:04:09
+		Location:	NULL NULL
+
+(23) - 0.0 km 861273 Robert Fina Pre-Finish
+	RFIN1
+		Images:	22361
+		Time:	04.05.2025 07:43:06 until 04.05.2025 11:18:12
+		Duration:	03:35:06
+		Location:	NULL NULL
+
+(24) - 0.0 km 861274 Master Jones IV Pre-Finish
+	MJON1
+		Images:	6076
+		Time:	03.05.2025 19:37:06 until 03.05.2025 23:18:29
+		Duration:	03:41:23
+		Location:	NULL NULL
+
+(25) - 0.0 km 861277 Trigger Five Pre Finsh
+	TRG1
+		Images:	10599
+		Time:	04.05.2025 07:36:06 until 04.05.2025 10:41:28
+		Duration:	03:05:22
+		Location:	NULL NULL
+
+(26) - 0.0 km 861278 Trigger Four Pre Finish
+	TRH1
+		Images:	12758
+		Time:	04.05.2025 07:32:34 until 04.05.2025 11:24:24
+		Duration:	03:51:50
+		Location:	NULL NULL
+
+(27) - 0.0 km 861304 George Jiang Finish line
+	GJIA1
+		Images:	13292
+		Time:	04.05.2025 07:46:52 until 03.06.2025 11:38:16
+		Duration:	30.03:51:24
+		Location:	NULL NULL
+
+(28) - 0.0 km 861305 Matt Hendrick Finish line
+	MHEN1
+		Images:	6408
+		Time:	04.05.2025 07:37:11 until 04.05.2025 11:31:22
+		Duration:	03:54:11
+		Location:	NULL NULL
+
+(29) - 0.0 km 861306 Adam Grossman Finish
+	AGRO1
+		Images:	6175
+		Time:	04.05.2025 06:46:48 until 04.05.2025 10:34:53
+		Duration:	03:48:05
+		Location:	NULL NULL
+
+(30) - 0.0 km 865678 Tatiana Madise Finish
+	TMAD1
+		Images:	12647
+		Time:	03.06.2025 07:39:34 until 03.06.2025 10:58:52
+		Duration:	03:19:18
+		Location:	NULL NULL
+
+(31) - 0.0 km 861307 finish trigger right
+	TRI1
+		Images:	7890
+		Time:	04.05.2025 06:27:17 until 04.05.2025 11:43:24
+		Duration:	05:16:07
+		Location:	NULL NULL
+
+(32) - 0.0 km 861308 Finish trigger left
+	TRJ1
+		Images:	7898
+		Time:	04.05.2025 07:52:53 until 04.05.2025 11:47:18
+		Duration:	03:54:25
+		Location:	NULL NULL
+
+(33) - 0.0 km 861309 Alicia DeSimone Banners
+	ADES1
+		Images:	402
+		Time:	04.05.2025 08:13:57 until 04.05.2025 11:30:50
+		Duration:	03:16:53
+		Location:	NULL NULL
+
+(34) - 0.0 km 861311 Jayson Jao Medals
+	JJAO1
+		Images:	2017
+		Time:	04.05.2025 06:01:51 until 04.05.2025 09:49:14
+		Duration:	03:47:23
+		Location:	NULL NULL
+
+(35) - 0.0 km 861312 David Thomas Medals
+	DTHO1
+		Images:	545
+		Time:	04.05.2025 08:00:52 until 04.05.2025 11:26:14
+		Duration:	03:25:22
+		Location:	NULL NULL
+
+(36) - 0.0 km 861313 Eugene pukach banners
+	EPUK1
+		Images:	679
+		Time:	04.05.2025 08:27:03 until 04.05.2025 11:19:48
+		Duration:	02:52:45
+		Location:	NULL NULL
+
+(37) - 0.0 km 861314 Brian Sanchez Medals
+	BSAN1
+		Images:	2177
+		Time:	04.05.2025 08:40:19 until 04.05.2025 11:50:28
+		Duration:	03:10:09
+		Location:	NULL NULL
+
+(38) - 0.0 km 861315 Lij Tswago (Chocky) Medals
+	LTSW1
+		Images:	1032
+		Time:	04.05.2025 07:48:44 until 04.05.2025 11:22:20
+		Duration:	03:33:36
+		Location:	NULL NULL
+
+(39) - 0.0 km 861316 Unique Davis Medals
+	UDAV1
+		Images:	387
+		Time:	04.05.2025 09:38:19 until 04.05.2025 12:44:38
+		Duration:	03:06:19
+		Location:	NULL NULL
+
+(40) - 0.0 km 861318 Brittany Brown Medals
+	BBRO1
+		Images:	495
+		Time:	04.05.2025 06:49:54 until 04.05.2025 09:54:49
+		Duration:	03:04:55
+		Location:	NULL NULL
+
+(41) - 0.0 km 861319 Russell Little Medals
+	RLIT1
+		Images:	2681
+		Time:	04.05.2025 07:27:17 until 04.05.2025 11:10:04
+		Duration:	03:42:47
+		Location:	NULL NULL
+
+(42) - 0.0 km 861321 Zach Henningsgaard Medals
+	ZHEN1
+		Images:	2219
+		Time:	04.05.2025 07:57:53 until 04.05.2025 11:15:17
+		Duration:	03:17:24
+		Location:	NULL NULL
+
+(43) - 0.0 km yevheniia pietsukh banners 861322
+	YPIE1
+		Images:	1176
+		Time:	04.05.2025 08:08:45 until 04.05.2025 11:23:32
+		Duration:	03:14:47
+		Location:	NULL NULL
+
+(44) - 0.0 km 861323 Charliston Homen Medals
+	CHOM1
+		Images:	1904
+		Time:	04.05.2025 08:03:17 until 04.05.2025 11:15:02
+		Duration:	03:11:45
+		Location:	NULL NULL
+
+(45) - 0.0 km 861325 Awa Dia Medals
+	ADIA1
+		Images:	1452
+		Time:	04.05.2025 06:50:59 until 04.05.2025 10:03:57
+		Duration:	03:12:58
+		Location:	NULL NULL
+
+(46) - 0.0 km 865676 Ama Wickramanayake Banners
+	AWIC1
+		Images:	1867
+		Time:	04.05.2025 06:50:59 until 04.05.2025 10:30:08
+		Duration:	03:39:09
+		Location:	NULL NULL
+

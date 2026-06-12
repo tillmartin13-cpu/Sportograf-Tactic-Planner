@@ -1,0 +1,152 @@
+EventId: 13982
+Spots: 23
+Total Images: 62662
+Time:	06.09.2025 09:13:33 to 07.09.2025 18:51:24
+Duration: 1.09:37:51
+
+(1) - Swim - Start
+	MSC1
+		Images:	422
+		Time:	06.09.2025 09:41:41 until 07.09.2025 09:41:41
+		Duration:	1.00:00:00
+		Location:	51.30855 3.38206
+
+	OP1
+		Images:	85
+		Time:	06.09.2025 09:13:33 until 07.09.2025 09:21:40
+		Duration:	1.00:08:07
+		Location:	51.30855 3.38206
+
+(2) - Swim - Transition zone
+	MSC2
+		Images:	5101
+		Time:	06.09.2025 10:18:10 until 07.09.2025 11:45:19
+		Duration:	1.01:27:09
+		Location:	51.30879 3.38091
+
+(3) - Bike - Transition zone
+	OP2
+		Images:	2747
+		Time:	07.09.2025 09:22:36 until 07.09.2025 11:39:10
+		Duration:	02:16:34
+		Location:	51.30878 3.38220
+
+	OP2LS1
+		Images:	2585
+		Time:	07.09.2025 09:54:30 until 07.09.2025 11:39:21
+		Duration:	01:44:51
+		Location:	51.30878 3.38220
+
+(4) - Bike - 1,0 km
+	AG1
+		Images:	3675
+		Time:	07.09.2025 09:25:56 until 07.09.2025 11:28:34
+		Duration:	02:02:38
+		Location:	51.30588 3.379
+
+	AG1LS2
+		Images:	1277
+		Time:	07.09.2025 09:08:19 until 07.09.2025 11:32:30
+		Duration:	02:24:11
+		Location:	51.30588 3.379
+
+	AG1LS1
+		Images:	1617
+		Time:	07.09.2025 08:57:53 until 07.09.2025 11:30:32
+		Duration:	02:32:39
+		Location:	51.30588 3.379
+
+(5) - Bike - Impressions / Pano
+	AG1DRONE1
+		Images:	47
+		Time:	06.09.2025 09:15:09 until 07.09.2025 17:34:16
+		Duration:	1.08:19:07
+		Location:	51.30588 3.379
+
+(6) - Bike - 60,5 km
+	MSC3
+		Images:	4682
+		Time:	06.09.2025 13:50:22 until 07.09.2025 14:38:45
+		Duration:	1.00:48:23
+		Location:	51.30552 3.37061
+
+(7) - Bike - 60,0 km
+	OP3
+		Images:	2179
+		Time:	07.09.2025 12:29:11 until 07.09.2025 14:23:57
+		Duration:	01:54:46
+		Location:	51.30741 3.37001
+
+	OP3LS1
+		Images:	1569
+		Time:	07.09.2025 12:19:02 until 07.09.2025 14:17:22
+		Duration:	01:58:20
+		Location:	51.30741 3.37001
+
+(8) - Bike - 61,0 km
+	AG2
+		Images:	3402
+		Time:	07.09.2025 11:56:20 until 07.09.2025 13:50:23
+		Duration:	01:54:03
+		Location:	51.30271 3.3595
+
+	AG2LS2
+		Images:	1721
+		Time:	07.09.2025 11:43:53 until 07.09.2025 14:18:55
+		Duration:	02:35:02
+		Location:	51.30271 3.3595
+
+	AG2LS1
+		Images:	1195
+		Time:	07.09.2025 11:54:12 until 07.09.2025 13:31:34
+		Duration:	01:37:22
+		Location:	51.30271 3.3595
+
+(9) - Run - Impressions / Pano
+	ADHA1
+		Images:	25
+		Time:	06.09.2025 09:36:32 until 07.09.2025 10:56:36
+		Duration:	1.01:20:04
+		Location:	51.3425 3.25139
+
+	SDEJ1
+		Images:	107
+		Time:	07.09.2025 10:34:41 until 07.09.2025 12:27:28
+		Duration:	01:52:47
+		Location:	51.3425 3.25139
+
+(10) - Run - 1,4 km
+	FAH1
+		Images:	8442
+		Time:	07.09.2025 10:33:38 until 07.09.2025 17:15:18
+		Duration:	06:41:40
+		Location:	51.34166 3.25205
+
+(11) - Run - 2,0 km
+	FARI1
+		Images:	10006
+		Time:	07.09.2025 10:28:06 until 07.09.2025 18:13:02
+		Duration:	07:44:56
+		Location:	51.34483 3.25875
+
+(12) - Finish
+	ADHA2
+		Images:	4220
+		Time:	07.09.2025 12:12:37 until 07.09.2025 18:51:24
+		Duration:	06:38:47
+		Location:	51.3425 3.25139
+
+	SDEJ2
+		Images:	5121
+		Time:	07.09.2025 12:49:06 until 07.09.2025 17:33:28
+		Duration:	04:44:22
+		Location:	51.3425 3.25139
+
+	OP4LS1
+		Images:	2436
+		Time:	07.09.2025 15:15:19 until 07.09.2025 18:36:54
+		Duration:	03:21:35
+		Location:	51.3425 3.25139
+
+(13) - Swim - Impressions / Pano
+	PANO1

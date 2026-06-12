@@ -1,0 +1,282 @@
+EventId: 16155
+Spots: 45
+Total Images: 187067
+Time:	11.10.2025 07:38:30 to 12.10.2025 20:02:51
+Duration: 1.12:24:21
+
+(1) - Station 1 SKIERG
+	PINO1
+		Images:	4759
+		Time:	11.10.2025 10:43:01 until 12.10.2025 15:12:08
+		Duration:	1.04:29:07
+		Location:	46.23407 6.11821
+
+	SFOR1
+		Images:	6056
+		Time:	12.10.2025 08:05:00 until 12.10.2025 15:12:49
+		Duration:	07:07:49
+		Location:	46.23407 6.11821
+
+	DIBO1
+		Images:	10979
+		Time:	11.10.2025 09:04:26 until 12.10.2025 15:01:44
+		Duration:	1.05:57:18
+		Location:	46.23407 6.11821
+
+	CAIS2
+		Images:	2771
+		Time:	12.10.2025 15:47:38 until 12.10.2025 18:22:48
+		Duration:	02:35:10
+		Location:	46.23407 6.11821
+
+	LAPO2
+		Images:	2015
+		Time:	12.10.2025 15:18:52 until 12.10.2025 18:25:59
+		Duration:	03:07:07
+		Location:	46.23407 6.11821
+
+	SEVE2
+		Images:	3470
+		Time:	12.10.2025 15:16:50 until 12.10.2025 18:26:57
+		Duration:	03:10:07
+		Location:	46.23407 6.11821
+
+(2) - Station 2 SLED PUSH
+	CAIS1
+		Images:	5814
+		Time:	11.10.2025 09:38:20 until 12.10.2025 15:00:46
+		Duration:	1.05:22:26
+		Location:	46.23407 6.11821
+
+	LAPO1
+		Images:	3444
+		Time:	12.10.2025 08:13:20 until 12.10.2025 15:10:20
+		Duration:	06:57:00
+		Location:	46.23407 6.11821
+
+	SEVE1
+		Images:	2980
+		Time:	12.10.2025 08:12:54 until 12.10.2025 15:06:57
+		Duration:	06:54:03
+		Location:	46.23407 6.11821
+
+	PINO2
+		Images:	1385
+		Time:	12.10.2025 15:22:02 until 12.10.2025 18:33:02
+		Duration:	03:11:00
+		Location:	46.23407 6.11821
+
+	SFOR2
+		Images:	3509
+		Time:	12.10.2025 15:08:33 until 12.10.2025 18:34:03
+		Duration:	03:25:30
+		Location:	46.23407 6.11821
+
+	DIBO2
+		Images:	1786
+		Time:	12.10.2025 15:07:31 until 12.10.2025 18:36:59
+		Duration:	03:29:28
+		Location:	46.23407 6.11821
+
+(3) - HYROX SMILE ARCH
+	FRN1LS1
+		Images:	4785
+		Time:	12.10.2025 08:06:49 until 12.10.2025 18:52:33
+		Duration:	10:45:44
+		Location:	46.23407 6.11821
+
+(4) - Station 3 SLED PULL
+	CVG1
+		Images:	2225
+		Time:	12.10.2025 08:19:07 until 12.10.2025 14:59:22
+		Duration:	06:40:15
+		Location:	46.23407 6.11821
+
+	DCC1
+		Images:	1932
+		Time:	12.10.2025 08:17:58 until 12.10.2025 14:59:59
+		Duration:	06:42:01
+		Location:	46.23407 6.11821
+
+	ESA1
+		Images:	5448
+		Time:	11.10.2025 07:40:35 until 12.10.2025 15:20:03
+		Duration:	1.07:39:28
+		Location:	46.23407 6.11821
+
+	DART2
+		Images:	3490
+		Time:	11.10.2025 15:23:42 until 12.10.2025 18:46:45
+		Duration:	1.03:23:03
+		Location:	46.23407 6.11821
+
+	STME2
+		Images:	786
+		Time:	12.10.2025 15:25:13 until 12.10.2025 18:47:30
+		Duration:	03:22:17
+		Location:	46.23407 6.11821
+
+	NBI2
+		Images:	2595
+		Time:	12.10.2025 15:23:30 until 12.10.2025 18:48:53
+		Duration:	03:25:23
+		Location:	46.23407 6.11821
+
+(5) - Station 5 ROWING
+	FIRO1
+		Images:	4458
+		Time:	12.10.2025 07:56:18 until 12.10.2025 14:59:34
+		Duration:	07:03:16
+		Location:	46.23407 6.11821
+
+	JFT1
+		Images:	3403
+		Time:	12.10.2025 07:46:06 until 12.10.2025 15:06:13
+		Duration:	07:20:07
+		Location:	46.23407 6.11821
+
+	DCC2
+		Images:	2991
+		Time:	12.10.2025 15:07:08 until 12.10.2025 19:14:24
+		Duration:	04:07:16
+		Location:	46.23407 6.11821
+
+	LUTA2
+		Images:	1477
+		Time:	12.10.2025 15:14:36 until 12.10.2025 19:16:11
+		Duration:	04:01:35
+		Location:	46.23407 6.11821
+
+	ELLA1
+		Images:	5068
+		Time:	11.10.2025 15:30:36 until 12.10.2025 16:00:31
+		Duration:	1.00:29:55
+		Location:	46.23407 6.11821
+
+	RLLA1
+		Images:	4011
+		Time:	11.10.2025 08:39:50 until 12.10.2025 15:59:29
+		Duration:	1.07:19:39
+		Location:	46.23407 6.11821
+
+(6) - Station 6 FARMERS CARRY
+	ELLA1LS1
+		Images:	10364
+		Time:	12.10.2025 07:48:33 until 12.10.2025 19:19:20
+		Duration:	11:30:47
+		Location:	46.23407 6.11821
+
+	RLO1LS1
+		Images:	20946
+		Time:	12.10.2025 07:41:03 until 12.10.2025 19:23:51
+		Duration:	11:42:48
+		Location:	46.23407 6.11821
+
+(7) - Station 7 SANDBAG LUNGES
+	DART1
+		Images:	8999
+		Time:	11.10.2025 08:09:58 until 12.10.2025 15:01:01
+		Duration:	1.06:51:03
+		Location:	46.23407 6.11821
+
+	LUTA1
+		Images:	2051
+		Time:	12.10.2025 07:42:25 until 12.10.2025 14:59:58
+		Duration:	07:17:33
+		Location:	46.23407 6.11821
+
+	CVG2
+		Images:	2163
+		Time:	12.10.2025 15:06:21 until 12.10.2025 19:35:13
+		Duration:	04:28:52
+		Location:	46.23407 6.11821
+
+	ESA2
+		Images:	4788
+		Time:	12.10.2025 15:17:42 until 12.10.2025 19:37:55
+		Duration:	04:20:13
+		Location:	46.23407 6.11821
+
+	ELLA2
+		Images:	1765
+		Time:	12.10.2025 10:32:07 until 12.10.2025 16:31:25
+		Duration:	05:59:18
+		Location:	46.23407 6.11821
+
+	RLLA2
+		Images:	1951
+		Time:	12.10.2025 10:32:31 until 12.10.2025 16:27:45
+		Duration:	05:55:14
+		Location:	46.23407 6.11821
+
+(8) - Station 8 WALL BALLS
+	STME1
+		Images:	4001
+		Time:	11.10.2025 07:54:08 until 12.10.2025 15:16:22
+		Duration:	1.07:22:14
+		Location:	46.23407 6.11821
+
+	NBI1
+		Images:	5673
+		Time:	12.10.2025 08:51:24 until 12.10.2025 15:05:30
+		Duration:	06:14:06
+		Location:	46.23407 6.11821
+
+	JFT2
+		Images:	1533
+		Time:	12.10.2025 15:20:06 until 12.10.2025 19:51:38
+		Duration:	04:31:32
+		Location:	46.23407 6.11821
+
+	FIRO2
+		Images:	3148
+		Time:	12.10.2025 15:08:37 until 12.10.2025 19:51:46
+		Duration:	04:43:09
+		Location:	46.23407 6.11821
+
+	ELLA3
+		Images:	496
+		Time:	12.10.2025 16:38:05 until 12.10.2025 17:05:24
+		Duration:	00:27:19
+		Location:	46.23407 6.11821
+
+	RLLA3
+		Images:	443
+		Time:	12.10.2025 16:38:03 until 12.10.2025 16:59:42
+		Duration:	00:21:39
+		Location:	46.23407 6.11821
+
+	RLO1
+		Images:	1437
+		Time:	11.10.2025 16:46:50 until 12.10.2025 13:36:09
+		Duration:	20:49:19
+		Location:	46.23407 6.11821
+
+	FRN1
+		Images:	2801
+		Time:	12.10.2025 10:39:48 until 12.10.2025 13:37:39
+		Duration:	02:57:51
+		Location:	46.23407 6.11821
+
+(9) - Finish
+	FEZ1
+		Images:	10206
+		Time:	11.10.2025 08:18:49 until 12.10.2025 20:02:04
+		Duration:	1.11:43:15
+		Location:	46.23407 6.11821
+
+	FRN1LS2
+		Images:	2701
+		Time:	12.10.2025 08:56:31 until 12.10.2025 19:13:52
+		Duration:	10:17:21
+		Location:	46.23407 6.11821
+
+(10) - Medalwall
+	CC1
+		Images:	9954
+		Time:	12.10.2025 08:22:38 until 12.10.2025 20:02:51
+		Duration:	11:40:13
+		Location:	46.23407 6.11821
+
+(11) - Start
+	RLO2

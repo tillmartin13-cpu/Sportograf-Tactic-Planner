@@ -1,0 +1,132 @@
+EventId: 10384
+Spots: 21
+Total Images: 127112
+Time:	01.01.0001 23:00:00 to 16.07.2023 05:04:02
+Duration: 738715.06:04:02
+
+(1) - 0.0 km FIN Centralia 852788
+	TOBY1
+		Images:	3273
+		Time:	20.05.2023 08:19:25 until 15.07.2023 18:32:22
+		Duration:	56.10:12:57
+		Location:	NULL NULL
+
+(2) - 0.0 km FIN Portland# 852789
+	ES1
+		Images:	2428
+		Time:	24.09.2014 03:42:18 until 24.09.2014 11:49:29
+		Duration:	08:07:11
+		Location:	NULL NULL
+
+(3) - 0.0 km Fin Trigger
+	TRIG1
+		Images:	15385
+		Time:	15.07.2023 11:31:37 until 15.07.2023 17:56:15
+		Duration:	06:24:38
+		Location:	NULL NULL
+
+(4) - 0.0 km Finish 852788
+	TC1
+		Images:	12022
+		Time:	01.01.0001 23:00:00 until 15.07.2023 14:47:42
+		Duration:	738714.15:47:42
+		Location:	NULL NULL
+
+(5) - 0.0 km MSC 5 852792
+	JMIT1
+		Images:	4712
+		Time:	14.04.2023 10:21:12 until 16.07.2023 05:04:02
+		Duration:	92.18:42:50
+		Location:	NULL NULL
+
+(6) - 0.0 km MSC 7 852799
+	JE1
+		Images:	8757
+		Time:	15.07.2023 09:36:38 until 15.07.2023 14:48:44
+		Duration:	05:12:06
+		Location:	NULL NULL
+
+(7) - 0.0 km MSC 8 852798
+	SH1
+(8) - 0.0 km MSC1 852783
+	JM1
+(9) - 0.0 km MSC2 852785
+	CC1
+		Images:	8890
+		Time:	15.07.2023 05:28:37 until 15.07.2023 11:37:32
+		Duration:	06:08:55
+		Location:	NULL NULL
+
+(10) - 0.0 km MSC3 852786
+	BB1
+		Images:	7236
+		Time:	15.07.2023 08:31:25 until 15.07.2023 17:14:38
+		Duration:	08:43:13
+		Location:	NULL NULL
+
+(11) - 0.0 km MSC4  852787
+	MF1
+		Images:	5001
+		Time:	14.07.2023 20:43:10 until 15.07.2023 05:54:22
+		Duration:	09:11:12
+		Location:	NULL NULL
+
+(12) - 0.0 km MSC5 852792
+	JM2
+		Images:	6505
+		Time:	15.07.2023 22:09:45 until 16.07.2023 01:44:42
+		Duration:	03:34:57
+		Location:	NULL NULL
+
+(13) - 0.0 km MSC5 852793
+	CC2
+	CCOUR1
+		Images:	12240
+		Time:	15.07.2023 11:38:33 until 15.07.2023 14:33:49
+		Duration:	02:55:16
+		Location:	NULL NULL
+
+(14) - 0.0 km MSC6 852796
+	IC1
+		Images:	13761
+		Time:	15.07.2023 11:16:40 until 15.07.2023 20:39:29
+		Duration:	09:22:49
+		Location:	NULL NULL
+
+(15) - 0.0 km MSC8 852798 Sean Hoffman
+	SHOF1
+		Images:	3118
+		Time:	15.07.2023 15:21:09 until 15.07.2023 21:58:23
+		Duration:	06:37:14
+		Location:	NULL NULL
+
+(16) - 0.0 km Portland Fin 852789
+	ES1
+		Images:	2428
+		Time:	24.09.2014 03:42:18 until 24.09.2014 11:49:29
+		Duration:	08:07:11
+		Location:	NULL NULL
+
+(17) - 0.0 km PreFIN 852797
+	JOSH1
+		Images:	1996
+		Time:	15.07.2023 15:19:35 until 15.07.2023 17:39:21
+		Duration:	02:19:46
+		Location:	NULL NULL
+
+(18) - 0.0 km PreFN 852797
+	JJ1
+		Images:	14508
+		Time:	15.07.2023 08:41:49 until 15.07.2023 15:18:59
+		Duration:	06:37:10
+		Location:	NULL NULL
+
+(19) - 0.0 km TriggerFin
+	AUTO1
+		Images:	7280
+		Time:	15.07.2023 17:56:34 until 15.07.2023 20:26:14
+		Duration:	02:29:40
+		Location:	NULL NULL
+
+(20) - Impressions / Pano
+	PANO1

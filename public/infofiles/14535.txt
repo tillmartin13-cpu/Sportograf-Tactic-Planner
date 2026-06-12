@@ -1,0 +1,86 @@
+EventId: 14535
+Spots: 13
+Total Images: 32533
+Time:	31.05.2025 10:12:57 to 01.06.2025 17:01:07
+Duration: 1.06:48:10
+
+(1) - Swim exit
+	EHL1
+		Images:	1930
+		Time:	01.06.2025 09:58:26 until 01.06.2025 13:07:27
+		Duration:	03:09:01
+		Location:	51.75785 12.45030
+
+(2) - Running track between swim exit and transition zone
+	SBU1
+		Images:	1535
+		Time:	31.05.2025 11:10:36 until 01.06.2025 11:34:35
+		Duration:	1.00:23:59
+		Location:	51.75812 12.44913
+
+	SBU1LS1
+		Images:	529
+		Time:	01.06.2025 09:42:10 until 01.06.2025 11:34:52
+		Duration:	01:52:42
+		Location:	51.75812 12.44913
+
+(3) - Bike (after transition zone)
+	GUD1
+		Images:	2850
+		Time:	31.05.2025 10:44:21 until 01.06.2025 11:54:38
+		Duration:	1.01:10:17
+		Location:	51.75184 12.43674
+
+	GUD1LS1
+		Images:	2246
+		Time:	01.06.2025 09:44:25 until 01.06.2025 11:55:28
+		Duration:	02:11:03
+		Location:	51.75184 12.43674
+
+(4) - Bike (before transition zone)
+	GUD2
+		Images:	4489
+		Time:	01.06.2025 12:13:48 until 01.06.2025 14:56:08
+		Duration:	02:42:20
+		Location:	51.75184 12.43674
+
+	GUD2LS1
+		Images:	1981
+		Time:	01.06.2025 12:02:00 until 01.06.2025 14:57:16
+		Duration:	02:55:16
+		Location:	51.75184 12.43674
+
+(5) - Run
+	SBU2
+		Images:	4298
+		Time:	01.06.2025 12:44:35 until 01.06.2025 16:58:11
+		Duration:	04:13:36
+		Location:	51.75889 12.44946
+
+	SBU2LS1
+		Images:	4594
+		Time:	01.06.2025 12:38:52 until 01.06.2025 16:23:03
+		Duration:	03:44:11
+		Location:	51.75889 12.44946
+
+(6) - Finish
+	EHL2
+		Images:	3278
+		Time:	01.06.2025 13:11:30 until 01.06.2025 17:01:07
+		Duration:	03:49:37
+		Location:	51.75846 12.44705
+
+	EHL2LS1
+		Images:	4785
+		Time:	01.06.2025 12:11:52 until 01.06.2025 16:35:13
+		Duration:	04:23:21
+		Location:	51.75846 12.44705
+
+(7) - Impressions / Pano
+	GUD1DRONE1
+		Images:	7
+		Time:	01.06.2025 08:48:03 until 01.06.2025 08:53:16
+		Duration:	00:05:13
+		Location:	51.75846 12.44705
+
+	PANO1

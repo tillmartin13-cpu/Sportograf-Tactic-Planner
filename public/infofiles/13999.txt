@@ -1,0 +1,129 @@
+EventId: 13999
+Spots: 19
+Total Images: 31302
+Time:	26.04.2025 06:16:12 to 26.04.2025 20:31:08
+Duration: 14:14:56
+
+(1) - Start
+	THO1
+		Images:	667
+		Time:	26.04.2025 06:43:52 until 26.04.2025 12:01:07
+		Duration:	05:17:15
+		Location:	49.78039 11.18509
+
+(2) - Ludwigshöhle (U: 32,1 km | S: -)
+	TIM1LS1
+		Images:	516
+		Time:	26.04.2025 08:23:33 until 26.04.2025 12:57:02
+		Duration:	04:33:29
+		Location:	49.82660 11.37506
+
+	TIM1LS2
+		Images:	664
+		Time:	26.04.2025 07:49:31 until 26.04.2025 11:57:02
+		Duration:	04:07:31
+		Location:	49.82660 11.37506
+
+	TIM1
+		Images:	759
+		Time:	26.04.2025 06:37:16 until 26.04.2025 13:00:19
+		Duration:	06:23:03
+		Location:	49.82660 11.37506
+
+(3) - Ailsbach (U: 32,2 km | S: -)
+	DG1LS1
+		Images:	625
+		Time:	26.04.2025 09:28:06 until 26.04.2025 12:56:47
+		Duration:	03:28:41
+		Location:	49.82653 11.37386
+
+	DG1
+		Images:	4136
+		Time:	26.04.2025 09:27:31 until 26.04.2025 12:56:15
+		Duration:	03:28:44
+		Location:	49.82653 11.37386
+
+(4) - Burg Rabenstein (U: 33,4 km | S: -)
+	STEL1LS1
+		Images:	1115
+		Time:	26.04.2025 08:47:33 until 26.04.2025 12:34:55
+		Duration:	03:47:22
+		Location:	49.82323 11.36844
+
+	STEL1
+		Images:	1831
+		Time:	26.04.2025 07:50:44 until 26.04.2025 13:11:49
+		Duration:	05:21:05
+		Location:	49.82323 11.36844
+
+(5) - Streitburg (U: 59,3 km | S: 26,3 km)
+	DG2LS1
+		Images:	854
+		Time:	26.04.2025 13:54:17 until 26.04.2025 18:42:44
+		Duration:	04:48:27
+		Location:	49.82672 11.37378
+
+	DG2
+		Images:	6319
+		Time:	26.04.2025 14:08:20 until 26.04.2025 19:06:25
+		Duration:	04:58:05
+		Location:	49.82672 11.37378
+
+(6) - Wedenbach (U: 59,7 km | S: 26,7 km)
+	STEL2LS1
+		Images:	1794
+		Time:	26.04.2025 13:48:31 until 26.04.2025 19:03:35
+		Duration:	05:15:04
+		Location:	49.81358 11.21582
+
+	STEL2
+		Images:	2653
+		Time:	26.04.2025 13:52:49 until 26.04.2025 18:50:14
+		Duration:	04:57:25
+		Location:	49.81358 11.21582
+
+(7) - Streitberg (U: 60,0 km | S: 27,0 km)
+	TIM2LS1
+		Images:	702
+		Time:	26.04.2025 14:06:29 until 26.04.2025 18:58:56
+		Duration:	04:52:27
+		Location:	49.81144 11.21450
+
+	TIM2
+		Images:	3047
+		Time:	26.04.2025 14:17:03 until 26.04.2025 18:54:44
+		Duration:	04:37:41
+		Location:	49.81144 11.21450
+
+(8) - Ziel
+	THO2
+		Images:	3666
+		Time:	26.04.2025 12:23:20 until 26.04.2025 20:31:08
+		Duration:	08:07:48
+		Location:	49.78039 11.18509
+
+	THO2LS2
+		Images:	985
+		Time:	26.04.2025 12:13:39 until 26.04.2025 18:58:19
+		Duration:	06:44:40
+		Location:	49.78039 11.18509
+
+	THO2LS1
+		Images:	960
+		Time:	26.04.2025 12:09:00 until 26.04.2025 19:00:59
+		Duration:	06:51:59
+		Location:	49.78039 11.18509
+
+(9) - Impressions / Pano
+	TIM1DRONE1
+		Images:	8
+		Time:	26.04.2025 06:16:12 until 26.04.2025 07:00:44
+		Duration:	00:44:32
+		Location:	49.78039 11.18509
+
+	PANO1
+		Images:	1
+		Time:	26.04.2025 13:00:04 until 26.04.2025 13:00:04
+		Duration:	00:00:00
+		Location:	NULL NULL
+

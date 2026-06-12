@@ -1,0 +1,116 @@
+EventId: 14769
+Spots: 17
+Total Images: 30985
+Time:	28.03.2025 19:36:03 to 29.03.2025 20:00:30
+Duration: 1.00:24:27
+
+(1) - Bike - Transition zone
+	AMI1
+		Images:	24
+		Time:	29.03.2025 04:35:27 until 29.03.2025 05:10:03
+		Duration:	00:34:36
+		Location:	-26.68440 153.12928
+
+	AKC2
+		Images:	134
+		Time:	29.03.2025 08:17:51 until 29.03.2025 09:06:37
+		Duration:	00:48:46
+		Location:	-26.68371 153.12572
+
+(2) - Swim - Transition zone
+	AMI2
+		Images:	6016
+		Time:	29.03.2025 05:14:10 until 29.03.2025 07:47:40
+		Duration:	02:33:30
+		Location:	-26.68379 153.12960
+
+(3) - Run - 4.9 km
+	AMI3
+		Images:	873
+		Time:	29.03.2025 07:57:02 until 29.03.2025 09:48:06
+		Duration:	01:51:04
+		Location:	-26.67818 153.11866
+
+(4) - Swim - Start
+	AKC1
+		Images:	1390
+		Time:	29.03.2025 04:59:51 until 29.03.2025 08:15:45
+		Duration:	03:15:54
+		Location:	-26.67156 153.10846
+
+(5) - Bike - 1.6 km
+	CFW1
+		Images:	2436
+		Time:	28.03.2025 19:36:03 until 29.03.2025 06:05:08
+		Duration:	10:29:05
+		Location:	-26.67505 153.11439
+
+(6) - Run - 2.0 km
+	CFW2
+		Images:	2933
+		Time:	29.03.2025 06:14:14 until 29.03.2025 09:18:43
+		Duration:	03:04:29
+		Location:	-26.67505 153.11439
+
+(7) - Finish
+	CHRO1LS1
+		Images:	745
+		Time:	29.03.2025 05:03:14 until 29.03.2025 09:40:35
+		Duration:	04:37:21
+		Location:	-26.67871 153.11921
+
+	CHRO1
+		Images:	6686
+		Time:	29.03.2025 05:25:12 until 29.03.2025 09:41:45
+		Duration:	04:16:33
+		Location:	-26.67871 153.11921
+
+(8) - Bike - 0.0 km
+	JEK1
+		Images:	30
+		Time:	28.03.2025 20:05:07 until 29.03.2025 20:00:30
+		Duration:	23:55:23
+		Location:	-26.67156 153.10846
+
+(9) - Bike - 4.2 km
+	JEK2
+		Images:	2003
+		Time:	29.03.2025 05:23:52 until 29.03.2025 06:01:24
+		Duration:	00:37:32
+		Location:	-26.67156 153.10846
+
+	JEK3
+		Images:	961
+		Time:	29.03.2025 06:01:24 until 29.03.2025 06:15:27
+		Duration:	00:14:03
+		Location:	-26.67156 153.10846
+
+(10) - Run - 4.2 km
+	JEK4
+		Images:	2496
+		Time:	29.03.2025 06:04:25 until 29.03.2025 09:30:35
+		Duration:	03:26:10
+		Location:	-26.67156 153.10846
+
+(11) - Bike - 5.5 km
+	MTS1
+		Images:	23
+		Time:	29.03.2025 04:51:36 until 29.03.2025 05:30:35
+		Duration:	00:38:59
+		Location:	-26.67990 153.12010
+
+	MTS2
+		Images:	3523
+		Time:	29.03.2025 05:31:53 until 29.03.2025 08:48:23
+		Duration:	03:16:30
+		Location:	-26.67990 153.12010
+
+(12) - Swim - Impressions / Pano
+	PANO1
+(13) - Run - 0.4 km
+	TOSC1
+		Images:	712
+		Time:	29.03.2025 03:32:54 until 29.03.2025 09:08:52
+		Duration:	05:35:58
+		Location:	-26.68304 153.12436
+

@@ -1,0 +1,142 @@
+EventId: 13743
+Spots: 24
+Total Images: 51873
+Time:	01.01.0001 23:00:00 to 21.09.2025 14:31:40
+Duration: 739513.15:31:40
+
+(1) - Start 10k
+	MAMO1
+		Images:	403
+		Time:	21.09.2025 09:05:34 until 21.09.2025 10:55:23
+		Duration:	01:49:49
+		Location:	48.04393 7.31358
+
+(2) - Start 42k & 21k
+	MAPP1
+(3) - 0,9 km 42k & 21k
+	ISA1
+		Images:	629
+		Time:	21.09.2025 08:34:29 until 21.09.2025 09:07:59
+		Duration:	00:33:30
+		Location:	48.07918 7.35455
+
+	ISA1LS2
+		Images:	169
+		Time:	21.09.2025 08:12:57 until 21.09.2025 09:10:33
+		Duration:	00:57:36
+		Location:	48.07918 7.35455
+
+	ISA1LS1
+		Images:	195
+		Time:	21.09.2025 09:18:01 until 21.09.2025 10:05:30
+		Duration:	00:47:29
+		Location:	48.07918 7.35455
+
+(4) - 1,5 km & 19,5 km 42k & 21k
+	MRO1
+		Images:	7626
+		Time:	21.09.2025 08:14:41 until 21.09.2025 11:38:23
+		Duration:	03:23:42
+		Location:	48.08674 7.34392
+
+(5) - 3,5 km 42k & 21k
+	EVL1
+		Images:	3885
+		Time:	21.09.2025 07:52:38 until 21.09.2025 09:35:30
+		Duration:	01:42:52
+		Location:	48.09591 7.32830
+
+	EVL1LS1
+		Images:	1895
+		Time:	21.09.2025 08:04:11 until 21.09.2025 09:37:31
+		Duration:	01:33:20
+		Location:	48.09591 7.32830
+
+(6) - 12,3 km 42k & 21k
+	MAWI1
+		Images:	8185
+		Time:	01.01.0001 23:00:00 until 21.09.2025 11:04:10
+		Duration:	739513.12:04:10
+		Location:	48.12961 7.31056
+
+	MAWI1LS2
+		Images:	3220
+		Time:	21.09.2025 08:50:02 until 21.09.2025 11:06:54
+		Duration:	02:16:52
+		Location:	48.12961 7.31056
+
+	MAWI1LS1
+		Images:	3332
+		Time:	21.09.2025 08:48:42 until 21.09.2025 11:06:51
+		Duration:	02:18:09
+		Location:	48.12961 7.31056
+
+(7) - 35,5 km 42k
+	MAMO2
+		Images:	2559
+		Time:	21.09.2025 10:57:02 until 21.09.2025 13:35:14
+		Duration:	02:38:12
+		Location:	48.03554 7.34804
+
+(8) - 40,5 km 42k / 8,5 km 21k
+	MRO2
+		Images:	2060
+		Time:	21.09.2025 12:13:01 until 21.09.2025 14:16:41
+		Duration:	02:03:40
+		Location:	48.06406 7.35387
+
+(9) - 41,8 km 42k / 8,5 km 21k
+	EVL2
+		Images:	2616
+		Time:	21.09.2025 11:14:00 until 21.09.2025 13:53:05
+		Duration:	02:39:05
+		Location:	48.06585 7.35091
+
+	EVL2LS1
+		Images:	816
+		Time:	21.09.2025 11:20:58 until 21.09.2025 13:52:05
+		Duration:	02:31:07
+		Location:	48.06585 7.35091
+
+(10) - 42,0 km 42k / 9,7 km 21k
+	ISA2
+		Images:	3587
+		Time:	21.09.2025 10:31:01 until 21.09.2025 14:24:05
+		Duration:	03:53:04
+		Location:	48.06950 7.34842
+
+	ISA2LS2
+		Images:	1500
+		Time:	21.09.2025 10:14:08 until 21.09.2025 14:19:14
+		Duration:	04:05:06
+		Location:	48.06950 7.34842
+
+	ISA2LS1
+(11) - Finish
+	MAPP2
+		Images:	4181
+		Time:	21.09.2025 08:10:09 until 21.09.2025 14:31:40
+		Duration:	06:21:31
+		Location:	48.07611 7.35329
+
+	MAPP2LS1
+	MAWI2
+		Images:	4181
+		Time:	21.09.2025 08:10:09 until 21.09.2025 14:31:40
+		Duration:	06:21:31
+		Location:	48.07611 7.35329
+
+	MAWI2LS2
+		Images:	338
+		Time:	21.09.2025 12:06:37 until 21.09.2025 12:54:12
+		Duration:	00:47:35
+		Location:	48.07611 7.35329
+
+	MAWI2LS1
+		Images:	496
+		Time:	21.09.2025 12:03:25 until 21.09.2025 13:01:12
+		Duration:	00:57:47
+		Location:	48.07611 7.35329
+
+(12) - Impressions / Pano
+	PANO1

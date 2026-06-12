@@ -1,0 +1,117 @@
+EventId: 14698
+Spots: 17
+Total Images: 83820
+Time:	19.07.2025 06:57:57 to 20.07.2025 14:44:20
+Duration: 1.07:46:23
+
+(1) - Obstacle 12 INVERTED WALL
+	IZZY1
+		Images:	4556
+		Time:	19.07.2025 06:57:57 until 20.07.2025 13:00:38
+		Duration:	1.06:02:41
+		Location:	43.05061 -85.50824
+
+(2) - Obstacle 13 MULTI-RIG
+	ELPA1
+		Images:	7572
+		Time:	19.07.2025 07:26:56 until 20.07.2025 13:04:21
+		Duration:	1.05:37:25
+		Location:	43.05305 -85.50726
+
+	JBB1
+		Images:	10190
+		Time:	20.07.2025 07:05:34 until 20.07.2025 12:35:17
+		Duration:	05:29:43
+		Location:	43.05305 -85.50726
+
+(3) - Obstacle 14 BUCKET CARRY
+	AWES1
+		Images:	7805
+		Time:	19.07.2025 07:18:34 until 19.07.2025 13:12:21
+		Duration:	05:53:47
+		Location:	43.05283 -85.50640
+
+(4) - Impressions / Pano
+	AWES1DRONE1
+		Images:	59
+		Time:	19.07.2025 08:56:33 until 20.07.2025 13:26:46
+		Duration:	1.04:30:13
+		Location:	43.05393 -85.50160
+
+	CCZ1
+		Images:	426
+		Time:	19.07.2025 10:31:43 until 20.07.2025 08:26:40
+		Duration:	21:54:57
+		Location:	43.05393 -85.50160
+
+(5) - Obstacle 15 ROLLING MUD
+	LIT1
+		Images:	5654
+		Time:	19.07.2025 07:17:30 until 20.07.2025 13:16:29
+		Duration:	1.05:58:59
+		Location:	43.05349 -85.50437
+
+(6) - Obstacle 17 SLIP WALL
+	JAYP1
+		Images:	4241
+		Time:	19.07.2025 07:38:21 until 20.07.2025 13:24:18
+		Duration:	1.05:45:57
+		Location:	43.05397 -85.50305
+
+(7) - Obstacle 21 CLIFF CLIMB
+	KAH1
+		Images:	4777
+		Time:	19.07.2025 08:18:29 until 20.07.2025 13:53:03
+		Duration:	1.05:34:34
+		Location:	43.05063 -85.50380
+
+(8) - Obstacle 25 SANDBAG CARRY
+	MCKR1
+		Images:	5364
+		Time:	20.07.2025 07:34:16 until 20.07.2025 14:16:52
+		Duration:	06:42:36
+		Location:	43.05267 -85.50337
+
+(9) - Obstacle 19 HERCULES HOIST
+	NORA1
+		Images:	2555
+		Time:	20.07.2025 07:20:47 until 20.07.2025 13:29:57
+		Duration:	06:09:10
+		Location:	43.05322 -85.50146
+
+	SARC2
+		Images:	4859
+		Time:	19.07.2025 13:47:21 until 20.07.2025 13:30:04
+		Duration:	23:42:43
+		Location:	43.05322 -85.50146
+
+(10) - Obstacle 26 A-FRAME CARGO
+	ISAK1
+		Images:	5737
+		Time:	19.07.2025 07:15:29 until 20.07.2025 14:30:54
+		Duration:	1.07:15:25
+		Location:	43.05390 -85.50243
+
+(11) - Obstacle 23 ROPE CLIMB
+	VICY1
+		Images:	6135
+		Time:	19.07.2025 07:21:12 until 20.07.2025 14:00:00
+		Duration:	1.06:38:48
+		Location:	43.05241 -85.50341
+
+(12) - Obstacle 28 FIRE JUMP
+	DAKK1
+		Images:	5839
+		Time:	20.07.2025 07:36:27 until 20.07.2025 14:34:00
+		Duration:	06:57:33
+		Location:	43.05408 -85.50188
+
+(13) - Herotent
+	AKAS1
+		Images:	8048
+		Time:	19.07.2025 07:39:12 until 20.07.2025 14:44:20
+		Duration:	1.07:05:08
+		Location:	43.05393 -85.50160
+
+(14) - Obstacle 16 DUNK WALL
+	JIMH1

@@ -1,0 +1,54 @@
+EventId: 14778
+Spots: 8
+Total Images: 7076
+Time:	29.05.2025 11:31:23 to 01.06.2025 15:03:45
+Duration: 3.03:32:22
+
+(1) - Zweite Rampe
+	COR1
+		Images:	1414
+		Time:	29.05.2025 11:46:46 until 01.06.2025 12:04:50
+		Duration:	3.00:18:04
+		Location:	47.53426 14.89001
+
+	COR1LS1
+		Images:	204
+		Time:	29.05.2025 11:31:23 until 29.05.2025 17:34:03
+		Duration:	06:02:40
+		Location:	47.53426 14.89001
+
+(2) - Dritte Rampe
+	EP1
+		Images:	617
+		Time:	29.05.2025 16:01:42 until 29.05.2025 17:34:02
+		Duration:	01:32:20
+		Location:	47.53482 14.89230
+
+	EP1LS1
+		Images:	293
+		Time:	29.05.2025 15:58:05 until 29.05.2025 17:36:46
+		Duration:	01:38:41
+		Location:	47.53482 14.89230
+
+(3) - Vierte Rampe
+	EP2
+		Images:	750
+		Time:	29.05.2025 12:00:08 until 29.05.2025 13:34:31
+		Duration:	01:34:23
+		Location:	47.53511 14.89056
+
+(4) - Vierte Rampe Anstieg
+	ASTU1
+		Images:	3698
+		Time:	29.05.2025 11:46:16 until 01.06.2025 13:08:30
+		Duration:	3.01:22:14
+		Location:	47.53511 14.89056
+
+	ASTU2
+		Images:	89
+		Time:	29.05.2025 11:55:52 until 31.05.2025 09:03:46
+		Duration:	1.21:07:54
+		Location:	47.53511 14.89056
+
+(5) - Impressions / Pano
+	PANO1

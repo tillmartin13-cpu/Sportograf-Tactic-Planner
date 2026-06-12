@@ -1,0 +1,382 @@
+EventId: 14464
+Spots: 61
+Total Images: 157120
+Time:	02.10.2025 23:16:52 to 04.10.2025 22:55:56
+Duration: 1.23:39:04
+
+(1) - Medalwall Hero Wall
+	AOLI1
+		Images:	575
+		Time:	03.10.2025 07:50:25 until 04.10.2025 14:01:02
+		Duration:	1.06:10:37
+		Location:	43.63589 -79.41201
+
+	HAMK4
+		Images:	1346
+		Time:	04.10.2025 11:00:13 until 04.10.2025 21:04:38
+		Duration:	10:04:25
+		Location:	43.63589 -79.41201
+
+	MYJO1
+		Images:	1088
+		Time:	03.10.2025 07:40:27 until 04.10.2025 14:00:30
+		Duration:	1.06:20:03
+		Location:	43.63589 -79.41201
+
+	NIMA3
+		Images:	166
+		Time:	04.10.2025 10:58:24 until 04.10.2025 17:29:48
+		Duration:	06:31:24
+		Location:	43.63589 -79.41201
+
+	PNR2
+		Images:	1203
+		Time:	04.10.2025 14:49:31 until 04.10.2025 22:55:56
+		Duration:	08:06:25
+		Location:	43.63635 -79.41816
+
+	SNR2
+		Images:	1371
+		Time:	04.10.2025 14:53:23 until 04.10.2025 20:24:12
+		Duration:	05:30:49
+		Location:	43.63635 -79.41816
+
+(2) - Station 8 Wall Balls
+	AOLI2
+		Images:	1876
+		Time:	04.10.2025 14:46:00 until 04.10.2025 22:40:18
+		Duration:	07:54:18
+		Location:	43.63635 -79.41816
+
+	CCZ4
+		Images:	1726
+		Time:	03.10.2025 07:43:58 until 04.10.2025 18:00:47
+		Duration:	1.10:16:49
+		Location:	43.63589 -79.41201
+
+	GIP4
+		Images:	3047
+		Time:	04.10.2025 11:01:01 until 04.10.2025 20:55:42
+		Duration:	09:54:41
+		Location:	43.63589 -79.41201
+
+	MYJO2
+		Images:	2651
+		Time:	04.10.2025 14:43:31 until 04.10.2025 22:54:48
+		Duration:	08:11:17
+		Location:	43.63635 -79.41816
+
+	PNR1
+		Images:	1707
+		Time:	04.10.2025 07:57:12 until 04.10.2025 14:01:11
+		Duration:	06:03:59
+		Location:	43.63589 -79.41201
+
+	SNR1
+		Images:	2454
+		Time:	04.10.2025 07:57:01 until 04.10.2025 13:59:53
+		Duration:	06:02:52
+		Location:	43.63589 -79.41201
+
+(3) - Station 3 Sled Pull
+	CALO1
+		Images:	1807
+		Time:	04.10.2025 08:07:23 until 04.10.2025 21:20:38
+		Duration:	13:13:15
+		Location:	43.63589 -79.41201
+
+	CCZ2
+		Images:	1840
+		Time:	04.10.2025 09:41:35 until 04.10.2025 20:50:56
+		Duration:	11:09:21
+		Location:	43.63589 -79.41201
+
+	EUGP1
+		Images:	2410
+		Time:	03.10.2025 08:36:57 until 04.10.2025 14:53:30
+		Duration:	1.06:16:33
+		Location:	43.63589 -79.41201
+
+	GIP6
+		Images:	1783
+		Time:	04.10.2025 09:36:29 until 04.10.2025 19:40:12
+		Duration:	10:03:43
+		Location:	43.63635 -79.41816
+
+	HAMK2
+		Images:	1830
+		Time:	04.10.2025 09:37:28 until 04.10.2025 19:32:55
+		Duration:	09:55:27
+		Location:	43.63589 -79.41201
+
+	HOYO2
+		Images:	982
+		Time:	04.10.2025 15:08:43 until 04.10.2025 21:09:00
+		Duration:	06:00:17
+		Location:	43.63635 -79.41816
+
+	MAVA2
+		Images:	4382
+		Time:	04.10.2025 15:07:39 until 04.10.2025 21:07:55
+		Duration:	06:00:16
+		Location:	43.63635 -79.41816
+
+	YEP1
+		Images:	2183
+		Time:	03.10.2025 08:48:03 until 04.10.2025 15:06:15
+		Duration:	1.06:18:12
+		Location:	43.63589 -79.41201
+
+(4) - Finish
+	CASS1
+		Images:	2399
+		Time:	04.10.2025 08:30:04 until 04.10.2025 14:15:06
+		Duration:	05:45:02
+		Location:	43.63589 -79.41201
+
+	GIP1
+		Images:	1160
+		Time:	04.10.2025 12:01:48 until 04.10.2025 21:08:19
+		Duration:	09:06:31
+		Location:	43.63589 -79.41201
+
+	GIP3LS2
+		Images:	4293
+		Time:	04.10.2025 08:11:24 until 04.10.2025 22:36:25
+		Duration:	14:25:01
+		Location:	43.63589 -79.41201
+
+	GIP3LS3
+		Images:	3046
+		Time:	04.10.2025 07:46:55 until 04.10.2025 22:37:03
+		Duration:	14:50:08
+		Location:	43.63589 -79.41201
+
+	HLN2
+		Images:	4346
+		Time:	02.10.2025 23:16:52 until 04.10.2025 22:54:29
+		Duration:	1.23:37:37
+		Location:	43.63635 -79.41816
+
+	NIMA5
+		Images:	438
+		Time:	04.10.2025 09:17:12 until 04.10.2025 14:55:41
+		Duration:	05:38:29
+		Location:	43.63635 -79.41816
+
+(5) - Station 1 Skierg
+	CASS2
+		Images:	3587
+		Time:	04.10.2025 15:14:20 until 04.10.2025 20:38:11
+		Duration:	05:23:51
+		Location:	43.63635 -79.41816
+
+	CCZ1
+		Images:	955
+		Time:	04.10.2025 08:59:24 until 04.10.2025 15:47:21
+		Duration:	06:47:57
+		Location:	43.63589 -79.41201
+
+	CSH1
+		Images:	2583
+		Time:	03.10.2025 07:39:48 until 04.10.2025 15:14:11
+		Duration:	1.07:34:23
+		Location:	43.63589 -79.41201
+
+	DPO1
+		Images:	4517
+		Time:	03.10.2025 07:40:02 until 04.10.2025 15:00:42
+		Duration:	1.07:20:40
+		Location:	43.63589 -79.41201
+
+	EUGP2
+		Images:	3550
+		Time:	04.10.2025 15:01:02 until 04.10.2025 20:38:04
+		Duration:	05:37:02
+		Location:	43.63635 -79.41816
+
+	GIP5
+		Images:	1056
+		Time:	04.10.2025 09:03:39 until 04.10.2025 14:56:42
+		Duration:	05:53:03
+		Location:	43.63635 -79.41816
+
+	HAMK1
+		Images:	1409
+		Time:	04.10.2025 08:14:03 until 04.10.2025 18:56:33
+		Duration:	10:42:30
+		Location:	43.63589 -79.41201
+
+	JSS1
+		Images:	6002
+		Time:	04.10.2025 08:03:57 until 04.10.2025 15:01:53
+		Duration:	06:57:56
+		Location:	43.63589 -79.41201
+
+	NIMA1
+		Images:	1093
+		Time:	03.10.2025 10:51:58 until 04.10.2025 18:57:12
+		Duration:	1.08:05:14
+		Location:	43.63589 -79.41201
+
+	YEP2
+		Images:	3249
+		Time:	04.10.2025 15:14:25 until 04.10.2025 20:37:53
+		Duration:	05:23:28
+		Location:	43.63635 -79.41816
+
+(6) - Station 2 Sled Push
+	CASS3
+		Images:	101
+		Time:	04.10.2025 14:38:28 until 04.10.2025 14:58:43
+		Duration:	00:20:15
+		Location:	43.63635 -79.41816
+
+	CSH2
+		Images:	1169
+		Time:	04.10.2025 15:16:08 until 04.10.2025 20:52:52
+		Duration:	05:36:44
+		Location:	43.63635 -79.41816
+
+	CUW2
+		Images:	2240
+		Time:	04.10.2025 15:41:09 until 04.10.2025 20:50:09
+		Duration:	05:09:00
+		Location:	43.63635 -79.41816
+
+	DMED1
+		Images:	1111
+		Time:	04.10.2025 08:11:09 until 04.10.2025 14:48:10
+		Duration:	06:37:01
+		Location:	43.63589 -79.41201
+
+	DPO2
+		Images:	1696
+		Time:	04.10.2025 15:06:04 until 04.10.2025 20:53:00
+		Duration:	05:46:56
+		Location:	43.63635 -79.41816
+
+	ERIC1
+		Images:	1372
+		Time:	04.10.2025 08:11:15 until 04.10.2025 14:36:09
+		Duration:	06:24:54
+		Location:	43.63589 -79.41201
+
+	JSS2
+		Images:	2396
+		Time:	04.10.2025 15:02:25 until 04.10.2025 20:48:09
+		Duration:	05:45:44
+		Location:	43.63635 -79.41816
+
+	LHBC1
+		Images:	6802
+		Time:	03.10.2025 07:49:11 until 04.10.2025 14:56:30
+		Duration:	1.07:07:19
+		Location:	43.63589 -79.41201
+
+	VICY1
+		Images:	3637
+		Time:	04.10.2025 08:13:39 until 04.10.2025 14:45:08
+		Duration:	06:31:29
+		Location:	43.63589 -79.41201
+
+(7) - Station 7 Sandbag Lunges
+	CCZ3
+		Images:	1401
+		Time:	04.10.2025 10:19:01 until 04.10.2025 13:52:11
+		Duration:	03:33:10
+		Location:	43.63589 -79.41201
+
+	GIP3
+		Images:	1683
+		Time:	04.10.2025 10:27:01 until 04.10.2025 20:27:31
+		Duration:	10:00:30
+		Location:	43.63589 -79.41201
+
+	HAMK5
+		Images:	44
+		Time:	04.10.2025 19:01:10 until 04.10.2025 19:02:46
+		Duration:	00:01:36
+		Location:	43.63635 -79.41816
+
+	HOYO1
+		Images:	1396
+		Time:	03.10.2025 07:54:16 until 04.10.2025 15:05:50
+		Duration:	1.07:11:34
+		Location:	43.63589 -79.41201
+
+	LHBC2
+		Images:	9370
+		Time:	03.10.2025 14:01:26 until 04.10.2025 22:18:31
+		Duration:	1.08:17:05
+		Location:	43.63635 -79.41816
+
+	MAVA1
+		Images:	7577
+		Time:	04.10.2025 08:02:03 until 04.10.2025 15:01:50
+		Duration:	06:59:47
+		Location:	43.63589 -79.41201
+
+	VICY2
+		Images:	10071
+		Time:	04.10.2025 14:50:39 until 04.10.2025 22:22:52
+		Duration:	07:32:13
+		Location:	43.63635 -79.41816
+
+(8) - Station 5 Rowing
+	CUW1
+		Images:	4011
+		Time:	04.10.2025 08:34:27 until 04.10.2025 14:52:02
+		Duration:	06:17:35
+		Location:	43.63589 -79.41201
+
+	DMED2
+		Images:	3013
+		Time:	04.10.2025 14:57:51 until 04.10.2025 21:32:03
+		Duration:	06:34:12
+		Location:	43.63635 -79.41816
+
+	ERIC2
+		Images:	4219
+		Time:	03.10.2025 14:01:52 until 04.10.2025 21:50:03
+		Duration:	1.07:48:11
+		Location:	43.63635 -79.41816
+
+	HAMK3
+		Images:	1713
+		Time:	04.10.2025 10:17:34 until 04.10.2025 20:17:37
+		Duration:	10:00:03
+		Location:	43.63589 -79.41201
+
+	HLN1
+		Images:	3718
+		Time:	04.10.2025 08:33:40 until 04.10.2025 14:44:42
+		Duration:	06:11:02
+		Location:	43.63589 -79.41201
+
+	NIMA2
+		Images:	1399
+		Time:	04.10.2025 10:21:30 until 04.10.2025 20:19:59
+		Duration:	09:58:29
+		Location:	43.63589 -79.41201
+
+(9) - Station 6 Farmers Carry
+	GIP3LS1
+		Images:	2571
+		Time:	04.10.2025 07:37:55 until 04.10.2025 22:24:54
+		Duration:	14:46:59
+		Location:	43.63589 -79.41201
+
+	NIMA3LS1
+		Images:	4085
+		Time:	04.10.2025 07:47:06 until 04.10.2025 22:30:06
+		Duration:	14:43:00
+		Location:	43.63589 -79.41201
+
+(10) - Venue
+	NIMA4
+		Images:	213
+		Time:	04.10.2025 09:00:14 until 04.10.2025 14:12:59
+		Duration:	05:12:45
+		Location:	43.63635 -79.41816
+

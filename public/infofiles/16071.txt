@@ -1,0 +1,326 @@
+EventId: 16071
+Spots: 52
+Total Images: 335979
+Time:	01.01.0001 23:00:00 to 20.09.2025 21:44:10
+Duration: 739512.22:44:10
+
+(1) - Start
+	LV1IMP1
+		Images:	982
+		Time:	19.09.2025 09:00:17 until 20.09.2025 21:44:10
+		Duration:	1.12:43:53
+		Location:	NULL NULL
+
+(2) - Impressions / Pano
+	MK1IMP1
+		Images:	154
+		Time:	19.09.2025 10:10:05 until 20.09.2025 09:54:36
+		Duration:	23:44:31
+		Location:	50.83876 5.71073
+
+	PANO1
+(3) - SELFIE MIRROR BEFORE START
+	MK1LS3
+		Images:	1592
+		Time:	19.09.2025 07:56:29 until 19.09.2025 21:18:23
+		Duration:	13:21:54
+		Location:	50.83876 5.71073
+
+(4) - Station 1 SKIERG
+	NBA1
+		Images:	9485
+		Time:	01.01.0001 23:00:00 until 19.09.2025 14:52:25
+		Duration:	739511.15:52:25
+		Location:	50.83876 5.71073
+
+	NKR1
+		Images:	6686
+		Time:	04.07.2025 19:46:12 until 20.09.2025 08:06:51
+		Duration:	77.12:20:39
+		Location:	50.83876 5.71073
+
+	JOHE1
+		Images:	25516
+		Time:	19.09.2025 08:04:48 until 19.09.2025 14:47:00
+		Duration:	06:42:12
+		Location:	50.83876 5.71073
+
+	LUGR2
+		Images:	5340
+		Time:	19.09.2025 14:51:39 until 19.09.2025 21:29:02
+		Duration:	06:37:23
+		Location:	50.83876 5.71073
+
+	MBEN2
+		Images:	7456
+		Time:	19.09.2025 15:04:22 until 19.09.2025 21:27:29
+		Duration:	06:23:07
+		Location:	50.83876 5.71073
+
+	FCO2
+		Images:	5269
+		Time:	19.09.2025 14:47:04 until 19.09.2025 21:28:43
+		Duration:	06:41:39
+		Location:	50.83876 5.71073
+
+(5) - Station 2 SLED PUSH
+	RA1
+		Images:	13980
+		Time:	19.09.2025 07:59:13 until 19.09.2025 14:38:26
+		Duration:	06:39:13
+		Location:	50.83876 5.71073
+
+	BENL1
+		Images:	4102
+		Time:	19.09.2025 08:11:57 until 19.09.2025 14:39:21
+		Duration:	06:27:24
+		Location:	50.83876 5.71073
+
+	KFK1
+		Images:	4945
+		Time:	19.09.2025 08:06:26 until 19.09.2025 14:45:41
+		Duration:	06:39:15
+		Location:	50.83876 5.71073
+
+	ACCA2
+		Images:	8713
+		Time:	19.09.2025 14:55:26 until 20.09.2025 14:55:19
+		Duration:	23:59:53
+		Location:	50.83876 5.71073
+
+	PBO2
+		Images:	5751
+		Time:	19.09.2025 14:57:31 until 19.09.2025 21:36:52
+		Duration:	06:39:21
+		Location:	50.83876 5.71073
+
+	LMC2
+		Images:	5938
+		Time:	19.09.2025 14:55:45 until 19.09.2025 21:37:30
+		Duration:	06:41:45
+		Location:	50.83876 5.71073
+
+(6) - STATION 2-3 RUN OUT
+	MK1LS1
+		Images:	4430
+		Time:	19.09.2025 08:10:06 until 19.09.2025 19:25:01
+		Duration:	11:14:55
+		Location:	50.83876 5.71073
+
+	MK1LS2
+		Images:	5003
+		Time:	19.09.2025 08:11:30 until 19.09.2025 21:49:01
+		Duration:	13:37:31
+		Location:	50.83876 5.71073
+
+(7) - Station 3 SLED PULL
+	LUGR1
+		Images:	4081
+		Time:	19.09.2025 07:44:13 until 19.09.2025 13:41:43
+		Duration:	05:57:30
+		Location:	50.83876 5.71073
+
+	MBEN1
+		Images:	11582
+		Time:	19.09.2025 08:00:39 until 19.09.2025 14:33:54
+		Duration:	06:33:15
+		Location:	50.83876 5.71073
+
+	FCO1
+		Images:	3321
+		Time:	19.09.2025 08:10:02 until 19.09.2025 14:33:58
+		Duration:	06:23:56
+		Location:	50.83876 5.71073
+
+	WEN2
+		Images:	7697
+		Time:	19.09.2025 15:04:10 until 19.09.2025 21:47:10
+		Duration:	06:43:00
+		Location:	50.83876 5.71073
+
+	SJA2
+		Images:	4253
+		Time:	19.09.2025 14:46:40 until 19.09.2025 21:47:49
+		Duration:	07:01:09
+		Location:	50.83876 5.71073
+
+	FAH2
+		Images:	8072
+		Time:	19.09.2025 15:03:33 until 19.09.2025 21:44:15
+		Duration:	06:40:42
+		Location:	50.83876 5.71073
+
+(8) - Station 5 ROWING
+	WEN1
+		Images:	9627
+		Time:	19.09.2025 08:16:11 until 19.09.2025 14:39:14
+		Duration:	06:23:03
+		Location:	50.83876 5.71073
+
+	LV1
+		Images:	7413
+		Time:	19.09.2025 09:53:36 until 19.09.2025 20:29:15
+		Duration:	10:35:39
+		Location:	50.83876 5.71073
+
+	RM1
+		Images:	12992
+		Time:	19.09.2025 09:34:08 until 19.09.2025 20:30:02
+		Duration:	10:55:54
+		Location:	50.83876 5.71073
+
+	SJA1
+		Images:	4590
+		Time:	19.09.2025 07:47:51 until 19.09.2025 14:38:59
+		Duration:	06:51:08
+		Location:	50.83876 5.71073
+
+	NKR2
+		Images:	5622
+		Time:	19.09.2025 14:40:21 until 19.09.2025 22:07:51
+		Duration:	07:27:30
+		Location:	50.83876 5.71073
+
+	SSW2
+		Images:	8086
+		Time:	19.09.2025 14:54:12 until 19.09.2025 22:09:51
+		Duration:	07:15:39
+		Location:	50.83876 5.71073
+
+(9) - Station 6 FARMERS CARRY
+	LV1LS1
+		Images:	4118
+		Time:	19.09.2025 08:21:43 until 19.09.2025 22:18:02
+		Duration:	13:56:19
+		Location:	50.83876 5.71073
+
+	LV1LS2
+		Images:	6032
+		Time:	19.09.2025 08:27:51 until 19.09.2025 22:26:02
+		Duration:	13:58:11
+		Location:	50.83876 5.71073
+
+(10) - Station 7 SANDBAG LUNGES
+	MSC1
+		Images:	2795
+		Time:	19.09.2025 07:37:31 until 19.09.2025 14:43:50
+		Duration:	07:06:19
+		Location:	50.83876 5.71073
+
+	SSW1
+		Images:	6455
+		Time:	17.09.2025 16:26:40 until 20.09.2025 07:19:35
+		Duration:	2.14:52:55
+		Location:	50.83876 5.71073
+
+	LV2
+		Images:	3701
+		Time:	19.09.2025 10:38:53 until 19.09.2025 20:58:45
+		Duration:	10:19:52
+		Location:	50.83876 5.71073
+
+	RM2
+		Images:	7496
+		Time:	19.09.2025 10:35:00 until 19.09.2025 20:50:50
+		Duration:	10:15:50
+		Location:	50.83876 5.71073
+
+	NBA2
+		Images:	11436
+		Time:	19.09.2025 14:53:44 until 19.09.2025 22:30:22
+		Duration:	07:36:38
+		Location:	50.83876 5.71073
+
+	BENL2
+		Images:	9302
+		Time:	19.09.2025 14:40:16 until 19.09.2025 22:40:07
+		Duration:	07:59:51
+		Location:	50.83876 5.71073
+
+(11) - Station 8 WALLBALLS
+	ACCA1
+		Images:	12923
+		Time:	19.09.2025 07:27:59 until 19.09.2025 14:40:29
+		Duration:	07:12:30
+		Location:	50.83876 5.71073
+
+	LMC1
+		Images:	5515
+		Time:	19.09.2025 07:43:50 until 20.09.2025 07:46:52
+		Duration:	1.00:03:02
+		Location:	50.83876 5.71073
+
+	PBO1
+		Images:	4000
+		Time:	19.09.2025 07:23:35 until 20.09.2025 07:54:43
+		Duration:	1.00:31:08
+		Location:	50.83876 5.71073
+
+	RA2
+		Images:	18792
+		Time:	19.09.2025 14:50:59 until 19.09.2025 22:18:08
+		Duration:	07:27:09
+		Location:	50.83876 5.71073
+
+	KFK2
+		Images:	6483
+		Time:	19.09.2025 14:46:53 until 19.09.2025 22:44:52
+		Duration:	07:57:59
+		Location:	50.83876 5.71073
+
+	MSC2
+		Images:	3417
+		Time:	19.09.2025 14:45:49 until 19.09.2025 22:46:26
+		Duration:	08:00:37
+		Location:	50.83876 5.71073
+
+(12) - Finish
+	FAH1
+		Images:	3465
+		Time:	19.09.2025 07:34:20 until 19.09.2025 14:44:26
+		Duration:	07:10:06
+		Location:	50.83876 5.71073
+
+	MK1
+		Images:	1911
+		Time:	19.09.2025 10:26:42 until 19.09.2025 18:32:44
+		Duration:	08:06:02
+		Location:	50.83876 5.71073
+
+	OT2
+		Images:	7864
+		Time:	19.09.2025 14:40:58 until 19.09.2025 22:58:58
+		Duration:	08:18:00
+		Location:	50.83876 5.71073
+
+	LV3
+		Images:	977
+		Time:	19.09.2025 16:29:28 until 19.09.2025 21:22:26
+		Duration:	04:52:58
+		Location:	50.83876 5.71073
+
+	RM1LS1
+		Images:	2986
+		Time:	19.09.2025 08:33:58 until 19.09.2025 22:58:00
+		Duration:	14:24:02
+		Location:	50.83876 5.71073
+
+	RM1LS2
+		Images:	3356
+		Time:	19.09.2025 08:19:22 until 19.09.2025 22:52:51
+		Duration:	14:33:29
+		Location:	50.83876 5.71073
+
+(13) - Medalwall
+	OT1
+		Images:	3597
+		Time:	19.09.2025 07:53:51 until 19.09.2025 14:37:46
+		Duration:	06:43:55
+		Location:	50.83876 5.71073
+
+	JOHE2
+		Images:	6679
+		Time:	19.09.2025 14:38:10 until 19.09.2025 23:03:43
+		Duration:	08:25:33
+		Location:	50.83876 5.71073
+

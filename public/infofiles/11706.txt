@@ -1,0 +1,67 @@
+EventId: 11706
+Spots: 9
+Total Images: 4003
+Time:	16.02.2025 04:34:03 to 16.02.2025 14:28:17
+Duration: 09:54:14
+
+(1) - 43.3 km Jalan Kuncaragiri
+	BIC1
+		Images:	880
+		Time:	16.02.2025 06:50:05 until 16.02.2025 08:21:59
+		Duration:	01:31:54
+		Location:	NULL NULL
+
+	BIC1LS1
+		Images:	578
+		Time:	16.02.2025 06:42:40 until 16.02.2025 08:00:28
+		Duration:	01:17:48
+		Location:	NULL NULL
+
+(2) - Impressions / Pano
+	BIC1DRONE1
+		Images:	36
+		Time:	16.02.2025 09:14:49 until 16.02.2025 09:21:12
+		Duration:	00:06:23
+		Location:	NULL NULL
+
+(3) - 77 km|127.2 km Akah Village
+	BIC2
+		Images:	315
+		Time:	16.02.2025 10:08:26 until 16.02.2025 13:29:10
+		Duration:	03:20:44
+		Location:	NULL NULL
+
+	BIC2LS1
+		Images:	204
+		Time:	16.02.2025 09:57:48 until 16.02.2025 12:29:29
+		Duration:	02:31:41
+		Location:	NULL NULL
+
+(4) - 9.0 km Pantai Wates Karangasem
+	JOMA1
+		Images:	395
+		Time:	16.02.2025 05:11:29 until 16.02.2025 06:01:56
+		Duration:	00:50:27
+		Location:	NULL NULL
+
+(5) - Finish
+	JOMA2
+		Images:	671
+		Time:	16.02.2025 06:19:18 until 16.02.2025 14:28:17
+		Duration:	08:08:59
+		Location:	NULL NULL
+
+(6) - Start
+	PEH1
+		Images:	293
+		Time:	16.02.2025 04:34:03 until 16.02.2025 05:42:15
+		Duration:	01:08:12
+		Location:	NULL NULL
+
+(7) - 70.9 km|121.1 km Bukit Jambul downhill
+	PEH2
+		Images:	631
+		Time:	16.02.2025 05:53:41 until 16.02.2025 13:50:24
+		Duration:	07:56:43
+		Location:	NULL NULL
+

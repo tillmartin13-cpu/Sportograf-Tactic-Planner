@@ -1,0 +1,150 @@
+EventId: 14665
+Spots: 22
+Total Images: 71333
+Time:	13.09.2025 07:23:31 to 14.09.2025 15:23:12
+Duration: 1.07:59:41
+
+(1) - Obstacle 7 Traverse Wall
+	AAD1
+		Images:	5859
+		Time:	13.09.2025 07:54:56 until 14.09.2025 13:04:15
+		Duration:	1.05:09:19
+		Location:	43.61544 -72.78697
+
+	VICY2
+		Images:	806
+		Time:	14.09.2025 10:46:25 until 14.09.2025 10:59:44
+		Duration:	00:13:19
+		Location:	43.61544 -72.78697
+
+(2) - Obstacle 8 Atlas Carry
+	EUGP1
+		Images:	2193
+		Time:	13.09.2025 08:31:32 until 14.09.2025 13:01:12
+		Duration:	1.04:29:40
+		Location:	43.61515 -72.78678
+
+	YEP1
+		Images:	3362
+		Time:	14.09.2025 07:51:09 until 14.09.2025 12:53:59
+		Duration:	05:02:50
+		Location:	43.61515 -72.78678
+
+(3) - Obstacle 9 A-Frame Cargo
+	WMY1
+		Images:	3862
+		Time:	13.09.2025 07:41:03 until 14.09.2025 13:05:03
+		Duration:	1.05:24:00
+		Location:	43.61513 -72.78725
+
+	VICY3
+		Images:	1163
+		Time:	14.09.2025 11:01:01 until 14.09.2025 11:15:33
+		Duration:	00:14:32
+		Location:	43.61513 -72.78725
+
+(4) - Obstacle 11 Barbed Wire Crawl
+	JASP1
+		Images:	3106
+		Time:	13.09.2025 08:51:04 until 14.09.2025 13:09:24
+		Duration:	1.04:18:20
+		Location:	43.61497 -72.78902
+
+	VICY4
+		Images:	454
+		Time:	14.09.2025 11:19:40 until 14.09.2025 11:26:26
+		Duration:	00:06:46
+		Location:	43.61497 -72.78902
+
+(5) - Obstacle 12 Dunk Wall
+	JAYK1
+		Images:	2839
+		Time:	13.09.2025 09:49:58 until 14.09.2025 13:10:59
+		Duration:	1.03:21:01
+		Location:	43.61502 -72.78927
+
+	VICY5
+		Images:	604
+		Time:	14.09.2025 11:27:28 until 14.09.2025 11:34:22
+		Duration:	00:06:54
+		Location:	43.61502 -72.78927
+
+(6) - Obstacle 13 Slip Wall
+	JAYA1
+		Images:	5837
+		Time:	13.09.2025 07:54:47 until 14.09.2025 13:11:53
+		Duration:	1.05:17:06
+		Location:	43.61508 -72.78941
+
+	VICY6
+		Images:	828
+		Time:	14.09.2025 11:38:38 until 14.09.2025 11:50:17
+		Duration:	00:11:39
+		Location:	43.61508 -72.78941
+
+(7) - Obstacle 31 Sandbag Carry #2
+	PEC1
+		Images:	13665
+		Time:	13.09.2025 07:23:31 until 14.09.2025 15:15:06
+		Duration:	1.07:51:35
+		Location:	43.60344 -72.78366
+
+	VICY7
+		Images:	525
+		Time:	14.09.2025 12:26:43 until 14.09.2025 12:40:17
+		Duration:	00:13:34
+		Location:	43.60344 -72.78366
+
+(8) - Obstacle 33 Multi-Rig
+	LMB1
+		Images:	2871
+		Time:	14.09.2025 07:39:04 until 14.09.2025 15:12:13
+		Duration:	07:33:09
+		Location:	43.60217 -72.78459
+
+	SWDY1
+		Images:	7048
+		Time:	14.09.2025 07:22:43 until 14.09.2025 15:20:56
+		Duration:	07:58:13
+		Location:	43.60217 -72.78459
+
+(9) - Finish
+	LMB1LS1
+		Images:	1842
+		Time:	14.09.2025 07:34:40 until 14.09.2025 15:08:21
+		Duration:	07:33:41
+		Location:	43.60155 -72.78353
+
+(10) - Obstacle 35 Fire Jump
+	ANMF1
+		Images:	7452
+		Time:	14.09.2025 08:25:33 until 14.09.2025 15:00:11
+		Duration:	06:34:38
+		Location:	43.60211 -72.78416
+
+	VICY9
+		Images:	934
+		Time:	14.09.2025 12:40:48 until 14.09.2025 12:55:12
+		Duration:	00:14:24
+		Location:	43.60211 -72.78416
+
+(11) - Herotent
+	MRKE1
+		Images:	5397
+		Time:	14.09.2025 08:34:43 until 14.09.2025 15:23:12
+		Duration:	06:48:29
+		Location:	43.60194 -72.78427
+
+	VICY8
+		Images:	406
+		Time:	14.09.2025 12:55:20 until 14.09.2025 13:11:08
+		Duration:	00:15:48
+		Location:	43.60194 -72.78427
+
+(12) - Venue
+	VICY1
+		Images:	280
+		Time:	13.09.2025 08:48:19 until 14.09.2025 10:29:49
+		Duration:	1.01:41:30
+		Location:	43.60217 -72.78459
+

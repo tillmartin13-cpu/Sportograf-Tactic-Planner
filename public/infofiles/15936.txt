@@ -1,0 +1,42 @@
+EventId: 15936
+Spots: 9
+Total Images: 9010
+Time:	06.04.2025 07:48:09 to 06.04.2025 12:21:59
+Duration: 04:33:50
+
+(1) - Impressions / Pano
+	PANO1
+(2) - none
+	ROB1
+		Images:	77
+		Time:	06.04.2025 07:48:09 until 06.04.2025 09:19:29
+		Duration:	01:31:20
+		Location:	NULL NULL
+
+	ROB2
+		Images:	503
+		Time:	06.04.2025 07:59:38 until 06.04.2025 08:20:14
+		Duration:	00:20:36
+		Location:	NULL NULL
+
+	ROB3
+		Images:	6838
+		Time:	06.04.2025 08:55:50 until 06.04.2025 12:21:59
+		Duration:	03:26:09
+		Location:	NULL NULL
+
+	FIN1
+		Images:	297
+		Time:	06.04.2025 08:22:02 until 06.04.2025 08:32:25
+		Duration:	00:10:23
+		Location:	NULL NULL
+
+	FIN2
+	ELI1
+		Images:	1295
+		Time:	06.04.2025 08:01:12 until 06.04.2025 08:52:38
+		Duration:	00:51:26
+		Location:	NULL NULL
+
+	ELI2
+	ELI3

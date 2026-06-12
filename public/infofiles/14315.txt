@@ -1,0 +1,138 @@
+EventId: 14315
+Spots: 19
+Total Images: 38198
+Time:	03.11.2025 04:59:54 to 05.11.2025 13:41:51
+Duration: 2.08:41:57
+
+(1) - Start
+	CRF1
+		Images:	212
+		Time:	03.11.2025 04:59:54 until 03.11.2025 06:24:59
+		Duration:	01:25:05
+		Location:	-34.24785 19.19261
+
+(2) - 31.6 km Stage 1 Downhill Switchbacks
+	TAZ1
+		Images:	3058
+		Time:	03.11.2025 07:04:31 until 03.11.2025 09:52:18
+		Duration:	02:47:47
+		Location:	-34.24099 19.20130
+
+(3) - 32.5 km Stage 1 Valley View
+	JHI1LS1
+		Images:	1327
+		Time:	03.11.2025 06:18:45 until 03.11.2025 10:07:59
+		Duration:	03:49:14
+		Location:	-34.24785 19.19261
+
+(4) - 34.7 km Stage 1 Vineyard View
+	JHI1
+		Images:	2371
+		Time:	03.11.2025 06:38:47 until 03.11.2025 10:15:16
+		Duration:	03:36:29
+		Location:	-34.24099 19.20130
+
+(5) - 50.8 km Stage 1 Jakkalsvlei Dam
+	CRF2
+		Images:	4759
+		Time:	03.11.2025 07:46:34 until 03.11.2025 13:01:41
+		Duration:	05:15:07
+		Location:	-34.16624 19.12256
+
+(6) - 50.8 km Stage 1 Jakkalsvlei Drone
+	CRF2IMP1
+		Images:	18
+		Time:	03.11.2025 07:18:39 until 03.11.2025 09:56:22
+		Duration:	02:37:43
+		Location:	-34.16624 19.12256
+
+(7) - 26.4 km Stage 2 Bridge Approach Single Track
+	TAZ2
+		Images:	2043
+		Time:	04.11.2025 06:50:28 until 04.11.2025 09:23:29
+		Duration:	02:33:01
+		Location:	-34.15433 19.09145
+
+(8) - 26.5 km Stage 2 Rietvlei Magic Bridge
+	JHI2
+		Images:	2672
+		Time:	04.11.2025 06:21:19 until 04.11.2025 09:23:57
+		Duration:	03:02:38
+		Location:	-34.15525 19.08818
+
+(9) - 26.5 km Stage 2 Rietvlei Magic Bridge Exit
+	JHI2LS1
+		Images:	659
+		Time:	04.11.2025 06:49:18 until 04.11.2025 09:22:49
+		Duration:	02:33:31
+		Location:	-34.15525 19.09075
+
+(10) - 65.5 km Stage 2 Wave Rider
+	CRF3
+		Images:	5818
+		Time:	04.11.2025 07:00:40 until 04.11.2025 12:59:54
+		Duration:	05:59:14
+		Location:	-34.15621 19.05351
+
+(11) - 65.5 km Stage 2 Wave Rider Drone
+	CRF3DRONE1
+		Images:	22
+		Time:	04.11.2025 07:07:17 until 04.11.2025 11:32:10
+		Duration:	04:24:53
+		Location:	-34.15621 19.05351
+
+(12) - 42.0 km Cowboytown Approach
+	JHI3LS1
+		Images:	137
+		Time:	05.11.2025 07:03:26 until 05.11.2025 08:42:35
+		Duration:	01:39:09
+		Location:	-34.05217 18.93723
+
+(13) - 42.1 km Cowboy Town
+	JHI3
+		Images:	2771
+		Time:	05.11.2025 06:30:13 until 05.11.2025 11:26:54
+		Duration:	04:56:41
+		Location:	-34.05217 18.93723
+
+(14) - 42.8 km Single Track Berm
+	TAZ3
+		Images:	2851
+		Time:	05.11.2025 07:03:15 until 05.11.2025 11:29:40
+		Duration:	04:26:25
+		Location:	-34.05102 18.93407
+
+(15) - 60.8 km Forsest Track
+	CRF4
+		Images:	5223
+		Time:	05.11.2025 08:16:26 until 05.11.2025 13:33:54
+		Duration:	05:17:28
+		Location:	-34.05658 18.88340
+
+(16) - 60.8 km Forest Track
+	CRF4DRONE1
+		Images:	60
+		Time:	05.11.2025 06:16:36 until 05.11.2025 07:08:15
+		Duration:	00:51:39
+		Location:	-34.05658 18.88340
+
+(17) - Finish
+	SAKE1
+		Images:	3710
+		Time:	05.11.2025 06:36:16 until 05.11.2025 13:40:51
+		Duration:	07:04:35
+		Location:	-34.06487 18.88971
+
+	SAKE1LS1
+		Images:	486
+		Time:	05.11.2025 05:43:11 until 05.11.2025 13:41:51
+		Duration:	07:58:40
+		Location:	-34.06487 18.88971
+
+(18) - Impressions / Pano
+	PANO1
+		Images:	1
+		Time:	04.11.2025 11:13:42 until 04.11.2025 11:13:42
+		Duration:	00:00:00
+		Location:	-34.15525 19.09075
+

@@ -1,0 +1,100 @@
+EventId: 14965
+Spots: 14
+Total Images: 60308
+Time:	04.09.2025 17:44:51 to 05.09.2025 17:51:11
+Duration: 1.00:06:20
+
+(1) - Obstacle 5 Pallet Jacked
+	MKI1
+		Images:	10230
+		Time:	05.09.2025 05:26:19 until 05.09.2025 15:09:54
+		Duration:	09:43:35
+		Location:	34.22009 -116.86378
+
+(2) - Obstacle 6 Hangin' Tough
+	ALP1
+		Images:	5039
+		Time:	05.09.2025 00:33:02 until 05.09.2025 15:23:11
+		Duration:	14:50:09
+		Location:	34.22467 -116.86355
+
+(3) - Obstacle 12 Cry Baby
+	AGJ1
+		Images:	3234
+		Time:	05.09.2025 07:40:19 until 05.09.2025 16:05:43
+		Duration:	08:25:24
+		Location:	34.22735 -116.86069
+
+(4) - Obstacle 13 Meat Hooks
+	GIP1
+		Images:	4217
+		Time:	05.09.2025 08:05:56 until 05.09.2025 15:49:00
+		Duration:	07:43:04
+		Location:	34.22708 -116.86193
+
+	VMM1
+		Images:	7690
+		Time:	05.09.2025 08:19:12 until 05.09.2025 16:17:02
+		Duration:	07:57:50
+		Location:	34.22708 -116.86193
+
+(5) - Obstacle 14 Potato Sack Trap
+	ANGA1
+		Images:	5823
+		Time:	05.09.2025 06:42:47 until 05.09.2025 16:16:42
+		Duration:	09:33:55
+		Location:	34.22612 -116.86053
+
+(6) - Obstacle 15 Meat Grinder
+	MCAR1
+		Images:	1290
+		Time:	04.09.2025 17:44:51 until 05.09.2025 14:14:15
+		Duration:	20:29:24
+		Location:	34.22521 -116.85920
+
+	MCAR1IMP1
+		Images:	9
+		Time:	05.09.2025 08:36:43 until 05.09.2025 08:38:29
+		Duration:	00:01:46
+		Location:	34.22521 -116.85920
+
+	MCAR1IMP2
+		Images:	15
+		Time:	05.09.2025 17:51:06 until 05.09.2025 17:51:11
+		Duration:	00:00:05
+		Location:	34.22521 -116.85920
+
+	MECA1
+		Images:	3642
+		Time:	05.09.2025 08:15:53 until 05.09.2025 16:24:22
+		Duration:	08:08:29
+		Location:	34.22521 -116.85920
+
+(7) - Obstacle 16 Animal Style
+	DDC1
+		Images:	5565
+		Time:	04.09.2025 21:54:31 until 05.09.2025 16:27:22
+		Duration:	18:32:51
+		Location:	34.22649 -116.86011
+
+(8) - Obstacle 19 MUDDERHORN
+	TUD1
+		Images:	5881
+		Time:	05.09.2025 07:39:41 until 05.09.2025 16:36:17
+		Duration:	08:56:36
+		Location:	34.22773 -116.86196
+
+(9) - Obstacle 20 Electroshock Therapy
+	DVAL1
+		Images:	6349
+		Time:	05.09.2025 05:51:58 until 05.09.2025 16:40:49
+		Duration:	10:48:51
+		Location:	34.22769 -116.86219
+
+(10) - Ceremony
+	AHB1
+		Images:	1324
+		Time:	05.09.2025 06:45:20 until 05.09.2025 15:58:26
+		Duration:	09:13:06
+		Location:	34.22773 -116.86269
+

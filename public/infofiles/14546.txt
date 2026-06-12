@@ -1,0 +1,64 @@
+EventId: 14546
+Spots: 9
+Total Images: 8579
+Time:	06.03.2025 16:53:31 to 06.03.2025 20:33:10
+Duration: 03:39:39
+
+(1) - Schloss Surlej
+	TE1
+		Images:	686
+		Time:	06.03.2025 16:53:31 until 06.03.2025 18:53:46
+		Duration:	02:00:15
+		Location:	46.45922 9.80310
+
+	TE1LS2
+		Images:	101
+		Time:	06.03.2025 17:47:49 until 06.03.2025 18:53:47
+		Duration:	01:05:58
+		Location:	46.45922 9.80310
+
+	TE1LS1
+		Images:	1139
+		Time:	06.03.2025 17:52:58 until 06.03.2025 18:53:37
+		Duration:	01:00:39
+		Location:	46.45922 9.80310
+
+(2) - Hotel Kempinsky
+	MAWI1
+		Images:	959
+		Time:	06.03.2025 17:57:06 until 06.03.2025 19:16:32
+		Duration:	01:19:26
+		Location:	46.48341 9.83433
+
+(3) - Stazersee
+	BECK1
+		Images:	1565
+		Time:	06.03.2025 18:30:05 until 06.03.2025 19:55:01
+		Duration:	01:24:56
+		Location:	46.49642 9.87112
+
+	BECK1LS1
+		Images:	942
+		Time:	06.03.2025 18:22:28 until 06.03.2025 19:55:21
+		Duration:	01:32:53
+		Location:	46.49642 9.87112
+
+(4) - Finish
+	BP1
+		Images:	967
+		Time:	06.03.2025 18:06:44 until 06.03.2025 20:32:26
+		Duration:	02:25:42
+		Location:	46.49447 9.89354
+
+	BP1LS1
+		Images:	749
+		Time:	06.03.2025 18:31:51 until 06.03.2025 20:32:36
+		Duration:	02:00:45
+		Location:	46.49447 9.89354
+
+	BP1LS2
+		Images:	1471
+		Time:	06.03.2025 18:30:16 until 06.03.2025 20:33:10
+		Duration:	02:02:54
+		Location:	46.49447 9.89354
+

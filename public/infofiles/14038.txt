@@ -1,0 +1,226 @@
+EventId: 14038
+Spots: 35
+Total Images: 67924
+Time:	16.07.2025 16:17:18 to 19.07.2025 18:22:15
+Duration: 3.02:04:57
+
+(1) - Start
+	EH1
+		Images:	490
+		Time:	18.07.2025 16:14:20 until 18.07.2025 18:00:42
+		Duration:	01:46:22
+		Location:	47.22019 15.90546
+
+	EH1LS1
+		Images:	11806
+		Time:	19.07.2025 06:11:21 until 19.07.2025 15:51:47
+		Duration:	09:40:26
+		Location:	47.22019 15.90546
+
+	MSI1
+		Images:	725
+		Time:	18.07.2025 16:13:50 until 18.07.2025 22:15:54
+		Duration:	06:02:04
+		Location:	47.22019 15.90546
+
+	MSI1LS1
+		Images:	2184
+		Time:	18.07.2025 16:50:23 until 18.07.2025 21:03:13
+		Duration:	04:12:50
+		Location:	47.22019 15.90546
+
+	MSI4
+		Images:	71
+		Time:	19.07.2025 05:51:08 until 19.07.2025 06:52:54
+		Duration:	01:01:46
+		Location:	47.22153 15.90755
+
+(2) - 1,0 km
+	EH2
+		Images:	2657
+		Time:	18.07.2025 18:20:10 until 18.07.2025 21:11:24
+		Duration:	02:51:14
+		Location:	47.22156 15.90607
+
+	EH2LS1
+		Images:	1628
+		Time:	18.07.2025 18:32:50 until 18.07.2025 20:32:10
+		Duration:	01:59:20
+		Location:	47.22156 15.90607
+
+	MSI10
+		Images:	2219
+		Time:	19.07.2025 12:53:29 until 19.07.2025 14:04:03
+		Duration:	01:10:34
+		Location:	47.21099 15.93439
+
+	MSI10LS1
+		Images:	3098
+		Time:	19.07.2025 13:11:01 until 19.07.2025 14:03:13
+		Duration:	00:52:12
+		Location:	47.21099 15.93439
+
+(3) - 0,2 km
+	EH3
+		Images:	3088
+		Time:	19.07.2025 05:54:35 until 19.07.2025 09:00:05
+		Duration:	03:05:30
+		Location:	47.22153 15.90755
+
+	EH3LS1
+		Images:	2874
+		Time:	19.07.2025 06:08:40 until 19.07.2025 11:27:33
+		Duration:	05:18:53
+		Location:	47.22153 15.90755
+
+(4) - 0,5 km
+	EH4
+		Images:	2003
+		Time:	19.07.2025 09:56:12 until 19.07.2025 11:13:22
+		Duration:	01:17:10
+		Location:	47.22153 15.90755
+
+	EH4LS1
+		Images:	1536
+		Time:	19.07.2025 09:44:13 until 19.07.2025 10:48:48
+		Duration:	01:04:35
+		Location:	47.22153 15.90755
+
+(5) - 12,0 km
+	EH5
+		Images:	2596
+		Time:	19.07.2025 13:17:46 until 19.07.2025 14:46:36
+		Duration:	01:28:50
+		Location:	47.22153 15.90755
+
+	EH5LS1
+		Images:	2166
+		Time:	19.07.2025 13:23:38 until 19.07.2025 14:49:40
+		Duration:	01:26:02
+		Location:	47.22153 15.90755
+
+(6) - Finish
+	EH6
+		Images:	1783
+		Time:	19.07.2025 17:21:16 until 19.07.2025 18:22:15
+		Duration:	01:00:59
+		Location:	47.22019 15.90546
+
+(7) - 11,0 km
+	MSI2
+		Images:	1930
+		Time:	18.07.2025 18:19:55 until 18.07.2025 20:10:54
+		Duration:	01:50:59
+		Location:	47.21730 15.90865
+
+	MSI2LS1
+		Images:	2779
+		Time:	18.07.2025 18:23:50 until 18.07.2025 19:45:27
+		Duration:	01:21:37
+		Location:	47.21730 15.90865
+
+(8) - 1,5 km
+	MSI3
+		Images:	781
+		Time:	18.07.2025 20:12:20 until 18.07.2025 20:45:23
+		Duration:	00:33:03
+		Location:	47.22153 15.90755
+
+	MSI9
+		Images:	1412
+		Time:	19.07.2025 10:38:01 until 19.07.2025 11:05:02
+		Duration:	00:27:01
+		Location:	47.21043 15.91061
+
+(9) - 2,0 km
+	MSI5
+		Images:	1194
+		Time:	19.07.2025 07:02:40 until 19.07.2025 08:11:05
+		Duration:	01:08:25
+		Location:	47.21988 15.90679
+
+	MSI5LS1
+		Images:	683
+		Time:	19.07.2025 08:16:24 until 19.07.2025 08:53:21
+		Duration:	00:36:57
+		Location:	47.21988 15.90679
+
+(10) - 4,0 km
+	MSI6
+		Images:	934
+		Time:	19.07.2025 08:17:06 until 19.07.2025 08:53:11
+		Duration:	00:36:05
+		Location:	47.21301 15.93104
+
+	MSI6LS1
+		Images:	1254
+		Time:	19.07.2025 09:04:20 until 19.07.2025 09:32:57
+		Duration:	00:28:37
+		Location:	47.21301 15.93104
+
+(11) - 5,0 km
+	MSI7
+		Images:	926
+		Time:	19.07.2025 09:01:58 until 19.07.2025 09:35:55
+		Duration:	00:33:57
+		Location:	47.19524 15.92472
+
+	MSI7LS1
+		Images:	1743
+		Time:	19.07.2025 09:47:27 until 19.07.2025 10:05:09
+		Duration:	00:17:42
+		Location:	47.19524 15.92472
+
+(12) - 7,0 km
+	MSI8
+		Images:	1161
+		Time:	19.07.2025 09:36:02 until 19.07.2025 10:37:46
+		Duration:	01:01:44
+		Location:	47.20173 15.90296
+
+	MSI8LS1
+		Images:	3310
+		Time:	19.07.2025 10:05:09 until 19.07.2025 11:05:35
+		Duration:	01:00:26
+		Location:	47.20173 15.90296
+
+	MSI13
+		Images:	1434
+		Time:	19.07.2025 15:19:17 until 19.07.2025 15:43:50
+		Duration:	00:24:33
+		Location:	47.20173 15.90296
+
+	MSI13DRONE1
+		Images:	96
+		Time:	16.07.2025 16:17:18 until 19.07.2025 13:59:58
+		Duration:	2.21:42:40
+		Location:	47.20173 15.90296
+
+(13) - 6,0 km
+	MSI11
+		Images:	1234
+		Time:	19.07.2025 14:16:10 until 19.07.2025 14:45:01
+		Duration:	00:28:51
+		Location:	47.19744 15.90317
+
+	MSI11LS1
+		Images:	2553
+		Time:	19.07.2025 14:14:37 until 19.07.2025 14:45:42
+		Duration:	00:31:05
+		Location:	47.19744 15.90317
+
+(14) - 9,0 km
+	MSI12
+		Images:	1717
+		Time:	19.07.2025 14:50:48 until 19.07.2025 15:10:10
+		Duration:	00:19:22
+		Location:	47.21399 15.90882
+
+	MSI12LS1
+		Images:	1859
+		Time:	19.07.2025 15:18:01 until 19.07.2025 15:45:15
+		Duration:	00:27:14
+		Location:	47.21399 15.90882
+
+(15) - Impressions / Pano
+	PANO1

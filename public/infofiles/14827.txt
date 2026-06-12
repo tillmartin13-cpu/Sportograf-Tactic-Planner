@@ -1,0 +1,340 @@
+EventId: 14827
+Spots: 54
+Total Images: 172569
+Time:	22.03.2025 06:09:51 to 22.03.2025 20:48:24
+Duration: 14:38:33
+
+(1) - Skierg
+	EP1
+		Images:	7459
+		Time:	22.03.2025 07:09:35 until 22.03.2025 13:58:43
+		Duration:	06:49:08
+		Location:	36.70535 -4.46105
+
+	AGAR1
+		Images:	4623
+		Time:	22.03.2025 06:53:53 until 22.03.2025 13:56:06
+		Duration:	07:02:13
+		Location:	36.70535 -4.46105
+
+	IME1
+		Images:	1990
+		Time:	22.03.2025 06:56:20 until 22.03.2025 13:58:15
+		Duration:	07:01:55
+		Location:	36.70535 -4.46105
+
+	CRGA2
+		Images:	2541
+		Time:	22.03.2025 14:14:13 until 22.03.2025 19:19:38
+		Duration:	05:05:25
+		Location:	36.70535 -4.46105
+
+	RSL2
+		Images:	2929
+		Time:	22.03.2025 14:34:37 until 22.03.2025 19:19:31
+		Duration:	04:44:54
+		Location:	36.70535 -4.46105
+
+	OAC2
+		Images:	1628
+		Time:	22.03.2025 14:14:26 until 22.03.2025 19:20:14
+		Duration:	05:05:48
+		Location:	36.70535 -4.46105
+
+	JRP7
+		Images:	161
+		Time:	22.03.2025 08:18:05 until 22.03.2025 14:09:26
+		Duration:	05:51:21
+		Location:	36.70535 -4.46105
+
+	JMP7
+		Images:	129
+		Time:	22.03.2025 13:58:10 until 22.03.2025 14:09:06
+		Duration:	00:10:56
+		Location:	36.70535 -4.46105
+
+	JCFJ5
+		Images:	593
+		Time:	22.03.2025 13:57:45 until 22.03.2025 14:08:51
+		Duration:	00:11:06
+		Location:	36.70535 -4.46105
+
+(2) - Sled Push
+	FAR1
+		Images:	5671
+		Time:	22.03.2025 07:12:02 until 22.03.2025 14:14:28
+		Duration:	07:02:26
+		Location:	36.70535 -4.46105
+
+	ROJ1
+		Images:	3279
+		Time:	22.03.2025 07:15:47 until 22.03.2025 14:14:13
+		Duration:	06:58:26
+		Location:	36.70535 -4.46105
+
+	JMCA2
+		Images:	4299
+		Time:	22.03.2025 14:36:30 until 22.03.2025 19:29:02
+		Duration:	04:52:32
+		Location:	36.70535 -4.46105
+
+	ROG2
+		Images:	2985
+		Time:	22.03.2025 14:52:38 until 22.03.2025 19:28:29
+		Duration:	04:35:51
+		Location:	36.70535 -4.46105
+
+	JRP2
+		Images:	2885
+		Time:	22.03.2025 08:27:43 until 22.03.2025 15:27:49
+		Duration:	07:00:06
+		Location:	36.70535 -4.46105
+
+	JMP2
+		Images:	816
+		Time:	22.03.2025 09:26:01 until 22.03.2025 15:27:14
+		Duration:	06:01:13
+		Location:	36.70535 -4.46105
+
+(3) - Sled Pull
+	OAC1
+		Images:	2234
+		Time:	22.03.2025 07:08:19 until 22.03.2025 14:06:34
+		Duration:	06:58:15
+		Location:	36.70535 -4.46105
+
+	CCG1
+		Images:	6882
+		Time:	22.03.2025 06:58:55 until 22.03.2025 14:06:32
+		Duration:	07:07:37
+		Location:	36.70535 -4.46105
+
+	CRGA1
+		Images:	6334
+		Time:	22.03.2025 06:59:59 until 22.03.2025 14:05:45
+		Duration:	07:05:46
+		Location:	36.70535 -4.46105
+
+	EP2
+		Images:	3210
+		Time:	22.03.2025 14:11:20 until 22.03.2025 19:39:43
+		Duration:	05:28:23
+		Location:	36.70535 -4.46105
+
+	AGAR2
+		Images:	2808
+		Time:	22.03.2025 14:09:06 until 22.03.2025 19:35:57
+		Duration:	05:26:51
+		Location:	36.70535 -4.46105
+
+	IME2
+		Images:	1671
+		Time:	22.03.2025 14:07:12 until 22.03.2025 19:38:33
+		Duration:	05:31:21
+		Location:	36.70535 -4.46105
+
+	JRP3
+		Images:	1186
+		Time:	22.03.2025 07:48:59 until 22.03.2025 16:14:16
+		Duration:	08:25:17
+		Location:	36.70535 -4.46105
+
+	JMP3
+		Images:	773
+		Time:	22.03.2025 10:00:38 until 22.03.2025 16:14:36
+		Duration:	06:13:58
+		Location:	36.70535 -4.46105
+
+	JCFJ2
+		Images:	827
+		Time:	22.03.2025 10:21:17 until 22.03.2025 10:39:36
+		Duration:	00:18:19
+		Location:	36.70535 -4.46105
+
+(4) - Rowing
+	AMRU1
+		Images:	7250
+		Time:	22.03.2025 06:59:12 until 22.03.2025 14:22:25
+		Duration:	07:23:13
+		Location:	36.70535 -4.46105
+
+	RSL1
+		Images:	6068
+		Time:	22.03.2025 06:48:22 until 22.03.2025 14:23:01
+		Duration:	07:34:39
+		Location:	36.70535 -4.46105
+
+	FAR2
+		Images:	5361
+		Time:	22.03.2025 14:26:00 until 22.03.2025 20:06:40
+		Duration:	05:40:40
+		Location:	36.70535 -4.46105
+
+	ROJ2
+		Images:	4268
+		Time:	22.03.2025 14:23:25 until 22.03.2025 19:51:44
+		Duration:	05:28:19
+		Location:	36.70535 -4.46105
+
+	JRP4
+		Images:	1552
+		Time:	22.03.2025 10:52:53 until 22.03.2025 16:50:44
+		Duration:	05:57:51
+		Location:	36.70535 -4.46105
+
+	JMP4
+		Images:	834
+		Time:	22.03.2025 10:50:33 until 22.03.2025 16:48:32
+		Duration:	05:57:59
+		Location:	36.70535 -4.46105
+
+(5) - Sandbag Lunges
+	ROG1
+		Images:	4765
+		Time:	22.03.2025 07:12:40 until 22.03.2025 14:26:51
+		Duration:	07:14:11
+		Location:	36.70535 -4.46105
+
+	JMCA1
+		Images:	7906
+		Time:	22.03.2025 06:59:11 until 22.03.2025 14:29:52
+		Duration:	07:30:41
+		Location:	36.70535 -4.46105
+
+	AMRU2
+		Images:	3284
+		Time:	22.03.2025 14:28:06 until 22.03.2025 20:29:21
+		Duration:	06:01:15
+		Location:	36.70535 -4.46105
+
+	FEGO2
+		Images:	3409
+		Time:	22.03.2025 14:31:51 until 22.03.2025 20:32:17
+		Duration:	06:00:26
+		Location:	36.70535 -4.46105
+
+	JRP5
+		Images:	939
+		Time:	22.03.2025 11:29:08 until 22.03.2025 17:26:20
+		Duration:	05:57:12
+		Location:	36.70535 -4.46105
+
+	JMP5
+		Images:	430
+		Time:	22.03.2025 11:28:44 until 22.03.2025 17:25:16
+		Duration:	05:56:32
+		Location:	36.70535 -4.46105
+
+(6) - Wall Balls
+	PFU1
+		Images:	3020
+		Time:	22.03.2025 07:03:33 until 22.03.2025 14:15:50
+		Duration:	07:12:17
+		Location:	36.70535 -4.46105
+
+	JMB1
+		Images:	4941
+		Time:	22.03.2025 07:07:48 until 22.03.2025 14:15:46
+		Duration:	07:07:58
+		Location:	36.70535 -4.46105
+
+	CCG2
+		Images:	9347
+		Time:	22.03.2025 14:17:26 until 22.03.2025 20:42:04
+		Duration:	06:24:38
+		Location:	36.70535 -4.46105
+
+	LUM2
+		Images:	7575
+		Time:	22.03.2025 14:17:28 until 22.03.2025 20:35:43
+		Duration:	06:18:15
+		Location:	36.70535 -4.46105
+
+	JRP6
+		Images:	712
+		Time:	22.03.2025 12:11:36 until 22.03.2025 18:06:49
+		Duration:	05:55:13
+		Location:	36.70535 -4.46105
+
+	JMP6
+		Images:	431
+		Time:	22.03.2025 12:09:25 until 22.03.2025 18:05:31
+		Duration:	05:56:06
+		Location:	36.70535 -4.46105
+
+(7) - Finish
+	LUM1
+		Images:	6867
+		Time:	22.03.2025 06:09:51 until 22.03.2025 14:13:38
+		Duration:	08:03:47
+		Location:	36.70535 -4.46105
+
+	PFU2
+		Images:	4134
+		Time:	22.03.2025 14:21:42 until 22.03.2025 20:47:21
+		Duration:	06:25:39
+		Location:	36.70535 -4.46105
+
+	JCFJ3
+		Images:	1698
+		Time:	22.03.2025 12:02:35 until 22.03.2025 16:56:15
+		Duration:	04:53:40
+		Location:	36.70535 -4.46105
+
+	JCFJ1LS1
+		Images:	2771
+		Time:	22.03.2025 06:14:25 until 22.03.2025 20:46:09
+		Duration:	14:31:44
+		Location:	36.70535 -4.46105
+
+	JCFJ1LS2
+		Images:	2590
+		Time:	22.03.2025 06:15:44 until 22.03.2025 20:46:03
+		Duration:	14:30:19
+		Location:	36.70535 -4.46105
+
+(8) - Hero Wall
+	FEGO1
+		Images:	2344
+		Time:	22.03.2025 06:48:06 until 22.03.2025 14:22:16
+		Duration:	07:34:10
+		Location:	36.70535 -4.46105
+
+	JMB2
+		Images:	2073
+		Time:	22.03.2025 14:23:59 until 22.03.2025 20:48:24
+		Duration:	06:24:25
+		Location:	36.70535 -4.46105
+
+(9) - General Impressions
+	JRP1
+		Images:	82
+		Time:	22.03.2025 07:29:56 until 22.03.2025 08:54:26
+		Duration:	01:24:30
+		Location:	36.70535 -4.46105
+
+	JMP1
+		Images:	280
+		Time:	22.03.2025 07:07:21 until 22.03.2025 14:38:12
+		Duration:	07:30:51
+		Location:	36.70535 -4.46105
+
+	JCFJ1
+		Images:	1319
+		Time:	22.03.2025 07:03:08 until 22.03.2025 18:26:20
+		Duration:	11:23:12
+		Location:	36.70535 -4.46105
+
+(10) - Farmers Carry
+	JRP1LS1
+		Images:	5721
+		Time:	22.03.2025 08:10:37 until 22.03.2025 20:18:39
+		Duration:	12:08:02
+		Location:	36.70535 -4.46105
+
+	JMP1LS1
+		Images:	2685
+		Time:	22.03.2025 06:40:58 until 22.03.2025 20:20:02
+		Duration:	13:39:04
+		Location:	36.70535 -4.46105
+

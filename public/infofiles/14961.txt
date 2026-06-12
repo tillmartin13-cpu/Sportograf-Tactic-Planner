@@ -1,0 +1,102 @@
+EventId: 14961
+Spots: 14
+Total Images: 74307
+Time:	18.09.2025 16:12:27 to 21.09.2025 10:13:44
+Duration: 2.18:01:17
+
+(1) - 12.4 km
+	CCZ1
+		Images:	406
+		Time:	20.09.2025 09:23:58 until 21.09.2025 10:13:44
+		Duration:	1.00:49:46
+		Location:	40.27753 -87.27220
+
+(2) - Obstacle 7 STAIRWAY TO SPARTA
+	JBB1
+		Images:	11946
+		Time:	19.09.2025 21:59:11 until 21.09.2025 07:58:10
+		Duration:	1.09:58:59
+		Location:	40.26400 -87.27777
+
+(3) - Obstacle 10 IRISH TABLE
+	JAYP1
+		Images:	4180
+		Time:	20.09.2025 07:45:49 until 21.09.2025 07:35:31
+		Duration:	23:49:42
+		Location:	40.27384 -87.27905
+
+(4) - Obstacle 11 SANDBAG CARRY
+	PRR1
+		Images:	3618
+		Time:	19.09.2025 21:17:46 until 20.09.2025 13:35:19
+		Duration:	16:17:33
+		Location:	40.27796 -87.27789
+
+(5) - Obstacle 12 BARBED WIRE #1
+	IZZY1
+		Images:	13058
+		Time:	19.09.2025 21:38:24 until 20.09.2025 13:57:16
+		Duration:	16:18:52
+		Location:	40.27753 -87.27220
+
+(6) - Obstacle 0 OLD TRAINSTATION
+	TAPO1
+		Images:	4783
+		Time:	20.09.2025 08:27:08 until 21.09.2025 07:49:32
+		Duration:	23:22:24
+		Location:	40.27423 -87.26972
+
+(7) - Obstacle 19 SLIP WALL
+	DAKK1
+		Images:	2964
+		Time:	19.09.2025 21:56:50 until 20.09.2025 16:04:22
+		Duration:	18:07:32
+		Location:	40.26400 -87.27777
+
+(8) - Obstacle 23 A-FRAME CARGO
+	NADA1
+		Images:	8161
+		Time:	19.09.2025 22:20:30 until 20.09.2025 16:45:21
+		Duration:	18:24:51
+		Location:	40.26581 -87.27079
+
+(9) - Obstacle 24 CHAIN CARRY
+	LIT1
+		Images:	3021
+		Time:	20.09.2025 09:39:41 until 20.09.2025 16:47:15
+		Duration:	07:07:34
+		Location:	40.26488 -87.27109
+
+	MCKR1
+		Images:	6865
+		Time:	19.09.2025 22:07:28 until 21.09.2025 07:26:46
+		Duration:	1.09:19:18
+		Location:	40.26488 -87.27109
+
+(10) - Obstacle 28 MULTI-RIG
+	KAH1
+		Images:	4154
+		Time:	19.09.2025 22:03:19 until 20.09.2025 17:03:03
+		Duration:	18:59:44
+		Location:	40.26520 -87.26798
+
+	ISAK1
+		Images:	7637
+		Time:	20.09.2025 08:37:29 until 20.09.2025 17:03:13
+		Duration:	08:25:44
+		Location:	40.26520 -87.26798
+
+(11) - Herotent
+	DANM1
+		Images:	3366
+		Time:	20.09.2025 00:58:23 until 20.09.2025 17:09:48
+		Duration:	16:11:25
+		Location:	40.26569 -87.26790
+
+(12) - Obstacle 1
+	DANM1DRONE1
+		Images:	140
+		Time:	20.09.2025 07:48:08 until 20.09.2025 13:18:45
+		Duration:	05:30:37
+		Location:	40.26569 -87.26790
+

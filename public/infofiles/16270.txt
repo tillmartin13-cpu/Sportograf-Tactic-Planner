@@ -1,0 +1,58 @@
+EventId: 16270
+Spots: 8
+Total Images: 30616
+Time:	28.06.2025 06:09:12 to 28.06.2025 21:06:25
+Duration: 14:57:13
+
+(1) - Start
+	YCAN1
+		Images:	1439
+		Time:	28.06.2025 06:09:12 until 28.06.2025 11:33:02
+		Duration:	05:23:50
+		Location:	54.05894 -2.15301
+
+	PHBU1
+		Images:	7068
+		Time:	28.06.2025 06:17:22 until 28.06.2025 10:31:24
+		Duration:	04:14:02
+		Location:	54.05894 -2.15301
+
+(2) - 18,0 km
+	CUP1
+		Images:	11763
+		Time:	28.06.2025 07:36:15 until 28.06.2025 16:12:31
+		Duration:	08:36:16
+		Location:	54.06592 -1.99991
+
+(3) - 39,0 km
+	PHBU2
+		Images:	3032
+		Time:	28.06.2025 10:52:09 until 28.06.2025 19:42:18
+		Duration:	08:50:09
+		Location:	54.06553 -2.13735
+
+(4) - Finish
+	KSTH1
+		Images:	2408
+		Time:	28.06.2025 08:58:10 until 28.06.2025 17:15:23
+		Duration:	08:17:13
+		Location:	54.06264 -1.96254
+
+	KSTH2
+		Images:	255
+		Time:	28.06.2025 18:48:05 until 28.06.2025 21:06:25
+		Duration:	02:18:20
+		Location:	54.05894 -2.15301
+
+	YCAN2
+		Images:	3415
+		Time:	28.06.2025 11:49:21 until 28.06.2025 20:44:25
+		Duration:	08:55:04
+		Location:	54.05894 -2.15301
+
+	CUP2
+		Images:	1236
+		Time:	28.06.2025 17:42:11 until 28.06.2025 18:46:23
+		Duration:	01:04:12
+		Location:	54.05894 -2.15301
+

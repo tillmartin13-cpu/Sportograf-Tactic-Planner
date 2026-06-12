@@ -1,0 +1,366 @@
+EventId: 13981
+Spots: 57
+Total Images: 124525
+Time:	14.06.2025 18:44:03 to 16.06.2025 01:56:11
+Duration: 1.07:12:08
+
+(1) - Bike - 0.0 km 70.3/IM
+	JEK2
+		Images:	933
+		Time:	15.06.2025 12:36:39 until 15.06.2025 15:46:18
+		Duration:	03:09:39
+		Location:	NULL NULL
+
+	JEK2LS1
+		Images:	1545
+		Time:	15.06.2025 12:21:10 until 15.06.2025 15:37:21
+		Duration:	03:16:11
+		Location:	NULL NULL
+
+(2) - Bike - 119.0 km 70.3/IM
+	TPA2LS2
+		Images:	3732
+		Time:	15.06.2025 12:52:35 until 15.06.2025 15:48:24
+		Duration:	02:55:49
+		Location:	NULL NULL
+
+(3) - Bike - 119.0 km IM
+	TPA2
+		Images:	1586
+		Time:	15.06.2025 11:48:02 until 15.06.2025 15:11:50
+		Duration:	03:23:48
+		Location:	NULL NULL
+
+	TPA2LS1
+		Images:	1030
+		Time:	15.06.2025 11:57:32 until 15.06.2025 15:11:35
+		Duration:	03:14:03
+		Location:	NULL NULL
+
+(4) - Bike - 179.5 km IM
+	VIBA5
+		Images:	1488
+		Time:	15.06.2025 13:44:07 until 15.06.2025 15:32:57
+		Duration:	01:48:50
+		Location:	NULL NULL
+
+(5) - Bike - 28.5 km 70.3/IM
+	TPA1
+		Images:	3210
+		Time:	15.06.2025 07:51:34 until 15.06.2025 11:40:50
+		Duration:	03:49:16
+		Location:	NULL NULL
+
+	TPA1LS1
+		Images:	3200
+		Time:	15.06.2025 08:01:20 until 15.06.2025 11:54:21
+		Duration:	03:53:01
+		Location:	NULL NULL
+
+	TPA1LS2
+		Images:	7260
+		Time:	15.06.2025 07:08:07 until 15.06.2025 11:39:03
+		Duration:	04:30:56
+		Location:	NULL NULL
+
+(6) - Bike - 33.4 km 70.3/IM
+	JEK3
+		Images:	14725
+		Time:	15.06.2025 06:48:39 until 15.06.2025 11:59:44
+		Duration:	05:11:05
+		Location:	NULL NULL
+
+	JEK1LS1
+		Images:	4945
+		Time:	15.06.2025 07:31:43 until 15.06.2025 12:20:55
+		Duration:	04:49:12
+		Location:	NULL NULL
+
+	JEK3DRONE1
+		Images:	7
+		Time:	16.06.2025 01:56:10 until 16.06.2025 01:56:11
+		Duration:	00:00:01
+		Location:	NULL NULL
+
+(7) - Bike - 89.6 km
+	IGM1LS1
+		Images:	3049
+		Time:	14.06.2025 21:48:25 until 15.06.2025 18:20:35
+		Duration:	20:32:10
+		Location:	NULL NULL
+
+(8) - Bike - Transition zone Aquabike Finish
+	VIBA3
+		Images:	193
+		Time:	15.06.2025 09:45:09 until 15.06.2025 12:50:11
+		Duration:	03:05:02
+		Location:	NULL NULL
+
+(9) - Finish
+	AKC2
+		Images:	4875
+		Time:	15.06.2025 10:24:57 until 15.06.2025 16:25:16
+		Duration:	06:00:19
+		Location:	NULL NULL
+
+	IGM4
+		Images:	96
+		Time:	16.06.2025 00:22:58 until 16.06.2025 00:32:30
+		Duration:	00:09:32
+		Location:	NULL NULL
+
+	JEK4
+		Images:	2101
+		Time:	15.06.2025 20:22:55 until 16.06.2025 00:51:55
+		Duration:	04:29:00
+		Location:	NULL NULL
+
+	JEK4LS1
+		Images:	1183
+		Time:	15.06.2025 20:14:14 until 16.06.2025 00:54:30
+		Duration:	04:40:16
+		Location:	NULL NULL
+
+	NIF4
+		Images:	1053
+		Time:	15.06.2025 17:31:48 until 15.06.2025 19:58:19
+		Duration:	02:26:31
+		Location:	NULL NULL
+
+	TOSC2
+		Images:	563
+		Time:	15.06.2025 15:57:45 until 15.06.2025 17:37:52
+		Duration:	01:40:07
+		Location:	NULL NULL
+
+	TOSC2LS1
+		Images:	1738
+		Time:	15.06.2025 18:07:54 until 16.06.2025 00:40:23
+		Duration:	06:32:29
+		Location:	NULL NULL
+
+	TOSC3
+		Images:	1380
+		Time:	15.06.2025 18:14:29 until 16.06.2025 00:52:15
+		Duration:	06:37:46
+		Location:	NULL NULL
+
+	TOSC3LS1
+		Images:	77
+		Time:	15.06.2025 16:56:04 until 15.06.2025 17:59:52
+		Duration:	01:03:48
+		Location:	NULL NULL
+
+	CSM3
+		Images:	8295
+		Time:	15.06.2025 10:12:52 until 15.06.2025 18:18:15
+		Duration:	08:05:23
+		Location:	NULL NULL
+
+	CSM3LS1
+		Images:	691
+		Time:	15.06.2025 09:50:17 until 15.06.2025 18:47:45
+		Duration:	08:57:28
+		Location:	NULL NULL
+
+	CSM3LS2
+		Images:	527
+		Time:	15.06.2025 09:53:00 until 15.06.2025 15:19:45
+		Duration:	05:26:45
+		Location:	NULL NULL
+
+(10) - Run - 0.8 km 70.3/IM
+	NIF3
+		Images:	365
+		Time:	15.06.2025 15:36:37 until 15.06.2025 15:56:05
+		Duration:	00:19:28
+		Location:	NULL NULL
+
+(11) - Run - 1.1 km 70.3/IM
+	TOSC1
+		Images:	8492
+		Time:	14.06.2025 18:44:03 until 15.06.2025 15:11:20
+		Duration:	20:27:17
+		Location:	NULL NULL
+
+	TOSC1LS1
+		Images:	473
+		Time:	14.06.2025 18:53:22 until 15.06.2025 15:00:24
+		Duration:	20:07:02
+		Location:	NULL NULL
+
+(12) - Run - 10.3 km
+	IGM2LS1
+		Images:	413
+		Time:	15.06.2025 16:57:29 until 15.06.2025 17:11:15
+		Duration:	00:13:46
+		Location:	NULL NULL
+
+(13) - Run - 10.3 km 70.3
+	IGM1
+		Images:	3277
+		Time:	14.06.2025 21:43:13 until 15.06.2025 13:08:31
+		Duration:	15:25:18
+		Location:	NULL NULL
+
+(14) - Run - 10.3 km IM
+	IGM2
+		Images:	2925
+		Time:	15.06.2025 13:44:10 until 15.06.2025 18:18:50
+		Duration:	04:34:40
+		Location:	NULL NULL
+
+(15) - Run - 10.7 km IM
+	AKC3
+		Images:	1692
+		Time:	15.06.2025 17:53:43 until 15.06.2025 23:08:44
+		Duration:	05:15:01
+		Location:	NULL NULL
+
+	VIBA4
+		Images:	2169
+		Time:	15.06.2025 13:02:13 until 15.06.2025 15:34:47
+		Duration:	02:32:34
+		Location:	NULL NULL
+
+(16) - Run - 12.3 km IM
+	CSM4
+		Images:	724
+		Time:	15.06.2025 19:10:21 until 15.06.2025 22:18:10
+		Duration:	03:07:49
+		Location:	NULL NULL
+
+	CSM4LS1
+		Images:	1044
+		Time:	15.06.2025 18:50:09 until 15.06.2025 22:26:24
+		Duration:	03:36:15
+		Location:	NULL NULL
+
+	CSM4LS2
+		Images:	1041
+		Time:	15.06.2025 18:44:53 until 15.06.2025 22:22:50
+		Duration:	03:37:57
+		Location:	NULL NULL
+
+(17) - Run - 2.7 km IM
+	VN3
+		Images:	5573
+		Time:	15.06.2025 15:01:02 until 15.06.2025 17:58:45
+		Duration:	02:57:43
+		Location:	NULL NULL
+
+	VN3LS1
+		Images:	2710
+		Time:	15.06.2025 14:49:14 until 15.06.2025 17:24:38
+		Duration:	02:35:24
+		Location:	NULL NULL
+
+	VN3LS2
+		Images:	1909
+		Time:	15.06.2025 14:39:43 until 15.06.2025 18:05:36
+		Duration:	03:25:53
+		Location:	NULL NULL
+
+(18) - Run - 21.1 km
+	IGM3
+		Images:	941
+		Time:	15.06.2025 18:18:49 until 15.06.2025 23:31:21
+		Duration:	05:12:32
+		Location:	NULL NULL
+
+	IGM3LS1
+		Images:	661
+		Time:	15.06.2025 19:59:03 until 15.06.2025 23:50:37
+		Duration:	03:51:34
+		Location:	NULL NULL
+
+(19) - Run - 21.4 km IM
+	TPA3
+		Images:	438
+		Time:	15.06.2025 21:33:38 until 15.06.2025 23:10:41
+		Duration:	01:37:03
+		Location:	NULL NULL
+
+(20) - Swim - Impressions / Pano
+	PANO1
+(21) - Swim - Start
+	AKC1
+		Images:	163
+		Time:	15.06.2025 06:54:43 until 15.06.2025 10:07:29
+		Duration:	03:12:46
+		Location:	NULL NULL
+
+	VIBA1
+		Images:	999
+		Time:	14.06.2025 22:34:09 until 15.06.2025 07:45:48
+		Duration:	09:11:39
+		Location:	NULL NULL
+
+	VIBA2
+		Images:	832
+		Time:	15.06.2025 07:46:02 until 15.06.2025 08:10:27
+		Duration:	00:24:25
+		Location:	NULL NULL
+
+	CSM1
+		Images:	2406
+		Time:	15.06.2025 05:51:45 until 15.06.2025 07:38:15
+		Duration:	01:46:30
+		Location:	NULL NULL
+
+	CSM2
+		Images:	569
+		Time:	15.06.2025 07:41:13 until 15.06.2025 08:10:56
+		Duration:	00:29:43
+		Location:	NULL NULL
+
+(22) - Swim - Transition zone 70.3
+	NIF1
+		Images:	2933
+		Time:	15.06.2025 06:09:47 until 15.06.2025 08:09:19
+		Duration:	01:59:32
+		Location:	NULL NULL
+
+	VN1
+		Images:	2653
+		Time:	15.06.2025 06:47:26 until 15.06.2025 08:22:49
+		Duration:	01:35:23
+		Location:	NULL NULL
+
+	VN1LS1
+		Images:	1283
+		Time:	15.06.2025 07:04:40 until 15.06.2025 08:19:56
+		Duration:	01:15:16
+		Location:	NULL NULL
+
+	VN1LS2
+		Images:	1404
+		Time:	15.06.2025 07:02:09 until 15.06.2025 08:59:35
+		Duration:	01:57:26
+		Location:	NULL NULL
+
+(23) - Swim - Transition zone IM
+	NIF2
+		Images:	2095
+		Time:	15.06.2025 08:24:36 until 15.06.2025 10:23:42
+		Duration:	01:59:06
+		Location:	NULL NULL
+
+	VN2
+		Images:	2838
+		Time:	15.06.2025 08:23:49 until 15.06.2025 10:36:04
+		Duration:	02:12:15
+		Location:	NULL NULL
+
+	VN2LS1
+		Images:	1051
+		Time:	15.06.2025 08:20:45 until 15.06.2025 10:39:31
+		Duration:	02:18:46
+		Location:	NULL NULL
+
+	VN2LS2
+		Images:	970
+		Time:	15.06.2025 09:00:12 until 15.06.2025 10:41:41
+		Duration:	01:41:29
+		Location:	NULL NULL
+

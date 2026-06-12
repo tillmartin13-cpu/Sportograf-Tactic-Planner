@@ -1,0 +1,118 @@
+EventId: 13785
+Spots: 18
+Total Images: 65043
+Time:	06.04.2025 08:14:34 to 06.04.2025 12:28:10
+Duration: 04:13:36
+
+(1) - Start
+	MRED1
+		Images:	1755
+		Time:	06.04.2025 09:39:42 until 06.04.2025 11:37:59
+		Duration:	01:58:17
+		Location:	48.85784 2.25064
+
+	MRED1LS1
+		Images:	685
+		Time:	06.04.2025 09:59:47 until 06.04.2025 10:50:22
+		Duration:	00:50:35
+		Location:	48.85784 2.25064
+
+	JABR1
+		Images:	1296
+		Time:	06.04.2025 08:34:11 until 06.04.2025 10:28:44
+		Duration:	01:54:33
+		Location:	48.85784 2.25064
+
+(2) - 1,93km
+	IBLA1
+		Images:	3929
+		Time:	06.04.2025 10:09:27 until 06.04.2025 11:09:53
+		Duration:	01:00:26
+		Location:	48.86444 2.24777
+
+(3) - 3,2km
+	MAI1
+		Images:	7267
+		Time:	06.04.2025 09:03:26 until 06.04.2025 11:26:33
+		Duration:	02:23:07
+		Location:	48.86109 2.24316
+
+(4) - 4,56km
+	TOG1
+		Images:	9807
+		Time:	06.04.2025 10:18:11 until 06.04.2025 11:37:49
+		Duration:	01:19:38
+		Location:	48.86060 2.23751
+
+	TOG1LS1
+		Images:	3437
+		Time:	06.04.2025 09:50:21 until 06.04.2025 11:40:35
+		Duration:	01:50:14
+		Location:	48.86060 2.23751
+
+	TOG1LS2
+		Images:	3442
+		Time:	06.04.2025 09:50:22 until 06.04.2025 11:40:35
+		Duration:	01:50:13
+		Location:	48.86060 2.23751
+
+(5) - 6,27km
+	NWO1
+		Images:	5543
+		Time:	06.04.2025 10:22:50 until 06.04.2025 11:45:15
+		Duration:	01:22:25
+		Location:	48.84894 2.24199
+
+	NWO1LS1
+		Images:	3806
+		Time:	06.04.2025 10:21:59 until 06.04.2025 11:46:03
+		Duration:	01:24:04
+		Location:	48.84894 2.24199
+
+	NWO1LS2
+		Images:	1639
+		Time:	06.04.2025 10:22:19 until 06.04.2025 11:45:13
+		Duration:	01:22:54
+		Location:	48.84894 2.24199
+
+(6) - 8,4km
+	JDU1
+		Images:	2811
+		Time:	06.04.2025 08:14:34 until 06.04.2025 12:08:48
+		Duration:	03:54:14
+		Location:	48.85648 2.24348
+
+(7) - 9,3km
+	AFA1
+		Images:	3593
+		Time:	06.04.2025 09:46:29 until 06.04.2025 12:27:09
+		Duration:	02:40:40
+		Location:	48.85334 2.24449
+
+	JI1
+		Images:	3790
+		Time:	06.04.2025 08:57:05 until 06.04.2025 12:22:42
+		Duration:	03:25:37
+		Location:	48.85334 2.24449
+
+(8) - Finish
+	OP1
+		Images:	6197
+		Time:	06.04.2025 10:10:58 until 06.04.2025 12:26:13
+		Duration:	02:15:15
+		Location:	48.85465 2.25057
+
+	OP1LS1
+		Images:	3863
+		Time:	06.04.2025 10:00:28 until 06.04.2025 12:28:10
+		Duration:	02:27:42
+		Location:	48.85465 2.25057
+
+	JABR2
+		Images:	2183
+		Time:	06.04.2025 10:32:32 until 06.04.2025 12:21:34
+		Duration:	01:49:02
+		Location:	48.85784 2.25064
+
+(9) - Impressions / Pano
+	PANO1

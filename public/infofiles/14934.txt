@@ -1,0 +1,290 @@
+EventId: 14934
+Spots: 44
+Total Images: 34076
+Time:	07.08.2025 18:30:12 to 09.08.2025 20:56:02
+Duration: 2.02:25:50
+
+(1) - 100Miles - unterhalb Wildseeloder
+	AKS1
+		Images:	1250
+		Time:	07.08.2025 19:13:40 until 07.08.2025 19:53:42
+		Duration:	00:40:02
+		Location:	47.43516 12.53879
+
+	AKS1LS1
+		Images:	154
+		Time:	07.08.2025 18:42:36 until 07.08.2025 20:06:44
+		Duration:	01:24:08
+		Location:	47.43600 12.54058
+
+	AKS1LS2
+		Images:	152
+		Time:	07.08.2025 18:41:32 until 07.08.2025 20:06:51
+		Duration:	01:25:19
+		Location:	47.43600 12.54058
+
+	YS1LS1
+		Images:	419
+		Time:	07.08.2025 19:18:06 until 07.08.2025 21:01:25
+		Duration:	01:43:19
+		Location:	47.43818 12.54229
+
+	YS1LS2
+		Images:	184
+		Time:	07.08.2025 18:30:12 until 07.08.2025 20:00:19
+		Duration:	01:30:07
+		Location:	47.43818 12.54229
+
+(2) - 100Miles - Alpen Blumen Garten
+	AKS2
+		Images:	638
+		Time:	08.08.2025 09:24:58 until 08.08.2025 13:11:57
+		Duration:	03:46:59
+		Location:	47.47188 12.42678
+
+(3) - 100Miles - unterhalb Mittelstation Kitzbühler Horn
+	AKS2LS1
+		Images:	167
+		Time:	08.08.2025 08:40:53 until 08.08.2025 13:35:48
+		Duration:	04:54:55
+		Location:	47.46577 12.42977
+
+	AKS2LS2
+		Images:	174
+		Time:	08.08.2025 08:38:03 until 08.08.2025 13:37:20
+		Duration:	04:59:17
+		Location:	47.46577 12.42977
+
+(4) - Marathon - 24,5km
+	AKS3
+		Images:	3306
+		Time:	09.08.2025 09:21:12 until 09.08.2025 12:41:45
+		Duration:	03:20:33
+		Location:	47.46225 12.52374
+
+(5) - Marathon - 24,7km
+	AKS3LS1
+		Images:	404
+		Time:	09.08.2025 08:51:36 until 09.08.2025 13:24:03
+		Duration:	04:32:27
+		Location:	47.46236 12.52313
+
+	AKS3LS2
+		Images:	405
+		Time:	09.08.2025 08:51:53 until 09.08.2025 13:23:22
+		Duration:	04:31:29
+		Location:	47.46236 12.52313
+
+(6) - Finish
+	AKS4LS1
+		Images:	478
+		Time:	09.08.2025 18:07:06 until 09.08.2025 20:55:44
+		Duration:	02:48:38
+		Location:	47.47638 12.54388
+
+	AKS4LS2
+		Images:	477
+		Time:	09.08.2025 18:05:50 until 09.08.2025 20:56:02
+		Duration:	02:50:12
+		Location:	47.47638 12.54388
+
+	CK3
+		Images:	566
+		Time:	08.08.2025 22:22:54 until 09.08.2025 06:15:04
+		Duration:	07:52:10
+		Location:	47.47638 12.54388
+
+	CK3LS1
+		Images:	214
+		Time:	08.08.2025 22:59:07 until 09.08.2025 04:27:17
+		Duration:	05:28:10
+		Location:	47.47638 12.54388
+
+	CK3LS2
+		Images:	98
+		Time:	08.08.2025 22:32:09 until 09.08.2025 06:29:21
+		Duration:	07:57:12
+		Location:	47.47638 12.54388
+
+	MAXB1
+		Images:	5710
+		Time:	09.08.2025 06:59:55 until 09.08.2025 20:55:54
+		Duration:	13:55:59
+		Location:	47.47638 12.54388
+
+	YS3
+		Images:	271
+		Time:	08.08.2025 18:27:54 until 08.08.2025 21:27:43
+		Duration:	02:59:49
+		Location:	47.47638 12.54388
+
+	YS3LS1
+		Images:	1608
+		Time:	08.08.2025 17:47:33 until 09.08.2025 03:29:07
+		Duration:	09:41:34
+		Location:	47.47638 12.54388
+
+	YS3LS2
+		Images:	1967
+		Time:	08.08.2025 17:53:19 until 09.08.2025 08:06:57
+		Duration:	14:13:38
+		Location:	47.47638 12.54388
+
+	YS6LS2
+		Images:	922
+		Time:	09.08.2025 14:14:46 until 09.08.2025 16:03:26
+		Duration:	01:48:40
+		Location:	47.47638 12.54388
+
+	YS6LS1
+		Images:	890
+		Time:	09.08.2025 14:14:12 until 09.08.2025 16:01:32
+		Duration:	01:47:20
+		Location:	47.47638 12.54388
+
+(7) - Easy - 2km
+	AKS5
+		Images:	456
+		Time:	09.08.2025 17:08:08 until 09.08.2025 17:23:07
+		Duration:	00:14:59
+		Location:	47.47013 12.53493
+
+(8) - Easy - 2,1km
+	AKS5LS2
+		Images:	95
+		Time:	09.08.2025 16:53:54 until 09.08.2025 17:18:17
+		Duration:	00:24:23
+		Location:	47.47043 12.53117
+
+	AKS5LS1
+		Images:	139
+		Time:	09.08.2025 16:51:02 until 09.08.2025 17:31:51
+		Duration:	00:40:49
+		Location:	47.47043 12.53117
+
+(9) - 100Miles - Jakobskreuz
+	CK1
+		Images:	392
+		Time:	07.08.2025 22:26:17 until 08.08.2025 01:48:52
+		Duration:	03:22:35
+		Location:	47.48438 12.58388
+
+(10) - 100Miles - unterhalb Reckmoos Nord 2 Bergstation
+	CK2
+		Images:	118
+		Time:	08.08.2025 13:28:50 until 08.08.2025 19:34:57
+		Duration:	06:06:07
+		Location:	47.43184 12.55204
+
+	CK2LS1
+		Images:	51
+		Time:	08.08.2025 17:03:19 until 08.08.2025 19:04:35
+		Duration:	02:01:16
+		Location:	47.43172 12.55209
+
+	CK2LS2
+		Images:	23
+		Time:	08.08.2025 17:17:17 until 08.08.2025 19:05:17
+		Duration:	01:48:00
+		Location:	47.43172 12.55209
+
+(11) - Start Marathon
+	CK4
+		Images:	271
+		Time:	09.08.2025 06:58:03 until 09.08.2025 07:01:39
+		Duration:	00:03:36
+		Location:	47.47638 12.54388
+
+(12) - Endurance & Speed - oberhalb von Wildsee
+	MIW1
+		Images:	3497
+		Time:	09.08.2025 08:09:30 until 09.08.2025 13:23:20
+		Duration:	05:13:50
+		Location:	47.43204 12.53475
+
+(13) - Bischofsjoch
+	MIW2
+		Images:	467
+		Time:	09.08.2025 13:24:00 until 09.08.2025 15:30:06
+		Duration:	02:06:06
+		Location:	47.42349 12.52356
+
+(14) - 100Miles - Wildseeloder
+	YS1
+		Images:	1560
+		Time:	07.08.2025 19:20:26 until 07.08.2025 20:22:54
+		Duration:	01:02:28
+		Location:	47.43257 12.53988
+
+(15) - Impressions / Pano
+	YS1DRONE1
+		Images:	34
+		Time:	07.08.2025 19:10:36 until 09.08.2025 10:01:48
+		Duration:	1.14:51:12
+		Location:	NULL NULL
+
+	PANO1
+		Images:	4
+		Time:	07.08.2025 18:58:10 until 07.08.2025 19:01:56
+		Duration:	00:03:46
+		Location:	NULL NULL
+
+(16) - 100Miles - Kitzbühler Horn
+	YS2
+		Images:	643
+		Time:	08.08.2025 09:52:03 until 08.08.2025 13:03:10
+		Duration:	03:11:07
+		Location:	47.47579 12.43146
+
+(17) - 100Miles - oberhalb von Mittelstation Kitzbühler Horn
+	YS2LS1
+		Images:	805
+		Time:	08.08.2025 09:06:03 until 08.08.2025 13:27:39
+		Duration:	04:21:36
+		Location:	47.46827 12.42394
+
+	YS2LS2
+		Images:	668
+		Time:	08.08.2025 09:07:07 until 08.08.2025 13:28:27
+		Duration:	04:21:20
+		Location:	47.46827 12.42394
+
+(18) - Marathon - Parkplatz Hergottbrücke
+	YS4
+		Images:	2512
+		Time:	09.08.2025 09:30:46 until 09.08.2025 13:30:15
+		Duration:	03:59:29
+		Location:	47.44398 12.50538
+
+	YS4LS1
+		Images:	527
+		Time:	09.08.2025 09:22:00 until 09.08.2025 13:34:45
+		Duration:	04:12:45
+		Location:	47.44463 12.50472
+
+	YS4LS2
+		Images:	519
+		Time:	09.08.2025 09:21:59 until 09.08.2025 13:34:44
+		Duration:	04:12:45
+		Location:	47.44463 12.50472
+
+(19) - Easy - 2,4km
+	YS5
+		Images:	674
+		Time:	09.08.2025 17:10:38 until 09.08.2025 17:28:56
+		Duration:	00:18:18
+		Location:	47.47038 12.53079
+
+(20) - Easy - 2,3km
+	YS5LS1
+		Images:	84
+		Time:	09.08.2025 16:45:21 until 09.08.2025 17:35:27
+		Duration:	00:50:06
+		Location:	47.47036 12.53234
+
+	YS5LS2
+		Images:	83
+		Time:	09.08.2025 16:45:54 until 09.08.2025 17:35:35
+		Duration:	00:49:41
+		Location:	47.47036 12.53234
+

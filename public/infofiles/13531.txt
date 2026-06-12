@@ -1,0 +1,102 @@
+EventId: 13531
+Spots: 14
+Total Images: 35165
+Time:	25.04.2025 21:45:00 to 26.04.2025 17:04:39
+Duration: 19:19:39
+
+(1) - Start
+	SKAL1
+		Images:	1072
+		Time:	26.04.2025 07:22:18 until 26.04.2025 08:12:38
+		Duration:	00:50:20
+		Location:	52.13933 -10.28049
+
+(2) - Km 6 of 55Km & 120Km
+	OHAL1
+		Images:	1513
+		Time:	26.04.2025 07:33:44 until 26.04.2025 09:12:10
+		Duration:	01:38:26
+		Location:	52.12490 -10.33821
+
+	OHAL1LS1
+		Images:	945
+		Time:	26.04.2025 07:55:39 until 26.04.2025 08:58:14
+		Duration:	01:02:35
+		Location:	52.12490 -10.33563
+
+(3) - Km 17.100 of 55Km & 120Km
+	HED1
+		Images:	2945
+		Time:	26.04.2025 07:27:18 until 26.04.2025 09:38:19
+		Duration:	02:11:01
+		Location:	52.09838 -10.45781
+
+(4) - Km 17.400 of 55Km & 120Km
+	SOUG1
+		Images:	6505
+		Time:	26.04.2025 07:33:57 until 26.04.2025 09:36:42
+		Duration:	02:02:45
+		Location:	52.10258 -10.45855
+
+(5) - Km 24.410 of 55 Km & 120 Km
+	KRE1
+		Images:	1980
+		Time:	25.04.2025 21:45:00 until 26.04.2025 09:46:19
+		Duration:	12:01:19
+		Location:	52.15035 -10.46715
+
+(6) - Km 50.500 of 55Km & 120Km
+	SKAL2
+		Images:	4440
+		Time:	26.04.2025 09:04:20 until 26.04.2025 11:24:59
+		Duration:	02:20:39
+		Location:	52.18271 -10.29721
+
+(7) - Finish
+	OHAL2
+		Images:	5392
+		Time:	26.04.2025 09:45:54 until 26.04.2025 17:04:39
+		Duration:	07:18:45
+		Location:	52.13932 -10.28124
+
+	OHAL2LS1
+		Images:	31
+		Time:	26.04.2025 09:44:42 until 26.04.2025 09:59:00
+		Duration:	00:14:18
+		Location:	52.13932 -10.28124
+
+(8) - Km 62.500 of 120Km
+	HED2
+		Images:	1909
+		Time:	26.04.2025 10:22:27 until 26.04.2025 13:11:33
+		Duration:	02:49:06
+		Location:	52.17741 -10.22451
+
+(9) - Km 64.700 of 120Km
+	SOUG2
+		Images:	4023
+		Time:	26.04.2025 10:22:55 until 26.04.2025 13:26:38
+		Duration:	03:03:43
+		Location:	52.18591 -10.19507
+
+(10) - Km 117.731 of 120Km
+	KRE2
+		Images:	1893
+		Time:	26.04.2025 11:00:41 until 26.04.2025 16:16:34
+		Duration:	05:15:53
+		Location:	52.12954 -10.24850
+
+(11) - Km 119 of 120Km
+	SKAL3
+		Images:	2505
+		Time:	26.04.2025 11:58:12 until 26.04.2025 16:19:32
+		Duration:	04:21:20
+		Location:	52.13367 -10.27482
+
+(12) - various
+	SOUG1DRONE1
+		Images:	12
+		Time:	26.04.2025 09:17:06 until 26.04.2025 11:27:44
+		Duration:	02:10:38
+		Location:	52.10567 -10.45865
+

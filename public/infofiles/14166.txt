@@ -1,0 +1,185 @@
+EventId: 14166
+Spots: 29
+Total Images: 125404
+Time:	22.02.2025 10:08:42 to 23.02.2025 15:24:31
+Duration: 1.05:15:49
+
+(1) - 0.5 km
+	TOBB1
+		Images:	4710
+		Time:	22.02.2025 10:18:32 until 23.02.2025 08:33:06
+		Duration:	22:14:34
+		Location:	NULL NULL
+
+	TOBB1LS1
+		Images:	1352
+		Time:	22.02.2025 10:08:42 until 23.02.2025 08:35:56
+		Duration:	22:27:14
+		Location:	NULL NULL
+
+	TOBB1LS2
+		Images:	1339
+		Time:	22.02.2025 10:09:37 until 23.02.2025 08:34:50
+		Duration:	22:25:13
+		Location:	NULL NULL
+
+(2) - 1.0 km
+	MK1
+		Images:	16411
+		Time:	23.02.2025 08:39:26 until 23.02.2025 11:45:59
+		Duration:	03:06:33
+		Location:	NULL NULL
+
+	MK1LS1
+		Images:	2049
+		Time:	23.02.2025 07:14:05 until 23.02.2025 10:46:50
+		Duration:	03:32:45
+		Location:	NULL NULL
+
+	MK1LS2
+		Images:	2529
+		Time:	23.02.2025 07:35:15 until 23.02.2025 14:27:03
+		Duration:	06:51:48
+		Location:	NULL NULL
+
+(3) - 1.2 km
+	LV1
+		Images:	14544
+		Time:	22.02.2025 19:51:26 until 23.02.2025 11:24:48
+		Duration:	15:33:22
+		Location:	NULL NULL
+
+	LV1LS1
+		Images:	1296
+		Time:	23.02.2025 08:48:11 until 23.02.2025 11:11:25
+		Duration:	02:23:14
+		Location:	NULL NULL
+
+(4) - 6.0 km /22 +42 km
+	THL1
+		Images:	11372
+		Time:	22.02.2025 12:44:22 until 23.02.2025 10:01:44
+		Duration:	21:17:22
+		Location:	NULL NULL
+
+	THL1DRONE1
+		Images:	15
+		Time:	23.02.2025 06:40:59 until 23.02.2025 11:42:17
+		Duration:	05:01:18
+		Location:	NULL NULL
+
+	THL1LS1
+		Images:	4718
+		Time:	23.02.2025 07:02:53 until 23.02.2025 10:02:51
+		Duration:	02:59:58
+		Location:	NULL NULL
+
+	THL1LS2
+		Images:	3019
+		Time:	22.02.2025 12:50:11 until 23.02.2025 10:00:25
+		Duration:	21:10:14
+		Location:	NULL NULL
+
+(5) - 9.0 km /14, 15/22, 22/42
+	RM1
+		Images:	24890
+		Time:	23.02.2025 07:48:26 until 23.02.2025 12:08:06
+		Duration:	04:19:40
+		Location:	NULL NULL
+
+	RM1LS1
+		Images:	2628
+		Time:	23.02.2025 07:43:02 until 23.02.2025 12:34:25
+		Duration:	04:51:23
+		Location:	NULL NULL
+
+(6) - 4.8 km /42 before finish
+	LV2
+		Images:	3795
+		Time:	23.02.2025 11:32:24 until 23.02.2025 14:24:40
+		Duration:	02:52:16
+		Location:	NULL NULL
+
+	LV2LS1
+		Images:	393
+		Time:	23.02.2025 11:11:53 until 23.02.2025 14:34:08
+		Duration:	03:22:15
+		Location:	NULL NULL
+
+(7) - 5.0 km /42 before finish
+	MK2
+		Images:	7039
+		Time:	23.02.2025 12:37:19 until 23.02.2025 15:24:31
+		Duration:	02:47:12
+		Location:	NULL NULL
+
+	MK2DRONE1
+		Images:	14
+		Time:	23.02.2025 09:04:42 until 23.02.2025 13:55:57
+		Duration:	04:51:15
+		Location:	NULL NULL
+
+	MK2LS1
+		Images:	789
+		Time:	23.02.2025 11:20:45 until 23.02.2025 14:27:14
+		Duration:	03:06:29
+		Location:	NULL NULL
+
+	MK2LS2
+		Images:	445
+		Time:	23.02.2025 11:06:59 until 23.02.2025 12:59:37
+		Duration:	01:52:38
+		Location:	NULL NULL
+
+(8) - 1.5 km before finish
+	THL2
+		Images:	6058
+		Time:	23.02.2025 11:27:16 until 23.02.2025 14:35:56
+		Duration:	03:08:40
+		Location:	NULL NULL
+
+	THL2LS1
+		Images:	974
+		Time:	23.02.2025 11:22:20 until 23.02.2025 14:29:04
+		Duration:	03:06:44
+		Location:	NULL NULL
+
+	THL2LS2
+		Images:	1606
+		Time:	23.02.2025 11:10:32 until 23.02.2025 14:22:41
+		Duration:	03:12:09
+		Location:	NULL NULL
+
+(9) - 0.5 km before finish
+	RM2
+		Images:	642
+		Time:	23.02.2025 12:11:50 until 23.02.2025 14:53:45
+		Duration:	02:41:55
+		Location:	NULL NULL
+
+	RM2LS1
+		Images:	137
+		Time:	23.02.2025 14:03:58 until 23.02.2025 14:56:41
+		Duration:	00:52:43
+		Location:	NULL NULL
+
+(10) - Finish
+	TOBB2
+		Images:	6518
+		Time:	23.02.2025 09:04:48 until 23.02.2025 15:21:03
+		Duration:	06:16:15
+		Location:	NULL NULL
+
+	TOBB2LS1
+		Images:	3063
+		Time:	23.02.2025 08:54:49 until 23.02.2025 15:02:46
+		Duration:	06:07:57
+		Location:	NULL NULL
+
+	PANO1
+	TOBB2LS2
+		Images:	3059
+		Time:	23.02.2025 08:53:46 until 23.02.2025 15:08:45
+		Duration:	06:14:59
+		Location:	NULL NULL
+

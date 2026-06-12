@@ -1,0 +1,55 @@
+EventId: 13527
+Spots: 7
+Total Images: 31630
+Time:	05.04.2025 07:25:51 to 05.04.2025 14:28:58
+Duration: 07:03:07
+
+(1) - Start
+	GMU1
+		Images:	1892
+		Time:	05.04.2025 07:25:51 until 05.04.2025 10:12:00
+		Duration:	02:46:09
+		Location:	53.00398 -6.29981
+
+(2) - Bike - Km 1.5 of 59K & 43K &42K
+	SOUG1
+		Images:	1657
+		Time:	05.04.2025 07:40:07 until 05.04.2025 09:49:44
+		Duration:	02:09:37
+		Location:	52.99261 -6.30364
+
+(3) - Bike - Km 11.5 of 21K / Km 30 of 42K & 43K / Km 46 of 59K
+	GEB1
+		Images:	3209
+		Time:	05.04.2025 07:55:00 until 05.04.2025 12:32:15
+		Duration:	04:37:15
+		Location:	52.98888 -6.29678
+
+(4) - Run - Km 16 of 21K / Km 37 of 42K /Km 37.5 of 43K / Km 53 of 59K
+	HED1
+		Images:	7646
+		Time:	05.04.2025 07:28:10 until 05.04.2025 13:56:36
+		Duration:	06:28:26
+		Location:	53.00140 -6.34561
+
+(5) - Kayak -
+	OHAL1
+		Images:	7743
+		Time:	05.04.2025 07:52:16 until 05.04.2025 14:06:16
+		Duration:	06:14:00
+		Location:	53.00580 -6.34749
+
+(6) - Finish
+	GMU2
+		Images:	9475
+		Time:	05.04.2025 10:50:01 until 05.04.2025 14:28:58
+		Duration:	03:38:57
+		Location:	53.00633 -6.29907
+
+(7) - Impressions / Pano
+	SOUG1DRONE1
+		Images:	8
+		Time:	05.04.2025 08:10:08 until 05.04.2025 13:22:36
+		Duration:	05:12:28
+		Location:	53.00511 -6.30334
+

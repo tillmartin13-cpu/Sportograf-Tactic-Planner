@@ -1,0 +1,242 @@
+EventId: 14149
+Spots: 38
+Total Images: 71688
+Time:	07.11.2025 12:35:15 to 08.11.2025 20:20:29
+Duration: 1.07:45:14
+
+(1) - 1.4 km /12km
+	THL3
+		Images:	1247
+		Time:	08.11.2025 15:25:27 until 08.11.2025 15:45:18
+		Duration:	00:19:51
+		Location:	50.47751 6.10428
+
+	THL3LS1
+		Images:	226
+		Time:	08.11.2025 15:20:47 until 08.11.2025 15:46:07
+		Duration:	00:25:20
+		Location:	50.47751 6.10428
+
+(2) - 2.0 km
+	TOBB1DRONE1
+		Images:	43
+		Time:	08.11.2025 11:06:38 until 08.11.2025 13:07:34
+		Duration:	02:00:56
+		Location:	50.48046 6.10711
+
+	TOBB1
+		Images:	2613
+		Time:	07.11.2025 13:03:08 until 08.11.2025 10:21:21
+		Duration:	21:18:13
+		Location:	50.48046 6.10711
+
+	TOBB1LS1
+		Images:	519
+		Time:	07.11.2025 13:06:42 until 08.11.2025 10:29:31
+		Duration:	21:22:49
+		Location:	50.48046 6.10711
+
+	TOBB1LS2
+		Images:	599
+		Time:	07.11.2025 13:05:10 until 08.11.2025 10:22:46
+		Duration:	21:17:36
+		Location:	50.48046 6.10711
+
+(3) - 1.4 km
+	NWO1
+		Images:	1168
+		Time:	08.11.2025 08:15:07 until 08.11.2025 10:19:01
+		Duration:	02:03:54
+		Location:	50.48079 6.10724
+
+	NWO1LS1
+		Images:	405
+		Time:	08.11.2025 09:23:31 until 08.11.2025 10:19:36
+		Duration:	00:56:05
+		Location:	50.48079 6.10724
+
+	NWO1LS2
+		Images:	232
+		Time:	08.11.2025 09:15:38 until 08.11.2025 10:19:35
+		Duration:	01:03:57
+		Location:	50.48079 6.10724
+
+(4) - Start
+	TOBB3
+		Images:	223
+		Time:	08.11.2025 11:16:22 until 08.11.2025 13:01:06
+		Duration:	01:44:44
+		Location:	50.47473 6.10202
+
+(5) - 7.2 km
+	LV1
+		Images:	4532
+		Time:	08.11.2025 08:24:27 until 08.11.2025 11:06:47
+		Duration:	02:42:20
+		Location:	50.46739 6.07165
+
+	LV1LS3
+		Images:	757
+		Time:	08.11.2025 08:05:11 until 08.11.2025 11:10:50
+		Duration:	03:05:39
+		Location:	50.46739 6.07165
+
+	LV1LS2
+		Images:	497
+		Time:	08.11.2025 10:34:59 until 08.11.2025 11:10:20
+		Duration:	00:35:21
+		Location:	50.46739 6.07165
+
+	LV1LS1
+		Images:	493
+		Time:	08.11.2025 08:14:52 until 08.11.2025 09:08:08
+		Duration:	00:53:16
+		Location:	50.46739 6.07165
+
+(6) - 7.6 km
+	MK1
+		Images:	5475
+		Time:	08.11.2025 08:31:24 until 08.11.2025 11:07:27
+		Duration:	02:36:03
+		Location:	50.46809 6.07303
+
+	MK1LS1
+		Images:	1119
+		Time:	08.11.2025 07:58:10 until 08.11.2025 11:20:42
+		Duration:	03:22:32
+		Location:	50.46809 6.07303
+
+	MK1LS2
+		Images:	930
+		Time:	08.11.2025 08:16:56 until 08.11.2025 11:17:28
+		Duration:	03:00:32
+		Location:	50.46809 6.07303
+
+(7) - 12.0 km /36&65
+	THL1
+		Images:	7473
+		Time:	08.11.2025 08:52:09 until 08.11.2025 11:55:53
+		Duration:	03:03:44
+		Location:	50.44714 6.05188
+
+	THL1DRONE1
+		Images:	25
+		Time:	08.11.2025 10:19:48 until 08.11.2025 14:43:42
+		Duration:	04:23:54
+		Location:	50.44727 6.05188
+
+	THL1LS1
+		Images:	971
+		Time:	07.11.2025 12:35:15 until 08.11.2025 12:06:12
+		Duration:	23:30:57
+		Location:	50.44727 6.05188
+
+	THL1LS2
+		Images:	951
+		Time:	07.11.2025 12:37:55 until 08.11.2025 12:01:22
+		Duration:	23:23:27
+		Location:	50.44727 6.05188
+
+	THL1LS3
+		Images:	499
+		Time:	07.11.2025 12:40:35 until 08.11.2025 11:55:57
+		Duration:	23:15:22
+		Location:	50.44714 6.05188
+
+(8) - 12.0 km before finisch / 36&65 Barrage
+	THL2
+		Images:	346
+		Time:	08.11.2025 14:00:33 until 08.11.2025 14:28:42
+		Duration:	00:28:09
+		Location:	50.44822 6.11760
+
+	THL2LS1
+		Images:	181
+		Time:	08.11.2025 13:43:26 until 08.11.2025 14:32:43
+		Duration:	00:49:17
+		Location:	50.44822 6.11760
+
+	THL2LS2
+		Images:	173
+		Time:	08.11.2025 13:40:10 until 08.11.2025 14:32:32
+		Duration:	00:52:22
+		Location:	50.44822 6.11760
+
+(9) - 4.6 km before finish
+	MK2
+		Images:	11768
+		Time:	08.11.2025 12:40:16 until 08.11.2025 17:59:55
+		Duration:	05:19:39
+		Location:	50.46930 6.09331
+
+	MK2LS1
+		Images:	2010
+		Time:	08.11.2025 12:24:05 until 08.11.2025 17:58:10
+		Duration:	05:34:05
+		Location:	50.46930 6.09331
+
+(10) - 4.0 km before finish
+	LV2
+		Images:	7641
+		Time:	08.11.2025 12:37:18 until 08.11.2025 18:14:11
+		Duration:	05:36:53
+		Location:	50.46617 6.09151
+
+	LV2LS1
+		Images:	1468
+		Time:	08.11.2025 12:11:21 until 08.11.2025 16:29:56
+		Duration:	04:18:35
+		Location:	50.46617 6.09151
+
+	LV2LS2
+		Images:	1843
+		Time:	08.11.2025 12:18:45 until 08.11.2025 17:45:45
+		Duration:	05:27:00
+		Location:	50.46617 6.09151
+
+(11) - 0.2 km before finish
+	NWO2LS1
+		Images:	418
+		Time:	08.11.2025 13:22:52 until 08.11.2025 16:05:16
+		Duration:	02:42:24
+		Location:	50.47385 6.10106
+
+	NWO2
+		Images:	2976
+		Time:	08.11.2025 12:31:26 until 08.11.2025 16:43:34
+		Duration:	04:12:08
+		Location:	50.47385 6.10106
+
+	NWO2LS2
+		Images:	374
+		Time:	08.11.2025 13:24:14 until 08.11.2025 16:04:52
+		Duration:	02:40:38
+		Location:	50.47385 6.10106
+
+(12) - Finish
+	TOBB2
+		Images:	3507
+		Time:	08.11.2025 13:07:32 until 08.11.2025 20:13:05
+		Duration:	07:05:33
+		Location:	50.47473 6.10202
+
+	TOBB2LS2
+		Images:	5126
+		Time:	08.11.2025 10:23:40 until 08.11.2025 20:13:57
+		Duration:	09:50:17
+		Location:	50.47473 6.10202
+
+	TOBB2LS1
+		Images:	2390
+		Time:	08.11.2025 12:14:48 until 08.11.2025 20:20:29
+		Duration:	08:05:41
+		Location:	50.47473 6.10202
+
+	NWO3
+		Images:	470
+		Time:	08.11.2025 16:46:20 until 08.11.2025 19:24:21
+		Duration:	02:38:01
+		Location:	50.47473 6.10202
+
+(13) - Impressions / Pano
+	PANO1

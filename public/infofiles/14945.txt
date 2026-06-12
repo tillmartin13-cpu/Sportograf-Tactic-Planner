@@ -1,0 +1,211 @@
+EventId: 14945
+Spots: 31
+Total Images: 99238
+Time:	21.06.2025 06:00:49 to 22.06.2025 09:48:47
+Duration: 1.03:47:58
+
+(1) - Finish
+	AYO1
+		Images:	8964
+		Time:	21.06.2025 11:08:34 until 22.06.2025 00:54:54
+		Duration:	13:46:20
+		Location:	36.24708 136.37246
+
+	GIP2
+		Images:	551
+		Time:	22.06.2025 08:10:45 until 22.06.2025 09:25:35
+		Duration:	01:14:50
+		Location:	36.24708 136.37246
+
+	GIP2LS1
+		Images:	1232
+		Time:	21.06.2025 21:24:37 until 22.06.2025 09:09:20
+		Duration:	11:44:43
+		Location:	36.24708 136.37246
+
+	GIP2LS2
+		Images:	20475
+		Time:	21.06.2025 10:13:46 until 22.06.2025 09:18:48
+		Duration:	23:05:02
+		Location:	36.24708 136.37246
+
+	KTN4
+		Images:	248
+		Time:	22.06.2025 01:02:13 until 22.06.2025 04:58:12
+		Duration:	03:55:59
+		Location:	36.24708 136.37246
+
+	YH1
+		Images:	2166
+		Time:	21.06.2025 19:05:21 until 22.06.2025 09:19:05
+		Duration:	14:13:44
+		Location:	36.24708 136.37246
+
+(2) - 100K/50K - 3 Km
+	AYO2
+		Images:	3957
+		Time:	21.06.2025 07:14:37 until 21.06.2025 09:10:11
+		Duration:	01:55:34
+		Location:	36.24747 136.36679
+
+(3) - 100K/50K - 2.2 Km
+	GIP1
+		Images:	5623
+		Time:	21.06.2025 06:00:49 until 21.06.2025 11:17:05
+		Duration:	05:16:16
+		Location:	36.25011 136.37087
+
+	GIP1LS2
+		Images:	405
+		Time:	21.06.2025 06:33:30 until 21.06.2025 10:12:49
+		Duration:	03:39:19
+		Location:	36.25011 136.37087
+
+	GIP1LS1
+		Images:	1986
+		Time:	21.06.2025 06:44:46 until 21.06.2025 08:59:05
+		Duration:	02:14:19
+		Location:	36.25011 136.37087
+
+(4) - 100K - 95.3 Km | 50K - 54.1 Km | 20K - 18.3 Km
+	GIP3
+		Images:	5111
+		Time:	21.06.2025 11:26:58 until 21.06.2025 21:19:56
+		Duration:	09:52:58
+		Location:	36.24711 136.37390
+
+(5) - 100K - 95.1 Km | 50K - 53.9 Km | 20K - 18.1 Km
+	GIP3LS1
+		Images:	805
+		Time:	21.06.2025 11:15:15 until 21.06.2025 18:49:10
+		Duration:	07:33:55
+		Location:	36.24832 136.37590
+
+(6) - 100K - 97 Km | 50K - 55.7 Km
+	GIP4
+		Images:	481
+		Time:	21.06.2025 21:42:05 until 22.06.2025 00:54:30
+		Duration:	03:12:25
+		Location:	36.24657 136.37241
+
+	KIK4
+		Images:	369
+		Time:	22.06.2025 00:58:58 until 22.06.2025 04:57:19
+		Duration:	03:58:21
+		Location:	36.24657 136.37241
+
+(7) - 100K - 23.7 Km
+	HTT1
+		Images:	16572
+		Time:	21.06.2025 06:45:25 until 21.06.2025 13:47:35
+		Duration:	07:02:10
+		Location:	36.19152 136.35939
+
+	HTT1IMP1
+		Images:	1
+		Time:	21.06.2025 06:45:47 until 21.06.2025 06:45:47
+		Duration:	00:00:00
+		Location:	36.19152 136.35939
+
+	HTT1LS1
+		Images:	1460
+		Time:	21.06.2025 09:06:45 until 21.06.2025 17:02:39
+		Duration:	07:55:54
+		Location:	36.19152 136.35939
+
+(8) - 100K - 95.2 Km | 50K - 53.9 Km | 20K - 18.2 Km
+	HTT2
+		Images:	5149
+		Time:	21.06.2025 16:39:06 until 22.06.2025 07:47:21
+		Duration:	15:08:15
+		Location:	36.24684 136.37548
+
+	HTT2LS2
+		Images:	2096
+		Time:	21.06.2025 17:04:55 until 22.06.2025 07:16:26
+		Duration:	14:11:31
+		Location:	36.24684 136.37548
+
+	HTT2LS1
+		Images:	2601
+		Time:	21.06.2025 07:50:22 until 22.06.2025 09:48:47
+		Duration:	1.01:58:25
+		Location:	36.24684 136.37548
+
+(9) - 100K/50K - 0.5 Km
+	KIK1
+		Images:	1325
+		Time:	21.06.2025 07:01:49 until 21.06.2025 08:44:43
+		Duration:	01:42:54
+		Location:	36.24282 136.36917
+
+(10) - 20K - 1.5 Km
+	KIK2
+		Images:	1118
+		Time:	21.06.2025 10:03:58 until 21.06.2025 10:24:48
+		Duration:	00:20:50
+		Location:	36.21726 136.43639
+
+(11) - 100K - 84 Km | 50K - 43 Km
+	KIK3
+		Images:	2586
+		Time:	21.06.2025 12:56:59 until 22.06.2025 00:58:08
+		Duration:	12:01:09
+		Location:	36.27593 136.42639
+
+(12) - Start
+	KTN1
+		Images:	634
+		Time:	21.06.2025 06:49:53 until 21.06.2025 08:41:12
+		Duration:	01:51:19
+		Location:	36.24708 136.37246
+
+(13) - Start - 20K
+	KTN2
+		Images:	277
+		Time:	21.06.2025 09:48:24 until 21.06.2025 10:10:49
+		Duration:	00:22:25
+		Location:	36.22538 136.45386
+
+(14) - 100K - 85.5 Km | 50K - 44.5 Km
+	KTN3
+		Images:	2777
+		Time:	21.06.2025 13:01:05 until 21.06.2025 17:51:21
+		Duration:	04:50:16
+		Location:	36.27527 136.40891
+
+(15) - 100K - 34.6 Km | 50K - 18.5 Km
+	RSK1
+		Images:	3888
+		Time:	21.06.2025 09:38:25 until 21.06.2025 14:38:08
+		Duration:	04:59:43
+		Location:	36.20224 136.39504
+
+(16) - 100K - 95.4 Km | 50K - 54.1 Km | 20K - 18.3 Km
+	RSK2
+		Images:	2104
+		Time:	21.06.2025 15:47:43 until 22.06.2025 06:18:27
+		Duration:	14:30:44
+		Location:	36.24628 136.37364
+
+(17) - 100K - 96.9 Km | 50K - 55.6 Km
+	RSK3
+		Images:	1516
+		Time:	22.06.2025 06:18:51 until 22.06.2025 09:26:07
+		Duration:	03:07:16
+		Location:	36.24505 136.37128
+
+(18) - 100K - 35 Km | 50K - 19 Km
+	YH2
+		Images:	2327
+		Time:	21.06.2025 09:35:40 until 21.06.2025 14:18:09
+		Duration:	04:42:29
+		Location:	36.20078 136.38671
+
+(19) - 100K - 95.8 Km | 50K - 50.5 Km | 20K - 18.7 Km
+	YH3
+		Images:	434
+		Time:	21.06.2025 16:01:18 until 21.06.2025 18:34:17
+		Duration:	02:32:59
+		Location:	36.24372 136.37242
+

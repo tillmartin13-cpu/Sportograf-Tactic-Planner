@@ -1,0 +1,143 @@
+EventId: 14151
+Spots: 21
+Total Images: 45714
+Time:	28.06.2025 10:25:03 to 28.06.2025 18:54:26
+Duration: 08:29:23
+
+(1) - Obstacle Bobbahn
+	GUD1
+		Images:	6639
+		Time:	28.06.2025 11:12:43 until 28.06.2025 16:35:00
+		Duration:	05:22:17
+		Location:	50.71020 10.70667
+
+	GUD1LS1
+		Images:	741
+		Time:	28.06.2025 11:12:47 until 28.06.2025 16:35:02
+		Duration:	05:22:15
+		Location:	50.71020 10.70667
+
+	GUD1LS2
+		Images:	756
+		Time:	28.06.2025 11:09:52 until 28.06.2025 16:35:04
+		Duration:	05:25:12
+		Location:	50.71020 10.70667
+
+(2) - Tauchbecken
+	MDO1
+		Images:	5818
+		Time:	28.06.2025 11:01:25 until 28.06.2025 17:13:37
+		Duration:	06:12:12
+		Location:	50.70560 10.69344
+
+(3) - Laufstrecke nach Tauchbecken
+	MDO1LS1
+		Images:	785
+		Time:	28.06.2025 10:25:57 until 28.06.2025 17:14:52
+		Duration:	06:48:55
+		Location:	50.70560 10.69344
+
+(4) - Sandsack tragen
+	CLL1
+		Images:	3769
+		Time:	28.06.2025 11:51:26 until 28.06.2025 17:20:05
+		Duration:	05:28:39
+		Location:	50.70714 10.69389
+
+	CLL1LS1
+		Images:	1587
+		Time:	28.06.2025 10:29:50 until 28.06.2025 17:22:33
+		Duration:	06:52:43
+		Location:	50.70714 10.69389
+
+	CLL1LS2
+		Images:	1504
+		Time:	28.06.2025 10:25:03 until 28.06.2025 17:22:05
+		Duration:	06:57:02
+		Location:	50.70714 10.69389
+
+(5) - Laufstrecke nach Sandsack tragen
+	SBU1LS1
+		Images:	1278
+		Time:	28.06.2025 10:50:17 until 28.06.2025 17:32:57
+		Duration:	06:42:40
+		Location:	50.70717 10.69335
+
+(6) - Hangelhindernis Biathlonstadion
+	SBU1
+		Images:	3012
+		Time:	28.06.2025 11:53:58 until 28.06.2025 17:26:29
+		Duration:	05:32:31
+		Location:	50.70760 10.69362
+
+(7) - Skihalle
+	MAE1
+		Images:	3288
+		Time:	28.06.2025 11:07:58 until 28.06.2025 17:54:25
+		Duration:	06:46:27
+		Location:	50.70951 10.70396
+
+	MAE1LS1
+		Images:	751
+		Time:	28.06.2025 10:33:07 until 28.06.2025 17:44:13
+		Duration:	07:11:06
+		Location:	50.70951 10.70396
+
+	MAE1LS2
+		Images:	2488
+		Time:	28.06.2025 10:46:43 until 28.06.2025 17:53:50
+		Duration:	07:07:07
+		Location:	50.70951 10.70396
+
+(8) - Schanzenanlage Wadeberg
+	NU1
+		Images:	3110
+		Time:	28.06.2025 10:41:09 until 28.06.2025 18:25:56
+		Duration:	07:44:47
+		Location:	50.70971 10.71999
+
+	NU1LS1
+		Images:	3381
+		Time:	28.06.2025 10:40:07 until 28.06.2025 18:33:03
+		Duration:	07:52:56
+		Location:	50.70929 10.71882
+
+	NU1LS2
+		Images:	2985
+		Time:	28.06.2025 10:34:44 until 28.06.2025 16:26:07
+		Duration:	05:51:23
+		Location:	50.70929 10.71882
+
+(9) - Finish
+	RJ1LS1
+		Images:	1714
+		Time:	28.06.2025 12:34:56 until 28.06.2025 18:45:33
+		Duration:	06:10:37
+		Location:	50.70624 10.72439
+
+	RJ1LS2
+		Images:	868
+		Time:	28.06.2025 12:33:42 until 28.06.2025 18:54:26
+		Duration:	06:20:44
+		Location:	50.70624 10.72439
+
+(10) - Herotent
+	RJ1
+		Images:	1231
+		Time:	28.06.2025 11:19:46 until 28.06.2025 18:47:12
+		Duration:	07:27:26
+		Location:	50.70624 10.72439
+
+(11) - Impressions / Pano
+	GUD1DRONE1
+		Images:	7
+		Time:	28.06.2025 13:44:08 until 28.06.2025 13:51:35
+		Duration:	00:07:27
+		Location:	50.71020 10.70667
+
+	PANO1
+		Images:	2
+		Time:	28.06.2025 11:12:30 until 28.06.2025 16:36:49
+		Duration:	05:24:19
+		Location:	50.70760 10.69362
+

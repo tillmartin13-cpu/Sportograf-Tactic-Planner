@@ -1,0 +1,181 @@
+EventId: 14030
+Spots: 28
+Total Images: 68817
+Time:	27.09.2025 06:11:11 to 27.09.2025 21:55:02
+Duration: 15:43:51
+
+(1) - 8.5 km
+	ISA1
+		Images:	1773
+		Time:	27.09.2025 08:56:04 until 27.09.2025 15:14:02
+		Duration:	06:17:58
+		Location:	47.99838 7.85702
+
+	ISA1LS2
+		Images:	810
+		Time:	27.09.2025 08:45:53 until 27.09.2025 12:01:57
+		Duration:	03:16:04
+		Location:	47.99838 7.85702
+
+	ISA1LS1
+		Images:	819
+		Time:	27.09.2025 08:32:19 until 27.09.2025 12:16:27
+		Duration:	03:44:08
+		Location:	47.99838 7.85702
+
+(2) - Finish
+	ISA2
+		Images:	2869
+		Time:	27.09.2025 15:15:52 until 27.09.2025 21:50:55
+		Duration:	06:35:03
+		Location:	48.01302 7.84024
+
+	ISA2LS2
+		Images:	1313
+		Time:	27.09.2025 14:21:57 until 27.09.2025 21:55:02
+		Duration:	07:33:05
+		Location:	48.01302 7.84024
+
+	ISA2LS1
+		Images:	1027
+		Time:	27.09.2025 14:21:55 until 27.09.2025 20:01:19
+		Duration:	05:39:24
+		Location:	48.01302 7.84024
+
+(3) - Start
+	LGRU1
+		Images:	2179
+		Time:	27.09.2025 06:11:11 until 27.09.2025 11:20:15
+		Duration:	05:09:04
+		Location:	48.01302 7.84024
+
+(4) - Herotent
+	LGRU2
+		Images:	697
+		Time:	27.09.2025 14:00:33 until 27.09.2025 19:05:29
+		Duration:	05:04:56
+		Location:	48.01302 7.84024
+
+	MAPP2
+		Images:	891
+		Time:	27.09.2025 15:15:06 until 27.09.2025 21:38:41
+		Duration:	06:23:35
+		Location:	48.01302 7.84024
+
+(5) - 9.0 km
+	LUJ1
+		Images:	1968
+		Time:	27.09.2025 08:25:00 until 27.09.2025 12:26:43
+		Duration:	04:01:43
+		Location:	47.99543 7.85232
+
+	LUJ1LS1
+		Images:	2661
+		Time:	27.09.2025 07:55:38 until 27.09.2025 12:02:46
+		Duration:	04:07:08
+		Location:	47.99543 7.85232
+
+(6) - 41.0 km
+	LUJ2
+		Images:	6385
+		Time:	27.09.2025 13:55:00 until 27.09.2025 20:38:07
+		Duration:	06:43:07
+		Location:	47.96395 7.81678
+
+	LUJ2LS1
+		Images:	1899
+		Time:	27.09.2025 14:18:45 until 27.09.2025 19:30:53
+		Duration:	05:12:08
+		Location:	47.96395 7.81678
+
+(7) - 29.0 km
+	MAPP1
+		Images:	3089
+		Time:	27.09.2025 10:50:10 until 27.09.2025 13:54:45
+		Duration:	03:04:35
+		Location:	47.98784 7.90536
+
+	MAPP1LS1
+		Images:	2596
+		Time:	27.09.2025 09:56:41 until 27.09.2025 13:05:56
+		Duration:	03:09:15
+		Location:	47.98784 7.90536
+
+(8) - 10.0 km
+	MAWI1
+		Images:	5504
+		Time:	27.09.2025 08:40:16 until 27.09.2025 12:13:57
+		Duration:	03:33:41
+		Location:	47.99399 7.85227
+
+	MAWI1LS2
+		Images:	2163
+		Time:	27.09.2025 13:41:35 until 27.09.2025 17:07:51
+		Duration:	03:26:16
+		Location:	47.99399 7.85227
+
+	MAWI1LS1
+		Images:	3580
+		Time:	27.09.2025 08:55:02 until 27.09.2025 13:45:47
+		Duration:	04:50:45
+		Location:	47.99399 7.85227
+
+	MAWI2LS2
+		Images:	2163
+		Time:	27.09.2025 13:41:35 until 27.09.2025 17:07:51
+		Duration:	03:26:16
+		Location:	47.99399 7.85227
+
+(9) - 49.0 km
+	MAWI2
+		Images:	4830
+		Time:	27.09.2025 13:24:08 until 27.09.2025 18:38:56
+		Duration:	05:14:48
+		Location:	47.95516 7.83119
+
+	MAWI2LS1
+		Images:	1431
+		Time:	27.09.2025 13:47:36 until 27.09.2025 19:07:45
+		Duration:	05:20:09
+		Location:	47.95516 7.83119
+
+(10) - 11.0 km
+	MOG1
+		Images:	4761
+		Time:	27.09.2025 09:07:01 until 27.09.2025 12:33:47
+		Duration:	03:26:46
+		Location:	47.99352 7.85715
+
+	MOG1LS2
+		Images:	2974
+		Time:	27.09.2025 08:44:42 until 27.09.2025 12:42:53
+		Duration:	03:58:11
+		Location:	47.99352 7.85715
+
+	MOG1LS1
+		Images:	2914
+		Time:	27.09.2025 08:57:35 until 27.09.2025 12:43:46
+		Duration:	03:46:11
+		Location:	47.99352 7.85715
+
+(11) - 49.5 km
+	MOG2
+		Images:	4180
+		Time:	27.09.2025 15:02:40 until 27.09.2025 21:11:54
+		Duration:	06:09:14
+		Location:	48.01108 7.84465
+
+	MOG2LS2
+		Images:	1682
+		Time:	27.09.2025 12:43:41 until 27.09.2025 19:50:13
+		Duration:	07:06:32
+		Location:	48.01108 7.84465
+
+	MOG2LS1
+		Images:	1659
+		Time:	27.09.2025 14:28:59 until 27.09.2025 19:47:11
+		Duration:	05:18:12
+		Location:	48.01108 7.84465
+
+(12) - Impressions / Pano
+	PANO1

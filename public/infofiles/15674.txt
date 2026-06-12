@@ -1,0 +1,188 @@
+EventId: 15674
+Spots: 27
+Total Images: 105994
+Time:	01.01.0001 23:00:00 to 02.03.2025 10:30:54
+Duration: 739310.11:30:54
+
+(1) - Impressions / Pano
+	PANO1
+(2) - 0.0 km FInish TOm 860494
+	TMEND1
+		Images:	9447
+		Time:	02.03.2025 05:58:20 until 02.03.2025 08:48:53
+		Duration:	02:50:33
+		Location:	NULL NULL
+
+(3) - 0.0 km Finish trigger 1 860495
+	TMEND1LS2
+		Images:	8771
+		Time:	02.03.2025 06:03:38 until 02.03.2025 08:29:56
+		Duration:	02:26:18
+		Location:	NULL NULL
+
+(4) - 0.0 km Finish trigger 2 860496
+	TMEND1LS3
+		Images:	6606
+		Time:	02.03.2025 06:02:24 until 02.03.2025 08:30:41
+		Duration:	02:28:17
+		Location:	NULL NULL
+
+(5) - 0.0 km Medals Manuel 864163
+	MMORA1
+		Images:	1634
+		Time:	02.03.2025 05:08:47 until 02.03.2025 09:05:34
+		Duration:	03:56:47
+		Location:	NULL NULL
+
+(6) - 0.0 km Medals Joshua 864162
+	JDIEJ1
+		Images:	1043
+		Time:	02.03.2025 05:31:53 until 02.03.2025 09:08:21
+		Duration:	03:36:28
+		Location:	NULL NULL
+
+(7) - 0.0 km MSC1 Dave 860475
+	DADEL1
+		Images:	348
+		Time:	02.03.2025 05:20:05 until 02.03.2025 05:35:18
+		Duration:	00:15:13
+		Location:	NULL NULL
+
+(8) - 0.0 km Pre Fin Dave 860491
+	DADEL2
+		Images:	6428
+		Time:	02.03.2025 05:58:57 until 02.03.2025 08:24:57
+		Duration:	02:26:00
+		Location:	NULL NULL
+
+(9) - 0.0 km PRe Fin trigger 864166
+	DADEL2LS1
+		Images:	8742
+		Time:	02.03.2025 07:40:37 until 02.03.2025 10:30:54
+		Duration:	02:50:17
+		Location:	NULL NULL
+
+(10) - 0.0 km Pre Fin Trigger 2 864167
+	DADEL2LS2
+		Images:	8802
+		Time:	02.03.2025 05:38:04 until 02.03.2025 08:33:09
+		Duration:	02:55:05
+		Location:	NULL NULL
+
+(11) - 0.0 km MSC 1 Manuel 860476
+	MSANC1
+		Images:	767
+		Time:	02.03.2025 05:19:42 until 02.03.2025 05:35:11
+		Duration:	00:15:29
+		Location:	NULL NULL
+
+(12) - 0.0 km Pre Fin Manuel 860492
+	MSANC2
+		Images:	6082
+		Time:	02.03.2025 05:58:40 until 02.03.2025 08:38:44
+		Duration:	02:40:04
+		Location:	NULL NULL
+
+(13) - 0.0 km MSC3 Oscar 860481
+	OOCHO1
+		Images:	2776
+		Time:	02.03.2025 05:47:40 until 02.03.2025 07:00:36
+		Duration:	01:12:56
+		Location:	NULL NULL
+
+(14) - 0.0 km MSC 3 Trigger 860482
+	OOCHO1LS1
+		Images:	3917
+		Time:	02.02.2025 05:49:28 until 02.02.2025 07:02:22
+		Duration:	01:12:54
+		Location:	NULL NULL
+
+(15) - 0.0 km MSC 1 Andres 860477
+	AMEN1
+		Images:	287
+		Time:	02.03.2025 05:03:45 until 02.03.2025 05:34:22
+		Duration:	00:30:37
+		Location:	NULL NULL
+
+(16) - 0.0 km MSC 4 Andres 860483
+	AMEN2
+		Images:	4166
+		Time:	02.03.2025 06:19:27 until 02.03.2025 08:06:11
+		Duration:	01:46:44
+		Location:	NULL NULL
+
+(17) - 0.0 km MSC 4 Trigger 860485
+	AMEN2LS1
+		Images:	6267
+		Time:	02.03.2025 05:16:43 until 02.03.2025 07:06:35
+		Duration:	01:49:52
+		Location:	NULL NULL
+
+(18) - 0.0 km MSC 4 Julian 860484
+	JULIA1
+		Images:	2486
+		Time:	02.03.2025 06:16:50 until 02.03.2025 08:15:56
+		Duration:	01:59:06
+		Location:	NULL NULL
+
+(19) - 0.0 km MSC 5 Scott 860486
+	SMYLO1
+		Images:	4574
+		Time:	02.03.2025 07:11:46 until 02.03.2025 09:06:55
+		Duration:	01:55:09
+		Location:	NULL NULL
+
+	SMYLO2
+		Images:	2362
+		Time:	02.03.2025 05:55:15 until 02.03.2025 07:11:38
+		Duration:	01:16:23
+		Location:	NULL NULL
+
+(20) - 0.0 km Pre Fin Wyman Jong 860490
+	WJONG1
+		Images:	7919
+		Time:	02.03.2025 05:29:53 until 02.03.2025 09:16:37
+		Duration:	03:46:44
+		Location:	NULL NULL
+
+(21) - 0.0 km Pre FIn Fredy 860493
+	FLAN1
+		Images:	2948
+		Time:	02.03.2025 06:46:10 until 02.03.2025 08:39:20
+		Duration:	01:53:10
+		Location:	NULL NULL
+
+	FLAN2
+		Images:	806
+		Time:	02.03.2025 05:22:03 until 02.03.2025 06:28:32
+		Duration:	01:06:29
+		Location:	NULL NULL
+
+(22) - 0.0 km MSC 6 Jatienl 860488
+	JAZZE1
+		Images:	5270
+		Time:	02.03.2025 05:12:59 until 02.03.2025 08:09:49
+		Duration:	02:56:50
+		Location:	NULL NULL
+
+(23) - 0.0 km Pre FIn Christian 864165
+	CGAIT1
+		Images:	2727
+		Time:	02.03.2025 05:38:20 until 02.03.2025 08:46:50
+		Duration:	03:08:30
+		Location:	NULL NULL
+
+(24) - 0.0 km Stephen Medals 864164
+	SCAND1
+		Images:	649
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(25) - 0.0 km Stephen PR 860474
+	SCAND2
+		Images:	170
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+

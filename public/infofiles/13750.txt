@@ -1,0 +1,132 @@
+EventId: 13750
+Spots: 19
+Total Images: 85821
+Time:	17.08.2025 07:28:10 to 17.08.2025 16:54:08
+Duration: 09:25:58
+
+(1) - Bike - Kalvarienberg
+	ANFI1
+		Images:	4996
+		Time:	17.08.2025 08:06:02 until 17.08.2025 11:01:50
+		Duration:	02:55:48
+		Location:	47.56411 10.22161
+
+	NJO2
+		Images:	7125
+		Time:	17.08.2025 08:23:52 until 17.08.2025 11:15:00
+		Duration:	02:51:08
+		Location:	47.56411 10.22161
+
+(2) - Run - last 100 m
+	ANFI2
+		Images:	6543
+		Time:	17.08.2025 11:47:55 until 17.08.2025 15:20:30
+		Duration:	03:32:35
+		Location:	47.57052 10.19146
+
+	NJO3
+		Images:	45
+		Time:	17.08.2025 12:39:02 until 17.08.2025 12:43:20
+		Duration:	00:04:18
+		Location:	47.57052 10.19146
+
+	NJO3LS2
+		Images:	2052
+		Time:	17.08.2025 12:22:07 until 17.08.2025 15:27:41
+		Duration:	03:05:34
+		Location:	47.57052 10.19146
+
+(3) - Swim - Start
+	BSI1
+		Images:	1383
+		Time:	17.08.2025 07:44:45 until 17.08.2025 10:21:43
+		Duration:	02:36:58
+		Location:	47.57022 10.19244
+
+	MBRE3
+		Images:	135
+		Time:	17.08.2025 07:43:09 until 17.08.2025 07:55:22
+		Duration:	00:12:13
+		Location:	47.57022 10.19244
+
+	NJO1
+		Images:	4
+		Time:	17.08.2025 07:44:06 until 17.08.2025 07:52:33
+		Duration:	00:08:27
+		Location:	47.57022 10.19244
+
+(4) - Finish
+	BSI2
+		Images:	10800
+		Time:	17.08.2025 10:28:12 until 17.08.2025 16:54:08
+		Duration:	06:25:56
+		Location:	47.56965 10.19246
+
+	NJO3LS1
+		Images:	1164
+		Time:	17.08.2025 12:03:19 until 17.08.2025 16:24:25
+		Duration:	04:21:06
+		Location:	47.56965 10.19246
+
+(5) - Bike - Lake
+	FLOS1
+		Images:	14170
+		Time:	17.08.2025 07:28:10 until 17.08.2025 12:27:48
+		Duration:	04:59:38
+		Location:	47.63957 10.24163
+
+(6) - Bike - Transition zone
+	MBRE1
+		Images:	1673
+		Time:	17.08.2025 08:17:43 until 17.08.2025 10:26:39
+		Duration:	02:08:56
+		Location:	47.57116 10.19896
+
+(7) - Run - Kuhsteig
+	MBRE2
+		Images:	3619
+		Time:	17.08.2025 10:36:19 until 17.08.2025 15:04:39
+		Duration:	04:28:20
+		Location:	47.57287 10.19736
+
+(8) - Swim - Impressions / Pano
+	NJO1DRONE1
+		Images:	22
+		Time:	17.08.2025 07:46:41 until 17.08.2025 10:51:53
+		Duration:	03:05:12
+		Location:	47.57022 10.19244
+
+(9) - Bike - corner
+	SIPE1
+		Images:	13090
+		Time:	17.08.2025 08:44:06 until 17.08.2025 12:47:45
+		Duration:	04:03:39
+		Location:	47.64566 10.22182
+
+(10) - Bike - 180° corner
+	TH1
+		Images:	3360
+		Time:	17.08.2025 09:15:04 until 17.08.2025 13:49:10
+		Duration:	04:34:06
+		Location:	47.58799 10.18516
+
+(11) - Swim - Transition zone
+	SISA1
+		Images:	4378
+		Time:	17.08.2025 07:43:41 until 17.08.2025 08:57:44
+		Duration:	01:14:03
+		Location:	47.57007 10.19275
+
+	SISA2
+		Images:	1467
+		Time:	17.08.2025 09:09:52 until 17.08.2025 10:13:19
+		Duration:	01:03:27
+		Location:	47.57447 10.19372
+
+(12) - Run - Last 2 km
+	SISA3
+		Images:	9795
+		Time:	17.08.2025 10:35:25 until 17.08.2025 14:25:17
+		Duration:	03:49:52
+		Location:	47.57769 10.19371
+

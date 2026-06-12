@@ -1,0 +1,79 @@
+EventId: 16276
+Spots: 11
+Total Images: 45132
+Time:	30.08.2025 06:28:39 to 30.08.2025 20:53:00
+Duration: 14:24:21
+
+(1) - Start
+	YCAN1
+		Images:	2558
+		Time:	30.08.2025 06:28:39 until 30.08.2025 10:12:55
+		Duration:	03:44:16
+		Location:	56.23431 -4.20898
+
+	SMK1
+		Images:	200
+		Time:	30.08.2025 06:30:19 until 30.08.2025 06:56:36
+		Duration:	00:26:17
+		Location:	56.23431 -4.20898
+
+	DCOI1
+		Images:	2626
+		Time:	30.08.2025 06:28:47 until 30.08.2025 09:31:45
+		Duration:	03:02:58
+		Location:	56.23344 -4.20819
+
+(2) - Bridge over River Teith
+	PHA1
+		Images:	7182
+		Time:	30.08.2025 06:55:33 until 30.08.2025 09:47:59
+		Duration:	02:52:26
+		Location:	56.24304 -4.21711
+
+(3) - Midway between start and AM checkpoint
+	SMK2
+		Images:	3176
+		Time:	30.08.2025 07:45:04 until 30.08.2025 13:01:53
+		Duration:	05:16:49
+		Location:	56.22866 -4.34008
+
+(4) - Half Marathon Finish Line
+	DCOI2
+		Images:	4397
+		Time:	30.08.2025 10:50:24 until 30.08.2025 16:37:02
+		Duration:	05:46:38
+		Location:	56.18043 -4.37186
+
+(5) - PM checkpoint (Loch Venchar Sailing Club)
+	SMK3
+		Images:	1823
+		Time:	30.08.2025 13:45:39 until 30.08.2025 19:11:32
+		Duration:	05:25:53
+		Location:	56.22119 -4.27537
+
+(6) - Finish
+	PHA2
+		Images:	5201
+		Time:	30.08.2025 12:25:56 until 30.08.2025 20:53:00
+		Duration:	08:27:04
+		Location:	56.23431 -4.20898
+
+	YCAN2
+		Images:	16827
+		Time:	30.08.2025 12:49:38 until 30.08.2025 20:40:25
+		Duration:	07:50:47
+		Location:	56.23431 -4.20898
+
+	DCOI3
+		Images:	834
+		Time:	30.08.2025 17:54:46 until 30.08.2025 19:09:20
+		Duration:	01:14:34
+		Location:	56.23431 -4.20898
+
+(7) - Impressions / Pano
+	PANO1
+		Images:	308
+		Time:	30.08.2025 06:29:32 until 30.08.2025 19:34:15
+		Duration:	13:04:43
+		Location:	NULL NULL
+

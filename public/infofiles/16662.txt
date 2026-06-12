@@ -1,0 +1,107 @@
+EventId: 16662
+Spots: 16
+Total Images: 92758
+Time:	29.06.2025 06:44:53 to 29.06.2025 19:51:17
+Duration: 13:06:24
+
+(1) - Freibier-Station
+	ADRE1
+		Images:	9186
+		Time:	29.06.2025 10:09:07 until 29.06.2025 18:16:10
+		Duration:	08:07:03
+		Location:	48.62274 9.73719
+
+(2) - Serpentinen Unterböhringen
+	AKAM1
+		Images:	14158
+		Time:	29.06.2025 09:35:47 until 29.06.2025 18:47:03
+		Duration:	09:11:16
+		Location:	48.62979 9.77173
+
+(3) - Finish
+	SISA1
+		Images:	13914
+		Time:	29.06.2025 09:50:28 until 29.06.2025 19:02:06
+		Duration:	09:11:38
+		Location:	48.73918 9.75563
+
+	YS3LS2
+		Images:	2408
+		Time:	29.06.2025 15:45:11 until 29.06.2025 19:18:45
+		Duration:	03:33:34
+		Location:	48.73918 9.75563
+
+	YS3LS1
+		Images:	2476
+		Time:	29.06.2025 15:37:16 until 29.06.2025 19:13:13
+		Duration:	03:35:57
+		Location:	48.73918 9.75563
+
+(4) - mittlere Serpentine am oberen Berg
+	YS1
+		Images:	6730
+		Time:	29.06.2025 10:16:11 until 29.06.2025 16:27:59
+		Duration:	06:11:48
+		Location:	48.58455 9.71512
+
+	YS1LS2
+		Images:	3180
+		Time:	29.06.2025 09:37:15 until 29.06.2025 14:39:43
+		Duration:	05:02:28
+		Location:	48.58455 9.71512
+
+	YS1LS1
+		Images:	3229
+		Time:	29.06.2025 09:36:37 until 29.06.2025 14:38:42
+		Duration:	05:02:05
+		Location:	48.58455 9.71512
+
+(5) - Abfahrt nach Bad Ditzenbach
+	NLI1
+		Images:	4286
+		Time:	29.06.2025 09:57:53 until 29.06.2025 18:20:34
+		Duration:	08:22:41
+		Location:	48.62979 9.77173
+
+(6) - Impressions / Pano
+	YS1DRONE1
+		Images:	15
+		Time:	29.06.2025 11:41:53 until 29.06.2025 17:20:16
+		Duration:	05:38:23
+		Location:	NULL NULL
+
+	PANO1
+(7) - letzte Serpentine am oberen Berg
+	YS2LS1
+		Images:	3040
+		Time:	29.06.2025 09:51:18 until 29.06.2025 14:46:46
+		Duration:	04:55:28
+		Location:	48.58270 9.72038
+
+	YS2LS2
+		Images:	191
+		Time:	29.06.2025 09:55:51 until 29.06.2025 12:08:29
+		Duration:	02:12:38
+		Location:	48.58270 9.72038
+
+(8) - Zielkurve
+	YS4LS1
+		Images:	1875
+		Time:	29.06.2025 16:11:07 until 29.06.2025 19:39:39
+		Duration:	03:28:32
+		Location:	48.73880 9.75674
+
+(9) - Tannweiler Höhe
+	MSAI1
+		Images:	8463
+		Time:	29.06.2025 06:44:53 until 29.06.2025 16:11:38
+		Duration:	09:26:45
+		Location:	48.73330 9.83477
+
+(10) - letzter Anstieg (Reichenbach)
+	MSAI2
+		Images:	19607
+		Time:	29.06.2025 10:32:02 until 29.06.2025 19:51:17
+		Duration:	09:19:15
+		Location:	48.71228 9.78287
+

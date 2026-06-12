@@ -1,0 +1,195 @@
+EventId: 14753
+Spots: 32
+Total Images: 86910
+Time:	01.01.0001 23:00:00 to 04.05.2025 19:22:38
+Duration: 739373.20:22:38
+
+(1) - Finish
+	AKS1
+		Images:	6484
+		Time:	05.04.2025 10:07:07 until 05.04.2025 19:28:50
+		Duration:	09:21:43
+		Location:	48.21090 16.36083
+
+	AKS1LS2
+		Images:	961
+		Time:	05.04.2025 18:26:08 until 05.04.2025 19:29:34
+		Duration:	01:03:26
+		Location:	48.21090 16.36083
+
+	AKS1LS1
+		Images:	449
+		Time:	05.04.2025 16:42:17 until 05.04.2025 17:32:42
+		Duration:	00:50:25
+		Location:	48.21090 16.36083
+
+	CK1LS4
+	CK1
+		Images:	3731
+		Time:	05.04.2025 13:14:10 until 05.04.2025 17:49:00
+		Duration:	04:34:50
+		Location:	48.21090 16.36083
+
+	CK2
+		Images:	3349
+		Time:	05.04.2025 18:28:11 until 05.04.2025 19:20:38
+		Duration:	00:52:27
+		Location:	48.21090 16.36083
+
+	CK2LS1
+	CK1LS3
+		Images:	1649
+		Time:	05.04.2025 18:00:45 until 05.04.2025 19:23:36
+		Duration:	01:22:51
+		Location:	48.21090 16.36083
+
+	CK1LS2
+		Images:	3142
+		Time:	05.04.2025 18:22:46 until 05.04.2025 19:23:59
+		Duration:	01:01:13
+		Location:	48.21090 16.36083
+
+	CK1LS1
+		Images:	7485
+		Time:	01.01.0001 23:00:00 until 05.04.2025 18:06:37
+		Duration:	739344.19:06:37
+		Location:	48.21090 16.36083
+
+(2) - 800.0 m
+	COR1
+		Images:	2692
+		Time:	05.04.2025 15:46:01 until 05.04.2025 17:27:21
+		Duration:	01:41:20
+		Location:	48.20551 16.36163
+
+	COR2LS2
+		Images:	563
+		Time:	05.04.2025 16:33:06 until 05.04.2025 17:27:41
+		Duration:	00:54:35
+		Location:	48.20551 16.36163
+
+	COR2LS1
+		Images:	363
+		Time:	05.04.2025 15:44:51 until 05.04.2025 16:18:20
+		Duration:	00:33:29
+		Location:	48.20551 16.36163
+
+	COR1LS4
+		Images:	1628
+		Time:	05.04.2025 16:35:10 until 05.04.2025 17:27:21
+		Duration:	00:52:11
+		Location:	48.20551 16.36163
+
+	COR1LS3
+		Images:	1064
+		Time:	05.04.2025 15:46:01 until 05.04.2025 16:18:15
+		Duration:	00:32:14
+		Location:	48.20551 16.36163
+
+	COR1LS2
+		Images:	588
+		Time:	05.04.2025 16:31:33 until 05.04.2025 17:27:49
+		Duration:	00:56:16
+		Location:	48.20551 16.36163
+
+	COR1LS1
+		Images:	965
+		Time:	05.04.2025 18:14:10 until 05.04.2025 19:12:16
+		Duration:	00:58:06
+		Location:	48.20259 16.36811
+
+	YS1LS1
+		Images:	1749
+		Time:	05.04.2025 09:10:05 until 05.04.2025 17:59:30
+		Duration:	08:49:25
+		Location:	48.20838 16.35997
+
+	YS1LS5
+		Images:	701
+		Time:	05.04.2025 09:06:03 until 05.04.2025 17:29:08
+		Duration:	08:23:05
+		Location:	48.20838 16.35997
+
+	YS1LS3
+		Images:	588
+		Time:	05.04.2025 09:10:05 until 05.04.2025 17:59:30
+		Duration:	08:49:25
+		Location:	48.20838 16.35997
+
+(3) - 3.0 km
+	COR2
+		Images:	2755
+		Time:	05.04.2025 18:25:26 until 05.04.2025 19:11:55
+		Duration:	00:46:29
+		Location:	48.20259 16.36811
+
+	COR2LS3
+		Images:	821
+		Time:	05.04.2025 18:09:10 until 05.04.2025 19:12:28
+		Duration:	01:03:18
+		Location:	48.20259 16.36811
+
+(4) - 600.0 m
+	EH1
+		Images:	5735
+		Time:	05.04.2025 15:07:32 until 05.04.2025 18:32:58
+		Duration:	03:25:26
+		Location:	48.20838 16.36012
+
+	EH1LS2
+		Images:	3868
+		Time:	05.04.2025 17:41:02 until 05.04.2025 20:43:35
+		Duration:	03:02:33
+		Location:	48.20838 16.36012
+
+	EH1LS1
+		Images:	4000
+		Time:	31.12.2012 23:00:14 until 04.05.2025 18:54:44
+		Duration:	4506.19:54:30
+		Location:	48.20838 16.36012
+
+(5) - 4.0 km
+	EH2
+		Images:	9655
+		Time:	05.04.2025 18:32:58 until 05.04.2025 19:25:39
+		Duration:	00:52:41
+		Location:	48.20838 16.36012
+
+	EH2LS1
+		Images:	1664
+		Time:	04.05.2025 18:54:45 until 04.05.2025 19:22:38
+		Duration:	00:27:53
+		Location:	48.20838 16.36012
+
+	YS1LS2
+		Images:	2996
+		Time:	05.04.2025 18:20:24 until 05.04.2025 19:03:41
+		Duration:	00:43:17
+		Location:	48.20838 16.35997
+
+(6) - 800.0 km
+	YS1
+		Images:	7623
+		Time:	05.04.2025 10:03:15 until 05.04.2025 18:33:05
+		Duration:	08:29:50
+		Location:	48.20838 16.35997
+
+(7) - 2.0 km
+	YS1LS6
+		Images:	521
+		Time:	05.04.2025 18:20:54 until 05.04.2025 19:03:28
+		Duration:	00:42:34
+		Location:	48.20838 16.35997
+
+	YS1LS4
+		Images:	663
+		Time:	05.04.2025 18:20:24 until 05.04.2025 19:03:41
+		Duration:	00:43:17
+		Location:	48.20838 16.35997
+
+	YS2
+		Images:	8458
+		Time:	05.04.2025 18:22:32 until 05.04.2025 19:05:40
+		Duration:	00:43:08
+		Location:	48.20581 16.36110
+

@@ -1,0 +1,80 @@
+EventId: 14597
+Spots: 11
+Total Images: 65449
+Time:	15.11.2025 05:18:19 to 16.11.2026 14:39:19
+Duration: 366.09:21:00
+
+(1) - #4 SLIP WALL
+	MSK1
+		Images:	16283
+		Time:	15.11.2025 05:47:31 until 16.11.2025 13:18:38
+		Duration:	1.07:31:07
+		Location:	34.27961 -81.56873
+
+(2) - #6 MONKEY BARS
+	CHIT1
+		Images:	4148
+		Time:	16.11.2025 06:35:05 until 16.11.2025 13:23:04
+		Duration:	06:47:59
+		Location:	34.28017 -81.57040
+
+	TAT1
+		Images:	3526
+		Time:	15.11.2025 05:18:19 until 16.11.2025 13:18:31
+		Duration:	1.08:00:12
+		Location:	34.28017 -81.57040
+
+(3) - #7 BERBED WIRE CRAWL
+	RUHO1
+		Images:	6664
+		Time:	15.11.2025 05:47:11 until 16.11.2025 13:31:00
+		Duration:	1.07:43:49
+		Location:	34.27990 -81.57167
+
+(4) - #31 A-FRAME CARGO
+	MBRS1
+		Images:	9782
+		Time:	15.11.2025 05:30:27 until 16.11.2025 14:45:46
+		Duration:	1.09:15:19
+		Location:	34.27907 -81.56736
+
+(5) - #29 ATLAS CARRY
+	TFUL1
+		Images:	8012
+		Time:	16.11.2025 07:46:52 until 16.11.2025 15:34:41
+		Duration:	07:47:49
+		Location:	34.27751 -81.56868
+
+(6) - #32 FIRE JUMP
+	AAD1
+		Images:	9447
+		Time:	15.11.2025 05:20:01 until 16.11.2025 14:48:29
+		Duration:	1.09:28:28
+		Location:	34.27973 -81.56835
+
+	SICA1LS1
+		Images:	5617
+		Time:	16.11.2026 06:42:38 until 16.11.2026 14:39:19
+		Duration:	07:56:41
+		Location:	34.27973 -81.56835
+
+(7) - Herotent
+	SAMT1
+		Images:	1605
+		Time:	16.11.2025 06:52:47 until 16.11.2025 14:49:59
+		Duration:	07:57:12
+		Location:	34.27973 -81.56835
+
+	SICA1
+		Images:	145
+		Time:	15.11.2025 07:52:29 until 15.11.2026 07:32:23
+		Duration:	364.23:39:54
+		Location:	34.27973 -81.56835
+
+(8) - Impressions / Pano
+	SICA2
+		Images:	220
+		Time:	16.11.2025 07:40:11 until 16.11.2026 09:01:25
+		Duration:	365.01:21:14
+		Location:	34.27973 -81.56835
+

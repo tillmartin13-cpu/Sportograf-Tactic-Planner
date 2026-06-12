@@ -1,0 +1,163 @@
+EventId: 13822
+Spots: 25
+Total Images: 162989
+Time:	01.01.0001 23:00:00 to 07.09.2025 17:04:07
+Duration: 739499.18:04:07
+
+(1) - Swim - Start
+	SSW1
+		Images:	3664
+		Time:	07.09.2025 07:12:03 until 07.09.2025 11:34:22
+		Duration:	04:22:19
+		Location:	50.93091 6.9705
+
+	SSW2
+		Images:	2079
+		Time:	07.09.2025 12:59:09 until 07.09.2025 14:39:26
+		Duration:	01:40:17
+		Location:	50.93747 6.96832
+
+	BLA1
+		Images:	2939
+		Time:	07.09.2025 07:25:58 until 07.09.2025 14:39:26
+		Duration:	07:13:28
+		Location:	50.93091 6.9705
+
+(2) - Swim - Transition zone
+	JKE1
+		Images:	4988
+		Time:	07.09.2025 08:20:47 until 07.09.2025 11:57:10
+		Duration:	03:36:23
+		Location:	50.94954 6.97284
+
+	JKE1LS2
+		Images:	1855
+		Time:	06.09.2025 21:27:44 until 07.09.2025 13:19:51
+		Duration:	15:52:07
+		Location:	50.94954 6.97284
+
+	JKE1LS1
+		Images:	2130
+		Time:	07.09.2025 09:38:24 until 07.09.2025 14:29:51
+		Duration:	04:51:27
+		Location:	50.94954 6.97284
+
+(3) - Bike - 1.9 km
+	LV1
+		Images:	10426
+		Time:	07.09.2025 08:28:17 until 07.09.2025 15:45:06
+		Duration:	07:16:49
+		Location:	50.93634 6.96113
+
+	LV1LS1
+		Images:	1670
+		Time:	01.01.0001 23:00:00 until 07.09.2025 15:08:48
+		Duration:	739499.16:08:48
+		Location:	50.93634 6.96113
+
+(4) - Bike - 3.5 km
+	MBEN1
+		Images:	13463
+		Time:	07.09.2025 08:00:00 until 07.09.2025 12:22:56
+		Duration:	04:22:56
+		Location:	50.94258 6.96259
+
+	MBEN1LS1
+		Images:	8336
+		Time:	07.09.2025 08:12:05 until 07.09.2025 12:55:54
+		Duration:	04:43:49
+		Location:	50.94258 6.96259
+
+(5) - Bike - 1.5 km after Bike Start
+	MK1
+		Images:	3590
+		Time:	07.09.2025 08:49:11 until 07.09.2025 14:15:40
+		Duration:	05:26:29
+		Location:	50.93665 6.96855
+
+(6) - Bike - 1.5 km before Trasition
+	MK2
+		Images:	29534
+		Time:	07.09.2025 10:04:52 until 07.09.2025 15:55:44
+		Duration:	05:50:52
+		Location:	50.93665 6.96855
+
+	MK1LS2
+		Images:	3036
+		Time:	07.09.2025 08:43:43 until 07.09.2025 15:52:18
+		Duration:	07:08:35
+		Location:	50.93665 6.96855
+
+	MK1LS1
+		Images:	3021
+		Time:	31.12.2012 23:05:38 until 01.01.2013 05:11:45
+		Duration:	06:06:07
+		Location:	50.93665 6.96855
+
+(7) - Run - Impressions / Pano
+	MK1DRONE1
+		Images:	29
+		Time:	07.09.2025 08:30:33 until 07.09.2025 14:07:31
+		Duration:	05:36:58
+		Location:	50.93665 6.96855
+
+(8) - Run - 1.0 km
+	SSW3
+		Images:	2292
+		Time:	07.09.2025 15:05:51 until 07.09.2025 16:14:53
+		Duration:	01:09:02
+		Location:	50.94045 6.96858
+
+(9) - Run - 2.5 km
+	OT1
+		Images:	17139
+		Time:	07.09.2025 08:12:05 until 07.09.2025 16:24:54
+		Duration:	08:12:49
+		Location:	50.94132 6.96629
+
+	OT1LS1
+		Images:	14444
+		Time:	07.09.2025 07:57:17 until 07.09.2025 16:28:55
+		Duration:	08:31:38
+		Location:	50.94132 6.96629
+
+(10) - Run - 15.0 km before Finish
+	MBEN2
+		Images:	12747
+		Time:	07.09.2025 13:04:40 until 07.09.2025 16:26:26
+		Duration:	03:21:46
+		Location:	50.94083 6.97143
+
+	MBEN2LS1
+		Images:	2680
+		Time:	07.09.2025 13:00:16 until 07.09.2025 16:21:22
+		Duration:	03:21:06
+		Location:	50.94083 6.97143
+
+(11) - Finish
+	MW1
+		Images:	13843
+		Time:	07.09.2025 09:09:18 until 07.09.2025 15:47:35
+		Duration:	06:38:17
+		Location:	50.94631 6.97177
+
+	MW1LS1
+		Images:	2517
+		Time:	07.09.2025 08:50:52 until 07.09.2025 17:04:05
+		Duration:	08:13:13
+		Location:	50.94631 6.97177
+
+	MW1LS2
+		Images:	2513
+		Time:	07.09.2025 08:44:55 until 07.09.2025 17:04:07
+		Duration:	08:19:12
+		Location:	50.94631 6.97177
+
+	JKE2
+		Images:	4054
+		Time:	07.09.2025 11:57:12 until 07.09.2025 16:50:48
+		Duration:	04:53:36
+		Location:	50.94631 6.97177
+
+(12) - Swim - Impressions / Pano
+	PANO1

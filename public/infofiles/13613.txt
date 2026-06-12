@@ -1,0 +1,62 @@
+EventId: 13613
+Spots: 8
+Total Images: 9364
+Time:	14.06.2025 07:15:51 to 14.06.2025 18:04:33
+Duration: 10:48:42
+
+(1) - 73,0 km
+	PBO1
+		Images:	1508
+		Time:	14.06.2025 08:57:15 until 14.06.2025 12:30:41
+		Duration:	03:33:26
+		Location:	50.77876 3.52527
+
+(2) - 74,0 km
+	LMC1
+		Images:	1910
+		Time:	14.06.2025 08:41:36 until 14.06.2025 13:25:34
+		Duration:	04:43:58
+		Location:	50.77538 3.54534
+
+(3) - 75,0 km
+	ACCA1
+		Images:	1480
+		Time:	14.06.2025 07:15:51 until 14.06.2025 13:24:19
+		Duration:	06:08:28
+		Location:	50.78213 3.54871
+
+(4) - 116,0 km
+	DAV1
+		Images:	780
+		Time:	14.06.2025 09:18:42 until 14.06.2025 12:28:22
+		Duration:	03:09:40
+		Location:	50.81391 3.75505
+
+(5) - 128,0 km
+	LMC2
+		Images:	1064
+		Time:	14.06.2025 12:33:51 until 14.06.2025 16:40:55
+		Duration:	04:07:04
+		Location:	50.82957 3.67413
+
+(6) - 134,0 km
+	PBO2
+		Images:	821
+		Time:	14.06.2025 13:29:12 until 14.06.2025 16:59:51
+		Duration:	03:30:39
+		Location:	50.84247 3.64223
+
+(7) - 151,0 km
+	ACCA2
+		Images:	620
+		Time:	14.06.2025 14:10:20 until 14.06.2025 16:48:36
+		Duration:	02:38:16
+		Location:	50.83098 3.70848
+
+(8) - 157,0 km
+	DAV2
+		Images:	1181
+		Time:	14.06.2025 14:11:24 until 14.06.2025 18:04:33
+		Duration:	03:53:09
+		Location:	50.83239 3.77961
+

@@ -1,0 +1,198 @@
+EventId: 15678
+Spots: 30
+Total Images: 91667
+Time:	31.12.1999 23:00:00 to 31.12.2099 22:59:59
+Duration: 36524.23:59:59
+
+(1) - Impressions / Pano
+	PANO1
+(2) - 0.0 km PreFinish - 859731 - Phillip Reyes
+	BPFPR1
+		Images:	6120
+		Time:	15.03.2025 04:36:10 until 15.03.2025 06:42:28
+		Duration:	02:06:18
+		Location:	NULL NULL
+
+(3) - 0.0 km MSC 1 - 859719 - Amaya Millner
+	BMOAM1
+		Images:	2974
+		Time:	15.03.2025 06:25:21 until 15.03.2025 07:06:19
+		Duration:	00:40:58
+		Location:	NULL NULL
+
+(4) - 0.0 km MSC 1 - 859720 - Andar Sawyer
+	BMOAS1
+(5) - none
+	BMOAS2
+		Images:	711
+		Time:	15.03.2025 04:10:29 until 15.03.2025 04:32:51
+		Duration:	00:22:22
+		Location:	NULL NULL
+
+	BMTJY1
+		Images:	964
+		Time:	15.03.2025 06:29:25 until 15.03.2025 07:21:45
+		Duration:	00:52:20
+		Location:	NULL NULL
+
+	BOFCC1
+		Images:	801
+		Time:	15.03.2025 18:59:57 until 15.03.2025 20:54:47
+		Duration:	01:54:50
+		Location:	NULL NULL
+
+	BFIAW1
+		Images:	3315
+		Time:	15.03.2025 06:11:08 until 15.03.2025 08:34:52
+		Duration:	02:23:44
+		Location:	NULL NULL
+
+	BFIDS1
+		Images:	4284
+		Time:	15.03.2025 06:35:20 until 15.03.2025 08:41:01
+		Duration:	02:05:41
+		Location:	NULL NULL
+
+	BTHGG1
+		Images:	5966
+		Time:	15.03.2025 06:44:47 until 15.03.2025 07:44:55
+		Duration:	01:00:08
+		Location:	NULL NULL
+
+	BTHJG1
+		Images:	3095
+		Time:	15.03.2025 06:32:57 until 15.03.2025 07:43:49
+		Duration:	01:10:52
+		Location:	NULL NULL
+
+	BTHID1
+		Images:	3447
+		Time:	15.03.2025 06:04:39 until 15.03.2025 07:45:51
+		Duration:	01:41:12
+		Location:	NULL NULL
+
+	BTHTO1
+		Images:	2722
+		Time:	15.03.2025 06:19:26 until 15.03.2025 07:45:13
+		Duration:	01:25:47
+		Location:	NULL NULL
+
+(6) - 0.0 km MSC 1 - 859721 - Trigger
+	BMOTO1
+		Images:	5287
+		Time:	15.03.2025 05:56:36 until 15.03.2025 08:15:11
+		Duration:	02:18:35
+		Location:	NULL NULL
+
+(7) - 0.0 km MSC 2 - 859729 - Lida Nixon
+	BMTLN1
+		Images:	3956
+		Time:	15.03.2025 06:00:10 until 15.03.2025 07:25:50
+		Duration:	01:25:40
+		Location:	NULL NULL
+
+(8) - 0.0 km MSC 2 - 859725 - Trigger
+	BMTTO1
+		Images:	1508
+		Time:	15.03.2025 06:08:18 until 15.03.2025 07:19:58
+		Duration:	01:11:40
+		Location:	NULL NULL
+
+(9) - 0.0 km MSC 4 - 859743 - Amaya Millner
+	BMFAM1
+		Images:	5572
+		Time:	15.03.2025 07:11:57 until 15.03.2025 08:18:49
+		Duration:	01:06:52
+		Location:	NULL NULL
+
+(10) - 0.0 km MSC 4 - 859744 - Andar Sawyer
+	BMFAS1
+		Images:	1948
+		Time:	15.03.2025 04:33:43 until 15.03.2025 05:35:27
+		Duration:	01:01:44
+		Location:	NULL NULL
+
+(11) - 0.0 km Finish - 859737 - Trigger
+	BFNTO1
+		Images:	6236
+		Time:	15.03.2025 06:29:14 until 15.03.2025 08:44:49
+		Duration:	02:15:35
+		Location:	NULL NULL
+
+(12) - 0.0 km Finish - 859735 - Steve Zanetti
+	BFNSZ1
+		Images:	4621
+		Time:	31.12.1999 23:00:00 until 31.12.2099 22:59:59
+		Duration:	36524.23:59:59
+		Location:	NULL NULL
+
+(13) - 0.0 km Finish - 859736 - Charlie McAdams
+	BFNCM1
+		Images:	4442
+		Time:	15.03.2025 05:04:46 until 15.03.2025 08:01:01
+		Duration:	02:56:15
+		Location:	NULL NULL
+
+(14) - 0.0 km PreFinish - 859732 - Trigger
+	BPFTO1
+		Images:	7640
+		Time:	15.03.2025 07:06:30 until 15.03.2025 09:14:58
+		Duration:	02:08:28
+		Location:	NULL NULL
+
+(15) - 0.0 km PreFinish - 859730 - Jonathan Roberts
+	BPFJR1
+		Images:	5673
+		Time:	15.03.2025 07:01:54 until 15.03.2025 08:49:06
+		Duration:	01:47:12
+		Location:	NULL NULL
+
+(16) - 0.0 km PreFinish - 859733 - Stuart Ramsey
+	BPFSR1
+		Images:	6915
+		Time:	15.03.2025 06:24:36 until 15.03.2025 08:58:16
+		Duration:	02:33:40
+		Location:	NULL NULL
+
+(17) - 0.0 km PR's & Start - 859718 - Jonathan Roberts
+	BSTJR1
+		Images:	317
+		Time:	15.03.2025 06:07:54 until 15.03.2025 06:43:23
+		Duration:	00:35:29
+		Location:	NULL NULL
+
+(18) - 0.0 km Second Media Card
+	BSTJR2
+		Images:	272
+		Time:	15.03.2025 06:04:15 until 15.03.2025 06:43:48
+		Duration:	00:39:33
+		Location:	NULL NULL
+
+(19) - 0.0 km Medals - 859742 - Spenser Motamedy
+	BMDSM1
+		Images:	704
+		Time:	15.03.2025 06:58:31 until 15.03.2025 09:02:02
+		Duration:	02:03:31
+		Location:	NULL NULL
+
+(20) - 0.0 km Medals - 859740 - Spenser Motamedy
+	BMDCW1
+		Images:	953
+		Time:	15.03.2025 07:08:00 until 15.03.2025 08:49:25
+		Duration:	01:41:25
+		Location:	NULL NULL
+
+(21) - 0.0 km Medals - 859739 - Dace Denk
+	BMDDD1
+		Images:	659
+		Time:	15.03.2025 06:58:06 until 15.03.2025 08:46:00
+		Duration:	01:47:54
+		Location:	NULL NULL
+
+(22) - 0.0 km OFP - 859746 - Anastaasiia Romanova
+	BOFAR1
+		Images:	565
+		Time:	15.03.2025 07:01:04 until 15.03.2025 08:56:19
+		Duration:	01:55:15
+		Location:	NULL NULL
+

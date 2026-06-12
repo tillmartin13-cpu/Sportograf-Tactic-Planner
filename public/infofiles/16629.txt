@@ -1,0 +1,58 @@
+EventId: 16629
+Spots: 8
+Total Images: 12445
+Time:	01.05.2025 08:12:16 to 01.05.2025 13:24:32
+Duration: 05:12:16
+
+(1) - Start
+	COR1
+		Images:	144
+		Time:	01.05.2025 09:21:06 until 01.05.2025 10:00:24
+		Duration:	00:39:18
+		Location:	47.28606 11.39911
+
+(2) - 500m Before Finish
+	CHR1LS1
+		Images:	421
+		Time:	01.05.2025 08:12:16 until 01.05.2025 12:57:03
+		Duration:	04:44:47
+		Location:	47.30241 11.37618
+
+	CHR1LS2
+		Images:	423
+		Time:	01.05.2025 09:55:39 until 01.05.2025 12:57:07
+		Duration:	03:01:28
+		Location:	47.30241 11.37618
+
+	CHR1
+		Images:	1690
+		Time:	01.05.2025 09:24:49 until 01.05.2025 13:14:28
+		Duration:	03:49:39
+		Location:	47.30241 11.37618
+
+(3) - 100m Before Finish
+	COR2LS1
+		Images:	4126
+		Time:	01.05.2025 10:24:05 until 01.05.2025 13:10:42
+		Duration:	02:46:37
+		Location:	47.30538 11.37802
+
+	COR2LS2
+		Images:	4015
+		Time:	01.05.2025 10:24:05 until 01.05.2025 13:10:42
+		Duration:	02:46:37
+		Location:	47.30538 11.37802
+
+(4) - Finish
+	COR2
+		Images:	1617
+		Time:	01.05.2025 10:13:49 until 01.05.2025 13:24:32
+		Duration:	03:10:43
+		Location:	47.30625 11.37770
+
+	COR2DRONE1
+		Images:	9
+		Time:	01.05.2025 11:36:39 until 01.05.2025 11:38:18
+		Duration:	00:01:39
+		Location:	47.30625 11.37770
+

@@ -1,0 +1,121 @@
+EventId: 14256
+Spots: 18
+Total Images: 105017
+Time:	06.09.2025 15:00:06 to 07.09.2025 17:38:14
+Duration: 1.02:38:08
+
+(1) - Swim - Start
+	BENP1
+		Images:	4472
+		Time:	06.09.2025 23:01:19 until 07.09.2025 10:21:29
+		Duration:	11:20:10
+		Location:	51.40756 6.78622
+
+	DRI1
+		Images:	116
+		Time:	07.09.2025 07:44:15 until 07.09.2025 08:17:44
+		Duration:	00:33:29
+		Location:	51.40756 6.78622
+
+	DRI1DRONE1
+		Images:	26
+		Time:	07.09.2025 07:59:33 until 07.09.2025 08:23:00
+		Duration:	00:23:27
+		Location:	51.40756 6.78622
+
+	MB1
+		Images:	467
+		Time:	07.09.2025 07:14:02 until 07.09.2025 09:16:08
+		Duration:	02:02:06
+		Location:	51.41123 6.7859
+
+	MIJA1
+		Images:	4580
+		Time:	07.09.2025 08:23:16 until 07.09.2025 10:19:40
+		Duration:	01:56:24
+		Location:	51.40756 6.78622
+
+	WIP1
+		Images:	1401
+		Time:	06.09.2025 15:00:06 until 07.09.2025 09:16:08
+		Duration:	18:16:02
+		Location:	51.41123 6.7859
+
+(2) - Run - 4,3 km
+	BENP2
+		Images:	3712
+		Time:	07.09.2025 11:08:02 until 07.09.2025 16:42:35
+		Duration:	05:34:33
+		Location:	51.40369 6.79048
+
+	MIJA2
+		Images:	11331
+		Time:	07.09.2025 10:38:23 until 07.09.2025 17:09:26
+		Duration:	06:31:03
+		Location:	51.40369 6.79048
+
+(3) - Bike - 42,7 km
+	DRI2
+		Images:	15059
+		Time:	07.09.2025 09:23:49 until 07.09.2025 13:59:39
+		Duration:	04:35:50
+		Location:	51.41478 6.79304
+
+	DRI1LS1
+		Images:	13395
+		Time:	07.09.2025 08:46:02 until 07.09.2025 12:41:00
+		Duration:	03:54:58
+		Location:	51.41478 6.79304
+
+(4) - Finish
+	DRI2LS2
+		Images:	4796
+		Time:	07.09.2025 13:35:43 until 07.09.2025 17:05:06
+		Duration:	03:29:23
+		Location:	51.40933 6.77912
+
+	DRI2LS1
+		Images:	1139
+		Time:	07.09.2025 13:45:28 until 07.09.2025 14:45:46
+		Duration:	01:00:18
+		Location:	51.40933 6.77912
+
+	MB2
+		Images:	7375
+		Time:	07.09.2025 09:47:41 until 07.09.2025 17:38:14
+		Duration:	07:50:33
+		Location:	51.40933 6.77912
+
+	WIP2
+		Images:	4757
+		Time:	07.09.2025 10:08:43 until 07.09.2025 17:37:47
+		Duration:	07:29:04
+		Location:	51.40933 6.77912
+
+	BBE3
+		Images:	1118
+		Time:	07.09.2025 15:06:39 until 07.09.2025 16:21:20
+		Duration:	01:14:41
+		Location:	51.40933 6.77912
+
+(5) - Bike - 1,6 km
+	NBA1
+		Images:	24772
+		Time:	07.09.2025 07:49:56 until 07.09.2025 14:23:46
+		Duration:	06:33:50
+		Location:	51.41478 6.79304
+
+(6) - Swim - Transition zone
+	BBE1
+		Images:	3246
+		Time:	07.09.2025 07:25:18 until 07.09.2025 10:37:00
+		Duration:	03:11:42
+		Location:	51.40825 6.77724
+
+(7) - Bike - 36,9 km
+	BBE2
+		Images:	3255
+		Time:	07.09.2025 11:01:30 until 07.09.2025 14:04:11
+		Duration:	03:02:41
+		Location:	51.41572 6.73976
+

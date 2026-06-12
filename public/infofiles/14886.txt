@@ -1,0 +1,74 @@
+EventId: 14886
+Spots: 11
+Total Images: 50080
+Time:	21.02.2025 07:47:27 to 28.02.2025 17:48:08
+Duration: 7.10:00:41
+
+(1) - 67,2 km till finish
+	IH1
+		Images:	5631
+		Time:	28.02.2025 06:32:35 until 28.02.2025 16:11:35
+		Duration:	09:39:00
+		Location:	61.07965 13.61263
+
+	IH1LS1
+		Images:	1580
+		Time:	28.02.2025 06:11:12 until 28.02.2025 11:38:05
+		Duration:	05:26:53
+		Location:	61.07965 13.61263
+
+(2) - 47,1 km till finish
+	MAV1
+		Images:	5464
+		Time:	22.02.2025 08:12:12 until 28.02.2025 13:28:21
+		Duration:	6.05:16:09
+		Location:	61.12197 13.90278
+
+(3) - 33,0 km till finish
+	DADA1
+		Images:	5030
+		Time:	25.02.2025 12:28:02 until 28.02.2025 15:35:50
+		Duration:	3.03:07:48
+		Location:	61.11315 14.10824
+
+(4) - 21,1 km till finish
+	GUD1
+		Images:	13236
+		Time:	28.02.2025 08:52:44 until 28.02.2025 15:34:03
+		Duration:	06:41:19
+		Location:	61.08441 14.27990
+
+	GUD1LS1
+		Images:	2966
+		Time:	28.02.2025 08:49:56 until 28.02.2025 15:30:02
+		Duration:	06:40:06
+		Location:	61.08441 14.27990
+
+	GUD1LS2
+		Images:	2981
+		Time:	28.02.2025 09:22:27 until 28.02.2025 15:30:01
+		Duration:	06:07:34
+		Location:	61.08441 14.27990
+
+(5) - 1,2 km till finish
+	JLA1
+		Images:	4897
+		Time:	21.02.2025 07:47:27 until 28.02.2025 17:40:07
+		Duration:	7.09:52:40
+		Location:	61.00847 14.52556
+
+(6) - Finish
+	RKO1
+		Images:	8240
+		Time:	28.02.2025 09:29:53 until 28.02.2025 17:48:08
+		Duration:	08:18:15
+		Location:	61.00706 14.54339
+
+(7) - Impressions / Pano
+	PANO1
+	GUD1DRONE1
+		Images:	11
+		Time:	28.02.2025 13:58:42 until 28.02.2025 14:04:21
+		Duration:	00:05:39
+		Location:	61.08441 14.27990
+

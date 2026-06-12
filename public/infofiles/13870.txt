@@ -1,0 +1,99 @@
+EventId: 13870
+Spots: 14
+Total Images: 9923
+Time:	12.07.2025 07:29:27 to 12.07.2025 18:13:28
+Duration: 10:44:01
+
+(1) - Start
+	NO1
+		Images:	1951
+		Time:	12.07.2025 08:01:11 until 12.07.2025 09:44:37
+		Duration:	01:43:26
+		Location:	47.96483 7.95492
+
+(2) - km3.0
+	HS1
+		Images:	554
+		Time:	12.07.2025 08:08:29 until 12.07.2025 09:43:53
+		Duration:	01:35:24
+		Location:	47.96047 7.98542
+
+	HS1LS1
+		Images:	328
+		Time:	12.07.2025 07:29:27 until 12.07.2025 09:51:32
+		Duration:	02:22:05
+		Location:	47.96047 7.98542
+
+	HS1LS2
+		Images:	312
+		Time:	12.07.2025 07:38:35 until 12.07.2025 09:43:42
+		Duration:	02:05:07
+		Location:	47.96047 7.98542
+
+(3) - km25
+	BP1LS1
+		Images:	461
+		Time:	12.07.2025 08:20:14 until 12.07.2025 12:26:03
+		Duration:	04:05:49
+		Location:	47.89443 8.10792
+
+(4) - Genuss Hotspot 1 Adlerschanze km25.5
+	BP1
+		Images:	265
+		Time:	12.07.2025 09:37:24 until 12.07.2025 12:15:03
+		Duration:	02:37:39
+		Location:	47.89786 8.11064
+
+	BP1DRONE1
+		Images:	12
+		Time:	12.07.2025 09:10:48 until 12.07.2025 15:14:14
+		Duration:	06:03:26
+		Location:	47.89786 8.11064
+
+(5) - km26
+	BP1LS2
+		Images:	492
+		Time:	12.07.2025 08:35:37 until 12.07.2025 12:30:05
+		Duration:	03:54:28
+		Location:	47.89391 8.11321
+
+(6) - Genuss Hotspot St.Maergen km49.5/113.5
+	HS2
+		Images:	355
+		Time:	12.07.2025 10:33:38 until 12.07.2025 16:03:01
+		Duration:	05:29:23
+		Location:	48.01462 8.09668
+
+(7) - km49.5/113.5
+	HS2LS2
+		Images:	510
+		Time:	12.07.2025 10:50:31 until 12.07.2025 16:06:01
+		Duration:	05:15:30
+		Location:	48.01462 8.09668
+
+	HS2LS1
+		Images:	677
+		Time:	12.07.2025 10:59:54 until 12.07.2025 16:08:37
+		Duration:	05:08:43
+		Location:	48.01462 8.09668
+
+(8) - km60.0/124.0
+	BP2
+		Images:	562
+		Time:	12.07.2025 14:04:40 until 12.07.2025 17:27:00
+		Duration:	03:22:20
+		Location:	48.01815 8.00930
+
+	BP2LS1
+		Images:	1650
+		Time:	12.07.2025 13:13:20 until 12.07.2025 17:47:17
+		Duration:	04:33:57
+		Location:	48.01815 8.00930
+
+(9) - Finish
+	NO2
+		Images:	1794
+		Time:	12.07.2025 14:31:44 until 12.07.2025 18:13:28
+		Duration:	03:41:44
+		Location:	47.95256 7.96101
+

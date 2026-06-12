@@ -1,0 +1,141 @@
+EventId: 15477
+Spots: 20
+Total Images: 177589
+Time:	21.06.2025 23:31:27 to 22.06.2025 21:35:02
+Duration: 22:03:35
+
+(1) - Start
+	JUW1
+		Images:	5882
+		Time:	22.06.2025 05:47:21 until 22.06.2025 09:15:11
+		Duration:	03:27:50
+		Location:	51.55269 -3.71454
+
+(2) - 18.0 km
+	DAWH1
+		Images:	16643
+		Time:	22.06.2025 06:54:56 until 22.06.2025 10:28:12
+		Duration:	03:33:16
+		Location:	51.64661 -3.76379
+
+(3) - 30.0 km
+	AHO1
+		Images:	9741
+		Time:	21.06.2025 23:31:27 until 22.06.2025 10:57:30
+		Duration:	11:26:03
+		Location:	51.71884 -3.69100
+
+(4) - 33.0 km
+	MALV1
+		Images:	11105
+		Time:	22.06.2025 07:25:57 until 22.06.2025 11:24:04
+		Duration:	03:58:07
+		Location:	51.73334 -3.66545
+
+	MALV1LS1
+		Images:	2510
+		Time:	22.06.2025 06:33:13 until 22.06.2025 11:11:46
+		Duration:	04:38:33
+		Location:	51.73334 -3.66545
+
+(5) - 40.0 km
+	COSU1
+		Images:	16859
+		Time:	22.06.2025 07:39:34 until 22.06.2025 11:33:05
+		Duration:	03:53:31
+		Location:	51.76033 -3.60481
+
+(6) - 41.0 km
+	RWA1
+		Images:	5301
+		Time:	22.06.2025 07:39:53 until 22.06.2025 11:38:21
+		Duration:	03:58:28
+		Location:	51.76902 -3.61714
+
+(7) - 79.0 km
+	KSTH1
+		Images:	4000
+		Time:	22.06.2025 10:38:07 until 22.06.2025 15:12:15
+		Duration:	04:34:08
+		Location:	51.84960 -3.84769
+
+(8) - 81.0 km
+	YCAN1
+		Images:	21082
+		Time:	22.06.2025 07:08:26 until 22.06.2025 12:45:36
+		Duration:	05:37:10
+		Location:	51.86203 -3.83667
+
+(9) - 198km, 107km, 56km
+	RWA2
+		Images:	4792
+		Time:	22.06.2025 12:32:26 until 22.06.2025 17:01:12
+		Duration:	04:28:46
+		Location:	51.86047 -3.64896
+
+(10) - 199km, 109km, 57km
+	COSU2
+		Images:	4636
+		Time:	22.06.2025 12:31:25 until 22.06.2025 16:50:43
+		Duration:	04:19:18
+		Location:	51.87307 -3.62961
+
+(11) - 240km, 165km, 108km, 48km
+	KSTH2
+		Images:	7138
+		Time:	22.06.2025 08:32:51 until 22.06.2025 20:04:29
+		Duration:	11:31:38
+		Location:	51.71809 -3.56144
+
+(12) - 241km, 166km, 109km, 49km
+	YCAN2
+		Images:	18419
+		Time:	22.06.2025 14:15:40 until 22.06.2025 20:19:02
+		Duration:	06:03:22
+		Location:	51.71551 -3.56221
+
+(13) - 260km, 180km, 119km, 63km
+	AHO2
+		Images:	11822
+		Time:	22.06.2025 13:00:02 until 22.06.2025 20:44:04
+		Duration:	07:44:02
+		Location:	51.64021 -3.53666
+
+(14) - 261km, 181km, 120km, 64km
+	DAWH2
+		Images:	11814
+		Time:	22.06.2025 11:40:17 until 22.06.2025 20:45:05
+		Duration:	09:04:48
+		Location:	51.64069 -3.53867
+
+(15) - Finish
+	JUW2
+		Images:	9617
+		Time:	22.06.2025 10:42:46 until 22.06.2025 21:14:57
+		Duration:	10:32:11
+		Location:	51.55269 -3.71454
+
+	JUW2LS1
+		Images:	3078
+		Time:	22.06.2025 10:57:00 until 22.06.2025 20:20:10
+		Duration:	09:23:10
+		Location:	51.55269 -3.71454
+
+	JUW2LS2
+		Images:	3040
+		Time:	22.06.2025 10:57:43 until 22.06.2025 20:21:06
+		Duration:	09:23:23
+		Location:	51.55269 -3.71454
+
+	MALV2
+		Images:	8837
+		Time:	22.06.2025 12:40:36 until 22.06.2025 21:35:02
+		Duration:	08:54:26
+		Location:	51.55269 -3.71454
+
+	MALV2LS1
+		Images:	1273
+		Time:	22.06.2025 12:24:56 until 22.06.2025 20:14:50
+		Duration:	07:49:54
+		Location:	51.55269 -3.71454
+

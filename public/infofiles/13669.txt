@@ -1,0 +1,66 @@
+EventId: 13669
+Spots: 9
+Total Images: 41085
+Time:	01.06.2025 07:37:28 to 01.06.2025 16:52:06
+Duration: 09:14:38
+
+(1) - Swim - Start
+	MIGE1
+		Images:	188
+		Time:	01.06.2025 07:58:43 until 01.06.2025 10:01:04
+		Duration:	02:02:21
+		Location:	49.14150 9.21566
+
+(2) - Bike - Transition zone
+	MSAI1
+		Images:	1776
+		Time:	01.06.2025 07:42:47 until 01.06.2025 10:24:01
+		Duration:	02:41:14
+		Location:	49.13991 9.21351
+
+(3) - Bike - 6,6 km After Start
+	SBRO1
+		Images:	9370
+		Time:	01.06.2025 07:37:28 until 01.06.2025 15:21:48
+		Duration:	07:44:20
+		Location:	49.12479 9.13061
+
+(4) - Bike - 10,9 km After Start
+	ROB1
+		Images:	7139
+		Time:	01.06.2025 09:01:16 until 01.06.2025 14:57:31
+		Duration:	05:56:15
+		Location:	49.11914 9.10022
+
+	ROB1LS2
+		Images:	2214
+		Time:	01.06.2025 08:32:41 until 01.06.2025 15:00:37
+		Duration:	06:27:56
+		Location:	49.11914 9.10022
+
+	ROB1LS1
+		Images:	2502
+		Time:	01.06.2025 07:54:23 until 01.06.2025 14:58:55
+		Duration:	07:04:32
+		Location:	49.11914 9.10022
+
+(5) - Run - 3,7 km After Start
+	MSAI2
+		Images:	9670
+		Time:	01.06.2025 10:46:18 until 01.06.2025 16:21:34
+		Duration:	05:35:16
+		Location:	49.13892 9.21369
+
+(6) - Finish
+	MIGE2LS1
+		Images:	4285
+		Time:	01.06.2025 10:32:51 until 01.06.2025 16:34:55
+		Duration:	06:02:04
+		Location:	49.14638 9.21871
+
+	MIGE2
+		Images:	3941
+		Time:	01.06.2025 10:34:23 until 01.06.2025 16:52:06
+		Duration:	06:17:43
+		Location:	49.14638 9.21871
+

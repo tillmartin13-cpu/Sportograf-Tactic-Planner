@@ -1,0 +1,96 @@
+EventId: 14677
+Spots: 13
+Total Images: 59537
+Time:	28.06.2025 07:51:00 to 30.06.2025 02:16:56
+Duration: 1.18:25:56
+
+(1) - Obstacle 3 Mud Mile
+	JBB1
+		Images:	11520
+		Time:	28.06.2025 09:14:54 until 29.06.2025 11:37:12
+		Duration:	1.02:22:18
+		Location:	NULL NULL
+
+(2) - Obstacle 8 ELECTRIC EEL
+	THAT1
+		Images:	5118
+		Time:	28.06.2025 09:32:50 until 29.06.2025 12:26:00
+		Duration:	1.02:53:10
+		Location:	NULL NULL
+
+(3) - Obstacle 1
+	THAT1DRONE1
+		Images:	75
+		Time:	28.06.2025 09:42:17 until 29.06.2025 11:40:00
+		Duration:	1.01:57:43
+		Location:	NULL NULL
+
+(4) - Obstacle 11 SKID MARKED
+	ERIC1
+		Images:	2850
+		Time:	28.06.2025 09:43:47 until 29.06.2025 14:40:17
+		Duration:	1.04:56:30
+		Location:	NULL NULL
+
+(5) - Obstacle 12 FUNKY MONKEY
+	LHBC1
+		Images:	4013
+		Time:	29.06.2025 10:05:36 until 29.06.2025 13:37:32
+		Duration:	03:31:56
+		Location:	NULL NULL
+
+	CASS1
+		Images:	1424
+		Time:	29.06.2025 10:05:47 until 29.06.2025 13:36:52
+		Duration:	03:31:05
+		Location:	NULL NULL
+
+(6) - Obstacle 16 BERLIN WALLS
+	AKAS1
+		Images:	5550
+		Time:	29.06.2025 08:53:08 until 30.06.2025 02:16:56
+		Duration:	17:23:48
+		Location:	NULL NULL
+
+(7) - Obstacle 19 LADDER TO HELL
+	DANM1
+		Images:	7396
+		Time:	29.06.2025 09:44:05 until 29.06.2025 14:29:25
+		Duration:	04:45:20
+		Location:	NULL NULL
+
+(8) - Obstacle 21 HANGIN TOUGH
+	MRKE1
+		Images:	5744
+		Time:	28.06.2025 07:51:00 until 29.06.2025 14:30:47
+		Duration:	1.06:39:47
+		Location:	NULL NULL
+
+(9) - Obstacle 22 BLOCKNESS MONSTER
+	LIT1
+		Images:	4052
+		Time:	28.06.2025 12:54:42 until 29.06.2025 14:30:00
+		Duration:	1.01:35:18
+		Location:	NULL NULL
+
+(10) - Obstacle 23 MUDDERHORN
+	OLAL1
+		Images:	7897
+		Time:	29.06.2025 10:02:00 until 29.06.2025 14:36:36
+		Duration:	04:34:36
+		Location:	NULL NULL
+
+(11) - Obstacle 24 ELECTROSHOCK THERAPY
+	RPLE1
+		Images:	3896
+		Time:	29.06.2025 08:56:19 until 29.06.2025 14:32:31
+		Duration:	05:36:12
+		Location:	NULL NULL
+
+(12) - Impressions / Pano
+	CCZ1
+		Images:	2
+		Time:	28.06.2025 10:19:42 until 28.06.2025 10:20:10
+		Duration:	00:00:28
+		Location:	45.16113 -92.91448
+

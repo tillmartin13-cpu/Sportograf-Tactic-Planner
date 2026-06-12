@@ -1,0 +1,100 @@
+EventId: 14171
+Spots: 14
+Total Images: 17159
+Time:	09.03.2025 06:26:19 to 09.03.2025 12:46:41
+Duration: 06:20:22
+
+(1) - Start
+	MOG1
+		Images:	493
+		Time:	09.03.2025 06:40:51 until 09.03.2025 09:04:55
+		Duration:	02:24:04
+		Location:	47.39180 8.03303
+
+(2) - Impressions / Pano
+	MOG1DRONE1
+		Images:	19
+		Time:	09.03.2025 08:09:14 until 09.03.2025 08:17:32
+		Duration:	00:08:18
+		Location:	47.39180 8.03303
+
+(3) - 1,1 km @HM
+	FMU1
+		Images:	553
+		Time:	09.03.2025 06:26:19 until 09.03.2025 09:11:24
+		Duration:	02:45:05
+		Location:	47.39292 8.04356
+
+(4) - 19,8 km @HM / 0,6km + 4,1km @5k
+	YMD1
+		Images:	2431
+		Time:	09.03.2025 08:23:35 until 09.03.2025 11:46:22
+		Duration:	03:22:47
+		Location:	47.39383 8.02745
+
+(5) - 20,3 km @HM / 1,0km + 4,5km @5k
+	DARA1
+		Images:	4744
+		Time:	09.03.2025 08:12:12 until 09.03.2025 12:00:02
+		Duration:	03:47:50
+		Location:	47.39391 8.03016
+
+(6) - 9,5 km @HM
+	EVL1
+		Images:	1510
+		Time:	09.03.2025 08:33:24 until 09.03.2025 10:19:11
+		Duration:	01:45:47
+		Location:	47.37422 8.07294
+
+	EVL1LS2
+		Images:	1319
+		Time:	09.03.2025 08:24:14 until 09.03.2025 10:26:25
+		Duration:	02:02:11
+		Location:	47.37422 8.07294
+
+	EVL1LS1
+		Images:	1195
+		Time:	09.03.2025 08:23:08 until 09.03.2025 10:23:46
+		Duration:	02:00:38
+		Location:	47.37422 8.07294
+
+(7) - Finish
+	MOG2
+		Images:	2286
+		Time:	09.03.2025 09:21:55 until 09.03.2025 12:07:13
+		Duration:	02:45:18
+		Location:	47.39180 8.03303
+
+	MOG2LS2
+		Images:	882
+		Time:	09.03.2025 07:43:05 until 09.03.2025 12:09:43
+		Duration:	04:26:38
+		Location:	47.39180 8.03303
+
+	MOG2LS1
+		Images:	875
+		Time:	09.03.2025 08:29:51 until 09.03.2025 12:10:04
+		Duration:	03:40:13
+		Location:	47.39180 8.03303
+
+(8) - Siegerehrung 5k
+	FMU3
+		Images:	62
+		Time:	09.03.2025 09:52:35 until 09.03.2025 10:00:25
+		Duration:	00:07:50
+		Location:	47.39180 8.03303
+
+(9) - Siegerehrung HM
+	FMU4
+		Images:	295
+		Time:	09.03.2025 12:15:27 until 09.03.2025 12:46:41
+		Duration:	00:31:14
+		Location:	47.39180 8.03303
+
+(10) - Impressionen
+	FMU2
+		Images:	495
+		Time:	09.03.2025 09:33:20 until 09.03.2025 12:15:14
+		Duration:	02:41:54
+		Location:	47.39146 8.03279
+

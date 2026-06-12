@@ -1,0 +1,350 @@
+EventId: 14604
+Spots: 58
+Total Images: 333368
+Time:	31.12.2016 23:00:03 to 26.01.2025 20:38:49
+Duration: 2947.21:38:46
+
+(1) - Running
+	BKO6LS2
+		Images:	6070
+		Time:	26.01.2025 06:15:43 until 26.01.2025 19:07:33
+		Duration:	12:51:50
+		Location:	53.47610 -2.24749
+
+	BKO6LS1
+		Images:	6845
+		Time:	26.01.2025 07:12:03 until 26.01.2025 19:07:33
+		Duration:	11:55:30
+		Location:	53.47610 -2.24749
+
+(2) - SkiErg
+	MKH1
+		Images:	5497
+		Time:	31.12.2016 23:00:03 until 26.01.2025 13:47:22
+		Duration:	2947.14:47:19
+		Location:	53.47610 -2.24749
+
+	KSTH1
+		Images:	3081
+		Time:	26.01.2025 05:55:36 until 26.01.2025 13:48:51
+		Duration:	07:53:15
+		Location:	53.47610 -2.24749
+
+	GHI1
+		Images:	10326
+		Time:	26.01.2025 06:44:08 until 26.01.2025 13:55:37
+		Duration:	07:11:29
+		Location:	53.47610 -2.24749
+
+	BKO1
+	CUP7
+		Images:	2632
+		Time:	26.01.2025 06:48:14 until 26.01.2025 13:59:58
+		Duration:	07:11:44
+		Location:	53.47610 -2.24749
+
+	PARO4
+		Images:	350
+		Time:	26.01.2025 09:04:27 until 26.01.2025 09:17:33
+		Duration:	00:13:06
+		Location:	53.47610 -2.24749
+
+	LOT2
+		Images:	7853
+		Time:	26.01.2025 14:13:41 until 26.01.2025 18:39:36
+		Duration:	04:25:55
+		Location:	53.47610 -2.24749
+
+	JBT2
+		Images:	3439
+		Time:	26.01.2025 14:02:29 until 26.01.2025 18:41:48
+		Duration:	04:39:19
+		Location:	53.47610 -2.24749
+
+	APDA2
+		Images:	4282
+		Time:	26.01.2025 13:55:03 until 26.01.2025 18:41:36
+		Duration:	04:46:33
+		Location:	53.47610 -2.24749
+
+(3) - Sled Push
+	JBT1
+		Images:	3964
+		Time:	26.01.2025 06:38:22 until 26.01.2025 13:52:25
+		Duration:	07:14:03
+		Location:	53.47610 -2.24749
+
+	APDA1
+		Images:	3520
+		Time:	26.01.2025 06:03:24 until 26.01.2025 13:52:56
+		Duration:	07:49:32
+		Location:	53.47610 -2.24749
+
+	YCAN1
+		Images:	3518
+		Time:	26.01.2025 06:54:29 until 26.01.2025 13:41:51
+		Duration:	06:47:22
+		Location:	53.47610 -2.24749
+
+	CUP6
+	PARO5
+		Images:	339
+		Time:	26.01.2025 09:24:15 until 26.01.2025 09:28:00
+		Duration:	00:03:45
+		Location:	53.47610 -2.24749
+
+	WIN2
+		Images:	4406
+		Time:	26.01.2025 13:58:40 until 26.01.2025 18:54:03
+		Duration:	04:55:23
+		Location:	53.47610 -2.24749
+
+	MKH2
+		Images:	5191
+		Time:	26.01.2025 13:58:28 until 26.01.2025 18:50:22
+		Duration:	04:51:54
+		Location:	53.47610 -2.24749
+
+	KSTH2
+		Images:	2131
+		Time:	26.01.2025 13:57:27 until 26.01.2025 18:51:17
+		Duration:	04:53:50
+		Location:	53.47610 -2.24749
+
+(4) - Sled Pull
+	KYY1
+		Images:	8913
+		Time:	26.01.2025 06:48:58 until 26.01.2025 14:01:12
+		Duration:	07:12:14
+		Location:	53.47610 -2.24749
+
+	PHA1
+		Images:	10279
+		Time:	26.01.2025 06:33:58 until 26.01.2025 13:59:22
+		Duration:	07:25:24
+		Location:	53.47610 -2.24749
+
+	BKO2
+		Images:	12979
+		Time:	26.01.2025 07:16:42 until 26.01.2025 17:39:43
+		Duration:	10:23:01
+		Location:	53.47610 -2.24749
+
+	CUP2
+		Images:	2725
+		Time:	26.01.2025 09:31:21 until 26.01.2025 17:40:46
+		Duration:	08:09:25
+		Location:	53.47610 -2.24749
+
+	PARO6
+		Images:	805
+		Time:	26.01.2025 09:29:05 until 26.01.2025 13:32:30
+		Duration:	04:03:25
+		Location:	53.47610 -2.24749
+
+	QVT2
+		Images:	8646
+		Time:	26.01.2025 10:46:21 until 26.01.2025 19:04:38
+		Duration:	08:18:17
+		Location:	53.47610 -2.24749
+
+	TOMY2
+		Images:	20554
+		Time:	26.01.2025 14:16:50 until 26.01.2025 19:02:27
+		Duration:	04:45:37
+		Location:	53.47610 -2.24749
+
+(5) - Rowing
+	QVT1
+		Images:	14217
+		Time:	26.01.2025 06:26:49 until 26.01.2025 14:07:47
+		Duration:	07:40:58
+		Location:	53.47610 -2.24749
+
+	TOMY1
+		Images:	22078
+		Time:	26.01.2025 06:41:02 until 26.01.2025 14:11:13
+		Duration:	07:30:11
+		Location:	53.47610 -2.24749
+
+	BKO3
+		Images:	9675
+		Time:	26.01.2025 10:10:32 until 26.01.2025 19:00:48
+		Duration:	08:50:16
+		Location:	53.47610 -2.24749
+
+	CUP3
+		Images:	4670
+		Time:	26.01.2025 10:11:31 until 26.01.2025 18:59:52
+		Duration:	08:48:21
+		Location:	53.47610 -2.24749
+
+	PARO7
+		Images:	330
+		Time:	26.01.2025 09:45:34 until 26.01.2025 09:48:53
+		Duration:	00:03:19
+		Location:	53.47610 -2.24749
+
+	GUD2
+		Images:	11416
+		Time:	26.01.2025 14:21:13 until 26.01.2025 19:37:43
+		Duration:	05:16:30
+		Location:	53.47610 -2.24749
+
+	CMS2
+		Images:	12645
+		Time:	26.01.2025 14:11:42 until 26.01.2025 19:44:32
+		Duration:	05:32:50
+		Location:	53.47610 -2.24749
+
+(6) - Farmers Carry
+	PARO3LS2
+		Images:	8681
+		Time:	26.01.2025 07:36:29 until 26.01.2025 20:03:52
+		Duration:	12:27:23
+		Location:	53.47610 -2.24749
+
+	PARO3LS1
+		Images:	3221
+		Time:	26.01.2025 06:04:01 until 26.01.2025 20:00:58
+		Duration:	13:56:57
+		Location:	53.47610 -2.24749
+
+(7) - Sandbag Lunges
+	THB1
+		Images:	20779
+		Time:	26.01.2025 06:48:10 until 26.01.2025 14:04:32
+		Duration:	07:16:22
+		Location:	53.47610 -2.24749
+
+	OLHA1
+		Images:	4490
+		Time:	26.01.2025 06:29:17 until 26.01.2025 14:12:54
+		Duration:	07:43:37
+		Location:	53.47610 -2.24749
+
+	BKO4
+		Images:	2621
+		Time:	26.01.2025 10:48:22 until 26.01.2025 16:56:59
+		Duration:	06:08:37
+		Location:	53.47610 -2.24749
+
+	CUP4
+		Images:	1310
+		Time:	26.01.2025 10:46:35 until 26.01.2025 17:00:25
+		Duration:	06:13:50
+		Location:	53.47610 -2.24749
+
+	PARO8
+		Images:	183
+		Time:	26.01.2025 09:54:08 until 26.01.2025 10:03:01
+		Duration:	00:08:53
+		Location:	53.47610 -2.24749
+
+	PHA2
+		Images:	6945
+		Time:	26.01.2025 14:06:37 until 26.01.2025 20:15:23
+		Duration:	06:08:46
+		Location:	53.47610 -2.24749
+
+	KYY2
+		Images:	7107
+		Time:	26.01.2025 14:05:12 until 26.01.2025 20:16:35
+		Duration:	06:11:23
+		Location:	53.47610 -2.24749
+
+(8) - Wall Balls
+	GUD1
+		Images:	6702
+		Time:	26.01.2025 07:54:39 until 26.01.2025 14:09:41
+		Duration:	06:15:02
+		Location:	53.47610 -2.24749
+
+	BKO5
+		Images:	8049
+		Time:	26.01.2025 11:26:04 until 26.01.2025 18:21:43
+		Duration:	06:55:39
+		Location:	53.47610 -2.24749
+
+	CMS1
+		Images:	5370
+		Time:	26.01.2025 07:23:44 until 26.01.2025 14:13:50
+		Duration:	06:50:06
+		Location:	53.47610 -2.24749
+
+	CUP5
+		Images:	2030
+		Time:	26.01.2025 11:24:19 until 26.01.2025 18:21:34
+		Duration:	06:57:15
+		Location:	53.47610 -2.24749
+
+	PARO9
+		Images:	525
+		Time:	26.01.2025 09:37:42 until 26.01.2025 09:44:15
+		Duration:	00:06:33
+		Location:	53.47610 -2.24749
+
+	THB2
+		Images:	12326
+		Time:	26.01.2025 14:12:12 until 26.01.2025 20:33:55
+		Duration:	06:21:43
+		Location:	53.47610 -2.24749
+
+	OLHA2
+		Images:	3868
+		Time:	26.01.2025 14:13:17 until 26.01.2025 20:36:45
+		Duration:	06:23:28
+		Location:	53.47610 -2.24749
+
+(9) - Finish
+	GHI2
+		Images:	8794
+		Time:	26.01.2025 14:09:24 until 26.01.2025 20:38:42
+		Duration:	06:29:18
+		Location:	53.47610 -2.24749
+
+	WIN1
+		Images:	4382
+		Time:	26.01.2025 07:23:02 until 26.01.2025 13:41:39
+		Duration:	06:18:37
+		Location:	53.47610 -2.24749
+
+	PARO1
+		Images:	3582
+		Time:	26.01.2025 11:02:29 until 26.01.2025 18:14:36
+		Duration:	07:12:07
+		Location:	53.47610 -2.24749
+
+	LOT3LS1
+		Images:	1509
+		Time:	26.01.2025 06:54:27 until 26.01.2025 20:38:49
+		Duration:	13:44:22
+		Location:	53.47610 -2.24749
+
+	GUD3LS1
+		Images:	2898
+		Time:	26.01.2025 07:51:54 until 26.01.2025 19:55:51
+		Duration:	12:03:57
+		Location:	53.47610 -2.24749
+
+(10) - Hero Wall
+	PARO2
+		Images:	555
+		Time:	26.01.2025 11:30:55 until 26.01.2025 18:33:31
+		Duration:	07:02:36
+		Location:	53.47610 -2.24749
+
+	LOT1
+		Images:	1944
+		Time:	26.01.2025 07:04:29 until 26.01.2025 13:57:00
+		Duration:	06:52:31
+		Location:	53.47610 -2.24749
+
+	YCAN2
+		Images:	2121
+		Time:	26.01.2025 13:57:59 until 26.01.2025 20:38:00
+		Duration:	06:40:01
+		Location:	53.47610 -2.24749
+
+(11) - Impressions / Pano
+	PANO1

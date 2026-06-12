@@ -1,0 +1,192 @@
+EventId: 13465
+Spots: 28
+Total Images: 86405
+Time:	31.08.2025 09:41:31 to 31.08.2025 20:04:04
+Duration: 10:22:33
+
+(1) - Bike - 3,2 km
+	AKS1
+		Images:	2328
+		Time:	31.08.2025 11:29:21 until 31.08.2025 12:10:34
+		Duration:	00:41:13
+		Location:	47.29110 12.81397
+
+(2) - Bike - Impressions / Pano
+	AKS1IMP1
+		Images:	7
+		Time:	31.08.2025 11:19:39 until 31.08.2025 11:22:44
+		Duration:	00:03:05
+		Location:	NULL NULL
+
+	AKS2DRONE1
+		Images:	11
+		Time:	31.08.2025 13:09:58 until 31.08.2025 13:16:10
+		Duration:	00:06:12
+		Location:	NULL NULL
+
+(3) - Bike - 3,4 km
+	AKS1LS1
+		Images:	988
+		Time:	31.08.2025 11:00:43 until 31.08.2025 12:15:54
+		Duration:	01:15:11
+		Location:	47.29066 12.81078
+
+	AKS1LS2
+		Images:	316
+		Time:	31.08.2025 11:00:22 until 31.08.2025 12:14:35
+		Duration:	01:14:13
+		Location:	47.29066 12.81078
+
+(4) - Bike - 80,0 km
+	AKS2
+		Images:	6238
+		Time:	31.08.2025 12:35:17 until 31.08.2025 16:25:02
+		Duration:	03:49:45
+		Location:	47.27578 12.77261
+
+(5) - Bike - 79,5 km
+	AKS2LS1
+		Images:	168
+		Time:	31.08.2025 12:58:00 until 31.08.2025 16:42:07
+		Duration:	03:44:07
+		Location:	47.27424 12.77216
+
+	AKS2LS2
+		Images:	125
+		Time:	31.08.2025 12:57:39 until 31.08.2025 13:58:39
+		Duration:	01:01:00
+		Location:	47.27424 12.77216
+
+(6) - Bike - Transition zone
+	ALIS1
+		Images:	5542
+		Time:	31.08.2025 10:00:33 until 31.08.2025 12:45:10
+		Duration:	02:44:37
+		Location:	47.30990 12.79798
+
+(7) - Finish
+	ALIS2
+		Images:	7249
+		Time:	31.08.2025 14:15:32 until 31.08.2025 20:03:26
+		Duration:	05:47:54
+		Location:	47.32160 12.79725
+
+	HAWI2
+		Images:	15517
+		Time:	31.08.2025 12:18:14 until 31.08.2025 20:04:04
+		Duration:	07:45:50
+		Location:	47.32163 12.79730
+
+	YS3LS1
+		Images:	497
+		Time:	31.08.2025 17:52:19 until 31.08.2025 20:03:47
+		Duration:	02:11:28
+		Location:	47.32163 12.79730
+
+	YS3LS2
+		Images:	480
+		Time:	31.08.2025 17:43:11 until 31.08.2025 20:03:14
+		Duration:	02:20:03
+		Location:	47.32163 12.79730
+
+(8) - Swim - Start
+	HAWI1
+		Images:	2523
+		Time:	31.08.2025 10:50:13 until 31.08.2025 12:10:29
+		Duration:	01:20:16
+		Location:	47.32092 12.79813
+
+	MAXB1
+		Images:	2301
+		Time:	31.08.2025 10:06:46 until 31.08.2025 12:55:24
+		Duration:	02:48:38
+		Location:	47.31188 12.79670
+
+(9) - Swim - Impressions / Pano
+	HAWI1IMP1
+		Images:	39
+		Time:	31.08.2025 09:41:31 until 31.08.2025 10:49:51
+		Duration:	01:08:20
+		Location:	NULL NULL
+
+	PANO1
+		Images:	2
+		Time:	31.08.2025 11:11:03 until 31.08.2025 11:11:07
+		Duration:	00:00:04
+		Location:	NULL NULL
+
+(10) - Run - 0,5 km
+	MAXB2
+		Images:	4645
+		Time:	31.08.2025 13:37:26 until 31.08.2025 17:07:12
+		Duration:	03:29:46
+		Location:	47.31601 12.79456
+
+(11) - Bike - 35,0 km
+	MIW1
+		Images:	6558
+		Time:	31.08.2025 09:58:47 until 31.08.2025 14:44:36
+		Duration:	04:45:49
+		Location:	47.39707 13.00236
+
+(12) - Bike - 36,2 km
+	MJO1
+		Images:	4365
+		Time:	31.08.2025 11:57:36 until 31.08.2025 14:45:50
+		Duration:	02:48:14
+		Location:	47.40366 12.99139
+
+(13) - Run - 4,8/14km
+	MJO2
+		Images:	4644
+		Time:	31.08.2025 16:21:08 until 31.08.2025 19:21:10
+		Duration:	03:00:02
+		Location:	47.33896 12.79889
+
+(14) - Bike - 5,8 km
+	YS1
+		Images:	6080
+		Time:	31.08.2025 11:10:59 until 31.08.2025 13:53:13
+		Duration:	02:42:14
+		Location:	47.28586 12.84050
+
+(15) - Bike - 5,6 km
+	YS1LS1
+		Images:	1872
+		Time:	31.08.2025 10:24:00 until 31.08.2025 13:02:56
+		Duration:	02:38:56
+		Location:	47.28587 12.83975
+
+	YS1LS2
+		Images:	1876
+		Time:	31.08.2025 10:08:10 until 31.08.2025 13:02:24
+		Duration:	02:54:14
+		Location:	47.28587 12.83975
+
+(16) - Run - 5,6/8,8km
+	MIW2
+		Images:	2534
+		Time:	31.08.2025 16:26:11 until 31.08.2025 18:31:55
+		Duration:	02:05:44
+		Location:	47.33917 12.80918
+
+(17) - Bike - 85,0 km
+	YS2
+		Images:	7249
+		Time:	31.08.2025 13:53:49 until 31.08.2025 16:42:46
+		Duration:	02:48:57
+		Location:	47.28735 12.82469
+
+(18) - Bike - 84,8 km
+	YS2LS1
+		Images:	1119
+		Time:	31.08.2025 13:30:10 until 31.08.2025 17:51:51
+		Duration:	04:21:41
+		Location:	47.28706 12.82433
+
+	YS2LS2
+		Images:	1132
+		Time:	31.08.2025 13:25:15 until 31.08.2025 16:44:32
+		Duration:	03:19:17
+		Location:	47.28706 12.82433
+

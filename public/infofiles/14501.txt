@@ -1,0 +1,69 @@
+EventId: 14501
+Spots: 10
+Total Images: 14327
+Time:	26.09.2025 14:28:18 to 26.09.2025 19:03:52
+Duration: 04:35:34
+
+(1) - Laufstrecke vor Obstacle 23 Monkeybar
+	GUD1LS1
+		Images:	652
+		Time:	26.09.2025 15:37:05 until 26.09.2025 18:28:51
+		Duration:	02:51:46
+		Location:	51.25797 12.42592
+
+	GUD1LS2
+		Images:	623
+		Time:	26.09.2025 15:37:05 until 26.09.2025 18:19:02
+		Duration:	02:41:57
+		Location:	51.25797 12.42592
+
+(2) - Obstacle 23 Monkey Bar
+	GUD1
+		Images:	4409
+		Time:	26.09.2025 16:04:39 until 26.09.2025 18:19:51
+		Duration:	02:15:12
+		Location:	51.25866 12.42594
+
+(3) - Obstacle 26 Hoellenrausch
+	SJK1
+		Images:	973
+		Time:	26.09.2025 15:28:03 until 26.09.2025 18:29:04
+		Duration:	03:01:01
+		Location:	51.25658 12.42940
+
+(4) - Obstacle 27 Klettermax
+	TIM1
+		Images:	1704
+		Time:	26.09.2025 16:10:39 until 26.09.2025 18:31:07
+		Duration:	02:20:28
+		Location:	51.25646 12.43068
+
+(5) - Obstacle 34 Schlammschlacht
+	TIH1
+		Images:	2866
+		Time:	26.09.2025 15:09:48 until 26.09.2025 18:52:22
+		Duration:	03:42:34
+		Location:	51.25486 12.42347
+
+(6) - Finish
+	TIM1LS1
+		Images:	2313
+		Time:	26.09.2025 14:28:18 until 26.09.2025 18:55:24
+		Duration:	04:27:06
+		Location:	51.25542 12.42328
+
+(7) - Herotent
+	LSTO1
+		Images:	782
+		Time:	26.09.2025 14:57:54 until 26.09.2025 18:53:51
+		Duration:	03:55:57
+		Location:	51.25542 12.42328
+
+(8) - Impressions / Pano
+	GUD1DRONE1
+		Images:	5
+		Time:	26.09.2025 16:12:05 until 26.09.2025 19:03:52
+		Duration:	02:51:47
+		Location:	51.25542 12.42328
+
+	PANO1

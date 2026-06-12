@@ -1,0 +1,57 @@
+EventId: 14622
+Spots: 8
+Total Images: 1105
+Time:	01.01.0001 23:00:00 to 26.07.2025 14:12:16
+Duration: 739456.15:12:16
+
+(1) - After Lucknerhaus
+	UEC1
+		Images:	268
+		Time:	25.07.2025 21:11:09 until 26.07.2025 08:52:11
+		Duration:	11:41:02
+		Location:	47.02057 12.69840
+
+	UEC1LS1
+		Images:	188
+		Time:	25.07.2025 21:08:22 until 26.07.2025 09:44:20
+		Duration:	12:35:58
+		Location:	47.02057 12.69840
+
+(2) - Before Glocknerhaus
+	CHR1
+		Images:	21
+		Time:	26.07.2025 09:11:21 until 26.07.2025 10:12:57
+		Duration:	01:01:36
+		Location:	47.06905 12.76607
+
+	CHR1DRONE1
+		Images:	5
+		Time:	26.07.2025 08:33:20 until 26.07.2025 08:34:33
+		Duration:	00:01:13
+		Location:	47.06905 12.76607
+
+	COR1
+		Images:	84
+		Time:	26.07.2025 08:23:10 until 26.07.2025 10:10:20
+		Duration:	01:47:10
+		Location:	47.06905 12.76607
+
+	EP1
+		Images:	112
+		Time:	26.07.2025 08:22:35 until 26.07.2025 08:54:00
+		Duration:	00:31:25
+		Location:	47.06905 12.76607
+
+(3) - Finish
+	EP2
+		Images:	143
+		Time:	26.07.2025 11:30:29 until 26.07.2025 12:00:19
+		Duration:	00:29:50
+		Location:	47.27112 12.75801
+
+	LSE1
+		Images:	284
+		Time:	01.01.0001 23:00:00 until 26.07.2025 14:12:16
+		Duration:	739456.15:12:16
+		Location:	47.27112 12.75801
+

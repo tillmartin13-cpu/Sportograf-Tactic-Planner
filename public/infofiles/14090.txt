@@ -1,0 +1,116 @@
+EventId: 14090
+Spots: 17
+Total Images: 49016
+Time:	25.05.2025 08:26:28 to 25.05.2025 15:37:26
+Duration: 07:10:58
+
+(1) - Start
+	MIH2
+		Images:	56
+		Time:	25.05.2025 09:19:09 until 25.05.2025 09:39:46
+		Duration:	00:20:37
+		Location:	50.57428 12.61005
+
+	MAE2
+		Images:	90
+		Time:	25.05.2025 09:03:23 until 25.05.2025 09:39:33
+		Duration:	00:36:10
+		Location:	50.57428 12.61005
+
+(2) - Hindernis 2 (AOK Plus Beetle Challenge)
+	TIM1
+		Images:	3200
+		Time:	25.05.2025 08:26:28 until 25.05.2025 13:36:03
+		Duration:	05:09:35
+		Location:	50.57357 12.60888
+
+(3) - Laufstrecke
+	TIM1LS1
+		Images:	513
+		Time:	25.05.2025 08:36:50 until 25.05.2025 11:15:01
+		Duration:	02:38:11
+		Location:	50.57242 12.61052
+
+	TIM1LS2
+		Images:	959
+		Time:	25.05.2025 08:47:00 until 25.05.2025 12:41:46
+		Duration:	03:54:46
+		Location:	50.57242 12.61052
+
+	MAE1LS1
+		Images:	866
+		Time:	25.05.2025 09:21:22 until 25.05.2025 12:58:48
+		Duration:	03:37:26
+		Location:	50.57495 12.61064
+
+(4) - Hindernis 6 (MUC Containerschlacht)
+	DG1
+		Images:	4483
+		Time:	25.05.2025 09:20:52 until 25.05.2025 13:55:14
+		Duration:	04:34:22
+		Location:	50.57373 12.61161
+
+(5) - Hindernis 10 (STRÜDER Höllenrausch)
+	DASC1
+		Images:	11706
+		Time:	25.05.2025 08:36:21 until 25.05.2025 14:01:58
+		Duration:	05:25:37
+		Location:	50.57665 12.61625
+
+(6) - Hindernis 12 (Bergsicherung Sachsen Schlammgrube)
+	MASCH1
+		Images:	7828
+		Time:	25.05.2025 08:53:28 until 25.05.2025 14:12:15
+		Duration:	05:18:47
+		Location:	50.57542 12.61308
+
+(7) - Hindernis 13 (Reifensandwich)
+	LEKL1
+		Images:	2856
+		Time:	25.05.2025 08:51:09 until 25.05.2025 14:12:12
+		Duration:	05:21:03
+		Location:	50.57579 12.61198
+
+(8) - Hindernis 28 (Hangover)
+	LW1
+		Images:	7637
+		Time:	25.05.2025 08:30:40 until 25.05.2025 15:29:33
+		Duration:	06:58:53
+		Location:	50.57477 12.60698
+
+(9) - Hindernis 31 (Schlammschlacht)
+	MAE1
+		Images:	3590
+		Time:	25.05.2025 09:03:23 until 25.05.2025 15:32:49
+		Duration:	06:29:26
+		Location:	50.57476 12.61024
+
+(10) - Zieleinlauf
+	MAE1LS2
+		Images:	668
+		Time:	25.05.2025 09:41:21 until 25.05.2025 15:33:55
+		Duration:	05:52:34
+		Location:	50.57448 12.60983
+
+(11) - Ziel
+	MIH1LS1
+		Images:	3115
+		Time:	25.05.2025 09:35:21 until 25.05.2025 15:37:26
+		Duration:	06:02:05
+		Location:	50.57428 12.61005
+
+(12) - Herotent
+	MIH1
+		Images:	1441
+		Time:	25.05.2025 09:10:50 until 25.05.2025 15:35:16
+		Duration:	06:24:26
+		Location:	50.57428 12.61005
+
+(13) - Impressions / Pano
+	TIM1DRONE1
+		Images:	8
+		Time:	25.05.2025 09:14:07 until 25.05.2025 09:17:39
+		Duration:	00:03:32
+		Location:	50.57428 12.61005
+
+	PANO1

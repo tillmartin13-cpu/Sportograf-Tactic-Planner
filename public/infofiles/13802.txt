@@ -1,0 +1,200 @@
+EventId: 13802
+Spots: 32
+Total Images: 119753
+Time:	01.01.0001 23:00:00 to 08.06.2025 13:55:22
+Duration: 739408.14:55:22
+
+(1) - Start to Km 2
+	PARO1
+		Images:	11716
+		Time:	07.06.2025 11:50:01 until 07.06.2025 20:16:02
+		Duration:	08:26:01
+		Location:	51.37339 -1.17341
+
+	PARO1LS1
+		Images:	7279
+		Time:	07.06.2025 12:49:19 until 07.06.2025 20:27:12
+		Duration:	07:37:53
+		Location:	51.37339 -1.17341
+
+	PARO2
+		Images:	4509
+		Time:	01.01.0001 23:00:00 until 07.06.2025 19:01:25
+		Duration:	739407.20:01:25
+		Location:	51.37963 -1.16586
+
+	PARO2LS1
+		Images:	5306
+		Time:	07.06.2025 21:07:52 until 08.06.2025 06:02:29
+		Duration:	08:54:37
+		Location:	51.37823 -1.16710
+
+(2) - Km 2 to 4
+	PAS1
+		Images:	4286
+		Time:	07.06.2025 12:05:29 until 07.06.2025 14:00:40
+		Duration:	01:55:11
+		Location:	51.36838 -1.17591
+
+	PAS1LS1
+		Images:	2468
+		Time:	07.06.2025 12:05:20 until 07.06.2025 14:27:53
+		Duration:	02:22:33
+		Location:	51.36838 -1.17591
+
+	PAS2
+		Images:	3586
+		Time:	07.06.2025 14:43:48 until 07.06.2025 16:17:52
+		Duration:	01:34:04
+		Location:	51.36838 -1.17591
+
+	PAS2LS1
+		Images:	388
+		Time:	07.06.2025 14:30:42 until 07.06.2025 14:58:04
+		Duration:	00:27:22
+		Location:	51.36838 -1.17591
+
+	PAS3
+		Images:	3056
+		Time:	07.06.2025 16:55:55 until 07.06.2025 18:39:09
+		Duration:	01:43:14
+		Location:	51.36635 -1.17442
+
+	PAS3LS1
+		Images:	1885
+		Time:	07.06.2025 16:45:25 until 07.06.2025 18:55:56
+		Duration:	02:10:31
+		Location:	51.36635 -1.17442
+
+	PAS4
+		Images:	2635
+		Time:	07.06.2025 19:01:00 until 07.06.2025 20:22:08
+		Duration:	01:21:08
+		Location:	51.36534 -1.17600
+
+	PAS4LS1
+		Images:	848
+		Time:	07.06.2025 18:58:47 until 07.06.2025 19:53:36
+		Duration:	00:54:49
+		Location:	51.36534 -1.17600
+
+	PAS5
+		Images:	5535
+		Time:	08.06.2025 06:57:51 until 08.06.2025 10:18:00
+		Duration:	03:20:09
+		Location:	51.36425 -1.17573
+
+	PAS5LS1
+		Images:	2029
+		Time:	08.06.2025 06:52:54 until 08.06.2025 09:35:52
+		Duration:	02:42:58
+		Location:	51.36425 -1.17573
+
+(3) - Km 4 to 6
+	MKH1
+		Images:	5289
+		Time:	07.06.2025 12:03:43 until 07.06.2025 14:12:17
+		Duration:	02:08:34
+		Location:	51.36605 -1.16958
+
+	MKH2
+		Images:	2904
+		Time:	07.06.2025 14:07:44 until 07.06.2025 16:01:29
+		Duration:	01:53:45
+		Location:	51.36605 -1.16958
+
+	MKH3
+		Images:	4238
+		Time:	07.06.2025 15:07:18 until 07.06.2025 17:12:34
+		Duration:	02:05:16
+		Location:	51.37110 -1.17066
+
+	MKH4
+		Images:	5125
+		Time:	07.06.2025 14:12:17 until 07.06.2025 19:09:09
+		Duration:	04:56:52
+		Location:	51.37326 -1.16776
+
+	MKH5
+		Images:	3182
+		Time:	07.06.2025 19:09:09 until 07.06.2025 20:20:41
+		Duration:	01:11:32
+		Location:	51.37110 -1.17066
+
+	MKH7
+		Images:	4320
+		Time:	08.06.2025 06:52:20 until 08.06.2025 10:08:05
+		Duration:	03:15:45
+		Location:	51.37845 -1.16553
+
+(4) - Km 6 to 8
+	PARO3
+		Images:	6062
+		Time:	07.06.2025 15:19:36 until 07.06.2025 17:43:38
+		Duration:	02:24:02
+		Location:	51.37845 -1.16553
+
+	PARO6
+		Images:	6892
+		Time:	08.06.2025 04:55:56 until 08.06.2025 09:47:31
+		Duration:	04:51:35
+		Location:	51.37347 -1.16579
+
+	PARO3LS1
+		Images:	6018
+		Time:	07.06.2025 11:47:40 until 07.06.2025 21:43:56
+		Duration:	09:56:16
+		Location:	51.37845 -1.16553
+
+	PARO4LS1
+		Images:	5019
+		Time:	07.06.2025 21:56:38 until 08.06.2025 05:52:59
+		Duration:	07:56:21
+		Location:	51.37845 -1.16553
+
+	PARO6LS1
+		Images:	1609
+		Time:	08.06.2025 06:58:37 until 08.06.2025 09:48:58
+		Duration:	02:50:21
+		Location:	51.37347 -1.16579
+
+(5) - Finish
+	PARO5
+		Images:	7906
+		Time:	08.06.2025 10:14:59 until 08.06.2025 12:52:39
+		Duration:	02:37:40
+		Location:	51.37930 -1.16465
+
+	PAS7
+		Images:	4413
+		Time:	08.06.2025 10:18:36 until 08.06.2025 12:56:22
+		Duration:	02:37:46
+		Location:	51.37930 -1.16465
+
+	MKH6
+		Images:	1075
+		Time:	08.06.2025 10:36:41 until 08.06.2025 12:56:39
+		Duration:	02:19:58
+		Location:	51.37930 -1.16465
+
+(6) - Awards
+	MKH8
+		Images:	108
+		Time:	08.06.2025 13:25:31 until 08.06.2025 13:55:22
+		Duration:	00:29:51
+		Location:	51.37930 -1.16465
+
+	PAS6
+		Images:	56
+		Time:	08.06.2025 13:25:23 until 08.06.2025 13:38:42
+		Duration:	00:13:19
+		Location:	51.37930 -1.16465
+
+(7) - Impressions / Pano
+	PARO1DRONE1
+		Images:	11
+		Time:	07.06.2025 12:38:00 until 08.06.2025 07:21:59
+		Duration:	18:43:59
+		Location:	51.37930 -1.16465
+
+	PANO1

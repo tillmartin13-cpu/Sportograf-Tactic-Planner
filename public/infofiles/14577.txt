@@ -1,0 +1,15 @@
+EventId: 14577
+Spots: 2
+Total Images: 3113
+Time:	13.12.2025 14:40:55 to 13.12.2025 21:45:51
+Duration: 07:04:56
+
+(1) - Impressions / Pano
+	PANO1
+(2) - none
+	ZZZ1
+		Images:	3113
+		Time:	13.12.2025 14:40:55 until 13.12.2025 21:45:51
+		Duration:	07:04:56
+		Location:	NULL NULL
+

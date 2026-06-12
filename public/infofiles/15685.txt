@@ -1,0 +1,211 @@
+EventId: 15685
+Spots: 33
+Total Images: 164553
+Time:	10.04.2025 09:57:47 to 13.04.2025 17:32:31
+Duration: 3.07:34:44
+
+(1) - Start Selfie
+	SELF1
+		Images:	558
+		Time:	13.04.2025 08:13:04 until 13.04.2025 15:59:46
+		Duration:	07:46:42
+		Location:	50.94453 6.98096
+
+(2) - Station 1 SkiErg
+	MW1
+		Images:	6564
+		Time:	13.04.2025 08:04:31 until 13.04.2025 16:04:06
+		Duration:	07:59:35
+		Location:	50.94453 6.98096
+
+	CL1
+		Images:	4304
+		Time:	13.04.2025 08:05:57 until 13.04.2025 16:02:30
+		Duration:	07:56:33
+		Location:	50.94453 6.98096
+
+	SJA1
+		Images:	6926
+		Time:	13.04.2025 08:04:51 until 13.04.2025 16:01:01
+		Duration:	07:56:10
+		Location:	50.94453 6.98096
+
+(3) - Station 2 Sled Push
+	RA1
+		Images:	14584
+		Time:	10.04.2025 15:54:24 until 13.04.2025 16:18:31
+		Duration:	3.00:24:07
+		Location:	50.94453 6.98096
+
+	WEN1
+		Images:	3354
+		Time:	13.04.2025 07:59:37 until 13.04.2025 16:16:32
+		Duration:	08:16:55
+		Location:	50.94453 6.98096
+
+	BENL1
+		Images:	2992
+		Time:	13.04.2025 07:53:00 until 13.04.2025 15:23:16
+		Duration:	07:30:16
+		Location:	50.94453 6.98096
+
+(4) - Station 3 Sled Pull
+	NBA1
+		Images:	4462
+		Time:	13.04.2025 08:19:12 until 13.04.2025 16:21:39
+		Duration:	08:02:27
+		Location:	50.94453 6.98096
+
+	MBEN1
+		Images:	7394
+		Time:	10.04.2025 10:22:26 until 13.04.2025 16:22:37
+		Duration:	3.06:00:11
+		Location:	50.94453 6.98096
+
+	FCO1
+		Images:	4737
+		Time:	13.04.2025 09:09:37 until 13.04.2025 16:24:01
+		Duration:	07:14:24
+		Location:	50.94453 6.98096
+
+(5) - Station 5 Rowing
+	MSC1
+		Images:	3669
+		Time:	13.04.2025 08:22:04 until 13.04.2025 16:24:54
+		Duration:	08:02:50
+		Location:	50.94453 6.98096
+
+	OT1
+		Images:	24442
+		Time:	11.04.2025 10:42:27 until 13.04.2025 16:32:50
+		Duration:	2.05:50:23
+		Location:	50.94453 6.98096
+
+	ALN1
+		Images:	2680
+		Time:	13.04.2025 09:50:15 until 13.04.2025 13:56:44
+		Duration:	04:06:29
+		Location:	50.94453 6.98096
+
+	STL1
+		Images:	1426
+		Time:	10.04.2025 10:37:19 until 13.04.2025 17:10:31
+		Duration:	3.06:33:12
+		Location:	50.94453 6.98096
+
+	GUD1
+		Images:	1034
+		Time:	13.04.2025 09:32:27 until 13.04.2025 09:48:12
+		Duration:	00:15:45
+		Location:	50.94453 6.98096
+
+(6) - Station 6 Farmers Carry
+	ALN1LS1
+		Images:	4195
+		Time:	13.04.2025 09:41:34 until 13.04.2025 16:59:37
+		Duration:	07:18:03
+		Location:	50.94453 6.98096
+
+	ALN1LS2
+		Images:	4467
+		Time:	13.04.2025 09:26:34 until 13.04.2025 17:08:40
+		Duration:	07:42:06
+		Location:	50.94453 6.98096
+
+(7) - Running arch
+	GUD1LS1
+		Images:	1858
+		Time:	10.04.2025 10:52:58 until 13.04.2025 16:50:27
+		Duration:	3.05:57:29
+		Location:	50.94453 6.98096
+
+	GUD1LS2
+		Images:	1901
+		Time:	13.04.2025 08:30:48 until 13.04.2025 16:50:27
+		Duration:	08:19:39
+		Location:	50.94453 6.98096
+
+(8) - Station 7 Sandbag Lunges
+	THL1
+		Images:	10307
+		Time:	13.04.2025 08:51:06 until 13.04.2025 17:04:47
+		Duration:	08:13:41
+		Location:	50.94453 6.98096
+
+	LUGR1
+		Images:	6160
+		Time:	13.04.2025 07:21:14 until 13.04.2025 17:06:59
+		Duration:	09:45:45
+		Location:	50.94453 6.98096
+
+	ALN2
+		Images:	1851
+		Time:	13.04.2025 10:11:29 until 13.04.2025 14:05:29
+		Duration:	03:54:00
+		Location:	50.94453 6.98096
+
+	STL2
+		Images:	4060
+		Time:	13.04.2025 10:05:59 until 13.04.2025 16:15:12
+		Duration:	06:09:13
+		Location:	50.94453 6.98096
+
+(9) - Station 8 Wall Balls
+	AGU1
+		Images:	8989
+		Time:	13.04.2025 08:58:04 until 13.04.2025 17:24:28
+		Duration:	08:26:24
+		Location:	50.94453 6.98096
+
+	SSW1
+		Images:	11711
+		Time:	10.04.2025 10:20:42 until 13.04.2025 17:21:22
+		Duration:	3.07:00:40
+		Location:	50.94453 6.98096
+
+	STL4
+		Images:	957
+		Time:	13.04.2025 10:55:59 until 13.04.2025 11:19:42
+		Duration:	00:23:43
+		Location:	50.94453 6.98096
+
+(10) - Finish
+	VL1
+		Images:	9448
+		Time:	10.04.2025 10:13:37 until 13.04.2025 17:30:38
+		Duration:	3.07:17:01
+		Location:	50.94453 6.98096
+
+	STL3
+		Images:	2517
+		Time:	13.04.2025 11:27:33 until 13.04.2025 15:31:07
+		Duration:	04:03:34
+		Location:	50.94453 6.98096
+
+	AGU1LS1
+		Images:	1281
+		Time:	13.04.2025 08:05:32 until 13.04.2025 17:17:40
+		Duration:	09:12:08
+		Location:	50.94453 6.98096
+
+	ALN1LS3
+		Images:	1563
+		Time:	13.04.2025 09:35:25 until 13.04.2025 17:30:34
+		Duration:	07:55:09
+		Location:	50.94453 6.98096
+
+(11) - Herowall
+	MHO1
+		Images:	3825
+		Time:	13.04.2025 08:18:01 until 13.04.2025 17:32:31
+		Duration:	09:14:30
+		Location:	50.94453 6.98096
+
+	ALN3
+		Images:	332
+		Time:	13.04.2025 14:54:36 until 13.04.2025 15:25:28
+		Duration:	00:30:52
+		Location:	50.94453 6.98096
+
+(12) - Impressions / Pano
+	PANO1

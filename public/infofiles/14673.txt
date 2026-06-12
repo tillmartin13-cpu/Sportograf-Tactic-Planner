@@ -1,0 +1,76 @@
+EventId: 14673
+Spots: 11
+Total Images: 75327
+Time:	01.08.2025 09:12:53 to 02.08.2025 16:03:30
+Duration: 1.06:50:37
+
+(1) - Start
+	CCZ1
+		Images:	350
+		Time:	02.08.2025 09:01:25 until 02.08.2025 10:46:19
+		Duration:	01:44:54
+		Location:	39.16661 -85.80950
+
+(2) - Obstacle 2 MUD MILE
+	ASP1
+		Images:	10483
+		Time:	02.08.2025 06:45:51 until 02.08.2025 13:25:42
+		Duration:	06:39:51
+		Location:	39.16962 -85.80916
+
+(3) - Obstacle 11 CAGE CRAWL
+	JAYP1
+		Images:	4890
+		Time:	02.08.2025 08:06:16 until 02.08.2025 14:32:14
+		Duration:	06:25:58
+		Location:	39.16127 -85.80906
+
+(4) - Obstacle 14 FUNKY MONKEY
+	JASP1
+		Images:	12382
+		Time:	02.08.2025 08:17:19 until 02.08.2025 14:58:20
+		Duration:	06:41:01
+		Location:	39.16015 -85.81070
+
+	CCZ2
+		Images:	249
+		Time:	02.08.2025 10:49:26 until 02.08.2025 10:54:26
+		Duration:	00:05:00
+		Location:	39.16015 -85.81070
+
+(5) - Obstacle 17 ELECTRIC EEL
+	AWES1
+		Images:	6301
+		Time:	01.08.2025 09:12:53 until 02.08.2025 14:57:13
+		Duration:	1.05:44:20
+		Location:	39.16580 -85.80857
+
+(6) - Obstacle 18 SWAMP STOMP
+	SCOT1
+		Images:	14743
+		Time:	01.08.2025 21:46:06 until 02.08.2025 14:37:35
+		Duration:	16:51:29
+		Location:	39.16787 -85.80779
+
+	CCZ3
+		Images:	58
+		Time:	02.08.2025 11:03:56 until 02.08.2025 11:05:35
+		Duration:	00:01:39
+		Location:	39.16787 -85.80779
+
+(7) - Obstacle 20 WELL SWUNG
+	IZZY1
+		Images:	10728
+		Time:	02.08.2025 09:03:48 until 02.08.2025 15:58:15
+		Duration:	06:54:27
+		Location:	39.16611 -85.81005
+
+(8) - Obstacle 21 MUDDERHORN
+	JBB1
+		Images:	15143
+		Time:	01.08.2025 20:48:13 until 02.08.2025 16:03:30
+		Duration:	19:15:17
+		Location:	39.16658 -85.81095
+
+(9) - Impressions / Pano
+	PANO1

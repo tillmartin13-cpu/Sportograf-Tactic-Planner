@@ -1,0 +1,99 @@
+EventId: 14585
+Spots: 14
+Total Images: 106783
+Time:	01.08.2025 22:34:27 to 03.08.2025 14:38:11
+Duration: 1.16:03:44
+
+(1) - Obstacle 7 Sandbag Carry
+	NIPE1
+		Images:	12886
+		Time:	02.08.2025 07:25:06 until 02.08.2025 15:32:47
+		Duration:	08:07:41
+		Location:	35.27958 -82.05338
+
+	VICY2
+		Images:	990
+		Time:	02.08.2025 10:41:50 until 02.08.2025 11:02:03
+		Duration:	00:20:13
+		Location:	35.27958 -82.05338
+
+(2) - Obstacle 11 Bender
+	MSK1
+		Images:	9212
+		Time:	02.08.2025 07:32:28 until 03.08.2025 07:37:13
+		Duration:	1.00:04:45
+		Location:	35.27602 -82.04991
+
+	VICY3
+		Images:	844
+		Time:	02.08.2025 11:11:21 until 02.08.2025 11:26:24
+		Duration:	00:15:03
+		Location:	35.27602 -82.04991
+
+(3) - Obstacle 18 Barbed Wire Crawl
+	JCMK1
+		Images:	10083
+		Time:	01.08.2025 22:34:27 until 02.08.2025 16:19:07
+		Duration:	17:44:40
+		Location:	35.27638 -82.06533
+
+(4) - Obstacle 21 Dunk Wall
+	CORS1
+		Images:	17381
+		Time:	02.08.2025 07:40:58 until 03.08.2025 07:22:27
+		Duration:	23:41:29
+		Location:	35.27691 -82.06408
+
+	VICY4
+		Images:	1164
+		Time:	02.08.2025 12:37:33 until 02.08.2025 12:55:08
+		Duration:	00:17:35
+		Location:	35.27691 -82.06408
+
+(5) - Obstacle 25 Multi-Rig
+	DAHI1
+		Images:	5982
+		Time:	02.08.2025 07:54:10 until 03.08.2025 07:06:49
+		Duration:	23:12:39
+		Location:	35.27947 -82.06519
+
+	AVE1
+		Images:	12749
+		Time:	02.08.2025 07:48:58 until 03.08.2025 07:36:38
+		Duration:	23:47:40
+		Location:	35.27947 -82.06519
+
+(6) - Obstacle 26 A-Frame Cargo
+	BESC1
+		Images:	22793
+		Time:	01.08.2025 23:03:12 until 02.08.2025 16:48:09
+		Duration:	17:44:57
+		Location:	35.27994 -82.06569
+
+(7) - Obstacle 27 Fire Jump
+	SAMT1
+		Images:	7476
+		Time:	02.08.2025 07:28:50 until 03.08.2025 07:07:35
+		Duration:	23:38:45
+		Location:	35.27986 -82.06588
+
+	VICY5
+		Images:	1123
+		Time:	02.08.2025 11:40:43 until 02.08.2025 15:02:09
+		Duration:	03:21:26
+		Location:	35.27986 -82.06588
+
+(8) - Herotent
+	TFUL1
+		Images:	3462
+		Time:	02.08.2025 07:43:13 until 02.08.2025 16:53:25
+		Duration:	09:10:12
+		Location:	35.27988 -82.06600
+
+(9) - Venue
+	VICY1
+		Images:	632
+		Time:	02.08.2025 08:08:11 until 03.08.2025 14:38:11
+		Duration:	1.06:30:00
+		Location:	35.27988 -82.06600
+

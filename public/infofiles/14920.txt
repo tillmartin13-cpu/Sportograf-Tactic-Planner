@@ -1,0 +1,268 @@
+EventId: 14920
+Spots: 41
+Total Images: 212105
+Time:	01.01.0001 23:00:00 to 15.06.2025 19:18:00
+Duration: 739415.20:18:00
+
+(1) - START 100 M
+	ALSE2
+		Images:	348
+		Time:	13.06.2025 19:52:59 until 13.06.2025 20:29:22
+		Duration:	00:36:23
+		Location:	44.95926 3.54225
+
+	MARY4
+		Images:	128
+		Time:	13.06.2025 19:58:10 until 13.06.2025 20:24:10
+		Duration:	00:26:00
+		Location:	44.95926 3.54225
+
+	AJL2
+		Images:	171
+		Time:	13.06.2025 19:51:48 until 13.06.2025 20:23:08
+		Duration:	00:31:20
+		Location:	44.95926 3.54225
+
+	ROM2
+		Images:	117
+		Time:	13.06.2025 19:51:57 until 13.06.2025 20:24:21
+		Duration:	00:32:24
+		Location:	44.95926 3.54225
+
+(2) - START 100 K
+	MARY1
+		Images:	64
+		Time:	14.06.2025 08:21:39 until 14.06.2025 08:32:10
+		Duration:	00:10:31
+		Location:	44.96842 3.64714
+
+(3) - Eglise St.Privat 100 M 65,2 km after start / 100 K 11,4 Km after start
+	MARY2
+		Images:	5204
+		Time:	14.06.2025 08:52:01 until 14.06.2025 10:55:43
+		Duration:	02:03:42
+		Location:	45.04680 3.88366
+
+(4) - Lac du Bouchet 100M 99,7 km after start / 100 K 46,9 after Start
+	ALSE1
+		Images:	5770
+		Time:	14.06.2025 06:42:45 until 14.06.2025 19:19:58
+		Duration:	12:37:13
+		Location:	44.90587 3.79059
+
+	ALSE1LS1
+		Images:	2799
+		Time:	14.06.2025 06:25:18 until 14.06.2025 19:12:43
+		Duration:	12:47:25
+		Location:	44.90587 3.79059
+
+(5) - Lac du Bouchet 100M 111 km after start / 100 K 48,2 after Start
+	AJL1
+		Images:	8142
+		Time:	14.06.2025 06:47:02 until 14.06.2025 19:18:54
+		Duration:	12:31:52
+		Location:	44.90586 3.79188
+
+(6) - Lac du Bouchet 100M 100,7 km after start / 100 K 47,9 after Start
+	AJL1LS2
+		Images:	3388
+		Time:	14.06.2025 06:12:02 until 14.06.2025 19:17:33
+		Duration:	13:05:31
+		Location:	44.90584 3.79170
+
+	AJL1LS1
+		Images:	6177
+		Time:	01.01.0001 23:00:00 until 14.06.2025 19:17:17
+		Duration:	739414.20:17:17
+		Location:	44.90584 3.79170
+
+(7) - 100 M 128 Km /100 KM 75,7 Km /20 km 21 km after start
+	ALL1
+		Images:	6742
+		Time:	14.06.2025 08:03:12 until 15.06.2025 00:28:45
+		Duration:	16:25:33
+		Location:	45.02088 3.85242
+
+	ALL1LS1
+		Images:	3110
+		Time:	14.06.2025 07:42:25 until 14.06.2025 20:34:22
+		Duration:	12:51:57
+		Location:	45.02088 3.85242
+
+(8) - 100 M 128,2 Km /100 KM 75,9 km /20 km 21,2 after start
+	ROM1
+		Images:	7890
+		Time:	14.06.2025 09:23:23 until 15.06.2025 00:22:56
+		Duration:	14:59:33
+		Location:	45.01913 3.85130
+
+	ROM1LS1
+		Images:	2800
+		Time:	14.06.2025 09:03:07 until 15.06.2025 00:22:44
+		Duration:	15:19:37
+		Location:	45.01913 3.85130
+
+(9) - 100 M 129,2 km /100 KM 76,9 Km /20 KM 22,3 after Start
+	BRN1
+		Images:	11527
+		Time:	14.06.2025 08:40:50 until 15.06.2025 00:38:51
+		Duration:	15:58:01
+		Location:	45.02415 3.85149
+
+	BRN1LS2
+		Images:	11875
+		Time:	14.06.2025 08:40:50 until 14.06.2025 23:49:49
+		Duration:	15:08:59
+		Location:	45.02415 3.85149
+
+	BRN1LS1
+		Images:	4179
+		Time:	14.06.2025 08:00:50 until 14.06.2025 23:49:49
+		Duration:	15:48:59
+		Location:	45.02415 3.85149
+
+(10) - Notre Dame du Puy 100M/100km/20km 200 m before finish
+	MARY3
+		Images:	14044
+		Time:	14.06.2025 12:36:44 until 15.06.2025 01:35:46
+		Duration:	12:59:02
+		Location:	45.04556 3.88383
+
+(11) - 100M/100km/20km 50 m before finish
+	FRN1LS1
+		Images:	11450
+		Time:	14.06.2025 08:50:04 until 15.06.2025 01:15:56
+		Duration:	16:25:52
+		Location:	45.04744 3.88328
+
+(12) - FINISH 100M/100KM/20KM
+	RBC1
+		Images:	7103
+		Time:	14.06.2025 08:25:04 until 14.06.2025 22:20:30
+		Duration:	13:55:26
+		Location:	45.04744 3.88328
+
+	RBC1LS1
+		Images:	3301
+		Time:	14.06.2025 09:49:07 until 14.06.2025 23:36:53
+		Duration:	13:47:46
+		Location:	45.04744 3.88328
+
+	FRN1LS2
+		Images:	2496
+		Time:	14.06.2025 10:54:12 until 15.06.2025 01:14:14
+		Duration:	14:20:02
+		Location:	45.04744 3.88328
+
+(13) - 50KM Canyon du Rouchoux 13,6 Km after Start
+	BRN2
+		Images:	9633
+		Time:	15.06.2025 08:11:06 until 15.06.2025 11:31:03
+		Duration:	03:19:57
+		Location:	44.97528 3.68273
+
+	BRN2LS1
+		Images:	1632
+		Time:	15.06.2025 07:56:06 until 15.06.2025 10:14:45
+		Duration:	02:18:39
+		Location:	44.97528 3.68273
+
+(14) - 50KM Saint Jean Lachalm 19,4 Km after start
+	MARY5
+		Images:	7791
+		Time:	15.06.2025 08:39:19 until 15.06.2025 11:42:38
+		Duration:	03:03:19
+		Location:	44.96010 3.71033
+
+(15) - 50KM Mont Deves 26,7 Km after Start
+	ALL2
+		Images:	2916
+		Time:	15.06.2025 08:40:56 until 15.06.2025 15:22:21
+		Duration:	06:41:25
+		Location:	44.93957 3.76398
+
+	ALL2LS1
+		Images:	5182
+		Time:	15.06.2025 08:37:38 until 15.06.2025 18:05:34
+		Duration:	09:27:56
+		Location:	44.93957 3.76398
+
+(16) - 50KM /12KM  47,5 Km after Start / 6,5 Km after Start
+	RBC2
+		Images:	6652
+		Time:	15.06.2025 08:56:00 until 15.06.2025 17:55:37
+		Duration:	08:59:37
+		Location:	45.02096 3.85237
+
+	RBC2LS1
+		Images:	938
+		Time:	15.06.2025 10:04:28 until 15.06.2025 17:00:14
+		Duration:	06:55:46
+		Location:	45.02096 3.85237
+
+(17) - 50KM /12KM  47,7 Km after Start / 6,7 Km after Start
+	ROM3
+		Images:	5256
+		Time:	15.06.2025 09:04:04 until 15.06.2025 18:16:22
+		Duration:	09:12:18
+		Location:	45.02453 3.85159
+
+	ROM3LS1
+		Images:	2294
+		Time:	15.06.2025 09:07:13 until 15.06.2025 19:10:38
+		Duration:	10:03:25
+		Location:	45.02453 3.85159
+
+(18) - 50KM /12KM  48 Km after Start / 7 Km after Start
+	CECK1
+		Images:	4716
+		Time:	15.06.2025 09:00:39 until 15.06.2025 14:45:56
+		Duration:	05:45:17
+		Location:	45.02457 3.85155
+
+	ALL3
+		Images:	1764
+		Time:	15.06.2025 15:22:35 until 15.06.2025 18:16:26
+		Duration:	02:53:51
+		Location:	45.02457 3.85155
+
+	ALL3LS1
+(19) - 50KM / 12KM Notre Dame du Puy 200 m before the finish
+	AJL3
+		Images:	18019
+		Time:	15.06.2025 09:02:11 until 15.06.2025 19:12:47
+		Duration:	10:10:36
+		Location:	45.04555 3.88389
+
+	AJL3LS1
+		Images:	8123
+		Time:	15.06.2025 08:58:51 until 15.06.2025 19:13:45
+		Duration:	10:14:54
+		Location:	45.04555 3.88389
+
+	AJL3LS2
+		Images:	7619
+		Time:	15.06.2025 09:23:25 until 15.06.2025 19:13:48
+		Duration:	09:50:23
+		Location:	45.04555 3.88389
+
+(20) - 50KM / 12KM 50 m before finish
+	FRN1LS3
+		Images:	2022
+		Time:	15.06.2025 09:21:42 until 15.06.2025 18:39:26
+		Duration:	09:17:44
+		Location:	45.04763 3.88339
+
+(21) - 50KM / 12KM FINISH
+	ALSE3
+		Images:	7250
+		Time:	15.06.2025 09:24:06 until 15.06.2025 19:18:00
+		Duration:	09:53:54
+		Location:	45.04763 3.88339
+
+	ALSE3LS1
+		Images:	1473
+		Time:	15.06.2025 09:23:26 until 15.06.2025 19:09:43
+		Duration:	09:46:17
+		Location:	45.04763 3.88339
+

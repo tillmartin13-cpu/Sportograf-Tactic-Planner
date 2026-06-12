@@ -1,0 +1,67 @@
+EventId: 16272
+Spots: 10
+Total Images: 37399
+Time:	04.07.2025 21:02:04 to 05.07.2025 21:18:35
+Duration: 1.00:16:31
+
+(1) - Start
+	AHO1
+		Images:	3498
+		Time:	04.07.2025 21:02:04 until 05.07.2025 10:31:42
+		Duration:	13:29:38
+		Location:	51.57598 -4.18271
+
+	MALV1
+		Images:	4493
+		Time:	05.07.2025 05:47:56 until 05.07.2025 10:31:58
+		Duration:	04:44:02
+		Location:	51.57598 -4.18271
+
+(2) - Maen Ceti
+	AHO2
+		Images:	5760
+		Time:	05.07.2025 12:51:33 until 05.07.2025 20:44:26
+		Duration:	07:52:53
+		Location:	51.58895 -4.19028
+
+(3) - Oxwich Bay
+	JNI1
+		Images:	9126
+		Time:	04.07.2025 21:11:23 until 05.07.2025 12:59:46
+		Duration:	15:48:23
+		Location:	51.55831 -4.17064
+
+(4) - Rhossili (Half Finish)
+	KU1
+		Images:	6011
+		Time:	05.07.2025 08:20:08 until 05.07.2025 18:02:42
+		Duration:	09:42:34
+		Location:	51.56765 -4.30132
+
+(5) - Finish
+	KU2
+		Images:	506
+		Time:	05.07.2025 18:49:40 until 05.07.2025 21:14:43
+		Duration:	02:25:03
+		Location:	51.57598 -4.18271
+
+	JNI2
+		Images:	3804
+		Time:	04.07.2025 21:11:28 until 05.07.2025 19:39:23
+		Duration:	22:27:55
+		Location:	51.57598 -4.18271
+
+	MALV2
+		Images:	3968
+		Time:	05.07.2025 12:22:46 until 05.07.2025 21:18:35
+		Duration:	08:55:49
+		Location:	51.57598 -4.18271
+
+(6) - Impressions / Pano
+	MALV1IMP1
+		Images:	233
+		Time:	05.07.2025 06:12:09 until 05.07.2025 20:46:30
+		Duration:	14:34:21
+		Location:	51.57598 -4.18271
+
+	PANO1

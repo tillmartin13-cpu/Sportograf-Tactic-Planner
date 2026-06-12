@@ -1,0 +1,91 @@
+EventId: 14412
+Spots: 13
+Total Images: 53656
+Time:	22.08.2025 18:29:45 to 24.08.2025 16:05:40
+Duration: 1.21:35:55
+
+(1) - Obstacle 5 SWAMP STOMP
+	ASP1
+		Images:	6718
+		Time:	22.08.2025 18:29:45 until 24.08.2025 12:49:03
+		Duration:	1.18:19:18
+		Location:	42.17441 -89.10365
+
+(2) - Start
+	CCZ1
+		Images:	189
+		Time:	24.08.2025 09:25:56 until 24.08.2025 11:27:50
+		Duration:	02:01:54
+		Location:	42.18709 -89.10048
+
+(3) - Obstacle 22 WALK THIS WAY
+	CCZ2
+		Images:	49
+		Time:	24.08.2025 13:14:23 until 24.08.2025 13:18:25
+		Duration:	00:04:02
+		Location:	42.17231 -89.09163
+
+(4) - Obstacle 9 BLOCKNESS MONSTER
+	DAMN1
+		Images:	5560
+		Time:	24.08.2025 09:39:08 until 24.08.2025 14:15:13
+		Duration:	04:36:05
+		Location:	42.17613 -89.09462
+
+	LIT1
+		Images:	3344
+		Time:	24.08.2025 09:39:00 until 24.08.2025 13:25:45
+		Duration:	03:46:45
+		Location:	42.17613 -89.09462
+
+(5) - Obstacle 3 HERO CARRY
+	DEHA1
+		Images:	907
+		Time:	24.08.2025 09:33:46 until 24.08.2025 12:08:04
+		Duration:	02:34:18
+		Location:	42.18154 -89.11063
+
+(6) - Obstacle 15 HANGIN TOUGH
+	DPE1
+		Images:	5188
+		Time:	24.08.2025 09:01:00 until 24.08.2025 15:18:35
+		Duration:	06:17:35
+		Location:	42.17231 -89.09163
+
+(7) - Obstacle 1 LUMBER JACKED
+	JASP1
+		Images:	5475
+		Time:	24.08.2025 09:23:28 until 24.08.2025 11:48:31
+		Duration:	02:25:03
+		Location:	42.18422 -89.10028
+
+(8) - Obstacle 27 ELECTRIC SHOCK THERAPY
+	JAYP1
+		Images:	4798
+		Time:	24.08.2025 09:45:49 until 24.08.2025 16:05:40
+		Duration:	06:19:51
+		Location:	42.18758 -89.09870
+
+(9) - Obstacle 23 LADDER TO HELL
+	JBB1
+		Images:	14722
+		Time:	24.08.2025 08:59:21 until 24.08.2025 15:40:27
+		Duration:	06:41:06
+		Location:	42.18137 -89.09470
+
+(10) - Obstacle 11 FUNKY MONKEY
+	JPP1
+		Images:	2966
+		Time:	24.08.2025 07:34:32 until 24.08.2025 14:52:25
+		Duration:	07:17:53
+		Location:	42.17186 -89.09761
+
+(11) - Obstacle 12 CAGE CRAWL
+	SCOT1
+		Images:	3740
+		Time:	23.08.2025 21:59:33 until 24.08.2025 14:58:39
+		Duration:	16:59:06
+		Location:	42.17229 -89.09832
+
+(12) - Impressions / Pano
+	PANO1

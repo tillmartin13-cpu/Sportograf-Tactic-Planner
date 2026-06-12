@@ -1,0 +1,129 @@
+EventId: 13491
+Spots: 19
+Total Images: 39622
+Time:	02.08.2025 11:39:17 to 02.08.2025 18:53:45
+Duration: 07:14:28
+
+(1) - Start
+	RJ1
+		Images:	1558
+		Time:	02.08.2025 12:58:41 until 02.08.2025 13:06:55
+		Duration:	00:08:14
+		Location:	49.01390 13.99729
+
+(2) - 7,0 km (Libínské Sedlo)
+	THS1LS1
+		Images:	1107
+		Time:	02.08.2025 12:24:40 until 02.08.2025 13:38:17
+		Duration:	01:13:37
+		Location:	48.98159 13.98254
+
+	THS1LS2
+		Images:	892
+		Time:	02.08.2025 11:58:07 until 02.08.2025 13:40:44
+		Duration:	01:42:37
+		Location:	48.98208 13.98298
+
+	THS1
+		Images:	3636
+		Time:	02.08.2025 13:15:59 until 02.08.2025 13:36:09
+		Duration:	00:20:10
+		Location:	48.98199 13.98233
+
+(3) - 28,8 km (Ktiš)
+	JIK1
+		Images:	2499
+		Time:	02.08.2025 13:21:26 until 02.08.2025 14:33:35
+		Duration:	01:12:09
+		Location:	48.91806 14.11711
+
+(4) - 52,0 km (Český Krumlov)
+	UL1LS1
+		Images:	889
+		Time:	02.08.2025 13:43:35 until 02.08.2025 15:30:05
+		Duration:	01:46:30
+		Location:	48.81306 14.3148
+
+	UL1
+		Images:	1988
+		Time:	02.08.2025 14:18:53 until 02.08.2025 15:27:50
+		Duration:	01:08:57
+		Location:	48.81306 14.3148
+
+(5) - 52,2 km (Český Krumlov)
+	TIM1LS1
+		Images:	965
+		Time:	02.08.2025 13:36:10 until 02.08.2025 15:31:52
+		Duration:	01:55:42
+		Location:	48.81518 14.31443
+
+	TIM1LS2
+		Images:	1524
+		Time:	02.08.2025 13:37:45 until 02.08.2025 15:31:52
+		Duration:	01:54:07
+		Location:	48.81518 14.31443
+
+	TIM1
+		Images:	2704
+		Time:	02.08.2025 14:03:38 until 02.08.2025 16:23:14
+		Duration:	02:19:36
+		Location:	48.81518 14.31443
+
+(6) - 77,2 km (Smědeč)
+	JIK2
+		Images:	2915
+		Time:	02.08.2025 14:47:40 until 02.08.2025 16:54:49
+		Duration:	02:07:09
+		Location:	48.93291 14.15846
+
+(7) - 104,6 km (Oseky)
+	THS2LS1
+		Images:	1321
+		Time:	02.08.2025 14:04:16 until 02.08.2025 18:31:25
+		Duration:	04:27:09
+		Location:	49.02680 13.95573
+
+	THS2LS2
+		Images:	446
+		Time:	02.08.2025 14:27:33 until 02.08.2025 18:38:19
+		Duration:	04:10:46
+		Location:	49.02750 13.95298
+
+	THS2
+		Images:	11122
+		Time:	02.08.2025 15:50:24 until 02.08.2025 18:30:54
+		Duration:	02:40:30
+		Location:	49.02750 13.95298
+
+(8) - Finish
+	RJ2LS1
+		Images:	781
+		Time:	02.08.2025 15:44:26 until 02.08.2025 18:53:45
+		Duration:	03:09:19
+		Location:	49.01271 13.99535
+
+	RJ2LS2
+		Images:	827
+		Time:	02.08.2025 15:44:26 until 02.08.2025 18:53:45
+		Duration:	03:09:19
+		Location:	49.01271 13.99535
+
+	RJ2
+		Images:	4435
+		Time:	02.08.2025 11:39:17 until 02.08.2025 18:50:10
+		Duration:	07:10:53
+		Location:	49.01271 13.99535
+
+(9) - Impressions / Pano
+	RJ2DRONE1
+		Images:	12
+		Time:	02.08.2025 14:38:54 until 02.08.2025 14:50:38
+		Duration:	00:11:44
+		Location:	49.01271 13.99535
+
+	PANO1
+		Images:	1
+		Time:	02.08.2025 14:03:53 until 02.08.2025 14:03:53
+		Duration:	00:00:00
+		Location:	49.01271 13.99535
+

@@ -1,0 +1,54 @@
+EventId: 15309
+Spots: 7
+Total Images: 35215
+Time:	08.03.2025 06:37:26 to 08.03.2025 13:37:07
+Duration: 06:59:41
+
+(1) - Start
+	JUW1
+		Images:	2689
+		Time:	08.03.2025 06:37:26 until 08.03.2025 09:36:30
+		Duration:	02:59:04
+		Location:	51.87834 -9.58201
+
+(2) - Bike on bridge
+	SKAL1
+		Images:	6265
+		Time:	08.03.2025 07:55:04 until 08.03.2025 13:12:28
+		Duration:	05:17:24
+		Location:	51.87046 -9.58382
+
+(3) - Kayak -
+	SOUG1
+		Images:	3460
+		Time:	08.03.2025 07:08:18 until 08.03.2025 13:15:39
+		Duration:	06:07:21
+		Location:	51.87611 -9.57664
+
+(4) - Run after Kayak
+	OHAL1
+		Images:	13342
+		Time:	08.03.2025 07:39:38 until 08.03.2025 13:30:28
+		Duration:	05:50:50
+		Location:	51.87567 -9.57917
+
+(5) - Finish
+	JUW2
+		Images:	8630
+		Time:	08.03.2025 10:12:17 until 08.03.2025 13:37:07
+		Duration:	03:24:50
+		Location:	51.87822 -9.57962
+
+	JUW2LS1
+		Images:	824
+		Time:	08.03.2025 09:27:32 until 08.03.2025 13:18:46
+		Duration:	03:51:14
+		Location:	51.87822 -9.57962
+
+(6) - Various
+	JUW2DRONE1
+		Images:	5
+		Time:	08.03.2025 07:03:06 until 08.03.2025 07:04:16
+		Duration:	00:01:10
+		Location:	51.87822 -9.57962
+

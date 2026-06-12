@@ -1,0 +1,128 @@
+EventId: 14513
+Spots: 18
+Total Images: 15122
+Time:	14.06.2025 09:47:43 to 15.06.2025 15:56:12
+Duration: 1.06:08:29
+
+(1) - Impressions / Pano
+	DAFE1
+		Images:	94
+		Time:	14.06.2025 09:47:43 until 15.06.2025 12:03:55
+		Duration:	1.02:16:12
+		Location:	41.70771 1.80594
+
+	TGM1DRONE1
+		Images:	98
+		Time:	14.06.2025 10:08:00 until 15.06.2025 14:25:01
+		Duration:	1.04:17:01
+		Location:	41.70311 1.80157
+
+(2) - Start
+	DAFE2
+		Images:	14
+		Time:	15.06.2025 09:31:22 until 15.06.2025 09:32:36
+		Duration:	00:01:14
+		Location:	41.70771 1.80594
+
+	DARO1
+		Images:	32
+		Time:	15.06.2025 08:49:31 until 15.06.2025 09:32:37
+		Duration:	00:43:06
+		Location:	41.70771 1.80594
+
+(3) - Alambre de espino
+	MRAB1
+		Images:	289
+		Time:	14.06.2025 09:50:33 until 15.06.2025 10:42:52
+		Duration:	1.00:52:19
+		Location:	41.70640 1.80603
+
+(4) - Masia
+	TGM1LS1
+		Images:	548
+		Time:	15.06.2025 08:57:28 until 15.06.2025 13:29:08
+		Duration:	04:31:40
+		Location:	41.70315 1.80183
+
+(5) - Moody Spa
+	TGM1
+		Images:	2396
+		Time:	14.06.2025 10:21:01 until 15.06.2025 13:16:43
+		Duration:	1.02:55:42
+		Location:	41.70311 1.80157
+
+(6) - Bosque
+	TGM1LS2
+		Images:	484
+		Time:	15.06.2025 08:41:47 until 15.06.2025 13:38:26
+		Duration:	04:56:39
+		Location:	41.70303 1.80166
+
+(7) - Salto rio
+	JMP1
+		Images:	113
+		Time:	14.06.2025 11:11:36 until 15.06.2025 12:11:15
+		Duration:	1.00:59:39
+		Location:	41.69483 1.81321
+
+(8) - Generales
+	TGM2
+		Images:	422
+		Time:	15.06.2025 14:23:51 until 15.06.2025 14:59:44
+		Duration:	00:35:53
+		Location:	41.70771 1.80594
+
+(9) - Cadenas
+	JMP2LS1
+		Images:	491
+		Time:	15.06.2025 08:39:54 until 15.06.2025 15:11:22
+		Duration:	06:31:28
+		Location:	41.70568 1.80713
+
+	JMP2
+		Images:	1513
+		Time:	15.06.2025 12:51:14 until 15.06.2025 15:10:34
+		Duration:	02:19:20
+		Location:	41.70568 1.80713
+
+(10) - Air Monkeys
+	MRAB2
+		Images:	3845
+		Time:	15.06.2025 11:00:35 until 15.06.2025 15:14:54
+		Duration:	04:14:19
+		Location:	41.70551 1.80682
+
+(11) - Electric Wire
+	DAFE3LS1
+		Images:	1164
+		Time:	15.06.2025 08:37:32 until 15.06.2025 15:35:55
+		Duration:	06:58:23
+		Location:	41.70526 1.80560
+
+(12) - Neumaticos
+	DAFE3
+		Images:	1928
+		Time:	15.06.2025 11:03:49 until 15.06.2025 15:33:13
+		Duration:	04:29:24
+		Location:	41.70532 1.80598
+
+(13) - Finish
+	DARO1LS1
+		Images:	260
+		Time:	15.06.2025 08:42:38 until 15.06.2025 15:55:24
+		Duration:	07:12:46
+		Location:	41.70806 1.80627
+
+	DARO1LS2
+		Images:	251
+		Time:	15.06.2025 08:43:00 until 15.06.2025 15:55:39
+		Duration:	07:12:39
+		Location:	41.70806 1.80627
+
+(14) - Herotent
+	DARO2
+		Images:	1180
+		Time:	15.06.2025 09:35:10 until 15.06.2025 15:56:12
+		Duration:	06:21:02
+		Location:	41.70806 1.80627
+

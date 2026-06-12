@@ -1,0 +1,131 @@
+EventId: 14615
+Spots: 19
+Total Images: 40154
+Time:	20.09.2025 12:38:42 to 21.09.2025 17:05:56
+Duration: 1.04:27:14
+
+(1) - Swim - Start
+	MSAI1
+		Images:	2486
+		Time:	20.09.2025 12:38:42 until 21.09.2025 14:36:16
+		Duration:	1.01:57:34
+		Location:	50.19118 4.37918
+
+(2) - Bike - Transition zone
+	SBRO1
+		Images:	1585
+		Time:	20.09.2025 12:58:52 until 21.09.2025 11:15:16
+		Duration:	22:16:24
+		Location:	50.19184 4.37908
+
+(3) - Bike 4.8Km 50Km
+	SDT1LS1
+		Images:	1134
+		Time:	20.09.2025 12:45:45 until 20.09.2025 17:20:30
+		Duration:	04:34:45
+		Location:	50.21547 4.39776
+
+	SDT1
+		Images:	2459
+		Time:	20.09.2025 13:39:00 until 21.09.2025 15:04:22
+		Duration:	1.01:25:22
+		Location:	50.21547 4.39776
+
+	SDT1LS2
+		Images:	1316
+		Time:	20.09.2025 12:44:09 until 20.09.2025 16:35:48
+		Duration:	03:51:39
+		Location:	50.21547 4.39776
+
+	SDT1DRONE1
+		Images:	14
+		Time:	20.09.2025 13:56:25 until 21.09.2025 14:33:17
+		Duration:	1.00:36:52
+		Location:	50.21547 4.39776
+
+(4) - Bike 9.3Km 55Km
+	ROB1
+		Images:	7831
+		Time:	20.09.2025 13:08:13 until 21.09.2025 09:29:41
+		Duration:	20:21:28
+		Location:	50.18446 4.41579
+
+	ROB1DRONE1
+		Images:	8
+		Time:	20.09.2025 12:55:23 until 21.09.2025 09:36:03
+		Duration:	20:40:40
+		Location:	50.18446 4.41579
+
+	ROB1LS1
+		Images:	1403
+		Time:	20.09.2025 12:45:19 until 20.09.2025 16:02:55
+		Duration:	03:17:36
+		Location:	50.18446 4.41579
+
+(5) - Bike 44.5Km 90Km
+	BA1
+		Images:	1636
+		Time:	20.09.2025 14:37:25 until 20.09.2025 15:50:43
+		Duration:	01:13:18
+		Location:	50.19000 4.36624
+
+(6) - Run - Transition zone
+	SBRO2
+		Images:	45
+		Time:	20.09.2025 15:04:59 until 21.09.2025 17:05:56
+		Duration:	1.02:00:57
+		Location:	50.19184 4.37908
+
+(7) - Run 0.7Km 14Km
+	MSAI2
+		Images:	6422
+		Time:	20.09.2025 15:52:25 until 21.09.2025 16:54:50
+		Duration:	1.01:02:25
+		Location:	50.18899 4.37698
+
+(8) - Run 19Km 12Km
+	BA2
+		Images:	4151
+		Time:	20.09.2025 16:09:01 until 20.09.2025 19:52:05
+		Duration:	03:43:04
+		Location:	50.18917 4.36556
+
+(9) - Run 6Km 19Km
+	SDT2
+		Images:	1619
+		Time:	20.09.2025 17:23:35 until 20.09.2025 18:46:58
+		Duration:	01:23:23
+		Location:	50.19231 4.37824
+
+	SDT2LS2
+		Images:	1756
+		Time:	20.09.2025 17:18:22 until 20.09.2025 18:49:08
+		Duration:	01:30:46
+		Location:	50.19231 4.37824
+
+	SDT2LS1
+		Images:	1650
+		Time:	20.09.2025 17:20:45 until 20.09.2025 18:48:21
+		Duration:	01:27:36
+		Location:	50.19231 4.37824
+
+	SBRO3
+		Images:	1184
+		Time:	20.09.2025 16:02:17 until 20.09.2025 16:59:26
+		Duration:	00:57:09
+		Location:	50.19231 4.37824
+
+(10) - Finish
+	SBRO4
+		Images:	3448
+		Time:	20.09.2025 17:05:14 until 20.09.2025 20:57:01
+		Duration:	03:51:47
+		Location:	50.19147 4.37863
+
+(11) - Swim - Impressions / Pano
+	PANO1
+		Images:	7
+		Time:	20.09.2025 14:26:00 until 21.09.2025 08:30:40
+		Duration:	18:04:40
+		Location:	NULL NULL
+

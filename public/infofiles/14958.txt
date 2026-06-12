@@ -1,0 +1,108 @@
+EventId: 14958
+Spots: 15
+Total Images: 95334
+Time:	12.09.2025 10:21:58 to 14.09.2025 14:43:08
+Duration: 2.04:21:10
+
+(1) - Obstacle 3 Monkey Bars
+	TERT1
+		Images:	3926
+		Time:	12.09.2025 10:21:58 until 13.09.2025 02:56:20
+		Duration:	16:34:22
+		Location:	NULL NULL
+
+	DIRO1
+		Images:	1654
+		Time:	13.09.2025 06:49:58 until 13.09.2025 14:45:53
+		Duration:	07:55:55
+		Location:	NULL NULL
+
+(2) - Obstacle 9 Log Carry
+	LLCA1
+		Images:	8383
+		Time:	13.09.2025 07:32:34 until 13.09.2025 12:28:08
+		Duration:	04:55:34
+		Location:	NULL NULL
+
+(3) - Obstacle 15 Bender
+	AKAS1
+		Images:	7994
+		Time:	13.09.2025 18:53:10 until 14.09.2025 01:46:20
+		Duration:	06:53:10
+		Location:	NULL NULL
+
+(4) - Obstacle 18 Sandbag w/ Barbed Wire
+	MATC1
+		Images:	7857
+		Time:	13.09.2025 07:58:21 until 13.09.2025 13:51:29
+		Duration:	05:53:08
+		Location:	NULL NULL
+
+(5) - Obstacle 21 Dunk Wall
+	SAMT1
+		Images:	5438
+		Time:	13.09.2025 06:39:25 until 13.09.2025 15:27:52
+		Duration:	08:48:27
+		Location:	NULL NULL
+
+(6) - Obstacle 24 Barbed Wire
+	WEG1
+		Images:	7798
+		Time:	13.09.2025 07:16:17 until 13.09.2025 15:58:30
+		Duration:	08:42:13
+		Location:	NULL NULL
+
+(7) - Obstacle 26 Bucket Carry
+	ARON1
+		Images:	15438
+		Time:	12.09.2025 20:44:04 until 13.09.2025 16:32:16
+		Duration:	19:48:12
+		Location:	NULL NULL
+
+(8) - Obstacle 28 Multi-Rig
+	JECA1
+		Images:	5959
+		Time:	12.09.2025 19:59:40 until 13.09.2025 17:24:40
+		Duration:	21:25:00
+		Location:	NULL NULL
+
+	VMM1
+		Images:	16049
+		Time:	12.09.2025 20:07:12 until 14.09.2025 07:23:05
+		Duration:	1.11:15:53
+		Location:	NULL NULL
+
+(9) - Obstacle 35 A-Frame Cargo
+	ABEN1
+		Images:	10972
+		Time:	13.09.2025 07:05:12 until 14.09.2025 07:28:07
+		Duration:	1.00:22:55
+		Location:	NULL NULL
+
+(10) - Herotent
+	PAKE1
+		Images:	3759
+		Time:	13.09.2025 06:57:17 until 13.09.2025 18:57:11
+		Duration:	11:59:54
+		Location:	NULL NULL
+
+(11) - Festival Area
+	JOD1
+		Images:	52
+		Time:	12.09.2025 21:04:28 until 14.09.2025 12:11:44
+		Duration:	1.15:07:16
+		Location:	NULL NULL
+
+	JEFFL1
+		Images:	15
+		Time:	13.09.2025 07:02:50 until 13.09.2025 14:45:15
+		Duration:	07:42:25
+		Location:	NULL NULL
+
+(12) - Drone
+	JECA1DRONE1
+		Images:	36
+		Time:	13.09.2025 12:33:44 until 14.09.2025 10:16:41
+		Duration:	21:42:57
+		Location:	NULL NULL
+

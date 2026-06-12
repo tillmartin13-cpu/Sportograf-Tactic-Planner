@@ -1,0 +1,170 @@
+EventId: 14014
+Spots: 26
+Total Images: 194522
+Time:	28.06.2025 09:43:13 to 29.06.2025 17:53:30
+Duration: 1.08:10:17
+
+(1) - Obstacle 3 Krabbelstrecke
+	NKR1
+		Images:	2902
+		Time:	29.06.2025 07:27:05 until 29.06.2025 16:35:00
+		Duration:	09:07:55
+		Location:	51.40830 6.78356
+
+	MARS1
+		Images:	2766
+		Time:	29.06.2025 09:42:33 until 29.06.2025 11:25:23
+		Duration:	01:42:50
+		Location:	51.40830 6.78356
+
+(2) - Obstacle 5 Krabbelnetz
+	VL1
+		Images:	12369
+		Time:	29.06.2025 09:09:41 until 29.06.2025 16:40:25
+		Duration:	07:30:44
+		Location:	51.40616 6.78768
+
+(3) - Obstacle 10 Ninja Jump
+	NBA1
+		Images:	9839
+		Time:	29.06.2025 09:55:27 until 29.06.2025 16:58:46
+		Duration:	07:03:19
+		Location:	51.39769 6.79032
+
+(4) - Obstacle 11 Schaumparty
+	AG2
+		Images:	281
+		Time:	29.06.2025 12:44:35 until 29.06.2025 12:54:15
+		Duration:	00:09:40
+		Location:	51.39596 6.78966
+
+	FCO1
+		Images:	11787
+		Time:	29.06.2025 09:29:15 until 29.06.2025 17:07:49
+		Duration:	07:38:34
+		Location:	51.39596 6.78966
+
+(5) - Obstacle 12 Kletterwand
+	MW1
+		Images:	11674
+		Time:	29.06.2025 10:02:23 until 29.06.2025 17:08:31
+		Duration:	07:06:08
+		Location:	51.39685 6.79219
+
+	MW1LS1
+		Images:	4998
+		Time:	29.06.2025 10:11:02 until 29.06.2025 17:10:19
+		Duration:	06:59:17
+		Location:	51.39685 6.79219
+
+(6) - Obstacle 15 Piratenplanke
+	MBEN1
+		Images:	26872
+		Time:	29.06.2025 09:53:15 until 29.06.2025 17:30:00
+		Duration:	07:36:45
+		Location:	51.40315 6.79104
+
+	MBEN1LS1
+		Images:	12359
+		Time:	29.06.2025 09:14:39 until 29.06.2025 17:29:07
+		Duration:	08:14:28
+		Location:	51.40315 6.79104
+
+(7) - Obstacle 16 Pyramide
+	MGA1
+		Images:	9343
+		Time:	29.06.2025 09:46:12 until 29.06.2025 17:32:46
+		Duration:	07:46:34
+		Location:	51.40477 6.78977
+
+(8) - Obstacle 18 Tauchbecken
+	LWE1
+		Images:	4197
+		Time:	29.06.2025 10:01:30 until 29.06.2025 17:43:45
+		Duration:	07:42:15
+		Location:	51.41007 6.78559
+
+(9) - Obstacle 17 Schlammbecken
+	OT1
+		Images:	29019
+		Time:	29.06.2025 10:01:12 until 29.06.2025 17:39:25
+		Duration:	07:38:13
+		Location:	51.41007 6.78559
+
+	OT1LS1
+		Images:	5876
+		Time:	29.06.2025 09:29:28 until 29.06.2025 17:39:21
+		Duration:	08:09:53
+		Location:	51.41007 6.78559
+
+	MARS2
+		Images:	7522
+		Time:	29.06.2025 11:48:33 until 29.06.2025 17:39:48
+		Duration:	05:51:15
+		Location:	51.41007 6.78559
+
+(10) - Obstacle 20 Containerrutsche
+	STL1
+		Images:	11061
+		Time:	29.06.2025 10:05:49 until 29.06.2025 17:51:25
+		Duration:	07:45:36
+		Location:	51.41024 6.77980
+
+(11) - Finish
+	AG3LS1
+		Images:	2321
+		Time:	29.06.2025 12:00:13 until 29.06.2025 17:41:20
+		Duration:	05:41:07
+		Location:	51.40998 6.78036
+
+	AG3LS2
+		Images:	2167
+		Time:	28.06.2025 11:54:36 until 28.06.2025 17:38:54
+		Duration:	05:44:18
+		Location:	51.40998 6.78036
+
+	ALN1
+		Images:	14642
+		Time:	29.06.2025 10:06:23 until 29.06.2025 17:52:21
+		Duration:	07:45:58
+		Location:	51.40998 6.78036
+
+	ALN1LS2
+		Images:	4304
+		Time:	28.06.2025 09:43:13 until 28.06.2025 17:37:11
+		Duration:	07:53:58
+		Location:	51.40998 6.78036
+
+	ALN1LS1
+		Images:	3671
+		Time:	29.06.2025 09:44:42 until 29.06.2025 17:25:08
+		Duration:	07:40:26
+		Location:	51.40998 6.78036
+
+(12) - Impressions / Pano
+	AG3DRONE1
+		Images:	16
+		Time:	29.06.2025 14:10:31 until 29.06.2025 14:17:34
+		Duration:	00:07:03
+		Location:	51.40998 6.78036
+
+	AG1
+		Images:	355
+		Time:	29.06.2025 09:33:04 until 29.06.2025 13:45:38
+		Duration:	04:12:34
+		Location:	51.40998 6.78036
+
+	PANO1
+(13) - Herotent
+	JTA1
+		Images:	2617
+		Time:	29.06.2025 08:54:15 until 29.06.2025 17:40:59
+		Duration:	08:46:44
+		Location:	51.40998 6.78036
+
+	FRST1
+		Images:	1564
+		Time:	29.06.2025 10:06:51 until 29.06.2025 17:53:30
+		Duration:	07:46:39
+		Location:	51.40998 6.78036
+

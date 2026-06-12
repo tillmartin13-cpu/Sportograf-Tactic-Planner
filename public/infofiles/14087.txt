@@ -1,0 +1,48 @@
+EventId: 14087
+Spots: 6
+Total Images: 7118
+Time:	15.06.2025 07:41:47 to 15.06.2025 16:57:03
+Duration: 09:15:16
+
+(1) - 9.0 km
+	CC1
+		Images:	516
+		Time:	15.06.2025 08:10:44 until 15.06.2025 08:23:30
+		Duration:	00:12:46
+		Location:	45.12135 6.03241
+
+(2) - 117.0 km
+	CC2
+		Images:	1401
+		Time:	15.06.2025 09:28:12 until 15.06.2025 16:03:24
+		Duration:	06:35:12
+		Location:	45.08568 6.03336
+
+(3) - 7.0 km
+	DART1
+		Images:	567
+		Time:	15.06.2025 07:59:07 until 15.06.2025 08:18:01
+		Duration:	00:18:54
+		Location:	45.13042 6.04604
+
+(4) - 147.0 km
+	DART2
+		Images:	2215
+		Time:	15.06.2025 08:43:29 until 15.06.2025 16:32:57
+		Duration:	07:49:28
+		Location:	45.15001 6.05067
+
+(5) - Start
+	LAPO1
+		Images:	440
+		Time:	15.06.2025 07:41:47 until 15.06.2025 08:14:26
+		Duration:	00:32:39
+		Location:	45.15668 6.07546
+
+(6) - Finish
+	LAPO2
+		Images:	1979
+		Time:	15.06.2025 09:22:11 until 15.06.2025 16:57:03
+		Duration:	07:34:52
+		Location:	45.15759 6.07570
+

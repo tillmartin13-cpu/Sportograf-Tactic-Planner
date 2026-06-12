@@ -1,0 +1,164 @@
+EventId: 14109
+Spots: 25
+Total Images: 159123
+Time:	24.08.2025 08:39:32 to 24.08.2025 17:47:20
+Duration: 09:07:48
+
+(1) - Hindernis 4 (Pyramide)
+	CHSA1
+		Images:	5276
+		Time:	24.08.2025 09:47:39 until 24.08.2025 16:33:50
+		Duration:	06:46:11
+		Location:	51.02140 13.79943
+
+(2) - Hindernis 5 (Schaumparty)
+	ROH1
+		Images:	20737
+		Time:	24.08.2025 09:25:20 until 24.08.2025 16:36:17
+		Duration:	07:10:57
+		Location:	51.02271 13.79965
+
+	ROH1LS2
+		Images:	3577
+		Time:	24.08.2025 09:15:55 until 24.08.2025 16:39:05
+		Duration:	07:23:10
+		Location:	51.02271 13.79965
+
+	ROH1LS1
+		Images:	4590
+		Time:	24.08.2025 09:15:34 until 24.08.2025 16:38:52
+		Duration:	07:23:18
+		Location:	51.02271 13.79965
+
+(3) - Laufstrecke
+	MDO1LS1
+		Images:	3843
+		Time:	24.08.2025 09:09:42 until 24.08.2025 16:58:23
+		Duration:	07:48:41
+		Location:	51.01975 13.79517
+
+	STEL1LS1
+		Images:	1397
+		Time:	24.08.2025 09:07:37 until 24.08.2025 13:31:12
+		Duration:	04:23:35
+		Location:	51.01966 13.79595
+
+	SLE1LS1
+		Images:	10039
+		Time:	24.08.2025 09:57:59 until 24.08.2025 17:15:23
+		Duration:	07:17:24
+		Location:	51.01780 13.80022
+
+	REM1LS1
+		Images:	7036
+		Time:	24.08.2025 09:44:04 until 24.08.2025 15:57:07
+		Duration:	06:13:03
+		Location:	51.01780 13.79765
+
+(4) - Hindernis 10 (Gitterbecken)
+	STEL1
+		Images:	5502
+		Time:	24.08.2025 09:20:58 until 24.08.2025 17:00:07
+		Duration:	07:39:09
+		Location:	51.01975 13.79517
+
+	MDO1
+		Images:	11151
+		Time:	24.08.2025 09:36:24 until 24.08.2025 16:59:33
+		Duration:	07:23:09
+		Location:	51.01975 13.79517
+
+(5) - Hindernis 11 (Krabbelstrecke)
+	REM1
+		Images:	5164
+		Time:	24.08.2025 10:15:42 until 24.08.2025 17:08:57
+		Duration:	06:53:15
+		Location:	51.01780 13.80022
+
+	SLE1
+		Images:	8485
+		Time:	24.08.2025 10:15:39 until 24.08.2025 17:08:35
+		Duration:	06:52:56
+		Location:	51.01780 13.80022
+
+(6) - Hindernis 13 (Ninja Jump)
+	JMU1
+		Images:	6934
+		Time:	24.08.2025 10:18:04 until 24.08.2025 17:16:59
+		Duration:	06:58:55
+		Location:	51.01799 13.80567
+
+(7) - Hindernis 17 (Kletterwand)
+	KMI1
+		Images:	14910
+		Time:	24.08.2025 09:47:46 until 24.08.2025 17:35:54
+		Duration:	07:48:08
+		Location:	51.02230 13.79659
+
+	KZY1
+		Images:	10933
+		Time:	24.08.2025 09:47:44 until 24.08.2025 17:35:59
+		Duration:	07:48:15
+		Location:	51.02230 13.79659
+
+(8) - Hindernis 18 (Piratenplanke)
+	STH1
+		Images:	7385
+		Time:	24.08.2025 09:59:54 until 24.08.2025 17:40:58
+		Duration:	07:41:04
+		Location:	51.02038 13.79726
+
+(9) - Hindernis 18 (Containerrutsche)
+	MAWA1
+		Images:	9781
+		Time:	24.08.2025 10:01:45 until 24.08.2025 17:45:14
+		Duration:	07:43:29
+		Location:	51.02026 13.79580
+
+(10) - Ziel
+	DG1LS1
+		Images:	4553
+		Time:	24.08.2025 09:21:40 until 24.08.2025 17:46:16
+		Duration:	08:24:36
+		Location:	51.02067 13.79535
+
+	HV1LS1
+		Images:	3563
+		Time:	24.08.2025 08:39:32 until 24.08.2025 17:46:16
+		Duration:	09:06:44
+		Location:	51.02067 13.79535
+
+	MIKO1
+		Images:	5544
+		Time:	24.08.2025 09:52:38 until 24.08.2025 17:46:16
+		Duration:	07:53:38
+		Location:	51.02067 13.79535
+
+(11) - Herotent
+	DG1
+		Images:	5247
+		Time:	24.08.2025 10:06:31 until 24.08.2025 17:45:10
+		Duration:	07:38:39
+		Location:	51.02067 13.79535
+
+	HV1
+		Images:	3115
+		Time:	24.08.2025 09:03:04 until 24.08.2025 17:47:20
+		Duration:	08:44:16
+		Location:	51.02067 13.79535
+
+(12) - Impressionen
+	TIM1
+		Images:	351
+		Time:	24.08.2025 10:18:22 until 24.08.2025 15:41:53
+		Duration:	05:23:31
+		Location:	51.02067 13.79535
+
+(13) - Impressions / Pano
+	TIM1DRONE1
+		Images:	10
+		Time:	24.08.2025 15:26:49 until 24.08.2025 15:33:49
+		Duration:	00:07:00
+		Location:	51.02067 13.79535
+
+	PANO1

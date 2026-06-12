@@ -1,0 +1,80 @@
+EventId: 14670
+Spots: 11
+Total Images: 73493
+Time:	04.04.2025 18:54:06 to 06.04.2025 09:35:18
+Duration: 1.14:41:12
+
+(1) - Obstacle 10 The Block Ness Monster
+	MCAR1
+		Images:	4984
+		Time:	05.04.2025 09:15:05 until 06.04.2025 09:17:36
+		Duration:	1.00:02:31
+		Location:	34.19446 -117.39347
+
+	MCAR1DRONE1
+		Images:	21
+		Time:	05.04.2025 07:54:14 until 05.04.2025 08:00:44
+		Duration:	00:06:30
+		Location:	34.19446 -117.39347
+
+	JDTM1
+		Images:	6512
+		Time:	04.04.2025 18:54:06 until 05.04.2025 19:02:24
+		Duration:	1.00:08:18
+		Location:	34.19446 -117.39347
+
+(2) - Obstacle 11 Skidmarked
+	ALP1
+		Images:	6142
+		Time:	05.04.2025 07:23:49 until 05.04.2025 14:50:57
+		Duration:	07:27:08
+		Location:	34.19337 -117.39213
+
+	JO1
+		Images:	1455
+		Time:	04.04.2025 20:35:02 until 05.04.2025 16:37:48
+		Duration:	20:02:46
+		Location:	34.19337 -117.39213
+
+(3) - Obstacle 12 Mud Mile
+	ABKI1
+		Images:	12765
+		Time:	05.04.2025 06:35:25 until 05.04.2025 16:49:03
+		Duration:	10:13:38
+		Location:	34.19417 -117.39209
+
+(4) - Obstacle 14 Tipping Point
+	DVAL1
+		Images:	7175
+		Time:	05.04.2025 07:37:18 until 06.04.2025 09:35:18
+		Duration:	1.01:58:00
+		Location:	34.19521 -117.39367
+
+(5) - Obstacle 16 Artic Enema
+	AHB1
+		Images:	6908
+		Time:	05.04.2025 07:08:26 until 06.04.2025 09:08:53
+		Duration:	1.02:00:27
+		Location:	34.19396 -117.39104
+
+(6) - Obstacle 21 Well Swung
+	KHN1
+		Images:	20453
+		Time:	04.04.2025 21:34:33 until 06.04.2025 08:58:34
+		Duration:	1.11:24:01
+		Location:	34.19130 -117.38921
+
+(7) - On the track by the start.
+	KHN1LS1
+		Images:	2620
+		Time:	04.04.2025 21:36:04 until 05.04.2025 16:08:09
+		Duration:	18:32:05
+		Location:	34.19312 -117.39350
+
+(8) - Obstacle 24 Electroshock Therapy
+	DUAT1
+		Images:	4454
+		Time:	05.04.2025 07:21:41 until 06.04.2025 09:12:18
+		Duration:	1.01:50:37
+		Location:	34.19283 -117.38983
+

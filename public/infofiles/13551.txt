@@ -1,0 +1,219 @@
+EventId: 13551
+Spots: 34
+Total Images: 138323
+Time:	28.06.2025 19:27:10 to 29.06.2025 17:27:57
+Duration: 22:00:47
+
+(1) - Impressions / Pano
+	CK1
+		Images:	19
+		Time:	29.06.2025 05:47:17 until 29.06.2025 06:09:47
+		Duration:	00:22:30
+		Location:	46.88749 10.50106
+
+	PANO1
+	JH1DRONE1
+		Images:	6
+		Time:	29.06.2025 13:05:44 until 29.06.2025 13:08:01
+		Duration:	00:02:17
+		Location:	46.88843 10.50180
+
+(2) - Start
+	MADM1
+		Images:	290
+		Time:	29.06.2025 05:49:40 until 29.06.2025 08:04:24
+		Duration:	02:14:44
+		Location:	46.88737 10.50095
+
+	CK2
+		Images:	2400
+		Time:	29.06.2025 06:26:24 until 29.06.2025 06:40:24
+		Duration:	00:14:00
+		Location:	46.88571 10.50228
+
+	CK2LS2
+		Images:	705
+		Time:	29.06.2025 06:22:22 until 29.06.2025 06:39:29
+		Duration:	00:17:07
+		Location:	46.88571 10.50228
+
+	CK2LS1
+		Images:	927
+		Time:	29.06.2025 06:21:22 until 29.06.2025 09:31:33
+		Duration:	03:10:11
+		Location:	46.88571 10.50228
+
+(3) - 15.0 km Reschensee
+	HM1
+		Images:	3490
+		Time:	29.06.2025 06:35:46 until 29.06.2025 07:19:26
+		Duration:	00:43:40
+		Location:	46.77501 10.53501
+
+	HM1LS1
+		Images:	2689
+		Time:	29.06.2025 06:26:13 until 29.06.2025 07:18:50
+		Duration:	00:52:37
+		Location:	46.77501 10.53501
+
+(4) - 59.0 km Stilfserjoch Uphill
+	NJO1
+		Images:	9032
+		Time:	29.06.2025 08:32:22 until 29.06.2025 11:55:04
+		Duration:	03:22:42
+		Location:	46.52940 10.45571
+
+	NJO1LS2
+		Images:	4917
+		Time:	29.06.2025 08:43:45 until 29.06.2025 11:43:48
+		Duration:	03:00:03
+		Location:	46.52940 10.45571
+
+	NJO1LS1
+		Images:	4504
+		Time:	29.06.2025 08:38:40 until 29.06.2025 10:38:41
+		Duration:	02:00:01
+		Location:	46.52940 10.45571
+
+(5) - 60.0 km Stilfserjoch Uphill
+	MBRE1
+		Images:	6618
+		Time:	29.06.2025 08:27:03 until 29.06.2025 12:14:35
+		Duration:	03:47:32
+		Location:	46.52940 10.45571
+
+(6) - 60.7 km Stilfserjoch Uphill
+	ALEP1
+		Images:	5559
+		Time:	29.06.2025 08:42:06 until 29.06.2025 11:52:12
+		Duration:	03:10:06
+		Location:	46.52999 10.45531
+
+	ALEP1LS1
+		Images:	6579
+		Time:	29.06.2025 08:39:22 until 29.06.2025 11:53:56
+		Duration:	03:14:34
+		Location:	46.52999 10.45531
+
+	ALEP1LS2
+		Images:	6126
+		Time:	29.06.2025 08:30:42 until 29.06.2025 11:24:26
+		Duration:	02:53:44
+		Location:	46.52999 10.45531
+
+(7) - 65.0 km Umbrailpass Downhill
+	CHR1
+		Images:	7437
+		Time:	29.06.2025 08:45:40 until 29.06.2025 12:23:50
+		Duration:	03:38:10
+		Location:	46.54825 10.43511
+
+	CHR1LS1
+		Images:	3179
+		Time:	29.06.2025 08:21:20 until 29.06.2025 12:16:56
+		Duration:	03:55:36
+		Location:	46.54825 10.43511
+
+	CHR1LS2
+		Images:	3188
+		Time:	29.06.2025 08:34:54 until 29.06.2025 12:17:36
+		Duration:	03:42:42
+		Location:	46.54825 10.43511
+
+(8) - 70.0 km Umbrailpass Downhill
+	ULKE1
+		Images:	6288
+		Time:	29.06.2025 07:09:21 until 29.06.2025 12:41:41
+		Duration:	05:32:20
+		Location:	46.56615 10.43797
+
+(9) - 77.0 km Umbrailpass Downhill
+	LKE1
+		Images:	6545
+		Time:	29.06.2025 08:55:27 until 29.06.2025 12:57:17
+		Duration:	04:01:50
+		Location:	46.59981 10.43084
+
+(10) - 88.8 km Ofenpass Kehre Uphill
+	JH1LS1
+		Images:	4678
+		Time:	29.06.2025 09:22:56 until 29.06.2025 13:12:00
+		Duration:	03:49:04
+		Location:	46.63454 10.31009
+
+	JH1LS2
+		Images:	3092
+		Time:	29.06.2025 09:26:59 until 29.06.2025 12:34:12
+		Duration:	03:07:13
+		Location:	46.63454 10.31009
+
+	JH1
+		Images:	4479
+		Time:	29.06.2025 09:39:44 until 29.06.2025 13:43:06
+		Duration:	04:03:22
+		Location:	46.63454 10.31009
+
+(11) - 90.5 km Ofenpass Uphill
+	VB1
+		Images:	5021
+		Time:	28.06.2025 19:29:25 until 29.06.2025 13:51:33
+		Duration:	18:22:08
+		Location:	46.63614 10.29911
+
+	VB1LS1
+		Images:	1844
+		Time:	29.06.2025 09:38:32 until 29.06.2025 16:13:04
+		Duration:	06:34:32
+		Location:	46.63614 10.29911
+
+	VB1LS2
+		Images:	1204
+		Time:	28.06.2025 19:27:10 until 29.06.2025 11:37:17
+		Duration:	16:10:07
+		Location:	46.63614 10.29911
+
+(12) - 102.0 km Haidersee
+	HM2
+		Images:	2767
+		Time:	29.06.2025 09:54:20 until 29.06.2025 14:51:19
+		Duration:	04:56:59
+		Location:	46.76205 10.52977
+
+	HM2LS1
+		Images:	2101
+		Time:	29.06.2025 09:11:15 until 29.06.2025 14:14:27
+		Duration:	05:03:12
+		Location:	46.76205 10.52977
+
+	HM2LS2
+		Images:	2112
+		Time:	29.06.2025 09:11:15 until 29.06.2025 14:14:27
+		Duration:	05:03:12
+		Location:	46.76205 10.52977
+
+(13) - 163.0 km Norbertshöhe
+	MADM2
+		Images:	5910
+		Time:	29.06.2025 08:40:28 until 29.06.2025 17:07:13
+		Duration:	08:26:45
+		Location:	46.89525 10.48543
+
+(14) - Finish
+	CK3
+		Images:	13432
+		Time:	29.06.2025 10:10:15 until 29.06.2025 17:27:57
+		Duration:	07:17:42
+		Location:	46.88843 10.50180
+
+	CK3LS2
+		Images:	5546
+		Time:	29.06.2025 09:53:49 until 29.06.2025 16:46:12
+		Duration:	06:52:23
+		Location:	46.88843 10.50180
+
+	CK3LS1
+		Images:	5639
+		Time:	29.06.2025 09:54:55 until 29.06.2025 16:47:23
+		Duration:	06:52:28
+		Location:	46.88843 10.50180
+

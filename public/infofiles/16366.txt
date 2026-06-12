@@ -1,0 +1,27 @@
+EventId: 16366
+Spots: 3
+Total Images: 1998
+Time:	05.04.2025 08:49:10 to 06.04.2025 10:06:54
+Duration: 1.01:17:44
+
+(1) - Impressions / Pano
+	PK1
+		Images:	70
+		Time:	05.04.2025 08:49:10 until 06.04.2025 08:47:25
+		Duration:	23:58:15
+		Location:	40.69052 -74.01850
+
+(2) - Start
+	PK2
+		Images:	343
+		Time:	06.04.2025 08:49:00 until 06.04.2025 09:02:58
+		Duration:	00:13:58
+		Location:	40.69052 -74.01850
+
+(3) - Finish
+	PK3
+		Images:	1585
+		Time:	06.04.2025 09:11:46 until 06.04.2025 10:06:54
+		Duration:	00:55:08
+		Location:	40.69052 -74.01850
+

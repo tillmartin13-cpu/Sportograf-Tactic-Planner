@@ -1,0 +1,112 @@
+EventId: 13980
+Spots: 17
+Total Images: 19846
+Time:	06.09.2025 09:13:33 to 07.09.2025 17:34:16
+Duration: 1.08:20:43
+
+(1) - Swim - Start
+	AG3
+		Images:	29
+		Time:	06.09.2025 10:09:52 until 06.09.2025 10:16:11
+		Duration:	00:06:19
+		Location:	51.30855 3.38206
+
+	MSC1
+		Images:	250
+		Time:	06.09.2025 09:40:08 until 07.09.2025 09:41:28
+		Duration:	1.00:01:20
+		Location:	51.30855 3.38206
+
+(2) - Swim - Transition zone
+	MSC2
+		Images:	2433
+		Time:	06.09.2025 10:11:58 until 06.09.2025 11:28:43
+		Duration:	01:16:45
+		Location:	51.30881 3.38214
+
+(3) - Bike - 1,0 km
+	AG1
+		Images:	1921
+		Time:	06.09.2025 10:28:00 until 07.09.2025 09:33:34
+		Duration:	23:05:34
+		Location:	51.30588 3.37766
+
+	AG1LS1
+		Images:	675
+		Time:	06.09.2025 09:58:54 until 06.09.2025 11:26:05
+		Duration:	01:27:11
+		Location:	51.30588 3.37766
+
+	AG1LS2
+		Images:	734
+		Time:	06.09.2025 09:54:26 until 06.09.2025 11:25:45
+		Duration:	01:31:19
+		Location:	51.30588 3.37766
+
+(4) - Run - Impressions / Pano
+	ADHA1
+		Images:	158
+		Time:	06.09.2025 09:26:05 until 07.09.2025 10:56:36
+		Duration:	1.01:30:31
+		Location:	51.34290 3.25304
+
+	AG1DRONE1
+		Images:	26
+		Time:	06.09.2025 09:14:58 until 07.09.2025 17:34:16
+		Duration:	1.08:19:18
+		Location:	51.34730 3.27228
+
+	OP1
+		Images:	22
+		Time:	06.09.2025 09:13:33 until 07.09.2025 09:09:25
+		Duration:	23:55:52
+		Location:	51.34316 3.25442
+
+(5) - Run - 1,4 km
+	ADHA2
+		Images:	3300
+		Time:	06.09.2025 11:27:10 until 06.09.2025 13:58:20
+		Duration:	02:31:10
+		Location:	51.34163 3.25180
+
+(6) - Run - 2,5 km
+	AG2
+		Images:	1787
+		Time:	06.09.2025 12:44:53 until 07.09.2025 11:56:36
+		Duration:	23:11:43
+		Location:	51.34588 3.26706
+
+	AG2LS2
+		Images:	783
+		Time:	06.09.2025 12:37:26 until 06.09.2025 13:37:10
+		Duration:	00:59:44
+		Location:	51.34588 3.26706
+
+	AG2LS1
+		Images:	442
+		Time:	06.09.2025 12:40:15 until 06.09.2025 13:49:50
+		Duration:	01:09:35
+		Location:	51.34588 3.26706
+
+(7) - Run - 2,3 km
+	MSC3
+		Images:	2607
+		Time:	06.09.2025 11:32:22 until 06.09.2025 13:53:41
+		Duration:	02:21:19
+		Location:	51.34572 3.26424
+
+(8) - Finish
+	OP2
+		Images:	3118
+		Time:	06.09.2025 10:55:27 until 07.09.2025 09:24:31
+		Duration:	22:29:04
+		Location:	51.34253 3.25176
+
+	OP2LS1
+		Images:	1560
+		Time:	06.09.2025 11:40:20 until 06.09.2025 14:24:05
+		Duration:	02:43:45
+		Location:	51.34253 3.25176
+
+(9) - Swim - Impressions / Pano
+	PANO1

@@ -1,0 +1,38 @@
+EventId: 14367
+Spots: 5
+Total Images: 6016
+Time:	25.04.2025 10:44:11 to 25.04.2025 17:20:46
+Duration: 06:36:35
+
+(1) - 6.0 mi Aspen Creek
+	MIGO1
+		Images:	1417
+		Time:	25.04.2025 14:32:17 until 25.04.2025 16:07:09
+		Duration:	01:34:52
+		Location:	34.50914 -112.52912
+
+	MIGO1LS1
+		Images:	482
+		Time:	25.04.2025 10:44:12 until 25.04.2025 15:35:35
+		Duration:	04:51:23
+		Location:	34.50814 -112.52917
+
+	MIGO1LS2
+		Images:	479
+		Time:	25.04.2025 10:49:53 until 25.04.2025 15:35:35
+		Duration:	04:45:42
+		Location:	34.50814 -112.52917
+
+(2) - 12.0 mi Thumb Butte
+	JOD1LS1
+		Images:	1192
+		Time:	25.04.2025 10:44:11 until 25.04.2025 17:20:46
+		Duration:	06:36:35
+		Location:	34.55529 -112.52239
+
+	JOD1
+		Images:	2446
+		Time:	25.04.2025 13:54:20 until 25.04.2025 17:17:52
+		Duration:	03:23:32
+		Location:	34.55515 -112.52230
+

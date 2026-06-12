@@ -1,0 +1,145 @@
+EventId: 14112
+Spots: 21
+Total Images: 44902
+Time:	14.11.2025 10:02:11 to 16.11.2025 13:35:00
+Duration: 2.03:32:49
+
+(1) - Expo
+	CCZ1
+		Images:	1055
+		Time:	14.11.2025 11:20:21 until 15.11.2025 16:05:49
+		Duration:	1.04:45:28
+		Location:	20.50434 -86.95791
+
+	WDJ1
+		Images:	617
+		Time:	14.11.2025 10:02:11 until 15.11.2025 14:50:23
+		Duration:	1.04:48:12
+		Location:	20.50434 -86.95791
+
+(2) - Start
+	SGD1
+		Images:	678
+		Time:	15.11.2025 19:35:20 until 16.11.2025 06:28:24
+		Duration:	10:53:04
+		Location:	20.50434 -86.95791
+
+	SGD2DRONE1
+		Images:	64
+		Time:	16.11.2025 05:54:24 until 16.11.2025 06:11:14
+		Duration:	00:16:50
+		Location:	20.50434 -86.95791
+
+	MRKE1
+		Images:	232
+		Time:	16.11.2025 05:12:24 until 16.11.2025 06:24:22
+		Duration:	01:11:58
+		Location:	20.50434 -86.95791
+
+	AGAV1
+		Images:	430
+		Time:	16.11.2025 04:07:12 until 16.11.2025 06:21:42
+		Duration:	02:14:30
+		Location:	20.50434 -86.95791
+
+	CCZ2
+		Images:	71
+		Time:	16.11.2025 05:10:41 until 16.11.2025 05:43:27
+		Duration:	00:32:46
+		Location:	20.50434 -86.95791
+
+(3) - 28.5 / 106 km
+	JOM1
+		Images:	5378
+		Time:	16.11.2025 05:40:40 until 16.11.2025 10:38:18
+		Duration:	04:57:38
+		Location:	20.29309 -86.95813
+
+(4) - 29 / 106.5 km
+	JOM1LS1
+		Images:	1488
+		Time:	16.11.2025 05:58:57 until 16.11.2025 10:42:45
+		Duration:	04:43:48
+		Location:	20.29309 -86.95813
+
+(5) - 30 / 107.5 km
+	EDD1
+		Images:	6123
+		Time:	16.11.2025 05:38:26 until 16.11.2025 10:53:00
+		Duration:	05:14:34
+		Location:	20.29309 -86.95813
+
+(6) - 38 / 115 km
+	WDJ2
+		Images:	4366
+		Time:	16.11.2025 06:28:11 until 16.11.2025 11:00:06
+		Duration:	04:31:55
+		Location:	20.34719 -86.89876
+
+(7) - 43 / 121 km
+	RMM1
+		Images:	2715
+		Time:	16.11.2025 05:51:56 until 16.11.2025 11:21:20
+		Duration:	05:29:24
+		Location:	20.38335 -86.87520
+
+(8) - 45 / 122 km
+	JCSH1
+		Images:	3311
+		Time:	16.11.2025 06:38:45 until 16.11.2025 11:23:51
+		Duration:	04:45:06
+		Location:	20.40392 -86.85798
+
+(9) - 66 / 143 km
+	CCZ3
+		Images:	6990
+		Time:	16.11.2025 07:32:22 until 16.11.2025 12:46:46
+		Duration:	05:14:24
+		Location:	20.52145 -86.94222
+
+(10) - 75 / 153 km
+	MRKE2
+		Images:	3919
+		Time:	16.11.2025 07:21:18 until 16.11.2025 12:36:23
+		Duration:	05:15:05
+		Location:	20.52024 -86.94398
+
+(11) - 77 / 154 km
+	EGG1LS1
+		Images:	526
+		Time:	16.11.2025 07:03:17 until 16.11.2025 09:40:52
+		Duration:	02:37:35
+		Location:	20.49472 -86.96434
+
+(12) - 78 / 156 km
+	EGG1
+		Images:	1420
+		Time:	16.11.2025 07:43:24 until 16.11.2025 09:39:38
+		Duration:	01:56:14
+		Location:	20.49472 -86.96434
+
+(13) - Finish
+	EGG2
+		Images:	64
+		Time:	16.11.2025 09:44:42 until 16.11.2025 10:09:21
+		Duration:	00:24:39
+		Location:	20.50434 -86.95791
+
+	EGG2LS1
+		Images:	614
+		Time:	16.11.2025 09:58:00 until 16.11.2025 13:35:00
+		Duration:	03:37:00
+		Location:	20.50434 -86.95791
+
+	SGD2
+		Images:	2744
+		Time:	16.11.2025 06:30:52 until 16.11.2025 09:50:51
+		Duration:	03:19:59
+		Location:	20.50434 -86.95791
+
+	AGAV2
+		Images:	2097
+		Time:	16.11.2025 06:41:46 until 16.11.2025 11:53:49
+		Duration:	05:12:03
+		Location:	20.50434 -86.95791
+

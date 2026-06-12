@@ -1,0 +1,371 @@
+EventId: 14696
+Spots: 56
+Total Images: 245171
+Time:	15.05.2025 10:30:14 to 18.05.2025 12:37:59
+Duration: 3.02:07:45
+
+(1) - 14.0 km
+	BRON1
+		Images:	1449
+		Time:	15.05.2025 11:09:06 until 16.05.2025 07:31:15
+		Duration:	20:22:09
+		Location:	-33.70873 150.28878
+
+	JUBA1
+		Images:	3014
+		Time:	15.05.2025 10:56:00 until 16.05.2025 07:24:21
+		Duration:	20:28:21
+		Location:	-33.70873 150.28878
+
+(2) - 50.5 km
+	BRON2
+		Images:	1286
+		Time:	16.05.2025 10:38:42 until 16.05.2025 16:40:37
+		Duration:	06:01:55
+		Location:	-33.70900 150.28898
+
+(3) - Finish
+	BRON3
+		Images:	1742
+		Time:	17.05.2025 21:39:26 until 17.05.2025 23:39:13
+		Duration:	01:59:47
+		Location:	-33.64894 150.32005
+
+	BRON5
+		Images:	1829
+		Time:	18.05.2025 00:20:33 until 18.05.2025 06:02:26
+		Duration:	05:41:53
+		Location:	-33.64894 150.32005
+
+	JUBA4
+		Images:	13742
+		Time:	18.05.2025 05:51:23 until 18.05.2025 12:32:09
+		Duration:	06:40:46
+		Location:	-33.64894 150.32005
+
+	JUBA4LS1
+		Images:	10308
+		Time:	18.05.2025 05:51:23 until 18.05.2025 12:32:09
+		Duration:	06:40:46
+		Location:	-33.64894 150.32005
+
+	MKAN4
+		Images:	248
+		Time:	16.05.2025 23:47:50 until 17.05.2025 06:34:45
+		Duration:	06:46:55
+		Location:	-33.72881 150.30044
+
+	JEK6LS1
+		Images:	23268
+		Time:	17.05.2025 18:29:00 until 18.05.2025 12:37:59
+		Duration:	18:08:59
+		Location:	-33.72881 150.30044
+
+	MFS1
+		Images:	5016
+		Time:	17.05.2025 05:53:14 until 17.05.2025 16:10:27
+		Duration:	10:17:13
+		Location:	-33.72881 150.30044
+
+	VN1LS1
+		Images:	2852
+		Time:	17.05.2025 08:38:04 until 17.05.2025 16:12:20
+		Duration:	07:34:16
+		Location:	-33.72881 150.30044
+
+	VN1LS2
+		Images:	1645
+		Time:	16.05.2025 19:12:08 until 18.05.2025 11:22:58
+		Duration:	1.16:10:50
+		Location:	-33.72928 150.30023
+
+	VN3
+		Images:	4925
+		Time:	17.05.2025 10:36:20 until 17.05.2025 16:45:19
+		Duration:	06:08:59
+		Location:	-33.72881 150.30044
+
+	NIF1
+		Images:	10056
+		Time:	17.05.2025 12:27:26 until 17.05.2025 22:13:10
+		Duration:	09:45:44
+		Location:	-33.72881 150.30044
+
+	LML2
+		Images:	13527
+		Time:	17.05.2025 06:36:18 until 17.05.2025 22:38:45
+		Duration:	16:02:27
+		Location:	-33.72881 150.30044
+
+	CSM1
+		Images:	1878
+		Time:	16.05.2025 08:21:54 until 18.05.2025 05:55:56
+		Duration:	1.21:34:02
+		Location:	-33.72881 150.30044
+
+	CSM1LS1
+		Images:	3810
+		Time:	18.05.2025 00:00:00 until 18.05.2025 05:55:59
+		Duration:	05:55:59
+		Location:	-33.72881 150.30044
+
+(4) - 101.8 km
+	BRON4
+		Images:	183
+		Time:	17.05.2025 23:52:19 until 18.05.2025 00:20:31
+		Duration:	00:28:12
+		Location:	-33.72830 150.30142
+
+(5) - 0.0 km
+	BRON2LS1
+		Images:	7520
+		Time:	16.05.2025 12:13:27 until 16.05.2025 16:12:50
+		Duration:	03:59:23
+		Location:	-33.64894 150.32005
+
+(6) - 50.0 km
+	JUBA2
+		Images:	1507
+		Time:	15.05.2025 16:27:55 until 16.05.2025 16:27:56
+		Duration:	1.00:00:01
+		Location:	-33.70873 150.28878
+
+	JUBA2LS1
+		Images:	9576
+		Time:	15.05.2025 11:55:51 until 16.05.2025 16:30:44
+		Duration:	1.04:34:53
+		Location:	-33.70873 150.28878
+
+(7) - 26.0 km
+	JUBA3
+		Images:	5956
+		Time:	17.05.2025 09:00:14 until 17.05.2025 14:38:07
+		Duration:	05:37:53
+		Location:	-33.79467 150.20466
+
+	JUBA3LS1
+		Images:	16857
+		Time:	17.05.2025 08:21:35 until 17.05.2025 14:58:21
+		Duration:	06:36:46
+		Location:	-33.79467 150.20466
+
+	IGM1
+		Images:	4206
+		Time:	17.05.2025 09:06:47 until 17.05.2025 15:44:22
+		Duration:	06:37:35
+		Location:	-33.79467 150.20466
+
+	IGM1LS1
+		Images:	1710
+		Time:	17.05.2025 08:38:42 until 17.05.2025 14:37:18
+		Duration:	05:58:36
+		Location:	-33.79467 150.20466
+
+	IGM1LS2
+		Images:	1292
+		Time:	17.05.2025 09:36:31 until 17.05.2025 13:49:48
+		Duration:	04:13:17
+		Location:	-33.79467 150.20466
+
+(8) - Start
+	MKAN1
+		Images:	24
+		Time:	16.05.2025 04:52:50 until 16.05.2025 05:01:02
+		Duration:	00:08:12
+		Location:	-33.64894 150.32005
+
+	JEK1
+		Images:	2
+		Time:	15.05.2025 10:56:45 until 15.05.2025 11:02:30
+		Duration:	00:05:45
+		Location:	-33.73082 150.31028
+
+	JEK4
+		Images:	5751
+		Time:	17.05.2025 05:49:53 until 17.05.2025 11:49:27
+		Duration:	05:59:34
+		Location:	-33.72881 150.30044
+
+	MFS2
+		Images:	426
+		Time:	17.05.2025 06:06:41 until 17.05.2025 07:03:09
+		Duration:	00:56:28
+		Location:	-33.72881 150.30044
+
+	VN1
+		Images:	1870
+		Time:	17.05.2025 06:26:46 until 17.05.2025 09:10:47
+		Duration:	02:44:01
+		Location:	-33.72881 150.30044
+
+(9) - 12.3 km
+	MKAN2
+		Images:	275
+		Time:	16.05.2025 05:42:16 until 16.05.2025 06:42:40
+		Duration:	01:00:24
+		Location:	-33.64770 150.32204
+
+(10) - 30.7 km
+	MKAN3
+		Images:	1016
+		Time:	16.05.2025 08:29:00 until 16.05.2025 12:48:53
+		Duration:	04:19:53
+		Location:	-33.65248 150.35339
+
+	JEK3
+		Images:	930
+		Time:	16.05.2025 08:31:07 until 16.05.2025 13:37:51
+		Duration:	05:06:44
+		Location:	-33.65248 150.35339
+
+	JEK3LS1
+		Images:	1343
+		Time:	16.05.2025 08:19:28 until 16.05.2025 12:49:21
+		Duration:	04:29:53
+		Location:	-33.65248 150.35339
+
+(11) - 23.0 km
+	MKAN5
+		Images:	4046
+		Time:	17.05.2025 07:35:20 until 17.05.2025 14:22:33
+		Duration:	06:47:13
+		Location:	-33.72608 150.32988
+
+(12) - 5.3 km
+	JEK2
+		Images:	237
+		Time:	16.05.2025 05:48:53 until 16.05.2025 08:29:38
+		Duration:	02:40:45
+		Location:	-33.65089 150.31909
+
+(13) - 99.7 km
+	JEK6
+		Images:	579
+		Time:	18.05.2025 00:22:06 until 18.05.2025 05:12:53
+		Duration:	04:50:47
+		Location:	-33.72851 150.30204
+
+(14) - 28.0 km
+	IAF1
+		Images:	7859
+		Time:	17.05.2025 08:26:10 until 17.05.2025 15:25:04
+		Duration:	06:58:54
+		Location:	-33.74094 150.38420
+
+(15) - 14.3 km
+	JBR1
+		Images:	5170
+		Time:	17.05.2025 06:37:07 until 17.05.2025 15:50:07
+		Duration:	09:13:00
+		Location:	-33.72621 150.32998
+
+(16) - 2.4 km
+	CRBR1
+		Images:	622
+		Time:	17.05.2025 08:12:53 until 17.05.2025 08:39:54
+		Duration:	00:27:01
+		Location:	-33.73804 150.28086
+
+(17) - 37.5 km
+	JEK5
+		Images:	740
+		Time:	17.05.2025 13:10:24 until 17.05.2025 13:36:18
+		Duration:	00:25:54
+		Location:	-33.73561 150.23519
+
+(18) - 49.8 km
+	CRBR2
+		Images:	1002
+		Time:	17.05.2025 10:02:03 until 17.05.2025 14:14:16
+		Duration:	04:12:13
+		Location:	-33.72932 150.30299
+
+	CRBR3
+		Images:	609
+		Time:	17.05.2025 14:22:58 until 17.05.2025 15:45:45
+		Duration:	01:22:47
+		Location:	-33.72932 150.30299
+
+(19) - 9.0 km
+	VFV1
+		Images:	5648
+		Time:	17.05.2025 06:38:26 until 17.05.2025 09:59:12
+		Duration:	03:20:46
+		Location:	-33.73262 150.31196
+
+(20) - 49.0 km
+	VFV2
+		Images:	3380
+		Time:	17.05.2025 10:45:13 until 17.05.2025 15:50:13
+		Duration:	05:05:00
+		Location:	-33.72941 150.30307
+
+(21) - 14.8 km
+	VN2
+		Images:	2288
+		Time:	17.05.2025 09:11:05 until 17.05.2025 10:34:49
+		Duration:	01:23:44
+		Location:	-33.73100 150.31092
+
+(22) - 64.0 km
+	WP1
+		Images:	10807
+		Time:	15.05.2025 10:30:14 until 17.05.2025 16:36:41
+		Duration:	2.06:06:27
+		Location:	-33.72412 150.33529
+
+(23) - 59.0 km
+	IDS1
+		Images:	25353
+		Time:	16.05.2025 22:15:00 until 17.05.2025 17:12:23
+		Duration:	18:57:23
+		Location:	-33.73510 150.31514
+
+(24) - 1.5 km
+	RCT1
+		Images:	210
+		Time:	16.05.2025 17:45:20 until 16.05.2025 20:53:23
+		Duration:	03:08:03
+		Location:	-33.74209 150.27983
+
+	LML1
+		Images:	3273
+		Time:	17.05.2025 07:10:27 until 17.05.2025 08:51:52
+		Duration:	01:41:25
+		Location:	-33.74209 150.27983
+
+(25) - 60.0 km
+	RCT2
+		Images:	4862
+		Time:	17.05.2025 07:34:18 until 17.05.2025 17:56:36
+		Duration:	10:22:18
+		Location:	-33.72800 150.37462
+
+(26) - 45.0 km
+	TPA1
+		Images:	930
+		Time:	17.05.2025 11:44:34 until 17.05.2025 19:48:52
+		Duration:	08:04:18
+		Location:	-33.73444 150.23614
+
+(27) - 37.3 km
+	TPA2
+		Images:	4946
+		Time:	17.05.2025 06:49:07 until 17.05.2025 07:57:50
+		Duration:	01:08:43
+		Location:	-33.73444 150.23614
+
+(28) - 37.2 km
+	TPA1LS2
+		Images:	1530
+		Time:	17.05.2025 12:08:27 until 17.05.2025 17:16:20
+		Duration:	05:07:53
+		Location:	-33.73444 150.23614
+
+(29) - 37.0 km
+	TPA1LS1
+		Images:	40
+		Time:	17.05.2025 16:26:38 until 17.05.2025 17:13:27
+		Duration:	00:46:49
+		Location:	-33.73583 150.23711
+

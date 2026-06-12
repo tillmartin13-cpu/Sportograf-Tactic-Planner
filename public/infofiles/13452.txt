@@ -1,0 +1,403 @@
+EventId: 13452
+Spots: 62
+Total Images: 154698
+Time:	09.10.2025 07:07:44 to 10.10.2025 20:49:01
+Duration: 1.13:41:17
+
+(1) - Start - Base Nature
+	MIFP1
+		Images:	327
+		Time:	10.10.2025 07:23:31 until 10.10.2025 08:30:20
+		Duration:	01:06:49
+		Location:	43.41605 6.73824
+
+(2) - 1km before L'Agriotier
+	ARF1
+		Images:	3541
+		Time:	10.10.2025 07:34:11 until 10.10.2025 15:25:58
+		Duration:	07:51:47
+		Location:	43.39128 6.69726
+
+(3) - L'Agriotier
+	MARY1
+		Images:	11802
+		Time:	10.10.2025 07:45:16 until 10.10.2025 15:41:33
+		Duration:	07:56:17
+		Location:	43.38791 6.69206
+
+(4) - Climb after La Fournel
+	BP1
+		Images:	1812
+		Time:	10.10.2025 08:00:22 until 10.10.2025 09:42:39
+		Duration:	01:42:17
+		Location:	43.39262 6.66643
+
+	BP1LS1
+		Images:	888
+		Time:	10.10.2025 07:54:45 until 10.10.2025 09:50:48
+		Duration:	01:56:03
+		Location:	43.39262 6.66643
+
+	BP1LS2
+		Images:	2349
+		Time:	10.10.2025 07:43:54 until 10.10.2025 09:38:04
+		Duration:	01:54:10
+		Location:	43.39262 6.66643
+
+	BP1DRONE1
+		Images:	8
+		Time:	10.10.2025 08:12:36 until 10.10.2025 11:18:05
+		Duration:	03:05:29
+		Location:	43.39262 6.66643
+
+(5) - Sommet Flute
+	COR1
+		Images:	2508
+		Time:	09.10.2025 08:36:19 until 10.10.2025 10:09:22
+		Duration:	1.01:33:03
+		Location:	43.39678 6.65130
+
+	COR1LS1
+		Images:	2774
+		Time:	10.10.2025 07:52:44 until 10.10.2025 10:04:11
+		Duration:	02:11:27
+		Location:	43.39678 6.65130
+
+	COR1LS2
+		Images:	2781
+		Time:	09.10.2025 10:10:14 until 10.10.2025 10:02:46
+		Duration:	23:52:32
+		Location:	43.39678 6.65130
+
+(6) - Roquebrune-sur-Argens
+	LEBE1
+		Images:	3110
+		Time:	09.10.2025 07:35:06 until 10.10.2025 11:50:16
+		Duration:	1.04:15:10
+		Location:	43.44129 6.62849
+
+	LEBE1LS1
+		Images:	1355
+		Time:	10.10.2025 08:02:27 until 10.10.2025 11:54:40
+		Duration:	03:52:13
+		Location:	43.44129 6.62849
+
+(7) - Citerne Les Campons
+	CHR1
+		Images:	2547
+		Time:	09.10.2025 07:46:15 until 10.10.2025 12:03:02
+		Duration:	1.04:16:47
+		Location:	43.42818 6.61663
+
+	CHR1LS1
+		Images:	2184
+		Time:	10.10.2025 08:55:50 until 10.10.2025 11:14:57
+		Duration:	02:19:07
+		Location:	43.42818 6.61663
+
+	CHR1LS2
+		Images:	1461
+		Time:	10.10.2025 08:50:28 until 10.10.2025 11:34:18
+		Duration:	02:43:50
+		Location:	43.42818 6.61663
+
+(8) - Sommet Carbret
+	COR2
+		Images:	1465
+		Time:	09.10.2025 07:43:28 until 10.10.2025 15:44:26
+		Duration:	1.08:00:58
+		Location:	43.40577 6.64749
+
+	COR2LS1
+		Images:	851
+		Time:	10.10.2025 10:35:31 until 10.10.2025 15:34:37
+		Duration:	04:59:06
+		Location:	43.40577 6.64749
+
+	COR2LS2
+		Images:	690
+		Time:	10.10.2025 10:30:43 until 10.10.2025 15:35:12
+		Duration:	05:04:29
+		Location:	43.40577 6.64749
+
+(9) - After Sommet Carbret
+	BP2
+		Images:	1946
+		Time:	10.10.2025 10:37:28 until 10.10.2025 15:59:43
+		Duration:	05:22:15
+		Location:	43.38660 6.65877
+
+	BP2LS1
+		Images:	758
+		Time:	10.10.2025 10:39:28 until 10.10.2025 15:59:22
+		Duration:	05:19:54
+		Location:	43.38660 6.65877
+
+	BP2LS2
+		Images:	748
+		Time:	10.10.2025 10:34:42 until 10.10.2025 15:32:54
+		Duration:	04:58:12
+		Location:	43.38660 6.65877
+
+(10) - Before L'Agriotier - Barriere horaire
+	MAGA1
+		Images:	4732
+		Time:	10.10.2025 11:40:17 until 10.10.2025 17:20:09
+		Duration:	05:39:52
+		Location:	43.36704 6.66311
+
+	MAGA1LS1
+		Images:	1449
+		Time:	10.10.2025 11:23:17 until 10.10.2025 17:20:50
+		Duration:	05:57:33
+		Location:	43.36704 6.66311
+
+	MAGA1LS2
+		Images:	4396
+		Time:	10.10.2025 10:38:33 until 10.10.2025 17:20:32
+		Duration:	06:41:59
+		Location:	43.36704 6.66311
+
+(11) - L'Agriotier - Barriere horaire
+	BRN1
+		Images:	4198
+		Time:	10.10.2025 11:04:40 until 10.10.2025 17:27:03
+		Duration:	06:22:23
+		Location:	43.36768 6.67535
+
+	BRN1LS1
+		Images:	4838
+		Time:	10.10.2025 10:12:34 until 10.10.2025 17:26:28
+		Duration:	07:13:54
+		Location:	43.36768 6.67535
+
+	BRN1LS2
+		Images:	12859
+		Time:	10.10.2025 10:33:07 until 10.10.2025 15:37:14
+		Duration:	05:04:07
+		Location:	43.36768 6.67535
+
+(12) - After L'Agriotier - Barriere horaire
+	ALL1
+		Images:	1480
+		Time:	10.10.2025 11:16:21 until 10.10.2025 17:29:33
+		Duration:	06:13:12
+		Location:	43.36738 6.67760
+
+	ALL1LS1
+		Images:	1362
+		Time:	10.10.2025 10:13:42 until 10.10.2025 17:32:29
+		Duration:	07:18:47
+		Location:	43.36738 6.67760
+
+(13) - Before Pont du Reydissart
+	TGM1
+		Images:	3928
+		Time:	10.10.2025 12:20:19 until 10.10.2025 18:39:33
+		Duration:	06:19:14
+		Location:	43.40184 6.70400
+
+	TGM1LS1
+		Images:	2543
+		Time:	10.10.2025 11:14:09 until 10.10.2025 18:52:08
+		Duration:	07:37:59
+		Location:	43.40184 6.70400
+
+	TGM1LS2
+		Images:	1769
+		Time:	10.10.2025 11:57:05 until 10.10.2025 18:39:37
+		Duration:	06:42:32
+		Location:	43.40184 6.70400
+
+(14) - Pont du Reydissart
+	STO1
+		Images:	6531
+		Time:	10.10.2025 11:17:58 until 10.10.2025 18:40:55
+		Duration:	07:22:57
+		Location:	43.40131 6.70965
+
+	STO1LS1
+		Images:	3254
+		Time:	10.10.2025 11:25:39 until 10.10.2025 18:43:32
+		Duration:	07:17:53
+		Location:	43.40127 6.71010
+
+(15) - Bridge Plage la Galiote
+	JLTG1
+		Images:	3394
+		Time:	09.10.2025 09:01:38 until 10.10.2025 18:50:40
+		Duration:	1.09:49:02
+		Location:	43.39379 6.72780
+
+	JLTG1LS1
+		Images:	2186
+		Time:	10.10.2025 10:51:05 until 10.10.2025 18:44:03
+		Duration:	07:52:58
+		Location:	43.39379 6.72780
+
+	JLTG1LS2
+		Images:	2143
+		Time:	10.10.2025 11:10:28 until 10.10.2025 18:44:13
+		Duration:	07:33:45
+		Location:	43.39379 6.72780
+
+(16) - Finish - Base Nature
+	MIFP2
+		Images:	6405
+		Time:	10.10.2025 09:42:14 until 10.10.2025 19:16:22
+		Duration:	09:34:08
+		Location:	43.41605 6.73824
+
+	MIFP1LS1
+		Images:	10732
+		Time:	10.10.2025 09:03:03 until 10.10.2025 19:16:22
+		Duration:	10:13:19
+		Location:	43.41605 6.73824
+
+(17) - Col du Baladou - Esterel
+	MANR1
+		Images:	5696
+		Time:	09.10.2025 10:48:08 until 10.10.2025 13:10:37
+		Duration:	1.02:22:29
+		Location:	43.47975 6.79324
+
+	MANR1LS1
+		Images:	1366
+		Time:	10.10.2025 09:21:30 until 10.10.2025 13:10:37
+		Duration:	03:49:07
+		Location:	43.47975 6.79324
+
+	MANR1LS2
+		Images:	1571
+		Time:	10.10.2025 10:35:58 until 10.10.2025 13:15:53
+		Duration:	02:39:55
+		Location:	43.47975 6.79324
+
+(18) - Before Maison forestiere du Malpey - Esterel
+	PKA1
+		Images:	1786
+		Time:	09.10.2025 11:03:13 until 10.10.2025 19:16:17
+		Duration:	1.08:13:04
+		Location:	43.49758 6.80900
+
+	PKA1LS1
+		Images:	672
+		Time:	10.10.2025 09:04:44 until 10.10.2025 12:06:38
+		Duration:	03:01:54
+		Location:	43.49758 6.80900
+
+	PKA1LS2
+		Images:	2141
+		Time:	10.10.2025 09:03:19 until 10.10.2025 14:08:12
+		Duration:	05:04:53
+		Location:	43.49758 6.80900
+
+(19) - 1km after Maison forestiere du Malpey - Esterel
+	EP1LS1
+		Images:	926
+		Time:	10.10.2025 09:25:06 until 10.10.2025 14:15:42
+		Duration:	04:50:36
+		Location:	43.49641 6.81651
+
+	EP1
+		Images:	2076
+		Time:	09.10.2025 08:21:59 until 10.10.2025 14:09:16
+		Duration:	1.05:47:17
+		Location:	43.49710 6.81510
+
+(20) - Before Col du Mistral - Esterel
+	HS1
+		Images:	2323
+		Time:	09.10.2025 07:07:44 until 10.10.2025 15:09:54
+		Duration:	1.08:02:10
+		Location:	43.46631 6.86105
+
+	HS1LS1
+		Images:	1161
+		Time:	10.10.2025 09:58:15 until 10.10.2025 15:09:58
+		Duration:	05:11:43
+		Location:	43.46631 6.86105
+
+	HS1LS2
+		Images:	1091
+		Time:	09.10.2025 09:13:37 until 10.10.2025 15:11:15
+		Duration:	1.05:57:38
+		Location:	43.46631 6.86105
+
+(21) - 1km after Col du Mistral - Esterel
+	ROB1
+		Images:	1105
+		Time:	10.10.2025 10:01:11 until 10.10.2025 15:09:09
+		Duration:	05:07:58
+		Location:	43.46814 6.85535
+
+	ROB1LS1
+		Images:	1254
+		Time:	10.10.2025 09:10:07 until 10.10.2025 15:14:37
+		Duration:	06:04:30
+		Location:	43.46814 6.85535
+
+	ROB1LS2
+		Images:	1271
+		Time:	09.10.2025 08:31:58 until 10.10.2025 15:14:38
+		Duration:	1.06:42:40
+		Location:	43.46814 6.85535
+
+(22) - Enduro SP1 - upper
+	LEBE2
+		Images:	1384
+		Time:	09.10.2025 11:07:01 until 10.10.2025 15:43:47
+		Duration:	1.04:36:46
+		Location:	43.41344 6.66058
+
+	LEBE2LS1
+		Images:	311
+		Time:	09.10.2025 09:35:40 until 10.10.2025 15:48:48
+		Duration:	1.06:13:08
+		Location:	43.41344 6.66058
+
+(23) - Enduro SP1 - lower
+	CHR2
+		Images:	1085
+		Time:	09.10.2025 09:42:25 until 10.10.2025 15:42:40
+		Duration:	1.06:00:15
+		Location:	43.41269 6.66187
+
+	CHR2LS1
+		Images:	1057
+		Time:	10.10.2025 13:29:02 until 10.10.2025 15:23:06
+		Duration:	01:54:04
+		Location:	43.41269 6.66187
+
+	CHR2LS2
+		Images:	318
+		Time:	10.10.2025 13:17:50 until 10.10.2025 15:42:24
+		Duration:	02:24:34
+		Location:	43.41269 6.66187
+
+(24) - Ruelles de Frejus - Night Race Spot 1
+	EP2LS1
+		Images:	592
+		Time:	10.10.2025 19:28:52 until 10.10.2025 20:49:01
+		Duration:	01:20:09
+		Location:	43.43335 6.73631
+
+	EP2
+		Images:	473
+		Time:	10.10.2025 19:13:58 until 10.10.2025 20:45:43
+		Duration:	01:31:45
+		Location:	43.43335 6.73631
+
+(25) - Ruelles de Frejus - Night Race Spot 2
+	PKA2
+		Images:	879
+		Time:	10.10.2025 19:16:24 until 10.10.2025 20:45:46
+		Duration:	01:29:22
+		Location:	43.43394 6.73804
+
+	PKA2LS1
+		Images:	54
+		Time:	10.10.2025 19:12:16 until 10.10.2025 20:27:47
+		Duration:	01:15:31
+		Location:	43.43394 6.73804
+

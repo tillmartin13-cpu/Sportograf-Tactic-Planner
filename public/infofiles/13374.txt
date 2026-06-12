@@ -1,0 +1,137 @@
+EventId: 13374
+Spots: 21
+Total Images: 230370
+Time:	07.02.2025 22:40:47 to 08.02.2025 13:04:47
+Duration: 14:24:00
+
+(1) - Start
+	RA1
+		Images:	3213
+		Time:	07.02.2025 22:42:15 until 08.02.2025 08:12:33
+		Duration:	09:30:18
+		Location:	24.78044 46.60337
+
+	OT1
+		Images:	9673
+		Time:	07.02.2025 22:45:30 until 08.02.2025 08:16:06
+		Duration:	09:30:36
+		Location:	24.78044 46.60337
+
+(2) - 1.1 km Palm Avenue
+	MRGO1
+		Images:	12094
+		Time:	08.02.2025 04:11:38 until 08.02.2025 12:06:09
+		Duration:	07:54:31
+		Location:	24.78118 46.59479
+
+	JKE1
+		Images:	13379
+		Time:	08.02.2025 04:59:29 until 08.02.2025 12:04:51
+		Duration:	07:05:22
+		Location:	24.78220 46.59372
+
+	JKE1LS1
+		Images:	6947
+		Time:	08.02.2025 05:01:41 until 08.02.2025 11:06:11
+		Duration:	06:04:30
+		Location:	24.78220 46.59372
+
+(3) - 1.5 km Turnaround Point
+	MBEN1
+		Images:	22823
+		Time:	08.02.2025 05:06:31 until 08.02.2025 11:48:49
+		Duration:	06:42:18
+		Location:	24.78450 46.59167
+
+	MBEN1LS1
+		Images:	12014
+		Time:	08.02.2025 05:37:37 until 08.02.2025 11:50:43
+		Duration:	06:13:06
+		Location:	24.78450 46.59167
+
+	MSC1
+		Images:	13318
+		Time:	07.02.2025 22:40:47 until 08.02.2025 13:04:47
+		Duration:	14:24:00
+		Location:	24.78472 46.59180
+
+(4) - 5.4 km Mosque
+	YUM1
+		Images:	15676
+		Time:	08.02.2025 05:53:09 until 08.02.2025 11:35:56
+		Duration:	05:42:47
+		Location:	24.78184 46.58353
+
+(5) - 8.5 km Village Tower
+	STL1
+		Images:	7695
+		Time:	08.02.2025 05:29:33 until 08.02.2025 09:44:32
+		Duration:	04:14:59
+		Location:	24.76623 46.56583
+
+	VL1
+		Images:	13265
+		Time:	08.02.2025 05:26:49 until 08.02.2025 09:46:50
+		Duration:	04:20:01
+		Location:	24.76623 46.56583
+
+(6) - 18.0 km Park
+	LEM1
+		Images:	3230
+		Time:	08.02.2025 05:44:08 until 08.02.2025 09:02:25
+		Duration:	03:18:17
+		Location:	24.74676 46.55935
+
+	LEM1LS1
+		Images:	1015
+		Time:	08.02.2025 05:34:12 until 08.02.2025 08:51:03
+		Duration:	03:16:51
+		Location:	24.74676 46.55935
+
+(7) - 41.8 km Finish Straight
+	OT2
+		Images:	43152
+		Time:	08.02.2025 08:17:05 until 08.02.2025 12:32:32
+		Duration:	04:15:27
+		Location:	24.78376 46.60806
+
+(8) - Finish
+	NIZ1
+		Images:	7428
+		Time:	08.02.2025 06:35:40 until 08.02.2025 12:36:58
+		Duration:	06:01:18
+		Location:	24.78472 46.61165
+
+	RA2
+		Images:	21917
+		Time:	08.02.2025 07:37:21 until 08.02.2025 12:33:28
+		Duration:	04:56:07
+		Location:	24.78484 46.61164
+
+	SAQ1
+		Images:	12518
+		Time:	08.02.2025 06:38:55 until 08.02.2025 12:46:58
+		Duration:	06:08:03
+		Location:	24.78472 46.61151
+
+	YAS1
+		Images:	5706
+		Time:	08.02.2025 06:36:35 until 08.02.2025 12:33:19
+		Duration:	05:56:44
+		Location:	24.78477 46.61167
+
+(9) - Medals
+	GSH1
+		Images:	2855
+		Time:	08.02.2025 06:40:06 until 08.02.2025 12:27:07
+		Duration:	05:47:01
+		Location:	24.78473 46.61163
+
+	MGOT1
+		Images:	2452
+		Time:	08.02.2025 06:41:38 until 08.02.2025 12:21:27
+		Duration:	05:39:49
+		Location:	24.78473 46.61163
+
+(10) - Impressions / Pano
+	PANO1

@@ -1,0 +1,146 @@
+EventId: 15937
+Spots: 50
+Total Images: 164639
+Time:	13.03.2025 05:47:05 to 15.04.2025 01:11:55
+Duration: 32.19:24:50
+
+(1) - 0.1 mile MSC8 (+13.0 ml, 26.0mile)
+	CF1
+(2) - 0.1 mile MSC8 (+13.0) ml, 26.0 mile
+	CF1LS1
+(3) - 1.0 mile MSC1
+	BCC1
+		Images:	4386
+		Time:	13.04.2025 07:04:14 until 13.04.2025 07:40:46
+		Duration:	00:36:32
+		Location:	NULL NULL
+
+	BPS1
+		Images:	3991
+		Time:	13.03.2025 05:47:05 until 13.03.2025 06:42:31
+		Duration:	00:55:26
+		Location:	NULL NULL
+
+	BPS1LS1
+		Images:	1880
+		Time:	13.04.2025 07:09:32 until 13.04.2025 07:40:59
+		Duration:	00:31:27
+		Location:	NULL NULL
+
+	CC1
+	PS1
+	PS1LS1
+(4) - 1.4 mile MSC2
+	BDK2
+		Images:	6127
+		Time:	13.04.2025 06:51:56 until 13.04.2025 07:53:02
+		Duration:	01:01:06
+		Location:	NULL NULL
+
+	BRF2
+		Images:	5181
+		Time:	13.04.2025 07:06:31 until 13.04.2025 07:48:38
+		Duration:	00:42:07
+		Location:	NULL NULL
+
+	BRF2LS1
+		Images:	1146
+		Time:	13.04.2025 07:04:21 until 13.04.2025 07:48:58
+		Duration:	00:44:37
+		Location:	NULL NULL
+
+	DK1
+	RF1
+	RF1LS1
+(5) - 12.0 mile MSC5
+	AR1
+(6) - 12.0 mile MSC7 (+25 mile)
+	PS2
+(7) - 12.0 mile MSC7 (+25 ml)
+	CC2
+(8) - 12.0 mile MSC7 (+25mile)
+	PS2LS1
+(9) - 12.0 mile MSC7: 12.0 mile and 25.0 mile
+	BCC2
+		Images:	17202
+		Time:	13.04.2025 08:09:18 until 13.04.2025 13:23:35
+		Duration:	05:14:17
+		Location:	NULL NULL
+
+	BPS2
+		Images:	19001
+		Time:	13.03.2025 08:11:38 until 13.03.2025 13:26:42
+		Duration:	05:15:04
+		Location:	NULL NULL
+
+	BPS2LS1
+		Images:	10000
+		Time:	13.04.2025 08:07:59 until 13.04.2025 10:54:43
+		Duration:	02:46:44
+		Location:	NULL NULL
+
+(10) - 2.0 mile MSC3 (+ 11.2ml +24.2ml)
+	WD1
+(11) - 2.0 mile MSC3 (+11.2ml, +24.2ml)
+	JA1
+(12) - 2.0 mile MSC3 (+11.2ml,+24.2ml)
+	WD1LS1
+(13) - 2.0 mile MSC3 oposite direction
+	JA2
+	WD2
+(14) - 2.0 mile MSC3 Tr oposite dorection
+	WD2LS1
+(15) - 23.2 mile MSC5
+	AR2
+(16) - 24.2 mile MSC6
+	AK2
+	AK2LS1
+	BAK1
+		Images:	6952
+		Time:	14.04.2025 21:07:48 until 15.04.2025 01:11:55
+		Duration:	04:04:07
+		Location:	NULL NULL
+
+	BAK1LS1
+		Images:	27993
+		Time:	13.04.2025 07:05:19 until 13.04.2025 11:13:21
+		Duration:	04:08:02
+		Location:	NULL NULL
+
+(17) - 26.0 mile Pre Finish
+	BDK1
+		Images:	20327
+		Time:	13.04.2025 08:31:02 until 13.04.2025 13:28:43
+		Duration:	04:57:41
+		Location:	NULL NULL
+
+	BRF1
+		Images:	18297
+		Time:	13.04.2025 08:40:51 until 13.04.2025 13:33:29
+		Duration:	04:52:38
+		Location:	NULL NULL
+
+	BRF1LS1
+		Images:	8352
+		Time:	13.04.2025 08:36:56 until 13.04.2025 13:32:45
+		Duration:	04:55:49
+		Location:	NULL NULL
+
+(18) - 5.2 mile MSC4
+	AK1
+	AK1LS1
+(19) - Finish
+	CM2
+	CM2LS1
+	DK2
+	JR1
+	JR1LS1
+	PK1
+	PK2
+	PK3
+	RF2
+	RF2LS1
+	RL1
+	SMG1
+(20) - Start
+	CM1

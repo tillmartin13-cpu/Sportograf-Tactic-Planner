@@ -1,0 +1,449 @@
+EventId: 13453
+Spots: 70
+Total Images: 144983
+Time:	01.01.0001 23:00:00 to 12.10.2025 18:24:55
+Duration: 739534.19:24:55
+
+(1) - Start
+	MARY1
+		Images:	223
+		Time:	01.01.0001 23:00:00 until 11.10.2025 08:35:25
+		Duration:	739533.09:35:25
+		Location:	43.41664 6.73786
+
+	ALL1
+		Images:	414
+		Time:	10.10.2025 12:07:36 until 11.10.2025 07:59:59
+		Duration:	19:52:23
+		Location:	43.41664 6.73786
+
+(2) - km 12 Gravel Roc
+	COR1
+		Images:	826
+		Time:	09.10.2025 08:36:19 until 11.10.2025 08:49:35
+		Duration:	2.00:13:16
+		Location:	43.36917 6.68340
+
+	COR1LS1
+		Images:	3260
+		Time:	11.10.2025 09:00:44 until 11.10.2025 11:04:05
+		Duration:	02:03:21
+		Location:	43.36917 6.68340
+
+	COR1LS2
+		Images:	1703
+		Time:	09.10.2025 10:10:14 until 11.10.2025 10:49:01
+		Duration:	2.00:38:47
+		Location:	43.36917 6.68340
+
+(3) - km 15 Gravel Roc
+	HS1
+		Images:	146
+		Time:	09.10.2025 07:07:44 until 12.10.2025 10:34:16
+		Duration:	3.03:26:32
+		Location:	43.36773 6.67930
+
+(4) - Km 24 Rock Gravel long 140K
+	MIFP1
+		Images:	381
+		Time:	10.10.2025 07:33:24 until 11.10.2025 09:02:50
+		Duration:	1.01:29:26
+		Location:	43.51327 6.79093
+
+	MIFP1LS1
+		Images:	204
+		Time:	11.10.2025 07:37:40 until 11.10.2025 09:06:49
+		Duration:	01:29:09
+		Location:	43.51327 6.79093
+
+(5) - Km 25 Rock Gravel long 140K
+	TGM1
+		Images:	694
+		Time:	11.10.2025 08:02:57 until 11.10.2025 09:03:45
+		Duration:	01:00:48
+		Location:	43.40184 6.70657
+
+	TGM1LS1
+		Images:	222
+		Time:	11.10.2025 07:55:28 until 11.10.2025 09:03:52
+		Duration:	01:08:24
+		Location:	43.40184 6.70657
+
+	TGM1LS2
+		Images:	232
+		Time:	11.10.2025 07:17:45 until 11.10.2025 09:05:19
+		Duration:	01:47:34
+		Location:	43.40184 6.70657
+
+(6) - Km 26 Rock Gravel long 140K
+	STO1LS1
+		Images:	259
+		Time:	11.10.2025 08:06:35 until 11.10.2025 09:08:22
+		Duration:	01:01:47
+		Location:	43.51731 6.78995
+
+	STO1
+		Images:	483
+		Time:	11.10.2025 07:32:13 until 12.10.2025 08:50:58
+		Duration:	1.01:18:45
+		Location:	43.51731 6.78995
+
+(7) - 2 km after Cimetière Village / Gravel Roc
+	MANR1
+		Images:	1423
+		Time:	09.10.2025 10:48:08 until 11.10.2025 10:17:51
+		Duration:	1.23:29:43
+		Location:	43.44031 6.62666
+
+	MANR1LS1
+		Images:	273
+		Time:	11.10.2025 10:58:10 until 11.10.2025 12:42:04
+		Duration:	01:43:54
+		Location:	43.44031 6.62666
+
+	MANR1LS2
+		Images:	540
+		Time:	11.10.2025 08:05:29 until 11.10.2025 10:15:57
+		Duration:	02:10:28
+		Location:	43.44031 6.62666
+
+(8) - Impressions / Pano
+	MANR1DRONE1
+		Images:	9
+		Time:	11.10.2025 08:26:43 until 11.10.2025 13:41:54
+		Duration:	05:15:11
+		Location:	43.44031 6.62666
+
+	PANO1
+(9) - 3 km after Cimetière Village / Gravel Roc
+	JLTG1
+		Images:	833
+		Time:	09.10.2025 09:01:38 until 12.10.2025 08:29:12
+		Duration:	2.23:27:34
+		Location:	43.44061 6.62493
+
+	JLTG1LS1
+		Images:	453
+		Time:	11.10.2025 07:51:57 until 11.10.2025 10:16:18
+		Duration:	02:24:21
+		Location:	43.44061 6.62493
+
+	JLTG1LS2
+		Images:	452
+		Time:	11.10.2025 07:45:21 until 11.10.2025 10:16:09
+		Duration:	02:30:48
+		Location:	43.44061 6.62493
+
+(10) - 4,5 km to Car brûlé /Rando Noire
+	BP1
+		Images:	2912
+		Time:	10.10.2025 08:24:06 until 12.10.2025 09:38:47
+		Duration:	2.01:14:41
+		Location:	43.39649 6.65202
+
+	BP1LS2
+		Images:	2412
+		Time:	11.10.2025 09:24:46 until 11.10.2025 14:44:14
+		Duration:	05:19:28
+		Location:	43.39649 6.65202
+
+	BP1LS1
+		Images:	2236
+		Time:	11.10.2025 09:49:33 until 11.10.2025 14:51:03
+		Duration:	05:01:30
+		Location:	43.39649 6.65202
+
+(11) - 3 km  to Car brûlé / R. Rouge / R. Noire
+	LEBE1
+		Images:	4963
+		Time:	09.10.2025 07:35:06 until 12.10.2025 11:30:31
+		Duration:	3.03:55:25
+		Location:	43.41344 6.66058
+
+(12) - 3 km to Car brûlé / R. Rouge / R. Noire
+	LEBE1LS1
+		Images:	1849
+		Time:	11.10.2025 08:30:03 until 11.10.2025 14:36:42
+		Duration:	06:06:39
+		Location:	43.41344 6.66058
+
+(13) - 2 km to Car brûlé / R. Rouge / R. Noire
+	MAGA1
+		Images:	7150
+		Time:	11.10.2025 10:02:37 until 11.10.2025 15:38:10
+		Duration:	05:35:33
+		Location:	43.3844 6.65758
+
+	MAGA1LS1
+		Images:	2573
+		Time:	11.10.2025 09:53:58 until 11.10.2025 15:51:01
+		Duration:	05:57:03
+		Location:	43.3844 6.65758
+
+	MAGA1LS2
+		Images:	4494
+		Time:	11.10.2025 09:05:30 until 11.10.2025 16:13:28
+		Duration:	07:07:58
+		Location:	43.3844 6.65758
+
+(14) - 1 km  to Car brûlé / R. Rouge / R. Noire
+	ROB1
+		Images:	4026
+		Time:	10.10.2025 10:10:09 until 11.10.2025 16:06:43
+		Duration:	1.05:56:34
+		Location:	43.36677 6.67222
+
+(15) - 1 km to Car brûlé / R. Rouge / R. Noire
+	ROB1LS1
+		Images:	6436
+		Time:	11.10.2025 09:04:43 until 11.10.2025 16:13:28
+		Duration:	07:08:45
+		Location:	43.36677 6.67222
+
+	ROB1LS2
+		Images:	6685
+		Time:	09.10.2025 08:31:58 until 11.10.2025 16:10:00
+		Duration:	2.07:38:02
+		Location:	43.36677 6.67222
+
+(16) - Km 126 Rock Gravel long 140K
+	MIFP2
+		Images:	1294
+		Time:	11.10.2025 11:32:21 until 11.10.2025 18:06:09
+		Duration:	06:33:48
+		Location:	43.36518 6.66712
+
+	MIFP2LS1
+		Images:	361
+		Time:	11.10.2025 11:20:41 until 11.10.2025 18:12:05
+		Duration:	06:51:24
+		Location:	43.36518 6.66712
+
+	STO2
+		Images:	621
+		Time:	11.10.2025 11:57:12 until 12.10.2025 18:10:54
+		Duration:	1.06:13:42
+		Location:	43.36405 6.67182
+
+	STO2LS1
+		Images:	329
+		Time:	09.10.2025 10:28:54 until 11.10.2025 18:08:14
+		Duration:	2.07:39:20
+		Location:	43.36405 6.67182
+
+(17) - Km 127 Rock Gravel long 140K
+	TGM2
+		Images:	949
+		Time:	11.10.2025 11:51:39 until 11.10.2025 18:07:45
+		Duration:	06:16:06
+		Location:	43.36457 6.67067
+
+	TGM2LS2
+		Images:	433
+		Time:	11.10.2025 11:28:40 until 11.10.2025 17:33:37
+		Duration:	06:04:57
+		Location:	43.36457 6.67067
+
+	TGM2LS1
+		Images:	354
+		Time:	11.10.2025 11:19:42 until 11.10.2025 18:00:31
+		Duration:	06:40:49
+		Location:	43.36457 6.67067
+
+(18) - Car brûlé / R. Rouge / R. Noire
+	HS2
+		Images:	3233
+		Time:	11.10.2025 10:46:24 until 11.10.2025 16:31:11
+		Duration:	05:44:47
+		Location:	43.36773 6.67930
+
+	HS2LS2
+		Images:	2631
+		Time:	11.10.2025 08:55:36 until 11.10.2025 16:42:51
+		Duration:	07:47:15
+		Location:	43.36773 6.67930
+
+	HS2LS1
+		Images:	2783
+		Time:	11.10.2025 09:19:00 until 11.10.2025 16:31:07
+		Duration:	07:12:07
+		Location:	43.36773 6.67930
+
+(19) - 3 km after Car brûlé / R. Rouge / R. Noire /
+	PKA1
+		Images:	4077
+		Time:	09.10.2025 11:03:13 until 11.10.2025 16:50:37
+		Duration:	2.05:47:24
+		Location:	43.36641 6.68245
+
+	PKA1LS2
+		Images:	4311
+		Time:	11.10.2025 10:35:16 until 11.10.2025 16:50:57
+		Duration:	06:15:41
+		Location:	43.36641 6.68245
+
+	PKA1LS1
+		Images:	3424
+		Time:	11.10.2025 09:25:37 until 11.10.2025 16:47:02
+		Duration:	07:21:25
+		Location:	43.36641 6.68245
+
+(20) - 4 km before La Baronne / Rando Rouge / Rando Bleue
+	COR2
+		Images:	3263
+		Time:	09.10.2025 07:43:28 until 11.10.2025 11:07:44
+		Duration:	2.03:24:16
+		Location:	43.36627 6.70799
+
+	COR2LS2
+		Images:	470
+		Time:	11.10.2025 13:11:39 until 11.10.2025 15:50:46
+		Duration:	02:39:07
+		Location:	43.36627 6.70799
+
+	COR2LS1
+		Images:	475
+		Time:	11.10.2025 13:15:25 until 11.10.2025 16:33:38
+		Duration:	03:18:13
+		Location:	43.36627 6.70799
+
+	CHR2
+		Images:	3852
+		Time:	09.10.2025 09:42:25 until 11.10.2025 16:09:26
+		Duration:	2.06:27:01
+		Location:	43.40212 6.70712
+
+	CHR2LS1
+		Images:	2091
+		Time:	11.10.2025 12:10:04 until 11.10.2025 16:47:10
+		Duration:	04:37:06
+		Location:	43.40212 6.70712
+
+	CHR2LS2
+		Images:	2691
+		Time:	11.10.2025 12:06:20 until 11.10.2025 15:40:56
+		Duration:	03:34:36
+		Location:	43.40212 6.70712
+
+(21) - 3 km before La Baronne / Rando Rouge / Rando Bleue
+	EP1
+		Images:	1886
+		Time:	09.10.2025 08:21:59 until 11.10.2025 12:02:16
+		Duration:	2.03:40:17
+		Location:	43.40203 6.70751
+
+	EP1LS1
+		Images:	794
+		Time:	11.10.2025 09:00:52 until 11.10.2025 12:25:02
+		Duration:	03:24:10
+		Location:	43.40203 6.70751
+
+(22) - 3,5 km before La Baronne / Rando Rouge / Rando Bleue
+	EP2
+		Images:	4172
+		Time:	11.10.2025 12:35:54 until 12.10.2025 13:49:35
+		Duration:	1.01:13:41
+		Location:	43.40195 6.70661
+
+	EP2LS1
+		Images:	2749
+		Time:	11.10.2025 12:25:23 until 11.10.2025 17:34:54
+		Duration:	05:09:31
+		Location:	43.40195 6.70661
+
+(23) - 5 km before La Baronne / Rando Rouge / Rando Bleue
+	CHR1
+		Images:	1306
+		Time:	09.10.2025 07:46:15 until 12.10.2025 09:20:41
+		Duration:	3.01:34:26
+		Location:	43.40146 6.70883
+
+	CHR1LS1
+		Images:	980
+		Time:	11.10.2025 08:50:44 until 11.10.2025 11:54:06
+		Duration:	03:03:22
+		Location:	43.40146 6.70883
+
+	CHR1LS2
+		Images:	612
+		Time:	11.10.2025 08:55:35 until 11.10.2025 11:57:28
+		Duration:	03:01:53
+		Location:	43.40146 6.70883
+
+(24) - 6 km before La Baronne / Rando Rouge / Rando Bleue
+	ARF1
+		Images:	8552
+		Time:	10.10.2025 07:34:11 until 11.10.2025 17:39:24
+		Duration:	1.10:05:13
+		Location:	43.40133 6.71056
+
+(25) - km 1 Roc Trophy
+	MANR2
+		Images:	1719
+		Time:	11.10.2025 11:07:45 until 11.10.2025 12:42:05
+		Duration:	01:34:20
+		Location:	43.43952 6.62535
+
+	MANR2LS1
+		Images:	396
+		Time:	11.10.2025 07:38:41 until 11.10.2025 10:48:59
+		Duration:	03:10:18
+		Location:	43.43952 6.62535
+
+	MANR2LS2
+		Images:	248
+		Time:	11.10.2025 10:35:55 until 11.10.2025 12:50:03
+		Duration:	02:14:08
+		Location:	43.43952 6.62535
+
+(26) - km 2 Roc Trophy
+	JLTG2
+		Images:	408
+		Time:	11.10.2025 11:22:43 until 12.10.2025 18:24:55
+		Duration:	1.07:02:12
+		Location:	43.44083 6.62789
+
+	JLTG2LS2
+		Images:	258
+		Time:	11.10.2025 10:55:59 until 11.10.2025 12:40:24
+		Duration:	01:44:25
+		Location:	43.44083 6.62789
+
+	JLTG2LS1
+		Images:	253
+		Time:	11.10.2025 11:09:27 until 11.10.2025 12:40:33
+		Duration:	01:31:06
+		Location:	43.44083 6.62789
+
+(27) - 5 km to finish
+	BRN1
+		Images:	5289
+		Time:	11.10.2025 08:28:53 until 11.10.2025 17:59:17
+		Duration:	09:30:24
+		Location:	43.39377 6.72792
+
+	BRN1LS1
+		Images:	4695
+		Time:	11.10.2025 10:20:06 until 11.10.2025 18:02:50
+		Duration:	07:42:44
+		Location:	43.39377 6.72792
+
+(28) - Finish
+	ALL2LS1
+		Images:	3188
+		Time:	11.10.2025 08:21:08 until 11.10.2025 19:01:13
+		Duration:	10:40:05
+		Location:	43.41664 6.73786
+
+	MARY2
+		Images:	4605
+		Time:	11.10.2025 08:36:56 until 11.10.2025 19:00:20
+		Duration:	10:23:24
+		Location:	43.41664 6.73786
+
+	ALL2
+		Images:	6450
+		Time:	11.10.2025 08:32:37 until 11.10.2025 18:59:51
+		Duration:	10:27:14
+		Location:	43.41664 6.73786
+

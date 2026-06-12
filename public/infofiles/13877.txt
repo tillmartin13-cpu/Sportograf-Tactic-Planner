@@ -1,0 +1,86 @@
+EventId: 13877
+Spots: 12
+Total Images: 22939
+Time:	29.03.2025 08:54:40 to 26.04.2025 17:15:12
+Duration: 28.08:20:32
+
+(1) - Start
+	CZE1
+		Images:	168
+		Time:	26.04.2025 09:49:44 until 26.04.2025 11:28:03
+		Duration:	01:38:19
+		Location:	51.32927 8.00570
+
+(2) - 6.0 km
+	DPH1
+		Images:	1381
+		Time:	26.04.2025 09:58:52 until 26.04.2025 11:51:48
+		Duration:	01:52:56
+		Location:	51.29007 7.97162
+
+	KOLSI1
+		Images:	1150
+		Time:	25.04.2025 22:42:34 until 26.04.2025 12:16:42
+		Duration:	13:34:08
+		Location:	51.29007 7.97162
+
+(3) - Impressions / Pano
+	KOLSI1DRONE1
+		Images:	32
+		Time:	29.03.2025 08:54:40 until 29.03.2025 10:01:18
+		Duration:	01:06:38
+		Location:	51.29007 7.97162
+
+	HM1DRONE1
+		Images:	13
+		Time:	26.04.2025 11:06:37 until 26.04.2025 14:15:21
+		Duration:	03:08:44
+		Location:	51.25813 7.97412
+
+(4) - 23.0 km / 43.0 km / 84.0 km
+	MANK1
+		Images:	1171
+		Time:	26.04.2025 10:03:21 until 26.04.2025 16:23:02
+		Duration:	06:19:41
+		Location:	51.25821 7.98274
+
+(5) - 23.5 km / 43.5 km / 84.5 km
+	HM1LS1
+		Images:	953
+		Time:	26.04.2025 10:27:04 until 26.04.2025 16:24:31
+		Duration:	05:57:27
+		Location:	51.29043 7.97167
+
+	HM1LS2
+		Images:	999
+		Time:	26.04.2025 10:05:54 until 26.04.2025 16:24:31
+		Duration:	06:18:37
+		Location:	51.29043 7.97167
+
+	HM1
+		Images:	3510
+		Time:	26.04.2025 10:48:31 until 26.04.2025 16:24:42
+		Duration:	05:36:11
+		Location:	51.25813 7.97412
+
+(6) - 48.0 km / 94.0 km Bergsprint
+	CZE2
+		Images:	918
+		Time:	26.04.2025 12:19:51 until 26.04.2025 16:37:00
+		Duration:	04:17:09
+		Location:	51.25863 7.95549
+
+(7) - 0.1 km vor dem Ziel
+	DPH2
+		Images:	3061
+		Time:	26.04.2025 12:22:05 until 26.04.2025 16:56:35
+		Duration:	04:34:30
+		Location:	51.26174 7.95428
+
+(8) - Finish
+	KOLSI2
+		Images:	9583
+		Time:	26.04.2025 10:25:54 until 26.04.2025 17:15:12
+		Duration:	06:49:18
+		Location:	51.26173 7.95264
+

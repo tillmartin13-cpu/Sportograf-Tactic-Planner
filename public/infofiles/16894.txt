@@ -1,0 +1,62 @@
+EventId: 16894
+Spots: 9
+Total Images: 36923
+Time:	10.05.2025 06:23:27 to 11.05.2025 16:45:19
+Duration: 1.10:21:52
+
+(1) - Start
+	DANO1
+		Images:	4253
+		Time:	10.05.2025 10:33:39 until 11.05.2025 10:04:08
+		Duration:	23:30:29
+		Location:	52.94881 1.13835
+
+(2) - Beeston Hill - 4.4Km
+	OH1
+		Images:	5190
+		Time:	11.05.2025 08:31:22 until 11.05.2025 11:15:21
+		Duration:	02:43:59
+		Location:	52.94327 1.22593
+
+(3) - Weybourne Cliffs - 10.2Km
+	LOT1
+		Images:	3971
+		Time:	10.05.2025 08:32:27 until 11.05.2025 12:51:51
+		Duration:	1.04:19:24
+		Location:	52.94881 1.14093
+
+	OH2
+		Images:	734
+		Time:	11.05.2025 12:03:03 until 11.05.2025 12:48:35
+		Duration:	00:45:32
+		Location:	52.94881 1.14093
+
+(4) - Cley Beach - 16.8Km
+	BKO1
+		Images:	11241
+		Time:	10.05.2025 06:23:27 until 11.05.2025 15:05:58
+		Duration:	1.08:42:31
+		Location:	52.96589 1.04831
+
+(5) - Just Before Finish
+	LOT2
+		Images:	2532
+		Time:	11.05.2025 14:02:34 until 11.05.2025 16:45:19
+		Duration:	02:42:45
+		Location:	52.95776 1.01808
+
+(6) - Finish
+	DANO2
+		Images:	8595
+		Time:	11.05.2025 11:25:31 until 11.05.2025 16:45:03
+		Duration:	05:19:32
+		Location:	52.95220 1.01533
+
+	OH3
+		Images:	407
+		Time:	10.05.2025 18:51:55 until 11.05.2025 15:33:16
+		Duration:	20:41:21
+		Location:	52.95220 1.01533
+
+(7) - Impressions / Pano
+	PANO1

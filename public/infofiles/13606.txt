@@ -1,0 +1,117 @@
+EventId: 13606
+Spots: 17
+Total Images: 43539
+Time:	11.07.2025 18:56:58 to 12.07.2025 16:47:57
+Duration: 21:50:59
+
+(1) - Start
+	MVO1
+		Images:	443
+		Time:	12.07.2025 09:30:35 until 12.07.2025 11:57:25
+		Duration:	02:26:50
+		Location:	48.22348 9.02773
+
+(2) - 2,3 km after start
+	RONS1
+		Images:	1352
+		Time:	12.07.2025 06:07:01 until 12.07.2025 10:38:47
+		Duration:	04:31:46
+		Location:	48.23461 9.03463
+
+	RONS1LS2
+		Images:	766
+		Time:	12.07.2025 06:19:00 until 12.07.2025 10:39:01
+		Duration:	04:20:01
+		Location:	48.23461 9.03463
+
+	RONS1LS1
+		Images:	823
+		Time:	12.07.2025 10:00:51 until 12.07.2025 10:37:39
+		Duration:	00:36:48
+		Location:	48.23461 9.03463
+
+(3) - 2,7 km after start
+	ROB1
+		Images:	2126
+		Time:	12.07.2025 10:06:25 until 12.07.2025 10:39:14
+		Duration:	00:32:49
+		Location:	48.23079 9.03357
+
+	ROB1LS1
+		Images:	95
+		Time:	12.07.2025 09:49:13 until 12.07.2025 10:13:17
+		Duration:	00:24:04
+		Location:	48.23079 9.03357
+
+(4) - 38,9 km after start
+	DAHO1
+		Images:	4816
+		Time:	12.07.2025 09:10:28 until 12.07.2025 13:06:51
+		Duration:	03:56:23
+		Location:	48.28352 8.98380
+
+(5) - 38,3 km after start
+	SBRO1
+		Images:	2518
+		Time:	11.07.2025 18:56:58 until 12.07.2025 13:15:13
+		Duration:	18:18:15
+		Location:	48.28561 8.98416
+
+(6) - 55,2 km after start
+	MSAI1
+		Images:	5693
+		Time:	12.07.2025 09:41:23 until 12.07.2025 14:02:37
+		Duration:	04:21:14
+		Location:	48.27209 8.96259
+
+(7) - 78,9 km after start
+	ROB2
+		Images:	3548
+		Time:	12.07.2025 12:10:08 until 12.07.2025 15:23:08
+		Duration:	03:13:00
+		Location:	48.22186 9.01979
+
+	ROB2LS2
+		Images:	1204
+		Time:	12.07.2025 12:02:11 until 12.07.2025 15:40:47
+		Duration:	03:38:36
+		Location:	48.22186 9.01979
+
+	ROB2LS1
+		Images:	974
+		Time:	12.07.2025 11:55:51 until 12.07.2025 15:05:57
+		Duration:	03:10:06
+		Location:	48.22186 9.01979
+
+(8) - 81,8 km after start
+	RONS2
+		Images:	3555
+		Time:	12.07.2025 12:14:47 until 12.07.2025 16:38:41
+		Duration:	04:23:54
+		Location:	48.22213 9.02827
+
+	RONS2LS2
+		Images:	854
+		Time:	12.07.2025 12:04:50 until 12.07.2025 16:09:45
+		Duration:	04:04:55
+		Location:	48.22213 9.02827
+
+	RONS2LS1
+		Images:	2374
+		Time:	12.07.2025 12:04:02 until 12.07.2025 16:11:13
+		Duration:	04:07:11
+		Location:	48.22213 9.02827
+
+(9) - Finish
+	MVO2LS1
+		Images:	4983
+		Time:	12.07.2025 12:10:51 until 12.07.2025 16:47:57
+		Duration:	04:37:06
+		Location:	48.22441 9.02755
+
+	MVO2
+		Images:	7415
+		Time:	12.07.2025 11:57:02 until 12.07.2025 16:47:31
+		Duration:	04:50:29
+		Location:	48.22441 9.02755
+

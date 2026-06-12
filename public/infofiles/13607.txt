@@ -1,0 +1,206 @@
+EventId: 13607
+Spots: 32
+Total Images: 45288
+Time:	21.06.2025 19:15:41 to 22.06.2025 17:57:00
+Duration: 22:41:19
+
+(1) - Start
+	ROC1
+		Images:	1061
+		Time:	22.06.2025 08:09:06 until 22.06.2025 10:20:50
+		Duration:	02:11:44
+		Location:	50.42682 6.02675
+
+(2) - 0.9 km
+	THL1
+		Images:	2889
+		Time:	21.06.2025 19:15:41 until 22.06.2025 10:26:55
+		Duration:	15:11:14
+		Location:	50.43064 6.01492
+
+	THL1DRONE1
+		Images:	19
+		Time:	22.06.2025 08:07:39 until 22.06.2025 15:29:49
+		Duration:	07:22:10
+		Location:	50.43064 6.01492
+
+	THL1LS1
+		Images:	2426
+		Time:	22.06.2025 08:35:03 until 22.06.2025 10:38:25
+		Duration:	02:03:22
+		Location:	50.43064 6.01492
+
+	THL1LS2
+		Images:	1696
+		Time:	21.06.2025 19:19:00 until 22.06.2025 10:34:03
+		Duration:	15:15:03
+		Location:	50.43064 6.01492
+
+(3) - 2.0 km
+	HM1
+		Images:	2583
+		Time:	22.06.2025 08:35:10 until 22.06.2025 10:34:57
+		Duration:	01:59:47
+		Location:	50.43110 6.00939
+
+	HM1LS1
+		Images:	71
+		Time:	22.06.2025 08:09:25 until 22.06.2025 10:46:13
+		Duration:	02:36:48
+		Location:	50.43110 6.00939
+
+	HM1LS2
+		Images:	990
+		Time:	22.06.2025 08:17:47 until 22.06.2025 10:35:47
+		Duration:	02:18:00
+		Location:	50.43110 6.00939
+
+(4) - 12.0 km
+	JKE1
+		Images:	2654
+		Time:	21.06.2025 20:14:06 until 22.06.2025 13:06:07
+		Duration:	16:52:01
+		Location:	50.44941 6.04071
+
+	JKE1LS1
+		Images:	1503
+		Time:	22.06.2025 08:18:17 until 22.06.2025 12:45:47
+		Duration:	04:27:30
+		Location:	50.44941 6.04071
+
+	JKE1LS2
+		Images:	981
+		Time:	22.06.2025 09:12:35 until 22.06.2025 12:32:52
+		Duration:	03:20:17
+		Location:	50.44941 6.04071
+
+(5) - 20.0 km
+	BAB1
+		Images:	3303
+		Time:	22.06.2025 09:45:25 until 22.06.2025 12:19:26
+		Duration:	02:34:01
+		Location:	50.47241 6.04182
+
+	BAB1LS1
+		Images:	1818
+		Time:	22.06.2025 09:44:00 until 22.06.2025 12:14:02
+		Duration:	02:30:02
+		Location:	50.47241 6.04182
+
+	BAB1LS2
+		Images:	1579
+		Time:	22.06.2025 09:03:25 until 22.06.2025 12:06:09
+		Duration:	03:02:44
+		Location:	50.47241 6.04182
+
+(6) - 35.0 km /65, 85/115
+	HM2
+		Images:	1694
+		Time:	22.06.2025 11:42:48 until 22.06.2025 13:47:26
+		Duration:	02:04:38
+		Location:	50.46709 6.09157
+
+	HM2LS2
+		Images:	1354
+		Time:	22.06.2025 11:37:47 until 22.06.2025 13:50:37
+		Duration:	02:12:50
+		Location:	50.46709 6.09157
+
+	HM2LS1
+		Images:	1345
+		Time:	22.06.2025 11:26:58 until 22.06.2025 13:50:17
+		Duration:	02:23:19
+		Location:	50.46709 6.09157
+
+(7) - 49.0 km /85&115
+	THL2
+		Images:	1965
+		Time:	22.06.2025 11:44:03 until 22.06.2025 15:07:45
+		Duration:	03:23:42
+		Location:	50.46937 6.09314
+
+	THL2LS2
+		Images:	498
+		Time:	22.06.2025 11:37:16 until 22.06.2025 13:27:01
+		Duration:	01:49:45
+		Location:	50.46937 6.09314
+
+	THL2LS1
+		Images:	602
+		Time:	22.06.2025 11:36:53 until 22.06.2025 13:29:05
+		Duration:	01:52:12
+		Location:	50.46937 6.09314
+
+(8) - 6.0 km before finish
+	JKE2
+		Images:	1391
+		Time:	22.06.2025 13:09:23 until 22.06.2025 17:42:19
+		Duration:	04:32:56
+		Location:	50.45115 6.03953
+
+	JKE2LS2
+		Images:	418
+		Time:	22.06.2025 12:54:32 until 22.06.2025 17:46:58
+		Duration:	04:52:26
+		Location:	50.45115 6.03953
+
+	JKE2LS1
+		Images:	1588
+		Time:	22.06.2025 12:48:44 until 22.06.2025 17:16:31
+		Duration:	04:27:47
+		Location:	50.45115 6.03953
+
+(9) - 5.0 km before finish
+	BAB2
+		Images:	1621
+		Time:	22.06.2025 13:11:52 until 22.06.2025 17:33:04
+		Duration:	04:21:12
+		Location:	50.44517 6.04509
+
+	BAB2LS1
+		Images:	882
+		Time:	22.06.2025 13:24:52 until 22.06.2025 17:32:57
+		Duration:	04:08:05
+		Location:	50.44517 6.04509
+
+	BAB2LS2
+		Images:	1009
+		Time:	22.06.2025 13:45:19 until 22.06.2025 17:07:59
+		Duration:	03:22:40
+		Location:	50.44517 6.04509
+
+(10) - 1.5 km before finish
+	HM3
+		Images:	291
+		Time:	22.06.2025 15:19:14 until 22.06.2025 17:06:33
+		Duration:	01:47:19
+		Location:	50.42718 6.03238
+
+	HM3LS1
+		Images:	391
+		Time:	22.06.2025 14:59:42 until 22.06.2025 17:18:26
+		Duration:	02:18:44
+		Location:	50.42718 6.03238
+
+(11) - 1.0 km before finish
+	THL3
+		Images:	1366
+		Time:	22.06.2025 15:03:22 until 22.06.2025 17:54:07
+		Duration:	02:50:45
+		Location:	50.42752 6.03356
+
+	THL3LS1
+		Images:	377
+		Time:	22.06.2025 14:54:52 until 22.06.2025 17:40:15
+		Duration:	02:45:23
+		Location:	50.42752 6.03356
+
+(12) - Finish
+	ROC2
+		Images:	4923
+		Time:	22.06.2025 10:23:04 until 22.06.2025 17:57:00
+		Duration:	07:33:56
+		Location:	50.42662 6.02485
+
+(13) - Impressions / Pano
+	PANO1

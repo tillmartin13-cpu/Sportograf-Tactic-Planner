@@ -1,0 +1,299 @@
+EventId: 13827
+Spots: 47
+Total Images: 179249
+Time:	28.11.2025 17:00:10 to 29.11.2025 09:59:00
+Duration: 16:58:50
+
+(1) - 1.5 km Roxas Blvd. (Rajah Sulayman Park)
+	BJJL2
+		Images:	10825
+		Time:	28.11.2025 22:32:40 until 29.11.2025 05:30:35
+		Duration:	06:57:55
+		Location:	14.56934 120.98278
+
+	BJJL3
+		Images:	250
+		Time:	28.11.2025 22:02:18 until 29.11.2025 05:32:49
+		Duration:	07:30:31
+		Location:	14.56881 120.98292
+
+	BKEVC2
+		Images:	4984
+		Time:	28.11.2025 22:33:51 until 29.11.2025 06:03:34
+		Duration:	07:29:43
+		Location:	14.56888 120.98303
+
+(2) - 2,0 km Roxas Blvd. cor Quirino Ave.
+	ABXC1
+		Images:	32513
+		Time:	28.11.2025 23:08:47 until 29.11.2025 05:55:05
+		Duration:	06:46:18
+		Location:	14.56470 120.98467
+
+	ADLO1
+		Images:	15407
+		Time:	28.11.2025 22:25:36 until 29.11.2025 06:00:07
+		Duration:	07:34:31
+		Location:	14.56518 120.98460
+
+(3) - 42,0 km Rizal Monument
+	APCT3
+		Images:	6738
+		Time:	28.11.2025 23:14:19 until 29.11.2025 06:10:54
+		Duration:	06:56:35
+		Location:	14.58168 120.97631
+
+(4) - 42,0 km Turnaround at KM0
+	AOCH5
+		Images:	2994
+		Time:	29.11.2025 01:59:32 until 29.11.2025 03:05:25
+		Duration:	01:05:53
+		Location:	14.58104 120.97672
+
+	APCT4
+		Images:	224
+		Time:	29.11.2025 00:42:29 until 29.11.2025 00:48:29
+		Duration:	00:06:00
+		Location:	14.58104 120.97672
+
+(5) - 5,0 km Kalaw Ave. cor Ma. Orosa St.
+	AOCH3
+		Images:	315
+		Time:	28.11.2025 23:48:11 until 29.11.2025 01:52:30
+		Duration:	02:04:19
+		Location:	14.58335 120.98051
+
+(6) - 5.0 km Kalaw Ave. cor Ma. Orosa St.
+	BEMC2
+		Images:	460
+		Time:	28.11.2025 20:58:53 until 29.11.2025 05:08:51
+		Duration:	08:09:58
+		Location:	14.58317 120.98062
+
+	BEMC4
+		Images:	3670
+		Time:	28.11.2025 21:09:25 until 29.11.2025 04:58:02
+		Duration:	07:48:37
+		Location:	14.58317 120.98062
+
+	BJOC1
+		Images:	501
+		Time:	28.11.2025 21:53:26 until 29.11.2025 04:52:55
+		Duration:	06:59:29
+		Location:	14.58317 120.98062
+
+	BJOC2
+		Images:	3247
+		Time:	28.11.2025 21:43:59 until 29.11.2025 04:06:03
+		Duration:	06:22:04
+		Location:	14.58317 120.98062
+
+(7) - 6,0 km National Museum of Fine Arts
+	ARDI2
+		Images:	2662
+		Time:	28.11.2025 22:52:25 until 29.11.2025 05:51:54
+		Duration:	06:59:29
+		Location:	14.58686 120.98054
+
+	ARDI2LS1
+		Images:	5147
+		Time:	28.11.2025 23:24:52 until 29.11.2025 05:12:38
+		Duration:	05:47:46
+		Location:	14.58686 120.98054
+
+(8) - 6.4 km Kartilya ng Katipunan
+	BGBA1
+		Images:	9581
+		Time:	28.11.2025 17:36:19 until 29.11.2025 05:43:08
+		Duration:	12:06:49
+		Location:	14.59096 120.98063
+
+(9) - 75,0 km Jones Bridge & Chinatown Arch
+	ARPB2
+		Images:	4291
+		Time:	28.11.2025 23:27:39 until 29.11.2025 05:30:32
+		Duration:	06:02:53
+		Location:	14.59638 120.97686
+
+(10) - 8,0 km Binondo
+	ACAA2
+		Images:	5152
+		Time:	28.11.2025 21:26:03 until 29.11.2025 05:29:18
+		Duration:	08:03:15
+		Location:	14.59871 120.97547
+
+(11) - 9,0 km Intramuros (Muralla St.)
+	AMLFR2
+		Images:	2839
+		Time:	28.11.2025 22:31:43 until 29.11.2025 05:54:14
+		Duration:	07:22:31
+		Location:	14.59041 120.97884
+
+(12) - 93,0 km Intramuros (Real St.)
+	ACHTE2
+		Images:	7199
+		Time:	28.11.2025 18:50:12 until 29.11.2025 02:48:34
+		Duration:	07:58:22
+		Location:	14.58945 120.97485
+
+	AJCUA2
+		Images:	5914
+		Time:	28.11.2025 23:42:50 until 29.11.2025 05:48:11
+		Duration:	06:05:21
+		Location:	14.58945 120.97485
+
+(13) - 95,0 km Intramuros (Roundtable)
+	AJMAO2
+		Images:	7504
+		Time:	28.11.2025 17:00:10 until 29.11.2025 06:25:53
+		Duration:	13:25:43
+		Location:	14.58627 120.97790
+
+(14) - Finish
+	ADCL3
+		Images:	9633
+		Time:	29.11.2025 01:50:22 until 29.11.2025 06:26:45
+		Duration:	04:36:23
+		Location:	14.58225 120.97438
+
+	ADCL3LS1
+		Images:	10405
+		Time:	29.11.2025 01:43:53 until 29.11.2025 09:59:00
+		Duration:	08:15:07
+		Location:	14.58225 120.97438
+
+	AIMH3
+		Images:	13593
+		Time:	28.11.2025 23:27:48 until 29.11.2025 06:32:22
+		Duration:	07:04:34
+		Location:	14.58225 120.97438
+
+	AIMH3LS1
+		Images:	6144
+		Time:	28.11.2025 23:44:05 until 29.11.2025 06:01:37
+		Duration:	06:17:32
+		Location:	14.58225 120.97438
+
+	AOCH4
+		Images:	2041
+		Time:	29.11.2025 05:09:53 until 29.11.2025 06:30:32
+		Duration:	01:20:39
+		Location:	14.58225 120.97438
+
+(15) - Impressions / Pano
+	ACAA1
+		Images:	25
+		Time:	28.11.2025 20:03:09 until 28.11.2025 23:21:10
+		Duration:	03:18:01
+		Location:	14.59871 120.97547
+
+	ACHTE1
+		Images:	6
+		Time:	28.11.2025 20:21:54 until 28.11.2025 23:14:35
+		Duration:	02:52:41
+		Location:	14.58945 120.97485
+
+	ADCL1
+		Images:	60
+		Time:	28.11.2025 21:38:20 until 29.11.2025 01:22:29
+		Duration:	03:44:09
+		Location:	14.58225 120.97438
+
+	AIMH1
+		Images:	28
+		Time:	28.11.2025 21:39:26 until 29.11.2025 00:30:41
+		Duration:	02:51:15
+		Location:	14.58168 120.97631
+
+	AJCUA1
+		Images:	6
+		Time:	28.11.2025 23:07:16 until 28.11.2025 23:08:26
+		Duration:	00:01:10
+		Location:	14.58945 120.97485
+
+	AJMAO1
+		Images:	3
+		Time:	28.11.2025 21:20:04 until 28.11.2025 21:21:10
+		Duration:	00:01:06
+		Location:	14.58627 120.97790
+
+	AMLFR1
+		Images:	38
+		Time:	28.11.2025 20:17:36 until 29.11.2025 05:52:13
+		Duration:	09:34:37
+		Location:	14.59041 120.97884
+
+	AOCH1
+		Images:	53
+		Time:	29.11.2025 01:13:41 until 29.11.2025 01:28:47
+		Duration:	00:15:06
+		Location:	14.58168 120.97631
+
+	APCT1
+		Images:	4
+		Time:	29.11.2025 01:28:28 until 29.11.2025 01:28:47
+		Duration:	00:00:19
+		Location:	14.58168 120.97631
+
+	ARDI1
+		Images:	3
+		Time:	28.11.2025 21:48:02 until 28.11.2025 21:52:36
+		Duration:	00:04:34
+		Location:	14.58686 120.98054
+
+	ARPB1
+		Images:	38
+		Time:	28.11.2025 22:03:38 until 28.11.2025 23:27:24
+		Duration:	01:23:46
+		Location:	14.59689 120.97675
+
+	BEMC1
+		Images:	42
+		Time:	28.11.2025 20:58:53 until 29.11.2025 05:08:51
+		Duration:	08:09:58
+		Location:	14.58317 120.98062
+
+	BEMC3
+		Images:	5
+		Time:	28.11.2025 21:09:25 until 28.11.2025 21:10:05
+		Duration:	00:00:40
+		Location:	14.58317 120.98062
+
+	BJJL1
+		Images:	29
+		Time:	28.11.2025 22:02:18 until 28.11.2025 23:05:45
+		Duration:	01:03:27
+		Location:	14.56934 120.98278
+
+	BKEVC1
+		Images:	23
+		Time:	28.11.2025 22:33:51 until 28.11.2025 23:06:16
+		Duration:	00:32:25
+		Location:	14.56888 120.98303
+
+	PANO1
+(16) - Start
+	ADCL2
+		Images:	281
+		Time:	28.11.2025 21:42:32 until 28.11.2025 23:19:10
+		Duration:	01:36:38
+		Location:	14.58104 120.97672
+
+	AIMH2
+		Images:	112
+		Time:	28.11.2025 22:40:18 until 29.11.2025 01:03:19
+		Duration:	02:23:01
+		Location:	14.58104 120.97672
+
+	AOCH2
+		Images:	2428
+		Time:	28.11.2025 21:03:57 until 29.11.2025 05:06:26
+		Duration:	08:02:29
+		Location:	14.58104 120.97672
+
+	APCT2
+		Images:	1832
+		Time:	28.11.2025 22:08:47 until 29.11.2025 05:04:51
+		Duration:	06:56:04
+		Location:	14.58104 120.97672
+

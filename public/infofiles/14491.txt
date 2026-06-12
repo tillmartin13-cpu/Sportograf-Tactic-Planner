@@ -1,0 +1,98 @@
+EventId: 14491
+Spots: 14
+Total Images: 32378
+Time:	26.01.2025 06:31:10 to 26.01.2025 12:41:22
+Duration: 06:10:12
+
+(1) - Obstacle 1 Barber wire
+	EB1
+		Images:	4643
+		Time:	26.01.2025 07:49:18 until 26.01.2025 11:01:49
+		Duration:	03:12:31
+		Location:	45.46618 6.44686
+
+	EB1LS1
+		Images:	1460
+		Time:	26.01.2025 08:15:21 until 26.01.2025 10:19:57
+		Duration:	02:04:36
+		Location:	45.46618 6.44686
+
+(2) - Obstacle 5 Log Carry
+	ALL1
+		Images:	3254
+		Time:	26.01.2025 07:58:59 until 26.01.2025 10:43:33
+		Duration:	02:44:34
+		Location:	45.46649 6.45238
+
+	ALL1LS1
+		Images:	1412
+		Time:	26.01.2025 07:33:23 until 26.01.2025 10:45:43
+		Duration:	03:12:20
+		Location:	45.46649 6.45238
+
+(3) - Obstacle 9 Stairway
+	FEZ1LS1
+		Images:	2315
+		Time:	26.01.2025 07:28:02 until 26.01.2025 11:50:19
+		Duration:	04:22:17
+		Location:	45.45989 6.44658
+
+	FEZ1
+		Images:	2736
+		Time:	26.01.2025 06:31:10 until 26.01.2025 11:31:04
+		Duration:	04:59:54
+		Location:	45.45989 6.44658
+
+(4) - Obstacle 18 Net Climb
+	ELLA1
+		Images:	6066
+		Time:	26.01.2025 08:04:44 until 26.01.2025 12:33:14
+		Duration:	04:28:30
+		Location:	45.46027 6.44254
+
+	FRN1
+		Images:	615
+		Time:	26.01.2025 08:32:21 until 26.01.2025 10:50:13
+		Duration:	02:17:52
+		Location:	45.46027 6.44254
+
+(5) - Obstacle 19 Multi Rig
+	CAIS1
+		Images:	2891
+		Time:	26.01.2025 09:01:05 until 26.01.2025 12:35:49
+		Duration:	03:34:44
+		Location:	45.46094 6.44224
+
+(6) - Finish
+	AGU1
+		Images:	2810
+		Time:	26.01.2025 08:47:42 until 26.01.2025 12:38:41
+		Duration:	03:50:59
+		Location:	45.46094 6.44224
+
+	AGU1LS2
+		Images:	675
+		Time:	26.01.2025 08:36:03 until 26.01.2025 12:41:22
+		Duration:	04:05:19
+		Location:	45.46094 6.44224
+
+	AGU1LS1
+		Images:	664
+		Time:	26.01.2025 08:33:59 until 26.01.2025 12:39:03
+		Duration:	04:05:04
+		Location:	45.46094 6.44224
+
+(7) - Impressions / Pano
+	FRN1DRONE1
+		Images:	53
+		Time:	26.01.2025 10:29:33 until 26.01.2025 10:44:54
+		Duration:	00:15:21
+		Location:	45.46094 6.44224
+
+(8) - Herotent
+	DART1
+		Images:	2784
+		Time:	26.01.2025 08:24:43 until 26.01.2025 12:40:44
+		Duration:	04:16:01
+		Location:	45.46094 6.44224
+

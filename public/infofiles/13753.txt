@@ -1,0 +1,298 @@
+EventId: 13753
+Spots: 45
+Total Images: 376690
+Time:	25.04.2024 15:41:45 to 27.04.2025 18:04:28
+Duration: 367.02:22:43
+
+(1) - Start
+	STL1
+		Images:	5112
+		Time:	26.04.2025 06:30:37 until 26.04.2025 09:11:16
+		Duration:	02:40:39
+		Location:	50.85763 5.80515
+
+	VL1
+		Images:	3747
+		Time:	26.04.2025 06:22:59 until 26.04.2025 09:33:28
+		Duration:	03:10:29
+		Location:	50.85763 5.80515
+
+	VL1LS1
+		Images:	3918
+		Time:	26.04.2025 07:50:24 until 26.04.2025 09:29:57
+		Duration:	01:39:33
+		Location:	50.85763 5.80515
+
+	KFK1
+		Images:	1029
+		Time:	26.04.2025 09:35:12 until 26.04.2025 10:27:15
+		Duration:	00:52:03
+		Location:	50.85763 5.80515
+
+	KFK1LS1
+		Images:	811
+		Time:	26.04.2025 09:15:00 until 26.04.2025 10:22:48
+		Duration:	01:07:48
+		Location:	50.85763 5.80515
+
+(2) - 51km (only 163km & 253km)
+	NKO1
+		Images:	6727
+		Time:	26.04.2025 07:36:15 until 26.04.2025 10:11:48
+		Duration:	02:35:33
+		Location:	50.53555 5.70643
+
+	OP1
+		Images:	6130
+		Time:	25.04.2025 12:05:53 until 26.04.2025 10:18:26
+		Duration:	22:12:33
+		Location:	50.28762 5.48649
+
+	OP1LS1
+		Images:	3366
+		Time:	26.04.2025 07:38:41 until 26.04.2025 10:10:58
+		Duration:	02:32:17
+		Location:	50.28762 5.48649
+
+(3) - 52km (only 163km & 253km)
+	DRI1
+		Images:	15435
+		Time:	26.04.2025 08:00:40 until 26.04.2025 11:45:28
+		Duration:	03:44:48
+		Location:	50.28791 5.49580
+
+	DRI1LS2
+		Images:	4354
+		Time:	26.04.2025 06:46:32 until 26.04.2025 12:17:23
+		Duration:	05:30:51
+		Location:	50.28791 5.49580
+
+	DRI1LS1
+		Images:	6518
+		Time:	27.04.2025 07:45:32 until 27.04.2025 12:15:08
+		Duration:	04:29:36
+		Location:	50.28791 5.49580
+
+(4) - 15km (only 80km)
+	ROSO1
+		Images:	27105
+		Time:	25.04.2025 15:38:43 until 26.04.2025 18:35:59
+		Duration:	1.02:57:16
+		Location:	50.47286 5.63040
+
+	ROSO1LS1
+		Images:	2358
+		Time:	25.04.2024 15:41:45 until 26.04.2024 10:16:56
+		Duration:	18:35:11
+		Location:	50.47286 5.63040
+
+(5) - 16km (only 80km)
+	NKR3
+		Images:	1500
+		Time:	26.04.2025 06:17:19 until 26.04.2025 10:33:20
+		Duration:	04:16:01
+		Location:	50.47377 5.62990
+
+(6) - 17km (only 80km)
+	BENP1
+		Images:	1044
+		Time:	26.04.2025 08:07:45 until 26.04.2025 10:24:03
+		Duration:	02:16:18
+		Location:	50.47599 5.63502
+
+(7) - 24/99/199 - Côte de Niaster
+	ANR1
+		Images:	18297
+		Time:	26.04.2025 08:55:33 until 26.04.2025 17:50:38
+		Duration:	08:55:05
+		Location:	50.45956 5.67467
+
+(8) - 24,5/100/200 - Côte de Niaster
+	JTA1
+		Images:	6942
+		Time:	26.04.2025 08:34:57 until 26.04.2025 17:49:58
+		Duration:	09:15:01
+		Location:	50.45510 5.6768
+
+(9) - 25/100/200 - Côte de Niaster
+	MIJA1
+		Images:	26298
+		Time:	26.04.2025 08:31:48 until 26.04.2025 17:57:43
+		Duration:	09:25:55
+		Location:	50.45268 5.67916
+
+(10) - 26/101/201 - Côte de Niaster
+	STL2
+		Images:	10946
+		Time:	26.04.2025 10:33:29 until 26.04.2025 14:56:53
+		Duration:	04:23:24
+		Location:	50.45366 5.68530
+
+	STL2LS1
+		Images:	4728
+		Time:	26.04.2025 10:21:34 until 26.04.2025 14:58:00
+		Duration:	04:36:26
+		Location:	50.45366 5.68530
+
+(11) - 27/102/202 - Côte de Niaster
+	VL2
+		Images:	6929
+		Time:	26.04.2025 12:19:41 until 26.04.2025 15:23:53
+		Duration:	03:04:12
+		Location:	50.45551 5.6937
+
+	VL2LS1
+		Images:	7273
+		Time:	26.04.2025 12:07:04 until 26.04.2025 15:24:40
+		Duration:	03:17:36
+		Location:	50.45551 5.6937
+
+(12) - Impression
+	VL2DRONE1
+		Images:	31
+		Time:	26.04.2025 13:45:31 until 26.04.2025 18:13:30
+		Duration:	04:27:59
+		Location:	50.45551 5.6937
+
+	KFK2DRONE1
+		Images:	19
+		Time:	26.04.2025 16:35:02 until 26.04.2025 16:41:45
+		Duration:	00:06:43
+		Location:	50.53963 5.74541
+
+(13) - 39.5/105/213 - Côte de la Redout
+	GUS1
+		Images:	13721
+		Time:	26.04.2025 10:19:52 until 26.04.2025 17:59:46
+		Duration:	07:39:54
+		Location:	50.49125 5.69938
+
+(14) - 40/105/213 - Côte de la Redout
+	SSW1
+		Images:	17539
+		Time:	24.04.2025 20:33:10 until 26.04.2025 18:10:44
+		Duration:	1.21:37:34
+		Location:	50.49192 5.69863
+
+	SSW1LS1
+		Images:	20788
+		Time:	25.04.2025 14:01:14 until 26.04.2025 18:26:46
+		Duration:	1.04:25:32
+		Location:	50.49192 5.69863
+
+	SSW1LS2
+		Images:	17055
+		Time:	26.04.2025 10:07:27 until 26.04.2025 18:23:54
+		Duration:	08:16:27
+		Location:	50.49192 5.69863
+
+(15) - 40.5/105/213  - Côte de la Redout
+	PMC1
+		Images:	12133
+		Time:	26.04.2025 09:59:44 until 26.04.2025 18:26:59
+		Duration:	08:27:15
+		Location:	50.49362 5.70110
+
+(16) - 54/129/229 - Côte de la Roche-aux-Faucon
+	ROSO2
+		Images:	3382
+		Time:	25.04.2025 15:38:43 until 26.04.2025 10:14:07
+		Duration:	18:35:24
+		Location:	50.55051 5.57286
+
+	ROSO2LS1
+		Images:	14551
+		Time:	26.04.2024 11:41:37 until 26.04.2024 18:21:09
+		Duration:	06:39:32
+		Location:	50.55051 5.57286
+
+(17) - 55/130/230 - Côte de la Roche-aux-Faucon
+	NKR2
+		Images:	8263
+		Time:	26.04.2025 11:21:52 until 26.04.2025 18:42:14
+		Duration:	07:20:22
+		Location:	50.55361 5.55856
+
+(18) - 56/131/231 - Côte de la Roche-aux-Faucon
+	BENP2
+		Images:	5698
+		Time:	26.04.2025 11:16:01 until 26.04.2025 18:36:15
+		Duration:	07:20:14
+		Location:	50.55281 5.56677
+
+(19) - 75/141/249 - À la Basse Goblet
+	NKO2
+		Images:	5325
+		Time:	26.04.2025 11:33:03 until 26.04.2025 18:24:11
+		Duration:	06:51:08
+		Location:	50.53533 5.70923
+
+(20) - 77/143/251 - À la Basse Goblet
+	OP2
+		Images:	7028
+		Time:	26.04.2025 11:35:13 until 26.04.2025 18:01:41
+		Duration:	06:26:28
+		Location:	50.53200 5.70393
+
+	OP2LS1
+		Images:	8518
+		Time:	26.04.2025 10:12:01 until 26.04.2025 18:06:47
+		Duration:	07:54:46
+		Location:	50.53200 5.70393
+
+	DRI3
+		Images:	10163
+		Time:	26.04.2025 12:26:02 until 26.04.2025 16:27:38
+		Duration:	04:01:36
+		Location:	50.53200 5.70393
+
+	DRI3LS2
+		Images:	3334
+		Time:	27.04.2025 16:16:17 until 27.04.2025 18:04:28
+		Duration:	01:48:11
+		Location:	50.53200 5.70393
+
+	DRI3LS1
+		Images:	4155
+		Time:	26.04.2025 15:58:28 until 26.04.2025 18:05:35
+		Duration:	02:07:07
+		Location:	50.53200 5.70393
+
+(21) - 78/148/248 - À la Basse Goblet
+	DRI2
+		Images:	6154
+		Time:	26.04.2025 16:28:00 until 26.04.2025 17:58:23
+		Duration:	01:30:23
+		Location:	50.54344 5.68216
+
+	DRI2LS2
+		Images:	4170
+		Time:	26.04.2025 12:18:12 until 26.04.2025 14:51:36
+		Duration:	02:33:24
+		Location:	50.54344 5.68216
+
+	DRI2LS1
+		Images:	22936
+		Time:	27.04.2025 12:18:07 until 27.04.2025 18:04:28
+		Duration:	05:46:21
+		Location:	50.54344 5.68216
+
+(22) - Finish
+	KFK2
+		Images:	13650
+		Time:	26.04.2025 11:15:37 until 26.04.2025 18:04:46
+		Duration:	06:49:09
+		Location:	50.53963 5.74541
+
+	KFK2LS1
+		Images:	2555
+		Time:	26.04.2025 18:05:30 until 26.04.2025 19:06:48
+		Duration:	01:01:18
+		Location:	50.85763 5.80515
+
+	STL3
+		Images:	4955
+		Time:	26.04.2025 16:27:56 until 26.04.2025 20:07:39
+		Duration:	03:39:43
+		Location:	50.85763 5.80515
+

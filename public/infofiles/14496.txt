@@ -1,0 +1,47 @@
+EventId: 14496
+Spots: 6
+Total Images: 3181
+Time:	01.01.0001 23:00:00 to 08.05.2025 20:49:50
+Duration: 739377.21:49:50
+
+(1) - Km- 6,8
+	MANR1
+		Images:	1233
+		Time:	08.05.2025 17:08:44 until 08.05.2025 20:42:29
+		Duration:	03:33:45
+		Location:	28.69102 -17.92597
+
+(2) - Km - 7
+	MANR1LS2
+		Images:	219
+		Time:	08.05.2025 18:13:37 until 08.05.2025 20:46:55
+		Duration:	02:33:18
+		Location:	28.69131 -17.92602
+
+(3) - Km - 7,1
+	MANR1LS1
+		Images:	244
+		Time:	08.05.2025 17:50:36 until 08.05.2025 20:46:20
+		Duration:	02:55:44
+		Location:	28.69131 -17.92602
+
+(4) - Finish
+	JLTG1
+		Images:	1126
+		Time:	08.05.2025 17:59:18 until 08.05.2025 20:49:50
+		Duration:	02:50:32
+		Location:	28.69299 -17.92401
+
+	JLTG1LS1
+		Images:	355
+		Time:	08.05.2025 17:41:05 until 08.05.2025 20:47:53
+		Duration:	03:06:48
+		Location:	28.69299 -17.92401
+
+(5) - Impressions / Pano
+	PANO1
+		Images:	4
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	28.69131 -17.92602
+

@@ -1,0 +1,123 @@
+EventId: 13875
+Spots: 19
+Total Images: 93389
+Time:	22.07.2025 18:21:20 to 22.07.2026 20:38:35
+Duration: 365.02:17:15
+
+(1) - St Paul's - Km 1.3
+	SALA1
+		Images:	5419
+		Time:	22.07.2025 18:58:49 until 22.07.2025 19:55:47
+		Duration:	00:56:58
+		Location:	51.51454 -0.09644
+
+	SALA1LS1
+		Images:	806
+		Time:	22.07.2025 19:04:30 until 22.07.2025 19:50:59
+		Duration:	00:46:29
+		Location:	51.51454 -0.09644
+
+	CMS1
+		Images:	3622
+		Time:	22.07.2025 19:18:35 until 22.07.2025 19:53:12
+		Duration:	00:34:37
+		Location:	51.51454 -0.09644
+
+	CMS1LS1
+		Images:	576
+		Time:	22.07.2025 19:18:44 until 22.07.2025 19:50:48
+		Duration:	00:32:04
+		Location:	51.51454 -0.09644
+
+(2) - London Wall - Km 3.2
+	PAS1
+		Images:	4555
+		Time:	22.07.2025 18:58:19 until 22.07.2025 20:15:50
+		Duration:	01:17:31
+		Location:	51.51667 -0.08519
+
+	PAS1LS1
+		Images:	1361
+		Time:	22.07.2025 18:52:22 until 22.07.2025 20:10:55
+		Duration:	01:18:33
+		Location:	51.51667 -0.08519
+
+	CH1
+		Images:	6234
+		Time:	22.07.2025 18:52:52 until 22.07.2025 20:15:06
+		Duration:	01:22:14
+		Location:	51.51667 -0.08519
+
+	CH1LS1
+		Images:	2956
+		Time:	22.07.2025 18:42:39 until 22.07.2025 20:15:42
+		Duration:	01:33:03
+		Location:	51.51667 -0.08519
+
+(3) - London Wall - Km 4.5
+	DP1
+		Images:	5433
+		Time:	22.07.2025 19:25:28 until 22.07.2025 20:34:38
+		Duration:	01:09:10
+		Location:	51.51759 -0.09061
+
+	MADO1
+		Images:	8134
+		Time:	22.07.2025 19:09:32 until 22.07.2025 20:18:07
+		Duration:	01:08:35
+		Location:	51.51759 -0.09061
+
+(4) - Finsbury Sq - Km 4.9
+	TOMY1
+		Images:	3662
+		Time:	22.07.2025 18:21:20 until 22.07.2025 20:37:36
+		Duration:	02:16:16
+		Location:	51.52166 -0.08703
+
+	RLW1
+		Images:	3927
+		Time:	22.07.2025 18:46:13 until 22.07.2025 20:33:39
+		Duration:	01:47:26
+		Location:	51.52166 -0.08703
+
+(5) - Pre Finish
+	PARO1
+		Images:	14119
+		Time:	22.07.2025 19:29:35 until 22.07.2025 20:33:23
+		Duration:	01:03:48
+		Location:	51.52252 -0.08712
+
+	QVT1
+		Images:	19986
+		Time:	22.07.2025 19:21:35 until 22.07.2025 20:33:01
+		Duration:	01:11:26
+		Location:	51.52252 -0.08712
+
+(6) - Finish
+	PARO2LS2
+		Images:	2581
+		Time:	22.07.2025 19:27:05 until 22.07.2025 20:33:54
+		Duration:	01:06:49
+		Location:	51.5226 -0.08714
+
+	PARO2LS1
+		Images:	2472
+		Time:	22.07.2025 19:31:30 until 22.07.2025 20:36:29
+		Duration:	01:04:59
+		Location:	51.5226 -0.08714
+
+(7) - Medals
+	CNS1
+		Images:	2367
+		Time:	22.07.2026 18:34:59 until 22.07.2026 20:38:35
+		Duration:	02:03:36
+		Location:	51.52282 -0.08834
+
+	WIN1
+		Images:	5179
+		Time:	22.07.2025 18:33:09 until 22.07.2025 20:37:41
+		Duration:	02:04:32
+		Location:	51.52282 -0.08834
+
+(8) - Impressions / Pano
+	PANO1

@@ -1,0 +1,119 @@
+EventId: 14323
+Spots: 17
+Total Images: 78694
+Time:	08.11.2025 06:44:21 to 09.11.2025 14:55:38
+Duration: 1.08:11:17
+
+(1) - Obstacle 1 Over Walls (4'Wall)
+	DDC1
+		Images:	3485
+		Time:	08.11.2025 06:47:09 until 09.11.2025 12:44:09
+		Duration:	1.05:57:00
+		Location:	35.35536 -120.55443
+
+	DDS1
+		Images:	3393
+		Time:	08.11.2025 07:11:45 until 09.11.2025 12:44:10
+		Duration:	1.05:32:25
+		Location:	35.35536 -120.55443
+
+(2) - Obstacle 3 Sandbag Carry
+	AHB1
+		Images:	9151
+		Time:	08.11.2025 07:07:49 until 09.11.2025 13:20:02
+		Duration:	1.06:12:13
+		Location:	35.36109 -120.56393
+
+(3) - Obstacle 4 Monkey Bars
+	DVAL1
+		Images:	10790
+		Time:	08.11.2025 06:44:21 until 09.11.2025 13:12:12
+		Duration:	1.06:27:51
+		Location:	35.36144 -120.56574
+
+(4) - Obstacle 6 Chain Carry
+	HJP1
+		Images:	7315
+		Time:	08.11.2025 07:00:52 until 09.11.2025 13:18:54
+		Duration:	1.06:18:02
+		Location:	35.35968 -120.56899
+
+(5) - Obstacle 21 Barbed Wire Crawl
+	DMCI1
+		Images:	11353
+		Time:	09.11.2025 05:48:15 until 09.11.2025 13:50:59
+		Duration:	08:02:44
+		Location:	35.35895 -120.56661
+
+(6) - By Barbed Wire Crawl
+	DMCI1LS1
+		Images:	7351
+		Time:	09.11.2025 07:19:15 until 09.11.2025 13:35:09
+		Duration:	06:15:54
+		Location:	35.35895 -120.56661
+
+(7) - Obstacle 26 Atlas Carry
+	DEST1
+		Images:	5569
+		Time:	09.11.2025 06:35:30 until 09.11.2025 14:37:51
+		Duration:	08:02:21
+		Location:	35.35623 -120.55788
+
+	HOG1
+		Images:	3947
+		Time:	08.11.2025 18:39:46 until 09.11.2025 02:16:21
+		Duration:	07:36:35
+		Location:	35.35623 -120.55788
+
+(8) - Obstacle 28 Multi-Rig
+	AGJ1
+		Images:	1
+		Time:	08.11.2025 06:48:36 until 08.11.2025 06:48:36
+		Duration:	00:00:00
+		Location:	35.35994 -120.56919
+
+	MKI1
+		Images:	3195
+		Time:	09.11.2025 10:38:19 until 09.11.2025 14:49:23
+		Duration:	04:11:04
+		Location:	35.35401 -120.55460
+
+(9) - Obstacle 29 A-Frame Cargo
+	DMI1
+		Images:	6278
+		Time:	09.11.2025 06:24:26 until 09.11.2025 14:52:55
+		Duration:	08:28:29
+		Location:	35.36109 -120.56393
+
+(10) - Herotent
+	TUD1
+		Images:	2753
+		Time:	09.11.2025 05:56:24 until 09.11.2025 14:55:38
+		Duration:	08:59:14
+		Location:	35.35314 -120.55402
+
+(11) - Trail
+	MKI2
+		Images:	2309
+		Time:	09.11.2025 05:53:41 until 09.11.2025 10:31:22
+		Duration:	04:37:41
+		Location:	35.35364 -120.55554
+
+	MCAR2
+		Images:	1363
+		Time:	09.11.2025 06:12:00 until 09.11.2025 10:16:22
+		Duration:	04:04:22
+		Location:	35.35321 -120.55467
+
+	MCAR1DRONE1
+		Images:	19
+		Time:	08.11.2025 08:29:36 until 09.11.2025 12:10:06
+		Duration:	1.03:40:30
+		Location:	35.35321 -120.55467
+
+	DDC2
+		Images:	421
+		Time:	09.11.2025 05:46:49 until 09.11.2025 06:39:31
+		Duration:	00:52:42
+		Location:	35.35536 -120.55443
+

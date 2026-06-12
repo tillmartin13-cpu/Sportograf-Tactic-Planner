@@ -1,0 +1,62 @@
+EventId: 14036
+Spots: 8
+Total Images: 44558
+Time:	23.05.2025 21:12:17 to 24.05.2025 17:06:08
+Duration: 19:53:51
+
+(1) - 9,5 km Cote de Bonnerue
+	BAR1
+		Images:	10647
+		Time:	24.05.2025 00:10:40 until 24.05.2025 11:54:01
+		Duration:	11:43:21
+		Location:	50.12447 5.7157
+
+(2) - 34,0 km
+	BC1
+		Images:	9133
+		Time:	24.05.2025 07:22:03 until 24.05.2025 12:21:19
+		Duration:	04:59:16
+		Location:	50.12703 5.54645
+
+(3) - 47,7 km Col de Haussire Sud
+	PBO1
+		Images:	5723
+		Time:	23.05.2025 21:12:17 until 24.05.2025 13:22:33
+		Duration:	16:10:16
+		Location:	50.20564 5.61004
+
+(4) - 49,0 km Descent after Col Haussire
+	ACCA1
+		Images:	6703
+		Time:	24.05.2025 07:26:48 until 24.05.2025 13:25:55
+		Duration:	05:59:07
+		Location:	50.20642 5.59361
+
+(5) - 165,0 km Brasserie Achouffe
+	ACCA2
+		Images:	2643
+		Time:	24.05.2025 14:02:16 until 24.05.2025 16:57:20
+		Duration:	02:55:04
+		Location:	50.15022 5.74522
+
+(6) - 168,0 km Mont Achouffe
+	PBO2
+		Images:	2127
+		Time:	24.05.2025 14:13:04 until 24.05.2025 16:45:03
+		Duration:	02:31:59
+		Location:	50.15539 5.78297
+
+(7) - 174,0 km Côte Rue Saint Roch
+	BC2
+		Images:	4125
+		Time:	24.05.2025 13:21:07 until 24.05.2025 16:07:22
+		Duration:	02:46:15
+		Location:	50.12514 5.78796
+
+(8) - Finish
+	BAR2
+		Images:	3457
+		Time:	24.05.2025 12:16:26 until 24.05.2025 17:06:08
+		Duration:	04:49:42
+		Location:	50.13198 5.78872
+

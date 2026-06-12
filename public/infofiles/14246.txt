@@ -1,0 +1,136 @@
+EventId: 14246
+Spots: 20
+Total Images: 147927
+Time:	07.09.2025 19:28:00 to 14.09.2025 16:19:58
+Duration: 6.20:51:58
+
+(1) - Bike - Transition zone
+	KYY1
+		Images:	3641
+		Time:	14.09.2025 07:29:12 until 14.09.2025 08:57:36
+		Duration:	01:28:24
+		Location:	50.62506 -2.44877
+
+	DATI1
+		Images:	7832
+		Time:	14.09.2025 06:44:30 until 14.09.2025 08:57:23
+		Duration:	02:12:53
+		Location:	50.62550 -2.44939
+
+	DANO1
+		Images:	10910
+		Time:	14.09.2025 07:40:16 until 14.09.2025 08:57:31
+		Duration:	01:17:15
+		Location:	50.62472 -2.44799
+
+	MSO1
+		Images:	5485
+		Time:	14.09.2025 06:29:50 until 14.09.2025 11:38:04
+		Duration:	05:08:14
+		Location:	50.62472 -2.44799
+
+(2) - Bike - 37.0 km
+	JNI1
+		Images:	12915
+		Time:	14.09.2025 08:34:44 until 14.09.2025 10:58:06
+		Duration:	02:23:22
+		Location:	50.78041 -2.41121
+
+(3) - Bike - 64.9 km
+	MALV1
+		Images:	9794
+		Time:	14.09.2025 09:17:17 until 14.09.2025 12:16:12
+		Duration:	02:58:55
+		Location:	50.81761 -2.45812
+
+	MALV1LS1
+		Images:	2125
+		Time:	07.09.2025 19:28:00 until 14.09.2025 11:57:27
+		Duration:	6.16:29:27
+		Location:	50.81761 -2.45812
+
+(4) - Bike - 84.5 km
+	JUW1
+		Images:	11392
+		Time:	14.09.2025 07:47:23 until 14.09.2025 12:33:54
+		Duration:	04:46:31
+		Location:	50.66985 -2.42705
+
+	JUW1LS1
+		Images:	3821
+		Time:	14.09.2025 08:40:57 until 14.09.2025 12:48:30
+		Duration:	04:07:33
+		Location:	50.66985 -2.42705
+
+	JUW1LS2
+		Images:	1358
+		Time:	14.09.2025 08:40:26 until 14.09.2025 13:08:09
+		Duration:	04:27:43
+		Location:	50.66985 -2.42705
+
+(5) - Bike - Impressions / Pano
+	JUW1DRONE1
+		Images:	9
+		Time:	14.09.2025 07:39:33 until 14.09.2025 10:12:21
+		Duration:	02:32:48
+		Location:	50.66985 -2.42705
+
+(6) - Bike - 87.2 km
+	DAWH1
+		Images:	14732
+		Time:	14.09.2025 09:41:48 until 14.09.2025 13:12:44
+		Duration:	03:30:56
+		Location:	50.65420 -2.43798
+
+(7) - Run - km 1.7/6.6/11.5
+	KYY3
+		Images:	11238
+		Time:	14.09.2025 11:49:14 until 14.09.2025 14:26:53
+		Duration:	02:37:39
+		Location:	50.62720 -2.44316
+
+(8) - Run - km 2.7/7.6/12.5
+	DATI3
+		Images:	10397
+		Time:	14.09.2025 09:46:58 until 14.09.2025 15:48:44
+		Duration:	06:01:46
+		Location:	50.61427 -2.45516
+
+(9) - Just before finish
+	JNI2
+		Images:	7376
+		Time:	14.09.2025 11:55:41 until 14.09.2025 15:28:33
+		Duration:	03:32:52
+		Location:	50.61258 -2.45599
+
+(10) - Finish
+	DANO2
+		Images:	20830
+		Time:	14.09.2025 11:06:05 until 14.09.2025 16:15:51
+		Duration:	05:09:46
+		Location:	50.62691 -2.44866
+
+	MSO2
+		Images:	9445
+		Time:	14.09.2025 11:38:05 until 14.09.2025 16:19:58
+		Duration:	04:41:53
+		Location:	50.62691 -2.44866
+
+	DANO2LS1
+		Images:	1912
+		Time:	14.09.2025 10:46:55 until 14.09.2025 15:57:50
+		Duration:	05:10:55
+		Location:	50.62691 -2.44866
+
+	DANO2LS2
+		Images:	1992
+		Time:	14.09.2025 10:41:22 until 14.09.2025 15:59:49
+		Duration:	05:18:27
+		Location:	50.62691 -2.44866
+
+	DAWH2
+		Images:	723
+		Time:	14.09.2025 15:00:44 until 14.09.2025 15:44:05
+		Duration:	00:43:21
+		Location:	50.62691 -2.44866
+

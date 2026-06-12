@@ -1,0 +1,569 @@
+EventId: 15969
+Spots: 85
+Total Images: 839331
+Time:	03.04.2025 07:33:05 to 17.05.2025 15:18:09
+Duration: 44.07:45:04
+
+(1) - 0,0 km
+	GSGEN2
+		Images:	10258
+		Time:	17.05.2025 08:58:00 until 17.05.2025 11:49:41
+		Duration:	02:51:41
+		Location:	NULL NULL
+
+(2) - 0,0 km Finish Lance
+	GLEDW1
+		Images:	12605
+		Time:	17.05.2025 07:45:08 until 17.05.2025 10:03:04
+		Duration:	02:17:56
+		Location:	NULL NULL
+
+(3) - 0,0 km Finish Trigger Right
+	GSGEN1
+		Images:	2040
+		Time:	17.05.2025 07:40:11 until 17.05.2025 08:44:47
+		Duration:	01:04:36
+		Location:	NULL NULL
+
+(4) - 0,0 km Lance
+	GLEDW2
+		Images:	1451
+		Time:	17.05.2025 11:42:13 until 17.05.2025 13:04:42
+		Duration:	01:22:29
+		Location:	NULL NULL
+
+(5) - 0,0 km Medals Ian
+	GIANB1
+		Images:	3561
+		Time:	17.05.2025 07:57:11 until 17.05.2025 12:05:10
+		Duration:	04:07:59
+		Location:	NULL NULL
+
+(6) - 0,0 km medals Patricia warncke
+	GPWAR1
+		Images:	1210
+		Time:	17.05.2025 08:00:23 until 17.05.2025 12:46:00
+		Duration:	04:45:37
+		Location:	NULL NULL
+
+(7) - 0,0 km Medals Peter
+	GPKOL1
+		Images:	12977
+		Time:	03.04.2025 07:33:05 until 17.05.2025 11:47:47
+		Duration:	44.04:14:42
+		Location:	NULL NULL
+
+(8) - 0,0 km Medals Simona
+	GSIMO1
+		Images:	1043
+		Time:	17.05.2025 09:59:52 until 17.05.2025 12:05:08
+		Duration:	02:05:16
+		Location:	NULL NULL
+
+(9) - 0,0 km medals simona 2nd
+	GSIMO2
+		Images:	1282
+		Time:	17.05.2025 08:13:00 until 17.05.2025 10:01:32
+		Duration:	01:48:32
+		Location:	NULL NULL
+
+(10) - 0,0 km Medals Sofia
+	GSOFI1
+		Images:	580
+		Time:	17.05.2025 11:15:05 until 17.05.2025 12:46:58
+		Duration:	01:31:53
+		Location:	NULL NULL
+
+(11) - 0,0 km MSC 1 Jim
+	GJDEE1
+		Images:	19929
+		Time:	27.04.2025 09:26:54 until 17.05.2025 08:12:40
+		Duration:	19.22:45:46
+		Location:	NULL NULL
+
+(12) - 0,0 km MSC 1 John
+	GJPAR1
+		Images:	8154
+		Time:	17.05.2025 06:04:27 until 17.05.2025 08:05:20
+		Duration:	02:00:53
+		Location:	NULL NULL
+
+(13) - 0,0 km MSC 1 William
+	GWDEE1
+		Images:	12814
+		Time:	17.05.2025 07:00:07 until 17.05.2025 09:06:23
+		Duration:	02:06:16
+		Location:	NULL NULL
+
+(14) - 0,0 km MSC 3 Joe
+	GJRIC1
+		Images:	10193
+		Time:	17.05.2025 07:35:25 until 17.05.2025 09:08:45
+		Duration:	01:33:20
+		Location:	NULL NULL
+
+	GJRIC2
+		Images:	1537
+		Time:	17.05.2025 10:43:55 until 17.05.2025 11:34:47
+		Duration:	00:50:52
+		Location:	NULL NULL
+
+(15) - 0,0 km MSC 3 Trigger
+	GJRIC1LS1
+		Images:	13610
+		Time:	17.05.2025 07:28:05 until 17.05.2025 11:46:45
+		Duration:	04:18:40
+		Location:	NULL NULL
+
+(16) - 0,0 km MSC 4 Alex
+	GAKRI1
+		Images:	1396
+		Time:	17.05.2025 11:28:40 until 17.05.2025 12:42:41
+		Duration:	01:14:01
+		Location:	NULL NULL
+
+	GAKRI2
+		Images:	14229
+		Time:	17.05.2025 07:40:53 until 17.05.2025 11:28:40
+		Duration:	03:47:47
+		Location:	NULL NULL
+
+(17) - 0,0 km MSC 4 Miyan
+	GMLEV1
+		Images:	30504
+		Time:	17.05.2025 07:12:38 until 17.05.2025 12:27:14
+		Duration:	05:14:36
+		Location:	NULL NULL
+
+(18) - 0,0 km MSC 4 Trigger
+	GAKRI1LS1
+		Images:	16611
+		Time:	17.05.2025 07:48:13 until 17.05.2025 12:42:36
+		Duration:	04:54:23
+		Location:	NULL NULL
+
+(19) - 0,0 km MSC 6 Alex
+	GAREE1
+		Images:	12876
+		Time:	17.05.2025 07:25:00 until 17.05.2025 10:05:04
+		Duration:	02:40:04
+		Location:	NULL NULL
+
+(20) - 0,0 km MSC 6 Giang
+	GGPHA1
+		Images:	25713
+		Time:	12.05.2025 06:41:21 until 17.05.2025 12:42:34
+		Duration:	5.06:01:13
+		Location:	NULL NULL
+
+(21) - 0,0 km MSC 6 Trigger Alex
+	GAREE3LS1
+		Images:	5866
+		Time:	17.05.2025 07:49:36 until 17.05.2025 11:44:59
+		Duration:	03:55:23
+		Location:	NULL NULL
+
+(22) - 0,0 km PFN Darren
+	GDKEP1
+		Images:	35941
+		Time:	17.05.2025 07:32:41 until 17.05.2025 12:59:57
+		Duration:	05:27:16
+		Location:	NULL NULL
+
+(23) - 0,0 km PFN Rachel
+	GRZCE1
+		Images:	19021
+		Time:	17.05.2025 07:49:19 until 17.05.2025 12:03:42
+		Duration:	04:14:23
+		Location:	NULL NULL
+
+(24) - 0,0 km PFN Trent
+	GTWEL1
+		Images:	20325
+		Time:	17.05.2025 07:58:28 until 17.05.2025 13:04:47
+		Duration:	05:06:19
+		Location:	NULL NULL
+
+(25) - 0,0 km Pre Fin Trigger Ground Trent
+	GTWEL1LS2
+		Images:	13809
+		Time:	17.05.2025 07:45:43 until 17.05.2025 12:09:33
+		Duration:	04:23:50
+		Location:	NULL NULL
+
+(26) - 0,0 km Pre FIn Trigger Trent
+	GTWEL1LS1
+		Images:	12799
+		Time:	17.05.2025 08:20:11 until 17.05.2025 12:12:47
+		Duration:	03:52:36
+		Location:	NULL NULL
+
+(27) - 0,0 km Trent PR
+	GTWEL2
+		Images:	47
+		Time:	17.05.2025 06:31:32 until 17.05.2025 07:24:14
+		Duration:	00:52:42
+		Location:	NULL NULL
+
+(28) - 0,0 km Trigger Darren
+	GDKEP1LS1
+		Images:	16420
+		Time:	17.05.2025 07:08:22 until 17.05.2025 12:43:46
+		Duration:	05:35:24
+		Location:	NULL NULL
+
+(29) - 0.0 km
+	DGAUR1LS1
+		Images:	12032
+		Time:	17.05.2025 07:26:09 until 17.05.2025 11:24:37
+		Duration:	03:58:28
+		Location:	NULL NULL
+
+	DKPOO2
+		Images:	4938
+		Time:	16.05.2025 09:37:33 until 16.05.2025 11:25:10
+		Duration:	01:47:37
+		Location:	NULL NULL
+
+(30) - 0.0 km Finish Trigger LEft
+	DGGG2
+		Images:	12564
+		Time:	17.05.2025 07:48:24 until 17.05.2025 12:28:15
+		Duration:	04:39:51
+		Location:	NULL NULL
+
+(31) - 0.0 km Finish Trigger RIght
+	DGGG1
+		Images:	2344
+		Time:	17.05.2025 11:50:21 until 17.05.2025 12:29:36
+		Duration:	00:39:15
+		Location:	NULL NULL
+
+(32) - 0.0 km Medals CLaude
+	DCBIR1
+		Images:	11499
+		Time:	17.05.2025 06:06:24 until 17.05.2025 11:10:26
+		Duration:	05:04:02
+		Location:	NULL NULL
+
+(33) - 0.0 km Medals Leslie
+	DLMAE1
+		Images:	7547
+		Time:	17.05.2025 08:10:25 until 17.05.2025 12:07:23
+		Duration:	03:56:58
+		Location:	NULL NULL
+
+(34) - 0.0 km medals sofia
+	DSMCG1
+		Images:	3033
+		Time:	17.05.2025 07:58:51 until 17.05.2025 11:13:31
+		Duration:	03:14:40
+		Location:	NULL NULL
+
+(35) - 0.0 km Medals Thomas
+	DTBLO1
+		Images:	7052
+		Time:	17.05.2025 07:46:10 until 17.05.2025 12:08:57
+		Duration:	04:22:47
+		Location:	NULL NULL
+
+(36) - 0.0 km MSC 1 Trigger
+	DJDEE1
+		Images:	7095
+		Time:	17.05.2025 06:52:12 until 17.05.2025 09:08:29
+		Duration:	02:16:17
+		Location:	NULL NULL
+
+(37) - 0.0 km MSC 3 ANtoine
+	DJANT1
+		Images:	6067
+		Time:	17.05.2025 07:48:24 until 17.05.2025 10:14:08
+		Duration:	02:25:44
+		Location:	NULL NULL
+
+(38) - 0.0 km MSC 3 TAnja
+	DTMOM1
+		Images:	3387
+		Time:	17.05.2025 09:45:57 until 17.05.2025 11:29:13
+		Duration:	01:43:16
+		Location:	NULL NULL
+
+(39) - 0.0 km MSC 5 Gaurauv
+	DGAUR1
+		Images:	8849
+		Time:	17.05.2025 06:31:11 until 17.05.2025 11:26:03
+		Duration:	04:54:52
+		Location:	NULL NULL
+
+(40) - 0.0 km MSC 5 KAte
+	DKPOO1
+		Images:	530
+		Time:	16.05.2025 11:30:39 until 16.05.2025 12:09:54
+		Duration:	00:39:15
+		Location:	NULL NULL
+
+(41) - 0.0 km MSC 5 Sean
+	DSEAN1
+		Images:	20513
+		Time:	17.05.2025 12:35:01 until 17.05.2025 15:18:09
+		Duration:	02:43:08
+		Location:	NULL NULL
+
+	DSEAN2
+		Images:	24273
+		Time:	17.05.2025 11:04:21 until 17.05.2025 12:34:19
+		Duration:	01:29:58
+		Location:	NULL NULL
+
+(42) - 0.0 km MSC 5 Terrry
+	DTWE1
+		Images:	13940
+		Time:	17.05.2025 08:07:22 until 17.05.2025 09:26:49
+		Duration:	01:19:27
+		Location:	NULL NULL
+
+(43) - 0.0 km MSC 5 Trigger 1
+	DTWE1LS1
+		Images:	17310
+		Time:	17.05.2025 07:47:50 until 17.05.2025 12:52:18
+		Duration:	05:04:28
+		Location:	NULL NULL
+
+(44) - 0.0 km MSC 6 Cody
+	DCURA1
+		Images:	32578
+		Time:	17.05.2025 07:44:29 until 17.05.2025 13:10:03
+		Duration:	05:25:34
+		Location:	NULL NULL
+
+(45) - 0.0 km MSC 6 Cody Trigger
+	DCURA1LS1
+		Images:	14691
+		Time:	17.05.2025 07:19:37 until 17.05.2025 12:21:01
+		Duration:	05:01:24
+		Location:	NULL NULL
+
+(46) - 0.0 km MSC 6 Giang
+	DGPHA1
+		Images:	4551
+		Time:	17.05.2025 07:54:32 until 17.05.2025 09:56:50
+		Duration:	02:02:18
+		Location:	NULL NULL
+
+(47) - 0.0 km MSC 6 Jim
+	DJDEE2
+		Images:	11334
+		Time:	17.05.2025 09:53:32 until 17.05.2025 12:10:22
+		Duration:	02:16:50
+		Location:	NULL NULL
+
+(48) - 0.0 km MSC 6 John
+	DJPAR1
+		Images:	6098
+		Time:	17.05.2025 09:52:08 until 17.05.2025 11:38:39
+		Duration:	01:46:31
+		Location:	NULL NULL
+
+(49) - 0.0 km OFP Awa
+	DAWA1
+		Images:	1975
+		Time:	17.05.2025 07:21:43 until 17.05.2025 11:31:33
+		Duration:	04:09:50
+		Location:	NULL NULL
+
+(50) - 0.0 km OFP Ezra
+	DEZRA1
+		Images:	1926
+		Time:	17.05.2025 08:27:01 until 17.05.2025 12:34:50
+		Duration:	04:07:49
+		Location:	NULL NULL
+
+(51) - 0.0 km OFP Felix
+	DFELI1
+		Images:	1317
+		Time:	17.05.2025 07:58:20 until 17.05.2025 12:28:35
+		Duration:	04:30:15
+		Location:	NULL NULL
+
+(52) - 0.0 km OFP Shanta
+	DSHAN1
+		Images:	1842
+		Time:	17.05.2025 07:56:23 until 17.05.2025 12:30:00
+		Duration:	04:33:37
+		Location:	NULL NULL
+
+	DTMOM2
+		Images:	5686
+		Time:	17.05.2025 07:04:38 until 17.05.2025 09:43:57
+		Duration:	02:39:19
+		Location:	NULL NULL
+
+(53) - 0.0 km Pre FIn Tobias
+	DTBRE1
+		Images:	5452
+		Time:	17.05.2025 09:16:19 until 17.05.2025 12:38:01
+		Duration:	03:21:42
+		Location:	NULL NULL
+
+(54) - 0.0 km Pre FIn Tobias trigger
+	DTBRE2LS1
+		Images:	11834
+		Time:	17.05.2025 09:20:16 until 17.05.2025 12:59:00
+		Duration:	03:38:44
+		Location:	NULL NULL
+
+(55) - 0.0 km Pre FIn Trigger Ground
+	SGENT1
+		Images:	13890
+		Time:	17.05.2025 08:01:36 until 17.05.2025 12:06:54
+		Duration:	04:05:18
+		Location:	NULL NULL
+
+(56) - 0.0 km Sean Finish
+	DSHAW1
+		Images:	5515
+		Time:	17.05.2025 11:11:41 until 17.05.2025 12:28:50
+		Duration:	01:17:09
+		Location:	NULL NULL
+
+(57) - Impressions / Pano
+	PANO1
+(58) - none
+	ACFIO1
+		Images:	21242
+		Time:	17.05.2025 07:17:49 until 17.05.2025 10:48:20
+		Duration:	03:30:31
+		Location:	NULL NULL
+
+	ACFIO1LS1
+		Images:	3700
+		Time:	17.05.2025 07:17:40 until 17.05.2025 08:27:27
+		Duration:	01:09:47
+		Location:	NULL NULL
+
+	ACFIO1LS2
+		Images:	3735
+		Time:	17.05.2025 08:27:39 until 17.05.2025 09:33:44
+		Duration:	01:06:05
+		Location:	NULL NULL
+
+	ACFIO1LS3
+		Images:	3577
+		Time:	17.05.2025 09:34:10 until 17.05.2025 10:35:10
+		Duration:	01:01:00
+		Location:	NULL NULL
+
+	AMZOL1
+		Images:	15702
+		Time:	17.05.2025 07:18:24 until 17.05.2025 10:45:25
+		Duration:	03:27:01
+		Location:	NULL NULL
+
+	APWOO1
+		Images:	12439
+		Time:	17.05.2025 08:52:50 until 17.05.2025 10:51:38
+		Duration:	01:58:48
+		Location:	NULL NULL
+
+	APWOO2
+		Images:	12660
+		Time:	17.05.2025 07:02:43 until 17.05.2025 08:50:25
+		Duration:	01:47:42
+		Location:	NULL NULL
+
+	DGAUR1LS2
+		Images:	1574
+		Time:	17.05.2025 11:57:35 until 17.05.2025 12:23:48
+		Duration:	00:26:13
+		Location:	NULL NULL
+
+	DJANT2
+		Images:	2489
+		Time:	17.05.2025 10:14:55 until 17.05.2025 11:29:51
+		Duration:	01:14:56
+		Location:	NULL NULL
+
+	DKPOO3
+		Images:	5335
+		Time:	16.05.2025 08:04:04 until 16.05.2025 09:36:11
+		Duration:	01:32:07
+		Location:	NULL NULL
+
+	DSHAW2
+		Images:	13526
+		Time:	17.05.2025 08:17:20 until 17.05.2025 09:39:40
+		Duration:	01:22:20
+		Location:	NULL NULL
+
+	DSHAW3
+		Images:	13940
+		Time:	17.05.2025 09:42:51 until 17.05.2025 11:10:18
+		Duration:	01:27:27
+		Location:	NULL NULL
+
+	DTBRE1LS1
+		Images:	6105
+		Time:	17.05.2025 07:11:18 until 17.05.2025 08:58:39
+		Duration:	01:47:21
+		Location:	NULL NULL
+
+	DTBRE2
+		Images:	26363
+		Time:	17.05.2025 07:44:52 until 17.05.2025 12:51:12
+		Duration:	05:06:20
+		Location:	NULL NULL
+
+	DTWE2
+		Images:	13370
+		Time:	17.05.2025 09:29:26 until 17.05.2025 11:40:12
+		Duration:	02:10:46
+		Location:	NULL NULL
+
+	DTWE3
+		Images:	3959
+		Time:	17.05.2025 07:38:07 until 17.05.2025 11:46:27
+		Duration:	04:08:20
+		Location:	NULL NULL
+
+	GAREE2
+		Images:	12136
+		Time:	17.05.2025 09:10:24 until 17.05.2025 10:05:03
+		Duration:	00:54:39
+		Location:	NULL NULL
+
+	GAREE3
+		Images:	11341
+		Time:	17.05.2025 10:06:17 until 17.05.2025 11:02:07
+		Duration:	00:55:50
+		Location:	NULL NULL
+
+	GAREE3LS2
+		Images:	3664
+		Time:	17.05.2025 07:31:05 until 17.05.2025 09:52:07
+		Duration:	02:21:02
+		Location:	NULL NULL
+
+	GAREE4
+		Images:	9872
+		Time:	17.05.2025 11:03:17 until 17.05.2025 12:41:38
+		Duration:	01:38:21
+		Location:	NULL NULL
+
+	GLEDW3
+		Images:	12722
+		Time:	17.05.2025 10:03:31 until 17.05.2025 11:41:25
+		Duration:	01:37:54
+		Location:	NULL NULL
+
+	GRZCE2
+		Images:	1337
+		Time:	17.05.2025 12:04:39 until 17.05.2025 13:15:38
+		Duration:	01:10:59
+		Location:	NULL NULL
+
+	GWDEE2
+		Images:	8080
+		Time:	17.05.2025 10:49:28 until 17.05.2025 13:07:21
+		Duration:	02:17:53
+		Location:	NULL NULL
+

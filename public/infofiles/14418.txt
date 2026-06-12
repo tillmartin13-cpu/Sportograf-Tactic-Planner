@@ -1,0 +1,124 @@
+EventId: 14418
+Spots: 18
+Total Images: 65075
+Time:	17.05.2025 06:46:23 to 18.05.2025 19:46:52
+Duration: 1.13:00:29
+
+(1) - Obstacle 3 Sand Bag Carry
+	JOG1
+		Images:	4971
+		Time:	18.05.2025 07:19:06 until 18.05.2025 15:23:50
+		Duration:	08:04:44
+		Location:	34.22285 -116.89725
+
+(2) - Obstacle 17 Plate Drag
+	GOB1
+		Images:	3643
+		Time:	17.05.2025 06:46:23 until 18.05.2025 15:33:57
+		Duration:	1.08:47:34
+		Location:	34.22659 -116.90097
+
+	KHN1
+		Images:	4846
+		Time:	17.05.2025 07:27:19 until 18.05.2025 17:19:24
+		Duration:	1.09:52:05
+		Location:	34.22659 -116.90097
+
+(3) - Before Drag
+	KHN1LS1
+		Images:	1929
+		Time:	18.05.2025 07:13:49 until 18.05.2025 15:55:44
+		Duration:	08:41:55
+		Location:	34.22632 -116.89876
+
+(4) - Obstacle 18 Barbed Wire Crawl 2
+	TUD1
+		Images:	3298
+		Time:	17.05.2025 06:56:38 until 18.05.2025 17:43:06
+		Duration:	1.10:46:28
+		Location:	34.22689 -116.89989
+
+(5) - Obstacle 22 Inverted Wall
+	JO1
+		Images:	3459
+		Time:	18.05.2025 07:33:32 until 18.05.2025 17:25:01
+		Duration:	09:51:29
+		Location:	34.23451 -116.89476
+
+	JO1LS2
+		Images:	1297
+		Time:	18.05.2025 08:29:00 until 18.05.2025 14:19:45
+		Duration:	05:50:45
+		Location:	34.23451 -116.89476
+
+	JO1LS1
+		Images:	1574
+		Time:	18.05.2025 07:30:38 until 18.05.2025 17:36:04
+		Duration:	10:05:26
+		Location:	34.23451 -116.89476
+
+(6) - Obstacle 24 Monkey/Multi/Twister Rig
+	DDS1
+		Images:	5300
+		Time:	18.05.2025 08:17:53 until 18.05.2025 18:14:34
+		Duration:	09:56:41
+		Location:	34.23519 -116.89254
+
+	DDC1
+		Images:	7856
+		Time:	17.05.2025 07:02:38 until 18.05.2025 17:12:15
+		Duration:	1.10:09:37
+		Location:	34.23519 -116.89254
+
+(7) - Obstacle 27 Bucket Carry
+	MATA1
+		Images:	5559
+		Time:	18.05.2025 07:58:08 until 18.05.2025 18:28:35
+		Duration:	10:30:27
+		Location:	34.23443 -116.89114
+
+(8) - Obstacle 28 Slip Wall
+	FREM1
+		Images:	5496
+		Time:	18.05.2025 08:23:31 until 18.05.2025 18:42:13
+		Duration:	10:18:42
+		Location:	34.23397 -116.89049
+
+(9) - Herotent
+	HJP1
+		Images:	1845
+		Time:	17.05.2025 07:09:12 until 18.05.2025 17:25:08
+		Duration:	1.10:15:56
+		Location:	34.23589 -116.89085
+
+	MCAR1IMP1
+		Images:	28
+		Time:	17.05.2025 21:01:28 until 18.05.2025 19:46:52
+		Duration:	22:45:24
+		Location:	34.23589 -116.89085
+
+	DAVL1
+		Images:	7717
+		Time:	18.05.2025 07:36:28 until 18.05.2025 18:48:53
+		Duration:	11:12:25
+		Location:	34.23589 -116.89085
+
+(10) - Trail
+	DAVL2
+		Images:	1503
+		Time:	18.05.2025 07:15:38 until 18.05.2025 09:19:25
+		Duration:	02:03:47
+		Location:	34.23191 -116.89107
+
+	MCAR2
+		Images:	715
+		Time:	18.05.2025 07:15:16 until 18.05.2025 07:34:02
+		Duration:	00:18:46
+		Location:	34.23176 -116.89080
+
+	KHN2
+		Images:	4034
+		Time:	18.05.2025 06:42:07 until 18.05.2025 10:20:09
+		Duration:	03:38:02
+		Location:	34.22554 -116.89961
+

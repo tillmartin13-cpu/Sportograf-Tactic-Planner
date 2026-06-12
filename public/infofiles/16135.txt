@@ -1,0 +1,79 @@
+EventId: 16135
+Spots: 12
+Total Images: 23995
+Time:	04.05.2025 11:13:24 to 04.05.2025 15:35:03
+Duration: 04:21:39
+
+(1) - Start
+	FLOS1
+		Images:	3
+		Time:	04.05.2025 11:13:24 until 04.05.2025 11:49:55
+		Duration:	00:36:31
+		Location:	47.72752 10.3138
+
+	FLOS3
+		Images:	3
+		Time:	04.05.2025 13:41:50 until 04.05.2025 13:43:03
+		Duration:	00:01:13
+		Location:	47.72752 10.3138
+
+(2) - 0,5 km
+	SVL1
+		Images:	4000
+		Time:	04.05.2025 12:32:05 until 04.05.2025 14:16:50
+		Duration:	01:44:45
+		Location:	47.73019 10.3133
+
+	SVL2
+		Images:	3262
+		Time:	04.05.2025 14:27:39 until 04.05.2025 15:01:32
+		Duration:	00:33:53
+		Location:	47.73019 10.3133
+
+	SVL3
+		Images:	2170
+		Time:	04.05.2025 12:13:50 until 04.05.2025 15:05:27
+		Duration:	02:51:37
+		Location:	47.73019 10.313
+
+(3) - 3,9 km
+	ANFI1
+		Images:	1365
+		Time:	04.05.2025 11:30:09 until 04.05.2025 13:10:10
+		Duration:	01:40:01
+		Location:	47.72588 10.31902
+
+	ANFI2
+		Images:	1555
+		Time:	04.05.2025 13:31:25 until 04.05.2025 15:07:30
+		Duration:	01:36:05
+		Location:	47.72588 10.31902
+
+(4) - 4,1 km
+	MIKR1
+		Images:	2228
+		Time:	04.05.2025 11:24:09 until 04.05.2025 13:12:21
+		Duration:	01:48:12
+		Location:	47.72633 10.31658
+
+	MIKR2
+		Images:	1913
+		Time:	04.05.2025 14:04:15 until 04.05.2025 15:03:40
+		Duration:	00:59:25
+		Location:	47.72633 10.31658
+
+(5) - Finish
+	FLOS2
+		Images:	3604
+		Time:	04.05.2025 11:13:24 until 04.05.2025 13:22:05
+		Duration:	02:08:41
+		Location:	47.72754 10.31388
+
+	FLOS4
+		Images:	3892
+		Time:	04.05.2025 13:41:50 until 04.05.2025 15:35:03
+		Duration:	01:53:13
+		Location:	47.72754 10.31388
+
+(6) - Impressions / Pano
+	PANO1

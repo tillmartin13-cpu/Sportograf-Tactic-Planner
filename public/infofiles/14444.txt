@@ -1,0 +1,121 @@
+EventId: 14444
+Spots: 17
+Total Images: 147390
+Time:	06.06.2025 21:42:24 to 07.06.2025 20:44:38
+Duration: 23:02:14
+
+(1) - Start
+	CCZ1DRONE1
+		Images:	32
+		Time:	07.06.2025 15:17:52 until 07.06.2025 15:18:16
+		Duration:	00:00:24
+		Location:	39.14880 -84.91013
+
+	CCZ1
+		Images:	4187
+		Time:	07.06.2025 07:27:59 until 07.06.2025 14:34:51
+		Duration:	07:06:52
+		Location:	39.14880 -84.91013
+
+(2) - Obstacle 5 Multi-Rig
+	IZZY1
+		Images:	7791
+		Time:	07.06.2025 07:11:54 until 07.06.2025 15:12:34
+		Duration:	08:00:40
+		Location:	39.15048 -84.89088
+
+	AWES1
+		Images:	5925
+		Time:	07.06.2025 07:02:48 until 07.06.2025 15:12:16
+		Duration:	08:09:28
+		Location:	39.15048 -84.89088
+
+(3) - Obstacle 11 Dunk Wall
+	ROOT1
+		Images:	17622
+		Time:	07.06.2025 07:40:36 until 07.06.2025 15:56:11
+		Duration:	08:15:35
+		Location:	39.14880 -84.91013
+
+(4) - Obstacle 20 Irish Table
+	GIP1
+		Images:	5425
+		Time:	07.06.2025 08:40:51 until 07.06.2025 17:28:40
+		Duration:	08:47:49
+		Location:	39.13703 -84.86747
+
+(5) - Run - Mile 7
+	GIP1LS1
+		Images:	4030
+		Time:	07.06.2025 10:00:14 until 07.06.2025 16:32:04
+		Duration:	06:31:50
+		Location:	39.13703 -84.86747
+
+(6) - Obstacle 27 A-Frame Cargo
+	DMCI1
+		Images:	8486
+		Time:	06.06.2025 21:42:24 until 07.06.2025 19:44:27
+		Duration:	22:02:03
+		Location:	39.14369 -84.88821
+
+(7) - Obstacle 29 Hercules Hoist
+	AAD1
+		Images:	18141
+		Time:	07.06.2025 06:55:13 until 07.06.2025 19:58:32
+		Duration:	13:03:19
+		Location:	39.14695 -84.88656
+
+	PRR1
+		Images:	3019
+		Time:	07.06.2025 07:59:52 until 07.06.2025 19:42:21
+		Duration:	11:42:29
+		Location:	39.14695 -84.88656
+
+(8) - Obstacle 30 Monkey Bars
+	HAMK1
+		Images:	12021
+		Time:	07.06.2025 09:15:11 until 07.06.2025 20:06:25
+		Duration:	10:51:14
+		Location:	39.14698 -84.88604
+
+(9) - Obstacle 32 Sandbag Carry
+	DMCI1LS1
+		Images:	11681
+		Time:	07.06.2025 08:04:27 until 07.06.2025 18:16:32
+		Duration:	10:12:05
+		Location:	39.14369 -84.88821
+
+(10) - Obstacle 34 Slip Wall
+	JBB1
+		Images:	14525
+		Time:	07.06.2025 09:53:17 until 07.06.2025 20:39:28
+		Duration:	10:46:11
+		Location:	39.14726 -84.88275
+
+(11) - Obstacle 35 Fire Jump
+	NIMA1
+		Images:	19196
+		Time:	07.06.2025 08:11:31 until 07.06.2025 20:40:56
+		Duration:	12:29:25
+		Location:	39.14736 -84.88390
+
+	NIMA1LS1
+		Images:	9100
+		Time:	07.06.2025 09:12:24 until 07.06.2025 18:47:55
+		Duration:	09:35:31
+		Location:	39.14736 -84.88390
+
+(12) - Obstacle 1
+	THAT1DRONE1
+		Images:	35
+		Time:	07.06.2025 08:52:05 until 07.06.2025 09:12:47
+		Duration:	00:20:42
+		Location:	39.14880 -84.91013
+
+(13) - Herotent
+	THAT1
+		Images:	6174
+		Time:	07.06.2025 08:35:13 until 07.06.2025 20:44:38
+		Duration:	12:09:25
+		Location:	39.14799 -84.88410
+

@@ -1,0 +1,296 @@
+EventId: 14547
+Spots: 46
+Total Images: 322857
+Time:	01.01.0001 23:00:00 to 09.03.2025 15:48:04
+Duration: 739317.16:48:04
+
+(1) - Start
+	JNK1
+		Images:	446
+		Time:	09.03.2025 06:31:00 until 09.03.2025 07:28:41
+		Duration:	00:57:41
+		Location:	46.40648 9.69745
+
+	JNK1DRONE1
+(2) - Surlej, Schloss am See
+	TE1
+		Images:	9059
+		Time:	09.03.2025 06:37:13 until 09.03.2025 11:04:05
+		Duration:	04:26:52
+		Location:	46.45921 9.80324
+
+	TE1LS1
+		Images:	8391
+		Time:	09.03.2025 08:03:14 until 09.03.2025 10:47:03
+		Duration:	02:43:49
+		Location:	46.45921 9.80324
+
+	TE1LS2
+		Images:	3233
+		Time:	09.03.2025 06:53:11 until 09.03.2025 11:02:32
+		Duration:	04:09:21
+		Location:	46.45921 9.80324
+
+(3) - Champferer See / River Inn
+	BP1
+		Images:	5910
+		Time:	09.03.2025 06:07:58 until 09.03.2025 11:25:03
+		Duration:	05:17:05
+		Location:	46.47277 9.81509
+
+	BP1LS1
+		Images:	4461
+		Time:	09.03.2025 06:29:46 until 09.03.2025 11:03:47
+		Duration:	04:34:01
+		Location:	46.47277 9.81509
+
+	BP1LS2
+		Images:	2514
+		Time:	09.03.2025 07:30:41 until 09.03.2025 11:26:28
+		Duration:	03:55:47
+		Location:	46.47277 9.81509
+
+	BP1DRONE1
+		Images:	6
+		Time:	09.03.2025 08:16:07 until 09.03.2025 14:04:11
+		Duration:	05:48:04
+		Location:	46.47277 9.81509
+
+(4) - Uphill Lake Marsch
+	CVG1
+		Images:	5397
+		Time:	09.03.2025 07:48:17 until 09.03.2025 11:02:09
+		Duration:	03:13:52
+		Location:	46.47464 9.81808
+
+	RLLA1
+		Images:	5794
+		Time:	09.03.2025 07:48:27 until 09.03.2025 10:57:50
+		Duration:	03:09:23
+		Location:	46.47440 9.81817
+
+(5) - Lake Marsch
+	PINO1
+		Images:	5409
+		Time:	09.03.2025 07:49:15 until 09.03.2025 11:14:58
+		Duration:	03:25:43
+		Location:	46.47541 9.82056
+
+(6) - Hotel Kempinsky
+	LAPO1
+		Images:	8643
+		Time:	09.03.2025 06:30:43 until 09.03.2025 11:29:29
+		Duration:	04:58:46
+		Location:	46.48366 9.83432
+
+	LLM1
+		Images:	3979
+		Time:	09.03.2025 07:40:56 until 09.03.2025 11:29:11
+		Duration:	03:48:15
+		Location:	46.48361 9.83431
+
+(7) - Stazersee
+	MAWI1
+		Images:	6217
+		Time:	09.03.2025 07:31:47 until 09.03.2025 12:40:11
+		Duration:	05:08:24
+		Location:	46.49701 9.87082
+
+	MAWI1LS1
+		Images:	7212
+		Time:	09.03.2025 07:09:34 until 09.03.2025 12:29:36
+		Duration:	05:20:02
+		Location:	46.49701 9.87082
+
+	MAWI1LS2
+		Images:	7456
+		Time:	09.03.2025 06:20:24 until 09.03.2025 12:05:16
+		Duration:	05:44:52
+		Location:	46.49701 9.87082
+
+	BECK1
+		Images:	15111
+		Time:	09.03.2025 05:53:03 until 09.03.2025 12:58:53
+		Duration:	07:05:50
+		Location:	46.50009 9.87240
+
+	BECK1LS1
+		Images:	9971
+		Time:	09.03.2025 07:43:54 until 09.03.2025 12:48:42
+		Duration:	05:04:48
+		Location:	46.50009 9.87240
+
+	BECK1LS2
+		Images:	7567
+		Time:	09.03.2025 07:40:28 until 09.03.2025 12:34:30
+		Duration:	04:54:02
+		Location:	46.50076 9.87291
+
+(8) - Halfmarathon Finish Pontresina
+	HS1
+		Images:	2389
+		Time:	09.03.2025 06:56:34 until 09.03.2025 13:12:30
+		Duration:	06:15:56
+		Location:	46.49430 9.89391
+
+	HS1LS2
+		Images:	3896
+		Time:	09.03.2025 06:36:12 until 09.03.2025 12:33:02
+		Duration:	05:56:50
+		Location:	46.49430 9.89391
+
+	HS1LS1
+		Images:	3882
+		Time:	09.03.2025 06:33:49 until 09.03.2025 12:33:35
+		Duration:	05:59:46
+		Location:	46.49430 9.89391
+
+	LBO1
+		Images:	1513
+		Time:	09.03.2025 06:42:17 until 09.03.2025 13:12:32
+		Duration:	06:30:15
+		Location:	46.49430 9.89391
+
+(9) - Halfmarathon Ceremony
+	LBO2
+		Images:	30
+		Time:	09.03.2025 09:30:09 until 09.03.2025 09:38:39
+		Duration:	00:08:30
+		Location:	46.49430 9.89391
+
+(10) - Grand Hotel Kronenhof Pontresina
+	RONS1
+		Images:	14730
+		Time:	09.03.2025 08:40:50 until 09.03.2025 13:14:44
+		Duration:	04:33:54
+		Location:	46.49654 9.89668
+
+	RONS1LS2
+		Images:	5508
+		Time:	09.03.2025 07:34:41 until 09.03.2025 10:14:45
+		Duration:	02:40:04
+		Location:	46.48361 9.83431
+
+	RONS1LS1
+		Images:	10523
+		Time:	09.03.2025 07:17:53 until 09.03.2025 11:02:51
+		Duration:	03:44:58
+		Location:	46.49556 9.89726
+
+(11) - Airport St. Moritz
+	DABI1
+		Images:	5243
+		Time:	09.03.2025 08:04:02 until 09.03.2025 12:57:09
+		Duration:	04:53:07
+		Location:	46.53787 9.88908
+
+	DABI1LS1
+		Images:	4000
+		Time:	09.03.2025 07:51:04 until 09.03.2025 09:52:11
+		Duration:	02:01:07
+		Location:	46.53826 9.88988
+
+(12) - Bever
+	DIG1
+		Images:	23710
+		Time:	09.03.2025 05:53:48 until 09.03.2025 13:42:06
+		Duration:	07:48:18
+		Location:	46.61917 10.00426
+
+(13) - Langlaufzentrum Zuoz
+	JNK2
+		Images:	1763
+		Time:	09.03.2025 12:03:12 until 09.03.2025 14:45:19
+		Duration:	02:42:07
+		Location:	46.59625 9.96599
+
+(14) - La-Punt
+	MAPP1
+		Images:	11889
+		Time:	09.03.2025 05:52:01 until 09.03.2025 13:46:52
+		Duration:	07:54:51
+		Location:	46.57638 9.93383
+
+	MRO1
+		Images:	9241
+		Time:	09.03.2025 05:43:44 until 09.03.2025 13:46:02
+		Duration:	08:02:18
+		Location:	46.57589 9.93296
+
+(15) - S-Chanf
+	JGU1
+		Images:	14232
+		Time:	09.03.2025 08:37:48 until 09.03.2025 14:41:00
+		Duration:	06:03:12
+		Location:	46.61148 9.99026
+
+	STHE1
+		Images:	14231
+		Time:	09.03.2025 08:55:21 until 09.03.2025 15:48:04
+		Duration:	06:52:43
+		Location:	46.61148 9.99026
+
+	SAMS1
+		Images:	4307
+		Time:	09.03.2025 08:30:41 until 09.03.2025 14:48:12
+		Duration:	06:17:31
+		Location:	46.61508 9.99817
+
+(16) - S-Chanf, 0.5km before Finish
+	ULKE1
+		Images:	14213
+		Time:	01.01.0001 23:00:00 until 09.03.2025 14:50:59
+		Duration:	739317.15:50:59
+		Location:	46.61947 10.00620
+
+(17) - S-Chanf, 0.3km before Finish
+	LKE1
+		Images:	9584
+		Time:	09.03.2025 08:50:20 until 09.03.2025 14:51:38
+		Duration:	06:01:18
+		Location:	46.61917 10.00426
+
+(18) - Marathon Finish S-Chanf
+	UEC1
+		Images:	6340
+		Time:	08.03.2025 18:41:23 until 09.03.2025 14:55:29
+		Duration:	20:14:06
+		Location:	46.62000 10.00091
+
+	UEC1LS1
+		Images:	3385
+		Time:	09.03.2025 08:51:59 until 09.03.2025 14:42:47
+		Duration:	05:50:48
+		Location:	46.62000 10.00091
+
+	CK2
+		Images:	11264
+		Time:	09.03.2025 08:17:39 until 09.03.2025 14:54:54
+		Duration:	06:37:15
+		Location:	46.62000 10.00091
+
+	CK1LS3
+		Images:	9442
+		Time:	09.03.2025 08:38:40 until 09.03.2025 13:35:45
+		Duration:	04:57:05
+		Location:	46.61148 9.99026
+
+	CK1LS2
+		Images:	9430
+		Time:	09.03.2025 08:38:04 until 09.03.2025 13:35:09
+		Duration:	04:57:05
+		Location:	46.62000 10.00091
+
+	CK1LS1
+		Images:	10981
+		Time:	09.03.2025 08:38:41 until 09.03.2025 13:35:46
+		Duration:	04:57:05
+		Location:	46.62000 10.00091
+
+(19) - Marathon Ceremony
+	CK3
+		Images:	355
+		Time:	09.03.2025 09:19:41 until 09.03.2025 10:49:04
+		Duration:	01:29:23
+		Location:	46.62000 10.00091
+

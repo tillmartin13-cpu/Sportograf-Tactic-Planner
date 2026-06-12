@@ -1,0 +1,188 @@
+EventId: 14984
+Spots: 34
+Total Images: 103662
+Time:	21.02.2025 09:20:49 to 22.02.2025 17:08:43
+Duration: 1.07:47:54
+
+(1) - 0.0 km Finish - 000000 - Giang Pham
+	GFNGP1
+		Images:	5619
+		Time:	22.02.2025 12:10:20 until 22.02.2025 15:23:12
+		Duration:	03:12:52
+		Location:	NULL NULL
+
+(2) - 0.0 km Finish - 000000 - Patrick Halpin
+	GFNPH1
+		Images:	1447
+		Time:	22.02.2025 12:08:35 until 22.02.2025 14:53:44
+		Duration:	02:45:09
+		Location:	NULL NULL
+
+(3) - 0.0 km Finish - 860196 - Phillip Reyes
+	GFNPR1
+		Images:	5059
+		Time:	22.02.2025 09:33:23 until 22.02.2025 12:26:05
+		Duration:	02:52:42
+		Location:	NULL NULL
+
+(4) - 0.0 km Finish - 860197 - Trigger One
+	GFNTO1
+(5) - 0.0 km Finish - 860198 - Keith Tromiczak
+	GFNKT1
+		Images:	5657
+		Time:	22.02.2025 09:36:11 until 22.02.2025 12:46:26
+		Duration:	03:10:15
+		Location:	NULL NULL
+
+(6) - 0.0 km Medals - 860199 - Paul Ostrum
+	GMDPO1
+		Images:	1860
+		Time:	22.02.2025 10:07:21 until 22.02.2025 13:58:56
+		Duration:	03:51:35
+		Location:	NULL NULL
+
+(7) - 0.0 km Medals - 860200 - Lydia Kelm
+	GMDLK1
+		Images:	969
+		Time:	22.02.2025 09:34:35 until 22.02.2025 13:55:57
+		Duration:	04:21:22
+		Location:	NULL NULL
+
+(8) - 0.0 km Medals - 864161 - Jack Parsons
+	GMDJP1
+		Images:	754
+		Time:	22.02.2025 11:02:01 until 22.02.2025 14:47:34
+		Duration:	03:45:33
+		Location:	NULL NULL
+
+(9) - 0.0 km MSC 1 - 860188 - Patrick Halpin
+	GMOPH1
+		Images:	3974
+		Time:	22.02.2025 07:44:43 until 22.02.2025 11:49:18
+		Duration:	04:04:35
+		Location:	NULL NULL
+
+(10) - 0.0 km MSC 1 - 860189 - Giang Pham
+	GMOGP1
+		Images:	12745
+		Time:	22.02.2025 07:45:05 until 22.02.2025 09:33:21
+		Duration:	01:48:16
+		Location:	NULL NULL
+
+(11) - 0.0 km MSC 1 - 860190 - Trigger One
+	GMOTO1
+		Images:	10
+		Time:	22.02.2025 07:31:30 until 22.02.2025 07:31:34
+		Duration:	00:00:04
+		Location:	NULL NULL
+
+(12) - 0.0 km MSC 2 - 860201 - Scott Homich
+	GTWSH1
+(13) - 0.0 km MSC 2 - 860202 - Jennifer Gallant
+	GTWJG1
+(14) - 0.0 km MSC 3 - 853187 - Ryan Pletz
+	GTHRP1
+(15) - 0.0 km MSC 3 - 860204 - Amy Arntson
+	GTHAA1
+(16) - 0.0 km PR's - 000000 - Christopher Juhn
+	GPRCJ1
+		Images:	51
+		Time:	22.02.2025 09:03:09 until 22.02.2025 15:01:57
+		Duration:	05:58:48
+		Location:	NULL NULL
+
+(17) - 0.0 km PreFinish - 860192 - Paul Kelm
+	GPFPK1
+		Images:	5496
+		Time:	22.02.2025 09:52:41 until 22.02.2025 12:45:00
+		Duration:	02:52:19
+		Location:	NULL NULL
+
+(18) - 0.0 km PreFinish - 860193 - Christopher Juhn
+	GPFCJ1
+		Images:	6785
+		Time:	22.02.2025 09:20:29 until 22.02.2025 12:48:34
+		Duration:	03:28:05
+		Location:	NULL NULL
+
+(19) - 0.0 km PreFinish - 860194 - Brenda Steiger
+	GPFBS1
+		Images:	11454
+		Time:	22.02.2025 08:56:02 until 22.02.2025 13:18:47
+		Duration:	04:22:45
+		Location:	NULL NULL
+
+(20) - 0.0 km PreFinish - 860195 - Trigger One
+	GPFTO1
+(21) - 0.0 km Start & PR - 860185 - Keith Tromiczak
+	GSTKT1
+		Images:	576
+		Time:	22.02.2025 06:14:04 until 22.02.2025 08:01:10
+		Duration:	01:47:06
+		Location:	NULL NULL
+
+(22) - Impressions / Pano
+	PANO1
+(23) - none
+	GFNGP2
+		Images:	257
+		Time:	22.02.2025 15:38:34 until 22.02.2025 16:00:03
+		Duration:	00:21:29
+		Location:	NULL NULL
+
+	GFNKT2
+	GFNPR2
+		Images:	627
+		Time:	22.02.2025 13:47:03 until 22.02.2025 17:08:43
+		Duration:	03:21:40
+		Location:	NULL NULL
+
+	GMDJP2
+	GMDLK2
+		Images:	322
+		Time:	22.02.2025 14:00:45 until 22.02.2025 16:59:57
+		Duration:	02:59:12
+		Location:	NULL NULL
+
+	GMDPO2
+		Images:	395
+		Time:	22.02.2025 14:00:14 until 22.02.2025 16:03:20
+		Duration:	02:03:06
+		Location:	NULL NULL
+
+	GMOGP2
+		Images:	25855
+		Time:	21.02.2025 09:20:49 until 22.02.2025 10:37:59
+		Duration:	1.01:17:10
+		Location:	NULL NULL
+
+	GPFBS2
+		Images:	862
+		Time:	22.02.2025 13:21:40 until 22.02.2025 13:43:30
+		Duration:	00:21:50
+		Location:	NULL NULL
+
+	GPFBS3
+		Images:	3031
+		Time:	22.02.2025 13:44:58 until 22.02.2025 16:11:01
+		Duration:	02:26:03
+		Location:	NULL NULL
+
+	GPFCJ2
+		Images:	4352
+		Time:	22.02.2025 12:49:11 until 22.02.2025 15:24:39
+		Duration:	02:35:28
+		Location:	NULL NULL
+
+	GPFCJ3
+		Images:	503
+		Time:	22.02.2025 15:36:03 until 22.02.2025 16:54:48
+		Duration:	01:18:45
+		Location:	NULL NULL
+
+	GPFPK2
+		Images:	5002
+		Time:	22.02.2025 12:45:48 until 22.02.2025 17:05:43
+		Duration:	04:19:55
+		Location:	NULL NULL
+

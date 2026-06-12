@@ -1,0 +1,99 @@
+EventId: 13865
+Spots: 15
+Total Images: 68426
+Time:	10.08.2025 06:42:00 to 10.10.2025 14:28:18
+Duration: 61.07:46:18
+
+(1) - Start/Finish
+	ROH1
+		Images:	13213
+		Time:	10.08.2025 07:45:18 until 10.08.2025 14:46:54
+		Duration:	07:01:36
+		Location:	NULL NULL
+
+	ROH1LS1
+		Images:	4246
+		Time:	10.08.2025 07:37:34 until 10.08.2025 14:38:57
+		Duration:	07:01:23
+		Location:	NULL NULL
+
+	ROH1LS2
+		Images:	4660
+		Time:	10.08.2025 07:31:13 until 10.08.2025 14:38:53
+		Duration:	07:07:40
+		Location:	NULL NULL
+
+(2) - 0,8 km Terrassenufer mit Italienischem Dörfchen und Basteischlösschen
+	PMA1
+		Images:	4311
+		Time:	10.08.2025 06:42:00 until 10.08.2025 13:49:37
+		Duration:	07:07:37
+		Location:	NULL NULL
+
+(3) - 2,3 km Graffiti Könneritzstraße
+	REM1
+		Images:	3010
+		Time:	10.08.2025 08:16:01 until 10.08.2025 14:28:12
+		Duration:	06:12:11
+		Location:	NULL NULL
+
+	REM1LS1
+		Images:	2833
+		Time:	10.08.2025 08:20:36 until 10.08.2025 14:20:13
+		Duration:	05:59:37
+		Location:	NULL NULL
+
+(4) - 5,5 km Rudolf-Harbig-Stadion
+	NH1
+		Images:	6546
+		Time:	10.08.2025 07:57:26 until 10.08.2025 14:14:30
+		Duration:	06:17:04
+		Location:	NULL NULL
+
+(5) - 6,3 km Gläserne Manufaktur
+	TIM1
+		Images:	5030
+		Time:	10.08.2025 08:35:32 until 10.08.2025 14:30:14
+		Duration:	05:54:42
+		Location:	NULL NULL
+
+	TIM1LS1
+		Images:	1802
+		Time:	10.08.2025 08:14:11 until 10.08.2025 14:39:40
+		Duration:	06:25:29
+		Location:	NULL NULL
+
+(6) - 11,7 km Käthe-Kollwitz-Ufer
+	GUD1
+		Images:	7697
+		Time:	10.08.2025 08:32:53 until 10.08.2025 14:34:54
+		Duration:	06:02:01
+		Location:	NULL NULL
+
+	GUD1LS1
+		Images:	1766
+		Time:	10.08.2025 09:54:59 until 10.08.2025 14:28:18
+		Duration:	04:33:19
+		Location:	NULL NULL
+
+	GUD1LS2
+		Images:	2399
+		Time:	10.10.2025 08:53:08 until 10.10.2025 14:28:18
+		Duration:	05:35:10
+		Location:	NULL NULL
+
+(7) - 13,0 km Käthe-Kollwitz-Ufer
+	RIS1
+		Images:	9456
+		Time:	10.08.2025 08:57:09 until 10.08.2025 14:44:57
+		Duration:	05:47:48
+		Location:	NULL NULL
+
+(8) - Impressions / Pano
+	DAR1
+		Images:	1457
+		Time:	10.08.2025 07:51:45 until 10.08.2025 15:08:33
+		Duration:	07:16:48
+		Location:	NULL NULL
+
+	PANO1

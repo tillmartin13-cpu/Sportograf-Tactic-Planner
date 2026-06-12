@@ -1,0 +1,123 @@
+EventId: 13907
+Spots: 18
+Total Images: 70711
+Time:	25.05.2025 05:37:16 to 25.05.2025 16:31:45
+Duration: 10:54:29
+
+(1) - Start Lausanne-Lausanne
+	LOL1
+		Images:	3444
+		Time:	25.05.2025 05:37:16 until 25.05.2025 07:17:29
+		Duration:	01:40:13
+		Location:	46.50679 6.62631
+
+(2) - km 10
+	LAPO1
+		Images:	2428
+		Time:	25.05.2025 06:10:28 until 25.05.2025 09:01:41
+		Duration:	02:51:13
+		Location:	46.48878 6.74717
+
+(3) - km 15
+	LUB1
+		Images:	2377
+		Time:	25.05.2025 06:00:56 until 25.05.2025 09:27:43
+		Duration:	03:26:47
+		Location:	46.47425 6.79070
+
+(4) - km 34
+	AMU1
+		Images:	5935
+		Time:	25.05.2025 06:47:52 until 25.05.2025 10:33:06
+		Duration:	03:45:14
+		Location:	46.37509 6.90115
+
+	AMU1DRONE1
+		Images:	24
+		Time:	25.05.2025 08:58:07 until 25.05.2025 15:22:22
+		Duration:	06:24:15
+		Location:	46.37509 6.90115
+
+(5) - Start Evian-Lausanne
+	CAIS1
+		Images:	676
+		Time:	25.05.2025 07:32:49 until 25.05.2025 08:22:46
+		Duration:	00:49:57
+		Location:	46.40154 6.60066
+
+(6) - Km 64
+	CAIS2
+		Images:	3391
+		Time:	25.05.2025 08:34:48 until 25.05.2025 11:47:19
+		Duration:	03:12:31
+		Location:	46.40185 6.58703
+
+(7) - Km 72 / Km 8
+	GAT1
+		Images:	8361
+		Time:	25.05.2025 07:08:22 until 25.05.2025 11:28:33
+		Duration:	04:20:11
+		Location:	46.38395 6.48269
+
+(8) - Km 75 / Km 11
+	EB1
+		Images:	7458
+		Time:	25.05.2025 07:46:56 until 25.05.2025 11:39:06
+		Duration:	03:52:10
+		Location:	46.37125 6.47129
+
+	EB1LS2
+		Images:	2166
+		Time:	25.05.2025 07:58:04 until 25.05.2025 12:06:06
+		Duration:	04:08:02
+		Location:	46.37125 6.47129
+
+	EB1LS1
+		Images:	4113
+		Time:	25.05.2025 07:28:34 until 25.05.2025 11:57:25
+		Duration:	04:28:51
+		Location:	46.37125 6.47129
+
+(9) - Km 115 / 51 Km
+	LEBE1
+		Images:	5800
+		Time:	25.05.2025 08:46:54 until 25.05.2025 13:21:09
+		Duration:	04:34:15
+		Location:	46.20858 6.16519
+
+(10) - Km 117 / 53 Km
+	ELLA1
+		Images:	7805
+		Time:	25.05.2025 08:52:06 until 25.05.2025 13:32:44
+		Duration:	04:40:38
+		Location:	46.21748 6.15075
+
+(11) - Km 151 / 87 Km
+	AMU2
+		Images:	3454
+		Time:	25.05.2025 10:34:49 until 25.05.2025 14:23:54
+		Duration:	03:49:05
+		Location:	46.46006 6.34102
+
+(12) - Km 155 / Km 91
+	LAPO2
+		Images:	4102
+		Time:	25.05.2025 10:30:52 until 25.05.2025 15:28:58
+		Duration:	04:58:06
+		Location:	46.46783 6.38739
+
+	LUB2
+		Images:	4378
+		Time:	25.05.2025 10:39:34 until 25.05.2025 15:25:01
+		Duration:	04:45:27
+		Location:	46.46826 6.38983
+
+(13) - Finish
+	LOL2
+		Images:	4799
+		Time:	25.05.2025 10:04:46 until 25.05.2025 16:31:45
+		Duration:	06:26:59
+		Location:	46.50679 6.62631
+
+(14) - Impressions / Pano
+	PANO1

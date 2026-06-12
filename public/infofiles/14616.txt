@@ -1,0 +1,121 @@
+EventId: 14616
+Spots: 17
+Total Images: 71917
+Time:	22.08.2025 18:27:01 to 23.08.2025 16:11:06
+Duration: 21:44:05
+
+(1) - Obstacle 7 Bucket Carry
+	MKI1
+		Images:	9175
+		Time:	22.08.2025 21:58:19 until 23.08.2025 12:48:56
+		Duration:	14:50:37
+		Location:	38.37437 -121.34160
+
+(2) - Obstacle 9 Atlas Carry
+	DEST1
+		Images:	6004
+		Time:	22.08.2025 22:48:22 until 23.08.2025 13:06:44
+		Duration:	14:18:22
+		Location:	38.37097 -121.33768
+
+	HOG1
+		Images:	4011
+		Time:	22.08.2025 22:54:25 until 23.08.2025 12:37:57
+		Duration:	13:43:32
+		Location:	38.37097 -121.33768
+
+(3) - Obstacle 11 Barbed Wire Crawl
+	RUMU1
+		Images:	2148
+		Time:	22.08.2025 20:44:43 until 23.08.2025 13:38:14
+		Duration:	16:53:31
+		Location:	38.36904 -121.33317
+
+(4) - Obstacle 12 Multi-Rig
+	DANG1
+		Images:	6895
+		Time:	23.08.2025 07:27:24 until 23.08.2025 13:27:37
+		Duration:	06:00:13
+		Location:	38.36894 -121.33451
+
+	MAT1
+		Images:	9027
+		Time:	23.08.2025 06:50:56 until 23.08.2025 13:28:00
+		Duration:	06:37:04
+		Location:	38.36894 -121.33451
+
+(5) - Trail by Barbed Wire Crawl
+	DANG1LS1
+		Images:	1894
+		Time:	23.08.2025 07:26:43 until 23.08.2025 12:47:16
+		Duration:	05:20:33
+		Location:	38.36935 -121.33427
+
+	MAT1LS1
+		Images:	1941
+		Time:	23.08.2025 07:26:53 until 23.08.2025 12:47:26
+		Duration:	05:20:33
+		Location:	38.36935 -121.33427
+
+(6) - Obstacle 13 Sand Bag Carry
+	AIPA1
+		Images:	4007
+		Time:	23.08.2025 05:54:14 until 23.08.2025 13:33:28
+		Duration:	07:39:14
+		Location:	38.36818 -121.33411
+
+(7) - Obstacle 15 Vertical Cargo
+	DDS1
+		Images:	5418
+		Time:	22.08.2025 20:26:05 until 23.08.2025 13:48:53
+		Duration:	17:22:48
+		Location:	38.36967 -121.33182
+
+(8) - Obstacle 24 Rolling Mud
+	TERT1
+		Images:	1495
+		Time:	22.08.2025 18:27:01 until 23.08.2025 04:01:24
+		Duration:	09:34:23
+		Location:	38.37240 -121.33091
+
+(9) - Obstacle 25 Dunk Wall
+	DMCI1
+		Images:	3571
+		Time:	22.08.2025 21:37:19 until 23.08.2025 16:04:07
+		Duration:	18:26:48
+		Location:	38.37240 -121.33091
+
+	DMCI1LS1
+		Images:	3618
+		Time:	22.08.2025 21:49:22 until 23.08.2025 16:04:07
+		Duration:	18:14:45
+		Location:	38.37240 -121.33091
+
+(10) - Obstacle 21 Bender
+	DVAL1
+		Images:	8418
+		Time:	23.08.2025 05:40:46 until 23.08.2025 15:42:29
+		Duration:	10:01:43
+		Location:	38.36884 -121.33082
+
+(11) - Herotent
+	AMON1
+		Images:	3306
+		Time:	22.08.2025 22:24:28 until 23.08.2025 16:11:06
+		Duration:	17:46:38
+		Location:	38.37205 -121.33221
+
+(12) - Random/Promo
+	MCAR1
+		Images:	949
+		Time:	23.08.2025 06:50:56 until 23.08.2025 10:30:57
+		Duration:	03:40:01
+		Location:	38.37205 -121.33221
+
+(13) - Drone
+	MCAR1IMP1
+		Images:	40
+		Time:	23.08.2025 09:32:19 until 23.08.2025 10:06:00
+		Duration:	00:33:41
+		Location:	38.37205 -121.33221
+

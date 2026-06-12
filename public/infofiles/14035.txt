@@ -1,0 +1,136 @@
+EventId: 14035
+Spots: 20
+Total Images: 101192
+Time:	04.04.2025 11:55:50 to 05.04.2025 15:27:12
+Duration: 1.03:31:22
+
+(1) - Herotent
+	ANGA1
+		Images:	3884
+		Time:	05.04.2025 07:21:43 until 05.04.2025 15:22:23
+		Duration:	08:00:40
+		Location:	34.07436 -118.24030
+
+	MKI7
+		Images:	187
+		Time:	05.04.2025 13:59:10 until 05.04.2025 14:27:06
+		Duration:	00:27:56
+		Location:	34.07441 -118.23987
+
+(2) - Obstacle 20
+	DMI1
+		Images:	7044
+		Time:	04.04.2025 11:55:50 until 05.04.2025 15:19:29
+		Duration:	1.03:23:39
+		Location:	34.07385 -118.23951
+
+	NIMA3
+		Images:	257
+		Time:	05.04.2025 13:30:49 until 05.04.2025 13:57:44
+		Duration:	00:26:55
+		Location:	34.07384 -118.23918
+
+(3) - Obstacle 22
+	FREM1
+		Images:	11368
+		Time:	04.04.2025 20:51:02 until 05.04.2025 15:27:12
+		Duration:	18:36:10
+		Location:	34.07430 -118.24210
+
+	MKI6
+		Images:	1185
+		Time:	05.04.2025 13:34:45 until 05.04.2025 13:56:17
+		Duration:	00:21:32
+		Location:	34.07430 -118.24210
+
+(4) - Obstacle 9
+	HJP1
+		Images:	12111
+		Time:	05.04.2025 07:11:57 until 05.04.2025 14:21:16
+		Duration:	07:09:19
+		Location:	34.07315 -118.23923
+
+	MKI2
+		Images:	1564
+		Time:	05.04.2025 11:27:53 until 05.04.2025 11:50:59
+		Duration:	00:23:06
+		Location:	34.07315 -118.24180
+
+(5) - Obstacle 12
+	MATA1
+		Images:	10736
+		Time:	05.04.2025 06:50:48 until 05.04.2025 14:49:32
+		Duration:	07:58:44
+		Location:	34.07443 -118.24180
+
+	MKI4
+		Images:	854
+		Time:	05.04.2025 12:30:59 until 05.04.2025 12:55:35
+		Duration:	00:24:36
+		Location:	34.07384 -118.24128
+
+(6) - Obstacle 5
+	MKI1
+		Images:	1126
+		Time:	04.04.2025 19:51:02 until 05.04.2025 11:23:25
+		Duration:	15:32:23
+		Location:	34.07389 -118.23847
+
+	JOG1
+		Images:	9978
+		Time:	05.04.2025 06:26:33 until 05.04.2025 14:05:51
+		Duration:	07:39:18
+		Location:	34.07389 -118.24104
+
+(7) - Obstacle 11
+	MKI3
+		Images:	1508
+		Time:	05.04.2025 11:55:30 until 05.04.2025 12:28:34
+		Duration:	00:33:04
+		Location:	34.07373 -118.24105
+
+	MRI1
+		Images:	4296
+		Time:	05.04.2025 06:59:35 until 05.04.2025 14:33:53
+		Duration:	07:34:18
+		Location:	34.07265 -118.24097
+
+	RYP1
+		Images:	8613
+		Time:	05.04.2025 06:50:38 until 05.04.2025 14:38:28
+		Duration:	07:47:50
+		Location:	34.07265 -118.24097
+
+(8) - Obstacle 15
+	MKI5
+		Images:	1426
+		Time:	05.04.2025 13:04:10 until 05.04.2025 13:25:45
+		Duration:	00:21:35
+		Location:	34.07372 -118.24183
+
+	RMU1
+		Images:	16931
+		Time:	05.04.2025 05:36:22 until 05.04.2025 15:04:01
+		Duration:	09:27:39
+		Location:	34.07327 -118.24140
+
+(9) - Imps
+	NIMA1
+		Images:	247
+		Time:	05.04.2025 07:30:48 until 05.04.2025 10:06:10
+		Duration:	02:35:22
+		Location:	34.07289 -118.24283
+
+(10) - Obstacle 17
+	NIMA2
+		Images:	131
+		Time:	05.04.2025 13:13:20 until 05.04.2025 13:18:07
+		Duration:	00:04:47
+		Location:	34.07346 -118.24309
+
+	TUD1
+		Images:	7746
+		Time:	05.04.2025 07:08:47 until 05.04.2025 15:18:22
+		Duration:	08:09:35
+		Location:	34.07346 -118.24309
+

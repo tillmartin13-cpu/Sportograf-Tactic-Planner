@@ -1,0 +1,117 @@
+EventId: 13610
+Spots: 17
+Total Images: 77060
+Time:	18.05.2025 06:46:46 to 18.05.2025 16:24:24
+Duration: 09:37:38
+
+(1) - Swim - Transition zone
+	ARF1
+		Images:	3286
+		Time:	18.05.2025 06:58:02 until 18.05.2025 09:03:47
+		Duration:	02:05:45
+		Location:	43.65596 5.58015
+
+	MAPA1
+		Images:	4287
+		Time:	18.05.2025 07:00:25 until 18.05.2025 09:03:42
+		Duration:	02:03:17
+		Location:	43.65596 5.58015
+
+(2) - Bike - Transition zone
+	ALL1
+		Images:	5956
+		Time:	18.05.2025 06:46:46 until 18.05.2025 09:05:00
+		Duration:	02:18:14
+		Location:	43.65208 5.58249
+
+	ALL1LS1
+		Images:	2188
+		Time:	18.05.2025 07:07:35 until 18.05.2025 09:04:59
+		Duration:	01:57:24
+		Location:	43.65208 5.58249
+
+(3) - Finish
+	ALL2
+		Images:	6586
+		Time:	18.05.2025 10:28:12 until 18.05.2025 16:24:24
+		Duration:	05:56:12
+		Location:	43.52657 5.44389
+
+	ALL2LS1
+		Images:	2345
+		Time:	18.05.2025 10:00:07 until 18.05.2025 16:23:35
+		Duration:	06:23:28
+		Location:	43.52657 5.44389
+
+	ARF2
+		Images:	6820
+		Time:	18.05.2025 10:12:27 until 18.05.2025 16:24:07
+		Duration:	06:11:40
+		Location:	43.52657 5.44389
+
+	CC2
+		Images:	3603
+		Time:	18.05.2025 10:52:43 until 18.05.2025 16:24:03
+		Duration:	05:31:20
+		Location:	43.52657 5.44389
+
+(4) - Swim - Start
+	CC1
+		Images:	1655
+		Time:	18.05.2025 06:53:11 until 18.05.2025 08:22:07
+		Duration:	01:28:56
+		Location:	43.65596 5.58015
+
+	GABO1
+		Images:	1441
+		Time:	18.05.2025 06:51:19 until 18.05.2025 08:17:52
+		Duration:	01:26:33
+		Location:	43.65596 5.58015
+
+(5) - Bike - 90.0 km
+	DART1
+		Images:	8822
+		Time:	18.05.2025 08:01:35 until 18.05.2025 13:21:19
+		Duration:	05:19:44
+		Location:	43.51969 5.54055
+
+(6) - Run - 15.0 km
+	GABO2
+		Images:	8919
+		Time:	18.05.2025 10:14:06 until 18.05.2025 15:59:58
+		Duration:	05:45:52
+		Location:	43.52233 5.46264
+
+(7) - Bike - 50.0 km
+	LEBE1
+		Images:	4118
+		Time:	18.05.2025 08:47:28 until 18.05.2025 12:12:25
+		Duration:	03:24:57
+		Location:	43.51001 5.71695
+
+	LEBE1DRONE1
+		Images:	41
+		Time:	18.05.2025 08:12:52 until 18.05.2025 09:34:43
+		Duration:	01:21:51
+		Location:	43.51001 5.71695
+
+	LEBE1LS1
+		Images:	804
+		Time:	18.05.2025 07:47:31 until 18.05.2025 12:15:54
+		Duration:	04:28:23
+		Location:	43.51001 5.71695
+
+(8) - Run - 3.0 km
+	MAPA2
+		Images:	11872
+		Time:	18.05.2025 09:54:37 until 18.05.2025 16:16:50
+		Duration:	06:22:13
+		Location:	43.52533 5.44759
+
+(9) - Bike - 70.0 km
+	PINO1
+		Images:	4317
+		Time:	18.05.2025 09:04:39 until 18.05.2025 13:01:09
+		Duration:	03:56:30
+		Location:	43.50480 5.61324
+

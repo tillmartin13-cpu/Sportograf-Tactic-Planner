@@ -1,0 +1,80 @@
+EventId: 13569
+Spots: 12
+Total Images: 9623
+Time:	28.09.2025 07:08:47 to 28.09.2025 14:14:51
+Duration: 07:06:04
+
+(1) - 20.0 km
+	CRP1
+		Images:	2747
+		Time:	28.09.2025 07:08:47 until 28.09.2025 09:18:17
+		Duration:	02:09:30
+		Location:	-33.33549 -71.45860
+
+	FO2
+		Images:	784
+		Time:	28.09.2025 08:43:05 until 28.09.2025 09:35:15
+		Duration:	00:52:10
+		Location:	-33.30141 -71.47505
+
+	FO2LS1
+		Images:	1354
+		Time:	28.09.2025 08:40:28 until 28.09.2025 09:37:32
+		Duration:	00:57:04
+		Location:	-33.30141 -71.47505
+
+	LUAL2
+		Images:	989
+		Time:	28.09.2025 08:42:20 until 28.09.2025 09:42:06
+		Duration:	00:59:46
+		Location:	-33.29896 -71.47480
+
+(2) - Finish
+	CRP2
+		Images:	2037
+		Time:	28.09.2025 10:23:28 until 28.09.2025 13:06:43
+		Duration:	02:43:15
+		Location:	-33.36556 -71.30327
+
+(3) - Start
+	FO1
+		Images:	161
+		Time:	28.09.2025 07:23:26 until 28.09.2025 07:59:24
+		Duration:	00:35:58
+		Location:	-33.36556 -71.30327
+
+	LUAL1
+		Images:	74
+		Time:	28.09.2025 07:37:43 until 28.09.2025 07:47:17
+		Duration:	00:09:34
+		Location:	-33.36556 -71.30327
+
+(4) - 70.0 km
+	FO3
+		Images:	513
+		Time:	28.09.2025 10:18:40 until 28.09.2025 11:34:33
+		Duration:	01:15:53
+		Location:	-33.26546 -71.64458
+
+	LUAL3
+		Images:	722
+		Time:	28.09.2025 10:14:52 until 28.09.2025 11:51:41
+		Duration:	01:36:49
+		Location:	-33.26656 -71.64185
+
+(5) - Ceremony
+	LUAL4
+		Images:	57
+		Time:	28.09.2025 12:57:48 until 28.09.2025 13:53:43
+		Duration:	00:55:55
+		Location:	-33.37036 -71.29705
+
+(6) - Drone
+	LUAL4DRONE1
+		Images:	185
+		Time:	28.09.2025 07:31:07 until 28.09.2025 14:14:51
+		Duration:	06:43:44
+		Location:	-33.37036 -71.29705
+
+(7) - Impressions / Pano
+	PANO1

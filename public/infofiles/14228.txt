@@ -1,0 +1,150 @@
+EventId: 14228
+Spots: 23
+Total Images: 113349
+Time:	14.09.2025 07:23:59 to 14.09.2025 16:44:48
+Duration: 09:20:49
+
+(1) - Swim - Start
+	KKI1
+		Images:	1989
+		Time:	14.09.2025 07:23:59 until 14.09.2025 08:51:19
+		Duration:	01:27:20
+		Location:	52.42551 13.74195
+
+	MOHI1
+		Images:	4035
+		Time:	14.09.2025 07:33:30 until 14.09.2025 08:51:23
+		Duration:	01:17:53
+		Location:	52.42553 13.74198
+
+(2) - Swim - Exit
+	HKU1
+		Images:	4506
+		Time:	14.09.2025 07:33:49 until 14.09.2025 09:59:22
+		Duration:	02:25:33
+		Location:	52.42571 13.74172
+
+	TIM1
+		Images:	3783
+		Time:	14.09.2025 07:59:17 until 14.09.2025 09:59:20
+		Duration:	02:00:03
+		Location:	52.42571 13.74172
+
+(3) - Bike - km 22,8+65,3 - Großer Kienhorst
+	ROH1
+		Images:	9749
+		Time:	14.09.2025 08:19:39 until 14.09.2025 12:32:30
+		Duration:	04:12:51
+		Location:	52.38310 13.89703
+
+	ROH1LS1
+		Images:	3549
+		Time:	14.09.2025 08:14:45 until 14.09.2025 12:49:27
+		Duration:	04:34:42
+		Location:	52.38310 13.89703
+
+(4) - Bike - km 23,2+65,7 - Spreebrücke Mönchwinkel
+	GUD1
+		Images:	14743
+		Time:	14.09.2025 09:01:05 until 14.09.2025 12:33:35
+		Duration:	03:32:30
+		Location:	52.38386 13.89127
+
+	GUD1LS1
+		Images:	4161
+		Time:	14.09.2025 08:25:51 until 14.09.2025 12:43:06
+		Duration:	04:17:15
+		Location:	52.38386 13.89127
+
+	GUD1LS2
+		Images:	4115
+		Time:	14.09.2025 08:25:58 until 14.09.2025 12:43:06
+		Duration:	04:17:08
+		Location:	52.38386 13.89127
+
+(5) - Impressions / Pano
+	GUD1DRONE1
+		Images:	9
+		Time:	14.09.2025 08:42:45 until 14.09.2025 08:47:11
+		Duration:	00:04:26
+		Location:	52.38386 13.89127
+
+	PANO1
+(6) - Bike - km 35,6+78,2 - Sieverslaker Straße bei Storkowfurt
+	EBO1
+		Images:	10983
+		Time:	14.09.2025 08:58:28 until 14.09.2025 13:07:10
+		Duration:	04:08:42
+		Location:	52.36734 13.82019
+
+(7) - Bike - km 36,7+79,4 - Alte Weide Freienbrink
+	ADRE1
+		Images:	8322
+		Time:	14.09.2025 08:08:38 until 14.09.2025 13:10:07
+		Duration:	05:01:29
+		Location:	52.37034 13.80706
+
+(8) - Run - km 0,9 - Rathaus Erkner
+	KKI2
+		Images:	3492
+		Time:	14.09.2025 10:22:01 until 14.09.2025 15:55:47
+		Duration:	05:33:46
+		Location:	52.42300 13.74969
+
+(9) - Run - km 4,5 - Uferstraße Erkner
+	GUD2
+		Images:	4991
+		Time:	14.09.2025 14:00:05 until 14.09.2025 15:16:10
+		Duration:	01:16:05
+		Location:	52.42063 13.74254
+
+	ROH2
+		Images:	2441
+		Time:	14.09.2025 13:59:36 until 14.09.2025 15:16:16
+		Duration:	01:16:40
+		Location:	52.42063 13.74254
+
+(10) - Run - km 5,4 - Uferpromenade Erkner
+	MOHI2
+		Images:	8797
+		Time:	14.09.2025 10:53:10 until 14.09.2025 16:32:59
+		Duration:	05:39:49
+		Location:	52.42409 13.75231
+
+(11) - Finish
+	HKU2
+		Images:	7795
+		Time:	14.09.2025 11:49:48 until 14.09.2025 16:44:35
+		Duration:	04:54:47
+		Location:	52.42621 13.74485
+
+	TIM2
+		Images:	9229
+		Time:	14.09.2025 11:49:50 until 14.09.2025 16:44:48
+		Duration:	04:54:58
+		Location:	52.42621 13.74485
+
+	TIM2LS1
+		Images:	1619
+		Time:	14.09.2025 07:44:08 until 14.09.2025 16:31:47
+		Duration:	08:47:39
+		Location:	52.42621 13.74485
+
+	TIM2LS2
+		Images:	1513
+		Time:	14.09.2025 07:30:02 until 14.09.2025 16:25:48
+		Duration:	08:55:46
+		Location:	52.42621 13.74485
+
+	ADRE2
+		Images:	1262
+		Time:	14.09.2025 14:12:53 until 14.09.2025 16:44:40
+		Duration:	02:31:47
+		Location:	52.42621 13.74485
+
+	EBO2
+		Images:	2266
+		Time:	14.09.2025 14:11:37 until 14.09.2025 16:40:51
+		Duration:	02:29:14
+		Location:	52.42621 13.74485
+

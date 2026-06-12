@@ -1,0 +1,173 @@
+EventId: 14378
+Spots: 26
+Total Images: 52182
+Time:	01.01.0001 23:00:00 to 02.11.2025 11:29:05
+Duration: 739555.12:29:05
+
+(1) - Salida SDT
+	PARO1
+		Images:	294
+		Time:	31.10.2025 20:10:45 until 02.11.2025 09:10:25
+		Duration:	1.12:59:40
+		Location:	39.65817 2.47103
+
+	JMP1
+		Images:	260
+		Time:	31.10.2025 20:05:02 until 02.11.2025 09:11:15
+		Duration:	1.13:06:13
+		Location:	39.65817 2.47103
+
+(2) - SDT - Km 1,3
+	MANR1
+		Images:	395
+		Time:	31.10.2025 20:19:43 until 02.11.2025 09:06:57
+		Duration:	1.12:47:14
+		Location:	39.65393 2.48055
+
+(3) - SDT - Km 1,4
+	JLTG1
+		Images:	533
+		Time:	31.10.2025 18:25:06 until 31.10.2025 21:17:56
+		Duration:	02:52:50
+		Location:	39.65369 2.48112
+
+	TGM1
+		Images:	202
+		Time:	31.10.2025 21:07:28 until 02.11.2025 08:42:15
+		Duration:	1.11:34:47
+		Location:	39.65342 2.48158
+
+(4) - ETM - Km 7,9
+	PARO2
+		Images:	1708
+		Time:	01.11.2025 07:32:23 until 01.11.2025 08:26:14
+		Duration:	00:53:51
+		Location:	39.80563 2.89667
+
+	PARO2LS1
+		Images:	762
+		Time:	01.11.2025 06:48:10 until 01.11.2025 08:27:38
+		Duration:	01:39:28
+		Location:	39.80563 2.89667
+
+(5) - SDT - Km 108 ; CPS - Km 104 ; ETM - Km 23
+	JLTG2
+		Images:	3551
+		Time:	01.11.2025 08:39:26 until 01.11.2025 21:25:09
+		Duration:	12:45:43
+		Location:	39.79414 2.81856
+
+	JLTG2LS1
+		Images:	1343
+		Time:	01.11.2025 07:01:25 until 01.11.2025 17:22:18
+		Duration:	10:20:53
+		Location:	39.79414 2.81856
+
+	JLTG2LS2
+		Images:	1374
+		Time:	01.11.2025 06:42:52 until 01.11.2025 17:10:06
+		Duration:	10:27:14
+		Location:	39.79414 2.81856
+
+(6) - SDT - Km 110,6 ; CPS - Km 76,4 ; ETM - Km 25
+	MANR2
+		Images:	4181
+		Time:	01.11.2025 06:17:52 until 01.11.2025 21:19:12
+		Duration:	15:01:20
+		Location:	39.78682 2.79887
+
+	MANR2LS2
+		Images:	1755
+		Time:	01.11.2025 08:58:09 until 01.11.2025 21:07:00
+		Duration:	12:08:51
+		Location:	39.78682 2.79887
+
+	MANR2LS1
+		Images:	1651
+		Time:	01.11.2025 08:45:24 until 01.11.2025 21:07:06
+		Duration:	12:21:42
+		Location:	39.78682 2.79887
+
+(7) - SDT - Km 117 ; CPS - Km 83,2 ; ETM - Km 35,4
+	TGM2
+		Images:	3320
+		Time:	01.11.2025 08:55:18 until 01.11.2025 22:53:26
+		Duration:	13:58:08
+		Location:	39.76662 2.74600
+
+	TGM2LS1
+		Images:	1768
+		Time:	01.11.2025 07:37:34 until 01.11.2025 23:05:46
+		Duration:	15:28:12
+		Location:	39.76662 2.74600
+
+	TGM2LS2
+		Images:	1811
+		Time:	01.11.2025 08:06:05 until 01.11.2025 22:55:04
+		Duration:	14:48:59
+		Location:	39.76662 2.74600
+
+(8) - SDT - Km 122 ; CPS - Km 88 ; ETM - Km 40,9
+	MPP1
+		Images:	5526
+		Time:	01.11.2025 09:14:42 until 02.11.2025 09:28:59
+		Duration:	1.00:14:17
+		Location:	39.78296 2.74068
+
+	MPP1LS1
+		Images:	1917
+		Time:	01.11.2025 07:32:51 until 01.11.2025 16:14:41
+		Duration:	08:41:50
+		Location:	39.78296 2.74068
+
+(9) - SDT - Km 124,1 ; CPS - Km 89,8 ; ETM - Km 42
+	PARO3
+		Images:	3148
+		Time:	01.11.2025 10:18:02 until 01.11.2025 17:04:10
+		Duration:	06:46:08
+		Location:	39.78385 2.7312
+
+	PARO3LS1
+		Images:	844
+		Time:	01.11.2025 10:37:22 until 01.11.2025 17:09:51
+		Duration:	06:32:29
+		Location:	39.78385 2.7312
+
+(10) - Finish
+	JMP2
+		Images:	4917
+		Time:	01.11.2025 10:35:02 until 02.11.2025 02:24:02
+		Duration:	15:49:00
+		Location:	39.79742 2.69471
+
+	JMP2LS1
+		Images:	3170
+		Time:	01.11.2025 09:39:26 until 02.11.2025 02:25:22
+		Duration:	16:45:56
+		Location:	39.79742 2.69471
+
+	JMP2LS2
+		Images:	3261
+		Time:	01.11.2025 10:01:08 until 02.11.2025 02:36:16
+		Duration:	16:35:08
+		Location:	39.79742 2.69471
+
+	MRG1
+		Images:	2458
+		Time:	01.11.2025 09:33:37 until 02.11.2025 03:24:03
+		Duration:	17:50:26
+		Location:	39.79742 2.69471
+
+	PARO4
+		Images:	2022
+		Time:	01.11.2025 18:48:14 until 01.11.2025 22:19:36
+		Duration:	03:31:22
+		Location:	39.79742 2.69471
+
+(11) - Impressions / Pano
+	PANO1
+		Images:	8
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	39.79742 2.69471
+

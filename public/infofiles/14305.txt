@@ -1,0 +1,151 @@
+EventId: 14305
+Spots: 22
+Total Images: 114016
+Time:	26.09.2025 18:39:29 to 28.09.2025 07:39:21
+Duration: 1.12:59:52
+
+(1) - Obstacle 2 Chain Carry
+	DVAL1
+		Images:	10392
+		Time:	26.09.2025 19:09:07 until 28.09.2025 07:11:58
+		Duration:	1.12:02:51
+		Location:	33.64244 -117.29927
+
+	ALP1
+		Images:	11863
+		Time:	27.09.2025 06:59:40 until 27.09.2025 12:34:57
+		Duration:	05:35:17
+		Location:	33.64244 -117.29927
+
+(2) - Obstacle 7 Atlas Carry
+	AGJ1
+		Images:	4570
+		Time:	26.09.2025 18:40:39 until 28.09.2025 07:17:59
+		Duration:	1.12:37:20
+		Location:	33.63883 -117.29931
+
+	ANGA1
+		Images:	8267
+		Time:	26.09.2025 20:50:47 until 28.09.2025 06:40:34
+		Duration:	1.09:49:47
+		Location:	33.63883 -117.29931
+
+(3) - Obstacle 8 Barbedwire Crawl
+	HJP1
+		Images:	6492
+		Time:	27.09.2025 06:59:23 until 28.09.2025 07:26:42
+		Duration:	1.00:27:19
+		Location:	33.63922 -117.29599
+
+	JOFU3
+		Images:	600
+		Time:	27.09.2025 11:03:33 until 27.09.2025 11:13:43
+		Duration:	00:10:10
+		Location:	33.63922 -117.29599
+
+(4) - Obstacle 9 Multi-Rig
+	MKI1
+		Images:	9645
+		Time:	26.09.2025 18:40:04 until 28.09.2025 06:47:12
+		Duration:	1.12:07:08
+		Location:	33.63856 -117.29558
+
+	ROBL1
+		Images:	7618
+		Time:	27.09.2025 06:40:06 until 28.09.2025 07:02:37
+		Duration:	1.00:22:31
+		Location:	33.63856 -117.29558
+
+(5) - Obstacle 10 Bucket Carry
+	TUD1
+		Images:	8863
+		Time:	27.09.2025 06:28:59 until 28.09.2025 07:18:56
+		Duration:	1.00:49:57
+		Location:	33.63696 -117.29435
+
+(6) - Obstacle 12 Sandbag Carry
+	JO1
+		Images:	3268
+		Time:	26.09.2025 18:39:43 until 27.09.2025 13:38:12
+		Duration:	18:58:29
+		Location:	33.63342 -117.29402
+
+	JO1LS1
+		Images:	1039
+		Time:	27.09.2025 06:54:08 until 28.09.2025 07:13:44
+		Duration:	1.00:19:36
+		Location:	33.63342 -117.29402
+
+	JOFU5
+		Images:	399
+		Time:	27.09.2025 12:08:31 until 27.09.2025 12:29:14
+		Duration:	00:20:43
+		Location:	33.63342 -117.29402
+
+(7) - Obstacle 15 Bender
+	AHB1
+		Images:	9240
+		Time:	27.09.2025 07:11:19 until 28.09.2025 07:39:21
+		Duration:	1.00:28:02
+		Location:	33.63236 -117.29678
+
+	JOFU2
+		Images:	380
+		Time:	27.09.2025 10:32:47 until 27.09.2025 10:53:40
+		Duration:	00:20:53
+		Location:	33.63236 -117.29678
+
+(8) - Obstacle 18 Monkey Bars
+	FREM1
+		Images:	6358
+		Time:	27.09.2025 07:47:46 until 27.09.2025 15:08:01
+		Duration:	07:20:15
+		Location:	33.63694 -117.29536
+
+(9) - Obstacle 21 Plate Drag
+	DDS1
+		Images:	5050
+		Time:	26.09.2025 19:04:28 until 28.09.2025 06:58:28
+		Duration:	1.11:54:00
+		Location:	33.63793 -117.29702
+
+	DMI1
+		Images:	4842
+		Time:	26.09.2025 19:06:52 until 27.09.2025 15:37:40
+		Duration:	20:30:48
+		Location:	33.63793 -117.29702
+
+(10) - Obstacle 24 Slip Wall
+	VMM1
+		Images:	9907
+		Time:	26.09.2025 18:39:29 until 28.09.2025 07:06:25
+		Duration:	1.12:26:56
+		Location:	33.63742 -117.29593
+
+	JOFU4
+		Images:	201
+		Time:	27.09.2025 11:27:32 until 27.09.2025 11:36:01
+		Duration:	00:08:29
+		Location:	33.63742 -117.29593
+
+(11) - Herotent
+	MATA1
+		Images:	4951
+		Time:	27.09.2025 06:59:30 until 28.09.2025 06:59:01
+		Duration:	23:59:31
+		Location:	33.63695 -117.29580
+
+(12) - Obstacle 27 Impressions
+	JOFU1
+		Images:	40
+		Time:	26.09.2025 19:21:13 until 28.09.2025 06:40:09
+		Duration:	1.11:18:56
+		Location:	33.63430 -117.29439
+
+(13) - Impressions / Pano
+	DMI1DRONE1
+		Images:	31
+		Time:	27.09.2025 08:57:54 until 27.09.2025 09:02:38
+		Duration:	00:04:44
+		Location:	33.63793 -117.29702
+

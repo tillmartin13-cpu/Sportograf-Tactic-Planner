@@ -1,0 +1,91 @@
+EventId: 14243
+Spots: 13
+Total Images: 21772
+Time:	30.08.2025 10:21:13 to 31.08.2025 17:12:58
+Duration: 1.06:51:45
+
+(1) - Swim - Start
+	SJA1
+		Images:	280
+		Time:	31.08.2025 08:20:03 until 31.08.2025 09:06:17
+		Duration:	00:46:14
+		Location:	51.37721 6.63322
+
+	WIP1
+		Images:	122
+		Time:	30.08.2025 10:21:13 until 31.08.2025 08:51:58
+		Duration:	22:30:45
+		Location:	51.37721 6.63322
+
+(2) - Swim - Transition zone
+	WIP2
+		Images:	766
+		Time:	31.08.2025 08:54:24 until 31.08.2025 14:44:17
+		Duration:	05:49:53
+		Location:	51.37733 6.63315
+
+(3) - Bike - 1.0 km
+	AG1
+		Images:	5703
+		Time:	31.08.2025 08:46:14 until 31.08.2025 16:16:24
+		Duration:	07:30:10
+		Location:	51.37563 6.63702
+
+	AG1LS2
+		Images:	1376
+		Time:	31.08.2025 08:56:34 until 31.08.2025 16:04:09
+		Duration:	07:07:35
+		Location:	51.37563 6.63702
+
+	AG1LS1
+		Images:	2207
+		Time:	31.08.2025 08:56:14 until 31.08.2025 16:08:47
+		Duration:	07:12:33
+		Location:	51.37563 6.63702
+
+(4) - Bike - Transition zone
+	SJA2
+		Images:	666
+		Time:	31.08.2025 09:08:26 until 31.08.2025 10:53:35
+		Duration:	01:45:09
+		Location:	51.37733 6.63315
+
+(5) - Run - 4.0 km
+	SJA3
+		Images:	2948
+		Time:	31.08.2025 10:53:54 until 31.08.2025 16:41:49
+		Duration:	05:47:55
+		Location:	51.37942 6.63164
+
+	SJA3LS1
+		Images:	3251
+		Time:	31.08.2025 10:21:48 until 31.08.2025 16:44:20
+		Duration:	06:22:32
+		Location:	51.37942 6.63164
+
+(6) - Finish
+	WIP3
+		Images:	2980
+		Time:	31.08.2025 10:00:49 until 31.08.2025 17:12:58
+		Duration:	07:12:09
+		Location:	51.37837 6.63293
+
+	WIP3LS1
+		Images:	1389
+		Time:	30.08.2025 10:27:13 until 31.08.2025 17:10:05
+		Duration:	1.06:42:52
+		Location:	51.37837 6.63293
+
+(7) - Impressions / Pano
+	AG1DRONE1
+		Images:	24
+		Time:	31.08.2025 12:42:32 until 31.08.2025 12:49:05
+		Duration:	00:06:33
+		Location:	51.37563 6.63702
+
+	PANO1
+		Images:	60
+		Time:	31.08.2025 07:40:25 until 31.08.2025 16:55:56
+		Duration:	09:15:31
+		Location:	NULL NULL
+

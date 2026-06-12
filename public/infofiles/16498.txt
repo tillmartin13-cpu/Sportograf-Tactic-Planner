@@ -1,0 +1,26 @@
+EventId: 16498
+Spots: 3
+Total Images: 3219
+Time:	11.05.2025 08:24:21 to 11.05.2025 10:14:17
+Duration: 01:49:56
+
+(1) - Finish
+	PK1
+		Images:	2366
+		Time:	11.05.2025 09:08:11 until 11.05.2025 10:04:01
+		Duration:	00:55:50
+		Location:	40.69014 -74.01840
+
+(2) - Start
+	PK2
+		Images:	450
+		Time:	11.05.2025 08:57:45 until 11.05.2025 09:03:14
+		Duration:	00:05:29
+		Location:	40.69014 -74.01840
+
+	PK3
+		Images:	403
+		Time:	11.05.2025 08:24:21 until 11.05.2025 10:14:17
+		Duration:	01:49:56
+		Location:	40.69083 -74.01899
+

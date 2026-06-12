@@ -1,0 +1,96 @@
+EventId: 14868
+Spots: 14
+Total Images: 17394
+Time:	01.01.2016 01:00:03 to 14.06.2025 17:13:41
+Duration: 3452.16:13:38
+
+(1) - Obstacle 10 Bucket Carry
+	BECK1
+		Images:	1410
+		Time:	13.06.2025 20:06:02 until 14.06.2025 10:51:22
+		Duration:	14:45:20
+		Location:	NULL NULL
+
+	BECK1LS2
+		Images:	2155
+		Time:	13.06.2025 19:56:09 until 13.06.2025 22:48:41
+		Duration:	02:52:32
+		Location:	NULL NULL
+
+	BECK1LS1
+		Images:	968
+		Time:	13.06.2025 19:48:39 until 13.06.2025 22:47:46
+		Duration:	02:59:07
+		Location:	NULL NULL
+
+(2) - Obstacle 14 Small A-Frame
+	TNR1
+		Images:	1105
+		Time:	13.06.2025 20:34:32 until 14.06.2025 09:36:26
+		Duration:	13:01:54
+		Location:	NULL NULL
+
+	TNR1LS1
+		Images:	3947
+		Time:	13.06.2025 19:59:06 until 14.06.2025 08:56:20
+		Duration:	12:57:14
+		Location:	NULL NULL
+
+	TNR1LS2
+		Images:	1732
+		Time:	13.06.2025 20:15:27 until 13.06.2025 22:05:00
+		Duration:	01:49:33
+		Location:	NULL NULL
+
+(3) - Obstacle 17 Multirig
+	MOG1
+		Images:	951
+		Time:	13.06.2025 19:55:00 until 14.06.2025 15:01:55
+		Duration:	19:06:55
+		Location:	NULL NULL
+
+	MOG1LS2
+		Images:	804
+		Time:	13.06.2025 19:43:13 until 14.06.2025 09:52:28
+		Duration:	14:09:15
+		Location:	NULL NULL
+
+	MOG1LS1
+		Images:	764
+		Time:	13.06.2025 19:41:59 until 14.06.2025 09:33:25
+		Duration:	13:51:26
+		Location:	NULL NULL
+
+(4) - Firejump/Finish
+	HS1
+		Images:	623
+		Time:	13.06.2025 20:38:51 until 14.06.2025 11:01:59
+		Duration:	14:23:08
+		Location:	NULL NULL
+
+	HS1LS2
+		Images:	1000
+		Time:	13.06.2025 19:37:01 until 13.06.2025 23:18:35
+		Duration:	03:41:34
+		Location:	NULL NULL
+
+	HS1LS1
+		Images:	897
+		Time:	13.06.2025 20:18:50 until 13.06.2025 23:18:47
+		Duration:	02:59:57
+		Location:	NULL NULL
+
+(5) - Herotent
+	ROB1
+		Images:	998
+		Time:	13.06.2025 19:29:38 until 14.06.2025 08:03:54
+		Duration:	12:34:16
+		Location:	NULL NULL
+
+(6) - Drone
+	BECK1DRONE1
+		Images:	14
+		Time:	13.06.2025 20:23:09 until 14.06.2025 09:14:43
+		Duration:	12:51:34
+		Location:	NULL NULL
+

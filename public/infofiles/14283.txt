@@ -1,0 +1,409 @@
+EventId: 14283
+Spots: 63
+Total Images: 135006
+Time:	09.10.2025 07:07:44 to 12.10.2025 18:25:14
+Duration: 3.11:17:30
+
+(1) - Roc D'Azur Start
+	STO1
+		Images:	67
+		Time:	12.10.2025 08:16:17 until 12.10.2025 08:55:12
+		Duration:	00:38:55
+		Location:	43.41613 6.73583
+
+	JLTG1
+		Images:	500
+		Time:	09.10.2025 09:01:38 until 12.10.2025 09:57:22
+		Duration:	3.00:55:44
+		Location:	43.41613 6.73583
+
+(2) - 7.0 km Roc D'Azur
+	BP1
+		Images:	3353
+		Time:	10.10.2025 08:24:06 until 12.10.2025 11:57:19
+		Duration:	2.03:33:13
+		Location:	43.39921 6.69874
+
+	BP1LS2
+		Images:	1338
+		Time:	12.10.2025 08:35:37 until 12.10.2025 12:02:25
+		Duration:	03:26:48
+		Location:	43.39921 6.69874
+
+	BP1LS1
+		Images:	3971
+		Time:	12.10.2025 08:33:29 until 12.10.2025 12:02:12
+		Duration:	03:28:43
+		Location:	43.39921 6.69874
+
+(3) - 9.0 km Roc D'Azur, L'Agroitier
+	COR1
+		Images:	1979
+		Time:	09.10.2025 08:36:19 until 12.10.2025 12:15:58
+		Duration:	3.03:39:39
+		Location:	43.38784 6.68944
+
+	COR1LS2
+		Images:	606
+		Time:	09.10.2025 10:10:14 until 12.10.2025 11:34:46
+		Duration:	3.01:24:32
+		Location:	43.38784 6.68944
+
+	COR1LS1
+		Images:	1610
+		Time:	12.10.2025 10:02:27 until 12.10.2025 12:08:31
+		Duration:	02:06:04
+		Location:	43.38784 6.68944
+
+(4) - 25.0 km Roc D'Azur
+	MAGA1
+		Images:	2604
+		Time:	12.10.2025 10:18:14 until 12.10.2025 14:31:00
+		Duration:	04:12:46
+		Location:	43.40129 6.64573
+
+	MAGA1LS3
+		Images:	1932
+		Time:	12.10.2025 10:09:12 until 12.10.2025 14:33:33
+		Duration:	04:24:21
+		Location:	43.40129 6.64573
+
+	MAGA1LS2
+		Images:	2268
+		Time:	12.10.2025 09:55:33 until 12.10.2025 14:32:43
+		Duration:	04:37:10
+		Location:	43.40129 6.64573
+
+	MAGA1LS1
+		Images:	3613
+		Time:	12.10.2025 09:28:08 until 12.10.2025 14:33:04
+		Duration:	05:04:56
+		Location:	43.40129 6.64573
+
+(5) - 25.5 km Roc D'Azur
+	BRN1
+		Images:	3956
+		Time:	12.10.2025 09:32:13 until 12.10.2025 14:26:02
+		Duration:	04:53:49
+		Location:	43.40583 6.64494
+
+	BRN1LS1
+		Images:	4187
+		Time:	12.10.2025 09:17:08 until 12.10.2025 14:34:47
+		Duration:	05:17:39
+		Location:	43.40583 6.64494
+
+(6) - 28.0 km Roc D'Azur
+	ROB1
+		Images:	3122
+		Time:	10.10.2025 10:10:09 until 12.10.2025 14:32:53
+		Duration:	2.04:22:44
+		Location:	43.39271 6.63753
+
+	ROB1LS2
+		Images:	2804
+		Time:	09.10.2025 08:31:58 until 12.10.2025 14:58:31
+		Duration:	3.06:26:33
+		Location:	43.39271 6.63753
+
+	ROB1LS1
+		Images:	2150
+		Time:	12.10.2025 09:37:50 until 12.10.2025 13:16:23
+		Duration:	03:38:33
+		Location:	43.39271 6.63753
+
+(7) - 36.5 km Roc D'Azur
+	LEBE1LS1
+		Images:	2836
+		Time:	12.10.2025 09:16:32 until 12.10.2025 15:48:58
+		Duration:	06:32:26
+		Location:	43.36715 6.66380
+
+	LEBE1
+		Images:	5185
+		Time:	09.10.2025 07:35:06 until 12.10.2025 16:02:51
+		Duration:	3.08:27:45
+		Location:	43.36715 6.66380
+
+(8) - 37.5 km Roc D'Azur, Col du Bougnon
+	ARF1
+		Images:	4093
+		Time:	10.10.2025 07:34:11 until 12.10.2025 16:11:55
+		Duration:	2.08:37:44
+		Location:	43.36767 6.67672
+
+(9) - 38.0 km Roc D'Azur
+	ALL1
+		Images:	5586
+		Time:	10.10.2025 12:07:36 until 12.10.2025 15:57:24
+		Duration:	2.03:49:48
+		Location:	43.36547 6.67912
+
+	ALL1LS1
+		Images:	3993
+		Time:	12.10.2025 10:01:18 until 12.10.2025 16:07:04
+		Duration:	06:05:46
+		Location:	43.36547 6.67912
+
+(10) - 43.5 km Roc D'Azur
+	COR2LS2
+		Images:	478
+		Time:	12.10.2025 13:51:55 until 12.10.2025 16:47:18
+		Duration:	02:55:23
+		Location:	43.36627 6.70541
+
+	COR2LS1
+		Images:	780
+		Time:	12.10.2025 13:54:51 until 12.10.2025 16:48:42
+		Duration:	02:53:51
+		Location:	43.36627 6.70541
+
+(11) - 43.8 km Roc D'Azur, Ocean View
+	EP2
+		Images:	3926
+		Time:	12.10.2025 12:55:44 until 12.10.2025 16:41:40
+		Duration:	03:45:56
+		Location:	43.36721 6.70031
+
+	EP2LS1
+		Images:	1321
+		Time:	12.10.2025 12:52:54 until 12.10.2025 16:44:12
+		Duration:	03:51:18
+		Location:	43.36721 6.70031
+
+(12) - 44.0 km Roc D'Azur
+	EP1
+		Images:	2211
+		Time:	09.10.2025 08:21:59 until 12.10.2025 12:42:39
+		Duration:	3.04:20:40
+		Location:	43.36775 6.70104
+
+	EP1LS1
+		Images:	673
+		Time:	12.10.2025 09:50:59 until 12.10.2025 12:43:36
+		Duration:	02:52:37
+		Location:	43.36775 6.70104
+
+(13) - 47.5 km Roc D'Azur
+	BP2
+		Images:	891
+		Time:	12.10.2025 13:23:12 until 12.10.2025 17:35:08
+		Duration:	04:11:56
+		Location:	43.40061 6.69714
+
+	BP2LS1
+		Images:	1087
+		Time:	12.10.2025 12:54:20 until 12.10.2025 17:44:09
+		Duration:	04:49:49
+		Location:	43.40061 6.69714
+
+	BP2LS2
+		Images:	1513
+		Time:	12.10.2025 12:10:12 until 12.10.2025 17:42:48
+		Duration:	05:32:36
+		Location:	43.40061 6.69714
+
+(14) - 48.0 km Roc D'Azur
+	MANR1
+		Images:	1077
+		Time:	09.10.2025 10:48:08 until 12.10.2025 14:13:46
+		Duration:	3.03:25:38
+		Location:	43.39530 6.70344
+
+	MANR1LS1
+		Images:	724
+		Time:	12.10.2025 10:28:20 until 12.10.2025 12:18:25
+		Duration:	01:50:05
+		Location:	43.39530 6.70344
+
+	MANR1LS2
+		Images:	1117
+		Time:	12.10.2025 09:43:13 until 12.10.2025 12:29:56
+		Duration:	02:46:43
+		Location:	43.39530 6.70344
+
+(15) - 48.5 km Roc D'Azur
+	MANR2
+		Images:	889
+		Time:	12.10.2025 14:17:33 until 12.10.2025 17:35:50
+		Duration:	03:18:17
+		Location:	43.39511 6.70371
+
+	MANR2LS1
+		Images:	1486
+		Time:	12.10.2025 12:19:33 until 12.10.2025 17:38:19
+		Duration:	05:18:46
+		Location:	43.39511 6.70371
+
+	MANR2LS2
+		Images:	1412
+		Time:	12.10.2025 12:31:07 until 12.10.2025 16:45:22
+		Duration:	04:14:15
+		Location:	43.39511 6.70371
+
+(16) - 49.0 km Roc D'Azur
+	TGM1
+		Images:	5078
+		Time:	12.10.2025 10:38:13 until 12.10.2025 17:36:29
+		Duration:	06:58:16
+		Location:	43.39826 6.69964
+
+	TGM1LS2
+		Images:	2871
+		Time:	12.10.2025 10:20:51 until 12.10.2025 17:46:23
+		Duration:	07:25:32
+		Location:	43.39826 6.69964
+
+	TGM1LS1
+		Images:	2452
+		Time:	12.10.2025 09:56:10 until 12.10.2025 17:39:20
+		Duration:	07:43:10
+		Location:	43.39826 6.69964
+
+(17) - 50.0 km Roc D'Azur
+	MARY1
+		Images:	4718
+		Time:	10.10.2025 07:48:23 until 12.10.2025 17:38:47
+		Duration:	2.09:50:24
+		Location:	43.40214 6.70256
+
+(18) - 52.5 km Roc D'Azur, Bridge
+	MIFP1LS1
+		Images:	2300
+		Time:	12.10.2025 09:33:38 until 12.10.2025 17:54:30
+		Duration:	08:20:52
+		Location:	43.39366 6.72528
+
+	MIFP1
+		Images:	4079
+		Time:	10.10.2025 07:33:24 until 12.10.2025 17:52:48
+		Duration:	2.10:19:24
+		Location:	43.39366 6.72528
+
+(19) - Roc D'Azur Finish
+	JLTG2
+		Images:	6517
+		Time:	12.10.2025 10:11:03 until 12.10.2025 18:24:55
+		Duration:	08:13:52
+		Location:	43.41613 6.73583
+
+	JLTG2LS2
+		Images:	2310
+		Time:	12.10.2025 09:31:38 until 12.10.2025 17:16:52
+		Duration:	07:45:14
+		Location:	43.41613 6.73583
+
+	JLTG2LS1
+		Images:	2041
+		Time:	12.10.2025 09:16:33 until 12.10.2025 17:16:10
+		Duration:	07:59:37
+		Location:	43.41613 6.73583
+
+	STO2LS1
+		Images:	2274
+		Time:	09.10.2025 10:28:54 until 12.10.2025 17:17:33
+		Duration:	3.06:48:39
+		Location:	43.41613 6.73583
+
+	STO2
+		Images:	4263
+		Time:	12.10.2025 10:52:12 until 12.10.2025 18:25:14
+		Duration:	07:33:02
+		Location:	43.41613 6.73583
+
+(20) - Roc Trail Start
+	HS1
+		Images:	835
+		Time:	09.10.2025 07:07:44 until 12.10.2025 12:07:49
+		Duration:	3.05:00:05
+		Location:	43.44269 6.63385
+
+(21) - 3.5 km Roc Trail 13km
+	CHR1
+		Images:	913
+		Time:	09.10.2025 07:46:15 until 12.10.2025 09:20:41
+		Duration:	3.01:34:26
+		Location:	43.43026 6.65307
+
+	CHR1LS2
+		Images:	332
+		Time:	12.10.2025 08:22:10 until 12.10.2025 09:04:39
+		Duration:	00:42:29
+		Location:	43.43026 6.65307
+
+	CHR1LS1
+		Images:	741
+		Time:	12.10.2025 08:44:50 until 12.10.2025 09:03:23
+		Duration:	00:18:33
+		Location:	43.43026 6.65307
+
+(22) - Roc Trail, Aquaduct
+	PKA1
+		Images:	746
+		Time:	09.10.2025 11:03:13 until 12.10.2025 16:06:45
+		Duration:	3.05:03:32
+		Location:	43.43452 6.63178
+
+	PKA1LS2
+		Images:	720
+		Time:	12.10.2025 08:37:16 until 12.10.2025 16:17:35
+		Duration:	07:40:19
+		Location:	43.43452 6.63178
+
+	PKA1LS1
+		Images:	565
+		Time:	12.10.2025 10:39:46 until 12.10.2025 16:03:54
+		Duration:	05:24:08
+		Location:	43.43452 6.63178
+
+(23) - Roc Trail - 2 Freres
+	CHR2LS1
+		Images:	904
+		Time:	12.10.2025 10:15:09 until 12.10.2025 14:48:05
+		Duration:	04:32:56
+		Location:	43.44941 6.58994
+
+	CHR2
+		Images:	1015
+		Time:	09.10.2025 09:42:25 until 12.10.2025 15:06:42
+		Duration:	3.05:24:17
+		Location:	43.44941 6.58994
+
+	CHR2LS2
+		Images:	410
+		Time:	12.10.2025 09:58:34 until 12.10.2025 14:46:57
+		Duration:	04:48:23
+		Location:	43.44941 6.58994
+
+(24) - Roc Trail Finish
+	HS2
+		Images:	2735
+		Time:	12.10.2025 09:17:59 until 12.10.2025 16:47:30
+		Duration:	07:29:31
+		Location:	43.44269 6.63385
+
+	HS2LS2
+		Images:	2334
+		Time:	12.10.2025 09:06:29 until 12.10.2025 16:28:24
+		Duration:	07:21:55
+		Location:	43.44269 6.63385
+
+	HS2LS1
+		Images:	2471
+		Time:	12.10.2025 08:52:37 until 12.10.2025 16:38:56
+		Duration:	07:46:19
+		Location:	43.44269 6.63385
+
+(25) - Impressions / Pano
+	ROB1DRONE1
+		Images:	22
+		Time:	12.10.2025 09:16:05 until 12.10.2025 11:18:28
+		Duration:	02:02:23
+		Location:	43.39271 6.63753
+
+	COR1DRONE1
+		Images:	11
+		Time:	09.10.2025 10:53:28 until 12.10.2025 10:18:33
+		Duration:	2.23:25:05
+		Location:	43.38784 6.68944
+

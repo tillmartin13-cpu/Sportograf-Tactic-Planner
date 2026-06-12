@@ -1,0 +1,148 @@
+EventId: 13616
+Spots: 23
+Total Images: 115995
+Time:	20.09.2025 08:46:14 to 20.09.2025 16:03:35
+Duration: 07:17:21
+
+(1) - 1.0 km Victory Column
+	MDO1
+		Images:	12410
+		Time:	20.09.2025 09:09:51 until 20.09.2025 15:54:39
+		Duration:	06:44:48
+		Location:	52.51425 13.34606
+
+	MDO1LS1
+		Images:	3442
+		Time:	20.09.2025 12:21:43 until 20.09.2025 15:15:07
+		Duration:	02:53:24
+		Location:	52.51425 13.34606
+
+	NU1
+		Images:	11272
+		Time:	20.09.2025 08:46:17 until 20.09.2025 15:36:05
+		Duration:	06:49:48
+		Location:	52.51425 13.34606
+
+	NU1LS1
+		Images:	4884
+		Time:	20.09.2025 12:37:53 until 20.09.2025 15:36:13
+		Duration:	02:58:20
+		Location:	52.51425 13.34606
+
+(2) - 2.0 km Charlottenburg Gate
+	DASC1
+		Images:	8331
+		Time:	20.09.2025 08:46:14 until 20.09.2025 15:32:22
+		Duration:	06:46:08
+		Location:	52.51322 13.33137
+
+(3) - 40.6 km Concert Hall
+	RJ1
+		Images:	4225
+		Time:	20.09.2025 12:46:49 until 20.09.2025 15:54:54
+		Duration:	03:08:05
+		Location:	52.51406 13.39318
+
+	RJ1LS1
+		Images:	2354
+		Time:	20.09.2025 13:16:36 until 20.09.2025 15:54:59
+		Duration:	02:38:23
+		Location:	52.51406 13.39318
+
+(4) - 41.8 km Brandenburg Gate
+	GUD1
+		Images:	7965
+		Time:	20.09.2025 13:18:46 until 20.09.2025 16:01:12
+		Duration:	02:42:26
+		Location:	52.51627 13.37689
+
+	GUD1LS1
+		Images:	3345
+		Time:	20.09.2025 13:14:28 until 20.09.2025 16:02:09
+		Duration:	02:47:41
+		Location:	52.51627 13.37689
+
+	GUD1LS2
+		Images:	3344
+		Time:	20.09.2025 13:14:18 until 20.09.2025 16:02:06
+		Duration:	02:47:48
+		Location:	52.51627 13.37689
+
+(5) - 42.0 km Finish Straight
+	ALN1
+		Images:	12513
+		Time:	20.09.2025 13:19:10 until 20.09.2025 16:02:11
+		Duration:	02:43:01
+		Location:	52.51612 13.37454
+
+	ALN1LS1
+		Images:	1283
+		Time:	20.09.2025 13:19:56 until 20.09.2025 15:50:34
+		Duration:	02:30:38
+		Location:	52.51612 13.37454
+
+	ALN1LS2
+		Images:	480
+		Time:	20.09.2025 13:04:29 until 20.09.2025 15:06:58
+		Duration:	02:02:29
+		Location:	52.51612 13.37454
+
+	ALN1LS3
+		Images:	1383
+		Time:	20.09.2025 13:11:29 until 20.09.2025 16:03:35
+		Duration:	02:52:06
+		Location:	52.51612 13.37454
+
+(6) - Finish
+	DAR1
+		Images:	12389
+		Time:	20.09.2025 08:47:30 until 20.09.2025 16:02:33
+		Duration:	07:15:03
+		Location:	52.51601 13.37257
+
+	DAR1LS1
+		Images:	3603
+		Time:	20.09.2025 13:12:45 until 20.09.2025 16:02:48
+		Duration:	02:50:03
+		Location:	52.51601 13.37257
+
+	SBU1
+		Images:	5597
+		Time:	20.09.2025 13:20:14 until 20.09.2025 16:02:42
+		Duration:	02:42:28
+		Location:	52.51601 13.37257
+
+	SBU1LS1
+		Images:	1680
+		Time:	20.09.2025 13:19:27 until 20.09.2025 16:01:37
+		Duration:	02:42:10
+		Location:	52.51601 13.37257
+
+(7) - Finish Bridge
+	THO1
+		Images:	6245
+		Time:	20.09.2025 09:10:03 until 20.09.2025 16:02:37
+		Duration:	06:52:34
+		Location:	52.51599 13.37216
+
+	THO1LS1
+		Images:	4080
+		Time:	20.09.2025 12:28:07 until 20.09.2025 16:02:52
+		Duration:	03:34:45
+		Location:	52.51599 13.37216
+
+(8) - Medals
+	ADHA1
+		Images:	3097
+		Time:	20.09.2025 13:20:26 until 20.09.2025 16:03:35
+		Duration:	02:43:09
+		Location:	52.5159 13.37094
+
+	HV1
+		Images:	2056
+		Time:	20.09.2025 08:49:46 until 20.09.2025 16:02:38
+		Duration:	07:12:52
+		Location:	52.5159 13.37094
+
+(9) - Impressions / Pano
+	PANO1

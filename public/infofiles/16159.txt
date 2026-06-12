@@ -1,0 +1,329 @@
+EventId: 16159
+Spots: 52
+Total Images: 250121
+Time:	23.10.2025 07:39:08 to 25.10.2025 23:12:03
+Duration: 2.15:32:55
+
+(1) - Station 1 SKIERG
+	VAR1
+		Images:	2191
+		Time:	24.10.2025 11:35:22 until 25.10.2025 10:44:30
+		Duration:	23:09:08
+		Location:	48.82812 2.28651
+
+	MBEN1
+		Images:	9076
+		Time:	23.10.2025 10:06:45 until 25.10.2025 15:03:41
+		Duration:	2.04:56:56
+		Location:	48.82812 2.28651
+
+	GUF1
+		Images:	931
+		Time:	25.10.2025 07:54:52 until 25.10.2025 09:58:33
+		Duration:	02:03:41
+		Location:	48.82812 2.28651
+
+	MARY1
+		Images:	5000
+		Time:	25.10.2025 07:33:45 until 25.10.2025 14:58:19
+		Duration:	07:24:34
+		Location:	48.82812 2.28651
+
+	KSA2
+		Images:	3030
+		Time:	25.10.2025 14:57:56 until 25.10.2025 20:47:15
+		Duration:	05:49:19
+		Location:	48.82812 2.28651
+
+	LULE2
+		Images:	6827
+		Time:	24.10.2025 11:39:59 until 25.10.2025 20:47:30
+		Duration:	1.09:07:31
+		Location:	48.82812 2.28651
+
+	JDU2
+		Images:	5176
+		Time:	25.10.2025 15:15:14 until 25.10.2025 20:52:16
+		Duration:	05:37:02
+		Location:	48.82812 2.28651
+
+	DJAM2
+		Images:	5222
+		Time:	25.10.2025 15:14:20 until 25.10.2025 20:49:30
+		Duration:	05:35:10
+		Location:	48.82812 2.28651
+
+(2) - Station 2 SLED PUSH
+	MW1
+		Images:	3611
+		Time:	25.10.2025 06:58:47 until 25.10.2025 14:47:35
+		Duration:	07:48:48
+		Location:	48.82812 2.28651
+
+	LULE1
+		Images:	2000
+		Time:	23.10.2025 10:18:34 until 25.10.2025 10:00:57
+		Duration:	1.23:42:23
+		Location:	48.82812 2.28651
+
+	MAI1
+		Images:	9152
+		Time:	23.10.2025 08:37:12 until 25.10.2025 15:10:52
+		Duration:	2.06:33:40
+		Location:	48.82812 2.28651
+
+	MBEN2
+		Images:	9792
+		Time:	25.10.2025 10:56:19 until 25.10.2025 20:58:53
+		Duration:	10:02:34
+		Location:	48.82812 2.28651
+
+	MARY2
+		Images:	3652
+		Time:	25.10.2025 15:08:33 until 25.10.2025 21:02:07
+		Duration:	05:53:34
+		Location:	48.82812 2.28651
+
+	VAR2
+		Images:	712
+		Time:	25.10.2025 15:04:56 until 25.10.2025 20:57:16
+		Duration:	05:52:20
+		Location:	48.82812 2.28651
+
+	GUF3
+		Images:	827
+		Time:	25.10.2025 10:44:19 until 25.10.2025 15:00:04
+		Duration:	04:15:45
+		Location:	48.82812 2.28651
+
+(3) - Station 3 SLED PULL
+	KSA1
+		Images:	4444
+		Time:	23.10.2025 10:28:15 until 25.10.2025 10:47:21
+		Duration:	2.00:19:06
+		Location:	48.82812 2.28651
+
+	SAM1
+		Images:	5176
+		Time:	25.10.2025 07:50:24 until 25.10.2025 15:11:05
+		Duration:	07:20:41
+		Location:	48.82812 2.28651
+
+	FCO1
+		Images:	5356
+		Time:	25.10.2025 07:49:06 until 25.10.2025 14:52:58
+		Duration:	07:03:52
+		Location:	48.82812 2.28651
+
+	RA2
+		Images:	9198
+		Time:	25.10.2025 11:41:15 until 25.10.2025 21:22:30
+		Duration:	09:41:15
+		Location:	48.82812 2.28651
+
+	MW2
+		Images:	4340
+		Time:	25.10.2025 14:53:29 until 25.10.2025 21:22:27
+		Duration:	06:28:58
+		Location:	48.82812 2.28651
+
+	JI2
+		Images:	4979
+		Time:	25.10.2025 15:17:59 until 25.10.2025 21:12:49
+		Duration:	05:54:50
+		Location:	48.82812 2.28651
+
+(4) - SMILE YOU ARE IN PARIS
+	BECK1LS1
+		Images:	4957
+		Time:	25.10.2025 07:31:25 until 25.10.2025 21:22:58
+		Duration:	13:51:33
+		Location:	48.82812 2.28651
+
+	BECK1LS2
+		Images:	5462
+		Time:	25.10.2025 07:33:02 until 25.10.2025 21:22:25
+		Duration:	13:49:23
+		Location:	48.82812 2.28651
+
+(5) - Station 5 ROWING
+	AFA1
+		Images:	1674
+		Time:	23.10.2025 08:09:07 until 25.10.2025 20:11:30
+		Duration:	2.12:02:23
+		Location:	48.82812 2.28651
+
+	MAT1
+		Images:	3368
+		Time:	23.10.2025 10:20:38 until 25.10.2025 17:22:57
+		Duration:	2.07:02:19
+		Location:	48.82812 2.28651
+
+	OT1
+		Images:	16857
+		Time:	25.10.2025 08:04:56 until 25.10.2025 14:59:27
+		Duration:	06:54:31
+		Location:	48.82812 2.28651
+
+	JDU1
+		Images:	9360
+		Time:	25.10.2025 08:02:05 until 25.10.2025 15:01:03
+		Duration:	06:58:58
+		Location:	48.82812 2.28651
+
+	FRED2
+		Images:	2826
+		Time:	25.10.2025 10:59:35 until 25.10.2025 21:43:14
+		Duration:	10:43:39
+		Location:	48.82812 2.28651
+
+	RORI2
+		Images:	6786
+		Time:	25.10.2025 15:02:01 until 25.10.2025 22:03:27
+		Duration:	07:01:26
+		Location:	48.82812 2.28651
+
+(6) - Station 6 FARMERS CARRY
+	MAT1LS1
+		Images:	2463
+		Time:	25.10.2025 07:35:58 until 25.10.2025 21:01:34
+		Duration:	13:25:36
+		Location:	48.82812 2.28651
+
+	SAM1LS1
+		Images:	3794
+		Time:	25.10.2025 07:20:56 until 25.10.2025 21:56:52
+		Duration:	14:35:56
+		Location:	48.82812 2.28651
+
+(7) - Station 7 SANDBAGS
+	AFA2
+		Images:	835
+		Time:	25.10.2025 10:36:43 until 25.10.2025 19:37:02
+		Duration:	09:00:19
+		Location:	48.82812 2.28651
+
+	MAT2
+		Images:	3037
+		Time:	23.10.2025 13:39:41 until 25.10.2025 16:44:01
+		Duration:	2.03:04:20
+		Location:	48.82812 2.28651
+
+	JI1
+		Images:	7783
+		Time:	24.10.2025 09:40:39 until 25.10.2025 15:05:23
+		Duration:	1.05:24:44
+		Location:	48.82812 2.28651
+
+	DJAM1
+		Images:	2287
+		Time:	25.10.2025 07:46:29 until 25.10.2025 14:58:04
+		Duration:	07:11:35
+		Location:	48.82812 2.28651
+
+	MAI2
+		Images:	14217
+		Time:	25.10.2025 15:12:14 until 25.10.2025 22:48:38
+		Duration:	07:36:24
+		Location:	48.82812 2.28651
+
+	FCO2
+		Images:	6055
+		Time:	25.10.2025 14:57:50 until 25.10.2025 22:37:19
+		Duration:	07:39:29
+		Location:	48.82812 2.28651
+
+(8) - Station 8 WALL BALLS
+	AFA3
+		Images:	553
+		Time:	25.10.2025 11:12:31 until 25.10.2025 19:00:57
+		Duration:	07:48:26
+		Location:	48.82812 2.28651
+
+	MAT3
+		Images:	2717
+		Time:	23.10.2025 14:19:44 until 25.10.2025 16:11:12
+		Duration:	2.01:51:28
+		Location:	48.82812 2.28651
+
+	MAAU1
+		Images:	7787
+		Time:	24.10.2025 08:20:30 until 25.10.2025 15:07:20
+		Duration:	1.06:46:50
+		Location:	48.82812 2.28651
+
+	FRED1
+		Images:	1390
+		Time:	25.10.2025 08:17:50 until 25.10.2025 15:02:52
+		Duration:	06:45:02
+		Location:	48.82812 2.28651
+
+	GUF2
+		Images:	4338
+		Time:	25.10.2025 15:06:26 until 25.10.2025 22:49:45
+		Duration:	07:43:19
+		Location:	48.82812 2.28651
+
+	SAM2
+		Images:	4411
+		Time:	25.10.2025 15:20:52 until 25.10.2025 22:47:37
+		Duration:	07:26:45
+		Location:	48.82812 2.28651
+
+(9) - Finish
+	BECK1
+		Images:	1762
+		Time:	24.10.2025 08:35:25 until 25.10.2025 19:03:33
+		Duration:	1.10:28:08
+		Location:	48.82812 2.28651
+
+	RORI1
+		Images:	2607
+		Time:	23.10.2025 07:39:08 until 25.10.2025 13:13:42
+		Duration:	2.05:34:34
+		Location:	48.82812 2.28651
+
+	OT2
+		Images:	8656
+		Time:	25.10.2025 15:04:00 until 25.10.2025 23:06:57
+		Duration:	08:02:57
+		Location:	48.82812 2.28651
+
+	LULE1LS1
+		Images:	3121
+		Time:	25.10.2025 07:16:33 until 25.10.2025 20:40:09
+		Duration:	13:23:36
+		Location:	48.82812 2.28651
+
+	MAT1LS2
+		Images:	2838
+		Time:	25.10.2025 09:15:24 until 25.10.2025 20:11:32
+		Duration:	10:56:08
+		Location:	48.82812 2.28651
+
+(10) - Medalwall
+	BECK2
+		Images:	3395
+		Time:	23.10.2025 08:39:37 until 25.10.2025 19:47:40
+		Duration:	2.11:08:03
+		Location:	48.82812 2.28651
+
+	RA1
+		Images:	6464
+		Time:	24.10.2025 08:27:10 until 25.10.2025 15:08:02
+		Duration:	1.06:40:52
+		Location:	48.82812 2.28651
+
+	MAAU2
+		Images:	6822
+		Time:	25.10.2025 15:11:41 until 25.10.2025 23:12:03
+		Duration:	08:00:22
+		Location:	48.82812 2.28651
+
+(11) - MIRROR BEFORE START
+	MIRRO1
+		Images:	806
+		Time:	25.10.2025 07:59:19 until 25.10.2025 20:40:13
+		Duration:	12:40:54
+		Location:	48.82812 2.28651
+

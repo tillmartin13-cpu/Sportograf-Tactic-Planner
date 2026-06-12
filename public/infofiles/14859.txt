@@ -1,0 +1,117 @@
+EventId: 14859
+Spots: 17
+Total Images: 44563
+Time:	01.01.0001 23:00:00 to 04.05.2025 12:14:47
+Duration: 739373.13:14:47
+
+(1) - 10 km | 18 km | 73 km | 81 km
+	AGAV1
+		Images:	1796
+		Time:	01.01.0001 23:00:00 until 04.05.2025 11:03:08
+		Duration:	739373.12:03:08
+		Location:	20.69298 -103.45556
+
+	EDD3
+		Images:	8674
+		Time:	01.01.0001 23:00:00 until 04.05.2025 11:10:11
+		Duration:	739373.12:10:11
+		Location:	20.69298 -103.45556
+
+(2) - Expo
+	EDD1
+		Images:	694
+		Time:	02.05.2025 12:55:48 until 02.05.2025 17:59:24
+		Duration:	05:03:36
+		Location:	20.72762 -103.38617
+
+	EDD2
+		Images:	1247
+		Time:	03.05.2025 11:58:59 until 03.05.2025 17:57:01
+		Duration:	05:58:02
+		Location:	20.72762 -103.38617
+
+(3) - Start
+	EGG1
+		Images:	101
+		Time:	04.05.2025 05:41:28 until 04.05.2025 06:34:24
+		Duration:	00:52:56
+		Location:	20.72762 -103.38617
+
+	EGG1DRONE1
+		Images:	42
+		Time:	14.12.2024 21:07:32 until 14.12.2024 21:21:01
+		Duration:	00:13:29
+		Location:	20.72762 -103.38617
+
+	EGG2LS2
+		Images:	626
+		Time:	04.05.2025 06:13:23 until 04.05.2025 06:39:09
+		Duration:	00:25:46
+		Location:	20.72762 -103.38617
+
+	PM1
+		Images:	988
+		Time:	04.05.2025 05:38:23 until 04.05.2025 06:36:10
+		Duration:	00:57:47
+		Location:	20.72762 -103.38617
+
+	PM1LS1
+		Images:	412
+		Time:	04.05.2025 06:10:10 until 04.05.2025 06:36:42
+		Duration:	00:26:32
+		Location:	20.72762 -103.38617
+
+(4) - 91.5 km
+	EGG2
+		Images:	3984
+		Time:	31.12.2018 23:00:02 until 04.05.2025 09:01:04
+		Duration:	2315.10:01:02
+		Location:	20.72091 -103.38708
+
+	EGG2LS1
+		Images:	1361
+		Time:	04.05.2025 07:58:57 until 04.05.2025 11:44:08
+		Duration:	03:45:11
+		Location:	20.72091 -103.38708
+
+(5) - Best of
+	EGG3
+		Images:	145
+		Time:	31.12.2018 23:03:11 until 04.05.2025 12:14:36
+		Duration:	2315.13:11:25
+		Location:	20.72762 -103.38617
+
+(6) - 42 km | 44.5 km | 105 km | 107.5 km
+	RHR1
+		Images:	3366
+		Time:	04.05.2025 06:31:38 until 04.05.2025 11:16:16
+		Duration:	04:44:38
+		Location:	20.62831 -103.41823
+
+(7) - 31 km | 60 km | 93.5 km | 123 km
+	PAROM1
+		Images:	3516
+		Time:	04.05.2025 06:42:09 until 04.05.2025 11:11:31
+		Duration:	04:29:22
+		Location:	20.71020 -103.37200
+
+(8) - Finish
+	PM2
+		Images:	4874
+		Time:	04.05.2025 07:26:14 until 04.05.2025 12:14:47
+		Duration:	04:48:33
+		Location:	20.72762 -103.38617
+
+	PM1LS2
+		Images:	4371
+		Time:	04.05.2025 07:05:45 until 04.05.2025 11:18:54
+		Duration:	04:13:09
+		Location:	20.72762 -103.38617
+
+(9) - 37.5 km | 49 km | 100 km | 112 km
+	JCSH1
+		Images:	8366
+		Time:	04.05.2025 07:18:57 until 04.05.2025 11:37:53
+		Duration:	04:18:56
+		Location:	20.66315 -103.39480
+

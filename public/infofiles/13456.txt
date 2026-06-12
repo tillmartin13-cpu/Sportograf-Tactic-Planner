@@ -1,0 +1,98 @@
+EventId: 13456
+Spots: 14
+Total Images: 79486
+Time:	19.10.2025 08:39:35 to 19.10.2025 15:52:39
+Duration: 07:13:04
+
+(1) - Start
+	BK1
+		Images:	480
+		Time:	19.10.2025 09:15:40 until 19.10.2025 09:45:58
+		Duration:	00:30:18
+		Location:	53.86612 10.68435
+
+	THAE1
+		Images:	704
+		Time:	19.10.2025 09:18:22 until 19.10.2025 11:00:43
+		Duration:	01:42:21
+		Location:	53.86612 10.68435
+
+(2) - Holstentor
+	FGAE1
+		Images:	1097
+		Time:	19.10.2025 09:28:05 until 19.10.2025 09:53:13
+		Duration:	00:25:08
+		Location:	53.86608 10.67868
+
+	MELS1
+		Images:	2158
+		Time:	19.10.2025 09:24:27 until 19.10.2025 11:03:27
+		Duration:	01:39:00
+		Location:	53.86608 10.67868
+
+(3) - Koberg
+	AJS1
+		Images:	6019
+		Time:	19.10.2025 08:53:04 until 19.10.2025 15:04:31
+		Duration:	06:11:27
+		Location:	53.87160 10.68857
+
+	HMU1
+		Images:	13527
+		Time:	19.10.2025 09:19:55 until 19.10.2025 15:52:39
+		Duration:	06:32:44
+		Location:	53.87126 10.68850
+
+(4) - Burgtor
+	JKOR1
+		Images:	18848
+		Time:	19.10.2025 08:49:14 until 19.10.2025 15:50:53
+		Duration:	07:01:39
+		Location:	53.87340 10.69068
+
+(5) - Herrentunnel
+	DIC1
+		Images:	8235
+		Time:	19.10.2025 09:16:12 until 19.10.2025 13:46:16
+		Duration:	04:30:04
+		Location:	53.89891 10.76507
+
+(6) - Prommenade Travemuende
+	SZ1
+		Images:	3928
+		Time:	19.10.2025 10:44:55 until 19.10.2025 12:45:45
+		Duration:	02:00:50
+		Location:	53.97362 10.88254
+
+(7) - Leuchtturm Travemuende
+	PLA1
+		Images:	2051
+		Time:	19.10.2025 08:39:35 until 19.10.2025 12:33:00
+		Duration:	03:53:25
+		Location:	53.96207 10.88856
+
+(8) - Finish
+	MELS2
+		Images:	6234
+		Time:	19.10.2025 11:54:16 until 19.10.2025 15:12:30
+		Duration:	03:18:14
+		Location:	53.86676 10.68572
+
+	BK2
+		Images:	5096
+		Time:	19.10.2025 10:03:42 until 19.10.2025 12:49:11
+		Duration:	02:45:29
+		Location:	53.86676 10.68572
+
+	FGAE2
+		Images:	8856
+		Time:	19.10.2025 10:08:06 until 19.10.2025 15:47:57
+		Duration:	05:39:51
+		Location:	53.86676 10.68572
+
+	THAE2
+		Images:	2253
+		Time:	19.10.2025 11:21:08 until 19.10.2025 15:51:18
+		Duration:	04:30:10
+		Location:	53.86676 10.68572
+

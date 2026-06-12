@@ -1,0 +1,282 @@
+EventId: 13901
+Spots: 44
+Total Images: 499302
+Time:	24.05.2025 20:13:37 to 25.05.2025 16:47:34
+Duration: 20:33:57
+
+(1) - 1,5 km Avenue de Tervueren before finish
+	BOP1
+		Images:	12043
+		Time:	25.05.2025 10:33:09 until 25.05.2025 16:16:08
+		Duration:	05:42:59
+		Location:	50.83439 4.42147
+
+	BOP1LS1
+		Images:	8599
+		Time:	25.05.2025 10:02:57 until 25.05.2025 16:15:48
+		Duration:	06:12:51
+		Location:	50.83439 4.42147
+
+	BSSW1
+		Images:	12203
+		Time:	25.05.2025 10:09:39 until 25.05.2025 15:57:32
+		Duration:	05:47:53
+		Location:	50.83439 4.42147
+
+	BSSW1LS1
+		Images:	9366
+		Time:	25.05.2025 09:49:22 until 25.05.2025 16:14:00
+		Duration:	06:24:38
+		Location:	50.83439 4.42147
+
+	BSSW1LS2
+		Images:	9272
+		Time:	25.05.2025 09:55:37 until 25.05.2025 16:00:13
+		Duration:	06:04:36
+		Location:	50.83439 4.42147
+
+(2) - 1.7 km Pl. de Pailais
+	AMIBU1
+		Images:	8605
+		Time:	24.05.2025 20:13:37 until 25.05.2025 12:32:24
+		Duration:	16:18:47
+		Location:	50.84284 4.36101
+
+	APMC1
+		Images:	20028
+		Time:	25.05.2025 09:35:25 until 25.05.2025 12:29:36
+		Duration:	02:54:11
+		Location:	50.84284 4.36101
+
+(3) - 10.0 km Bois de la Chambre
+	APBO1
+		Images:	20402
+		Time:	25.05.2025 09:08:32 until 25.05.2025 14:10:40
+		Duration:	05:02:08
+		Location:	50.80843 4.38076
+
+	ATLA1
+		Images:	16449
+		Time:	25.05.2025 10:08:39 until 25.05.2025 14:10:40
+		Duration:	04:02:01
+		Location:	50.80843 4.38076
+
+(4) - 2,3 km Avenue de Tervueren before finish
+	BALN1
+		Images:	49973
+		Time:	25.05.2025 10:42:25 until 25.05.2025 15:57:19
+		Duration:	05:14:54
+		Location:	50.83473 4.42757
+
+	BALN1LS1
+		Images:	10182
+		Time:	25.05.2025 09:44:03 until 25.05.2025 14:05:07
+		Duration:	04:21:04
+		Location:	50.83473 4.42757
+
+	BALN1LS2
+		Images:	12504
+		Time:	25.05.2025 09:52:54 until 25.05.2025 15:50:41
+		Duration:	05:57:47
+		Location:	50.83473 4.42757
+
+	BALN2LS1
+		Images:	16320
+		Time:	25.05.2025 10:13:24 until 25.05.2025 16:09:21
+		Duration:	05:55:57
+		Location:	50.83473 4.42757
+
+	BWEN1
+		Images:	16131
+		Time:	25.05.2025 10:15:23 until 25.05.2025 16:09:31
+		Duration:	05:54:08
+		Location:	50.83473 4.42757
+
+(5) - 2.0 km Place Royale
+	ADECO1
+		Images:	3029
+		Time:	25.05.2025 08:51:51 until 25.05.2025 12:32:31
+		Duration:	03:40:40
+		Location:	50.84197 4.35896
+
+	ASPSL1
+		Images:	16633
+		Time:	25.05.2025 08:56:57 until 25.05.2025 12:22:32
+		Duration:	03:25:35
+		Location:	50.84197 4.35896
+
+(6) - 2.5 km Poelaert
+	ADPH1
+		Images:	17108
+		Time:	25.05.2025 09:41:38 until 25.05.2025 12:40:11
+		Duration:	02:58:33
+		Location:	50.83754 4.35293
+
+	ARA1
+		Images:	22758
+		Time:	25.05.2025 09:41:43 until 25.05.2025 12:42:53
+		Duration:	03:01:10
+		Location:	50.83754 4.35293
+
+(7) - 2.8 km Tunnel Stephanie
+	AMTR1
+		Images:	34612
+		Time:	25.05.2025 09:35:26 until 25.05.2025 12:42:00
+		Duration:	03:06:34
+		Location:	50.83754 4.35293
+
+	ASTDM1
+		Images:	20940
+		Time:	25.05.2025 09:38:25 until 25.05.2025 12:44:19
+		Duration:	03:05:54
+		Location:	50.83754 4.35293
+
+(8) - 6.0 km Bois de la Chambre
+	ASTL1
+		Images:	12094
+		Time:	25.05.2025 09:42:26 until 25.05.2025 13:24:06
+		Duration:	03:41:40
+		Location:	50.81353 4.37008
+
+	AVL1
+		Images:	20853
+		Time:	25.05.2025 09:46:34 until 25.05.2025 13:18:39
+		Duration:	03:32:05
+		Location:	50.81353 4.37008
+
+(9) - 8.2 km Bois de la Chambre
+	ADAV1
+		Images:	10814
+		Time:	25.05.2025 10:01:04 until 25.05.2025 13:50:10
+		Duration:	03:49:06
+		Location:	50.79982 4.38027
+
+	ADAV1LS1
+		Images:	8144
+		Time:	25.05.2025 09:08:24 until 25.05.2025 13:44:39
+		Duration:	04:36:15
+		Location:	50.79982 4.38027
+
+	AFVE1
+		Images:	5653
+		Time:	25.05.2025 08:59:13 until 25.05.2025 13:50:17
+		Duration:	04:51:04
+		Location:	50.79982 4.38027
+
+(10) - Finish
+	BACCA2
+		Images:	19051
+		Time:	25.05.2025 10:09:40 until 25.05.2025 16:43:47
+		Duration:	06:34:07
+		Location:	50.83944 4.39736
+
+	BBAR2
+		Images:	6709
+		Time:	25.05.2025 10:38:15 until 25.05.2025 16:44:14
+		Duration:	06:05:59
+		Location:	50.83944 4.39736
+
+	BBC2
+		Images:	5299
+		Time:	25.05.2025 10:30:18 until 25.05.2025 16:39:44
+		Duration:	06:09:26
+		Location:	50.83944 4.39736
+
+	BDAZ2
+		Images:	2115
+		Time:	25.05.2025 11:12:37 until 25.05.2025 15:06:07
+		Duration:	03:53:30
+		Location:	50.83944 4.39736
+
+	BDIK2
+		Images:	10260
+		Time:	25.05.2025 10:39:53 until 25.05.2025 16:41:28
+		Duration:	06:01:35
+		Location:	50.83944 4.39736
+
+	BJKE2
+		Images:	5255
+		Time:	25.05.2025 10:36:42 until 25.05.2025 16:31:30
+		Duration:	05:54:48
+		Location:	50.83944 4.39736
+
+	BSAMA2
+		Images:	7614
+		Time:	25.05.2025 10:53:18 until 25.05.2025 16:47:34
+		Duration:	05:54:16
+		Location:	50.83944 4.39736
+
+	BTHL3
+		Images:	1083
+		Time:	25.05.2025 12:33:32 until 25.05.2025 14:13:42
+		Duration:	01:40:10
+		Location:	50.83944 4.39736
+
+	BTID2
+		Images:	22676
+		Time:	25.05.2025 10:10:09 until 25.05.2025 16:41:42
+		Duration:	06:31:33
+		Location:	50.83944 4.39736
+
+	BTID2LS1
+		Images:	15492
+		Time:	25.05.2025 11:09:31 until 25.05.2025 16:31:16
+		Duration:	05:21:45
+		Location:	50.83944 4.39736
+
+(11) - Impressions / Pano
+	BTHL1
+		Images:	289
+		Time:	25.05.2025 08:46:39 until 25.05.2025 11:22:06
+		Duration:	02:35:27
+		Location:	50.84088 4.38723
+
+(12) - Start
+	BBAR1
+		Images:	278
+		Time:	25.05.2025 09:00:03 until 25.05.2025 10:22:57
+		Duration:	01:22:54
+		Location:	50.84088 4.38723
+
+	BBC1
+		Images:	287
+		Time:	25.05.2025 08:59:14 until 25.05.2025 10:24:22
+		Duration:	01:25:08
+		Location:	50.84088 4.38723
+
+	BDAZ1
+		Images:	269
+		Time:	25.05.2025 09:06:29 until 25.05.2025 11:10:22
+		Duration:	02:03:53
+		Location:	50.84088 4.38723
+
+	BDIK1
+		Images:	267
+		Time:	25.05.2025 08:59:08 until 25.05.2025 10:22:58
+		Duration:	01:23:50
+		Location:	50.84088 4.38723
+
+	BJKE1
+		Images:	4268
+		Time:	25.05.2025 08:37:23 until 25.05.2025 10:36:42
+		Duration:	01:59:19
+		Location:	50.84088 4.38723
+
+	BSAMA1
+		Images:	2421
+		Time:	25.05.2025 09:12:50 until 25.05.2025 10:35:08
+		Duration:	01:22:18
+		Location:	50.84088 4.38723
+
+	BTHL2
+		Images:	598
+		Time:	25.05.2025 09:31:28 until 25.05.2025 11:43:54
+		Duration:	02:12:26
+		Location:	50.84088 4.38723
+
+	BTID3
+		Images:	356
+		Time:	25.05.2025 08:51:38 until 25.05.2025 10:00:09
+		Duration:	01:08:31
+		Location:	50.84088 4.38723
+

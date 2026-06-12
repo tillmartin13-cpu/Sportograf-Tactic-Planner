@@ -1,0 +1,235 @@
+EventId: 13972
+Spots: 36
+Total Images: 241514
+Time:	01.01.0001 23:00:00 to 16.06.2025 00:28:16
+Duration: 739416.01:28:16
+
+(1) - Swim - Impressions / Pano
+	PANO1
+		Images:	22
+		Time:	15.06.2025 06:06:10 until 15.06.2025 08:47:33
+		Duration:	02:41:23
+		Location:	46.61980 14.25443
+
+(2) - Swim - Start
+	ADS3
+		Images:	7188
+		Time:	15.06.2025 06:22:50 until 15.06.2025 07:38:56
+		Duration:	01:16:06
+		Location:	46.61980 14.25443
+
+	ASTU1
+		Images:	4722
+		Time:	14.06.2025 20:21:01 until 15.06.2025 07:38:22
+		Duration:	11:17:21
+		Location:	46.61980 14.25443
+
+	CK2
+(3) - Swim - Transition zone
+	CK3
+		Images:	531
+		Time:	15.06.2025 07:38:00 until 15.06.2025 07:46:39
+		Duration:	00:08:39
+		Location:	46.61784 14.26016
+
+	EH1
+		Images:	10355
+		Time:	15.06.2025 06:11:00 until 15.06.2025 09:18:35
+		Duration:	03:07:35
+		Location:	46.61784 14.26016
+
+	EH1LS2
+		Images:	3307
+		Time:	15.06.2025 07:22:37 until 15.06.2025 09:25:07
+		Duration:	02:02:30
+		Location:	46.61784 14.26016
+
+	EH1LS1
+		Images:	5443
+		Time:	15.06.2025 07:40:22 until 15.06.2025 09:20:29
+		Duration:	01:40:07
+		Location:	46.61784 14.26016
+
+	NAG1
+		Images:	5477
+		Time:	15.06.2025 06:29:30 until 15.06.2025 10:09:41
+		Duration:	03:40:11
+		Location:	46.61784 14.26016
+
+(4) - Bike - Transition zone
+	CK4
+		Images:	737
+		Time:	15.06.2025 07:49:10 until 15.06.2025 08:06:29
+		Duration:	00:17:19
+		Location:	46.61578 14.26176
+
+	GEH1
+		Images:	7298
+		Time:	15.06.2025 06:00:45 until 15.06.2025 10:09:21
+		Duration:	04:08:36
+		Location:	46.61578 14.26176
+
+(5) - Bike - 0.2 km
+	CK5
+		Images:	1271
+		Time:	15.06.2025 08:06:36 until 15.06.2025 08:26:01
+		Duration:	00:19:25
+		Location:	46.61572 14.26133
+
+	CK5LS1
+		Images:	872
+		Time:	15.06.2025 08:04:35 until 15.06.2025 08:22:53
+		Duration:	00:18:18
+		Location:	46.61572 14.26133
+
+(6) - Run - Impressions / Pano
+	CK6
+		Images:	10
+		Time:	15.06.2025 12:39:42 until 15.06.2025 13:27:16
+		Duration:	00:47:34
+		Location:	46.62100 14.25403
+
+(7) - Bike - 6.7 km
+	MFAJ1
+		Images:	7101
+		Time:	15.06.2025 05:37:43 until 15.06.2025 14:18:40
+		Duration:	08:40:57
+		Location:	46.60911 14.19759
+
+	MFAJ1LS2
+		Images:	8887
+		Time:	15.06.2025 07:07:22 until 15.06.2025 14:39:30
+		Duration:	07:32:08
+		Location:	46.60911 14.19759
+
+	MFAJ1LS1
+		Images:	11477
+		Time:	01.01.0001 23:00:00 until 15.06.2025 14:39:29
+		Duration:	739415.15:39:29
+		Location:	46.60911 14.19759
+
+(8) - Bike - 7.4 km
+	JOTO1
+		Images:	5362
+		Time:	14.06.2025 09:56:06 until 15.06.2025 15:15:54
+		Duration:	1.05:19:48
+		Location:	46.60645 14.18275
+
+(9) - Bike - 8.2 km
+	LU1
+		Images:	10727
+		Time:	14.06.2025 18:26:53 until 15.06.2025 14:31:40
+		Duration:	20:04:47
+		Location:	46.61076 14.17987
+
+(10) - Bike - 71.6 km
+	MLE1
+		Images:	8560
+		Time:	14.06.2025 22:52:31 until 15.06.2025 17:24:18
+		Duration:	18:31:47
+		Location:	46.54524 14.16011
+
+	MLE1LS1
+		Images:	2176
+		Time:	15.05.2025 09:13:33 until 15.05.2025 13:19:46
+		Duration:	04:06:13
+		Location:	46.54524 14.16011
+
+(11) - Run - 22.4 km
+	MFAJ2
+		Images:	1730
+		Time:	15.06.2025 17:31:38 until 15.06.2025 20:37:23
+		Duration:	03:05:45
+		Location:	46.62309 14.25196
+
+	GEH2
+		Images:	10989
+		Time:	15.06.2025 11:32:01 until 15.06.2025 21:31:54
+		Duration:	09:59:53
+		Location:	46.62309 14.25196
+
+(12) - Run - 17.7 km
+	ASTU2
+		Images:	19813
+		Time:	15.06.2025 10:56:54 until 15.06.2025 20:51:25
+		Duration:	09:54:31
+		Location:	46.62380 14.30176
+
+(13) - Run - 37.2 km
+	ADS2
+		Images:	16030
+		Time:	15.06.2025 11:58:00 until 15.06.2025 22:59:09
+		Duration:	11:01:09
+		Location:	46.62502 14.30600
+
+(14) - Run - 42.0 km
+	CK2LS2
+		Images:	4427
+		Time:	15.06.2025 14:03:19 until 15.06.2025 16:23:19
+		Duration:	02:20:00
+		Location:	46.62100 14.25403
+
+(15) - Run - 42.1 km
+	CK2LS1
+		Images:	8916
+		Time:	15.06.2025 14:03:33 until 15.06.2025 17:49:53
+		Duration:	03:46:20
+		Location:	46.62100 14.25403
+
+	NAG2
+		Images:	16604
+		Time:	15.06.2025 14:10:01 until 15.06.2025 22:42:52
+		Duration:	08:32:51
+		Location:	46.62100 14.25403
+
+	LU2
+		Images:	294
+		Time:	15.06.2025 21:10:38 until 16.06.2025 00:28:16
+		Duration:	03:17:38
+		Location:	46.62100 14.25403
+
+(16) - Finish
+	CK8
+		Images:	895
+		Time:	15.06.2025 14:05:27 until 15.06.2025 16:16:34
+		Duration:	02:11:07
+		Location:	46.62186 14.25455
+
+	EH2
+		Images:	19737
+		Time:	15.06.2025 14:14:21 until 15.06.2025 22:46:07
+		Duration:	08:31:46
+		Location:	46.62186 14.25455
+
+	EH2LS2
+		Images:	16126
+		Time:	15.06.2025 14:08:31 until 15.06.2025 22:53:32
+		Duration:	08:45:01
+		Location:	46.62186 14.25455
+
+	EH2LS1
+		Images:	17897
+		Time:	15.06.2025 14:01:26 until 15.06.2025 22:59:46
+		Duration:	08:58:20
+		Location:	46.62186 14.25455
+
+	JOTO2
+		Images:	5802
+		Time:	14.06.2025 09:56:06 until 16.06.2025 00:27:44
+		Duration:	1.14:31:38
+		Location:	46.62186 14.25455
+
+(17) - Run - 42.2 km
+	CK9
+		Images:	497
+		Time:	15.06.2025 17:44:17 until 15.06.2025 17:53:42
+		Duration:	00:09:25
+		Location:	46.62100 14.25403
+
+(18) - Ceremony
+	CK10
+		Images:	234
+		Time:	15.06.2025 14:41:27 until 15.06.2025 16:42:12
+		Duration:	02:00:45
+		Location:	46.62186 14.25455
+

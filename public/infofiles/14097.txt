@@ -1,0 +1,269 @@
+EventId: 14097
+Spots: 42
+Total Images: 255210
+Time:	31.12.2013 23:05:01 to 29.06.2025 22:02:35
+Duration: 4197.22:57:34
+
+(1) - Swim - Start
+	MHO1
+		Images:	1239
+		Time:	29.06.2025 05:32:53 until 29.06.2025 07:03:21
+		Duration:	01:30:28
+		Location:	50.01842 8.62081
+
+	MIB1
+		Images:	41
+		Time:	29.06.2025 06:19:36 until 29.06.2025 06:30:48
+		Duration:	00:11:12
+		Location:	50.01842 8.62081
+
+	MLU1
+		Images:	390
+		Time:	29.06.2025 06:14:44 until 29.06.2025 06:55:43
+		Duration:	00:40:59
+		Location:	50.01842 8.62081
+
+	WIP1
+		Images:	564
+		Time:	29.06.2025 06:09:37 until 29.06.2025 06:55:31
+		Duration:	00:45:54
+		Location:	50.01811 8.62228
+
+(2) - Australian exit
+	MIB2
+		Images:	352
+		Time:	29.06.2025 06:31:03 until 29.06.2025 07:02:36
+		Duration:	00:31:33
+		Location:	50.01811 8.62228
+
+	NE2
+		Images:	162
+		Time:	29.06.2025 06:23:37 until 29.06.2025 06:42:59
+		Duration:	00:19:22
+		Location:	50.01811 8.62228
+
+(3) - Swim - Exit
+	MHO2
+		Images:	5415
+		Time:	29.06.2025 07:07:52 until 29.06.2025 09:07:03
+		Duration:	01:59:11
+		Location:	50.01811 8.62228
+
+	MLU2
+		Images:	5321
+		Time:	29.06.2025 07:02:13 until 29.06.2025 09:19:11
+		Duration:	02:16:58
+		Location:	50.01770 8.62211
+
+	MLU2LS1
+		Images:	3757
+		Time:	29.06.2025 07:01:37 until 29.06.2025 09:16:01
+		Duration:	02:14:24
+		Location:	50.01770 8.62211
+
+(4) - Transition zone Swim to Bike
+	MIB3
+		Images:	473
+		Time:	29.06.2025 07:06:52 until 29.06.2025 07:50:26
+		Duration:	00:43:34
+		Location:	50.02011 8.62292
+
+	NE3
+		Images:	155
+		Time:	29.06.2025 07:03:03 until 29.06.2025 07:42:13
+		Duration:	00:39:10
+		Location:	50.02011 8.62292
+
+	WIP2
+		Images:	1161
+		Time:	29.06.2025 06:57:59 until 29.06.2025 09:18:06
+		Duration:	02:20:07
+		Location:	50.02017 8.62273
+
+(5) - Bike - km 31/112 - Maintal
+	MDO1
+		Images:	12886
+		Time:	29.06.2025 07:14:08 until 29.06.2025 14:17:03
+		Duration:	07:02:55
+		Location:	50.15342 8.83447
+
+	MDO1LS1
+		Images:	4946
+		Time:	29.06.2025 07:27:22 until 29.06.2025 13:53:10
+		Duration:	06:25:48
+		Location:	50.15342 8.83447
+
+(6) - Bike - km 45/126 - B521
+	MAE1
+		Images:	14274
+		Time:	29.06.2025 08:05:17 until 29.06.2025 14:35:54
+		Duration:	06:30:37
+		Location:	50.23242 8.85445
+
+	MAE1LS1
+		Images:	2242
+		Time:	29.06.2025 07:57:49 until 29.06.2025 13:44:44
+		Duration:	05:46:55
+		Location:	50.23242 8.85445
+
+(7) - Bike - km 60/141 - Town entrance Stammheim
+	RJ1
+		Images:	15011
+		Time:	29.06.2025 08:15:32 until 29.06.2025 15:15:12
+		Duration:	06:59:40
+		Location:	50.31066 8.92555
+
+	RJ1LS1
+		Images:	4638
+		Time:	29.06.2025 08:17:00 until 29.06.2025 15:15:43
+		Duration:	06:58:43
+		Location:	50.31066 8.92555
+
+	RJ1LS2
+		Images:	4548
+		Time:	29.06.2025 08:17:00 until 29.06.2025 15:16:16
+		Duration:	06:59:16
+		Location:	50.31066 8.92555
+
+(8) - Bike - km 64/145 - Forest
+	NU1
+		Images:	14294
+		Time:	29.06.2025 08:09:46 until 29.06.2025 15:27:32
+		Duration:	07:17:46
+		Location:	50.29274 8.87831
+
+	NU1LS1
+		Images:	4830
+		Time:	29.06.2025 07:46:18 until 29.06.2025 15:28:27
+		Duration:	07:42:09
+		Location:	50.29274 8.87831
+
+	NU1LS2
+		Images:	4230
+		Time:	29.06.2025 08:15:15 until 29.06.2025 14:23:13
+		Duration:	06:07:58
+		Location:	50.29274 8.87831
+
+(9) - Bike - km 68/150 - Long Straight
+	GUD1
+		Images:	18597
+		Time:	29.06.2025 08:18:31 until 29.06.2025 15:38:17
+		Duration:	07:19:46
+		Location:	50.26529 8.84048
+
+	GUD1LS1
+		Images:	5579
+		Time:	29.06.2025 08:20:07 until 29.06.2025 15:39:33
+		Duration:	07:19:26
+		Location:	50.26529 8.84048
+
+	GUD1LS2
+		Images:	5481
+		Time:	29.06.2025 08:20:07 until 29.06.2025 14:51:31
+		Duration:	06:31:24
+		Location:	50.26529 8.84048
+
+(10) - Bike - km 73/154 - B521
+	SBU1
+		Images:	10480
+		Time:	29.06.2025 08:44:35 until 29.06.2025 15:48:33
+		Duration:	07:03:58
+		Location:	50.23228 8.85439
+
+	SBU1LS1
+		Images:	4016
+		Time:	29.06.2025 08:46:56 until 29.06.2025 15:49:08
+		Duration:	07:02:12
+		Location:	50.23228 8.85439
+
+(11) - Bike - km 75/156 - Büdesheim
+	CLL1
+		Images:	7074
+		Time:	29.06.2025 08:36:06 until 29.06.2025 15:54:13
+		Duration:	07:18:07
+		Location:	50.21820 8.83466
+
+	CLL1LS1
+		Images:	11275
+		Time:	29.06.2025 08:50:00 until 29.06.2025 15:08:04
+		Duration:	06:18:04
+		Location:	50.21820 8.83466
+
+	CLL1LS2
+		Images:	5938
+		Time:	29.06.2025 08:49:34 until 29.06.2025 15:34:29
+		Duration:	06:44:55
+		Location:	50.21820 8.83466
+
+(12) - Run - km 0,5/11/21,5/32 - Bridge "Eiserner Steg"
+	WIP3
+		Images:	6703
+		Time:	29.06.2025 11:06:57 until 29.06.2025 20:28:49
+		Duration:	09:21:52
+		Location:	50.10786 8.67935
+
+	NU2
+		Images:	3091
+		Time:	29.06.2025 17:48:44 until 29.06.2025 20:31:23
+		Duration:	02:42:39
+		Location:	50.10786 8.67935
+
+(13) - Run - km 5/15,5/26/36,5 - Main with Skyline
+	NE4
+		Images:	7274
+		Time:	29.06.2025 11:12:58 until 29.06.2025 21:04:02
+		Duration:	09:51:04
+		Location:	50.10714 8.68139
+
+(14) - Run - km 6,5/17/27,5/38,0 - Deutschherrnviertel
+	MLU3
+		Images:	19089
+		Time:	29.06.2025 11:30:25 until 29.06.2025 21:00:12
+		Duration:	09:29:47
+		Location:	50.10661 8.69797
+
+	MLU3LS1
+		Images:	7906
+		Time:	29.06.2025 11:14:34 until 29.06.2025 21:01:17
+		Duration:	09:46:43
+		Location:	50.10661 8.69797
+
+	MDO2
+		Images:	4900
+		Time:	29.06.2025 18:16:35 until 29.06.2025 22:01:23
+		Duration:	03:44:48
+		Location:	50.10661 8.69797
+
+(15) - Finish
+	MHO3
+		Images:	21142
+		Time:	29.06.2025 13:38:13 until 29.06.2025 22:01:22
+		Duration:	08:23:09
+		Location:	50.11014 8.68208
+
+	MHO3LS1
+		Images:	1812
+		Time:	31.12.2013 23:05:01 until 01.01.2014 07:22:18
+		Duration:	08:17:17
+		Location:	50.11040 8.68207
+
+	MIB4
+		Images:	8597
+		Time:	29.06.2025 10:23:51 until 29.06.2025 22:02:35
+		Duration:	11:38:44
+		Location:	50.11014 8.68208
+
+	MAE2
+		Images:	5317
+		Time:	29.06.2025 17:44:14 until 29.06.2025 21:17:24
+		Duration:	03:33:10
+		Location:	50.11014 8.68208
+
+(16) - Impressions / Pano
+	GUD1DRONE1
+		Images:	10
+		Time:	29.06.2025 07:29:16 until 29.06.2025 07:39:21
+		Duration:	00:10:05
+		Location:	50.26529 8.84048
+
+	PANO1

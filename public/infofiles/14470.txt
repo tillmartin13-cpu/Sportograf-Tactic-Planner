@@ -1,0 +1,120 @@
+EventId: 14470
+Spots: 17
+Total Images: 101223
+Time:	06.06.2025 16:18:57 to 07.06.2025 18:19:48
+Duration: 1.02:00:51
+
+(1) - Obstacle 3 Barbed Wire Crawl
+	MAU1
+		Images:	12976
+		Time:	07.06.2025 06:12:11 until 07.06.2025 15:31:25
+		Duration:	09:19:14
+		Location:	41.69694 -74.88608
+
+(2) - Obstacle 7 Bucket Carry
+	MRKE1
+		Images:	14553
+		Time:	07.06.2025 07:17:19 until 07.06.2025 15:51:56
+		Duration:	08:34:37
+		Location:	41.69911 -74.88877
+
+	VICY2
+		Images:	911
+		Time:	07.06.2025 13:22:36 until 07.06.2025 13:54:13
+		Duration:	00:31:37
+		Location:	41.69911 -74.88877
+
+(3) - Obstacle 9 Atlas Carry
+	PEC2
+		Images:	2755
+		Time:	07.06.2025 12:26:04 until 07.06.2025 16:17:36
+		Duration:	03:51:32
+		Location:	41.70447 -74.89741
+
+	UKN2
+		Images:	1027
+		Time:	07.06.2025 12:22:52 until 07.06.2025 16:30:16
+		Duration:	04:07:24
+		Location:	41.70447 -74.89741
+
+(4) - Obstacle 19 Sandbag Carry
+	JAYK1
+		Images:	4712
+		Time:	07.06.2025 07:51:12 until 07.06.2025 16:54:56
+		Duration:	09:03:44
+		Location:	41.70200 -74.89569
+
+(5) - Obstacle 18 Traverse Wall
+	PEC1
+		Images:	2303
+		Time:	07.06.2025 07:55:19 until 07.06.2025 13:41:36
+		Duration:	05:46:17
+		Location:	41.70300 -74.89700
+
+	UKN1
+		Images:	1080
+		Time:	07.06.2025 06:22:02 until 07.06.2025 12:22:51
+		Duration:	06:00:49
+		Location:	41.70300 -74.89700
+
+(6) - Obstacle 20 Multi-Rig
+	GAUB1
+		Images:	5102
+		Time:	07.06.2025 06:12:59 until 07.06.2025 16:32:51
+		Duration:	10:19:52
+		Location:	41.70319 -74.89708
+
+	SWDY1
+		Images:	11964
+		Time:	06.06.2025 16:18:57 until 07.06.2025 16:32:58
+		Duration:	1.00:14:01
+		Location:	41.70319 -74.89708
+
+(7) - Obstacle 22 Slip Wall
+	ALTO1
+		Images:	7292
+		Time:	07.06.2025 07:17:53 until 07.06.2025 17:38:31
+		Duration:	10:20:38
+		Location:	41.69730 -74.88750
+
+(8) - Obstacle 23 Plate Drag
+	EUGP1
+		Images:	2627
+		Time:	07.06.2025 08:03:12 until 07.06.2025 16:19:39
+		Duration:	08:16:27
+		Location:	41.69708 -74.88861
+
+	YEP1
+		Images:	4032
+		Time:	07.06.2025 08:05:10 until 07.06.2025 16:02:10
+		Duration:	07:57:00
+		Location:	41.69708 -74.88861
+
+(9) - Obstacle 25 Craft A-Frame Cargo
+	ANMF1
+		Images:	17467
+		Time:	07.06.2025 06:15:39 until 07.06.2025 18:19:33
+		Duration:	12:03:54
+		Location:	41.69097 -74.88638
+
+(10) - Obstacle 26 Fire Jump
+	WMY1
+		Images:	9231
+		Time:	07.06.2025 06:50:23 until 07.06.2025 18:13:23
+		Duration:	11:23:00
+		Location:	41.69069 -74.88686
+
+(11) - Herotent
+	PKO1
+		Images:	3015
+		Time:	07.06.2025 08:01:50 until 07.06.2025 18:17:35
+		Duration:	10:15:45
+		Location:	41.69055 -74.88677
+
+(12) - Venue
+	VICY1
+		Images:	176
+		Time:	07.06.2025 09:52:35 until 07.06.2025 18:19:48
+		Duration:	08:27:13
+		Location:	41.69055 -74.88677
+

@@ -1,0 +1,88 @@
+EventId: 14620
+Spots: 12
+Total Images: 82500
+Time:	12.07.2025 14:54:21 to 10.08.2025 07:25:52
+Duration: 28.16:31:31
+
+(1) - Obstacle 7
+	BCOR1
+		Images:	8761
+		Time:	08.08.2025 22:10:32 until 09.08.2025 15:10:06
+		Duration:	16:59:34
+		Location:	52.26387 -113.85754
+
+(2) - Obstacle 14
+	BMO1
+		Images:	6198
+		Time:	08.08.2025 22:06:17 until 10.08.2025 07:00:35
+		Duration:	1.08:54:18
+		Location:	52.26437 -113.85991
+
+(3) - Obstacle 15
+	CASS1
+		Images:	4618
+		Time:	08.08.2025 19:19:39 until 09.08.2025 03:26:54
+		Duration:	08:07:15
+		Location:	52.26445 -113.86061
+
+	CBAC1
+		Images:	10770
+		Time:	09.08.2025 07:02:26 until 10.08.2025 07:05:31
+		Duration:	1.00:03:05
+		Location:	52.26445 -113.86061
+
+(4) - Obstacle 24
+	HQ1
+		Images:	7159
+		Time:	09.08.2025 06:48:15 until 09.08.2025 16:07:13
+		Duration:	09:18:58
+		Location:	52.26511 -113.86062
+
+	PDE1
+		Images:	6129
+		Time:	09.08.2025 05:43:42 until 10.08.2025 06:57:42
+		Duration:	1.01:14:00
+		Location:	52.26511 -113.86062
+
+(5) - General Event Photos
+	NIMA1
+		Images:	509
+		Time:	12.07.2025 14:54:21 until 09.08.2025 14:22:21
+		Duration:	27.23:28:00
+		Location:	52.26186 -113.85609
+
+(6) - Obstacle 12
+	THAT1
+		Images:	13175
+		Time:	09.08.2025 05:46:39 until 10.08.2025 07:24:39
+		Duration:	1.01:38:00
+		Location:	52.26412 -113.85939
+
+(7) - Drone Photos
+	THAT1DRONE1
+		Images:	63
+		Time:	09.08.2025 14:54:58 until 09.08.2025 16:51:23
+		Duration:	01:56:25
+		Location:	52.26242 -113.85433
+
+(8) - Herotent
+	VM1
+		Images:	2501
+		Time:	09.08.2025 06:49:58 until 09.08.2025 16:14:08
+		Duration:	09:24:10
+		Location:	52.26358 -113.85923
+
+(9) - Obstacle 13
+	HLN1
+		Images:	17333
+		Time:	07.08.2025 18:16:17 until 09.08.2025 15:22:41
+		Duration:	1.21:06:24
+		Location:	52.26423 -113.85776
+
+(10) - Obstacle 8
+	CLC1
+		Images:	5276
+		Time:	08.08.2025 22:09:00 until 10.08.2025 07:25:52
+		Duration:	1.09:16:52
+		Location:	52.26491 -113.85831
+

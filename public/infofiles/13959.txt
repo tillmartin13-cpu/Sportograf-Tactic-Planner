@@ -1,0 +1,360 @@
+EventId: 13959
+Spots: 55
+Total Images: 443877
+Time:	27.04.2025 07:03:09 to 27.04.2025 16:01:58
+Duration: 08:58:49
+
+(1) - Finish
+	BGL2
+		Images:	8123
+		Time:	27.04.2025 10:56:58 until 27.04.2025 16:01:53
+		Duration:	05:04:55
+		Location:	53.56068 9.97550
+
+	BMARM2
+		Images:	13570
+		Time:	27.04.2025 09:38:03 until 27.04.2025 16:01:58
+		Duration:	06:23:55
+		Location:	53.56068 9.97550
+
+	BRYS2
+		Images:	3351
+		Time:	27.04.2025 12:44:59 until 27.04.2025 14:31:22
+		Duration:	01:46:23
+		Location:	53.56068 9.97550
+
+	BRYS2LS1
+		Images:	3424
+		Time:	27.04.2025 12:34:01 until 27.04.2025 14:33:00
+		Duration:	01:58:59
+		Location:	53.56068 9.97550
+
+(2) - Finish HM
+	ASZ2
+		Images:	5297
+		Time:	27.04.2025 09:43:26 until 27.04.2025 11:22:14
+		Duration:	01:38:48
+		Location:	53.55714 9.97627
+
+	BBK2
+		Images:	8660
+		Time:	27.04.2025 09:38:06 until 27.04.2025 11:41:03
+		Duration:	02:02:57
+		Location:	53.55714 9.97627
+
+(3) - Impressions / Pano
+	PANO1
+(4) - KM 0,5 Die zwei Tuerme
+	BHAHE1
+		Images:	1920
+		Time:	27.04.2025 07:42:41 until 27.04.2025 09:51:49
+		Duration:	02:09:08
+		Location:	53.55673 9.97534
+
+(5) - KM 1,6 Reeperbahn
+	APLA1
+		Images:	5604
+		Time:	27.04.2025 08:07:25 until 27.04.2025 12:16:46
+		Duration:	04:09:21
+		Location:	53.54979 9.96463
+
+(6) - KM 10.06 St Pauli Fischmarkt
+	BRYS1
+		Images:	5594
+		Time:	27.04.2025 07:39:30 until 27.04.2025 11:10:44
+		Duration:	03:31:14
+		Location:	53.54600 9.95763
+
+	BRYS1LS1
+		Images:	3861
+		Time:	27.04.2025 07:51:44 until 27.04.2025 11:12:35
+		Duration:	03:20:51
+		Location:	53.54600 9.95763
+
+(7) - KM 11,5 Landungsbruecken
+	ACPI1
+		Images:	10147
+		Time:	27.04.2025 08:55:01 until 27.04.2025 11:25:54
+		Duration:	02:30:53
+		Location:	53.54563 9.97051
+
+	AHT1
+		Images:	9929
+		Time:	27.04.2025 08:26:06 until 27.04.2025 11:25:48
+		Duration:	02:59:42
+		Location:	53.54563 9.97051
+
+	AHT1LS1
+		Images:	10665
+		Time:	27.04.2025 08:30:39 until 27.04.2025 11:24:17
+		Duration:	02:53:38
+		Location:	53.54563 9.97051
+
+(8) - KM 11,8 Ueberseebruecke
+	BFDC1
+		Images:	9995
+		Time:	27.04.2025 07:56:53 until 27.04.2025 10:47:57
+		Duration:	02:51:04
+		Location:	53.54398 9.97805
+
+(9) - KM 11,9 Broklyn
+	AFGA1
+		Images:	11932
+		Time:	27.04.2025 07:58:29 until 27.04.2025 11:31:44
+		Duration:	03:33:15
+		Location:	53.54434 9.98012
+
+	AMELS1
+		Images:	13268
+		Time:	27.04.2025 07:54:09 until 27.04.2025 11:34:05
+		Duration:	03:39:56
+		Location:	53.54434 9.98012
+
+(10) - KM 13,3 Kornhausbruecke
+	BPDD1
+		Images:	1903
+		Time:	27.04.2025 07:44:58 until 27.04.2025 10:00:09
+		Duration:	02:15:11
+		Location:	53.54657 9.99716
+
+(11) - KM 13.2 Elbphilharmonie
+	BFES1
+		Images:	13718
+		Time:	27.04.2025 07:34:04 until 27.04.2025 11:36:12
+		Duration:	04:02:08
+		Location:	53.54558 9.99459
+
+(12) - KM 14,4 Wallringtunnel
+	AEBO1
+		Images:	11787
+		Time:	27.04.2025 08:12:10 until 27.04.2025 11:54:05
+		Duration:	03:41:55
+		Location:	53.55555 10.00021
+
+(13) - KM 15,5 Binnenalster
+	BSEN1
+		Images:	21117
+		Time:	27.04.2025 09:06:34 until 27.04.2025 11:59:17
+		Duration:	02:52:43
+		Location:	53.55255 9.99566
+
+(14) - KM 15,9 Alsterhaus
+	AJMAR1
+		Images:	9184
+		Time:	27.04.2025 08:57:29 until 27.04.2025 12:15:16
+		Duration:	03:17:47
+		Location:	53.55363 9.99211
+
+	BFG1
+		Images:	10018
+		Time:	27.04.2025 07:10:27 until 27.04.2025 12:23:05
+		Duration:	05:12:38
+		Location:	53.55346 9.99219
+
+(15) - Km 16,2 neuer Jungfernstieg
+	ACRIC1
+		Images:	12749
+		Time:	27.04.2025 08:25:25 until 27.04.2025 11:54:04
+		Duration:	03:28:39
+		Location:	53.55596 9.99222
+
+	ACRIC1LS1
+		Images:	2709
+		Time:	27.04.2025 08:11:03 until 27.04.2025 11:54:58
+		Duration:	03:43:55
+		Location:	53.55596 9.99222
+
+	BMIRW1
+		Images:	8748
+		Time:	27.04.2025 08:04:45 until 27.04.2025 12:00:36
+		Duration:	03:55:51
+		Location:	53.55596 9.99222
+
+(16) - KM 2,1 Pink Palace
+	BNR1
+		Images:	3545
+		Time:	27.04.2025 08:20:43 until 27.04.2025 10:05:57
+		Duration:	01:45:14
+		Location:	53.54963 9.95931
+
+(17) - KM 20,2 Langer Zug Bruecke
+	ADIC1
+		Images:	8910
+		Time:	27.04.2025 08:24:21 until 27.04.2025 12:10:36
+		Duration:	03:46:15
+		Location:	53.55779 9.98405
+
+	AJOKR1
+		Images:	7069
+		Time:	27.04.2025 08:14:35 until 27.04.2025 12:10:11
+		Duration:	03:55:36
+		Location:	53.55779 9.98405
+
+(18) - KM 28,2 An der Alster
+	BFES2
+		Images:	6406
+		Time:	27.04.2025 12:21:49 until 27.04.2025 13:50:13
+		Duration:	01:28:24
+		Location:	53.61225 10.01214
+
+(19) - KM 28,8 An der Alster
+	AVDN1
+		Images:	2942
+		Time:	27.04.2025 10:35:44 until 27.04.2025 12:58:21
+		Duration:	02:22:37
+		Location:	53.59351 10.00841
+
+(20) - KM 3,6 Rathaus Altona
+	BJKOR1
+		Images:	11273
+		Time:	27.04.2025 07:03:09 until 27.04.2025 10:18:52
+		Duration:	03:15:43
+		Location:	53.54763 9.93518
+
+(21) - KM 37,2 Eppendorfer Baum
+	BHAHE2
+		Images:	15987
+		Time:	27.04.2025 10:50:09 until 27.04.2025 15:08:43
+		Duration:	04:18:34
+		Location:	53.58303 9.98503
+
+	BHAHE2LS1
+		Images:	8789
+		Time:	27.04.2025 11:17:21 until 27.04.2025 15:06:39
+		Duration:	03:49:18
+		Location:	53.58303 9.98503
+
+(22) - KM 39,3 Harvesterhuder Weg
+	APLA2
+		Images:	10667
+		Time:	27.04.2025 12:16:46 until 27.04.2025 15:28:59
+		Duration:	03:12:13
+		Location:	53.56928 10.00063
+
+	BNR2
+		Images:	19354
+		Time:	27.04.2025 10:37:00 until 27.04.2025 15:32:03
+		Duration:	04:55:03
+		Location:	53.56735 10.00066
+
+(23) - KM 40,9 Dammtor
+	ACRIC2
+		Images:	8372
+		Time:	27.04.2025 12:45:44 until 27.04.2025 15:51:51
+		Duration:	03:06:07
+		Location:	53.55949 9.98999
+
+(24) - KM 40.9 Dammtor
+	BMIRW2
+		Images:	8313
+		Time:	27.04.2025 12:20:55 until 27.04.2025 15:22:19
+		Duration:	03:01:24
+		Location:	53.55949 9.98999
+
+	BPDD2
+		Images:	7984
+		Time:	27.04.2025 10:18:55 until 27.04.2025 15:46:32
+		Duration:	05:27:37
+		Location:	53.55949 9.98999
+
+(25) - KM 41,6 Gorch Fock Wall
+	BJKOR2
+		Images:	13688
+		Time:	27.04.2025 11:07:34 until 27.04.2025 13:32:08
+		Duration:	02:24:34
+		Location:	53.55779 9.98405
+
+	BJKOR2LS1
+		Images:	10128
+		Time:	27.04.2025 13:36:01 until 27.04.2025 15:54:12
+		Duration:	02:18:11
+		Location:	53.55779 9.98405
+
+	BSEN2
+		Images:	15168
+		Time:	27.04.2025 12:23:10 until 27.04.2025 15:54:08
+		Duration:	03:30:58
+		Location:	53.55779 9.98405
+
+(26) - KM 41,8 Johannes Brahms Platz
+	AJMAR2
+		Images:	14030
+		Time:	27.04.2025 12:26:15 until 27.04.2025 14:45:36
+		Duration:	02:19:21
+		Location:	53.55614 9.97960
+
+	BFDC2
+		Images:	12216
+		Time:	27.04.2025 10:47:58 until 27.04.2025 15:56:15
+		Duration:	05:08:17
+		Location:	53.55579 9.97937
+
+	BFG2
+		Images:	8596
+		Time:	27.04.2025 12:24:09 until 27.04.2025 15:56:04
+		Duration:	03:31:55
+		Location:	53.55579 9.97937
+
+(27) - Start
+	BGL1
+		Images:	1527
+		Time:	27.04.2025 08:06:34 until 27.04.2025 09:49:23
+		Duration:	01:42:49
+		Location:	53.56068 9.97550
+
+(28) - Start HM
+	ASZ1
+		Images:	792
+		Time:	27.04.2025 08:34:01 until 27.04.2025 09:42:13
+		Duration:	01:08:12
+		Location:	53.55714 9.97627
+
+	BBK1
+		Images:	1539
+		Time:	27.04.2025 08:26:20 until 27.04.2025 09:36:28
+		Duration:	01:10:08
+		Location:	53.55714 9.97627
+
+	BMARM1
+		Images:	2275
+		Time:	27.04.2025 07:27:36 until 27.04.2025 08:45:25
+		Duration:	01:17:49
+		Location:	53.55714 9.97627
+
+(29) - Ziel
+	ACPI2
+		Images:	3030
+		Time:	27.04.2025 12:33:24 until 27.04.2025 14:33:24
+		Duration:	02:00:00
+		Location:	53.56068 9.97550
+
+	ADIC2
+		Images:	1471
+		Time:	27.04.2025 13:26:05 until 27.04.2025 15:29:31
+		Duration:	02:03:26
+		Location:	53.56068 9.97550
+
+	AFGA2
+		Images:	8641
+		Time:	27.04.2025 12:26:55 until 27.04.2025 15:55:52
+		Duration:	03:28:57
+		Location:	53.56068 9.97550
+
+	AHT2
+		Images:	4858
+		Time:	27.04.2025 12:40:04 until 27.04.2025 14:59:01
+		Duration:	02:18:57
+		Location:	53.56068 9.97550
+
+	AJOKR2
+		Images:	4018
+		Time:	27.04.2025 13:26:31 until 27.04.2025 15:07:50
+		Duration:	01:41:19
+		Location:	53.56068 9.97550
+
+	AMELS2
+		Images:	5016
+		Time:	27.04.2025 12:43:18 until 27.04.2025 15:33:13
+		Duration:	02:49:55
+		Location:	53.56068 9.97550
+

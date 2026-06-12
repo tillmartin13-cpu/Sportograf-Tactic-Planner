@@ -1,0 +1,402 @@
+EventId: 14928
+Spots: 63
+Total Images: 77754
+Time:	01.01.0001 23:00:00 to 05.07.2025 23:06:28
+Duration: 739436.00:06:28
+
+(1) - Start
+	MATR1
+		Images:	210
+		Time:	03.07.2025 21:34:07 until 03.07.2025 23:31:10
+		Duration:	01:57:03
+		Location:	42.30839 9.15038
+
+	DDF4
+		Images:	548
+		Time:	01.01.0001 23:00:00 until 05.07.2025 06:42:29
+		Duration:	739435.07:42:29
+		Location:	42.30655 9.15063
+
+	MDS4
+		Images:	574
+		Time:	05.07.2025 06:16:37 until 05.07.2025 06:42:33
+		Duration:	00:25:56
+		Location:	42.30647 9.15085
+
+(2) - 2.0 km
+	AGU1
+		Images:	293
+		Time:	03.07.2025 23:01:46 until 03.07.2025 23:48:05
+		Duration:	00:46:19
+		Location:	42.31007 9.14425
+
+	AGU1LS1
+		Images:	470
+		Time:	03.07.2025 22:58:18 until 03.07.2025 23:18:04
+		Duration:	00:19:46
+		Location:	42.31007 9.14425
+
+	AGU1LS2
+		Images:	471
+		Time:	03.07.2025 22:57:37 until 03.07.2025 23:17:22
+		Duration:	00:19:45
+		Location:	42.31007 9.14425
+
+(3) - 2.5 km
+	MDS1
+		Images:	175
+		Time:	03.07.2025 23:00:45 until 03.07.2025 23:19:32
+		Duration:	00:18:47
+		Location:	42.31027 9.14336
+
+	MDS1LS1
+		Images:	1102
+		Time:	03.07.2025 20:46:05 until 03.07.2025 23:19:35
+		Duration:	02:33:30
+		Location:	42.31027 9.14336
+
+(4) - 3.0 km
+	BRN1
+		Images:	374
+		Time:	03.07.2025 22:57:22 until 03.07.2025 23:24:05
+		Duration:	00:26:43
+		Location:	42.31083 9.14151
+
+	BRN1LS1
+		Images:	219
+		Time:	03.07.2025 22:41:51 until 03.07.2025 23:24:32
+		Duration:	00:42:41
+		Location:	42.31083 9.14151
+
+(5) - 44.0 km
+	DDF1
+		Images:	1519
+		Time:	03.07.2025 18:14:10 until 04.07.2025 13:14:00
+		Duration:	18:59:50
+		Location:	42.37144 8.92968
+
+	DDF1DRONE1
+		Images:	38
+		Time:	04.07.2025 07:24:31 until 04.07.2025 12:58:27
+		Duration:	05:33:56
+		Location:	42.37144 8.92968
+
+	DDF1LS1
+		Images:	1019
+		Time:	04.07.2025 05:58:12 until 04.07.2025 13:10:39
+		Duration:	07:12:27
+		Location:	42.37144 8.92968
+
+(6) - 56.5 km
+	AGU2
+		Images:	2071
+		Time:	04.07.2025 09:09:28 until 04.07.2025 16:08:51
+		Duration:	06:59:23
+		Location:	42.30718 8.87751
+
+	AGU2LS2
+		Images:	509
+		Time:	04.07.2025 08:45:47 until 04.07.2025 18:41:52
+		Duration:	09:56:05
+		Location:	42.30718 8.87751
+
+	AGU2LS1
+		Images:	503
+		Time:	04.07.2025 08:42:59 until 04.07.2025 15:42:34
+		Duration:	06:59:35
+		Location:	42.30718 8.87751
+
+(7) - 57.0 km
+	MDS2
+		Images:	3039
+		Time:	04.07.2025 08:43:57 until 04.07.2025 16:09:49
+		Duration:	07:25:52
+		Location:	42.30279 8.87694
+
+	MDS2LS1
+		Images:	544
+		Time:	04.07.2025 08:37:41 until 04.07.2025 15:43:26
+		Duration:	07:05:45
+		Location:	42.30279 8.87694
+
+	MDS2LS2
+		Images:	533
+		Time:	03.07.2025 20:47:04 until 04.07.2025 15:43:27
+		Duration:	18:56:23
+		Location:	42.30279 8.87694
+
+(8) - 58.0 km
+	MATR2
+		Images:	1622
+		Time:	04.07.2025 08:54:15 until 04.07.2025 16:04:28
+		Duration:	07:10:13
+		Location:	42.29998 8.88255
+
+	MATR2LS1
+		Images:	618
+		Time:	04.07.2025 08:32:34 until 04.07.2025 15:49:50
+		Duration:	07:17:16
+		Location:	42.29998 8.88255
+
+	MATR2LS2
+		Images:	841
+		Time:	04.07.2025 08:21:05 until 04.07.2025 15:46:44
+		Duration:	07:25:39
+		Location:	42.29998 8.88255
+
+	MATR2DRONE1
+		Images:	15
+		Time:	04.07.2025 12:43:08 until 04.07.2025 12:49:30
+		Duration:	00:06:22
+		Location:	42.29998 8.88255
+
+(9) - 5.0 km
+	AGU3
+		Images:	2141
+		Time:	04.07.2025 18:34:55 until 04.07.2025 20:04:54
+		Duration:	01:29:59
+		Location:	42.32476 9.20891
+
+	AGU3LS2
+		Images:	631
+		Time:	04.07.2025 18:42:39 until 04.07.2025 20:10:43
+		Duration:	01:28:04
+		Location:	42.32476 9.20891
+
+	AGU3LS1
+		Images:	655
+		Time:	04.07.2025 18:37:21 until 04.07.2025 20:10:02
+		Duration:	01:32:41
+		Location:	42.32476 9.20891
+
+(10) - 5.5 km
+	MDS3
+		Images:	2701
+		Time:	04.07.2025 18:35:22 until 04.07.2025 19:55:27
+		Duration:	01:20:05
+		Location:	42.32531 9.20809
+
+	MDS3LS1
+		Images:	581
+		Time:	04.07.2025 18:49:47 until 04.07.2025 20:07:26
+		Duration:	01:17:39
+		Location:	42.32531 9.20809
+
+(11) - Finish
+	BRN2
+		Images:	4320
+		Time:	04.07.2025 12:14:27 until 04.07.2025 23:03:01
+		Duration:	10:48:34
+		Location:	42.30655 9.15063
+
+	BRN2LS1
+		Images:	1198
+		Time:	04.07.2025 12:42:39 until 04.07.2025 23:03:01
+		Duration:	10:20:22
+		Location:	42.30655 9.15063
+
+	BRN2LS2
+		Images:	1460
+		Time:	04.07.2025 13:09:44 until 04.07.2025 21:27:16
+		Duration:	08:17:32
+		Location:	42.30655 9.15063
+
+	DDF2
+		Images:	1010
+		Time:	01.01.0001 23:00:00 until 05.07.2025 10:40:53
+		Duration:	739435.11:40:53
+		Location:	42.30655 9.15063
+
+	DDF2LS1
+		Images:	267
+		Time:	05.07.2025 00:01:33 until 05.07.2025 05:48:44
+		Duration:	05:47:11
+		Location:	42.30655 9.15063
+
+	DDF2LS2
+		Images:	312
+		Time:	01.01.0001 23:00:00 until 05.07.2025 05:48:49
+		Duration:	739435.06:48:49
+		Location:	42.30655 9.15063
+
+	MDS5
+		Images:	4674
+		Time:	05.07.2025 06:50:32 until 05.07.2025 14:06:38
+		Duration:	07:16:06
+		Location:	42.30647 9.15085
+
+	MDS5LS1
+		Images:	1229
+		Time:	05.07.2025 06:56:51 until 05.07.2025 13:31:10
+		Duration:	06:34:19
+		Location:	42.30647 9.15085
+
+	MDS5LS2
+		Images:	721
+		Time:	05.07.2025 06:54:57 until 05.07.2025 13:30:58
+		Duration:	06:36:01
+		Location:	42.30647 9.15085
+
+	DDF3
+		Images:	1932
+		Time:	01.01.0001 23:00:00 until 05.07.2025 18:20:09
+		Duration:	739435.19:20:09
+		Location:	42.30647 9.15085
+
+	DDF3LS1
+		Images:	1067
+		Time:	05.07.2025 14:00:08 until 05.07.2025 17:52:11
+		Duration:	03:52:03
+		Location:	42.30647 9.15085
+
+	DDF3LS2
+		Images:	1831
+		Time:	05.07.2025 14:03:57 until 05.07.2025 17:41:39
+		Duration:	03:37:42
+		Location:	42.30647 9.15085
+
+	MATR7
+		Images:	1274
+		Time:	05.07.2025 18:04:17 until 05.07.2025 23:06:28
+		Duration:	05:02:11
+		Location:	42.30647 9.15085
+
+	MATR7LS2
+		Images:	643
+		Time:	05.07.2025 17:51:43 until 05.07.2025 22:09:09
+		Duration:	04:17:26
+		Location:	42.30647 9.15085
+
+	MATR7LS1
+		Images:	665
+		Time:	05.07.2025 17:58:45 until 05.07.2025 22:09:11
+		Duration:	04:10:26
+		Location:	42.30647 9.15085
+
+(12) - 2.0 km 100K - 50K
+	MATR3
+		Images:	731
+		Time:	05.07.2025 04:28:49 until 05.07.2025 07:00:17
+		Duration:	02:31:28
+		Location:	42.31019 9.14345
+
+	MATR3LS1
+		Images:	1874
+		Time:	05.07.2025 04:22:26 until 05.07.2025 07:12:55
+		Duration:	02:50:29
+		Location:	42.31019 9.14345
+
+	MATR3LS2
+		Images:	1696
+		Time:	05.07.2025 06:23:39 until 05.07.2025 07:11:48
+		Duration:	00:48:09
+		Location:	42.31019 9.14345
+
+	MATR3DRONE1
+		Images:	22
+		Time:	05.07.2025 05:22:05 until 05.07.2025 06:48:21
+		Duration:	01:26:16
+		Location:	42.31019 9.14345
+
+(13) - 95.0 km 100M
+	AGU4
+		Images:	2915
+		Time:	05.07.2025 09:23:13 until 05.07.2025 13:13:07
+		Duration:	03:49:54
+		Location:	42.27814 9.05778
+
+(14) - 95.0 km
+	AGU4LS1
+		Images:	1096
+		Time:	05.07.2025 09:39:52 until 05.07.2025 12:56:45
+		Duration:	03:16:53
+		Location:	42.27814 9.05778
+
+	AGU4LS2
+		Images:	1095
+		Time:	05.07.2025 09:33:50 until 05.07.2025 12:57:28
+		Duration:	03:23:38
+		Location:	42.27814 9.05778
+
+(15) - 98.0 km
+	AGU5
+		Images:	1973
+		Time:	05.07.2025 13:15:57 until 05.07.2025 18:03:58
+		Duration:	04:48:01
+		Location:	42.27740 9.05425
+
+	AGU5LS1
+		Images:	889
+		Time:	05.07.2025 13:06:28 until 05.07.2025 17:51:53
+		Duration:	04:45:25
+		Location:	42.27740 9.05425
+
+	AGU5LS2
+		Images:	878
+		Time:	05.07.2025 13:08:16 until 05.07.2025 17:55:46
+		Duration:	04:47:30
+		Location:	42.27740 9.05425
+
+(16) - 28.0 km 50K
+	MATR4
+		Images:	1886
+		Time:	05.07.2025 07:42:43 until 05.07.2025 12:13:33
+		Duration:	04:30:50
+		Location:	42.30553 9.11975
+
+	MATR4LS1
+		Images:	321
+		Time:	05.07.2025 08:27:42 until 05.07.2025 12:03:13
+		Duration:	03:35:31
+		Location:	42.30553 9.11975
+
+	MATR4LS2
+		Images:	1058
+		Time:	05.07.2025 08:40:41 until 05.07.2025 12:10:19
+		Duration:	03:29:38
+		Location:	42.30553 9.11975
+
+	MATR4DRONE1
+		Images:	21
+		Time:	05.07.2025 12:16:36 until 05.07.2025 12:20:59
+		Duration:	00:04:23
+		Location:	42.30553 9.11975
+
+(17) - 28.0 km
+	BRN3
+		Images:	10060
+		Time:	05.07.2025 12:13:22 until 05.07.2025 21:55:18
+		Duration:	09:41:56
+		Location:	42.30553 9.11975
+
+	BRN3LS2
+		Images:	1359
+		Time:	05.07.2025 10:31:43 until 05.07.2025 21:55:30
+		Duration:	11:23:47
+		Location:	42.30553 9.11975
+
+	BRN3LS1
+		Images:	1880
+		Time:	05.07.2025 12:08:43 until 05.07.2025 21:16:17
+		Duration:	09:07:34
+		Location:	42.30553 9.11975
+
+(18) - 30.0 km
+	MDS6
+		Images:	1015
+		Time:	05.07.2025 19:00:13 until 05.07.2025 22:43:54
+		Duration:	03:43:41
+		Location:	42.30943 9.14202
+
+	MDS6LS1
+		Images:	111
+		Time:	05.07.2025 18:53:49 until 05.07.2025 22:48:35
+		Duration:	03:54:46
+		Location:	42.30943 9.14202
+
+	MDS6LS2
+		Images:	255
+		Time:	05.07.2025 18:33:46 until 05.07.2025 22:48:22
+		Duration:	04:14:36
+		Location:	42.30943 9.14202
+

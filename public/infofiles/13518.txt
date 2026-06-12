@@ -1,0 +1,258 @@
+EventId: 13518
+Spots: 41
+Total Images: 201058
+Time:	19.09.2025 22:24:14 to 20.09.2025 15:59:21
+Duration: 17:35:07
+
+(1) - 1.5 km Bundesministerium der Justiz
+	CFMP1
+		Images:	15807
+		Time:	20.09.2025 10:04:44 until 20.09.2025 11:11:28
+		Duration:	01:06:44
+		Location:	52.51257 13.39658
+
+(2) - 1.8 km Deutscher Dom
+	CHWI1
+		Images:	4237
+		Time:	20.09.2025 09:31:23 until 20.09.2025 11:02:18
+		Duration:	01:30:55
+		Location:	52.51321 13.39336
+
+(3) - 1.9 km Konzerthaus Berlin/Gendarmenmarkt
+	RJ1
+		Images:	7166
+		Time:	20.09.2025 10:06:16 until 20.09.2025 12:46:49
+		Duration:	02:40:33
+		Location:	52.51402 13.39318
+
+	RJ1LS1
+		Images:	1058
+		Time:	20.09.2025 10:06:46 until 20.09.2025 11:00:25
+		Duration:	00:53:39
+		Location:	52.51402 13.39318
+
+	LEM1
+		Images:	6188
+		Time:	20.09.2025 10:06:22 until 20.09.2025 11:02:44
+		Duration:	00:56:22
+		Location:	52.51402 13.39318
+
+	LEM1LS1
+		Images:	1073
+		Time:	20.09.2025 10:06:13 until 20.09.2025 11:00:29
+		Duration:	00:54:16
+		Location:	52.51402 13.39318
+
+	CM1
+		Images:	3542
+		Time:	20.09.2025 09:23:05 until 20.09.2025 11:02:43
+		Duration:	01:39:38
+		Location:	52.51402 13.39318
+
+	CM1LS1
+		Images:	1099
+		Time:	20.09.2025 08:52:22 until 20.09.2025 11:00:43
+		Duration:	02:08:21
+		Location:	52.51402 13.39318
+
+(4) - 2.0 km Französischer Dom
+	FKE1
+		Images:	3814
+		Time:	20.09.2025 08:33:01 until 20.09.2025 11:28:11
+		Duration:	02:55:10
+		Location:	52.51495 13.39292
+
+(5) - 4.3 km Unter den Linden
+	JMAR1
+		Images:	19758
+		Time:	20.09.2025 08:45:48 until 20.09.2025 11:32:13
+		Duration:	02:46:25
+		Location:	52.51646 13.38285
+
+	KHR1
+		Images:	7837
+		Time:	20.09.2025 10:13:08 until 20.09.2025 11:39:01
+		Duration:	01:25:53
+		Location:	52.51646 13.38285
+
+	KHR1LS1
+		Images:	2083
+		Time:	20.09.2025 10:12:13 until 20.09.2025 11:28:49
+		Duration:	01:16:36
+		Location:	52.51646 13.38285
+
+(6) - 4.6 km Pariser Platz/Hotel Adlon
+	ADHA1
+		Images:	3096
+		Time:	20.09.2025 10:07:06 until 20.09.2025 13:22:55
+		Duration:	03:15:49
+		Location:	52.5163 13.37838
+
+	MDO1
+		Images:	8279
+		Time:	20.09.2025 09:09:51 until 20.09.2025 15:53:41
+		Duration:	06:43:50
+		Location:	52.5163 13.37838
+
+	MDO1LS1
+		Images:	1718
+		Time:	20.09.2025 10:07:11 until 20.09.2025 11:33:02
+		Duration:	01:25:51
+		Location:	52.5163 13.37838
+
+(7) - 4.7 km Brandenburger Tor
+	GUD1
+		Images:	9527
+		Time:	20.09.2025 10:14:42 until 20.09.2025 13:20:48
+		Duration:	03:06:06
+		Location:	52.51625 13.37712
+
+	GUD1LS1
+		Images:	1256
+		Time:	20.09.2025 10:08:10 until 20.09.2025 11:32:03
+		Duration:	01:23:53
+		Location:	52.51625 13.37712
+
+	GUD1LS2
+		Images:	1260
+		Time:	20.09.2025 10:08:19 until 20.09.2025 11:32:11
+		Duration:	01:23:52
+		Location:	52.51625 13.37712
+
+	ROH1
+		Images:	8983
+		Time:	20.09.2025 08:50:25 until 20.09.2025 11:27:35
+		Duration:	02:37:10
+		Location:	52.51625 13.37712
+
+	ROH1LS1
+		Images:	1608
+		Time:	20.09.2025 09:03:58 until 20.09.2025 11:30:59
+		Duration:	02:27:01
+		Location:	52.51625 13.37712
+
+(8) - 4.9 km Zieleinlauf
+	AGA1
+		Images:	8704
+		Time:	20.09.2025 10:17:02 until 20.09.2025 11:32:42
+		Duration:	01:15:40
+		Location:	52.51608 13.37391
+
+	ALN1
+		Images:	7999
+		Time:	20.09.2025 10:15:11 until 20.09.2025 13:23:06
+		Duration:	03:07:55
+		Location:	52.51608 13.37391
+
+	ALN1LS1
+		Images:	3684
+		Time:	20.09.2025 09:40:33 until 20.09.2025 11:42:37
+		Duration:	02:02:04
+		Location:	52.51608 13.37391
+
+	ALN1LS2
+		Images:	3703
+		Time:	20.09.2025 09:38:44 until 20.09.2025 11:42:23
+		Duration:	02:03:39
+		Location:	52.51608 13.37391
+
+	ALN1LS3
+		Images:	2432
+		Time:	20.09.2025 10:11:06 until 20.09.2025 11:34:31
+		Duration:	01:23:25
+		Location:	52.51608 13.37391
+
+	ALN1LS4
+		Images:	3843
+		Time:	20.09.2025 10:13:11 until 20.09.2025 11:34:31
+		Duration:	01:21:20
+		Location:	52.51608 13.37391
+
+(9) - Finish
+	DAR1
+		Images:	11978
+		Time:	20.09.2025 08:47:30 until 20.09.2025 14:15:36
+		Duration:	05:28:06
+		Location:	52.516 13.37245
+
+	DAR1LS1
+		Images:	2345
+		Time:	20.09.2025 10:11:42 until 20.09.2025 15:59:21
+		Duration:	05:47:39
+		Location:	52.516 13.37245
+
+	DASC1
+		Images:	5106
+		Time:	20.09.2025 08:46:14 until 20.09.2025 11:58:33
+		Duration:	03:12:19
+		Location:	52.516 13.37245
+
+	DAVR1
+		Images:	4754
+		Time:	20.09.2025 08:58:54 until 20.09.2025 11:35:49
+		Duration:	02:36:55
+		Location:	52.516 13.37245
+
+	SBU1
+		Images:	5413
+		Time:	19.09.2025 22:24:14 until 20.09.2025 13:46:57
+		Duration:	15:22:43
+		Location:	52.516 13.37245
+
+	SBU1LS1
+		Images:	1457
+		Time:	20.09.2025 10:16:14 until 20.09.2025 15:58:49
+		Duration:	05:42:35
+		Location:	52.516 13.37245
+
+	NU1
+		Images:	7293
+		Time:	20.09.2025 08:46:17 until 20.09.2025 11:44:38
+		Duration:	02:58:21
+		Location:	52.516 13.37245
+
+	NU1LS1
+		Images:	2464
+		Time:	20.09.2025 08:41:26 until 20.09.2025 11:45:56
+		Duration:	03:04:30
+		Location:	52.516 13.37245
+
+	THO1
+		Images:	9667
+		Time:	20.09.2025 09:09:50 until 20.09.2025 12:14:34
+		Duration:	03:04:44
+		Location:	52.516 13.37245
+
+	THO1LS1
+		Images:	2422
+		Time:	20.09.2025 08:58:37 until 20.09.2025 11:35:42
+		Duration:	02:37:05
+		Location:	52.516 13.37245
+
+(10) - Medaillenübergaben
+	JUSE1
+		Images:	3638
+		Time:	20.09.2025 10:17:05 until 20.09.2025 11:42:38
+		Duration:	01:25:33
+		Location:	52.51592 13.37122
+
+	FDC1
+		Images:	906
+		Time:	20.09.2025 09:04:32 until 20.09.2025 11:35:34
+		Duration:	02:31:02
+		Location:	52.51592 13.37122
+
+	HV1
+		Images:	2769
+		Time:	20.09.2025 08:49:46 until 20.09.2025 11:38:15
+		Duration:	02:48:29
+		Location:	52.51592 13.37122
+
+	DAN1
+		Images:	1092
+		Time:	20.09.2025 08:55:58 until 20.09.2025 11:39:21
+		Duration:	02:43:23
+		Location:	52.51592 13.37122
+
+(11) - Impressions / Pano
+	PANO1

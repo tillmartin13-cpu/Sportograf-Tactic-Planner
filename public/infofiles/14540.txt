@@ -1,0 +1,129 @@
+EventId: 14540
+Spots: 18
+Total Images: 89794
+Time:	01.01.0001 23:00:00 to 01.06.2025 16:03:09
+Duration: 739401.17:03:09
+
+(1) - Obstacle 10 Monkey Bars
+	DEST1
+		Images:	10653
+		Time:	31.05.2025 10:51:38 until 01.06.2025 12:53:15
+		Duration:	1.02:01:37
+		Location:	36.59768 -121.69413
+
+	DVAL1
+		Images:	2106
+		Time:	01.06.2025 06:43:56 until 01.06.2025 13:50:19
+		Duration:	07:06:23
+		Location:	36.59768 -121.69413
+
+(2) - Obstacle 11 Dunk Wall
+	HJP1
+		Images:	4033
+		Time:	31.05.2025 07:00:28 until 01.06.2025 13:32:31
+		Duration:	1.06:32:03
+		Location:	36.59787 -121.69272
+
+(3) - Obstacle 12 Bucket Carry
+	MATA1
+		Images:	5938
+		Time:	01.01.0001 23:00:00 until 01.06.2025 12:31:13
+		Duration:	739401.13:31:13
+		Location:	36.59828 -121.69161
+
+(4) - Obstacle 17 Vertical Cargo
+	DMCI1
+		Images:	11128
+		Time:	31.05.2025 15:30:19 until 01.06.2025 14:49:17
+		Duration:	23:18:58
+		Location:	36.60096 -121.69318
+
+(5) - Obstacle 15 Inverted Wall
+	TUD1
+		Images:	5601
+		Time:	31.05.2025 07:12:55 until 01.06.2025 14:34:44
+		Duration:	1.07:21:49
+		Location:	36.59975 -121.69246
+
+(6) - Obstacle 16 Sandbag Carry
+	HOG1
+		Images:	6517
+		Time:	31.05.2025 06:54:37 until 01.06.2025 14:45:08
+		Duration:	1.07:50:31
+		Location:	36.60137 -121.69466
+
+(7) - Obstacle 22 Multi-Rig
+	DDC1
+		Images:	9245
+		Time:	31.05.2025 07:33:59 until 01.06.2025 14:07:12
+		Duration:	1.06:33:13
+		Location:	36.60396 -121.69286
+
+(8) - Obstacle 25 Craft A-Frame Cargo
+	JWI1
+		Images:	9376
+		Time:	31.05.2025 07:31:43 until 01.06.2025 15:24:53
+		Duration:	1.07:53:10
+		Location:	36.60380 -121.69197
+
+(9) - Obstacle 23 Barbed Wire Crawl
+	DDS1
+		Images:	5991
+		Time:	01.06.2025 07:08:34 until 01.06.2025 15:12:14
+		Duration:	08:03:40
+		Location:	36.60367 -121.69340
+
+(10) - Herotent
+	MKI1
+		Images:	913
+		Time:	31.05.2025 07:24:50 until 01.06.2025 16:03:09
+		Duration:	1.08:38:19
+		Location:	36.60322 -121.69500
+
+	JO1
+		Images:	878
+		Time:	31.05.2025 07:45:59 until 01.06.2025 15:35:37
+		Duration:	1.07:49:38
+		Location:	36.60322 -121.69500
+
+(11) - Obstacle 26 Slip Wall
+	JO1LS1
+		Images:	7107
+		Time:	01.06.2025 07:07:58 until 01.06.2025 15:30:27
+		Duration:	08:22:29
+		Location:	36.60322 -121.69500
+
+(12) - Finish
+	JO1LS2
+		Images:	234
+		Time:	01.06.2025 07:17:34 until 01.06.2025 15:32:05
+		Duration:	08:14:31
+		Location:	36.60322 -121.69500
+
+(13) - Drone
+	MCAR1DRONE1
+		Images:	11
+		Time:	01.06.2025 12:36:43 until 01.06.2025 12:38:21
+		Duration:	00:01:38
+		Location:	36.60171 -121.68996
+
+(14) - Trail
+	MKI2
+		Images:	3825
+		Time:	01.06.2025 06:45:18 until 01.06.2025 10:51:54
+		Duration:	04:06:36
+		Location:	36.60245 -121.69234
+
+	MCAR2
+		Images:	2858
+		Time:	01.01.0001 23:00:00 until 01.06.2025 10:56:15
+		Duration:	739401.11:56:15
+		Location:	36.60171 -121.68996
+
+(15) - Tral
+	DVAL2
+		Images:	3374
+		Time:	01.06.2025 06:37:46 until 01.06.2025 10:54:20
+		Duration:	04:16:34
+		Location:	36.60171 -121.68996
+

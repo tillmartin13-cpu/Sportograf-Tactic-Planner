@@ -1,0 +1,54 @@
+EventId: 15646
+Spots: 8
+Total Images: 20491
+Time:	28.02.2025 17:28:01 to 01.03.2025 06:30:39
+Duration: 13:02:38
+
+(1) - 14,1 km before Finish
+	MAE1LS1
+		Images:	2214
+		Time:	28.02.2025 18:44:14 until 01.03.2025 04:35:39
+		Duration:	09:51:25
+		Location:	61.04847 14.35776
+
+	MAE1
+		Images:	3772
+		Time:	28.02.2025 19:08:04 until 01.03.2025 04:36:14
+		Duration:	09:28:10
+		Location:	61.04847 14.35776
+
+(2) - 13,7 km before Finish
+	TIM1
+		Images:	2251
+		Time:	28.02.2025 17:48:58 until 01.03.2025 04:39:19
+		Duration:	10:50:21
+		Location:	61.04732 14.36263
+
+(3) - 4,7 km before Finish
+	MFR1
+		Images:	2714
+		Time:	28.02.2025 17:31:47 until 01.03.2025 05:56:17
+		Duration:	12:24:30
+		Location:	61.00497 14.47197
+
+	RYS1
+		Images:	3043
+		Time:	28.02.2025 17:28:01 until 01.03.2025 05:54:21
+		Duration:	12:26:20
+		Location:	61.00497 14.47197
+
+	RYS1LS1
+		Images:	2413
+		Time:	28.02.2025 17:48:28 until 01.03.2025 04:40:01
+		Duration:	10:51:33
+		Location:	61.00497 14.47197
+
+(4) - Finish
+	ADRE1
+		Images:	4084
+		Time:	28.02.2025 18:35:25 until 01.03.2025 06:30:39
+		Duration:	11:55:14
+		Location:	61.00693 14.54303
+
+(5) - Impressions / Pano
+	PANO1

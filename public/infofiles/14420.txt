@@ -1,0 +1,44 @@
+EventId: 14420
+Spots: 6
+Total Images: 12166
+Time:	24.05.2025 06:05:32 to 25.05.2025 10:11:50
+Duration: 1.04:06:18
+
+(1) - Finish
+	CLK1
+		Images:	1776
+		Time:	25.05.2025 07:41:52 until 25.05.2025 10:11:50
+		Duration:	02:29:58
+		Location:	-26.38638 153.09215
+
+	MEHO2
+		Images:	4949
+		Time:	25.05.2025 07:21:07 until 25.05.2025 10:10:08
+		Duration:	02:49:01
+		Location:	-26.38638 153.09215
+
+	AKC2
+		Images:	1884
+		Time:	24.05.2025 06:05:32 until 25.05.2025 09:46:02
+		Duration:	1.03:40:30
+		Location:	-26.38638 153.09215
+
+(2) - Start
+	CLK2
+		Images:	2830
+		Time:	25.05.2025 06:08:37 until 25.05.2025 09:35:38
+		Duration:	03:27:01
+		Location:	-26.38644 153.09228
+
+	MEHO3
+		Images:	454
+		Time:	25.05.2025 06:26:01 until 25.05.2025 07:19:29
+		Duration:	00:53:28
+		Location:	-26.38644 153.09228
+
+	AKC1
+		Images:	267
+		Time:	25.05.2025 06:17:41 until 25.05.2025 07:17:17
+		Duration:	00:59:36
+		Location:	-26.38644 153.09228
+

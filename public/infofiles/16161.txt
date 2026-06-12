@@ -1,0 +1,208 @@
+EventId: 16161
+Spots: 32
+Total Images: 106772
+Time:	31.10.2025 08:54:16 to 01.11.2025 20:08:35
+Duration: 1.11:14:19
+
+(1) - Station 1 SKIERG
+	LUJ1
+		Images:	6118
+		Time:	31.10.2025 12:50:43 until 31.10.2025 19:40:59
+		Duration:	06:50:16
+		Location:	48.69469 9.18919
+
+	MDH1
+		Images:	6263
+		Time:	31.10.2025 10:44:58 until 01.11.2025 12:30:04
+		Duration:	1.01:45:06
+		Location:	48.69469 9.18919
+
+	ROB6
+		Images:	698
+		Time:	31.10.2025 13:46:06 until 31.10.2025 15:29:33
+		Duration:	01:43:27
+		Location:	48.69469 9.18919
+
+(2) - Station 2 SLED PUSH
+	AKS1
+		Images:	6485
+		Time:	31.10.2025 13:38:29 until 01.11.2025 14:38:55
+		Duration:	1.01:00:26
+		Location:	48.69469 9.18919
+
+	RNS1
+		Images:	4804
+		Time:	31.10.2025 13:28:42 until 31.10.2025 19:50:39
+		Duration:	06:21:57
+		Location:	48.69469 9.18919
+
+	ROB2
+		Images:	313
+		Time:	31.10.2025 15:44:00 until 31.10.2025 16:00:14
+		Duration:	00:16:14
+		Location:	48.69469 9.18919
+
+	MAWI2
+		Images:	112
+		Time:	31.10.2025 15:48:47 until 31.10.2025 16:01:28
+		Duration:	00:12:41
+		Location:	48.69469 9.18919
+
+(3) - SMILE YOU'RE ON CAMERA
+	BECK1LS1
+		Images:	3944
+		Time:	31.10.2025 13:39:42 until 31.10.2025 20:05:43
+		Duration:	06:26:01
+		Location:	48.69469 9.18919
+
+	BECK1LS2
+		Images:	3649
+		Time:	31.10.2025 13:32:57 until 31.10.2025 20:25:14
+		Duration:	06:52:17
+		Location:	48.69469 9.18919
+
+(4) - Station 3 SLED PULL
+	ISA1
+		Images:	2709
+		Time:	31.10.2025 13:39:03 until 31.10.2025 20:00:02
+		Duration:	06:20:59
+		Location:	48.69469 9.18919
+
+	MOG1
+		Images:	2681
+		Time:	31.10.2025 12:46:33 until 31.10.2025 20:01:38
+		Duration:	07:15:05
+		Location:	48.69469 9.18919
+
+	ROB3
+		Images:	1035
+		Time:	31.10.2025 16:06:07 until 31.10.2025 16:50:39
+		Duration:	00:44:32
+		Location:	48.69469 9.18919
+
+	MAWI3
+		Images:	476
+		Time:	31.10.2025 16:06:12 until 31.10.2025 16:51:51
+		Duration:	00:45:39
+		Location:	48.69469 9.18919
+
+(5) - Station 5 ROWING
+	MVO1
+		Images:	7160
+		Time:	31.10.2025 12:47:08 until 31.10.2025 20:41:47
+		Duration:	07:54:39
+		Location:	48.69469 9.18919
+
+	DABI1
+		Images:	6986
+		Time:	31.10.2025 13:34:34 until 01.11.2025 15:55:40
+		Duration:	1.02:21:06
+		Location:	48.69469 9.18919
+
+	ROB4
+		Images:	424
+		Time:	31.10.2025 16:56:09 until 31.10.2025 17:20:16
+		Duration:	00:24:07
+		Location:	48.69469 9.18919
+
+	MAWI4
+		Images:	338
+		Time:	31.10.2025 16:54:36 until 31.10.2025 17:22:44
+		Duration:	00:28:08
+		Location:	48.69469 9.18919
+
+(6) - Station 6 FARMERS CARRY
+	ROB1LS2
+		Images:	2942
+		Time:	31.10.2025 08:54:16 until 31.10.2025 20:40:08
+		Duration:	11:45:52
+		Location:	48.69469 9.18919
+
+	ROB1LS1
+		Images:	3887
+		Time:	31.10.2025 13:43:19 until 31.10.2025 20:40:08
+		Duration:	06:56:49
+		Location:	48.69469 9.18919
+
+(7) - Station 7 SANDBAG LUNGES
+	HS1
+		Images:	4059
+		Time:	31.10.2025 13:33:09 until 01.11.2025 15:22:46
+		Duration:	1.01:49:37
+		Location:	48.69469 9.18919
+
+	MSAI1
+		Images:	3047
+		Time:	31.10.2025 13:22:34 until 01.11.2025 11:41:48
+		Duration:	22:19:14
+		Location:	48.69469 9.18919
+
+	BECK1
+		Images:	780
+		Time:	31.10.2025 16:16:53 until 31.10.2025 17:11:12
+		Duration:	00:54:19
+		Location:	48.69469 9.18919
+
+(8) - Station 8 WALL BALLS
+	EP1
+		Images:	9035
+		Time:	31.10.2025 10:07:00 until 01.11.2025 16:01:35
+		Duration:	1.05:54:35
+		Location:	48.69469 9.18919
+
+	MBUR1
+		Images:	9590
+		Time:	31.10.2025 13:44:30 until 31.10.2025 21:18:16
+		Duration:	07:33:46
+		Location:	48.69469 9.18919
+
+	MAWI5
+		Images:	323
+		Time:	31.10.2025 17:33:33 until 31.10.2025 20:57:49
+		Duration:	03:24:16
+		Location:	48.69469 9.18919
+
+	ROB5
+		Images:	687
+		Time:	31.10.2025 17:45:00 until 31.10.2025 20:33:35
+		Duration:	02:48:35
+		Location:	48.69469 9.18919
+
+(9) - Finish
+	KG1
+		Images:	7055
+		Time:	31.10.2025 13:31:09 until 01.11.2025 11:12:50
+		Duration:	21:41:41
+		Location:	48.69469 9.18919
+
+	BECK2
+		Images:	415
+		Time:	31.10.2025 17:18:34 until 31.10.2025 17:43:43
+		Duration:	00:25:09
+		Location:	48.69469 9.18919
+
+	MAWI1LS1
+		Images:	3141
+		Time:	31.10.2025 14:38:18 until 31.10.2025 21:15:58
+		Duration:	06:37:40
+		Location:	48.69469 9.18919
+
+	MAWI1LS2
+		Images:	2464
+		Time:	31.10.2025 15:27:16 until 31.10.2025 22:15:16
+		Duration:	06:48:00
+		Location:	48.69469 9.18919
+
+(10) - Medalwall
+	LBO1
+		Images:	4557
+		Time:	31.10.2025 14:33:22 until 01.11.2025 12:36:04
+		Duration:	22:02:42
+		Location:	48.69469 9.18919
+
+	BECK3
+		Images:	590
+		Time:	31.10.2025 17:45:13 until 31.10.2025 18:15:58
+		Duration:	00:30:45
+		Location:	48.69469 9.18919
+

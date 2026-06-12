@@ -1,0 +1,120 @@
+EventId: 14225
+Spots: 18
+Total Images: 37656
+Time:	21.09.2025 06:01:37 to 21.09.2025 15:36:46
+Duration: 09:35:09
+
+(1) - Swim - Start
+	VLE1
+		Images:	513
+		Time:	21.09.2025 06:05:58 until 21.09.2025 07:18:23
+		Duration:	01:12:25
+		Location:	44.78796 20.41274
+
+(2) - Swim - Exit
+	VLE3
+		Images:	576
+		Time:	21.09.2025 07:26:55 until 21.09.2025 07:51:16
+		Duration:	00:24:21
+		Location:	44.78796 20.41274
+
+(3) - Bike - Transition zone
+	STM1
+		Images:	2068
+		Time:	21.09.2025 06:03:49 until 21.09.2025 08:26:53
+		Duration:	02:23:04
+		Location:	44.78697 20.41242
+
+(4) - Bike - 13,2 km/58,2 km
+	TIM1
+		Images:	7862
+		Time:	21.09.2025 06:15:29 until 21.09.2025 11:26:17
+		Duration:	05:10:48
+		Location:	44.77865 20.27533
+
+	TIM1LS1
+		Images:	851
+		Time:	21.09.2025 06:56:34 until 21.09.2025 10:43:35
+		Duration:	03:47:01
+		Location:	44.77865 20.27533
+
+(5) - Bike - 38,6 km/83,6 km
+	OV1
+		Images:	2645
+		Time:	21.09.2025 07:08:52 until 21.09.2025 11:34:35
+		Duration:	04:25:43
+		Location:	44.81106 20.36076
+
+(6) - Bike - 44,0 km
+	RW1LS1
+		Images:	1005
+		Time:	21.09.2025 07:39:00 until 21.09.2025 10:52:33
+		Duration:	03:13:33
+		Location:	44.79293 20.42384
+
+	RW1
+		Images:	4120
+		Time:	21.09.2025 06:01:37 until 21.09.2025 10:50:02
+		Duration:	04:48:25
+		Location:	44.79293 20.42384
+
+(7) - Run - 3,9 km/14,4 km
+	MAE1LS1
+		Images:	1906
+		Time:	21.09.2025 09:49:44 until 21.09.2025 14:17:10
+		Duration:	04:27:26
+		Location:	44.80547 20.44329
+
+	MAE1
+		Images:	3520
+		Time:	21.09.2025 09:51:52 until 21.09.2025 14:45:13
+		Duration:	04:53:21
+		Location:	44.80547 20.44329
+
+(8) - Run - 6,8 km/17,3 km
+	RW2LS1
+		Images:	2086
+		Time:	21.09.2025 11:12:59 until 21.09.2025 15:07:24
+		Duration:	03:54:25
+		Location:	44.79055 20.42047
+
+	RW2LS2
+		Images:	1803
+		Time:	21.09.2025 11:09:38 until 21.09.2025 14:56:38
+		Duration:	03:47:00
+		Location:	44.79055 20.42047
+
+	RW2
+		Images:	3392
+		Time:	21.09.2025 11:27:04 until 21.09.2025 15:05:59
+		Duration:	03:38:55
+		Location:	44.79055 20.42047
+
+(9) - Finish
+	VLE2LS1
+		Images:	915
+		Time:	21.09.2025 08:48:03 until 21.09.2025 15:12:19
+		Duration:	06:24:16
+		Location:	44.78661 20.41156
+
+	STM2
+		Images:	3254
+		Time:	21.09.2025 10:38:04 until 21.09.2025 15:36:46
+		Duration:	04:58:42
+		Location:	44.78661 20.41156
+
+	VLE2
+		Images:	593
+		Time:	21.09.2025 10:57:40 until 21.09.2025 15:34:20
+		Duration:	04:36:40
+		Location:	44.78661 20.41156
+
+(10) - Swim - Impressions / Pano
+	PANO1
+(11) - General Pictures
+	TIM2
+		Images:	547
+		Time:	21.09.2025 10:51:14 until 21.09.2025 11:46:51
+		Duration:	00:55:37
+		Location:	44.78661 20.41156
+

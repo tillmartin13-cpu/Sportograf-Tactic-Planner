@@ -1,0 +1,279 @@
+EventId: 14794
+Spots: 43
+Total Images: 388883
+Time:	31.12.2012 23:00:40 to 06.04.2025 16:42:23
+Duration: 4478.17:41:43
+
+(1) - Aegidientorplatz - 10K/HM/M
+	AFGA1
+		Images:	13287
+		Time:	06.04.2025 09:08:17 until 06.04.2025 14:31:49
+		Duration:	05:23:32
+		Location:	NULL NULL
+
+(2) - Aegitientorplatz - 10K/HM/M
+	BCPI1
+		Images:	16229
+		Time:	06.04.2025 09:04:36 until 06.04.2025 14:24:24
+		Duration:	05:19:48
+		Location:	52.36852 9.74062
+
+(3) - Doehren - M
+	AMELS1
+		Images:	3912
+		Time:	06.04.2025 10:15:30 until 06.04.2025 11:06:32
+		Duration:	00:51:02
+		Location:	NULL NULL
+
+(4) - Doehrener Turm - 10K/HM/M
+	BUL1
+		Images:	6017
+		Time:	06.04.2025 09:16:08 until 06.04.2025 13:48:52
+		Duration:	04:32:44
+		Location:	52.34709 9.76026
+
+	BUL1LS1
+		Images:	6531
+		Time:	06.04.2025 09:09:06 until 06.04.2025 13:17:21
+		Duration:	04:08:15
+		Location:	52.34709 9.76026
+
+(5) - Eilenriede - M
+	AAL1
+		Images:	3553
+		Time:	06.04.2025 10:25:29 until 06.04.2025 12:15:00
+		Duration:	01:49:31
+		Location:	NULL NULL
+
+(6) - Finish
+	BLPI1
+		Images:	16747
+		Time:	06.04.2025 09:28:09 until 06.04.2025 16:42:07
+		Duration:	07:13:58
+		Location:	52.36860 9.73677
+
+	BMAE1
+		Images:	26733
+		Time:	06.04.2025 08:30:35 until 06.04.2025 16:39:13
+		Duration:	08:08:38
+		Location:	52.36860 9.73677
+
+	BMAWA1
+		Images:	13854
+		Time:	06.04.2025 08:32:32 until 06.04.2025 16:32:29
+		Duration:	07:59:57
+		Location:	52.36860 9.73677
+
+	BPSA1
+		Images:	8917
+		Time:	06.04.2025 08:22:38 until 06.04.2025 16:39:12
+		Duration:	08:16:34
+		Location:	52.36860 9.73677
+
+	BSF1
+		Images:	12141
+		Time:	06.04.2025 09:27:20 until 06.04.2025 16:14:02
+		Duration:	06:46:42
+		Location:	52.36860 9.73677
+
+	BSF1LS1
+		Images:	7441
+		Time:	31.12.2012 23:00:40 until 06.04.2025 16:08:00
+		Duration:	4478.17:07:20
+		Location:	52.36860 9.73677
+
+	BSK1
+		Images:	12884
+		Time:	06.04.2025 07:50:40 until 06.04.2025 15:25:43
+		Duration:	07:35:03
+		Location:	52.36860 9.73677
+
+	BSK1LS1
+		Images:	8347
+		Time:	06.04.2025 07:23:04 until 06.04.2025 13:00:44
+		Duration:	05:37:40
+		Location:	52.36860 9.73677
+
+(7) - Friedrichswall - HM/M
+	AJZE2
+		Images:	10025
+		Time:	06.04.2025 11:16:37 until 06.04.2025 16:35:29
+		Duration:	05:18:52
+		Location:	NULL NULL
+
+	AJZE2LS1
+		Images:	4235
+		Time:	06.04.2025 11:55:21 until 06.04.2025 15:41:57
+		Duration:	03:46:36
+		Location:	NULL NULL
+
+	BGA2
+		Images:	8515
+		Time:	06.04.2025 11:35:36 until 06.04.2025 16:12:20
+		Duration:	04:36:44
+		Location:	52.36938 9.72947
+
+(8) - Hildesheimer Strasse - 10K/HM/M
+	ACRI1
+		Images:	15177
+		Time:	06.04.2025 09:26:10 until 06.04.2025 14:27:54
+		Duration:	05:01:44
+		Location:	NULL NULL
+
+	ACRI1LS1
+		Images:	8825
+		Time:	06.04.2025 09:31:45 until 06.04.2025 14:05:36
+		Duration:	04:33:51
+		Location:	NULL NULL
+
+(9) - Impressions / Pano
+	BMAE1DRONE1
+		Images:	16
+		Time:	06.04.2025 08:52:04 until 06.04.2025 09:03:31
+		Duration:	00:11:27
+		Location:	52.36860 9.73677
+
+	BMAE1IMP1
+		Images:	64
+		Time:	06.04.2025 08:54:39 until 06.04.2025 11:46:28
+		Duration:	02:51:49
+		Location:	52.36860 9.73677
+
+	PANO1
+(10) - Isernhagener Strasse - HM/M
+	BPLA1
+		Images:	12910
+		Time:	06.04.2025 09:22:51 until 06.04.2025 15:15:50
+		Duration:	05:52:59
+		Location:	52.39366 9.74123
+
+(11) - Kanalbruecke - M
+	ANU1
+		Images:	8989
+		Time:	06.04.2025 09:22:37 until 06.04.2025 13:05:53
+		Duration:	03:43:16
+		Location:	NULL NULL
+
+	ANU1LS1
+		Images:	3354
+		Time:	05.04.2025 20:47:02 until 06.04.2025 12:54:36
+		Duration:	16:07:34
+		Location:	NULL NULL
+
+(12) - Koenigsworther Strasse - HM/M
+	BHMU1
+		Images:	20194
+		Time:	06.04.2025 11:12:07 until 06.04.2025 16:23:14
+		Duration:	05:11:07
+		Location:	52.36860 9.73677
+
+(13) - Kroepcke - 10K
+	BGA1
+		Images:	13319
+		Time:	06.04.2025 09:01:49 until 06.04.2025 10:47:02
+		Duration:	01:45:13
+		Location:	52.37444 9.73845
+
+(14) - Leibniz Uni - HM/M
+	AMDO1
+		Images:	21835
+		Time:	06.04.2025 11:27:23 until 06.04.2025 16:03:29
+		Duration:	04:36:06
+		Location:	NULL NULL
+
+	AMDO1LS1
+		Images:	4654
+		Time:	06.04.2025 10:44:10 until 06.04.2025 15:59:37
+		Duration:	05:15:27
+		Location:	NULL NULL
+
+	AMDO1LS2
+		Images:	6616
+		Time:	06.04.2025 11:02:11 until 06.04.2025 15:53:17
+		Duration:	04:51:06
+		Location:	NULL NULL
+
+(15) - Leintor - 10K
+	AJZE1
+		Images:	4557
+		Time:	06.04.2025 08:28:14 until 06.04.2025 10:59:41
+		Duration:	02:31:27
+		Location:	NULL NULL
+
+	AJZE1LS1
+		Images:	1399
+		Time:	06.04.2025 09:28:45 until 06.04.2025 10:38:39
+		Duration:	01:09:54
+		Location:	NULL NULL
+
+(16) - Loewenbastion - 10K/HM/M
+	AEZ1
+		Images:	13087
+		Time:	06.04.2025 09:08:17 until 06.04.2025 13:48:25
+		Duration:	04:40:08
+		Location:	NULL NULL
+
+	AEZ1LS1
+		Images:	8206
+		Time:	06.04.2024 08:25:35 until 06.04.2025 13:53:50
+		Duration:	365.05:28:15
+		Location:	NULL NULL
+
+	AWV1
+		Images:	11689
+		Time:	06.04.2025 09:02:20 until 06.04.2025 13:59:33
+		Duration:	04:57:13
+		Location:	NULL NULL
+
+(17) - Lutherkirche - HM/M
+	AHAHE1
+		Images:	10009
+		Time:	06.04.2025 11:16:34 until 06.04.2025 15:45:43
+		Duration:	04:29:09
+		Location:	NULL NULL
+
+(18) - Medals
+	AAL2
+		Images:	924
+		Time:	06.04.2025 13:03:33 until 06.04.2025 16:21:18
+		Duration:	03:17:45
+		Location:	NULL NULL
+
+	AMELS2
+		Images:	5657
+		Time:	06.04.2025 12:36:09 until 06.04.2025 16:42:12
+		Duration:	04:06:03
+		Location:	NULL NULL
+
+	ANU2
+		Images:	2346
+		Time:	06.04.2025 13:59:34 until 06.04.2025 16:38:02
+		Duration:	02:38:28
+		Location:	NULL NULL
+
+	ASLE1
+		Images:	5977
+		Time:	06.04.2025 08:05:32 until 06.04.2025 16:33:25
+		Duration:	08:27:53
+		Location:	NULL NULL
+
+	ASTEL1
+		Images:	6847
+		Time:	05.04.2025 19:00:07 until 06.04.2025 16:42:23
+		Duration:	21:42:16
+		Location:	NULL NULL
+
+(19) - Moltkeplatz - HM/M
+	BTASI1
+		Images:	7127
+		Time:	06.04.2025 11:01:44 until 06.04.2025 15:01:15
+		Duration:	03:59:31
+		Location:	52.39267 9.74815
+
+(20) - Weidendamm - HM/M
+	AFES1
+		Images:	15737
+		Time:	06.04.2025 10:41:26 until 06.04.2025 15:35:54
+		Duration:	04:54:28
+		Location:	NULL NULL
+

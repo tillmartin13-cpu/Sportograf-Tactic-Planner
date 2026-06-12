@@ -1,0 +1,219 @@
+EventId: 13429
+Spots: 33
+Total Images: 164960
+Time:	01.11.2025 04:50:47 to 02.11.2025 14:16:32
+Duration: 1.09:25:45
+
+(1) - Bike - 35,0 km
+	BXC1
+		Images:	15724
+		Time:	02.11.2025 05:18:44 until 02.11.2025 08:29:39
+		Duration:	03:10:55
+		Location:	22.11958 120.71198
+
+(2) - Finish
+	BXC2
+		Images:	20677
+		Time:	02.11.2025 09:39:59 until 02.11.2025 13:49:44
+		Duration:	04:09:45
+		Location:	21.94244 120.80748
+
+	DLO3
+		Images:	1536
+		Time:	02.11.2025 12:25:17 until 02.11.2025 13:49:55
+		Duration:	01:24:38
+		Location:	21.94244 120.80748
+
+	HTT1IMP1
+		Images:	180
+		Time:	01.11.2025 11:19:31 until 01.11.2025 14:38:22
+		Duration:	03:18:51
+		Location:	21.94244 120.80748
+
+	LVM4
+		Images:	2110
+		Time:	02.11.2025 10:41:22 until 02.11.2025 14:01:24
+		Duration:	03:20:02
+		Location:	21.94244 120.80748
+
+	NTT2
+		Images:	20655
+		Time:	02.11.2025 07:54:43 until 02.11.2025 13:50:14
+		Duration:	05:55:31
+		Location:	21.94244 120.80748
+
+	NTT2LS2
+		Images:	925
+		Time:	02.11.2025 09:39:24 until 02.11.2025 13:51:22
+		Duration:	04:11:58
+		Location:	21.94244 120.80748
+
+	NTT2LS1
+		Images:	10877
+		Time:	02.11.2025 07:36:58 until 02.11.2025 13:49:58
+		Duration:	06:13:00
+		Location:	21.94244 120.80748
+
+(3) - Swim - Start
+	DLO1
+		Images:	4361
+		Time:	02.11.2025 04:01:16 until 02.11.2025 06:29:21
+		Duration:	02:28:05
+		Location:	21.94152 120.80486
+
+	HTT1LS2
+		Images:	1069
+		Time:	01.11.2025 21:10:35 until 02.11.2025 07:39:39
+		Duration:	10:29:04
+		Location:	21.94152 120.80486
+
+	LVM1
+		Images:	68
+		Time:	02.11.2025 04:30:50 until 02.11.2025 05:12:24
+		Duration:	00:41:34
+		Location:	21.94152 120.80486
+
+	TNA1
+		Images:	6399
+		Time:	02.11.2025 04:24:49 until 02.11.2025 06:29:40
+		Duration:	02:04:51
+		Location:	21.94152 120.80486
+
+(4) - Run - 5,0 km
+	DLO2
+		Images:	5837
+		Time:	02.11.2025 07:26:41 until 02.11.2025 11:48:41
+		Duration:	04:22:00
+		Location:	21.95517 120.81343
+
+(5) - Bike - 45,0 km
+	DTQ1
+		Images:	3967
+		Time:	01.11.2025 20:02:28 until 02.11.2025 08:49:07
+		Duration:	12:46:39
+		Location:	22.17125 120.69460
+
+	DTQ1LS1
+		Images:	2513
+		Time:	02.11.2025 06:51:54 until 02.11.2025 10:00:09
+		Duration:	03:08:15
+		Location:	22.17125 120.69460
+
+(6) - Run - 9,0 km
+	DTQ2
+		Images:	3713
+		Time:	02.11.2025 10:02:56 until 02.11.2025 12:29:19
+		Duration:	02:26:23
+		Location:	21.93944 120.82315
+
+	DTQ2LS1
+		Images:	2061
+		Time:	02.11.2025 10:00:19 until 02.11.2025 12:12:13
+		Duration:	02:11:54
+		Location:	21.93944 120.82315
+
+(7) - Run - 10,5 km
+	DTQ3
+		Images:	503
+		Time:	02.11.2025 12:29:53 until 02.11.2025 13:14:50
+		Duration:	00:44:57
+		Location:	21.93602 120.82135
+
+	DTQ3LS1
+		Images:	370
+		Time:	02.11.2025 12:37:32 until 02.11.2025 13:21:47
+		Duration:	00:44:15
+		Location:	21.93602 120.82135
+
+(8) - Bike - Transition zone
+	HTT1
+		Images:	5206
+		Time:	02.11.2025 04:19:56 until 02.11.2025 06:42:25
+		Duration:	02:22:29
+		Location:	21.94238 120.80632
+
+	HTT1DRONE1
+		Images:	72
+		Time:	01.11.2025 04:50:47 until 01.11.2025 13:02:55
+		Duration:	08:12:08
+		Location:	21.94238 120.80632
+
+(9) - Bike Out
+	HTT1LS1
+		Images:	2501
+		Time:	02.11.2025 04:26:14 until 02.11.2025 06:37:30
+		Duration:	02:11:16
+		Location:	21.94173 120.80531
+
+	LVM2
+		Images:	4475
+		Time:	02.11.2025 05:23:41 until 02.11.2025 06:43:15
+		Duration:	01:19:34
+		Location:	21.94173 120.80531
+
+(10) - Run - 6,0 km
+	HTT6
+		Images:	15741
+		Time:	02.11.2025 07:14:40 until 02.11.2025 12:25:35
+		Duration:	05:10:55
+		Location:	21.95329 120.82139
+
+	HTT2LS1
+		Images:	1295
+		Time:	02.11.2025 08:03:12 until 02.11.2025 11:59:33
+		Duration:	03:56:21
+		Location:	21.95329 120.82139
+
+	HTT2LS2
+		Images:	1328
+		Time:	02.11.2025 07:48:27 until 02.11.2025 12:05:21
+		Duration:	04:16:54
+		Location:	21.95329 120.82139
+
+(11) - Run - 16,0 km
+	HTT7
+		Images:	2289
+		Time:	01.11.2025 16:09:56 until 02.11.2025 14:16:32
+		Duration:	22:06:36
+		Location:	21.94906 120.82312
+
+(12) - Bike - 57,0 km
+	LVM3
+		Images:	3579
+		Time:	02.11.2025 07:48:59 until 02.11.2025 09:28:23
+		Duration:	01:39:24
+		Location:	22.06526 120.70873
+
+(13) - Bike - 2,0 km
+	NTT1
+		Images:	5056
+		Time:	02.11.2025 05:19:49 until 02.11.2025 06:46:51
+		Duration:	01:27:02
+		Location:	21.94593 120.79547
+
+	NTT1LS2
+		Images:	1003
+		Time:	02.11.2025 05:08:50 until 02.11.2025 06:59:34
+		Duration:	01:50:44
+		Location:	21.94593 120.79547
+
+	NTT1LS1
+		Images:	2832
+		Time:	02.11.2025 05:41:56 until 02.11.2025 06:54:48
+		Duration:	01:12:52
+		Location:	21.94593 120.79547
+
+(14) - Bike - 80,0 km
+	TNA2
+		Images:	5905
+		Time:	02.11.2025 07:16:29 until 02.11.2025 09:52:54
+		Duration:	02:36:25
+		Location:	21.95826 120.71342
+
+(15) - Run - 19,0 km
+	TNA3
+		Images:	10133
+		Time:	02.11.2025 10:37:10 until 02.11.2025 13:22:55
+		Duration:	02:45:45
+		Location:	21.93569 120.81285
+

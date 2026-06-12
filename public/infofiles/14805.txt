@@ -1,0 +1,313 @@
+EventId: 14805
+Spots: 50
+Total Images: 161053
+Time:	08.02.2025 06:22:40 to 09.02.2025 20:14:18
+Duration: 1.13:51:38
+
+(1) - 01_SkiErg
+	MAWI1
+		Images:	4352
+		Time:	09.02.2025 06:35:24 until 09.02.2025 13:50:07
+		Duration:	07:14:43
+		Location:	47.42753 9.37022
+
+	MOG1
+		Images:	3677
+		Time:	08.02.2025 06:23:58 until 09.02.2025 13:59:56
+		Duration:	1.07:35:58
+		Location:	47.42753 9.37022
+
+	NT1
+		Images:	1989
+		Time:	08.02.2025 06:26:14 until 09.02.2025 14:00:47
+		Duration:	1.07:34:33
+		Location:	47.42753 9.37022
+
+	MDH2
+		Images:	2839
+		Time:	09.02.2025 14:25:21 until 09.02.2025 18:39:01
+		Duration:	04:13:40
+		Location:	47.42753 9.37022
+
+	EP2
+		Images:	3978
+		Time:	09.02.2025 14:36:01 until 09.02.2025 18:39:34
+		Duration:	04:03:33
+		Location:	47.42753 9.37022
+
+	PKA2
+		Images:	1370
+		Time:	09.02.2025 14:26:06 until 09.02.2025 18:38:39
+		Duration:	04:12:33
+		Location:	47.42753 9.37022
+
+(2) - 02_Sled Push
+	BP1
+		Images:	2945
+		Time:	09.02.2025 07:12:35 until 09.02.2025 13:59:31
+		Duration:	06:46:56
+		Location:	47.42753 9.37022
+
+	MDH1
+		Images:	3274
+		Time:	09.02.2025 06:41:01 until 09.02.2025 13:58:35
+		Duration:	07:17:34
+		Location:	47.42753 9.37022
+
+	BECK2
+		Images:	415
+		Time:	09.02.2025 07:34:48 until 09.02.2025 14:14:44
+		Duration:	06:39:56
+		Location:	47.42753 9.37022
+
+	FRN2
+		Images:	654
+		Time:	09.02.2025 09:00:43 until 09.02.2025 14:15:30
+		Duration:	05:14:47
+		Location:	47.42753 9.37022
+
+	EVL2
+		Images:	1684
+		Time:	09.02.2025 14:28:29 until 09.02.2025 18:48:55
+		Duration:	04:20:26
+		Location:	47.42753 9.37022
+
+	LKE2
+		Images:	1906
+		Time:	09.02.2025 14:34:11 until 09.02.2025 18:48:59
+		Duration:	04:14:48
+		Location:	47.42753 9.37022
+
+(3) - 03_Sled Pull
+	MAWI2
+		Images:	2442
+		Time:	08.02.2025 19:27:43 until 09.02.2025 18:58:04
+		Duration:	23:30:21
+		Location:	47.42753 9.37022
+
+	BP2
+		Images:	2542
+		Time:	09.02.2025 14:17:38 until 09.02.2025 18:58:09
+		Duration:	04:40:31
+		Location:	47.42753 9.37022
+
+	BECK1
+		Images:	469
+		Time:	09.02.2025 09:34:21 until 09.02.2025 14:59:18
+		Duration:	05:24:57
+		Location:	47.42753 9.37022
+
+	FRN1
+		Images:	1651
+		Time:	08.02.2025 08:16:11 until 09.02.2025 14:58:43
+		Duration:	1.06:42:32
+		Location:	47.42753 9.37022
+
+	EVL1
+		Images:	5214
+		Time:	08.02.2025 06:22:40 until 09.02.2025 14:04:32
+		Duration:	1.07:41:52
+		Location:	47.42753 9.37022
+
+	SBRO1
+		Images:	2029
+		Time:	08.02.2025 06:34:58 until 09.02.2025 09:35:20
+		Duration:	1.03:00:22
+		Location:	47.42753 9.37022
+
+(4) - 05_Rowing
+	LKE1
+		Images:	4527
+		Time:	08.02.2025 06:57:53 until 09.02.2025 14:00:12
+		Duration:	1.07:02:19
+		Location:	47.42753 9.37022
+
+	MIGE1
+		Images:	9582
+		Time:	08.02.2025 06:46:54 until 09.02.2025 14:35:22
+		Duration:	1.07:48:28
+		Location:	47.42753 9.37022
+
+	BECK3
+		Images:	1509
+		Time:	09.02.2025 10:17:58 until 09.02.2025 16:17:48
+		Duration:	05:59:50
+		Location:	47.42753 9.37022
+
+	FRN3
+		Images:	5021
+		Time:	09.02.2025 10:03:30 until 09.02.2025 15:39:40
+		Duration:	05:36:10
+		Location:	47.42753 9.37022
+
+	BRP2
+		Images:	9141
+		Time:	09.02.2025 14:47:35 until 09.02.2025 19:27:33
+		Duration:	04:39:58
+		Location:	47.42753 9.37022
+
+	MSAI2
+		Images:	2549
+		Time:	09.02.2025 14:08:08 until 09.02.2025 19:26:01
+		Duration:	05:17:53
+		Location:	47.42753 9.37022
+
+(5) - 06_Farmers Carry
+	BECK1LS1
+		Images:	5099
+		Time:	09.02.2025 07:38:30 until 09.02.2025 19:38:37
+		Duration:	12:00:07
+		Location:	47.42753 9.37022
+
+	KD1LS1
+		Images:	4244
+		Time:	09.02.2025 07:06:47 until 09.02.2025 19:06:17
+		Duration:	11:59:30
+		Location:	47.42753 9.37022
+
+(6) - 07_Lunge Walk
+	SBRO2
+		Images:	3389
+		Time:	09.02.2025 14:17:50 until 09.02.2025 19:50:35
+		Duration:	05:32:45
+		Location:	47.42753 9.37022
+
+	MIGE2
+		Images:	2753
+		Time:	09.02.2025 14:42:47 until 09.02.2025 19:54:55
+		Duration:	05:12:08
+		Location:	47.42753 9.37022
+
+	BRP1
+		Images:	8072
+		Time:	09.02.2025 07:02:49 until 09.02.2025 14:38:22
+		Duration:	07:35:33
+		Location:	47.42753 9.37022
+
+	MSAI1
+		Images:	2587
+		Time:	08.02.2025 06:43:36 until 09.02.2025 13:54:48
+		Duration:	1.07:11:12
+		Location:	47.42753 9.37022
+
+	BECK4
+		Images:	440
+		Time:	09.02.2025 10:46:49 until 09.02.2025 11:18:11
+		Duration:	00:31:22
+		Location:	47.42753 9.37022
+
+	FRN4
+		Images:	741
+		Time:	09.02.2025 15:42:36 until 09.02.2025 15:57:23
+		Duration:	00:14:47
+		Location:	47.42753 9.37022
+
+(7) - 08_Wall Balls
+	MOG2
+		Images:	2492
+		Time:	09.02.2025 14:28:54 until 09.02.2025 19:57:41
+		Duration:	05:28:47
+		Location:	47.42753 9.37022
+
+	MDH3
+		Images:	133
+		Time:	09.02.2025 19:16:38 until 09.02.2025 19:25:40
+		Duration:	00:09:02
+		Location:	47.42753 9.37022
+
+	NT2
+		Images:	2019
+		Time:	09.02.2025 14:24:53 until 09.02.2025 19:50:55
+		Duration:	05:26:02
+		Location:	47.42753 9.37022
+
+	EP1
+		Images:	11332
+		Time:	09.02.2025 07:21:16 until 09.02.2025 14:28:57
+		Duration:	07:07:41
+		Location:	47.42753 9.37022
+
+	PKA1
+		Images:	3744
+		Time:	09.02.2025 07:21:06 until 09.02.2025 14:21:19
+		Duration:	07:00:13
+		Location:	47.42753 9.37022
+
+	BECK5
+		Images:	1088
+		Time:	08.02.2025 08:02:42 until 09.02.2025 17:08:22
+		Duration:	1.09:05:40
+		Location:	47.42753 9.37022
+
+	FRN5
+		Images:	3624
+		Time:	09.02.2025 11:33:58 until 09.02.2025 17:07:24
+		Duration:	05:33:26
+		Location:	47.42753 9.37022
+
+(8) - Arch Run
+	FRN5LS1
+		Images:	3073
+		Time:	09.02.2025 06:25:22 until 09.02.2025 17:44:54
+		Duration:	11:19:32
+		Location:	47.42753 9.37022
+
+	BP1LS1
+		Images:	4095
+		Time:	09.02.2025 06:50:09 until 09.02.2025 19:03:15
+		Duration:	12:13:06
+		Location:	47.42753 9.37022
+
+(9) - Finish
+	BECK6
+		Images:	406
+		Time:	09.02.2025 17:08:38 until 09.02.2025 17:54:26
+		Duration:	00:45:48
+		Location:	47.42753 9.37022
+
+	ROB1
+		Images:	6159
+		Time:	08.02.2025 06:37:23 until 09.02.2025 14:40:32
+		Duration:	1.08:03:09
+		Location:	47.42753 9.37022
+
+	ROB1LS2
+		Images:	3210
+		Time:	09.02.2025 07:52:49 until 09.02.2025 20:11:01
+		Duration:	12:18:12
+		Location:	47.42753 9.37022
+
+	ROB1LS1
+		Images:	371
+		Time:	09.02.2025 10:28:45 until 09.02.2025 13:15:55
+		Duration:	02:47:10
+		Location:	47.42753 9.37022
+
+	TH2
+		Images:	2879
+		Time:	09.02.2025 14:52:05 until 09.02.2025 20:08:21
+		Duration:	05:16:16
+		Location:	47.42753 9.37022
+
+(10) - Hero Wall
+	ROB2
+		Images:	6618
+		Time:	09.02.2025 14:43:53 until 09.02.2025 20:14:18
+		Duration:	05:30:25
+		Location:	47.42753 9.37022
+
+	TH1
+		Images:	6160
+		Time:	08.02.2025 06:48:28 until 09.02.2025 14:43:51
+		Duration:	1.07:55:23
+		Location:	47.42753 9.37022
+
+(11) - Impressions / Pano
+	PANO1
+(12) - Venue
+	KD1
+		Images:	566
+		Time:	09.02.2025 14:01:13 until 09.02.2025 15:28:18
+		Duration:	01:27:05
+		Location:	47.42753 9.37022
+

@@ -1,0 +1,184 @@
+EventId: 15641
+Spots: 28
+Total Images: 154216
+Time:	24.02.2025 05:37:14 to 24.02.2025 19:28:23
+Duration: 13:51:09
+
+(1) - Start 90 km
+	TIM1
+		Images:	1860
+		Time:	24.02.2025 05:39:17 until 24.02.2025 06:55:37
+		Duration:	01:16:20
+		Location:	61.11789 13.29027
+
+	MAE4
+		Images:	3278
+		Time:	24.02.2025 05:37:14 until 24.02.2025 06:55:37
+		Duration:	01:18:23
+		Location:	61.11789 13.29027
+
+(2) - 47,0 km before Finish (90 km distance)
+	ROB1LS1
+		Images:	1627
+		Time:	24.02.2025 07:38:19 until 24.02.2025 13:48:06
+		Duration:	06:09:47
+		Location:	61.12453 13.90162
+
+	ROB1
+		Images:	6166
+		Time:	24.02.2025 07:23:59 until 24.02.2025 13:47:56
+		Duration:	06:23:57
+		Location:	61.12453 13.90162
+
+(3) - 46,4 km before Finish (90 km distance)
+	COR1LS1
+		Images:	1689
+		Time:	24.02.2025 09:51:07 until 24.02.2025 13:16:07
+		Duration:	03:25:00
+		Location:	61.12877 13.90734
+
+	COR1
+		Images:	4926
+		Time:	24.02.2025 07:31:30 until 24.02.2025 14:16:04
+		Duration:	06:44:34
+		Location:	61.12877 13.90734
+
+(4) - 33,0 km before Finish (45 and 90 km distance)
+	SBRO1
+		Images:	7120
+		Time:	24.02.2025 07:09:56 until 24.02.2025 15:03:52
+		Duration:	07:53:56
+		Location:	61.11305 14.10720
+
+(5) - 28,2 km before Finish (all distances)
+	ALN1LS1
+		Images:	4541
+		Time:	24.02.2025 07:56:54 until 24.02.2025 15:32:44
+		Duration:	07:35:50
+		Location:	61.11528 14.17613
+
+	ALN1LS2
+		Images:	4733
+		Time:	24.02.2025 07:52:28 until 24.02.2025 15:35:12
+		Duration:	07:42:44
+		Location:	61.11528 14.17613
+
+	ALN1
+		Images:	18044
+		Time:	24.02.2025 07:30:35 until 24.02.2025 15:32:49
+		Duration:	08:02:14
+		Location:	61.11528 14.17613
+
+(6) - 21,4 km before Finish (all distances)
+	MW1LS1
+		Images:	6433
+		Time:	24.02.2025 07:52:53 until 24.02.2025 16:11:20
+		Duration:	08:18:27
+		Location:	61.08548 14.27896
+
+	MW1
+		Images:	13314
+		Time:	24.02.2025 07:59:02 until 24.02.2025 16:26:46
+		Duration:	08:27:44
+		Location:	61.08548 14.27896
+
+(7) - 18,6 km before Finish (all distances)
+	RYS1LS1
+		Images:	5035
+		Time:	24.02.2025 07:56:35 until 24.02.2025 15:55:50
+		Duration:	07:59:15
+		Location:	61.07494 14.31585
+
+	RYS1
+		Images:	10655
+		Time:	24.02.2025 08:05:49 until 24.02.2025 16:49:05
+		Duration:	08:43:16
+		Location:	61.07494 14.31585
+
+(8) - 16,2 km before Finish (all distances)
+	MFR1LS1
+		Images:	4244
+		Time:	24.02.2025 07:34:38 until 24.02.2025 15:50:14
+		Duration:	08:15:36
+		Location:	61.06431 14.35183
+
+	MFR1
+		Images:	6335
+		Time:	24.02.2025 08:06:04 until 24.02.2025 17:04:31
+		Duration:	08:58:27
+		Location:	61.06431 14.35183
+
+(9) - 15,8 km before Finish (all distances)
+	ADRE1
+		Images:	5941
+		Time:	24.02.2025 08:08:49 until 24.02.2025 17:11:21
+		Duration:	09:02:32
+		Location:	61.06196 14.35038
+
+(10) - 4,7 km before Finish (all distances)
+	RKO1
+		Images:	9216
+		Time:	24.02.2025 08:43:52 until 24.02.2025 18:43:57
+		Duration:	10:00:05
+		Location:	61.00497 14.47185
+
+(11) - 3,8 km before Finish (all distances)
+	JLA1
+		Images:	12079
+		Time:	24.02.2025 08:52:54 until 24.02.2025 18:57:03
+		Duration:	10:04:09
+		Location:	61.00330 14.48619
+
+(12) - 2,7 km before Finish (all distances)
+	IVAH1
+		Images:	6964
+		Time:	24.02.2025 08:51:09 until 24.02.2025 19:05:06
+		Duration:	10:13:57
+		Location:	61.00408 14.50518
+
+	IVAH1LS1
+		Images:	2816
+		Time:	24.02.2025 09:03:25 until 24.02.2025 15:39:58
+		Duration:	06:36:33
+		Location:	61.00408 14.50518
+
+(13) - Finish
+	DADA1
+		Images:	7786
+		Time:	24.02.2025 08:50:28 until 24.02.2025 19:18:01
+		Duration:	10:27:33
+		Location:	61.00701 14.54276
+
+	MAV1
+		Images:	7081
+		Time:	24.02.2025 08:50:19 until 24.02.2025 19:28:23
+		Duration:	10:38:04
+		Location:	61.00701 14.54276
+
+	MAE3
+		Images:	1994
+		Time:	24.02.2025 12:49:13 until 24.02.2025 18:21:52
+		Duration:	05:32:39
+		Location:	61.00701 14.54276
+
+(14) - Impressions
+	MAE5
+		Images:	20
+		Time:	24.02.2025 09:08:30 until 24.02.2025 09:12:37
+		Duration:	00:04:07
+		Location:	61.00701 14.54276
+
+	TIM2
+		Images:	296
+		Time:	24.02.2025 08:13:13 until 24.02.2025 09:53:25
+		Duration:	01:40:12
+		Location:	61.00701 14.54276
+
+(15) - Impressions / Pano
+	MAE2DRONE1
+		Images:	23
+		Time:	24.02.2025 07:37:26 until 24.02.2025 08:56:25
+		Duration:	01:18:59
+		Location:	61.00701 14.54276
+
+	PANO1

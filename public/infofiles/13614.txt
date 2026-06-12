@@ -1,0 +1,170 @@
+EventId: 13614
+Spots: 26
+Total Images: 112439
+Time:	23.08.2025 08:08:52 to 24.08.2025 12:05:15
+Duration: 1.03:56:23
+
+(1) - Swim - Start
+	IVAH1
+		Images:	3077
+		Time:	23.08.2025 08:19:01 until 24.08.2025 08:49:38
+		Duration:	1.00:30:37
+		Location:	59.44280 24.68102
+
+(2) - Swim
+	RWI1
+		Images:	1169
+		Time:	23.08.2025 08:56:09 until 23.08.2025 12:14:55
+		Duration:	03:18:46
+		Location:	59.44375 24.67208
+
+(3) - Swim - Transition zone
+	DAVA1
+		Images:	3561
+		Time:	23.08.2025 08:19:15 until 24.08.2025 08:41:12
+		Duration:	1.00:21:57
+		Location:	59.44419 24.68441
+
+	EGA1
+		Images:	4988
+		Time:	23.08.2025 08:38:13 until 24.08.2025 09:18:23
+		Duration:	1.00:40:10
+		Location:	59.44419 24.68440
+
+(4) - Bike - Transition zone
+	MAV1
+		Images:	2735
+		Time:	23.08.2025 08:08:52 until 24.08.2025 12:05:15
+		Duration:	1.03:56:23
+		Location:	59.44630 24.68657
+
+	MAV1LS1
+		Images:	1294
+		Time:	23.08.2025 10:28:30 until 23.08.2025 12:11:52
+		Duration:	01:43:22
+		Location:	59.44630 24.68657
+
+(5) - Bike - 22/80/138 km
+	JOM1
+		Images:	9646
+		Time:	23.08.2025 10:57:13 until 23.08.2025 19:11:46
+		Duration:	08:14:33
+		Location:	59.38689 24.41252
+
+	JOM1LS1
+		Images:	8509
+		Time:	23.08.2025 10:51:20 until 23.08.2025 18:56:58
+		Duration:	08:05:38
+		Location:	59.38689 24.41252
+
+(6) - Bike - 26/84/142 km
+	AV1
+		Images:	11479
+		Time:	23.08.2025 11:00:48 until 23.08.2025 19:19:40
+		Duration:	08:18:52
+		Location:	59.41164 24.41097
+
+	AV1DRONE1
+		Images:	25
+		Time:	23.08.2025 11:47:06 until 24.08.2025 10:59:20
+		Duration:	23:12:14
+		Location:	59.41164 24.41097
+
+(7) - Bike - 39/97/155 km
+	RKO1
+		Images:	8879
+		Time:	23.08.2025 11:22:08 until 23.08.2025 19:33:37
+		Duration:	08:11:29
+		Location:	59.37661 24.40477
+
+	RKO1LS1
+		Images:	7558
+		Time:	23.08.2025 11:21:11 until 23.08.2025 18:14:20
+		Duration:	06:53:09
+		Location:	59.37661 24.40477
+
+(8) - Run - Transition zone
+	MAV2
+		Images:	135
+		Time:	23.08.2025 15:17:09 until 23.08.2025 17:23:44
+		Duration:	02:06:35
+		Location:	59.42441 24.64934
+
+(9) - Run -  3.6/14.3/25.1/35.9 km
+	EGA2
+		Images:	12569
+		Time:	23.08.2025 15:05:43 until 23.08.2025 23:16:09
+		Duration:	08:10:26
+		Location:	59.44324 24.68554
+
+(10) - Run - 2.8/13.7/24.4/35.0 km
+	RWI2
+		Images:	11828
+		Time:	23.08.2025 14:58:40 until 23.08.2025 23:40:18
+		Duration:	08:41:38
+		Location:	59.43791 24.68298
+
+(11) - Run - 6.7/17.4/28.2/38.9 km
+	IVAH2LS1
+		Images:	2197
+		Time:	23.08.2025 14:54:21 until 23.08.2025 20:28:50
+		Duration:	05:34:29
+		Location:	59.42931 24.65476
+
+	IVAH2
+		Images:	8697
+		Time:	23.08.2025 11:12:25 until 24.08.2025 11:45:17
+		Duration:	1.00:32:52
+		Location:	59.42931 24.65476
+
+(12) - Finish
+	AV2
+		Images:	1577
+		Time:	23.08.2025 21:29:08 until 23.08.2025 23:46:37
+		Duration:	02:17:29
+		Location:	59.42528 24.64706
+
+	DAVA2
+		Images:	200
+		Time:	23.08.2025 15:15:06 until 23.08.2025 17:13:49
+		Duration:	01:58:43
+		Location:	59.42528 24.64706
+
+	DAVA3
+		Images:	3640
+		Time:	23.08.2025 17:17:30 until 24.08.2025 03:18:35
+		Duration:	10:01:05
+		Location:	59.42522 24.64704
+
+	IVAH3
+		Images:	131
+		Time:	24.08.2025 01:20:06 until 24.08.2025 01:50:14
+		Duration:	00:30:08
+		Location:	59.42528 24.64706
+
+	JOM2
+		Images:	610
+		Time:	23.08.2025 23:47:52 until 24.08.2025 02:09:12
+		Duration:	02:21:20
+		Location:	59.42528 24.64706
+
+	MAV3
+		Images:	5977
+		Time:	23.08.2025 17:31:42 until 24.08.2025 03:18:25
+		Duration:	09:46:43
+		Location:	59.42528 24.64706
+
+	MAV3LS1
+		Images:	673
+		Time:	23.08.2025 17:35:47 until 24.08.2025 02:13:39
+		Duration:	08:37:52
+		Location:	59.42528 24.64706
+
+	RKO2
+		Images:	1285
+		Time:	23.08.2025 21:29:43 until 24.08.2025 00:08:43
+		Duration:	02:39:00
+		Location:	59.42528 24.64706
+
+(13) - Swim - Impressions / Pano
+	PANO1

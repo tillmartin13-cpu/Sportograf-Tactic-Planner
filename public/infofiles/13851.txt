@@ -1,0 +1,144 @@
+EventId: 13851
+Spots: 21
+Total Images: 24654
+Time:	07.09.2025 08:01:50 to 07.09.2025 15:01:32
+Duration: 06:59:42
+
+(1) - Start
+	FUP1
+		Images:	198
+		Time:	07.09.2025 08:01:50 until 07.09.2025 09:07:20
+		Duration:	01:05:30
+		Location:	46.24333 14.35475
+
+(2) - 10,0 km
+	LULE1
+		Images:	1071
+		Time:	07.09.2025 09:20:04 until 07.09.2025 09:29:16
+		Duration:	00:09:12
+		Location:	46.17903 14.31254
+
+	LULE1LS2
+		Images:	439
+		Time:	07.09.2025 08:58:12 until 07.09.2025 09:32:37
+		Duration:	00:34:25
+		Location:	46.17903 14.31254
+
+	LULE1LS1
+		Images:	531
+		Time:	07.09.2025 09:08:33 until 07.09.2025 09:32:09
+		Duration:	00:23:36
+		Location:	46.17903 14.31254
+
+(3) - 11,0 km
+	MATR1
+		Images:	623
+		Time:	07.09.2025 08:59:46 until 07.09.2025 09:31:30
+		Duration:	00:31:44
+		Location:	46.17628 14.30919
+
+	MATR1LS1
+		Images:	491
+		Time:	07.09.2025 09:06:41 until 07.09.2025 09:33:09
+		Duration:	00:26:28
+		Location:	46.17628 14.30919
+
+	MATR1DRONE1
+		Images:	21
+		Time:	07.09.2025 09:19:45 until 07.09.2025 11:27:31
+		Duration:	02:07:46
+		Location:	46.17628 14.30919
+
+(4) - 50,0 km
+	MAGA1
+		Images:	1428
+		Time:	07.09.2025 10:19:20 until 07.09.2025 11:21:02
+		Duration:	01:01:42
+		Location:	46.25988 14.56450
+
+	MAGA1LS1
+		Images:	1976
+		Time:	07.09.2025 10:08:10 until 07.09.2025 11:25:39
+		Duration:	01:17:29
+		Location:	46.25988 14.56450
+
+(5) - 55,0 km
+	MMO1
+		Images:	3828
+		Time:	07.09.2025 08:44:00 until 07.09.2025 11:44:19
+		Duration:	03:00:19
+		Location:	46.26178 14.52229
+
+(6) - 75,0 km
+	LULE2
+		Images:	1704
+		Time:	07.09.2025 10:50:42 until 07.09.2025 12:25:12
+		Duration:	01:34:30
+		Location:	46.28319 14.37047
+
+	LULE2LS1
+		Images:	726
+		Time:	07.09.2025 10:46:32 until 07.09.2025 12:11:31
+		Duration:	01:24:59
+		Location:	46.28319 14.37047
+
+(7) - 76,0 km
+	MATR2
+		Images:	3072
+		Time:	07.09.2025 10:51:16 until 07.09.2025 12:34:11
+		Duration:	01:42:55
+		Location:	46.27641 14.36414
+
+	MATR2LS1
+		Images:	779
+		Time:	07.09.2025 10:30:56 until 07.09.2025 13:20:33
+		Duration:	02:49:37
+		Location:	46.27641 14.36414
+
+(8) - 650 mt before finish
+	MMO2
+		Images:	2158
+		Time:	07.09.2025 12:21:24 until 07.09.2025 14:53:53
+		Duration:	02:32:29
+		Location:	46.26178 14.52229
+
+(9) - 600 mt before finish
+	MATR3LS1
+		Images:	306
+		Time:	07.09.2025 13:21:16 until 07.09.2025 15:01:32
+		Duration:	01:40:16
+		Location:	46.23825 14.35334
+
+	MATR3
+		Images:	653
+		Time:	07.09.2025 13:26:47 until 07.09.2025 14:39:06
+		Duration:	01:12:19
+		Location:	46.23825 14.35334
+
+(10) - 500 mt before finish
+	MAGA2
+		Images:	1514
+		Time:	07.09.2025 11:24:05 until 07.09.2025 14:54:14
+		Duration:	03:30:09
+		Location:	46.23907 14.35375
+
+(11) - 200 mt before finish
+	LULE3
+		Images:	524
+		Time:	07.09.2025 13:29:19 until 07.09.2025 14:36:33
+		Duration:	01:07:14
+		Location:	46.24122 14.35459
+
+	LULE3LS1
+		Images:	227
+		Time:	07.09.2025 13:23:14 until 07.09.2025 14:57:04
+		Duration:	01:33:50
+		Location:	46.24122 14.35459
+
+(12) - Finish
+	FUP2
+		Images:	2385
+		Time:	07.09.2025 10:26:17 until 07.09.2025 14:56:22
+		Duration:	04:30:05
+		Location:	46.24333 14.35475
+

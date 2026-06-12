@@ -1,0 +1,114 @@
+EventId: 14710
+Spots: 16
+Total Images: 57076
+Time:	04.10.2025 07:02:44 to 05.10.2025 14:15:48
+Duration: 1.07:13:04
+
+(1) - Obstacle 2 Barber Wire Beast / Sprint
+	GAT1
+		Images:	8396
+		Time:	04.10.2025 07:02:44 until 04.10.2025 13:30:24
+		Duration:	06:27:40
+		Location:	43.42653 6.81533
+
+(2) - Obstacle 12 Chain Carry / Beast
+	FRN1LS1
+		Images:	861
+		Time:	04.10.2025 08:41:53 until 04.10.2025 11:34:18
+		Duration:	02:52:25
+		Location:	43.42653 6.81533
+
+	FRN1
+		Images:	621
+		Time:	04.10.2025 08:34:33 until 04.10.2025 10:44:15
+		Duration:	02:09:42
+		Location:	43.42653 6.81533
+
+(3) - Impressions / Pano
+	FRN1DRONE1
+		Images:	51
+		Time:	04.10.2025 09:32:23 until 05.10.2025 14:15:48
+		Duration:	1.04:43:25
+		Location:	43.42653 6.81533
+
+(4) - Obstacle 13 Armer / Beast
+	HUM1
+		Images:	2894
+		Time:	04.10.2025 08:21:39 until 05.10.2025 08:33:20
+		Duration:	1.00:11:41
+		Location:	43.42653 6.81533
+
+	FRN2
+		Images:	687
+		Time:	04.10.2025 10:54:35 until 04.10.2025 14:47:07
+		Duration:	03:52:32
+		Location:	43.42653 6.81533
+
+(5) - Obstacle 14 Tilting Ladder / BEAST
+	DIBO1
+		Images:	5488
+		Time:	04.10.2025 09:04:28 until 04.10.2025 11:33:13
+		Duration:	02:28:45
+		Location:	43.42752 6.81572
+
+(6) - Obstacle 23 Bucket CArry Beast / Sprint
+	DIBO2
+		Images:	4105
+		Time:	04.10.2025 12:17:13 until 04.10.2025 15:34:47
+		Duration:	03:17:34
+		Location:	43.42561 6.85615
+
+(7) - Obstacle 24 Atlas CArry Beast / Sprint
+	LELBE1
+		Images:	3870
+		Time:	04.10.2025 07:46:08 until 04.10.2025 15:45:28
+		Duration:	07:59:20
+		Location:	43.42005 6.85515
+
+	HUM2
+		Images:	893
+		Time:	04.10.2025 12:31:33 until 04.10.2025 14:33:08
+		Duration:	02:01:35
+		Location:	43.42005 6.85515
+
+(8) - Obstacle 26 Dunk Wall  Beast / Sprint
+	DART1
+		Images:	13944
+		Time:	04.10.2025 07:03:00 until 04.10.2025 15:50:17
+		Duration:	08:47:17
+		Location:	43.42005 6.85515
+
+(9) - Obstacle 28 Water Traverse 2 Beast /Sprint
+	GAT2
+		Images:	1360
+		Time:	04.10.2025 14:08:44 until 04.10.2025 16:22:51
+		Duration:	02:14:07
+		Location:	43.41573 6.84551
+
+(10) - Run Before OB 29 Slip Wall Best / Sprint
+	GAT1LS1
+		Images:	3668
+		Time:	04.10.2025 10:28:09 until 04.10.2025 16:29:18
+		Duration:	06:01:09
+		Location:	43.41573 6.84551
+
+(11) - Finish
+	ALL1
+		Images:	4803
+		Time:	04.10.2025 09:39:24 until 05.10.2025 07:44:46
+		Duration:	22:05:22
+		Location:	43.41712 6.84535
+
+	ALL1LS1
+		Images:	2462
+		Time:	04.10.2025 07:43:44 until 04.10.2025 16:44:26
+		Duration:	09:00:42
+		Location:	43.41712 6.84535
+
+(12) - Herotent
+	CC1
+		Images:	2970
+		Time:	04.10.2025 10:08:05 until 04.10.2025 16:52:23
+		Duration:	06:44:18
+		Location:	43.41712 6.84535
+

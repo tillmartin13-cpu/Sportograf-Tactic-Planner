@@ -1,0 +1,112 @@
+EventId: 13888
+Spots: 17
+Total Images: 56878
+Time:	07.03.2025 20:02:09 to 08.03.2025 15:33:08
+Duration: 19:30:59
+
+(1) - 3,0 km Bovenschelde
+	DIER1
+		Images:	3153
+		Time:	08.03.2025 06:34:38 until 08.03.2025 09:54:10
+		Duration:	03:19:32
+		Location:	NULL NULL
+
+	GVDL1
+		Images:	3556
+		Time:	07.03.2025 20:02:09 until 08.03.2025 09:51:20
+		Duration:	13:49:11
+		Location:	NULL NULL
+
+(2) - 23,0 km Kasteeldomein van Nokere
+	THL1LS1
+		Images:	2273
+		Time:	08.03.2025 06:19:15 until 08.03.2025 10:37:02
+		Duration:	04:17:47
+		Location:	NULL NULL
+
+	THL1
+		Images:	16646
+		Time:	08.03.2025 06:18:01 until 08.03.2025 10:53:28
+		Duration:	04:35:27
+		Location:	NULL NULL
+
+(3) - 25,0 km Kleistraat
+	AG1LS1
+		Images:	2363
+		Time:	08.03.2025 07:14:05 until 08.03.2025 10:21:38
+		Duration:	03:07:33
+		Location:	NULL NULL
+
+	AG1LS2
+		Images:	1204
+		Time:	08.03.2025 07:15:30 until 08.03.2025 10:21:38
+		Duration:	03:06:08
+		Location:	NULL NULL
+
+	AG1
+		Images:	5296
+		Time:	08.03.2025 07:21:00 until 08.03.2025 10:26:56
+		Duration:	03:05:56
+		Location:	NULL NULL
+
+(4) - Impressions / Pano
+	AG1DRONE1
+		Images:	34
+		Time:	08.03.2025 09:29:58 until 08.03.2025 11:25:29
+		Duration:	01:55:31
+		Location:	NULL NULL
+
+	PANO1
+(5) - 10,5km before finish - Jagerij
+	THL2
+		Images:	6115
+		Time:	08.03.2025 11:36:49 until 08.03.2025 14:40:40
+		Duration:	03:03:51
+		Location:	NULL NULL
+
+	THL2LS1
+		Images:	1776
+		Time:	08.03.2025 11:45:51 until 08.03.2025 14:26:55
+		Duration:	02:41:04
+		Location:	NULL NULL
+
+(6) - Brouwerij Roman
+	THL3
+		Images:	127
+		Time:	08.03.2025 11:22:03 until 08.03.2025 11:32:51
+		Duration:	00:10:48
+		Location:	NULL NULL
+
+(7) - 9km before finish - Jagerij
+	AG2
+		Images:	3528
+		Time:	08.03.2025 12:03:57 until 08.03.2025 14:11:26
+		Duration:	02:07:29
+		Location:	NULL NULL
+
+	AG2LS2
+		Images:	713
+		Time:	08.03.2025 11:49:34 until 08.03.2025 12:32:46
+		Duration:	00:43:12
+		Location:	NULL NULL
+
+	AG2LS1
+		Images:	1821
+		Time:	08.03.2025 11:58:43 until 08.03.2025 13:52:58
+		Duration:	01:54:15
+		Location:	NULL NULL
+
+(8) - 700m before finish
+	DIER2
+		Images:	3029
+		Time:	08.03.2025 10:34:22 until 08.03.2025 14:45:22
+		Duration:	04:11:00
+		Location:	NULL NULL
+
+(9) - Finish
+	GVDL2
+		Images:	5244
+		Time:	08.03.2025 10:21:56 until 08.03.2025 15:33:08
+		Duration:	05:11:12
+		Location:	NULL NULL
+

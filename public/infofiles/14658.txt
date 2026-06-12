@@ -1,0 +1,120 @@
+EventId: 14658
+Spots: 17
+Total Images: 123822
+Time:	11.04.2025 14:30:30 to 12.04.2025 16:10:20
+Duration: 1.01:39:50
+
+(1) - On trail by Over Walls
+	KHN1LS1
+		Images:	3701
+		Time:	11.04.2025 21:57:34 until 12.04.2025 15:31:24
+		Duration:	17:33:50
+		Location:	NULL NULL
+
+(2) - Obstacle 10 Monkey Bars
+	DVAL1
+		Images:	6718
+		Time:	12.04.2025 06:30:22 until 12.04.2025 15:12:36
+		Duration:	08:42:14
+		Location:	NULL NULL
+
+	HJP1
+		Images:	9416
+		Time:	12.04.2025 06:43:40 until 12.04.2025 14:35:58
+		Duration:	07:52:18
+		Location:	NULL NULL
+
+(3) - Obstacle 11 Craft A-Frame Cargo
+	DMI1
+		Images:	10327
+		Time:	11.04.2025 14:30:30 until 12.04.2025 14:40:25
+		Duration:	1.00:09:55
+		Location:	NULL NULL
+
+(4) - Obstacle 13 Sandbag Carry
+	JO1
+		Images:	3882
+		Time:	11.04.2025 22:46:42 until 12.04.2025 14:47:14
+		Duration:	16:00:32
+		Location:	NULL NULL
+
+(5) - Obstacle 14 Inverted Wall
+	TUD1
+		Images:	8799
+		Time:	12.04.2025 07:02:01 until 12.04.2025 15:01:01
+		Duration:	07:59:00
+		Location:	NULL NULL
+
+(6) - Obstacle 17 Multi-Rig
+	MATA1
+		Images:	5323
+		Time:	12.04.2025 07:31:11 until 12.04.2025 15:13:16
+		Duration:	07:42:05
+		Location:	NULL NULL
+
+	MCAR1
+		Images:	4739
+		Time:	11.04.2025 15:12:31 until 12.04.2025 14:26:23
+		Duration:	23:13:52
+		Location:	NULL NULL
+
+	MCAR1DRONE1
+		Images:	14
+		Time:	12.04.2025 11:56:16 until 12.04.2025 11:59:58
+		Duration:	00:03:42
+		Location:	NULL NULL
+
+(7) - Obstacle 18 Bucket Carry
+	BICI1LS1
+		Images:	4073
+		Time:	12.04.2025 07:26:13 until 12.04.2025 14:57:25
+		Duration:	07:31:12
+		Location:	NULL NULL
+
+	BICI1
+		Images:	7536
+		Time:	12.04.2025 07:49:23 until 12.04.2025 15:18:41
+		Duration:	07:29:18
+		Location:	NULL NULL
+
+(8) - Obstacle 22 Dunk Wall (no wall)
+	DDS1
+		Images:	10035
+		Time:	11.04.2025 20:47:04 until 12.04.2025 15:53:00
+		Duration:	19:05:56
+		Location:	NULL NULL
+
+(9) - Obstacle 23 Barbed Wire Crawl
+	DDC1
+		Images:	13056
+		Time:	11.04.2025 18:54:01 until 12.04.2025 15:58:29
+		Duration:	21:04:28
+		Location:	NULL NULL
+
+(10) - Obstacle 24 Slip Wall
+	MKI1
+		Images:	20697
+		Time:	11.04.2025 19:09:25 until 12.04.2025 16:00:33
+		Duration:	20:51:08
+		Location:	NULL NULL
+
+(11) - Obstacle 26 Fire Jump
+	KHN1
+		Images:	13623
+		Time:	11.04.2025 21:55:03 until 12.04.2025 16:08:10
+		Duration:	18:13:07
+		Location:	NULL NULL
+
+(12) - Herotent
+	DVAL2
+		Images:	525
+		Time:	12.04.2025 09:54:54 until 12.04.2025 15:06:06
+		Duration:	05:11:12
+		Location:	NULL NULL
+
+	FREM1
+		Images:	1358
+		Time:	11.04.2025 20:03:07 until 12.04.2025 16:10:20
+		Duration:	20:07:13
+		Location:	NULL NULL
+

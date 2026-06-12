@@ -1,0 +1,45 @@
+EventId: 15287
+Spots: 6
+Total Images: 42451
+Time:	20.09.2025 07:39:19 to 20.09.2025 18:50:06
+Duration: 11:10:47
+
+(1) - All Gas No Brakes
+	PAS1
+		Images:	19413
+		Time:	20.09.2025 07:51:12 until 20.09.2025 17:32:17
+		Duration:	09:41:05
+		Location:	51.50799 0.02629
+
+	SALA3
+		Images:	1306
+		Time:	20.09.2025 08:06:35 until 20.09.2025 16:16:34
+		Duration:	08:09:59
+		Location:	51.50799 0.02629
+
+(2) - Lift Off
+	MKH1
+		Images:	5953
+		Time:	20.09.2025 07:39:19 until 20.09.2025 18:21:06
+		Duration:	10:41:47
+		Location:	51.50799 0.02629
+
+	SALA2
+		Images:	2452
+		Time:	20.09.2025 09:30:41 until 20.09.2025 16:40:49
+		Duration:	07:10:08
+		Location:	51.50799 0.02629
+
+(3) - Amrap/Sprint
+	AH1
+		Images:	9041
+		Time:	20.09.2025 08:09:43 until 20.09.2025 18:50:06
+		Duration:	10:40:23
+		Location:	51.50799 0.02629
+
+	SALA1
+		Images:	4286
+		Time:	20.09.2025 09:35:57 until 20.09.2025 18:49:27
+		Duration:	09:13:30
+		Location:	51.50799 0.02629
+

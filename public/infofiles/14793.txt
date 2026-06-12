@@ -1,0 +1,110 @@
+EventId: 14793
+Spots: 17
+Total Images: 38573
+Time:	26.01.2025 07:24:56 to 26.01.2025 14:01:39
+Duration: 06:36:43
+
+(1) - km 0,7 after start / 42km+28km
+	MAW1
+		Images:	1264
+		Time:	26.01.2025 07:32:36 until 26.01.2025 09:15:03
+		Duration:	01:42:27
+		Location:	50.13035 5.79827
+
+	MAW1LS1
+		Images:	460
+		Time:	26.01.2025 07:24:57 until 26.01.2025 09:20:48
+		Duration:	01:55:51
+		Location:	50.13035 5.79827
+
+	MAW1LS2
+		Images:	486
+		Time:	26.01.2025 07:24:56 until 26.01.2025 09:18:13
+		Duration:	01:53:17
+		Location:	50.13035 5.79827
+
+(2) - km 0,8 after start / 42km+28km
+	MK1
+		Images:	1741
+		Time:	26.01.2025 07:36:17 until 26.01.2025 09:24:05
+		Duration:	01:47:48
+		Location:	50.12962 5.79931
+
+(3) - km1 / 42km+28km
+	LV1
+		Images:	2844
+		Time:	26.01.2025 07:26:46 until 26.01.2025 09:21:13
+		Duration:	01:54:27
+		Location:	50.12833 5.79958
+
+	LV1LS1
+		Images:	343
+		Time:	26.01.2025 08:59:11 until 26.01.2025 09:22:52
+		Duration:	00:23:41
+		Location:	50.12833 5.79958
+
+	MK1LS1
+		Images:	422
+		Time:	26.01.2025 07:36:10 until 26.01.2025 09:22:53
+		Duration:	01:46:43
+		Location:	50.12833 5.79958
+
+(4) - km24/42 - km19/28 - km4,5/18+11
+	MAW2
+		Images:	4799
+		Time:	26.01.2025 10:08:51 until 26.01.2025 13:08:00
+		Duration:	02:59:09
+		Location:	50.12859 5.78663
+
+	MAW2LS1
+		Images:	1143
+		Time:	26.01.2025 09:58:56 until 26.01.2025 13:27:21
+		Duration:	03:28:25
+		Location:	50.12859 5.78663
+
+	MAW2LS2
+		Images:	1129
+		Time:	26.01.2025 09:54:27 until 26.01.2025 13:04:34
+		Duration:	03:10:07
+		Location:	50.12859 5.78663
+
+(5) - km27/42 - km22/28 - km7,5/18+11
+	LV2
+		Images:	10943
+		Time:	26.01.2025 09:46:14 until 26.01.2025 14:01:39
+		Duration:	04:15:25
+		Location:	50.14314 5.79665
+
+(6) - km28/42 - km23/28 - km8,5/18+11
+	LV2LS1
+		Images:	960
+		Time:	26.01.2025 09:56:05 until 26.01.2025 13:49:26
+		Duration:	03:53:21
+		Location:	50.1402 5.80752
+
+	MK2LS1
+		Images:	983
+		Time:	26.01.2025 09:53:25 until 26.01.2025 13:45:42
+		Duration:	03:52:17
+		Location:	50.1402 5.80752
+
+	MK2
+		Images:	10009
+		Time:	26.01.2025 09:45:19 until 26.01.2025 13:49:29
+		Duration:	04:04:10
+		Location:	50.13958 5.80752
+
+	MK2LS2
+		Images:	1024
+		Time:	26.01.2025 10:04:20 until 26.01.2025 13:40:32
+		Duration:	03:36:12
+		Location:	50.13958 5.80752
+
+(7) - Impressions / Pano
+	MK2DRONE1
+		Images:	23
+		Time:	26.01.2025 10:28:48 until 26.01.2025 10:43:01
+		Duration:	00:14:13
+		Location:	50.13958 5.80752
+
+	PANO1

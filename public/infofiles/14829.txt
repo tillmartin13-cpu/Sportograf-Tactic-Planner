@@ -1,0 +1,73 @@
+EventId: 14829
+Spots: 11
+Total Images: 95085
+Time:	06.09.2025 06:48:41 to 06.09.2025 20:06:16
+Duration: 13:17:35
+
+(1) - Swim Exit
+	TIH1
+		Images:	8016
+		Time:	06.09.2025 06:50:31 until 06.09.2025 19:10:49
+		Duration:	12:20:18
+		Location:	NULL NULL
+
+	TIH1LS1
+		Images:	3304
+		Time:	06.09.2025 07:23:24 until 06.09.2025 19:11:24
+		Duration:	11:48:00
+		Location:	NULL NULL
+
+(2) - Bike Rathaus
+	DAR1
+		Images:	34769
+		Time:	06.09.2025 07:12:03 until 06.09.2025 19:30:33
+		Duration:	12:18:30
+		Location:	NULL NULL
+
+	DAR1LS1
+		Images:	5857
+		Time:	06.09.2025 08:19:26 until 06.09.2025 19:24:45
+		Duration:	11:05:19
+		Location:	NULL NULL
+
+(3) - Run
+	RW1LS2
+		Images:	9278
+		Time:	06.09.2025 08:23:21 until 06.09.2025 19:52:03
+		Duration:	11:28:42
+		Location:	NULL NULL
+
+	RW1
+		Images:	17333
+		Time:	06.09.2025 08:42:11 until 06.09.2025 20:00:17
+		Duration:	11:18:06
+		Location:	NULL NULL
+
+	RW1LS1
+		Images:	3998
+		Time:	06.09.2025 16:17:19 until 06.09.2025 20:04:35
+		Duration:	03:47:16
+		Location:	NULL NULL
+
+(4) - Finish
+	BS1
+		Images:	9557
+		Time:	06.09.2025 06:48:41 until 06.09.2025 19:58:49
+		Duration:	13:10:08
+		Location:	NULL NULL
+
+	BS1LS1
+		Images:	2966
+		Time:	06.09.2025 07:28:01 until 06.09.2025 20:06:16
+		Duration:	12:38:15
+		Location:	NULL NULL
+
+(5) - Swim - Start
+	DAR1DRONE1
+		Images:	7
+		Time:	06.09.2025 07:16:50 until 06.09.2025 07:22:54
+		Duration:	00:06:04
+		Location:	NULL NULL
+
+(6) - IMP
+	PANO1

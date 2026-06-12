@@ -1,0 +1,146 @@
+EventId: 14865
+Spots: 22
+Total Images: 46917
+Time:	29.03.2025 06:06:03 to 29.03.2025 20:06:11
+Duration: 14:00:08
+
+(1) - Start
+	JMP1
+		Images:	216
+		Time:	29.03.2025 06:45:20 until 29.03.2025 17:57:51
+		Duration:	11:12:31
+		Location:	38.94912 1.29158
+
+(2) - REMO
+	AGAR1
+		Images:	1774
+		Time:	29.03.2025 06:47:59 until 29.03.2025 12:46:37
+		Duration:	05:58:38
+		Location:	38.94912 1.29158
+
+	AMRU2
+		Images:	2581
+		Time:	29.03.2025 13:56:34 until 29.03.2025 19:27:54
+		Duration:	05:31:20
+		Location:	38.94912 1.29158
+
+	JMP2
+		Images:	1055
+		Time:	29.03.2025 08:04:44 until 29.03.2025 19:09:26
+		Duration:	11:04:42
+		Location:	38.94912 1.29158
+
+(3) - SALTOS
+	JMP3
+		Images:	1324
+		Time:	29.03.2025 08:26:40 until 29.03.2025 19:17:22
+		Duration:	10:50:42
+		Location:	38.94912 1.29158
+
+	MRAB1
+		Images:	3218
+		Time:	29.03.2025 07:20:20 until 29.03.2025 12:51:37
+		Duration:	05:31:17
+		Location:	38.94912 1.29158
+
+	AGAR2
+		Images:	1902
+		Time:	29.03.2025 14:12:50 until 29.03.2025 19:30:48
+		Duration:	05:17:58
+		Location:	38.94912 1.29158
+
+(4) - SKI ERG
+	JMP4
+		Images:	1803
+		Time:	29.03.2025 08:53:12 until 29.03.2025 19:28:44
+		Duration:	10:35:32
+		Location:	38.94912 1.29158
+
+	OAC1
+		Images:	3328
+		Time:	29.03.2025 06:42:59 until 29.03.2025 13:04:22
+		Duration:	06:21:23
+		Location:	38.94912 1.29158
+
+	MRAB2
+		Images:	4652
+		Time:	29.03.2025 14:17:36 until 29.03.2025 17:44:43
+		Duration:	03:27:07
+		Location:	38.94912 1.29158
+
+(5) - FARMERS CARRY
+	JMP1LS1
+		Images:	2101
+		Time:	29.03.2025 06:10:23 until 29.03.2025 20:02:49
+		Duration:	13:52:26
+		Location:	38.94912 1.29158
+
+	AMRU2LS1
+		Images:	2027
+		Time:	29.03.2025 06:11:43 until 29.03.2025 20:06:11
+		Duration:	13:54:28
+		Location:	38.94912 1.29158
+
+(6) - AIR BIKE
+	JMP5
+		Images:	634
+		Time:	29.03.2025 09:16:49 until 29.03.2025 19:38:07
+		Duration:	10:21:18
+		Location:	38.94912 1.29158
+
+	TGM1
+		Images:	2563
+		Time:	29.03.2025 07:35:47 until 29.03.2025 13:16:33
+		Duration:	05:40:46
+		Location:	38.94912 1.29158
+
+	OAC2
+		Images:	2529
+		Time:	29.03.2025 16:20:10 until 29.03.2025 19:44:30
+		Duration:	03:24:20
+		Location:	38.94912 1.29158
+
+	OAC3
+		Images:	4296
+		Time:	29.03.2025 14:23:48 until 29.03.2025 16:27:20
+		Duration:	02:03:32
+		Location:	38.94912 1.29158
+
+(7) - TRINEO
+	JMP6
+		Images:	386
+		Time:	29.03.2025 09:39:27 until 29.03.2025 19:47:27
+		Duration:	10:08:00
+		Location:	38.94912 1.29158
+
+	AMRU1
+		Images:	3421
+		Time:	29.03.2025 06:50:01 until 29.03.2025 13:26:03
+		Duration:	06:36:02
+		Location:	38.94912 1.29158
+
+	TGM2
+		Images:	3424
+		Time:	29.03.2025 14:29:55 until 29.03.2025 19:53:04
+		Duration:	05:23:09
+		Location:	38.94912 1.29158
+
+	TGM3
+		Images:	648
+		Time:	29.03.2025 16:18:53 until 29.03.2025 16:45:57
+		Duration:	00:27:04
+		Location:	38.94912 1.29158
+
+(8) - Finish
+	TGM2LS1
+		Images:	1473
+		Time:	29.03.2025 06:06:03 until 29.03.2025 20:01:45
+		Duration:	13:55:42
+		Location:	38.94912 1.29158
+
+	TGM2LS2
+		Images:	1562
+		Time:	29.03.2025 06:25:03 until 29.03.2025 19:58:10
+		Duration:	13:33:07
+		Location:	38.94912 1.29158
+

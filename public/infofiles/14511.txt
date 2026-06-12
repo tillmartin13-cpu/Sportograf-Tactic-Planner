@@ -1,0 +1,152 @@
+EventId: 14511
+Spots: 23
+Total Images: 19140
+Time:	07.08.2025 21:44:13 to 10.08.2025 09:36:46
+Duration: 2.11:52:33
+
+(1) - Start 160k + vertical
+	ALL1
+		Images:	481
+		Time:	08.08.2025 06:45:26 until 08.08.2025 09:00:13
+		Duration:	02:14:47
+		Location:	46.39751 8.1274
+
+(2) - 160K + Vertical / 1 Km after start
+	AMU1
+		Images:	532
+		Time:	08.08.2025 07:17:18 until 08.08.2025 09:14:21
+		Duration:	01:57:03
+		Location:	46.40050 8.1252
+
+(3) - 160K / Riederhalp / 15.4Km after start
+	BEB1
+		Images:	1187
+		Time:	07.08.2025 21:44:13 until 08.08.2025 11:25:09
+		Duration:	13:40:56
+		Location:	46.37834 8.0205
+
+(4) - 160K / Riederhalp / 15.5 Km after start
+	BEB1LS1
+		Images:	661
+		Time:	08.08.2025 08:55:58 until 08.08.2025 10:30:26
+		Duration:	01:34:28
+		Location:	46.37809 8.0210
+
+(5) - Vertical / 0.5Km before finish
+	ALL2
+		Images:	569
+		Time:	08.08.2025 10:16:40 until 08.08.2025 12:26:23
+		Duration:	02:09:43
+		Location:	46.42797 8.0915
+
+	ALL2LS1
+		Images:	542
+		Time:	07.08.2025 22:10:36 until 08.08.2025 12:29:26
+		Duration:	14:18:50
+		Location:	46.42797 8.0915
+
+(6) - Vertical finish
+	AMU2
+		Images:	420
+		Time:	08.08.2025 10:23:25 until 08.08.2025 13:18:36
+		Duration:	02:55:11
+		Location:	46.42778 8.0909
+
+(7) - 160 K / Aletsch Gletscher / 51Km after start
+	ALL3
+		Images:	1040
+		Time:	08.08.2025 14:45:55 until 08.08.2025 21:10:02
+		Duration:	06:24:07
+		Location:	46.43989 8.0864
+
+	ALL3LS1
+		Images:	931
+		Time:	08.08.2025 15:20:29 until 08.08.2025 23:07:22
+		Duration:	07:46:53
+		Location:	46.43989 8.0864
+
+(8) - 160 K / Burghutte / 56Km after start
+	AMU3
+		Images:	635
+		Time:	08.08.2025 15:53:53 until 08.08.2025 23:50:22
+		Duration:	07:56:29
+		Location:	46.44557 8.1400
+
+(9) - 50K + 100K / 1 Km after start
+	BEB2
+		Images:	1389
+		Time:	09.08.2025 06:01:56 until 09.08.2025 06:42:55
+		Duration:	00:40:59
+		Location:	46.39986 8.1260
+
+	BEB2LS1
+		Images:	1449
+		Time:	09.08.2025 05:50:35 until 09.08.2025 06:42:55
+		Duration:	00:52:20
+		Location:	46.39986 8.1260
+
+(10) - 50K + 100K / Aletsch Gletscher / 15Km After start
+	ALL4
+		Images:	2634
+		Time:	09.08.2025 07:21:54 until 09.08.2025 12:43:59
+		Duration:	05:22:05
+		Location:	46.43989 8.0864
+
+	ALL4LS1
+		Images:	800
+		Time:	09.08.2025 07:29:41 until 09.08.2025 11:01:21
+		Duration:	03:31:40
+		Location:	46.43989 8.0864
+
+(11) - 50K + 100 K / Burghutte / 20 Km after start
+	AMU4
+		Images:	1385
+		Time:	09.08.2025 08:31:36 until 09.08.2025 12:56:28
+		Duration:	04:24:52
+		Location:	46.44557 8.1400
+
+(12) - Finish
+	BEB3
+		Images:	1390
+		Time:	09.08.2025 07:08:33 until 09.08.2025 17:49:27
+		Duration:	10:40:54
+		Location:	46.39768 8.1297
+
+	BEB3LS1
+		Images:	735
+		Time:	09.08.2025 07:05:12 until 09.08.2025 17:49:33
+		Duration:	10:44:21
+		Location:	46.39768 8.1297
+
+	AMU5
+		Images:	548
+		Time:	09.08.2025 17:50:46 until 09.08.2025 23:46:02
+		Duration:	05:55:16
+		Location:	46.39768 8.1297
+
+	BEB4
+		Images:	230
+		Time:	09.08.2025 23:53:41 until 10.08.2025 05:56:33
+		Duration:	06:02:52
+		Location:	46.39768 8.1297
+
+	BEB4LS1
+		Images:	347
+		Time:	09.08.2025 23:36:03 until 10.08.2025 05:48:12
+		Duration:	06:12:09
+		Location:	46.39768 8.1297
+
+	ALL5
+		Images:	943
+		Time:	10.08.2025 05:55:01 until 10.08.2025 09:36:46
+		Duration:	03:41:45
+		Location:	46.39768 8.1297
+
+	ALL5LS1
+		Images:	292
+		Time:	10.08.2025 05:52:00 until 10.08.2025 09:35:34
+		Duration:	03:43:34
+		Location:	46.39768 8.1297
+
+(13) - Impressions / Pano
+	PANO1

@@ -1,0 +1,267 @@
+EventId: 15939
+Spots: 38
+Total Images: 154984
+Time:	01.01.0001 23:00:00 to 19.04.2025 09:52:14
+Duration: 739358.10:52:14
+
+(1) - 0.0 km Alan FInish 859987
+	BANG1
+		Images:	11491
+		Time:	19.04.2025 08:02:41 until 19.04.2025 09:31:03
+		Duration:	01:28:22
+		Location:	NULL NULL
+
+(2) - 0.0 km Daniel Libon, MSC 3, 859960
+	ALIBO1
+		Images:	5601
+		Time:	19.04.2025 07:16:22 until 19.04.2025 09:21:43
+		Duration:	02:05:21
+		Location:	NULL NULL
+
+(3) - 0.0 km Finish Front Right top 859988
+	SGENT3
+		Images:	2422
+		Time:	19.04.2025 06:32:26 until 19.04.2025 09:35:50
+		Duration:	03:03:24
+		Location:	NULL NULL
+
+(4) - 0.0 km Finish Henrz 859971
+	BHCAS1
+		Images:	4120
+		Time:	19.04.2025 07:54:11 until 19.04.2025 09:31:08
+		Duration:	01:36:57
+		Location:	NULL NULL
+
+(5) - 0.0 km Finish Toby 859970
+	BTCHE1
+		Images:	16681
+		Time:	19.04.2025 06:07:47 until 19.04.2025 07:30:45
+		Duration:	01:22:58
+		Location:	NULL NULL
+
+(6) - 0.0 km Finish Trigger 1 859973
+	SGENT1
+		Images:	3999
+		Time:	19.04.2025 06:22:48 until 19.04.2025 09:25:54
+		Duration:	03:03:06
+		Location:	NULL NULL
+
+(7) - 0.0 km Finish Trigger 2 859973
+	BTCHE1LS1
+		Images:	5235
+		Time:	19.04.2025 08:09:40 until 19.04.2025 09:37:12
+		Duration:	01:27:32
+		Location:	NULL NULL
+
+(8) - 0.0 km IVANA MSC 1 859983
+	AIVAC1
+		Images:	4664
+		Time:	19.04.2025 07:30:48 until 19.04.2025 09:19:47
+		Duration:	01:48:59
+		Location:	NULL NULL
+
+(9) - 0.0 km john nunziato, msc 3, 859959
+	ANUNZ1
+		Images:	3452
+		Time:	19.04.2025 07:38:58 until 19.04.2025 09:32:08
+		Duration:	01:53:10
+		Location:	NULL NULL
+
+(10) - 0.0 km medals alyssa chamberlain 859981
+	AACHA1
+		Images:	880
+		Time:	19.04.2025 08:29:14 until 19.04.2025 09:52:14
+		Duration:	01:23:00
+		Location:	NULL NULL
+
+(11) - 0.0 km medals chris varney 859978
+	ACVAR1
+		Images:	433
+		Time:	19.04.2025 08:18:41 until 19.04.2025 09:52:03
+		Duration:	01:33:22
+		Location:	NULL NULL
+
+(12) - 0.0 km medals ethan walsh 859982
+	AEWAL1
+		Images:	1994
+		Time:	19.04.2025 06:31:51 until 19.04.2025 09:42:38
+		Duration:	03:10:47
+		Location:	NULL NULL
+
+(13) - 0.0 km medals jenner duran 859976
+	AJDUR1
+		Images:	1170
+		Time:	19.04.2025 07:52:59 until 19.04.2025 09:45:33
+		Duration:	01:52:34
+		Location:	NULL NULL
+
+(14) - 0.0 km medals marjorie schmidt 859980
+	AMSCH1
+		Images:	798
+		Time:	19.04.2025 08:14:13 until 19.04.2025 09:39:18
+		Duration:	01:25:05
+		Location:	NULL NULL
+
+(15) - 0.0 km Medals Megyn 859974
+	AMBAR1
+		Images:	1088
+		Time:	19.04.2025 08:17:50 until 19.04.2025 09:46:01
+		Duration:	01:28:11
+		Location:	NULL NULL
+
+(16) - 0.0 km medals preston long 859979
+	APLON1
+		Images:	759
+		Time:	19.04.2025 08:29:54 until 19.04.2025 09:49:33
+		Duration:	01:19:39
+		Location:	NULL NULL
+
+(17) - 0.0 km medals stephen nyanga 859975
+	ASNYA1
+		Images:	710
+		Time:	19.04.2025 07:10:20 until 19.04.2025 09:10:43
+		Duration:	02:00:23
+		Location:	NULL NULL
+
+(18) - 0.0 km medals sydney clardi 859977
+	ASCLA1
+		Images:	798
+		Time:	19.04.2025 08:19:50 until 19.04.2025 09:39:24
+		Duration:	01:19:34
+		Location:	NULL NULL
+
+(19) - 0.0 km MSC 1 CAMDEN HEISNER 859985
+	ACHEI1
+		Images:	12870
+		Time:	19.04.2025 08:03:32 until 19.04.2025 08:52:20
+		Duration:	00:48:48
+		Location:	NULL NULL
+
+(20) - 0.0 km MSC 1 LANA CITOWSKY 859984
+	ALCIT1
+		Images:	11260
+		Time:	19.04.2025 08:03:02 until 19.04.2025 09:20:29
+		Duration:	01:17:27
+		Location:	NULL NULL
+
+(21) - 0.0 km MSC 1 TRIGGER
+	ATRA1
+		Images:	2766
+		Time:	19.04.2025 07:25:24 until 19.04.2025 09:21:57
+		Duration:	01:56:33
+		Location:	NULL NULL
+
+(22) - 0.0 km msc 2 harrison rice 859998
+	BHRIC1
+		Images:	2244
+		Time:	19.04.2025 08:12:25 until 19.04.2025 09:10:16
+		Duration:	00:57:51
+		Location:	NULL NULL
+
+(23) - 0.0 km msc 2 katie orsino 859999
+	BKORS1
+		Images:	2692
+		Time:	19.04.2025 08:11:48 until 19.04.2025 09:11:07
+		Duration:	00:59:19
+		Location:	NULL NULL
+
+(24) - 0.0 km msc 2 liam 859997
+	BLIAM1
+		Images:	5731
+		Time:	19.04.2025 06:47:31 until 19.04.2025 08:03:37
+		Duration:	01:16:06
+		Location:	NULL NULL
+
+(25) - 0.0 km Msc 2 rory fisher 859996
+	BRFIS1
+		Images:	4151
+		Time:	19.04.2025 07:31:43 until 19.04.2025 09:05:38
+		Duration:	01:33:55
+		Location:	NULL NULL
+
+(26) - 0.0 km patrick dunn, msc 3, 859961
+	BPAT1
+		Images:	6807
+		Time:	19.04.2025 07:11:34 until 19.04.2025 08:58:56
+		Duration:	01:47:22
+		Location:	NULL NULL
+
+(27) - 0.0 km paul meredith, msc 3, 859958
+	BPAUL1
+		Images:	5963
+		Time:	18.12.2024 14:42:20 until 18.12.2024 16:03:19
+		Duration:	01:20:59
+		Location:	NULL NULL
+
+(28) - 0.0 km pre fin alisyn tousignant 859965
+	AATOU1
+		Images:	4040
+		Time:	19.04.2025 07:36:48 until 19.04.2025 09:28:26
+		Duration:	01:51:38
+		Location:	NULL NULL
+
+(29) - 0.0 km pre fin david lavallee 859966
+	ADVAL1
+		Images:	4005
+		Time:	19.04.2025 07:55:27 until 19.04.2025 09:32:45
+		Duration:	01:37:18
+		Location:	NULL NULL
+
+(30) - 0.0 km pre fin jonathan burke 859967
+	AJBUR1
+		Images:	3316
+		Time:	19.04.2025 08:37:58 until 19.04.2025 09:30:26
+		Duration:	00:52:28
+		Location:	NULL NULL
+
+(31) - 0.0 km Pre FIn Left Ground 859969
+	SGENT4
+		Images:	4251
+		Time:	19.04.2025 07:40:46 until 19.04.2025 09:30:58
+		Duration:	01:50:12
+		Location:	NULL NULL
+
+(32) - 0.0 km PRE FIN marcus origenes 859964
+	AMOR1
+		Images:	2925
+		Time:	19.04.2025 08:41:11 until 19.04.2025 09:30:45
+		Duration:	00:49:34
+		Location:	NULL NULL
+
+(33) - 0.0 km pre fin trigger left 865623
+	ATRB1
+		Images:	3973
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(34) - 0.0 km PRe Fin Trigger Right 859968
+	SGENT2
+		Images:	5438
+		Time:	19.04.2025 07:34:29 until 19.04.2025 09:47:20
+		Duration:	02:12:51
+		Location:	NULL NULL
+
+(35) - 0.0 km pre fin trigger right up 865624
+	ATRAA1
+		Images:	4439
+		Time:	19.04.2025 06:40:34 until 19.04.2025 09:32:12
+		Duration:	02:51:38
+		Location:	NULL NULL
+
+(36) - 0.0 km start jonathan 859967
+	AJSTA1
+		Images:	1687
+		Time:	19.04.2025 07:30:16 until 19.04.2025 08:34:02
+		Duration:	01:03:46
+		Location:	NULL NULL
+
+(37) - 0.0 km Trigger Three, 859995, MSC 3
+	BTRES1
+		Images:	131
+		Time:	01.01.0001 23:00:00 until 19.04.2025 07:21:38
+		Duration:	739358.08:21:38
+		Location:	NULL NULL
+
+(38) - Impressions / Pano
+	PANO1

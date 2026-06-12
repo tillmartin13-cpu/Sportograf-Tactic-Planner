@@ -1,0 +1,104 @@
+EventId: 14624
+Spots: 15
+Total Images: 63156
+Time:	27.09.2025 09:20:17 to 27.09.2025 16:12:15
+Duration: 06:51:58
+
+(1) - Obstacle 10 Markkleeberger Horn
+	SJK1
+		Images:	2133
+		Time:	27.09.2025 10:14:54 until 27.09.2025 14:28:09
+		Duration:	04:13:15
+		Location:	51.26005 12.40575
+
+(2) - Obstacle 20 Boeses Erwachen
+	UL1
+		Images:	3668
+		Time:	27.09.2025 09:56:01 until 27.09.2025 15:19:59
+		Duration:	05:23:58
+		Location:	51.25511 12.42299
+
+(3) - Laufstrecke nach Obstacle 20 Boeses Erwachen
+	UL1LS1
+		Images:	1532
+		Time:	27.09.2025 10:23:33 until 27.09.2025 15:20:00
+		Duration:	04:56:27
+		Location:	51.25511 12.42299
+
+(4) - Laufstrecke vor Obstacle 23 Monkeybar
+	GUD1LS1
+		Images:	1597
+		Time:	27.09.2025 10:31:35 until 27.09.2025 15:29:12
+		Duration:	04:57:37
+		Location:	51.25797 12.42592
+
+	GUD1LS2
+		Images:	1614
+		Time:	27.09.2025 09:24:06 until 27.09.2025 15:29:11
+		Duration:	06:05:05
+		Location:	51.25797 12.42592
+
+(5) - Obstacle 23 Monkeybar
+	GUD1
+		Images:	10627
+		Time:	27.09.2025 10:36:19 until 27.09.2025 15:30:33
+		Duration:	04:54:14
+		Location:	51.25866 12.42594
+
+(6) - Obstacle 25 Crawl Shower
+	MIH1
+		Images:	8036
+		Time:	27.09.2025 09:20:17 until 27.09.2025 15:41:15
+		Duration:	06:20:58
+		Location:	51.25713 12.42926
+
+(7) - Laufstrecke nach Obstacle 25 Crawl Shower
+	MIH1LS1
+		Images:	2029
+		Time:	27.09.2025 10:40:22 until 27.09.2025 15:42:10
+		Duration:	05:01:48
+		Location:	51.25713 12.42926
+
+(8) - Obstacle 26 Hoellenrausch
+	RIS1
+		Images:	17794
+		Time:	27.09.2025 10:01:11 until 27.09.2025 15:42:53
+		Duration:	05:41:42
+		Location:	51.25651 12.42942
+
+(9) - Obstacle 31 Gib Gummi
+	TV1
+		Images:	4059
+		Time:	27.09.2025 10:48:58 until 27.09.2025 15:54:24
+		Duration:	05:05:26
+		Location:	51.25414 12.42307
+
+(10) - Obstacle 34 Schlammschlacht
+	TIM1
+		Images:	7366
+		Time:	27.09.2025 09:24:14 until 27.09.2025 16:10:20
+		Duration:	06:46:06
+		Location:	51.25484 12.42350
+
+(11) - Finish
+	DAR1LS1
+		Images:	592
+		Time:	27.09.2025 11:20:40 until 27.09.2025 16:10:53
+		Duration:	04:50:13
+		Location:	51.25541 12.42323
+
+(12) - Herotent
+	DAR1
+		Images:	2100
+		Time:	27.09.2025 09:33:29 until 27.09.2025 16:12:15
+		Duration:	06:38:46
+		Location:	51.25541 12.42323
+
+(13) - Impressions / Pano
+	GUD1DRONE1
+		Images:	9
+		Time:	27.09.2025 09:41:42 until 27.09.2025 09:48:44
+		Duration:	00:07:02
+		Location:	51.25541 12.42323
+
+	PANO1

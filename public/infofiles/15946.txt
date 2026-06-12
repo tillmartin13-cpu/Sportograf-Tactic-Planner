@@ -1,0 +1,66 @@
+EventId: 15946
+Spots: 9
+Total Images: 15324
+Time:	26.04.2025 19:13:30 to 27.04.2025 14:24:57
+Duration: 19:11:27
+
+(1) - 8.8 mi
+	DNAG1
+		Images:	1435
+		Time:	27.04.2025 07:38:35 until 27.04.2025 09:34:19
+		Duration:	01:55:44
+		Location:	21.57841 -158.21883
+
+	TRAM1
+		Images:	788
+		Time:	27.04.2025 07:30:48 until 27.04.2025 09:27:10
+		Duration:	01:56:22
+		Location:	21.57841 -158.21883
+
+(2) - 20.0 mi
+	EALC1
+		Images:	3346
+		Time:	27.04.2025 07:47:58 until 27.04.2025 13:25:09
+		Duration:	05:37:11
+		Location:	21.60536 -158.09825
+
+	GSOC1
+		Images:	4427
+		Time:	27.04.2025 07:11:03 until 27.04.2025 13:32:16
+		Duration:	06:21:13
+		Location:	21.60536 -158.09825
+
+(3) - 58.0 mi
+	TRAM2
+		Images:	576
+		Time:	27.04.2025 10:12:43 until 27.04.2025 13:19:53
+		Duration:	03:07:10
+		Location:	21.59355 -158.10341
+
+(4) - 62.0 mi
+	EMIL1
+		Images:	2258
+		Time:	27.04.2025 07:19:59 until 27.04.2025 13:49:00
+		Duration:	06:29:01
+		Location:	21.59225 -158.10808
+
+	TRIG1
+		Images:	397
+		Time:	27.04.2025 07:16:34 until 27.04.2025 14:23:12
+		Duration:	07:06:38
+		Location:	21.59225 -158.10808
+
+(5) - Finish
+	JWIL2
+		Images:	1975
+		Time:	26.04.2025 19:13:30 until 27.04.2025 14:24:57
+		Duration:	19:11:27
+		Location:	21.59313 -158.10805
+
+(6) - Herotent
+	DNAG2
+		Images:	122
+		Time:	27.04.2025 10:13:18 until 27.04.2025 14:14:38
+		Duration:	04:01:20
+		Location:	21.59313 -158.10805
+

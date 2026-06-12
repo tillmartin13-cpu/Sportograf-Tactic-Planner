@@ -1,0 +1,99 @@
+EventId: 13239
+Spots: 14
+Total Images: 53351
+Time:	01.01.0001 23:00:00 to 24.05.2025 18:40:30
+Duration: 739393.19:40:30
+
+(1) - Obstacle 1 Hupf in Gatsch
+	CK2
+		Images:	35
+		Time:	24.05.2025 16:30:52 until 24.05.2025 16:31:07
+		Duration:	00:00:15
+		Location:	48.30878 14.28902
+
+	ADCR1
+		Images:	5055
+		Time:	24.05.2025 13:58:20 until 24.05.2025 16:51:07
+		Duration:	02:52:47
+		Location:	48.30878 14.28902
+
+(2) - Obstacle 2 Rutschpartie
+	AW2
+		Images:	6362
+		Time:	24.05.2025 14:44:52 until 24.05.2025 16:59:25
+		Duration:	02:14:33
+		Location:	48.31009 14.28477
+
+(3) - Obstacle 17 Gelbe Welle über Bälle
+	CK1
+		Images:	571
+		Time:	24.05.2025 16:14:54 until 24.05.2025 16:27:56
+		Duration:	00:13:02
+		Location:	48.30838 14.28890
+
+(4) - Obstacle 19 Wand4Parnier
+	SB1
+		Images:	1646
+		Time:	24.05.2025 15:01:29 until 24.05.2025 18:20:17
+		Duration:	03:18:48
+		Location:	48.31103 14.29266
+
+(5) - Obstacle 20 Bagjump
+	ISM1
+		Images:	2938
+		Time:	24.05.2025 14:01:31 until 24.05.2025 18:31:17
+		Duration:	04:29:46
+		Location:	48.31134 14.29227
+
+	MIW1
+		Images:	4069
+		Time:	24.05.2025 14:57:09 until 24.05.2025 18:35:46
+		Duration:	03:38:37
+		Location:	48.31134 14.29227
+
+(6) - Obstacle 21 Monkeyland
+	KYR1
+		Images:	10058
+		Time:	24.05.2025 13:58:08 until 24.05.2025 18:33:48
+		Duration:	04:35:40
+		Location:	48.31063 14.29163
+
+(7) - 9.8 km
+	CK3
+		Images:	2285
+		Time:	24.05.2025 16:38:45 until 24.05.2025 18:26:58
+		Duration:	01:48:13
+		Location:	48.31057 14.29128
+
+	CK3LS3
+		Images:	7048
+		Time:	01.01.0001 23:00:00 until 24.05.2025 18:26:26
+		Duration:	739393.19:26:26
+		Location:	48.31057 14.29128
+
+(8) - Finish
+	CK3LS2
+		Images:	2476
+		Time:	24.05.2025 15:09:32 until 24.05.2025 18:40:30
+		Duration:	03:30:58
+		Location:	48.31039 14.29112
+
+	CK3LS1
+		Images:	5839
+		Time:	24.05.2025 15:09:24 until 24.05.2025 18:25:44
+		Duration:	03:16:20
+		Location:	48.31039 14.29112
+
+	YSE1
+		Images:	4905
+		Time:	24.05.2025 14:20:13 until 24.05.2025 18:34:23
+		Duration:	04:14:10
+		Location:	48.31039 14.29112
+
+(9) - Impressions / Pano
+	PANO1
+		Images:	64
+		Time:	24.05.2025 14:40:05 until 24.05.2025 16:35:14
+		Duration:	01:55:09
+		Location:	48.31039 14.29112
+

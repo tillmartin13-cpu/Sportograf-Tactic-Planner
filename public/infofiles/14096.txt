@@ -1,0 +1,394 @@
+EventId: 14096
+Spots: 60
+Total Images: 420323
+Time:	16.03.2025 04:52:32 to 16.03.2025 14:52:31
+Duration: 09:59:59
+
+(1) - 0.5 km Piazza Venezia
+	AHALI1
+		Images:	4600
+		Time:	16.03.2025 07:11:08 until 16.03.2025 09:46:20
+		Duration:	02:35:12
+		Location:	41.89562 12.48245
+
+	ALIG1
+		Images:	3758
+		Time:	16.03.2025 07:09:21 until 16.03.2025 08:12:09
+		Duration:	01:02:48
+		Location:	41.89537 12.48245
+
+(2) - 13.7 km Cambio Staffetta 1
+	AEO1
+		Images:	1381
+		Time:	16.03.2025 08:54:17 until 16.03.2025 10:07:02
+		Duration:	01:12:45
+		Location:	41.88579 12.47946
+
+(3) - 14,0 km Bocca della Verità
+	CALEB1
+		Images:	4764
+		Time:	16.03.2025 08:01:05 until 16.03.2025 09:26:53
+		Duration:	01:25:48
+		Location:	41.88888 12.48084
+
+	CMMI1
+		Images:	4926
+		Time:	16.03.2025 07:54:34 until 16.03.2025 10:10:23
+		Duration:	02:15:49
+		Location:	41.88888 12.48084
+
+	CMMI1LS1
+		Images:	3483
+		Time:	16.03.2025 07:34:49 until 16.03.2025 09:54:19
+		Duration:	02:19:30
+		Location:	41.88888 12.48084
+
+	CMMI1LS2
+		Images:	2554
+		Time:	16.03.2025 07:14:39 until 16.03.2025 09:58:43
+		Duration:	02:44:04
+		Location:	41.88888 12.48084
+
+(4) - 16,0 km Via della Conciliazione
+	BMDV1
+		Images:	3023
+		Time:	16.03.2025 07:38:25 until 16.03.2025 10:35:11
+		Duration:	02:56:46
+		Location:	41.90235 12.45963
+
+(5) - 16.0 km Ponte Vittorio
+	ADEC1
+		Images:	11593
+		Time:	16.03.2025 08:08:25 until 16.03.2025 10:32:13
+		Duration:	02:23:48
+		Location:	41.90152 12.46398
+
+	ARLO1
+		Images:	4797
+		Time:	16.03.2025 07:23:07 until 16.03.2025 10:32:00
+		Duration:	03:08:53
+		Location:	41.90152 12.46398
+
+(6) - 16.6 km Via della Conciliazione
+	ARAM1
+		Images:	13471
+		Time:	16.03.2025 07:25:22 until 16.03.2025 10:35:11
+		Duration:	03:09:49
+		Location:	41.90233 12.45966
+
+	ARAM1LS1
+		Images:	7500
+		Time:	16.03.2025 07:22:37 until 16.03.2025 10:35:35
+		Duration:	03:12:58
+		Location:	41.90233 12.45966
+
+(7) - 16.8 km Colonnato di San Pietro
+	AMCO1
+		Images:	16430
+		Time:	16.03.2025 08:10:16 until 16.03.2025 10:37:29
+		Duration:	02:27:13
+		Location:	41.90312 12.45805
+
+	AMMO1
+		Images:	16626
+		Time:	16.03.2025 06:24:08 until 16.03.2025 10:37:34
+		Duration:	04:13:26
+		Location:	41.90313 12.45817
+
+(8) - 18,5 km Ponte Cavour
+	BRABI1
+		Images:	8935
+		Time:	16.03.2025 07:01:58 until 16.03.2025 10:51:45
+		Duration:	03:49:47
+		Location:	41.90488 12.47456
+
+(9) - 18.0 km Piazza Cavour
+	AGIBE1
+		Images:	21055
+		Time:	16.03.2025 08:14:12 until 16.03.2025 10:29:06
+		Duration:	02:14:54
+		Location:	41.90561 12.46936
+
+	ANBE1
+		Images:	7622
+		Time:	16.03.2025 08:14:10 until 16.03.2025 10:48:01
+		Duration:	02:33:51
+		Location:	41.90561 12.46928
+
+(10) - 18.5 km Ponte Cavour
+	ABRP1
+		Images:	5618
+		Time:	16.03.2025 08:12:46 until 16.03.2025 10:41:25
+		Duration:	02:28:39
+		Location:	41.90485 12.47451
+
+(11) - 21.0 km Cambio Staffetta 2
+	AMIPA1
+		Images:	1485
+		Time:	16.03.2025 06:37:03 until 16.03.2025 11:19:40
+		Duration:	04:42:37
+		Location:	41.91084 12.46393
+
+(12) - 24,0 km Piazza Mazzini
+	BGAT1
+		Images:	8100
+		Time:	16.03.2025 07:08:54 until 16.03.2025 11:46:05
+		Duration:	04:37:11
+		Location:	41.91642 12.46312
+
+(13) - 24.0 km Piazza Mazzini
+	APINO1
+		Images:	6969
+		Time:	16.03.2025 08:30:42 until 16.03.2025 11:46:01
+		Duration:	03:15:19
+		Location:	41.91638 12.46308
+
+(14) - 27,0 km Ponte della Musica
+	BANM1
+		Images:	14441
+		Time:	16.03.2025 08:40:32 until 16.03.2025 12:05:58
+		Duration:	03:25:26
+		Location:	41.92618 12.45831
+
+(15) - 28,0 km Stadio dei Marmi
+	BCSI1
+		Images:	10074
+		Time:	16.03.2025 07:19:27 until 16.03.2025 12:07:38
+		Duration:	04:48:11
+		Location:	41.93521 12.45689
+
+	BCSI1LS1
+		Images:	3768
+		Time:	16.03.2025 08:50:19 until 16.03.2025 11:56:58
+		Duration:	03:06:39
+		Location:	41.93521 12.45689
+
+	CRSP1
+		Images:	12125
+		Time:	16.03.2025 08:44:23 until 16.03.2025 12:00:39
+		Duration:	03:16:16
+		Location:	41.93513 12.45455
+
+(16) - 3,5 km Piramide
+	BLOM1
+		Images:	2420
+		Time:	16.03.2025 07:29:38 until 16.03.2025 08:32:37
+		Duration:	01:02:59
+		Location:	41.87639 12.48263
+
+	BMAC1
+		Images:	2394
+		Time:	16.03.2025 06:57:23 until 16.03.2025 08:33:27
+		Duration:	01:36:04
+		Location:	41.87639 12.48263
+
+(17) - 31,0 km Cambio Staffetta 3
+	CCMA1
+		Images:	1630
+		Time:	16.03.2025 09:59:21 until 16.03.2025 12:22:30
+		Duration:	02:23:09
+		Location:	41.93179 12.46945
+
+(18) - 37,0 km Piazza del Popolo
+	CAMU1
+		Images:	7593
+		Time:	16.03.2025 07:36:12 until 16.03.2025 13:42:31
+		Duration:	06:06:19
+		Location:	41.91102 12.47614
+
+	CAMU1LS1
+		Images:	2873
+		Time:	16.03.2025 07:44:20 until 16.03.2025 13:44:11
+		Duration:	05:59:51
+		Location:	41.91102 12.47614
+
+	CNBI1
+		Images:	14556
+		Time:	16.03.2025 09:11:49 until 16.03.2025 13:44:37
+		Duration:	04:32:48
+		Location:	41.91102 12.47614
+
+	CONG1
+		Images:	7765
+		Time:	16.03.2025 08:03:51 until 16.03.2025 13:40:40
+		Duration:	05:36:49
+		Location:	41.91102 12.47614
+
+(19) - 37,8 km Piazza di Spagna
+	BDCC1
+		Images:	9604
+		Time:	16.03.2025 07:46:04 until 16.03.2025 13:51:53
+		Duration:	06:05:49
+		Location:	41.90489 12.48302
+
+	BLOM2
+		Images:	8069
+		Time:	16.03.2025 09:28:24 until 16.03.2025 13:50:49
+		Duration:	04:22:25
+		Location:	41.90532 12.48254
+
+	BMAC2
+		Images:	5712
+		Time:	16.03.2025 09:28:18 until 16.03.2025 13:51:12
+		Duration:	04:22:54
+		Location:	41.90532 12.48254
+
+(20) - 38,8 km Via del Corso
+	CCVG1
+		Images:	7918
+		Time:	16.03.2025 08:54:49 until 16.03.2025 14:02:53
+		Duration:	05:08:04
+		Location:	41.90417 12.47910
+
+(21) - 39,0 km Via del Corso
+	CCECK1
+		Images:	12124
+		Time:	16.03.2025 08:24:41 until 16.03.2025 14:02:49
+		Duration:	05:38:08
+		Location:	41.90446 12.47854
+
+(22) - 39,8 km Piazza Navona
+	CDART1
+		Images:	26607
+		Time:	16.03.2025 10:30:06 until 16.03.2025 14:13:35
+		Duration:	03:43:29
+		Location:	41.89853 12.47279
+
+	CRLLA1
+		Images:	16206
+		Time:	16.03.2025 08:30:58 until 16.03.2025 14:14:41
+		Duration:	05:43:43
+		Location:	41.89853 12.47279
+
+(23) - 41,5 km Tempio di Ercole
+	CALEB2
+		Images:	10113
+		Time:	16.03.2025 09:35:58 until 16.03.2025 14:36:47
+		Duration:	05:00:49
+		Location:	41.88826 12.48141
+
+	CMMI2
+		Images:	7120
+		Time:	16.03.2025 10:17:35 until 16.03.2025 14:36:10
+		Duration:	04:18:35
+		Location:	41.88826 12.48141
+
+	CMMI2LS1
+		Images:	4887
+		Time:	16.03.2025 10:16:15 until 16.03.2025 14:36:19
+		Duration:	04:20:04
+		Location:	41.88826 12.48141
+
+(24) - 6.0 km Ponte Spizzichino
+	AEB1
+		Images:	6690
+		Time:	16.03.2025 07:08:51 until 16.03.2025 09:02:00
+		Duration:	01:53:09
+		Location:	41.86742 12.48225
+
+	AEB1LS1
+		Images:	4299
+		Time:	16.03.2025 06:35:18 until 16.03.2025 08:59:22
+		Duration:	02:24:04
+		Location:	41.86742 12.48225
+
+	AMAPA1
+		Images:	7905
+		Time:	16.03.2025 06:41:48 until 16.03.2025 08:59:07
+		Duration:	02:17:19
+		Location:	41.86742 12.48225
+
+(25) - Finish
+	AADO2
+		Images:	3502
+		Time:	16.03.2025 09:27:58 until 16.03.2025 14:02:24
+		Duration:	04:34:26
+		Location:	41.88673 12.48389
+
+	AFBO2
+		Images:	7872
+		Time:	16.03.2025 09:20:15 until 16.03.2025 14:39:59
+		Duration:	05:19:44
+		Location:	41.88673 12.48389
+
+	AFMA2
+		Images:	8459
+		Time:	16.03.2025 09:25:27 until 16.03.2025 14:02:20
+		Duration:	04:36:53
+		Location:	41.88673 12.48389
+
+	AFOS2
+		Images:	8903
+		Time:	16.03.2025 09:08:36 until 16.03.2025 14:41:57
+		Duration:	05:33:21
+		Location:	41.88673 12.48389
+
+(26) - Impressions / Pano
+	AEM1
+		Images:	463
+		Time:	16.03.2025 04:52:32 until 16.03.2025 11:41:18
+		Duration:	06:48:46
+		Location:	NULL NULL
+
+(27) - Medals
+	AEB2
+		Images:	3075
+		Time:	16.03.2025 11:22:56 until 16.03.2025 12:53:50
+		Duration:	01:30:54
+		Location:	41.88672 12.48453
+
+	AGIBE2
+		Images:	914
+		Time:	16.03.2025 12:44:27 until 16.03.2025 13:57:55
+		Duration:	01:13:28
+		Location:	41.88672 12.48453
+
+	AHALI2
+		Images:	4958
+		Time:	16.03.2025 09:56:02 until 16.03.2025 14:52:31
+		Duration:	04:56:29
+		Location:	41.88672 12.48453
+
+	ALIG2
+		Images:	3347
+		Time:	16.03.2025 09:55:58 until 16.03.2025 14:23:30
+		Duration:	04:27:32
+		Location:	41.88672 12.48453
+
+	AMAPA2
+		Images:	4415
+		Time:	16.03.2025 10:01:12 until 16.03.2025 14:41:39
+		Duration:	04:40:27
+		Location:	41.88672 12.48453
+
+	BNBE1
+		Images:	205
+		Time:	16.03.2025 12:52:46 until 16.03.2025 14:17:39
+		Duration:	01:24:53
+		Location:	41.88672 12.48453
+
+(28) - Start
+	AADO1
+		Images:	1508
+		Time:	16.03.2025 06:35:57 until 16.03.2025 08:08:00
+		Duration:	01:32:03
+		Location:	41.89263 12.48830
+
+	AFBO1
+		Images:	2209
+		Time:	16.03.2025 06:34:21 until 16.03.2025 08:08:01
+		Duration:	01:33:40
+		Location:	41.89263 12.48824
+
+	AFMA1
+		Images:	3289
+		Time:	16.03.2025 06:37:26 until 16.03.2025 08:10:06
+		Duration:	01:32:40
+		Location:	41.89258 12.48835
+
+	AFOS1
+		Images:	1621
+		Time:	16.03.2025 06:31:50 until 16.03.2025 08:07:56
+		Duration:	01:36:06
+		Location:	41.89272 12.48804
+

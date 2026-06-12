@@ -1,0 +1,354 @@
+EventId: 13973
+Spots: 54
+Total Images: 909676
+Time:	01.01.0001 23:00:00 to 20.09.2025 19:06:14
+Duration: 739512.20:06:14
+
+(1) - 0,3 km
+	CEAH1
+		Images:	1482
+		Time:	20.09.2025 13:07:36 until 20.09.2025 16:50:05
+		Duration:	03:42:29
+		Location:	59.91317 10.72705
+
+(2) - 0,5 km
+	CPOK1
+		Images:	6002
+		Time:	20.09.2025 13:31:49 until 20.09.2025 16:53:20
+		Duration:	03:21:31
+		Location:	59.91318 10.72351
+
+(3) - 1,0 km
+	CADCR1
+		Images:	11270
+		Time:	20.09.2025 09:02:58 until 20.09.2025 14:14:42
+		Duration:	05:11:44
+		Location:	59.91190 10.71925
+
+(4) - 1,2 km
+	BIVAH1
+		Images:	10999
+		Time:	20.09.2025 09:03:25 until 20.09.2025 14:16:04
+		Duration:	05:12:39
+		Location:	59.91184 10.71689
+
+	BIVAH1LS1
+		Images:	818
+		Time:	20.09.2025 08:51:09 until 20.09.2025 13:39:09
+		Duration:	04:48:00
+		Location:	59.91184 10.71689
+
+	BIVAH1LS2
+		Images:	4844
+		Time:	20.09.2025 08:29:05 until 20.09.2025 14:17:52
+		Duration:	05:48:47
+		Location:	59.91184 10.71689
+
+(5) - 11,5 km (4,6 km 10K)
+	BKYR1
+		Images:	57590
+		Time:	20.09.2025 08:59:32 until 20.09.2025 17:59:44
+		Duration:	09:00:12
+		Location:	59.91006 10.70909
+
+	BPEKL1
+		Images:	32057
+		Time:	20.09.2025 07:57:47 until 20.09.2025 18:00:53
+		Duration:	10:03:06
+		Location:	59.91006 10.70909
+
+(6) - 12,4 km (5,5 km 10K)
+	BKPR1
+		Images:	28292
+		Time:	19.09.2025 22:57:36 until 20.09.2025 18:32:11
+		Duration:	19:34:35
+		Location:	59.90867 10.72495
+
+	BSIL1
+		Images:	29826
+		Time:	20.09.2025 08:16:48 until 20.09.2025 18:04:10
+		Duration:	09:47:22
+		Location:	59.90867 10.72495
+
+	BSIL1LS1
+		Images:	20671
+		Time:	20.09.2025 09:01:38 until 20.09.2025 18:07:04
+		Duration:	09:05:26
+		Location:	59.90867 10.72495
+
+	BSIL1LS2
+		Images:	8221
+		Time:	20.09.2025 08:41:31 until 20.09.2025 15:37:49
+		Duration:	06:56:18
+		Location:	59.90867 10.72495
+
+(7) - 13,0 km (Marathon & 8,1 km 10K)
+	CDRU1
+		Images:	14386
+		Time:	20.09.2025 08:24:27 until 20.09.2025 18:10:12
+		Duration:	09:45:45
+		Location:	59.91096 10.73233
+
+	CDTES1
+		Images:	25969
+		Time:	20.09.2025 09:13:24 until 20.09.2025 18:10:10
+		Duration:	08:56:46
+		Location:	59.91096 10.73233
+
+(8) - 14,0 km (7,1 km 10K)
+	BDPH1
+		Images:	28809
+		Time:	20.09.2025 08:10:31 until 20.09.2025 18:12:01
+		Duration:	10:01:30
+		Location:	59.90520 10.73733
+
+	BEH1
+		Images:	48565
+		Time:	19.09.2025 21:24:12 until 20.09.2025 18:18:43
+		Duration:	20:54:31
+		Location:	59.90520 10.73733
+
+	BEH1LS1
+		Images:	19723
+		Time:	20.09.2025 08:49:20 until 20.09.2025 16:17:52
+		Duration:	07:28:32
+		Location:	59.90520 10.73733
+
+	BEH1LS2
+		Images:	19035
+		Time:	20.09.2025 09:09:48 until 20.09.2025 16:20:09
+		Duration:	07:10:21
+		Location:	59.90520 10.73733
+
+(9) - 17.5 km (Marathon & 21.1K)
+	AMAKO1
+		Images:	15212
+		Time:	20.09.2025 09:53:12 until 20.09.2025 16:59:02
+		Duration:	07:05:50
+		Location:	59.92475 10.73450
+
+(10) - 19.8 km (Marathon & 21.1K)
+	AEKA1
+		Images:	14784
+		Time:	20.09.2025 10:13:43 until 20.09.2025 17:20:32
+		Duration:	07:06:49
+		Location:	59.91382 10.73869
+
+(11) - 2,6 km
+	BISM1
+		Images:	10533
+		Time:	20.09.2025 09:02:27 until 20.09.2025 17:14:42
+		Duration:	08:12:15
+		Location:	59.91759 10.69798
+
+	BISM1LS1
+		Images:	15357
+		Time:	20.09.2025 08:34:30 until 20.09.2025 17:09:23
+		Duration:	08:34:53
+		Location:	59.91759 10.69798
+
+(12) - 20,9 km (9,9 km 10K)
+	BFMM1
+		Images:	42010
+		Time:	19.09.2025 18:25:19 until 20.09.2025 18:28:37
+		Duration:	1.00:03:18
+		Location:	59.91148 10.73707
+
+(13) - 20.0 km (Marathon & 21.1K)
+	AET1
+		Images:	9065
+		Time:	20.09.2025 10:03:28 until 20.09.2025 17:22:41
+		Duration:	07:19:13
+		Location:	59.91218 10.74018
+
+(14) - 3,3 km (Marathon & 21,1K)
+	BAGM1
+		Images:	4944
+		Time:	20.09.2025 09:35:53 until 20.09.2025 14:47:04
+		Duration:	05:11:11
+		Location:	59.92245 10.69688
+
+	BEGA1
+		Images:	40246
+		Time:	20.09.2025 09:35:23 until 20.09.2025 14:38:29
+		Duration:	05:03:06
+		Location:	59.92245 10.69688
+
+(15) - 4,0 km (Marathon & 21,1K)
+	BJLA1
+		Images:	17061
+		Time:	20.09.2025 09:10:18 until 20.09.2025 14:42:40
+		Duration:	05:32:22
+		Location:	59.92463 10.70812
+
+	BRKO1
+		Images:	17833
+		Time:	20.09.2025 10:37:22 until 20.09.2025 15:42:04
+		Duration:	05:04:42
+		Location:	59.92463 10.70812
+
+	BRKO1LS1
+		Images:	2974
+		Time:	20.09.2025 13:49:15 until 20.09.2025 14:41:31
+		Duration:	00:52:16
+		Location:	59.92463 10.70812
+
+(16) - 6,3 km (Marathon & 21,1K)
+	BBIL1
+		Images:	11163
+		Time:	20.09.2025 09:24:07 until 20.09.2025 15:06:54
+		Duration:	05:42:47
+		Location:	59.92855 10.69493
+
+	BSHNI1
+		Images:	53280
+		Time:	01.01.0001 23:00:00 until 20.09.2025 15:06:19
+		Duration:	739512.16:06:19
+		Location:	59.92855 10.69493
+
+(17) - 6,8 km (Marathon & 21,1K)
+	CFJO1
+		Images:	22050
+		Time:	20.09.2025 09:23:24 until 20.09.2025 15:06:15
+		Duration:	05:42:51
+		Location:	59.92803 10.69534
+
+	CJEJ1
+		Images:	20721
+		Time:	20.09.2025 08:23:13 until 20.09.2025 15:08:19
+		Duration:	06:45:06
+		Location:	59.92803 10.69534
+
+(18) - 7,0 km (Marathon & 21,1K)
+	CSMEE1
+		Images:	14699
+		Time:	20.09.2025 08:51:31 until 20.09.2025 15:10:47
+		Duration:	06:19:16
+		Location:	59.92494 10.69775
+
+(19) - Drone
+	ASTL1DRONE1
+		Images:	44
+		Time:	20.09.2025 06:26:06 until 20.09.2025 09:20:49
+		Duration:	02:54:43
+		Location:	59.91182 10.72590
+
+(20) - Finish
+	BASTU1
+		Images:	21456
+		Time:	20.09.2025 08:47:13 until 20.09.2025 18:29:23
+		Duration:	09:42:10
+		Location:	59.91120 10.72412
+
+	BDSH1
+		Images:	14715
+		Time:	20.09.2025 09:28:45 until 20.09.2025 18:35:57
+		Duration:	09:07:12
+		Location:	59.91120 10.72412
+
+	BIMOG1
+		Images:	10404
+		Time:	20.09.2025 09:02:04 until 20.09.2025 18:35:15
+		Duration:	09:33:11
+		Location:	59.91120 10.72412
+
+	BIVAH2
+		Images:	11200
+		Time:	20.09.2025 14:56:00 until 20.09.2025 18:25:56
+		Duration:	03:29:56
+		Location:	59.91120 10.72412
+
+	BLOMA1
+		Images:	42242
+		Time:	20.09.2025 09:25:28 until 20.09.2025 18:31:06
+		Duration:	09:05:38
+		Location:	59.91120 10.72412
+
+	BLOMA1LS1
+		Images:	23322
+		Time:	20.09.2025 11:49:15 until 20.09.2025 18:24:27
+		Duration:	06:35:12
+		Location:	59.91120 10.72412
+
+	BLOMA1LS2
+		Images:	15310
+		Time:	19.09.2025 21:32:03 until 20.09.2025 18:24:10
+		Duration:	20:52:07
+		Location:	59.91120 10.72412
+
+(21) - Medals
+	CADCR2
+		Images:	7550
+		Time:	20.09.2025 14:49:51 until 20.09.2025 18:16:48
+		Duration:	03:26:57
+		Location:	59.91150 10.72280
+
+	CBEG1
+		Images:	2433
+		Time:	20.09.2025 14:09:48 until 20.09.2025 17:53:08
+		Duration:	03:43:20
+		Location:	59.91150 10.72280
+
+	CDANK1
+		Images:	1155
+		Time:	20.09.2025 09:30:25 until 20.09.2025 17:56:59
+		Duration:	08:26:34
+		Location:	59.91150 10.72280
+
+	CEVJ1
+		Images:	12307
+		Time:	20.09.2025 09:26:44 until 20.09.2025 18:36:50
+		Duration:	09:10:06
+		Location:	59.91150 10.72280
+
+	CWKA1
+		Images:	9413
+		Time:	20.09.2025 09:21:57 until 20.09.2025 18:36:50
+		Duration:	09:14:53
+		Location:	59.91150 10.72280
+
+(22) - Pre-Finish
+	BKHW1
+		Images:	30412
+		Time:	20.09.2025 08:57:49 until 20.09.2025 19:06:14
+		Duration:	10:08:25
+		Location:	59.91129 10.73458
+
+	BKHW1LS1
+		Images:	25812
+		Time:	20.09.2025 09:22:50 until 20.09.2025 18:16:01
+		Duration:	08:53:11
+		Location:	59.91129 10.73458
+
+(23) - Pre-Start
+	ABEG1
+		Images:	472
+		Time:	20.09.2025 08:41:06 until 20.09.2025 14:04:06
+		Duration:	05:23:00
+		Location:	59.91187 10.73622
+
+	AEAH1
+		Images:	152
+		Time:	20.09.2025 08:26:54 until 20.09.2025 10:08:01
+		Duration:	01:41:07
+		Location:	59.91187 10.73622
+
+	APOK1
+		Images:	453
+		Time:	20.09.2025 08:31:55 until 20.09.2025 11:39:31
+		Duration:	03:07:36
+		Location:	59.91187 10.73622
+
+	AVL1
+		Images:	36
+		Time:	20.09.2025 08:43:47 until 20.09.2025 08:57:06
+		Duration:	00:13:19
+		Location:	59.91187 10.73622
+
+(24) - Start
+	AVL2
+		Images:	297
+		Time:	20.09.2025 08:58:49 until 20.09.2025 09:35:31
+		Duration:	00:36:42
+		Location:	59.91182 10.72590
+

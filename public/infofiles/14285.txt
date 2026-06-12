@@ -1,0 +1,105 @@
+EventId: 14285
+Spots: 15
+Total Images: 133092
+Time:	31.12.2015 18:00:00 to 04.05.2025 08:33:56
+Duration: 3411.14:33:56
+
+(1) - Obstacle 23 Bucket Carry
+	KAH1
+		Images:	7909
+		Time:	02.05.2025 23:23:37 until 04.05.2025 08:24:03
+		Duration:	1.09:00:26
+		Location:	35.20130 -78.94269
+
+	VICY2
+		Images:	475
+		Time:	03.05.2025 11:01:41 until 03.05.2025 15:50:46
+		Duration:	04:49:05
+		Location:	35.20130 -78.94269
+
+(2) - Swamp
+	MCKR1
+		Images:	9366
+		Time:	03.05.2025 08:40:28 until 04.05.2025 08:05:23
+		Duration:	23:24:55
+		Location:	35.20280 -78.93811
+
+(3) - Obstacle 26 Dunk Wall
+	TRC1
+		Images:	13747
+		Time:	02.05.2025 19:24:55 until 04.05.2025 08:24:42
+		Duration:	1.12:59:47
+		Location:	35.20513 -78.93252
+
+	VICY3
+		Images:	190
+		Time:	03.05.2025 16:08:57 until 03.05.2025 16:16:49
+		Duration:	00:07:52
+		Location:	35.20513 -78.93252
+
+(4) - Obstacle 27 Slip Wall
+	DAHI1
+		Images:	8829
+		Time:	03.05.2025 08:46:03 until 04.05.2025 08:07:54
+		Duration:	23:21:51
+		Location:	35.20505 -78.93269
+
+	VICY5
+		Images:	142
+		Time:	03.05.2025 11:43:41 until 03.05.2025 11:47:43
+		Duration:	00:04:02
+		Location:	35.20505 -78.93269
+
+(5) - Obstacle 31 Multi-Rig
+	BESC1
+		Images:	16707
+		Time:	31.12.2015 18:00:00 until 03.05.2025 20:05:43
+		Duration:	3411.02:05:43
+		Location:	35.20475 -78.93052
+
+	TFUL1
+		Images:	11591
+		Time:	03.05.2025 08:57:13 until 04.05.2025 08:11:13
+		Duration:	23:14:00
+		Location:	35.20475 -78.93052
+
+(6) - Obstacle 33 Craft A-Frame Cargo
+	MSK1
+		Images:	7532
+		Time:	03.05.2025 08:40:43 until 03.05.2025 20:11:56
+		Duration:	11:31:13
+		Location:	35.20469 -78.93075
+
+	VICY1
+		Images:	597
+		Time:	03.05.2025 11:53:29 until 03.05.2025 17:16:20
+		Duration:	05:22:51
+		Location:	35.20469 -78.93075
+
+(7) - Obstacle 34 Fire Jump
+	DBCH1
+		Images:	53279
+		Time:	03.05.2025 08:53:42 until 04.05.2025 08:03:12
+		Duration:	23:09:30
+		Location:	35.21042 -78.93332
+
+	VICY4
+		Images:	429
+		Time:	03.05.2025 12:12:32 until 03.05.2025 17:02:24
+		Duration:	04:49:52
+		Location:	35.21042 -78.93332
+
+(8) - Herotent
+	JEFL1
+		Images:	2002
+		Time:	03.05.2025 08:16:34 until 03.05.2025 20:16:48
+		Duration:	12:00:14
+		Location:	35.20552 -78.93136
+
+(9) - Venue
+	VICY6
+		Images:	297
+		Time:	03.05.2025 08:38:26 until 04.05.2025 08:33:56
+		Duration:	23:55:30
+		Location:	35.20505 -78.93269
+

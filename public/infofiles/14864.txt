@@ -1,0 +1,105 @@
+EventId: 14864
+Spots: 15
+Total Images: 43615
+Time:	28.09.2024 07:22:10 to 31.05.2025 19:36:41
+Duration: 245.12:14:31
+
+(1) - Impressions / Pano
+	JLTG2
+		Images:	22
+		Time:	28.09.2024 19:48:24 until 31.05.2025 08:01:50
+		Duration:	244.12:13:26
+		Location:	42.50555 1.52252
+
+	MANR2
+		Images:	75
+		Time:	31.05.2025 08:45:51 until 31.05.2025 08:59:06
+		Duration:	00:13:15
+		Location:	42.50555 1.52252
+
+	JGM2
+		Images:	61
+		Time:	31.05.2025 18:25:37 until 31.05.2025 18:28:00
+		Duration:	00:02:23
+		Location:	42.50555 1.52252
+
+(2) - 2 REMO
+	JLTG1
+		Images:	4903
+		Time:	28.09.2024 07:59:59 until 31.05.2025 17:24:30
+		Duration:	245.09:24:31
+		Location:	42.50555 1.52252
+
+	AFGA2
+		Images:	409
+		Time:	31.05.2025 18:39:18 until 31.05.2025 19:01:44
+		Duration:	00:22:26
+		Location:	42.50555 1.52252
+
+(3) - 3 CAJON
+	MANR1
+		Images:	8404
+		Time:	31.05.2025 09:11:02 until 31.05.2025 17:27:34
+		Duration:	08:16:32
+		Location:	42.50555 1.52252
+
+	JGM3
+		Images:	578
+		Time:	31.05.2025 18:42:01 until 31.05.2025 19:11:54
+		Duration:	00:29:53
+		Location:	42.50555 1.52252
+
+(4) - 4 ABDOMINALES CON BALON
+	JGM1
+		Images:	8353
+		Time:	31.05.2025 08:45:08 until 31.05.2025 18:08:04
+		Duration:	09:22:56
+		Location:	42.50555 1.52252
+
+(5) - 5 SKIERG
+	DARO1
+		Images:	7142
+		Time:	31.05.2025 09:17:11 until 31.05.2025 19:10:23
+		Duration:	09:53:12
+		Location:	42.50555 1.52252
+
+(6) - 7 AIR BIKE
+	TGM1
+		Images:	3464
+		Time:	31.05.2025 09:04:11 until 31.05.2025 19:17:24
+		Duration:	10:13:13
+		Location:	42.50555 1.52252
+
+(7) - 6 PASEO DEL GRANJERO
+	TGM1LS2
+		Images:	1865
+		Time:	31.05.2025 09:21:47 until 31.05.2025 19:20:57
+		Duration:	09:59:10
+		Location:	42.50555 1.52252
+
+	TGM1LS1
+		Images:	534
+		Time:	31.05.2025 08:34:18 until 31.05.2025 19:19:57
+		Duration:	10:45:39
+		Location:	42.50555 1.52252
+
+(8) - 9 TRINEO
+	AFGA1
+		Images:	6036
+		Time:	31.05.2025 09:13:19 until 31.05.2025 19:27:33
+		Duration:	10:14:14
+		Location:	42.50555 1.52252
+
+(9) - Finish
+	AFGA1LS1
+		Images:	838
+		Time:	31.05.2025 07:53:29 until 31.05.2025 18:37:05
+		Duration:	10:43:36
+		Location:	42.50555 1.52252
+
+	DARO1LS1
+		Images:	906
+		Time:	31.05.2025 09:00:47 until 31.05.2025 19:36:41
+		Duration:	10:35:54
+		Location:	42.50555 1.52252
+

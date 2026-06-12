@@ -1,0 +1,120 @@
+EventId: 14536
+Spots: 17
+Total Images: 78888
+Time:	13.07.2025 06:14:16 to 13.07.2025 17:51:45
+Duration: 11:37:29
+
+(1) - 10K Trail Run
+	MIGO1
+		Images:	270
+		Time:	13.07.2025 07:10:38 until 13.07.2025 09:49:56
+		Duration:	02:39:18
+		Location:	41.21101 -111.85582
+
+	MIGO1LS1
+		Images:	1982
+		Time:	13.07.2025 07:44:43 until 13.07.2025 09:43:17
+		Duration:	01:58:34
+		Location:	41.21101 -111.85582
+
+	JANH1
+		Images:	1197
+		Time:	13.07.2025 07:32:03 until 13.07.2025 10:51:36
+		Duration:	03:19:33
+		Location:	41.21059 -111.85974
+
+	JOD1
+		Images:	763
+		Time:	13.07.2025 07:56:27 until 13.07.2025 09:07:40
+		Duration:	01:11:13
+		Location:	41.21315 -111.85852
+
+(2) - Obstacle 1 Overwalls
+	JANH2
+		Images:	2253
+		Time:	13.07.2025 10:35:38 until 13.07.2025 14:45:20
+		Duration:	04:09:42
+		Location:	41.21182 -111.85398
+
+	MIGO2
+		Images:	2202
+		Time:	13.07.2025 10:33:16 until 13.07.2025 14:45:21
+		Duration:	04:12:05
+		Location:	41.21182 -111.85398
+
+(3) - Obstacle 17 Sandbag Carry
+	JGAB1
+		Images:	14677
+		Time:	13.07.2025 07:03:47 until 13.07.2025 16:26:15
+		Duration:	09:22:28
+		Location:	41.20759 -111.85430
+
+(4) - Obstacle 18 Multi-Rig
+	THAT1
+		Images:	5995
+		Time:	13.07.2025 08:02:32 until 13.07.2025 16:46:32
+		Duration:	08:44:00
+		Location:	41.21472 -111.85687
+
+	NIMA1
+		Images:	5546
+		Time:	13.07.2025 07:40:47 until 13.07.2025 16:20:32
+		Duration:	08:39:45
+		Location:	41.21472 -111.85687
+
+(5) - Obstacle 19 Barbed Wire Crawl
+	ROOT1
+		Images:	6014
+		Time:	13.07.2025 06:14:16 until 13.07.2025 17:08:10
+		Duration:	10:53:54
+		Location:	41.21466 -111.85762
+
+(6) - Obstacle 20 Bucket Carry
+	JST1
+		Images:	5737
+		Time:	13.07.2025 08:13:14 until 13.07.2025 16:55:04
+		Duration:	08:41:50
+		Location:	41.21525 -111.86029
+
+(7) - Obstacle 25 Dunk Wall
+	DDC1
+		Images:	11664
+		Time:	13.07.2025 08:16:24 until 13.07.2025 17:29:42
+		Duration:	09:13:18
+		Location:	41.21651 -111.86117
+
+(8) - Obstacle 28 Hurdles
+	LLCA1
+		Images:	8256
+		Time:	13.07.2025 08:22:16 until 13.07.2025 17:46:21
+		Duration:	09:24:05
+		Location:	41.21557 -111.85778
+
+(9) - Obstacle 29 Slip Wall
+	SCTH1
+		Images:	9414
+		Time:	13.07.2025 07:34:51 until 13.07.2025 17:43:18
+		Duration:	10:08:27
+		Location:	41.21487 -111.85766
+
+(10) - Herotent
+	SAMT1
+		Images:	2784
+		Time:	13.07.2025 06:51:09 until 13.07.2025 17:51:45
+		Duration:	11:00:36
+		Location:	41.21491 -111.85704
+
+(11) - Festival Area
+	JOD2
+		Images:	84
+		Time:	13.07.2025 11:18:26 until 13.07.2025 13:02:16
+		Duration:	01:43:50
+		Location:	41.21491 -111.85704
+
+(12) - Drone
+	THAT1DRONE1
+		Images:	50
+		Time:	13.07.2025 09:24:00 until 13.07.2025 16:59:01
+		Duration:	07:35:01
+		Location:	41.21491 -111.85704
+

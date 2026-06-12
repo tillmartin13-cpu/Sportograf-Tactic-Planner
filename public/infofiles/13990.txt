@@ -1,0 +1,109 @@
+EventId: 13990
+Spots: 16
+Total Images: 108082
+Time:	09.05.2025 17:45:30 to 10.05.2025 14:54:28
+Duration: 21:08:58
+
+(1) - #2- JERRY CAN CARRY
+	JETR1
+		Images:	8980
+		Time:	09.05.2025 17:45:30 until 10.05.2025 01:19:46
+		Duration:	07:34:16
+		Location:	27.97493 -82.50449
+
+(2) - #6- ROPE CLIMB
+	JSTK1
+		Images:	2253
+		Time:	10.05.2025 06:28:22 until 10.05.2025 13:37:21
+		Duration:	07:08:59
+		Location:	27.97579 -82.50353
+
+(3) - #7- BARBED WIRE CRAWL
+	ORGA1
+		Images:	8747
+		Time:	10.05.2025 06:37:16 until 10.05.2025 13:52:20
+		Duration:	07:15:04
+		Location:	27.97600 -82.50286
+
+(4) - #9- SLAM BALLS
+	BMY1
+		Images:	5993
+		Time:	09.05.2025 22:26:42 until 10.05.2025 13:44:14
+		Duration:	15:17:32
+		Location:	27.97617 -82.50394
+
+	RASC1
+		Images:	6078
+		Time:	09.05.2025 22:18:28 until 10.05.2025 13:44:42
+		Duration:	15:26:14
+		Location:	27.97617 -82.50394
+
+(5) - 10- MONKEY BARS
+	DAGA1
+		Images:	12598
+		Time:	10.05.2025 06:41:40 until 10.05.2025 14:14:31
+		Duration:	07:32:51
+		Location:	27.97610 -82.50248
+
+(6) - #13-SANDBAGS CARRY
+	MAO1
+		Images:	11258
+		Time:	10.05.2025 06:44:30 until 10.05.2025 14:16:07
+		Duration:	07:31:37
+		Location:	27.97645 -82.50241
+
+(7) - #17- MULTY-RIG
+	GMAL1
+		Images:	1578
+		Time:	10.05.2025 05:39:37 until 10.05.2025 07:34:53
+		Duration:	01:55:16
+		Location:	27.97471 -82.50266
+
+	JACL1
+		Images:	10287
+		Time:	09.05.2025 19:36:16 until 10.05.2025 14:40:47
+		Duration:	19:04:31
+		Location:	27.97471 -82.50266
+
+(8) - #20- ZWALLS
+	FC1
+		Images:	2952
+		Time:	10.05.2025 06:56:36 until 10.05.2025 14:48:38
+		Duration:	07:52:02
+		Location:	27.97635 -82.50322
+
+(9) - #22- A-FRAME CARGO
+	JHRO1
+		Images:	17269
+		Time:	10.05.2025 06:50:58 until 10.05.2025 14:53:15
+		Duration:	08:02:17
+		Location:	27.97574 82.50339
+
+(10) - #23 GAUNTRET
+	JOVI1
+		Images:	15937
+		Time:	10.05.2025 06:19:07 until 10.05.2025 14:54:28
+		Duration:	08:35:21
+		Location:	27.97575 -82.50335
+
+(11) - Herotent
+	GMAL2
+		Images:	3846
+		Time:	10.05.2025 07:38:32 until 10.05.2025 13:43:33
+		Duration:	06:05:01
+		Location:	27.97575 -82.50335
+
+	SICA2
+		Images:	45
+		Time:	10.05.2025 08:35:44 until 10.05.2025 08:40:11
+		Duration:	00:04:27
+		Location:	27.97575 -82.50335
+
+(12) - Impressions / Pano
+	SICA1
+		Images:	261
+		Time:	10.05.2025 08:26:18 until 10.05.2025 11:22:52
+		Duration:	02:56:34
+		Location:	27.97575 -82.50335
+
+	PANO1

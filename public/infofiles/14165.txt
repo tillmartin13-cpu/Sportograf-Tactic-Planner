@@ -1,0 +1,140 @@
+EventId: 14165
+Spots: 21
+Total Images: 58115
+Time:	21.06.2025 06:32:41 to 22.06.2025 10:18:56
+Duration: 1.03:46:15
+
+(1) - Km 0.4 of Coastal loop & 100K
+	PARO1
+		Images:	1277
+		Time:	21.06.2025 06:34:10 until 21.06.2025 07:47:01
+		Duration:	01:12:51
+		Location:	50.90515 -0.77371
+
+	PARO1LS1
+		Images:	616
+		Time:	21.06.2025 06:32:41 until 21.06.2025 07:58:00
+		Duration:	01:25:19
+		Location:	50.90515 -0.77371
+
+	PARO1LS2
+		Images:	643
+		Time:	21.06.2025 06:32:47 until 21.06.2025 07:48:03
+		Duration:	01:15:16
+		Location:	50.90515 -0.77371
+
+(2) - Km 1.7 of Coastal loop & 100K
+	WIC1
+		Images:	5905
+		Time:	21.06.2025 06:38:26 until 21.06.2025 07:58:29
+		Duration:	01:20:03
+		Location:	50.89567 -0.77922
+
+(3) - Km 2.8 of Coastal loop & 100K
+	THB1
+		Images:	1511
+		Time:	21.06.2025 06:42:04 until 21.06.2025 08:19:15
+		Duration:	01:37:11
+		Location:	50.88924 -0.78511
+
+(4) - Km 6.2 of Coastal loop & 100K
+	MKH1
+		Images:	2409
+		Time:	21.06.2025 06:56:35 until 21.06.2025 10:27:46
+		Duration:	03:31:11
+		Location:	50.86183 -0.78579
+
+	MKH1LS1
+		Images:	642
+		Time:	21.06.2025 07:02:38 until 21.06.2025 10:06:01
+		Duration:	03:03:23
+		Location:	50.86183 -0.78579
+
+(5) - Km 40.6 of Coastal loop & 100K
+	WIC2
+		Images:	5326
+		Time:	21.06.2025 09:08:18 until 21.06.2025 19:49:16
+		Duration:	10:40:58
+		Location:	50.89298 -0.85628
+
+(6) - Km 43.4 of Coastal loop & 100K
+	THB2
+		Images:	1882
+		Time:	21.06.2025 09:33:53 until 21.06.2025 20:16:49
+		Duration:	10:42:56
+		Location:	50.90157 -0.83419
+
+(7) - Km 44.9 of Coastal loop & 100K
+	MKH2
+		Images:	4687
+		Time:	21.06.2025 10:39:32 until 21.06.2025 20:40:17
+		Duration:	10:00:45
+		Location:	50.90920 -0.81812
+
+(8) - Km 2 of Castle loop & 52.2 of 100K
+	JOEM1
+		Images:	162
+		Time:	21.06.2025 07:27:38 until 21.06.2025 07:51:52
+		Duration:	00:24:14
+		Location:	50.91444 -0.74991
+
+(9) - Km 13.4 of Castle loop & 63.7 of 100K
+	KYY1
+		Images:	2784
+		Time:	21.06.2025 08:01:41 until 21.06.2025 10:08:38
+		Duration:	02:06:57
+		Location:	50.91175 -0.63989
+
+(10) - Km 46.5 of Castle loop & 96.8 of 100K
+	JOEM2
+		Images:	4424
+		Time:	21.06.2025 11:21:58 until 21.06.2025 21:29:50
+		Duration:	10:07:52
+		Location:	50.89992 -0.71471
+
+(11) - Km 50.6 of Castle loop & 101 of 100K
+	KYY2
+		Images:	4474
+		Time:	21.06.2025 11:11:23 until 21.06.2025 21:28:54
+		Duration:	10:17:31
+		Location:	50.89182 -0.75960
+
+(12) - Finish
+	PARO2
+		Images:	14710
+		Time:	21.06.2025 10:08:10 until 22.06.2025 10:15:33
+		Duration:	1.00:07:23
+		Location:	50.90666 -0.76922
+
+	PARO2LS1
+		Images:	2962
+		Time:	21.06.2025 10:07:59 until 22.06.2025 08:25:39
+		Duration:	22:17:40
+		Location:	50.90666 -0.76922
+
+	PARO2LS2
+		Images:	3124
+		Time:	21.06.2025 10:07:45 until 22.06.2025 08:19:58
+		Duration:	22:12:13
+		Location:	50.90666 -0.76922
+
+	MKH3
+		Images:	534
+		Time:	21.06.2025 21:49:31 until 22.06.2025 10:18:56
+		Duration:	12:29:25
+		Location:	50.90666 -0.76922
+
+(13) - Impressions / Pano
+	PARO3
+		Images:	24
+		Time:	22.06.2025 07:21:00 until 22.06.2025 07:51:19
+		Duration:	00:30:19
+		Location:	50.90666 -0.76922
+
+	PARO3DRONE1
+		Images:	19
+		Time:	21.06.2025 06:33:16 until 22.06.2025 07:11:14
+		Duration:	1.00:37:58
+		Location:	50.90666 -0.76922
+
+	PANO1

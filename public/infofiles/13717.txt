@@ -1,0 +1,183 @@
+EventId: 13717
+Spots: 28
+Total Images: 626625
+Time:	15.06.2025 07:15:49 to 15.06.2025 19:18:21
+Duration: 12:02:32
+
+(1) - Lindfield - 59.2 Km
+	THB1
+		Images:	11082
+		Time:	15.06.2025 07:42:16 until 15.06.2025 15:47:43
+		Duration:	08:05:27
+		Location:	51.01628 -0.08123
+
+	STHH1
+		Images:	16105
+		Time:	15.06.2025 07:15:49 until 15.06.2025 15:47:51
+		Duration:	08:32:02
+		Location:	51.01628 -0.08123
+
+(2) - Lindfield - 59.9 Km
+	TOMY1
+		Images:	60636
+		Time:	15.06.2025 07:34:41 until 15.06.2025 15:53:30
+		Duration:	08:18:49
+		Location:	51.01076 -0.08428
+
+	CMS1
+		Images:	21863
+		Time:	15.06.2025 07:42:27 until 15.06.2025 15:49:50
+		Duration:	08:07:23
+		Location:	51.01076 -0.08428
+
+	CMS1LS1
+		Images:	10428
+		Time:	15.06.2025 07:41:41 until 15.06.2025 15:36:03
+		Duration:	07:54:22
+		Location:	51.01076 -0.08428
+
+	WIN1
+		Images:	22472
+		Time:	15.06.2025 07:25:20 until 15.06.2025 15:49:41
+		Duration:	08:24:21
+		Location:	51.01076 -0.08428
+
+(3) - Ditchling Town - 71.5 Km
+	SALA1
+		Images:	25351
+		Time:	15.06.2025 08:01:50 until 15.06.2025 17:12:55
+		Duration:	09:11:05
+		Location:	50.92178 -0.11748
+
+	DP1
+		Images:	33507
+		Time:	15.06.2025 08:03:02 until 15.06.2025 17:09:06
+		Duration:	09:06:04
+		Location:	50.92178 -0.11748
+
+(4) - Ditchling Bostall - 74.4 Km
+	JOEM1
+		Images:	37430
+		Time:	15.06.2025 07:42:09 until 15.06.2025 17:55:04
+		Duration:	10:12:55
+		Location:	50.90098 -0.10694
+
+	CNS1
+		Images:	14796
+		Time:	15.06.2025 08:00:41 until 15.06.2025 18:05:53
+		Duration:	10:05:12
+		Location:	50.90098 -0.10694
+
+(5) - Ditchling Road - 76.6 Km
+	AMK1
+		Images:	7696
+		Time:	15.06.2025 08:14:44 until 15.06.2025 17:51:21
+		Duration:	09:36:37
+		Location:	50.88481 -0.12320
+
+	MKH1
+		Images:	18282
+		Time:	15.06.2025 08:06:19 until 15.06.2025 17:42:48
+		Duration:	09:36:29
+		Location:	50.88481 -0.12320
+
+	MKH1LS1
+		Images:	7540
+		Time:	15.06.2025 07:47:28 until 15.06.2025 17:26:01
+		Duration:	09:38:33
+		Location:	50.88481 -0.12320
+
+(6) - St Peter's Church - 84.5 Km
+	WIC1
+		Images:	89095
+		Time:	15.06.2025 08:43:00 until 15.06.2025 18:46:34
+		Duration:	10:03:34
+		Location:	50.82749 -0.13715
+
+	BUM1
+		Images:	26063
+		Time:	15.06.2025 08:42:01 until 15.06.2025 18:51:22
+		Duration:	10:09:21
+		Location:	50.82749 -0.13715
+
+(7) - Royal Pavilion - 85.1 Km
+	MALV1
+		Images:	31918
+		Time:	15.06.2025 08:39:30 until 15.06.2025 18:52:41
+		Duration:	10:13:11
+		Location:	50.82182 -0.13903
+
+	MSO1
+		Images:	10333
+		Time:	15.06.2025 08:53:02 until 15.06.2025 18:40:40
+		Duration:	09:47:38
+		Location:	50.82182 -0.13903
+
+	MADO1
+		Images:	28216
+		Time:	15.06.2025 08:32:33 until 15.06.2025 18:53:30
+		Duration:	10:20:57
+		Location:	50.82182 -0.13903
+
+(8) - Just Before Finish
+	DANO1
+		Images:	39256
+		Time:	15.06.2025 08:56:27 until 15.06.2025 19:09:05
+		Duration:	10:12:38
+		Location:	50.81883 -0.13327
+
+	DANO1LS1
+		Images:	17851
+		Time:	15.06.2025 08:45:35 until 15.06.2025 19:11:57
+		Duration:	10:26:22
+		Location:	50.81883 -0.13327
+
+	JUW1
+		Images:	24358
+		Time:	15.06.2025 08:40:24 until 15.06.2025 18:56:37
+		Duration:	10:16:13
+		Location:	50.81883 -0.13327
+
+	JUW1LS1
+		Images:	7847
+		Time:	15.06.2025 08:34:23 until 15.06.2025 17:54:20
+		Duration:	09:19:57
+		Location:	50.81883 -0.13327
+
+(9) - Finish
+	LOT1
+		Images:	19404
+		Time:	15.06.2025 08:34:48 until 15.06.2025 19:09:13
+		Duration:	10:34:25
+		Location:	50.81858 -0.13239
+
+	LOT1LS1
+		Images:	7769
+		Time:	15.06.2025 08:41:53 until 15.06.2025 18:30:16
+		Duration:	09:48:23
+		Location:	50.81858 -0.13239
+
+	BKO1
+		Images:	23715
+		Time:	15.06.2025 08:36:55 until 15.06.2025 17:48:29
+		Duration:	09:11:34
+		Location:	50.81858 -0.13239
+
+	BKO1DRONE1
+		Images:	6
+		Time:	15.06.2025 15:35:42 until 15.06.2025 15:39:43
+		Duration:	00:04:01
+		Location:	50.81858 -0.13239
+
+	BKO1LS1
+		Images:	6085
+		Time:	15.06.2025 08:47:51 until 15.06.2025 19:18:21
+		Duration:	10:30:30
+		Location:	50.81858 -0.13239
+
+	BKO1LS2
+		Images:	7521
+		Time:	15.06.2025 08:47:33 until 15.06.2025 19:18:07
+		Duration:	10:30:34
+		Location:	50.81858 -0.13239
+

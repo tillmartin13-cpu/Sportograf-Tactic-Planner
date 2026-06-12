@@ -1,0 +1,369 @@
+EventId: 15837
+Spots: 58
+Total Images: 546541
+Time:	11.05.2025 08:27:55 to 11.05.2025 16:56:15
+Duration: 08:28:20
+
+(1) - 12,6 km Copenhagen City Hall
+	BDABT1
+		Images:	6098
+		Time:	11.05.2025 08:43:54 until 11.05.2025 12:03:40
+		Duration:	03:19:46
+		Location:	55.67656 12.56900
+
+	BMGEN1
+		Images:	9481
+		Time:	11.05.2025 10:07:49 until 11.05.2025 11:56:21
+		Duration:	01:48:32
+		Location:	55.67656 12.56900
+
+	BTOG1
+		Images:	8506
+		Time:	11.05.2025 08:30:05 until 11.05.2025 12:00:24
+		Duration:	03:30:19
+		Location:	55.67656 12.56900
+
+	BTOG1LS1
+		Images:	1608
+		Time:	11.05.2025 09:28:16 until 11.05.2025 11:49:53
+		Duration:	02:21:37
+		Location:	55.67656 12.56900
+
+	BTOG1LS2
+		Images:	2254
+		Time:	11.05.2025 09:10:17 until 11.05.2025 11:48:57
+		Duration:	02:38:40
+		Location:	55.67656 12.56900
+
+(2) - 14,2 km Dronning Louises Bro
+	BJEJ1
+		Images:	5760
+		Time:	11.05.2025 08:58:29 until 11.05.2025 12:14:15
+		Duration:	03:15:46
+		Location:	55.68668 12.56418
+
+	BMAKO1
+		Images:	6436
+		Time:	11.05.2025 09:13:07 until 11.05.2025 12:17:47
+		Duration:	03:04:40
+		Location:	55.68668 12.56418
+
+(3) - 14.5 km Sakramentskirken
+	ADTES1
+		Images:	3568
+		Time:	11.05.2025 09:27:40 until 11.05.2025 12:21:41
+		Duration:	02:54:01
+		Location:	NULL NULL
+
+	AIMOG1
+		Images:	5263
+		Time:	11.05.2025 09:05:10 until 11.05.2025 12:17:11
+		Duration:	03:12:01
+		Location:	NULL NULL
+
+(4) - 24,3 km Frederiksberg Allé 2
+	BEGA1
+		Images:	21056
+		Time:	11.05.2025 10:12:57 until 11.05.2025 13:37:10
+		Duration:	03:24:13
+		Location:	55.67368 12.54347
+
+	BJLA1
+		Images:	10261
+		Time:	11.05.2025 10:55:39 until 11.05.2025 13:43:08
+		Duration:	02:47:29
+		Location:	55.67368 12.54347
+
+(5) - 24.0 km Frederiksberg Allé 1
+	AAWEE1
+		Images:	5811
+		Time:	11.05.2025 10:16:28 until 11.05.2025 13:41:35
+		Duration:	03:25:07
+		Location:	NULL NULL
+
+	APLU1
+		Images:	9086
+		Time:	11.05.2025 10:14:55 until 11.05.2025 13:38:13
+		Duration:	03:23:18
+		Location:	NULL NULL
+
+(6) - 26,0 km Palads
+	BKHR1
+		Images:	16764
+		Time:	11.05.2025 10:48:32 until 11.05.2025 14:06:36
+		Duration:	03:18:04
+		Location:	55.67587 12.56314
+
+	BMPU1
+		Images:	11818
+		Time:	11.05.2025 10:22:05 until 11.05.2025 13:21:47
+		Duration:	02:59:42
+		Location:	55.67587 12.56314
+
+(7) - 26,6 km Axel Towers
+	BCK1
+		Images:	25891
+		Time:	11.05.2025 10:15:06 until 11.05.2025 14:11:26
+		Duration:	03:56:20
+		Location:	55.67472 12.56513
+
+	BCK1LS1
+		Images:	3517
+		Time:	11.05.2025 10:51:18 until 11.05.2025 13:47:23
+		Duration:	02:56:05
+		Location:	55.67472 12.56513
+
+	BCK1LS2
+		Images:	4892
+		Time:	11.05.2025 10:49:31 until 11.05.2025 13:44:19
+		Duration:	02:54:48
+		Location:	55.67472 12.56513
+
+	BMGR1
+		Images:	19166
+		Time:	11.05.2025 09:58:44 until 11.05.2025 14:11:25
+		Duration:	04:12:41
+		Location:	55.67472 12.56513
+
+(8) - 26.4 km Industriens Hus
+	AAZN1
+		Images:	24719
+		Time:	11.05.2025 09:56:27 until 11.05.2025 14:11:31
+		Duration:	04:15:04
+		Location:	NULL NULL
+
+	AEH1
+		Images:	24170
+		Time:	11.05.2025 10:38:43 until 11.05.2025 13:51:49
+		Duration:	03:13:06
+		Location:	NULL NULL
+
+	AEH1LS1
+		Images:	4499
+		Time:	11.05.2025 10:14:00 until 11.05.2025 13:51:58
+		Duration:	03:37:58
+		Location:	NULL NULL
+
+(9) - 30,2 km Kaktus Towers
+	BAGM1
+		Images:	8660
+		Time:	11.05.2025 10:58:05 until 11.05.2025 14:36:06
+		Duration:	03:38:01
+		Location:	55.66322 12.56163
+
+	BSHNI1
+		Images:	14068
+		Time:	11.05.2025 10:16:33 until 11.05.2025 14:31:15
+		Duration:	04:14:42
+		Location:	55.66322 12.56163
+
+(10) - 31.9 km Det Kgl. Bibliotek
+	AMAXW1
+		Images:	4014
+		Time:	11.05.2025 09:58:31 until 11.05.2025 15:01:57
+		Duration:	05:03:26
+		Location:	NULL NULL
+
+	ATHS1
+		Images:	25924
+		Time:	11.05.2025 10:04:17 until 11.05.2025 14:44:22
+		Duration:	04:40:05
+		Location:	NULL NULL
+
+	ATHS1LS1
+		Images:	6227
+		Time:	11.05.2025 09:49:44 until 11.05.2025 14:45:42
+		Duration:	04:55:58
+		Location:	NULL NULL
+
+	ATHS1LS2
+		Images:	4686
+		Time:	11.05.2025 09:58:33 until 11.05.2025 14:45:43
+		Duration:	04:47:10
+		Location:	NULL NULL
+
+(11) - 32,9 km Det Kongelige Teater
+	BBIL1
+		Images:	4503
+		Time:	11.05.2025 10:40:00 until 11.05.2025 15:02:26
+		Duration:	04:22:26
+		Location:	55.68010 12.58669
+
+	BBIL1LS1
+		Images:	2833
+		Time:	11.05.2025 09:52:12 until 11.05.2025 14:44:39
+		Duration:	04:52:27
+		Location:	55.68010 12.58669
+
+	BDHD1
+		Images:	4958
+		Time:	11.05.2025 10:20:54 until 11.05.2025 15:10:51
+		Duration:	04:49:57
+		Location:	55.68010 12.58669
+
+	BWKA1
+		Images:	9545
+		Time:	11.05.2025 10:14:05 until 11.05.2025 15:11:10
+		Duration:	04:57:05
+		Location:	55.68010 12.58669
+
+(12) - 32.1 km Knippelsbro
+	AGEPA1
+		Images:	53367
+		Time:	11.05.2025 11:00:33 until 11.05.2025 14:16:59
+		Duration:	03:16:26
+		Location:	NULL NULL
+
+	ATASI1
+		Images:	9343
+		Time:	11.05.2025 10:38:29 until 11.05.2025 14:55:22
+		Duration:	04:16:53
+		Location:	NULL NULL
+
+(13) - 32.7 km Kongens Nytorv
+	ACAGO1
+		Images:	8471
+		Time:	11.05.2025 11:07:11 until 11.05.2025 15:08:44
+		Duration:	04:01:33
+		Location:	NULL NULL
+
+	ALSI1
+		Images:	12697
+		Time:	11.05.2025 11:06:12 until 11.05.2025 15:01:33
+		Duration:	03:55:21
+		Location:	NULL NULL
+
+	AMIJ1
+		Images:	5034
+		Time:	11.05.2025 11:05:40 until 11.05.2025 15:09:10
+		Duration:	04:03:30
+		Location:	NULL NULL
+
+(14) - 42,0 km Way To Finish
+	BJZE1
+		Images:	12803
+		Time:	11.05.2025 10:48:27 until 11.05.2025 16:34:49
+		Duration:	05:46:22
+		Location:	55.70191 12.57145
+
+	BJZE1LS1
+		Images:	4107
+		Time:	11.05.2025 12:03:07 until 11.05.2025 16:01:13
+		Duration:	03:58:06
+		Location:	55.70191 12.57145
+
+	BVDN1
+		Images:	2842
+		Time:	11.05.2025 11:53:13 until 11.05.2025 16:16:10
+		Duration:	04:22:57
+		Location:	55.70191 12.57145
+
+(15) - 6.8 km Sortedam Lake
+	ANWO1
+		Images:	9129
+		Time:	11.05.2025 09:50:35 until 11.05.2025 11:07:11
+		Duration:	01:16:36
+		Location:	NULL NULL
+
+	ANWO1LS1
+		Images:	1502
+		Time:	11.05.2025 09:50:26 until 11.05.2025 11:06:23
+		Duration:	01:15:57
+		Location:	NULL NULL
+
+	AVDN1
+		Images:	2476
+		Time:	11.05.2025 09:42:04 until 11.05.2025 11:17:43
+		Duration:	01:35:39
+		Location:	NULL NULL
+
+(16) - 9,8 km Christianhavn
+	BFJO1
+		Images:	3186
+		Time:	11.05.2025 09:04:47 until 11.05.2025 11:07:59
+		Duration:	02:03:12
+		Location:	55.67246 12.59097
+
+	BPAG1
+		Images:	12516
+		Time:	11.05.2025 09:51:46 until 11.05.2025 11:09:10
+		Duration:	01:17:24
+		Location:	55.67246 12.59097
+
+(17) - Finish
+	ARKO2
+		Images:	12288
+		Time:	11.05.2025 10:59:13 until 11.05.2025 16:29:48
+		Duration:	05:30:35
+		Location:	NULL NULL
+
+	ARKO2LS1
+		Images:	3500
+		Time:	11.05.2025 12:37:40 until 11.05.2025 15:46:28
+		Duration:	03:08:48
+		Location:	NULL NULL
+
+	AROH2
+		Images:	26297
+		Time:	11.05.2025 11:50:24 until 11.05.2025 16:30:00
+		Duration:	04:39:36
+		Location:	NULL NULL
+
+	AROH2LS1
+		Images:	4542
+		Time:	11.05.2025 11:23:34 until 11.05.2025 16:22:29
+		Duration:	04:58:55
+		Location:	NULL NULL
+
+	AROH2LS2
+		Images:	4958
+		Time:	11.05.2025 10:24:30 until 11.05.2025 15:44:57
+		Duration:	05:20:27
+		Location:	NULL NULL
+
+(18) - Impressions / Pano
+	PANO1
+(19) - Medals
+	BFJO2
+		Images:	11387
+		Time:	11.05.2025 12:04:41 until 11.05.2025 16:48:47
+		Duration:	04:44:06
+		Location:	55.70257 12.56973
+
+	BIVAH1
+		Images:	6594
+		Time:	11.05.2025 11:32:25 until 11.05.2025 16:56:15
+		Duration:	05:23:50
+		Location:	55.70257 12.56973
+
+	BPAG2
+		Images:	8029
+		Time:	11.05.2025 12:08:56 until 11.05.2025 16:49:30
+		Duration:	04:40:34
+		Location:	55.70257 12.56973
+
+(20) - Start
+	AIVAH1
+		Images:	3658
+		Time:	11.05.2025 08:27:55 until 11.05.2025 10:11:51
+		Duration:	01:43:56
+		Location:	NULL NULL
+
+	AJZE1
+		Images:	1969
+		Time:	11.05.2025 08:52:02 until 11.05.2025 10:11:13
+		Duration:	01:19:11
+		Location:	NULL NULL
+
+	ARKO1
+		Images:	3474
+		Time:	11.05.2025 08:55:45 until 11.05.2025 10:10:55
+		Duration:	01:15:10
+		Location:	NULL NULL
+
+	AROH1
+		Images:	6330
+		Time:	11.05.2025 08:54:26 until 11.05.2025 10:11:15
+		Duration:	01:16:49
+		Location:	NULL NULL
+

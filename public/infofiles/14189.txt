@@ -1,0 +1,164 @@
+EventId: 14189
+Spots: 24
+Total Images: 141657
+Time:	01.01.0001 23:00:00 to 22.06.2025 23:58:32
+Duration: 739423.00:58:32
+
+(1) - General
+	ALSE3
+		Images:	101
+		Time:	22.06.2025 08:59:40 until 22.06.2025 13:02:07
+		Duration:	04:02:27
+		Location:	46.49352 -1.79205
+
+(2) - Swim start
+	ALSE1
+		Images:	2756
+		Time:	22.06.2025 06:03:06 until 22.06.2025 08:54:41
+		Duration:	02:51:35
+		Location:	46.49352 -1.79205
+
+(3) - Finish
+	ALSE2
+		Images:	12400
+		Time:	22.06.2025 15:15:03 until 22.06.2025 23:56:38
+		Duration:	08:41:35
+		Location:	46.49487 -1.78853
+
+	ALSE1LS1
+		Images:	2584
+		Time:	22.06.2025 14:13:23 until 22.06.2025 23:58:32
+		Duration:	09:45:09
+		Location:	46.49487 -1.78853
+
+	API3
+		Images:	1051
+		Time:	22.06.2025 19:06:13 until 22.06.2025 21:55:12
+		Duration:	02:48:59
+		Location:	46.49487 -1.78853
+
+	MRED2
+		Images:	6592
+		Time:	22.06.2025 12:06:45 until 22.06.2025 22:00:21
+		Duration:	09:53:36
+		Location:	46.49487 -1.78853
+
+	ROM2
+		Images:	1282
+		Time:	22.06.2025 17:48:46 until 22.06.2025 22:15:54
+		Duration:	04:27:08
+		Location:	46.49487 -1.78853
+
+(4) - Bike Pk 4+500
+	API1
+		Images:	5000
+		Time:	22.06.2025 08:01:14 until 22.06.2025 12:59:05
+		Duration:	04:57:51
+		Location:	46.48361 -1.76435
+
+(5) - Bike PK 177
+	API2
+		Images:	4487
+		Time:	22.06.2025 12:59:08 until 22.06.2025 19:03:49
+		Duration:	06:04:41
+		Location:	46.50397 -1.79125
+
+(6) - Bike PK 114
+	JRP1
+		Images:	17157
+		Time:	22.06.2025 10:36:28 until 22.06.2025 15:29:19
+		Duration:	04:52:51
+		Location:	46.56079 -1.53943
+
+	JRP1LS1
+		Images:	2365
+		Time:	22.06.2025 10:26:57 until 22.06.2025 15:29:54
+		Duration:	05:02:57
+		Location:	46.56079 -1.53943
+
+(7) - Bike - Transition zone
+	LUM1
+		Images:	11450
+		Time:	22.06.2025 06:04:24 until 22.06.2025 11:24:12
+		Duration:	05:19:48
+		Location:	46.50340 -1.78831
+
+(8) - Run - Green lighthouse
+	LUM3
+		Images:	15358
+		Time:	22.06.2025 12:33:28 until 22.06.2025 18:17:37
+		Duration:	05:44:09
+		Location:	46.49174 -1.79279
+
+	LUM1LS1
+		Images:	2522
+		Time:	22.06.2025 13:02:59 until 22.06.2025 18:18:14
+		Duration:	05:15:15
+		Location:	46.49174 -1.79279
+
+(9) - Bike PK 93
+	MBP1
+		Images:	10055
+		Time:	22.06.2025 10:18:12 until 22.06.2025 14:26:51
+		Duration:	04:08:39
+		Location:	46.58581 -1.73121
+
+(10) - Run - Sea promenade
+	MBP2
+		Images:	558
+		Time:	22.06.2025 17:37:24 until 22.06.2025 18:11:12
+		Duration:	00:33:48
+		Location:	46.49470 -1.78456
+
+	MRAB2
+		Images:	12367
+		Time:	22.06.2025 12:19:21 until 22.06.2025 23:28:21
+		Duration:	11:09:00
+		Location:	46.49470 -1.78456
+
+(11) - Swim - Exit
+	MRAB1
+		Images:	6027
+		Time:	22.06.2025 05:59:20 until 22.06.2025 10:05:35
+		Duration:	04:06:15
+		Location:	46.50176 -1.79106
+
+	WRFG1
+		Images:	3532
+		Time:	01.01.0001 23:00:00 until 22.06.2025 10:05:45
+		Duration:	739422.11:05:45
+		Location:	46.49352 -1.79205
+
+(12) - Swim - Start
+	MRED1
+		Images:	2110
+		Time:	22.06.2025 06:06:31 until 22.06.2025 09:41:38
+		Duration:	03:35:07
+		Location:	46.49352 -1.79205
+
+(13) - Bike - PK 115
+	ROM1
+		Images:	5595
+		Time:	22.06.2025 10:49:59 until 22.06.2025 15:30:15
+		Duration:	04:40:16
+		Location:	46.56079 -1.53943
+
+	ROM1LS1
+		Images:	2497
+		Time:	22.06.2025 10:45:02 until 22.06.2025 15:30:24
+		Duration:	04:45:22
+		Location:	46.56079 -1.53943
+
+(14) - Run - Sea Promenade1
+	ROM3
+		Images:	355
+		Time:	22.06.2025 20:23:52 until 22.06.2025 21:08:41
+		Duration:	00:44:49
+		Location:	46.49448 -1.78258
+
+	WRFG2
+		Images:	13456
+		Time:	22.06.2025 12:38:08 until 22.06.2025 22:50:40
+		Duration:	10:12:32
+		Location:	46.49448 -1.78258
+

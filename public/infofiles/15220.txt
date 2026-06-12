@@ -1,0 +1,178 @@
+EventId: 15220
+Spots: 27
+Total Images: 57602
+Time:	26.09.2025 20:53:45 to 27.09.2026 18:10:08
+Duration: 365.21:16:23
+
+(1) - Start 50K
+	MDS1
+		Images:	747
+		Time:	26.09.2025 20:53:45 until 27.09.2025 07:02:15
+		Duration:	10:08:30
+		Location:	40.95225 41.11235
+
+(2) - Only 50k The flag
+	LULE1
+		Images:	2128
+		Time:	27.09.2025 07:11:17 until 27.09.2025 07:48:43
+		Duration:	00:37:26
+		Location:	40.95248 41.10167
+
+	LULE1LS1
+		Images:	658
+		Time:	27.09.2026 06:24:11 until 27.09.2026 07:50:29
+		Duration:	01:26:18
+		Location:	40.95248 41.10167
+
+	LULE1LS2
+		Images:	586
+		Time:	26.09.2025 22:02:25 until 27.09.2025 07:50:20
+		Duration:	09:47:55
+		Location:	40.95248 41.10167
+
+(3) - Huser 50k & 20k
+	MATR1
+		Images:	8192
+		Time:	26.09.2025 21:43:07 until 27.09.2025 15:45:34
+		Duration:	18:02:27
+		Location:	40.96186 41.16345
+
+	MATR1LS1
+		Images:	1463
+		Time:	26.09.2025 22:01:32 until 27.09.2025 16:00:18
+		Duration:	17:58:46
+		Location:	40.96186 41.16345
+
+	BRN1
+		Images:	5244
+		Time:	27.09.2025 08:55:36 until 27.09.2025 15:44:38
+		Duration:	06:49:02
+		Location:	40.96211 41.16413
+
+(4) - Huser 50 k&20k
+	MATR1LS2
+		Images:	4000
+		Time:	26.09.2025 22:01:50 until 27.09.2025 19:08:31
+		Duration:	21:06:41
+		Location:	40.96186 41.16345
+
+	BRN1LS1
+		Images:	1821
+		Time:	27.09.2025 07:54:34 until 27.09.2025 15:44:33
+		Duration:	07:49:59
+		Location:	40.96186 41.16345
+
+	BRN1LS2
+		Images:	11138
+		Time:	27.09.2025 07:47:53 until 27.09.2025 19:01:11
+		Duration:	11:13:18
+		Location:	40.96186 41.16345
+
+(5) - 2 km after start Only  20K
+	MDS2
+		Images:	380
+		Time:	27.09.2025 10:15:31 until 27.09.2025 10:28:48
+		Duration:	00:13:17
+		Location:	40.95658 41.11944
+
+	MDS2LS2
+		Images:	514
+		Time:	26.09.2025 21:50:03 until 27.09.2025 11:07:20
+		Duration:	13:17:17
+		Location:	40.95658 41.11944
+
+	MDS2LS1
+		Images:	400
+		Time:	26.09.2025 21:47:06 until 27.09.2025 10:34:06
+		Duration:	12:47:00
+		Location:	40.95658 41.11944
+
+(6) - 30 km Only 50k
+	LULE2
+		Images:	5652
+		Time:	27.09.2025 11:14:23 until 27.09.2025 15:07:13
+		Duration:	03:52:50
+		Location:	40.90997 41.16575
+
+	LULE2LS1
+		Images:	852
+		Time:	27.09.2026 10:27:31 until 27.09.2026 16:10:28
+		Duration:	05:42:57
+		Location:	40.90997 41.16575
+
+	LULE2LS2
+		Images:	999
+		Time:	27.09.2025 10:27:22 until 27.09.2025 15:05:21
+		Duration:	04:37:59
+		Location:	40.90997 41.16575
+
+(7) - 36 km Only 50k
+	MAGA2
+		Images:	1199
+		Time:	27.09.2025 10:54:01 until 27.09.2025 15:10:17
+		Duration:	04:16:16
+		Location:	40.90930 41.16752
+
+	MAGA2LS1
+		Images:	615
+		Time:	27.09.2025 10:45:11 until 27.09.2025 15:15:53
+		Duration:	04:30:42
+		Location:	40.90930 41.16752
+
+	MAGA2LS2
+		Images:	173
+		Time:	27.09.2025 13:56:27 until 27.09.2025 15:10:17
+		Duration:	01:13:50
+		Location:	40.90930 41.16752
+
+(8) - 43,5 km Only 50k
+	MAGA3LS1
+		Images:	209
+		Time:	27.09.2025 16:29:17 until 27.09.2025 18:28:42
+		Duration:	01:59:25
+		Location:	40.92616 41.15010
+
+	MAGA3LS2
+		Images:	84
+		Time:	27.09.2025 16:59:19 until 27.09.2025 18:21:25
+		Duration:	01:22:06
+		Location:	40.92616 41.15010
+
+	MAGA3
+		Images:	84
+		Time:	27.09.2025 16:59:19 until 27.09.2025 18:21:25
+		Duration:	01:22:06
+		Location:	40.92616 41.15010
+
+(9) - 44 km Only 50k
+	LULE3LS1
+		Images:	560
+		Time:	27.09.2026 16:11:12 until 27.09.2026 18:10:08
+		Duration:	01:58:56
+		Location:	40.92653 41.14888
+
+	LULE3LS2
+		Images:	741
+		Time:	27.09.2025 16:20:37 until 27.09.2025 18:14:03
+		Duration:	01:53:26
+		Location:	40.92653 41.14888
+
+(10) - Finish
+	MDS3
+		Images:	6124
+		Time:	27.09.2025 11:28:59 until 27.09.2025 20:44:25
+		Duration:	09:15:26
+		Location:	40.95225 41.11235
+
+	MDS3LS1
+		Images:	1504
+		Time:	27.09.2025 11:49:36 until 27.09.2025 20:41:11
+		Duration:	08:51:35
+		Location:	40.95225 41.11235
+
+	MDS3LS2
+		Images:	1535
+		Time:	27.09.2025 11:27:07 until 27.09.2025 22:06:44
+		Duration:	10:39:37
+		Location:	40.95225 41.11235
+

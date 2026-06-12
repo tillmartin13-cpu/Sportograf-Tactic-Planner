@@ -1,0 +1,87 @@
+EventId: 14390
+Spots: 12
+Total Images: 66772
+Time:	21.11.2025 17:50:51 to 22.11.2026 14:54:10
+Duration: 365.21:03:19
+
+(1) - Obstacle 2 Hurdles
+	AAD1
+		Images:	5027
+		Time:	21.11.2025 21:16:09 until 23.11.2025 06:44:15
+		Duration:	1.09:28:06
+		Location:	NULL NULL
+
+	JOFU3
+		Images:	129
+		Time:	22.11.2025 11:49:07 until 22.11.2025 11:54:59
+		Duration:	00:05:52
+		Location:	NULL NULL
+
+(2) - Obstacle 3 Barbed Wire Crawl
+	CIFU1
+		Images:	10261
+		Time:	21.11.2025 17:50:51 until 23.11.2025 08:09:39
+		Duration:	1.14:18:48
+		Location:	NULL NULL
+
+(3) - Obstacle 6 Bucket Carry
+	GAPO1
+		Images:	15031
+		Time:	22.11.2025 06:21:29 until 22.11.2025 13:21:15
+		Duration:	06:59:46
+		Location:	NULL NULL
+
+(4) - Obstacle 10 Chain Carry
+	JOFU1
+		Images:	3193
+		Time:	22.11.2025 06:46:20 until 22.11.2025 09:48:13
+		Duration:	03:01:53
+		Location:	NULL NULL
+
+(5) - Obstacle 20 Sandbag Carry
+	SICA1
+		Images:	7324
+		Time:	22.11.2025 06:54:58 until 22.11.2026 14:52:36
+		Duration:	365.07:57:38
+		Location:	NULL NULL
+
+(6) - Obstacle 20 Sandbag Carry LS
+	SICA1LS1
+		Images:	1586
+		Time:	21.11.2026 18:24:28 until 22.11.2026 14:54:10
+		Duration:	20:29:42
+		Location:	NULL NULL
+
+(7) - Obstacle 21 Multi-Rig
+	PAUS1
+		Images:	3632
+		Time:	22.11.2025 05:49:27 until 23.11.2025 06:14:30
+		Duration:	1.00:25:03
+		Location:	NULL NULL
+
+	ROVA1
+		Images:	10662
+		Time:	22.11.2025 06:08:46 until 23.11.2025 06:36:30
+		Duration:	1.00:27:44
+		Location:	NULL NULL
+
+(8) - Obstacle 28 Invert Wall
+	ACAS1
+		Images:	5131
+		Time:	22.11.2025 05:51:40 until 22.11.2025 15:49:58
+		Duration:	09:58:18
+		Location:	NULL NULL
+
+	JOFU2
+		Images:	95
+		Time:	22.11.2025 10:52:08 until 22.11.2025 10:57:23
+		Duration:	00:05:15
+		Location:	NULL NULL
+
+(9) - Herotent
+	PHEN1
+		Images:	4700
+		Time:	21.11.2025 18:20:20 until 23.11.2025 06:29:00
+		Duration:	1.12:08:40
+		Location:	NULL NULL
+

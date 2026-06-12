@@ -1,0 +1,41 @@
+EventId: 14780
+Spots: 6
+Total Images: 4347
+Time:	03.10.2025 17:49:33 to 05.10.2025 13:45:33
+Duration: 1.19:56:00
+
+(1) - Start
+	ANI1
+		Images:	120
+		Time:	04.10.2025 09:35:51 until 05.10.2025 10:33:22
+		Duration:	1.00:57:31
+		Location:	47.50391 12.18871
+
+(2) - 17.0 km Juffinger Jöchl
+	ANI2
+		Images:	1157
+		Time:	05.10.2025 10:38:08 until 05.10.2025 12:42:12
+		Duration:	02:04:04
+		Location:	47.49467 12.13938
+
+(3) - Finish
+	COR1
+		Images:	2647
+		Time:	03.10.2025 17:52:24 until 05.10.2025 13:45:33
+		Duration:	1.19:53:09
+		Location:	47.50391 12.18871
+
+	COR1LS1
+		Images:	401
+		Time:	05.10.2025 11:04:19 until 05.10.2025 13:11:33
+		Duration:	02:07:14
+		Location:	47.50391 12.18871
+
+(4) - Impressions / Pano
+	PANO1
+	ANI2DRONE1
+		Images:	4
+		Time:	05.10.2025 10:12:25 until 05.10.2025 10:13:03
+		Duration:	00:00:38
+		Location:	47.49467 12.13938
+

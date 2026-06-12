@@ -1,0 +1,316 @@
+EventId: 16134
+Spots: 50
+Total Images: 96304
+Time:	20.09.2025 07:24:45 to 20.09.2025 19:44:36
+Duration: 12:19:51
+
+(1) - Finish
+	DANG4
+		Images:	2786
+		Time:	20.09.2025 11:29:49 until 20.09.2025 19:39:20
+		Duration:	08:09:31
+		Location:	-23.51700 -46.63691
+
+	EGG1LS1
+		Images:	1799
+		Time:	20.09.2025 09:11:11 until 20.09.2025 19:29:40
+		Duration:	10:18:29
+		Location:	-23.51700 -46.63691
+
+	FO1LS1
+		Images:	2269
+		Time:	20.09.2025 07:41:25 until 20.09.2025 19:09:45
+		Duration:	11:28:20
+		Location:	-23.51700 -46.63691
+
+	SAM1LS1
+		Images:	2167
+		Time:	20.09.2025 07:42:44 until 20.09.2025 15:54:33
+		Duration:	08:11:49
+		Location:	-23.51700 -46.63691
+
+	VAR2
+		Images:	1203
+		Time:	20.09.2025 14:49:53 until 20.09.2025 17:58:08
+		Duration:	03:08:15
+		Location:	-23.51700 -46.63691
+
+	IVPA1
+		Images:	6220
+		Time:	20.09.2025 07:24:45 until 20.09.2025 14:16:00
+		Duration:	06:51:15
+		Location:	-23.51700 -46.63691
+
+(2) - Medalwall
+	VAR1
+		Images:	1114
+		Time:	20.09.2025 08:56:58 until 20.09.2025 14:20:54
+		Duration:	05:23:56
+		Location:	-23.51700 -46.63691
+
+	IVPA2
+		Images:	1387
+		Time:	20.09.2025 14:47:27 until 20.09.2025 18:00:09
+		Duration:	03:12:42
+		Location:	-23.51700 -46.63691
+
+	EGG5
+		Images:	518
+		Time:	20.09.2025 17:59:59 until 20.09.2025 19:44:36
+		Duration:	01:44:37
+		Location:	-23.51700 -46.63691
+
+(3) - Run
+	FO1
+		Images:	617
+		Time:	20.09.2025 15:36:57 until 20.09.2025 19:02:49
+		Duration:	03:25:52
+		Location:	-23.51700 -46.63691
+
+(4) - Station 2 SLED PUSH
+	MAT1
+		Images:	762
+		Time:	20.09.2025 08:57:09 until 20.09.2025 09:39:34
+		Duration:	00:42:25
+		Location:	-23.51700 -46.63691
+
+	MATS2
+		Images:	3475
+		Time:	20.09.2025 12:10:32 until 20.09.2025 18:08:33
+		Duration:	05:58:01
+		Location:	-23.51700 -46.63691
+
+	GAPA2
+		Images:	1847
+		Time:	20.09.2025 12:10:37 until 20.09.2025 18:08:48
+		Duration:	05:58:11
+		Location:	-23.51700 -46.63691
+
+	EMAG1
+		Images:	2933
+		Time:	20.09.2025 08:14:22 until 20.09.2025 13:08:52
+		Duration:	04:54:30
+		Location:	-23.51700 -46.63691
+
+	EGG1
+		Images:	370
+		Time:	20.09.2025 08:56:21 until 20.09.2025 16:07:49
+		Duration:	07:11:28
+		Location:	-23.51700 -46.63691
+
+	SGD1
+		Images:	2341
+		Time:	20.09.2025 08:12:14 until 20.09.2025 12:14:28
+		Duration:	04:02:14
+		Location:	-23.51700 -46.63691
+
+(5) - Station 7 SANDBAG LUNGES
+	NIMA1
+		Images:	1490
+		Time:	20.09.2025 07:59:23 until 20.09.2025 13:28:55
+		Duration:	05:29:32
+		Location:	-23.51700 -46.63691
+
+	SAM3
+		Images:	2341
+		Time:	20.09.2025 10:38:14 until 20.09.2025 17:46:33
+		Duration:	07:08:19
+		Location:	-23.51700 -46.63691
+
+	PM2
+		Images:	1680
+		Time:	20.09.2025 13:30:41 until 20.09.2025 15:39:18
+		Duration:	02:08:37
+		Location:	-23.51700 -46.63691
+
+	DANG3
+		Images:	893
+		Time:	20.09.2025 10:37:25 until 20.09.2025 17:49:37
+		Duration:	07:12:12
+		Location:	-23.51700 -46.63691
+
+	HGU2
+		Images:	2024
+		Time:	20.09.2025 07:27:22 until 20.09.2025 19:06:17
+		Duration:	11:38:55
+		Location:	-23.51700 -46.63691
+
+(6) - Station 1 SKIERG
+	SAM1
+		Images:	1872
+		Time:	20.09.2025 08:59:08 until 20.09.2025 15:53:45
+		Duration:	06:54:37
+		Location:	-23.51700 -46.63691
+
+	MAT4
+		Images:	1408
+		Time:	20.09.2025 11:45:40 until 20.09.2025 13:08:09
+		Duration:	01:22:29
+		Location:	-23.51700 -46.63691
+
+	PHM2
+		Images:	833
+		Time:	20.09.2025 13:36:53 until 20.09.2025 17:56:59
+		Duration:	04:20:06
+		Location:	-23.51700 -46.63691
+
+	THAT2
+		Images:	1989
+		Time:	20.09.2025 13:32:49 until 20.09.2025 17:57:00
+		Duration:	04:24:11
+		Location:	-23.51700 -46.63691
+
+	GAPA1
+		Images:	1075
+		Time:	20.09.2025 08:00:04 until 20.09.2025 11:35:01
+		Duration:	03:34:57
+		Location:	-23.51700 -46.63691
+
+	DANG2
+		Images:	696
+		Time:	20.09.2025 08:59:10 until 20.09.2025 16:09:46
+		Duration:	07:10:36
+		Location:	-23.51700 -46.63691
+
+	MATS1
+		Images:	2938
+		Time:	20.09.2025 08:03:47 until 20.09.2025 11:30:04
+		Duration:	03:26:17
+		Location:	-23.51700 -46.63691
+
+	EGG4
+		Images:	1043
+		Time:	20.09.2025 11:45:11 until 20.09.2025 13:30:32
+		Duration:	01:45:21
+		Location:	-23.51700 -46.63691
+
+(7) - Station 3 SLED PULL
+	NIMA2
+		Images:	830
+		Time:	20.09.2025 14:21:35 until 20.09.2025 18:15:48
+		Duration:	03:54:13
+		Location:	-23.51700 -46.63691
+
+	SAM2
+		Images:	3496
+		Time:	20.09.2025 09:49:25 until 20.09.2025 16:57:59
+		Duration:	07:08:34
+		Location:	-23.51700 -46.63691
+
+	DANG1
+		Images:	1095
+		Time:	20.09.2025 09:50:28 until 20.09.2025 13:09:09
+		Duration:	03:18:41
+		Location:	-23.51700 -46.63691
+
+	EMAG2
+		Images:	1647
+		Time:	20.09.2025 15:29:11 until 20.09.2025 18:16:27
+		Duration:	02:47:16
+		Location:	-23.51700 -46.63691
+
+	JCSH1
+		Images:	2747
+		Time:	20.09.2025 08:02:38 until 20.09.2025 12:20:07
+		Duration:	04:17:29
+		Location:	-23.51700 -46.63691
+
+	MLEI1
+		Images:	2205
+		Time:	20.09.2025 08:01:44 until 20.09.2025 12:21:07
+		Duration:	04:19:23
+		Location:	-23.51700 -46.63691
+
+(8) - Station 4 ROWING
+	SGD2
+		Images:	2591
+		Time:	20.09.2025 12:54:45 until 20.09.2025 18:40:13
+		Duration:	05:45:28
+		Location:	-23.51700 -46.63691
+
+	MAT2
+		Images:	683
+		Time:	20.09.2025 09:52:41 until 20.09.2025 10:34:37
+		Duration:	00:41:56
+		Location:	-23.51700 -46.63691
+
+	EGG2
+		Images:	620
+		Time:	20.09.2025 09:52:27 until 20.09.2025 16:52:29
+		Duration:	07:00:02
+		Location:	-23.51700 -46.63691
+
+	EMAG3
+		Images:	2663
+		Time:	20.09.2025 13:09:02 until 20.09.2025 15:23:13
+		Duration:	02:14:11
+		Location:	-23.51700 -46.63691
+
+	PHM1
+		Images:	1825
+		Time:	20.09.2025 08:09:33 until 20.09.2025 12:58:31
+		Duration:	04:48:58
+		Location:	-23.51700 -46.63691
+
+	THAT1
+		Images:	2711
+		Time:	20.09.2025 08:00:18 until 20.09.2025 12:58:04
+		Duration:	04:57:46
+		Location:	-23.51700 -46.63691
+
+(9) - Station 6 FARMERS CARRY
+	MAT1LS1
+		Images:	6085
+		Time:	20.09.2025 08:54:20 until 20.09.2025 15:28:14
+		Duration:	06:33:54
+		Location:	-23.51700 -46.63691
+
+	DANG1LS1
+		Images:	1438
+		Time:	20.09.2025 09:44:18 until 20.09.2025 15:48:33
+		Duration:	06:04:15
+		Location:	-23.51700 -46.63691
+
+(10) - Station 8 WALL BALLS
+	SAM4
+		Images:	1571
+		Time:	20.09.2025 11:32:02 until 20.09.2025 19:21:34
+		Duration:	07:49:32
+		Location:	-23.51700 -46.63691
+
+	EGG3
+		Images:	473
+		Time:	20.09.2025 10:39:30 until 20.09.2025 17:47:33
+		Duration:	07:08:03
+		Location:	-23.51700 -46.63691
+
+	MAT3
+		Images:	490
+		Time:	20.09.2025 10:39:46 until 20.09.2025 11:17:15
+		Duration:	00:37:29
+		Location:	-23.51700 -46.63691
+
+	JCSH2
+		Images:	2814
+		Time:	20.09.2025 12:54:11 until 20.09.2025 19:21:44
+		Duration:	06:27:33
+		Location:	-23.51700 -46.63691
+
+	MLEI2
+		Images:	2407
+		Time:	20.09.2025 12:50:50 until 20.09.2025 15:37:43
+		Duration:	02:46:53
+		Location:	-23.51700 -46.63691
+
+	HGU1
+		Images:	2400
+		Time:	20.09.2025 08:26:26 until 20.09.2025 12:50:19
+		Duration:	04:23:53
+		Location:	-23.51700 -46.63691
+
+	PM1
+		Images:	3423
+		Time:	20.09.2025 08:14:39 until 20.09.2025 12:48:36
+		Duration:	04:33:57
+		Location:	-23.51700 -46.63691
+

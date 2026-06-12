@@ -1,0 +1,107 @@
+EventId: 14692
+Spots: 15
+Total Images: 95520
+Time:	01.01.0001 23:00:00 to 01.06.2025 12:38:15
+Duration: 739401.13:38:15
+
+(1) - Obstacle 5 Olypmus
+	MTLY1
+		Images:	5828
+		Time:	31.05.2025 07:22:18 until 31.05.2025 14:02:47
+		Duration:	06:40:29
+		Location:	36.58477 -121.69135
+
+	DVAL1
+		Images:	5896
+		Time:	31.05.2025 07:24:12 until 01.06.2025 06:44:04
+		Duration:	23:19:52
+		Location:	36.58477 -121.69135
+
+(2) - Obstacle 7 Twister
+	MKI1
+		Images:	15471
+		Time:	30.05.2025 21:28:30 until 31.05.2025 14:28:30
+		Duration:	17:00:00
+		Location:	36.58989 -121.69215
+
+	MCAR1
+		Images:	3536
+		Time:	31.05.2025 08:09:50 until 31.05.2025 13:44:18
+		Duration:	05:34:28
+		Location:	36.58989 -121.69215
+
+	MCAR1IMP1
+		Images:	15
+		Time:	31.05.2025 18:51:24 until 31.05.2025 18:51:50
+		Duration:	00:00:26
+		Location:	36.58989 -121.69215
+
+(3) - Obstacle 8 Bender
+	DDS1
+		Images:	6853
+		Time:	30.05.2025 21:27:59 until 01.06.2025 07:19:22
+		Duration:	1.09:51:23
+		Location:	36.59263 -121.69384
+
+(4) - Obstacle 11 Dunk Wall
+	DDC1
+		Images:	8898
+		Time:	30.05.2025 15:05:00 until 31.05.2025 15:02:24
+		Duration:	23:57:24
+		Location:	36.59815 -121.69272
+
+(5) - Obstacle 12 Bucket Carry
+	TUD1
+		Images:	5655
+		Time:	31.05.2025 07:12:55 until 01.06.2025 07:05:36
+		Duration:	23:52:41
+		Location:	36.59772 -121.69188
+
+(6) - Obstacle 14 Inverted Wall
+	JO1
+		Images:	5177
+		Time:	30.05.2025 22:31:37 until 31.05.2025 16:03:09
+		Duration:	17:31:32
+		Location:	36.59978 -121.69246
+
+(7) - Obstacle 16 Sandbag Carry
+	HOG1
+		Images:	14207
+		Time:	31.05.2025 06:54:37 until 31.05.2025 16:17:53
+		Duration:	09:23:16
+		Location:	36.60146 -121.69455
+
+(8) - Obstacle 22 Multi-Rig
+	DMCI1
+		Images:	6126
+		Time:	31.05.2025 06:20:28 until 31.05.2025 16:39:02
+		Duration:	10:18:34
+		Location:	36.60396 -121.69286
+
+	JWI1
+		Images:	3142
+		Time:	30.05.2025 20:38:20 until 01.06.2025 07:20:28
+		Duration:	1.10:42:08
+		Location:	36.60396 -121.69286
+
+(9) - Obstacle 23 Barbed Wire Crawl
+	MATA1
+		Images:	4587
+		Time:	01.01.0001 23:00:00 until 01.06.2025 08:11:46
+		Duration:	739401.09:11:46
+		Location:	36.60364 -121.69335
+
+(10) - Obstacle 25 Craft A-Frame Cargo
+	DEST1
+		Images:	7885
+		Time:	31.05.2025 06:54:52 until 31.05.2025 17:12:13
+		Duration:	10:17:21
+		Location:	36.60381 -121.69462
+
+(11) - Herotent
+	HJP1
+		Images:	2237
+		Time:	31.05.2025 06:41:29 until 31.05.2025 17:19:40
+		Duration:	10:38:11
+		Location:	36.60323 -121.69536
+

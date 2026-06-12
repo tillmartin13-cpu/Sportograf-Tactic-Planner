@@ -1,0 +1,264 @@
+EventId: 15974
+Spots: 54
+Total Images: 226179
+Time:	01.01.0001 23:00:00 to 01.06.2025 23:05:46
+Duration: 739402.00:05:46
+
+(1) - Start
+	SHAN1
+	JBIL1
+		Images:	914
+		Time:	01.06.2025 05:57:18 until 01.06.2025 07:27:06
+		Duration:	01:29:48
+		Location:	NULL NULL
+
+(2) - 2.0 mi Heading into Douglas Park
+	JALL1
+		Images:	4460
+		Time:	01.06.2025 07:01:16 until 01.06.2025 07:56:37
+		Duration:	00:55:21
+		Location:	NULL NULL
+
+	JMAC1
+	JLYO1
+		Images:	1824
+		Time:	01.06.2025 07:08:41 until 01.06.2025 08:00:35
+		Duration:	00:51:54
+		Location:	NULL NULL
+
+(3) - 5.7 mi Going North on Hamlin Blvd
+	BSEB1
+		Images:	3240
+		Time:	01.06.2025 07:04:19 until 01.06.2025 07:44:37
+		Duration:	00:40:18
+		Location:	NULL NULL
+
+	BSEB1LS1
+		Images:	2274
+		Time:	01.06.2025 08:11:07 until 01.06.2025 08:51:02
+		Duration:	00:39:55
+		Location:	NULL NULL
+
+	CSOU1
+		Images:	5413
+		Time:	01.06.2025 07:08:45 until 01.06.2025 08:31:27
+		Duration:	01:22:42
+		Location:	NULL NULL
+
+	JPAT1
+		Images:	3394
+		Time:	01.06.2025 07:12:19 until 01.06.2025 08:41:59
+		Duration:	01:29:40
+		Location:	NULL NULL
+
+	HALL1
+		Images:	5234
+		Time:	01.06.2025 07:01:02 until 01.06.2025 08:22:20
+		Duration:	01:21:18
+		Location:	NULL NULL
+
+(4) - 6.1 mi Half Way Point
+	OSAL1
+	OSAL1LS1
+	JDIE1
+	MKON1
+(5) - 12.0 mi 1 mile to Finish
+	OSAL2
+	OSAL2LS1
+	JDIE2
+	MKON2
+(6) - 7.0 mi North on Sacremento Blvd
+	TWEY1
+		Images:	7642
+		Time:	01.06.2025 07:00:44 until 01.06.2025 10:54:13
+		Duration:	03:53:29
+		Location:	NULL NULL
+
+	TWEY1LS1
+		Images:	2966
+		Time:	01.06.2025 08:18:22 until 01.06.2025 09:12:04
+		Duration:	00:53:42
+		Location:	NULL NULL
+
+	KALI1
+		Images:	8752
+		Time:	01.06.2025 07:17:47 until 01.06.2025 10:33:11
+		Duration:	03:15:24
+		Location:	NULL NULL
+
+(7) - 0.0 km
+	TWEY1LS2
+		Images:	7034
+		Time:	01.06.2025 09:12:27 until 01.06.2025 11:10:40
+		Duration:	01:58:13
+		Location:	NULL NULL
+
+(8) - 12.6 mi Garfield Park, almost there!
+	JALL2
+		Images:	6203
+		Time:	01.06.2025 09:03:40 until 01.06.2025 10:54:16
+		Duration:	01:50:36
+		Location:	NULL NULL
+
+	JALL2LS1
+		Images:	6935
+		Time:	01.06.2025 09:58:00 until 01.06.2025 11:55:17
+		Duration:	01:57:17
+		Location:	NULL NULL
+
+	JMAC2
+	JLYO2
+		Images:	3857
+		Time:	01.06.2025 08:42:15 until 01.06.2025 10:55:28
+		Duration:	02:13:13
+		Location:	NULL NULL
+
+(9) - 13.0 mi 200 meters to Finish
+	BSEB2
+	BSEB2LS1
+		Images:	8443
+		Time:	01.06.2025 08:58:22 until 01.06.2025 12:10:36
+		Duration:	03:12:14
+		Location:	NULL NULL
+
+	CSOU2
+	JPAT2
+		Images:	8196
+		Time:	01.06.2025 08:46:47 until 01.06.2025 11:10:03
+		Duration:	02:23:16
+		Location:	NULL NULL
+
+	HALL2
+(10) - 13.1 mi Front of Finish Line
+	SHAN2
+		Images:	7683
+		Time:	01.06.2025 08:00:55 until 01.06.2025 11:37:50
+		Duration:	03:36:55
+		Location:	NULL NULL
+
+	SHAN2LS1
+		Images:	2122
+		Time:	01.06.2025 09:07:00 until 01.06.2025 11:40:39
+		Duration:	02:33:39
+		Location:	NULL NULL
+
+	SHAN2LS2
+	SHAN2LS3
+		Images:	8887
+		Time:	01.06.2025 09:11:20 until 01.06.2025 12:13:09
+		Duration:	03:01:49
+		Location:	NULL NULL
+
+	MCRA1
+		Images:	6704
+		Time:	01.06.2025 08:01:25 until 01.06.2025 11:10:46
+		Duration:	03:09:21
+		Location:	NULL NULL
+
+	IVEG1
+		Images:	10862
+		Time:	01.06.2025 07:59:51 until 01.06.2025 11:09:43
+		Duration:	03:09:52
+		Location:	NULL NULL
+
+	JBIL2
+		Images:	19330
+		Time:	01.06.2025 08:00:55 until 01.06.2025 11:10:24
+		Duration:	03:09:29
+		Location:	NULL NULL
+
+	ANG1
+		Images:	7943
+		Time:	01.06.2025 09:04:09 until 01.06.2025 11:45:41
+		Duration:	02:41:32
+		Location:	NULL NULL
+
+(11) - 13.1 mi
+	ANG1LS2
+		Images:	11893
+		Time:	01.06.2025 07:35:49 until 01.06.2025 11:18:34
+		Duration:	03:42:45
+		Location:	NULL NULL
+
+(12) - Finish
+	ANG1LS1
+		Images:	12305
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+	CCAS1
+		Images:	14394
+		Time:	01.06.2025 07:40:58 until 01.06.2025 11:06:49
+		Duration:	03:25:51
+		Location:	NULL NULL
+
+	CCAS1LS1
+		Images:	12898
+		Time:	01.01.0001 23:00:00 until 01.01.2014 21:03:01
+		Duration:	735232.22:03:01
+		Location:	NULL NULL
+
+(13) - Ceremony
+	CMAS1
+		Images:	1277
+		Time:	01.06.2025 06:20:17 until 01.06.2025 10:07:27
+		Duration:	03:47:10
+		Location:	NULL NULL
+
+	MELL1
+		Images:	4385
+		Time:	01.06.2025 07:13:52 until 01.06.2025 11:04:28
+		Duration:	03:50:36
+		Location:	NULL NULL
+
+	SMIR1
+		Images:	3398
+		Time:	01.06.2025 18:51:35 until 01.06.2025 23:05:46
+		Duration:	04:14:11
+		Location:	NULL NULL
+
+	EHUD1
+		Images:	5437
+		Time:	01.06.2025 06:26:35 until 01.06.2025 10:23:21
+		Duration:	03:56:46
+		Location:	NULL NULL
+
+	RJAC1
+		Images:	986
+		Time:	01.06.2025 08:29:48 until 01.06.2025 11:23:56
+		Duration:	02:54:08
+		Location:	NULL NULL
+
+	RAND1
+		Images:	1647
+		Time:	01.06.2025 07:37:01 until 01.06.2025 11:12:53
+		Duration:	03:35:52
+		Location:	NULL NULL
+
+	JNER1
+		Images:	1677
+		Time:	01.06.2025 05:50:41 until 01.06.2025 10:07:40
+		Duration:	04:16:59
+		Location:	NULL NULL
+
+	MMIR1
+		Images:	1226
+		Time:	31.05.2025 19:18:51 until 31.05.2025 23:12:25
+		Duration:	03:53:34
+		Location:	NULL NULL
+
+	JPHI1
+		Images:	1293
+		Time:	01.06.2025 06:40:28 until 01.06.2025 10:15:03
+		Duration:	03:34:35
+		Location:	NULL NULL
+
+	BRAN1
+		Images:	3051
+		Time:	01.06.2025 07:15:02 until 01.06.2025 11:03:10
+		Duration:	03:48:08
+		Location:	NULL NULL
+
+(14) - Impressions / Pano
+	PANO1

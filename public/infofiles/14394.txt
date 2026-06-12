@@ -1,0 +1,78 @@
+EventId: 14394
+Spots: 12
+Total Images: 6041
+Time:	18.07.2025 19:41:07 to 18.07.2025 23:42:07
+Duration: 04:01:00
+
+(1) - Start
+	ALN1
+		Images:	886
+		Time:	18.07.2025 19:46:39 until 18.07.2025 20:50:01
+		Duration:	01:03:22
+		Location:	50.33359 6.94459
+
+	ALN1LS2
+		Images:	182
+		Time:	18.07.2025 19:44:41 until 18.07.2025 20:50:55
+		Duration:	01:06:14
+		Location:	50.33359 6.94459
+
+	ALN1LS1
+		Images:	193
+		Time:	18.07.2025 19:44:41 until 18.07.2025 20:51:39
+		Duration:	01:06:58
+		Location:	50.33359 6.94459
+
+(2) - Finish
+	ALN2
+		Images:	463
+		Time:	18.07.2025 21:08:48 until 18.07.2025 21:33:30
+		Duration:	00:24:42
+		Location:	50.33359 6.94459
+
+	ALN2LS2
+		Images:	207
+		Time:	18.07.2025 20:58:23 until 18.07.2025 21:33:34
+		Duration:	00:35:11
+		Location:	50.33359 6.94459
+
+	ALN2LS1
+		Images:	256
+		Time:	18.07.2025 20:59:00 until 18.07.2025 21:33:59
+		Duration:	00:34:59
+		Location:	50.33359 6.94459
+
+(3) - 8,0 km Fuchsröhre
+	DRI1DRONE1
+		Images:	17
+		Time:	18.07.2025 21:00:41 until 18.07.2025 23:42:07
+		Duration:	02:41:26
+		Location:	50.3638 6.9303
+
+	DRI1LS1
+		Images:	733
+		Time:	18.07.2025 19:50:06 until 18.07.2025 21:02:09
+		Duration:	01:12:03
+		Location:	50.3638 6.9303
+
+	DRI1
+		Images:	1622
+		Time:	18.07.2025 20:09:40 until 18.07.2025 20:58:29
+		Duration:	00:48:49
+		Location:	50.3638 6.9303
+
+(4) - 7,0 km Aremberg
+	JKE1
+		Images:	1325
+		Time:	18.07.2025 19:41:07 until 18.07.2025 20:55:47
+		Duration:	01:14:40
+		Location:	50.35802 6.92002
+
+	JKE1LS1
+		Images:	157
+		Time:	18.07.2025 19:57:34 until 18.07.2025 20:57:15
+		Duration:	00:59:41
+		Location:	50.35802 6.92002
+
+(5) - Impressions / Pano
+	PANO1

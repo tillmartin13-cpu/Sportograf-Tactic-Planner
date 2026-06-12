@@ -1,0 +1,159 @@
+EventId: 14774
+Spots: 24
+Total Images: 128787
+Time:	05.09.2025 16:01:06 to 07.09.2025 14:24:49
+Duration: 1.22:23:43
+
+(1) - Piratenplanke
+	BK1
+		Images:	1304
+		Time:	06.09.2025 10:11:08 until 07.09.2025 14:24:49
+		Duration:	1.04:13:41
+		Location:	53.55484 10.08920
+
+	FES1
+		Images:	1289
+		Time:	06.09.2025 09:34:09 until 06.09.2025 11:38:29
+		Duration:	02:04:20
+		Location:	53.55484 10.08920
+
+	PDD1
+		Images:	4933
+		Time:	06.09.2025 09:47:32 until 07.09.2025 09:37:10
+		Duration:	23:49:38
+		Location:	53.55484 10.08920
+
+(2) - Schaumparty
+	JKOR1
+		Images:	14387
+		Time:	05.09.2025 19:23:45 until 06.09.2025 16:48:11
+		Duration:	21:24:26
+		Location:	53.56026 10.08787
+
+	JKOR1LS1
+		Images:	8072
+		Time:	05.09.2025 19:27:15 until 07.09.2025 09:54:05
+		Duration:	1.14:26:50
+		Location:	53.56026 10.08787
+
+(3) - Schlammbecken
+	FES2
+		Images:	543
+		Time:	06.09.2025 14:22:42 until 06.09.2025 14:42:41
+		Duration:	00:19:59
+		Location:	53.55864 10.08438
+
+	ADRE1
+		Images:	6904
+		Time:	06.09.2025 09:58:33 until 07.09.2025 10:15:52
+		Duration:	1.00:17:19
+		Location:	53.55864 10.08438
+
+	QCC1
+		Images:	6008
+		Time:	06.09.2025 09:55:05 until 07.09.2025 09:28:32
+		Duration:	23:33:27
+		Location:	53.55864 10.08438
+
+(4) - Reifenteppich
+	RWE1
+		Images:	7828
+		Time:	06.09.2025 08:56:15 until 07.09.2025 09:52:59
+		Duration:	1.00:56:44
+		Location:	53.55767 10.08254
+
+(5) - Gitterbecken
+	FES3
+		Images:	2229
+		Time:	06.09.2025 14:42:42 until 06.09.2025 15:58:15
+		Duration:	01:15:33
+		Location:	53.55881 10.08455
+
+	ASE1
+		Images:	5127
+		Time:	06.09.2025 08:48:47 until 07.09.2025 12:17:54
+		Duration:	1.03:29:07
+		Location:	53.55881 10.08455
+
+	DWE1
+		Images:	2612
+		Time:	06.09.2025 09:25:13 until 06.09.2025 17:09:32
+		Duration:	07:44:19
+		Location:	53.55881 10.08455
+
+	DWE1LS2
+		Images:	3231
+		Time:	06.09.2025 09:56:26 until 06.09.2025 16:58:24
+		Duration:	07:01:58
+		Location:	53.55881 10.08455
+
+	DWE1LS1
+		Images:	3005
+		Time:	06.09.2025 09:55:27 until 06.09.2025 17:09:04
+		Duration:	07:13:37
+		Location:	53.55881 10.08455
+
+(6) - Tauchbecken
+	MNO1
+		Images:	16274
+		Time:	05.09.2025 16:01:06 until 07.09.2025 10:53:48
+		Duration:	1.18:52:42
+		Location:	53.55767 10.08254
+
+(7) - Krabbelstrecke
+	AOA1
+		Images:	4789
+		Time:	06.09.2025 09:58:57 until 06.09.2025 17:07:17
+		Duration:	07:08:20
+		Location:	53.55950 10.08475
+
+	PLA1
+		Images:	7264
+		Time:	06.09.2025 08:50:02 until 07.09.2025 09:43:37
+		Duration:	1.00:53:35
+		Location:	53.55950 10.08475
+
+(8) - Finish
+	BK2
+		Images:	210
+		Time:	06.09.2025 14:30:56 until 06.09.2025 15:50:37
+		Duration:	01:19:41
+		Location:	53.55925 10.08155
+
+	RYS1LS2
+		Images:	3582
+		Time:	06.09.2025 09:04:31 until 06.09.2025 17:44:22
+		Duration:	08:39:51
+		Location:	53.55925 10.08155
+
+	RYS1LS1
+		Images:	3995
+		Time:	06.09.2025 08:44:20 until 07.09.2025 09:42:01
+		Duration:	1.00:57:41
+		Location:	53.55925 10.08155
+
+	BK1DRONE1
+		Images:	26
+		Time:	06.09.2025 13:57:24 until 07.09.2025 13:58:57
+		Duration:	1.00:01:33
+		Location:	53.55925 10.08155
+
+	MELS1
+		Images:	12625
+		Time:	06.09.2025 08:51:34 until 06.09.2025 17:44:23
+		Duration:	08:52:49
+		Location:	53.55925 10.08155
+
+(9) - Herotent
+	RYS1
+		Images:	2843
+		Time:	06.09.2025 10:01:19 until 07.09.2025 10:31:18
+		Duration:	1.00:29:59
+		Location:	53.55925 10.08155
+
+	AGA1
+		Images:	9707
+		Time:	06.09.2025 10:01:33 until 07.09.2025 13:44:23
+		Duration:	1.03:42:50
+		Location:	53.55925 10.08155
+

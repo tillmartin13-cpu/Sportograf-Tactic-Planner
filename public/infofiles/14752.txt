@@ -1,0 +1,132 @@
+EventId: 14752
+Spots: 19
+Total Images: 39349
+Time:	11.04.2025 19:51:39 to 13.04.2025 14:14:11
+Duration: 1.18:22:32
+
+(1) - Impressions / Pano
+	PANO1
+		Images:	2
+		Time:	12.04.2025 08:29:34 until 12.04.2025 08:30:49
+		Duration:	00:01:15
+		Location:	NULL NULL
+
+	MCO1DRONE1
+		Images:	22
+		Time:	12.04.2025 08:25:44 until 13.04.2025 08:37:56
+		Duration:	1.00:12:12
+		Location:	NULL NULL
+
+(2) - Obstacle 1 Chain Carry
+	EO1LS1
+		Images:	671
+		Time:	12.04.2025 09:08:43 until 12.04.2025 13:01:42
+		Duration:	03:52:59
+		Location:	43.36111 12.58742
+
+	EO1
+		Images:	1482
+		Time:	12.04.2025 09:02:01 until 12.04.2025 13:10:24
+		Duration:	04:08:23
+		Location:	43.36111 12.58742
+
+(3) - Obstacle 2 Ape Hanger
+	CSI1
+		Images:	1704
+		Time:	12.04.2025 09:30:49 until 12.04.2025 13:42:20
+		Duration:	04:11:31
+		Location:	43.34614 12.60859
+
+(4) - Obstacle 3 Atlas
+	MCO1
+		Images:	1955
+		Time:	12.04.2025 09:23:19 until 13.04.2025 09:59:12
+		Duration:	1.00:35:53
+		Location:	43.34684 12.60809
+
+(5) - Obstacle 4 Monkey Bar
+	DEC1
+		Images:	4156
+		Time:	12.04.2025 10:28:40 until 12.04.2025 17:04:41
+		Duration:	06:36:01
+		Location:	43.35332 12.57896
+
+(6) - Obstacle 5 A-Frame
+	FBO1
+		Images:	3194
+		Time:	12.04.2025 08:32:38 until 12.04.2025 17:05:53
+		Duration:	08:33:15
+		Location:	43.35339 12.57849
+
+(7) - Obstacle 6 Dunk Wall
+	MAC1
+		Images:	2531
+		Time:	12.04.2025 08:33:29 until 13.04.2025 09:53:41
+		Duration:	1.01:20:12
+		Location:	43.35330 12.57298
+
+(8) - Obstacle 7 Sand Bag
+	CSI2LS1
+		Images:	1089
+		Time:	12.04.2025 14:49:10 until 12.04.2025 16:38:53
+		Duration:	01:49:43
+		Location:	43.35066 12.57098
+
+	CSI2
+		Images:	1622
+		Time:	12.04.2025 14:41:46 until 12.04.2025 17:54:09
+		Duration:	03:12:23
+		Location:	43.35066 12.57098
+
+(9) - Obstacle 8 Bucket Carry
+	BRP1
+		Images:	6574
+		Time:	11.04.2025 19:51:39 until 13.04.2025 09:43:18
+		Duration:	1.13:51:39
+		Location:	43.35100 12.57332
+
+	BRP1LS1
+		Images:	1478
+		Time:	12.04.2025 09:39:13 until 12.04.2025 18:11:24
+		Duration:	08:32:11
+		Location:	43.35100 12.57332
+
+	BRP1LS2
+		Images:	1569
+		Time:	12.04.2025 09:37:38 until 12.04.2025 18:10:43
+		Duration:	08:33:05
+		Location:	43.35100 12.57332
+
+(10) - Obstacle 8 Burbed Wire
+	MCO2
+		Images:	1829
+		Time:	12.04.2025 14:44:24 until 12.04.2025 17:41:43
+		Duration:	02:57:19
+		Location:	43.35105 12.57121
+
+(11) - Obstacle 9 Fire Jump
+	MMI1
+		Images:	3160
+		Time:	12.04.2025 10:30:50 until 13.04.2025 14:14:11
+		Duration:	1.03:43:21
+		Location:	43.35255 12.57322
+
+	MMI1LS2
+		Images:	1238
+		Time:	12.04.2025 10:01:06 until 12.04.2025 18:19:32
+		Duration:	08:18:26
+		Location:	43.35255 12.57322
+
+	MMI1LS1
+		Images:	1925
+		Time:	12.04.2025 09:45:55 until 12.04.2025 18:19:56
+		Duration:	08:34:01
+		Location:	43.35255 12.57322
+
+(12) - Herotent
+	FOS1
+		Images:	3148
+		Time:	12.04.2025 08:18:45 until 13.04.2025 09:10:26
+		Duration:	1.00:51:41
+		Location:	43.35274 12.57342
+

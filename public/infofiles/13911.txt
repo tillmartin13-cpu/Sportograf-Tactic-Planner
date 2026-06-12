@@ -1,0 +1,102 @@
+EventId: 13911
+Spots: 15
+Total Images: 43552
+Time:	28.06.2025 07:01:09 to 28.06.2025 19:11:04
+Duration: 12:09:55
+
+(1) - A-Frame
+	JUH1
+		Images:	4031
+		Time:	28.06.2025 09:34:10 until 28.06.2025 17:48:00
+		Duration:	08:13:50
+		Location:	48.54856 13.43608
+
+(2) - Seifengrube
+	LTA1
+		Images:	4728
+		Time:	28.06.2025 09:47:23 until 28.06.2025 15:40:29
+		Duration:	05:53:06
+		Location:	48.54880 13.43658
+
+(3) - Finish
+	MJO1
+		Images:	7882
+		Time:	28.06.2025 07:01:09 until 28.06.2025 18:48:14
+		Duration:	11:47:05
+		Location:	48.55751 13.41233
+
+	YS4LS1
+		Images:	246
+		Time:	28.06.2025 17:16:03 until 28.06.2025 19:09:22
+		Duration:	01:53:19
+		Location:	48.55751 13.41233
+
+(4) - Schlammkrabbeln
+	RSJ1
+		Images:	4541
+		Time:	28.06.2025 11:00:35 until 28.06.2025 18:02:03
+		Duration:	07:01:28
+		Location:	48.55304 13.43154
+
+(5) - mit Seil über Wasser
+	RSJ1LS1
+		Images:	9537
+		Time:	28.06.2025 10:52:44 until 28.06.2025 17:15:44
+		Duration:	06:23:00
+		Location:	48.55304 13.43154
+
+(6) - Halfpipe
+	SISA1
+		Images:	3795
+		Time:	28.06.2025 08:44:06 until 28.06.2025 16:05:48
+		Duration:	07:21:42
+		Location:	48.54669 13.43780
+
+(7) - Brücke erklimmen
+	YS1
+		Images:	5163
+		Time:	28.06.2025 10:44:20 until 28.06.2025 15:14:54
+		Duration:	04:30:34
+		Location:	48.53022 13.44043
+
+(8) - Impressions / Pano
+	YS1DRONE1
+		Images:	18
+		Time:	28.06.2025 10:33:06 until 28.06.2025 13:29:23
+		Duration:	02:56:17
+		Location:	NULL NULL
+
+	PANO1
+(9) - vor Brückenhindernis
+	YS1LS1
+		Images:	1282
+		Time:	28.06.2025 10:14:13 until 28.06.2025 15:42:44
+		Duration:	05:28:31
+		Location:	48.53083 13.44342
+
+(10) - nach Brückenhindernis
+	YS2LS2
+		Images:	885
+		Time:	28.06.2025 09:48:57 until 28.06.2025 17:15:01
+		Duration:	07:26:04
+		Location:	48.53343 13.44691
+
+	YS2LS1
+		Images:	902
+		Time:	28.06.2025 09:50:56 until 28.06.2025 15:24:07
+		Duration:	05:33:11
+		Location:	48.53343 13.44691
+
+(11) - Zielgerade
+	YS3LS1
+		Images:	270
+		Time:	28.06.2025 17:03:20 until 28.06.2025 19:10:04
+		Duration:	02:06:44
+		Location:	48.55753 13.41138
+
+	YS3LS2
+		Images:	272
+		Time:	28.06.2025 17:04:20 until 28.06.2025 19:11:04
+		Duration:	02:06:44
+		Location:	48.55753 13.41138
+

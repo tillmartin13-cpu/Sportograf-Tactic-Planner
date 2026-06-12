@@ -1,0 +1,110 @@
+EventId: 14727
+Spots: 16
+Total Images: 41438
+Time:	02.07.2025 18:03:09 to 03.07.2025 20:54:51
+Duration: 1.02:51:42
+
+(1) - Start
+	OAC1
+		Images:	1053
+		Time:	03.07.2025 06:32:51 until 03.07.2025 08:01:31
+		Duration:	01:28:40
+		Location:	42.70770 0.90336
+
+	JMO1
+		Images:	726
+		Time:	02.07.2025 18:39:16 until 03.07.2025 07:44:42
+		Duration:	13:05:26
+		Location:	42.70770 0.90336
+
+(2) - 8,0 km
+	AMRU1
+		Images:	1558
+		Time:	03.07.2025 07:21:34 until 03.07.2025 09:59:14
+		Duration:	02:37:40
+		Location:	42.65075 0.93360
+
+	AMRU1LS1
+		Images:	999
+		Time:	03.07.2025 07:08:17 until 03.07.2025 14:26:41
+		Duration:	07:18:24
+		Location:	42.65075 0.93360
+
+(3) - 13,0 km
+	RAVE1
+		Images:	3539
+		Time:	03.07.2025 08:13:48 until 03.07.2025 11:29:26
+		Duration:	03:15:38
+		Location:	42.62296 0.93160
+
+	RAVE1LS1
+		Images:	2282
+		Time:	03.07.2025 08:08:09 until 03.07.2025 11:38:04
+		Duration:	03:29:55
+		Location:	42.62296 0.93160
+
+(4) - 14,0 km
+	JMP1
+		Images:	4959
+		Time:	02.07.2025 18:03:09 until 03.07.2025 11:34:14
+		Duration:	17:31:05
+		Location:	42.62065 0.93439
+
+	JMP1LS1
+		Images:	1801
+		Time:	03.07.2025 07:56:31 until 03.07.2025 11:26:14
+		Duration:	03:29:43
+		Location:	42.62065 0.93439
+
+	JMP1LS2
+		Images:	2112
+		Time:	03.07.2025 07:46:52 until 03.07.2025 11:27:08
+		Duration:	03:40:16
+		Location:	42.62065 0.93439
+
+(5) - 39,0 km
+	AMRU2
+		Images:	2597
+		Time:	03.07.2025 14:10:48 until 03.07.2025 17:34:39
+		Duration:	03:23:51
+		Location:	42.70067 0.86962
+
+	AMRU2LS1
+		Images:	293
+		Time:	03.07.2025 14:06:49 until 03.07.2025 15:30:23
+		Duration:	01:23:34
+		Location:	42.70067 0.86962
+
+(6) - 40,0 km
+	JMO2
+		Images:	6693
+		Time:	03.07.2025 07:44:42 until 03.07.2025 17:36:00
+		Duration:	09:51:18
+		Location:	42.69800 0.87020
+
+(7) - Finish
+	OAC2
+		Images:	9559
+		Time:	03.07.2025 11:52:10 until 03.07.2025 20:54:51
+		Duration:	09:02:41
+		Location:	42.70115 0.79876
+
+	RAVE2
+		Images:	1228
+		Time:	03.07.2025 15:32:43 until 03.07.2025 20:54:27
+		Duration:	05:21:44
+		Location:	42.70115 0.79876
+
+	RAVE2LS1
+		Images:	2036
+		Time:	03.07.2025 14:32:41 until 03.07.2025 20:45:03
+		Duration:	06:12:22
+		Location:	42.70115 0.79876
+
+(8) - Impressions / Pano
+	PANO1
+		Images:	2
+		Time:	03.07.2025 07:00:02 until 03.07.2025 08:01:24
+		Duration:	01:01:22
+		Location:	42.62065 0.93439
+

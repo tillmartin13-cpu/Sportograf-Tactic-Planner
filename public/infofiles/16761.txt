@@ -1,0 +1,177 @@
+EventId: 16761
+Spots: 26
+Total Images: 101459
+Time:	01.01.0001 23:00:00 to 10.05.2025 16:49:55
+Duration: 739379.17:49:55
+
+(1) - IMP
+	FOS1
+		Images:	975
+		Time:	10.05.2025 08:01:05 until 10.05.2025 10:18:11
+		Duration:	02:17:06
+		Location:	42.71175 10.39497
+
+(2) - CLASSIC / MARATHIN 600 metri Dopo lo start
+	LEBE1
+		Images:	2075
+		Time:	10.05.2025 08:26:54 until 10.05.2025 10:14:35
+		Duration:	01:47:41
+		Location:	42.71471 10.40052
+
+	LEBE2LS1
+		Images:	497
+		Time:	10.05.2025 08:17:59 until 10.05.2025 10:14:51
+		Duration:	01:56:52
+		Location:	42.71471 10.40052
+
+(3) - CLASSIC / MARATHON 2,30 Km dopo lo Start
+	EO1
+		Images:	3621
+		Time:	10.05.2025 09:07:23 until 10.05.2025 10:26:54
+		Duration:	01:19:31
+		Location:	42.71563 10.39381
+
+	EO2LS1
+		Images:	1128
+		Time:	10.05.2025 11:42:56 until 10.05.2025 16:27:39
+		Duration:	04:44:43
+		Location:	42.71563 10.39381
+
+	EO2LS2
+		Images:	1208
+		Time:	10.05.2025 12:12:14 until 10.05.2025 16:15:36
+		Duration:	04:03:22
+		Location:	42.71563 10.39381
+
+(4) - CLASSIC / MARATHON 29,2 Km dopo lo Start
+	FRN1
+		Images:	11658
+		Time:	01.01.0001 23:00:00 until 10.05.2025 13:49:59
+		Duration:	739379.14:49:59
+		Location:	42.71414 10.42550
+
+	FRN1LS1
+		Images:	3839
+		Time:	10.05.2025 09:05:00 until 10.05.2025 13:49:00
+		Duration:	04:44:00
+		Location:	42.71414 10.42550
+
+(5) - CLASSIC / MARATHON 29,3 Km dopo lo Start
+	FRN1LS2
+		Images:	13564
+		Time:	01.01.0001 23:00:00 until 10.05.2025 14:03:36
+		Duration:	739379.15:03:36
+		Location:	42.71450 10.42559
+
+(6) - CLASSIC / MARATHON 29,4 Km dopo lo Start
+	EB1
+		Images:	8247
+		Time:	10.05.2025 09:41:10 until 10.05.2025 16:49:55
+		Duration:	07:08:45
+		Location:	42.71491 10.42671
+
+	EB1LS1
+		Images:	3115
+		Time:	10.05.2025 08:42:03 until 10.05.2025 14:07:32
+		Duration:	05:25:29
+		Location:	42.71491 10.42671
+
+(7) - CLASSIC / MARATHON 29,6 Km dopo lo Start
+	EB1LS2
+		Images:	2259
+		Time:	10.05.2025 09:33:54 until 10.05.2025 14:14:47
+		Duration:	04:40:53
+		Location:	42.71388 10.42844
+
+(8) - CLASSIC 41,8 km dopo lo STart / MARATHON 60,8 Km dopo lo Start
+	AGU1
+		Images:	6005
+		Time:	10.05.2025 11:46:57 until 10.05.2025 15:57:00
+		Duration:	04:10:03
+		Location:	42.71757 10.39337
+
+	AGU1LS1
+		Images:	2587
+		Time:	10.05.2025 09:45:43 until 10.05.2025 16:05:12
+		Duration:	06:19:29
+		Location:	42.71757 10.39337
+
+(9) - CLASSIC 42 km dopo lo STart / MARATHON 61 Km dopo lo Start
+	AGU1LS2
+		Images:	2039
+		Time:	10.05.2025 10:58:53 until 10.05.2025 15:46:25
+		Duration:	04:47:32
+		Location:	42.71757 10.39337
+
+(10) - CLASSIC 42,4 km dopo lo STart / MARATHON 61,4 Km dopo lo Start
+	RABI1
+		Images:	3836
+		Time:	10.05.2025 09:03:04 until 10.05.2025 16:00:09
+		Duration:	06:57:05
+		Location:	42.71720 10.39155
+
+(11) - CLASSIC 42,8 km dopo lo STart / MARATHON 62,3 Km dopo lo Start
+	BRP1
+		Images:	7215
+		Time:	09.05.2025 22:46:52 until 10.05.2025 16:01:54
+		Duration:	17:15:02
+		Location:	42.71561 10.39119
+
+	BRP1LS1
+		Images:	2211
+		Time:	10.05.2025 11:44:57 until 10.05.2025 16:03:13
+		Duration:	04:18:16
+		Location:	42.71561 10.39119
+
+	BRP1LS2
+		Images:	2237
+		Time:	10.05.2025 11:42:13 until 10.05.2025 16:03:11
+		Duration:	04:20:58
+		Location:	42.71561 10.39119
+
+(12) - CLASSIC 44,2 km dopo lo STart / MARATHON 63,7 Km dopo lo Start
+	FOS2
+		Images:	5990
+		Time:	10.05.2025 10:33:24 until 10.05.2025 16:10:56
+		Duration:	05:37:32
+		Location:	42.71175 10.39496
+
+(13) - CLASSIC 45,2 km dopo lo STart / MARATHON 64,8 Km dopo lo Start
+	LEBE2
+		Images:	4322
+		Time:	10.05.2025 11:05:04 until 10.05.2025 16:10:24
+		Duration:	05:05:20
+		Location:	42.71485 10.40467
+
+	LEBE1LS1
+		Images:	1068
+		Time:	10.05.2025 10:35:47 until 10.05.2025 16:12:39
+		Duration:	05:36:52
+		Location:	42.71485 10.40467
+
+(14) - Finish
+	EO2
+		Images:	6170
+		Time:	01.01.0001 23:00:00 until 10.05.2025 16:38:07
+		Duration:	739379.17:38:07
+		Location:	42.71563 10.39381
+
+	EO1LS2
+		Images:	4280
+		Time:	10.05.2025 08:41:06 until 10.05.2025 10:26:53
+		Duration:	01:45:47
+		Location:	42.71563 10.39381
+
+	EO1LS1
+		Images:	1283
+		Time:	01.01.0001 23:00:00 until 10.05.2025 10:26:52
+		Duration:	739379.11:26:52
+		Location:	42.71563 10.39381
+
+(15) - Impressions / Pano
+	FRN1DRONE1
+		Images:	30
+		Time:	10.05.2025 10:11:56 until 10.05.2025 13:16:32
+		Duration:	03:04:36
+		Location:	42.71563 10.39381
+

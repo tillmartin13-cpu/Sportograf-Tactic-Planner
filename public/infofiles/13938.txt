@@ -1,0 +1,137 @@
+EventId: 13938
+Spots: 20
+Total Images: 73929
+Time:	19.09.2025 17:08:51 to 21.09.2025 18:22:05
+Duration: 2.01:13:14
+
+(1) - Swim - Start
+	FBO1
+		Images:	2642
+		Time:	20.09.2025 06:54:23 until 21.09.2025 11:38:08
+		Duration:	1.04:43:45
+		Location:	44.25851 12.36384
+
+	EO1
+		Images:	3655
+		Time:	20.09.2025 06:54:52 until 21.09.2025 12:49:44
+		Duration:	1.05:54:52
+		Location:	44.25851 12.36384
+
+	FME1
+		Images:	3363
+		Time:	20.09.2025 08:21:59 until 20.09.2025 13:09:25
+		Duration:	04:47:26
+		Location:	44.25502 12.36530
+
+	YG1
+		Images:	2145
+		Time:	20.09.2025 08:24:24 until 20.09.2025 10:54:07
+		Duration:	02:29:43
+		Location:	44.25492 12.36467
+
+(2) - Swim - Transition zone
+	BRP1
+		Images:	6755
+		Time:	19.09.2025 17:08:51 until 21.09.2025 11:27:42
+		Duration:	1.18:18:51
+		Location:	44.24940 12.36592
+
+(3) - Bike - 8.5 km
+	FRI1
+		Images:	3808
+		Time:	19.09.2025 17:17:53 until 20.09.2025 11:32:54
+		Duration:	18:15:01
+		Location:	44.24044 12.32431
+
+(4) - Bike - 9.3 km
+	RABI1
+		Images:	3014
+		Time:	20.09.2025 07:02:38 until 21.09.2025 10:30:16
+		Duration:	1.03:27:38
+		Location:	44.24382 12.32915
+
+(5) - Bike - 56.0 km
+	SMO1
+		Images:	2183
+		Time:	20.09.2025 09:38:28 until 20.09.2025 11:51:22
+		Duration:	02:12:54
+		Location:	44.18688 12.12590
+
+(6) - Bike - 126.0 km
+	SMO2
+		Images:	3889
+		Time:	20.09.2025 11:58:47 until 20.09.2025 16:24:47
+		Duration:	04:26:00
+		Location:	44.18826 12.12657
+
+(7) - Bike - 170.7 km
+	RABI2
+		Images:	2605
+		Time:	20.09.2025 12:35:29 until 21.09.2025 15:34:36
+		Duration:	1.02:59:07
+		Location:	44.24382 12.32915
+
+(8) - Bike - 171.5 km
+	FRI2
+		Images:	2373
+		Time:	20.09.2025 12:36:14 until 21.09.2025 17:43:45
+		Duration:	1.05:07:31
+		Location:	44.24044 12.32431
+
+(9) - Run - 1.5 km
+	YG2
+		Images:	5980
+		Time:	20.09.2025 13:02:19 until 20.09.2025 19:35:06
+		Duration:	06:32:47
+		Location:	44.26307 12.35516
+
+(10) - Run - 8.4 km
+	FME2
+		Images:	4821
+		Time:	20.09.2025 13:09:50 until 20.09.2025 19:32:41
+		Duration:	06:22:51
+		Location:	44.26493 12.35317
+
+(11) - Finish
+	BRP2
+		Images:	3859
+		Time:	20.09.2025 11:03:26 until 21.09.2025 18:22:05
+		Duration:	1.07:18:39
+		Location:	44.25519 12.36443
+
+	BRP2LS1
+		Images:	3266
+		Time:	19.09.2025 17:14:56 until 20.09.2025 23:40:01
+		Duration:	1.06:25:05
+		Location:	44.25519 12.36443
+
+	EO2
+		Images:	5798
+		Time:	20.09.2025 11:41:09 until 21.09.2025 00:27:56
+		Duration:	12:46:47
+		Location:	44.25519 12.36443
+
+	EO2LS1
+		Images:	3842
+		Time:	20.09.2025 15:19:24 until 21.09.2025 00:04:19
+		Duration:	08:44:55
+		Location:	44.25519 12.36443
+
+	EO2LS2
+		Images:	4362
+		Time:	20.09.2025 13:51:15 until 21.09.2025 00:05:13
+		Duration:	10:13:58
+		Location:	44.25519 12.36443
+
+	FBO2
+		Images:	5546
+		Time:	20.09.2025 15:44:43 until 21.09.2025 15:22:30
+		Duration:	23:37:47
+		Location:	44.25519 12.36443
+
+	FRI1DRONE1
+		Images:	23
+		Time:	20.09.2025 18:29:59 until 21.09.2025 09:15:30
+		Duration:	14:45:31
+		Location:	44.25519 12.36443
+

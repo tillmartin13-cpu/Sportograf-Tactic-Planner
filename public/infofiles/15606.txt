@@ -1,0 +1,137 @@
+EventId: 15606
+Spots: 21
+Total Images: 22247
+Time:	13.04.2025 09:08:45 to 13.04.2025 16:09:12
+Duration: 07:00:27
+
+(1) - Start
+	MFR1
+		Images:	383
+		Time:	13.04.2025 09:27:07 until 13.04.2025 11:02:17
+		Duration:	01:35:10
+		Location:	51.77172 10.74429
+
+(2) - 9.6 km Forstmeister-Schmidt-Weg
+	CFMP1
+		Images:	3255
+		Time:	13.04.2025 09:29:23 until 13.04.2025 11:33:49
+		Duration:	02:04:26
+		Location:	51.78858 10.78899
+
+(3) - 12.6 km Zillierbachtalsperre
+	CFMP2
+		Images:	3779
+		Time:	13.04.2025 11:43:46 until 13.04.2025 15:08:32
+		Duration:	03:24:46
+		Location:	51.79172 10.77460
+
+(4) - 15.4 km Downhill Kurve
+	RYS1
+		Images:	1323
+		Time:	13.04.2025 09:44:12 until 13.04.2025 12:16:12
+		Duration:	02:32:00
+		Location:	51.80180 10.76451
+
+	RYS1LS1
+		Images:	1300
+		Time:	13.04.2025 09:08:45 until 13.04.2025 12:30:11
+		Duration:	03:21:26
+		Location:	51.80180 10.76451
+
+	RYS1LS2
+		Images:	1296
+		Time:	13.04.2025 09:21:43 until 13.04.2025 12:51:33
+		Duration:	03:29:50
+		Location:	51.80180 10.76451
+
+(5) - 16.2 km Kaltes Tal
+	RYS2
+		Images:	237
+		Time:	13.04.2025 13:11:37 until 13.04.2025 15:17:11
+		Duration:	02:05:34
+		Location:	51.80766 10.76868
+
+	RYS2LS1
+		Images:	796
+		Time:	13.04.2025 12:39:20 until 13.04.2025 15:25:23
+		Duration:	02:46:03
+		Location:	51.80766 10.76868
+
+	RYS2LS2
+		Images:	709
+		Time:	13.04.2025 12:53:11 until 13.04.2025 15:22:44
+		Duration:	02:29:33
+		Location:	51.80766 10.76868
+
+(6) - 21.5 km Downhill S-Kurve
+	LEM2
+		Images:	1195
+		Time:	13.04.2025 12:47:24 until 13.04.2025 16:09:12
+		Duration:	03:21:48
+		Location:	51.78763 10.75052
+
+	LEM2LS1
+		Images:	627
+		Time:	13.04.2025 12:34:00 until 13.04.2025 15:41:04
+		Duration:	03:07:04
+		Location:	51.78763 10.75052
+
+	LEM2LS2
+		Images:	593
+		Time:	13.04.2025 12:34:36 until 13.04.2025 15:41:03
+		Duration:	03:06:27
+		Location:	51.78763 10.75052
+
+(7) - 21.9 km Hüttesteig
+	LEM1
+		Images:	1475
+		Time:	13.04.2025 10:17:03 until 13.04.2025 12:17:09
+		Duration:	02:00:06
+		Location:	51.78498 10.74896
+
+	LEM1LS1
+		Images:	602
+		Time:	13.04.2025 09:33:50 until 13.04.2025 12:19:40
+		Duration:	02:45:50
+		Location:	51.78498 10.74896
+
+	LEM1LS2
+		Images:	605
+		Time:	13.04.2025 10:38:32 until 13.04.2025 12:19:03
+		Duration:	01:40:31
+		Location:	51.78498 10.74896
+
+(8) - 24.4 km Drei Annen Hohne
+	MFR3
+		Images:	942
+		Time:	13.04.2025 11:12:35 until 13.04.2025 12:28:18
+		Duration:	01:15:43
+		Location:	51.77098 10.73950
+
+	MFR3LS1
+		Images:	362
+		Time:	13.04.2025 10:39:55 until 13.04.2025 12:28:58
+		Duration:	01:49:03
+		Location:	51.77098 10.73950
+
+(9) - Finish
+	MFR2
+		Images:	1262
+		Time:	13.04.2025 12:54:39 until 13.04.2025 15:51:31
+		Duration:	02:56:52
+		Location:	51.77172 10.74429
+
+	MFR2LS1
+		Images:	1487
+		Time:	13.04.2025 12:43:46 until 13.04.2025 15:51:35
+		Duration:	03:07:49
+		Location:	51.77172 10.74429
+
+(10) - Impressions / Pano
+	PANO1
+	LEM1DRONE1
+		Images:	19
+		Time:	13.04.2025 09:50:10 until 13.04.2025 14:41:35
+		Duration:	04:51:25
+		Location:	51.78763 10.75052
+

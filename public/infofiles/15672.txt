@@ -1,0 +1,58 @@
+EventId: 15672
+Spots: 9
+Total Images: 23003
+Time:	28.02.2025 18:16:14 to 01.03.2025 11:00:01
+Duration: 16:43:47
+
+(1) - 0.0 km
+	GRAY1
+		Images:	3160
+		Time:	01.03.2025 06:26:54 until 01.03.2025 08:02:04
+		Duration:	01:35:10
+		Location:	NULL NULL
+
+	GGUSG1
+		Images:	3851
+		Time:	01.03.2025 07:00:37 until 01.03.2025 07:57:45
+		Duration:	00:57:08
+		Location:	NULL NULL
+
+	LSRLT1
+		Images:	3853
+		Time:	01.03.2025 06:51:20 until 01.03.2025 07:59:54
+		Duration:	01:08:34
+		Location:	NULL NULL
+
+(2) - none
+	GJODY1
+		Images:	2419
+		Time:	01.03.2025 06:07:29 until 01.03.2025 08:05:21
+		Duration:	01:57:52
+		Location:	NULL NULL
+
+	GSYDN1
+		Images:	1398
+		Time:	28.02.2025 18:16:14 until 28.02.2025 19:56:57
+		Duration:	01:40:43
+		Location:	NULL NULL
+
+	LSRRT1
+		Images:	3834
+		Time:	01.03.2025 06:25:40 until 01.03.2025 07:58:31
+		Duration:	01:32:51
+		Location:	NULL NULL
+
+	LSLOW1
+		Images:	3876
+		Time:	01.03.2025 05:19:48 until 01.03.2025 06:59:39
+		Duration:	01:39:51
+		Location:	NULL NULL
+
+	GNICO1
+		Images:	612
+		Time:	01.03.2025 08:51:07 until 01.03.2025 11:00:01
+		Duration:	02:08:54
+		Location:	NULL NULL
+
+(3) - Impressions / Pano
+	PANO1

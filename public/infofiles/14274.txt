@@ -1,0 +1,240 @@
+EventId: 14274
+Spots: 36
+Total Images: 161578
+Time:	12.07.2025 04:48:20 to 12.07.2025 21:57:30
+Duration: 17:09:10
+
+(1) - Start
+	COS1
+		Images:	1157
+		Time:	12.07.2025 04:50:38 until 12.07.2025 12:20:11
+		Duration:	07:29:33
+		Location:	47.63956 13.61512
+
+	MIH1
+		Images:	158
+		Time:	12.07.2025 04:48:20 until 12.07.2025 06:50:45
+		Duration:	02:02:25
+		Location:	47.63956 13.61512
+
+(2) - A: 11,5 / B: 11,2 (Raschberg)
+	SBU1LS1
+		Images:	1107
+		Time:	12.07.2025 09:26:44 until 12.07.2025 10:53:06
+		Duration:	01:26:22
+		Location:	47.65747 13.67773
+
+	SBU1
+		Images:	4376
+		Time:	12.07.2025 05:54:52 until 12.07.2025 10:48:20
+		Duration:	04:53:28
+		Location:	47.65757 13.67755
+
+(3) - A: 11,7 / B: 11,4 (Raschberg)
+	HV1LS1
+		Images:	1952
+		Time:	12.07.2025 05:45:04 until 12.07.2025 10:58:42
+		Duration:	05:13:38
+		Location:	47.65804 13.67727
+
+	HV1
+		Images:	2438
+		Time:	12.07.2025 05:34:05 until 12.07.2025 10:54:37
+		Duration:	05:20:32
+		Location:	47.65819 13.67722
+
+(4) - A: 36,6 / B: 30,2 (Ewige Wand)
+	TIM1LS1
+		Images:	1159
+		Time:	12.07.2025 05:34:45 until 12.07.2025 12:35:43
+		Duration:	07:00:58
+		Location:	47.65925 13.61809
+
+(5) - A: 36,6 / B: 30,2 / D: 45,5 / E: 27,1 / F:9,2 (Ewige Wand)
+	TIM1
+		Images:	6416
+		Time:	12.07.2025 06:44:01 until 12.07.2025 17:32:34
+		Duration:	10:48:33
+		Location:	47.65925 13.61809
+
+(6) - A: 36,7 / B: 30,3 / D: 45,6 / E: 27,2 / F:9,3 (Ewige Wand)
+	BS1LS1
+		Images:	2556
+		Time:	12.07.2025 06:05:17 until 12.07.2025 17:33:12
+		Duration:	11:27:55
+		Location:	47.65944 13.61673
+
+	BS1
+		Images:	12805
+		Time:	12.07.2025 06:34:07 until 12.07.2025 17:33:11
+		Duration:	10:59:04
+		Location:	47.65944 13.61673
+
+(7) - A: 36,8 / B: 30,4 / D: 45,7 / E: 27,3 / F:9,4 (Ewige Wand)
+	EHL1LS1
+		Images:	6845
+		Time:	12.07.2025 05:45:14 until 12.07.2025 17:33:23
+		Duration:	11:48:09
+		Location:	47.65949 13.61626
+
+	TIM1LS2
+		Images:	4943
+		Time:	12.07.2025 05:53:03 until 12.07.2025 17:33:21
+		Duration:	11:40:18
+		Location:	47.65949 13.61626
+
+	EHL1
+		Images:	5166
+		Time:	12.07.2025 06:54:25 until 12.07.2025 17:33:20
+		Duration:	10:38:55
+		Location:	47.65949 13.61626
+
+(8) - A: 36,9 / B: 30,5 / D: 45,8 / E: 27,4 / F:9,5 (Ewige Wand)
+	MDO1
+		Images:	3032
+		Time:	12.07.2025 06:06:21 until 12.07.2025 17:33:37
+		Duration:	11:27:16
+		Location:	47.65950 13.61605
+
+	MDO1LS1
+		Images:	2574
+		Time:	12.07.2025 06:15:19 until 12.07.2025 17:29:07
+		Duration:	11:13:48
+		Location:	47.66008 13.61592
+
+(9) - A: 39,8 / B: 33,0 / D: 48,8 / E: 30,3 / F: 12,0 (Treppenabfahrt Lauffen)
+	DG1LS1
+		Images:	14595
+		Time:	12.07.2025 06:39:06 until 12.07.2025 18:00:35
+		Duration:	11:21:29
+		Location:	47.67128 13.61057
+
+	DG1
+		Images:	15617
+		Time:	12.07.2025 05:58:06 until 12.07.2025 17:50:52
+		Duration:	11:52:46
+		Location:	47.67153 13.61073
+
+(10) - A: 40,0 / B: 33,2 / D: 49,0 / E: 30,5 / F: 12,2 (Traun-Überfahrt Lauffen)
+	THO1LS1
+		Images:	4175
+		Time:	12.07.2025 05:53:48 until 12.07.2025 17:19:41
+		Duration:	11:25:53
+		Location:	47.67194 13.61063
+
+	THO1LS2
+		Images:	4379
+		Time:	12.07.2025 05:34:17 until 12.07.2025 17:14:51
+		Duration:	11:40:34
+		Location:	47.67194 13.61063
+
+	THO1
+		Images:	7216
+		Time:	12.07.2025 05:55:15 until 12.07.2025 17:51:10
+		Duration:	11:55:55
+		Location:	47.67194 13.61063
+
+(11) - A: 132,7 / B: 48,5 (Hallstätter See)
+	MIH2LS1
+		Images:	1989
+		Time:	12.07.2025 08:34:22 until 12.07.2025 15:35:10
+		Duration:	07:00:48
+		Location:	47.56998 13.66371
+
+	MIH2
+		Images:	5334
+		Time:	12.07.2025 07:30:38 until 12.07.2025 15:31:40
+		Duration:	08:01:02
+		Location:	47.56998 13.66371
+
+(12) - A: 141,2 / B: 58,4 / C: 19,5 / gravel.one: 6,7 (Echerntaltunnel)
+	REM1LS1
+		Images:	4777
+		Time:	12.07.2025 09:43:16 until 12.07.2025 16:21:08
+		Duration:	06:37:52
+		Location:	47.54632 13.61555
+
+	REM1LS2
+		Images:	2658
+		Time:	12.07.2025 10:25:28 until 12.07.2025 16:51:08
+		Duration:	06:25:40
+		Location:	47.54632 13.61555
+
+	REM1
+		Images:	6866
+		Time:	12.07.2025 07:18:27 until 12.07.2025 17:15:51
+		Duration:	09:57:24
+		Location:	47.54632 13.61555
+
+(13) - A: 142,2 / B: 59,4 / C: 20,5 / gravel.one: 7,7 (Waldbachstrub)
+	SLE1LS1
+		Images:	3581
+		Time:	12.07.2025 10:31:28 until 12.07.2025 16:27:21
+		Duration:	05:55:53
+		Location:	47.54871 13.61028
+
+	SLE1
+		Images:	5720
+		Time:	12.07.2025 10:30:45 until 12.07.2025 16:24:56
+		Duration:	05:54:11
+		Location:	47.54871 13.61028
+
+(14) - A: 162,3 / B: 79,5 / C: 40,3 / gravel.one: 26,8 (Gosausee)
+	SBU2LS1
+		Images:	566
+		Time:	12.07.2025 13:15:40 until 12.07.2025 18:47:03
+		Duration:	05:31:23
+		Location:	47.53205 13.50131
+
+	SBU2
+		Images:	3878
+		Time:	12.07.2025 12:59:48 until 12.07.2025 18:36:32
+		Duration:	05:36:44
+		Location:	47.53247 13.50053
+
+(15) - A: 162,8 / B: 80,0 / C: 40,8 / gravel.one: 27,3 (Gosausee)
+	HV2LS1
+		Images:	3079
+		Time:	12.07.2025 12:43:49 until 12.07.2025 18:53:49
+		Duration:	06:10:00
+		Location:	47.53257 13.49708
+
+	HV2
+		Images:	2485
+		Time:	12.07.2025 12:58:59 until 12.07.2025 18:36:59
+		Duration:	05:38:00
+		Location:	47.53254 13.49689
+
+(16) - Finish
+	COS2LS1
+		Images:	1853
+		Time:	12.07.2025 12:39:52 until 12.07.2025 18:55:13
+		Duration:	06:15:21
+		Location:	47.63956 13.61512
+
+	COS2
+		Images:	15670
+		Time:	12.07.2025 12:48:29 until 12.07.2025 21:57:30
+		Duration:	09:09:01
+		Location:	47.63956 13.61512
+
+(17) - Herowall
+	SGT1
+		Images:	430
+		Time:	12.07.2025 12:56:55 until 12.07.2025 17:45:38
+		Duration:	04:48:43
+		Location:	47.63956 13.61512
+
+(18) - Impressions / Pano
+	TIM1DRONE1
+		Images:	23
+		Time:	12.07.2025 06:34:01 until 12.07.2025 18:30:22
+		Duration:	11:56:21
+		Location:	47.63956 13.61512
+
+	PANO1
+		Images:	3
+		Time:	12.07.2025 07:13:04 until 12.07.2025 07:29:00
+		Duration:	00:15:56
+		Location:	47.63956 13.61512
+

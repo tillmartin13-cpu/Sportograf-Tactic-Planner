@@ -1,0 +1,89 @@
+EventId: 14593
+Spots: 12
+Total Images: 128411
+Time:	12.07.2025 10:26:48 to 23.08.2025 18:09:38
+Duration: 42.07:42:50
+
+(1) - Start
+	CCZ4
+		Images:	568
+		Time:	23.08.2025 10:18:21 until 23.08.2025 11:58:17
+		Duration:	01:39:56
+		Location:	NULL NULL
+
+(2) - Obstacle 1 LUMBER JACKED
+	JAY1
+		Images:	5718
+		Time:	23.08.2025 07:38:13 until 23.08.2025 14:22:32
+		Duration:	06:44:19
+		Location:	NULL NULL
+
+(3) - Obstacle 3 HERO CARRY
+	DPE1
+		Images:	14038
+		Time:	23.08.2025 08:14:22 until 23.08.2025 14:27:43
+		Duration:	06:13:21
+		Location:	NULL NULL
+
+(4) - Obstacle 5 SWAMP STOMP
+	JBB1
+		Images:	24673
+		Time:	12.07.2025 10:26:48 until 23.08.2025 15:02:10
+		Duration:	42.04:35:22
+		Location:	NULL NULL
+
+(5) - Obstacle 10 BLOCKNESS MONSTER
+	PRR1
+		Images:	8038
+		Time:	22.08.2025 17:47:40 until 23.08.2025 15:51:36
+		Duration:	22:03:56
+		Location:	NULL NULL
+
+	SCOT1
+		Images:	19500
+		Time:	22.08.2025 20:50:39 until 23.08.2025 15:50:37
+		Duration:	18:59:58
+		Location:	NULL NULL
+
+(6) - Obstacle 11 FUNKY MONKEY
+	CCZ2
+		Images:	258
+		Time:	23.08.2025 09:02:34 until 23.08.2025 09:22:16
+		Duration:	00:19:42
+		Location:	NULL NULL
+
+(7) - Obstacle 12 CAGE CRAWL
+	DANM1
+		Images:	18002
+		Time:	23.08.2025 09:04:04 until 23.08.2025 16:37:18
+		Duration:	07:33:14
+		Location:	NULL NULL
+
+(8) - Obstacle 15 HANGIN TOUGH
+	CCZ3
+		Images:	99
+		Time:	23.08.2025 10:01:58 until 23.08.2025 10:09:53
+		Duration:	00:07:55
+		Location:	NULL NULL
+
+(9) - Obstacle 23 LADDER TO HELL
+	ASP1
+		Images:	9627
+		Time:	22.08.2025 18:22:20 until 23.08.2025 17:40:43
+		Duration:	23:18:23
+		Location:	NULL NULL
+
+(10) - Obstacle 24 ARTIC ENEMA
+	LIT1
+		Images:	9559
+		Time:	23.08.2025 08:44:51 until 23.08.2025 17:55:41
+		Duration:	09:10:50
+		Location:	NULL NULL
+
+(11) - Obstacle 27 ELECTROSHOCK THERAPY
+	JASP1
+		Images:	18331
+		Time:	23.08.2025 09:29:47 until 23.08.2025 18:09:38
+		Duration:	08:39:51
+		Location:	NULL NULL
+

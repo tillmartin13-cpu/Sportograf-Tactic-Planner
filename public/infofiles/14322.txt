@@ -1,0 +1,138 @@
+EventId: 14322
+Spots: 21
+Total Images: 72083
+Time:	27.11.2025 05:17:24 to 28.11.2025 01:52:24
+Duration: 20:35:00
+
+(1) - Finish
+	AKC2
+		Images:	2715
+		Time:	27.11.2025 14:13:12 until 27.11.2025 19:26:09
+		Duration:	05:12:57
+		Location:	NULL NULL
+
+	AMI1
+		Images:	2051
+		Time:	27.11.2025 10:03:59 until 27.11.2025 19:10:38
+		Duration:	09:06:39
+		Location:	NULL NULL
+
+	JEK1LS1
+		Images:	477
+		Time:	27.11.2025 09:24:06 until 27.11.2025 12:46:37
+		Duration:	03:22:31
+		Location:	NULL NULL
+
+	JUBA3
+		Images:	18979
+		Time:	27.11.2025 11:58:24 until 27.11.2025 20:29:53
+		Duration:	08:31:29
+		Location:	NULL NULL
+
+	JUBA3LS1
+		Images:	1850
+		Time:	27.11.2025 11:50:18 until 27.11.2025 20:29:53
+		Duration:	08:39:35
+		Location:	NULL NULL
+
+(2) - 16.3 km
+	AKC3
+		Images:	5266
+		Time:	27.11.2025 05:17:24 until 27.11.2025 12:39:02
+		Duration:	07:21:38
+		Location:	NULL NULL
+
+(3) - 16.0 km
+	AKC3LS1
+		Images:	197
+		Time:	27.11.2025 06:11:23 until 27.11.2025 11:18:00
+		Duration:	05:06:37
+		Location:	NULL NULL
+
+(4) - 45.0 km
+	JEK2
+		Images:	1430
+		Time:	27.11.2025 10:35:16 until 28.11.2025 01:52:24
+		Duration:	15:17:08
+		Location:	NULL NULL
+
+	JEK2IMP1
+		Images:	2
+		Time:	27.11.2025 05:43:10 until 27.11.2025 18:34:53
+		Duration:	12:51:43
+		Location:	NULL NULL
+
+(5) - 45.7 km
+	JEK2LS1
+		Images:	1931
+		Time:	27.11.2025 09:39:52 until 27.11.2025 18:57:55
+		Duration:	09:18:03
+		Location:	NULL NULL
+
+(6) - Start
+	JUBA1
+		Images:	6098
+		Time:	27.11.2025 05:42:28 until 27.11.2025 08:10:43
+		Duration:	02:28:15
+		Location:	NULL NULL
+
+	JUBA1LS1
+		Images:	959
+		Time:	27.11.2025 05:37:43 until 27.11.2025 06:47:12
+		Duration:	01:09:29
+		Location:	NULL NULL
+
+(7) - 0.6 km
+	JUBA2
+		Images:	3082
+		Time:	27.11.2025 08:28:04 until 27.11.2025 09:37:28
+		Duration:	01:09:24
+		Location:	NULL NULL
+
+	JUBA2LS1
+		Images:	681
+		Time:	27.11.2025 08:10:15 until 27.11.2025 09:35:12
+		Duration:	01:24:57
+		Location:	NULL NULL
+
+(8) - 6.6 km
+	TPA1
+		Images:	7681
+		Time:	27.11.2025 06:26:11 until 27.11.2025 10:17:37
+		Duration:	03:51:26
+		Location:	NULL NULL
+
+(9) - 6.4 km
+	TPA3LS1
+		Images:	7148
+		Time:	27.11.2025 06:22:25 until 27.11.2025 10:15:59
+		Duration:	03:53:34
+		Location:	NULL NULL
+
+	TPA3LS3
+		Images:	6870
+		Time:	27.11.2025 06:22:25 until 27.11.2025 10:18:08
+		Duration:	03:55:43
+		Location:	NULL NULL
+
+(10) - 40.2 km
+	TPA2
+		Images:	2184
+		Time:	27.11.2025 12:45:25 until 27.11.2025 16:41:21
+		Duration:	03:55:56
+		Location:	NULL NULL
+
+	TPA4LS1
+		Images:	1326
+		Time:	27.11.2025 12:24:31 until 27.11.2025 16:47:36
+		Duration:	04:23:05
+		Location:	NULL NULL
+
+	TPA3LS2
+		Images:	1156
+		Time:	27.11.2025 12:35:05 until 27.11.2025 16:34:48
+		Duration:	03:59:43
+		Location:	NULL NULL
+
+(11) - Impressions / Pano
+	PANO1

@@ -1,0 +1,130 @@
+EventId: 14504
+Spots: 19
+Total Images: 95276
+Time:	21.06.2025 08:21:30 to 22.06.2025 17:28:34
+Duration: 1.09:07:04
+
+(1) - SLEVEN
+	CH2
+		Images:	11336
+		Time:	22.06.2025 08:38:14 until 22.06.2025 17:26:54
+		Duration:	08:48:40
+		Location:	51.48641 -0.34053
+
+	BKO2
+		Images:	1426
+		Time:	22.06.2025 16:06:28 until 22.06.2025 16:20:48
+		Duration:	00:14:20
+		Location:	51.48641 -0.34053
+
+(2) - Hard Landing
+	CMS1
+		Images:	10289
+		Time:	21.06.2025 08:39:43 until 22.06.2025 17:24:15
+		Duration:	1.08:44:32
+		Location:	51.48681 -0.33945
+
+(3) - Lift Off
+	CUP1
+		Images:	7452
+		Time:	22.06.2025 08:54:52 until 22.06.2025 17:23:56
+		Duration:	08:29:04
+		Location:	51.48781 -0.34031
+
+	BKO4
+		Images:	744
+		Time:	22.06.2025 16:31:50 until 22.06.2025 16:42:01
+		Duration:	00:10:11
+		Location:	51.48781 -0.34031
+
+(4) - Engine
+	DANO1
+		Images:	13262
+		Time:	21.06.2025 08:53:39 until 22.06.2025 16:51:08
+		Duration:	1.07:57:29
+		Location:	51.48684 -0.35703
+
+	DANO1LS1
+		Images:	2570
+		Time:	22.06.2025 09:07:56 until 22.06.2025 16:49:38
+		Duration:	07:41:42
+		Location:	51.48684 -0.35703
+
+	BKO5
+		Images:	2221
+		Time:	22.06.2025 13:54:31 until 22.06.2025 14:19:09
+		Duration:	00:24:38
+		Location:	51.48684 -0.35703
+
+(5) - Manor
+	DP1
+		Images:	12197
+		Time:	21.06.2025 08:25:05 until 22.06.2025 17:21:10
+		Duration:	1.08:56:05
+		Location:	51.48727 -0.33962
+
+(6) - ONE LDN
+	MSO1
+		Images:	3788
+		Time:	22.06.2025 08:48:43 until 22.06.2025 17:25:28
+		Duration:	08:36:45
+		Location:	51.48653 -0.34117
+
+	BKO1LS1
+		Images:	2214
+		Time:	22.06.2025 08:53:47 until 22.06.2025 17:28:34
+		Duration:	08:34:47
+		Location:	51.48653 -0.34117
+
+	BKO1LS2
+		Images:	2017
+		Time:	22.06.2025 09:06:50 until 22.06.2025 17:18:32
+		Duration:	08:11:42
+		Location:	51.48653 -0.34117
+
+	BKO7
+		Images:	1090
+		Time:	22.06.2025 15:04:23 until 22.06.2025 15:19:02
+		Duration:	00:14:39
+		Location:	51.48653 -0.34117
+
+(7) - Death March
+	NLA1
+		Images:	4033
+		Time:	21.06.2025 08:25:27 until 22.06.2025 17:23:43
+		Duration:	1.08:58:16
+		Location:	51.48706 -0.33686
+
+(8) - Talisman
+	RLW1
+		Images:	7683
+		Time:	21.06.2025 08:39:15 until 22.06.2025 17:27:23
+		Duration:	1.08:48:08
+		Location:	51.48684 -0.34054
+
+(9) - Cardio Club
+	WIN1
+		Images:	12721
+		Time:	21.06.2025 08:31:04 until 22.06.2025 17:23:06
+		Duration:	1.08:52:02
+		Location:	51.48707 -0.33968
+
+	BKO10
+		Images:	143
+		Time:	22.06.2025 16:28:27 until 22.06.2025 16:30:15
+		Duration:	00:01:48
+		Location:	51.48707 -0.33968
+
+(10) - Impressions / Pano
+	BKO11
+		Images:	73
+		Time:	22.06.2025 10:37:14 until 22.06.2025 12:20:39
+		Duration:	01:43:25
+		Location:	51.48712 -0.35600
+
+	BKO11DRONE1
+		Images:	9
+		Time:	22.06.2025 11:41:27 until 22.06.2025 11:46:04
+		Duration:	00:04:37
+		Location:	51.48712 -0.35600
+

@@ -1,0 +1,187 @@
+EventId: 14399
+Spots: 29
+Total Images: 63068
+Time:	18.10.2025 07:43:30 to 19.10.2025 15:46:55
+Duration: 1.08:03:25
+
+(1) - Generales
+	JRD1
+		Images:	110
+		Time:	18.10.2025 08:19:37 until 18.10.2025 09:15:05
+		Duration:	00:55:28
+		Location:	41.63832 2.70434
+
+	MANR1
+		Images:	238
+		Time:	18.10.2025 08:45:20 until 18.10.2025 14:20:44
+		Duration:	05:35:24
+		Location:	41.63832 2.70434
+
+	DAFE1
+		Images:	85
+		Time:	18.10.2025 08:52:20 until 19.10.2025 08:36:07
+		Duration:	23:43:47
+		Location:	41.63832 2.70434
+
+	JCR1
+		Images:	78
+		Time:	18.10.2025 07:43:30 until 19.10.2025 09:58:00
+		Duration:	1.02:14:30
+		Location:	41.63832 2.70434
+
+	JIA1
+		Images:	65
+		Time:	18.10.2025 08:23:37 until 19.10.2025 09:04:40
+		Duration:	1.00:41:03
+		Location:	41.63832 2.70434
+
+(2) - Bucket Carry
+	JRD2
+		Images:	7688
+		Time:	18.10.2025 10:28:44 until 18.10.2025 15:10:15
+		Duration:	04:41:31
+		Location:	41.64082 2.70836
+
+	MANR4
+		Images:	74
+		Time:	18.10.2025 10:34:07 until 18.10.2025 11:34:55
+		Duration:	01:00:48
+		Location:	41.64082 2.70836
+
+(3) - Roller Mud
+	JIA2
+		Images:	5835
+		Time:	18.10.2025 10:32:17 until 18.10.2025 15:23:54
+		Duration:	04:51:37
+		Location:	41.63872 2.70786
+
+	MANR5
+		Images:	101
+		Time:	18.10.2025 11:40:36 until 18.10.2025 11:51:13
+		Duration:	00:10:37
+		Location:	41.63872 2.70786
+
+(4) - Atlas Lift
+	MIFP1
+		Images:	4371
+		Time:	18.10.2025 08:36:50 until 18.10.2025 15:45:23
+		Duration:	07:08:33
+		Location:	41.62901 2.71465
+
+(5) - Barbed wire
+	AFGA1
+		Images:	4960
+		Time:	18.10.2025 10:22:29 until 19.10.2025 08:41:53
+		Duration:	22:19:24
+		Location:	41.62901 2.71379
+
+	MANR6
+		Images:	127
+		Time:	18.10.2025 12:37:32 until 19.10.2025 13:02:21
+		Duration:	1.00:24:49
+		Location:	41.62901 2.71379
+
+(6) - Log Carry
+	TGM1LS1
+		Images:	1596
+		Time:	18.10.2025 10:40:56 until 18.10.2025 15:54:27
+		Duration:	05:13:31
+		Location:	41.62866 2.71362
+
+	TGM1LS2
+		Images:	1734
+		Time:	18.10.2025 08:59:21 until 18.10.2025 15:54:53
+		Duration:	06:55:32
+		Location:	41.62866 2.71362
+
+	TGM1
+		Images:	9226
+		Time:	18.10.2025 10:40:59 until 18.10.2025 15:55:45
+		Duration:	05:14:46
+		Location:	41.62866 2.71362
+
+	MANR7
+		Images:	179
+		Time:	18.10.2025 12:50:01 until 18.10.2025 13:32:58
+		Duration:	00:42:57
+		Location:	41.62866 2.71362
+
+(7) - Sandbag Carry
+	JLTG1
+		Images:	363
+		Time:	18.10.2025 09:41:16 until 19.10.2025 11:41:20
+		Duration:	1.02:00:04
+		Location:	41.62784 2.70917
+
+	JLTG2LS1
+		Images:	1814
+		Time:	18.10.2025 09:23:21 until 18.10.2025 16:22:35
+		Duration:	06:59:14
+		Location:	41.62784 2.70917
+
+	JLTG2LS2
+		Images:	1803
+		Time:	18.10.2025 09:00:35 until 18.10.2025 16:05:03
+		Duration:	07:04:28
+		Location:	41.62784 2.70917
+
+(8) - Hurdless
+	JLTG2
+		Images:	8252
+		Time:	18.10.2025 11:46:29 until 18.10.2025 16:11:36
+		Duration:	04:25:07
+		Location:	41.62759 2.70871
+
+	MANR2
+		Images:	450
+		Time:	18.10.2025 14:33:46 until 18.10.2025 14:48:02
+		Duration:	00:14:16
+		Location:	41.62759 2.70871
+
+(9) - Run
+	MIFP1LS1
+		Images:	1928
+		Time:	18.10.2025 08:50:07 until 18.10.2025 16:23:43
+		Duration:	07:33:36
+		Location:	41.62874 2.71495
+
+(10) - Fire Jump
+	DAFE2LS1
+		Images:	1439
+		Time:	18.10.2025 10:10:20 until 18.10.2025 16:56:30
+		Duration:	06:46:10
+		Location:	41.62784 2.70917
+
+	JCR2LS1
+		Images:	1626
+		Time:	18.10.2025 08:52:57 until 18.10.2025 16:56:30
+		Duration:	08:03:33
+		Location:	41.62784 2.70917
+
+	DAFE2
+		Images:	6545
+		Time:	18.10.2025 10:59:39 until 19.10.2025 15:46:55
+		Duration:	1.04:47:16
+		Location:	41.62784 2.70917
+
+	MANR3
+		Images:	419
+		Time:	18.10.2025 14:49:23 until 18.10.2025 16:08:12
+		Duration:	01:18:49
+		Location:	41.62784 2.70917
+
+(11) - Herotent
+	JCR2
+		Images:	1946
+		Time:	18.10.2025 11:14:06 until 18.10.2025 16:57:14
+		Duration:	05:43:08
+		Location:	41.63839 2.70748
+
+(12) - Impressions / Pano
+	MANR4DRONE1
+		Images:	12
+		Time:	18.10.2025 10:10:45 until 18.10.2025 13:25:32
+		Duration:	03:14:47
+		Location:	41.63839 2.70748
+
+	PANO1

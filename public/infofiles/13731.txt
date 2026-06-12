@@ -1,0 +1,81 @@
+EventId: 13731
+Spots: 12
+Total Images: 19768
+Time:	29.03.2025 05:25:09 to 29.03.2025 11:05:18
+Duration: 05:40:09
+
+(1) - Swim - Impressions / Pano
+	DWDT1
+		Images:	57
+		Time:	29.03.2025 05:25:09 until 29.03.2025 06:01:46
+		Duration:	00:36:37
+		Location:	-33.98109 25.65971
+
+	PANO1
+(2) - Swim - Start
+	DWDT2
+		Images:	610
+		Time:	29.03.2025 06:05:16 until 29.03.2025 07:56:01
+		Duration:	01:50:45
+		Location:	-33.98109 25.65971
+
+(3) - Swim - Transition zone
+	JHI1
+		Images:	1702
+		Time:	29.03.2025 05:56:13 until 29.03.2025 08:09:13
+		Duration:	02:13:00
+		Location:	-33.98029 25.65854
+
+	JHI1LS1
+		Images:	849
+		Time:	29.03.2025 05:46:58 until 29.03.2025 07:24:03
+		Duration:	01:37:05
+		Location:	-33.98029 25.65854
+
+(4) - Bike - Transition zone
+	LDT1
+		Images:	2133
+		Time:	29.03.2025 05:31:01 until 29.03.2025 08:20:43
+		Duration:	02:49:42
+		Location:	-33.98086 25.65865
+
+(5) - Bike - 36.0 km
+	TAZ1
+		Images:	4248
+		Time:	29.03.2025 06:01:39 until 29.03.2025 09:51:31
+		Duration:	03:49:52
+		Location:	-34.00168 25.68545
+
+(6) - Run - 9.0 km
+	JHI2
+		Images:	2937
+		Time:	29.03.2025 08:26:35 until 29.03.2025 10:59:30
+		Duration:	02:32:55
+		Location:	-33.97727 25.65088
+
+	JHI2LS1
+		Images:	1374
+		Time:	29.03.2025 08:41:29 until 29.03.2025 11:00:21
+		Duration:	02:18:52
+		Location:	-33.97727 25.65088
+
+(7) - Run - 9.7 km
+	DWDT3LS1
+		Images:	720
+		Time:	29.03.2025 08:22:44 until 29.03.2025 10:43:10
+		Duration:	02:20:26
+		Location:	-33.98007 25.65710
+
+	DWDT3
+		Images:	2095
+		Time:	29.03.2025 08:40:19 until 29.03.2025 10:50:17
+		Duration:	02:09:58
+		Location:	-33.98007 25.65710
+
+(8) - Finish
+	LDT2
+		Images:	3043
+		Time:	29.03.2025 08:27:26 until 29.03.2025 11:05:18
+		Duration:	02:37:52
+		Location:	-33.98165 25.65991
+

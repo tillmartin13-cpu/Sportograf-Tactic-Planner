@@ -1,0 +1,210 @@
+EventId: 13619
+Spots: 31
+Total Images: 122763
+Time:	13.09.2025 19:31:43 to 14.09.2025 15:04:21
+Duration: 19:32:38
+
+(1) - Bike - 16.7 km
+	CFW1
+		Images:	12888
+		Time:	13.09.2025 20:37:01 until 14.09.2025 10:58:23
+		Duration:	14:21:22
+		Location:	NULL NULL
+
+(2) - Bike - 2.2 km
+	MEHO1
+		Images:	1351
+		Time:	14.09.2025 05:43:06 until 14.09.2025 07:06:51
+		Duration:	01:23:45
+		Location:	NULL NULL
+
+(3) - Bike - 33.2 km
+	MTS3
+		Images:	3198
+		Time:	14.09.2025 08:22:21 until 14.09.2025 11:21:47
+		Duration:	02:59:26
+		Location:	NULL NULL
+
+(4) - Bike - 41.1 km
+	MEHO2
+		Images:	3806
+		Time:	14.09.2025 07:18:32 until 14.09.2025 08:34:12
+		Duration:	01:15:40
+		Location:	NULL NULL
+
+(5) - Bike - 41.7 km
+	TSCO1
+		Images:	11
+		Time:	14.09.2025 13:52:59 until 14.09.2025 14:24:00
+		Duration:	00:31:01
+		Location:	NULL NULL
+
+(6) - Bike - 44.5 km
+	TSCO2
+		Images:	553
+		Time:	13.09.2025 19:31:43 until 14.09.2025 07:46:39
+		Duration:	12:14:56
+		Location:	NULL NULL
+
+(7) - Bike - 9.8 km
+	MTS2
+		Images:	2900
+		Time:	14.09.2025 06:39:49 until 14.09.2025 08:19:31
+		Duration:	01:39:42
+		Location:	NULL NULL
+
+(8) - Bike - Impressions / Pano
+	MTS1
+		Images:	20
+		Time:	14.09.2025 05:23:48 until 14.09.2025 05:49:01
+		Duration:	00:25:13
+		Location:	NULL NULL
+
+(9) - Bike - Transition zone
+	AKC2LS1
+		Images:	1396
+		Time:	14.09.2025 06:15:45 until 14.09.2025 07:39:29
+		Duration:	01:23:44
+		Location:	NULL NULL
+
+	AKC7
+		Images:	75
+		Time:	14.09.2025 08:27:54 until 14.09.2025 09:01:10
+		Duration:	00:33:16
+		Location:	NULL NULL
+
+(10) - Finish
+	AKC3
+		Images:	1138
+		Time:	14.09.2025 08:27:54 until 14.09.2025 12:10:16
+		Duration:	03:42:22
+		Location:	NULL NULL
+
+	JEK3
+		Images:	20711
+		Time:	14.09.2025 09:36:28 until 14.09.2025 15:00:19
+		Duration:	05:23:51
+		Location:	NULL NULL
+
+	JEK3LS1
+		Images:	1558
+		Time:	14.09.2025 08:49:11 until 14.09.2025 15:04:21
+		Duration:	06:15:10
+		Location:	NULL NULL
+
+	HOO3
+		Images:	1180
+		Time:	14.09.2025 12:53:25 until 14.09.2025 14:37:39
+		Duration:	01:44:14
+		Location:	NULL NULL
+
+	CFW2
+		Images:	2861
+		Time:	14.09.2025 12:16:51 until 14.09.2025 14:59:33
+		Duration:	02:42:42
+		Location:	NULL NULL
+
+(11) - Run - 1.8 km
+	AKC4
+		Images:	531
+		Time:	14.09.2025 11:00:08 until 14.09.2025 11:22:01
+		Duration:	00:21:53
+		Location:	NULL NULL
+
+	HOO2
+		Images:	1930
+		Time:	14.09.2025 08:34:42 until 14.09.2025 12:21:10
+		Duration:	03:46:28
+		Location:	NULL NULL
+
+(12) - Run - 10.8 km
+	TSCO4
+		Images:	7752
+		Time:	14.09.2025 10:27:12 until 14.09.2025 13:39:53
+		Duration:	03:12:41
+		Location:	NULL NULL
+
+	TSCO4LS1
+		Images:	7215
+		Time:	14.09.2025 09:58:03 until 14.09.2025 13:41:48
+		Duration:	03:43:45
+		Location:	NULL NULL
+
+	AKC6
+		Images:	154
+		Time:	14.09.2025 12:58:51 until 14.09.2025 13:37:12
+		Duration:	00:38:21
+		Location:	NULL NULL
+
+(13) - Run - 21.6 km
+	MTS4
+		Images:	1279
+		Time:	14.09.2025 12:33:43 until 14.09.2025 14:37:07
+		Duration:	02:03:24
+		Location:	NULL NULL
+
+(14) - Run - 3.3 km
+	AKC5
+		Images:	85
+		Time:	14.09.2025 12:31:49 until 14.09.2025 12:48:23
+		Duration:	00:16:34
+		Location:	NULL NULL
+
+	MEHO3
+		Images:	12482
+		Time:	14.09.2025 09:02:29 until 14.09.2025 13:44:23
+		Duration:	04:41:54
+		Location:	NULL NULL
+
+(15) - Run - 3.8 km
+	TSCO3
+		Images:	8033
+		Time:	14.09.2025 07:55:51 until 14.09.2025 09:45:34
+		Duration:	01:49:43
+		Location:	NULL NULL
+
+	TSCO3LS1
+		Images:	6365
+		Time:	13.09.2025 21:37:06 until 14.09.2025 13:10:26
+		Duration:	15:33:20
+		Location:	NULL NULL
+
+(16) - Run - Impressions / Pano
+	TSCO5
+		Images:	1026
+		Time:	14.09.2025 11:36:13 until 14.09.2025 13:40:59
+		Duration:	02:04:46
+		Location:	NULL NULL
+
+(17) - Swim - Impressions / Pano
+	JEK1
+		Images:	40
+		Time:	14.09.2025 05:14:33 until 14.09.2025 06:24:23
+		Duration:	01:09:50
+		Location:	NULL NULL
+
+(18) - Swim - Start
+	AKC1
+		Images:	4073
+		Time:	14.09.2025 06:11:28 until 14.09.2025 08:19:59
+		Duration:	02:08:31
+		Location:	NULL NULL
+
+	JEK2
+		Images:	14192
+		Time:	14.09.2025 06:25:43 until 14.09.2025 08:10:38
+		Duration:	01:44:55
+		Location:	NULL NULL
+
+	JEK2LS1
+		Images:	1772
+		Time:	14.09.2025 06:00:02 until 14.09.2025 08:12:50
+		Duration:	02:12:48
+		Location:	NULL NULL
+
+	HOO1
+		Images:	2188
+		Time:	14.09.2025 05:31:30 until 14.09.2025 07:00:56
+		Duration:	01:29:26
+		Location:	NULL NULL
+

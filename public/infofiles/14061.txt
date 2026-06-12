@@ -1,0 +1,158 @@
+EventId: 14061
+Spots: 26
+Total Images: 48496
+Time:	04.10.2025 07:18:47 to 04.10.2025 20:38:39
+Duration: 13:19:52
+
+(1) - 16,4 km
+	DAR1
+		Images:	5168
+		Time:	04.10.2025 09:39:06 until 04.10.2025 13:23:43
+		Duration:	03:44:37
+		Location:	46.96666 7.38509
+
+	DAR1LS1
+		Images:	1078
+		Time:	04.10.2025 09:15:30 until 04.10.2025 12:38:16
+		Duration:	03:22:46
+		Location:	46.96666 7.38509
+
+	HS2
+		Images:	1110
+		Time:	04.10.2025 15:15:00 until 04.10.2025 19:29:07
+		Duration:	04:14:07
+		Location:	46.96847 7.39413
+
+(2) - Finish
+	DAR2
+		Images:	2649
+		Time:	04.10.2025 15:16:50 until 04.10.2025 20:34:38
+		Duration:	05:17:48
+		Location:	46.94698 7.44431
+
+	DAR2LS1
+		Images:	1181
+		Time:	04.10.2025 15:07:46 until 04.10.2025 20:34:49
+		Duration:	05:27:03
+		Location:	46.94698 7.44431
+
+(3) - 17,2 km
+	HS1
+		Images:	1902
+		Time:	04.10.2025 10:01:47 until 04.10.2025 12:39:30
+		Duration:	02:37:43
+		Location:	46.96847 7.39413
+
+	HS1LS2
+		Images:	1495
+		Time:	04.10.2025 09:43:17 until 04.10.2025 12:24:57
+		Duration:	02:41:40
+		Location:	46.96847 7.39413
+
+	HS1LS1
+		Images:	2027
+		Time:	04.10.2025 09:55:55 until 04.10.2025 15:16:45
+		Duration:	05:20:50
+		Location:	46.96847 7.39413
+
+(4) - 6,0 km
+	LUJ1
+		Images:	4101
+		Time:	04.10.2025 08:15:18 until 04.10.2025 14:19:48
+		Duration:	06:04:30
+		Location:	46.93165 7.41118
+
+	LUJ1LS1
+		Images:	1876
+		Time:	04.10.2025 08:17:58 until 04.10.2025 10:06:46
+		Duration:	01:48:48
+		Location:	46.93165 7.41118
+
+(5) - 43,3 km
+	LUJ2
+		Images:	3558
+		Time:	04.10.2025 14:20:30 until 04.10.2025 19:41:44
+		Duration:	05:21:14
+		Location:	46.94883 7.45905
+
+	LUJ2LS1
+		Images:	1447
+		Time:	04.10.2025 14:36:52 until 04.10.2025 19:29:26
+		Duration:	04:52:34
+		Location:	46.94883 7.45905
+
+	MAWI1IMP1
+		Images:	66
+		Time:	04.10.2025 17:49:08 until 04.10.2025 18:53:38
+		Duration:	01:04:30
+		Location:	46.94698 7.44431
+
+(6) - Start
+	MAWI1
+		Images:	749
+		Time:	04.10.2025 07:18:47 until 04.10.2025 08:40:44
+		Duration:	01:21:57
+		Location:	46.94698 7.44431
+
+(7) - Herotent
+	MAWI3
+		Images:	465
+		Time:	04.10.2025 18:26:30 until 04.10.2025 20:38:39
+		Duration:	02:12:09
+		Location:	46.94698 7.44431
+
+	TE3
+(8) - 22,7 km
+	MAWI2
+		Images:	5000
+		Time:	04.10.2025 09:51:45 until 04.10.2025 18:26:29
+		Duration:	08:34:44
+		Location:	46.97897 7.44113
+
+	MAWI2LS2
+		Images:	1664
+		Time:	04.10.2025 09:46:18 until 04.10.2025 17:48:05
+		Duration:	08:01:47
+		Location:	46.97897 7.44113
+
+	MAWI2LS1
+		Images:	1258
+		Time:	04.10.2025 09:43:22 until 04.10.2025 14:11:18
+		Duration:	04:27:56
+		Location:	46.97897 7.44113
+
+(9) - 21,5 km
+	TE1
+		Images:	6734
+		Time:	04.10.2025 09:57:12 until 04.10.2025 13:36:16
+		Duration:	03:39:04
+		Location:	46.96926 7.43914
+
+	TE1LS1
+		Images:	839
+		Time:	04.10.2025 09:47:36 until 04.10.2025 16:19:54
+		Duration:	06:32:18
+		Location:	46.96926 7.43914
+
+	TE1LS2
+		Images:	1253
+		Time:	04.10.2025 09:47:10 until 04.10.2025 13:36:25
+		Duration:	03:49:15
+		Location:	46.96926 7.43914
+
+(10) - 32,9 km
+	TE2
+		Images:	2259
+		Time:	04.10.2025 13:36:17 until 04.10.2025 16:49:12
+		Duration:	03:12:55
+		Location:	46.95123 7.46063
+
+	TE2LS2
+		Images:	617
+		Time:	04.10.2025 15:08:40 until 04.10.2025 16:21:27
+		Duration:	01:12:47
+		Location:	46.95123 7.46063
+
+	TE2LS1
+(11) - Impressions / Pano
+	PANO1

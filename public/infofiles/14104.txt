@@ -1,0 +1,148 @@
+EventId: 14104
+Spots: 22
+Total Images: 16771
+Time:	19.06.2025 09:19:59 to 22.06.2025 13:39:20
+Duration: 3.04:19:21
+
+(1) - Start
+	S1COR1
+		Images:	228
+		Time:	19.06.2025 09:36:20 until 19.06.2025 10:01:42
+		Duration:	00:25:22
+		Location:	47.39162 13.68836
+
+	S1EP1
+		Images:	170
+		Time:	19.06.2025 09:19:59 until 19.06.2025 10:01:40
+		Duration:	00:41:41
+		Location:	47.39162 13.68836
+
+(2) - 42.0 km Stage 1 - Krummholz
+	S1COR2
+		Images:	923
+		Time:	19.06.2025 12:19:15 until 19.06.2025 14:24:15
+		Duration:	02:05:00
+		Location:	47.37890 13.77130
+
+	S1COR1LS1
+		Images:	468
+		Time:	19.06.2025 12:28:54 until 19.06.2025 13:52:27
+		Duration:	01:23:33
+		Location:	47.37890 13.77130
+
+(3) - 53.0 km Stage 1 - Kessleralm Single Track
+	S1EP2
+		Images:	1243
+		Time:	19.06.2025 12:12:37 until 19.06.2025 15:13:56
+		Duration:	03:01:19
+		Location:	47.382 13.69913
+
+	S1EP2LS1
+		Images:	533
+		Time:	19.06.2025 12:01:35 until 19.06.2025 14:52:30
+		Duration:	02:50:55
+		Location:	47.382 13.69913
+
+(4) - Impressions / Pano
+	S1COR2DRONE1
+		Images:	7
+		Time:	19.06.2025 12:42:41 until 19.06.2025 12:46:08
+		Duration:	00:03:27
+		Location:	47.37890 13.77130
+
+	S2COR1DRONE1
+		Images:	16
+		Time:	20.06.2025 11:35:44 until 20.06.2025 11:41:28
+		Duration:	00:05:44
+		Location:	47.44889 13.61758
+
+	S3COR1DRONE1
+		Images:	15
+		Time:	21.06.2025 12:17:34 until 21.06.2025 12:22:36
+		Duration:	00:05:02
+		Location:	47.36981 13.59530
+
+	S4COR1DRONE1
+		Images:	9
+		Time:	22.06.2025 11:45:01 until 22.06.2025 11:48:32
+		Duration:	00:03:31
+		Location:	47.37472 13.71848
+
+(5) - 20.5 km Stage 2 - Dachstein
+	S2EP1
+		Images:	1346
+		Time:	20.06.2025 11:00:30 until 20.06.2025 12:22:39
+		Duration:	01:22:09
+		Location:	47.44794 13.62048
+
+	S2EP1LS1
+		Images:	713
+		Time:	20.06.2025 10:31:48 until 20.06.2025 12:17:21
+		Duration:	01:45:33
+		Location:	47.44794 13.62048
+
+(6) - 21.0 km Stage 2 - Türlwand Hütte
+	S2COR1
+		Images:	1139
+		Time:	20.06.2025 10:36:48 until 20.06.2025 12:33:49
+		Duration:	01:57:01
+		Location:	47.44889 13.61758
+
+	S2COR1LS1
+		Images:	778
+		Time:	20.06.2025 10:31:50 until 20.06.2025 12:17:25
+		Duration:	01:45:35
+		Location:	47.44889 13.61758
+
+(7) - 24.0 km Stage 3 - Hochalm Trail
+	S3COR1
+		Images:	1785
+		Time:	21.06.2025 10:27:20 until 21.06.2025 13:19:12
+		Duration:	02:51:52
+		Location:	47.36981 13.59530
+
+	S3COR1LS1
+		Images:	481
+		Time:	21.06.2025 11:12:17 until 21.06.2025 13:05:26
+		Duration:	01:53:09
+		Location:	47.36981 13.59530
+
+(8) - 31.0 km Stage 3 - Reiteralmsee
+	S3EP1
+		Images:	1077
+		Time:	21.06.2025 11:19:54 until 21.06.2025 14:23:12
+		Duration:	03:03:18
+		Location:	47.35771 13.59171
+
+	S3EP1LS1
+		Images:	782
+		Time:	21.06.2025 11:04:43 until 21.06.2025 14:23:05
+		Duration:	03:18:22
+		Location:	47.35771 13.59171
+
+(9) - Stage 4 - 500m from Finish
+	S4COR1
+		Images:	1375
+		Time:	22.06.2025 10:08:39 until 22.06.2025 13:31:39
+		Duration:	03:23:00
+		Location:	47.37472 13.71848
+
+	S4COR1LS1
+		Images:	810
+		Time:	22.06.2025 10:02:52 until 22.06.2025 13:35:07
+		Duration:	03:32:15
+		Location:	47.37472 13.71848
+
+(10) - Stage 4 - Finish
+	S4EP1
+		Images:	1605
+		Time:	22.06.2025 10:12:45 until 22.06.2025 13:39:20
+		Duration:	03:26:35
+		Location:	47.37302 13.72289
+
+	S4EP1LS1
+		Images:	1268
+		Time:	22.06.2025 10:30:15 until 22.06.2025 13:37:23
+		Duration:	03:07:08
+		Location:	47.37302 13.72289
+

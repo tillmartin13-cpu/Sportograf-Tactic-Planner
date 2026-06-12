@@ -1,0 +1,390 @@
+EventId: 15352
+Spots: 62
+Total Images: 278002
+Time:	01.01.0001 23:00:00 to 25.05.2025 21:43:09
+Duration: 739394.22:43:09
+
+(1) - Station 8 Wallball
+	AKT1
+		Images:	8542
+		Time:	25.05.2025 08:26:12 until 25.05.2025 21:37:11
+		Duration:	13:10:59
+		Location:	13.66927 100.60963
+
+	LDB1
+		Images:	16851
+		Time:	25.05.2025 08:25:42 until 25.05.2025 21:38:27
+		Duration:	13:12:45
+		Location:	13.66927 100.60963
+
+	LNG1
+		Images:	16577
+		Time:	25.05.2025 09:32:00 until 25.05.2025 21:37:17
+		Duration:	12:05:17
+		Location:	13.66927 100.60963
+
+(2) - Station 1 Ski Erg
+	BIC1
+		Images:	7518
+		Time:	25.05.2025 09:04:33 until 25.05.2025 14:22:10
+		Duration:	05:17:37
+		Location:	13.66927 100.60963
+
+	HTT1
+		Images:	5921
+		Time:	25.05.2025 08:59:03 until 25.05.2025 15:01:28
+		Duration:	06:02:25
+		Location:	13.66927 100.60963
+
+	KAM1
+		Images:	4315
+		Time:	25.05.2025 08:42:46 until 25.05.2025 14:22:30
+		Duration:	05:39:44
+		Location:	13.66927 100.60963
+
+	LV2
+		Images:	3732
+		Time:	25.05.2025 09:05:50 until 25.05.2025 10:20:44
+		Duration:	01:14:54
+		Location:	13.66927 100.60963
+
+	MK2
+		Images:	157
+		Time:	25.05.2025 10:09:14 until 25.05.2025 14:13:44
+		Duration:	04:04:30
+		Location:	13.66927 100.60963
+
+	MVV2
+		Images:	10616
+		Time:	25.05.2025 15:04:59 until 25.05.2025 19:44:19
+		Duration:	04:39:20
+		Location:	13.66927 100.60963
+
+	NP2
+		Images:	10256
+		Time:	25.05.2025 15:25:49 until 25.05.2025 19:45:44
+		Duration:	04:19:55
+		Location:	13.66927 100.60963
+
+(3) - Medalwall
+	BIC2
+		Images:	4458
+		Time:	25.05.2025 14:41:28 until 25.05.2025 21:37:57
+		Duration:	06:56:29
+		Location:	13.66927 100.60963
+
+	BXC1
+		Images:	3364
+		Time:	25.05.2025 10:00:03 until 25.05.2025 14:41:02
+		Duration:	04:40:59
+		Location:	13.66927 100.60963
+
+	HTT7
+		Images:	368
+		Time:	25.05.2025 12:20:21 until 25.05.2025 12:38:32
+		Duration:	00:18:11
+		Location:	13.66927 100.60963
+
+	KAM2
+		Images:	3782
+		Time:	25.05.2025 14:31:49 until 25.05.2025 21:40:36
+		Duration:	07:08:47
+		Location:	13.66927 100.60963
+
+	LV5
+		Images:	128
+		Time:	25.05.2025 15:11:29 until 25.05.2025 15:17:06
+		Duration:	00:05:37
+		Location:	13.66927 100.60963
+
+	MK8
+		Images:	431
+		Time:	25.05.2025 15:02:12 until 25.05.2025 15:37:45
+		Duration:	00:35:33
+		Location:	13.66927 100.60963
+
+	TAP1
+		Images:	2386
+		Time:	25.05.2025 08:24:36 until 25.05.2025 14:31:15
+		Duration:	06:06:39
+		Location:	13.66927 100.60963
+
+(4) - Station 2 Sled Push
+	BXC2
+		Images:	7357
+		Time:	25.05.2025 14:57:57 until 25.05.2025 19:58:36
+		Duration:	05:00:39
+		Location:	13.66927 100.60963
+
+	CAA1
+		Images:	3694
+		Time:	25.05.2025 08:29:09 until 25.05.2025 14:48:46
+		Duration:	06:19:37
+		Location:	13.66927 100.60963
+
+	HTT2
+		Images:	291
+		Time:	25.05.2025 09:52:14 until 25.05.2025 10:55:21
+		Duration:	01:03:07
+		Location:	13.66927 100.60963
+
+	MK3
+		Images:	75
+		Time:	25.05.2025 14:17:36 until 25.05.2025 14:21:01
+		Duration:	00:03:25
+		Location:	13.66927 100.60963
+
+	NTA1
+		Images:	3545
+		Time:	25.05.2025 09:09:52 until 25.05.2025 15:13:25
+		Duration:	06:03:33
+		Location:	13.66927 100.60963
+
+	NTT1
+		Images:	5548
+		Time:	25.05.2025 09:07:32 until 25.05.2025 14:40:17
+		Duration:	05:32:45
+		Location:	13.66927 100.60963
+
+	OCH2
+		Images:	2676
+		Time:	25.05.2025 14:45:54 until 25.05.2025 20:00:07
+		Duration:	05:14:13
+		Location:	13.66927 100.60963
+
+	TOSC2
+		Images:	3903
+		Time:	25.05.2025 15:11:39 until 25.05.2025 20:00:15
+		Duration:	04:48:36
+		Location:	13.66927 100.60963
+
+(5) - Station 4 Burpee Broad Jumps
+	CAA2
+		Images:	3158
+		Time:	25.05.2025 14:50:11 until 25.05.2025 20:35:11
+		Duration:	05:45:00
+		Location:	13.66927 100.60963
+
+	HTT4
+		Images:	5749
+		Time:	25.05.2025 10:03:54 until 25.05.2025 19:15:51
+		Duration:	09:11:57
+		Location:	13.66927 100.60963
+
+	MK5
+		Images:	844
+		Time:	25.05.2025 09:27:00 until 25.05.2025 11:33:43
+		Duration:	02:06:43
+		Location:	13.66927 100.60963
+
+	YH1
+		Images:	3519
+		Time:	25.05.2025 09:26:49 until 25.05.2025 14:41:14
+		Duration:	05:14:25
+		Location:	13.66927 100.60963
+
+(6) - Station 3 Sled Pull
+	DCL1
+		Images:	6329
+		Time:	25.05.2025 09:32:59 until 25.05.2025 14:49:48
+		Duration:	05:16:49
+		Location:	13.66927 100.60963
+
+	HTT3
+		Images:	541
+		Time:	25.05.2025 12:44:10 until 25.05.2025 12:56:47
+		Duration:	00:12:37
+		Location:	13.66927 100.60963
+
+	MK4
+		Images:	18
+		Time:	25.05.2025 14:14:28 until 25.05.2025 14:17:09
+		Duration:	00:02:41
+		Location:	13.66927 100.60963
+
+	PCT1
+		Images:	3582
+		Time:	25.05.2025 08:33:51 until 25.05.2025 14:59:31
+		Duration:	06:25:40
+		Location:	13.66927 100.60963
+
+	RDI1
+		Images:	2065
+		Time:	25.05.2025 09:20:42 until 25.05.2025 15:04:49
+		Duration:	05:44:07
+		Location:	13.66927 100.60963
+
+	TAP2
+		Images:	6389
+		Time:	25.05.2025 14:52:58 until 25.05.2025 20:17:52
+		Duration:	05:24:54
+		Location:	13.66927 100.60963
+
+	TDK2
+		Images:	2739
+		Time:	25.05.2025 15:06:09 until 25.05.2025 20:44:57
+		Duration:	05:38:48
+		Location:	13.66927 100.60963
+
+	YH2
+		Images:	2045
+		Time:	25.05.2025 14:48:31 until 25.05.2025 20:13:51
+		Duration:	05:25:20
+		Location:	13.66927 100.60963
+
+(7) - Station 7 Sandbag Lunges
+	DCL2
+		Images:	5006
+		Time:	25.05.2025 09:21:08 until 25.05.2025 21:19:33
+		Duration:	11:58:25
+		Location:	13.66927 100.60963
+
+	HTT5
+		Images:	142
+		Time:	25.05.2025 10:40:51 until 25.05.2025 10:47:02
+		Duration:	00:06:11
+		Location:	13.66927 100.60963
+
+	LV4
+		Images:	2773
+		Time:	25.05.2025 11:41:03 until 25.05.2025 19:55:19
+		Duration:	08:14:16
+		Location:	13.66927 100.60963
+
+	MK7
+		Images:	1220
+		Time:	25.05.2025 11:46:59 until 25.05.2025 19:49:24
+		Duration:	08:02:25
+		Location:	13.66927 100.60963
+
+	MVV1
+		Images:	8573
+		Time:	25.05.2025 08:58:19 until 25.05.2025 14:54:52
+		Duration:	05:56:33
+		Location:	13.66927 100.60963
+
+	RDI2
+		Images:	2920
+		Time:	25.05.2025 15:05:56 until 25.05.2025 21:12:31
+		Duration:	06:06:35
+		Location:	13.66927 100.60963
+
+	TDK1
+		Images:	2977
+		Time:	25.05.2025 08:32:19 until 25.05.2025 15:05:41
+		Duration:	06:33:22
+		Location:	13.66927 100.60963
+
+(8) - Station 6 Farmers Carry
+	DCL1LS1
+		Images:	6127
+		Time:	01.01.2014 07:00:32 until 25.05.2025 21:11:30
+		Duration:	4162.14:10:58
+		Location:	13.66927 100.60963
+
+	OCH1LS1
+		Images:	3501
+		Time:	25.05.2025 08:37:18 until 25.05.2025 21:13:04
+		Duration:	12:35:46
+		Location:	13.66927 100.60963
+
+(9) - Finish
+	HTT6
+		Images:	5690
+		Time:	25.05.2025 11:36:36 until 25.05.2025 20:03:29
+		Duration:	08:26:53
+		Location:	13.66927 100.60963
+
+	HTT6LS1
+		Images:	4795
+		Time:	25.05.2025 06:32:32 until 25.05.2025 20:24:13
+		Duration:	13:51:41
+		Location:	13.66927 100.60963
+
+	HTT6LS2
+		Images:	3897
+		Time:	25.05.2025 06:35:31 until 25.05.2025 20:51:16
+		Duration:	14:15:45
+		Location:	13.66927 100.60963
+
+	LV6
+		Images:	553
+		Time:	25.05.2025 21:08:12 until 25.05.2025 21:43:09
+		Duration:	00:34:57
+		Location:	13.66927 100.60963
+
+	NP1
+		Images:	9292
+		Time:	01.01.0001 23:00:00 until 25.05.2025 15:09:14
+		Duration:	739394.16:09:14
+		Location:	13.66927 100.60963
+
+	PCT2
+		Images:	8454
+		Time:	25.05.2025 15:09:24 until 25.05.2025 21:14:06
+		Duration:	06:04:42
+		Location:	13.66927 100.60963
+
+(10) - Impression
+	LV1
+		Images:	220
+		Time:	25.05.2025 10:35:38 until 25.05.2025 14:23:39
+		Duration:	03:48:01
+		Location:	13.66927 100.60963
+
+	MK1
+		Images:	856
+		Time:	25.05.2025 13:41:24 until 25.05.2025 20:22:40
+		Duration:	06:41:16
+		Location:	13.66927 100.60963
+
+(11) - Station 5 Rowing
+	LV3
+		Images:	8554
+		Time:	25.05.2025 11:00:17 until 25.05.2025 19:20:05
+		Duration:	08:19:48
+		Location:	13.66927 100.60963
+
+	MK6
+		Images:	1381
+		Time:	25.05.2025 14:28:26 until 25.05.2025 19:20:33
+		Duration:	04:52:07
+		Location:	13.66927 100.60963
+
+	NTA2
+		Images:	4534
+		Time:	25.05.2025 15:14:57 until 25.05.2025 20:50:19
+		Duration:	05:35:22
+		Location:	13.66927 100.60963
+
+	NTT2
+		Images:	6799
+		Time:	25.05.2025 14:44:22 until 25.05.2025 20:29:07
+		Duration:	05:44:45
+		Location:	13.66927 100.60963
+
+	OCH1
+		Images:	5674
+		Time:	25.05.2025 09:00:08 until 25.05.2025 14:44:35
+		Duration:	05:44:27
+		Location:	13.66927 100.60963
+
+	TOSC1
+		Images:	7322
+		Time:	25.05.2025 08:26:33 until 25.05.2025 15:06:40
+		Duration:	06:40:07
+		Location:	13.66927 100.60963
+
+(12) - Run Run Between S2 and S3
+	NP1LS1
+		Images:	11208
+		Time:	25.05.2025 08:42:15 until 25.05.2025 20:18:18
+		Duration:	11:36:03
+		Location:	13.66927 100.60963
+
+	NP1LS2
+		Images:	2065
+		Time:	25.05.2025 08:22:01 until 25.05.2025 21:02:08
+		Duration:	12:40:07
+		Location:	13.66927 100.60963
+

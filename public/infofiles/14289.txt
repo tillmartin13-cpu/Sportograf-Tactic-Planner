@@ -1,0 +1,130 @@
+EventId: 14289
+Spots: 20
+Total Images: 14352
+Time:	08.10.2025 10:35:35 to 08.10.2025 18:40:31
+Duration: 08:04:56
+
+(1) - Generation Roc - Forest
+	PKA1
+		Images:	212
+		Time:	08.10.2025 10:57:30 until 08.10.2025 11:41:45
+		Duration:	00:44:15
+		Location:	43.41216 6.73635
+
+	PKA1LS2
+		Images:	177
+		Time:	08.10.2025 10:39:53 until 08.10.2025 11:44:17
+		Duration:	01:04:24
+		Location:	43.41216 6.73635
+
+	PKA1LS1
+		Images:	221
+		Time:	08.10.2025 10:49:03 until 08.10.2025 11:45:05
+		Duration:	00:56:02
+		Location:	43.41216 6.73635
+
+(2) - Generation Roc - Beach
+	COR1
+		Images:	476
+		Time:	08.10.2025 11:14:59 until 08.10.2025 11:46:09
+		Duration:	00:31:10
+		Location:	43.41212 6.73628
+
+	COR1LS1
+		Images:	178
+		Time:	08.10.2025 10:35:35 until 08.10.2025 11:47:46
+		Duration:	01:12:11
+		Location:	43.41212 6.73628
+
+(3) - Start
+	PKA2
+		Images:	127
+		Time:	08.10.2025 13:18:38 until 08.10.2025 15:34:46
+		Duration:	02:16:08
+		Location:	43.41744 6.73500
+
+(4) - 9.0 km Uphill
+	EP1
+		Images:	1772
+		Time:	08.10.2025 13:53:13 until 08.10.2025 15:51:27
+		Duration:	01:58:14
+		Location:	43.39127 6.69716
+
+	EP1LS1
+		Images:	572
+		Time:	08.10.2025 13:44:26 until 08.10.2025 15:57:37
+		Duration:	02:13:11
+		Location:	43.39127 6.69716
+
+(5) - 9.5 km L'Agroitier
+	KAV1
+		Images:	1279
+		Time:	08.10.2025 13:56:48 until 08.10.2025 15:59:52
+		Duration:	02:03:04
+		Location:	43.38780 6.68940
+
+(6) - 27.0 km Singletrail
+	JLTG1
+		Images:	1144
+		Time:	08.10.2025 14:55:46 until 08.10.2025 18:21:53
+		Duration:	03:26:07
+		Location:	43.40133 6.70691
+
+	JLTG1LS2
+		Images:	752
+		Time:	08.10.2025 14:38:19 until 08.10.2025 18:22:47
+		Duration:	03:44:28
+		Location:	43.40133 6.70691
+
+	JLTG1LS1
+		Images:	694
+		Time:	08.10.2025 14:28:01 until 08.10.2025 18:22:59
+		Duration:	03:54:58
+		Location:	43.40133 6.70691
+
+(7) - 27.5 km Singletrail
+	MANR1
+		Images:	2968
+		Time:	08.10.2025 14:57:44 until 08.10.2025 18:23:19
+		Duration:	03:25:35
+		Location:	43.40133 6.71043
+
+	MANR1LS2
+		Images:	815
+		Time:	08.10.2025 14:19:34 until 08.10.2025 17:46:59
+		Duration:	03:27:25
+		Location:	43.40133 6.71043
+
+	MANR1LS1
+		Images:	826
+		Time:	08.10.2025 14:42:07 until 08.10.2025 18:22:47
+		Duration:	03:40:40
+		Location:	43.40133 6.71043
+
+(8) - Finish
+	PKA3
+		Images:	897
+		Time:	08.10.2025 15:35:53 until 08.10.2025 18:40:31
+		Duration:	03:04:38
+		Location:	43.41744 6.73500
+
+	PKA3LS2
+		Images:	636
+		Time:	08.10.2025 15:10:48 until 08.10.2025 18:33:31
+		Duration:	03:22:43
+		Location:	43.41744 6.73500
+
+	PKA3LS1
+		Images:	586
+		Time:	08.10.2025 15:13:58 until 08.10.2025 18:32:23
+		Duration:	03:18:25
+		Location:	43.41744 6.73500
+
+(9) - Impressions / Pano
+	COR1DRONE1
+		Images:	20
+		Time:	08.10.2025 11:05:00 until 08.10.2025 15:09:51
+		Duration:	04:04:51
+		Location:	43.41744 6.73500
+
+	PANO1

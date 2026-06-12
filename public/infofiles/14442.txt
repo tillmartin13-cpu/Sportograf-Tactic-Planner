@@ -1,0 +1,87 @@
+EventId: 14442
+Spots: 12
+Total Images: 30334
+Time:	17.05.2025 06:42:21 to 18.05.2025 14:00:17
+Duration: 1.07:17:56
+
+(1) - Obstacle 1
+	CASS1
+		Images:	802
+		Time:	18.05.2025 07:05:18 until 18.05.2025 12:06:39
+		Duration:	05:01:21
+		Location:	44.02294 -78.57509
+
+	LHBC1
+		Images:	1346
+		Time:	17.05.2025 07:04:52 until 18.05.2025 12:06:52
+		Duration:	1.05:02:00
+		Location:	44.02294 -78.57509
+
+(2) - Herotent
+	DMED1
+		Images:	874
+		Time:	17.05.2025 07:17:07 until 18.05.2025 14:00:17
+		Duration:	1.06:43:10
+		Location:	44.02675 -78.57723
+
+(3) - Obstacle 4
+	ERIC1
+		Images:	3707
+		Time:	17.05.2025 07:07:29 until 18.05.2025 12:18:40
+		Duration:	1.05:11:11
+		Location:	44.02677 -78.57626
+
+	MAVA1
+		Images:	3071
+		Time:	17.05.2025 07:02:08 until 18.05.2025 12:17:19
+		Duration:	1.05:15:11
+		Location:	44.02677 -78.57626
+
+(4) - Obstacle 25
+	HAMK1
+		Images:	5303
+		Time:	17.05.2025 07:04:21 until 18.05.2025 13:50:44
+		Duration:	1.06:46:23
+		Location:	44.02639 -78.57800
+
+(5) - Obstacle 17
+	JSS1
+		Images:	2367
+		Time:	17.05.2025 06:42:21 until 18.05.2025 13:45:26
+		Duration:	1.07:03:05
+		Location:	44.02670 -78.58410
+
+	PNR1
+		Images:	2025
+		Time:	18.05.2025 07:31:01 until 18.05.2025 13:24:34
+		Duration:	05:53:33
+		Location:	44.02670 -78.58410
+
+(6) - Obstacle 19
+	KENY1
+		Images:	3393
+		Time:	17.05.2025 07:06:40 until 18.05.2025 13:03:44
+		Duration:	1.05:57:04
+		Location:	44.02319 -78.57906
+
+(7) - General
+	NIMA1
+		Images:	311
+		Time:	18.05.2025 06:56:35 until 18.05.2025 10:25:19
+		Duration:	03:28:44
+		Location:	44.02353 -78.58076
+
+(8) - Obstacle 5
+	TAS1
+		Images:	2458
+		Time:	17.05.2025 07:23:30 until 18.05.2025 12:30:00
+		Duration:	1.05:06:30
+		Location:	44.02664 -78.57650
+
+(9) - Obstacle 10
+	THAT1
+		Images:	4677
+		Time:	17.05.2025 07:02:44 until 18.05.2025 12:59:53
+		Duration:	1.05:57:09
+		Location:	44.02282 -78.57897
+

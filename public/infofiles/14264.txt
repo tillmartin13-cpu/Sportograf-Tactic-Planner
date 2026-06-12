@@ -1,0 +1,405 @@
+EventId: 14264
+Spots: 59
+Total Images: 77402
+Time:	24.02.2025 08:15:49 to 01.03.2025 11:16:37
+Duration: 5.03:00:48
+
+(1) - Impressions / Pano
+	PANO1
+		Images:	4
+		Time:	27.02.2025 09:48:56 until 27.02.2025 13:24:16
+		Duration:	03:35:20
+		Location:	37.89314 -4.77991
+
+	S1MANR1DRONE1
+		Images:	7
+		Time:	24.02.2025 08:15:49 until 24.02.2025 10:33:28
+		Duration:	02:17:39
+		Location:	37.20841 -3.49263
+
+	S2MANR1DRONE1
+		Images:	5
+		Time:	26.02.2025 10:50:23 until 26.02.2025 12:09:42
+		Duration:	01:19:19
+		Location:	37.15476 -3.55709
+
+	S4MANR1DRONE1
+		Images:	37
+		Time:	27.02.2025 09:47:55 until 27.02.2025 11:36:32
+		Duration:	01:48:37
+		Location:	37.75991 -3.84171
+
+(2) - Stage 1 -Km 16,5
+	S1MANR1
+		Images:	1521
+		Time:	24.02.2025 09:42:46 until 24.02.2025 10:34:01
+		Duration:	00:51:15
+		Location:	37.20841 -3.49263
+
+(3) - Stage 1 -Km 17
+	S1MANR1LS1
+		Images:	452
+		Time:	24.02.2025 08:44:13 until 24.02.2025 09:54:31
+		Duration:	01:10:18
+		Location:	37.20839 -3.4929
+
+(4) - Stage 1 -Km 21,4
+	S1TGM1LS1
+		Images:	530
+		Time:	24.02.2025 08:58:16 until 24.02.2025 11:22:07
+		Duration:	02:23:51
+		Location:	37.22016 -3.45211
+
+(5) - Stage 1 -Km 21,5
+	S1TGM1
+		Images:	2349
+		Time:	24.02.2025 09:58:38 until 24.02.2025 11:21:53
+		Duration:	01:23:15
+		Location:	37.21997 -3.45186
+
+	S1TGM1LS2
+		Images:	536
+		Time:	24.02.2025 08:20:33 until 24.02.2025 11:22:17
+		Duration:	03:01:44
+		Location:	37.21997 -3.45186
+
+(6) - Stage 1 -Km 23
+	S1JCFJ1
+		Images:	4558
+		Time:	24.02.2025 09:02:06 until 24.02.2025 12:46:43
+		Duration:	03:44:37
+		Location:	37.23100 -3.44377
+
+	S1JCFJ1LS1
+		Images:	984
+		Time:	24.02.2025 09:03:30 until 24.02.2025 12:42:10
+		Duration:	03:38:40
+		Location:	37.23100 -3.44377
+
+(7) - Stage 1 -Km 61
+	S1JCFJ2
+		Images:	1235
+		Time:	24.02.2025 12:49:27 until 24.02.2025 15:44:53
+		Duration:	02:55:26
+		Location:	37.15499 -3.54053
+
+	S1JCFJ2LS1
+		Images:	248
+		Time:	24.02.2025 12:42:19 until 24.02.2025 15:17:18
+		Duration:	02:34:59
+		Location:	37.15499 -3.54053
+
+(8) - Stage 1 -Km 62,5
+	S1MANR2
+		Images:	1123
+		Time:	24.02.2025 12:13:48 until 24.02.2025 15:21:03
+		Duration:	03:07:15
+		Location:	37.15695 -3.54895
+
+	S1MANR2LS1
+		Images:	344
+		Time:	24.02.2025 11:35:43 until 24.02.2025 13:44:58
+		Duration:	02:09:15
+		Location:	37.15695 -3.54895
+
+	S1TGM2
+		Images:	197
+		Time:	24.02.2025 12:47:57 until 24.02.2025 15:22:19
+		Duration:	02:34:22
+		Location:	37.15695 -3.54895
+
+(9) - Stage 1 -Km 63
+	S1TGM2LS1
+		Images:	584
+		Time:	24.02.2025 12:18:57 until 24.02.2025 15:21:52
+		Duration:	03:02:55
+		Location:	37.21979 -3.45169
+
+(10) - Stage 2 -Km 14,3
+	S2TGM1
+		Images:	488
+		Time:	25.02.2025 09:39:31 until 25.02.2025 11:28:59
+		Duration:	01:49:28
+		Location:	37.15604 -3.55906
+
+(11) - Stage 2 -Km 14,4
+	S2TGM1LS1
+		Images:	511
+		Time:	25.02.2025 08:22:54 until 25.02.2025 11:29:22
+		Duration:	03:06:28
+		Location:	37.15589 -3.55927
+
+(12) - Stage 2 -Km 16,5
+	S2MANR1LS1
+		Images:	704
+		Time:	25.02.2025 09:39:24 until 25.02.2025 12:36:16
+		Duration:	02:56:52
+		Location:	37.1549 -3.55675
+
+(13) - Stage 2 -Km 16,6
+	S2MANR1LS2
+		Images:	149
+		Time:	25.02.2025 08:57:54 until 25.02.2025 09:12:05
+		Duration:	00:14:11
+		Location:	37.15499 -3.55705
+
+(14) - Stage 2 -Km 16,7
+	S2MANR1
+		Images:	1822
+		Time:	24.02.2025 18:39:37 until 25.02.2025 11:39:39
+		Duration:	17:00:02
+		Location:	37.15476 -3.55709
+
+(15) - Stage 2 -Km 17
+	S2JCFJ1
+		Images:	3936
+		Time:	25.02.2025 09:10:33 until 25.02.2025 11:44:28
+		Duration:	02:33:55
+		Location:	37.15496 -3.55523
+
+(16) - Stage 2 -Km 17,2
+	S2JCFJ1LS3
+		Images:	566
+		Time:	25.02.2025 09:01:31 until 25.02.2025 11:42:57
+		Duration:	02:41:26
+		Location:	37.15496 -3.55524
+
+(17) - Stage 2 -Km 17,3
+	S2JCFJ1LS2
+		Images:	614
+		Time:	25.02.2025 09:01:52 until 25.02.2025 11:44:21
+		Duration:	02:42:29
+		Location:	37.15476 -3.55530
+
+(18) - Stage 2 -Km 17,5
+	S2JCFJ1LS1
+		Images:	616
+		Time:	25.02.2025 08:29:51 until 25.02.2025 11:44:21
+		Duration:	03:14:30
+		Location:	37.15476 -3.55530
+
+(19) - Stage 3 -Km 19,2
+	S3JCFJ1LS2
+		Images:	964
+		Time:	26.02.2025 08:14:57 until 26.02.2025 11:26:16
+		Duration:	03:11:19
+		Location:	37.15476 -3.55530
+
+	S3JCFJ1
+		Images:	5004
+		Time:	26.02.2025 09:55:34 until 26.02.2025 11:27:09
+		Duration:	01:31:35
+		Location:	37.15476 -3.55530
+
+(20) - Stage 3 -Km 19,4
+	S3TGM1
+		Images:	3771
+		Time:	26.02.2025 09:55:15 until 26.02.2025 11:26:51
+		Duration:	01:31:36
+		Location:	37.15589 -3.55927
+
+	S3TGM1LS1
+		Images:	389
+		Time:	26.02.2025 08:58:59 until 26.02.2025 11:27:11
+		Duration:	02:28:12
+		Location:	37.15589 -3.55927
+
+(21) - Stage 3 -Km 36
+	S3MANR1LS1
+		Images:	815
+		Time:	26.02.2025 08:00:00 until 26.02.2025 12:20:38
+		Duration:	04:20:38
+		Location:	37.76993 -3.58907
+
+(22) - Stage 3 -Km 36,2
+	S3MANR1
+		Images:	966
+		Time:	26.02.2025 08:56:43 until 26.02.2025 13:20:54
+		Duration:	04:24:11
+		Location:	37.76975 -3.58898
+
+(23) - Stage 3 -Km 53
+	S3TGM2
+		Images:	1379
+		Time:	26.02.2025 12:41:40 until 26.02.2025 15:20:36
+		Duration:	02:38:56
+		Location:	37.73973 -3.65487
+
+(24) - Stage 3 -Km 53,1
+	S3TGM2LS1
+		Images:	403
+		Time:	26.02.2025 12:18:27 until 26.02.2025 15:21:03
+		Duration:	03:02:36
+		Location:	37.73311 -3.67930
+
+(25) - Stage 3 -Km 53,4
+	S3JCFJ2
+		Images:	2612
+		Time:	26.02.2025 12:19:13 until 26.02.2025 15:29:07
+		Duration:	03:09:54
+		Location:	37.73311 -3.67930
+
+(26) - Stage 4 -Km 23,8
+	S4MANR1LS1
+		Images:	454
+		Time:	27.02.2025 07:49:38 until 27.02.2025 10:41:37
+		Duration:	02:51:59
+		Location:	37.75957 -3.84270
+
+(27) - Stage 4 -Km 24
+	S4MANR1
+		Images:	495
+		Time:	27.02.2025 09:32:55 until 27.02.2025 12:05:03
+		Duration:	02:32:08
+		Location:	37.75991 -3.84171
+
+(28) - Stage 4 -Km 28,3
+	S4JCFJ1LS1
+		Images:	1162
+		Time:	27.02.2025 09:27:46 until 27.02.2025 12:59:12
+		Duration:	03:31:26
+		Location:	37.76215 -3.82306
+
+(29) - Stage 4 -Km 28,4
+	S4JCFJ1LS3
+		Images:	1712
+		Time:	27.02.2025 08:51:14 until 27.02.2025 13:00:12
+		Duration:	04:08:58
+		Location:	37.76176 -3.82380
+
+	S4JCFJ1LS2
+		Images:	1990
+		Time:	27.02.2025 08:29:49 until 27.02.2025 13:00:11
+		Duration:	04:30:22
+		Location:	37.76176 -3.82380
+
+(30) - Stage 4 -Km 28,5
+	S4JCFJ1
+		Images:	5661
+		Time:	27.02.2025 09:29:48 until 27.02.2025 12:52:22
+		Duration:	03:22:34
+		Location:	37.76157 -3.82413
+
+(31) - Stage 4 -Km 28,6
+	S4TGM1LS2
+		Images:	573
+		Time:	27.02.2025 09:40:51 until 27.02.2025 13:00:12
+		Duration:	03:19:21
+		Location:	37.76118 -3.82434
+
+(32) - Stage 4 -Km 28,7
+	S4TGM1LS1
+		Images:	509
+		Time:	27.02.2025 08:38:36 until 27.02.2025 12:41:38
+		Duration:	04:03:02
+		Location:	37.76111 -3.82473
+
+(33) - Stage 4 -Km 28,8
+	S4TGM1
+		Images:	3861
+		Time:	27.02.2025 10:22:16 until 27.02.2025 12:55:30
+		Duration:	02:33:14
+		Location:	37.76116 -3.82391
+
+(34) - Stage 5 -Km 29,2
+	S5MANR1LS2
+		Images:	1413
+		Time:	28.02.2025 07:45:09 until 28.02.2025 10:30:43
+		Duration:	02:45:34
+		Location:	37.957 -4.8143
+
+	S5MANR1LS1
+		Images:	1556
+		Time:	28.02.2025 08:10:04 until 28.02.2025 10:30:11
+		Duration:	02:20:07
+		Location:	37.957 -4.8143
+
+(35) - Start
+	S5JCFJ1
+		Images:	506
+		Time:	28.02.2025 07:50:02 until 28.02.2025 09:01:14
+		Duration:	01:11:12
+		Location:	37.89314 -4.77991
+
+(36) - Stage 5 -Km 29,3
+	S5MANR1
+		Images:	1243
+		Time:	28.02.2025 09:41:43 until 28.02.2025 12:39:55
+		Duration:	02:58:12
+		Location:	37.95694 -4.81491
+
+(37) - Stage 5 -Km 31,4
+	S5TGM1LS1
+		Images:	346
+		Time:	28.02.2025 09:02:32 until 28.02.2025 12:51:06
+		Duration:	03:48:34
+		Location:	37.96091 -4.83194
+
+(38) - Stage 5 -Km 31,5
+	S5TGM1LS2
+		Images:	457
+		Time:	28.02.2025 09:10:28 until 28.02.2025 12:51:06
+		Duration:	03:40:38
+		Location:	37.96097 -4.83194
+
+(39) - Stage 5 -Km 31,7
+	S5TGM1
+		Images:	3537
+		Time:	28.02.2025 10:16:39 until 28.02.2025 12:50:30
+		Duration:	02:33:51
+		Location:	37.96174 -4.8319
+
+(40) - Finish
+	S5JCFJ2
+		Images:	3568
+		Time:	28.02.2025 10:24:28 until 28.02.2025 14:55:34
+		Duration:	04:31:06
+		Location:	37.90314 -4.77805
+
+	S5JCFJ2LS2
+		Images:	617
+		Time:	28.02.2025 11:05:41 until 28.02.2025 14:59:21
+		Duration:	03:53:40
+		Location:	37.90314 -4.77805
+
+	S5JCFJ2LS1
+		Images:	404
+		Time:	28.02.2025 10:04:22 until 28.02.2025 14:59:17
+		Duration:	04:54:55
+		Location:	37.90314 -4.77805
+
+(41) - Stage 6 -Km 6,2
+	S6MANR1LS1
+		Images:	559
+		Time:	01.03.2025 06:28:06 until 01.03.2025 09:58:09
+		Duration:	03:30:03
+		Location:	37.93297 -4.7673
+
+(42) - Stage 6 -Km 6,3
+	S6MANR1
+		Images:	1309
+		Time:	01.03.2025 07:59:12 until 01.03.2025 11:07:41
+		Duration:	03:08:29
+		Location:	37.93218 -4.76778
+
+(43) - Stage 6 -Km 6,5
+	S6TGM1LS2
+		Images:	539
+		Time:	01.03.2025 08:21:27 until 01.03.2025 11:16:37
+		Duration:	02:55:10
+		Location:	37.93272 -4.76849
+
+(44) - Stage 6 -Km 6,7
+	S6TGM1
+		Images:	3956
+		Time:	01.03.2025 08:42:30 until 01.03.2025 11:07:39
+		Duration:	02:25:09
+		Location:	37.93283 -4.76841
+
+(45) - Stage 6 -Km 6,8
+	S6TGM1LS1
+		Images:	552
+		Time:	01.03.2025 08:38:36 until 01.03.2025 11:10:17
+		Duration:	02:31:41
+		Location:	37.93287 -4.76841
+

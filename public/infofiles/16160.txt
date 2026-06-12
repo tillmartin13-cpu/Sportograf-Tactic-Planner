@@ -1,0 +1,15 @@
+EventId: 16160
+Spots: 2
+Total Images: 615
+Time:	26.10.2025 18:15:51 to 26.10.2025 18:48:11
+Duration: 00:32:20
+
+(1) - Impressions / Pano
+	PANO1
+(2) - none
+	ZZZ1
+		Images:	615
+		Time:	26.10.2025 18:15:51 until 26.10.2025 18:48:11
+		Duration:	00:32:20
+		Location:	NULL NULL
+

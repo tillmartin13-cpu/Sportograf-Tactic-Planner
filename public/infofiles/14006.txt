@@ -1,0 +1,156 @@
+EventId: 14006
+Spots: 23
+Total Images: 186712
+Time:	31.12.2013 23:06:13 to 07.06.2025 17:54:10
+Duration: 4175.18:47:57
+
+(1) - LUMBERJACK
+	DP1
+		Images:	16781
+		Time:	07.06.2025 08:08:11 until 07.06.2025 15:06:38
+		Duration:	06:58:27
+		Location:	55.99031 -3.46044
+
+	SMK1
+		Images:	10318
+		Time:	07.06.2025 07:42:05 until 07.06.2025 15:06:19
+		Duration:	07:24:14
+		Location:	55.99031 -3.46044
+
+	JUW1
+		Images:	508
+		Time:	07.06.2025 09:40:08 until 07.06.2025 09:56:09
+		Duration:	00:16:01
+		Location:	55.99031 -3.46044
+
+(2) - AFTER LUMBERJACK
+	DP1LS1
+		Images:	4658
+		Time:	31.12.2013 23:06:13 until 01.01.2014 06:53:57
+		Duration:	07:47:44
+		Location:	55.99031 -3.46044
+
+(3) - KISS OF MUD
+	JOEM1
+		Images:	19793
+		Time:	07.06.2025 07:45:49 until 07.06.2025 15:21:50
+		Duration:	07:36:01
+		Location:	55.99282 -3.47116
+
+	MALV1
+		Images:	20823
+		Time:	07.06.2025 08:07:58 until 07.06.2025 15:18:56
+		Duration:	07:10:58
+		Location:	55.99282 -3.47116
+
+(4) - STAIRWAY TO HEAVEN
+	DATI1
+		Images:	12268
+		Time:	07.06.2025 08:15:18 until 07.06.2025 15:29:01
+		Duration:	07:13:43
+		Location:	55.99544 -3.47177
+
+	JUW3
+		Images:	1692
+		Time:	07.06.2025 11:07:36 until 07.06.2025 11:27:28
+		Duration:	00:19:52
+		Location:	55.99544 -3.47177
+
+(5) - SKIDMARKED
+	WIN1
+		Images:	22474
+		Time:	07.06.2025 06:10:30 until 07.06.2025 17:23:01
+		Duration:	11:12:31
+		Location:	55.99406 -3.47410
+
+	JUW4
+		Images:	573
+		Time:	07.06.2025 11:34:53 until 07.06.2025 11:43:10
+		Duration:	00:08:17
+		Location:	55.99406 -3.47410
+
+(6) - HYDROPHOBIA
+	DCOI1
+		Images:	10856
+		Time:	07.06.2025 09:23:41 until 07.06.2025 17:25:11
+		Duration:	08:01:30
+		Location:	55.99385 -3.47199
+
+	OOT1
+		Images:	7262
+		Time:	07.06.2025 09:33:02 until 07.06.2025 17:25:10
+		Duration:	07:52:08
+		Location:	55.99385 -3.47199
+
+(7) - BRAIN FREEZE
+	CMS1
+		Images:	18757
+		Time:	07.06.2025 07:51:04 until 07.06.2025 17:32:32
+		Duration:	09:41:28
+		Location:	55.99123 -3.46724
+
+	MCO1
+		Images:	7387
+		Time:	07.06.2025 09:32:42 until 07.06.2025 17:33:45
+		Duration:	08:01:03
+		Location:	55.99123 -3.46724
+
+	JUW6
+		Images:	455
+		Time:	07.06.2025 10:37:17 until 07.06.2025 10:52:10
+		Duration:	00:14:53
+		Location:	55.99123 -3.46724
+
+(8) - HANGING TOUGH
+	HCF1
+		Images:	17209
+		Time:	07.06.2025 07:42:00 until 07.06.2025 17:18:39
+		Duration:	09:36:39
+		Location:	55.99031 -3.46429
+
+	JUW7
+		Images:	805
+		Time:	07.06.2025 11:57:04 until 07.06.2025 12:06:42
+		Duration:	00:09:38
+		Location:	55.99031 -3.46429
+
+(9) - EST
+	DEC1
+		Images:	9747
+		Time:	07.06.2025 09:40:25 until 07.06.2025 17:51:51
+		Duration:	08:11:26
+		Location:	55.99185 -3.47230
+
+	JUW8
+		Images:	371
+		Time:	07.06.2025 12:16:29 until 07.06.2025 12:24:50
+		Duration:	00:08:21
+		Location:	55.99185 -3.47230
+
+(10) - Herotent
+	TOMY1
+		Images:	2468
+		Time:	07.06.2025 07:56:27 until 07.06.2025 17:54:10
+		Duration:	09:57:43
+		Location:	55.99154 -3.47274
+
+	KYY1
+		Images:	1434
+		Time:	07.06.2025 07:47:30 until 07.06.2025 17:01:17
+		Duration:	09:13:47
+		Location:	55.99154 -3.47274
+
+(11) - Impressions / Pano
+	PANO1
+		Images:	52
+		Time:	07.06.2025 07:35:37 until 07.06.2025 09:38:41
+		Duration:	02:03:04
+		Location:	55.99154 -3.47274
+
+(12) - VARIOUS
+	PANO1DRONE1
+		Images:	21
+		Time:	07.06.2025 08:30:03 until 07.06.2025 10:11:05
+		Duration:	01:41:02
+		Location:	55.99154 -3.47274
+

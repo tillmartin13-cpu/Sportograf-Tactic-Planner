@@ -1,0 +1,67 @@
+EventId: 14032
+Spots: 10
+Total Images: 33405
+Time:	25.07.2025 12:16:42 to 25.07.2025 22:42:30
+Duration: 10:25:48
+
+(1) - 0.3 km
+	SSW1
+		Images:	4635
+		Time:	25.07.2025 12:16:42 until 25.07.2025 21:41:16
+		Duration:	09:24:34
+		Location:	50.94129 6.96899
+
+(2) - 0.6 km Tanzbrunnen
+	JKE1
+		Images:	1682
+		Time:	25.07.2025 16:49:48 until 25.07.2025 22:01:03
+		Duration:	05:11:15
+		Location:	50.94716 6.97076
+
+	JKE1LS1
+		Images:	3217
+		Time:	25.07.2025 16:32:51 until 25.07.2025 22:15:53
+		Duration:	05:43:02
+		Location:	50.94716 6.97076
+
+(3) - 3.2 km Hohenzollerenbr[cke
+	OT1
+		Images:	4577
+		Time:	25.07.2025 18:07:10 until 25.07.2025 22:20:55
+		Duration:	04:13:45
+		Location:	50.94154 6.96018
+
+(4) - 3.4 km Sportscheck Run Tunnel
+	MW1
+		Images:	6059
+		Time:	25.07.2025 19:43:59 until 25.07.2025 22:25:38
+		Duration:	02:41:39
+		Location:	50.94068 6.95984
+
+	MW1LS1
+		Images:	3071
+		Time:	25.07.2025 19:24:18 until 25.07.2025 22:27:03
+		Duration:	03:02:45
+		Location:	50.94068 6.95984
+
+(5) - Finish
+	SSW2
+		Images:	8357
+		Time:	25.07.2025 19:54:22 until 25.07.2025 22:42:30
+		Duration:	02:48:08
+		Location:	50.93951 6.96852
+
+	THL2
+		Images:	752
+		Time:	25.07.2025 21:49:16 until 25.07.2025 22:25:07
+		Duration:	00:35:51
+		Location:	50.93951 6.96852
+
+(6) - Impressions / Pano
+	THL1
+		Images:	1055
+		Time:	25.07.2025 18:40:58 until 25.07.2025 22:27:06
+		Duration:	03:46:08
+		Location:	50.93951 6.96852
+
+	PANO1

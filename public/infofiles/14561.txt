@@ -1,0 +1,172 @@
+EventId: 14561
+Spots: 26
+Total Images: 108262
+Time:	08.03.2025 07:07:12 to 09.03.2025 18:05:52
+Duration: 1.10:58:40
+
+(1) - Start
+	JMP1
+		Images:	227
+		Time:	08.03.2025 12:24:14 until 09.03.2025 15:39:55
+		Duration:	1.03:15:41
+		Location:	39.50329 -0.42656
+
+	JCFJ1
+		Images:	889
+		Time:	08.03.2025 14:14:49 until 09.03.2025 15:40:04
+		Duration:	1.01:25:15
+		Location:	39.50329 -0.42656
+
+(2) - SKIERG
+	ROJ1
+		Images:	2949
+		Time:	08.03.2025 07:47:14 until 09.03.2025 16:27:48
+		Duration:	1.08:40:34
+		Location:	39.50329 -0.42656
+
+	JMCA1
+		Images:	4911
+		Time:	08.03.2025 07:21:53 until 09.03.2025 16:29:57
+		Duration:	1.09:08:04
+		Location:	39.50329 -0.42656
+
+	JCFJ2
+		Images:	4026
+		Time:	09.03.2025 09:14:03 until 09.03.2025 14:41:36
+		Duration:	05:27:33
+		Location:	39.50329 -0.42656
+
+(3) - SLED PUSH
+	IME1
+		Images:	1819
+		Time:	09.03.2025 07:29:34 until 09.03.2025 16:40:48
+		Duration:	09:11:14
+		Location:	39.50329 -0.42656
+
+	JCFJ3
+		Images:	2698
+		Time:	09.03.2025 09:51:51 until 09.03.2025 15:10:41
+		Duration:	05:18:50
+		Location:	39.50329 -0.42656
+
+	JMB1
+		Images:	5437
+		Time:	09.03.2025 07:11:26 until 09.03.2025 16:41:02
+		Duration:	09:29:36
+		Location:	39.50329 -0.42656
+
+(4) - SLED PULL
+	CCG1
+		Images:	7152
+		Time:	08.03.2025 07:15:19 until 09.03.2025 16:55:30
+		Duration:	1.09:40:11
+		Location:	39.50329 -0.42656
+
+	FAR1
+		Images:	4909
+		Time:	09.03.2025 07:34:18 until 09.03.2025 16:46:26
+		Duration:	09:12:08
+		Location:	39.50329 -0.42656
+
+	JCFJ4
+		Images:	2662
+		Time:	09.03.2025 10:19:30 until 09.03.2025 16:03:32
+		Duration:	05:44:02
+		Location:	39.50329 -0.42656
+
+(5) - ROWING
+	JMP2
+		Images:	1394
+		Time:	09.03.2025 08:57:48 until 09.03.2025 14:27:58
+		Duration:	05:30:10
+		Location:	39.50329 -0.42656
+
+	MCAS1
+		Images:	11595
+		Time:	08.03.2025 07:21:49 until 09.03.2025 17:15:27
+		Duration:	1.09:53:38
+		Location:	39.50329 -0.42656
+
+	ROG1
+		Images:	10825
+		Time:	09.03.2025 07:30:02 until 09.03.2025 16:48:26
+		Duration:	09:18:24
+		Location:	39.50329 -0.42656
+
+(6) - FARMERS CARRY
+	JCFJ1LS2
+		Images:	2581
+		Time:	09.03.2025 07:42:01 until 09.03.2025 17:28:35
+		Duration:	09:46:34
+		Location:	39.50329 -0.42656
+
+	JCFJ1LS1
+		Images:	3848
+		Time:	09.03.2025 07:42:02 until 09.03.2025 16:34:49
+		Duration:	08:52:47
+		Location:	39.50329 -0.42656
+
+(7) - SANDBAG LUNGES
+	JMP3
+		Images:	450
+		Time:	09.03.2025 09:29:52 until 09.03.2025 14:43:37
+		Duration:	05:13:45
+		Location:	39.50329 -0.42656
+
+	STO1
+		Images:	8166
+		Time:	09.03.2025 07:24:48 until 09.03.2025 17:36:51
+		Duration:	10:12:03
+		Location:	39.50329 -0.42656
+
+(8) - WALL BALL
+	JMP4
+		Images:	921
+		Time:	09.03.2025 09:43:55 until 09.03.2025 15:15:14
+		Duration:	05:31:19
+		Location:	39.50329 -0.42656
+
+	RAVE1
+		Images:	7388
+		Time:	08.03.2025 07:29:24 until 09.03.2025 17:23:29
+		Duration:	1.09:54:05
+		Location:	39.50329 -0.42656
+
+	AMRU1
+		Images:	5328
+		Time:	08.03.2025 07:19:14 until 09.03.2025 17:47:01
+		Duration:	1.10:27:47
+		Location:	39.50329 -0.42656
+
+(9) - Finish
+	JMP5
+		Images:	516
+		Time:	09.03.2025 10:06:10 until 09.03.2025 15:28:49
+		Duration:	05:22:39
+		Location:	39.50329 -0.42656
+
+	JMP5LS1
+		Images:	3262
+		Time:	09.03.2025 07:20:38 until 09.03.2025 18:05:15
+		Duration:	10:44:37
+		Location:	39.50329 -0.42656
+
+	EP1LS1
+		Images:	3186
+		Time:	09.03.2025 07:19:20 until 09.03.2025 18:05:43
+		Duration:	10:46:23
+		Location:	39.50329 -0.42656
+
+	EP1
+		Images:	8242
+		Time:	09.03.2025 08:40:29 until 09.03.2025 18:05:44
+		Duration:	09:25:15
+		Location:	39.50329 -0.42656
+
+(10) - HERO WALL
+	ASQ1
+		Images:	2876
+		Time:	09.03.2025 08:53:53 until 09.03.2025 18:05:52
+		Duration:	09:11:59
+		Location:	39.50329 -0.42656
+

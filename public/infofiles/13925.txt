@@ -1,0 +1,106 @@
+EventId: 13925
+Spots: 15
+Total Images: 58915
+Time:	21.06.2025 07:46:29 to 21.06.2025 18:17:45
+Duration: 10:31:16
+
+(1) - Start
+	BK1
+		Images:	251
+		Time:	21.06.2025 12:38:19 until 21.06.2025 16:31:06
+		Duration:	03:52:47
+		Location:	53.73120 9.09019
+
+	LARS2
+		Images:	342
+		Time:	21.06.2025 10:49:44 until 21.06.2025 15:08:12
+		Duration:	04:18:28
+		Location:	53.73120 9.09019
+
+	BK1DRONE1
+		Images:	31
+		Time:	21.06.2025 10:54:14 until 21.06.2025 15:03:33
+		Duration:	04:09:19
+		Location:	53.73120 9.09019
+
+(2) - Springbrunnen
+	MNO1
+		Images:	6424
+		Time:	21.06.2025 10:37:16 until 21.06.2025 16:56:55
+		Duration:	06:19:39
+		Location:	53.74147 9.07969
+
+(3) - Giants Tower
+	JKOR1
+		Images:	8400
+		Time:	21.06.2025 10:16:05 until 21.06.2025 18:17:45
+		Duration:	08:01:40
+		Location:	53.73239 9.08989
+
+	JKOR1LS1
+		Images:	1298
+		Time:	21.06.2025 10:16:05 until 21.06.2025 18:17:45
+		Duration:	08:01:40
+		Location:	53.73239 9.08989
+
+(4) - High Voltage
+	FES1
+		Images:	6040
+		Time:	21.06.2025 10:56:51 until 21.06.2025 18:02:02
+		Duration:	07:05:11
+		Location:	53.73250 9.09034
+
+(5) - Police Car
+	LARS1
+		Images:	3294
+		Time:	21.06.2025 11:57:34 until 21.06.2025 18:04:28
+		Duration:	06:06:54
+		Location:	53.73248 9.09092
+
+(6) - Wicked Water 2
+	MARM1
+		Images:	9150
+		Time:	21.06.2025 07:46:29 until 21.06.2025 18:11:17
+		Duration:	10:24:48
+		Location:	53.73175 9.09161
+
+(7) - Muddy Maze
+	GL1
+		Images:	4260
+		Time:	21.06.2025 10:54:42 until 21.06.2025 18:08:21
+		Duration:	07:13:39
+		Location:	53.73130 9.09043
+
+(8) - Walls
+	HT1LS1
+		Images:	8149
+		Time:	21.06.2025 12:48:22 until 21.06.2025 17:40:47
+		Duration:	04:52:25
+		Location:	53.73140 9.09089
+
+(9) - Finish
+	MNO2
+		Images:	1992
+		Time:	21.06.2025 16:56:55 until 21.06.2025 18:13:04
+		Duration:	01:16:09
+		Location:	53.73120 9.09019
+
+	BK1LS1
+		Images:	328
+		Time:	21.06.2025 11:27:50 until 21.06.2025 16:58:58
+		Duration:	05:31:08
+		Location:	53.73120 9.09019
+
+	LARS1LS1
+		Images:	7744
+		Time:	21.06.2025 11:22:24 until 21.06.2025 18:12:23
+		Duration:	06:49:59
+		Location:	53.73120 9.09019
+
+(10) - Herotent
+	HT1
+		Images:	1212
+		Time:	21.06.2025 10:51:42 until 21.06.2025 17:59:53
+		Duration:	07:08:11
+		Location:	53.73120 9.09019
+

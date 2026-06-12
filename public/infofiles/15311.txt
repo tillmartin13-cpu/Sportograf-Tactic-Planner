@@ -1,0 +1,293 @@
+EventId: 15311
+Spots: 47
+Total Images: 161557
+Time:	01.01.0001 23:00:00 to 13.04.2025 19:15:50
+Duration: 739352.20:15:50
+
+(1) - Station 1 Ski Erg
+	MIMA1
+		Images:	16036
+		Time:	13.04.2025 07:37:38 until 13.04.2025 15:58:53
+		Duration:	08:21:15
+		Location:	52.23931 21.04263
+
+	PIC1
+		Images:	8536
+		Time:	13.04.2025 08:02:57 until 13.04.2025 13:48:02
+		Duration:	05:45:05
+		Location:	52.23931 21.04263
+
+	TIM1
+		Images:	3883
+		Time:	13.04.2025 08:02:40 until 13.04.2025 12:50:25
+		Duration:	04:47:45
+		Location:	52.23931 21.04263
+
+	AGP2
+		Images:	1979
+		Time:	13.04.2025 14:14:15 until 13.04.2025 17:38:12
+		Duration:	03:23:57
+		Location:	52.23931 21.04263
+
+	JAKO2
+		Images:	1897
+		Time:	13.04.2025 14:34:58 until 13.04.2025 17:37:51
+		Duration:	03:02:53
+		Location:	52.23931 21.04263
+
+	LKU2
+		Images:	3839
+		Time:	13.04.2025 14:16:12 until 13.04.2025 17:41:31
+		Duration:	03:25:19
+		Location:	52.23931 21.04263
+
+	ROH6
+		Images:	360
+		Time:	13.04.2025 14:01:15 until 13.04.2025 14:37:30
+		Duration:	00:36:15
+		Location:	52.23931 21.04263
+
+(2) - Station 2 Sled Push
+	AGP1
+		Images:	4218
+		Time:	13.04.2025 08:12:57 until 13.04.2025 14:00:33
+		Duration:	05:47:36
+		Location:	52.23931 21.04263
+
+	BS1
+		Images:	4539
+		Time:	13.04.2025 07:59:42 until 13.04.2025 13:58:41
+		Duration:	05:58:59
+		Location:	52.23931 21.04263
+
+	SF1
+		Images:	5729
+		Time:	13.04.2025 08:12:54 until 13.04.2025 13:59:46
+		Duration:	05:46:52
+		Location:	52.23931 21.04263
+
+	MIMA2
+		Images:	1742
+		Time:	13.04.2025 15:58:53 until 13.04.2025 17:45:21
+		Duration:	01:46:28
+		Location:	52.23931 21.04263
+
+	JAK2
+		Images:	1322
+		Time:	13.04.2025 14:26:29 until 13.04.2025 17:46:01
+		Duration:	03:19:32
+		Location:	52.23931 21.04263
+
+	LZA2
+		Images:	4179
+		Time:	13.04.2025 14:37:10 until 13.04.2025 17:47:44
+		Duration:	03:10:34
+		Location:	52.23931 21.04263
+
+(3) - Station 3 Sled Pull
+	RW1
+		Images:	3191
+		Time:	13.04.2025 08:18:45 until 13.04.2025 14:04:39
+		Duration:	05:45:54
+		Location:	52.23931 21.04263
+
+	NU1
+		Images:	4390
+		Time:	13.04.2025 07:18:04 until 13.04.2025 14:10:38
+		Duration:	06:52:34
+		Location:	52.23931 21.04263
+
+	SF2
+		Images:	2090
+		Time:	13.04.2025 14:09:15 until 13.04.2025 16:26:27
+		Duration:	02:17:12
+		Location:	52.23931 21.04263
+
+	PIC2
+		Images:	2523
+		Time:	13.04.2025 14:05:14 until 13.04.2025 17:57:29
+		Duration:	03:52:15
+		Location:	52.23931 21.04263
+
+	ROH1
+		Images:	1156
+		Time:	13.04.2025 08:53:58 until 13.04.2025 15:14:09
+		Duration:	06:20:11
+		Location:	52.23931 21.04263
+
+	NH1
+		Images:	1312
+		Time:	13.04.2025 08:24:05 until 13.04.2025 18:10:56
+		Duration:	09:46:51
+		Location:	52.23931 21.04263
+
+(4) - Station 5 Rowing
+	DAR1
+		Images:	6261
+		Time:	13.04.2025 07:13:27 until 13.04.2025 13:59:25
+		Duration:	06:45:58
+		Location:	52.23931 21.04263
+
+	DS1
+		Images:	1642
+		Time:	13.04.2025 07:25:54 until 13.04.2025 14:30:06
+		Duration:	07:04:12
+		Location:	52.23931 21.04263
+
+	TIM2
+		Images:	2526
+		Time:	13.04.2025 14:04:40 until 13.04.2025 18:18:40
+		Duration:	04:14:00
+		Location:	52.23931 21.04263
+
+	BS2
+		Images:	3226
+		Time:	13.04.2025 14:28:39 until 13.04.2025 18:22:49
+		Duration:	03:54:10
+		Location:	52.23931 21.04263
+
+	NH2
+		Images:	1016
+		Time:	13.04.2025 08:40:04 until 13.04.2025 15:58:16
+		Duration:	07:18:12
+		Location:	52.23931 21.04263
+
+	ROH2
+		Images:	1300
+		Time:	13.04.2025 10:11:15 until 13.04.2025 15:54:13
+		Duration:	05:42:58
+		Location:	52.23931 21.04263
+
+(5) - Station 6 Farmers Carry
+	ROH2LS2
+		Images:	8436
+		Time:	13.04.2025 07:33:03 until 13.04.2025 18:35:39
+		Duration:	11:02:36
+		Location:	52.23931 21.04263
+
+	ROH2LS1
+		Images:	10425
+		Time:	13.04.2025 07:32:34 until 13.04.2025 18:35:35
+		Duration:	11:03:01
+		Location:	52.23931 21.04263
+
+(6) - Station 7 Sandbag Lunges
+	LKU1
+		Images:	3326
+		Time:	13.04.2025 08:00:59 until 13.04.2025 14:12:56
+		Duration:	06:11:57
+		Location:	52.23931 21.04263
+
+	LZA1
+		Images:	9725
+		Time:	13.04.2025 07:49:21 until 13.04.2025 14:20:23
+		Duration:	06:31:02
+		Location:	52.23931 21.04263
+
+	RJ2
+		Images:	3104
+		Time:	13.04.2025 14:26:47 until 13.04.2025 18:47:23
+		Duration:	04:20:36
+		Location:	52.23931 21.04263
+
+	NU2
+		Images:	2762
+		Time:	13.04.2025 14:17:59 until 13.04.2025 18:54:18
+		Duration:	04:36:19
+		Location:	52.23931 21.04263
+
+	NH3
+		Images:	1837
+		Time:	01.01.0001 23:00:00 until 13.04.2025 16:34:30
+		Duration:	739352.17:34:30
+		Location:	52.23931 21.04263
+
+	ROH3
+		Images:	1578
+		Time:	13.04.2025 10:45:46 until 13.04.2025 16:35:42
+		Duration:	05:49:56
+		Location:	52.23931 21.04263
+
+(7) - Station 8 Wall Balls
+	DG1
+		Images:	6390
+		Time:	13.04.2025 08:07:49 until 13.04.2025 19:07:19
+		Duration:	10:59:30
+		Location:	52.23931 21.04263
+
+	JAK1
+		Images:	1917
+		Time:	13.04.2025 08:05:51 until 13.04.2025 14:07:53
+		Duration:	06:02:02
+		Location:	52.23931 21.04263
+
+	DAR2
+		Images:	2792
+		Time:	13.04.2025 14:09:23 until 13.04.2025 19:11:40
+		Duration:	05:02:17
+		Location:	52.23931 21.04263
+
+	NH4
+		Images:	1140
+		Time:	13.04.2025 11:36:11 until 13.04.2025 17:15:35
+		Duration:	05:39:24
+		Location:	52.23931 21.04263
+
+	ROH4
+		Images:	1639
+		Time:	13.04.2025 11:32:12 until 13.04.2025 17:16:26
+		Duration:	05:44:14
+		Location:	52.23931 21.04263
+
+(8) - Finish
+	JAKO1
+		Images:	4437
+		Time:	13.04.2025 09:00:25 until 13.04.2025 14:29:17
+		Duration:	05:28:52
+		Location:	52.23931 21.04263
+
+	DS2
+		Images:	2338
+		Time:	13.04.2025 14:31:51 until 13.04.2025 19:12:01
+		Duration:	04:40:10
+		Location:	52.23931 21.04263
+
+	ROH5
+		Images:	1364
+		Time:	13.04.2025 12:14:56 until 13.04.2025 17:42:38
+		Duration:	05:27:42
+		Location:	52.23931 21.04263
+
+	RW2LS2
+		Images:	3048
+		Time:	13.04.2025 07:16:26 until 13.04.2025 19:15:50
+		Duration:	11:59:24
+		Location:	52.23931 21.04263
+
+	RW2LS1
+		Images:	2548
+		Time:	13.04.2025 07:58:21 until 13.04.2025 19:15:50
+		Duration:	11:17:29
+		Location:	52.23931 21.04263
+
+(9) - Medalwall
+	RJ1
+		Images:	1483
+		Time:	13.04.2025 08:05:21 until 13.04.2025 14:15:22
+		Duration:	06:10:01
+		Location:	52.23931 21.04263
+
+	NH5
+		Images:	940
+		Time:	13.04.2025 11:43:36 until 13.04.2025 17:56:30
+		Duration:	06:12:54
+		Location:	52.23931 21.04263
+
+	RW2
+		Images:	1436
+		Time:	13.04.2025 14:15:44 until 13.04.2025 19:15:21
+		Duration:	04:59:37
+		Location:	52.23931 21.04263
+
+(10) - Impressions / Pano
+	PANO1

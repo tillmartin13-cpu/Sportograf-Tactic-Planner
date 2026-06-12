@@ -1,0 +1,104 @@
+EventId: 14327
+Spots: 15
+Total Images: 103888
+Time:	14.11.2025 18:36:54 to 16.11.2026 07:52:14
+Duration: 366.13:15:20
+
+(1) - #4  SLIP WALL
+	AAD1
+		Images:	11903
+		Time:	15.11.2025 03:27:39 until 16.11.2025 07:12:58
+		Duration:	1.03:45:19
+		Location:	34.27972 -81.56906
+
+(2) - #6 MONKEY BARS
+	TFUL1
+		Images:	12819
+		Time:	15.11.2025 06:57:01 until 16.11.2025 07:58:08
+		Duration:	1.01:01:07
+		Location:	34.28012 -81.57059
+
+	SICA2
+		Images:	1290
+		Time:	16.11.2025 10:51:53 until 16.11.2026 07:52:14
+		Duration:	364.21:00:21
+		Location:	34.28012 -81.57059
+
+(3) - #7 BARBED WIRE CRAWL
+	MBRS1
+		Images:	12490
+		Time:	15.11.2025 05:23:59 until 16.11.2025 07:11:13
+		Duration:	1.01:47:14
+		Location:	34.27974 -81.57172
+
+	SICA3
+		Images:	401
+		Time:	15.11.2026 12:03:11 until 15.11.2026 12:20:49
+		Duration:	00:17:38
+		Location:	34.27974 -81.57172
+
+(4) - #29 ATLAS CARRY
+	RUHO1
+		Images:	8680
+		Time:	15.11.2025 05:47:11 until 16.11.2025 07:01:51
+		Duration:	1.01:14:40
+		Location:	34.27748 -81.56871
+
+	SAMT1
+		Images:	2687
+		Time:	14.11.2025 18:36:54 until 15.11.2025 16:55:05
+		Duration:	22:18:11
+		Location:	34.27748 -81.56871
+
+(5) - #31 A-FRAME CARGO
+	CHIT1
+		Images:	9487
+		Time:	15.11.2025 06:28:45 until 15.11.2025 16:49:59
+		Duration:	10:21:14
+		Location:	34.27895 -81.55673
+
+(6) - #32 FIRE JUMP
+	MSK1
+		Images:	30681
+		Time:	14.11.2025 20:56:23 until 16.11.2025 06:33:24
+		Duration:	1.09:37:01
+		Location:	34.27973 -81.56835
+
+	SICA4
+		Images:	235
+		Time:	15.11.2026 11:31:12 until 15.11.2026 11:37:26
+		Duration:	00:06:14
+		Location:	34.27973 -81.56835
+
+	SICA1LS1
+		Images:	8964
+		Time:	14.11.2026 23:04:53 until 15.11.2026 16:14:30
+		Duration:	17:09:37
+		Location:	34.27973 -81.56835
+
+(7) - HEROTENT
+	SICA5
+		Images:	349
+		Time:	15.11.2025 12:19:02 until 15.11.2025 12:46:08
+		Duration:	00:27:06
+		Location:	34.27978 -81.56861
+
+	TAT1
+		Images:	3522
+		Time:	15.11.2025 05:18:19 until 15.11.2025 16:35:39
+		Duration:	11:17:20
+		Location:	34.27978 -81.56861
+
+	MBRS2
+		Images:	107
+		Time:	15.11.2025 14:07:25 until 15.11.2025 14:17:52
+		Duration:	00:10:27
+		Location:	34.27978 -81.56861
+
+(8) - Impressions / Pano
+	SICA1
+		Images:	273
+		Time:	14.11.2025 23:01:54 until 15.11.2026 11:19:36
+		Duration:	365.12:17:42
+		Location:	34.27978 -81.56861
+

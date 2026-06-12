@@ -1,0 +1,102 @@
+EventId: 14632
+Spots: 14
+Total Images: 135606
+Time:	18.05.2025 06:51:59 to 18.05.2025 16:45:28
+Duration: 09:53:29
+
+(1) - Obstacle 0 Bucket Carry
+	CMS1
+		Images:	15209
+		Time:	18.05.2025 08:41:43 until 18.05.2025 16:02:23
+		Duration:	07:20:40
+		Location:	51.57143 -0.88306
+
+(2) - Herotent
+	CNS1
+		Images:	2465
+		Time:	18.05.2025 07:51:41 until 18.05.2025 16:45:28
+		Duration:	08:53:47
+		Location:	51.56687 -0.88326
+
+(3) - Start
+	DANO1
+		Images:	4131
+		Time:	18.05.2025 07:51:04 until 18.05.2025 15:04:03
+		Duration:	07:12:59
+		Location:	51.56626 -0.88463
+
+(4) - Impressions / Pano
+	DANO2
+		Images:	313
+		Time:	18.05.2025 12:38:36 until 18.05.2025 13:25:00
+		Duration:	00:46:24
+		Location:	51.56626 -0.88463
+
+	DANO1DRONE1
+		Images:	33
+		Time:	18.05.2025 12:01:33 until 18.05.2025 13:41:40
+		Duration:	01:40:07
+		Location:	51.56626 -0.88463
+
+(5) - Finish
+	DANO1LS1
+		Images:	2148
+		Time:	18.05.2025 07:51:14 until 18.05.2025 16:41:41
+		Duration:	08:50:27
+		Location:	51.56660 -0.88324
+
+	DANO1LS2
+		Images:	2154
+		Time:	18.05.2025 07:51:14 until 18.05.2025 16:42:02
+		Duration:	08:50:48
+		Location:	51.56660 -0.88324
+
+(6) - Obstacle 0 Slip Wall
+	GWH1
+		Images:	16669
+		Time:	18.05.2025 08:45:32 until 18.05.2025 16:36:29
+		Duration:	07:50:57
+		Location:	51.56719 -0.88595
+
+(7) - Obstacle 0 Barbed Wire
+	KYY1
+		Images:	17685
+		Time:	18.05.2025 08:42:13 until 18.05.2025 15:45:17
+		Duration:	07:03:04
+		Location:	51.57554 -0.88527
+
+(8) - Obstacle 0 Multi Rig
+	MKH1
+		Images:	11672
+		Time:	18.05.2025 08:14:33 until 18.05.2025 16:15:22
+		Duration:	08:00:49
+		Location:	51.56986 -0.88354
+
+(9) - Obstacle 0 Fire Jump
+	NLA1
+		Images:	7252
+		Time:	18.05.2025 06:51:59 until 18.05.2025 16:41:44
+		Duration:	09:49:45
+		Location:	51.56660 -0.88324
+
+(10) - Obstacle 0 Atlas Carry
+	THB1
+		Images:	4941
+		Time:	18.05.2025 08:39:53 until 18.05.2025 15:34:32
+		Duration:	06:54:39
+		Location:	51.57434 -0.88991
+
+(11) - Obstacle 0 Inverted Wall
+	TOMY1
+		Images:	35683
+		Time:	18.05.2025 08:55:52 until 18.05.2025 16:34:05
+		Duration:	07:38:13
+		Location:	51.56742 -0.88610
+
+(12) - Obstacle 0 A Wall
+	WIN1
+		Images:	15251
+		Time:	18.05.2025 08:07:22 until 18.05.2025 16:40:23
+		Duration:	08:33:01
+		Location:	51.56637 -0.88337
+

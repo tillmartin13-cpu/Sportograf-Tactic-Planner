@@ -1,0 +1,120 @@
+EventId: 14580
+Spots: 17
+Total Images: 103734
+Time:	12.12.2025 19:44:56 to 13.12.2026 12:23:16
+Duration: 365.16:38:20
+
+(1) - #15 SANDBAG CARRY
+	JAZZ1
+		Images:	11759
+		Time:	13.12.2025 05:55:49 until 13.12.2025 15:06:22
+		Duration:	09:10:33
+		Location:	27.36578 -81.55387
+
+	SICA1LS1
+		Images:	4548
+		Time:	13.12.2025 07:11:12 until 13.12.2025 16:06:47
+		Duration:	08:55:35
+		Location:	27.36578 -81.55387
+
+(2) - #17 BUCKET CARRY
+	GMAL1
+		Images:	15871
+		Time:	13.12.2025 06:52:08 until 13.12.2025 15:35:09
+		Duration:	08:43:01
+		Location:	27.36839 -81.55761
+
+(3) - #19 SLIP WALL
+	ORGA1
+		Images:	8869
+		Time:	13.12.2025 05:56:56 until 14.12.2025 06:51:23
+		Duration:	1.00:54:27
+		Location:	27.36904 -81.55603
+
+(4) - #20 MONKEY BARS
+	MAPM1
+		Images:	11347
+		Time:	13.12.2025 05:39:10 until 14.12.2025 06:45:05
+		Duration:	1.01:05:55
+		Location:	27.37054 -81.55483
+
+(5) - #25 BARBED WIRE CRAWL #2
+	JACL1
+		Images:	14897
+		Time:	12.12.2025 19:51:36 until 14.12.2025 06:28:29
+		Duration:	1.10:36:53
+		Location:	27.37319 -81.55858
+
+(6) - #27 PLATE DRAG
+	AUC1
+		Images:	10953
+		Time:	13.12.2025 05:55:25 until 14.12.2025 06:54:57
+		Duration:	1.00:59:32
+		Location:	27.37042 -81.55786
+
+(7) - #28 HELIX
+	JPP1
+		Images:	3033
+		Time:	12.12.2025 19:44:56 until 14.12.2025 07:47:53
+		Duration:	1.12:02:57
+		Location:	27.37448 -81.55851
+
+	SICA5
+		Images:	121
+		Time:	13.12.2026 11:27:37 until 13.12.2026 11:35:12
+		Duration:	00:07:35
+		Location:	27.37448 -81.55851
+
+(8) - #30 MULTI-RIG
+	MIVA1
+		Images:	7609
+		Time:	12.12.2025 19:47:34 until 14.12.2025 12:10:30
+		Duration:	1.16:22:56
+		Location:	27.37303 -81.55782
+
+	SICA3
+		Images:	545
+		Time:	13.12.2026 11:01:02 until 13.12.2026 11:20:11
+		Duration:	00:19:09
+		Location:	27.37303 -81.55782
+
+(9) - #31 A-FRAME CARGO
+	MBAR1
+		Images:	6669
+		Time:	12.12.2025 19:55:16 until 13.12.2025 17:21:33
+		Duration:	21:26:17
+		Location:	27.37363 -81.55865
+
+(10) - #33 FIRE JUMP
+	PNR1
+		Images:	4900
+		Time:	13.12.2025 06:52:52 until 13.12.2025 16:35:23
+		Duration:	09:42:31
+		Location:	27.37367 -81.55889
+
+	SICA4
+		Images:	144
+		Time:	13.12.2026 12:17:51 until 13.12.2026 12:23:16
+		Duration:	00:05:25
+		Location:	27.37367 -81.55889
+
+(11) - Herotent
+	RASC1
+		Images:	2090
+		Time:	12.12.2025 19:45:22 until 14.12.2025 06:44:48
+		Duration:	1.10:59:26
+		Location:	27.37356 -81.55909
+
+	SICA2
+		Images:	90
+		Time:	13.12.2025 12:25:19 until 13.12.2025 12:37:50
+		Duration:	00:12:31
+		Location:	27.37356 -81.55909
+
+(12) - Impressions / Pano
+	SICA1
+		Images:	289
+		Time:	12.12.2025 20:52:41 until 13.12.2026 08:26:40
+		Duration:	365.11:33:59
+		Location:	27.37356 -81.55909
+

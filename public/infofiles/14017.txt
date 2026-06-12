@@ -1,0 +1,180 @@
+EventId: 14017
+Spots: 28
+Total Images: 63408
+Time:	22.08.2025 15:52:02 to 23.08.2025 18:18:10
+Duration: 1.02:26:08
+
+(1) - 2.3 km (86km, 96km,167km)
+	ADHA1
+		Images:	1363
+		Time:	23.08.2025 09:05:56 until 23.08.2025 10:29:11
+		Duration:	01:23:15
+		Location:	50.16688 5.56203
+
+(2) - 7.0 km (86km), 6km (96km,167km)
+	JKE1
+		Images:	2418
+		Time:	22.08.2025 19:15:30 until 23.08.2025 11:01:41
+		Duration:	15:46:11
+		Location:	50.15834 5.52998
+
+	JKE1LS1
+		Images:	1064
+		Time:	23.08.2025 09:02:25 until 23.08.2025 10:31:32
+		Duration:	01:29:07
+		Location:	50.15834 5.52998
+
+	JKE1LS2
+		Images:	1067
+		Time:	23.08.2025 08:58:27 until 23.08.2025 10:31:32
+		Duration:	01:33:05
+		Location:	50.15834 5.52998
+
+(3) - 48.0 km (96km), 5km (133km), 21,7km (167km)
+	OP1
+		Images:	2308
+		Time:	23.08.2025 09:07:38 until 23.08.2025 10:49:20
+		Duration:	01:41:42
+		Location:	50.14231 5.57950
+
+	OP1LS1
+		Images:	1843
+		Time:	23.08.2025 08:59:05 until 23.08.2025 15:37:50
+		Duration:	06:38:45
+		Location:	50.14231 5.57950
+
+(4) - 33.0 km (86km), 50km (96km),7km (133km), 24km (167km)
+	ALN1
+		Images:	2814
+		Time:	23.08.2025 09:29:52 until 23.08.2025 11:16:42
+		Duration:	01:46:50
+		Location:	50.13028 5.60021
+
+	ALN1LS1
+		Images:	578
+		Time:	23.08.2025 09:10:58 until 23.08.2025 10:57:34
+		Duration:	01:46:36
+		Location:	50.13028 5.60021
+
+	ALN1LS2
+		Images:	603
+		Time:	23.08.2025 09:05:33 until 23.08.2025 11:05:23
+		Duration:	01:59:50
+		Location:	50.13028 5.60021
+
+(5) - 46.8 km (86km),66,1km (98km), 19,8km (133km), 36,7km (167km)
+	TOBB1LS1
+		Images:	2379
+		Time:	22.08.2025 15:57:01 until 23.08.2025 10:54:42
+		Duration:	18:57:41
+		Location:	50.14022 5.67152
+
+	TOBB1
+		Images:	2786
+		Time:	22.08.2025 15:54:13 until 23.08.2025 10:49:38
+		Duration:	18:55:25
+		Location:	50.14022 5.67152
+
+	TOBB1DRONE1
+		Images:	120
+		Time:	23.08.2025 09:59:59 until 23.08.2025 14:24:17
+		Duration:	04:24:18
+		Location:	50.14022 5.67152
+
+	TOBB1LS2
+		Images:	1923
+		Time:	22.08.2025 15:52:02 until 23.08.2025 10:52:44
+		Duration:	19:00:42
+		Location:	50.14022 5.67152
+
+	VPKS1
+		Images:	673
+		Time:	23.08.2025 09:13:36 until 23.08.2025 11:01:18
+		Duration:	01:47:42
+		Location:	50.14022 5.67152
+
+(6) - 8.0 km before finish
+	TOBB2LS1
+		Images:	2563
+		Time:	23.08.2025 12:35:54 until 23.08.2025 17:05:20
+		Duration:	04:29:26
+		Location:	50.21032 5.62388
+
+	TOBB2
+		Images:	3336
+		Time:	23.08.2025 12:30:08 until 23.08.2025 17:20:18
+		Duration:	04:50:10
+		Location:	50.21032 5.62388
+
+	TOBB2LS2
+		Images:	2537
+		Time:	23.08.2025 13:06:29 until 23.08.2025 17:23:27
+		Duration:	04:16:58
+		Location:	50.21032 5.62388
+
+	VPKS2
+		Images:	1262
+		Time:	23.08.2025 12:23:20 until 23.08.2025 17:34:14
+		Duration:	05:10:54
+		Location:	50.21032 5.62388
+
+(7) - 4.6 km before finish
+	ADHA2
+		Images:	2354
+		Time:	23.08.2025 12:20:46 until 23.08.2025 17:40:45
+		Duration:	05:19:59
+		Location:	50.20932 5.59669
+
+(8) - 3.4 km before finish
+	JKE2
+		Images:	6209
+		Time:	23.08.2025 11:17:22 until 23.08.2025 18:18:10
+		Duration:	07:00:48
+		Location:	50.20069 5.58331
+
+	JKE2LS1
+		Images:	2998
+		Time:	23.08.2025 12:15:00 until 23.08.2025 17:23:57
+		Duration:	05:08:57
+		Location:	50.20069 5.58331
+
+	JKE2LS2
+		Images:	2913
+		Time:	23.08.2025 12:19:35 until 23.08.2025 17:16:23
+		Duration:	04:56:48
+		Location:	50.20069 5.58331
+
+(9) - 2.2 km before finish
+	ALN2
+		Images:	6330
+		Time:	23.08.2025 12:35:56 until 23.08.2025 18:12:59
+		Duration:	05:37:03
+		Location:	50.19436 5.57129
+
+	ALN2LS1
+		Images:	3258
+		Time:	23.08.2025 12:23:22 until 23.08.2025 16:54:08
+		Duration:	04:30:46
+		Location:	50.19436 5.57129
+
+	ALN2LS2
+		Images:	3657
+		Time:	23.08.2025 12:25:21 until 23.08.2025 17:27:36
+		Duration:	05:02:15
+		Location:	50.19436 5.57129
+
+(10) - Finish
+	OP2
+		Images:	3112
+		Time:	23.08.2025 10:50:30 until 23.08.2025 18:15:23
+		Duration:	07:24:53
+		Location:	50.18948 5.57692
+
+	OP2LS1
+		Images:	940
+		Time:	23.08.2025 15:37:52 until 23.08.2025 17:31:14
+		Duration:	01:53:22
+		Location:	50.18948 5.57692
+
+(11) - Impressions / Pano
+	PANO1

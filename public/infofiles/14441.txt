@@ -1,0 +1,124 @@
+EventId: 14441
+Spots: 18
+Total Images: 90572
+Time:	05.11.2025 13:05:08 to 08.11.2026 13:03:55
+Duration: 367.23:58:47
+
+(1) - #2 MONKEY BARS
+	JPP1
+		Images:	1846
+		Time:	07.11.2025 20:43:07 until 09.11.2025 07:49:42
+		Duration:	1.11:06:35
+		Location:	28.37421 -81.28259
+
+	GMAL1
+		Images:	3321
+		Time:	08.11.2025 05:33:27 until 08.11.2025 11:31:04
+		Duration:	05:57:37
+		Location:	28.37421 -81.28259
+
+(2) - #5 MULTI-RIGS
+	AUC1
+		Images:	4729
+		Time:	08.11.2025 05:44:13 until 09.11.2025 06:45:24
+		Duration:	1.01:01:11
+		Location:	28.36770 -81.29075
+
+	RASC1
+		Images:	6079
+		Time:	07.11.2025 21:46:54 until 08.11.2025 13:18:26
+		Duration:	15:31:32
+		Location:	28.36770 -81.29075
+
+(3) - #16 ATLAS CARRY
+	JAZZ1
+		Images:	5317
+		Time:	08.11.2025 05:40:41 until 08.11.2025 12:26:15
+		Duration:	06:45:34
+		Location:	28.37506 -81.28147
+
+	MAPM1
+		Images:	5060
+		Time:	08.11.2025 05:53:44 until 09.11.2025 05:54:44
+		Duration:	1.00:01:00
+		Location:	28.37506 -81.28147
+
+(4) - #17 CHAIN CARRY
+	AAD1
+		Images:	8936
+		Time:	08.11.2025 05:39:10 until 08.11.2025 12:31:32
+		Duration:	06:52:22
+		Location:	28.37544 -81.28021
+
+	SICA1
+		Images:	310
+		Time:	09.11.2025 07:16:44 until 08.11.2026 08:12:20
+		Duration:	364.00:55:36
+		Location:	28.37544 -81.28021
+
+(5) - #20 BARBED WIRE CRAWL
+	JACL1
+		Images:	12171
+		Time:	07.11.2025 20:31:57 until 08.11.2025 12:51:17
+		Duration:	16:19:20
+		Location:	28.37439 -81.27893
+
+	SICA3
+		Images:	735
+		Time:	08.11.2026 09:40:01 until 08.11.2026 09:52:51
+		Duration:	00:12:50
+		Location:	28.37439 -81.27893
+
+(6) - #21 SLIP WALL
+	MBAR1
+		Images:	4382
+		Time:	07.11.2025 21:01:58 until 09.11.2025 06:31:31
+		Duration:	1.09:29:33
+		Location:	28.37407 -81.27978
+
+(7) - #22 A-FRAME CARGO
+	ORGA1
+		Images:	5346
+		Time:	08.11.2025 04:23:37 until 09.11.2025 05:43:49
+		Duration:	1.01:20:12
+		Location:	28.37357 -81.27924
+
+	SICA2
+		Images:	299
+		Time:	08.11.2026 10:38:01 until 08.11.2026 10:43:09
+		Duration:	00:05:08
+		Location:	28.37357 -81.27924
+
+(8) - #27 FIRE JUMP
+	VMM1
+		Images:	9535
+		Time:	05.11.2025 13:05:08 until 09.11.2025 06:44:40
+		Duration:	3.17:39:32
+		Location:	28.37369 -81.27948
+
+	SICA4
+		Images:	867
+		Time:	08.11.2026 10:15:30 until 08.11.2026 10:31:45
+		Duration:	00:16:15
+		Location:	28.37369 -81.27948
+
+	SICA4LS1
+		Images:	19785
+		Time:	08.11.2025 09:32:41 until 08.11.2026 13:03:55
+		Duration:	365.03:31:14
+		Location:	28.37369 -81.27948
+
+(9) - FESTIVAL IMPRESSIONS
+	SICA5
+		Images:	404
+		Time:	08.11.2025 07:01:40 until 08.11.2026 09:37:32
+		Duration:	365.02:35:52
+		Location:	28.37369 -81.27948
+
+(10) - Herotent
+	JETR1
+		Images:	1450
+		Time:	08.11.2025 05:26:22 until 08.11.2025 13:11:55
+		Duration:	07:45:33
+		Location:	28.37369 -81.27948
+

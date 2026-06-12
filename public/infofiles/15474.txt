@@ -1,0 +1,55 @@
+EventId: 15474
+Spots: 7
+Total Images: 681
+Time:	01.01.0001 23:00:00 to 01.04.2025 09:47:07
+Duration: 739340.10:47:07
+
+(1) - San Juan de Gaztelugatxe
+	AA1
+		Images:	202
+		Time:	16.02.2025 08:19:45 until 16.02.2025 16:50:54
+		Duration:	08:31:09
+		Location:	43.44714 -2.78446
+
+(2) - Visit to Bermeo
+	BB1
+		Images:	117
+		Time:	16.02.2025 11:09:35 until 16.02.2025 14:31:08
+		Duration:	03:21:33
+		Location:	43.42045 -2.72459
+
+(3) - Day of arrival in Bilbao
+	CC1
+		Images:	63
+		Time:	13.02.2025 16:17:29 until 14.02.2025 21:30:05
+		Duration:	1.05:12:36
+		Location:	43.26335 -2.95416
+
+(4) - A visit to Hyrox Bilbao
+	DD1
+		Images:	42
+		Time:	15.02.2025 11:55:08 until 15.02.2025 14:11:38
+		Duration:	02:16:30
+		Location:	43.29035 -2.98985
+
+(5) - Pictures from the Whatsapp chat
+	EE1
+		Images:	127
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	43.26335 -2.95416
+
+(6) - Impressions
+	FF1
+		Images:	27
+		Time:	15.02.2025 11:17:55 until 17.02.2025 17:11:35
+		Duration:	2.05:53:40
+		Location:	43.26335 -2.95416
+
+(7) - Group pictures at Plaza Nueva
+	GG1
+		Images:	103
+		Time:	15.02.2025 11:38:34 until 01.04.2025 09:47:07
+		Duration:	44.22:08:33
+		Location:	43.25909 -2.92292
+

@@ -1,0 +1,112 @@
+EventId: 14617
+Spots: 17
+Total Images: 50561
+Time:	19.07.2024 12:23:31 to 20.07.2025 16:44:11
+Duration: 366.04:20:40
+
+(1) - Obstacle 1 Die Haulys
+	ISM1
+		Images:	1425
+		Time:	19.07.2024 12:23:31 until 20.07.2025 11:28:54
+		Duration:	365.23:05:23
+		Location:	47.52022 14.90332
+
+	ISM2
+		Images:	200
+		Time:	20.07.2025 11:30:58 until 20.07.2025 12:05:07
+		Duration:	00:34:09
+		Location:	47.52007 14.90344
+
+	ISM3
+		Images:	790
+		Time:	20.07.2025 12:08:46 until 20.07.2025 13:10:55
+		Duration:	01:02:09
+		Location:	47.52046 14.90327
+
+(2) - Obstacle 1 Ententeich
+	ADCR1
+		Images:	8130
+		Time:	20.07.2025 10:15:14 until 20.07.2025 12:45:50
+		Duration:	02:30:36
+		Location:	47.52315 14.88966
+
+(3) - Obstacle 1 Gösserrunde
+	DRU1
+		Images:	2097
+		Time:	19.07.2025 08:26:55 until 20.07.2025 14:46:39
+		Duration:	1.06:19:44
+		Location:	47.51170 14.90931
+
+(4) - Finish
+	DRU2
+		Images:	64
+		Time:	20.07.2025 16:13:11 until 20.07.2025 16:44:11
+		Duration:	00:31:00
+		Location:	47.52571 14.90272
+
+	MSN2
+		Images:	1247
+		Time:	20.07.2025 11:53:30 until 20.07.2025 16:02:55
+		Duration:	04:09:25
+		Location:	47.52571 14.90272
+
+	MSN1LS2
+		Images:	402
+		Time:	20.07.2025 11:48:45 until 20.07.2025 15:30:15
+		Duration:	03:41:30
+		Location:	47.52571 14.90272
+
+	MSN1LS3
+		Images:	488
+		Time:	20.07.2025 10:04:41 until 20.07.2025 15:30:16
+		Duration:	05:25:35
+		Location:	47.52571 14.90272
+
+(5) - Obstacle 1 Flyover
+	KYR1
+		Images:	8154
+		Time:	20.07.2025 08:58:39 until 20.07.2025 13:57:39
+		Duration:	04:59:00
+		Location:	47.51566 14.90556
+
+(6) - Obstacle 1 Wasserleitung
+	LOMA1
+		Images:	16172
+		Time:	19.07.2025 09:12:32 until 20.07.2025 13:19:52
+		Duration:	1.04:07:20
+		Location:	47.51846 14.89821
+
+	LOMA1LS1
+		Images:	1077
+		Time:	19.07.2025 08:55:17 until 20.07.2025 13:02:14
+		Duration:	1.04:06:57
+		Location:	47.51877 14.89624
+
+	XQ1
+		Images:	4289
+		Time:	20.07.2025 10:26:04 until 20.07.2025 13:20:57
+		Duration:	02:54:53
+		Location:	47.51846 14.89821
+
+(7) - Start
+	MSN1
+		Images:	606
+		Time:	19.07.2025 08:52:25 until 20.07.2025 11:40:04
+		Duration:	1.02:47:39
+		Location:	47.52578 14.90262
+
+	MSN1LS1
+		Images:	945
+		Time:	20.07.2025 08:37:03 until 20.07.2025 11:41:45
+		Duration:	03:04:42
+		Location:	47.52387 14.90250
+
+(8) - Impressions / Pano
+	PANO1
+(9) - Obstacle 1 Antenne Moonwalk
+	ASTU1
+		Images:	4475
+		Time:	19.07.2025 09:27:56 until 20.07.2025 13:52:08
+		Duration:	1.04:24:12
+		Location:	47.51579 14.90518
+

@@ -1,0 +1,159 @@
+EventId: 14900
+Spots: 24
+Total Images: 111557
+Time:	03.11.2024 05:03:59 to 16.02.2025 15:45:55
+Duration: 105.10:41:56
+
+(1) - 10.3 km Puarenga Stream
+	MALO1
+		Images:	4316
+		Time:	15.02.2025 05:34:33 until 15.02.2025 08:57:04
+		Duration:	03:22:31
+		Location:	NULL NULL
+
+(2) - 159.0 km steam
+	MALO2
+		Images:	10306
+		Time:	15.02.2025 10:32:37 until 15.02.2025 17:10:04
+		Duration:	06:37:27
+		Location:	NULL NULL
+
+(3) - Finish
+	MALO3
+		Images:	2028
+		Time:	15.02.2025 18:27:13 until 15.02.2025 20:04:23
+		Duration:	01:37:10
+		Location:	NULL NULL
+
+	MASU2
+		Images:	21067
+		Time:	15.02.2025 08:43:32 until 15.02.2025 15:09:58
+		Duration:	06:26:26
+		Location:	NULL NULL
+
+	OBL3
+		Images:	3030
+		Time:	15.02.2025 18:29:21 until 15.02.2025 20:04:23
+		Duration:	01:35:02
+		Location:	NULL NULL
+
+	RISO2
+		Images:	6833
+		Time:	15.02.2025 09:18:47 until 15.02.2025 17:43:23
+		Duration:	08:24:36
+		Location:	NULL NULL
+
+	VIAL1
+		Images:	4642
+		Time:	15.02.2025 18:00:31 until 16.02.2025 04:49:10
+		Duration:	10:48:39
+		Location:	NULL NULL
+
+	JEK2
+		Images:	8447
+		Time:	15.02.2025 07:35:16 until 16.02.2025 15:45:55
+		Duration:	1.08:10:39
+		Location:	NULL NULL
+
+	JEK2LS1
+		Images:	2793
+		Time:	03.11.2024 05:03:59 until 16.02.2025 12:34:43
+		Duration:	105.07:30:44
+		Location:	NULL NULL
+
+	JUBA3
+		Images:	7323
+		Time:	15.02.2025 13:15:12 until 15.02.2025 18:27:38
+		Duration:	05:12:26
+		Location:	NULL NULL
+
+	JUBA5
+		Images:	745
+		Time:	16.02.2025 13:06:37 until 16.02.2025 13:49:35
+		Duration:	00:42:58
+		Location:	NULL NULL
+
+(4) - Start
+	MASU1
+		Images:	1709
+		Time:	15.02.2025 04:53:59 until 15.02.2025 07:59:20
+		Duration:	03:05:21
+		Location:	NULL NULL
+
+	OBL1
+		Images:	1054
+		Time:	14.02.2025 21:16:35 until 15.02.2025 09:15:54
+		Duration:	11:59:19
+		Location:	NULL NULL
+
+	JUBA1
+		Images:	1169
+		Time:	15.02.2025 05:16:08 until 15.02.2025 06:04:24
+		Duration:	00:48:16
+		Location:	NULL NULL
+
+(5) - 10.3 km Redwoods Forest
+	OBL2
+		Images:	13034
+		Time:	14.02.2025 21:18:32 until 15.02.2025 17:46:52
+		Duration:	20:28:20
+		Location:	NULL NULL
+
+(6) - 15.0 km Puarenga Trail
+	RISO1
+		Images:	2418
+		Time:	15.02.2025 05:56:52 until 15.02.2025 08:04:19
+		Duration:	02:07:27
+		Location:	NULL NULL
+
+(7) - Impressions / Pano
+	PANO1
+(8) - 2.2 km From T21 Lake  Tikitapu (Blue Lake)
+	JEK1
+		Images:	3115
+		Time:	15.02.2025 07:35:16 until 15.02.2025 17:17:02
+		Duration:	09:41:46
+		Location:	NULL NULL
+
+(9) - 2.3 km From T21 Lake  Tikitapu (Blue Lake)
+	JEK1LS1
+		Images:	2957
+		Time:	15.02.2025 04:27:34 until 15.02.2025 10:35:14
+		Duration:	06:07:40
+		Location:	NULL NULL
+
+(10) - 26.0 km Tarawera Falls
+	JUBA2
+		Images:	1911
+		Time:	15.02.2025 08:23:23 until 15.02.2025 10:54:57
+		Duration:	02:31:34
+		Location:	NULL NULL
+
+(11) - 10.5 km Redwoods
+	JUBA4
+		Images:	1368
+		Time:	16.02.2025 08:24:17 until 16.02.2025 12:32:26
+		Duration:	04:08:09
+		Location:	NULL NULL
+
+(12) - 10.4 km redwoods
+	JUBA4LS1
+		Images:	3091
+		Time:	16.02.2025 08:06:36 until 16.02.2025 12:22:58
+		Duration:	04:16:22
+		Location:	NULL NULL
+
+(13) - 261.0 km Tarawera Falls
+	JUBA2LS1
+		Images:	7304
+		Time:	15.02.2025 07:45:49 until 15.02.2025 13:13:39
+		Duration:	05:27:50
+		Location:	NULL NULL
+
+(14) - 12.2 km redwoods checking point
+	RYA1
+		Images:	897
+		Time:	15.02.2025 21:06:48 until 16.02.2025 04:59:30
+		Duration:	07:52:42
+		Location:	NULL NULL
+

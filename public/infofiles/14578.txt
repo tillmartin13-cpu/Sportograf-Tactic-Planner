@@ -1,0 +1,134 @@
+EventId: 14578
+Spots: 19
+Total Images: 132463
+Time:	21.11.2025 13:12:55 to 23.11.2025 11:19:55
+Duration: 1.22:07:00
+
+(1) - Obstacle 3 Barbed Wire Crawl
+	TUD1
+		Images:	11896
+		Time:	22.11.2025 06:02:45 until 23.11.2025 07:32:17
+		Duration:	1.01:29:32
+		Location:	33.37830 -112.31423
+
+(2) - Obstacle 6 Monkey Bars
+	TRIW1
+		Images:	3366
+		Time:	22.11.2025 06:16:19 until 22.11.2025 13:36:49
+		Duration:	07:20:30
+		Location:	33.37915 -112.31152
+
+	DVAL1
+		Images:	14689
+		Time:	21.11.2025 20:14:10 until 22.11.2025 13:36:53
+		Duration:	17:22:43
+		Location:	33.37915 -112.31152
+
+(3) - Obstacle 10 Bucket Carry
+	VAL1
+		Images:	12300
+		Time:	22.11.2025 03:59:07 until 23.11.2025 06:29:31
+		Duration:	1.02:30:24
+		Location:	33.37693 -112.30762
+
+(4) - Obstacle 11 Plate Drag
+	DDC1
+		Images:	12212
+		Time:	21.11.2025 13:12:55 until 22.11.2025 14:40:30
+		Duration:	1.01:27:35
+		Location:	33.37390 -112.30663
+
+(5) - Trail Before Stairway to Sparta
+	KHN1LS2
+		Images:	2225
+		Time:	21.11.2025 21:41:41 until 22.11.2025 15:06:57
+		Duration:	17:25:16
+		Location:	33.37268 -112.30837
+
+(6) - Obstacle 25 Stairway to Sparta
+	AGJ1
+		Images:	6268
+		Time:	22.11.2025 05:17:28 until 22.11.2025 14:01:19
+		Duration:	08:43:51
+		Location:	33.37226 -112.30833
+
+(7) - Obstacle 26 Atlas Carry
+	JANH1
+		Images:	5920
+		Time:	22.11.2025 05:45:43 until 23.11.2025 06:29:04
+		Duration:	1.00:43:21
+		Location:	33.37413 -112.30740
+
+	LLCA1
+		Images:	5349
+		Time:	22.11.2025 06:33:44 until 23.11.2025 06:32:39
+		Duration:	23:58:55
+		Location:	33.37413 -112.30740
+
+(8) - Obstacle 29 Multi-Rig
+	BGR1
+		Images:	2952
+		Time:	22.11.2025 04:04:16 until 22.11.2025 14:58:24
+		Duration:	10:54:08
+		Location:	33.37200 -112.31031
+
+	GOB1
+		Images:	4101
+		Time:	21.11.2025 19:03:39 until 22.11.2025 14:58:27
+		Duration:	19:54:48
+		Location:	33.37200 -112.31031
+
+(9) - Obstacle 30 Sandbag Carry
+	KHN1
+		Images:	12221
+		Time:	22.11.2025 03:52:49 until 22.11.2025 15:10:23
+		Duration:	11:17:34
+		Location:	33.37218 -112.31134
+
+	KHN1LS1
+		Images:	4035
+		Time:	21.11.2025 21:40:23 until 22.11.2025 15:23:52
+		Duration:	17:43:29
+		Location:	33.37223 -112.31115
+
+(10) - Obstacle 31 A-Frame Cargo
+	AHG1
+		Images:	10632
+		Time:	21.11.2025 19:41:02 until 22.11.2025 15:06:39
+		Duration:	19:25:37
+		Location:	33.37213 -112.31340
+
+(11) - Herotent
+	JAL1
+		Images:	2373
+		Time:	21.11.2025 16:59:21 until 22.11.2025 15:10:37
+		Duration:	22:11:16
+		Location:	33.37234 -112.31433
+
+(12) - Festival Area
+	JOD1
+		Images:	163
+		Time:	21.11.2025 15:54:24 until 23.11.2025 07:43:48
+		Duration:	1.15:49:24
+		Location:	33.37234 -112.31433
+
+(13) - Finish
+	JOD1LS2
+		Images:	11309
+		Time:	21.11.2025 15:58:46 until 22.11.2025 15:13:44
+		Duration:	23:14:58
+		Location:	33.37234 -112.31433
+
+	JOD1LS1
+		Images:	10442
+		Time:	21.11.2025 16:01:32 until 22.11.2025 15:14:06
+		Duration:	23:12:34
+		Location:	33.37234 -112.31433
+
+(14) - Drone
+	JOD1DRONE1
+		Images:	10
+		Time:	22.11.2025 13:39:46 until 23.11.2025 11:19:55
+		Duration:	21:40:09
+		Location:	33.37234 -112.31433
+

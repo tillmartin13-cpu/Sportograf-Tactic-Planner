@@ -1,0 +1,122 @@
+EventId: 14512
+Spots: 17
+Total Images: 13227
+Time:	14.06.2025 09:39:38 to 15.06.2025 10:30:44
+Duration: 1.00:51:06
+
+(1) - Impressions / Pano
+	DAFE1
+		Images:	158
+		Time:	14.06.2025 09:46:48 until 15.06.2025 10:30:44
+		Duration:	1.00:43:56
+		Location:	41.70771 1.80594
+
+	TGM1DRONE1
+		Images:	98
+		Time:	14.06.2025 10:06:31 until 15.06.2025 09:35:46
+		Duration:	23:29:15
+		Location:	41.70316 1.80162
+
+	TGM2
+		Images:	204
+		Time:	14.06.2025 14:16:33 until 14.06.2025 14:45:12
+		Duration:	00:28:39
+		Location:	41.70551 1.80682
+
+(2) - Start
+	DAFE2
+		Images:	89
+		Time:	14.06.2025 10:08:26 until 14.06.2025 11:12:07
+		Duration:	01:03:41
+		Location:	41.70532 1.80595
+
+(3) - Alambre de espino
+	MRAB1
+		Images:	756
+		Time:	14.06.2025 09:50:33 until 14.06.2025 11:39:48
+		Duration:	01:49:15
+		Location:	41.70806 1.80627
+
+(4) - Masia
+	TGM1LS1
+		Images:	536
+		Time:	14.06.2025 09:50:03 until 14.06.2025 13:45:19
+		Duration:	03:55:16
+		Location:	41.70322 1.80188
+
+(5) - Moody spa
+	TGM1
+		Images:	2206
+		Time:	14.06.2025 10:21:01 until 15.06.2025 09:40:30
+		Duration:	23:19:29
+		Location:	41.70316 1.80162
+
+(6) - Salto rio
+	JMP1
+		Images:	754
+		Time:	14.06.2025 10:39:04 until 14.06.2025 13:57:03
+		Duration:	03:17:59
+		Location:	41.69455 1.81343
+
+(7) - Salida rio
+	JMP1LS1
+		Images:	673
+		Time:	14.06.2025 10:29:28 until 14.06.2025 14:06:10
+		Duration:	03:36:42
+		Location:	41.69480 1.81321
+
+(8) - Air Monkeys
+	MRAB2
+		Images:	2226
+		Time:	14.06.2025 12:29:46 until 14.06.2025 15:10:39
+		Duration:	02:40:53
+		Location:	41.70551 1.80682
+
+(9) - Cadenas
+	TGM2LS1
+		Images:	240
+		Time:	14.06.2025 14:14:30 until 14.06.2025 15:08:36
+		Duration:	00:54:06
+		Location:	41.70551 1.80682
+
+(10) - Alambre electrificado
+	DAFE2LS1
+		Images:	711
+		Time:	14.06.2025 09:39:38 until 14.06.2025 15:34:26
+		Duration:	05:54:48
+		Location:	41.70521 1.80565
+
+(11) - Neumaticos
+	DAFE3
+		Images:	2280
+		Time:	14.06.2025 11:28:27 until 14.06.2025 15:38:59
+		Duration:	04:10:32
+		Location:	41.70532 1.80595
+
+(12) - Piramide
+	JMP2
+		Images:	727
+		Time:	14.06.2025 15:05:22 until 14.06.2025 15:47:49
+		Duration:	00:42:27
+		Location:	41.70771 1.80594
+
+(13) - Finish
+	DARO1LS2
+		Images:	281
+		Time:	14.06.2025 09:43:22 until 14.06.2025 15:58:35
+		Duration:	06:15:13
+		Location:	41.70806 1.80627
+
+	DARO1LS1
+		Images:	298
+		Time:	14.06.2025 09:48:25 until 15.06.2025 08:42:38
+		Duration:	22:54:13
+		Location:	41.70806 1.80627
+
+(14) - Herotent
+	DARO1
+		Images:	989
+		Time:	14.06.2025 10:29:54 until 15.06.2025 08:49:51
+		Duration:	22:19:57
+		Location:	41.70806 1.80627
+

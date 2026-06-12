@@ -1,0 +1,348 @@
+EventId: 14362
+Spots: 56
+Total Images: 228677
+Time:	31.12.2012 23:01:23 to 28.02.2025 12:44:25
+Duration: 4441.13:43:02
+
+(1) - Station 1 SKIERG
+	FCO1
+		Images:	7134
+		Time:	27.02.2025 06:58:53 until 27.02.2025 13:00:06
+		Duration:	06:01:13
+		Location:	51.88276 4.48558
+
+	ALN1
+		Images:	4783
+		Time:	27.02.2025 07:03:48 until 28.02.2025 07:09:10
+		Duration:	1.00:05:22
+		Location:	51.88276 4.48558
+
+	SSW1
+		Images:	7968
+		Time:	26.02.2025 18:19:42 until 28.02.2025 09:12:16
+		Duration:	1.14:52:34
+		Location:	51.88276 4.48558
+
+	MK1
+		Images:	67
+		Time:	27.02.2025 14:29:24 until 27.02.2025 14:30:26
+		Duration:	00:01:02
+		Location:	51.88276 4.48558
+
+	MW3
+		Images:	283
+		Time:	27.02.2025 13:30:11 until 27.02.2025 13:43:26
+		Duration:	00:13:15
+		Location:	51.88276 4.48558
+
+	LV3
+		Images:	645
+		Time:	27.02.2025 13:27:20 until 27.02.2025 13:43:50
+		Duration:	00:16:30
+		Location:	51.88276 4.48558
+
+	DR2
+		Images:	2541
+		Time:	27.02.2025 13:54:54 until 27.02.2025 17:59:10
+		Duration:	04:04:16
+		Location:	51.88276 4.48558
+
+	RM2
+		Images:	11087
+		Time:	27.02.2025 14:26:31 until 27.02.2025 17:58:48
+		Duration:	03:32:17
+		Location:	51.88276 4.48558
+
+	ACCA2
+		Images:	3495
+		Time:	27.02.2025 13:58:16 until 27.02.2025 17:59:02
+		Duration:	04:00:46
+		Location:	51.88276 4.48558
+
+(2) - Station 2 SLED PUSH
+	VL1
+		Images:	3594
+		Time:	27.02.2025 07:11:32 until 28.02.2025 10:19:29
+		Duration:	1.03:07:57
+		Location:	51.88276 4.48558
+
+	STL1
+		Images:	2181
+		Time:	27.02.2025 07:11:38 until 27.02.2025 13:31:15
+		Duration:	06:19:37
+		Location:	51.88276 4.48558
+
+	WEN1
+		Images:	2193
+		Time:	27.02.2025 07:12:18 until 27.02.2025 13:00:55
+		Duration:	05:48:37
+		Location:	51.88276 4.48558
+
+	FCO2
+		Images:	3317
+		Time:	27.02.2025 13:34:19 until 27.02.2025 18:12:15
+		Duration:	04:37:56
+		Location:	51.88276 4.48558
+
+	ALN2
+		Images:	2612
+		Time:	27.02.2025 13:37:58 until 27.02.2025 18:14:51
+		Duration:	04:36:53
+		Location:	51.88276 4.48558
+
+	SSW2
+		Images:	3658
+		Time:	27.02.2025 13:30:29 until 27.02.2025 17:25:12
+		Duration:	03:54:43
+		Location:	51.88276 4.48558
+
+(3) - Station 2 Arch Run out Sledpush - Sledpull
+	MK1LS1
+		Images:	3359
+		Time:	27.02.2025 06:44:41 until 27.02.2025 18:19:13
+		Duration:	11:34:32
+		Location:	51.88276 4.48558
+
+	MK1LS2
+		Images:	3362
+		Time:	31.12.2012 23:01:23 until 27.02.2025 09:49:34
+		Duration:	4440.10:48:11
+		Location:	51.88276 4.48558
+
+(4) - Station 3 SLED PULL
+	ACCA1
+		Images:	4695
+		Time:	27.02.2025 07:40:05 until 27.02.2025 13:47:03
+		Duration:	06:06:58
+		Location:	51.88276 4.48558
+
+	DR1
+		Images:	4828
+		Time:	27.02.2025 07:17:29 until 27.02.2025 13:47:11
+		Duration:	06:29:42
+		Location:	51.88276 4.48558
+
+	RM1
+		Images:	11070
+		Time:	27.02.2025 06:38:55 until 28.02.2025 12:19:35
+		Duration:	1.05:40:40
+		Location:	51.88276 4.48558
+
+	PBO2
+		Images:	3234
+		Time:	27.02.2025 13:47:17 until 27.02.2025 18:30:46
+		Duration:	04:43:29
+		Location:	51.88276 4.48558
+
+	OT2
+		Images:	6097
+		Time:	27.02.2025 13:46:55 until 27.02.2025 18:32:47
+		Duration:	04:45:52
+		Location:	51.88276 4.48558
+
+	FAH2
+		Images:	6785
+		Time:	27.02.2025 13:46:55 until 27.02.2025 18:25:24
+		Duration:	04:38:29
+		Location:	51.88276 4.48558
+
+(5) - Station 5 ROWING
+	LUGR1
+		Images:	6820
+		Time:	27.02.2025 07:31:14 until 27.02.2025 13:38:40
+		Duration:	06:07:26
+		Location:	51.88276 4.48558
+
+	MBEN1
+		Images:	4398
+		Time:	27.02.2025 09:23:48 until 28.02.2025 07:06:23
+		Duration:	21:42:35
+		Location:	51.88276 4.48558
+
+	STL2
+		Images:	1957
+		Time:	27.02.2025 13:49:57 until 27.02.2025 19:09:21
+		Duration:	05:19:24
+		Location:	51.88276 4.48558
+
+	VL2
+		Images:	3920
+		Time:	27.02.2025 13:44:42 until 27.02.2025 18:46:16
+		Duration:	05:01:34
+		Location:	51.88276 4.48558
+
+	LV1
+		Images:	11067
+		Time:	27.02.2025 08:28:39 until 27.02.2025 17:24:03
+		Duration:	08:55:24
+		Location:	51.88276 4.48558
+
+	MW1
+		Images:	2417
+		Time:	27.02.2025 08:29:03 until 28.02.2025 08:13:50
+		Duration:	23:44:47
+		Location:	51.88276 4.48558
+
+	MK3
+		Images:	80
+		Time:	27.02.2025 18:05:05 until 27.02.2025 18:06:35
+		Duration:	00:01:30
+		Location:	51.88276 4.48558
+
+	AGU3
+		Images:	772
+		Time:	27.02.2025 14:03:22 until 27.02.2025 15:24:31
+		Duration:	01:21:09
+		Location:	51.88276 4.48558
+
+(6) - Station 7 SANDBAG LUNGES
+	PBO1
+		Images:	3997
+		Time:	27.02.2025 06:34:40 until 28.02.2025 06:15:00
+		Duration:	23:40:20
+		Location:	51.88276 4.48558
+
+	FAH1
+		Images:	8481
+		Time:	27.02.2025 06:34:09 until 27.02.2025 13:41:59
+		Duration:	07:07:50
+		Location:	51.88276 4.48558
+
+	LUGR2
+		Images:	4698
+		Time:	27.02.2025 13:43:51 until 27.02.2025 19:36:03
+		Duration:	05:52:12
+		Location:	51.88276 4.48558
+
+	THL2
+		Images:	4956
+		Time:	27.02.2025 13:42:40 until 27.02.2025 19:38:05
+		Duration:	05:55:25
+		Location:	51.88276 4.48558
+
+	MW2
+		Images:	2005
+		Time:	27.02.2025 09:31:58 until 27.02.2025 13:25:58
+		Duration:	03:54:00
+		Location:	51.88276 4.48558
+
+	LV2
+		Images:	3420
+		Time:	27.02.2025 09:34:40 until 27.02.2025 17:53:08
+		Duration:	08:18:28
+		Location:	51.88276 4.48558
+
+	AGU4
+		Images:	943
+		Time:	27.02.2025 15:26:32 until 27.02.2025 16:08:59
+		Duration:	00:42:27
+		Location:	51.88276 4.48558
+
+(7) - Station 8 FARMERS CARRY
+	LV1LS1
+		Images:	3625
+		Time:	27.02.2025 06:53:48 until 27.02.2025 19:32:11
+		Duration:	12:38:23
+		Location:	51.88276 4.48558
+
+	AGU1LS1
+		Images:	5636
+		Time:	27.02.2025 07:10:07 until 27.02.2025 19:13:11
+		Duration:	12:03:04
+		Location:	51.88276 4.48558
+
+(8) - Station 8 WALLBALLS
+	KSA1
+		Images:	7471
+		Time:	27.02.2025 06:58:06 until 27.02.2025 19:56:20
+		Duration:	12:58:14
+		Location:	51.88276 4.48558
+
+	RA1
+		Images:	26594
+		Time:	27.02.2025 07:52:57 until 27.02.2025 19:13:55
+		Duration:	11:20:58
+		Location:	51.88276 4.48558
+
+(9) - Finish
+	THL1
+		Images:	6684
+		Time:	26.02.2025 21:34:45 until 28.02.2025 07:08:36
+		Duration:	1.09:33:51
+		Location:	51.88276 4.48558
+
+	MBEN2
+		Images:	4605
+		Time:	27.02.2025 13:46:29 until 27.02.2025 20:07:37
+		Duration:	06:21:08
+		Location:	51.88276 4.48558
+
+	AGU1
+		Images:	1057
+		Time:	27.02.2025 08:30:02 until 27.02.2025 12:13:02
+		Duration:	03:43:00
+		Location:	51.88276 4.48558
+
+	MK2
+		Images:	711
+		Time:	27.02.2025 14:33:00 until 27.02.2025 18:00:43
+		Duration:	03:27:43
+		Location:	51.88276 4.48558
+
+	MK1LS3
+		Images:	2216
+		Time:	27.02.2025 07:21:39 until 27.02.2025 19:22:55
+		Duration:	12:01:16
+		Location:	51.88276 4.48558
+
+	MW1LS1
+		Images:	1987
+		Time:	27.02.2025 06:35:32 until 27.02.2025 19:54:23
+		Duration:	13:18:51
+		Location:	51.88276 4.48558
+
+	MW4
+		Images:	712
+		Time:	27.02.2025 14:37:42 until 27.02.2025 17:27:32
+		Duration:	02:49:50
+		Location:	51.88276 4.48558
+
+(10) - Medalwall
+	OT1
+		Images:	2964
+		Time:	27.02.2025 07:53:48 until 28.02.2025 07:07:04
+		Duration:	23:13:16
+		Location:	51.88276 4.48558
+
+	WEN2
+		Images:	2450
+		Time:	27.02.2025 13:38:13 until 27.02.2025 20:09:32
+		Duration:	06:31:19
+		Location:	51.88276 4.48558
+
+	AGU2
+		Images:	985
+		Time:	27.02.2025 09:22:08 until 27.02.2025 13:14:10
+		Duration:	03:52:02
+		Location:	51.88276 4.48558
+
+	MW5
+		Images:	582
+		Time:	27.02.2025 15:24:36 until 27.02.2025 17:45:07
+		Duration:	02:20:31
+		Location:	51.88276 4.48558
+
+(11) - Impressions / Pano
+	AGU1IMP1
+		Images:	1146
+		Time:	27.02.2025 07:27:28 until 27.02.2025 18:49:10
+		Duration:	11:21:42
+		Location:	51.88276 4.48558
+
+	PANO1
+	MK1IMP1
+		Images:	333
+		Time:	27.02.2025 14:33:00 until 28.02.2025 12:44:25
+		Duration:	22:11:25
+		Location:	51.88276 4.48558
+

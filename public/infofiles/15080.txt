@@ -1,0 +1,383 @@
+EventId: 15080
+Spots: 61
+Total Images: 217567
+Time:	01.01.0001 23:00:00 to 06.07.2025 21:31:13
+Duration: 739436.22:31:13
+
+(1) - SKIERG
+	CRBR1
+		Images:	4472
+		Time:	04.07.2025 07:50:29 until 06.07.2025 08:02:26
+		Duration:	2.00:11:57
+		Location:	-33.84514 151.06866
+
+	EAP2
+		Images:	4658
+		Time:	04.07.2025 03:03:59 until 05.07.2025 08:41:18
+		Duration:	1.05:37:19
+		Location:	-33.84514 151.06866
+
+	HMT1
+		Images:	10160
+		Time:	04.07.2025 07:42:07 until 04.07.2025 14:56:40
+		Duration:	07:14:33
+		Location:	-33.84514 151.06866
+
+	IGM6
+		Images:	51
+		Time:	04.07.2025 10:06:13 until 04.07.2025 10:11:26
+		Duration:	00:05:13
+		Location:	-33.84514 151.06866
+
+	KSL2
+		Images:	882
+		Time:	04.07.2025 14:54:20 until 04.07.2025 20:17:40
+		Duration:	05:23:20
+		Location:	-33.84514 151.06866
+
+	SNT2
+		Images:	2566
+		Time:	04.07.2025 15:05:07 until 04.07.2025 20:39:14
+		Duration:	05:34:07
+		Location:	-33.84514 151.06866
+
+	TKU1
+		Images:	11107
+		Time:	04.07.2025 05:58:50 until 04.07.2025 14:54:21
+		Duration:	08:55:31
+		Location:	-33.84514 151.06866
+
+	TPA1
+		Images:	7892
+		Time:	04.07.2025 09:07:10 until 05.07.2025 08:51:02
+		Duration:	23:43:52
+		Location:	-33.84514 151.06866
+
+	ZMO2
+		Images:	3046
+		Time:	04.07.2025 14:55:32 until 04.07.2025 20:43:16
+		Duration:	05:47:44
+		Location:	-33.84514 151.06866
+
+(2) - ROWING
+	CRBR2
+		Images:	3615
+		Time:	04.07.2025 14:49:25 until 06.07.2025 10:40:16
+		Duration:	1.19:50:51
+		Location:	-33.84514 151.06866
+
+	CSM2
+		Images:	3583
+		Time:	04.07.2025 15:15:53 until 04.07.2025 18:58:59
+		Duration:	03:43:06
+		Location:	-33.84514 151.06866
+
+	IGM5
+		Images:	38
+		Time:	04.07.2025 10:34:52 until 04.07.2025 10:35:30
+		Duration:	00:00:38
+		Location:	-33.84514 151.06866
+
+	JBR1
+		Images:	2856
+		Time:	03.07.2025 21:02:16 until 04.07.2025 15:11:00
+		Duration:	18:08:44
+		Location:	-33.84514 151.06866
+
+	JUBA1
+		Images:	9373
+		Time:	04.07.2025 08:26:00 until 06.07.2025 10:50:45
+		Duration:	2.02:24:45
+		Location:	-33.84514 151.06866
+
+	NCJ2
+		Images:	2279
+		Time:	03.07.2025 19:33:54 until 04.07.2025 21:23:02
+		Duration:	1.01:49:08
+		Location:	-33.84514 151.06866
+
+	ZMO1
+		Images:	5393
+		Time:	03.07.2025 21:56:59 until 04.07.2025 14:45:41
+		Duration:	16:48:42
+		Location:	-33.84514 151.06866
+
+(3) - Herotent
+	CSM1
+		Images:	1794
+		Time:	04.07.2025 08:19:52 until 06.07.2025 10:38:15
+		Duration:	2.02:18:23
+		Location:	-33.84514 151.06866
+
+	IDS2
+		Images:	1570
+		Time:	04.07.2025 15:02:08 until 04.07.2025 22:17:55
+		Duration:	07:15:47
+		Location:	-33.84514 151.06866
+
+	IGM1
+		Images:	74
+		Time:	04.07.2025 14:49:29 until 05.07.2025 12:07:25
+		Duration:	21:17:56
+		Location:	-33.84514 151.06866
+
+	PBOY1
+		Images:	2306
+		Time:	04.07.2025 08:48:23 until 06.07.2025 11:40:26
+		Duration:	2.02:52:03
+		Location:	-33.84514 151.06866
+
+	RECA2
+		Images:	1252
+		Time:	04.07.2025 15:00:34 until 04.07.2025 22:07:51
+		Duration:	07:07:17
+		Location:	-33.84514 151.06866
+
+(4) - LUNGES
+	CVO1
+		Images:	3282
+		Time:	04.07.2025 08:04:59 until 04.07.2025 14:33:26
+		Duration:	06:28:27
+		Location:	-33.84514 151.06866
+
+	IDS1
+		Images:	3991
+		Time:	03.07.2025 22:23:29 until 06.07.2025 08:41:46
+		Duration:	2.10:18:17
+		Location:	-33.84514 151.06866
+
+	JBR2
+		Images:	2506
+		Time:	04.07.2025 15:16:20 until 04.07.2025 21:44:02
+		Duration:	06:27:42
+		Location:	-33.84514 151.06866
+
+	WP2
+		Images:	5685
+		Time:	04.07.2025 15:06:37 until 06.07.2025 21:31:13
+		Duration:	2.06:24:36
+		Location:	-33.84514 151.06866
+
+(5) - WALL BALL
+	CVO2
+		Images:	1813
+		Time:	04.07.2025 15:05:43 until 04.07.2025 21:55:54
+		Duration:	06:50:11
+		Location:	-33.84514 151.06866
+
+	IGM4
+		Images:	215
+		Time:	04.07.2025 11:24:34 until 04.07.2025 11:36:58
+		Duration:	00:12:24
+		Location:	-33.84514 151.06866
+
+	JV2
+		Images:	3670
+		Time:	04.07.2025 15:13:46 until 04.07.2025 21:56:21
+		Duration:	06:42:35
+		Location:	-33.84514 151.06866
+
+	KSL1
+		Images:	1709
+		Time:	04.07.2025 07:43:07 until 05.07.2025 11:14:33
+		Duration:	1.03:31:26
+		Location:	-33.84514 151.06866
+
+	RECA1
+		Images:	2117
+		Time:	03.07.2025 18:38:34 until 04.07.2025 14:43:54
+		Duration:	20:05:20
+		Location:	-33.84514 151.06866
+
+	TOSC2
+		Images:	11725
+		Time:	04.07.2025 15:05:15 until 06.07.2025 19:52:44
+		Duration:	2.04:47:29
+		Location:	-33.84514 151.06866
+
+	VN3
+		Images:	464
+		Time:	04.07.2025 20:24:08 until 04.07.2025 20:46:25
+		Duration:	00:22:17
+		Location:	-33.84514 151.06866
+
+	WP1
+		Images:	5246
+		Time:	03.07.2025 23:11:48 until 04.07.2025 14:41:33
+		Duration:	15:29:45
+		Location:	-33.84514 151.06866
+
+(6) - BURPES
+	CSM3
+		Images:	143
+		Time:	04.07.2025 19:05:38 until 04.07.2025 19:22:54
+		Duration:	00:17:16
+		Location:	-33.84514 151.06866
+
+(7) - SLED PULL
+	CSM4
+		Images:	362
+		Time:	04.07.2025 20:23:24 until 04.07.2025 20:55:21
+		Duration:	00:31:57
+		Location:	-33.84514 151.06866
+
+	IGM3
+		Images:	1086
+		Time:	04.07.2025 12:01:30 until 04.07.2025 12:39:19
+		Duration:	00:37:49
+		Location:	-33.84514 151.06866
+
+	JV1
+		Images:	2657
+		Time:	03.07.2025 19:19:28 until 04.07.2025 14:20:24
+		Duration:	19:00:56
+		Location:	-33.84514 151.06866
+
+	MALO2
+		Images:	4195
+		Time:	04.07.2025 15:18:33 until 04.07.2025 21:03:43
+		Duration:	05:45:10
+		Location:	-33.84514 151.06866
+
+	NOJ1
+		Images:	3451
+		Time:	04.07.2025 08:19:07 until 04.07.2025 14:51:53
+		Duration:	06:32:46
+		Location:	-33.84514 151.06866
+
+	PBOY2
+		Images:	2868
+		Time:	04.07.2025 15:36:38 until 04.07.2025 20:55:05
+		Duration:	05:18:27
+		Location:	-33.84514 151.06866
+
+	TKU2
+		Images:	1235
+		Time:	04.07.2025 14:56:55 until 04.07.2025 16:23:23
+		Duration:	01:26:28
+		Location:	-33.84514 151.06866
+
+	TOSC1
+		Images:	4280
+		Time:	03.07.2025 20:48:47 until 06.07.2025 14:53:26
+		Duration:	2.18:04:39
+		Location:	-33.84514 151.06866
+
+	VN2
+		Images:	2821
+		Time:	04.07.2025 13:49:05 until 04.07.2025 18:16:28
+		Duration:	04:27:23
+		Location:	-33.84514 151.06866
+
+(8) - SLED PUSH
+	EAP1
+		Images:	3206
+		Time:	03.07.2025 04:24:34 until 05.07.2025 20:14:42
+		Duration:	2.15:50:08
+		Location:	-33.84514 151.06866
+
+	HMT2
+		Images:	241
+		Time:	04.07.2025 15:05:28 until 04.07.2025 15:15:02
+		Duration:	00:09:34
+		Location:	-33.84514 151.06866
+
+	IGM2
+		Images:	679
+		Time:	04.07.2025 13:24:41 until 04.07.2025 16:05:56
+		Duration:	02:41:15
+		Location:	-33.84514 151.06866
+
+	LMLS1
+		Images:	1786
+		Time:	04.07.2025 06:33:02 until 04.07.2025 14:41:52
+		Duration:	08:08:50
+		Location:	-33.84514 151.06866
+
+	NOJ2
+		Images:	2135
+		Time:	04.07.2025 15:02:48 until 04.07.2025 19:45:58
+		Duration:	04:43:10
+		Location:	-33.84514 151.06866
+
+	SNT1
+		Images:	4101
+		Time:	04.07.2025 07:52:05 until 04.07.2025 15:04:17
+		Duration:	07:12:12
+		Location:	-33.84514 151.06866
+
+	TPA2
+		Images:	7293
+		Time:	04.07.2025 15:03:39 until 05.07.2025 18:56:05
+		Duration:	1.03:52:26
+		Location:	-33.84514 151.06866
+
+	VN4
+		Images:	947
+		Time:	04.07.2025 12:23:48 until 04.07.2025 13:03:27
+		Duration:	00:39:39
+		Location:	-33.84514 151.06866
+
+(9) - RUN
+	IGM7
+		Images:	36
+		Time:	03.07.2025 21:37:55 until 04.07.2025 09:50:57
+		Duration:	12:13:02
+		Location:	-33.84514 151.06866
+
+	VN1
+		Images:	635
+		Time:	04.07.2025 11:12:27 until 04.07.2025 11:44:46
+		Duration:	00:32:19
+		Location:	-33.84514 151.06866
+
+(10) - FARMERS CARRY
+	IGM8LS1
+		Images:	7625
+		Time:	01.01.0001 23:00:00 until 04.07.2025 21:10:30
+		Duration:	739434.22:10:30
+		Location:	-33.84514 151.06866
+
+	IGM8LS2
+		Images:	6596
+		Time:	04.07.2025 09:12:42 until 04.07.2025 21:20:52
+		Duration:	12:08:10
+		Location:	-33.84514 151.06866
+
+(11) - Finish
+	JUBA2
+		Images:	5196
+		Time:	04.07.2025 15:01:36 until 04.07.2025 21:28:32
+		Duration:	06:26:56
+		Location:	-33.84514 151.06866
+
+	LMLS2
+		Images:	7090
+		Time:	04.07.2025 14:55:41 until 04.07.2025 22:16:29
+		Duration:	07:20:48
+		Location:	-33.84514 151.06866
+
+	MALO1
+		Images:	7592
+		Time:	04.07.2025 07:59:04 until 06.07.2025 08:22:39
+		Duration:	2.00:23:35
+		Location:	-33.84514 151.06866
+
+	NCJ1
+		Images:	5344
+		Time:	04.07.2025 07:58:38 until 04.07.2025 15:00:10
+		Duration:	07:01:32
+		Location:	-33.84514 151.06866
+
+	TPA3LS1
+		Images:	11769
+		Time:	04.07.2025 07:33:29 until 04.07.2025 21:14:17
+		Duration:	13:40:48
+		Location:	-33.84514 151.06866
+
+	VN5
+		Images:	794
+		Time:	04.07.2025 18:28:50 until 04.07.2025 20:14:19
+		Duration:	01:45:29
+		Location:	-33.84514 151.06866
+

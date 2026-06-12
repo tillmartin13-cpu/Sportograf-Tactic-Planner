@@ -1,0 +1,119 @@
+EventId: 15247
+Spots: 18
+Total Images: 31839
+Time:	12.04.2025 08:17:31 to 12.04.2025 18:21:16
+Duration: 10:03:45
+
+(1) - Start
+	ROC1
+		Images:	749
+		Time:	12.04.2025 08:27:10 until 12.04.2025 13:46:36
+		Duration:	05:19:26
+		Location:	50.68913 6.47875
+
+(2) - 0.9 km
+	OP1
+		Images:	718
+		Time:	12.04.2025 09:03:47 until 12.04.2025 09:13:05
+		Duration:	00:09:18
+		Location:	50.68841 6.47584
+
+	OP1LS1
+		Images:	338
+		Time:	12.04.2025 08:24:38 until 12.04.2025 09:21:55
+		Duration:	00:57:17
+		Location:	50.68841 6.47584
+
+(3) - 1.0 km
+	MAW1
+		Images:	726
+		Time:	12.04.2025 08:19:56 until 12.04.2025 09:11:28
+		Duration:	00:51:32
+		Location:	50.68806 6.47665
+
+	MAW1IMP1
+		Images:	15
+		Time:	12.04.2025 09:20:38 until 12.04.2025 10:32:32
+		Duration:	01:11:54
+		Location:	50.68806 6.47665
+
+	MAW1DRONE1
+		Images:	56
+		Time:	12.04.2025 08:40:53 until 12.04.2025 08:49:18
+		Duration:	00:08:25
+		Location:	50.68806 6.47665
+
+	MAW1LS1
+		Images:	255
+		Time:	12.04.2025 08:17:31 until 12.04.2025 09:11:24
+		Duration:	00:53:53
+		Location:	50.68806 6.47665
+
+	MAW1LS2
+		Images:	208
+		Time:	12.04.2025 08:23:29 until 12.04.2025 09:10:49
+		Duration:	00:47:20
+		Location:	50.68806 6.47665
+
+(4) - 1.9 km
+	ROC3
+		Images:	470
+		Time:	12.04.2025 09:07:11 until 12.04.2025 09:14:32
+		Duration:	00:07:21
+		Location:	50.68913 6.47875
+
+(5) - 4.0 km before finish (22km) 9.5 km before finish (44/66km)
+	MAW2
+		Images:	5285
+		Time:	12.04.2025 10:37:04 until 12.04.2025 17:34:55
+		Duration:	06:57:51
+		Location:	50.69947 6.46818
+
+	MAW2LS1
+		Images:	1053
+		Time:	12.04.2025 10:11:35 until 12.04.2025 17:25:19
+		Duration:	07:13:44
+		Location:	50.69947 6.46818
+
+	MAW2LS2
+		Images:	1044
+		Time:	12.04.2025 10:23:51 until 12.04.2025 17:34:17
+		Duration:	07:10:26
+		Location:	50.69947 6.46818
+
+(6) - 3.0 km before finish
+	OP2
+		Images:	1943
+		Time:	12.04.2025 09:56:39 until 12.04.2025 17:42:14
+		Duration:	07:45:35
+		Location:	50.69487 6.46699
+
+	OP2LS1
+		Images:	1177
+		Time:	12.04.2025 10:06:43 until 12.04.2025 17:44:43
+		Duration:	07:38:00
+		Location:	50.69487 6.46699
+
+(7) - 2.6 km before finish
+	MER1
+		Images:	5155
+		Time:	12.04.2025 09:01:03 until 12.04.2025 18:00:52
+		Duration:	08:59:49
+		Location:	50.69268 6.46939
+
+(8) - 2.5 km before finish
+	ANR1
+		Images:	6124
+		Time:	12.04.2025 09:12:25 until 12.04.2025 17:58:34
+		Duration:	08:46:09
+		Location:	50.69300 6.47212
+
+(9) - Finish
+	ROC2
+		Images:	6523
+		Time:	12.04.2025 09:23:38 until 12.04.2025 18:21:16
+		Duration:	08:57:38
+		Location:	50.68913 6.47875
+
+(10) - Impressions / Pano
+	PANO1

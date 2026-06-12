@@ -1,0 +1,552 @@
+EventId: 15476
+Spots: 89
+Total Images: 1305054
+Time:	01.01.2014 00:00:01 to 27.04.2025 18:26:11
+Duration: 4134.18:26:10
+
+(1) - Finish
+	CCUP1
+		Images:	29417
+		Time:	27.04.2025 10:22:50 until 27.04.2025 18:26:11
+		Duration:	08:03:21
+		Location:	53.46576 -2.23328
+
+	DRA1
+		Images:	5560
+		Time:	27.04.2025 15:51:16 until 27.04.2025 16:51:56
+		Duration:	01:00:40
+		Location:	53.46577 -2.23335
+
+	DSAMA1
+		Images:	2589
+		Time:	27.04.2025 15:49:28 until 27.04.2025 17:00:27
+		Duration:	01:10:59
+		Location:	53.46577 -2.23335
+
+	EANPE1
+		Images:	13371
+		Time:	27.04.2025 10:09:13 until 27.04.2025 18:14:28
+		Duration:	08:05:15
+		Location:	53.46572 -2.23324
+
+	EBS1
+		Images:	25458
+		Time:	27.04.2025 10:43:18 until 27.04.2025 18:12:44
+		Duration:	07:29:26
+		Location:	53.46572 -2.23324
+
+	EBS1LS1
+		Images:	11090
+		Time:	27.04.2025 10:29:21 until 27.04.2025 18:12:18
+		Duration:	07:42:57
+		Location:	53.46572 -2.23324
+
+	EEHL1
+		Images:	15687
+		Time:	27.04.2025 11:16:37 until 27.04.2025 18:10:34
+		Duration:	06:53:57
+		Location:	53.46572 -2.23324
+
+	EEHL1LS1
+		Images:	18882
+		Time:	27.04.2024 11:50:20 until 27.04.2024 17:15:07
+		Duration:	05:24:47
+		Location:	53.46572 -2.23324
+
+	EHCF2
+		Images:	9843
+		Time:	27.04.2025 14:10:28 until 27.04.2025 17:27:12
+		Duration:	03:16:44
+		Location:	53.46572 -2.23324
+
+	EJMU1
+		Images:	11320
+		Time:	27.04.2025 11:09:21 until 27.04.2025 18:24:41
+		Duration:	07:15:20
+		Location:	53.46572 -2.23324
+
+	EKSTH1
+		Images:	22683
+		Time:	27.04.2025 11:09:25 until 27.04.2025 18:24:46
+		Duration:	07:15:21
+		Location:	53.46572 -2.23324
+
+	ELPI1
+		Images:	26415
+		Time:	27.04.2025 11:10:16 until 27.04.2025 18:23:34
+		Duration:	07:13:18
+		Location:	53.46572 -2.23324
+
+	ELPI1LS1
+		Images:	10496
+		Time:	27.04.2025 11:27:46 until 27.04.2025 17:22:14
+		Duration:	05:54:28
+		Location:	53.46572 -2.23324
+
+	ERJ1
+		Images:	23981
+		Time:	27.04.2025 11:16:41 until 27.04.2025 17:31:42
+		Duration:	06:15:01
+		Location:	53.46572 -2.23324
+
+	ERJ1LS1
+		Images:	9438
+		Time:	27.04.2025 11:41:39 until 27.04.2025 17:44:01
+		Duration:	06:02:22
+		Location:	53.46572 -2.23324
+
+	ERJ1LS2
+		Images:	6603
+		Time:	27.04.2025 11:41:58 until 27.04.2025 17:44:05
+		Duration:	06:02:07
+		Location:	53.46572 -2.23324
+
+	ETILL1
+		Images:	21446
+		Time:	27.04.2025 08:53:52 until 27.04.2025 14:59:33
+		Duration:	06:05:41
+		Location:	53.46572 -2.23324
+
+	ETILL1LS1
+		Images:	3909
+		Time:	27.04.2025 11:28:21 until 27.04.2025 14:43:45
+		Duration:	03:15:24
+		Location:	53.46572 -2.23324
+
+	FAAB1
+		Images:	6279
+		Time:	27.04.2025 11:13:18 until 27.04.2025 17:58:35
+		Duration:	06:45:17
+		Location:	53.46560 -2.23317
+
+(2) - Impressions / Pano
+	BMK1DRONE1
+		Images:	29
+		Time:	27.04.2025 08:19:28 until 27.04.2025 14:34:10
+		Duration:	06:14:42
+		Location:	53.38763 -2.35205
+
+	PANO1
+(3) - Km 11,2 - Mile 6,9
+	CAAS1
+		Images:	10926
+		Time:	27.04.2025 09:28:09 until 27.04.2025 12:26:53
+		Duration:	02:58:44
+		Location:	53.43516 -2.31618
+
+	CAPDA1
+		Images:	3146
+		Time:	27.04.2025 09:36:44 until 27.04.2025 10:58:15
+		Duration:	01:21:31
+		Location:	53.43516 -2.31618
+
+	CGUY1
+		Images:	6359
+		Time:	27.04.2025 09:36:52 until 27.04.2025 10:51:12
+		Duration:	01:14:20
+		Location:	53.43516 -2.31618
+
+	CMGOU1
+		Images:	5804
+		Time:	27.04.2025 09:36:55 until 27.04.2025 13:08:30
+		Duration:	03:31:35
+		Location:	53.43516 -2.31618
+
+	CPHBU1
+		Images:	14690
+		Time:	01.01.2014 00:00:17 until 27.04.2025 10:53:54
+		Duration:	4134.10:53:37
+		Location:	53.43516 -2.31618
+
+	CRD1
+		Images:	10178
+		Time:	27.04.2025 09:30:05 until 27.04.2025 13:04:23
+		Duration:	03:34:18
+		Location:	53.43516 -2.31618
+
+(4) - Km 15 - Mile 9,3
+	ABOC1
+		Images:	20504
+		Time:	27.04.2025 09:29:29 until 27.04.2025 13:59:53
+		Duration:	04:30:24
+		Location:	53.40624 -2.34729
+
+	ASJW1
+		Images:	23689
+		Time:	27.04.2025 09:44:51 until 27.04.2025 13:56:41
+		Duration:	04:11:50
+		Location:	53.40624 -2.34729
+
+	BLSI1
+		Images:	13666
+		Time:	27.04.2025 09:11:46 until 27.04.2025 16:34:39
+		Duration:	07:22:53
+		Location:	53.40624 -2.34729
+
+(5) - Km 15,2 - Mile 9,4
+	BGA1
+		Images:	19288
+		Time:	27.04.2025 09:39:17 until 27.04.2025 16:30:24
+		Duration:	06:51:07
+		Location:	53.40589 -2.34648
+
+	BGBR1
+		Images:	25381
+		Time:	27.04.2025 09:30:04 until 27.04.2025 14:03:23
+		Duration:	04:33:19
+		Location:	53.40589 -2.34648
+
+	BMAXW1
+		Images:	12584
+		Time:	27.04.2025 09:17:01 until 27.04.2025 13:45:29
+		Duration:	04:28:28
+		Location:	53.40589 -2.34648
+
+(6) - Km 19,5 - Mile 12,1
+	BOLHA1
+		Images:	14690
+		Time:	27.04.2025 09:41:35 until 27.04.2025 14:49:55
+		Duration:	05:08:20
+		Location:	53.39105 -2.34757
+
+	BPAWA1
+		Images:	19452
+		Time:	27.04.2025 09:58:27 until 27.04.2025 14:46:04
+		Duration:	04:47:37
+		Location:	53.39105 -2.34757
+
+(7) - Km 2,7 - Mile 1,6 + Km 38,5 - Mile 23,9
+	DBA1
+		Images:	10977
+		Time:	27.04.2025 13:18:28 until 27.04.2025 17:35:39
+		Duration:	04:17:11
+		Location:	53.46571 -2.25786
+
+	DBRP1
+		Images:	23617
+		Time:	27.04.2025 09:02:21 until 27.04.2025 17:37:30
+		Duration:	08:35:09
+		Location:	53.46571 -2.25786
+
+	DBRP1LS1
+		Images:	14124
+		Time:	27.04.2025 09:04:57 until 27.04.2025 17:36:43
+		Duration:	08:31:46
+		Location:	53.46571 -2.25786
+
+	DEO1
+		Images:	23562
+		Time:	27.04.2025 09:05:48 until 27.04.2025 17:35:50
+		Duration:	08:30:02
+		Location:	53.46571 -2.25786
+
+	DFBO1
+		Images:	15678
+		Time:	27.04.2025 09:04:52 until 27.04.2025 17:37:31
+		Duration:	08:32:39
+		Location:	53.46571 -2.25786
+
+	DFOS1
+		Images:	6155
+		Time:	27.04.2025 08:34:54 until 27.04.2025 11:53:56
+		Duration:	03:19:02
+		Location:	53.46571 -2.25786
+
+	DLIG1
+		Images:	15435
+		Time:	27.04.2025 09:05:50 until 27.04.2025 17:37:56
+		Duration:	08:32:06
+		Location:	53.46571 -2.25786
+
+	DMAC1
+		Images:	6088
+		Time:	27.04.2025 09:05:49 until 27.04.2025 11:52:28
+		Duration:	02:46:39
+		Location:	53.46571 -2.25786
+
+	DRABI1
+		Images:	6236
+		Time:	27.04.2025 08:57:55 until 27.04.2025 11:52:35
+		Duration:	02:54:40
+		Location:	53.46571 -2.25786
+
+(8) - Km 20,5 - Mile 12,7
+	BDEES1
+		Images:	6374
+		Time:	27.04.2025 10:05:56 until 27.04.2025 14:44:36
+		Duration:	04:38:40
+		Location:	53.38763 -2.35205
+
+	BLV1
+		Images:	21590
+		Time:	27.04.2025 10:05:42 until 27.04.2025 14:43:51
+		Duration:	04:38:09
+		Location:	53.38763 -2.35205
+
+	BLV1LS1
+		Images:	4556
+		Time:	27.04.2025 09:22:09 until 27.04.2025 14:34:31
+		Duration:	05:12:22
+		Location:	53.38763 -2.35205
+
+	BMK1
+		Images:	51776
+		Time:	27.04.2025 10:05:35 until 27.04.2025 14:22:12
+		Duration:	04:16:37
+		Location:	53.38763 -2.35205
+
+	BMK1LS1
+		Images:	12187
+		Time:	27.04.2025 10:13:13 until 27.04.2025 14:29:29
+		Duration:	04:16:16
+		Location:	53.38763 -2.35205
+
+	BMK1LS2
+		Images:	12174
+		Time:	27.04.2025 09:58:42 until 27.04.2025 14:29:18
+		Duration:	04:30:36
+		Location:	53.38763 -2.35205
+
+	BRM1
+		Images:	23079
+		Time:	27.04.2025 10:05:59 until 27.04.2025 14:44:17
+		Duration:	04:38:18
+		Location:	53.38763 -2.35205
+
+(9) - Km 23,5 - Mile 14,6
+	CBKO1
+		Images:	18746
+		Time:	27.04.2025 10:16:37 until 27.04.2025 15:22:15
+		Duration:	05:05:38
+		Location:	53.3959 -2.31738
+
+	CBKO1DRONE1
+		Images:	18
+		Time:	27.04.2025 12:08:52 until 27.04.2025 12:23:09
+		Duration:	00:14:17
+		Location:	53.3959 -2.31738
+
+	CBKO1LS1
+		Images:	5212
+		Time:	27.04.2025 09:50:53 until 27.04.2025 15:09:14
+		Duration:	05:18:21
+		Location:	53.3959 -2.31738
+
+	CBKO1LS2
+		Images:	3632
+		Time:	27.04.2025 10:08:42 until 27.04.2025 15:12:25
+		Duration:	05:03:43
+		Location:	53.3959 -2.31738
+
+	CGO1
+		Images:	11493
+		Time:	27.04.2025 10:16:51 until 27.04.2025 15:21:50
+		Duration:	05:04:59
+		Location:	53.3959 -2.31738
+
+	CLOT1
+		Images:	19596
+		Time:	27.04.2025 10:16:48 until 27.04.2025 15:16:41
+		Duration:	04:59:53
+		Location:	53.3959 -2.31738
+
+	CLOT1LS1
+		Images:	5166
+		Time:	27.04.2025 09:53:47 until 27.04.2025 15:06:04
+		Duration:	05:12:17
+		Location:	53.3959 -2.31738
+
+	CRBR1
+		Images:	25868
+		Time:	27.04.2025 10:16:42 until 27.04.2025 15:21:50
+		Duration:	05:05:08
+		Location:	53.3959 -2.31738
+
+(10) - Km 32 - Mile 19,8
+	CAAS2
+		Images:	6476
+		Time:	27.04.2025 12:47:10 until 27.04.2025 16:47:15
+		Duration:	04:00:05
+		Location:	53.43515 -2.31559
+
+	CAPDA2
+		Images:	11055
+		Time:	27.04.2025 11:03:54 until 27.04.2025 16:37:29
+		Duration:	05:33:35
+		Location:	53.43515 -2.31559
+
+	CGUY2
+		Images:	16157
+		Time:	27.04.2025 10:53:28 until 27.04.2025 16:35:52
+		Duration:	05:42:24
+		Location:	53.43515 -2.31559
+
+	CMGOU2
+		Images:	2919
+		Time:	27.04.2025 13:12:20 until 27.04.2025 16:36:43
+		Duration:	03:24:23
+		Location:	53.43515 -2.31559
+
+	CPHBU2
+		Images:	7976
+		Time:	01.01.2014 00:00:01 until 01.01.2014 02:28:54
+		Duration:	02:28:53
+		Location:	53.43515 -2.31559
+
+	CRD2
+		Images:	5732
+		Time:	27.04.2025 13:20:36 until 27.04.2025 16:37:01
+		Duration:	03:16:25
+		Location:	53.43515 -2.31559
+
+(11) - km 34,3 - Mile 21,3
+	FBENL1
+		Images:	17189
+		Time:	27.04.2025 08:40:00 until 27.04.2025 16:46:03
+		Duration:	08:06:03
+		Location:	53.4445 -2.29353
+
+	FDANO1
+		Images:	38414
+		Time:	27.04.2025 10:51:35 until 27.04.2025 16:57:50
+		Duration:	06:06:15
+		Location:	53.4445 -2.29353
+
+	FMSO1
+		Images:	14627
+		Time:	27.04.2025 10:06:45 until 27.04.2025 16:57:50
+		Duration:	06:51:05
+		Location:	53.4445 -2.29353
+
+(12) - Km 38 - Mile 23,6
+	DFOS2
+		Images:	8466
+		Time:	27.04.2025 11:58:58 until 27.04.2025 17:33:46
+		Duration:	05:34:48
+		Location:	53.46158 -2.25807
+
+	DMAC2
+		Images:	7468
+		Time:	27.04.2025 12:09:34 until 27.04.2025 17:33:36
+		Duration:	05:24:02
+		Location:	53.46158 -2.25807
+
+	DOLM1
+		Images:	12800
+		Time:	27.04.2025 13:14:40 until 27.04.2025 17:30:22
+		Duration:	04:15:42
+		Location:	53.46158 -2.25807
+
+	DRABI2
+		Images:	10113
+		Time:	27.04.2025 12:10:17 until 27.04.2025 17:33:05
+		Duration:	05:22:48
+		Location:	53.46158 -2.25807
+
+(13) - Km 39,4 - Mile 24,5
+	FAC1
+		Images:	14322
+		Time:	27.04.2025 11:08:34 until 27.04.2025 17:36:20
+		Duration:	06:27:46
+		Location:	53.46814 -2.24504
+
+	FCVG1
+		Images:	16033
+		Time:	27.04.2025 10:54:38 until 27.04.2025 17:37:07
+		Duration:	06:42:29
+		Location:	53.46814 -2.24504
+
+	FDCC1
+		Images:	33453
+		Time:	27.04.2025 10:56:03 until 27.04.2025 18:11:56
+		Duration:	07:15:53
+		Location:	53.46814 -2.24504
+
+	FLLM1
+		Images:	11110
+		Time:	27.04.2025 11:08:19 until 27.04.2025 17:43:57
+		Duration:	06:35:38
+		Location:	53.46814 -2.24504
+
+(14) - Km 40,8 - Mile 25,3
+	FAMU1
+		Images:	27456
+		Time:	27.04.2025 09:36:37 until 27.04.2025 18:15:56
+		Duration:	08:39:19
+		Location:	53.46046 -2.23562
+
+	FAMU1LS1
+		Images:	8245
+		Time:	27.04.2025 11:12:24 until 27.04.2025 18:06:43
+		Duration:	06:54:19
+		Location:	53.46046 -2.23562
+
+	FCC1
+		Images:	21884
+		Time:	27.04.2025 10:56:03 until 27.04.2025 18:11:56
+		Duration:	07:15:53
+		Location:	53.46046 -2.23562
+
+(15) - Km 7,5 - Mile 4,6
+	AAAB1
+		Images:	27786
+		Time:	27.04.2025 10:30:31 until 27.04.2025 13:36:46
+		Duration:	03:06:15
+		Location:	53.46079 -2.28889
+
+	ARA1
+		Images:	35505
+		Time:	27.04.2025 09:29:38 until 27.04.2025 12:40:35
+		Duration:	03:10:57
+		Location:	53.46079 -2.28889
+
+	ASAMA1
+		Images:	18964
+		Time:	27.04.2025 09:23:51 until 27.04.2025 12:40:36
+		Duration:	03:16:45
+		Location:	53.46079 -2.28889
+
+	ATAL1
+		Images:	27819
+		Time:	27.04.2025 09:21:10 until 27.04.2025 12:34:41
+		Duration:	03:13:31
+		Location:	53.46079 -2.28889
+
+	ATHL1
+		Images:	26192
+		Time:	27.04.2025 09:23:52 until 27.04.2025 12:38:03
+		Duration:	03:14:11
+		Location:	53.46079 -2.28889
+
+(16) - Km5 - Mile 3,1
+	EHCF1
+		Images:	10798
+		Time:	27.04.2025 09:02:48 until 27.04.2025 12:14:11
+		Duration:	03:11:23
+		Location:	53.46898 -2.26737
+
+(17) - Km6 - Mile 3,7
+	ABA1
+		Images:	13550
+		Time:	27.04.2025 08:43:42 until 27.04.2025 12:32:07
+		Duration:	03:48:25
+		Location:	53.46383 -2.28022
+
+	AKAM1
+		Images:	12270
+		Time:	27.04.2025 08:32:30 until 27.04.2025 12:31:57
+		Duration:	03:59:27
+		Location:	53.46383 -2.28022
+
+	AOLM1
+		Images:	12519
+		Time:	27.04.2025 08:47:12 until 27.04.2025 12:21:57
+		Duration:	03:34:45
+		Location:	53.46383 -2.28022
+
+	ASDR1
+		Images:	9564
+		Time:	27.04.2025 08:46:42 until 27.04.2025 12:24:18
+		Duration:	03:37:36
+		Location:	53.46383 -2.28022
+

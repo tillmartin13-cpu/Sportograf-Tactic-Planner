@@ -1,0 +1,328 @@
+EventId: 16163
+Spots: 52
+Total Images: 205977
+Time:	31.10.2025 13:17:51 to 02.11.2025 20:52:17
+Duration: 2.07:34:26
+
+(1) - Station 1 SKIERG
+	MBUR1
+		Images:	6402
+		Time:	02.11.2025 07:03:48 until 02.11.2025 14:00:45
+		Duration:	06:56:57
+		Location:	48.69523 9.18924
+
+	MAWI1
+		Images:	3566
+		Time:	02.11.2025 07:05:02 until 02.11.2025 14:03:02
+		Duration:	06:58:00
+		Location:	48.69523 9.18924
+
+	MDH1
+		Images:	7030
+		Time:	01.11.2025 12:00:06 until 02.11.2025 14:00:13
+		Duration:	1.02:00:07
+		Location:	48.69523 9.18924
+
+	RONS2
+		Images:	3249
+		Time:	02.11.2025 14:10:40 until 02.11.2025 19:22:33
+		Duration:	05:11:53
+		Location:	48.69523 9.18924
+
+	AKS2
+		Images:	2418
+		Time:	02.11.2025 05:46:41 until 02.11.2025 19:21:28
+		Duration:	13:34:47
+		Location:	48.69523 9.18924
+
+	YS1
+		Images:	3292
+		Time:	02.11.2025 14:09:33 until 02.11.2025 19:22:32
+		Duration:	05:12:59
+		Location:	48.69523 9.18924
+
+	EP4
+		Images:	132
+		Time:	01.11.2025 19:08:14 until 02.11.2025 14:09:27
+		Duration:	19:01:13
+		Location:	48.69523 9.18924
+
+	LUJ4
+		Images:	312
+		Time:	02.11.2025 14:00:23 until 02.11.2025 14:10:20
+		Duration:	00:09:57
+		Location:	48.69523 9.18924
+
+(2) - Station 2 SLED PUSH
+	RONS1
+		Images:	3235
+		Time:	02.11.2025 05:36:00 until 02.11.2025 14:03:36
+		Duration:	08:27:36
+		Location:	48.69523 9.18924
+
+	AKS1
+		Images:	3915
+		Time:	01.11.2025 14:35:02 until 02.11.2025 14:02:22
+		Duration:	23:27:20
+		Location:	48.69523 9.18924
+
+	YS2
+		Images:	4046
+		Time:	02.11.2025 06:37:47 until 02.11.2025 14:03:28
+		Duration:	07:25:41
+		Location:	48.69523 9.18924
+
+	MBUR2
+		Images:	5316
+		Time:	02.11.2025 14:06:45 until 02.11.2025 19:39:43
+		Duration:	05:32:58
+		Location:	48.69523 9.18924
+
+	DABI2
+		Images:	3104
+		Time:	02.11.2025 14:19:14 until 02.11.2025 19:35:29
+		Duration:	05:16:15
+		Location:	48.69523 9.18924
+
+	MDH2
+		Images:	3828
+		Time:	02.11.2025 14:06:59 until 02.11.2025 19:33:32
+		Duration:	05:26:33
+		Location:	48.69523 9.18924
+
+(3) - Smile you're on camera
+	BECK1LS2
+		Images:	5390
+		Time:	02.11.2025 07:04:59 until 02.11.2025 18:30:33
+		Duration:	11:25:34
+		Location:	48.69523 9.18924
+
+	BECK1LS1
+		Images:	5594
+		Time:	02.11.2025 07:08:33 until 02.11.2025 18:27:32
+		Duration:	11:18:59
+		Location:	48.69523 9.18924
+
+(4) - Station 3 SLED PULL
+	SBRO1
+		Images:	6170
+		Time:	02.11.2025 06:34:13 until 02.11.2025 14:13:17
+		Duration:	07:39:04
+		Location:	48.69523 9.18924
+
+	ROB1
+		Images:	4987
+		Time:	01.11.2025 11:17:39 until 02.11.2025 14:13:06
+		Duration:	1.02:55:27
+		Location:	48.69523 9.18924
+
+	DABI1
+		Images:	4277
+		Time:	31.10.2025 13:41:05 until 02.11.2025 14:03:39
+		Duration:	2.00:22:34
+		Location:	48.69523 9.18924
+
+	HS2
+		Images:	1043
+		Time:	02.11.2025 14:43:03 until 02.11.2025 19:41:15
+		Duration:	04:58:12
+		Location:	48.69523 9.18924
+
+	KG2
+		Images:	4435
+		Time:	02.11.2025 14:27:23 until 02.11.2025 19:45:44
+		Duration:	05:18:21
+		Location:	48.69523 9.18924
+
+	MAWI2
+		Images:	2491
+		Time:	02.11.2025 14:16:01 until 02.11.2025 19:41:55
+		Duration:	05:25:54
+		Location:	48.69523 9.18924
+
+	EP5
+		Images:	150
+		Time:	02.11.2025 14:13:51 until 02.11.2025 14:23:48
+		Duration:	00:09:57
+		Location:	48.69523 9.18924
+
+	LUJ5
+		Images:	261
+		Time:	02.11.2025 14:14:25 until 02.11.2025 14:23:00
+		Duration:	00:08:35
+		Location:	48.69523 9.18924
+
+(5) - Station 5 ROWING
+	NK1
+		Images:	3785
+		Time:	02.11.2025 07:29:57 until 02.11.2025 13:45:42
+		Duration:	06:15:45
+		Location:	48.69523 9.18924
+
+	FCO1
+		Images:	5509
+		Time:	02.11.2025 07:19:03 until 02.11.2025 13:43:01
+		Duration:	06:23:58
+		Location:	48.69523 9.18924
+
+	LBO2
+		Images:	3076
+		Time:	02.11.2025 13:43:47 until 02.11.2025 20:00:59
+		Duration:	06:17:12
+		Location:	48.69523 9.18924
+
+	ISA2
+		Images:	6188
+		Time:	31.10.2025 13:39:03 until 02.11.2025 20:14:47
+		Duration:	2.06:35:44
+		Location:	48.69523 9.18924
+
+	LUJ1
+		Images:	5190
+		Time:	02.11.2025 08:06:14 until 02.11.2025 18:04:36
+		Duration:	09:58:22
+		Location:	48.69523 9.18924
+
+	EP1
+		Images:	4973
+		Time:	31.10.2025 13:57:30 until 02.11.2025 17:56:17
+		Duration:	2.03:58:47
+		Location:	48.69523 9.18924
+
+(6) - Station 6 FARMERS CARRY
+	MAWI1LS1
+		Images:	8230
+		Time:	02.11.2025 06:41:28 until 02.11.2025 19:11:09
+		Duration:	12:29:41
+		Location:	48.69523 9.18924
+
+	HS1LS1
+		Images:	3858
+		Time:	02.11.2025 07:22:38 until 02.11.2025 20:32:41
+		Duration:	13:10:03
+		Location:	48.69523 9.18924
+
+(7) - Station 7 SANDBAG LUNGES
+	HS1
+		Images:	2997
+		Time:	01.11.2025 15:22:46 until 02.11.2025 14:19:45
+		Duration:	22:56:59
+		Location:	48.69523 9.18924
+
+	KG1
+		Images:	6668
+		Time:	31.10.2025 13:31:36 until 02.11.2025 14:20:03
+		Duration:	2.00:48:27
+		Location:	48.69523 9.18924
+
+	ROB2
+		Images:	10087
+		Time:	02.11.2025 14:21:30 until 02.11.2025 20:32:54
+		Duration:	06:11:24
+		Location:	48.69523 9.18924
+
+	SBRO2
+		Images:	3815
+		Time:	02.11.2025 14:21:46 until 02.11.2025 20:31:52
+		Duration:	06:10:06
+		Location:	48.69523 9.18924
+
+	LUJ2
+		Images:	1639
+		Time:	02.11.2025 09:39:50 until 02.11.2025 15:31:24
+		Duration:	05:51:34
+		Location:	48.69523 9.18924
+
+	EP2
+		Images:	2647
+		Time:	02.11.2025 09:38:22 until 02.11.2025 18:30:13
+		Duration:	08:51:51
+		Location:	48.69523 9.18924
+
+(8) - Station 8 WALL BALLS
+	LBO1
+		Images:	1973
+		Time:	01.11.2025 11:35:17 until 02.11.2025 13:10:38
+		Duration:	1.01:35:21
+		Location:	48.69523 9.18924
+
+	ISA3
+		Images:	2724
+		Time:	02.11.2025 06:31:11 until 02.11.2025 13:11:26
+		Duration:	06:40:15
+		Location:	48.69523 9.18924
+
+	NK2
+		Images:	3029
+		Time:	02.11.2025 13:52:34 until 02.11.2025 20:47:25
+		Duration:	06:54:51
+		Location:	48.69523 9.18924
+
+	FCO2
+		Images:	6507
+		Time:	02.11.2025 13:49:05 until 02.11.2025 20:45:27
+		Duration:	06:56:22
+		Location:	48.69523 9.18924
+
+	LUJ3
+		Images:	4484
+		Time:	02.11.2025 07:47:42 until 02.11.2025 19:08:14
+		Duration:	11:20:32
+		Location:	48.69523 9.18924
+
+	EP3
+		Images:	4238
+		Time:	02.11.2025 10:21:26 until 02.11.2025 19:05:31
+		Duration:	08:44:05
+		Location:	48.69523 9.18924
+
+(9) - Finish
+	MOG1
+		Images:	4404
+		Time:	31.10.2025 13:40:07 until 02.11.2025 13:56:53
+		Duration:	2.00:16:46
+		Location:	48.69523 9.18924
+
+	MSAI2
+		Images:	4359
+		Time:	02.11.2025 13:54:17 until 02.11.2025 20:49:50
+		Duration:	06:55:33
+		Location:	48.69523 9.18924
+
+	BECK1
+		Images:	1776
+		Time:	02.11.2025 10:03:24 until 02.11.2025 18:56:51
+		Duration:	08:53:27
+		Location:	48.69523 9.18924
+
+	LUJ1LS1
+		Images:	4862
+		Time:	02.11.2025 06:28:03 until 02.11.2025 20:02:13
+		Duration:	13:34:10
+		Location:	48.69523 9.18924
+
+	EP1LS1
+		Images:	4737
+		Time:	02.11.2025 07:05:13 until 02.11.2025 19:29:45
+		Duration:	12:24:32
+		Location:	48.69523 9.18924
+
+(10) - Medalwall
+	MSAI1
+		Images:	2946
+		Time:	31.10.2025 13:23:09 until 02.11.2025 13:47:07
+		Duration:	2.00:23:58
+		Location:	48.69523 9.18924
+
+	MOG2
+		Images:	4500
+		Time:	02.11.2025 13:58:09 until 02.11.2025 20:52:17
+		Duration:	06:54:08
+		Location:	48.69523 9.18924
+
+	BECK2
+		Images:	2126
+		Time:	02.11.2025 10:37:26 until 02.11.2025 18:18:32
+		Duration:	07:41:06
+		Location:	48.69523 9.18924
+

@@ -1,0 +1,65 @@
+EventId: 15013
+Spots: 10
+Total Images: 15297
+Time:	16.01.2025 14:33:09 to 16.01.2025 16:14:06
+Duration: 01:40:57
+
+(1) - Start
+	GUD1
+		Images:	1925
+		Time:	16.01.2025 15:00:56 until 16.01.2025 16:01:43
+		Duration:	01:00:47
+		Location:	25.32118 51.53493
+
+	GUD1LS2
+		Images:	3221
+		Time:	16.01.2025 14:56:12 until 16.01.2025 16:02:49
+		Duration:	01:06:37
+		Location:	25.32118 51.53493
+
+	GUD1LS1
+		Images:	3606
+		Time:	16.01.2025 14:56:05 until 16.01.2025 16:02:50
+		Duration:	01:06:45
+		Location:	25.32118 51.53493
+
+(2) - 0.1 km
+	SA1
+		Images:	2508
+		Time:	16.01.2025 14:39:49 until 16.01.2025 16:02:31
+		Duration:	01:22:42
+		Location:	25.32023 51.53395
+
+	SA1LS2
+		Images:	760
+		Time:	16.01.2025 14:33:09 until 16.01.2025 16:02:27
+		Duration:	01:29:18
+		Location:	25.32023 51.53395
+
+	SA1LS1
+		Images:	458
+		Time:	16.01.2025 14:33:09 until 16.01.2025 16:02:28
+		Duration:	01:29:19
+		Location:	25.32023 51.53395
+
+(3) - Finish
+	MUP1
+		Images:	1437
+		Time:	16.01.2025 14:58:00 until 16.01.2025 16:14:06
+		Duration:	01:16:06
+		Location:	25.32064 51.53452
+
+	MUP1LS2
+		Images:	714
+		Time:	16.01.2025 14:35:35 until 16.01.2025 16:10:10
+		Duration:	01:34:35
+		Location:	25.32064 51.53452
+
+	MUP1LS1
+		Images:	668
+		Time:	16.01.2025 14:34:15 until 16.01.2025 16:10:10
+		Duration:	01:35:55
+		Location:	25.32064 51.53452
+
+(4) - Impressions / Pano
+	PANO1

@@ -1,0 +1,275 @@
+EventId: 13820
+Spots: 42
+Total Images: 101325
+Time:	28.06.2025 22:06:01 to 29.06.2025 17:17:46
+Duration: 19:11:45
+
+(1) - Start
+	DABI1
+		Images:	2271
+		Time:	29.06.2025 06:29:51 until 29.06.2025 08:59:15
+		Duration:	02:29:24
+		Location:	47.94898 6.95899
+
+(2) - km1.0 (all tracks)
+	MAWI1LS1
+		Images:	1259
+		Time:	29.06.2025 07:30:12 until 29.06.2025 08:06:31
+		Duration:	00:36:19
+		Location:	47.94175 6.96192
+
+	MAWI1LS2
+		Images:	1179
+		Time:	29.06.2025 07:30:30 until 29.06.2025 08:03:58
+		Duration:	00:33:28
+		Location:	47.94175 6.96192
+
+	MAWI1
+		Images:	4509
+		Time:	29.06.2025 07:22:54 until 29.06.2025 07:54:48
+		Duration:	00:31:54
+		Location:	47.94175 6.96192
+
+(3) - km3.0 (all tracks but 50k)
+	HS1
+		Images:	872
+		Time:	29.06.2025 07:30:29 until 29.06.2025 08:09:00
+		Duration:	00:38:31
+		Location:	47.92525 6.95613
+
+	HS1LS2
+		Images:	1037
+		Time:	29.06.2025 06:41:46 until 29.06.2025 07:53:28
+		Duration:	01:11:42
+		Location:	47.92525 6.95613
+
+	HS1LS1
+		Images:	1207
+		Time:	29.06.2025 07:06:22 until 29.06.2025 08:15:59
+		Duration:	01:09:37
+		Location:	47.92525 6.95613
+
+(4) - km5.0 (all tracks but 50K)
+	BP1
+		Images:	1541
+		Time:	29.06.2025 07:38:58 until 29.06.2025 08:16:18
+		Duration:	00:37:20
+		Location:	47.91764 6.94696
+
+	BP1DRONE1
+		Images:	8
+		Time:	29.06.2025 07:52:29 until 29.06.2025 11:03:05
+		Duration:	03:10:36
+		Location:	47.91764 6.94696
+
+	BP1LS2
+		Images:	1488
+		Time:	29.06.2025 07:07:29 until 29.06.2025 08:21:00
+		Duration:	01:13:31
+		Location:	47.91764 6.94696
+
+	BP1LS1
+		Images:	1437
+		Time:	29.06.2025 07:03:10 until 29.06.2025 08:25:27
+		Duration:	01:22:17
+		Location:	47.91764 6.94696
+
+(5) - km37.0 (all tracks)
+	MRO1
+		Images:	2492
+		Time:	29.06.2025 06:42:58 until 29.06.2025 10:24:10
+		Duration:	03:41:12
+		Location:	47.87982 7.03716
+
+(6) - Col du Haag, km47.0 (all tracks)
+	DIG1
+		Images:	5171
+		Time:	29.06.2025 08:39:05 until 29.06.2025 11:51:28
+		Duration:	03:12:23
+		Location:	47.90481 7.08724
+
+	DIG1LS2
+		Images:	5077
+		Time:	29.06.2025 08:55:56 until 29.06.2025 11:44:43
+		Duration:	02:48:47
+		Location:	47.90481 7.08724
+
+	DIG1LS1
+		Images:	4469
+		Time:	29.06.2025 09:06:09 until 29.06.2025 11:44:44
+		Duration:	02:38:35
+		Location:	47.90481 7.08724
+
+(7) - Col du Haag, km47.5 (all tracks)
+	JNK1
+		Images:	3778
+		Time:	29.06.2025 09:11:59 until 29.06.2025 12:00:51
+		Duration:	02:48:52
+		Location:	47.90584 7.08950
+
+	JNK1LS1
+		Images:	371
+		Time:	29.06.2025 10:38:45 until 29.06.2025 12:40:52
+		Duration:	02:02:07
+		Location:	47.90584 7.08950
+
+(8) - km50.5 (all tracks)
+	RONS1
+		Images:	8107
+		Time:	28.06.2025 22:06:01 until 29.06.2025 13:03:22
+		Duration:	14:57:21
+		Location:	47.90901 7.06699
+
+	RONS1LS2
+		Images:	460
+		Time:	29.06.2025 09:13:37 until 29.06.2025 11:55:54
+		Duration:	02:42:17
+		Location:	47.90901 7.06699
+
+	RONS1LS1
+		Images:	2424
+		Time:	29.06.2025 08:44:17 until 29.06.2025 12:08:36
+		Duration:	03:24:19
+		Location:	47.90901 7.06699
+
+(9) - km52.0 (all tracks)
+	TE1
+		Images:	4442
+		Time:	29.06.2025 08:28:04 until 29.06.2025 12:17:31
+		Duration:	03:49:27
+		Location:	47.91212 7.04872
+
+(10) - 15.5km before Finish (145K)
+	TE2
+		Images:	3253
+		Time:	29.06.2025 12:28:30 until 29.06.2025 16:30:19
+		Duration:	04:01:49
+		Location:	47.92376 7.02816
+
+(11) - 15km before Finish (145K)
+	JNK2
+		Images:	817
+		Time:	29.06.2025 12:49:45 until 29.06.2025 16:06:04
+		Duration:	03:16:19
+		Location:	47.92499 7.02057
+
+	JNK2LS1
+		Images:	941
+		Time:	29.06.2025 12:43:24 until 29.06.2025 16:15:48
+		Duration:	03:32:24
+		Location:	47.92499 7.02057
+
+(12) - 14km before Finish (145K)
+	RONS2LS1
+		Images:	1810
+		Time:	29.06.2025 12:39:48 until 29.06.2025 16:03:43
+		Duration:	03:23:55
+		Location:	47.92557 7.00881
+
+	RONS2LS2
+		Images:	2364
+		Time:	29.06.2025 12:38:14 until 29.06.2025 16:27:33
+		Duration:	03:49:19
+		Location:	47.92557 7.00881
+
+	RONS2
+		Images:	3072
+		Time:	29.06.2025 13:05:27 until 29.06.2025 16:40:09
+		Duration:	03:34:42
+		Location:	47.92557 7.00881
+
+(13) - 13.0km before Finish (50K/70K/145K)
+	DIG2
+		Images:	1261
+		Time:	29.06.2025 13:21:19 until 29.06.2025 16:26:07
+		Duration:	03:04:48
+		Location:	47.92877 7.00904
+
+	DIG2LS2
+		Images:	1013
+		Time:	29.06.2025 12:45:00 until 29.06.2025 16:25:57
+		Duration:	03:40:57
+		Location:	47.92877 7.00904
+
+	DIG2LS1
+		Images:	937
+		Time:	29.06.2025 13:06:24 until 29.06.2025 16:25:59
+		Duration:	03:19:35
+		Location:	47.92877 7.00904
+
+(14) - 7.0km before Finish (100K/170K)
+	BP2LS2
+		Images:	1562
+		Time:	29.06.2025 09:36:29 until 29.06.2025 16:57:17
+		Duration:	07:20:48
+		Location:	47.99378 6.95743
+
+	BP2
+		Images:	2342
+		Time:	29.06.2025 10:03:25 until 29.06.2025 16:36:38
+		Duration:	06:33:13
+		Location:	47.99378 6.95743
+
+	BP2LS1
+		Images:	3408
+		Time:	29.06.2025 09:14:53 until 29.06.2025 16:49:38
+		Duration:	07:34:45
+		Location:	47.99378 6.95743
+
+(15) - 6.0km before Finish (50K/70K/145K)
+	HS2
+		Images:	1874
+		Time:	29.06.2025 09:33:02 until 29.06.2025 16:26:30
+		Duration:	06:53:28
+		Location:	47.95785 6.98280
+
+	HS2LS2
+		Images:	1951
+		Time:	29.06.2025 09:12:43 until 29.06.2025 16:26:43
+		Duration:	07:14:00
+		Location:	47.95785 6.98280
+
+	HS2LS1
+		Images:	1845
+		Time:	29.06.2025 09:12:20 until 29.06.2025 16:25:55
+		Duration:	07:13:35
+		Location:	47.95785 6.98280
+
+(16) - 4.0km before Finish (100K/170K)
+	MAWI2
+		Images:	2872
+		Time:	29.06.2025 10:27:01 until 29.06.2025 17:05:09
+		Duration:	06:38:08
+		Location:	47.98730 6.96589
+
+	MAWI2LS2
+		Images:	1216
+		Time:	29.06.2025 10:18:37 until 29.06.2025 17:14:34
+		Duration:	06:55:57
+		Location:	47.98730 6.96589
+
+	MAWI2LS1
+		Images:	1812
+		Time:	29.06.2025 10:41:02 until 29.06.2025 17:14:28
+		Duration:	06:33:26
+		Location:	47.98730 6.96589
+
+(17) - Finish
+	DABI2
+		Images:	5255
+		Time:	29.06.2025 10:20:37 until 29.06.2025 17:17:46
+		Duration:	06:57:09
+		Location:	47.94906 6.96115
+
+	DABI2LS1
+		Images:	3414
+		Time:	29.06.2025 10:22:42 until 29.06.2025 17:12:36
+		Duration:	06:49:54
+		Location:	47.94906 6.96115
+
+	MRO2
+		Images:	4707
+		Time:	29.06.2025 11:36:12 until 29.06.2025 17:05:57
+		Duration:	05:29:45
+		Location:	47.94906 6.96115
+

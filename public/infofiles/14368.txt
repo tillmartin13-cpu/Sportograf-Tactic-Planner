@@ -1,0 +1,181 @@
+EventId: 14368
+Spots: 27
+Total Images: 64127
+Time:	26.09.2025 12:35:26 to 28.09.2025 17:00:20
+Duration: 2.04:24:54
+
+(1) - 18.0 km Nice 100M
+	AGU1
+		Images:	2405
+		Time:	26.09.2025 15:03:46 until 26.09.2025 17:45:21
+		Duration:	02:41:35
+		Location:	44.26576 6.98037
+
+	AGU1LS2
+		Images:	1011
+		Time:	26.09.2025 15:33:15 until 27.09.2025 11:32:29
+		Duration:	19:59:14
+		Location:	44.26576 6.98037
+
+	AGU1LS1
+		Images:	1098
+		Time:	26.09.2025 15:27:11 until 27.09.2025 11:44:56
+		Duration:	20:17:45
+		Location:	44.26576 6.98037
+
+(2) - 96.0 km 100M
+	AGU2
+		Images:	2949
+		Time:	27.09.2025 09:36:50 until 27.09.2025 19:38:10
+		Duration:	10:01:20
+		Location:	43.93396 7.24322
+
+	AGU2LS2
+		Images:	534
+		Time:	27.09.2025 11:37:44 until 27.09.2025 19:42:57
+		Duration:	08:05:13
+		Location:	43.93396 7.24322
+
+	AGU2LS1
+		Images:	529
+		Time:	27.09.2025 11:51:12 until 27.09.2025 19:44:27
+		Duration:	07:53:15
+		Location:	43.93396 7.24322
+
+(3) - 8.0 km Nice 20K
+	AGU3
+		Images:	2840
+		Time:	28.09.2025 07:45:51 until 28.09.2025 12:48:01
+		Duration:	05:02:10
+		Location:	43.70324 7.33047
+
+	AGU3LS2
+		Images:	1089
+		Time:	28.09.2025 07:42:24 until 28.09.2025 09:30:06
+		Duration:	01:47:42
+		Location:	43.70324 7.33047
+
+	AGU3LS1
+		Images:	1085
+		Time:	28.09.2025 07:42:31 until 28.09.2025 09:29:21
+		Duration:	01:46:50
+		Location:	43.70324 7.33047
+
+(4) - Finish
+	AGU4LS1
+		Images:	1942
+		Time:	28.09.2025 11:11:35 until 28.09.2025 15:54:18
+		Duration:	04:42:43
+		Location:	43.69488 7.27030
+
+	ALL4
+		Images:	6004
+		Time:	28.09.2025 07:56:30 until 28.09.2025 17:00:20
+		Duration:	09:03:50
+		Location:	43.69488 7.27030
+
+	ALL4LS1
+		Images:	3100
+		Time:	28.09.2025 07:47:13 until 28.09.2025 16:27:35
+		Duration:	08:40:22
+		Location:	43.69488 7.27030
+
+	LAPO3
+		Images:	3164
+		Time:	27.09.2025 10:32:04 until 28.09.2025 08:46:13
+		Duration:	22:14:09
+		Location:	43.69488 7.27030
+
+	MARY2
+		Images:	8876
+		Time:	27.09.2025 11:35:54 until 28.09.2025 07:56:45
+		Duration:	20:20:51
+		Location:	43.69488 7.27030
+
+(5) - 8.0 km Nice 100M
+	ALL1
+		Images:	1346
+		Time:	26.09.2025 14:01:25 until 26.09.2025 15:19:25
+		Duration:	01:18:00
+		Location:	44.25606 6.93592
+
+	ALL1LS1
+		Images:	1864
+		Time:	26.09.2025 12:41:55 until 26.09.2025 15:13:38
+		Duration:	02:31:43
+		Location:	44.25606 6.93592
+
+(6) - 35.0 km Nice 100M
+	ALL2
+		Images:	1094
+		Time:	26.09.2025 17:00:28 until 26.09.2025 19:36:53
+		Duration:	02:36:25
+		Location:	44.19196 7.04646
+
+	ALL2LS1
+		Images:	999
+		Time:	26.09.2025 17:37:04 until 26.09.2025 20:28:17
+		Duration:	02:51:13
+		Location:	44.19196 7.04646
+
+(7) - 150.0 km Nice 100M
+	ALL3
+		Images:	3338
+		Time:	27.09.2025 10:34:06 until 27.09.2025 19:38:24
+		Duration:	09:04:18
+		Location:	43.68662 7.29404
+
+	ALL3LS1
+		Images:	2754
+		Time:	27.09.2025 10:02:01 until 27.09.2025 20:00:13
+		Duration:	09:58:12
+		Location:	43.68662 7.29404
+
+	ARF3
+		Images:	4288
+		Time:	28.09.2025 07:31:22 until 28.09.2025 15:05:11
+		Duration:	07:33:49
+		Location:	43.68662 7.29404
+
+(8) - 15.0 km Nice 100M
+	ARF1
+		Images:	1562
+		Time:	26.09.2025 14:50:05 until 26.09.2025 18:46:56
+		Duration:	03:56:51
+		Location:	44.27045 6.96299
+
+(9) - 97.0 km 100M
+	ARF2
+		Images:	2336
+		Time:	27.09.2025 09:33:31 until 27.09.2025 19:52:00
+		Duration:	10:18:29
+		Location:	43.93147 7.24540
+
+(10) - Start
+	LAPO1
+		Images:	378
+		Time:	26.09.2025 12:35:26 until 26.09.2025 13:15:28
+		Duration:	00:40:02
+		Location:	44.22658 6.92929
+
+(11) - 36.0 km Nice 100M
+	LAPO2
+		Images:	1357
+		Time:	26.09.2025 17:01:59 until 27.09.2025 10:07:57
+		Duration:	17:05:58
+		Location:	44.18600 7.05057
+
+(12) - 16.0 km Nice 20K
+	LAPO4
+		Images:	2099
+		Time:	28.09.2025 08:46:31 until 28.09.2025 14:04:06
+		Duration:	05:17:35
+		Location:	43.71972 7.32207
+
+(13) - 17.0 km Nice 100M
+	MARY1
+		Images:	4086
+		Time:	26.09.2025 14:59:20 until 26.09.2025 17:41:04
+		Duration:	02:41:44
+		Location:	44.26787 6.98038
+

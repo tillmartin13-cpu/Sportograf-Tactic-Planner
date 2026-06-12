@@ -1,0 +1,61 @@
+EventId: 14160
+Spots: 8
+Total Images: 5881
+Time:	21.09.2025 06:51:22 to 21.09.2025 14:20:51
+Duration: 07:29:29
+
+(1) - 28.3 km Spot 1 - Lake
+	LMB1
+		Images:	897
+		Time:	21.09.2025 07:48:55 until 21.09.2025 09:10:43
+		Duration:	01:21:48
+		Location:	40.48508 -79.55343
+
+(2) - Impressions / Pano
+	LMB1DRONE1
+		Images:	25
+		Time:	21.09.2025 07:52:34 until 21.09.2025 10:01:35
+		Duration:	02:09:01
+		Location:	40.54599 -79.60847
+
+(3) - Finish
+	LMB1LS1
+		Images:	147
+		Time:	21.09.2025 07:16:31 until 21.09.2025 14:20:51
+		Duration:	07:04:20
+		Location:	40.45223 -79.75091
+
+	WMY2
+		Images:	723
+		Time:	21.09.2025 09:59:03 until 21.09.2025 14:20:20
+		Duration:	04:21:17
+		Location:	40.45223 -79.75091
+
+(4) - 48.4 km Spot 2 - Tree Road
+	LMB2
+		Images:	1735
+		Time:	21.09.2025 09:31:53 until 21.09.2025 13:04:01
+		Duration:	03:32:08
+		Location:	40.54407 -79.61410
+
+(5) - 21.9 km Spot 1 - Farm
+	VICY1
+		Images:	1483
+		Time:	21.09.2025 07:35:27 until 21.09.2025 08:59:49
+		Duration:	01:24:22
+		Location:	40.47738 -79.62851
+
+(6) - 47.7 km Spot 2 - View Point
+	VICY2
+		Images:	655
+		Time:	21.09.2025 09:34:27 until 21.09.2025 13:02:42
+		Duration:	03:28:15
+		Location:	40.54599 -79.60847
+
+(7) - Start
+	WMY1
+		Images:	216
+		Time:	21.09.2025 06:51:22 until 21.09.2025 09:59:01
+		Duration:	03:07:39
+		Location:	40.45223 -79.75091
+

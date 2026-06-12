@@ -1,0 +1,278 @@
+EventId: 14241
+Spots: 40
+Total Images: 43046
+Time:	01.01.0001 23:00:00 to 06.07.2025 14:35:01
+Duration: 739436.15:35:01
+
+(1) - Impressions / Pano
+	PANO1
+		Images:	3
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	42.54635 1.5146
+
+	S1PARO1DRONE1
+		Images:	11
+		Time:	04.07.2025 11:14:17 until 04.07.2025 11:24:05
+		Duration:	00:09:48
+		Location:	42.5383 1.49602
+
+	S2MANR1DRONE1
+		Images:	5
+		Time:	04.07.2025 09:26:36 until 04.07.2025 09:54:57
+		Duration:	00:28:21
+		Location:	42.54445 1.42048
+
+(2) - Registration
+	S0PARO1
+		Images:	659
+		Time:	02.07.2025 09:36:47 until 02.07.2025 17:30:50
+		Duration:	07:54:03
+		Location:	42.54635 1.5146
+
+(3) - Stage 1 - Km 14,5
+	S1STO1
+		Images:	1057
+		Time:	03.07.2025 09:42:27 until 03.07.2025 10:14:43
+		Duration:	00:32:16
+		Location:	42.53498 1.4887
+
+(4) - Stage 1 - Km 36,2
+	S1STO2
+		Images:	1189
+		Time:	03.07.2025 10:25:48 until 03.07.2025 13:47:25
+		Duration:	03:21:37
+		Location:	42.53492 1.48714
+
+(5) - Stage 1 - Km 36,4
+	S1STO2LS1
+		Images:	619
+		Time:	03.07.2025 10:06:36 until 03.07.2025 13:47:16
+		Duration:	03:40:40
+		Location:	42.53492 1.48714
+
+(6) - Stage 1 - Km 37
+	S1MANR1LS1
+		Images:	880
+		Time:	03.07.2025 10:48:43 until 03.07.2025 14:12:43
+		Duration:	03:24:00
+		Location:	42.53757 1.49445
+
+(7) - Stage 1 - Km 37,2
+	S1MANR1
+		Images:	2902
+		Time:	03.07.2025 10:46:44 until 03.07.2025 14:12:56
+		Duration:	03:26:12
+		Location:	42.53746 1.49462
+
+(8) - Stage 1 - Km 37,3
+	S1PARO1LS1
+		Images:	656
+		Time:	03.07.2025 09:25:21 until 03.07.2025 14:19:45
+		Duration:	04:54:24
+		Location:	42.53814 1.49551
+
+(9) - Stage 1 - Km 37,4
+	S1PARO1LS2
+		Images:	589
+		Time:	03.07.2025 09:25:24 until 03.07.2025 14:16:57
+		Duration:	04:51:33
+		Location:	42.53792 1.4957
+
+(10) - Stage 1 - Km 37,6
+	S1PARO1
+		Images:	2002
+		Time:	03.07.2025 10:48:52 until 03.07.2025 14:13:11
+		Duration:	03:24:19
+		Location:	42.5383 1.49602
+
+(11) - Stage 2 - Km 12,1
+	S2MANR1
+		Images:	4596
+		Time:	04.07.2025 09:02:16 until 04.07.2025 14:08:37
+		Duration:	05:06:21
+		Location:	42.54445 1.42048
+
+(12) - Stage 2 - Km 12,2
+	S2MANR1LS2
+		Images:	2157
+		Time:	04.07.2025 10:11:47 until 04.07.2025 11:40:59
+		Duration:	01:29:12
+		Location:	42.54412 1.42085
+
+(13) - Stage 2 - Km 12,3
+	S2MANR1LS1
+		Images:	1118
+		Time:	04.07.2025 10:11:28 until 04.07.2025 11:36:26
+		Duration:	01:24:58
+		Location:	42.54402 1.42072
+
+(14) - Stage 2 - Km 12,5
+	S2PARO1LS1
+		Images:	580
+		Time:	04.07.2025 09:57:26 until 04.07.2025 11:34:55
+		Duration:	01:37:29
+		Location:	42.54206 1.4203
+
+(15) - Stage 2 - Km 12,7
+	S2PARO1
+		Images:	1655
+		Time:	04.07.2025 10:00:30 until 04.07.2025 14:03:58
+		Duration:	04:03:28
+		Location:	42.54201 1.42068
+
+(16) - Stage 2 - Km 12,8
+	S2PARO1LS2
+		Images:	573
+		Time:	04.07.2025 10:12:45 until 04.07.2025 11:23:57
+		Duration:	01:11:12
+		Location:	42.54201 1.42082
+
+(17) - Stage 2 - Km 17,3
+	S2STO1
+		Images:	2081
+		Time:	04.07.2025 08:49:23 until 04.07.2025 12:30:56
+		Duration:	03:41:33
+		Location:	42.54389 1.45372
+
+(18) - Stage 2 - Km 17,5
+	S2STO1LS1
+		Images:	1131
+		Time:	01.01.0001 23:00:00 until 04.07.2025 12:35:06
+		Duration:	739434.13:35:06
+		Location:	42.54325 1.45473
+
+(19) - Generales
+	S3MANR1
+		Images:	755
+		Time:	04.07.2025 22:41:19 until 05.07.2025 09:11:59
+		Duration:	10:30:40
+		Location:	42.56752 1.6024
+
+	S4MANR2
+		Images:	232
+		Time:	06.07.2025 13:00:55 until 06.07.2025 14:24:55
+		Duration:	01:24:00
+		Location:	42.54549 1.51669
+
+(20) - Stage 3 - Km 9,3
+	S3PARO1LS1
+		Images:	622
+		Time:	05.07.2025 08:20:44 until 05.07.2025 10:04:41
+		Duration:	01:43:57
+		Location:	42.60101 1.68747
+
+(21) - Stage 3 - Km 9,4
+	S3PARO1
+		Images:	1641
+		Time:	05.07.2025 09:22:05 until 05.07.2025 10:01:53
+		Duration:	00:39:48
+		Location:	42.60097 1.68733
+
+(22) - Stage 3 - Km 9,7
+	S3STO1LS1
+		Images:	1158
+		Time:	05.07.2025 09:10:44 until 05.07.2025 10:11:57
+		Duration:	01:01:13
+		Location:	42.59839 1.68196
+
+(23) - Stage 3 - Km 9,8
+	S3STO1
+		Images:	1624
+		Time:	05.07.2025 09:22:38 until 05.07.2025 10:06:36
+		Duration:	00:43:58
+		Location:	42.59812 1.68133
+
+(24) - Stage 3 - Km 55
+	S3PARO2LS1
+		Images:	546
+		Time:	05.07.2025 11:45:52 until 05.07.2025 16:14:15
+		Duration:	04:28:23
+		Location:	42.53543 1.54341
+
+(25) - Stage 3 - Km 55,2
+	S3PARO2
+		Images:	923
+		Time:	05.07.2025 11:45:46 until 05.07.2025 16:14:48
+		Duration:	04:29:02
+		Location:	42.53499 1.54359
+
+(26) - Stage 3 - Km 55,4
+	S3MANR2LS1
+		Images:	463
+		Time:	05.07.2025 11:46:02 until 05.07.2025 16:20:19
+		Duration:	04:34:17
+		Location:	42.53499 1.54359
+
+(27) - Stage 3 - Km 55,5
+	S3MANR2
+		Images:	538
+		Time:	05.07.2025 11:13:08 until 05.07.2025 16:14:58
+		Duration:	05:01:50
+		Location:	42.53294 1.54275
+
+(28) - Stage 3 - Km 55,8
+	S3STO2
+		Images:	1837
+		Time:	05.07.2025 11:20:12 until 05.07.2025 16:15:02
+		Duration:	04:54:50
+		Location:	42.53249 1.54236
+
+	S3STO2LS1
+		Images:	692
+		Time:	05.07.2025 11:27:28 until 05.07.2025 16:18:38
+		Duration:	04:51:10
+		Location:	42.53249 1.54236
+
+(29) - Stage 4 - Km 14
+	S4MANR1
+		Images:	2033
+		Time:	06.07.2025 07:42:06 until 06.07.2025 10:53:02
+		Duration:	03:10:56
+		Location:	42.43348 1.53574
+
+	S4MANR1LS2
+		Images:	874
+		Time:	06.07.2025 09:35:19 until 06.07.2025 12:29:12
+		Duration:	02:53:53
+		Location:	42.43348 1.53574
+
+	S4MANR1LS1
+		Images:	368
+		Time:	06.07.2025 09:35:34 until 06.07.2025 10:55:17
+		Duration:	01:19:43
+		Location:	42.43348 1.53574
+
+	S4MANR2DRONE1
+		Images:	12
+		Time:	06.07.2025 07:37:30 until 06.07.2025 09:50:51
+		Duration:	02:13:21
+		Location:	42.43348 1.53574
+
+(30) - Pre Finish
+	S4PARO2LS1
+		Images:	369
+		Time:	06.07.2025 10:14:09 until 06.07.2025 14:29:52
+		Duration:	04:15:43
+		Location:	42.54465 1.51767
+
+(31) - Finish
+	S4STO1
+		Images:	2314
+		Time:	06.07.2025 10:59:09 until 06.07.2025 14:29:10
+		Duration:	03:30:01
+		Location:	42.54521 1.51706
+
+	S4STO1LS1
+		Images:	475
+		Time:	06.07.2025 10:14:25 until 06.07.2025 14:29:28
+		Duration:	04:15:03
+		Location:	42.54521 1.51706
+
+(32) - Medals
+	S4PARO1
+		Images:	1107
+		Time:	06.07.2025 10:26:17 until 06.07.2025 14:35:01
+		Duration:	04:08:44
+		Location:	42.54549 1.51669
+

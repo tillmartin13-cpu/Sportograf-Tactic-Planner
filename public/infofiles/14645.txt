@@ -1,0 +1,165 @@
+EventId: 14645
+Spots: 25
+Total Images: 150865
+Time:	05.07.2025 07:03:57 to 06.07.2025 16:06:20
+Duration: 1.09:02:23
+
+(1) - 8 - Kiss of Mud
+	CUP1
+		Images:	14106
+		Time:	05.07.2025 08:30:43 until 06.07.2025 09:49:45
+		Duration:	1.01:19:02
+		Location:	52.88517 -0.77841
+
+	YCAN1
+		Images:	3203
+		Time:	05.07.2025 07:03:57 until 06.07.2025 09:13:13
+		Duration:	1.02:09:16
+		Location:	52.88517 -0.77841
+
+	BKO3
+		Images:	2188
+		Time:	05.07.2025 10:44:59 until 05.07.2025 11:24:00
+		Duration:	00:39:01
+		Location:	52.88517 -0.77841
+
+(2) - 12 - Blockness Monster
+	APDA1
+		Images:	11188
+		Time:	05.07.2025 07:21:27 until 05.07.2025 17:06:21
+		Duration:	09:44:54
+		Location:	52.88264 -0.77579
+
+	STA1
+		Images:	5037
+		Time:	05.07.2025 07:21:51 until 05.07.2025 17:08:20
+		Duration:	09:46:29
+		Location:	52.88264 -0.77579
+
+	BKO4
+		Images:	2531
+		Time:	05.07.2025 11:32:35 until 05.07.2025 12:11:25
+		Duration:	00:38:50
+		Location:	52.88264 -0.77579
+
+(3) - 16 - Everest
+	LOT1
+		Images:	8976
+		Time:	05.07.2025 08:47:04 until 06.07.2025 16:06:20
+		Duration:	1.07:19:16
+		Location:	52.88664 -0.76812
+
+	KSTH1
+		Images:	5630
+		Time:	05.07.2025 07:51:39 until 05.07.2025 17:34:24
+		Duration:	09:42:45
+		Location:	52.88664 -0.76812
+
+	BKO5
+		Images:	1873
+		Time:	05.07.2025 12:29:08 until 05.07.2025 13:08:33
+		Duration:	00:39:25
+		Location:	52.88664 -0.76812
+
+(4) - 20 - Twinkle Toes
+	DANO1
+		Images:	10936
+		Time:	05.07.2025 08:38:07 until 05.07.2025 18:00:51
+		Duration:	09:22:44
+		Location:	52.88862 -0.76691
+
+	MSO1
+		Images:	7637
+		Time:	05.07.2025 07:05:15 until 05.07.2025 18:01:56
+		Duration:	10:56:41
+		Location:	52.88862 -0.76691
+
+	BKO6
+		Images:	3205
+		Time:	05.07.2025 13:14:01 until 05.07.2025 14:08:00
+		Duration:	00:53:59
+		Location:	52.88862 -0.76691
+
+(5) - 21 - Mud Mile
+	DAKE1
+		Images:	15843
+		Time:	05.07.2025 09:02:07 until 05.07.2025 17:25:52
+		Duration:	08:23:45
+		Location:	52.88992 -0.76685
+
+	DAKE1LS1
+		Images:	3048
+		Time:	05.07.2025 08:54:22 until 05.07.2025 17:30:01
+		Duration:	08:35:39
+		Location:	52.88992 -0.76685
+
+	GUY1
+		Images:	6559
+		Time:	05.07.2025 09:01:54 until 05.07.2025 18:10:18
+		Duration:	09:08:24
+		Location:	52.88992 -0.76685
+
+	BKO7
+		Images:	1255
+		Time:	05.07.2025 14:15:08 until 05.07.2025 15:04:37
+		Duration:	00:49:29
+		Location:	52.88992 -0.76685
+
+(6) - 23 - Elektroshock Therapy
+	GHI1
+		Images:	32185
+		Time:	05.07.2025 07:46:31 until 06.07.2025 09:13:44
+		Duration:	1.01:27:13
+		Location:	52.89052 -0.77335
+
+	BKO8
+		Images:	1748
+		Time:	05.07.2025 15:07:02 until 05.07.2025 15:37:21
+		Duration:	00:30:19
+		Location:	52.89052 -0.77335
+
+(7) - Finish
+	BKO1LS1
+		Images:	4074
+		Time:	05.07.2025 09:19:14 until 05.07.2025 15:24:46
+		Duration:	06:05:32
+		Location:	52.89052 -0.77335
+
+	CUP2LS1
+		Images:	6484
+		Time:	05.07.2025 07:16:41 until 05.07.2025 18:28:24
+		Duration:	11:11:43
+		Location:	52.89052 -0.77335
+
+(8) - Hero Tent
+	AAS1
+		Images:	1127
+		Time:	05.07.2025 07:33:15 until 05.07.2025 18:08:11
+		Duration:	10:34:56
+		Location:	52.89057 -0.77391
+
+	OLH1
+		Images:	1775
+		Time:	05.07.2025 08:21:45 until 05.07.2025 18:30:53
+		Duration:	10:09:08
+		Location:	52.89057 -0.77391
+
+(9) - Impressions / Pano
+	OLH2
+		Images:	39
+		Time:	05.07.2025 08:28:30 until 05.07.2025 12:57:47
+		Duration:	04:29:17
+		Location:	52.89057 -0.77391
+
+	BKO2
+		Images:	199
+		Time:	05.07.2025 09:41:17 until 05.07.2025 10:19:18
+		Duration:	00:38:01
+		Location:	52.89057 -0.77391
+
+	BKO2DRONE1
+		Images:	17
+		Time:	05.07.2025 10:04:42 until 05.07.2025 10:13:12
+		Duration:	00:08:30
+		Location:	52.89057 -0.77391
+

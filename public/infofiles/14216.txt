@@ -1,0 +1,140 @@
+EventId: 14216
+Spots: 21
+Total Images: 92543
+Time:	28.06.2025 11:24:07 to 29.06.2025 13:47:38
+Duration: 1.02:23:31
+
+(1) - Start
+	LOT1
+		Images:	284
+		Time:	28.06.2025 11:24:07 until 28.06.2025 12:03:13
+		Duration:	00:39:06
+		Location:	53.86676 -1.37053
+
+(2) - Km 0 - 2
+	BKO2
+		Images:	14246
+		Time:	28.06.2025 16:56:06 until 28.06.2025 22:18:18
+		Duration:	05:22:12
+		Location:	53.85880 -1.37033
+
+	BKO2LS1
+		Images:	2691
+		Time:	28.06.2025 16:48:17 until 28.06.2025 22:00:07
+		Duration:	05:11:50
+		Location:	53.85880 -1.37033
+
+	LOT2
+		Images:	2490
+		Time:	29.06.2025 08:59:39 until 29.06.2025 10:17:43
+		Duration:	01:18:04
+		Location:	53.85880 -1.37033
+
+(3) - Km 2 - 4
+	BKO3
+		Images:	14068
+		Time:	28.06.2025 12:12:06 until 28.06.2025 16:32:00
+		Duration:	04:19:54
+		Location:	53.86273 -1.39447
+
+	BKO3LS1
+		Images:	3132
+		Time:	28.06.2025 12:12:00 until 28.06.2025 16:34:07
+		Duration:	04:22:07
+		Location:	53.86273 -1.39447
+
+	LOT3
+		Images:	3892
+		Time:	29.06.2025 06:56:01 until 29.06.2025 08:45:13
+		Duration:	01:49:12
+		Location:	53.86273 -1.39447
+
+(4) - Km 4 - 6
+	LOT4
+		Images:	5580
+		Time:	28.06.2025 17:46:14 until 28.06.2025 21:49:29
+		Duration:	04:03:15
+		Location:	53.86669 -1.39586
+
+	LOT4LS1
+		Images:	2166
+		Time:	28.06.2025 17:38:18 until 28.06.2025 21:20:34
+		Duration:	03:42:16
+		Location:	53.86669 -1.39586
+
+(5) - Km 6 - 8
+	BKO5
+		Images:	7480
+		Time:	29.06.2025 06:40:44 until 29.06.2025 09:55:21
+		Duration:	03:14:37
+		Location:	53.87225 -1.38707
+
+	BKO5LS1
+		Images:	1247
+		Time:	29.06.2025 06:34:05 until 29.06.2025 09:18:04
+		Duration:	02:43:59
+		Location:	53.87225 -1.38707
+
+	LOT5
+		Images:	11156
+		Time:	28.06.2025 12:26:56 until 28.06.2025 16:53:00
+		Duration:	04:26:04
+		Location:	53.87225 -1.38707
+
+	LOT5LS1
+		Images:	3346
+		Time:	28.06.2025 12:26:47 until 28.06.2025 17:02:05
+		Duration:	04:35:18
+		Location:	53.87225 -1.38707
+
+(6) - Finish
+	BKO6
+		Images:	7567
+		Time:	29.06.2025 10:18:38 until 29.06.2025 12:58:58
+		Duration:	02:40:20
+		Location:	53.86676 -1.37053
+
+	BKO6LS1
+		Images:	4606
+		Time:	28.06.2025 22:46:50 until 29.06.2025 12:59:03
+		Duration:	14:12:13
+		Location:	53.86676 -1.37053
+
+	LOT6
+		Images:	3676
+		Time:	29.06.2025 10:48:49 until 29.06.2025 12:58:51
+		Duration:	02:10:02
+		Location:	53.86676 -1.37053
+
+	LOT6LS1
+		Images:	4604
+		Time:	28.06.2025 22:42:58 until 29.06.2025 12:59:05
+		Duration:	14:16:07
+		Location:	53.86676 -1.37053
+
+(7) - Ceremony
+	LOT7
+		Images:	111
+		Time:	29.06.2025 13:28:30 until 29.06.2025 13:47:38
+		Duration:	00:19:08
+		Location:	53.86681 -1.38450
+
+	BKO7
+		Images:	130
+		Time:	29.06.2025 13:25:01 until 29.06.2025 13:44:22
+		Duration:	00:19:21
+		Location:	53.86681 -1.38450
+
+(8) - Impressions / Pano
+	BKO8
+		Images:	61
+		Time:	29.06.2025 05:07:54 until 29.06.2025 05:27:43
+		Duration:	00:19:49
+		Location:	53.86681 -1.38450
+
+	BKO8DRONE1
+		Images:	10
+		Time:	29.06.2025 05:38:14 until 29.06.2025 05:44:00
+		Duration:	00:05:46
+		Location:	53.86681 -1.38450
+

@@ -1,0 +1,175 @@
+EventId: 13762
+Spots: 27
+Total Images: 145921
+Time:	31.12.2012 23:00:29 to 23.08.2025 16:33:47
+Duration: 4617.17:33:18
+
+(1) - Hindernis 5: Schaumparty
+	REM1LS1
+		Images:	2237
+		Time:	23.08.2025 09:43:48 until 23.08.2025 15:08:45
+		Duration:	05:24:57
+		Location:	51.02270 13.79711
+
+	REM1
+		Images:	14043
+		Time:	23.08.2025 09:45:38 until 23.08.2025 15:07:53
+		Duration:	05:22:15
+		Location:	51.02270 13.79711
+
+(2) - Hindernis 6: Schlammbecken
+	STH1
+		Images:	6456
+		Time:	23.08.2025 09:51:32 until 23.08.2025 15:13:18
+		Duration:	05:21:46
+		Location:	51.02095 13.80044
+
+	CHSA1
+		Images:	4849
+		Time:	23.08.2025 08:52:18 until 23.08.2025 15:13:23
+		Duration:	06:21:05
+		Location:	51.02095 13.80044
+
+(3) - Laufstrecke
+	DAR1LS1
+		Images:	1862
+		Time:	23.08.2025 10:07:26 until 23.08.2025 15:48:47
+		Duration:	05:41:21
+		Location:	51.01994 13.79671
+
+	DAR1LS2
+		Images:	1151
+		Time:	23.08.2025 08:47:21 until 23.08.2025 13:27:29
+		Duration:	04:40:08
+		Location:	51.01994 13.79671
+
+	ROH1LS1
+		Images:	3622
+		Time:	23.08.2025 09:01:24 until 23.08.2025 15:30:22
+		Duration:	06:28:58
+		Location:	51.01781 13.80063
+
+	ROH1LS2
+		Images:	3054
+		Time:	23.08.2025 09:08:18 until 23.08.2025 15:57:35
+		Duration:	06:49:17
+		Location:	51.01781 13.80063
+
+(4) - Hindernis 8: Gitterbecken
+	JMU1
+		Images:	3957
+		Time:	23.08.2025 10:01:21 until 23.08.2025 15:35:25
+		Duration:	05:34:04
+		Location:	51.01969 13.79278
+
+	MIKO1
+		Images:	7463
+		Time:	23.08.2025 10:02:27 until 23.08.2025 15:36:20
+		Duration:	05:33:53
+		Location:	51.01979 13.79538
+
+(5) - Hindernis 9: Krabbelstrecke
+	ROH1LS3
+		Images:	7300
+		Time:	23.08.2025 10:34:04 until 23.08.2025 15:50:30
+		Duration:	05:16:26
+		Location:	51.01744 13.79764
+
+	ROH1
+		Images:	14764
+		Time:	23.08.2025 09:39:23 until 23.08.2025 15:47:16
+		Duration:	06:07:53
+		Location:	51.01744 13.79764
+
+	HV1
+		Images:	8812
+		Time:	23.08.2025 09:48:57 until 23.08.2025 15:47:19
+		Duration:	05:58:22
+		Location:	51.01748 13.80016
+
+	HV1LS1
+		Images:	5598
+		Time:	23.08.2025 09:07:23 until 23.08.2025 15:57:47
+		Duration:	06:50:24
+		Location:	51.01765 13.80055
+
+(6) - Hindernis 10: Seiltanz
+	MAWA1
+		Images:	11140
+		Time:	23.08.2025 09:52:24 until 23.08.2025 15:53:39
+		Duration:	06:01:15
+		Location:	51.01666 13.80103
+
+(7) - Hindernis 13: Tauchbecken
+	KMI1
+		Images:	6421
+		Time:	23.08.2025 09:44:11 until 23.08.2025 16:13:37
+		Duration:	06:29:26
+		Location:	51.02344 13.79575
+
+	PMA1
+		Images:	12938
+		Time:	23.08.2025 09:45:01 until 23.08.2025 16:13:21
+		Duration:	06:28:20
+		Location:	51.02344 13.79575
+
+(8) - Hindernis 15: Containerrutsche
+	SLE1LS1
+		Images:	1757
+		Time:	23.08.2025 08:55:49 until 23.08.2025 15:55:29
+		Duration:	06:59:40
+		Location:	51.02024 13.79326
+
+	SLE1
+		Images:	10082
+		Time:	23.08.2025 10:22:41 until 23.08.2025 16:27:29
+		Duration:	06:04:48
+		Location:	51.02024 13.79326
+
+(9) - Ziel
+	STEL1LS1
+		Images:	2219
+		Time:	23.08.2025 08:42:38 until 23.08.2025 16:29:24
+		Duration:	07:46:46
+		Location:	51.02059 13.79552
+
+	TIH1LS1
+		Images:	2367
+		Time:	31.12.2012 23:00:29 until 23.08.2025 16:33:47
+		Duration:	4617.17:33:18
+		Location:	51.02059 13.79552
+
+	STEL1
+		Images:	8008
+		Time:	23.08.2025 09:34:33 until 23.08.2025 16:28:22
+		Duration:	06:53:49
+		Location:	51.02059 13.79552
+
+(10) - Herotent
+	DAR1
+		Images:	2464
+		Time:	23.08.2025 09:03:07 until 23.08.2025 16:29:29
+		Duration:	07:26:22
+		Location:	51.02059 13.79552
+
+	TIH1
+		Images:	2681
+		Time:	23.08.2025 09:12:28 until 23.08.2025 16:14:33
+		Duration:	07:02:05
+		Location:	51.02059 13.79552
+
+(11) - Impressionen
+	TIM1
+		Images:	671
+		Time:	23.08.2025 09:31:53 until 23.08.2025 14:59:38
+		Duration:	05:27:45
+		Location:	51.02059 13.79552
+
+(12) - Impressions / Pano
+	TIM1DRONE1
+		Images:	5
+		Time:	23.08.2025 14:45:40 until 23.08.2025 14:47:57
+		Duration:	00:02:17
+		Location:	51.02059 13.79552
+
+	PANO1

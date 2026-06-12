@@ -1,0 +1,345 @@
+EventId: 14831
+Spots: 55
+Total Images: 180590
+Time:	31.12.2008 19:00:15 to 30.03.2025 18:32:52
+Duration: 5932.23:32:37
+
+(1) - Finish
+	MAT3
+		Images:	569
+		Time:	29.03.2025 15:07:29 until 29.03.2025 15:32:13
+		Duration:	00:24:44
+		Location:	38.90490 -77.02295
+
+	SWDY2
+		Images:	6904
+		Time:	28.03.2025 18:32:44 until 30.03.2025 08:20:32
+		Duration:	1.13:47:48
+		Location:	38.90490 -77.02295
+
+	PKO1
+		Images:	4938
+		Time:	29.03.2025 07:48:46 until 29.03.2025 12:31:32
+		Duration:	04:42:46
+		Location:	38.90490 -77.02295
+
+	GIP1LS2
+		Images:	3133
+		Time:	29.03.2025 06:24:37 until 30.03.2025 08:12:42
+		Duration:	1.01:48:05
+		Location:	38.90490 -77.02295
+
+	GIP1LS1
+		Images:	2470
+		Time:	29.03.2025 06:24:44 until 29.03.2025 18:49:22
+		Duration:	12:24:38
+		Location:	38.90490 -77.02295
+
+	CCZ5
+		Images:	1211
+		Time:	29.03.2025 12:27:58 until 29.03.2025 19:23:59
+		Duration:	06:56:01
+		Location:	38.90490 -77.02295
+
+(2) - Medalwall
+	BICI2
+		Images:	5732
+		Time:	29.03.2025 13:23:30 until 30.03.2025 18:32:52
+		Duration:	1.05:09:22
+		Location:	38.90490 -77.02295
+
+	SWDY1
+		Images:	2044
+		Time:	28.03.2025 18:32:44 until 29.03.2025 12:31:03
+		Duration:	17:58:19
+		Location:	38.90490 -77.02295
+
+	SAM5
+		Images:	701
+		Time:	29.03.2025 12:31:22 until 29.03.2025 19:16:04
+		Duration:	06:44:42
+		Location:	38.90490 -77.02295
+
+(3) - Station 1 Skierg
+	DANG1
+		Images:	3755
+		Time:	29.03.2025 07:05:06 until 29.03.2025 13:20:44
+		Duration:	06:15:38
+		Location:	38.90490 -77.02295
+
+	LMB1
+		Images:	4382
+		Time:	29.03.2025 07:00:06 until 29.03.2025 13:37:55
+		Duration:	06:37:49
+		Location:	38.90490 -77.02295
+
+	MAU1
+		Images:	4344
+		Time:	29.03.2025 07:04:04 until 30.03.2025 08:08:37
+		Duration:	1.01:04:33
+		Location:	38.90490 -77.02295
+
+	YEP2
+		Images:	2440
+		Time:	29.03.2025 13:46:22 until 29.03.2025 18:39:48
+		Duration:	04:53:26
+		Location:	38.90490 -77.02295
+
+	EUGP2
+		Images:	5721
+		Time:	29.03.2025 13:47:23 until 29.03.2025 18:41:36
+		Duration:	04:54:13
+		Location:	38.90490 -77.02295
+
+	GIP2
+		Images:	4649
+		Time:	29.03.2025 09:31:55 until 29.03.2025 18:15:16
+		Duration:	08:43:21
+		Location:	38.90490 -77.02295
+
+	SAM3
+		Images:	1224
+		Time:	29.03.2025 10:34:58 until 29.03.2025 17:11:27
+		Duration:	06:36:29
+		Location:	38.90490 -77.02295
+
+	CCZ3
+		Images:	1766
+		Time:	29.03.2025 10:30:42 until 29.03.2025 17:07:53
+		Duration:	06:37:11
+		Location:	38.90490 -77.02295
+
+	ANMF2
+		Images:	4793
+		Time:	31.12.2008 19:00:15 until 29.03.2025 19:29:48
+		Duration:	5932.00:29:33
+		Location:	38.90490 -77.02295
+
+(4) - Station 2 Sled Push
+	MAU2
+		Images:	2550
+		Time:	29.03.2025 13:33:34 until 29.03.2025 18:53:50
+		Duration:	05:20:16
+		Location:	38.90490 -77.02295
+
+	MALD1
+		Images:	1488
+		Time:	29.03.2025 07:11:25 until 29.03.2025 08:30:27
+		Duration:	01:19:02
+		Location:	38.90490 -77.02295
+
+	THEO2
+		Images:	1085
+		Time:	29.03.2025 13:56:49 until 29.03.2025 14:30:31
+		Duration:	00:33:42
+		Location:	38.90490 -77.02295
+
+	MRKE1
+		Images:	2922
+		Time:	29.03.2025 07:13:15 until 30.03.2025 08:15:41
+		Duration:	1.01:02:26
+		Location:	38.90490 -77.02295
+
+	PEC1
+		Images:	3557
+		Time:	29.03.2025 07:02:06 until 29.03.2025 13:32:14
+		Duration:	06:30:08
+		Location:	38.90490 -77.02295
+
+	GIP1
+		Images:	1526
+		Time:	29.03.2025 08:31:46 until 29.03.2025 15:20:05
+		Duration:	06:48:19
+		Location:	38.90490 -77.02295
+
+	SAM1
+		Images:	1348
+		Time:	29.03.2025 08:34:47 until 29.03.2025 15:17:42
+		Duration:	06:42:55
+		Location:	38.90490 -77.02295
+
+	CCZ1
+		Images:	1734
+		Time:	29.03.2025 08:43:31 until 29.03.2025 15:17:44
+		Duration:	06:34:13
+		Location:	38.90490 -77.02295
+
+(5) - Station 3 Sled Pull
+	LMB2
+		Images:	3297
+		Time:	29.03.2025 13:40:27 until 29.03.2025 19:07:40
+		Duration:	05:27:13
+		Location:	38.90490 -77.02295
+
+	MALD2
+		Images:	754
+		Time:	29.03.2025 08:30:28 until 29.03.2025 09:49:21
+		Duration:	01:18:53
+		Location:	38.90490 -77.02295
+
+	NIMA1
+		Images:	2770
+		Time:	29.03.2025 06:41:21 until 29.03.2025 13:14:40
+		Duration:	06:33:19
+		Location:	38.90490 -77.02295
+
+	THEO1
+		Images:	835
+		Time:	29.03.2025 07:18:07 until 29.03.2025 13:24:56
+		Duration:	06:06:49
+		Location:	38.90490 -77.02295
+
+	JSAN1
+		Images:	2243
+		Time:	29.03.2025 07:18:08 until 29.03.2025 13:22:59
+		Duration:	06:04:51
+		Location:	38.90490 -77.02295
+
+	MRKE2
+		Images:	3293
+		Time:	29.03.2025 13:40:22 until 29.03.2025 19:04:36
+		Duration:	05:24:14
+		Location:	38.90490 -77.02295
+
+	PKO2
+		Images:	2658
+		Time:	29.03.2025 13:29:54 until 29.03.2025 19:15:37
+		Duration:	05:45:43
+		Location:	38.90490 -77.02295
+
+	GIP3
+		Images:	2259
+		Time:	29.03.2025 10:23:59 until 29.03.2025 16:20:14
+		Duration:	05:56:15
+		Location:	38.90490 -77.02295
+
+	SAM2
+		Images:	1605
+		Time:	29.03.2025 09:34:37 until 29.03.2025 16:17:12
+		Duration:	06:42:35
+		Location:	38.90490 -77.02295
+
+	CCZ2
+		Images:	2016
+		Time:	29.03.2025 09:33:17 until 29.03.2025 16:19:26
+		Duration:	06:46:09
+		Location:	38.90490 -77.02295
+
+(6) - Station 5 Rowing
+	JSAN2
+		Images:	3589
+		Time:	29.03.2025 13:33:54 until 29.03.2025 19:36:35
+		Duration:	06:02:41
+		Location:	38.90490 -77.02295
+
+	MAT1
+		Images:	1603
+		Time:	29.03.2025 11:30:57 until 29.03.2025 18:10:29
+		Duration:	06:39:32
+		Location:	38.90490 -77.02295
+
+	PEC2
+		Images:	4620
+		Time:	29.03.2025 13:38:11 until 29.03.2025 19:45:33
+		Duration:	06:07:22
+		Location:	38.90490 -77.02295
+
+	YEP1
+		Images:	3547
+		Time:	29.03.2025 06:52:07 until 29.03.2025 13:36:01
+		Duration:	06:43:54
+		Location:	38.90490 -77.02295
+
+	EUGP1
+		Images:	5571
+		Time:	29.03.2025 06:54:57 until 29.03.2025 13:29:40
+		Duration:	06:34:43
+		Location:	38.90490 -77.02295
+
+	CCZ4
+		Images:	1743
+		Time:	29.03.2025 11:29:25 until 29.03.2025 18:14:51
+		Duration:	06:45:26
+		Location:	38.90490 -77.02295
+
+(7) - Station 6 Farmers Carry
+	MAT1LS2
+		Images:	9006
+		Time:	29.03.2025 07:38:55 until 29.03.2025 19:43:01
+		Duration:	12:04:06
+		Location:	38.90490 -77.02295
+
+	MAT1LS1
+		Images:	4461
+		Time:	16.03.2025 06:42:41 until 29.03.2025 12:50:52
+		Duration:	13.06:08:11
+		Location:	38.90490 -77.02295
+
+(8) - Station 7 Sandbag Lunges
+	WMY1
+		Images:	4820
+		Time:	29.03.2025 04:37:04 until 29.03.2025 13:34:26
+		Duration:	08:57:22
+		Location:	38.90490 -77.02295
+
+	MAT4
+		Images:	201
+		Time:	29.03.2025 15:33:50 until 29.03.2025 15:42:54
+		Duration:	00:09:04
+		Location:	38.90490 -77.02295
+
+	GIP4
+		Images:	2268
+		Time:	29.03.2025 11:21:25 until 29.03.2025 18:09:54
+		Duration:	06:48:29
+		Location:	38.90490 -77.02295
+
+	SAM1LS1
+		Images:	9356
+		Time:	29.03.2025 07:34:51 until 29.03.2025 19:45:18
+		Duration:	12:10:27
+		Location:	38.90490 -77.02295
+
+	SAM4
+		Images:	2282
+		Time:	29.03.2025 11:30:33 until 29.03.2025 18:13:03
+		Duration:	06:42:30
+		Location:	38.90490 -77.02295
+
+(9) - Station 8 Wall Balls
+	DANG2
+		Images:	6774
+		Time:	29.03.2025 13:35:01 until 29.03.2025 20:18:56
+		Duration:	06:43:55
+		Location:	38.90490 -77.02295
+
+	NIMA2
+		Images:	4130
+		Time:	29.03.2025 13:35:11 until 29.03.2025 20:02:17
+		Duration:	06:27:06
+		Location:	38.90490 -77.02295
+
+	MAT2
+		Images:	1529
+		Time:	29.03.2025 12:32:04 until 29.03.2025 17:17:52
+		Duration:	04:45:48
+		Location:	38.90490 -77.02295
+
+	BICI1
+		Images:	8080
+		Time:	29.03.2025 07:36:57 until 29.03.2025 12:29:06
+		Duration:	04:52:09
+		Location:	38.90490 -77.02295
+
+	GIP5
+		Images:	2683
+		Time:	29.03.2025 12:27:55 until 29.03.2025 19:22:43
+		Duration:	06:54:48
+		Location:	38.90490 -77.02295
+
+	ANMF1
+		Images:	5611
+		Time:	29.03.2025 07:04:24 until 29.03.2025 07:04:24
+		Duration:	00:00:00
+		Location:	38.90490 -77.02295
+

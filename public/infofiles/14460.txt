@@ -1,0 +1,90 @@
+EventId: 14460
+Spots: 13
+Total Images: 14874
+Time:	25.07.2025 07:43:14 to 25.07.2025 18:21:48
+Duration: 10:38:34
+
+(1) - Start
+	CHR1
+		Images:	175
+		Time:	25.07.2025 07:43:14 until 25.07.2025 08:01:03
+		Duration:	00:17:49
+		Location:	47.16984 12.62353
+
+(2) - 5 KM Weißsee Uphill
+	CHR2
+		Images:	1957
+		Time:	25.07.2025 08:07:35 until 25.07.2025 10:13:10
+		Duration:	02:05:35
+		Location:	47.13848 12.62569
+
+(3) - 5,5 KM Seeblick
+	CHR2LS1
+		Images:	671
+		Time:	25.07.2025 08:38:14 until 25.07.2025 10:04:50
+		Duration:	01:26:36
+		Location:	47.13451 12.62525
+
+	CHR2LS2
+		Images:	700
+		Time:	25.07.2025 08:35:14 until 25.07.2025 10:04:50
+		Duration:	01:29:36
+		Location:	47.13451 12.62525
+
+(4) - 18 KM Mooserboden Stausee
+	COR1
+		Images:	1332
+		Time:	25.07.2025 10:15:36 until 25.07.2025 14:31:28
+		Duration:	04:15:52
+		Location:	47.16311 12.72603
+
+	COR1LS1
+		Images:	444
+		Time:	25.07.2025 10:11:17 until 25.07.2025 14:02:22
+		Duration:	03:51:05
+		Location:	47.16311 12.72603
+
+	COR1LS2
+		Images:	436
+		Time:	25.07.2025 10:18:00 until 25.07.2025 14:00:48
+		Duration:	03:42:48
+		Location:	47.16311 12.72603
+
+(5) - 32,5 KM Klammsee
+	CHR3
+		Images:	1106
+		Time:	25.07.2025 12:32:34 until 25.07.2025 15:44:08
+		Duration:	03:11:34
+		Location:	47.25431 12.73587
+
+	CHR3DRONE1
+		Images:	18
+		Time:	25.07.2025 12:59:33 until 25.07.2025 13:10:20
+		Duration:	00:10:47
+		Location:	47.25431 12.73587
+
+	CHR3LS1
+		Images:	1811
+		Time:	25.07.2025 12:19:47 until 25.07.2025 15:07:26
+		Duration:	02:47:39
+		Location:	47.25431 12.73587
+
+	CHR3LS2
+		Images:	1868
+		Time:	25.07.2025 12:13:33 until 25.07.2025 15:09:22
+		Duration:	02:55:49
+		Location:	47.25431 12.73587
+
+(6) - Finish
+	EP1
+		Images:	3028
+		Time:	25.07.2025 11:20:26 until 25.07.2025 18:21:48
+		Duration:	07:01:22
+		Location:	47.27106 12.75786
+
+	EP1LS1
+		Images:	1328
+		Time:	25.07.2025 11:14:09 until 25.07.2025 18:20:29
+		Duration:	07:06:20
+		Location:	47.27106 12.75786
+

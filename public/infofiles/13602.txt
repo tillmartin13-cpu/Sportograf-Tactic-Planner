@@ -1,0 +1,174 @@
+EventId: 13602
+Spots: 26
+Total Images: 100855
+Time:	01.01.0001 23:00:00 to 13.07.2026 20:25:46
+Duration: 739808.21:25:46
+
+(1) - Km 1 of 100K & 50K Saturday
+	TOMY1
+		Images:	2670
+		Time:	12.07.2025 06:06:19 until 12.07.2025 10:55:48
+		Duration:	04:49:29
+		Location:	51.66121 -0.96980
+
+(2) - Km 3.5 of 100K & 50K Saturday
+	JOEM1
+		Images:	6756
+		Time:	12.07.2025 06:37:50 until 12.07.2025 09:25:25
+		Duration:	02:47:35
+		Location:	51.64234 -0.98812
+
+(3) - Km 7.6 of 100K & 50K Saturday
+	KYY1
+		Images:	8160
+		Time:	12.07.2025 07:02:35 until 12.07.2025 10:21:02
+		Duration:	03:18:27
+		Location:	51.61902 -1.01464
+
+(4) - Km 8.8 of 100K & 50K Saturday
+	WIN1
+		Images:	10422
+		Time:	12.07.2025 07:04:36 until 12.07.2025 10:41:09
+		Duration:	03:36:33
+		Location:	51.60855 -1.01499
+
+(5) - Km 9.6 of 100K & 50K Saturday
+	CNS1
+		Images:	6708
+		Time:	12.07.2026 06:07:07 until 12.07.2026 10:59:28
+		Duration:	04:52:21
+		Location:	51.60246 -1.02186
+
+(6) - Km 10.7 of 100K & 50K Saturday
+	SHP1
+		Images:	5783
+		Time:	12.07.2025 06:38:04 until 12.07.2025 11:29:07
+		Duration:	04:51:03
+		Location:	51.59720 -1.02886
+
+(7) - Km 11.9 of 100K & 50K Saturday
+	PARO1
+		Images:	9261
+		Time:	12.07.2025 07:22:53 until 12.07.2025 11:49:22
+		Duration:	04:26:29
+		Location:	51.58678 -1.03001
+
+	PARO1LS1
+		Images:	1621
+		Time:	12.07.2025 07:22:48 until 12.07.2025 11:37:12
+		Duration:	04:14:24
+		Location:	51.58678 -1.03001
+
+	PARO1LS2
+		Images:	1672
+		Time:	12.07.2025 07:20:29 until 12.07.2025 11:29:15
+		Duration:	04:08:46
+		Location:	51.58678 -1.03001
+
+(8) - Km 50 of 100K & Finish of 50K Saturday
+	TOMY2
+		Images:	5701
+		Time:	12.07.2025 10:40:13 until 12.07.2025 21:48:24
+		Duration:	11:08:11
+		Location:	51.55173 -1.40224
+
+(9) - Km 56 of 100K  & 6 of 50K Sunday
+	JOEM2
+		Images:	3935
+		Time:	12.07.2025 11:26:44 until 12.07.2025 20:31:29
+		Duration:	09:04:45
+		Location:	51.55656 -1.49064
+
+(10) - Km 73.2 of 100K  & 23.2 of 50K Sunday
+	WIN2
+		Images:	7374
+		Time:	12.07.2025 12:53:53 until 13.07.2025 12:55:56
+		Duration:	1.00:02:03
+		Location:	51.51998 -1.68987
+
+(11) - Km 75 of 100K  & 25 of 50K Sunday
+	CNS2
+		Images:	7185
+		Time:	12.07.2026 13:02:22 until 13.07.2026 13:14:05
+		Duration:	1.00:11:43
+		Location:	51.50949 -1.69290
+
+(12) - Km 86.9 of 100K  & 36.9 of 50K Sunday
+	MKH1
+		Images:	1391
+		Time:	12.07.2025 12:33:16 until 12.07.2025 20:31:38
+		Duration:	07:58:22
+		Location:	51.47932 -1.75705
+
+	TOMY3
+		Images:	1180
+		Time:	13.07.2025 06:40:12 until 13.07.2025 16:16:42
+		Duration:	09:36:30
+		Location:	51.47932 -1.75705
+
+(13) - Km 89.4 of 100K  & 39.4 of 50K Sunday
+	KYY2
+		Images:	8950
+		Time:	12.07.2025 13:18:28 until 13.07.2025 17:32:54
+		Duration:	1.04:14:26
+		Location:	51.48576 -1.79101
+
+(14) - Km 98.5 of 100K  & 48.5 of 50K Sunday
+	SHP2
+		Images:	3151
+		Time:	12.07.2025 14:14:50 until 13.07.2025 20:07:03
+		Duration:	1.05:52:13
+		Location:	51.42868 -1.85344
+
+	WIN3
+		Images:	199
+		Time:	13.07.2025 15:22:26 until 13.07.2025 16:53:34
+		Duration:	01:31:08
+		Location:	51.42868 -1.85344
+
+(15) - Pre Finish of 100K and 50K Sunday
+	PARO2LS1
+		Images:	1894
+		Time:	12.07.2025 15:56:43 until 13.07.2025 19:14:14
+		Duration:	1.03:17:31
+		Location:	51.43419 -1.85296
+
+(16) - Finish
+	PARO2
+		Images:	3012
+		Time:	12.07.2025 14:11:33 until 13.07.2025 11:50:58
+		Duration:	21:39:25
+		Location:	51.43419 -1.85296
+
+	PARO2LS2
+		Images:	2363
+		Time:	12.07.2025 14:03:28 until 13.07.2025 18:39:17
+		Duration:	1.04:35:49
+		Location:	51.43419 -1.85296
+
+	MKH2
+		Images:	405
+		Time:	12.07.2025 21:26:53 until 13.07.2025 08:33:36
+		Duration:	11:06:43
+		Location:	51.43419 -1.85296
+
+	JOEM3
+		Images:	791
+		Time:	13.07.2025 07:09:50 until 13.07.2025 20:25:32
+		Duration:	13:15:42
+		Location:	51.43419 -1.85296
+
+	WIN4
+		Images:	241
+		Time:	13.07.2025 17:10:23 until 13.07.2026 20:25:46
+		Duration:	365.03:15:23
+		Location:	51.43419 -1.85296
+
+(17) - Impressions / Pano
+	PARO2DRONE2
+		Images:	30
+		Time:	01.01.0001 23:00:00 until 13.07.2025 17:21:58
+		Duration:	739443.18:21:58
+		Location:	51.43419 -1.85296
+
+	PANO1

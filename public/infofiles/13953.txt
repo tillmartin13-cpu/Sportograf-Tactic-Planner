@@ -1,0 +1,149 @@
+EventId: 13953
+Spots: 22
+Total Images: 96972
+Time:	17.08.2025 07:43:32 to 17.08.2025 16:05:03
+Duration: 08:21:31
+
+(1) - CHAIN CARRY
+	CUP1
+		Images:	11830
+		Time:	17.08.2025 08:36:50 until 17.08.2025 14:43:57
+		Duration:	06:07:07
+		Location:	51.55503 -2.28061
+
+	JUW1
+		Images:	394
+		Time:	17.08.2025 11:39:50 until 17.08.2025 11:51:40
+		Duration:	00:11:50
+		Location:	51.55503 -2.28061
+
+(2) - LOG CARRY-SWIM
+	BKO1
+		Images:	14819
+		Time:	17.08.2025 08:43:36 until 17.08.2025 15:06:22
+		Duration:	06:22:46
+		Location:	51.56525 -2.27907
+
+	BKO1LS1
+		Images:	1229
+		Time:	17.08.2025 08:14:05 until 17.08.2025 14:48:39
+		Duration:	06:34:34
+		Location:	51.56525 -2.27907
+
+	BKO1LS2
+		Images:	1460
+		Time:	17.08.2025 08:09:45 until 17.08.2025 15:09:32
+		Duration:	06:59:47
+		Location:	51.56525 -2.27907
+
+	JUW2
+		Images:	931
+		Time:	17.08.2025 09:34:15 until 17.08.2025 10:32:05
+		Duration:	00:57:50
+		Location:	51.56525 -2.27907
+
+(3) - BARBED WIRE CRAWL
+	PAUH1
+		Images:	4389
+		Time:	17.08.2025 07:45:31 until 17.08.2025 15:25:31
+		Duration:	07:40:00
+		Location:	51.55999 -2.28115
+
+	JUW3
+		Images:	337
+		Time:	17.08.2025 10:42:39 until 17.08.2025 10:50:33
+		Duration:	00:07:54
+		Location:	51.55999 -2.28115
+
+(4) - INVERTED WALL
+	MSO1
+		Images:	11598
+		Time:	17.08.2025 08:11:38 until 17.08.2025 15:32:06
+		Duration:	07:20:28
+		Location:	51.55709 -2.28127
+
+	JUW4
+		Images:	299
+		Time:	17.08.2025 10:57:14 until 17.08.2025 11:07:01
+		Duration:	00:09:47
+		Location:	51.55709 -2.28127
+
+(5) - MONKEY BARS
+	MALV1
+		Images:	15379
+		Time:	17.08.2025 09:24:01 until 17.08.2025 15:35:11
+		Duration:	06:11:10
+		Location:	51.55562 -2.28163
+
+	JUW5
+		Images:	859
+		Time:	17.08.2025 11:19:05 until 17.08.2025 11:35:22
+		Duration:	00:16:17
+		Location:	51.55562 -2.28163
+
+(6) - SANDBAG CARRY
+	MALV1LS1
+		Images:	1464
+		Time:	17.08.2025 07:53:41 until 17.08.2025 15:31:31
+		Duration:	07:37:50
+		Location:	51.55526 -2.28170
+
+(7) - ATLAS CARRY
+	KU1
+		Images:	8932
+		Time:	17.08.2025 09:30:05 until 17.08.2025 15:51:46
+		Duration:	06:21:41
+		Location:	51.55030 -2.28795
+
+	JUW6
+		Images:	111
+		Time:	17.08.2025 12:06:22 until 17.08.2025 12:09:28
+		Duration:	00:03:06
+		Location:	51.55030 -2.28795
+
+(8) - CAPITAL A-FRAME
+	JNI1
+		Images:	7461
+		Time:	17.08.2025 07:53:16 until 17.08.2025 16:03:14
+		Duration:	08:09:58
+		Location:	51.55096 -2.28881
+
+(9) - FIRE JUMP
+	DP1
+		Images:	10090
+		Time:	17.08.2025 07:56:21 until 17.08.2025 16:02:44
+		Duration:	08:06:23
+		Location:	51.55081 -2.29053
+
+	DP1LS1
+		Images:	1134
+		Time:	17.08.2025 07:48:06 until 17.08.2025 16:02:24
+		Duration:	08:14:18
+		Location:	51.55081 -2.29053
+
+	JUW7
+		Images:	333
+		Time:	17.08.2025 12:27:17 until 17.08.2025 12:38:23
+		Duration:	00:11:06
+		Location:	51.55081 -2.29053
+
+	JUW7LS1
+		Images:	1380
+		Time:	17.08.2025 07:43:32 until 17.08.2025 16:04:31
+		Duration:	08:20:59
+		Location:	51.55081 -2.29053
+
+(10) - Herotent
+	DAWH1
+		Images:	2533
+		Time:	17.08.2025 07:57:19 until 17.08.2025 16:05:03
+		Duration:	08:07:44
+		Location:	51.55104 -2.29070
+
+(11) - Impressions / Pano
+	PANO1DRONE1
+		Images:	10
+		Time:	17.08.2025 08:14:15 until 17.08.2025 10:10:32
+		Duration:	01:56:17
+		Location:	51.55081 -2.29053
+

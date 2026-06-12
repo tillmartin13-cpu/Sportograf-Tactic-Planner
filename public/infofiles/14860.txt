@@ -1,0 +1,181 @@
+EventId: 14860
+Spots: 27
+Total Images: 236328
+Time:	27.07.2025 05:30:51 to 27.07.2025 23:48:18
+Duration: 18:17:27
+
+(1) - Bike - 10.0 km
+	CUP1
+		Images:	22466
+		Time:	27.07.2025 07:08:34 until 27.07.2025 14:53:05
+		Duration:	07:44:31
+		Location:	53.85949 -1.42437
+
+	CUP1LS1
+		Images:	4577
+		Time:	27.07.2025 06:08:42 until 27.07.2025 14:56:02
+		Duration:	08:47:20
+		Location:	53.85949 -1.42437
+
+(2) - Finish
+	CUP2
+		Images:	2811
+		Time:	27.07.2025 16:34:44 until 27.07.2025 18:54:56
+		Duration:	02:20:12
+		Location:	53.83774 -1.49818
+
+	DANO1DRONE1
+		Images:	18
+		Time:	27.07.2025 06:24:28 until 27.07.2025 12:21:58
+		Duration:	05:57:30
+		Location:	53.83774 -1.49818
+
+	DANO2
+		Images:	10459
+		Time:	27.07.2025 13:42:04 until 27.07.2025 23:42:03
+		Duration:	09:59:59
+		Location:	53.83774 -1.49818
+
+	DANO2LS2
+		Images:	1433
+		Time:	27.07.2025 16:15:03 until 27.07.2025 23:42:19
+		Duration:	07:27:16
+		Location:	53.83774 -1.49818
+
+	DANO2LS1
+		Images:	901
+		Time:	27.07.2025 14:00:50 until 27.07.2025 23:42:38
+		Duration:	09:41:48
+		Location:	53.83774 -1.49818
+
+	MSO2
+		Images:	22773
+		Time:	27.07.2025 13:17:35 until 27.07.2025 23:48:18
+		Duration:	10:30:43
+		Location:	53.83774 -1.49818
+
+	PHA3
+		Images:	3192
+		Time:	27.07.2025 17:36:22 until 27.07.2025 18:39:17
+		Duration:	01:02:55
+		Location:	53.83774 -1.49818
+
+	YCAN2
+		Images:	5873
+		Time:	27.07.2025 17:12:20 until 27.07.2025 18:46:05
+		Duration:	01:33:45
+		Location:	53.83774 -1.49818
+
+(3) - Bike - 1.0 km
+	DANO1
+		Images:	6771
+		Time:	27.07.2025 06:32:49 until 27.07.2025 09:16:17
+		Duration:	02:43:28
+		Location:	53.83244 -1.49416
+
+	DANO1LS1
+		Images:	1834
+		Time:	27.07.2025 06:20:11 until 27.07.2025 09:20:32
+		Duration:	03:00:21
+		Location:	53.83244 -1.49416
+
+(4) - Swim - Start
+	JBT1
+		Images:	6184
+		Time:	27.07.2025 05:30:51 until 27.07.2025 08:57:14
+		Duration:	03:26:23
+		Location:	53.83456 -1.49650
+
+	KBH1
+		Images:	1998
+		Time:	27.07.2025 05:41:46 until 27.07.2025 07:18:31
+		Duration:	01:36:45
+		Location:	53.83456 -1.49650
+
+	KBH2
+		Images:	2190
+		Time:	27.07.2025 07:18:31 until 27.07.2025 08:57:14
+		Duration:	01:38:43
+		Location:	53.83456 -1.49650
+
+	BME1
+		Images:	8674
+		Time:	27.07.2025 05:31:58 until 27.07.2025 08:57:34
+		Duration:	03:25:36
+		Location:	53.83456 -1.49650
+
+(5) - Run - 2.0 km
+	JBT2
+		Images:	6514
+		Time:	27.07.2025 11:30:38 until 27.07.2025 17:20:12
+		Duration:	05:49:34
+		Location:	53.83741 -1.49530
+
+(6) - Run - 40.0 km
+	JBT3
+		Images:	2390
+		Time:	27.07.2025 18:50:27 until 27.07.2025 20:49:43
+		Duration:	01:59:16
+		Location:	53.83860 -1.50141
+
+	BME3
+		Images:	1727
+		Time:	27.07.2025 18:43:42 until 27.07.2025 20:59:26
+		Duration:	02:15:44
+		Location:	53.83858 -1.49904
+
+(7) - Run - 41.0 km
+	KBH3
+		Images:	1161
+		Time:	27.07.2025 19:12:41 until 27.07.2025 20:58:18
+		Duration:	01:45:37
+		Location:	53.83846 -1.49845
+
+(8) - Run - 5.0 km
+	KBH4
+		Images:	10523
+		Time:	27.07.2025 11:15:33 until 27.07.2025 17:58:11
+		Duration:	06:42:38
+		Location:	53.83910 -1.50350
+
+(9) - Bike - Transition zone
+	MSO1
+		Images:	6538
+		Time:	27.07.2025 06:02:55 until 27.07.2025 09:12:47
+		Duration:	03:09:52
+		Location:	53.83641 -1.49909
+
+	MSO1LS1
+		Images:	1907
+		Time:	27.07.2025 05:51:54 until 27.07.2025 09:29:21
+		Duration:	03:37:27
+		Location:	53.83641 -1.49909
+
+(10) - Bike - 20.0 km
+	PHA1
+		Images:	21140
+		Time:	27.07.2025 07:31:09 until 27.07.2025 11:48:07
+		Duration:	04:16:58
+		Location:	53.87794 -1.49216
+
+(11) - Bike - 19.0 km
+	PHA2
+		Images:	13786
+		Time:	27.07.2025 12:08:27 until 27.07.2025 15:29:32
+		Duration:	03:21:05
+		Location:	53.87723 -1.49149
+
+(12) - Bike - 25.0 km
+	YCAN1
+		Images:	56123
+		Time:	27.07.2025 06:47:41 until 27.07.2025 15:39:08
+		Duration:	08:51:27
+		Location:	53.88761 -1.50839
+
+(13) - Run - 3.0 km
+	BME2
+		Images:	12365
+		Time:	27.07.2025 11:33:21 until 27.07.2025 17:27:20
+		Duration:	05:53:59
+		Location:	53.84147 -1.49851
+

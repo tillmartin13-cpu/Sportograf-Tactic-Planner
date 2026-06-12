@@ -1,0 +1,40 @@
+EventId: 15290
+Spots: 5
+Total Images: 42046
+Time:	11.10.2025 08:59:58 to 11.10.2025 19:54:51
+Duration: 10:54:53
+
+(1) - Amrap-sprint
+	APDA1
+		Images:	4480
+		Time:	11.10.2025 08:59:58 until 11.10.2025 19:54:51
+		Duration:	10:54:53
+		Location:	53.47646 -2.24678
+
+	DANO1
+		Images:	9187
+		Time:	11.10.2025 09:39:35 until 11.10.2025 19:54:11
+		Duration:	10:14:36
+		Location:	53.47646 -2.24678
+
+(2) - Running
+	DANO1LS1
+		Images:	1534
+		Time:	11.10.2025 10:00:05 until 11.10.2025 14:37:39
+		Duration:	04:37:34
+		Location:	53.47646 -2.24678
+
+(3) - All gas no brakes
+	PHA1
+		Images:	11833
+		Time:	11.10.2025 09:45:38 until 11.10.2025 18:28:48
+		Duration:	08:43:10
+		Location:	53.47629 -2.24723
+
+(4) - Lift
+	YCAN1
+		Images:	15012
+		Time:	11.10.2025 09:42:55 until 11.10.2025 19:26:32
+		Duration:	09:43:37
+		Location:	53.47599 -2.24659
+

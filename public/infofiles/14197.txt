@@ -1,0 +1,99 @@
+EventId: 14197
+Spots: 14
+Total Images: 6430
+Time:	27.09.2025 20:52:13 to 28.09.2025 12:15:51
+Duration: 15:23:38
+
+(1) - 20.0 km Refineria
+	ANP3
+		Images:	1603
+		Time:	28.09.2025 06:32:17 until 28.09.2025 07:58:23
+		Duration:	01:26:06
+		Location:	1.07452 -80.74888
+
+	ANP3LS1
+		Images:	786
+		Time:	28.09.2025 06:51:29 until 28.09.2025 07:54:58
+		Duration:	01:03:29
+		Location:	1.07452 -80.74888
+
+(2) - 24.0 km Cruce
+	ANP4
+		Images:	271
+		Time:	28.09.2025 08:24:18 until 28.09.2025 09:17:56
+		Duration:	00:53:38
+		Location:	-1.06614 -80.85133
+
+(3) - 30.0 km Playa
+	TDG2
+		Images:	627
+		Time:	27.09.2025 22:01:39 until 28.09.2025 09:17:45
+		Duration:	11:16:06
+		Location:	-1.08075 -80.90181
+
+(4) - 70.0 km Mar
+	TDG3
+		Images:	221
+		Time:	28.09.2025 08:45:23 until 28.09.2025 10:25:41
+		Duration:	01:40:18
+		Location:	-0.94628 -80.75053
+
+	ANP5
+		Images:	321
+		Time:	28.09.2025 09:48:59 until 28.09.2025 10:54:01
+		Duration:	01:05:02
+		Location:	-0.94628 -80.75053
+
+(5) - Ceremony
+	TDG5
+		Images:	49
+		Time:	28.09.2025 12:10:06 until 28.09.2025 12:15:51
+		Duration:	00:05:45
+		Location:	-0.94628 -80.75053
+
+(6) - Finish
+	NEL3
+		Images:	1458
+		Time:	28.09.2025 08:12:32 until 28.09.2025 11:09:19
+		Duration:	02:56:47
+		Location:	-0.94628 -80.75053
+
+	TDG4
+		Images:	12
+		Time:	28.09.2025 11:29:22 until 28.09.2025 11:32:10
+		Duration:	00:02:48
+		Location:	-0.94628 -80.75053
+
+(7) - Impressions / Pano
+	ANP1
+		Images:	10
+		Time:	27.09.2025 20:52:13 until 27.09.2025 21:09:44
+		Duration:	00:17:31
+		Location:	-0.94628 -80.75053
+
+(8) - Motorcycle 1 Moto
+	NEL2
+		Images:	690
+		Time:	28.09.2025 06:35:16 until 28.09.2025 08:10:47
+		Duration:	01:35:31
+		Location:	-0.9463884 -80.74943804
+
+(9) - Start
+	ANP2
+		Images:	143
+		Time:	28.09.2025 05:30:53 until 28.09.2025 11:39:12
+		Duration:	06:08:19
+		Location:	-0.94628 -80.75053
+
+	NEL1
+		Images:	40
+		Time:	28.09.2025 05:29:43 until 28.09.2025 06:19:21
+		Duration:	00:49:38
+		Location:	-0.94628 -80.75053
+
+	TDG1
+		Images:	199
+		Time:	27.09.2025 22:00:28 until 28.09.2025 05:45:56
+		Duration:	07:45:28
+		Location:	-0.94628 -80.75053
+

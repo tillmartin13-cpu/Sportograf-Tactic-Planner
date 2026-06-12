@@ -1,0 +1,139 @@
+EventId: 14875
+Spots: 20
+Total Images: 124907
+Time:	01.01.2014 16:33:02 to 08.06.2025 17:36:23
+Duration: 4176.01:03:21
+
+(1) - BARBED WIRE CRAWL
+	HCF1
+		Images:	11013
+		Time:	08.06.2025 07:58:19 until 08.06.2025 16:30:58
+		Duration:	08:32:39
+		Location:	55.99282 -3.47116
+
+(2) - VERTICAL CARGO
+	JOEM1
+		Images:	7122
+		Time:	08.06.2025 08:13:49 until 08.06.2025 16:35:47
+		Duration:	08:21:58
+		Location:	55.99543 -3.47179
+
+	JUW2
+		Images:	280
+		Time:	08.06.2025 11:57:48 until 08.06.2025 12:10:15
+		Duration:	00:12:27
+		Location:	55.99543 -3.47179
+
+(3) - ATLAS CARRY
+	MCO1
+		Images:	7630
+		Time:	08.06.2025 07:31:36 until 08.06.2025 16:52:42
+		Duration:	09:21:06
+		Location:	55.99621 -3.47372
+
+(4) - CAPITAL A-FRAME
+	TOMY1
+		Images:	31703
+		Time:	08.06.2025 08:54:26 until 08.06.2025 17:02:47
+		Duration:	08:08:21
+		Location:	55.99565 -3.47352
+
+(5) - DUNK WALL
+	DATI1
+		Images:	6576
+		Time:	08.06.2025 09:31:22 until 08.06.2025 17:07:37
+		Duration:	07:36:15
+		Location:	55.99358 -3.47205
+
+	KYY1
+		Images:	9092
+		Time:	08.06.2025 09:30:05 until 08.06.2025 17:07:33
+		Duration:	07:37:28
+		Location:	55.99358 -3.47205
+
+(6) - INVERTED WALL
+	CMS1
+		Images:	12087
+		Time:	08.06.2025 07:38:32 until 08.06.2025 17:05:15
+		Duration:	09:26:43
+		Location:	55.99409 -3.47380
+
+	JUW5
+		Images:	371
+		Time:	08.06.2025 11:18:50 until 08.06.2025 11:27:09
+		Duration:	00:08:19
+		Location:	55.99409 -3.47380
+
+(7) - SANDBAG CARRY
+	DEC1
+		Images:	4961
+		Time:	08.06.2025 08:24:12 until 08.06.2025 17:16:01
+		Duration:	08:51:49
+		Location:	55.99052 -3.46401
+
+	JUW6
+		Images:	115
+		Time:	08.06.2025 10:41:30 until 08.06.2025 10:47:24
+		Duration:	00:05:54
+		Location:	55.99052 -3.46401
+
+(8) - MULTI RIG
+	MALV1
+		Images:	15573
+		Time:	08.06.2025 08:38:59 until 08.06.2025 17:17:24
+		Duration:	08:38:25
+		Location:	55.99031 -3.46169
+
+	JUW7
+		Images:	416
+		Time:	08.06.2025 10:50:08 until 08.06.2025 10:57:04
+		Duration:	00:06:56
+		Location:	55.99031 -3.46169
+
+(9) - FIRE JUMP
+	DP1
+		Images:	11542
+		Time:	08.06.2025 07:55:47 until 08.06.2025 17:34:02
+		Duration:	09:38:15
+		Location:	55.99158 -3.47225
+
+	JUW8LS1
+		Images:	1479
+		Time:	08.06.2025 09:31:43 until 08.06.2025 16:40:03
+		Duration:	07:08:20
+		Location:	55.99158 -3.47225
+
+	JUW8LS2
+		Images:	1546
+		Time:	08.06.2025 09:32:07 until 08.06.2025 16:40:27
+		Duration:	07:08:20
+		Location:	55.99158 -3.47225
+
+(10) - BUCKET CARRY
+	DP1LS1
+		Images:	1294
+		Time:	01.01.2014 16:33:02 until 02.01.2014 00:39:13
+		Duration:	08:06:11
+		Location:	55.99146 -3.47122
+
+(11) - Herotent
+	WIN1
+		Images:	2052
+		Time:	08.06.2025 07:06:47 until 08.06.2025 17:36:23
+		Duration:	10:29:36
+		Location:	55.99156 -3.47021
+
+(12) - Impressions / Pano
+	PANO1
+		Images:	38
+		Time:	08.06.2025 07:42:30 until 08.06.2025 10:37:20
+		Duration:	02:54:50
+		Location:	55.99156 -3.47021
+
+(13) - VARIOUS
+	PANO1DRONE1
+		Images:	17
+		Time:	08.06.2025 09:12:02 until 08.06.2025 11:54:40
+		Duration:	02:42:38
+		Location:	55.99156 -3.47021
+

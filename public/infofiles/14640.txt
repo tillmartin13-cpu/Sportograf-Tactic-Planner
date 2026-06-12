@@ -1,0 +1,184 @@
+EventId: 14640
+Spots: 28
+Total Images: 252177
+Time:	01.01.0001 23:00:00 to 27.07.2025 15:54:29
+Duration: 739457.16:54:29
+
+(1) - Start
+	BKO2
+		Images:	227
+		Time:	26.07.2025 09:30:02 until 26.07.2025 09:46:41
+		Duration:	00:16:39
+		Location:	53.96501 -2.08930
+
+	BKO2DRONE1
+		Images:	16
+		Time:	26.07.2025 16:33:22 until 26.07.2025 16:41:50
+		Duration:	00:08:28
+		Location:	53.96501 -2.08930
+
+(2) - 1 - Kiss of Mud
+	DP1
+		Images:	19185
+		Time:	26.07.2025 07:39:07 until 27.07.2025 08:49:38
+		Duration:	1.01:10:31
+		Location:	53.96849 -2.09661
+
+	YCAN1
+		Images:	12730
+		Time:	26.07.2025 07:33:49 until 26.07.2025 15:33:53
+		Duration:	08:00:04
+		Location:	53.96849 -2.09661
+
+	BKO3
+		Images:	1487
+		Time:	26.07.2025 10:16:05 until 26.07.2025 10:44:47
+		Duration:	00:28:42
+		Location:	53.96849 -2.09661
+
+(3) - 2 - Twinkle Toes
+	CUP1
+		Images:	19533
+		Time:	26.07.2025 07:56:29 until 26.07.2025 15:56:06
+		Duration:	07:59:37
+		Location:	53.96815 -2.10130
+
+	PHA1
+		Images:	24513
+		Time:	26.07.2025 07:34:47 until 26.07.2025 15:38:55
+		Duration:	08:04:08
+		Location:	53.96815 -2.10130
+
+	BKO4
+		Images:	2077
+		Time:	26.07.2025 10:50:00 until 26.07.2025 11:17:56
+		Duration:	00:27:56
+		Location:	53.96815 -2.10130
+
+(4) - 9 - Hydrophobia
+	MPOL1
+		Images:	8461
+		Time:	26.07.2025 08:28:03 until 26.07.2025 16:22:49
+		Duration:	07:54:46
+		Location:	53.96659 -2.08799
+
+	CMS1
+		Images:	29189
+		Time:	01.01.0001 23:00:00 until 27.07.2025 09:06:56
+		Duration:	739457.10:06:56
+		Location:	53.96659 -2.08799
+
+	CMS1LS1
+		Images:	7100
+		Time:	26.07.2025 08:27:22 until 26.07.2025 16:25:02
+		Duration:	07:57:40
+		Location:	53.96659 -2.08799
+
+	BKO5
+		Images:	3694
+		Time:	26.07.2025 11:35:31 until 26.07.2025 12:14:09
+		Duration:	00:38:38
+		Location:	53.96659 -2.08799
+
+(5) - 13 - Cage Crawl
+	AAS1
+		Images:	19233
+		Time:	26.07.2025 08:32:56 until 26.07.2025 16:42:03
+		Duration:	08:09:07
+		Location:	53.96492 -2.09355
+
+	GUY1
+		Images:	8671
+		Time:	26.07.2025 07:30:25 until 26.07.2025 16:43:58
+		Duration:	09:13:33
+		Location:	53.96492 -2.09355
+
+	BKO6
+		Images:	2952
+		Time:	26.07.2025 12:31:50 until 26.07.2025 13:12:56
+		Duration:	00:41:06
+		Location:	53.96492 -2.09355
+
+(6) - 15 - Everest
+	WIN1
+		Images:	15093
+		Time:	26.07.2025 08:36:33 until 27.07.2025 08:42:12
+		Duration:	1.00:05:39
+		Location:	53.96391 -2.09184
+
+	KSTH1
+		Images:	6874
+		Time:	26.07.2025 07:37:09 until 27.07.2025 08:38:43
+		Duration:	1.01:01:34
+		Location:	53.96391 -2.09184
+
+	BKO7
+		Images:	1681
+		Time:	26.07.2025 13:19:27 until 26.07.2025 13:51:15
+		Duration:	00:31:48
+		Location:	53.96391 -2.09184
+
+(7) - 20 - Blockness Monster
+	MIMAR1
+		Images:	6038
+		Time:	26.07.2025 06:35:13 until 26.07.2025 18:17:28
+		Duration:	11:42:15
+		Location:	53.96264 -2.09095
+
+	TOMY1
+		Images:	32810
+		Time:	26.07.2025 07:58:12 until 27.07.2025 09:25:19
+		Duration:	1.01:27:07
+		Location:	53.96264 -2.09095
+
+	BKO8
+		Images:	2074
+		Time:	26.07.2025 13:56:27 until 26.07.2025 14:22:35
+		Duration:	00:26:08
+		Location:	53.96264 -2.09095
+
+(8) - 21 - Elektroshock Therapy
+	RD1
+		Images:	11329
+		Time:	26.07.2025 07:35:38 until 26.07.2025 18:21:06
+		Duration:	10:45:28
+		Location:	53.96424 -2.09070
+
+	BKO9
+		Images:	1097
+		Time:	26.07.2025 14:29:00 until 26.07.2025 14:44:25
+		Duration:	00:15:25
+		Location:	53.96424 -2.09070
+
+(9) - Finish
+	BKO1LS1
+		Images:	5818
+		Time:	26.07.2025 08:50:27 until 26.07.2025 18:29:16
+		Duration:	09:38:49
+		Location:	53.96443 -2.09122
+
+	DP2LS1
+		Images:	5879
+		Time:	26.07.2025 07:01:57 until 27.07.2025 10:24:27
+		Duration:	1.03:22:30
+		Location:	53.96443 -2.09122
+
+(10) - Hero Tent
+	GHI1
+		Images:	2353
+		Time:	26.07.2025 07:47:53 until 27.07.2025 09:06:03
+		Duration:	1.01:18:10
+		Location:	53.96443 -2.09122
+
+	DMOR1
+		Images:	1551
+		Time:	26.07.2025 07:43:07 until 27.07.2025 10:36:10
+		Duration:	1.02:53:03
+		Location:	53.96443 -2.09122
+
+	BKO10
+		Images:	505
+		Time:	26.07.2025 14:50:45 until 26.07.2025 15:27:30
+		Duration:	00:36:45
+		Location:	53.96443 -2.09122
+

@@ -1,0 +1,86 @@
+EventId: 14576
+Spots: 12
+Total Images: 42577
+Time:	25.04.2025 23:34:27 to 26.04.2025 15:34:22
+Duration: 15:59:55
+
+(1) - Start
+	LLCA1
+		Images:	91
+		Time:	26.04.2025 07:40:54 until 26.04.2025 08:59:49
+		Duration:	01:18:55
+		Location:	34.54077 -112.47024
+
+	LLCA2
+		Images:	239
+		Time:	26.04.2025 09:01:40 until 26.04.2025 09:58:15
+		Duration:	00:56:35
+		Location:	34.54077 -112.47024
+
+(2) - 6.0 mi Apsen Creek
+	MIGO1
+		Images:	3137
+		Time:	26.04.2025 08:11:57 until 26.04.2025 09:11:58
+		Duration:	01:00:01
+		Location:	34.50041 -112.52961
+
+	MIGO1LS1
+		Images:	852
+		Time:	26.04.2025 07:38:25 until 26.04.2025 09:18:44
+		Duration:	01:40:19
+		Location:	34.50006 -112.53034
+
+	MIGO1LS2
+		Images:	829
+		Time:	26.04.2025 07:34:45 until 26.04.2025 09:15:42
+		Duration:	01:40:57
+		Location:	34.50006 -112.53034
+
+(3) - 9 & 24 mi Sierra Prieta
+	JOD1
+		Images:	8267
+		Time:	26.04.2025 08:58:27 until 26.04.2025 13:01:10
+		Duration:	04:02:43
+		Location:	34.50472 -112.55576
+
+(4) - 9.0 mi Sierra Prieta
+	JOD1LS1
+		Images:	5417
+		Time:	26.04.2025 08:45:11 until 26.04.2025 12:03:12
+		Duration:	03:18:01
+		Location:	34.50507 -112.55512
+
+(5) - 16.0 mi White Rock
+	DMCI1
+		Images:	4720
+		Time:	25.04.2025 23:34:27 until 26.04.2025 13:45:18
+		Duration:	14:10:51
+		Location:	34.54538 -112.54502
+
+(6) - 17 & 30 mi White Rock
+	FSCH1
+		Images:	6554
+		Time:	26.04.2025 05:47:36 until 26.04.2025 13:51:42
+		Duration:	08:04:06
+		Location:	34.54925 -112.53995
+
+(7) - 21 & 42 mi Thumb Butte
+	VAV1
+		Images:	7471
+		Time:	26.04.2025 06:23:17 until 26.04.2025 15:34:22
+		Duration:	09:11:05
+		Location:	34.55524 -112.52232
+
+(8) - Finish
+	LLCA3
+		Images:	3616
+		Time:	26.04.2025 10:00:27 until 26.04.2025 14:49:59
+		Duration:	04:49:32
+		Location:	34.54077 -112.47024
+
+	MIGO2
+		Images:	1384
+		Time:	26.04.2025 11:01:45 until 26.04.2025 12:59:36
+		Duration:	01:57:51
+		Location:	34.54077 -112.47024
+

@@ -1,0 +1,159 @@
+EventId: 13943
+Spots: 25
+Total Images: 49130
+Time:	15.06.2025 04:45:23 to 15.06.2025 16:51:20
+Duration: 12:05:57
+
+(1) - Swim - Impressions / Pano
+	PANO1
+	PCT5
+		Images:	28
+		Time:	15.06.2025 05:19:48 until 15.06.2025 10:12:48
+		Duration:	04:53:00
+		Location:	14.81888 120.27638
+
+	JERO1
+		Images:	113
+		Time:	15.06.2025 05:02:15 until 15.06.2025 10:48:08
+		Duration:	05:45:53
+		Location:	14.81888 120.27638
+
+	OCH1
+		Images:	201
+		Time:	15.06.2025 04:45:23 until 15.06.2025 05:36:30
+		Duration:	00:51:07
+		Location:	14.81888 120.27638
+
+	DCL1
+		Images:	154
+		Time:	15.06.2025 04:45:47 until 15.06.2025 05:35:17
+		Duration:	00:49:30
+		Location:	14.81888 120.27638
+
+(2) - Bike - Impressions / Pano
+	IMH1
+		Images:	2
+		Time:	15.06.2025 06:05:13 until 15.06.2025 06:10:11
+		Duration:	00:04:58
+		Location:	14.82337 120.31822
+
+(3) - Swim - Start
+	JERO2
+		Images:	584
+		Time:	15.06.2025 05:36:11 until 15.06.2025 06:27:10
+		Duration:	00:50:59
+		Location:	14.81888 120.27638
+
+	PCT6
+		Images:	620
+		Time:	15.06.2025 05:49:40 until 15.06.2025 06:28:07
+		Duration:	00:38:27
+		Location:	14.81888 120.27638
+
+(4) - Swim - Transition zone
+	JERO3
+		Images:	4120
+		Time:	15.06.2025 05:58:51 until 15.06.2025 07:53:54
+		Duration:	01:55:03
+		Location:	14.81888 120.27694
+
+	PCT3
+		Images:	307
+		Time:	15.06.2025 05:57:10 until 15.06.2025 06:18:39
+		Duration:	00:21:29
+		Location:	14.81888 120.27694
+
+(5) - Bike - 0,0 km
+	IMH2
+		Images:	2802
+		Time:	15.06.2025 06:05:13 until 15.06.2025 11:46:30
+		Duration:	05:41:17
+		Location:	14.82337 120.31822
+
+	IMH2LS1
+		Images:	3178
+		Time:	15.06.2025 06:20:16 until 15.06.2025 11:48:04
+		Duration:	05:27:48
+		Location:	14.82337 120.31822
+
+	RPB2
+		Images:	5828
+		Time:	15.06.2025 06:29:13 until 15.06.2025 10:46:39
+		Duration:	04:17:26
+		Location:	14.85021 120.37583
+
+(6) - Run - 0,0 km
+	DCL2
+		Images:	6357
+		Time:	15.06.2025 06:56:52 until 15.06.2025 14:56:16
+		Duration:	07:59:24
+		Location:	14.81613 120.28208
+
+	DCL2LS1
+		Images:	2373
+		Time:	15.06.2025 06:35:10 until 15.06.2025 14:56:36
+		Duration:	08:21:26
+		Location:	14.81666 120.28083
+
+	OCH3
+		Images:	132
+		Time:	15.06.2025 14:16:41 until 15.06.2025 14:53:35
+		Duration:	00:36:54
+		Location:	14.81666 120.28083
+
+	OCH2
+		Images:	6674
+		Time:	15.06.2025 06:19:07 until 15.06.2025 14:15:44
+		Duration:	07:56:37
+		Location:	14.82154 120.28449
+
+	OCH2LS1
+		Images:	3357
+		Time:	15.06.2025 06:26:43 until 15.06.2025 16:51:20
+		Duration:	10:24:37
+		Location:	14.82154 120.28449
+
+(7) - Finish
+	JERO4
+		Images:	4804
+		Time:	15.06.2025 07:54:29 until 15.06.2025 15:01:55
+		Duration:	07:07:26
+		Location:	14.81944 120.27805
+
+	PCT4
+		Images:	2878
+		Time:	15.06.2025 06:41:58 until 15.06.2025 14:57:23
+		Duration:	08:15:25
+		Location:	14.81944 120.27805
+
+	PCT4LS1
+		Images:	1965
+		Time:	15.06.2025 06:40:21 until 15.06.2025 14:58:53
+		Duration:	08:18:32
+		Location:	14.81944 120.27805
+
+	IMH3
+		Images:	1611
+		Time:	15.06.2025 12:23:32 until 15.06.2025 15:11:13
+		Duration:	02:47:41
+		Location:	14.81944 120.27805
+
+	RPB3
+		Images:	694
+		Time:	15.06.2025 12:30:10 until 15.06.2025 14:28:42
+		Duration:	01:58:32
+		Location:	14.81944 120.27805
+
+(8) - Ceremony
+	JERO5
+		Images:	184
+		Time:	15.06.2025 09:29:50 until 15.06.2025 10:02:24
+		Duration:	00:32:34
+		Location:	14.81666 120.28083
+
+	RPB4
+		Images:	164
+		Time:	15.06.2025 16:12:22 until 15.06.2025 16:22:33
+		Duration:	00:10:11
+		Location:	14.81666 120.28083
+

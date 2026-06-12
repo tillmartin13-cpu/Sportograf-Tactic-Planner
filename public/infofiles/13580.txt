@@ -1,0 +1,72 @@
+EventId: 13580
+Spots: 10
+Total Images: 16724
+Time:	13.04.2025 07:33:42 to 13.04.2025 16:48:19
+Duration: 09:14:37
+
+(1) - Swim - Start
+	MPP1
+		Images:	1927
+		Time:	13.04.2025 08:46:39 until 13.04.2025 11:23:30
+		Duration:	02:36:51
+		Location:	NULL NULL
+
+	MPP1IMP1
+		Images:	35
+		Time:	13.04.2025 07:57:29 until 13.04.2025 08:43:38
+		Duration:	00:46:09
+		Location:	NULL NULL
+
+	MPP1DRONE1
+		Images:	19
+		Time:	13.04.2025 11:29:48 until 13.04.2025 11:36:42
+		Duration:	00:06:54
+		Location:	NULL NULL
+
+	FJPH1
+		Images:	292
+		Time:	13.04.2025 07:33:42 until 13.04.2025 10:08:41
+		Duration:	02:34:59
+		Location:	NULL NULL
+
+(2) - Bike - 7.5 km
+	MRG1
+		Images:	2693
+		Time:	13.04.2025 09:55:49 until 13.04.2025 12:55:14
+		Duration:	02:59:25
+		Location:	NULL NULL
+
+(3) - Bike - Sant Salvador
+	WRFG1
+		Images:	4106
+		Time:	13.04.2025 07:45:01 until 13.04.2025 14:19:38
+		Duration:	06:34:37
+		Location:	NULL NULL
+
+(4) - Run - 1.0 km
+	FJPH2
+		Images:	2395
+		Time:	13.04.2025 11:06:56 until 13.04.2025 15:47:23
+		Duration:	04:40:27
+		Location:	NULL NULL
+
+(5) - Run - 5.0 km
+	MRG2
+		Images:	1481
+		Time:	13.04.2025 13:23:00 until 13.04.2025 15:55:34
+		Duration:	02:32:34
+		Location:	NULL NULL
+
+(6) - Finish
+	MPP3
+		Images:	3254
+		Time:	13.04.2025 12:14:31 until 13.04.2025 16:05:11
+		Duration:	03:50:40
+		Location:	NULL NULL
+
+	MPP3LS1
+		Images:	522
+		Time:	13.04.2025 12:50:10 until 13.04.2025 16:48:19
+		Duration:	03:58:09
+		Location:	NULL NULL
+

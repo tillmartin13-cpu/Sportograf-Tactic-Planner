@@ -1,0 +1,375 @@
+EventId: 16205
+Spots: 60
+Total Images: 287895
+Time:	13.11.2025 07:01:01 to 13.12.2025 22:01:10
+Duration: 30.15:00:09
+
+(1) - Finish
+	MAT1LS1
+		Images:	3655
+		Time:	13.12.2025 06:55:39 until 13.12.2025 21:02:27
+		Duration:	14:06:48
+		Location:	33.80085 -117.92090
+
+	DANG1LS1
+		Images:	3325
+		Time:	13.11.2025 07:01:01 until 13.11.2025 19:48:42
+		Duration:	12:47:41
+		Location:	33.80085 -117.92090
+
+	AIPA1
+		Images:	4100
+		Time:	13.12.2025 06:42:31 until 13.12.2025 13:32:33
+		Duration:	06:50:02
+		Location:	33.80085 -117.92090
+
+	MCAR2
+		Images:	4252
+		Time:	13.12.2025 13:17:56 until 13.12.2025 21:59:46
+		Duration:	08:41:50
+		Location:	33.80085 -117.92090
+
+	VICY2
+		Images:	5149
+		Time:	12.12.2025 18:46:28 until 13.12.2025 20:53:01
+		Duration:	1.02:06:33
+		Location:	33.80085 -117.92090
+
+(2) - Medalwall
+	VICY3
+		Images:	630
+		Time:	12.12.2025 16:49:40 until 12.12.2025 20:35:05
+		Duration:	03:45:25
+		Location:	33.80085 -117.92090
+
+	AHB1
+		Images:	1379
+		Time:	13.12.2025 07:03:38 until 13.12.2025 13:33:13
+		Duration:	06:29:35
+		Location:	33.80085 -117.92090
+
+	DWEP1
+		Images:	1233
+		Time:	13.12.2025 06:05:31 until 13.12.2025 13:43:09
+		Duration:	07:37:38
+		Location:	33.80085 -117.92090
+
+	DDS2
+		Images:	3941
+		Time:	13.12.2025 13:41:27 until 13.12.2025 22:01:10
+		Duration:	08:19:43
+		Location:	33.80085 -117.92090
+
+	HJP2
+		Images:	1645
+		Time:	13.12.2025 13:43:50 until 13.12.2025 21:32:16
+		Duration:	07:48:26
+		Location:	33.80085 -117.92090
+
+	JANH3
+		Images:	443
+		Time:	13.12.2025 12:05:25 until 13.12.2025 21:00:06
+		Duration:	08:54:41
+		Location:	33.80085 -117.92090
+
+	DANG3
+		Images:	1290
+		Time:	12.12.2025 16:39:09 until 13.12.2025 20:59:07
+		Duration:	1.04:19:58
+		Location:	33.80085 -117.92090
+
+	MAT2
+		Images:	1662
+		Time:	13.12.2025 09:11:32 until 13.12.2025 18:39:56
+		Duration:	09:28:24
+		Location:	33.80085 -117.92090
+
+(3) - Station 1 SKIERG
+	AHB2
+		Images:	12006
+		Time:	13.12.2025 13:53:49 until 13.12.2025 19:41:53
+		Duration:	05:48:04
+		Location:	33.80085 -117.92090
+
+	DWEP2
+		Images:	7563
+		Time:	13.12.2025 13:53:44 until 13.12.2025 19:39:38
+		Duration:	05:45:54
+		Location:	33.80085 -117.92090
+
+	RYP1
+		Images:	6188
+		Time:	13.12.2025 07:05:48 until 13.12.2025 13:27:53
+		Duration:	06:22:05
+		Location:	33.80085 -117.92090
+
+	TUD1
+		Images:	6981
+		Time:	13.12.2025 06:45:10 until 13.12.2025 13:27:27
+		Duration:	06:42:17
+		Location:	33.80085 -117.92090
+
+	AVE1
+		Images:	6173
+		Time:	13.12.2025 06:46:40 until 13.12.2025 13:28:50
+		Duration:	06:42:10
+		Location:	33.80085 -117.92090
+
+	MCAR1
+		Images:	3457
+		Time:	13.12.2025 06:59:16 until 13.12.2025 13:10:21
+		Duration:	06:11:05
+		Location:	33.80085 -117.92090
+
+	DMCI2
+		Images:	8623
+		Time:	13.12.2025 13:53:34 until 13.12.2025 19:44:59
+		Duration:	05:51:25
+		Location:	33.80085 -117.92090
+
+	DVAL2
+		Images:	5924
+		Time:	13.12.2025 13:53:43 until 13.12.2025 19:49:04
+		Duration:	05:55:21
+		Location:	33.80085 -117.92090
+
+(4) - Station 2 SLED PUSH
+	DANG4
+		Images:	275
+		Time:	13.12.2025 13:29:22 until 13.12.2025 13:41:16
+		Duration:	00:11:54
+		Location:	33.80085 -117.92090
+
+	ANGA1
+		Images:	3698
+		Time:	13.12.2025 06:46:51 until 13.12.2025 13:30:02
+		Duration:	06:43:11
+		Location:	33.80085 -117.92090
+
+	AIPA2
+		Images:	4900
+		Time:	13.12.2025 13:36:59 until 13.12.2025 19:58:29
+		Duration:	06:21:30
+		Location:	33.80085 -117.92090
+
+	TUD2
+		Images:	6961
+		Time:	13.12.2025 13:36:32 until 13.12.2025 19:45:41
+		Duration:	06:09:09
+		Location:	33.80085 -117.92090
+
+	MIKE1
+		Images:	4632
+		Time:	13.12.2025 06:44:02 until 13.12.2025 13:29:49
+		Duration:	06:45:47
+		Location:	33.80085 -117.92090
+
+	DMCI1
+		Images:	2867
+		Time:	13.12.2025 07:12:25 until 13.12.2025 13:29:16
+		Duration:	06:16:51
+		Location:	33.80085 -117.92090
+
+	HJP1
+		Images:	3930
+		Time:	13.12.2025 06:43:37 until 13.12.2025 13:41:42
+		Duration:	06:58:05
+		Location:	33.80085 -117.92090
+
+	TERT2
+		Images:	743
+		Time:	13.12.2025 14:11:09 until 13.12.2025 19:59:30
+		Duration:	05:48:21
+		Location:	33.80085 -117.92090
+
+	DEST2
+		Images:	2659
+		Time:	13.12.2025 13:42:45 until 13.12.2025 19:56:38
+		Duration:	06:13:53
+		Location:	33.80085 -117.92090
+
+(5) - Station 3 SLED PULL
+	RYP2
+		Images:	5559
+		Time:	13.12.2025 13:34:58 until 13.12.2025 20:16:43
+		Duration:	06:41:45
+		Location:	33.80085 -117.92090
+
+	MIKE2
+		Images:	3685
+		Time:	13.12.2025 13:34:59 until 13.12.2025 20:13:31
+		Duration:	06:38:32
+		Location:	33.80085 -117.92090
+
+	MATA2
+		Images:	4913
+		Time:	13.12.2025 13:43:26 until 13.12.2025 20:18:21
+		Duration:	06:34:55
+		Location:	33.80085 -117.92090
+
+	DDS1
+		Images:	4750
+		Time:	13.12.2025 06:55:19 until 13.12.2025 13:30:18
+		Duration:	06:34:59
+		Location:	33.80085 -117.92090
+
+	FREM1
+		Images:	5746
+		Time:	13.12.2025 07:19:35 until 13.12.2025 13:34:09
+		Duration:	06:14:34
+		Location:	33.80085 -117.92090
+
+	TERT1
+		Images:	2256
+		Time:	13.12.2025 06:06:16 until 13.12.2025 13:21:22
+		Duration:	07:15:06
+		Location:	33.80085 -117.92090
+
+	DEST1
+		Images:	3011
+		Time:	13.12.2025 07:19:53 until 13.12.2025 13:35:51
+		Duration:	06:15:58
+		Location:	33.80085 -117.92090
+
+	JO2
+		Images:	3296
+		Time:	12.12.2025 21:08:04 until 13.12.2025 20:18:27
+		Duration:	23:10:23
+		Location:	33.80085 -117.92090
+
+(6) - Station 5 ROWING
+	ANGA2
+		Images:	7325
+		Time:	13.12.2025 13:34:50 until 13.12.2025 20:58:38
+		Duration:	07:23:48
+		Location:	33.80085 -117.92090
+
+	FREM2
+		Images:	5790
+		Time:	13.12.2025 13:42:13 until 13.12.2025 20:58:43
+		Duration:	07:16:30
+		Location:	33.80085 -117.92090
+
+	JANH1
+		Images:	4823
+		Time:	13.12.2025 07:05:06 until 13.12.2025 17:47:37
+		Duration:	10:42:31
+		Location:	33.80085 -117.92090
+
+	DANG1
+		Images:	9031
+		Time:	12.12.2025 17:19:47 until 13.12.2025 19:30:15
+		Duration:	1.02:10:28
+		Location:	33.80085 -117.92090
+
+	MKI1
+		Images:	9357
+		Time:	13.12.2025 06:39:28 until 13.12.2025 13:31:09
+		Duration:	06:51:41
+		Location:	33.80085 -117.92090
+
+	ALP1
+		Images:	8090
+		Time:	13.12.2025 06:42:41 until 13.12.2025 13:30:06
+		Duration:	06:47:25
+		Location:	33.80085 -117.92090
+
+	MAT3
+		Images:	268
+		Time:	13.12.2025 13:31:26 until 13.12.2025 13:45:25
+		Duration:	00:13:59
+		Location:	33.80085 -117.92090
+
+(7) - Station 6 FARMERS CARRY
+	VICY1LS1
+		Images:	7131
+		Time:	13.12.2025 06:49:11 until 13.12.2025 21:04:11
+		Duration:	14:15:00
+		Location:	33.80085 -117.92090
+
+	DMCI1LS1
+		Images:	11671
+		Time:	13.12.2025 06:55:19 until 13.12.2025 17:28:57
+		Duration:	10:33:38
+		Location:	33.80085 -117.92090
+
+	MCAR1LS1
+		Images:	3643
+		Time:	13.12.2025 07:45:15 until 13.12.2025 18:15:03
+		Duration:	10:29:48
+		Location:	33.80085 -117.92090
+
+(8) - Station 7 SANDBAG LUNGES
+	AVE2
+		Images:	9869
+		Time:	13.12.2025 13:34:27 until 13.12.2025 21:22:17
+		Duration:	07:47:50
+		Location:	33.80085 -117.92090
+
+	VICY1
+		Images:	6936
+		Time:	12.12.2025 17:24:27 until 13.12.2025 16:40:45
+		Duration:	23:16:18
+		Location:	33.80085 -117.92090
+
+	JO1
+		Images:	3835
+		Time:	12.12.2025 16:18:10 until 13.12.2025 13:31:58
+		Duration:	21:13:48
+		Location:	33.80085 -117.92090
+
+	MATA1
+		Images:	4195
+		Time:	13.12.2025 07:00:56 until 13.12.2025 13:24:12
+		Duration:	06:23:16
+		Location:	33.80085 -117.92090
+
+	MAT1
+		Images:	4029
+		Time:	13.12.2025 08:16:55 until 13.12.2025 17:48:36
+		Duration:	09:31:41
+		Location:	33.80085 -117.92090
+
+	AGJ2
+		Images:	3914
+		Time:	13.12.2025 13:50:27 until 13.12.2025 21:26:49
+		Duration:	07:36:22
+		Location:	33.80085 -117.92090
+
+(9) - Station 8 WALL BALLS
+	DVAL1
+		Images:	5010
+		Time:	13.12.2025 06:46:58 until 13.12.2025 13:36:23
+		Duration:	06:49:25
+		Location:	33.80085 -117.92090
+
+	JANH2
+		Images:	2989
+		Time:	13.12.2025 09:04:46 until 13.12.2025 20:17:26
+		Duration:	11:12:40
+		Location:	33.80085 -117.92090
+
+	DANG2
+		Images:	6729
+		Time:	12.12.2025 16:20:13 until 13.12.2025 20:17:09
+		Duration:	1.03:56:56
+		Location:	33.80085 -117.92090
+
+	MKI2
+		Images:	8355
+		Time:	13.12.2025 13:35:29 until 13.12.2025 21:53:56
+		Duration:	08:18:27
+		Location:	33.80085 -117.92090
+
+	ALP2
+		Images:	9529
+		Time:	13.12.2025 13:41:55 until 13.12.2025 21:53:52
+		Duration:	08:11:57
+		Location:	33.80085 -117.92090
+
+	AGJ1
+		Images:	1876
+		Time:	13.12.2025 06:43:00 until 13.12.2025 13:35:07
+		Duration:	06:52:07
+		Location:	33.80085 -117.92090
+

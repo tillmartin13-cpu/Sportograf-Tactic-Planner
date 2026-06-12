@@ -1,0 +1,336 @@
+EventId: 13507
+Spots: 52
+Total Images: 339641
+Time:	17.05.2025 05:22:02 to 17.05.2025 18:12:22
+Duration: 12:50:20
+
+(1) - Start Supermarathon
+	FKL1
+		Images:	368
+		Time:	17.05.2025 05:22:02 until 17.05.2025 06:03:36
+		Duration:	00:41:34
+		Location:	50.97487 10.32034
+
+(2) - Start Halbmarathon
+	VLE1
+		Images:	1562
+		Time:	17.05.2025 07:00:56 until 17.05.2025 08:15:34
+		Duration:	01:14:38
+		Location:	50.70776 10.69495
+
+	ANPE1
+		Images:	742
+		Time:	17.05.2025 07:05:47 until 17.05.2025 08:15:32
+		Duration:	01:09:45
+		Location:	50.70776 10.69495
+
+(3) - Start Marathon
+	ALES1
+		Images:	968
+		Time:	17.05.2025 05:49:33 until 17.05.2025 09:18:27
+		Duration:	03:28:54
+		Location:	50.50750 11.14402
+
+(4) - HM- | M- | W- | SM2,4 (Burschenschaftsdenkmal)
+	IVO1
+		Images:	1636
+		Time:	17.05.2025 05:39:40 until 17.05.2025 06:25:20
+		Duration:	00:45:40
+		Location:	50.96692 10.33969
+
+	FKL3
+		Images:	153
+		Time:	17.05.2025 06:16:44 until 17.05.2025 06:24:39
+		Duration:	00:07:55
+		Location:	50.96692 10.33969
+
+(5) - HM- | M- | W- | SM25,6 (Großer Inselsberg)
+	CKO1
+		Images:	5074
+		Time:	17.05.2025 06:34:33 until 17.05.2025 10:30:07
+		Duration:	03:55:34
+		Location:	50.84974 10.46904
+
+(6) - HM0,3 | M- | W- | SM- (Skipiste)
+	RW1
+		Images:	4179
+		Time:	17.05.2025 07:31:31 until 17.05.2025 08:21:15
+		Duration:	00:49:44
+		Location:	50.70838 10.69233
+
+	RW1LS2
+		Images:	2236
+		Time:	17.05.2025 07:16:24 until 17.05.2025 08:22:56
+		Duration:	01:06:32
+		Location:	50.70838 10.69233
+
+	RW1LS1
+		Images:	2136
+		Time:	17.05.2025 07:03:34 until 17.05.2025 08:22:56
+		Duration:	01:19:22
+		Location:	50.70838 10.69233
+
+(7) - HM4,6 | M- | W1,7 | SM57,0 (Rondell/Rennsteigbrücke)
+	RIS1
+		Images:	26019
+		Time:	17.05.2025 07:11:48 until 17.05.2025 15:41:00
+		Duration:	08:29:12
+		Location:	50.69414 10.72011
+
+(8) - HM6,2 | M- | W3,3 | SM58,6 (Sommerwiese)
+	THO1LS1
+		Images:	7977
+		Time:	17.05.2025 07:08:13 until 17.05.2025 15:46:01
+		Duration:	08:37:48
+		Location:	50.68159 10.73180
+
+	THO1
+		Images:	16865
+		Time:	17.05.2025 07:16:29 until 17.05.2025 15:57:27
+		Duration:	08:40:58
+		Location:	50.68159 10.73180
+
+(9) - HM6,5 | M- | W3,6 | SM58,9
+	DASC1LS1
+		Images:	9357
+		Time:	17.05.2025 07:52:17 until 17.05.2025 15:51:18
+		Duration:	07:59:01
+		Location:	50.67907 10.73018
+
+	DASC1
+		Images:	14142
+		Time:	17.05.2025 07:12:16 until 17.05.2025 16:04:04
+		Duration:	08:51:48
+		Location:	50.67907 10.73018
+
+(10) - HM10,0 | M- | W7,1 | SM61,4 (Großer Beerberg)
+	COS1
+		Images:	14962
+		Time:	17.05.2025 06:51:02 until 17.05.2025 16:39:02
+		Duration:	09:48:00
+		Location:	50.65764 10.74050
+
+(11) - HM9,5 | M- | W6,6 | SM61,9 (Plänckners Aussicht)
+	MAE1
+		Images:	14046
+		Time:	17.05.2025 08:05:57 until 17.05.2025 16:41:25
+		Duration:	08:35:28
+		Location:	50.65645 10.74340
+
+	MAE1LS1
+		Images:	10632
+		Time:	17.05.2025 07:35:17 until 17.05.2025 11:50:16
+		Duration:	04:14:59
+		Location:	50.65645 10.74340
+
+	MAE1LS2
+		Images:	8182
+		Time:	17.05.2025 07:54:37 until 17.05.2025 16:24:20
+		Duration:	08:29:43
+		Location:	50.65645 10.74340
+
+(12) - HM15,0 | M- | W11,3 | SM67,4 (Mordfleck)
+	IVO2
+		Images:	5926
+		Time:	17.05.2025 08:35:36 until 17.05.2025 17:05:06
+		Duration:	08:29:30
+		Location:	50.63753 10.77541
+
+(13) - HM15,5 | M- | W- | SM67,8
+	FKL2
+		Images:	8458
+		Time:	17.05.2025 08:45:33 until 17.05.2025 16:43:54
+		Duration:	07:58:21
+		Location:	50.63375 10.77808
+
+(14) - HM- | M10,5 | W- | SM-
+	EZ1LS1
+		Images:	4290
+		Time:	17.05.2025 09:14:39 until 17.05.2025 11:37:29
+		Duration:	02:22:50
+		Location:	50.47479 11.04196
+
+	EZ1
+		Images:	6880
+		Time:	17.05.2025 09:36:01 until 17.05.2025 15:47:41
+		Duration:	06:11:40
+		Location:	50.47479 11.04196
+
+(15) - HM- | M10,6 | W- | SM- (Dreistromstein)
+	RJ1LS1
+		Images:	2261
+		Time:	17.05.2025 09:15:44 until 17.05.2025 11:25:09
+		Duration:	02:09:25
+		Location:	50.47405 11.03942
+
+	RJ1LS2
+		Images:	2272
+		Time:	17.05.2025 09:15:45 until 17.05.2025 11:25:10
+		Duration:	02:09:25
+		Location:	50.47405 11.03942
+
+	RJ1
+		Images:	9336
+		Time:	17.05.2025 09:36:50 until 17.05.2025 12:50:31
+		Duration:	03:13:41
+		Location:	50.47405 11.03942
+
+(16) - HM- | M18,4 | W- | SM- (Rennsteigwarte)
+	DG1LS1
+		Images:	2854
+		Time:	17.05.2025 09:35:52 until 17.05.2025 13:11:24
+		Duration:	03:35:32
+		Location:	50.50993 10.97055
+
+	DG1
+		Images:	11284
+		Time:	17.05.2025 09:07:49 until 17.05.2025 13:09:29
+		Duration:	04:01:40
+		Location:	50.50936 10.97120
+
+(17) - HM- | M29,4 | W- | SM- (Bergwiesen Neustadt)
+	SBU1LS1
+		Images:	2739
+		Time:	17.05.2025 10:45:46 until 17.05.2025 15:47:39
+		Duration:	05:01:53
+		Location:	50.58593 10.92517
+
+	SBU1
+		Images:	6884
+		Time:	17.05.2025 08:39:22 until 17.05.2025 15:47:48
+		Duration:	07:08:26
+		Location:	50.58593 10.92517
+
+(18) - Zieleinlauf
+	RW2LS1
+		Images:	1350
+		Time:	17.05.2025 10:18:21 until 17.05.2025 11:57:30
+		Duration:	01:39:09
+		Location:	50.60322 10.81392
+
+	RW2LS2
+		Images:	3253
+		Time:	17.05.2025 10:11:09 until 17.05.2025 16:43:31
+		Duration:	06:32:22
+		Location:	50.60322 10.81392
+
+	RW2
+		Images:	5223
+		Time:	17.05.2025 10:31:01 until 17.05.2025 16:37:23
+		Duration:	06:06:22
+		Location:	50.60322 10.81392
+
+	CKO2
+		Images:	8069
+		Time:	17.05.2025 12:12:33 until 17.05.2025 18:05:40
+		Duration:	05:53:07
+		Location:	50.60281 10.81271
+
+	TIM3
+		Images:	279
+		Time:	17.05.2025 13:46:13 until 17.05.2025 15:54:11
+		Duration:	02:07:58
+		Location:	50.60281 10.81271
+
+	VLE2LS1
+		Images:	2057
+		Time:	17.05.2025 11:41:09 until 17.05.2025 15:55:09
+		Duration:	04:14:00
+		Location:	50.60322 10.81135
+
+	VLE2
+		Images:	6093
+		Time:	17.05.2025 10:00:54 until 17.05.2025 14:55:11
+		Duration:	04:54:17
+		Location:	50.60322 10.81135
+
+	MDO1LS1
+		Images:	10000
+		Time:	17.05.2025 07:50:46 until 17.05.2025 17:23:25
+		Duration:	09:32:39
+		Location:	50.60190 10.81441
+
+	SK1LS1
+		Images:	14053
+		Time:	17.05.2025 07:50:59 until 17.05.2025 17:07:08
+		Duration:	09:16:09
+		Location:	50.60190 10.81441
+
+(19) - Ziel
+	MDO1
+		Images:	25071
+		Time:	17.05.2025 08:43:31 until 17.05.2025 18:08:18
+		Duration:	09:24:47
+		Location:	50.60190 10.81441
+
+	TIM4LS1
+		Images:	10335
+		Time:	17.05.2025 08:11:01 until 17.05.2025 18:12:22
+		Duration:	10:01:21
+		Location:	50.60190 10.81441
+
+	TIM4LS2
+		Images:	10428
+		Time:	17.05.2025 08:10:49 until 17.05.2025 18:12:16
+		Duration:	10:01:27
+		Location:	50.60190 10.81441
+
+	JOLA1
+		Images:	13927
+		Time:	17.05.2025 08:07:10 until 17.05.2025 17:48:12
+		Duration:	09:41:02
+		Location:	50.60190 10.81441
+
+	LPI1
+		Images:	9721
+		Time:	17.05.2025 08:43:23 until 17.05.2025 18:08:06
+		Duration:	09:24:43
+		Location:	50.60190 10.81441
+
+	ANPE2
+		Images:	3200
+		Time:	17.05.2025 10:01:42 until 17.05.2025 15:11:31
+		Duration:	05:09:49
+		Location:	50.60190 10.81441
+
+(20) - Medaillen
+	MIKO1
+		Images:	3450
+		Time:	17.05.2025 07:49:49 until 17.05.2025 18:03:35
+		Duration:	10:13:46
+		Location:	50.60190 10.81441
+
+	SK1
+		Images:	5081
+		Time:	17.05.2025 08:14:02 until 17.05.2025 17:03:34
+		Duration:	08:49:32
+		Location:	50.60190 10.81441
+
+	ALES2
+		Images:	2379
+		Time:	17.05.2025 11:28:37 until 17.05.2025 18:09:28
+		Duration:	06:40:51
+		Location:	50.60190 10.81441
+
+(21) - Siegerehrungen
+	TIM4
+		Images:	1209
+		Time:	17.05.2025 10:44:22 until 17.05.2025 15:45:57
+		Duration:	05:01:35
+		Location:	50.60190 10.81441
+
+(22) - Impressions / Pano
+	RJ2DRONE1
+		Images:	29
+		Time:	17.05.2025 12:16:36 until 17.05.2025 16:59:21
+		Duration:	04:42:45
+		Location:	50.60190 10.81441
+
+	PANO1
+(23) - 0.0 km
+	MAE1DRONE1
+		Images:	14
+		Time:	17.05.2025 06:57:44 until 17.05.2025 09:02:06
+		Duration:	02:04:22
+		Location:	50.60190 10.81441
+

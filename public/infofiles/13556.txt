@@ -1,0 +1,262 @@
+EventId: 13556
+Spots: 41
+Total Images: 331423
+Time:	28.03.2025 09:14:30 to 30.03.2025 17:38:46
+Duration: 2.08:24:16
+
+(1) - Start
+	SPSL1
+		Images:	12783
+		Time:	30.03.2025 08:17:16 until 30.03.2025 15:22:51
+		Duration:	07:05:35
+		Location:	NULL NULL
+
+(2) - 3.8 km Hoogstraat
+	MAW1
+		Images:	4606
+		Time:	30.03.2025 08:45:26 until 30.03.2025 09:53:31
+		Duration:	01:08:05
+		Location:	NULL NULL
+
+	MAW1LS1
+		Images:	1510
+		Time:	30.03.2025 08:41:05 until 30.03.2025 09:54:32
+		Duration:	01:13:27
+		Location:	NULL NULL
+
+	ALN1
+		Images:	4165
+		Time:	30.03.2025 09:12:15 until 30.03.2025 09:56:14
+		Duration:	00:43:59
+		Location:	NULL NULL
+
+	ALN1LS2
+		Images:	1810
+		Time:	30.03.2025 08:54:26 until 30.03.2025 09:53:37
+		Duration:	00:59:11
+		Location:	NULL NULL
+
+	ALN1LS1
+		Images:	1821
+		Time:	30.03.2025 08:56:14 until 30.03.2025 09:52:50
+		Duration:	00:56:36
+		Location:	NULL NULL
+
+	MAW1LS2
+		Images:	2246
+		Time:	30.03.2025 07:14:36 until 30.03.2025 09:54:48
+		Duration:	02:40:12
+		Location:	NULL NULL
+
+(3) - km3.9 / marathon - Sint Michielsstraat
+	RA1LS1
+		Images:	2611
+		Time:	30.03.2025 09:03:17 until 30.03.2025 09:52:20
+		Duration:	00:49:03
+		Location:	NULL NULL
+
+	RA1LS2
+		Images:	2663
+		Time:	30.03.2025 08:54:46 until 30.03.2025 09:51:57
+		Duration:	00:57:11
+		Location:	NULL NULL
+
+	ROC1
+		Images:	4103
+		Time:	30.03.2025 08:54:15 until 30.03.2025 09:51:05
+		Duration:	00:56:50
+		Location:	NULL NULL
+
+	RA1
+		Images:	5581
+		Time:	30.03.2025 09:13:22 until 30.03.2025 09:54:47
+		Duration:	00:41:25
+		Location:	NULL NULL
+
+(4) - km 4.3 / marathon - Sint Michielsbrug
+	THL1
+		Images:	6162
+		Time:	30.03.2025 08:23:50 until 30.03.2025 09:53:39
+		Duration:	01:29:49
+		Location:	NULL NULL
+
+	THL1LS1
+		Images:	753
+		Time:	30.03.2025 08:22:40 until 30.03.2025 09:53:39
+		Duration:	01:30:59
+		Location:	NULL NULL
+
+(5) - km 4.3 / marathon - Pakhuisstraat
+	LV1
+		Images:	3402
+		Time:	30.03.2025 09:14:54 until 30.03.2025 09:57:13
+		Duration:	00:42:19
+		Location:	NULL NULL
+
+	MK1
+		Images:	6756
+		Time:	30.03.2025 09:16:20 until 30.03.2025 09:59:09
+		Duration:	00:42:49
+		Location:	NULL NULL
+
+	MK1LS1
+		Images:	1229
+		Time:	30.03.2025 09:15:50 until 30.03.2025 09:57:10
+		Duration:	00:41:20
+		Location:	NULL NULL
+
+(6) - km 4.5 / Half Marathon - Korenmarkt
+	THL2
+		Images:	14673
+		Time:	30.03.2025 13:44:25 until 30.03.2025 15:04:34
+		Duration:	01:20:09
+		Location:	NULL NULL
+
+	THL2LS1
+		Images:	1942
+		Time:	30.03.2025 13:35:40 until 30.03.2025 15:02:47
+		Duration:	01:27:07
+		Location:	NULL NULL
+
+	THL2LS2
+		Images:	2116
+		Time:	30.03.2025 13:43:23 until 30.03.2025 14:54:35
+		Duration:	01:11:12
+		Location:	NULL NULL
+
+(7) - km 4.3 / Half Marathon - Korenmarkt
+	MK2
+		Images:	20965
+		Time:	30.03.2025 13:44:31 until 30.03.2025 15:02:07
+		Duration:	01:17:36
+		Location:	NULL NULL
+
+	MK2LS1
+		Images:	4583
+		Time:	30.03.2025 13:43:21 until 30.03.2025 15:00:04
+		Duration:	01:16:43
+		Location:	NULL NULL
+
+	LV2
+		Images:	12895
+		Time:	30.03.2025 13:42:54 until 30.03.2025 15:02:32
+		Duration:	01:19:38
+		Location:	NULL NULL
+
+(8) - Impressions / Pano
+	PANO1
+	AG1DRONE1
+		Images:	13
+		Time:	30.03.2025 10:50:34 until 30.03.2025 10:56:43
+		Duration:	00:06:09
+		Location:	NULL NULL
+
+(9) - 4.8 km Stadshal
+	PBO1
+		Images:	16421
+		Time:	30.03.2025 06:06:31 until 30.03.2025 15:06:01
+		Duration:	08:59:30
+		Location:	NULL NULL
+
+(10) - 4.9 km Stadhuis
+	TLA1
+		Images:	24085
+		Time:	30.03.2025 08:33:35 until 30.03.2025 15:06:46
+		Duration:	06:33:11
+		Location:	NULL NULL
+
+(11) - 32.0 km Planet Group arena
+	AG1LS1
+		Images:	1420
+		Time:	30.03.2025 10:35:05 until 30.03.2025 12:21:01
+		Duration:	01:45:56
+		Location:	NULL NULL
+
+	AG1LS2
+		Images:	2954
+		Time:	28.03.2025 09:14:30 until 28.03.2025 12:19:58
+		Duration:	03:05:28
+		Location:	NULL NULL
+
+	AG1
+		Images:	7330
+		Time:	30.03.2025 10:29:25 until 30.03.2025 13:25:27
+		Duration:	02:56:02
+		Location:	NULL NULL
+
+(12) - 4,5km before finish
+	AG2
+		Images:	14007
+		Time:	30.03.2025 14:43:26 until 30.03.2025 15:51:11
+		Duration:	01:07:45
+		Location:	NULL NULL
+
+(13) - De Bijloke (3km before finish)
+	ROC2
+		Images:	21594
+		Time:	30.03.2025 11:35:51 until 30.03.2025 16:16:02
+		Duration:	04:40:11
+		Location:	NULL NULL
+
+	RA2LS1
+		Images:	10957
+		Time:	30.03.2025 11:38:19 until 30.03.2025 16:11:18
+		Duration:	04:32:59
+		Location:	NULL NULL
+
+	RA2LS2
+		Images:	11574
+		Time:	30.03.2025 11:42:35 until 30.03.2025 16:28:26
+		Duration:	04:45:51
+		Location:	NULL NULL
+
+	RA2
+		Images:	25828
+		Time:	30.03.2025 11:44:03 until 30.03.2025 16:27:41
+		Duration:	04:43:38
+		Location:	NULL NULL
+
+(14) - 1km before finish
+	SPSL2
+		Images:	9899
+		Time:	30.03.2025 07:03:07 until 30.03.2025 17:10:37
+		Duration:	10:07:30
+		Location:	NULL NULL
+
+(15) - Finish
+	ALN2
+		Images:	17778
+		Time:	30.03.2025 11:08:21 until 30.03.2025 17:38:46
+		Duration:	06:30:25
+		Location:	NULL NULL
+
+	ALN2LS2
+		Images:	9184
+		Time:	30.03.2025 10:54:46 until 30.03.2025 17:26:23
+		Duration:	06:31:37
+		Location:	NULL NULL
+
+	ALN2LS1
+		Images:	9251
+		Time:	30.03.2025 10:52:11 until 30.03.2025 17:22:03
+		Duration:	06:29:52
+		Location:	NULL NULL
+
+	MAW2
+		Images:	18758
+		Time:	30.03.2025 10:42:55 until 30.03.2025 17:33:36
+		Duration:	06:50:41
+		Location:	NULL NULL
+
+	MAW2LS2
+		Images:	3032
+		Time:	30.03.2025 15:55:53 until 30.03.2025 17:33:56
+		Duration:	01:38:03
+		Location:	NULL NULL
+
+	MAW2LS1
+		Images:	7963
+		Time:	30.03.2025 10:56:51 until 30.03.2025 15:59:36
+		Duration:	05:02:45
+		Location:	NULL NULL
+

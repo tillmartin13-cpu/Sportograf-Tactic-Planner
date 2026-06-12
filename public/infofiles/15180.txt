@@ -1,0 +1,132 @@
+EventId: 15180
+Spots: 20
+Total Images: 45486
+Time:	19.10.2025 07:21:52 to 19.10.2025 16:05:40
+Duration: 08:43:48
+
+(1) - 2,0 km
+	KDA1
+		Images:	987
+		Time:	19.10.2025 09:01:35 until 19.10.2025 10:03:14
+		Duration:	01:01:39
+		Location:	50.84206 4.70489
+
+(2) - 6,5 km
+	ACCA1
+		Images:	4897
+		Time:	19.10.2025 07:21:52 until 19.10.2025 10:18:05
+		Duration:	02:56:13
+		Location:	50.81646 4.71955
+
+(3) - 6,7 km
+	ACE1
+		Images:	2007
+		Time:	19.10.2025 08:38:20 until 19.10.2025 10:58:07
+		Duration:	02:19:47
+		Location:	50.81624 4.72138
+
+(4) - 35,0 km
+	DAV1
+		Images:	1307
+		Time:	19.10.2025 09:54:28 until 19.10.2025 11:33:34
+		Duration:	01:39:06
+		Location:	50.82332 4.66336
+
+	DAV1LS2
+		Images:	1050
+		Time:	19.10.2025 09:57:03 until 19.10.2025 11:39:18
+		Duration:	01:42:15
+		Location:	50.82332 4.66336
+
+	DAV1LS1
+		Images:	1016
+		Time:	19.10.2025 10:01:53 until 19.10.2025 11:39:23
+		Duration:	01:37:30
+		Location:	50.82332 4.66336
+
+(5) - 35,5 km
+	AG1LS1
+		Images:	497
+		Time:	19.10.2025 10:23:58 until 19.10.2025 11:10:07
+		Duration:	00:46:09
+		Location:	50.82637 4.6629
+
+	AG1
+		Images:	4551
+		Time:	19.10.2025 10:27:09 until 19.10.2025 11:26:41
+		Duration:	00:59:32
+		Location:	50.82637 4.6629
+
+	AG1LS2
+		Images:	539
+		Time:	19.10.2025 10:25:27 until 19.10.2025 11:08:49
+		Duration:	00:43:22
+		Location:	50.82637 4.6629
+
+(6) - 39,0 km
+	KDA2
+		Images:	4560
+		Time:	19.10.2025 10:16:09 until 19.10.2025 15:51:17
+		Duration:	05:35:08
+		Location:	50.84032 4.7027
+
+(7) - km44/92
+	ACE2
+		Images:	3128
+		Time:	19.10.2025 10:58:37 until 19.10.2025 16:05:40
+		Duration:	05:07:03
+		Location:	50.86611 4.71686
+
+(8) - km59,1/108,1
+	AG2
+		Images:	4083
+		Time:	19.10.2025 12:09:07 until 19.10.2025 14:37:03
+		Duration:	02:27:56
+		Location:	50.81913 4.72754
+
+	AG2LS2
+		Images:	656
+		Time:	19.10.2025 12:02:06 until 19.10.2025 14:32:20
+		Duration:	02:30:14
+		Location:	50.81913 4.72754
+
+	AG2LS1
+		Images:	544
+		Time:	19.10.2025 12:07:57 until 19.10.2025 14:26:43
+		Duration:	02:18:46
+		Location:	50.81913 4.72754
+
+(9) - km86,5/134,5
+	DAV2
+		Images:	2030
+		Time:	19.10.2025 11:57:07 until 19.10.2025 15:42:30
+		Duration:	03:45:23
+		Location:	50.82483 4.66307
+
+	DAV2LS2
+		Images:	1598
+		Time:	19.10.2025 11:52:12 until 19.10.2025 15:42:47
+		Duration:	03:50:35
+		Location:	50.82483 4.66307
+
+	DAV2LS1
+		Images:	1517
+		Time:	19.10.2025 11:55:18 until 19.10.2025 15:42:53
+		Duration:	03:47:35
+		Location:	50.82483 4.66307
+
+(10) - Finish
+	ACCA2
+		Images:	10502
+		Time:	19.10.2025 10:57:13 until 19.10.2025 16:04:11
+		Duration:	05:06:58
+		Location:	50.86705 4.71442
+
+(11) - Impressions / Pano
+	PANO1
+	AG2DRONE1
+		Images:	17
+		Time:	19.10.2025 15:49:08 until 19.10.2025 15:51:25
+		Duration:	00:02:17
+		Location:	50.82307 4.72612
+

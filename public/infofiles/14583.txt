@@ -1,0 +1,108 @@
+EventId: 14583
+Spots: 15
+Total Images: 100629
+Time:	04.04.2025 19:43:56 to 06.04.2025 11:50:32
+Duration: 1.16:06:36
+
+(1) - Obstacle 8 Multi Rig
+	VICY1
+		Images:	9906
+		Time:	04.04.2025 21:37:23 until 05.04.2025 15:32:42
+		Duration:	17:55:19
+		Location:	35.34348 -80.44609
+
+	JEFL1
+		Images:	4735
+		Time:	05.04.2025 07:15:22 until 05.04.2025 15:32:51
+		Duration:	08:17:29
+		Location:	35.34348 -80.44609
+
+(2) - Obstacle 10 Bucket Carry
+	CASC1
+		Images:	10036
+		Time:	05.04.2025 07:17:59 until 05.04.2025 15:47:11
+		Duration:	08:29:12
+		Location:	35.34515 -80.44306
+
+(3) - Obstacle 17 Atlas Carry
+	MCKR1
+		Images:	6131
+		Time:	05.04.2025 07:46:19 until 06.04.2025 07:25:33
+		Duration:	23:39:14
+		Location:	35.34476 -80.44195
+
+	ISAK1
+		Images:	4252
+		Time:	05.04.2025 07:22:11 until 05.04.2025 15:50:11
+		Duration:	08:28:00
+		Location:	35.34476 -80.44195
+
+(4) - Obstacle 19 Barbed Wire Crawl
+	MSK1
+		Images:	11271
+		Time:	05.04.2025 06:35:26 until 06.04.2025 07:11:51
+		Duration:	1.00:36:25
+		Location:	35.34066 -80.44354
+
+(5) - Obstacle 21 Dunk Wall
+	BESC1
+		Images:	15486
+		Time:	05.04.2025 07:10:14 until 06.04.2025 06:41:42
+		Duration:	23:31:28
+		Location:	35.34017 -80.44436
+
+(6) - Obstacle 23 Slip Wall
+	DAHI1
+		Images:	10271
+		Time:	04.04.2025 21:03:12 until 06.04.2025 07:25:56
+		Duration:	1.10:22:44
+		Location:	35.34316 -80.44596
+
+(7) - Obstacle 25 Plate Drag
+	CHIT1
+		Images:	4943
+		Time:	05.04.2025 06:47:22 until 05.04.2025 16:24:09
+		Duration:	09:36:47
+		Location:	35.34160 -80.44759
+
+	JOFU2
+		Images:	1820
+		Time:	05.04.2025 12:58:29 until 05.04.2025 15:24:55
+		Duration:	02:26:26
+		Location:	35.34160 -80.44759
+
+(8) - Obstacle 26 A Frame
+	RUHO1
+		Images:	8180
+		Time:	05.04.2025 06:48:42 until 05.04.2025 16:50:32
+		Duration:	10:01:50
+		Location:	35.34286 -80.44648
+
+(9) - Obstacle 27 Fire Jump
+	CIFU1
+		Images:	6851
+		Time:	04.04.2025 19:54:47 until 06.04.2025 09:41:59
+		Duration:	1.13:47:12
+		Location:	35.34305 -80.44626
+
+(10) - Obstacle 27 LS Fire Jump
+	CIFU1LS1
+		Images:	2417
+		Time:	04.04.2025 21:02:52 until 05.04.2025 17:50:53
+		Duration:	20:48:01
+		Location:	35.34305 -80.44626
+
+(11) - Herotent
+	AVE1
+		Images:	4296
+		Time:	05.04.2025 06:44:16 until 06.04.2025 07:05:02
+		Duration:	1.00:20:46
+		Location:	35.34071 -80.44571
+
+(12) - Impressions / Pano
+	JOFU1
+		Images:	28
+		Time:	04.04.2025 19:43:56 until 06.04.2025 11:50:32
+		Duration:	1.16:06:36
+		Location:	35.34203 -80.44725
+

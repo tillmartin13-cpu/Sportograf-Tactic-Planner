@@ -1,0 +1,516 @@
+EventId: 13788
+Spots: 84
+Total Images: 832487
+Time:	01.01.0001 23:00:00 to 06.04.2025 14:55:16
+Duration: 739345.15:55:16
+
+(1) - 0,5 km Siegessäule
+	CABRI1
+		Images:	9033
+		Time:	06.04.2025 08:29:27 until 06.04.2025 11:29:25
+		Duration:	02:59:58
+		Location:	52.51430 13.34666
+
+	CAGA1
+		Images:	14923
+		Time:	06.04.2025 09:16:15 until 06.04.2025 11:32:47
+		Duration:	02:16:32
+		Location:	52.51430 13.34666
+
+	CAGA1LS1
+		Images:	4388
+		Time:	06.04.2025 09:29:47 until 06.04.2025 11:29:00
+		Duration:	01:59:13
+		Location:	52.51430 13.34666
+
+	CAGA1LS2
+		Images:	8644
+		Time:	06.04.2025 09:01:35 until 06.04.2025 11:28:58
+		Duration:	02:27:23
+		Location:	52.51430 13.34666
+
+(2) - 12,8 km Potsdamer Platz
+	CLEM1
+		Images:	15843
+		Time:	06.04.2025 09:20:44 until 06.04.2025 13:26:02
+		Duration:	04:05:18
+		Location:	52.50957 13.37770
+
+	CLEM1LS1
+		Images:	3269
+		Time:	06.04.2025 09:17:51 until 06.04.2025 13:13:43
+		Duration:	03:55:52
+		Location:	52.50957 13.37770
+
+	CMPU1
+		Images:	25273
+		Time:	06.04.2025 09:31:51 until 06.04.2025 13:26:06
+		Duration:	03:54:15
+		Location:	52.50957 13.37770
+
+(3) - 13,1 km Bundesrat
+	ADAR1
+		Images:	12349
+		Time:	06.04.2025 06:38:41 until 06.04.2025 13:26:38
+		Duration:	06:47:57
+		Location:	52.50983 13.38212
+
+	ADAR1LS1
+		Images:	4605
+		Time:	06.04.2025 10:42:01 until 06.04.2025 12:35:15
+		Duration:	01:53:14
+		Location:	52.50983 13.38212
+
+	AMAGI1
+		Images:	5311
+		Time:	06.04.2025 09:36:34 until 06.04.2025 13:17:51
+		Duration:	03:41:17
+		Location:	52.50983 13.38212
+
+(4) - 14,1 km Deutscher Dom
+	BCM1
+		Images:	10063
+		Time:	06.04.2025 08:48:49 until 06.04.2025 13:39:18
+		Duration:	04:50:29
+		Location:	52.51318 13.39334
+
+	BCM1LS1
+		Images:	3555
+		Time:	06.04.2025 09:47:23 until 06.04.2025 13:18:40
+		Duration:	03:31:17
+		Location:	52.51318 13.39334
+
+	BMUM1
+		Images:	8568
+		Time:	06.04.2025 09:38:20 until 06.04.2025 13:39:22
+		Duration:	04:01:02
+		Location:	52.51318 13.39334
+
+(5) - 14,2 km Konzerthaus Berlin
+	CIL1
+		Images:	17683
+		Time:	06.04.2025 08:42:08 until 06.04.2025 13:40:21
+		Duration:	04:58:13
+		Location:	52.51411 13.39332
+
+	CSBU1
+		Images:	12652
+		Time:	06.04.2025 09:40:07 until 06.04.2025 13:52:41
+		Duration:	04:12:34
+		Location:	52.51411 13.39332
+
+	CSBU1LS1
+		Images:	2857
+		Time:	06.04.2025 09:41:49 until 06.04.2025 13:35:01
+		Duration:	03:53:12
+		Location:	52.51411 13.39332
+
+(6) - 14,3 km Französischer Dom
+	AEQ1
+		Images:	7611
+		Time:	06.04.2025 08:55:29 until 06.04.2025 13:29:24
+		Duration:	04:33:55
+		Location:	52.51483 13.39309
+
+	AJOWE1
+		Images:	14820
+		Time:	06.04.2025 09:08:30 until 06.04.2025 13:29:34
+		Duration:	04:21:04
+		Location:	52.51483 13.39309
+
+	AJOWE1LS1
+		Images:	3842
+		Time:	06.04.2025 09:01:57 until 06.04.2025 13:37:07
+		Duration:	04:35:10
+		Location:	52.51483 13.39309
+
+(7) - 15,1 km Humboldt Forum
+	BAEPB1
+		Images:	11014
+		Time:	06.04.2025 09:39:41 until 06.04.2025 13:46:28
+		Duration:	04:06:47
+		Location:	52.51690 13.40346
+
+	BCRIC1
+		Images:	16949
+		Time:	06.04.2025 09:26:18 until 06.04.2025 13:48:03
+		Duration:	04:21:45
+		Location:	52.51690 13.40346
+
+	BCRIC1LS1
+		Images:	4370
+		Time:	06.04.2025 09:39:29 until 06.04.2025 13:48:19
+		Duration:	04:08:50
+		Location:	52.51690 13.40346
+
+(8) - 18,8 km Rotes Rathaus
+	CCHWI1
+		Images:	12300
+		Time:	06.04.2025 09:36:10 until 06.04.2025 14:20:55
+		Duration:	04:44:45
+		Location:	52.51885 13.40661
+
+	CDAN1
+	CDAN1LS1
+		Images:	3465
+		Time:	06.04.2025 11:16:58 until 06.04.2025 14:13:50
+		Duration:	02:56:52
+		Location:	52.51885 13.40661
+
+(9) - 20,5 km Powerzone Erdinger
+	ADAT1
+		Images:	16988
+		Time:	06.04.2025 09:48:14 until 06.04.2025 14:36:44
+		Duration:	04:48:30
+		Location:	52.51665 13.38491
+
+	AFDC1
+		Images:	19538
+		Time:	06.04.2025 09:33:48 until 06.04.2025 14:36:15
+		Duration:	05:02:27
+		Location:	52.51665 13.38491
+
+(10) - 20,8 km Hotel Adlon
+	BDDT1
+		Images:	24995
+		Time:	06.04.2025 09:34:54 until 06.04.2025 14:41:29
+		Duration:	05:06:35
+		Location:	52.51627 13.37948
+
+	BFAW1
+		Images:	12048
+		Time:	06.04.2025 08:30:34 until 06.04.2025 14:41:24
+		Duration:	06:10:50
+		Location:	52.51627 13.37948
+
+	BFMT1
+		Images:	23063
+		Time:	06.04.2025 08:52:54 until 06.04.2025 14:41:24
+		Duration:	05:48:30
+		Location:	52.51627 13.37948
+
+	BFMT1LS1
+		Images:	397
+		Time:	06.04.2025 08:37:40 until 06.04.2025 10:41:42
+		Duration:	02:04:02
+		Location:	52.51627 13.37948
+
+	BGBR1
+		Images:	32982
+		Time:	06.04.2025 09:25:55 until 06.04.2025 14:42:17
+		Duration:	05:16:22
+		Location:	52.51627 13.37948
+
+(11) - 20,9 km Brandenburger Tor
+	CBOC1
+		Images:	11577
+		Time:	06.04.2025 08:51:55 until 06.04.2025 14:45:22
+		Duration:	05:53:27
+		Location:	52.51630 13.37750
+
+	CEBO1
+		Images:	8022
+		Time:	06.04.2025 12:49:19 until 06.04.2025 14:44:00
+		Duration:	01:54:41
+		Location:	52.51630 13.37750
+
+	CJMU1
+		Images:	12457
+		Time:	06.04.2025 09:36:57 until 06.04.2025 14:43:21
+		Duration:	05:06:24
+		Location:	52.51630 13.37750
+
+	CRYS1
+		Images:	7886
+		Time:	06.04.2025 09:51:08 until 06.04.2025 14:38:56
+		Duration:	04:47:48
+		Location:	52.51630 13.37750
+
+	CRYS1LS1
+		Images:	6723
+		Time:	06.04.2025 08:46:49 until 06.04.2025 14:33:28
+		Duration:	05:46:39
+		Location:	52.51630 13.37750
+
+	CRYS1LS2
+		Images:	6335
+		Time:	06.04.2025 08:56:08 until 06.04.2025 14:33:31
+		Duration:	05:37:23
+		Location:	52.51630 13.37750
+
+	CSLOM1
+		Images:	13877
+		Time:	06.04.2025 09:48:43 until 06.04.2025 14:45:15
+		Duration:	04:56:32
+		Location:	52.51630 13.37750
+
+(12) - 21,0 km Zieleinlauf
+	AALES2
+		Images:	11816
+		Time:	06.04.2025 11:55:31 until 06.04.2025 14:46:22
+		Duration:	02:50:51
+		Location:	52.51620 13.37505
+
+	ADG2
+		Images:	18291
+		Time:	06.04.2025 11:56:25 until 06.04.2025 14:46:17
+		Duration:	02:49:52
+		Location:	52.51620 13.37505
+
+	ADG2LS1
+		Images:	3476
+		Time:	06.04.2025 10:50:01 until 06.04.2025 13:47:08
+		Duration:	02:57:07
+		Location:	52.51620 13.37505
+
+	BBS1
+		Images:	19499
+		Time:	06.04.2025 09:49:09 until 06.04.2025 14:44:41
+		Duration:	04:55:32
+		Location:	52.51620 13.37523
+
+	BBS1LS1
+		Images:	6174
+		Time:	06.04.2025 08:44:18 until 06.04.2025 14:45:12
+		Duration:	06:00:54
+		Location:	52.51620 13.37523
+
+	BGUD1
+		Images:	11021
+		Time:	06.04.2025 09:49:12 until 06.04.2025 12:16:48
+		Duration:	02:27:36
+		Location:	52.51620 13.37523
+
+	BGUD1LS1
+		Images:	4171
+		Time:	06.04.2025 11:18:19 until 06.04.2025 14:49:35
+		Duration:	03:31:16
+		Location:	52.51620 13.37523
+
+	BGUD1LS2
+		Images:	4126
+		Time:	06.04.2025 11:22:03 until 06.04.2025 14:49:39
+		Duration:	03:27:36
+		Location:	52.51620 13.37523
+
+	BHKU1
+		Images:	14987
+		Time:	06.04.2025 09:28:39 until 06.04.2025 14:43:13
+		Duration:	05:14:34
+		Location:	52.51620 13.37523
+
+	BRIS1
+		Images:	18395
+		Time:	06.04.2025 09:45:38 until 06.04.2025 14:45:24
+		Duration:	04:59:46
+		Location:	52.51620 13.37523
+
+	BRW2
+		Images:	11913
+		Time:	06.04.2025 12:16:52 until 06.04.2025 14:47:40
+		Duration:	02:30:48
+		Location:	52.51620 13.37523
+
+(13) - 21,0 km Zieleinlauf Steiger
+	AMFR1
+		Images:	8389
+		Time:	06.04.2025 09:49:08 until 06.04.2025 14:44:13
+		Duration:	04:55:05
+		Location:	52.51619 13.37520
+
+	AMFR1LS1
+		Images:	3917
+		Time:	06.04.2025 08:58:28 until 06.04.2025 14:44:43
+		Duration:	05:46:15
+		Location:	52.51619 13.37520
+
+	ARJ1
+		Images:	16843
+		Time:	06.04.2025 09:56:18 until 06.04.2025 14:44:08
+		Duration:	04:47:50
+		Location:	52.51619 13.37520
+
+	ARJ1LS1
+		Images:	4137
+		Time:	06.04.2025 11:19:44 until 06.04.2025 14:46:25
+		Duration:	03:26:41
+		Location:	52.51619 13.37520
+
+	ARJ1LS2
+		Images:	3746
+		Time:	06.04.2025 11:23:03 until 06.04.2025 14:44:36
+		Duration:	03:21:33
+		Location:	52.51619 13.37520
+
+(14) - 21,1 km Ziel
+	CJMAR1
+		Images:	20665
+		Time:	06.04.2025 08:49:34 until 06.04.2025 14:48:00
+		Duration:	05:58:26
+		Location:	52.51614 13.37454
+
+	CMIRW1
+		Images:	19992
+		Time:	06.04.2025 09:17:12 until 06.04.2025 14:47:51
+		Duration:	05:30:39
+		Location:	52.51614 13.37454
+
+	CRECO1
+		Images:	10214
+		Time:	06.04.2025 09:45:40 until 06.04.2025 14:21:45
+		Duration:	04:36:05
+		Location:	52.51614 13.37454
+
+	CRECO3
+		Images:	854
+		Time:	01.01.0001 23:00:00 until 06.04.2025 09:49:51
+		Duration:	739345.10:49:51
+		Location:	52.51614 13.37454
+
+(15) - 21,1 km Ziel Steiger
+	ASTM1
+		Images:	14628
+		Time:	06.04.2025 09:48:59 until 06.04.2025 14:46:47
+		Duration:	04:57:48
+		Location:	52.51600 13.37232
+
+	ASTM1LS1
+		Images:	6489
+		Time:	06.04.2025 09:52:30 until 06.04.2025 14:36:15
+		Duration:	04:43:45
+		Location:	52.51600 13.37232
+
+	ATHS1
+		Images:	43814
+		Time:	06.04.2025 09:49:18 until 06.04.2025 14:45:39
+		Duration:	04:56:21
+		Location:	52.51600 13.37232
+
+	ATHS1LS1
+		Images:	7921
+		Time:	06.04.2025 09:49:12 until 06.04.2025 14:45:58
+		Duration:	04:56:46
+		Location:	52.51600 13.37232
+
+	ATHS1LS2
+		Images:	5926
+		Time:	06.04.2025 09:49:13 until 06.04.2025 14:44:46
+		Duration:	04:55:33
+		Location:	52.51600 13.37232
+
+(16) - 9,1 km Kaiser-Wilhelm-Gedächtniskirche
+	ABL1
+		Images:	12529
+		Time:	06.04.2025 09:50:10 until 06.04.2025 12:51:28
+		Duration:	03:01:18
+		Location:	52.50424 13.33625
+
+	ABL1LS1
+		Images:	3644
+		Time:	06.04.2025 08:33:56 until 06.04.2025 12:51:14
+		Duration:	04:17:18
+		Location:	52.50424 13.33625
+
+(17) - 9,6 km KaDeWe
+	BLSI1
+		Images:	5659
+		Time:	06.04.2025 09:22:41 until 06.04.2025 12:49:13
+		Duration:	03:26:32
+		Location:	52.50210 13.34231
+
+	BVL1
+		Images:	30098
+		Time:	06.04.2025 09:30:43 until 06.04.2025 12:55:09
+		Duration:	03:24:26
+		Location:	52.50210 13.34231
+
+	BVL1LS1
+		Images:	3564
+		Time:	06.04.2025 09:23:55 until 06.04.2025 12:53:08
+		Duration:	03:29:13
+		Location:	52.50210 13.34231
+
+(18) - Impressionen Siegessäule
+	BRW1
+		Images:	107
+		Time:	06.04.2025 08:54:16 until 06.04.2025 11:24:46
+		Duration:	02:30:30
+		Location:	52.51450 13.34989
+
+(19) - Impressions / Pano
+	PANO1
+(20) - Medaillen
+	ABL2
+		Images:	229
+		Time:	06.04.2025 13:46:27 until 06.04.2025 14:42:25
+		Duration:	00:55:58
+		Location:	52.51592 13.37149
+
+	BLSI2
+		Images:	759
+		Time:	06.04.2025 13:40:17 until 06.04.2025 14:52:12
+		Duration:	01:11:55
+		Location:	52.51593 13.37152
+
+	BVL2
+		Images:	1760
+		Time:	06.04.2025 13:38:44 until 06.04.2025 14:52:11
+		Duration:	01:13:27
+		Location:	52.51593 13.37152
+
+	CABRI2
+	CAGA2
+		Images:	10069
+		Time:	06.04.2025 12:43:38 until 06.04.2025 14:36:06
+		Duration:	01:52:28
+		Location:	52.51592 13.37136
+
+	CANPE1
+		Images:	2463
+		Time:	06.04.2025 09:36:17 until 06.04.2025 14:55:16
+		Duration:	05:18:59
+		Location:	52.51592 13.37136
+
+	CBAK1
+		Images:	2633
+		Time:	06.04.2025 09:44:41 until 06.04.2025 14:29:29
+		Duration:	04:44:48
+		Location:	52.51592 13.37136
+
+	CJOLA1
+		Images:	4504
+		Time:	06.04.2025 09:19:24 until 06.04.2025 14:20:35
+		Duration:	05:01:11
+		Location:	52.51592 13.37136
+
+	CKWEI1
+		Images:	3815
+		Time:	06.04.2025 09:16:03 until 06.04.2025 14:37:00
+		Duration:	05:20:57
+		Location:	52.51592 13.37136
+
+	CRECO2
+		Images:	3703
+		Time:	06.04.2025 11:58:22 until 06.04.2025 14:32:29
+		Duration:	02:34:07
+		Location:	52.51592 13.37136
+
+	CSJW1
+		Images:	5863
+		Time:	06.04.2025 09:23:23 until 06.04.2025 13:54:41
+		Duration:	04:31:18
+		Location:	52.51592 13.37136
+
+(21) - Start
+	AALES1
+		Images:	4960
+		Time:	06.04.2025 07:54:05 until 06.04.2025 11:24:56
+		Duration:	03:30:51
+		Location:	52.51511 13.35876
+
+	ADG1
+		Images:	14449
+		Time:	06.04.2025 08:17:08 until 06.04.2025 11:23:38
+		Duration:	03:06:30
+		Location:	52.51511 13.35876
+

@@ -1,0 +1,88 @@
+EventId: 13240
+Spots: 13
+Total Images: 131631
+Time:	20.06.2025 21:08:08 to 21.06.2025 20:09:43
+Duration: 23:01:35
+
+(1) - Obstacle 25 Monkeyland
+	ADRO1
+		Images:	10677
+		Time:	21.06.2025 05:30:12 until 21.06.2025 20:00:27
+		Duration:	14:30:15
+		Location:	47.06085 15.43541
+
+	SRO1
+		Images:	5720
+		Time:	21.06.2025 08:26:51 until 21.06.2025 19:57:21
+		Duration:	11:30:30
+		Location:	47.06085 15.43541
+
+(2) - Obstacle 7 Antenne Soundkistn
+	ADS1
+		Images:	8183
+		Time:	21.06.2025 13:30:37 until 21.06.2025 18:31:55
+		Duration:	05:01:18
+		Location:	47.07080 15.43582
+
+	JOTO1
+		Images:	3707
+		Time:	20.06.2025 21:08:08 until 21.06.2025 18:31:55
+		Duration:	21:23:47
+		Location:	47.07080 15.43582
+
+(3) - Obstacle 24 Bagjump
+	AHU1
+		Images:	12061
+		Time:	21.06.2025 13:10:11 until 21.06.2025 19:08:01
+		Duration:	05:57:50
+		Location:	47.05858 15.43448
+
+	ISM1
+		Images:	2043
+		Time:	21.06.2025 07:27:02 until 21.06.2025 17:22:54
+		Duration:	09:55:52
+		Location:	47.06036 15.43532
+
+(4) - Obstacle 4 Hupf in Gatsch
+	ASTU1
+		Images:	12729
+		Time:	21.06.2025 13:32:15 until 21.06.2025 18:11:55
+		Duration:	04:39:40
+		Location:	47.06298 15.43552
+
+	NAG1
+		Images:	6886
+		Time:	21.06.2025 12:39:16 until 21.06.2025 18:11:35
+		Duration:	05:32:19
+		Location:	47.06298 15.43552
+
+(5) - Obstacle 10 Vorsciht STufe
+	HKA1
+		Images:	10095
+		Time:	21.06.2025 13:26:57 until 21.06.2025 18:40:22
+		Duration:	05:13:25
+		Location:	47.07321 15.43715
+
+(6) - Finish
+	HSA1
+		Images:	12258
+		Time:	21.06.2025 12:45:01 until 21.06.2025 20:09:43
+		Duration:	07:24:42
+		Location:	47.06085 15.43561
+
+(7) - Obstacle 12 Rutschparty
+	JUS1
+		Images:	11846
+		Time:	21.06.2025 13:25:12 until 21.06.2025 19:22:19
+		Duration:	05:57:07
+		Location:	47.07374 15.44099
+
+(8) - Impressions / Pano
+	PANO1
+(9) - Obstacle 22 Wand4Panier
+	SDS1
+		Images:	35426
+		Time:	20.06.2025 21:42:24 until 21.06.2025 18:36:56
+		Duration:	20:54:32
+		Location:	47.06320 15.43536
+

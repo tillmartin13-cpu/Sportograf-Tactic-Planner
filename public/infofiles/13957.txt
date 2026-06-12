@@ -1,0 +1,134 @@
+EventId: 13957
+Spots: 20
+Total Images: 19698
+Time:	06.09.2025 08:15:19 to 07.09.2025 12:33:28
+Duration: 1.04:18:09
+
+(1) - 68 km + 100 km: Start
+	GUD1
+		Images:	68
+		Time:	06.09.2025 08:15:19 until 06.09.2025 08:40:16
+		Duration:	00:24:57
+		Location:	51.53492 13.92750
+
+(2) - 68 km + 100 km: km 0,6
+	GUD2
+		Images:	1454
+		Time:	06.09.2025 09:00:06 until 06.09.2025 10:14:28
+		Duration:	01:14:22
+		Location:	51.53268 13.92252
+
+	GUD2LS1
+		Images:	722
+		Time:	06.09.2025 08:58:14 until 06.09.2025 10:12:39
+		Duration:	01:14:25
+		Location:	51.53268 13.92252
+
+(3) - 68 km + 100 km: Finish
+	GUD3
+		Images:	723
+		Time:	06.09.2025 10:24:22 until 06.09.2025 11:37:25
+		Duration:	01:13:03
+		Location:	51.53492 13.92750
+
+(4) - 24h: Start
+	GUD4
+		Images:	85
+		Time:	06.09.2025 11:44:51 until 06.09.2025 12:00:39
+		Duration:	00:15:48
+		Location:	51.53492 13.92750
+
+(5) - 24h: km 3,2
+	GUD5
+		Images:	1784
+		Time:	06.09.2025 12:55:58 until 06.09.2025 14:14:30
+		Duration:	01:18:32
+		Location:	51.54025 13.92033
+
+(6) - 24h: km 6,9
+	GUD6
+		Images:	1490
+		Time:	06.09.2025 14:40:10 until 06.09.2025 15:45:15
+		Duration:	01:05:05
+		Location:	51.53029 13.91657
+
+	GUD6LS1
+		Images:	541
+		Time:	06.09.2025 14:35:29 until 06.09.2025 15:24:59
+		Duration:	00:49:30
+		Location:	51.53029 13.91657
+
+(7) - 24h: km 8,4
+	GUD7
+		Images:	1211
+		Time:	06.09.2025 15:59:32 until 06.09.2025 17:10:16
+		Duration:	01:10:44
+		Location:	51.52968 13.93531
+
+	GUD7LS1
+		Images:	585
+		Time:	06.09.2025 16:04:14 until 06.09.2025 17:10:18
+		Duration:	01:06:04
+		Location:	51.52968 13.93531
+
+(8) - 24h: km 8,9
+	GUD8
+		Images:	1653
+		Time:	06.09.2025 17:55:18 until 06.09.2025 20:01:17
+		Duration:	02:05:59
+		Location:	51.53044 13.92759
+
+	GUD8LS1
+		Images:	419
+		Time:	06.09.2025 17:52:54 until 06.09.2025 19:00:42
+		Duration:	01:07:48
+		Location:	51.53044 13.92759
+
+(9) - 24h: Finish at night
+	GUD12LS1
+		Images:	2651
+		Time:	06.09.2025 19:27:30 until 07.09.2025 06:48:56
+		Duration:	11:21:26
+		Location:	51.53492 13.92750
+
+(10) - 24h: km 0,6
+	GUD9
+		Images:	1812
+		Time:	07.09.2025 06:56:31 until 07.09.2025 09:02:15
+		Duration:	02:05:44
+		Location:	51.53251 13.92240
+
+	GUD9LS1
+		Images:	707
+		Time:	07.09.2025 07:26:51 until 07.09.2025 09:08:26
+		Duration:	01:41:35
+		Location:	51.53251 13.92240
+
+(11) - 24h: km 0,8
+	GUD10
+		Images:	1747
+		Time:	07.09.2025 09:46:27 until 07.09.2025 11:00:34
+		Duration:	01:14:07
+		Location:	51.53157 13.92359
+
+	GUD10LS1
+		Images:	676
+		Time:	07.09.2025 09:17:27 until 07.09.2025 11:01:40
+		Duration:	01:44:13
+		Location:	51.53157 13.92359
+
+(12) - 24h: Finish after 24h
+	GUD11
+		Images:	1359
+		Time:	07.09.2025 11:25:36 until 07.09.2025 12:33:28
+		Duration:	01:07:52
+		Location:	51.53492 13.92750
+
+(13) - Impressions / Pano
+	GUD1DRONE1
+		Images:	11
+		Time:	06.09.2025 12:28:25 until 06.09.2025 12:35:40
+		Duration:	00:07:15
+		Location:	51.53492 13.92750
+
+	PANO1

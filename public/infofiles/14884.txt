@@ -1,0 +1,107 @@
+EventId: 14884
+Spots: 16
+Total Images: 61681
+Time:	21.02.2025 07:47:27 to 25.02.2025 17:00:08
+Duration: 4.09:12:41
+
+(1) - 33,2 km before Finish (Oxberg)
+	TIM1LS1
+		Images:	2191
+		Time:	25.02.2025 07:56:48 until 25.02.2025 10:45:57
+		Duration:	02:49:09
+		Location:	61.11361 14.10410
+
+	TIM1
+		Images:	5598
+		Time:	21.02.2025 07:54:02 until 25.02.2025 10:46:33
+		Duration:	4.02:52:31
+		Location:	61.11361 14.10410
+
+(2) - 30,2 km before Finish (Oxberg)
+	MAE1LS1
+		Images:	778
+		Time:	25.02.2025 08:19:23 until 25.02.2025 11:31:54
+		Duration:	03:12:31
+		Location:	61.11621 14.15132
+
+	MAE1
+		Images:	6001
+		Time:	22.02.2025 08:22:36 until 25.02.2025 11:51:58
+		Duration:	3.03:29:22
+		Location:	61.11621 14.15132
+
+(3) - 28,1 km before Finish (Oxberg)
+	IVAH1LS1
+		Images:	1774
+		Time:	25.02.2025 08:27:31 until 25.02.2025 11:59:56
+		Duration:	03:32:25
+		Location:	61.11442 14.17713
+
+	IVAH1
+		Images:	2296
+		Time:	25.02.2025 08:41:21 until 25.02.2025 12:48:47
+		Duration:	04:07:26
+		Location:	61.11442 14.17713
+
+(4) - 21,1 km before Finish (Hökberget)
+	MAV1
+		Images:	5685
+		Time:	22.02.2025 08:12:12 until 25.02.2025 12:56:08
+		Duration:	3.04:43:56
+		Location:	61.08338 14.28150
+
+(5) - 19,0 km before Finish (Hökberget)
+	DADA1
+		Images:	4420
+		Time:	25.02.2025 09:12:28 until 25.02.2025 13:17:14
+		Duration:	04:04:46
+		Location:	61.07470 14.30870
+
+(6) - 17,7 km before Finish (Hökberget)
+	JLA1
+		Images:	5971
+		Time:	21.02.2025 07:47:27 until 25.02.2025 13:38:16
+		Duration:	4.05:50:49
+		Location:	61.07251 14.33123
+
+(7) - 16,3 km before Finish (Hökberget)
+	RKO1
+		Images:	5257
+		Time:	25.02.2025 09:18:07 until 25.02.2025 13:51:33
+		Duration:	04:33:26
+		Location:	61.06495 14.35076
+
+(8) - 4,7 km before Finish (Hemus)
+	ADRE1
+		Images:	2616
+		Time:	23.02.2025 07:50:08 until 25.02.2025 16:08:53
+		Duration:	2.08:18:45
+		Location:	61.00485 14.47156
+
+(9) - Finish
+	MFR1LS1
+		Images:	3481
+		Time:	23.02.2025 06:55:05 until 25.02.2025 16:55:06
+		Duration:	2.10:00:01
+		Location:	61.00716 14.54298
+
+	RYS1LS1
+		Images:	5571
+		Time:	23.02.2025 07:32:24 until 25.02.2025 17:00:08
+		Duration:	2.09:27:44
+		Location:	61.00716 14.54298
+
+	MFR1
+		Images:	5003
+		Time:	23.02.2025 06:31:47 until 25.02.2025 16:54:57
+		Duration:	2.10:23:10
+		Location:	61.00716 14.54298
+
+	RYS1
+		Images:	5025
+		Time:	23.02.2025 07:18:52 until 25.02.2025 16:55:04
+		Duration:	2.09:36:12
+		Location:	61.00716 14.54298
+
+(10) - Impressions / Pano
+	PANO1

@@ -1,0 +1,72 @@
+EventId: 14706
+Spots: 10
+Total Images: 50109
+Time:	01.01.0001 23:00:00 to 22.06.2025 18:59:27
+Duration: 739422.19:59:27
+
+(1) - Swim - Start
+	JSCH1
+		Images:	5349
+		Time:	21.06.2025 07:26:56 until 22.06.2025 15:20:33
+		Duration:	1.07:53:37
+		Location:	48.60403 4.74539
+
+(2) - bike km1,2/21,2
+	MAI1
+		Images:	7725
+		Time:	22.06.2025 09:03:05 until 22.06.2025 16:23:54
+		Duration:	07:20:49
+		Location:	48.61144 4.73755
+
+(3) - bike km19,9/39,9
+	JI1
+		Images:	10725
+		Time:	21.06.2025 07:59:36 until 22.06.2025 17:12:39
+		Duration:	1.09:13:03
+		Location:	48.60965 4.75577
+
+	JI1LS1
+		Images:	7776
+		Time:	22.06.2025 09:11:18 until 22.06.2025 17:12:51
+		Duration:	08:01:33
+		Location:	48.60965 4.75577
+
+(4) - run km5,1/10,2
+	DIG1
+		Images:	7393
+		Time:	01.01.0001 23:00:00 until 22.06.2025 18:16:19
+		Duration:	739422.19:16:19
+		Location:	48.60183 4.74332
+
+	DIG1LS2
+		Images:	2320
+		Time:	22.06.2025 09:58:49 until 22.06.2025 18:44:29
+		Duration:	08:45:40
+		Location:	48.60181 4.74335
+
+	DIG1LS1
+		Images:	1659
+		Time:	21.06.2025 14:06:28 until 22.06.2025 17:40:47
+		Duration:	1.03:34:19
+		Location:	48.60181 4.74335
+
+(5) - Swim - Impressions / Pano
+	DIG1DRONE1
+		Images:	254
+		Time:	21.06.2025 06:48:34 until 22.06.2025 11:51:01
+		Duration:	1.05:02:27
+		Location:	48.60183 4.74332
+
+(6) - Finish
+	FVOR1
+		Images:	2109
+		Time:	22.06.2025 09:19:11 until 22.06.2025 18:59:27
+		Duration:	09:40:16
+		Location:	48.60289 4.74645
+
+	FVOR1LS1
+		Images:	4798
+		Time:	22.06.2025 08:59:54 until 22.06.2025 18:49:09
+		Duration:	09:49:15
+		Location:	48.60289 4.74645
+

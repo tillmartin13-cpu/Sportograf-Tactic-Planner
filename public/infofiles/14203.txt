@@ -1,0 +1,212 @@
+EventId: 14203
+Spots: 33
+Total Images: 102657
+Time:	28.09.2025 05:01:12 to 29.09.2025 00:16:28
+Duration: 19:15:16
+
+(1) - Bike - Transition zone
+	NNG1
+		Images:	3459
+		Time:	28.09.2025 07:58:43 until 28.09.2025 09:44:50
+		Duration:	01:46:07
+		Location:	NULL NULL
+
+	NNG1LS1
+		Images:	372
+		Time:	28.09.2025 06:41:51 until 28.09.2025 09:41:40
+		Duration:	02:59:49
+		Location:	NULL NULL
+
+(2) - Swim - Start
+	NNG1DRONE1
+		Images:	5
+		Time:	28.09.2025 05:01:12 until 28.09.2025 05:07:06
+		Duration:	00:05:54
+		Location:	NULL NULL
+
+	PNQ1
+		Images:	9664
+		Time:	28.09.2025 06:36:56 until 28.09.2025 09:49:38
+		Duration:	03:12:42
+		Location:	NULL NULL
+
+	TDB1
+		Images:	3259
+		Time:	28.09.2025 06:38:27 until 28.09.2025 09:22:34
+		Duration:	02:44:07
+		Location:	NULL NULL
+
+(3) - Finish
+	NNG2
+		Images:	3286
+		Time:	28.09.2025 15:31:47 until 28.09.2025 18:32:27
+		Duration:	03:00:40
+		Location:	NULL NULL
+
+	NNG2LS1
+		Images:	3174
+		Time:	28.09.2025 13:48:14 until 29.09.2025 00:04:28
+		Duration:	10:16:14
+		Location:	NULL NULL
+
+	NNG2DRONE1
+		Images:	1
+		Time:	28.09.2025 16:55:20 until 28.09.2025 16:55:20
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+	NNG2LS2
+		Images:	3037
+		Time:	28.09.2025 14:14:59 until 29.09.2025 00:03:48
+		Duration:	09:48:49
+		Location:	NULL NULL
+
+	NP3
+		Images:	2767
+		Time:	28.09.2025 21:01:55 until 29.09.2025 00:15:51
+		Duration:	03:13:56
+		Location:	NULL NULL
+
+	NP3LS1
+		Images:	2502
+		Time:	28.09.2025 19:52:09 until 28.09.2025 23:56:51
+		Duration:	04:04:42
+		Location:	NULL NULL
+
+	NTA4
+		Images:	1736
+		Time:	28.09.2025 19:52:29 until 29.09.2025 00:16:28
+		Duration:	04:23:59
+		Location:	NULL NULL
+
+	NTA4LS1
+		Images:	250
+		Time:	28.09.2025 19:43:37 until 28.09.2025 20:41:13
+		Duration:	00:57:36
+		Location:	NULL NULL
+
+	RSK2
+		Images:	2503
+		Time:	28.09.2025 16:12:16 until 28.09.2025 21:01:43
+		Duration:	04:49:27
+		Location:	NULL NULL
+
+	TDB3
+		Images:	1482
+		Time:	28.09.2025 21:12:11 until 28.09.2025 23:11:33
+		Duration:	01:59:22
+		Location:	NULL NULL
+
+	YH2
+		Images:	747
+		Time:	28.09.2025 18:33:55 until 28.09.2025 21:02:28
+		Duration:	02:28:33
+		Location:	NULL NULL
+
+(4) - Bike - 32.0 km
+	NP1
+		Images:	13827
+		Time:	28.09.2025 08:37:58 until 28.09.2025 13:28:07
+		Duration:	04:50:09
+		Location:	NULL NULL
+
+(5) - Run - 9.0 km
+	NP2
+		Images:	8438
+		Time:	28.09.2025 15:22:22 until 28.09.2025 18:50:21
+		Duration:	03:27:59
+		Location:	NULL NULL
+
+	NP2LS2
+		Images:	2074
+		Time:	28.09.2025 15:14:31 until 28.09.2025 18:40:34
+		Duration:	03:26:03
+		Location:	NULL NULL
+
+	PNQ2
+		Images:	7065
+		Time:	28.09.2025 13:14:55 until 28.09.2025 17:52:03
+		Duration:	04:37:08
+		Location:	NULL NULL
+
+(6) - Bike - 11.0 km
+	NTA1
+		Images:	3846
+		Time:	28.09.2025 08:20:08 until 28.09.2025 10:14:19
+		Duration:	01:54:11
+		Location:	NULL NULL
+
+	NTA1LS1
+		Images:	714
+		Time:	28.09.2025 07:14:50 until 28.09.2025 10:20:52
+		Duration:	03:06:02
+		Location:	NULL NULL
+
+(7) - Bike - 178.0 km
+	NTA2
+		Images:	2804
+		Time:	28.09.2025 13:07:02 until 28.09.2025 17:03:48
+		Duration:	03:56:46
+		Location:	NULL NULL
+
+	NTA2LS1
+		Images:	3447
+		Time:	28.09.2025 12:41:38 until 28.09.2025 18:56:29
+		Duration:	06:14:51
+		Location:	NULL NULL
+
+(8) - Run - 15.0 km
+	NTA3
+		Images:	833
+		Time:	28.09.2025 17:05:49 until 28.09.2025 18:53:38
+		Duration:	01:47:49
+		Location:	NULL NULL
+
+	NTA3LS1
+		Images:	337
+		Time:	28.09.2025 18:02:24 until 28.09.2025 18:56:29
+		Duration:	00:54:05
+		Location:	NULL NULL
+
+(9) - Run - 10.0 km
+	PNQ3
+		Images:	3206
+		Time:	28.09.2025 18:06:32 until 28.09.2025 23:00:59
+		Duration:	04:54:27
+		Location:	NULL NULL
+
+(10) - Bike - 35.0 km
+	RSK1
+		Images:	5698
+		Time:	28.09.2025 08:38:34 until 28.09.2025 14:12:47
+		Duration:	05:34:13
+		Location:	NULL NULL
+
+(11) - Run - 0.9 km
+	TDB2
+		Images:	6979
+		Time:	28.09.2025 13:19:02 until 28.09.2025 20:02:20
+		Duration:	06:43:18
+		Location:	NULL NULL
+
+	TDB2LS1
+		Images:	828
+		Time:	28.09.2025 13:27:09 until 28.09.2025 15:21:28
+		Duration:	01:54:19
+		Location:	NULL NULL
+
+	TDB2LS2
+		Images:	1555
+		Time:	28.09.2025 15:54:06 until 28.09.2025 17:07:12
+		Duration:	01:13:06
+		Location:	NULL NULL
+
+(12) - Bike - 49.0 km
+	YH1
+		Images:	2762
+		Time:	28.09.2025 09:06:00 until 28.09.2025 14:01:14
+		Duration:	04:55:14
+		Location:	NULL NULL
+
+(13) - Swim - Impressions / Pano
+	PANO1

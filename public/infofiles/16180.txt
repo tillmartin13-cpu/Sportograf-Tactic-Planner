@@ -1,0 +1,575 @@
+EventId: 16180
+Spots: 93
+Total Images: 542442
+Time:	07.12.2025 06:19:22 to 07.12.2025 21:01:36
+Duration: 14:42:14
+
+(1) - Farmers Carry
+	ICUP2LS1
+		Images:	8064
+		Time:	07.12.2025 06:19:22 until 07.12.2025 20:15:33
+		Duration:	13:56:11
+		Location:	51.50697 0.02623
+
+	IDP2LS1
+		Images:	6382
+		Time:	07.12.2025 08:11:03 until 07.12.2025 20:24:29
+		Duration:	12:13:26
+		Location:	51.50697 0.02623
+
+(2) - Finish
+	HBKO1
+		Images:	7323
+		Time:	07.12.2025 09:31:24 until 07.12.2025 17:53:57
+		Duration:	08:22:33
+		Location:	51.50697 0.02623
+
+	HCMS1
+		Images:	20876
+		Time:	07.12.2025 07:41:15 until 07.12.2025 14:22:07
+		Duration:	06:40:52
+		Location:	51.50697 0.02623
+
+	IALN2LS1
+		Images:	7832
+		Time:	07.12.2025 07:43:45 until 07.12.2025 20:17:02
+		Duration:	12:33:17
+		Location:	51.50697 0.02623
+
+	IALN2LS2
+		Images:	3874
+		Time:	07.12.2025 07:46:55 until 07.12.2025 20:17:16
+		Duration:	12:30:21
+		Location:	51.50697 0.02623
+
+	IJAKO1
+		Images:	12695
+		Time:	07.12.2025 14:22:37 until 07.12.2025 20:26:55
+		Duration:	06:04:18
+		Location:	51.50697 0.02623
+
+(3) - Hero Wall
+	HDP1
+		Images:	2766
+		Time:	07.12.2025 08:47:13 until 07.12.2025 14:07:53
+		Duration:	05:20:40
+		Location:	51.50697 0.02623
+
+	HGUF1
+		Images:	3054
+		Time:	07.12.2025 07:57:23 until 07.12.2025 14:16:07
+		Duration:	06:18:44
+		Location:	51.50697 0.02623
+
+	HMAAU1
+		Images:	2316
+		Time:	07.12.2025 08:03:22 until 07.12.2025 14:08:53
+		Duration:	06:05:31
+		Location:	51.50697 0.02623
+
+	HPLA1
+		Images:	2448
+		Time:	07.12.2025 07:55:00 until 07.12.2025 14:22:35
+		Duration:	06:27:35
+		Location:	51.50697 0.02623
+
+	IJAK1
+		Images:	4287
+		Time:	07.12.2025 14:16:33 until 07.12.2025 20:30:54
+		Duration:	06:14:21
+		Location:	51.50697 0.02623
+
+	ILSI1
+		Images:	2430
+		Time:	07.12.2025 14:12:41 until 07.12.2025 20:25:03
+		Duration:	06:12:22
+		Location:	51.50697 0.02623
+
+	IMIMA1
+		Images:	4184
+		Time:	07.12.2025 14:15:39 until 07.12.2025 20:20:03
+		Duration:	06:04:24
+		Location:	51.50697 0.02623
+
+	IMYN1
+		Images:	2506
+		Time:	07.12.2025 14:17:38 until 07.12.2025 20:20:27
+		Duration:	06:02:49
+		Location:	51.50697 0.02623
+
+(4) - Impressions / Pano
+	HTHB5
+		Images:	97
+		Time:	07.12.2025 06:39:41 until 07.12.2025 07:17:37
+		Duration:	00:37:56
+		Location:	51.50697 0.02623
+
+(5) - Rowing
+	HALN1
+		Images:	1331
+		Time:	07.12.2025 14:56:11 until 07.12.2025 18:00:22
+		Duration:	03:04:11
+		Location:	51.50697 0.02623
+
+	HARRM1
+		Images:	7191
+		Time:	07.12.2025 07:32:47 until 07.12.2025 13:58:10
+		Duration:	06:25:23
+		Location:	51.50697 0.02623
+
+	HCUP1
+		Images:	5232
+		Time:	07.12.2025 07:42:07 until 07.12.2025 18:09:21
+		Duration:	10:27:14
+		Location:	51.50697 0.02623
+
+	HJAK1
+		Images:	10250
+		Time:	07.12.2025 07:01:46 until 07.12.2025 13:58:07
+		Duration:	06:56:21
+		Location:	51.50697 0.02623
+
+	HMALV1
+		Images:	13913
+		Time:	07.12.2025 09:17:25 until 07.12.2025 17:59:20
+		Duration:	08:41:55
+		Location:	51.50697 0.02623
+
+	HMKH1
+		Images:	4489
+		Time:	07.12.2025 07:33:27 until 07.12.2025 13:45:36
+		Duration:	06:12:09
+		Location:	51.50697 0.02623
+
+	HTHB1
+		Images:	4393
+		Time:	07.12.2025 09:26:46 until 07.12.2025 18:00:09
+		Duration:	08:33:23
+		Location:	51.50697 0.02623
+
+	HTOMY1
+		Images:	13791
+		Time:	07.12.2025 07:28:27 until 07.12.2025 13:53:25
+		Duration:	06:24:58
+		Location:	51.50697 0.02623
+
+	IGAT1
+		Images:	6098
+		Time:	07.12.2025 14:02:41 until 07.12.2025 19:20:39
+		Duration:	05:17:58
+		Location:	51.50697 0.02623
+
+	ILEBE1
+		Images:	4520
+		Time:	07.12.2025 14:04:13 until 07.12.2025 19:45:31
+		Duration:	05:41:18
+		Location:	51.50697 0.02623
+
+	ILOT1
+		Images:	12722
+		Time:	07.12.2025 13:57:44 until 07.12.2025 18:53:14
+		Duration:	04:55:30
+		Location:	51.50697 0.02623
+
+	IWIN1
+		Images:	5790
+		Time:	07.12.2025 14:03:14 until 07.12.2025 19:49:35
+		Duration:	05:46:21
+		Location:	51.50697 0.02623
+
+(6) - Run
+	IBKO2LS1
+		Images:	5032
+		Time:	07.12.2025 07:17:28 until 07.12.2025 18:50:45
+		Duration:	11:33:17
+		Location:	51.50697 0.02623
+
+	IBKO2LS2
+		Images:	5781
+		Time:	07.12.2025 07:17:16 until 07.12.2025 19:38:05
+		Duration:	12:20:49
+		Location:	51.50697 0.02623
+
+(7) - Sandbag Lunges
+	HALN2
+		Images:	4738
+		Time:	07.12.2025 15:06:53 until 07.12.2025 18:40:37
+		Duration:	03:33:44
+		Location:	51.50697 0.02623
+
+	HCUP2
+		Images:	4673
+		Time:	07.12.2025 09:58:54 until 07.12.2025 18:39:34
+		Duration:	08:40:40
+		Location:	51.50697 0.02623
+
+	HJOEM1
+		Images:	9307
+		Time:	07.12.2025 07:14:49 until 07.12.2025 13:57:40
+		Duration:	06:42:51
+		Location:	51.50697 0.02623
+
+	HMALV2
+		Images:	12101
+		Time:	07.12.2025 09:59:07 until 07.12.2025 18:38:34
+		Duration:	08:39:27
+		Location:	51.50697 0.02623
+
+	HMIMA1
+		Images:	7675
+		Time:	07.12.2025 07:41:53 until 07.12.2025 14:05:46
+		Duration:	06:23:53
+		Location:	51.50697 0.02623
+
+	HOH1
+		Images:	4242
+		Time:	07.12.2025 07:42:22 until 07.12.2025 14:00:44
+		Duration:	06:18:22
+		Location:	51.50697 0.02623
+
+	HSHP1
+		Images:	6185
+		Time:	07.12.2025 07:27:00 until 07.12.2025 14:04:13
+		Duration:	06:37:13
+		Location:	51.50697 0.02623
+
+	HTHB2
+		Images:	6948
+		Time:	07.12.2025 10:01:46 until 07.12.2025 18:38:41
+		Duration:	08:36:55
+		Location:	51.50697 0.02623
+
+	IDART1
+		Images:	7753
+		Time:	07.12.2025 13:58:30 until 07.12.2025 20:03:43
+		Duration:	06:05:13
+		Location:	51.50697 0.02623
+
+	IKYY1
+		Images:	9741
+		Time:	07.12.2025 14:04:44 until 07.12.2025 20:05:31
+		Duration:	06:00:47
+		Location:	51.50697 0.02623
+
+	ILZA1
+		Images:	2440
+		Time:	07.12.2025 14:01:20 until 07.12.2025 19:58:09
+		Duration:	05:56:49
+		Location:	51.50697 0.02623
+
+	IRLW1
+		Images:	8359
+		Time:	07.12.2025 14:16:42 until 07.12.2025 19:58:51
+		Duration:	05:42:09
+		Location:	51.50697 0.02623
+
+(8) - SkiErg
+	HAGP1
+		Images:	3187
+		Time:	07.12.2025 07:03:26 until 07.12.2025 13:48:55
+		Duration:	06:45:29
+		Location:	51.50697 0.02623
+
+	HCM1
+		Images:	11743
+		Time:	07.12.2025 07:03:16 until 07.12.2025 13:54:50
+		Duration:	06:51:34
+		Location:	51.50697 0.02623
+
+	HCUP4
+		Images:	638
+		Time:	07.12.2025 13:54:06 until 07.12.2025 14:09:02
+		Duration:	00:14:56
+		Location:	51.50697 0.02623
+
+	HKMIN1
+		Images:	6340
+		Time:	07.12.2025 07:03:12 until 07.12.2025 13:48:20
+		Duration:	06:45:08
+		Location:	51.50697 0.02623
+
+	HLOT1
+		Images:	8834
+		Time:	07.12.2025 07:01:42 until 07.12.2025 13:46:57
+		Duration:	06:45:15
+		Location:	51.50697 0.02623
+
+	HSAL1
+		Images:	4492
+		Time:	07.12.2025 07:03:42 until 07.12.2025 13:56:46
+		Duration:	06:53:04
+		Location:	51.50697 0.02623
+
+	HSHAK1
+		Images:	4433
+		Time:	07.12.2025 06:52:52 until 07.12.2025 13:48:24
+		Duration:	06:55:32
+		Location:	51.50697 0.02623
+
+	HTHB4
+		Images:	1988
+		Time:	07.12.2025 07:26:18 until 07.12.2025 14:06:34
+		Duration:	06:40:16
+		Location:	51.50697 0.02623
+
+	IAHO1
+		Images:	4527
+		Time:	07.12.2025 14:03:30 until 07.12.2025 18:54:40
+		Duration:	04:51:10
+		Location:	51.50697 0.02623
+
+	ICNS1
+		Images:	5234
+		Time:	07.12.2025 14:14:49 until 07.12.2025 18:56:00
+		Duration:	04:41:11
+		Location:	51.50697 0.02623
+
+	IDAWH1
+		Images:	2141
+		Time:	07.12.2025 14:14:03 until 07.12.2025 18:54:02
+		Duration:	04:39:59
+		Location:	51.50697 0.02623
+
+	IKSTH1
+		Images:	6274
+		Time:	07.12.2025 14:25:10 until 07.12.2025 18:51:08
+		Duration:	04:25:58
+		Location:	51.50697 0.02623
+
+	ILRE1
+		Images:	6218
+		Time:	07.12.2025 13:58:06 until 07.12.2025 18:53:21
+		Duration:	04:55:15
+		Location:	51.50697 0.02623
+
+	IYCAN1
+		Images:	19728
+		Time:	07.12.2025 14:26:23 until 07.12.2025 18:54:42
+		Duration:	04:28:19
+		Location:	51.50697 0.02623
+
+(9) - Sled Pull
+	HCNS1
+		Images:	7744
+		Time:	07.12.2025 06:49:39 until 07.12.2025 14:01:01
+		Duration:	07:11:22
+		Location:	51.50697 0.02623
+
+	HDAWH1
+		Images:	4306
+		Time:	07.12.2025 07:01:25 until 07.12.2025 14:01:13
+		Duration:	06:59:48
+		Location:	51.50697 0.02623
+
+	HGAT1
+		Images:	4332
+		Time:	07.12.2025 06:58:16 until 07.12.2025 13:48:36
+		Duration:	06:50:20
+		Location:	51.50697 0.02623
+
+	HLEBE1
+		Images:	2944
+		Time:	07.12.2025 07:17:14 until 07.12.2025 13:50:13
+		Duration:	06:32:59
+		Location:	51.50697 0.02623
+
+	HLZA1
+		Images:	3319
+		Time:	07.12.2025 07:12:18 until 07.12.2025 13:52:03
+		Duration:	06:39:45
+		Location:	51.50697 0.02623
+
+	HRLW1
+		Images:	6341
+		Time:	07.12.2025 07:18:19 until 07.12.2025 14:04:22
+		Duration:	06:46:03
+		Location:	51.50697 0.02623
+
+	IAGP1
+		Images:	3586
+		Time:	07.12.2025 13:59:56 until 07.12.2025 18:57:24
+		Duration:	04:57:28
+		Location:	51.50697 0.02623
+
+	ICM1
+		Images:	4617
+		Time:	07.12.2025 14:01:17 until 07.12.2025 19:13:14
+		Duration:	05:11:57
+		Location:	51.50697 0.02623
+
+	IKMIN1
+		Images:	4295
+		Time:	07.12.2025 13:57:48 until 07.12.2025 18:57:01
+		Duration:	04:59:13
+		Location:	51.50697 0.02623
+
+	ISAL1
+		Images:	3192
+		Time:	07.12.2025 14:10:48 until 07.12.2025 19:24:41
+		Duration:	05:13:53
+		Location:	51.50697 0.02623
+
+	ISHAK1
+		Images:	3714
+		Time:	07.12.2025 14:00:24 until 07.12.2025 19:07:40
+		Duration:	05:07:16
+		Location:	51.50697 0.02623
+
+	ITOMY1
+		Images:	9879
+		Time:	07.12.2025 14:09:43 until 07.12.2025 19:22:13
+		Duration:	05:12:30
+		Location:	51.50697 0.02623
+
+(10) - Sled Push
+	HAHO1
+		Images:	2604
+		Time:	07.12.2025 07:11:38 until 07.12.2025 13:58:50
+		Duration:	06:47:12
+		Location:	51.50697 0.02623
+
+	HDART1
+		Images:	5391
+		Time:	07.12.2025 07:09:46 until 07.12.2025 13:58:10
+		Duration:	06:48:24
+		Location:	51.50697 0.02623
+
+	HKYY1
+		Images:	5064
+		Time:	07.12.2025 07:11:33 until 07.12.2025 13:58:39
+		Duration:	06:47:06
+		Location:	51.50697 0.02623
+
+	HLRE1
+		Images:	3635
+		Time:	07.12.2025 07:09:07 until 07.12.2025 13:50:12
+		Duration:	06:41:05
+		Location:	51.50697 0.02623
+
+	HLSI1
+		Images:	2468
+		Time:	07.12.2025 07:11:20 until 07.12.2025 13:47:14
+		Duration:	06:35:54
+		Location:	51.50697 0.02623
+
+	HMALV4
+		Images:	2866
+		Time:	07.12.2025 07:20:32 until 07.12.2025 14:09:39
+		Duration:	06:49:07
+		Location:	51.50697 0.02623
+
+	HWIN1
+		Images:	5208
+		Time:	07.12.2025 07:11:26 until 07.12.2025 13:57:51
+		Duration:	06:46:25
+		Location:	51.50697 0.02623
+
+	IARRM1
+		Images:	3073
+		Time:	07.12.2025 14:09:39 until 07.12.2025 19:02:22
+		Duration:	04:52:43
+		Location:	51.50697 0.02623
+
+	IJOEM1
+		Images:	2893
+		Time:	07.12.2025 14:16:20 until 07.12.2025 19:08:19
+		Duration:	04:51:59
+		Location:	51.50697 0.02623
+
+	IMAAU1
+		Images:	3604
+		Time:	07.12.2025 14:22:59 until 07.12.2025 18:50:32
+		Duration:	04:27:33
+		Location:	51.50697 0.02623
+
+	IMKH1
+		Images:	3064
+		Time:	07.12.2025 14:04:13 until 07.12.2025 18:56:47
+		Duration:	04:52:34
+		Location:	51.50697 0.02623
+
+	IPLA1
+		Images:	3494
+		Time:	07.12.2025 14:35:14 until 07.12.2025 19:07:27
+		Duration:	04:32:13
+		Location:	51.50697 0.02623
+
+	ISHP1
+		Images:	4399
+		Time:	07.12.2025 14:11:21 until 07.12.2025 19:06:33
+		Duration:	04:55:12
+		Location:	51.50697 0.02623
+
+(11) - Wall Balls
+	HALN3
+		Images:	3044
+		Time:	07.12.2025 15:49:08 until 07.12.2025 19:23:31
+		Duration:	03:34:23
+		Location:	51.50697 0.02623
+
+	HCUP3
+		Images:	2989
+		Time:	07.12.2025 06:59:52 until 07.12.2025 19:20:07
+		Duration:	12:20:15
+		Location:	51.50697 0.02623
+
+	HJAKO1
+		Images:	4183
+		Time:	07.12.2025 07:46:43 until 07.12.2025 14:16:11
+		Duration:	06:29:28
+		Location:	51.50697 0.02623
+
+	HKSTH1
+		Images:	8378
+		Time:	07.12.2025 07:53:01 until 07.12.2025 14:08:42
+		Duration:	06:15:41
+		Location:	51.50697 0.02623
+
+	HMALV3
+		Images:	6969
+		Time:	07.12.2025 10:38:09 until 07.12.2025 19:21:29
+		Duration:	08:43:20
+		Location:	51.50697 0.02623
+
+	HMYN1
+		Images:	3346
+		Time:	07.12.2025 07:49:54 until 07.12.2025 13:55:48
+		Duration:	06:05:54
+		Location:	51.50697 0.02623
+
+	HTHB3
+		Images:	4954
+		Time:	07.12.2025 10:38:47 until 07.12.2025 19:20:26
+		Duration:	08:41:39
+		Location:	51.50697 0.02623
+
+	HYCAN1
+		Images:	13247
+		Time:	07.12.2025 06:47:20 until 07.12.2025 14:17:42
+		Duration:	07:30:22
+		Location:	51.50697 0.02623
+
+	ICMS1
+		Images:	6426
+		Time:	07.12.2025 14:27:47 until 07.12.2025 20:00:41
+		Duration:	05:32:54
+		Location:	51.50697 0.02623
+
+	IDP1
+		Images:	11904
+		Time:	07.12.2025 14:18:05 until 07.12.2025 20:58:24
+		Duration:	06:40:19
+		Location:	51.50697 0.02623
+
+	IGUF1
+		Images:	4716
+		Time:	07.12.2025 14:21:01 until 07.12.2025 21:01:36
+		Duration:	06:40:35
+		Location:	51.50697 0.02623
+
+	IOH1
+		Images:	4648
+		Time:	07.12.2025 14:08:47 until 07.12.2025 20:19:39
+		Duration:	06:10:52
+		Location:	51.50697 0.02623
+

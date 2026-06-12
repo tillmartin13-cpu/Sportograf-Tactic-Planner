@@ -1,0 +1,379 @@
+EventId: 16999
+Spots: 54
+Total Images: 705315
+Time:	01.01.0001 23:00:00 to 21.06.2025 16:25:23
+Duration: 739421.17:25:23
+
+(1) - 0.0 km alan ng - msc 1, 861880
+	ANG1
+		Images:	6029
+		Time:	21.06.2025 06:24:52 until 21.06.2025 07:13:20
+		Duration:	00:48:28
+		Location:	NULL NULL
+
+(2) - 0.0 km alan ng, msc 3, 861883
+	ALAN1
+		Images:	8635
+		Time:	21.06.2025 08:11:40 until 21.06.2025 09:08:32
+		Duration:	00:56:52
+		Location:	NULL NULL
+
+(3) - 0.0 km alan ng, msc 6, 861866
+	CALAN1
+		Images:	31675
+		Time:	21.06.2025 10:36:36 until 21.06.2025 15:25:10
+		Duration:	04:48:34
+		Location:	NULL NULL
+
+(4) - 0.0 km amber nichols, msc 5, 861857
+	BAMB1
+		Images:	16652
+		Time:	21.06.2025 06:22:24 until 21.06.2025 09:33:41
+		Duration:	03:11:17
+		Location:	NULL NULL
+
+(5) - 0.0 km Andra Johnson, msc 5, 861858
+	BANDR1
+		Images:	14972
+		Time:	20.06.2025 18:40:00 until 21.06.2025 03:18:24
+		Duration:	08:38:24
+		Location:	NULL NULL
+
+(6) - 0.0 km Brenda steiger, finish, 861837
+	BREND1
+		Images:	15045
+		Time:	21.06.2025 07:16:50 until 21.06.2025 13:50:26
+		Duration:	06:33:36
+		Location:	NULL NULL
+
+(7) - 0.0 km Caitlin kroll - PFN, 861852
+	CAIT1
+		Images:	27562
+		Time:	21.06.2025 07:11:45 until 21.06.2025 16:21:17
+		Duration:	09:09:32
+		Location:	NULL NULL
+
+(8) - 0.0 km Carrie Becker, banners, 861841
+	CARRI1
+		Images:	958
+		Time:	21.06.2025 06:54:49 until 21.06.2025 13:31:57
+		Duration:	06:37:08
+		Location:	NULL NULL
+
+(9) - 0.0 km cheryl carlson, msc 6, 861865
+	CCARL1
+		Images:	9202
+		Time:	21.06.2025 06:12:00 until 21.06.2025 13:00:50
+		Duration:	06:48:50
+		Location:	NULL NULL
+
+(10) - 0.0 km chris juhn msc 7 861867
+	CJUHN1
+		Images:	9309
+		Time:	21.06.2025 07:59:26 until 21.06.2025 14:51:36
+		Duration:	06:52:10
+		Location:	NULL NULL
+
+(11) - 0.0 km chris juhn, msc 7, 861867
+	AJUHN1
+		Images:	5410
+		Time:	21.06.2025 06:32:43 until 21.06.2025 08:56:38
+		Duration:	02:23:55
+		Location:	NULL NULL
+
+(12) - 0.0 km Claire Schuh, msc 6, 861863
+	BCLAI1
+		Images:	9653
+		Time:	21.06.2025 07:30:01 until 21.06.2025 11:35:22
+		Duration:	04:05:21
+		Location:	NULL NULL
+
+(13) - 0.0 km dave zbaracki, msc 7, 861869
+	CDAVE1
+		Images:	8104
+		Time:	21.06.2025 08:15:48 until 21.06.2025 14:56:20
+		Duration:	06:40:32
+		Location:	NULL NULL
+
+(14) - 0.0 km finish trigger 861839, right side.
+	CRFT1
+		Images:	6383
+		Time:	21.06.2025 10:03:31 until 21.06.2025 11:49:56
+		Duration:	01:46:25
+		Location:	NULL NULL
+
+(15) - 0.0 km finish trigger left side, 861838
+	CLFT1
+		Images:	43886
+		Time:	21.06.2025 06:33:47 until 21.06.2025 14:57:46
+		Duration:	08:23:59
+		Location:	NULL NULL
+
+(16) - 0.0 km finish trigger right side
+	FINR1
+		Images:	10023
+		Time:	31.12.2013 18:00:02 until 21.06.2025 07:17:41
+		Duration:	4189.13:17:39
+		Location:	NULL NULL
+
+(17) - 0.0 km gabriella brisbois, msc 5, 861859
+	BGAB1
+		Images:	10017
+		Time:	21.06.2025 07:30:37 until 21.06.2025 15:17:13
+		Duration:	07:46:36
+		Location:	NULL NULL
+
+(18) - 0.0 km jay stoneburner, OFP, 861844
+	JAY1
+		Images:	632
+		Time:	21.06.2025 06:19:52 until 21.06.2025 13:53:43
+		Duration:	07:33:51
+		Location:	NULL NULL
+
+(19) - 0.0 km jeff alltop, msc 6, 861862
+	CTOP1
+		Images:	29012
+		Time:	21.06.2025 07:31:18 until 21.06.2025 15:06:24
+		Duration:	07:35:06
+		Location:	NULL NULL
+
+(20) - 0.0 km jeff lautenberg, pfn, 861850
+	LAUT1
+		Images:	30639
+		Time:	21.06.2025 07:33:58 until 21.06.2025 15:17:34
+		Duration:	07:43:36
+		Location:	NULL NULL
+
+(21) - 0.0 km jennifer gallant, msc 7. 861868
+	CJENN1
+		Images:	30295
+		Time:	21.06.2025 06:32:00 until 21.06.2025 14:17:02
+		Duration:	07:45:02
+		Location:	NULL NULL
+
+(22) - 0.0 km jonathan roberts, 861851, pfn
+	JROB1
+		Images:	21232
+		Time:	21.06.2025 07:33:31 until 21.06.2025 15:34:45
+		Duration:	08:01:14
+		Location:	NULL NULL
+
+(23) - 0.0 km keith tromiczak, msc 2, 861874
+	AKEIT1
+		Images:	3442
+		Time:	21.06.2025 06:46:27 until 21.06.2025 07:49:44
+		Duration:	01:03:17
+		Location:	NULL NULL
+
+(24) - 0.0 km keith tromiczak, msc 4, 861877
+	KEITH1
+		Images:	2872
+		Time:	21.06.2025 08:48:21 until 21.06.2025 09:42:29
+		Duration:	00:54:08
+		Location:	NULL NULL
+
+(25) - 0.0 km keith tromiczak, msc 5, 861860
+	BTROM1
+		Images:	16274
+		Time:	01.01.0001 23:00:00 until 21.06.2025 15:15:16
+		Duration:	739421.16:15:16
+		Location:	NULL NULL
+
+(26) - 0.0 km mari woodmansee, msc 6 861864
+	CMARI1
+		Images:	13677
+		Time:	21.06.2025 07:31:25 until 21.06.2025 15:20:22
+		Duration:	07:48:57
+		Location:	NULL NULL
+
+(27) - 0.0 km mason lehto, medals, 861846
+	MASON1
+		Images:	2167
+		Time:	21.06.2025 07:38:01 until 21.06.2025 14:36:16
+		Duration:	06:58:15
+		Location:	NULL NULL
+
+(28) - 0.0 km michelle halling, 861853, pfn
+	AHALL1
+		Images:	6119
+		Time:	20.06.2025 07:18:43 until 20.06.2025 19:05:35
+		Duration:	11:46:52
+		Location:	NULL NULL
+
+(29) - 0.0 km Phillip reyes, pfn
+	REYES1
+		Images:	29691
+		Time:	21.06.2025 06:45:24 until 21.06.2025 15:27:25
+		Duration:	08:42:01
+		Location:	NULL NULL
+
+(30) - 0.0 km pre finish upshot
+	PREUP1
+		Images:	22101
+		Time:	21.06.2025 08:31:46 until 21.06.2025 14:48:42
+		Duration:	06:16:56
+		Location:	NULL NULL
+
+(31) - 0.0 km rachel czech msc 5, 861861
+	BRACH1
+		Images:	10265
+		Time:	21.06.2025 12:34:10 until 21.06.2025 16:25:23
+		Duration:	03:51:13
+		Location:	NULL NULL
+
+(32) - 0.0 km rachel czech, msc 2, 861875
+	ARACH1
+		Images:	7348
+		Time:	21.06.2025 07:49:31 until 21.06.2025 09:04:49
+		Duration:	01:15:18
+		Location:	NULL NULL
+
+(33) - 0.0 km rachel czech, msc 4, 861878
+	RACH1
+		Images:	5779
+		Time:	21.06.2025 09:42:19 until 21.06.2025 10:53:43
+		Duration:	01:11:24
+		Location:	NULL NULL
+
+(34) - 0.0 km Ryan - medals, 861849
+	BRYAN1
+		Images:	1565
+		Time:	21.06.2025 07:33:31 until 21.06.2025 14:36:14
+		Duration:	07:02:43
+		Location:	NULL NULL
+
+(35) - 0.0 km ryan pletz msc 1, 861881
+	APLET1
+		Images:	2193
+		Time:	21.06.2025 06:26:01 until 21.06.2025 07:14:41
+		Duration:	00:48:40
+		Location:	NULL NULL
+
+(36) - 0.0 km ryan pletz, 861870, msc 7
+	CPLET1
+		Images:	8563
+		Time:	21.06.2025 10:27:44 until 21.06.2025 15:41:58
+		Duration:	05:14:14
+		Location:	NULL NULL
+
+(37) - 0.0 km ryan pletz, msc 3, 861884
+	ARYAN1
+		Images:	2508
+		Time:	21.06.2025 07:52:25 until 21.06.2025 09:06:10
+		Duration:	01:13:45
+		Location:	NULL NULL
+
+(38) - 0.0 km stephanie saucier, medals, 861847
+	CSTEP1
+		Images:	2283
+		Time:	20.06.2025 19:38:00 until 21.06.2025 03:24:10
+		Duration:	07:46:10
+		Location:	NULL NULL
+
+(39) - 0.0 km tad, medals
+	CTAD1
+		Images:	4162
+		Time:	21.06.2025 07:28:45 until 21.06.2025 15:24:35
+		Duration:	07:55:50
+		Location:	NULL NULL
+
+(40) - 0.0 km toby cheung, 861836, finish line
+	TOBY1
+		Images:	36443
+		Time:	21.06.2025 08:32:56 until 21.06.2025 13:32:57
+		Duration:	05:00:01
+		Location:	NULL NULL
+
+(41) - 0.0 km toby cheung, finish, 861836
+	CHEUN1
+		Images:	12246
+		Time:	21.06.2025 13:34:10 until 21.06.2025 15:50:28
+		Duration:	02:16:18
+		Location:	NULL NULL
+
+(42) - 0.0 km trigger cam 1 msc 5, 865970
+	SEIS1
+		Images:	21432
+		Time:	01.01.2014 03:59:04 until 01.01.2014 08:02:54
+		Duration:	04:03:50
+		Location:	NULL NULL
+
+(43) - 0.0 km trigger cam 2, 865969, msc 5,
+	SEVEN1
+		Images:	25640
+		Time:	01.01.2014 00:04:12 until 01.01.2014 04:13:37
+		Duration:	04:09:25
+		Location:	NULL NULL
+
+(44) - 0.0 km trigger cam msc 7, 861871
+	CAUTO1
+		Images:	26203
+		Time:	21.06.2025 07:32:01 until 21.06.2025 15:51:08
+		Duration:	08:19:07
+		Location:	NULL NULL
+
+(45) - 0.0 km trigger msc 1, 861882
+	UNO1
+		Images:	2198
+		Time:	21.06.2025 06:39:30 until 21.06.2025 08:14:09
+		Duration:	01:34:39
+		Location:	NULL NULL
+
+(46) - 0.0 km trigger msc 4, 861879
+	FOUR1
+		Images:	4121
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(47) - 0.0 km trigger, msc 2, 861876
+	DOS1
+		Images:	4165
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(48) - 0.0 km trigger, msc 3, 861885
+	TRES1
+		Images:	2843
+		Time:	21.06.2025 08:53:03 until 21.06.2025 10:07:26
+		Duration:	01:14:23
+		Location:	NULL NULL
+
+(49) - 0.0 km trigger, msc 6, 865971
+	CTRIG1
+		Images:	14531
+		Time:	21.06.2025 11:27:37 until 21.06.2025 15:22:55
+		Duration:	03:55:18
+		Location:	NULL NULL
+
+(50) - 0.0 km trigger, msc 6, 865972
+	OCHO1
+		Images:	21093
+		Time:	21.06.2025 07:58:34 until 21.06.2025 16:07:57
+		Duration:	08:09:23
+		Location:	NULL NULL
+
+(51) - 0.0 km trigger, pfn, 861854, right side
+	BPFTR1
+		Images:	9820
+		Time:	21.06.2025 08:45:28 until 21.06.2025 12:38:18
+		Duration:	03:52:50
+		Location:	NULL NULL
+
+(52) - 0.0 km trigger, pfn, left side 861856
+	BTPF1
+		Images:	19650
+		Time:	21.06.2025 07:32:41 until 21.06.2025 15:05:53
+		Duration:	07:33:12
+		Location:	NULL NULL
+
+(53) - 0.0 km upshot phillip
+	TRIG1
+		Images:	18596
+		Time:	01.01.0001 23:00:00 until 21.06.2025 12:37:12
+		Duration:	739421.13:37:12
+		Location:	NULL NULL
+
+(54) - Impressions / Pano
+	PANO1

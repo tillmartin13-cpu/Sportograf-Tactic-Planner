@@ -1,0 +1,132 @@
+EventId: 14764
+Spots: 19
+Total Images: 90460
+Time:	04.07.2025 12:25:39 to 05.07.2025 20:10:52
+Duration: 1.07:45:13
+
+(1) - Obstacle 10 Log Carry
+	PINO1
+		Images:	4609
+		Time:	05.07.2025 09:14:39 until 05.07.2025 16:33:18
+		Duration:	07:18:39
+		Location:	46.14413 6.71428
+
+(2) - Obstacle 19 Cascade Bet Climb
+	EB1
+		Images:	10737
+		Time:	05.07.2025 09:00:24 until 05.07.2025 19:35:27
+		Duration:	10:35:03
+		Location:	46.16577 6.71181
+
+	RLLA2
+		Images:	1515
+		Time:	05.07.2025 15:42:46 until 05.07.2025 18:14:30
+		Duration:	02:31:44
+		Location:	46.16577 6.71181
+
+	EB1LS2
+		Images:	2111
+		Time:	05.07.2025 10:25:12 until 05.07.2025 18:38:12
+		Duration:	08:13:00
+		Location:	46.16577 6.71181
+
+	EB1LS1
+		Images:	2239
+		Time:	05.07.2025 09:06:59 until 05.07.2025 19:06:52
+		Duration:	09:59:53
+		Location:	46.16577 6.71181
+
+(3) - Obstacle 11 Small A Frame
+	ARF1
+		Images:	5143
+		Time:	05.07.2025 08:34:55 until 05.07.2025 17:45:55
+		Duration:	09:11:00
+		Location:	46.14667 6.72187
+
+(4) - Obstacle 22 Inverted Wall
+	LAPO1
+		Images:	2371
+		Time:	05.07.2025 10:36:50 until 05.07.2025 14:47:01
+		Duration:	04:10:11
+		Location:	46.18241 6.70649
+
+(5) - Obstacle 34 Barbed Wired
+	GAT1
+		Images:	7025
+		Time:	05.07.2025 08:15:01 until 05.07.2025 13:51:06
+		Duration:	05:36:05
+		Location:	46.19175 6.69626
+
+(6) - Obstacle 34 Bucket CArry
+	RLLA1
+		Images:	7650
+		Time:	05.07.2025 08:16:54 until 05.07.2025 13:58:01
+		Duration:	05:41:07
+		Location:	46.19066 6.69823
+
+(7) - Obstacle 35 Armer
+	BEB1
+		Images:	3697
+		Time:	05.07.2025 08:20:35 until 05.07.2025 14:07:38
+		Duration:	05:47:03
+		Location:	46.18288 6.70426
+
+	IVB1
+		Images:	3195
+		Time:	05.07.2025 08:20:27 until 05.07.2025 14:07:35
+		Duration:	05:47:08
+		Location:	46.18288 6.70426
+
+(8) - Obstacle 39 Cliombing Net
+	AMU1
+		Images:	5618
+		Time:	05.07.2025 08:12:50 until 05.07.2025 14:36:26
+		Duration:	06:23:36
+		Location:	46.18302 6.70448
+
+(9) - Obstacle 26 Monkey Bar
+	LTU1
+		Images:	5522
+		Time:	05.07.2025 08:24:49 until 05.07.2025 14:24:57
+		Duration:	06:00:08
+		Location:	46.18288 6.70426
+
+(10) - Obstacle 53 Fire Jump
+	CC1
+		Images:	7674
+		Time:	05.07.2025 10:09:59 until 05.07.2025 20:01:18
+		Duration:	09:51:19
+		Location:	46.18302 6.70577
+
+	FRN1LS2
+		Images:	690
+		Time:	05.07.2025 09:35:05 until 05.07.2025 20:08:52
+		Duration:	10:33:47
+		Location:	46.18302 6.70577
+
+	FRN1LS1
+		Images:	12193
+		Time:	05.07.2025 09:26:32 until 05.07.2025 20:02:27
+		Duration:	10:35:55
+		Location:	46.18302 6.70577
+
+(11) - Impressions / Pano
+	FRN1DRONE2
+		Images:	56
+		Time:	04.07.2025 12:25:39 until 05.07.2025 16:14:55
+		Duration:	1.03:49:16
+		Location:	46.18302 6.70577
+
+(12) - Herotent
+	LAPO2
+		Images:	1440
+		Time:	05.07.2025 14:47:13 until 05.07.2025 19:53:46
+		Duration:	05:06:33
+		Location:	46.18302 6.70577
+
+	DART1
+		Images:	6975
+		Time:	05.07.2025 10:06:58 until 05.07.2025 20:10:52
+		Duration:	10:03:54
+		Location:	46.18302 6.70577
+

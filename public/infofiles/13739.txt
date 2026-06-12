@@ -1,0 +1,127 @@
+EventId: 13739
+Spots: 18
+Total Images: 13219
+Time:	22.04.2025 09:27:42 to 22.04.2025 17:44:58
+Duration: 08:17:16
+
+(1) - Start
+	MPP1
+		Images:	342
+		Time:	22.04.2025 09:27:42 until 22.04.2025 11:01:45
+		Duration:	01:34:03
+		Location:	39.87860 3.02378
+
+(2) - 14.0 km
+	KKP1
+		Images:	312
+		Time:	22.04.2025 10:16:14 until 22.04.2025 12:16:15
+		Duration:	02:00:01
+		Location:	39.79288 2.96420
+
+(3) - 24.0 km
+	MICE1
+		Images:	530
+		Time:	22.04.2025 10:31:52 until 22.04.2025 12:14:34
+		Duration:	01:42:42
+		Location:	39.77683 2.89845
+
+(4) - 28.6 km
+	ACC1
+		Images:	766
+		Time:	22.04.2025 10:47:18 until 22.04.2025 12:41:58
+		Duration:	01:54:40
+		Location:	39.80684 2.89844
+
+	ACC1LS1
+		Images:	418
+		Time:	22.04.2025 10:44:55 until 22.04.2025 12:43:13
+		Duration:	01:58:18
+		Location:	39.80684 2.89844
+
+(5) - 40.5 km
+	ACC2
+		Images:	546
+		Time:	22.04.2025 13:38:00 until 22.04.2025 13:44:08
+		Duration:	00:06:08
+		Location:	39.80890 2.82091
+
+	ACC2LS1
+		Images:	189
+		Time:	22.04.2025 13:36:55 until 22.04.2025 13:43:28
+		Duration:	00:06:33
+		Location:	39.80890 2.82091
+
+(6) - Puig Major climb
+	MICE2
+		Images:	1921
+		Time:	22.04.2025 13:41:22 until 22.04.2025 14:48:45
+		Duration:	01:07:23
+		Location:	39.80003 2.78600
+
+(7) - Puig major climb 1
+	MICE2LS1
+		Images:	332
+		Time:	22.04.2025 14:04:25 until 22.04.2025 14:48:52
+		Duration:	00:44:27
+		Location:	39.80003 2.78600
+
+(8) - Puig Major climb 2
+	MPP2
+		Images:	1311
+		Time:	22.04.2025 14:01:51 until 22.04.2025 15:32:23
+		Duration:	01:30:32
+		Location:	39.80847 2.79557
+
+(9) - Puig Major summit
+	KKP2
+		Images:	2016
+		Time:	22.04.2025 14:24:52 until 22.04.2025 15:34:20
+		Duration:	01:09:28
+		Location:	39.80816 2.79459
+
+(10) - Puig Major descent 1
+	KKP3
+		Images:	383
+		Time:	22.04.2025 15:35:24 until 22.04.2025 16:00:37
+		Duration:	00:25:13
+		Location:	39.80743 2.79442
+
+(11) - Puig Major descent 2
+	MPP3
+		Images:	497
+		Time:	22.04.2025 15:37:22 until 22.04.2025 17:44:58
+		Duration:	02:07:36
+		Location:	39.80672 2.79366
+
+(12) - Puig Major descent 3
+	MICE3
+		Images:	2480
+		Time:	22.04.2025 15:04:32 until 22.04.2025 16:07:47
+		Duration:	01:03:15
+		Location:	39.80004 2.78595
+
+	MICE3LS1
+		Images:	206
+		Time:	22.04.2025 14:55:56 until 22.04.2025 16:08:15
+		Duration:	01:12:19
+		Location:	39.80004 2.78595
+
+(13) - Finish
+	ACC3
+		Images:	503
+		Time:	22.04.2025 17:24:21 until 22.04.2025 17:40:59
+		Duration:	00:16:38
+		Location:	39.87856 3.02392
+
+	ACC3LS2
+		Images:	229
+		Time:	22.04.2025 16:59:45 until 22.04.2025 17:38:55
+		Duration:	00:39:10
+		Location:	39.87856 3.02392
+
+	ACC3LS1
+		Images:	238
+		Time:	22.04.2025 14:52:16 until 22.04.2025 17:39:42
+		Duration:	02:47:26
+		Location:	39.87856 3.02392
+

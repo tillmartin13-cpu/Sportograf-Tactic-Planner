@@ -1,0 +1,340 @@
+EventId: 13448
+Spots: 54
+Total Images: 393856
+Time:	22.10.2025 07:08:20 to 24.10.2025 22:52:19
+Duration: 2.15:43:59
+
+(1) - Skierg
+	YCAN1
+		Images:	17804
+		Time:	22.10.2025 07:21:30 until 24.10.2025 14:49:29
+		Duration:	2.07:27:59
+		Location:	52.45161 -1.72346
+
+	WIN1
+		Images:	8885
+		Time:	22.10.2025 08:20:19 until 24.10.2025 14:47:28
+		Duration:	2.06:27:09
+		Location:	52.45161 -1.72346
+
+	KSTH1
+		Images:	9662
+		Time:	22.10.2025 07:18:42 until 24.10.2025 14:40:57
+		Duration:	2.07:22:15
+		Location:	52.45161 -1.72346
+
+	JUW1
+		Images:	2255
+		Time:	22.10.2025 08:07:45 until 24.10.2025 15:00:11
+		Duration:	2.06:52:26
+		Location:	52.45161 -1.72346
+
+	DP1
+		Images:	618
+		Time:	23.10.2025 07:57:43 until 24.10.2025 14:59:20
+		Duration:	1.07:01:37
+		Location:	52.45161 -1.72346
+
+	TOMY2
+		Images:	9950
+		Time:	24.10.2025 15:06:35 until 24.10.2025 20:45:28
+		Duration:	05:38:53
+		Location:	52.45161 -1.72346
+
+	SHP2
+		Images:	3582
+		Time:	24.10.2025 15:01:28 until 24.10.2025 20:43:59
+		Duration:	05:42:31
+		Location:	52.45161 -1.72346
+
+	MKH2
+		Images:	2709
+		Time:	24.10.2025 14:59:10 until 24.10.2025 20:42:08
+		Duration:	05:42:58
+		Location:	52.45161 -1.72346
+
+(2) - Sled Push
+	LOT1
+		Images:	4153
+		Time:	23.10.2025 07:38:44 until 24.10.2025 15:09:49
+		Duration:	1.07:31:05
+		Location:	52.45161 -1.72346
+
+	CNS1
+		Images:	7271
+		Time:	23.10.2025 07:45:10 until 24.10.2025 15:13:24
+		Duration:	1.07:28:14
+		Location:	52.45161 -1.72346
+
+	MALV1
+		Images:	10257
+		Time:	22.10.2025 07:30:35 until 24.10.2025 15:11:53
+		Duration:	2.07:41:18
+		Location:	52.45161 -1.72346
+
+	BKO2
+		Images:	1883
+		Time:	24.10.2025 08:26:56 until 24.10.2025 15:20:17
+		Duration:	06:53:21
+		Location:	52.45161 -1.72346
+
+	DP2
+		Images:	1513
+		Time:	24.10.2025 07:50:27 until 24.10.2025 09:18:16
+		Duration:	01:27:49
+		Location:	52.45161 -1.72346
+
+	DAWH2
+		Images:	4022
+		Time:	24.10.2025 15:16:49 until 24.10.2025 20:58:59
+		Duration:	05:42:10
+		Location:	52.45161 -1.72346
+
+	KYY2
+		Images:	8421
+		Time:	24.10.2025 15:20:36 until 24.10.2025 20:58:43
+		Duration:	05:38:07
+		Location:	52.45161 -1.72346
+
+	APDA2
+		Images:	4703
+		Time:	24.10.2025 15:10:04 until 24.10.2025 20:57:51
+		Duration:	05:47:47
+		Location:	52.45161 -1.72346
+
+(3) - Sled Pull
+	TOMY1
+		Images:	18455
+		Time:	22.10.2025 07:24:56 until 24.10.2025 14:52:31
+		Duration:	2.07:27:35
+		Location:	52.45161 -1.72346
+
+	SHP1
+		Images:	5385
+		Time:	23.10.2025 07:26:08 until 24.10.2025 14:52:09
+		Duration:	1.07:26:01
+		Location:	52.45161 -1.72346
+
+	MKH1
+		Images:	4374
+		Time:	24.10.2025 08:12:27 until 24.10.2025 14:51:29
+		Duration:	06:39:02
+		Location:	52.45161 -1.72346
+
+	CUP3
+		Images:	1404
+		Time:	24.10.2025 08:19:09 until 24.10.2025 09:26:15
+		Duration:	01:07:06
+		Location:	52.45161 -1.72346
+
+	YCAN2
+		Images:	14144
+		Time:	24.10.2025 14:55:35 until 24.10.2025 21:10:22
+		Duration:	06:14:47
+		Location:	52.45161 -1.72346
+
+	WIN2
+		Images:	5852
+		Time:	23.10.2025 07:53:14 until 24.10.2025 21:10:16
+		Duration:	1.13:17:02
+		Location:	52.45161 -1.72346
+
+	KSTH2
+		Images:	4870
+		Time:	24.10.2025 14:54:17 until 24.10.2025 21:11:27
+		Duration:	06:17:10
+		Location:	52.45161 -1.72346
+
+(4) - Run
+	BKO9LS1
+		Images:	7315
+		Time:	24.10.2025 07:35:25 until 24.10.2025 20:55:56
+		Duration:	13:20:31
+		Location:	52.45161 -1.72346
+
+	BKO9LS2
+		Images:	7264
+		Time:	24.10.2025 07:36:02 until 24.10.2025 21:16:37
+		Duration:	13:40:35
+		Location:	52.45161 -1.72346
+
+(5) - Rowing
+	KYY1
+		Images:	10740
+		Time:	24.10.2025 08:29:02 until 24.10.2025 15:15:27
+		Duration:	06:46:25
+		Location:	52.45161 -1.72346
+
+	CMS1
+		Images:	9045
+		Time:	22.10.2025 07:53:43 until 24.10.2025 15:17:39
+		Duration:	2.07:23:56
+		Location:	52.45161 -1.72346
+
+	JUW4
+		Images:	8665
+		Time:	24.10.2025 10:19:40 until 24.10.2025 18:58:38
+		Duration:	08:38:58
+		Location:	52.45161 -1.72346
+
+	DP4
+		Images:	9002
+		Time:	24.10.2025 10:18:44 until 24.10.2025 18:58:01
+		Duration:	08:39:17
+		Location:	52.45161 -1.72346
+
+	CNS2
+		Images:	9411
+		Time:	24.10.2025 15:18:50 until 24.10.2025 21:55:52
+		Duration:	06:37:02
+		Location:	52.45161 -1.72346
+
+	MALV2
+		Images:	30981
+		Time:	24.10.2025 15:20:17 until 24.10.2025 21:54:47
+		Duration:	06:34:30
+		Location:	52.45161 -1.72346
+
+(6) - Farmers Carry
+	DP9LS1
+		Images:	5009
+		Time:	24.10.2025 07:20:29 until 24.10.2025 22:08:50
+		Duration:	14:48:21
+		Location:	52.45161 -1.72346
+
+	CUP9LS1
+		Images:	4883
+		Time:	24.10.2025 07:21:07 until 24.10.2025 22:08:22
+		Duration:	14:47:15
+		Location:	52.45161 -1.72346
+
+(7) - Sandbag Lunges
+	DAWH1
+		Images:	9002
+		Time:	22.10.2025 07:13:44 until 24.10.2025 15:03:09
+		Duration:	2.07:49:25
+		Location:	52.45161 -1.72346
+
+	APDA1
+		Images:	7350
+		Time:	22.10.2025 07:16:33 until 24.10.2025 15:03:31
+		Duration:	2.07:46:58
+		Location:	52.45161 -1.72346
+
+	JUW5
+		Images:	6460
+		Time:	24.10.2025 10:58:05 until 24.10.2025 19:38:29
+		Duration:	08:40:24
+		Location:	52.45161 -1.72346
+
+	DP5
+		Images:	4563
+		Time:	24.10.2025 10:57:48 until 24.10.2025 19:34:42
+		Duration:	08:36:54
+		Location:	52.45161 -1.72346
+
+	CMS2
+		Images:	6001
+		Time:	23.10.2025 07:54:07 until 24.10.2025 22:24:19
+		Duration:	1.14:30:12
+		Location:	52.45161 -1.72346
+
+	LOT2
+		Images:	9162
+		Time:	24.10.2025 15:16:53 until 24.10.2025 22:16:45
+		Duration:	06:59:52
+		Location:	52.45161 -1.72346
+
+(8) - Wall Balls
+	THB1
+		Images:	17994
+		Time:	22.10.2025 07:14:53 until 24.10.2025 14:52:02
+		Duration:	2.07:37:09
+		Location:	52.45161 -1.72346
+
+	RLW1
+		Images:	6831
+		Time:	24.10.2025 08:16:45 until 24.10.2025 14:46:26
+		Duration:	06:29:41
+		Location:	52.45161 -1.72346
+
+	BKO6
+		Images:	604
+		Time:	24.10.2025 14:53:23 until 24.10.2025 15:02:50
+		Duration:	00:09:27
+		Location:	52.45161 -1.72346
+
+	JUW6
+		Images:	5413
+		Time:	24.10.2025 11:39:22 until 24.10.2025 20:18:35
+		Duration:	08:39:13
+		Location:	52.45161 -1.72346
+
+	CUP6
+		Images:	1002
+		Time:	24.10.2025 14:54:39 until 24.10.2025 15:23:49
+		Duration:	00:29:10
+		Location:	52.45161 -1.72346
+
+	DP6
+		Images:	3797
+		Time:	24.10.2025 11:34:26 until 24.10.2025 20:20:00
+		Duration:	08:45:34
+		Location:	52.45161 -1.72346
+
+	KMIN2
+		Images:	8672
+		Time:	23.10.2025 07:29:19 until 24.10.2025 22:42:58
+		Duration:	1.15:13:39
+		Location:	52.45161 -1.72346
+
+	JOEM2
+		Images:	7612
+		Time:	24.10.2025 13:59:39 until 24.10.2025 22:23:21
+		Duration:	08:23:42
+		Location:	52.45161 -1.72346
+
+(9) - Finish
+	JOEM1
+		Images:	14909
+		Time:	22.10.2025 07:26:44 until 24.10.2025 14:06:51
+		Duration:	2.06:40:07
+		Location:	52.45161 -1.72346
+
+	JUW7LS1
+		Images:	3792
+		Time:	24.10.2025 07:22:46 until 24.10.2025 21:43:07
+		Duration:	14:20:21
+		Location:	52.45161 -1.72346
+
+	JUW7LS2
+		Images:	4177
+		Time:	24.10.2025 07:23:35 until 24.10.2025 21:45:07
+		Duration:	14:21:32
+		Location:	52.45161 -1.72346
+
+	CUP7
+		Images:	3849
+		Time:	24.10.2025 07:42:19 until 24.10.2025 19:01:37
+		Duration:	11:19:18
+		Location:	52.45161 -1.72346
+
+	THB2
+		Images:	11842
+		Time:	24.10.2025 14:53:33 until 24.10.2025 22:47:58
+		Duration:	07:54:25
+		Location:	52.45161 -1.72346
+
+	RLW2
+		Images:	3721
+		Time:	24.10.2025 15:18:18 until 24.10.2025 22:52:19
+		Duration:	07:34:01
+		Location:	52.45161 -1.72346
+
+(10) - Hero Wall
+	KMIN1
+		Images:	2611
+		Time:	22.10.2025 07:08:20 until 24.10.2025 15:20:23
+		Duration:	2.08:12:03
+		Location:	52.45161 -1.72346
+

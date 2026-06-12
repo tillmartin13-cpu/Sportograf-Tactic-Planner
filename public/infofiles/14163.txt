@@ -1,0 +1,55 @@
+EventId: 14163
+Spots: 8
+Total Images: 11942
+Time:	12.04.2025 07:54:58 to 12.04.2025 16:48:21
+Duration: 08:53:23
+
+(1) - Start
+	MAPA1
+		Images:	605
+		Time:	12.04.2025 07:54:58 until 12.04.2025 08:47:39
+		Duration:	00:52:41
+		Location:	NULL NULL
+
+(2) - 40,0 km / 105,0 Km
+	EB1
+		Images:	3491
+		Time:	12.04.2025 09:39:53 until 12.04.2025 14:31:59
+		Duration:	04:52:06
+		Location:	NULL NULL
+
+	EB1LS1
+		Images:	918
+		Time:	12.04.2025 09:26:14 until 12.04.2025 14:34:56
+		Duration:	05:08:42
+		Location:	NULL NULL
+
+(3) - 46,0 km / 110,0 Km
+	AMU1
+		Images:	1525
+		Time:	12.04.2025 09:52:44 until 12.04.2025 14:57:42
+		Duration:	05:04:58
+		Location:	NULL NULL
+
+	AMU1DRONE1
+		Images:	35
+		Time:	12.04.2025 09:38:28 until 12.04.2025 15:59:15
+		Duration:	06:20:47
+		Location:	NULL NULL
+
+(4) - 50,0 km / 115,0 Km
+	CC1
+		Images:	3287
+		Time:	12.04.2025 10:11:06 until 12.04.2025 15:09:49
+		Duration:	04:58:43
+		Location:	NULL NULL
+
+(5) - Finish
+	MAPA2
+		Images:	2081
+		Time:	12.04.2025 11:21:15 until 12.04.2025 16:48:21
+		Duration:	05:27:06
+		Location:	NULL NULL
+
+(6) - Impressions / Pano
+	PANO1

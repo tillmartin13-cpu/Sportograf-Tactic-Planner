@@ -1,0 +1,68 @@
+EventId: 13568
+Spots: 10
+Total Images: 30458
+Time:	18.10.2025 16:18:04 to 18.10.2025 22:14:28
+Duration: 05:56:24
+
+(1) - Start
+	LSI1
+		Images:	2521
+		Time:	18.10.2025 17:10:23 until 18.10.2025 19:31:26
+		Duration:	02:21:03
+		Location:	52.48081 13.39009
+
+(2) - General Pictures
+	RYS1
+		Images:	2536
+		Time:	18.10.2025 16:18:04 until 18.10.2025 21:31:26
+		Duration:	05:13:22
+		Location:	52.48081 13.39009
+
+(3) - 1.0 km
+	MFR1
+		Images:	1872
+		Time:	18.10.2025 18:02:19 until 18.10.2025 21:34:55
+		Duration:	03:32:36
+		Location:	52.47468 13.39258
+
+	MFR1LS1
+		Images:	1798
+		Time:	18.10.2025 17:57:55 until 18.10.2025 21:41:01
+		Duration:	03:43:06
+		Location:	52.47468 13.39258
+
+(4) - 1.5 km
+	KHR1
+		Images:	6126
+		Time:	18.10.2025 17:56:18 until 18.10.2025 21:39:48
+		Duration:	03:43:30
+		Location:	52.47481 13.40013
+
+(5) - 4.5 km
+	MGEN1
+		Images:	3248
+		Time:	18.10.2025 17:54:40 until 18.10.2025 22:12:30
+		Duration:	04:17:50
+		Location:	52.48093 13.39183
+
+(6) - Finish
+	RYS2LS2
+		Images:	3732
+		Time:	18.10.2025 18:03:49 until 18.10.2025 22:04:31
+		Duration:	04:00:42
+		Location:	52.48081 13.39009
+
+	LSI2
+		Images:	4876
+		Time:	18.10.2025 19:39:14 until 18.10.2025 22:14:28
+		Duration:	02:35:14
+		Location:	52.48081 13.39009
+
+	RYS2LS1
+		Images:	3749
+		Time:	18.10.2025 17:15:59 until 18.10.2025 22:05:03
+		Duration:	04:49:04
+		Location:	52.48081 13.39009
+
+(7) - Impressions / Pano
+	PANO1

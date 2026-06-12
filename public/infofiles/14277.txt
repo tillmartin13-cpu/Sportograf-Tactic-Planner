@@ -1,0 +1,258 @@
+EventId: 14277
+Spots: 39
+Total Images: 74255
+Time:	12.07.2025 13:03:02 to 13.07.2025 13:59:35
+Duration: 1.00:56:33
+
+(1) - 0,3 km
+	MAE4LS1
+		Images:	5186
+		Time:	12.07.2025 22:10:18 until 13.07.2025 06:02:51
+		Duration:	07:52:33
+		Location:	48.91893 11.86747
+
+(2) - 0,5 km
+	ROH1
+		Images:	512
+		Time:	12.07.2025 13:52:27 until 12.07.2025 14:03:21
+		Duration:	00:10:54
+		Location:	48.92000 11.86411
+
+	MAE1
+		Images:	438
+		Time:	12.07.2025 13:03:02 until 12.07.2025 14:03:34
+		Duration:	01:00:32
+		Location:	48.92000 11.86411
+
+(3) - 0,8 km
+	ROH7
+		Images:	5014
+		Time:	13.07.2025 11:23:59 until 13.07.2025 12:54:22
+		Duration:	01:30:23
+		Location:	48.92096 11.85918
+
+(4) - 1,0 km
+	ROH4
+		Images:	4041
+		Time:	12.07.2025 18:58:20 until 12.07.2025 21:37:51
+		Duration:	02:39:31
+		Location:	48.92110 11.85428
+
+	ROH4LS1
+		Images:	1502
+		Time:	12.07.2025 18:55:05 until 12.07.2025 20:27:58
+		Duration:	01:32:53
+		Location:	48.92110 11.85428
+
+(5) - 1,2 km
+	ROH3
+		Images:	2650
+		Time:	12.07.2025 17:34:56 until 12.07.2025 18:43:38
+		Duration:	01:08:42
+		Location:	48.92026 11.85585
+
+	ROH3LS1
+		Images:	1218
+		Time:	12.07.2025 17:27:32 until 12.07.2025 18:44:12
+		Duration:	01:16:40
+		Location:	48.92026 11.85585
+
+(6) - 2,0 km
+	ROH2
+		Images:	4539
+		Time:	12.07.2025 15:00:25 until 12.07.2025 17:02:04
+		Duration:	02:01:39
+		Location:	48.91950 11.84674
+
+	ROH2LS1
+		Images:	2209
+		Time:	12.07.2025 14:56:32 until 12.07.2025 17:29:56
+		Duration:	02:33:24
+		Location:	48.91950 11.84674
+
+(7) - 4,7 km
+	MAE2
+		Images:	2254
+		Time:	12.07.2025 15:16:27 until 12.07.2025 17:03:12
+		Duration:	01:46:45
+		Location:	48.91394 11.81416
+
+	MAE2LS1
+		Images:	2458
+		Time:	12.07.2025 14:59:52 until 12.07.2025 17:09:36
+		Duration:	02:09:44
+		Location:	48.91394 11.81416
+
+(8) - 5,0 km
+	MAE3
+		Images:	1099
+		Time:	12.07.2025 17:48:40 until 12.07.2025 18:43:53
+		Duration:	00:55:13
+		Location:	48.91226 11.80625
+
+	MAE3LS1
+		Images:	1134
+		Time:	12.07.2025 17:36:28 until 12.07.2025 18:48:50
+		Duration:	01:12:22
+		Location:	48.91226 11.80625
+
+(9) - 5,2 km
+	MAE4
+		Images:	1661
+		Time:	12.07.2025 19:04:20 until 12.07.2025 21:05:31
+		Duration:	02:01:11
+		Location:	48.91096 11.80014
+
+(10) - 7,0 km
+	ROH6LS1
+		Images:	1195
+		Time:	13.07.2025 08:58:44 until 13.07.2025 10:49:37
+		Duration:	01:50:53
+		Location:	48.90926 11.78217
+
+	ROH6
+		Images:	2996
+		Time:	13.07.2025 09:02:40 until 13.07.2025 11:23:44
+		Duration:	02:21:04
+		Location:	48.90926 11.78217
+
+(11) - 8,0 km
+	ROH5
+		Images:	2688
+		Time:	13.07.2025 07:20:41 until 13.07.2025 08:46:39
+		Duration:	01:25:58
+		Location:	48.91977 11.78410
+
+	ROH5LS1
+		Images:	673
+		Time:	13.07.2025 07:09:41 until 13.07.2025 08:49:21
+		Duration:	01:39:40
+		Location:	48.91977 11.78410
+
+(12) - 9,3 km
+	MAE7
+		Images:	2018
+		Time:	13.07.2025 11:58:05 until 13.07.2025 13:31:31
+		Duration:	01:33:26
+		Location:	48.92651 11.79419
+
+	MAE7LS1
+		Images:	1162
+		Time:	13.07.2025 11:43:28 until 13.07.2025 13:19:48
+		Duration:	01:36:20
+		Location:	48.92651 11.79419
+
+(13) - 10,1 km
+	MAE6
+		Images:	2349
+		Time:	13.07.2025 09:42:35 until 13.07.2025 11:09:12
+		Duration:	01:26:37
+		Location:	48.92958 11.79798
+
+	MAE6LS1
+		Images:	1080
+		Time:	13.07.2025 09:31:30 until 13.07.2025 11:15:21
+		Duration:	01:43:51
+		Location:	48.92958 11.79798
+
+(14) - 10,6 km
+	MAE5
+		Images:	1571
+		Time:	13.07.2025 07:17:54 until 13.07.2025 08:44:28
+		Duration:	01:26:34
+		Location:	48.92731 11.81542
+
+	MAE5LS1
+		Images:	730
+		Time:	13.07.2025 07:07:47 until 13.07.2025 08:51:43
+		Duration:	01:43:56
+		Location:	48.92731 11.81542
+
+(15) - 12,9 km
+	STM3
+		Images:	2334
+		Time:	12.07.2025 18:36:28 until 12.07.2025 20:46:59
+		Duration:	02:10:31
+		Location:	48.9252 11.83576
+
+(16) - 13,1 km
+	STM2
+		Images:	1652
+		Time:	12.07.2025 16:49:23 until 12.07.2025 18:20:49
+		Duration:	01:31:26
+		Location:	48.92467 11.83611
+
+	STM2LS1
+		Images:	1206
+		Time:	12.07.2025 16:39:34 until 12.07.2025 18:23:51
+		Duration:	01:44:17
+		Location:	48.92467 11.83611
+
+(17) - 13,6 km
+	STM1
+		Images:	2004
+		Time:	12.07.2025 13:09:13 until 12.07.2025 16:20:54
+		Duration:	03:11:41
+		Location:	48.92581 11.83994
+
+	STM1LS1
+		Images:	910
+		Time:	12.07.2025 14:03:02 until 12.07.2025 16:20:54
+		Duration:	02:17:52
+		Location:	48.92581 11.83994
+
+(18) - 15,0 km
+	STM4
+		Images:	1980
+		Time:	13.07.2025 07:32:08 until 13.07.2025 09:59:16
+		Duration:	02:27:08
+		Location:	48.92320 11.86840
+
+	STM4LS1
+		Images:	1038
+		Time:	13.07.2025 07:19:50 until 13.07.2025 10:18:29
+		Duration:	02:58:39
+		Location:	48.92320 11.86840
+
+(19) - 15,3 km
+	STM5
+		Images:	1742
+		Time:	13.07.2025 10:22:09 until 13.07.2025 12:09:14
+		Duration:	01:47:05
+		Location:	48.92115 11.86664
+
+	STM5LS1
+		Images:	975
+		Time:	13.07.2025 10:18:53 until 13.07.2025 12:12:11
+		Duration:	01:53:18
+		Location:	48.92115 11.86664
+
+(20) - 15,4 km
+	STM3LS1
+		Images:	3119
+		Time:	12.07.2025 22:16:23 until 13.07.2025 06:22:57
+		Duration:	08:06:34
+		Location:	48.92115 11.86664
+
+(21) - 15,5 km
+	ROH4LS2
+		Images:	3413
+		Time:	12.07.2025 22:08:52 until 13.07.2025 06:06:46
+		Duration:	07:57:54
+		Location:	48.92115 11.86664
+
+(22) - Finish
+	STM6
+		Images:	1447
+		Time:	13.07.2025 12:32:19 until 13.07.2025 13:59:35
+		Duration:	01:27:16
+		Location:	48.91868 11.87044
+
+(23) - Impressions / Pano
+	MAE1DRONE1
+		Images:	58
+		Time:	12.07.2025 13:25:56 until 13.07.2025 07:35:01
+		Duration:	18:09:05
+		Location:	48.92581 11.83994
+
+	PANO1

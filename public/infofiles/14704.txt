@@ -1,0 +1,53 @@
+EventId: 14704
+Spots: 7
+Total Images: 25326
+Time:	31.12.2017 23:00:01 to 02.03.2025 12:00:03
+Duration: 2617.13:00:02
+
+(1) - Start
+	CVG3
+		Images:	320
+		Time:	02.03.2025 08:19:46 until 02.03.2025 09:17:49
+		Duration:	00:58:03
+		Location:	46.53611 9.87741
+
+(2) - 8.0 km before finish La Punt village
+	LAPO1
+		Images:	2367
+		Time:	02.03.2025 09:09:03 until 02.03.2025 10:50:22
+		Duration:	01:41:19
+		Location:	46.57406 9.93048
+
+(3) - 4.0 km before finish Golf Club
+	ELLA1LS1
+		Images:	93
+		Time:	02.03.2025 08:13:40 until 02.03.2025 12:00:03
+		Duration:	03:46:23
+		Location:	46.59823 9.96273
+
+	ELLA1
+		Images:	6635
+		Time:	31.12.2017 23:00:01 until 02.03.2025 10:22:17
+		Duration:	2617.11:22:16
+		Location:	46.59823 9.96273
+
+(4) - 0.8 km before finish
+	CVG2
+		Images:	2429
+		Time:	02.03.2025 09:44:21 until 02.03.2025 11:34:29
+		Duration:	01:50:08
+		Location:	46.61393 9.99575
+
+(5) - Finish
+	CAIS1LS1
+		Images:	8988
+		Time:	02.03.2025 09:05:10 until 02.03.2025 11:51:11
+		Duration:	02:46:01
+		Location:	46.61994 10.00100
+
+	CAIS1
+		Images:	4494
+		Time:	02.03.2025 05:53:43 until 02.03.2025 11:52:14
+		Duration:	05:58:31
+		Location:	46.61994 10.00100
+

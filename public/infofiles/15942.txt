@@ -1,0 +1,231 @@
+EventId: 15942
+Spots: 35
+Total Images: 281670
+Time:	24.04.2025 09:21:36 to 27.04.2025 17:43:55
+Duration: 3.08:22:19
+
+(1) - Start
+	SHAW1
+		Images:	91
+		Time:	26.04.2025 06:26:59 until 26.04.2025 06:49:12
+		Duration:	00:22:13
+		Location:	30.27265 -97.74115
+
+(2) - 10.0 mi
+	JLAU1
+		Images:	4945
+		Time:	26.04.2025 06:45:25 until 26.04.2025 08:40:51
+		Duration:	01:55:26
+		Location:	29.80156 -95.80195
+
+	GWEN1
+		Images:	1762
+		Time:	26.04.2025 08:23:31 until 26.04.2025 10:00:11
+		Duration:	01:36:40
+		Location:	29.80156 -95.80195
+
+	TRIG1
+		Images:	3936
+		Time:	26.04.2025 06:48:13 until 26.04.2025 08:07:19
+		Duration:	01:19:06
+		Location:	29.80156 -95.80
+
+(3) - 25.0 mi
+	CWIL1
+		Images:	8160
+		Time:	26.04.2025 09:20:42 until 26.04.2025 13:51:34
+		Duration:	04:30:52
+		Location:	29.82503 -95.99429
+
+	TRIG6
+		Images:	6104
+		Time:	27.04.2025 06:55:11 until 27.04.2025 10:40:34
+		Duration:	03:45:23
+		Location:	30.14380 -96.63747
+
+(4) - 48.0 mi
+	RALD1
+		Images:	5457
+		Time:	26.04.2025 07:48:48 until 26.04.2025 11:20:59
+		Duration:	03:32:11
+		Location:	29.95053 -96.25764
+
+(5) - 46.0 mi
+	GAPO1
+		Images:	6486
+		Time:	26.04.2025 08:16:13 until 26.04.2025 12:36:31
+		Duration:	04:20:18
+		Location:	29.95053 -96.25764
+
+(6) - 76.0 mi
+	LCAS1
+		Images:	8376
+		Time:	24.04.2025 09:21:36 until 26.04.2025 15:39:37
+		Duration:	2.06:18:01
+		Location:	29.90528 -96.68158
+
+	TRIG2
+		Images:	10018
+		Time:	26.04.2025 09:58:20 until 26.04.2025 15:27:46
+		Duration:	05:29:26
+		Location:	29.90528 -96.68159
+
+(7) - 90.0 mi
+	CWIL2
+		Images:	3858
+		Time:	26.04.2025 05:34:31 until 26.04.2025 07:33:42
+		Duration:	01:59:11
+		Location:	29.94211 -96.87540
+
+	JMOR2
+		Images:	4609
+		Time:	26.04.2025 13:03:55 until 26.04.2025 17:03:55
+		Duration:	04:00:00
+		Location:	29.94211 -96.87540
+
+(8) - 35.0 mi
+	SHAW2
+		Images:	1390
+		Time:	26.04.2025 07:39:21 until 26.04.2025 10:10:27
+		Duration:	02:31:06
+		Location:	30.11021 -97.32217
+
+(9) - 96.0 mi
+	SHAW3
+		Images:	14554
+		Time:	26.04.2025 11:25:51 until 26.04.2025 17:32:41
+		Duration:	06:06:50
+		Location:	29.92722 -96.88207
+
+	DWEA1
+		Images:	7099
+		Time:	26.04.2025 09:37:49 until 26.04.2025 17:41:37
+		Duration:	08:03:48
+		Location:	29.92722 -96.88207
+
+	GWEN2
+		Images:	8788
+		Time:	26.04.2025 11:59:03 until 26.04.2025 18:52:24
+		Duration:	06:53:21
+		Location:	29.92722 -96.88207
+
+	TRIG3
+		Images:	10139
+		Time:	26.04.2025 10:21:40 until 26.04.2025 16:44:46
+		Duration:	06:23:06
+		Location:	29.92722 -96.88207
+
+	TRIG5
+		Images:	26778
+		Time:	26.04.2025 11:05:09 until 26.04.2025 15:43:22
+		Duration:	04:38:13
+		Location:	29.9722 -96.88207
+
+	CORY1
+		Images:	2442
+		Time:	26.04.2025 10:22:59 until 26.04.2025 13:39:06
+		Duration:	03:16:07
+		Location:	29.92722 -96.88207
+
+	CBIR1
+		Images:	14008
+		Time:	26.04.2025 10:07:11 until 26.04.2025 16:56:09
+		Duration:	06:48:58
+		Location:	29.92722 -96.88207
+
+	TRIG4
+		Images:	7011
+		Time:	26.04.2025 10:56:05 until 26.04.2025 17:09:53
+		Duration:	06:13:48
+		Location:	29.92722 -96.88207
+
+(10) - 96.0 km
+	JLAU2
+		Images:	17985
+		Time:	26.04.2025 10:35:11 until 26.04.2025 17:33:03
+		Duration:	06:57:52
+		Location:	29.92722 -96.88207
+
+(11) - 23.0 mi
+	GAPO2
+		Images:	6289
+		Time:	27.04.2025 07:21:30 until 27.04.2025 10:34:41
+		Duration:	03:13:11
+		Location:	30.14380 -96.63747
+
+	DWEA2
+		Images:	6639
+		Time:	27.04.2025 07:19:46 until 27.04.2025 10:33:32
+		Duration:	03:13:46
+		Location:	30.14380 -96.63747
+
+(12) - 50.0 mi
+	RALD2
+		Images:	6598
+		Time:	27.04.2025 07:51:31 until 27.04.2025 12:59:13
+		Duration:	05:07:42
+		Location:	30.32186 -96.52527
+
+(13) - 77.0 mi
+	MGWEN1
+		Images:	9849
+		Time:	27.04.2025 08:39:01 until 27.04.2025 14:54:55
+		Duration:	06:15:54
+		Location:	30.59938 -96.37269
+
+	MSHAW1
+		Images:	12901
+		Time:	27.04.2025 10:10:30 until 27.04.2025 16:31:53
+		Duration:	06:21:23
+		Location:	30.59938 -96.37269
+
+(14) - 80.0 mi
+	MCWIL1
+		Images:	8257
+		Time:	27.04.2025 10:22:32 until 27.04.2025 16:42:31
+		Duration:	06:19:59
+		Location:	30.61130 -96.33938
+
+	MJLAU1
+		Images:	11501
+		Time:	27.04.2025 10:19:28 until 27.04.2025 16:51:26
+		Duration:	06:31:58
+		Location:	30.61130 -96.33938
+
+	MTRIG1
+		Images:	12074
+		Time:	27.04.2025 10:01:24 until 27.04.2025 15:45:45
+		Duration:	05:44:21
+		Location:	30.61130 -96.33938
+
+	MJMOR1
+		Images:	7586
+		Time:	27.04.2025 11:32:25 until 27.04.2025 17:43:55
+		Duration:	06:11:30
+		Location:	30.61130 -96.37269
+
+	MCCAM1
+		Images:	4370
+		Time:	27.04.2025 10:32:15 until 27.04.2025 15:37:31
+		Duration:	05:05:16
+		Location:	30.61130 -96.33938
+
+	MCBIR1
+		Images:	5189
+		Time:	27.04.2025 09:18:29 until 27.04.2025 15:58:44
+		Duration:	06:40:15
+		Location:	30.61130 -96.33938
+
+	MTRI1
+		Images:	7525
+		Time:	27.04.2025 10:34:46 until 27.04.2025 16:51:37
+		Duration:	06:16:51
+		Location:	30.61130 -96.33938
+
+(15) - 80.0 km
+	MLCAS1
+		Images:	8896
+		Time:	27.04.2025 10:26:24 until 27.04.2025 16:51:03
+		Duration:	06:24:39
+		Location:	30.61130 -96.33938
+

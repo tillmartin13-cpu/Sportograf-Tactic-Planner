@@ -1,0 +1,253 @@
+EventId: 14980
+Spots: 47
+Total Images: 125282
+Time:	01.02.2025 07:07:25 to 02.02.2025 15:01:46
+Duration: 1.07:54:21
+
+(1) - 0.0 km 10K Finish Right Side Trigger
+	GFNTF2
+		Images:	5860
+		Time:	01.02.2025 11:02:29 until 01.02.2025 12:44:41
+		Duration:	01:42:12
+		Location:	NULL NULL
+
+(2) - 0.0 km 5K Finish - Laura Gonsalve
+	GFNLG2
+		Images:	3708
+		Time:	02.02.2025 06:59:22 until 02.02.2025 08:16:24
+		Duration:	01:17:02
+		Location:	NULL NULL
+
+(3) - 0.0 km 860445 - Saturdays Shake Out Run - Phillip Reyes
+	GSORP1
+		Images:	445
+		Time:	01.02.2025 07:07:25 until 01.02.2025 08:37:34
+		Duration:	01:30:09
+		Location:	NULL NULL
+
+(4) - 0.0 km FIN - 854736 - Phillip Reyes
+	GFNPR1
+		Images:	4361
+		Time:	02.02.2025 07:48:50 until 02.02.2025 10:43:02
+		Duration:	02:54:12
+		Location:	NULL NULL
+
+(5) - 0.0 km FIN - 860415 - Laura Gonsalve
+	GFNLG1
+		Images:	6416
+		Time:	02.02.2025 08:29:18 until 02.02.2025 10:45:34
+		Duration:	02:16:16
+		Location:	NULL NULL
+
+(6) - 0.0 km FIN - 860417 - Left Side Trigger
+	GFNTF1
+		Images:	9061
+		Time:	02.02.2025 11:22:50 until 02.02.2025 15:01:46
+		Duration:	03:38:56
+		Location:	NULL NULL
+
+(7) - 0.0 km FIN - 860418 - 5K Finish Trigger
+	GFNTO1
+		Images:	3936
+		Time:	01.02.2025 08:53:46 until 01.02.2025 11:05:57
+		Duration:	02:12:11
+		Location:	NULL NULL
+
+(8) - 0.0 km Medals - 860437 - Ira Meinhofer
+	GMDIM1
+(9) - 0.0 km Medals - 860438 - Alexandria Mitchell
+	GMDAM1
+		Images:	768
+		Time:	02.02.2025 08:02:37 until 02.02.2025 11:57:32
+		Duration:	03:54:55
+		Location:	NULL NULL
+
+(10) - 0.0 km Medals - 860439 - Elisa Sosa
+	GMDES1
+		Images:	1410
+		Time:	02.02.2025 06:49:14 until 02.02.2025 10:43:10
+		Duration:	03:53:56
+		Location:	NULL NULL
+
+(11) - 0.0 km MSC1 - 860419 - Elliot Pinck
+	GMOEP1
+(12) - 0.0 km MSC1 - 860420 - Kevin Cheah
+	GMOKC1
+(13) - 0.0 km MSC2 - 860421 - Hal Ogata
+	GTWHO1
+		Images:	5786
+		Time:	02.02.2025 06:52:25 until 02.02.2025 08:19:15
+		Duration:	01:26:50
+		Location:	NULL NULL
+
+(14) - 0.0 km MSC2 - 860422 - Josh Hires
+	GTOJH1
+		Images:	1660
+		Time:	02.02.2025 07:38:10 until 02.02.2025 08:20:06
+		Duration:	00:41:56
+		Location:	NULL NULL
+
+(15) - 0.0 km MSC3 - 860242 - Yiu Nien Wang
+	GTHYW1
+(16) - 0.0 km MSC3 - 860425 - Antoinette Curry
+	GTHAC1
+(17) - 0.0 km MSC3 - 860426 - Elliot Pinck
+	GTHEP1
+(18) - 0.0 km MSC3 - 860426 - Trigger 2
+	GTHTO1
+(19) - 0.0 km MSC4 - 860427 - Elainne Reyes
+	GFOER1
+(20) - 0.0 km MSC4 - 860428 - Michael Greening
+	GFOMG1
+(21) - 0.0 km MSC4 - 860429 - Armando Ibarra Padilla
+	GFOAP1
+(22) - 0.0 km MSC4 - 864136 - Trigger 1
+	GFOTT1
+(23) - 0.0 km MSC5 - 860430 - Christina St. Germain
+	GFICG1
+(24) - 0.0 km MSC5 - 860431 - Kevin Cheah
+	GFIKC1
+		Images:	1639
+		Time:	02.02.2025 12:18:53 until 02.02.2025 13:39:17
+		Duration:	01:20:24
+		Location:	NULL NULL
+
+(25) - 0.0 km OFP - 860440 - Arnold Suliguin
+	GOPAS1
+		Images:	426
+		Time:	02.02.2025 06:49:09 until 02.02.2025 10:29:11
+		Duration:	03:40:02
+		Location:	NULL NULL
+
+(26) - 0.0 km OFP - 860441 - Duncan Agyemang
+	GOPDA1
+		Images:	480
+		Time:	02.02.2025 07:36:23 until 02.02.2025 10:44:59
+		Duration:	03:08:36
+		Location:	NULL NULL
+
+(27) - 0.0 km PFN - 860432 - Christine Roosa
+	GPFCR1
+		Images:	6082
+		Time:	02.02.2025 07:26:25 until 02.02.2025 10:40:51
+		Duration:	03:14:26
+		Location:	NULL NULL
+
+(28) - 0.0 km PFN - 860433 - David Mcintyre
+	GPFDM1
+		Images:	7116
+		Time:	02.02.2025 06:35:29 until 02.02.2025 10:44:24
+		Duration:	04:08:55
+		Location:	NULL NULL
+
+(29) - 0.0 km PFN - 860434 - Hal Ogata
+	GPFHO1
+		Images:	3941
+		Time:	02.02.2025 09:20:46 until 02.02.2025 10:41:02
+		Duration:	01:20:16
+		Location:	NULL NULL
+
+(30) - 0.0 km PFN - 860435 - Josh Hires
+	GPFJH1
+		Images:	1714
+		Time:	02.02.2025 09:18:03 until 02.02.2025 10:40:58
+		Duration:	01:22:55
+		Location:	NULL NULL
+
+(31) - 0.0 km PFN - 860436 - Trigger 3
+	GPFTT1
+(32) - 0.0 km PFN - 864134 - Trigger 4
+	GPFTF1
+		Images:	5929
+		Time:	02.02.2025 07:29:38 until 02.02.2025 10:48:00
+		Duration:	03:18:22
+		Location:	NULL NULL
+
+(33) - 0.0 km Start PRs - 860443 - Josh Hires
+	GSTJH1
+		Images:	136
+		Time:	02.02.2025 06:20:41 until 02.02.2025 07:03:13
+		Duration:	00:42:32
+		Location:	NULL NULL
+
+(34) - Impressions / Pano
+	PANO1
+(35) - none
+	AFOAP1
+		Images:	8556
+		Time:	02.02.2025 07:11:49 until 02.02.2025 09:08:43
+		Duration:	01:56:54
+		Location:	NULL NULL
+
+	AFOER1
+		Images:	4140
+		Time:	02.02.2025 06:54:26 until 02.02.2025 09:05:47
+		Duration:	02:11:21
+		Location:	NULL NULL
+
+	AFOMG1
+		Images:	6672
+		Time:	02.02.2025 07:39:29 until 02.02.2025 09:05:09
+		Duration:	01:25:40
+		Location:	NULL NULL
+
+	AFOTR1
+		Images:	4584
+		Time:	02.02.2025 07:27:58 until 02.02.2025 09:08:44
+		Duration:	01:40:46
+		Location:	NULL NULL
+
+	AIMPR1
+		Images:	7
+		Time:	02.02.2025 07:43:06 until 02.02.2025 08:08:58
+		Duration:	00:25:52
+		Location:	NULL NULL
+
+	AONEP1
+		Images:	1148
+		Time:	02.02.2025 08:07:41 until 02.02.2025 08:23:36
+		Duration:	00:15:55
+		Location:	NULL NULL
+
+	AONKC1
+		Images:	334
+		Time:	02.02.2025 11:14:46 until 02.02.2025 11:31:58
+		Duration:	00:17:12
+		Location:	NULL NULL
+
+	ATHAC1
+		Images:	3259
+		Time:	02.02.2025 07:42:49 until 02.02.2025 09:33:26
+		Duration:	01:50:37
+		Location:	NULL NULL
+
+	ATHAC2
+		Images:	2678
+		Time:	02.02.2025 09:39:31 until 02.02.2025 11:41:51
+		Duration:	02:02:20
+		Location:	NULL NULL
+
+	ATHEP1
+		Images:	3464
+		Time:	02.02.2025 10:15:37 until 02.02.2025 11:43:45
+		Duration:	01:28:08
+		Location:	NULL NULL
+
+	ATHTT1
+		Images:	9175
+		Time:	02.02.2025 11:23:32 until 02.02.2025 14:42:15
+		Duration:	03:18:43
+		Location:	NULL NULL
+
+	ATHYW1
+		Images:	6569
+		Time:	02.02.2025 06:59:41 until 02.02.2025 08:44:39
+		Duration:	01:44:58
+		Location:	NULL NULL
+
+	ATHYW2
+		Images:	3822
+		Time:	02.02.2025 08:54:49 until 02.02.2025 10:36:11
+		Duration:	01:41:22
+		Location:	NULL NULL
+

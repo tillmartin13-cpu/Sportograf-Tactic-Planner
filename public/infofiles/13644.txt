@@ -1,0 +1,129 @@
+EventId: 13644
+Spots: 19
+Total Images: 41862
+Time:	12.07.2025 07:02:01 to 12.07.2025 21:33:09
+Duration: 14:31:08
+
+(1) - Start
+	NU1
+		Images:	1341
+		Time:	12.07.2025 07:02:01 until 12.07.2025 08:37:26
+		Duration:	01:35:25
+		Location:	50.95021 11.09390
+
+(2) - 0,5 km Kapelle
+	SK1
+		Images:	1684
+		Time:	12.07.2025 07:32:04 until 12.07.2025 10:30:42
+		Duration:	02:58:38
+		Location:	50.94710 11.09045
+
+	SK1LS1
+		Images:	1747
+		Time:	12.07.2025 07:12:28 until 12.07.2025 08:49:18
+		Duration:	01:36:50
+		Location:	50.94710 11.09045
+
+(3) - 1,0 km Park
+	IVO1
+		Images:	1277
+		Time:	12.07.2025 07:23:38 until 12.07.2025 08:53:33
+		Duration:	01:29:55
+		Location:	50.94620 11.08637
+
+(4) - 1,5 km Wald
+	LPI1
+		Images:	5481
+		Time:	12.07.2025 07:42:35 until 12.07.2025 09:11:57
+		Duration:	01:29:22
+		Location:	50.94161 11.08244
+
+(5) - 5,0 km Autobahnbruecke
+	FKL1
+		Images:	1748
+		Time:	12.07.2025 07:48:32 until 12.07.2025 12:58:03
+		Duration:	05:09:31
+		Location:	50.91401 11.08846
+
+	FKL1LS1
+		Images:	537
+		Time:	12.07.2025 08:11:41 until 12.07.2025 09:39:48
+		Duration:	01:28:07
+		Location:	50.91401 11.08846
+
+(6) - 15,0 km Sonnenhof
+	IVO2
+		Images:	1066
+		Time:	12.07.2025 09:53:50 until 12.07.2025 13:09:10
+		Duration:	03:15:20
+		Location:	50.88732 11.14806
+
+(7) - 16,0 km Museum
+	SK2
+		Images:	2864
+		Time:	12.07.2025 10:30:58 until 12.07.2025 14:12:20
+		Duration:	03:41:22
+		Location:	50.88847 11.16399
+
+	SK2LS1
+		Images:	907
+		Time:	12.07.2025 10:03:12 until 12.07.2025 14:47:24
+		Duration:	04:44:12
+		Location:	50.88847 11.16399
+
+(8) - 17,0 km Talspeere
+	NU2
+		Images:	5326
+		Time:	12.07.2025 10:46:16 until 12.07.2025 14:06:59
+		Duration:	03:20:43
+		Location:	50.87401 11.18502
+
+(9) - 40,0 km Dorf
+	SK3
+		Images:	3153
+		Time:	12.07.2025 14:53:42 until 12.07.2025 19:11:49
+		Duration:	04:18:07
+		Location:	50.94058 11.18165
+
+	SK3LS1
+		Images:	846
+		Time:	12.07.2025 14:47:33 until 12.07.2025 18:12:53
+		Duration:	03:25:20
+		Location:	50.94058 11.18422
+
+(10) - 40,5 km Gasthaus
+	IVO3
+		Images:	3099
+		Time:	12.07.2025 14:49:42 until 12.07.2025 18:51:32
+		Duration:	04:01:50
+		Location:	50.94174 11.17882
+
+(11) - 41,0 km Teich
+	NU3
+		Images:	3837
+		Time:	12.07.2025 14:54:30 until 12.07.2025 19:16:04
+		Duration:	04:21:34
+		Location:	50.94207 11.17383
+
+(12) - Finish
+	FKL2
+		Images:	5726
+		Time:	12.07.2025 14:32:51 until 12.07.2025 21:27:51
+		Duration:	06:55:00
+		Location:	50.95044 11.09147
+
+(13) - Herotent
+	LPI2
+		Images:	269
+		Time:	12.07.2025 09:56:39 until 12.07.2025 21:33:09
+		Duration:	11:36:30
+		Location:	50.95043 11.09150
+
+	LPI2LS1
+		Images:	954
+		Time:	12.07.2025 14:15:37 until 12.07.2025 20:15:16
+		Duration:	05:59:39
+		Location:	50.95043 11.09407
+
+(14) - Impressions / Pano
+	PANO1

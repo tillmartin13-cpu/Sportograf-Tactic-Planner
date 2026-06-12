@@ -1,0 +1,292 @@
+EventId: 14757
+Spots: 46
+Total Images: 165874
+Time:	30.05.2025 08:59:52 to 31.05.2025 21:19:23
+Duration: 1.12:19:31
+
+(1) - Station 1 Skyerg
+	BEB1
+		Images:	5740
+		Time:	30.05.2025 09:17:00 until 31.05.2025 15:10:31
+		Duration:	1.05:53:31
+		Location:	44.07255 12.53150
+
+	GIBE1
+		Images:	10872
+		Time:	31.05.2025 09:04:33 until 31.05.2025 15:09:02
+		Duration:	06:04:29
+		Location:	44.07255 12.53150
+
+	BRN1
+		Images:	8278
+		Time:	31.05.2025 09:00:01 until 31.05.2025 15:29:31
+		Duration:	06:29:30
+		Location:	44.07255 12.53150
+
+	CVG2
+		Images:	2135
+		Time:	31.05.2025 15:29:23 until 31.05.2025 19:49:13
+		Duration:	04:19:50
+		Location:	44.07255 12.53150
+
+	DEC2
+		Images:	2296
+		Time:	31.05.2025 15:16:54 until 31.05.2025 19:48:56
+		Duration:	04:32:02
+		Location:	44.07255 12.53150
+
+	LDL2
+		Images:	1250
+		Time:	30.05.2025 17:12:40 until 30.05.2025 19:23:56
+		Duration:	02:11:16
+		Location:	44.07255 12.53150
+
+(2) - Station 2 Sled Push
+	RLLA1
+		Images:	3217
+		Time:	31.05.2025 09:12:07 until 31.05.2025 14:57:21
+		Duration:	05:45:14
+		Location:	44.07255 12.53150
+
+	LLM1
+		Images:	2178
+		Time:	31.05.2025 09:06:04 until 31.05.2025 13:06:20
+		Duration:	04:00:16
+		Location:	44.07255 12.53150
+
+	ARF1
+		Images:	1879
+		Time:	30.05.2025 09:23:14 until 31.05.2025 15:16:23
+		Duration:	1.05:53:09
+		Location:	44.07255 12.53150
+
+	PINO2
+		Images:	1533
+		Time:	31.05.2025 15:07:28 until 31.05.2025 19:58:50
+		Duration:	04:51:22
+		Location:	44.07255 12.53150
+
+	RAM2
+		Images:	6020
+		Time:	31.05.2025 09:07:40 until 31.05.2025 20:00:34
+		Duration:	10:52:54
+		Location:	44.07255 12.53150
+
+	MDV2
+		Images:	1885
+		Time:	31.05.2025 15:38:49 until 31.05.2025 20:10:38
+		Duration:	04:31:49
+		Location:	44.07255 12.53150
+
+(3) - Station 3 Sled Pull
+	PINO1
+		Images:	1806
+		Time:	31.05.2025 09:09:39 until 31.05.2025 14:56:02
+		Duration:	05:46:23
+		Location:	44.07255 12.53150
+
+	RAM1
+		Images:	4171
+		Time:	31.05.2025 09:07:40 until 31.05.2025 14:54:47
+		Duration:	05:47:07
+		Location:	44.07255 12.53150
+
+	MDS1
+		Images:	3720
+		Time:	31.05.2025 09:17:01 until 31.05.2025 15:06:52
+		Duration:	05:49:51
+		Location:	44.07255 12.53150
+
+	RLLA2
+		Images:	2483
+		Time:	31.05.2025 15:05:28 until 31.05.2025 20:07:47
+		Duration:	05:02:19
+		Location:	44.07255 12.53150
+
+	LLM2
+		Images:	1532
+		Time:	30.05.2025 15:21:34 until 31.05.2025 20:07:58
+		Duration:	1.04:46:24
+		Location:	44.07255 12.53150
+
+	MAGA2
+		Images:	1677
+		Time:	31.05.2025 15:10:17 until 31.05.2025 20:11:05
+		Duration:	05:00:48
+		Location:	44.07255 12.53150
+
+(4) - Station 5 Rowing
+	MDV1
+		Images:	4160
+		Time:	31.05.2025 09:30:48 until 31.05.2025 15:30:00
+		Duration:	05:59:12
+		Location:	44.07255 12.53150
+
+	MCO1
+		Images:	4830
+		Time:	31.05.2025 08:31:47 until 31.05.2025 15:04:41
+		Duration:	06:32:54
+		Location:	44.07255 12.53150
+
+	RLO2
+		Images:	2978
+		Time:	31.05.2025 15:35:02 until 31.05.2025 20:31:33
+		Duration:	04:56:31
+		Location:	44.07255 12.53150
+
+	BRP2
+		Images:	9033
+		Time:	31.05.2025 15:30:58 until 31.05.2025 20:57:30
+		Duration:	05:26:32
+		Location:	44.07255 12.53150
+
+	EB1
+		Images:	3693
+		Time:	30.05.2025 09:10:17 until 31.05.2025 18:57:20
+		Duration:	1.09:47:03
+		Location:	44.07255 12.53150
+
+	MATR1
+		Images:	2658
+		Time:	31.05.2025 10:56:02 until 31.05.2025 18:54:41
+		Duration:	07:58:39
+		Location:	44.07255 12.53150
+
+(5) - Station 6 Sandbag Launges
+	EB1LS1
+		Images:	5771
+		Time:	31.05.2025 08:52:57 until 31.05.2025 20:16:44
+		Duration:	11:23:47
+		Location:	44.07255 12.53150
+
+	EB1LS2
+		Images:	4841
+		Time:	30.05.2025 08:59:52 until 31.05.2025 19:55:52
+		Duration:	1.10:56:00
+		Location:	44.07255 12.53150
+
+(6) - Smile Arco Hyrox
+	MATR1LS1
+		Images:	2269
+		Time:	31.05.2025 08:53:26 until 31.05.2025 20:16:44
+		Duration:	11:23:18
+		Location:	44.07255 12.53150
+
+	MATR1LS2
+		Images:	2317
+		Time:	31.05.2025 08:53:26 until 31.05.2025 20:16:44
+		Duration:	11:23:18
+		Location:	44.07255 12.53150
+
+(7) - Station 7 Sandbag Lunges
+	CVG1
+		Images:	2639
+		Time:	31.05.2025 09:46:12 until 31.05.2025 15:22:00
+		Duration:	05:35:48
+		Location:	44.07255 12.53150
+
+	DEC1
+		Images:	4847
+		Time:	31.05.2025 09:18:39 until 31.05.2025 15:04:49
+		Duration:	05:46:10
+		Location:	44.07255 12.53150
+
+	BRN2
+		Images:	5249
+		Time:	30.05.2025 15:26:20 until 31.05.2025 20:56:54
+		Duration:	1.05:30:34
+		Location:	44.07255 12.53150
+
+	GIBE2
+		Images:	10570
+		Time:	31.05.2025 15:22:00 until 31.05.2025 20:55:47
+		Duration:	05:33:47
+		Location:	44.07255 12.53150
+
+	EB2
+		Images:	996
+		Time:	31.05.2025 15:06:00 until 31.05.2025 16:54:58
+		Duration:	01:48:58
+		Location:	44.07255 12.53150
+
+	MATR2
+		Images:	576
+		Time:	31.05.2025 16:27:40 until 31.05.2025 16:56:18
+		Duration:	00:28:38
+		Location:	44.07255 12.53150
+
+(8) - Station 8 Wall Ball
+	LDL1
+		Images:	2104
+		Time:	31.05.2025 08:04:06 until 31.05.2025 15:20:21
+		Duration:	07:16:15
+		Location:	44.07255 12.53150
+
+	MAGA1
+		Images:	1645
+		Time:	31.05.2025 10:01:37 until 31.05.2025 14:31:54
+		Duration:	04:30:17
+		Location:	44.07255 12.53150
+
+	BEB2
+		Images:	2909
+		Time:	31.05.2025 15:22:22 until 31.05.2025 21:02:28
+		Duration:	05:40:06
+		Location:	44.07255 12.53150
+
+	ARF2
+		Images:	4157
+		Time:	31.05.2025 15:27:44 until 31.05.2025 21:16:47
+		Duration:	05:49:03
+		Location:	44.07255 12.53150
+
+	EB3
+		Images:	2970
+		Time:	30.05.2025 11:55:55 until 31.05.2025 19:03:46
+		Duration:	1.07:07:51
+		Location:	44.07255 12.53150
+
+	MATR3
+		Images:	1629
+		Time:	31.05.2025 11:39:19 until 31.05.2025 17:41:13
+		Duration:	06:01:54
+		Location:	44.07255 12.53150
+
+(9) - Finish
+	BRP1
+		Images:	4909
+		Time:	31.05.2025 09:14:08 until 31.05.2025 15:17:19
+		Duration:	06:03:11
+		Location:	44.07255 12.53150
+
+	MCO2
+		Images:	1434
+		Time:	31.05.2025 15:15:08 until 31.05.2025 18:06:54
+		Duration:	02:51:46
+		Location:	44.07255 12.53150
+
+	FRN1LS2
+		Images:	2077
+		Time:	31.05.2025 08:49:51 until 31.05.2025 21:10:32
+		Duration:	12:20:41
+		Location:	44.07255 12.53150
+
+	FRN1LS1
+		Images:	2662
+		Time:	31.05.2025 09:14:47 until 31.05.2025 21:19:23
+		Duration:	12:04:36
+		Location:	44.07255 12.53150
+
+(10) - Medalwall
+	RLO1
+		Images:	4411
+		Time:	31.05.2025 09:11:36 until 31.05.2025 15:28:22
+		Duration:	06:16:46
+		Location:	44.07255 12.53150
+
+	MDS2
+		Images:	4868
+		Time:	31.05.2025 15:25:24 until 31.05.2025 21:11:13
+		Duration:	05:45:49
+		Location:	44.07255 12.53150
+

@@ -1,0 +1,149 @@
+EventId: 14641
+Spots: 22
+Total Images: 73173
+Time:	01.01.0001 23:00:00 to 14.09.2025 15:33:21
+Duration: 739506.16:33:21
+
+(1) - Impressions / Pano
+	PANO1
+		Images:	13
+		Time:	13.09.2025 06:39:43 until 13.09.2025 15:13:52
+		Duration:	08:34:09
+		Location:	47.27479 12.75748
+
+	CK1DRONE1
+		Images:	8
+		Time:	14.09.2025 08:51:19 until 14.09.2025 10:09:19
+		Duration:	01:18:00
+		Location:	47.27479 12.75748
+
+	CK1IMP1
+		Images:	10
+		Time:	14.09.2025 08:30:04 until 14.09.2025 09:22:29
+		Duration:	00:52:25
+		Location:	47.27479 12.75748
+
+(2) - Obstacle 6 Z-Traverse
+	JGU1LS1
+		Images:	2589
+		Time:	13.09.2025 08:35:05 until 14.09.2025 10:53:26
+		Duration:	1.02:18:21
+		Location:	47.27069 12.74060
+
+	JGU1
+		Images:	3439
+		Time:	13.09.2025 07:53:56 until 14.09.2025 14:11:25
+		Duration:	1.06:17:29
+		Location:	47.27047 12.74055
+
+(3) - Obstacle 38 Sandbag Carry
+	EP1
+		Images:	5804
+		Time:	13.09.2025 10:45:25 until 14.09.2025 14:32:08
+		Duration:	1.03:46:43
+		Location:	47.27237 12.73240
+
+	EP1LS1
+		Images:	3647
+		Time:	14.09.2025 11:46:45 until 14.09.2025 13:56:44
+		Duration:	02:09:59
+		Location:	47.27237 12.73240
+
+(4) - Obstacle 39 Chain Carry
+	UEC1
+		Images:	2899
+		Time:	13.09.2025 09:27:13 until 14.09.2025 14:30:00
+		Duration:	1.05:02:47
+		Location:	47.27261 12.73057
+
+	UEC1LS2
+		Images:	1418
+		Time:	14.09.2025 09:18:40 until 14.09.2025 14:30:13
+		Duration:	05:11:33
+		Location:	47.27261 12.73057
+
+	UEC1LS1
+		Images:	444
+		Time:	14.09.2025 12:30:18 until 14.09.2025 14:22:14
+		Duration:	01:51:56
+		Location:	47.27261 12.73057
+
+(5) - Obstacle 40 Bucket carry
+	AGP1
+		Images:	6162
+		Time:	13.09.2025 07:06:18 until 14.09.2025 15:14:50
+		Duration:	1.08:08:32
+		Location:	47.27503 12.75253
+
+(6) - Obstacle 48 Multirig
+	STHE1
+		Images:	5652
+		Time:	13.09.2025 08:52:42 until 14.09.2025 15:24:19
+		Duration:	1.06:31:37
+		Location:	47.27425 12.75734
+
+(7) - Obstacle 49 Athena Traverse
+	JAKO1
+		Images:	4441
+		Time:	13.09.2025 07:19:37 until 14.09.2025 15:24:56
+		Duration:	1.08:05:19
+		Location:	47.27487 12.75741
+
+	CK4
+		Images:	241
+		Time:	14.09.2025 11:50:18 until 14.09.2025 12:03:21
+		Duration:	00:13:03
+		Location:	47.27487 12.75741
+
+(8) - Obstacle 50 A-Frame Cargo
+	CK3
+		Images:	479
+		Time:	14.09.2025 11:34:12 until 14.09.2025 14:41:51
+		Duration:	03:07:39
+		Location:	47.27462 12.75746
+
+	LZA1
+		Images:	5590
+		Time:	13.09.2025 06:32:52 until 14.09.2025 15:30:59
+		Duration:	1.08:58:07
+		Location:	47.27462 12.75746
+
+(9) - Obstacle 51 Vertical Net
+	CK2
+		Images:	127
+		Time:	14.09.2025 09:33:59 until 14.09.2025 10:00:41
+		Duration:	00:26:42
+		Location:	47.27470 12.75750
+
+(10) - Finish
+	CK1
+		Images:	315
+		Time:	13.09.2025 09:02:15 until 14.09.2025 14:36:52
+		Duration:	1.05:34:37
+		Location:	47.27479 12.75748
+
+	CK1LS1
+		Images:	15819
+		Time:	01.01.0001 23:00:00 until 14.09.2025 15:26:01
+		Duration:	739506.16:26:01
+		Location:	47.27479 12.75748
+
+	CK1LS2
+		Images:	9104
+		Time:	14.09.2025 09:18:11 until 14.09.2025 11:09:41
+		Duration:	01:51:30
+		Location:	47.27479 12.75748
+
+	LKE1
+		Images:	2672
+		Time:	13.09.2025 12:55:19 until 14.09.2025 15:31:59
+		Duration:	1.02:36:40
+		Location:	47.27479 12.75748
+
+(11) - Herotent
+	ULKE1
+		Images:	2300
+		Time:	14.09.2025 09:27:21 until 14.09.2025 15:33:21
+		Duration:	06:06:00
+		Location:	47.27479 12.75748
+

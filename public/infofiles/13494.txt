@@ -1,0 +1,112 @@
+EventId: 13494
+Spots: 16
+Total Images: 73492
+Time:	20.07.2025 07:22:56 to 21.07.2025 16:55:04
+Duration: 1.09:32:08
+
+(1) - ATLAS CARRY
+	RAMA1
+		Images:	6105
+		Time:	20.07.2025 08:32:31 until 20.07.2025 16:22:59
+		Duration:	07:50:28
+		Location:	52.30702 12.86309
+
+(2) - RPRA
+	RPRA1
+		Images:	11520
+		Time:	20.07.2025 08:15:42 until 20.07.2025 16:28:27
+		Duration:	08:12:45
+		Location:	52.30757 12.86100
+
+(3) - BUCKET CARRY
+	DAN1
+		Images:	4620
+		Time:	20.07.2025 08:59:33 until 20.07.2025 16:46:15
+		Duration:	07:46:42
+		Location:	52.30238 12.85551
+
+	DAN1LS1
+		Images:	1845
+		Time:	20.07.2025 09:32:45 until 20.07.2025 16:37:43
+		Duration:	07:04:58
+		Location:	52.30238 12.85551
+
+(4) - LOG CARRY
+	PJE1
+		Images:	2732
+		Time:	20.07.2025 08:45:52 until 20.07.2025 13:10:04
+		Duration:	04:24:12
+		Location:	52.30764 12.84860
+
+	PJE1LS1
+		Images:	2863
+		Time:	20.07.2025 08:28:21 until 20.07.2025 13:10:04
+		Duration:	04:41:43
+		Location:	52.30764 12.84860
+
+(5) - BARBWIRE CRAWL
+	GBR1
+		Images:	5766
+		Time:	20.07.2025 08:45:15 until 20.07.2025 16:55:28
+		Duration:	08:10:13
+		Location:	52.30278 12.84943
+
+(6) - APE HANGER
+	FDC1
+		Images:	11981
+		Time:	20.07.2025 08:32:31 until 20.07.2025 16:22:59
+		Duration:	07:50:28
+		Location:	52.29053 12.84499
+
+(7) - A FRAME
+	CARS1
+		Images:	4121
+		Time:	20.07.2025 08:05:47 until 20.07.2025 17:27:12
+		Duration:	09:21:25
+		Location:	52.29509 12.85692
+
+	PJE2
+		Images:	667
+		Time:	20.07.2025 15:05:40 until 20.07.2025 16:54:47
+		Duration:	01:49:07
+		Location:	52.29509 12.85692
+
+(8) - Finish
+	RYS1
+		Images:	6356
+		Time:	20.07.2025 09:20:30 until 20.07.2025 17:31:44
+		Duration:	08:11:14
+		Location:	52.29589 12.85740
+
+	RYS1LS2
+		Images:	5758
+		Time:	20.07.2025 09:40:27 until 20.07.2025 17:09:17
+		Duration:	07:28:50
+		Location:	52.29589 12.85740
+
+	RYS1LS1
+		Images:	5849
+		Time:	20.07.2025 09:40:28 until 20.07.2025 17:09:19
+		Duration:	07:28:51
+		Location:	52.29589 12.85740
+
+(9) - HERO TENT
+	JKIM1
+		Images:	3163
+		Time:	20.07.2025 07:22:56 until 20.07.2025 17:32:44
+		Duration:	10:09:48
+		Location:	52.29589 12.85740
+
+(10) - Impressions / Pano
+	AGA1IMP1
+		Images:	57
+		Time:	20.07.2025 08:39:00 until 20.07.2025 15:16:23
+		Duration:	06:37:23
+		Location:	52.29589 12.85740
+
+	AGA1DRONE1
+		Images:	89
+		Time:	21.07.2025 08:40:18 until 21.07.2025 16:55:04
+		Duration:	08:14:46
+		Location:	52.29589 12.85740
+

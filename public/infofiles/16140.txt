@@ -1,0 +1,299 @@
+EventId: 16140
+Spots: 48
+Total Images: 125691
+Time:	26.09.2025 06:57:24 to 27.09.2025 22:02:38
+Duration: 1.15:05:14
+
+(1) - Finish
+	RYS2LS2
+		Images:	2604
+		Time:	27.09.2025 08:06:55 until 27.09.2025 20:57:18
+		Duration:	12:50:23
+		Location:	59.95062 11.04478
+
+	RYS2LS1
+		Images:	2452
+		Time:	27.09.2025 08:02:27 until 27.09.2025 20:57:30
+		Duration:	12:55:03
+		Location:	59.95062 11.04478
+
+	SHNI1
+		Images:	2414
+		Time:	27.09.2025 08:26:29 until 27.09.2025 15:19:47
+		Duration:	06:53:18
+		Location:	59.95062 11.04478
+
+	WKA5
+		Images:	205
+		Time:	27.09.2025 18:55:44 until 27.09.2025 20:39:20
+		Duration:	01:43:36
+		Location:	59.95062 11.04478
+
+	AWIL2
+		Images:	928
+		Time:	27.09.2025 15:39:07 until 27.09.2025 20:57:02
+		Duration:	05:17:55
+		Location:	59.95062 11.04478
+
+	RYS1
+		Images:	590
+		Time:	27.09.2025 15:11:48 until 27.09.2025 18:59:56
+		Duration:	03:48:08
+		Location:	59.95062 11.04478
+
+(2) - Station 7 Sandbag Lunges
+	AWIL1
+		Images:	3378
+		Time:	26.09.2025 07:05:10 until 27.09.2025 15:14:27
+		Duration:	1.08:09:17
+		Location:	59.95062 11.04478
+
+	IMOG2
+		Images:	4456
+		Time:	27.09.2025 15:17:36 until 27.09.2025 20:36:56
+		Duration:	05:19:20
+		Location:	59.95062 11.04478
+
+	RKO2
+		Images:	2874
+		Time:	27.09.2025 15:03:57 until 27.09.2025 20:32:44
+		Duration:	05:28:47
+		Location:	59.95062 11.04478
+
+	JLA2
+		Images:	650
+		Time:	27.09.2025 12:07:54 until 27.09.2025 18:12:29
+		Duration:	06:04:35
+		Location:	59.95062 11.04478
+
+	WKA2
+		Images:	1616
+		Time:	27.09.2025 12:09:59 until 27.09.2025 18:06:37
+		Duration:	05:56:38
+		Location:	59.95062 11.04478
+
+	AGP1
+		Images:	4493
+		Time:	27.09.2025 08:23:31 until 27.09.2025 14:56:12
+		Duration:	06:32:41
+		Location:	59.95062 11.04478
+
+(3) - Impressions / Pano
+	PANO1
+	RYS2
+		Images:	135
+		Time:	27.09.2025 08:40:18 until 27.09.2025 17:16:49
+		Duration:	08:36:31
+		Location:	59.95062 11.04478
+
+(4) - Station 1 Ski Erg
+	JLA5
+		Images:	113
+		Time:	27.09.2025 09:25:53 until 27.09.2025 19:14:48
+		Duration:	09:48:55
+		Location:	59.95062 11.04478
+
+	AV2
+		Images:	3055
+		Time:	27.09.2025 15:04:34 until 27.09.2025 19:27:37
+		Duration:	04:23:03
+		Location:	59.95062 11.04478
+
+	BEG2
+		Images:	1812
+		Time:	27.09.2025 15:06:34 until 27.09.2025 19:26:24
+		Duration:	04:19:50
+		Location:	59.95062 11.04478
+
+	OLM2
+		Images:	2775
+		Time:	26.09.2025 19:37:21 until 27.09.2025 19:28:08
+		Duration:	23:50:47
+		Location:	59.95062 11.04478
+
+	MAKO1
+		Images:	5152
+		Time:	27.09.2025 08:03:30 until 27.09.2025 14:48:20
+		Duration:	06:44:50
+		Location:	59.95062 11.04478
+
+	RKO1
+		Images:	4111
+		Time:	27.09.2025 08:02:49 until 27.09.2025 14:58:06
+		Duration:	06:55:17
+		Location:	59.95062 11.04478
+
+	EGA1
+		Images:	3177
+		Time:	26.09.2025 07:06:10 until 27.09.2025 14:57:46
+		Duration:	1.07:51:36
+		Location:	59.95062 11.04478
+
+(5) - Medalwall
+	RWI1
+		Images:	6165
+		Time:	27.09.2025 09:01:52 until 27.09.2025 22:02:38
+		Duration:	13:00:46
+		Location:	59.95062 11.04478
+
+(6) - Station 2 Sled Push
+	KAM2
+		Images:	1398
+		Time:	27.09.2025 15:11:48 until 27.09.2025 19:37:08
+		Duration:	04:25:20
+		Location:	59.95062 11.04478
+
+	OLM1
+		Images:	3488
+		Time:	26.09.2025 06:57:41 until 27.09.2025 14:57:35
+		Duration:	1.07:59:54
+		Location:	59.95062 11.04478
+
+	AGP2
+		Images:	2505
+		Time:	27.09.2025 15:03:22 until 27.09.2025 19:36:56
+		Duration:	04:33:34
+		Location:	59.95062 11.04478
+
+	EGA2
+		Images:	2030
+		Time:	27.09.2025 15:04:14 until 27.09.2025 19:35:47
+		Duration:	04:31:33
+		Location:	59.95062 11.04478
+
+	AV1
+		Images:	3274
+		Time:	26.09.2025 08:48:04 until 27.09.2025 14:58:13
+		Duration:	1.06:10:09
+		Location:	59.95062 11.04478
+
+	KAS1
+		Images:	2921
+		Time:	26.09.2025 06:57:24 until 27.09.2025 15:08:01
+		Duration:	1.08:10:37
+		Location:	59.95062 11.04478
+
+(7) - Station 3 Sled Pull
+	JAKO2
+		Images:	2870
+		Time:	27.09.2025 15:12:15 until 27.09.2025 19:49:46
+		Duration:	04:37:31
+		Location:	59.95062 11.04478
+
+	MAKO2
+		Images:	3216
+		Time:	27.09.2025 15:08:40 until 27.09.2025 19:48:26
+		Duration:	04:39:46
+		Location:	59.95062 11.04478
+
+	AWEE1
+		Images:	2606
+		Time:	26.09.2025 07:14:22 until 27.09.2025 14:55:40
+		Duration:	1.07:41:18
+		Location:	59.95062 11.04478
+
+	BEG1
+		Images:	2459
+		Time:	26.09.2025 07:12:13 until 27.09.2025 14:57:21
+		Duration:	1.07:45:08
+		Location:	59.95062 11.04478
+
+	FAT1
+		Images:	1470
+		Time:	26.09.2025 07:11:18 until 27.09.2025 15:04:49
+		Duration:	1.07:53:31
+		Location:	59.95062 11.04478
+
+	FJO2
+		Images:	2022
+		Time:	26.09.2025 16:22:23 until 27.09.2025 19:47:22
+		Duration:	1.03:24:59
+		Location:	59.95062 11.04478
+
+(8) - Station 5 Rowing
+	KAM1
+		Images:	3956
+		Time:	27.09.2025 07:34:40 until 27.09.2025 15:03:27
+		Duration:	07:28:47
+		Location:	59.95062 11.04478
+
+	FAT2
+		Images:	2366
+		Time:	26.09.2025 19:47:18 until 27.09.2025 20:12:35
+		Duration:	1.00:25:17
+		Location:	59.95062 11.04478
+
+	KAS2
+		Images:	2779
+		Time:	27.09.2025 15:12:25 until 27.09.2025 20:14:00
+		Duration:	05:01:35
+		Location:	59.95062 11.04478
+
+	JLA1
+		Images:	1199
+		Time:	27.09.2025 11:03:02 until 27.09.2025 17:32:23
+		Duration:	06:29:21
+		Location:	59.95062 11.04478
+
+	JAKO1
+		Images:	5292
+		Time:	27.09.2025 08:34:58 until 27.09.2025 15:11:41
+		Duration:	06:36:43
+		Location:	59.95062 11.04478
+
+	WKA1
+		Images:	1203
+		Time:	26.09.2025 08:21:56 until 27.09.2025 17:32:59
+		Duration:	1.09:11:03
+		Location:	59.95062 11.04478
+
+(9) - Station 6 Farmers Carry
+	RYS3LS1
+		Images:	3595
+		Time:	27.09.2025 09:12:27 until 27.09.2025 20:26:14
+		Duration:	11:13:47
+		Location:	59.95062 11.04478
+
+	RKO3LS1
+		Images:	5265
+		Time:	27.09.2025 07:44:36 until 27.09.2025 20:28:57
+		Duration:	12:44:21
+		Location:	59.95062 11.04478
+
+(10) - Station 8 Wall Balls
+	AWEE2
+		Images:	2768
+		Time:	27.09.2025 15:10:30 until 27.09.2025 20:47:17
+		Duration:	05:36:47
+		Location:	59.95062 11.04478
+
+	SHNI2
+		Images:	3023
+		Time:	27.09.2025 15:20:57 until 27.09.2025 20:36:56
+		Duration:	05:15:59
+		Location:	59.95062 11.04478
+
+	JLA3
+		Images:	409
+		Time:	26.09.2025 11:58:19 until 27.09.2025 18:52:56
+		Duration:	1.06:54:37
+		Location:	59.95062 11.04478
+
+	WKA3
+		Images:	583
+		Time:	27.09.2025 18:18:21 until 27.09.2025 18:49:18
+		Duration:	00:30:57
+		Location:	59.95062 11.04478
+
+	IMOG1
+		Images:	7350
+		Time:	26.09.2025 07:03:01 until 27.09.2025 15:06:56
+		Duration:	1.08:03:55
+		Location:	59.95062 11.04478
+
+	FJO1
+		Images:	2484
+		Time:	26.09.2025 07:10:09 until 27.09.2025 15:00:30
+		Duration:	1.07:50:21
+		Location:	59.95062 11.04478
+

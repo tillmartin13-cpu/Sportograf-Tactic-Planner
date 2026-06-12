@@ -1,0 +1,335 @@
+EventId: 15346
+Spots: 53
+Total Images: 183853
+Time:	14.01.2000 22:40:04 to 05.05.2025 20:03:02
+Duration: 9242.21:22:58
+
+(1) - Finish
+	DANG6
+		Images:	1010
+		Time:	05.04.2025 19:28:44 until 05.04.2025 20:28:55
+		Duration:	01:00:11
+		Location:	25.67797 -100.28948
+
+	MAT5
+		Images:	980
+		Time:	05.04.2025 13:27:51 until 05.04.2025 14:38:45
+		Duration:	01:10:54
+		Location:	25.67797 -100.28948
+
+	EGG4LS1
+		Images:	3987
+		Time:	05.04.2025 07:53:52 until 05.04.2025 21:47:04
+		Duration:	13:53:12
+		Location:	25.67797 -100.28948
+
+	EDD1
+		Images:	11996
+		Time:	05.04.2025 08:54:52 until 05.04.2025 13:25:02
+		Duration:	04:30:10
+		Location:	25.67797 -100.28948
+
+	JLC2
+		Images:	4062
+		Time:	05.04.2025 14:38:42 until 05.04.2025 22:12:16
+		Duration:	07:33:34
+		Location:	25.67797 -100.28948
+
+	PM1LS1
+		Images:	2677
+		Time:	05.04.2025 07:17:27 until 05.04.2025 21:46:42
+		Duration:	14:29:15
+		Location:	25.67797 -100.28948
+
+(2) - Medalwall
+	EGG3
+		Images:	343
+		Time:	05.04.2025 11:30:49 until 05.04.2025 12:20:45
+		Duration:	00:49:56
+		Location:	25.67797 -100.28948
+
+	EGG6
+		Images:	229
+		Time:	05.04.2025 18:06:58 until 05.04.2025 18:30:31
+		Duration:	00:23:33
+		Location:	25.67797 -100.28948
+
+	JLC1
+		Images:	1821
+		Time:	05.04.2025 06:12:57 until 05.04.2025 14:36:22
+		Duration:	08:23:25
+		Location:	25.67797 -100.28948
+
+	VAR2
+		Images:	1721
+		Time:	05.04.2025 12:36:34 until 05.04.2025 19:49:10
+		Duration:	07:12:36
+		Location:	25.67797 -100.28948
+
+(3) - Station 1 SKIERG
+	DANG2
+		Images:	1234
+		Time:	05.04.2025 10:25:14 until 05.04.2025 17:29:19
+		Duration:	07:04:05
+		Location:	25.67797 -100.28948
+
+	MAT2
+		Images:	1910
+		Time:	05.04.2025 10:25:49 until 05.04.2025 17:28:18
+		Duration:	07:02:29
+		Location:	25.67797 -100.28948
+
+	EGG2
+		Images:	292
+		Time:	05.04.2025 10:35:20 until 05.04.2025 11:20:56
+		Duration:	00:45:36
+		Location:	25.67797 -100.28948
+
+	JFS1
+		Images:	16996
+		Time:	05.04.2025 08:03:02 until 05.04.2025 14:29:02
+		Duration:	06:26:00
+		Location:	25.67797 -100.28948
+
+	NIJA2
+		Images:	7450
+		Time:	05.04.2025 14:28:25 until 05.04.2025 20:05:33
+		Duration:	05:37:08
+		Location:	25.67797 -100.28948
+
+	DAP1
+		Images:	9631
+		Time:	04.04.2025 19:57:22 until 05.04.2025 14:41:54
+		Duration:	18:44:32
+		Location:	25.67797 -100.28948
+
+	VT2
+		Images:	1176
+		Time:	05.05.2025 14:56:13 until 05.05.2025 20:03:02
+		Duration:	05:06:49
+		Location:	25.67797 -100.28948
+
+(4) - Station 2 SLED PULL
+	RMM1
+		Images:	2428
+		Time:	05.04.2025 07:47:33 until 05.04.2025 14:41:39
+		Duration:	06:54:06
+		Location:	25.67797 -100.28948
+
+(5) - Station 2 SLED PUSH
+	DANG1
+		Images:	1190
+		Time:	05.04.2025 09:30:16 until 05.04.2025 19:01:59
+		Duration:	09:31:43
+		Location:	25.67797 -100.28948
+
+	MAT1
+		Images:	1944
+		Time:	05.04.2025 09:30:26 until 05.04.2025 16:49:58
+		Duration:	07:19:32
+		Location:	25.67797 -100.28948
+
+	EGG1
+		Images:	233
+		Time:	05.04.2025 09:42:48 until 05.04.2025 10:20:16
+		Duration:	00:37:28
+		Location:	25.67797 -100.28948
+
+	JCSH1
+		Images:	7066
+		Time:	05.04.2025 07:53:13 until 05.04.2025 14:50:33
+		Duration:	06:57:20
+		Location:	25.67797 -100.28948
+
+	EDD2
+		Images:	5843
+		Time:	05.04.2025 14:30:56 until 05.04.2025 20:07:59
+		Duration:	05:37:03
+		Location:	25.67797 -100.28948
+
+	JOP1
+		Images:	5119
+		Time:	05.04.2025 08:12:29 until 05.04.2025 14:29:55
+		Duration:	06:17:26
+		Location:	25.67797 -100.28948
+
+	PM2
+		Images:	4307
+		Time:	05.04.2025 14:50:53 until 05.04.2025 20:17:24
+		Duration:	05:26:31
+		Location:	25.67797 -100.28948
+
+(6) - Station 3 SLED PULL
+	RHR2
+		Images:	2691
+		Time:	05.04.2025 14:41:54 until 05.04.2025 20:34:31
+		Duration:	05:52:37
+		Location:	25.67797 -100.28948
+
+	DANG3
+		Images:	1850
+		Time:	05.04.2025 11:30:41 until 05.04.2025 18:23:13
+		Duration:	06:52:32
+		Location:	25.67797 -100.28948
+
+	MAT3
+		Images:	1253
+		Time:	05.04.2025 11:31:45 until 05.04.2025 18:24:12
+		Duration:	06:52:27
+		Location:	25.67797 -100.28948
+
+	AGAV1
+		Images:	2909
+		Time:	14.01.2000 22:40:04 until 05.04.2025 14:39:37
+		Duration:	9212.15:59:33
+		Location:	25.67797 -100.28948
+
+	SGD2
+		Images:	3195
+		Time:	05.04.2025 14:45:04 until 05.04.2025 20:30:12
+		Duration:	05:45:08
+		Location:	25.67797 -100.28948
+
+(7) - Station 4 ROWING
+	DANG4
+		Images:	2042
+		Time:	05.04.2025 12:27:12 until 05.04.2025 19:20:32
+		Duration:	06:53:20
+		Location:	25.67797 -100.28948
+
+	MAT6
+		Images:	761
+		Time:	05.04.2025 18:29:47 until 05.04.2025 19:23:16
+		Duration:	00:53:29
+		Location:	25.67797 -100.28948
+
+(8) - Station 5 ROWING
+	RHR1
+		Images:	6713
+		Time:	05.04.2025 07:39:34 until 05.04.2025 14:35:09
+		Duration:	06:55:35
+		Location:	25.67797 -100.28948
+
+	EGG4
+		Images:	432
+		Time:	05.04.2025 12:33:32 until 05.04.2025 13:20:56
+		Duration:	00:47:24
+		Location:	25.67797 -100.28948
+
+	JCSH2
+		Images:	7913
+		Time:	05.04.2025 14:56:39 until 05.04.2025 20:57:30
+		Duration:	06:00:51
+		Location:	25.67797 -100.28948
+
+	JOP2
+		Images:	4023
+		Time:	05.04.2025 14:35:00 until 05.04.2025 21:22:17
+		Duration:	06:47:17
+		Location:	25.67797 -100.28948
+
+	SGD1
+		Images:	7562
+		Time:	05.04.2025 07:59:52 until 05.04.2025 14:38:57
+		Duration:	06:39:05
+		Location:	25.67797 -100.28948
+
+(9) - Station 6 FARMERS CARRY
+	DANG1LS1
+		Images:	4516
+		Time:	05.04.2025 07:58:17 until 05.04.2025 20:38:23
+		Duration:	12:40:06
+		Location:	25.67797 -100.28948
+
+	MAT1LS1
+		Images:	8421
+		Time:	04.04.2025 07:58:13 until 04.04.2025 20:38:22
+		Duration:	12:40:09
+		Location:	25.67797 -100.28948
+
+(10) - Station 7 SANDBAG LUNGES
+	MAT4
+		Images:	1122
+		Time:	05.04.2025 12:29:03 until 05.04.2025 13:21:53
+		Duration:	00:52:50
+		Location:	25.67797 -100.28948
+
+	EGG7
+		Images:	616
+		Time:	05.04.2025 18:33:18 until 05.04.2025 19:25:29
+		Duration:	00:52:11
+		Location:	25.67797 -100.28948
+
+	AGAV2
+		Images:	2835
+		Time:	05.04.2025 14:44:59 until 05.04.2025 21:22:16
+		Duration:	06:37:17
+		Location:	25.67797 -100.28948
+
+	VT1
+		Images:	2850
+		Time:	05.05.2025 07:37:27 until 05.05.2025 14:49:25
+		Duration:	07:11:58
+		Location:	25.67797 -100.28948
+
+	PM1
+		Images:	6752
+		Time:	05.04.2025 08:25:49 until 05.04.2025 14:44:37
+		Duration:	06:18:48
+		Location:	25.67797 -100.28948
+
+	RMM2
+		Images:	2320
+		Time:	05.04.2025 15:03:05 until 05.04.2025 21:21:58
+		Duration:	06:18:53
+		Location:	25.67797 -100.28948
+
+(11) - Station 8 WALL BALLS
+	DANG5
+		Images:	1754
+		Time:	05.04.2025 13:30:01 until 05.04.2025 14:57:17
+		Duration:	01:27:16
+		Location:	25.67797 -100.28948
+
+	MAT7
+		Images:	726
+		Time:	05.04.2025 19:28:50 until 05.04.2025 20:18:47
+		Duration:	00:49:57
+		Location:	25.67797 -100.28948
+
+	EGG5
+		Images:	398
+		Time:	05.04.2025 13:30:53 until 05.04.2025 14:19:46
+		Duration:	00:48:53
+		Location:	25.67797 -100.28948
+
+	EGG8
+		Images:	437
+		Time:	05.04.2025 19:35:40 until 05.04.2025 20:18:33
+		Duration:	00:42:53
+		Location:	25.67797 -100.28948
+
+	JFS2
+		Images:	4728
+		Time:	05.04.2025 14:35:07 until 05.04.2025 21:59:50
+		Duration:	07:24:43
+		Location:	25.67797 -100.28948
+
+	NIJA1
+		Images:	3354
+		Time:	05.04.2025 08:53:04 until 05.04.2025 13:27:23
+		Duration:	04:34:19
+		Location:	25.67797 -100.28948
+
+	DAP2
+		Images:	3868
+		Time:	05.04.2025 14:57:50 until 05.04.2025 21:46:22
+		Duration:	06:48:32
+		Location:	25.67797 -100.28948
+
+	VAR1
+		Images:	2167
+		Time:	05.04.2025 08:54:15 until 05.04.2025 13:29:59
+		Duration:	04:35:44
+		Location:	25.67797 -100.28948
+

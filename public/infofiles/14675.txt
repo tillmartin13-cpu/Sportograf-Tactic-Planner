@@ -1,0 +1,102 @@
+EventId: 14675
+Spots: 15
+Total Images: 126052
+Time:	27.06.2025 21:35:45 to 29.06.2025 11:37:30
+Duration: 1.14:01:45
+
+(1) - Start
+	CCZ1
+		Images:	123
+		Time:	28.06.2025 10:16:54 until 28.06.2025 10:27:48
+		Duration:	00:10:54
+		Location:	45.16113 -92.91448
+
+(2) - Obstacle 11 SKID MARKED
+	CCZ2
+		Images:	1177
+		Time:	28.06.2025 12:22:11 until 28.06.2025 12:36:26
+		Duration:	00:14:15
+		Location:	45.16125 -92.91229
+
+	OLAL1
+		Images:	6819
+		Time:	28.06.2025 08:39:40 until 28.06.2025 15:20:50
+		Duration:	06:41:10
+		Location:	45.16125 -92.91229
+
+(3) - Obstacle 1 ELECTRIC EEL
+	CCZ3
+		Images:	62
+		Time:	28.06.2025 10:42:26 until 28.06.2025 10:55:04
+		Duration:	00:12:38
+		Location:	45.16318 -92.92816
+
+(4) - Obstacle 12 FUNKY MONKEY
+	LIT1
+		Images:	5696
+		Time:	28.06.2025 08:42:47 until 29.06.2025 10:27:17
+		Duration:	1.01:44:30
+		Location:	45.16286 -92.91316
+
+	MRKE1
+		Images:	10679
+		Time:	28.06.2025 07:51:00 until 29.06.2025 10:08:02
+		Duration:	1.02:17:02
+		Location:	45.16286 -92.91316
+
+(5) - Obstacle 16 Berlin Wall
+	DANM1
+		Images:	12356
+		Time:	28.06.2025 06:44:43 until 28.06.2025 15:27:25
+		Duration:	08:42:42
+		Location:	45.16273 -92.92175
+
+(6) - Obstacle 19 LADDER TO HELL
+	AKAS1
+		Images:	20522
+		Time:	28.06.2025 08:34:58 until 29.06.2025 00:51:13
+		Duration:	16:16:15
+		Location:	45.16491 -92.92349
+
+(7) - Obstacle 21 HANGIN TOUGH
+	CASS1
+		Images:	5580
+		Time:	28.06.2025 08:50:57 until 28.06.2025 16:28:32
+		Duration:	07:37:35
+		Location:	45.16650 -92.92591
+
+(8) - Obstacle 22 BLOCKNESS MONSTER
+	LHBC1
+		Images:	17769
+		Time:	28.06.2025 09:18:43 until 28.06.2025 16:34:38
+		Duration:	07:15:55
+		Location:	45.16396 -92.92604
+
+	THAT1
+		Images:	12278
+		Time:	27.06.2025 21:35:45 until 28.06.2025 16:33:04
+		Duration:	18:57:19
+		Location:	45.16396 -92.92604
+
+(9) - Impressions / Pano
+	THAT1DRONE1
+		Images:	26
+		Time:	28.06.2025 09:42:17 until 29.06.2025 11:37:30
+		Duration:	1.01:55:13
+		Location:	45.16396 -92.92604
+
+	PANO1
+(10) - Obstacle 23 MADDER HORN
+	JBB1
+		Images:	19749
+		Time:	27.06.2025 22:30:57 until 29.06.2025 09:06:10
+		Duration:	1.10:35:13
+		Location:	45.16311 -92.92775
+
+(11) - Obstacle 24 ELECTROSHOCK THERAPY
+	ERIC1
+		Images:	13215
+		Time:	27.06.2025 23:09:08 until 28.06.2025 17:41:51
+		Duration:	18:32:43
+		Location:	45.16318 -92.92816
+

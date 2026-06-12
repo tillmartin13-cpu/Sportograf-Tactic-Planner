@@ -1,0 +1,133 @@
+EventId: 15244
+Spots: 20
+Total Images: 146655
+Time:	03.06.2025 16:57:25 to 04.06.2025 20:53:57
+Duration: 1.03:56:32
+
+(1) - Start
+	DAVR1
+		Images:	451
+		Time:	03.06.2025 17:31:17 until 04.06.2025 18:27:51
+		Duration:	1.00:56:34
+		Location:	NULL NULL
+
+	MGEN1
+		Images:	3413
+		Time:	03.06.2025 17:43:43 until 04.06.2025 18:02:10
+		Duration:	1.00:18:27
+		Location:	NULL NULL
+
+(2) - 0,4 km Sambaband
+	MIH1
+		Images:	14813
+		Time:	03.06.2025 16:57:25 until 03.06.2025 21:15:48
+		Duration:	04:18:23
+		Location:	NULL NULL
+
+	MIH1LS1
+		Images:	2645
+		Time:	03.06.2025 17:49:54 until 03.06.2025 21:14:23
+		Duration:	03:24:29
+		Location:	NULL NULL
+
+(3) - 1,6 km Siegessäule
+	CM1
+		Images:	6623
+		Time:	03.06.2025 18:15:06 until 03.06.2025 21:24:02
+		Duration:	03:08:56
+		Location:	NULL NULL
+
+	CM1LS1
+		Images:	2946
+		Time:	03.06.2025 18:34:24 until 03.06.2025 21:08:07
+		Duration:	02:33:43
+		Location:	NULL NULL
+
+(4) - 2,2 km
+	GUD1
+		Images:	19193
+		Time:	03.06.2025 18:36:26 until 04.06.2025 18:09:43
+		Duration:	23:33:17
+		Location:	NULL NULL
+
+	GUD1LS1
+		Images:	7370
+		Time:	03.06.2025 18:17:37 until 03.06.2025 21:29:26
+		Duration:	03:11:49
+		Location:	NULL NULL
+
+	GUD1LS2
+		Images:	7465
+		Time:	03.06.2025 18:15:53 until 03.06.2025 21:29:26
+		Duration:	03:13:33
+		Location:	NULL NULL
+
+(5) - 3,4 km Schloss Bellevue
+	JZE1
+		Images:	14109
+		Time:	03.06.2025 18:14:42 until 04.06.2025 17:24:34
+		Duration:	23:09:52
+		Location:	NULL NULL
+
+	JZE1LS1
+		Images:	2574
+		Time:	03.06.2025 18:10:14 until 03.06.2025 20:48:45
+		Duration:	02:38:31
+		Location:	NULL NULL
+
+(6) - 4,2 km
+	AGA1
+		Images:	14242
+		Time:	03.06.2025 19:43:02 until 03.06.2025 22:42:05
+		Duration:	02:59:03
+		Location:	NULL NULL
+
+(7) - 4,4 km Große Querallee
+	LSI1
+		Images:	11593
+		Time:	03.06.2025 17:37:36 until 04.06.2025 18:01:22
+		Duration:	1.00:23:46
+		Location:	NULL NULL
+
+(8) - 4,0 km Zeltenplatz
+	CHWI1
+		Images:	10711
+		Time:	03.06.2025 18:39:25 until 04.06.2025 17:44:59
+		Duration:	23:05:34
+		Location:	NULL NULL
+
+(9) - 4,6 km Gasse durch die Teamzelte
+	SLOM1
+		Images:	11372
+		Time:	03.06.2025 17:40:41 until 03.06.2025 21:37:05
+		Duration:	03:56:24
+		Location:	NULL NULL
+
+(10) - Transition zone
+	DAVR3
+		Images:	2186
+		Time:	03.06.2025 18:50:11 until 04.06.2025 20:53:57
+		Duration:	1.02:03:46
+		Location:	NULL NULL
+
+	MGEN2
+		Images:	12703
+		Time:	03.06.2025 18:48:06 until 03.06.2025 21:03:07
+		Duration:	02:15:01
+		Location:	NULL NULL
+
+(11) - Finish
+	DAVR2
+		Images:	1764
+		Time:	03.06.2025 19:52:39 until 03.06.2025 21:40:08
+		Duration:	01:47:29
+		Location:	NULL NULL
+
+	MGEN3
+		Images:	482
+		Time:	03.06.2025 19:30:35 until 03.06.2025 21:48:33
+		Duration:	02:17:58
+		Location:	NULL NULL
+
+(12) - Impressions / Pano
+	PANO1

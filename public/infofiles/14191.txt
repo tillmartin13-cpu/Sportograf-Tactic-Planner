@@ -1,0 +1,425 @@
+EventId: 14191
+Spots: 64
+Total Images: 356030
+Time:	25.04.2025 23:02:21 to 26.04.2025 20:50:36
+Duration: 21:48:15
+
+(1) - 106.5 km
+	AACCA1
+		Images:	12689
+		Time:	26.04.2025 06:50:31 until 26.04.2025 13:03:20
+		Duration:	06:12:49
+		Location:	39.68293 2.50035
+
+(2) - 112.0 km
+	AFJPH1
+		Images:	3573
+		Time:	26.04.2025 07:35:08 until 26.04.2025 12:27:26
+		Duration:	04:52:18
+		Location:	39.65340 2.48172
+
+(3) - 117.1 km
+	AFRSA1
+		Images:	8701
+		Time:	26.04.2025 08:42:06 until 26.04.2025 13:34:50
+		Duration:	04:52:44
+		Location:	39.64516 2.45064
+
+(4) - 120.0 km
+	AWRFG1
+		Images:	13133
+		Time:	26.04.2025 09:57:20 until 26.04.2025 13:23:07
+		Duration:	03:25:47
+		Location:	39.62398 2.42384
+
+(5) - 184.0 km
+	AMICE2
+		Images:	2758
+		Time:	26.04.2025 15:32:37 until 26.04.2025 17:17:58
+		Duration:	01:45:21
+		Location:	39.72145 2.82949
+
+(6) - 190.0 km
+	AACC2
+		Images:	2292
+		Time:	26.04.2025 15:34:56 until 26.04.2025 17:14:57
+		Duration:	01:40:01
+		Location:	39.72032 2.84516
+
+	AACC2LS1
+		Images:	800
+		Time:	26.04.2025 15:44:40 until 26.04.2025 17:16:11
+		Duration:	01:31:31
+		Location:	39.72032 2.84516
+
+(7) - 191.0 km
+	AKKP2
+		Images:	2229
+		Time:	26.04.2025 15:38:19 until 26.04.2025 17:11:39
+		Duration:	01:33:20
+		Location:	39.72124 2.84622
+
+(8) - 192.0 km
+	AMPP2LS1
+		Images:	778
+		Time:	26.04.2025 16:13:16 until 26.04.2025 16:58:28
+		Duration:	00:45:12
+		Location:	39.72049 2.84828
+
+	AMPP2LS2
+		Images:	1219
+		Time:	26.04.2025 15:47:38 until 26.04.2025 16:58:13
+		Duration:	01:10:35
+		Location:	39.72049 2.84828
+
+(9) - 192.5 km
+	BCHR1
+		Images:	5122
+		Time:	26.04.2025 14:21:15 until 26.04.2025 17:21:24
+		Duration:	03:00:09
+		Location:	39.71439 2.85449
+
+	BCHR1LS1
+		Images:	1362
+		Time:	26.04.2025 14:18:56 until 26.04.2025 17:17:23
+		Duration:	02:58:27
+		Location:	39.71439 2.85449
+
+	BCOR1
+		Images:	4249
+		Time:	26.04.2025 07:58:45 until 26.04.2025 17:50:13
+		Duration:	09:51:28
+		Location:	39.71439 2.85449
+
+	BCOR1LS1
+		Images:	2501
+		Time:	26.04.2025 14:06:55 until 26.04.2025 16:28:04
+		Duration:	02:21:09
+		Location:	39.71439 2.85449
+
+	BCOR1LS2
+		Images:	2468
+		Time:	26.04.2025 14:08:51 until 26.04.2025 16:28:05
+		Duration:	02:19:14
+		Location:	39.71439 2.85449
+
+(10) - 195.6 km
+	BEP1
+		Images:	3243
+		Time:	26.04.2025 14:41:26 until 26.04.2025 17:33:08
+		Duration:	02:51:42
+		Location:	39.74039 2.88772
+
+	BEP1LS1
+		Images:	2643
+		Time:	26.04.2025 14:33:40 until 26.04.2025 17:35:15
+		Duration:	03:01:35
+		Location:	39.74039 2.88772
+
+	BEP1LS2
+		Images:	2207
+		Time:	26.04.2025 14:30:12 until 26.04.2025 17:33:06
+		Duration:	03:02:54
+		Location:	39.74039 2.88772
+
+(11) - 197.0 km
+	BFEZ1
+		Images:	7690
+		Time:	26.04.2025 14:23:13 until 26.04.2025 17:38:43
+		Duration:	03:15:30
+		Location:	39.75093 2.90190
+
+	BFEZ1LS1
+		Images:	6245
+		Time:	26.04.2025 14:18:45 until 26.04.2025 17:28:43
+		Duration:	03:09:58
+		Location:	39.75093 2.90190
+
+(12) - 246.0 km
+	BBRN1
+		Images:	4877
+		Time:	26.04.2025 11:16:45 until 26.04.2025 17:56:00
+		Duration:	06:39:15
+		Location:	39.63824 3.14116
+
+	BBRN1LS1
+		Images:	1891
+		Time:	26.04.2025 13:35:32 until 26.04.2025 17:56:05
+		Duration:	04:20:33
+		Location:	39.63824 3.14116
+
+(13) - 247.0 km
+	BCECK1
+		Images:	3389
+		Time:	26.04.2025 13:32:18 until 26.04.2025 18:08:05
+		Duration:	04:35:47
+		Location:	39.63283 3.13280
+
+(14) - 248.0 km
+	BGIBE1
+		Images:	9296
+		Time:	26.04.2025 13:33:13 until 26.04.2025 17:56:42
+		Duration:	04:23:29
+		Location:	39.63009 3.12956
+
+(15) - 249.0 km
+	BMAGA1
+		Images:	6439
+		Time:	26.04.2025 13:47:37 until 26.04.2025 18:00:07
+		Duration:	04:12:30
+		Location:	39.62885 3.13229
+
+	BMAGA1LS1
+		Images:	2094
+		Time:	26.04.2025 13:33:54 until 26.04.2025 17:53:47
+		Duration:	04:19:53
+		Location:	39.62885 3.13229
+
+(16) - 254.0 km
+	BACCA1
+		Images:	6257
+		Time:	26.04.2025 15:40:45 until 26.04.2025 18:10:53
+		Duration:	02:30:08
+		Location:	39.64151 3.16666
+
+(17) - 255.0 km
+	BFJPH1
+		Images:	2809
+		Time:	26.04.2025 15:33:57 until 26.04.2025 18:27:14
+		Duration:	02:53:17
+		Location:	39.64076 3.17179
+
+(18) - 256.0 km
+	BFRSA1
+		Images:	4476
+		Time:	26.04.2025 15:44:51 until 26.04.2025 18:15:02
+		Duration:	02:30:11
+		Location:	39.63495 3.16823
+
+(19) - 256.8 km
+	BWRFG1
+		Images:	5170
+		Time:	26.04.2025 08:42:30 until 26.04.2025 18:15:37
+		Duration:	09:33:07
+		Location:	39.63294 3.16666
+
+(20) - 30.0 km
+	BDDF1
+		Images:	3562
+		Time:	26.04.2025 06:53:48 until 26.04.2025 09:19:38
+		Duration:	02:25:50
+		Location:	39.86668 2.92426
+
+	BDDF1LS1
+		Images:	6755
+		Time:	26.04.2025 07:01:30 until 26.04.2025 09:04:34
+		Duration:	02:03:04
+		Location:	39.86668 2.92426
+
+(21) - 30.5 km
+	BMATR1
+		Images:	5538
+		Time:	25.04.2025 23:25:58 until 26.04.2025 10:16:47
+		Duration:	10:50:49
+		Location:	39.86483 2.91932
+
+	BMATR1LS1
+		Images:	4060
+		Time:	26.04.2025 06:48:05 until 26.04.2025 09:12:18
+		Duration:	02:24:13
+		Location:	39.86483 2.91932
+
+(22) - 45.0 km
+	AMICE1
+		Images:	9332
+		Time:	26.04.2025 05:03:35 until 26.04.2025 09:52:46
+		Duration:	04:49:11
+		Location:	39.82857 2.83760
+
+	AMICE1LS1
+		Images:	5032
+		Time:	26.04.2025 07:08:11 until 26.04.2025 09:34:03
+		Duration:	02:25:52
+		Location:	39.82857 2.83760
+
+(23) - 49.0 km
+	AACC1
+		Images:	14206
+		Time:	26.04.2025 06:54:02 until 26.04.2025 10:33:18
+		Duration:	03:39:16
+		Location:	39.80974 2.82173
+
+	AACC1LS1
+		Images:	5110
+		Time:	26.04.2025 06:33:50 until 26.04.2025 10:33:24
+		Duration:	03:59:34
+		Location:	39.80974 2.82173
+
+	AACC1LS2
+		Images:	2717
+		Time:	26.04.2025 06:30:55 until 26.04.2025 10:25:30
+		Duration:	03:54:35
+		Location:	39.80974 2.82173
+
+(24) - 56.0 km
+	AKKP1
+		Images:	5850
+		Time:	26.04.2025 06:37:12 until 26.04.2025 10:42:01
+		Duration:	04:04:49
+		Location:	39.79111 2.77483
+
+(25) - 57.3 km
+	AMPP1
+		Images:	12293
+		Time:	26.04.2025 04:58:00 until 26.04.2025 10:31:46
+		Duration:	05:33:46
+		Location:	39.79820 2.77338
+
+(26) - 59.0 km
+	ACHR1
+		Images:	11060
+		Time:	26.04.2025 08:19:07 until 26.04.2025 10:45:52
+		Duration:	02:26:45
+		Location:	39.79624 2.76678
+
+	ACHR1LS1
+		Images:	5428
+		Time:	26.04.2025 08:17:10 until 26.04.2025 10:45:52
+		Duration:	02:28:42
+		Location:	39.79624 2.76678
+
+(27) - 63.7 km
+	ACOR1
+		Images:	5232
+		Time:	26.04.2025 07:54:45 until 26.04.2025 11:10:44
+		Duration:	03:15:59
+		Location:	39.79365 2.74592
+
+	ACOR1DRONE1
+		Images:	20
+		Time:	26.04.2025 08:53:20 until 26.04.2025 09:03:04
+		Duration:	00:09:44
+		Location:	39.79365 2.74592
+
+	ACOR1LS1
+		Images:	5150
+		Time:	26.04.2025 07:25:40 until 26.04.2025 10:39:46
+		Duration:	03:14:06
+		Location:	39.79365 2.74592
+
+	ACOR1LS2
+		Images:	4521
+		Time:	26.04.2025 07:40:09 until 26.04.2025 10:39:42
+		Duration:	02:59:33
+		Location:	39.79365 2.74592
+
+(28) - 66.8 km
+	AEP1
+		Images:	7360
+		Time:	26.04.2025 07:52:44 until 26.04.2025 11:05:58
+		Duration:	03:13:14
+		Location:	39.79163 2.73823
+
+	AEP1LS1
+		Images:	1508
+		Time:	26.04.2025 08:01:27 until 26.04.2025 11:08:08
+		Duration:	03:06:41
+		Location:	39.79163 2.73823
+
+	AEP1LS2
+		Images:	412
+		Time:	26.04.2025 08:23:43 until 26.04.2025 10:13:45
+		Duration:	01:50:02
+		Location:	39.79163 2.73823
+
+(29) - 70.0 km
+	AFEZ1
+		Images:	7968
+		Time:	25.04.2025 23:03:36 until 26.04.2025 10:45:40
+		Duration:	11:42:04
+		Location:	39.78903 2.72836
+
+	AFEZ1LS1
+		Images:	13390
+		Time:	25.04.2025 23:02:21 until 26.04.2025 10:22:18
+		Duration:	11:19:57
+		Location:	39.78903 2.72836
+
+(30) - 72.0 km
+	ABRN1
+		Images:	6514
+		Time:	26.04.2025 07:02:43 until 26.04.2025 10:56:38
+		Duration:	03:53:55
+		Location:	39.78517 2.73425
+
+	ABRN1LS1
+		Images:	3891
+		Time:	26.04.2025 07:04:56 until 26.04.2025 11:05:30
+		Duration:	04:00:34
+		Location:	39.78517 2.73425
+
+(31) - 77.8 km
+	ACECK1
+		Images:	7018
+		Time:	26.04.2025 07:15:37 until 26.04.2025 11:43:42
+		Duration:	04:28:05
+		Location:	39.77477 2.69813
+
+(32) - 79.0 km
+	AGIBE1
+		Images:	23952
+		Time:	25.04.2025 23:31:26 until 26.04.2025 11:10:42
+		Duration:	11:39:16
+		Location:	39.77036 2.66801
+
+(33) - 80.5 km
+	AMAGA1
+		Images:	7233
+		Time:	26.04.2025 08:46:07 until 26.04.2025 11:32:54
+		Duration:	02:46:47
+		Location:	39.76456 2.65519
+
+	AMAGA1LS1
+		Images:	5471
+		Time:	26.04.2025 08:09:06 until 26.04.2025 11:34:08
+		Duration:	03:25:02
+		Location:	39.76456 2.65519
+
+(34) - Finish
+	BBATI2
+		Images:	5417
+		Time:	26.04.2025 11:09:53 until 26.04.2025 20:28:04
+		Duration:	09:18:11
+		Location:	39.80707 3.11662
+
+	BDDF2
+		Images:	3522
+		Time:	26.04.2025 11:09:50 until 26.04.2025 20:46:51
+		Duration:	09:37:01
+		Location:	39.80707 3.11662
+
+	BDDF2LS1
+		Images:	9955
+		Time:	26.04.2025 11:03:22 until 26.04.2025 20:48:58
+		Duration:	09:45:36
+		Location:	39.80707 3.11662
+
+	BMATR2
+		Images:	10617
+		Time:	26.04.2025 11:09:50 until 26.04.2025 20:47:15
+		Duration:	09:37:25
+		Location:	39.80707 3.11662
+
+	BMATR2LS1
+		Images:	2836
+		Time:	26.04.2025 10:18:37 until 26.04.2025 15:39:23
+		Duration:	05:20:46
+		Location:	39.80707 3.11662
+
+(35) - Start
+	BBATI1
+		Images:	500
+		Time:	26.04.2025 05:48:43 until 26.04.2025 20:50:36
+		Duration:	15:01:53
+		Location:	39.80836 3.11648
+

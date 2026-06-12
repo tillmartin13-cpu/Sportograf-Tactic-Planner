@@ -1,0 +1,360 @@
+EventId: 14598
+Spots: 56
+Total Images: 446001
+Time:	15.07.2025 12:11:41 to 19.08.2025 16:00:06
+Duration: 35.03:48:25
+
+(1) - 4,5 km
+	GMIV1
+		Images:	2364
+		Time:	19.07.2025 12:08:20 until 19.07.2025 14:05:54
+		Duration:	01:57:34
+		Location:	50.34381 6.92611
+
+	GMIV1LS2
+		Images:	817
+		Time:	19.07.2025 11:47:38 until 19.07.2025 14:11:33
+		Duration:	02:23:55
+		Location:	50.34381 6.92611
+
+	GMIV1LS1
+		Images:	542
+		Time:	19.07.2025 12:09:34 until 19.07.2025 14:00:48
+		Duration:	01:51:14
+		Location:	50.34381 6.92611
+
+(2) - 7.0 km ADENAUER FORST
+	OT2
+		Images:	17816
+		Time:	19.07.2025 12:35:55 until 19.07.2025 17:33:45
+		Duration:	04:57:50
+		Location:	50.36726 6.9314
+
+	OT2LS1
+		Images:	7801
+		Time:	19.07.2025 12:01:08 until 19.07.2025 15:44:14
+		Duration:	03:43:06
+		Location:	50.36726 6.9314
+
+(3) - 21,0 km
+	GMIV2
+		Images:	5864
+		Time:	19.07.2025 14:52:12 until 19.07.2025 17:19:53
+		Duration:	02:27:41
+		Location:	50.35437 6.98473
+
+	GMIV2LS1
+		Images:	431
+		Time:	19.07.2025 14:47:47 until 19.07.2025 17:22:57
+		Duration:	02:35:10
+		Location:	50.35437 6.98473
+
+	GMIV2LS2
+		Images:	448
+		Time:	19.07.2025 14:42:40 until 19.07.2025 17:22:55
+		Duration:	02:40:15
+		Location:	50.35437 6.98473
+
+(4) - 5.0 km  AREMBERG
+	JKE1
+		Images:	9222
+		Time:	19.07.2025 09:04:40 until 19.07.2025 11:17:41
+		Duration:	02:13:01
+		Location:	50.35802 6.92002
+
+	JKE1LS2
+		Images:	2476
+		Time:	19.07.2025 11:56:18 until 19.07.2025 15:34:17
+		Duration:	03:37:59
+		Location:	50.35802 6.92002
+
+	JKE1LS1
+		Images:	2275
+		Time:	19.07.2025 09:07:41 until 19.07.2025 11:52:10
+		Duration:	02:44:29
+		Location:	50.35802 6.92002
+
+(5) - 17.0 km PFLANZGARTEN
+	ALN4
+		Images:	6882
+		Time:	19.07.2025 18:13:14 until 19.07.2025 20:11:36
+		Duration:	01:58:22
+		Location:	50.36401 6.99959
+
+	ALN4LS2
+		Images:	2558
+		Time:	19.07.2025 18:16:37 until 19.07.2025 20:11:36
+		Duration:	01:54:59
+		Location:	50.36401 6.99959
+
+	ALN4LS1
+		Images:	2940
+		Time:	19.07.2025 18:13:14 until 19.07.2025 20:09:07
+		Duration:	01:55:53
+		Location:	50.36401 6.99959
+
+(6) - 9.0 km WEHRSEIFEN
+	ALN3
+		Images:	16868
+		Time:	19.07.2025 16:00:04 until 19.08.2025 16:00:06
+		Duration:	31.00:00:02
+		Location:	50.37688 6.94732
+
+	ALN3LS2
+		Images:	2795
+		Time:	19.07.2025 16:00:04 until 19.08.2025 16:00:06
+		Duration:	31.00:00:02
+		Location:	50.37688 6.94732
+
+	ALN3LS1
+		Images:	3500
+		Time:	19.07.2025 16:09:49 until 19.07.2025 17:48:16
+		Duration:	01:38:27
+		Location:	50.37688 6.94732
+
+	ROC1
+		Images:	15646
+		Time:	19.07.2025 12:03:59 until 19.07.2025 17:43:56
+		Duration:	05:39:57
+		Location:	50.37688 6.94732
+
+(7) - Motorcycle 1
+	DRI3
+		Images:	33608
+		Time:	19.07.2025 13:53:55 until 20.07.2025 11:40:34
+		Duration:	21:46:39
+		Location:	50.33359 6.94459
+
+(8) - 14.0 km  CARACCIOLA KARUSSELL
+	SBRO4
+		Images:	3948
+		Time:	19.07.2025 17:35:37 until 19.07.2025 21:01:04
+		Duration:	03:25:27
+		Location:	50.3716 6.9858
+
+	SBRO3
+		Images:	1841
+		Time:	19.07.2025 15:32:21 until 19.07.2025 17:06:36
+		Duration:	01:34:15
+		Location:	50.3716 6.9858
+
+	OT3
+		Images:	9186
+		Time:	19.07.2025 15:40:44 until 19.07.2025 20:19:09
+		Duration:	04:38:25
+		Location:	50.3716 6.9858
+
+(9) - 0.2 km Nacht Fahrerlager
+	SBRO5
+		Images:	1224
+		Time:	20.07.2025 02:08:50 until 20.07.2025 05:43:47
+		Duration:	03:34:57
+		Location:	50.33359 6.94459
+
+	OT4
+		Images:	1612
+		Time:	19.07.2025 23:20:55 until 20.07.2025 02:20:25
+		Duration:	02:59:30
+		Location:	50.33359 6.94459
+
+(10) - 19.0 km GALGENKOPF
+	JKE3
+		Images:	7256
+		Time:	19.07.2025 17:42:11 until 19.07.2025 19:05:30
+		Duration:	01:23:19
+		Location:	50.35752 6.98114
+
+	WIP1
+		Images:	10048
+		Time:	19.07.2025 08:49:39 until 19.07.2025 20:56:01
+		Duration:	12:06:22
+		Location:	50.35752 6.98114
+
+	GUS1
+		Images:	14072
+		Time:	19.07.2025 12:58:22 until 19.07.2025 21:02:45
+		Duration:	08:04:23
+		Location:	50.35752 6.98114
+
+(11) - 165.0 km BRÜNCHEN
+	ROC2
+		Images:	6469
+		Time:	19.07.2025 17:46:41 until 19.07.2025 20:48:48
+		Duration:	03:02:07
+		Location:	50.37014 7.00568
+
+(12) - 6.0 km FUCHSRÖHRE
+	SBRO2
+		Images:	3262
+		Time:	19.07.2025 12:17:19 until 19.07.2025 15:15:25
+		Duration:	02:58:06
+		Location:	50.3638 6.9303
+
+(13) - 1.0 km HATZENBACH
+	ALN1
+		Images:	19470
+		Time:	19.07.2025 08:58:54 until 19.07.2025 14:59:52
+		Duration:	06:00:58
+		Location:	50.33795 6.93878
+
+	ALN6
+		Images:	15399
+		Time:	20.07.2025 07:44:44 until 20.07.2025 11:39:55
+		Duration:	03:55:11
+		Location:	50.33795 6.93878
+
+	ALN6LS2
+		Images:	5990
+		Time:	20.07.2025 07:32:29 until 20.07.2025 11:43:01
+		Duration:	04:10:32
+		Location:	50.33795 6.93878
+
+	ALN6LS1
+		Images:	5072
+		Time:	20.07.2025 07:28:35 until 20.07.2025 11:40:41
+		Duration:	04:12:06
+		Location:	50.33795 6.93878
+
+	ALN1LS2
+		Images:	4000
+		Time:	19.07.2025 09:04:05 until 19.07.2025 13:53:51
+		Duration:	04:49:46
+		Location:	50.33795 6.93878
+
+	ALN1LS1
+		Images:	7738
+		Time:	19.07.2025 08:58:54 until 19.07.2025 14:59:52
+		Duration:	06:00:58
+		Location:	50.33795 6.93878
+
+(14) - 8.0 km  KALLENHARD
+	JKE2
+		Images:	38676
+		Time:	19.07.2025 12:13:53 until 19.07.2025 17:25:25
+		Duration:	05:11:32
+		Location:	50.35802 6.92002
+
+	JKE2LS1
+		Images:	3714
+		Time:	19.07.2025 15:34:47 until 19.07.2025 17:27:24
+		Duration:	01:52:37
+		Location:	50.35802 6.92002
+
+(15) - 5.0 km SCHWEDENKREUZ
+	SBRO1
+		Images:	3159
+		Time:	19.07.2025 09:04:44 until 19.07.2025 11:34:05
+		Duration:	02:29:21
+		Location:	50.35165 6.92664
+
+	SBRO6
+		Images:	7102
+		Time:	20.07.2025 08:01:00 until 20.07.2025 12:45:57
+		Duration:	04:44:57
+		Location:	50.35165 6.92664
+
+(16) - 0.5 km ANOTNIUSBUCHE
+	JKE4
+		Images:	2337
+		Time:	19.07.2025 19:16:19 until 19.07.2025 20:43:27
+		Duration:	01:27:08
+		Location:	50.3433 6.95932
+
+(17) - 14.0 km HOHE ACHT
+	DRI1
+		Images:	11806
+		Time:	19.07.2025 09:26:20 until 20.07.2025 09:18:50
+		Duration:	23:52:30
+		Location:	50.37668 6.99471
+
+	DRI1DRONE1
+		Images:	27
+		Time:	19.07.2025 09:24:44 until 20.07.2025 08:28:06
+		Duration:	23:03:22
+		Location:	50.37668 6.99471
+
+	DRI1LS1
+		Images:	27688
+		Time:	19.07.2025 09:09:31 until 20.07.2025 11:19:10
+		Duration:	1.02:09:39
+		Location:	50.37668 6.99471
+
+	WBEC3
+		Images:	6027
+		Time:	19.07.2025 13:10:30 until 19.07.2025 21:11:19
+		Duration:	08:00:49
+		Location:	50.37668 6.99471
+
+(18) - 9,5 km
+	GANR1
+		Images:	6185
+		Time:	19.07.2025 12:54:54 until 19.07.2025 17:42:23
+		Duration:	04:47:29
+		Location:	50.36685 6.93741
+
+(19) - Start
+	DRI2
+		Images:	2534
+		Time:	19.07.2025 12:00:38 until 19.07.2025 13:31:53
+		Duration:	01:31:15
+		Location:	50.33359 6.94459
+
+	WBEC1
+		Images:	3351
+		Time:	19.07.2025 12:02:35 until 19.07.2025 13:58:54
+		Duration:	01:56:19
+		Location:	50.33359 6.94459
+
+(20) - 18,5 km
+	GADHA1
+		Images:	1804
+		Time:	19.07.2025 12:46:39 until 19.07.2025 18:21:46
+		Duration:	05:35:07
+		Location:	50.36568 7.00018
+
+(21) - Impressions / Pano
+	PANO1
+(22) - Finish
+	ALN5LS1
+		Images:	9308
+		Time:	19.07.2025 22:02:07 until 20.07.2025 06:22:46
+		Duration:	08:20:39
+		Location:	50.33359 6.94459
+
+	WBEC2
+		Images:	7169
+		Time:	15.07.2025 12:11:41 until 19.07.2025 17:13:04
+		Duration:	4.05:01:23
+		Location:	50.33359 6.94459
+
+	OT5
+		Images:	23103
+		Time:	20.07.2025 07:24:38 until 20.07.2025 13:34:04
+		Duration:	06:09:26
+		Location:	50.33359 6.94459
+
+	OT5LS1
+		Images:	20599
+		Time:	20.07.2025 07:23:21 until 20.07.2025 13:32:42
+		Duration:	06:09:21
+		Location:	50.33359 6.94459
+
+(23) - 3.0 km HOCHEICHEN
+	OT1
+		Images:	4977
+		Time:	19.07.2025 09:10:14 until 19.07.2025 11:53:44
+		Duration:	02:43:30
+		Location:	50.34247 6.93071
+
+	OT1LS1
+		Images:	11296
+		Time:	19.07.2025 09:07:52 until 19.07.2025 18:50:20
+		Duration:	09:42:28
+		Location:	50.34247 6.93071
+
+	OT1LS2
+		Images:	3699
+		Time:	19.07.2025 08:52:53 until 19.07.2025 11:50:30
+		Duration:	02:57:37
+		Location:	50.34247 6.93071
+

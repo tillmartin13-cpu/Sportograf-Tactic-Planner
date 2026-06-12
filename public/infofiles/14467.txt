@@ -1,0 +1,103 @@
+EventId: 14467
+Spots: 14
+Total Images: 122021
+Time:	11.07.2025 17:04:24 to 12.07.2025 20:23:57
+Duration: 1.03:19:33
+
+(1) - Obstacle 16 Vertical Cargo
+	LLCA1
+		Images:	14901
+		Time:	12.07.2025 07:18:48 until 12.07.2025 19:01:33
+		Duration:	11:42:45
+		Location:	41.20586 -111.85685
+
+(2) - Obstacle 17 Sandbag Carry
+	SCTH1
+		Images:	12397
+		Time:	11.07.2025 20:37:05 until 12.07.2025 19:13:06
+		Duration:	22:36:01
+		Location:	41.20787 -111.85411
+
+(3) - Obstacle 18 Multi-Rig
+	JANH1
+		Images:	10852
+		Time:	12.07.2025 06:43:01 until 12.07.2025 17:24:27
+		Duration:	10:41:26
+		Location:	41.21459 -111.85680
+
+	ROOT1
+		Images:	6769
+		Time:	12.07.2025 06:59:53 until 12.07.2025 19:42:22
+		Duration:	12:42:29
+		Location:	41.21459 -111.85680
+
+(4) - Obstacle 19 Barbed Wire Crawl
+	SAMT1
+		Images:	7315
+		Time:	11.07.2025 20:28:05 until 12.07.2025 19:48:35
+		Duration:	23:20:30
+		Location:	41.21466 -111.85762
+
+(5) - Trail Before Bucket Carry
+	JOD1LS1
+		Images:	5090
+		Time:	12.07.2025 08:11:54 until 12.07.2025 15:06:21
+		Duration:	06:54:27
+		Location:	41.21477 -111.85978
+
+(6) - Obstacle 20 Bucket Carry
+	MIGO1
+		Images:	10368
+		Time:	11.07.2025 21:56:38 until 12.07.2025 19:43:37
+		Duration:	21:46:59
+		Location:	41.21515 -111.86022
+
+(7) - Obstacle 21 Atlas Carry
+	JST1
+		Images:	4162
+		Time:	11.07.2025 17:04:24 until 12.07.2025 19:59:15
+		Duration:	1.02:54:51
+		Location:	41.21550 -111.86064
+
+(8) - Obstacle 25 Dunk Wall
+	JGAB1
+		Images:	17988
+		Time:	12.07.2025 06:56:10 until 12.07.2025 20:09:25
+		Duration:	13:13:15
+		Location:	41.21659 -111.86116
+
+(9) - Trail After Spear Throw
+	MIGO1LS1
+		Images:	4625
+		Time:	11.07.2025 22:06:45 until 12.07.2025 16:48:27
+		Duration:	18:41:42
+		Location:	41.21545 -111.85963
+
+(10) - Obstacle 28 Hurdles
+	NIMA1
+		Images:	8454
+		Time:	12.07.2025 07:47:29 until 12.07.2025 20:17:43
+		Duration:	12:30:14
+		Location:	41.21492 -111.85861
+
+(11) - Obstacle 29 Slip Wall
+	DDC1
+		Images:	13177
+		Time:	11.07.2025 18:37:40 until 12.07.2025 20:21:43
+		Duration:	1.01:44:03
+		Location:	41.21497 -111.85771
+
+(12) - Herotent
+	THAT1
+		Images:	5539
+		Time:	12.07.2025 07:13:15 until 12.07.2025 20:23:57
+		Duration:	13:10:42
+		Location:	41.21493 -111.85704
+
+(13) - Festival Area
+	JOD1
+		Images:	384
+		Time:	12.07.2025 07:02:48 until 12.07.2025 15:06:41
+		Duration:	08:03:53
+		Location:	41.21493 -111.85704
+

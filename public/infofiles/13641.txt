@@ -1,0 +1,179 @@
+EventId: 13641
+Spots: 27
+Total Images: 224449
+Time:	17.08.2025 08:55:58 to 17.08.2025 17:21:49
+Duration: 08:25:51
+
+(1) - Obstacle 8 Gitterbecken
+	ADHA1
+		Images:	5278
+		Time:	17.08.2025 10:08:15 until 17.08.2025 16:31:36
+		Duration:	06:23:21
+		Location:	NULL NULL
+
+	JOJE1
+		Images:	5011
+		Time:	17.08.2025 09:01:37 until 17.08.2025 16:30:36
+		Duration:	07:28:59
+		Location:	NULL NULL
+
+(2) - Obstacle 11 Schaumparty
+	ALN1
+		Images:	18531
+		Time:	17.08.2025 10:13:28 until 17.08.2025 17:07:29
+		Duration:	06:54:01
+		Location:	NULL NULL
+
+	ALN1LS2
+		Images:	9969
+		Time:	17.08.2025 10:03:25 until 17.08.2025 16:58:40
+		Duration:	06:55:15
+		Location:	NULL NULL
+
+	ALN1LS1
+		Images:	5191
+		Time:	17.08.2025 09:57:42 until 17.08.2025 15:28:07
+		Duration:	05:30:25
+		Location:	NULL NULL
+
+(3) - Finish
+	MBEN1LS1
+		Images:	3843
+		Time:	17.08.2025 09:05:45 until 17.08.2025 17:21:45
+		Duration:	08:16:00
+		Location:	NULL NULL
+
+	DRI1LS1
+		Images:	3256
+		Time:	17.08.2025 08:55:58 until 17.08.2025 16:18:11
+		Duration:	07:22:13
+		Location:	NULL NULL
+
+	NBA1
+		Images:	11674
+		Time:	17.08.2025 09:29:06 until 17.08.2025 17:21:30
+		Duration:	07:52:24
+		Location:	NULL NULL
+
+(4) - Herotent
+	MBEN1
+		Images:	2509
+		Time:	17.08.2025 10:14:39 until 17.08.2025 17:21:09
+		Duration:	07:06:30
+		Location:	NULL NULL
+
+	RA1
+		Images:	5771
+		Time:	17.08.2025 10:29:26 until 17.08.2025 17:21:49
+		Duration:	06:52:23
+		Location:	NULL NULL
+
+(5) - Obstacle 5 Krabbelstrecke
+	DPH1
+		Images:	13398
+		Time:	17.08.2025 10:01:25 until 17.08.2025 16:13:52
+		Duration:	06:12:27
+		Location:	NULL NULL
+
+	KSA1
+		Images:	10255
+		Time:	17.08.2025 10:01:58 until 17.08.2025 16:14:05
+		Duration:	06:12:07
+		Location:	NULL NULL
+
+(6) - Start
+	DRI1
+		Images:	1677
+		Time:	17.08.2025 09:28:32 until 17.08.2025 11:05:17
+		Duration:	01:36:45
+		Location:	NULL NULL
+
+	DRI1DRONE1
+		Images:	20
+		Time:	17.08.2025 13:46:28 until 17.08.2025 14:07:23
+		Duration:	00:20:55
+		Location:	NULL NULL
+
+(7) - Obstacle 13 Containerrutsche
+	MIV1
+		Images:	24079
+		Time:	17.08.2025 09:48:34 until 17.08.2025 17:14:14
+		Duration:	07:25:40
+		Location:	NULL NULL
+
+	MIV1LS2
+		Images:	7863
+		Time:	17.08.2025 10:12:52 until 17.08.2025 16:36:14
+		Duration:	06:23:22
+		Location:	NULL NULL
+
+	MIV1LS1
+		Images:	9720
+		Time:	17.08.2025 10:13:08 until 17.08.2025 16:07:02
+		Duration:	05:53:54
+		Location:	NULL NULL
+
+	MW1
+		Images:	13047
+		Time:	17.08.2025 09:28:00 until 17.08.2025 17:14:21
+		Duration:	07:46:21
+		Location:	NULL NULL
+
+	MW1LS1
+		Images:	7167
+		Time:	17.08.2025 11:18:53 until 17.08.2025 17:08:38
+		Duration:	05:49:45
+		Location:	NULL NULL
+
+(8) - Obstacle 2 Reifenteppich
+	OT1
+		Images:	12401
+		Time:	17.08.2025 09:44:18 until 17.08.2025 15:29:08
+		Duration:	05:44:50
+		Location:	NULL NULL
+
+(9) - Obstacle 7 Tauchbecken
+	OT1LS1
+		Images:	9881
+		Time:	17.08.2025 09:16:24 until 17.08.2025 15:29:08
+		Duration:	06:12:44
+		Location:	NULL NULL
+
+	STL1
+		Images:	8038
+		Time:	17.08.2025 10:05:41 until 17.08.2025 16:26:47
+		Duration:	06:21:06
+		Location:	NULL NULL
+
+	VL1
+		Images:	14144
+		Time:	17.08.2025 10:10:48 until 17.08.2025 16:26:49
+		Duration:	06:16:01
+		Location:	NULL NULL
+
+	VL1LS1
+		Images:	7108
+		Time:	17.08.2025 09:55:10 until 17.08.2025 16:25:43
+		Duration:	06:30:33
+		Location:	NULL NULL
+
+(10) - 0.1 km before finish
+	RA1LS2
+		Images:	2141
+		Time:	17.08.2025 09:18:18 until 17.08.2025 17:20:03
+		Duration:	08:01:45
+		Location:	NULL NULL
+
+	RA1LS1
+		Images:	2006
+		Time:	17.08.2025 09:21:10 until 17.08.2025 17:20:48
+		Duration:	07:59:38
+		Location:	NULL NULL
+
+(11) - Obstacle 3 Seiltanz
+	BENL1
+		Images:	10471
+		Time:	17.08.2025 09:47:07 until 17.08.2025 15:43:31
+		Duration:	05:56:24
+		Location:	NULL NULL
+

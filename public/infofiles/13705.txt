@@ -1,0 +1,90 @@
+EventId: 13705
+Spots: 13
+Total Images: 19927
+Time:	06.09.2025 06:55:32 to 06.09.2025 16:33:32
+Duration: 09:38:00
+
+(1) - Start
+	POK1
+		Images:	47
+		Time:	06.09.2025 06:56:30 until 06.09.2025 07:52:31
+		Duration:	00:56:01
+		Location:	NULL NULL
+
+(2) - 0.2 km Halvtravern
+	JEJ2
+		Images:	242
+		Time:	06.09.2025 08:49:10 until 06.09.2025 11:08:16
+		Duration:	02:19:06
+		Location:	NULL NULL
+
+(3) - 0.5 km Kvarttravern
+	JOM2
+		Images:	457
+		Time:	06.09.2025 09:59:28 until 06.09.2025 11:04:59
+		Duration:	01:05:31
+		Location:	NULL NULL
+
+(4) - 1.9 km Dobbeltravern
+	JEJ1
+		Images:	100
+		Time:	06.09.2025 06:55:32 until 06.09.2025 07:48:13
+		Duration:	00:52:41
+		Location:	NULL NULL
+
+(5) - 2.7 km Dobbeltravern
+	MAKO1
+		Images:	160
+		Time:	06.09.2025 06:58:22 until 06.09.2025 07:51:47
+		Duration:	00:53:25
+		Location:	NULL NULL
+
+(6) - 7.0 km Dobbeltravern
+	JOM1
+		Images:	333
+		Time:	06.09.2025 07:30:04 until 06.09.2025 08:24:27
+		Duration:	00:54:23
+		Location:	NULL NULL
+
+	JOM1LS1
+		Images:	44
+		Time:	06.09.2025 08:01:17 until 06.09.2025 08:30:59
+		Duration:	00:29:42
+		Location:	NULL NULL
+
+(7) - 7 km before finish
+	JOM3
+		Images:	6905
+		Time:	06.09.2025 11:38:53 until 06.09.2025 15:28:18
+		Duration:	03:49:25
+		Location:	NULL NULL
+
+	JOM3LS1
+		Images:	1028
+		Time:	06.09.2025 11:20:29 until 06.09.2025 15:42:48
+		Duration:	04:22:19
+		Location:	NULL NULL
+
+(8) - 2.7 km before finish
+	MAKO2
+		Images:	3829
+		Time:	06.09.2025 09:01:22 until 06.09.2025 16:10:03
+		Duration:	07:08:41
+		Location:	NULL NULL
+
+(9) - 1.9 km before finish
+	JEJ3
+		Images:	1234
+		Time:	06.09.2025 11:38:56 until 06.09.2025 16:14:35
+		Duration:	04:35:39
+		Location:	NULL NULL
+
+(10) - Finish
+	POK2
+		Images:	5548
+		Time:	06.09.2025 10:25:25 until 06.09.2025 16:33:32
+		Duration:	06:08:07
+		Location:	NULL NULL
+
+(11) - Impressions / Pano
+	PANO1

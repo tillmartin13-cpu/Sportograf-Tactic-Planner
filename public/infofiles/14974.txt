@@ -1,0 +1,199 @@
+EventId: 14974
+Spots: 29
+Total Images: 88910
+Time:	01.01.0001 23:00:00 to 18.01.2025 10:48:54
+Duration: 739267.11:48:54
+
+(1) - 0.0 km Alan MSC 3 trigger
+	AABAR1
+		Images:	4587
+		Time:	18.01.2025 08:00:05 until 18.01.2025 09:30:53
+		Duration:	01:30:48
+		Location:	NULL NULL
+
+(2) - 0.0 km Brisena MSC3 860177
+	BBRIS1
+		Images:	2254
+		Time:	18.01.2025 08:04:23 until 18.01.2025 09:25:08
+		Duration:	01:20:45
+		Location:	NULL NULL
+
+(3) - 0.0 km Chris Medals 860157
+	BCHRI1
+		Images:	558
+		Time:	28.06.2019 21:11:06 until 28.06.2019 22:47:55
+		Duration:	01:36:49
+		Location:	NULL NULL
+
+(4) - 0.0 km Cory PreFinish 860167
+	BCORY2
+		Images:	3293
+		Time:	18.01.2025 08:18:55 until 18.01.2025 09:55:14
+		Duration:	01:36:19
+		Location:	NULL NULL
+
+(5) - 0.0 km Cory Start 860172
+	BCORY1
+		Images:	228
+		Time:	18.01.2025 07:43:04 until 18.01.2025 08:03:24
+		Duration:	00:20:20
+		Location:	NULL NULL
+
+(6) - 0.0 km Finish trigger left 860162
+	AFTL1
+		Images:	10902
+		Time:	18.01.2025 08:13:59 until 18.01.2025 09:46:45
+		Duration:	01:32:46
+		Location:	NULL NULL
+
+(7) - 0.0 km Finish Trigger Right 860163
+	AFTR1
+(8) - 0.0 km Greg MSC1 86165
+	BAUGS1
+		Images:	1521
+		Time:	18.01.2025 08:08:37 until 18.01.2025 09:33:23
+		Duration:	01:24:46
+		Location:	NULL NULL
+
+(9) - 0.0 km Julio PreFinish 860168
+	BJULI1
+		Images:	5661
+		Time:	18.01.2025 06:53:58 until 18.01.2025 08:57:37
+		Duration:	02:03:39
+		Location:	NULL NULL
+
+(10) - 0.0 km Leo Finish 860161
+	BLEO1
+		Images:	8105
+		Time:	18.01.2025 07:05:34 until 18.01.2025 08:57:31
+		Duration:	01:51:57
+		Location:	NULL NULL
+
+(11) - 0.0 km Michael MSC4 860179
+	BMICH1
+		Images:	2265
+		Time:	18.01.2025 09:15:21 until 18.01.2025 10:48:16
+		Duration:	01:32:55
+		Location:	NULL NULL
+
+(12) - 0.0 km MSC 2 Ken
+	AKENC1
+		Images:	1423
+		Time:	18.01.2025 06:57:39 until 18.01.2025 07:54:35
+		Duration:	00:56:56
+		Location:	NULL NULL
+
+(13) - 0.0 km MSC 2 Sean
+	ASEAN1
+		Images:	3138
+		Time:	18.01.2025 07:02:27 until 18.01.2025 07:55:20
+		Duration:	00:52:53
+		Location:	NULL NULL
+
+(14) - 0.0 km MSC 2 Trigger
+	ASEAN1LS1
+		Images:	3560
+		Time:	18.01.2025 06:55:37 until 18.01.2025 07:55:36
+		Duration:	00:59:59
+		Location:	NULL NULL
+
+(15) - 0.0 km MSC 3 Alan
+	AABAR1LS1
+		Images:	5577
+		Time:	18.01.2025 06:51:50 until 18.01.2025 08:23:03
+		Duration:	01:31:13
+		Location:	NULL NULL
+
+(16) - 0.0 km MSC 5 Jeff
+	AJEFF1
+		Images:	5576
+		Time:	08.12.2024 06:25:15 until 18.01.2025 08:50:04
+		Duration:	41.02:24:49
+		Location:	NULL NULL
+
+(17) - 0.0 km MSC 5 Julio Madrid
+	AJMAD1
+		Images:	6270
+		Time:	18.01.2025 08:10:50 until 18.01.2025 09:51:20
+		Duration:	01:40:30
+		Location:	NULL NULL
+
+(18) - 0.0 km MSC 5 Trigger
+	AJEFF1LS1
+		Images:	928
+		Time:	18.01.2025 07:15:15 until 18.01.2025 07:29:32
+		Duration:	00:14:17
+		Location:	NULL NULL
+
+(19) - 0.0 km Pre Fin Trigger Left 860170
+	APTL1
+		Images:	5547
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(20) - 0.0 km Pre Fin Trigger Right 860166
+	APTR1
+		Images:	3115
+		Time:	18.01.2025 08:39:24 until 18.01.2025 10:47:14
+		Duration:	02:07:50
+		Location:	NULL NULL
+
+(21) - 0.0 km Pre Pre FIn Trigger LEft 860171
+	APPTL1
+		Images:	5459
+		Time:	18.01.2025 09:17:47 until 18.01.2025 10:48:54
+		Duration:	01:31:07
+		Location:	NULL NULL
+
+(22) - 0.0 km Raymond MSC1 860164
+	BRAYM2
+		Images:	314
+		Time:	18.01.2025 07:35:33 until 18.01.2025 08:06:42
+		Duration:	00:31:09
+		Location:	NULL NULL
+
+(23) - 0.0 km Raymond PreFinish 860169
+	BRAYM1
+		Images:	1521
+		Time:	18.01.2025 08:08:37 until 18.01.2025 09:33:23
+		Duration:	01:24:46
+		Location:	NULL NULL
+
+(24) - 0.0 km Rick Medals 860156
+	BRICK1
+		Images:	2893
+		Time:	18.01.2025 06:26:38 until 18.01.2025 08:54:08
+		Duration:	02:27:30
+		Location:	NULL NULL
+
+(25) - 0.0 km Sol Medals 860159
+	BSOL1
+		Images:	612
+		Time:	01.01.0001 23:00:00 until 18.01.2025 05:00:19
+		Duration:	739267.06:00:19
+		Location:	NULL NULL
+
+(26) - 0.0 km TOM MSC4 860180
+	BTOM1
+		Images:	2580
+		Time:	18.01.2025 06:58:11 until 18.01.2025 08:54:08
+		Duration:	01:55:57
+		Location:	NULL NULL
+
+(27) - 0.0 km Trigger MSC4 860181
+	BTRIG1
+		Images:	89
+		Time:	01.01.0001 23:00:00 until 18.01.2025 08:32:37
+		Duration:	739267.09:32:37
+		Location:	NULL NULL
+
+(28) - 0.0 km William Medals 860158
+	BWILL1
+		Images:	934
+		Time:	17.01.2025 18:26:48 until 17.01.2025 20:58:08
+		Duration:	02:31:20
+		Location:	NULL NULL
+
+(29) - Impressions / Pano
+	PANO1

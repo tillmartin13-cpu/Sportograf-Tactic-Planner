@@ -1,0 +1,311 @@
+EventId: 16068
+Spots: 50
+Total Images: 191014
+Time:	18.07.2025 18:35:11 to 19.07.2025 23:02:47
+Duration: 1.04:27:36
+
+(1) - Station 1 Skierg
+	SHPA2
+		Images:	2216
+		Time:	19.07.2025 15:19:07 until 19.07.2025 21:11:29
+		Duration:	05:52:22
+		Location:	24.41805 54.43669
+
+	PW2
+		Images:	6316
+		Time:	19.07.2025 15:14:16 until 19.07.2025 21:00:42
+		Duration:	05:46:26
+		Location:	24.41805 54.43669
+
+	SADH1
+		Images:	1672
+		Time:	19.07.2025 06:44:59 until 19.07.2025 14:32:39
+		Duration:	07:47:40
+		Location:	24.41805 54.43669
+
+	LAK1
+		Images:	5407
+		Time:	19.07.2025 04:45:50 until 19.07.2025 14:21:19
+		Duration:	09:35:29
+		Location:	24.41805 54.43669
+
+	ARP6
+		Images:	83
+		Time:	19.07.2025 15:18:02 until 19.07.2025 15:21:20
+		Duration:	00:03:18
+		Location:	24.41805 54.43669
+
+	MISE2
+		Images:	2230
+		Time:	19.07.2025 15:02:52 until 19.07.2025 21:09:00
+		Duration:	06:06:08
+		Location:	24.41805 54.43669
+
+	YAS1
+		Images:	7880
+		Time:	18.07.2025 18:35:11 until 19.07.2025 01:49:17
+		Duration:	07:14:06
+		Location:	24.41805 54.43669
+
+(2) - Station 2 Sled Push
+	YAS2
+		Images:	4332
+		Time:	19.07.2025 01:54:55 until 19.07.2025 15:09:35
+		Duration:	13:14:40
+		Location:	24.41805 54.43669
+
+	LAK2
+		Images:	2158
+		Time:	19.07.2025 14:22:46 until 19.07.2025 20:30:55
+		Duration:	06:08:09
+		Location:	24.41805 54.43669
+
+	ARP1
+		Images:	703
+		Time:	19.07.2025 09:31:56 until 19.07.2025 12:48:24
+		Duration:	03:16:28
+		Location:	24.41805 54.43669
+
+	SADH2
+		Images:	2689
+		Time:	19.07.2025 14:38:55 until 19.07.2025 21:23:50
+		Duration:	06:44:55
+		Location:	24.41805 54.43669
+
+	BS1
+		Images:	6167
+		Time:	19.07.2025 07:00:04 until 19.07.2025 14:33:50
+		Duration:	07:33:46
+		Location:	24.41805 54.43669
+
+	GOR3
+		Images:	538
+		Time:	19.07.2025 09:27:01 until 19.07.2025 12:48:42
+		Duration:	03:21:41
+		Location:	24.41805 54.43669
+
+	JUSE1
+		Images:	6799
+		Time:	19.07.2025 07:01:34 until 19.07.2025 14:50:06
+		Duration:	07:48:32
+		Location:	24.41805 54.43669
+
+(3) - Station 3 Sled Pull
+	MISE1
+		Images:	4915
+		Time:	19.07.2025 07:00:37 until 19.07.2025 15:00:40
+		Duration:	08:00:03
+		Location:	24.41805 54.43669
+
+	REG2
+		Images:	1300
+		Time:	19.07.2025 15:08:25 until 19.07.2025 21:34:30
+		Duration:	06:26:05
+		Location:	24.41805 54.43669
+
+	SHPA1
+		Images:	1903
+		Time:	19.07.2025 07:29:35 until 19.07.2025 15:13:49
+		Duration:	07:44:14
+		Location:	24.41805 54.43669
+
+	MAMS2
+		Images:	3865
+		Time:	19.07.2025 14:43:18 until 19.07.2025 21:31:15
+		Duration:	06:47:57
+		Location:	24.41805 54.43669
+
+	PW1
+		Images:	1722
+		Time:	19.07.2025 07:10:25 until 19.07.2025 15:08:23
+		Duration:	07:57:58
+		Location:	24.41805 54.43669
+
+	ARP3
+		Images:	674
+		Time:	19.07.2025 15:29:01 until 19.07.2025 18:16:06
+		Duration:	02:47:05
+		Location:	24.41805 54.43669
+
+	GOR2
+		Images:	859
+		Time:	19.07.2025 15:28:31 until 19.07.2025 18:16:56
+		Duration:	02:48:25
+		Location:	24.41805 54.43669
+
+(4) - Station 5 Rowing
+	ARP4
+		Images:	1270
+		Time:	19.07.2025 10:12:17 until 19.07.2025 18:35:34
+		Duration:	08:23:17
+		Location:	24.41805 54.43669
+
+	AZF1
+		Images:	11008
+		Time:	19.07.2025 07:26:21 until 19.07.2025 14:57:35
+		Duration:	07:31:14
+		Location:	24.41805 54.43669
+
+	DD2
+		Images:	4830
+		Time:	19.07.2025 14:43:26 until 19.07.2025 21:57:18
+		Duration:	07:13:52
+		Location:	24.41805 54.43669
+
+	GOR4
+		Images:	2059
+		Time:	19.07.2025 10:02:11 until 19.07.2025 18:34:52
+		Duration:	08:32:41
+		Location:	24.41805 54.43669
+
+	JZE2
+		Images:	9466
+		Time:	19.07.2025 14:53:10 until 19.07.2025 22:10:00
+		Duration:	07:16:50
+		Location:	24.41805 54.43669
+
+	MUP1
+		Images:	6715
+		Time:	19.07.2025 07:46:32 until 19.07.2025 14:56:07
+		Duration:	07:09:35
+		Location:	24.41805 54.43669
+
+(5) - Station 6 Farmers Carry
+	SA1
+		Images:	299
+		Time:	19.07.2025 07:39:44 until 19.07.2025 12:46:54
+		Duration:	05:07:10
+		Location:	24.41805 54.43669
+
+	SA1LS2
+		Images:	4828
+		Time:	19.07.2025 07:09:05 until 19.07.2025 20:47:05
+		Duration:	13:38:00
+		Location:	24.41805 54.43669
+
+	SA1LS1
+		Images:	7108
+		Time:	19.07.2025 07:06:59 until 19.07.2025 21:21:23
+		Duration:	14:14:24
+		Location:	24.41805 54.43669
+
+(6) - Station 7 Sandbag Lunges
+	ARP5
+		Images:	1222
+		Time:	19.07.2025 10:58:18 until 19.07.2025 19:28:09
+		Duration:	08:29:51
+		Location:	24.41805 54.43669
+
+	BS2
+		Images:	6203
+		Time:	19.07.2025 14:41:07 until 19.07.2025 22:34:15
+		Duration:	07:53:08
+		Location:	24.41805 54.43669
+
+	GOR5
+		Images:	1840
+		Time:	19.07.2025 10:59:45 until 19.07.2025 19:27:19
+		Duration:	08:27:34
+		Location:	24.41805 54.43669
+
+	JUSE2
+		Images:	7221
+		Time:	19.07.2025 15:04:53 until 19.07.2025 22:37:13
+		Duration:	07:32:20
+		Location:	24.41805 54.43669
+
+	REG1
+		Images:	2049
+		Time:	19.07.2025 06:54:48 until 19.07.2025 15:02:08
+		Duration:	08:07:20
+		Location:	24.41805 54.43669
+
+	MAMS1
+		Images:	2743
+		Time:	19.07.2025 06:55:18 until 19.07.2025 14:39:33
+		Duration:	07:44:15
+		Location:	24.41805 54.43669
+
+(7) - Station 8 Wall Balls
+	DD1
+		Images:	4488
+		Time:	19.07.2025 06:53:50 until 19.07.2025 14:30:03
+		Duration:	07:36:13
+		Location:	24.41805 54.43669
+
+	JZE1
+		Images:	7539
+		Time:	19.07.2025 06:53:59 until 19.07.2025 14:27:15
+		Duration:	07:33:16
+		Location:	24.41805 54.43669
+
+	MUP2
+		Images:	8567
+		Time:	19.07.2025 15:06:43 until 19.07.2025 22:48:21
+		Duration:	07:41:38
+		Location:	24.41805 54.43669
+
+	ARP2
+		Images:	1607
+		Time:	19.07.2025 11:27:34 until 19.07.2025 20:20:17
+		Duration:	08:52:43
+		Location:	24.41805 54.43669
+
+	AZF2
+		Images:	10622
+		Time:	19.07.2025 14:58:06 until 19.07.2025 22:35:55
+		Duration:	07:37:49
+		Location:	24.41805 54.43669
+
+	GOR1
+		Images:	1296
+		Time:	19.07.2025 11:40:07 until 19.07.2025 19:58:35
+		Duration:	08:18:28
+		Location:	24.41805 54.43669
+
+(8) - Finish
+	MUP1LS2
+		Images:	2522
+		Time:	19.07.2025 07:05:05 until 19.07.2025 17:06:13
+		Duration:	10:01:08
+		Location:	24.41805 54.43669
+
+	MUP1LS1
+		Images:	4835
+		Time:	19.07.2025 06:52:51 until 19.07.2025 22:32:23
+		Duration:	15:39:32
+		Location:	24.41805 54.43669
+
+	SAQ2
+		Images:	5948
+		Time:	19.07.2025 14:12:04 until 19.07.2025 23:02:47
+		Duration:	08:50:43
+		Location:	24.41805 54.43669
+
+	NIZ1
+		Images:	2522
+		Time:	19.07.2025 07:00:25 until 19.07.2025 14:10:20
+		Duration:	07:09:55
+		Location:	24.41805 54.43669
+
+(9) - Medalwall
+	NIZ2
+		Images:	4692
+		Time:	19.07.2025 14:11:42 until 19.07.2025 23:01:27
+		Duration:	08:49:45
+		Location:	24.41805 54.43669
+
+	SAQ1
+		Images:	2992
+		Time:	19.07.2025 07:11:39 until 19.07.2025 14:10:29
+		Duration:	06:58:50
+		Location:	24.41805 54.43669
+
+(10) - Impressions / Pano
+	PANO1
+	GOR1IMP1
+		Images:	95
+		Time:	19.07.2025 08:13:53 until 19.07.2025 09:06:43
+		Duration:	00:52:50
+		Location:	24.41805 54.43669
+

@@ -1,0 +1,120 @@
+EventId: 13937
+Spots: 18
+Total Images: 16350
+Time:	18.07.2025 18:13:49 to 19.07.2025 16:39:36
+Duration: 22:25:47
+
+(1) - Start K42
+	LSE1
+		Images:	85
+		Time:	18.07.2025 18:13:49 until 19.07.2025 07:00:21
+		Duration:	12:46:32
+		Location:	46.87038 11.02451
+
+(2) - Start K26 Trail
+	LSE2
+		Images:	327
+		Time:	19.07.2025 10:02:19 until 19.07.2025 10:09:32
+		Duration:	00:07:13
+		Location:	46.86648 11.01772
+
+(3) - Seenplattenweg
+	VB1LS2
+		Images:	183
+		Time:	18.07.2025 18:15:02 until 19.07.2025 07:20:03
+		Duration:	13:05:01
+		Location:	46.87518 11.02355
+
+	VB1LS1
+		Images:	161
+		Time:	18.07.2025 18:39:54 until 19.07.2025 07:18:35
+		Duration:	12:38:41
+		Location:	46.87518 11.02355
+
+(4) - Steig nach Seenplattenweg
+	VB1
+		Images:	414
+		Time:	18.07.2025 18:38:01 until 19.07.2025 07:11:11
+		Duration:	12:33:10
+		Location:	46.87706 11.02354
+
+	JH1
+		Images:	676
+		Time:	18.07.2025 18:14:52 until 19.07.2025 07:11:12
+		Duration:	12:56:20
+		Location:	46.87706 11.02354
+
+(5) - Lobbach Brücke
+	JH1LS2
+		Images:	1076
+		Time:	19.07.2025 06:57:06 until 19.07.2025 07:16:51
+		Duration:	00:19:45
+		Location:	46.87608 11.02622
+
+	JH1LS1
+		Images:	1089
+		Time:	19.07.2025 06:57:07 until 19.07.2025 07:18:57
+		Duration:	00:21:50
+		Location:	46.87608 11.02622
+
+(6) - Schönwies Speichersee
+	VB2LS2
+		Images:	706
+		Time:	19.07.2025 09:19:12 until 19.07.2025 13:40:23
+		Duration:	04:21:11
+		Location:	46.84716 11.01926
+
+	VB2LS1
+		Images:	709
+		Time:	19.07.2025 09:30:40 until 19.07.2025 13:40:34
+		Duration:	04:09:54
+		Location:	46.84716 11.01926
+
+(7) - Schönwies Speichersee Trail
+	VB2
+		Images:	2098
+		Time:	19.07.2025 09:13:12 until 19.07.2025 13:37:59
+		Duration:	04:24:47
+		Location:	46.84711 11.01939
+
+(8) - Hohe Mut Grat
+	JH2LS2
+		Images:	1320
+		Time:	19.07.2025 09:32:10 until 19.07.2025 15:17:36
+		Duration:	05:45:26
+		Location:	46.84580 11.03081
+
+	JH2LS1
+		Images:	1369
+		Time:	19.07.2025 09:22:44 until 19.07.2025 15:16:00
+		Duration:	05:53:16
+		Location:	46.84580 11.03081
+
+(9) - Hohe Mut Gletscherblick
+	JH2
+		Images:	3728
+		Time:	19.07.2025 09:19:44 until 19.07.2025 15:01:27
+		Duration:	05:41:43
+		Location:	46.84643 11.02982
+
+(10) - Finish
+	LSE3
+		Images:	2208
+		Time:	19.07.2025 10:23:22 until 19.07.2025 16:39:36
+		Duration:	06:16:14
+		Location:	46.87038 11.02451
+
+(11) - Impressions / Pano
+	JH2DRONE1
+		Images:	42
+		Time:	19.07.2025 10:58:17 until 19.07.2025 15:01:25
+		Duration:	04:03:08
+		Location:	46.84643 11.02982
+
+	XOPHO1
+		Images:	151
+		Time:	19.07.2025 08:21:23 until 19.07.2025 15:58:52
+		Duration:	07:37:29
+		Location:	46.84643 11.02982
+
+	PANO1

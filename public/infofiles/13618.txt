@@ -1,0 +1,53 @@
+EventId: 13618
+Spots: 7
+Total Images: 5113
+Time:	13.04.2025 06:19:48 to 13.04.2025 11:39:05
+Duration: 05:19:17
+
+(1) - Start
+	SICA1
+		Images:	302
+		Time:	13.04.2025 06:19:48 until 13.04.2025 07:27:44
+		Duration:	01:07:56
+		Location:	25.76470 -80.48487
+
+(2) - 1.0 km
+	ORGA1
+		Images:	997
+		Time:	13.04.2025 06:52:17 until 13.04.2025 09:44:44
+		Duration:	02:52:27
+		Location:	25.73178 -80.48018
+
+(3) - 30.0 km
+	JHRO1
+		Images:	1392
+		Time:	13.04.2025 07:42:25 until 13.04.2025 08:39:51
+		Duration:	00:57:26
+		Location:	25.88924 -80.48489
+
+(4) - Finish
+	JHRO2
+		Images:	467
+		Time:	13.04.2025 09:45:00 until 13.04.2025 11:31:37
+		Duration:	01:46:37
+		Location:	25.76470 -80.48487
+
+	SICA2
+		Images:	1188
+		Time:	13.04.2025 06:20:25 until 13.04.2025 11:39:05
+		Duration:	05:18:40
+		Location:	25.76470 -80.48487
+
+	ORGA3
+		Images:	588
+		Time:	13.04.2025 09:44:44 until 13.04.2025 11:29:40
+		Duration:	01:44:56
+		Location:	25.76561 -80.48198
+
+(5) - Ceremony
+	JHRO3
+		Images:	179
+		Time:	13.04.2025 09:02:00 until 13.04.2025 09:44:10
+		Duration:	00:42:10
+		Location:	25.76470 -80.48487
+

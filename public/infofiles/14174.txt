@@ -1,0 +1,152 @@
+EventId: 14174
+Spots: 23
+Total Images: 15016
+Time:	11.07.2025 20:56:40 to 12.07.2025 20:29:24
+Duration: 23:32:44
+
+(1) - Start
+	MATR1
+		Images:	134
+		Time:	11.07.2025 20:56:40 until 11.07.2025 21:59:26
+		Duration:	01:02:46
+		Location:	46.02017 11.90884
+
+	NBE1
+		Images:	358
+		Time:	12.07.2025 05:38:59 until 12.07.2025 09:04:45
+		Duration:	03:25:46
+		Location:	46.02017 11.90884
+
+(2) - 1.9 km LONG - MEDIUM track
+	MDS1
+		Images:	1138
+		Time:	12.07.2025 06:10:49 until 12.07.2025 08:36:02
+		Duration:	02:25:13
+		Location:	46.01999 11.92283
+
+	MDS1LS1
+		Images:	201
+		Time:	11.07.2025 22:53:03 until 12.07.2025 08:29:29
+		Duration:	09:36:26
+		Location:	46.01999 11.92283
+
+	MDS1LS2
+		Images:	244
+		Time:	11.07.2025 22:53:07 until 12.07.2025 08:36:01
+		Duration:	09:42:54
+		Location:	46.01999 11.92283
+
+(3) - 2.3 km LONG - MEDIUM track
+	MATR2
+		Images:	651
+		Time:	12.07.2025 05:24:27 until 12.07.2025 08:29:10
+		Duration:	03:04:43
+		Location:	46.02127 11.92732
+
+	MATR2LS1
+		Images:	231
+		Time:	12.07.2025 05:50:25 until 12.07.2025 08:32:13
+		Duration:	02:41:48
+		Location:	46.02127 11.92732
+
+	MATR2LS2
+		Images:	564
+		Time:	12.07.2025 05:56:21 until 12.07.2025 08:32:06
+		Duration:	02:35:45
+		Location:	46.02127 11.92732
+
+	MATR2DRONE1
+		Images:	19
+		Time:	12.07.2025 06:09:06 until 12.07.2025 06:16:31
+		Duration:	00:07:25
+		Location:	46.02127 11.92732
+
+(4) - 24.0 km LONG track
+	BRN1
+		Images:	332
+		Time:	12.07.2025 05:56:11 until 12.07.2025 08:24:25
+		Duration:	02:28:14
+		Location:	46.03471 12.08175
+
+	BRN1LS1
+		Images:	106
+		Time:	12.07.2025 06:11:10 until 12.07.2025 10:09:38
+		Duration:	03:58:28
+		Location:	46.03471 12.08175
+
+	BRN1LS2
+		Images:	84
+		Time:	12.07.2025 06:29:57 until 12.07.2025 09:56:56
+		Duration:	03:26:59
+		Location:	46.03471 12.08175
+
+(5) - 149.0 km ALL RACES
+	MDS2
+		Images:	1343
+		Time:	12.07.2025 09:21:55 until 12.07.2025 17:20:51
+		Duration:	07:58:56
+		Location:	46.01110 11.82801
+
+	MDS2LS1
+		Images:	385
+		Time:	12.07.2025 09:26:09 until 12.07.2025 18:17:46
+		Duration:	08:51:37
+		Location:	46.01110 11.82801
+
+	MDS2LS2
+		Images:	419
+		Time:	12.07.2025 09:26:09 until 12.07.2025 18:17:46
+		Duration:	08:51:37
+		Location:	46.01110 11.82801
+
+(6) - 156.0 km ALL RACES
+	MATR3
+		Images:	1195
+		Time:	12.07.2025 09:22:46 until 12.07.2025 17:46:43
+		Duration:	08:23:57
+		Location:	45.98774 11.78171
+
+	MATR3LS1
+		Images:	284
+		Time:	12.07.2025 09:32:19 until 12.07.2025 17:46:59
+		Duration:	08:14:40
+		Location:	45.98774 11.78171
+
+	MATR3LS2
+		Images:	286
+		Time:	12.07.2025 09:20:58 until 12.07.2025 17:46:55
+		Duration:	08:25:57
+		Location:	45.98774 11.78171
+
+	MATR3DRONE1
+		Images:	20
+		Time:	12.07.2025 13:13:50 until 12.07.2025 13:56:05
+		Duration:	00:42:15
+		Location:	45.98774 11.78171
+
+(7) - 187.0 km ALL RACES
+	BRN2
+		Images:	1929
+		Time:	12.07.2025 10:51:59 until 12.07.2025 18:59:35
+		Duration:	08:07:36
+		Location:	46.01863 11.91127
+
+	BRN2LS1
+		Images:	3968
+		Time:	12.07.2025 10:14:37 until 12.07.2025 19:50:40
+		Duration:	09:36:03
+		Location:	46.01863 11.91127
+
+	BRN2LS2
+		Images:	196
+		Time:	12.07.2025 09:58:25 until 12.07.2025 19:48:24
+		Duration:	09:49:59
+		Location:	46.01863 11.91127
+
+(8) - Finish
+	NBE2
+		Images:	929
+		Time:	12.07.2025 11:12:13 until 12.07.2025 20:29:24
+		Duration:	09:17:11
+		Location:	46.03657 11.88233
+

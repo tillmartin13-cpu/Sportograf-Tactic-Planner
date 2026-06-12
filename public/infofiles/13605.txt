@@ -1,0 +1,145 @@
+EventId: 13605
+Spots: 22
+Total Images: 28286
+Time:	11.10.2025 11:27:31 to 12.10.2025 14:12:06
+Duration: 1.02:44:35
+
+(1) - 7,3 km
+	AKS1
+		Images:	3555
+		Time:	11.10.2025 12:40:46 until 11.10.2025 15:05:20
+		Duration:	02:24:34
+		Location:	50.12244 8.55725
+
+(2) - 7,1 km
+	AKS1LS1
+		Images:	997
+		Time:	11.10.2025 12:29:57 until 12.10.2025 02:54:22
+		Duration:	14:24:25
+		Location:	50.12225 8.55823
+
+	AKS1LS2
+		Images:	991
+		Time:	11.10.2025 12:25:19 until 11.10.2025 14:51:08
+		Duration:	02:25:49
+		Location:	50.12225 8.55823
+
+(3) - 79,0 km
+	AKS2
+		Images:	854
+		Time:	12.10.2025 03:19:32 until 12.10.2025 08:45:32
+		Duration:	05:26:00
+		Location:	50.20320 8.74887
+
+(4) - 79,5 km
+	AKS2LS1
+		Images:	441
+		Time:	12.10.2025 02:56:40 until 12.10.2025 08:53:44
+		Duration:	05:57:04
+		Location:	50.20382 8.75106
+
+	AKS2LS2
+		Images:	476
+		Time:	12.10.2025 02:36:16 until 12.10.2025 08:54:44
+		Duration:	06:18:28
+		Location:	50.12588 8.61924
+
+(5) - 38,4 km
+	ARTA1
+		Images:	1071
+		Time:	11.10.2025 12:56:25 until 11.10.2025 22:34:12
+		Duration:	09:37:47
+		Location:	50.15523 8.44262
+
+(6) - Herotent
+	ARTA2
+		Images:	715
+		Time:	12.10.2025 04:22:08 until 12.10.2025 14:05:12
+		Duration:	09:43:04
+		Location:	50.12572 8.61929
+
+(7) - 4,0 km
+	AZI1
+		Images:	4727
+		Time:	11.10.2025 12:15:24 until 12.10.2025 10:19:07
+		Duration:	22:03:43
+		Location:	50.11238 8.57762
+
+(8) - 24,5 km
+	AZI2
+		Images:	1768
+		Time:	12.10.2025 10:19:07 until 12.10.2025 14:12:06
+		Duration:	03:52:59
+		Location:	50.11288 8.44716
+
+(9) - Finish
+	AZI3
+(10) - Start
+	VIT1
+		Images:	707
+		Time:	11.10.2025 11:27:31 until 11.10.2025 14:53:35
+		Duration:	03:26:04
+		Location:	50.12551 8.61930
+
+(11) - 18,8 km
+	VIT2
+		Images:	1576
+		Time:	11.10.2025 14:57:46 until 11.10.2025 16:46:38
+		Duration:	01:48:52
+		Location:	50.13605 8.46581
+
+(12) - 87,8 km
+	VIT3
+		Images:	851
+		Time:	12.10.2025 04:01:33 until 12.10.2025 11:02:01
+		Duration:	07:00:28
+		Location:	50.16978 8.70254
+
+(13) - 8,6 km
+	YS1
+		Images:	4872
+		Time:	11.10.2025 12:56:00 until 11.10.2025 14:51:32
+		Duration:	01:55:32
+		Location:	50.12776 8.55960
+
+(14) - Impressions / Pano
+	YS1DRONE1
+		Images:	16
+		Time:	11.10.2025 13:05:21 until 12.10.2025 07:56:25
+		Duration:	18:51:04
+		Location:	NULL NULL
+
+	PANO1
+(15) - 8,8 km
+	YS1LS1
+		Images:	1156
+		Time:	11.10.2025 12:44:41 until 11.10.2025 14:42:32
+		Duration:	01:57:51
+		Location:	50.12806 8.56051
+
+	YS1LS2
+		Images:	1156
+		Time:	11.10.2025 12:42:08 until 11.10.2025 14:42:43
+		Duration:	02:00:35
+		Location:	50.12806 8.56051
+
+(16) - 79,4 km
+	YS2
+		Images:	1340
+		Time:	12.10.2025 03:06:31 until 12.10.2025 08:34:24
+		Duration:	05:27:53
+		Location:	50.20421 8.74960
+
+(17) - 79,8 km
+	YS2LS1
+		Images:	511
+		Time:	12.10.2025 02:29:31 until 12.10.2025 09:06:16
+		Duration:	06:36:45
+		Location:	50.20320 8.75462
+
+	YS2LS2
+		Images:	506
+		Time:	12.10.2025 02:28:05 until 12.10.2025 09:05:32
+		Duration:	06:37:27
+		Location:	50.20320 8.75462
+

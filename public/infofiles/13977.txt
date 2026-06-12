@@ -1,0 +1,81 @@
+EventId: 13977
+Spots: 12
+Total Images: 8944
+Time:	09.07.2025 12:09:02 to 09.08.2025 16:36:17
+Duration: 31.04:27:15
+
+(1) - Start
+	EB1
+		Images:	749
+		Time:	09.08.2025 07:05:22 until 09.08.2025 10:56:36
+		Duration:	03:51:14
+		Location:	46.62414 8.03415
+
+(2) - Lake Bachsee / 50k - 80k
+	DART1
+		Images:	1463
+		Time:	09.08.2025 09:35:36 until 09.08.2025 12:26:36
+		Duration:	02:51:00
+		Location:	46.66745 8.02643
+
+	DART1LS1
+		Images:	1213
+		Time:	09.08.2025 08:56:31 until 09.08.2025 13:18:37
+		Duration:	04:22:06
+		Location:	46.66745 8.02643
+
+(3) - First station /  19k - 30k - 45k - 50k - 80k
+	ARF1
+		Images:	1479
+		Time:	09.08.2025 08:08:13 until 09.08.2025 12:40:50
+		Duration:	04:32:37
+		Location:	46.64503 8.04711
+
+(4) - 5km before finish /  19k - 30k - 45k - 80k
+	GAT1
+		Images:	871
+		Time:	09.08.2025 08:36:08 until 09.08.2025 16:24:31
+		Duration:	07:48:23
+		Location:	46.61566 8.00570
+
+	GAT1DRONE1
+		Images:	55
+		Time:	09.08.2025 08:14:24 until 09.08.2025 13:19:57
+		Duration:	05:05:33
+		Location:	46.61566 8.00570
+
+(5) - Enduro - Stage 3
+	DART2
+		Images:	412
+		Time:	09.08.2025 13:27:50 until 09.08.2025 14:32:55
+		Duration:	01:05:05
+		Location:	46.66577 8.02923
+
+	EB2LS2
+		Images:	130
+		Time:	09.08.2025 13:19:26 until 09.08.2025 14:44:02
+		Duration:	01:24:36
+		Location:	46.66577 8.02923
+
+(6) - Enduro - Stage 5
+	ARF2
+		Images:	603
+		Time:	09.08.2025 13:08:55 until 09.08.2025 16:30:29
+		Duration:	03:21:34
+		Location:	46.63663 8.04141
+
+(7) - Finish
+	EB2
+		Images:	1544
+		Time:	09.08.2025 10:56:55 until 09.08.2025 16:36:17
+		Duration:	05:39:22
+		Location:	46.62414 8.03415
+
+	EB2LS1
+		Images:	425
+		Time:	09.07.2025 12:09:02 until 09.07.2025 16:39:29
+		Duration:	04:30:27
+		Location:	46.62414 8.03415
+
+(8) - Impressions / Pano
+	PANO1

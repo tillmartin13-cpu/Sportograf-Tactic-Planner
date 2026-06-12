@@ -1,0 +1,62 @@
+EventId: 14210
+Spots: 37
+Total Images: 4596
+Time:	01.06.2025 11:33:18 to 01.06.2025 14:20:42
+Duration: 02:47:24
+
+(1) - Swim - Impressions / Pano
+	PANO1
+	JNK2
+(2) - Swim - Start
+	JNK1
+	JSCH1
+(3) - Swim - Exit
+	ISA1
+	ISA1LS1
+	TE1
+	TE1LS2
+	TE1LS1
+(4) - Bike - Transition zone
+	MOG1
+	MOG1LS2
+	MOG1LS1
+(5) - Bike - 45,0 km / 81,0 km
+	DIG1
+	DIG1LS2
+	DIG1LS1
+		Images:	4596
+		Time:	01.06.2025 11:33:18 until 01.06.2025 14:20:42
+		Duration:	02:47:24
+		Location:	47.22802 8.84923
+
+(6) - Bike - Impressions / Pano
+	DIG1DRONE1
+	EVL1DRONE1
+(7) - Bike - 10,5 km / 52,1 km
+	MAWI1
+(8) - Bike - 15,2 km / 56,0 km
+	EVL1
+	EVL1LS2
+	EVL1LS1
+(9) - Run - 3,0 km / 13,1 km
+	DIG2
+	DIG2LS2
+	DIG2LS1
+(10) - Run - 7,0 km / 17,1 km
+	MOG2
+	MOG2LS2
+	MOG2LS1
+(11) - Run - 8,0 km / 18,0 km
+	JNK3
+	JNK2LS1
+(12) - Run - 8,7 km / 19,0 km
+	JSCH2
+(13) - Finish
+	ISA2
+	ISA2LS2
+	ISA2LS1
+	TE2
+	TE2LS2
+	TE2LS1
+(14) - Village
+	MAWI2

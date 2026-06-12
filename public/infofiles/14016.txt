@@ -1,0 +1,111 @@
+EventId: 14016
+Spots: 17
+Total Images: 12381
+Time:	16.05.2025 11:27:07 to 25.05.2025 14:00:19
+Duration: 9.02:33:12
+
+(1) - Start
+	MAWI2
+		Images:	224
+		Time:	25.05.2025 09:58:27 until 25.05.2025 10:36:37
+		Duration:	00:38:10
+		Location:	47.68313 8.15741
+
+(2) - 2.6 km
+	MOG1
+		Images:	667
+		Time:	25.05.2025 09:36:24 until 25.05.2025 10:40:51
+		Duration:	01:04:27
+		Location:	47.68574 8.13896
+
+	MOG1LS2
+		Images:	456
+		Time:	25.05.2025 09:42:09 until 25.05.2025 10:44:12
+		Duration:	01:02:03
+		Location:	47.68574 8.13896
+
+	MOG1LS1
+		Images:	632
+		Time:	25.05.2025 09:58:01 until 25.05.2025 10:42:29
+		Duration:	00:44:28
+		Location:	47.68574 8.13896
+
+(3) - 3.6 km
+	JNK1
+		Images:	733
+		Time:	25.05.2025 09:42:50 until 25.05.2025 11:10:55
+		Duration:	01:28:05
+		Location:	47.69635 8.14522
+
+(4) - 19.1 km
+	JNK2
+		Images:	610
+		Time:	25.05.2025 11:12:14 until 25.05.2025 12:14:43
+		Duration:	01:02:29
+		Location:	47.69576 8.13743
+
+(5) - 25.7 km
+	EVL1
+		Images:	1797
+		Time:	25.05.2025 10:16:11 until 25.05.2025 12:59:08
+		Duration:	02:42:57
+		Location:	47.65891 8.11021
+
+	EVL1LS2
+		Images:	898
+		Time:	25.05.2025 09:58:33 until 25.05.2025 12:58:10
+		Duration:	02:59:37
+		Location:	47.65891 8.11021
+
+	EVL1LS1
+		Images:	711
+		Time:	25.05.2025 10:07:56 until 25.05.2025 12:59:58
+		Duration:	02:52:02
+		Location:	47.65891 8.11021
+
+(6) - 28.2 km
+	MOG2
+		Images:	1374
+		Time:	25.05.2025 11:10:43 until 25.05.2025 13:49:43
+		Duration:	02:39:00
+		Location:	47.68177 8.14158
+
+	MOG2LS2
+		Images:	635
+		Time:	25.05.2025 11:08:15 until 25.05.2025 13:53:54
+		Duration:	02:45:39
+		Location:	47.68177 8.14158
+
+	MOG2LS1
+		Images:	644
+		Time:	25.05.2025 11:06:32 until 25.05.2025 13:53:31
+		Duration:	02:46:59
+		Location:	47.68177 8.14158
+
+(7) - Finish
+	MAWI3
+		Images:	1823
+		Time:	25.05.2025 09:30:27 until 25.05.2025 14:00:19
+		Duration:	04:29:52
+		Location:	47.68313 8.15741
+
+	MAWI3LS1
+		Images:	1142
+		Time:	25.05.2025 11:01:30 until 25.05.2025 13:41:14
+		Duration:	02:39:44
+		Location:	47.68313 8.15741
+
+(8) - Impressions / Pano
+	EVL1DRONE1
+		Images:	9
+		Time:	16.05.2025 11:27:07 until 16.05.2025 11:28:46
+		Duration:	00:01:39
+		Location:	47.65891 8.11021
+
+	MAWI1
+		Images:	26
+		Time:	25.05.2025 09:16:06 until 25.05.2025 09:46:41
+		Duration:	00:30:35
+		Location:	47.68313 8.15741
+
+	PANO1

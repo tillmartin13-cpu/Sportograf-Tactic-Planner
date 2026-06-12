@@ -1,0 +1,298 @@
+EventId: 16147
+Spots: 47
+Total Images: 185361
+Time:	26.09.2025 07:29:56 to 28.09.2025 16:19:40
+Duration: 2.08:49:44
+
+(1) - Station 1 SKIERG
+	CAIS3
+		Images:	5130
+		Time:	27.09.2025 07:44:36 until 27.09.2025 14:39:43
+		Duration:	06:55:07
+		Location:	41.80893 12.32821
+
+	RLO1
+		Images:	4524
+		Time:	27.09.2025 08:03:41 until 28.09.2025 08:28:19
+		Duration:	1.00:24:38
+		Location:	41.80893 12.32821
+
+	MMI1
+		Images:	3439
+		Time:	26.09.2025 07:29:56 until 27.09.2025 14:38:34
+		Duration:	1.07:08:38
+		Location:	41.80893 12.32821
+
+	LOM2
+		Images:	2754
+		Time:	27.09.2025 15:16:00 until 27.09.2025 20:38:14
+		Duration:	05:22:14
+		Location:	41.80893 12.32821
+
+	RLLA2
+		Images:	7572
+		Time:	27.09.2025 15:13:33 until 27.09.2025 20:38:28
+		Duration:	05:24:55
+		Location:	41.80893 12.32821
+
+	LLM2
+		Images:	3531
+		Time:	27.09.2025 15:16:08 until 28.09.2025 16:19:40
+		Duration:	1.01:03:32
+		Location:	41.80893 12.32821
+
+(2) - Station 2 SLED PUSH
+	PINO1
+		Images:	2033
+		Time:	26.09.2025 08:54:45 until 27.09.2025 14:53:03
+		Duration:	1.05:58:18
+		Location:	41.80893 12.32821
+
+	LDL1
+		Images:	1311
+		Time:	26.09.2025 08:31:57 until 28.09.2025 12:51:08
+		Duration:	2.04:19:11
+		Location:	41.80893 12.32821
+
+	LOM1
+		Images:	1474
+		Time:	27.09.2025 08:11:17 until 27.09.2025 15:13:16
+		Duration:	07:01:59
+		Location:	41.80893 12.32821
+
+	RSP2
+		Images:	4638
+		Time:	27.09.2025 15:20:56 until 27.09.2025 20:47:03
+		Duration:	05:26:07
+		Location:	41.80893 12.32821
+
+	EO2
+		Images:	5562
+		Time:	27.09.2025 08:34:10 until 27.09.2025 20:47:15
+		Duration:	12:13:05
+		Location:	41.80893 12.32821
+
+	MDV2
+		Images:	1692
+		Time:	27.09.2025 15:33:56 until 27.09.2025 20:47:54
+		Duration:	05:13:58
+		Location:	41.80893 12.32821
+
+(3) - ARCH SMILE HYROX
+	RLO1LS1
+		Images:	9806
+		Time:	26.09.2025 08:03:08 until 27.09.2025 18:10:07
+		Duration:	1.10:06:59
+		Location:	41.80893 12.32821
+
+	MDV1LS1
+		Images:	5819
+		Time:	27.09.2025 07:37:43 until 27.09.2025 21:04:12
+		Duration:	13:26:29
+		Location:	41.80893 12.32821
+
+(4) - Station 3 SLED PULL
+	CVG1
+		Images:	1801
+		Time:	27.09.2025 08:17:55 until 27.09.2025 14:53:01
+		Duration:	06:35:06
+		Location:	41.80893 12.32821
+
+	CM1
+		Images:	3467
+		Time:	27.09.2025 08:18:49 until 27.09.2025 15:01:54
+		Duration:	06:43:05
+		Location:	41.80893 12.32821
+
+	SORI1
+		Images:	3425
+		Time:	26.09.2025 07:40:38 until 27.09.2025 14:59:25
+		Duration:	1.07:18:47
+		Location:	41.80893 12.32821
+
+	LIG2
+		Images:	1893
+		Time:	27.09.2025 15:22:49 until 27.09.2025 20:58:58
+		Duration:	05:36:09
+		Location:	41.80893 12.32821
+
+	MMI2
+		Images:	2465
+		Time:	27.09.2025 15:02:36 until 27.09.2025 20:58:48
+		Duration:	05:56:12
+		Location:	41.80893 12.32821
+
+	FBO2
+		Images:	1718
+		Time:	27.09.2025 15:43:51 until 27.09.2025 20:57:15
+		Duration:	05:13:24
+		Location:	41.80893 12.32821
+
+(5) - Station 5 ROWING
+	BRP1
+		Images:	14041
+		Time:	27.09.2025 08:32:52 until 27.09.2025 15:08:45
+		Duration:	06:35:53
+		Location:	41.80893 12.32821
+
+	EO1
+		Images:	3219
+		Time:	27.09.2025 08:34:10 until 27.09.2025 15:02:38
+		Duration:	06:28:28
+		Location:	41.80893 12.32821
+
+	CVG2
+		Images:	3635
+		Time:	27.09.2025 15:01:21 until 27.09.2025 21:06:52
+		Duration:	06:05:31
+		Location:	41.80893 12.32821
+
+	SORI2
+		Images:	9711
+		Time:	27.09.2025 15:08:47 until 27.09.2025 21:27:39
+		Duration:	06:18:52
+		Location:	41.80893 12.32821
+
+	ELLA1
+		Images:	3585
+		Time:	27.09.2025 07:11:54 until 28.09.2025 08:37:00
+		Duration:	1.01:25:06
+		Location:	41.80893 12.32821
+
+	NJO1
+		Images:	2314
+		Time:	27.09.2025 10:04:31 until 27.09.2025 19:30:06
+		Duration:	09:25:35
+		Location:	41.80893 12.32821
+
+(6) - Station 6 FARMERS CARRY
+	EO1LS1
+		Images:	3717
+		Time:	27.09.2025 07:40:17 until 27.09.2025 21:30:38
+		Duration:	13:50:21
+		Location:	41.80893 12.32821
+
+	EO1LS2
+		Images:	6682
+		Time:	27.09.2025 07:45:02 until 27.09.2025 21:43:05
+		Duration:	13:58:03
+		Location:	41.80893 12.32821
+
+(7) - Station 7 SANDBAG LUNGES
+	RSP1
+		Images:	6117
+		Time:	27.09.2025 08:43:02 until 27.09.2025 13:41:35
+		Duration:	04:58:33
+		Location:	41.80893 12.32821
+
+	RSP3
+		Images:	1174
+		Time:	27.09.2025 13:50:46 until 27.09.2025 15:13:55
+		Duration:	01:23:09
+		Location:	41.80893 12.32821
+
+	LIG1
+		Images:	1875
+		Time:	27.09.2025 08:00:50 until 27.09.2025 15:05:30
+		Duration:	07:04:40
+		Location:	41.80893 12.32821
+
+	CAIS2
+		Images:	4698
+		Time:	27.09.2025 15:06:02 until 27.09.2025 22:01:46
+		Duration:	06:55:44
+		Location:	41.80893 12.32821
+
+	RLO2
+		Images:	4478
+		Time:	27.09.2025 15:04:55 until 27.09.2025 21:55:02
+		Duration:	06:50:07
+		Location:	41.80893 12.32821
+
+	ELLA2
+		Images:	539
+		Time:	27.09.2025 13:38:05 until 27.09.2025 18:05:39
+		Duration:	04:27:34
+		Location:	41.80893 12.32821
+
+	NJO2
+		Images:	1491
+		Time:	27.09.2025 13:40:34 until 27.09.2025 18:45:51
+		Duration:	05:05:17
+		Location:	41.80893 12.32821
+
+(8) - Station 8 WALL BALLS
+	FBO1
+		Images:	2250
+		Time:	26.09.2025 08:11:24 until 27.09.2025 15:29:59
+		Duration:	1.07:18:35
+		Location:	41.80893 12.32821
+
+	MDV1
+		Images:	2409
+		Time:	26.09.2025 10:39:51 until 28.09.2025 08:45:18
+		Duration:	1.22:05:27
+		Location:	41.80893 12.32821
+
+	BRP2
+		Images:	6180
+		Time:	27.09.2025 15:32:07 until 27.09.2025 22:01:42
+		Duration:	06:29:35
+		Location:	41.80893 12.32821
+
+	CM2
+		Images:	5130
+		Time:	27.09.2025 15:23:11 until 28.09.2025 16:06:33
+		Duration:	1.00:43:22
+		Location:	41.80893 12.32821
+
+	ELLA3
+		Images:	2030
+		Time:	26.09.2025 11:17:14 until 27.09.2025 20:26:11
+		Duration:	1.09:08:57
+		Location:	41.80893 12.32821
+
+	NJO3
+		Images:	1844
+		Time:	27.09.2025 10:47:06 until 27.09.2025 20:28:00
+		Duration:	09:40:54
+		Location:	41.80893 12.32821
+
+(9) - Finish
+	LLM1
+		Images:	4687
+		Time:	26.09.2025 07:59:03 until 27.09.2025 15:04:10
+		Duration:	1.07:05:07
+		Location:	41.80893 12.32821
+
+	LDL2
+		Images:	4906
+		Time:	27.09.2025 15:06:14 until 27.09.2025 22:24:56
+		Duration:	07:18:42
+		Location:	41.80893 12.32821
+
+	CAIS1LS1
+		Images:	1367
+		Time:	27.09.2025 07:58:34 until 27.09.2025 21:53:15
+		Duration:	13:54:41
+		Location:	41.80893 12.32821
+
+	FRN1LS1
+		Images:	5777
+		Time:	26.09.2025 08:06:03 until 27.09.2025 22:01:50
+		Duration:	1.13:55:47
+		Location:	41.80893 12.32821
+
+(10) - Medalwall
+	RLLA1
+		Images:	3844
+		Time:	27.09.2025 07:33:52 until 28.09.2025 09:15:18
+		Duration:	1.01:41:26
+		Location:	41.80893 12.32821
+
+	PINO2
+		Images:	3604
+		Time:	27.09.2025 15:08:24 until 27.09.2025 22:27:29
+		Duration:	07:19:05
+		Location:	41.80893 12.32821
+

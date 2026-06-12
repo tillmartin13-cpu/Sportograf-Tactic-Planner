@@ -1,0 +1,53 @@
+EventId: 14278
+Spots: 7
+Total Images: 7520
+Time:	05.10.2025 00:26:34 to 05.10.2025 13:42:46
+Duration: 13:16:12
+
+(1) - 10.0 km
+	GAUB1
+		Images:	838
+		Time:	05.10.2025 07:34:31 until 05.10.2025 08:05:14
+		Duration:	00:30:43
+		Location:	NULL NULL
+
+(2) - 20.6 km
+	GAUB2
+		Images:	2057
+		Time:	05.10.2025 08:40:00 until 05.10.2025 12:45:40
+		Duration:	04:05:40
+		Location:	NULL NULL
+
+(3) - Finish
+	LMB1
+		Images:	2622
+		Time:	05.10.2025 06:51:48 until 05.10.2025 13:42:09
+		Duration:	06:50:21
+		Location:	NULL NULL
+
+	LMB1LS1
+		Images:	397
+		Time:	05.10.2025 09:18:37 until 05.10.2025 13:42:46
+		Duration:	04:24:09
+		Location:	NULL NULL
+
+	LMB1DRONE1
+		Images:	27
+		Time:	05.10.2025 06:53:50 until 05.10.2025 13:06:08
+		Duration:	06:12:18
+		Location:	NULL NULL
+
+(4) - 70.3 km | 142 km
+	MAU2
+		Images:	1098
+		Time:	05.10.2025 09:27:34 until 05.10.2025 13:26:22
+		Duration:	03:58:48
+		Location:	NULL NULL
+
+(5) - 52.3 km | 123.8 km
+	MAU3
+		Images:	481
+		Time:	05.10.2025 00:26:34 until 05.10.2025 08:40:13
+		Duration:	08:13:39
+		Location:	NULL NULL
+

@@ -1,0 +1,114 @@
+EventId: 13593
+Spots: 16
+Total Images: 94237
+Time:	21.06.2025 11:07:30 to 22.06.2025 11:58:19
+Duration: 1.00:50:49
+
+(1) - Start
+	ACCA1
+		Images:	6305
+		Time:	21.06.2025 20:04:49 until 22.06.2025 10:15:03
+		Duration:	14:10:14
+		Location:	NULL NULL
+
+(2) - 3.0 km Av. de Tervueren
+	TOBB1
+		Images:	9012
+		Time:	21.06.2025 12:26:23 until 22.06.2025 10:04:29
+		Duration:	21:38:06
+		Location:	50.83792 4.40477
+
+	TOBB1LS1
+		Images:	7056
+		Time:	21.06.2025 12:12:45 until 22.06.2025 10:06:04
+		Duration:	21:53:19
+		Location:	50.83792 4.40477
+
+(3) - 3.1 km Av. de Tervueren
+	TOBB1LS2
+		Images:	2000
+		Time:	21.06.2025 12:10:07 until 22.06.2025 10:24:08
+		Duration:	22:14:01
+		Location:	50.83796 4.40536
+
+(4) - 5.5 km Musée du Transport
+	OT1
+		Images:	9127
+		Time:	22.06.2025 07:49:36 until 22.06.2025 10:20:18
+		Duration:	02:30:42
+		Location:	50.82880 4.43277
+
+(5) - 13.6 km Av. du Panorama
+	BAR1
+		Images:	9186
+		Time:	21.06.2025 20:51:44 until 22.06.2025 10:51:06
+		Duration:	13:59:22
+		Location:	50.80488 4.37736
+
+(6) - 16.3 km Blvd Géneral Jacques
+	TLA1
+		Images:	9055
+		Time:	21.06.2025 20:48:53 until 22.06.2025 10:59:51
+		Duration:	14:10:58
+		Location:	50.82092 4.38632
+
+(7) - 19.3 km Bd Brand Whitlock
+	MIBU1
+		Images:	4820
+		Time:	22.06.2025 07:47:49 until 22.06.2025 11:00:28
+		Duration:	03:12:39
+		Location:	50.84393 4.40555
+
+	MIBU1LS1
+		Images:	3967
+		Time:	22.06.2025 07:33:47 until 22.06.2025 11:04:34
+		Duration:	03:30:47
+		Location:	50.84393 4.40555
+
+	MIBU1LS2
+		Images:	2776
+		Time:	21.06.2025 12:22:25 until 22.06.2025 11:09:42
+		Duration:	22:47:17
+		Location:	50.84393 4.40555
+
+(8) - 7.0 km before finish Docks
+	PBO1
+		Images:	7467
+		Time:	21.06.2025 11:07:30 until 22.06.2025 11:28:24
+		Duration:	1.00:20:54
+		Location:	50.88153 4.37391
+
+(9) - 4.7 km before finish Tour Japonaise
+	TID1
+		Images:	5882
+		Time:	21.06.2025 23:51:55 until 22.06.2025 11:43:29
+		Duration:	11:51:34
+		Location:	50.89339 4.36095
+
+	TID1LS1
+		Images:	1300
+		Time:	22.06.2025 00:00:00 until 22.06.2025 11:38:21
+		Duration:	11:38:21
+		Location:	50.89339 4.36095
+
+(10) - 4.0 km before finish Av. du Parc Royal
+	FVE1
+		Images:	6994
+		Time:	22.06.2025 09:40:37 until 22.06.2025 11:48:44
+		Duration:	02:08:07
+		Location:	50.88862 4.35624
+
+(11) - Finish
+	DAV1
+		Images:	9288
+		Time:	22.06.2025 07:05:09 until 22.06.2025 11:58:19
+		Duration:	04:53:10
+		Location:	50.89980 4.34191
+
+(12) - Impressions / Pano
+	PANO1
+		Images:	2
+		Time:	22.06.2025 09:48:40 until 22.06.2025 10:02:30
+		Duration:	00:13:50
+		Location:	NULL NULL
+

@@ -1,0 +1,281 @@
+EventId: 14816
+Spots: 45
+Total Images: 88798
+Time:	22.02.2025 07:02:56 to 22.02.2025 19:58:42
+Duration: 12:55:46
+
+(1) - Station 1 SkiErg
+	AGP1
+		Images:	2087
+		Time:	22.02.2025 08:00:25 until 22.02.2025 13:08:38
+		Duration:	05:08:13
+		Location:	50.26658 19.02769
+
+	JAKO1
+		Images:	4507
+		Time:	22.02.2025 07:32:57 until 22.02.2025 13:08:17
+		Duration:	05:35:20
+		Location:	50.26658 19.02769
+
+	LZA2
+		Images:	2573
+		Time:	22.02.2025 13:23:45 until 22.02.2025 18:37:53
+		Duration:	05:14:08
+		Location:	50.26658 19.02769
+
+	HKU2
+		Images:	4047
+		Time:	22.02.2025 13:54:29 until 22.02.2025 18:38:12
+		Duration:	04:43:43
+		Location:	50.26658 19.02769
+
+	BS1
+		Images:	1048
+		Time:	22.02.2025 08:58:54 until 22.02.2025 14:57:37
+		Duration:	05:58:43
+		Location:	50.26658 19.02769
+
+	GUD1
+		Images:	1325
+		Time:	22.02.2025 09:03:39 until 22.02.2025 14:57:44
+		Duration:	05:54:05
+		Location:	50.26658 19.02769
+
+(2) - Station 2 Sled Push
+	ROH1
+		Images:	4017
+		Time:	22.02.2025 07:57:22 until 22.02.2025 13:19:50
+		Duration:	05:22:28
+		Location:	50.26658 19.02769
+
+	RW1
+		Images:	3898
+		Time:	22.02.2025 08:11:22 until 22.02.2025 14:06:41
+		Duration:	05:55:19
+		Location:	50.26658 19.02769
+
+	MIMA2
+		Images:	2507
+		Time:	22.02.2025 14:17:34 until 22.02.2025 18:46:02
+		Duration:	04:28:28
+		Location:	50.26658 19.02769
+
+	THO2
+		Images:	3443
+		Time:	22.02.2025 13:29:24 until 22.02.2025 18:47:09
+		Duration:	05:17:45
+		Location:	50.26658 19.02769
+
+	BS2
+		Images:	955
+		Time:	22.02.2025 09:33:33 until 22.02.2025 15:36:31
+		Duration:	06:02:58
+		Location:	50.26658 19.02769
+
+	GUD2
+		Images:	1243
+		Time:	22.02.2025 09:42:40 until 22.02.2025 15:27:14
+		Duration:	05:44:34
+		Location:	50.26658 19.02769
+
+(3) - Station 3 Sled Pull
+	HKU1
+		Images:	2731
+		Time:	22.02.2025 08:16:49 until 22.02.2025 13:42:04
+		Duration:	05:25:15
+		Location:	50.26658 19.02769
+
+	MIMA1
+		Images:	4454
+		Time:	22.02.2025 07:27:24 until 22.02.2025 14:12:48
+		Duration:	06:45:24
+		Location:	50.26658 19.02769
+
+	LKU2
+		Images:	1691
+		Time:	22.02.2025 14:13:52 until 22.02.2025 18:57:36
+		Duration:	04:43:44
+		Location:	50.26658 19.02769
+
+	NU2
+		Images:	960
+		Time:	22.02.2025 13:43:08 until 22.02.2025 18:56:17
+		Duration:	05:13:09
+		Location:	50.26658 19.02769
+
+	BS3
+		Images:	934
+		Time:	22.02.2025 10:24:44 until 22.02.2025 16:21:21
+		Duration:	05:56:37
+		Location:	50.26658 19.02769
+
+	GUD3
+		Images:	1085
+		Time:	22.02.2025 10:23:36 until 22.02.2025 16:13:36
+		Duration:	05:50:00
+		Location:	50.26658 19.02769
+
+(4) - Station 5 Rowing
+	LZA1
+		Images:	1929
+		Time:	22.02.2025 07:13:27 until 22.02.2025 13:14:53
+		Duration:	06:01:26
+		Location:	50.26658 19.02769
+
+	AGP2
+		Images:	5075
+		Time:	22.02.2025 13:17:28 until 22.02.2025 19:19:42
+		Duration:	06:02:14
+		Location:	50.26658 19.02769
+
+	BS4
+		Images:	557
+		Time:	22.02.2025 10:59:24 until 22.02.2025 11:39:16
+		Duration:	00:39:52
+		Location:	50.26658 19.02769
+
+	GUD7
+		Images:	1727
+		Time:	22.02.2025 16:29:44 until 22.02.2025 16:58:50
+		Duration:	00:29:06
+		Location:	50.26658 19.02769
+
+(5) - Station 6 Farmers Carry
+	GUD7LS1
+		Images:	2471
+		Time:	22.02.2025 07:46:42 until 22.02.2025 19:40:00
+		Duration:	11:53:18
+		Location:	50.26658 19.02769
+
+	GUD7LS2
+		Images:	2388
+		Time:	22.02.2025 07:46:44 until 22.02.2025 19:36:36
+		Duration:	11:49:52
+		Location:	50.26658 19.02769
+
+(6) - Station 7 Sandbag Lunges
+	SZB1
+		Images:	821
+		Time:	22.02.2025 07:42:51 until 22.02.2025 13:15:53
+		Duration:	05:33:02
+		Location:	50.26658 19.02769
+
+	JAKO2
+		Images:	3295
+		Time:	22.02.2025 13:19:07 until 22.02.2025 19:41:37
+		Duration:	06:22:30
+		Location:	50.26658 19.02769
+
+	BS7
+		Images:	418
+		Time:	22.02.2025 16:30:37 until 22.02.2025 16:57:01
+		Duration:	00:26:24
+		Location:	50.26658 19.02769
+
+	GUD4
+		Images:	802
+		Time:	22.02.2025 10:59:36 until 22.02.2025 11:39:53
+		Duration:	00:40:17
+		Location:	50.26658 19.02769
+
+(7) - Station 8 Wall Balls
+	NU1
+		Images:	1195
+		Time:	22.02.2025 07:04:10 until 22.02.2025 13:34:57
+		Duration:	06:30:47
+		Location:	50.26658 19.02769
+
+	THO1
+		Images:	1710
+		Time:	22.02.2025 07:28:20 until 22.02.2025 13:23:14
+		Duration:	05:54:54
+		Location:	50.26658 19.02769
+
+	DAR2
+		Images:	3169
+		Time:	22.02.2025 13:37:59 until 22.02.2025 19:56:08
+		Duration:	06:18:09
+		Location:	50.26658 19.02769
+
+	SZB2
+		Images:	2163
+		Time:	22.02.2025 13:25:29 until 22.02.2025 19:55:42
+		Duration:	06:30:13
+		Location:	50.26658 19.02769
+
+	BS5
+		Images:	607
+		Time:	22.02.2025 12:02:32 until 22.02.2025 17:33:09
+		Duration:	05:30:37
+		Location:	50.26658 19.02769
+
+	GUD5
+		Images:	885
+		Time:	22.02.2025 12:02:47 until 22.02.2025 17:37:53
+		Duration:	05:35:06
+		Location:	50.26658 19.02769
+
+(8) - Finish
+	LKU1
+		Images:	3350
+		Time:	22.02.2025 07:02:56 until 22.02.2025 14:04:38
+		Duration:	07:01:42
+		Location:	50.26658 19.02769
+
+	RW2
+		Images:	3798
+		Time:	22.02.2025 14:10:40 until 22.02.2025 19:57:22
+		Duration:	05:46:42
+		Location:	50.26658 19.02769
+
+	RW2LS1
+		Images:	2157
+		Time:	22.02.2025 07:40:48 until 22.02.2025 19:57:28
+		Duration:	12:16:40
+		Location:	50.26658 19.02769
+
+	BS6LS1
+		Images:	2320
+		Time:	22.02.2025 07:17:45 until 22.02.2025 19:58:41
+		Duration:	12:40:56
+		Location:	50.26658 19.02769
+
+	BS6
+		Images:	258
+		Time:	22.02.2025 12:39:35 until 22.02.2025 14:09:35
+		Duration:	01:30:00
+		Location:	50.26658 19.02769
+
+	GUD6
+		Images:	362
+		Time:	22.02.2025 17:49:51 until 22.02.2025 18:20:31
+		Duration:	00:30:40
+		Location:	50.26658 19.02769
+
+(9) - Herowall
+	DAR1
+		Images:	1178
+		Time:	22.02.2025 07:37:31 until 22.02.2025 13:31:13
+		Duration:	05:53:42
+		Location:	50.26658 19.02769
+
+	ROH2
+		Images:	2471
+		Time:	22.02.2025 13:31:23 until 22.02.2025 19:58:42
+		Duration:	06:27:19
+		Location:	50.26658 19.02769
+
+	BS9
+		Images:	90
+		Time:	22.02.2025 17:45:05 until 22.02.2025 18:20:21
+		Duration:	00:35:16
+		Location:	50.26658 19.02769
+
+(10) - Impressions / Pano
+	BS8
+		Images:	97
+		Time:	22.02.2025 08:05:23 until 22.02.2025 08:53:32
+		Duration:	00:48:09
+		Location:	50.26658 19.02769
+
+	PANO1

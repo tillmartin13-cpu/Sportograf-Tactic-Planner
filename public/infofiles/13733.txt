@@ -1,0 +1,112 @@
+EventId: 13733
+Spots: 16
+Total Images: 24382
+Time:	10.08.2025 08:26:00 to 10.08.2025 13:14:20
+Duration: 04:48:20
+
+(1) - Swim - Start
+	JWA1
+		Images:	4889
+		Time:	10.08.2025 08:26:00 until 10.08.2025 10:49:51
+		Duration:	02:23:51
+		Location:	49.45192 11.10206
+
+	MBRE1
+		Images:	477
+		Time:	10.08.2025 08:31:12 until 10.08.2025 09:18:50
+		Duration:	00:47:38
+		Location:	49.45182 11.10206
+
+	MUT1
+		Images:	654
+		Time:	10.08.2025 08:51:43 until 10.08.2025 09:21:05
+		Duration:	00:29:22
+		Location:	49.45192 11.10206
+
+	NJO1
+		Images:	510
+		Time:	10.08.2025 08:52:42 until 10.08.2025 09:18:54
+		Duration:	00:26:12
+		Location:	49.45192 11.10206
+
+(2) - Finish
+	JWA3
+		Images:	5685
+		Time:	10.08.2025 10:59:41 until 10.08.2025 13:03:17
+		Duration:	02:03:36
+		Location:	49.45134 11.10308
+
+	JWA3LS1
+		Images:	694
+		Time:	10.08.2025 08:34:25 until 10.08.2025 12:54:35
+		Duration:	04:20:10
+		Location:	49.45134 11.10308
+
+	NJO4LS1
+		Images:	206
+		Time:	10.08.2025 12:06:26 until 10.08.2025 12:54:48
+		Duration:	00:48:22
+		Location:	49.45134 11.10308
+
+(3) - Bike - Transition zone
+	MBRE2
+		Images:	639
+		Time:	10.08.2025 09:31:27 until 10.08.2025 13:08:57
+		Duration:	03:37:30
+		Location:	49.4512 11.10215
+
+(4) - Run - Nürnberg City
+	MBRE3
+		Images:	2754
+		Time:	10.08.2025 10:58:51 until 10.08.2025 12:56:04
+		Duration:	01:57:13
+		Location:	49.45363 11.07707
+
+(5) - Bike - Prinzregentenufer
+	MUT2
+		Images:	1976
+		Time:	10.08.2025 09:49:11 until 10.08.2025 11:05:10
+		Duration:	01:15:59
+		Location:	49.45244 11.08822
+
+(6) - Run - Kasemattentor
+	MUT3
+		Images:	1662
+		Time:	10.08.2025 11:07:50 until 10.08.2025 13:14:20
+		Duration:	02:06:30
+		Location:	49.45325 11.08584
+
+(7) - Swim - Impressions / Pano
+	NJO1DRONE1
+		Images:	13
+		Time:	10.08.2025 09:20:10 until 10.08.2025 09:24:09
+		Duration:	00:03:59
+		Location:	49.45192 11.10206
+
+(8) - Bike - Wöhrder Talübergang
+	NJO2
+		Images:	404
+		Time:	10.08.2025 09:31:00 until 10.08.2025 09:50:41
+		Duration:	00:19:41
+		Location:	49.45088 11.09743
+
+(9) - Bike - Laufer Torturm
+	NJO3
+		Images:	2307
+		Time:	10.08.2025 09:54:46 until 10.08.2025 11:53:05
+		Duration:	01:58:19
+		Location:	49.45721 11.08906
+
+	NJO3LS1
+		Images:	1151
+		Time:	10.08.2025 09:56:35 until 10.08.2025 11:54:04
+		Duration:	01:57:29
+		Location:	49.45721 11.08906
+
+(10) - Run - last 100 m
+	NJO4
+		Images:	361
+		Time:	10.08.2025 12:13:20 until 10.08.2025 12:58:32
+		Duration:	00:45:12
+		Location:	49.45144 11.10216
+

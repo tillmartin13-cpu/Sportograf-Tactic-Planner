@@ -1,0 +1,181 @@
+EventId: 14374
+Spots: 27
+Total Images: 110740
+Time:	15.03.2025 04:45:25 to 16.03.2025 13:22:20
+Duration: 1.08:36:55
+
+(1) - Venue
+	BIC1
+		Images:	197
+		Time:	15.03.2025 05:55:58 until 16.03.2025 06:44:53
+		Duration:	1.00:48:55
+		Location:	22.78263 120.40454
+
+	LVM1DRONE1
+		Images:	17
+		Time:	15.03.2025 05:52:43 until 16.03.2025 06:47:32
+		Duration:	1.00:54:49
+		Location:	22.78263 120.40454
+
+	NTA2
+		Images:	786
+		Time:	16.03.2025 11:37:19 until 16.03.2025 12:09:27
+		Duration:	00:32:08
+		Location:	22.78263 120.40454
+
+	TNA1
+		Images:	562
+		Time:	15.03.2025 06:28:53 until 16.03.2025 07:04:08
+		Duration:	1.00:35:15
+		Location:	22.78263 120.40454
+
+(2) - Obstacle 19 A-Frame Cargo
+	BIC2
+		Images:	3465
+		Time:	15.03.2025 07:18:22 until 16.03.2025 13:03:43
+		Duration:	1.05:45:21
+		Location:	22.78260 120.40496
+
+(3) - Obstacle 14 Multi-Rig
+	BXC1
+		Images:	15019
+		Time:	15.03.2025 07:47:16 until 16.03.2025 12:32:47
+		Duration:	1.04:45:31
+		Location:	22.78619 120.40726
+
+(4) - Obstacle 13 Barbed Wire Crawl
+	DLO1
+		Images:	9345
+		Time:	16.03.2025 05:38:58 until 16.03.2025 12:34:58
+		Duration:	06:56:00
+		Location:	22.78643 120.40709
+
+(5) - Obstacle 21 Bender
+	HTT1
+		Images:	5249
+		Time:	15.03.2025 04:45:25 until 16.03.2025 09:03:10
+		Duration:	1.04:17:45
+		Location:	22.78998 120.40641
+
+(6) - Obstacle 3 Sandbag Carry
+	HTT1LS1
+		Images:	1256
+		Time:	16.03.2025 05:57:25 until 16.03.2025 10:56:18
+		Duration:	04:58:53
+		Location:	22.78939 120.40689
+
+	HTT1LS2
+		Images:	1229
+		Time:	16.03.2025 06:32:42 until 16.03.2025 11:07:26
+		Duration:	04:34:44
+		Location:	22.78939 120.40689
+
+(7) - Obstacle 5 Monkey Bars
+	HTT2
+		Images:	5657
+		Time:	16.03.2025 09:09:02 until 16.03.2025 11:36:08
+		Duration:	02:27:06
+		Location:	22.79026 120.40687
+
+(8) - Herotent
+	LVM1
+		Images:	2924
+		Time:	15.03.2025 06:26:51 until 16.03.2025 13:22:20
+		Duration:	1.06:55:29
+		Location:	22.78252 120.40451
+
+(9) - Obstacle 18 Bucket Carry
+	NNG1
+		Images:	9034
+		Time:	16.03.2025 07:19:04 until 16.03.2025 12:49:24
+		Duration:	05:30:20
+		Location:	22.78422 120.40616
+
+	NNG1LS1
+		Images:	1824
+		Time:	16.03.2025 07:04:48 until 16.03.2025 12:53:08
+		Duration:	05:48:20
+		Location:	22.78422 120.40616
+
+	TDB1LS2
+		Images:	1458
+		Time:	16.03.2025 05:24:09 until 16.03.2025 12:01:35
+		Duration:	06:37:26
+		Location:	22.78422 120.40616
+
+(10) - Finish
+	NNG1LS2
+		Images:	2065
+		Time:	15.03.2025 05:43:24 until 16.03.2025 13:13:23
+		Duration:	1.07:29:59
+		Location:	22.78263 120.40454
+
+	TDB1LS1
+		Images:	2554
+		Time:	16.03.2025 06:35:26 until 16.03.2025 13:13:27
+		Duration:	06:38:01
+		Location:	22.78263 120.40454
+
+	TNA2
+		Images:	4546
+		Time:	16.03.2025 07:30:10 until 16.03.2025 13:07:29
+		Duration:	05:37:19
+		Location:	22.78263 120.40454
+
+(11) - Obstacle 2 Vertical Cargo
+	NTA1
+		Images:	4742
+		Time:	16.03.2025 06:39:14 until 16.03.2025 11:37:02
+		Duration:	04:57:48
+		Location:	22.78646 120.40508
+
+(12) - Obstacle 1 O.U.T
+	NTA1LS1
+		Images:	1383
+		Time:	15.03.2025 06:26:14 until 16.03.2025 11:33:59
+		Duration:	1.05:07:45
+		Location:	22.78646 120.40508
+
+	NTA1LS2
+		Images:	5720
+		Time:	16.03.2025 06:35:36 until 16.03.2025 10:30:08
+		Duration:	03:54:32
+		Location:	22.78646 120.40508
+
+(13) - 4,8 km
+	NTA2LS1
+		Images:	1544
+		Time:	16.03.2025 11:25:20 until 16.03.2025 12:16:54
+		Duration:	00:51:34
+		Location:	22.78263 120.40454
+
+(14) - Obstacle 11 Rope Climb
+	NTT1
+		Images:	5553
+		Time:	16.03.2025 07:03:01 until 16.03.2025 12:02:21
+		Duration:	04:59:20
+		Location:	22.78746 120.40759
+
+(15) - 4,5 km
+	NTT1LS2
+		Images:	7958
+		Time:	16.03.2025 06:29:02 until 16.03.2025 13:04:59
+		Duration:	06:35:57
+		Location:	22.78746 120.40759
+
+(16) - 5,0 km
+	NTT1LS1
+		Images:	7360
+		Time:	16.03.2025 06:57:17 until 16.03.2025 13:06:15
+		Duration:	06:08:58
+		Location:	22.78746 120.40759
+
+(17) - Obstacle 17 Plate Drag
+	TDB1
+		Images:	9288
+		Time:	15.03.2025 05:36:31 until 16.03.2025 12:56:36
+		Duration:	1.07:20:05
+		Location:	22.78490 120.40631
+
+(18) - Impressions / Pano
+	PANO1

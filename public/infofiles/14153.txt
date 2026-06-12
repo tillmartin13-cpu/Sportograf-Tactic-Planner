@@ -1,0 +1,69 @@
+EventId: 14153
+Spots: 9
+Total Images: 13154
+Time:	14.09.2025 07:32:15 to 14.09.2025 16:50:08
+Duration: 09:17:53
+
+(1) - 1,2 km Pont Cordemois
+	CWA1
+		Images:	1149
+		Time:	14.09.2025 07:32:15 until 14.09.2025 09:51:28
+		Duration:	02:19:13
+		Location:	49.79447 5.06409
+
+(2) - 33,5 km Passerelle Semois Frahan
+	BC1
+		Images:	1372
+		Time:	14.09.2025 09:20:10 until 14.09.2025 11:37:48
+		Duration:	02:17:38
+		Location:	49.83527 5.00431
+
+(3) - 48,2 km Passerelle Mouzaive
+	ACE1
+		Images:	1396
+		Time:	14.09.2025 09:24:55 until 14.09.2025 15:48:51
+		Duration:	06:23:56
+		Location:	49.85416 4.96794
+
+(4) - 48,0 km Passerelle Mouzaive (70km)
+	ACE2
+		Images:	1539
+		Time:	14.09.2025 11:41:58 until 14.09.2025 13:48:29
+		Duration:	02:06:31
+		Location:	49.85353 4.96715
+
+(5) - 101,2 km Les Cravates
+	TID1
+		Images:	2378
+		Time:	14.09.2025 08:51:35 until 14.09.2025 16:07:33
+		Duration:	07:15:58
+		Location:	49.82409 4.9635
+
+(6) - 101,2 km
+	TID1LS1
+		Images:	767
+		Time:	14.09.2025 08:48:00 until 14.09.2025 15:40:37
+		Duration:	06:52:37
+		Location:	49.82409 4.9635
+
+(7) - 101,0 km
+	ACE3
+		Images:	90
+		Time:	14.09.2025 14:44:14 until 14.09.2025 16:06:19
+		Duration:	01:22:05
+		Location:	49.82409 4.9635
+
+(8) - 114,0 km Passerelle Moulin de L´Epine
+	BC2
+		Images:	2074
+		Time:	14.09.2025 12:18:25 until 14.09.2025 16:01:10
+		Duration:	03:42:45
+		Location:	49.80396 5.04589
+
+(9) - Finish
+	CWA2
+		Images:	2389
+		Time:	14.09.2025 11:34:27 until 14.09.2025 16:50:08
+		Duration:	05:15:41
+		Location:	49.7937 5.06902
+

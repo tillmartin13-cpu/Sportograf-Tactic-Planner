@@ -1,0 +1,154 @@
+EventId: 15680
+Spots: 55
+Total Images: 118119
+Time:	31.12.2013 19:16:24 to 16.03.2025 14:12:09
+Duration: 4092.18:55:45
+
+(1) - 0.0 km
+	LAEME1
+	LDDME1
+	LGGPF1
+		Images:	309
+		Time:	16.03.2025 06:08:30 until 16.03.2025 06:48:31
+		Duration:	00:40:01
+		Location:	NULL NULL
+
+	LGGST1
+		Images:	643
+		Time:	16.03.2025 06:07:54 until 16.03.2025 06:49:17
+		Duration:	00:41:23
+		Location:	NULL NULL
+
+	LLSPF1
+	LLSPL1
+		Images:	15235
+		Time:	16.03.2025 08:03:04 until 16.03.2025 14:12:09
+		Duration:	06:09:05
+		Location:	NULL NULL
+
+	LLSSV1
+		Images:	11815
+		Time:	16.03.2025 07:53:47 until 16.03.2025 13:04:24
+		Duration:	05:10:37
+		Location:	NULL NULL
+
+	LPFTR1
+		Images:	10540
+		Time:	16.03.2025 07:57:59 until 16.03.2025 11:00:36
+		Duration:	03:02:37
+		Location:	NULL NULL
+
+(2) - Impressions / Pano
+	PANO1
+(3) - none
+	LARBD1
+	LASSI1
+	LASTH1
+		Images:	5133
+		Time:	16.03.2025 03:48:31 until 16.03.2025 07:17:10
+		Duration:	03:28:39
+		Location:	NULL NULL
+
+	LAWFO1
+		Images:	5248
+		Time:	16.03.2025 07:14:22 until 16.03.2025 09:22:36
+		Duration:	02:08:14
+		Location:	NULL NULL
+
+	LAWPF1
+		Images:	1611
+		Time:	16.03.2025 10:34:20 until 16.03.2025 14:09:31
+		Duration:	03:35:11
+		Location:	NULL NULL
+
+	LCCBD1
+	LCMFN1
+		Images:	9217
+		Time:	16.03.2025 06:40:45 until 16.03.2025 11:37:46
+		Duration:	04:57:01
+		Location:	NULL NULL
+
+	LCMON1
+	LCPBD1
+	LCWME1
+	LDSON1
+	LDSSE1
+	LGGPR1
+		Images:	12493
+		Time:	16.03.2025 08:19:09 until 16.03.2025 10:36:35
+		Duration:	02:17:26
+		Location:	NULL NULL
+
+	LGJFI1
+	LGJTW1
+	LIDSI1
+	LIDTH1
+	LJCFI1
+	LJCTW1
+		Images:	6187
+		Time:	16.03.2025 06:37:07 until 16.03.2025 08:19:58
+		Duration:	01:42:51
+		Location:	NULL NULL
+
+	LJRPF1
+	LJRPR1
+	LJWFI1
+	LJWTW1
+	LJYMS1
+	LJYON1
+	LJYSE1
+	LKOME1
+	LLNFO1
+		Images:	7757
+		Time:	16.03.2025 06:45:57 until 16.03.2025 09:22:08
+		Duration:	02:36:11
+		Location:	NULL NULL
+
+	LLNPF1
+	LLSFN1
+	LLSFO1
+		Images:	7340
+		Time:	16.03.2025 07:16:45 until 16.03.2025 09:19:04
+		Duration:	02:02:19
+		Location:	NULL NULL
+
+	LPBSI1
+	LPBTH1
+	LPRON1
+	LPRSE1
+		Images:	3825
+		Time:	16.03.2025 08:25:48 until 16.03.2025 11:21:01
+		Duration:	02:55:13
+		Location:	NULL NULL
+
+	LRHBD1
+	LRMFN1
+	LSMBD1
+		Images:	647
+		Time:	16.03.2025 07:47:00 until 16.03.2025 12:13:43
+		Duration:	04:26:43
+		Location:	NULL NULL
+
+	LSRFI1
+	LSRTW1
+	LSTSI1
+		Images:	4254
+		Time:	31.12.2013 23:19:33 until 01.01.2014 02:36:58
+		Duration:	03:17:25
+		Location:	NULL NULL
+
+	LSTTH1
+		Images:	9815
+		Time:	31.12.2013 19:16:24 until 31.12.2013 22:25:37
+		Duration:	03:09:13
+		Location:	NULL NULL
+
+	LSZFN1
+	LTRFN1
+	LTRFO1
+		Images:	6050
+		Time:	16.03.2025 05:47:45 until 16.03.2025 08:53:43
+		Duration:	03:05:58
+		Location:	NULL NULL
+
+	LTRPF1

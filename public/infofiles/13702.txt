@@ -1,0 +1,119 @@
+EventId: 13702
+Spots: 17
+Total Images: 38671
+Time:	01.01.0001 23:00:00 to 06.04.2025 14:30:00
+Duration: 739345.15:30:00
+
+(1) - Start
+	JKOR1
+		Images:	1732
+		Time:	05.04.2025 10:10:13 until 05.04.2025 12:25:32
+		Duration:	02:15:19
+		Location:	53.53615 9.86703
+
+	BK1
+		Images:	1081
+		Time:	05.04.2025 11:44:07 until 05.04.2025 13:30:36
+		Duration:	01:46:29
+		Location:	53.53615 9.86703
+
+	BK1DRONE1
+		Images:	34
+		Time:	05.04.2025 11:57:21 until 05.04.2025 13:07:05
+		Duration:	01:09:44
+		Location:	53.53615 9.86703
+
+	PDD1
+		Images:	984
+		Time:	05.04.2025 11:41:48 until 05.04.2025 13:21:26
+		Duration:	01:39:38
+		Location:	53.53615 9.86703
+
+(2) - Km 3,0 alte Süderelbe
+	SZ1
+		Images:	4176
+		Time:	05.04.2025 12:27:52 until 05.04.2025 14:07:02
+		Duration:	01:39:10
+		Location:	53.52023 9.88464
+
+(3) - Km 4,8 Naturdenkmal Gutsbrack
+	GL1
+		Images:	2268
+		Time:	05.04.2025 12:41:58 until 05.04.2025 14:45:19
+		Duration:	02:03:21
+		Location:	53.50863 9.87532
+
+(4) - Km 16,5 Lohmühlenteich
+	JKOR2
+		Images:	4002
+		Time:	05.04.2025 13:56:16 until 05.04.2025 16:30:23
+		Duration:	02:34:07
+		Location:	53.45385 9.96713
+
+(5) - Km 18,5 Harburger Stadtpark
+	SZ2
+		Images:	2660
+		Time:	05.04.2025 15:43:40 until 05.04.2025 17:03:12
+		Duration:	01:19:32
+		Location:	53.45161 9.97872
+
+	PDD2
+		Images:	2899
+		Time:	05.04.2025 14:25:29 until 05.04.2025 17:59:47
+		Duration:	03:34:18
+		Location:	53.45161 9.97872
+
+(6) - Km 21 Wasserski Harburg
+	BK2
+		Images:	4288
+		Time:	05.04.2025 15:23:56 until 06.04.2025 08:26:10
+		Duration:	17:02:14
+		Location:	53.45886 10.01348
+
+	BK2LS1
+		Images:	1786
+		Time:	01.01.0001 23:00:00 until 05.04.2025 17:58:32
+		Duration:	739344.18:58:32
+		Location:	53.45886 10.01348
+
+(7) - Km 26,5 Schwenssand Hauptdeich
+	GL2
+		Images:	3684
+		Time:	05.04.2025 15:32:50 until 05.04.2025 19:43:55
+		Duration:	04:11:05
+		Location:	53.47147 10.01712
+
+(8) - Km 91,4 Tunnel Stellingen
+	JKOR3
+		Images:	2315
+		Time:	06.04.2025 01:54:18 until 06.04.2025 11:37:39
+		Duration:	09:43:21
+		Location:	53.59004 9.91912
+
+(9) - Km 99,2 Elbchaussee
+	SZ3
+		Images:	1732
+		Time:	06.04.2025 04:02:07 until 06.04.2025 12:11:57
+		Duration:	08:09:50
+		Location:	53.54763 9.85874
+
+	BK3
+		Images:	1834
+		Time:	06.04.2025 08:30:43 until 06.04.2025 12:16:42
+		Duration:	03:45:59
+		Location:	53.54763 9.85874
+
+(10) - Finish
+	PDD3
+		Images:	2523
+		Time:	06.04.2025 03:54:09 until 06.04.2025 14:30:00
+		Duration:	10:35:51
+		Location:	53.54721 9.86322
+
+(11) - Herotent
+	GL3
+		Images:	673
+		Time:	06.04.2025 03:59:15 until 06.04.2025 13:52:33
+		Duration:	09:53:18
+		Location:	53.54721 9.86322
+

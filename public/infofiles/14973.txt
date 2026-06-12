@@ -1,0 +1,149 @@
+EventId: 14973
+Spots: 25
+Total Images: 124807
+Time:	01.01.0001 23:00:00 to 04.01.2025 22:16:20
+Duration: 739253.23:16:20
+
+(1) - 0.0 km
+	COLMD1
+		Images:	418
+		Time:	04.01.2025 08:44:30 until 04.01.2025 10:21:20
+		Duration:	01:36:50
+		Location:	NULL NULL
+
+	DAN1
+		Images:	6862
+		Time:	04.01.2025 20:04:15 until 04.01.2025 22:16:20
+		Duration:	02:12:05
+		Location:	NULL NULL
+
+	ERICG1
+		Images:	11881
+		Time:	04.01.2025 07:19:56 until 04.01.2025 08:31:21
+		Duration:	01:11:25
+		Location:	NULL NULL
+
+	EVAA1
+		Images:	1873
+		Time:	04.01.2025 07:33:56 until 04.01.2025 08:30:00
+		Duration:	00:56:04
+		Location:	NULL NULL
+
+	FINUS1
+		Images:	6653
+		Time:	16.03.2024 23:47:47 until 04.01.2025 09:31:14
+		Duration:	293.09:43:27
+		Location:	NULL NULL
+
+(2) - Impressions / Pano
+	PANO1
+(3) - none
+	DOMMD1
+		Images:	335
+		Time:	04.01.2025 07:46:14 until 04.01.2025 10:12:56
+		Duration:	02:26:42
+		Location:	NULL NULL
+
+	ELIMD1
+		Images:	792
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+	FINLS1
+		Images:	6169
+		Time:	04.01.2025 06:21:01 until 04.01.2025 10:27:01
+		Duration:	04:06:00
+		Location:	NULL NULL
+
+	FINRS1
+		Images:	5856
+		Time:	04.01.2025 06:26:49 until 04.01.2025 10:21:32
+		Duration:	03:54:43
+		Location:	NULL NULL
+
+	GUSFN1
+		Images:	9309
+		Time:	04.01.2025 07:50:32 until 04.01.2025 09:21:03
+		Duration:	01:30:31
+		Location:	NULL NULL
+
+	GUSPR1
+	JODYK1
+		Images:	3901
+		Time:	04.01.2025 06:42:15 until 04.01.2025 09:17:11
+		Duration:	02:34:56
+		Location:	NULL NULL
+
+	JOHAR1
+		Images:	5818
+		Time:	04.01.2025 07:47:51 until 04.01.2025 09:04:25
+		Duration:	01:16:34
+		Location:	NULL NULL
+
+	JULMD1
+		Images:	434
+		Time:	04.01.2025 08:33:11 until 04.01.2025 10:25:40
+		Duration:	01:52:29
+		Location:	NULL NULL
+
+	MAX1
+		Images:	9959
+		Time:	04.01.2025 08:45:12 until 04.01.2025 10:01:47
+		Duration:	01:16:35
+		Location:	NULL NULL
+
+	ONELS1
+		Images:	2209
+		Time:	01.01.0001 23:00:00 until 01.01.2014 06:08:40
+		Duration:	735232.07:08:40
+		Location:	NULL NULL
+
+	PFNLS1
+		Images:	5712
+		Time:	04.01.2025 08:26:20 until 04.01.2025 10:28:08
+		Duration:	02:01:48
+		Location:	NULL NULL
+
+	PFNRS1
+		Images:	5655
+		Time:	04.01.2025 03:33:53 until 04.01.2025 06:23:47
+		Duration:	02:49:54
+		Location:	NULL NULL
+
+	PINED1
+		Images:	6506
+		Time:	04.01.2025 08:50:15 until 04.01.2025 10:28:31
+		Duration:	01:38:16
+		Location:	NULL NULL
+
+	POOLE1
+		Images:	13515
+		Time:	04.01.2025 06:37:26 until 04.01.2025 09:28:01
+		Duration:	02:50:35
+		Location:	NULL NULL
+
+	STONE1
+		Images:	10797
+		Time:	04.01.2025 07:50:16 until 04.01.2025 09:28:23
+		Duration:	01:38:07
+		Location:	NULL NULL
+
+	SUSMD1
+		Images:	643
+		Time:	04.01.2025 07:59:12 until 04.01.2025 10:56:20
+		Duration:	02:57:08
+		Location:	NULL NULL
+
+	THRLS1
+		Images:	4818
+		Time:	04.01.2025 06:08:45 until 04.01.2025 09:09:03
+		Duration:	03:00:18
+		Location:	NULL NULL
+
+	TWOLS1
+		Images:	4692
+		Time:	04.01.2025 07:47:07 until 04.01.2025 09:05:18
+		Duration:	01:18:11
+		Location:	NULL NULL
+

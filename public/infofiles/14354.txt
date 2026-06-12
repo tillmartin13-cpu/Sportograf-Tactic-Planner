@@ -1,0 +1,293 @@
+EventId: 14354
+Spots: 47
+Total Images: 187187
+Time:	13.12.2025 04:50:06 to 14.12.2025 18:07:47
+Duration: 1.13:17:41
+
+(1) - Finish
+	NDK1
+		Images:	10356
+		Time:	13.12.2025 06:14:34 until 14.12.2025 14:03:08
+		Duration:	1.07:48:34
+		Location:	52.40432 16.90638
+
+	RYS1
+		Images:	583
+		Time:	13.12.2025 04:50:06 until 14.12.2025 13:52:33
+		Duration:	1.09:02:27
+		Location:	52.40432 16.90638
+
+	RYS2
+		Images:	151
+		Time:	14.12.2025 15:16:17 until 14.12.2025 15:42:54
+		Duration:	00:26:37
+		Location:	52.40432 16.90638
+
+	RYS1LS2
+		Images:	2750
+		Time:	14.12.2025 07:05:13 until 14.12.2025 18:07:46
+		Duration:	11:02:33
+		Location:	52.40432 16.90638
+
+	RYS1LS1
+		Images:	2721
+		Time:	14.12.2025 07:05:00 until 14.12.2025 18:07:47
+		Duration:	11:02:47
+		Location:	52.40432 16.90638
+
+	JAK2
+		Images:	15398
+		Time:	13.12.2025 06:15:42 until 14.12.2025 18:02:16
+		Duration:	1.11:46:34
+		Location:	52.40432 16.90638
+
+(2) - Impressions / Pano
+	PANO1
+(3) - Medalwall
+	RW1
+		Images:	4313
+		Time:	14.12.2025 06:39:54 until 14.12.2025 14:21:25
+		Duration:	07:41:31
+		Location:	52.40432 16.90638
+
+	AGA2
+		Images:	6498
+		Time:	14.12.2025 14:21:46 until 14.12.2025 18:03:54
+		Duration:	03:42:08
+		Location:	52.40432 16.90638
+
+(4) - Station 1 Ski Erg
+	JAK1
+		Images:	6182
+		Time:	13.12.2025 06:15:42 until 14.12.2025 13:50:57
+		Duration:	1.07:35:15
+		Location:	52.40432 16.90638
+
+	THO1
+		Images:	4957
+		Time:	13.12.2025 06:13:30 until 14.12.2025 14:00:18
+		Duration:	1.07:46:48
+		Location:	52.40432 16.90638
+
+	VLE1
+		Images:	4223
+		Time:	14.12.2025 06:36:41 until 14.12.2025 14:10:12
+		Duration:	07:33:31
+		Location:	52.40432 16.90638
+
+	MFR2
+		Images:	2277
+		Time:	14.12.2025 14:16:19 until 14.12.2025 16:36:50
+		Duration:	02:20:31
+		Location:	52.40432 16.90638
+
+	ROH2
+		Images:	2658
+		Time:	14.12.2025 14:24:36 until 14.12.2025 15:52:06
+		Duration:	01:27:30
+		Location:	52.40432 16.90638
+
+	NU2
+		Images:	1583
+		Time:	13.12.2025 06:10:07 until 14.12.2025 16:41:53
+		Duration:	1.10:31:46
+		Location:	52.40432 16.90638
+
+(5) - Station 2 Sled Push
+	RW2
+		Images:	1423
+		Time:	14.12.2025 14:28:56 until 14.12.2025 16:52:40
+		Duration:	02:23:44
+		Location:	52.40432 16.90638
+
+	VLE2
+		Images:	1797
+		Time:	14.12.2025 14:16:01 until 14.12.2025 16:54:34
+		Duration:	02:38:33
+		Location:	52.40432 16.90638
+
+	JAKO1
+		Images:	3495
+		Time:	14.12.2025 07:11:53 until 14.12.2025 14:09:58
+		Duration:	06:58:05
+		Location:	52.40432 16.90638
+
+	LZA1
+		Images:	4931
+		Time:	14.12.2025 07:11:40 until 14.12.2025 13:52:45
+		Duration:	06:41:05
+		Location:	52.40432 16.90638
+
+	ALES2
+		Images:	2148
+		Time:	14.12.2025 14:16:14 until 14.12.2025 16:54:14
+		Duration:	02:38:00
+		Location:	52.40432 16.90638
+
+(6) - Station 3 Sled Pull
+	NDK2
+		Images:	2330
+		Time:	13.12.2025 06:15:45 until 14.12.2025 16:54:14
+		Duration:	1.10:38:29
+		Location:	52.40432 16.90638
+
+	THO2
+		Images:	1397
+		Time:	14.12.2025 14:13:04 until 14.12.2025 17:02:23
+		Duration:	02:49:19
+		Location:	52.40432 16.90638
+
+	AGA1
+		Images:	10959
+		Time:	13.12.2025 07:32:48 until 14.12.2025 14:07:45
+		Duration:	1.06:34:57
+		Location:	52.40432 16.90638
+
+	CM1
+		Images:	7469
+		Time:	13.12.2025 06:06:26 until 14.12.2025 13:49:55
+		Duration:	1.07:43:29
+		Location:	52.40432 16.90638
+
+	JORH1
+		Images:	2092
+		Time:	13.12.2025 06:02:46 until 14.12.2025 14:10:32
+		Duration:	1.08:07:46
+		Location:	52.40432 16.90638
+
+	MIMA1
+		Images:	8639
+		Time:	13.12.2025 06:12:45 until 14.12.2025 14:12:41
+		Duration:	1.07:59:56
+		Location:	52.40432 16.90638
+
+	MAE2
+		Images:	4240
+		Time:	14.12.2025 14:13:01 until 14.12.2025 16:46:37
+		Duration:	02:33:36
+		Location:	52.40432 16.90638
+
+(7) - Station 5 Farmers Carry
+	LEM1LS1
+		Images:	4963
+		Time:	14.12.2025 06:47:43 until 14.12.2025 17:33:43
+		Duration:	10:46:00
+		Location:	52.40432 16.90638
+
+	MFR1LS1
+		Images:	5396
+		Time:	14.12.2025 07:15:19 until 14.12.2025 17:34:35
+		Duration:	10:19:16
+		Location:	52.40432 16.90638
+
+(8) - Station 5 Rowing
+	AGP1
+		Images:	1768
+		Time:	13.12.2025 06:22:19 until 14.12.2025 15:28:49
+		Duration:	1.09:06:30
+		Location:	52.40432 16.90638
+
+	LEM1
+		Images:	2599
+		Time:	13.12.2025 07:20:33 until 14.12.2025 15:28:03
+		Duration:	1.08:07:30
+		Location:	52.40432 16.90638
+
+	JAKO2
+		Images:	2847
+		Time:	14.12.2025 14:12:56 until 14.12.2025 17:24:55
+		Duration:	03:11:59
+		Location:	52.40432 16.90638
+
+	JORH2
+		Images:	1786
+		Time:	14.12.2025 14:18:49 until 14.12.2025 17:25:01
+		Duration:	03:06:12
+		Location:	52.40432 16.90638
+
+	ADRE1
+		Images:	5379
+		Time:	13.12.2025 06:10:47 until 14.12.2025 14:01:58
+		Duration:	1.07:51:11
+		Location:	52.40432 16.90638
+
+	MAE1
+		Images:	10394
+		Time:	14.12.2025 07:00:06 until 14.12.2025 14:07:54
+		Duration:	07:07:48
+		Location:	52.40432 16.90638
+
+(9) - Station 7 Sandbag Lunges
+	AGP2
+		Images:	791
+		Time:	13.12.2025 06:27:35 until 14.12.2025 16:50:54
+		Duration:	1.10:23:19
+		Location:	52.40432 16.90638
+
+	LEM2
+		Images:	755
+		Time:	14.12.2025 09:36:15 until 14.12.2025 16:12:55
+		Duration:	06:36:40
+		Location:	52.40432 16.90638
+
+	CM2
+		Images:	4586
+		Time:	14.12.2025 13:59:40 until 14.12.2025 17:42:15
+		Duration:	03:42:35
+		Location:	52.40432 16.90638
+
+	MIMA2
+		Images:	6241
+		Time:	14.12.2025 14:18:13 until 14.12.2025 17:47:10
+		Duration:	03:28:57
+		Location:	52.40432 16.90638
+
+	MFR1
+		Images:	3496
+		Time:	14.12.2025 07:19:52 until 14.12.2025 13:59:39
+		Duration:	06:39:47
+		Location:	52.40432 16.90638
+
+	ROH1
+		Images:	3045
+		Time:	13.12.2025 07:21:07 until 14.12.2025 14:17:58
+		Duration:	1.06:56:51
+		Location:	52.40432 16.90638
+
+(10) - Station 8 Wall Balls
+	AGP3
+		Images:	962
+		Time:	14.12.2025 07:10:32 until 14.12.2025 16:56:47
+		Duration:	09:46:15
+		Location:	52.40432 16.90638
+
+	LEM3
+		Images:	1761
+		Time:	13.12.2025 09:09:38 until 14.12.2025 16:54:29
+		Duration:	1.07:44:51
+		Location:	52.40432 16.90638
+
+	LZA2
+		Images:	4370
+		Time:	14.12.2025 14:03:27 until 14.12.2025 17:54:18
+		Duration:	03:50:51
+		Location:	52.40432 16.90638
+
+	ADRE2
+		Images:	1203
+		Time:	14.12.2025 14:07:15 until 14.12.2025 17:53:10
+		Duration:	03:45:55
+		Location:	52.40432 16.90638
+
+	ALES1
+		Images:	5980
+		Time:	13.12.2025 05:54:09 until 14.12.2025 14:03:57
+		Duration:	1.08:09:48
+		Location:	52.40432 16.90638
+
+	NU1
+		Images:	3295
+		Time:	13.12.2025 05:59:28 until 14.12.2025 14:01:33
+		Duration:	1.08:02:05
+		Location:	52.40432 16.90638
+

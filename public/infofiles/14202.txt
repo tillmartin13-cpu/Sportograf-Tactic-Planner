@@ -1,0 +1,105 @@
+EventId: 14202
+Spots: 15
+Total Images: 103144
+Time:	08.06.2025 05:18:18 to 08.06.2025 16:10:42
+Duration: 10:52:24
+
+(1) - Swim - Start
+	GHI1
+		Images:	4613
+		Time:	08.06.2025 05:38:11 until 08.06.2025 07:09:16
+		Duration:	01:31:05
+		Location:	53.48653 -2.53626
+
+	YCAN1
+		Images:	8201
+		Time:	08.06.2025 05:18:18 until 08.06.2025 07:08:19
+		Duration:	01:50:01
+		Location:	53.48653 -2.53626
+
+	CUP1
+		Images:	3678
+		Time:	08.06.2025 05:48:37 until 08.06.2025 08:13:18
+		Duration:	02:24:41
+		Location:	53.48738 -2.53986
+
+	CUP1LS1
+		Images:	1306
+		Time:	08.06.2025 06:15:05 until 08.06.2025 08:11:19
+		Duration:	01:56:14
+		Location:	53.48738 -2.53986
+
+(2) - Bike - Transition zone
+	PHA1
+		Images:	8520
+		Time:	08.06.2025 05:34:21 until 08.06.2025 08:26:25
+		Duration:	02:52:04
+		Location:	53.57805 -2.42983
+
+(3) - Bike - 8,5 km
+	APDA1
+		Images:	3435
+		Time:	08.06.2025 05:46:27 until 08.06.2025 09:19:16
+		Duration:	03:32:49
+		Location:	53.5015 -2.59347
+
+(4) - Bike - 43,8 km
+	KSTH1
+		Images:	5756
+		Time:	08.06.2025 07:31:18 until 08.06.2025 10:34:16
+		Duration:	03:02:58
+		Location:	53.57033 -2.4948
+
+(5) - Bike - 57,0 km
+	JBT1
+		Images:	8377
+		Time:	08.06.2025 06:48:51 until 08.06.2025 12:25:56
+		Duration:	05:37:05
+		Location:	53.59388 -2.49291
+
+(6) - Run - 5,2 km
+	GHI2
+		Images:	12137
+		Time:	08.06.2025 09:32:20 until 08.06.2025 15:12:59
+		Duration:	05:40:39
+		Location:	53.58002 -2.44536
+
+(7) - Run - 27,7 km
+	KSTH2
+		Images:	3069
+		Time:	08.06.2025 11:59:24 until 08.06.2025 13:13:07
+		Duration:	01:13:43
+		Location:	53.57822 -2.4298
+
+(8) - Run - 13,6 km
+	YCAN2
+		Images:	16958
+		Time:	08.06.2025 08:54:40 until 08.06.2025 14:20:42
+		Duration:	05:26:02
+		Location:	53.5795 -2.44047
+
+(9) - Finish
+	CUP2
+		Images:	2128
+		Time:	08.06.2025 10:10:39 until 08.06.2025 15:08:16
+		Duration:	04:57:37
+		Location:	53.57822 -2.4298
+
+	CUP1LS2
+		Images:	1938
+		Time:	08.06.2025 09:14:25 until 08.06.2025 16:10:42
+		Duration:	06:56:17
+		Location:	53.57822 -2.4298
+
+	APDA2
+		Images:	9120
+		Time:	08.06.2025 10:32:46 until 08.06.2025 15:32:24
+		Duration:	04:59:38
+		Location:	53.57822 -2.4298
+
+	PHA3
+		Images:	13908
+		Time:	08.06.2025 09:37:09 until 08.06.2025 15:32:20
+		Duration:	05:55:11
+		Location:	53.57822 -2.4298
+

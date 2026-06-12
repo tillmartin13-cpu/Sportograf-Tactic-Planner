@@ -1,0 +1,184 @@
+EventId: 14880
+Spots: 28
+Total Images: 137335
+Time:	21.02.2025 07:42:01 to 21.02.2025 15:49:15
+Duration: 08:07:14
+
+(1) - 21,1 km before Finish
+	DADA1
+		Images:	7882
+		Time:	21.02.2025 08:47:35 until 21.02.2025 12:40:36
+		Duration:	03:53:01
+		Location:	61.08338 14.27877
+
+(2) - 19,0 km before Finish
+	MAV1
+		Images:	16474
+		Time:	21.02.2025 07:42:01 until 21.02.2025 12:15:26
+		Duration:	04:33:25
+		Location:	61.07493 14.30871
+
+(3) - 18,0 km before Finish
+	RKO1
+		Images:	5491
+		Time:	21.02.2025 08:32:31 until 21.02.2025 12:05:30
+		Duration:	03:32:59
+		Location:	61.07383 14.32650
+
+(4) - 16,3 km before Finish
+	IVAH1
+		Images:	3856
+		Time:	21.02.2025 08:38:08 until 21.02.2025 12:36:17
+		Duration:	03:58:09
+		Location:	61.06506 14.35264
+
+	IVAH1LS1
+		Images:	672
+		Time:	21.02.2025 08:36:42 until 21.02.2025 09:38:31
+		Duration:	01:01:49
+		Location:	61.06506 14.35264
+
+(5) - 15,8 km before Finish
+	JLA1
+		Images:	10041
+		Time:	21.02.2025 07:46:32 until 21.02.2025 12:41:29
+		Duration:	04:54:57
+		Location:	61.06151 14.34749
+
+(6) - 9,0 km before Finish
+	ALN1
+		Images:	7514
+		Time:	21.02.2025 09:11:23 until 21.02.2025 13:52:41
+		Duration:	04:41:18
+		Location:	61.01813 14.40941
+
+	ALN1LS1
+		Images:	3016
+		Time:	21.02.2025 08:46:46 until 21.02.2025 13:54:25
+		Duration:	05:07:39
+		Location:	61.01813 14.40941
+
+	ALN1LS2
+		Images:	2714
+		Time:	21.02.2025 08:56:53 until 21.02.2025 13:54:24
+		Duration:	04:57:31
+		Location:	61.01813 14.40941
+
+(7) - 8,8 km before Finish
+	MW1
+		Images:	4698
+		Time:	21.02.2025 09:06:44 until 21.02.2025 13:53:54
+		Duration:	04:47:10
+		Location:	61.01734 14.41096
+
+	MW1LS1
+		Images:	2630
+		Time:	21.02.2025 08:58:17 until 21.02.2025 13:58:28
+		Duration:	05:00:11
+		Location:	61.01734 14.41096
+
+(8) - 8,1 km before Finish
+	COR1
+		Images:	3659
+		Time:	21.02.2025 09:04:02 until 21.02.2025 14:05:59
+		Duration:	05:01:57
+		Location:	61.01547 14.41929
+
+	COR1LS1
+		Images:	1936
+		Time:	21.02.2025 09:02:23 until 21.02.2025 12:42:30
+		Duration:	03:40:07
+		Location:	61.01547 14.41929
+
+(9) - 4,5 km before Finish
+	RYS1
+		Images:	7576
+		Time:	21.02.2025 07:46:40 until 21.02.2025 14:56:49
+		Duration:	07:10:09
+		Location:	61.00507 14.47526
+
+	RYS1LS1
+		Images:	4844
+		Time:	21.02.2025 08:04:21 until 21.02.2025 13:42:30
+		Duration:	05:38:09
+		Location:	61.00507 14.47526
+
+(10) - 3,9 km before Finish
+	ADRE1
+		Images:	6822
+		Time:	21.02.2025 08:59:47 until 21.02.2025 15:00:19
+		Duration:	06:00:32
+		Location:	61.00361 14.48552
+
+(11) - 2,7 km before Finish
+	MFR1
+		Images:	4686
+		Time:	21.02.2025 09:13:12 until 21.02.2025 15:12:40
+		Duration:	05:59:28
+		Location:	61.00407 14.50463
+
+	MFR1LS1
+		Images:	3692
+		Time:	21.02.2025 08:27:30 until 21.02.2025 14:51:50
+		Duration:	06:24:20
+		Location:	61.00407 14.50463
+
+(12) - 1,7 km before Finish
+	SBRO1
+		Images:	5975
+		Time:	21.02.2025 08:10:38 until 21.02.2025 15:30:24
+		Duration:	07:19:46
+		Location:	61.00697 14.51903
+
+(13) - 1,1 km before Finish
+	ROB1
+		Images:	10794
+		Time:	21.02.2025 09:14:06 until 21.02.2025 15:27:01
+		Duration:	06:12:55
+		Location:	61.00908 14.52677
+
+	ROB1LS1
+		Images:	3771
+		Time:	21.02.2025 08:00:46 until 21.02.2025 15:00:12
+		Duration:	06:59:26
+		Location:	61.00908 14.52677
+
+	ROB1LS2
+		Images:	3665
+		Time:	21.02.2025 08:25:50 until 21.02.2025 14:06:00
+		Duration:	05:40:10
+		Location:	61.00908 14.52677
+
+(14) - Finish
+	IVAH2
+		Images:	293
+		Time:	21.02.2025 13:36:50 until 21.02.2025 14:52:58
+		Duration:	01:16:08
+		Location:	61.00699 14.54266
+
+	TIM1LS1
+		Images:	3006
+		Time:	21.02.2025 08:49:26 until 21.02.2025 15:16:04
+		Duration:	06:26:38
+		Location:	61.00699 14.54266
+
+	MAE1LS1
+		Images:	2892
+		Time:	21.02.2025 09:07:50 until 21.02.2025 14:01:38
+		Duration:	04:53:48
+		Location:	61.00699 14.54266
+
+	MAE1
+		Images:	5264
+		Time:	21.02.2025 09:20:08 until 21.02.2025 15:49:15
+		Duration:	06:29:07
+		Location:	61.00699 14.54266
+
+	TIM1
+		Images:	3472
+		Time:	21.02.2025 07:52:24 until 21.02.2025 13:34:33
+		Duration:	05:42:09
+		Location:	61.00699 14.54266
+
+(15) - Impressions / Pano
+	PANO1

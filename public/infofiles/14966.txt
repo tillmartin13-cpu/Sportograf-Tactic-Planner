@@ -1,0 +1,94 @@
+EventId: 14966
+Spots: 13
+Total Images: 98448
+Time:	01.01.0001 23:00:00 to 06.09.2025 18:36:56
+Duration: 739498.19:36:56
+
+(1) - Obstacle 5 Pallet Jacked
+	AGJ1
+		Images:	6069
+		Time:	06.09.2025 08:14:52 until 06.09.2025 15:14:14
+		Duration:	06:59:22
+		Location:	34.22629 -116.86111
+
+(2) - Obstacle 12 Cry Baby
+	TUD1
+		Images:	8307
+		Time:	06.09.2025 07:39:40 until 06.09.2025 16:03:08
+		Duration:	08:23:28
+		Location:	34.22735 -116.86069
+
+(3) - Obstacle 13 Meat Hooks
+	MCAR1
+		Images:	4356
+		Time:	01.01.0001 23:00:00 until 06.09.2025 18:36:56
+		Duration:	739498.19:36:56
+		Location:	34.22708 -116.86193
+
+	MECA1
+		Images:	6149
+		Time:	06.09.2025 08:09:36 until 06.09.2025 16:11:12
+		Duration:	08:01:36
+		Location:	34.22708 -116.86193
+
+(4) - Impressions / Pano
+	MCAR2
+		Images:	15
+		Time:	06.09.2025 18:36:52 until 06.09.2025 18:36:56
+		Duration:	00:00:04
+		Location:	34.22708 -116.86193
+
+(5) - Obstacle 14 Potato Sack Trap
+	ANGA1
+		Images:	10531
+		Time:	06.09.2025 06:51:02 until 06.09.2025 16:17:05
+		Duration:	09:26:03
+		Location:	34.22612 -116.86053
+
+(6) - Obstacle 15 Meat Grinder
+	DDC1
+		Images:	5862
+		Time:	06.09.2025 09:03:13 until 06.09.2025 15:43:35
+		Duration:	06:40:22
+		Location:	34.22521 -116.85920
+
+	DVAL1
+		Images:	11039
+		Time:	06.09.2025 07:12:45 until 06.09.2025 16:25:05
+		Duration:	09:12:20
+		Location:	34.22521 -116.85920
+
+(7) - Obstacle 16 Animal Style
+	GIP1
+		Images:	8600
+		Time:	06.09.2025 07:52:55 until 06.09.2025 16:28:06
+		Duration:	08:35:11
+		Location:	34.22637 -116.85989
+
+	VMM1
+		Images:	11883
+		Time:	06.09.2025 07:49:28 until 06.09.2025 16:29:17
+		Duration:	08:39:49
+		Location:	34.22637 -116.85989
+
+(8) - Obstacle 19 Mudderhorn
+	ALP1
+		Images:	6205
+		Time:	06.09.2025 09:08:52 until 06.09.2025 16:44:14
+		Duration:	07:35:22
+		Location:	34.22773 -116.86196
+
+(9) - Obstacle 20 Electroshock Therapy
+	MKI1
+		Images:	16626
+		Time:	06.09.2025 07:55:09 until 06.09.2025 16:48:44
+		Duration:	08:53:35
+		Location:	34.22769 -116.86219
+
+(10) - Ceremony
+	AHB1
+		Images:	2806
+		Time:	06.09.2025 07:34:56 until 06.09.2025 15:55:01
+		Duration:	08:20:05
+		Location:	34.22747 -116.86294
+

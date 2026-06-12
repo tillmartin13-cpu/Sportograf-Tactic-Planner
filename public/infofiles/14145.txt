@@ -1,0 +1,138 @@
+EventId: 14145
+Spots: 21
+Total Images: 45605
+Time:	01.03.2025 20:07:34 to 03.03.2025 14:03:53
+Duration: 1.17:56:19
+
+(1) - 34,1 km Haaghoek, km /154 , 71,5/125
+	DRI1
+		Images:	3152
+		Time:	02.03.2025 07:36:40 until 02.03.2025 11:19:45
+		Duration:	03:43:05
+		Location:	50.82257 3.71636
+
+	DRI1DRONE1
+		Images:	16
+		Time:	02.03.2025 08:15:37 until 02.03.2025 13:04:45
+		Duration:	04:49:08
+		Location:	50.82257 3.71636
+
+	DRI1LS2
+		Images:	812
+		Time:	03.03.2025 07:20:16 until 03.03.2025 09:08:46
+		Duration:	01:48:30
+		Location:	50.82257 3.71636
+
+	DRI1LS1
+		Images:	1583
+		Time:	02.03.2025 07:34:46 until 02.03.2025 09:11:19
+		Duration:	01:36:33
+		Location:	50.82257 3.71636
+
+	KJ1
+		Images:	1441
+		Time:	01.03.2025 21:28:36 until 02.03.2025 09:01:38
+		Duration:	11:33:02
+		Location:	50.82257 3.71636
+
+(2) - 75,5 km Boosberg km /154, 113/125, 68,5/80, 48,5
+	DRI2
+		Images:	3616
+		Time:	02.03.2025 11:18:50 until 02.03.2025 14:54:18
+		Duration:	03:35:28
+		Location:	50.76902 3.94115
+
+	DRI2LS2
+		Images:	3974
+		Time:	03.03.2025 11:04:25 until 03.03.2025 14:03:53
+		Duration:	02:59:28
+		Location:	50.76902 3.94115
+
+	DRI2LS1
+		Images:	3331
+		Time:	02.03.2025 10:59:07 until 02.03.2025 13:59:39
+		Duration:	03:00:32
+		Location:	50.76902 3.94115
+
+	KJ2
+		Images:	1878
+		Time:	02.03.2025 10:58:04 until 02.03.2025 14:34:50
+		Duration:	03:36:46
+		Location:	50.76902 3.94115
+
+(3) - 28,0 km Molenberg /154, Km45,7/125
+	JKE1
+		Images:	3967
+		Time:	01.03.2025 20:07:34 until 02.03.2025 10:20:25
+		Duration:	14:12:51
+		Location:	50.85873 3.7004
+
+	JKE1LS2
+		Images:	551
+		Time:	02.03.2025 08:34:48 until 02.03.2025 09:19:24
+		Duration:	00:44:36
+		Location:	50.85873 3.7004
+
+	JKE1LS1
+		Images:	814
+		Time:	01.03.2025 20:12:36 until 02.03.2025 09:16:17
+		Duration:	13:03:41
+		Location:	50.85873 3.7004
+
+	JKE2
+		Images:	4135
+		Time:	02.03.2025 10:24:48 until 02.03.2025 14:13:10
+		Duration:	03:48:22
+		Location:	50.77225 3.8901
+
+	OP1
+		Images:	2551
+		Time:	02.03.2025 07:06:01 until 02.03.2025 10:37:20
+		Duration:	03:31:19
+		Location:	50.85873 3.7004
+
+	OP1LS1
+		Images:	1149
+		Time:	02.03.2025 06:55:12 until 02.03.2025 08:58:52
+		Duration:	02:03:40
+		Location:	50.85873 3.7004
+
+(4) - 71,5 km Muur van Geraardsbergen /154, 109/125, 64,5/80, 44,5/60
+	JKE2LS2
+		Images:	2364
+		Time:	01.03.2025 20:16:04 until 02.03.2025 14:40:56
+		Duration:	18:24:52
+		Location:	50.77225 3.8901
+
+	JKE2LS1
+		Images:	1395
+		Time:	02.03.2025 11:38:05 until 02.03.2025 14:13:43
+		Duration:	02:35:38
+		Location:	50.77225 3.8901
+
+	OP2
+		Images:	4115
+		Time:	02.03.2025 10:37:20 until 02.03.2025 13:59:40
+		Duration:	03:22:20
+		Location:	50.77225 3.8901
+
+	OP2LS1
+		Images:	1880
+		Time:	02.03.2025 10:29:00 until 02.03.2025 14:13:24
+		Duration:	03:44:24
+		Location:	50.77225 3.8901
+
+(5) - 2,5 km after Start
+	STDM1
+		Images:	861
+		Time:	02.03.2025 06:08:54 until 02.03.2025 08:02:47
+		Duration:	01:53:53
+		Location:	50.84576 4.00427
+
+(6) - Finish
+	STDM2
+		Images:	2020
+		Time:	02.03.2025 08:37:42 until 02.03.2025 15:01:54
+		Duration:	06:24:12
+		Location:	51.00057 3.86935
+

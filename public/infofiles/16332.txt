@@ -1,0 +1,124 @@
+EventId: 16332
+Spots: 19
+Total Images: 76614
+Time:	03.08.2025 06:09:06 to 03.08.2025 22:02:48
+Duration: 15:53:42
+
+(1) - Run - 3.7 km
+	S0AIP1HAND1N25014
+		Images:	5469
+		Time:	03.08.2025 12:00:41 until 03.08.2025 21:16:13
+		Duration:	09:15:32
+		Location:	54.85117 9.54907
+
+	S0AIP1LS1N25014
+		Images:	3169
+		Time:	03.08.2025 11:32:27 until 03.08.2025 20:28:54
+		Duration:	08:56:27
+		Location:	54.85117 9.54907
+
+(2) - Bike - 3.5 km
+	S0BK1HAND1N25014
+		Images:	12484
+		Time:	03.08.2025 07:54:35 until 03.08.2025 14:53:11
+		Duration:	06:58:36
+		Location:	54.82065 9.52620
+
+(3) - Swim - Start
+	S0CRI1HAND1N25014
+		Images:	186
+		Time:	03.08.2025 06:29:00 until 03.08.2025 09:45:21
+		Duration:	03:16:21
+		Location:	54.84177 9.53039
+
+(4) - Swim - Transition zone
+	S0HT1HAND1N25014
+		Images:	2234
+		Time:	03.08.2025 07:49:33 until 03.08.2025 10:36:47
+		Duration:	02:47:14
+		Location:	54.84074 9.53188
+
+	S0HT1LS1N25014
+		Images:	702
+		Time:	03.08.2025 09:29:42 until 03.08.2025 10:39:08
+		Duration:	01:09:26
+		Location:	54.84056 9.53187
+
+(5) - Finish
+	S0PANO1HAND1N25014
+	S0LARS3HAND1N25014
+		Images:	6907
+		Time:	03.08.2025 13:03:16 until 03.08.2025 21:53:49
+		Duration:	08:50:33
+		Location:	54.84113 9.53111
+
+	S0LARS3LS1N25014
+		Images:	1577
+		Time:	03.08.2025 11:52:43 until 03.08.2025 19:37:36
+		Duration:	07:44:53
+		Location:	54.84113 9.53111
+
+	S0BK2HAND1N25014
+		Images:	2247
+		Time:	03.08.2025 17:08:08 until 03.08.2025 22:02:48
+		Duration:	04:54:40
+		Location:	54.84113 9.53111
+
+	S0LARS3LS2N25014
+		Images:	1816
+		Time:	03.08.2025 11:13:41 until 03.08.2025 20:06:49
+		Duration:	08:53:08
+		Location:	54.84113 9.53111
+
+(6) - Swim - Out
+	S0LARS2HAND1N25014
+		Images:	2544
+		Time:	03.08.2025 06:28:47 until 03.08.2025 12:08:26
+		Duration:	05:39:39
+		Location:	54.84177 9.53039
+
+	S0CRI2HAND1N25014
+		Images:	3937
+		Time:	03.08.2025 07:45:32 until 03.08.2025 12:02:22
+		Duration:	04:16:50
+		Location:	54.84177 9.53039
+
+	S0LARS2LS1N25014
+		Images:	1398
+		Time:	03.08.2025 06:09:06 until 03.08.2025 11:32:35
+		Duration:	05:23:29
+		Location:	54.84177 9.53039
+
+(7) - Run - 6.0 km
+	S0CRI3HAND1N25014
+		Images:	9188
+		Time:	03.08.2025 12:57:42 until 03.08.2025 18:15:53
+		Duration:	05:18:11
+		Location:	54.83663 9.52331
+
+	S0CRI3LS1N25014
+		Images:	6272
+		Time:	03.08.2025 12:27:34 until 03.08.2025 16:59:33
+		Duration:	04:31:59
+		Location:	54.83663 9.52331
+
+(8) - Bike - 37.0 km
+	S0DWE1HAND1N25014
+		Images:	9551
+		Time:	03.08.2025 08:20:31 until 03.08.2025 15:46:17
+		Duration:	07:25:46
+		Location:	54.83125 9.60070
+
+	S0DWE1LS1N25014
+		Images:	2556
+		Time:	03.08.2025 07:14:10 until 03.08.2025 15:18:50
+		Duration:	08:04:40
+		Location:	54.83125 9.60070
+
+(9) - Bike - 44.0 km
+	S0HT2HAND1N25014
+		Images:	4377
+		Time:	03.08.2025 10:54:56 until 03.08.2025 16:12:38
+		Duration:	05:17:42
+		Location:	54.83982 9.53285
+

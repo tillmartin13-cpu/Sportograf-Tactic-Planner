@@ -1,0 +1,89 @@
+EventId: 16004
+Spots: 12
+Total Images: 89526
+Time:	21.11.2024 14:27:13 to 18.05.2025 16:01:54
+Duration: 178.01:34:41
+
+(1) - Obstacle 9 Sandbag Carry
+	GMAL1
+		Images:	14343
+		Time:	18.05.2025 07:19:05 until 18.05.2025 14:50:24
+		Duration:	07:31:19
+		Location:	41.27663 -81.01646
+
+(2) - Obstacle 15 Bender
+	IZZY1
+		Images:	4226
+		Time:	18.05.2025 07:58:24 until 18.05.2025 13:24:42
+		Duration:	05:26:18
+		Location:	41.27790 -81.01806
+
+(3) - Obstacle 16 Log Carry
+	SICA1
+		Images:	5016
+		Time:	17.05.2025 08:20:56 until 18.05.2025 13:28:55
+		Duration:	1.05:07:59
+		Location:	41.27769 -81.01969
+
+(4) - Obstacle 21 Multi-Rig
+	KAH1
+		Images:	5133
+		Time:	18.05.2025 07:18:24 until 18.05.2025 15:00:41
+		Duration:	07:42:17
+		Location:	41.27388 -81.01785
+
+	ISAK1
+		Images:	6419
+		Time:	17.05.2025 07:16:19 until 18.05.2025 14:58:51
+		Duration:	1.07:42:32
+		Location:	41.27388 -81.01785
+
+(5) - Obstacle 23 Craft A Frame Cargo
+	RYN1
+		Images:	4121
+		Time:	18.05.2025 07:34:55 until 18.05.2025 15:05:16
+		Duration:	07:30:21
+		Location:	41.27385 -81.01554
+
+(6) - Obstacle 0 Drone
+	RYN1DRONE1
+		Images:	8
+		Time:	21.11.2024 14:27:13 until 22.11.2024 13:51:56
+		Duration:	23:24:43
+		Location:	41.26830 -81.02665
+
+(7) - Obstacle 25 Barbed Wire
+	JBB1
+		Images:	19094
+		Time:	17.05.2025 07:12:02 until 18.05.2025 15:30:48
+		Duration:	1.08:18:46
+		Location:	41.26846 -81.02604
+
+(8) - Obstacle 30 Rope Climb
+	DAKK1
+		Images:	13526
+		Time:	16.05.2025 22:03:42 until 18.05.2025 15:38:34
+		Duration:	1.17:34:52
+		Location:	41.26693 -81.02654
+
+(9) - Obstacle 32 Fire Jump
+	ELPA1
+		Images:	13922
+		Time:	18.05.2025 07:31:20 until 18.05.2025 15:48:51
+		Duration:	08:17:31
+		Location:	41.26817 -81.02674
+
+(10) - Obstacle 0 Hero Tent
+	SARC1
+		Images:	3600
+		Time:	18.05.2025 07:00:23 until 18.05.2025 16:01:54
+		Duration:	09:01:31
+		Location:	41.26830 -81.02665
+
+(11) - Impressions / Pano
+	CCZ1
+		Images:	118
+		Time:	17.05.2025 08:21:14 until 18.05.2025 07:50:02
+		Duration:	23:28:48
+		Location:	41.26830 -81.02665
+

@@ -1,0 +1,90 @@
+EventId: 16175
+Spots: 13
+Total Images: 54875
+Time:	13.04.2025 06:53:59 to 13.04.2025 17:35:32
+Duration: 10:41:33
+
+(1) - General
+	JMP1
+		Images:	93
+		Time:	13.04.2025 07:35:18 until 13.04.2025 08:32:38
+		Duration:	00:57:20
+		Location:	39.5884 2.64361
+
+	AMRU2
+		Images:	7698
+		Time:	13.04.2025 08:47:50 until 13.04.2025 16:59:45
+		Duration:	08:11:55
+		Location:	39.5884 2.64361
+
+(2) - 1. Reverse Lunge
+	LGG1
+		Images:	4267
+		Time:	13.04.2025 07:38:07 until 13.04.2025 16:29:47
+		Duration:	08:51:40
+		Location:	39.5884 2.64361
+
+(3) - 2. Air Bike
+	MANR1
+		Images:	12640
+		Time:	13.04.2025 08:34:24 until 13.04.2025 16:35:33
+		Duration:	08:01:09
+		Location:	39.5884 2.64361
+
+(4) - 3. Step Over Box
+	TGM1
+		Images:	3068
+		Time:	13.04.2025 08:35:57 until 13.04.2025 16:57:13
+		Duration:	08:21:16
+		Location:	39.5884 2.64361
+
+(5) - 6. Ski Erg
+	AMRU1
+		Images:	23
+		Time:	13.04.2025 07:36:44 until 13.04.2025 08:34:23
+		Duration:	00:57:39
+		Location:	39.5884 2.64361
+
+(6) - 7. Farmer Carry
+	MANR1LS1
+		Images:	1708
+		Time:	13.04.2025 08:04:36 until 13.04.2025 17:16:14
+		Duration:	09:11:38
+		Location:	39.5884 2.64361
+
+(7) - 8. Row
+	JMP2
+		Images:	8907
+		Time:	13.04.2025 08:54:23 until 13.04.2025 17:20:46
+		Duration:	08:26:23
+		Location:	39.5884 2.64361
+
+(8) - 10. Dumbell Burpess
+	FRSA1
+		Images:	10680
+		Time:	13.04.2025 07:49:00 until 13.04.2025 17:32:32
+		Duration:	09:43:32
+		Location:	39.5884 2.64361
+
+(9) - Finish
+	TGM1LS2
+		Images:	1731
+		Time:	13.04.2025 07:56:48 until 13.04.2025 17:34:14
+		Duration:	09:37:26
+		Location:	39.5884 2.64361
+
+	TGM1LS1
+		Images:	1799
+		Time:	13.04.2025 06:53:59 until 13.04.2025 17:34:32
+		Duration:	10:40:33
+		Location:	39.5884 2.64361
+
+(10) - Photocall
+	ACC1
+		Images:	2261
+		Time:	13.04.2025 07:52:38 until 13.04.2025 17:35:32
+		Duration:	09:42:54
+		Location:	39.5884 2.64361
+
+(11) - Impressions / Pano
+	PANO1

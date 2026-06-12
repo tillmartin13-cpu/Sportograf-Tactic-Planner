@@ -1,0 +1,407 @@
+EventId: 15959
+Spots: 58
+Total Images: 454615
+Time:	01.01.0001 23:00:00 to 27.04.2025 23:43:31
+Duration: 739367.00:43:31
+
+(1) - Impressions / Pano
+	PANO1
+(2) - 0.0 km Start trigger
+	START1
+		Images:	2310
+		Time:	27.04.2025 06:04:59 until 27.04.2025 08:04:36
+		Duration:	01:59:37
+		Location:	NULL NULL
+
+(3) - 0.0 km jay kim 860907 msc 1
+	JKIM1
+		Images:	5145
+		Time:	01.01.0001 23:00:00 until 27.04.2025 08:12:21
+		Duration:	739366.09:12:21
+		Location:	NULL NULL
+
+(4) - 0.0 km Brantley Stephens 860906 msc 1
+	BSTE1
+		Images:	3948
+		Time:	27.04.2025 05:19:42 until 27.04.2025 07:11:51
+		Duration:	01:52:09
+		Location:	NULL NULL
+
+(5) - 0.0 km jennifer bolt 860908 msc 1
+	JBOLT1
+		Images:	4076
+		Time:	27.04.2025 06:35:36 until 27.04.2025 08:10:31
+		Duration:	01:34:55
+		Location:	NULL NULL
+
+(6) - 0.0 km 860909 mark gholston msc 2
+	MGHOL1
+		Images:	18319
+		Time:	27.04.2025 06:29:58 until 27.04.2025 08:33:09
+		Duration:	02:03:11
+		Location:	NULL NULL
+
+(7) - 0.0 km chaney odden 860911 msc 2
+	CODDE1
+		Images:	10847
+		Time:	27.04.2025 06:22:58 until 27.04.2025 08:44:32
+		Duration:	02:21:34
+		Location:	NULL NULL
+
+(8) - 0.0 km natalie ruiz 860910 msc 2
+	NRUIZ1
+		Images:	2714
+		Time:	27.04.2025 17:23:09 until 27.04.2025 19:23:49
+		Duration:	02:00:40
+		Location:	NULL NULL
+
+(9) - 0.0 km mike kelly 860912 msc 3
+	MKELL1
+		Images:	5994
+		Time:	27.04.2025 07:02:00 until 27.04.2025 07:59:50
+		Duration:	00:57:50
+		Location:	NULL NULL
+
+(10) - 0.0 km justin stone msc 3 860913
+	JSTON1
+		Images:	6230
+		Time:	27.04.2025 06:59:24 until 27.04.2025 08:14:32
+		Duration:	01:15:08
+		Location:	NULL NULL
+
+(11) - 0.0 km msc 3 trigger 860914
+	TRC1
+		Images:	4261
+		Time:	27.04.2025 06:54:39 until 27.04.2025 08:14:35
+		Duration:	01:19:56
+		Location:	NULL NULL
+
+(12) - 0.0 km joe fusco 860915 msc 4
+	JFUSC1
+		Images:	12506
+		Time:	27.04.2025 07:08:15 until 27.04.2025 08:46:31
+		Duration:	01:38:16
+		Location:	NULL NULL
+
+(13) - 0.0 km cindy fusco 860916 msc 4
+	CFUSC1
+		Images:	7297
+		Time:	27.04.2025 06:32:57 until 27.04.2025 08:46:28
+		Duration:	02:13:31
+		Location:	NULL NULL
+
+(14) - 0.0 km msc 4 trigger 1
+	TRDA1
+		Images:	6082
+		Time:	27.04.2025 06:34:56 until 27.04.2025 08:49:18
+		Duration:	02:14:22
+		Location:	NULL NULL
+
+(15) - 0.0 km msc 4 trigger 2
+	TRDB1
+		Images:	6791
+		Time:	27.04.2025 06:03:39 until 27.04.2025 08:58:49
+		Duration:	02:55:10
+		Location:	NULL NULL
+
+(16) - 0.0 km msc 5 craig ramsey 860918
+	CRAM1
+		Images:	4363
+		Time:	27.04.2025 07:40:40 until 27.04.2025 08:57:32
+		Duration:	01:16:52
+		Location:	NULL NULL
+
+(17) - 0.0 km jake reeves msc 5 860919
+	JREEV1
+		Images:	3248
+		Time:	27.04.2025 06:21:51 until 27.04.2025 08:58:10
+		Duration:	02:36:19
+		Location:	NULL NULL
+
+(18) - 0.0 km msc 5 trigger 860920
+	TRE1
+		Images:	4815
+		Time:	27.04.2025 07:37:37 until 27.04.2025 08:57:51
+		Duration:	01:20:14
+		Location:	NULL NULL
+
+(19) - 0.0 km christopher peters msc 6 860921
+	CPETE1
+		Images:	5804
+		Time:	27.04.2025 07:56:50 until 27.04.2025 11:09:32
+		Duration:	03:12:42
+		Location:	NULL NULL
+
+(20) - 0.0 km kara dry 860922 msc7
+	KDRY1
+		Images:	12165
+		Time:	27.04.2025 07:20:32 until 27.04.2025 12:24:42
+		Duration:	05:04:10
+		Location:	NULL NULL
+
+(21) - 0.0 km jason tuner msc 7 860923
+	JTURN1
+		Images:	12393
+		Time:	27.04.2025 05:42:15 until 27.04.2025 11:59:38
+		Duration:	06:17:23
+		Location:	NULL NULL
+
+(22) - 0.0 km mike kelly msc 7 860924
+	KELLM1
+		Images:	6788
+		Time:	27.04.2025 07:59:51 until 27.04.2025 12:32:04
+		Duration:	04:32:13
+		Location:	NULL NULL
+
+(23) - 0.0 km justin stone 860925 msc 7
+	STONE1
+		Images:	5533
+		Time:	27.04.2025 08:50:43 until 27.04.2025 12:35:43
+		Duration:	03:45:00
+		Location:	NULL NULL
+
+(24) - 0.0 km trigger msc 7 860924
+	TRG1
+		Images:	11095
+		Time:	27.04.2025 08:50:01 until 27.04.2025 11:57:46
+		Duration:	03:07:45
+		Location:	NULL NULL
+
+(25) - 0.0 km jhad villena 860926 msc 8
+	JHAD1
+		Images:	19705
+		Time:	27.04.2025 06:44:35 until 27.04.2025 13:16:28
+		Duration:	06:31:53
+		Location:	NULL NULL
+
+(26) - 0.0 km roman brown 860927 msc 8
+	ROMAN1
+		Images:	18721
+		Time:	27.04.2025 06:43:11 until 27.04.2025 13:18:07
+		Duration:	06:34:56
+		Location:	NULL NULL
+
+(27) - 0.0 km joe fusco msc 8 860928
+	JOE1
+		Images:	8464
+		Time:	27.04.2025 09:42:55 until 27.04.2025 13:16:12
+		Duration:	03:33:17
+		Location:	NULL NULL
+
+(28) - 0.0 km cindy fusco 860929 msc 8
+	CINDY1
+		Images:	4972
+		Time:	27.04.2025 09:43:50 until 27.04.2025 12:23:34
+		Duration:	02:39:44
+		Location:	NULL NULL
+
+(29) - 0.0 km tirgger msc 8 865633
+	TRH1
+		Images:	13151
+		Time:	27.04.2025 06:39:13 until 27.04.2025 13:16:47
+		Duration:	06:37:34
+		Location:	NULL NULL
+
+(30) - 0.0 km tom mendenhall msc 9 860946
+	TOMM1
+		Images:	13711
+		Time:	27.04.2025 08:33:04 until 27.04.2025 14:33:37
+		Duration:	06:00:33
+		Location:	NULL NULL
+
+(31) - 0.0 km 860947 msc 9 natalie
+	NAT1
+		Images:	3345
+		Time:	27.04.2025 20:19:53 until 27.04.2025 23:43:31
+		Duration:	03:23:38
+		Location:	NULL NULL
+
+(32) - 0.0 km craig ramsey 860948 msc 9
+	CRAIG1
+		Images:	5960
+		Time:	27.04.2025 09:53:05 until 27.04.2025 13:19:11
+		Duration:	03:26:06
+		Location:	NULL NULL
+
+(33) - 0.0 km msc 9 trigger 860634
+	TRI1
+		Images:	16482
+		Time:	27.04.2025 08:29:20 until 27.04.2025 13:29:09
+		Duration:	04:59:49
+		Location:	NULL NULL
+
+(34) - 0.0 km tom start pr 860945
+	TOMST1
+		Images:	2219
+		Time:	27.04.2025 06:12:51 until 27.04.2025 07:58:40
+		Duration:	01:45:49
+		Location:	NULL NULL
+
+(35) - 0.0 km jake reeves 860949 msc 9
+	JAKE1
+		Images:	4038
+		Time:	27.04.2025 09:50:26 until 27.04.2025 13:18:42
+		Duration:	03:28:16
+		Location:	NULL NULL
+
+(36) - 0.0 km jeff ring pre fin 860930
+	JRING1
+		Images:	14131
+		Time:	27.04.2025 06:41:19 until 27.04.2025 13:56:12
+		Duration:	07:14:53
+		Location:	NULL NULL
+
+(37) - 0.0 km brantley stephens 860931 pre fin
+	BRANT1
+		Images:	9426
+		Time:	27.04.2025 07:42:16 until 27.04.2025 12:55:03
+		Duration:	05:12:47
+		Location:	NULL NULL
+
+(38) - 0.0 km mark goldston pre fin 860932
+	MARKG1
+		Images:	8229
+		Time:	27.04.2025 09:32:22 until 27.04.2025 12:38:59
+		Duration:	03:06:37
+		Location:	NULL NULL
+
+(39) - 0.0 km jay kim pre fin 860933
+	JAYK1
+		Images:	9455
+		Time:	27.04.2025 08:42:12 until 27.04.2025 13:34:43
+		Duration:	04:52:31
+		Location:	NULL NULL
+
+(40) - 0.0 km jennifer bolt pre fin 860934
+	JENNB1
+		Images:	5525
+		Time:	27.04.2025 08:42:34 until 27.04.2025 11:05:22
+		Duration:	02:22:48
+		Location:	NULL NULL
+
+(41) - 0.0 km chaney odden pre fin 860935
+	CHANO1
+		Images:	13742
+		Time:	27.04.2025 09:31:23 until 27.04.2025 13:29:53
+		Duration:	03:58:30
+		Location:	NULL NULL
+
+(42) - 0.0 km pre fin trigger left 860904
+	PFTL1
+		Images:	19156
+		Time:	27.04.2025 06:21:53 until 27.04.2025 13:09:43
+		Duration:	06:47:50
+		Location:	NULL NULL
+
+(43) - 0.0 km pre fin trigger right 860905
+	PFTR1
+		Images:	13745
+		Time:	27.04.2025 05:56:05 until 27.04.2025 10:39:43
+		Duration:	04:43:38
+		Location:	NULL NULL
+
+(44) - 0.0 km gus finish 860902
+	GUS1
+		Images:	14378
+		Time:	27.04.2025 08:34:34 until 27.04.2025 13:05:39
+		Duration:	04:31:05
+		Location:	NULL NULL
+
+(45) - 0.0 km lucas finish 860903
+	LUCAS1
+		Images:	20606
+		Time:	27.04.2025 06:03:35 until 27.04.2025 13:01:57
+		Duration:	06:58:22
+		Location:	NULL NULL
+
+(46) - 0.0 km Gus finish pr
+	FINPR1
+		Images:	55
+		Time:	27.04.2025 07:24:44 until 27.04.2025 08:32:21
+		Duration:	01:07:37
+		Location:	NULL NULL
+
+(47) - 0.0 km finis trigger right 860904
+	FTRL1
+		Images:	12358
+		Time:	27.04.2025 07:41:02 until 27.04.2025 11:40:28
+		Duration:	03:59:26
+		Location:	NULL NULL
+
+(48) - 0.0 km tony romo 860941 medals
+	TONY1
+		Images:	2578
+		Time:	27.04.2025 08:17:48 until 27.04.2025 13:49:15
+		Duration:	05:31:27
+		Location:	NULL NULL
+
+(49) - 0.0 km ashely murphy 860939 medals
+	ASH1
+		Images:	622
+		Time:	27.04.2025 09:59:01 until 27.04.2025 13:39:53
+		Duration:	03:40:52
+		Location:	NULL NULL
+
+(50) - 0.0 km peggy banners 860936
+	PEG1
+		Images:	1426
+		Time:	27.04.2025 07:14:12 until 27.04.2025 12:42:20
+		Duration:	05:28:08
+		Location:	NULL NULL
+
+(51) - 0.0 km lucas tolbert medals
+	LTOL1
+		Images:	465
+		Time:	26.04.2025 07:18:38 until 26.04.2025 11:40:14
+		Duration:	04:21:36
+		Location:	NULL NULL
+
+(52) - 0.0 km logan ladlee 860938 medals
+	LOGAN1
+		Images:	2673
+		Time:	26.04.2025 07:06:02 until 26.04.2025 11:40:29
+		Duration:	04:34:27
+		Location:	NULL NULL
+
+(53) - 0.0 km meagan stacy 860942 banners
+	MEAGA1
+		Images:	1926
+		Time:	27.04.2025 07:01:30 until 27.04.2025 13:06:25
+		Duration:	06:04:55
+		Location:	NULL NULL
+
+(54) - 0.0 km robert reiss banners 860943
+	REISS1
+		Images:	927
+		Time:	27.04.2025 07:07:59 until 27.04.2025 13:18:17
+		Duration:	06:10:18
+		Location:	NULL NULL
+
+(55) - 0.0 km conor medals
+	CGAY1
+		Images:	1028
+		Time:	27.04.2025 07:21:19 until 27.04.2025 10:03:04
+		Duration:	02:41:45
+		Location:	NULL NULL
+
+(56) - 0.0 km maria meim 860940 banners
+	MEIM1
+		Images:	781
+		Time:	27.04.2025 06:39:14 until 27.04.2025 12:14:00
+		Duration:	05:34:46
+		Location:	NULL NULL
+
+(57) - 0.0 km finish trigger left 860905
+	FLEFT1
+		Images:	16179
+		Time:	27.04.2025 06:01:28 until 27.04.2025 13:56:37
+		Duration:	07:55:09
+		Location:	NULL NULL
+
+(58) - 0.0 km finish up shot
+	FUP1
+		Images:	11712
+		Time:	27.04.2025 08:15:03 until 27.04.2025 11:51:51
+		Duration:	03:36:48
+		Location:	NULL NULL
+

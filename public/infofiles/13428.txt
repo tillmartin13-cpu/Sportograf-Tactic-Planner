@@ -1,0 +1,150 @@
+EventId: 13428
+Spots: 23
+Total Images: 52210
+Time:	25.10.2025 07:40:41 to 25.10.2025 20:21:32
+Duration: 12:40:51
+
+(1) - 8,0 km
+	LV1
+		Images:	4367
+		Time:	25.10.2025 08:37:40 until 25.10.2025 11:13:26
+		Duration:	02:35:46
+		Location:	50.76859 5.78950
+
+(2) - 9,0 km
+	MK1
+		Images:	2554
+		Time:	25.10.2025 08:38:57 until 25.10.2025 12:29:34
+		Duration:	03:50:37
+		Location:	50.76406 5.78568
+
+	MK1DRONE1
+		Images:	27
+		Time:	25.10.2025 10:28:48 until 25.10.2025 16:59:38
+		Duration:	06:30:50
+		Location:	50.76406 5.78568
+
+(3) - 25,0 km
+	MAW1
+		Images:	1119
+		Time:	25.10.2025 08:12:08 until 25.10.2025 09:54:04
+		Duration:	01:41:56
+		Location:	50.75856 5.88118
+
+	MAW1LS1
+		Images:	520
+		Time:	25.10.2025 07:40:41 until 25.10.2025 10:03:45
+		Duration:	02:23:04
+		Location:	50.75856 5.88118
+
+	MAW1LS2
+		Images:	512
+		Time:	25.10.2025 07:50:23 until 25.10.2025 10:00:12
+		Duration:	02:09:49
+		Location:	50.75856 5.88118
+
+(4) - 29,5 km
+	SIL1
+		Images:	1730
+		Time:	25.10.2025 08:20:33 until 25.10.2025 10:55:50
+		Duration:	02:35:17
+		Location:	50.76474 5.91328
+
+(5) - 30,2 km
+	HM1
+		Images:	2208
+		Time:	25.10.2025 08:38:05 until 25.10.2025 10:59:39
+		Duration:	02:21:34
+		Location:	50.76968 5.92019
+
+	HM1DRONE1
+		Images:	19
+		Time:	25.10.2025 09:52:55 until 25.10.2025 19:43:49
+		Duration:	09:50:54
+		Location:	50.76968 5.92019
+
+	HM1LS1
+		Images:	651
+		Time:	25.10.2025 08:15:01 until 25.10.2025 11:06:28
+		Duration:	02:51:27
+		Location:	50.76968 5.92019
+
+	HM1LS2
+		Images:	620
+		Time:	25.10.2025 08:19:00 until 25.10.2025 11:05:49
+		Duration:	02:46:49
+		Location:	50.76968 5.92019
+
+(6) - 31,0 km 57,0km, 73,0km
+	MAW2
+		Images:	3828
+		Time:	25.10.2025 11:16:51 until 25.10.2025 14:31:55
+		Duration:	03:15:04
+		Location:	50.75083 5.90378
+
+	MAW2LS1
+		Images:	1831
+		Time:	25.10.2025 10:58:53 until 25.10.2025 14:38:27
+		Duration:	03:39:34
+		Location:	50.75083 5.90378
+
+	MAW2LS2
+		Images:	420
+		Time:	25.10.2025 10:27:27 until 25.10.2025 14:41:28
+		Duration:	04:14:01
+		Location:	50.75083 5.90378
+
+(7) - 5,0 km before finish
+	MK2
+		Images:	8402
+		Time:	25.10.2025 12:42:03 until 25.10.2025 19:27:41
+		Duration:	06:45:38
+		Location:	50.74310 5.80238
+
+(8) - 4,5 km before finish
+	LV2
+		Images:	8506
+		Time:	25.10.2025 12:05:09 until 25.10.2025 19:29:45
+		Duration:	07:24:36
+		Location:	50.74319 5.80130
+
+(9) - 2,5 km before finish
+	HM2
+		Images:	3633
+		Time:	25.10.2025 12:46:52 until 25.10.2025 18:52:23
+		Duration:	06:05:31
+		Location:	50.75137 5.77073
+
+	HM2LS2
+		Images:	1765
+		Time:	25.10.2025 12:15:59 until 25.10.2025 18:25:18
+		Duration:	06:09:19
+		Location:	50.75137 5.77073
+
+	HM2LS1
+		Images:	2722
+		Time:	25.10.2025 12:01:39 until 25.10.2025 19:51:08
+		Duration:	07:49:29
+		Location:	50.75137 5.77073
+
+(10) - Finish
+	SIL2
+		Images:	5480
+		Time:	25.10.2025 12:29:37 until 25.10.2025 20:21:32
+		Duration:	07:51:55
+		Location:	50.75195 5.75383
+
+	MAW3
+		Images:	853
+		Time:	25.10.2025 15:15:44 until 25.10.2025 19:52:25
+		Duration:	04:36:41
+		Location:	50.75195 5.75383
+
+	MAW3LS1
+		Images:	443
+		Time:	25.10.2025 17:42:16 until 25.10.2025 20:04:58
+		Duration:	02:22:42
+		Location:	50.75195 5.75383
+
+(11) - Impressions / Pano
+	PANO1

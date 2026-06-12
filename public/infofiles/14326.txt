@@ -1,0 +1,100 @@
+EventId: 14326
+Spots: 15
+Total Images: 13553
+Time:	10.10.2025 08:13:38 to 11.10.2025 18:39:37
+Duration: 1.10:25:59
+
+(1) - Start
+	LULE1
+		Images:	2350
+		Time:	10.10.2025 09:15:27 until 10.10.2025 17:09:42
+		Duration:	07:54:15
+		Location:	43.17230 16.44214
+
+	LULE1LS1
+		Images:	1927
+		Time:	10.10.2025 08:53:08 until 10.10.2025 15:37:29
+		Duration:	06:44:21
+		Location:	43.17230 16.44214
+
+(2) - 100M
+	LULE1LS2
+		Images:	855
+		Time:	10.10.2025 08:32:12 until 10.10.2025 14:03:52
+		Duration:	05:31:40
+		Location:	43.17230 16.44214
+
+	LULE2LS1
+		Images:	528
+		Time:	10.10.2025 15:37:29 until 10.10.2025 16:48:05
+		Duration:	01:10:36
+		Location:	43.17230 16.44214
+
+	LULE2LS2
+		Images:	581
+		Time:	10.10.2025 14:14:32 until 10.10.2025 16:07:53
+		Duration:	01:53:21
+		Location:	43.17230 16.44214
+
+	DARU1
+		Images:	594
+		Time:	10.10.2025 08:21:00 until 10.10.2025 15:38:19
+		Duration:	07:17:19
+		Location:	43.17230 16.44214
+
+	DARU1LS1
+		Images:	584
+		Time:	10.10.2025 09:10:20 until 10.10.2025 15:38:35
+		Duration:	06:28:15
+		Location:	43.17230 16.44214
+
+	DARU1LS2
+		Images:	489
+		Time:	10.10.2025 09:35:18 until 10.10.2025 14:50:40
+		Duration:	05:15:22
+		Location:	43.17230 16.44214
+
+	DARU1DRONE1
+		Images:	21
+		Time:	10.10.2025 15:46:59 until 10.10.2025 16:11:39
+		Duration:	00:24:40
+		Location:	43.17230 16.44219
+
+	GIBE1
+		Images:	1757
+		Time:	10.10.2025 08:20:35 until 10.10.2025 16:08:57
+		Duration:	07:48:22
+		Location:	43.17230 16.44214
+
+(3) - Finish
+	SALI1
+		Images:	2367
+		Time:	10.10.2025 08:13:38 until 10.10.2025 16:09:19
+		Duration:	07:55:41
+		Location:	43.17230 16.44214
+
+(4) - 100M SATURDAY FINAL
+	LULE3LS1
+		Images:	534
+		Time:	11.10.2025 16:21:59 until 11.10.2025 17:52:29
+		Duration:	01:30:30
+		Location:	43.17230 16.44214
+
+	GIBE2
+		Images:	118
+		Time:	11.10.2025 13:13:11 until 11.10.2025 13:53:01
+		Duration:	00:39:50
+		Location:	43.17230 16.44214
+
+	LULE3
+		Images:	539
+		Time:	11.10.2025 16:21:59 until 11.10.2025 18:39:37
+		Duration:	02:17:38
+		Location:	43.17230 16.44214
+
+	GIBE3
+		Images:	309
+		Time:	11.10.2025 16:45:07 until 11.10.2025 17:46:17
+		Duration:	01:01:10
+		Location:	43.17230 16.44214
+

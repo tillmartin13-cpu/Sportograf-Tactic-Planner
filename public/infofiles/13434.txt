@@ -1,0 +1,196 @@
+EventId: 13434
+Spots: 30
+Total Images: 85081
+Time:	12.10.2025 07:38:35 to 12.10.2025 14:31:13
+Duration: 06:52:38
+
+(1) - Start
+	BS1
+		Images:	405
+		Time:	12.10.2025 08:23:23 until 12.10.2025 11:25:08
+		Duration:	03:01:45
+		Location:	51.31502 12.40802
+
+	STM1
+		Images:	741
+		Time:	12.10.2025 08:12:09 until 12.10.2025 11:03:29
+		Duration:	02:51:20
+		Location:	51.31502 12.40802
+
+(2) - 0.3 km
+	ALRI1
+		Images:	291
+		Time:	12.10.2025 07:38:35 until 12.10.2025 10:30:18
+		Duration:	02:51:43
+		Location:	51.31355 12.40553
+
+(3) - 1.0 km
+	ROH1
+		Images:	968
+		Time:	12.10.2025 08:58:44 until 12.10.2025 09:14:09
+		Duration:	00:15:25
+		Location:	51.30799 12.39922
+
+	ROH1LS2
+		Images:	282
+		Time:	12.10.2025 09:01:58 until 12.10.2025 10:37:20
+		Duration:	01:35:22
+		Location:	51.30799 12.39922
+
+	ROH1LS1
+		Images:	294
+		Time:	12.10.2025 08:26:50 until 12.10.2025 09:11:47
+		Duration:	00:44:57
+		Location:	51.30799 12.39922
+
+	TIM1
+		Images:	632
+		Time:	12.10.2025 09:03:13 until 12.10.2025 09:10:43
+		Duration:	00:07:30
+		Location:	51.30799 12.39922
+
+(4) - Impressions / Pano
+	ROH1DRONE1
+		Images:	14
+		Time:	12.10.2025 11:06:12 until 12.10.2025 11:14:54
+		Duration:	00:08:42
+		Location:	51.30799 12.39922
+
+	PANO1
+(5) - 2.0 km
+	RW1
+		Images:	3252
+		Time:	12.10.2025 09:05:46 until 12.10.2025 11:19:13
+		Duration:	02:13:27
+		Location:	51.30348 12.40374
+
+	RW1LS2
+		Images:	1208
+		Time:	12.10.2025 08:34:07 until 12.10.2025 11:19:19
+		Duration:	02:45:12
+		Location:	51.30348 12.40374
+
+	RW1LS1
+		Images:	731
+		Time:	12.10.2025 11:06:03 until 12.10.2025 11:19:59
+		Duration:	00:13:56
+		Location:	51.30348 12.40374
+
+(6) - 3.5 km
+	TIH1
+		Images:	3523
+		Time:	12.10.2025 09:32:00 until 12.10.2025 11:59:50
+		Duration:	02:27:50
+		Location:	51.29513 12.40790
+
+(7) - 4.0 km
+	HKU1
+		Images:	2282
+		Time:	12.10.2025 09:15:04 until 12.10.2025 10:20:09
+		Duration:	01:05:05
+		Location:	51.29385 12.41381
+
+(8) - 4.9 km
+	HKU2
+		Images:	5994
+		Time:	12.10.2025 11:03:46 until 12.10.2025 13:04:51
+		Duration:	02:01:05
+		Location:	51.29452 12.42751
+
+(9) - 8.9 km
+	TIM2
+		Images:	2754
+		Time:	12.10.2025 11:28:07 until 12.10.2025 12:46:30
+		Duration:	01:18:23
+		Location:	51.2694 12.41679
+
+(10) - 9.5 km
+	ROH2
+		Images:	4154
+		Time:	12.10.2025 11:20:17 until 12.10.2025 12:35:48
+		Duration:	01:15:31
+		Location:	51.26464 12.42324
+
+	ROH2LS2
+		Images:	1768
+		Time:	12.10.2025 10:49:00 until 12.10.2025 12:19:57
+		Duration:	01:30:57
+		Location:	51.26464 12.42324
+
+	ROH2LS1
+		Images:	1817
+		Time:	12.10.2025 10:41:46 until 12.10.2025 12:36:36
+		Duration:	01:54:50
+		Location:	51.26464 12.42324
+
+(11) - 12.2 km
+	ALRI2
+		Images:	3377
+		Time:	12.10.2025 10:31:11 until 12.10.2025 13:02:31
+		Duration:	02:31:20
+		Location:	51.26514 12.44718
+
+(12) - 16.6 km
+	HKU3
+		Images:	3209
+		Time:	12.10.2025 11:53:30 until 12.10.2025 13:42:44
+		Duration:	01:49:14
+		Location:	51.29452 12.42751
+
+(13) - 18.3 km  / 6.5 km
+	TIH2
+		Images:	7148
+		Time:	12.10.2025 12:02:52 until 12.10.2025 13:58:00
+		Duration:	01:55:08
+		Location:	51.29513 12.40790
+
+	TIH2LS1
+		Images:	1992
+		Time:	12.10.2025 08:12:34 until 12.10.2025 13:47:51
+		Duration:	05:35:17
+		Location:	51.29513 12.40790
+
+(14) - 19.2 km / 8.0 km
+	RW2
+		Images:	10525
+		Time:	12.10.2025 09:30:24 until 12.10.2025 14:13:08
+		Duration:	04:42:44
+		Location:	51.30348 12.40374
+
+	RW2LS1
+		Images:	2619
+		Time:	12.10.2025 09:28:59 until 12.10.2025 14:13:22
+		Duration:	04:44:23
+		Location:	51.30348 12.40374
+
+	RW2LS2
+		Images:	2588
+		Time:	12.10.2025 09:28:25 until 12.10.2025 14:13:22
+		Duration:	04:44:57
+		Location:	51.30348 12.40374
+
+(15) - Finish
+	BS2
+		Images:	7240
+		Time:	12.10.2025 09:15:02 until 12.10.2025 14:31:10
+		Duration:	05:16:08
+		Location:	51.31502 12.40802
+
+	BS2LS1
+		Images:	2819
+		Time:	12.10.2025 08:03:02 until 12.10.2025 13:53:42
+		Duration:	05:50:40
+		Location:	51.31502 12.40802
+
+	STM2
+		Images:	9139
+		Time:	12.10.2025 09:30:22 until 12.10.2025 14:31:13
+		Duration:	05:00:51
+		Location:	51.31502 12.40802
+
+	STM2LS1
+		Images:	3315
+		Time:	12.10.2025 09:31:05 until 12.10.2025 14:06:10
+		Duration:	04:35:05
+		Location:	51.31502 12.40802
+

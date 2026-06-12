@@ -1,0 +1,160 @@
+EventId: 13922
+Spots: 25
+Total Images: 54661
+Time:	03.08.2025 06:55:49 to 03.08.2025 16:15:48
+Duration: 09:19:59
+
+(1) - 2,51km (100km); 2,63km (65km); 2,63km (25km)
+	S0MK1HAND1N23016
+		Images:	7350
+		Time:	03.08.2025 07:53:53 until 03.08.2025 09:47:35
+		Duration:	01:53:42
+		Location:	51.07606 4.24727
+
+	S0MK1LS2N23016
+		Images:	1361
+		Time:	03.08.2025 07:05:19 until 03.08.2025 09:51:56
+		Duration:	02:46:37
+		Location:	51.07606 4.24727
+
+	S0MK1LS3N23016
+		Images:	1157
+		Time:	03.08.2025 07:43:41 until 03.08.2025 09:48:52
+		Duration:	02:05:11
+		Location:	51.07606 4.24727
+
+(2) - 6km (100km); 6,12km (65km); 6,12km (25km)
+	S0JKE1HAND1N23016
+		Images:	1299
+		Time:	03.08.2025 07:16:06 until 03.08.2025 08:54:09
+		Duration:	01:38:03
+		Location:	51.05688 4.22985
+
+	S0JKE1LS1N23016
+		Images:	264
+		Time:	03.08.2025 07:06:05 until 03.08.2025 08:59:07
+		Duration:	01:53:02
+		Location:	51.05688 4.22985
+
+	S0JKE1LS2N23016
+		Images:	209
+		Time:	03.08.2025 07:02:58 until 03.08.2025 08:33:13
+		Duration:	01:30:15
+		Location:	51.05688 4.22985
+
+(3) - 8,6km (100km); 8,72km (65km); 8,72km (25km)
+	S0NWO1HAND1N23016
+		Images:	772
+		Time:	03.08.2025 07:28:30 until 03.08.2025 09:06:20
+		Duration:	01:37:50
+		Location:	51.03865 4.21290
+
+	S0NWO1LS1N23016
+		Images:	392
+		Time:	03.08.2025 07:04:29 until 03.08.2025 09:07:55
+		Duration:	02:03:26
+		Location:	51.03865 4.21290
+
+	S0NWO1LS2N23016
+		Images:	412
+		Time:	03.08.2025 06:55:49 until 03.08.2025 09:54:14
+		Duration:	02:58:25
+		Location:	51.03865 4.21290
+
+(4) - 85,83km (100km); 53,17km (65km)
+	S0LV2HAND1N23016
+		Images:	5441
+		Time:	03.08.2025 10:04:52 until 03.08.2025 16:06:51
+		Duration:	06:01:59
+		Location:	51.02860 4.26704
+
+	S0LV2LS1N23016
+		Images:	973
+		Time:	03.08.2025 09:50:27 until 03.08.2025 15:34:38
+		Duration:	05:44:11
+		Location:	51.02860 4.26704
+
+	S0LV2LS2N23016
+		Images:	1654
+		Time:	03.08.2025 10:15:22 until 03.08.2025 15:30:14
+		Duration:	05:14:52
+		Location:	51.02860 4.26704
+
+(5) - 87,67km (100km); 55,03km (65km); 16,35km (25km)
+	S0NWO2HAND1N23016
+		Images:	3471
+		Time:	03.08.2025 10:17:44 until 03.08.2025 15:25:12
+		Duration:	05:07:28
+		Location:	51.03980 4.27288
+
+	S0NWO2LS1N23016
+		Images:	2222
+		Time:	03.08.2025 10:11:27 until 03.08.2025 15:44:10
+		Duration:	05:32:43
+		Location:	51.03980 4.27288
+
+	S0NWO2LS2N23016
+		Images:	2225
+		Time:	03.08.2025 10:01:15 until 03.08.2025 15:35:25
+		Duration:	05:34:10
+		Location:	51.03980 4.27288
+
+(6) - 89,35km (100km); 56,71km (65km); 18,01km (25km)
+	S0JKE2HAND1N23016
+		Images:	5084
+		Time:	03.08.2025 09:53:44 until 03.08.2025 15:50:20
+		Duration:	05:56:36
+		Location:	51.04418 4.28516
+
+	S0JKE2LS1N23016
+		Images:	2494
+		Time:	03.08.2025 10:08:06 until 03.08.2025 15:34:11
+		Duration:	05:26:05
+		Location:	51.04418 4.28516
+
+	S0JKE2LS2N23016
+		Images:	967
+		Time:	03.08.2025 10:05:16 until 03.08.2025 15:33:08
+		Duration:	05:27:52
+		Location:	51.04418 4.28516
+
+	S0JKE1DRONE1N23016
+		Images:	60
+		Time:	03.08.2025 07:12:48 until 03.08.2025 15:07:48
+		Duration:	07:55:00
+		Location:	51.04418 4.28516
+
+(7) - 96,12km (100km); 63,37km (65km); 24,68km (25km)
+	S0MK2HAND1N23016
+		Images:	11126
+		Time:	03.08.2025 09:46:26 until 03.08.2025 16:15:48
+		Duration:	06:29:22
+		Location:	51.08224 4.23740
+
+	S0MK2LS1N23016
+		Images:	1981
+		Time:	03.08.2025 10:31:08 until 03.08.2025 15:07:59
+		Duration:	04:36:51
+		Location:	51.08224 4.23740
+
+	S0MK2LS3N23016
+		Images:	2087
+		Time:	03.08.2025 11:02:09 until 03.08.2025 15:33:26
+		Duration:	04:31:17
+		Location:	51.08224 4.23740
+
+(8) - 9km (100km); 9,12km (65km); 9,12km (25km)
+	S0LV1LS1N23016
+		Images:	366
+		Time:	03.08.2025 07:02:09 until 03.08.2025 09:16:16
+		Duration:	02:14:07
+		Location:	51.03463 4.21234
+
+	S0LV1HAND1N23016
+		Images:	1294
+		Time:	03.08.2025 07:22:29 until 03.08.2025 09:33:15
+		Duration:	02:10:46
+		Location:	51.03463 4.21234
+
+(9) - Impressions / Pano
+	S0PANO1HAND1N23016

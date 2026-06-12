@@ -1,0 +1,158 @@
+EventId: 14533
+Spots: 24
+Total Images: 27240
+Time:	31.05.2024 14:41:45 to 31.05.2026 18:32:26
+Duration: 730.03:50:41
+
+(1) - Swim start - Sprint
+	GUD1
+		Images:	37
+		Time:	31.05.2025 10:44:21 until 01.06.2025 10:27:08
+		Duration:	23:42:47
+		Location:	51.75779 12.45040
+
+(2) - Swim exit - Sprint
+	GUD2
+		Images:	1240
+		Time:	31.05.2025 11:10:32 until 31.05.2025 11:29:26
+		Duration:	00:18:54
+		Location:	51.75779 12.45040
+
+(3) - Swim to transition zone - Sprint
+	SBU1
+		Images:	717
+		Time:	31.05.2025 10:58:53 until 01.06.2025 10:19:58
+		Duration:	23:21:05
+		Location:	51.75800 12.44900
+
+(4) - Bike - Sprint
+	EHL1
+		Images:	1461
+		Time:	31.05.2025 11:15:45 until 01.06.2025 11:23:20
+		Duration:	1.00:07:35
+		Location:	51.75113 12.43709
+
+	EHL1LS2
+		Images:	873
+		Time:	31.05.2025 11:45:39 until 31.05.2025 12:17:14
+		Duration:	00:31:35
+		Location:	51.75113 12.43709
+
+	EHL1LS1
+		Images:	378
+		Time:	31.05.2025 11:17:17 until 31.05.2025 11:43:28
+		Duration:	00:26:11
+		Location:	51.75113 12.43709
+
+(5) - Run - Sprint
+	SBU2
+		Images:	1704
+		Time:	31.05.2025 11:48:03 until 31.05.2025 12:47:43
+		Duration:	00:59:40
+		Location:	51.75889 12.44946
+
+	SBU1LS1
+		Images:	231
+		Time:	31.05.2025 11:45:21 until 31.05.2025 12:03:27
+		Duration:	00:18:06
+		Location:	51.75889 12.44946
+
+(6) - Finish - Sprint
+	GUD3
+		Images:	2180
+		Time:	31.05.2025 11:59:14 until 31.05.2025 13:06:13
+		Duration:	01:06:59
+		Location:	51.75847 12.44695
+
+	GUD3LS1
+		Images:	247
+		Time:	31.05.2025 11:48:11 until 31.05.2025 13:22:48
+		Duration:	01:34:37
+		Location:	51.75847 12.44695
+
+	GUD3LS2
+		Images:	273
+		Time:	31.05.2025 11:47:51 until 31.05.2025 13:22:48
+		Duration:	01:34:57
+		Location:	51.75847 12.44695
+
+(7) - Swim exit - Olympisch
+	SBU3
+		Images:	1742
+		Time:	31.05.2025 13:02:21 until 31.05.2025 14:04:17
+		Duration:	01:01:56
+		Location:	51.75779 12.45040
+
+(8) - Swim to transition zone - Olympisch
+	GUD4
+		Images:	1065
+		Time:	31.05.2025 13:25:27 until 31.05.2025 13:54:21
+		Duration:	00:28:54
+		Location:	51.75800 12.44900
+
+(9) - Bike - Olympisch
+	EHL2
+		Images:	2369
+		Time:	31.05.2025 13:32:46 until 01.06.2025 13:17:55
+		Duration:	23:45:09
+		Location:	51.75113 12.43709
+
+	EHL2LS2
+		Images:	345
+		Time:	31.05.2025 14:43:42 until 31.05.2025 15:22:36
+		Duration:	00:38:54
+		Location:	51.75113 12.43709
+
+	EHL2LS1
+		Images:	2845
+		Time:	31.05.2025 12:20:10 until 31.05.2025 14:41:06
+		Duration:	02:20:56
+		Location:	51.75113 12.43709
+
+(10) - Run - Olympisch
+	SBU4
+		Images:	3231
+		Time:	31.05.2024 14:41:45 until 31.05.2026 18:32:26
+		Duration:	730.03:50:41
+		Location:	51.75889 12.44946
+
+	SBU3LS1
+		Images:	1772
+		Time:	31.05.2025 14:16:24 until 31.05.2025 16:48:23
+		Duration:	02:31:59
+		Location:	51.75889 12.44946
+
+(11) - Finish - Olympisch
+	GUD5
+		Images:	3160
+		Time:	31.05.2025 14:33:02 until 31.05.2025 17:01:15
+		Duration:	02:28:13
+		Location:	51.75847 12.44695
+
+	GUD5LS1
+		Images:	353
+		Time:	31.05.2025 13:35:41 until 31.05.2025 16:59:35
+		Duration:	03:23:54
+		Location:	51.75847 12.44695
+
+	GUD5LS2
+		Images:	355
+		Time:	31.05.2025 13:35:42 until 31.05.2025 17:01:19
+		Duration:	03:25:37
+		Location:	51.75847 12.44695
+
+(12) - Impressions / Pano
+	EHL3
+		Images:	576
+		Time:	31.05.2025 14:47:00 until 31.05.2025 14:58:09
+		Duration:	00:11:09
+		Location:	51.75847 12.44695
+
+	EHL1DRONE1
+		Images:	81
+		Time:	31.05.2025 10:12:12 until 31.05.2025 15:22:38
+		Duration:	05:10:26
+		Location:	51.75847 12.44695
+
+(13) - Swim - Impressions / Pano
+	PANO1

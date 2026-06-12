@@ -1,0 +1,253 @@
+EventId: 15970
+Spots: 40
+Total Images: 242859
+Time:	17.05.2025 07:04:15 to 18.05.2025 22:43:23
+Duration: 1.15:39:08
+
+(1) - Finish
+	PK1
+		Images:	198
+		Time:	18.05.2025 08:54:04 until 18.05.2025 09:24:05
+		Duration:	00:30:01
+		Location:	41.87839 -87.62076
+
+	RA1
+		Images:	1338
+		Time:	17.05.2025 07:04:15 until 17.05.2025 11:22:22
+		Duration:	04:18:07
+		Location:	41.88092 -87.61845
+
+	TP1
+		Images:	358
+		Time:	18.05.2025 07:43:48 until 18.05.2025 11:08:16
+		Duration:	03:24:28
+		Location:	41.88003 -87.61998
+
+	CM1
+		Images:	654
+		Time:	18.05.2025 06:34:55 until 18.05.2025 10:09:39
+		Duration:	03:34:44
+		Location:	41.88092 -87.61845
+
+	PK2
+		Images:	5118
+		Time:	18.05.2025 09:43:13 until 18.05.2025 12:26:59
+		Duration:	02:43:46
+		Location:	41.88092 -87.61845
+
+	MM1
+		Images:	887
+		Time:	17.05.2025 19:42:41 until 17.05.2025 22:45:59
+		Duration:	03:03:18
+		Location:	41.88092 -87.61845
+
+	SM1
+		Images:	1433
+		Time:	18.05.2025 19:30:45 until 18.05.2025 22:43:23
+		Duration:	03:12:38
+		Location:	41.88092 -87.61845
+
+	JN1
+		Images:	885
+		Time:	18.05.2025 05:51:13 until 18.05.2025 09:44:48
+		Duration:	03:53:35
+		Location:	41.88092 -87.61845
+
+	EH1
+		Images:	1709
+		Time:	18.05.2025 06:06:56 until 18.05.2025 09:45:44
+		Duration:	03:38:48
+		Location:	41.88092 -87.61845
+
+	ME1
+		Images:	1848
+		Time:	18.05.2025 06:56:57 until 18.05.2025 11:20:49
+		Duration:	04:23:52
+		Location:	41.88092 -87.61845
+
+	DK1
+		Images:	812
+		Time:	18.05.2025 07:00:52 until 18.05.2025 10:50:04
+		Duration:	03:49:12
+		Location:	41.88092 -87.61845
+
+	OS1
+		Images:	17221
+		Time:	18.05.2025 07:53:10 until 18.05.2025 11:41:00
+		Duration:	03:47:50
+		Location:	41.88093 -87.62008
+
+	OS1LS1
+		Images:	10789
+		Time:	18.05.2025 08:07:40 until 18.05.2025 11:22:00
+		Duration:	03:14:20
+		Location:	41.88093 -87.62008
+
+	DP1
+		Images:	11562
+		Time:	18.05.2025 08:22:32 until 18.05.2025 11:27:50
+		Duration:	03:05:18
+		Location:	41.88093 -87.62008
+
+	PK1LS1
+		Images:	10464
+		Time:	18.05.2025 07:07:02 until 18.05.2025 11:36:14
+		Duration:	04:29:12
+		Location:	41.88093 -87.62008
+
+(2) - Start
+	JR1
+		Images:	943
+		Time:	18.05.2025 06:38:16 until 18.05.2025 07:47:11
+		Duration:	01:08:55
+		Location:	41.87839 -87.62076
+
+(3) - 0.0 mile Pre Finish
+	BS1
+		Images:	13218
+		Time:	18.05.2025 08:13:16 until 18.05.2025 11:21:02
+		Duration:	03:07:46
+		Location:	41.88125 -87.62057
+
+	CC1
+		Images:	10624
+		Time:	18.05.2025 08:14:01 until 18.05.2025 11:00:37
+		Duration:	02:46:36
+		Location:	41.88081 -87.62071
+
+	PK2LS1
+(4) - 0.0 km Pre Finish
+	JR2
+		Images:	11166
+		Time:	18.05.2025 07:58:13 until 18.05.2025 11:26:08
+		Duration:	03:27:55
+		Location:	41.88125 -87.62057
+
+(5) - 0.0 Mile Pre Finish
+	JR2LS1
+		Images:	10373
+		Time:	18.05.2025 06:17:40 until 18.05.2025 11:11:44
+		Duration:	04:54:04
+		Location:	41.88125 -87.62057
+
+(6) - 4.5 mile MSC 5
+	SH1
+		Images:	4399
+		Time:	18.05.2025 08:11:37 until 18.05.2025 09:45:53
+		Duration:	01:34:16
+		Location:	41.82434 -87.59844
+
+	KA1
+		Images:	3422
+		Time:	18.05.2025 08:01:50 until 18.05.2025 09:46:14
+		Duration:	01:44:24
+		Location:	41.82434 -87.59844
+
+(7) - 0.0 mile MSC 4 Dir A
+	AS1
+		Images:	15896
+		Time:	18.05.2025 06:43:05 until 18.05.2025 08:51:21
+		Duration:	02:08:16
+		Location:	41.85072 -87.60964
+
+	SF1
+		Images:	8891
+		Time:	18.05.2025 06:43:16 until 18.05.2025 08:29:00
+		Duration:	01:45:44
+		Location:	41.85072 -87.60964
+
+	SF1LS1
+		Images:	5448
+		Time:	18.05.2025 05:37:37 until 18.05.2025 07:10:57
+		Duration:	01:33:20
+		Location:	41.85072 -87.60964
+
+	SF2LS1
+		Images:	4556
+		Time:	18.05.2025 04:15:10 until 18.05.2025 05:31:05
+		Duration:	01:15:55
+		Location:	41.85072 -87.60964
+
+(8) - 0.0 mile MSC 4 Dir B
+	AS2
+		Images:	10140
+		Time:	18.05.2025 08:51:58 until 18.05.2025 10:22:25
+		Duration:	01:30:27
+		Location:	41.85072 -87.60964
+
+	SF2
+		Images:	6837
+		Time:	18.05.2025 08:41:30 until 18.05.2025 10:22:52
+		Duration:	01:41:22
+		Location:	41.85072 -87.60964
+
+(9) - 1.8 mile MSC 3
+	TW1
+		Images:	8454
+		Time:	18.05.2025 06:14:31 until 18.05.2025 10:37:15
+		Duration:	04:22:44
+		Location:	41.86157 -87.61463
+
+	JL1
+		Images:	5777
+		Time:	18.05.2025 07:21:54 until 18.05.2025 10:01:26
+		Duration:	02:39:32
+		Location:	41.86157 -87.61463
+
+(10) - 1.8 mile  Msc 3
+	CS1
+		Images:	9639
+		Time:	18.05.2025 07:18:20 until 18.05.2025 10:37:56
+		Duration:	03:19:36
+		Location:	41.86157 -87.61463
+
+(11) - 1.5 mile MSC 2
+	JP1
+		Images:	9395
+		Time:	18.05.2025 07:05:38 until 18.05.2025 10:30:28
+		Duration:	03:24:50
+		Location:	41.86817 -87.61601
+
+	JA1
+		Images:	10190
+		Time:	18.05.2025 07:15:27 until 18.05.2025 10:20:25
+		Duration:	03:04:58
+		Location:	41.86817 -87.61601
+
+	JA1LS1
+		Images:	5591
+		Time:	18.05.2025 04:57:09 until 18.05.2025 08:30:52
+		Duration:	03:33:43
+		Location:	41.86817 -87.61601
+
+	IV1
+		Images:	10123
+		Time:	18.05.2025 07:05:58 until 18.05.2025 10:26:25
+		Duration:	03:20:27
+		Location:	41.86817 -87.61601
+
+(12) - 1.0 mile MSC 1
+	DP2
+		Images:	3447
+		Time:	18.05.2025 07:05:39 until 18.05.2025 07:42:51
+		Duration:	00:37:12
+		Location:	41.86769 -87.62033
+
+	DP2LS1
+		Images:	2272
+		Time:	18.05.2025 07:02:07 until 18.05.2025 07:40:08
+		Duration:	00:38:01
+		Location:	41.86769 -87.62033
+
+	CC2
+		Images:	3443
+		Time:	18.05.2025 07:06:23 until 18.05.2025 07:43:54
+		Duration:	00:37:31
+		Location:	41.86769 -87.62033
+
+	BS2
+		Images:	3339
+		Time:	18.05.2025 06:58:48 until 18.05.2025 07:36:27
+		Duration:	00:37:39
+		Location:	41.86769 -87.62033
+

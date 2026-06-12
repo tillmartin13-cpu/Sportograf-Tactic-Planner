@@ -1,0 +1,61 @@
+EventId: 14304
+Spots: 9
+Total Images: 36452
+Time:	06.12.2025 06:29:37 to 06.12.2025 09:46:30
+Duration: 03:16:53
+
+(1) - Kids Dash
+	BXC1
+		Images:	12066
+		Time:	06.12.2025 07:52:44 until 06.12.2025 09:43:40
+		Duration:	01:50:56
+		Location:	1.28990 103.85128
+
+	LEGA1
+		Images:	1250
+		Time:	06.12.2025 07:40:42 until 06.12.2025 09:46:10
+		Duration:	02:05:28
+		Location:	1.28990 103.85128
+
+	LVM1
+		Images:	2891
+		Time:	06.12.2025 08:03:28 until 06.12.2025 09:46:29
+		Duration:	01:43:01
+		Location:	1.28990 103.85128
+
+	MFAZ1
+		Images:	5314
+		Time:	06.12.2025 08:00:27 until 06.12.2025 09:41:45
+		Duration:	01:41:18
+		Location:	1.28990 103.85128
+
+	NP1
+		Images:	4524
+		Time:	06.12.2025 08:03:29 until 06.12.2025 09:46:30
+		Duration:	01:43:01
+		Location:	1.28990 103.85128
+
+	NP1LS1
+		Images:	3284
+		Time:	06.12.2025 08:02:09 until 06.12.2025 09:46:29
+		Duration:	01:44:20
+		Location:	1.28990 103.85128
+
+	PZIE1
+		Images:	2136
+		Time:	06.12.2025 08:00:37 until 06.12.2025 09:41:44
+		Duration:	01:41:07
+		Location:	1.28990 103.85128
+
+	ROH1
+		Images:	1263
+		Time:	06.12.2025 07:19:11 until 06.12.2025 09:39:07
+		Duration:	02:19:56
+		Location:	1.28990 103.85128
+
+	TNA1
+		Images:	3718
+		Time:	06.12.2025 08:01:22 until 06.12.2025 09:43:30
+		Duration:	01:42:08
+		Location:	1.28990 103.85128
+

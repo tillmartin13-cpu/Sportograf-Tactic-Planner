@@ -1,0 +1,299 @@
+EventId: 19104
+Spots: 46
+Total Images: 218566
+Time:	10.10.2025 16:29:37 to 12.10.2025 01:23:52
+Duration: 1.08:54:15
+
+(1) - 0,6km (55km)
+	AOT1
+		Images:	1391
+		Time:	11.10.2025 06:37:03 until 11.10.2025 08:55:24
+		Duration:	02:18:21
+		Location:	51.49093 7.48978
+
+	AOT1LS1
+		Images:	2534
+		Time:	11.10.2025 06:11:01 until 11.10.2025 08:43:43
+		Duration:	02:32:42
+		Location:	51.49093 7.48978
+
+	AOT1LS2
+		Images:	1352
+		Time:	11.10.2025 06:17:43 until 11.10.2025 08:44:31
+		Duration:	02:26:48
+		Location:	51.49093 7.48978
+
+(2) - 13,3km (55km)
+	AADHA1
+		Images:	6272
+		Time:	11.10.2025 07:59:10 until 11.10.2025 11:49:03
+		Duration:	03:49:53
+		Location:	51.44539 7.50449
+
+(3) - 17,3km (55km)
+	ANWO1
+		Images:	4482
+		Time:	11.10.2025 08:39:13 until 11.10.2025 12:18:13
+		Duration:	03:39:00
+		Location:	51.41999 7.48328
+
+	ANWO1LS1
+		Images:	990
+		Time:	11.10.2025 08:33:09 until 11.10.2025 12:18:11
+		Duration:	03:45:02
+		Location:	51.41999 7.48328
+
+	ANWO1LS2
+		Images:	2228
+		Time:	11.10.2025 08:33:59 until 11.10.2025 12:21:09
+		Duration:	03:47:10
+		Location:	51.41999 7.48328
+
+(4) - 17,6km (55km)
+	ATOG1
+		Images:	5166
+		Time:	11.10.2025 08:29:39 until 11.10.2025 12:29:47
+		Duration:	04:00:08
+		Location:	51.41995 7.48721
+
+	ATOG1LS1
+		Images:	4195
+		Time:	11.10.2025 08:22:13 until 11.10.2025 12:40:47
+		Duration:	04:18:34
+		Location:	51.41995 7.48721
+
+	ATOG1LS2
+		Images:	3903
+		Time:	11.10.2025 08:21:54 until 11.10.2025 12:40:45
+		Duration:	04:18:51
+		Location:	51.41995 7.48721
+
+(5) - 18,3km (42km); 24,1km (55km)
+	AALN1
+		Images:	14151
+		Time:	11.10.2025 09:37:50 until 11.10.2025 14:49:48
+		Duration:	05:11:58
+		Location:	51.39986 7.44981
+
+	AALN1LS1
+		Images:	3366
+		Time:	11.10.2025 09:06:39 until 11.10.2025 14:52:25
+		Duration:	05:45:46
+		Location:	51.39986 7.44981
+
+	AALN1LS2
+		Images:	3951
+		Time:	11.10.2025 09:24:49 until 11.10.2025 14:55:07
+		Duration:	05:30:18
+		Location:	51.39986 7.44981
+
+	AALN1LS3
+		Images:	3589
+		Time:	11.10.2025 09:11:38 until 11.10.2025 14:52:52
+		Duration:	05:41:14
+		Location:	51.39986 7.44981
+
+(6) - 18,6km (42km); 23,5km (55km)
+	AJKE1
+		Images:	5228
+		Time:	11.10.2025 09:05:07 until 11.10.2025 14:46:08
+		Duration:	05:41:01
+		Location:	51.40190 7.45324
+
+	AJKE1LS1
+		Images:	3896
+		Time:	11.10.2025 08:31:00 until 11.10.2025 13:55:38
+		Duration:	05:24:38
+		Location:	51.40190 7.45324
+
+	AJKE1LS2
+		Images:	4711
+		Time:	11.10.2025 08:59:26 until 11.10.2025 14:24:45
+		Duration:	05:25:19
+		Location:	51.40190 7.45324
+
+(7) - 2,4km (42km)
+	AAMAR1
+		Images:	2312
+		Time:	11.10.2025 06:27:32 until 11.10.2025 09:55:50
+		Duration:	03:28:18
+		Location:	51.48070 7.46856
+
+(8) - 22km (30km)
+	AOT2
+		Images:	12802
+		Time:	11.10.2025 10:21:57 until 11.10.2025 18:26:57
+		Duration:	08:05:00
+		Location:	51.51490 7.45485
+
+	AOT2LS1
+		Images:	7902
+		Time:	11.10.2025 10:15:03 until 11.10.2025 17:13:43
+		Duration:	06:58:40
+		Location:	51.51490 7.45485
+
+	AOT2LS2
+		Images:	3895
+		Time:	11.10.2025 10:08:22 until 11.10.2025 17:12:41
+		Duration:	07:04:19
+		Location:	51.51490 7.45485
+
+(9) - 24,4km (30km)
+	AMBEN2
+		Images:	9260
+		Time:	11.10.2025 10:23:28 until 11.10.2025 19:21:21
+		Duration:	08:57:53
+		Location:	51.50418 7.43766
+
+	AMBEN2LS1
+		Images:	3839
+		Time:	11.10.2025 10:28:14 until 11.10.2025 17:56:11
+		Duration:	07:27:57
+		Location:	51.50418 7.43766
+
+(10) - 24,6km (42km)
+	ATOG2
+		Images:	4475
+		Time:	11.10.2025 12:52:18 until 11.10.2025 16:58:15
+		Duration:	04:05:57
+		Location:	51.41989 7.48673
+
+	ATOG2LS1
+		Images:	1528
+		Time:	11.10.2025 12:44:17 until 11.10.2025 16:30:25
+		Duration:	03:46:08
+		Location:	51.41989 7.48673
+
+	ATOG2LS2
+		Images:	1336
+		Time:	11.10.2025 12:48:40 until 11.10.2025 16:18:43
+		Duration:	03:30:03
+		Location:	51.41989 7.48673
+
+(11) - 24,9km (42km)
+	ANWO2
+		Images:	1833
+		Time:	11.10.2025 13:12:41 until 11.10.2025 15:59:47
+		Duration:	02:47:06
+		Location:	51.41995 7.48360
+
+	ANWO2LS1
+		Images:	560
+		Time:	11.10.2025 13:08:29 until 11.10.2025 15:51:17
+		Duration:	02:42:48
+		Location:	51.41995 7.48360
+
+	ANWO2LS2
+		Images:	1214
+		Time:	11.10.2025 13:01:34 until 11.10.2025 17:05:55
+		Duration:	04:04:21
+		Location:	51.41995 7.48360
+
+(12) - 28,7km (42km)
+	AADHA2
+		Images:	6306
+		Time:	11.10.2025 11:49:54 until 11.10.2025 17:25:07
+		Duration:	05:35:13
+		Location:	51.44539 7.50449
+
+(13) - 29,1km ( 30km)
+	AAMAR2
+		Images:	12928
+		Time:	11.10.2025 10:46:24 until 11.10.2025 16:33:12
+		Duration:	05:46:48
+		Location:	51.48616 7.46936
+
+(14) - 38,8km (42km)
+	ADPH2
+		Images:	3025
+		Time:	11.10.2025 11:44:25 until 11.10.2025 19:37:52
+		Duration:	07:53:27
+		Location:	51.48818 7.51221
+
+	ADPH2LS1
+		Images:	2274
+		Time:	11.10.2025 12:19:34 until 11.10.2025 18:35:01
+		Duration:	06:15:27
+		Location:	51.48818 7.51221
+
+(15) - 3km (55km)
+	AMBEN1
+		Images:	1037
+		Time:	11.10.2025 07:35:35 until 11.10.2025 08:53:54
+		Duration:	01:18:19
+		Location:	51.48814 7.51512
+
+	AMBEN1LS1
+		Images:	426
+		Time:	11.10.2025 07:10:57 until 11.10.2025 10:20:42
+		Duration:	03:09:45
+		Location:	51.48814 7.51512
+
+(16) - 46,4km (55km)
+	AWBEC2
+		Images:	5081
+		Time:	11.10.2025 11:56:43 until 11.10.2025 19:04:38
+		Duration:	07:07:55
+		Location:	51.43585 7.46909
+
+(17) - 52,9km (55km)
+	BSTBA2
+		Images:	2376
+		Time:	11.10.2025 14:16:53 until 11.10.2025 19:44:46
+		Duration:	05:27:53
+		Location:	51.48253 7.46910
+
+(18) - 8,13km (30km)
+	BSTBA1
+		Images:	4723
+		Time:	11.10.2025 07:22:03 until 11.10.2025 12:34:55
+		Duration:	05:12:52
+		Location:	51.51085 7.42117
+
+	BSTBA1LS1
+		Images:	2362
+		Time:	11.10.2025 07:57:02 until 11.10.2025 11:55:34
+		Duration:	03:58:32
+		Location:	51.51085 7.42117
+
+(19) - 8,73km (42km)
+	AWBEC1
+		Images:	2636
+		Time:	10.10.2025 16:29:37 until 11.10.2025 11:22:09
+		Duration:	18:52:32
+		Location:	51.43564 7.46815
+
+(20) - Finish
+	BRA1
+		Images:	29560
+		Time:	11.10.2025 10:24:30 until 12.10.2025 01:23:52
+		Duration:	14:59:22
+		Location:	51.48781 7.48410
+
+	BRA1LS1
+		Images:	10655
+		Time:	11.10.2025 10:32:02 until 11.10.2025 21:19:26
+		Duration:	10:47:24
+		Location:	51.48781 7.48410
+
+	BRA1LS2
+		Images:	9551
+		Time:	11.10.2025 10:45:56 until 11.10.2025 21:03:35
+		Duration:	10:17:39
+		Location:	51.48781 7.48410
+
+(21) - Impressions / Pano
+	ATOG1DRONE1
+		Images:	6
+		Time:	11.10.2025 12:14:43 until 11.10.2025 12:18:02
+		Duration:	00:03:19
+		Location:	51.41995 7.48721
+
+	PANO1
+(22) - Start
+	ADPH1
+		Images:	3259
+		Time:	11.10.2025 06:27:00 until 11.10.2025 10:00:56
+		Duration:	03:33:56
+		Location:	51.48835 7.48718
+

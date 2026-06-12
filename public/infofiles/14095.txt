@@ -1,0 +1,163 @@
+EventId: 14095
+Spots: 25
+Total Images: 30355
+Time:	28.06.2025 15:17:18 to 29.06.2025 17:01:28
+Duration: 1.01:44:10
+
+(1) - 48,0 km Weser Fahrradbrücke
+	DPH1
+		Images:	959
+		Time:	28.06.2025 21:35:27 until 29.06.2025 04:08:53
+		Duration:	06:33:26
+		Location:	52.09538 9.35777
+
+	DRI1
+		Images:	876
+		Time:	28.06.2025 23:26:49 until 29.06.2025 04:04:12
+		Duration:	04:37:23
+		Location:	52.09538 9.35777
+
+	DRI1DRONE1
+		Images:	12
+		Time:	28.06.2025 21:25:45 until 29.06.2025 09:50:04
+		Duration:	12:24:19
+		Location:	52.09538 9.35777
+
+	DRI1LS1
+		Images:	510
+		Time:	28.06.2025 21:58:40 until 29.06.2025 01:07:41
+		Duration:	03:09:01
+		Location:	52.09538 9.35777
+
+(2) - 89,2 km
+	DPH2
+		Images:	1152
+		Time:	29.06.2025 08:01:46 until 29.06.2025 14:48:06
+		Duration:	06:46:20
+		Location:	52.20943 9.17018
+
+	DRI2
+		Images:	705
+		Time:	29.06.2025 08:00:05 until 29.06.2025 11:36:04
+		Duration:	03:35:59
+		Location:	52.20943 9.17018
+
+	DRI2LS2
+		Images:	1866
+		Time:	29.06.2025 08:05:27 until 29.06.2025 14:58:53
+		Duration:	06:53:26
+		Location:	52.20943 9.17018
+
+	DRI2LS1
+		Images:	1500
+		Time:	29.06.2025 07:56:10 until 29.06.2025 14:59:15
+		Duration:	07:03:05
+		Location:	52.20943 9.17018
+
+(3) - Impressions / Pano
+	PANO1
+(4) - 6,0 km Auenlandschaft
+	KSA1
+		Images:	1384
+		Time:	28.06.2025 16:53:52 until 28.06.2025 18:15:18
+		Duration:	01:21:26
+		Location:	52.17541 9.14861
+
+	KSA1LS1
+		Images:	797
+		Time:	28.06.2025 16:46:22 until 28.06.2025 18:15:17
+		Duration:	01:28:55
+		Location:	52.17541 9.14861
+
+	RA1
+		Images:	3810
+		Time:	28.06.2025 16:46:55 until 28.06.2025 18:12:31
+		Duration:	01:25:36
+		Location:	52.17541 9.14861
+
+	RA1LS2
+		Images:	663
+		Time:	28.06.2025 16:49:44 until 28.06.2025 18:12:25
+		Duration:	01:22:41
+		Location:	52.17541 9.14861
+
+	RA1LS1
+		Images:	671
+		Time:	28.06.2025 16:53:32 until 28.06.2025 18:12:04
+		Duration:	01:18:32
+		Location:	52.17541 9.14861
+
+(5) - Finish
+	KSA3
+		Images:	4717
+		Time:	29.06.2025 07:31:48 until 29.06.2025 16:45:08
+		Duration:	09:13:20
+		Location:	52.18742 9.08008
+
+	RA3LS2
+		Images:	1405
+		Time:	29.06.2025 07:04:51 until 29.06.2025 16:45:05
+		Duration:	09:40:14
+		Location:	52.18742 9.08008
+
+	RA3LS1
+		Images:	1328
+		Time:	29.06.2025 06:55:30 until 29.06.2025 16:44:42
+		Duration:	09:49:12
+		Location:	52.18742 9.08008
+
+(6) - 16,0 km
+	KSA2
+		Images:	1124
+		Time:	28.06.2025 18:51:01 until 28.06.2025 20:27:20
+		Duration:	01:36:19
+		Location:	52.12809 9.22029
+
+(7) - 17,0 km
+	KSA2LS1
+		Images:	1307
+		Time:	28.06.2025 18:54:05 until 28.06.2025 20:27:22
+		Duration:	01:33:17
+		Location:	52.12493 9.22875
+
+	RA2
+		Images:	2892
+		Time:	28.06.2025 19:13:15 until 28.06.2025 20:51:22
+		Duration:	01:38:07
+		Location:	52.12493 9.22875
+
+(8) - Start
+	CZE1
+		Images:	118
+		Time:	28.06.2025 15:17:18 until 28.06.2025 16:27:28
+		Duration:	01:10:10
+		Location:	52.18742 9.08008
+
+(9) - 86,0 km
+	CZE4
+		Images:	1020
+		Time:	29.06.2025 05:54:02 until 29.06.2025 13:57:41
+		Duration:	08:03:39
+		Location:	52.20468 9.20337
+
+(10) - 0,0 km Herkendorf
+	CZE3
+		Images:	466
+		Time:	28.06.2025 19:03:43 until 28.06.2025 22:03:08
+		Duration:	02:59:25
+		Location:	52.10839 9.25053
+
+(11) - 8,0 km Auenlandschaft
+	CZE2
+		Images:	565
+		Time:	28.06.2025 17:04:15 until 28.06.2025 18:17:23
+		Duration:	01:13:08
+		Location:	52.1757 9.1516
+
+(12) - Herotent
+	RA3
+		Images:	508
+		Time:	29.06.2025 06:46:17 until 29.06.2025 17:01:28
+		Duration:	10:15:11
+		Location:	52.18742 9.08008
+

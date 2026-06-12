@@ -1,0 +1,333 @@
+EventId: 13787
+Spots: 51
+Total Images: 265523
+Time:	01.01.2000 23:33:11 to 12.04.2025 16:04:34
+Duration: 9232.16:31:23
+
+(1) - Impressions / Pano
+	PANO1
+		Images:	2
+		Time:	12.04.2025 06:16:22 until 12.04.2025 12:19:59
+		Duration:	06:03:37
+		Location:	NULL NULL
+
+(2) - 26,0 km /170km, Chem. Nungesser
+	TOBB1
+		Images:	2579
+		Time:	12.04.2025 00:15:34 until 12.04.2025 08:57:23
+		Duration:	08:41:49
+		Location:	50.18316 3.47113
+
+	TOBB1DRONE1
+		Images:	22
+		Time:	12.04.2025 08:16:04 until 12.04.2025 08:25:22
+		Duration:	00:09:18
+		Location:	50.18316 3.47113
+
+	TOBB1LS2
+		Images:	1557
+		Time:	12.04.2025 00:17:53 until 12.04.2025 09:07:17
+		Duration:	08:49:24
+		Location:	50.18316 3.47113
+
+	CAR1
+		Images:	896
+		Time:	12.04.2025 07:20:32 until 12.04.2025 09:09:54
+		Duration:	01:49:22
+		Location:	50.18316 3.47118
+
+	TOBB1LS1
+		Images:	1341
+		Time:	12.04.2025 06:50:27 until 12.04.2025 09:01:02
+		Duration:	02:10:35
+		Location:	50.18316 3.47113
+
+(3) - 26,2 km /170, Chem. Nungesser
+	MIBU1
+		Images:	4754
+		Time:	11.04.2025 22:09:15 until 12.04.2025 08:57:39
+		Duration:	10:48:24
+		Location:	50.18412 3.47183
+
+	MIBU1LS1
+		Images:	1549
+		Time:	11.04.2025 22:05:12 until 12.04.2025 09:01:08
+		Duration:	10:55:56
+		Location:	50.18412 3.47183
+
+(4) - Start
+	TB1
+		Images:	4862
+		Time:	11.04.2025 22:16:04 until 12.04.2025 10:44:24
+		Duration:	12:28:20
+		Location:	50.67545 3.20232
+
+	SBG1
+		Images:	10495
+		Time:	12.04.2025 06:51:17 until 12.04.2025 10:42:46
+		Duration:	03:51:29
+		Location:	50.67641 3.20176
+
+(5) - 4,9 km /145km, 170km, Chau. de Verdun
+	BAR1
+		Images:	7322
+		Time:	12.04.2025 00:36:05 until 12.04.2025 12:56:42
+		Duration:	12:20:37
+		Location:	50.64071 3.23515
+
+	BAR1LS1
+		Images:	7197
+		Time:	12.04.2025 00:21:09 until 12.04.2025 12:28:22
+		Duration:	12:07:13
+		Location:	50.64071 3.23515
+
+	BC1
+		Images:	5283
+		Time:	12.04.2025 07:02:13 until 12.04.2025 10:56:20
+		Duration:	03:54:07
+		Location:	50.64026 3.23546
+
+(6) - 13,0 km /70+145, Grand Rue avant La Brouette
+	PBO1
+		Images:	6619
+		Time:	12.04.2025 06:45:54 until 12.04.2025 11:01:08
+		Duration:	04:15:14
+		Location:	50.58669 3.27177
+
+	ACCA1
+		Images:	5241
+		Time:	12.04.2025 06:32:01 until 12.04.2025 10:58:09
+		Duration:	04:26:08
+		Location:	50.58727 3.27091
+
+(7) - 16,6 km /70 +145, Cysoing à Bourghelles
+	DIER1
+		Images:	5390
+		Time:	12.04.2025 06:40:41 until 12.04.2025 11:31:14
+		Duration:	04:50:33
+		Location:	50.57114 3.25089
+
+	SDT1
+		Images:	2440
+		Time:	12.04.2025 07:38:49 until 12.04.2025 10:24:39
+		Duration:	02:45:50
+		Location:	50.57104 3.25126
+
+	SDT1LS1
+		Images:	3318
+		Time:	11.04.2025 14:47:44 until 12.04.2025 10:28:43
+		Duration:	19:40:59
+		Location:	50.57104 3.25126
+
+	SDT1LS2
+		Images:	2915
+		Time:	12.04.2025 07:20:18 until 12.04.2025 10:29:04
+		Duration:	03:08:46
+		Location:	50.57104 3.25126
+
+(8) - 53,0 km /145, 80/170, Trouee d'Aremberg
+	SPSL1
+		Images:	4829
+		Time:	12.04.2025 07:05:32 until 12.04.2025 11:01:27
+		Duration:	03:55:55
+		Location:	50.40045 3.41152
+
+	SPSL1LS1
+		Images:	163
+		Time:	12.04.2025 07:12:56 until 12.04.2025 11:15:30
+		Duration:	04:02:34
+		Location:	50.40045 3.41152
+
+	GVDL1
+		Images:	4907
+		Time:	12.04.2025 07:03:51 until 12.04.2025 10:59:43
+		Duration:	03:55:52
+		Location:	50.40064 3.41163
+
+(9) - 13,3 km /70+145 Grand Rue à l'intersection Rue de la Justice (Secteur pavé Eddy Merckx)
+	LMC1
+		Images:	6843
+		Time:	12.04.2025 06:19:10 until 12.04.2025 11:33:06
+		Duration:	05:13:56
+		Location:	50.58436 3.27206
+
+(10) - 14,0 km /70+145, Camphin en Pevele
+	TID1
+		Images:	4662
+		Time:	11.04.2025 23:56:18 until 12.04.2025 10:00:22
+		Duration:	10:04:04
+		Location:	50.58040 3.27118
+
+	TID1LS1
+		Images:	3759
+		Time:	11.04.2025 00:01:01 until 12.04.2025 10:00:09
+		Duration:	1.09:59:08
+		Location:	50.58040 3.27118
+
+	TLA1
+		Images:	14877
+		Time:	12.04.2025 06:27:09 until 12.04.2025 12:29:05
+		Duration:	06:01:56
+		Location:	50.58038 3.27133
+
+(11) - 93,4 km /145, 122/170, Voie du Metz
+	CAR2
+		Images:	5642
+		Time:	12.04.2025 10:31:35 until 12.04.2025 14:36:59
+		Duration:	04:05:24
+		Location:	50.48867 3.17619
+
+(12) - 94,0 km /145, 122/170, Voie du Metz
+	MIBU2LS1
+		Images:	6129
+		Time:	12.04.2025 10:49:33 until 12.04.2025 14:08:08
+		Duration:	03:18:35
+		Location:	50.48915 3.17481
+
+(13) - 94,1 km /145, 121/170, AUCHY-LEZ-ORCHIES à BERSEE
+	MIBU2
+		Images:	4064
+		Time:	12.04.2025 11:01:48 until 12.04.2025 13:47:18
+		Duration:	02:45:30
+		Location:	50.48927 3.17421
+
+	TOBB2
+		Images:	4494
+		Time:	12.04.2025 11:00:35 until 12.04.2025 14:07:30
+		Duration:	03:06:55
+		Location:	50.48927 3.17421
+
+	TOBB2LS1
+		Images:	3981
+		Time:	12.04.2025 10:34:17 until 12.04.2025 14:08:21
+		Duration:	03:34:04
+		Location:	50.48927 3.17421
+
+	TOBB2LS2
+		Images:	4289
+		Time:	12.04.2025 10:39:16 until 12.04.2025 14:10:47
+		Duration:	03:31:31
+		Location:	50.48927 3.17421
+
+(14) - 38,5 km /70, 113,9/145, 142/170, Moulin de Vertain
+	BAR2
+		Images:	4401
+		Time:	12.04.2025 00:15:57 until 12.04.2025 14:53:41
+		Duration:	14:37:44
+		Location:	50.53631 3.17749
+
+	BC2
+		Images:	4571
+		Time:	12.04.2025 11:56:59 until 12.04.2025 14:45:34
+		Duration:	02:48:35
+		Location:	50.53631 3.17749
+
+(15) - 46,5 km /70, 121,8/145, 150/170
+	SPSL2
+		Images:	3814
+		Time:	12.04.2025 12:39:24 until 12.04.2025 14:48:59
+		Duration:	02:09:35
+		Location:	50.57292 3.24456
+
+	SPSL2LS1
+		Images:	125
+		Time:	12.04.2025 12:28:25 until 12.04.2025 13:47:06
+		Duration:	01:18:41
+		Location:	50.57292 3.24456
+
+	GVDL2
+		Images:	2271
+		Time:	12.04.2025 12:28:21 until 12.04.2025 14:48:33
+		Duration:	02:20:12
+		Location:	50.57292 3.24456
+
+(16) - 47,0 km /70, 122,3/145, 150,5/170
+	SDT2
+		Images:	4546
+		Time:	12.04.2025 10:55:37 until 12.04.2025 15:07:43
+		Duration:	04:12:06
+		Location:	50.57156 3.24948
+
+	SDT2LS1
+		Images:	7159
+		Time:	12.04.2025 10:38:39 until 12.04.2025 15:00:17
+		Duration:	04:21:38
+		Location:	50.57156 3.24948
+
+	SDT2LS2
+		Images:	6177
+		Time:	12.04.2025 10:35:45 until 12.04.2025 15:00:18
+		Duration:	04:24:33
+		Location:	50.57156 3.24948
+
+	DIER2
+		Images:	4572
+		Time:	12.04.2025 11:36:13 until 12.04.2025 14:47:11
+		Duration:	03:10:58
+		Location:	50.57151 3.24998
+
+(17) - 50,8 km /70, 126,1/145, 154,2/170,  CAMPHIN-EN-PEVELE
+	PBO2
+		Images:	6910
+		Time:	01.01.2000 23:33:11 until 12.04.2025 15:03:38
+		Duration:	9232.15:30:27
+		Location:	50.58568 3.26857
+
+	ACCA2
+		Images:	6434
+		Time:	12.04.2025 11:18:09 until 12.04.2025 15:02:03
+		Duration:	03:43:54
+		Location:	50.58568 3.26857
+
+(18) - 50,2 km /70, 125,5/145, 153,6/170, Grand Rue à l'intersection Rue de la Justice (Secteur pavé Eddy Merckx)
+	LMC2
+		Images:	8840
+		Time:	12.04.2025 10:51:13 until 12.04.2025 15:07:27
+		Duration:	04:16:14
+		Location:	50.58553 3.27202
+
+	LMC2LS1
+		Images:	10
+		Time:	12.04.2025 10:51:13 until 12.04.2025 11:33:06
+		Duration:	00:41:53
+		Location:	50.58553 3.27202
+
+(19) - 54,9 km /70, 130,3/145, 158,5/170, Carrefour de L'Arbre
+	TLA2
+		Images:	10499
+		Time:	12.04.2025 12:29:06 until 12.04.2025 15:22:36
+		Duration:	02:53:30
+		Location:	50.59140 3.22779
+
+(20) - 55,4 km /70, 130,8/145, 159/170, Gruson
+	TID2
+		Images:	11320
+		Time:	12.04.2025 10:40:21 until 12.04.2025 15:37:38
+		Duration:	04:57:17
+		Location:	50.59085 3.23014
+
+	TID2LS1
+		Images:	7650
+		Time:	12.04.2025 10:40:15 until 12.04.2025 15:29:04
+		Duration:	04:48:49
+		Location:	50.59085 3.23014
+
+(21) - Finish
+	SBG2
+		Images:	17465
+		Time:	12.04.2025 11:13:16 until 12.04.2025 15:58:20
+		Duration:	04:45:04
+		Location:	50.67774 3.20592
+
+	TB2
+		Images:	11989
+		Time:	12.04.2025 11:07:20 until 12.04.2025 15:58:19
+		Duration:	04:50:59
+		Location:	50.67774 3.20592
+
+	TB2LS1
+		Images:	4349
+		Time:	11.04.2025 22:21:32 until 12.04.2025 16:04:34
+		Duration:	17:43:02
+		Location:	50.67774 3.20592
+

@@ -1,0 +1,70 @@
+EventId: 13587
+Spots: 10
+Total Images: 4016
+Time:	09.11.2025 04:52:34 to 09.11.2025 11:14:18
+Duration: 06:21:44
+
+(1) - Start
+	BEB2
+		Images:	438
+		Time:	09.11.2025 04:54:35 until 09.11.2025 11:14:18
+		Duration:	06:19:43
+		Location:	25.06951 -77.38955
+
+	LCL1
+		Images:	69
+		Time:	09.11.2025 04:52:34 until 09.11.2025 05:08:13
+		Duration:	00:15:39
+		Location:	25.06951 -77.38955
+
+	JHRO1
+		Images:	19
+		Time:	09.11.2025 04:56:45 until 09.11.2025 05:08:08
+		Duration:	00:11:23
+		Location:	25.06951 -77.38955
+
+(2) - 2.6 km Medium/Long
+	BEB3
+		Images:	844
+		Time:	09.11.2025 05:28:16 until 09.11.2025 05:57:39
+		Duration:	00:29:23
+		Location:	25.05411 -77.39651
+
+(3) - Finish
+	BEB4
+		Images:	502
+		Time:	09.11.2025 06:26:22 until 09.11.2025 09:13:04
+		Duration:	02:46:42
+		Location:	25.06951 -77.38955
+
+	BEB4LS1
+		Images:	239
+		Time:	09.11.2025 08:07:19 until 09.11.2025 10:32:45
+		Duration:	02:25:26
+		Location:	25.06951 -77.38955
+
+	LCL3
+		Images:	371
+		Time:	09.11.2025 09:27:43 until 09.11.2025 11:14:11
+		Duration:	01:46:28
+		Location:	25.06951 -77.38955
+
+	JHRO3
+		Images:	168
+		Time:	09.11.2025 09:24:41 until 09.11.2025 11:13:39
+		Duration:	01:48:58
+		Location:	25.06951 -77.38955
+
+(4) - 28 km Medium/Long | 46 km Long
+	LCL2
+		Images:	713
+		Time:	09.11.2025 05:41:36 until 09.11.2025 09:20:37
+		Duration:	03:39:01
+		Location:	25.00059 -77.52819
+
+	JHRO2
+		Images:	653
+		Time:	09.11.2025 06:07:22 until 09.11.2025 08:52:37
+		Duration:	02:45:15
+		Location:	25.03393 -77.51397
+

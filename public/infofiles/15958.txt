@@ -1,0 +1,164 @@
+EventId: 15958
+Spots: 25
+Total Images: 159635
+Time:	26.04.2025 09:17:39 to 27.04.2025 15:02:23
+Duration: 1.05:44:44
+
+(1) - Finish
+	AK1
+		Images:	7311
+		Time:	27.04.2025 09:12:07 until 27.04.2025 12:44:45
+		Duration:	03:32:38
+		Location:	NULL NULL
+
+	AK1LS1
+		Images:	17189
+		Time:	27.04.2025 08:56:13 until 27.04.2025 12:29:24
+		Duration:	03:33:11
+		Location:	NULL NULL
+
+	MZ1
+		Images:	12370
+		Time:	27.04.2025 09:12:36 until 27.04.2025 12:12:04
+		Duration:	02:59:28
+		Location:	NULL NULL
+
+(2) - 0,0 km PreFinish I
+	CM1
+		Images:	6087
+		Time:	27.04.2025 13:00:31 until 27.04.2025 15:02:23
+		Duration:	02:01:52
+		Location:	NULL NULL
+
+(3) - 0,0 km Pre Fin II
+	CM2
+		Images:	9932
+		Time:	27.04.2025 09:11:21 until 27.04.2025 12:43:38
+		Duration:	03:32:17
+		Location:	NULL NULL
+
+(4) - 0,0 km Pre Fin
+	CM2LS1
+		Images:	10447
+		Time:	27.04.2025 08:16:55 until 27.04.2025 12:23:53
+		Duration:	04:06:58
+		Location:	NULL NULL
+
+	KP1
+		Images:	4439
+		Time:	26.04.2025 09:17:39 until 26.04.2025 12:18:15
+		Duration:	03:00:36
+		Location:	NULL NULL
+
+(5) - 0,0 km PR
+	PK1
+		Images:	118
+		Time:	27.04.2025 08:22:04 until 27.04.2025 09:23:13
+		Duration:	01:01:09
+		Location:	NULL NULL
+
+(6) - 0,0 km Medals
+	LM1
+		Images:	3737
+		Time:	27.04.2025 07:34:03 until 27.04.2025 12:25:12
+		Duration:	04:51:09
+		Location:	NULL NULL
+
+	SM1
+		Images:	1286
+		Time:	27.04.2025 08:13:07 until 27.04.2025 12:04:28
+		Duration:	03:51:21
+		Location:	NULL NULL
+
+	LA1
+		Images:	987
+		Time:	27.04.2025 07:28:07 until 27.04.2025 12:04:06
+		Duration:	04:35:59
+		Location:	NULL NULL
+
+	TL1
+		Images:	1112
+		Time:	27.04.2025 08:47:02 until 27.04.2025 12:09:33
+		Duration:	03:22:31
+		Location:	NULL NULL
+
+(7) - 0,0 km
+	LJ1
+	ED2
+		Images:	3172
+		Time:	27.04.2025 10:31:47 until 27.04.2025 12:38:25
+		Duration:	02:06:38
+		Location:	NULL NULL
+
+(8) - 0,0 km BVanners
+	WB1
+		Images:	891
+		Time:	27.04.2025 09:07:43 until 27.04.2025 11:40:23
+		Duration:	02:32:40
+		Location:	NULL NULL
+
+(9) - 0,0 km Banners
+	AD1
+		Images:	1174
+		Time:	27.04.2025 07:55:21 until 27.04.2025 11:15:10
+		Duration:	03:19:49
+		Location:	NULL NULL
+
+(10) - 0,0 km MSC 1
+	ED1
+		Images:	8065
+		Time:	27.04.2025 07:28:06 until 27.04.2025 10:31:08
+		Duration:	03:03:02
+		Location:	NULL NULL
+
+	SB1
+		Images:	18293
+		Time:	27.04.2025 11:05:20 until 27.04.2025 15:02:23
+		Duration:	03:57:03
+		Location:	NULL NULL
+
+(11) - 0,0 km MSC 3 Tanja
+	TMOMC1
+		Images:	5528
+		Time:	27.04.2025 08:09:01 until 27.04.2025 10:36:18
+		Duration:	02:27:17
+		Location:	NULL NULL
+
+(12) - 0,0 km MSC 3 John ENg
+	JENG1
+		Images:	5675
+		Time:	27.04.2025 08:14:45 until 27.04.2025 10:45:36
+		Duration:	02:30:51
+		Location:	NULL NULL
+
+(13) - none
+	PBARA1
+		Images:	7272
+		Time:	27.04.2025 08:20:56 until 27.04.2025 11:02:00
+		Duration:	02:41:04
+		Location:	NULL NULL
+
+	JPARR1
+		Images:	8356
+		Time:	27.04.2025 07:04:26 until 27.04.2025 10:02:55
+		Duration:	02:58:29
+		Location:	NULL NULL
+
+	KDASH1
+		Images:	3856
+		Time:	27.04.2025 08:22:20 until 27.04.2025 10:30:20
+		Duration:	02:08:00
+		Location:	NULL NULL
+
+	MDAN1
+		Images:	14030
+		Time:	27.04.2025 07:56:17 until 27.04.2025 12:06:45
+		Duration:	04:10:28
+		Location:	NULL NULL
+
+	PDOW1
+		Images:	8308
+		Time:	27.04.2025 07:43:05 until 27.04.2025 10:18:44
+		Duration:	02:35:39
+		Location:	NULL NULL
+

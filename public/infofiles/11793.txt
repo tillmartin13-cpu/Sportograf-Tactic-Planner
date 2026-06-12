@@ -1,0 +1,176 @@
+EventId: 11793
+Spots: 27
+Total Images: 34304
+Time:	05.07.2025 07:19:23 to 05.07.2025 19:02:24
+Duration: 11:43:01
+
+(1) - Start
+	KG1
+		Images:	70
+		Time:	05.07.2025 07:34:35 until 05.07.2025 08:01:53
+		Duration:	00:27:18
+		Location:	49.16303 12.99167
+
+	KG2
+		Images:	56
+		Time:	05.07.2025 08:11:53 until 05.07.2025 08:16:10
+		Duration:	00:04:17
+		Location:	49.16303 12.99167
+
+	KG3
+		Images:	99
+		Time:	05.07.2025 11:50:17 until 05.07.2025 12:02:21
+		Duration:	00:12:04
+		Location:	49.16303 12.99167
+
+	MBRE1
+		Images:	109
+		Time:	05.07.2025 07:24:14 until 05.07.2025 08:02:35
+		Duration:	00:38:21
+		Location:	49.19884 13.04851
+
+	MBRE2
+		Images:	193
+		Time:	05.07.2025 08:19:00 until 05.07.2025 09:58:10
+		Duration:	01:39:10
+		Location:	49.20401 13.05189
+
+	MHIR1
+		Images:	149
+		Time:	05.07.2025 07:22:52 until 05.07.2025 08:01:41
+		Duration:	00:38:49
+		Location:	49.19884 13.04851
+
+	NJO1
+		Images:	267
+		Time:	05.07.2025 07:24:07 until 05.07.2025 08:04:57
+		Duration:	00:40:50
+		Location:	49.19754 13.04589
+
+	NJO1LS1
+		Images:	110
+		Time:	05.07.2025 08:02:21 until 05.07.2025 08:04:10
+		Duration:	00:01:49
+		Location:	49.19754 13.04589
+
+	NJO2
+		Images:	174
+		Time:	05.07.2025 08:15:55 until 05.07.2025 08:17:12
+		Duration:	00:01:17
+		Location:	49.19884 13.04851
+
+	RSJ1
+		Images:	142
+		Time:	05.07.2025 08:01:25 until 05.07.2025 08:02:09
+		Duration:	00:00:44
+		Location:	49.19884 13.04851
+
+(2) - Finish
+	KG4
+		Images:	3883
+		Time:	05.07.2025 09:11:51 until 05.07.2025 19:02:24
+		Duration:	09:50:33
+		Location:	49.16303 12.99167
+
+	KG4LS1
+		Images:	2766
+		Time:	05.07.2025 07:22:14 until 05.07.2025 17:24:01
+		Duration:	10:01:47
+		Location:	49.16303 12.99167
+
+(3) - Großer Arber
+	MBRE3
+		Images:	1467
+		Time:	05.07.2025 10:18:43 until 05.07.2025 12:40:10
+		Duration:	02:21:27
+		Location:	49.11156 13.13358
+
+	NJO3
+		Images:	2273
+		Time:	05.07.2025 10:16:40 until 05.07.2025 12:24:29
+		Duration:	02:07:49
+		Location:	49.11156 13.13358
+
+	NJO3LS1
+		Images:	873
+		Time:	05.07.2025 10:19:42 until 05.07.2025 12:25:42
+		Duration:	02:06:00
+		Location:	49.11062 13.13536
+
+	NJO3LS2
+		Images:	775
+		Time:	05.07.2025 10:04:27 until 05.07.2025 12:35:39
+		Duration:	02:31:12
+		Location:	49.11148 13.13397
+
+(4) - Tromsø Felsen
+	MBRE4
+		Images:	2087
+		Time:	05.07.2025 13:32:55 until 05.07.2025 17:32:15
+		Duration:	03:59:20
+		Location:	49.20740 13.08431
+
+	MBRE4LS1
+		Images:	941
+		Time:	05.07.2025 13:39:18 until 05.07.2025 16:28:25
+		Duration:	02:49:07
+		Location:	49.20740 13.08431
+
+	NJO4
+		Images:	2363
+		Time:	05.07.2025 13:38:21 until 05.07.2025 17:27:30
+		Duration:	03:49:09
+		Location:	49.20735 13.08621
+
+	NJO4LS1
+		Images:	1213
+		Time:	05.07.2025 13:40:01 until 05.07.2025 17:29:14
+		Duration:	03:49:13
+		Location:	49.20735 13.08621
+
+(5) - Eck
+	MHIR2
+		Images:	1943
+		Time:	05.07.2025 08:18:49 until 05.07.2025 09:27:07
+		Duration:	01:08:18
+		Location:	49.1633 12.99136
+
+	RSJ2
+		Images:	1145
+		Time:	05.07.2025 08:39:07 until 05.07.2025 09:23:58
+		Duration:	00:44:51
+		Location:	49.1633 12.99136
+
+	RSJ2LS1
+		Images:	345
+		Time:	05.07.2025 08:23:31 until 05.07.2025 09:29:54
+		Duration:	01:06:23
+		Location:	49.1633 12.99136
+
+(6) - Osser Sattel
+	MHIR3
+		Images:	8206
+		Time:	05.07.2025 11:03:03 until 05.07.2025 17:11:47
+		Duration:	06:08:44
+		Location:	49.20441 13.09922
+
+(7) - Impressions / Pano
+	NJO1DRONE1
+		Images:	26
+		Time:	05.07.2025 07:19:23 until 05.07.2025 15:40:34
+		Duration:	08:21:11
+		Location:	49.19754 13.04589
+
+(8) - Osser Downhill
+	RSJ3
+		Images:	1982
+		Time:	05.07.2025 11:59:12 until 05.07.2025 16:43:18
+		Duration:	04:44:06
+		Location:	49.20206 13.10313
+
+	RSJ3LS1
+		Images:	647
+		Time:	05.07.2025 11:23:29 until 05.07.2025 16:40:42
+		Duration:	05:17:13
+		Location:	49.20206 13.10313
+

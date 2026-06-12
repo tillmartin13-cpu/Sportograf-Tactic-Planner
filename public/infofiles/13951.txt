@@ -1,0 +1,131 @@
+EventId: 13951
+Spots: 19
+Total Images: 68255
+Time:	26.04.2025 20:24:04 to 27.04.2025 17:41:21
+Duration: 21:17:17
+
+(1) - Swim - Start
+	JMP1
+		Images:	109
+		Time:	27.04.2025 07:13:13 until 27.04.2025 07:36:09
+		Duration:	00:22:56
+		Location:	NULL NULL
+
+	FEGO1
+		Images:	4111
+		Time:	27.04.2025 07:02:22 until 27.04.2025 08:37:23
+		Duration:	01:35:01
+		Location:	NULL NULL
+
+(2) - Swim - Transition zone
+	ROG1
+		Images:	2419
+		Time:	26.04.2025 20:24:04 until 27.04.2025 09:40:42
+		Duration:	13:16:38
+		Location:	NULL NULL
+
+	ROG1LS1
+		Images:	1586
+		Time:	27.04.2025 07:16:25 until 27.04.2025 09:42:57
+		Duration:	02:26:32
+		Location:	NULL NULL
+
+(3) - Bike - Transition zone
+	JMP2
+		Images:	5020
+		Time:	27.04.2025 07:54:06 until 27.04.2025 09:47:18
+		Duration:	01:53:12
+		Location:	NULL NULL
+
+	JMP2LS1
+		Images:	3654
+		Time:	27.04.2025 07:09:54 until 27.04.2025 09:46:02
+		Duration:	02:36:08
+		Location:	NULL NULL
+
+(4) - Bike - 0,0 km
+	AGAR1
+		Images:	3877
+		Time:	27.04.2025 07:04:22 until 27.04.2025 10:24:19
+		Duration:	03:19:57
+		Location:	NULL NULL
+
+(5) - Bike - 30,0 km
+	OAC1
+		Images:	7633
+		Time:	27.04.2025 07:57:39 until 27.04.2025 10:57:16
+		Duration:	02:59:37
+		Location:	NULL NULL
+
+(6) - Bike - 38,0 km
+	AMRU1
+		Images:	4242
+		Time:	27.04.2025 08:51:42 until 27.04.2025 11:41:12
+		Duration:	02:49:30
+		Location:	NULL NULL
+
+	AMRU1LS1
+		Images:	1623
+		Time:	27.04.2025 08:13:52 until 27.04.2025 11:49:27
+		Duration:	03:35:35
+		Location:	NULL NULL
+
+(7) - Run - Transition zone
+	JMP3
+		Images:	4078
+		Time:	27.04.2025 10:10:37 until 27.04.2025 13:53:45
+		Duration:	03:43:08
+		Location:	NULL NULL
+
+	JMP3LS1
+		Images:	2847
+		Time:	27.04.2025 10:05:21 until 27.04.2025 12:26:06
+		Duration:	02:20:45
+		Location:	NULL NULL
+
+(8) - Run - 3,0 km
+	FEGO2
+		Images:	10714
+		Time:	27.04.2025 09:21:57 until 27.04.2025 15:59:06
+		Duration:	06:37:09
+		Location:	NULL NULL
+
+(9) - Run - 6,0 km
+	AGAR2
+		Images:	5696
+		Time:	27.04.2025 10:54:52 until 27.04.2025 16:15:01
+		Duration:	05:20:09
+		Location:	NULL NULL
+
+(10) - Finish
+	AMRU2
+		Images:	1489
+		Time:	27.04.2025 13:12:17 until 27.04.2025 16:48:20
+		Duration:	03:36:03
+		Location:	NULL NULL
+
+	ROG2
+		Images:	4103
+		Time:	27.04.2025 11:04:34 until 27.04.2025 17:41:21
+		Duration:	06:36:47
+		Location:	NULL NULL
+
+	ROG2LS1
+		Images:	2520
+		Time:	27.04.2025 10:26:42 until 27.04.2025 17:37:42
+		Duration:	07:11:00
+		Location:	NULL NULL
+
+	ROG2LS2
+		Images:	2441
+		Time:	26.04.2025 20:43:13 until 27.04.2025 17:20:51
+		Duration:	20:37:38
+		Location:	NULL NULL
+
+(11) - Run - Impressions / Pano
+	JMP4
+		Images:	93
+		Time:	27.04.2025 15:15:23 until 27.04.2025 16:01:54
+		Duration:	00:46:31
+		Location:	NULL NULL
+

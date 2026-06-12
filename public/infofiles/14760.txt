@@ -1,0 +1,107 @@
+EventId: 14760
+Spots: 15
+Total Images: 41801
+Time:	12.04.2025 08:18:45 to 13.04.2025 16:59:54
+Duration: 1.08:41:09
+
+(1) - Impressions / Pano
+	MCO1DRONE1
+		Images:	20
+		Time:	12.04.2025 08:26:22 until 13.04.2025 08:44:47
+		Duration:	1.00:18:25
+		Location:	NULL NULL
+
+(2) - Obstacle 1 Chain Carry
+	EO1
+		Images:	3349
+		Time:	13.04.2025 09:03:06 until 13.04.2025 13:36:51
+		Duration:	04:33:45
+		Location:	43.36162 12.59000
+
+	EO1LS1
+		Images:	981
+		Time:	13.04.2025 09:07:08 until 13.04.2025 12:17:25
+		Duration:	03:10:17
+		Location:	43.36162 12.59000
+
+(3) - Obstacle 2 Monkey Bar
+	MMI1
+		Images:	3047
+		Time:	12.04.2025 10:32:16 until 13.04.2025 15:56:19
+		Duration:	1.05:24:03
+		Location:	43.35316 12.57896
+
+(4) - 0.0 km Super 8.5-Sprint 2.6
+	MMI1LS1
+		Images:	1717
+		Time:	13.04.2025 09:19:46 until 13.04.2025 16:05:45
+		Duration:	06:45:59
+		Location:	43.35316 12.57896
+
+(5) - Obstacle 3 A-Frame
+	DEC1
+		Images:	4183
+		Time:	13.04.2025 09:34:26 until 13.04.2025 16:01:39
+		Duration:	06:27:13
+		Location:	43.35337 12.57854
+
+(6) - Obstacle 4 Dunk Wall
+	MCO1
+		Images:	5322
+		Time:	12.04.2025 09:36:56 until 13.04.2025 16:16:52
+		Duration:	1.06:39:56
+		Location:	43.35345 12.57291
+
+(7) - Obstacle 5 Barbed Wire #2
+	FBO1
+		Images:	3964
+		Time:	12.04.2025 08:35:33 until 13.04.2025 16:28:32
+		Duration:	1.07:52:59
+		Location:	43.35105 12.57112
+
+(8) - Obstacle 6 Armer
+	MAC1
+		Images:	2340
+		Time:	13.04.2025 09:47:44 until 13.04.2025 16:38:58
+		Duration:	06:51:14
+		Location:	43.35089 12.57142
+
+(9) - Obstacle 7 Bucket Carry
+	CSI1
+		Images:	3487
+		Time:	12.04.2025 09:30:49 until 13.04.2025 16:49:21
+		Duration:	1.07:18:32
+		Location:	43.35121 12.57331
+
+	CSI1LS2
+		Images:	2386
+		Time:	13.04.2025 09:53:06 until 13.04.2025 16:10:54
+		Duration:	06:17:48
+		Location:	43.35121 12.57331
+
+	CSI1LS1
+		Images:	2672
+		Time:	13.04.2025 09:51:33 until 13.04.2025 16:10:40
+		Duration:	06:19:07
+		Location:	43.35121 12.57331
+
+(10) - Obstacle 7 Fire Jump
+	BRP1
+		Images:	2775
+		Time:	12.04.2025 09:43:26 until 13.04.2025 16:57:05
+		Duration:	1.07:13:39
+		Location:	43.35242 12.57318
+
+	BRP1LS1
+		Images:	3185
+		Time:	13.04.2025 08:02:05 until 13.04.2025 16:57:11
+		Duration:	08:55:06
+		Location:	43.35242 12.57318
+
+(11) - Herotent
+	FOS1
+		Images:	2372
+		Time:	12.04.2025 08:18:45 until 13.04.2025 16:59:54
+		Duration:	1.08:41:09
+		Location:	43.35270 12.57345
+

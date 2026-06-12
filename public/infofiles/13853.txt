@@ -1,0 +1,60 @@
+EventId: 13853
+Spots: 9
+Total Images: 23691
+Time:	13.09.2025 07:24:33 to 13.09.2025 14:41:35
+Duration: 07:17:02
+
+(1) - START
+	OHAL2
+		Images:	374
+		Time:	13.09.2025 07:40:15 until 13.09.2025 10:41:01
+		Duration:	03:00:46
+		Location:	52.80922 -8.44145
+
+(2) - BIKE
+	SOUG1
+		Images:	3335
+		Time:	13.09.2025 08:19:10 until 13.09.2025 11:21:45
+		Duration:	03:02:35
+		Location:	52.85044 -8.40304
+
+	LEHE1
+		Images:	5647
+		Time:	13.09.2025 07:24:33 until 13.09.2025 14:16:43
+		Duration:	06:52:10
+		Location:	52.83613 -8.46671
+
+(3) - Run - Transition zone RUN
+	JOEM1
+		Images:	5921
+		Time:	13.09.2025 10:03:46 until 13.09.2025 13:57:01
+		Duration:	03:53:15
+		Location:	52.83532 -8.47583
+
+(4) - Finish
+	OHAL1
+		Images:	5001
+		Time:	13.09.2025 07:40:47 until 13.09.2025 14:41:35
+		Duration:	07:00:48
+		Location:	52.80922 -8.44145
+
+	OHAL2LS2
+		Images:	879
+		Time:	13.09.2025 10:59:18 until 13.09.2025 14:08:45
+		Duration:	03:09:27
+		Location:	52.80922 -8.44145
+
+	OHAL2LS1
+		Images:	887
+		Time:	13.09.2025 11:19:57 until 13.09.2025 14:09:12
+		Duration:	02:49:15
+		Location:	52.80922 -8.44145
+
+	SOUG2
+		Images:	1647
+		Time:	13.09.2025 12:05:59 until 13.09.2025 14:05:06
+		Duration:	01:59:07
+		Location:	52.80922 -8.44145
+
+(5) - Swim - Impressions / Pano
+	PANO1

@@ -1,0 +1,193 @@
+EventId: 14634
+Spots: 29
+Total Images: 198354
+Time:	24.05.2025 07:49:39 to 24.05.2025 19:00:37
+Duration: 11:10:58
+
+(1) - Start
+	GUD1
+		Images:	257
+		Time:	24.05.2025 13:07:22 until 24.05.2025 13:35:36
+		Duration:	00:28:14
+		Location:	52.21310 13.52257
+
+(2) - Obstacle 4 Juicy Jumper
+	EBO1
+		Images:	10724
+		Time:	24.05.2025 09:47:25 until 24.05.2025 17:12:47
+		Duration:	07:25:22
+		Location:	52.20968 13.53712
+
+(3) - Obstacle 5 Rotten River
+	JOHS1
+		Images:	8811
+		Time:	24.05.2025 09:53:20 until 24.05.2025 17:11:44
+		Duration:	07:18:24
+		Location:	52.20989 13.53811
+
+	RYS1
+		Images:	9737
+		Time:	24.05.2025 10:00:47 until 24.05.2025 17:11:40
+		Duration:	07:10:53
+		Location:	52.20989 13.53811
+
+(4) - Obstacle 6 Barbwire Battle
+	AGA1
+		Images:	23556
+		Time:	24.05.2025 09:57:23 until 24.05.2025 17:25:40
+		Duration:	07:28:17
+		Location:	52.20972 13.53924
+
+	NH1
+		Images:	16885
+		Time:	24.05.2025 09:16:55 until 24.05.2025 17:16:29
+		Duration:	07:59:34
+		Location:	52.20972 13.53924
+
+(5) - Obstacle 8 Freak Froster
+	SJK1
+		Images:	8493
+		Time:	24.05.2025 09:11:37 until 24.05.2025 17:32:22
+		Duration:	08:20:45
+		Location:	52.20886 13.54459
+
+	LEM1
+		Images:	9381
+		Time:	24.05.2025 09:41:18 until 24.05.2025 17:32:29
+		Duration:	07:51:11
+		Location:	52.20886 13.54459
+
+(6) - Obstacle 10 Blue Beast
+	MIRW1
+		Images:	9495
+		Time:	24.05.2025 09:16:31 until 24.05.2025 17:41:39
+		Duration:	08:25:08
+		Location:	52.21067 13.53757
+
+(7) - Obstacle 12 Muddy Maniacs
+	JUSE1
+		Images:	13055
+		Time:	24.05.2025 09:55:49 until 24.05.2025 18:00:07
+		Duration:	08:04:18
+		Location:	52.21292 13.52450
+
+(8) - Running track between Obstacle 17 and 18
+	MFR1LS1
+		Images:	10112
+		Time:	24.05.2025 10:15:43 until 24.05.2025 17:32:11
+		Duration:	07:16:28
+		Location:	52.21008 13.54054
+
+(9) - Obstacle 18 Clumsy Cliffhanger
+	LIW1
+		Images:	4655
+		Time:	24.05.2025 09:11:39 until 24.05.2025 16:35:02
+		Duration:	07:23:23
+		Location:	52.21008 13.54054
+
+	MFR1
+		Images:	6778
+		Time:	24.05.2025 10:25:50 until 24.05.2025 17:34:53
+		Duration:	07:09:03
+		Location:	52.21008 13.54054
+
+(10) - Running track between Obstacle 19 and 20
+	LEM1LS1
+		Images:	4264
+		Time:	24.05.2025 09:27:47 until 24.05.2025 17:34:37
+		Duration:	08:06:50
+		Location:	52.20860 13.54498
+
+	LEM1LS2
+		Images:	4280
+		Time:	24.05.2025 09:27:47 until 24.05.2025 17:35:05
+		Duration:	08:07:18
+		Location:	52.20860 13.54498
+
+(11) - Obstacle 21 Speed Slide
+	RYS1LS1
+		Images:	2905
+		Time:	24.05.2025 09:39:50 until 24.05.2025 17:53:29
+		Duration:	08:13:39
+		Location:	52.20821 13.53724
+
+	RYS1LS2
+		Images:	2794
+		Time:	24.05.2025 07:49:39 until 24.05.2025 18:19:27
+		Duration:	10:29:48
+		Location:	52.20821 13.53724
+
+(12) - Running track between Obstacle 23 and 24
+	ROH1LS1
+		Images:	4015
+		Time:	24.05.2025 09:27:54 until 24.05.2025 19:00:30
+		Duration:	09:32:36
+		Location:	52.21298 13.52010
+
+	ROH1LS2
+		Images:	3975
+		Time:	24.05.2025 09:27:39 until 24.05.2025 19:00:31
+		Duration:	09:32:52
+		Location:	52.21298 13.52010
+
+(13) - Obstacle 33 Boulder Box
+	CM1
+		Images:	4609
+		Time:	24.05.2025 09:12:59 until 24.05.2025 18:55:37
+		Duration:	09:42:38
+		Location:	52.21396 13.51873
+
+(14) - Running track between Obstacle 33 and 34
+	CM1LS1
+		Images:	1919
+		Time:	24.05.2025 10:12:56 until 24.05.2025 18:24:41
+		Duration:	08:11:45
+		Location:	52.21398 13.51907
+
+(15) - Running track Finish straight
+	TIH1LS1
+		Images:	14374
+		Time:	24.05.2025 09:20:07 until 24.05.2025 18:40:10
+		Duration:	09:20:03
+		Location:	52.21337 13.52024
+
+(16) - Finish
+	JRE1
+		Images:	9236
+		Time:	24.05.2025 08:52:56 until 24.05.2025 19:00:37
+		Duration:	10:07:41
+		Location:	52.21335 13.52103
+
+	GUD1LS1
+		Images:	4197
+		Time:	24.05.2025 10:03:31 until 24.05.2025 18:59:00
+		Duration:	08:55:29
+		Location:	52.21335 13.52103
+
+	GUD1LS2
+		Images:	3992
+		Time:	24.05.2025 10:08:50 until 24.05.2025 18:58:55
+		Duration:	08:50:05
+		Location:	52.21335 13.52103
+
+(17) - Herotent
+	ROH1
+		Images:	3209
+		Time:	24.05.2025 10:13:23 until 24.05.2025 18:53:09
+		Duration:	08:39:46
+		Location:	52.21335 13.52103
+
+	TIH1
+		Images:	2635
+		Time:	24.05.2025 08:58:24 until 24.05.2025 19:00:37
+		Duration:	10:02:13
+		Location:	52.21335 13.52103
+
+(18) - Impressions / Pano
+	GUD1DRONE1
+		Images:	11
+		Time:	24.05.2025 13:47:36 until 24.05.2025 13:54:27
+		Duration:	00:06:51
+		Location:	52.21335 13.52103
+
+	PANO1

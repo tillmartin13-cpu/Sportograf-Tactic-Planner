@@ -1,0 +1,255 @@
+EventId: 15940
+Spots: 41
+Total Images: 232852
+Time:	01.01.0001 23:00:00 to 19.04.2025 21:23:33
+Duration: 739358.22:23:33
+
+(1) - Impressions / Pano
+	PANO1
+(2) - 1.0 mi N Peters & Canal St.
+	GPCON1
+		Images:	3790
+		Time:	19.04.2025 07:26:48 until 19.04.2025 09:10:21
+		Duration:	01:43:33
+		Location:	29.95125 -90.06649
+
+	GRAON1
+		Images:	293
+		Time:	19.04.2025 08:04:36 until 19.04.2025 08:51:06
+		Duration:	00:46:30
+		Location:	29.95125 -90.06649
+
+	GRAON2
+		Images:	2618
+		Time:	19.04.2025 08:05:24 until 19.04.2025 09:10:35
+		Duration:	01:05:11
+		Location:	29.95125 -90.06649
+
+	GAVON1
+		Images:	3309
+		Time:	19.04.2025 08:04:29 until 19.04.2025 09:09:55
+		Duration:	01:05:26
+		Location:	29.95125 -90.06649
+
+	GLSON1
+		Images:	2321
+		Time:	19.04.2025 07:04:31 until 19.04.2025 09:10:21
+		Duration:	02:05:50
+		Location:	29.95125 -90.06649
+
+(3) - 1.5 mi Jackson Square
+	GDTTW1
+		Images:	8188
+		Time:	19.04.2025 08:07:01 until 19.04.2025 09:27:30
+		Duration:	01:20:29
+		Location:	29.95757 -90.06354
+
+	GTPTW1
+		Images:	4719
+		Time:	18.04.2025 19:35:09 until 18.04.2025 21:11:34
+		Duration:	01:36:25
+		Location:	29.95757 -90.06354
+
+	GLBTW1
+		Images:	5851
+		Time:	18.04.2025 08:49:12 until 18.04.2025 10:23:41
+		Duration:	01:34:29
+		Location:	29.95757 -90.06354
+
+	GLSTW1
+		Images:	4643
+		Time:	19.04.2025 19:33:09 until 19.04.2025 21:23:33
+		Duration:	01:50:24
+		Location:	29.95757 -90.06354
+
+(4) - 4.3 mi Esplanade Ave & N Carrollton Ave
+	GJHTH1
+		Images:	5518
+		Time:	19.04.2025 08:21:41 until 19.04.2025 10:49:48
+		Duration:	02:28:07
+		Location:	29.98401 -90.09062
+
+	GEVTH1
+		Images:	4806
+		Time:	19.04.2025 08:21:16 until 19.04.2025 09:32:29
+		Duration:	01:11:13
+		Location:	29.98401 -90.09062
+
+	GEVTH2
+		Images:	2521
+		Time:	19.04.2025 09:34:10 until 19.04.2025 10:44:34
+		Duration:	01:10:24
+		Location:	29.98401 -90.09062
+
+	GJLTH1
+		Images:	8256
+		Time:	19.04.2025 08:21:25 until 19.04.2025 10:49:33
+		Duration:	02:28:08
+		Location:	29.98401 -90.09062
+
+(5) - 6.0 mi overhead camera
+	GISMA1
+		Images:	12229
+		Time:	19.04.2025 08:06:21 until 19.04.2025 09:50:40
+		Duration:	01:44:19
+		Location:	29.98511 -90.09195
+
+	GISMA2
+		Images:	10411
+		Time:	19.04.2025 09:51:43 until 19.04.2025 11:30:09
+		Duration:	01:38:26
+		Location:	29.98511 -90.09195
+
+	GFRMA1
+		Images:	23685
+		Time:	19.04.2025 08:30:46 until 19.04.2025 11:35:37
+		Duration:	03:04:51
+		Location:	29.98511 -90.09195
+
+	GLSMA1
+		Images:	10737
+		Time:	19.04.2025 08:37:43 until 19.04.2025 12:29:50
+		Duration:	03:52:07
+		Location:	29.98511 -90.09195
+
+(6) - 6.1 mi Lelong Dr
+	GJMPF1
+		Images:	9540
+		Time:	19.04.2025 08:07:17 until 19.04.2025 11:40:55
+		Duration:	03:33:38
+		Location:	29.98569 -90.09278
+
+	GJCPF1
+		Images:	10668
+		Time:	19.04.2025 07:11:55 until 19.04.2025 10:30:42
+		Duration:	03:18:47
+		Location:	29.98569 -90.09278
+
+	GRBPF1
+		Images:	8138
+		Time:	19.04.2025 07:56:49 until 19.04.2025 11:29:38
+		Duration:	03:32:49
+		Location:	29.98569 -90.09278
+
+	GRAPF1
+		Images:	826
+		Time:	19.04.2025 10:12:28 until 19.04.2025 10:59:18
+		Duration:	00:46:50
+		Location:	29.98569 -90.09278
+
+(7) - 6.2 mi Lelong Dr
+	GLSPR1
+		Images:	11809
+		Time:	19.04.2025 07:51:00 until 19.04.2025 12:40:13
+		Duration:	04:49:13
+		Location:	29.98569 -90.09278
+
+	GLSPL1
+		Images:	12210
+		Time:	01.01.0001 23:00:00 until 19.04.2025 08:05:23
+		Duration:	739358.09:05:23
+		Location:	29.98569 -90.09278
+
+(8) - Finish
+	GGGFN1
+		Images:	14594
+		Time:	19.04.2025 07:56:31 until 19.04.2025 10:44:34
+		Duration:	02:48:03
+		Location:	29.98588 -90.09304
+
+	GGGFN2
+		Images:	2144
+		Time:	19.04.2025 10:46:16 until 19.04.2025 11:33:00
+		Duration:	00:46:44
+		Location:	29.98588 -90.09304
+
+	GAWFN1
+		Images:	7787
+		Time:	19.04.2025 06:57:09 until 19.04.2025 10:31:27
+		Duration:	03:34:18
+		Location:	29.98588 -90.09304
+
+	GRAFN1
+		Images:	330
+		Time:	19.04.2025 11:00:40 until 19.04.2025 11:29:08
+		Duration:	00:28:28
+		Location:	29.98588 -90.09304
+
+	GLSFR1
+		Images:	11368
+		Time:	19.04.2025 07:20:25 until 19.04.2025 11:34:30
+		Duration:	04:14:05
+		Location:	29.98588 -90.09304
+
+	GLSFL1
+		Images:	10896
+		Time:	19.04.2025 08:29:17 until 19.04.2025 11:33:48
+		Duration:	03:04:31
+		Location:	29.98588 -90.09304
+
+	GCBME1
+		Images:	6168
+		Time:	19.04.2025 07:12:52 until 19.04.2025 10:17:54
+		Duration:	03:05:02
+		Location:	29.98588 -90.09304
+
+	GCOME1
+		Images:	1517
+		Time:	19.04.2025 07:58:53 until 19.04.2025 11:44:05
+		Duration:	03:45:12
+		Location:	29.98588 -90.09304
+
+	GPNME1
+		Images:	1632
+		Time:	19.04.2025 07:27:12 until 19.04.2025 11:34:50
+		Duration:	04:07:38
+		Location:	29.98588 -90.09304
+
+	GARME1
+		Images:	371
+		Time:	19.04.2025 06:51:50 until 19.04.2025 08:58:46
+		Duration:	02:06:56
+		Location:	29.98588 -90.09304
+
+	GCWME1
+		Images:	2195
+		Time:	19.04.2025 08:38:33 until 19.04.2025 11:36:40
+		Duration:	02:58:07
+		Location:	29.98588 -90.09304
+
+	GMLME1
+		Images:	1805
+		Time:	18.03.2025 21:48:35 until 19.03.2025 01:18:39
+		Duration:	03:30:04
+		Location:	29.98588 -90.09304
+
+	GCMME1
+		Images:	1681
+		Time:	19.04.2025 09:19:19 until 19.04.2025 12:29:27
+		Duration:	03:10:08
+		Location:	29.98588 -90.09304
+
+	GRWME1
+		Images:	1134
+		Time:	18.04.2025 19:02:41 until 18.04.2025 22:38:47
+		Duration:	03:36:06
+		Location:	29.98588 -90.09304
+
+	GTHME1
+		Images:	904
+		Time:	19.04.2025 08:44:38 until 19.04.2025 11:20:19
+		Duration:	02:35:41
+		Location:	29.98588 -90.09304
+
+	GBPME1
+		Images:	722
+		Time:	18.04.2025 20:56:24 until 18.04.2025 23:52:49
+		Duration:	02:56:25
+		Location:	29.98588 -90.09304
+
+	GRAOT1
+		Images:	518
+		Time:	19.04.2025 10:39:01 until 19.04.2025 12:07:23
+		Duration:	01:28:22
+		Location:	29.98880 -90.09041
+

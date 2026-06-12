@@ -1,0 +1,115 @@
+EventId: 14229
+Spots: 17
+Total Images: 101687
+Time:	17.05.2025 10:34:29 to 17.05.2025 20:15:55
+Duration: 09:41:26
+
+(1) - Start
+	MFR1
+		Images:	6772
+		Time:	17.05.2025 12:51:29 until 17.05.2025 19:20:50
+		Duration:	06:29:21
+		Location:	52.51588 13.37192
+
+	BL1
+		Images:	15340
+		Time:	17.05.2025 10:34:29 until 17.05.2025 19:20:48
+		Duration:	08:46:19
+		Location:	52.51589 13.37199
+
+(2) - Finish
+	MFR1LS1
+		Images:	6852
+		Time:	17.05.2025 11:54:23 until 17.05.2025 19:14:57
+		Duration:	07:20:34
+		Location:	52.51588 13.37192
+
+	BL1LS1
+		Images:	1728
+		Time:	17.05.2025 13:42:17 until 17.05.2025 17:51:43
+		Duration:	04:09:26
+		Location:	52.51589 13.37199
+
+(3) - 4,0 km
+	GA1
+		Images:	4394
+		Time:	17.05.2025 14:18:44 until 17.05.2025 16:41:55
+		Duration:	02:23:11
+		Location:	52.51495 13.36893
+
+(4) - 1,5 km
+	MOIK1
+		Images:	5233
+		Time:	17.05.2025 12:20:14 until 17.05.2025 18:13:19
+		Duration:	05:53:05
+		Location:	52.51322 13.35054
+
+	CRIC1
+		Images:	6475
+		Time:	17.05.2025 12:59:42 until 17.05.2025 18:13:18
+		Duration:	05:13:36
+		Location:	52.51353 13.35044
+
+	CRIC1LS1
+		Images:	1652
+		Time:	17.05.2025 13:35:18 until 17.05.2025 18:13:31
+		Duration:	04:38:13
+		Location:	52.51353 13.35044
+
+	CRIC1LS2
+		Images:	1654
+		Time:	17.05.2025 13:35:18 until 17.05.2025 18:13:32
+		Duration:	04:38:14
+		Location:	52.51353 13.35044
+
+(5) - 2,0 km
+	FDC1
+		Images:	3787
+		Time:	17.05.2025 11:50:22 until 17.05.2025 15:55:30
+		Duration:	04:05:08
+		Location:	52.51052 13.35389
+
+(6) - 3,5 km
+	JRE1
+		Images:	14982
+		Time:	17.05.2025 11:50:49 until 17.05.2025 18:36:33
+		Duration:	06:45:44
+		Location:	52.51184 13.36539
+
+(7) - 7,3 km
+	FDC2
+		Images:	5148
+		Time:	17.05.2025 17:35:07 until 17.05.2025 18:46:46
+		Duration:	01:11:39
+		Location:	52.51198 13.35928
+
+(8) - 8,6 km
+	GA2
+		Images:	7615
+		Time:	17.05.2025 18:26:23 until 17.05.2025 20:15:55
+		Duration:	01:49:32
+		Location:	52.51495 13.36893
+
+(9) - 4,2 km
+	FAW1
+		Images:	6857
+		Time:	17.05.2025 12:12:33 until 17.05.2025 19:07:42
+		Duration:	06:55:09
+		Location:	52.51495 13.36893
+
+(10) - 4,5 km
+	FKE1
+		Images:	5503
+		Time:	17.05.2025 11:54:23 until 17.05.2025 19:13:39
+		Duration:	07:19:16
+		Location:	52.51324 13.37028
+
+(11) - 4,9 km
+	ABRI1
+		Images:	7695
+		Time:	17.05.2025 12:09:12 until 17.05.2025 19:09:16
+		Duration:	07:00:04
+		Location:	52.51593 13.37347
+
+(12) - Impressions / Pano
+	PANO1

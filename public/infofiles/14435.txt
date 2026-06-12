@@ -1,0 +1,129 @@
+EventId: 14435
+Spots: 18
+Total Images: 121652
+Time:	14.03.2025 19:13:20 to 17.03.2025 02:26:57
+Duration: 2.07:13:37
+
+(1) - HELIX #3
+	KAH1
+		Images:	5592
+		Time:	16.03.2025 06:14:39 until 16.03.2025 13:19:27
+		Duration:	07:04:48
+		Location:	33.67414 -83.94451
+
+	NADA1
+		Images:	3097
+		Time:	16.03.2025 09:12:24 until 16.03.2025 13:05:46
+		Duration:	03:53:22
+		Location:	33.67414 -83.94451
+
+(2) - MONKEY BARS #4
+	ISAK1
+		Images:	8238
+		Time:	15.03.2025 06:44:01 until 16.03.2025 13:23:02
+		Duration:	1.06:39:01
+		Location:	33.67568 -83.94583
+
+(3) - BUCKET CARRY #13
+	MCKR1
+		Images:	9723
+		Time:	16.03.2025 06:38:52 until 16.03.2025 14:03:08
+		Duration:	07:24:16
+		Location:	33.67394 -83.95134
+
+(4) - TITAN FITNESS MULTI-RIG #14
+	STRO1
+		Images:	4200
+		Time:	15.03.2025 06:21:31 until 16.03.2025 14:03:20
+		Duration:	1.07:41:49
+		Location:	33.67373 -83.94953
+
+	VICY1
+		Images:	4269
+		Time:	16.03.2025 07:26:04 until 16.03.2025 14:05:59
+		Duration:	06:39:55
+		Location:	33.67373 -83.94953
+
+(5) - BERBED WIRE CRAWL #15
+	SITO1
+		Images:	7745
+		Time:	15.03.2025 06:35:53 until 16.03.2025 14:11:18
+		Duration:	1.07:35:25
+		Location:	33.67337 -83.94889
+
+(6) - ATLAS CARRY #18
+	CHIT1
+		Images:	5586
+		Time:	16.03.2025 18:51:20 until 17.03.2025 02:26:57
+		Duration:	07:35:37
+		Location:	33.67142 -83.94474
+
+	WILM1
+		Images:	6862
+		Time:	16.03.2025 06:40:05 until 16.03.2025 14:33:58
+		Duration:	07:53:53
+		Location:	33.67142 -83.94474
+
+(7) - SLIP WALL #29
+	JMCK1
+		Images:	9133
+		Time:	16.03.2025 07:03:12 until 16.03.2025 15:09:41
+		Duration:	08:06:29
+		Location:	33.67182 -83.94385
+
+(8) - CRAFT A FRAME CARGO #30
+	BESC1
+		Images:	15175
+		Time:	15.03.2025 06:07:40 until 16.03.2025 15:11:31
+		Duration:	1.09:03:51
+		Location:	33.67216 -83.94432
+
+(9) - FIRE JUMP #31
+	RUHO1
+		Images:	23678
+		Time:	16.03.2025 06:45:49 until 16.03.2025 15:12:40
+		Duration:	08:26:51
+		Location:	33.67226 -83.94455
+
+(10) - HERO TENT
+	EMBA1
+		Images:	4416
+		Time:	15.03.2025 06:32:26 until 16.03.2025 15:14:01
+		Duration:	1.08:41:35
+		Location:	33.67260 -83.94472
+
+(11) - MILE 1 TRAIL RUN
+	VICY2
+		Images:	858
+		Time:	16.03.2025 06:24:31 until 16.03.2025 07:03:08
+		Duration:	00:38:37
+		Location:	33.67260 -83.94849
+
+(12) - MILE 2 TRAIL RUN
+	SICA3
+		Images:	6788
+		Time:	14.03.2025 19:13:20 until 16.03.2025 07:18:16
+		Duration:	1.12:04:56
+		Location:	33.66893 -83.93667
+
+(13) - MILE 5 TRAIL RUN
+	NADA2
+		Images:	1007
+		Time:	16.03.2025 06:52:26 until 16.03.2025 08:26:24
+		Duration:	01:33:58
+		Location:	33.67541 -83.92907
+
+(14) - MILE 6 TRAIL RUN
+	SICA2
+		Images:	5072
+		Time:	16.03.2025 07:18:17 until 16.03.2025 08:15:33
+		Duration:	00:57:16
+		Location:	33.67105 -83.93822
+
+(15) - Impressions / Pano
+	SICA1
+		Images:	213
+		Time:	15.03.2025 07:18:58 until 16.03.2025 12:06:09
+		Duration:	1.04:47:11
+		Location:	33.67260 -83.94472
+

@@ -1,0 +1,69 @@
+EventId: 14155
+Spots: 9
+Total Images: 42428
+Time:	17.05.2025 20:35:45 to 18.05.2025 18:28:42
+Duration: 21:52:57
+
+(1) - 2,2 km Cote de Marlaires
+	MTR1
+		Images:	11627
+		Time:	17.05.2025 20:35:45 until 18.05.2025 12:09:02
+		Duration:	15:33:17
+		Location:	50.42547 4.76794
+
+(2) - 6,0 km Bois de la Haute-Marlagne
+	BAR1
+		Images:	3300
+		Time:	17.05.2025 22:00:06 until 18.05.2025 12:23:20
+		Duration:	14:23:14
+		Location:	50.39977 4.7919
+
+(3) - 18,5 km Triple Mur de Monty
+	PBO1
+		Images:	3094
+		Time:	18.05.2025 08:20:57 until 18.05.2025 12:54:31
+		Duration:	04:33:34
+		Location:	50.38607 4.89437
+
+(4) - 31,0 km Gayolle
+	BC1
+		Images:	3063
+		Time:	18.05.2025 08:03:35 until 18.05.2025 12:44:32
+		Duration:	04:40:57
+		Location:	50.33269 4.9008
+
+(5) - 130,0 km Rue d'Arbre - KM 90 Medium Distance
+	PBO2
+		Images:	2137
+		Time:	18.05.2025 13:29:39 until 18.05.2025 16:40:11
+		Duration:	03:10:32
+		Location:	50.35406 4.80821
+
+(6) - 141,0 km Brasserie de la Houppe
+	BC2
+		Images:	428
+		Time:	18.05.2025 13:32:07 until 18.05.2025 14:15:44
+		Duration:	00:43:37
+		Location:	50.40753 4.84131
+
+(7) - 141,5 km 500m after Brasserie Houppe
+	BC3
+		Images:	2335
+		Time:	18.05.2025 14:21:40 until 18.05.2025 16:45:37
+		Duration:	02:23:57
+		Location:	50.40568 4.84628
+
+(8) - 155,0 km Citadelle de Namur - KM 114 Medium Distance - KM66 Short Distance
+	BAR2
+		Images:	6127
+		Time:	18.05.2025 13:06:18 until 18.05.2025 17:50:05
+		Duration:	04:43:47
+		Location:	50.46032 4.86498
+
+(9) - Finish
+	MTR2
+		Images:	10317
+		Time:	18.05.2025 12:36:41 until 18.05.2025 18:28:42
+		Duration:	05:52:01
+		Location:	50.43646 4.75882
+

@@ -1,0 +1,107 @@
+EventId: 16145
+Spots: 15
+Total Images: 51751
+Time:	25.10.2025 07:09:39 to 26.10.2025 13:57:15
+Duration: 1.06:47:36
+
+(1) - Obstacle 15 Barbed Wire Crawl #2
+	BESC1
+		Images:	7264
+		Time:	25.10.2025 07:42:29 until 26.10.2025 12:49:31
+		Duration:	1.05:07:02
+		Location:	38.40039 -78.75959
+
+(2) - Obstacle 17 Bucket Carry
+	WMY1
+		Images:	3374
+		Time:	25.10.2025 07:43:27 until 26.10.2025 12:37:50
+		Duration:	1.04:54:23
+		Location:	38.39994 -78.75906
+
+(3) - Obstacle 19 Plate Drag
+	CCZ1
+		Images:	4255
+		Time:	25.10.2025 08:26:37 until 26.10.2025 13:01:39
+		Duration:	1.04:35:02
+		Location:	38.40338 -78.75521
+
+	IZZY1
+		Images:	3762
+		Time:	25.10.2025 07:58:23 until 26.10.2025 12:59:36
+		Duration:	1.05:01:13
+		Location:	38.40338 -78.75521
+
+(4) - Obstacle 21 Helix
+	YEP1
+		Images:	2757
+		Time:	25.10.2025 08:09:06 until 26.10.2025 12:23:01
+		Duration:	1.04:13:55
+		Location:	38.40084 -78.75503
+
+	EUGP1
+		Images:	1653
+		Time:	25.10.2025 08:08:58 until 26.10.2025 13:14:07
+		Duration:	1.05:05:09
+		Location:	38.40084 -78.75503
+
+(5) - Obstacle 22 Sandbag Carry
+	GAUB1
+		Images:	3005
+		Time:	26.10.2025 06:45:01 until 26.10.2025 13:24:29
+		Duration:	06:39:28
+		Location:	38.40066 -78.75560
+
+(6) - Obstacle 24 Monkey Bars
+	TYHA1
+		Images:	9437
+		Time:	25.10.2025 07:09:39 until 26.10.2025 13:41:05
+		Duration:	1.06:31:26
+		Location:	38.40182 -78.75664
+
+	SWDY1
+		Images:	5672
+		Time:	26.10.2025 06:46:05 until 26.10.2025 13:41:07
+		Duration:	06:55:02
+		Location:	38.40182 -78.75664
+
+(7) - Obstacle 26 A-Frame Cargo
+	MRKE1
+		Images:	3904
+		Time:	25.10.2025 07:20:47 until 26.10.2025 13:53:13
+		Duration:	1.06:32:26
+		Location:	38.40361 -78.75423
+
+(8) - Obstacle 26 Fire Jump
+	AAD1
+		Images:	2805
+		Time:	25.10.2025 07:36:10 until 26.10.2025 13:54:43
+		Duration:	1.06:18:33
+		Location:	38.40335 -78.75386
+
+	VICY1LS2
+		Images:	1049
+		Time:	26.10.2025 07:06:04 until 26.10.2025 13:22:43
+		Duration:	06:16:39
+		Location:	38.40335 -78.75386
+
+(9) - Herotent
+	ANMF1
+		Images:	1112
+		Time:	26.10.2025 06:47:22 until 26.10.2025 13:57:15
+		Duration:	07:09:53
+		Location:	38.40332 -78.75495
+
+(10) - Venue
+	VICY1
+		Images:	551
+		Time:	25.10.2025 08:56:06 until 26.10.2025 10:21:20
+		Duration:	1.01:25:14
+		Location:	38.40332 -78.75495
+
+(11) - Foliage
+	VICY1LS1
+		Images:	1151
+		Time:	26.10.2025 07:31:07 until 26.10.2025 13:14:05
+		Duration:	05:42:58
+		Location:	38.40262 -78.75539
+

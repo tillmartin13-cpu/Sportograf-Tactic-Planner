@@ -1,0 +1,320 @@
+EventId: 14841
+Spots: 51
+Total Images: 287072
+Time:	01.01.0001 23:00:00 to 06.04.2025 16:35:56
+Duration: 739345.17:35:56
+
+(1) - Warm up - Pre Race Selfie
+	JOS1
+		Images:	2266
+		Time:	04.04.2025 12:27:06 until 05.04.2025 21:03:46
+		Duration:	1.08:36:40
+		Location:	51.02775 4.50002
+
+(2) - Station 1 SKIERG
+	STL1
+		Images:	8472
+		Time:	05.04.2025 08:07:22 until 05.04.2025 14:28:01
+		Duration:	06:20:39
+		Location:	51.02775 4.50002
+
+	VL1
+		Images:	11213
+		Time:	05.04.2025 07:40:08 until 05.04.2025 14:28:26
+		Duration:	06:48:18
+		Location:	51.02775 4.50002
+
+	LV4
+		Images:	653
+		Time:	05.04.2025 14:28:25 until 05.04.2025 14:43:40
+		Duration:	00:15:15
+		Location:	51.02775 4.50002
+
+	BENP2
+		Images:	12137
+		Time:	05.04.2025 15:09:09 until 05.04.2025 21:12:20
+		Duration:	06:03:11
+		Location:	51.02775 4.50002
+
+	MSC2
+		Images:	5524
+		Time:	05.04.2025 15:07:02 until 05.04.2025 21:10:29
+		Duration:	06:03:27
+		Location:	51.02775 4.50002
+
+(3) - Station 2 SLED PUSH
+	MIV1
+		Images:	10751
+		Time:	05.04.2025 08:01:52 until 05.04.2025 14:34:36
+		Duration:	06:32:44
+		Location:	51.02775 4.50002
+
+	AGU1
+		Images:	3757
+		Time:	05.04.2025 08:43:23 until 05.04.2025 14:41:48
+		Duration:	05:58:25
+		Location:	51.02775 4.50002
+
+	MSC1
+		Images:	1890
+		Time:	05.04.2025 07:25:40 until 05.04.2025 14:41:06
+		Duration:	07:15:26
+		Location:	51.02775 4.50002
+
+	FAH2
+		Images:	1817
+		Time:	05.04.2025 14:35:35 until 05.04.2025 21:20:17
+		Duration:	06:44:42
+		Location:	51.02775 4.50002
+
+	ACCA2
+		Images:	4590
+		Time:	05.04.2025 14:47:58 until 05.04.2025 21:16:56
+		Duration:	06:28:58
+		Location:	51.02775 4.50002
+
+	OT2
+		Images:	6293
+		Time:	05.04.2025 07:51:13 until 05.04.2025 21:17:27
+		Duration:	13:26:14
+		Location:	51.02775 4.50002
+
+(4) - RUN OUT BETWEEN SLED PUSH-SLED PULL
+	MK1LS1
+		Images:	2887
+		Time:	05.04.2025 08:16:43 until 05.04.2025 21:35:20
+		Duration:	13:18:37
+		Location:	51.02775 4.50002
+
+	MK1LS2
+		Images:	3053
+		Time:	05.04.2025 08:05:02 until 05.04.2025 21:35:12
+		Duration:	13:30:10
+		Location:	51.02775 4.50002
+
+(5) - Station 3 SLED PULL
+	SJA1
+		Images:	2905
+		Time:	05.04.2025 08:43:38 until 06.04.2025 08:00:55
+		Duration:	23:17:17
+		Location:	51.02775 4.50002
+
+	BENL1
+		Images:	2823
+		Time:	05.04.2025 08:19:03 until 06.04.2025 07:58:03
+		Duration:	23:39:00
+		Location:	51.02775 4.50002
+
+	BENP1
+		Images:	3350
+		Time:	04.04.2025 23:21:21 until 05.04.2025 14:42:37
+		Duration:	15:21:16
+		Location:	51.02775 4.50002
+
+	MK3
+		Images:	108
+		Time:	05.04.2025 14:46:05 until 05.04.2025 14:54:31
+		Duration:	00:08:26
+		Location:	51.02775 4.50002
+
+	MBEN2
+		Images:	3993
+		Time:	05.04.2025 14:53:56 until 06.04.2025 16:35:56
+		Duration:	1.01:42:00
+		Location:	51.02775 4.50002
+
+	WEN2
+		Images:	5230
+		Time:	05.04.2025 14:53:23 until 05.04.2025 21:28:28
+		Duration:	06:35:05
+		Location:	51.02775 4.50002
+
+	ALN2
+		Images:	8919
+		Time:	05.04.2025 15:24:31 until 05.04.2025 21:30:16
+		Duration:	06:05:45
+		Location:	51.02775 4.50002
+
+	WIP2
+		Images:	129
+		Time:	05.04.2025 14:42:00 until 05.04.2025 15:03:35
+		Duration:	00:21:35
+		Location:	51.02775 4.50002
+
+(6) - Station 4 BURPEE ROAD
+	ALN1
+		Images:	2807
+		Time:	05.04.2025 08:27:42 until 05.04.2025 14:35:34
+		Duration:	06:07:52
+		Location:	51.02775 4.50002
+
+	RM1
+		Images:	3829
+		Time:	05.04.2025 08:43:56 until 05.04.2025 18:33:21
+		Duration:	09:49:25
+		Location:	51.02775 4.50002
+
+	AGU2
+		Images:	8852
+		Time:	05.04.2025 14:55:19 until 05.04.2025 21:39:24
+		Duration:	06:44:05
+		Location:	51.02775 4.50002
+
+(7) - Station 5 ROWING
+	ACCA1
+		Images:	6820
+		Time:	05.04.2025 08:40:21 until 06.04.2025 10:32:35
+		Duration:	1.01:52:14
+		Location:	51.02775 4.50002
+
+	FAH1
+		Images:	4543
+		Time:	05.04.2025 07:58:32 until 05.04.2025 14:29:16
+		Duration:	06:30:44
+		Location:	51.02775 4.50002
+
+	LV1
+		Images:	11105
+		Time:	05.04.2025 09:46:38 until 05.04.2025 19:45:10
+		Duration:	09:58:32
+		Location:	51.02775 4.50002
+
+	MK1
+		Images:	1309
+		Time:	05.04.2025 16:27:55 until 05.04.2025 16:56:28
+		Duration:	00:28:33
+		Location:	51.02775 4.50002
+
+	SJA2
+		Images:	7031
+		Time:	05.04.2025 14:29:38 until 05.04.2025 21:49:16
+		Duration:	07:19:38
+		Location:	51.02775 4.50002
+
+	BENL2
+		Images:	5784
+		Time:	05.04.2025 14:41:18 until 05.04.2025 21:49:54
+		Duration:	07:08:36
+		Location:	51.02775 4.50002
+
+(8) - Station 6 FARMERS CARRY
+	RM2LS1
+		Images:	7878
+		Time:	05.03.2025 06:49:02 until 05.03.2025 20:52:36
+		Duration:	14:03:34
+		Location:	51.02775 4.50002
+
+	AGU2LS1
+		Images:	6745
+		Time:	05.04.2025 07:52:37 until 05.04.2025 22:08:11
+		Duration:	14:15:34
+		Location:	51.02775 4.50002
+
+(9) - Station 7 SANDBAG LUNGES
+	MBEN1
+		Images:	5497
+		Time:	05.04.2025 08:47:05 until 05.04.2025 14:38:29
+		Duration:	05:51:24
+		Location:	51.02775 4.50002
+
+	WEN1
+		Images:	6075
+		Time:	05.04.2025 08:42:34 until 05.04.2025 14:38:34
+		Duration:	05:56:00
+		Location:	51.02775 4.50002
+
+	RM2
+		Images:	6210
+		Time:	05.04.2025 09:21:44 until 05.04.2025 20:12:58
+		Duration:	10:51:14
+		Location:	51.02775 4.50002
+
+	LV2
+		Images:	4965
+		Time:	05.04.2025 10:19:28 until 05.04.2025 21:01:50
+		Duration:	10:42:22
+		Location:	51.02775 4.50002
+
+	STL2
+		Images:	11030
+		Time:	05.04.2025 14:41:46 until 05.04.2025 22:12:06
+		Duration:	07:30:20
+		Location:	51.02775 4.50002
+
+	VL2
+		Images:	13766
+		Time:	05.04.2025 14:40:13 until 06.04.2025 15:42:17
+		Duration:	1.01:02:04
+		Location:	51.02775 4.50002
+
+(10) - Station 8 WALLBALLS
+	RA1
+		Images:	38057
+		Time:	05.04.2025 08:54:57 until 05.04.2025 21:53:21
+		Duration:	12:58:24
+		Location:	51.02775 4.50002
+
+	KSA1
+		Images:	5702
+		Time:	05.04.2025 09:03:03 until 05.04.2025 22:22:38
+		Duration:	13:19:35
+		Location:	51.02775 4.50002
+
+(11) - Finish
+	WIP1
+		Images:	6929
+		Time:	31.12.2016 23:00:09 until 05.04.2025 14:40:34
+		Duration:	3016.15:40:25
+		Location:	51.02775 4.50002
+
+	LV3
+		Images:	3021
+		Time:	05.04.2025 10:53:44 until 05.04.2025 21:56:51
+		Duration:	11:03:07
+		Location:	51.02775 4.50002
+
+	ALN3
+		Images:	413
+		Time:	05.04.2025 14:36:19 until 05.04.2025 15:01:23
+		Duration:	00:25:04
+		Location:	51.02775 4.50002
+
+	MK2
+		Images:	338
+		Time:	05.04.2025 14:32:52 until 05.04.2025 15:13:27
+		Duration:	00:40:35
+		Location:	51.02775 4.50002
+
+	LV3LS1
+		Images:	2909
+		Time:	05.04.2025 08:50:21 until 05.04.2025 22:35:11
+		Duration:	13:44:50
+		Location:	51.02775 4.50002
+
+	RM2LS2
+		Images:	3138
+		Time:	04.04.2025 08:23:08 until 04.04.2025 22:29:30
+		Duration:	14:06:22
+		Location:	51.02775 4.50002
+
+(12) - Medalwall
+	OT1
+		Images:	5032
+		Time:	05.04.2025 07:48:26 until 05.04.2025 14:42:34
+		Duration:	06:54:08
+		Location:	51.02775 4.50002
+
+	MIV2
+		Images:	4266
+		Time:	05.04.2025 14:43:22 until 05.04.2025 22:35:00
+		Duration:	07:51:38
+		Location:	51.02775 4.50002
+
+(13) - Impressions / Pano
+	PANO1
+	MK1IMP1
+		Images:	260
+		Time:	01.01.0001 23:00:00 until 06.04.2025 10:47:43
+		Duration:	739345.11:47:43
+		Location:	51.02775 4.50002
+

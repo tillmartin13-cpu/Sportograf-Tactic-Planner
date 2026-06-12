@@ -1,0 +1,86 @@
+EventId: 14082
+Spots: 12
+Total Images: 12577
+Time:	13.09.2025 08:27:39 to 13.09.2025 15:19:48
+Duration: 06:52:09
+
+(1) - 18,0 km
+	ML1
+		Images:	1119
+		Time:	13.09.2025 08:33:04 until 13.09.2025 12:00:21
+		Duration:	03:27:17
+		Location:	50.18391 6.87033
+
+	MLLS1
+		Images:	670
+		Time:	13.09.2025 09:53:44 until 13.09.2025 12:01:44
+		Duration:	02:08:00
+		Location:	50.18391 6.87033
+
+(2) - Impressions / Pano
+	ML1IMP1
+		Images:	36
+		Time:	13.09.2025 08:33:04 until 13.09.2025 13:13:40
+		Duration:	04:40:36
+		Location:	50.1731 6.8495
+
+(3) - Maaresattel Hinweg
+	GHU1
+		Images:	2197
+		Time:	13.09.2025 09:49:27 until 13.09.2025 12:22:16
+		Duration:	02:32:49
+		Location:	50.1731 6.8495
+
+	GHULS1
+		Images:	576
+		Time:	13.09.2025 09:31:44 until 13.09.2025 11:55:25
+		Duration:	02:23:41
+		Location:	50.1731 6.8495
+
+(4) - Wurzelpassage vor dem Maareblick
+	GHU2
+		Images:	3156
+		Time:	13.09.2025 12:23:50 until 13.09.2025 15:19:48
+		Duration:	02:55:58
+		Location:	50.1734 6.8497
+
+(5) - Singletrail Einstieg am Maare Sattel auf dem Hinweg
+	RI1
+		Images:	1429
+		Time:	13.09.2025 09:28:47 until 13.09.2025 12:00:50
+		Duration:	02:32:03
+		Location:	50.17364 6.84552
+
+(6) - Steiler letzter Aufstieg an der Skipiste
+	MLLS2
+		Images:	534
+		Time:	13.09.2025 12:10:41 until 13.09.2025 14:29:56
+		Duration:	02:19:15
+		Location:	50.18020 6.84396
+
+	ML2
+		Images:	1063
+		Time:	13.09.2025 12:26:50 until 13.09.2025 14:34:51
+		Duration:	02:08:01
+		Location:	50.17974 6.84478
+
+(7) - Herotent Steiler letzter Aufstieg an der Skipiste
+	ML3
+		Images:	242
+		Time:	13.09.2025 14:35:08 until 13.09.2025 15:10:15
+		Duration:	00:35:07
+		Location:	50.18020 6.84396
+
+(8) - Maare Sattel Rückweg Trail
+	RI2
+		Images:	958
+		Time:	13.09.2025 12:20:18 until 13.09.2025 15:02:14
+		Duration:	02:41:56
+		Location:	50.17352 6.85033
+
+	RILS1
+		Images:	597
+		Time:	13.09.2025 08:27:39 until 13.09.2025 15:07:09
+		Duration:	06:39:30
+		Location:	50.17352 6.85033
+

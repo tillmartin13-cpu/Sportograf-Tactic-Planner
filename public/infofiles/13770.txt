@@ -1,0 +1,54 @@
+EventId: 13770
+Spots: 7
+Total Images: 14612
+Time:	20.06.2025 22:51:55 to 22.06.2025 05:52:53
+Duration: 1.07:00:58
+
+(1) - Start
+	CCZ1
+		Images:	442
+		Time:	21.06.2025 06:38:08 until 21.06.2025 09:22:50
+		Duration:	02:44:42
+		Location:	NULL NULL
+
+(2) - Finish
+	CCZ2
+		Images:	5466
+		Time:	21.06.2025 10:01:25 until 21.06.2025 17:39:24
+		Duration:	07:37:59
+		Location:	NULL NULL
+
+(3) - Impressions / Pano
+	CCZ2DRONE1
+		Images:	4
+		Time:	21.06.2025 18:20:39 until 21.06.2025 18:20:40
+		Duration:	00:00:01
+		Location:	NULL NULL
+
+	PRR2IMP1
+		Images:	5
+		Time:	21.06.2025 09:28:19 until 21.06.2025 09:44:37
+		Duration:	00:16:18
+		Location:	NULL NULL
+
+(4) - 0.0 km Oleson Cabin aid Station
+	DANM1
+		Images:	1821
+		Time:	21.06.2025 08:31:46 until 22.06.2025 05:52:53
+		Duration:	21:21:07
+		Location:	NULL NULL
+
+(5) - 0.0 km Lake La Grange
+	PRR1
+		Images:	2327
+		Time:	20.06.2025 22:51:55 until 21.06.2025 15:31:38
+		Duration:	16:39:43
+		Location:	NULL NULL
+
+(6) - 0.0 km Easterly Road Aid Station
+	SCOT1
+		Images:	4547
+		Time:	21.06.2025 01:15:45 until 21.06.2025 16:31:32
+		Duration:	15:15:47
+		Location:	NULL NULL
+

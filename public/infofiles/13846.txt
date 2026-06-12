@@ -1,0 +1,60 @@
+EventId: 13846
+Spots: 8
+Total Images: 4983
+Time:	15.03.2025 17:33:59 to 16.03.2025 11:37:51
+Duration: 18:03:52
+
+(1) - KM 88 (Long) | KM 47 (Medium)
+	BEB1
+		Images:	492
+		Time:	16.03.2025 05:49:03 until 16.03.2025 09:32:48
+		Duration:	03:43:45
+		Location:	18.81754 -68.66846
+
+(2) - KM 144 (Long) | KM 91 (Medium)
+	BEB2
+		Images:	853
+		Time:	16.03.2025 08:55:50 until 16.03.2025 11:08:43
+		Duration:	02:12:53
+		Location:	18.57404 -68.38520
+
+(3) - KM 13
+	EGG1
+		Images:	397
+		Time:	15.03.2025 17:33:59 until 16.03.2025 06:00:06
+		Duration:	12:26:07
+		Location:	18.64686 -68.41912
+
+(4) - KM 95 (Long)
+	EGG2
+		Images:	770
+		Time:	16.03.2025 07:41:01 until 16.03.2025 09:43:48
+		Duration:	02:02:47
+		Location:	18.73133 -68.65448
+
+	EGG2LS1
+		Images:	230
+		Time:	16.03.2025 08:32:29 until 16.03.2025 10:04:29
+		Duration:	01:32:00
+		Location:	18.73133 -68.65448
+
+(5) - Start
+	TDG1
+		Images:	676
+		Time:	16.03.2025 04:53:11 until 16.03.2025 05:36:40
+		Duration:	00:43:29
+		Location:	18.55927 -68.38279
+
+(6) - Finish
+	TDG2
+		Images:	1497
+		Time:	16.03.2025 07:07:29 until 16.03.2025 11:37:51
+		Duration:	04:30:22
+		Location:	18.55927 -68.38279
+
+	TDG2LS1
+		Images:	68
+		Time:	16.03.2025 07:16:59 until 16.03.2025 08:32:50
+		Duration:	01:15:51
+		Location:	18.55927 -68.38279
+

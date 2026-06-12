@@ -1,0 +1,135 @@
+EventId: 14791
+Spots: 19
+Total Images: 69935
+Time:	01.01.0001 23:00:00 to 09.11.2025 12:55:39
+Duration: 739562.13:55:39
+
+(1) - Start
+	CRF1
+		Images:	291
+		Time:	07.11.2025 05:02:12 until 07.11.2025 06:22:39
+		Duration:	01:20:27
+		Location:	-34.34610 19.13297
+
+(2) - 31.6 km Down Hill Berm
+	TAZ1
+		Images:	4788
+		Time:	07.11.2025 07:10:15 until 07.11.2025 10:06:17
+		Duration:	02:56:02
+		Location:	-34.24930 19.19441
+
+(3) - 34.6 km Vinyard Jeep Track
+	JHI1LS1
+		Images:	6667
+		Time:	07.11.2025 05:54:38 until 07.11.2025 10:04:27
+		Duration:	04:09:49
+		Location:	-34.24780 19.19256
+
+	JHI1
+		Images:	2605
+		Time:	07.11.2025 07:53:13 until 07.11.2025 10:20:08
+		Duration:	02:26:55
+		Location:	-34.24107 19.20153
+
+	JHI1LS2
+		Images:	549
+		Time:	07.11.2025 06:28:50 until 07.11.2025 09:27:16
+		Duration:	02:58:26
+		Location:	-34.24107 19.20153
+
+(4) - 50.8 km Jakkelsvlei Dam
+	CRF2
+		Images:	8129
+		Time:	07.11.2025 07:09:37 until 07.11.2025 12:20:03
+		Duration:	05:10:26
+		Location:	-34.16549 19.12263
+
+(5) - 50.1 km Jakkelsvlei DEron
+	CRF1DRONE1
+		Images:	75
+		Time:	06.11.2025 14:56:46 until 07.11.2025 07:30:28
+		Duration:	16:33:42
+		Location:	-34.16549 19.12263
+
+(6) - 0.0 km Start and camp impressions
+	CRF3
+		Images:	28
+		Time:	08.11.2025 05:07:53 until 08.11.2025 05:55:54
+		Duration:	00:48:01
+		Location:	-34.15437 19.05924
+
+(7) - 26.5 km Rietvlei Magic
+	JHI2
+		Images:	3961
+		Time:	08.11.2025 05:20:26 until 08.11.2025 09:23:29
+		Duration:	04:03:03
+		Location:	-34.15527 19.09074
+
+(8) - 26.4 km Approach to Rietvlei Magic
+	TAZ2
+		Images:	4423
+		Time:	08.11.2025 06:45:15 until 08.11.2025 09:23:00
+		Duration:	02:37:45
+		Location:	-34.15433 19.09159
+
+(9) - 61.5 km Wave Runner
+	CRF4
+		Images:	9672
+		Time:	08.11.2025 06:55:44 until 08.11.2025 13:23:29
+		Duration:	06:27:45
+		Location:	-34.15608 19.05311
+
+(10) - 61.5 km Wave Rider
+	CRF4DRONE1
+		Images:	5
+		Time:	08.11.2025 04:51:21 until 08.11.2025 04:53:36
+		Duration:	00:02:15
+		Location:	-34.15608 19.05311
+
+(11) - 42.0 km Cowboy Town Approach
+	JHI3LS1
+		Images:	1900
+		Time:	09.11.2025 07:20:33 until 09.11.2025 11:32:40
+		Duration:	04:12:07
+		Location:	-34.05326 18.93720
+
+(12) - 42.1 km Cowboy Town
+	JHI3
+		Images:	3439
+		Time:	09.11.2025 07:33:06 until 09.11.2025 11:30:53
+		Duration:	03:57:47
+		Location:	-34.05217 18.93723
+
+(13) - 41.8 km Single Track Berms
+	TAZ3
+		Images:	4476
+		Time:	09.11.2025 07:24:27 until 09.11.2025 11:33:34
+		Duration:	04:09:07
+		Location:	-34.05099 18.93152
+
+(14) - 61.5 km Fair Cape Floating Bridge
+	CRF5
+		Images:	11214
+		Time:	09.11.2025 06:11:01 until 09.11.2025 12:41:46
+		Duration:	06:30:45
+		Location:	-34.05739 18.88472
+
+	CRF5DRONE1
+		Images:	37
+		Time:	09.11.2025 05:40:03 until 09.11.2025 10:02:01
+		Duration:	04:21:58
+		Location:	-34.05791 18.88467
+
+(15) - Finish
+	SAKE1
+		Images:	5374
+		Time:	09.11.2025 08:00:21 until 09.11.2025 12:55:39
+		Duration:	04:55:18
+		Location:	-34.06487 18.88971
+
+	SAKE1LS1
+		Images:	2302
+		Time:	01.01.0001 23:00:00 until 09.11.2025 12:54:02
+		Duration:	739562.13:54:02
+		Location:	-34.06487 18.88971
+

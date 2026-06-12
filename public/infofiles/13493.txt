@@ -1,0 +1,387 @@
+EventId: 13493
+Spots: 61
+Total Images: 765601
+Time:	01.01.0001 23:00:00 to 27.04.2025 16:24:57
+Duration: 739366.17:24:57
+
+(1) - Calle Mayor
+	AIME2
+		Images:	2604
+		Time:	27.04.2025 08:02:06 until 27.04.2025 09:48:42
+		Duration:	01:46:36
+		Location:	40.41531 -3.71158
+
+	CATRE2
+		Images:	10776
+		Time:	27.04.2025 09:56:45 until 27.04.2025 13:09:06
+		Duration:	03:12:21
+		Location:	40.41531 -3.71158
+
+(2) - Cibeles 10K y 21K
+	AALSE1
+		Images:	19517
+		Time:	27.04.2025 08:32:27 until 27.04.2025 13:31:09
+		Duration:	04:58:42
+		Location:	40.41929 -3.69310
+
+	ADDSA1
+		Images:	17302
+		Time:	27.04.2025 08:18:22 until 27.04.2025 14:15:16
+		Duration:	05:56:54
+		Location:	40.41929 -3.69310
+
+	AJRP2
+		Images:	3838
+		Time:	27.04.2025 09:05:54 until 27.04.2025 09:19:09
+		Duration:	00:13:15
+		Location:	40.41929 -3.69310
+
+(3) - Cibeles 42K
+	ACRGA1
+		Images:	21453
+		Time:	27.04.2025 09:51:02 until 27.04.2025 16:23:48
+		Duration:	06:32:46
+		Location:	40.41929 -3.69310
+
+	AJASA1
+		Images:	5607
+		Time:	27.04.2025 09:53:16 until 27.04.2025 16:12:59
+		Duration:	06:19:43
+		Location:	40.41929 -3.69310
+
+	ASPP1
+		Images:	11320
+		Time:	27.04.2025 09:47:03 until 27.04.2025 16:12:23
+		Duration:	06:25:20
+		Location:	40.41929 -3.69310
+
+(4) - Congreso de los Diputados
+	AJG1
+		Images:	18960
+		Time:	27.04.2025 08:09:22 until 27.04.2025 13:57:51
+		Duration:	05:48:29
+		Location:	40.41632 -3.69789
+
+	ARTG1
+		Images:	16580
+		Time:	27.04.2025 07:55:54 until 27.04.2025 13:56:14
+		Duration:	06:00:20
+		Location:	40.41632 -3.69789
+
+(5) - Fuente de la buena suerte
+	BCCG2
+		Images:	21874
+		Time:	27.04.2025 09:44:07 until 27.04.2025 14:03:39
+		Duration:	04:19:32
+		Location:	40.41883 -3.72361
+
+	BJCFJ2
+		Images:	26311
+		Time:	27.04.2025 09:07:04 until 27.04.2025 13:58:01
+		Duration:	04:50:57
+		Location:	40.41883 -3.72361
+
+(6) - Impressions / Pano
+	PANO1
+(7) - Lago casa de campo
+	BJMB2
+		Images:	26903
+		Time:	26.04.2025 07:46:44 until 27.04.2025 14:49:02
+		Duration:	1.07:02:18
+		Location:	40.41705 -3.73711
+
+	BJMCA2
+		Images:	11418
+		Time:	27.04.2025 09:44:55 until 27.04.2025 14:46:04
+		Duration:	05:01:09
+		Location:	40.41705 -3.73711
+
+(8) - Meta
+	AANL1
+		Images:	17372
+		Time:	01.01.0001 23:00:00 until 27.04.2025 16:07:12
+		Duration:	739366.17:07:12
+		Location:	40.42221 -3.69163
+
+	AHOS1
+		Images:	2201
+		Time:	27.04.2025 07:54:34 until 27.04.2025 13:50:51
+		Duration:	05:56:17
+		Location:	40.42221 -3.69163
+
+	ANIL1
+		Images:	12755
+		Time:	27.04.2025 07:53:50 until 27.04.2025 16:09:43
+		Duration:	08:15:53
+		Location:	40.42221 -3.69163
+
+	ASEP1
+		Images:	16686
+		Time:	27.04.2025 01:36:34 until 27.04.2025 16:24:57
+		Duration:	14:48:23
+		Location:	40.42221 -3.69163
+
+	BDJ1
+		Images:	39777
+		Time:	27.04.2025 08:11:44 until 27.04.2025 16:19:56
+		Duration:	08:08:12
+		Location:	40.42221 -3.69163
+
+	BNIE1
+		Images:	23580
+		Time:	27.04.2025 08:05:32 until 27.04.2025 16:19:57
+		Duration:	08:14:25
+		Location:	40.42221 -3.69163
+
+(9) - Palacio Real
+	CGGA1
+		Images:	19951
+		Time:	27.04.2025 09:23:44 until 27.04.2025 13:13:39
+		Duration:	03:49:55
+		Location:	40.41946 -3.71301
+
+	CJPBR1
+		Images:	7176
+		Time:	27.04.2025 09:11:26 until 27.04.2025 13:11:18
+		Duration:	03:59:52
+		Location:	40.41946 -3.71301
+
+	COHO1
+		Images:	6231
+		Time:	27.04.2025 09:37:43 until 27.04.2025 13:11:17
+		Duration:	03:33:34
+		Location:	40.41946 -3.71301
+
+	CUGA1
+		Images:	19968
+		Time:	26.04.2025 22:31:03 until 27.04.2025 13:12:30
+		Duration:	14:41:27
+		Location:	40.41946 -3.71301
+
+(10) - Plaza Callao
+	CAIS1
+		Images:	32055
+		Time:	27.04.2025 08:20:21 until 27.04.2025 12:58:30
+		Duration:	04:38:09
+		Location:	40.41997 -3.70573
+
+	CDAC1
+		Images:	23114
+		Time:	27.04.2025 09:14:48 until 27.04.2025 14:06:34
+		Duration:	04:51:46
+		Location:	40.41997 -3.70573
+
+(11) - Plaza Castilla
+	AJOLO1
+		Images:	7618
+		Time:	27.04.2025 08:54:27 until 27.04.2025 11:06:01
+		Duration:	02:11:34
+		Location:	40.46562 -3.69081
+
+	AODR1
+		Images:	9980
+		Time:	27.04.2025 08:37:56 until 27.04.2025 11:06:49
+		Duration:	02:28:53
+		Location:	40.46562 -3.69081
+
+(12) - Plaza Neptuno 10K
+	ACRGA2
+		Images:	6000
+		Time:	27.04.2025 08:19:29 until 27.04.2025 09:44:11
+		Duration:	01:24:42
+		Location:	40.41522 -3.69419
+
+	AJASA2
+		Images:	4672
+		Time:	27.04.2025 08:10:04 until 27.04.2025 10:35:58
+		Duration:	02:25:54
+		Location:	40.41522 -3.69419
+
+	ASPP2
+		Images:	3286
+		Time:	27.04.2025 08:26:36 until 27.04.2025 11:11:18
+		Duration:	02:44:42
+		Location:	40.41522 -3.69419
+
+(13) - Puente Nuevos Ministerios
+	AAFU1
+		Images:	4561
+		Time:	27.04.2025 07:45:00 until 27.04.2025 11:36:07
+		Duration:	03:51:07
+		Location:	40.44625 -3.69113
+
+	ACPA1
+		Images:	10922
+		Time:	01.01.0001 23:00:00 until 27.04.2025 11:39:08
+		Duration:	739366.12:39:08
+		Location:	40.44625 -3.69113
+
+	ALUM1
+		Images:	17135
+		Time:	27.04.2025 08:02:35 until 27.04.2025 11:38:03
+		Duration:	03:35:28
+		Location:	40.44625 -3.69113
+
+	AREDI1
+		Images:	13397
+		Time:	27.04.2025 07:46:31 until 27.04.2025 11:38:35
+		Duration:	03:52:04
+		Location:	40.44625 -3.69113
+
+(14) - Recta Meta
+	AECL1
+		Images:	14642
+		Time:	27.04.2025 08:06:21 until 27.04.2025 16:22:32
+		Duration:	08:16:11
+		Location:	40.42089 -3.69224
+
+	AJRP1
+		Images:	6706
+		Time:	27.04.2025 08:29:18 until 27.04.2025 11:13:46
+		Duration:	02:44:28
+		Location:	40.42089 -3.69224
+
+	ALUM2
+		Images:	1068
+		Time:	27.04.2025 14:08:11 until 27.04.2025 14:22:15
+		Duration:	00:14:04
+		Location:	40.42089 -3.69224
+
+	AMIA1
+		Images:	39342
+		Time:	27.04.2025 08:16:15 until 27.04.2025 16:22:02
+		Duration:	08:05:47
+		Location:	40.42089 -3.69224
+
+	AMSER1
+		Images:	4063
+		Time:	27.04.2025 08:18:26 until 27.04.2025 16:22:04
+		Duration:	08:03:38
+		Location:	40.42089 -3.69224
+
+(15) - Republica Argentina
+	AJDMM1
+		Images:	5974
+		Time:	27.04.2025 07:47:44 until 27.04.2025 11:41:11
+		Duration:	03:53:27
+		Location:	40.44503 -3.68568
+
+	AJMGJ1
+		Images:	5541
+		Time:	27.04.2025 07:49:20 until 27.04.2025 11:38:38
+		Duration:	03:49:18
+		Location:	40.44503 -3.68568
+
+	ARBC2
+		Images:	5003
+		Time:	27.04.2025 10:39:04 until 27.04.2025 11:41:50
+		Duration:	01:02:46
+		Location:	40.44503 -3.68568
+
+	AROM1
+		Images:	11227
+		Time:	26.04.2025 20:47:00 until 27.04.2025 11:41:44
+		Duration:	14:54:44
+		Location:	40.44503 -3.68568
+
+	ASDML1
+		Images:	8168
+		Time:	27.04.2025 08:22:11 until 27.04.2025 11:40:42
+		Duration:	03:18:31
+		Location:	40.44503 -3.68568
+
+	ASIC2
+		Images:	2367
+		Time:	27.04.2025 10:51:12 until 27.04.2025 11:43:02
+		Duration:	00:51:50
+		Location:	40.44503 -3.68568
+
+(16) - Salida 10K
+	BCCG1
+		Images:	1223
+		Time:	27.04.2025 07:17:42 until 27.04.2025 08:20:06
+		Duration:	01:02:24
+		Location:	40.43967 -3.69115
+
+	BJCFJ1
+		Images:	1310
+		Time:	27.04.2025 07:15:52 until 27.04.2025 08:16:51
+		Duration:	01:00:59
+		Location:	40.43967 -3.69115
+
+	BJMB1
+		Images:	602
+		Time:	27.04.2025 07:19:16 until 27.04.2025 08:51:59
+		Duration:	01:32:43
+		Location:	40.43967 -3.69115
+
+	BJMCA1
+		Images:	282
+		Time:	27.04.2025 07:18:22 until 27.04.2025 08:17:07
+		Duration:	00:58:45
+		Location:	40.43967 -3.69115
+
+(17) - Salida 21k y 42k
+	ARBC1
+		Images:	6012
+		Time:	27.04.2025 08:02:31 until 27.04.2025 10:24:20
+		Duration:	02:21:49
+		Location:	40.43711 -3.68978
+
+	ASIC1
+		Images:	3866
+		Time:	27.04.2025 08:02:38 until 27.04.2025 10:19:32
+		Duration:	02:16:54
+		Location:	40.43711 -3.68978
+
+(18) - Sol 10K
+	AIME1
+		Images:	7683
+		Time:	27.04.2025 09:54:31 until 27.04.2025 13:07:14
+		Duration:	03:12:43
+		Location:	40.41665 -3.70354
+
+	CATRE1
+		Images:	4672
+		Time:	27.04.2025 08:06:01 until 27.04.2025 09:41:03
+		Duration:	01:35:02
+		Location:	40.41665 -3.70354
+
+(19) - Sol 10K y 21K
+	AWRFG1
+		Images:	31562
+		Time:	27.04.2025 07:59:11 until 27.04.2025 13:08:04
+		Duration:	05:08:53
+		Location:	40.41665 -3.70354
+
+	BJAI1
+		Images:	46766
+		Time:	27.04.2025 08:25:53 until 27.04.2025 13:17:38
+		Duration:	04:51:45
+		Location:	40.41665 -3.70354
+
+(20) - Sol 42K
+	AACC1
+		Images:	14177
+		Time:	27.04.2025 08:10:59 until 27.04.2025 13:05:56
+		Duration:	04:54:57
+		Location:	40.41665 -3.70415
+
+	AACCA1
+		Images:	21131
+		Time:	27.04.2025 07:58:09 until 27.04.2025 13:07:09
+		Duration:	05:09:00
+		Location:	40.41665 -3.70415
+
+	AEP1
+		Images:	2696
+		Time:	27.04.2025 08:52:58 until 27.04.2025 13:00:01
+		Duration:	04:07:03
+		Location:	40.41665 -3.70415
+
+	AEP1LS1
+		Images:	6618
+		Time:	27.04.2025 08:13:12 until 27.04.2025 13:06:47
+		Duration:	04:53:35
+		Location:	40.41665 -3.70415
+

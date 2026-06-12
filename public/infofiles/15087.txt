@@ -1,0 +1,407 @@
+EventId: 15087
+Spots: 65
+Total Images: 247168
+Time:	26.07.2025 08:19:01 to 27.07.2025 22:27:28
+Duration: 1.14:08:27
+
+(1) - Station 8 Wall Balls
+	AYO1
+		Images:	4677
+		Time:	26.07.2025 09:05:36 until 27.07.2025 14:15:24
+		Duration:	1.05:09:48
+		Location:	NULL NULL
+
+	BIC2
+		Images:	6523
+		Time:	27.07.2025 14:16:37 until 27.07.2025 22:06:12
+		Duration:	07:49:35
+		Location:	NULL NULL
+
+	GIP8
+		Images:	2293
+		Time:	27.07.2025 12:57:49 until 27.07.2025 13:29:49
+		Duration:	00:32:00
+		Location:	NULL NULL
+
+	HTT6
+		Images:	3488
+		Time:	27.07.2025 12:57:39 until 27.07.2025 19:53:20
+		Duration:	06:55:41
+		Location:	NULL NULL
+
+	NNG5
+		Images:	1335
+		Time:	27.07.2025 18:51:24 until 27.07.2025 19:42:20
+		Duration:	00:50:56
+		Location:	NULL NULL
+
+	NP2
+		Images:	16308
+		Time:	27.07.2025 14:25:42 until 27.07.2025 22:08:23
+		Duration:	07:42:41
+		Location:	NULL NULL
+
+	YH1
+		Images:	2118
+		Time:	26.07.2025 08:44:16 until 27.07.2025 14:24:32
+		Duration:	1.05:40:16
+		Location:	NULL NULL
+
+(2) - Medalwall
+	AYO2
+		Images:	3145
+		Time:	27.07.2025 13:30:54 until 27.07.2025 22:27:28
+		Duration:	08:56:34
+		Location:	NULL NULL
+
+	BIC1
+		Images:	2702
+		Time:	27.07.2025 10:00:43 until 27.07.2025 13:37:23
+		Duration:	03:36:40
+		Location:	NULL NULL
+
+	HTT9
+		Images:	1613
+		Time:	26.07.2025 08:45:39 until 27.07.2025 20:23:20
+		Duration:	1.11:37:41
+		Location:	NULL NULL
+
+	NNG8
+		Images:	489
+		Time:	27.07.2025 13:42:55 until 27.07.2025 20:19:27
+		Duration:	06:36:32
+		Location:	NULL NULL
+
+	NP1
+		Images:	3022
+		Time:	26.07.2025 08:23:47 until 27.07.2025 13:40:56
+		Duration:	1.05:17:09
+		Location:	NULL NULL
+
+	YH2
+		Images:	6060
+		Time:	27.07.2025 09:49:25 until 27.07.2025 22:24:52
+		Duration:	12:35:27
+		Location:	NULL NULL
+
+(3) - Station 6 Farmers' Carry
+	BIC2LS1
+		Images:	3197
+		Time:	27.07.2025 09:39:40 until 27.07.2025 22:14:20
+		Duration:	12:34:40
+		Location:	NULL NULL
+
+	GIP6LS1
+		Images:	1974
+		Time:	27.07.2025 09:14:08 until 27.07.2025 20:37:29
+		Duration:	11:23:21
+		Location:	NULL NULL
+
+	NNG6LS1
+		Images:	8370
+		Time:	27.07.2025 08:48:19 until 27.07.2025 19:47:06
+		Duration:	10:58:47
+		Location:	NULL NULL
+
+(4) - Station 4 Burpees
+	CWO1
+		Images:	4277
+		Time:	27.07.2025 09:24:19 until 27.07.2025 14:14:09
+		Duration:	04:49:50
+		Location:	NULL NULL
+
+	GIP4
+		Images:	1356
+		Time:	27.07.2025 12:22:53 until 27.07.2025 19:17:15
+		Duration:	06:54:22
+		Location:	NULL NULL
+
+	HTT8
+		Images:	1971
+		Time:	27.07.2025 09:53:52 until 27.07.2025 18:48:40
+		Duration:	08:54:48
+		Location:	NULL NULL
+
+	STW2
+		Images:	3078
+		Time:	27.07.2025 14:19:44 until 27.07.2025 21:18:59
+		Duration:	06:59:15
+		Location:	NULL NULL
+
+(5) - Station 3 Sled Pull
+	CWO2
+		Images:	5758
+		Time:	27.07.2025 14:21:06 until 27.07.2025 20:42:23
+		Duration:	06:21:17
+		Location:	NULL NULL
+
+	DIDA1
+		Images:	1686
+		Time:	26.07.2025 08:19:01 until 27.07.2025 14:39:58
+		Duration:	1.06:20:57
+		Location:	NULL NULL
+
+	DLE2
+		Images:	290
+		Time:	27.07.2025 15:20:56 until 27.07.2025 20:48:58
+		Duration:	05:28:02
+		Location:	NULL NULL
+
+	GIP3
+		Images:	1446
+		Time:	27.07.2025 11:51:25 until 27.07.2025 19:17:15
+		Duration:	07:25:50
+		Location:	NULL NULL
+
+	HTT3
+		Images:	3341
+		Time:	27.07.2025 17:39:09 until 27.07.2025 18:13:31
+		Duration:	00:34:22
+		Location:	NULL NULL
+
+	HYI2
+		Images:	2999
+		Time:	27.07.2025 15:18:21 until 27.07.2025 20:46:39
+		Duration:	05:28:18
+		Location:	NULL NULL
+
+	KIK1
+		Images:	1972
+		Time:	26.07.2025 08:38:28 until 27.07.2025 14:17:50
+		Duration:	1.05:39:22
+		Location:	NULL NULL
+
+	NNG3
+		Images:	2475
+		Time:	26.07.2025 10:27:37 until 27.07.2025 18:01:02
+		Duration:	1.07:33:25
+		Location:	NULL NULL
+
+	RYH1
+		Images:	2890
+		Time:	26.07.2025 08:35:26 until 27.07.2025 14:29:59
+		Duration:	1.05:54:33
+		Location:	NULL NULL
+
+(6) - Station 7 Sandbag Lunges
+	DIDA2
+		Images:	4453
+		Time:	27.07.2025 14:48:25 until 27.07.2025 21:50:32
+		Duration:	07:02:07
+		Location:	NULL NULL
+
+	GIP6
+		Images:	367
+		Time:	27.07.2025 18:49:07 until 27.07.2025 19:20:57
+		Duration:	00:31:50
+		Location:	NULL NULL
+
+	GIP9LS1
+		Images:	1477
+		Time:	27.07.2025 12:20:11 until 27.07.2025 20:35:31
+		Duration:	08:15:20
+		Location:	NULL NULL
+
+	KTA1
+		Images:	4621
+		Time:	26.07.2025 08:59:59 until 27.07.2025 14:56:26
+		Duration:	1.05:56:27
+		Location:	NULL NULL
+
+	NNG7
+		Images:	1431
+		Time:	27.07.2025 13:03:06 until 27.07.2025 13:37:09
+		Duration:	00:34:03
+		Location:	NULL NULL
+
+(7) - Station 5 Rowing
+	DLE1
+		Images:	2011
+		Time:	27.07.2025 09:31:00 until 27.07.2025 15:00:32
+		Duration:	05:29:32
+		Location:	NULL NULL
+
+	GIP5
+		Images:	2328
+		Time:	27.07.2025 18:17:39 until 27.07.2025 18:47:05
+		Duration:	00:29:26
+		Location:	NULL NULL
+
+	HTT4
+		Images:	2671
+		Time:	27.07.2025 10:08:03 until 27.07.2025 12:51:15
+		Duration:	02:43:12
+		Location:	NULL NULL
+
+	HYI1
+		Images:	6154
+		Time:	26.07.2025 08:48:53 until 27.07.2025 15:02:35
+		Duration:	1.06:13:42
+		Location:	NULL NULL
+
+	KIK2
+		Images:	3519
+		Time:	27.07.2025 14:37:30 until 27.07.2025 21:09:07
+		Duration:	06:31:37
+		Location:	NULL NULL
+
+	NNG4
+		Images:	4317
+		Time:	27.07.2025 12:20:48 until 27.07.2025 18:53:11
+		Duration:	06:32:23
+		Location:	NULL NULL
+
+	RYH2
+		Images:	4386
+		Time:	27.07.2025 14:46:01 until 27.07.2025 21:19:14
+		Duration:	06:33:13
+		Location:	NULL NULL
+
+(8) - Station 2 Sled Push
+	DTQ1
+		Images:	4924
+		Time:	27.07.2025 09:12:37 until 27.07.2025 14:48:33
+		Duration:	05:35:56
+		Location:	NULL NULL
+
+	GIP2
+		Images:	2226
+		Time:	27.07.2025 11:11:12 until 27.07.2025 17:34:45
+		Duration:	06:23:33
+		Location:	NULL NULL
+
+	HTT2
+		Images:	2207
+		Time:	27.07.2025 11:29:47 until 27.07.2025 17:34:41
+		Duration:	06:04:54
+		Location:	NULL NULL
+
+	KTN2
+		Images:	4179
+		Time:	27.07.2025 15:04:31 until 27.07.2025 20:14:06
+		Duration:	05:09:35
+		Location:	NULL NULL
+
+	LKN1
+		Images:	2927
+		Time:	27.07.2025 09:10:57 until 27.07.2025 15:01:52
+		Duration:	05:50:55
+		Location:	NULL NULL
+
+	NNG2
+		Images:	674
+		Time:	26.07.2025 11:30:25 until 27.07.2025 17:33:15
+		Duration:	1.06:02:50
+		Location:	NULL NULL
+
+	PNQ1
+		Images:	7095
+		Time:	27.07.2025 09:11:20 until 27.07.2025 14:50:16
+		Duration:	05:38:56
+		Location:	NULL NULL
+
+	RSK2
+		Images:	2823
+		Time:	27.07.2025 15:12:17 until 27.07.2025 20:35:43
+		Duration:	05:23:26
+		Location:	NULL NULL
+
+	RYT2
+		Images:	5503
+		Time:	27.07.2025 15:08:06 until 27.07.2025 20:34:27
+		Duration:	05:26:21
+		Location:	NULL NULL
+
+(9) - Station 1 Ski Erg
+	DTQ2
+		Images:	6708
+		Time:	27.07.2025 15:03:59 until 27.07.2025 20:20:31
+		Duration:	05:16:32
+		Location:	NULL NULL
+
+	GIP1
+		Images:	1661
+		Time:	27.07.2025 10:35:38 until 27.07.2025 17:01:50
+		Duration:	06:26:12
+		Location:	NULL NULL
+
+	HTT1
+		Images:	4184
+		Time:	26.07.2025 09:01:46 until 27.07.2025 16:56:51
+		Duration:	1.07:55:05
+		Location:	NULL NULL
+
+	KTN1
+		Images:	7172
+		Time:	27.07.2025 08:56:14 until 27.07.2025 14:56:32
+		Duration:	06:00:18
+		Location:	NULL NULL
+
+	LKN2
+		Images:	6487
+		Time:	27.07.2025 15:33:01 until 27.07.2025 20:16:26
+		Duration:	04:43:25
+		Location:	NULL NULL
+
+	NNG1
+		Images:	1446
+		Time:	27.07.2025 10:33:27 until 27.07.2025 17:00:20
+		Duration:	06:26:53
+		Location:	NULL NULL
+
+	PNQ2
+		Images:	5806
+		Time:	27.07.2025 15:00:33 until 27.07.2025 20:23:47
+		Duration:	05:23:14
+		Location:	NULL NULL
+
+	RSK1
+		Images:	8066
+		Time:	27.07.2025 08:59:56 until 27.07.2025 15:10:37
+		Duration:	06:10:41
+		Location:	NULL NULL
+
+	RYT1
+		Images:	7742
+		Time:	27.07.2025 09:03:32 until 27.07.2025 14:58:55
+		Duration:	05:55:23
+		Location:	NULL NULL
+
+(10) - Finish
+	GIP7LS1
+		Images:	4460
+		Time:	27.07.2025 08:25:30 until 27.07.2025 20:32:17
+		Duration:	12:06:47
+		Location:	NULL NULL
+
+	GIP7
+		Images:	1505
+		Time:	27.07.2025 13:37:14 until 27.07.2025 20:06:51
+		Duration:	06:29:37
+		Location:	NULL NULL
+
+	HTT7LS1
+		Images:	3865
+		Time:	27.07.2025 08:21:27 until 27.07.2025 19:10:05
+		Duration:	10:48:38
+		Location:	NULL NULL
+
+	KTA2
+		Images:	3521
+		Time:	27.07.2025 14:59:26 until 27.07.2025 22:19:09
+		Duration:	07:19:43
+		Location:	NULL NULL
+
+	STW1
+		Images:	4575
+		Time:	27.07.2025 09:50:24 until 27.07.2025 13:37:14
+		Duration:	03:46:50
+		Location:	NULL NULL
+
+(11) - Run
+	NNG6LS2
+		Images:	8824
+		Time:	27.07.2025 08:25:01 until 27.07.2025 19:47:58
+		Duration:	11:22:57
+		Location:	NULL NULL
+

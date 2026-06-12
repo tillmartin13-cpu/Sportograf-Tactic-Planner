@@ -1,0 +1,100 @@
+EventId: 14447
+Spots: 14
+Total Images: 47206
+Time:	24.01.2025 22:26:52 to 25.01.2025 15:07:11
+Duration: 16:40:19
+
+(1) - Obstacle 5 Log Carry
+	ALL1
+		Images:	4506
+		Time:	25.01.2025 08:11:19 until 25.01.2025 10:42:44
+		Duration:	02:31:25
+		Location:	45.46722 6.45330
+
+	ALL1LS1
+		Images:	1219
+		Time:	25.01.2025 07:45:49 until 25.01.2025 10:37:15
+		Duration:	02:51:26
+		Location:	45.46722 6.45330
+
+(2) - Obstacle 9 Stairways
+	CAIS1
+		Images:	1894
+		Time:	25.01.2025 07:34:56 until 25.01.2025 11:48:33
+		Duration:	04:13:37
+		Location:	45.46401 6.43755
+
+(3) - Obstacle 12 bucket carry
+	ELLA1
+		Images:	7984
+		Time:	25.01.2025 08:35:15 until 25.01.2025 11:53:30
+		Duration:	03:18:15
+		Location:	45.46401 6.43755
+
+(4) - Obstacle 13 Barber wire 2
+	EB1
+		Images:	5021
+		Time:	25.01.2025 08:12:29 until 25.01.2025 13:57:34
+		Duration:	05:45:05
+		Location:	45.46272 6.42380
+
+(5) - Run after obstacle 13
+	EB1LS1
+		Images:	5492
+		Time:	25.01.2025 08:48:57 until 25.01.2025 13:15:55
+		Duration:	04:26:58
+		Location:	45.46272 6.42380
+
+	EB1LS2
+		Images:	5875
+		Time:	25.01.2025 09:19:03 until 25.01.2025 13:15:49
+		Duration:	03:56:46
+		Location:	45.46272 6.42380
+
+(6) - Obstacle 27 multi rig
+	FEZ1
+		Images:	5296
+		Time:	24.01.2025 22:26:52 until 25.01.2025 15:05:07
+		Duration:	16:38:15
+		Location:	45.46102 6.44297
+
+(7) - Obstacle 27 penlty loop
+	FEZ1LS1
+		Images:	386
+		Time:	25.01.2025 07:47:42 until 25.01.2025 12:36:42
+		Duration:	04:49:00
+		Location:	45.46102 6.44297
+
+(8) - Finish
+	AGU1
+		Images:	2719
+		Time:	25.01.2025 08:58:45 until 25.01.2025 15:06:08
+		Duration:	06:07:23
+		Location:	45.46095 6.44285
+
+	AGU1LS1
+		Images:	2073
+		Time:	25.01.2025 09:31:34 until 25.01.2025 14:55:04
+		Duration:	05:23:30
+		Location:	45.46095 6.44285
+
+	AGU1LS2
+		Images:	1986
+		Time:	25.01.2025 09:31:35 until 25.01.2025 14:57:53
+		Duration:	05:26:18
+		Location:	45.46095 6.44285
+
+(9) - Herotent
+	DART1
+		Images:	2723
+		Time:	25.01.2025 07:47:53 until 25.01.2025 15:07:11
+		Duration:	07:19:18
+		Location:	45.46095 6.44285
+
+(10) - Impressions / Pano
+	FRN1DRONE1
+		Images:	32
+		Time:	25.01.2025 11:32:15 until 25.01.2025 11:46:17
+		Duration:	00:14:02
+		Location:	45.46095 6.44285
+

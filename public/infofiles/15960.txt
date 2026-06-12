@@ -1,0 +1,33 @@
+EventId: 15960
+Spots: 5
+Total Images: 10837
+Time:	01.01.0001 23:00:00 to 02.05.2025 20:25:18
+Duration: 739371.21:25:18
+
+(1) - Impressions / Pano
+	PANO1
+(2) - none
+	TOBY1
+		Images:	5469
+		Time:	01.01.0001 23:00:00 until 02.05.2025 19:25:09
+		Duration:	739371.20:25:09
+		Location:	NULL NULL
+
+	ANDY1
+		Images:	1836
+		Time:	02.05.2025 19:22:22 until 02.05.2025 20:24:23
+		Duration:	01:02:01
+		Location:	NULL NULL
+
+	LEO1
+		Images:	931
+		Time:	02.05.2025 19:03:47 until 02.05.2025 20:06:03
+		Duration:	01:02:16
+		Location:	NULL NULL
+
+	MIKE1
+		Images:	2601
+		Time:	02.05.2025 19:37:19 until 02.05.2025 20:25:18
+		Duration:	00:47:59
+		Location:	NULL NULL
+

@@ -1,0 +1,107 @@
+EventId: 14770
+Spots: 15
+Total Images: 28274
+Time:	28.03.2025 20:15:19 to 30.03.2025 12:45:54
+Duration: 1.16:30:35
+
+(1) - Finish
+	AMI1
+		Images:	2117
+		Time:	30.03.2025 05:35:19 until 30.03.2025 12:33:11
+		Duration:	06:57:52
+		Location:	-26.67872 153.11933
+
+	BRBR2
+		Images:	1314
+		Time:	30.03.2025 10:26:03 until 30.03.2025 12:33:34
+		Duration:	02:07:31
+		Location:	-26.67872 153.11933
+
+	JEK3LS1
+		Images:	914
+		Time:	28.03.2025 20:15:19 until 30.03.2025 12:45:54
+		Duration:	1.16:30:35
+		Location:	-26.67872 153.11933
+
+(2) - Swim - Start
+	BRBR1
+		Images:	2009
+		Time:	30.03.2025 05:14:55 until 30.03.2025 09:48:34
+		Duration:	04:33:39
+		Location:	-26.68374 153.13102
+
+	MTS3
+		Images:	1213
+		Time:	30.03.2025 10:08:57 until 30.03.2025 12:29:32
+		Duration:	02:20:35
+		Location:	-26.67820 153.11842
+
+(3) - Bike - 16.0 km
+	CFW1
+		Images:	7005
+		Time:	30.03.2025 06:07:43 until 30.03.2025 10:16:42
+		Duration:	04:08:59
+		Location:	-26.54874 153.07418
+
+(4) - Run - 9.0 km
+	CFW2
+		Images:	1158
+		Time:	30.03.2025 11:14:33 until 30.03.2025 12:18:53
+		Duration:	01:04:20
+		Location:	-26.67309 153.11284
+
+(5) - Bike - Impressions / Pano
+	CLK1IMP1
+		Images:	112
+		Time:	30.03.2025 04:32:19 until 30.03.2025 06:20:19
+		Duration:	01:48:00
+		Location:	-26.67973 153.12036
+
+(6) - Bike - 0.8 km
+	CLK1
+		Images:	4632
+		Time:	30.03.2025 04:32:19 until 30.03.2025 11:11:02
+		Duration:	06:38:43
+		Location:	-26.67990 153.12009
+
+(7) - Run - 9.8 km
+	CLK2
+		Images:	747
+		Time:	30.03.2025 11:13:00 until 30.03.2025 12:29:34
+		Duration:	01:16:34
+		Location:	-26.67990 153.12009
+
+(8) - Swim - Transition zone
+	MTS1
+		Images:	806
+		Time:	30.03.2025 06:37:48 until 30.03.2025 08:14:01
+		Duration:	01:36:13
+		Location:	-26.68439 153.12933
+
+	MTS1IMP1
+		Images:	111
+		Time:	30.03.2025 05:35:28 until 30.03.2025 06:34:18
+		Duration:	00:58:50
+		Location:	-26.68439 153.12933
+
+(9) - Bike - Transition zone
+	MTS2
+		Images:	57
+		Time:	30.03.2025 08:16:07 until 30.03.2025 09:12:02
+		Duration:	00:55:55
+		Location:	-26.68439 153.12933
+
+(10) - Run - 1.9 km
+	JEK2
+		Images:	2899
+		Time:	30.03.2025 08:10:21 until 30.03.2025 11:15:17
+		Duration:	03:04:56
+		Location:	-26.67516 153.11420
+
+(11) - Run - 10.0 km
+	JGAT1
+		Images:	3180
+		Time:	29.03.2025 21:00:20 until 30.03.2025 12:11:11
+		Duration:	15:10:51
+		Location:	-26.67178 153.11010
+

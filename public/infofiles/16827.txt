@@ -1,0 +1,79 @@
+EventId: 16827
+Spots: 12
+Total Images: 28624
+Time:	01.01.0001 23:00:00 to 10.05.2025 09:40:47
+Duration: 739379.10:40:47
+
+(1) - Impressions / Pano
+	PANO1
+(2) - Finish
+	AMRYN1
+		Images:	1002
+		Time:	10.05.2025 07:46:36 until 10.05.2025 09:40:47
+		Duration:	01:54:11
+		Location:	33.84787 -84.36429
+
+	ISTON3
+		Images:	6411
+		Time:	01.01.0001 23:00:00 until 10.05.2025 09:38:15
+		Duration:	739379.10:38:15
+		Location:	33.84853 -84.36297
+
+	ISTON1LS2
+		Images:	2282
+		Time:	10.05.2025 07:24:16 until 10.05.2025 09:38:30
+		Duration:	02:14:14
+		Location:	33.84853 -84.36297
+
+	ISTON1LS1
+		Images:	4219
+		Time:	10.05.2025 08:10:52 until 10.05.2025 09:38:16
+		Duration:	01:27:24
+		Location:	33.84853 -84.36297
+
+(3) - Start
+	ISTON2
+		Images:	31
+		Time:	10.05.2025 07:55:14 until 10.05.2025 08:00:34
+		Duration:	00:05:20
+		Location:	33.84871 -84.36624
+
+(4) - 0.1 Miles Peachtree Rd
+	JMCKO1
+		Images:	579
+		Time:	10.05.2025 08:00:53 until 10.05.2025 08:19:15
+		Duration:	00:18:22
+		Location:	33.84871 -84.36624
+
+	MWILD1
+		Images:	319
+		Time:	10.05.2025 08:00:32 until 10.05.2025 08:18:56
+		Duration:	00:18:24
+		Location:	33.84871 -84.36624
+
+(5) - 3.9 Miles Finish Round About
+	JMCKO2
+		Images:	1601
+		Time:	10.05.2025 08:31:36 until 10.05.2025 09:36:37
+		Duration:	01:05:01
+		Location:	33.84903 -84.36306
+
+	JMCKO1LS1
+		Images:	3879
+		Time:	10.05.2025 08:25:02 until 10.05.2025 09:31:07
+		Duration:	01:06:05
+		Location:	33.84903 -84.36306
+
+(6) - 3.9 Miles Finish Lenox Pkwy
+	MWILD2
+		Images:	8010
+		Time:	01.01.0001 23:00:00 until 10.05.2025 09:36:18
+		Duration:	739379.10:36:18
+		Location:	33.84867 -84.36281
+
+	MWILD1LS1
+		Images:	291
+		Time:	10.05.2025 09:31:08 until 10.05.2025 09:37:05
+		Duration:	00:05:57
+		Location:	33.84867 -84.36281
+

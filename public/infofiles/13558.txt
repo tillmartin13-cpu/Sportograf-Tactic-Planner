@@ -1,0 +1,86 @@
+EventId: 13558
+Spots: 12
+Total Images: 47399
+Time:	23.05.2025 20:36:46 to 24.05.2025 16:54:08
+Duration: 20:17:22
+
+(1) - Start
+	SKAL1
+		Images:	3072
+		Time:	24.05.2025 06:41:00 until 24.05.2025 09:22:34
+		Duration:	02:41:34
+		Location:	51.88032 -9.58386
+
+(2) - 23.7 km
+	JUW1
+		Images:	9412
+		Time:	24.05.2025 07:34:54 until 24.05.2025 08:50:47
+		Duration:	01:15:53
+		Location:	51.78047 -9.80572
+
+	JUW1DRONE1
+		Images:	10
+		Time:	24.05.2025 07:28:37 until 24.05.2025 07:32:20
+		Duration:	00:03:43
+		Location:	51.78047 -9.80572
+
+(3) - 58km of 140km
+	KRE1
+		Images:	2101
+		Time:	24.05.2025 07:42:16 until 24.05.2025 11:12:37
+		Duration:	03:30:21
+		Location:	51.65452 -10.06341
+
+(4) - 64.6km of 140km
+	JJKE1
+		Images:	5953
+		Time:	24.05.2025 07:22:19 until 24.05.2025 11:52:36
+		Duration:	04:30:17
+		Location:	51.61602 -10.06720
+
+(5) - 65.8km of 100km/94.6km of 140km
+	JUW2
+		Images:	5622
+		Time:	24.05.2025 09:26:28 until 24.05.2025 13:28:13
+		Duration:	04:01:45
+		Location:	51.69179 -9.72785
+
+(6) - 91.9km of 100km/120.9km of 140km
+	HED1
+		Images:	3881
+		Time:	23.05.2025 20:36:46 until 24.05.2025 14:34:14
+		Duration:	17:57:28
+		Location:	51.77424 -9.58967
+
+(7) - 93.2km of 100km/122.2km of 140km
+	OHAL1
+		Images:	2019
+		Time:	24.05.2025 10:27:40 until 24.05.2025 16:00:00
+		Duration:	05:32:20
+		Location:	51.78593 -9.58714
+
+	OHAL1LS1
+		Images:	2811
+		Time:	24.05.2025 09:03:17 until 24.05.2025 13:02:47
+		Duration:	03:59:30
+		Location:	51.78593 -9.58714
+
+(8) - Finish
+	SKAL2
+		Images:	11529
+		Time:	24.05.2025 09:33:08 until 24.05.2025 16:54:08
+		Duration:	07:21:00
+		Location:	51.88032 -9.58386
+
+	KRE2
+		Images:	676
+		Time:	24.05.2025 12:58:54 until 24.05.2025 14:54:48
+		Duration:	01:55:54
+		Location:	51.88032 -9.58386
+
+	JJKE2
+		Images:	313
+		Time:	24.05.2025 14:14:39 until 24.05.2025 14:45:58
+		Duration:	00:31:19
+		Location:	51.88032 -9.58386
+

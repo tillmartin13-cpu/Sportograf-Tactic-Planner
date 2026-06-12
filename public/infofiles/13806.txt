@@ -1,0 +1,94 @@
+EventId: 13806
+Spots: 14
+Total Images: 82068
+Time:	22.08.2025 08:14:25 to 24.08.2026 12:08:42
+Duration: 367.03:54:17
+
+(1) - Start
+	EBO1
+		Images:	938
+		Time:	24.08.2025 08:15:06 until 24.08.2025 09:22:04
+		Duration:	01:06:58
+		Location:	52.46217 13.32575
+
+	JAKR1
+		Images:	521
+		Time:	22.08.2025 08:14:25 until 22.08.2025 09:20:14
+		Duration:	01:05:49
+		Location:	52.46217 13.32575
+
+(2) - Heidelberger Platz
+	FAW1
+		Images:	6184
+		Time:	24.08.2025 09:23:18 until 24.08.2025 11:49:33
+		Duration:	02:26:15
+		Location:	52.47866 13.31250
+
+(3) - Rüdesheimer Platz
+	MIRW1
+		Images:	6998
+		Time:	24.08.2025 09:08:58 until 24.08.2025 11:48:22
+		Duration:	02:39:24
+		Location:	52.47229 13.31425
+
+(4) - Baumallee Geisenheimer Straße
+	BOC1
+		Images:	9627
+		Time:	24.08.2025 08:23:13 until 24.08.2025 11:50:01
+		Duration:	03:26:48
+		Location:	52.47008 13.31611
+
+(5) - Baumallee Wiesbadener Straße
+	SIG1
+		Images:	13340
+		Time:	24.08.2025 08:14:32 until 24.08.2025 12:06:56
+		Duration:	03:52:24
+		Location:	52.47153 13.32538
+
+(6) - Friedrich-Wilhelm-Platz Kirche
+	RYS1
+		Images:	12065
+		Time:	24.08.2026 08:37:09 until 24.08.2026 12:08:42
+		Duration:	03:31:33
+		Location:	52.47048 13.32830
+
+	RYS1LS1
+		Images:	5273
+		Time:	24.08.2025 08:29:49 until 24.08.2025 11:57:45
+		Duration:	03:27:56
+		Location:	52.47048 13.32830
+
+	RYS1LS2
+		Images:	5270
+		Time:	24.08.2025 08:18:31 until 24.08.2025 11:57:47
+		Duration:	03:39:16
+		Location:	52.47048 13.32830
+
+(7) - Baumallee Bundesallee
+	CM1
+		Images:	7722
+		Time:	24.08.2025 08:20:28 until 24.08.2025 11:54:08
+		Duration:	03:33:40
+		Location:	52.46729 13.32759
+
+	CM1LS1
+		Images:	4089
+		Time:	24.08.2025 09:29:42 until 24.08.2025 11:51:50
+		Duration:	02:22:08
+		Location:	52.46729 13.32759
+
+(8) - Finish
+	EBO2
+		Images:	6172
+		Time:	24.08.2025 09:27:46 until 24.08.2025 12:17:10
+		Duration:	02:49:24
+		Location:	52.46217 13.32575
+
+	JAKR2
+		Images:	3869
+		Time:	22.08.2025 09:28:14 until 22.08.2025 12:20:00
+		Duration:	02:51:46
+		Location:	52.46217 13.32575
+
+(9) - Impressions / Pano
+	PANO1

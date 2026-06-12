@@ -1,0 +1,340 @@
+EventId: 13489
+Spots: 55
+Total Images: 514853
+Time:	12.04.2025 18:20:48 to 19.04.2025 19:09:28
+Duration: 7.00:48:40
+
+(1) - 33.0 km 100+125+200+240km
+	ADAZ1
+		Images:	1989
+		Time:	19.04.2025 08:03:04 until 19.04.2025 11:57:19
+		Duration:	03:54:15
+		Location:	50.92133 5.80798
+
+	AKMC1
+		Images:	5744
+		Time:	19.04.2025 08:03:10 until 19.04.2025 12:08:39
+		Duration:	04:05:29
+		Location:	50.92133 5.80798
+
+(2) - 5.7 km all except 150km
+	ALV1
+		Images:	19272
+		Time:	19.04.2025 06:42:11 until 19.04.2025 11:21:39
+		Duration:	04:39:28
+		Location:	50.86294 5.75499
+
+	ALV1LS1
+		Images:	7001
+		Time:	19.04.2025 06:40:03 until 19.04.2025 11:59:06
+		Duration:	05:19:03
+		Location:	50.86294 5.75499
+
+	AMK1
+		Images:	26531
+		Time:	19.04.2025 06:58:09 until 19.04.2025 11:21:38
+		Duration:	04:23:29
+		Location:	50.86294 5.75499
+
+	AMK1LS1
+		Images:	7061
+		Time:	19.04.2025 06:29:48 until 19.04.2025 11:21:41
+		Duration:	04:51:53
+		Location:	50.86294 5.75499
+
+	AMK1LS2
+		Images:	6087
+		Time:	19.04.2025 06:47:05 until 19.04.2025 11:17:52
+		Duration:	04:30:47
+		Location:	50.86294 5.75499
+
+(3) - 500 meters to the finish
+	ALV2
+		Images:	21138
+		Time:	19.04.2025 12:13:08 until 19.04.2025 19:08:40
+		Duration:	06:55:32
+		Location:	50.92133 5.80798
+
+	ALV2LS1
+		Images:	5376
+		Time:	19.04.2025 12:00:01 until 19.04.2025 19:09:28
+		Duration:	07:09:27
+		Location:	50.92133 5.80798
+
+	AMK2LS1
+		Images:	6512
+		Time:	19.04.2025 12:02:49 until 19.04.2025 19:09:23
+		Duration:	07:06:34
+		Location:	50.92133 5.80798
+
+	CWEN2
+		Images:	1879
+		Time:	19.04.2025 17:34:48 until 19.04.2025 18:29:27
+		Duration:	00:54:39
+		Location:	50.8579 5.80507
+
+(4) - Cauberg last climb to finish
+	CJTA1
+	CPMC1
+(5) - Daelhemerweg last downhill to Valkenburg before finish
+	CWEN1
+		Images:	15593
+		Time:	19.04.2025 13:50:35 until 19.04.2025 15:53:52
+		Duration:	02:03:17
+		Location:	50.85138 5.82117
+
+(6) - Downhill Gulpenerberg km60/150  + km151/200 = km149/240
+	CNBA1
+(7) - Famous Cauberg last climb to the finish
+	AJTA2
+		Images:	4738
+		Time:	19.04.2025 13:55:18 until 19.04.2025 18:12:21
+		Duration:	04:17:03
+		Location:	50.86125 5.82544
+
+	APMC2
+		Images:	2750
+		Time:	19.04.2025 13:58:12 until 19.04.2025 17:58:41
+		Duration:	04:00:29
+		Location:	50.86125 5.82544
+
+(8) - Finish
+	CDAZ1
+		Images:	2727
+		Time:	19.04.2025 13:20:02 until 19.04.2025 18:53:20
+		Duration:	05:33:18
+		Location:	50.85854 5.79843
+
+	CKFK2
+		Images:	10476
+		Time:	19.04.2025 11:52:20 until 19.04.2025 18:32:36
+		Duration:	06:40:16
+		Location:	50.85854 5.79843
+
+	CKFK2LS1
+		Images:	10725
+		Time:	19.04.2025 10:54:27 until 19.04.2025 19:01:09
+		Duration:	08:06:42
+		Location:	50.85854 5.79843
+
+	CKMC1
+		Images:	9519
+		Time:	19.04.2025 13:23:39 until 19.04.2025 19:01:22
+		Duration:	05:37:43
+		Location:	50.85854 5.79843
+
+	CRA2
+		Images:	16375
+		Time:	19.04.2025 11:10:47 until 19.04.2025 18:57:42
+		Duration:	07:46:55
+		Location:	50.85854 5.79843
+
+	CRA2LS1
+		Images:	17666
+		Time:	19.04.2025 11:01:08 until 19.04.2025 19:00:24
+		Duration:	07:59:16
+		Location:	50.85854 5.79843
+
+	CRA2LS2
+		Images:	19041
+		Time:	19.04.2025 10:53:09 until 19.04.2025 19:00:30
+		Duration:	08:07:21
+		Location:	50.85854 5.79843
+
+	CSAMA2
+		Images:	5270
+		Time:	19.04.2025 10:50:35 until 19.04.2025 18:41:55
+		Duration:	07:51:20
+		Location:	50.85854 5.79843
+
+(9) - Herotent VIP Business Teams photos
+	CAAB1
+		Images:	347
+		Time:	19.04.2025 07:22:15 until 19.04.2025 10:10:36
+		Duration:	02:48:21
+		Location:	50.85889 5.79747
+
+	CRA1
+		Images:	667
+		Time:	19.04.2025 00:07:47 until 19.04.2025 10:04:48
+		Duration:	09:57:01
+		Location:	50.85889 5.79747
+
+	CSAMA1
+		Images:	312
+		Time:	19.04.2025 00:09:58 until 19.04.2025 09:27:23
+		Duration:	09:17:25
+		Location:	50.85889 5.79747
+
+	CSJA1
+		Images:	1559
+		Time:	19.04.2025 07:13:20 until 19.04.2025 14:40:12
+		Duration:	07:26:52
+		Location:	50.85889 5.79747
+
+(10) - Impressions / Pano
+	AMK1DRONE1
+		Images:	37
+		Time:	19.04.2025 08:51:26 until 19.04.2025 18:23:26
+		Duration:	09:32:00
+		Location:	50.86294 5.75499
+
+	CKFK1DRONE1
+		Images:	116
+		Time:	19.04.2025 06:49:05 until 19.04.2025 16:20:13
+		Duration:	09:31:08
+		Location:	50.86602 5.82153
+
+	CSJA1DRONE1
+		Images:	20
+		Time:	12.04.2025 18:20:48 until 19.04.2025 16:04:17
+		Duration:	6.21:43:29
+		Location:	50.85854 5.79843
+
+	PANO1
+(11) - km 12,5/150 + 103/200+ km 103/240
+	AWEN1
+		Images:	18825
+		Time:	19.04.2025 07:34:00 until 19.04.2025 13:11:11
+		Duration:	05:37:11
+		Location:	50.84573 5.77321
+
+(12) - km 12/150 + 102,5/200+ km 102,5/240
+	AJTA1
+		Images:	6963
+		Time:	19.04.2025 07:32:48 until 19.04.2025 13:54:04
+		Duration:	06:21:16
+		Location:	50.8487 5.77048
+
+(13) - km 13/150 + 103,5/200+ km 103,5/240
+	APMC1
+		Images:	9684
+		Time:	19.04.2025 07:34:16 until 19.04.2025 13:57:11
+		Duration:	06:22:55
+		Location:	50.84457 5.77823
+
+(14) - km 170/200 + km 206/240   (second loop)
+	CCZE2
+		Images:	2375
+		Time:	19.04.2025 15:35:18 until 19.04.2025 17:38:49
+		Duration:	02:03:31
+		Location:	50.86934 5.93624
+
+	CSEO2
+		Images:	7133
+		Time:	19.04.2025 15:08:52 until 19.04.2025 17:51:36
+		Duration:	02:42:44
+		Location:	50.86934 5.93624
+
+	CWIP2
+		Images:	3105
+		Time:	19.04.2025 15:12:05 until 19.04.2025 17:38:32
+		Duration:	02:26:27
+		Location:	50.86934 5.93624
+
+(15) - km 38,8/65 + km 67/100 + km89/125 + km65,5/200 + km65/240
+	AOP1
+		Images:	17024
+		Time:	19.04.2025 07:55:21 until 19.04.2025 15:15:17
+		Duration:	07:19:56
+		Location:	50.9029 5.92041
+
+	AOP1LS1
+		Images:	7856
+		Time:	19.04.2025 07:38:45 until 19.04.2025 15:08:16
+		Duration:	07:29:31
+		Location:	50.9029 5.92041
+
+(16) - km37/65 + km65,5/100 + km87,5/125 + km64/200 + km63,5/240
+	CCZE1
+		Images:	14385
+		Time:	19.04.2025 07:59:31 until 19.04.2025 14:46:10
+		Duration:	06:46:39
+		Location:	50.91591 5.91748
+
+(17) - km38,5/65 + km67,5/100 + km89,5/125 + km66/200 + km65,5/240
+	BMIJA1
+		Images:	20247
+		Time:	19.04.2025 08:34:31 until 19.04.2025 15:16:23
+		Duration:	06:41:52
+		Location:	50.90169 5.91901
+
+(18) - km39/65 = km68/100 = km90/125 + km66,5/200 = km66/240
+	CWIP1
+		Images:	6744
+		Time:	18.04.2025 19:00:32 until 19.04.2025 14:33:47
+		Duration:	19:33:15
+		Location:	50.89606 5.91988
+
+(19) - km41,5/65 = km70,5/100 = km92,5/125 + km69/200 = km68,5/240
+	CSEO1
+		Images:	24160
+		Time:	19.04.2025 07:33:35 until 19.04.2025 14:40:06
+		Duration:	07:06:31
+		Location:	50.8855 5.91755
+
+(20) - km52/65 - km80/100 - km101,5/125 - km123/150 - km78,5+175/200 - km77,5+211/240
+	CADHA1
+		Images:	5928
+		Time:	19.04.2025 08:59:45 until 19.04.2025 18:09:42
+		Duration:	09:09:57
+		Location:	50.84476 5.89462
+
+	CBENP1
+		Images:	22334
+		Time:	18.04.2025 19:47:28 until 19.04.2025 18:09:34
+		Duration:	22:22:06
+		Location:	50.84476 5.89462
+
+(21) - km53/65 - km81/100 - km102,5/125 - km124/150 - km79,5+176/200 - km78,5+212/240
+	CSTL1
+		Images:	31555
+		Time:	19.04.2025 08:51:18 until 19.04.2025 18:40:21
+		Duration:	09:49:03
+		Location:	50.85085 5.89763
+
+	CVL1
+		Images:	34141
+		Time:	18.04.2025 20:40:03 until 19.04.2025 18:40:21
+		Duration:	22:00:18
+		Location:	50.85085 5.89763
+
+(22) - km60/150  + km151/200 = km149/240
+	AGAC1
+		Images:	20209
+		Time:	19.04.2025 05:23:35 until 19.04.2025 15:09:59
+		Duration:	09:46:24
+		Location:	50.81207 5.90186
+
+	AMSC1
+		Images:	16203
+		Time:	19.04.2025 08:55:05 until 19.04.2025 15:39:50
+		Duration:	06:44:45
+		Location:	50.81126 5.90586
+
+	BNBA1
+		Images:	15242
+		Time:	19.04.2025 08:54:09 until 19.04.2025 15:39:00
+		Duration:	06:44:51
+		Location:	50.81126 5.90586
+
+(23) - Miss Amstel Podium
+	CAAB2
+		Images:	2551
+		Time:	19.04.2025 10:45:29 until 19.04.2025 18:56:12
+		Duration:	08:10:43
+		Location:	50.85854 5.79843
+
+	CSJA2
+		Images:	1100
+		Time:	19.04.2025 15:09:51 until 19.04.2025 19:06:26
+		Duration:	03:56:35
+		Location:	50.85854 5.79843
+
+(24) - START Shimano Experience Center
+	CKFK1
+		Images:	561
+		Time:	18.04.2025 15:40:13 until 19.04.2025 09:30:32
+		Duration:	17:50:19
+		Location:	50.86602 5.82153
+

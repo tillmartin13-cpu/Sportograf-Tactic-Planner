@@ -1,0 +1,341 @@
+EventId: 14812
+Spots: 55
+Total Images: 104518
+Time:	15.02.2025 07:08:27 to 16.02.2025 18:18:46
+Duration: 1.11:10:19
+
+(1) - Rowing
+	AIS1
+		Images:	9811
+		Time:	16.02.2025 07:56:58 until 16.02.2025 14:16:57
+		Duration:	06:19:59
+		Location:	NULL NULL
+
+	AJL1
+		Images:	7019
+		Time:	16.02.2025 08:20:35 until 16.02.2025 14:17:24
+		Duration:	05:56:49
+		Location:	NULL NULL
+
+	CRGA5
+		Images:	1418
+		Time:	16.02.2025 10:45:02 until 16.02.2025 15:58:39
+		Duration:	05:13:37
+		Location:	NULL NULL
+
+	GGT2
+		Images:	1819
+		Time:	16.02.2025 14:17:54 until 16.02.2025 17:29:33
+		Duration:	03:11:39
+		Location:	NULL NULL
+
+	JRP5
+		Images:	389
+		Time:	16.02.2025 10:58:43 until 16.02.2025 11:16:17
+		Duration:	00:17:34
+		Location:	NULL NULL
+
+	ROM5
+		Images:	617
+		Time:	16.02.2025 10:47:45 until 16.02.2025 16:02:08
+		Duration:	05:14:23
+		Location:	NULL NULL
+
+	SNP2
+		Images:	1896
+		Time:	16.02.2025 14:17:02 until 16.02.2025 17:29:04
+		Duration:	03:12:02
+		Location:	NULL NULL
+
+(2) - Sled Pull
+	AIS2
+		Images:	1667
+		Time:	15.02.2025 16:34:07 until 16.02.2025 16:52:02
+		Duration:	1.00:17:55
+		Location:	NULL NULL
+
+	AJL2
+		Images:	1394
+		Time:	16.02.2025 14:28:08 until 16.02.2025 17:12:07
+		Duration:	02:43:59
+		Location:	NULL NULL
+
+	CRGA3
+		Images:	1091
+		Time:	16.02.2025 08:23:31 until 16.02.2025 15:31:46
+		Duration:	07:08:15
+		Location:	NULL NULL
+
+	GGT1
+		Images:	3214
+		Time:	16.02.2025 07:29:38 until 16.02.2025 14:09:34
+		Duration:	06:39:56
+		Location:	NULL NULL
+
+	JRP3
+		Images:	366
+		Time:	16.02.2025 09:39:29 until 16.02.2025 14:27:12
+		Duration:	04:47:43
+		Location:	NULL NULL
+
+	ROM3
+		Images:	640
+		Time:	16.02.2025 10:00:54 until 16.02.2025 15:32:03
+		Duration:	05:31:09
+		Location:	NULL NULL
+
+	SNP1
+		Images:	4142
+		Time:	16.02.2025 07:29:51 until 16.02.2025 14:08:19
+		Duration:	06:38:28
+		Location:	NULL NULL
+
+(3) - Finish
+	ALSE1
+		Images:	5032
+		Time:	16.02.2025 08:55:22 until 16.02.2025 14:09:35
+		Duration:	05:14:13
+		Location:	NULL NULL
+
+	JRP9
+		Images:	499
+		Time:	16.02.2025 10:00:28 until 16.02.2025 12:16:47
+		Duration:	02:16:19
+		Location:	NULL NULL
+
+	JRP9LS1
+		Images:	2112
+		Time:	16.02.2025 09:02:47 until 16.02.2025 18:17:55
+		Duration:	09:15:08
+		Location:	NULL NULL
+
+	RBC2
+		Images:	2600
+		Time:	16.02.2025 14:09:04 until 16.02.2025 18:17:38
+		Duration:	04:08:34
+		Location:	NULL NULL
+
+	ROM9
+		Images:	165
+		Time:	16.02.2025 17:05:41 until 16.02.2025 17:24:56
+		Duration:	00:19:15
+		Location:	NULL NULL
+
+(4) - Sky Erg
+	ALSE2
+		Images:	2367
+		Time:	16.02.2025 14:17:08 until 16.02.2025 16:28:06
+		Duration:	02:10:58
+		Location:	NULL NULL
+
+	ATRE1
+		Images:	1503
+		Time:	15.02.2025 07:17:10 until 16.02.2025 14:00:35
+		Duration:	1.06:43:25
+		Location:	NULL NULL
+
+	CRGA1
+		Images:	52
+		Time:	15.02.2025 07:31:32 until 16.02.2025 14:02:06
+		Duration:	1.06:30:34
+		Location:	NULL NULL
+
+	DAC1
+		Images:	2908
+		Time:	16.02.2025 07:04:18 until 16.02.2025 13:59:10
+		Duration:	06:54:52
+		Location:	NULL NULL
+
+	GGA2
+		Images:	1100
+		Time:	16.02.2025 14:07:15 until 16.02.2025 16:30:52
+		Duration:	02:23:37
+		Location:	NULL NULL
+
+	JPBR2
+		Images:	1132
+		Time:	16.02.2025 14:05:13 until 16.02.2025 16:28:54
+		Duration:	02:23:41
+		Location:	NULL NULL
+
+	JRP1
+		Images:	168
+		Time:	16.02.2025 09:18:40 until 16.02.2025 14:11:43
+		Duration:	04:53:03
+		Location:	NULL NULL
+
+	RBC1
+		Images:	4200
+		Time:	16.02.2025 08:04:06 until 16.02.2025 13:58:02
+		Duration:	05:53:56
+		Location:	NULL NULL
+
+	ROM1
+		Images:	7
+		Time:	15.02.2025 07:14:03 until 16.02.2025 14:11:18
+		Duration:	1.06:57:15
+		Location:	NULL NULL
+
+(5) - Hero Wall
+	ANC1
+		Images:	2624
+		Time:	16.02.2025 06:51:11 until 16.02.2025 14:39:26
+		Duration:	07:48:15
+		Location:	NULL NULL
+
+	JRP8
+		Images:	79
+		Time:	16.02.2025 14:33:29 until 16.02.2025 14:45:41
+		Duration:	00:12:12
+		Location:	NULL NULL
+
+	STO2
+		Images:	928
+		Time:	16.02.2025 14:30:17 until 16.02.2025 18:18:46
+		Duration:	03:48:29
+		Location:	NULL NULL
+
+(6) - Sandbag Lunges
+	ANC2
+		Images:	1457
+		Time:	16.02.2025 14:47:12 until 16.02.2025 17:57:38
+		Duration:	03:10:26
+		Location:	NULL NULL
+
+	CRGA7
+		Images:	532
+		Time:	16.02.2025 11:25:22 until 16.02.2025 16:31:47
+		Duration:	05:06:25
+		Location:	NULL NULL
+
+	LUM1
+		Images:	5679
+		Time:	16.02.2025 07:56:31 until 16.02.2025 14:27:31
+		Duration:	06:31:00
+		Location:	NULL NULL
+
+	RAVE1
+		Images:	2383
+		Time:	15.02.2025 07:08:27 until 16.02.2025 14:26:37
+		Duration:	1.07:18:10
+		Location:	NULL NULL
+
+	ROM7
+		Images:	495
+		Time:	16.02.2025 11:24:57 until 16.02.2025 16:30:30
+		Duration:	05:05:33
+		Location:	NULL NULL
+
+	URU2
+		Images:	2466
+		Time:	16.02.2025 14:41:49 until 16.02.2025 17:56:06
+		Duration:	03:14:17
+		Location:	NULL NULL
+
+(7) - Sled Push
+	ATRE2
+		Images:	721
+		Time:	16.02.2025 14:06:05 until 16.02.2025 16:41:06
+		Duration:	02:35:01
+		Location:	NULL NULL
+
+	CRGA2
+		Images:	680
+		Time:	16.02.2025 09:25:11 until 16.02.2025 15:22:57
+		Duration:	05:57:46
+		Location:	NULL NULL
+
+	DAC2
+		Images:	1005
+		Time:	16.02.2025 14:04:41 until 16.02.2025 16:42:34
+		Duration:	02:37:53
+		Location:	NULL NULL
+
+	GGA1
+		Images:	4295
+		Time:	16.02.2025 07:18:44 until 16.02.2025 14:04:02
+		Duration:	06:45:18
+		Location:	NULL NULL
+
+	JPBR1
+		Images:	2478
+		Time:	15.02.2025 07:19:27 until 16.02.2025 13:59:54
+		Duration:	1.06:40:27
+		Location:	NULL NULL
+
+	JRP2
+		Images:	297
+		Time:	16.02.2025 08:13:58 until 16.02.2025 09:32:27
+		Duration:	01:18:29
+		Location:	NULL NULL
+
+	ROM2
+		Images:	819
+		Time:	16.02.2025 09:02:13 until 16.02.2025 15:08:38
+		Duration:	06:06:25
+		Location:	NULL NULL
+
+(8) - Impressions / Pano
+	CRGA1IMP1
+		Images:	85
+		Time:	16.02.2025 07:59:15 until 16.02.2025 09:06:32
+		Duration:	01:07:17
+		Location:	NULL NULL
+
+	JRP1IMP1
+		Images:	16
+		Time:	16.02.2025 08:39:44 until 16.02.2025 09:10:52
+		Duration:	00:31:08
+		Location:	NULL NULL
+
+	ROM1IMP1
+		Images:	54
+		Time:	16.02.2025 07:55:53 until 16.02.2025 09:00:51
+		Duration:	01:04:58
+		Location:	NULL NULL
+
+	PANO1
+(9) - Wall Balls
+	CRGA8
+		Images:	1756
+		Time:	16.02.2025 12:09:23 until 16.02.2025 16:57:33
+		Duration:	04:48:10
+		Location:	NULL NULL
+
+	LUM2
+		Images:	3109
+		Time:	16.02.2025 14:34:38 until 16.02.2025 18:08:08
+		Duration:	03:33:30
+		Location:	NULL NULL
+
+	RAVE2
+		Images:	895
+		Time:	16.02.2025 14:43:34 until 16.02.2025 18:08:01
+		Duration:	03:24:27
+		Location:	NULL NULL
+
+	ROM8
+		Images:	745
+		Time:	16.02.2025 12:10:03 until 16.02.2025 16:59:05
+		Duration:	04:49:02
+		Location:	NULL NULL
+
+	STO1
+		Images:	5474
+		Time:	15.02.2025 07:08:50 until 16.02.2025 14:30:16
+		Duration:	1.07:21:26
+		Location:	NULL NULL
+
+	URU1
+		Images:	3627
+		Time:	15.02.2025 07:28:43 until 16.02.2025 14:23:14
+		Duration:	1.06:54:31
+		Location:	NULL NULL
+
+(10) - Farmers Carry
+	ROM6LS1
+		Images:	2489
+		Time:	16.02.2025 07:27:36 until 16.02.2025 17:45:14
+		Duration:	10:17:38
+		Location:	NULL NULL
+

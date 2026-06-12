@@ -1,0 +1,96 @@
+EventId: 16271
+Spots: 14
+Total Images: 47644
+Time:	05.07.2025 06:07:24 to 05.07.2025 20:37:35
+Duration: 14:30:11
+
+(1) - Start
+	JUW1
+		Images:	3435
+		Time:	05.07.2025 06:22:53 until 05.07.2025 09:32:56
+		Duration:	03:10:03
+		Location:	50.64519 -2.06672
+
+	JUW1DRONE1
+		Images:	10
+		Time:	05.07.2025 06:42:00 until 05.07.2025 09:36:54
+		Duration:	02:54:54
+		Location:	50.64519 -2.06672
+
+	CMS1
+		Images:	1401
+		Time:	05.07.2025 06:09:02 until 05.07.2025 07:32:20
+		Duration:	01:23:18
+		Location:	50.64519 -2.06672
+
+	TOMY1
+		Images:	246
+		Time:	05.07.2025 06:07:24 until 05.07.2025 07:32:22
+		Duration:	01:24:58
+		Location:	50.64519 -2.06672
+
+(2) - Dancing Ledge
+	KYY1
+		Images:	10567
+		Time:	05.07.2025 08:26:10 until 05.07.2025 14:20:53
+		Duration:	05:54:43
+		Location:	50.59208 -2.00884
+
+(3) - Finish of Half Marathon
+	TOMY2
+		Images:	11728
+		Time:	05.07.2025 08:56:02 until 05.07.2025 17:33:11
+		Duration:	08:37:09
+		Location:	50.61941 -1.96268
+
+(4) - Old Harry Rocks
+	CMS2
+		Images:	7313
+		Time:	05.07.2025 10:03:52 until 05.07.2025 16:10:39
+		Duration:	06:06:47
+		Location:	50.64162 -1.92829
+
+	CMS2LS1
+		Images:	1133
+		Time:	05.07.2025 07:35:27 until 05.07.2025 16:13:33
+		Duration:	08:38:06
+		Location:	50.64162 -1.92829
+
+(5) - Finish
+	JUW2
+		Images:	4928
+		Time:	05.07.2025 12:06:05 until 05.07.2025 20:19:51
+		Duration:	08:13:46
+		Location:	50.64519 -2.06672
+
+	JUW2LS1
+		Images:	863
+		Time:	05.07.2025 11:21:42 until 05.07.2025 19:16:52
+		Duration:	07:55:10
+		Location:	50.64519 -2.06672
+
+	JUW2LS2
+		Images:	1009
+		Time:	05.07.2025 11:25:20 until 05.07.2025 19:15:13
+		Duration:	07:49:53
+		Location:	50.64519 -2.06672
+
+	KYY2
+		Images:	4615
+		Time:	05.07.2025 15:18:28 until 05.07.2025 20:33:47
+		Duration:	05:15:19
+		Location:	50.64519 -2.06672
+
+(6) - Medals
+	CMS3
+		Images:	264
+		Time:	05.07.2025 18:46:34 until 05.07.2025 20:34:22
+		Duration:	01:47:48
+		Location:	50.64519 -2.06672
+
+	TOMY3
+		Images:	132
+		Time:	05.07.2025 18:44:42 until 05.07.2025 20:37:35
+		Duration:	01:52:53
+		Location:	50.64519 -2.06672
+

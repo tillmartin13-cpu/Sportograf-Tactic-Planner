@@ -1,0 +1,195 @@
+EventId: 13759
+Spots: 30
+Total Images: 96257
+Time:	24.05.2025 03:43:39 to 24.05.2025 21:03:28
+Duration: 17:19:49
+
+(1) - Start
+	DG1
+		Images:	1626
+		Time:	24.05.2025 04:00:49 until 24.05.2025 05:47:24
+		Duration:	01:46:35
+		Location:	50.80411 12.92527
+
+(2) - 0,4 km nach Start
+	THS1
+		Images:	1335
+		Time:	24.05.2025 04:11:01 until 24.05.2025 05:44:56
+		Duration:	01:33:55
+		Location:	50.80150 12.92450
+
+(3) - 4,2 km nach Start (Pfarrhübel)
+	TIM1
+		Images:	3965
+		Time:	24.05.2025 03:43:39 until 24.05.2025 06:29:01
+		Duration:	02:45:22
+		Location:	50.78128 12.94056
+
+(4) - 10,5 km nach Start (Aussichtspunkt Eisenweg)
+	RJ1
+		Images:	6633
+		Time:	24.05.2025 05:16:19 until 24.05.2025 07:45:36
+		Duration:	02:29:17
+		Location:	50.74574 12.92169
+
+	RJ1LS1
+		Images:	1350
+		Time:	24.05.2025 05:43:38 until 24.05.2025 07:48:43
+		Duration:	02:05:05
+		Location:	50.74574 12.92169
+
+	RJ1LS2
+		Images:	1350
+		Time:	24.05.2025 05:43:38 until 24.05.2025 07:48:43
+		Duration:	02:05:05
+		Location:	50.74574 12.92169
+
+(5) - 13,4 km nach Start (Teichhaus Burkhardtsdorf)
+	THO1LS1
+		Images:	1440
+		Time:	24.05.2025 05:48:28 until 24.05.2025 07:53:47
+		Duration:	02:05:19
+		Location:	50.72905 12.92690
+
+	THO1
+		Images:	2275
+		Time:	24.05.2025 05:27:12 until 24.05.2025 07:53:41
+		Duration:	02:26:29
+		Location:	50.72905 12.92690
+
+(6) - 21,1 km nach Start (Kirche Auersbach)
+	THS2LS1
+		Images:	2403
+		Time:	24.05.2025 07:34:55 until 24.05.2025 10:24:08
+		Duration:	02:49:13
+		Location:	50.68420 12.91177
+
+	THS2LS2
+		Images:	866
+		Time:	24.05.2025 07:11:19 until 24.05.2025 08:47:34
+		Duration:	01:36:15
+		Location:	50.68420 12.91177
+
+	THS2
+		Images:	4566
+		Time:	24.05.2025 07:03:18 until 24.05.2025 10:10:40
+		Duration:	03:07:22
+		Location:	50.68420 12.91177
+
+(7) - 26,4 km nach Start (Jugendherberge Hormersdorf)
+	DG2LS1
+		Images:	2406
+		Time:	24.05.2025 07:44:29 until 24.05.2025 10:47:43
+		Duration:	03:03:14
+		Location:	50.65045 12.89632
+
+	DG2
+		Images:	4161
+		Time:	24.05.2025 07:29:57 until 24.05.2025 12:55:56
+		Duration:	05:25:59
+		Location:	50.65045 12.89632
+
+(8) - 32,8 km nach Start (Fernsehturm Geyer)
+	RJ2LS1
+		Images:	1975
+		Time:	24.05.2025 08:56:10 until 24.05.2025 12:42:35
+		Duration:	03:46:25
+		Location:	50.62162 12.86801
+
+	RJ2LS2
+		Images:	1270
+		Time:	24.05.2025 08:56:10 until 24.05.2025 12:42:35
+		Duration:	03:46:25
+		Location:	50.62162 12.86801
+
+	RJ2
+		Images:	5200
+		Time:	24.05.2025 09:08:19 until 24.05.2025 13:11:14
+		Duration:	04:02:55
+		Location:	50.62162 12.86801
+
+(9) - 35,0 km nach Start (Waldrand bei Elterlein)
+	THO2LS1
+		Images:	1822
+		Time:	24.05.2025 08:31:16 until 24.05.2025 14:01:15
+		Duration:	05:29:59
+		Location:	50.58774 12.88316
+
+	THO2
+		Images:	3944
+		Time:	24.05.2025 08:40:10 until 24.05.2025 13:58:53
+		Duration:	05:18:43
+		Location:	50.58774 12.88316
+
+(10) - 45,0 km nach Start (Crottendorfer Weg)
+	TIM2LS1
+		Images:	10541
+		Time:	24.05.2025 09:02:45 until 24.05.2025 16:19:13
+		Duration:	07:16:28
+		Location:	50.52600 12.90559
+
+	TIM2LS2
+		Images:	5229
+		Time:	24.05.2025 09:02:51 until 24.05.2025 16:19:19
+		Duration:	07:16:28
+		Location:	50.52600 12.90559
+
+	TIM2
+		Images:	4948
+		Time:	24.05.2025 09:20:25 until 24.05.2025 16:08:00
+		Duration:	06:47:35
+		Location:	50.52548 12.90615
+
+(11) - 60,7 km nach Start (Reitweg)
+	THS3LS1
+		Images:	2918
+		Time:	24.05.2025 12:19:46 until 24.05.2025 20:55:07
+		Duration:	08:35:21
+		Location:	50.42853 12.94955
+
+	THS3LS2
+		Images:	2759
+		Time:	24.05.2025 12:35:44 until 24.05.2025 20:47:47
+		Duration:	08:12:03
+		Location:	50.42853 12.94955
+
+	THS3
+		Images:	5510
+		Time:	24.05.2025 12:31:09 until 24.05.2025 21:00:21
+		Duration:	08:29:12
+		Location:	50.42853 12.94955
+
+	THO3
+		Images:	726
+		Time:	24.05.2025 16:09:21 until 24.05.2025 17:18:36
+		Duration:	01:09:15
+		Location:	50.42853 12.94955
+
+(12) - Ziel
+	DG3LS1
+		Images:	8866
+		Time:	24.05.2025 12:36:38 until 24.05.2025 20:53:57
+		Duration:	08:17:19
+		Location:	50.65045 12.89632
+
+	DG3
+		Images:	6092
+		Time:	24.05.2025 13:13:44 until 24.05.2025 21:03:28
+		Duration:	07:49:44
+		Location:	50.42720 12.95044
+
+(13) - Impressionen
+	RJ3
+		Images:	59
+		Time:	24.05.2025 15:42:54 until 24.05.2025 16:25:24
+		Duration:	00:42:30
+		Location:	50.42853 12.94955
+
+(14) - Impressions / Pano
+	RJ3DRONE1
+		Images:	22
+		Time:	24.05.2025 09:29:37 until 24.05.2025 15:40:02
+		Duration:	06:10:25
+		Location:	50.42853 12.94955
+
+	PANO1

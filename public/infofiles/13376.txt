@@ -1,0 +1,117 @@
+EventId: 13376
+Spots: 18
+Total Images: 105851
+Time:	19.09.2025 19:59:47 to 20.09.2025 18:51:32
+Duration: 22:51:45
+
+(1) - Swim Exit
+	AMK1
+		Images:	4340
+		Time:	19.09.2025 19:59:47 until 20.09.2025 18:40:48
+		Duration:	22:41:01
+		Location:	51.50581 -0.16817
+
+	DP4
+		Images:	640
+		Time:	20.09.2025 13:18:46 until 20.09.2025 13:38:33
+		Duration:	00:19:47
+		Location:	51.50581 -0.16817
+
+	LRE1
+		Images:	9140
+		Time:	19.09.2025 21:51:36 until 20.09.2025 18:40:32
+		Duration:	20:48:56
+		Location:	51.50581 -0.16817
+
+(2) - Swimming
+	DP1
+		Images:	12008
+		Time:	20.09.2025 08:05:48 until 20.09.2025 18:14:43
+		Duration:	10:08:55
+		Location:	51.50581 -0.16817
+
+	KMIN1
+		Images:	18821
+		Time:	20.09.2025 07:49:28 until 20.09.2025 18:39:41
+		Duration:	10:50:13
+		Location:	51.50581 -0.16817
+
+(3) - Finish Arch
+	DP1LS1
+		Images:	5567
+		Time:	20.09.2025 08:21:44 until 20.09.2025 18:20:05
+		Duration:	09:58:21
+		Location:	51.50593 -0.16822
+
+	DP6
+		Images:	501
+		Time:	20.09.2025 16:33:55 until 20.09.2025 16:45:44
+		Duration:	00:11:49
+		Location:	51.50593 -0.16822
+
+	NIA1
+		Images:	11190
+		Time:	20.09.2025 07:51:49 until 20.09.2025 18:41:19
+		Duration:	10:49:30
+		Location:	51.50593 -0.16822
+
+(4) - Herotent Medals
+	DP2
+		Images:	439
+		Time:	20.09.2025 12:13:17 until 20.09.2025 15:46:13
+		Duration:	03:32:56
+		Location:	51.50616 -0.16792
+
+	GU2
+		Images:	31
+		Time:	20.09.2025 17:20:23 until 20.09.2025 17:27:31
+		Duration:	00:07:08
+		Location:	51.50616 -0.16792
+
+	LJA1
+		Images:	1892
+		Time:	19.09.2025 20:08:07 until 20.09.2025 18:45:53
+		Duration:	22:37:46
+		Location:	51.50616 -0.16792
+
+	SHP2
+		Images:	314
+		Time:	20.09.2025 17:28:14 until 20.09.2025 18:39:11
+		Duration:	01:10:57
+		Location:	51.50616 -0.16792
+
+(5) - Finish Carpet
+	DP3
+		Images:	584
+		Time:	20.09.2025 12:54:51 until 20.09.2025 13:14:51
+		Duration:	00:20:00
+		Location:	51.50591 -0.17119
+
+	CH1
+		Images:	29492
+		Time:	20.09.2025 07:39:35 until 20.09.2025 18:42:01
+		Duration:	11:02:26
+		Location:	51.50591 -0.17119
+
+(6) - Herotent Medals Classic
+	DP5
+		Images:	229
+		Time:	20.09.2025 15:02:28 until 20.09.2025 15:23:43
+		Duration:	00:21:15
+		Location:	51.50634 -0.16811
+
+	GU1
+		Images:	1933
+		Time:	20.09.2025 08:20:29 until 20.09.2025 18:51:32
+		Duration:	10:31:03
+		Location:	51.50634 -0.16811
+
+(7) - Swim Entry
+	SHP1
+		Images:	8730
+		Time:	20.09.2025 07:50:26 until 20.09.2025 17:21:51
+		Duration:	09:31:25
+		Location:	51.50581 -0.16817
+
+(8) - Impressions / Pano
+	PANO1

@@ -1,0 +1,154 @@
+EventId: 14255
+Spots: 23
+Total Images: 90200
+Time:	23.08.2025 20:48:39 to 24.08.2025 16:15:34
+Duration: 19:26:55
+
+(1) - Swim - Start
+	GAT1
+		Images:	2479
+		Time:	24.08.2025 06:38:14 until 24.08.2025 07:51:11
+		Duration:	01:12:57
+		Location:	46.13752 3.41079
+
+	AMU1
+		Images:	619
+		Time:	24.08.2025 06:34:29 until 24.08.2025 07:55:25
+		Duration:	01:20:56
+		Location:	46.13752 3.41079
+
+	LEBE1DRONE1
+		Images:	44
+		Time:	24.08.2025 07:58:33 until 24.08.2025 14:45:51
+		Duration:	06:47:18
+		Location:	46.13410 3.46133
+
+(2) - Swim - Transition zone
+	DART1
+		Images:	3868
+		Time:	24.08.2025 06:42:29 until 24.08.2025 08:57:51
+		Duration:	02:15:22
+		Location:	46.13737 3.41068
+
+	MDS1
+		Images:	3333
+		Time:	23.08.2025 21:16:03 until 24.08.2025 09:02:57
+		Duration:	11:46:54
+		Location:	46.13733 3.41067
+
+	MDS1LS1
+		Images:	1786
+		Time:	24.08.2025 07:14:54 until 24.08.2025 09:05:50
+		Duration:	01:50:56
+		Location:	46.13733 3.41067
+
+(3) - Bike - Transition zone
+	ALL1
+		Images:	2562
+		Time:	23.08.2025 20:48:39 until 24.08.2025 09:02:21
+		Duration:	12:13:42
+		Location:	46.13657 3.41088
+
+	ALL1LS1
+		Images:	3914
+		Time:	24.08.2025 07:23:22 until 24.08.2025 09:03:14
+		Duration:	01:39:52
+		Location:	46.13657 3.41088
+
+(4) - Bike - 40.0 km
+	MATR1
+		Images:	6984
+		Time:	24.08.2025 07:27:59 until 24.08.2025 11:04:46
+		Duration:	03:36:47
+		Location:	46.13777 3.56953
+
+	MATR1LS1
+		Images:	2190
+		Time:	24.08.2025 07:16:29 until 24.08.2025 11:11:52
+		Duration:	03:55:23
+		Location:	46.13777 3.56953
+
+	MATR1LS2
+		Images:	2106
+		Time:	24.08.2025 07:05:21 until 24.08.2025 11:15:33
+		Duration:	04:10:12
+		Location:	46.13777 3.56953
+
+	MATR1DRONE1
+		Images:	7
+		Time:	24.08.2025 07:20:57 until 24.08.2025 07:21:58
+		Duration:	00:01:01
+		Location:	46.13777 3.56953
+
+(5) - Bike - 78.0 km
+	ARF1
+		Images:	5755
+		Time:	24.08.2025 07:34:44 until 24.08.2025 12:56:46
+		Duration:	05:22:02
+		Location:	46.10748 3.49191
+
+(6) - Bike - 82.0 km
+	LEBE1
+		Images:	3826
+		Time:	24.08.2025 08:17:20 until 24.08.2025 13:09:09
+		Duration:	04:51:49
+		Location:	46.13410 3.46133
+
+	LEBE1LS1
+		Images:	1955
+		Time:	24.08.2025 07:46:54 until 24.08.2025 12:13:27
+		Duration:	04:26:33
+		Location:	46.13410 3.46133
+
+(7) - Run - 2.0 km
+	AMU2
+		Images:	7829
+		Time:	24.08.2025 09:50:38 until 24.08.2025 15:11:29
+		Duration:	05:20:51
+		Location:	46.13994 3.41304
+
+(8) - Run - 9.0 km
+	MDS2
+		Images:	9128
+		Time:	24.08.2025 10:16:29 until 24.08.2025 16:00:55
+		Duration:	05:44:26
+		Location:	46.12457 3.41184
+
+	MDS2LS2
+		Images:	5270
+		Time:	24.08.2025 09:40:46 until 24.08.2025 15:47:59
+		Duration:	06:07:13
+		Location:	46.12457 3.41184
+
+	MDS2LS1
+		Images:	4670
+		Time:	23.08.2025 21:20:08 until 24.08.2025 15:54:44
+		Duration:	18:34:36
+		Location:	46.12457 3.41184
+
+(9) - Run - 10.0 km
+	GAT2
+		Images:	6863
+		Time:	24.08.2025 08:34:51 until 24.08.2025 16:06:30
+		Duration:	07:31:39
+		Location:	46.13151 3.41217
+
+(10) - Finish
+	DART2
+		Images:	6581
+		Time:	24.08.2025 10:51:48 until 24.08.2025 16:15:32
+		Duration:	05:23:44
+		Location:	46.13751 3.40914
+
+	ALL2
+		Images:	6343
+		Time:	24.08.2025 10:49:56 until 24.08.2025 16:15:34
+		Duration:	05:25:38
+		Location:	46.13751 3.40914
+
+	ALL2LS1
+		Images:	2088
+		Time:	24.08.2025 10:51:08 until 24.08.2025 16:05:05
+		Duration:	05:13:57
+		Location:	46.13751 3.40914
+

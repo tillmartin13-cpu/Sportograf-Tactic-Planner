@@ -1,0 +1,229 @@
+EventId: 13803
+Spots: 36
+Total Images: 318352
+Time:	31.12.2013 23:25:11 to 28.05.2025 21:43:28
+Duration: 4165.22:18:17
+
+(1) - 0,9 km Ammonstraße
+	BLEM1
+		Images:	4693
+		Time:	28.05.2025 17:02:11 until 28.05.2025 20:43:30
+		Duration:	03:41:19
+		Location:	51.04440 13.72595
+
+	BLEM1LS1
+		Images:	2498
+		Time:	28.05.2025 16:58:19 until 28.05.2025 20:36:07
+		Duration:	03:37:48
+		Location:	51.04440 13.72595
+
+	BLEM1LS2
+		Images:	2498
+		Time:	28.05.2025 16:58:19 until 28.05.2025 20:36:06
+		Duration:	03:37:47
+		Location:	51.04440 13.72595
+
+(2) - 1.6 km Partyzone Tunnel Wiener Platz
+	ARW1
+		Images:	13027
+		Time:	28.05.2025 16:32:17 until 28.05.2025 20:44:01
+		Duration:	04:11:44
+		Location:	51.04041 13.73481
+
+	ARW1LS1
+		Images:	5508
+		Time:	28.05.2025 16:48:16 until 28.05.2025 20:44:02
+		Duration:	03:55:46
+		Location:	51.04041 13.73481
+
+	ATIM1
+		Images:	9980
+		Time:	28.05.2025 16:42:49 until 28.05.2025 20:43:33
+		Duration:	04:00:44
+		Location:	51.04041 13.73481
+
+(3) - 1.8 km Ausgang Tunnel Wiener Platz
+	APMA1
+		Images:	11697
+		Time:	28.05.2025 17:05:17 until 28.05.2025 20:45:27
+		Duration:	03:40:10
+		Location:	51.04069 13.73626
+
+	APMA1LS1
+		Images:	2629
+		Time:	31.12.2013 23:25:11 until 01.01.2014 03:06:56
+		Duration:	03:41:45
+		Location:	51.04069 13.73626
+
+	APMA1LS2
+		Images:	3707
+		Time:	28.05.2025 17:05:31 until 28.05.2025 20:47:29
+		Duration:	03:41:58
+		Location:	51.04069 13.73626
+
+	ARJ1
+		Images:	19175
+		Time:	28.05.2025 17:05:17 until 28.05.2025 20:45:26
+		Duration:	03:40:09
+		Location:	51.04069 13.73626
+
+	ARJ1LS1
+		Images:	3679
+		Time:	28.05.2025 17:04:53 until 28.05.2025 20:41:48
+		Duration:	03:36:55
+		Location:	51.04069 13.73626
+
+	ARJ1LS2
+		Images:	2875
+		Time:	28.05.2025 17:04:20 until 28.05.2025 20:42:07
+		Duration:	03:37:47
+		Location:	51.04069 13.73626
+
+(4) - 2,9 km Parkstraße
+	BGUD1
+		Images:	31332
+		Time:	28.05.2025 17:08:54 until 28.05.2025 20:55:40
+		Duration:	03:46:46
+		Location:	51.03982 13.74394
+
+	BGUD1LS1
+		Images:	3424
+		Time:	28.05.2025 16:53:14 until 28.05.2025 20:59:00
+		Duration:	04:05:46
+		Location:	51.03982 13.74394
+
+	BGUD1LS2
+		Images:	3418
+		Time:	28.05.2025 17:08:41 until 28.05.2025 20:58:20
+		Duration:	03:49:39
+		Location:	51.03982 13.74394
+
+	BHKU1
+		Images:	17718
+		Time:	28.05.2025 17:08:32 until 28.05.2025 20:53:16
+		Duration:	03:44:44
+		Location:	51.03982 13.74394
+
+(5) - 3,3 km Blüherstraße
+	BDAL1
+		Images:	21832
+		Time:	28.05.2025 17:10:07 until 28.05.2025 21:00:29
+		Duration:	03:50:22
+		Location:	51.04299 13.74739
+
+	BVLE1
+		Images:	13436
+		Time:	28.05.2025 17:09:27 until 28.05.2025 21:00:35
+		Duration:	03:51:08
+		Location:	51.04299 13.74739
+
+	BVLE1LS1
+		Images:	3698
+		Time:	28.05.2025 17:09:01 until 28.05.2025 20:59:50
+		Duration:	03:50:49
+		Location:	51.04299 13.74739
+
+(6) - 3.7 km Partyzone Lingnerallee 1
+	AJEM1
+		Images:	11105
+		Time:	28.05.2025 17:09:09 until 28.05.2025 21:02:22
+		Duration:	03:53:13
+		Location:	51.04581 13.74690
+
+	AMAWA1
+		Images:	8932
+		Time:	28.05.2025 17:08:24 until 28.05.2025 21:04:07
+		Duration:	03:55:43
+		Location:	51.04581 13.74690
+
+	AMAWA1LS1
+		Images:	4152
+		Time:	28.05.2025 17:13:10 until 28.05.2025 21:03:15
+		Duration:	03:50:05
+		Location:	51.04581 13.74690
+
+(7) - 4,5 km Partyzone Lingnerallee 3
+	BJOL1
+		Images:	9458
+		Time:	28.05.2025 17:10:27 until 28.05.2025 21:10:36
+		Duration:	04:00:09
+		Location:	51.04439 13.74922
+
+	BSLE1
+		Images:	11494
+		Time:	28.05.2025 17:13:02 until 28.05.2025 21:07:27
+		Duration:	03:54:25
+		Location:	51.04439 13.74922
+
+(8) - 4,8 km Helmut-Schön-Allee
+	BKZY1
+		Images:	4155
+		Time:	28.05.2025 17:13:52 until 28.05.2025 21:05:35
+		Duration:	03:51:43
+		Location:	51.04307 13.74994
+
+	BTASI1
+		Images:	8332
+		Time:	28.05.2025 14:51:52 until 28.05.2025 21:14:01
+		Duration:	06:22:09
+		Location:	51.04307 13.74994
+
+(9) - 4.0 km Partyzone Lingnerallee 2
+	ACHSA1
+		Images:	5603
+		Time:	28.05.2025 17:12:05 until 28.05.2025 21:08:52
+		Duration:	03:56:47
+		Location:	51.04329 13.75131
+
+	AMIKO1
+		Images:	6826
+		Time:	28.05.2025 16:54:04 until 28.05.2025 20:56:05
+		Duration:	04:02:01
+		Location:	51.04329 13.75131
+
+(10) - Finish
+	BBS1
+		Images:	6566
+		Time:	28.05.2025 17:11:09 until 28.05.2025 21:43:28
+		Duration:	04:32:19
+		Location:	51.04074 13.74834
+
+	BRYS1
+		Images:	16306
+		Time:	28.05.2025 17:10:04 until 28.05.2025 21:37:19
+		Duration:	04:27:15
+		Location:	51.04074 13.74834
+
+	BRYS1LS1
+		Images:	5109
+		Time:	28.05.2025 16:39:22 until 28.05.2025 21:22:37
+		Duration:	04:43:15
+		Location:	51.04074 13.74834
+
+	BRYS1LS2
+		Images:	4987
+		Time:	28.05.2025 16:37:19 until 28.05.2025 21:08:56
+		Duration:	04:31:37
+		Location:	51.04074 13.74834
+
+(11) - Finish straight
+	AMGEN1
+		Images:	20030
+		Time:	28.05.2025 17:14:56 until 28.05.2025 21:13:41
+		Duration:	03:58:45
+		Location:	51.04095 13.74936
+
+	AMIH1
+		Images:	12539
+		Time:	28.05.2025 17:14:55 until 28.05.2025 21:27:25
+		Duration:	04:12:30
+		Location:	51.04095 13.74936
+
+	AMIH1LS1
+		Images:	5934
+		Time:	28.05.2025 17:01:10 until 28.05.2025 21:17:47
+		Duration:	04:16:37
+		Location:	51.04095 13.74936
+
+(12) - Impressions / Pano
+	PANO1

@@ -1,0 +1,140 @@
+EventId: 13948
+Spots: 21
+Total Images: 39964
+Time:	13.09.2025 06:16:00 to 13.09.2025 19:15:00
+Duration: 12:59:00
+
+(1) - Ermatingen
+	EVL3
+		Images:	349
+		Time:	13.09.2025 16:58:31 until 13.09.2025 18:28:25
+		Duration:	01:29:54
+		Location:	47.67332 9.06497
+
+(2) - Gravel nahe Napoleonturm
+	LUJ2
+		Images:	168
+		Time:	13.09.2025 11:10:22 until 13.09.2025 19:02:03
+		Duration:	07:51:41
+		Location:	47.64151 9.07869
+
+	LUJ2LS1
+		Images:	83
+		Time:	13.09.2025 11:56:13 until 13.09.2025 17:41:01
+		Duration:	05:44:48
+		Location:	47.64151 9.07869
+
+(3) - Gravel oberhalb Tägerwilen
+	LUJ1
+		Images:	157
+		Time:	13.09.2025 08:11:55 until 13.09.2025 11:09:28
+		Duration:	02:57:33
+		Location:	47.64058 9.12608
+
+	LUJ1LS1
+		Images:	195
+		Time:	13.09.2025 07:49:26 until 13.09.2025 10:22:57
+		Duration:	02:33:31
+		Location:	47.64058 9.12608
+
+(4) - Hockgraben (Friedrich Gräsel Skulptur)
+	EVL1
+		Images:	3403
+		Time:	13.09.2025 07:18:44 until 13.09.2025 15:44:53
+		Duration:	08:26:09
+		Location:	47.68761 9.19115
+
+	EVL1LS1
+		Images:	951
+		Time:	13.09.2025 07:28:30 until 13.09.2025 15:35:00
+		Duration:	08:06:30
+		Location:	47.68761 9.19115
+
+(5) - Impressions / Pano
+	EVL1DRONE1
+		Images:	15
+		Time:	13.09.2025 08:19:18 until 13.09.2025 16:32:17
+		Duration:	08:12:59
+		Location:	47.68761 9.19115
+
+	PANO1
+(6) - Insel Reichenau
+	EVL2
+		Images:	8
+		Time:	13.09.2025 16:26:05 until 13.09.2025 16:30:20
+		Duration:	00:04:15
+		Location:	47.68727 9.09179
+
+(7) - Lochau nach Bregenz
+	JNK1
+		Images:	2434
+		Time:	13.09.2025 07:18:23 until 13.09.2025 17:27:18
+		Duration:	10:08:55
+		Location:	47.52406 9.75105
+
+	JNK1LS1
+		Images:	3022
+		Time:	13.09.2025 07:08:50 until 13.09.2025 13:48:17
+		Duration:	06:39:27
+		Location:	47.52406 9.75105
+
+(8) - "Mur du Bodensee"
+	RONS2LS1
+		Images:	4591
+		Time:	13.09.2025 07:05:17 until 13.09.2025 18:54:38
+		Duration:	11:49:21
+		Location:	47.70116 9.26075
+
+	RONS1LS1
+		Images:	4947
+		Time:	13.09.2025 06:22:01 until 13.09.2025 17:31:56
+		Duration:	11:09:55
+		Location:	47.70103 9.25995
+
+	RONS1DRONE1
+		Images:	32
+		Time:	13.09.2025 08:12:48 until 13.09.2025 11:24:18
+		Duration:	03:11:30
+		Location:	47.70103 9.25995
+
+(9) - Posten Meersburg / "Mur du Bodensee"
+	RONS1
+		Images:	6232
+		Time:	13.09.2025 06:16:00 until 13.09.2025 19:15:00
+		Duration:	12:59:00
+		Location:	47.70136 9.26106
+
+(10) - Radolfzell nach Horn
+	SON1
+		Images:	2636
+		Time:	13.09.2025 07:10:42 until 13.09.2025 17:55:15
+		Duration:	10:44:33
+		Location:	47.71094 8.96807
+
+(11) - Rheinbrücke Stein am Rhein
+	MAPP1
+		Images:	2914
+		Time:	13.09.2025 06:49:15 until 13.09.2025 19:00:01
+		Duration:	12:10:46
+		Location:	47.65831 8.85905
+
+	MAPP1LS1
+		Images:	4522
+		Time:	13.09.2025 06:48:04 until 13.09.2025 18:52:53
+		Duration:	12:04:49
+		Location:	47.65831 8.85905
+
+(12) - Posten Tägerwilen
+	LBO1
+		Images:	1654
+		Time:	13.09.2025 06:50:10 until 13.09.2025 14:34:23
+		Duration:	07:44:13
+		Location:	47.65620 9.14373
+
+(13) - Tägerwilen
+	LBO2
+		Images:	1651
+		Time:	13.09.2025 14:41:27 until 13.09.2025 18:31:52
+		Duration:	03:50:25
+		Location:	47.65536 9.14430
+

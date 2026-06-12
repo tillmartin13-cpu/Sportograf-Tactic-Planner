@@ -1,0 +1,149 @@
+EventId: 13778
+Spots: 22
+Total Images: 34084
+Time:	20.09.2025 10:17:15 to 21.09.2025 13:19:23
+Duration: 1.03:02:08
+
+(1) - Start
+	MIJA1
+		Images:	2361
+		Time:	20.09.2025 11:02:40 until 20.09.2025 13:01:57
+		Duration:	01:59:17
+		Location:	51.02658 6.91289
+
+(2) - 9,0 km
+	THOS1
+		Images:	1132
+		Time:	20.09.2025 12:52:04 until 20.09.2025 15:01:40
+		Duration:	02:09:36
+		Location:	50.97301 6.97945
+
+(3) - 11,0 km
+	MABR1
+		Images:	2624
+		Time:	20.09.2025 10:17:15 until 20.09.2025 15:21:33
+		Duration:	05:04:18
+		Location:	50.96285 6.98721
+
+(4) - 15,5 km
+	MB1
+		Images:	3285
+		Time:	20.09.2025 12:59:10 until 20.09.2025 16:09:33
+		Duration:	03:10:23
+		Location:	50.94715 6.97078
+
+(5) - 17,8 km
+	MW1
+		Images:	5294
+		Time:	20.09.2025 14:32:36 until 20.09.2025 16:49:23
+		Duration:	02:16:47
+		Location:	50.95869 6.99218
+
+	MW1LS2
+		Images:	1759
+		Time:	20.09.2025 13:50:10 until 20.09.2025 16:39:36
+		Duration:	02:49:26
+		Location:	50.95869 6.99218
+
+	MW1LS1
+		Images:	1019
+		Time:	20.09.2025 14:02:36 until 20.09.2025 16:36:24
+		Duration:	02:33:48
+		Location:	50.95869 6.99218
+
+(6) - 35,0 km
+	MIJA2
+		Images:	2382
+		Time:	20.09.2025 17:01:41 until 20.09.2025 21:09:31
+		Duration:	04:07:50
+		Location:	50.99247 7.05581
+
+(7) - 36,0 km
+	THOS2
+		Images:	978
+		Time:	20.09.2025 13:17:18 until 20.09.2025 21:28:13
+		Duration:	08:10:55
+		Location:	50.9847 7.04257
+
+(8) - 39,6 km
+	MABR2
+		Images:	1743
+		Time:	20.09.2025 17:43:02 until 20.09.2025 21:32:26
+		Duration:	03:49:24
+		Location:	50.96981 7.02924
+
+(9) - 42,0 km
+	MB2
+		Images:	757
+		Time:	20.09.2025 17:43:01 until 20.09.2025 21:17:43
+		Duration:	03:34:42
+		Location:	50.95206 7.03078
+
+(10) - 43,0 km
+	MW2
+		Images:	1062
+		Time:	20.09.2025 18:03:49 until 20.09.2025 19:49:27
+		Duration:	01:45:38
+		Location:	50.94865 7.03177
+
+	MW2LS2
+		Images:	341
+		Time:	20.09.2025 18:02:26 until 20.09.2025 19:51:44
+		Duration:	01:49:18
+		Location:	50.94865 7.03177
+
+	MW2LS1
+		Images:	359
+		Time:	20.09.2025 18:00:08 until 20.09.2025 19:51:45
+		Duration:	01:51:37
+		Location:	50.94865 7.03177
+
+(11) - 62,0 km
+	MW3
+		Images:	819
+		Time:	20.09.2025 22:35:56 until 21.09.2025 04:02:44
+		Duration:	05:26:48
+		Location:	50.89797 6.92338
+
+	MW3LS1
+		Images:	1351
+		Time:	20.09.2025 22:19:53 until 21.09.2025 03:54:57
+		Duration:	05:35:04
+		Location:	50.89797 6.92338
+
+(12) - 71,5 km
+	MB3
+		Images:	1226
+		Time:	20.09.2025 21:19:50 until 21.09.2025 05:16:58
+		Duration:	07:57:08
+		Location:	50.93962 6.87332
+
+(13) - 95,5 km
+	MABR3
+		Images:	3322
+		Time:	21.09.2025 04:13:00 until 21.09.2025 12:30:06
+		Duration:	08:17:06
+		Location:	51.04361 6.93067
+
+(14) - Finish
+	THOS3
+		Images:	1223
+		Time:	21.09.2025 04:28:17 until 21.09.2025 13:18:41
+		Duration:	08:50:24
+		Location:	51.02667 6.91312
+
+	MW3DRONE1
+		Images:	23
+		Time:	20.09.2025 19:24:55 until 21.09.2025 11:58:18
+		Duration:	16:33:23
+		Location:	51.02667 6.91312
+
+(15) - Herotent
+	MIJA3
+		Images:	1024
+		Time:	21.09.2025 04:03:53 until 21.09.2025 13:19:23
+		Duration:	09:15:30
+		Location:	51.02667 6.91314
+
+(16) - Impressions / Pano
+	PANO1

@@ -1,0 +1,576 @@
+EventId: 14975
+Spots: 84
+Total Images: 684956
+Time:	01.01.0001 23:00:00 to 19.01.2025 15:14:46
+Duration: 739268.16:14:46
+
+(1) - 0,0 km
+	EPTL2
+		Images:	7305
+		Time:	19.01.2025 10:34:39 until 19.01.2025 13:38:30
+		Duration:	03:03:51
+		Location:	NULL NULL
+
+(2) - 0,0 km 2nd
+	EPTR2
+		Images:	7906
+		Time:	19.01.2025 08:25:53 until 19.01.2025 11:11:01
+		Duration:	02:45:08
+		Location:	NULL NULL
+
+(3) - 0,0 km Candid Megyn
+	EMBAR1
+		Images:	452
+		Time:	19.01.2025 04:24:22 until 19.01.2025 05:17:11
+		Duration:	00:52:49
+		Location:	NULL NULL
+
+(4) - 0,0 km FInish trigger Center
+	EFTCE1
+		Images:	18193
+		Time:	19.01.2025 04:43:53 until 19.01.2025 11:05:24
+		Duration:	06:21:31
+		Location:	NULL NULL
+
+(5) - 0,0 km Finish trigger ground right
+	ETGRI1
+		Images:	12427
+		Time:	01.01.0001 23:00:00 until 19.01.2025 11:22:04
+		Duration:	739268.12:22:04
+		Location:	NULL NULL
+
+(6) - 0,0 km finisht´ trigger ground left
+	EFTGL1
+		Images:	13795
+		Time:	19.01.2025 08:30:57 until 19.01.2025 12:23:24
+		Duration:	03:52:27
+		Location:	NULL NULL
+
+(7) - 0,0 km MSC 1 Alan
+	EANG1
+		Images:	8457
+		Time:	19.01.2025 07:36:04 until 19.01.2025 08:59:51
+		Duration:	01:23:47
+		Location:	NULL NULL
+
+(8) - 0,0 km MSC 1 Brantley
+	EBSTE1
+		Images:	3004
+		Time:	19.01.2025 05:15:23 until 19.01.2025 07:02:42
+		Duration:	01:47:19
+		Location:	NULL NULL
+
+(9) - 0,0 km MSC 1 Julio
+	EJMOR1
+		Images:	5808
+		Time:	19.01.2025 05:37:13 until 19.01.2025 07:04:18
+		Duration:	01:27:05
+		Location:	NULL NULL
+
+(10) - 0,0 km MSC 1 Tom
+	ETMEN1
+		Images:	4680
+		Time:	19.01.2025 05:34:34 until 19.01.2025 07:02:13
+		Duration:	01:27:39
+		Location:	NULL NULL
+
+(11) - 0,0 km MSC 1 Trigger
+	EANG1LS1
+		Images:	3155
+		Time:	19.01.2025 03:27:25 until 19.01.2025 05:03:18
+		Duration:	01:35:53
+		Location:	NULL NULL
+
+(12) - 0,0 km MSC 10 Greg
+	EGREG2
+		Images:	1245
+		Time:	19.01.2025 10:01:12 until 19.01.2025 12:40:17
+		Duration:	02:39:05
+		Location:	NULL NULL
+
+(13) - 0,0 km MSC 10 Leo
+	ELBA1
+		Images:	24862
+		Time:	19.01.2025 06:42:04 until 19.01.2025 13:12:27
+		Duration:	06:30:23
+		Location:	NULL NULL
+
+(14) - 0,0 km MSC 10 Michael
+	EMVAL2
+		Images:	5001
+		Time:	19.01.2025 11:49:53 until 19.01.2025 15:08:06
+		Duration:	03:18:13
+		Location:	NULL NULL
+
+(15) - 0,0 km MSC 11 Joe Fusco
+	EJFUS1
+		Images:	4071
+		Time:	19.01.2025 10:56:40 until 19.01.2025 13:02:00
+		Duration:	02:05:20
+		Location:	NULL NULL
+
+(16) - 0,0 km MSC 11 TOM
+	ETMEN2
+		Images:	18553
+		Time:	19.01.2025 07:43:01 until 19.01.2025 13:17:47
+		Duration:	05:34:46
+		Location:	NULL NULL
+
+(17) - 0,0 km MSC 3 Alan
+	ABART1
+		Images:	5835
+		Time:	19.01.2025 07:03:54 until 19.01.2025 09:09:54
+		Duration:	02:06:00
+		Location:	NULL NULL
+
+(18) - 0,0 km MSC 3 Jeff
+	EJLAU1
+		Images:	9680
+		Time:	19.01.2025 05:48:50 until 19.01.2025 07:59:58
+		Duration:	02:11:08
+		Location:	NULL NULL
+
+(19) - 0,0 km MSC 3 Raymond
+	ERALD1
+		Images:	5080
+		Time:	19.01.2025 06:33:55 until 19.01.2025 08:51:57
+		Duration:	02:18:02
+		Location:	NULL NULL
+
+(20) - 0,0 km MSC 3 Triugger
+	EJLAU1LS1
+		Images:	6117
+		Time:	19.01.2025 06:05:00 until 19.01.2025 07:47:39
+		Duration:	01:42:39
+		Location:	NULL NULL
+
+(21) - 0,0 km MSC 5 Greg
+	EGREG1
+		Images:	20200
+		Time:	19.01.2025 05:38:00 until 19.01.2025 08:38:50
+		Duration:	03:00:50
+		Location:	NULL NULL
+
+	EGREG3
+		Images:	6553
+		Time:	19.01.2025 05:38:00 until 19.01.2025 06:45:10
+		Duration:	01:07:10
+		Location:	NULL NULL
+
+(22) - 0,0 km MSC 5 MIchael
+	EMVAL1
+		Images:	4786
+		Time:	19.01.2025 08:20:55 until 19.01.2025 11:11:22
+		Duration:	02:50:27
+		Location:	NULL NULL
+
+(23) - 0,0 km MSC 5 Trigger
+	EMVAL1LS1
+(24) - 0,0 km MSC 7 Alan
+	ABART2
+		Images:	2387
+		Time:	19.01.2025 09:28:17 until 19.01.2025 10:25:46
+		Duration:	00:57:29
+		Location:	NULL NULL
+
+(25) - 0,0 km MSC 7 Raymond
+	ERALD2
+		Images:	362
+		Time:	19.01.2025 09:56:15 until 19.01.2025 10:25:29
+		Duration:	00:29:14
+		Location:	NULL NULL
+
+(26) - 0,0 km MSC 7 Raymond2
+	ERALD3
+		Images:	768
+		Time:	19.01.2025 09:57:04 until 19.01.2025 10:18:49
+		Duration:	00:21:45
+		Location:	NULL NULL
+
+(27) - 0,0 km MSC 7 Trigger
+	ABART2LS1
+		Images:	3874
+		Time:	19.01.2025 09:15:48 until 19.01.2025 10:25:51
+		Duration:	01:10:03
+		Location:	NULL NULL
+
+(28) - 0,0 km MSC 8 Dru
+	EDLAM1
+		Images:	9601
+		Time:	19.01.2025 09:32:02 until 19.01.2025 13:53:28
+		Duration:	04:21:26
+		Location:	NULL NULL
+
+(29) - 0,0 km MSC 9 Douglas
+	DBROW1
+		Images:	18380
+		Time:	19.01.2025 09:33:44 until 19.01.2025 12:22:46
+		Duration:	02:49:02
+		Location:	NULL NULL
+
+(30) - 0,0 km MSC 9 Guilliermo
+	EGUIL1
+		Images:	4876
+		Time:	19.01.2025 09:40:38 until 19.01.2025 12:24:05
+		Duration:	02:43:27
+		Location:	NULL NULL
+
+(31) - 0,0 km PR stefan
+	ESTEF1
+		Images:	51
+		Time:	19.01.2025 07:59:52 until 19.01.2025 10:17:26
+		Duration:	02:17:34
+		Location:	NULL NULL
+
+(32) - 0,0 km Pre Fin Brantley
+	EBSTE2
+		Images:	8172
+		Time:	19.01.2025 10:07:05 until 19.01.2025 12:25:43
+		Duration:	02:18:38
+		Location:	NULL NULL
+
+(33) - 0,0 km Pre Fin Cory
+	ECCAM1
+		Images:	23876
+		Time:	19.01.2025 07:43:10 until 19.01.2025 13:30:02
+		Duration:	05:46:52
+		Location:	NULL NULL
+
+(34) - 0,0 km Pre Fin Juklio 1
+	EJMOR2
+		Images:	12072
+		Time:	19.01.2025 08:03:30 until 19.01.2025 13:17:14
+		Duration:	05:13:44
+		Location:	NULL NULL
+
+(35) - 0,0 km Pre FIn Trigger LEft
+	EPTL1
+		Images:	9228
+		Time:	19.01.2025 07:58:12 until 19.01.2025 10:33:40
+		Duration:	02:35:28
+		Location:	NULL NULL
+
+(36) - 0,0 km Pre FIn Trigger Right
+	EPTR1
+		Images:	5473
+		Time:	19.01.2025 06:49:21 until 19.01.2025 08:24:10
+		Duration:	01:34:49
+		Location:	NULL NULL
+
+(37) - 0,0 km Sean Road Art
+	ESHAW1
+		Images:	20906
+		Time:	19.01.2025 07:06:49 until 19.01.2025 13:03:03
+		Duration:	05:56:14
+		Location:	NULL NULL
+
+(38) - 0,0 km Start Gus 1
+	EGGAR1
+		Images:	831
+		Time:	19.01.2025 04:52:50 until 19.01.2025 06:57:27
+		Duration:	02:04:37
+		Location:	NULL NULL
+
+(39) - 0,0 km Start Gus 2
+	EGGAR2
+		Images:	966
+		Time:	19.01.2025 04:54:11 until 19.01.2025 07:32:03
+		Duration:	02:37:52
+		Location:	NULL NULL
+
+(40) - 0,0 km Trigger Road Art
+	ESHAW1LS1
+		Images:	21380
+		Time:	19.01.2025 06:58:18 until 19.01.2025 13:04:25
+		Duration:	06:06:07
+		Location:	NULL NULL
+
+(41) - 0.0 km Candids Claude
+	BCBIR1
+		Images:	2098
+		Time:	18.01.2025 16:23:00 until 18.01.2025 18:21:42
+		Duration:	01:58:42
+		Location:	NULL NULL
+
+(42) - 0.0 km Medals Chad bogues
+	BCBOG1
+		Images:	2029
+		Time:	19.01.2025 06:50:46 until 19.01.2025 11:45:13
+		Duration:	04:54:27
+		Location:	NULL NULL
+
+(43) - 0.0 km Medals Claude
+	BCBIR2
+		Images:	16479
+		Time:	18.01.2025 19:01:22 until 19.01.2025 01:03:32
+		Duration:	06:02:10
+		Location:	NULL NULL
+
+(44) - 0.0 km Medals Lenard Smith
+	BLSMI1
+		Images:	1360
+		Time:	19.01.2025 07:14:03 until 19.01.2025 13:02:31
+		Duration:	05:48:28
+		Location:	NULL NULL
+
+(45) - 0.0 km medals rick
+	BRMCC1
+		Images:	7385
+		Time:	19.01.2025 06:17:32 until 19.01.2025 12:29:48
+		Duration:	06:12:16
+		Location:	NULL NULL
+
+(46) - 0.0 km Medals William Barrientos
+	BWBAR1
+		Images:	6522
+		Time:	18.01.2025 18:18:54 until 19.01.2025 01:08:36
+		Duration:	06:49:42
+		Location:	NULL NULL
+
+(47) - 0.0 km MSC  2 Tom
+	BTOMB2
+		Images:	3262
+		Time:	19.01.2025 05:42:21 until 19.01.2025 07:29:13
+		Duration:	01:46:52
+		Location:	NULL NULL
+
+(48) - 0.0 km msc 10 jeff
+	BJLAU1
+		Images:	11702
+		Time:	19.01.2025 09:07:38 until 19.01.2025 13:07:09
+		Duration:	03:59:31
+		Location:	NULL NULL
+
+(49) - 0.0 km msc 10 trigger
+	BJLAU1LS1
+		Images:	21059
+		Time:	19.01.2025 08:27:30 until 19.01.2025 15:14:46
+		Duration:	06:47:16
+		Location:	NULL NULL
+
+(50) - 0.0 km MSc 11 Cindy
+	ACFUS1
+		Images:	3824
+		Time:	19.01.2025 10:54:56 until 19.01.2025 13:00:38
+		Duration:	02:05:42
+		Location:	NULL NULL
+
+(51) - 0.0 km MSC 11 Mike
+	AMKEL1
+		Images:	18961
+		Time:	19.01.2025 07:14:49 until 19.01.2025 13:59:41
+		Duration:	06:44:52
+		Location:	NULL NULL
+
+(52) - 0.0 km MSC 11 Trigger
+	AMKEL1LS1
+		Images:	20419
+		Time:	19.01.2025 06:19:32 until 19.01.2025 13:00:13
+		Duration:	06:40:41
+		Location:	NULL NULL
+
+(53) - 0.0 km MSC 2 Drru
+	BDLAM1
+		Images:	9162
+		Time:	19.01.2025 06:38:23 until 19.01.2025 08:23:24
+		Duration:	01:45:01
+		Location:	NULL NULL
+
+(54) - 0.0 km MSC 2 Ken
+	BKCON2
+		Images:	2068
+		Time:	19.01.2025 05:54:24 until 19.01.2025 07:21:31
+		Duration:	01:27:07
+		Location:	NULL NULL
+
+(55) - 0.0 km MSC 4 douglas
+	BDBOW1
+		Images:	11454
+		Time:	19.01.2025 06:11:33 until 19.01.2025 08:22:03
+		Duration:	02:10:30
+		Location:	NULL NULL
+
+(56) - 0.0 km MSC 4 Guillierm
+	BGUIL1
+		Images:	6751
+		Time:	19.01.2025 05:52:15 until 19.01.2025 09:45:27
+		Duration:	03:53:12
+		Location:	NULL NULL
+
+(57) - 0.0 km msc 5 joe
+	BJOFU2
+		Images:	480
+		Time:	19.01.2025 09:10:03 until 19.01.2025 09:23:38
+		Duration:	00:13:35
+		Location:	NULL NULL
+
+(58) - 0.0 km msc 6 cind
+	BCFUS1
+		Images:	9211
+		Time:	19.01.2025 06:22:53 until 19.01.2025 09:32:32
+		Duration:	03:09:39
+		Location:	NULL NULL
+
+(59) - 0.0 km msc 6 joe
+	BJOFU1
+		Images:	7340
+		Time:	18.01.2025 18:00:16 until 19.01.2025 08:58:21
+		Duration:	14:58:05
+		Location:	NULL NULL
+
+(60) - 0.0 km msc 6 trigger
+	BCFUS1LS1
+		Images:	10284
+		Time:	19.01.2025 05:40:06 until 19.01.2025 09:27:29
+		Duration:	03:47:23
+		Location:	NULL NULL
+
+(61) - 0.0 km MSC 8 Brisian
+	BBFLO2
+		Images:	5186
+		Time:	19.01.2025 06:42:54 until 19.01.2025 09:31:49
+		Duration:	02:48:55
+		Location:	NULL NULL
+
+(62) - 0.0 km MSC 8 Ken
+	BKCON1
+		Images:	3858
+		Time:	19.01.2025 08:35:25 until 19.01.2025 12:39:48
+		Duration:	04:04:23
+		Location:	NULL NULL
+
+(63) - 0.0 km MSC 8 Tom
+	BTOMB1
+		Images:	4552
+		Time:	19.01.2025 08:19:06 until 19.01.2025 13:05:33
+		Duration:	04:46:27
+		Location:	NULL NULL
+
+(64) - 0.0 km MSC8 Brisiana
+	BBFLO1
+		Images:	10958
+		Time:	19.01.2025 09:55:34 until 19.01.2025 13:40:46
+		Duration:	03:45:12
+		Location:	NULL NULL
+
+(65) - 0.0 km OFP Chris JOseph
+	BCJOS1
+		Images:	900
+		Time:	29.06.2019 20:35:04 until 30.06.2019 01:57:52
+		Duration:	05:22:48
+		Location:	NULL NULL
+
+(66) - 0.0 km OFP Dani MOore
+	BDMOO1
+		Images:	1433
+		Time:	19.01.2025 05:47:24 until 19.01.2025 12:38:59
+		Duration:	06:51:35
+		Location:	NULL NULL
+
+(67) - 0.0 km OFP Jennifer acherman
+	BJACH1
+		Images:	2235
+		Time:	19.01.2025 06:40:54 until 19.01.2025 13:08:25
+		Duration:	06:27:31
+		Location:	NULL NULL
+
+(68) - 0.0 km OFP katheen Maraurd
+	BKMAR1
+		Images:	1204
+		Time:	19.01.2025 06:44:12 until 19.01.2025 13:10:26
+		Duration:	06:26:14
+		Location:	NULL NULL
+
+(69) - 0.0 km OFP Kyle Daniels
+	BKDAN1
+		Images:	1177
+		Time:	19.01.2025 06:13:45 until 19.01.2025 11:35:39
+		Duration:	05:21:54
+		Location:	NULL NULL
+
+(70) - 0.0 km OFP Megyn
+	BMBAR1
+		Images:	1512
+		Time:	19.01.2025 07:09:09 until 19.01.2025 11:20:58
+		Duration:	04:11:49
+		Location:	NULL NULL
+
+(71) - 0.0 km OFP Preslez Daniels
+	BPDAN1
+		Images:	2550
+		Time:	19.01.2025 06:42:46 until 19.01.2025 12:41:39
+		Duration:	05:58:53
+		Location:	NULL NULL
+
+(72) - 0.0 km OFP SOl
+	BSDIA1
+		Images:	1384
+		Time:	19.01.2025 02:19:55 until 19.01.2025 07:42:28
+		Duration:	05:22:33
+		Location:	NULL NULL
+
+(73) - 0.0 km Pre FIn ALan
+	AANG1
+		Images:	50972
+		Time:	19.01.2025 05:58:15 until 19.01.2025 11:01:24
+		Duration:	05:03:09
+		Location:	NULL NULL
+
+(74) - 0.0 km road art Julio madrid
+	BJMAD1
+		Images:	13862
+		Time:	19.01.2025 07:40:05 until 19.01.2025 14:07:02
+		Duration:	06:26:57
+		Location:	NULL NULL
+
+(75) - Impressions / Pano
+	PANO1
+(76) - none
+	AGWEN1
+		Images:	9647
+		Time:	19.01.2025 10:08:29 until 19.01.2025 12:03:39
+		Duration:	01:55:10
+		Location:	NULL NULL
+
+	AJVIL1
+		Images:	21942
+		Time:	19.01.2025 08:45:15 until 19.01.2025 13:01:57
+		Duration:	04:16:42
+		Location:	NULL NULL
+
+	BTCH1
+		Images:	60
+		Time:	01.01.0001 23:00:00 until 19.01.2025 07:17:25
+		Duration:	739268.08:17:25
+		Location:	NULL NULL
+
+	EBSTE3
+		Images:	12362
+		Time:	19.01.2025 07:46:21 until 19.01.2025 14:03:04
+		Duration:	06:16:43
+		Location:	NULL NULL
+
+	EDLAM1LS1
+		Images:	14758
+		Time:	19.01.2025 10:34:45 until 19.01.2025 14:41:17
+		Duration:	04:06:32
+		Location:	NULL NULL
+
+	EDLAM1LS2
+		Images:	5695
+		Time:	18.01.2025 21:44:27 until 19.01.2025 09:27:47
+		Duration:	11:43:20
+		Location:	NULL NULL
+
+	EFTGL2
+		Images:	2397
+		Time:	19.01.2025 12:43:49 until 19.01.2025 14:03:41
+		Duration:	01:19:52
+		Location:	NULL NULL
+
+	ETGRI2
+		Images:	4094
+		Time:	19.01.2025 11:24:26 until 19.01.2025 13:41:28
+		Duration:	02:17:02
+		Location:	NULL NULL
+

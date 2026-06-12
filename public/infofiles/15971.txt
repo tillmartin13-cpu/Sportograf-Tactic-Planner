@@ -1,0 +1,254 @@
+EventId: 15971
+Spots: 39
+Total Images: 153954
+Time:	05.08.2007 04:35:26 to 18.05.2025 10:28:43
+Duration: 6496.05:53:17
+
+(1) - Impressions / Pano
+	PANO1
+(2) - none
+	PANO2
+(3) - 0.0 km Paul Bickford, 861943, Start
+	PB1
+		Images:	235
+		Time:	18.05.2025 05:45:54 until 18.05.2025 06:29:41
+		Duration:	00:43:47
+		Location:	NULL NULL
+
+(4) - 0.0 km Paul Bickford, 861961, Pre Finish
+	PB2
+		Images:	7950
+		Time:	18.05.2025 06:52:07 until 18.05.2025 10:28:43
+		Duration:	03:36:36
+		Location:	NULL NULL
+
+(5) - 0.0 km Bradley Rex, 861944, Start
+	BR1
+		Images:	572
+		Time:	18.05.2025 05:44:54 until 18.05.2025 06:36:17
+		Duration:	00:51:23
+		Location:	NULL NULL
+
+(6) - 0.0 km Bradley Rex, 861962, Pre Finish
+	BR2
+		Images:	5095
+		Time:	18.05.2025 06:42:08 until 18.05.2025 10:17:14
+		Duration:	03:35:06
+		Location:	NULL NULL
+
+(7) - 0.0 km Charlie McAdams, 861946, MSC 1
+	CMC1
+		Images:	1374
+		Time:	18.05.2025 06:02:53 until 18.05.2025 06:30:44
+		Duration:	00:27:51
+		Location:	NULL NULL
+
+(8) - 0.0 km Charlie McAdams, 861939, Finish
+	CMC2
+		Images:	5283
+		Time:	18.05.2025 07:07:01 until 18.05.2025 10:13:22
+		Duration:	03:06:21
+		Location:	NULL NULL
+
+(9) - 0.0 km Genti Shkullaku, 861947, MSC 1
+	GS1
+		Images:	2205
+		Time:	18.05.2025 06:02:58 until 18.05.2025 06:36:14
+		Duration:	00:33:16
+		Location:	NULL NULL
+
+(10) - 0.0 km Genti Shkullaku, 861940, Finish
+	GS2
+		Images:	7982
+		Time:	18.05.2025 07:14:13 until 18.05.2025 10:24:27
+		Duration:	03:10:14
+		Location:	NULL NULL
+
+(11) - 0.0 km Sam Rice, 861947, MSC 1
+	SR1
+		Images:	1726
+		Time:	17.05.2025 18:04:10 until 17.05.2025 18:39:54
+		Duration:	00:35:44
+		Location:	NULL NULL
+
+(12) - 0.0 km Sam Rice, 861963, Pre Finish
+	SR2
+		Images:	8190
+		Time:	17.05.2025 19:13:09 until 17.05.2025 22:21:47
+		Duration:	03:08:38
+		Location:	NULL NULL
+
+(13) - 0.0 km James Whitesides, 861950, MSC 2
+	JW1
+		Images:	1585
+		Time:	18.05.2025 06:07:33 until 18.05.2025 06:43:51
+		Duration:	00:36:18
+		Location:	NULL NULL
+
+(14) - 0.0 km James Whitesides, 861959, MSC 6
+	JW2
+		Images:	5767
+		Time:	18.05.2025 07:04:04 until 18.05.2025 09:51:12
+		Duration:	02:47:08
+		Location:	NULL NULL
+
+(15) - 0.0 km Angel McMahon, 861951, MSC 2
+	AM1
+		Images:	2561
+		Time:	18.05.2025 05:05:34 until 18.05.2025 05:44:20
+		Duration:	00:38:46
+		Location:	NULL NULL
+
+(16) - 0.0 km Angel McMahon, 861960, MSC 6
+	AM2
+		Images:	7994
+		Time:	18.05.2025 06:03:20 until 18.05.2025 08:51:23
+		Duration:	02:48:03
+		Location:	NULL NULL
+
+(17) - 0.0 km David Buky, 861954, MSC 3
+	DB1
+		Images:	7016
+		Time:	18.05.2025 06:36:19 until 18.05.2025 08:38:53
+		Duration:	02:02:34
+		Location:	NULL NULL
+
+(18) - 0.0 km Joseph Cernock, 865697, MSC 3
+	JC1
+		Images:	4863
+		Time:	18.05.2025 06:31:12 until 18.05.2025 08:47:50
+		Duration:	02:16:38
+		Location:	NULL NULL
+
+(19) - 0.0 km Jacob Summersgill, 865698, MSC 3
+	JS1
+		Images:	6949
+		Time:	18.05.2025 06:35:42 until 18.05.2025 08:10:21
+		Duration:	01:34:39
+		Location:	NULL NULL
+
+(20) - 0.0 km Chantise Martin, 861955, MSC 4
+	CMA1
+		Images:	5093
+		Time:	18.05.2025 05:06:59 until 18.05.2025 08:05:28
+		Duration:	02:58:29
+		Location:	NULL NULL
+
+(21) - 0.0 km Becky Sullivan, 861956, MSC 4
+	BS1
+		Images:	3915
+		Time:	18.05.2025 06:42:36 until 18.05.2025 09:04:47
+		Duration:	02:22:11
+		Location:	NULL NULL
+
+(22) - 0.0 km Damien Santos, 861957, MSC5
+	DS1
+		Images:	3158
+		Time:	18.05.2025 07:06:25 until 18.05.2025 09:51:25
+		Duration:	02:45:00
+		Location:	NULL NULL
+
+(23) - 0.0 km Aspen Vanlandingham, 861958, MSC 5
+	AV1
+		Images:	5198
+		Time:	18.05.2025 07:02:33 until 18.05.2025 09:49:53
+		Duration:	02:47:20
+		Location:	NULL NULL
+
+(24) - 0.0 km Nygel Moore, 861966, Medals
+	NM1
+(25) - 0.0 km Sherry Bellamy, 861967, Medals
+	SB1
+(26) - 0.0 km Eugene Holmes, 861970, Medals
+	EH1
+		Images:	565
+		Time:	18.05.2025 06:56:24 until 18.05.2025 10:23:13
+		Duration:	03:26:49
+		Location:	NULL NULL
+
+(27) - 0.0 km Xavier Seibel, 861972, OFP
+	XS1
+		Images:	1167
+		Time:	18.05.2025 06:49:21 until 18.05.2025 10:17:24
+		Duration:	03:28:03
+		Location:	NULL NULL
+
+(28) - 0.0 km Xavier Seibel, 861969, Medals
+	XS2
+(29) - 0.0 km Caty-Scarlett O'Connell, 866588, OFP
+	CO1
+		Images:	494
+		Time:	18.05.2025 06:29:55 until 18.05.2025 10:23:32
+		Duration:	03:53:37
+		Location:	NULL NULL
+
+(30) - 0.0 km Trigger 1, 861949, MSC 1
+	TRIG1
+		Images:	1887
+		Time:	18.05.2025 05:57:33 until 18.05.2025 06:32:00
+		Duration:	00:34:27
+		Location:	NULL NULL
+
+(31) - 0.0 km Trigger 2, 861952, MSC 2
+	TRIG2
+		Images:	9823
+		Time:	18.05.2025 06:08:52 until 18.05.2025 06:40:37
+		Duration:	00:31:45
+		Location:	NULL NULL
+
+(32) - 0.0 km Trigger 3, 865689, MSC 5
+	TRIG3
+		Images:	7907
+		Time:	18.05.2025 06:04:27 until 18.05.2025 08:50:28
+		Duration:	02:46:01
+		Location:	NULL NULL
+
+(33) - 0.0 km Trigger 4, 865690, MSC 6
+	TRIG4
+		Images:	5000
+		Time:	18.05.2025 07:03:01 until 18.05.2025 07:21:19
+		Duration:	00:18:18
+		Location:	NULL NULL
+
+(34) - 0.0 km Trigger 5, 861964, Pre Finish
+	TRIG5
+		Images:	10405
+		Time:	18.05.2025 05:36:08 until 18.05.2025 10:11:52
+		Duration:	04:35:44
+		Location:	NULL NULL
+
+(35) - 0.0 km Trigger 6, 861941, Finish
+	TRIG6
+		Images:	11563
+		Time:	17.05.2025 22:18:33 until 18.05.2025 01:32:59
+		Duration:	03:14:26
+		Location:	NULL NULL
+
+(36) - 0.0 km Trigger 7, 861971, Finish
+	TRIG7
+		Images:	9844
+		Time:	18.05.2025 06:57:25 until 18.05.2025 09:42:17
+		Duration:	02:44:52
+		Location:	NULL NULL
+
+(37) - 0.0 km Brad Kroll, 861945, Expo
+	BK1
+		Images:	68
+		Time:	05.08.2007 04:35:26 until 05.08.2007 10:11:12
+		Duration:	05:35:46
+		Location:	NULL NULL
+
+(38) - 0.0 km Brad Kroll, 861944, Awards
+	BK2
+		Images:	57
+		Time:	05.08.2007 23:32:13 until 06.08.2007 00:01:49
+		Duration:	00:29:36
+		Location:	NULL NULL
+
+(39) - 0.0 km Brad Kroll, 861968, Medals
+	BK3
+		Images:	463
+		Time:	05.08.2007 22:39:18 until 06.08.2007 01:16:58
+		Duration:	02:37:40
+		Location:	NULL NULL
+

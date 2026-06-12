@@ -1,0 +1,93 @@
+EventId: 13440
+Spots: 13
+Total Images: 18993
+Time:	26.09.2025 22:16:00 to 27.09.2025 17:43:41
+Duration: 19:27:41
+
+(1) - Start
+	BATI1
+		Images:	171
+		Time:	27.09.2025 06:41:35 until 27.09.2025 07:20:43
+		Duration:	00:39:08
+		Location:	46.53738 12.13707
+
+(2) - Start short
+	BATI3
+		Images:	249
+		Time:	27.09.2025 09:36:16 until 27.09.2025 10:20:51
+		Duration:	00:44:35
+		Location:	46.52372 12.11248
+
+(3) - 200m from start
+	RAM1
+		Images:	46
+		Time:	27.09.2025 06:39:35 until 27.09.2025 07:13:06
+		Duration:	00:33:31
+		Location:	46.53738 12.13707
+
+(4) - 100m from start
+	NBE1
+		Images:	112
+		Time:	27.09.2025 06:46:15 until 27.09.2025 07:15:52
+		Duration:	00:29:37
+		Location:	46.53738 12.13707
+
+(5) - 7,9km short - 21,6km long
+	SALI1
+		Images:	2559
+		Time:	27.09.2025 08:37:07 until 27.09.2025 13:57:44
+		Duration:	05:20:37
+		Location:	46.50954 12.04776
+
+(6) - 9km short - 22,3km long
+	RSA1
+		Images:	3108
+		Time:	26.09.2025 22:16:00 until 27.09.2025 13:51:35
+		Duration:	15:35:35
+		Location:	46.50214 12.04371
+
+	RSA1DRONE1
+		Images:	7
+		Time:	27.09.2025 11:38:54 until 27.09.2025 11:43:29
+		Duration:	00:04:35
+		Location:	46.50214 12.04371
+
+(7) - 28.5 km long
+	NBE2
+		Images:	341
+		Time:	27.09.2025 10:15:32 until 27.09.2025 14:47:44
+		Duration:	04:32:12
+		Location:	46.52621 12.03755
+
+(8) - 26,5km medium, 29,5km long
+	RAM2
+		Images:	6260
+		Time:	27.09.2025 10:29:20 until 27.09.2025 16:28:25
+		Duration:	05:59:05
+		Location:	46.52850 12.04279
+
+	RAM2LS1
+		Images:	735
+		Time:	27.09.2025 09:36:40 until 27.09.2025 16:43:54
+		Duration:	07:07:14
+		Location:	46.52850 12.04279
+
+	RAM2LS2
+		Images:	789
+		Time:	27.09.2025 09:45:55 until 27.09.2025 16:22:59
+		Duration:	06:37:04
+		Location:	46.52850 12.04279
+
+(9) - Finish
+	BATI2
+		Images:	4346
+		Time:	27.09.2025 10:39:59 until 27.09.2025 17:35:09
+		Duration:	06:55:10
+		Location:	46.52445 12.11214
+
+	BATI2LS1
+		Images:	270
+		Time:	27.09.2025 08:41:03 until 27.09.2025 17:43:41
+		Duration:	09:02:38
+		Location:	46.52445 12.11214
+

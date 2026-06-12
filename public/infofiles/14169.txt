@@ -1,0 +1,171 @@
+EventId: 14169
+Spots: 25
+Total Images: 74870
+Time:	01.01.0001 23:00:00 to 30.03.2025 23:34:57
+Duration: 739339.00:34:57
+
+(1) - Swim - Impressions / Pano
+	AVW1
+		Images:	28
+		Time:	30.03.2025 06:00:37 until 30.03.2025 06:35:47
+		Duration:	00:35:10
+		Location:	NULL NULL
+
+(2) - Swim - Start
+	CRF1
+		Images:	2728
+		Time:	30.03.2025 05:59:15 until 30.03.2025 08:06:45
+		Duration:	02:07:30
+		Location:	NULL NULL
+
+(3) - Swim - Transition zone
+	AVW2
+		Images:	8346
+		Time:	30.03.2025 06:54:21 until 30.03.2025 11:08:54
+		Duration:	04:14:33
+		Location:	NULL NULL
+
+(4) - Bike - Transition zone
+	RBU1
+		Images:	2987
+		Time:	30.03.2025 06:30:49 until 30.03.2025 09:18:47
+		Duration:	02:47:58
+		Location:	NULL NULL
+
+(5) - Bike - 166.1 km
+	DWDT1
+		Images:	5212
+		Time:	30.03.2025 08:29:59 until 30.03.2025 16:53:10
+		Duration:	08:23:11
+		Location:	NULL NULL
+
+	DWDT1DRONE1
+		Images:	92
+		Time:	01.01.0001 23:00:00 until 30.03.2025 13:44:11
+		Duration:	739338.14:44:11
+		Location:	NULL NULL
+
+	DWDT1LS1
+		Images:	1597
+		Time:	30.03.2025 07:48:24 until 30.03.2025 15:46:48
+		Duration:	07:58:24
+		Location:	NULL NULL
+
+(6) - Bike - 166.3 km
+	LDT1
+		Images:	5697
+		Time:	30.03.2025 08:30:29 until 30.03.2025 16:53:45
+		Duration:	08:23:16
+		Location:	NULL NULL
+
+(7) - Bike - 176.1 km
+	JHI1
+		Images:	5634
+		Time:	30.03.2025 08:41:49 until 30.03.2025 16:32:29
+		Duration:	07:50:40
+		Location:	NULL NULL
+
+	JHI1LS1
+		Images:	6529
+		Time:	30.03.2025 09:49:45 until 30.03.2025 15:27:18
+		Duration:	05:37:33
+		Location:	NULL NULL
+
+(8) - Bike - 179.8 km
+	CRF2
+		Images:	5338
+		Time:	30.03.2025 08:48:31 until 30.03.2025 13:37:40
+		Duration:	04:49:09
+		Location:	NULL NULL
+
+(9) - Run - 0.5 km
+	AVW3
+		Images:	7757
+		Time:	30.03.2025 11:08:25 until 30.03.2025 15:50:15
+		Duration:	04:41:50
+		Location:	NULL NULL
+
+(10) - Run - 0.7 km
+	TAZ1LS1
+		Images:	697
+		Time:	30.03.2025 09:42:21 until 30.03.2025 16:04:44
+		Duration:	06:22:23
+		Location:	NULL NULL
+
+(11) - Run - 0.8 km
+	TAZ1
+		Images:	1741
+		Time:	30.03.2025 11:37:19 until 30.03.2025 15:58:41
+		Duration:	04:21:22
+		Location:	NULL NULL
+
+(12) - Run - 41.6 km
+	DWDT2
+		Images:	154
+		Time:	30.03.2025 19:28:49 until 30.03.2025 21:01:23
+		Duration:	01:32:34
+		Location:	NULL NULL
+
+	RBU3
+		Images:	92
+		Time:	30.03.2025 19:30:48 until 30.03.2025 21:01:19
+		Duration:	01:30:31
+		Location:	NULL NULL
+
+(13) - Run - 10.2 km
+	AVW4
+		Images:	7503
+		Time:	30.03.2025 16:04:50 until 30.03.2025 18:32:42
+		Duration:	02:27:52
+		Location:	NULL NULL
+
+(14) - Run - 9.1 km
+	RBU2
+		Images:	6022
+		Time:	30.03.2025 11:53:12 until 30.03.2025 18:19:32
+		Duration:	06:26:20
+		Location:	NULL NULL
+
+(15) - Finish
+	LDT2
+		Images:	559
+		Time:	30.03.2025 17:59:56 until 30.03.2025 19:04:32
+		Duration:	01:04:36
+		Location:	NULL NULL
+
+	AVW5
+		Images:	151
+		Time:	30.03.2025 21:09:31 until 30.03.2025 22:17:19
+		Duration:	01:07:48
+		Location:	NULL NULL
+
+	CRF3
+		Images:	1842
+		Time:	30.03.2025 13:52:36 until 30.03.2025 22:18:27
+		Duration:	08:25:51
+		Location:	NULL NULL
+
+	TAZ2
+		Images:	2229
+		Time:	30.03.2025 16:30:51 until 30.03.2025 21:11:46
+		Duration:	04:40:55
+		Location:	NULL NULL
+
+	JHI2
+		Images:	1502
+		Time:	30.03.2025 19:04:14 until 30.03.2025 21:11:42
+		Duration:	02:07:28
+		Location:	NULL NULL
+
+	RBU4
+		Images:	248
+		Time:	30.03.2025 22:16:49 until 30.03.2025 23:34:57
+		Duration:	01:18:08
+		Location:	NULL NULL
+
+	DWDT3
+		Images:	185
+		Time:	30.03.2025 22:22:28 until 30.03.2025 23:34:52
+		Duration:	01:12:24
+		Location:	NULL NULL
+

@@ -1,0 +1,209 @@
+EventId: 13873
+Spots: 31
+Total Images: 385738
+Time:	26.04.2025 19:24:52 to 27.04.2025 18:34:49
+Duration: 23:09:57
+
+(1) - Start
+	WIP1
+		Images:	4291
+		Time:	26.04.2025 20:32:25 until 27.04.2025 15:05:43
+		Duration:	18:33:18
+		Location:	51.22351 4.38543
+
+(2) - 1.0 km 3.5
+	OT1
+		Images:	18920
+		Time:	27.04.2025 11:39:29 until 27.04.2025 15:12:23
+		Duration:	03:32:54
+		Location:	51.21627 4.38377
+
+(3) - 1.0 km 3.5 Shortrun
+	OT1LS1
+		Images:	14736
+		Time:	27.04.2025 11:14:09 until 27.04.2025 15:13:48
+		Duration:	03:59:39
+		Location:	51.21627 4.38377
+
+	MW1
+		Images:	18660
+		Time:	26.04.2025 22:32:35 until 27.04.2025 15:12:26
+		Duration:	16:39:51
+		Location:	51.21627 4.38377
+
+	MW1LS1
+		Images:	11017
+		Time:	26.04.2025 22:28:23 until 27.04.2025 15:09:42
+		Duration:	16:41:19
+		Location:	51.21627 4.38377
+
+(4) - 5.0 km of Shortrun
+	FVE1
+		Images:	2121
+		Time:	27.04.2025 10:44:58 until 27.04.2025 12:40:24
+		Duration:	01:55:26
+		Location:	51.22186 4.38125
+
+(5) - 8.5 km
+	FCO1
+		Images:	19355
+		Time:	27.04.2025 08:34:49 until 27.04.2025 16:22:41
+		Duration:	07:47:52
+		Location:	51.20443 4.38895
+
+	GAC1
+		Images:	26656
+		Time:	26.04.2025 23:20:29 until 27.04.2025 16:22:40
+		Duration:	17:02:11
+		Location:	51.20443 4.38895
+
+(6) - 9.0 km
+	JKE1
+		Images:	17714
+		Time:	27.04.2025 13:24:27 until 27.04.2025 18:34:49
+		Duration:	05:10:22
+		Location:	51.20667 4.38840
+
+	JKE1LS1
+		Images:	6250
+		Time:	26.04.2025 22:02:55 until 27.04.2025 16:27:17
+		Duration:	18:24:22
+		Location:	51.20667 4.38840
+
+	FAH1
+		Images:	10744
+		Time:	27.04.2025 09:21:44 until 27.04.2025 16:25:30
+		Duration:	07:03:46
+		Location:	51.20667 4.38840
+
+(7) - 9.5 km
+	NBA1
+		Images:	12614
+		Time:	27.04.2025 12:47:10 until 27.04.2025 16:30:06
+		Duration:	03:42:56
+		Location:	51.20982 4.39343
+
+	DECO1
+		Images:	5142
+		Time:	27.04.2025 12:37:09 until 27.04.2025 16:30:35
+		Duration:	03:53:26
+		Location:	51.20982 4.39343
+
+(8) - 10.3 km
+	BC1
+		Images:	11421
+		Time:	27.04.2025 12:50:01 until 27.04.2025 16:38:16
+		Duration:	03:48:15
+		Location:	51.21603 4.39306
+
+(9) - 10.5 km
+	LMC1
+		Images:	24553
+		Time:	26.04.2025 19:33:31 until 27.04.2025 16:39:50
+		Duration:	21:06:19
+		Location:	51.21766 4.39409
+
+	DIK1
+		Images:	15898
+		Time:	27.04.2025 12:44:11 until 27.04.2025 16:40:05
+		Duration:	03:55:54
+		Location:	51.21766 4.39409
+
+(10) - 11.1 km
+	BAR1
+		Images:	10877
+		Time:	26.04.2025 22:20:00 until 27.04.2025 16:42:44
+		Duration:	18:22:44
+		Location:	51.22150 4.39692
+
+	MTR1
+		Images:	24810
+		Time:	26.04.2025 22:11:50 until 27.04.2025 17:18:50
+		Duration:	19:07:00
+		Location:	51.22150 4.39692
+
+(11) - 11.4 km
+	PBO1
+		Images:	7990
+		Time:	26.04.2025 19:24:52 until 27.04.2025 16:44:20
+		Duration:	21:19:28
+		Location:	51.22331 4.39794
+
+	TID1
+		Images:	13095
+		Time:	26.04.2025 19:58:05 until 27.04.2025 16:46:49
+		Duration:	20:48:44
+		Location:	51.22331 4.39794
+
+	TID1LS1
+		Images:	5500
+		Time:	26.04.2025 20:02:00 until 27.04.2025 16:42:53
+		Duration:	20:40:53
+		Location:	51.22331 4.39794
+
+(12) - 11.9 km
+	STDM1
+		Images:	18261
+		Time:	27.04.2025 13:32:10 until 27.04.2025 16:53:52
+		Duration:	03:21:42
+		Location:	51.22841 4.40208
+
+(13) - 12.6 km
+	GVDL1
+		Images:	5664
+		Time:	27.04.2025 12:35:00 until 27.04.2025 16:57:01
+		Duration:	04:22:01
+		Location:	51.22921 4.40356
+
+(14) - 12.8 km
+	YHA1
+		Images:	6433
+		Time:	27.04.2025 09:45:30 until 27.04.2025 17:08:32
+		Duration:	07:23:02
+		Location:	51.22816 4.40558
+
+(15) - 13.5 km
+	SPSL1
+		Images:	20810
+		Time:	27.04.2025 13:27:53 until 27.04.2025 17:13:26
+		Duration:	03:45:33
+		Location:	51.22713 4.41022
+
+(16) - 15.5 km
+	KMC1
+		Images:	9585
+		Time:	27.04.2025 10:48:40 until 27.04.2025 17:37:08
+		Duration:	06:48:28
+		Location:	51.22727 4.38325
+
+	SEO1
+		Images:	1
+		Time:	27.04.2025 12:38:55 until 27.04.2025 12:38:55
+		Duration:	00:00:00
+		Location:	51.22727 4.38325
+
+(17) - Finish
+	DAV1
+		Images:	15264
+		Time:	27.04.2025 10:19:14 until 27.04.2025 17:41:28
+		Duration:	07:22:14
+		Location:	51.22924 4.37709
+
+	DAV1LS1
+		Images:	12528
+		Time:	27.04.2025 10:10:15 until 27.04.2025 17:44:06
+		Duration:	07:33:51
+		Location:	51.22924 4.37709
+
+	KO1
+		Images:	8400
+		Time:	27.04.2025 07:22:15 until 27.04.2025 17:42:00
+		Duration:	10:19:45
+		Location:	51.22924 4.37709
+
+	FVE2
+		Images:	6428
+		Time:	27.04.2025 13:45:37 until 27.04.2025 17:33:26
+		Duration:	03:47:49
+		Location:	51.22924 4.37709
+

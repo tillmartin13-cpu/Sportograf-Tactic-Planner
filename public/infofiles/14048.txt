@@ -1,0 +1,87 @@
+EventId: 14048
+Spots: 12
+Total Images: 23022
+Time:	09.08.2025 17:18:13 to 10.08.2025 07:34:40
+Duration: 14:16:27
+
+(1) - Start
+	BK1
+		Images:	2556
+		Time:	09.08.2025 17:46:26 until 09.08.2025 19:21:19
+		Duration:	01:34:53
+		Location:	53.53033 10.03909
+
+	BK1DRONE1
+		Images:	29
+		Time:	09.08.2025 17:25:33 until 10.08.2025 05:41:23
+		Duration:	12:15:50
+		Location:	53.53033 10.03909
+
+	DWE1
+		Images:	1616
+		Time:	09.08.2025 17:18:13 until 09.08.2025 19:21:26
+		Duration:	02:03:13
+		Location:	53.53033 10.03909
+
+(2) - Kaltehofe Hauptdeich
+	JKOR1
+		Images:	4209
+		Time:	09.08.2025 17:44:27 until 09.08.2025 20:15:51
+		Duration:	02:31:24
+		Location:	53.52765 10.04457
+
+(3) - Jachthafen Moorfleet
+	PDD1
+		Images:	2056
+		Time:	09.08.2025 18:30:57 until 09.08.2025 20:56:49
+		Duration:	02:25:52
+		Location:	53.48793 10.09379
+
+(4) - Eichbaumsee
+	GL1
+		Images:	3132
+		Time:	09.08.2025 18:50:01 until 09.08.2025 21:09:20
+		Duration:	02:19:19
+		Location:	53.48601 10.10684
+
+(5) - Boberger Dünen
+	JKOR2
+		Images:	2242
+		Time:	09.08.2025 20:18:08 until 09.08.2025 22:36:01
+		Duration:	02:17:53
+		Location:	53.51114 10.15763
+
+(6) - Alsterwiese
+	GL2
+		Images:	1058
+		Time:	09.08.2025 19:25:11 until 10.08.2025 04:06:24
+		Duration:	08:41:13
+		Location:	53.56563 10.01697
+
+(7) - Speicherstadt
+	JKOR3
+		Images:	2228
+		Time:	09.08.2025 23:12:18 until 10.08.2025 06:30:09
+		Duration:	07:17:51
+		Location:	53.54417 9.99331
+
+(8) - Finish
+	PDD2
+		Images:	2275
+		Time:	10.08.2025 01:46:07 until 10.08.2025 07:34:06
+		Duration:	05:47:59
+		Location:	53.53033 10.03909
+
+	DWE1LS1
+		Images:	1014
+		Time:	10.08.2025 01:49:41 until 10.08.2025 07:24:09
+		Duration:	05:34:28
+		Location:	53.53033 10.03909
+
+(9) - Herotent
+	DWE2
+		Images:	607
+		Time:	10.08.2025 02:05:52 until 10.08.2025 07:34:40
+		Duration:	05:28:48
+		Location:	53.53033 10.03909
+

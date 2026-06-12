@@ -1,0 +1,111 @@
+EventId: 13515
+Spots: 16
+Total Images: 61451
+Time:	05.07.2025 07:15:27 to 05.07.2025 20:53:42
+Duration: 13:38:15
+
+(1) - Air Bike
+	ALSE1
+		Images:	3937
+		Time:	05.07.2025 08:25:13 until 05.07.2025 20:39:36
+		Duration:	12:14:23
+		Location:	41.63539 -0.86636
+
+(2) - General
+	ALSE2
+		Images:	63
+		Time:	05.07.2025 07:48:58 until 05.07.2025 10:20:46
+		Duration:	02:31:48
+		Location:	41.63539 -0.86636
+
+	JRP2
+		Images:	165
+		Time:	05.07.2025 07:57:11 until 05.07.2025 15:56:13
+		Duration:	07:59:02
+		Location:	41.63539 -0.86636
+
+	MCAS2
+		Images:	138
+		Time:	05.07.2025 07:22:24 until 05.07.2025 09:25:57
+		Duration:	02:03:33
+		Location:	41.63539 -0.86636
+
+	RAH2
+		Images:	70
+		Time:	05.07.2025 07:59:56 until 05.07.2025 17:05:57
+		Duration:	09:06:01
+		Location:	41.63539 -0.86636
+
+	ROM2
+		Images:	73
+		Time:	05.07.2025 07:52:45 until 05.07.2025 10:13:17
+		Duration:	02:20:32
+		Location:	41.63539 -0.86636
+
+	URU2
+		Images:	148
+		Time:	05.07.2025 07:54:21 until 05.07.2025 08:19:28
+		Duration:	00:25:07
+		Location:	41.63539 -0.86636
+
+(3) - Farmers Carry
+	ALSE1LS1
+		Images:	1054
+		Time:	05.07.2025 07:15:27 until 05.07.2025 20:37:49
+		Duration:	13:22:22
+		Location:	41.63539 -0.86636
+
+	ROM1LS1
+		Images:	1011
+		Time:	05.07.2025 07:41:35 until 05.07.2025 20:37:44
+		Duration:	12:56:09
+		Location:	41.63539 -0.86636
+
+(4) - Rowing
+	JRP1
+		Images:	13871
+		Time:	05.07.2025 08:05:34 until 05.07.2025 20:26:31
+		Duration:	12:20:57
+		Location:	41.63539 -0.86636
+
+(5) - Tank Push/Pull
+	MCAS1
+		Images:	10422
+		Time:	05.07.2025 08:29:06 until 05.07.2025 20:46:53
+		Duration:	12:17:47
+		Location:	41.63539 -0.86636
+
+(6) - Med Ball sit-up throw
+	RAH1
+		Images:	3732
+		Time:	05.07.2025 08:11:47 until 05.07.2025 20:31:48
+		Duration:	12:20:01
+		Location:	41.63539 -0.86636
+
+(7) - Finish Line
+	RAH1LS1
+		Images:	1324
+		Time:	05.07.2025 07:33:16 until 05.07.2025 20:53:36
+		Duration:	13:20:20
+		Location:	41.63539 -0.86636
+
+	URU1LS1
+		Images:	1281
+		Time:	05.07.2025 07:49:20 until 05.07.2025 20:53:42
+		Duration:	13:04:22
+		Location:	41.63539 -0.86636
+
+(8) - Box Jump
+	ROM1
+		Images:	12383
+		Time:	05.07.2025 08:07:57 until 05.07.2025 20:29:07
+		Duration:	12:21:10
+		Location:	41.63539 -0.86636
+
+(9) - Sky Erg
+	URU1
+		Images:	11779
+		Time:	05.07.2025 08:20:17 until 05.07.2025 20:35:23
+		Duration:	12:15:06
+		Location:	41.63539 -0.86636
+

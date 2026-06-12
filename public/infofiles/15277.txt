@@ -1,0 +1,60 @@
+EventId: 15277
+Spots: 9
+Total Images: 16366
+Time:	09.08.2025 07:29:57 to 09.08.2025 18:37:40
+Duration: 11:07:43
+
+(1) - ENGINE
+	DJA1
+		Images:	1905
+		Time:	09.08.2025 07:29:57 until 09.08.2025 12:21:46
+		Duration:	04:51:49
+		Location:	-37.82413 144.95607
+
+	IGM2
+		Images:	2873
+		Time:	09.08.2025 13:32:21 until 09.08.2025 17:16:05
+		Duration:	03:43:44
+		Location:	-37.82413 144.95607
+
+(2) - LIFT OFF
+	DJA2
+		Images:	1717
+		Time:	09.08.2025 12:35:28 until 09.08.2025 18:15:52
+		Duration:	05:40:24
+		Location:	-37.82413 144.95607
+
+	ERNG1
+		Images:	1423
+		Time:	09.08.2025 07:30:11 until 09.08.2025 12:26:17
+		Duration:	04:56:06
+		Location:	-37.82413 144.95607
+
+(3) - AMRAP
+	ERNG2
+		Images:	1713
+		Time:	09.08.2025 12:35:10 until 09.08.2025 18:35:57
+		Duration:	06:00:47
+		Location:	-37.82413 144.95607
+
+	IGM1
+		Images:	4440
+		Time:	09.08.2025 08:21:03 until 09.08.2025 18:37:40
+		Duration:	10:16:37
+		Location:	-37.82413 144.95607
+
+(4) - SPRINT
+	IGM3LS1
+		Images:	1133
+		Time:	09.08.2025 08:05:41 until 09.08.2025 17:16:38
+		Duration:	09:10:57
+		Location:	-37.82413 144.95607
+
+	IGM3LS2
+		Images:	1162
+		Time:	09.08.2025 08:13:13 until 09.08.2025 17:16:38
+		Duration:	09:03:25
+		Location:	-37.82413 144.95607
+
+(5) - Impressions / Pano
+	PANO1

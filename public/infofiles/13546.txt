@@ -1,0 +1,186 @@
+EventId: 13546
+Spots: 28
+Total Images: 327825
+Time:	01.01.0001 23:00:00 to 02.11.2025 12:05:30
+Duration: 739555.13:05:30
+
+(1) - Start
+	DARR1
+		Images:	9797
+		Time:	02.11.2025 04:19:31 until 02.11.2025 10:14:06
+		Duration:	05:54:35
+		Location:	-36.83109 174.8021
+
+	GBBR1
+		Images:	10700
+		Time:	02.11.2025 05:10:09 until 02.11.2025 07:56:27
+		Duration:	02:46:18
+		Location:	-36.78469 174.75121
+
+	GCO1
+		Images:	4020
+		Time:	01.01.0001 23:00:00 until 02.11.2025 06:27:59
+		Duration:	739555.07:27:59
+		Location:	-36.83109 174.8021
+
+(2) - 23.9 km
+	DDAV1
+		Images:	15523
+		Time:	02.11.2025 05:44:06 until 02.11.2025 09:34:41
+		Duration:	03:50:35
+		Location:	-36.84759 174.78615
+
+(3) - Impressions / Pano
+	DDAV2
+		Images:	1237
+		Time:	02.11.2025 09:42:33 until 02.11.2025 11:25:08
+		Duration:	01:42:35
+		Location:	-36.84689 174.7552
+
+	KOH2
+		Images:	915
+		Time:	02.11.2025 10:00:37 until 02.11.2025 11:39:48
+		Duration:	01:39:11
+		Location:	-36.84689 174.7552
+
+	GBBR2
+		Images:	350
+		Time:	02.11.2025 10:38:27 until 02.11.2025 11:28:25
+		Duration:	00:49:58
+		Location:	-36.84689 174.7552
+
+	IC2
+		Images:	418
+		Time:	02.11.2025 05:13:57 until 02.11.2025 11:10:27
+		Duration:	05:56:30
+		Location:	-36.84689 174.7552
+
+	MBRO2
+		Images:	78
+		Time:	02.11.2025 10:39:43 until 02.11.2025 11:10:19
+		Duration:	00:30:36
+		Location:	-36.84689 174.7552
+
+	PANO1
+	RYB2
+		Images:	204
+		Time:	02.11.2025 09:52:26 until 02.11.2025 10:54:34
+		Duration:	01:02:08
+		Location:	-36.84689 174.7552
+
+(4) - 22.2 km
+	TJK1
+		Images:	9049
+		Time:	02.11.2025 05:03:00 until 02.11.2025 10:41:56
+		Duration:	05:38:56
+		Location:	-36.84326 174.76733
+
+(5) - 22.1 km
+	GCO2
+		Images:	14020
+		Time:	01.01.0001 23:00:00 until 02.11.2025 11:51:17
+		Duration:	739555.12:51:17
+		Location:	-36.84326 174.76733
+
+(6) - Finish
+	HNRQ1
+		Images:	3986
+		Time:	02.11.2025 04:59:10 until 02.11.2025 11:46:26
+		Duration:	06:47:16
+		Location:	-36.84689 174.7552
+
+	OBL1
+		Images:	53837
+		Time:	01.11.2025 18:39:36 until 02.11.2025 12:05:30
+		Duration:	17:25:54
+		Location:	-36.84689 174.7552
+
+	RISO2
+		Images:	320
+		Time:	02.11.2025 09:59:30 until 02.11.2025 10:48:50
+		Duration:	00:49:20
+		Location:	-36.84689 174.7552
+
+	TCB1
+		Images:	16413
+		Time:	01.11.2025 16:29:22 until 02.11.2025 12:05:29
+		Duration:	19:36:07
+		Location:	-36.84689 174.7552
+
+(7) - 18.3 km
+	IC1
+		Images:	10988
+		Time:	02.11.2025 04:43:57 until 02.11.2025 09:36:51
+		Duration:	04:52:54
+		Location:	-36.83573 174.7428
+
+(8) - 17.0 km
+	JUBA1
+		Images:	18773
+		Time:	02.11.2025 05:39:09 until 02.11.2025 09:25:08
+		Duration:	03:45:59
+		Location:	-36.83885 174.74171
+
+(9) - 16.9 km
+	JUBA1LS1
+		Images:	48062
+		Time:	02.11.2025 04:39:07 until 02.11.2025 07:46:41
+		Duration:	03:07:34
+		Location:	-36.83885 174.74171
+
+(10) - 2.4 km
+	KOH1
+		Images:	10756
+		Time:	02.11.2025 04:33:07 until 02.11.2025 07:26:36
+		Duration:	02:53:29
+		Location:	-36.81216 174.80032
+
+(11) - 27.7 km
+	MALO1
+		Images:	10672
+		Time:	02.11.2025 06:10:16 until 02.11.2025 10:59:28
+		Duration:	04:49:12
+		Location:	-36.84541 174.81748
+
+(12) - 15.5 km
+	MBRO1
+		Images:	20683
+		Time:	02.11.2025 04:59:08 until 02.11.2025 09:05:57
+		Duration:	04:06:49
+		Location:	-36.82846 174.74722
+
+(13) - 16.5 km
+	RISO1
+		Images:	13262
+		Time:	01.11.2025 16:04:02 until 02.11.2025 10:48:50
+		Duration:	18:44:48
+		Location:	-36.83177 174.74508
+
+(14) - 41.5 km
+	RNA1
+		Images:	21839
+		Time:	02.11.2025 04:41:34 until 02.11.2025 12:02:30
+		Duration:	07:20:56
+		Location:	-36.84616 174.75652
+
+(15) - 20.2 km
+	SML1
+		Images:	6626
+		Time:	02.11.2025 05:47:58 until 02.11.2025 09:57:29
+		Duration:	04:09:31
+		Location:	-36.84065 174.75597
+
+(16) - 27.5 km
+	VIAL1
+		Images:	7466
+		Time:	01.11.2025 19:39:30 until 02.11.2025 10:09:31
+		Duration:	14:30:01
+		Location:	-36.84554 174.81715
+
+(17) - 16.0 km
+	RYB1
+		Images:	17831
+		Time:	02.11.2025 04:58:00 until 02.11.2025 09:11:23
+		Duration:	04:13:23
+		Location:	-36.83014 174.74616
+

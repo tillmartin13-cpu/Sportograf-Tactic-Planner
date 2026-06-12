@@ -1,0 +1,499 @@
+EventId: 14750
+Spots: 78
+Total Images: 208110
+Time:	01.01.0001 23:00:00 to 31.08.2025 16:35:38
+Duration: 739492.17:35:38
+
+(1) - CCC 17.5KM Mont Blanc View
+	ACOR3
+		Images:	5267
+		Time:	29.08.2025 10:33:51 until 29.08.2025 14:18:46
+		Duration:	03:44:55
+		Location:	45.82391 6.98853
+
+	ACOR3LS2
+		Images:	2467
+		Time:	29.08.2025 10:54:06 until 29.08.2025 13:20:45
+		Duration:	02:26:39
+		Location:	45.82391 6.98853
+
+(2) - CCC 21.5KM Punto Panoramico
+	APKA2
+		Images:	3068
+		Time:	29.08.2025 10:56:31 until 29.08.2025 15:47:28
+		Duration:	04:50:57
+		Location:	45.84949 7.03688
+
+	APKA2LS1
+		Images:	3307
+		Time:	29.08.2024 11:04:02 until 29.08.2024 15:34:54
+		Duration:	04:30:52
+		Location:	45.84949 7.03688
+
+(3) - CCC 24KM Grandes Jorasses View
+	AEP2
+		Images:	8054
+		Time:	29.08.2025 11:28:32 until 29.08.2025 16:18:46
+		Duration:	04:50:14
+		Location:	45.86398 7.05529
+
+	AEP2LS1
+		Images:	5180
+		Time:	29.08.2025 10:53:38 until 29.08.2025 15:57:41
+		Duration:	05:04:03
+		Location:	45.86398 7.05529
+
+(4) - CCC 29.5 KM Gand Col Ferrett
+	BLULE1
+		Images:	13843
+		Time:	28.08.2025 13:49:01 until 29.08.2025 17:07:34
+		Duration:	1.03:18:33
+		Location:	45.88275 7.07578
+
+(5) - CCC 30.6KM Rifugio Elena
+	BTNR1
+		Images:	3333
+		Time:	29.08.2025 11:02:47 until 29.08.2025 17:31:54
+		Duration:	06:29:07
+		Location:	45.88329 7.06821
+
+	BTNR1LS1
+		Images:	4928
+		Time:	29.08.2025 14:27:24 until 29.08.2025 17:34:24
+		Duration:	03:07:00
+		Location:	45.88329 7.06821
+
+(6) - CCC 55KM Champex-Lac
+	AMHO1
+		Images:	4239
+		Time:	29.08.2025 14:12:16 until 29.08.2025 23:22:52
+		Duration:	09:10:36
+		Location:	46.02915 7.11748
+
+	AMHO1LS1
+		Images:	2282
+		Time:	29.08.2025 13:19:12 until 29.08.2025 20:32:04
+		Duration:	07:12:52
+		Location:	46.02915 7.11748
+
+(7) - CCC 64.5KM Behind Alpage Bovine
+	AMDS1
+		Images:	1651
+		Time:	29.08.2025 15:02:42 until 29.08.2025 22:20:53
+		Duration:	07:18:11
+		Location:	46.05731 7.04418
+
+	AMDS1LS1
+		Images:	1292
+		Time:	29.08.2025 14:25:06 until 30.08.2025 10:27:47
+		Duration:	20:02:41
+		Location:	46.05731 7.04418
+
+(8) - CCC 64KM Behind Alpage Bovine
+	AALL1
+		Images:	1642
+		Time:	29.08.2025 14:22:53 until 29.08.2025 21:19:04
+		Duration:	06:56:11
+		Location:	46.05526 7.04751
+
+	AALL1LS1
+		Images:	1147
+		Time:	29.08.2025 14:09:34 until 29.08.2025 20:07:27
+		Duration:	05:57:53
+		Location:	46.05526 7.04751
+
+(9) - CCC 97km La Flegere
+	BHS1
+		Images:	1823
+		Time:	29.08.2025 19:01:08 until 30.08.2025 10:43:48
+		Duration:	15:42:40
+		Location:	45.88498 7.06747
+
+	BROB1
+		Images:	2863
+		Time:	29.08.2025 17:12:18 until 30.08.2025 11:01:34
+		Duration:	17:49:16
+		Location:	45.88498 7.06747
+
+(10) - CCC Start
+	AEP1
+		Images:	171
+		Time:	29.08.2025 08:51:38 until 29.08.2025 09:16:06
+		Duration:	00:24:28
+		Location:	45.79125 6.97084
+
+	APKA1
+		Images:	179
+		Time:	29.08.2025 08:50:08 until 29.08.2025 09:16:26
+		Duration:	00:26:18
+		Location:	45.79125 6.97084
+
+(11) - Finish
+	CAGU2
+		Images:	9903
+		Time:	29.08.2025 18:16:01 until 31.08.2025 03:59:47
+		Duration:	1.09:43:46
+		Location:	45.92368 6.86921
+
+	CARF1
+		Images:	6613
+		Time:	30.08.2025 00:03:10 until 31.08.2025 15:28:46
+		Duration:	1.15:25:36
+		Location:	45.92368 6.86921
+
+	CBP1
+		Images:	5310
+		Time:	30.08.2025 00:03:16 until 31.08.2025 16:35:38
+		Duration:	1.16:32:22
+		Location:	45.92368 6.86921
+
+	CHS1
+		Images:	3600
+		Time:	31.08.2025 11:36:29 until 31.08.2025 16:18:08
+		Duration:	04:41:39
+		Location:	45.92368 6.86921
+
+	CMATR2
+		Images:	11163
+		Time:	29.08.2025 18:31:55 until 31.08.2025 07:53:38
+		Duration:	1.13:21:43
+		Location:	45.92368 6.86921
+
+(12) - Impressions / Pano
+	PANO1
+(13) - none
+	ACHR1
+		Images:	446
+		Time:	25.08.2025 07:33:41 until 25.08.2025 11:03:22
+		Duration:	03:29:41
+		Location:	45.92371 6.86908
+
+	ACHR2
+		Images:	2322
+		Time:	25.08.2025 12:12:38 until 25.08.2025 15:57:06
+		Duration:	03:44:28
+		Location:	45.96076 6.79089
+
+	ACHR2DRONE1
+		Images:	27
+		Time:	25.08.2025 12:53:43 until 25.08.2025 13:53:35
+		Duration:	00:59:52
+		Location:	45.96076 6.79089
+
+	ACHR2LS1
+		Images:	632
+		Time:	25.08.2025 12:24:17 until 25.08.2025 15:15:20
+		Duration:	02:51:03
+		Location:	45.96076 6.79089
+
+	ACHR3
+		Images:	486
+		Time:	29.08.2025 15:58:25 until 30.08.2025 06:19:13
+		Duration:	14:20:48
+		Location:	45.79077 6.71512
+
+	ACOR1
+		Images:	127
+		Time:	25.08.2025 07:33:14 until 25.08.2025 08:00:56
+		Duration:	00:27:42
+		Location:	45.92371 6.86908
+
+	ACOR2
+		Images:	571
+		Time:	25.08.2025 08:36:35 until 25.08.2025 16:23:51
+		Duration:	07:47:16
+		Location:	45.96111 6.77361
+
+	ACOR3
+		Images:	5267
+		Time:	29.08.2025 10:33:51 until 29.08.2025 14:18:46
+		Duration:	03:44:55
+		Location:	45.82391 6.98853
+
+	AEP1
+		Images:	171
+		Time:	29.08.2025 08:51:38 until 29.08.2025 09:16:06
+		Duration:	00:24:28
+		Location:	45.79125 6.97084
+
+	AMHO1
+		Images:	4239
+		Time:	29.08.2025 14:12:16 until 29.08.2025 23:22:52
+		Duration:	09:10:36
+		Location:	46.02915 7.11748
+
+	ANJO1
+		Images:	850
+		Time:	29.08.2025 20:57:31 until 29.08.2025 22:38:54
+		Duration:	01:41:23
+		Location:	45.79077 6.71512
+
+	APKA1
+		Images:	179
+		Time:	29.08.2025 08:50:08 until 29.08.2025 09:16:26
+		Duration:	00:26:18
+		Location:	45.79125 6.97084
+
+(14) - PTL Lac de Pormenaz
+	ACHR2
+		Images:	2322
+		Time:	25.08.2025 12:12:38 until 25.08.2025 15:57:06
+		Duration:	03:44:28
+		Location:	45.96076 6.79089
+
+	ACHR2DRONE1
+		Images:	27
+		Time:	25.08.2025 12:53:43 until 25.08.2025 13:53:35
+		Duration:	00:59:52
+		Location:	45.96076 6.79089
+
+	ACHR2LS1
+		Images:	632
+		Time:	25.08.2025 12:24:17 until 25.08.2025 15:15:20
+		Duration:	02:51:03
+		Location:	45.96076 6.79089
+
+(15) - PTL Mont Blanc View
+	ACOR2
+		Images:	571
+		Time:	25.08.2025 08:36:35 until 25.08.2025 16:23:51
+		Duration:	07:47:16
+		Location:	45.96111 6.77361
+
+	ACOR2LS1
+		Images:	191
+		Time:	25.08.2025 12:10:50 until 25.08.2025 16:18:18
+		Duration:	04:07:28
+		Location:	45.96111 6.77361
+
+(16) - PTL Start
+	ACHR1
+		Images:	446
+		Time:	25.08.2025 07:33:41 until 25.08.2025 11:03:22
+		Duration:	03:29:41
+		Location:	45.92371 6.86908
+
+	ACOR1
+		Images:	127
+		Time:	25.08.2025 07:33:14 until 25.08.2025 08:00:56
+		Duration:	00:27:42
+		Location:	45.92371 6.86908
+
+(17) - Start
+	CAGU1
+		Images:	1349
+		Time:	29.08.2025 16:54:28 until 29.08.2025 17:58:53
+		Duration:	01:04:25
+		Location:	45.92368 6.86921
+
+	CMATR1
+		Images:	544
+		Time:	29.08.2025 16:34:07 until 29.08.2025 17:48:57
+		Duration:	01:14:50
+		Location:	45.92368 6.86921
+
+(18) - UTMB 101.3 KM Gand Col Ferrett
+	BLULE2
+		Images:	14569
+		Time:	01.01.0001 23:00:00 until 30.08.2025 19:49:53
+		Duration:	739491.20:49:53
+		Location:	45.88275 7.07578
+
+(19) - UTMB 102KM Rifugio Elena
+	BTNR2
+		Images:	3325
+		Time:	30.08.2025 05:54:38 until 30.08.2025 19:30:12
+		Duration:	13:35:34
+		Location:	45.88498 7.06747
+
+	BTNR2LS1
+		Images:	7783
+		Time:	30.08.2025 06:57:52 until 30.08.2025 18:14:59
+		Duration:	11:17:07
+		Location:	45.88498 7.06747
+
+(20) - UTMB 128.5KM Champex-Lac
+	AMHO2
+		Images:	2607
+		Time:	30.08.2025 08:47:02 until 30.08.2025 21:53:55
+		Duration:	13:06:53
+		Location:	46.02915 7.11748
+
+	AMHO2LS1
+		Images:	3113
+		Time:	30.08.2025 09:16:48 until 31.08.2025 02:47:59
+		Duration:	17:31:11
+		Location:	46.02915 7.11748
+
+(21) - UTMB 139KM Behind Alpage Bovine
+	AALL2
+		Images:	2505
+		Time:	30.08.2025 09:08:40 until 30.08.2025 19:32:26
+		Duration:	10:23:46
+		Location:	46.05731 7.04418
+
+	AALL2LS1
+		Images:	1500
+		Time:	30.08.2025 12:54:13 until 30.08.2025 19:18:25
+		Duration:	06:24:12
+		Location:	46.05731 7.04418
+
+(22) - UTMB 140KM Behind Alpage Bovine
+	AMDS2
+		Images:	1988
+		Time:	30.08.2025 09:03:43 until 30.08.2025 19:56:44
+		Duration:	10:53:01
+		Location:	46.05731 7.04418
+
+	AMDS2LS1
+		Images:	1369
+		Time:	30.08.2025 10:29:14 until 30.08.2025 19:01:17
+		Duration:	08:32:03
+		Location:	46.05731 7.04418
+
+(23) - UTMB 143.5KM Col de la Forclaz
+	ACHR5
+		Images:	140
+		Time:	30.08.2025 21:32:18 until 30.08.2025 22:48:26
+		Duration:	01:16:08
+		Location:	46.05702 7.00137
+
+	ACHR5LS1
+		Images:	1281
+		Time:	30.08.2025 22:32:16 until 31.08.2025 08:13:04
+		Duration:	09:40:48
+		Location:	46.05702 7.00137
+
+	ANJO3
+		Images:	39
+		Time:	30.08.2025 23:38:09 until 31.08.2025 00:30:22
+		Duration:	00:52:13
+		Location:	46.05702 7.00137
+
+	ANJO3LS1
+		Images:	1381
+		Time:	30.08.2025 21:37:55 until 31.08.2025 08:06:23
+		Duration:	10:28:28
+		Location:	46.05702 7.00137
+
+(24) - UTMB 168km La Flegere
+	BMAWI1
+		Images:	3649
+		Time:	30.08.2025 13:22:02 until 31.08.2025 14:50:18
+		Duration:	1.01:28:16
+		Location:	45.88498 7.06747
+
+	BMAWI1DRONE1
+		Images:	8
+		Time:	31.08.2025 05:48:17 until 31.08.2025 05:53:49
+		Duration:	00:05:32
+		Location:	45.88498 7.06747
+
+	BMAWI1LS1
+		Images:	4130
+		Time:	30.08.2025 12:37:08 until 31.08.2025 14:51:26
+		Duration:	1.02:14:18
+		Location:	45.88498 7.06747
+
+	BMAWI1LS2
+		Images:	5422
+		Time:	30.08.2025 13:10:50 until 31.08.2025 14:51:39
+		Duration:	1.01:40:49
+		Location:	45.88498 7.06747
+
+	BRSJ1
+		Images:	1907
+		Time:	30.08.2025 13:08:31 until 31.08.2025 10:50:04
+		Duration:	21:41:33
+		Location:	45.88498 7.06747
+
+	BRSJ1LS1
+		Images:	1859
+		Time:	30.08.2025 13:08:37 until 31.08.2025 10:57:37
+		Duration:	21:49:00
+		Location:	45.88498 7.06747
+
+(25) - UTMB 71.7KM Above Lac Combal
+	ANJO2
+		Images:	5153
+		Time:	30.08.2025 04:37:54 until 30.08.2025 10:47:57
+		Duration:	06:10:03
+		Location:	45.77315 6.87880
+
+	ANJO2LS1
+		Images:	1582
+		Time:	30.08.2025 07:11:48 until 30.08.2025 11:02:32
+		Duration:	03:50:44
+		Location:	45.77315 6.87880
+
+(26) - UTMB 73.5KM Arete du Mont Favre
+	ACHR4
+		Images:	2739
+		Time:	30.08.2025 06:21:47 until 30.08.2025 14:21:14
+		Duration:	07:59:27
+		Location:	45.77149 6.89189
+
+	ACHR4DRONE1
+		Images:	16
+		Time:	30.08.2025 07:46:06 until 30.08.2025 08:02:55
+		Duration:	00:16:49
+		Location:	45.77149 6.89189
+
+	ACHR4LS1
+		Images:	2486
+		Time:	30.08.2025 07:20:32 until 30.08.2025 10:06:58
+		Duration:	02:46:26
+		Location:	45.77149 6.89189
+
+(27) - UTMB 90.5KM Mont Blanc View
+	ACOR4
+		Images:	5829
+		Time:	30.08.2025 06:41:15 until 30.08.2025 16:22:21
+		Duration:	09:41:06
+		Location:	45.82391 6.98853
+
+	ACOR4LS1
+		Images:	1417
+		Time:	30.08.2025 09:15:45 until 30.08.2025 14:13:53
+		Duration:	04:58:08
+		Location:	45.82391 6.98853
+
+(28) - UTMB 95.5KM Punto Panoramico
+	APKA3
+		Images:	3284
+		Time:	30.08.2025 06:52:32 until 30.08.2025 17:53:34
+		Duration:	11:01:02
+		Location:	45.84949 7.03688
+
+	APKA3LS1
+		Images:	3476
+		Time:	29.08.2025 07:20:33 until 29.08.2025 17:27:46
+		Duration:	10:07:13
+		Location:	45.84949 7.03688
+
+(29) - UTMB 98KM Grandes Jorasses View
+	AEP3
+		Images:	9206
+		Time:	30.08.2025 07:26:36 until 30.08.2025 18:33:05
+		Duration:	11:06:29
+		Location:	45.86398 7.05529
+
+	AEP3LS1
+		Images:	3477
+		Time:	30.08.2025 07:03:21 until 30.08.2025 17:59:47
+		Duration:	10:56:26
+		Location:	45.86398 7.05529
+
+(30) - UTMB Notre Dame de la Gorge
+	ACHR3
+		Images:	486
+		Time:	29.08.2025 15:58:25 until 30.08.2025 06:19:13
+		Duration:	14:20:48
+		Location:	45.79077 6.71512
+
+	ANJO1
+		Images:	850
+		Time:	29.08.2025 20:57:31 until 29.08.2025 22:38:54
+		Duration:	01:41:23
+		Location:	45.79077 6.71512
+

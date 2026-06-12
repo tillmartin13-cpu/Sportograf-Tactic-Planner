@@ -1,0 +1,268 @@
+EventId: 13514
+Spots: 42
+Total Images: 339536
+Time:	27.04.2025 08:25:30 to 18.05.2025 15:12:47
+Duration: 21.06:47:17
+
+(1) - 1.5 km before Finish
+	BMW2
+		Images:	2781
+		Time:	18.05.2025 11:58:28 until 18.05.2025 14:28:55
+		Duration:	02:30:27
+		Location:	50.93094 6.9688
+
+	BMW2LS1
+		Images:	1946
+		Time:	18.05.2025 11:50:57 until 18.05.2025 14:35:16
+		Duration:	02:44:19
+		Location:	50.93094 6.9688
+
+	BMW2LS2
+		Images:	2056
+		Time:	18.05.2025 11:41:12 until 18.05.2025 14:36:13
+		Duration:	02:55:01
+		Location:	50.93094 6.9688
+
+	BOP2
+		Images:	3205
+		Time:	18.05.2025 11:49:45 until 18.05.2025 14:37:46
+		Duration:	02:48:01
+		Location:	50.93094 6.9688
+
+	BOP2LS1
+		Images:	1998
+		Time:	18.05.2025 11:36:05 until 18.05.2025 14:35:13
+		Duration:	02:59:08
+		Location:	50.93094 6.9688
+
+(2) - 1.5 km Severinsbrücke
+	BMW1
+		Images:	4714
+		Time:	17.05.2025 16:10:56 until 18.05.2025 09:52:57
+		Duration:	17:42:01
+		Location:	50.93094 6.9688
+
+	BMW1LS1
+		Images:	3046
+		Time:	17.05.2025 16:09:18 until 18.05.2025 10:00:44
+		Duration:	17:51:26
+		Location:	50.93094 6.9688
+
+	BMW1LS2
+		Images:	1546
+		Time:	17.05.2025 16:13:09 until 18.05.2025 09:41:04
+		Duration:	17:27:55
+		Location:	50.93094 6.9688
+
+	BOP1
+		Images:	9358
+		Time:	18.05.2025 08:14:11 until 18.05.2025 09:53:45
+		Duration:	01:39:34
+		Location:	50.93094 6.9688
+
+	BOP1LS1
+		Images:	6754
+		Time:	18.05.2025 08:45:56 until 18.05.2025 09:53:39
+		Duration:	01:07:43
+		Location:	50.93094 6.9688
+
+(3) - 104.0 km Forsbach
+	ALTJ1
+		Images:	5375
+		Time:	18.05.2025 10:14:06 until 18.05.2025 14:09:18
+		Duration:	03:55:12
+		Location:	50.92113 7.15556
+
+	AMIJA1
+		Images:	14021
+		Time:	18.05.2025 10:12:00 until 18.05.2025 13:57:36
+		Duration:	03:45:36
+		Location:	50.92113 7.15556
+
+	AOT1
+		Images:	30558
+		Time:	17.05.2025 13:44:46 until 18.05.2025 14:06:34
+		Duration:	1.00:21:48
+		Location:	50.92113 7.15556
+
+	AOT1LS1
+		Images:	8758
+		Time:	18.05.2025 09:31:21 until 18.05.2025 14:09:52
+		Duration:	04:38:31
+		Location:	50.92113 7.15556
+
+(4) - 109.0 km Schmitzebud
+	AMB1
+		Images:	8983
+		Time:	17.05.2025 15:03:57 until 18.05.2025 14:11:27
+		Duration:	23:07:30
+		Location:	50.92006 7.09884
+
+(5) - 5.0 km before Finish
+	BFMT1
+		Images:	15070
+		Time:	18.05.2025 10:28:30 until 18.05.2025 15:00:46
+		Duration:	04:32:16
+		Location:	50.93368 7.01550
+
+	BFMT1LS1
+		Images:	3202
+		Time:	18.05.2025 09:32:45 until 18.05.2025 14:53:03
+		Duration:	05:20:18
+		Location:	50.93368 7.01550
+
+(6) - 92.0 km Bergwertung Sand
+	ADRI1
+		Images:	6960
+		Time:	18.05.2025 09:56:05 until 18.05.2025 13:43:47
+		Duration:	03:47:42
+		Location:	50.99011 7.15772
+
+	ADRI1DRONE1
+		Images:	30
+		Time:	18.05.2025 08:10:45 until 18.05.2025 12:59:47
+		Duration:	04:49:02
+		Location:	50.99011 7.15772
+
+	ADRI1LS1
+		Images:	11738
+		Time:	18.05.2025 09:21:13 until 18.05.2025 13:48:17
+		Duration:	04:27:04
+		Location:	50.99011 7.15772
+
+	ADRI1LS2
+		Images:	10859
+		Time:	18.05.2025 09:19:47 until 18.05.2025 13:49:03
+		Duration:	04:29:16
+		Location:	50.99011 7.15772
+
+	AKOLS1
+		Images:	13337
+		Time:	18.05.2025 06:55:38 until 18.05.2025 13:42:09
+		Duration:	06:46:31
+		Location:	50.99011 7.15772
+
+	ANBA1
+		Images:	8569
+		Time:	18.05.2025 08:54:23 until 18.05.2025 13:58:53
+		Duration:	05:04:30
+		Location:	50.99011 7.15772
+
+(7) - 96.0 km
+	ASSW1
+		Images:	8906
+		Time:	18.05.2025 10:00:50 until 18.05.2025 13:37:03
+		Duration:	03:36:13
+		Location:	50.97291 7.14455
+
+	ASSW1LS1
+		Images:	8728
+		Time:	18.05.2025 09:48:23 until 18.05.2025 13:41:55
+		Duration:	03:53:32
+		Location:	50.97291 7.14455
+
+	ASSW1LS2
+		Images:	7653
+		Time:	18.05.2025 09:58:58 until 18.05.2025 13:40:23
+		Duration:	03:41:25
+		Location:	50.97291 7.14455
+
+(8) - 98.0 km Schloss Bensberg
+	AANR1
+		Images:	14606
+		Time:	18.05.2025 10:05:30 until 18.05.2025 15:09:49
+		Duration:	05:04:19
+		Location:	50.96649 7.16004
+
+	AFCO1
+		Images:	18601
+		Time:	18.05.2025 09:47:13 until 18.05.2025 15:12:47
+		Duration:	05:25:34
+		Location:	50.96649 7.16004
+
+	AJKE1
+		Images:	13591
+		Time:	17.05.2025 21:48:08 until 18.05.2025 13:56:27
+		Duration:	16:08:19
+		Location:	50.96649 7.16004
+
+	AJKE1LS1
+		Images:	5319
+		Time:	18.05.2025 10:05:47 until 18.05.2025 14:05:58
+		Duration:	04:00:11
+		Location:	50.96649 7.16004
+
+	AJKE1LS2
+		Images:	7716
+		Time:	17.05.2025 21:43:05 until 18.05.2025 13:51:49
+		Duration:	16:08:44
+		Location:	50.96649 7.16004
+
+(9) - Finish
+	BALN2
+		Images:	15944
+		Time:	18.05.2025 10:38:51 until 18.05.2025 14:45:14
+		Duration:	04:06:23
+		Location:	50.92528 6.96534
+
+	BALN2LS1
+		Images:	4138
+		Time:	27.04.2025 08:25:30 until 18.05.2025 14:46:25
+		Duration:	21.06:20:55
+		Location:	50.92528 6.96534
+
+	BALN2LS2
+		Images:	3279
+		Time:	18.05.2025 10:39:25 until 18.05.2025 14:44:40
+		Duration:	04:05:15
+		Location:	50.92528 6.96534
+
+	BLUGR2
+		Images:	16042
+		Time:	18.05.2025 10:35:28 until 18.05.2025 14:47:45
+		Duration:	04:12:17
+		Location:	50.92528 6.96534
+
+	BMIV2
+		Images:	11386
+		Time:	18.05.2025 10:42:32 until 18.05.2025 14:51:32
+		Duration:	04:09:00
+		Location:	50.92528 6.96534
+
+(10) - Start
+	BALN1
+		Images:	8835
+		Time:	18.05.2025 08:57:31 until 18.05.2025 09:50:04
+		Duration:	00:52:33
+		Location:	50.92528 6.96534
+
+	BALN1LS1
+		Images:	1897
+		Time:	18.05.2025 08:43:24 until 18.05.2025 09:50:22
+		Duration:	01:06:58
+		Location:	50.92528 6.96534
+
+	BALN1LS2
+		Images:	1888
+		Time:	18.05.2025 08:45:28 until 18.05.2025 09:50:21
+		Duration:	01:04:53
+		Location:	50.92528 6.96534
+
+	BLUGR1
+		Images:	4387
+		Time:	18.05.2025 08:24:56 until 18.05.2025 09:49:44
+		Duration:	01:24:48
+		Location:	50.92528 6.96534
+
+	BMBEN1
+		Images:	1264
+		Time:	18.05.2025 08:24:28 until 18.05.2025 14:45:05
+		Duration:	06:20:37
+		Location:	50.92528 6.96534
+
+	BMIV1
+		Images:	10492
+		Time:	18.05.2025 08:42:16 until 18.05.2025 10:33:07
+		Duration:	01:50:51
+		Location:	50.92528 6.96534
+

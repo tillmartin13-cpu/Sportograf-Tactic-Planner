@@ -1,0 +1,295 @@
+EventId: 16202
+Spots: 48
+Total Images: 226279
+Time:	05.12.2025 06:34:37 to 07.12.2025 08:26:24
+Duration: 2.01:51:47
+
+(1) - Station 1 SKIERG
+	GAZ1
+		Images:	19221
+		Time:	06.12.2025 06:55:50 until 06.12.2025 17:48:14
+		Duration:	10:52:24
+		Location:	45.41524 10.97502
+
+	DARU1
+		Images:	3817
+		Time:	06.12.2025 07:04:27 until 06.12.2025 13:40:13
+		Duration:	06:35:46
+		Location:	45.41524 10.97502
+
+	DCC1
+		Images:	4671
+		Time:	05.12.2025 06:43:14 until 06.12.2025 13:28:55
+		Duration:	1.06:45:41
+		Location:	45.41524 10.97502
+
+	LAPO2
+		Images:	3932
+		Time:	06.12.2025 14:00:11 until 06.12.2025 19:41:02
+		Duration:	05:40:51
+		Location:	45.41524 10.97502
+
+	STME2
+		Images:	2970
+		Time:	05.12.2025 15:02:38 until 06.12.2025 19:41:57
+		Duration:	1.04:39:19
+		Location:	45.41524 10.97502
+
+	SFOR2
+		Images:	2875
+		Time:	06.12.2025 13:54:59 until 06.12.2025 19:40:51
+		Duration:	05:45:52
+		Location:	45.41524 10.97502
+
+(2) - Station 2 SLED PUSH
+	LAPO1
+		Images:	3323
+		Time:	06.12.2025 07:13:25 until 06.12.2025 13:49:26
+		Duration:	06:36:01
+		Location:	45.41524 10.97502
+
+	STME1
+		Images:	2862
+		Time:	06.12.2025 07:12:06 until 06.12.2025 13:47:12
+		Duration:	06:35:06
+		Location:	45.41524 10.97502
+
+	SFOR1
+		Images:	2882
+		Time:	06.12.2025 07:13:04 until 06.12.2025 13:48:48
+		Duration:	06:35:44
+		Location:	45.41524 10.97502
+
+	GAZ2
+		Images:	8879
+		Time:	06.12.2025 14:03:15 until 06.12.2025 19:53:10
+		Duration:	05:49:55
+		Location:	45.41524 10.97502
+
+	LULE2
+		Images:	6939
+		Time:	06.12.2025 14:17:24 until 06.12.2025 19:52:55
+		Duration:	05:35:31
+		Location:	45.41524 10.97502
+
+	DCC2
+		Images:	1907
+		Time:	06.12.2025 14:02:56 until 06.12.2025 19:48:24
+		Duration:	05:45:28
+		Location:	45.41524 10.97502
+
+(3) - SMILE ARCH
+	MATR1LS1
+		Images:	5087
+		Time:	06.12.2025 06:24:24 until 06.12.2025 19:59:39
+		Duration:	13:35:15
+		Location:	45.41524 10.97502
+
+	GAZ1LS1
+		Images:	5231
+		Time:	06.12.2025 18:29:48 until 07.12.2025 07:57:56
+		Duration:	13:28:08
+		Location:	45.41524 10.97502
+
+(4) - Station 3 SLED PULL
+	CVG1
+		Images:	2242
+		Time:	06.12.2025 07:20:33 until 06.12.2025 13:57:05
+		Duration:	06:36:32
+		Location:	45.41524 10.97502
+
+	BRN1
+		Images:	4308
+		Time:	05.12.2025 07:22:00 until 06.12.2025 13:53:53
+		Duration:	1.06:31:53
+		Location:	45.41524 10.97502
+
+	RLLA1
+		Images:	4123
+		Time:	05.12.2025 06:44:11 until 07.12.2025 08:26:24
+		Duration:	2.01:42:13
+		Location:	45.41524 10.97502
+
+	PINO2
+		Images:	2687
+		Time:	06.12.2025 14:01:14 until 06.12.2025 20:05:13
+		Duration:	06:03:59
+		Location:	45.41524 10.97502
+
+	SOC2
+		Images:	3255
+		Time:	06.12.2025 14:07:37 until 06.12.2025 19:53:40
+		Duration:	05:46:03
+		Location:	45.41524 10.97502
+
+	AGU2
+		Images:	8692
+		Time:	06.12.2025 14:11:29 until 06.12.2025 19:56:04
+		Duration:	05:44:35
+		Location:	45.41524 10.97502
+
+(5) - Station 5 ROWING
+	NBI1
+		Images:	7558
+		Time:	06.12.2025 06:07:08 until 06.12.2025 13:59:31
+		Duration:	07:52:23
+		Location:	45.41524 10.97502
+
+	MAGA1
+		Images:	2070
+		Time:	06.12.2025 07:31:05 until 06.12.2025 13:48:34
+		Duration:	06:17:29
+		Location:	45.41524 10.97502
+
+	DIBO2
+		Images:	7029
+		Time:	06.12.2025 14:04:46 until 06.12.2025 20:21:34
+		Duration:	06:16:48
+		Location:	45.41524 10.97502
+
+	LLM2
+		Images:	3842
+		Time:	06.12.2025 13:54:44 until 06.12.2025 20:37:54
+		Duration:	06:43:10
+		Location:	45.41524 10.97502
+
+	RLO1
+		Images:	2691
+		Time:	05.12.2025 06:34:37 until 06.12.2025 17:41:36
+		Duration:	1.11:06:59
+		Location:	45.41524 10.97502
+
+	MATR1
+		Images:	2206
+		Time:	06.12.2025 08:17:26 until 06.12.2025 17:42:41
+		Duration:	09:25:15
+		Location:	45.41524 10.97502
+
+(6) - Station 6 FARMER CARRY
+	AGU1LS1
+		Images:	11988
+		Time:	06.12.2025 06:37:59 until 06.12.2025 19:09:55
+		Duration:	12:31:56
+		Location:	45.41524 10.97502
+
+	AGU1LS2
+		Images:	11045
+		Time:	06.12.2025 06:42:30 until 06.12.2025 20:31:12
+		Duration:	13:48:42
+		Location:	45.41524 10.97502
+
+(7) - Station 7 SAND BAG
+	PINO1
+		Images:	3610
+		Time:	06.12.2025 07:01:54 until 06.12.2025 14:00:07
+		Duration:	06:58:13
+		Location:	45.41524 10.97502
+
+	AGU1
+		Images:	4890
+		Time:	05.12.2025 09:40:23 until 06.12.2025 14:02:02
+		Duration:	1.04:21:39
+		Location:	45.41524 10.97502
+
+	CVG2
+		Images:	3176
+		Time:	06.12.2025 14:02:30 until 06.12.2025 21:07:04
+		Duration:	07:04:34
+		Location:	45.41524 10.97502
+
+	RLLA2
+		Images:	6644
+		Time:	06.12.2025 14:01:02 until 06.12.2025 21:11:22
+		Duration:	07:10:20
+		Location:	45.41524 10.97502
+
+	RLO2
+		Images:	1485
+		Time:	06.12.2025 09:32:43 until 06.12.2025 18:24:50
+		Duration:	08:52:07
+		Location:	45.41524 10.97502
+
+	MATR2
+		Images:	1864
+		Time:	06.12.2025 09:33:26 until 06.12.2025 18:27:54
+		Duration:	08:54:28
+		Location:	45.41524 10.97502
+
+(8) - Station 8 WALLBALL
+	LULE1
+		Images:	7242
+		Time:	06.12.2025 05:59:06 until 06.12.2025 14:05:05
+		Duration:	08:05:59
+		Location:	45.41524 10.97502
+
+	LLM1
+		Images:	3577
+		Time:	06.12.2025 07:40:57 until 06.12.2025 13:09:38
+		Duration:	05:28:41
+		Location:	45.41524 10.97502
+
+	BRN2
+		Images:	7463
+		Time:	06.12.2025 14:17:01 until 06.12.2025 20:57:39
+		Duration:	06:40:38
+		Location:	45.41524 10.97502
+
+	MAGA2
+		Images:	4114
+		Time:	06.12.2025 13:56:55 until 06.12.2025 21:31:43
+		Duration:	07:34:48
+		Location:	45.41524 10.97502
+
+	RLO3
+		Images:	2116
+		Time:	06.12.2025 10:08:05 until 06.12.2025 19:00:38
+		Duration:	08:52:33
+		Location:	45.41524 10.97502
+
+	MATR3
+		Images:	1821
+		Time:	06.12.2025 10:15:25 until 06.12.2025 19:00:37
+		Duration:	08:45:12
+		Location:	45.41524 10.97502
+
+(9) - Finish
+	SOC1
+		Images:	7156
+		Time:	05.12.2025 06:59:14 until 07.12.2025 07:06:44
+		Duration:	2.00:07:30
+		Location:	45.41524 10.97502
+
+	NBI2
+		Images:	6457
+		Time:	06.12.2025 14:02:29 until 06.12.2025 22:04:34
+		Duration:	08:02:05
+		Location:	45.41524 10.97502
+
+	LULE1LS1
+		Images:	3285
+		Time:	06.12.2025 06:40:02 until 06.12.2025 21:09:04
+		Duration:	14:29:02
+		Location:	45.41524 10.97502
+
+	FRN1LS1
+		Images:	3129
+		Time:	06.12.2025 06:23:58 until 06.12.2025 21:10:24
+		Duration:	14:46:26
+		Location:	45.41524 10.97502
+
+(10) - Medalwall
+	DIBO1
+		Images:	4275
+		Time:	06.12.2025 07:40:38 until 06.12.2025 14:01:11
+		Duration:	06:20:33
+		Location:	45.41524 10.97502
+
+	DARU2
+		Images:	5643
+		Time:	06.12.2025 14:03:02 until 06.12.2025 21:25:32
+		Duration:	07:22:30
+		Location:	45.41524 10.97502
+
+(11) - Start
+	FRN1
+	FRN2

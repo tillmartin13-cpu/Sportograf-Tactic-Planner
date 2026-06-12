@@ -1,0 +1,102 @@
+EventId: 14666
+Spots: 14
+Total Images: 103895
+Time:	16.05.2025 19:01:15 to 17.06.2025 16:29:45
+Duration: 31.21:28:30
+
+(1) - Obstacle 4 Monkey Bars
+	DOBR1
+		Images:	15222
+		Time:	17.05.2025 07:17:48 until 17.05.2025 15:08:41
+		Duration:	07:50:53
+		Location:	30.79438 -98.35151
+
+(2) - Obstacle 13 Atlas Carry
+	AKT1
+		Images:	6303
+		Time:	17.05.2025 06:51:54 until 18.05.2025 06:42:56
+		Duration:	23:51:02
+		Location:	30.79156 -98.35244
+
+	SCSE1
+		Images:	4595
+		Time:	16.05.2025 21:11:19 until 17.05.2025 15:36:16
+		Duration:	18:24:57
+		Location:	30.79160 -98.35253
+
+(3) - Obstacle 17 Bucket Carry
+	BICI1
+		Images:	7043
+		Time:	17.05.2025 07:39:12 until 18.05.2025 11:35:00
+		Duration:	1.03:55:48
+		Location:	30.79238 -98.35817
+
+(4) - Obstacle 17 Bucket Carry LS
+	BICI1LS1
+		Images:	5387
+		Time:	17.05.2025 07:39:11 until 17.05.2025 15:54:19
+		Duration:	08:15:08
+		Location:	30.79238 -98.35817
+
+(5) - Obstacle 19 Sandbag Carry
+	GAPO1
+		Images:	10149
+		Time:	17.05.2025 07:50:36 until 17.05.2025 16:15:34
+		Duration:	08:24:58
+		Location:	30.79238 -98.35817
+
+(6) - Obstacle 21 Barbedwire Crawl
+	JVI1
+		Images:	13777
+		Time:	16.05.2025 22:22:00 until 17.05.2025 16:27:12
+		Duration:	18:05:12
+		Location:	30.79461 -98.35941
+
+(7) - Obstacle 24 Slip Wall
+	GDRP1
+		Images:	7898
+		Time:	17.05.2025 07:05:56 until 18.05.2025 07:07:41
+		Duration:	1.00:01:45
+		Location:	30.79498 -98.36008
+
+(8) - Obstacle 25 Multi Rig
+	JMS1
+		Images:	8474
+		Time:	17.05.2025 06:44:31 until 18.05.2025 07:01:11
+		Duration:	1.00:16:40
+		Location:	30.79825 -98.35948
+
+	AWD1
+		Images:	2070
+		Time:	17.05.2025 08:45:37 until 17.05.2025 16:27:29
+		Duration:	07:41:52
+		Location:	30.79836 -98.35944
+
+(9) - Obstacle 26 A Frame
+	PRU1
+		Images:	11628
+		Time:	16.05.2025 21:00:18 until 18.05.2025 06:36:28
+		Duration:	1.09:36:10
+		Location:	30.79831 -98.35964
+
+(10) - Obstacle 27 Fire Jump
+	GACA1
+		Images:	6508
+		Time:	17.06.2025 06:25:11 until 17.06.2025 16:29:45
+		Duration:	10:04:34
+		Location:	30.79862 -98.36007
+
+(11) - Herotent
+	CIFU1
+		Images:	4765
+		Time:	16.05.2025 19:01:15 until 18.05.2025 07:22:43
+		Duration:	1.12:21:28
+		Location:	30.79893 -98.35994
+
+(12) - Impressions / Pano
+	JOFU1
+		Images:	76
+		Time:	16.05.2025 19:21:27 until 17.05.2025 09:48:43
+		Duration:	14:27:16
+		Location:	30.80131 -98.35720
+

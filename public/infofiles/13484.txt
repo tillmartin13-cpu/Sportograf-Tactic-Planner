@@ -1,0 +1,127 @@
+EventId: 13484
+Spots: 19
+Total Images: 78906
+Time:	12.06.2025 17:25:32 to 14.06.2025 14:16:52
+Duration: 1.20:51:20
+
+(1) - Obstacle 16 Wasserrutsche 2
+	ADCR1
+		Images:	7581
+		Time:	14.06.2025 09:57:40 until 14.06.2025 12:25:44
+		Duration:	02:28:04
+		Location:	48.20398 16.41541
+
+(2) - Obstacle 1
+	ADCR4
+		Images:	3481
+		Time:	14.06.2025 12:41:29 until 14.06.2025 13:23:03
+		Duration:	00:41:34
+		Location:	48.20154 16.41841
+
+(3) - Obstacle 17 SCHAUMHINDERNIS
+	ADCR2
+		Images:	2060
+		Time:	14.06.2025 08:46:15 until 14.06.2025 09:55:27
+		Duration:	01:09:12
+		Location:	48.20396 16.41808
+
+	ISM1
+		Images:	3057
+		Time:	14.06.2025 09:56:19 until 14.06.2025 12:36:34
+		Duration:	02:40:15
+		Location:	48.20396 16.41808
+
+	ISM3LS1
+		Images:	1260
+		Time:	14.06.2025 05:24:39 until 14.06.2025 10:24:46
+		Duration:	05:00:07
+		Location:	48.20396 16.41808
+
+(4) - Start
+	ADCR3
+		Images:	245
+		Time:	14.06.2025 08:55:01 until 14.06.2025 09:06:42
+		Duration:	00:11:41
+		Location:	48.20473 16.41768
+
+	ANN2
+		Images:	51
+		Time:	14.06.2025 08:28:17 until 14.06.2025 09:00:59
+		Duration:	00:32:42
+		Location:	48.20473 16.41768
+
+	ISM3
+		Images:	195
+		Time:	14.06.2025 08:56:16 until 14.06.2025 09:06:12
+		Duration:	00:09:56
+		Location:	48.20473 16.41768
+
+(5) - Obstacle 18 BIG SPIDER NET
+	ANN1
+		Images:	10039
+		Time:	14.06.2025 09:04:08 until 14.06.2025 13:54:33
+		Duration:	04:50:25
+		Location:	48.20402 16.41546
+
+(6) - Obstacle 7 REIFENHINDERNIS
+	DRU1
+		Images:	3483
+		Time:	14.06.2025 10:58:39 until 14.06.2025 13:27:30
+		Duration:	02:28:51
+		Location:	48.19327 16.43477
+
+(7) - Obstacle 13 STROHPYRAMIDE
+	DRU2
+		Images:	1574
+		Time:	14.06.2025 09:25:54 until 14.06.2025 10:46:38
+		Duration:	01:20:44
+		Location:	48.20154 16.41841
+
+(8) - Ceremony
+	DRU3
+		Images:	76
+		Time:	14.06.2025 14:03:59 until 14.06.2025 14:16:52
+		Duration:	00:12:53
+		Location:	48.20154 16.41841
+
+(9) - Obstacle 16 WASSERRUTSCHE
+	ISM2
+		Images:	1118
+		Time:	14.06.2025 05:26:29 until 14.06.2025 09:54:53
+		Duration:	04:28:24
+		Location:	48.20398 16.41541
+
+	KYR2
+		Images:	2646
+		Time:	14.06.2025 09:25:21 until 14.06.2025 10:41:34
+		Duration:	01:16:13
+		Location:	48.20398 16.41541
+
+(10) - Obstacle 11 WASSERMULDE
+	KYR1
+		Images:	10973
+		Time:	14.06.2025 11:06:45 until 14.06.2025 13:40:20
+		Duration:	02:33:35
+		Location:	48.19870 16.42467
+
+(11) - Finish
+	LOMA1
+		Images:	21408
+		Time:	14.06.2025 08:58:34 until 14.06.2025 13:55:29
+		Duration:	04:56:55
+		Location:	48.20473 16.41768
+
+	LOMA1LS1
+		Images:	3319
+		Time:	12.06.2025 17:25:32 until 14.06.2025 13:55:24
+		Duration:	1.20:29:52
+		Location:	48.20473 16.41768
+
+	LOMA1LS2
+		Images:	6340
+		Time:	12.06.2025 17:39:49 until 14.06.2025 13:55:24
+		Duration:	1.20:15:35
+		Location:	48.20473 16.41768
+
+(12) - Impressions / Pano
+	PANO1

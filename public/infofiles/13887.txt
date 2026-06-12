@@ -1,0 +1,210 @@
+EventId: 13887
+Spots: 32
+Total Images: 103975
+Time:	30.05.2025 17:47:03 to 31.05.2025 23:01:49
+Duration: 1.05:14:46
+
+(1) - Start
+	JZE1
+		Images:	528
+		Time:	30.05.2025 19:37:41 until 30.05.2025 22:00:29
+		Duration:	02:22:48
+		Location:	NULL NULL
+
+	ABRI1
+		Images:	4066
+		Time:	30.05.2025 18:50:09 until 31.05.2025 09:36:48
+		Duration:	14:46:39
+		Location:	NULL NULL
+
+	SLOM2
+		Images:	3426
+		Time:	31.05.2025 02:57:24 until 31.05.2025 09:36:44
+		Duration:	06:39:20
+		Location:	NULL NULL
+
+(2) - 3,0 km Bergstraße (Neubrandenburg)
+	SLOM1
+		Images:	845
+		Time:	30.05.2025 19:46:36 until 30.05.2025 22:10:54
+		Duration:	02:24:18
+		Location:	NULL NULL
+
+(3) - 7,0 km Dorfkirche Bargensdorf (MSR 100)
+	JZE2
+		Images:	3120
+		Time:	31.05.2025 08:05:57 until 31.05.2025 09:54:00
+		Duration:	01:48:03
+		Location:	NULL NULL
+
+	JZE2LS1
+		Images:	751
+		Time:	31.05.2025 08:18:39 until 31.05.2025 09:53:15
+		Duration:	01:34:36
+		Location:	NULL NULL
+
+(4) - 14,0 km Landstraße vor Dewitz
+	LEM1
+		Images:	601
+		Time:	30.05.2025 19:55:48 until 30.05.2025 21:33:37
+		Duration:	01:37:49
+		Location:	NULL NULL
+
+	LEM1DRONE1
+		Images:	46
+		Time:	30.05.2025 20:05:06 until 31.05.2025 20:25:05
+		Duration:	1.00:19:59
+		Location:	NULL NULL
+
+(5) - 18,0 km Landstraße nach Dewitz
+	EBO1
+		Images:	4682
+		Time:	30.05.2025 20:59:24 until 31.05.2025 07:47:34
+		Duration:	10:48:10
+		Location:	NULL NULL
+
+	EBO1DRONE1
+		Images:	180
+		Time:	30.05.2025 20:50:54 until 31.05.2025 06:08:07
+		Duration:	09:17:13
+		Location:	NULL NULL
+
+(6) - 19,0 km Landstraße nach Dewitz
+	LEM2
+		Images:	2049
+		Time:	31.05.2025 08:29:50 until 31.05.2025 10:32:35
+		Duration:	02:02:45
+		Location:	NULL NULL
+
+	LEM2LS1
+		Images:	754
+		Time:	31.05.2025 08:32:04 until 31.05.2025 10:39:42
+		Duration:	02:07:38
+		Location:	NULL NULL
+
+	LEM2LS2
+		Images:	781
+		Time:	31.05.2025 08:17:54 until 31.05.2025 10:37:38
+		Duration:	02:19:44
+		Location:	NULL NULL
+
+(7) - 39,0 km Altes Zollhaus
+	MFR1
+		Images:	4916
+		Time:	30.05.2025 19:57:32 until 31.05.2025 11:53:34
+		Duration:	15:56:02
+		Location:	NULL NULL
+
+	MFR1LS1
+		Images:	2713
+		Time:	31.05.2025 05:03:12 until 31.05.2025 11:40:33
+		Duration:	06:37:21
+		Location:	NULL NULL
+
+(8) - 92,0 km Useriner Mühle
+	CRIC1
+		Images:	477
+		Time:	30.05.2025 20:49:49 until 31.05.2025 08:04:06
+		Duration:	11:14:17
+		Location:	NULL NULL
+
+	CRIC1LS1
+		Images:	484
+		Time:	30.05.2025 22:31:15 until 31.05.2025 03:51:04
+		Duration:	05:19:49
+		Location:	NULL NULL
+
+(9) - 162,0 km Kroneiche von Minzow
+	PSA1
+		Images:	6977
+		Time:	30.05.2025 17:47:03 until 31.05.2025 21:46:21
+		Duration:	1.03:59:18
+		Location:	NULL NULL
+
+(10) - 170,0 km Landstraße Walow
+	PJE1
+		Images:	7335
+		Time:	30.05.2025 21:38:06 until 31.05.2025 15:36:07
+		Duration:	17:58:01
+		Location:	NULL NULL
+
+	PJE1LS1
+		Images:	3405
+		Time:	30.05.2025 21:13:54 until 31.05.2025 18:05:02
+		Duration:	20:51:08
+		Location:	NULL NULL
+
+(11) - 250,0 km Sorgenloser Weg
+	LEM3
+		Images:	5870
+		Time:	31.05.2025 13:02:44 until 31.05.2025 19:48:13
+		Duration:	06:45:29
+		Location:	NULL NULL
+
+	LEM3LS2
+		Images:	2433
+		Time:	31.05.2025 12:53:19 until 31.05.2025 19:50:18
+		Duration:	06:56:59
+		Location:	NULL NULL
+
+	LEM3LS1
+		Images:	2322
+		Time:	31.05.2025 12:50:19 until 31.05.2025 19:50:20
+		Duration:	07:00:01
+		Location:	NULL NULL
+
+(12) - 273,0 km Trojanisches Pferd (Ankershagen)
+	JZE3
+		Images:	10963
+		Time:	31.05.2025 12:20:39 until 31.05.2025 20:39:55
+		Duration:	08:19:16
+		Location:	NULL NULL
+
+	JZE3LS1
+		Images:	2367
+		Time:	31.05.2025 12:05:41 until 31.05.2025 20:42:23
+		Duration:	08:36:42
+		Location:	NULL NULL
+
+(13) - 295,0 km Chemnitz Dorf
+	MFR2
+		Images:	3295
+		Time:	31.05.2025 15:12:28 until 31.05.2025 21:22:09
+		Duration:	06:09:41
+		Location:	NULL NULL
+
+(14) - 296,0 km Chemnitz Felder
+	CRIC2
+		Images:	6312
+		Time:	31.05.2025 14:42:26 until 31.05.2025 21:02:27
+		Duration:	06:20:01
+		Location:	NULL NULL
+
+	CRIC2LS1
+		Images:	3065
+		Time:	31.05.2025 15:06:11 until 31.05.2025 21:02:31
+		Duration:	05:56:20
+		Location:	NULL NULL
+
+(15) - 305,0 km Oberbachbrücke
+	EBO2
+		Images:	7629
+		Time:	31.05.2025 08:58:04 until 31.05.2025 21:39:05
+		Duration:	12:41:01
+		Location:	NULL NULL
+
+(16) - Finish
+	ABRI2
+		Images:	3344
+		Time:	31.05.2025 09:38:46 until 31.05.2025 21:40:04
+		Duration:	12:01:18
+		Location:	NULL NULL
+
+	SLOM3
+		Images:	8239
+		Time:	31.05.2025 09:38:30 until 31.05.2025 23:01:49
+		Duration:	13:23:19
+		Location:	NULL NULL
+
+(17) - Impressions / Pano
+	PANO1

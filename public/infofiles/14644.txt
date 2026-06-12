@@ -1,0 +1,68 @@
+EventId: 14644
+Spots: 9
+Total Images: 42134
+Time:	01.08.2025 21:38:12 to 03.08.2025 14:35:27
+Duration: 1.16:57:15
+
+(1) - Obstacle 6 BLOCK NESS MONSTER
+	IZZY1
+		Images:	4227
+		Time:	03.08.2025 09:17:38 until 03.08.2025 11:51:19
+		Duration:	02:33:41
+		Location:	39.17072 -85.80954
+
+(2) - Obstacle 23 ARTIC ENEMA
+	ASP1
+		Images:	9969
+		Time:	03.08.2025 09:12:44 until 03.08.2025 14:31:09
+		Duration:	05:18:25
+		Location:	39.16679 -85.81045
+
+(3) - Obstacle 11 CAGE CRAWL
+	AWES1
+		Images:	1571
+		Time:	02.08.2025 10:05:09 until 03.08.2025 10:03:37
+		Duration:	23:58:28
+		Location:	39.16162 -85.80942
+
+(4) - Impressions / Pano
+	AWES1DRONE1
+		Images:	75
+		Time:	01.08.2025 21:38:12 until 03.08.2025 10:32:01
+		Duration:	1.12:53:49
+		Location:	39.16690 -85.80839
+
+	CCZ1
+		Images:	178
+		Time:	03.08.2025 09:58:22 until 03.08.2025 10:21:33
+		Duration:	00:23:11
+		Location:	39.16690 -85.80839
+
+(5) - Obstacle 24 ELECTROSHOCK THERAPY
+	JASP1
+		Images:	7554
+		Time:	03.08.2025 09:45:32 until 03.08.2025 14:35:27
+		Duration:	04:49:55
+		Location:	39.16692 -85.80998
+
+(6) - Obstacle 17 ELECTRIC EEL
+	JAYP1
+		Images:	3391
+		Time:	03.08.2025 09:00:10 until 03.08.2025 13:49:14
+		Duration:	04:49:04
+		Location:	39.16588 -85.80860
+
+(7) - Obstacle 2 KISS OF MUD
+	JBB1
+		Images:	9982
+		Time:	03.08.2025 09:04:42 until 03.08.2025 11:20:12
+		Duration:	02:15:30
+		Location:	39.16962 -85.80916
+
+(8) - Obstacle 20 WELL SWUNG
+	SCOT1
+		Images:	5187
+		Time:	03.08.2025 09:27:36 until 03.08.2025 14:19:38
+		Duration:	04:52:02
+		Location:	39.16633 -85.81098
+

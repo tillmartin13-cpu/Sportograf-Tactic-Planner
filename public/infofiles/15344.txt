@@ -1,0 +1,348 @@
+EventId: 15344
+Spots: 56
+Total Images: 223013
+Time:	16.05.2025 07:12:06 to 18.05.2025 21:13:43
+Duration: 2.14:01:37
+
+(1) - Station 1 SkiErg
+	ADRE1
+		Images:	3099
+		Time:	16.05.2025 07:35:21 until 18.05.2025 14:28:54
+		Duration:	2.06:53:33
+		Location:	52.48218 13.39159
+
+	CM1
+		Images:	5962
+		Time:	16.05.2025 07:27:07 until 18.05.2025 14:30:35
+		Duration:	2.07:03:28
+		Location:	52.48218 13.39159
+
+	DAVR1
+		Images:	6263
+		Time:	16.05.2025 07:29:53 until 18.05.2025 14:29:40
+		Duration:	2.06:59:47
+		Location:	52.48218 13.39159
+
+	RYS2
+		Images:	4944
+		Time:	16.05.2025 15:36:29 until 18.05.2025 19:39:58
+		Duration:	2.04:03:29
+		Location:	52.48218 13.39159
+
+	LEM2
+		Images:	2410
+		Time:	18.05.2025 15:19:20 until 18.05.2025 19:40:47
+		Duration:	04:21:27
+		Location:	52.48218 13.39159
+
+	JZE2
+		Images:	7615
+		Time:	16.05.2025 16:10:19 until 18.05.2025 19:41:55
+		Duration:	2.03:31:36
+		Location:	52.48218 13.39159
+
+	BS4
+		Images:	644
+		Time:	16.05.2025 15:18:50 until 18.05.2025 14:48:38
+		Duration:	1.23:29:48
+		Location:	52.48218 13.39159
+
+	HKU4
+		Images:	596
+		Time:	18.05.2025 14:35:50 until 18.05.2025 15:18:35
+		Duration:	00:42:45
+		Location:	52.48218 13.39159
+
+	ROH3
+		Images:	867
+		Time:	18.05.2025 14:33:45 until 18.05.2025 14:57:48
+		Duration:	00:24:03
+		Location:	52.48218 13.39159
+
+(2) - Station 2 Sled Push
+	CLL1
+		Images:	6127
+		Time:	18.05.2025 07:51:35 until 18.05.2025 14:48:58
+		Duration:	06:57:23
+		Location:	52.48218 13.39159
+
+	REM1
+		Images:	3779
+		Time:	18.05.2025 08:24:53 until 18.05.2025 14:31:05
+		Duration:	06:06:12
+		Location:	52.48218 13.39159
+
+	THS1
+		Images:	5232
+		Time:	16.05.2025 08:15:01 until 18.05.2025 14:54:00
+		Duration:	2.06:38:59
+		Location:	52.48218 13.39159
+
+	CFMP2
+		Images:	4296
+		Time:	16.05.2025 14:53:26 until 18.05.2025 19:52:49
+		Duration:	2.04:59:23
+		Location:	52.48218 13.39159
+
+	CPI2
+		Images:	2558
+		Time:	18.05.2025 15:24:13 until 18.05.2025 19:53:21
+		Duration:	04:29:08
+		Location:	52.48218 13.39159
+
+	UL2
+		Images:	3650
+		Time:	18.05.2025 14:56:40 until 18.05.2025 19:50:46
+		Duration:	04:54:06
+		Location:	52.48218 13.39159
+
+	GUD1
+		Images:	987
+		Time:	18.05.2025 11:40:47 until 18.05.2025 12:07:31
+		Duration:	00:26:44
+		Location:	52.48218 13.39159
+
+(3) - Station 3 Sled Pull
+	DS1
+		Images:	3134
+		Time:	17.05.2025 07:50:45 until 18.05.2025 14:51:47
+		Duration:	1.07:01:02
+		Location:	52.48218 13.39159
+
+	JZE1
+		Images:	6978
+		Time:	16.05.2025 07:31:59 until 18.05.2025 14:41:09
+		Duration:	2.07:09:10
+		Location:	52.48218 13.39159
+
+	CFMP1
+		Images:	7138
+		Time:	16.05.2025 07:27:39 until 18.05.2025 14:39:57
+		Duration:	2.07:12:18
+		Location:	52.48218 13.39159
+
+	ADRE2
+		Images:	2518
+		Time:	18.05.2025 14:48:36 until 18.05.2025 20:01:08
+		Duration:	05:12:32
+		Location:	52.48218 13.39159
+
+	CLL2
+		Images:	3677
+		Time:	18.05.2025 14:58:35 until 18.05.2025 19:48:18
+		Duration:	04:49:43
+		Location:	52.48218 13.39159
+
+	DAVR2
+		Images:	4981
+		Time:	18.05.2025 14:43:41 until 18.05.2025 20:01:33
+		Duration:	05:17:52
+		Location:	52.48218 13.39159
+
+(4) - Running arch
+	BS1LS1
+		Images:	4651
+		Time:	18.05.2025 07:34:09 until 18.05.2025 20:03:35
+		Duration:	12:29:26
+		Location:	52.48218 13.39159
+
+	RYS1LS1
+		Images:	4685
+		Time:	18.05.2025 08:02:13 until 18.05.2025 20:23:35
+		Duration:	12:21:22
+		Location:	52.48218 13.39159
+
+(5) - Station 5 Rowing
+	LEM1
+		Images:	7039
+		Time:	16.05.2025 07:54:15 until 18.05.2025 15:01:48
+		Duration:	2.07:07:33
+		Location:	52.48218 13.39159
+
+	TIH1
+		Images:	3573
+		Time:	16.05.2025 08:01:19 until 18.05.2025 14:55:12
+		Duration:	2.06:53:53
+		Location:	52.48218 13.39159
+
+	DS2
+		Images:	3212
+		Time:	18.05.2025 15:02:03 until 18.05.2025 20:23:57
+		Duration:	05:21:54
+		Location:	52.48218 13.39159
+
+	MHO2
+		Images:	10883
+		Time:	18.05.2025 15:10:44 until 18.05.2025 20:18:39
+		Duration:	05:07:55
+		Location:	52.48218 13.39159
+
+	BS1
+		Images:	2544
+		Time:	16.05.2025 07:47:32 until 18.05.2025 16:29:43
+		Duration:	2.08:42:11
+		Location:	52.48218 13.39159
+
+	HKU1
+		Images:	2604
+		Time:	17.05.2025 08:10:40 until 18.05.2025 16:27:56
+		Duration:	1.08:17:16
+		Location:	52.48218 13.39159
+
+(6) - Station 6 Farmers Carry
+	GUD1LS1
+		Images:	6270
+		Time:	18.05.2025 07:52:52 until 18.05.2025 20:22:58
+		Duration:	12:30:06
+		Location:	52.48218 13.39159
+
+(7) - Station 7 Sandbag Lunges
+	SJK1
+		Images:	4331
+		Time:	16.05.2025 07:12:06 until 18.05.2025 15:01:54
+		Duration:	2.07:49:48
+		Location:	52.48218 13.39159
+
+	UL1
+		Images:	3490
+		Time:	18.05.2025 08:45:25 until 18.05.2025 14:38:43
+		Duration:	05:53:18
+		Location:	52.48218 13.39159
+
+	CM2
+		Images:	4241
+		Time:	18.05.2025 14:39:10 until 18.05.2025 20:47:58
+		Duration:	06:08:48
+		Location:	52.48218 13.39159
+
+	JMAR2
+		Images:	7337
+		Time:	18.05.2025 15:09:07 until 18.05.2025 20:43:41
+		Duration:	05:34:34
+		Location:	52.48218 13.39159
+
+	BS2
+		Images:	2797
+		Time:	18.05.2025 10:40:08 until 18.05.2025 17:08:56
+		Duration:	06:28:48
+		Location:	52.48218 13.39159
+
+	HKU2
+		Images:	1387
+		Time:	16.05.2025 07:28:46 until 18.05.2025 17:09:21
+		Duration:	2.09:40:35
+		Location:	52.48218 13.39159
+
+(8) - Station 8 Wall Balls
+	RYS1
+		Images:	6240
+		Time:	16.05.2025 07:57:43 until 18.05.2025 14:55:14
+		Duration:	2.06:57:31
+		Location:	52.48218 13.39159
+
+	JMAR1
+		Images:	15054
+		Time:	16.05.2025 07:27:25 until 18.05.2025 15:07:42
+		Duration:	2.07:40:17
+		Location:	52.48218 13.39159
+
+	REM2
+		Images:	3668
+		Time:	18.05.2025 14:54:18 until 18.05.2025 20:56:45
+		Duration:	06:02:27
+		Location:	52.48218 13.39159
+
+	THS2
+		Images:	1441
+		Time:	18.05.2025 15:06:36 until 18.05.2025 16:31:47
+		Duration:	01:25:11
+		Location:	52.48218 13.39159
+
+	SJK3
+		Images:	3616
+		Time:	18.05.2025 16:43:49 until 18.05.2025 20:59:31
+		Duration:	04:15:42
+		Location:	52.48218 13.39159
+
+	BS3
+		Images:	1413
+		Time:	16.05.2025 11:31:26 until 18.05.2025 13:48:11
+		Duration:	2.02:16:45
+		Location:	52.48218 13.39159
+
+	HKU3
+		Images:	1322
+		Time:	18.05.2025 11:20:34 until 18.05.2025 17:49:53
+		Duration:	06:29:19
+		Location:	52.48218 13.39159
+
+	ROH4
+		Images:	592
+		Time:	18.05.2025 16:31:46 until 18.05.2025 17:19:52
+		Duration:	00:48:06
+		Location:	52.48218 13.39159
+
+(9) - Finish
+	CPI1
+		Images:	3872
+		Time:	18.05.2025 07:39:59 until 18.05.2025 15:00:15
+		Duration:	07:20:16
+		Location:	52.48218 13.39159
+
+	SJK2
+		Images:	747
+		Time:	18.05.2025 15:02:01 until 18.05.2025 16:40:37
+		Duration:	01:38:36
+		Location:	52.48218 13.39159
+
+	THS3
+		Images:	4477
+		Time:	18.05.2025 16:41:08 until 18.05.2025 21:02:44
+		Duration:	04:21:36
+		Location:	52.48218 13.39159
+
+	ROH1
+		Images:	2743
+		Time:	16.05.2025 08:36:02 until 18.05.2025 17:52:17
+		Duration:	2.09:16:15
+		Location:	52.48218 13.39159
+
+	ROH1LS1
+		Images:	4533
+		Time:	18.05.2025 07:34:19 until 18.05.2025 20:56:37
+		Duration:	13:22:18
+		Location:	52.48218 13.39159
+
+	ROH1LS2
+		Images:	4696
+		Time:	18.05.2025 07:35:51 until 18.05.2025 20:56:42
+		Duration:	13:20:51
+		Location:	52.48218 13.39159
+
+(10) - Herowall
+	MHO1
+		Images:	3353
+		Time:	16.05.2025 09:09:13 until 18.05.2025 15:04:01
+		Duration:	2.05:54:48
+		Location:	52.48218 13.39159
+
+	TIH2
+		Images:	2995
+		Time:	18.05.2025 15:04:45 until 18.05.2025 21:13:43
+		Duration:	06:08:58
+		Location:	52.48218 13.39159
+
+	MGEN1
+		Images:	3400
+		Time:	16.05.2025 17:02:55 until 18.05.2025 20:07:16
+		Duration:	2.03:04:21
+		Location:	52.48218 13.39159
+
+	ROH2
+		Images:	2352
+		Time:	17.05.2025 17:01:54 until 18.05.2025 21:06:40
+		Duration:	1.04:04:46
+		Location:	52.48218 13.39159
+
+(11) - Impressions / Pano
+	PANO1

@@ -1,0 +1,145 @@
+EventId: 14857
+Spots: 22
+Total Images: 45949
+Time:	09.01.2016 21:11:22 to 11.05.2025 14:11:40
+Duration: 3409.17:00:18
+
+(1) - 4 Wiggle Waggle
+	CC1
+		Images:	5397
+		Time:	10.05.2025 09:52:42 until 10.05.2025 13:27:04
+		Duration:	03:34:22
+		Location:	45.79481 4.95759
+
+(2) - 7 Grid Ridge
+	DIG1
+		Images:	7102
+		Time:	10.05.2025 06:53:30 until 10.05.2025 14:11:32
+		Duration:	07:18:02
+		Location:	45.79684 4.95845
+
+	FLSO1
+		Images:	1572
+		Time:	10.05.2025 10:04:59 until 10.05.2025 13:20:46
+		Duration:	03:15:47
+		Location:	45.79684 4.95845
+
+(3) - 7 Pyramid
+	FVOR1
+		Images:	1729
+		Time:	10.05.2025 09:43:04 until 10.05.2025 13:48:36
+		Duration:	04:05:32
+		Location:	45.79775 4.95104
+
+	FVOR1LS1
+		Images:	2535
+		Time:	10.05.2025 09:28:19 until 10.05.2025 13:36:09
+		Duration:	04:07:50
+		Location:	45.79775 4.95104
+
+	RONS1
+		Images:	2182
+		Time:	10.05.2025 06:44:02 until 10.05.2025 13:48:36
+		Duration:	07:04:34
+		Location:	45.79775 4.95104
+
+	RONS1LS1
+		Images:	1505
+		Time:	10.05.2025 06:49:01 until 10.05.2025 13:36:04
+		Duration:	06:47:03
+		Location:	45.79775 4.95104
+
+(4) - Herotent
+	DART1
+		Images:	1054
+		Time:	10.05.2025 09:13:21 until 10.05.2025 14:10:40
+		Duration:	04:57:19
+		Location:	45.79626 4.9479
+
+(5) - 18 Foam Party
+	ISA1LS1
+		Images:	153
+		Time:	10.05.2025 10:14:53 until 10.05.2025 11:27:03
+		Duration:	01:12:10
+		Location:	45.79739 4.94855
+
+	ISA1
+		Images:	1961
+		Time:	10.05.2025 10:18:55 until 10.05.2025 14:00:17
+		Duration:	03:41:22
+		Location:	45.79739 4.94855
+
+(6) - 14/13Mud Crawl
+	JBAU1
+		Images:	1445
+		Time:	10.05.2025 09:38:30 until 10.05.2025 13:34:26
+		Duration:	03:55:56
+		Location:	45.79684 4.95959
+
+	JTF1
+		Images:	1433
+		Time:	10.05.2025 09:47:41 until 10.05.2025 13:34:22
+		Duration:	03:46:41
+		Location:	45.79684 4.95959
+
+(7) - Finish
+	LUB1
+		Images:	2163
+		Time:	10.05.2025 09:58:02 until 10.05.2025 14:09:13
+		Duration:	04:11:11
+		Location:	45.79626 4.94797
+
+	MAWI1LS1
+		Images:	1946
+		Time:	10.05.2025 10:02:58 until 10.05.2025 15:15:10
+		Duration:	05:12:12
+		Location:	45.79626 4.9479
+
+(8) - 16 Great Wall
+	MAPP1
+		Images:	2675
+		Time:	10.05.2025 09:53:14 until 10.05.2025 13:52:15
+		Duration:	03:59:01
+		Location:	45.79750 4.95296
+
+(9) - ALL
+	MAWI1
+		Images:	638
+		Time:	09.01.2016 21:11:22 until 10.05.2025 13:27:59
+		Duration:	3408.16:16:37
+		Location:	45.79750 4.95296
+
+	MAWI1LS2
+		Images:	27
+		Time:	11.05.2025 13:50:22 until 11.05.2025 14:11:40
+		Duration:	00:21:18
+		Location:	45.79750 4.95296
+
+(10) - 20 Grand Slide
+	MOG1
+		Images:	4312
+		Time:	09.05.2025 15:45:50 until 10.05.2025 14:09:25
+		Duration:	22:23:35
+		Location:	45.79643 4.94746
+
+	MOG1LS2
+		Images:	1912
+		Time:	09.05.2025 21:46:40 until 10.05.2025 14:11:43
+		Duration:	16:25:03
+		Location:	45.79643 4.94746
+
+	MOG1LS1
+		Images:	1906
+		Time:	09.05.2025 21:45:04 until 10.05.2025 14:10:24
+		Duration:	16:25:20
+		Location:	45.79643 4.94746
+
+(11) - Pool Party
+	RONS1LS2
+		Images:	2302
+		Time:	10.05.2025 06:55:00 until 10.05.2025 13:39:19
+		Duration:	06:44:19
+		Location:	45.79775 4.95104
+
+(12) - Impressions / Pano
+	PANO1

@@ -1,0 +1,158 @@
+EventId: 13849
+Spots: 23
+Total Images: 62704
+Time:	21.03.2025 08:50:54 to 22.03.2025 15:38:08
+Duration: 1.06:47:14
+
+(1) - Impressions / Pano
+	PANO1
+		Images:	2
+		Time:	22.03.2025 09:03:02 until 22.03.2025 09:04:47
+		Duration:	00:01:45
+		Location:	50.85677 3.50686
+
+(2) - 6,0 km
+	TOBB1DRONE1
+		Images:	95
+		Time:	22.03.2025 07:02:02 until 22.03.2025 12:16:32
+		Duration:	05:14:30
+		Location:	50.85677 3.50686
+
+	TOBB1
+		Images:	5176
+		Time:	21.03.2025 08:55:51 until 22.03.2025 10:01:13
+		Duration:	1.01:05:22
+		Location:	50.85677 3.50686
+
+	TOBB1LS1
+		Images:	3243
+		Time:	21.03.2025 08:50:54 until 22.03.2025 10:06:51
+		Duration:	1.01:15:57
+		Location:	50.85677 3.50686
+
+(3) - 6,1 km
+	TOBB1LS2
+		Images:	1477
+		Time:	21.03.2025 08:58:20 until 22.03.2025 10:16:14
+		Duration:	1.01:17:54
+		Location:	50.85627 3.50775
+
+(4) - 6,5 km
+	MIBU1
+		Images:	4806
+		Time:	21.03.2025 21:14:40 until 22.03.2025 10:01:43
+		Duration:	12:47:03
+		Location:	50.85591 3.50853
+
+	MIBU1LS1
+		Images:	1639
+		Time:	21.03.2025 21:19:48 until 22.03.2025 10:06:49
+		Duration:	12:47:01
+		Location:	50.85591 3.50853
+
+(5) - 22,0 km
+	LV1
+		Images:	5553
+		Time:	22.03.2025 07:06:22 until 22.03.2025 10:37:37
+		Duration:	03:31:15
+		Location:	50.82608 3.66039
+
+	LV1LS1
+		Images:	1091
+		Time:	22.03.2025 06:33:17 until 22.03.2025 10:37:48
+		Duration:	04:04:31
+		Location:	50.82608 3.66039
+
+(6) - 22,5 km
+	MK1
+		Images:	8153
+		Time:	22.03.2025 07:14:39 until 22.03.2025 10:31:38
+		Duration:	03:16:59
+		Location:	50.82459 3.66290
+
+	MK1LS1
+		Images:	1813
+		Time:	22.03.2025 06:45:37 until 22.03.2025 10:32:39
+		Duration:	03:47:02
+		Location:	50.82459 3.66290
+
+	MK1LS2
+		Images:	1964
+		Time:	22.03.2025 06:46:28 until 22.03.2025 10:27:14
+		Duration:	03:40:46
+		Location:	50.82459 3.66290
+
+(7) - 25,0 km
+	MK1DRONE1
+		Images:	31
+		Time:	22.03.2025 09:33:52 until 22.03.2025 14:03:34
+		Duration:	04:29:42
+		Location:	50.82459 3.66290
+
+(8) - 54,5 km /74,1 km/113,5 km
+	LV2
+		Images:	4988
+		Time:	22.03.2025 10:54:01 until 22.03.2025 14:22:24
+		Duration:	03:28:23
+		Location:	50.82846 3.62216
+
+(9) - 54,1 km /74,1 km/113,5 km
+	LV2LS1
+		Images:	1134
+		Time:	22.03.2025 10:48:08 until 22.03.2025 14:15:41
+		Duration:	03:27:33
+		Location:	50.82846 3.62216
+
+(10) - 55,0 km 74,6 km/114 km
+	MK2
+		Images:	6057
+		Time:	22.03.2025 11:10:20 until 22.03.2025 14:09:07
+		Duration:	02:58:47
+		Location:	50.82881 3.61978
+
+	MK2LS1
+		Images:	1033
+		Time:	22.03.2025 08:06:12 until 22.03.2025 14:07:13
+		Duration:	06:01:01
+		Location:	50.82881 3.61978
+
+	MK2LS2
+		Images:	1310
+		Time:	22.03.2025 10:56:17 until 22.03.2025 14:09:11
+		Duration:	03:12:54
+		Location:	50.82881 3.61978
+
+(11) - 68,0 km 96,6 km/136 km
+	MIBU2
+		Images:	3749
+		Time:	22.03.2025 11:42:17 until 22.03.2025 14:46:22
+		Duration:	03:04:05
+		Location:	50.88657 3.53449
+
+	TOBB2LS1
+		Images:	1639
+		Time:	22.03.2025 11:19:05 until 22.03.2025 15:33:42
+		Duration:	04:14:37
+		Location:	50.88657 3.53449
+
+(12) - 681,0 km 96,7 km/136,1 km
+	MIBU2LS1
+		Images:	1481
+		Time:	22.03.2025 11:30:10 until 22.03.2025 14:55:44
+		Duration:	03:25:34
+		Location:	50.88681 3.53354
+
+(13) - 68,0 km 97,4 km/136,8 km
+	TOBB2
+		Images:	4340
+		Time:	22.03.2025 10:42:59 until 22.03.2025 15:07:37
+		Duration:	04:24:38
+		Location:	50.88700 3.53284
+
+(14) - 681,0 km 97,5 km/136,9 km
+	TOBB2LS2
+		Images:	1930
+		Time:	22.03.2025 10:37:48 until 22.03.2025 15:38:08
+		Duration:	05:00:20
+		Location:	50.88691 3.53250
+

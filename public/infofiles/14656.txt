@@ -1,0 +1,99 @@
+EventId: 14656
+Spots: 14
+Total Images: 50350
+Time:	21.06.2025 05:10:53 to 21.06.2025 21:58:33
+Duration: 16:47:40
+
+(1) - Swim - Start
+	JI1
+		Images:	3268
+		Time:	21.06.2025 06:42:58 until 21.06.2025 11:29:26
+		Duration:	04:46:28
+		Location:	48.60399 4.74556
+
+	JSCH1
+		Images:	492
+		Time:	21.06.2025 06:51:07 until 21.06.2025 07:58:50
+		Duration:	01:07:43
+		Location:	48.60398 4.74283
+
+(2) - Bike - Transition zone
+	JSCH2
+		Images:	3761
+		Time:	21.06.2025 08:00:11 until 21.06.2025 11:35:14
+		Duration:	03:35:03
+		Location:	48.60471 4.74746
+
+(3) - Bike - 1,2 km
+	MAI1
+		Images:	3250
+		Time:	21.06.2025 07:09:27 until 21.06.2025 11:27:56
+		Duration:	04:18:29
+		Location:	48.60952 4.75606
+
+(4) - km89,8/189,8
+	FVOR1
+		Images:	2369
+		Time:	21.06.2025 07:33:47 until 21.06.2025 16:40:09
+		Duration:	09:06:22
+		Location:	48.60796 4.74280
+
+	FVOR1LS1
+		Images:	1917
+		Time:	21.06.2025 09:18:10 until 21.06.2025 16:18:24
+		Duration:	07:00:14
+		Location:	48.60796 4.74280
+
+(5) - Run - Transition zone
+	JSCH3
+		Images:	1952
+		Time:	21.06.2025 12:41:21 until 21.06.2025 14:53:47
+		Duration:	02:12:26
+		Location:	48.60471 4.74746
+
+(6) - km5,2/15,8/26,4/37,1
+	DIG1
+		Images:	6415
+		Time:	21.06.2025 06:53:54 until 21.06.2025 21:05:03
+		Duration:	14:11:09
+		Location:	48.60179 4.74039
+
+	DIG1LS2
+		Images:	2753
+		Time:	21.06.2025 12:52:42 until 21.06.2025 21:10:05
+		Duration:	08:17:23
+		Location:	48.60179 4.74039
+
+	DIG1LS1
+		Images:	2334
+		Time:	21.06.2025 12:58:07 until 21.06.2025 18:51:36
+		Duration:	05:53:29
+		Location:	48.60179 4.74039
+
+(7) - start/transition/finish
+	DIG1DRONE1
+		Images:	304
+		Time:	21.06.2025 06:45:53 until 21.06.2025 16:15:42
+		Duration:	09:29:49
+		Location:	48.60179 4.74039
+
+(8) - km7/17,5/28,5/38,9
+	MAI2
+		Images:	8554
+		Time:	21.06.2025 12:52:56 until 21.06.2025 21:41:42
+		Duration:	08:48:46
+		Location:	48.60824 4.75628
+
+(9) - Finish
+	JI2
+		Images:	6268
+		Time:	21.06.2025 05:10:53 until 21.06.2025 21:52:26
+		Duration:	16:41:33
+		Location:	48.60305 4.74634
+
+	JI2LS1
+		Images:	6713
+		Time:	21.06.2025 14:21:20 until 21.06.2025 21:58:33
+		Duration:	07:37:13
+		Location:	48.60305 4.74634
+

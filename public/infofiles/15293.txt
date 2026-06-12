@@ -1,0 +1,34 @@
+EventId: 15293
+Spots: 5
+Total Images: 8575
+Time:	21.11.2025 14:08:29 to 22.11.2025 07:41:10
+Duration: 17:32:41
+
+(1) - Engine
+	GSH1
+		Images:	2478
+		Time:	21.11.2025 14:22:30 until 22.11.2025 07:23:28
+		Duration:	17:00:58
+		Location:	25.03802 55.22257
+
+	NIZ1
+		Images:	2388
+		Time:	21.11.2025 14:08:29 until 22.11.2025 07:26:11
+		Duration:	17:17:42
+		Location:	25.03802 55.22257
+
+	ADSM1
+		Images:	2929
+		Time:	21.11.2025 14:14:30 until 21.11.2025 19:27:25
+		Duration:	05:12:55
+		Location:	25.03802 55.22257
+
+(2) - Full tilt
+	NIZ2
+		Images:	762
+		Time:	21.11.2025 17:54:17 until 21.11.2025 18:41:37
+		Duration:	00:47:20
+		Location:	25.03878 55.22520
+
+(3) - Impressions / Pano
+	PANO1

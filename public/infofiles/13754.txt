@@ -1,0 +1,62 @@
+EventId: 13754
+Spots: 8
+Total Images: 15391
+Time:	04.05.2025 08:10:44 to 04.05.2025 16:43:34
+Duration: 08:32:50
+
+(1) - 38.0 km
+	CC1
+		Images:	2131
+		Time:	04.05.2025 09:46:20 until 04.05.2025 10:50:51
+		Duration:	01:04:31
+		Location:	44.14131 4.25993
+
+(2) - 98.0 km
+	CC2
+		Images:	1054
+		Time:	04.05.2025 13:06:57 until 04.05.2025 14:51:35
+		Duration:	01:44:38
+		Location:	44.35368 4.46372
+
+(3) - Start
+	DART1
+		Images:	1249
+		Time:	04.05.2025 08:10:44 until 04.05.2025 11:15:18
+		Duration:	03:04:34
+		Location:	44.21854 4.48312
+
+(4) - Finish
+	DART2
+		Images:	3463
+		Time:	04.05.2025 11:37:39 until 04.05.2025 16:43:34
+		Duration:	05:05:55
+		Location:	44.21854 4.48312
+
+(5) - 32.0 km
+	GAT1
+		Images:	2958
+		Time:	04.05.2025 09:12:20 until 04.05.2025 10:51:39
+		Duration:	01:39:19
+		Location:	44.13845 4.28420
+
+(6) - 102.0 km
+	GAT2
+		Images:	641
+		Time:	04.05.2025 12:52:28 until 04.05.2025 15:02:27
+		Duration:	02:09:59
+		Location:	44.32741 4.54627
+
+(7) - 35.0 km
+	LEBE1
+		Images:	1526
+		Time:	04.05.2025 09:54:51 until 04.05.2025 10:57:40
+		Duration:	01:02:49
+		Location:	44.13838 4.27552
+
+(8) - 142.0 km
+	LEBE2
+		Images:	2369
+		Time:	04.05.2025 12:03:30 until 04.05.2025 16:22:50
+		Duration:	04:19:20
+		Location:	44.23837 4.55872
+

@@ -1,0 +1,175 @@
+EventId: 13950
+Spots: 27
+Total Images: 239146
+Time:	27.06.2025 19:33:44 to 28.06.2025 16:45:24
+Duration: 21:11:40
+
+(1) - Start
+	MW1
+		Images:	146
+		Time:	28.06.2025 13:07:12 until 28.06.2025 14:14:10
+		Duration:	01:06:58
+		Location:	51.40954 6.77826
+
+(2) - Obstacle 3 Krabbelstrecke
+	JONK1
+		Images:	11828
+		Time:	28.06.2025 09:42:30 until 28.06.2025 15:11:36
+		Duration:	05:29:06
+		Location:	51.40825 6.78092
+
+	PEO1
+		Images:	3331
+		Time:	28.06.2025 09:42:32 until 28.06.2025 15:11:36
+		Duration:	05:29:04
+		Location:	51.40825 6.78092
+
+(3) - Obstacle 7 Wasserrutsche
+	MK1
+		Images:	28128
+		Time:	28.06.2025 09:55:18 until 28.06.2025 15:34:45
+		Duration:	05:39:27
+		Location:	51.39885 6.78816
+
+	MK1LS2
+		Images:	3859
+		Time:	28.06.2025 09:47:20 until 28.06.2025 15:38:41
+		Duration:	05:51:21
+		Location:	51.39885 6.78816
+
+	MK1LS1
+		Images:	3883
+		Time:	28.06.2025 09:32:31 until 28.06.2025 15:43:39
+		Duration:	06:11:08
+		Location:	51.39885 6.78816
+
+(4) - Obstacle 8 Seiltanz
+	JTA1
+		Images:	5198
+		Time:	28.06.2025 09:55:34 until 28.06.2025 16:04:00
+		Duration:	06:08:26
+		Location:	51.39715 6.78872
+
+(5) - Obstacle 9 Schaumparty
+	ALN1
+		Images:	22843
+		Time:	28.06.2025 10:00:42 until 28.06.2025 15:50:00
+		Duration:	05:49:18
+		Location:	51.39658 6.78901
+
+	ALN1LS2
+		Images:	7165
+		Time:	28.06.2025 09:55:38 until 28.06.2025 15:54:34
+		Duration:	05:58:56
+		Location:	51.39658 6.78901
+
+	ALN1LS1
+		Images:	6199
+		Time:	28.06.2025 09:55:38 until 28.06.2025 15:54:35
+		Duration:	05:58:57
+		Location:	51.39658 6.78901
+
+(6) - Obstacle 10 Gitterbecken
+	MBEN1
+		Images:	5932
+		Time:	28.06.2025 09:48:35 until 28.06.2025 15:58:29
+		Duration:	06:09:54
+		Location:	51.39675 6.79303
+
+	MBEN1LS1
+		Images:	13354
+		Time:	28.06.2025 10:04:24 until 28.06.2025 15:59:48
+		Duration:	05:55:24
+		Location:	51.39675 6.79303
+
+	FCO1
+		Images:	19237
+		Time:	28.06.2025 09:28:13 until 28.06.2025 15:58:44
+		Duration:	06:30:31
+		Location:	51.39675 6.79303
+
+(7) - Obstacle 11 Schlammbecken
+	OT1
+		Images:	16187
+		Time:	28.06.2025 10:16:40 until 28.06.2025 16:18:47
+		Duration:	06:02:07
+		Location:	51.40913 6.78431
+
+	OT1LS1
+		Images:	9141
+		Time:	28.06.2025 10:16:20 until 28.06.2025 16:19:06
+		Duration:	06:02:46
+		Location:	51.40913 6.78431
+
+	MARS1
+		Images:	10874
+		Time:	28.06.2025 10:16:38 until 28.06.2025 16:18:54
+		Duration:	06:02:16
+		Location:	51.40913 6.78431
+
+	MW1DRONE1
+		Images:	37
+		Time:	28.06.2025 11:50:16 until 28.06.2025 12:03:55
+		Duration:	00:13:39
+		Location:	51.40913 6.78431
+
+(8) - Obstacle 13 Tauchbecken
+	MGA1
+		Images:	15875
+		Time:	28.06.2025 08:38:29 until 28.06.2025 16:22:27
+		Duration:	07:43:58
+		Location:	51.41008 6.78272
+
+	NKR1
+		Images:	6683
+		Time:	28.06.2025 08:39:07 until 28.06.2025 16:23:07
+		Duration:	07:44:00
+		Location:	51.41008 6.78272
+
+(9) - Obstacle 15 Containerrutsche
+	LWE1
+		Images:	7953
+		Time:	28.06.2025 08:59:48 until 28.06.2025 16:31:21
+		Duration:	07:31:33
+		Location:	51.40978 6.77680
+
+	SJA1LS1
+		Images:	8352
+		Time:	28.06.2025 10:09:53 until 28.06.2025 16:45:24
+		Duration:	06:35:31
+		Location:	51.40978 6.77680
+
+(10) - Finish
+	FRST1
+		Images:	6890
+		Time:	28.06.2025 10:02:57 until 28.06.2025 16:32:10
+		Duration:	06:29:13
+		Location:	51.40995 6.77792
+
+	MW1LS1
+		Images:	11350
+		Time:	27.06.2025 19:33:44 until 28.06.2025 16:13:36
+		Duration:	20:39:52
+		Location:	51.40995 6.77792
+
+	MW1LS2
+		Images:	10963
+		Time:	28.06.2025 08:03:24 until 28.06.2025 16:32:25
+		Duration:	08:29:01
+		Location:	51.40995 6.77792
+
+(11) - Herotent
+	NBA1
+		Images:	1463
+		Time:	28.06.2025 10:23:22 until 28.06.2025 16:31:58
+		Duration:	06:08:36
+		Location:	51.40995 6.77792
+
+	SJA1
+		Images:	2275
+		Time:	28.06.2025 10:23:05 until 28.06.2025 16:32:46
+		Duration:	06:09:41
+		Location:	51.40995 6.77792
+
+(12) - Impressions / Pano
+	PANO1

@@ -1,0 +1,87 @@
+EventId: 15283
+Spots: 13
+Total Images: 74428
+Time:	29.03.2025 06:57:44 to 29.03.2025 17:28:27
+Duration: 10:30:43
+
+(1) - All Gas, No Brakes
+	LOT1
+		Images:	11612
+		Time:	29.03.2025 07:30:24 until 29.03.2025 11:35:39
+		Duration:	04:05:15
+		Location:	55.86141 -4.29300
+
+	LOT1LS1
+		Images:	4687
+		Time:	29.03.2025 07:30:22 until 29.03.2025 16:14:36
+		Duration:	08:44:14
+		Location:	55.86141 -4.29300
+
+	FRZ1
+		Images:	4635
+		Time:	29.03.2025 07:00:08 until 29.03.2025 13:37:58
+		Duration:	06:37:50
+		Location:	55.86141 -4.29300
+
+	BKO1
+		Images:	1775
+		Time:	29.03.2025 07:30:26 until 29.03.2025 12:50:32
+		Duration:	05:20:06
+		Location:	55.86141 -4.29300
+
+	ROD2
+		Images:	2409
+		Time:	29.03.2025 13:00:42 until 29.03.2025 16:12:58
+		Duration:	03:12:16
+		Location:	55.86141 -4.29300
+
+	HCF2
+		Images:	3269
+		Time:	29.03.2025 13:38:04 until 29.03.2025 16:12:54
+		Duration:	02:34:50
+		Location:	55.86141 -4.29300
+
+(2) - Lift Off
+	ROD1
+		Images:	1559
+		Time:	29.03.2025 06:57:44 until 29.03.2025 12:20:58
+		Duration:	05:23:14
+		Location:	55.86141 -4.29300
+
+	LOT2
+		Images:	9752
+		Time:	29.03.2025 12:30:09 until 29.03.2025 16:56:07
+		Duration:	04:25:58
+		Location:	55.86141 -4.29300
+
+	BKO2
+		Images:	2823
+		Time:	29.03.2025 08:20:27 until 29.03.2025 13:35:34
+		Duration:	05:15:07
+		Location:	55.86141 -4.29300
+
+(3) - AMRAP - Sprint
+	HCF1
+		Images:	7480
+		Time:	29.03.2025 06:59:06 until 29.03.2025 12:48:55
+		Duration:	05:49:49
+		Location:	55.86141 -4.29300
+
+	BKO3
+		Images:	15484
+		Time:	29.03.2025 08:45:13 until 29.03.2025 16:09:56
+		Duration:	07:24:43
+		Location:	55.86141 -4.29300
+
+	FRZ2
+		Images:	8575
+		Time:	29.03.2025 12:22:12 until 29.03.2025 17:28:27
+		Duration:	05:06:15
+		Location:	55.86141 -4.29300
+
+	LOT3
+		Images:	368
+		Time:	29.03.2025 17:07:33 until 29.03.2025 17:24:50
+		Duration:	00:17:17
+		Location:	55.86141 -4.29300
+

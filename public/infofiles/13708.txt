@@ -1,0 +1,179 @@
+EventId: 13708
+Spots: 28
+Total Images: 48466
+Time:	26.07.2025 13:24:11 to 27.07.2025 08:23:43
+Duration: 18:59:32
+
+(1) - 48,0 km
+	DPH1
+		Images:	4221
+		Time:	26.07.2025 18:42:08 until 26.07.2025 20:14:50
+		Duration:	01:32:42
+		Location:	NULL NULL
+
+	RA1
+		Images:	2947
+		Time:	26.07.2025 18:49:49 until 26.07.2025 20:14:34
+		Duration:	01:24:45
+		Location:	NULL NULL
+
+	RA1LS1
+		Images:	1487
+		Time:	26.07.2025 18:36:38 until 26.07.2025 20:15:21
+		Duration:	01:38:43
+		Location:	NULL NULL
+
+	RA1LS2
+		Images:	920
+		Time:	26.07.2025 18:41:03 until 26.07.2025 20:14:57
+		Duration:	01:33:54
+		Location:	NULL NULL
+
+(2) - 44,8 km
+	DPH3
+		Images:	1075
+		Time:	27.07.2025 03:25:40 until 27.07.2025 06:46:06
+		Duration:	03:20:26
+		Location:	NULL NULL
+
+	RA3
+		Images:	996
+		Time:	27.07.2025 01:55:29 until 27.07.2025 06:34:10
+		Duration:	04:38:41
+		Location:	NULL NULL
+
+(3) - 26,9 km Drachenbrücke
+	DPH2
+		Images:	929
+		Time:	26.07.2025 21:18:13 until 27.07.2025 03:25:12
+		Duration:	06:06:59
+		Location:	NULL NULL
+
+(4) - Start
+	DRI1
+		Images:	729
+		Time:	26.07.2025 18:01:37 until 26.07.2025 18:20:47
+		Duration:	00:19:10
+		Location:	NULL NULL
+
+	DRI1DRONE1
+		Images:	16
+		Time:	26.07.2025 20:09:55 until 27.07.2025 04:18:41
+		Duration:	08:08:46
+		Location:	NULL NULL
+
+	MARS1
+		Images:	1328
+		Time:	26.07.2025 13:24:11 until 26.07.2025 19:15:06
+		Duration:	05:50:55
+		Location:	NULL NULL
+
+	MARS1LS1
+		Images:	1127
+		Time:	26.07.2025 17:48:40 until 26.07.2025 19:04:55
+		Duration:	01:16:15
+		Location:	NULL NULL
+
+	NBA1
+		Images:	250
+		Time:	26.07.2025 18:02:55 until 26.07.2025 18:21:14
+		Duration:	00:18:19
+		Location:	NULL NULL
+
+(5) - Finish
+	DRI3
+		Images:	46
+		Time:	26.07.2025 22:23:17 until 27.07.2025 04:17:28
+		Duration:	05:54:11
+		Location:	NULL NULL
+
+	DRI3LS2
+		Images:	1063
+		Time:	27.07.2025 05:41:56 until 27.07.2025 08:05:30
+		Duration:	02:23:34
+		Location:	NULL NULL
+
+	DRI3LS1
+		Images:	2104
+		Time:	27.07.2025 01:58:01 until 27.07.2025 08:23:43
+		Duration:	06:25:42
+		Location:	NULL NULL
+
+	NBA3
+		Images:	1095
+		Time:	27.07.2025 02:04:50 until 27.07.2025 08:07:12
+		Duration:	06:02:22
+		Location:	NULL NULL
+
+(6) - 11,0 km
+	DRI2
+		Images:	6302
+		Time:	26.07.2025 19:37:08 until 26.07.2025 21:27:24
+		Duration:	01:50:16
+		Location:	NULL NULL
+
+	DRI2LS2
+		Images:	3604
+		Time:	26.07.2025 19:57:15 until 26.07.2025 21:27:20
+		Duration:	01:30:05
+		Location:	NULL NULL
+
+	DRI2LS1
+		Images:	2685
+		Time:	26.07.2025 19:33:21 until 27.07.2025 01:47:41
+		Duration:	06:14:20
+		Location:	NULL NULL
+
+	NBA2
+		Images:	3490
+		Time:	26.07.2025 19:26:46 until 27.07.2025 03:15:54
+		Duration:	07:49:08
+		Location:	NULL NULL
+
+	NBA2LS1
+		Images:	714
+		Time:	26.07.2025 19:29:53 until 26.07.2025 21:10:42
+		Duration:	01:40:49
+		Location:	NULL NULL
+
+(7) - 36,8 km
+	MARS3
+		Images:	1741
+		Time:	26.07.2025 23:45:34 until 27.07.2025 04:32:51
+		Duration:	04:47:17
+		Location:	NULL NULL
+
+(8) - 13,6 km Halde Rheinelbe
+	MARS2
+		Images:	2579
+		Time:	26.07.2025 19:57:20 until 26.07.2025 22:33:52
+		Duration:	02:36:32
+		Location:	NULL NULL
+
+	MARS2LS1
+		Images:	1185
+		Time:	26.07.2025 20:03:37 until 26.07.2025 22:09:48
+		Duration:	02:06:11
+		Location:	NULL NULL
+
+(9) - 26,6 km
+	RA2
+		Images:	1549
+		Time:	26.07.2025 22:04:49 until 27.07.2025 01:53:43
+		Duration:	03:48:54
+		Location:	NULL NULL
+
+	RA2LS2
+		Images:	2149
+		Time:	26.07.2025 21:32:58 until 27.07.2025 01:56:13
+		Duration:	04:23:15
+		Location:	NULL NULL
+
+	RA2LS1
+		Images:	2135
+		Time:	26.07.2025 21:31:36 until 27.07.2025 01:56:36
+		Duration:	04:25:00
+		Location:	NULL NULL
+
+(10) - Impressions / Pano
+	PANO1

@@ -1,0 +1,228 @@
+EventId: 13333
+Spots: 35
+Total Images: 158971
+Time:	20.09.2025 22:10:03 to 22.09.2025 00:51:45
+Duration: 1.02:41:42
+
+(1) - Swim - Start
+	JNI1
+		Images:	3354
+		Time:	21.09.2025 06:48:54 until 21.09.2025 09:17:09
+		Duration:	02:28:15
+		Location:	51.67494 -4.70427
+
+	KU1
+		Images:	3086
+		Time:	21.09.2025 06:39:39 until 21.09.2025 07:54:31
+		Duration:	01:14:52
+		Location:	51.67494 -4.70427
+
+	PAUH1
+		Images:	4076
+		Time:	21.09.2025 06:41:00 until 21.09.2025 07:59:57
+		Duration:	01:18:57
+		Location:	51.67494 -4.70427
+
+(2) - Swim-start
+	MALV1
+		Images:	3041
+		Time:	21.09.2025 06:49:13 until 21.09.2025 07:50:22
+		Duration:	01:01:09
+		Location:	51.67494 -4.70427
+
+	DAWH1
+		Images:	709
+		Time:	21.09.2025 06:55:18 until 21.09.2025 07:50:05
+		Duration:	00:54:47
+		Location:	51.67494 -4.70427
+
+(3) - Swim-exit
+	JNI2
+		Images:	748
+		Time:	21.09.2025 06:55:01 until 21.09.2025 09:56:20
+		Duration:	03:01:19
+		Location:	51.67525 -4.70391
+
+	KU2
+		Images:	5195
+		Time:	21.09.2025 07:54:51 until 21.09.2025 10:02:10
+		Duration:	02:07:19
+		Location:	51.67525 -4.70391
+
+	MALV2
+		Images:	9124
+		Time:	21.09.2025 07:53:52 until 21.09.2025 10:06:09
+		Duration:	02:12:17
+		Location:	51.67525 -4.70391
+
+(4) - Bike - Transition zone
+	AHO1
+		Images:	4134
+		Time:	20.09.2025 22:10:03 until 21.09.2025 12:20:00
+		Duration:	14:09:57
+		Location:	51.66561 -5.06420
+
+(5) - Bike-Downhill beach
+	JUW1
+		Images:	8739
+		Time:	21.09.2025 09:25:47 until 21.09.2025 11:44:59
+		Duration:	02:19:12
+		Location:	51.65427 -5.06070
+
+	JUW1LS1
+		Images:	992
+		Time:	21.09.2025 07:45:10 until 21.09.2025 11:26:52
+		Duration:	03:41:42
+		Location:	51.65427 -5.06070
+
+	JUW1LS2
+		Images:	1335
+		Time:	21.09.2025 07:45:14 until 21.09.2025 11:23:37
+		Duration:	03:38:23
+		Location:	51.65427 -5.06070
+
+(6) - various
+	JUW1DRONE1
+		Images:	21
+		Time:	21.09.2025 08:48:02 until 21.09.2025 13:29:46
+		Duration:	04:41:44
+		Location:	51.65427 -5.06070
+
+(7) - Bike-Freshwater beach
+	ALPU1
+		Images:	2749
+		Time:	21.09.2025 10:47:32 until 21.09.2025 12:05:56
+		Duration:	01:18:24
+		Location:	51.66561 -5.06420
+
+(8) - Bike-Carew castle
+	ALPU2
+		Images:	2225
+		Time:	21.09.2025 13:01:45 until 21.09.2025 14:39:46
+		Duration:	01:38:01
+		Location:	51.69942 -4.82866
+
+	JUW2
+		Images:	8936
+		Time:	21.09.2025 13:33:37 until 21.09.2025 16:11:56
+		Duration:	02:38:19
+		Location:	51.69944 -4.82885
+
+	JUW2LS1
+		Images:	1145
+		Time:	21.09.2025 13:05:40 until 21.09.2025 15:59:06
+		Duration:	02:53:26
+		Location:	51.69944 -4.82885
+
+	JUW2LS2
+		Images:	1981
+		Time:	21.09.2025 13:09:55 until 21.09.2025 16:00:32
+		Duration:	02:50:37
+		Location:	51.69944 -4.82885
+
+(9) - Bike-Wiseman bridge
+	PAUH2
+		Images:	10996
+		Time:	21.09.2025 11:30:58 until 21.09.2025 18:05:43
+		Duration:	06:34:45
+		Location:	51.72250 -4.68913
+
+(10) - Bike-Heartbreak hill
+	DAWH2
+		Images:	19119
+		Time:	21.09.2025 11:36:31 until 21.09.2025 18:22:55
+		Duration:	06:46:24
+		Location:	51.70903 -4.69848
+
+(11) - Run - Transition zone
+	KU3
+		Images:	849
+		Time:	21.09.2025 11:48:30 until 21.09.2025 15:17:51
+		Duration:	03:29:21
+		Location:	51.66971 -4.70558
+
+	KU3LS1
+		Images:	768
+		Time:	21.09.2025 12:34:54 until 21.09.2025 15:23:56
+		Duration:	02:49:02
+		Location:	51.66971 -4.70558
+
+	KU3LS2
+	JNI3
+		Images:	1986
+		Time:	20.09.2025 22:15:14 until 21.09.2025 15:33:30
+		Duration:	17:18:16
+		Location:	51.66971 -4.70558
+
+(12) - Run-The Norton
+	MALV3
+		Images:	6949
+		Time:	21.09.2025 12:46:14 until 21.09.2025 17:16:19
+		Duration:	04:30:05
+		Location:	51.67440 -4.70473
+
+(13) - Run-S Parade Castle Wall
+	AHO2
+		Images:	4979
+		Time:	21.09.2025 12:49:25 until 21.09.2025 16:40:44
+		Duration:	03:51:19
+		Location:	51.67094 -4.70310
+
+(14) - Run-Cresswell St
+	AHO3
+		Images:	11750
+		Time:	21.09.2025 17:04:58 until 21.09.2025 23:32:49
+		Duration:	06:27:51
+		Location:	51.67089 -4.70105
+
+(15) - Run-Bridge St
+	MALV4
+		Images:	7514
+		Time:	21.09.2025 17:42:17 until 21.09.2025 23:31:10
+		Duration:	05:48:53
+		Location:	51.67188 -4.69928
+
+(16) - Run-The Croft
+	DAWH3
+		Images:	2082
+		Time:	21.09.2025 20:23:43 until 21.09.2025 23:47:16
+		Duration:	03:23:33
+		Location:	51.67388 -4.70448
+
+(17) - Finish
+	JNI4
+		Images:	1442
+		Time:	21.09.2025 15:54:53 until 22.09.2025 00:42:42
+		Duration:	08:47:49
+		Location:	51.66889 -4.70429
+
+	JNI4LS1
+		Images:	2858
+		Time:	21.09.2025 16:20:01 until 22.09.2025 00:33:44
+		Duration:	08:13:43
+		Location:	51.66889 -4.70429
+
+	KU4
+		Images:	14989
+		Time:	21.09.2025 15:46:43 until 22.09.2025 00:51:45
+		Duration:	09:05:02
+		Location:	51.66889 -4.70429
+
+	KU4LS1
+		Images:	2690
+		Time:	21.09.2025 12:27:04 until 22.09.2025 00:35:27
+		Duration:	12:08:23
+		Location:	51.66889 -4.70429
+
+	KU4LS2
+		Images:	6746
+		Time:	21.09.2025 17:04:33 until 22.09.2025 00:42:14
+		Duration:	07:37:41
+		Location:	51.66889 -4.70429
+
+	PAUH3
+		Images:	1664
+		Time:	21.09.2025 22:18:15 until 22.09.2025 00:31:12
+		Duration:	02:12:57
+		Location:	51.66889 -4.70429
+

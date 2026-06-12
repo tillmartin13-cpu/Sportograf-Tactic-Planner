@@ -1,0 +1,120 @@
+EventId: 13696
+Spots: 18
+Total Images: 23782
+Time:	01.01.2014 00:15:56 to 31.08.2026 02:41:44
+Duration: 4625.02:25:48
+
+(1) - Start
+	RYS1
+		Images:	1250
+		Time:	30.08.2026 17:28:22 until 30.08.2026 19:14:38
+		Duration:	01:46:16
+		Location:	52.54658 13.25810
+
+	RYS1DRONE1
+		Images:	24
+		Time:	30.08.2025 18:06:16 until 30.08.2025 18:59:26
+		Duration:	00:53:10
+		Location:	52.54658 13.25810
+
+(2) - Hinckeldeybrücke
+	AGA1
+		Images:	3338
+		Time:	30.08.2025 18:26:16 until 30.08.2025 20:16:54
+		Duration:	01:50:38
+		Location:	52.54856 13.30839
+
+	AGA1LS1
+		Images:	959
+		Time:	30.08.2025 18:19:23 until 30.08.2025 19:54:30
+		Duration:	01:35:07
+		Location:	52.54856 13.30839
+
+(3) - Plötzensee
+	CM1
+		Images:	1702
+		Time:	30.08.2025 17:37:25 until 30.08.2025 20:16:15
+		Duration:	02:38:50
+		Location:	52.54584 13.32659
+
+	CM1LS1
+		Images:	1506
+		Time:	30.08.2025 18:05:33 until 30.08.2025 20:10:34
+		Duration:	02:05:01
+		Location:	52.54584 13.32659
+
+(4) - Nordufer
+	EBO1
+		Images:	2801
+		Time:	30.08.2025 18:32:39 until 31.08.2025 00:08:49
+		Duration:	05:36:10
+		Location:	52.53857 13.34774
+
+(5) - Sellerbrücke
+	MFR1
+		Images:	629
+		Time:	30.08.2025 18:29:40 until 30.08.2025 21:49:29
+		Duration:	03:19:49
+		Location:	52.53639 13.36615
+
+	MFR1LS1
+		Images:	1587
+		Time:	30.08.2025 18:57:24 until 30.08.2025 21:12:08
+		Duration:	02:14:44
+		Location:	52.53639 13.36615
+
+(6) - Alt Spandau
+	MFR2
+		Images:	1168
+		Time:	30.08.2025 23:29:39 until 31.08.2025 04:31:32
+		Duration:	05:01:53
+		Location:	52.54021 13.20708
+
+	MFR2LS1
+		Images:	1521
+		Time:	30.08.2025 23:18:29 until 31.08.2025 04:18:36
+		Duration:	05:00:07
+		Location:	52.54021 13.20708
+
+(7) - Rohrbruchteich
+	EBO2
+		Images:	1919
+		Time:	31.08.2025 00:32:56 until 31.08.2025 06:20:56
+		Duration:	05:48:00
+		Location:	52.55177 13.23583
+
+(8) - Saatwinkler Steg
+	AGA2
+		Images:	1720
+		Time:	31.08.2025 01:08:52 until 31.08.2025 06:36:09
+		Duration:	05:27:17
+		Location:	52.55769 13.23762
+
+(9) - Finish
+	CM2
+		Images:	852
+		Time:	31.08.2025 01:29:44 until 31.08.2025 07:17:05
+		Duration:	05:47:21
+		Location:	52.54658 13.25810
+
+	RYS2LS2
+		Images:	1164
+		Time:	31.08.2025 01:35:09 until 31.08.2025 07:17:52
+		Duration:	05:42:43
+		Location:	52.54658 13.25810
+
+	RYS2LS1
+		Images:	1186
+		Time:	01.01.2014 00:15:56 until 01.01.2014 06:17:11
+		Duration:	06:01:15
+		Location:	52.54658 13.25810
+
+(10) - Herotent
+	RYS2
+		Images:	456
+		Time:	31.08.2025 02:42:19 until 31.08.2026 02:41:44
+		Duration:	364.23:59:25
+		Location:	52.54658 13.25810
+
+(11) - Impressions / Pano
+	PANO1

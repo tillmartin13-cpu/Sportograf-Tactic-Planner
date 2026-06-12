@@ -1,0 +1,140 @@
+EventId: 14682
+Spots: 20
+Total Images: 138319
+Time:	01.01.0001 23:00:00 to 25.01.2025 16:14:36
+Duration: 739274.17:14:36
+
+(1) - Obstacle 12 Multi Rig
+	MATA1
+		Images:	4773
+		Time:	01.01.0001 23:00:00 until 25.01.2025 13:43:50
+		Duration:	739274.14:43:50
+		Location:	NULL NULL
+
+(2) - Obstacle 12 Multi-Rig
+	FREM1
+		Images:	3900
+		Time:	25.01.2025 07:00:43 until 25.01.2025 13:43:13
+		Duration:	06:42:30
+		Location:	NULL NULL
+
+(3) - Obstacle 13 Bucket Carry
+	HJP1
+		Images:	7938
+		Time:	25.01.2025 05:57:04 until 25.01.2025 14:03:04
+		Duration:	08:06:00
+		Location:	NULL NULL
+
+	JOD1LS1
+		Images:	957
+		Time:	24.01.2025 18:24:03 until 25.01.2025 08:28:36
+		Duration:	14:04:33
+		Location:	NULL NULL
+
+(4) - Obstacle 14 Rolling Mud
+	DDS1
+		Images:	11793
+		Time:	24.01.2025 16:53:58 until 25.01.2025 14:07:18
+		Duration:	21:13:20
+		Location:	NULL NULL
+
+(5) - Obstacle 15 Dunk Wall
+	DDC1
+		Images:	4052
+		Time:	24.01.2025 16:57:13 until 25.01.2025 11:06:12
+		Duration:	18:08:59
+		Location:	NULL NULL
+
+(6) - Obstacle 16 Barbed Wire #2
+	DDC2
+		Images:	5845
+		Time:	25.01.2025 11:35:59 until 25.01.2025 14:03:48
+		Duration:	02:27:49
+		Location:	NULL NULL
+
+	DMI1
+		Images:	14559
+		Time:	24.01.2025 18:22:45 until 25.01.2025 14:12:02
+		Duration:	19:49:17
+		Location:	NULL NULL
+
+(7) - Obstacle 20 Sand Bag Carry
+	TUD1
+		Images:	3992
+		Time:	25.01.2025 05:54:53 until 25.01.2025 14:42:14
+		Duration:	08:47:21
+		Location:	NULL NULL
+
+(8) - Obstacle 21 Vertical Cargo
+	DVAL1
+		Images:	8569
+		Time:	25.01.2025 05:56:49 until 25.01.2025 14:44:56
+		Duration:	08:48:07
+		Location:	NULL NULL
+
+(9) - Obstacle 25 Kakak Karry
+	DMCI1
+		Images:	6045
+		Time:	25.01.2025 06:13:40 until 25.01.2025 15:11:58
+		Duration:	08:58:18
+		Location:	NULL NULL
+
+(10) - Obstacle 29 Atlas Carry
+	ANGA1
+		Images:	8592
+		Time:	24.01.2025 20:37:50 until 25.01.2025 15:59:19
+		Duration:	19:21:29
+		Location:	NULL NULL
+
+	MKI1
+		Images:	9094
+		Time:	24.01.2025 19:34:51 until 25.01.2025 15:59:13
+		Duration:	20:24:22
+		Location:	NULL NULL
+
+(11) - Obstacle 30 Monkey Bars
+	JOD1
+		Images:	10381
+		Time:	24.01.2025 18:26:10 until 25.01.2025 15:58:18
+		Duration:	21:32:08
+		Location:	NULL NULL
+
+	MIGO1
+		Images:	7638
+		Time:	25.01.2025 07:39:06 until 25.01.2025 15:43:01
+		Duration:	08:03:55
+		Location:	NULL NULL
+
+(12) - Obstacle 33 A-Frame Cargo
+	KHN1LS1
+		Images:	2974
+		Time:	24.01.2025 19:53:56 until 25.01.2025 15:22:28
+		Duration:	19:28:32
+		Location:	NULL NULL
+
+	KHN1
+		Images:	21689
+		Time:	24.01.2025 19:56:52 until 25.01.2025 16:12:40
+		Duration:	20:15:48
+		Location:	NULL NULL
+
+(13) - Herotent
+	GOB1
+		Images:	5469
+		Time:	24.01.2025 16:55:58 until 25.01.2025 16:14:36
+		Duration:	23:18:38
+		Location:	NULL NULL
+
+(14) - IMP
+	MCAR1DRONE1
+		Images:	19
+		Time:	25.01.2025 07:39:23 until 25.01.2025 07:47:29
+		Duration:	00:08:06
+		Location:	NULL NULL
+
+	MCAR1IMP1
+		Images:	40
+		Time:	25.01.2025 06:18:28 until 25.01.2025 12:07:52
+		Duration:	05:49:24
+		Location:	NULL NULL
+

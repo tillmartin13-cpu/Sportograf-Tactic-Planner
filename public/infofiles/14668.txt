@@ -1,0 +1,83 @@
+EventId: 14668
+Spots: 11
+Total Images: 62262
+Time:	13.09.2025 07:39:20 to 14.09.2025 15:49:07
+Duration: 1.08:09:47
+
+(1) - Obstacle 22 Skidmarked
+	CASS1
+		Images:	3796
+		Time:	14.09.2025 09:32:27 until 14.09.2025 15:21:57
+		Duration:	05:49:30
+		Location:	42.80109 -80.62140
+
+(2) - Obstacle 26 Electroshock Therapy
+	CBAC1
+		Images:	11818
+		Time:	13.09.2025 08:08:00 until 14.09.2025 15:49:07
+		Duration:	1.07:41:07
+		Location:	42.79930 -80.61857
+
+(3) - Obstacle 20 Arctic Enema
+	DMED1
+		Images:	2422
+		Time:	13.09.2025 11:57:22 until 14.09.2025 15:10:31
+		Duration:	1.03:13:09
+		Location:	42.79984 -80.61897
+
+(4) - Obstacle 11 The Block Ness Monster
+	ERIC1
+		Images:	8065
+		Time:	14.09.2025 09:21:28 until 14.09.2025 13:44:44
+		Duration:	04:23:16
+		Location:	42.79966 -80.62096
+
+(5) - Obstacle 19 Shawshanked
+	HAMK1
+		Images:	7070
+		Time:	13.09.2025 07:39:20 until 14.09.2025 15:04:35
+		Duration:	1.07:25:15
+		Location:	42.80000 -80.62081
+
+(6) - Obstacle 25 Pyramid Scheme
+	KENY1
+		Images:	3622
+		Time:	13.09.2025 08:00:25 until 14.09.2025 15:40:36
+		Duration:	1.07:40:11
+		Location:	42.80300 -80.61700
+
+(7) - Obstacle 1 Lumberjacked
+	LHBC1
+		Images:	4814
+		Time:	14.09.2025 08:58:11 until 14.09.2025 12:27:06
+		Duration:	03:28:55
+		Location:	42.79757 -80.62427
+
+(8) - Highlights
+	NIMA1
+		Images:	417
+		Time:	13.09.2025 08:04:52 until 14.09.2025 11:58:10
+		Duration:	1.03:53:18
+		Location:	42.80036 -80.61786
+
+(9) - Obstacle 10 Pitfall
+	PNR1
+		Images:	1737
+		Time:	14.09.2025 08:45:52 until 14.09.2025 13:33:41
+		Duration:	04:47:49
+		Location:	42.80043 -80.62409
+
+(10) - Obstacle 12 Kiss of Mud
+	THAT1
+		Images:	9074
+		Time:	13.09.2025 09:32:43 until 14.09.2025 13:53:32
+		Duration:	1.04:20:49
+		Location:	42.79923 -80.61998
+
+(11) - Obstacle 24 Creek Crusade
+	WTY1
+		Images:	9427
+		Time:	13.09.2025 08:02:41 until 14.09.2025 15:34:53
+		Duration:	1.07:32:12
+		Location:	42.80285 -80.61774
+

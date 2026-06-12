@@ -1,0 +1,80 @@
+EventId: 13997
+Spots: 12
+Total Images: 11054
+Time:	30.08.2025 07:25:17 to 30.08.2025 18:55:19
+Duration: 11:30:02
+
+(1) - Finish
+	IH1
+		Images:	2436
+		Time:	30.08.2025 09:27:27 until 30.08.2025 18:55:19
+		Duration:	09:27:52
+		Location:	47.24158 13.19563
+
+	YS2LS1
+		Images:	272
+		Time:	30.08.2025 11:16:26 until 30.08.2025 18:45:44
+		Duration:	07:29:18
+		Location:	47.24158 13.19563
+
+	YS2LS2
+		Images:	276
+		Time:	30.08.2025 11:14:03 until 30.08.2025 18:46:16
+		Duration:	07:32:13
+		Location:	47.24158 13.19563
+
+(2) - vor Loosbühelalm
+	KSZ1
+		Images:	2454
+		Time:	30.08.2025 07:25:17 until 30.08.2025 12:19:29
+		Duration:	04:54:12
+		Location:	47.22580 13.28056
+
+(3) - nach Loosbühelalm
+	MIW1
+		Images:	1836
+		Time:	30.08.2025 07:44:17 until 30.08.2025 12:18:13
+		Duration:	04:33:56
+		Location:	47.23306 13.28163
+
+(4) - Gerstreitalm
+	MJO1
+		Images:	1719
+		Time:	30.08.2025 07:46:10 until 30.08.2025 18:25:37
+		Duration:	10:39:27
+		Location:	47.24587 13.22421
+
+(5) - Anstieg Gehwolfalm
+	YS1
+		Images:	1045
+		Time:	30.08.2025 08:11:10 until 30.08.2025 10:31:41
+		Duration:	02:20:31
+		Location:	47.24673 13.18703
+
+	YS1LS2
+		Images:	211
+		Time:	30.08.2025 07:41:54 until 30.08.2025 10:29:11
+		Duration:	02:47:17
+		Location:	47.24703 13.18733
+
+	YS1LS1
+		Images:	198
+		Time:	30.08.2025 07:39:38 until 30.08.2025 10:28:40
+		Duration:	02:49:02
+		Location:	47.24703 13.18733
+
+(6) - Impressions / Pano
+	YS1DRONE1
+		Images:	15
+		Time:	30.08.2025 08:39:03 until 30.08.2025 12:34:27
+		Duration:	03:55:24
+		Location:	NULL NULL
+
+	PANO1
+(7) - Gerstreitalm Parkplatz
+	YS2
+		Images:	592
+		Time:	30.08.2025 11:33:16 until 30.08.2025 12:58:45
+		Duration:	01:25:29
+		Location:	47.24162 13.20826
+

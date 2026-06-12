@@ -1,0 +1,66 @@
+EventId: 14047
+Spots: 9
+Total Images: 38872
+Time:	20.06.2025 18:40:25 to 20.06.2025 23:23:41
+Duration: 04:43:16
+
+(1) - Start
+	BK1DRONE1
+		Images:	20
+		Time:	20.06.2025 19:38:35 until 20.06.2025 19:41:40
+		Duration:	00:03:05
+		Location:	53.57093 10.00202
+
+	LARS1
+		Images:	979
+		Time:	20.06.2025 18:40:25 until 20.06.2025 20:03:02
+		Duration:	01:22:37
+		Location:	53.57093 10.00202
+
+	BK1
+		Images:	3416
+		Time:	20.06.2025 19:18:17 until 20.06.2025 22:10:37
+		Duration:	02:52:20
+		Location:	53.57093 10.00202
+
+(2) - Sportscheck Cheering Zone
+	JKOR1
+		Images:	9838
+		Time:	20.06.2025 19:50:51 until 20.06.2025 23:07:49
+		Duration:	03:16:58
+		Location:	53.57047 10.00956
+
+(3) - On Cheering Zone
+	PLA1
+		Images:	3827
+		Time:	20.06.2025 19:05:22 until 20.06.2025 23:15:59
+		Duration:	04:10:37
+		Location:	53.57093 10.00202
+
+(4) - Alsterufer
+	BK2
+		Images:	4772
+		Time:	20.06.2025 20:15:02 until 20.06.2025 23:09:13
+		Duration:	02:54:11
+		Location:	53.56521 9.99930
+
+(5) - Alsterufer Abzweig zum Ziel
+	JOKR1
+		Images:	3753
+		Time:	20.06.2025 19:49:09 until 20.06.2025 23:13:16
+		Duration:	03:24:07
+		Location:	53.56521 9.99930
+
+(6) - Finish
+	LARS2
+		Images:	9830
+		Time:	20.06.2025 20:06:20 until 20.06.2025 23:23:05
+		Duration:	03:16:45
+		Location:	53.57093 10.00202
+
+	LARS1LS1
+		Images:	2437
+		Time:	20.06.2025 19:29:57 until 20.06.2025 23:23:41
+		Duration:	03:53:44
+		Location:	53.57093 10.00202
+

@@ -1,0 +1,98 @@
+EventId: 13961
+Spots: 14
+Total Images: 57685
+Time:	13.09.2025 07:07:56 to 13.09.2025 16:53:47
+Duration: 09:45:51
+
+(1) - Mudders on the Rocks
+	DAR1
+		Images:	10638
+		Time:	13.09.2025 09:34:40 until 13.09.2025 15:45:40
+		Duration:	06:11:00
+		Location:	49.43344 10.91214
+
+	DAR1LS1
+		Images:	1150
+		Time:	13.09.2025 09:25:42 until 13.09.2025 15:45:24
+		Duration:	06:19:42
+		Location:	49.43344 10.91214
+
+(2) - Wheeltransport
+	MIH1
+		Images:	13139
+		Time:	13.09.2025 08:54:22 until 13.09.2025 15:53:08
+		Duration:	06:58:46
+		Location:	49.43362 10.91606
+
+(3) - Sand Uphill
+	DASC1
+		Images:	5311
+		Time:	13.09.2025 09:18:15 until 13.09.2025 16:16:17
+		Duration:	06:58:02
+		Location:	49.43423 10.92008
+
+(4) - Einbetoniert
+	DASC1LS1
+		Images:	4914
+		Time:	13.09.2025 09:15:15 until 13.09.2025 16:10:23
+		Duration:	06:55:08
+		Location:	49.43376 10.92045
+
+(5) - Red Wall
+	JEM1
+		Images:	2713
+		Time:	13.09.2025 09:22:21 until 13.09.2025 16:26:09
+		Duration:	07:03:48
+		Location:	49.43296 10.92517
+
+(6) - Laufstrecke
+	JEM1LS1
+		Images:	978
+		Time:	13.09.2025 08:50:16 until 13.09.2025 15:19:00
+		Duration:	06:28:44
+		Location:	49.43296 10.92517
+
+(7) - Multi Rig
+	SJK1
+		Images:	1810
+		Time:	13.09.2025 08:17:17 until 13.09.2025 16:37:39
+		Duration:	08:20:22
+		Location:	49.43273 10.92399
+
+(8) - Halfpipe
+	MEKU1
+		Images:	4590
+		Time:	13.09.2025 07:54:27 until 13.09.2025 16:44:36
+		Duration:	08:50:09
+		Location:	49.43145 10.91480
+
+(9) - Obstacle 1
+	TIH1
+		Images:	6067
+		Time:	13.09.2025 08:49:01 until 13.09.2025 16:47:26
+		Duration:	07:58:25
+		Location:	49.43175 10.91239
+
+(10) - Herotent
+	THO1
+		Images:	1971
+		Time:	13.09.2025 07:07:56 until 13.09.2025 16:53:47
+		Duration:	09:45:51
+		Location:	49.43136 10.91170
+
+(11) - Finish
+	TIH1LS1
+		Images:	4392
+		Time:	13.09.2025 09:01:47 until 13.09.2025 16:50:53
+		Duration:	07:49:06
+		Location:	49.43136 10.91170
+
+(12) - Impressions / Pano
+	PANO1
+(13) - Drohne
+	DAR1DRONE1
+		Images:	12
+		Time:	13.09.2025 08:54:39 until 13.09.2025 09:03:50
+		Duration:	00:09:11
+		Location:	49.43136 10.91170
+

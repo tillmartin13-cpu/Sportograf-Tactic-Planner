@@ -1,0 +1,60 @@
+EventId: 13889
+Spots: 8
+Total Images: 50668
+Time:	18.04.2025 17:38:33 to 19.04.2025 19:12:48
+Duration: 1.01:34:15
+
+(1) - Start
+	MCAR1
+		Images:	1731
+		Time:	18.04.2025 19:34:45 until 19.04.2025 12:21:51
+		Duration:	16:47:06
+		Location:	33.80017 -117.92441
+
+	MCAR1DRONE1
+		Images:	21
+		Time:	19.04.2025 07:38:22 until 19.04.2025 11:03:16
+		Duration:	03:24:54
+		Location:	33.80017 -117.92441
+
+(2) - Zone 2 500m Row
+	MKI1
+		Images:	18331
+		Time:	18.04.2025 20:04:11 until 19.04.2025 18:43:17
+		Duration:	22:39:06
+		Location:	33.80017 -117.92441
+
+(3) - Zone 5 500m Ski Erg
+	ANGA1
+		Images:	11052
+		Time:	19.04.2025 06:40:31 until 19.04.2025 18:55:33
+		Duration:	12:15:02
+		Location:	33.80017 -117.92441
+
+(4) - Zone 6 100m Farmers Carry
+	BICI1
+		Images:	3313
+		Time:	19.04.2025 07:52:28 until 19.04.2025 18:54:35
+		Duration:	11:02:07
+		Location:	33.80017 -117.92441
+
+(5) - Zone 7 25c Air Bike
+	MRI1
+		Images:	5876
+		Time:	19.04.2025 07:07:59 until 19.04.2025 19:03:42
+		Duration:	11:55:43
+		Location:	33.80017 -117.92441
+
+(6) - Zone 9 100m Tank Push/Pull
+	DMI1
+		Images:	5991
+		Time:	18.04.2025 17:38:33 until 19.04.2025 18:55:56
+		Duration:	1.01:17:23
+		Location:	33.80017 -117.92441
+
+	DDS1
+		Images:	4353
+		Time:	18.04.2025 20:15:03 until 19.04.2025 19:12:48
+		Duration:	22:57:45
+		Location:	33.80017 -117.92441
+

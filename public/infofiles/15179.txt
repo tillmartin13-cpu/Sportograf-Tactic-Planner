@@ -1,0 +1,86 @@
+EventId: 15179
+Spots: 13
+Total Images: 20606
+Time:	31.05.2025 15:28:01 to 01.06.2025 16:14:51
+Duration: 1.00:46:50
+
+(1) - 7.0 km
+	ACCA1
+		Images:	2266
+		Time:	01.06.2025 07:46:51 until 01.06.2025 10:15:18
+		Duration:	02:28:27
+		Location:	50.75175 3.28871
+
+(2) - 7.0 km to finish
+	ACCA2
+		Images:	4084
+		Time:	01.06.2025 10:33:00 until 01.06.2025 15:35:04
+		Duration:	05:02:04
+		Location:	50.77786 3.34003
+
+(3) - 0.5 km
+	PBO1
+		Images:	3592
+		Time:	01.06.2025 07:27:54 until 01.06.2025 10:59:32
+		Duration:	03:31:38
+		Location:	50.77650 3.27295
+
+(4) - Finish
+	PBO2
+		Images:	3578
+		Time:	01.06.2025 11:14:19 until 01.06.2025 16:14:51
+		Duration:	05:00:32
+		Location:	50.77675 3.27853
+
+(5) - 7.5 km
+	SDT1
+		Images:	1063
+		Time:	31.05.2025 17:58:59 until 01.06.2025 10:02:01
+		Duration:	16:03:02
+		Location:	50.75332 3.30131
+
+	SDT1LS1
+		Images:	868
+		Time:	31.05.2025 18:01:20 until 01.06.2025 10:07:21
+		Duration:	16:06:01
+		Location:	50.75332 3.30131
+
+	SDT1LS2
+		Images:	782
+		Time:	31.05.2025 18:03:11 until 01.06.2025 10:08:20
+		Duration:	16:05:09
+		Location:	50.75332 3.30131
+
+	SDT1DRONE1
+		Images:	9
+		Time:	31.05.2025 15:28:01 until 31.05.2025 15:37:54
+		Duration:	00:09:53
+		Location:	50.75332 3.30131
+
+(6) - 6.0 km
+	SDT2
+		Images:	1523
+		Time:	01.06.2025 11:32:37 until 01.06.2025 15:23:58
+		Duration:	03:51:21
+		Location:	50.77678 3.33584
+
+	SDT2LS1
+		Images:	1464
+		Time:	01.06.2025 11:29:40 until 01.06.2025 15:29:25
+		Duration:	03:59:45
+		Location:	50.77711 3.33693
+
+	SDT2LS2
+		Images:	1370
+		Time:	01.06.2025 11:27:04 until 01.06.2025 15:29:26
+		Duration:	04:02:22
+		Location:	50.77711 3.33693
+
+	SDT2DRONE1
+		Images:	7
+		Time:	31.05.2025 19:15:53 until 31.05.2025 19:19:08
+		Duration:	00:03:15
+		Location:	50.77711 3.33693
+
+(7) - Impressions / Pano
+	PANO1

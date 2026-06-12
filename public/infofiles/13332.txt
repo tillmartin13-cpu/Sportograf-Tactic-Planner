@@ -1,0 +1,125 @@
+EventId: 13332
+Spots: 18
+Total Images: 136966
+Time:	12.07.2025 21:08:55 to 13.07.2025 16:22:43
+Duration: 19:13:48
+
+(1) - Swim - Start
+	AHO1
+		Images:	2739
+		Time:	13.07.2025 06:31:35 until 13.07.2025 08:11:12
+		Duration:	01:39:37
+		Location:	51.61892 -3.93248
+
+	PAUH1
+		Images:	1802
+		Time:	13.07.2025 06:27:42 until 13.07.2025 08:05:41
+		Duration:	01:37:59
+		Location:	51.61892 -3.93248
+
+(2) - Swim Exit
+	JUW1
+		Images:	7125
+		Time:	13.07.2025 06:29:56 until 13.07.2025 08:52:42
+		Duration:	02:22:46
+		Location:	51.61871 -3.93225
+
+	DP1
+		Images:	6700
+		Time:	13.07.2025 06:22:29 until 13.07.2025 08:53:10
+		Duration:	02:30:41
+		Location:	51.61871 -3.93225
+
+(3) - Bike - Transition zone
+	JNI1
+		Images:	6106
+		Time:	13.07.2025 06:54:04 until 13.07.2025 08:51:29
+		Duration:	01:57:25
+		Location:	51.61818 -3.93743
+
+(4) - Bike - 9.0 km
+	MALV1
+		Images:	7802
+		Time:	12.07.2025 21:08:55 until 13.07.2025 09:26:51
+		Duration:	12:17:56
+		Location:	51.56958 -3.98362
+
+	MALV1LS1
+		Images:	1911
+		Time:	13.07.2025 07:03:27 until 13.07.2025 09:30:27
+		Duration:	02:27:00
+		Location:	51.56958 -3.98362
+
+(5) - Bike - 49.0 km
+	RWA1
+		Images:	9444
+		Time:	13.07.2025 08:38:12 until 13.07.2025 12:50:55
+		Duration:	04:12:43
+		Location:	51.61634 -4.06290
+
+(6) - Bike - 66.7 km
+	KU1
+		Images:	23994
+		Time:	13.07.2025 07:24:06 until 13.07.2025 12:28:45
+		Duration:	05:04:39
+		Location:	51.59830 -4.15422
+
+	KU1LS1
+		Images:	3687
+		Time:	13.07.2025 07:13:27 until 13.07.2025 12:28:21
+		Duration:	05:14:54
+		Location:	51.59830 -4.15422
+
+(7) - Bike - 89.9 km
+	JNI2
+		Images:	8296
+		Time:	13.07.2025 09:37:41 until 13.07.2025 13:25:56
+		Duration:	03:48:15
+		Location:	51.61798 -3.94010
+
+(8) - Run - 0.6 km
+	PAUH2
+		Images:	8002
+		Time:	13.07.2025 09:42:26 until 13.07.2025 13:50:20
+		Duration:	04:07:54
+		Location:	51.61497 -3.94663
+
+(9) - RUN - Beach View
+	AHO2
+		Images:	8488
+		Time:	13.07.2025 09:56:28 until 13.07.2025 15:00:44
+		Duration:	05:04:16
+		Location:	51.61267 -3.96010
+
+(10) - RUN - Before Finish
+	MALV2
+		Images:	12273
+		Time:	13.07.2025 10:50:51 until 13.07.2025 16:22:25
+		Duration:	05:31:34
+		Location:	51.61737 -3.94186
+
+(11) - Finish
+	JUW2
+		Images:	10638
+		Time:	13.07.2025 09:28:44 until 13.07.2025 16:15:59
+		Duration:	06:47:15
+		Location:	51.61687 -3.94160
+
+	JUW2LS1
+		Images:	1910
+		Time:	13.07.2025 09:18:24 until 13.07.2025 16:06:04
+		Duration:	06:47:40
+		Location:	51.61687 -3.94160
+
+	DP2
+		Images:	14219
+		Time:	13.07.2025 10:35:18 until 13.07.2025 16:22:43
+		Duration:	05:47:25
+		Location:	51.61687 -3.94160
+
+	DP2LS1
+		Images:	1830
+		Time:	13.07.2025 09:21:33 until 13.07.2025 16:07:22
+		Duration:	06:45:49
+		Location:	51.61687 -3.94160
+

@@ -1,0 +1,122 @@
+EventId: 15841
+Spots: 18
+Total Images: 11236
+Time:	28.06.2024 07:13:44 to 29.06.2025 14:01:12
+Duration: 366.06:47:28
+
+(1) - Start
+	ASQ1
+		Images:	30
+		Time:	28.06.2024 07:13:44 until 29.06.2024 08:40:34
+		Duration:	1.01:26:50
+		Location:	39.46074 -0.33210
+
+	OAC1
+		Images:	22
+		Time:	28.06.2025 07:13:04 until 29.06.2025 08:58:55
+		Duration:	1.01:45:51
+		Location:	39.46074 -0.33210
+
+	SVY1
+		Images:	617
+		Time:	28.06.2025 07:19:58 until 29.06.2025 13:47:56
+		Duration:	1.06:27:58
+		Location:	39.46074 -0.33210
+
+	JMP1
+		Images:	43
+		Time:	28.06.2025 07:50:41 until 29.06.2025 09:20:11
+		Duration:	1.01:29:30
+		Location:	39.46074 -0.33210
+
+(2) - REMO
+	TGM1
+		Images:	1112
+		Time:	29.06.2025 08:43:46 until 29.06.2025 13:31:49
+		Duration:	04:48:03
+		Location:	39.46074 -0.33210
+
+	SVY2
+		Images:	183
+		Time:	29.06.2025 10:07:27 until 29.06.2025 10:31:59
+		Duration:	00:24:32
+		Location:	39.46074 -0.33210
+
+(3) - CAJON
+	AMRU1
+		Images:	1445
+		Time:	28.06.2025 07:52:43 until 29.06.2025 13:34:41
+		Duration:	1.05:41:58
+		Location:	39.46074 -0.33210
+
+	SVY3
+		Images:	99
+		Time:	29.06.2025 10:32:54 until 29.06.2025 10:52:08
+		Duration:	00:19:14
+		Location:	39.46074 -0.33210
+
+(4) - SKI ERG
+	ASQ2
+		Images:	1048
+		Time:	29.06.2024 09:10:43 until 29.06.2024 13:38:56
+		Duration:	04:28:13
+		Location:	39.46074 -0.33210
+
+	SVY4
+		Images:	204
+		Time:	29.06.2025 10:53:33 until 29.06.2025 11:19:28
+		Duration:	00:25:55
+		Location:	39.46074 -0.33210
+
+(5) - FARMERS
+	AMRU1LS1
+		Images:	255
+		Time:	29.06.2025 08:18:45 until 29.06.2025 13:40:13
+		Duration:	05:21:28
+		Location:	39.46074 -0.33210
+
+	JMP1LS1
+		Images:	610
+		Time:	29.06.2025 08:18:16 until 29.06.2025 13:59:02
+		Duration:	05:40:46
+		Location:	39.46074 -0.33210
+
+(6) - AIR BIKE
+	OAC2
+		Images:	2796
+		Time:	29.06.2025 09:10:24 until 29.06.2025 13:47:21
+		Duration:	04:36:57
+		Location:	39.46074 -0.33210
+
+	SVY5
+		Images:	21
+		Time:	29.06.2025 11:26:37 until 29.06.2025 11:32:06
+		Duration:	00:05:29
+		Location:	39.46074 -0.33210
+
+(7) - TRINEO
+	JMP2
+		Images:	1996
+		Time:	29.06.2025 09:21:33 until 29.06.2025 13:52:18
+		Duration:	04:30:45
+		Location:	39.46074 -0.33210
+
+	SVY6
+		Images:	118
+		Time:	29.06.2025 11:32:25 until 29.06.2025 11:47:48
+		Duration:	00:15:23
+		Location:	39.46074 -0.33210
+
+(8) - Finish
+	TGM1LS1
+		Images:	324
+		Time:	28.06.2025 07:18:07 until 29.06.2025 14:01:12
+		Duration:	1.06:43:05
+		Location:	39.46074 -0.33210
+
+	TGM1LS2
+		Images:	313
+		Time:	29.06.2025 08:19:45 until 29.06.2025 14:01:08
+		Duration:	05:41:23
+		Location:	39.46074 -0.33210
+

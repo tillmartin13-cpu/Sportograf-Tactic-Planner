@@ -1,0 +1,99 @@
+EventId: 14380
+Spots: 14
+Total Images: 33068
+Time:	05.04.2025 08:48:48 to 06.04.2025 13:43:37
+Duration: 1.04:54:49
+
+(1) - Obstacle 6 Sprint / 7 Super  Inverted  Wall
+	IRG1
+		Images:	7041
+		Time:	05.04.2025 12:23:03 until 06.04.2025 12:51:22
+		Duration:	1.00:28:19
+		Location:	45.82568 15.82045
+
+(2) - Obstacle 9 Sprint / 10 Super Balance Wall
+	DDF1
+		Images:	1230
+		Time:	06.04.2025 08:25:44 until 06.04.2025 13:04:41
+		Duration:	04:38:57
+		Location:	45.82559 15.81422
+
+(3) - Obstacle 10 Sprint / 11 Super Bucket Carry
+	LULE1
+		Images:	5218
+		Time:	05.04.2025 10:32:49 until 06.04.2025 12:54:48
+		Duration:	1.02:21:59
+		Location:	45.82509 15.81268
+
+	LULE1LS1
+		Images:	1142
+		Time:	06.04.2025 08:03:16 until 06.04.2025 13:02:41
+		Duration:	04:59:25
+		Location:	45.82509 15.81268
+
+(4) - Obstacle 15 Sprint / 21 Super Barbed wire
+	GAZ1
+		Images:	4780
+		Time:	05.04.2025 09:21:09 until 06.04.2025 13:38:00
+		Duration:	1.04:16:51
+		Location:	45.82127 15.80938
+
+(5) - Obstacle 17 Sprint / 23 Super Tilting Ladders
+	MATR1
+		Images:	5682
+		Time:	05.04.2025 09:07:25 until 06.04.2025 13:25:58
+		Duration:	1.04:18:33
+		Location:	45.82077 15.80978
+
+	MATR1LS1
+		Images:	524
+		Time:	06.04.2025 07:20:07 until 06.04.2025 13:42:01
+		Duration:	06:21:54
+		Location:	45.82077 15.80978
+
+	MATR1LS2
+		Images:	616
+		Time:	06.04.2025 06:35:17 until 06.04.2025 13:42:20
+		Duration:	07:07:03
+		Location:	45.82077 15.80978
+
+(6) - Finish
+	BRN1
+		Images:	3101
+		Time:	06.04.2025 07:58:22 until 06.04.2025 13:39:11
+		Duration:	05:40:49
+		Location:	45.82076 15.81045
+
+	FRN1LS1
+		Images:	1426
+		Time:	06.04.2025 07:34:32 until 06.04.2025 13:42:58
+		Duration:	06:08:26
+		Location:	45.82076 15.81045
+
+	BRN1LS1
+		Images:	815
+		Time:	06.04.2025 08:47:03 until 06.04.2025 13:39:33
+		Duration:	04:52:30
+		Location:	45.82076 15.81045
+
+(7) - Herotent
+	NBE1
+		Images:	1244
+		Time:	06.04.2025 07:46:58 until 06.04.2025 13:43:37
+		Duration:	05:56:39
+		Location:	45.82076 15.81045
+
+(8) - Impressions / Pano
+	MATR1DRONE1
+		Images:	29
+		Time:	06.04.2025 09:36:52 until 06.04.2025 09:42:42
+		Duration:	00:05:50
+		Location:	45.82076 15.81045
+
+(9) - Arena
+	FRN1
+		Images:	208
+		Time:	05.04.2025 10:37:37 until 06.04.2025 12:51:59
+		Duration:	1.02:14:22
+		Location:	45.82076 15.81045
+

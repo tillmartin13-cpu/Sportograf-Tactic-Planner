@@ -1,0 +1,125 @@
+EventId: 13516
+Spots: 18
+Total Images: 26036
+Time:	17.05.2025 06:15:10 to 17.05.2025 18:35:04
+Duration: 12:19:54
+
+(1) - Kappeler Alp
+	EPR1
+		Images:	2079
+		Time:	17.05.2025 07:19:10 until 17.05.2025 10:08:27
+		Duration:	02:49:17
+		Location:	47.60104 10.51583
+
+	MBRE1
+		Images:	1277
+		Time:	17.05.2025 07:16:55 until 17.05.2025 10:06:07
+		Duration:	02:49:12
+		Location:	47.60123 10.51409
+
+	NJO1
+		Images:	676
+		Time:	17.05.2025 07:46:31 until 17.05.2025 10:28:37
+		Duration:	02:42:06
+		Location:	47.60136 10.51600
+
+	NJO1LS1
+		Images:	688
+		Time:	17.05.2025 07:17:35 until 17.05.2025 10:45:41
+		Duration:	03:28:06
+		Location:	47.60136 10.51600
+
+(2) - Sportheim Böck
+	EPR2
+		Images:	2177
+		Time:	17.05.2025 10:34:29 until 17.05.2025 11:38:06
+		Duration:	01:03:37
+		Location:	47.59840 10.50263
+
+(3) - Reuter Wanne Uphill
+	EPR3
+		Images:	669
+		Time:	17.05.2025 13:27:55 until 17.05.2025 16:32:30
+		Duration:	03:04:35
+		Location:	47.59051 10.46007
+
+	NJO3LS1
+		Images:	184
+		Time:	17.05.2025 13:35:22 until 17.05.2025 15:45:27
+		Duration:	02:10:05
+		Location:	47.58973 10.45797
+
+	NJO3
+		Images:	379
+		Time:	17.05.2025 13:24:09 until 17.05.2025 15:44:39
+		Duration:	02:20:30
+		Location:	47.58973 10.45797
+
+(4) - Wurzelweg
+	MBRE2
+		Images:	1662
+		Time:	17.05.2025 10:31:23 until 17.05.2025 11:37:23
+		Duration:	01:06:00
+		Location:	47.59908 10.50299
+
+(5) - Reuter Wanne Downhill
+	MBRE3
+		Images:	1380
+		Time:	17.05.2025 12:33:36 until 17.05.2025 16:13:52
+		Duration:	03:40:16
+		Location:	47.58771 10.44923
+
+(6) - Ceremony
+	MBRE4
+		Images:	15
+		Time:	17.05.2025 18:05:24 until 17.05.2025 18:10:00
+		Duration:	00:04:36
+		Location:	47.61504 10.51379
+
+(7) - Start
+	MJO1
+		Images:	576
+		Time:	17.05.2025 09:28:42 until 17.05.2025 11:00:48
+		Duration:	01:32:06
+		Location:	47.61504 10.51379
+
+(8) - Finish
+	MJO2
+		Images:	5401
+		Time:	17.05.2025 11:07:08 until 17.05.2025 18:35:04
+		Duration:	07:27:56
+		Location:	47.61504 10.51379
+
+	NJO2LS1
+		Images:	1183
+		Time:	17.05.2025 11:27:48 until 17.05.2025 18:34:25
+		Duration:	07:06:37
+		Location:	47.61504 10.51379
+
+	NJO2
+		Images:	116
+		Time:	17.05.2025 10:27:28 until 17.05.2025 11:49:09
+		Duration:	01:21:41
+		Location:	47.61504 10.51379
+
+(9) - Impressions / Pano
+	NJO1DRONE1
+		Images:	32
+		Time:	17.05.2025 09:40:16 until 17.05.2025 17:54:29
+		Duration:	08:14:13
+		Location:	47.60136 10.51600
+
+(10) - Wasserfallweg
+	TH1
+		Images:	5945
+		Time:	17.05.2025 06:15:10 until 17.05.2025 11:34:57
+		Duration:	05:19:47
+		Location:	47.61344 10.50194
+
+(11) - Downhill Pfeifferberg
+	TH2
+		Images:	1597
+		Time:	17.05.2025 12:41:44 until 17.05.2025 15:01:58
+		Duration:	02:20:14
+		Location:	47.58487 10.46109
+

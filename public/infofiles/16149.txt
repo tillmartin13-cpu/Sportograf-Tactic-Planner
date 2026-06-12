@@ -1,0 +1,280 @@
+EventId: 16149
+Spots: 44
+Total Images: 225781
+Time:	02.10.2025 07:29:24 to 04.10.2025 22:07:48
+Duration: 2.14:38:24
+
+(1) - 01 - Skierg
+	HAHE1
+		Images:	11651
+		Time:	02.10.2025 07:35:06 until 04.10.2025 15:18:46
+		Duration:	2.07:43:40
+		Location:	53.55852 9.97587
+
+	CM2
+		Images:	3940
+		Time:	04.10.2025 15:16:20 until 04.10.2025 20:03:26
+		Duration:	04:47:06
+		Location:	53.55852 9.97587
+
+	GL2
+		Images:	873
+		Time:	04.10.2025 15:23:51 until 04.10.2025 20:11:13
+		Duration:	04:47:22
+		Location:	53.55852 9.97587
+
+	MARM2
+		Images:	8167
+		Time:	04.10.2025 15:26:52 until 04.10.2025 20:07:57
+		Duration:	04:41:05
+		Location:	53.55852 9.97587
+
+	FGA1
+		Images:	12506
+		Time:	04.10.2025 08:02:23 until 04.10.2025 15:11:57
+		Duration:	07:09:34
+		Location:	53.55852 9.97587
+
+	AJS1
+		Images:	2121
+		Time:	02.10.2025 07:52:01 until 04.10.2025 14:59:56
+		Duration:	2.07:07:55
+		Location:	53.55852 9.97587
+
+(2) - 02 - Sled Push
+	MELS1
+		Images:	4076
+		Time:	04.10.2025 08:14:09 until 04.10.2025 15:25:00
+		Duration:	07:10:51
+		Location:	53.55852 9.97587
+
+	JONL1
+		Images:	7281
+		Time:	03.10.2025 07:42:17 until 04.10.2025 15:09:43
+		Duration:	1.07:27:26
+		Location:	53.55852 9.97587
+
+	JKOR2
+		Images:	7901
+		Time:	04.10.2025 15:17:10 until 04.10.2025 19:59:34
+		Duration:	04:42:24
+		Location:	53.55852 9.97587
+
+	JOPE1
+		Images:	3756
+		Time:	04.10.2025 08:12:21 until 04.10.2025 15:02:40
+		Duration:	06:50:19
+		Location:	53.55852 9.97587
+
+	FES2
+		Images:	6189
+		Time:	04.10.2025 15:06:14 until 04.10.2025 20:25:24
+		Duration:	05:19:10
+		Location:	53.55852 9.97587
+
+	LSI2
+		Images:	4414
+		Time:	04.10.2025 15:14:32 until 04.10.2025 20:25:26
+		Duration:	05:10:54
+		Location:	53.55852 9.97587
+
+(3) - 03 - Sled Pull
+	FES1
+		Images:	6995
+		Time:	04.10.2025 07:26:56 until 04.10.2025 14:56:13
+		Duration:	07:29:17
+		Location:	53.55852 9.97587
+
+	AJS2
+		Images:	1623
+		Time:	04.10.2025 15:09:33 until 04.10.2025 20:14:25
+		Duration:	05:04:52
+		Location:	53.55852 9.97587
+
+	JZE1
+		Images:	6494
+		Time:	04.10.2025 11:17:50 until 04.10.2025 15:20:18
+		Duration:	04:02:28
+		Location:	53.55852 9.97587
+
+	FGA2
+		Images:	9317
+		Time:	03.10.2025 18:44:45 until 04.10.2025 20:36:40
+		Duration:	1.01:51:55
+		Location:	53.55852 9.97587
+
+	ABRI1
+		Images:	3435
+		Time:	04.10.2025 08:23:51 until 04.10.2025 15:05:26
+		Duration:	06:41:35
+		Location:	53.55852 9.97587
+
+	HAHE2
+		Images:	8959
+		Time:	04.10.2025 15:24:56 until 04.10.2025 20:34:04
+		Duration:	05:09:08
+		Location:	53.55852 9.97587
+
+(4) - 05 - Rowing
+	JZE2
+		Images:	9467
+		Time:	02.10.2025 16:26:57 until 04.10.2025 21:12:24
+		Duration:	2.04:45:27
+		Location:	53.55852 9.97587
+
+	ABRI2
+		Images:	1938
+		Time:	04.10.2025 15:56:18 until 04.10.2025 20:49:01
+		Duration:	04:52:43
+		Location:	53.55852 9.97587
+
+	MARM1
+		Images:	7023
+		Time:	04.10.2025 07:37:34 until 04.10.2025 15:10:45
+		Duration:	07:33:11
+		Location:	53.55852 9.97587
+
+	LEM1
+		Images:	2349
+		Time:	03.10.2025 12:12:36 until 04.10.2025 18:39:51
+		Duration:	1.06:27:15
+		Location:	53.55852 9.97587
+
+	RYS1
+		Images:	2050
+		Time:	03.10.2025 08:32:35 until 04.10.2025 18:39:44
+		Duration:	1.10:07:09
+		Location:	53.55852 9.97587
+
+	GL1
+		Images:	1458
+		Time:	03.10.2025 07:54:05 until 04.10.2025 15:12:15
+		Duration:	1.07:18:10
+		Location:	53.55852 9.97587
+
+(5) - Rowing Exit
+	LEM1LS2
+		Images:	2846
+		Time:	04.10.2025 08:31:36 until 04.10.2025 20:58:44
+		Duration:	12:27:08
+		Location:	53.55852 9.97587
+
+(6) - 06 - Farmers Carry
+	LEM1LS1
+		Images:	3009
+		Time:	04.10.2025 16:34:30 until 04.10.2025 21:04:12
+		Duration:	04:29:42
+		Location:	53.55852 9.97587
+
+	JKOR1LS1
+		Images:	4114
+		Time:	04.10.2025 07:49:49 until 04.10.2025 20:03:53
+		Duration:	12:14:04
+		Location:	53.55852 9.97587
+
+(7) - 07 - Sandbag Lunges
+	HT1
+		Images:	4492
+		Time:	03.10.2025 07:54:12 until 04.10.2025 15:03:31
+		Duration:	1.07:09:19
+		Location:	53.55852 9.97587
+
+	PLA1
+		Images:	13110
+		Time:	02.10.2025 07:29:24 until 04.10.2025 21:41:19
+		Duration:	2.14:11:55
+		Location:	53.55852 9.97587
+
+	MPU2
+		Images:	5418
+		Time:	04.10.2025 15:05:35 until 04.10.2025 21:30:02
+		Duration:	06:24:27
+		Location:	53.55852 9.97587
+
+	RYS2
+		Images:	1552
+		Time:	02.10.2025 14:39:04 until 04.10.2025 19:10:43
+		Duration:	2.04:31:39
+		Location:	53.55852 9.97587
+
+(8) - 08 - Wall Balls
+	BK1
+		Images:	1235
+		Time:	04.10.2025 10:03:25 until 04.10.2025 11:10:46
+		Duration:	01:07:21
+		Location:	53.55852 9.97587
+
+	JKOR1
+		Images:	7697
+		Time:	02.10.2025 08:19:04 until 04.10.2025 15:08:08
+		Duration:	2.06:49:04
+		Location:	53.55852 9.97587
+
+	JOPE2
+		Images:	5167
+		Time:	04.10.2025 15:02:40 until 04.10.2025 21:59:57
+		Duration:	06:57:17
+		Location:	53.55852 9.97587
+
+	MELS2
+		Images:	3512
+		Time:	04.10.2025 15:29:51 until 04.10.2025 21:28:08
+		Duration:	05:58:17
+		Location:	53.55852 9.97587
+
+	JONL2
+		Images:	8182
+		Time:	04.10.2025 15:24:56 until 04.10.2025 21:36:17
+		Duration:	06:11:21
+		Location:	53.55852 9.97587
+
+	LSI1
+		Images:	3147
+		Time:	04.10.2025 12:29:47 until 04.10.2025 14:26:43
+		Duration:	01:56:56
+		Location:	53.55852 9.97587
+
+	MPU1
+		Images:	472
+		Time:	04.10.2025 14:04:57 until 04.10.2025 14:57:46
+		Duration:	00:52:49
+		Location:	53.55852 9.97587
+
+(9) - Finish
+	HT2
+		Images:	5008
+		Time:	04.10.2025 15:08:03 until 04.10.2025 22:03:39
+		Duration:	06:55:36
+		Location:	53.55852 9.97587
+
+	CM1
+		Images:	3260
+		Time:	02.10.2025 07:33:46 until 04.10.2025 15:08:00
+		Duration:	2.07:34:14
+		Location:	53.55852 9.97587
+
+	RYS3
+		Images:	594
+		Time:	02.10.2025 14:15:55 until 04.10.2025 17:05:56
+		Duration:	2.02:50:01
+		Location:	53.55852 9.97587
+
+	RYS1LS2
+		Images:	1805
+		Time:	04.10.2025 12:54:34 until 04.10.2025 21:03:01
+		Duration:	08:08:27
+		Location:	53.55852 9.97587
+
+	RYS1LS1
+		Images:	5278
+		Time:	03.10.2025 07:56:14 until 04.10.2025 21:07:38
+		Duration:	1.13:11:24
+		Location:	53.55852 9.97587
+
+(10) - HEROWALL
+	DAVR1
+		Images:	11895
+		Time:	02.10.2025 07:32:17 until 04.10.2025 22:07:48
+		Duration:	2.14:35:31
+		Location:	53.55852 9.97587
+

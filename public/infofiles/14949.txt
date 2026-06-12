@@ -1,0 +1,249 @@
+EventId: 14949
+Spots: 38
+Total Images: 152065
+Time:	12.04.2025 20:57:09 to 13.04.2025 23:35:20
+Duration: 1.02:38:11
+
+(1) - Swim - Start
+	BXC1
+		Images:	9823
+		Time:	13.04.2025 05:12:38 until 13.04.2025 08:31:32
+		Duration:	03:18:54
+		Location:	23.52564 119.56774
+
+	LNG1
+		Images:	2673
+		Time:	13.04.2025 05:19:33 until 13.04.2025 08:24:55
+		Duration:	03:05:22
+		Location:	23.52564 119.56774
+
+	LVM1
+		Images:	3401
+		Time:	13.04.2025 05:27:50 until 13.04.2025 07:14:23
+		Duration:	01:46:33
+		Location:	23.52564 119.56774
+
+(2) - Run - 5,5 km
+	BXC2
+		Images:	15779
+		Time:	13.04.2025 12:09:56 until 13.04.2025 18:44:54
+		Duration:	06:34:58
+		Location:	23.56074 119.57717
+
+(3) - Finish
+	BXC3
+		Images:	4109
+		Time:	13.04.2025 20:45:31 until 13.04.2025 23:19:47
+		Duration:	02:34:16
+		Location:	23.56741 119.57761
+
+	GIP2
+		Images:	5053
+		Time:	13.04.2025 14:10:27 until 13.04.2025 21:28:26
+		Duration:	07:17:59
+		Location:	23.56741 119.57761
+
+	GIP2DRONE1
+		Images:	35
+		Time:	13.04.2025 14:18:24 until 13.04.2025 17:11:07
+		Duration:	02:52:43
+		Location:	23.56741 119.57761
+
+	GIP2LS2
+		Images:	1614
+		Time:	13.04.2025 14:09:38 until 13.04.2025 19:22:13
+		Duration:	05:12:35
+		Location:	23.56741 119.57761
+
+	GIP2LS3
+		Images:	1273
+		Time:	13.04.2025 13:38:55 until 13.04.2025 23:23:10
+		Duration:	09:44:15
+		Location:	23.56741 119.57760
+
+	HTT3
+		Images:	7455
+		Time:	13.04.2025 15:21:45 until 13.04.2025 23:20:03
+		Duration:	07:58:18
+		Location:	23.56741 119.57761
+
+	HTT3LS1
+		Images:	2089
+		Time:	13.04.2025 14:38:52 until 13.04.2025 23:35:20
+		Duration:	08:56:28
+		Location:	23.56741 119.57761
+
+(4) - Run - 6,7 km
+	LNG2
+		Images:	4847
+		Time:	13.04.2025 12:44:06 until 13.04.2025 18:55:49
+		Duration:	06:11:43
+		Location:	23.55737 119.57839
+
+	LNG2LS2
+		Images:	1290
+		Time:	12.04.2025 20:57:09 until 13.04.2025 17:31:59
+		Duration:	20:34:50
+		Location:	23.55737 119.57839
+
+	LNG2LS1
+		Images:	1066
+		Time:	13.04.2025 11:59:20 until 13.04.2025 17:08:13
+		Duration:	05:08:53
+		Location:	23.55737 119.57839
+
+(5) - Bike - 43,7 km
+	DLO1
+		Images:	3979
+		Time:	13.04.2025 07:54:53 until 13.04.2025 12:06:23
+		Duration:	04:11:30
+		Location:	23.63986 119.54025
+
+(6) - Bike - 146,0 km
+	DLO2
+		Images:	4733
+		Time:	13.04.2025 12:06:25 until 13.04.2025 16:51:30
+		Duration:	04:45:05
+		Location:	23.66708 119.58298
+
+(7) - Run - 15,2 km
+	DLO3
+		Images:	3477
+		Time:	13.04.2025 16:51:30 until 13.04.2025 18:24:43
+		Duration:	01:33:13
+		Location:	23.56334 119.58076
+
+(8) - Bike - 31,5 km
+	GIP1
+		Images:	9319
+		Time:	13.04.2025 07:35:17 until 13.04.2025 10:11:20
+		Duration:	02:36:03
+		Location:	23.62704 119.60326
+
+	GIP1LS1
+		Images:	3310
+		Time:	13.04.2025 06:59:30 until 13.04.2025 09:59:13
+		Duration:	02:59:43
+		Location:	23.62704 119.60326
+
+	GIP2LS1
+		Images:	1252
+		Time:	13.04.2025 06:44:32 until 13.04.2025 10:16:35
+		Duration:	03:32:03
+		Location:	23.62704 119.60326
+
+(9) - Bike - 56,5 km
+	HTT1
+		Images:	8148
+		Time:	13.04.2025 06:51:28 until 13.04.2025 12:15:49
+		Duration:	05:24:21
+		Location:	23.58514 119.50659
+
+	HTT1LS1
+		Images:	2232
+		Time:	13.04.2025 06:52:42 until 13.04.2025 12:17:14
+		Duration:	05:24:32
+		Location:	23.58514 119.50659
+
+(10) - Bike - 63,0 km
+	HTT2
+		Images:	3034
+		Time:	13.04.2025 12:30:36 until 13.04.2025 13:50:43
+		Duration:	01:20:07
+		Location:	23.57914 119.50549
+
+	HTT2LS1
+		Images:	825
+		Time:	13.04.2025 12:17:35 until 13.04.2025 14:12:49
+		Duration:	01:55:14
+		Location:	23.57914 119.50549
+
+(11) - Swim - Transition zone
+	LVM2
+		Images:	2684
+		Time:	13.04.2025 07:18:22 until 13.04.2025 08:25:04
+		Duration:	01:06:42
+		Location:	23.52682 119.56855
+
+	NP2LS2
+		Images:	2325
+		Time:	13.04.2025 05:57:39 until 13.04.2025 10:22:14
+		Duration:	04:24:35
+		Location:	23.52682 119.56855
+
+(12) - Bike - 158,0 km
+	LVM3
+		Images:	5713
+		Time:	13.04.2025 08:36:33 until 13.04.2025 16:38:01
+		Duration:	08:01:28
+		Location:	23.58013 119.62264
+
+(13) - Run - 11,5 km
+	LVM4
+		Images:	3491
+		Time:	13.04.2025 16:38:41 until 13.04.2025 18:41:57
+		Duration:	02:03:16
+		Location:	23.56893 119.57437
+
+(14) - Bike - 1,5 km
+	NP1
+		Images:	4738
+		Time:	13.04.2025 06:58:28 until 13.04.2025 08:45:10
+		Duration:	01:46:42
+		Location:	23.52462 119.57137
+
+	NP1LS1
+		Images:	2598
+		Time:	13.04.2025 05:13:02 until 13.04.2025 09:41:14
+		Duration:	04:28:12
+		Location:	23.52462 119.57137
+
+(15) - Bike - 157,0 km
+	NP2
+		Images:	9065
+		Time:	13.04.2025 11:30:46 until 13.04.2025 15:44:10
+		Duration:	04:13:24
+		Location:	23.59034 119.62039
+
+	NP2LS1
+		Images:	5230
+		Time:	13.04.2025 09:44:52 until 13.04.2025 15:23:31
+		Duration:	05:38:39
+		Location:	23.59034 119.62039
+
+(16) - Run - 24,0 km
+	NP3
+		Images:	3807
+		Time:	13.04.2025 16:28:28 until 13.04.2025 18:20:29
+		Duration:	01:52:01
+		Location:	23.56829 119.57424
+
+	NP3LS1
+		Images:	1466
+		Time:	13.04.2025 15:23:48 until 13.04.2025 19:26:16
+		Duration:	04:02:28
+		Location:	23.56829 119.57424
+
+(17) - Bike - 19,0 km
+	TNA1
+		Images:	4813
+		Time:	13.04.2025 06:11:51 until 13.04.2025 09:33:27
+		Duration:	03:21:36
+		Location:	23.57798 119.67826
+
+(18) - Bike - 160,0 km
+	TNA2
+		Images:	3148
+		Time:	13.04.2025 11:40:56 until 13.04.2025 16:01:16
+		Duration:	04:20:20
+		Location:	23.58409 119.66543
+
+(19) - Run - 17,5 km
+	TNA3
+		Images:	2171
+		Time:	13.04.2025 17:02:29 until 13.04.2025 18:29:52
+		Duration:	01:27:23
+		Location:	23.55632 119.57782
+
+(20) - Swim - Impressions / Pano
+	PANO1

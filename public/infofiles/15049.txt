@@ -1,0 +1,94 @@
+EventId: 15049
+Spots: 14
+Total Images: 20809
+Time:	01.08.2025 21:03:47 to 03.08.2025 00:57:24
+Duration: 1.03:53:37
+
+(1) - 7,5 km Mittagskogel
+	DRI1
+		Images:	477
+		Time:	02.08.2025 00:20:01 until 02.08.2025 06:46:01
+		Duration:	06:26:00
+		Location:	46.92335 10.89560
+
+	DRI1DRONE1
+		Images:	25
+		Time:	02.08.2025 06:39:07 until 02.08.2025 14:18:44
+		Duration:	07:39:37
+		Location:	46.92335 10.89560
+
+(2) - Finish
+	DRI3
+		Images:	1578
+		Time:	02.08.2025 14:31:23 until 02.08.2025 18:05:32
+		Duration:	03:34:09
+		Location:	46.96805 10.87110
+
+	DRI3LS1
+		Images:	1619
+		Time:	02.08.2025 10:39:07 until 03.08.2025 00:57:24
+		Duration:	14:18:17
+		Location:	46.96805 10.87110
+
+	TJA1
+		Images:	2551
+		Time:	02.08.2025 04:33:04 until 02.08.2025 14:19:44
+		Duration:	09:46:40
+		Location:	46.96805 10.87110
+
+(3) - 53,2 km Kaunergrat
+	DRI4
+		Images:	872
+		Time:	02.08.2025 11:30:35 until 02.08.2025 14:21:04
+		Duration:	02:50:29
+		Location:	46.98801 10.85921
+
+(4) - Ceremony
+	DRI5
+		Images:	188
+		Time:	02.08.2025 18:07:55 until 02.08.2025 18:24:30
+		Duration:	00:16:35
+		Location:	46.96805 10.87110
+
+(5) - 9,5 km Gletscher
+	DRI2
+		Images:	3595
+		Time:	02.08.2025 06:48:00 until 02.08.2025 11:25:15
+		Duration:	04:37:15
+		Location:	46.92335 10.89560
+
+(6) - 33,0 km STP13a
+	EP1LS1
+		Images:	2317
+		Time:	01.08.2025 21:03:47 until 02.08.2025 16:13:28
+		Duration:	19:09:41
+		Location:	46.91926 10.81832
+
+	EP2
+		Images:	2508
+		Time:	02.08.2025 08:03:58 until 02.08.2025 17:25:11
+		Duration:	09:21:13
+		Location:	46.91926 10.81832
+
+(7) - Start
+	EP1
+		Images:	236
+		Time:	01.08.2025 22:25:37 until 01.08.2025 23:11:30
+		Duration:	00:45:53
+		Location:	46.96805 10.87110
+
+(8) - 22,2 km Sunna Alm
+	KJ1
+		Images:	1827
+		Time:	02.08.2025 02:01:58 until 02.08.2025 11:56:12
+		Duration:	09:54:14
+		Location:	46.96666 10.85060
+
+	NBA1
+		Images:	3016
+		Time:	02.08.2025 01:57:25 until 02.08.2025 12:39:29
+		Duration:	10:42:04
+		Location:	46.96666 10.85060
+
+(9) - Impressions / Pano
+	PANO1

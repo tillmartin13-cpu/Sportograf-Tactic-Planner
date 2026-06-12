@@ -1,0 +1,647 @@
+EventId: 14521
+Spots: 105
+Total Images: 566362
+Time:	06.12.2025 06:20:11 to 06.12.2025 22:23:25
+Duration: 16:03:14
+
+(1) - Farmers Carry
+	GALN1LS1
+		Images:	9463
+		Time:	06.12.2025 07:27:20 until 06.12.2025 21:16:51
+		Duration:	13:49:31
+		Location:	51.50697 0.02623
+
+	GCUP1LS1
+		Images:	7719
+		Time:	06.12.2025 06:20:11 until 06.12.2025 21:25:10
+		Duration:	15:04:59
+		Location:	51.50697 0.02623
+
+(2) - Finish
+	EBKO1
+		Images:	7593
+		Time:	06.12.2025 09:29:50 until 06.12.2025 17:58:47
+		Duration:	08:28:57
+		Location:	51.50697 0.02623
+
+	ECM1
+		Images:	11134
+		Time:	06.12.2025 07:00:52 until 06.12.2025 14:14:40
+		Duration:	07:13:48
+		Location:	51.50697 0.02623
+
+	FJUW4LS1
+		Images:	4717
+		Time:	06.12.2025 07:36:11 until 06.12.2025 20:29:55
+		Duration:	12:53:44
+		Location:	51.50697 0.02623
+
+	FJUW4LS2
+		Images:	6066
+		Time:	06.12.2025 07:36:13 until 06.12.2025 20:33:22
+		Duration:	12:57:09
+		Location:	51.50697 0.02623
+
+	FKMIN1
+		Images:	5012
+		Time:	06.12.2025 14:14:50 until 06.12.2025 17:28:49
+		Duration:	03:13:59
+		Location:	51.50697 0.02623
+
+	GKMIN1
+		Images:	5125
+		Time:	06.12.2025 17:59:28 until 06.12.2025 22:21:45
+		Duration:	04:22:17
+		Location:	51.50697 0.02623
+
+(3) - Hero Wall
+	EDART1
+		Images:	3403
+		Time:	06.12.2025 08:09:36 until 06.12.2025 14:23:53
+		Duration:	06:14:17
+		Location:	51.50697 0.02623
+
+	ELZA1
+		Images:	2823
+		Time:	06.12.2025 07:30:42 until 06.12.2025 14:26:43
+		Duration:	06:56:01
+		Location:	51.50697 0.02623
+
+	ESAL1
+		Images:	2220
+		Time:	06.12.2025 07:32:55 until 06.12.2025 14:20:55
+		Duration:	06:48:00
+		Location:	51.50697 0.02623
+
+	ETOMY1
+		Images:	1610
+		Time:	06.12.2025 07:23:08 until 06.12.2025 14:12:19
+		Duration:	06:49:11
+		Location:	51.50697 0.02623
+
+	GARRM1
+		Images:	1701
+		Time:	06.12.2025 14:28:52 until 06.12.2025 21:39:11
+		Duration:	07:10:19
+		Location:	51.50697 0.02623
+
+	GDAWH1
+		Images:	1749
+		Time:	06.12.2025 14:29:21 until 06.12.2025 22:23:25
+		Duration:	07:54:04
+		Location:	51.50697 0.02623
+
+	GKSTH1
+		Images:	2007
+		Time:	06.12.2025 14:14:28 until 06.12.2025 21:47:15
+		Duration:	07:32:47
+		Location:	51.50697 0.02623
+
+	GYCAN1
+		Images:	2903
+		Time:	06.12.2025 14:23:24 until 06.12.2025 21:46:45
+		Duration:	07:23:21
+		Location:	51.50697 0.02623
+
+(4) - Impressions / Pano
+	EMALV5
+		Images:	131
+		Time:	06.12.2025 07:48:31 until 06.12.2025 07:52:49
+		Duration:	00:04:18
+		Location:	51.50697 0.02623
+
+(5) - Rowing
+	EALN1
+		Images:	4446
+		Time:	06.12.2025 08:37:36 until 06.12.2025 18:02:34
+		Duration:	09:24:58
+		Location:	51.50697 0.02623
+
+	ECMS1
+		Images:	4958
+		Time:	06.12.2025 06:51:25 until 06.12.2025 14:01:42
+		Duration:	07:10:17
+		Location:	51.50697 0.02623
+
+	ECUP1
+		Images:	5179
+		Time:	06.12.2025 09:23:28 until 06.12.2025 17:58:25
+		Duration:	08:34:57
+		Location:	51.50697 0.02623
+
+	EJAKO1
+		Images:	5149
+		Time:	06.12.2025 07:32:45 until 06.12.2025 13:57:45
+		Duration:	06:25:00
+		Location:	51.50697 0.02623
+
+	EJUW1
+		Images:	6453
+		Time:	06.12.2025 06:44:21 until 06.12.2025 17:54:47
+		Duration:	11:10:26
+		Location:	51.50697 0.02623
+
+	EKSTH1
+		Images:	5135
+		Time:	06.12.2025 07:35:44 until 06.12.2025 14:02:39
+		Duration:	06:26:55
+		Location:	51.50697 0.02623
+
+	EMALV1
+		Images:	8132
+		Time:	06.12.2025 09:25:16 until 06.12.2025 18:01:08
+		Duration:	08:35:52
+		Location:	51.50697 0.02623
+
+	EYCAN1
+		Images:	34268
+		Time:	06.12.2025 06:32:45 until 06.12.2025 14:03:39
+		Duration:	07:30:54
+		Location:	51.50697 0.02623
+
+	FAGP1
+		Images:	5862
+		Time:	06.12.2025 14:01:53 until 06.12.2025 21:03:31
+		Duration:	07:01:38
+		Location:	51.50697 0.02623
+
+	FDART1
+		Images:	12895
+		Time:	06.12.2025 14:59:25 until 06.12.2025 20:59:39
+		Duration:	06:00:14
+		Location:	51.50697 0.02623
+
+	FRLW1
+		Images:	11140
+		Time:	06.12.2025 14:05:14 until 06.12.2025 21:08:18
+		Duration:	07:03:04
+		Location:	51.50697 0.02623
+
+	FSHP1
+		Images:	5089
+		Time:	06.12.2025 14:03:53 until 06.12.2025 21:11:57
+		Duration:	07:08:04
+		Location:	51.50697 0.02623
+
+(6) - Run
+	GBKO1LS1
+		Images:	4839
+		Time:	06.12.2025 07:19:53 until 06.12.2025 18:49:32
+		Duration:	11:29:39
+		Location:	51.50697 0.02623
+
+	GBKO1LS2
+		Images:	5645
+		Time:	06.12.2025 07:20:41 until 06.12.2025 19:35:00
+		Duration:	12:14:19
+		Location:	51.50697 0.02623
+
+(7) - Sandbag Lunges
+	EALN2
+		Images:	8693
+		Time:	06.12.2025 09:58:11 until 06.12.2025 18:40:23
+		Duration:	08:42:12
+		Location:	51.50697 0.02623
+
+	ECUP2
+		Images:	4681
+		Time:	06.12.2025 09:58:20 until 06.12.2025 18:38:49
+		Duration:	08:40:29
+		Location:	51.50697 0.02623
+
+	EGUF1
+		Images:	5801
+		Time:	06.12.2025 07:46:30 until 06.12.2025 13:59:53
+		Duration:	06:13:23
+		Location:	51.50697 0.02623
+
+	EJAK1
+		Images:	6613
+		Time:	06.12.2025 06:37:57 until 06.12.2025 14:06:10
+		Duration:	07:28:13
+		Location:	51.50697 0.02623
+
+	EJUW2
+		Images:	8597
+		Time:	06.12.2025 09:59:21 until 06.12.2025 18:37:50
+		Duration:	08:38:29
+		Location:	51.50697 0.02623
+
+	ELRE1
+		Images:	7503
+		Time:	06.12.2025 06:51:46 until 06.12.2025 13:57:33
+		Duration:	07:05:47
+		Location:	51.50697 0.02623
+
+	EMALV2
+		Images:	7860
+		Time:	06.12.2025 09:59:42 until 06.12.2025 18:41:15
+		Duration:	08:41:33
+		Location:	51.50697 0.02623
+
+	EMYN1
+		Images:	5451
+		Time:	06.12.2025 07:44:54 until 06.12.2025 13:56:13
+		Duration:	06:11:19
+		Location:	51.50697 0.02623
+
+	FCMS1
+		Images:	9171
+		Time:	06.12.2025 14:06:37 until 06.12.2025 18:08:27
+		Duration:	04:01:50
+		Location:	51.50697 0.02623
+
+	FDP1
+		Images:	7727
+		Time:	06.12.2025 14:02:05 until 06.12.2025 18:06:43
+		Duration:	04:04:38
+		Location:	51.50697 0.02623
+
+	FSHAK1
+		Images:	6285
+		Time:	06.12.2025 14:06:13 until 06.12.2025 18:09:14
+		Duration:	04:03:01
+		Location:	51.50697 0.02623
+
+	FWIN1
+		Images:	6324
+		Time:	06.12.2025 13:57:19 until 06.12.2025 18:08:41
+		Duration:	04:11:22
+		Location:	51.50697 0.02623
+
+	GCMS1
+		Images:	5342
+		Time:	06.12.2025 18:38:06 until 06.12.2025 21:41:54
+		Duration:	03:03:48
+		Location:	51.50697 0.02623
+
+	GDP1
+		Images:	5637
+		Time:	06.12.2025 18:40:18 until 06.12.2025 21:20:03
+		Duration:	02:39:45
+		Location:	51.50697 0.02623
+
+	GSHAK1
+		Images:	5546
+		Time:	06.12.2025 18:44:34 until 06.12.2025 21:37:37
+		Duration:	02:53:03
+		Location:	51.50697 0.02623
+
+	GWIN1
+		Images:	3390
+		Time:	06.12.2025 18:40:39 until 06.12.2025 21:41:57
+		Duration:	03:01:18
+		Location:	51.50697 0.02623
+
+(8) - SkiErg
+	ECNS1
+		Images:	6304
+		Time:	06.12.2025 07:03:49 until 06.12.2025 13:48:14
+		Duration:	06:44:25
+		Location:	51.50697 0.02623
+
+	ECUP4
+		Images:	801
+		Time:	06.12.2025 13:54:27 until 06.12.2025 14:06:32
+		Duration:	00:12:05
+		Location:	51.50697 0.02623
+
+	EGAT1
+		Images:	10102
+		Time:	06.12.2025 06:38:07 until 06.12.2025 13:57:44
+		Duration:	07:19:37
+		Location:	51.50697 0.02623
+
+	EJOEM1
+		Images:	5510
+		Time:	06.12.2025 06:38:08 until 06.12.2025 13:57:58
+		Duration:	07:19:50
+		Location:	51.50697 0.02623
+
+	EKYY1
+		Images:	14367
+		Time:	06.12.2025 07:03:08 until 06.12.2025 13:45:50
+		Duration:	06:42:42
+		Location:	51.50697 0.02623
+
+	EMIMA1
+		Images:	9439
+		Time:	06.12.2025 07:03:02 until 06.12.2025 13:57:34
+		Duration:	06:54:32
+		Location:	51.50697 0.02623
+
+	EOH1
+		Images:	5517
+		Time:	06.12.2025 06:35:16 until 06.12.2025 13:47:36
+		Duration:	07:12:20
+		Location:	51.50697 0.02623
+
+	FLEBE1
+		Images:	4399
+		Time:	06.12.2025 14:18:05 until 06.12.2025 20:14:28
+		Duration:	05:56:23
+		Location:	51.50697 0.02623
+
+	FLOT1
+		Images:	6259
+		Time:	06.12.2025 14:04:17 until 06.12.2025 20:05:07
+		Duration:	06:00:50
+		Location:	51.50697 0.02623
+
+	FLSI1
+		Images:	5914
+		Time:	06.12.2025 14:15:08 until 06.12.2025 20:06:41
+		Duration:	05:51:33
+		Location:	51.50697 0.02623
+
+	FMAAU1
+		Images:	4717
+		Time:	06.12.2025 14:04:22 until 06.12.2025 20:04:39
+		Duration:	06:00:17
+		Location:	51.50697 0.02623
+
+	FMKH1
+		Images:	2175
+		Time:	06.12.2025 14:08:24 until 06.12.2025 20:06:15
+		Duration:	05:57:51
+		Location:	51.50697 0.02623
+
+	FPLA1
+		Images:	6251
+		Time:	06.12.2025 14:29:47 until 06.12.2025 20:06:19
+		Duration:	05:36:32
+		Location:	51.50697 0.02623
+
+(9) - Sled Pull
+	EALN4
+		Images:	354
+		Time:	06.12.2025 14:11:24 until 06.12.2025 14:21:48
+		Duration:	00:10:24
+		Location:	51.50697 0.02623
+
+	ELEBE1
+		Images:	2322
+		Time:	06.12.2025 07:17:50 until 06.12.2025 14:06:35
+		Duration:	06:48:45
+		Location:	51.50697 0.02623
+
+	ELOT1
+		Images:	6090
+		Time:	06.12.2025 07:07:18 until 06.12.2025 13:56:33
+		Duration:	06:49:15
+		Location:	51.50697 0.02623
+
+	ELSI1
+		Images:	8257
+		Time:	06.12.2025 07:18:03 until 06.12.2025 13:56:17
+		Duration:	06:38:14
+		Location:	51.50697 0.02623
+
+	EMAAU1
+		Images:	5840
+		Time:	06.12.2025 07:06:59 until 06.12.2025 13:55:56
+		Duration:	06:48:57
+		Location:	51.50697 0.02623
+
+	EMALV6
+		Images:	208
+		Time:	06.12.2025 14:17:04 until 06.12.2025 14:21:35
+		Duration:	00:04:31
+		Location:	51.50697 0.02623
+
+	EMKH1
+		Images:	8386
+		Time:	06.12.2025 07:16:39 until 06.12.2025 13:56:40
+		Duration:	06:40:01
+		Location:	51.50697 0.02623
+
+	EPLA1
+		Images:	5160
+		Time:	06.12.2025 07:00:38 until 06.12.2025 14:10:51
+		Duration:	07:10:13
+		Location:	51.50697 0.02623
+
+	FAHO1
+		Images:	6117
+		Time:	06.12.2025 14:21:43 until 06.12.2025 20:36:03
+		Duration:	06:14:20
+		Location:	51.50697 0.02623
+
+	FCNS1
+		Images:	5448
+		Time:	06.12.2025 13:58:30 until 06.12.2025 20:31:43
+		Duration:	06:33:13
+		Location:	51.50697 0.02623
+
+	FJOEM1
+		Images:	7358
+		Time:	06.12.2025 14:10:53 until 06.12.2025 20:34:12
+		Duration:	06:23:19
+		Location:	51.50697 0.02623
+
+	FKYY1
+		Images:	8943
+		Time:	06.12.2025 13:56:48 until 06.12.2025 20:25:40
+		Duration:	06:28:52
+		Location:	51.50697 0.02623
+
+	FLRE1
+		Images:	4462
+		Time:	06.12.2025 14:03:39 until 06.12.2025 20:27:01
+		Duration:	06:23:22
+		Location:	51.50697 0.02623
+
+	FLZA1
+		Images:	3352
+		Time:	06.12.2025 14:47:03 until 06.12.2025 20:23:11
+		Duration:	05:36:08
+		Location:	51.50697 0.02623
+
+(10) - Sled Push
+	EAGP1
+		Images:	3415
+		Time:	06.12.2025 07:10:19 until 06.12.2025 13:55:11
+		Duration:	06:44:52
+		Location:	51.50697 0.02623
+
+	EALN5
+		Images:	277
+		Time:	06.12.2025 13:53:39 until 06.12.2025 14:09:07
+		Duration:	00:15:28
+		Location:	51.50697 0.02623
+
+	EDP1
+		Images:	5817
+		Time:	06.12.2025 07:11:09 until 06.12.2025 13:55:23
+		Duration:	06:44:14
+		Location:	51.50697 0.02623
+
+	EMALV4
+		Images:	472
+		Time:	06.12.2025 07:31:52 until 06.12.2025 14:07:33
+		Duration:	06:35:41
+		Location:	51.50697 0.02623
+
+	ERLW1
+		Images:	5530
+		Time:	06.12.2025 07:11:00 until 06.12.2025 13:55:21
+		Duration:	06:44:21
+		Location:	51.50697 0.02623
+
+	ESHAK1
+		Images:	2780
+		Time:	06.12.2025 07:10:23 until 06.12.2025 13:49:28
+		Duration:	06:39:05
+		Location:	51.50697 0.02623
+
+	ESHP1
+		Images:	4625
+		Time:	06.12.2025 07:12:15 until 06.12.2025 13:56:17
+		Duration:	06:44:02
+		Location:	51.50697 0.02623
+
+	EWIN1
+		Images:	4105
+		Time:	06.12.2025 06:48:54 until 06.12.2025 13:46:11
+		Duration:	06:57:17
+		Location:	51.50697 0.02623
+
+	FGUF1
+		Images:	2698
+		Time:	06.12.2025 14:07:04 until 06.12.2025 20:24:14
+		Duration:	06:17:10
+		Location:	51.50697 0.02623
+
+	FJAK1
+		Images:	4131
+		Time:	06.12.2025 14:16:42 until 06.12.2025 20:16:15
+		Duration:	05:59:33
+		Location:	51.50697 0.02623
+
+	FJAKO1
+		Images:	3135
+		Time:	06.12.2025 14:12:49 until 06.12.2025 20:16:44
+		Duration:	06:03:55
+		Location:	51.50697 0.02623
+
+	FMIMA1
+		Images:	5314
+		Time:	06.12.2025 14:02:11 until 06.12.2025 20:17:59
+		Duration:	06:15:48
+		Location:	51.50697 0.02623
+
+	FMYN1
+		Images:	1522
+		Time:	06.12.2025 14:15:20 until 06.12.2025 20:18:28
+		Duration:	06:03:08
+		Location:	51.50697 0.02623
+
+	FOH1
+		Images:	2511
+		Time:	06.12.2025 13:57:20 until 06.12.2025 20:19:24
+		Duration:	06:22:04
+		Location:	51.50697 0.02623
+
+(11) - Wall Balls
+	EAHO1
+		Images:	4151
+		Time:	06.12.2025 07:12:58 until 06.12.2025 14:08:17
+		Duration:	06:55:19
+		Location:	51.50697 0.02623
+
+	EALN3
+		Images:	4280
+		Time:	06.12.2025 10:42:44 until 06.12.2025 19:20:03
+		Duration:	08:37:19
+		Location:	51.50697 0.02623
+
+	EARRM1
+		Images:	8116
+		Time:	06.12.2025 07:03:30 until 06.12.2025 14:22:30
+		Duration:	07:19:00
+		Location:	51.50697 0.02623
+
+	EBKO2
+		Images:	100
+		Time:	06.12.2025 12:30:38 until 06.12.2025 12:34:16
+		Duration:	00:03:38
+		Location:	51.50697 0.02623
+
+	ECUP3
+		Images:	3240
+		Time:	06.12.2025 10:37:09 until 06.12.2025 19:19:51
+		Duration:	08:42:42
+		Location:	51.50697 0.02623
+
+	EDAWH1
+		Images:	3525
+		Time:	06.12.2025 07:27:04 until 06.12.2025 14:02:19
+		Duration:	06:35:15
+		Location:	51.50697 0.02623
+
+	EJUW3
+		Images:	6325
+		Time:	06.12.2025 10:40:13 until 06.12.2025 19:19:10
+		Duration:	08:38:57
+		Location:	51.50697 0.02623
+
+	EKMIN1
+		Images:	6166
+		Time:	06.12.2025 06:48:34 until 06.12.2025 14:11:28
+		Duration:	07:22:54
+		Location:	51.50697 0.02623
+
+	EMALV3
+		Images:	4556
+		Time:	06.12.2025 10:41:49 until 06.12.2025 19:21:48
+		Duration:	08:39:59
+		Location:	51.50697 0.02623
+
+	FCM1
+		Images:	6284
+		Time:	06.12.2025 14:21:00 until 06.12.2025 18:41:44
+		Duration:	04:20:44
+		Location:	51.50697 0.02623
+
+	FGAT1
+		Images:	5091
+		Time:	06.12.2025 14:13:21 until 06.12.2025 18:49:49
+		Duration:	04:36:28
+		Location:	51.50697 0.02623
+
+	FSAL1
+		Images:	2667
+		Time:	06.12.2025 14:32:03 until 06.12.2025 18:41:19
+		Duration:	04:09:16
+		Location:	51.50697 0.02623
+
+	FTOMY1
+		Images:	4193
+		Time:	06.12.2025 14:23:27 until 06.12.2025 18:49:26
+		Duration:	04:25:59
+		Location:	51.50697 0.02623
+
+	GCM1
+		Images:	3057
+		Time:	06.12.2025 19:19:47 until 06.12.2025 21:42:53
+		Duration:	02:23:06
+		Location:	51.50697 0.02623
+
+	GGAT1
+		Images:	2347
+		Time:	06.12.2025 19:32:53 until 06.12.2025 22:06:22
+		Duration:	02:33:29
+		Location:	51.50697 0.02623
+
+	GSAL1
+		Images:	1217
+		Time:	06.12.2025 19:19:18 until 06.12.2025 21:40:19
+		Duration:	02:21:01
+		Location:	51.50697 0.02623
+
+	GTOMY1
+		Images:	1476
+		Time:	06.12.2025 19:32:31 until 06.12.2025 21:11:12
+		Duration:	01:38:41
+		Location:	51.50697 0.02623
+

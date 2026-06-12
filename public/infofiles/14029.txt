@@ -1,0 +1,211 @@
+EventId: 14029
+Spots: 32
+Total Images: 210137
+Time:	16.07.2025 13:41:48 to 16.08.2025 18:14:29
+Duration: 31.04:32:41
+
+(1) - Obstacle 27 Speed Slide
+	ALN1
+		Images:	9950
+		Time:	16.08.2025 11:14:31 until 16.08.2025 17:46:53
+		Duration:	06:32:22
+		Location:	51.87308 9.65780
+
+	ALN1LS2
+		Images:	1040
+		Time:	16.08.2025 10:22:01 until 16.08.2025 17:33:38
+		Duration:	07:11:37
+		Location:	51.87308 9.65780
+
+	ALN1LS1
+		Images:	1155
+		Time:	16.08.2025 10:20:07 until 16.08.2025 17:33:12
+		Duration:	07:13:05
+		Location:	51.87308 9.65780
+
+(2) - Obstacle 26 Burning Bridge
+	ALN2LS2
+		Images:	4525
+		Time:	16.08.2025 10:41:44 until 16.08.2025 17:59:32
+		Duration:	07:17:48
+		Location:	51.87388 9.65729
+
+	ALN2LS1
+		Images:	4997
+		Time:	16.08.2025 10:37:36 until 16.08.2025 17:51:41
+		Duration:	07:14:05
+		Location:	51.87388 9.65729
+
+(3) - Obstacle 8 Rotten River
+	BENL1
+		Images:	7034
+		Time:	16.08.2025 10:04:05 until 16.08.2025 16:32:00
+		Duration:	06:27:55
+		Location:	51.87525 9.64709
+
+	MW2
+		Images:	8456
+		Time:	16.08.2025 12:04:54 until 16.08.2025 16:31:55
+		Duration:	04:27:01
+		Location:	51.87525 9.64709
+
+(4) - Obstacle 6 Barwire Battle
+	DPH1
+		Images:	13047
+		Time:	16.07.2025 13:41:48 until 16.08.2025 16:08:06
+		Duration:	31.02:26:18
+		Location:	51.87371 9.66212
+
+	KSA1
+		Images:	14959
+		Time:	16.08.2025 09:57:23 until 16.08.2025 16:08:55
+		Duration:	06:11:32
+		Location:	51.87371 9.66212
+
+(5) - Start
+	DRI1
+		Images:	1079
+		Time:	16.08.2025 09:31:54 until 16.08.2025 15:31:53
+		Duration:	05:59:59
+		Location:	51.87470 9.64863
+
+	DRI1LS1
+		Images:	7043
+		Time:	16.08.2025 09:04:18 until 16.08.2025 18:14:29
+		Duration:	09:10:11
+		Location:	51.87470 9.64863
+
+	DRI1DRONE1
+		Images:	34
+		Time:	16.08.2025 09:37:48 until 16.08.2025 15:10:16
+		Duration:	05:32:28
+		Location:	51.87470 9.64863
+
+(6) - Obstacle 22 Clumsy Cliffhanger
+	DRI2
+		Images:	1857
+		Time:	16.08.2025 14:10:29 until 16.08.2025 14:46:51
+		Duration:	00:36:22
+		Location:	51.87751 9.65711
+
+	MIV1LS1
+		Images:	3192
+		Time:	16.08.2025 10:19:30 until 16.08.2025 17:24:02
+		Duration:	07:04:32
+		Location:	51.87751 9.65711
+
+	MIV1
+		Images:	18112
+		Time:	16.08.2025 10:45:02 until 16.08.2025 17:19:44
+		Duration:	06:34:42
+		Location:	51.87751 9.65711
+
+	MW1
+		Images:	1257
+		Time:	15.08.2025 23:23:39 until 16.08.2025 11:49:07
+		Duration:	12:25:28
+		Location:	51.87751 9.65711
+
+	MW1LS2
+		Images:	2871
+		Time:	15.08.2025 23:28:07 until 16.08.2025 16:41:52
+		Duration:	17:13:45
+		Location:	51.87751 9.65711
+
+	MW1LS1
+		Images:	3016
+		Time:	15.08.2025 23:33:19 until 16.08.2025 16:41:51
+		Duration:	17:08:32
+		Location:	51.87751 9.65711
+
+(7) - Herotent
+	MBEN1
+		Images:	1870
+		Time:	16.08.2025 10:18:03 until 16.08.2025 18:03:20
+		Duration:	07:45:17
+		Location:	51.87470 9.64863
+
+	RA1
+		Images:	6363
+		Time:	16.08.2025 09:31:23 until 16.08.2025 18:06:16
+		Duration:	08:34:53
+		Location:	51.87470 9.64863
+
+(8) - Finish
+	MBEN1LS1
+		Images:	3442
+		Time:	16.08.2025 09:07:46 until 16.08.2025 18:05:30
+		Duration:	08:57:44
+		Location:	51.87470 9.64863
+
+	VL1
+		Images:	17300
+		Time:	16.08.2025 09:11:14 until 16.08.2025 18:05:41
+		Duration:	08:54:27
+		Location:	51.87470 9.64863
+
+(9) - Obstacle 5 Crew Carry
+	NWO1
+		Images:	5906
+		Time:	16.08.2025 10:29:26 until 16.08.2025 16:02:21
+		Duration:	05:32:55
+		Location:	51.87237 9.65935
+
+	NWO1LS2
+		Images:	1050
+		Time:	16.08.2025 10:10:19 until 16.08.2025 15:19:22
+		Duration:	05:09:03
+		Location:	51.87237 9.65935
+
+	NWO1LS1
+		Images:	2578
+		Time:	16.08.2025 10:16:25 until 16.08.2025 16:06:08
+		Duration:	05:49:43
+		Location:	51.87237 9.65935
+
+(10) - Obstacle 7 Freak Froster
+	OT1
+		Images:	17132
+		Time:	16.08.2025 10:00:07 until 16.08.2025 16:17:27
+		Duration:	06:17:20
+		Location:	51.87553 9.65831
+
+	OT1LS1
+		Images:	4814
+		Time:	16.08.2025 09:40:22 until 16.08.2025 16:18:01
+		Duration:	06:37:39
+		Location:	51.87553 9.65831
+
+	ADHA1
+		Images:	12446
+		Time:	16.08.2025 10:00:11 until 16.08.2025 16:16:31
+		Duration:	06:16:20
+		Location:	51.87553 9.65831
+
+(11) - 0,1 km before finish
+	RA1LS2
+		Images:	5688
+		Time:	16.08.2025 09:08:41 until 16.08.2025 18:04:16
+		Duration:	08:55:35
+		Location:	51.87470 9.64863
+
+	RA1LS1
+		Images:	5101
+		Time:	16.08.2025 09:08:42 until 16.08.2025 18:05:00
+		Duration:	08:56:18
+		Location:	51.87470 9.64863
+
+(12) - Obstacle 20 Rapid Rings
+	STL1
+		Images:	6254
+		Time:	16.08.2025 10:30:46 until 16.08.2025 16:58:27
+		Duration:	06:27:41
+		Location:	51.87732 9.64900
+
+(13) - Obstacle 11 Muddy Maniacs
+	NBA1
+		Images:	16569
+		Time:	16.08.2025 10:02:40 until 16.08.2025 17:01:17
+		Duration:	06:58:37
+		Location:	51.87665 9.65489
+

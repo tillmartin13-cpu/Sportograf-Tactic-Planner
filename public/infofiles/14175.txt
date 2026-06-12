@@ -1,0 +1,111 @@
+EventId: 14175
+Spots: 17
+Total Images: 26906
+Time:	08.08.2025 21:04:50 to 09.08.2025 16:36:39
+Duration: 19:31:49
+
+(1) - Start
+	PBO1
+		Images:	142
+		Time:	08.08.2025 21:04:50 until 09.08.2025 08:02:53
+		Duration:	10:58:03
+		Location:	50.82918 4.19435
+
+(2) - 9,8km (170km); 9,8km (130km); 9,8km (85km); 9,8km (60km)
+	TOG1
+		Images:	2004
+		Time:	09.08.2025 07:49:54 until 09.08.2025 09:24:52
+		Duration:	01:34:58
+		Location:	50.78636 4.10530
+
+	TOG1LS1
+		Images:	582
+		Time:	09.08.2025 07:30:32 until 09.08.2025 09:25:58
+		Duration:	01:55:26
+		Location:	50.78636 4.10530
+
+	TOG1LS2
+		Images:	651
+		Time:	09.08.2025 07:35:56 until 09.08.2025 09:25:34
+		Duration:	01:49:38
+		Location:	50.78636 4.10530
+
+(3) - 10,1km (170km); 10,1km (130km); 10,1km (85km); 10,1km (60km)
+	NWO1
+		Images:	1322
+		Time:	09.08.2025 07:50:57 until 09.08.2025 09:22:16
+		Duration:	01:31:19
+		Location:	50.78599 4.10074
+
+	NWO1LS1
+		Images:	609
+		Time:	09.08.2025 07:44:29 until 09.08.2025 09:26:25
+		Duration:	01:41:56
+		Location:	50.78599 4.10074
+
+	NWO1LS2
+		Images:	256
+		Time:	09.08.2025 07:44:54 until 09.08.2025 09:07:27
+		Duration:	01:22:33
+		Location:	50.78599 4.10074
+
+(4) - 128,53km (170km); 87,64km (130km); 40,84km (85km)
+	PBO2
+		Images:	4403
+		Time:	09.08.2025 09:01:59 until 09.08.2025 14:48:11
+		Duration:	05:46:12
+		Location:	50.77298 3.89065
+
+(5) - 142,61km (170km); 101,72km (130km); 54,92km (85km); 29,73km (60km)
+	NWO2
+		Images:	8766
+		Time:	09.08.2025 10:21:58 until 09.08.2025 15:31:43
+		Duration:	05:09:45
+		Location:	50.76360 4.03052
+
+	NWO2LS1
+		Images:	303
+		Time:	09.08.2025 10:12:13 until 09.08.2025 11:29:48
+		Duration:	01:17:35
+		Location:	50.76360 4.03052
+
+	NWO2LS2
+		Images:	354
+		Time:	09.08.2025 10:03:53 until 09.08.2025 11:38:49
+		Duration:	01:34:56
+		Location:	50.76360 4.03052
+
+(6) - 143,83km (170km); 102,94km (130km); 56,14km (85km); 30,85km (60km)
+	TOG2
+		Images:	4358
+		Time:	09.08.2025 10:13:55 until 09.08.2025 15:31:11
+		Duration:	05:17:16
+		Location:	50.77269 4.03158
+
+	TOG2LS1
+		Images:	1502
+		Time:	09.08.2025 10:05:25 until 09.08.2025 15:31:10
+		Duration:	05:25:45
+		Location:	50.77269 4.03158
+
+	TOG2LS2
+		Images:	1525
+		Time:	09.08.2025 10:07:33 until 09.08.2025 15:31:11
+		Duration:	05:23:38
+		Location:	50.77269 4.03158
+
+(7) - Impressions / Pano
+	TOG2DRONE1
+		Images:	34
+		Time:	09.08.2025 08:39:46 until 09.08.2025 15:16:59
+		Duration:	06:37:13
+		Location:	50.77269 4.03158
+
+	PANO1
+(8) - 164,5km (170km); 123,61km (130km); 76,81km (85km); 51,51km (60km)
+	PBO3
+		Images:	95
+		Time:	09.08.2025 15:42:06 until 09.08.2025 16:36:39
+		Duration:	00:54:33
+		Location:	50.86300 4.20325
+

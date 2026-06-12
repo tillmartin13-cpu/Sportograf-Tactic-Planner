@@ -1,0 +1,53 @@
+EventId: 14231
+Spots: 7
+Total Images: 14668
+Time:	01.01.0001 23:00:00 to 18.01.2025 11:40:12
+Duration: 739267.12:40:12
+
+(1) - Start
+	LKE1
+		Images:	3184
+		Time:	18.01.2025 07:51:46 until 18.01.2025 09:37:20
+		Duration:	01:45:34
+		Location:	47.20197 10.16680
+
+(2) - Trittalpe
+	PKA1
+		Images:	4716
+		Time:	17.01.2025 18:00:13 until 18.01.2025 10:37:50
+		Duration:	16:37:37
+		Location:	47.17472 10.17327
+
+(3) - Balmengrat
+	JGU1
+		Images:	2192
+		Time:	18.01.2025 07:00:17 until 18.01.2025 10:33:11
+		Duration:	03:32:54
+		Location:	47.21069 10.10786
+
+(4) - Petersboden
+	SAMS1
+		Images:	1380
+		Time:	17.01.2025 16:54:40 until 18.01.2025 10:33:41
+		Duration:	17:39:01
+		Location:	47.21117 10.12272
+
+(5) - Finish
+	COK1
+		Images:	1411
+		Time:	17.01.2025 17:52:20 until 18.01.2025 11:40:12
+		Duration:	17:47:52
+		Location:	47.21216 10.13691
+
+	COK1LS1
+		Images:	1777
+		Time:	17.01.2025 17:58:02 until 18.01.2025 10:33:34
+		Duration:	16:35:32
+		Location:	47.21216 10.13691
+
+	COK1DRONE1
+		Images:	8
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	47.21216 10.13691
+

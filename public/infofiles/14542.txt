@@ -1,0 +1,15 @@
+EventId: 14542
+Spots: 2
+Total Images: 1110
+Time:	29.11.2025 02:15:24 to 29.11.2025 05:17:25
+Duration: 03:02:01
+
+(1) - Impressions / Pano
+	PANO1
+(2) - none
+	ZZZ1
+		Images:	1110
+		Time:	29.11.2025 02:15:24 until 29.11.2025 05:17:25
+		Duration:	03:02:01
+		Location:	NULL NULL
+

@@ -1,0 +1,145 @@
+EventId: 13986
+Spots: 21
+Total Images: 149106
+Time:	19.07.2025 06:12:21 to 19.07.2025 18:56:43
+Duration: 12:44:22
+
+(1) - Crew Carry
+	AFRE1
+		Images:	9506
+		Time:	19.07.2025 09:29:05 until 19.07.2025 17:45:52
+		Duration:	08:16:47
+		Location:	48.33211 11.89928
+
+	AFRE1LS1
+		Images:	434
+		Time:	19.07.2025 09:37:33 until 19.07.2025 16:32:46
+		Duration:	06:55:13
+		Location:	48.33207 11.89945
+
+(2) - Rapid Rings
+	DASA1
+		Images:	12460
+		Time:	19.07.2025 09:08:06 until 19.07.2025 17:38:54
+		Duration:	08:30:48
+		Location:	48.33874 11.91602
+
+(3) - Clumsy Cliffhanger
+	HAWI1
+		Images:	12274
+		Time:	19.07.2025 08:13:51 until 19.07.2025 18:09:51
+		Duration:	09:56:00
+		Location:	48.32563 11.91360
+
+	LIMA1
+		Images:	9039
+		Time:	19.07.2025 08:08:48 until 19.07.2025 18:09:35
+		Duration:	10:00:47
+		Location:	48.32563 11.91360
+
+(4) - Speedslide
+	NJO2LS1
+		Images:	589
+		Time:	19.07.2025 09:09:29 until 19.07.2025 13:24:29
+		Duration:	04:15:00
+		Location:	48.32617 11.91172
+
+(5) - Impressions / Pano
+	NJO2DRONE1
+		Images:	30
+		Time:	19.07.2025 13:10:31 until 19.07.2025 15:44:15
+		Duration:	02:33:44
+		Location:	48.32617 11.91172
+
+(6) - Sporty Spider
+	KSZ1
+		Images:	4626
+		Time:	19.07.2025 09:26:27 until 19.07.2025 13:15:41
+		Duration:	03:49:14
+		Location:	48.32005 11.90519
+
+(7) - Herotent
+	KSZ2
+		Images:	2147
+		Time:	19.07.2025 13:36:02 until 19.07.2025 18:50:06
+		Duration:	05:14:04
+		Location:	48.31843 11.90926
+
+	JUH1
+		Images:	3535
+		Time:	19.07.2025 09:53:53 until 19.07.2025 18:41:42
+		Duration:	08:47:49
+		Location:	48.31843 11.90926
+
+(8) - Muddy Maniacs
+	MIKR1
+		Images:	16867
+		Time:	19.07.2025 08:51:10 until 19.07.2025 18:03:29
+		Duration:	09:12:19
+		Location:	48.32759 11.9108
+
+(9) - Freak Froster
+	MIW1
+		Images:	13279
+		Time:	19.07.2025 09:46:33 until 19.07.2025 18:26:24
+		Duration:	08:39:51
+		Location:	48.32445 11.91166
+
+	PRMI1
+		Images:	6705
+		Time:	19.07.2025 08:15:51 until 19.07.2025 18:26:22
+		Duration:	10:10:31
+		Location:	48.32445 11.91166
+
+(10) - Barbwire Battle
+	PGE1
+		Images:	15572
+		Time:	19.07.2025 06:12:21 until 19.07.2025 18:10:59
+		Duration:	11:58:38
+		Location:	48.32607 11.91026
+
+	SALE1
+		Images:	5996
+		Time:	19.07.2025 08:14:23 until 19.07.2025 18:25:07
+		Duration:	10:10:44
+		Location:	48.32607 11.91026
+
+(11) - Start
+	NJO1
+		Images:	153
+		Time:	19.07.2025 15:01:39 until 19.07.2025 15:58:15
+		Duration:	00:56:36
+		Location:	48.31832 11.90765
+
+(12) - Rotten River
+	IH1
+		Images:	13763
+		Time:	19.07.2025 09:18:16 until 19.07.2025 18:23:14
+		Duration:	09:04:58
+		Location:	48.32410 11.91179
+
+	WPO1
+		Images:	6384
+		Time:	19.07.2025 07:49:34 until 19.07.2025 18:24:11
+		Duration:	10:34:37
+		Location:	48.32410 11.91179
+
+(13) - Finish
+	NJO1LS1
+		Images:	4324
+		Time:	19.07.2025 10:25:56 until 19.07.2025 18:50:30
+		Duration:	08:24:34
+		Location:	48.31843 11.90926
+
+	NJO1LS2
+		Images:	3329
+		Time:	19.07.2025 10:14:06 until 19.07.2025 18:56:43
+		Duration:	08:42:37
+		Location:	48.31843 11.90926
+
+	NAS1
+		Images:	8094
+		Time:	19.07.2025 09:01:15 until 19.07.2025 17:22:27
+		Duration:	08:21:12
+		Location:	48.31843 11.90926
+

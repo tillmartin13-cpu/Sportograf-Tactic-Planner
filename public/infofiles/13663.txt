@@ -1,0 +1,67 @@
+EventId: 13663
+Spots: 10
+Total Images: 32389
+Time:	08.03.2025 22:02:28 to 10.03.2025 11:16:26
+Duration: 1.13:13:58
+
+(1) - 14,0 km Maas
+	BAR1
+		Images:	3675
+		Time:	08.03.2025 22:02:28 until 09.03.2025 10:36:33
+		Duration:	12:34:05
+		Location:	50.30262 4.89543
+
+	BAR1LS1
+		Images:	1888
+		Time:	08.03.2025 22:06:28 until 09.03.2025 10:37:13
+		Duration:	12:30:45
+		Location:	50.30262 4.89543
+
+(2) - Start
+	BC1
+		Images:	76
+		Time:	09.03.2025 06:52:44 until 09.03.2025 08:05:17
+		Duration:	01:12:33
+		Location:	50.30078 4.76811
+
+(3) - 8,0 km Railway
+	BC2
+		Images:	3471
+		Time:	09.03.2025 08:23:30 until 09.03.2025 09:41:42
+		Duration:	01:18:12
+		Location:	50.31181 4.83277
+
+(4) - Finish
+	DIK1
+		Images:	6451
+		Time:	09.03.2025 08:11:09 until 09.03.2025 11:48:35
+		Duration:	03:37:26
+		Location:	50.25337 4.91553
+
+(5) - Impressions / Pano
+	PANO1
+(6) - 19,3 km Collégiale Notre-Dame
+	DRI1
+		Images:	8870
+		Time:	09.03.2025 08:42:08 until 09.03.2025 11:28:19
+		Duration:	02:46:11
+		Location:	50.26032 4.912
+
+	DRI1LS2
+		Images:	6345
+		Time:	10.03.2025 07:44:05 until 10.03.2025 11:16:26
+		Duration:	03:32:21
+		Location:	50.26032 4.912
+
+	DRI1LS1
+		Images:	1605
+		Time:	09.03.2025 09:12:45 until 09.03.2025 11:10:33
+		Duration:	01:57:48
+		Location:	50.26032 4.912
+
+	DRI1DRONE1
+		Images:	8
+		Time:	09.03.2025 06:00:49 until 09.03.2025 10:07:20
+		Duration:	04:06:31
+		Location:	50.26032 4.912
+

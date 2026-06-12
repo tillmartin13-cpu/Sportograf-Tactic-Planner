@@ -1,0 +1,107 @@
+EventId: 13699
+Spots: 16
+Total Images: 19734
+Time:	05.07.2025 04:43:46 to 06.07.2025 15:05:51
+Duration: 1.10:22:05
+
+(1) - Saturday Morning
+	LULE1
+		Images:	4703
+		Time:	05.07.2025 04:43:46 until 05.07.2025 12:56:36
+		Duration:	08:12:50
+		Location:	47.10131 9.72095
+
+	LULE1LS1
+		Images:	894
+		Time:	05.07.2025 07:18:59 until 05.07.2025 11:42:36
+		Duration:	04:23:37
+		Location:	47.10352 9.71807
+
+	LULE1LS2
+		Images:	440
+		Time:	05.07.2025 11:43:51 until 05.07.2025 13:39:46
+		Duration:	01:55:55
+		Location:	47.10148 9.71993
+
+	LULE2LS2
+		Images:	746
+		Time:	05.07.2025 20:06:26 until 06.07.2025 11:33:03
+		Duration:	15:26:37
+		Location:	47.10148 9.71993
+
+	RSA1
+		Images:	1515
+		Time:	05.07.2025 04:49:46 until 05.07.2025 12:09:39
+		Duration:	07:19:53
+		Location:	47.10104 9.72139
+
+	RSA1LS1
+		Images:	208
+		Time:	05.07.2025 05:58:59 until 05.07.2025 09:54:34
+		Duration:	03:55:35
+		Location:	47.10344 9.71871
+
+	RSA1LS2
+		Images:	1513
+		Time:	05.07.2025 10:07:35 until 05.07.2025 20:02:24
+		Duration:	09:54:49
+		Location:	47.10087 9.72165
+
+(2) - Saturday Afternoon
+	LULE2
+		Images:	1928
+		Time:	05.07.2025 12:56:42 until 05.07.2025 17:53:49
+		Duration:	04:57:07
+		Location:	47.09841 9.71863
+
+(3) - Saturday Afetrnoon
+	RSA2
+		Images:	2245
+		Time:	05.07.2025 12:09:45 until 05.07.2025 21:09:59
+		Duration:	09:00:14
+		Location:	47.09760 9.72070
+
+	RSA2LS1
+		Images:	534
+		Time:	05.07.2025 20:03:46 until 05.07.2025 23:17:38
+		Duration:	03:13:52
+		Location:	47.09760 9.72070
+
+	LULE2LS1
+		Images:	670
+		Time:	05.07.2025 13:56:27 until 05.07.2025 18:46:02
+		Duration:	04:49:35
+		Location:	47.09760 9.72070
+
+(4) - Sunday
+	LULE3
+		Images:	1381
+		Time:	06.07.2025 09:35:16 until 06.07.2025 12:10:24
+		Duration:	02:35:08
+		Location:	47.10148 9.71993
+
+	LULE3LS1
+		Images:	433
+		Time:	06.07.2025 11:34:58 until 06.07.2025 14:28:53
+		Duration:	02:53:55
+		Location:	47.10148 9.71993
+
+	RSA3
+		Images:	1575
+		Time:	06.07.2025 05:06:56 until 06.07.2025 15:05:51
+		Duration:	09:58:55
+		Location:	47.10148 9.71993
+
+	RSA3LS1
+		Images:	914
+		Time:	06.07.2025 05:06:45 until 06.07.2025 11:57:50
+		Duration:	06:51:05
+		Location:	47.10148 9.71993
+
+(5) - Impressions / Pano
+	RSA1DRONE1
+		Images:	35
+		Time:	05.07.2025 08:58:21 until 06.07.2025 07:45:03
+		Duration:	22:46:42
+		Location:	47.10148 9.71990
+

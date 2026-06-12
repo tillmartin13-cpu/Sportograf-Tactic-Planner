@@ -1,0 +1,188 @@
+EventId: 14271
+Spots: 28
+Total Images: 161372
+Time:	31.12.2012 23:36:02 to 23.06.2025 05:29:43
+Duration: 4556.05:53:41
+
+(1) - Start
+	GUD1
+		Images:	125
+		Time:	22.06.2025 12:07:15 until 22.06.2025 12:28:55
+		Duration:	00:21:40
+		Location:	51.32514 12.35944
+
+(2) - Obstacle 3 Pyramide
+	STM1
+		Images:	12968
+		Time:	22.06.2025 09:20:49 until 22.06.2025 16:32:55
+		Duration:	07:12:06
+		Location:	51.32271 12.36140
+
+(3) - Laufstrecke vor Obstacle 4 Krabbelstrecke
+	HV1LS1
+		Images:	5843
+		Time:	22.06.2025 09:08:48 until 22.06.2025 16:10:41
+		Duration:	07:01:53
+		Location:	51.32313 12.36417
+
+	SBU1LS1
+		Images:	3143
+		Time:	22.06.2025 09:17:05 until 22.06.2025 16:39:21
+		Duration:	07:22:16
+		Location:	51.32502 12.36495
+
+(4) - Obstacle 4 Krabbelstrecke
+	LW1
+		Images:	4926
+		Time:	22.06.2025 09:11:54 until 22.06.2025 16:39:40
+		Duration:	07:27:46
+		Location:	51.32555 12.36520
+
+	SBU1
+		Images:	4681
+		Time:	22.06.2025 09:48:39 until 22.06.2025 16:40:44
+		Duration:	06:52:05
+		Location:	51.32555 12.36520
+
+(5) - Obstacle 5 Piratenplanke
+	CHSA1
+		Images:	6966
+		Time:	22.06.2025 09:22:07 until 22.06.2025 16:42:42
+		Duration:	07:20:35
+		Location:	51.32641 12.36431
+
+(6) - Laufstrecke vor Obstacle 11 Schaumparty
+	VLE1LS1
+		Images:	5041
+		Time:	22.06.2025 10:02:53 until 22.06.2025 17:06:41
+		Duration:	07:03:48
+		Location:	51.32364 12.36473
+
+(7) - Obstacle 11 Schaumparty
+	VLE1
+		Images:	8199
+		Time:	22.06.2025 10:01:19 until 22.06.2025 17:05:40
+		Duration:	07:04:21
+		Location:	51.32397 12.36492
+
+(8) - Obstacle 12 Container Rutsche
+	HV1
+		Images:	12333
+		Time:	22.06.2025 09:21:21 until 22.06.2025 17:09:07
+		Duration:	07:47:46
+		Location:	51.32259 12.36320
+
+(9) - Laufstrecke vor Obstacle 14 Ninja Jump
+	RW1LS1
+		Images:	7175
+		Time:	22.06.2025 09:21:30 until 22.06.2025 17:20:26
+		Duration:	07:58:56
+		Location:	51.32273 12.35814
+
+	RW1LS2
+		Images:	7449
+		Time:	31.12.2012 23:36:02 until 01.01.2013 07:41:09
+		Duration:	08:05:07
+		Location:	51.32273 12.35814
+
+(10) - Obstacle 14 Ninja Jump
+	RW1
+		Images:	18954
+		Time:	22.06.2025 09:48:23 until 22.06.2025 17:21:10
+		Duration:	07:32:47
+		Location:	51.32273 12.35814
+
+(11) - Obstacle 15 Gitterbecken
+	JARI1
+		Images:	5384
+		Time:	22.06.2025 10:11:22 until 22.06.2025 17:26:18
+		Duration:	07:14:56
+		Location:	51.32502 12.35760
+
+	MERO1
+		Images:	9827
+		Time:	22.06.2025 09:12:59 until 22.06.2025 17:26:25
+		Duration:	08:13:26
+		Location:	51.32502 12.35760
+
+(12) - Laufstrecke nach Obstacle 16 Seiltanz
+	MERO1LS1
+		Images:	3933
+		Time:	22.06.2025 21:07:50 until 23.06.2025 05:29:43
+		Duration:	08:21:53
+		Location:	51.32502 12.35760
+
+(13) - Obstacle 17 Kletterwand
+	JOWE1
+		Images:	10650
+		Time:	22.06.2025 09:25:52 until 22.06.2025 17:24:24
+		Duration:	07:58:32
+		Location:	51.32265 12.35849
+
+	KWEI1
+		Images:	8659
+		Time:	22.06.2025 09:25:47 until 22.06.2025 17:31:39
+		Duration:	08:05:52
+		Location:	51.32265 12.35849
+
+(14) - Laufstrecke nach Obstacle 17 Kletterwand
+	JOWE1LS1
+		Images:	2448
+		Time:	22.06.2025 10:15:21 until 22.06.2025 16:25:58
+		Duration:	06:10:37
+		Location:	51.32244 12.35921
+
+(15) - Laufstrecke vor Obstacle 18 Abenteuerbahn
+	STM1LS1
+		Images:	841
+		Time:	22.06.2025 11:21:02 until 22.06.2025 16:42:01
+		Duration:	05:20:59
+		Location:	51.32243 12.36147
+
+(16) - Laufstrecke vor Finish
+	BS1LS1
+		Images:	5208
+		Time:	22.06.2025 09:18:14 until 22.06.2025 17:49:29
+		Duration:	08:31:15
+		Location:	51.32591 12.35888
+
+(17) - Finish
+	MASC1
+		Images:	3206
+		Time:	22.06.2025 08:47:31 until 22.06.2025 17:44:52
+		Duration:	08:57:21
+		Location:	51.32566 12.35891
+
+	GUD1LS1
+		Images:	1985
+		Time:	22.06.2025 09:34:10 until 22.06.2025 18:14:35
+		Duration:	08:40:25
+		Location:	51.32566 12.35891
+
+	GUD1LS2
+		Images:	2038
+		Time:	22.06.2025 09:44:50 until 22.06.2025 18:14:35
+		Duration:	08:29:45
+		Location:	51.32566 12.35891
+
+(18) - Herotent
+	BS1
+		Images:	4906
+		Time:	22.06.2025 09:30:07 until 22.06.2025 17:46:13
+		Duration:	08:16:06
+		Location:	51.32556 12.35893
+
+	HKU1
+		Images:	4471
+		Time:	22.06.2025 08:47:13 until 22.06.2025 17:42:41
+		Duration:	08:55:28
+		Location:	51.32556 12.35893
+
+(19) - Impressions / Pano
+	GUD1DRONE1
+		Images:	13
+		Time:	22.06.2025 11:34:15 until 22.06.2025 11:47:18
+		Duration:	00:13:03
+		Location:	51.32556 12.35893
+
+	PANO1

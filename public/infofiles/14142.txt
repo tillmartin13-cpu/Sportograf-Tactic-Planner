@@ -1,0 +1,129 @@
+EventId: 14142
+Spots: 20
+Total Images: 129340
+Time:	03.05.2025 17:44:00 to 04.05.2025 19:01:48
+Duration: 1.01:17:48
+
+(1) - 6.5 km
+	THL1
+		Images:	13410
+		Time:	04.05.2025 09:29:24 until 04.05.2025 13:26:17
+		Duration:	03:56:53
+		Location:	51.01723 4.29877
+
+	THL1LS2
+		Images:	4740
+		Time:	03.05.2025 17:44:00 until 04.05.2025 13:27:51
+		Duration:	19:43:51
+		Location:	51.01723 4.29877
+
+	THL1DRONE1
+		Images:	24
+		Time:	04.05.2025 11:23:23 until 04.05.2025 16:49:26
+		Duration:	05:26:03
+		Location:	51.01723 4.29877
+
+	THL1LS1
+		Images:	2038
+		Time:	03.05.2025 17:46:04 until 04.05.2025 13:22:27
+		Duration:	19:36:23
+		Location:	51.01723 4.29877
+
+(2) - Impressions / Pano
+	VL1
+		Images:	23
+		Time:	04.05.2025 15:43:40 until 04.05.2025 15:58:39
+		Duration:	00:14:59
+		Location:	51.00045 4.27138
+
+	STL1
+		Images:	18
+		Time:	04.05.2025 15:43:52 until 04.05.2025 16:03:10
+		Duration:	00:19:18
+		Location:	51.00045 4.27138
+
+	KSA1
+		Images:	50
+		Time:	04.05.2025 09:05:36 until 04.05.2025 10:14:08
+		Duration:	01:08:32
+		Location:	51.04154 4.32870
+
+	PANO1
+(3) - 9.5 km Kasteel Diepensteyn
+	VL2
+		Images:	8646
+		Time:	04.05.2025 09:45:49 until 04.05.2025 14:07:49
+		Duration:	04:22:00
+		Location:	51.00045 4.27138
+
+	VL2LS1
+		Images:	2368
+		Time:	04.05.2025 09:51:29 until 04.05.2025 14:19:02
+		Duration:	04:27:33
+		Location:	51.00045 4.27138
+
+	STL2
+		Images:	4834
+		Time:	03.05.2025 21:46:04 until 04.05.2025 14:11:32
+		Duration:	16:25:28
+		Location:	51.00045 4.27138
+
+	STL2LS1
+		Images:	3285
+		Time:	04.05.2025 10:47:24 until 04.05.2025 14:15:16
+		Duration:	03:27:52
+		Location:	51.00045 4.27138
+
+(4) - 10.0 km Brewerie Palm
+	ACCA1
+		Images:	6082
+		Time:	04.05.2025 06:38:29 until 04.05.2025 14:51:15
+		Duration:	08:12:46
+		Location:	50.99634 4.26768
+
+(5) - 10.0 km Brewerei Palm
+	PBO1
+		Images:	5297
+		Time:	03.05.2025 19:25:28 until 04.05.2025 14:22:59
+		Duration:	18:57:31
+		Location:	50.99680 4.26847
+
+(6) - 7.0 km before finish
+	RA1
+		Images:	20731
+		Time:	04.05.2025 09:52:44 until 04.05.2025 17:48:43
+		Duration:	07:55:59
+		Location:	51.03959 4.27044
+
+	RA1LS2
+		Images:	3707
+		Time:	04.05.2025 09:45:40 until 04.05.2025 17:56:04
+		Duration:	08:10:24
+		Location:	51.03959 4.27044
+
+	RA1LS1
+		Images:	3661
+		Time:	04.05.2025 09:46:26 until 04.05.2025 17:55:59
+		Duration:	08:09:33
+		Location:	51.03959 4.27044
+
+(7) - 0.1 km before finish
+	SAMA1
+		Images:	16221
+		Time:	04.05.2025 09:38:31 until 04.05.2025 19:01:48
+		Duration:	09:23:17
+		Location:	51.04135 4.32697
+
+(8) - Finish
+	BENL1
+		Images:	10787
+		Time:	04.05.2025 08:55:34 until 04.05.2025 18:58:26
+		Duration:	10:02:52
+		Location:	51.04154 4.32870
+
+	KSA2
+		Images:	23418
+		Time:	04.05.2025 10:18:47 until 04.05.2025 18:57:51
+		Duration:	08:39:04
+		Location:	51.04154 4.32870
+

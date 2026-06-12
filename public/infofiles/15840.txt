@@ -1,0 +1,116 @@
+EventId: 15840
+Spots: 17
+Total Images: 30347
+Time:	28.06.2024 07:12:47 to 29.06.2025 11:13:52
+Duration: 366.04:01:05
+
+(1) - Start
+	JMP1
+		Images:	184
+		Time:	28.06.2025 07:50:41 until 29.06.2025 09:19:29
+		Duration:	1.01:28:48
+		Location:	39.46085 -0.33190
+
+	OAC1
+		Images:	42
+		Time:	28.06.2025 07:09:20 until 29.06.2025 08:58:55
+		Duration:	1.01:49:35
+		Location:	39.46085 -0.33190
+
+	ASQ1
+		Images:	23
+		Time:	28.06.2024 07:12:47 until 29.06.2024 08:34:02
+		Duration:	1.01:21:15
+		Location:	39.46085 -0.33190
+
+(2) - REMO
+	OAC2
+		Images:	6445
+		Time:	28.06.2025 08:03:56 until 29.06.2025 11:03:29
+		Duration:	1.02:59:33
+		Location:	39.46085 -0.33190
+
+	JMP2
+		Images:	892
+		Time:	28.06.2025 09:23:58 until 29.06.2025 11:13:52
+		Duration:	1.01:49:54
+		Location:	39.46085 -0.33190
+
+(3) - CAJON
+	SVY1
+		Images:	3041
+		Time:	28.06.2025 07:19:58 until 29.06.2025 08:38:51
+		Duration:	1.01:18:53
+		Location:	39.46085 -0.33190
+
+	JMP3
+		Images:	467
+		Time:	28.06.2025 09:55:06 until 28.06.2025 16:12:14
+		Duration:	06:17:08
+		Location:	39.46085 -0.33190
+
+(4) - SKIERG
+	ASQ2
+		Images:	2766
+		Time:	28.06.2024 08:14:07 until 28.06.2024 20:07:00
+		Duration:	11:52:53
+		Location:	39.46085 -0.33190
+
+	JMP4
+		Images:	763
+		Time:	28.06.2025 10:20:49 until 28.06.2025 19:39:15
+		Duration:	09:18:26
+		Location:	39.46085 -0.33190
+
+(5) - FARMERS
+	AMRU1LS1
+		Images:	1805
+		Time:	28.06.2025 07:36:16 until 29.06.2025 08:55:32
+		Duration:	1.01:19:16
+		Location:	39.46085 -0.33190
+
+	JMP1LS1
+		Images:	1323
+		Time:	28.06.2025 07:31:05 until 28.06.2025 20:09:22
+		Duration:	12:38:17
+		Location:	39.46085 -0.33190
+
+(6) - AIR BIKE
+	TGM1
+		Images:	3178
+		Time:	28.06.2025 08:10:36 until 28.06.2025 20:11:47
+		Duration:	12:01:11
+		Location:	39.46085 -0.33190
+
+	JMP5
+		Images:	500
+		Time:	28.06.2025 10:53:43 until 28.06.2025 17:06:53
+		Duration:	06:13:10
+		Location:	39.46085 -0.33190
+
+(7) - TRINEO
+	AMRU1
+		Images:	6068
+		Time:	28.06.2025 07:52:43 until 29.06.2025 08:40:57
+		Duration:	1.00:48:14
+		Location:	39.46085 -0.33190
+
+	JMP6
+		Images:	804
+		Time:	28.06.2025 11:23:37 until 28.06.2025 20:23:13
+		Duration:	08:59:36
+		Location:	39.46085 -0.33190
+
+(8) - Finish
+	TGM1LS1
+		Images:	1050
+		Time:	28.06.2025 07:10:53 until 29.06.2025 08:16:45
+		Duration:	1.01:05:52
+		Location:	39.46085 -0.33190
+
+	TGM1LS2
+		Images:	996
+		Time:	28.06.2025 07:32:06 until 28.06.2025 20:36:41
+		Duration:	13:04:35
+		Location:	39.46085 -0.33190
+

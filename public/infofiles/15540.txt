@@ -1,0 +1,196 @@
+EventId: 15540
+Spots: 30
+Total Images: 141858
+Time:	25.05.2024 06:41:09 to 25.05.2025 16:59:17
+Duration: 365.10:18:08
+
+(1) - Bike - 2.7 km 87 km
+	DTQ1
+		Images:	7689
+		Time:	24.05.2025 19:36:09 until 25.05.2025 13:36:24
+		Duration:	18:00:15
+		Location:	31.73412 121.39222
+
+	DTQ1LS1
+		Images:	2987
+		Time:	25.05.2024 06:41:09 until 25.05.2024 13:40:52
+		Duration:	06:59:43
+		Location:	31.73412 121.39222
+
+	DTQ1LS2
+		Images:	1058
+		Time:	25.05.2025 07:16:31 until 25.05.2025 13:36:29
+		Duration:	06:19:58
+		Location:	31.73412 121.39222
+
+(2) - Swim - Transition zone
+	HALI1
+		Images:	3704
+		Time:	25.05.2025 08:02:13 until 25.05.2025 14:06:48
+		Duration:	06:04:35
+		Location:	31.75789 121.39347
+
+	PNQ2
+		Images:	5779
+		Time:	25.05.2025 08:02:19 until 25.05.2025 09:37:36
+		Duration:	01:35:17
+		Location:	31.75789 121.39347
+
+(3) - Finish
+	HALI2
+		Images:	2223
+		Time:	25.05.2025 14:06:54 until 25.05.2025 16:24:26
+		Duration:	02:17:32
+		Location:	31.75223 121.39052
+
+	NNG2
+		Images:	2902
+		Time:	25.05.2025 11:17:58 until 25.05.2025 13:35:22
+		Duration:	02:17:24
+		Location:	31.75223 121.39052
+
+	NNG2LS1
+		Images:	515
+		Time:	25.05.2025 11:25:44 until 25.05.2025 16:39:23
+		Duration:	05:13:39
+		Location:	31.75223 121.39052
+
+	NNG2LS2
+		Images:	1659
+		Time:	25.05.2025 10:47:49 until 25.05.2025 16:52:57
+		Duration:	06:05:08
+		Location:	31.75223 121.39052
+
+	TDB3
+		Images:	4863
+		Time:	25.05.2025 12:11:04 until 25.05.2025 16:54:26
+		Duration:	04:43:22
+		Location:	31.75223 121.39052
+
+	TDB3LS1
+		Images:	2494
+		Time:	25.05.2025 11:04:20 until 25.05.2025 16:59:17
+		Duration:	05:54:57
+		Location:	31.75223 121.39052
+
+(4) - Bike - 10.0 km 80 km
+	HOWE1
+		Images:	17129
+		Time:	25.05.2025 08:26:55 until 25.05.2025 12:20:25
+		Duration:	03:53:30
+		Location:	31.70763 121.44063
+
+(5) - Bike - 17.5 km 72.5 km
+	HUIC1
+		Images:	10835
+		Time:	25.05.2025 08:15:15 until 25.05.2025 12:59:19
+		Duration:	04:44:04
+		Location:	31.68018 121.52303
+
+(6) - Swim - Start
+	MOMO1
+		Images:	340
+		Time:	25.05.2025 07:27:14 until 25.05.2025 09:09:17
+		Duration:	01:42:03
+		Location:	31.75952 121.39594
+
+	PNQ1
+		Images:	77
+		Time:	25.05.2025 07:26:51 until 25.05.2025 07:50:49
+		Duration:	00:23:58
+		Location:	31.75952 121.39594
+
+	SUHE1
+		Images:	3901
+		Time:	25.05.2025 07:33:07 until 25.05.2025 11:49:16
+		Duration:	04:16:09
+		Location:	31.75952 121.39594
+
+(7) - Run - 3.0 km 12 km
+	MOMO2
+		Images:	3377
+		Time:	25.05.2025 09:05:25 until 25.05.2025 15:08:12
+		Duration:	06:02:47
+		Location:	31.77204 121.38738
+
+	SUHE2
+		Images:	9563
+		Time:	25.05.2025 11:49:16 until 25.05.2025 14:18:22
+		Duration:	02:29:06
+		Location:	31.77204 121.38738
+
+(8) - Bike - 0.3 km
+	MOMO3
+		Images:	162
+		Time:	25.05.2025 09:17:37 until 25.05.2025 10:04:16
+		Duration:	00:46:39
+		Location:	31.75306 121.39560
+
+	NNG1
+		Images:	5407
+		Time:	25.05.2025 07:38:15 until 25.05.2025 09:43:28
+		Duration:	02:05:13
+		Location:	31.75306 121.39560
+
+	NNG1LS1
+		Images:	2209
+		Time:	25.05.2025 07:46:28 until 25.05.2025 09:45:04
+		Duration:	01:58:36
+		Location:	31.75306 121.39560
+
+(9) - Run - 2.3 km
+	PNQ3
+		Images:	18156
+		Time:	25.05.2025 10:13:48 until 25.05.2025 12:50:16
+		Duration:	02:36:28
+		Location:	31.76887 121.38932
+
+(10) - Run - 7.0 km 18.5 km
+	PNQ4
+		Images:	8748
+		Time:	25.05.2025 12:55:51 until 25.05.2025 14:51:06
+		Duration:	01:55:15
+		Location:	31.76676 121.38201
+
+(11) - Run - 9.0 km 20.5 km
+	PNQ5
+		Images:	795
+		Time:	25.05.2025 14:59:50 until 25.05.2025 15:52:36
+		Duration:	00:52:46
+		Location:	31.75528 121.38990
+
+(12) - Bike - Transition zone
+	TDB1
+		Images:	6049
+		Time:	25.05.2025 07:15:22 until 25.05.2025 10:30:33
+		Duration:	03:15:11
+		Location:	31.75685 121.39601
+
+	TDB1LS1
+		Images:	1094
+		Time:	25.05.2025 08:20:59 until 25.05.2025 09:44:32
+		Duration:	01:23:33
+		Location:	31.75685 121.39601
+
+(13) - Run - 1.5 km
+	TDB2
+		Images:	2635
+		Time:	25.05.2025 10:35:43 until 25.05.2025 12:10:58
+		Duration:	01:35:15
+		Location:	31.76713 121.39752
+
+	TDB2LS1
+		Images:	740
+		Time:	25.05.2025 12:29:55 until 25.05.2025 13:58:17
+		Duration:	01:28:22
+		Location:	31.76713 121.39752
+
+(14) - Bike - 0.0 24 km 66km
+	ZHMI1
+		Images:	14768
+		Time:	25.05.2025 07:39:44 until 25.05.2025 14:15:04
+		Duration:	06:35:20
+		Location:	31.65406 121.56934
+
+(15) - Swim - Impressions / Pano
+	PANO1

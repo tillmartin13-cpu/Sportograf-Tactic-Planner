@@ -1,0 +1,88 @@
+EventId: 14341
+Spots: 12
+Total Images: 111483
+Time:	24.05.2025 05:55:51 to 25.05.2025 07:41:52
+Duration: 1.01:46:01
+
+(1) - 1.8 km
+	AKC2
+		Images:	2957
+		Time:	24.05.2025 06:05:32 until 24.05.2025 08:06:18
+		Duration:	02:00:46
+		Location:	-26.39462 153.07840
+
+(2) - 3.0 km
+	CLK2
+		Images:	102
+		Time:	24.05.2025 07:04:46 until 25.05.2025 06:57:48
+		Duration:	23:53:02
+		Location:	-26.39716 153.07023
+
+(3) - 3.3 km
+	CZH2
+		Images:	3876
+		Time:	24.05.2025 06:27:08 until 24.05.2025 07:43:41
+		Duration:	01:16:33
+		Location:	-26.39716 153.07023
+
+(4) - 7.5 km
+	MEHO1
+		Images:	26322
+		Time:	24.05.2025 06:29:39 until 24.05.2025 12:06:52
+		Duration:	05:37:13
+		Location:	-26.39575 153.06922
+
+(5) - 7.6 km
+	CZH3
+		Images:	5660
+		Time:	24.05.2025 07:47:25 until 24.05.2025 11:33:28
+		Duration:	03:46:03
+		Location:	-26.39570 153.06912
+
+(6) - 8.0 km
+	CLK3
+		Images:	20025
+		Time:	24.05.2025 05:55:51 until 24.05.2025 12:11:18
+		Duration:	06:15:27
+		Location:	-26.39661 153.07084
+
+(7) - 8.3 km
+	LMLR1
+		Images:	19449
+		Time:	24.05.2025 06:45:10 until 24.05.2025 11:58:44
+		Duration:	05:13:34
+		Location:	-26.39442 153.07580
+
+(8) - 9.3 km
+	AKC3
+		Images:	5428
+		Time:	24.05.2025 08:10:43 until 24.05.2025 11:18:59
+		Duration:	03:08:16
+		Location:	-26.39270 153.07877
+
+(9) - Finish
+	CHRO3
+		Images:	14121
+		Time:	24.05.2025 06:04:23 until 24.05.2025 12:37:56
+		Duration:	06:33:33
+		Location:	-26.38866 153.09050
+
+	MTS2
+		Images:	5221
+		Time:	24.05.2025 07:20:40 until 24.05.2025 16:22:59
+		Duration:	09:02:19
+		Location:	-26.38866 153.09050
+
+(10) - Start
+	CHRO2
+		Images:	2810
+		Time:	24.05.2025 06:27:47 until 24.05.2025 06:53:07
+		Duration:	00:25:20
+		Location:	-26.38772 153.08918
+
+	MTS1
+		Images:	5501
+		Time:	24.05.2025 06:00:24 until 24.05.2025 16:22:11
+		Duration:	10:21:47
+		Location:	-26.38772 153.08918
+

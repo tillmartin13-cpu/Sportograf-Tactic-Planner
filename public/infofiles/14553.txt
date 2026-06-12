@@ -1,0 +1,141 @@
+EventId: 14553
+Spots: 21
+Total Images: 59464
+Time:	15.03.2025 07:07:27 to 16.03.2025 15:03:27
+Duration: 1.07:56:00
+
+(1) - GENERAL
+	AGP2
+		Images:	120
+		Time:	16.03.2025 07:45:38 until 16.03.2025 08:50:30
+		Duration:	01:04:52
+		Location:	39.57168 2.60399
+
+(2) - ROLLING MUD
+	WRFG1
+		Images:	11069
+		Time:	15.03.2025 07:07:27 until 16.03.2025 13:35:04
+		Duration:	1.06:27:37
+		Location:	39.57844 2.58653
+
+	MPP2
+		Images:	105
+		Time:	16.03.2025 08:39:05 until 16.03.2025 09:34:13
+		Duration:	00:55:08
+		Location:	39.57844 2.58653
+
+(3) - TRENCHES
+	LGG1
+		Images:	4384
+		Time:	15.03.2025 08:08:28 until 16.03.2025 13:41:02
+		Duration:	1.05:32:34
+		Location:	39.57893 2.58388
+
+	MPP1
+		Images:	120
+		Time:	16.03.2025 09:07:37 until 16.03.2025 09:17:06
+		Duration:	00:09:29
+		Location:	39.57893 2.58388
+
+(4) - SAND BAG CARRY
+	MANR1
+		Images:	11556
+		Time:	15.03.2025 09:04:15 until 16.03.2025 14:19:52
+		Duration:	1.05:15:37
+		Location:	39.57557 2.59263
+
+	MANR1LS1
+		Images:	1924
+		Time:	16.03.2025 07:58:25 until 16.03.2025 14:21:53
+		Duration:	06:23:28
+		Location:	39.57557 2.59263
+
+	MPP3
+		Images:	554
+		Time:	15.03.2025 09:37:11 until 16.03.2025 13:19:09
+		Duration:	1.03:41:58
+		Location:	39.57557 2.59263
+
+(5) - BUCKET CARRY
+	ACC1
+		Images:	7359
+		Time:	16.03.2025 07:48:33 until 16.03.2025 14:30:34
+		Duration:	06:42:01
+		Location:	39.57406 2.59647
+
+	ACC1LS2
+		Images:	2368
+		Time:	16.03.2025 07:45:06 until 16.03.2025 14:41:06
+		Duration:	06:56:00
+		Location:	39.57406 2.59647
+
+	ACC1LS1
+		Images:	1941
+		Time:	16.03.2025 08:24:22 until 16.03.2025 14:42:19
+		Duration:	06:17:57
+		Location:	39.57406 2.59647
+
+	MPP4
+		Images:	33
+		Time:	16.03.2025 12:40:31 until 16.03.2025 12:43:26
+		Duration:	00:02:55
+		Location:	39.57406 2.59647
+
+(6) - MULTI RIG
+	AGP1
+		Images:	4248
+		Time:	16.03.2025 08:50:33 until 16.03.2025 14:41:46
+		Duration:	05:51:13
+		Location:	39.57609 2.59641
+
+	MPP5
+		Images:	62
+		Time:	15.03.2025 11:55:28 until 16.03.2025 11:48:28
+		Duration:	23:53:00
+		Location:	39.57609 2.59641
+
+(7) - BARBED WIRE CRAWL
+	FJPH1
+		Images:	3726
+		Time:	15.03.2025 07:49:41 until 16.03.2025 14:52:04
+		Duration:	1.07:02:23
+		Location:	39.57580 2.59658
+
+	MPP6
+		Images:	173
+		Time:	16.03.2025 09:56:28 until 16.03.2025 13:38:17
+		Duration:	03:41:49
+		Location:	39.57580 2.59658
+
+(8) - FIRE JUMP - FINISH
+	FRSA1
+		Images:	4295
+		Time:	16.03.2025 06:45:12 until 16.03.2025 15:01:18
+		Duration:	08:16:06
+		Location:	39.57168 2.60399
+
+	MPP7
+		Images:	536
+		Time:	16.03.2025 08:23:02 until 16.03.2025 12:11:18
+		Duration:	03:48:16
+		Location:	39.57168 2.60399
+
+	MPP7LS2
+		Images:	1559
+		Time:	16.03.2025 07:53:56 until 16.03.2025 15:03:27
+		Duration:	07:09:31
+		Location:	39.57168 2.60399
+
+	MPP7LS1
+		Images:	912
+		Time:	16.03.2025 07:58:50 until 16.03.2025 15:02:43
+		Duration:	07:03:53
+		Location:	39.57168 2.60399
+
+(9) - HERO TENT
+	KKP1
+		Images:	2420
+		Time:	15.03.2025 08:45:55 until 16.03.2025 14:59:12
+		Duration:	1.06:13:17
+		Location:	39.57535 2.59589
+

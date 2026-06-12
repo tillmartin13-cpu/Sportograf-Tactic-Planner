@@ -1,0 +1,146 @@
+EventId: 14221
+Spots: 22
+Total Images: 121284
+Time:	24.08.2025 06:16:35 to 25.08.2025 00:13:50
+Duration: 17:57:15
+
+(1) - Swim - Impressions / Pano
+	PANO1
+(2) - Swim - Start
+	MSAI1
+		Images:	1063
+		Time:	24.08.2025 06:16:35 until 24.08.2025 07:05:20
+		Duration:	00:48:45
+		Location:	46.73973 7.63338
+
+(3) - Swim - Transition
+	JSCH1
+		Images:	5682
+		Time:	24.08.2025 06:36:24 until 24.08.2025 09:41:23
+		Duration:	03:04:59
+		Location:	46.74011 7.62842
+
+	DABI1
+		Images:	4423
+		Time:	24.08.2025 06:24:32 until 24.08.2025 09:41:30
+		Duration:	03:16:58
+		Location:	46.74016 7.62841
+
+(4) - Bike - Transition zone
+	DIG1
+		Images:	4298
+		Time:	24.08.2025 07:03:33 until 24.08.2025 09:41:55
+		Duration:	02:38:22
+		Location:	46.73956 7.62872
+
+	DIG1LS1
+		Images:	1796
+		Time:	24.08.2025 07:19:04 until 24.08.2025 09:31:53
+		Duration:	02:12:49
+		Location:	46.73956 7.62872
+
+	DIG1DRONE1
+		Images:	34
+		Time:	24.08.2025 07:06:05 until 24.08.2025 07:14:10
+		Duration:	00:08:05
+		Location:	46.73956 7.62872
+
+(5) - Bike - 3.4 km / 175.7 km
+	LUJ1
+		Images:	9612
+		Time:	24.08.2025 07:26:02 until 24.08.2025 17:09:45
+		Duration:	09:43:43
+		Location:	46.71332 7.63352
+
+	LUJ1LS1
+		Images:	7391
+		Time:	24.08.2025 07:23:59 until 24.08.2025 17:09:29
+		Duration:	09:45:30
+		Location:	46.71332 7.63352
+
+(6) - Bike - 57.0 km / 147.0 km
+	YS1
+		Images:	7416
+		Time:	24.08.2025 08:53:50 until 24.08.2025 16:09:53
+		Duration:	07:16:03
+		Location:	46.79112 7.40636
+
+(7) - Bike - 59.9 km / 146.9 km
+	YS1LS2
+		Images:	2021
+		Time:	24.08.2025 08:45:06 until 24.08.2025 15:35:27
+		Duration:	06:50:21
+		Location:	46.79027 7.40743
+
+	YS1LS1
+		Images:	4592
+		Time:	24.08.2025 08:45:06 until 24.08.2025 15:56:25
+		Duration:	07:11:19
+		Location:	46.79027 7.40743
+
+(8) - Bike - 64.1 km / 154.0 km
+	AKS1
+		Images:	14600
+		Time:	24.08.2025 08:57:38 until 24.08.2025 16:14:25
+		Duration:	07:16:47
+		Location:	46.79351 7.47629
+
+(9) - Bike - 82.8 km / 172.2 km
+	EVL1
+		Images:	6134
+		Time:	24.08.2025 07:10:46 until 24.08.2025 16:59:48
+		Duration:	09:49:02
+		Location:	46.70368 7.59533
+
+(10) - Bike - Impressions / Pano
+	EVL1DRONE1
+		Images:	6
+		Time:	24.08.2025 07:29:26 until 24.08.2025 13:59:06
+		Duration:	06:29:40
+		Location:	46.70368 7.59533
+
+(11) - Run - 3.8 km / 18.0 km / 32.4 km - Ufer
+	DIG2
+		Images:	10700
+		Time:	24.08.2025 10:42:53 until 24.08.2025 20:52:45
+		Duration:	10:09:52
+		Location:	46.73073 7.62967
+
+	DIG2LS1
+		Images:	4815
+		Time:	24.08.2025 12:01:54 until 24.08.2025 22:12:33
+		Duration:	10:10:39
+		Location:	46.73073 7.62967
+
+(12) - Run - 6.4 km / 20.8 km / 35.0 km - Schloss
+	MSAI2
+		Images:	12724
+		Time:	24.08.2025 12:00:14 until 24.08.2025 22:35:59
+		Duration:	10:35:45
+		Location:	46.74547 7.63736
+
+(13) - Finish
+	DABI2
+		Images:	9001
+		Time:	24.08.2025 14:16:33 until 25.08.2025 00:13:50
+		Duration:	09:57:17
+		Location:	46.74131 7.62882
+
+	LUJ2
+		Images:	672
+		Time:	24.08.2025 20:04:01 until 24.08.2025 21:54:39
+		Duration:	01:50:38
+		Location:	46.74131 7.62882
+
+	DABI2LS1
+		Images:	2091
+		Time:	24.08.2025 14:10:29 until 24.08.2025 23:55:03
+		Duration:	09:44:34
+		Location:	46.74131 7.62882
+
+	JSCH2
+		Images:	12213
+		Time:	24.08.2025 14:06:27 until 24.08.2025 23:55:02
+		Duration:	09:48:35
+		Location:	46.74128 7.62890
+

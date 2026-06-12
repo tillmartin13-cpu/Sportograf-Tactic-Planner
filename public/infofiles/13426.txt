@@ -1,0 +1,97 @@
+EventId: 13426
+Spots: 14
+Total Images: 41002
+Time:	26.07.2025 09:43:35 to 26.07.2025 17:03:44
+Duration: 07:20:09
+
+(1) - Obstacle 3 Rutschpartie
+	CK1
+		Images:	188
+		Time:	26.07.2025 13:12:54 until 26.07.2025 13:15:34
+		Duration:	00:02:40
+		Location:	48.24701 16.38804
+
+	RMA1
+		Images:	3132
+		Time:	26.07.2025 11:44:35 until 26.07.2025 14:21:29
+		Duration:	02:36:54
+		Location:	48.24701 16.38804
+
+(2) - Obstacle 12 Wand4Panier
+	AHU1
+		Images:	6165
+		Time:	26.07.2025 12:21:42 until 26.07.2025 15:47:03
+		Duration:	03:25:21
+		Location:	48.24360 16.39266
+
+(3) - Obstacle 14 BAGJUMP
+	LOMA1
+		Images:	4732
+		Time:	26.07.2025 12:11:25 until 26.07.2025 15:29:14
+		Duration:	03:17:49
+		Location:	48.24664 16.38868
+
+	RMA2
+		Images:	1068
+		Time:	26.07.2025 14:25:28 until 26.07.2025 15:33:33
+		Duration:	01:08:05
+		Location:	48.24664 16.38868
+
+(4) - Obstacle 18 Hupf in Gatsch
+	RIP1
+		Images:	8223
+		Time:	26.07.2025 09:43:35 until 26.07.2025 14:51:16
+		Duration:	05:07:41
+		Location:	48.24690 16.38804
+
+(5) - Obstacle 20 Monkeyland
+	ADCR1
+		Images:	10643
+		Time:	26.07.2025 12:20:52 until 26.07.2025 15:57:42
+		Duration:	03:36:50
+		Location:	48.24690 16.38804
+
+(6) - Finish
+	LOMA2
+		Images:	387
+		Time:	26.07.2025 15:40:53 until 26.07.2025 16:00:05
+		Duration:	00:19:12
+		Location:	48.24725 16.38854
+
+	CK1LS1
+		Images:	1312
+		Time:	26.07.2025 12:53:51 until 26.07.2025 16:02:48
+		Duration:	03:08:57
+		Location:	48.24725 16.38854
+
+	CK1LS2
+		Images:	1074
+		Time:	26.07.2025 12:53:28 until 26.07.2025 15:52:46
+		Duration:	02:59:18
+		Location:	48.24725 16.38854
+
+	CK3
+		Images:	71
+		Time:	26.07.2025 12:59:09 until 26.07.2025 13:00:46
+		Duration:	00:01:37
+		Location:	48.24725 16.38854
+
+	CK1DRONE1
+		Images:	6
+		Time:	26.07.2025 13:26:18 until 26.07.2025 13:58:42
+		Duration:	00:32:24
+		Location:	48.24725 16.38854
+
+	CK2
+		Images:	3455
+		Time:	26.07.2025 13:20:46 until 26.07.2025 15:37:42
+		Duration:	02:16:56
+		Location:	48.24725 16.38854
+
+(7) - Ceremony
+	LOMA3
+		Images:	546
+		Time:	26.07.2025 16:23:08 until 26.07.2025 17:03:44
+		Duration:	00:40:36
+		Location:	48.24725 16.38854
+

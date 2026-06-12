@@ -1,0 +1,80 @@
+EventId: 16695
+Spots: 11
+Total Images: 34866
+Time:	01.01.0001 23:00:00 to 03.05.2025 09:46:53
+Duration: 739372.10:46:53
+
+(1) - Start
+	JHI1
+		Images:	116
+		Time:	03.05.2025 05:07:22 until 03.05.2025 06:23:48
+		Duration:	01:16:26
+		Location:	-25.76760 28.21782
+
+	TDI1
+		Images:	521
+		Time:	01.01.0001 23:00:00 until 03.05.2025 07:22:16
+		Duration:	739372.08:22:16
+		Location:	-25.76760 28.21782
+
+(2) - Party Lane 10km 21km
+	TAZ1
+		Images:	3582
+		Time:	03.05.2025 06:34:59 until 03.05.2025 07:35:16
+		Duration:	01:00:17
+		Location:	-25.77569 28.25280
+
+(3) - Waterpoint Approach 10km
+	MBEL1
+		Images:	4502
+		Time:	03.05.2025 06:21:41 until 03.05.2025 07:51:00
+		Duration:	01:29:19
+		Location:	-25.77675 28.23800
+
+(4) - Dey St. 5km 10km 21km Photographer 1
+	DAFO1
+		Images:	10702
+		Time:	03.05.2025 06:00:16 until 03.05.2025 08:48:27
+		Duration:	02:48:11
+		Location:	-25.76951 28.22719
+
+(5) - Dey St. 5km 10km 21km Photographer 2
+	KVDM1
+		Images:	4158
+		Time:	03.05.2025 06:39:55 until 03.05.2025 08:33:28
+		Duration:	01:53:33
+		Location:	-25.76951 28.22719
+
+(6) - Finish Line Approach 21km
+	MAKE1
+		Images:	5845
+		Time:	03.05.2025 07:18:19 until 03.05.2025 09:14:29
+		Duration:	01:56:10
+		Location:	-25.76482 28.21810
+
+(7) - Finish
+	JHI2
+		Images:	3495
+		Time:	03.05.2025 06:44:59 until 03.05.2025 09:23:20
+		Duration:	02:38:21
+		Location:	-25.76667 28.21357
+
+	TDI2
+		Images:	1349
+		Time:	01.01.0001 23:00:00 until 03.05.2025 09:46:53
+		Duration:	739372.10:46:53
+		Location:	-25.76667 28.21357
+
+	TAZ2
+		Images:	584
+		Time:	03.05.2025 08:43:18 until 03.05.2025 09:09:43
+		Duration:	00:26:25
+		Location:	-25.76667 28.21357
+
+(8) - Impressions / Pano
+	PANO1
+		Images:	12
+		Time:	02.05.2025 11:52:11 until 03.05.2025 06:36:10
+		Duration:	18:43:59
+		Location:	NULL NULL
+

@@ -1,0 +1,214 @@
+EventId: 16162
+Spots: 33
+Total Images: 145725
+Time:	01.01.0001 23:00:00 to 01.11.2025 22:10:54
+Duration: 739554.23:10:54
+
+(1) - Station 1 SKIERG
+	AKS1
+		Images:	9248
+		Time:	01.11.2025 11:18:40 until 01.11.2025 19:26:43
+		Duration:	08:08:03
+		Location:	NULL NULL
+
+	KG1
+		Images:	10966
+		Time:	31.10.2025 13:31:36 until 01.11.2025 19:39:45
+		Duration:	1.06:08:09
+		Location:	NULL NULL
+
+	MBUR1
+		Images:	7439
+		Time:	01.01.0001 23:00:00 until 01.11.2025 19:44:18
+		Duration:	739554.20:44:18
+		Location:	NULL NULL
+
+(2) - Station 2 SLED PUSH
+	LUJ1
+		Images:	10056
+		Time:	01.11.2025 08:57:12 until 01.11.2025 19:53:54
+		Duration:	10:56:42
+		Location:	NULL NULL
+
+	FCO1
+		Images:	11169
+		Time:	01.11.2025 11:39:18 until 01.11.2025 19:52:41
+		Duration:	08:13:23
+		Location:	NULL NULL
+
+	HS1
+		Images:	392
+		Time:	01.11.2025 12:13:06 until 01.11.2025 16:15:13
+		Duration:	04:02:07
+		Location:	NULL NULL
+
+	EP1
+		Images:	586
+		Time:	31.10.2025 13:57:30 until 01.11.2025 16:34:22
+		Duration:	1.02:36:52
+		Location:	NULL NULL
+
+(3) - Smile you're on camera
+	BECK1LS1
+		Images:	4323
+		Time:	01.11.2025 12:11:40 until 01.11.2025 20:38:47
+		Duration:	08:27:07
+		Location:	NULL NULL
+
+	BECK1LS2
+		Images:	4323
+		Time:	01.11.2025 12:11:40 until 01.11.2025 20:38:47
+		Duration:	08:27:07
+		Location:	NULL NULL
+
+(4) - Station 3 SLED PULL
+	MSAI1
+		Images:	4280
+		Time:	31.10.2025 13:23:09 until 01.11.2025 20:00:42
+		Duration:	1.06:37:33
+		Location:	NULL NULL
+
+	DABI1
+		Images:	5877
+		Time:	31.10.2025 13:41:05 until 01.11.2025 20:05:22
+		Duration:	1.06:24:17
+		Location:	NULL NULL
+
+	HS2
+		Images:	662
+		Time:	01.11.2025 12:52:20 until 01.11.2025 18:30:54
+		Duration:	05:38:34
+		Location:	NULL NULL
+
+	EP2
+		Images:	1556
+		Time:	01.11.2025 12:45:23 until 01.11.2025 18:34:26
+		Duration:	05:49:03
+		Location:	NULL NULL
+
+(5) - Station 5 ROWING
+	LBO1
+		Images:	4329
+		Time:	01.11.2025 11:34:00 until 01.11.2025 20:34:22
+		Duration:	09:00:22
+		Location:	NULL NULL
+
+	MVO1
+		Images:	6835
+		Time:	31.10.2025 13:17:51 until 01.11.2025 20:40:49
+		Duration:	1.07:22:58
+		Location:	NULL NULL
+
+	HS3
+		Images:	877
+		Time:	01.11.2025 13:27:29 until 01.11.2025 17:44:59
+		Duration:	04:17:30
+		Location:	NULL NULL
+
+	EP3
+		Images:	2497
+		Time:	01.11.2025 13:23:10 until 01.11.2025 17:40:43
+		Duration:	04:17:33
+		Location:	NULL NULL
+
+(6) - Station 6 FARMERS CARRY
+	HS1LS2
+		Images:	2839
+		Time:	01.11.2025 11:42:17 until 01.11.2025 17:29:19
+		Duration:	05:47:02
+		Location:	NULL NULL
+
+	HS1LS1
+		Images:	3161
+		Time:	01.11.2025 11:35:19 until 01.11.2025 20:55:18
+		Duration:	09:19:59
+		Location:	NULL NULL
+
+(7) - Station 7 SANDBAG LUNGES
+	ROB1
+		Images:	8778
+		Time:	01.11.2025 09:44:19 until 01.11.2025 20:58:03
+		Duration:	11:13:44
+		Location:	NULL NULL
+
+	MAWI1
+		Images:	5542
+		Time:	01.11.2025 12:29:07 until 01.11.2025 22:10:54
+		Duration:	09:41:47
+		Location:	NULL NULL
+
+	BECK1
+		Images:	1592
+		Time:	01.11.2025 13:33:26 until 01.11.2025 17:45:43
+		Duration:	04:12:17
+		Location:	NULL NULL
+
+(8) - Station 8 WALL BALLS
+	MDH1
+		Images:	6559
+		Time:	01.11.2025 11:35:44 until 01.11.2025 21:24:49
+		Duration:	09:49:05
+		Location:	NULL NULL
+
+	MOG1
+		Images:	8390
+		Time:	31.10.2025 13:40:07 until 01.11.2025 21:32:57
+		Duration:	1.07:52:50
+		Location:	NULL NULL
+
+	EP4
+		Images:	1520
+		Time:	01.11.2025 14:15:53 until 01.11.2025 19:51:38
+		Duration:	05:35:45
+		Location:	NULL NULL
+
+	HS4
+		Images:	449
+		Time:	01.11.2025 14:16:20 until 01.11.2025 18:08:33
+		Duration:	03:52:13
+		Location:	NULL NULL
+
+(9) - Finish
+	HS5
+		Images:	334
+		Time:	01.11.2025 18:48:18 until 01.11.2025 20:08:35
+		Duration:	01:20:17
+		Location:	NULL NULL
+
+	BECK2
+		Images:	494
+		Time:	01.11.2025 14:18:05 until 01.11.2025 14:46:15
+		Duration:	00:28:10
+		Location:	NULL NULL
+
+	RONS1
+		Images:	10930
+		Time:	01.11.2025 11:14:57 until 01.11.2025 21:37:02
+		Duration:	10:22:05
+		Location:	NULL NULL
+
+	EP1LS1
+		Images:	2604
+		Time:	01.11.2025 11:02:52 until 01.11.2025 21:23:06
+		Duration:	10:20:14
+		Location:	NULL NULL
+
+	MAWI1LS1
+		Images:	1574
+		Time:	01.11.2025 11:15:01 until 01.11.2025 18:10:27
+		Duration:	06:55:26
+		Location:	NULL NULL
+
+(10) - Medalwall
+	BECK3
+		Images:	1376
+		Time:	01.11.2025 14:49:38 until 01.11.2025 18:38:46
+		Duration:	03:49:08
+		Location:	NULL NULL
+
+	ISA1
+		Images:	4166
+		Time:	31.10.2025 13:39:03 until 01.11.2025 21:38:21
+		Duration:	1.07:59:18
+		Location:	NULL NULL
+

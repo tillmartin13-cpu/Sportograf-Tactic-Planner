@@ -11,6 +11,7 @@ import { parseKml } from '../lib/parseKml';
 import { parseTeamCsv } from '../lib/csvImport';
 import { windowsOverlap } from '../lib/timeConflict';
 import { generateEventCode, normalizeEventCode, isValidEventCode, EVENT_CODE_LENGTH } from '../lib/eventCode';
+import { REFERENCE_CODES } from '../lib/referenceCodes';
 import { t as translate } from '../i18n/messages';
 
 const APP_SCREEN = {
@@ -313,7 +314,7 @@ export const usePlannerStore = create(
         });
       },
 
-      applyReferenceCode: (rawCode) => {
+      applyReferenceCode: async (rawCode) => {
         const lang = get().language;
         const code = normalizeEventCode(rawCode);
         if (!isValidEventCode(code)) {
@@ -325,16 +326,37 @@ export const usePlannerStore = create(
           get().showToast(translate(lang, 'referenceNeedsEvent'));
           return false;
         }
-        if (normalizeEventCode(event.eventCode) !== code) {
+        const entry = REFERENCE_CODES[code];
+        if (!entry || entry[0] !== event.id) {
           get().showToast(translate(lang, 'codeEventMismatch'));
           return false;
         }
-        get().updateTactic(event.id, {
-          referenceAccess: {
-            granted: true,
-            appliedAt: new Date().toISOString(),
-          },
-        });
+        const predecessorId = entry[1];
+        let text;
+        try {
+          const res = await fetch(`/infofiles/${predecessorId}.txt`);
+          if (!res.ok) {
+            get().showToast(translate(lang, 'referenceFileNotFound'));
+            return false;
+          }
+          text = await res.text();
+        } catch {
+          get().showToast(translate(lang, 'referenceFileFetchError'));
+          return false;
+        }
+        try {
+          const parsed = parseInfofile(text);
+          const tracks = getGpxTracks(get().getTactic(event.id));
+          const converted = infofileToTactic(parsed, photographerIndex(get().photographers));
+          const matched = rematchAllPhotoSpots(converted.spots, tracks);
+          get().updateTactic(event.id, {
+            referenceSpots: snapshotReferenceSpots(matched),
+            showReferenceLayer: true,
+          });
+        } catch {
+          get().showToast(translate(lang, 'referenceFileParseError'));
+          return false;
+        }
         set({ showPlannerEntryModal: false, officeSession: false });
         get().showToast(translate(lang, 'referenceAccessGranted'));
         return true;

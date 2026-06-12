@@ -1,0 +1,165 @@
+EventId: 14737
+Spots: 24
+Total Images: 146332
+Time:	12.04.2025 07:46:48 to 12.04.2025 17:48:01
+Duration: 10:01:13
+
+(1) - Log Carry
+	AFRE1
+		Images:	24352
+		Time:	12.04.2025 08:06:52 until 12.04.2025 16:00:51
+		Duration:	07:53:59
+		Location:	48.17153 11.55813
+
+	ALIS1
+		Images:	9129
+		Time:	12.04.2025 08:24:37 until 12.04.2025 16:02:19
+		Duration:	07:37:42
+		Location:	48.17159 11.55806
+
+(2) - Beater
+	AKS1
+		Images:	4671
+		Time:	12.04.2025 09:08:56 until 12.04.2025 13:11:46
+		Duration:	04:02:50
+		Location:	48.16857 11.54785
+
+	AKS1LS1
+		Images:	1560
+		Time:	12.04.2025 09:00:50 until 12.04.2025 13:11:14
+		Duration:	04:10:24
+		Location:	48.16857 11.54785
+
+(3) - Slackline
+	AKS1LS2
+		Images:	1511
+		Time:	12.04.2025 13:58:00 until 12.04.2025 16:39:22
+		Duration:	02:41:22
+		Location:	48.17333 11.55046
+
+(4) - Rope Climb
+	DED1
+		Images:	1038
+		Time:	12.04.2025 08:47:41 until 12.04.2025 15:50:44
+		Duration:	07:03:03
+		Location:	48.17093 11.54835
+
+(5) - Dunk Wall
+	HAWI1
+		Images:	11889
+		Time:	12.04.2025 07:46:48 until 12.04.2025 16:19:32
+		Duration:	08:32:44
+		Location:	48.17255 11.55196
+
+	KSZ1
+		Images:	8652
+		Time:	12.04.2025 08:25:54 until 12.04.2025 16:18:37
+		Duration:	07:52:43
+		Location:	48.17255 11.55196
+
+(6) - Stair Crawl
+	JOJO1
+		Images:	7195
+		Time:	12.04.2025 08:57:46 until 12.04.2025 17:19:51
+		Duration:	08:22:05
+		Location:	48.17202 11.54702
+
+	JOJO1LS1
+		Images:	7485
+		Time:	12.04.2025 08:21:35 until 12.04.2025 17:48:01
+		Duration:	09:26:26
+		Location:	48.17202 11.54702
+
+(7) - Imps
+	NJO1
+		Images:	636
+		Time:	12.04.2025 10:10:09 until 12.04.2025 17:01:14
+		Duration:	06:51:05
+		Location:	48.17353 11.54874
+
+(8) - Drone
+	NJO1DRONE1
+		Images:	11
+		Time:	12.04.2025 11:30:34 until 12.04.2025 11:35:53
+		Duration:	00:05:19
+		Location:	48.17353 11.54874
+
+(9) - Sand Bag Carry Olympia
+	NJO2LS1
+		Images:	14
+		Time:	12.04.2025 13:31:51 until 12.04.2025 13:32:47
+		Duration:	00:00:56
+		Location:	48.17395 11.54774
+
+	RSJ1
+		Images:	8425
+		Time:	12.04.2025 08:32:27 until 12.04.2025 17:11:28
+		Duration:	08:39:01
+		Location:	48.17395 11.54774
+
+	RSJ1LS1
+		Images:	5301
+		Time:	12.04.2025 08:38:27 until 12.04.2025 17:12:41
+		Duration:	08:34:14
+		Location:	48.17395 11.54774
+
+(10) - Finish
+	NJO1LS1
+		Images:	3409
+		Time:	12.04.2025 08:34:52 until 12.04.2025 16:46:53
+		Duration:	08:12:01
+		Location:	48.17353 11.54874
+
+	TNS1
+		Images:	11372
+		Time:	12.04.2025 09:10:12 until 12.04.2025 17:29:29
+		Duration:	08:19:17
+		Location:	48.17353 11.54874
+
+(11) - Herotent
+	SHUE1
+		Images:	4304
+		Time:	12.04.2025 09:47:01 until 12.04.2025 17:30:58
+		Duration:	07:43:57
+		Location:	48.17391 11.54873
+
+(12) - Z-Walls
+	TH1
+		Images:	8808
+		Time:	12.04.2025 09:05:26 until 12.04.2025 15:56:20
+		Duration:	06:50:54
+		Location:	48.17026 11.55725
+
+(13) - Atlas Carry
+	YS1
+		Images:	7972
+		Time:	12.04.2025 09:11:29 until 12.04.2025 13:01:24
+		Duration:	03:49:55
+		Location:	48.16878 11.54861
+
+(14) - Before Bender
+	YS1LS1
+		Images:	1753
+		Time:	12.04.2025 08:45:02 until 12.04.2025 13:03:29
+		Duration:	04:18:27
+		Location:	48.17015 11.54684
+
+	YS1LS2
+		Images:	1756
+		Time:	12.04.2025 08:45:18 until 12.04.2025 13:03:20
+		Duration:	04:18:02
+		Location:	48.17015 11.54684
+
+(15) - Multirig
+	YS1LS3
+		Images:	3881
+		Time:	12.04.2025 13:42:44 until 12.04.2025 16:37:36
+		Duration:	02:54:52
+		Location:	48.17368 11.54980
+
+	YS1LS4
+		Images:	11208
+		Time:	12.04.2025 13:44:06 until 12.04.2025 16:36:24
+		Duration:	02:52:18
+		Location:	48.17368 11.54980
+

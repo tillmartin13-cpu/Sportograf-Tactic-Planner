@@ -1,0 +1,98 @@
+EventId: 14722
+Spots: 14
+Total Images: 8837
+Time:	25.08.2025 09:07:56 to 25.09.2025 15:27:50
+Duration: 31.06:19:54
+
+(1) - Start
+	AGU1
+		Images:	255
+		Time:	26.08.2025 10:45:41 until 26.08.2025 11:08:57
+		Duration:	00:23:16
+		Location:	45.79292 6.97154
+
+(2) - Tirecome Hut KM 5
+	ARF1
+		Images:	487
+		Time:	26.08.2025 11:16:47 until 26.08.2025 17:47:29
+		Duration:	06:30:42
+		Location:	45.78962 6.99177
+
+(3) - La Suche KM 6.5
+	NJO1
+		Images:	479
+		Time:	26.08.2025 11:48:06 until 26.08.2025 17:15:33
+		Duration:	05:27:27
+		Location:	45.79739 6.99192
+
+	NJO1LS1
+		Images:	385
+		Time:	26.08.2025 14:32:53 until 26.08.2025 17:38:12
+		Duration:	03:05:19
+		Location:	45.79739 6.99192
+
+(4) - Mont Blanc View
+	RSJ1
+		Images:	673
+		Time:	26.08.2025 11:20:38 until 26.08.2025 15:13:38
+		Duration:	03:53:00
+		Location:	45.79503 6.97846
+
+	RSJ1LS1
+		Images:	434
+		Time:	26.08.2025 11:27:09 until 26.08.2025 15:19:44
+		Duration:	03:52:35
+		Location:	45.79503 6.97846
+
+(5) - Finish
+	AGU2
+		Images:	1135
+		Time:	26.08.2025 11:23:00 until 26.08.2025 15:30:08
+		Duration:	04:07:08
+		Location:	45.79452 6.97195
+
+	AGU2LS1
+		Images:	303
+		Time:	26.08.2025 11:30:19 until 26.08.2025 14:41:42
+		Duration:	03:11:23
+		Location:	45.79452 6.97195
+
+	AGU2LS2
+		Images:	317
+		Time:	26.08.2025 11:29:10 until 26.08.2025 15:07:35
+		Duration:	03:38:25
+		Location:	45.79452 6.97195
+
+(6) - Start YCC Revenge
+	ARF2
+		Images:	109
+		Time:	27.08.2025 10:50:30 until 27.08.2025 11:17:48
+		Duration:	00:27:18
+		Location:	45.92773 6.8683
+
+(7) - Mountain View YCC Revenge
+	AGU3
+		Images:	1454
+		Time:	27.08.2025 11:09:52 until 27.08.2025 12:25:32
+		Duration:	01:15:40
+		Location:	45.92516 6.8618
+
+	AGU3LS1
+		Images:	647
+		Time:	27.08.2025 11:04:30 until 27.08.2025 12:41:54
+		Duration:	01:37:24
+		Location:	45.92516 6.8618
+
+	AGU3LS2
+		Images:	648
+		Time:	27.08.2025 11:09:17 until 27.08.2025 12:42:29
+		Duration:	01:33:12
+		Location:	45.92516 6.8618
+
+(8) - Finish YCC Revenge
+	ARF3
+		Images:	1468
+		Time:	27.08.2025 11:14:15 until 27.08.2025 12:32:41
+		Duration:	01:18:26
+		Location:	45.92371 6.86875
+

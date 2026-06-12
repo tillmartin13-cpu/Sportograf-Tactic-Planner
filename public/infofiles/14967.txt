@@ -1,0 +1,95 @@
+EventId: 14967
+Spots: 13
+Total Images: 40247
+Time:	06.09.2025 21:16:07 to 07.09.2025 14:18:13
+Duration: 17:02:06
+
+(1) - Obstacle 5 Jacked Pallet
+	AHB1
+		Images:	3598
+		Time:	07.09.2025 09:26:53 until 07.09.2025 12:24:25
+		Duration:	02:57:32
+		Location:	34.22013 -116.86382
+
+(2) - Obstacle 12 Cry Baby
+	TUD1
+		Images:	2785
+		Time:	07.09.2025 08:50:59 until 07.09.2025 13:20:45
+		Duration:	04:29:46
+		Location:	34.22628 -116.86110
+
+(3) - Obstacle 13 Meat Hooks
+	DDC1
+		Images:	2545
+		Time:	07.09.2025 09:47:02 until 07.09.2025 13:05:29
+		Duration:	03:18:27
+		Location:	34.22705 -116.86210
+
+	DVAL1
+		Images:	2246
+		Time:	07.09.2025 09:00:01 until 07.09.2025 13:15:33
+		Duration:	04:15:32
+		Location:	34.22705 -116.86210
+
+(4) - Obstacle 14 Potato Sack Trap
+	VMM1
+		Images:	3307
+		Time:	07.09.2025 09:37:49 until 07.09.2025 13:28:03
+		Duration:	03:50:14
+		Location:	34.22613 -116.86036
+
+(5) - Obstacle 15 Meat Grinder
+	ANGA1
+		Images:	5604
+		Time:	06.09.2025 21:16:07 until 07.09.2025 14:01:42
+		Duration:	16:45:35
+		Location:	34.22512 -116.85934
+
+	MCAR1
+		Images:	400
+		Time:	07.09.2025 10:41:43 until 07.09.2025 12:45:47
+		Duration:	02:04:04
+		Location:	34.22512 -116.85934
+
+(6) - Obstacle 15 Promo
+	GIP1
+		Images:	2749
+		Time:	07.09.2025 09:26:19 until 07.09.2025 13:19:17
+		Duration:	03:52:58
+		Location:	34.22512 -116.85934
+
+(7) - Obstacle 15 DRONE
+	MCAR1DRONE1
+		Images:	8
+		Time:	07.09.2025 10:38:35 until 07.09.2025 10:40:22
+		Duration:	00:01:47
+		Location:	34.22512 -116.85934
+
+(8) - Obstacle 16 Funkey Monkey
+	MKI1
+		Images:	8373
+		Time:	07.09.2025 09:36:53 until 07.09.2025 14:05:52
+		Duration:	04:28:59
+		Location:	34.22648 -116.86004
+
+(9) - Obstacle 19 Mudderhorn
+	AGJ1
+		Images:	3766
+		Time:	07.09.2025 08:53:52 until 07.09.2025 14:00:01
+		Duration:	05:06:09
+		Location:	34.22793 -116.86213
+
+(10) - Obstacle 20 Electroshock Therapy
+	MECA1
+		Images:	3987
+		Time:	07.09.2025 10:00:32 until 07.09.2025 14:18:13
+		Duration:	04:17:41
+		Location:	34.22766 -116.86229
+
+(11) - Ceremony
+	ALP1
+		Images:	879
+		Time:	07.09.2025 09:22:17 until 07.09.2025 14:14:31
+		Duration:	04:52:14
+		Location:	34.22776 -116.86268
+

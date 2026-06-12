@@ -1,0 +1,40 @@
+EventId: 15675
+Spots: 6
+Total Images: 4711
+Time:	08.03.2025 06:03:03 to 08.03.2025 08:45:11
+Duration: 02:42:08
+
+(1) - Impressions / Pano
+	PANO1
+(2) - Finish
+	SJZ1
+		Images:	1496
+		Time:	08.03.2025 06:30:18 until 08.03.2025 08:44:55
+		Duration:	02:14:37
+		Location:	36.29605 -76.21716
+
+	TRG1
+		Images:	1049
+		Time:	08.03.2025 06:03:03 until 08.03.2025 07:56:40
+		Duration:	01:53:37
+		Location:	36.29682 -76.21888
+
+	TRGF1
+		Images:	1280
+		Time:	08.03.2025 07:18:07 until 08.03.2025 08:39:45
+		Duration:	01:21:38
+		Location:	36.29605 -76.21716
+
+	AWF1
+		Images:	732
+		Time:	08.03.2025 07:19:26 until 08.03.2025 08:45:11
+		Duration:	01:25:45
+		Location:	36.29682 -76.21888
+
+(3) - Start
+	AW1
+		Images:	154
+		Time:	08.03.2025 06:20:58 until 08.03.2025 07:05:55
+		Duration:	00:44:57
+		Location:	36.29605 -76.21716
+

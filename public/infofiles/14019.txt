@@ -1,0 +1,230 @@
+EventId: 14019
+Spots: 36
+Total Images: 234135
+Time:	11.07.2025 14:15:00 to 13.07.2025 17:14:26
+Duration: 2.02:59:26
+
+(1) - Swim - Start
+	ALN1
+		Images:	2889
+		Time:	13.07.2025 07:59:25 until 13.07.2025 08:51:36
+		Duration:	00:52:11
+		Location:	49.53635 6.36000
+
+	OT1
+		Images:	3430
+		Time:	12.07.2025 22:58:55 until 13.07.2025 08:48:41
+		Duration:	09:49:46
+		Location:	49.53635 6.36000
+
+(2) - Swim - Transition zone
+	MBEN1
+		Images:	7130
+		Time:	13.07.2025 08:06:05 until 13.07.2025 09:38:27
+		Duration:	01:32:22
+		Location:	49.53665 6.35723
+
+	MW1
+		Images:	7087
+		Time:	13.07.2025 08:05:45 until 13.07.2025 10:05:49
+		Duration:	02:00:04
+		Location:	49.53665 6.35723
+
+(3) - Bike - 9.0 km
+	MK1
+		Images:	5503
+		Time:	13.07.2025 08:41:30 until 13.07.2025 09:18:56
+		Duration:	00:37:26
+		Location:	49.56984 6.35774
+
+	MK1DRONE1
+		Images:	19
+		Time:	13.07.2025 09:25:58 until 13.07.2025 09:32:39
+		Duration:	00:06:41
+		Location:	49.56984 6.35774
+
+(4) - Bike - 19.0 km
+	JKE1
+		Images:	6022
+		Time:	13.07.2025 08:11:03 until 13.07.2025 11:55:00
+		Duration:	03:43:57
+		Location:	49.65808 6.43936
+
+	JKE1LS1
+		Images:	4130
+		Time:	13.07.2025 09:00:08 until 13.07.2025 10:59:16
+		Duration:	01:59:08
+		Location:	49.65808 6.43936
+
+	JKE1LS2
+		Images:	4252
+		Time:	13.07.2025 09:00:09 until 13.07.2025 11:35:34
+		Duration:	02:35:25
+		Location:	49.65808 6.43936
+
+(5) - Bike - 38.0 km
+	LV1
+		Images:	15570
+		Time:	13.07.2025 08:26:49 until 13.07.2025 11:42:07
+		Duration:	03:15:18
+		Location:	49.57374 6.35594
+
+	LV1LS2
+		Images:	1828
+		Time:	13.07.2025 07:39:09 until 13.07.2025 11:47:11
+		Duration:	04:08:02
+		Location:	49.57374 6.35594
+
+	LV1LS1
+		Images:	2335
+		Time:	13.07.2025 09:19:00 until 13.07.2025 11:46:52
+		Duration:	02:27:52
+		Location:	49.57374 6.35594
+
+(6) - Bike - 39.0 km
+	MK2
+		Images:	21019
+		Time:	13.07.2025 09:37:18 until 13.07.2025 11:37:48
+		Duration:	02:00:30
+		Location:	49.57519 6.35460
+
+	MK2LS3
+		Images:	1159
+		Time:	13.07.2025 08:04:27 until 13.07.2025 11:42:12
+		Duration:	03:37:45
+		Location:	49.57519 6.35460
+
+	MK2LS1
+		Images:	2497
+		Time:	13.07.2025 08:16:28 until 13.07.2025 11:43:26
+		Duration:	03:26:58
+		Location:	49.57519 6.35460
+
+	MK2LS2
+		Images:	2553
+		Time:	13.07.2025 07:49:19 until 13.07.2025 11:49:55
+		Duration:	04:00:36
+		Location:	49.57519 6.35460
+
+(7) - Bike - 47.0 km
+	THL1
+		Images:	10121
+		Time:	11.07.2025 14:19:35 until 13.07.2025 12:26:14
+		Duration:	1.22:06:39
+		Location:	49.61049 6.28396
+
+	THL1LS2
+		Images:	3416
+		Time:	13.07.2025 08:23:39 until 13.07.2025 12:05:57
+		Duration:	03:42:18
+		Location:	49.61049 6.28396
+
+	THL1LS1
+		Images:	3923
+		Time:	11.07.2025 14:15:00 until 13.07.2025 12:09:07
+		Duration:	1.21:54:07
+		Location:	49.61049 6.28396
+
+	THL1DRONE1
+		Images:	23
+		Time:	13.07.2025 07:16:09 until 13.07.2025 10:23:46
+		Duration:	03:07:37
+		Location:	49.61049 6.28396
+
+(8) - Run - 5.5 km
+	ALN2
+		Images:	14849
+		Time:	13.07.2025 11:26:37 until 13.07.2025 16:45:25
+		Duration:	05:18:48
+		Location:	49.53463 6.35798
+
+	ALN2LS1
+		Images:	6384
+		Time:	13.07.2025 10:46:39 until 13.07.2025 16:21:21
+		Duration:	05:34:42
+		Location:	49.53463 6.35798
+
+	ALN2LS2
+		Images:	6333
+		Time:	13.07.2025 10:46:41 until 13.07.2025 16:32:04
+		Duration:	05:45:23
+		Location:	49.53463 6.35798
+
+(9) - Run - 7.0 km
+	OT2
+		Images:	19277
+		Time:	13.07.2025 11:06:15 until 13.07.2025 16:27:25
+		Duration:	05:21:10
+		Location:	49.53394 6.35753
+
+	OT2LS1
+		Images:	9818
+		Time:	12.07.2025 23:02:13 until 13.07.2025 16:49:52
+		Duration:	17:47:39
+		Location:	49.53394 6.35753
+
+(10) - Run - 9.0 km
+	LV2
+		Images:	9499
+		Time:	13.07.2025 12:17:21 until 13.07.2025 15:29:58
+		Duration:	03:12:37
+		Location:	49.54577 6.36936
+
+(11) - Run - 0.5 km vor Ziel
+	MK3
+		Images:	4971
+		Time:	13.07.2025 12:43:28 until 13.07.2025 15:13:35
+		Duration:	02:30:07
+		Location:	49.54629 6.37306
+
+	MK3LS1
+		Images:	4702
+		Time:	13.07.2025 12:17:59 until 13.07.2025 15:28:26
+		Duration:	03:10:27
+		Location:	49.54629 6.37306
+
+(12) - Finish
+	MBEN2
+		Images:	16646
+		Time:	13.07.2025 11:49:23 until 13.07.2025 17:06:56
+		Duration:	05:17:33
+		Location:	49.53958 6.36329
+
+	MBEN2LS1
+		Images:	1980
+		Time:	13.07.2025 10:17:57 until 13.07.2025 17:05:13
+		Duration:	06:47:16
+		Location:	49.53958 6.36329
+
+	MBEN2LS2
+		Images:	2267
+		Time:	13.07.2025 10:20:31 until 13.07.2025 17:05:01
+		Duration:	06:44:30
+		Location:	49.53958 6.36329
+
+	MW2LS1
+		Images:	9472
+		Time:	12.07.2025 23:14:02 until 13.07.2025 17:02:43
+		Duration:	17:48:41
+		Location:	49.53958 6.36329
+
+	MW2
+		Images:	9091
+		Time:	13.07.2025 11:33:26 until 13.07.2025 16:18:36
+		Duration:	04:45:10
+		Location:	49.53958 6.36329
+
+	MW2LS2
+		Images:	9190
+		Time:	12.07.2025 23:09:25 until 13.07.2025 17:02:34
+		Duration:	17:53:09
+		Location:	49.53958 6.36329
+
+	JKE2
+		Images:	4750
+		Time:	13.07.2025 14:08:48 until 13.07.2025 17:14:26
+		Duration:	03:05:38
+		Location:	49.53958 6.36329
+
+(13) - Swim - Impressions / Pano
+	PANO1

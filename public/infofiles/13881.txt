@@ -1,0 +1,104 @@
+EventId: 13881
+Spots: 14
+Total Images: 18201
+Time:	07.06.2025 00:45:18 to 07.06.2025 18:14:00
+Duration: 17:28:42
+
+(1) - Start
+	AMMO1
+		Images:	211
+		Time:	07.06.2025 07:20:22 until 07.06.2025 10:06:14
+		Duration:	02:45:52
+		Location:	36.84036 -2.94382
+
+(2) - 1,4 km
+	JCFJ1
+		Images:	623
+		Time:	07.06.2025 07:31:35 until 07.06.2025 08:54:25
+		Duration:	01:22:50
+		Location:	36.83301 -2.95257
+
+(3) - 1,5 km
+	JCFJ1LS1
+		Images:	424
+		Time:	07.06.2025 07:27:32 until 07.06.2025 08:14:04
+		Duration:	00:46:32
+		Location:	36.83301 -2.95000
+
+(4) - 1,9 km
+	JMCA1
+		Images:	418
+		Time:	07.06.2025 08:01:13 until 07.06.2025 09:52:36
+		Duration:	01:51:23
+		Location:	36.82809 -2.95247
+
+(5) - 2,0 km
+	JMCA1LS1
+		Images:	513
+		Time:	07.06.2025 07:49:59 until 07.06.2025 09:12:28
+		Duration:	01:22:29
+		Location:	36.82794 -2.95245
+
+(6) - 18,5 km
+	IME1
+		Images:	434
+		Time:	07.06.2025 00:45:18 until 07.06.2025 08:47:29
+		Duration:	08:02:11
+		Location:	36.74757 -3.03078
+
+(7) - 19,0 km
+	JMB1
+		Images:	485
+		Time:	07.06.2025 08:10:55 until 07.06.2025 10:27:15
+		Duration:	02:16:20
+		Location:	36.74756 -3.04264
+
+(8) - 125,0 km Gran Fondo
+	JMB2
+		Images:	1918
+		Time:	07.06.2025 12:11:54 until 07.06.2025 16:00:03
+		Duration:	03:48:09
+		Location:	37.09460 -3.05982
+
+(9) - 142,0 km Gran Fondo
+	IME2
+		Images:	851
+		Time:	07.06.2025 10:31:04 until 07.06.2025 16:46:34
+		Duration:	06:15:30
+		Location:	37.03816 -3.00190
+
+(10) - 128,0 km Medio Fondo
+	JCFJ2
+		Images:	4762
+		Time:	07.06.2025 08:55:52 until 07.06.2025 16:21:40
+		Duration:	07:25:48
+		Location:	36.88644 -3.02244
+
+(11) - 129,0 km Medio Fondo
+	JCFJ2LS1
+		Images:	774
+		Time:	07.06.2025 09:26:49 until 07.06.2025 16:29:57
+		Duration:	07:03:08
+		Location:	36.88644 -3.02244
+
+(12) - 135,0 km Medio Fondo
+	JMCA2
+		Images:	3001
+		Time:	07.06.2025 12:01:35 until 07.06.2025 16:49:44
+		Duration:	04:48:09
+		Location:	36.84670 -3.00960
+
+(13) - 134,0 km Medio Fondo
+	JMCA2LS1
+		Images:	665
+		Time:	07.06.2025 10:29:53 until 07.06.2025 16:35:18
+		Duration:	06:05:25
+		Location:	36.84670 -3.00960
+
+(14) - Finish
+	AMMO2
+		Images:	3122
+		Time:	07.06.2025 12:25:18 until 07.06.2025 18:14:00
+		Duration:	05:48:42
+		Location:	36.84036 -2.94382
+

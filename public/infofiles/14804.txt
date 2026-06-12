@@ -1,0 +1,319 @@
+EventId: 14804
+Spots: 51
+Total Images: 180835
+Time:	07.02.2025 20:52:11 to 09.02.2025 15:02:50
+Duration: 1.18:10:39
+
+(1) - 01_SkiErg
+	EVL1
+		Images:	4937
+		Time:	08.02.2025 06:08:47 until 08.02.2025 14:08:33
+		Duration:	07:59:46
+		Location:	NULL NULL
+
+	MDH1
+		Images:	4429
+		Time:	08.02.2025 07:02:28 until 08.02.2025 14:08:06
+		Duration:	07:05:38
+		Location:	NULL NULL
+
+	MIGE1
+		Images:	8653
+		Time:	08.02.2025 06:46:45 until 08.02.2025 14:09:25
+		Duration:	07:22:40
+		Location:	NULL NULL
+
+	LKE2
+		Images:	1682
+		Time:	08.02.2025 14:35:15 until 08.02.2025 19:44:08
+		Duration:	05:08:53
+		Location:	NULL NULL
+
+	ROB2
+		Images:	6236
+		Time:	08.02.2025 14:23:44 until 08.02.2025 19:49:52
+		Duration:	05:26:08
+		Location:	NULL NULL
+
+	BRP2
+		Images:	4293
+		Time:	08.02.2025 14:36:14 until 08.02.2025 19:50:14
+		Duration:	05:14:00
+		Location:	NULL NULL
+
+(2) - 02_Sled Push
+	MOG1
+		Images:	2479
+		Time:	07.02.2025 20:52:11 until 09.02.2025 07:03:37
+		Duration:	1.10:11:26
+		Location:	NULL NULL
+
+	NT1
+		Images:	5029
+		Time:	08.02.2025 06:25:40 until 08.02.2025 16:19:57
+		Duration:	09:54:17
+		Location:	NULL NULL
+
+	BECK1
+		Images:	683
+		Time:	08.02.2025 09:44:20 until 08.02.2025 15:31:49
+		Duration:	05:47:29
+		Location:	NULL NULL
+
+	FRN3
+		Images:	649
+		Time:	08.02.2025 10:00:40 until 08.02.2025 15:30:36
+		Duration:	05:29:56
+		Location:	NULL NULL
+
+	EP3
+		Images:	2075
+		Time:	08.02.2025 16:10:28 until 08.02.2025 20:08:12
+		Duration:	03:57:44
+		Location:	NULL NULL
+
+	PKA3
+		Images:	860
+		Time:	08.02.2025 15:56:17 until 08.02.2025 19:58:08
+		Duration:	04:01:51
+		Location:	NULL NULL
+
+	EP2
+		Images:	576
+		Time:	08.02.2025 14:56:19 until 08.02.2025 16:01:10
+		Duration:	01:04:51
+		Location:	NULL NULL
+
+	PKA2
+		Images:	217
+		Time:	08.02.2025 14:16:18 until 08.02.2025 15:49:47
+		Duration:	01:33:29
+		Location:	NULL NULL
+
+(3) - 03_Sled Pull
+	EP1
+		Images:	8137
+		Time:	08.02.2025 06:57:34 until 08.02.2025 14:56:19
+		Duration:	07:58:45
+		Location:	NULL NULL
+
+	PKA1
+		Images:	1235
+		Time:	08.02.2025 06:46:23 until 08.02.2025 14:15:51
+		Duration:	07:29:28
+		Location:	NULL NULL
+
+	BECK2
+		Images:	941
+		Time:	08.02.2025 10:35:19 until 08.02.2025 16:07:55
+		Duration:	05:32:36
+		Location:	NULL NULL
+
+	FRN4
+		Images:	888
+		Time:	08.02.2025 10:32:35 until 08.02.2025 16:11:33
+		Duration:	05:38:58
+		Location:	NULL NULL
+
+	MSAI3
+		Images:	1188
+		Time:	08.02.2025 16:13:12 until 08.02.2025 20:08:04
+		Duration:	03:54:52
+		Location:	NULL NULL
+
+	SBRO2
+		Images:	3284
+		Time:	08.02.2025 14:23:59 until 08.02.2025 20:10:40
+		Duration:	05:46:41
+		Location:	NULL NULL
+
+	MSAI2
+		Images:	335
+		Time:	08.02.2025 14:34:06 until 08.02.2025 15:40:05
+		Duration:	01:05:59
+		Location:	NULL NULL
+
+(4) - 05_Rowing
+	MOG2
+		Images:	3262
+		Time:	08.02.2025 14:43:00 until 08.02.2025 20:29:48
+		Duration:	05:46:48
+		Location:	NULL NULL
+
+	NT3
+		Images:	2525
+		Time:	08.02.2025 16:58:28 until 08.02.2025 20:48:59
+		Duration:	03:50:31
+		Location:	NULL NULL
+
+	MSAI1
+		Images:	6300
+		Time:	08.02.2025 06:37:42 until 09.02.2025 07:12:16
+		Duration:	1.00:34:34
+		Location:	NULL NULL
+
+	SBRO1
+		Images:	6205
+		Time:	08.02.2025 06:34:58 until 09.02.2025 07:13:44
+		Duration:	1.00:38:46
+		Location:	NULL NULL
+
+	BECK8
+		Images:	1020
+		Time:	08.02.2025 11:22:00 until 08.02.2025 16:51:31
+		Duration:	05:29:31
+		Location:	NULL NULL
+
+	FRN8
+		Images:	2371
+		Time:	08.02.2025 11:18:57 until 08.02.2025 16:52:19
+		Duration:	05:33:22
+		Location:	NULL NULL
+
+	NT2
+		Images:	103
+		Time:	08.02.2025 14:21:09 until 08.02.2025 14:29:06
+		Duration:	00:07:57
+		Location:	NULL NULL
+
+(5) - 06_Farmers Carry
+	BECK1LS1
+		Images:	14275
+		Time:	08.02.2025 06:54:24 until 08.02.2025 21:05:07
+		Duration:	14:10:43
+		Location:	NULL NULL
+
+	KD1LS1
+		Images:	4606
+		Time:	08.02.2025 07:40:01 until 08.02.2025 20:49:45
+		Duration:	13:09:44
+		Location:	NULL NULL
+
+(6) - 07_Sandbag Lunges
+	EVL3
+		Images:	1950
+		Time:	08.02.2025 17:28:12 until 08.02.2025 21:12:22
+		Duration:	03:44:10
+		Location:	NULL NULL
+
+	ROB1
+		Images:	9971
+		Time:	08.02.2025 06:35:39 until 08.02.2025 14:12:58
+		Duration:	07:37:19
+		Location:	NULL NULL
+
+	TH1
+		Images:	11028
+		Time:	08.02.2025 06:41:29 until 09.02.2025 07:05:12
+		Duration:	1.00:23:43
+		Location:	NULL NULL
+
+	BECK7
+		Images:	833
+		Time:	08.02.2025 11:54:05 until 08.02.2025 17:28:46
+		Duration:	05:34:41
+		Location:	NULL NULL
+
+	FRN6
+		Images:	2172
+		Time:	08.02.2025 11:56:26 until 08.02.2025 17:29:41
+		Duration:	05:33:15
+		Location:	NULL NULL
+
+	EVL2
+		Images:	1959
+		Time:	08.02.2025 14:17:49 until 09.02.2025 14:28:43
+		Duration:	1.00:10:54
+		Location:	NULL NULL
+
+(7) - 08_Wall Balls
+	MDH2
+		Images:	3841
+		Time:	08.02.2025 14:25:43 until 08.02.2025 21:32:29
+		Duration:	07:06:46
+		Location:	NULL NULL
+
+	MIGE2
+		Images:	6431
+		Time:	08.02.2025 14:27:09 until 08.02.2025 21:27:20
+		Duration:	07:00:11
+		Location:	NULL NULL
+
+	BRP1
+		Images:	9807
+		Time:	08.02.2025 07:18:50 until 08.02.2025 14:21:46
+		Duration:	07:02:56
+		Location:	NULL NULL
+
+	LKE1
+		Images:	2614
+		Time:	08.02.2025 06:32:56 until 08.02.2025 14:23:26
+		Duration:	07:50:30
+		Location:	NULL NULL
+
+	BECK6
+		Images:	728
+		Time:	08.02.2025 12:52:03 until 08.02.2025 18:12:47
+		Duration:	05:20:44
+		Location:	NULL NULL
+
+	FRN7
+		Images:	860
+		Time:	08.02.2025 12:42:09 until 08.02.2025 18:13:08
+		Duration:	05:30:59
+		Location:	NULL NULL
+
+(8) - Arch - run
+	BECK1LS2
+		Images:	6062
+		Time:	08.02.2025 08:34:10 until 08.02.2025 20:16:13
+		Duration:	11:42:03
+		Location:	NULL NULL
+
+	FRN3LS1
+		Images:	4217
+		Time:	08.02.2025 06:54:35 until 08.02.2025 20:15:58
+		Duration:	13:21:23
+		Location:	NULL NULL
+
+(9) - Finish
+	BP1
+		Images:	5455
+		Time:	08.02.2025 07:34:15 until 08.02.2025 21:33:43
+		Duration:	13:59:28
+		Location:	NULL NULL
+
+	BP1LS2
+		Images:	2029
+		Time:	08.02.2025 07:01:08 until 08.02.2025 20:32:42
+		Duration:	13:31:34
+		Location:	NULL NULL
+
+	BP1LS1
+		Images:	2205
+		Time:	08.02.2025 06:53:07 until 08.02.2025 21:34:44
+		Duration:	14:41:37
+		Location:	NULL NULL
+
+(10) - Hero Wall
+	MAWI1
+		Images:	8585
+		Time:	08.02.2025 06:11:32 until 08.02.2025 21:35:04
+		Duration:	15:23:32
+		Location:	NULL NULL
+
+(11) - Impressions / Pano
+	PANO1
+(12) - Imps
+	BECK5
+		Images:	266
+		Time:	08.02.2025 08:02:42 until 08.02.2025 09:36:06
+		Duration:	01:33:24
+		Location:	NULL NULL
+
+	FRN1
+		Images:	346
+		Time:	08.02.2025 07:46:33 until 08.02.2025 11:51:49
+		Duration:	04:05:16
+		Location:	NULL NULL
+

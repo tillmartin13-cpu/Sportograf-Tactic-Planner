@@ -1,0 +1,164 @@
+EventId: 14072
+Spots: 25
+Total Images: 45421
+Time:	07.09.2025 08:09:18 to 07.09.2025 15:07:19
+Duration: 06:58:01
+
+(1) - Impressions / Pano
+	EVL1DRONE1
+		Images:	11
+		Time:	07.09.2025 08:32:20 until 07.09.2025 13:29:24
+		Duration:	04:57:04
+		Location:	46.85968 8.18253
+
+	PANO1
+(2) - Start
+	DIG1
+		Images:	2408
+		Time:	07.09.2025 08:11:19 until 07.09.2025 10:01:24
+		Duration:	01:50:05
+		Location:	46.89374 8.24497
+
+	MAPP1
+		Images:	782
+		Time:	07.09.2025 08:09:18 until 07.09.2025 09:49:59
+		Duration:	01:40:41
+		Location:	46.89375 8.24498
+
+(3) - Start 2k
+	YMD2
+		Images:	12
+		Time:	07.09.2025 11:29:50 until 07.09.2025 11:30:07
+		Duration:	00:00:17
+		Location:	46.89386 8.24503
+
+(4) - 0.5 km HM + 10k + 5k / 4.0 km 5k / 9.0 km 10k
+	LBO1
+		Images:	3328
+		Time:	07.09.2025 08:43:49 until 07.09.2025 11:04:55
+		Duration:	02:21:06
+		Location:	46.89606 8.24566
+
+(5) - 1.0 km HM + 10k + 5k / 3.5 km 5k / 8.5 km 10k
+	YMD1
+		Images:	1975
+		Time:	07.09.2025 09:02:56 until 07.09.2025 11:29:11
+		Duration:	02:26:15
+		Location:	46.89293 8.23827
+
+	YMD1LS1
+		Images:	3156
+		Time:	07.09.2025 09:01:15 until 07.09.2025 10:58:05
+		Duration:	01:56:50
+		Location:	46.89293 8.23827
+
+(6) - 1.5 km HM + 10k + 5k
+	LUJ1
+		Images:	1983
+		Time:	07.09.2025 08:48:20 until 07.09.2025 10:11:52
+		Duration:	01:23:32
+		Location:	46.89082 8.23474
+
+	LUJ1LS1
+		Images:	3000
+		Time:	07.09.2025 09:03:59 until 07.09.2025 10:12:26
+		Duration:	01:08:27
+		Location:	46.89082 8.23474
+
+(7) - 3.0 km  5k / 8.0 km 10k
+	LUJ2
+		Images:	769
+		Time:	07.09.2025 10:13:05 until 07.09.2025 10:56:40
+		Duration:	00:43:35
+		Location:	46.89117 8.23546
+
+	LUJ2LS1
+		Images:	1260
+		Time:	07.09.2025 10:20:16 until 07.09.2025 10:56:35
+		Duration:	00:36:19
+		Location:	46.89117 8.23546
+
+(8) - 5.0 km HM + 10k
+	LBL1
+		Images:	3913
+		Time:	07.09.2025 08:35:49 until 07.09.2025 10:24:36
+		Duration:	01:48:47
+		Location:	46.87171 8.20894
+
+(9) - 6.8 km HM
+	EVL1
+		Images:	3053
+		Time:	07.09.2025 08:18:48 until 07.09.2025 10:05:07
+		Duration:	01:46:19
+		Location:	46.85968 8.18253
+
+	EVL1LS1
+		Images:	1349
+		Time:	07.09.2025 08:18:49 until 07.09.2025 10:07:09
+		Duration:	01:48:20
+		Location:	46.85968 8.18253
+
+(10) - 100m vor Finish HM + 2k
+	EVL2
+		Images:	361
+		Time:	07.09.2025 11:34:19 until 07.09.2025 12:08:09
+		Duration:	00:33:50
+		Location:	46.88856 8.24442
+
+(11) - Finish
+	MAPP2
+		Images:	3854
+		Time:	07.09.2025 10:05:17 until 07.09.2025 15:06:37
+		Duration:	05:01:20
+		Location:	46.88903 8.24271
+
+	MAPP2LS2
+		Images:	2688
+		Time:	07.09.2025 10:10:17 until 07.09.2025 11:16:54
+		Duration:	01:06:37
+		Location:	46.88903 8.24271
+
+	MAPP2LS1
+		Images:	713
+		Time:	07.09.2025 11:17:37 until 07.09.2025 13:30:01
+		Duration:	02:12:24
+		Location:	46.88903 8.24271
+
+	DIG2
+		Images:	5126
+		Time:	07.09.2025 10:13:17 until 07.09.2025 12:10:10
+		Duration:	01:56:53
+		Location:	46.88903 8.24271
+
+(12) - Ceremony
+	LBO2
+		Images:	568
+		Time:	07.09.2025 12:01:57 until 07.09.2025 13:13:18
+		Duration:	01:11:21
+		Location:	46.89192 8.24385
+
+(13) - Mini Run + Viktor Röthlins Klassenduell
+	YMD3
+		Images:	837
+		Time:	07.09.2025 13:16:06 until 07.09.2025 15:05:53
+		Duration:	01:49:47
+		Location:	46.88856 8.24442
+
+	LUJ3
+		Images:	237
+		Time:	07.09.2025 14:17:18 until 07.09.2025 14:49:24
+		Duration:	00:32:06
+		Location:	46.88933 8.24277
+
+	LBL2
+		Images:	1259
+		Time:	07.09.2025 13:15:29 until 07.09.2025 15:04:46
+		Duration:	01:49:17
+		Location:	46.88933 8.24277
+
+	DIG3
+		Images:	2779
+		Time:	07.09.2025 13:07:37 until 07.09.2025 15:07:19
+		Duration:	01:59:42
+		Location:	46.88903 8.24271
+

@@ -1,0 +1,94 @@
+EventId: 13833
+Spots: 13
+Total Images: 30579
+Time:	01.01.0001 23:00:00 to 22.06.2025 17:36:43
+Duration: 739422.18:36:43
+
+(1) - Start
+	JLTG1
+		Images:	282
+		Time:	22.06.2025 07:13:50 until 22.06.2025 11:18:43
+		Duration:	04:04:53
+		Location:	43.09274 -0.04600
+
+(2) - KM 45,5 MEDIUM / KM 102,5 LONG
+	TGM1LS1
+		Images:	2990
+		Time:	22.06.2025 08:30:47 until 22.06.2025 14:42:03
+		Duration:	06:11:16
+		Location:	42.91969 0.19345
+
+(3) - Impressions / Pano
+	TGM1DRONE1
+		Images:	18
+		Time:	22.06.2025 10:20:03 until 22.06.2025 10:33:49
+		Duration:	00:13:46
+		Location:	42.91974 0.19232
+
+	PANO1
+		Images:	2
+		Time:	01.01.0001 23:00:00 until 22.06.2025 15:55:30
+		Duration:	739422.16:55:30
+		Location:	42.91969 0.19345
+
+(4) - KM 46 MEDIUM / KM 103 LONG
+	TGM1
+		Images:	5206
+		Time:	22.06.2025 09:24:34 until 22.06.2025 14:40:57
+		Duration:	05:16:23
+		Location:	42.91969 0.19345
+
+(5) - KM 47 MEDIUM / KM 105 LONG
+	TGM1LS2
+		Images:	1605
+		Time:	22.06.2025 09:07:00 until 22.06.2025 13:26:27
+		Duration:	04:19:27
+		Location:	42.91974 0.19232
+
+(6) - KM 49 MEDIUM / KM 107 LONG
+	MIFP1
+		Images:	5373
+		Time:	22.06.2025 09:12:10 until 22.06.2025 15:40:59
+		Duration:	06:28:49
+		Location:	42.90893 0.15646
+
+(7) - KM 49,5 MEDIUM / KM 107,5 LONG
+	MIFP1LS1
+		Images:	2948
+		Time:	22.06.2025 08:46:34 until 22.06.2025 15:45:45
+		Duration:	06:59:11
+		Location:	42.90893 0.15646
+
+(8) - KM 52 MEDIUM / KM 110 LONG
+	MANR1
+		Images:	4933
+		Time:	22.06.2025 09:12:29 until 22.06.2025 15:52:07
+		Duration:	06:39:38
+		Location:	42.91125 0.13959
+
+(9) - KM 52,5 MEDIUM / KM 110,5 LONG
+	MANR1LS1
+		Images:	2038
+		Time:	22.06.2025 09:10:42 until 22.06.2025 15:58:46
+		Duration:	06:48:04
+		Location:	42.91125 0.13959
+
+(10) - Finish
+	JLTG2LS1
+		Images:	1154
+		Time:	22.06.2025 10:34:23 until 22.06.2025 17:26:24
+		Duration:	06:52:01
+		Location:	43.09274 -0.04600
+
+	JLTG2LS2
+		Images:	1068
+		Time:	22.06.2025 10:25:59 until 22.06.2025 17:25:26
+		Duration:	06:59:27
+		Location:	43.09274 -0.04600
+
+	JLTG2
+		Images:	2962
+		Time:	22.06.2025 11:19:49 until 22.06.2025 17:36:43
+		Duration:	06:16:54
+		Location:	43.09274 -0.04600
+

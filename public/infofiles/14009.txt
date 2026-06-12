@@ -1,0 +1,216 @@
+EventId: 14009
+Spots: 31
+Total Images: 100068
+Time:	01.01.0001 23:00:00 to 18.05.2025 16:08:44
+Duration: 739387.17:08:44
+
+(1) - Start
+	AKS1
+		Images:	2510
+		Time:	17.05.2025 11:42:11 until 17.05.2025 14:13:03
+		Duration:	02:30:52
+		Location:	48.09125 11.57926
+
+(2) - Impressions / Pano
+	AKS1IMP1
+		Images:	17
+		Time:	17.05.2025 11:02:34 until 17.05.2025 11:32:29
+		Duration:	00:29:55
+		Location:	48.09125 11.57926
+
+	YS1DRONE1
+		Images:	17
+		Time:	17.05.2025 17:11:07 until 18.05.2025 08:14:42
+		Duration:	15:03:35
+		Location:	NULL NULL
+
+	PANO1
+(3) - 4.3 km
+	AKS1LS1
+		Images:	3253
+		Time:	17.05.2025 11:54:21 until 17.05.2025 15:18:22
+		Duration:	03:24:01
+		Location:	48.07504 11.54238
+
+(4) - 30.4 km
+	AKS2
+		Images:	5887
+		Time:	17.05.2025 16:24:51 until 17.05.2025 19:31:48
+		Duration:	03:06:57
+		Location:	47.92365 11.37873
+
+(5) - 30.2 km
+	AKS2LS1
+		Images:	5212
+		Time:	17.05.2025 16:39:22 until 17.05.2025 19:26:46
+		Duration:	02:47:24
+		Location:	47.92428 11.37877
+
+(6) - 80.0 km
+	AKS3
+		Images:	2790
+		Time:	18.05.2025 03:02:03 until 18.05.2025 09:53:30
+		Duration:	06:51:27
+		Location:	47.63073 11.22452
+
+(7) - 80.2 km
+	AKS3LS1
+		Images:	2136
+		Time:	18.05.2025 02:54:41 until 18.05.2025 10:39:37
+		Duration:	07:44:56
+		Location:	47.63091 11.22433
+
+(8) - 82.3 km
+	AKS3LS2
+		Images:	1331
+		Time:	18.05.2025 03:47:54 until 18.05.2025 10:53:56
+		Duration:	07:06:02
+		Location:	47.62304 11.20254
+
+(9) - 16.5 km
+	DASA1
+		Images:	3545
+		Time:	17.05.2025 13:59:54 until 17.05.2025 16:08:38
+		Duration:	02:08:44
+		Location:	47.99511 11.47528
+
+(10) - 96.0 km
+	DASA2
+		Images:	5512
+		Time:	17.05.2025 16:08:44 until 18.05.2025 14:20:35
+		Duration:	22:11:51
+		Location:	47.51853 11.11590
+
+(11) - 47.0 km
+	RJS1
+		Images:	5010
+		Time:	17.05.2025 14:31:18 until 17.05.2025 18:02:50
+		Duration:	03:31:32
+		Location:	47.98635 11.46853
+
+(12) - 472.0 km
+	RJS1LS1
+		Images:	1779
+		Time:	17.05.2025 14:14:57 until 17.05.2025 17:49:18
+		Duration:	03:34:21
+		Location:	47.98635 11.46853
+
+(13) - Herotent
+	RJS2
+		Images:	1056
+		Time:	18.05.2025 03:43:41 until 18.05.2025 15:56:04
+		Duration:	12:12:23
+		Location:	47.48199 11.11752
+
+(14) - Finish
+	RJS2LS1
+		Images:	1572
+		Time:	18.05.2025 03:20:18 until 18.05.2025 16:08:44
+		Duration:	12:48:26
+		Location:	47.48199 11.11752
+
+(15) - 10.4 km
+	SHUE1
+		Images:	6700
+		Time:	17.05.2025 13:10:28 until 17.05.2025 16:19:54
+		Duration:	03:09:26
+		Location:	48.03711 11.50809
+
+(16) - 10.6 km
+	SHUE1LS1
+		Images:	3726
+		Time:	17.05.2025 13:23:22 until 17.05.2025 16:19:12
+		Duration:	02:55:50
+		Location:	48.03711 11.50809
+
+(17) - 37.8 km
+	SHUE2
+		Images:	3336
+		Time:	17.05.2025 17:35:23 until 17.05.2025 20:38:04
+		Duration:	03:02:41
+		Location:	47.88530 11.33348
+
+(18) - 37.6 km
+	SHUE2LS1
+		Images:	1733
+		Time:	17.05.2025 18:18:48 until 17.05.2025 20:48:41
+		Duration:	02:29:53
+		Location:	47.88530 11.33348
+
+(19) - 95.7 km
+	SHUE3
+		Images:	82
+		Time:	01.01.0001 23:00:00 until 18.05.2025 05:33:55
+		Duration:	739387.06:33:55
+		Location:	47.52851 11.11764
+
+(20) - 94.4 km
+	SHUE4
+		Images:	3790
+		Time:	18.05.2025 05:46:24 until 18.05.2025 13:38:26
+		Duration:	07:52:02
+		Location:	47.53647 11.12654
+
+(21) - 942.0 km
+	SHUE4LS1
+		Images:	3133
+		Time:	18.05.2025 06:03:40 until 18.05.2025 13:32:01
+		Duration:	07:28:21
+		Location:	47.53647 11.12654
+
+(22) - 4.4 km
+	YS1
+		Images:	12568
+		Time:	01.01.0001 23:00:00 until 17.05.2025 15:09:05
+		Duration:	739386.16:09:05
+		Location:	48.07444 11.53914
+
+(23) - 4.2 km
+	YS1LS1
+		Images:	2129
+		Time:	17.05.2025 11:59:57 until 17.05.2025 15:26:12
+		Duration:	03:26:15
+		Location:	48.07463 11.54156
+
+(24) - 4.0 km
+	YS1LS2
+		Images:	3239
+		Time:	17.05.2025 11:55:38 until 17.05.2025 15:18:46
+		Duration:	03:23:08
+		Location:	48.07463 11.54156
+
+(25) - 30.5 km
+	YS2
+		Images:	4677
+		Time:	17.05.2025 17:34:43 until 18.05.2025 04:35:39
+		Duration:	11:00:56
+		Location:	47.92198 11.37722
+
+(26) - 30.1 km
+	YS2LS1
+		Images:	6041
+		Time:	17.05.2025 16:36:31 until 17.05.2025 19:18:48
+		Duration:	02:42:17
+		Location:	47.92386 11.37884
+
+(27) - 29.8 km
+	YS2LS2
+		Images:	1358
+		Time:	17.05.2025 16:50:47 until 17.05.2025 19:21:57
+		Duration:	02:31:10
+		Location:	47.92386 11.37884
+
+(28) - 82.4 km
+	YS3
+		Images:	4574
+		Time:	18.05.2025 04:38:36 until 18.05.2025 10:45:57
+		Duration:	06:07:21
+		Location:	47.62148 11.20195
+
+(29) - 82.2 km
+	YS3LS1
+		Images:	1355
+		Time:	18.05.2025 03:37:30 until 18.05.2025 10:53:26
+		Duration:	07:15:56
+		Location:	47.62304 11.20254
+

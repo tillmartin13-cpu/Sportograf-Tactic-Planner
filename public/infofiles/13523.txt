@@ -1,0 +1,82 @@
+EventId: 13523
+Spots: 11
+Total Images: 21872
+Time:	25.05.2025 07:02:15 to 25.05.2025 17:18:02
+Duration: 10:15:47
+
+(1) - 19.0 km
+	ALL1
+		Images:	1846
+		Time:	25.05.2025 08:06:48 until 25.05.2025 09:00:21
+		Duration:	00:53:33
+		Location:	NULL NULL
+
+(2) - 110.0 km
+	ALL2
+		Images:	1212
+		Time:	25.05.2025 10:53:17 until 25.05.2025 14:54:41
+		Duration:	04:01:24
+		Location:	NULL NULL
+
+	ALL2LS1
+		Images:	1007
+		Time:	25.05.2025 10:39:23 until 25.05.2025 14:06:08
+		Duration:	03:26:45
+		Location:	NULL NULL
+
+(3) - 20.0 km
+	ARF1
+		Images:	894
+		Time:	25.05.2025 07:50:33 until 25.05.2025 09:07:13
+		Duration:	01:16:40
+		Location:	NULL NULL
+
+(4) - 150.0 km
+	ARF2
+		Images:	2484
+		Time:	25.05.2025 09:37:49 until 25.05.2025 16:44:46
+		Duration:	07:06:57
+		Location:	NULL NULL
+
+(5) - 24.0 km
+	CC1
+		Images:	2545
+		Time:	25.05.2025 08:17:17 until 25.05.2025 10:51:41
+		Duration:	02:34:24
+		Location:	NULL NULL
+
+(6) - 107.0 km
+	CC2
+		Images:	1700
+		Time:	25.05.2025 10:52:38 until 25.05.2025 14:20:29
+		Duration:	03:27:51
+		Location:	NULL NULL
+
+(7) - Start
+	DART1
+		Images:	1512
+		Time:	25.05.2025 07:02:15 until 25.05.2025 09:48:16
+		Duration:	02:46:01
+		Location:	NULL NULL
+
+(8) - Finish
+	DART2
+		Images:	3755
+		Time:	25.05.2025 09:49:45 until 25.05.2025 17:18:02
+		Duration:	07:28:17
+		Location:	NULL NULL
+
+(9) - 22.0 km
+	GABO1
+		Images:	1818
+		Time:	25.05.2025 08:16:17 until 25.05.2025 16:17:32
+		Duration:	08:01:15
+		Location:	NULL NULL
+
+(10) - 145.0 km
+	GABO2
+		Images:	3099
+		Time:	25.05.2025 09:47:42 until 25.05.2025 16:40:24
+		Duration:	06:52:42
+		Location:	NULL NULL
+

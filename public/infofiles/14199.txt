@@ -1,0 +1,103 @@
+EventId: 14199
+Spots: 15
+Total Images: 29265
+Time:	20.09.2025 01:04:42 to 20.09.2025 18:40:06
+Duration: 17:35:24
+
+(1) - Start
+	YSE1
+		Images:	1238
+		Time:	20.09.2025 12:19:01 until 20.09.2025 13:53:46
+		Duration:	01:34:45
+		Location:	47.94572 13.59448
+
+(2) - 2,7KM
+	COR1
+		Images:	2794
+		Time:	20.09.2025 13:03:18 until 20.09.2025 17:25:29
+		Duration:	04:22:11
+		Location:	47.92459 13.58209
+
+	COR1DRONE1
+		Images:	22
+		Time:	20.09.2025 13:18:08 until 20.09.2025 13:35:53
+		Duration:	00:17:45
+		Location:	47.92459 13.58209
+
+	COR1LS1
+		Images:	1092
+		Time:	20.09.2025 12:53:54 until 20.09.2025 17:28:50
+		Duration:	04:34:56
+		Location:	47.92459 13.58209
+
+	COR1LS2
+		Images:	1103
+		Time:	20.09.2025 12:55:05 until 20.09.2025 17:28:24
+		Duration:	04:33:19
+		Location:	47.92459 13.58209
+
+(3) - 10KM
+	CHR1
+		Images:	2899
+		Time:	20.09.2025 13:11:49 until 20.09.2025 17:35:45
+		Duration:	04:23:56
+		Location:	47.863 13.56233
+
+	CHR1LS1
+		Images:	1103
+		Time:	20.09.2025 13:08:25 until 20.09.2025 17:36:28
+		Duration:	04:28:03
+		Location:	47.863 13.56233
+
+	CHR1LS2
+		Images:	1044
+		Time:	20.09.2025 01:04:42 until 20.09.2025 05:36:33
+		Duration:	04:31:51
+		Location:	47.863 13.56233
+
+	CHR1DRONE1
+		Images:	18
+		Time:	20.09.2025 13:14:57 until 20.09.2025 13:29:31
+		Duration:	00:14:34
+		Location:	47.863 13.56233
+
+(4) - 11KM
+	BEM1
+		Images:	3084
+		Time:	20.09.2025 13:12:19 until 20.09.2025 17:36:34
+		Duration:	04:24:15
+		Location:	47.85395 13.55694
+
+(5) - 29,5KM Berg und Seeblick
+	ALEP1
+		Images:	3063
+		Time:	20.09.2025 13:27:38 until 20.09.2025 18:04:38
+		Duration:	04:37:00
+		Location:	47.83445 13.52447
+
+	ALEP1LS1
+		Images:	1451
+		Time:	20.09.2025 13:17:14 until 20.09.2025 18:07:47
+		Duration:	04:50:33
+		Location:	47.83445 13.52447
+
+	ALEP1LS2
+		Images:	1482
+		Time:	20.09.2025 13:10:38 until 20.09.2025 18:07:52
+		Duration:	04:57:14
+		Location:	47.83445 13.52447
+
+(6) - 44KM Buchberg
+	MIW1
+		Images:	4369
+		Time:	20.09.2025 12:26:39 until 20.09.2025 18:25:42
+		Duration:	05:59:03
+		Location:	47.93607 13.54839
+
+(7) - Finish
+	YSE2
+		Images:	4503
+		Time:	20.09.2025 13:57:38 until 20.09.2025 18:40:06
+		Duration:	04:42:28
+		Location:	47.94572 13.59448
+

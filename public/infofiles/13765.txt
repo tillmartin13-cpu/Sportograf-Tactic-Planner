@@ -1,0 +1,113 @@
+EventId: 13765
+Spots: 17
+Total Images: 30691
+Time:	16.08.2025 10:24:45 to 16.08.2025 17:15:31
+Duration: 06:50:46
+
+(1) - Swim - Start
+	TIM1
+		Images:	686
+		Time:	16.08.2025 11:05:02 until 16.08.2025 12:28:31
+		Duration:	01:23:29
+		Location:	50.89208 14.77299
+
+(2) - Swim Exit
+	PMA1LS1
+		Images:	446
+		Time:	16.08.2025 11:42:20 until 16.08.2025 12:20:12
+		Duration:	00:37:52
+		Location:	50.89240 14.77626
+
+	PMA1
+		Images:	2908
+		Time:	16.08.2025 10:56:07 until 16.08.2025 12:51:52
+		Duration:	01:55:45
+		Location:	50.89240 14.77626
+
+(3) - Bike - 0,2 km
+	ROH1
+		Images:	3792
+		Time:	16.08.2025 10:42:56 until 16.08.2025 12:57:40
+		Duration:	02:14:44
+		Location:	50.89240 14.77369
+
+	ROH1LS1
+		Images:	730
+		Time:	16.08.2025 11:43:30 until 16.08.2025 12:56:32
+		Duration:	01:13:02
+		Location:	50.89240 14.77369
+
+(4) - Bike - 15,7 km
+	NH1
+		Images:	2859
+		Time:	16.08.2025 12:35:49 until 16.08.2025 14:25:18
+		Duration:	01:49:29
+		Location:	50.84011 14.70671
+
+(5) - Bike - 36,8 km
+	TIM2
+		Images:	743
+		Time:	16.08.2025 13:23:40 until 16.08.2025 16:10:54
+		Duration:	02:47:14
+		Location:	50.89168 14.77157
+
+(6) - Bike - 37,2 km
+	TIM1LS1
+		Images:	536
+		Time:	16.08.2025 10:24:45 until 16.08.2025 14:25:56
+		Duration:	04:01:11
+		Location:	50.89201 14.77523
+
+	TIM1LS2
+		Images:	540
+		Time:	16.08.2025 10:31:36 until 16.08.2025 14:25:56
+		Duration:	03:54:20
+		Location:	50.89201 14.77523
+
+(7) - Run - 3,5 km
+	ROH2
+		Images:	5182
+		Time:	16.08.2025 13:41:55 until 16.08.2025 17:02:29
+		Duration:	03:20:34
+		Location:	50.89488 14.75845
+
+	ROH2LS2
+		Images:	1037
+		Time:	16.08.2025 13:33:23 until 16.08.2025 16:38:56
+		Duration:	03:05:33
+		Location:	50.89488 14.75845
+
+	ROH2LS1
+		Images:	1026
+		Time:	16.08.2025 13:19:31 until 16.08.2025 16:38:48
+		Duration:	03:19:17
+		Location:	50.89488 14.75845
+
+(8) - Swim - Impressions / Pano
+	ROH2DRONE1
+		Images:	41
+		Time:	16.08.2025 11:28:40 until 16.08.2025 11:41:42
+		Duration:	00:13:02
+		Location:	50.89488 14.75845
+
+	PANO1
+(9) - Run - 4,6 km
+	NH2
+		Images:	2451
+		Time:	16.08.2025 15:13:01 until 16.08.2025 17:10:17
+		Duration:	01:57:16
+		Location:	50.89397 14.77302
+
+(10) - Finish
+	PMA2LS1
+		Images:	4506
+		Time:	16.08.2025 13:57:59 until 16.08.2025 16:00:25
+		Duration:	02:02:26
+		Location:	50.89308 14.77424
+
+	PMA2
+		Images:	3208
+		Time:	16.08.2025 14:02:19 until 16.08.2025 17:15:31
+		Duration:	03:13:12
+		Location:	50.89308 14.77424
+

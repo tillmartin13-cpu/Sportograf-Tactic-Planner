@@ -1,0 +1,68 @@
+EventId: 14290
+Spots: 9
+Total Images: 4564
+Time:	25.09.2025 21:55:00 to 26.09.2025 11:33:04
+Duration: 13:38:04
+
+(1) - 0,2 km
+	ABAA2
+		Images:	196
+		Time:	26.09.2025 08:01:28 until 26.09.2025 11:13:33
+		Duration:	03:12:05
+		Location:	4.86141 000.76206
+
+(2) - 0,6 km
+	HTT1
+		Images:	1020
+		Time:	26.09.2025 06:32:15 until 26.09.2025 08:25:20
+		Duration:	01:53:05
+		Location:	4.86299 100.76312
+
+	HTT1LS1
+		Images:	157
+		Time:	26.09.2025 00:50:49 until 26.09.2025 08:34:08
+		Duration:	07:43:19
+		Location:	4.86299 100.76312
+
+(3) - 4,0 km
+	JKHA1
+		Images:	234
+		Time:	25.09.2025 23:36:43 until 26.09.2025 08:59:53
+		Duration:	09:23:10
+		Location:	4.86542 100.76639
+
+(4) - 3,5 km
+	MFAZ1
+		Images:	535
+		Time:	26.09.2025 07:34:21 until 26.09.2025 10:16:21
+		Duration:	02:42:00
+		Location:	4.86748 100.77898
+
+(5) - 0,4 km
+	MVV1
+		Images:	766
+		Time:	25.09.2025 21:55:00 until 26.09.2025 08:12:36
+		Duration:	10:17:36
+		Location:	4.86232 100.76312
+
+(6) - 4,8 km
+	PZIE2
+		Images:	1004
+		Time:	26.09.2025 07:38:23 until 26.09.2025 11:33:04
+		Duration:	03:54:41
+		Location:	4.86289 100.79132
+
+(7) - Start
+	RADM2
+		Images:	435
+		Time:	26.09.2025 07:06:00 until 26.09.2025 08:03:19
+		Duration:	00:57:19
+		Location:	4.86051 100.76084
+
+(8) - Finish
+	RY1
+		Images:	217
+		Time:	26.09.2025 08:25:43 until 26.09.2025 10:39:54
+		Duration:	02:14:11
+		Location:	4.86186 100.79314
+

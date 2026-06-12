@@ -1,0 +1,45 @@
+EventId: 15943
+Spots: 7
+Total Images: 7662
+Time:	26.04.2025 06:32:08 to 26.04.2025 11:26:35
+Duration: 04:54:27
+
+(1) - Impressions / Pano
+	PANO1
+(2) - 0.0 km
+	ALRE1
+		Images:	662
+		Time:	26.04.2025 06:32:08 until 26.04.2025 09:27:03
+		Duration:	02:54:55
+		Location:	NULL NULL
+
+	ALST1
+		Images:	83
+		Time:	26.04.2025 08:49:04 until 26.04.2025 09:42:41
+		Duration:	00:53:37
+		Location:	NULL NULL
+
+	ERLU1
+		Images:	2365
+		Time:	26.04.2025 07:46:32 until 26.04.2025 11:26:35
+		Duration:	03:40:03
+		Location:	NULL NULL
+
+	ANWI1
+		Images:	2509
+		Time:	26.04.2025 08:46:09 until 26.04.2025 11:26:26
+		Duration:	02:40:17
+		Location:	NULL NULL
+
+	AWIL1
+		Images:	245
+		Time:	26.04.2025 07:44:50 until 26.04.2025 09:40:43
+		Duration:	01:55:53
+		Location:	NULL NULL
+
+	KYBR1
+		Images:	1798
+		Time:	26.04.2025 08:46:09 until 26.04.2025 09:41:43
+		Duration:	00:55:34
+		Location:	NULL NULL
+

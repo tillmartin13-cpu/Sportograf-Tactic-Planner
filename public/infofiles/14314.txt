@@ -1,0 +1,87 @@
+EventId: 14314
+Spots: 12
+Total Images: 81636
+Time:	18.09.2025 07:45:28 to 19.10.2025 15:39:13
+Duration: 31.07:53:45
+
+(1) - Obstacle 6 Atlas Carry
+	AOLI1
+		Images:	2291
+		Time:	18.10.2025 07:02:09 until 18.10.2025 15:30:50
+		Duration:	08:28:41
+		Location:	44.49196 -80.32032
+
+	THAT1
+		Images:	5761
+		Time:	19.10.2025 07:34:24 until 19.10.2025 15:39:13
+		Duration:	08:04:49
+		Location:	44.49196 -80.32032
+
+(2) - Obstacle 12 Inverted Wall
+	CASS1
+		Images:	6250
+		Time:	18.10.2025 07:11:36 until 18.10.2025 15:51:38
+		Duration:	08:40:02
+		Location:	44.49625 -80.32260
+
+(3) - Obstacle 9 Sandbag Carry
+	CBAC1
+		Images:	13789
+		Time:	18.10.2025 07:35:49 until 19.10.2025 07:29:39
+		Duration:	23:53:50
+		Location:	44.49329 -80.32095
+
+(4) - Obstacle 23 A-Frame
+	DMED1
+		Images:	3851
+		Time:	17.10.2025 21:09:09 until 18.10.2025 18:41:25
+		Duration:	21:32:16
+		Location:	44.50284 -80.31470
+
+(5) - Obstacle 30 Multi Rig
+	KENY1
+		Images:	5789
+		Time:	17.10.2025 23:16:07 until 18.10.2025 18:53:01
+		Duration:	19:36:54
+		Location:	44.49856 -80.31063
+
+	WTY1
+		Images:	6169
+		Time:	17.10.2025 22:58:52 until 19.10.2025 07:42:33
+		Duration:	1.08:43:41
+		Location:	44.49856 -80.31063
+
+(6) - Obstacle 13 Barbed Wire Crawl
+	LHBC1
+		Images:	12159
+		Time:	18.09.2025 07:45:28 until 18.09.2025 16:02:39
+		Duration:	08:17:11
+		Location:	44.49806 -80.32263
+
+(7) - Venue
+	NIMA1
+		Images:	266
+		Time:	18.10.2025 11:29:08 until 19.10.2025 12:52:19
+		Duration:	1.01:23:11
+		Location:	44.50269 -80.30656
+
+	NIMA2
+		Images:	175
+		Time:	17.10.2025 22:21:29 until 18.10.2025 13:33:49
+		Duration:	15:12:20
+		Location:	44.49988 -80.31598
+
+(8) - Herotent Hero Wall
+	PNR1
+		Images:	4260
+		Time:	17.10.2025 23:14:46 until 18.10.2025 18:35:11
+		Duration:	19:20:25
+		Location:	44.49757 -80.30863
+
+(9) - Obstacle 33 Fire Jump
+	MAVA1
+		Images:	20874
+		Time:	18.10.2025 09:14:50 until 18.10.2025 18:33:40
+		Duration:	09:18:50
+		Location:	44.49756 -80.30912
+

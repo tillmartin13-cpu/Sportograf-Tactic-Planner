@@ -1,0 +1,185 @@
+EventId: 13835
+Spots: 28
+Total Images: 47461
+Time:	28.06.2025 02:07:51 to 28.06.2025 21:42:51
+Duration: 19:35:00
+
+(1) - Start
+	DIG1
+		Images:	1712
+		Time:	28.06.2025 03:36:10 until 28.06.2025 17:58:35
+		Duration:	14:22:25
+		Location:	48.07836 6.94361
+
+	DIG1DRONE1
+		Images:	25
+		Time:	28.06.2025 08:22:14 until 28.06.2025 08:28:40
+		Duration:	00:06:26
+		Location:	48.07836 6.94361
+
+(2) - 1,0 km after start
+	ROB1
+		Images:	374
+		Time:	28.06.2025 04:08:56 until 28.06.2025 04:13:27
+		Duration:	00:04:31
+		Location:	48.07943 6.93276
+
+	ROB1LS2
+		Images:	228
+		Time:	28.06.2025 04:08:09 until 28.06.2025 04:15:22
+		Duration:	00:07:13
+		Location:	48.07943 6.93276
+
+	ROB1LS1
+		Images:	231
+		Time:	28.06.2025 02:07:51 until 28.06.2025 02:13:12
+		Duration:	00:05:21
+		Location:	48.07943 6.93276
+
+(3) - 8,1 km After start
+	ISA1
+		Images:	188
+		Time:	28.06.2025 04:59:11 until 28.06.2025 05:24:54
+		Duration:	00:25:43
+		Location:	48.04219 6.93227
+
+	ISA1LS2
+		Images:	201
+		Time:	28.06.2025 04:58:15 until 28.06.2025 05:29:29
+		Duration:	00:31:14
+		Location:	48.04219 6.93227
+
+	ISA1LS1
+		Images:	86
+		Time:	28.06.2025 04:54:20 until 28.06.2025 05:23:22
+		Duration:	00:29:02
+		Location:	48.04219 6.93227
+
+(4) - 8,2 km after start
+	TNR1
+		Images:	288
+		Time:	28.06.2025 04:53:09 until 28.06.2025 05:28:48
+		Duration:	00:35:39
+		Location:	48.04054 6.93254
+
+	TNR1LS2
+		Images:	801
+		Time:	28.06.2025 04:49:32 until 28.06.2025 05:28:26
+		Duration:	00:38:54
+		Location:	48.04054 6.93254
+
+	TNR1LS1
+		Images:	795
+		Time:	28.06.2025 04:48:16 until 28.06.2025 11:23:02
+		Duration:	06:34:46
+		Location:	48.04054 6.93254
+
+(5) - 17,9 km before finish le Hohneck
+	ROB2
+		Images:	3558
+		Time:	28.06.2025 05:48:31 until 28.06.2025 17:09:01
+		Duration:	11:20:30
+		Location:	48.03218 7.01232
+
+	ROB2LS2
+		Images:	1561
+		Time:	28.06.2025 06:50:29 until 28.06.2025 17:08:40
+		Duration:	10:18:11
+		Location:	48.03218 7.01232
+
+	ROB2LS1
+		Images:	1576
+		Time:	28.06.2025 05:04:01 until 28.06.2025 15:08:40
+		Duration:	10:04:39
+		Location:	48.03218 7.01232
+
+(6) - 43,1 km after Start Lac de Blanchemer
+	SBRO2
+		Images:	4764
+		Time:	28.06.2025 05:23:31 until 28.06.2025 13:55:01
+		Duration:	08:31:30
+		Location:	48.01815 6.97805
+
+(7) - 8,0 km before finish Lac de Lispach
+	TNR2
+		Images:	1747
+		Time:	28.06.2025 12:55:42 until 28.06.2025 19:33:43
+		Duration:	06:38:01
+		Location:	48.05057 6.94025
+
+	TNR2LS2
+		Images:	1361
+		Time:	28.06.2025 12:23:36 until 28.06.2025 19:33:06
+		Duration:	07:09:30
+		Location:	48.05057 6.94025
+
+	TNR2LS1
+		Images:	2643
+		Time:	28.06.2025 12:54:52 until 28.06.2025 18:58:10
+		Duration:	06:03:18
+		Location:	48.05057 6.94025
+
+(8) - 6,4 km to finish Collet de la Mine
+	ISA2
+		Images:	192
+		Time:	28.06.2025 11:29:14 until 28.06.2025 12:00:01
+		Duration:	00:30:47
+		Location:	48.04219 6.93227
+
+	ISA2LS1
+		Images:	285
+		Time:	28.06.2025 11:10:56 until 28.06.2025 13:36:50
+		Duration:	02:25:54
+		Location:	48.04219 6.93227
+
+	ISA2LS2
+		Images:	400
+		Time:	28.06.2025 11:36:46 until 28.06.2025 13:52:01
+		Duration:	02:15:15
+		Location:	48.04219 6.93227
+
+(9) - 3,2 km before finish
+	ISA3
+		Images:	3897
+		Time:	28.06.2025 12:00:03 until 28.06.2025 20:50:35
+		Duration:	08:50:32
+		Location:	48.05717 6.94316
+
+	ISA3LS2
+		Images:	508
+		Time:	28.06.2025 13:57:17 until 28.06.2025 18:35:22
+		Duration:	04:38:05
+		Location:	48.05717 6.94316
+
+	ISA3LS1
+		Images:	1749
+		Time:	28.06.2025 13:37:01 until 28.06.2025 20:34:44
+		Duration:	06:57:43
+		Location:	48.05717 6.94316
+
+(10) - 1,0 km to the finish Lac le Longemer
+	SBRO3
+		Images:	5185
+		Time:	28.06.2025 14:10:13 until 28.06.2025 20:30:01
+		Duration:	06:19:48
+		Location:	48.07562 6.94331
+
+(11) - Finish
+	DIG2
+		Images:	7334
+		Time:	28.06.2025 10:03:13 until 28.06.2025 21:42:51
+		Duration:	11:39:38
+		Location:	48.07871 6.94574
+
+	DIG2LS2
+		Images:	3056
+		Time:	28.06.2025 11:56:53 until 28.06.2025 21:20:45
+		Duration:	09:23:52
+		Location:	48.07871 6.94574
+
+	DIG2LS1
+		Images:	2716
+		Time:	28.06.2025 11:56:57 until 28.06.2025 21:27:03
+		Duration:	09:30:06
+		Location:	48.07871 6.94574
+

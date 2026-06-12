@@ -1,0 +1,52 @@
+EventId: 14717
+Spots: 7
+Total Images: 12907
+Time:	02.07.2025 18:03:09 to 05.07.2025 14:05:08
+Duration: 2.20:01:59
+
+(1) - Start
+	AIS1
+		Images:	228
+		Time:	05.07.2025 08:44:08 until 05.07.2025 10:32:54
+		Duration:	01:48:46
+		Location:	42.72532 0.96510
+
+(2) - 13.0 km
+	DAC1
+		Images:	3178
+		Time:	05.07.2025 10:46:37 until 05.07.2025 13:00:09
+		Duration:	02:13:32
+		Location:	42.72069 0.94204
+
+	DAC1LS1
+		Images:	692
+		Time:	05.07.2025 09:53:43 until 05.07.2025 12:33:20
+		Duration:	02:39:37
+		Location:	42.72069 0.94204
+
+(3) - 14.0 km
+	GGA1
+		Images:	2258
+		Time:	05.07.2025 10:45:51 until 05.07.2025 13:27:33
+		Duration:	02:41:42
+		Location:	42.72661 0.95183
+
+	GGA1LS1
+		Images:	673
+		Time:	05.07.2025 10:47:14 until 05.07.2025 12:54:48
+		Duration:	02:07:34
+		Location:	42.72661 0.95183
+
+(4) - Finish
+	AIS2
+		Images:	2773
+		Time:	05.07.2025 10:57:35 until 05.07.2025 14:05:08
+		Duration:	03:07:33
+		Location:	42.72532 0.96510
+
+	AIS2LS1
+		Images:	3065
+		Time:	05.07.2025 10:50:33 until 05.07.2025 14:05:05
+		Duration:	03:14:32
+		Location:	42.72532 0.96510
+

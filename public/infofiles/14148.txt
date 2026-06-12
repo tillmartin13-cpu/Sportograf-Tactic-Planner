@@ -1,0 +1,70 @@
+EventId: 14148
+Spots: 10
+Total Images: 4968
+Time:	14.06.2025 05:10:56 to 14.06.2025 14:18:44
+Duration: 09:07:48
+
+(1) - Start
+	BP1LS1
+		Images:	388
+		Time:	14.06.2025 05:40:27 until 14.06.2025 14:00:54
+		Duration:	08:20:27
+		Location:	46.63953 7.68983
+
+(2) - 0.5km after Schwandegg
+	MAPP1
+		Images:	942
+		Time:	14.06.2025 05:10:56 until 14.06.2025 10:07:46
+		Duration:	04:56:50
+		Location:	46.64279 7.66200
+
+	MAPP1LS1
+		Images:	507
+		Time:	14.06.2025 06:45:52 until 14.06.2025 09:35:48
+		Duration:	02:49:56
+		Location:	46.64286 7.65859
+
+(3) - 0.5km before Niesen Kulm
+	BP1
+		Images:	1319
+		Time:	14.06.2025 06:21:37 until 14.06.2025 10:55:46
+		Duration:	04:34:09
+		Location:	46.64482 7.65448
+
+	BP1LS4
+		Images:	484
+		Time:	14.06.2025 06:54:33 until 14.06.2025 11:35:53
+		Duration:	04:41:20
+		Location:	46.64482 7.65448
+
+	BP1LS3
+		Images:	322
+		Time:	14.06.2025 07:13:08 until 14.06.2025 10:10:19
+		Duration:	02:57:11
+		Location:	46.64482 7.65448
+
+	BP1LS2
+		Images:	687
+		Time:	14.06.2025 08:24:45 until 14.06.2025 10:11:54
+		Duration:	01:47:09
+		Location:	46.64482 7.65448
+
+	BP2DRONE1
+		Images:	34
+		Time:	14.06.2025 06:30:14 until 14.06.2025 11:10:45
+		Duration:	04:40:31
+		Location:	46.64482 7.65448
+
+(4) - Ceremony
+	BP2
+		Images:	64
+		Time:	14.06.2025 11:12:38 until 14.06.2025 14:18:44
+		Duration:	03:06:06
+		Location:	46.64484 7.65144
+
+	MAPP2
+		Images:	221
+		Time:	14.06.2025 10:50:39 until 14.06.2025 14:17:51
+		Duration:	03:27:12
+		Location:	46.64484 7.65144
+

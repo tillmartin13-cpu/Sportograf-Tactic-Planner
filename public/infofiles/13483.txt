@@ -1,0 +1,188 @@
+EventId: 13483
+Spots: 29
+Total Images: 70012
+Time:	01.01.0001 23:00:00 to 20.10.2025 02:20:05
+Duration: 739542.03:20:05
+
+(1) - Start
+	NBE1
+		Images:	1008
+		Time:	19.10.2025 07:54:08 until 19.10.2025 08:27:46
+		Duration:	00:33:38
+		Location:	45.20224 13.58784
+
+	RSA1
+		Images:	446
+		Time:	19.10.2025 07:39:15 until 19.10.2025 08:36:47
+		Duration:	00:57:32
+		Location:	45.20224 13.58784
+
+(2) - SWIM OUT
+	MDS1LS1
+		Images:	1478
+		Time:	19.10.2025 07:44:06 until 19.10.2025 09:46:22
+		Duration:	02:02:16
+		Location:	45.20285 13.59479
+
+	MDS1
+		Images:	3908
+		Time:	19.10.2025 07:47:07 until 19.10.2025 11:21:49
+		Duration:	03:34:42
+		Location:	45.20285 13.59479
+
+	MDS1LS2
+		Images:	1127
+		Time:	19.10.2025 07:41:14 until 19.10.2025 11:10:49
+		Duration:	03:29:35
+		Location:	45.20285 13.59479
+
+(3) - TRANSITION
+	RAM3
+		Images:	5103
+		Time:	19.10.2025 08:14:20 until 19.10.2025 09:50:38
+		Duration:	01:36:18
+		Location:	45.20159 13.59735
+
+	RAM3LS1
+		Images:	1473
+		Time:	19.10.2025 08:09:37 until 19.10.2025 09:51:04
+		Duration:	01:41:27
+		Location:	45.20159 13.59735
+
+	RAM3LS2
+		Images:	1060
+		Time:	19.10.2025 08:09:35 until 19.10.2025 09:50:56
+		Duration:	01:41:21
+		Location:	45.20159 13.59735
+
+(4) - BIKE 20 KM
+	LULE1
+		Images:	5115
+		Time:	19.10.2025 09:05:42 until 19.10.2025 13:19:50
+		Duration:	04:14:08
+		Location:	45.26669 13.68819
+
+	LULE1LS3
+		Images:	2568
+		Time:	19.10.2025 10:44:39 until 19.10.2025 23:24:33
+		Duration:	12:39:54
+		Location:	45.26669 13.68819
+
+	LULE1LS1
+		Images:	2823
+		Time:	19.10.2025 08:39:59 until 19.10.2025 14:08:07
+		Duration:	05:28:08
+		Location:	45.26669 13.68819
+
+	LULE1LS2
+		Images:	874
+		Time:	19.10.2025 08:28:16 until 19.10.2025 09:29:10
+		Duration:	01:00:54
+		Location:	45.26669 13.68819
+
+(5) - BIKE 45 KM
+	NAT1
+		Images:	8482
+		Time:	19.10.2025 09:08:01 until 19.10.2025 13:13:50
+		Duration:	04:05:49
+		Location:	45.27522 13.71009
+
+	NAT1LS2
+		Images:	1460
+		Time:	19.10.2025 08:49:49 until 19.10.2025 13:14:04
+		Duration:	04:24:15
+		Location:	45.27522 13.71009
+
+	NAT1LS1
+		Images:	1181
+		Time:	19.10.2025 09:04:36 until 19.10.2025 13:14:04
+		Duration:	04:09:28
+		Location:	45.27522 13.71009
+
+(6) - RUN 10 KM
+	MDS2
+		Images:	3758
+		Time:	19.10.2025 11:39:01 until 19.10.2025 15:24:57
+		Duration:	03:45:56
+		Location:	45.20403 13.58630
+
+	MDS2LS1
+		Images:	1708
+		Time:	19.10.2025 11:12:21 until 19.10.2025 15:14:20
+		Duration:	04:01:59
+		Location:	45.20403 13.58630
+
+	MDS2LS2
+		Images:	1658
+		Time:	19.10.2025 11:12:19 until 19.10.2025 15:14:05
+		Duration:	04:01:46
+		Location:	45.20403 13.58630
+
+(7) - RUN 6 KM
+	RAM2
+		Images:	6771
+		Time:	19.10.2025 10:59:56 until 19.10.2025 14:04:57
+		Duration:	03:05:01
+		Location:	45.20578 13.59829
+
+	RAM2LS1
+		Images:	3676
+		Time:	19.10.2025 10:47:47 until 19.10.2025 15:09:59
+		Duration:	04:22:12
+		Location:	45.20578 13.59829
+
+	RAM2LS2
+		Images:	1472
+		Time:	01.01.0001 23:00:00 until 19.10.2025 12:26:08
+		Duration:	739541.13:26:08
+		Location:	45.20578 13.59829
+
+(8) - Finish
+	NBE2
+		Images:	4409
+		Time:	19.10.2025 10:42:43 until 19.10.2025 17:11:57
+		Duration:	06:29:14
+		Location:	45.19560 13.59178
+
+	RSA2
+		Images:	5065
+		Time:	19.10.2025 09:20:56 until 19.10.2025 15:52:58
+		Duration:	06:32:02
+		Location:	45.19560 13.59178
+
+	RSA2DRONE1
+		Images:	15
+		Time:	19.10.2025 08:21:07 until 19.10.2025 08:31:43
+		Duration:	00:10:36
+		Location:	45.19560 13.59199
+
+	LULE2LS1
+		Images:	176
+		Time:	19.10.2025 14:08:09 until 19.10.2025 16:06:34
+		Duration:	01:58:25
+		Location:	45.19560 13.59178
+
+	LULE2LS2
+		Images:	56
+		Time:	20.10.2025 02:13:50 until 20.10.2025 02:20:05
+		Duration:	00:06:15
+		Location:	45.19560 13.59178
+
+	NAT2
+		Images:	1307
+		Time:	19.10.2025 14:21:33 until 19.10.2025 15:23:51
+		Duration:	01:02:18
+		Location:	45.19630 13.59136
+
+	NAT2LS1
+		Images:	1213
+		Time:	19.10.2025 14:16:52 until 19.10.2025 15:23:53
+		Duration:	01:07:01
+		Location:	45.19630 13.59136
+
+	NAT2LS2
+		Images:	622
+		Time:	19.10.2025 14:14:11 until 19.10.2025 15:23:53
+		Duration:	01:09:42
+		Location:	45.19630 13.59136
+

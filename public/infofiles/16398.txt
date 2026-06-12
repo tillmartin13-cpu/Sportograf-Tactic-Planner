@@ -1,0 +1,125 @@
+EventId: 16398
+Spots: 18
+Total Images: 65548
+Time:	20.06.2025 13:50:06 to 21.06.2025 16:18:47
+Duration: 1.02:28:41
+
+(1) - 2.5 km Vianden Viewpoint - Cable Car Station
+	ALN1
+		Images:	4234
+		Time:	21.06.2025 10:03:40 until 21.06.2025 10:34:14
+		Duration:	00:30:34
+		Location:	49.93719 6.20091
+
+(2) - 2.5 km
+	ALN1DRONE1
+		Images:	15
+		Time:	21.06.2025 12:12:01 until 21.06.2025 14:51:15
+		Duration:	02:39:14
+		Location:	49.93719 6.20091
+
+	ALN1LS2
+		Images:	699
+		Time:	21.06.2025 09:48:24 until 21.06.2025 10:36:23
+		Duration:	00:47:59
+		Location:	49.93719 6.20091
+
+	ALN1LS1
+		Images:	887
+		Time:	21.06.2025 09:43:56 until 21.06.2025 10:35:57
+		Duration:	00:52:01
+		Location:	49.93719 6.20091
+
+(3) - 2.3 km
+	ALN2
+		Images:	7229
+		Time:	21.06.2025 11:14:55 until 21.06.2025 12:33:50
+		Duration:	01:18:55
+		Location:	49.93813 6.20226
+
+	ALN2LS2
+		Images:	921
+		Time:	21.06.2025 10:58:50 until 21.06.2025 12:36:04
+		Duration:	01:37:14
+		Location:	49.93813 6.20226
+
+	ALN2LS1
+		Images:	1843
+		Time:	21.06.2025 10:37:51 until 21.06.2025 12:36:48
+		Duration:	01:58:57
+		Location:	49.93813 6.20226
+
+(4) - 2.0 km
+	ALN3
+		Images:	6240
+		Time:	21.06.2025 13:10:16 until 21.06.2025 15:05:33
+		Duration:	01:55:17
+		Location:	49.94217 6.19987
+
+	ALN3LS2
+		Images:	1153
+		Time:	21.06.2025 12:56:23 until 21.06.2025 15:04:26
+		Duration:	02:08:03
+		Location:	49.94217 6.19987
+
+	ALN3LS1
+		Images:	1842
+		Time:	21.06.2025 12:57:51 until 21.06.2025 15:05:55
+		Duration:	02:08:04
+		Location:	49.94217 6.19987
+
+(5) - 12.0 km
+	TLA1
+		Images:	12316
+		Time:	21.06.2025 08:48:36 until 21.06.2025 15:25:57
+		Duration:	06:37:21
+		Location:	49.95303 6.16051
+
+(6) - 17.0 km Wooden bridge along the Our
+	BC1
+		Images:	2856
+		Time:	21.06.2025 09:11:29 until 21.06.2025 11:33:51
+		Duration:	02:22:22
+		Location:	49.9572 6.18851
+
+(7) - 17.5 km
+	BC2
+		Images:	4318
+		Time:	21.06.2025 11:55:23 until 21.06.2025 15:43:33
+		Duration:	03:48:10
+		Location:	49.96099 6.18451
+
+(8) - 22.0 km Vianden Dam
+	SIL1
+		Images:	10127
+		Time:	21.06.2025 08:46:34 until 21.06.2025 16:18:47
+		Duration:	07:32:13
+		Location:	49.93963 6.20574
+
+(9) - 23.0 km few 100 meters before finish
+	OP1
+		Images:	3259
+		Time:	21.06.2025 09:14:38 until 21.06.2025 12:03:02
+		Duration:	02:48:24
+		Location:	49.93761 6.20487
+
+(10) - 23.0 km
+	OP1LS1
+		Images:	1140
+		Time:	20.06.2025 13:50:06 until 21.06.2025 12:03:43
+		Duration:	22:13:37
+		Location:	49.93761 6.20487
+
+(11) - Finish
+	OP2
+		Images:	4467
+		Time:	21.06.2025 12:10:59 until 21.06.2025 15:59:38
+		Duration:	03:48:39
+		Location:	49.93728 6.20563
+
+	OP2LS1
+		Images:	2002
+		Time:	21.06.2025 12:06:24 until 21.06.2025 16:02:40
+		Duration:	03:56:16
+		Location:	49.93728 6.20563
+

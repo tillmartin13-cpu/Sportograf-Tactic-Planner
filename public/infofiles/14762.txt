@@ -1,0 +1,132 @@
+EventId: 14762
+Spots: 19
+Total Images: 78561
+Time:	21.06.2025 08:12:50 to 22.06.2025 15:20:03
+Duration: 1.07:07:13
+
+(1) - Impressions / Pano
+	PANO1
+		Images:	26
+		Time:	21.06.2025 08:12:50 until 22.06.2025 12:42:46
+		Duration:	1.04:29:56
+		Location:	48.16244 15.60008
+
+(2) - Obstacle 1 A Frame Cargo
+	AGP1
+		Images:	3776
+		Time:	22.06.2025 09:41:55 until 22.06.2025 14:33:24
+		Duration:	04:51:29
+		Location:	48.16187 15.59963
+
+(3) - Obstacle 1 Sandbag Carry
+	AGU1
+		Images:	5526
+		Time:	22.06.2025 09:51:27 until 22.06.2025 14:51:18
+		Duration:	04:59:51
+		Location:	48.16224 15.60352
+
+	AGU1LS2
+		Images:	9037
+		Time:	22.06.2025 09:25:37 until 22.06.2025 14:50:10
+		Duration:	05:24:33
+		Location:	48.16224 15.60352
+
+	AGU1LS1
+		Images:	9032
+		Time:	21.06.2025 10:38:16 until 22.06.2025 14:46:38
+		Duration:	1.04:08:22
+		Location:	48.16224 15.60352
+
+(4) - Obstacle 1
+	CK1DRONE1
+		Images:	22
+		Time:	21.06.2025 13:24:14 until 22.06.2025 13:42:30
+		Duration:	1.00:18:16
+		Location:	48.16244 15.60008
+
+(5) - Obstacle 1 Vertical Net
+	CK2
+		Images:	926
+		Time:	22.06.2025 10:57:18 until 22.06.2025 12:31:08
+		Duration:	01:33:50
+		Location:	48.16244 15.60008
+
+(6) - Obstacle 1 Barbwire Crawl
+	CK3
+		Images:	629
+		Time:	22.06.2025 13:20:59 until 22.06.2025 13:48:36
+		Duration:	00:27:37
+		Location:	48.16183 15.59962
+
+	KYR1
+		Images:	10013
+		Time:	21.06.2025 08:36:59 until 22.06.2025 15:12:13
+		Duration:	1.06:35:14
+		Location:	48.16183 15.59962
+
+(7) - Obstacle 1 Dunkwall
+	EUGP1
+		Images:	2498
+		Time:	21.06.2025 08:55:16 until 22.06.2025 14:19:37
+		Duration:	1.05:24:21
+		Location:	48.16162 15.59835
+
+(8) - Obstacle 1 Atlas Carry
+	JAKO1
+		Images:	3021
+		Time:	22.06.2025 09:42:14 until 22.06.2025 14:27:38
+		Duration:	04:45:24
+		Location:	48.16302 15.60159
+
+(9) - Obstacle 1 Multirig
+	MIW1
+		Images:	3424
+		Time:	22.06.2025 09:37:53 until 22.06.2025 14:03:46
+		Duration:	04:25:53
+		Location:	48.15866 15.59249
+
+(10) - Obstacle 1 Z-Traverse
+	YEP1
+		Images:	4444
+		Time:	21.06.2025 08:33:22 until 22.06.2025 14:13:45
+		Duration:	1.05:40:23
+		Location:	48.16090 15.59569
+
+(11) - Finish
+	CK1LS2
+		Images:	2000
+		Time:	22.06.2025 12:40:15 until 22.06.2025 13:37:04
+		Duration:	00:56:49
+		Location:	48.16244 15.60008
+
+	CK1
+		Images:	792
+		Time:	22.06.2025 09:56:32 until 22.06.2025 14:19:38
+		Duration:	04:23:06
+		Location:	48.16244 15.60008
+
+	CK1LS3
+		Images:	5482
+		Time:	22.06.2025 09:10:51 until 22.06.2025 14:29:04
+		Duration:	05:18:13
+		Location:	48.16244 15.60008
+
+	CK1LS1
+		Images:	5121
+		Time:	22.06.2025 09:15:25 until 22.06.2025 12:39:28
+		Duration:	03:24:03
+		Location:	48.16244 15.60008
+
+	DRU1
+		Images:	8559
+		Time:	21.06.2025 09:03:03 until 22.06.2025 15:15:10
+		Duration:	1.06:12:07
+		Location:	48.16244 15.60008
+
+(12) - Herotent
+	RIP1
+		Images:	4233
+		Time:	21.06.2025 08:33:22 until 22.06.2025 15:20:03
+		Duration:	1.06:46:41
+		Location:	48.16256 15.60010
+

@@ -1,0 +1,319 @@
+EventId: 15350
+Spots: 50
+Total Images: 227875
+Time:	09.05.2025 14:54:12 to 11.05.2025 20:52:06
+Duration: 2.05:57:54
+
+(1) - SELFIE MIRROR at the Start
+	MK10
+		Images:	1313
+		Time:	11.05.2025 08:05:26 until 11.05.2025 19:07:02
+		Duration:	11:01:36
+		Location:	52.93864 5.94232
+
+(2) - Station 1 SKIERG
+	MBEN1
+		Images:	10964
+		Time:	11.05.2025 08:03:57 until 11.05.2025 14:59:47
+		Duration:	06:55:50
+		Location:	52.93864 5.94232
+
+	THL2
+		Images:	6277
+		Time:	11.05.2025 15:18:28 until 11.05.2025 19:25:47
+		Duration:	04:07:19
+		Location:	52.93864 5.94232
+
+	MK1
+		Images:	625
+		Time:	11.05.2025 14:58:44 until 11.05.2025 15:20:02
+		Duration:	00:21:18
+		Location:	52.93864 5.94232
+
+	TID1
+		Images:	4157
+		Time:	11.05.2025 08:03:39 until 11.05.2025 14:58:31
+		Duration:	06:54:52
+		Location:	52.93864 5.94232
+
+	SSW2
+		Images:	7204
+		Time:	11.05.2025 15:24:40 until 11.05.2025 19:27:54
+		Duration:	04:03:14
+		Location:	52.93864 5.94232
+
+(3) - Station 2 SLED PUSH
+	ACCA1
+		Images:	8168
+		Time:	11.05.2025 08:11:42 until 11.05.2025 14:53:53
+		Duration:	06:42:11
+		Location:	52.93864 5.94232
+
+	MW1
+		Images:	3533
+		Time:	11.05.2025 08:07:10 until 11.05.2025 14:30:34
+		Duration:	06:23:24
+		Location:	52.93864 5.94232
+
+	WEN2
+		Images:	3780
+		Time:	11.05.2025 14:16:12 until 11.05.2025 19:36:31
+		Duration:	05:20:19
+		Location:	52.93864 5.94232
+
+	OT2
+		Images:	5621
+		Time:	11.05.2025 14:50:12 until 11.05.2025 19:29:48
+		Duration:	04:39:36
+		Location:	52.93864 5.94232
+
+	FDH1
+		Images:	2284
+		Time:	11.05.2025 08:42:15 until 11.05.2025 15:06:23
+		Duration:	06:24:08
+		Location:	52.93864 5.94232
+
+	MK3
+		Images:	180
+		Time:	11.05.2025 17:19:10 until 11.05.2025 19:05:43
+		Duration:	01:46:33
+		Location:	52.93864 5.94232
+
+	MBEN2
+		Images:	3691
+		Time:	11.05.2025 15:06:25 until 11.05.2025 19:34:59
+		Duration:	04:28:34
+		Location:	52.93864 5.94232
+
+(4) - Station 2 RUN OUT SLED PUSH - SLED PULL
+	MK2LS2
+		Images:	3920
+		Time:	11.05.2025 08:00:26 until 11.05.2025 19:48:50
+		Duration:	11:48:24
+		Location:	52.93864 5.94232
+
+	MK2LS1
+		Images:	4053
+		Time:	11.05.2025 07:55:42 until 11.05.2025 19:59:14
+		Duration:	12:03:32
+		Location:	52.93864 5.94232
+
+(5) - Station 3 SLED PULL
+	STL1
+		Images:	5803
+		Time:	11.05.2025 08:14:09 until 11.05.2025 14:29:27
+		Duration:	06:15:18
+		Location:	52.93864 5.94232
+
+	JOHE1
+		Images:	6298
+		Time:	10.05.2025 07:52:10 until 11.05.2025 14:57:05
+		Duration:	1.07:04:55
+		Location:	52.93864 5.94232
+
+	FAH1
+		Images:	3820
+		Time:	11.05.2025 08:00:22 until 11.05.2025 14:57:08
+		Duration:	06:56:46
+		Location:	52.93864 5.94232
+
+	MW2
+		Images:	3414
+		Time:	11.05.2025 15:06:27 until 11.05.2025 19:45:31
+		Duration:	04:39:04
+		Location:	52.93864 5.94232
+
+	TID2
+		Images:	2268
+		Time:	11.05.2025 15:02:20 until 11.05.2025 19:35:54
+		Duration:	04:33:34
+		Location:	52.93864 5.94232
+
+	ACCA2
+		Images:	3103
+		Time:	11.05.2025 14:59:42 until 11.05.2025 19:45:05
+		Duration:	04:45:23
+		Location:	52.93864 5.94232
+
+(6) - Station 4 BURPEE ROAD
+	MK4
+		Images:	399
+		Time:	11.05.2025 15:35:47 until 11.05.2025 18:50:47
+		Duration:	03:15:00
+		Location:	52.93864 5.94232
+
+(7) - Station 5 ROWING
+	DEES1
+		Images:	2157
+		Time:	11.05.2025 14:13:44 until 11.05.2025 15:07:36
+		Duration:	00:53:52
+		Location:	52.93864 5.94232
+
+	WEN1
+		Images:	7079
+		Time:	11.05.2025 08:26:04 until 11.05.2025 14:11:51
+		Duration:	05:45:47
+		Location:	52.93864 5.94232
+
+	RM5
+		Images:	4836
+		Time:	10.05.2025 08:55:38 until 11.05.2025 18:59:30
+		Duration:	1.10:03:52
+		Location:	52.93864 5.94232
+
+	LV5
+		Images:	5559
+		Time:	11.05.2025 09:35:33 until 11.05.2025 18:59:37
+		Duration:	09:24:04
+		Location:	52.93864 5.94232
+
+	PBO2
+		Images:	6181
+		Time:	11.05.2025 13:15:32 until 11.05.2025 19:57:17
+		Duration:	06:41:45
+		Location:	52.93864 5.94232
+
+	FCO2
+		Images:	4069
+		Time:	11.05.2025 15:24:35 until 11.05.2025 20:13:14
+		Duration:	04:48:39
+		Location:	52.93864 5.94232
+
+(8) - Station 6 FARMERS CARRY
+	RM6LS1
+		Images:	4541
+		Time:	11.05.2025 07:44:16 until 11.05.2025 20:27:03
+		Duration:	12:42:47
+		Location:	52.93864 5.94232
+
+	RM6LS2
+		Images:	5962
+		Time:	10.05.2025 07:46:22 until 10.05.2025 20:55:16
+		Duration:	13:08:54
+		Location:	52.93864 5.94232
+
+(9) - Station 7 SANDBAG LUNGES
+	THL1
+		Images:	7598
+		Time:	11.05.2025 08:44:40 until 11.05.2025 15:07:44
+		Duration:	06:23:04
+		Location:	52.93864 5.94232
+
+	SSW1
+		Images:	6747
+		Time:	10.05.2025 07:59:45 until 11.05.2025 15:15:39
+		Duration:	1.07:15:54
+		Location:	52.93864 5.94232
+
+	LV7
+		Images:	3760
+		Time:	11.05.2025 10:04:02 until 11.05.2025 19:28:12
+		Duration:	09:24:10
+		Location:	52.93864 5.94232
+
+	RM7
+		Images:	5163
+		Time:	11.05.2025 10:07:51 until 11.05.2025 19:34:29
+		Duration:	09:26:38
+		Location:	52.93864 5.94232
+
+	JOHE2
+		Images:	2376
+		Time:	11.05.2025 15:09:44 until 11.05.2025 20:33:56
+		Duration:	05:24:12
+		Location:	52.93864 5.94232
+
+	DEES2
+		Images:	4866
+		Time:	11.05.2025 15:18:15 until 11.05.2025 20:32:52
+		Duration:	05:14:37
+		Location:	52.93864 5.94232
+
+(10) - Station 8 WALLBALLS
+	KFK1
+		Images:	14801
+		Time:	11.05.2025 08:13:07 until 11.05.2025 20:44:36
+		Duration:	12:31:29
+		Location:	52.93864 5.94232
+
+	PBO1
+		Images:	6731
+		Time:	11.05.2025 07:45:14 until 11.05.2025 15:03:10
+		Duration:	07:17:56
+		Location:	52.93864 5.94232
+
+	FCO1
+		Images:	4305
+		Time:	11.05.2025 08:50:33 until 11.05.2025 15:17:25
+		Duration:	06:26:52
+		Location:	52.93864 5.94232
+
+	FAH2
+		Images:	4272
+		Time:	11.05.2025 15:09:49 until 11.05.2025 20:36:20
+		Duration:	05:26:31
+		Location:	52.93864 5.94232
+
+	FDH2
+		Images:	6318
+		Time:	11.05.2025 15:20:38 until 11.05.2025 20:42:40
+		Duration:	05:22:02
+		Location:	52.93864 5.94232
+
+(11) - Finish
+	VL2
+		Images:	3020
+		Time:	11.05.2025 15:00:45 until 11.05.2025 17:38:27
+		Duration:	02:37:42
+		Location:	52.93864 5.94232
+
+	OT1
+		Images:	7215
+		Time:	11.05.2025 08:53:15 until 11.05.2025 14:00:58
+		Duration:	05:07:43
+		Location:	52.93864 5.94232
+
+	LV9
+		Images:	2258
+		Time:	11.05.2025 10:50:50 until 11.05.2025 19:55:18
+		Duration:	09:04:28
+		Location:	52.93864 5.94232
+
+	LV9LS1
+		Images:	2957
+		Time:	11.05.2025 07:52:47 until 11.05.2025 20:49:49
+		Duration:	12:57:02
+		Location:	52.93864 5.94232
+
+	MW1LS1
+		Images:	3650
+		Time:	11.05.2025 08:01:01 until 11.05.2025 20:49:19
+		Duration:	12:48:18
+		Location:	52.93864 5.94232
+
+(12) - Medalwall
+	VL1
+		Images:	7005
+		Time:	10.05.2025 08:04:02 until 11.05.2025 20:46:26
+		Duration:	1.12:42:24
+		Location:	52.93864 5.94232
+
+	STL2
+		Images:	3005
+		Time:	11.05.2025 15:01:24 until 11.05.2025 20:52:06
+		Duration:	05:50:42
+		Location:	52.93864 5.94232
+
+(13) - Impressions / Pano
+	MK1IMP1
+		Images:	568
+		Time:	10.05.2025 12:45:51 until 11.05.2025 19:13:15
+		Duration:	1.06:27:24
+		Location:	52.93864 5.94232
+
+	PANO1
+		Images:	1
+		Time:	09.05.2025 14:54:12 until 09.05.2025 14:54:12
+		Duration:	00:00:00
+		Location:	52.93866 5.94220
+

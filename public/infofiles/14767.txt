@@ -1,0 +1,104 @@
+EventId: 14767
+Spots: 15
+Total Images: 29571
+Time:	20.09.2025 12:55:44 to 21.09.2025 19:52:00
+Duration: 1.06:56:16
+
+(1) - Swim - Start
+	BA1
+		Images:	1654
+		Time:	21.09.2025 14:11:06 until 21.09.2025 16:01:14
+		Duration:	01:50:08
+		Location:	50.19125 4.37934
+
+	SDT1DRONE1
+		Images:	12
+		Time:	20.09.2025 13:56:57 until 21.09.2025 14:33:17
+		Duration:	1.00:36:20
+		Location:	50.19125 4.37934
+
+(2) - Swim - Transition zone
+	SDT1
+		Images:	939
+		Time:	21.09.2025 14:37:39 until 21.09.2025 16:24:42
+		Duration:	01:47:03
+		Location:	50.19125 4.37934
+
+	SDT1LS2
+		Images:	677
+		Time:	21.09.2025 14:24:40 until 21.09.2025 15:54:33
+		Duration:	01:29:53
+		Location:	50.19125 4.37934
+
+	SDT1LS1
+		Images:	753
+		Time:	21.09.2025 14:24:38 until 21.09.2025 15:54:31
+		Duration:	01:29:53
+		Location:	50.19125 4.37934
+
+(3) - Bike - 6.2 km after Start
+	ROB1
+		Images:	8810
+		Time:	20.09.2025 13:08:13 until 21.09.2025 16:58:49
+		Duration:	1.03:50:36
+		Location:	50.20791 4.40387
+
+	ROB1LS2
+		Images:	1508
+		Time:	21.09.2025 14:08:30 until 21.09.2025 17:22:32
+		Duration:	03:14:02
+		Location:	50.20791 4.40387
+
+	ROB1LS1
+		Images:	1698
+		Time:	21.09.2025 14:20:21 until 21.09.2025 17:16:45
+		Duration:	02:56:24
+		Location:	50.20791 4.40387
+
+(4) - Bike - 5.3 km after Start
+	SBRO2
+		Images:	3166
+		Time:	20.09.2025 15:06:48 until 21.09.2025 17:21:34
+		Duration:	1.02:14:46
+		Location:	50.21385 4.40407
+
+(5) - Bike - 20.8 km after Start
+	MSAI1
+		Images:	1761
+		Time:	20.09.2025 13:05:39 until 21.09.2025 16:38:48
+		Duration:	1.03:33:09
+		Location:	50.19099 4.36285
+
+(6) - Run - 0.7 km after Start
+	BA2
+		Images:	1357
+		Time:	21.09.2025 16:15:36 until 21.09.2025 19:09:34
+		Duration:	02:53:58
+		Location:	50.18892 4.37707
+
+(7) - Run - 1.9 km after Start
+	MSAI2
+		Images:	3882
+		Time:	21.09.2025 16:53:32 until 21.09.2025 19:20:48
+		Duration:	02:27:16
+		Location:	50.18911 4.36567
+
+(8) - Finish
+	SDT2
+		Images:	1017
+		Time:	21.09.2025 16:24:44 until 21.09.2025 19:50:51
+		Duration:	03:26:07
+		Location:	50.19136 4.37869
+
+	SDT2LS2
+		Images:	1164
+		Time:	21.09.2025 16:05:37 until 21.09.2025 19:52:00
+		Duration:	03:46:23
+		Location:	50.19136 4.37869
+
+	SDT2LS1
+		Images:	1157
+		Time:	21.09.2025 16:05:36 until 21.09.2025 19:49:08
+		Duration:	03:43:32
+		Location:	50.19136 4.37869
+

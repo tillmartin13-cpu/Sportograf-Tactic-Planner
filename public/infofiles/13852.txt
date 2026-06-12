@@ -1,0 +1,101 @@
+EventId: 13852
+Spots: 14
+Total Images: 36362
+Time:	03.10.2025 08:51:39 to 03.10.2025 17:14:23
+Duration: 08:22:44
+
+(1) - Start Race
+	AKAM1
+		Images:	987
+		Time:	03.10.2025 08:57:17 until 03.10.2025 10:47:06
+		Duration:	01:49:49
+		Location:	48.76785 9.04695
+
+(2) - 0.5 km after Start
+	MSAI1
+		Images:	4892
+		Time:	03.10.2025 09:55:15 until 03.10.2025 13:01:23
+		Duration:	03:06:08
+		Location:	48.76560 9.04573
+
+(3) - 7.4 km after Start
+	ROB1
+		Images:	5735
+		Time:	03.10.2025 10:21:34 until 03.10.2025 13:28:03
+		Duration:	03:06:29
+		Location:	48.75338 9.08752
+
+	ROB1LS1
+		Images:	3307
+		Time:	03.10.2025 09:40:59 until 03.10.2025 13:44:38
+		Duration:	04:03:39
+		Location:	48.75338 9.08752
+
+	ROB1DRONE1
+		Images:	13
+		Time:	03.10.2025 08:51:39 until 03.10.2025 10:56:46
+		Duration:	02:05:07
+		Location:	48.75338 9.08752
+
+(4) - 9.6 km after Start
+	JULG1
+		Images:	4522
+		Time:	03.10.2025 09:32:52 until 03.10.2025 13:32:18
+		Duration:	03:59:26
+		Location:	48.75754 9.06801
+
+(5) - Finish Race
+	AKAM2
+		Images:	2632
+		Time:	03.10.2025 12:26:39 until 03.10.2025 13:37:07
+		Duration:	01:10:28
+		Location:	48.76785 9.04695
+
+(6) - Start Tour
+	AKAM3
+		Images:	329
+		Time:	03.10.2025 13:50:52 until 03.10.2025 14:12:38
+		Duration:	00:21:46
+		Location:	48.76785 9.04695
+
+(7) - 1.4 km after Start
+	JULG2
+		Images:	2839
+		Time:	03.10.2025 14:02:24 until 03.10.2025 16:40:38
+		Duration:	02:38:14
+		Location:	48.75802 9.06623
+
+(8) - 3.9 km after Start
+	ROB2
+		Images:	4198
+		Time:	03.10.2025 14:17:58 until 03.10.2025 16:51:52
+		Duration:	02:33:54
+		Location:	48.75344 9.08764
+
+	ROB2LS1
+		Images:	1191
+		Time:	03.10.2025 13:45:29 until 03.10.2025 15:32:29
+		Duration:	01:47:00
+		Location:	48.75344 9.08764
+
+(9) - 10.9 km after Start
+	MSAI2
+		Images:	3467
+		Time:	03.10.2025 14:17:43 until 03.10.2025 17:12:13
+		Duration:	02:54:30
+		Location:	48.76470 9.04283
+
+(10) - Finish Tour
+	AKAM4
+		Images:	2231
+		Time:	03.10.2025 16:10:04 until 03.10.2025 17:14:23
+		Duration:	01:04:19
+		Location:	48.76785 9.04695
+
+(11) - Impressions / Pano
+	PANO1
+		Images:	19
+		Time:	03.10.2025 09:05:29 until 03.10.2025 09:23:40
+		Duration:	00:18:11
+		Location:	NULL NULL
+

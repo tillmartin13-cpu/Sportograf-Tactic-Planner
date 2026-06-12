@@ -1,0 +1,15 @@
+EventId: 17685
+Spots: 2
+Total Images: 304
+Time:	13.07.2025 06:48:39 to 13.07.2025 07:08:38
+Duration: 00:19:59
+
+(1) - none
+	ZZZ1
+		Images:	304
+		Time:	13.07.2025 06:48:39 until 13.07.2025 07:08:38
+		Duration:	00:19:59
+		Location:	NULL NULL
+
+(2) - Swim - Impressions / Pano
+	PANO1

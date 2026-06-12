@@ -1,0 +1,57 @@
+EventId: 16101
+Spots: 9
+Total Images: 11984
+Time:	04.08.2007 22:10:07 to 17.05.2025 08:05:16
+Duration: 6495.09:55:09
+
+(1) - Impressions / Pano
+	PANO1
+(2) - none
+	PAUL1
+		Images:	2874
+		Time:	17.05.2025 07:15:05 until 17.05.2025 08:05:16
+		Duration:	00:50:11
+		Location:	NULL NULL
+
+	LOW1
+		Images:	3239
+		Time:	17.05.2025 05:25:12 until 17.05.2025 07:08:18
+		Duration:	01:43:06
+		Location:	NULL NULL
+
+	START1
+		Images:	270
+		Time:	17.05.2025 06:17:06 until 17.05.2025 07:02:28
+		Duration:	00:45:22
+		Location:	NULL NULL
+
+	CHANT1
+		Images:	1034
+		Time:	17.05.2025 05:53:11 until 17.05.2025 06:39:33
+		Duration:	00:46:22
+		Location:	NULL NULL
+
+	AWARD1
+		Images:	105
+		Time:	17.05.2025 06:42:19 until 17.05.2025 07:02:40
+		Duration:	00:20:21
+		Location:	NULL NULL
+
+	UNO1
+		Images:	949
+		Time:	04.08.2007 22:10:07 until 04.08.2007 23:26:10
+		Duration:	01:16:03
+		Location:	NULL NULL
+
+	DOS1
+		Images:	3266
+		Time:	17.05.2025 04:07:07 until 17.05.2025 05:05:44
+		Duration:	00:58:37
+		Location:	NULL NULL
+
+	MEDAL1
+		Images:	247
+		Time:	17.05.2025 05:20:25 until 17.05.2025 06:38:49
+		Duration:	01:18:24
+		Location:	NULL NULL
+

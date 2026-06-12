@@ -1,0 +1,85 @@
+EventId: 14129
+Spots: 12
+Total Images: 7535
+Time:	08.06.2025 05:53:10 to 06.08.2025 11:27:13
+Duration: 59.05:34:03
+
+(1) - 112.0 km
+	JOP4
+		Images:	192
+		Time:	06.08.2025 10:33:43 until 06.08.2025 11:27:13
+		Duration:	00:53:30
+		Location:	-13.83934 -76.24636
+
+(2) - 14.0 km
+	JOP1
+		Images:	530
+		Time:	06.08.2025 05:54:55 until 06.08.2025 07:08:26
+		Duration:	01:13:31
+		Location:	-13.84707 -76.31822
+
+	MES1
+		Images:	553
+		Time:	08.06.2025 06:27:24 until 08.06.2025 07:08:02
+		Duration:	00:40:38
+		Location:	-13.84707 -76.31822
+
+(3) - 39.0 km
+	JOP3
+		Images:	616
+		Time:	06.08.2025 07:33:57 until 06.08.2025 08:07:42
+		Duration:	00:33:45
+		Location:	-13.82453 -76.23333
+
+(4) - 7.0 km
+	MAT1LS1
+		Images:	210
+		Time:	08.06.2025 06:38:08 until 08.06.2025 07:10:39
+		Duration:	00:32:31
+		Location:	-13.87103 -76.27633
+
+	MAT2
+		Images:	892
+		Time:	08.06.2025 06:34:01 until 08.06.2025 07:22:28
+		Duration:	00:48:27
+		Location:	-13.87103 -76.27633
+
+	MAT2LS1
+		Images:	91
+		Time:	08.06.2025 06:38:17 until 08.06.2025 07:13:16
+		Duration:	00:34:59
+		Location:	-13.87103 -76.27633
+
+(5) - 83.0 km
+	JOP2
+		Images:	1241
+		Time:	06.08.2025 08:35:14 until 06.08.2025 10:07:16
+		Duration:	01:32:02
+		Location:	-13.87103 -76.27633
+
+(6) - Finish
+	MAT3
+		Images:	1465
+		Time:	08.06.2025 08:54:01 until 08.06.2025 11:40:54
+		Duration:	02:46:53
+		Location:	-13.85806 -76.25232
+
+	MAT3LS2
+		Images:	874
+		Time:	08.06.2025 07:34:44 until 08.06.2025 11:32:42
+		Duration:	03:57:58
+		Location:	-13.85806 -76.25232
+
+	MAT3LS1
+		Images:	765
+		Time:	08.06.2025 09:12:13 until 08.06.2025 11:19:43
+		Duration:	02:07:30
+		Location:	-13.85806 -76.25232
+
+(7) - Start
+	MAT1
+		Images:	106
+		Time:	08.06.2025 05:53:10 until 08.06.2025 06:07:22
+		Duration:	00:14:12
+		Location:	-13.85806 -76.25232
+

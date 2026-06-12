@@ -1,0 +1,78 @@
+EventId: 13946
+Spots: 11
+Total Images: 9224
+Time:	06.09.2025 08:17:22 to 06.09.2025 15:30:44
+Duration: 07:13:22
+
+(1) - 6,8 km
+	LSE1
+		Images:	1964
+		Time:	06.09.2025 09:14:11 until 06.09.2025 14:21:24
+		Duration:	05:07:13
+		Location:	46.99165 10.23675
+
+	LSE1LS1
+		Images:	1099
+		Time:	06.09.2025 09:14:44 until 06.09.2025 14:20:24
+		Duration:	05:05:40
+		Location:	46.99165 10.23675
+
+(2) - 16,7 km
+	SE1
+		Images:	579
+		Time:	06.09.2025 08:17:22 until 06.09.2025 14:31:39
+		Duration:	06:14:17
+		Location:	46.96926 10.15289
+
+(3) - 18,6 km
+	UEC1
+		Images:	145
+		Time:	06.09.2025 08:53:06 until 06.09.2025 10:18:33
+		Duration:	01:25:27
+		Location:	46.97968 10.13314
+
+	UEC1LS2
+		Images:	54
+		Time:	06.09.2025 09:39:12 until 06.09.2025 10:15:39
+		Duration:	00:36:27
+		Location:	46.97968 10.13314
+
+	UEC1LS1
+		Images:	110
+		Time:	06.09.2025 09:39:08 until 06.09.2025 10:18:44
+		Duration:	00:39:36
+		Location:	46.97968 10.13314
+
+(4) - 7,8 km
+	UEC2LS2
+		Images:	241
+		Time:	06.09.2025 13:45:17 until 06.09.2025 14:32:35
+		Duration:	00:47:18
+		Location:	46.98701 10.23854
+
+	UEC2LS1
+		Images:	253
+		Time:	06.09.2025 13:19:43 until 06.09.2025 14:32:31
+		Duration:	01:12:48
+		Location:	46.98701 10.23854
+
+(5) - Start
+	LKE1
+		Images:	951
+		Time:	06.09.2025 08:47:36 until 06.09.2025 13:48:08
+		Duration:	05:00:32
+		Location:	47.01237 10.28844
+
+(6) - Finish
+	LKE2
+		Images:	137
+		Time:	06.09.2025 10:32:00 until 06.09.2025 15:02:35
+		Duration:	04:30:35
+		Location:	47.01149 10.28815
+
+	SIPE1
+		Images:	3691
+		Time:	06.09.2025 10:31:06 until 06.09.2025 15:30:44
+		Duration:	04:59:38
+		Location:	47.01149 10.28815
+

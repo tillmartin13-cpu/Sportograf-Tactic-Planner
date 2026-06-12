@@ -1,0 +1,89 @@
+EventId: 14448
+Spots: 12
+Total Images: 103016
+Time:	01.06.2024 07:03:07 to 02.06.2025 02:31:03
+Duration: 365.19:27:56
+
+(1) - Obstacle 1 Hurdles
+	HARB1
+		Images:	8332
+		Time:	31.05.2025 06:41:51 until 01.06.2025 14:15:40
+		Duration:	1.07:33:49
+		Location:	NULL NULL
+
+(2) - Obstacle 5 Dunk Wall
+	LLCA1
+		Images:	4730
+		Time:	31.05.2025 07:01:29 until 01.06.2025 14:31:53
+		Duration:	1.07:30:24
+		Location:	NULL NULL
+
+(3) - Obstacle 6 Slip Wall
+	LLCA2
+		Images:	1123
+		Time:	01.06.2025 09:04:01 until 01.06.2025 14:23:05
+		Duration:	05:19:04
+		Location:	NULL NULL
+
+(4) - Obstacle 7 Bucket Carry
+	MOR1
+		Images:	19183
+		Time:	01.06.2025 07:12:37 until 01.06.2025 14:32:56
+		Duration:	07:20:19
+		Location:	NULL NULL
+
+(5) - Obstacle 16 Sandbag Carry
+	STYS1
+		Images:	19977
+		Time:	31.05.2025 06:47:43 until 01.06.2025 14:44:25
+		Duration:	1.07:56:42
+		Location:	NULL NULL
+
+(6) - Obstacle 20 Monkey Bars
+	SURO1
+		Images:	12951
+		Time:	01.06.2025 19:27:12 until 02.06.2025 02:31:03
+		Duration:	07:03:51
+		Location:	NULL NULL
+
+(7) - Obstacle 23 Multi-Rig
+	CIFU1
+		Images:	4818
+		Time:	31.05.2025 07:09:25 until 01.06.2025 14:30:51
+		Duration:	1.07:21:26
+		Location:	NULL NULL
+
+	JOFU1
+		Images:	10409
+		Time:	01.06.2025 08:32:12 until 01.06.2025 17:12:42
+		Duration:	08:40:30
+		Location:	NULL NULL
+
+(8) - Obstacle 23 After Multi-Rig
+	JOFU1LS1
+		Images:	1055
+		Time:	01.06.2025 07:14:11 until 01.06.2025 14:38:51
+		Duration:	07:24:40
+		Location:	NULL NULL
+
+(9) - Obstacle 24 Fire Jump
+	JGAB1
+		Images:	17990
+		Time:	01.06.2024 07:03:07 until 01.06.2024 17:13:07
+		Duration:	10:10:00
+		Location:	NULL NULL
+
+(10) - Herotent
+	RSLZ1
+		Images:	2101
+		Time:	01.06.2025 06:56:05 until 01.06.2025 17:11:57
+		Duration:	10:15:52
+		Location:	NULL NULL
+
+(11) - Festival Area
+	JOD1
+		Images:	347
+		Time:	31.05.2025 08:28:27 until 01.06.2025 13:06:24
+		Duration:	1.04:37:57
+		Location:	NULL NULL
+

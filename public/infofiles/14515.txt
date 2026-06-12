@@ -1,0 +1,105 @@
+EventId: 14515
+Spots: 15
+Total Images: 104974
+Time:	03.05.2025 08:16:34 to 04.05.2025 17:42:03
+Duration: 1.09:25:29
+
+(1) - Obstacle 23 Bucket Carry
+	DBCH1
+		Images:	12340
+		Time:	03.05.2025 08:53:45 until 04.05.2025 16:11:38
+		Duration:	1.07:17:53
+		Location:	35.20130 -78.94269
+
+	VICY1
+		Images:	2085
+		Time:	04.05.2025 10:53:17 until 04.05.2025 15:22:42
+		Duration:	04:29:25
+		Location:	35.20130 -78.94269
+
+(2) - Swamp
+	KAH1
+		Images:	9696
+		Time:	04.05.2025 08:06:27 until 04.05.2025 16:24:22
+		Duration:	08:17:55
+		Location:	35.20280 -78.93811
+
+	VICY5
+		Images:	1595
+		Time:	04.05.2025 11:26:20 until 04.05.2025 15:39:01
+		Duration:	04:12:41
+		Location:	35.20280 -78.93811
+
+(3) - Obstacle 26 Dunk Wall
+	MCKR1
+		Images:	10751
+		Time:	03.05.2025 08:40:28 until 04.05.2025 16:48:17
+		Duration:	1.08:07:49
+		Location:	35.20513 -78.93252
+
+(4) - Obstacle 27 Slip Wall
+	TFUL1
+		Images:	18787
+		Time:	04.05.2025 08:10:40 until 04.05.2025 16:52:31
+		Duration:	08:41:51
+		Location:	35.20505 -78.93269
+
+	VICY4
+		Images:	106
+		Time:	04.05.2025 15:53:13 until 04.05.2025 15:59:48
+		Duration:	00:06:35
+		Location:	35.20505 -78.93269
+
+(5) - Obstacle 31 Multi-Rig
+	JEFL1
+		Images:	3423
+		Time:	03.05.2025 08:16:34 until 04.05.2025 17:01:25
+		Duration:	1.08:44:51
+		Location:	35.20475 -78.93052
+
+	MSK1
+		Images:	5360
+		Time:	03.05.2025 08:40:58 until 04.05.2025 17:00:30
+		Duration:	1.08:19:32
+		Location:	35.20475 -78.93052
+
+(6) - Obstacle 33 Craft A-Frame Cargo
+	BESC1
+		Images:	20066
+		Time:	04.05.2025 08:10:00 until 04.05.2025 17:38:30
+		Duration:	09:28:30
+		Location:	35.20469 -78.93075
+
+(7) - Obstacle 34 Fire Jump
+	DAHI1
+		Images:	11399
+		Time:	03.05.2025 15:46:48 until 04.05.2025 17:41:05
+		Duration:	1.01:54:17
+		Location:	35.21042 -78.93332
+
+	VICY2
+		Images:	184
+		Time:	04.05.2025 16:12:08 until 04.05.2025 16:20:13
+		Duration:	00:08:05
+		Location:	35.21042 -78.93332
+
+(8) - Herotent
+	TRC1
+		Images:	8503
+		Time:	03.05.2025 08:46:25 until 04.05.2025 17:42:03
+		Duration:	1.08:55:38
+		Location:	35.20552 -78.93136
+
+	VICY3
+		Images:	125
+		Time:	04.05.2025 12:52:07 until 04.05.2025 13:05:30
+		Duration:	00:13:23
+		Location:	35.20552 -78.93136
+
+(9) - Venue
+	VICY6
+		Images:	554
+		Time:	03.05.2025 09:15:59 until 04.05.2025 13:16:33
+		Duration:	1.04:00:34
+		Location:	35.20280 -78.93811
+

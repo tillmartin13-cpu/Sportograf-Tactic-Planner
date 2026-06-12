@@ -1,0 +1,147 @@
+EventId: 14291
+Spots: 22
+Total Images: 38186
+Time:	31.10.2025 14:38:39 to 02.11.2025 00:58:05
+Duration: 1.10:19:26
+
+(1) - Start
+	CO1
+		Images:	622
+		Time:	31.10.2025 16:05:39 until 01.11.2025 05:21:28
+		Duration:	13:15:49
+		Location:	56.19973 12.55863
+
+	RAJK1
+		Images:	190
+		Time:	31.10.2025 14:39:23 until 31.10.2025 18:56:15
+		Duration:	04:16:52
+		Location:	56.20013 12.55451
+
+	FLU1
+		Images:	55
+		Time:	31.10.2025 14:38:39 until 31.10.2025 15:22:58
+		Duration:	00:44:19
+		Location:	56.20013 12.55453
+
+	VLN1
+		Images:	28
+		Time:	31.10.2025 15:10:36 until 31.10.2025 15:51:04
+		Duration:	00:40:28
+		Location:	56.19973 12.55863
+
+(2) - 4km - 100K/100M
+	VLN2
+		Images:	1638
+		Time:	31.10.2025 17:17:05 until 31.10.2025 21:37:49
+		Duration:	04:20:44
+		Location:	56.22445 12.54036
+
+(3) - 16 km - 100M Kullens Fyr
+	JOM1
+		Images:	1088
+		Time:	31.10.2025 18:17:16 until 31.10.2025 19:42:40
+		Duration:	01:25:24
+		Location:	56.30072 12.45196
+
+	JOM1LS1
+		Images:	1994
+		Time:	31.10.2025 17:54:47 until 31.10.2025 19:48:58
+		Duration:	01:54:11
+		Location:	56.30117 12.45199
+
+(4) - 32km - 100M Mölle
+	JOM2
+		Images:	1197
+		Time:	31.10.2025 20:23:26 until 31.10.2025 21:52:06
+		Duration:	01:28:40
+		Location:	56.28278 12.49410
+
+(5) - 12km - 100K / 33km - 100M Mölle
+	JOM3
+		Images:	869
+		Time:	31.10.2025 21:54:13 until 31.10.2025 23:14:37
+		Duration:	01:20:24
+		Location:	56.28225 12.49392
+
+(6) - 37,5km - 100M / 17,5km - 100K
+	FLU2
+		Images:	2416
+		Time:	31.10.2025 16:31:57 until 01.11.2025 00:05:24
+		Duration:	07:33:27
+		Location:	56.27771 12.56815
+
+	RAJK2
+		Images:	2089
+		Time:	31.10.2025 20:19:34 until 01.11.2025 00:04:14
+		Duration:	03:44:40
+		Location:	56.27831 12.56659
+
+(7) - 103km - 100M
+	VLN3
+		Images:	1603
+		Time:	01.11.2025 04:56:39 until 01.11.2025 10:39:57
+		Duration:	05:43:18
+		Location:	56.39124 12.90216
+
+(8) - 149km - 100M/ 85km - 100K/ 31km - 50K
+	FLU3
+		Images:	3798
+		Time:	01.11.2025 05:48:10 until 01.11.2025 15:41:56
+		Duration:	09:53:46
+		Location:	56.44480 12.64369
+
+(9) - 154km - 100M/ 90km - 100K/ 36km - 50K
+	CO3
+		Images:	46
+		Time:	01.11.2025 16:49:15 until 01.11.2025 18:01:20
+		Duration:	01:12:05
+		Location:	56.46537 12.69975
+
+	CO2
+		Images:	1997
+		Time:	01.11.2025 05:30:24 until 01.11.2025 16:43:17
+		Duration:	11:12:53
+		Location:	56.46579 12.70025
+
+(10) - 6km before finish - 100M/100K/50K
+	RAJK3
+		Images:	3121
+		Time:	01.11.2025 05:22:29 until 01.11.2025 18:27:43
+		Duration:	13:05:14
+		Location:	56.44430 12.79567
+
+(11) - 3,5km - 20K
+	VLN4
+		Images:	1976
+		Time:	01.11.2025 11:39:01 until 01.11.2025 12:38:36
+		Duration:	00:59:35
+		Location:	56.43058 12.87115
+
+(12) - 20km - 20K
+	VLN5
+		Images:	2520
+		Time:	01.11.2025 12:44:11 until 01.11.2025 15:10:22
+		Duration:	02:26:11
+		Location:	56.43064 12.86957
+
+(13) - Finish
+	FLU4
+		Images:	21
+		Time:	01.11.2025 18:25:54 until 01.11.2025 18:56:10
+		Duration:	00:30:16
+		Location:	56.43496 12.83778
+
+	JOM4
+		Images:	5887
+		Time:	01.11.2025 05:36:26 until 02.11.2025 00:58:05
+		Duration:	19:21:39
+		Location:	56.43496 12.83778
+
+	JOM4LS1
+		Images:	5031
+		Time:	01.11.2025 05:08:57 until 02.11.2025 00:58:04
+		Duration:	19:49:07
+		Location:	56.43496 12.83778
+
+(14) - Impressions / Pano
+	PANO1

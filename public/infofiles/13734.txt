@@ -1,0 +1,74 @@
+EventId: 13734
+Spots: 11
+Total Images: 44560
+Time:	06.07.2025 07:57:33 to 06.07.2025 18:24:25
+Duration: 10:26:52
+
+(1) - Bike - 56.0 km
+	AGP1
+		Images:	6504
+		Time:	06.07.2025 10:40:34 until 06.07.2025 15:50:24
+		Duration:	05:09:50
+		Location:	57.94913 14.51630
+
+(2) - Bike - 75.0 km
+	MIJ1
+		Images:	4735
+		Time:	06.07.2025 09:34:27 until 06.07.2025 14:33:25
+		Duration:	04:58:58
+		Location:	57.86610 14.33444
+
+(3) - Bike - 50.0 km
+	BIL1
+		Images:	3474
+		Time:	06.07.2025 07:57:33 until 06.07.2025 13:37:12
+		Duration:	05:39:39
+		Location:	57.91975 14.62523
+
+	BIL1LS1
+		Images:	1978
+		Time:	06.07.2025 09:40:50 until 06.07.2025 13:49:19
+		Duration:	04:08:29
+		Location:	57.91975 14.62523
+
+(4) - Finish
+	BIL2
+		Images:	910
+		Time:	06.07.2025 15:53:01 until 06.07.2025 17:00:56
+		Duration:	01:07:55
+		Location:	57.78247 14.16588
+
+	AWILL2
+		Images:	943
+		Time:	06.07.2025 17:31:57 until 06.07.2025 18:24:25
+		Duration:	00:52:28
+		Location:	57.78247 14.16588
+
+	FJO2
+		Images:	3739
+		Time:	06.07.2025 11:48:25 until 06.07.2025 17:39:21
+		Duration:	05:50:56
+		Location:	57.78247 14.16588
+
+(5) - Run - 12.0 km
+	AWILL1
+		Images:	11658
+		Time:	06.07.2025 11:45:42 until 06.07.2025 16:34:07
+		Duration:	04:48:25
+		Location:	57.76630 14.15368
+
+	SMEE1
+		Images:	8476
+		Time:	06.07.2025 10:29:39 until 06.07.2025 17:24:10
+		Duration:	06:54:31
+		Location:	57.77745 14.16333
+
+(6) - Swim - Start
+	FJO1
+		Images:	2143
+		Time:	06.07.2025 08:12:41 until 06.07.2025 11:04:29
+		Duration:	02:51:48
+		Location:	57.78141 14.17004
+
+(7) - Swim - Impressions / Pano
+	PANO1

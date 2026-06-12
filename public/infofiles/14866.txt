@@ -1,0 +1,142 @@
+EventId: 14866
+Spots: 21
+Total Images: 67460
+Time:	09.05.2025 22:34:28 to 11.05.2025 13:23:25
+Duration: 1.14:48:57
+
+(1) - Start
+	DARO1
+		Images:	44
+		Time:	10.05.2025 07:56:58 until 11.05.2025 08:16:59
+		Duration:	1.00:20:01
+		Location:	43.18117 2.41563
+
+(2) - Impressions / Pano
+	DAFE1
+		Images:	93
+		Time:	09.05.2025 22:34:28 until 11.05.2025 10:06:11
+		Duration:	1.11:31:43
+		Location:	43.18315 2.41492
+
+	RAVE1
+		Images:	84
+		Time:	10.05.2025 07:55:26 until 10.05.2025 08:27:37
+		Duration:	00:32:11
+		Location:	43.18315 2.41492
+
+	TGM1
+		Images:	623
+		Time:	10.05.2025 09:23:13 until 10.05.2025 14:40:26
+		Duration:	05:17:13
+		Location:	43.18315 2.41492
+
+	TGM1DRONE1
+		Images:	52
+		Time:	10.05.2025 08:00:58 until 11.05.2025 13:23:25
+		Duration:	1.05:22:27
+		Location:	43.18315 2.41492
+
+(3) - 8 Lake Traverse
+	TGM2
+		Images:	536
+		Time:	10.05.2025 10:09:21 until 10.05.2025 10:29:59
+		Duration:	00:20:38
+		Location:	43.18191 2.42062
+
+	MRAB1
+		Images:	6753
+		Time:	10.05.2025 08:00:24 until 11.05.2025 08:10:29
+		Duration:	1.00:10:05
+		Location:	43.18191 2.42062
+
+(4) - 9 Bucket Carry
+	JCR1
+		Images:	5815
+		Time:	10.05.2025 08:55:28 until 10.05.2025 14:04:20
+		Duration:	05:08:52
+		Location:	43.18103 2.42150
+
+	TGM3
+		Images:	521
+		Time:	10.05.2025 10:43:57 until 10.05.2025 10:53:37
+		Duration:	00:09:40
+		Location:	43.18103 2.42150
+
+	JCR1LS1
+		Images:	2130
+		Time:	10.05.2025 06:27:09 until 10.05.2025 13:59:43
+		Duration:	07:32:34
+		Location:	43.18103 2.42150
+
+(5) - Run
+	STO1LS1
+		Images:	1856
+		Time:	10.05.2025 09:21:49 until 10.05.2025 15:28:28
+		Duration:	06:06:39
+		Location:	43.18412 2.41507
+
+(6) - 26 Barber Wire
+	STO1
+		Images:	9201
+		Time:	10.05.2025 09:01:31 until 10.05.2025 15:24:03
+		Duration:	06:22:32
+		Location:	43.18384 2.41540
+
+	TGM4
+		Images:	787
+		Time:	10.05.2025 13:43:28 until 10.05.2025 13:57:54
+		Duration:	00:14:26
+		Location:	43.18384 2.41540
+
+(7) - 29 Sandbag Carry
+	DAFE2LS1
+		Images:	1807
+		Time:	09.05.2025 22:43:08 until 10.05.2025 15:38:09
+		Duration:	16:55:01
+		Location:	43.18387 2.41618
+
+	DAFE2
+		Images:	7447
+		Time:	10.05.2025 09:48:34 until 11.05.2025 08:03:56
+		Duration:	22:15:22
+		Location:	43.18404 2.41659
+
+(8) - 34 Multiring
+	URU1
+		Images:	9101
+		Time:	10.05.2025 07:53:33 until 10.05.2025 15:44:10
+		Duration:	07:50:37
+		Location:	43.18305 2.41601
+
+	TGM5
+		Images:	565
+		Time:	10.05.2025 14:04:42 until 10.05.2025 14:22:08
+		Duration:	00:17:26
+		Location:	43.18305 2.41601
+
+(9) - 36 Fire Jump
+	RAVE2
+		Images:	14979
+		Time:	10.05.2025 09:52:30 until 10.05.2025 15:45:38
+		Duration:	05:53:08
+		Location:	43.18275 2.41526
+
+	TGM1LS1
+		Images:	1362
+		Time:	10.05.2025 08:48:58 until 10.05.2025 15:49:16
+		Duration:	07:00:18
+		Location:	43.18275 2.41526
+
+	DARO2LS1
+		Images:	1370
+		Time:	10.05.2025 06:26:03 until 10.05.2025 15:49:02
+		Duration:	09:22:59
+		Location:	43.18275 2.41526
+
+(10) - Herotent
+	DARO2
+		Images:	2334
+		Time:	10.05.2025 09:54:47 until 10.05.2025 15:46:22
+		Duration:	05:51:35
+		Location:	43.18275 2.41526
+

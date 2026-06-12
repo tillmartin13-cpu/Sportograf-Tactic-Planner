@@ -1,0 +1,82 @@
+EventId: 14209
+Spots: 12
+Total Images: 30139
+Time:	07.12.2025 06:36:22 to 07.12.2025 16:01:35
+Duration: 09:25:13
+
+(1) - Start
+	SISA1
+		Images:	1089
+		Time:	07.12.2025 06:36:22 until 07.12.2025 10:01:39
+		Duration:	03:25:17
+		Location:	49.50363 11.49043
+
+(2) - 4.1 km Zankelstein
+	SL1
+		Images:	1443
+		Time:	07.12.2025 07:43:58 until 07.12.2025 08:51:54
+		Duration:	01:07:56
+		Location:	49.50655 11.51755
+
+(3) - 12.2 km Höhenglückssteig
+	LTA1
+		Images:	506
+		Time:	07.12.2025 08:28:07 until 07.12.2025 08:58:57
+		Duration:	00:30:50
+		Location:	49.54525 11.54152
+
+(4) - 35.3 km Kapellenruine Arzlohe
+	RJ1
+		Images:	3869
+		Time:	07.12.2025 09:42:04 until 07.12.2025 16:01:35
+		Duration:	06:19:31
+		Location:	49.48367 11.51416
+
+	RJ1LS1
+		Images:	940
+		Time:	07.12.2025 09:42:05 until 07.12.2025 13:44:28
+		Duration:	04:02:23
+		Location:	49.48367 11.51416
+
+	RJ1LS2
+		Images:	949
+		Time:	07.12.2025 09:42:04 until 07.12.2025 13:44:27
+		Duration:	04:02:23
+		Location:	49.48367 11.51416
+
+	RJ1DRONE1
+		Images:	13
+		Time:	07.12.2025 12:44:00 until 07.12.2025 16:01:35
+		Duration:	03:17:35
+		Location:	49.48367 11.51416
+
+(5) - 36.7 km Felsenlabyrinth
+	NLI1
+		Images:	4104
+		Time:	07.12.2025 07:32:02 until 07.12.2025 14:01:18
+		Duration:	06:29:16
+		Location:	49.48429 11.50637
+
+(6) - 38.4 km Hohler Fels
+	LTA2
+		Images:	660
+		Time:	07.12.2025 12:00:18 until 07.12.2025 14:19:04
+		Duration:	02:18:46
+		Location:	49.48617 11.49330
+
+(7) - 41.8 km Lama-Hof
+	SL2
+		Images:	10325
+		Time:	07.12.2025 10:02:49 until 07.12.2025 15:02:13
+		Duration:	04:59:24
+		Location:	49.50086 11.49396
+
+(8) - Finish
+	SISA2
+		Images:	6241
+		Time:	07.12.2025 10:12:40 until 07.12.2025 15:16:16
+		Duration:	05:03:36
+		Location:	49.50363 11.49043
+
+(9) - Impressions / Pano
+	PANO1

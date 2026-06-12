@@ -1,0 +1,153 @@
+EventId: 15177
+Spots: 23
+Total Images: 125073
+Time:	15.11.2025 23:11:22 to 16.11.2025 11:38:33
+Duration: 12:27:11
+
+(1) - Start
+	DJAM1
+		Images:	5403
+		Time:	16.11.2025 07:12:21 until 16.11.2025 09:42:16
+		Duration:	02:29:55
+		Location:	48.86400 2.32970
+
+	LAFO1
+		Images:	1098
+		Time:	16.11.2025 07:32:40 until 16.11.2025 09:44:55
+		Duration:	02:12:15
+		Location:	48.86400 2.32970
+
+	AFA1
+		Images:	207
+		Time:	16.11.2025 07:28:20 until 16.11.2025 08:21:59
+		Duration:	00:53:39
+		Location:	48.86444 2.32775
+
+(2) - 1,0 km Place de la Madeleine
+	IBLA1
+		Images:	4977
+		Time:	16.11.2025 08:03:23 until 16.11.2025 09:55:30
+		Duration:	01:52:07
+		Location:	48.86853 2.32366
+
+	TMAM1
+		Images:	6736
+		Time:	16.11.2025 08:03:29 until 16.11.2025 11:38:33
+		Duration:	03:35:04
+		Location:	48.86853 2.32366
+
+(3) - 2,9 km Place Diaghilew / Bd Haussmann
+	JI1
+		Images:	11823
+		Time:	16.11.2025 07:24:55 until 16.11.2025 11:21:54
+		Duration:	03:56:59
+		Location:	48.87291 2.33112
+
+(4) - 4,4 km Boulevard des Capucines
+	FRED1
+		Images:	5943
+		Time:	16.11.2025 07:27:08 until 16.11.2025 10:28:45
+		Duration:	03:01:37
+		Location:	48.87032 2.33140
+
+	TAYP1
+		Images:	7362
+		Time:	16.11.2025 07:28:36 until 16.11.2025 10:57:59
+		Duration:	03:29:23
+		Location:	48.87032 2.33140
+
+(5) - 5,2 km Opéra
+	MASG1
+		Images:	5725
+		Time:	16.11.2025 07:48:50 until 16.11.2025 10:33:49
+		Duration:	02:44:59
+		Location:	48.87051 2.33282
+
+(6) - 6,3 km Palais Brongniart
+	MAI1
+		Images:	20482
+		Time:	16.11.2025 08:21:15 until 16.11.2025 10:45:22
+		Duration:	02:24:07
+		Location:	48.86832 2.34207
+
+	RORI1
+		Images:	4999
+		Time:	16.11.2025 07:45:10 until 16.11.2025 10:46:31
+		Duration:	03:01:21
+		Location:	48.86832 2.34207
+
+(7) - 8,6 km Place des Victoires
+	BGL1
+		Images:	4537
+		Time:	16.11.2025 08:30:46 until 16.11.2025 11:05:23
+		Duration:	02:34:37
+		Location:	48.86593 2.34001
+
+	JDU1
+		Images:	12134
+		Time:	16.11.2025 07:41:27 until 16.11.2025 11:05:21
+		Duration:	03:23:54
+		Location:	48.86593 2.34001
+
+(8) - 9,5 km Avenue de l`Opera
+	GUF1
+		Images:	5738
+		Time:	16.11.2025 07:25:55 until 16.11.2025 11:16:10
+		Duration:	03:50:15
+		Location:	48.86991 2.33287
+
+	MAAU1
+		Images:	9973
+		Time:	16.11.2025 07:33:04 until 16.11.2025 11:16:09
+		Duration:	03:43:05
+		Location:	48.86991 2.33287
+
+(9) - Finish
+	API1
+		Images:	3370
+		Time:	15.11.2025 23:11:22 until 16.11.2025 11:14:30
+		Duration:	12:03:08
+		Location:	48.86662 2.33399
+
+	COGU1
+		Images:	5730
+		Time:	16.11.2025 07:30:53 until 16.11.2025 11:21:26
+		Duration:	03:50:33
+		Location:	48.86662 2.33399
+
+	AFA3
+		Images:	1400
+		Time:	16.11.2025 08:38:31 until 16.11.2025 10:26:24
+		Duration:	01:47:53
+		Location:	48.86880 2.33301
+
+	DJAM2
+		Images:	5155
+		Time:	16.11.2025 09:54:23 until 16.11.2025 11:07:44
+		Duration:	01:13:21
+		Location:	48.86662 2.33399
+
+	LAFO2
+		Images:	1387
+		Time:	16.11.2025 09:54:29 until 16.11.2025 11:22:07
+		Duration:	01:27:38
+		Location:	48.86662 2.33399
+
+	IBLA2
+		Images:	182
+		Time:	16.11.2025 10:27:06 until 16.11.2025 11:15:38
+		Duration:	00:48:32
+		Location:	48.86662 2.33399
+
+	TMAM2
+		Images:	533
+		Time:	16.11.2025 10:26:15 until 16.11.2025 11:22:42
+		Duration:	00:56:27
+		Location:	48.86662 2.33399
+
+	FRED2
+		Images:	179
+		Time:	16.11.2025 10:39:25 until 16.11.2025 11:10:31
+		Duration:	00:31:06
+		Location:	48.86662 2.33399
+

@@ -1,0 +1,120 @@
+EventId: 13975
+Spots: 18
+Total Images: 69471
+Time:	02.05.2025 20:45:36 to 04.05.2025 16:12:01
+Duration: 1.19:26:25
+
+(1) - 10,7 km 85/125/160
+	DRI1
+		Images:	5837
+		Time:	03.05.2025 07:44:15 until 03.05.2025 09:23:11
+		Duration:	01:38:56
+		Location:	50.69087 3.43556
+
+	DRI1DRONE1
+		Images:	12
+		Time:	03.05.2025 08:33:16 until 03.05.2025 15:11:38
+		Duration:	06:38:22
+		Location:	50.69087 3.43556
+
+	DRI1LS2
+		Images:	4214
+		Time:	03.05.2025 08:01:23 until 03.05.2025 11:36:41
+		Duration:	03:35:18
+		Location:	50.69087 3.43556
+
+	DRI1LS1
+		Images:	3627
+		Time:	04.05.2025 08:07:46 until 04.05.2025 09:51:39
+		Duration:	01:43:53
+		Location:	50.69087 3.43556
+
+	KOLSI1
+		Images:	907
+		Time:	03.05.2025 08:36:45 until 03.05.2025 10:49:59
+		Duration:	02:13:14
+		Location:	50.69087 3.43556
+
+	LHA2
+		Images:	4808
+		Time:	03.05.2025 07:41:24 until 03.05.2025 11:29:18
+		Duration:	03:47:54
+		Location:	50.69087 3.43556
+
+(2) - 83,0 km 121/158
+	DRI2
+		Images:	8884
+		Time:	03.05.2025 12:02:16 until 03.05.2025 15:59:57
+		Duration:	03:57:41
+		Location:	50.64890 3.40434
+
+	DRI2LS2
+		Images:	10833
+		Time:	03.05.2025 11:39:16 until 03.05.2025 16:12:28
+		Duration:	04:33:12
+		Location:	50.64890 3.40434
+
+	DRI2LS1
+		Images:	4913
+		Time:	04.05.2025 11:46:22 until 04.05.2025 16:12:01
+		Duration:	04:25:39
+		Location:	50.64890 3.40434
+
+	KOLSI3
+		Images:	5444
+		Time:	03.05.2025 12:34:07 until 03.05.2025 18:32:12
+		Duration:	05:58:05
+		Location:	50.64890 3.40434
+
+	LHA4
+		Images:	8015
+		Time:	03.05.2025 11:30:09 until 03.05.2025 16:24:36
+		Duration:	04:54:27
+		Location:	50.64890 3.40434
+
+(3) - 55,0 km 93/130
+	KOLSI2
+		Images:	363
+		Time:	03.05.2025 11:35:03 until 03.05.2025 11:50:29
+		Duration:	00:15:26
+		Location:	50.65339 3.40762
+
+	LHA3
+		Images:	533
+		Time:	03.05.2025 10:29:09 until 03.05.2025 12:06:43
+		Duration:	01:37:34
+		Location:	50.65339 3.40762
+
+(4) - Start
+	LHA1
+		Images:	96
+		Time:	03.05.2025 07:26:24 until 03.05.2025 07:39:07
+		Duration:	00:12:43
+		Location:	50.63003 3.39128
+
+(5) - 6,0 km 85/160 /125
+	TB1
+		Images:	4440
+		Time:	02.05.2025 20:45:36 until 03.05.2025 09:59:02
+		Duration:	13:13:26
+		Location:	50.67495 3.42344
+
+	TB1LS1
+		Images:	1157
+		Time:	02.05.2025 20:56:58 until 03.05.2025 09:55:31
+		Duration:	12:58:33
+		Location:	50.67495 3.42344
+
+(6) - Finish
+	TB2
+		Images:	2416
+		Time:	03.05.2025 11:04:27 until 03.05.2025 16:29:54
+		Duration:	05:25:27
+		Location:	50.63003 3.39128
+
+	TB2LS1
+		Images:	2972
+		Time:	03.05.2025 11:00:44 until 03.05.2025 16:29:52
+		Duration:	05:29:08
+		Location:	50.63003 3.39128
+

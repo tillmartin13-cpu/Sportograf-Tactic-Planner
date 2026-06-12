@@ -1,0 +1,105 @@
+EventId: 16141
+Spots: 15
+Total Images: 58221
+Time:	04.09.2025 19:00:39 to 06.09.2025 18:33:48
+Duration: 1.23:33:09
+
+(1) - ZONE2+3: ROW/BOX
+	AKT1
+		Images:	4772
+		Time:	05.09.2025 06:54:42 until 06.09.2025 17:45:30
+		Duration:	1.10:50:48
+		Location:	NULL NULL
+
+	JOFU2
+		Images:	1209
+		Time:	06.09.2025 11:17:27 until 06.09.2025 17:15:04
+		Duration:	05:57:37
+		Location:	NULL NULL
+
+(2) - ZONE 4: MED BALL
+	PRU1
+		Images:	7784
+		Time:	05.09.2025 07:06:31 until 06.09.2025 17:49:34
+		Duration:	1.10:43:03
+		Location:	NULL NULL
+
+	JOFU3
+		Images:	129
+		Time:	06.09.2025 11:02:58 until 06.09.2025 11:15:32
+		Duration:	00:12:34
+		Location:	NULL NULL
+
+(3) - ZONE 6: FARMERS CARRY
+	CIFU1
+		Images:	4213
+		Time:	05.09.2025 06:54:37 until 06.09.2025 18:02:15
+		Duration:	1.11:07:38
+		Location:	NULL NULL
+
+(4) - ZONE 5: SKI
+	GDRP1
+		Images:	11265
+		Time:	05.09.2025 06:38:19 until 06.09.2025 17:56:23
+		Duration:	1.11:18:04
+		Location:	NULL NULL
+
+	JOFU4
+		Images:	302
+		Time:	06.09.2025 10:18:56 until 06.09.2025 14:54:50
+		Duration:	04:35:54
+		Location:	NULL NULL
+
+(5) - ZONE 7:AIR BIKE
+	GAPO1
+		Images:	6184
+		Time:	06.09.2025 07:50:35 until 06.09.2025 18:07:48
+		Duration:	10:17:13
+		Location:	NULL NULL
+
+	JOFU5
+		Images:	254
+		Time:	06.09.2025 12:24:14 until 06.09.2025 12:46:02
+		Duration:	00:21:48
+		Location:	NULL NULL
+
+(6) - ZONE 9: SLED PUSH/PULL
+	JMS1
+		Images:	12081
+		Time:	04.09.2025 19:00:39 until 06.09.2025 06:24:34
+		Duration:	1.11:23:55
+		Location:	NULL NULL
+
+	AKT2
+		Images:	262
+		Time:	06.09.2025 17:53:19 until 06.09.2025 18:10:44
+		Duration:	00:17:25
+		Location:	NULL NULL
+
+	JOFU6
+		Images:	1152
+		Time:	06.09.2025 09:34:01 until 06.09.2025 17:47:53
+		Duration:	08:13:52
+		Location:	NULL NULL
+
+(7) - FINISH LS1
+	JOFU1LS1
+		Images:	1638
+		Time:	06.09.2025 06:33:12 until 06.09.2025 18:33:47
+		Duration:	12:00:35
+		Location:	NULL NULL
+
+(8) - FINISH LS2
+	JOFU1LS2
+		Images:	6694
+		Time:	06.09.2025 06:37:32 until 06.09.2025 18:33:48
+		Duration:	11:56:16
+		Location:	NULL NULL
+
+(9) - IMPRESSIONS
+	JOFU1
+		Images:	282
+		Time:	05.09.2025 07:59:45 until 06.09.2025 16:10:07
+		Duration:	1.08:10:22
+		Location:	NULL NULL
+

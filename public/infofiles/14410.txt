@@ -1,0 +1,156 @@
+EventId: 14410
+Spots: 25
+Total Images: 41710
+Time:	31.12.2012 23:16:47 to 24.08.2025 14:02:39
+Duration: 4618.14:45:52
+
+(1) - Start
+	MAWI1
+		Images:	325
+		Time:	23.08.2025 07:56:43 until 24.08.2025 08:52:31
+		Duration:	1.00:55:48
+		Location:	46.02243 7.74955
+
+(2) - Finish
+	BECK2
+		Images:	153
+		Time:	24.08.2025 12:20:15 until 24.08.2025 13:26:29
+		Duration:	01:06:14
+		Location:	46.02243 7.74955
+
+	BECK2LS1
+		Images:	186
+		Time:	24.08.2025 12:09:25 until 24.08.2025 14:02:39
+		Duration:	01:53:14
+		Location:	46.02243 7.74955
+
+	MAWI2
+		Images:	2555
+		Time:	24.08.2025 09:20:18 until 24.08.2025 13:55:49
+		Duration:	04:35:31
+		Location:	46.02243 7.74955
+
+	MAWI2LS2
+		Images:	1149
+		Time:	24.08.2025 09:42:33 until 24.08.2025 13:54:16
+		Duration:	04:11:43
+		Location:	46.02243 7.74955
+
+	MAWI2LS1
+		Images:	678
+		Time:	24.08.2025 09:09:11 until 24.08.2025 13:54:10
+		Duration:	04:44:59
+		Location:	46.02243 7.74955
+
+(3) - Impressions / Pano
+	PANO1
+(4) - Riffelalp
+	BP1
+		Images:	2675
+		Time:	22.08.2025 07:43:22 until 24.08.2025 12:43:20
+		Duration:	2.04:59:58
+		Location:	46.00005 7.74633
+
+	BP1LS2
+		Images:	2515
+		Time:	23.08.2025 09:01:08 until 24.08.2025 12:50:22
+		Duration:	1.03:49:14
+		Location:	46.00005 7.74633
+
+	BP1LS1
+		Images:	907
+		Time:	24.08.2025 09:14:38 until 24.08.2025 12:42:43
+		Duration:	03:28:05
+		Location:	46.00005 7.74633
+
+	HS1
+		Images:	2152
+		Time:	24.08.2025 09:20:53 until 24.08.2025 12:19:10
+		Duration:	02:58:17
+		Location:	46.00075 7.74699
+
+	HS1LS2
+		Images:	1228
+		Time:	24.08.2025 09:30:21 until 24.08.2025 12:47:10
+		Duration:	03:16:49
+		Location:	46.00075 7.74699
+
+	HS1LS1
+		Images:	1281
+		Time:	24.08.2025 09:12:52 until 24.08.2025 12:41:19
+		Duration:	03:28:27
+		Location:	46.00075 7.74699
+
+	NJO1
+		Images:	2761
+		Time:	24.08.2025 09:23:11 until 24.08.2025 12:05:03
+		Duration:	02:41:52
+		Location:	46.00469 7.76589
+
+	NJO1LS1
+		Images:	1162
+		Time:	24.08.2025 09:05:09 until 24.08.2025 12:06:32
+		Duration:	03:01:23
+		Location:	46.00469 7.76589
+
+	RSJ1
+		Images:	3291
+		Time:	24.08.2025 09:16:28 until 24.08.2025 12:44:12
+		Duration:	03:27:44
+		Location:	46.00059 7.75180
+
+	RSJ1LS1
+		Images:	2248
+		Time:	24.08.2025 09:34:48 until 24.08.2025 12:40:39
+		Duration:	03:05:51
+		Location:	46.00059 7.75180
+
+(5) - Sunnegga
+	BECK1
+		Images:	2319
+		Time:	22.08.2025 08:10:37 until 24.08.2025 11:06:55
+		Duration:	2.02:56:18
+		Location:	46.01613 7.76745
+
+	BECK1DRONE1
+		Images:	30
+		Time:	22.08.2025 08:43:09 until 24.08.2025 09:42:27
+		Duration:	2.00:59:18
+		Location:	46.01613 7.76745
+
+	BECK1LS2
+		Images:	1362
+		Time:	24.08.2025 08:29:31 until 24.08.2025 11:07:29
+		Duration:	02:37:58
+		Location:	46.01613 7.76745
+
+	BECK1LS1
+		Images:	1488
+		Time:	24.08.2025 08:49:10 until 24.08.2025 11:12:06
+		Duration:	02:22:56
+		Location:	46.01613 7.76745
+
+	KD1
+		Images:	3010
+		Time:	23.08.2025 09:19:48 until 24.08.2025 11:08:40
+		Duration:	1.01:48:52
+		Location:	46.01459 7.77348
+
+	KD1LS1
+		Images:	4387
+		Time:	24.08.2025 09:04:57 until 24.08.2025 11:07:13
+		Duration:	02:02:16
+		Location:	46.01459 7.77348
+
+	TNR1
+		Images:	2534
+		Time:	24.08.2025 08:46:30 until 24.08.2025 10:59:35
+		Duration:	02:13:05
+		Location:	46.01528 7.76585
+
+	TNR1LS1
+		Images:	1303
+		Time:	31.12.2012 23:16:47 until 24.08.2025 10:49:17
+		Duration:	4618.11:32:30
+		Location:	46.01528 7.76585
+

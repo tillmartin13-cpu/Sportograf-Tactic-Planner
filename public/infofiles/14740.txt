@@ -1,0 +1,128 @@
+EventId: 14740
+Spots: 20
+Total Images: 37966
+Time:	17.05.2025 09:38:56 to 18.05.2025 14:28:32
+Duration: 1.04:49:36
+
+(1) - km1,5/30
+	LV1
+		Images:	1378
+		Time:	18.05.2025 09:35:43 until 18.05.2025 09:48:24
+		Duration:	00:12:41
+		Location:	50.79963 5.88406
+
+	LV1LS1
+		Images:	683
+		Time:	18.05.2025 08:18:54 until 18.05.2025 09:39:23
+		Duration:	01:20:29
+		Location:	50.79963 5.88406
+
+	LV1LS2
+		Images:	492
+		Time:	18.05.2025 08:54:49 until 18.05.2025 09:48:22
+		Duration:	00:53:33
+		Location:	50.79963 5.88406
+
+(2) - km 1,7/30
+	MK1
+		Images:	2489
+		Time:	18.05.2025 09:38:08 until 18.05.2025 09:49:09
+		Duration:	00:11:01
+		Location:	50.79868 5.88333
+
+	MK1LS1
+		Images:	493
+		Time:	18.05.2025 09:01:42 until 18.05.2025 09:51:33
+		Duration:	00:49:51
+		Location:	50.79868 5.88333
+
+	MK1LS2
+		Images:	483
+		Time:	18.05.2025 09:06:07 until 18.05.2025 09:52:38
+		Duration:	00:46:31
+		Location:	50.79868 5.88333
+
+(3) - km 3,5/30
+	MAW1
+		Images:	1667
+		Time:	17.05.2025 10:17:15 until 18.05.2025 10:02:33
+		Duration:	23:45:18
+		Location:	50.79487 5.87777
+
+	MAW1LS1
+		Images:	479
+		Time:	18.05.2025 08:33:07 until 18.05.2025 10:07:14
+		Duration:	01:34:07
+		Location:	50.79487 5.87777
+
+	MAW1LS2
+		Images:	449
+		Time:	18.05.2025 08:27:24 until 18.05.2025 10:07:23
+		Duration:	01:39:59
+		Location:	50.79487 5.87777
+
+(4) - km28,3 / 30 - km14,5/18 - km7,4/10
+	MAW2
+		Images:	12290
+		Time:	18.05.2025 10:48:43 until 18.05.2025 14:06:55
+		Duration:	03:18:12
+		Location:	50.80321 5.90097
+
+	MAW2LS1
+		Images:	912
+		Time:	18.05.2025 10:29:13 until 18.05.2025 14:07:01
+		Duration:	03:37:48
+		Location:	50.80321 5.90097
+
+	MAW2LS2
+		Images:	822
+		Time:	18.05.2025 10:40:56 until 18.05.2025 14:10:28
+		Duration:	03:29:32
+		Location:	50.80321 5.90097
+
+(5) - 1,5 km to the finish / all tracks
+	LV2
+		Images:	3444
+		Time:	17.05.2025 14:05:44 until 18.05.2025 14:20:01
+		Duration:	1.00:14:17
+		Location:	50.80959 5.90373
+
+	LV2LS1
+		Images:	907
+		Time:	18.05.2025 09:40:39 until 18.05.2025 13:21:32
+		Duration:	03:40:53
+		Location:	50.80959 5.90373
+
+	LV2LS2
+		Images:	867
+		Time:	18.05.2025 10:43:41 until 18.05.2025 14:24:07
+		Duration:	03:40:26
+		Location:	50.80959 5.90373
+
+(6) - Impressions / Pano
+	MK1DRONE1
+		Images:	52
+		Time:	17.05.2025 09:38:56 until 18.05.2025 13:56:41
+		Duration:	1.04:17:45
+		Location:	50.80672 5.89696
+
+	PANO1
+(7) - 600 meters to the finish
+	MK2
+		Images:	8140
+		Time:	18.05.2025 11:27:59 until 18.05.2025 14:26:27
+		Duration:	02:58:28
+		Location:	50.80672 5.89696
+
+	MK2LS1
+		Images:	943
+		Time:	18.05.2025 10:59:21 until 18.05.2025 14:04:37
+		Duration:	03:05:16
+		Location:	50.80672 5.89696
+
+	MK2LS2
+		Images:	976
+		Time:	18.05.2025 11:16:19 until 18.05.2025 14:28:32
+		Duration:	03:12:13
+		Location:	50.80672 5.89696
+

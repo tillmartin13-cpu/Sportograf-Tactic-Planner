@@ -1,0 +1,202 @@
+EventId: 13810
+Spots: 30
+Total Images: 237628
+Time:	01.01.0001 23:00:00 to 02.08.2025 15:40:14
+Duration: 739463.16:40:14
+
+(1) - Start
+	LTU1
+		Images:	4048
+		Time:	02.08.2025 06:41:35 until 02.08.2025 09:15:08
+		Duration:	02:33:33
+		Location:	45.56654 5.92281
+
+	AMU1
+		Images:	290
+		Time:	02.08.2025 06:26:46 until 02.08.2025 08:03:04
+		Duration:	01:36:18
+		Location:	45.56652 5.92282
+
+	CC1
+		Images:	4438
+		Time:	02.08.2025 06:36:36 until 02.08.2025 07:31:49
+		Duration:	00:55:13
+		Location:	45.56661 5.92299
+
+(2) - 50,2 km
+	JTF1
+		Images:	7747
+		Time:	01.01.0001 23:00:00 until 02.08.2025 10:55:41
+		Duration:	739463.11:55:41
+		Location:	45.57794 6.15038
+
+	OLB1
+		Images:	9298
+		Time:	02.08.2025 06:43:58 until 02.08.2025 14:54:47
+		Duration:	08:10:49
+		Location:	45.57794 6.15038
+
+(3) - 96,5 km
+	CC2
+		Images:	17952
+		Time:	02.08.2025 09:14:57 until 02.08.2025 13:32:16
+		Duration:	04:17:19
+		Location:	45.36617 6.29929
+
+	LTU2
+		Images:	12012
+		Time:	02.08.2025 09:16:55 until 02.08.2025 13:33:06
+		Duration:	04:16:11
+		Location:	45.36617 6.29929
+
+(4) - 99,0 km
+	DART1
+		Images:	15767
+		Time:	02.08.2025 09:13:29 until 02.08.2025 14:42:46
+		Duration:	05:29:17
+		Location:	45.41256 6.33983
+
+(5) - 110,8 km
+	AMU2
+		Images:	9115
+		Time:	02.08.2025 09:44:56 until 02.08.2025 15:25:47
+		Duration:	05:40:51
+		Location:	45.41711 6.34922
+
+(6) - 111,0 km
+	TE1
+		Images:	14915
+		Time:	01.08.2025 22:21:59 until 02.08.2025 15:00:57
+		Duration:	16:38:58
+		Location:	45.41923 6.35540
+
+	TE1LS2
+		Images:	6072
+		Time:	01.08.2025 22:17:10 until 02.08.2025 15:02:20
+		Duration:	16:45:10
+		Location:	45.41923 6.35540
+
+	TE1LS1
+		Images:	6033
+		Time:	01.08.2025 22:20:56 until 02.08.2025 14:55:28
+		Duration:	16:34:32
+		Location:	45.41923 6.35540
+
+(7) - 111,4 km
+	HS1
+		Images:	5757
+		Time:	02.08.2025 10:20:30 until 02.08.2025 15:23:11
+		Duration:	05:02:41
+		Location:	45.41963 6.35359
+
+	HS1LS2
+		Images:	8129
+		Time:	02.08.2025 10:03:53 until 02.08.2025 14:59:39
+		Duration:	04:55:46
+		Location:	45.41963 6.35359
+
+	HS1LS1
+		Images:	8126
+		Time:	02.08.2025 10:04:29 until 02.08.2025 15:00:15
+		Duration:	04:55:46
+		Location:	45.41963 6.35359
+
+(8) - 112,7 km
+	MAPP1
+		Images:	4120
+		Time:	01.08.2025 22:07:43 until 02.08.2025 15:06:39
+		Duration:	16:58:56
+		Location:	45.42342 6.36274
+
+	MAPP1LS1
+		Images:	1155
+		Time:	02.08.2025 14:30:22 until 02.08.2025 15:11:27
+		Duration:	00:41:05
+		Location:	45.42342 6.36274
+
+(9) - 113,5 km
+	SEI1
+		Images:	8181
+		Time:	02.08.2025 10:00:03 until 02.08.2025 15:32:52
+		Duration:	05:32:49
+		Location:	45.42496 6.36476
+
+(10) - 114,0 km
+	BA1
+		Images:	12369
+		Time:	01.08.2025 22:06:55 until 02.08.2025 15:18:21
+		Duration:	17:11:26
+		Location:	45.42471 6.36777
+
+(11) - 114,1 km
+	ARF1
+		Images:	9893
+		Time:	02.08.2025 10:06:28 until 02.08.2025 15:35:54
+		Duration:	05:29:26
+		Location:	45.42500 6.37046
+
+(12) - 114,2 km
+	ISA1
+		Images:	3304
+		Time:	02.08.2025 10:53:21 until 02.08.2025 15:23:40
+		Duration:	04:30:19
+		Location:	45.42525 6.37181
+
+	ISA1LS2
+		Images:	4553
+		Time:	02.08.2025 10:12:24 until 02.08.2025 15:23:28
+		Duration:	05:11:04
+		Location:	45.42525 6.37181
+
+	ISA1LS1
+		Images:	2763
+		Time:	02.08.2025 10:22:35 until 02.08.2025 14:14:11
+		Duration:	03:51:36
+		Location:	45.42525 6.37181
+
+(13) - 114,5 km
+	CVG1
+		Images:	11615
+		Time:	02.08.2025 10:11:07 until 02.08.2025 15:20:25
+		Duration:	05:09:18
+		Location:	45.42583 6.37416
+
+	NBI1
+		Images:	10702
+		Time:	02.08.2025 10:11:08 until 02.08.2025 15:40:14
+		Duration:	05:29:06
+		Location:	45.42617 6.37370
+
+(14) - 114,8 km
+	LAPO1
+		Images:	6655
+		Time:	02.08.2025 10:12:34 until 02.08.2025 15:24:47
+		Duration:	05:12:13
+		Location:	45.42628 6.37030
+
+(15) - 116,0 km
+	EB1
+		Images:	12723
+		Time:	02.08.2025 10:31:16 until 02.08.2025 15:32:09
+		Duration:	05:00:53
+		Location:	45.43051 6.36238
+
+	EB1LS1
+		Images:	8905
+		Time:	02.08.2025 10:41:20 until 02.08.2025 15:30:22
+		Duration:	04:49:02
+		Location:	45.43051 6.36238
+
+(16) - Finish
+	GAT1
+		Images:	6760
+		Time:	02.08.2025 10:46:07 until 02.08.2025 15:30:01
+		Duration:	04:43:54
+		Location:	45.43571 6.37554
+
+	IVB1
+		Images:	4231
+		Time:	02.08.2025 10:50:25 until 02.08.2025 15:29:23
+		Duration:	04:38:58
+		Location:	45.43571 6.37554
+

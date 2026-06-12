@@ -1,0 +1,19 @@
+EventId: 14844
+Spots: 2
+Total Images: 7082
+Time:	31.01.2025 14:54:55 to 31.01.2025 19:43:49
+Duration: 04:48:54
+
+(1) - Elite 15
+	GIP1
+		Images:	3708
+		Time:	31.01.2025 16:34:23 until 31.01.2025 19:42:33
+		Duration:	03:08:10
+		Location:	36.13276 -115.15648
+
+	VICY1
+		Images:	3374
+		Time:	31.01.2025 14:54:55 until 31.01.2025 19:43:49
+		Duration:	04:48:54
+		Location:	36.13276 -115.15648
+

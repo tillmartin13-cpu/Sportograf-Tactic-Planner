@@ -1,0 +1,419 @@
+EventId: 15086
+Spots: 67
+Total Images: 272849
+Time:	25.07.2025 08:43:18 to 26.07.2025 22:37:58
+Duration: 1.13:54:40
+
+(1) - Station 3 Sled Pull
+	AYO1
+		Images:	3892
+		Time:	26.07.2025 09:05:36 until 26.07.2025 15:03:48
+		Duration:	05:58:12
+		Location:	22.32134 113.94328
+
+	GIP3
+		Images:	1894
+		Time:	26.07.2025 11:45:55 until 26.07.2025 18:08:07
+		Duration:	06:22:12
+		Location:	22.32134 113.94328
+
+	HTT3
+		Images:	5027
+		Time:	26.07.2025 11:47:56 until 26.07.2025 18:06:46
+		Duration:	06:18:50
+		Location:	22.32134 113.94328
+
+	KTA2
+		Images:	3303
+		Time:	26.07.2025 15:02:15 until 26.07.2025 21:08:47
+		Duration:	06:06:32
+		Location:	22.32134 113.94328
+
+	KTN1
+		Images:	3634
+		Time:	26.07.2025 09:23:01 until 26.07.2025 15:04:35
+		Duration:	05:41:34
+		Location:	22.32134 113.94328
+
+	NNG9
+		Images:	2565
+		Time:	26.07.2025 11:44:02 until 26.07.2025 18:05:26
+		Duration:	06:21:24
+		Location:	22.32134 113.94328
+
+	PNQ2
+		Images:	7433
+		Time:	26.07.2025 15:01:02 until 26.07.2025 21:08:59
+		Duration:	06:07:57
+		Location:	22.32134 113.94328
+
+	RSK2
+		Images:	1955
+		Time:	26.07.2025 15:04:19 until 26.07.2025 20:59:54
+		Duration:	05:55:35
+		Location:	22.32134 113.94328
+
+	RYT1
+		Images:	3339
+		Time:	26.07.2025 09:24:26 until 26.07.2025 14:39:08
+		Duration:	05:14:42
+		Location:	22.32134 113.94328
+
+(2) - Station 5 Rowing
+	AYO2
+		Images:	8889
+		Time:	26.07.2025 14:53:45 until 26.07.2025 21:34:25
+		Duration:	06:40:40
+		Location:	22.32134 113.94328
+
+	GIP5
+		Images:	1420
+		Time:	26.07.2025 15:05:23 until 26.07.2025 18:42:38
+		Duration:	03:37:15
+		Location:	22.32134 113.94328
+
+	HTT5
+		Images:	1591
+		Time:	26.07.2025 12:30:54 until 26.07.2025 12:52:20
+		Duration:	00:21:26
+		Location:	22.32134 113.94328
+
+	KTA1
+		Images:	7998
+		Time:	26.07.2025 08:54:56 until 26.07.2025 14:52:51
+		Duration:	05:57:55
+		Location:	22.32134 113.94328
+
+	KTN2
+		Images:	6756
+		Time:	26.07.2025 15:06:45 until 26.07.2025 21:39:49
+		Duration:	06:33:04
+		Location:	22.32134 113.94328
+
+	NNG5
+		Images:	2235
+		Time:	26.07.2025 12:32:29 until 26.07.2025 18:42:58
+		Duration:	06:10:29
+		Location:	22.32134 113.94328
+
+	PNQ1
+		Images:	12835
+		Time:	26.07.2025 09:44:17 until 26.07.2025 14:59:34
+		Duration:	05:15:17
+		Location:	22.32134 113.94328
+
+(3) - Finish
+	BIC1
+		Images:	2853
+		Time:	26.07.2025 10:15:42 until 26.07.2025 13:33:33
+		Duration:	03:17:51
+		Location:	22.32134 113.94328
+
+	DLE2
+		Images:	2422
+		Time:	26.07.2025 14:19:37 until 26.07.2025 22:33:56
+		Duration:	08:14:19
+		Location:	22.32134 113.94328
+
+	GIP9
+		Images:	1160
+		Time:	26.07.2025 13:33:25 until 26.07.2025 19:53:12
+		Duration:	06:19:47
+		Location:	22.32134 113.94328
+
+	GIP9LS1
+		Images:	8140
+		Time:	26.07.2025 08:22:47 until 26.07.2025 19:24:39
+		Duration:	11:01:52
+		Location:	22.32134 113.94328
+
+	HTT10
+		Images:	547
+		Time:	26.07.2025 16:05:20 until 26.07.2025 16:15:28
+		Duration:	00:10:08
+		Location:	22.32134 113.94328
+
+	HTT9LS1
+		Images:	4312
+		Time:	25.07.2025 22:14:50 until 26.07.2025 20:59:22
+		Duration:	22:44:32
+		Location:	22.32134 113.94328
+
+(4) - Station 7 Sandbag Lunges
+	BIC2
+		Images:	6220
+		Time:	26.07.2025 14:07:39 until 26.07.2025 22:07:19
+		Duration:	07:59:40
+		Location:	22.32134 113.94328
+
+	DLE1
+		Images:	1162
+		Time:	26.07.2025 08:56:30 until 26.07.2025 14:17:36
+		Duration:	05:21:06
+		Location:	22.32134 113.94328
+
+	GIP7LS1
+		Images:	2461
+		Time:	25.07.2025 08:43:18 until 25.07.2025 21:54:25
+		Duration:	13:11:07
+		Location:	22.32134 113.94328
+
+	HTT7
+		Images:	1529
+		Time:	26.07.2025 18:41:57 until 26.07.2025 19:11:32
+		Duration:	00:29:35
+		Location:	22.32134 113.94328
+
+	NNG7
+		Images:	1191
+		Time:	26.07.2025 13:13:26 until 26.07.2025 13:50:29
+		Duration:	00:37:03
+		Location:	22.32134 113.94328
+
+(5) - Station 6 Farmers Carry
+	BIC2LS1
+		Images:	3234
+		Time:	26.07.2025 09:54:31 until 26.07.2025 22:00:09
+		Duration:	12:05:38
+		Location:	22.32134 113.94328
+
+	GIP6LS2
+		Images:	4576
+		Time:	26.07.2025 09:01:02 until 26.07.2025 19:07:55
+		Duration:	10:06:53
+		Location:	22.32134 113.94328
+
+	NNG5LS1
+		Images:	6379
+		Time:	26.07.2025 08:29:07 until 26.07.2025 20:14:12
+		Duration:	11:45:05
+		Location:	22.32134 113.94328
+
+(6) - Station 2 Sled Push
+	CWO1
+		Images:	2769
+		Time:	26.07.2025 07:49:11 until 26.07.2025 14:58:16
+		Duration:	07:09:05
+		Location:	22.32134 113.94328
+
+	GIP2
+		Images:	1181
+		Time:	26.07.2025 11:12:53 until 26.07.2025 17:38:26
+		Duration:	06:25:33
+		Location:	22.32134 113.94328
+
+	HTT2
+		Images:	2242
+		Time:	26.07.2025 11:12:31 until 26.07.2025 17:37:58
+		Duration:	06:25:27
+		Location:	22.32134 113.94328
+
+	KIK2
+		Images:	1551
+		Time:	26.07.2025 14:58:58 until 26.07.2025 20:43:48
+		Duration:	05:44:50
+		Location:	22.32134 113.94328
+
+	NNG2
+		Images:	1169
+		Time:	26.07.2025 11:11:38 until 26.07.2025 17:38:33
+		Duration:	06:26:55
+		Location:	22.32134 113.94328
+
+	NP1
+		Images:	8112
+		Time:	26.07.2025 08:23:32 until 26.07.2025 14:58:25
+		Duration:	06:34:53
+		Location:	22.32134 113.94328
+
+	HYI1
+		Images:	2182
+		Time:	26.07.2025 08:46:31 until 26.07.2025 14:58:54
+		Duration:	06:12:23
+		Location:	22.32134 113.94328
+
+	RYH2
+		Images:	2232
+		Time:	26.07.2025 14:56:58 until 26.07.2025 20:56:41
+		Duration:	05:59:43
+		Location:	22.32134 113.94328
+
+	YH2
+		Images:	2099
+		Time:	26.07.2025 14:58:47 until 26.07.2025 20:54:42
+		Duration:	05:55:55
+		Location:	22.32134 113.94328
+
+(7) - Station 1 Ski Erg
+	CWO2
+		Images:	1954
+		Time:	26.07.2025 15:02:38 until 26.07.2025 15:39:46
+		Duration:	00:37:08
+		Location:	22.32134 113.94328
+
+	GIP6
+		Images:	4113
+		Time:	26.07.2025 10:36:01 until 26.07.2025 17:02:11
+		Duration:	06:26:10
+		Location:	22.32134 113.94328
+
+	HTT1
+		Images:	5694
+		Time:	26.07.2025 09:01:46 until 26.07.2025 17:02:34
+		Duration:	08:00:48
+		Location:	22.32134 113.94328
+
+	KIK1
+		Images:	2568
+		Time:	26.07.2025 08:35:12 until 26.07.2025 14:50:23
+		Duration:	06:15:11
+		Location:	22.32134 113.94328
+
+	NNG1
+		Images:	2141
+		Time:	26.07.2025 10:42:39 until 26.07.2025 17:01:41
+		Duration:	06:19:02
+		Location:	22.32134 113.94328
+
+	NP2
+		Images:	15320
+		Time:	26.07.2025 15:01:41 until 26.07.2025 20:41:50
+		Duration:	05:40:09
+		Location:	22.32134 113.94328
+
+	HYI2
+		Images:	3557
+		Time:	26.07.2025 15:03:55 until 26.07.2025 20:40:26
+		Duration:	05:36:31
+		Location:	22.32134 113.94328
+
+	RYH1
+		Images:	1944
+		Time:	26.07.2025 08:33:57 until 26.07.2025 14:48:31
+		Duration:	06:14:34
+		Location:	22.32134 113.94328
+
+	YH1
+		Images:	7738
+		Time:	26.07.2025 08:39:01 until 26.07.2025 14:47:58
+		Duration:	06:08:57
+		Location:	22.32134 113.94328
+
+(8) - Station 8 Wall Balls
+	DIDA1
+		Images:	1622
+		Time:	26.07.2025 08:11:59 until 26.07.2025 14:28:40
+		Duration:	06:16:41
+		Location:	22.32134 113.94328
+
+	DTQ2
+		Images:	11431
+		Time:	26.07.2025 14:31:59 until 26.07.2025 22:31:45
+		Duration:	07:59:46
+		Location:	22.32134 113.94328
+
+	GIP8
+		Images:	1838
+		Time:	26.07.2025 13:08:00 until 26.07.2025 19:17:14
+		Duration:	06:09:14
+		Location:	22.32134 113.94328
+
+	HTT8
+		Images:	3135
+		Time:	26.07.2025 10:15:39 until 26.07.2025 21:22:16
+		Duration:	11:06:37
+		Location:	22.32134 113.94328
+
+	LKN1
+		Images:	5044
+		Time:	26.07.2025 09:11:40 until 26.07.2025 14:28:36
+		Duration:	05:16:56
+		Location:	22.32134 113.94328
+
+	NNG8
+		Images:	1904
+		Time:	26.07.2025 18:48:07 until 26.07.2025 19:26:21
+		Duration:	00:38:14
+		Location:	22.32134 113.94328
+
+	STW2
+		Images:	3159
+		Time:	26.07.2025 14:30:27 until 26.07.2025 22:22:48
+		Duration:	07:52:21
+		Location:	22.32134 113.94328
+
+(9) - Medalwall
+	DIDA2
+		Images:	3753
+		Time:	26.07.2025 14:36:32 until 26.07.2025 22:30:48
+		Duration:	07:54:16
+		Location:	22.32134 113.94328
+
+	DTQ1
+		Images:	2723
+		Time:	26.07.2025 10:16:56 until 26.07.2025 14:05:23
+		Duration:	03:48:27
+		Location:	22.32134 113.94328
+
+	HTT9
+		Images:	1868
+		Time:	26.07.2025 08:45:39 until 26.07.2025 19:42:43
+		Duration:	10:57:04
+		Location:	22.32134 113.94328
+
+	LKN2
+		Images:	6153
+		Time:	26.07.2025 14:39:53 until 26.07.2025 22:37:58
+		Duration:	07:58:05
+		Location:	22.32134 113.94328
+
+	NNG6
+		Images:	239
+		Time:	26.07.2025 14:09:46 until 26.07.2025 19:51:46
+		Duration:	05:42:00
+		Location:	22.32134 113.94328
+
+	STW1
+		Images:	620
+		Time:	26.07.2025 10:19:54 until 26.07.2025 13:41:46
+		Duration:	03:21:52
+		Location:	22.32134 113.94328
+
+(10) - Station 4 Burpees
+	GIP4
+		Images:	2211
+		Time:	26.07.2025 12:31:37 until 26.07.2025 13:05:05
+		Duration:	00:33:28
+		Location:	22.32134 113.94328
+
+	HTT4
+		Images:	2609
+		Time:	26.07.2025 09:33:01 until 26.07.2025 18:40:09
+		Duration:	09:07:08
+		Location:	22.32134 113.94328
+
+	RSK1
+		Images:	4803
+		Time:	26.07.2025 08:48:16 until 26.07.2025 15:02:03
+		Duration:	06:13:47
+		Location:	22.32134 113.94328
+
+	RYT2
+		Images:	21694
+		Time:	26.07.2025 14:52:05 until 26.07.2025 21:23:47
+		Duration:	06:31:42
+		Location:	22.32134 113.94328
+
+(11) - Run
+	NNG3
+		Images:	243
+		Time:	26.07.2025 10:16:08 until 26.07.2025 15:18:31
+		Duration:	05:02:23
+		Location:	22.32134 113.94328
+
+	NNG5LS2
+		Images:	8282
+		Time:	26.07.2025 08:55:19 until 26.07.2025 21:16:33
+		Duration:	12:21:14
+		Location:	22.32134 113.94328
+

@@ -1,0 +1,509 @@
+EventId: 13524
+Spots: 81
+Total Images: 1410943
+Time:	31.12.2016 23:00:04 to 10.03.2025 11:05:55
+Duration: 2990.12:05:51
+
+(1) - 1.0 km Jardin des Plantes
+	AFCO1
+		Images:	22099
+		Time:	09.03.2025 07:01:31 until 09.03.2025 10:22:53
+		Duration:	03:21:22
+		Location:	48.84413 2.36487
+
+	BBENP1
+		Images:	15399
+		Time:	09.03.2025 06:10:07 until 09.03.2025 10:48:59
+		Duration:	04:38:52
+		Location:	48.84413 2.36487
+
+(2) - 1.5 km Gare d’Austerlitz
+	AJI1
+		Images:	12074
+		Time:	09.03.2025 05:56:58 until 09.03.2025 10:56:31
+		Duration:	04:59:33
+		Location:	48.84192 2.36788
+
+	BMAI1
+		Images:	14622
+		Time:	09.03.2025 06:12:21 until 09.03.2025 10:56:12
+		Duration:	04:43:51
+		Location:	48.84192 2.36788
+
+(3) - 10.5 km Route de la Pyramide
+	BMW1
+		Images:	26923
+		Time:	08.03.2025 19:59:37 until 09.03.2025 12:16:24
+		Duration:	16:16:47
+		Location:	48.83021 2.45024
+
+	BMW1LS1
+		Images:	20243
+		Time:	08.03.2025 20:03:11 until 09.03.2025 12:17:40
+		Duration:	16:14:29
+		Location:	48.83021 2.45024
+
+	BRA1
+		Images:	45762
+		Time:	09.03.2025 07:31:40 until 09.03.2025 12:17:45
+		Duration:	04:46:05
+		Location:	48.83021 2.45024
+
+	BRA1LS1
+		Images:	16385
+		Time:	09.03.2025 07:16:02 until 09.03.2025 12:18:51
+		Duration:	05:02:49
+		Location:	48.83021 2.45024
+
+	BRA1LS2
+		Images:	17994
+		Time:	09.03.2025 07:19:42 until 09.03.2025 12:19:44
+		Duration:	05:00:02
+		Location:	48.83021 2.45024
+
+	BSAMA1
+		Images:	16148
+		Time:	09.03.2025 07:29:33 until 09.03.2025 12:11:47
+		Duration:	04:42:14
+		Location:	48.83021 2.45024
+
+	CMOAB1
+		Images:	13233
+		Time:	09.03.2025 06:59:36 until 09.03.2025 12:17:46
+		Duration:	05:18:10
+		Location:	48.82962 2.45093
+
+(4) - 12.0 km Château de Vincennes
+	CMRED1
+		Images:	18292
+		Time:	09.03.2025 07:34:29 until 09.03.2025 12:22:35
+		Duration:	04:48:06
+		Location:	48.84057 2.43456
+
+	CNWO1
+		Images:	15676
+		Time:	08.03.2025 20:33:41 until 09.03.2025 12:22:23
+		Duration:	15:48:42
+		Location:	48.84076 2.43455
+
+	CNWO1LS1
+		Images:	5110
+		Time:	09.03.2025 07:01:11 until 09.03.2025 12:26:30
+		Duration:	05:25:19
+		Location:	48.84076 2.43455
+
+	CNWO1LS2
+		Images:	5792
+		Time:	09.03.2025 07:19:36 until 09.03.2025 12:27:54
+		Duration:	05:08:18
+		Location:	48.84076 2.43455
+
+	CTOG1
+		Images:	28147
+		Time:	08.03.2025 20:32:29 until 09.03.2025 12:22:55
+		Duration:	15:50:26
+		Location:	48.84076 2.43455
+
+	CTOG1LS1
+		Images:	5893
+		Time:	08.03.2025 20:35:40 until 09.03.2025 12:31:01
+		Duration:	15:55:21
+		Location:	48.84076 2.43455
+
+	CTOG1LS2
+		Images:	5760
+		Time:	08.03.2025 20:35:55 until 09.03.2025 12:24:53
+		Duration:	15:48:58
+		Location:	48.84076 2.43455
+
+(5) - 12.1 km Av. Daumesnil
+	AAPI1
+		Images:	10470
+		Time:	09.03.2025 06:02:10 until 09.03.2025 12:17:06
+		Duration:	06:14:56
+		Location:	48.84025 2.43306
+
+	ADPH1
+		Images:	20917
+		Time:	09.03.2025 07:09:58 until 09.03.2025 12:24:12
+		Duration:	05:14:14
+		Location:	48.84025 2.43306
+
+	BDAV1
+		Images:	14832
+		Time:	09.03.2025 07:04:54 until 09.03.2025 12:24:11
+		Duration:	05:19:17
+		Location:	48.84025 2.43306
+
+	BDAV1LS1
+		Images:	11462
+		Time:	09.03.2025 06:55:58 until 09.03.2025 12:25:51
+		Duration:	05:29:53
+		Location:	48.84025 2.43306
+
+	BGAC1
+		Images:	33720
+		Time:	08.03.2025 23:24:58 until 09.03.2025 12:32:46
+		Duration:	13:07:48
+		Location:	48.84025 2.43306
+
+(6) - 12.1 km Château de Vincennes
+	CACCA1
+		Images:	38960
+		Time:	08.03.2025 08:40:06 until 09.03.2025 12:22:53
+		Duration:	1.03:42:47
+		Location:	48.84117 2.43356
+
+(7) - 15.2 km Place Félix-Éboué
+	AOT1LS1
+		Images:	39339
+		Time:	08.03.2025 20:36:30 until 09.03.2025 12:48:50
+		Duration:	16:12:20
+		Location:	48.83946 2.39553
+
+	AROB1LS1
+		Images:	8377
+		Time:	09.03.2025 06:59:14 until 09.03.2025 10:41:50
+		Duration:	03:42:36
+		Location:	48.83946 2.39553
+
+	BOT1
+		Images:	45929
+		Time:	08.03.2025 20:39:14 until 09.03.2025 12:50:54
+		Duration:	16:11:40
+		Location:	48.83946 2.39553
+
+(8) - 15.2 km Place Félix-Ëbouqé
+	CROB1
+		Images:	22727
+		Time:	08.03.2025 22:54:31 until 09.03.2025 12:51:27
+		Duration:	13:56:56
+		Location:	48.83972 2.39601
+
+	CROB1LS2
+		Images:	12573
+		Time:	09.03.2025 06:49:21 until 09.03.2025 10:52:21
+		Duration:	04:03:00
+		Location:	48.83972 2.39601
+
+(9) - 17.5 km Quai de la Rapée/ Pont Charles de Gaulle
+	AJI2
+		Images:	2825
+		Time:	09.03.2025 11:10:59 until 09.03.2025 13:15:12
+		Duration:	02:04:13
+		Location:	48.84323 2.37038
+
+	AMAI2
+		Images:	5100
+		Time:	09.03.2025 11:09:47 until 09.03.2025 13:11:20
+		Duration:	02:01:33
+		Location:	48.84323 2.37038
+
+(10) - 18.3 km Voie Mazas
+	AFCO2
+		Images:	8776
+		Time:	09.03.2025 10:23:51 until 09.03.2025 13:12:14
+		Duration:	02:48:23
+		Location:	48.84536 2.36688
+
+	BBENL2
+		Images:	4116
+		Time:	09.03.2025 11:05:37 until 09.03.2025 13:16:02
+		Duration:	02:10:25
+		Location:	48.84536 2.36688
+
+	BBENP2
+		Images:	6128
+		Time:	09.03.2025 10:59:20 until 09.03.2025 13:11:52
+		Duration:	02:12:32
+		Location:	48.84536 2.36688
+
+(11) - 19.8 km Hotel de Ville/ Rue de Rivoli
+	AMSAI1
+		Images:	15135
+		Time:	09.03.2025 07:01:16 until 09.03.2025 13:31:14
+		Duration:	06:29:58
+		Location:	48.85689 2.35422
+
+	BSSW1
+		Images:	21481
+		Time:	08.03.2025 19:38:49 until 09.03.2025 13:29:17
+		Duration:	17:50:28
+		Location:	48.85689 2.35422
+
+	BSSW1LS1
+		Images:	18327
+		Time:	08.03.2025 19:50:12 until 09.03.2025 13:29:46
+		Duration:	17:39:34
+		Location:	48.85689 2.35422
+
+	BSSW1LS2
+		Images:	18283
+		Time:	08.03.2025 19:42:59 until 09.03.2025 13:31:31
+		Duration:	17:48:32
+		Location:	48.85689 2.35422
+
+	BTID1
+		Images:	46314
+		Time:	08.03.2025 10:47:12 until 09.03.2025 13:29:53
+		Duration:	1.02:42:41
+		Location:	48.85689 2.35422
+
+(12) - 20.2 km Rue de Rivoli
+	BRUA1
+		Images:	10698
+		Time:	08.03.2025 15:58:24 until 09.03.2025 13:42:48
+		Duration:	21:44:24
+		Location:	48.85506 2.36156
+
+(13) - 20.8 km Rue de Rivoli/ Temple du Marais
+	ANBA1
+		Images:	18611
+		Time:	09.03.2025 07:30:58 until 09.03.2025 13:40:37
+		Duration:	06:09:39
+		Location:	48.85355 2.36660
+
+	BOP1
+		Images:	21986
+		Time:	09.03.2025 07:59:09 until 09.03.2025 13:38:42
+		Duration:	05:39:33
+		Location:	48.85354 2.36694
+
+	BOP1LS1
+		Images:	9305
+		Time:	09.03.2025 07:55:15 until 09.03.2025 13:38:31
+		Duration:	05:43:16
+		Location:	48.85354 2.36694
+
+(14) - 21.0 km Place de la Bastille
+	AMASG2
+		Images:	1661
+		Time:	09.03.2025 11:00:51 until 09.03.2025 13:58:34
+		Duration:	02:57:43
+		Location:	48.84937 2.35656
+
+	BMGA1
+		Images:	10211
+		Time:	09.03.2025 07:00:47 until 09.03.2025 13:51:34
+		Duration:	06:50:47
+		Location:	48.84937 2.35656
+
+	BPBO1
+		Images:	27887
+		Time:	08.03.2025 07:20:20 until 09.03.2025 13:16:25
+		Duration:	1.05:56:05
+		Location:	48.84937 2.35656
+
+(15) - 3.0 km Rue Joseph Kessel
+	CKMC1
+		Images:	21100
+		Time:	09.03.2025 07:07:46 until 09.03.2025 11:05:00
+		Duration:	03:57:14
+		Location:	48.83381 2.38265
+
+	CLV1
+		Images:	52825
+		Time:	08.03.2025 19:27:53 until 09.03.2025 11:07:31
+		Duration:	15:39:38
+		Location:	48.83381 2.38265
+
+	CMK1
+		Images:	69336
+		Time:	09.03.2025 07:07:51 until 09.03.2025 11:03:07
+		Duration:	03:55:16
+		Location:	48.83381 2.38265
+
+	CMK1LS1
+		Images:	13930
+		Time:	09.03.2025 06:59:41 until 09.03.2025 11:03:01
+		Duration:	04:03:20
+		Location:	48.83381 2.38265
+
+	CMK1LS2
+		Images:	13511
+		Time:	09.03.2025 06:38:02 until 09.03.2025 11:05:17
+		Duration:	04:27:15
+		Location:	48.83381 2.38265
+
+(16) - 3.1 km Rue Joseph Kessel
+	AJDU1
+		Images:	3238
+		Time:	10.03.2025 07:05:20 until 10.03.2025 11:05:55
+		Duration:	04:00:35
+		Location:	48.8343 2.38358
+
+	AMIBU1
+		Images:	25477
+		Time:	08.03.2025 22:48:25 until 09.03.2025 11:04:09
+		Duration:	12:15:44
+		Location:	48.8343 2.38358
+
+	AMIBU1LS1
+		Images:	7100
+		Time:	09.03.2025 06:57:13 until 09.03.2025 11:06:38
+		Duration:	04:09:25
+		Location:	48.8343 2.38358
+
+	ATOBB1
+		Images:	31458
+		Time:	08.03.2025 22:51:10 until 09.03.2025 11:05:53
+		Duration:	12:14:43
+		Location:	48.8343 2.38358
+
+	ATOBB1LS1
+		Images:	7070
+		Time:	08.03.2025 22:47:50 until 09.03.2025 11:06:38
+		Duration:	12:18:48
+		Location:	48.8343 2.38358
+
+	ATOBB1LS2
+		Images:	7137
+		Time:	08.03.2025 22:54:26 until 09.03.2025 11:07:20
+		Duration:	12:12:54
+		Location:	48.8343 2.38358
+
+(17) - 3.2 km Rue Joseph Kessel
+	AANR1
+		Images:	17463
+		Time:	09.03.2025 07:08:31 until 09.03.2025 11:04:55
+		Duration:	03:56:24
+		Location:	48.83457 2.38402
+
+	AFVE1
+		Images:	9791
+		Time:	09.03.2025 07:08:31 until 09.03.2025 11:05:14
+		Duration:	03:56:43
+		Location:	48.83457 2.38402
+
+	AJAD1
+		Images:	11459
+		Time:	09.03.2025 07:08:29 until 09.03.2025 11:04:35
+		Duration:	03:56:06
+		Location:	48.83457 2.38402
+
+(18) - 7.0 km Avenue de Gravelle
+	ACZE1
+		Images:	5903
+		Time:	09.03.2025 07:15:54 until 09.03.2025 11:47:19
+		Duration:	04:31:25
+		Location:	48.82338 2.43005
+
+	AMIJA1
+		Images:	24126
+		Time:	08.03.2025 08:02:44 until 09.03.2025 11:43:34
+		Duration:	1.03:40:50
+		Location:	48.82338 2.43005
+
+	CALN1
+		Images:	24137
+		Time:	09.03.2025 07:19:50 until 09.03.2025 11:39:33
+		Duration:	04:19:43
+		Location:	48.82399 2.42760
+
+	CALN1LS1
+		Images:	16074
+		Time:	09.03.2025 07:13:54 until 09.03.2025 11:40:06
+		Duration:	04:26:12
+		Location:	48.82399 2.42760
+
+	CALN1LS2
+		Images:	15010
+		Time:	09.03.2025 07:13:54 until 09.03.2025 11:40:06
+		Duration:	04:26:12
+		Location:	48.82399 2.42760
+
+	CALN1LS3
+		Images:	7861
+		Time:	09.03.2025 09:49:13 until 09.03.2025 11:40:08
+		Duration:	01:50:55
+		Location:	48.82399 2.42760
+
+	CALN1LS4
+		Images:	21672
+		Time:	09.03.2025 07:13:53 until 09.03.2025 11:40:05
+		Duration:	04:26:12
+		Location:	48.82399 2.42760
+
+	CJULG1
+		Images:	19699
+		Time:	08.03.2025 17:23:50 until 09.03.2025 11:38:43
+		Duration:	18:14:53
+		Location:	48.82389 2.42755
+
+(19) - Ceremony
+	AMBEN1
+		Images:	9649
+		Time:	08.03.2025 23:37:11 until 09.03.2025 13:41:36
+		Duration:	14:04:25
+		Location:	48.85140 2.37009
+
+	ASTL1
+		Images:	9115
+		Time:	09.03.2025 08:06:36 until 09.03.2025 13:52:36
+		Duration:	05:46:00
+		Location:	48.85140 2.37009
+
+	AVL1
+		Images:	15064
+		Time:	09.03.2025 08:02:07 until 09.03.2025 13:53:50
+		Duration:	05:51:43
+		Location:	48.85140 2.37009
+
+	BREL1
+		Images:	3892
+		Time:	09.03.2025 07:12:58 until 09.03.2025 13:36:35
+		Duration:	06:23:37
+		Location:	48.85140 2.37009
+
+(20) - Finish
+	AMAW1
+		Images:	25805
+		Time:	08.03.2025 19:43:25 until 09.03.2025 13:26:20
+		Duration:	17:42:55
+		Location:	48.85203 2.36969
+
+	AMAW1LS1
+		Images:	10964
+		Time:	08.03.2025 19:45:23 until 09.03.2025 13:40:31
+		Duration:	17:55:08
+		Location:	48.85203 2.36969
+
+	AMAW1LS2
+		Images:	12321
+		Time:	08.03.2025 19:44:30 until 09.03.2025 12:13:30
+		Duration:	16:29:00
+		Location:	48.85203 2.36969
+
+	APMC1
+		Images:	32417
+		Time:	08.03.2025 10:44:15 until 09.03.2025 14:00:49
+		Duration:	1.03:16:34
+		Location:	48.85203 2.36969
+
+	BMOKU1
+		Images:	33983
+		Time:	09.03.2025 08:00:15 until 09.03.2025 13:43:21
+		Duration:	05:43:06
+		Location:	48.85203 2.36969
+
+	BWIP1
+		Images:	16077
+		Time:	31.12.2016 23:00:04 until 09.03.2025 12:06:00
+		Duration:	2989.13:05:56
+		Location:	48.85203 2.36969
+
+(21) - Impressions / Pano
+	PANO1
+(22) - Start
+	AMASG1
+		Images:	3359
+		Time:	08.03.2025 20:05:04 until 09.03.2025 10:40:29
+		Duration:	14:35:25
+		Location:	48.84944 2.35478
+
+	BIBLA1
+		Images:	1218
+		Time:	09.03.2025 06:56:10 until 09.03.2025 07:44:20
+		Duration:	00:48:10
+		Location:	48.84944 2.35478
+

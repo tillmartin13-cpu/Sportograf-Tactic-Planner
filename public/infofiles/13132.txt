@@ -1,0 +1,49 @@
+EventId: 13132
+Spots: 7
+Total Images: 3635
+Time:	05.07.2025 08:45:51 to 05.07.2025 13:08:45
+Duration: 04:22:54
+
+(1) - IMP
+	AGP1
+		Images:	53
+		Time:	05.07.2025 08:45:51 until 05.07.2025 11:30:52
+		Duration:	02:45:01
+		Location:	57.78247 14.16588
+
+	FJO1
+		Images:	138
+		Time:	05.07.2025 08:46:58 until 05.07.2025 10:46:25
+		Duration:	01:59:27
+		Location:	57.78247 14.16588
+
+(2) - Finish
+	AGP3
+		Images:	1602
+		Time:	05.07.2025 11:56:26 until 05.07.2025 13:08:45
+		Duration:	01:12:19
+		Location:	57.78247 14.16588
+
+(3) - Swim - Start
+	AGP2
+		Images:	550
+		Time:	05.07.2025 09:04:23 until 05.07.2025 11:23:37
+		Duration:	02:19:14
+		Location:	57.78141 14.17004
+
+(4) - Swim - Impressions / Pano
+	PANO1
+(5) - Bike - 9.0 km
+	BIL1
+		Images:	711
+		Time:	05.07.2025 11:19:40 until 05.07.2025 12:29:33
+		Duration:	01:09:53
+		Location:	57.78179 14.20577
+
+(6) - Run - 3.5 km
+	FJO2
+		Images:	581
+		Time:	05.07.2025 10:49:19 until 05.07.2025 13:01:04
+		Duration:	02:11:45
+		Location:	57.77855 14.17117
+

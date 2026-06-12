@@ -1,0 +1,120 @@
+EventId: 14098
+Spots: 17
+Total Images: 62584
+Time:	28.09.2025 09:27:50 to 28.09.2025 13:47:12
+Duration: 04:19:22
+
+(1) - Start
+	RSJ1
+		Images:	1627
+		Time:	28.09.2025 09:34:12 until 28.09.2025 10:44:58
+		Duration:	01:10:46
+		Location:	47.74949 11.73378
+
+(2) - Start - Jugend
+	RSJ2
+		Images:	32
+		Time:	28.09.2025 10:49:59 until 28.09.2025 10:50:10
+		Duration:	00:00:11
+		Location:	47.74949 11.73378
+
+(3) - Start - Kinder
+	RSJ3
+		Images:	27
+		Time:	28.09.2025 10:54:58 until 28.09.2025 10:55:08
+		Duration:	00:00:10
+		Location:	47.74949 11.73378
+
+(4) - 2,5 km
+	SALE1
+		Images:	4000
+		Time:	28.09.2025 09:39:04 until 28.09.2025 12:27:34
+		Duration:	02:48:30
+		Location:	47.73272 11.73950
+
+(5) - 5,0 km
+	LIMA1
+		Images:	2899
+		Time:	28.09.2025 09:27:50 until 28.09.2025 11:24:59
+		Duration:	01:57:09
+		Location:	47.71268 11.75225
+
+(6) - 5,6 km
+	MJO1
+		Images:	2603
+		Time:	28.09.2025 09:32:16 until 28.09.2025 11:22:41
+		Duration:	01:50:25
+		Location:	47.70882 11.75328
+
+(7) - 9,4 km
+	EPR1
+		Images:	4289
+		Time:	28.09.2025 10:19:56 until 28.09.2025 12:00:25
+		Duration:	01:40:29
+		Location:	47.69781 11.75771
+
+(8) - 13,5 km
+	SDR1
+		Images:	8762
+		Time:	28.09.2025 09:42:57 until 28.09.2025 12:34:20
+		Duration:	02:51:23
+		Location:	47.70616 11.73942
+
+(9) - 15,8 km
+	SVL1
+		Images:	5657
+		Time:	28.09.2025 11:22:02 until 28.09.2025 12:54:37
+		Duration:	01:32:35
+		Location:	47.71776 11.72884
+
+	SVL1LS1
+		Images:	3985
+		Time:	28.09.2025 11:21:36 until 28.09.2025 12:52:38
+		Duration:	01:31:02
+		Location:	47.71776 11.72884
+
+	SVL1LS2
+		Images:	3906
+		Time:	28.09.2025 11:32:26 until 28.09.2025 13:00:21
+		Duration:	01:27:55
+		Location:	47.71776 11.72884
+
+(10) - 20,8 km
+	MJO2
+		Images:	4925
+		Time:	28.09.2025 11:51:30 until 28.09.2025 13:36:16
+		Duration:	01:44:46
+		Location:	47.74790 11.72561
+
+(11) - 20,5 km
+	SALE2
+		Images:	2010
+		Time:	28.09.2025 12:27:35 until 28.09.2025 13:34:34
+		Duration:	01:06:59
+		Location:	47.7469 11.72620
+
+(12) - Finish
+	LIMA2
+		Images:	6766
+		Time:	28.09.2025 11:54:20 until 28.09.2025 13:47:12
+		Duration:	01:52:52
+		Location:	47.74949 11.73378
+
+	RSJ4
+		Images:	7636
+		Time:	28.09.2025 11:00:56 until 28.09.2025 13:46:44
+		Duration:	02:45:48
+		Location:	47.74949 11.73378
+
+	RSJ4LS1
+		Images:	3449
+		Time:	28.09.2025 10:59:04 until 28.09.2025 13:47:06
+		Duration:	02:48:02
+		Location:	47.74949 11.73378
+
+	EPR2
+		Images:	11
+		Time:	28.09.2025 13:21:43 until 28.09.2025 13:31:39
+		Duration:	00:09:56
+		Location:	47.74949 11.73378
+

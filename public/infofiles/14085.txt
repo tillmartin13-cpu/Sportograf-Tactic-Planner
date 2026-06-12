@@ -1,0 +1,77 @@
+EventId: 14085
+Spots: 11
+Total Images: 16309
+Time:	12.09.2025 22:29:46 to 13.09.2025 13:50:41
+Duration: 15:20:55
+
+(1) - Zwölferkofel View
+	EJ1
+		Images:	1581
+		Time:	13.09.2025 05:00:08 until 13.09.2025 13:50:41
+		Duration:	08:50:33
+		Location:	NULL NULL
+
+(2) - After Büllelejochhütte
+	MHO1LS1
+		Images:	559
+		Time:	13.09.2025 10:55:31 until 13.09.2025 12:34:21
+		Duration:	01:38:50
+		Location:	NULL NULL
+
+	MHO1
+		Images:	1616
+		Time:	13.09.2025 10:43:44 until 13.09.2025 12:30:49
+		Duration:	01:47:05
+		Location:	NULL NULL
+
+(3) - 1km Before Finish
+	CHR1
+		Images:	2316
+		Time:	13.09.2025 09:24:17 until 13.09.2025 13:30:57
+		Duration:	04:06:40
+		Location:	NULL NULL
+
+	CHR1DRONE1
+		Images:	21
+		Time:	13.09.2025 10:51:28 until 13.09.2025 11:02:13
+		Duration:	00:10:45
+		Location:	NULL NULL
+
+	CHR1LS1
+		Images:	705
+		Time:	12.09.2025 22:29:46 until 13.09.2025 00:59:02
+		Duration:	02:29:16
+		Location:	NULL NULL
+
+	CHR1LS2
+		Images:	726
+		Time:	13.09.2025 10:26:31 until 13.09.2025 13:01:26
+		Duration:	02:34:55
+		Location:	NULL NULL
+
+(4) - Lakeview 500m Before Finish
+	COR1
+		Images:	2306
+		Time:	13.09.2025 10:28:13 until 13.09.2025 13:05:45
+		Duration:	02:37:32
+		Location:	NULL NULL
+
+	COR1LS1
+		Images:	767
+		Time:	13.09.2025 10:24:58 until 13.09.2025 13:00:47
+		Duration:	02:35:49
+		Location:	NULL NULL
+
+	COR1LS2
+		Images:	761
+		Time:	13.09.2025 10:22:48 until 13.09.2025 13:00:27
+		Duration:	02:37:39
+		Location:	NULL NULL
+
+(5) - Finish
+	FPB1
+		Images:	4951
+		Time:	13.09.2025 10:15:53 until 13.09.2025 13:14:34
+		Duration:	02:58:41
+		Location:	NULL NULL
+

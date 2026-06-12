@@ -1,0 +1,201 @@
+EventId: 14004
+Spots: 30
+Total Images: 144132
+Time:	16.08.2025 23:22:55 to 17.08.2025 23:29:47
+Duration: 1.00:06:52
+
+(1) - Swim - Start
+	BK1
+		Images:	532
+		Time:	17.08.2025 06:22:46 until 17.08.2025 07:41:52
+		Duration:	01:19:06
+		Location:	55.65487 12.64630
+
+	ZSZ1
+		Images:	574
+		Time:	17.08.2025 06:16:16 until 17.08.2025 08:11:33
+		Duration:	01:55:17
+		Location:	55.65487 12.64630
+
+	DWE1
+		Images:	88
+		Time:	17.08.2025 06:21:40 until 17.08.2025 07:42:43
+		Duration:	01:21:03
+		Location:	55.65487 12.64630
+
+	PLU1
+		Images:	1770
+		Time:	17.08.2025 06:17:00 until 17.08.2025 07:43:23
+		Duration:	01:26:23
+		Location:	55.65487 12.64630
+
+(2) - Swim - Exit
+	HT1
+		Images:	5372
+		Time:	17.08.2025 06:42:40 until 17.08.2025 12:10:27
+		Duration:	05:27:47
+		Location:	55.65446 12.64654
+
+	JKOR1
+		Images:	9584
+		Time:	16.08.2025 23:22:55 until 17.08.2025 10:05:14
+		Duration:	10:42:19
+		Location:	55.65446 12.64654
+
+(3) - Swim - Transition zone
+	PAZ1
+		Images:	4652
+		Time:	17.08.2025 07:27:06 until 17.08.2025 10:39:09
+		Duration:	03:12:03
+		Location:	55.65250 12.64566
+
+(4) - Bike - Klampenborg Strand
+	PAG1
+		Images:	11575
+		Time:	17.08.2025 08:13:51 until 17.08.2025 16:47:56
+		Duration:	08:34:05
+		Location:	55.77324 12.59353
+
+(5) - Bike - Langebro
+	JJ1
+		Images:	6287
+		Time:	17.08.2025 07:46:30 until 17.08.2025 10:28:50
+		Duration:	02:42:20
+		Location:	55.67039 12.57883
+
+(6) - Bike - Skodsborgvej
+	BK2
+		Images:	4962
+		Time:	17.08.2025 08:44:45 until 17.08.2025 13:54:16
+		Duration:	05:09:31
+		Location:	55.81947 12.54781
+
+	DWE2
+		Images:	4351
+		Time:	17.08.2025 08:54:28 until 17.08.2025 10:45:37
+		Duration:	01:51:09
+		Location:	55.81947 12.54781
+
+	DWE2LS1
+		Images:	1860
+		Time:	17.08.2025 08:48:37 until 17.08.2025 13:49:42
+		Duration:	05:01:05
+		Location:	55.81947 12.54781
+
+(7) - Bike - Kongevejen
+	OLM1
+		Images:	10630
+		Time:	17.08.2025 09:03:08 until 17.08.2025 15:36:51
+		Duration:	06:33:43
+		Location:	55.80538 12.47669
+
+(8) - Bike - Sankt Ansgars Kirke
+	JJ2
+		Images:	7574
+		Time:	17.08.2025 11:45:48 until 17.08.2025 16:00:46
+		Duration:	04:14:58
+		Location:	55.68659 12.59209
+
+(9) - Bike - Frederikskirche
+	DWE3
+		Images:	2008
+		Time:	17.08.2025 13:56:54 until 17.08.2025 14:44:42
+		Duration:	00:47:48
+		Location:	55.68476 12.59058
+
+	DWE3LS1
+		Images:	682
+		Time:	17.08.2025 13:50:13 until 17.08.2025 15:01:08
+		Duration:	01:10:55
+		Location:	55.68476 12.59058
+
+(10) - Run - Knippelsbro
+	JJ3
+		Images:	3628
+		Time:	17.08.2025 16:16:02 until 17.08.2025 17:50:31
+		Duration:	01:34:29
+		Location:	55.67456 12.58590
+
+	PAZ2
+		Images:	14582
+		Time:	17.08.2025 11:18:57 until 17.08.2025 20:33:12
+		Duration:	09:14:15
+		Location:	55.67456 12.58590
+
+(11) - Run - Langelinie Park
+	BK3
+		Images:	2256
+		Time:	17.08.2025 13:54:31 until 17.08.2025 16:31:10
+		Duration:	02:36:39
+		Location:	55.68914 12.59769
+
+	DWE4LS1
+		Images:	2838
+		Time:	17.08.2025 15:02:41 until 17.08.2025 17:36:00
+		Duration:	02:33:19
+		Location:	55.68914 12.59769
+
+(12) - Run - Gefion Fountain
+	ZSZ2
+		Images:	9250
+		Time:	17.08.2025 10:09:39 until 17.08.2025 20:53:01
+		Duration:	10:43:22
+		Location:	55.68930 12.59780
+
+(13) - Run - Nyhavn
+	DWE4
+		Images:	1549
+		Time:	17.08.2025 17:39:06 until 17.08.2025 18:06:22
+		Duration:	00:27:16
+		Location:	55.68040 12.58757
+
+	DWE4LS2
+		Images:	710
+		Time:	17.08.2025 17:36:12 until 17.08.2025 18:11:44
+		Duration:	00:35:32
+		Location:	55.68040 12.58757
+
+	BK4
+		Images:	2064
+		Time:	17.08.2025 17:33:41 until 17.08.2025 18:57:20
+		Duration:	01:23:39
+		Location:	55.68040 12.58757
+
+(14) - Run - Christiansborg
+	PLU2
+		Images:	7822
+		Time:	17.08.2025 12:23:33 until 17.08.2025 20:37:01
+		Duration:	08:13:28
+		Location:	55.67407 12.57737
+
+(15) - Finish
+	JJ4
+		Images:	1836
+		Time:	17.08.2025 17:52:58 until 17.08.2025 18:55:31
+		Duration:	01:02:33
+		Location:	55.67654 12.58135
+
+	JKOR2
+		Images:	9343
+		Time:	17.08.2025 12:04:03 until 17.08.2025 23:29:47
+		Duration:	11:25:44
+		Location:	55.67654 12.58135
+
+	JKOR2LS1
+		Images:	2077
+		Time:	16.08.2025 23:28:24 until 17.08.2025 23:13:53
+		Duration:	23:45:29
+		Location:	55.67654 12.58135
+
+	HT2
+		Images:	10587
+		Time:	17.08.2025 14:50:56 until 17.08.2025 23:29:39
+		Duration:	08:38:43
+		Location:	55.67654 12.58135
+
+	HT2LS1
+		Images:	3089
+		Time:	17.08.2025 14:16:57 until 17.08.2025 23:09:19
+		Duration:	08:52:22
+		Location:	55.67654 12.58135
+

@@ -1,0 +1,103 @@
+EventId: 14013
+Spots: 14
+Total Images: 17356
+Time:	15.03.2025 07:03:21 to 15.03.2025 16:25:02
+Duration: 09:21:41
+
+(1) - Hindenburghütte
+	LIMA1
+		Images:	649
+		Time:	15.03.2025 09:14:30 until 15.03.2025 13:31:20
+		Duration:	04:16:50
+		Location:	47.64608 12.50213
+
+(2) - 28,0 km
+	LIMA2
+		Images:	2372
+		Time:	15.03.2025 11:17:35 until 15.03.2025 13:46:32
+		Duration:	02:28:57
+		Location:	47.64580 12.50308
+
+(3) - Hemmersuppenalm/Sulzner Kaser Alm Wiese
+	PGE1
+		Images:	30
+		Time:	15.03.2025 08:45:27 until 15.03.2025 09:12:16
+		Duration:	00:26:49
+		Location:	47.64297 12.50625
+
+(4) - 28,7 km
+	PGE2
+		Images:	1448
+		Time:	15.03.2025 09:56:10 until 15.03.2025 11:09:03
+		Duration:	01:12:53
+		Location:	47.64241 12.50730
+
+(5) - 27,9 km
+	PGE3
+		Images:	3278
+		Time:	15.03.2025 11:09:04 until 15.03.2025 12:58:20
+		Duration:	01:49:16
+		Location:	47.64238 12.50900
+
+(6) - 28,2 km
+	PGE4
+		Images:	460
+		Time:	15.03.2025 13:00:54 until 15.03.2025 13:39:00
+		Duration:	00:38:06
+		Location:	47.64441 12.50336
+
+(7) - 33,3 km
+	PGE5
+		Images:	31
+		Time:	15.03.2025 13:47:10 until 15.03.2025 13:52:40
+		Duration:	00:05:30
+		Location:	47.64422 12.50363
+
+(8) - Ski-Sprungschanze
+	RSJ1
+		Images:	1099
+		Time:	15.03.2025 09:18:45 until 15.03.2025 11:21:17
+		Duration:	02:02:32
+		Location:	47.66641 12.48191
+
+(9) - 39,9 km
+	RSJ2
+		Images:	1260
+		Time:	15.03.2025 12:01:57 until 15.03.2025 15:32:34
+		Duration:	03:30:37
+		Location:	47.66700 12.48202
+
+	RSJ3
+		Images:	576
+		Time:	15.03.2025 12:05:19 until 15.03.2025 15:32:49
+		Duration:	03:27:30
+		Location:	47.66700 12.48202
+
+(10) - Start
+	IH1
+		Images:	537
+		Time:	15.03.2025 07:03:21 until 15.03.2025 10:00:12
+		Duration:	02:56:51
+		Location:	47.67494 12.46624
+
+(11) - 4,0 km
+	RSJ1LS1
+		Images:	415
+		Time:	15.03.2025 08:45:59 until 15.03.2025 11:36:32
+		Duration:	02:50:33
+		Location:	47.66641 12.48191
+
+(12) - 42,8 km
+	MIKR1
+		Images:	1888
+		Time:	15.03.2025 07:11:05 until 15.03.2025 12:59:34
+		Duration:	05:48:29
+		Location:	47.67517 12.46709
+
+(13) - Finish
+	IH2
+		Images:	3313
+		Time:	15.03.2025 10:00:12 until 15.03.2025 16:25:02
+		Duration:	06:24:50
+		Location:	47.67494 12.46624
+

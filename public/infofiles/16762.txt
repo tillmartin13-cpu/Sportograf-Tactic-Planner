@@ -1,0 +1,139 @@
+EventId: 16762
+Spots: 20
+Total Images: 38684
+Time:	10.05.2025 08:04:14 to 11.05.2025 16:47:53
+Duration: 1.08:43:39
+
+(1) - FEED TECNICAL ZONE ES/DE/DA
+	AGU1
+		Images:	1548
+		Time:	11.05.2025 08:40:27 until 11.05.2025 11:43:45
+		Duration:	03:03:18
+		Location:	42.71546 10.39303
+
+(2) - FEED TECNICAL ZONE ES/DE/DA/AL
+	AGU1LS1
+		Images:	1216
+		Time:	11.05.2025 08:30:16 until 11.05.2025 13:45:46
+		Duration:	05:15:30
+		Location:	42.71546 10.39303
+
+	AGU1LS2
+		Images:	4539
+		Time:	11.05.2025 08:39:17 until 11.05.2025 13:47:03
+		Duration:	05:07:46
+		Location:	42.71546 10.39303
+
+(3) - DH PONTE DI FERRO AL/JUNIOR SERIES
+	AGU2
+		Images:	2138
+		Time:	11.05.2025 11:53:36 until 11.05.2025 16:24:49
+		Duration:	04:31:13
+		Location:	42.71610 10.39092
+
+(4) - JUMP DI FERRO AL/JUNIOR SERIES
+	AGU2LS1
+		Images:	515
+		Time:	11.05.2025 13:47:04 until 11.05.2025 16:38:08
+		Duration:	02:51:04
+		Location:	42.71669 10.39119
+
+(5) - FEED TECNICAL ZONE AL/JUNIOR SERIES
+	AGU2LS2
+		Images:	627
+		Time:	11.05.2025 13:48:34 until 11.05.2025 16:40:13
+		Duration:	02:51:39
+		Location:	42.71546 10.39303
+
+(6) - JUMP LE PIANE ES/DE/DA/AL
+	EB1
+		Images:	4475
+		Time:	10.05.2025 10:30:07 until 11.05.2025 14:00:58
+		Duration:	1.03:30:51
+		Location:	42.71751 10.39185
+
+(7) - JUMP LE PIANE ES/DE/DA
+	EB1LS1
+		Images:	354
+		Time:	11.05.2025 08:29:36 until 11.05.2025 11:52:15
+		Duration:	03:22:39
+		Location:	42.71751 10.39185
+
+	EB1LS2
+		Images:	544
+		Time:	11.05.2025 08:22:23 until 11.05.2025 11:39:26
+		Duration:	03:17:03
+		Location:	42.71751 10.39185
+
+(8) - JUMP LE PIANE JUNIOR SERIES
+	EB2
+		Images:	1922
+		Time:	11.05.2025 14:05:12 until 11.05.2025 16:33:52
+		Duration:	02:28:40
+		Location:	42.71751 10.39185
+
+(9) - JUMP LE PIANE AL/JUNIOR SERIES
+	EB2LS1
+		Images:	917
+		Time:	11.05.2025 11:52:45 until 11.05.2025 16:40:30
+		Duration:	04:47:45
+		Location:	42.71751 10.39185
+
+	EB2LS2
+		Images:	1293
+		Time:	11.05.2025 11:51:52 until 11.05.2025 16:47:53
+		Duration:	04:56:01
+		Location:	42.71751 10.39185
+
+(10) - LE MAZZERE ES/DE/DA/AL
+	FRN1
+		Images:	3809
+		Time:	11.05.2025 08:32:44 until 11.05.2025 13:09:20
+		Duration:	04:36:36
+		Location:	42.71647 10.39380
+
+	FRN1LS1
+		Images:	953
+		Time:	11.05.2025 08:20:06 until 11.05.2025 13:56:00
+		Duration:	05:35:54
+		Location:	42.71647 10.39380
+
+	FRN1LS2
+		Images:	3959
+		Time:	10.05.2025 10:26:46 until 11.05.2025 16:25:34
+		Duration:	1.05:58:48
+		Location:	42.71647 10.39380
+
+(11) - LE MAZZERE JUNIOR SERIES
+	FRN2
+		Images:	3924
+		Time:	11.05.2025 13:17:33 until 11.05.2025 16:22:17
+		Duration:	03:04:44
+		Location:	42.71647 10.39380
+
+	FRN2LS2
+		Images:	548
+		Time:	11.05.2025 13:56:45 until 11.05.2025 16:30:25
+		Duration:	02:33:40
+		Location:	42.71647 10.39380
+
+	FRN2LS1
+		Images:	1571
+		Time:	11.05.2025 08:12:02 until 11.05.2025 13:41:07
+		Duration:	05:29:05
+		Location:	42.71647 10.39380
+
+(12) - FINISH ES/DE/DA7AL
+	LEBE1
+		Images:	2365
+		Time:	10.05.2025 08:28:26 until 11.05.2025 14:05:56
+		Duration:	1.05:37:30
+		Location:	42.71495 10.39519
+
+(13) - FINISH JUNIORES
+	LEBE2
+		Images:	1446
+		Time:	11.05.2025 13:48:03 until 11.05.2025 16:39:29
+		Duration:	02:51:26
+		Location:	42.71495 10.39519
+

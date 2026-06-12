@@ -1,0 +1,79 @@
+EventId: 15007
+Spots: 11
+Total Images: 28340
+Time:	23.08.2025 07:45:58 to 23.08.2025 18:00:14
+Duration: 10:14:16
+
+(1) - 6.0 km Pas de la confession
+	DIBO1
+		Images:	1487
+		Time:	23.08.2025 07:56:12 until 23.08.2025 10:03:12
+		Duration:	02:07:00
+		Location:	45.08379 6.03969
+
+(2) - 78.0 km Alpe d´Huez
+	DIBO2
+		Images:	2673
+		Time:	23.08.2025 10:03:55 until 23.08.2025 16:58:31
+		Duration:	06:54:36
+		Location:	45.08870 6.05625
+
+(3) - Finish
+	LTU1
+		Images:	3636
+		Time:	23.08.2025 10:10:16 until 23.08.2025 18:00:14
+		Duration:	07:49:58
+		Location:	45.09036 6.07108
+
+(4) - Start
+	LTU2
+		Images:	2255
+		Time:	23.08.2025 07:46:08 until 23.08.2025 09:51:41
+		Duration:	02:05:33
+		Location:	45.09036 6.07108
+
+(5) - 18.0 km Panoramique Le Bras 1816m
+	MARY1
+		Images:	1822
+		Time:	23.08.2025 08:18:38 until 23.08.2025 16:19:17
+		Duration:	08:00:39
+		Location:	45.08960 6.05208
+
+(6) - 7.0 km Route de la confession
+	AGU1
+		Images:	2768
+		Time:	23.08.2025 07:45:58 until 23.08.2025 09:50:32
+		Duration:	02:04:34
+		Location:	45.08559 6.03613
+
+	AGU1LS2
+		Images:	1179
+		Time:	23.08.2025 07:55:34 until 23.08.2025 10:55:56
+		Duration:	03:00:22
+		Location:	45.08559 6.03613
+
+	AGU1LS1
+		Images:	1176
+		Time:	23.08.2025 07:56:14 until 23.08.2025 09:56:25
+		Duration:	02:00:11
+		Location:	45.08559 6.03613
+
+(7) - 75.0 km Dutch corner
+	AGU2
+		Images:	3455
+		Time:	23.08.2025 11:04:25 until 23.08.2025 15:50:56
+		Duration:	04:46:31
+		Location:	45.07766 6.05371
+
+	AGU2LS2
+		Images:	3929
+		Time:	23.08.2025 10:56:34 until 23.08.2025 15:38:31
+		Duration:	04:41:57
+		Location:	45.07766 6.05371
+
+	AGU2LS1
+		Images:	3960
+		Time:	23.08.2025 10:53:24 until 23.08.2025 15:31:34
+		Duration:	04:38:10
+		Location:	45.07766 6.05371
+

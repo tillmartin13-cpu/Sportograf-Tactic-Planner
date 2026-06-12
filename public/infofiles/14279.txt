@@ -1,0 +1,153 @@
+EventId: 14279
+Spots: 24
+Total Images: 47388
+Time:	08.11.2025 05:37:24 to 08.11.2025 21:11:45
+Duration: 15:34:21
+
+(1) - Ludwig-Main-Donau Kanal
+	DASA1
+		Images:	5217
+		Time:	08.11.2025 06:10:38 until 08.11.2025 12:29:58
+		Duration:	06:19:20
+		Location:	49.36474 11.17418
+
+	DASA1LS1
+	EPR1
+		Images:	5689
+		Time:	08.11.2025 08:51:41 until 08.11.2025 12:33:42
+		Duration:	03:42:01
+		Location:	49.36447 11.16524
+
+(2) - Finish
+	DASA2
+		Images:	2803
+		Time:	08.11.2025 14:13:12 until 08.11.2025 20:18:18
+		Duration:	06:05:06
+		Location:	49.37870 11.03236
+
+	DASA2LS1
+		Images:	293
+		Time:	08.11.2025 14:20:38 until 08.11.2025 16:22:36
+		Duration:	02:01:58
+		Location:	49.37870 11.03236
+
+	MUT3
+		Images:	414
+		Time:	08.11.2025 18:21:00 until 08.11.2025 21:10:21
+		Duration:	02:49:21
+		Location:	49.37870 11.03236
+
+	NJO4LS1
+		Images:	512
+		Time:	08.11.2025 19:07:09 until 08.11.2025 20:38:33
+		Duration:	01:31:24
+		Location:	49.37870 11.03236
+
+(3) - Verpflegungsstation
+	DASA3
+		Images:	40
+		Time:	08.11.2025 12:33:48 until 08.11.2025 13:22:32
+		Duration:	00:48:44
+		Location:	49.37903 11.03195
+
+	EPR3
+		Images:	19
+		Time:	08.11.2025 13:07:17 until 08.11.2025 13:22:04
+		Duration:	00:14:47
+		Location:	49.37903 11.03195
+
+(4) - Herotent
+	EPR2
+		Images:	916
+		Time:	08.11.2025 14:15:15 until 08.11.2025 20:20:35
+		Duration:	06:05:20
+		Location:	49.37866 11.03208
+
+	NJO3
+		Images:	51
+		Time:	08.11.2025 18:26:13 until 08.11.2025 21:11:45
+		Duration:	02:45:32
+		Location:	49.37866 11.03208
+
+(5) - Start
+	MUT1
+		Images:	7169
+		Time:	08.11.2025 05:37:24 until 08.11.2025 08:48:32
+		Duration:	03:11:08
+		Location:	49.37870 11.03236
+
+(6) - Mississippi Queen
+	MUT2
+		Images:	5286
+		Time:	08.11.2025 12:31:25 until 08.11.2025 17:57:51
+		Duration:	05:26:26
+		Location:	49.41246 11.06198
+
+(7) - Dutzendteich
+	NJO1
+		Images:	2150
+		Time:	08.11.2025 06:46:59 until 08.11.2025 08:51:37
+		Duration:	02:04:38
+		Location:	49.43489 11.11745
+
+	NJO1LS1
+		Images:	2273
+		Time:	08.11.2025 07:03:19 until 08.11.2025 08:53:44
+		Duration:	01:50:25
+		Location:	49.43489 11.11745
+
+	NJO1LS2
+		Images:	469
+		Time:	08.11.2025 07:03:56 until 08.11.2025 08:52:50
+		Duration:	01:48:54
+		Location:	49.43489 11.11745
+
+	RSJ1
+		Images:	1767
+		Time:	08.11.2025 06:32:55 until 08.11.2025 08:44:25
+		Duration:	02:11:30
+		Location:	49.43075 11.11983
+
+	RSJ1LS1
+		Images:	1245
+		Time:	08.11.2025 06:28:27 until 08.11.2025 08:48:41
+		Duration:	02:20:14
+		Location:	49.43075 11.11983
+
+(8) - Schleuse am Kanal
+	NJO1DRONE1
+		Images:	6
+		Time:	08.11.2025 12:35:11 until 08.11.2025 13:53:26
+		Duration:	01:18:15
+		Location:	49.40741 11.0785
+
+	NJO2
+		Images:	2117
+		Time:	08.11.2025 13:33:44 until 08.11.2025 17:52:05
+		Duration:	04:18:21
+		Location:	49.40741 11.0785
+
+	NJO2LS1
+		Images:	1822
+		Time:	08.11.2025 13:12:58 until 08.11.2025 16:50:12
+		Duration:	03:37:14
+		Location:	49.40738 11.07854
+
+	NJO2LS2
+		Images:	1904
+		Time:	08.11.2025 12:35:24 until 08.11.2025 16:51:12
+		Duration:	04:15:48
+		Location:	49.40738 11.07854
+
+	RSJ2
+		Images:	2877
+		Time:	08.11.2025 13:26:52 until 08.11.2025 17:39:33
+		Duration:	04:12:41
+		Location:	49.40083 11.08123
+
+	RSJ2LS1
+		Images:	2349
+		Time:	08.11.2025 13:07:15 until 08.11.2025 17:31:09
+		Duration:	04:23:54
+		Location:	49.40083 11.08123
+

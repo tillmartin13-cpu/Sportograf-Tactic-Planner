@@ -1,0 +1,73 @@
+EventId: 14463
+Spots: 10
+Total Images: 53193
+Time:	15.05.2025 10:30:14 to 17.05.2025 15:36:41
+Duration: 2.05:06:27
+
+(1) - 21.0 km
+	CRBR1
+		Images:	5101
+		Time:	16.05.2025 08:17:13 until 17.05.2025 08:37:30
+		Duration:	1.00:20:17
+		Location:	-33.72876 150.30308
+
+(2) - Finish
+	CSM1
+		Images:	20596
+		Time:	16.05.2025 08:16:12 until 16.05.2025 17:00:07
+		Duration:	08:43:55
+		Location:	-33.72871 150.30047
+
+	CSM1LS1
+		Images:	1678
+		Time:	16.05.2025 07:32:28 until 16.05.2025 17:02:54
+		Duration:	09:30:26
+		Location:	-33.72871 150.30047
+
+	IAF2
+		Images:	2234
+		Time:	16.05.2025 11:29:02 until 16.05.2025 14:18:44
+		Duration:	02:49:42
+		Location:	-33.72871 150.30047
+
+(3) - 16.7 km
+	RCT1
+		Images:	6047
+		Time:	16.05.2025 07:50:47 until 16.05.2025 13:51:22
+		Duration:	06:00:35
+		Location:	-33.72529 150.32113
+
+(4) - 3.3 km
+	TPA1
+		Images:	2997
+		Time:	16.05.2025 07:54:17 until 17.05.2025 11:45:22
+		Duration:	1.03:51:05
+		Location:	-33.78305 150.37879
+
+(5) - 3.5 km
+	TPA3LS1
+		Images:	1584
+		Time:	16.05.2025 07:18:26 until 16.05.2025 10:25:15
+		Duration:	03:06:49
+		Location:	-33.78312 150.37808
+
+	TPA2LS1
+		Images:	796
+		Time:	16.05.2025 07:39:29 until 16.05.2025 10:25:13
+		Duration:	02:45:44
+		Location:	-33.78312 150.37808
+
+(6) - 20.7 km
+	WP1
+		Images:	9507
+		Time:	15.05.2025 10:30:14 until 17.05.2025 14:00:09
+		Duration:	2.03:29:55
+		Location:	-33.72926 150.30293
+
+(7) - Start
+	IAF1
+		Images:	2622
+		Time:	15.05.2025 20:48:22 until 16.05.2025 09:44:12
+		Duration:	12:55:50
+		Location:	-33.7593 150.37578
+

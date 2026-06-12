@@ -1,0 +1,46 @@
+EventId: 14781
+Spots: 6
+Total Images: 4558
+Time:	03.10.2025 17:12:17 to 05.10.2025 12:14:36
+Duration: 1.19:02:19
+
+(1) - Start
+	ANI1
+		Images:	505
+		Time:	03.10.2025 17:15:04 until 05.10.2025 10:19:01
+		Duration:	1.17:03:57
+		Location:	47.50409 12.19035
+
+(2) - km 1.7, 5.0, 8.3
+	COR1
+		Images:	1731
+		Time:	03.10.2025 17:43:04 until 05.10.2025 10:55:15
+		Duration:	1.17:12:11
+		Location:	47.50510 12.17621
+
+	COR1LS2
+		Images:	846
+		Time:	03.10.2025 17:12:20 until 03.10.2025 18:41:38
+		Duration:	01:29:18
+		Location:	47.50510 12.17621
+
+	COR1LS1
+		Images:	846
+		Time:	03.10.2025 17:12:17 until 03.10.2025 18:41:46
+		Duration:	01:29:29
+		Location:	47.50510 12.17621
+
+(3) - Finish
+	ANI2
+		Images:	560
+		Time:	03.10.2025 18:04:05 until 05.10.2025 12:14:36
+		Duration:	1.18:10:31
+		Location:	47.50409 12.19035
+
+(4) - Impressions / Pano
+	COR1DRONE1
+		Images:	66
+		Time:	03.10.2025 17:49:33 until 04.10.2025 11:33:48
+		Duration:	17:44:15
+		Location:	47.50510 12.17621
+

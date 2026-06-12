@@ -1,0 +1,410 @@
+EventId: 17157
+Spots: 65
+Total Images: 690115
+Time:	01.01.0001 23:00:00 to 15.06.2025 15:51:19
+Duration: 739415.16:51:19
+
+(1) - 1.0 km Kastrup
+	AVL1
+		Images:	2602
+		Time:	15.06.2025 10:15:58 until 15.06.2025 11:55:05
+		Duration:	01:39:07
+		Location:	55.63680 12.63942
+
+	AVL1LS1
+		Images:	2547
+		Time:	15.06.2025 10:08:43 until 15.06.2025 11:02:46
+		Duration:	00:54:03
+		Location:	55.63680 12.63942
+
+	AVL1LS2
+		Images:	1151
+		Time:	15.06.2025 10:13:19 until 15.06.2025 11:00:39
+		Duration:	00:47:20
+		Location:	55.63680 12.63942
+
+(2) - 10.7 km Peberholm Island
+	BAGP1
+		Images:	18189
+		Time:	15.06.2025 10:46:42 until 15.06.2025 13:49:03
+		Duration:	03:02:21
+		Location:	55.59313 12.76683
+
+	BDWE1
+		Images:	13518
+		Time:	15.06.2025 10:24:50 until 15.06.2025 13:34:49
+		Duration:	03:09:59
+		Location:	55.59309 12.76664
+
+	BDWE1LS1
+		Images:	3369
+		Time:	15.06.2025 10:44:00 until 15.06.2025 13:35:40
+		Duration:	02:51:40
+		Location:	55.59309 12.76664
+
+	BGEPA1
+		Images:	26217
+		Time:	15.06.2025 10:19:51 until 15.06.2025 13:53:26
+		Duration:	03:33:35
+		Location:	55.58937 12.77609
+
+	BJRE1
+		Images:	29950
+		Time:	15.06.2025 10:13:47 until 15.06.2025 13:54:06
+		Duration:	03:40:19
+		Location:	55.59214 12.76910
+
+(3) - 14.0 km Öresund Bridge
+	AANPE1
+		Images:	7927
+		Time:	15.06.2025 10:19:46 until 15.06.2025 14:17:36
+		Duration:	03:57:50
+		Location:	55.57565 12.82195
+
+	AGBR1
+		Images:	31615
+		Time:	15.06.2025 10:31:50 until 15.06.2025 14:19:26
+		Duration:	03:47:36
+		Location:	55.57565 12.82195
+
+	AMAGI1
+		Images:	13133
+		Time:	15.06.2025 10:59:26 until 15.06.2025 14:20:55
+		Duration:	03:21:29
+		Location:	55.57565 12.82195
+
+	ASLE1
+		Images:	12982
+		Time:	15.06.2025 10:27:55 until 15.06.2025 14:13:47
+		Duration:	03:45:52
+		Location:	55.57565 12.82195
+
+	ASLE1LS1
+		Images:	2774
+		Time:	14.06.2025 15:28:42 until 15.06.2025 14:11:48
+		Duration:	22:43:06
+		Location:	55.57565 12.82195
+
+(4) - 14.3 km Öresund Bridge
+	BCM1
+		Images:	9924
+		Time:	15.06.2025 10:33:49 until 15.06.2025 14:25:13
+		Duration:	03:51:24
+		Location:	55.57626 12.82224
+
+	BCM1LS1
+		Images:	4274
+		Time:	15.06.2025 11:00:30 until 15.06.2025 14:23:40
+		Duration:	03:23:10
+		Location:	55.57626 12.82224
+
+	BHV1
+		Images:	15114
+		Time:	15.06.2025 10:47:32 until 15.06.2025 14:23:35
+		Duration:	03:36:03
+		Location:	55.57511 12.82696
+
+	BHV1LS1
+		Images:	894
+		Time:	15.06.2025 10:25:16 until 15.06.2025 12:03:46
+		Duration:	01:38:30
+		Location:	55.57511 12.82696
+
+	BHV1LS2
+		Images:	4025
+		Time:	15.06.2025 10:34:51 until 15.06.2025 14:24:48
+		Duration:	03:49:57
+		Location:	55.57511 12.82696
+
+	BMGEN1
+		Images:	10692
+		Time:	15.06.2025 10:28:47 until 15.06.2025 14:23:56
+		Duration:	03:55:09
+		Location:	55.57673 12.82002
+
+(5) - 14.6 km Öresund Bridge
+	AMOIK1
+		Images:	39863
+		Time:	15.06.2025 10:28:51 until 15.06.2025 13:30:59
+		Duration:	03:02:08
+		Location:	55.57424 12.83173
+
+	ANU1
+		Images:	18693
+		Time:	15.06.2025 10:43:03 until 15.06.2025 14:30:04
+		Duration:	03:47:01
+		Location:	55.57424 12.83173
+
+	ANU1LS1
+		Images:	2832
+		Time:	15.06.2025 11:04:41 until 15.06.2025 14:14:33
+		Duration:	03:09:52
+		Location:	55.57424 12.83173
+
+	ANU1LS2
+		Images:	3867
+		Time:	15.06.2025 11:05:54 until 15.06.2025 14:24:01
+		Duration:	03:18:07
+		Location:	55.57424 12.83173
+
+	APHI1
+		Images:	17707
+		Time:	15.06.2025 10:37:43 until 15.06.2025 14:29:34
+		Duration:	03:51:51
+		Location:	55.57424 12.83173
+
+(6) - 14.8 km Öresund Bridge
+	BEQ1
+		Images:	31450
+		Time:	01.01.0001 23:00:00 until 15.06.2025 14:26:55
+		Duration:	739415.15:26:55
+		Location:	55.57355 12.83398
+
+	BEQ1LS1
+		Images:	2986
+		Time:	01.01.0001 23:00:00 until 15.06.2025 14:28:19
+		Duration:	739415.15:28:19
+		Location:	55.57355 12.83398
+
+	BLKU1
+		Images:	19240
+		Time:	15.06.2025 11:00:15 until 15.06.2025 14:28:57
+		Duration:	03:28:42
+		Location:	55.57355 12.83398
+
+	BSTL1
+		Images:	10999
+		Time:	14.06.2025 23:46:47 until 15.06.2025 14:28:53
+		Duration:	14:42:06
+		Location:	55.57355 12.83398
+
+	BSTL1LS1
+		Images:	4110
+		Time:	14.06.2025 23:45:24 until 15.06.2025 14:29:30
+		Duration:	14:44:06
+		Location:	55.57355 12.83398
+
+	BSTL1LS2
+		Images:	4102
+		Time:	14.06.2025 23:43:12 until 15.06.2025 14:31:06
+		Duration:	14:47:54
+		Location:	55.57355 12.83398
+
+(7) - 15.1 km Öresund Bridge
+	AALBR1
+		Images:	10867
+		Time:	15.06.2025 10:23:43 until 15.06.2025 14:31:31
+		Duration:	04:07:48
+		Location:	55.57246 12.83639
+
+	AJAK1
+		Images:	9035
+		Time:	15.06.2025 11:05:30 until 15.06.2025 14:35:23
+		Duration:	03:29:53
+		Location:	55.57246 12.83639
+
+	AOP1
+		Images:	9613
+		Time:	15.06.2025 10:52:29 until 15.06.2025 14:36:22
+		Duration:	03:43:53
+		Location:	55.57246 12.83639
+
+	AOP1LS1
+		Images:	4159
+		Time:	15.06.2025 10:32:33 until 15.06.2025 14:10:58
+		Duration:	03:38:25
+		Location:	55.57246 12.83639
+
+	APLA1
+		Images:	14618
+		Time:	15.06.2025 10:21:23 until 15.06.2025 14:34:50
+		Duration:	04:13:27
+		Location:	55.57246 12.83639
+
+(8) - 18.8 km Öresund Bridge
+	BHMU1
+		Images:	14244
+		Time:	15.06.2025 11:06:54 until 15.06.2025 14:48:31
+		Duration:	03:41:37
+		Location:	55.56594 12.88650
+
+	BHMU1LS1
+		Images:	4285
+		Time:	15.06.2025 10:27:34 until 15.06.2025 14:45:05
+		Duration:	04:17:31
+		Location:	55.56595 12.88611
+
+	BJMAR1
+		Images:	11184
+		Time:	15.06.2025 10:44:08 until 15.06.2025 14:48:51
+		Duration:	04:04:43
+		Location:	55.56574 12.88767
+
+	BMUM1
+		Images:	19290
+		Time:	15.06.2025 11:13:35 until 15.06.2025 14:47:42
+		Duration:	03:34:07
+		Location:	55.56594 12.88566
+
+	BSLOM1
+		Images:	18741
+		Time:	15.06.2025 10:42:03 until 15.06.2025 14:48:58
+		Duration:	04:06:55
+		Location:	55.56589 12.88724
+
+(9) - 2.0 km Kastrup
+	BAKS1
+		Images:	15194
+		Time:	15.06.2025 09:54:47 until 15.06.2025 11:49:38
+		Duration:	01:54:51
+		Location:	55.63393 12.65044
+
+	BAKS1LS1
+		Images:	1477
+		Time:	15.06.2025 09:25:59 until 15.06.2025 11:47:11
+		Duration:	02:21:12
+		Location:	55.63333 12.64605
+
+	BAKS1LS2
+		Images:	413
+		Time:	15.06.2025 09:31:58 until 15.06.2025 10:20:30
+		Duration:	00:48:32
+		Location:	55.63333 12.64605
+
+(10) - 7.0 km Tunnel
+	AARTA1
+		Images:	11346
+		Time:	15.06.2025 10:07:34 until 15.06.2025 13:28:35
+		Duration:	03:21:01
+		Location:	55.61025 12.72885
+
+	ABOC1
+		Images:	13442
+		Time:	15.06.2025 10:06:47 until 15.06.2025 13:21:58
+		Duration:	03:15:11
+		Location:	55.61025 12.72885
+
+	ADDT1
+		Images:	3637
+		Time:	15.06.2025 10:37:10 until 15.06.2025 13:21:37
+		Duration:	02:44:27
+		Location:	55.61025 12.72885
+
+	AJZE1
+		Images:	5475
+		Time:	15.06.2025 10:19:17 until 15.06.2025 13:08:32
+		Duration:	02:49:15
+		Location:	55.61025 12.72885
+
+	AJZE1LS1
+		Images:	3032
+		Time:	15.06.2025 10:32:46 until 15.06.2025 13:18:04
+		Duration:	02:45:18
+		Location:	55.61025 12.72885
+
+(11) - Finish
+	CCAGO1
+		Images:	11085
+		Time:	15.06.2025 09:26:59 until 15.06.2025 15:46:06
+		Duration:	06:19:07
+		Location:	55.57410 12.90578
+
+	CDHD1
+		Images:	5467
+		Time:	15.06.2025 10:11:40 until 15.06.2025 15:48:45
+		Duration:	05:37:05
+		Location:	55.57410 12.90578
+
+	CPSA1
+		Images:	8111
+		Time:	14.06.2025 21:51:11 until 15.06.2025 15:46:08
+		Duration:	17:54:57
+		Location:	55.57410 12.90578
+
+	CYS1
+		Images:	16321
+		Time:	15.06.2025 11:33:56 until 15.06.2025 15:51:19
+		Duration:	04:17:23
+		Location:	55.57410 12.90578
+
+	CYS1LS1
+		Images:	3095
+		Time:	15.06.2025 11:29:57 until 15.06.2025 15:50:48
+		Duration:	04:20:51
+		Location:	55.57410 12.90578
+
+	CYS1LS2
+		Images:	1167
+		Time:	15.06.2025 11:29:16 until 15.06.2025 13:19:36
+		Duration:	01:50:20
+		Location:	55.57410 12.90578
+
+(12) - Impressions / Pano
+	ZZZ1IMP1
+		Images:	22
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	55.59309 12.76664
+
+(13) - Medals
+	CABRI1
+		Images:	4236
+		Time:	15.06.2025 11:22:34 until 15.06.2025 15:34:25
+		Duration:	04:11:51
+		Location:	55.5745 12.90687
+
+	CDABT1
+		Images:	3576
+		Time:	15.06.2025 11:23:29 until 15.06.2025 15:35:51
+		Duration:	04:12:22
+		Location:	55.5745 12.90687
+
+	CJOHS1
+		Images:	9905
+		Time:	15.06.2025 11:21:31 until 15.06.2025 15:42:35
+		Duration:	04:21:04
+		Location:	55.5745 12.90687
+
+	CKZY1
+		Images:	7325
+		Time:	15.06.2025 11:21:31 until 15.06.2025 15:34:50
+		Duration:	04:13:19
+		Location:	55.5745 12.90687
+
+	CLSI1
+		Images:	6442
+		Time:	15.06.2025 11:21:58 until 15.06.2025 15:05:22
+		Duration:	03:43:24
+		Location:	55.5745 12.90687
+
+	CLZA1
+		Images:	10524
+		Time:	15.06.2025 11:08:39 until 15.06.2025 15:27:28
+		Duration:	04:18:49
+		Location:	55.5745 12.90687
+
+	CTASI1
+		Images:	24759
+		Time:	15.06.2025 11:23:01 until 15.06.2025 15:35:21
+		Duration:	04:12:20
+		Location:	55.5745 12.90687
+
+(14) - Start
+	AOLM1
+		Images:	33055
+		Time:	15.06.2025 09:25:01 until 15.06.2025 12:09:42
+		Duration:	02:44:41
+		Location:	55.63874 12.64122
+
+	APLU1
+		Images:	3860
+		Time:	15.06.2025 09:00:27 until 15.06.2025 12:09:50
+		Duration:	03:09:23
+		Location:	55.63874 12.64122
+
+	AZSZ1
+		Images:	4367
+		Time:	15.06.2025 09:34:32 until 15.06.2025 12:09:03
+		Duration:	02:34:31
+		Location:	55.63874 12.64122
+

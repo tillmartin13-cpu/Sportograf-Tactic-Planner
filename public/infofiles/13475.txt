@@ -1,0 +1,167 @@
+EventId: 13475
+Spots: 25
+Total Images: 36604
+Time:	26.10.2025 06:23:43 to 26.10.2025 16:21:56
+Duration: 09:58:13
+
+(1) - Swim - Start
+	MIFP1
+		Images:	673
+		Time:	26.10.2025 06:23:43 until 26.10.2025 07:21:07
+		Duration:	00:57:24
+		Location:	30.4174 -9.6076
+
+(2) - Swim - Exit
+	JLTG1
+		Images:	1963
+		Time:	26.10.2025 07:21:49 until 26.10.2025 09:16:51
+		Duration:	01:55:02
+		Location:	30.41798 -9.60778
+
+	JLTG1LS1
+		Images:	510
+		Time:	26.10.2025 07:11:00 until 26.10.2025 08:17:32
+		Duration:	01:06:32
+		Location:	30.41798 -9.60778
+
+(3) - Bike - Km 3
+	TAO1
+		Images:	2529
+		Time:	26.10.2025 06:29:31 until 26.10.2025 08:41:40
+		Duration:	02:12:09
+		Location:	30.39687 -9.59551
+
+(4) - Bike - Km 18
+	MANR1
+		Images:	2706
+		Time:	26.10.2025 07:42:17 until 26.10.2025 09:23:51
+		Duration:	01:41:34
+		Location:	30.42878 -9.61539
+
+	MANR1LS2
+		Images:	526
+		Time:	26.10.2025 07:17:50 until 26.10.2025 09:28:39
+		Duration:	02:10:49
+		Location:	30.42878 -9.61539
+
+	MANR1LS1
+		Images:	651
+		Time:	26.10.2025 07:25:16 until 26.10.2025 09:34:09
+		Duration:	02:08:53
+		Location:	30.42878 -9.61539
+
+(5) - Bike - Km 27
+	TGM1
+		Images:	4000
+		Time:	26.10.2025 07:49:22 until 26.10.2025 10:39:16
+		Duration:	02:49:54
+		Location:	30.43869 -9.58843
+
+	TGM1LS1
+		Images:	492
+		Time:	26.10.2025 07:53:33 until 26.10.2025 09:03:36
+		Duration:	01:10:03
+		Location:	30.43869 -9.58843
+
+	TGM1LS2
+		Images:	524
+		Time:	26.10.2025 07:40:33 until 26.10.2025 09:04:37
+		Duration:	01:24:04
+		Location:	30.43869 -9.58843
+
+(6) - Bike - Km 87
+	MANR2
+		Images:	2592
+		Time:	26.10.2025 09:24:45 until 26.10.2025 11:54:24
+		Duration:	02:29:39
+		Location:	30.42563 -9.61482
+
+	MANR2LS1
+		Images:	537
+		Time:	26.10.2025 09:30:54 until 26.10.2025 11:47:29
+		Duration:	02:16:35
+		Location:	30.42563 -9.61482
+
+	MANR2LS2
+		Images:	595
+		Time:	26.10.2025 09:34:59 until 26.10.2025 11:47:29
+		Duration:	02:12:30
+		Location:	30.42563 -9.61482
+
+(7) - Bike - Km 87,4
+	TGM2
+		Images:	959
+		Time:	26.10.2025 10:39:35 until 26.10.2025 12:19:27
+		Duration:	01:39:52
+		Location:	30.42530 -9.61394
+
+	TGM2LS2
+		Images:	421
+		Time:	26.10.2025 09:41:50 until 26.10.2025 11:43:51
+		Duration:	02:02:01
+		Location:	30.42530 -9.61394
+
+	TGM2LS1
+		Images:	420
+		Time:	26.10.2025 09:35:49 until 26.10.2025 11:37:03
+		Duration:	02:01:14
+		Location:	30.42530 -9.61394
+
+(8) - Run - Km 1, 6, 13, 20
+	MIFP2
+		Images:	5010
+		Time:	26.10.2025 07:21:08 until 26.10.2025 13:50:38
+		Duration:	06:29:30
+		Location:	30.41480 -9.60440
+
+(9) - Run Km 1; 6; 13; 20
+	MIFP2LS1
+		Images:	1623
+		Time:	26.10.2025 08:08:59 until 26.10.2025 13:58:53
+		Duration:	05:49:54
+		Location:	30.41480 -9.60440
+
+(10) - Finish
+	JLTG2
+		Images:	5322
+		Time:	26.10.2025 10:59:20 until 26.10.2025 16:21:56
+		Duration:	05:22:36
+		Location:	30.41764 -9.60461
+
+	TAO2
+		Images:	2887
+		Time:	26.10.2025 10:07:10 until 26.10.2025 15:14:48
+		Duration:	05:07:38
+		Location:	30.41764 -9.60461
+
+	JLTG2LS2
+		Images:	301
+		Time:	26.10.2025 09:51:18 until 26.10.2025 15:04:57
+		Duration:	05:13:39
+		Location:	30.41764 -9.60461
+
+	JLTG2LS1
+		Images:	566
+		Time:	26.10.2025 09:46:07 until 26.10.2025 15:06:46
+		Duration:	05:20:39
+		Location:	30.41764 -9.60461
+
+	MANR3
+		Images:	189
+		Time:	26.10.2025 12:24:04 until 26.10.2025 12:49:51
+		Duration:	00:25:47
+		Location:	30.41764 -9.60461
+
+	TGM3
+		Images:	606
+		Time:	26.10.2025 12:19:27 until 26.10.2025 12:49:50
+		Duration:	00:30:23
+		Location:	30.41764 -9.60461
+
+(11) - Swim - Impressions / Pano
+	PANO1
+		Images:	2
+		Time:	26.10.2025 09:16:14 until 26.10.2025 09:17:21
+		Duration:	00:01:07
+		Location:	30.41764 -9.60461
+

@@ -1,0 +1,112 @@
+EventId: 14350
+Spots: 16
+Total Images: 51879
+Time:	04.10.2025 07:47:30 to 05.10.2025 17:09:55
+Duration: 1.09:22:25
+
+(1) - Obstacle 2 Barbed Wire
+	DART1
+		Images:	6525
+		Time:	04.10.2025 07:56:44 until 05.10.2025 12:05:58
+		Duration:	1.04:09:14
+		Location:	43.41678 6.84389
+
+	DIBO2
+		Images:	5456
+		Time:	05.10.2025 12:16:49 until 05.10.2025 15:07:28
+		Duration:	02:50:39
+		Location:	43.41678 6.84389
+
+(2) - Obstacle 23 Bucket Carry
+	ALL1
+		Images:	5757
+		Time:	04.10.2025 15:20:13 until 05.10.2025 16:02:57
+		Duration:	1.00:42:44
+		Location:	43.42544 6.85630
+
+	ALL1LS1
+		Images:	943
+		Time:	04.10.2025 09:29:43 until 05.10.2025 16:02:45
+		Duration:	1.06:33:02
+		Location:	43.42544 6.85630
+
+(3) - Obstacle 25 Atlas
+	CC1
+		Images:	3934
+		Time:	05.10.2025 08:36:34 until 05.10.2025 16:04:33
+		Duration:	07:27:59
+		Location:	43.42014 6.85786
+
+	GAT1
+		Images:	3939
+		Time:	04.10.2025 07:53:42 until 05.10.2025 16:17:26
+		Duration:	1.08:23:44
+		Location:	43.42014 6.85786
+
+(4) - Obstacle 25 Atlas Run
+	GAT1LS2
+		Images:	2331
+		Time:	05.10.2025 08:13:14 until 05.10.2025 13:38:36
+		Duration:	05:25:22
+		Location:	43.42014 6.85786
+
+(5) - Obstacle 26 Dunk Wall
+	GAT1LS1
+		Images:	1484
+		Time:	05.10.2025 13:34:53 until 05.10.2025 16:13:23
+		Duration:	02:38:30
+		Location:	43.41976 6.85766
+
+(6) - Obstacle 27 Beater
+	LEBE1
+		Images:	2267
+		Time:	05.10.2025 08:09:08 until 05.10.2025 11:31:12
+		Duration:	03:22:04
+		Location:	43.41882 6.85664
+
+(7) - Obstacle 35 Multi Rig
+	LEBE2
+		Images:	3481
+		Time:	05.10.2025 12:17:07 until 05.10.2025 17:02:27
+		Duration:	04:45:20
+		Location:	43.42014 6.85786
+
+(8) - Finish
+	HUM1
+		Images:	4223
+		Time:	04.10.2025 08:22:08 until 05.10.2025 15:20:50
+		Duration:	1.06:58:42
+		Location:	43.41668 6.84580
+
+	FRN1LS1
+		Images:	2884
+		Time:	05.10.2025 08:15:37 until 05.10.2025 16:56:54
+		Duration:	08:41:17
+		Location:	43.41668 6.84580
+
+(9) - Herotent
+	DART2
+		Images:	7550
+		Time:	05.10.2025 11:56:57 until 05.10.2025 17:09:55
+		Duration:	05:12:58
+		Location:	43.42014 6.85786
+
+	DIBO1
+		Images:	606
+		Time:	04.10.2025 09:17:12 until 05.10.2025 10:22:57
+		Duration:	1.01:05:45
+		Location:	43.42014 6.85786
+
+	FRN1
+		Images:	434
+		Time:	04.10.2025 09:03:38 until 05.10.2025 17:06:45
+		Duration:	1.08:03:07
+		Location:	43.42014 6.85786
+
+(10) - Impressions / Pano
+	FRN1DRONE1
+		Images:	58
+		Time:	04.10.2025 09:32:23 until 05.10.2025 14:16:23
+		Duration:	1.04:44:00
+		Location:	43.42014 6.85786
+

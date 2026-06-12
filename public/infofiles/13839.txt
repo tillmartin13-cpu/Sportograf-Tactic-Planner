@@ -1,0 +1,93 @@
+EventId: 13839
+Spots: 14
+Total Images: 9614
+Time:	16.03.2025 06:23:47 to 16.03.2025 11:42:10
+Duration: 05:18:23
+
+(1) - Start
+	ABRE1
+		Images:	121
+		Time:	16.03.2025 06:35:13 until 16.03.2025 06:44:52
+		Duration:	00:09:39
+		Location:	-34.93736 -54.95016
+
+	ABRE1DRONE1
+		Images:	18
+		Time:	16.03.2025 07:04:00 until 16.03.2025 07:14:10
+		Duration:	00:10:10
+		Location:	-34.93736 -54.95016
+
+	MATS1DRONE1
+		Images:	39
+		Time:	16.03.2025 06:23:47 until 16.03.2025 09:45:46
+		Duration:	03:21:59
+		Location:	-34.93736 -54.95016
+
+(2) - 5.0 km
+	ABRE2
+		Images:	111
+		Time:	16.03.2025 07:10:08 until 16.03.2025 07:10:59
+		Duration:	00:00:51
+		Location:	-34.96611 -54.95438
+
+(3) - 6.0 km
+	MATS1
+		Images:	463
+		Time:	16.03.2025 06:43:56 until 16.03.2025 07:23:02
+		Duration:	00:39:06
+		Location:	-34.95755 -54.93777
+
+(4) - 20.0 km
+	CHES4
+		Images:	1350
+		Time:	16.03.2025 07:11:58 until 16.03.2025 08:18:42
+		Duration:	01:06:44
+		Location:	-34.89566 -55.03786
+
+(5) - 25.0 km
+	LURA1
+		Images:	1351
+		Time:	16.03.2025 07:11:58 until 16.03.2025 08:18:42
+		Duration:	01:06:44
+		Location:	-34.81650 -55.02744
+
+(6) - 60.0 km
+	ABRE3
+		Images:	661
+		Time:	16.03.2025 08:52:40 until 16.03.2025 11:20:52
+		Duration:	02:28:12
+		Location:	-34.85375 -55.29705
+
+(7) - 65.0 km
+	MATS2
+		Images:	2017
+		Time:	16.03.2025 08:38:46 until 16.03.2025 11:24:55
+		Duration:	02:46:09
+		Location:	-34.80425 -55.32622
+
+(8) - Finish
+	LURA2
+		Images:	1865
+		Time:	16.03.2025 08:44:43 until 16.03.2025 11:42:10
+		Duration:	02:57:27
+		Location:	-34.93736 -54.95016
+
+	CHES2
+		Images:	894
+		Time:	16.03.2025 08:44:11 until 16.03.2025 10:34:09
+		Duration:	01:49:58
+		Location:	-34.93736 -54.95016
+
+	CHES3
+		Images:	661
+		Time:	16.03.2025 08:52:40 until 16.03.2025 11:20:52
+		Duration:	02:28:12
+		Location:	-34.93736 -54.95016
+
+	ABRE4
+		Images:	63
+		Time:	16.03.2025 10:50:23 until 16.03.2025 11:20:52
+		Duration:	00:30:29
+		Location:	-34.93736 -54.95016
+
+	PANO1

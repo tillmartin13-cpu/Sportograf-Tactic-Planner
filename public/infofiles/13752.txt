@@ -1,0 +1,86 @@
+EventId: 13752
+Spots: 12
+Total Images: 10208
+Time:	21.06.2025 06:03:55 to 21.06.2025 20:13:53
+Duration: 14:09:58
+
+(1) - Start
+	LKE1
+		Images:	652
+		Time:	21.06.2025 06:48:01 until 21.06.2025 08:14:22
+		Duration:	01:26:21
+		Location:	47.28053 12.47888
+
+(2) - Finish
+	LKE2
+		Images:	1519
+		Time:	21.06.2025 13:36:08 until 21.06.2025 20:13:53
+		Duration:	06:37:45
+		Location:	47.28053 12.47888
+
+	UEC2LS1
+		Images:	731
+		Time:	21.06.2025 16:35:21 until 21.06.2025 20:08:14
+		Duration:	03:32:53
+		Location:	47.28053 12.47888
+
+	ULKE2
+		Images:	129
+		Time:	21.06.2025 14:59:45 until 21.06.2025 16:10:58
+		Duration:	01:11:13
+		Location:	47.28053 12.47888
+
+(3) - 3,2 km
+	MSCH1
+		Images:	1311
+		Time:	21.06.2025 07:36:42 until 21.06.2025 09:01:03
+		Duration:	01:24:21
+		Location:	47.27169 12.47028
+
+(4) - 41,5 km
+	MSCH2
+		Images:	693
+		Time:	21.06.2025 12:00:56 until 21.06.2025 19:08:23
+		Duration:	07:07:27
+		Location:	47.27505 12.55873
+
+(5) - 25,0 km
+	UEC1
+		Images:	1336
+		Time:	21.06.2025 07:21:40 until 21.06.2025 14:26:53
+		Duration:	07:05:13
+		Location:	47.29915 12.43317
+
+	UEC1LS2
+		Images:	557
+		Time:	21.06.2025 10:43:55 until 21.06.2025 14:12:36
+		Duration:	03:28:41
+		Location:	47.29915 12.43317
+
+	UEC1LS1
+		Images:	666
+		Time:	21.06.2025 10:27:11 until 21.06.2025 14:26:24
+		Duration:	03:59:13
+		Location:	47.29915 12.43317
+
+(6) - 20,0 km
+	EJ1
+		Images:	1557
+		Time:	21.06.2025 06:03:55 until 21.06.2025 13:46:08
+		Duration:	07:42:13
+		Location:	47.30663 12.41331
+
+(7) - 2,8 km
+	ULKE1
+		Images:	993
+		Time:	21.06.2025 07:31:23 until 21.06.2025 08:25:42
+		Duration:	00:54:19
+		Location:	47.27187 12.47342
+
+(8) - Impressions / Pano
+	PANO1
+		Images:	64
+		Time:	21.06.2025 07:13:38 until 21.06.2025 19:03:14
+		Duration:	11:49:36
+		Location:	NULL NULL
+

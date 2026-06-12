@@ -1,0 +1,186 @@
+EventId: 13530
+Spots: 29
+Total Images: 174938
+Time:	01.01.0001 23:00:00 to 15.07.2025 03:04:18
+Duration: 739445.04:04:18
+
+(1) - Obstacle 4 Schlammbecken
+	OT1
+		Images:	16005
+		Time:	01.01.0001 23:00:00 until 14.06.2025 13:53:28
+		Duration:	739414.14:53:28
+		Location:	51.50620 7.05818
+
+	OT1LS1
+		Images:	1399
+		Time:	13.06.2025 22:27:25 until 14.06.2025 13:54:49
+		Duration:	15:27:24
+		Location:	51.50620 7.05818
+
+	DPH1
+		Images:	6979
+		Time:	01.01.0001 23:00:00 until 14.06.2025 13:53:12
+		Duration:	739414.14:53:12
+		Location:	51.50620 7.05818
+
+(2) - Obstacle 5 Schaumparty
+	ALN1
+		Images:	20037
+		Time:	14.06.2025 09:43:40 until 14.06.2025 14:03:03
+		Duration:	04:19:23
+		Location:	51.50742 7.05487
+
+	ALN1DRONE1
+		Images:	24
+		Time:	14.06.2025 08:18:56 until 14.06.2025 10:29:36
+		Duration:	02:10:40
+		Location:	51.50742 7.05487
+
+	ALN1LS1
+		Images:	2948
+		Time:	14.06.2025 09:23:45 until 14.06.2025 13:58:41
+		Duration:	04:34:56
+		Location:	51.50742 7.05487
+
+	ALN1LS2
+		Images:	3865
+		Time:	14.06.2025 09:29:50 until 14.06.2025 13:49:39
+		Duration:	04:19:49
+		Location:	51.50742 7.05487
+
+(3) - Obstacle 8 Seiltanz
+	MBEN1
+		Images:	12157
+		Time:	14.06.2025 09:52:13 until 14.06.2025 14:17:54
+		Duration:	04:25:41
+		Location:	51.50687 7.05516
+
+(4) - Obstacle 9 Tauchbecken
+	FCO1
+		Images:	11575
+		Time:	14.06.2025 09:25:16 until 14.06.2025 14:27:49
+		Duration:	05:02:33
+		Location:	51.50608 7.05880
+
+	GAC1
+		Images:	6446
+		Time:	14.06.2025 09:43:09 until 14.06.2025 14:29:44
+		Duration:	04:46:35
+		Location:	51.50608 7.05880
+
+(5) - Obstacle 10 Pyramide
+	MW1
+		Images:	2905
+		Time:	14.06.2025 11:22:54 until 14.06.2025 13:01:58
+		Duration:	01:39:04
+		Location:	51.50743 7.05430
+
+(6) - Obstacle 11 Krabbelstrecke
+	LV1
+		Images:	11950
+		Time:	14.06.2025 10:02:51 until 14.06.2025 14:46:52
+		Duration:	04:44:01
+		Location:	51.50635 7.05523
+
+	LV1LS2
+		Images:	4005
+		Time:	13.06.2025 18:50:48 until 14.06.2025 14:47:04
+		Duration:	19:56:16
+		Location:	51.50635 7.05523
+
+	DEES1
+		Images:	6945
+		Time:	13.06.2025 18:31:11 until 14.06.2025 14:46:28
+		Duration:	20:15:17
+		Location:	51.50635 7.05523
+
+(7) - Obstacle 12 Gitterbecken
+	AAB1
+		Images:	4669
+		Time:	14.06.2025 10:03:34 until 14.06.2025 14:51:15
+		Duration:	04:47:41
+		Location:	51.50638 7.05404
+
+	AAB1LS1
+		Images:	4477
+		Time:	14.06.2025 09:25:18 until 14.06.2025 14:31:06
+		Duration:	05:05:48
+		Location:	51.50638 7.05404
+
+	JKE1
+		Images:	4872
+		Time:	13.06.2025 19:06:57 until 14.06.2025 14:49:42
+		Duration:	19:42:45
+		Location:	51.50638 7.05404
+
+	JKE1LS1
+		Images:	4664
+		Time:	14.06.2025 09:27:58 until 14.06.2025 14:48:44
+		Duration:	05:20:46
+		Location:	51.50638 7.05404
+
+(8) - Obstacle 15 Containerrutsche
+	MIV1
+		Images:	18832
+		Time:	14.06.2025 09:34:37 until 14.06.2025 15:03:26
+		Duration:	05:28:49
+		Location:	51.50596 7.05591
+
+	MIV1LS2
+		Images:	5631
+		Time:	14.06.2025 09:21:59 until 14.06.2025 15:03:34
+		Duration:	05:41:35
+		Location:	51.50596 7.05591
+
+	MIV1LS1
+		Images:	6414
+		Time:	14.06.2025 09:25:25 until 14.06.2025 15:03:33
+		Duration:	05:38:08
+		Location:	51.50596 7.05591
+
+(9) - Finish
+	NBA1
+		Images:	3629
+		Time:	14.06.2025 08:56:45 until 14.06.2025 15:04:08
+		Duration:	06:07:23
+		Location:	51.50596 7.05591
+
+	MW1LS1
+		Images:	2442
+		Time:	14.06.2025 09:59:06 until 14.06.2025 13:02:19
+		Duration:	03:03:13
+		Location:	51.50596 7.05591
+
+	KFK1LS1
+		Images:	909
+		Time:	14.06.2025 09:23:17 until 14.06.2025 15:08:47
+		Duration:	05:45:30
+		Location:	51.50596 7.05591
+
+	RA1LS2
+		Images:	984
+		Time:	14.07.2025 20:44:46 until 15.07.2025 03:04:18
+		Duration:	06:19:32
+		Location:	51.50596 7.05591
+
+	RA1LS1
+		Images:	2449
+		Time:	14.06.2025 08:31:24 until 14.06.2025 15:03:53
+		Duration:	06:32:29
+		Location:	51.50596 7.05591
+
+(10) - Herotent
+	KFK1
+		Images:	1033
+		Time:	14.06.2025 10:19:16 until 14.06.2025 15:06:01
+		Duration:	04:46:45
+		Location:	51.50596 7.05591
+
+	RA1
+		Images:	6693
+		Time:	14.06.2025 10:10:01 until 14.06.2025 15:01:39
+		Duration:	04:51:38
+		Location:	51.50596 7.05591
+
+(11) - Impressions / Pano
+	PANO1

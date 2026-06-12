@@ -1,0 +1,351 @@
+EventId: 13464
+Spots: 56
+Total Images: 698643
+Time:	18.10.2025 22:35:34 to 19.10.2025 17:52:58
+Duration: 19:17:24
+
+(1) - Boerentoren city center  4,5km + 27,2km  - FULL Marathon (2 laps) &  - km 5,4 - HALF Marathon, (1lap)
+	BFVE1
+		Images:	8479
+		Time:	19.10.2025 08:49:37 until 19.10.2025 15:29:32
+		Duration:	06:39:55
+		Location:	51.2183 4.40572
+
+	BJDSA1
+		Images:	16980
+		Time:	19.10.2025 08:47:49 until 19.10.2025 15:30:18
+		Duration:	06:42:29
+		Location:	51.2183 4.40572
+
+(2) - Brouwersvliet 300 meter before finish
+	ADEES2
+		Images:	3875
+		Time:	19.10.2025 16:29:33 until 19.10.2025 17:25:04
+		Duration:	00:55:31
+		Location:	51.23826 4.40885
+
+	AJOS2
+		Images:	6013
+		Time:	19.10.2025 15:46:46 until 19.10.2025 17:25:56
+		Duration:	01:39:10
+		Location:	51.23826 4.40885
+
+	ALV2
+		Images:	9984
+		Time:	19.10.2025 15:39:11 until 19.10.2025 17:52:58
+		Duration:	02:13:47
+		Location:	51.23826 4.40885
+
+	ALV2LS1
+		Images:	3043
+		Time:	19.10.2025 14:56:54 until 19.10.2025 17:26:01
+		Duration:	02:29:07
+		Location:	51.23826 4.40885
+
+	APETE2
+		Images:	1035
+		Time:	19.10.2025 16:57:32 until 19.10.2025 17:20:15
+		Duration:	00:22:43
+		Location:	51.23826 4.40885
+
+(3) - Brouwersvliet km4 + km20,8 HALF Marathon (
+	ATB3
+		Images:	10435
+		Time:	19.10.2025 14:13:52 until 19.10.2025 17:22:05
+		Duration:	03:08:13
+		Location:	51.22981 4.402
+
+	ATB3LS1
+		Images:	28435
+		Time:	19.10.2025 14:07:17 until 19.10.2025 17:22:06
+		Duration:	03:14:49
+		Location:	51.22981 4.402
+
+(4) - Cheerzone Dageraadplaats 8km + 30,5km - FULL Marathon (2laps)  & km8,8HALF Marathon (1Lap)
+	BKFK1
+		Images:	17726
+		Time:	19.10.2025 09:16:37 until 19.10.2025 15:59:40
+		Duration:	06:43:03
+		Location:	51.20713 4.43008
+
+	BNBA1
+		Images:	24853
+		Time:	19.10.2025 08:46:02 until 19.10.2025 15:59:38
+		Duration:	07:13:36
+		Location:	51.20713 4.43008
+
+(5) - De Keyserlei 5,4km + 28km  - FULL Marathon (2 laps) &  - km 6,3 - HALF Marathon, (1lap)
+	BFAH1
+		Images:	12552
+		Time:	18.10.2025 23:07:37 until 19.10.2025 15:36:38
+		Duration:	16:29:01
+		Location:	51.2176 4.41788
+
+(6) - Finish
+	AMK2
+		Images:	8474
+		Time:	19.10.2025 15:38:46 until 19.10.2025 17:52:57
+		Duration:	02:14:11
+		Location:	51.22869 4.40553
+
+	APBO1
+		Images:	18424
+		Time:	19.10.2025 09:14:59 until 19.10.2025 17:40:27
+		Duration:	08:25:28
+		Location:	51.22869 4.40553
+
+	APBO1LS1
+		Images:	5950
+		Time:	19.10.2025 09:08:54 until 19.10.2025 17:32:44
+		Duration:	08:23:50
+		Location:	51.22869 4.40553
+
+	ATID1
+		Images:	18890
+		Time:	19.10.2025 09:22:18 until 19.10.2025 17:46:00
+		Duration:	08:23:42
+		Location:	51.22869 4.40553
+
+	ATID1LS1
+		Images:	14525
+		Time:	19.10.2025 09:28:11 until 19.10.2025 17:36:32
+		Duration:	08:08:21
+		Location:	51.22869 4.40553
+
+(7) - Impressions / Pano
+	AMK1DRONE2
+		Images:	10
+		Time:	19.10.2025 09:04:55 until 19.10.2025 09:08:38
+		Duration:	00:03:43
+		Location:	51.23655 4.40906
+
+	PANO1
+(8) - km 1,5 HALF Marathon
+	AMK2LS1
+		Images:	2853
+		Time:	19.10.2025 14:07:08 until 19.10.2025 14:55:19
+		Duration:	00:48:11
+		Location:	51.23682 4.40919
+
+	AMK2LS2
+		Images:	2413
+		Time:	19.10.2025 14:04:36 until 19.10.2025 14:44:55
+		Duration:	00:40:19
+		Location:	51.23682 4.40919
+
+(9) - Lamorinierestraat - km9,3 + km 31,8- FULL Marathon (2laps) & km10,1- HALF Marathon (1lap)
+	BWIP1
+		Images:	6882
+		Time:	18.10.2025 22:38:51 until 19.10.2025 16:10:06
+		Duration:	17:31:15
+		Location:	51.20767 4.42383
+
+	BWIP1LS1
+		Images:	2651
+		Time:	18.10.2025 22:35:34 until 19.10.2025 16:06:05
+		Duration:	17:30:31
+		Location:	51.20767 4.42383
+
+(10) - Mexicobrug km 1,5 + km23,4 FULL Marathon + km 7,3 10K run + km1,5 HALF Marathon
+	AJOS1
+		Images:	21109
+		Time:	19.10.2025 08:34:13 until 19.10.2025 14:59:54
+		Duration:	06:25:41
+		Location:	51.23655 4.40906
+
+	AMK1
+		Images:	16364
+		Time:	19.10.2025 09:09:32 until 19.10.2025 14:59:12
+		Duration:	05:49:40
+		Location:	51.23655 4.40906
+
+	AMK1LS1
+		Images:	3784
+		Time:	19.10.2025 09:06:00 until 19.10.2025 12:15:06
+		Duration:	03:09:06
+		Location:	51.23655 4.40906
+
+	AMK1LS2
+		Images:	3914
+		Time:	19.10.2025 09:05:25 until 19.10.2025 12:14:38
+		Duration:	03:09:13
+		Location:	51.23655 4.40906
+
+	APETE1
+		Images:	13280
+		Time:	19.10.2025 08:49:40 until 19.10.2025 16:57:32
+		Duration:	08:07:52
+		Location:	51.23655 4.40906
+
+(11) - Oostenstraat - km8,7 + km 31,2- FULL Marathon (2laps) & km9,5- HALF Marathon (1lap)
+	BSSW1
+		Images:	18773
+		Time:	19.10.2025 08:50:43 until 19.10.2025 16:04:26
+		Duration:	07:13:43
+		Location:	51.21466 4.42063
+
+	BSSW1LS1
+		Images:	10183
+		Time:	19.10.2025 08:36:32 until 19.10.2025 16:00:31
+		Duration:	07:23:59
+		Location:	51.21466 4.42063
+
+	BST1
+		Images:	21202
+		Time:	19.10.2025 09:30:26 until 19.10.2025 16:07:55
+		Duration:	06:37:29
+		Location:	51.21466 4.42063
+
+	BST1LS1
+		Images:	10468
+		Time:	19.10.2025 09:33:09 until 19.10.2025 15:55:34
+		Duration:	06:22:25
+		Location:	51.21466 4.42063
+
+(12) - Pelikaanstraat  6,7km + 28,2km - FULL Marathon (2laps)  & km 6,5 HALF Marathon (1Lap)
+	BMBEN1
+		Images:	20494
+		Time:	19.10.2025 09:02:02 until 19.10.2025 15:39:18
+		Duration:	06:37:16
+		Location:	51.21466 4.42063
+
+	BMBEN1LS1
+		Images:	7878
+		Time:	19.10.2025 08:44:18 until 19.10.2025 15:36:52
+		Duration:	06:52:34
+		Location:	51.21466 4.42063
+
+	BMW1
+		Images:	24685
+		Time:	19.10.2025 07:17:39 until 19.10.2025 15:08:46
+		Duration:	07:51:07
+		Location:	51.21466 4.42063
+
+	BMW1LS1
+		Images:	9765
+		Time:	19.10.2025 07:11:48 until 19.10.2025 15:08:59
+		Duration:	07:57:11
+		Location:	51.21466 4.42063
+
+(13) - Port authority Building Mexicostraat km 1,1 + km22,9 FULL Marathon + km6,9 10K run + km1,1 HALF Marathon
+	ADEES1
+		Images:	10262
+		Time:	19.10.2025 09:04:30 until 19.10.2025 14:54:42
+		Duration:	05:50:12
+		Location:	51.2403 4.40848
+
+	ALV1
+		Images:	34264
+		Time:	19.10.2025 08:39:04 until 19.10.2025 14:54:32
+		Duration:	06:15:28
+		Location:	51.2403 4.40848
+
+	ALV1LS1
+		Images:	4354
+		Time:	19.10.2025 08:36:57 until 19.10.2025 11:49:07
+		Duration:	03:12:10
+		Location:	51.2403 4.40848
+
+	ALV1LS2
+		Images:	1589
+		Time:	19.10.2025 14:01:54 until 19.10.2025 14:54:50
+		Duration:	00:52:56
+		Location:	51.2403 4.40848
+
+(14) - Start marathon
+	ATB1
+		Images:	6937
+		Time:	19.10.2025 08:22:06 until 19.10.2025 11:31:12
+		Duration:	03:09:06
+		Location:	51.2348 4.40332
+
+(15) - Taviernkaai  km 8,8 of 10K
+	ATB1LS1
+	ATB2
+		Images:	4021
+		Time:	19.10.2025 09:27:26 until 19.10.2025 11:31:12
+		Duration:	02:03:46
+		Location:	51.22975 4.40212
+
+	ATB2LS1
+		Images:	2254
+		Time:	19.10.2025 09:48:36 until 19.10.2025 10:12:49
+		Duration:	00:24:13
+		Location:	51.22975 4.40212
+
+(16) - Teniersplaats city center 5,2km + 27,8km  - FULL Marathon (2 laps) &  - km 6,1 - HALF Marathon, (1lap)
+	BAMAR1
+		Images:	26628
+		Time:	19.10.2025 09:12:00 until 19.10.2025 15:34:52
+		Duration:	06:22:52
+		Location:	51.218 4.41517
+
+	BOT1
+		Images:	42901
+		Time:	19.10.2025 09:02:22 until 19.10.2025 15:34:51
+		Duration:	06:32:29
+		Location:	51.218 4.41517
+
+	BOT1LS1
+		Images:	14518
+		Time:	19.10.2025 09:07:22 until 19.10.2025 15:35:21
+		Duration:	06:27:59
+		Location:	51.218 4.41517
+
+(17) - Vlaamsekaai -  km 14,6+ km 40 - FULL Marathon (2laps) & km10,1- HALF Marathon (1lap)
+	AGVDL1
+		Images:	7560
+		Time:	19.10.2025 09:19:30 until 19.10.2025 17:25:13
+		Duration:	08:05:43
+		Location:	51.20833 4.38899
+
+	ASPSL1
+		Images:	15922
+		Time:	19.10.2025 09:24:06 until 19.10.2025 17:25:09
+		Duration:	08:01:03
+		Location:	51.20833 4.38899
+
+(18) - Vlinderpaleis km14,3+ km 39,4-FULL Marathon (2laps) & km 17,6-HALF Marathon (1lap)
+	ARA1
+		Images:	35981
+		Time:	19.10.2025 07:28:37 until 19.10.2025 17:13:45
+		Duration:	09:45:08
+		Location:	51.20484 4.38756
+
+	ARA1LS1
+		Images:	10920
+		Time:	19.10.2025 09:13:49 until 19.10.2025 17:13:44
+		Duration:	07:59:55
+		Location:	51.20484 4.38756
+
+	ARA1LS2
+		Images:	10839
+		Time:	19.10.2025 09:12:26 until 19.10.2025 17:13:55
+		Duration:	08:01:29
+		Location:	51.20484 4.38756
+
+(19) - Vlinderpaleis km14,4 + km 39,5-FULL Marathon (2laps) & km 17,7-HALF Marathon (1lap)
+	ADPH1
+		Images:	24516
+		Time:	19.10.2025 09:48:27 until 19.10.2025 17:12:54
+		Duration:	07:24:27
+		Location:	51.20542 4.38768
+
+	AKSA1
+		Images:	19078
+		Time:	19.10.2025 09:48:32 until 19.10.2025 17:06:04
+		Duration:	07:17:32
+		Location:	51.20542 4.38768
+
+	AKSA1LS1
+		Images:	10934
+		Time:	19.10.2025 09:15:56 until 19.10.2025 17:06:50
+		Duration:	07:50:54
+		Location:	51.20542 4.38768
+
+	AKSA1LS2
+		Images:	8784
+		Time:	19.10.2025 09:17:04 until 19.10.2025 16:54:41
+		Duration:	07:37:37
+		Location:	51.20542 4.38768
+

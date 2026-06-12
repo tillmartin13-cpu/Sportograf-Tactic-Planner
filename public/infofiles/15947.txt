@@ -1,0 +1,341 @@
+EventId: 15947
+Spots: 49
+Total Images: 663292
+Time:	01.01.0001 23:00:00 to 27.04.2025 12:49:01
+Duration: 739366.13:49:01
+
+(1) - 0.0 km
+	CDBAL1
+		Images:	1086
+		Time:	27.04.2025 08:13:56 until 27.04.2025 12:44:35
+		Duration:	04:30:39
+		Location:	NULL NULL
+
+	CSCOV1
+		Images:	841
+		Time:	27.04.2025 09:07:42 until 27.04.2025 12:46:04
+		Duration:	03:38:22
+		Location:	NULL NULL
+
+(2) - 0.0 km Fin Trigger Right Christian
+	PSGE1
+		Images:	15899
+		Time:	27.04.2025 07:54:53 until 27.04.2025 12:31:44
+		Duration:	04:36:51
+		Location:	NULL NULL
+
+(3) - 0.0 km Fin Trrigger Left
+	PSGE2
+		Images:	14466
+		Time:	27.04.2025 08:15:00 until 27.04.2025 12:17:53
+		Duration:	04:02:53
+		Location:	NULL NULL
+
+(4) - 0.0 km Finish Jim Dee
+	CJDEE1
+		Images:	41460
+		Time:	27.04.2025 06:27:22 until 27.04.2025 11:51:17
+		Duration:	05:23:55
+		Location:	NULL NULL
+
+(5) - 0.0 km Medals Frederic
+	CFSAL1
+		Images:	2222
+		Time:	27.04.2025 08:18:43 until 27.04.2025 11:39:44
+		Duration:	03:21:01
+		Location:	NULL NULL
+
+(6) - 0.0 km Medals Jabbar
+	CJWAL1
+		Images:	4284
+		Time:	27.04.2025 08:15:04 until 27.04.2025 12:13:49
+		Duration:	03:58:45
+		Location:	NULL NULL
+
+(7) - 0.0 km Medals Jan
+	CJNOO1
+		Images:	3073
+		Time:	27.04.2025 08:11:59 until 27.04.2025 11:54:41
+		Duration:	03:42:42
+		Location:	NULL NULL
+
+(8) - 0.0 km medals simon
+	CSBOH1
+		Images:	9647
+		Time:	27.04.2025 07:28:13 until 27.04.2025 12:42:18
+		Duration:	05:14:05
+		Location:	NULL NULL
+
+(9) - 0.0 km Medals stefan chele
+	CSCHE1
+		Images:	9684
+		Time:	01.01.0001 23:00:00 until 27.04.2025 11:58:39
+		Duration:	739366.12:58:39
+		Location:	NULL NULL
+
+(10) - 0.0 km Medals THomas Box
+	CTBLO1
+		Images:	7179
+		Time:	27.04.2025 08:18:35 until 27.04.2025 12:49:01
+		Duration:	04:30:26
+		Location:	NULL NULL
+
+(11) - 0.0 km MSC 1 CHris
+	CCFRE2
+		Images:	7364
+		Time:	27.04.2025 06:56:36 until 27.04.2025 09:26:13
+		Duration:	02:29:37
+		Location:	NULL NULL
+
+(12) - 0.0 km MSC 1 Trigger
+	CPSAN2LS1
+		Images:	8616
+		Time:	27.04.2025 06:53:16 until 27.04.2025 09:27:17
+		Duration:	02:34:01
+		Location:	NULL NULL
+
+(13) - 0.0 km MSC 4 Cody
+	CCCUR1
+		Images:	26665
+		Time:	27.04.2025 07:42:24 until 27.04.2025 11:32:51
+		Duration:	03:50:27
+		Location:	NULL NULL
+
+(14) - 0.0 km MSC 4 Trigger
+	CCCUR1LS1
+		Images:	11994
+		Time:	27.04.2025 07:44:06 until 27.04.2025 11:11:49
+		Duration:	03:27:43
+		Location:	NULL NULL
+
+(15) - 0.0 km MSC 4 Vera
+	CVNIE1
+		Images:	4058
+		Time:	27.04.2025 10:00:41 until 27.04.2025 10:59:55
+		Duration:	00:59:14
+		Location:	NULL NULL
+
+	CVNIE2
+		Images:	16662
+		Time:	27.04.2025 03:29:38 until 27.04.2025 05:59:59
+		Duration:	02:30:21
+		Location:	NULL NULL
+
+(16) - 0.0 km MSC 6 Chris
+	CCFRE1
+		Images:	4424
+		Time:	27.04.2025 10:46:17 until 27.04.2025 12:30:33
+		Duration:	01:44:16
+		Location:	NULL NULL
+
+(17) - 0.0 km MSC 7 Alex
+	CAROS1
+		Images:	14803
+		Time:	27.04.2025 07:33:54 until 27.04.2025 12:28:21
+		Duration:	04:54:27
+		Location:	NULL NULL
+
+(18) - 0.0 km MSC 7 Irene
+	CICAL1
+		Images:	22147
+		Time:	27.04.2025 07:53:57 until 27.04.2025 12:41:05
+		Duration:	04:47:08
+		Location:	NULL NULL
+
+(19) - 0.0 km MSC 7 Ivana
+	CIVAC1
+		Images:	20666
+		Time:	27.04.2025 08:06:36 until 27.04.2025 12:15:22
+		Duration:	04:08:46
+		Location:	NULL NULL
+
+(20) - 0.0 km MSC 7 Trigger
+	CIVAC1LS1
+		Images:	15199
+		Time:	01.01.0001 23:00:00 until 27.04.2025 12:19:42
+		Duration:	739366.13:19:42
+		Location:	NULL NULL
+
+(21) - 0.0 km MSC1 Pol
+	CPSAN2
+		Images:	28946
+		Time:	27.03.2025 05:40:31 until 27.03.2025 12:21:21
+		Duration:	06:40:50
+		Location:	NULL NULL
+
+(22) - 0.0 km MSC2 A. Cui
+	ACUI1
+		Images:	10298
+		Time:	27.04.2025 07:18:17 until 27.04.2025 10:10:21
+		Duration:	02:52:04
+		Location:	NULL NULL
+
+(23) - 0.0 km MSC2 T. Wherry
+	TWHER1
+		Images:	16810
+		Time:	27.04.2025 06:29:16 until 27.04.2025 09:11:39
+		Duration:	02:42:23
+		Location:	NULL NULL
+
+(24) - 0.0 km MSC2 Trigger 1
+	TRIGA1
+		Images:	9937
+		Time:	27.04.2025 07:20:05 until 27.04.2025 10:13:55
+		Duration:	02:53:50
+		Location:	NULL NULL
+
+(25) - 0.0 km MSC2 Trigger 2
+	TRIGB1
+		Images:	9712
+		Time:	27.04.2025 07:21:29 until 27.04.2025 10:08:33
+		Duration:	02:47:04
+		Location:	NULL NULL
+
+(26) - 0.0 km MSC3 Czech
+	RCZE1
+		Images:	20354
+		Time:	27.04.2025 07:21:06 until 27.04.2025 10:14:07
+		Duration:	02:53:01
+		Location:	NULL NULL
+
+(27) - 0.0 km MSC3 H Castelano
+	HCAST1
+		Images:	11958
+		Time:	27.04.2025 07:14:41 until 27.04.2025 09:48:48
+		Duration:	02:34:07
+		Location:	NULL NULL
+
+(28) - 0.0 km MSC3 T Gate
+	TGATE1
+		Images:	7556
+		Time:	27.04.2025 07:17:01 until 27.04.2025 10:18:45
+		Duration:	03:01:44
+		Location:	NULL NULL
+
+(29) - 0.0 km MSC3 Trigger 4
+	TRIGD1
+		Images:	7999
+		Time:	27.04.2025 06:43:26 until 27.04.2025 10:15:33
+		Duration:	03:32:07
+		Location:	NULL NULL
+
+(30) - 0.0 km MSC3 Trigger3
+	TRICC1
+		Images:	8740
+		Time:	21.06.2011 05:10:18 until 21.06.2011 08:12:33
+		Duration:	03:02:15
+		Location:	NULL NULL
+
+(31) - 0.0 km MSC5 A. Sharham
+	ASHAR1
+		Images:	40574
+		Time:	27.04.2025 07:32:30 until 27.04.2025 11:37:20
+		Duration:	04:04:50
+		Location:	NULL NULL
+
+(32) - 0.0 km MSC5 B Berlin
+	BBERL1
+		Images:	13210
+		Time:	27.04.2025 07:32:25 until 27.04.2025 11:35:35
+		Duration:	04:03:10
+		Location:	NULL NULL
+
+(33) - 0.0 km MSC5 J. Rich
+	JRICH1
+		Images:	20233
+		Time:	27.04.2025 07:37:29 until 27.04.2025 11:34:13
+		Duration:	03:56:44
+		Location:	NULL NULL
+
+(34) - 0.0 km MSC5 M Campino
+	MCAMP1
+		Images:	16688
+		Time:	27.04.2025 08:07:15 until 27.04.2025 11:35:13
+		Duration:	03:27:58
+		Location:	NULL NULL
+
+(35) - 0.0 km MSC5 Trigger 5
+	TRIGE1
+		Images:	12598
+		Time:	27.04.2025 07:41:55 until 27.04.2025 11:30:42
+		Duration:	03:48:47
+		Location:	NULL NULL
+
+(36) - 0.0 km MSC5 Trigger 6
+	TRIGF1
+		Images:	8843
+		Time:	21.04.2025 14:50:58 until 21.04.2025 17:19:09
+		Duration:	02:28:11
+		Location:	NULL NULL
+
+(37) - 0.0 km MSC6 Pol
+	CPSAN1
+		Images:	11555
+		Time:	27.03.2025 09:54:18 until 27.03.2025 11:40:24
+		Duration:	01:46:06
+		Location:	NULL NULL
+
+(38) - 0.0 km OFP Ian Duncan
+	CIDBE1
+		Images:	1268
+		Time:	27.04.2025 08:13:17 until 27.04.2025 12:09:06
+		Duration:	03:55:49
+		Location:	NULL NULL
+
+(39) - 0.0 km Pre Fin Darren
+	PDKEP1
+		Images:	41235
+		Time:	27.04.2025 07:55:23 until 27.04.2025 12:42:44
+		Duration:	04:47:21
+		Location:	NULL NULL
+
+(40) - 0.0 km Pre FIn Trent
+	PTWEL1
+		Images:	20827
+		Time:	27.04.2025 07:21:46 until 27.04.2025 12:42:39
+		Duration:	05:20:53
+		Location:	NULL NULL
+
+(41) - 0.0 km Pre FIn Trigger Ground
+	PSGE3
+		Images:	12952
+		Time:	27.04.2025 05:17:29 until 27.04.2025 08:56:44
+		Duration:	03:39:15
+		Location:	NULL NULL
+
+(42) - 0.0 km Pre Fin Trigger Right
+	PTWEL1LS1
+		Images:	9847
+		Time:	27.04.2025 06:28:08 until 27.04.2025 10:59:19
+		Duration:	04:31:11
+		Location:	NULL NULL
+
+(43) - 0.0 km Pre Fin Trigger Up Left
+	PDKEP1LS1
+		Images:	4800
+		Time:	27.04.2025 06:38:30 until 27.04.2025 09:22:01
+		Duration:	02:43:31
+		Location:	NULL NULL
+
+(44) - 0.0 km Pre Fin WIlliam
+	CWDEE1
+		Images:	25419
+		Time:	27.04.2025 07:55:16 until 27.04.2025 12:48:40
+		Duration:	04:53:24
+		Location:	NULL NULL
+
+(45) - Impressions / Pano
+	PANO1
+(46) - none
+	CSRIC1
+		Images:	1089
+		Time:	27.04.2025 08:29:38 until 27.04.2025 12:02:56
+		Duration:	03:33:18
+		Location:	NULL NULL
+
+	PECFI1
+		Images:	27405
+		Time:	27.04.2025 07:55:24 until 27.04.2025 12:42:46
+		Duration:	04:47:22
+		Location:	NULL NULL
+

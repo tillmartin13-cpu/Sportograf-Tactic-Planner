@@ -1,0 +1,162 @@
+EventId: 16299
+Spots: 24
+Total Images: 37341
+Time:	19.04.2025 06:00:10 to 19.04.2025 20:06:34
+Duration: 14:06:24
+
+(1) - Obstacle 21 Multi Rig
+	ADSM1
+		Images:	2548
+		Time:	19.04.2025 06:07:43 until 19.04.2025 13:10:38
+		Duration:	07:02:55
+		Location:	24.82682 55.23167
+
+	MOSF2
+		Images:	254
+		Time:	19.04.2025 18:09:04 until 19.04.2025 19:33:00
+		Duration:	01:23:56
+		Location:	24.82682 55.23167
+
+(2) - Obstacle 12 Monkey bar
+	ADSM2
+		Images:	372
+		Time:	19.04.2025 17:16:22 until 19.04.2025 19:22:42
+		Duration:	02:06:20
+		Location:	24.82769 55.23186
+
+(3) - Obstacle 25 Fire Jump
+	GOR1
+		Images:	3847
+		Time:	19.04.2025 06:26:56 until 19.04.2025 13:56:31
+		Duration:	07:29:35
+		Location:	24.82769 55.23186
+
+	MGOT2
+		Images:	413
+		Time:	19.04.2025 17:49:05 until 19.04.2025 19:59:48
+		Duration:	02:10:43
+		Location:	24.82769 55.23186
+
+(4) - Obstacle 6 Dunk Wall
+	GOR2
+		Images:	574
+		Time:	19.04.2025 17:17:50 until 19.04.2025 19:09:44
+		Duration:	01:51:54
+		Location:	24.82640 55.22785
+
+	MGOT1
+		Images:	2772
+		Time:	19.04.2025 06:29:04 until 19.04.2025 12:08:08
+		Duration:	05:39:04
+		Location:	24.82640 55.22785
+
+(5) - Finish
+	GOR1LS1
+		Images:	1629
+		Time:	19.04.2025 06:57:51 until 19.04.2025 13:40:26
+		Duration:	06:42:35
+		Location:	24.82769 55.23186
+
+(6) - Obstacle 21 Bucket Carry
+	GSH1
+		Images:	3333
+		Time:	19.04.2025 06:14:30 until 19.04.2025 12:40:30
+		Duration:	06:26:00
+		Location:	24.82825 55.23019
+
+	GSH2
+		Images:	580
+		Time:	19.04.2025 17:52:58 until 19.04.2025 19:23:03
+		Duration:	01:30:05
+		Location:	24.82825 55.23019
+
+(7) - Obstacle 10 Helix
+	MAMS1
+		Images:	3746
+		Time:	19.04.2025 06:13:05 until 19.04.2025 12:48:57
+		Duration:	06:35:52
+		Location:	24.82755 55.23079
+
+	MAMS2
+		Images:	678
+		Time:	19.04.2025 17:56:57 until 19.04.2025 19:06:56
+		Duration:	01:09:59
+		Location:	24.82755 55.23079
+
+	NIZ1
+		Images:	2239
+		Time:	19.04.2025 06:26:37 until 19.04.2025 12:40:35
+		Duration:	06:13:58
+		Location:	24.82755 55.23079
+
+	NIZ2
+		Images:	358
+		Time:	19.04.2025 17:56:46 until 19.04.2025 19:18:09
+		Duration:	01:21:23
+		Location:	24.82755 55.23079
+
+(8) - Obstacle 7 Slip Wall
+	MOSF1
+		Images:	1981
+		Time:	19.04.2025 06:37:14 until 19.04.2025 12:17:53
+		Duration:	05:40:39
+		Location:	24.82640 55.22785
+
+(9) - Herotent Medals
+	MRGO1
+		Images:	2175
+		Time:	19.04.2025 06:00:10 until 19.04.2025 12:44:36
+		Duration:	06:44:26
+		Location:	24.82769 55.23186
+
+	MRGO2
+		Images:	317
+		Time:	19.04.2025 17:02:35 until 19.04.2025 20:06:34
+		Duration:	03:03:59
+		Location:	24.82769 55.23186
+
+	MUP2
+		Images:	192
+		Time:	19.04.2025 11:16:17 until 19.04.2025 11:31:17
+		Duration:	00:15:00
+		Location:	24.82769 55.23186
+
+(10) - Obstacle 24 A Frame Cargo
+	MUP1
+		Images:	2855
+		Time:	19.04.2025 08:35:08 until 19.04.2025 13:43:05
+		Duration:	05:07:57
+		Location:	24.82769 55.23186
+
+	MUP3
+		Images:	573
+		Time:	19.04.2025 18:16:06 until 19.04.2025 19:21:46
+		Duration:	01:05:40
+		Location:	24.82769 55.23186
+
+(11) - 2,0 km Run
+	MUP1LS1
+		Images:	676
+		Time:	19.04.2025 07:09:52 until 19.04.2025 10:48:28
+		Duration:	03:38:36
+		Location:	24.82755 55.23079
+
+	MUP1LS2
+		Images:	2418
+		Time:	19.04.2025 07:45:18 until 19.04.2025 12:25:04
+		Duration:	04:39:46
+		Location:	24.82755 55.23079
+
+(12) - Obstacle 2 Barbed Wire
+	SHPA1
+		Images:	2372
+		Time:	19.04.2025 07:28:03 until 19.04.2025 12:11:27
+		Duration:	04:43:24
+		Location:	24.82246 55.23327
+
+	SHPA2
+		Images:	439
+		Time:	19.04.2025 17:40:10 until 19.04.2025 18:39:06
+		Duration:	00:58:56
+		Location:	24.82246 55.23327
+

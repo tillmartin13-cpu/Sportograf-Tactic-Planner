@@ -1,0 +1,105 @@
+EventId: 14303
+Spots: 15
+Total Images: 96441
+Time:	07.11.2025 17:16:51 to 09.11.2025 07:01:02
+Duration: 1.13:44:11
+
+(1) - Obstacle 1 Over Walls (4' Walls)
+	DMI1
+		Images:	7234
+		Time:	07.11.2025 20:18:00 until 09.11.2025 07:01:02
+		Duration:	1.10:43:02
+		Location:	35.35685 -120.55924
+
+	TUD1
+		Images:	6731
+		Time:	07.11.2025 20:31:18 until 09.11.2025 06:27:05
+		Duration:	1.09:55:47
+		Location:	35.35685 -120.55924
+
+(2) - Obstacle 3 Sandbag Carry
+	DMCI1
+		Images:	11119
+		Time:	07.11.2025 21:46:58 until 09.11.2025 06:17:18
+		Duration:	1.08:30:20
+		Location:	35.36027 -120.56317
+
+	DMCI1LS1
+		Images:	4259
+		Time:	07.11.2025 21:41:52 until 08.11.2025 13:47:37
+		Duration:	16:05:45
+		Location:	35.36027 -120.56317
+
+(3) - Obstacle 4 Monkey Bars
+	HAL1
+		Images:	5840
+		Time:	08.11.2025 06:10:44 until 08.11.2025 14:16:14
+		Duration:	08:05:30
+		Location:	35.36146 -120.56573
+
+	DEST1
+		Images:	8518
+		Time:	07.11.2025 22:08:23 until 08.11.2025 14:19:23
+		Duration:	16:11:00
+		Location:	35.36146 -120.56573
+
+(4) - Obstacle 6 Chain Carry
+	AGJ1
+		Images:	6194
+		Time:	08.11.2025 06:48:07 until 08.11.2025 14:32:13
+		Duration:	07:44:06
+		Location:	35.35994 -120.56919
+
+(5) - Obstacle 21 Barbed Wire Crawl #2
+	HJP1
+		Images:	8222
+		Time:	08.11.2025 06:34:49 until 09.11.2025 05:59:27
+		Duration:	23:24:38
+		Location:	35.35903 -120.56674
+
+(6) - Obstacle 26 Atlas Carry
+	DVAL1
+		Images:	10848
+		Time:	07.11.2025 19:37:13 until 09.11.2025 06:15:00
+		Duration:	1.10:37:47
+		Location:	35.35632 -120.55792
+
+	MKI1
+		Images:	6832
+		Time:	07.11.2025 17:16:51 until 08.11.2025 16:27:46
+		Duration:	23:10:55
+		Location:	35.35632 -120.55792
+
+(7) - Obstacle 28 Multi-Rig
+	DDS1
+		Images:	4312
+		Time:	07.11.2025 19:58:26 until 08.11.2025 16:28:21
+		Duration:	20:29:55
+		Location:	35.35393 -120.55453
+
+	MCAR1
+		Images:	2608
+		Time:	08.11.2025 07:12:49 until 08.11.2025 13:29:45
+		Duration:	06:16:56
+		Location:	35.35393 -120.55453
+
+	MCAR1DRONE1
+		Images:	23
+		Time:	08.11.2025 08:29:14 until 08.11.2025 08:35:47
+		Duration:	00:06:33
+		Location:	35.35393 -120.55453
+
+(8) - Obstacle 29 A-Frame Cargo
+	DDC1
+		Images:	9973
+		Time:	07.11.2025 17:29:16 until 08.11.2025 16:28:05
+		Duration:	22:58:49
+		Location:	35.35332 -120.55448
+
+(9) - Herotent
+	AHB1
+		Images:	3723
+		Time:	08.11.2025 07:05:42 until 09.11.2025 06:18:56
+		Duration:	23:13:14
+		Location:	35.35311 -120.55399
+

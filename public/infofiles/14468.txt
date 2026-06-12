@@ -1,0 +1,111 @@
+EventId: 14468
+Spots: 17
+Total Images: 8168
+Time:	15.05.2025 10:15:53 to 24.05.2025 13:27:18
+Duration: 9.03:11:25
+
+(1) - Impressions / Pano
+	PANO1
+	EVL1DRONE1
+		Images:	10
+		Time:	15.05.2025 10:15:53 until 15.05.2025 10:18:44
+		Duration:	00:02:51
+		Location:	47.45355 8.33934
+
+(2) - Obstacle 1 Pyramiden des Ricoter
+	EVL1
+		Images:	479
+		Time:	24.05.2025 09:49:50 until 24.05.2025 11:10:43
+		Duration:	01:20:53
+		Location:	47.45355 8.33934
+
+	EVL1LS2
+		Images:	266
+		Time:	24.05.2025 09:30:54 until 24.05.2025 10:46:06
+		Duration:	01:15:12
+		Location:	47.45355 8.33934
+
+	EVL1LS1
+		Images:	102
+		Time:	24.05.2025 09:25:39 until 24.05.2025 10:47:37
+		Duration:	01:21:58
+		Location:	47.45355 8.33934
+
+(3) - Obstacle 5 Mad Max
+	TNR1
+		Images:	639
+		Time:	24.05.2025 10:38:25 until 24.05.2025 11:01:07
+		Duration:	00:22:42
+		Location:	47.45368 8.34410
+
+	TNR1LS2
+		Images:	581
+		Time:	24.05.2025 10:03:24 until 24.05.2025 11:01:12
+		Duration:	00:57:48
+		Location:	47.45368 8.34410
+
+	TNR1LS1
+		Images:	545
+		Time:	24.05.2025 10:27:15 until 24.05.2025 11:01:12
+		Duration:	00:33:57
+		Location:	47.45368 8.34410
+
+(4) - Obstacle 6 Mudd Celebration
+	DABI1
+		Images:	542
+		Time:	24.05.2025 09:24:36 until 24.05.2025 11:27:51
+		Duration:	02:03:15
+		Location:	47.45457 8.34537
+
+	DABI1LS1
+		Images:	408
+		Time:	24.05.2025 10:28:35 until 24.05.2025 11:35:00
+		Duration:	01:06:25
+		Location:	47.45457 8.34537
+
+(5) - Obstacle 7 Panierte Robben
+	LBO1
+		Images:	530
+		Time:	24.05.2025 09:19:52 until 24.05.2025 11:24:50
+		Duration:	02:04:58
+		Location:	47.45391 8.34472
+
+(6) - Obstacle 21 Schaumkrone
+	BECK1
+		Images:	879
+		Time:	24.05.2025 10:45:34 until 24.05.2025 13:27:18
+		Duration:	02:41:44
+		Location:	47.45343 8.33838
+
+	BECK1LS2
+		Images:	518
+		Time:	24.05.2025 10:29:17 until 24.05.2025 11:49:58
+		Duration:	01:20:41
+		Location:	47.45343 8.33838
+
+	BECK1LS1
+		Images:	182
+		Time:	24.05.2025 10:38:22 until 24.05.2025 11:34:38
+		Duration:	00:56:16
+		Location:	47.45343 8.33838
+
+(7) - Obstacle 22 Zielrutsche
+	JNK1
+		Images:	680
+		Time:	24.05.2025 09:50:33 until 24.05.2025 11:38:14
+		Duration:	01:47:41
+		Location:	47.45383 8.33780
+
+	MAWI1LS1
+		Images:	1699
+		Time:	24.05.2025 10:45:52 until 24.05.2025 11:46:48
+		Duration:	01:00:56
+		Location:	47.45383 8.33780
+
+(8) - Herotent
+	MAWI1
+		Images:	108
+		Time:	24.05.2025 10:50:16 until 24.05.2025 11:37:17
+		Duration:	00:47:01
+		Location:	47.45365 8.33785
+

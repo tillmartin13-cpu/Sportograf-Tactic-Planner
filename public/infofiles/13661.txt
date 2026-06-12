@@ -1,0 +1,249 @@
+EventId: 13661
+Spots: 37
+Total Images: 242816
+Time:	01.01.0001 23:00:00 to 31.08.2025 20:13:35
+Duration: 739492.21:13:35
+
+(1) - 0.0 km
+	CK1DRONE1
+		Images:	12
+		Time:	31.08.2025 07:14:57 until 31.08.2025 17:00:58
+		Duration:	09:46:01
+		Location:	NULL NULL
+
+(2) - 47.1 km
+	MADM1
+		Images:	11130
+		Time:	31.08.2025 07:13:24 until 31.08.2025 09:27:56
+		Duration:	02:14:32
+		Location:	NULL NULL
+
+(3) - 48.2 km
+	LKE1
+		Images:	5096
+		Time:	31.08.2025 07:46:17 until 31.08.2025 09:27:48
+		Duration:	01:41:31
+		Location:	NULL NULL
+
+(4) - 48.4 km
+	JADS1
+		Images:	2025
+		Time:	31.08.2025 07:18:02 until 31.08.2025 09:23:36
+		Duration:	02:05:34
+		Location:	NULL NULL
+
+(5) - 48.5 km
+	CK1
+		Images:	7276
+		Time:	31.08.2025 07:40:08 until 31.08.2025 09:16:16
+		Duration:	01:36:08
+		Location:	NULL NULL
+
+	CK1LS1
+		Images:	8107
+		Time:	31.08.2025 07:31:36 until 31.08.2025 09:07:46
+		Duration:	01:36:10
+		Location:	NULL NULL
+
+	CK1LS2
+		Images:	4816
+		Time:	31.08.2025 07:28:30 until 31.08.2025 09:23:21
+		Duration:	01:54:51
+		Location:	NULL NULL
+
+(6) - 49.4 km
+	FPB1
+		Images:	12013
+		Time:	31.08.2025 07:01:25 until 31.08.2025 09:31:32
+		Duration:	02:30:07
+		Location:	NULL NULL
+
+(7) - 50.9 km
+	UEC1
+		Images:	10245
+		Time:	30.08.2025 19:21:13 until 31.08.2025 09:32:21
+		Duration:	14:11:08
+		Location:	NULL NULL
+
+	UEC2LS2
+		Images:	3425
+		Time:	30.08.2025 19:27:10 until 31.08.2025 12:02:30
+		Duration:	16:35:20
+		Location:	NULL NULL
+
+	UEC1LS1
+		Images:	3397
+		Time:	30.08.2025 19:24:57 until 31.08.2025 09:32:33
+		Duration:	14:07:36
+		Location:	NULL NULL
+
+(8) - 52.3 km
+	ULKE1
+		Images:	6864
+		Time:	31.08.2025 07:05:40 until 31.08.2025 09:33:29
+		Duration:	02:27:49
+		Location:	NULL NULL
+
+(9) - 85.5 km
+	ISM1
+		Images:	8498
+		Time:	01.01.2014 02:14:42 until 31.08.2025 10:28:16
+		Duration:	4260.08:13:34
+		Location:	NULL NULL
+
+(10) - 86.0 km
+	DRU1
+		Images:	6537
+		Time:	30.08.2025 20:49:17 until 31.08.2025 10:29:05
+		Duration:	13:39:48
+		Location:	NULL NULL
+
+(11) - 137.0 km
+	BATI1
+		Images:	3913
+		Time:	31.08.2025 10:04:29 until 31.08.2025 13:01:20
+		Duration:	02:56:51
+		Location:	NULL NULL
+
+(12) - 138.2 km
+	DARU1
+		Images:	6446
+		Time:	31.08.2025 10:05:30 until 31.08.2025 13:05:06
+		Duration:	02:59:36
+		Location:	NULL NULL
+
+(13) - 153.7 km
+	LOMA1
+		Images:	17520
+		Time:	30.08.2025 20:32:29 until 31.08.2025 14:30:02
+		Duration:	17:57:33
+		Location:	NULL NULL
+
+	LOMA1LS2
+		Images:	3323
+		Time:	31.08.2025 10:38:11 until 31.08.2025 14:36:05
+		Duration:	03:57:54
+		Location:	NULL NULL
+
+	LOMA1LS1
+		Images:	2202
+		Time:	31.08.2025 10:38:00 until 31.08.2025 14:36:04
+		Duration:	03:58:04
+		Location:	NULL NULL
+
+(14) - 154.5 km
+	KHW1
+		Images:	11027
+		Time:	31.08.2025 08:55:51 until 31.08.2025 17:36:05
+		Duration:	08:40:14
+		Location:	NULL NULL
+
+(15) - 172.6 km
+	NAG1
+		Images:	14003
+		Time:	01.01.0001 23:00:00 until 31.08.2025 15:19:47
+		Duration:	739492.16:19:47
+		Location:	NULL NULL
+
+(16) - 174.9 km
+	ASTU1
+		Images:	8366
+		Time:	31.08.2025 11:39:14 until 31.08.2025 15:20:32
+		Duration:	03:41:18
+		Location:	NULL NULL
+
+(17) - 169.4 km
+	KPR1
+		Images:	10604
+		Time:	31.08.2025 00:37:26 until 31.08.2025 15:14:50
+		Duration:	14:37:24
+		Location:	NULL NULL
+
+(18) - 195.8 km
+	ULKE2
+		Images:	5898
+		Time:	31.08.2025 12:16:29 until 31.08.2025 16:37:19
+		Duration:	04:20:50
+		Location:	NULL NULL
+
+(19) - 196.0 km
+	FPB2
+		Images:	11991
+		Time:	31.08.2025 11:47:50 until 31.08.2025 18:20:42
+		Duration:	06:32:52
+		Location:	NULL NULL
+
+	ULKE3
+		Images:	1359
+		Time:	31.08.2025 16:44:41 until 31.08.2025 18:14:57
+		Duration:	01:30:16
+		Location:	NULL NULL
+
+(20) - 196.1 km
+	UEC2
+		Images:	4121
+		Time:	31.08.2025 12:23:53 until 31.08.2025 18:21:43
+		Duration:	05:57:50
+		Location:	NULL NULL
+
+	UEC1LS2
+		Images:	1758
+		Time:	31.08.2025 12:17:00 until 31.08.2025 16:11:30
+		Duration:	03:54:30
+		Location:	NULL NULL
+
+	UEC2LS1
+		Images:	2162
+		Time:	31.08.2025 12:12:36 until 31.08.2025 17:56:18
+		Duration:	05:43:42
+		Location:	NULL NULL
+
+(21) - 200.1 km
+	LKE2
+		Images:	6297
+		Time:	31.08.2025 12:40:36 until 31.08.2025 18:52:11
+		Duration:	06:11:35
+		Location:	NULL NULL
+
+(22) - 200.5 km
+	MADM2
+		Images:	9319
+		Time:	31.08.2025 11:40:19 until 31.08.2025 18:58:03
+		Duration:	07:17:44
+		Location:	NULL NULL
+
+(23) - 201.2 km
+	JADS2
+		Images:	4530
+		Time:	31.08.2025 11:58:39 until 31.08.2025 19:04:10
+		Duration:	07:05:31
+		Location:	NULL NULL
+
+(24) - 220.0 km
+	ISM2
+		Images:	9808
+		Time:	30.08.2025 20:55:37 until 31.08.2025 19:58:00
+		Duration:	23:02:23
+		Location:	NULL NULL
+
+	CK3
+		Images:	1009
+		Time:	31.08.2025 17:07:25 until 31.08.2025 17:19:35
+		Duration:	00:12:10
+		Location:	NULL NULL
+
+(25) - Finish
+	DRU2
+		Images:	17421
+		Time:	01.01.0001 23:00:00 until 31.08.2025 20:13:35
+		Duration:	739492.21:13:35
+		Location:	NULL NULL
+
+	CK2
+		Images:	298
+		Time:	31.08.2025 15:39:58 until 31.08.2025 17:23:33
+		Duration:	01:43:35
+		Location:	NULL NULL
+
+(26) - Impressions / Pano
+	PANO1

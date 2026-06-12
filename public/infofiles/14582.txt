@@ -1,0 +1,101 @@
+EventId: 14582
+Spots: 14
+Total Images: 139746
+Time:	14.03.2025 19:13:20 to 16.03.2025 11:59:57
+Duration: 1.16:46:37
+
+(1) - HELIX #3
+	JMCK1
+		Images:	3519
+		Time:	14.03.2025 21:57:57 until 15.03.2025 14:07:29
+		Duration:	16:09:32
+		Location:	33.67415 -83.94449
+
+	WILM1
+		Images:	12571
+		Time:	15.03.2025 06:11:40 until 16.03.2025 06:40:05
+		Duration:	1.00:28:25
+		Location:	33.67415 -83.94449
+
+(2) - MONKEY BARS #4
+	CHIT1
+		Images:	7097
+		Time:	15.03.2025 18:15:15 until 16.03.2025 02:09:59
+		Duration:	07:54:44
+		Location:	33.67671 -83.94770
+
+(3) - BUCKET CARRY #13
+	RUHO1
+		Images:	39997
+		Time:	15.03.2025 06:37:14 until 16.03.2025 06:56:54
+		Duration:	1.00:19:40
+		Location:	33.67366 -83.95178
+
+(4) - TITAN FITNESS MULTY-RIG #14
+	MCKR1
+		Images:	9136
+		Time:	15.03.2025 04:24:12 until 15.03.2025 14:57:08
+		Duration:	10:32:56
+		Location:	33.67360 -83.94949
+
+	KAH1
+		Images:	7460
+		Time:	15.03.2025 04:21:22 until 16.03.2025 07:12:10
+		Duration:	1.02:50:48
+		Location:	33.67360 -83.94949
+
+(5) - BARBED WIRE CRAWL #15
+	NADA1
+		Images:	10502
+		Time:	15.03.2025 06:51:37 until 15.03.2025 15:06:00
+		Duration:	08:14:23
+		Location:	33.67329 -83.94850
+
+(6) - ATLAS CARRY #18
+	ISAK1
+		Images:	3718
+		Time:	15.03.2025 06:41:07 until 16.03.2025 07:01:33
+		Duration:	1.00:20:26
+		Location:	33.67148 -83.94506
+
+	SITO1
+		Images:	6242
+		Time:	15.03.2025 06:27:09 until 15.03.2025 15:29:31
+		Duration:	09:02:22
+		Location:	33.67148 -83.94506
+
+(7) - SPLIT WALL #29
+	EMBA1
+		Images:	10531
+		Time:	15.03.2025 06:13:48 until 15.03.2025 16:48:24
+		Duration:	10:34:36
+		Location:	33.67181 -83.94373
+
+(8) - CRAFT A FRAME CARGO #30
+	STRO1
+		Images:	6461
+		Time:	15.03.2025 06:16:07 until 16.03.2025 06:39:07
+		Duration:	1.00:23:00
+		Location:	33.67207 -83.94433
+
+(9) - FIRE JUMP #31
+	BESC1
+		Images:	19235
+		Time:	14.03.2025 19:39:37 until 16.03.2025 06:45:00
+		Duration:	1.11:05:23
+		Location:	33.67239 -82.94461
+
+(10) - HERO TENT
+	VICY1
+		Images:	3081
+		Time:	14.03.2025 19:41:29 until 15.03.2025 16:48:24
+		Duration:	21:06:55
+		Location:	33.67245 -83.94500
+
+(11) - Impressions / Pano
+	SICA1
+		Images:	196
+		Time:	14.03.2025 19:13:20 until 16.03.2025 11:59:57
+		Duration:	1.16:46:37
+		Location:	33.67245 -83.94500
+

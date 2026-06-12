@@ -1,0 +1,98 @@
+EventId: 14028
+Spots: 14
+Total Images: 18539
+Time:	26.09.2025 16:02:23 to 28.09.2025 04:49:59
+Duration: 1.12:47:36
+
+(1) - Start
+	IH1
+		Images:	505
+		Time:	27.09.2025 05:36:50 until 27.09.2025 10:21:47
+		Duration:	04:44:57
+		Location:	47.67519 12.46363
+
+(2) - 8.5 km M, XL, XXL
+	CHR1
+		Images:	794
+		Time:	27.09.2025 07:49:35 until 27.09.2025 10:02:55
+		Duration:	02:13:20
+		Location:	47.64999 12.50468
+
+	CHR1LS2
+		Images:	224
+		Time:	27.09.2025 08:00:51 until 27.09.2025 09:58:25
+		Duration:	01:57:34
+		Location:	47.64999 12.50468
+
+	CHR1LS1
+		Images:	237
+		Time:	27.09.2025 07:49:10 until 27.09.2025 09:56:35
+		Duration:	02:07:25
+		Location:	47.64999 12.50468
+
+(3) - Gletscherblickweg
+	COR1
+		Images:	1457
+		Time:	27.09.2025 08:08:25 until 27.09.2025 16:36:41
+		Duration:	08:28:16
+		Location:	47.62211 12.51103
+
+	COR1LS2
+		Images:	179
+		Time:	27.09.2025 08:52:14 until 27.09.2025 11:40:50
+		Duration:	02:48:36
+		Location:	47.62211 12.51103
+
+	COR1LS1
+		Images:	556
+		Time:	27.09.2025 08:54:35 until 27.09.2025 15:01:32
+		Duration:	06:06:57
+		Location:	47.62211 12.51103
+
+(4) - HIndenburghütte
+	CHR2
+		Images:	2696
+		Time:	27.09.2025 10:06:46 until 27.09.2025 17:21:04
+		Duration:	07:14:18
+		Location:	47.64453 12.50090
+
+	CHR2LS2
+		Images:	681
+		Time:	27.09.2025 10:27:27 until 28.09.2025 04:49:59
+		Duration:	18:22:32
+		Location:	47.64453 12.50090
+
+	CHR2LS1
+		Images:	827
+		Time:	27.09.2025 10:21:39 until 27.09.2025 17:13:26
+		Duration:	06:51:47
+		Location:	47.64453 12.50090
+
+(5) - Zwerchenbergalm
+	MJO1
+		Images:	3329
+		Time:	27.09.2025 10:00:30 until 27.09.2025 18:11:51
+		Duration:	08:11:21
+		Location:	47.65187 12.47722
+
+(6) - Klausenbachklamm
+	TNS1
+		Images:	2315
+		Time:	26.09.2025 16:02:23 until 27.09.2025 17:59:26
+		Duration:	1.01:57:03
+		Location:	47.65726 12.47269
+
+(7) - Finish
+	IH2
+		Images:	4720
+		Time:	27.09.2025 10:31:43 until 27.09.2025 19:54:38
+		Duration:	09:22:55
+		Location:	47.67519 12.46363
+
+(8) - Impressions / Pano
+	COR1DRONE1
+		Images:	19
+		Time:	27.09.2025 10:52:57 until 27.09.2025 11:04:04
+		Duration:	00:11:07
+		Location:	47.62211 12.51103
+

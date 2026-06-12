@@ -1,0 +1,154 @@
+EventId: 14786
+Spots: 23
+Total Images: 54463
+Time:	15.02.2025 07:49:45 to 16.02.2025 12:28:18
+Duration: 1.04:38:33
+
+(1) - Start
+	MIGO1
+		Images:	437
+		Time:	15.02.2025 10:56:40 until 15.02.2025 11:05:12
+		Duration:	00:08:32
+		Location:	NULL NULL
+
+(2) - After Transition (Night)
+	JOD1LS3
+		Images:	5804
+		Time:	15.02.2025 18:26:12 until 16.02.2025 05:59:10
+		Duration:	11:32:58
+		Location:	NULL NULL
+
+	MIGO1LS3
+		Images:	4321
+		Time:	15.02.2025 17:43:03 until 16.02.2025 05:57:48
+		Duration:	12:14:45
+		Location:	NULL NULL
+
+(3) - After Transition
+	MIGO1LS4
+		Images:	1647
+		Time:	16.02.2025 06:43:54 until 16.02.2025 10:49:05
+		Duration:	04:05:11
+		Location:	NULL NULL
+
+	MIGO1LS5
+		Images:	2337
+		Time:	16.02.2025 07:18:00 until 16.02.2025 11:01:25
+		Duration:	03:43:25
+		Location:	NULL NULL
+
+	MIGO3
+		Images:	5193
+		Time:	16.02.2025 07:44:55 until 16.02.2025 11:00:05
+		Duration:	03:15:10
+		Location:	NULL NULL
+
+(4) - June Bug Trail
+	NIMA1
+		Images:	1289
+		Time:	15.02.2025 11:36:10 until 15.02.2025 14:44:22
+		Duration:	03:08:12
+		Location:	NULL NULL
+
+	NIMA2
+		Images:	1425
+		Time:	15.02.2025 14:52:40 until 15.02.2025 17:15:20
+		Duration:	02:22:40
+		Location:	NULL NULL
+
+	NIMA1LS1
+		Images:	1972
+		Time:	15.02.2025 11:26:25 until 15.02.2025 17:56:35
+		Duration:	06:30:10
+		Location:	NULL NULL
+
+(5) - June Bug Trail (Night)
+	NIMA1LS3
+		Images:	697
+		Time:	15.02.2025 15:40:37 until 15.02.2025 17:56:35
+		Duration:	02:15:58
+		Location:	NULL NULL
+
+(6) - High Point Trail
+	JOD1
+		Images:	4416
+		Time:	15.02.2025 07:53:11 until 15.02.2025 17:14:19
+		Duration:	09:21:08
+		Location:	NULL NULL
+
+	JOD1LS2
+		Images:	1369
+		Time:	15.02.2025 08:01:50 until 15.02.2025 15:55:33
+		Duration:	07:53:43
+		Location:	NULL NULL
+
+	JOD1LS1
+		Images:	6138
+		Time:	15.02.2025 08:06:07 until 15.02.2025 16:19:35
+		Duration:	08:13:28
+		Location:	NULL NULL
+
+	MIGO2
+		Images:	5467
+		Time:	15.02.2025 12:42:14 until 15.02.2025 16:26:52
+		Duration:	03:44:38
+		Location:	NULL NULL
+
+	MIGO1LS2
+		Images:	463
+		Time:	15.02.2025 07:57:46 until 15.02.2025 15:07:41
+		Duration:	07:09:55
+		Location:	NULL NULL
+
+	MIGO1LS1
+		Images:	1877
+		Time:	15.02.2025 07:49:45 until 15.02.2025 17:38:54
+		Duration:	09:49:09
+		Location:	NULL NULL
+
+(7) - Before Rock Drop
+	JOD3
+		Images:	2546
+		Time:	16.02.2025 07:52:07 until 16.02.2025 10:02:40
+		Duration:	02:10:33
+		Location:	NULL NULL
+
+	JOD1LS4
+		Images:	3982
+		Time:	16.02.2025 07:22:58 until 16.02.2025 10:08:26
+		Duration:	02:45:28
+		Location:	NULL NULL
+
+	JOD1LS5
+		Images:	310
+		Time:	16.02.2025 07:38:07 until 16.02.2025 10:11:57
+		Duration:	02:33:50
+		Location:	NULL NULL
+
+(8) - Rock Drop
+	NIMA3
+		Images:	782
+		Time:	16.02.2025 05:55:53 until 16.02.2025 08:55:39
+		Duration:	02:59:46
+		Location:	NULL NULL
+
+(9) - Finish
+	NIMA1LS2
+		Images:	686
+		Time:	16.02.2025 07:14:47 until 16.02.2025 09:51:07
+		Duration:	02:36:20
+		Location:	NULL NULL
+
+	NIMA4
+		Images:	1287
+		Time:	16.02.2025 09:58:49 until 16.02.2025 12:28:18
+		Duration:	02:29:29
+		Location:	NULL NULL
+
+(10) - Drone
+	JOD1DRONE1
+		Images:	18
+		Time:	15.02.2025 11:25:26 until 15.02.2025 18:25:54
+		Duration:	07:00:28
+		Location:	NULL NULL
+

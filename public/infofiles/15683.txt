@@ -1,0 +1,139 @@
+EventId: 15683
+Spots: 22
+Total Images: 180555
+Time:	03.08.2024 11:00:54 to 23.08.2025 04:15:38
+Duration: 384.17:14:44
+
+(1) - 13.0 km WaterPoint 3/9
+	LARRY1
+		Images:	17565
+		Time:	22.03.2025 05:54:09 until 23.03.2025 14:57:22
+		Duration:	1.09:03:13
+		Location:	32.43229 -106.47384
+
+	MATTJ1
+		Images:	4288
+		Time:	22.03.2025 06:06:52 until 22.03.2025 14:12:18
+		Duration:	08:05:26
+		Location:	32.43229 -106.47384
+
+	TRTWO1
+		Images:	10245
+		Time:	22.03.2025 06:46:38 until 22.03.2025 13:31:49
+		Duration:	06:45:11
+		Location:	32.43229 -106.47384
+
+	VAL1
+		Images:	12607
+		Time:	22.03.2025 05:07:10 until 22.03.2025 13:11:47
+		Duration:	08:04:37
+		Location:	32.43229 -106.47384
+
+(2) - 4.0 km WaterPoint 1
+	JULIO1
+		Images:	10721
+		Time:	22.03.2025 05:58:40 until 22.03.2025 12:13:11
+		Duration:	06:14:31
+		Location:	32.38612 -106.47729
+
+	MIKE1
+		Images:	7619
+		Time:	22.03.2025 03:46:08 until 22.03.2025 11:11:26
+		Duration:	07:25:18
+		Location:	32.38612 -106.47729
+
+	TRONE1
+		Images:	22563
+		Time:	22.03.2025 04:56:30 until 22.03.2025 11:38:26
+		Duration:	06:41:56
+		Location:	32.38612 -106.47729
+
+(3) - 42.0 km Finish Straight
+	JEFF1
+		Images:	7472
+		Time:	22.03.2025 07:43:10 until 22.03.2025 17:01:50
+		Duration:	09:18:40
+		Location:	32.37644 -106.49771
+
+	JULIO2
+		Images:	3245
+		Time:	22.03.2025 12:23:18 until 22.03.2025 14:56:57
+		Duration:	02:33:39
+		Location:	32.37644 -106.49771
+
+	MATTG1
+		Images:	7082
+		Time:	22.08.2025 19:30:45 until 23.08.2025 04:15:38
+		Duration:	08:44:53
+		Location:	32.37644 -106.49771
+
+	MIKE2
+		Images:	3594
+		Time:	22.03.2025 11:11:27 until 22.03.2025 15:01:27
+		Duration:	03:50:00
+		Location:	32.37644 -106.49771
+
+	TRPFN1
+		Images:	21109
+		Time:	03.08.2024 11:00:54 until 22.03.2025 16:29:31
+		Duration:	231.05:28:37
+		Location:	32.37644 -106.49771
+
+(4) - Finish
+	KITA1
+		Images:	1478
+		Time:	22.06.2025 06:30:24 until 22.06.2025 15:31:36
+		Duration:	09:01:12
+		Location:	32.37644 -106.49771
+
+	LARRY2
+		Images:	478
+		Time:	23.03.2025 15:33:41 until 23.03.2025 17:38:57
+		Duration:	02:05:16
+		Location:	32.37644 -106.49771
+
+	MIKAE1
+		Images:	5168
+		Time:	22.03.2025 06:14:48 until 22.03.2025 15:13:37
+		Duration:	08:58:49
+		Location:	32.37644 -106.49771
+
+	SEAN1
+		Images:	15835
+		Time:	22.03.2025 06:51:06 until 22.03.2025 17:39:05
+		Duration:	10:47:59
+		Location:	32.37644 -106.49771
+
+	TRFIN1
+		Images:	28346
+		Time:	22.03.2025 07:43:32 until 22.03.2025 17:15:26
+		Duration:	09:31:54
+		Location:	32.37644 -106.49771
+
+(5) - Impressions / Pano
+	JEFF2
+		Images:	87
+		Time:	22.03.2025 05:29:01 until 22.03.2025 05:55:54
+		Duration:	00:26:53
+		Location:	32.37644 -106.49771
+
+	PANO1
+(6) - Start
+	KITA2
+		Images:	123
+		Time:	22.03.2025 06:36:54 until 22.03.2025 07:18:00
+		Duration:	00:41:06
+		Location:	32.38008 -106.49292
+
+	MATTG2
+		Images:	382
+		Time:	22.08.2025 18:19:15 until 22.08.2025 19:01:14
+		Duration:	00:41:59
+		Location:	32.38008 -106.49292
+
+	MIKAE2
+		Images:	548
+		Time:	22.03.2025 05:22:34 until 22.03.2025 05:58:56
+		Duration:	00:36:22
+		Location:	32.38008 -106.49292
+

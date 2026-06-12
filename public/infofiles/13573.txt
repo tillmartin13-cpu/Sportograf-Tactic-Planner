@@ -1,0 +1,137 @@
+EventId: 13573
+Spots: 21
+Total Images: 31846
+Time:	14.09.2025 07:10:57 to 14.09.2025 16:19:33
+Duration: 09:08:36
+
+(1) - 1,5 km
+	PATL1
+		Images:	1314
+		Time:	14.09.2025 07:10:57 until 14.09.2025 10:34:35
+		Duration:	03:23:38
+		Location:	50.94136 5.33461
+
+(2) - 10,0 km
+	MW1
+		Images:	2719
+		Time:	14.09.2025 07:45:25 until 14.09.2025 11:04:27
+		Duration:	03:19:02
+		Location:	50.92869 5.40751
+
+	MW1LS2
+		Images:	371
+		Time:	14.09.2025 07:50:15 until 14.09.2025 11:06:57
+		Duration:	03:16:42
+		Location:	50.92869 5.40751
+
+	MW1LS1
+		Images:	678
+		Time:	14.09.2025 07:50:16 until 14.09.2025 11:06:58
+		Duration:	03:16:42
+		Location:	50.92869 5.40751
+
+(3) - 10,0 km before finish
+	MIV2
+		Images:	6732
+		Time:	14.09.2025 11:54:57 until 14.09.2025 15:14:33
+		Duration:	03:19:36
+		Location:	50.91916 5.37002
+
+	MIV2LS2
+		Images:	960
+		Time:	14.09.2025 11:44:31 until 14.09.2025 15:23:51
+		Duration:	03:39:20
+		Location:	50.91916 5.37002
+
+	MIV2LS1
+		Images:	910
+		Time:	14.09.2025 11:43:02 until 14.09.2025 15:20:37
+		Duration:	03:37:35
+		Location:	50.91916 5.37002
+
+(4) - 11,0 km
+	MIV1
+		Images:	2040
+		Time:	14.09.2025 07:55:54 until 14.09.2025 10:58:28
+		Duration:	03:02:34
+		Location:	50.92497 5.40895
+
+	MIV1LS1
+		Images:	1060
+		Time:	14.09.2025 07:33:25 until 14.09.2025 11:42:54
+		Duration:	04:09:29
+		Location:	50.92497 5.40895
+
+	MIV1LS2
+		Images:	1026
+		Time:	14.09.2025 07:25:36 until 14.09.2025 11:42:19
+		Duration:	04:16:43
+		Location:	50.92497 5.40895
+
+(5) - 3,2 km before finish
+	ROC2
+		Images:	1530
+		Time:	14.09.2025 12:06:13 until 14.09.2025 15:52:41
+		Duration:	03:46:28
+		Location:	50.92888 5.37821
+
+(6) - 3,7 km
+	OP1
+		Images:	827
+		Time:	14.09.2025 07:12:20 until 14.09.2025 10:23:32
+		Duration:	03:11:12
+		Location:	50.94692 5.33176
+
+	OP1LS1
+		Images:	504
+		Time:	14.09.2025 07:46:13 until 14.09.2025 10:32:55
+		Duration:	02:46:42
+		Location:	50.94692 5.33176
+
+	ROC1
+		Images:	3424
+		Time:	14.09.2025 07:32:52 until 14.09.2025 10:50:50
+		Duration:	03:17:58
+		Location:	50.94910 5.32737
+
+(7) - 1,5 km before Finish
+	OP2
+		Images:	1564
+		Time:	14.09.2025 11:36:29 until 14.09.2025 16:19:33
+		Duration:	04:43:04
+		Location:	50.93198 5.35659
+
+	OP2LS1
+		Images:	1237
+		Time:	14.09.2025 11:47:20 until 14.09.2025 15:42:50
+		Duration:	03:55:30
+		Location:	50.93198 5.35659
+
+(8) - 4,0 km before finish
+	MW2
+		Images:	2484
+		Time:	14.09.2025 11:33:38 until 14.09.2025 15:48:46
+		Duration:	04:15:08
+		Location:	50.92919 5.39064
+
+	MW2LS1
+		Images:	680
+		Time:	14.09.2025 11:33:42 until 14.09.2025 15:56:55
+		Duration:	04:23:13
+		Location:	50.92919 5.39064
+
+	MW2LS2
+		Images:	339
+		Time:	14.09.2025 11:30:50 until 14.09.2025 15:21:56
+		Duration:	03:51:06
+		Location:	50.92919 5.39064
+
+(9) - Finish
+	PATL2
+		Images:	1447
+		Time:	14.09.2025 11:28:29 until 14.09.2025 16:13:30
+		Duration:	04:45:01
+		Location:	50.93283 5.34379
+
+(10) - Impressions / Pano
+	PANO1

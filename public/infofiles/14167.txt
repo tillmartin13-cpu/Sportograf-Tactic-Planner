@@ -1,0 +1,122 @@
+EventId: 14167
+Spots: 18
+Total Images: 40625
+Time:	26.04.2025 07:46:44 to 26.04.2025 17:13:05
+Duration: 09:26:21
+
+(1) - Start
+	JMB1
+		Images:	945
+		Time:	26.04.2025 07:46:44 until 26.04.2025 11:22:54
+		Duration:	03:36:10
+		Location:	36.84625 -2.94974
+
+(2) - 10,0 km
+	JCFJ1
+		Images:	4560
+		Time:	26.04.2025 08:24:36 until 26.04.2025 10:43:37
+		Duration:	02:19:01
+		Location:	36.89625 -2.92917
+
+	JCFJ1LS1
+		Images:	769
+		Time:	26.04.2025 08:52:12 until 26.04.2025 10:44:15
+		Duration:	01:52:03
+		Location:	36.89625 -2.92917
+
+	JCFJ1LS2
+		Images:	928
+		Time:	26.04.2025 08:18:38 until 26.04.2025 10:44:40
+		Duration:	02:26:02
+		Location:	36.89625 -2.92917
+
+(3) - 11 km
+	CCG1
+		Images:	4388
+		Time:	26.04.2025 09:24:01 until 26.04.2025 10:59:07
+		Duration:	01:35:06
+		Location:	36.89869 -2.92533
+
+	CCG1LS1
+		Images:	1048
+		Time:	26.04.2025 09:00:40 until 26.04.2025 11:05:14
+		Duration:	02:04:34
+		Location:	36.89869 -2.92533
+
+	CCG1LS2
+		Images:	1045
+		Time:	26.04.2025 09:19:12 until 26.04.2025 11:05:14
+		Duration:	01:46:02
+		Location:	36.89869 -2.92533
+
+(4) - 13,0 km
+	JMCA1
+		Images:	2583
+		Time:	26.04.2025 09:39:00 until 26.04.2025 11:35:44
+		Duration:	01:56:44
+		Location:	36.89882 -2.92449
+
+(5) - 40 km & 85 km
+	JCFJ2
+		Images:	5147
+		Time:	26.04.2025 11:05:58 until 26.04.2025 16:21:58
+		Duration:	05:16:00
+		Location:	36.89780 -2.92995
+
+	JCFJ2LS1
+		Images:	626
+		Time:	26.04.2025 10:56:29 until 26.04.2025 16:26:45
+		Duration:	05:30:16
+		Location:	36.89625 -2.92917
+
+	JCFJ2LS2
+		Images:	635
+		Time:	26.04.2025 10:57:13 until 26.04.2025 16:31:48
+		Duration:	05:34:35
+		Location:	36.89625 -2.92917
+
+(6) - 41 km & 86 km
+	JMCA2
+		Images:	2362
+		Time:	26.04.2025 11:44:49 until 26.04.2025 16:22:23
+		Duration:	04:37:34
+		Location:	36.89780 -2.92995
+
+	JMCA2LS1
+		Images:	587
+		Time:	26.04.2025 11:49:21 until 26.04.2025 16:22:25
+		Duration:	04:33:04
+		Location:	36.89625 -2.92917
+
+(7) - 42 km & 87 km
+	CCG2
+		Images:	3548
+		Time:	26.04.2025 11:52:04 until 26.04.2025 16:22:12
+		Duration:	04:30:08
+		Location:	36.89629 -2.93102
+
+	CCG2LS1
+		Images:	555
+		Time:	26.04.2025 11:44:34 until 26.04.2025 16:22:07
+		Duration:	04:37:33
+		Location:	36.89629 -2.93102
+
+	CCG2LS2
+		Images:	563
+		Time:	26.04.2025 11:48:32 until 26.04.2025 16:22:07
+		Duration:	04:33:35
+		Location:	36.89629 -2.93102
+
+(8) - Finish
+	JMB2
+		Images:	9717
+		Time:	26.04.2025 11:23:12 until 26.04.2025 17:13:05
+		Duration:	05:49:53
+		Location:	36.83980 -2.94349
+
+	JMB1LS1
+		Images:	619
+		Time:	26.04.2025 10:09:57 until 26.04.2025 16:26:53
+		Duration:	06:16:56
+		Location:	36.89625 -2.92917
+

@@ -1,0 +1,156 @@
+EventId: 14508
+Spots: 23
+Total Images: 84118
+Time:	31.12.2016 23:00:04 to 04.10.2025 20:33:36
+Duration: 3198.21:33:32
+
+(1) - Start
+	JUW1
+		Images:	428
+		Time:	04.10.2025 07:23:43 until 04.10.2025 18:27:10
+		Duration:	11:03:27
+		Location:	51.05202 0.05528
+
+(2) - Start/Various
+	JUW1DRONE1
+		Images:	8
+		Time:	04.10.2025 07:46:24 until 04.10.2025 07:48:24
+		Duration:	00:02:00
+		Location:	51.05202 0.05528
+
+(3) - Barbed Wire Crawl
+	AH1
+		Images:	6987
+		Time:	04.10.2025 07:16:02 until 04.10.2025 19:27:36
+		Duration:	12:11:34
+		Location:	51.05387 0.05883
+
+	JUW2
+		Images:	677
+		Time:	04.10.2025 11:12:52 until 04.10.2025 11:26:45
+		Duration:	00:13:53
+		Location:	51.05387 0.05883
+
+(4) - Sandbag Carry
+	PAS1
+		Images:	6750
+		Time:	04.10.2025 07:21:08 until 04.10.2025 19:46:09
+		Duration:	12:25:01
+		Location:	51.05236 0.06897
+
+	JUW3
+		Images:	684
+		Time:	04.10.2025 12:11:24 until 04.10.2025 12:22:12
+		Duration:	00:10:48
+		Location:	51.05236 0.06897
+
+	DP1LS1
+		Images:	865
+		Time:	04.10.2025 09:49:09 until 04.10.2025 16:13:04
+		Duration:	06:23:55
+		Location:	51.05223 0.06810
+
+(5) - Inverted Wall
+	DP1
+		Images:	10550
+		Time:	04.10.2025 07:15:27 until 04.10.2025 19:45:04
+		Duration:	12:29:37
+		Location:	51.05186 0.06875
+
+	JUW4
+		Images:	766
+		Time:	04.10.2025 11:55:35 until 04.10.2025 12:08:57
+		Duration:	00:13:22
+		Location:	51.05186 0.06875
+
+(6) - Bucket Carry
+	SALA1
+		Images:	5548
+		Time:	04.10.2025 08:07:07 until 04.10.2025 20:09:31
+		Duration:	12:02:24
+		Location:	51.05056 0.05983
+
+	JUW5
+		Images:	1428
+		Time:	04.10.2025 13:04:36 until 04.10.2025 13:28:04
+		Duration:	00:23:28
+		Location:	51.05056 0.05983
+
+(7) - Multi Rig
+	WIC1
+		Images:	23869
+		Time:	04.10.2025 07:06:47 until 04.10.2025 20:11:38
+		Duration:	13:04:51
+		Location:	51.05041 0.05943
+
+	JUW6
+		Images:	657
+		Time:	04.10.2025 13:32:05 until 04.10.2025 13:41:11
+		Duration:	00:09:06
+		Location:	51.05041 0.05943
+
+(8) - Monkey Bars
+	LOT1
+		Images:	8156
+		Time:	04.10.2025 09:17:08 until 04.10.2025 20:20:48
+		Duration:	11:03:40
+		Location:	51.05126 0.05649
+
+	JUW7
+		Images:	409
+		Time:	04.10.2025 13:45:31 until 04.10.2025 13:58:02
+		Duration:	00:12:31
+		Location:	51.05126 0.05649
+
+(9) - Atlas Carry
+	KYY1
+		Images:	6998
+		Time:	04.10.2025 07:46:20 until 04.10.2025 20:22:18
+		Duration:	12:35:58
+		Location:	51.05104 0.05625
+
+	JUW8
+		Images:	285
+		Time:	04.10.2025 14:06:50 until 04.10.2025 14:15:22
+		Duration:	00:08:32
+		Location:	51.05104 0.05625
+
+(10) - Before Fire Jump
+	CUP1LS1
+		Images:	733
+		Time:	04.10.2025 07:25:10 until 04.10.2025 16:59:46
+		Duration:	09:34:36
+		Location:	51.05234 0.05629
+
+(11) - Fire Jump
+	CUP1
+		Images:	4175
+		Time:	04.10.2025 07:42:46 until 04.10.2025 20:31:51
+		Duration:	12:49:05
+		Location:	51.05234 0.05632
+
+	JUW9
+		Images:	634
+		Time:	04.10.2025 14:20:42 until 04.10.2025 16:55:48
+		Duration:	02:35:06
+		Location:	51.05234 0.05632
+
+	JUW9LS1
+		Images:	1268
+		Time:	04.10.2025 10:46:13 until 04.10.2025 17:30:35
+		Duration:	06:44:22
+		Location:	51.05234 0.05632
+
+	JUW9LS2
+		Images:	1050
+		Time:	04.10.2025 10:45:52 until 04.10.2025 17:30:37
+		Duration:	06:44:45
+		Location:	51.05234 0.05632
+
+(12) - Herotent
+	MKH1
+		Images:	1193
+		Time:	31.12.2016 23:00:04 until 04.10.2025 20:33:36
+		Duration:	3198.21:33:32
+		Location:	51.05248 0.05644
+

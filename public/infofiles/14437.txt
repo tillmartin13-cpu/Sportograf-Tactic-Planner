@@ -1,0 +1,132 @@
+EventId: 14437
+Spots: 19
+Total Images: 148938
+Time:	12.09.2025 10:53:27 to 14.09.2025 13:50:50
+Duration: 2.02:57:23
+
+(1) - Obstacle 9 A-Frame Cargo
+	MRKE1
+		Images:	12337
+		Time:	13.09.2025 07:18:51 until 13.09.2025 15:12:02
+		Duration:	07:53:11
+		Location:	43.61513 -72.78725
+
+	VICY6
+		Images:	272
+		Time:	13.09.2025 11:41:59 until 13.09.2025 11:54:25
+		Duration:	00:12:26
+		Location:	43.61513 -72.78725
+
+(2) - Obstacle 11 Barbed Wire Crawl
+	PEC1
+		Images:	34640
+		Time:	12.09.2025 22:46:33 until 14.09.2025 13:50:50
+		Duration:	1.15:04:17
+		Location:	43.61497 -72.78902
+
+	VICY5
+		Images:	514
+		Time:	13.09.2025 11:57:47 until 13.09.2025 12:05:50
+		Duration:	00:08:03
+		Location:	43.61497 -72.78902
+
+(3) - Obstacle 12 Dunk Wall
+	SWDY1
+		Images:	14736
+		Time:	13.09.2025 07:20:51 until 14.09.2025 07:41:51
+		Duration:	1.00:21:00
+		Location:	43.61502 -72.78927
+
+	VICY4
+		Images:	412
+		Time:	13.09.2025 12:09:11 until 13.09.2025 12:30:57
+		Duration:	00:21:46
+		Location:	43.61502 -72.78927
+
+(4) - Obstacle 13 Slip Wall
+	ANMF1
+		Images:	21350
+		Time:	13.09.2025 07:24:57 until 13.09.2025 15:15:59
+		Duration:	07:51:02
+		Location:	43.61508 -72.78941
+
+(5) - Obstacle 17 Armer
+	YEP1
+		Images:	5457
+		Time:	12.09.2025 22:37:06 until 13.09.2025 16:09:45
+		Duration:	17:32:39
+		Location:	43.61466 -72.79577
+
+	EUGP1
+		Images:	4387
+		Time:	13.09.2025 07:48:02 until 13.09.2025 16:26:34
+		Duration:	08:38:32
+		Location:	43.61466 -72.79577
+
+(6) - Mountain View
+	LMB1
+		Images:	7236
+		Time:	13.09.2025 06:00:23 until 14.09.2025 07:50:29
+		Duration:	1.01:50:06
+		Location:	43.60408 -72.81747
+
+(7) - Mountain Top
+	LMB1LS1
+		Images:	5292
+		Time:	13.09.2025 05:56:23 until 13.09.2025 18:01:52
+		Duration:	12:05:29
+		Location:	43.60400 -72.81788
+
+(8) - Obstacle 20 Tyrolean Traverse
+	AAD1
+		Images:	16136
+		Time:	13.09.2025 06:56:31 until 13.09.2025 17:58:11
+		Duration:	11:01:40
+		Location:	43.60236 -72.79930
+
+	JAYA1
+		Images:	9892
+		Time:	12.09.2025 10:53:27 until 14.09.2025 07:49:24
+		Duration:	1.20:55:57
+		Location:	43.60236 -72.79930
+
+(9) - Obstacle 31 Sandbag Carry #2
+	JASP1
+		Images:	6822
+		Time:	13.09.2025 08:51:04 until 13.09.2025 19:19:05
+		Duration:	10:28:01
+		Location:	43.60344 -72.78366
+
+	VICY3
+		Images:	546
+		Time:	13.09.2025 12:55:01 until 13.09.2025 13:09:19
+		Duration:	00:14:18
+		Location:	43.60344 -72.78366
+
+(10) - Obstacle 34 Fire Jump
+	WMY1
+		Images:	5080
+		Time:	13.09.2025 07:41:03 until 14.09.2025 07:52:13
+		Duration:	1.00:11:10
+		Location:	43.60211 -72.78416
+
+	VICY2
+		Images:	556
+		Time:	13.09.2025 13:12:42 until 13.09.2025 13:27:09
+		Duration:	00:14:27
+		Location:	43.60211 -72.78416
+
+(11) - Herotent
+	JAYK1
+		Images:	2472
+		Time:	13.09.2025 09:41:52 until 14.09.2025 07:54:12
+		Duration:	22:12:20
+		Location:	43.60194 -72.78427
+
+(12) - Venue
+	VICY1
+		Images:	800
+		Time:	13.09.2025 08:42:27 until 14.09.2025 10:17:11
+		Duration:	1.01:34:44
+		Location:	43.60194 -72.78427
+

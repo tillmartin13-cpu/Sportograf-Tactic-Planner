@@ -1,0 +1,615 @@
+EventId: 17266
+Spots: 108
+Total Images: 532479
+Time:	01.01.0001 23:00:00 to 04.07.2025 23:01:30
+Duration: 739435.00:01:30
+
+(1) - 0,0 km 861506 MSC 1 William Lofton
+	GWLOF1
+(2) - 0,0 km 861507 MSC 1 Chilion
+	GCTHO1
+(3) - 0,0 km 861508 MSC 1 BLayr
+	GBCAR1
+(4) - 0,0 km 861509 MSC 1 Mo
+	GMSAR1
+(5) - 0,0 km 861510 MSC 1 Trigger1
+	GJDAV1LS1
+(6) - 0,0 km 861511 MSC1 Trigger 2
+	GJDAV1LS2
+(7) - 0,0 km Candid Nathaniel Fields
+	GNFIE1
+		Images:	350
+		Time:	04.07.2025 05:28:33 until 04.07.2025 07:42:18
+		Duration:	02:13:45
+		Location:	NULL NULL
+
+(8) - 0,0 km Candids Angie Penagos
+	GAPEN1
+		Images:	442
+		Time:	04.07.2025 16:22:23 until 04.07.2025 19:04:46
+		Duration:	02:42:23
+		Location:	NULL NULL
+
+(9) - 0,0 km Candids Anthony Caldwell
+	GACAL1
+		Images:	696
+		Time:	03.07.2025 19:50:01 until 03.07.2025 22:50:44
+		Duration:	03:00:43
+		Location:	NULL NULL
+
+(10) - 0,0 km Candids Coleen Yontz
+	GCYON1
+		Images:	252
+		Time:	04.07.2025 06:38:02 until 04.07.2025 08:27:59
+		Duration:	01:49:57
+		Location:	NULL NULL
+
+(11) - 0,0 km Candids Derrick Walker
+	GDWAL1
+		Images:	607
+		Time:	04.07.2025 05:40:39 until 04.07.2025 08:41:09
+		Duration:	03:00:30
+		Location:	NULL NULL
+
+(12) - 0,0 km Candids Dillion Evans
+	GDEVA1
+		Images:	1038
+		Time:	04.07.2025 06:58:24 until 04.07.2025 08:22:44
+		Duration:	01:24:20
+		Location:	NULL NULL
+
+(13) - 0,0 km Candids Dominic Thurston
+	GDTHU1
+(14) - 0,0 km Candids Faith Thomas
+	GFTHO1
+(15) - 0,0 km Candids Lance Thomas
+	GLTH1
+(16) - 0,0 km Candids Marcus Williams
+	GMWIL1
+		Images:	29
+		Time:	04.07.2025 05:36:51 until 04.07.2025 08:30:04
+		Duration:	02:53:13
+		Location:	NULL NULL
+
+(17) - 0,0 km Candids Montreal Thomas
+	GMTHO1
+		Images:	245
+		Time:	04.07.2025 06:04:11 until 04.07.2025 08:14:22
+		Duration:	02:10:11
+		Location:	NULL NULL
+
+(18) - 0,0 km Candids Nick Stanner
+	GNSTA1
+		Images:	930
+		Time:	04.07.2025 05:44:58 until 04.07.2025 08:17:41
+		Duration:	02:32:43
+		Location:	NULL NULL
+
+(19) - 0,0 km Candids Olivia Baker
+	GOBAK1
+		Images:	376
+		Time:	04.07.2025 05:40:43 until 04.07.2025 08:18:23
+		Duration:	02:37:40
+		Location:	NULL NULL
+
+(20) - 0,0 km Candids Shayla Thomas
+	GSTHO1
+		Images:	422
+		Time:	04.07.2025 05:39:08 until 04.07.2025 08:38:13
+		Duration:	02:59:05
+		Location:	NULL NULL
+
+(21) - 0,0 km Candids Susan Steward
+	GSTEW1
+		Images:	503
+		Time:	04.07.2025 06:25:53 until 04.07.2025 08:01:31
+		Duration:	01:35:38
+		Location:	NULL NULL
+
+(22) - 0,0 km Candids Yventz Lange
+	GYLAN1
+		Images:	1021
+		Time:	04.07.2025 05:46:29 until 04.07.2025 08:10:59
+		Duration:	02:24:30
+		Location:	NULL NULL
+
+(23) - 0,0 km Finish 861566
+	GFIN2
+		Images:	11752
+		Time:	04.07.2025 05:14:29 until 04.07.2025 10:51:52
+		Duration:	05:37:23
+		Location:	NULL NULL
+
+(24) - 0,0 km FInish 861567
+	GFIN1
+		Images:	11941
+		Time:	31.12.2006 18:00:04 until 04.07.2025 07:01:11
+		Duration:	6759.13:01:07
+		Location:	NULL NULL
+
+(25) - 0,0 km Start Susan Stewar
+	GSTEW2
+		Images:	83
+		Time:	04.07.2025 05:45:28 until 04.07.2025 06:22:31
+		Duration:	00:37:03
+		Location:	NULL NULL
+
+(26) - 0.0 km
+	DJODY1
+		Images:	12644
+		Time:	04.07.2025 06:31:35 until 04.07.2025 10:58:17
+		Duration:	04:26:42
+		Location:	NULL NULL
+
+	DMAUR1
+		Images:	5664
+		Time:	04.07.2025 06:30:57 until 04.07.2025 08:12:59
+		Duration:	01:42:02
+		Location:	NULL NULL
+
+	DMAUR2
+		Images:	2472
+		Time:	04.07.2025 08:14:39 until 04.07.2025 08:39:10
+		Duration:	00:24:31
+		Location:	NULL NULL
+
+	DMAXW1
+	DMAXW2
+	DSAMT1
+	DSAMT2
+	DSHAR1
+		Images:	7385
+		Time:	04.07.2025 06:27:52 until 04.07.2025 09:52:15
+		Duration:	03:24:23
+		Location:	NULL NULL
+
+(27) - 0.0 km 861556 Finish Trigger Ground Left
+	CSGEN5
+(28) - 0.0 km 861557 Finish Ground Right
+	CSGEN6
+(29) - 0.0 km 861566 Finish trigger Center
+	CSGEN4
+(30) - 0.0 km Banners
+	CAF1
+		Images:	789
+		Time:	03.07.2025 19:20:53 until 03.07.2025 22:58:55
+		Duration:	03:38:02
+		Location:	NULL NULL
+
+	CBR1
+		Images:	1124
+		Time:	04.07.2025 07:27:52 until 04.07.2025 10:54:07
+		Duration:	03:26:15
+		Location:	NULL NULL
+
+	CCT1
+		Images:	1128
+		Time:	04.07.2025 07:30:59 until 04.07.2025 11:03:54
+		Duration:	03:32:55
+		Location:	NULL NULL
+
+	CDP1
+		Images:	656
+		Time:	04.07.2025 06:58:04 until 04.07.2025 11:13:39
+		Duration:	04:15:35
+		Location:	NULL NULL
+
+	CDV1
+		Images:	8913
+		Time:	04.07.2025 07:11:52 until 04.07.2025 11:12:41
+		Duration:	04:00:49
+		Location:	NULL NULL
+
+	CSK1
+		Images:	558
+		Time:	04.07.2025 07:33:26 until 04.07.2025 12:02:43
+		Duration:	04:29:17
+		Location:	NULL NULL
+
+(31) - 0.0 km brooklyn prewett, msc 2, 861573
+	HBROO1
+		Images:	13313
+		Time:	04.07.2025 06:40:32 until 04.07.2025 10:35:42
+		Duration:	03:55:10
+		Location:	NULL NULL
+
+(32) - 0.0 km Candids 861488 Marcus Williams
+	DMWIL1
+		Images:	990
+		Time:	04.07.2025 05:36:51 until 04.07.2025 08:32:11
+		Duration:	02:55:20
+		Location:	NULL NULL
+
+(33) - 0.0 km JRob Press Truck 861478
+	HJROB1
+		Images:	292
+		Time:	04.07.2025 06:23:08 until 04.07.2025 07:14:29
+		Duration:	00:51:21
+		Location:	NULL NULL
+
+	HJROB2
+		Images:	120
+		Time:	04.07.2025 05:07:29 until 04.07.2025 07:12:55
+		Duration:	02:05:26
+		Location:	NULL NULL
+
+(34) - 0.0 km left trigger, 861564
+	HLGT1
+		Images:	10272
+		Time:	04.07.2025 07:24:13 until 04.07.2025 10:15:39
+		Duration:	02:51:26
+		Location:	NULL NULL
+
+(35) - 0.0 km Mass 861503 Trigger
+	CSGEN1
+		Images:	11974
+		Time:	01.01.0001 23:00:00 until 04.07.2025 10:49:18
+		Duration:	739434.11:49:18
+		Location:	NULL NULL
+
+(36) - 0.0 km MASS Joe Rich 861500
+	CJRIC1
+		Images:	2407
+		Time:	04.07.2025 09:55:48 until 04.07.2025 10:42:16
+		Duration:	00:46:28
+		Location:	NULL NULL
+
+	CJRIC2
+		Images:	9338
+		Time:	04.07.2025 06:52:52 until 04.07.2025 08:45:07
+		Duration:	01:52:15
+		Location:	NULL NULL
+
+	CJRIC3
+		Images:	8125
+		Time:	04.07.2025 08:47:08 until 04.07.2025 09:52:38
+		Duration:	01:05:30
+		Location:	NULL NULL
+
+(37) - 0.0 km Mass Trigger 861504
+	CJRIC3LS1
+		Images:	4107
+		Time:	04.07.2025 05:33:39 until 04.07.2025 09:38:37
+		Duration:	04:04:58
+		Location:	NULL NULL
+
+(38) - 0.0 km Medals
+	CCB1
+		Images:	6297
+		Time:	04.07.2025 07:28:34 until 04.07.2025 10:58:12
+		Duration:	03:29:38
+		Location:	NULL NULL
+
+	CDH1
+		Images:	2456
+		Time:	04.07.2025 06:48:59 until 04.07.2025 10:48:05
+		Duration:	03:59:06
+		Location:	NULL NULL
+
+	CGB1
+		Images:	1863
+		Time:	03.07.2025 06:57:19 until 03.07.2025 10:53:59
+		Duration:	03:56:40
+		Location:	NULL NULL
+
+	CJS1
+		Images:	4037
+		Time:	04.07.2025 06:49:15 until 04.07.2025 10:51:17
+		Duration:	04:02:02
+		Location:	NULL NULL
+
+	CMW1
+		Images:	1945
+		Time:	04.07.2025 06:47:32 until 04.07.2025 10:59:11
+		Duration:	04:11:39
+		Location:	NULL NULL
+
+	CPK1
+		Images:	6660
+		Time:	04.07.2025 07:43:44 until 04.07.2025 11:05:45
+		Duration:	03:22:01
+		Location:	NULL NULL
+
+	CRS1
+		Images:	2463
+		Time:	04.07.2025 06:51:35 until 04.07.2025 10:52:47
+		Duration:	04:01:12
+		Location:	NULL NULL
+
+	CSG1
+		Images:	3386
+		Time:	04.07.2025 07:25:07 until 04.07.2025 10:49:46
+		Duration:	03:24:39
+		Location:	NULL NULL
+
+	CTM1
+		Images:	1459
+		Time:	04.07.2025 07:06:42 until 04.07.2025 10:54:31
+		Duration:	03:47:49
+		Location:	NULL NULL
+
+(39) - 0.0 km MSC 1 861509 Mo sargent
+	DMOSA1
+		Images:	12424
+		Time:	04.07.2025 06:18:21 until 04.07.2025 09:58:57
+		Duration:	03:40:36
+		Location:	NULL NULL
+
+(40) - 0.0 km MSC 1 861511 Trigger 1
+	CSGEN3
+		Images:	12516
+		Time:	04.07.2025 06:22:54 until 04.07.2025 09:51:48
+		Duration:	03:28:54
+		Location:	NULL NULL
+
+(41) - 0.0 km MSC 2 861536 Trrigger 1
+	DAKRI1LS1
+		Images:	9988
+		Time:	04.07.2025 06:09:46 until 04.07.2025 09:27:12
+		Duration:	03:17:26
+		Location:	NULL NULL
+
+(42) - 0.0 km MSC 2 861570 Alexander
+	DAKRI1
+		Images:	11569
+		Time:	04.07.2025 06:28:57 until 04.07.2025 08:39:39
+		Duration:	02:10:42
+		Location:	NULL NULL
+
+	DAKRI2
+		Images:	10367
+		Time:	04.07.2025 08:39:39 until 04.07.2025 10:31:53
+		Duration:	01:52:14
+		Location:	NULL NULL
+
+(43) - 0.0 km MSC 2 COdu curatolo
+	DCURT1
+		Images:	20803
+		Time:	04.07.2025 06:31:24 until 04.07.2025 10:31:51
+		Duration:	04:00:27
+		Location:	NULL NULL
+
+(44) - 0.0 km MSC 3
+	CAM1
+		Images:	10321
+		Time:	04.07.2025 06:28:47 until 04.07.2025 10:44:47
+		Duration:	04:16:00
+		Location:	NULL NULL
+
+	CBC1
+	CDO1
+	CEA1
+		Images:	11842
+		Time:	04.07.2025 06:29:48 until 04.07.2025 10:43:06
+		Duration:	04:13:18
+		Location:	NULL NULL
+
+	CGT1
+		Images:	15677
+		Time:	04.07.2025 06:03:40 until 04.07.2025 09:22:56
+		Duration:	03:19:16
+		Location:	NULL NULL
+
+	CGT1LS1
+		Images:	23579
+		Time:	01.01.0001 23:00:00 until 31.12.2013 23:00:26
+		Duration:	735232.00:00:26
+		Location:	NULL NULL
+
+	CGT1LS2
+		Images:	12524
+		Time:	04.07.2025 06:20:16 until 04.07.2025 10:46:27
+		Duration:	04:26:11
+		Location:	NULL NULL
+
+	CJA1
+		Images:	1395
+		Time:	03.07.2025 17:33:19 until 04.07.2025 10:42:00
+		Duration:	17:08:41
+		Location:	NULL NULL
+
+(45) - 0.0 km MSC 3 Trigger 861534
+	CSGEN2
+(46) - 0.0 km MSC1 861505 Johari
+	HJDAV1
+		Images:	7040
+		Time:	04.07.2025 08:29:30 until 04.07.2025 09:45:22
+		Duration:	01:15:52
+		Location:	NULL NULL
+
+(47) - 0.0 km MSC1 861506 William
+	HWLOF1
+		Images:	8101
+		Time:	04.07.2025 08:20:05 until 04.07.2025 09:36:47
+		Duration:	01:16:42
+		Location:	NULL NULL
+
+(48) - 0.0 km MSC2 861575 Trigger
+	HSSSS1
+		Images:	10776
+		Time:	04.07.2025 06:02:10 until 04.07.2025 10:40:00
+		Duration:	04:37:50
+		Location:	NULL NULL
+
+(49) - 0.0 km Platform
+	CDB1
+		Images:	661
+		Time:	04.07.2025 06:59:50 until 04.07.2025 11:07:28
+		Duration:	04:07:38
+		Location:	NULL NULL
+
+	CJB1
+		Images:	650
+		Time:	04.07.2025 07:03:28 until 04.07.2025 11:04:33
+		Duration:	04:01:05
+		Location:	NULL NULL
+
+	CKA1
+		Images:	838
+		Time:	04.07.2025 06:58:43 until 04.07.2025 11:03:19
+		Duration:	04:04:36
+		Location:	NULL NULL
+
+	CLS1
+		Images:	1690
+		Time:	03.07.2025 19:11:55 until 04.07.2025 23:01:30
+		Duration:	1.03:49:35
+		Location:	NULL NULL
+
+	CSL1
+		Images:	695
+		Time:	04.07.2025 07:04:50 until 04.07.2025 11:02:07
+		Duration:	03:57:17
+		Location:	NULL NULL
+
+	CTT1
+		Images:	471
+		Time:	04.07.2025 07:31:23 until 04.07.2025 10:49:49
+		Duration:	03:18:26
+		Location:	NULL NULL
+
+(50) - 0.0 km Pre Fin 861537 Jeff
+	HJLAU1
+		Images:	25139
+		Time:	04.07.2025 06:30:55 until 04.07.2025 10:55:03
+		Duration:	04:24:08
+		Location:	NULL NULL
+
+(51) - 0.0 km Pre Fin 861538 Julio
+	HJMOR1
+		Images:	12001
+		Time:	04.07.2025 06:27:29 until 04.07.2025 09:39:28
+		Duration:	03:11:59
+		Location:	NULL NULL
+
+(52) - 0.0 km Pre Fin 861539 Jonathan
+	HJROB3
+		Images:	10493
+		Time:	04.07.2025 07:39:05 until 04.07.2025 11:00:36
+		Duration:	03:21:31
+		Location:	NULL NULL
+
+(53) - 0.0 km Pre Fin 861540 Toby
+	HTCHE1
+		Images:	9941
+		Time:	04.07.2025 09:26:36 until 04.07.2025 11:00:12
+		Duration:	01:33:36
+		Location:	NULL NULL
+
+(54) - 0.0 km Pre FIn 861541 Samantha
+	DSGAR1
+		Images:	7196
+		Time:	04.07.2025 06:32:30 until 04.07.2025 11:01:08
+		Duration:	04:28:38
+		Location:	NULL NULL
+
+(55) - 0.0 km Pre FIn 861542 William
+	DWCOU1
+		Images:	8987
+		Time:	04.07.2025 06:16:04 until 04.07.2025 10:21:26
+		Duration:	04:05:22
+		Location:	NULL NULL
+
+(56) - 0.0 km pre finish left trigger, 861543
+	HPFLE1
+		Images:	6357
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(57) - 0.0 km right ground, 861544
+	RGROU1
+		Images:	17651
+		Time:	04.07.2025 06:03:44 until 04.07.2025 11:01:08
+		Duration:	04:57:24
+		Location:	NULL NULL
+
+(58) - 0.0 km right trigger, 861565
+	HRTRI1
+		Images:	18063
+		Time:	31.05.2025 11:43:17 until 04.07.2025 10:49:08
+		Duration:	33.23:05:51
+		Location:	NULL NULL
+
+(59) - 0.0 km Toby Press Truck
+	DTCHE1
+		Images:	863
+		Time:	04.07.2025 06:27:32 until 04.07.2025 07:14:00
+		Duration:	00:46:28
+		Location:	NULL NULL
+
+(60) - Impressions / Pano
+	PANO1
+(61) - none
+	DAKRI2LS1
+		Images:	2450
+		Time:	31.05.2025 17:01:38 until 04.07.2025 10:11:27
+		Duration:	33.17:09:49
+		Location:	NULL NULL
+
+	DGUS1
+		Images:	6639
+		Time:	04.07.2025 07:49:11 until 04.07.2025 08:31:34
+		Duration:	00:42:23
+		Location:	NULL NULL
+
+	DGUS2
+		Images:	8316
+		Time:	04.07.2025 09:24:13 until 04.07.2025 10:42:16
+		Duration:	01:18:03
+		Location:	NULL NULL
+
+	DSHAR2
+		Images:	1668
+		Time:	04.07.2025 09:52:16 until 04.07.2025 10:22:40
+		Duration:	00:30:24
+		Location:	NULL NULL
+
+	DWALT1
+		Images:	5729
+		Time:	04.07.2025 07:32:16 until 04.07.2025 08:20:54
+		Duration:	00:48:38
+		Location:	NULL NULL
+
+	DWALT2
+		Images:	3243
+		Time:	04.07.2025 09:24:15 until 04.07.2025 10:38:15
+		Duration:	01:14:00
+		Location:	NULL NULL
+
+	DWCOU2
+		Images:	1030
+		Time:	04.07.2025 10:22:11 until 04.07.2025 10:56:04
+		Duration:	00:33:53
+		Location:	NULL NULL
+
+	HJDAV2
+		Images:	10472
+		Time:	04.07.2025 06:26:57 until 04.07.2025 08:25:57
+		Duration:	01:59:00
+		Location:	NULL NULL
+
+	HJMOR2
+		Images:	3952
+		Time:	04.07.2025 09:43:52 until 04.07.2025 10:58:23
+		Duration:	01:14:31
+		Location:	NULL NULL
+
+	HTCHE2
+		Images:	15521
+		Time:	04.07.2025 07:18:12 until 04.07.2025 09:25:33
+		Duration:	02:07:21
+		Location:	NULL NULL
+
+	HWLOF2
+		Images:	8511
+		Time:	04.07.2025 06:27:44 until 04.07.2025 08:13:28
+		Duration:	01:45:44
+		Location:	NULL NULL
+
+	HWLOF3
+		Images:	806
+		Time:	04.07.2025 09:38:07 until 04.07.2025 10:02:05
+		Duration:	00:23:58
+		Location:	NULL NULL
+

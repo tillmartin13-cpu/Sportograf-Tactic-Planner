@@ -1,0 +1,190 @@
+EventId: 15647
+Spots: 29
+Total Images: 162981
+Time:	23.08.2025 08:40:29 to 24.08.2026 11:15:31
+Duration: 366.02:35:02
+
+(1) - Start
+	CMS1
+		Images:	7561
+		Time:	24.08.2025 07:40:32 until 24.08.2025 09:33:33
+		Duration:	01:53:01
+		Location:	51.55783 -0.27800
+
+	CNS1
+		Images:	4527
+		Time:	23.08.2026 22:43:06 until 24.08.2026 09:52:35
+		Duration:	11:09:29
+		Location:	51.55783 -0.27800
+
+	WIN1
+		Images:	3353
+		Time:	24.08.2025 08:16:57 until 24.08.2025 09:51:41
+		Duration:	01:34:44
+		Location:	51.55783 -0.27800
+
+	KMIN1
+		Images:	4473
+		Time:	23.08.2025 08:40:29 until 24.08.2025 09:51:32
+		Duration:	1.01:11:03
+		Location:	51.55783 -0.27800
+
+(2) - ROCK YOUR DRUM
+	SHP1
+		Images:	6008
+		Time:	24.08.2025 07:49:45 until 24.08.2025 10:13:17
+		Duration:	02:23:32
+		Location:	51.55577 -0.26601
+
+(3) - PINK CAR PARK
+	DANO1
+		Images:	10598
+		Time:	24.08.2025 08:29:26 until 24.08.2025 09:53:54
+		Duration:	01:24:28
+		Location:	51.55494 -0.27501
+
+	MSO1
+		Images:	5195
+		Time:	24.08.2025 09:06:16 until 24.08.2025 09:53:54
+		Duration:	00:47:38
+		Location:	51.55494 -0.27501
+
+(4) - ASICS TUNNEL
+	LOT1
+		Images:	4989
+		Time:	24.08.2025 09:06:44 until 24.08.2025 10:25:52
+		Duration:	01:19:08
+		Location:	51.55494 -0.27501
+
+(5) - BOBBY MOORE BRIDGE
+	SHAK1
+		Images:	2793
+		Time:	24.08.2025 08:08:58 until 24.08.2025 10:32:54
+		Duration:	02:23:56
+		Location:	51.56285 -0.28184
+
+	STHH1
+		Images:	4759
+		Time:	24.08.2025 08:13:41 until 24.08.2025 10:41:31
+		Duration:	02:27:50
+		Location:	51.56285 -0.28184
+
+(6) - EMPIRE WAY
+	PAS1
+		Images:	7227
+		Time:	24.08.2025 08:08:32 until 24.08.2025 10:41:07
+		Duration:	02:32:35
+		Location:	51.55854 -0.28671
+
+	PAS1LS1
+		Images:	2256
+		Time:	24.08.2025 08:24:38 until 24.08.2025 10:36:06
+		Duration:	02:11:28
+		Location:	51.55854 -0.28671
+
+(7) - 8.5 km
+	AH1
+		Images:	9076
+		Time:	24.08.2025 08:44:19 until 24.08.2025 11:12:05
+		Duration:	02:27:46
+		Location:	51.55731 -0.27983
+
+(8) - FULTON ROAD
+	BKO1
+		Images:	7882
+		Time:	24.08.2025 09:30:01 until 24.08.2025 10:44:16
+		Duration:	01:14:15
+		Location:	51.56082 -0.28197
+
+	BKO1LS1
+		Images:	2672
+		Time:	24.08.2025 09:21:57 until 24.08.2025 11:12:26
+		Duration:	01:50:29
+		Location:	51.56082 -0.28197
+
+	BKO1LS2
+		Images:	2742
+		Time:	24.08.2025 08:23:53 until 24.08.2025 11:12:56
+		Duration:	02:49:03
+		Location:	51.56082 -0.28197
+
+(9) - OLYMPIC WAY
+	CH1
+		Images:	13608
+		Time:	24.08.2025 08:39:09 until 24.08.2025 11:12:34
+		Duration:	02:33:25
+		Location:	51.56236 -0.28230
+
+	CH1LS1
+		Images:	5589
+		Time:	24.08.2025 09:30:37 until 24.08.2025 11:21:42
+		Duration:	01:51:05
+		Location:	51.56236 -0.28230
+
+	SHP2
+		Images:	1545
+		Time:	24.08.2025 10:31:26 until 24.08.2025 11:21:06
+		Duration:	00:49:40
+		Location:	51.56082 -0.28197
+
+	CNS2
+		Images:	6939
+		Time:	24.08.2026 09:55:11 until 24.08.2026 11:15:31
+		Duration:	01:20:20
+		Location:	51.56082 -0.28197
+
+	WIN2
+		Images:	4488
+		Time:	24.08.2025 09:56:22 until 24.08.2025 11:23:08
+		Duration:	01:26:46
+		Location:	51.56082 -0.28197
+
+	KMIN2
+		Images:	4732
+		Time:	24.08.2025 09:54:55 until 24.08.2025 11:15:30
+		Duration:	01:20:35
+		Location:	51.56082 -0.28197
+
+	DP1LS1
+		Images:	3296
+		Time:	24.08.2025 08:18:22 until 24.08.2025 11:17:13
+		Duration:	02:58:51
+		Location:	51.55994 -0.28231
+
+	DP1LS2
+		Images:	2035
+		Time:	24.08.2025 08:21:08 until 24.08.2025 11:05:25
+		Duration:	02:44:17
+		Location:	51.55994 -0.28231
+
+(10) - Finish
+	DP1
+		Images:	11950
+		Time:	23.08.2025 17:55:05 until 24.08.2025 11:15:45
+		Duration:	17:20:40
+		Location:	51.55994 -0.28231
+
+	JUW1
+		Images:	8334
+		Time:	24.08.2025 08:16:28 until 24.08.2025 10:22:02
+		Duration:	02:05:34
+		Location:	51.55994 -0.28231
+
+	JUW1LS1
+		Images:	1652
+		Time:	24.08.2025 08:07:21 until 24.08.2025 11:05:14
+		Duration:	02:57:53
+		Location:	51.55994 -0.28231
+
+	JUW1LS2
+		Images:	3240
+		Time:	24.08.2025 08:07:21 until 24.08.2025 11:08:32
+		Duration:	03:01:11
+		Location:	51.55994 -0.28231
+
+	CMS2
+		Images:	9462
+		Time:	24.08.2025 09:55:20 until 24.08.2025 11:23:53
+		Duration:	01:28:33
+		Location:	51.55994 -0.28231
+

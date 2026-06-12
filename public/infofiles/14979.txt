@@ -1,0 +1,493 @@
+EventId: 14979
+Spots: 74
+Total Images: 498102
+Time:	01.01.0001 23:00:00 to 03.02.2025 02:30:13
+Duration: 739283.03:30:13
+
+(1) - 0.0 km Banners
+	BSC1
+		Images:	133
+		Time:	02.02.2025 10:53:31 until 02.02.2025 12:29:32
+		Duration:	01:36:01
+		Location:	NULL NULL
+
+(2) - 0.0 km Fin Trigger Full
+	ASGEN3
+		Images:	12641
+		Time:	02.02.2025 08:35:00 until 02.02.2025 12:22:58
+		Duration:	03:47:58
+		Location:	NULL NULL
+
+(3) - 0.0 km Fin Trigger Half
+	ASGEN2
+		Images:	15745
+		Time:	02.02.2025 06:03:05 until 02.02.2025 10:37:07
+		Duration:	04:34:02
+		Location:	NULL NULL
+
+(4) - 0.0 km Finish Allan
+	BAN1
+		Images:	29422
+		Time:	02.02.2025 06:55:57 until 02.02.2025 13:02:37
+		Duration:	06:06:40
+		Location:	NULL NULL
+
+(5) - 0.0 km Jason Budd Top view
+	BJB1
+		Images:	30064
+		Time:	02.02.2025 06:03:13 until 02.02.2025 13:01:34
+		Duration:	06:58:21
+		Location:	NULL NULL
+
+(6) - 0.0 km Medals
+	BJD1
+		Images:	3064
+		Time:	02.02.2025 06:18:15 until 02.02.2025 11:12:28
+		Duration:	04:54:13
+		Location:	NULL NULL
+
+	BMM1
+		Images:	6185
+		Time:	02.02.2025 06:22:47 until 02.02.2025 10:31:42
+		Duration:	04:08:55
+		Location:	NULL NULL
+
+(7) - 0.0 km Medals Chris Charcon
+	ZCCHA1
+		Images:	2934
+		Time:	02.02.2025 06:15:58 until 02.02.2025 08:21:56
+		Duration:	02:05:58
+		Location:	NULL NULL
+
+(8) - 0.0 km MSC 1 Alan
+	AANG1
+		Images:	3679
+		Time:	02.02.2025 05:05:02 until 02.02.2025 05:49:53
+		Duration:	00:44:51
+		Location:	NULL NULL
+
+	AANG2
+		Images:	1549
+		Time:	02.02.2025 05:49:53 until 02.02.2025 06:00:24
+		Duration:	00:10:31
+		Location:	NULL NULL
+
+(9) - 0.0 km MSC 1 Silvio
+	ASCAM1
+		Images:	1886
+		Time:	02.02.2025 06:00:32 until 02.02.2025 06:52:11
+		Duration:	00:51:39
+		Location:	NULL NULL
+
+	ASCAM2
+		Images:	415
+		Time:	02.02.2025 06:52:13 until 02.02.2025 07:01:16
+		Duration:	00:09:03
+		Location:	NULL NULL
+
+(10) - 0.0 km MSC 1 TOm
+	ATMEN1
+		Images:	963
+		Time:	02.02.2025 05:49:22 until 02.02.2025 05:59:04
+		Duration:	00:09:42
+		Location:	NULL NULL
+
+	ATMEN2
+		Images:	3348
+		Time:	02.02.2025 04:11:53 until 02.02.2025 05:49:21
+		Duration:	01:37:28
+		Location:	NULL NULL
+
+(11) - 0.0 km MSC 1 Trent
+	ATWEL1
+		Images:	1008
+		Time:	02.02.2025 04:38:30 until 02.02.2025 05:46:10
+		Duration:	01:07:40
+		Location:	NULL NULL
+
+	ATWEL2
+		Images:	466
+		Time:	02.02.2025 05:46:17 until 02.02.2025 06:05:13
+		Duration:	00:18:56
+		Location:	NULL NULL
+
+(12) - 0.0 km MSC 1 Wyma
+	AWYON2
+		Images:	370
+		Time:	02.02.2025 05:50:47 until 02.02.2025 05:59:58
+		Duration:	00:09:11
+		Location:	NULL NULL
+
+(13) - 0.0 km MSC 1 Wyman
+	AWYON1
+		Images:	1185
+		Time:	02.02.2025 05:01:34 until 02.02.2025 05:50:18
+		Duration:	00:48:44
+		Location:	NULL NULL
+
+(14) - 0.0 km MSC 10 Gus
+	AGARG1
+		Images:	3617
+		Time:	02.02.2025 09:54:44 until 02.02.2025 11:47:29
+		Duration:	01:52:45
+		Location:	NULL NULL
+
+(15) - 0.0 km MSC 10 Manuel
+	AMSAN1
+		Images:	3310
+		Time:	02.02.2025 09:48:56 until 02.02.2025 12:22:23
+		Duration:	02:33:27
+		Location:	NULL NULL
+
+(16) - 0.0 km MSC 10 Oscar
+	AOOCH2
+		Images:	3740
+		Time:	02.02.2025 09:49:49 until 02.02.2025 12:27:25
+		Duration:	02:37:36
+		Location:	NULL NULL
+
+(17) - 0.0 km MSC 10 Randy
+	ARSCH2
+		Images:	1775
+		Time:	02.02.2025 10:17:41 until 02.02.2025 12:05:27
+		Duration:	01:47:46
+		Location:	NULL NULL
+
+(18) - 0.0 km MSC 2 Andres Mendoza
+	AAMEN1
+		Images:	335
+		Time:	02.02.2025 04:54:21 until 02.02.2025 05:52:06
+		Duration:	00:57:45
+		Location:	NULL NULL
+
+	AAMEN2
+		Images:	2489
+		Time:	02.02.2025 05:52:18 until 02.02.2025 06:46:34
+		Duration:	00:54:16
+		Location:	NULL NULL
+
+(19) - 0.0 km MSC 2 Juan
+	AJORT1
+		Images:	1340
+		Time:	02.02.2025 05:06:27 until 02.02.2025 05:46:18
+		Duration:	00:39:51
+		Location:	NULL NULL
+
+	AJORT2
+		Images:	4081
+		Time:	02.02.2025 05:46:22 until 02.02.2025 06:45:09
+		Duration:	00:58:47
+		Location:	NULL NULL
+
+	AJORT2LS2
+		Images:	999
+		Time:	02.02.2025 07:02:26 until 02.02.2025 07:35:42
+		Duration:	00:33:16
+		Location:	NULL NULL
+
+	AJORT2LS3
+		Images:	238
+		Time:	02.02.2025 07:35:44 until 02.02.2025 07:43:38
+		Duration:	00:07:54
+		Location:	NULL NULL
+
+(20) - 0.0 km MSC 2 Silvio
+	ASORT1
+		Images:	250
+		Time:	02.02.2025 19:10:04 until 02.02.2025 19:39:03
+		Duration:	00:28:59
+		Location:	NULL NULL
+
+	ASORT2
+		Images:	3060
+		Time:	02.02.2025 19:51:35 until 02.02.2025 20:44:45
+		Duration:	00:53:10
+		Location:	NULL NULL
+
+(21) - 0.0 km MSC 2 Trigger
+	AJORT2LS1
+		Images:	999
+		Time:	02.02.2025 05:55:39 until 02.02.2025 07:02:24
+		Duration:	01:06:45
+		Location:	NULL NULL
+
+(22) - 0.0 km MSC 4 nataniuel
+	ANAT1
+		Images:	5498
+		Time:	02.02.2025 05:29:44 until 02.02.2025 08:32:52
+		Duration:	03:03:08
+		Location:	NULL NULL
+
+(23) - 0.0 km MSC 4 Randy
+	ARSCH1
+		Images:	5628
+		Time:	01.02.2025 18:45:50 until 02.02.2025 08:38:28
+		Duration:	13:52:38
+		Location:	NULL NULL
+
+(24) - 0.0 km MSC 4 Terigger
+	ARSCH1LS1
+		Images:	8167
+		Time:	01.02.2025 18:23:58 until 02.02.2025 08:31:00
+		Duration:	14:07:02
+		Location:	NULL NULL
+
+(25) - 0.0 km MSC 5 Bronson
+	ABHAR1
+		Images:	1021
+		Time:	02.02.2025 07:42:01 until 02.02.2025 09:06:57
+		Duration:	01:24:56
+		Location:	NULL NULL
+
+	ABHAR2
+		Images:	5228
+		Time:	02.02.2025 05:40:08 until 02.02.2025 09:04:25
+		Duration:	03:24:17
+		Location:	NULL NULL
+
+(26) - 0.0 km MSC 5 Christian
+	ACGAI1
+		Images:	3562
+		Time:	02.02.2025 05:34:21 until 02.02.2025 08:59:11
+		Duration:	03:24:50
+		Location:	NULL NULL
+
+(27) - 0.0 km MSC 5 Trigger
+	ABHAR2LS1
+		Images:	19353
+		Time:	02.02.2025 05:56:37 until 02.02.2025 08:58:10
+		Duration:	03:01:33
+		Location:	NULL NULL
+
+(28) - 0.0 km MSC 6 Silvio
+	ASCAM3
+		Images:	6358
+		Time:	02.02.2025 07:30:48 until 02.02.2025 10:29:31
+		Duration:	02:58:43
+		Location:	NULL NULL
+
+(29) - 0.0 km MSC 6 Trigger
+	AWYON3LS1
+		Images:	10379
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(30) - 0.0 km MSC 6 Wyaman
+	AWYON3
+		Images:	8370
+		Time:	02.02.2025 06:04:55 until 02.02.2025 09:29:32
+		Duration:	03:24:37
+		Location:	NULL NULL
+
+(31) - 0.0 km MSC 7 Gus
+	AGARG2
+		Images:	20833
+		Time:	02.02.2025 06:22:02 until 02.02.2025 09:10:01
+		Duration:	02:47:59
+		Location:	NULL NULL
+
+(32) - 0.0 km MSC 7 Manuel
+	AMSAN2
+		Images:	5907
+		Time:	02.02.2025 06:04:46 until 02.02.2025 09:07:57
+		Duration:	03:03:11
+		Location:	NULL NULL
+
+(33) - 0.0 km MSC 7 Oscar
+	AOOCH1
+		Images:	7659
+		Time:	02.02.2025 06:01:50 until 02.02.2025 09:17:15
+		Duration:	03:15:25
+		Location:	NULL NULL
+
+(34) - 0.0 km MSC 7 Trigger
+	AGARG2LS1
+		Images:	11134
+		Time:	02.02.2025 05:48:49 until 02.02.2025 09:10:43
+		Duration:	03:21:54
+		Location:	NULL NULL
+
+(35) - 0.0 km MSC 8 Terry
+	ATWHE1
+		Images:	9350
+		Time:	02.02.2025 06:16:52 until 02.02.2025 12:27:20
+		Duration:	06:10:28
+		Location:	NULL NULL
+
+(36) - 0.0 km MSC3
+	BDT1
+		Images:	6107
+		Time:	02.02.2025 06:11:25 until 02.02.2025 07:04:21
+		Duration:	00:52:56
+		Location:	NULL NULL
+
+	BDT1LS1
+		Images:	6345
+		Time:	02.02.2025 06:08:56 until 02.02.2025 07:10:23
+		Duration:	01:01:27
+		Location:	NULL NULL
+
+	BEG1
+		Images:	2268
+		Time:	02.02.2025 06:04:00 until 02.02.2025 07:10:11
+		Duration:	01:06:11
+		Location:	NULL NULL
+
+	BJC1
+		Images:	3283
+		Time:	31.01.2025 18:11:21 until 31.01.2025 19:08:52
+		Duration:	00:57:31
+		Location:	NULL NULL
+
+(37) - 0.0 km MSC8
+	BAM1
+		Images:	10449
+		Time:	02.02.2025 07:23:35 until 02.02.2025 12:00:17
+		Duration:	04:36:42
+		Location:	NULL NULL
+
+	BJO1
+		Images:	5156
+		Time:	02.02.2025 07:25:26 until 02.02.2025 10:32:29
+		Duration:	03:07:03
+		Location:	NULL NULL
+
+(38) - 0.0 km MSC9
+	BDTT1
+		Images:	7869
+		Time:	02.02.2025 08:12:19 until 02.02.2025 12:01:51
+		Duration:	03:49:32
+		Location:	NULL NULL
+
+	BDTT1LS1
+		Images:	9090
+		Time:	02.02.2025 08:10:59 until 02.02.2025 11:23:25
+		Duration:	03:12:26
+		Location:	NULL NULL
+
+	BEG2
+		Images:	6366
+		Time:	02.02.2025 08:05:06 until 02.02.2025 11:47:43
+		Duration:	03:42:37
+		Location:	NULL NULL
+
+	BJC2
+		Images:	6643
+		Time:	31.01.2025 19:55:53 until 31.01.2025 23:37:12
+		Duration:	03:41:19
+		Location:	NULL NULL
+
+(39) - 0.0 km OFP Christopher Ch 2nd Card
+	CCB1
+		Images:	1208
+		Time:	02.02.2025 08:25:33 until 02.02.2025 11:14:33
+		Duration:	02:49:00
+		Location:	NULL NULL
+
+(40) - 0.0 km OFP Katherine Calle
+	ZKCAL1
+		Images:	1426
+		Time:	02.02.2025 06:28:04 until 02.02.2025 09:34:22
+		Duration:	03:06:18
+		Location:	NULL NULL
+
+(41) - 0.0 km OFP Paola
+	ZPRIE1
+		Images:	760
+		Time:	02.02.2025 06:29:27 until 02.02.2025 09:26:09
+		Duration:	02:56:42
+		Location:	NULL NULL
+
+(42) - 0.0 km OFP Stephan CAnada
+	ZSCAN1
+		Images:	774
+		Time:	02.02.2025 07:28:21 until 02.02.2025 10:46:57
+		Duration:	03:18:36
+		Location:	NULL NULL
+
+(43) - 0.0 km PR Dave Adelson
+	ADADE1
+		Images:	333
+		Time:	02.02.2025 04:08:12 until 02.02.2025 05:19:55
+		Duration:	01:11:43
+		Location:	NULL NULL
+
+(44) - 0.0 km Pre Center Trigger
+	ASGEN4
+		Images:	18855
+		Time:	02.02.2025 05:38:37 until 02.02.2025 11:42:52
+		Duration:	06:04:15
+		Location:	NULL NULL
+
+(45) - 0.0 km Pre Fin trigger ground HALF
+	ASGEN1
+		Images:	12860
+		Time:	02.02.2025 05:48:44 until 02.02.2025 10:35:48
+		Duration:	04:47:04
+		Location:	NULL NULL
+
+(46) - 0.0 km pre ground full
+	ASGEN5
+		Images:	13521
+		Time:	02.02.2025 04:46:46 until 02.02.2025 11:02:53
+		Duration:	06:16:07
+		Location:	NULL NULL
+
+(47) - Impressions / Pano
+	PANO1
+(48) - none
+	ACBIR1
+		Images:	14747
+		Time:	01.02.2025 17:15:55 until 02.02.2025 00:18:40
+		Duration:	07:02:45
+		Location:	NULL NULL
+
+	ADADE2
+		Images:	11032
+		Time:	02.02.2025 06:04:27 until 02.02.2025 13:00:38
+		Duration:	06:56:11
+		Location:	NULL NULL
+
+	ADEDG1
+		Images:	20607
+		Time:	02.02.2025 06:03:34 until 02.02.2025 12:59:40
+		Duration:	06:56:06
+		Location:	NULL NULL
+
+	AJBUD1
+		Images:	674
+		Time:	02.02.2025 03:59:04 until 02.02.2025 05:39:11
+		Duration:	01:40:07
+		Location:	NULL NULL
+
+	ASORT3
+		Images:	7244
+		Time:	02.02.2025 21:28:49 until 03.02.2025 02:30:13
+		Duration:	05:01:24
+		Location:	NULL NULL
+
+	ATMEN3
+		Images:	21406
+		Time:	25.05.2024 10:29:21 until 02.02.2025 12:42:01
+		Duration:	253.02:12:40
+		Location:	NULL NULL
+
+	ATMEN3LS1
+		Images:	13348
+		Time:	02.02.2025 08:33:53 until 02.02.2025 13:30:27
+		Duration:	04:56:34
+		Location:	NULL NULL
+
+	ATWHE1LS1
+		Images:	21419
+		Time:	01.01.0001 23:00:00 until 01.01.2014 12:28:47
+		Duration:	735232.13:28:47
+		Location:	NULL NULL
+
+	BPKO1
+		Images:	4575
+		Time:	02.02.2025 06:43:48 until 02.02.2025 11:56:59
+		Duration:	05:13:11
+		Location:	NULL NULL
+

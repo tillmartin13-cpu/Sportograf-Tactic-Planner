@@ -1,0 +1,107 @@
+EventId: 14775
+Spots: 16
+Total Images: 121714
+Time:	12.07.2025 07:54:08 to 13.07.2025 13:17:39
+Duration: 1.05:23:31
+
+(1) - Swim - Impressions / Pano
+	PANO1
+(2) - Start
+	BK1
+		Images:	300
+		Time:	13.07.2025 06:53:24 until 13.07.2025 09:01:05
+		Duration:	02:07:41
+		Location:	53.55061 9.99358
+
+(3) - Swim - Start
+	BK1DRONE1
+		Images:	36
+		Time:	13.07.2025 07:03:31 until 13.07.2025 07:31:37
+		Duration:	00:28:06
+		Location:	53.55061 9.99358
+
+(4) - Swim - Transition zone
+	PDD1
+		Images:	4623
+		Time:	12.07.2025 07:54:08 until 13.07.2025 10:47:17
+		Duration:	1.02:53:09
+		Location:	53.55157 9.99290
+
+	JKOR1
+		Images:	16363
+		Time:	13.07.2025 06:51:44 until 13.07.2025 13:01:17
+		Duration:	06:09:33
+		Location:	53.55157 9.99290
+
+(5) - Run - Alsterufer
+	GL1
+		Images:	4853
+		Time:	13.07.2025 06:15:54 until 13.07.2025 12:34:06
+		Duration:	06:18:12
+		Location:	53.56296 9.99789
+
+(6) - Run - Binnenalster
+	PLA1
+		Images:	8019
+		Time:	12.07.2025 09:19:20 until 13.07.2025 12:27:56
+		Duration:	1.03:08:36
+		Location:	53.55704 9.99524
+
+(7) - Bike - Fischmarkt
+	DWE1
+		Images:	14005
+		Time:	12.07.2025 09:52:03 until 13.07.2025 11:59:09
+		Duration:	1.02:07:06
+		Location:	53.54625 9.95331
+
+	DWE1LS1
+		Images:	5579
+		Time:	13.07.2025 06:26:14 until 13.07.2025 12:04:59
+		Duration:	05:38:45
+		Location:	53.54625 9.95331
+
+(8) - Bike - Baumwall
+	HT1
+		Images:	16929
+		Time:	12.07.2025 09:16:43 until 13.07.2025 12:08:51
+		Duration:	1.02:52:08
+		Location:	53.54480 9.98420
+
+(9) - Bike - Zippelhaus
+	HAHE1
+		Images:	13894
+		Time:	13.07.2025 07:00:32 until 13.07.2025 11:12:38
+		Duration:	04:12:06
+		Location:	53.54482 9.98993
+
+	HAHE1LS1
+		Images:	17513
+		Time:	13.07.2025 07:03:34 until 13.07.2025 12:15:11
+		Duration:	05:11:37
+		Location:	53.54482 9.98993
+
+(10) - Finish
+	JKOR2
+		Images:	146
+		Time:	13.07.2025 13:01:18 until 13.07.2025 13:17:13
+		Duration:	00:15:55
+		Location:	53.55061 9.99358
+
+	MARM1
+		Images:	17384
+		Time:	12.07.2025 09:16:33 until 13.07.2025 13:17:39
+		Duration:	1.04:01:06
+		Location:	53.55061 9.99358
+
+	BK2
+		Images:	497
+		Time:	13.07.2025 09:29:05 until 13.07.2025 12:36:54
+		Duration:	03:07:49
+		Location:	53.55061 9.99358
+
+	PDD2
+		Images:	1560
+		Time:	13.07.2025 11:09:29 until 13.07.2025 13:17:27
+		Duration:	02:07:58
+		Location:	53.55095 9.99286
+

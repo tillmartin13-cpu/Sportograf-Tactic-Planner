@@ -1,0 +1,194 @@
+EventId: 14045
+Spots: 29
+Total Images: 18861
+Time:	05.09.2025 13:48:14 to 06.09.2025 20:55:09
+Duration: 1.07:06:55
+
+(1) - Z101 Start
+	CHR1
+		Images:	122
+		Time:	05.09.2025 17:45:31 until 05.09.2025 18:00:27
+		Duration:	00:14:56
+		Location:	47.16736 11.86022
+
+	EJ1
+		Images:	88
+		Time:	05.09.2025 13:48:14 until 05.09.2025 18:00:16
+		Duration:	04:12:02
+		Location:	47.16736 11.86022
+
+(2) - Z101 Uphill Waldtrail
+	EJ2
+		Images:	374
+		Time:	05.09.2025 18:44:55 until 05.09.2025 19:28:27
+		Duration:	00:43:32
+		Location:	47.14416 11.80961
+
+	CHR2
+		Images:	165
+		Time:	05.09.2025 18:48:12 until 05.09.2025 19:28:13
+		Duration:	00:40:01
+		Location:	47.14416 11.80961
+
+	CHR2LS1
+		Images:	141
+		Time:	05.09.2025 18:40:30 until 05.09.2025 19:08:48
+		Duration:	00:28:18
+		Location:	47.14416 11.80961
+
+	CHR2LS2
+		Images:	143
+		Time:	05.09.2025 18:44:14 until 05.09.2025 19:08:48
+		Duration:	00:24:34
+		Location:	47.14416 11.80961
+
+(3) - TUX70 KM8 Frauenwand
+	CHR3
+		Images:	821
+		Time:	06.09.2025 06:18:49 until 06.09.2025 09:52:16
+		Duration:	03:33:27
+		Location:	47.08706 11.64330
+
+	CHR3DRONE1
+		Images:	4
+		Time:	06.09.2025 07:31:15 until 06.09.2025 07:40:28
+		Duration:	00:09:13
+		Location:	47.08706 11.64330
+
+	CHR3LS1
+		Images:	345
+		Time:	06.09.2025 06:32:05 until 06.09.2025 09:16:14
+		Duration:	02:44:09
+		Location:	47.08706 11.64330
+
+	CHR3LS2
+		Images:	321
+		Time:	06.09.2025 06:36:56 until 06.09.2025 07:26:40
+		Duration:	00:49:44
+		Location:	47.08706 11.64330
+
+(4) - Start
+	KG1
+		Images:	226
+		Time:	06.09.2025 06:40:18 until 06.09.2025 08:40:33
+		Duration:	02:00:15
+		Location:	47.16791 11.86357
+
+(5) - RK50 & MUZ30 KM2 Zemmbach
+	EJ3
+		Images:	1117
+		Time:	06.09.2025 06:46:20 until 06.09.2025 08:56:23
+		Duration:	02:10:03
+		Location:	47.16486 11.85388
+
+(6) - Vertical Zemmbach
+	KG2
+		Images:	116
+		Time:	06.09.2025 10:05:32 until 06.09.2025 10:15:55
+		Duration:	00:10:23
+		Location:	47.16486 11.85388
+
+	KG2LS1
+		Images:	153
+		Time:	06.09.2025 09:17:49 until 06.09.2025 10:16:17
+		Duration:	00:58:28
+		Location:	47.16486 11.85388
+
+(7) - RK50 & MUZ30 Gschösswand Uphill
+	EA1
+		Images:	1000
+		Time:	06.09.2025 07:05:08 until 06.09.2025 10:36:14
+		Duration:	03:31:06
+		Location:	47.15945 11.86967
+
+(8) - RK50 & MUZ30 KM11.5 Speichersee Penkenjoch
+	ALEP1
+		Images:	1515
+		Time:	06.09.2025 07:58:48 until 06.09.2025 11:34:36
+		Duration:	03:35:48
+		Location:	47.17026 11.80277
+
+(9) - MUZ14 & Sprint Brandenberger Kapelle Waldtrail
+	EJ4
+		Images:	1073
+		Time:	06.09.2025 10:35:36 until 06.09.2025 13:03:09
+		Duration:	02:27:33
+		Location:	47.15945 11.86967
+
+(10) - Vertical Kurz vor Ziel
+	EA2
+		Images:	133
+		Time:	06.09.2025 10:58:07 until 06.09.2025 12:33:27
+		Duration:	01:35:20
+		Location:	47.17526 11.82882
+
+(11) - TUX70 & RK50 Kreuzjoch Downhill
+	CHR4
+		Images:	2309
+		Time:	06.09.2025 11:14:30 until 06.09.2025 17:03:19
+		Duration:	05:48:49
+		Location:	47.23130 11.80476
+
+	CHR4DRONE1
+		Images:	10
+		Time:	06.09.2025 13:23:24 until 06.09.2025 13:56:15
+		Duration:	00:32:51
+		Location:	47.23130 11.80476
+
+	CHR4LS1
+		Images:	600
+		Time:	06.09.2025 11:03:48 until 06.09.2025 16:38:55
+		Duration:	05:35:07
+		Location:	47.23130 11.80476
+
+	CHR4LS2
+		Images:	572
+		Time:	06.09.2025 11:13:54 until 06.09.2025 16:38:55
+		Duration:	05:25:01
+		Location:	47.23130 11.80476
+
+(12) - RK50 & MUZ30 10KM Vor Ziel Downhill Penken
+	ALEP2
+		Images:	1103
+		Time:	06.09.2025 13:13:42 until 06.09.2025 16:34:30
+		Duration:	03:20:48
+		Location:	47.17711 11.82773
+
+	ALEP2LS1
+		Images:	712
+		Time:	06.09.2025 07:41:46 until 06.09.2025 16:20:56
+		Duration:	08:39:10
+		Location:	47.17711 11.82773
+
+	ALEP2LS2
+		Images:	755
+		Time:	06.09.2025 07:40:27 until 06.09.2025 16:20:55
+		Duration:	08:40:28
+		Location:	47.17711 11.82773
+
+(13) - 7KM Vor Ziel Waldtrail
+	EA3
+		Images:	856
+		Time:	06.09.2025 13:05:26 until 06.09.2025 18:19:22
+		Duration:	05:13:56
+		Location:	47.16788 11.82826
+
+(14) - Finish
+	KG3
+		Images:	3133
+		Time:	06.09.2025 10:42:22 until 06.09.2025 19:30:48
+		Duration:	08:48:26
+		Location:	47.16791 11.86357
+
+	KG3LS1
+		Images:	773
+		Time:	06.09.2025 10:40:36 until 06.09.2025 18:59:14
+		Duration:	08:18:38
+		Location:	47.16791 11.86357
+
+	EJ5
+		Images:	181
+		Time:	06.09.2025 19:34:29 until 06.09.2025 20:55:09
+		Duration:	01:20:40
+		Location:	47.16791 11.86357
+

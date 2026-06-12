@@ -1,0 +1,90 @@
+EventId: 13965
+Spots: 13
+Total Images: 11321
+Time:	27.07.2025 07:45:36 to 27.07.2025 17:48:32
+Duration: 10:02:56
+
+(1) - Start
+	AGU1
+		Images:	552
+		Time:	27.07.2025 07:45:36 until 27.07.2025 08:00:29
+		Duration:	00:14:53
+		Location:	44.69586 6.32123
+
+(2) - Finish
+	AGU2
+		Images:	1189
+		Time:	27.07.2025 10:33:19 until 27.07.2025 17:48:32
+		Duration:	07:15:13
+		Location:	44.69586 6.32123
+
+	AGU2LS2
+		Images:	358
+		Time:	27.07.2025 10:05:47 until 27.07.2025 17:16:02
+		Duration:	07:10:15
+		Location:	44.69586 6.32123
+
+	AGU2LS1
+		Images:	361
+		Time:	27.07.2025 10:06:42 until 27.07.2025 17:16:24
+		Duration:	07:09:42
+		Location:	44.69586 6.32123
+
+(3) - 1,0 km Orcières
+	DART1
+		Images:	319
+		Time:	27.07.2025 07:50:45 until 27.07.2025 08:05:17
+		Duration:	00:14:32
+		Location:	44.69280 6.32390
+
+(4) - 155,0 km Orcières
+	DART2
+		Images:	4278
+		Time:	27.07.2025 09:26:05 until 27.07.2025 17:40:06
+		Duration:	08:14:01
+		Location:	44.69185 6.31311
+
+(5) - 21,0 km Les Faix
+	EB1
+		Images:	522
+		Time:	27.07.2025 08:22:26 until 27.07.2025 08:58:55
+		Duration:	00:36:29
+		Location:	44.63360 6.19039
+
+	EB1LS2
+		Images:	253
+		Time:	27.07.2025 08:34:02 until 27.07.2025 09:00:31
+		Duration:	00:26:29
+		Location:	44.63360 6.19039
+
+	EB1LS1
+		Images:	378
+		Time:	27.07.2025 08:07:52 until 27.07.2025 09:01:10
+		Duration:	00:53:18
+		Location:	44.63360 6.19039
+
+(6) - 145,0 km Serre Eyraud
+	EB2
+		Images:	1938
+		Time:	27.07.2025 09:51:34 until 27.07.2025 16:00:44
+		Duration:	06:09:10
+		Location:	44.67837 6.27096
+
+	EB2DRONE1
+		Images:	42
+		Time:	27.07.2025 08:48:02 until 27.07.2025 14:13:18
+		Duration:	05:25:16
+		Location:	44.67837 6.27096
+
+	EB2LS2
+		Images:	517
+		Time:	27.07.2025 09:04:28 until 27.07.2025 16:01:21
+		Duration:	06:56:53
+		Location:	44.67837 6.27096
+
+	EB2LS1
+		Images:	614
+		Time:	27.07.2025 09:55:49 until 27.07.2025 16:03:56
+		Duration:	06:08:07
+		Location:	44.67837 6.27096
+

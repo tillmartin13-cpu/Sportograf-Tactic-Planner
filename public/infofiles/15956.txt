@@ -1,0 +1,225 @@
+EventId: 15956
+Spots: 37
+Total Images: 289004
+Time:	01.01.0001 23:00:00 to 26.04.2025 13:47:56
+Duration: 739365.14:47:56
+
+(1) - Impressions / Pano
+	PANO1
+(2) - 0.0 km
+	BRSP1
+		Images:	5204
+		Time:	26.04.2025 06:58:06 until 26.04.2025 07:24:42
+		Duration:	00:26:36
+		Location:	NULL NULL
+
+	ANDA1
+		Images:	1078
+		Time:	26.04.2025 07:00:49 until 26.04.2025 07:28:55
+		Duration:	00:28:06
+		Location:	NULL NULL
+
+	JOST1
+		Images:	2488
+		Time:	26.04.2025 06:53:47 until 26.04.2025 07:25:45
+		Duration:	00:31:58
+		Location:	NULL NULL
+
+	JBBI1
+		Images:	7138
+		Time:	26.04.2025 07:07:04 until 26.04.2025 08:17:11
+		Duration:	01:10:07
+		Location:	NULL NULL
+
+	ANGR1
+		Images:	2602
+		Time:	26.04.2025 07:23:12 until 26.04.2025 08:17:59
+		Duration:	00:54:47
+		Location:	NULL NULL
+
+	MAAS1
+		Images:	3834
+		Time:	26.04.2025 07:43:38 until 26.04.2025 09:48:11
+		Duration:	02:04:33
+		Location:	NULL NULL
+
+	NAMA1
+		Images:	15552
+		Time:	26.04.2025 07:33:08 until 26.04.2025 09:46:50
+		Duration:	02:13:42
+		Location:	NULL NULL
+
+	SANA1
+		Images:	3882
+		Time:	25.04.2025 19:00:17 until 25.04.2025 21:34:00
+		Duration:	02:33:43
+		Location:	NULL NULL
+
+	JSTO1
+		Images:	8549
+		Time:	26.04.2025 08:16:34 until 26.04.2025 11:34:26
+		Duration:	03:17:52
+		Location:	NULL NULL
+
+	JOLE1
+		Images:	7769
+		Time:	26.04.2025 08:38:27 until 26.04.2025 11:38:48
+		Duration:	03:00:21
+		Location:	NULL NULL
+
+	JOLE2
+		Images:	3747
+		Time:	26.04.2025 07:36:15 until 26.04.2025 08:36:07
+		Duration:	00:59:52
+		Location:	NULL NULL
+
+	ABRE1
+		Images:	3968
+		Time:	26.04.2025 08:41:24 until 26.04.2025 12:23:01
+		Duration:	03:41:37
+		Location:	NULL NULL
+
+	JBIL1
+		Images:	18798
+		Time:	01.01.0001 23:00:00 until 26.04.2025 12:19:08
+		Duration:	739365.13:19:08
+		Location:	NULL NULL
+
+	TRIA1
+		Images:	16329
+		Time:	26.04.2025 06:46:32 until 26.04.2025 12:20:46
+		Duration:	05:34:14
+		Location:	NULL NULL
+
+	BSPU1
+		Images:	20915
+		Time:	26.04.2025 08:48:50 until 26.04.2025 12:02:11
+		Duration:	03:13:21
+		Location:	NULL NULL
+
+	ADAI1
+		Images:	7916
+		Time:	26.04.2025 08:03:02 until 26.04.2025 12:06:02
+		Duration:	04:03:00
+		Location:	NULL NULL
+
+	TRIB1
+		Images:	22257
+		Time:	26.04.2025 08:16:25 until 26.04.2025 10:41:43
+		Duration:	02:25:18
+		Location:	NULL NULL
+
+	DAHU1
+		Images:	14495
+		Time:	26.04.2025 08:20:34 until 26.04.2025 13:02:47
+		Duration:	04:42:13
+		Location:	NULL NULL
+
+	GABR1
+		Images:	16070
+		Time:	26.04.2025 06:33:26 until 26.04.2025 13:47:56
+		Duration:	07:14:30
+		Location:	NULL NULL
+
+	AYBI1
+		Images:	4871
+		Time:	26.04.2025 07:55:29 until 26.04.2025 13:09:55
+		Duration:	05:14:26
+		Location:	NULL NULL
+
+	ERAN1
+		Images:	8814
+		Time:	26.04.2025 08:16:28 until 26.04.2025 13:33:35
+		Duration:	05:17:07
+		Location:	NULL NULL
+
+	ZABE1
+		Images:	7241
+		Time:	26.04.2025 07:57:41 until 26.04.2025 13:28:48
+		Duration:	05:31:07
+		Location:	NULL NULL
+
+	TRIC1
+		Images:	11879
+		Time:	26.04.2025 08:22:25 until 26.04.2025 13:32:25
+		Duration:	05:10:00
+		Location:	NULL NULL
+
+	TRID1
+		Images:	15405
+		Time:	26.04.2024 07:50:39 until 26.04.2024 12:41:29
+		Duration:	04:50:50
+		Location:	NULL NULL
+
+	MAEV1
+		Images:	18115
+		Time:	26.04.2025 07:55:21 until 26.04.2025 13:27:39
+		Duration:	05:32:18
+		Location:	NULL NULL
+
+	MIKO1
+		Images:	14073
+		Time:	26.04.2025 08:09:22 until 26.04.2025 13:24:25
+		Duration:	05:15:03
+		Location:	NULL NULL
+
+	TRIE1
+		Images:	18462
+		Time:	26.04.2025 07:33:27 until 26.04.2025 13:46:23
+		Duration:	06:12:56
+		Location:	NULL NULL
+
+	JORO1
+		Images:	3379
+		Time:	26.04.2025 07:51:42 until 26.04.2025 13:41:40
+		Duration:	05:49:58
+		Location:	NULL NULL
+
+	JROB1
+		Images:	958
+		Time:	26.04.2025 06:44:33 until 26.04.2025 07:17:48
+		Duration:	00:33:15
+		Location:	NULL NULL
+
+	SIWI1
+		Images:	237
+		Time:	26.04.2025 07:59:55 until 26.04.2025 11:33:13
+		Duration:	03:33:18
+		Location:	NULL NULL
+
+	SAIN1
+		Images:	615
+		Time:	26.04.2025 08:14:11 until 26.04.2025 13:25:48
+		Duration:	05:11:37
+		Location:	NULL NULL
+
+	LYSC1
+		Images:	890
+		Time:	26.04.2025 07:58:06 until 26.04.2025 13:32:44
+		Duration:	05:34:38
+		Location:	NULL NULL
+
+	CAMC1
+		Images:	618
+		Time:	26.04.2025 08:24:24 until 26.04.2025 13:06:05
+		Duration:	04:41:41
+		Location:	NULL NULL
+
+	DAKA1
+		Images:	191
+		Time:	26.04.2025 08:24:49 until 26.04.2025 13:05:30
+		Duration:	04:40:41
+		Location:	NULL NULL
+
+	LEBA1
+		Images:	311
+		Time:	26.04.2025 07:08:47 until 26.04.2025 11:46:02
+		Duration:	04:37:15
+		Location:	NULL NULL
+
+	TRWI1
+		Images:	354
+		Time:	26.04.2025 09:01:07 until 26.04.2025 12:47:49
+		Duration:	03:46:42
+		Location:	NULL NULL
+

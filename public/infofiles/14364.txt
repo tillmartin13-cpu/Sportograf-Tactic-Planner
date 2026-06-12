@@ -1,0 +1,114 @@
+EventId: 14364
+Spots: 16
+Total Images: 44942
+Time:	04.10.2025 06:24:01 to 05.10.2025 14:12:02
+Duration: 1.07:48:01
+
+(1) - Obstacle 3 Hay Wall
+	MABI1
+		Images:	2789
+		Time:	04.10.2025 07:21:21 until 05.10.2025 12:18:01
+		Duration:	1.04:56:40
+		Location:	36.19097 -86.15331
+
+(2) - Obstacle 5 Monkey Bars
+	DAKK1
+		Images:	6077
+		Time:	04.10.2025 06:24:01 until 05.10.2025 11:24:21
+		Duration:	1.05:00:20
+		Location:	36.19132 -86.15438
+
+	ISAK1
+		Images:	2785
+		Time:	05.10.2025 07:02:21 until 05.10.2025 12:24:50
+		Duration:	05:22:29
+		Location:	36.19132 -86.15438
+
+(3) - Obstacle 15 Barbed Wire Crawl
+	NADA1
+		Images:	4437
+		Time:	05.10.2025 07:24:10 until 05.10.2025 12:36:16
+		Duration:	05:12:06
+		Location:	36.18497 -86.15144
+
+(4) - Obstacle 16 Chain Carry
+	MCKR1
+		Images:	2408
+		Time:	05.10.2025 07:25:17 until 05.10.2025 12:10:30
+		Duration:	04:45:13
+		Location:	36.19015 -86.15551
+
+	SAMT1
+		Images:	1849
+		Time:	04.10.2025 07:07:37 until 05.10.2025 12:38:51
+		Duration:	1.05:31:14
+		Location:	36.19015 -86.15551
+
+(5) - Obstacle 17 Bucket Carry
+	AVE1
+		Images:	4817
+		Time:	04.10.2025 06:34:56 until 05.10.2025 12:45:00
+		Duration:	1.06:10:04
+		Location:	36.19005 -86.15773
+
+(6) - Obstacle 18 Multi-Rig
+	CHIT1
+		Images:	707
+		Time:	05.10.2025 08:30:48 until 05.10.2025 13:53:53
+		Duration:	05:23:05
+		Location:	36.18755 -86.15851
+
+	ROOT1
+		Images:	2078
+		Time:	04.10.2025 06:59:52 until 05.10.2025 12:30:45
+		Duration:	1.05:30:53
+		Location:	36.18755 -86.15851
+
+(7) - Obstacle 20 Atlas
+	JMCK1
+		Images:	2255
+		Time:	05.10.2025 06:41:47 until 05.10.2025 13:01:34
+		Duration:	06:19:47
+		Location:	36.18657 -86.15754
+
+	EMBA1
+		Images:	1918
+		Time:	04.10.2025 07:02:49 until 05.10.2025 12:28:47
+		Duration:	1.05:25:58
+		Location:	36.18657 -86.15754
+
+(8) - Obstacle 22 Sandbag Carry
+	RUHO1
+		Images:	4027
+		Time:	04.10.2025 06:49:55 until 05.10.2025 13:34:12
+		Duration:	1.06:44:17
+		Location:	36.18635 -86.15219
+
+(9) - Obstacle 28 Fire Jump
+	MSK1
+		Images:	7459
+		Time:	04.10.2025 07:24:36 until 05.10.2025 14:03:34
+		Duration:	1.06:38:58
+		Location:	36.18984 -86.15377
+
+(10) - Herotent
+	PEC1
+		Images:	1235
+		Time:	04.10.2025 06:43:38 until 05.10.2025 14:12:02
+		Duration:	1.07:28:24
+		Location:	36.18995 -86.15380
+
+(11) - Festival Area
+	JOD1
+		Images:	80
+		Time:	04.10.2025 07:56:55 until 05.10.2025 09:20:20
+		Duration:	1.01:23:25
+		Location:	36.18995 -86.15380
+
+(12) - Drone
+	JOD1DRONE1
+		Images:	21
+		Time:	04.10.2025 07:21:29 until 05.10.2025 06:59:43
+		Duration:	23:38:14
+		Location:	36.18995 -86.15380
+

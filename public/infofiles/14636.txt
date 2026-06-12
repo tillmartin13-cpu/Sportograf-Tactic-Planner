@@ -1,0 +1,192 @@
+EventId: 14636
+Spots: 29
+Total Images: 189073
+Time:	25.05.2025 08:54:41 to 25.05.2025 18:57:29
+Duration: 10:02:48
+
+(1) - Start
+	GUD1
+		Images:	216
+		Time:	25.05.2025 10:54:06 until 25.05.2025 11:19:43
+		Duration:	00:25:37
+		Location:	NULL NULL
+
+(2) - Obstacle 4 Juicy Jumper
+	MIRW1
+		Images:	10274
+		Time:	25.05.2025 08:54:41 until 25.05.2025 17:15:24
+		Duration:	08:20:43
+		Location:	NULL NULL
+
+(3) - Running track between 5 and 6
+	LEM1LS1
+		Images:	3932
+		Time:	25.05.2025 09:39:20 until 25.05.2025 15:10:04
+		Duration:	05:30:44
+		Location:	NULL NULL
+
+	LEM1LS2
+		Images:	5284
+		Time:	25.05.2025 09:38:47 until 25.05.2025 17:19:04
+		Duration:	07:40:17
+		Location:	NULL NULL
+
+(4) - Obstacle 5 Rotten River
+	JUSE1
+		Images:	9501
+		Time:	25.05.2025 09:53:53 until 25.05.2025 17:17:40
+		Duration:	07:23:47
+		Location:	NULL NULL
+
+	LEM1
+		Images:	4840
+		Time:	25.05.2025 09:53:56 until 25.05.2025 14:44:01
+		Duration:	04:50:05
+		Location:	NULL NULL
+
+	LEM2
+		Images:	971
+		Time:	25.05.2025 15:29:47 until 25.05.2025 17:17:54
+		Duration:	01:48:07
+		Location:	NULL NULL
+
+(5) - Obstacle 6 Barbwire Battle
+	RYS1
+		Images:	11456
+		Time:	25.05.2025 10:09:27 until 25.05.2025 17:24:06
+		Duration:	07:14:39
+		Location:	NULL NULL
+
+	TIH1
+		Images:	13669
+		Time:	25.05.2025 09:56:08 until 25.05.2025 17:24:03
+		Duration:	07:27:55
+		Location:	NULL NULL
+
+(6) - Obstacle 8 Freak Froster
+	ROH1
+		Images:	16951
+		Time:	25.05.2025 09:19:38 until 25.05.2025 17:39:17
+		Duration:	08:19:39
+		Location:	NULL NULL
+
+	EBO1
+		Images:	11695
+		Time:	25.05.2025 09:59:38 until 25.05.2025 17:38:35
+		Duration:	07:38:57
+		Location:	NULL NULL
+
+(7) - Obstacle 10 Blue Beast
+	MFR1
+		Images:	7741
+		Time:	25.05.2025 09:56:00 until 25.05.2025 17:53:55
+		Duration:	07:57:55
+		Location:	NULL NULL
+
+(8) - Running track between Obstacle 10 and 11
+	MFR1LS1
+		Images:	9537
+		Time:	25.05.2025 09:42:11 until 25.05.2025 18:01:12
+		Duration:	08:19:01
+		Location:	NULL NULL
+
+(9) - Obstacle 12 Muddy Maniacs
+	JRE1
+		Images:	16837
+		Time:	25.05.2025 09:09:56 until 25.05.2025 18:14:59
+		Duration:	09:05:03
+		Location:	NULL NULL
+
+(10) - Running track between Obstacle 17 and 18
+	CM1LS1
+		Images:	6146
+		Time:	25.05.2025 10:19:38 until 25.05.2025 17:34:05
+		Duration:	07:14:27
+		Location:	NULL NULL
+
+(11) - Obstacle 18 Clumsy Cliffhanger
+	CM1
+		Images:	5297
+		Time:	25.05.2025 09:31:47 until 25.05.2025 17:38:22
+		Duration:	08:06:35
+		Location:	NULL NULL
+
+	LSI1
+		Images:	7953
+		Time:	25.05.2025 10:28:16 until 25.05.2025 17:40:03
+		Duration:	07:11:47
+		Location:	NULL NULL
+
+(12) - Running track between Obstacle 19 and 20
+	ROH1LS2
+		Images:	4966
+		Time:	25.05.2025 09:07:02 until 25.05.2025 17:42:49
+		Duration:	08:35:47
+		Location:	NULL NULL
+
+	ROH1LS1
+		Images:	5008
+		Time:	25.05.2025 09:07:24 until 25.05.2025 17:45:02
+		Duration:	08:37:38
+		Location:	NULL NULL
+
+(13) - Obstacle 21 Speed Slide
+	RYS1LS1
+		Images:	2330
+		Time:	25.05.2025 09:12:58 until 25.05.2025 18:07:02
+		Duration:	08:54:04
+		Location:	NULL NULL
+
+	RYS1LS2
+		Images:	2437
+		Time:	25.05.2025 08:59:40 until 25.05.2025 18:27:21
+		Duration:	09:27:41
+		Location:	NULL NULL
+
+(14) - Obstacle 35 Boulder Box
+	SJK1
+		Images:	4417
+		Time:	25.05.2025 09:57:44 until 25.05.2025 18:36:02
+		Duration:	08:38:18
+		Location:	NULL NULL
+
+(15) - Finish
+	JOHS1
+		Images:	14489
+		Time:	25.05.2025 10:24:55 until 25.05.2025 18:56:53
+		Duration:	08:31:58
+		Location:	NULL NULL
+
+	GUD1LS1
+		Images:	2877
+		Time:	25.05.2025 09:34:03 until 25.05.2025 17:47:38
+		Duration:	08:13:35
+		Location:	NULL NULL
+
+	GUD1LS2
+		Images:	2818
+		Time:	25.05.2025 09:33:58 until 25.05.2025 17:47:38
+		Duration:	08:13:40
+		Location:	NULL NULL
+
+(16) - Herotent
+	AGA1
+		Images:	3956
+		Time:	25.05.2025 10:53:04 until 25.05.2025 18:37:43
+		Duration:	07:44:39
+		Location:	NULL NULL
+
+	NH1
+		Images:	3463
+		Time:	25.05.2025 10:39:41 until 25.05.2025 18:57:29
+		Duration:	08:17:48
+		Location:	NULL NULL
+
+(17) - Impressions / Pano
+	GUD1DRONE1
+		Images:	12
+		Time:	25.05.2025 10:29:54 until 25.05.2025 10:39:57
+		Duration:	00:10:03
+		Location:	NULL NULL
+
+	PANO1

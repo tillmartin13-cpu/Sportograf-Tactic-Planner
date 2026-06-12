@@ -1,0 +1,65 @@
+EventId: 13423
+Spots: 9
+Total Images: 50295
+Time:	22.02.2025 06:13:59 to 22.02.2025 16:22:35
+Duration: 10:08:36
+
+(1) - Station 1
+	MKH1
+		Images:	6124
+		Time:	22.02.2025 06:22:42 until 22.02.2025 15:08:13
+		Duration:	08:45:31
+		Location:	51.63507 0.30013
+
+	BKO2
+		Images:	149
+		Time:	22.02.2025 07:27:06 until 22.02.2025 08:12:30
+		Duration:	00:45:24
+		Location:	51.63507 0.30013
+
+	BKO2LS1
+		Images:	457
+		Time:	22.02.2025 07:03:44 until 22.02.2025 15:21:22
+		Duration:	08:17:38
+		Location:	51.63507 0.30013
+
+	CUP2LS1
+		Images:	352
+		Time:	22.02.2025 07:03:54 until 22.02.2025 15:03:29
+		Duration:	07:59:35
+		Location:	51.63507 0.30013
+
+(2) - Station 2
+	CH1
+		Images:	11259
+		Time:	22.02.2025 06:13:59 until 22.02.2025 15:32:23
+		Duration:	09:18:24
+		Location:	51.63507 0.30013
+
+	BKO3
+		Images:	57
+		Time:	22.02.2025 07:29:50 until 22.02.2025 07:32:34
+		Duration:	00:02:44
+		Location:	51.63507 0.30013
+
+(3) - Station 3
+	CUP1
+		Images:	11532
+		Time:	22.02.2025 06:58:09 until 22.02.2025 15:55:29
+		Duration:	08:57:20
+		Location:	51.63507 0.30013
+
+(4) - Station 4
+	BKO1
+		Images:	18588
+		Time:	22.02.2025 08:18:49 until 22.02.2025 16:11:14
+		Duration:	07:52:25
+		Location:	51.63507 0.30013
+
+(5) - Finish Wall
+	MADO1
+		Images:	1777
+		Time:	22.02.2025 06:39:32 until 22.02.2025 16:22:35
+		Duration:	09:43:03
+		Location:	51.63507 0.30013
+

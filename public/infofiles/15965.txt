@@ -1,0 +1,339 @@
+EventId: 15965
+Spots: 49
+Total Images: 413023
+Time:	01.01.0001 23:00:00 to 31.12.2099 22:59:59
+Duration: 766642.23:59:59
+
+(1) - 0.0 km 860871 Castillo
+	DLCA1
+		Images:	11622
+		Time:	04.05.2025 08:58:15 until 04.05.2025 13:31:12
+		Duration:	04:32:57
+		Location:	NULL NULL
+
+(2) - 0.0 km alan ng finish 860862
+	DALNG1
+		Images:	25247
+		Time:	04.05.2025 09:14:27 until 04.05.2025 14:41:19
+		Duration:	05:26:52
+		Location:	NULL NULL
+
+(3) - 0.0 km alan ng, msc 2, 860829
+	DALAN1
+		Images:	15186
+		Time:	04.05.2025 06:52:44 until 04.05.2025 08:27:50
+		Duration:	01:35:06
+		Location:	NULL NULL
+
+(4) - 0.0 km anthony summers, msc 4 860866
+	DSUMM1
+		Images:	6405
+		Time:	27.04.2025 07:04:26 until 27.04.2025 08:44:21
+		Duration:	01:39:55
+		Location:	NULL NULL
+
+(5) - 0.0 km ben murray, msc8, 860877
+	DBEN1
+		Images:	14298
+		Time:	04.05.2025 08:00:45 until 04.05.2025 14:20:17
+		Duration:	06:19:32
+		Location:	NULL NULL
+
+(6) - 0.0 km conner tunstall msc8 860879
+	DCTUN1
+		Images:	10312
+		Time:	04.05.2024 08:06:14 until 04.05.2024 12:54:37
+		Duration:	04:48:23
+		Location:	NULL NULL
+
+(7) - 0.0 km connor tunstell, msc 3, 860833
+	DCONN1
+		Images:	5019
+		Time:	04.05.2024 06:07:04 until 26.04.2025 08:22:22
+		Duration:	357.02:15:18
+		Location:	NULL NULL
+
+(8) - 0.0 km dan draiss, msc 4, 860865
+	DDAN1
+		Images:	22892
+		Time:	04.05.2025 07:12:26 until 04.05.2025 08:59:52
+		Duration:	01:47:26
+		Location:	NULL NULL
+
+(9) - 0.0 km dan draiss, pre finish, 860840
+	XDAN1
+		Images:	15399
+		Time:	04.05.2025 09:18:42 until 04.05.2025 14:39:34
+		Duration:	05:20:52
+		Location:	NULL NULL
+
+(10) - 0.0 km eric blackwell, msc 4, 860867
+	DERIC1
+		Images:	2634
+		Time:	04.05.2025 07:23:30 until 04.05.2025 08:57:10
+		Duration:	01:33:40
+		Location:	NULL NULL
+
+(11) - 0.0 km ethan stoner, msc 5, 860869
+	DEHAN1
+		Images:	12486
+		Time:	04.05.2025 07:44:10 until 04.05.2025 10:42:30
+		Duration:	02:58:20
+		Location:	NULL NULL
+
+(12) - 0.0 km finish trigger left side, 860864
+	DFINT1
+		Images:	12084
+		Time:	04.05.2025 07:58:39 until 04.05.2025 13:33:43
+		Duration:	05:35:04
+		Location:	NULL NULL
+
+(13) - 0.0 km finish trigger right side, 860861
+	DFTL1
+		Images:	19967
+		Time:	04.05.2025 07:33:45 until 04.05.2025 14:40:31
+		Duration:	07:06:46
+		Location:	NULL NULL
+
+(14) - 0.0 km finish upshot
+	DUPP1
+		Images:	11905
+		Time:	04.05.2025 07:41:31 until 04.05.2025 13:08:26
+		Duration:	05:26:55
+		Location:	NULL NULL
+
+(15) - 0.0 km frank roche, msc 5, 860823
+	DFRAN1
+		Images:	4972
+		Time:	04.05.2025 07:33:53 until 04.05.2025 10:35:01
+		Duration:	03:01:08
+		Location:	NULL NULL
+
+(16) - 0.0 km greg overbeck, msc 5, 860870
+	DGREG1
+		Images:	8443
+		Time:	27.04.2025 09:07:42 until 04.05.2025 10:40:48
+		Duration:	7.01:33:06
+		Location:	NULL NULL
+
+(17) - 0.0 km jeff lautenberger, pre finish, 860836
+	DJEFF1
+		Images:	21634
+		Time:	04.05.2025 08:01:42 until 04.05.2025 12:20:45
+		Duration:	04:19:03
+		Location:	NULL NULL
+
+(18) - 0.0 km Medals Forrest 860851
+	DMFOR1
+		Images:	1721
+		Time:	04.05.2025 07:21:38 until 04.05.2025 12:36:51
+		Duration:	05:15:13
+		Location:	NULL NULL
+
+(19) - 0.0 km Medals Jacob 860848
+	DMJA1
+		Images:	606
+		Time:	04.05.2025 08:20:40 until 04.05.2025 13:10:26
+		Duration:	04:49:46
+		Location:	NULL NULL
+
+(20) - 0.0 km Medals Jessica 860850
+	DMJES1
+		Images:	1208
+		Time:	04.05.2025 08:32:14 until 04.05.2025 13:23:09
+		Duration:	04:50:55
+		Location:	NULL NULL
+
+(21) - 0.0 km Medals Kaitlyn 860851
+	DMKA1
+		Images:	814
+		Time:	04.05.2025 07:38:30 until 04.05.2025 12:32:10
+		Duration:	04:53:40
+		Location:	NULL NULL
+
+(22) - 0.0 km Medals Marissa 860855
+	DMME1
+		Images:	476
+		Time:	04.05.2025 08:24:47 until 04.05.2025 13:19:03
+		Duration:	04:54:16
+		Location:	NULL NULL
+
+(23) - 0.0 km Medals Nathan 860857
+	DMNAT1
+		Images:	1708
+		Time:	04.05.2025 07:21:04 until 04.05.2025 12:47:37
+		Duration:	05:26:33
+		Location:	NULL NULL
+
+(24) - 0.0 km Medals Rick 860852
+	DMRCK1
+		Images:	1422
+		Time:	04.05.2025 08:27:23 until 04.05.2025 13:36:11
+		Duration:	05:08:48
+		Location:	NULL NULL
+
+(25) - 0.0 km Medals Rob 860852
+	DMROB1
+		Images:	1051
+		Time:	04.05.2025 08:06:37 until 04.05.2025 14:47:08
+		Duration:	06:40:31
+		Location:	NULL NULL
+
+(26) - 0.0 km Medals Ryan 860849
+	DMER1
+		Images:	2192
+		Time:	04.05.2025 08:06:00 until 04.05.2025 13:02:01
+		Duration:	04:56:01
+		Location:	NULL NULL
+
+(27) - 0.0 km michael lindenberge msc 2, 860830
+	DLIND1
+		Images:	2679
+		Time:	04.05.2025 07:13:00 until 04.05.2025 08:33:00
+		Duration:	01:20:00
+		Location:	NULL NULL
+
+(28) - 0.0 km MSC1 860826 Castillo
+	DCLA1
+		Images:	6511
+		Time:	04.05.2025 06:55:38 until 04.05.2025 08:06:35
+		Duration:	01:10:57
+		Location:	NULL NULL
+
+(29) - 0.0 km MSC1 Trigger 860824
+	DTAB1
+		Images:	4803
+		Time:	04.05.2025 06:29:55 until 04.05.2025 08:06:49
+		Duration:	01:36:54
+		Location:	NULL NULL
+
+(30) - 0.0 km MSC1 Wagner 860827
+	DGAW1
+		Images:	5965
+		Time:	04.05.2025 06:54:33 until 04.05.2025 08:06:56
+		Duration:	01:12:23
+		Location:	NULL NULL
+
+(31) - 0.0 km MSC6 860822
+	DTGG1
+		Images:	4598
+		Time:	04.05.2025 09:01:14 until 04.05.2025 10:26:09
+		Duration:	01:24:55
+		Location:	NULL NULL
+
+(32) - 0.0 km MSC6 860872 Wagner
+	DGWA1
+		Images:	2824
+		Time:	04.05.2025 09:12:55 until 04.05.2025 10:06:46
+		Duration:	00:53:51
+		Location:	NULL NULL
+
+(33) - 0.0 km MSC7 860860
+	DKELL1
+		Images:	3602
+		Time:	04.05.2025 10:24:49 until 04.05.2025 12:28:53
+		Duration:	02:04:04
+		Location:	NULL NULL
+
+(34) - 0.0 km MSC7 860876
+	DWAG1
+		Images:	2329
+		Time:	04.05.2025 11:22:32 until 04.05.2025 12:55:58
+		Duration:	01:33:26
+		Location:	NULL NULL
+
+(35) - 0.0 km MSC7 Trigger 860821
+	DTRAA1
+		Images:	6540
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(36) - 0.0 km MSC8 Dave Tideswell860876
+	DTIDE1
+		Images:	22384
+		Time:	04.05.2025 08:01:03 until 04.05.2025 14:39:19
+		Duration:	06:38:16
+		Location:	NULL NULL
+
+(37) - 0.0 km msc8 Trigger 860881
+	DTRIG1
+		Images:	26047
+		Time:	01.01.0001 23:00:00 until 31.12.2099 22:59:59
+		Duration:	766642.23:59:59
+		Location:	NULL NULL
+
+(38) - 0.0 km rachel czech kolh msc8 860878
+	DRKOL1
+		Images:	11736
+		Time:	04.05.2025 09:35:35 until 04.05.2025 14:41:22
+		Duration:	05:05:47
+		Location:	NULL NULL
+
+(39) - 0.0 km rachel zech, msc 3, 860832
+	DRACH1
+		Images:	7605
+		Time:	04.05.2025 07:11:15 until 04.05.2025 08:40:35
+		Duration:	01:29:20
+		Location:	NULL NULL
+
+(40) - 0.0 km terence donnelly msc8 860880
+	DTDON1
+		Images:	8786
+		Time:	04.05.2025 09:32:33 until 04.05.2025 14:15:40
+		Duration:	04:43:07
+		Location:	NULL NULL
+
+(41) - 0.0 km terence donnelly, msc 3, 860834
+	DTERR1
+		Images:	4779
+		Time:	04.05.2025 06:52:12 until 04.05.2025 08:47:55
+		Duration:	01:55:43
+		Location:	NULL NULL
+
+(42) - 0.0 km terry wherry, finish, 860861
+	DWHER1
+		Images:	31080
+		Time:	04.05.2025 07:12:14 until 04.05.2025 13:46:51
+		Duration:	06:34:37
+		Location:	NULL NULL
+
+(43) - 0.0 km Trent Start Photo
+	START1
+		Images:	919
+		Time:	04.05.2025 06:42:21 until 04.05.2025 07:38:56
+		Duration:	00:56:35
+		Location:	NULL NULL
+
+(44) - 0.0 km trent wellot, pre finish, 860837
+	DTREN1
+		Images:	16735
+		Time:	04.05.2025 07:58:14 until 04.05.2025 12:07:53
+		Duration:	04:09:39
+		Location:	NULL NULL
+
+(45) - 0.0 km trigger 3, msc 3, 860835
+	DTRES1
+		Images:	4772
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(46) - 0.0 km trigger four, msc 4, 860868
+	DCUAT1
+		Images:	1939
+		Time:	04.05.2025 07:09:38 until 04.05.2025 08:54:14
+		Duration:	01:44:36
+		Location:	NULL NULL
+
+(47) - 0.0 km trigger two, msc 2, order 860828
+	DOS1
+		Images:	4687
+		Time:	04.05.2025 05:46:07 until 04.05.2025 07:32:29
+		Duration:	01:46:22
+		Location:	NULL NULL
+
+(48) - Impressions / Pano
+	PANO1
+(49) - none
+	PANO2

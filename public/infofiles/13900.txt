@@ -1,0 +1,142 @@
+EventId: 13900
+Spots: 21
+Total Images: 27215
+Time:	24.05.2025 06:47:22 to 24.05.2025 16:06:17
+Duration: 09:18:55
+
+(1) - Start
+	KSA1
+		Images:	452
+		Time:	24.05.2025 06:47:22 until 24.05.2025 08:29:40
+		Duration:	01:42:18
+		Location:	51.29052 8.60287
+
+(2) - 2.0 km Uphill Hoher Eimberg
+	RA1
+		Images:	3783
+		Time:	24.05.2025 07:20:35 until 24.05.2025 08:39:14
+		Duration:	01:18:39
+		Location:	51.29943 8.59457
+
+	RA1LS2
+		Images:	626
+		Time:	24.05.2025 07:12:49 until 24.05.2025 08:40:07
+		Duration:	01:27:18
+		Location:	51.30071 8.59987
+
+	RA1LS1
+		Images:	614
+		Time:	24.05.2025 07:27:21 until 24.05.2025 08:40:02
+		Duration:	01:12:41
+		Location:	51.30071 8.59987
+
+	SAMA1
+		Images:	1090
+		Time:	24.05.2025 06:49:59 until 24.05.2025 08:41:38
+		Duration:	01:51:39
+		Location:	51.30074 8.59961
+
+(3) - 4.0 km Hoher Eimberg
+	HM1
+		Images:	1982
+		Time:	24.05.2025 06:56:01 until 24.05.2025 09:00:53
+		Duration:	02:04:52
+		Location:	51.31164 8.59719
+
+	HM1LS2
+		Images:	599
+		Time:	24.05.2025 07:12:36 until 24.05.2025 08:57:31
+		Duration:	01:44:55
+		Location:	51.31164 8.59719
+
+	HM1LS1
+		Images:	608
+		Time:	24.05.2025 07:09:03 until 24.05.2025 08:57:31
+		Duration:	01:48:28
+		Location:	51.31164 8.59719
+
+	DPH1
+		Images:	2185
+		Time:	24.05.2025 06:54:55 until 24.05.2025 09:28:27
+		Duration:	02:33:32
+		Location:	51.31223 8.59806
+
+(4) - Impressions / Pano
+	HM1DRONE1
+		Images:	1
+		Time:	24.05.2025 07:33:41 until 24.05.2025 07:33:41
+		Duration:	00:00:00
+		Location:	51.31164 8.59719
+
+	PANO1
+		Images:	1
+		Time:	24.05.2025 08:29:22 until 24.05.2025 08:29:22
+		Duration:	00:00:00
+		Location:	51.28855 8.60116
+
+(5) - 300.0 m vor Streckenteilung / 300 m vor Ziel Kurzstrecke
+	KSA2
+		Images:	5966
+		Time:	24.05.2025 08:41:48 until 24.05.2025 11:47:11
+		Duration:	03:05:23
+		Location:	51.28855 8.60116
+
+(6) - 45.0 km / 83.0 km Kahle Pön
+	RA2
+		Images:	1860
+		Time:	24.05.2025 09:12:45 until 24.05.2025 13:59:27
+		Duration:	04:46:42
+		Location:	51.26179 8.66692
+
+	RA2LS2
+		Images:	529
+		Time:	24.05.2025 10:03:31 until 24.05.2025 14:01:04
+		Duration:	03:57:33
+		Location:	51.26179 8.66692
+
+	RA2LS1
+		Images:	439
+		Time:	24.05.2025 10:15:57 until 24.05.2025 14:00:59
+		Duration:	03:45:02
+		Location:	51.26179 8.66692
+
+(7) - 67.0 km / 106.0 km
+	DPH2
+		Images:	459
+		Time:	24.05.2025 10:17:24 until 24.05.2025 15:45:38
+		Duration:	05:28:14
+		Location:	51.27079 8.56919
+
+(8) - 70.0 km / 108.0 km
+	HM2LS2
+		Images:	681
+		Time:	24.05.2025 09:54:52 until 24.05.2025 15:18:05
+		Duration:	05:23:13
+		Location:	51.27968 8.57232
+
+	HM2LS1
+		Images:	667
+		Time:	24.05.2025 09:54:52 until 24.05.2025 15:18:05
+		Duration:	05:23:13
+		Location:	51.27968 8.57232
+
+	HM2
+		Images:	513
+		Time:	24.05.2025 10:12:49 until 24.05.2025 15:53:12
+		Duration:	05:40:23
+		Location:	51.28168 8.57202
+
+(9) - 71.0 km / 109.0 km
+	KSA3
+		Images:	1535
+		Time:	24.05.2025 11:51:39 until 24.05.2025 15:57:24
+		Duration:	04:05:45
+		Location:	51.28939 8.59184
+
+(10) - Finish
+	SAMA2
+		Images:	2625
+		Time:	24.05.2025 09:18:39 until 24.05.2025 16:06:17
+		Duration:	06:47:38
+		Location:	51.29117 8.60059
+

@@ -1,0 +1,117 @@
+EventId: 14408
+Spots: 17
+Total Images: 35740
+Time:	27.04.2025 08:56:56 to 27.04.2025 16:40:57
+Duration: 07:44:01
+
+(1) - Start
+	TE2
+		Images:	1221
+		Time:	27.04.2025 09:46:35 until 27.04.2025 11:04:31
+		Duration:	01:17:56
+		Location:	47.92675 7.02806
+
+	DIG1
+		Images:	4015
+		Time:	27.04.2025 08:56:56 until 27.04.2025 12:04:04
+		Duration:	03:07:08
+		Location:	47.92757 7.02841
+
+(2) - 0.5 km Le Markstein (33KM, 24KM, 16KM)
+	TE2LS2
+		Images:	591
+		Time:	27.04.2025 09:34:10 until 27.04.2025 11:14:27
+		Duration:	01:40:17
+		Location:	47.92200 7.03400
+
+	TE2LS1
+		Images:	631
+		Time:	27.04.2025 09:27:11 until 27.04.2025 11:15:29
+		Duration:	01:48:18
+		Location:	47.92200 7.03400
+
+(3) - 18.2 km Col du Haag (33KM)
+	BECK1
+		Images:	1412
+		Time:	27.04.2025 11:37:14 until 27.04.2025 14:22:35
+		Duration:	02:45:21
+		Location:	47.90560 7.09003
+
+	BECK1LS2
+		Images:	474
+		Time:	27.04.2025 11:08:31 until 27.04.2025 13:27:08
+		Duration:	02:18:37
+		Location:	47.90560 7.09003
+
+	BECK1LS1
+		Images:	563
+		Time:	27.04.2025 11:22:39 until 27.04.2025 13:21:09
+		Duration:	01:58:30
+		Location:	47.90560 7.09003
+
+(4) - 24.8 km / 15.2 km / 5.3 km Hundsruecken (33KM, 24KM, 16KM)
+	MAMO1
+		Images:	1906
+		Time:	27.04.2025 11:22:32 until 27.04.2025 14:51:44
+		Duration:	03:29:12
+		Location:	47.91282 7.04893
+
+(5) - 28.6 km / 18.9 km / 9.0 km Lac de la Lauch (33KM, 24KM, 16KM)
+	JFI1
+		Images:	2584
+		Time:	27.04.2025 11:25:43 until 27.04.2025 15:35:59
+		Duration:	04:10:16
+		Location:	47.93585 7.04557
+
+(6) - 29.6 km / 19.9 km / 10.0 km Oberlauchen (33KM, 24KM, 16KM)
+	HS1
+		Images:	3213
+		Time:	27.04.2025 11:05:19 until 27.04.2025 15:49:42
+		Duration:	04:44:23
+		Location:	47.93585 7.04557
+
+	HS1LS2
+		Images:	1417
+		Time:	27.04.2025 11:36:05 until 27.04.2025 15:49:50
+		Duration:	04:13:45
+		Location:	47.93585 7.04557
+
+	HS1LS1
+		Images:	800
+		Time:	27.04.2025 11:35:56 until 27.04.2025 15:49:41
+		Duration:	04:13:45
+		Location:	47.93585 7.04557
+
+(7) - 32.5 km / 22.8 km / 16.6 km Le Markstein (33KM, 24KM, 16KM)
+	TE1
+		Images:	6816
+		Time:	27.04.2025 12:01:21 until 27.04.2025 16:31:31
+		Duration:	04:30:10
+		Location:	47.92899 7.02886
+
+	TE1LS2
+		Images:	2260
+		Time:	27.04.2025 11:29:41 until 27.04.2025 16:21:34
+		Duration:	04:51:53
+		Location:	47.92899 7.02886
+
+	TE1LS1
+		Images:	1793
+		Time:	27.04.2025 11:38:36 until 27.04.2025 16:15:57
+		Duration:	04:37:21
+		Location:	47.92899 7.02886
+
+(8) - Finish
+	DIG3
+		Images:	6021
+		Time:	27.04.2025 12:18:16 until 27.04.2025 16:40:57
+		Duration:	04:22:41
+		Location:	47.92757 7.02841
+
+(9) - Drone
+	BECK1DRONE1
+		Images:	23
+		Time:	27.04.2025 09:40:13 until 27.04.2025 13:59:33
+		Duration:	04:19:20
+		Location:	47.90560 7.09003
+
