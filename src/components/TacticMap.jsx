@@ -1,6 +1,7 @@
 import { Fragment, useEffect, useMemo, useState } from 'react';
 import L from 'leaflet';
 import { MapContainer, TileLayer, Polyline, Marker, Popup, useMap } from 'react-leaflet';
+import { usePlannerStore } from '../store/usePlannerStore';
 import { buildSpotMarkerHtml } from '../lib/spotMarkerHtml';
 import { buildReferenceSpotMarkerHtml } from '../lib/referenceSpotMarkerHtml';
 import { formatTimeShort } from '../lib/timeConflict';
@@ -54,6 +55,8 @@ function formatExactTime(iso) {
 }
 
 function ReferenceSpotMarker({ spot, index, referenceTimeline }) {
+  const openCreateSpotModal = usePlannerStore((s) => s.openCreateSpotModal);
+  const map = useMap();
   const icon = useMemo(
     () =>
       L.divIcon({
@@ -113,7 +116,17 @@ function ReferenceSpotMarker({ spot, index, referenceTimeline }) {
               </tbody>
             </table>
           )}
-          <div style={{ display: 'flex', gap: 6, marginTop: 4 }}>
+          <button
+            type="button"
+            onClick={() => {
+              map.closePopup();
+              openCreateSpotModal(lat, lng, { name: spot.name, location_type: 'photo' });
+            }}
+            style={{ display: 'block', width: '100%', marginTop: 8, marginBottom: 4, background: '#1C2B6B', color: '#fff', border: 'none', borderRadius: 7, padding: '6px 0', fontSize: 12, fontWeight: 800, cursor: 'pointer', letterSpacing: '0.01em' }}
+          >
+            Übernehmen
+          </button>
+          <div style={{ display: 'flex', gap: 6 }}>
             <a href={streetViewUrl} target="_blank" rel="noreferrer"
               style={{ flex: 1, textAlign: 'center', background: '#f1f5f9', color: '#1C2B6B', borderRadius: 6, padding: '4px 0', fontSize: 11, fontWeight: 700, textDecoration: 'none', display: 'block' }}>
               Street View

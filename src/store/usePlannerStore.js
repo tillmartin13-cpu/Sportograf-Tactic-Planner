@@ -137,9 +137,9 @@ export const usePlannerStore = create(
 
       setMapExpanded: (mapExpanded) => set({ mapExpanded }),
 
-      openCreateSpotModal: (lat, lng) =>
+      openCreateSpotModal: (lat, lng, prefill = null) =>
         set({
-          spotModal: { open: true, mode: 'create', spotId: null, lat, lng },
+          spotModal: { open: true, mode: 'create', spotId: null, lat, lng, prefill },
         }),
 
       openEditSpotModal: (spotId) => {
@@ -159,7 +159,7 @@ export const usePlannerStore = create(
 
       closeSpotModal: () =>
         set({
-          spotModal: { open: false, mode: 'create', spotId: null, lat: null, lng: null },
+          spotModal: { open: false, mode: 'create', spotId: null, lat: null, lng: null, prefill: null },
         }),
 
       saveSpotFromModal: ({

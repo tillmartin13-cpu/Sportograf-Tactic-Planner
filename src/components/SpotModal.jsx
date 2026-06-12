@@ -121,9 +121,10 @@ export function SpotModal() {
       setNotes(editingSpot.notes || '');
       setRefImages(editingSpot.refImages || []);
     } else {
-      setLocationType('photo');
-      setName('');
-      setNotes('');
+      const pre = spotModal?.prefill || {};
+      setLocationType(pre.location_type || 'photo');
+      setName(pre.name || '');
+      setNotes(pre.notes || '');
       setRefImages([]);
     }
   }, [spotModal?.open, spotModal?.spotId, editingSpot?.id]);
