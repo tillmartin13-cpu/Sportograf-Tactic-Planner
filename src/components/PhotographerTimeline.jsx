@@ -7,6 +7,16 @@ const PALETTE = [
   '#15803d','#b91c1c','#1d4ed8','#c2410c','#4f46e5','#047857',
 ];
 
+// Strip trailing spot-index digits to get photographer base code.
+// Also filter out automatic camera suffixes (LS, DRONE, IMP, PANO).
+const AUTO_SUFFIX = /(?:LS|DRONE|IMP|PANO)\d*$/i;
+
+function baseCode(code) {
+  if (!code) return code;
+  if (AUTO_SUFFIX.test(code)) return null; // automatic camera, not a person
+  return code.replace(/\d+$/, '') || code;
+}
+
 function toMinutes(iso) {
   if (!iso) return null;
   const d = new Date(iso);
@@ -31,19 +41,24 @@ export function PhotographerTimeline({ timeline = [], referenceLabel }) {
   const { t } = useTranslation();
   const [tooltip, setTooltip] = useState(null);
 
-  const { byCode, codes, rangeMin, rangeSpan } = useMemo(() => {
+  const { byCode, codes, rangeMin, rangeSpan, totalSpots } = useMemo(() => {
     const byCode = {};
+    let totalSpots = 0;
     for (const entry of timeline) {
       if (!entry.code || !entry.time_from || !entry.time_to) continue;
-      if (!byCode[entry.code]) byCode[entry.code] = [];
-      byCode[entry.code].push(entry);
+      const base = baseCode(entry.code);
+      if (!base) continue; // automatic camera (LS, DRONE, etc.)
+      if (!byCode[base]) byCode[base] = [];
+      byCode[base].push({ ...entry, originalCode: entry.code });
+      totalSpots++;
     }
     const codes = Object.keys(byCode).sort();
-    const allMins = timeline.flatMap(e => [toMinutes(e.time_from), toMinutes(e.time_to)]).filter(Boolean);
+    const validEntries = Object.values(byCode).flat();
+    const allMins = validEntries.flatMap(e => [toMinutes(e.time_from), toMinutes(e.time_to)]).filter(Boolean);
     const rangeMin = Math.max(0, (Math.min(...allMins) || 0) - 15);
     const rangeMax = Math.min(1440, (Math.max(...allMins) || 1440) + 15);
     const rangeSpan = rangeMax - rangeMin || 1;
-    return { byCode, codes, rangeMin, rangeSpan };
+    return { byCode, codes, rangeMin, rangeSpan, totalSpots };
   }, [timeline]);
 
   if (!codes.length) return null;
@@ -63,7 +78,7 @@ export function PhotographerTimeline({ timeline = [], referenceLabel }) {
           )}
         </div>
         <span className="rounded-full bg-[#f0f4ff] px-2 py-0.5 text-[10px] font-bold text-[#5b6aa8]">
-          {codes.length} {t('refTimelinePhotographers') || 'photographers'}
+          {codes.length} {t('refTimelinePhotographers') || 'photographers'} · {totalSpots} {t('refSpotsCount') || 'spots'}
         </span>
       </div>
 
@@ -119,6 +134,9 @@ export function PhotographerTimeline({ timeline = [], referenceLabel }) {
       {tooltip && (
         <div className="mt-2 rounded-lg bg-[#f0f4ff] px-3 py-2 text-[10px] text-[#1C2B6B]">
           <span className="font-bold" style={{ color: colorOf(tooltip.code) }}>{tooltip.code}</span>
+          {tooltip.entry.originalCode && tooltip.entry.originalCode !== tooltip.code && (
+            <span className="ml-1 text-[#b0b8cf]">({tooltip.entry.originalCode})</span>
+          )}
           {' · '}
           <span className="font-semibold">{tooltip.entry.spotName}</span>
           {' · '}

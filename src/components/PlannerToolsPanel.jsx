@@ -152,15 +152,17 @@ function PanelContent({ activeView, onViewChange, onClose }) {
       <div className="border-b border-[var(--sg-border)] bg-white px-4 py-3.5">
         {event ? (
           <>
-            <div className="mb-0.5 text-[10px] font-bold uppercase tracking-widest text-[#b0b8cf]">
-              Event #{event.id}
-            </div>
             <div className="truncate text-sm font-extrabold text-[var(--sg-navy)]">
               {event.name || `Event ${event.id}`}
             </div>
-            {event.eventDate && (
-              <div className="mt-0.5 text-xs text-[var(--sg-muted)]">{event.eventDate}</div>
-            )}
+            <div className="mt-0.5 flex items-center gap-1.5">
+              <span className="rounded bg-[#e8eaf6] px-1.5 py-0.5 text-[11px] font-extrabold tracking-wide text-[#4a5680]">
+                {event.id}
+              </span>
+              {event.eventDate && (
+                <span className="text-xs text-[var(--sg-muted)]">{event.eventDate}</span>
+              )}
+            </div>
             <div className="mt-3 grid grid-cols-3 gap-1.5">
               <Stat label="Photographers" value={hasTeam ? photographers.length : '—'} ok={hasTeam} />
               <Stat label="Spots" value={hasSpots ? tactic.spots.length : '—'} ok={hasSpots} />
