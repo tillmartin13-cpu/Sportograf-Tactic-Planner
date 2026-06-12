@@ -170,34 +170,22 @@ function NavigateButton({ lat, lng }) {
 
 // ─── Personalized profile card ───────────────────────────────────────────────
 
-function ProfileCard({ profile, spotCount }) {
+function ProfileCard({ profile }) {
   const fullName = [profile.firstName, profile.lastName].filter(Boolean).join(' ') || profile.name || profile.code;
   const cameras = profile.cameras || profile.equipment || '';
   const lenses = profile.lenses || '';
   const flashes = profile.flashes || '';
-  const dispatch = profile.dispatch || '';
 
   const camSettings = cameras ? findAllCameraSettings(cameras) : [];
 
   return (
     <div className="rounded-2xl border border-[#1C2B6B]/20 bg-[#f0f2fa] p-4">
       <div className="flex items-start gap-3">
-        {/* Avatar */}
         <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-2xl bg-[#1C2B6B] text-sm font-extrabold text-white">
           {profile.code}
         </div>
         <div className="min-w-0 flex-1">
           <div className="font-extrabold text-[#1C2B6B] leading-tight">{fullName}</div>
-          <div className="flex flex-wrap gap-1.5 mt-1">
-            <span className="rounded-full bg-[#1C2B6B]/10 px-2 py-0.5 text-[10px] font-bold text-[#1C2B6B]">
-              📷 {spotCount} spot{spotCount !== 1 ? 's' : ''}
-            </span>
-            {dispatch && (
-              <span className="rounded-full bg-[#1C2B6B]/10 px-2 py-0.5 text-[10px] font-bold text-[#1C2B6B]">
-                📍 {dispatch.toUpperCase()}
-              </span>
-            )}
-          </div>
         </div>
       </div>
 
@@ -699,16 +687,16 @@ function WeatherBriefing({ event, spots }) {
   const lat = event?.latitude ?? event?.lat ?? spots.find((s) => s.latitude != null)?.latitude;
   const lon = event?.longitude ?? event?.lon ?? spots.find((s) => s.longitude != null)?.longitude;
   // Support both date field names
-  const dateStr = event?.date || event?.eventDate || null;
+  // Fall back to today if no event date set
+  const today = new Date().toISOString().slice(0, 10);
+  const dateStr = event?.date || event?.eventDate || today;
 
   const { weather, loading, error } = useWeather(lat, lon, dateStr);
 
-  if (!dateStr) return null; // no date, can't show weather
   if (!lat || !lon) return null; // no location
 
   const diffDays = (new Date(dateStr) - new Date()) / 86400000;
   if (diffDays < -1 || diffDays > 16) {
-    // Out of forecast range
     return (
       <div className="rounded-2xl border border-gray-100 bg-gray-50 px-4 py-3 text-xs text-gray-400">
         🌤️ Weather forecast only available within 16 days of the event.
@@ -835,27 +823,24 @@ function WeatherBriefing({ event, spots }) {
 
 function TLInfoSection({ pkg }) {
   const tlInfo = pkg?.tactic?.tlInfo;
+  const [open, setOpen] = useState(false);
   if (!tlInfo) return null;
   const { notes, whatsappGroups = [] } = tlInfo;
   if (!notes && !whatsappGroups.length) return null;
 
+  // WhatsApp groups shown always as quick-access buttons; notes + non-chat groups behind toggle
+  const chatGroups = whatsappGroups.filter((g) => g.name === 'Team Chat');
+  const otherGroups = whatsappGroups.filter((g) => g.name !== 'Team Chat');
+
   return (
-    <div className="rounded-2xl border border-[#e3e7f2] bg-white p-4">
-      <h3 className="mb-3 text-xs font-bold uppercase tracking-wider text-gray-400">Team Info</h3>
-      {notes && (
-        <p className="mb-3 whitespace-pre-wrap text-sm text-[#1C2B6B] leading-relaxed">{notes}</p>
-      )}
-      {whatsappGroups.length > 0 && (
-        <div className="flex flex-col gap-2">
-          {whatsappGroups.map((g) => (
-            <a
-              key={g.id}
-              href={g.url}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex items-center gap-3 rounded-xl bg-[#f0fdf4] px-3 py-2.5 text-sm font-bold text-[#166534] hover:bg-[#dcfce7] transition-colors"
-            >
-              <svg viewBox="0 0 24 24" fill="currentColor" className="h-5 w-5 text-[#25D366] shrink-0">
+    <div className="rounded-2xl border border-[#e3e7f2] bg-white overflow-hidden">
+      {/* Always visible: Team Chat buttons */}
+      {chatGroups.length > 0 && (
+        <div className="flex flex-wrap gap-2 px-4 pt-3 pb-2">
+          {chatGroups.map((g) => (
+            <a key={g.id} href={g.url} target="_blank" rel="noopener noreferrer"
+              className="flex items-center gap-2 rounded-xl bg-[#f0fdf4] px-3 py-2 text-sm font-bold text-[#166534] hover:bg-[#dcfce7] transition-colors">
+              <svg viewBox="0 0 24 24" fill="currentColor" className="h-4 w-4 text-[#25D366] shrink-0">
                 <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/>
                 <path d="M12 0C5.373 0 0 5.373 0 12c0 2.127.558 4.126 1.532 5.862L.053 23.447a.5.5 0 0 0 .608.61l5.701-1.494A11.954 11.954 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.89 0-3.663-.523-5.176-1.432l-.371-.22-3.383.887.9-3.293-.242-.381A9.96 9.96 0 0 1 2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/>
               </svg>
@@ -863,6 +848,39 @@ function TLInfoSection({ pkg }) {
             </a>
           ))}
         </div>
+      )}
+
+      {/* Collapsible: notes + other groups */}
+      {(notes || otherGroups.length > 0) && (
+        <>
+          <button type="button" onClick={() => setOpen((v) => !v)}
+            className="flex w-full items-center justify-between px-4 py-2.5 text-left hover:bg-[#f8f9ff] transition-colors">
+            <span className="text-xs font-bold uppercase tracking-wider text-gray-400">Team Info</span>
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"
+              className={`text-[#b0b8cf] transition-transform ${open ? 'rotate-180' : ''}`}>
+              <polyline points="6 9 12 15 18 9" />
+            </svg>
+          </button>
+          {open && (
+            <div className="border-t border-[#f0f2fa] px-4 pb-4 pt-3 space-y-3">
+              {notes && <p className="whitespace-pre-wrap text-sm text-[#1C2B6B] leading-relaxed">{notes}</p>}
+              {otherGroups.length > 0 && (
+                <div className="flex flex-col gap-2">
+                  {otherGroups.map((g) => (
+                    <a key={g.id} href={g.url} target="_blank" rel="noopener noreferrer"
+                      className="flex items-center gap-3 rounded-xl bg-[#f0fdf4] px-3 py-2.5 text-sm font-bold text-[#166534] hover:bg-[#dcfce7] transition-colors">
+                      <svg viewBox="0 0 24 24" fill="currentColor" className="h-4 w-4 text-[#25D366] shrink-0">
+                        <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/>
+                        <path d="M12 0C5.373 0 0 5.373 0 12c0 2.127.558 4.126 1.532 5.862L.053 23.447a.5.5 0 0 0 .608.61l5.701-1.494A11.954 11.954 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.89 0-3.663-.523-5.176-1.432l-.371-.22-3.383.887.9-3.293-.242-.381A9.96 9.96 0 0 1 2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/>
+                      </svg>
+                      {g.name}
+                    </a>
+                  ))}
+                </div>
+              )}
+            </div>
+          )}
+        </>
       )}
     </div>
   );
@@ -988,19 +1006,20 @@ export function TacticDetail({ onOpenCheckIn }) {
   const spots = entry?.pkg?.tactic?.spots ?? [];
   const photographers = entry?.pkg?.photographers ?? [];
   const assignments = entry?.pkg?.tactic?.assignments ?? [];
-  const ph = photographers.find(
-    (p) => p.code === acronym || p.code === acronym?.replace(/\d+$/, ''),
-  );
+  const normalizedAcronym = acronym?.trim().toUpperCase();
+  const ph = photographers.find((p) => {
+    const code = p.code?.trim().toUpperCase();
+    return code === normalizedAcronym || code === normalizedAcronym?.replace(/\d+$/, '');
+  });
   const mySpotIds = ph
     ? new Set(assignments.filter((a) => a.photographer_id === ph.id).map((a) => a.spot_id))
     : null;
   // Primary: assignment-based. Fallback: spot name starts with photographer code
-  // (e.g. "TILL2" matches photographer "TILL" when TL forgot to create the assignment)
   const mySpots = mySpotIds
     ? spots.filter(
         (s) =>
           mySpotIds.has(s.id) ||
-          (acronym && s.name?.toUpperCase().startsWith(acronym.toUpperCase())),
+          (normalizedAcronym && s.name?.toUpperCase().startsWith(normalizedAcronym.replace(/\d+$/, ''))),
       )
     : spots;
 
@@ -1050,10 +1069,16 @@ export function TacticDetail({ onOpenCheckIn }) {
         </button>
       </div>
 
-      {/* Personalized profile card */}
+      {/* Personalized profile card — equipment only */}
       {isMatched && profile && (
-        <ProfileCard profile={profile} spotCount={mySpots.length} />
+        <ProfileCard profile={profile} />
       )}
+
+      {/* TL Info — collapsible, above map */}
+      <TLInfoSection pkg={pkg} />
+
+      {/* Weather briefing */}
+      <WeatherBriefing event={event} spots={mySpots.length > 0 ? mySpots : spots} />
 
       {/* Spots map — all spots + GPX tracks */}
       <SpotsMap
@@ -1061,12 +1086,6 @@ export function TacticDetail({ onOpenCheckIn }) {
         mySpotIds={mySpotIds ?? null}
         gpxTracks={entry?.pkg?.tactic?.gpxTracks ?? []}
       />
-
-      {/* Weather briefing */}
-      <WeatherBriefing event={event} spots={mySpots.length > 0 ? mySpots : spots} />
-
-      {/* TL Info */}
-      <TLInfoSection pkg={pkg} />
 
       {/* HYROX stations */}
       {event?.eventType === 'hyrox' && (
