@@ -150,15 +150,24 @@ export function HyroxPlanner() {
     patch({ stations: next });
   }
 
-  // Which photographers are already assigned somewhere (for visual hint)
-  const allAssigned = new Set(Object.values(assignments).flat());
+  // Per-photographer: which station indices (1-based) they appear in (any wave)
+  const phStations = {};
+  stations.forEach((station, idx) => {
+    waves.forEach((wave) => {
+      const key = cellKey(station.id, wave);
+      (assignments[key] || []).forEach((phId) => {
+        if (!phStations[phId]) phStations[phId] = new Set();
+        phStations[phId].add(idx + 1);
+      });
+    });
+  });
 
   return (
     <div className="flex min-h-0 flex-1 flex-col gap-4 overflow-hidden p-4">
       {/* Header */}
       <div className="flex items-center justify-between">
         <div>
-          <h2 className="text-lg font-extrabold text-[#1C2B6B]">🏋️ Hyrox Planner</h2>
+          <h2 className="text-lg font-extrabold text-[#1C2B6B]">Hyrox Planner</h2>
           <p className="text-xs text-gray-400">{waves.length} waves · {stations.length} stations</p>
         </div>
         <div className="flex items-center gap-2">
@@ -196,20 +205,40 @@ export function HyroxPlanner() {
             {photographers.length === 0 && (
               <p className="text-xs text-gray-300 italic">Import team CSV first</p>
             )}
-            {photographers.map((ph) => (
-              <div
-                key={ph.id}
-                draggable
-                onDragStart={(e) => { e.dataTransfer.setData('ph_id', ph.id); setDragId(ph.id); }}
-                onDragEnd={() => setDragId(null)}
-                className={`flex cursor-grab items-center gap-2 rounded-xl border px-2.5 py-2 select-none transition-opacity ${
-                  dragId === ph.id ? 'opacity-40' : allAssigned.has(ph.id) ? 'border-gray-100 bg-gray-50' : 'border-[#e3e7f2] bg-white hover:border-[#1C2B6B]'
-                }`}
-              >
-                <span className="text-xs font-extrabold text-[#1C2B6B]">{ph.code}</span>
-                <span className="truncate text-[10px] text-gray-400">{ph.firstName || ph.name || ''}</span>
-              </div>
-            ))}
+            {photographers.map((ph) => {
+              const spots = phStations[ph.id] ? [...phStations[ph.id]].sort((a, b) => a - b) : [];
+              const count = spots.length;
+              const isYellow = count === 1;
+              const isGreen = count >= 2;
+              return (
+                <div
+                  key={ph.id}
+                  draggable
+                  onDragStart={(e) => { e.dataTransfer.setData('ph_id', ph.id); setDragId(ph.id); }}
+                  onDragEnd={() => setDragId(null)}
+                  className={`flex cursor-grab items-center gap-2 rounded-xl border px-2.5 py-2 select-none transition-opacity ${
+                    dragId === ph.id ? 'opacity-40' : ''
+                  } ${
+                    isGreen
+                      ? 'border-green-300 bg-green-50'
+                      : isYellow
+                      ? 'border-yellow-300 bg-yellow-50'
+                      : 'border-[#e3e7f2] bg-white hover:border-[#1C2B6B]'
+                  }`}
+                >
+                  <span className={`text-xs font-extrabold ${isGreen ? 'text-green-700' : isYellow ? 'text-yellow-700' : 'text-[#1C2B6B]'}`}>
+                    {ph.code}
+                  </span>
+                  {count > 0 ? (
+                    <span className={`text-[10px] font-bold ${isGreen ? 'text-green-600' : 'text-yellow-600'}`}>
+                      {spots.join(', ')}
+                    </span>
+                  ) : (
+                    <span className="truncate text-[10px] text-gray-400">{ph.firstName || ph.name || ''}</span>
+                  )}
+                </div>
+              );
+            })}
           </div>
         </div>
 
@@ -228,7 +257,7 @@ export function HyroxPlanner() {
                     active ? 'bg-[#1C2B6B] text-white' : 'bg-gray-100 text-gray-400'
                   }`}
                 >
-                  {s.icon} {s.label}
+                  {s.label}
                 </button>
               );
             })}
@@ -252,7 +281,10 @@ export function HyroxPlanner() {
                   <tr key={station.id} className="hover:bg-gray-50/50">
                     <td className="border border-gray-200 px-3 py-2">
                       <div className="flex items-center gap-2">
-                        <span style={{ color: station.color }}>{station.icon}</span>
+                        <span
+                          className="inline-block h-2.5 w-2.5 shrink-0 rounded-full"
+                          style={{ background: station.color }}
+                        />
                         <span className="text-xs font-bold text-gray-700">{station.label}</span>
                       </div>
                     </td>

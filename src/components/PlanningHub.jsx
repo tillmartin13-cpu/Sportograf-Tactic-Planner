@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { usePlannerStore } from '../store/usePlannerStore';
 import { useCurrentEvent } from '../hooks/useCurrentEvent';
 import { useTactic } from '../hooks/useTactic';
@@ -23,7 +23,13 @@ export function PlanningHub({ title = 'Tactic Planner' }) {
   const tactic = useTactic(event?.id);
   const { t } = useTranslation();
 
-  const [activeView, setActiveView] = useState('planner');
+  const [activeView, setActiveView] = useState(() =>
+    event?.eventType === 'hyrox' ? 'hyrox' : 'planner',
+  );
+
+  useEffect(() => {
+    setActiveView(event?.eventType === 'hyrox' ? 'hyrox' : 'planner');
+  }, [event?.id]);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [mobileSidebarOpen, setMobileSidebarOpen] = useState(false);
 

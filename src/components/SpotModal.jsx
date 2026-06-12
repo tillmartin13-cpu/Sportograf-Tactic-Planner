@@ -2,7 +2,7 @@ import { useEffect, useMemo, useState } from 'react';
 import { usePlannerStore } from '../store/usePlannerStore';
 import { LsIcon } from './LsIcon';
 import { useCurrentEvent } from '../hooks/useCurrentEvent';
-import { isIndoorEvent } from '../lib/hyrox';
+import { isIndoorEvent, getSpotTerms } from '../lib/hyrox';
 import { useTactic } from '../hooks/useTactic';
 import { LOCATION_TYPES } from '../lib/locationTypes';
 import { TRACK_COLORS } from '../lib/locationTypes';
@@ -132,7 +132,9 @@ export function SpotModal() {
 
   if (!spotModal?.open || !event) return null;
 
-  const nav = coords ? getSpotNavUrls(coords.lat, coords.lng) : null;
+  const terms = getSpotTerms(event);
+  const noRoute = isIndoorEvent(event); // obstacle_no_gpx or hyrox
+  const nav = coords && !noRoute ? getSpotNavUrls(coords.lat, coords.lng) : null;
   const isPhoto = locationType === 'photo';
 
   const toggleKm = (trackIndex, km) => {
@@ -159,7 +161,7 @@ export function SpotModal() {
   };
 
   const handleSave = () => {
-    if (!coords) {
+    if (!coords && !noRoute) {
       usePlannerStore.getState().showToast(tab === 'paste' ? 'Resolve the location first.' : 'No pin placed.');
       return;
     }
@@ -218,7 +220,9 @@ export function SpotModal() {
         <div className="mb-4 flex items-start justify-between gap-3">
           <div>
             <h2 className="sg-card-title">
-              {spotModal.mode === 'edit' ? 'Edit spot' : (spotModal.prefill?.name || 'New spot')}
+              {spotModal.mode === 'edit'
+                ? terms.editLabel
+                : (spotModal.prefill?.name || terms.newLabel)}
             </h2>
             {spotModal.mode === 'create' && spotModal.prefill?.name && (
               <p className="mt-0.5 text-[10px] text-[#8a93b0]">From 2025 reference</p>
@@ -253,7 +257,7 @@ export function SpotModal() {
               })}
         </div>
 
-        {spotModal.mode === 'create' && (
+        {spotModal.mode === 'create' && !noRoute && (
           <>
             <div className="mb-3 flex gap-2">
               <button
@@ -293,12 +297,12 @@ export function SpotModal() {
           </>
         )}
 
-        {coords && (
+        {coords && !noRoute && (
           <p className="mb-3 rounded-lg bg-[#f6f8ff] px-3 py-2 text-xs font-semibold text-[#5b6aa8]">
             📍 {coords.lat.toFixed(5)}, {coords.lng.toFixed(5)}
             {spotModal.mode === 'edit' && (
               <span className="mt-0.5 block text-[10px] font-normal text-[#8a93b0]">
-                Move photo spots by dragging on the map
+                Move spots by dragging on the map
               </span>
             )}
           </p>

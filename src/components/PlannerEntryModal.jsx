@@ -141,6 +141,13 @@ export function PlannerEntryModal() {
               >
                 {codeLoading ? '…' : t('entryLoadReference')}
               </button>
+              <button
+                type="button"
+                onClick={closePlannerEntryModal}
+                className="mt-2 w-full rounded-xl border border-[var(--sg-border)] bg-white px-3 py-2 text-sm font-semibold text-[var(--sg-muted)] hover:border-[#c0c8e8] hover:text-[var(--sg-navy)] transition-colors"
+              >
+                Continue without last year's reference
+              </button>
             </form>
           </div>
         </section>
