@@ -123,7 +123,7 @@ export function SpotModal() {
     } else {
       const pre = spotModal?.prefill || {};
       setLocationType(pre.location_type || 'photo');
-      setName(pre.name || '');
+      setName(''); // photographer acronym always starts empty
       setNotes(pre.notes || '');
       setRefImages([]);
     }
@@ -215,7 +215,14 @@ export function SpotModal() {
     <div className="fixed inset-0 z-[8000] flex items-end justify-center bg-black/45 p-4 sm:items-center">
       <div className="sg-card flex max-h-[92vh] w-full max-w-lg flex-col overflow-y-auto p-5">
         <div className="mb-4 flex items-start justify-between gap-3">
-          <h2 className="sg-card-title">{spotModal.mode === 'edit' ? 'Edit spot' : 'New spot'}</h2>
+          <div>
+            <h2 className="sg-card-title">
+              {spotModal.mode === 'edit' ? 'Edit spot' : (spotModal.prefill?.name || 'New spot')}
+            </h2>
+            {spotModal.mode === 'create' && spotModal.prefill?.name && (
+              <p className="mt-0.5 text-[10px] text-[#8a93b0]">From 2025 reference</p>
+            )}
+          </div>
           <button type="button" onClick={closeSpotModal} className="text-lg text-[#ccc] hover:text-[var(--sg-navy)]">
             ✕
           </button>
