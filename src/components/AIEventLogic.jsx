@@ -106,8 +106,8 @@ export function AIEventLogicModal({ onClose }) {
   }
 
   async function runAnalysis() {
-    if (files.length === 0) {
-      alert('Please upload at least one file (event schedule or tactic JSON).');
+    if (files.length === 0 && !question.trim()) {
+      alert('Bitte lade mindestens eine Datei hoch oder gib Text ein.');
       return;
     }
 
@@ -204,7 +204,7 @@ export function AIEventLogicModal({ onClose }) {
 
           {/* File upload */}
           <div>
-            <div className="mb-2 text-[10px] font-bold uppercase tracking-widest text-[#8a93b0]">Upload files</div>
+            <div className="mb-2 text-[10px] font-bold uppercase tracking-widest text-[#8a93b0]">Dateien hochladen <span className="normal-case font-normal text-[#b0b8cf]">(optional)</span></div>
             <div
               className="rounded-2xl border-2 border-dashed border-[#d5daea] bg-white p-5 text-center cursor-pointer hover:border-[#1C2B6B]/40 hover:bg-[#f8f9ff] transition-all"
               onClick={() => fileRef.current?.click()}
@@ -232,16 +232,16 @@ export function AIEventLogicModal({ onClose }) {
             )}
           </div>
 
-          {/* Optional context */}
+          {/* Text input */}
           <div>
             <label className="block text-[10px] font-bold uppercase tracking-widest text-[#8a93b0] mb-1.5">
-              Additional context <span className="normal-case font-normal">(optional)</span>
+              Textangaben <span className="normal-case font-normal text-[#b0b8cf]">(optional)</span>
             </label>
             <textarea
               value={question}
               onChange={(e) => setQuestion(e.target.value)}
-              placeholder={'e.g. "Elite wave starts at 09:00, mass start at 09:30. Focus on km 12 and km 28."'}
-              className="w-full rounded-xl border border-[#e3e7f2] bg-white px-3 py-2.5 text-xs outline-none focus:border-[#1C2B6B] min-h-[60px] resize-none"
+              placeholder={'z.B. "Elitewelle startet 09:00, Massenstart 09:30. Spot 1 bei km 5, Spot 2 bei km 12…"'}
+              className="w-full rounded-xl border border-[#e3e7f2] bg-white px-3 py-2.5 text-xs outline-none focus:border-[#1C2B6B] min-h-[100px] resize-none"
             />
           </div>
 
@@ -249,7 +249,7 @@ export function AIEventLogicModal({ onClose }) {
           <button
             type="button"
             onClick={runAnalysis}
-            disabled={status === 'loading' || files.length === 0}
+            disabled={status === 'loading' || (files.length === 0 && !question.trim())}
             className="w-full rounded-2xl bg-gradient-to-r from-[#1C2B6B] to-[#2d3e8f] py-3.5 text-sm font-extrabold text-white transition-all hover:opacity-90 active:scale-[0.98] disabled:opacity-50 shadow-md"
           >
             {status === 'loading' ? (
