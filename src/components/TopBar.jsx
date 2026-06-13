@@ -52,7 +52,7 @@ export function TopBar({ title = 'Tactic Planner', onMenuOpen }) {
         </button>
 
         {/* Desktop: logo — hidden on mobile to save space */}
-        <BrandLogo variant="white" className="hidden lg:block h-7 w-[108px] shrink-0" />
+        <BrandLogo variant="white" className="hidden lg:block h-9 w-[136px] shrink-0" />
 
         <div className="sg-topbar-title pointer-events-auto">
           {editingName ? (

@@ -280,7 +280,7 @@ export function WelcomeScreen() {
           </svg>
         </button>
 
-        <img src="/sg-logo.svg" alt="Sportograf" className="h-6 object-contain" style={{ filter: 'brightness(0) invert(1)' }} />
+        <img src="/sg-logo.svg" alt="Sportograf" className="h-8 w-auto object-contain my-auto" style={{ filter: 'brightness(0) invert(1)' }} />
 
         <div className="flex-1" />
 

@@ -29,7 +29,7 @@ export function Sidebar() {
   return (
     <aside className="flex h-full w-72 shrink-0 flex-col border-r border-[var(--sg-border)] bg-white">
       <div className="border-b border-[#f0f0f0] px-4 py-4">
-        <BrandLogo className="h-10 w-[180px]" />
+        <BrandLogo className="h-11 w-[200px]" />
         <div className="mt-2 text-[11px] font-bold uppercase tracking-wide text-[var(--sg-muted)]">
           {t('appTitle')}
         </div>

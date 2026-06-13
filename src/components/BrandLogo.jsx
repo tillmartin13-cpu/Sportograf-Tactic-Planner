@@ -1,11 +1,13 @@
 export function BrandLogo({ variant = 'color', className = '' }) {
-  const style = variant === 'white' ? { filter: 'brightness(0) invert(1)' } : undefined;
+  const style = variant === 'white'
+    ? { filter: 'brightness(0) invert(1)' }
+    : undefined;
 
   return (
     <img
-      src="/assets/sportograf-logo.png"
+      src="/sg-logo.svg"
       alt="Sportograf"
-      className={`object-contain ${className}`}
+      className={`object-contain my-auto ${className}`}
       style={style}
     />
   );
