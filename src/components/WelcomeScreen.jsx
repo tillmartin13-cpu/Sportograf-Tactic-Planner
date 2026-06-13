@@ -167,6 +167,113 @@ function ModulePicker({ onSelect, onSettings }) {
     );
   }
 
+  // ── Mobile layout: card-based ──────────────────────────────────────────────
+  if (isMobile) {
+    const tlIcon = (
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" className="h-6 w-6">
+        <path d="M9 5H7a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-2"/>
+        <rect x="9" y="3" width="6" height="4" rx="2"/>
+        <path d="M9 12h6M9 16h4"/>
+      </svg>
+    );
+    const phIcon = (
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" className="h-6 w-6">
+        <path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"/>
+        <circle cx="12" cy="13" r="4"/>
+      </svg>
+    );
+    return (
+      <div className="relative flex h-[100dvh] w-full flex-col overflow-hidden select-none" style={{ background: '#0f1535' }}>
+        {/* subtle grid texture */}
+        <div className="pointer-events-none absolute inset-0 opacity-[0.03]"
+          style={{ backgroundImage: 'linear-gradient(rgba(255,255,255,0.5) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.5) 1px, transparent 1px)', backgroundSize: '32px 32px' }} />
+
+        {/* settings */}
+        <button type="button" onClick={onSettings}
+          className="absolute right-4 top-4 z-30 rounded-xl p-2.5 text-white/30 hover:text-white/60"
+          aria-label="Settings">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="h-5 w-5">
+            <circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/>
+          </svg>
+        </button>
+
+        {/* header */}
+        <div className="flex flex-col items-center pt-14 pb-6 px-6">
+          <img src="/mascot.png" alt="" className="h-16 w-auto mb-4" style={{ filter: 'drop-shadow(0 4px 16px rgba(0,0,0,0.5))' }} />
+          <p className="text-[10px] font-bold uppercase tracking-[0.25em] text-white/30">Sportograf</p>
+          <h1 className="mt-1 text-2xl font-black text-white">Tactic Tool</h1>
+        </div>
+
+        {/* cards */}
+        <div className="flex flex-1 flex-col gap-4 px-5 pb-6 overflow-y-auto">
+          {/* TL card */}
+          <button type="button" onClick={() => onSelect('tl')}
+            className="relative w-full overflow-hidden rounded-2xl text-left outline-none active:scale-[0.98] transition-transform"
+            style={{ background: 'linear-gradient(135deg, #1e2f7a 0%, #293377 100%)' }}>
+            <div className="absolute top-0 right-0 h-32 w-32 rounded-full opacity-10"
+              style={{ background: 'radial-gradient(circle, #fff 0%, transparent 70%)', transform: 'translate(20%, -30%)' }} />
+            <div className="relative p-5">
+              <div className="mb-4 flex items-center justify-between">
+                <div className="flex h-11 w-11 items-center justify-center rounded-xl text-white" style={{ background: 'rgba(255,255,255,0.12)' }}>
+                  {tlIcon}
+                </div>
+                <span className="text-[10px] font-bold uppercase tracking-[0.18em] text-white/35">Module</span>
+              </div>
+              <div className="mb-1 text-2xl font-black leading-tight text-white">Team Leader</div>
+              <p className="mb-4 text-sm text-white/50">Spots, photographers, routes & team tactics.</p>
+              <div className="flex items-center gap-1.5 self-start rounded-full border border-white/20 bg-white/10 px-4 py-2 text-sm font-bold text-white w-fit">
+                Open
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className="h-3.5 w-3.5">
+                  <path d="M5 12h14M12 5l7 7-7 7"/>
+                </svg>
+              </div>
+            </div>
+          </button>
+
+          {/* Apply now */}
+          <div className="flex flex-col items-center gap-1.5 -mt-1" onClick={(e) => e.stopPropagation()}>
+            <p className="text-[11px] text-white/30">Want to become a Team Leader?</p>
+            <a href="https://forms.gle/MZqTfC1L4kDP7Gsd6" target="_blank" rel="noreferrer"
+              className="rounded-full border border-white/20 bg-white/5 px-4 py-1.5 text-[11px] font-bold text-white/60 hover:text-white transition-colors">
+              Apply now →
+            </a>
+          </div>
+
+          {/* Photographer card */}
+          <button type="button" onClick={() => onSelect('photographer')}
+            className="relative w-full overflow-hidden rounded-2xl text-left outline-none active:scale-[0.98] transition-transform"
+            style={{ background: 'linear-gradient(135deg, #9e0f29 0%, #cc1336 100%)' }}>
+            <div className="absolute top-0 right-0 h-32 w-32 rounded-full opacity-10"
+              style={{ background: 'radial-gradient(circle, #fff 0%, transparent 70%)', transform: 'translate(20%, -30%)' }} />
+            <div className="relative p-5">
+              <div className="mb-4 flex items-center justify-between">
+                <div className="flex h-11 w-11 items-center justify-center rounded-xl text-white" style={{ background: 'rgba(255,255,255,0.12)' }}>
+                  {phIcon}
+                </div>
+                <span className="text-[10px] font-bold uppercase tracking-[0.18em] text-white/35">Module</span>
+              </div>
+              <div className="mb-1 text-2xl font-black leading-tight text-white">Photographer</div>
+              <p className="mb-4 text-sm text-white/50">Your spots, route & weather in one view.</p>
+              <div className="flex items-center gap-1.5 self-start rounded-full border border-white/20 bg-white/10 px-4 py-2 text-sm font-bold text-white w-fit">
+                Open
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className="h-3.5 w-3.5">
+                  <path d="M5 12h14M12 5l7 7-7 7"/>
+                </svg>
+              </div>
+            </div>
+          </button>
+        </div>
+
+        {/* footer */}
+        <div className="flex flex-col items-center gap-0.5 pb-5">
+          <span className="text-[10px] font-semibold tracking-wide text-white/20">Sportograf Digital Solutions GmbH</span>
+          <span className="text-[9px] text-white/15">v{APP_VERSION} · Stand {LAST_UPDATE}</span>
+        </div>
+      </div>
+    );
+  }
+
+  // ── Desktop layout: diagonal split ─────────────────────────────────────────
   return (
     <div className="relative flex h-[100dvh] w-full overflow-hidden select-none" style={{ background: '#1a2050' }}>
       {/* ── Decorative speed lines ── */}
