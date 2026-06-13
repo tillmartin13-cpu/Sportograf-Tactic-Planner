@@ -113,12 +113,10 @@ export async function generateCheckInCertificate({
 
   let logoDrawn = false;
   try {
-    const logo = await loadImage('/assets/sportograf-logo.png');
-    const logoW = 120;
+    const logo = await loadImage('/assets/sg-logo-white.svg');
+    const logoW = 130;
     const logoH = (logo.height / logo.width) * logoW;
-    ctx.filter = 'brightness(0) invert(1)';
-    ctx.drawImage(logo, 36, 22, logoW, logoH);
-    ctx.filter = 'none';
+    ctx.drawImage(logo, 36, (headerH - logoH) / 2, logoW, logoH);
     logoDrawn = true;
   } catch {
     ctx.fillStyle = COLORS.white;
