@@ -108,16 +108,34 @@ function ActiveProfile({ track, trackIndex, spots, color, onHoverKm }) {
   const hoverEle = hoverKm != null ? eleAtKm(profile, hoverKm) : null;
   const hoverY = hoverEle != null ? eleToY(hoverEle, profile.minEle, profile.range) : null;
 
-  function handleMouseMove(e) {
+  function xToKm(clientX) {
     const rect = svgRef.current?.getBoundingClientRect();
-    if (!rect) return;
-    const x = e.clientX - rect.left;
-    const km = Math.max(0, Math.min(profile.totalKm, ((x - PAD_LEFT) / (width - PAD_LEFT - PAD_RIGHT)) * profile.totalKm));
+    if (!rect) return null;
+    const x = clientX - rect.left;
+    return Math.max(0, Math.min(profile.totalKm, ((x - PAD_LEFT) / (width - PAD_LEFT - PAD_RIGHT)) * profile.totalKm));
+  }
+
+  function handleMouseMove(e) {
+    const km = xToKm(e.clientX);
+    if (km == null) return;
     setHoverKm(km);
     onHoverKm?.(km);
   }
 
   function handleMouseLeave() {
+    setHoverKm(null);
+    onHoverKm?.(null);
+  }
+
+  function handleTouchMove(e) {
+    e.preventDefault();
+    const km = xToKm(e.touches[0].clientX);
+    if (km == null) return;
+    setHoverKm(km);
+    onHoverKm?.(km);
+  }
+
+  function handleTouchEnd() {
     setHoverKm(null);
     onHoverKm?.(null);
   }
@@ -130,6 +148,10 @@ function ActiveProfile({ track, trackIndex, spots, color, onHoverKm }) {
         height={HEIGHT}
         onMouseMove={handleMouseMove}
         onMouseLeave={handleMouseLeave}
+        onTouchStart={handleTouchMove}
+        onTouchMove={handleTouchMove}
+        onTouchEnd={handleTouchEnd}
+        style={{ touchAction: 'none' }}
         className="cursor-crosshair block"
       >
         <path d={fillPath} fill={color} fillOpacity={0.13} />

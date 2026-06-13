@@ -246,9 +246,6 @@ function PanelContent({ activeView, onViewChange, onClose }) {
           <>
             <div className="my-2 border-t border-[var(--sg-border)]" />
 
-            {/* Export */}
-            <ActionRow icon="download" label="Export JSON / Team Tactic" hint="Share with photographers" onClick={() => exportTacticJson(true)} />
-
             {/* Secondary actions */}
             <div className="flex flex-wrap gap-1 px-3 py-1">
               <button
@@ -273,7 +270,7 @@ function PanelContent({ activeView, onViewChange, onClose }) {
             <div className="my-2 border-t border-[var(--sg-border)]" />
 
             {/* Team Info — prominent CTA */}
-            <div className="px-1 pb-1">
+            <div className="px-1">
               <button
                 type="button"
                 onClick={() => setTeamInfoOpen(true)}
@@ -290,6 +287,23 @@ function PanelContent({ activeView, onViewChange, onClose }) {
                   <div className="text-[11px] text-white/55 mt-0.5">{t('toolsTeamInfoSub')}</div>
                 </div>
                 <SvgIcon name="arrow" size={14} />
+              </button>
+            </div>
+
+            {/* Export — last step after Team Info */}
+            <div className="px-1 pb-1 pt-1">
+              <button
+                type="button"
+                onClick={() => exportTacticJson(true)}
+                className="flex w-full items-center gap-3 rounded-xl border border-[#e3e7f2] bg-white px-4 py-3 text-left transition-all hover:bg-[#f8f9ff] active:scale-[0.98]"
+              >
+                <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg bg-[#eef1fb] text-[#5b6aa8]">
+                  <SvgIcon name="download" size={14} />
+                </span>
+                <div className="min-w-0 flex-1">
+                  <div className="text-sm font-semibold text-[#1C2B6B] leading-tight">{t('toolsTacticJson')}</div>
+                  <div className="text-[10px] text-[#8a93b0] mt-0.5">{t('toolsTacticJsonHint')}</div>
+                </div>
               </button>
             </div>
           </>

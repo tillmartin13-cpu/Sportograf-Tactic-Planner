@@ -464,6 +464,7 @@ function SpotsMap({ allSpots, mySpotIds, gpxTracks }) {
   const [heading, setHeading] = useState(null);
   const [geoError, setGeoError] = useState(false);
   const [needsCompassPerm, setNeedsCompassPerm] = useState(false);
+  const [isExpanded, setIsExpanded] = useState(false);
 
   const visibleSpots = useMemo(() => allSpots.filter((s) => s.latitude != null), [allSpots]);
   const hasContent = visibleSpots.length > 0 || gpxTracks.some((t) => t.points?.length > 1);
@@ -526,10 +527,52 @@ function SpotsMap({ allSpots, mySpotIds, gpxTracks }) {
 
   const hasElevation = gpxTracks.some((t) => t.points?.some((p) => p.ele != null));
 
+  // Collapsed view — compact header with expand button
+  if (!isExpanded) {
+    return (
+      <div className="rounded-2xl border border-[#e3e7f2] shadow-sm bg-white overflow-hidden">
+        <button
+          type="button"
+          onClick={() => setIsExpanded(true)}
+          className="flex w-full items-center gap-3 px-4 py-3 text-left hover:bg-[#f8f9ff] transition-colors"
+        >
+          <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg bg-[#eef1fb] text-[#5b6aa8]">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M3 7l9-4 9 4v10l-9 4-9-4V7z"/><path d="M12 3v18M3 7l9 4 9-4"/>
+            </svg>
+          </span>
+          <div className="min-w-0 flex-1">
+            <div className="text-sm font-bold text-[#1C2B6B]">Map &amp; Route</div>
+            <div className="text-[10px] text-[#8a93b0]">
+              {visibleSpots.length} spot{visibleSpots.length !== 1 ? 's' : ''}
+              {gpxTracks.length > 0 && ` · ${gpxTracks.length} track${gpxTracks.length !== 1 ? 's' : ''}`}
+              {hasElevation && ' · elevation'}
+            </div>
+          </div>
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#8a93b0" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"/>
+          </svg>
+        </button>
+      </div>
+    );
+  }
+
   return (
     <div className="rounded-2xl overflow-hidden border border-[#e3e7f2] shadow-sm bg-white">
-      {/* Top bar: layer pills + track tabs */}
+      {/* Top bar: collapse button + layer pills + track tabs */}
       <div className="flex items-center justify-between gap-2 px-3 py-2 border-b border-[#f0f2fa]">
+        {/* Collapse button */}
+        <button
+          type="button"
+          onClick={() => setIsExpanded(false)}
+          className="flex h-7 w-7 shrink-0 items-center justify-center rounded-lg bg-[#f3f5fa] text-[#8a93b0] hover:bg-[#e8ebf5] hover:text-[#1C2B6B] transition-colors"
+          title="Collapse map"
+        >
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <path d="M8 3v3a2 2 0 0 1-2 2H3m18 0h-3a2 2 0 0 1-2-2V3m0 18v-3a2 2 0 0 1 2-2h3M3 16h3a2 2 0 0 1 2 2v3"/>
+          </svg>
+        </button>
+
         {/* Layer selector — subtle pills */}
         <div className="flex gap-1 rounded-lg bg-[#f3f5fa] p-0.5">
           {[['map','Map'],['satellite','Satellite'],['terrain','Terrain']].map(([k, lbl]) => (
@@ -542,8 +585,8 @@ function SpotsMap({ allSpots, mySpotIds, gpxTracks }) {
           ))}
         </div>
 
-        {/* Track selector tabs */}
-        {gpxTracks.length > 1 && (
+        {/* Track selector tabs (only when multiple tracks, shown in top bar) */}
+        {gpxTracks.length > 1 && !hasElevation && (
           <div className="flex gap-1 overflow-x-auto">
             {gpxTracks.map((t, i) => {
               const color = TRACK_COLORS[i % TRACK_COLORS.length];
@@ -562,7 +605,7 @@ function SpotsMap({ allSpots, mySpotIds, gpxTracks }) {
         )}
       </div>
 
-      <MapContainer style={{ height: 300, width: '100%' }} zoom={13} center={fallbackCenter}
+      <MapContainer style={{ height: 420, width: '100%' }} zoom={13} center={fallbackCenter}
         zoomControl={false} attributionControl={false} scrollWheelZoom={false}>
         <TileLayer key={layer} url={TILES[layer].url} attribution={TILES[layer].attr} />
         <FitBounds allSpots={visibleSpots} gpxTracks={gpxTracks} />
@@ -666,7 +709,7 @@ function SpotsMap({ allSpots, mySpotIds, gpxTracks }) {
         <CenterOnMe position={myPos} />
       </MapContainer>
 
-      {/* Elevation profile */}
+      {/* Elevation profile with track tabs below map */}
       {hasElevation && (
         <div className="border-t border-[#f0f2fa]">
           <ElevationProfile
@@ -677,6 +720,25 @@ function SpotsMap({ allSpots, mySpotIds, gpxTracks }) {
               if (i !== null) setActiveTrackIndex(i);
             }}
           />
+        </div>
+      )}
+
+      {/* Track tabs below map when elevation is present (replaces top bar tabs) */}
+      {gpxTracks.length > 1 && hasElevation && (
+        <div className="flex gap-1 overflow-x-auto border-t border-[#f0f2fa] px-3 py-2">
+          {gpxTracks.map((t, i) => {
+            const color = TRACK_COLORS[i % TRACK_COLORS.length];
+            const isActive = activeTrackIndex === i;
+            return (
+              <button key={i} type="button" onClick={() => { setActiveTrackIndex(isActive ? null : i); setHoverKm(null); }}
+                className={`flex shrink-0 items-center gap-1.5 rounded-lg px-3 py-1.5 text-[11px] font-bold transition-colors ${
+                  isActive ? 'bg-[#1C2B6B] text-white' : 'bg-[#f3f5fa] text-[#5b6aa8] hover:bg-[#e8ebf5]'
+                }`}>
+                <span className="inline-block h-2 w-2 rounded-full shrink-0" style={{ background: isActive ? 'white' : color }} />
+                {t.name || `Track ${i+1}`}
+              </button>
+            );
+          })}
         </div>
       )}
 
