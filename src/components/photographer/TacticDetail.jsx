@@ -833,18 +833,23 @@ function WeatherBriefing({ event, spots }) {
             )}
           </div>
         </div>
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 24 24"
-          fill="none"
-          stroke="currentColor"
-          strokeWidth="2.5"
-          strokeLinecap="round"
-          strokeLinejoin="round"
-          className={`h-4 w-4 text-[#1C2B6B]/40 shrink-0 transition-transform ${expanded ? 'rotate-180' : ''}`}
-        >
-          <polyline points="6 9 12 15 18 9" />
-        </svg>
+        <span className={`flex items-center gap-1 rounded-lg px-2 py-1 text-[11px] font-bold transition-colors shrink-0 ${
+          expanded ? 'bg-blue-100 text-[#1C2B6B]' : 'bg-[#1C2B6B]/8 text-[#1C2B6B]/60'
+        }`}>
+          {expanded ? 'Close' : 'Open'}
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="2.5"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            className={`h-3 w-3 transition-transform ${expanded ? 'rotate-180' : ''}`}
+          >
+            <polyline points="6 9 12 15 18 9" />
+          </svg>
+        </span>
       </button>
 
       {expanded && (
@@ -883,10 +888,10 @@ function WeatherBriefing({ event, spots }) {
             </div>
           )}
 
-          {/* Photo tips */}
+          {/* Tips */}
           <div className="space-y-1.5">
             <div className="text-[10px] font-bold uppercase tracking-wider text-[#1C2B6B]/40">
-              📸 Photo Tips
+              Tips
             </div>
             {tips.map((tip, i) => (
               <div key={i} className="text-xs text-[#1C2B6B]/80 leading-snug">{tip}</div>
