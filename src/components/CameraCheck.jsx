@@ -411,24 +411,22 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
               )}
             </div>
           ) : (
-            <div className="flex flex-col gap-2">
-              <div className="flex gap-2">
-                <button onClick={handleReset}
-                  className="flex-1 rounded-2xl border border-gray-200 py-3 text-sm font-semibold text-gray-600 hover:bg-gray-50 active:scale-95 transition-transform">
-                  {tr('cameraCheckChangePhoto')}
-                </button>
-                <button onClick={handleSubmit}
-                  className="flex-[2] rounded-2xl bg-[#1C2B6B] py-3 text-sm font-bold text-white hover:bg-[#16225a] active:scale-95 transition-transform">
-                  {tr('cameraCheckVerify')}
-                </button>
-              </div>
+            <div className="flex gap-2">
+              <button onClick={handleReset}
+                className="flex-1 rounded-2xl border border-gray-200 py-3 text-sm font-semibold text-gray-600 hover:bg-gray-50 active:scale-95 transition-transform">
+                {tr('cameraCheckChangePhoto')}
+              </button>
               <button onClick={() => setShowCrop(true)}
-                className="flex items-center justify-center gap-2 rounded-2xl border border-gray-200 py-2.5 text-sm font-semibold text-gray-500 hover:bg-gray-50 active:scale-95 transition-transform">
-                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                className="flex-1 rounded-2xl border border-gray-200 py-3 text-sm font-semibold text-gray-600 hover:bg-gray-50 active:scale-95 transition-transform flex items-center justify-center gap-1.5">
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round">
                   <polyline points="6 2 6 6 2 6"/><polyline points="18 22 18 18 22 18"/>
                   <rect x="6" y="6" width="12" height="12" rx="1"/>
                 </svg>
-                Display-Bereich zuschneiden
+                Zuschneiden
+              </button>
+              <button onClick={handleSubmit}
+                className="flex-[1.5] rounded-2xl bg-[#1C2B6B] py-3 text-sm font-bold text-white hover:bg-[#16225a] active:scale-95 transition-transform">
+                {tr('cameraCheckVerify')}
               </button>
             </div>
           )}
