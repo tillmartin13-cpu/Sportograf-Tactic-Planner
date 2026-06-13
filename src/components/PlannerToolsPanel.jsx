@@ -108,7 +108,7 @@ function TeamInfoModal({ onClose }) {
   return (
     <div className="fixed inset-0 z-[900] flex items-end justify-stretch lg:items-center lg:justify-center">
       <div className="absolute inset-0 bg-black/40" onClick={onClose} />
-      <div className="relative z-10 flex w-full max-w-lg flex-col bg-white shadow-2xl lg:max-h-[90vh] lg:rounded-2xl rounded-t-2xl overflow-hidden">
+      <div className="relative z-10 flex w-full max-w-2xl flex-col bg-white shadow-2xl lg:max-h-[90vh] lg:rounded-2xl rounded-t-2xl overflow-hidden">
         <div className="flex items-center justify-between border-b border-[#e3e7f2] bg-[#1C2B6B] px-5 py-4">
           <div className="flex items-center gap-2.5">
             <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
@@ -135,6 +135,7 @@ function PanelContent({ activeView, onViewChange, onClose }) {
   const event = useCurrentEvent();
   const tactic = useTactic(event?.id);
   const importTeamCsv = usePlannerStore((s) => s.importTeamCsv);
+  const importTacticJson = usePlannerStore((s) => s.importTacticJson);
   const importInfofile = usePlannerStore((s) => s.importInfofile);
   const loadGpx = usePlannerStore((s) => s.loadGpx);
   const importKml = usePlannerStore((s) => s.importKml);
@@ -224,6 +225,8 @@ function PanelContent({ activeView, onViewChange, onClose }) {
           <div className="ml-2 border-l-2 border-[#eef1fb] pl-2 space-y-0.5">
             <FileRow icon="users" label="Team CSV" hint="Opens or creates the event" accept=".csv,.txt"
               onPick={async (f) => { await importTeamCsv(await f.text()); onClose?.(); }} />
+            <FileRow icon="download" label="Tactic JSON" hint="Import existing event package" accept=".json"
+              onPick={async (f) => { const ok = await importTacticJson(await f.text()); if (ok) onClose?.(); }} />
             {!indoor && (
               <FileRow icon="gpx" label="GPX Route" hint="Race course track — select multiple" accept=".gpx" multiple
                 onPick={(f) => { loadGpx(f); }} />

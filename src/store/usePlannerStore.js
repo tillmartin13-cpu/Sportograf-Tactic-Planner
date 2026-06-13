@@ -864,6 +864,52 @@ export const usePlannerStore = create(
         });
       },
 
+      importTacticJson: async (text) => {
+        const lang = get().language;
+        try {
+          const pkg = JSON.parse(text);
+          if (!pkg._sportograf || !pkg.event) {
+            get().showToast('Invalid tactic JSON file.');
+            return false;
+          }
+          const { event, photographers, tactic } = pkg;
+          const eventId = normalizeEventId(event.id);
+          if (!eventId) { get().showToast('JSON missing valid event ID.'); return false; }
+
+          const existing = get().events.find((e) => e.id === eventId);
+          if (existing) {
+            // Update tactic and photographers but keep existing event entry
+            if (tactic) saveTactic(eventId, tactic);
+            if (Array.isArray(photographers)) set({ photographers });
+            set({ currentEventId: eventId, appScreen: APP_SCREEN.planner, showPlannerEntryModal: false, mapExpanded: false });
+            get().showToast(`Event ${eventId} updated from JSON.`);
+          } else {
+            const newEvent = withEventCode({
+              id: eventId,
+              name: (event.name || '').trim(),
+              eventDate: event.eventDate || '',
+              predecessorEventId: event.predecessorEventId || '',
+              eventType: event.eventType || '',
+              createdAt: Date.now(),
+            });
+            if (tactic) saveTactic(eventId, tactic);
+            set({
+              events: [newEvent, ...get().events],
+              photographers: Array.isArray(photographers) ? photographers : get().photographers,
+              currentEventId: eventId,
+              appScreen: APP_SCREEN.planner,
+              showPlannerEntryModal: false,
+              mapExpanded: false,
+            });
+            get().showToast(translate(lang, 'eventCreated').replace('{id}', eventId));
+          }
+          return true;
+        } catch (err) {
+          get().showToast('Failed to import JSON: ' + (err?.message || 'unknown error'));
+          return false;
+        }
+      },
+
       exportTacticJson: (forTeam = false) => {
         const event = get().getCurrentEvent();
         if (!event) return;

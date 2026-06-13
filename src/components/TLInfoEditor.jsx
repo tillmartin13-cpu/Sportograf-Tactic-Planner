@@ -48,26 +48,29 @@ export function TLInfoEditor() {
   }
 
   return (
-    <div className="flex flex-col gap-3">
-      {/* Notes */}
-      <div>
-        <label className="mb-1 block text-[10px] font-bold uppercase tracking-wide text-[#9aa3bf]">
-          Info for photographers
-        </label>
+    <div className="flex flex-col gap-5">
+
+      {/* ── Section 1: Welcome & General Info ── */}
+      <section>
+        <div className="mb-2 flex items-center gap-2">
+          <span className="flex h-5 w-5 items-center justify-center rounded-full bg-[#1C2B6B] text-[9px] font-black text-white">1</span>
+          <span className="text-xs font-extrabold uppercase tracking-wide text-[#1C2B6B]">Welcome &amp; General Info</span>
+        </div>
         <textarea
           value={tlInfo.notes || ''}
           onChange={(e) => patch({ notes: e.target.value })}
-          placeholder="Meeting point, parking, dress code, special instructions…"
-          rows={4}
-          className="w-full rounded-xl border border-[#e3e7f2] bg-white px-3 py-2 text-xs text-[#1C2B6B] outline-none placeholder:text-[#c0c8e0] focus:border-[#1C2B6B] resize-none"
+          placeholder="Willkommensnachricht, Treffpunkt, Parkplatz, Dresscode, besondere Anweisungen…"
+          rows={5}
+          className="w-full rounded-xl border border-[#e3e7f2] bg-white px-3 py-2.5 text-sm text-[#1C2B6B] outline-none placeholder:text-[#c0c8e0] focus:border-[#1C2B6B] resize-none leading-relaxed"
         />
-      </div>
+      </section>
 
-      {/* WhatsApp groups */}
-      <div>
-        <label className="mb-1 block text-[10px] font-bold uppercase tracking-wide text-[#9aa3bf]">
-          WhatsApp groups
-        </label>
+      {/* ── Section 2: WhatsApp ── */}
+      <section>
+        <div className="mb-2 flex items-center gap-2">
+          <span className="flex h-5 w-5 items-center justify-center rounded-full bg-[#1C2B6B] text-[9px] font-black text-white">2</span>
+          <span className="text-xs font-extrabold uppercase tracking-wide text-[#1C2B6B]">WhatsApp groups</span>
+        </div>
         <div className="flex flex-col gap-1.5">
           {groups.map((g) => (
             <div key={g.id} className="flex items-center gap-2 rounded-xl border border-[#e3e7f2] bg-white px-3 py-2">
@@ -144,7 +147,23 @@ export function TLInfoEditor() {
             </button>
           )}
         </div>
-      </div>
+      </section>
+
+      {/* ── Section 3: Sonstige Infos ── */}
+      <section>
+        <div className="mb-2 flex items-center gap-2">
+          <span className="flex h-5 w-5 items-center justify-center rounded-full bg-[#1C2B6B] text-[9px] font-black text-white">3</span>
+          <span className="text-xs font-extrabold uppercase tracking-wide text-[#1C2B6B]">Sonstige Infos</span>
+        </div>
+        <textarea
+          value={tlInfo.additionalNotes || ''}
+          onChange={(e) => patch({ additionalNotes: e.target.value })}
+          placeholder="Weitere Hinweise, Zeitplan, Notizen…"
+          rows={4}
+          className="w-full rounded-xl border border-[#e3e7f2] bg-white px-3 py-2.5 text-sm text-[#1C2B6B] outline-none placeholder:text-[#c0c8e0] focus:border-[#1C2B6B] resize-none leading-relaxed"
+        />
+      </section>
+
     </div>
   );
 }

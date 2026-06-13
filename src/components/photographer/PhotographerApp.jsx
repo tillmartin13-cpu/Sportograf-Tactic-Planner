@@ -6,6 +6,7 @@ import { BottomNav } from './BottomNav';
 import { TacticManager } from './TacticManager';
 import { TacticDetail } from './TacticDetail';
 import { CheckInFlow } from './CheckInFlow';
+import { PhotographerHome } from './PhotographerHome';
 
 const LANGUAGES = [
   { code: 'en', label: 'EN' },
@@ -89,6 +90,7 @@ export function PhotographerApp({ onExit = () => {} }) {
   const acronym = usePhotographerStore((s) => s.acronym);
   const screen = usePhotographerStore((s) => s.screen);
   const closeDetail = usePhotographerStore((s) => s.closeDetail);
+  const goHome = usePhotographerStore((s) => s.goHome);
   const openCheckIn = usePhotographerStore((s) => s.openCheckIn);
   const activeTacticId = usePhotographerStore((s) => s.activeTacticId);
   const tactics = usePhotographerStore((s) => s.tactics);
@@ -109,6 +111,10 @@ export function PhotographerApp({ onExit = () => {} }) {
     || null;
   const greeting = displayName ? `Hello, ${displayName}` : 'SG Tactics';
 
+  if (screen === 'home') {
+    return <PhotographerHome onExit={onExit} />;
+  }
+
   return (
     <div className="flex h-full flex-col bg-[#f4f5f8]">
       {/* Header */}
@@ -117,7 +123,7 @@ export function PhotographerApp({ onExit = () => {} }) {
         <div className="flex items-center justify-between px-4 py-3">
         <button
           type="button"
-          onClick={screen === 'manager' ? onExit : closeDetail}
+          onClick={screen === 'manager' ? goHome : closeDetail}
           className="flex items-center gap-1.5 text-xs font-semibold text-white/70 hover:text-white transition-colors"
           aria-label={screen === 'manager' ? 'Back to home' : 'Back to all tactics'}
         >

@@ -1,5 +1,6 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { usePlannerStore } from '../store/usePlannerStore';
+import { normalizeEventId } from '../lib/id';
 import { LanguageSettingsModal } from './LanguageSettingsModal';
 import { useTranslation } from '../i18n/useTranslation';
 
@@ -28,7 +29,6 @@ function EventCard({ event, onOpen, onDelete }) {
     >
       <div className="flex items-start justify-between gap-2">
         <div className="flex items-center gap-2.5">
-          <EventTypeIcon name={event.name} type={event.eventType} />
           <div>
             <div className="font-bold text-[#293377] leading-tight">{event.name || `Event ${event.id}`}</div>
             {date && <div className="text-xs text-gray-400 mt-0.5">{date}</div>}
@@ -199,7 +199,7 @@ function ModulePicker({ onSelect, onSettings }) {
 
       {/* ── Mascot: top-center on mobile, center on desktop ── */}
       <div className="pointer-events-none absolute z-20 left-1/2 -translate-x-1/2
-        top-[10%] sm:top-1/2 sm:-translate-y-1/2 sm:translate-x-[-50%]">
+        top-[30%] sm:top-1/2 sm:-translate-y-1/2 sm:translate-x-[-50%]">
         <img
           src="/mascot.png"
           alt=""
@@ -241,10 +241,18 @@ export function WelcomeScreen() {
   const openPhotographerImport = usePlannerStore((s) => s.openPhotographerImport);
   const selectEvent = usePlannerStore((s) => s.selectEvent);
   const deleteEvent = usePlannerStore((s) => s.deleteEvent);
+  const importTeamCsv = usePlannerStore((s) => s.importTeamCsv);
+  const importTacticJson = usePlannerStore((s) => s.importTacticJson);
+  const createEvent = usePlannerStore((s) => s.createEvent);
 
   const [settingsOpen, setSettingsOpen] = useState(false);
   const [deleteTarget, setDeleteTarget] = useState(null);
   const [activeRole, setActiveRole] = useState(null); // null = picker, 'tl' | 'photographer'
+  const [newId, setNewId] = useState('');
+  const [newName, setNewName] = useState('');
+  const [newDate, setNewDate] = useState('');
+  const csvRef = useRef(null);
+  const jsonRef = useRef(null);
 
   const sorted = [...(events || [])].sort((a, b) => {
     const da = a.eventDate || '';
@@ -256,7 +264,13 @@ export function WelcomeScreen() {
   if (!activeRole) {
     return (
       <>
-        <ModulePicker onSelect={setActiveRole} onSettings={() => setSettingsOpen(true)} />
+        <ModulePicker
+          onSelect={(role) => {
+            if (role === 'photographer') openPhotographerImport();
+            else setActiveRole(role);
+          }}
+          onSettings={() => setSettingsOpen(true)}
+        />
         <LanguageSettingsModal open={settingsOpen} onClose={() => setSettingsOpen(false)} />
       </>
     );
@@ -324,47 +338,116 @@ export function WelcomeScreen() {
       <main className="mx-auto flex w-full max-w-3xl flex-1 flex-col gap-4 px-4 py-6">
         {activeRole === 'tl' ? (
           <>
-            <div className="flex items-center justify-between">
-              <h2 className="text-base font-extrabold text-[#293377]">
-                {sorted.length > 0 ? 'Your Events' : 'Get started'}
-              </h2>
+            {/* Hidden file inputs */}
+            <input ref={csvRef} type="file" accept=".csv,.txt" className="hidden"
+              onChange={async (e) => {
+                const file = e.target.files?.[0];
+                if (!file) return;
+                await importTeamCsv(await file.text());
+                e.target.value = '';
+              }} />
+            <input ref={jsonRef} type="file" accept=".json" className="hidden"
+              onChange={async (e) => {
+                const file = e.target.files?.[0];
+                if (!file) return;
+                await importTacticJson(await file.text());
+                e.target.value = '';
+              }} />
+
+            {/* Option cards — always shown above the event list */}
+            <div className="grid gap-3 sm:grid-cols-3">
+              {/* Card 1: CSV */}
               <button
                 type="button"
-                onClick={openTacticPlanner}
-                className="rounded-xl px-4 py-2 text-xs font-bold text-white hover:opacity-90 transition-opacity"
-                style={{ background: '#293377' }}
+                onClick={() => csvRef.current?.click()}
+                className="flex flex-col items-start gap-2 rounded-2xl border border-gray-200 bg-white p-4 text-left shadow-sm transition-all hover:border-[#293377]/30 hover:shadow-md"
               >
-                + New Event
+                <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-[#eef1fb] text-[#293377]">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round">
+                    <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/>
+                    <path d="M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"/>
+                  </svg>
+                </span>
+                <div>
+                  <div className="text-sm font-bold text-[#293377]">Open with CSV</div>
+                  <div className="mt-0.5 text-[11px] leading-snug text-gray-400">Team file from Sportograf</div>
+                </div>
               </button>
-            </div>
 
-            {sorted.length === 0 ? (
-              <div className="flex flex-col items-center justify-center rounded-2xl border-2 border-dashed border-gray-300 bg-white px-6 py-16 text-center">
-                <div className="text-5xl mb-3">📋</div>
-                <h3 className="font-bold text-gray-700">No events yet</h3>
-                <p className="mt-1 text-sm text-gray-400 max-w-xs">
-                  Load your team CSV to get started, or create an event manually.
-                </p>
+              {/* Card 2: JSON import */}
+              <button
+                type="button"
+                onClick={() => jsonRef.current?.click()}
+                className="flex flex-col items-start gap-2 rounded-2xl border border-gray-200 bg-white p-4 text-left shadow-sm transition-all hover:border-[#293377]/30 hover:shadow-md"
+              >
+                <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-[#eef1fb] text-[#293377]">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round">
+                    <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/>
+                  </svg>
+                </span>
+                <div>
+                  <div className="text-sm font-bold text-[#293377]">Open existing event</div>
+                  <div className="mt-0.5 text-[11px] leading-snug text-gray-400">Import tactic JSON</div>
+                </div>
+              </button>
+
+              {/* Card 3: Create new */}
+              <div className="flex flex-col gap-2 rounded-2xl border border-gray-200 bg-white p-4 shadow-sm">
+                <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-[#eef1fb] text-[#293377]">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round">
+                    <line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/>
+                  </svg>
+                </span>
+                <div className="text-sm font-bold text-[#293377]">Create new event</div>
+                <input
+                  value={newId}
+                  onChange={(e) => setNewId(normalizeEventId(e.target.value))}
+                  placeholder="Event ID"
+                  inputMode="numeric"
+                  maxLength={5}
+                  className="w-full rounded-xl border border-gray-200 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#293377]/30"
+                />
+                <input
+                  value={newName}
+                  onChange={(e) => setNewName(e.target.value)}
+                  placeholder="Event name"
+                  className="w-full rounded-xl border border-gray-200 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#293377]/30"
+                />
+                <input
+                  type="date"
+                  value={newDate}
+                  onChange={(e) => setNewDate(e.target.value)}
+                  className="w-full rounded-xl border border-gray-200 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#293377]/30"
+                />
                 <button
                   type="button"
-                  onClick={openTacticPlanner}
-                  className="mt-5 rounded-xl px-6 py-2.5 text-sm font-bold text-white hover:opacity-90"
+                  onClick={() => {
+                    const created = createEvent({ id: newId, name: newName, eventDate: newDate });
+                    if (created) { setNewId(''); setNewName(''); setNewDate(''); }
+                  }}
+                  className="mt-1 w-full rounded-xl py-2 text-sm font-bold text-white transition-opacity hover:opacity-90"
                   style={{ background: '#293377' }}
                 >
-                  Create first event
+                  Create
                 </button>
               </div>
-            ) : (
-              <div className="grid gap-3 sm:grid-cols-2">
-                {sorted.map((event) => (
-                  <EventCard
-                    key={event.id}
-                    event={event}
-                    onOpen={(id) => selectEvent(id)}
-                    onDelete={(id) => setDeleteTarget(events.find((e) => e.id === id))}
-                  />
-                ))}
-              </div>
+            </div>
+
+            {/* Event list */}
+            {sorted.length > 0 && (
+              <>
+                <h2 className="text-sm font-extrabold text-[#293377]">Your Events</h2>
+                <div className="grid gap-3 sm:grid-cols-2">
+                  {sorted.map((event) => (
+                    <EventCard
+                      key={event.id}
+                      event={event}
+                      onOpen={(id) => selectEvent(id)}
+                      onDelete={(id) => setDeleteTarget(events.find((e) => e.id === id))}
+                    />
+                  ))}
+                </div>
+              </>
             )}
           </>
         ) : (

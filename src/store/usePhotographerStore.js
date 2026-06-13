@@ -19,8 +19,8 @@ export const usePhotographerStore = create(
       // Active tactic ID (when viewing detail)
       activeTacticId: null,
 
-      // Active screen: 'manager' | 'detail' | 'checkin'
-      screen: 'manager',
+      // Active screen: 'home' | 'manager' | 'detail' | 'checkin'
+      screen: 'home',
 
       // Check-in state per tactic: { [tacticId]: { steps, cameraCheckResult, completedAt } }
       checkIns: {},
@@ -69,6 +69,8 @@ export const usePhotographerStore = create(
         }));
       },
 
+      goHome: () => set({ screen: 'home' }),
+      goToTactics: () => set({ screen: 'manager' }),
       openTactic: (id) => set({ activeTacticId: id, screen: 'detail' }),
       closeDetail: () => set({ activeTacticId: null, screen: 'manager' }),
       openCheckIn: () => set({ screen: 'checkin' }),
