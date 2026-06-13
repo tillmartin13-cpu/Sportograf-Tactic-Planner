@@ -55,7 +55,7 @@ function EventCard({ event, onOpen, onDelete }) {
           )}
         </div>
         <div className="mt-4 flex items-center justify-between">
-          <span className="text-xs text-gray-400">#{event.id}</span>
+          <span className="text-xs text-gray-400">{event.id}</span>
           <span className="text-xs font-bold text-[#293377] group-hover:underline">Open →</span>
         </div>
       </button>

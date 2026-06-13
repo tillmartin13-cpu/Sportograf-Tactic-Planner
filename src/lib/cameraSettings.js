@@ -211,7 +211,7 @@ export function findCameraSettings(cameraString) {
     }
   }
 
-  return bestScore > 0 ? best : null;
+  return bestScore >= 10 ? best : null;
 }
 
 /** Models that use XQD or CFexpress slots — need a dedicated card reader */

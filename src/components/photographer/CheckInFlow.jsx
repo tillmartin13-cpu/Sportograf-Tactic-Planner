@@ -412,7 +412,7 @@ export function CheckInFlow({ tacticId, cameraString, eventDate, photographerCod
                     {t('camSettingImageSize')} <strong>{mainSize.trim()}</strong>
                     {cropInfo && <span className="text-gray-400 font-normal"> · {cropInfo}</span>}
                   </div>
-                  <div className="text-gray-600">{t('camSettingJpeg')} <strong>{s.jpeg}</strong> <span className="text-red-500 font-semibold text-xs">— {t('camSettingJpegNoFine')}</span></div>
+                  <div className="text-gray-600">{t('camSettingJpeg')} <strong>{s.jpeg}</strong></div>
                   <div className="text-gray-600">{t('camSettingShutter')} <strong>1/1000s</strong></div>
                   <div className="text-gray-600">{t('camSettingAF')} <strong>{t('camSettingContinuousAF')}</strong></div>
                   <div className="text-gray-600">{t('camSettingWB')} <strong>{t('camSettingAWB')}</strong> <span className="text-gray-400 font-normal">({t('camSettingAuto')})</span></div>

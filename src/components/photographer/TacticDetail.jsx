@@ -172,12 +172,11 @@ function NavigateButton({ lat, lng }) {
 
 // ─── Personalized profile card ───────────────────────────────────────────────
 
-function ProfileCard({ profile }) {
+function ProfileCard({ profile, onOpenCheckIn, isComplete }) {
   const fullName = [profile.firstName, profile.lastName].filter(Boolean).join(' ') || profile.name || profile.code;
   const cameras = profile.cameras || profile.equipment || '';
   const lenses = profile.lenses || '';
   const flashes = profile.flashes || '';
-
   const camSettings = cameras ? findAllCameraSettings(cameras) : [];
 
   return (
@@ -193,33 +192,38 @@ function ProfileCard({ profile }) {
 
       {/* Equipment */}
       {cameras && (
-        <div className="mt-3 space-y-1.5">
+        <div className="mt-3 space-y-2">
           <div className="text-[10px] font-bold uppercase tracking-widest text-[#1C2B6B]/50">Equipment</div>
-          <div className="text-xs text-[#1C2B6B]/80 leading-snug">{cameras}</div>
 
-          {/* Camera settings recommendations */}
-          {camSettings.length > 0 && (
-            <div className="mt-2 space-y-1.5">
+          {/* Matched cameras — each with inline check-in button */}
+          {camSettings.length > 0 ? (
+            <div className="space-y-2">
               {camSettings.map((s, i) => (
-                <div key={i} className="flex items-center gap-2 rounded-xl bg-white/70 px-3 py-2">
-                  <span className="text-[11px] font-extrabold text-[#1C2B6B] min-w-[80px]">{s.model}</span>
-                  <span className="text-[10px] text-gray-500">
-                    {s.imageSize} · {s.jpeg}
-                  </span>
+                <div key={i} className="flex items-center justify-between gap-3 rounded-xl bg-white/70 px-3 py-2.5">
+                  <div className="min-w-0">
+                    <div className="text-[12px] font-extrabold text-[#1C2B6B] leading-tight">{s.brand} {s.model}</div>
+                  </div>
+                  {isComplete ? (
+                    <span className="flex shrink-0 items-center gap-1 rounded-xl bg-green-100 px-2.5 py-1 text-[11px] font-bold text-green-700">
+                      <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
+                        <path d="M20 6L9 17l-5-5"/>
+                      </svg>
+                      Checked in
+                    </span>
+                  ) : (
+                    <button
+                      type="button"
+                      onClick={onOpenCheckIn}
+                      className="shrink-0 rounded-xl bg-[#f5c800] px-3 py-1.5 text-[11px] font-extrabold text-[#1a1a00] hover:bg-[#e6b800] transition-colors"
+                    >
+                      Check in
+                    </button>
+                  )}
                 </div>
               ))}
-              {camSettings.some((s) => s.electronicShutter && !s.globalShutter) && (
-                <div className="flex gap-2 rounded-xl border border-amber-300 bg-amber-50 px-3 py-2.5">
-                  <span className="mt-px shrink-0 text-sm leading-none">⚠️</span>
-                  <div>
-                    <p className="text-[10px] font-extrabold uppercase tracking-wide text-amber-700">Electronic Shutter — Rolling Shutter Risk</p>
-                    <p className="mt-0.5 text-[10px] leading-relaxed text-amber-800">
-                      At fast-moving spots (e.g. road cycling), <strong>do not use electronic shutter</strong> — rolling shutter causes image distortion. Use <strong>mechanical shutter</strong>.
-                    </p>
-                  </div>
-                </div>
-              )}
             </div>
+          ) : (
+            <div className="text-xs text-[#1C2B6B]/80 leading-snug">{cameras}</div>
           )}
 
           {lenses && (
@@ -542,17 +546,14 @@ function SpotsMap({ allSpots, mySpotIds, gpxTracks }) {
 
   const hasElevation = gpxTracks.some((t) => t.points?.some((p) => p.ele != null));
 
-  // Collapsed view — compact header with expand button
+  // Collapsed view — compact preview map with expand overlay
   if (!isExpanded) {
     return (
       <div className="rounded-2xl border border-[#e3e7f2] shadow-sm bg-white overflow-hidden">
-        <button
-          type="button"
-          onClick={() => setIsExpanded(true)}
-          className="flex w-full items-center gap-3 px-4 py-3 text-left hover:bg-[#f8f9ff] transition-colors"
-        >
-          <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg bg-[#eef1fb] text-[#5b6aa8]">
-            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+        {/* Header */}
+        <div className="flex items-center gap-2 px-4 py-2.5 border-b border-[#f0f2fa]">
+          <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-lg bg-[#eef1fb] text-[#5b6aa8]">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
               <path d="M3 7l9-4 9 4v10l-9 4-9-4V7z"/><path d="M12 3v18M3 7l9 4 9-4"/>
             </svg>
           </span>
@@ -564,10 +565,38 @@ function SpotsMap({ allSpots, mySpotIds, gpxTracks }) {
               {hasElevation && ' · elevation'}
             </div>
           </div>
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#8a93b0" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-            <path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"/>
-          </svg>
-        </button>
+        </div>
+        {/* Preview map */}
+        <div className="relative" style={{ height: 200 }}>
+          <MapContainer style={{ height: 200, width: '100%' }} zoom={13} center={fallbackCenter}
+            zoomControl={false} attributionControl={false} scrollWheelZoom={false} dragging={false} touchZoom={false} doubleClickZoom={false}>
+            <TileLayer url={TILES['map'].url} attribution={TILES['map'].attr} />
+            <FitBounds allSpots={visibleSpots} gpxTracks={gpxTracks} />
+            {gpxTracks.map((track, ti) => {
+              const color = TRACK_COLORS[ti % TRACK_COLORS.length];
+              const pts = (track.points || []).map((p) => [p.lat, p.lng]);
+              if (pts.length < 2) return null;
+              return <Polyline key={ti} positions={pts} color={color} weight={4} opacity={0.88} />;
+            })}
+            {visibleSpots.map((spot, i) => {
+              const isMine = mySpotIds ? mySpotIds.has(spot.id) : true;
+              return (
+                <SpotMarker key={spot.id ?? i} spot={spot} isMine={isMine} myPos={null} />
+              );
+            })}
+          </MapContainer>
+          {/* Expand button overlay */}
+          <button
+            type="button"
+            onClick={() => setIsExpanded(true)}
+            className="absolute bottom-3 right-3 z-[1000] flex items-center gap-1.5 rounded-xl bg-white/95 backdrop-blur-sm px-3 py-2 text-[12px] font-bold text-[#1C2B6B] shadow-md hover:bg-white hover:shadow-lg transition-all border border-[#1C2B6B]/10"
+          >
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"/>
+            </svg>
+            Expand
+          </button>
+        </div>
       </div>
     );
   }
@@ -1268,33 +1297,25 @@ export function TacticDetail({ onOpenCheckIn }) {
   return (
     <div className="flex flex-col gap-4 p-4 pb-8">
       {/* Header */}
-      <div className="flex items-start justify-between gap-2">
-        <div>
-          <button
-            type="button"
-            onClick={closeDetail}
-            className="mb-1 block text-xs text-gray-400 hover:text-gray-600"
-          >
-            {t('tacticDetailBack')}
-          </button>
-          {greeting && (
-            <div className="text-sm font-bold text-[#1C2B6B]/60 mb-0.5">{greeting}</div>
-          )}
-          <h2 className="text-base font-extrabold leading-tight text-[#1C2B6B]">{event?.name}</h2>
-          {date && <div className="mt-0.5 text-xs text-gray-400">{date}</div>}
-        </div>
+      <div>
         <button
           type="button"
-          onClick={onOpenCheckIn}
-          className={`shrink-0 rounded-2xl px-4 py-2 text-xs font-bold transition-colors ${
-            isComplete
-              ? 'bg-green-100 text-green-700'
-              : 'bg-[#1C2B6B] text-white hover:bg-[#16225a]'
-          }`}
+          onClick={closeDetail}
+          className="mb-1 block text-xs text-gray-400 hover:text-gray-600"
         >
-          {isComplete ? t('tacticDetailCheckedIn') : t('tacticDetailCheckIn')}
+          {t('tacticDetailBack')}
         </button>
+        {greeting && (
+          <div className="text-sm font-bold text-[#1C2B6B]/60 mb-0.5">{greeting}</div>
+        )}
+        <h2 className="text-base font-extrabold leading-tight text-[#1C2B6B]">{event?.name}</h2>
+        {date && <div className="mt-0.5 text-xs text-gray-400">{date}</div>}
       </div>
+
+      {/* Personalized profile card — equipment with inline check-in buttons */}
+      {isMatched && profile && (
+        <ProfileCard profile={profile} onOpenCheckIn={onOpenCheckIn} isComplete={isComplete} />
+      )}
 
       {/* Certificate button — compact, opens modal */}
       {isComplete && (() => {
@@ -1324,11 +1345,6 @@ export function TacticDetail({ onOpenCheckIn }) {
           />
         );
       })()}
-
-      {/* Personalized profile card — equipment only */}
-      {isMatched && profile && (
-        <ProfileCard profile={profile} />
-      )}
 
       {/* TL Info — collapsible, above map */}
       <TLInfoSection pkg={pkg} />

@@ -115,7 +115,7 @@ export async function generateCheckInCertificate({
   let logoDrawn = false;
   try {
     const logo = await loadImage('/assets/sg-logo-white.svg');
-    const logoW = 130;
+    const logoW = 86;
     const logoH = (logo.height / logo.width) * logoW;
     ctx.drawImage(logo, 36, (headerH - logoH) / 2, logoW, logoH);
     logoDrawn = true;
@@ -171,13 +171,13 @@ export async function generateCheckInCertificate({
 
   ctx.font = '600 13px system-ui, -apple-system, Segoe UI, sans-serif';
   ctx.fillStyle = COLORS.muted;
-  ctx.fillText(`#${event.id}${event.eventDate ? ` · ${event.eventDate}` : ''}`, 48, dividerY + 28 + eventLines.length * 22 + 6);
+  ctx.fillText(`${event.id}${event.eventDate ? ` · ${event.eventDate}` : ''}`, 48, dividerY + 28 + eventLines.length * 22 + 6);
 
   // Compact info row: time + event ID
   let rowY = dividerY + 90;
   drawRow(ctx, labels.time, formatCertTime(checkedInAt, locale), rowY);
   rowY += 26;
-  drawRow(ctx, labels.event, `#${event.id}${event.eventDate ? ' · ' + event.eventDate : ''}`, rowY);
+  drawRow(ctx, labels.event, `${event.id}${event.eventDate ? ' · ' + event.eventDate : ''}`, rowY);
 
   // Completed checks grid — 2 columns
   if (completedChecks.length > 0) {

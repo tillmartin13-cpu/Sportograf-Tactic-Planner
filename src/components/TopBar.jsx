@@ -68,7 +68,7 @@ export function TopBar({ title = 'Tactic Planner', onMenuOpen }) {
             <button type="button" onClick={startEdit} className="truncate hover:underline">
               <span className="hidden sm:inline">{centerTitle} </span>
               <span className="sm:hidden text-sm font-bold">{event.name ? event.name.split(' ').slice(0, 3).join(' ') : `Event ${event.id}`}</span>
-              <span className="ml-1.5 text-xs font-semibold text-white/55">#{event.id}</span>
+              <span className="ml-1.5 text-xs font-semibold text-white/55">{event.id}</span>
               {event.eventDate && (
                 <span className="ml-1.5 hidden sm:inline text-xs font-semibold text-white/45">· {event.eventDate}</span>
               )}
