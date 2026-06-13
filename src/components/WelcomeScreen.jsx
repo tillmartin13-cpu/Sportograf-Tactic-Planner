@@ -150,6 +150,19 @@ function ModulePicker({ onSelect, onSettings }) {
             <path d="M5 12h14M12 5l7 7-7 7"/>
           </svg>
         </div>
+        {isTl && (
+          <div className="text-center" onClick={(e) => e.stopPropagation()}>
+            <p className="text-[11px] text-white/40 mb-1.5">Want to become a Team Leader?</p>
+            <a
+              href="https://forms.gle/MZqTfC1L4kDP7Gsd6"
+              target="_blank"
+              rel="noreferrer"
+              className="inline-block rounded-full border border-white/30 bg-white/10 px-4 py-1.5 text-[11px] font-bold text-white/80 hover:bg-white/20 hover:text-white transition-colors"
+            >
+              Apply now →
+            </a>
+          </div>
+        )}
       </div>
     );
   }
