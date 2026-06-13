@@ -25,45 +25,49 @@ function EventCard({ event, onOpen, onDelete }) {
   const hasReference = !!event.referenceSpots?.length;
 
   return (
-    <div
-      className="group relative flex cursor-pointer flex-col rounded-2xl border border-gray-200 bg-white p-5 shadow-sm transition-all hover:border-[#293377]/30 hover:shadow-md"
-      onClick={() => onOpen(event.id)}
-    >
-      <div className="flex items-start justify-between gap-2">
-        <div className="flex items-center gap-2.5">
+    <div className="group relative">
+      <button
+        type="button"
+        onClick={() => onOpen(event.id)}
+        className="flex w-full flex-col rounded-2xl border border-gray-200 bg-white p-5 shadow-sm transition-all text-left hover:border-[#293377]/30 hover:shadow-md active:scale-[0.99]"
+      >
+        <div className="flex items-start justify-between gap-2">
           <div>
             <div className="font-bold text-[#293377] leading-tight">{event.name || `Event ${event.id}`}</div>
             {date && <div className="text-xs text-gray-400 mt-0.5">{date}</div>}
           </div>
+          {/* spacer so delete button doesn't overlap title */}
+          <div className="w-8 shrink-0" />
         </div>
-        <button
-          type="button"
-          onClick={(e) => { e.stopPropagation(); onDelete(event.id); }}
-          className="shrink-0 rounded-lg p-1.5 text-gray-300 opacity-0 transition-opacity group-hover:opacity-100 hover:bg-red-50 hover:text-red-400"
-        >
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="h-4 w-4">
-            <polyline points="3 6 5 6 21 6" /><path d="M19 6l-1 14H6L5 6" /><path d="M10 11v6M14 11v6" /><path d="M9 6V4h6v2" />
-          </svg>
-        </button>
-      </div>
-      <div className="mt-3 flex flex-wrap gap-1.5">
-        {spotCount > 0 && (
-          <span className="rounded-full bg-[#f0f2fa] px-2.5 py-0.5 text-[11px] font-semibold text-[#293377]">{spotCount} spots</span>
-        )}
-        {photoCount > 0 && (
-          <span className="rounded-full bg-[#f0f2fa] px-2.5 py-0.5 text-[11px] font-semibold text-[#293377]">{photoCount} photographers</span>
-        )}
-        {hasGpx && (
-          <span className="rounded-full bg-green-50 px-2.5 py-0.5 text-[11px] font-semibold text-green-700">GPX ✓</span>
-        )}
-        {hasReference && (
-          <span className="rounded-full bg-purple-50 px-2.5 py-0.5 text-[11px] font-semibold text-purple-700">Reference ✓</span>
-        )}
-      </div>
-      <div className="mt-4 flex items-center justify-between">
-        <span className="text-xs text-gray-400">#{event.id}</span>
-        <span className="text-xs font-bold text-[#293377] group-hover:underline">Open →</span>
-      </div>
+        <div className="mt-3 flex flex-wrap gap-1.5">
+          {spotCount > 0 && (
+            <span className="rounded-full bg-[#f0f2fa] px-2.5 py-0.5 text-[11px] font-semibold text-[#293377]">{spotCount} spots</span>
+          )}
+          {photoCount > 0 && (
+            <span className="rounded-full bg-[#f0f2fa] px-2.5 py-0.5 text-[11px] font-semibold text-[#293377]">{photoCount} photographers</span>
+          )}
+          {hasGpx && (
+            <span className="rounded-full bg-green-50 px-2.5 py-0.5 text-[11px] font-semibold text-green-700">GPX ✓</span>
+          )}
+          {hasReference && (
+            <span className="rounded-full bg-purple-50 px-2.5 py-0.5 text-[11px] font-semibold text-purple-700">Reference ✓</span>
+          )}
+        </div>
+        <div className="mt-4 flex items-center justify-between">
+          <span className="text-xs text-gray-400">#{event.id}</span>
+          <span className="text-xs font-bold text-[#293377] group-hover:underline">Open →</span>
+        </div>
+      </button>
+      {/* Delete button — positioned absolute so it doesn't block the card click */}
+      <button
+        type="button"
+        onClick={() => onDelete(event.id)}
+        className="absolute right-3 top-3 rounded-lg p-1.5 text-gray-300 opacity-0 transition-opacity group-hover:opacity-100 hover:bg-red-50 hover:text-red-400"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="h-4 w-4">
+          <polyline points="3 6 5 6 21 6" /><path d="M19 6l-1 14H6L5 6" /><path d="M10 11v6M14 11v6" /><path d="M9 6V4h6v2" />
+        </svg>
+      </button>
     </div>
   );
 }
