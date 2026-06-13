@@ -4,6 +4,8 @@ import { normalizeEventId } from '../lib/id';
 import { LanguageSettingsModal } from './LanguageSettingsModal';
 import { useTranslation } from '../i18n/useTranslation';
 
+// WelcomeScreen uses useTranslation for the TL section strings
+
 // ─── Event cards ──────────────────────────────────────────────────────────────
 
 function EventTypeIcon({ name = '', type }) {
@@ -245,6 +247,7 @@ export function WelcomeScreen() {
   const importTacticJson = usePlannerStore((s) => s.importTacticJson);
   const createEvent = usePlannerStore((s) => s.createEvent);
 
+  const { t } = useTranslation();
   const [settingsOpen, setSettingsOpen] = useState(false);
   const [deleteTarget, setDeleteTarget] = useState(null);
   const [activeRole, setActiveRole] = useState(null); // null = picker, 'tl' | 'photographer'
@@ -341,7 +344,7 @@ export function WelcomeScreen() {
                 className="relative flex flex-col items-start gap-2 rounded-2xl border border-[#cc1336]/30 bg-white p-4 text-left shadow-sm transition-all hover:border-[#cc1336]/50 hover:shadow-md"
               >
                 <span className="flex items-center gap-1 rounded-full bg-[#cc1336]/10 px-2.5 py-1 text-[11px] font-bold uppercase tracking-wide text-[#cc1336]">
-                  <span className="text-[#cc1336]">★</span> Recommended
+                  <span className="text-[#cc1336]">★</span> {t('wsCsvRecommended')}
                 </span>
                 <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-[#eef1fb] text-[#293377]">
                   <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round">
@@ -350,11 +353,11 @@ export function WelcomeScreen() {
                   </svg>
                 </span>
                 <div>
-                  <div className="text-sm font-bold text-[#293377]">Open with CSV</div>
-                  <div className="mt-0.5 text-[11px] leading-snug text-gray-400">Team file from Sportograf</div>
+                  <div className="text-sm font-bold text-[#293377]">{t('wsCsvTitle')}</div>
+                  <div className="mt-0.5 text-[11px] leading-snug text-gray-400">{t('wsCsvSub')}</div>
                 </div>
                 <p className="mt-1 text-[11px] leading-snug text-gray-400">
-                  Importiere die Team CSV, die du im Eventmanager bei deiner Team-Übersicht herunterladen kannst. Dein Event wird damit automatisch angelegt.
+                  {t('wsCsvInstruction')}
                 </p>
               </button>
 
@@ -370,8 +373,8 @@ export function WelcomeScreen() {
                   </svg>
                 </span>
                 <div>
-                  <div className="text-sm font-bold text-[#293377]">Open existing event</div>
-                  <div className="mt-0.5 text-[11px] leading-snug text-gray-400">Import tactic JSON</div>
+                  <div className="text-sm font-bold text-[#293377]">{t('wsJsonTitle')}</div>
+                  <div className="mt-0.5 text-[11px] leading-snug text-gray-400">{t('wsJsonSub')}</div>
                 </div>
               </button>
 
@@ -382,11 +385,11 @@ export function WelcomeScreen() {
                     <line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/>
                   </svg>
                 </span>
-                <div className="text-sm font-bold text-[#293377]">Create new event</div>
+                <div className="text-sm font-bold text-[#293377]">{t('wsCreateTitle')}</div>
                 <input
                   value={newId}
                   onChange={(e) => setNewId(normalizeEventId(e.target.value))}
-                  placeholder="Event ID"
+                  placeholder={t('wsCreateEventId')}
                   inputMode="numeric"
                   maxLength={5}
                   className="w-full rounded-xl border border-gray-200 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#293377]/30"
@@ -394,7 +397,7 @@ export function WelcomeScreen() {
                 <input
                   value={newName}
                   onChange={(e) => setNewName(e.target.value)}
-                  placeholder="Event name"
+                  placeholder={t('wsCreateEventName')}
                   className="w-full rounded-xl border border-gray-200 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#293377]/30"
                 />
                 <input
@@ -412,7 +415,7 @@ export function WelcomeScreen() {
                   className="mt-1 w-full rounded-xl py-2 text-sm font-bold text-white transition-opacity hover:opacity-90"
                   style={{ background: '#293377' }}
                 >
-                  Create
+                  {t('wsCreateBtn')}
                 </button>
               </div>
             </div>
@@ -420,7 +423,7 @@ export function WelcomeScreen() {
             {/* Event list */}
             {sorted.length > 0 && (
               <>
-                <h2 className="text-sm font-extrabold text-[#293377]">Your Events</h2>
+                <h2 className="text-sm font-extrabold text-[#293377]">{t('wsYourEvents')}</h2>
                 <div className="grid gap-3 sm:grid-cols-2">
                   {sorted.map((event) => (
                     <EventCard

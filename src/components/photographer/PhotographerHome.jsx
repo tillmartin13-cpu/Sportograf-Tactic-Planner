@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { usePhotographerStore, ACADEMY_URL, EM_URL } from '../../store/usePhotographerStore';
+import { usePhTranslation } from '../../i18n/usePhTranslation';
 
 const SUPPORT_URL = 'mailto:support@sportograf.com';
 
@@ -11,11 +12,11 @@ const LANGUAGES = [
   { code: 'fr', label: 'Français' },
 ];
 
-const TILES = [
+const TILE_DEFS = [
   {
     id: 'tactics',
-    label: 'Event Tactics',
-    sub: 'Spots, routes & check-in',
+    labelKey: null, // stays English: "Event Tactics"
+    subKey: 'homeTacticsSub',
     color: '#1C2B6B',
     icon: (
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" className="h-7 w-7">
@@ -26,8 +27,8 @@ const TILES = [
   },
   {
     id: 'academy',
-    label: 'Academy',
-    sub: 'Training & guides',
+    labelKey: null, // stays English: "Academy"
+    subKey: 'homeAcademySub',
     color: '#7c3aed',
     href: ACADEMY_URL,
     icon: (
@@ -39,8 +40,8 @@ const TILES = [
   },
   {
     id: 'em',
-    label: 'Event Manager',
-    sub: 'Manage your events',
+    labelKey: null, // stays English: "Event Manager"
+    subKey: 'homeEMSub',
     color: '#0369a1',
     href: EM_URL,
     icon: (
@@ -53,8 +54,8 @@ const TILES = [
   },
   {
     id: 'support',
-    label: 'Support',
-    sub: 'Help & contact',
+    labelKey: null, // stays English: "Support"
+    subKey: 'homeSupportSub',
     color: '#059669',
     href: SUPPORT_URL,
     icon: (
@@ -67,10 +68,13 @@ const TILES = [
   },
 ];
 
+const TILE_LABELS = { tactics: 'Event Tactics', academy: 'Academy', em: 'Event Manager', support: 'Support' };
+
 // ─── Acronym input step 1 ─────────────────────────────────────────────────────
 
 function AcronymStep1({ initial = '', onNext, onCancel }) {
   const [value, setValue] = useState(initial);
+  const { t } = usePhTranslation();
 
   return (
     <div className="fixed inset-0 z-50 flex items-end bg-black/40" onClick={onCancel}>
@@ -78,13 +82,13 @@ function AcronymStep1({ initial = '', onNext, onCancel }) {
         className="w-full rounded-t-3xl bg-white px-6 pb-10 pt-6 shadow-2xl"
         onClick={(e) => e.stopPropagation()}
       >
-        <h3 className="mb-1 text-base font-black text-gray-900">Dein Kürzel (Acronym)</h3>
+        <h3 className="mb-1 text-base font-black text-gray-900">{t('homeAcronymStep1Title')}</h3>
         <p className="mb-5 text-sm text-gray-400 leading-snug">
-          Gib dein persönliches Kürzel ein, damit du deine Taktiken findest.
+          {t('homeAcronymStep1Body')}
         </p>
 
         <label className="mb-1.5 block text-[10px] font-bold uppercase tracking-wider text-gray-400">
-          Acronym
+          {t('acronym')}
         </label>
         <input
           autoFocus
@@ -92,21 +96,19 @@ function AcronymStep1({ initial = '', onNext, onCancel }) {
           value={value}
           onChange={(e) => setValue(e.target.value.toUpperCase().trim())}
           maxLength={8}
-          placeholder="z.B. TILL"
           className="w-full rounded-xl border border-gray-200 px-4 py-3 text-lg font-black uppercase tracking-[0.2em] text-[#1C2B6B] focus:outline-none focus:ring-2 focus:ring-[#1C2B6B]/30"
         />
 
         <p className="mt-3 text-xs text-gray-400">
-          Unsicher?{' '}
+          {t('homeAcronymUnsure')}{' '}
           <a
             href={EM_URL}
             target="_blank"
             rel="noopener noreferrer"
             className="font-semibold text-[#0369a1] underline underline-offset-2"
           >
-            Eventmanager Profil
-          </a>{' '}
-          öffnen und nachschauen.
+            {t('homeAcronymEMText')}
+          </a>
         </p>
 
         <div className="mt-5 flex gap-3">
@@ -115,7 +117,7 @@ function AcronymStep1({ initial = '', onNext, onCancel }) {
             onClick={onCancel}
             className="flex-1 rounded-xl border border-gray-200 py-3 text-sm font-semibold text-gray-400 hover:bg-gray-50"
           >
-            Abbrechen
+            {t('homeAcronymCancel')}
           </button>
           <button
             type="button"
@@ -123,7 +125,7 @@ function AcronymStep1({ initial = '', onNext, onCancel }) {
             onClick={() => onNext(value)}
             className="flex-1 rounded-xl bg-[#1C2B6B] py-3 text-sm font-bold text-white disabled:opacity-40"
           >
-            Weiter →
+            {t('homeAcronymNext')}
           </button>
         </div>
       </div>
@@ -135,6 +137,7 @@ function AcronymStep1({ initial = '', onNext, onCancel }) {
 
 function AcronymStep2({ firstValue, onConfirm, onBack }) {
   const [value, setValue] = useState('');
+  const { t } = usePhTranslation();
   const mismatch = value.length > 0 && value !== firstValue;
 
   return (
@@ -146,16 +149,16 @@ function AcronymStep2({ firstValue, onConfirm, onBack }) {
           </svg>
         </div>
 
-        <h3 className="mb-1 text-base font-black text-gray-900">Sicher?</h3>
+        <h3 className="mb-1 text-base font-black text-gray-900">{t('homeAcronymStep2Title')}</h3>
         <p className="mb-1 text-sm text-gray-400 leading-snug">
-          Bestätige dein Acronym final — nur so erhältst du deine personalisierten Taktiken für die Events.
+          {t('homeAcronymStep2Body')}
         </p>
         <p className="mb-5 text-sm font-bold text-[#1C2B6B]">
-          Eingetragen: <span className="tracking-widest">{firstValue}</span>
+          {t('homeAcronymEntered')} <span className="tracking-widest">{firstValue}</span>
         </p>
 
         <label className="mb-1.5 block text-[10px] font-bold uppercase tracking-wider text-gray-400">
-          Acronym nochmal eingeben
+          {t('homeAcronymRepeatLabel')}
         </label>
         <input
           autoFocus
@@ -171,7 +174,7 @@ function AcronymStep2({ firstValue, onConfirm, onBack }) {
           }`}
         />
         {mismatch && (
-          <p className="mt-1.5 text-xs font-semibold text-red-500">Stimmt nicht überein — bitte prüfen.</p>
+          <p className="mt-1.5 text-xs font-semibold text-red-500">{t('homeAcronymMismatch')}</p>
         )}
 
         <div className="mt-5 flex gap-3">
@@ -180,7 +183,7 @@ function AcronymStep2({ firstValue, onConfirm, onBack }) {
             onClick={onBack}
             className="flex-1 rounded-xl border border-gray-200 py-3 text-sm font-semibold text-gray-400 hover:bg-gray-50"
           >
-            ← Zurück
+            {t('homeAcronymBackBtn')}
           </button>
           <button
             type="button"
@@ -188,7 +191,7 @@ function AcronymStep2({ firstValue, onConfirm, onBack }) {
             onClick={() => onConfirm(value)}
             className="flex-1 rounded-xl bg-[#1C2B6B] py-3 text-sm font-bold text-white disabled:opacity-40"
           >
-            Bestätigen ✓
+            {t('homeAcronymConfirmBtn')}
           </button>
         </div>
       </div>
@@ -203,6 +206,7 @@ function SettingsSheet({ onClose }) {
   const language = usePhotographerStore((s) => s.language);
   const setAcronym = usePhotographerStore((s) => s.setAcronym);
   const setLanguage = usePhotographerStore((s) => s.setLanguage);
+  const { t } = usePhTranslation();
 
   // 'idle' | 'step1' | 'step2'
   const [acronymFlow, setAcronymFlow] = useState('idle');
@@ -232,13 +236,13 @@ function SettingsSheet({ onClose }) {
         >
           {/* Header */}
           <div className="mb-6 flex items-center justify-between">
-            <h3 className="text-base font-black text-gray-900">Einstellungen</h3>
+            <h3 className="text-base font-black text-gray-900">{t('settingsTitle')}</h3>
             <button type="button" onClick={onClose} className="text-xl leading-none text-gray-300 hover:text-gray-500">×</button>
           </div>
 
           {/* Acronym */}
           <div className="mb-6">
-            <p className="mb-1 text-[10px] font-bold uppercase tracking-wider text-gray-400">Kürzel (Acronym)</p>
+            <p className="mb-1 text-[10px] font-bold uppercase tracking-wider text-gray-400">{t('settingsAcronymLabel')}</p>
             {acronym ? (
               <div className="flex items-center justify-between rounded-xl border border-gray-200 bg-gray-50 px-4 py-3">
                 <span className="text-base font-black tracking-[0.2em] text-[#1C2B6B]">{acronym}</span>
@@ -247,7 +251,7 @@ function SettingsSheet({ onClose }) {
                   onClick={startAcronymEdit}
                   className="text-xs font-semibold text-[#0369a1] hover:underline"
                 >
-                  Ändern
+                  {t('homeAcronymChangeBtn')}
                 </button>
               </div>
             ) : (
@@ -256,14 +260,14 @@ function SettingsSheet({ onClose }) {
                 onClick={startAcronymEdit}
                 className="w-full rounded-xl border-2 border-dashed border-[#1C2B6B]/30 px-4 py-4 text-sm font-bold text-[#1C2B6B]/60 hover:border-[#1C2B6B]/60 hover:text-[#1C2B6B] transition-colors"
               >
-                + Kürzel hinterlegen
+                {t('homeAcronymSetBtn')}
               </button>
             )}
           </div>
 
           {/* Language */}
           <div>
-            <p className="mb-2 text-[10px] font-bold uppercase tracking-wider text-gray-400">Sprache</p>
+            <p className="mb-2 text-[10px] font-bold uppercase tracking-wider text-gray-400">{t('settingsLanguageLabel')}</p>
             <div className="grid grid-cols-5 gap-1.5">
               {LANGUAGES.map((l) => (
                 <button
@@ -311,6 +315,7 @@ export function PhotographerHome({ onExit }) {
   const goToTactics = usePhotographerStore((s) => s.goToTactics);
   const acronym = usePhotographerStore((s) => s.acronym);
   const [showSettings, setShowSettings] = useState(false);
+  const { t } = usePhTranslation();
   // Prompt acronym entry on first visit if not set
   const [acronymFlow, setAcronymFlow] = useState(() => !acronym ? 'step1' : 'idle');
   const [step1Value, setStep1Value] = useState('');
@@ -348,7 +353,7 @@ export function PhotographerHome({ onExit }) {
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className="h-4 w-4">
               <polyline points="15 18 9 12 15 6" />
             </svg>
-            Modul beenden
+            {t('homeEndModule')}
           </button>
           <span className="text-xs font-bold text-white/60">Photographer</span>
           <div className="w-24" />
@@ -360,14 +365,14 @@ export function PhotographerHome({ onExit }) {
         <h1 className="mb-1 text-xl font-black text-[#1C2B6B]">Home</h1>
         {acronym ? (
           <p className="mb-6 text-sm text-gray-400">
-            Hallo, <span className="font-bold text-[#1C2B6B]">{acronym}</span> — was möchtest du tun?
+            {t('homeGreeting').replace('{name}', acronym)}
           </p>
         ) : (
-          <p className="mb-6 text-sm text-gray-400">Was möchtest du tun?</p>
+          <p className="mb-6 text-sm text-gray-400">{t('homeSubtitle')}</p>
         )}
 
         <div className="grid grid-cols-2 gap-3">
-          {TILES.map((tile) => (
+          {TILE_DEFS.map((tile) => (
             <button
               key={tile.id}
               type="button"
@@ -381,12 +386,12 @@ export function PhotographerHome({ onExit }) {
                 {tile.icon}
               </span>
               <div>
-                <div className="text-sm font-bold text-gray-800 leading-tight">{tile.label}</div>
-                <div className="mt-0.5 text-[11px] text-gray-400 leading-snug">{tile.sub}</div>
+                <div className="text-sm font-bold text-gray-800 leading-tight">{TILE_LABELS[tile.id]}</div>
+                <div className="mt-0.5 text-[11px] text-gray-400 leading-snug">{t(tile.subKey)}</div>
               </div>
               {tile.href && (
                 <span className="mt-auto text-[10px] font-semibold" style={{ color: tile.color }}>
-                  Extern ↗
+                  {t('homeExternalBadge')}
                 </span>
               )}
             </button>
@@ -405,10 +410,10 @@ export function PhotographerHome({ onExit }) {
             <circle cx="12" cy="12" r="3"/>
             <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/>
           </svg>
-          Einstellungen
+          {t('settingsTitle')}
           {!acronym && (
             <span className="ml-auto rounded-full bg-red-500 px-2 py-0.5 text-[10px] font-bold text-white">
-              Kürzel fehlt
+              {t('homeAcronymMissing')}
             </span>
           )}
         </button>

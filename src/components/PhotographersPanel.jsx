@@ -3,12 +3,14 @@ import { usePlannerStore } from '../store/usePlannerStore';
 import { useCurrentEvent } from '../hooks/useCurrentEvent';
 import { useTactic } from '../hooks/useTactic';
 import { LsIcon } from './LsIcon';
+import { useTranslation } from '../i18n/useTranslation';
 
 // ─── Edit photographer modal ──────────────────────────────────────────────────
 
 function EditPhotographerModal({ photographer, assignmentCount, onClose }) {
   const replacePhotographer = usePlannerStore((s) => s.replacePhotographer);
   const deletePhotographer = usePlannerStore((s) => s.deletePhotographer);
+  const { t } = useTranslation();
 
   const [view, setView] = useState('menu'); // 'menu' | 'replace' | 'confirmDelete'
   const [newCode, setNewCode] = useState('');
@@ -16,7 +18,7 @@ function EditPhotographerModal({ photographer, assignmentCount, onClose }) {
   const [error, setError] = useState('');
 
   function handleReplace() {
-    if (!newCode.trim()) { setError('Acronym is required.'); return; }
+    if (!newCode.trim()) { setError(t('teamAcronymRequired')); return; }
     replacePhotographer(photographer.id, { code: newCode, firstName: newName });
     onClose();
   }
@@ -54,9 +56,9 @@ function EditPhotographerModal({ photographer, assignmentCount, onClose }) {
                   <path d="M7 23l-4-4 4-4"/><path d="M21 13v2a4 4 0 0 1-4 4H3"/>
                 </svg>
                 <div>
-                  <div className="text-sm font-bold text-[#1C2B6B]">Fotografen ersetzen</div>
+                  <div className="text-sm font-bold text-[#1C2B6B]">{t('teamEditReplaceLabel')}</div>
                   <div className="text-[11px] text-gray-400">
-                    Kürzel &amp; Name ändern — {assignmentCount} {assignmentCount === 1 ? 'Spot bleibt' : 'Spots bleiben'} zugewiesen
+                    {t('teamEditReplaceSubLabel').replace('{count}', assignmentCount)}
                   </div>
                 </div>
               </button>
@@ -71,9 +73,9 @@ function EditPhotographerModal({ photographer, assignmentCount, onClose }) {
                   <path d="M10 11v6M14 11v6"/><path d="M9 6V4h6v2"/>
                 </svg>
                 <div>
-                  <div className="text-sm font-bold text-[#cc1336]">Fotografen löschen</div>
+                  <div className="text-sm font-bold text-[#cc1336]">{t('teamEditDeleteLabel')}</div>
                   <div className="text-[11px] text-gray-400">
-                    Entfernt den Fotografen und {assignmentCount > 0 ? `${assignmentCount} Spot-Zuweisung${assignmentCount !== 1 ? 'en' : ''}` : 'alle Zuweisungen'}
+                    {t('teamEditDeleteSubLabel')}
                   </div>
                 </div>
               </button>
@@ -90,16 +92,16 @@ function EditPhotographerModal({ photographer, assignmentCount, onClose }) {
                   <polyline points="15 18 9 12 15 6"/>
                 </svg>
               </button>
-              <h3 className="text-base font-black text-[#1C2B6B]">Fotografen ersetzen</h3>
+              <h3 className="text-base font-black text-[#1C2B6B]">{t('teamReplaceTitle')}</h3>
             </div>
             <p className="mb-4 text-xs text-gray-400 leading-snug">
-              <span className="font-bold text-[#1C2B6B]">{photographer.code}</span> wird ersetzt. Alle {assignmentCount} geplanten Spots werden automatisch auf die neue Person übertragen.
+              {t('teamReplaceExplain').replace('{code}', photographer.code).replace('{count}', assignmentCount)}
             </p>
 
             <div className="flex flex-col gap-3">
               <div>
                 <label className="mb-1 block text-[10px] font-bold uppercase tracking-wider text-gray-400">
-                  Neues Acronym <span className="text-[#cc1336]">*</span>
+                  {t('teamNewAcronymLabel')} <span className="text-[#cc1336]">*</span>
                 </label>
                 <input
                   autoFocus
@@ -107,20 +109,18 @@ function EditPhotographerModal({ photographer, assignmentCount, onClose }) {
                   value={newCode}
                   onChange={(e) => { setNewCode(e.target.value.toUpperCase()); setError(''); }}
                   maxLength={8}
-                  placeholder="z.B. ANNA"
                   className="w-full rounded-xl border border-gray-200 px-4 py-2.5 text-sm font-bold uppercase tracking-widest text-[#1C2B6B] focus:outline-none focus:ring-2 focus:ring-[#1C2B6B]/20"
                 />
                 {error && <p className="mt-1 text-xs font-semibold text-[#cc1336]">{error}</p>}
               </div>
               <div>
                 <label className="mb-1 block text-[10px] font-bold uppercase tracking-wider text-gray-400">
-                  Name <span className="text-gray-300">(optional)</span>
+                  {t('teamNewNameLabel')}
                 </label>
                 <input
                   type="text"
                   value={newName}
                   onChange={(e) => setNewName(e.target.value)}
-                  placeholder="Vorname"
                   className="w-full rounded-xl border border-gray-200 px-4 py-2.5 text-sm text-gray-700 focus:outline-none focus:ring-2 focus:ring-[#1C2B6B]/20"
                 />
               </div>
@@ -128,10 +128,10 @@ function EditPhotographerModal({ photographer, assignmentCount, onClose }) {
 
             <div className="mt-5 flex gap-2">
               <button type="button" onClick={() => setView('menu')} className="rounded-xl border border-gray-200 px-5 py-3 text-sm font-semibold text-gray-400 hover:bg-gray-50">
-                Zurück
+                {t('teamBackBtn')}
               </button>
               <button type="button" onClick={handleReplace} className="flex-1 rounded-xl bg-[#1C2B6B] py-3 text-sm font-bold text-white hover:bg-[#16255e] transition-colors">
-                Ersetzen &amp; Spots übertragen
+                {t('teamReplaceBtn')}
               </button>
             </div>
           </>
@@ -146,24 +146,24 @@ function EditPhotographerModal({ photographer, assignmentCount, onClose }) {
                   <polyline points="15 18 9 12 15 6"/>
                 </svg>
               </button>
-              <h3 className="text-base font-black text-[#cc1336]">Fotografen löschen</h3>
+              <h3 className="text-base font-black text-[#cc1336]">{t('teamDeleteTitle')}</h3>
             </div>
 
             <div className="mb-5 rounded-xl bg-red-50 border border-red-100 px-4 py-4">
-              <p className="text-sm font-bold text-[#cc1336]">{photographer.code} wirklich löschen?</p>
+              <p className="text-sm font-bold text-[#cc1336]">{t('teamDeleteConfirm').replace('{code}', photographer.code)}</p>
               <p className="mt-1 text-xs text-gray-500 leading-snug">
                 {assignmentCount > 0
-                  ? `Dabei werden auch ${assignmentCount} Spot-Zuweisung${assignmentCount !== 1 ? 'en' : ''} entfernt. Das kann nicht rückgängig gemacht werden.`
-                  : 'Der Fotograf hat keine Spot-Zuweisungen. Das kann nicht rückgängig gemacht werden.'}
+                  ? t('teamDeleteWithSpots').replace('{count}', assignmentCount)
+                  : t('teamDeleteNoSpots')}
               </p>
             </div>
 
             <div className="flex gap-2">
               <button type="button" onClick={() => setView('menu')} className="flex-1 rounded-xl border border-gray-200 py-3 text-sm font-semibold text-gray-400 hover:bg-gray-50">
-                Abbrechen
+                {t('teamCancelBtn')}
               </button>
               <button type="button" onClick={handleDelete} className="flex-1 rounded-xl bg-[#cc1336] py-3 text-sm font-bold text-white hover:bg-[#b01030] transition-colors">
-                Ja, löschen
+                {t('teamDeleteBtn')}
               </button>
             </div>
           </>
@@ -178,6 +178,7 @@ function EditPhotographerModal({ photographer, assignmentCount, onClose }) {
 
 function AddManuallyModal({ onClose }) {
   const addPhotographerManually = usePlannerStore((s) => s.addPhotographerManually);
+  const { t } = useTranslation();
   const [code, setCode] = useState('');
   const [firstName, setFirstName] = useState('');
   const [cameras, setCameras] = useState('');
@@ -185,7 +186,7 @@ function AddManuallyModal({ onClose }) {
   const [error, setError] = useState('');
 
   function handleAdd() {
-    if (!code.trim()) { setError('Acronym is required.'); return; }
+    if (!code.trim()) { setError(t('teamAcronymRequired')); return; }
     const ok = addPhotographerManually({ code, firstName, cameras });
     if (ok) {
       setAdded((prev) => [...prev, code.trim().toUpperCase()]);
@@ -201,7 +202,7 @@ function AddManuallyModal({ onClose }) {
       <div className="w-full max-w-md rounded-t-3xl bg-white p-6 shadow-2xl sm:rounded-2xl">
 
         <div className="mb-5 flex items-center justify-between">
-          <h3 className="text-base font-black text-[#1C2B6B]">Add Team Manually</h3>
+          <h3 className="text-base font-black text-[#1C2B6B]">{t('teamAddTitle')}</h3>
           <button type="button" onClick={onClose} className="text-xl leading-none text-gray-300 hover:text-gray-500">×</button>
         </div>
 
@@ -219,7 +220,7 @@ function AddManuallyModal({ onClose }) {
           {/* Acronym — required */}
           <div>
             <label className="mb-1 block text-[10px] font-bold uppercase tracking-wider text-gray-400">
-              Acronym <span className="text-[#cc1336]">*</span>
+              {t('acronym')} <span className="text-[#cc1336]">*</span>
             </label>
             <input
               autoFocus
@@ -235,13 +236,13 @@ function AddManuallyModal({ onClose }) {
           {/* Name — optional */}
           <div>
             <label className="mb-1 block text-[10px] font-bold uppercase tracking-wider text-gray-400">
-              Name <span className="text-gray-300">(optional)</span>
+              {t('teamNameLabel')} <span className="text-gray-300">({t('optional')})</span>
             </label>
             <input
               type="text"
               value={firstName}
               onChange={(e) => setFirstName(e.target.value)}
-              placeholder="First name"
+              placeholder={t('teamNameLabel')}
               className="w-full rounded-xl border border-gray-200 px-4 py-2.5 text-sm text-gray-700 focus:outline-none focus:ring-2 focus:ring-[#1C2B6B]/20"
             />
           </div>
@@ -249,13 +250,13 @@ function AddManuallyModal({ onClose }) {
           {/* Equipment — optional */}
           <div>
             <label className="mb-1 block text-[10px] font-bold uppercase tracking-wider text-gray-400">
-              Equipment <span className="text-gray-300">(optional)</span>
+              {t('teamEquipmentLabel')} <span className="text-gray-300">({t('optional')})</span>
             </label>
             <input
               type="text"
               value={cameras}
               onChange={(e) => setCameras(e.target.value)}
-              placeholder="Camera body, lenses…"
+              placeholder={t('teamEquipmentLabel')}
               className="w-full rounded-xl border border-gray-200 px-4 py-2.5 text-sm text-gray-700 focus:outline-none focus:ring-2 focus:ring-[#1C2B6B]/20"
             />
           </div>
@@ -267,14 +268,14 @@ function AddManuallyModal({ onClose }) {
             onClick={handleAdd}
             className="flex-1 rounded-xl bg-[#1C2B6B] py-3 text-sm font-bold text-white hover:bg-[#16255e] transition-colors"
           >
-            + Add Photographer
+            {t('teamAddBtn')}
           </button>
           <button
             type="button"
             onClick={onClose}
             className="rounded-xl border border-gray-200 px-5 py-3 text-sm font-semibold text-gray-400 hover:bg-gray-50"
           >
-            Done
+            {t('teamDoneBtn')}
           </button>
         </div>
       </div>
@@ -292,6 +293,7 @@ export function PhotographersPanel() {
   const csvRef = useRef(null);
   const [showManual, setShowManual] = useState(false);
   const [editTarget, setEditTarget] = useState(null);
+  const { t } = useTranslation();
 
   const photographers = event
     ? allPhotographers.filter((p) =>
@@ -341,7 +343,7 @@ export function PhotographersPanel() {
         <div className="min-h-0 flex-1 overflow-y-auto p-2">
           {photographers.length === 0 ? (
             <div className="flex flex-col gap-2 px-2 py-4">
-              <p className="mb-1 text-xs text-[#9aa3bf]">No team yet — add your photographers.</p>
+              <p className="mb-1 text-xs text-[#9aa3bf]">{t('teamNoTeamHint')}</p>
               <button
                 type="button"
                 onClick={() => csvRef.current?.click()}
@@ -350,7 +352,7 @@ export function PhotographersPanel() {
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round" className="h-4 w-4 shrink-0">
                   <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/>
                 </svg>
-                Import Team CSV
+                {t('teamImportCsv')}
               </button>
               <button
                 type="button"
@@ -360,7 +362,7 @@ export function PhotographersPanel() {
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round" className="h-4 w-4 shrink-0">
                   <line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/>
                 </svg>
-                Add Team Manually
+                {t('teamAddManually')}
               </button>
             </div>
           ) : (
@@ -424,7 +426,7 @@ export function PhotographersPanel() {
                 onClick={() => setShowManual(true)}
                 className="mt-1 flex w-full items-center justify-center gap-1.5 rounded-lg border border-dashed border-[#d5daea] py-2 text-xs font-semibold text-[#9aa3bf] hover:border-[#1C2B6B]/30 hover:text-[#1C2B6B] transition-colors"
               >
-                + Add photographer
+                {t('teamAddMore')}
               </button>
             </>
           )}

@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { usePlannerStore } from '../store/usePlannerStore';
 import { useCurrentEvent } from '../hooks/useCurrentEvent';
 import { useTactic } from '../hooks/useTactic';
+import { useTranslation } from '../i18n/useTranslation';
 
 function WhatsAppIcon() {
   return (
@@ -22,6 +23,8 @@ export function TLInfoEditor() {
   const [newGroupCustomName, setNewGroupCustomName] = useState('');
   const [newGroupUrl, setNewGroupUrl] = useState('');
   const [addingGroup, setAddingGroup] = useState(false);
+
+  const { t } = useTranslation();
 
   if (!event) return null;
 
@@ -54,12 +57,12 @@ export function TLInfoEditor() {
       <section>
         <div className="mb-2 flex items-center gap-2">
           <span className="flex h-5 w-5 items-center justify-center rounded-full bg-[#1C2B6B] text-[9px] font-black text-white">1</span>
-          <span className="text-xs font-extrabold uppercase tracking-wide text-[#1C2B6B]">Welcome &amp; General Info</span>
+          <span className="text-xs font-extrabold uppercase tracking-wide text-[#1C2B6B]">{t('tlInfoSection1')}</span>
         </div>
         <textarea
           value={tlInfo.notes || ''}
           onChange={(e) => patch({ notes: e.target.value })}
-          placeholder="Willkommensnachricht, Treffpunkt, Parkplatz, Dresscode, besondere Anweisungen…"
+          placeholder={t('tlInfoNotesPH')}
           rows={5}
           className="w-full rounded-xl border border-[#e3e7f2] bg-white px-3 py-2.5 text-sm text-[#1C2B6B] outline-none placeholder:text-[#c0c8e0] focus:border-[#1C2B6B] resize-none leading-relaxed"
         />
@@ -69,7 +72,7 @@ export function TLInfoEditor() {
       <section>
         <div className="mb-2 flex items-center gap-2">
           <span className="flex h-5 w-5 items-center justify-center rounded-full bg-[#1C2B6B] text-[9px] font-black text-white">2</span>
-          <span className="text-xs font-extrabold uppercase tracking-wide text-[#1C2B6B]">WhatsApp groups</span>
+          <span className="text-xs font-extrabold uppercase tracking-wide text-[#1C2B6B]">WhatsApp Groups</span>
         </div>
         <div className="flex flex-col gap-1.5">
           {groups.map((g) => (
@@ -125,14 +128,14 @@ export function TLInfoEditor() {
                   onClick={addGroup}
                   className="flex-1 rounded-lg bg-[#25D366] py-1.5 text-xs font-bold text-white hover:bg-[#1fba58]"
                 >
-                  Add
+                  {t('tlInfoGroupAdd')}
                 </button>
                 <button
                   type="button"
                   onClick={() => setAddingGroup(false)}
                   className="rounded-lg px-3 py-1.5 text-xs text-[#8a93b0] hover:bg-gray-100"
                 >
-                  Cancel
+                  {t('tlInfoGroupCancel')}
                 </button>
               </div>
             </div>
@@ -143,7 +146,7 @@ export function TLInfoEditor() {
               className="flex items-center gap-1.5 rounded-xl border border-dashed border-[#d5daea] px-3 py-2 text-xs font-semibold text-[#8a93b0] hover:border-[#25D366] hover:text-[#25D366] transition-colors"
             >
               <WhatsAppIcon />
-              + Add WhatsApp group
+              {t('tlInfoAddGroup')}
             </button>
           )}
         </div>
@@ -153,12 +156,12 @@ export function TLInfoEditor() {
       <section>
         <div className="mb-2 flex items-center gap-2">
           <span className="flex h-5 w-5 items-center justify-center rounded-full bg-[#1C2B6B] text-[9px] font-black text-white">3</span>
-          <span className="text-xs font-extrabold uppercase tracking-wide text-[#1C2B6B]">Sonstige Infos</span>
+          <span className="text-xs font-extrabold uppercase tracking-wide text-[#1C2B6B]">{t('tlInfoSection3')}</span>
         </div>
         <textarea
           value={tlInfo.additionalNotes || ''}
           onChange={(e) => patch({ additionalNotes: e.target.value })}
-          placeholder="Weitere Hinweise, Zeitplan, Notizen…"
+          placeholder={t('tlInfoAdditionalPH')}
           rows={4}
           className="w-full rounded-xl border border-[#e3e7f2] bg-white px-3 py-2.5 text-sm text-[#1C2B6B] outline-none placeholder:text-[#c0c8e0] focus:border-[#1C2B6B] resize-none leading-relaxed"
         />

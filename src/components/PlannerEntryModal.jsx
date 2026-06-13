@@ -132,7 +132,7 @@ export function PlannerEntryModal() {
                 onClick={closePlannerEntryModal}
                 className="mt-2 w-full rounded-xl border border-[var(--sg-border)] bg-white px-3 py-2 text-sm font-semibold text-[var(--sg-muted)] hover:border-[#c0c8e8] hover:text-[var(--sg-navy)] transition-colors"
               >
-                Continue without last year's reference
+                {t('entryContinueNoRef')}
               </button>
             </form>
           </div>
@@ -143,7 +143,7 @@ export function PlannerEntryModal() {
           onClick={closePlannerEntryModal}
           className="mt-2 w-full rounded-xl border border-[var(--sg-border)] bg-white px-3 py-2.5 text-sm font-semibold text-[var(--sg-muted)] hover:border-[#c0c8e8] hover:text-[var(--sg-navy)] transition-colors"
         >
-          ← Back
+          {t('entryBack')}
         </button>
       </div>
     </div>

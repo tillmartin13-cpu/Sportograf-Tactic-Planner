@@ -12,7 +12,25 @@
       "Bash(node -e ' *)",
       "Skill(claude-api)",
       "Skill(claude-api:*)",
-      "Bash(npx vercel *)"
+      "Bash(npx vercel *)",
+      "Bash(npx tsc *)",
+      "mcp__visualize__read_me",
+      "mcp__visualize__show_widget",
+      "Bash(npm install *)",
+      "Bash(npm list *)",
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\Till\\\\Desktop\\\\Apps\\\\TLT TACTIC TOOL\\\\sportograf-tactic-planner\" -Recurse -Directory)",
+      "Bash(Select-Object -First 20)",
+      "Bash(npx eslint *)",
+      "Bash(cp \"C:/Users/Till/Downloads/SG-Logo_PNG.svg\" \"C:/Users/Till/Desktop/Apps/TLT TACTIC TOOL/sportograf-tactic-planner/public/sg-logo.svg\")",
+      "Bash(Get-ChildItem \"C:\\\\Users\\\\Till\\\\Downloads\\\\*.png\")",
+      "Bash(Sort-Object LastWriteTime -Descending)",
+      "Bash(Select-Object -First 10 Name, LastWriteTime)",
+      "Bash(Get-ChildItem -Recurse \"C:/Users/Till/Desktop/Apps/TLT TACTIC TOOL/sportograf-tactic-planner/public/hyrox\" -ErrorAction SilentlyContinue)",
+      "Bash(Select-Object FullName)",
+      "Bash(node -e \"require\\('sharp'\\)\")",
+      "Bash(npm uninstall *)",
+      "Bash(npx vite *)",
+      "Bash(node --input-type=module)"
     ]
   }
 }

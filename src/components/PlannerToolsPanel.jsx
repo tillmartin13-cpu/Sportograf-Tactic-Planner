@@ -115,7 +115,7 @@ function TeamInfoModal({ onClose }) {
               <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/>
               <path d="M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"/>
             </svg>
-            <span className="text-sm font-extrabold text-white">Team Info</span>
+            <span className="text-sm font-extrabold text-white">{t('toolsTeamInfo')}</span>
           </div>
           <button type="button" onClick={onClose} className="rounded-lg p-1.5 text-white/60 hover:bg-white/10 hover:text-white transition-colors">
             <SvgIcon name="close" size={16} />
@@ -225,7 +225,7 @@ function PanelContent({ activeView, onViewChange, onClose }) {
           <div className="ml-2 border-l-2 border-[#eef1fb] pl-2 space-y-0.5">
             <FileRow icon="users" label="Team CSV" hint="Opens or creates the event" accept=".csv,.txt"
               onPick={async (f) => { await importTeamCsv(await f.text()); onClose?.(); }} />
-            <FileRow icon="download" label="Tactic JSON" hint="Import existing event package" accept=".json"
+            <FileRow icon="download" label={t('toolsTacticJson')} hint={t('toolsTacticJsonHint')} accept=".json"
               onPick={async (f) => { const ok = await importTacticJson(await f.text()); if (ok) onClose?.(); }} />
             {!indoor && (
               <FileRow icon="gpx" label="GPX Route" hint="Race course track — select multiple" accept=".gpx" multiple
@@ -286,8 +286,8 @@ function PanelContent({ activeView, onViewChange, onClose }) {
                   </svg>
                 </span>
                 <div className="min-w-0 flex-1">
-                  <div className="text-sm font-extrabold leading-tight">Team Info</div>
-                  <div className="text-[11px] text-white/55 mt-0.5">Briefing · Schedule · WhatsApp</div>
+                  <div className="text-sm font-extrabold leading-tight">{t('toolsTeamInfo')}</div>
+                  <div className="text-[11px] text-white/55 mt-0.5">{t('toolsTeamInfoSub')}</div>
                 </div>
                 <SvgIcon name="arrow" size={14} />
               </button>
