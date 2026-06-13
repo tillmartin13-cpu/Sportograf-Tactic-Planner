@@ -315,7 +315,7 @@ export async function generateCheckInCertificate({
 
 export function certificateFilename(eventId, code) {
   const safe = String(code || 'PH').toUpperCase().replace(/[^A-Z0-9]/g, '');
-  return `Sportograf_CheckIn_${eventId}_${safe}.png`;
+  return `${safe}_CheckIn_${eventId}.png`;
 }
 
 export function downloadCertificateBlob(blob, filename) {
