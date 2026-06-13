@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-const TL_PASSWORD = 'TL365only';
+const TL_PASSWORD = 'TL365ONLY';
 
 export function TLPasswordGate({ onUnlock }) {
   const [value, setValue] = useState('');
@@ -9,7 +9,7 @@ export function TLPasswordGate({ onUnlock }) {
 
   function handleSubmit(e) {
     e.preventDefault();
-    if (value === TL_PASSWORD) {
+    if (value.toUpperCase() === TL_PASSWORD) {
       onUnlock();
     } else {
       setShake(true);
