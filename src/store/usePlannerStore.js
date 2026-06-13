@@ -864,6 +864,28 @@ export const usePlannerStore = create(
         });
       },
 
+      addPhotographerManually: ({ code, firstName, lastName, cameras }) => {
+        const eventId = get().currentEventId;
+        if (!eventId) return false;
+        const trimmed = code.trim().toUpperCase();
+        if (!trimmed) return false;
+        const existing = get().photographers.find((p) => p.code === trimmed && (p.eventIds || []).includes(eventId));
+        if (existing) {
+          get().showToast(`${trimmed} already in team.`);
+          return false;
+        }
+        const ph = {
+          id: uid(),
+          code: trimmed,
+          firstName: (firstName || '').trim(),
+          lastName: (lastName || '').trim(),
+          cameras: (cameras || '').trim(),
+          eventIds: [eventId],
+        };
+        set({ photographers: [...get().photographers, ph] });
+        return true;
+      },
+
       importTacticJson: async (text) => {
         const lang = get().language;
         try {
