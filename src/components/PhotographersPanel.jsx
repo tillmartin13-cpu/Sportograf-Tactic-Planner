@@ -227,7 +227,6 @@ function AddManuallyModal({ onClose }) {
               value={code}
               onChange={(e) => { setCode(e.target.value.toUpperCase()); setError(''); }}
               maxLength={8}
-              placeholder="z.B. TILL"
               className="w-full rounded-xl border border-gray-200 px-4 py-2.5 text-sm font-bold uppercase tracking-widest text-[#1C2B6B] focus:outline-none focus:ring-2 focus:ring-[#1C2B6B]/20"
             />
             {error && <p className="mt-1 text-xs font-semibold text-[#cc1336]">{error}</p>}
