@@ -88,6 +88,7 @@ function SettingsSheet({ onClose }) {
 export function PhotographerApp({ onExit = () => {} }) {
   const acronym = usePhotographerStore((s) => s.acronym);
   const screen = usePhotographerStore((s) => s.screen);
+  const closeDetail = usePhotographerStore((s) => s.closeDetail);
   const openCheckIn = usePhotographerStore((s) => s.openCheckIn);
   const activeTacticId = usePhotographerStore((s) => s.activeTacticId);
   const tactics = usePhotographerStore((s) => s.tactics);
@@ -116,14 +117,14 @@ export function PhotographerApp({ onExit = () => {} }) {
         <div className="flex items-center justify-between px-4 py-3">
         <button
           type="button"
-          onClick={onExit}
+          onClick={screen === 'manager' ? onExit : closeDetail}
           className="flex items-center gap-1.5 text-xs font-semibold text-white/70 hover:text-white transition-colors"
-          aria-label="Back to start"
+          aria-label={screen === 'manager' ? 'Back to home' : 'Back to all tactics'}
         >
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className="h-4 w-4">
             <polyline points="15 18 9 12 15 6" />
           </svg>
-          Home
+          {screen === 'manager' ? 'Home' : 'All Tactics'}
         </button>
         <span className="text-xs font-semibold text-white/70">{greeting}</span>
         <button
