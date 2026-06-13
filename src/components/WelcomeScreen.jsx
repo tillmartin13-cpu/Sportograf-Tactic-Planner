@@ -152,7 +152,7 @@ function ModulePicker({ onSelect, onSettings }) {
         </div>
         <div className="h-14 flex flex-col items-center justify-start gap-1.5" onClick={(e) => e.stopPropagation()}>
           {isTl && (<>
-            <p className="text-[11px] text-white/40">Want to become a Team Leader?</p>
+            <p className="text-[11px] text-white/60">Want to become a Team Leader?</p>
             <a
               href="https://forms.gle/MZqTfC1L4kDP7Gsd6"
               target="_blank"
@@ -222,9 +222,9 @@ function ModulePicker({ onSelect, onSettings }) {
 
           {/* Apply now */}
           <div className="flex flex-col items-center gap-1.5" onClick={(e) => e.stopPropagation()}>
-            <p className="text-[11px] text-white/30">Want to become a Team Leader?</p>
+            <p className="text-[11px] text-white/55">Want to become a Team Leader?</p>
             <a href="https://forms.gle/MZqTfC1L4kDP7Gsd6" target="_blank" rel="noreferrer"
-              className="rounded-full border border-white/20 bg-white/5 px-4 py-1.5 text-[11px] font-bold text-white/60 hover:text-white transition-colors">
+              className="rounded-full border border-white/35 bg-white/10 px-4 py-1.5 text-[11px] font-bold text-white/80 hover:text-white transition-colors">
               Apply now →
             </a>
           </div>
@@ -250,8 +250,8 @@ function ModulePicker({ onSelect, onSettings }) {
 
         {/* footer */}
         <div className="flex flex-col items-center gap-0.5 pb-5">
-          <span className="text-[10px] font-semibold tracking-wide text-white/40">Sportograf Digital Solutions GmbH</span>
-          <span className="text-[9px] text-white/30">v{APP_VERSION} · Stand {LAST_UPDATE}</span>
+          <span className="text-[10px] font-semibold tracking-wide text-white/60">Sportograf Digital Solutions GmbH</span>
+          <span className="text-[9px] text-white/50">v{APP_VERSION} · Stand {LAST_UPDATE}</span>
         </div>
       </div>
     );
@@ -333,8 +333,8 @@ function ModulePicker({ onSelect, onSettings }) {
 
       {/* ── Footer ── */}
       <div className="pointer-events-none absolute bottom-0 left-0 right-0 z-30 flex flex-col items-center gap-0.5 pb-3 pt-2">
-        <span className="text-[10px] font-semibold tracking-wide text-white/30">Sportograf Digital Solutions GmbH</span>
-        <span className="text-[9px] text-white/20">v{APP_VERSION} · Stand {LAST_UPDATE}</span>
+        <span className="text-[10px] font-semibold tracking-wide text-white/55">Sportograf Digital Solutions GmbH</span>
+        <span className="text-[9px] text-white/45">v{APP_VERSION} · Stand {LAST_UPDATE}</span>
       </div>
     </div>
   );

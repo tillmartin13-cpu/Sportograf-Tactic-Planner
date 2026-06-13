@@ -1,4 +1,5 @@
 import { useRef, useState } from 'react';
+import { createPortal } from 'react-dom';
 import { t } from '../i18n/messages';
 
 const STATUS_ICON = {
@@ -178,9 +179,12 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
   const hasWarning = result?.status === 'warning';
   const forced = result?.status === 'forced';
 
+  const [showForceDialog, setShowForceDialog] = useState(false);
+
   function handleForceConfirm() {
     const forcedResult = { ...result, status: 'forced', imageDataUrl: preview ?? result?.imageDataUrl };
     setResult(forcedResult);
+    setShowForceDialog(false);
     if (onResult) onResult(forcedResult);
   }
 
@@ -338,7 +342,7 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
             </div>
             {declined && (
               <button
-                onClick={handleForceConfirm}
+                onClick={() => setShowForceDialog(true)}
                 className="w-full py-2 rounded-lg border border-amber-300 bg-amber-50 text-amber-800 text-xs font-semibold hover:bg-amber-100 active:scale-95 transition-transform"
               >
                 🔧 {tr('cameraCheckForceConfirm')}
@@ -346,6 +350,36 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
             )}
           </div>
         </div>
+      )}
+
+      {/* Force confirm warning dialog */}
+      {showForceDialog && createPortal(
+        <div className="fixed inset-0 z-[9999] flex items-center justify-center bg-black/60 p-4">
+          <div className="bg-white rounded-2xl shadow-xl max-w-sm w-full p-6">
+            <div className="text-3xl mb-3 text-center">⚠️</div>
+            <h3 className="text-base font-bold text-red-800 mb-3 text-center">Kamera-Check manuell bestätigen</h3>
+            <p className="text-sm text-gray-700 leading-relaxed mb-5">
+              Ich bestätige, dass ich meine Kamera korrekt eingestellt habe und die Hinweise ignoriert werden können.
+              Wenn es aufgrund falscher Kameraeinstellungen zu Problemen im Workflow kommt,
+              <strong> besteht die Möglichkeit, dass das Honorar reduziert wird.</strong>
+            </p>
+            <div className="flex flex-col gap-2">
+              <button
+                onClick={handleForceConfirm}
+                className="w-full py-3 rounded-xl bg-red-600 text-white text-sm font-bold hover:bg-red-700 active:scale-95 transition-transform"
+              >
+                Ich bestätige — trotzdem fortfahren
+              </button>
+              <button
+                onClick={() => setShowForceDialog(false)}
+                className="w-full py-3 rounded-xl border border-gray-300 text-sm font-semibold text-gray-600 hover:bg-gray-50 active:scale-95 transition-transform"
+              >
+                Abbrechen — neues Foto machen
+              </button>
+            </div>
+          </div>
+        </div>,
+        document.body
       )}
     </div>
   );

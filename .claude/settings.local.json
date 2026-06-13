@@ -30,7 +30,11 @@
       "Bash(node -e \"require\\('sharp'\\)\")",
       "Bash(npm uninstall *)",
       "Bash(npx vite *)",
-      "Bash(node --input-type=module)"
+      "Bash(node --input-type=module)",
+      "Bash(node --input-type=module --eval ' *)",
+      "Bash(npx --yes acorn --ecma2020 --module src/components/photographer/TacticDetail.jsx)",
+      "Bash(curl -s http://localhost:5173)",
+      "Bash(curl -s \"http://localhost:5173/src/components/photographer/TacticDetail.jsx\")"
     ]
   }
 }

@@ -66,10 +66,10 @@ function AtomClockOverlay({ onClose }) {
       <div className="relative flex flex-col items-center gap-3 select-none px-10 py-8">
 
         {/* Crop-corner markers */}
-        <Corner style={{ top: 0, left: 0, transform: 'none' }} />
-        <Corner style={{ top: 0, right: 0, transform: 'scaleX(-1)' }} />
-        <Corner style={{ bottom: 0, left: 0, transform: 'scaleY(-1)' }} />
-        <Corner style={{ bottom: 0, right: 0, transform: 'scale(-1,-1)' }} />
+        <Corner style={{ top: -28, left: -28, transform: 'none' }} />
+        <Corner style={{ top: -28, right: -28, transform: 'scaleX(-1)' }} />
+        <Corner style={{ bottom: -28, left: -28, transform: 'scaleY(-1)' }} />
+        <Corner style={{ bottom: -28, right: -28, transform: 'scale(-1,-1)' }} />
 
         <div
           className="font-mono font-black tabular-nums text-white leading-none"

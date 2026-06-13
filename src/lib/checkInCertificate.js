@@ -65,12 +65,30 @@ function drawRow(ctx, label, value, y, valueColor = COLORS.navy) {
   ctx.fillText(value, 180, y);
 }
 
+const CAM_DETAIL_LABELS = {
+  shutterSpeed: 'Shutter Speed',
+  format: 'File Format',
+  date: 'Date',
+  time: 'Time',
+  cardImages: 'Card Images',
+  pictureStyle: 'Picture Style',
+};
+
+const STATUS_ICON_TEXT = { ok: '✓', warning: '!', failed: '✗', unreadable: '?' };
+const STATUS_COLOR = {
+  ok: '#166534',
+  warning: '#92400e',
+  failed: '#CC2B2B',
+  unreadable: '#8a93b0',
+};
+
 export async function generateCheckInCertificate({
   event,
   photographer,
   cameraOk,
   cameraStatus,
   cameraImageUrl,
+  cameraDetails,
   checkedInAt,
   labels,
   completedChecks = [],
@@ -212,18 +230,57 @@ export async function generateCheckInCertificate({
   ctx.fillStyle = camStatusColor;
   ctx.fillText(`${camStatusIcon}  ${camStatusLabel}`, 48, camLabelY + 18);
 
+  // Camera detail rows
+  let detailY = camLabelY + 36;
+  if (cameraDetails && typeof cameraDetails === 'object') {
+    const detailOrder = ['shutterSpeed', 'format', 'date', 'time', 'cardImages', 'pictureStyle'];
+    const rowH = 17;
+    const colMid = 48 + 110;
+    ctx.font = '600 10px system-ui, -apple-system, Segoe UI, sans-serif';
+    detailOrder.forEach((key) => {
+      const det = cameraDetails[key];
+      if (!det) return;
+      const icon = STATUS_ICON_TEXT[det.status] ?? '?';
+      const color = STATUS_COLOR[det.status] ?? COLORS.muted;
+      const detected = det.detected != null ? String(det.detected) : '—';
+
+      // status icon circle
+      ctx.beginPath();
+      ctx.arc(48 + 6, detailY + 5, 6, 0, Math.PI * 2);
+      ctx.fillStyle = color + '22';
+      ctx.fill();
+      ctx.font = 'bold 8px system-ui, -apple-system, Segoe UI, sans-serif';
+      ctx.fillStyle = color;
+      ctx.textAlign = 'center';
+      ctx.fillText(icon, 48 + 6, detailY + 8.5);
+
+      // label
+      ctx.textAlign = 'left';
+      ctx.font = '600 10px system-ui, -apple-system, Segoe UI, sans-serif';
+      ctx.fillStyle = COLORS.muted;
+      ctx.fillText(CAM_DETAIL_LABELS[key] ?? key, 48 + 16, detailY + 8);
+
+      // detected value
+      ctx.font = '700 10px system-ui, -apple-system, Segoe UI, sans-serif';
+      ctx.fillStyle = color;
+      ctx.fillText(detected, colMid, detailY + 8);
+
+      detailY += rowH;
+    });
+    detailY += 4;
+  }
+
   if (cameraImageUrl) {
     try {
       const camImg = await loadImage(cameraImageUrl);
-      const maxImgH = H - 44 - (camLabelY + 36) - 8;
+      const maxImgH = H - 44 - detailY - 8;
       const maxImgW = W - 96;
       const scale = Math.min(maxImgW / camImg.width, maxImgH / camImg.height, 1);
       const iw = Math.round(camImg.width * scale);
       const ih = Math.round(camImg.height * scale);
       const ix = 48;
-      const iy = camLabelY + 36;
+      const iy = detailY;
       ctx.drawImage(camImg, ix, iy, iw, ih);
-      // subtle border around photo
       ctx.strokeStyle = COLORS.border;
       ctx.lineWidth = 1;
       ctx.strokeRect(ix, iy, iw, ih);

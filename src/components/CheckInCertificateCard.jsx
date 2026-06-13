@@ -11,7 +11,7 @@ import { t as translate } from '../i18n/messages';
 
 const LOCALE_MAP = { en: 'en-GB', de: 'de-DE', es: 'es-ES', it: 'it-IT' };
 
-export function CheckInCertificateCard({ event, photographer, cameraOk, cameraStatus, cameraImageUrl, checkedInAt, completedChecks = [], onClose, extraShareFile }) {
+export function CheckInCertificateCard({ event, photographer, cameraOk, cameraStatus, cameraImageUrl, cameraDetails, checkedInAt, completedChecks = [], onClose, extraShareFile }) {
   const { t, language } = useTranslation();
   const showToast = usePlannerStore((s) => s.showToast);
   const [previewUrl, setPreviewUrl] = useState(null);
@@ -47,6 +47,7 @@ export function CheckInCertificateCard({ event, photographer, cameraOk, cameraSt
           cameraOk,
           cameraStatus,
           cameraImageUrl,
+          cameraDetails,
           checkedInAt,
           completedChecks,
           locale: LOCALE_MAP[language] || 'en-GB',
@@ -67,7 +68,7 @@ export function CheckInCertificateCard({ event, photographer, cameraOk, cameraSt
       cancelled = true;
       if (objectUrl) URL.revokeObjectURL(objectUrl);
     };
-  }, [event, photographer, cameraOk, cameraStatus, cameraImageUrl, checkedInAt, completedChecks, language, certLabels]);
+  }, [event, photographer, cameraOk, cameraStatus, cameraImageUrl, cameraDetails, checkedInAt, completedChecks, language, certLabels]);
 
   const filename = certificateFilename(event.id, photographer.code);
 

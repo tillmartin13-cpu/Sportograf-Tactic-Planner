@@ -1139,6 +1139,7 @@ function CertificateButton({ event, photographer, cameraOk, cameraStatus, camera
               cameraOk={cameraOk}
               cameraStatus={cameraStatus}
               cameraImageUrl={cameraImageUrl}
+              cameraDetails={cameraResult?.details}
               checkedInAt={checkedInAt}
               completedChecks={completedChecks}
               extraShareFile={cameraImageUrl}
