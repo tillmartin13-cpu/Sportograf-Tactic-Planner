@@ -61,16 +61,10 @@ function LiveClock({ eventDate }) {
           Aktuelle Uhrzeit — Kamera einstellen
         </div>
 
-        {/* HH:MM in huge mono */}
+        {/* HH:MM:SS — same size, same color */}
         <div className="font-mono font-black tabular-nums text-white leading-none"
-          style={{ fontSize: 'clamp(64px, 22vw, 96px)', letterSpacing: '-0.02em' }}>
-          {hh}:{mm}
-        </div>
-
-        {/* Seconds — large, clearly readable */}
-        <div className="mt-2 font-mono font-black tabular-nums leading-none"
-          style={{ fontSize: 'clamp(36px, 12vw, 56px)', color: '#60a5fa', letterSpacing: '0.04em' }}>
-          :{ss}
+          style={{ fontSize: 'clamp(52px, 17vw, 80px)', letterSpacing: '-0.02em' }}>
+          {hh}:{mm}:{ss}
         </div>
 
         {/* Date with full year */}
