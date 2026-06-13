@@ -212,6 +212,21 @@ export function findCameraSettings(cameraString) {
   return bestScore > 0 ? best : null;
 }
 
+/** Models that use XQD or CFexpress slots — need a dedicated card reader */
+const NEEDS_READER_MODELS = new Set([
+  // Canon — CFexpress Type B
+  'EOS R1', 'EOS R3', 'EOS R5 Mark II', 'EOS R5', 'EOS-1D X Mark III', 'EOS-1D X Mark II',
+  // Nikon — XQD or CFexpress Type B
+  'Z9', 'Z8', 'Z7 II', 'Z7', 'Z6 III', 'Z6 II', 'Z6', 'D6', 'D5', 'D4s', 'D4', 'D500', 'D850',
+  // Sony — CFexpress Type A
+  'A1 II', 'A1', 'A9 III', 'A7R V', 'A7R IV',
+]);
+
+/** Returns true if the given camera uses XQD or CFexpress (needs a card reader). */
+export function needsCardReader(brand, model) {
+  return NEEDS_READER_MODELS.has(model);
+}
+
 /**
  * Parse a camera field that may contain multiple cameras (comma/slash/semicolon separated).
  * Returns array of matched settings (deduplicated by model).

@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { usePhotographerStore } from '../../store/usePhotographerStore';
 import { usePhTranslation } from '../../i18n/usePhTranslation';
-import { findAllCameraSettings } from '../../lib/cameraSettings';
+import { findAllCameraSettings, needsCardReader } from '../../lib/cameraSettings';
 import { CameraCheck } from '../CameraCheck';
 
 const TUTORIAL_LINKS = [
@@ -34,12 +34,15 @@ export function CheckInFlow({ tacticId, cameraString }) {
   const cameraResult = checkIn.cameraCheckResult;
   const cameraSettings = findAllCameraSettings(cameraString || '');
 
+  const requiresCardReader = cameraSettings.some((s) => needsCardReader(s.brand, s.model));
+
   const tutorialsDone = TUTORIAL_LINKS.every((tl) => steps[tl.id]);
   const settingsDone = steps.settings_confirmed;
-  const cardDone = steps.card_formatted;
+  const batteryDone = steps.battery_checked;
+  const cardDone = steps.card_formatted && (!requiresCardReader || steps.card_reader_packed);
   const cameraDone = cameraResult?.status === 'accepted' || cameraResult?.status === 'warning';
 
-  const allDone = tutorialsDone && settingsDone && cardDone && cameraDone;
+  const allDone = tutorialsDone && settingsDone && batteryDone && cardDone && cameraDone;
 
   function toggle(step) {
     setCheckInStep(tacticId, step, !steps[step]);
@@ -110,24 +113,52 @@ export function CheckInFlow({ tacticId, cameraString }) {
         </label>
       </div>
 
-      {/* Step 3: Memory card */}
+      {/* Step 3: Batteries */}
       <div className="rounded-2xl border border-gray-200 bg-white p-4">
-        <StepHeader number="3" title={t('checkInFlowStep3')} done={cardDone} />
-        <p className="text-sm text-gray-500 mb-3">{t('checkInFlowCardHint')}</p>
+        <StepHeader number="3" title={t('checkInFlowBatteryStep')} done={batteryDone} />
+        <p className="text-sm text-gray-500 mb-3">{t('checkInFlowBatteryHint')}</p>
         <label className="flex items-center gap-3 cursor-pointer">
           <input
             type="checkbox"
-            checked={!!steps.card_formatted}
-            onChange={() => toggle('card_formatted')}
+            checked={!!steps.battery_checked}
+            onChange={() => toggle('battery_checked')}
             className="h-4 w-4 accent-[#1C2B6B]"
           />
-          <span className="text-sm text-gray-700">{t('checkInFlowCardConfirm')}</span>
+          <span className="text-sm text-gray-700">{t('checkInFlowBatteryConfirm')}</span>
         </label>
       </div>
 
-      {/* Step 4: Camera check */}
+      {/* Step 4: Memory card */}
       <div className="rounded-2xl border border-gray-200 bg-white p-4">
-        <StepHeader number="4" title={t('checkInFlowStep4')} done={cameraDone} />
+        <StepHeader number="4" title={t('checkInFlowStep3')} done={cardDone} />
+        <p className="text-sm text-gray-500 mb-3">{t('checkInFlowCardHint')}</p>
+        <div className="space-y-2">
+          <label className="flex items-center gap-3 cursor-pointer">
+            <input
+              type="checkbox"
+              checked={!!steps.card_formatted}
+              onChange={() => toggle('card_formatted')}
+              className="h-4 w-4 accent-[#1C2B6B]"
+            />
+            <span className="text-sm text-gray-700">{t('checkInFlowCardConfirm')}</span>
+          </label>
+          {requiresCardReader && (
+            <label className="flex items-center gap-3 cursor-pointer">
+              <input
+                type="checkbox"
+                checked={!!steps.card_reader_packed}
+                onChange={() => toggle('card_reader_packed')}
+                className="h-4 w-4 accent-[#1C2B6B]"
+              />
+              <span className="text-sm text-gray-700">{t('checkInFlowCardReaderConfirm')}</span>
+            </label>
+          )}
+        </div>
+      </div>
+
+      {/* Step 5: Camera check */}
+      <div className="rounded-2xl border border-gray-200 bg-white p-4">
+        <StepHeader number="5" title={t('checkInFlowStep4')} done={cameraDone} />
         <p className="text-sm text-gray-500 mb-4">{t('checkInFlowCameraHint')}</p>
         <CameraCheck
           lang={language}
