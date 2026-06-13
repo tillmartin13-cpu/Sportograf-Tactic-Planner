@@ -194,6 +194,14 @@ export function AIEventLogicModal({ onClose }) {
         {/* Body */}
         <div className="flex-1 overflow-y-auto p-5 space-y-4">
 
+          {/* Experimental warning */}
+          <div className="flex gap-2.5 rounded-xl border border-amber-200 bg-amber-50 px-3.5 py-3">
+            <span className="mt-px shrink-0 text-base leading-none">⚠️</span>
+            <p className="text-[11px] leading-relaxed text-amber-800">
+              <strong>Experimentelles KI-Feature.</strong> Die Ergebnisse sind KI-generiert und können unvollständig oder fehlerhaft sein. Bitte alle Angaben eigenständig prüfen und nicht blind vertrauen.
+            </p>
+          </div>
+
           {/* File upload */}
           <div>
             <div className="mb-2 text-[10px] font-bold uppercase tracking-widest text-[#8a93b0]">Upload files</div>

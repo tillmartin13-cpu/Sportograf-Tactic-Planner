@@ -260,15 +260,15 @@ function PanelContent({ activeView, onViewChange, onClose }) {
             <button
               type="button"
               onClick={() => setAiEventOpen(true)}
-              className="flex w-full items-center gap-2.5 rounded-lg bg-gradient-to-r from-[#1C2B6B] to-[#2d3e8f] px-3 py-2 text-left transition-all hover:opacity-90 active:scale-[0.98]"
+              className="flex w-full items-center gap-2.5 rounded-lg px-3 py-2 text-left transition-colors hover:bg-[var(--sg-tint)]"
             >
-              <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-md bg-white/20 text-white">
+              <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-md bg-[#eef1fb] text-[#5b6aa8]">
                 <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                   <path d="M12 2a10 10 0 1 0 10 10"/><path d="M12 6v6l4 2"/><path d="M18 12h4M22 8v4"/>
                 </svg>
               </span>
-              <span className="flex-1 text-xs font-semibold text-white">Event Logic</span>
-              <span className="rounded bg-white/20 px-1 py-0.5 text-[9px] font-bold text-white/70">AI</span>
+              <span className="flex-1 text-xs font-semibold text-[var(--sg-navy)]">Event Logic</span>
+              <span className="rounded bg-[#1C2B6B] px-1 py-0.5 text-[9px] font-bold text-white">AI</span>
             </button>
 
             {/* Upload Calculator */}
