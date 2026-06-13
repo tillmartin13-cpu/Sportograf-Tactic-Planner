@@ -35,17 +35,60 @@ function useNtpClock() {
   return { now, synced, syncError, tz };
 }
 
+// ─── Timezone list (sorted by UTC offset) ────────────────────────────────────
+
+const TIMEZONES = [
+  { tz: 'Pacific/Honolulu',      label: 'Honolulu',            offset: -10 },
+  { tz: 'America/Anchorage',     label: 'Anchorage',           offset: -9  },
+  { tz: 'America/Los_Angeles',   label: 'Los Angeles / Seattle', offset: -8 },
+  { tz: 'America/Denver',        label: 'Denver / Salt Lake City', offset: -7 },
+  { tz: 'America/Chicago',       label: 'Chicago / Dallas',    offset: -6  },
+  { tz: 'America/New_York',      label: 'New York / Miami',    offset: -5  },
+  { tz: 'America/Halifax',       label: 'Halifax',             offset: -4  },
+  { tz: 'America/Sao_Paulo',     label: 'São Paulo / Buenos Aires', offset: -3 },
+  { tz: 'Atlantic/Azores',       label: 'Azoren',              offset: -1  },
+  { tz: 'Europe/London',         label: 'London / Dublin',     offset: 0   },
+  { tz: 'Europe/Paris',          label: 'Paris / Berlin / Rom / Madrid', offset: 1 },
+  { tz: 'Europe/Helsinki',       label: 'Helsinki / Athen / Kairo', offset: 2 },
+  { tz: 'Europe/Moscow',         label: 'Moskau / Nairobi',    offset: 3   },
+  { tz: 'Asia/Dubai',            label: 'Dubai / Abu Dhabi',   offset: 4   },
+  { tz: 'Asia/Karachi',          label: 'Karachi / Islamabad', offset: 5   },
+  { tz: 'Asia/Kolkata',          label: 'Mumbai / Delhi',      offset: 5.5 },
+  { tz: 'Asia/Dhaka',            label: 'Dhaka',               offset: 6   },
+  { tz: 'Asia/Bangkok',          label: 'Bangkok / Jakarta',   offset: 7   },
+  { tz: 'Asia/Singapore',        label: 'Singapur / Kuala Lumpur', offset: 8 },
+  { tz: 'Asia/Shanghai',         label: 'Shanghai / Peking / Perth', offset: 8 },
+  { tz: 'Asia/Tokyo',            label: 'Tokio / Seoul',       offset: 9   },
+  { tz: 'Australia/Sydney',      label: 'Sydney / Melbourne',  offset: 10  },
+  { tz: 'Pacific/Auckland',      label: 'Auckland',            offset: 12  },
+];
+
+function formatInTz(date, tz) {
+  const fmt = new Intl.DateTimeFormat('en-GB', {
+    timeZone: tz,
+    hour: '2-digit', minute: '2-digit', second: '2-digit',
+    day: '2-digit', month: '2-digit', year: 'numeric',
+    hour12: false,
+  });
+  const parts = Object.fromEntries(fmt.formatToParts(date).map((p) => [p.type, p.value]));
+  return {
+    hh: parts.hour,
+    mm: parts.minute,
+    ss: parts.second,
+    day: parts.day,
+    mon: parts.month,
+    year: parts.year,
+  };
+}
+
 // ─── Fullscreen atomic clock overlay ─────────────────────────────────────────
 
-function AtomClockOverlay({ onClose, photographerCode, cameraLabel }) {
-  const { now, synced, syncError, tz } = useNtpClock();
+function AtomClockOverlay({ onClose, photographerCode, cameraLabel, displayTz }) {
+  const { now, synced, syncError, tz: deviceTz } = useNtpClock();
 
-  const hh = String(now.getHours()).padStart(2, '0');
-  const mm = String(now.getMinutes()).padStart(2, '0');
-  const ss = String(now.getSeconds()).padStart(2, '0');
-  const day  = String(now.getDate()).padStart(2, '0');
-  const mon  = String(now.getMonth() + 1).padStart(2, '0');
-  const year = now.getFullYear();
+  const activeTz = displayTz || deviceTz;
+  const { hh, mm, ss, day, mon, year } = formatInTz(now, activeTz);
+  const travelMode = !!displayTz && displayTz !== deviceTz;
 
   // Corner marker SVG — L-shaped crop marks
   const Corner = ({ style }) => (
@@ -85,14 +128,22 @@ function AtomClockOverlay({ onClose, photographerCode, cameraLabel }) {
           {day}.{mon}.{year}
         </div>
 
-        <div
-          className="font-mono text-white/35"
-          style={{ fontSize: 'clamp(10px, 2.5vw, 14px)', letterSpacing: '0.1em' }}
-        >
-          {tz}
+        <div className="flex flex-col items-center gap-1">
+          {travelMode && (
+            <div className="flex items-center gap-1 rounded-full bg-amber-400/20 px-2 py-0.5">
+              <span style={{ fontSize: 10 }}>✈</span>
+              <span className="text-[10px] font-bold text-amber-300 tracking-wide">TRAVEL MODE</span>
+            </div>
+          )}
+          <div
+            className="font-mono text-white/35"
+            style={{ fontSize: 'clamp(10px, 2.5vw, 14px)', letterSpacing: '0.1em' }}
+          >
+            {activeTz}
+          </div>
         </div>
 
-        <div className="flex items-center gap-1.5 mt-1">
+        <div className="flex items-center gap-1.5">
           {synced ? (
             <><span className="h-1.5 w-1.5 rounded-full bg-green-400" /><span className="text-[10px] font-bold text-green-400">NTP sync · TimeAPI.io</span></>
           ) : syncError ? (
@@ -127,6 +178,8 @@ function LiveClock({ eventDate, cameras, photographerCode }) {
   const [open, setOpen] = useState(false);
   const [selectedCamera, setSelectedCamera] = useState('');
   const [otherText, setOtherText] = useState('');
+  const [travelMode, setTravelMode] = useState(false);
+  const [selectedTz, setSelectedTz] = useState(TIMEZONES[10].tz); // default Europe/Paris
 
   const cameraOptions = cameras.map((c) => `${c.brand} ${c.model}`);
   const hasMultiple = cameraOptions.length > 0;
@@ -151,6 +204,7 @@ function LiveClock({ eventDate, cameras, photographerCode }) {
           onClose={() => setOpen(false)}
           photographerCode={photographerCode}
           cameraLabel={cameraLabel}
+          displayTz={travelMode ? selectedTz : undefined}
         />
       )}
 
@@ -177,6 +231,39 @@ function LiveClock({ eventDate, cameras, photographerCode }) {
             placeholder="Kamerabezeichnung eingeben…"
             className="w-full rounded-xl border border-gray-200 px-3 py-2 text-sm text-gray-800 focus:outline-none focus:border-[#1C2B6B]"
           />
+        )}
+      </div>
+
+      {/* Travel mode toggle */}
+      <div className="mb-2 rounded-xl border border-gray-200 bg-gray-50 overflow-hidden">
+        <button
+          type="button"
+          onClick={() => setTravelMode((v) => !v)}
+          className="flex w-full items-center gap-3 px-3 py-2.5"
+        >
+          <span className="text-base leading-none">✈️</span>
+          <div className="flex-1 text-left">
+            <span className="text-sm font-bold text-gray-800">Travel Mode</span>
+            <span className="ml-2 text-[10px] text-gray-400">andere Zeitzone</span>
+          </div>
+          <div className={`relative h-5 w-9 rounded-full transition-colors ${travelMode ? 'bg-[#1C2B6B]' : 'bg-gray-300'}`}>
+            <div className={`absolute top-0.5 h-4 w-4 rounded-full bg-white shadow transition-transform ${travelMode ? 'translate-x-4' : 'translate-x-0.5'}`} />
+          </div>
+        </button>
+        {travelMode && (
+          <div className="border-t border-gray-200 px-3 pb-3 pt-2">
+            <select
+              value={selectedTz}
+              onChange={(e) => setSelectedTz(e.target.value)}
+              className="w-full rounded-xl border border-gray-200 bg-white px-3 py-2 text-sm font-semibold text-gray-800 focus:outline-none focus:border-[#1C2B6B]"
+            >
+              {TIMEZONES.map(({ tz, label, offset }) => (
+                <option key={tz} value={tz}>
+                  {offset >= 0 ? `UTC+${offset}` : `UTC${offset}`} · {label}
+                </option>
+              ))}
+            </select>
+          </div>
         )}
       </div>
 
