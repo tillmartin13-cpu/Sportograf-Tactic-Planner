@@ -407,14 +407,12 @@ export function PhotographersPanel() {
                     )}
                     {ph.cameras && (
                       <div className="mt-1 text-[10px] leading-snug text-[#9aa3bf]">
-                        <span className="font-bold text-[#b0b8cf]">Cam: </span>
-                        <span className="line-clamp-2">{ph.cameras}</span>
+                        <span className="font-bold text-[#b0b8cf]">Cam: </span>{ph.cameras}
                       </div>
                     )}
                     {ph.lenses && (
                       <div className="mt-0.5 text-[10px] leading-snug text-[#9aa3bf]">
-                        <span className="font-bold text-[#b0b8cf]">Lens: </span>
-                        <span className="line-clamp-3">{ph.lenses}</span>
+                        <span className="font-bold text-[#b0b8cf]">Lens: </span>{ph.lenses}
                       </div>
                     )}
                   </div>
