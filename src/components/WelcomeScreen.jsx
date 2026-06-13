@@ -162,7 +162,7 @@ function ModulePicker({ onSelect, onSettings }) {
         onClick={() => onSelect('tl')}
         onMouseEnter={() => setHovered('tl')}
         onMouseLeave={() => setHovered(null)}
-        className="relative z-10 flex flex-1 flex-col items-center justify-end pb-[18%] sm:justify-center sm:pb-10 transition-all duration-400 outline-none"
+        className="relative z-10 flex flex-1 flex-col items-center justify-center pb-10 transition-all duration-400 outline-none"
         style={{
           background: '#293377',
           clipPath: `polygon(0 0, 100% 0, calc(100% - ${diagOffset}) 100%, 0 100%)`,
@@ -182,7 +182,7 @@ function ModulePicker({ onSelect, onSettings }) {
         onClick={() => onSelect('photographer')}
         onMouseEnter={() => setHovered('photo')}
         onMouseLeave={() => setHovered(null)}
-        className="relative z-10 flex flex-1 flex-col items-center justify-end pb-[18%] sm:justify-center sm:pb-10 transition-all duration-400 outline-none"
+        className="relative z-10 flex flex-1 flex-col items-center justify-center pb-10 transition-all duration-400 outline-none"
         style={{
           background: '#cc1336',
           clipPath: `polygon(${diagOffset} 0, 100% 0, 100% 100%, 0 100%)`,
