@@ -35,7 +35,7 @@ function StepHeader({ number, title, done }) {
   );
 }
 
-export function CheckInFlow({ tacticId, cameraString }) {
+export function CheckInFlow({ tacticId, cameraString, eventDate }) {
   const { t, language } = usePhTranslation();
   const setCheckInStep = usePhotographerStore((s) => s.setCheckInStep);
   const setCameraCheckResult = usePhotographerStore((s) => s.setCameraCheckResult);
@@ -176,7 +176,49 @@ export function CheckInFlow({ tacticId, cameraString }) {
       {/* Step 5: Camera check */}
       <div className="rounded-2xl border border-gray-200 bg-white p-4">
         <StepHeader number="5" title={t('checkInFlowStep4')} done={cameraDone} />
-        <p className="text-sm text-gray-500 mb-4">{t('checkInFlowCameraHint')}</p>
+        <p className="text-sm text-gray-500 mb-3">{t('checkInFlowCameraHint')}</p>
+
+        {/* time.is link */}
+        <a
+          href="https://time.is"
+          target="_blank"
+          rel="noreferrer"
+          className="mb-3 flex items-center gap-2 rounded-xl border border-[#e3e7f2] bg-[#f8f9ff] px-3 py-2.5 text-left transition-colors hover:bg-[#eef1fb]"
+        >
+          <span className="text-base leading-none">🕐</span>
+          <div className="flex-1 min-w-0">
+            <div className="text-[11px] font-extrabold text-[#1C2B6B]">Aktuelle Uhrzeit prüfen</div>
+            <div className="text-[10px] text-[#8a93b0]">time.is — atomgenaue Lokalzeit öffnen</div>
+          </div>
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#8a93b0" strokeWidth="2" strokeLinecap="round">
+            <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/>
+          </svg>
+        </a>
+
+        {/* Future event warning */}
+        {(() => {
+          if (!eventDate) return null;
+          const today = new Date();
+          today.setHours(0, 0, 0, 0);
+          const eDate = new Date(eventDate);
+          eDate.setHours(0, 0, 0, 0);
+          const daysUntil = Math.round((eDate - today) / (1000 * 60 * 60 * 24));
+          if (daysUntil <= 0) return null;
+          return (
+            <div className="mb-3 flex gap-2.5 rounded-xl border border-amber-200 bg-amber-50 px-3 py-2.5">
+              <span className="mt-px shrink-0 text-base leading-none">⚠️</span>
+              <div>
+                <p className="text-[11px] font-extrabold text-amber-800">
+                  Event liegt noch {daysUntil} {daysUntil === 1 ? 'Tag' : 'Tage'} in der Zukunft
+                </p>
+                <p className="mt-1 text-[10px] leading-relaxed text-amber-700">
+                  Durch Sommer-/Winterzeit oder Zeitzonenwechsel kann sich die lokale Uhrzeit bis zum Event ändern. <strong>Stelle die Kameruhrzeit immer kurz vor dem Event nochmal auf die lokale Ortszeit ein.</strong> Es gilt die lokale Zeit am Eventort.
+                </p>
+              </div>
+            </div>
+          );
+        })()}
+
         <CameraCheck
           lang={language}
           cameraModel={cameraSettings[0] ? `${cameraSettings[0].brand} ${cameraSettings[0].model}` : undefined}

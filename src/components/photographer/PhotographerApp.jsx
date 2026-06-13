@@ -155,6 +155,7 @@ export function PhotographerApp({ onExit = () => {} }) {
           <CheckInFlow
             tacticId={activeTacticId}
             cameraString={cameraString}
+            eventDate={activeTactic?.pkg?.event?.date ?? null}
           />
         )}
       </main>
