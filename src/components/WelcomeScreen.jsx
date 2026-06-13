@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { usePlannerStore } from '../store/usePlannerStore';
 import { LanguageSettingsModal } from './LanguageSettingsModal';
 import { useTranslation } from '../i18n/useTranslation';
@@ -94,6 +94,15 @@ const LAST_UPDATE = '12.06.2026';
 
 function ModulePicker({ onSelect, onSettings }) {
   const [hovered, setHovered] = useState(null);
+  const [isMobile, setIsMobile] = useState(() => window.innerWidth < 640);
+  useEffect(() => {
+    const fn = () => setIsMobile(window.innerWidth < 640);
+    window.addEventListener('resize', fn);
+    return () => window.removeEventListener('resize', fn);
+  }, []);
+
+  // Mobile: straight 50/50 split. Desktop: diagonal with 8vw offset.
+  const diagOffset = isMobile ? '0px' : '8vw';
 
   // Shared panel content block
   function PanelContent({ side }) {
@@ -156,7 +165,7 @@ function ModulePicker({ onSelect, onSettings }) {
         className="relative z-10 flex flex-1 flex-col items-center justify-end pb-[18%] sm:justify-center sm:pb-10 transition-all duration-400 outline-none"
         style={{
           background: '#293377',
-          clipPath: 'polygon(0 0, 100% 0, calc(100% - 6vw) 100%, 0 100%)',
+          clipPath: `polygon(0 0, 100% 0, calc(100% - ${diagOffset}) 100%, 0 100%)`,
           opacity: hovered === 'photo' ? 0.72 : 1,
           transform: hovered === 'tl' ? 'scale(1.012)' : 'scale(1)',
           transformOrigin: 'left center',
@@ -176,8 +185,8 @@ function ModulePicker({ onSelect, onSettings }) {
         className="relative z-10 flex flex-1 flex-col items-center justify-end pb-[18%] sm:justify-center sm:pb-10 transition-all duration-400 outline-none"
         style={{
           background: '#cc1336',
-          clipPath: 'polygon(6vw 0, 100% 0, 100% 100%, 0 100%)',
-          marginLeft: '-6vw',
+          clipPath: `polygon(${diagOffset} 0, 100% 0, 100% 100%, 0 100%)`,
+          marginLeft: isMobile ? '0' : `-${diagOffset}`,
           opacity: hovered === 'tl' ? 0.72 : 1,
           transform: hovered === 'photo' ? 'scale(1.012)' : 'scale(1)',
           transformOrigin: 'right center',
