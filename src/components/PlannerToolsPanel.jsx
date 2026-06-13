@@ -212,7 +212,7 @@ function PanelContent({ activeView, onViewChange, onClose }) {
         >
           <span className="flex items-center gap-2.5">
             <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-md bg-[#1C2B6B] text-white">
-              <SvgIcon name="upload" size={14} />
+              <SvgIcon name="download" size={14} />
             </span>
             Import
           </span>
@@ -298,11 +298,11 @@ function PanelContent({ activeView, onViewChange, onClose }) {
                 className="flex w-full items-center gap-3 rounded-xl border border-[#e3e7f2] bg-white px-4 py-3 text-left transition-all hover:bg-[#f8f9ff] active:scale-[0.98]"
               >
                 <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg bg-[#eef1fb] text-[#5b6aa8]">
-                  <SvgIcon name="download" size={14} />
+                  <SvgIcon name="upload" size={14} />
                 </span>
                 <div className="min-w-0 flex-1">
-                  <div className="text-sm font-semibold text-[#1C2B6B] leading-tight">{t('toolsTacticJson')}</div>
-                  <div className="text-[10px] text-[#8a93b0] mt-0.5">{t('toolsTacticJsonHint')}</div>
+                  <div className="text-sm font-semibold text-[#1C2B6B] leading-tight">{t('toolsExportTacticJson')}</div>
+                  <div className="text-[10px] text-[#8a93b0] mt-0.5">{t('toolsExportTacticJsonHint')}</div>
                 </div>
               </button>
             </div>
