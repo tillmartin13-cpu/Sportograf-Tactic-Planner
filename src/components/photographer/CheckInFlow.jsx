@@ -49,38 +49,52 @@ function AtomClockOverlay({ onClose }) {
 
   return createPortal(
     <div
-      className="fixed inset-0 z-[9999] flex flex-col items-center justify-center"
+      className="fixed inset-0 z-[9999] flex items-center justify-center"
       style={{ background: '#000' }}
       onClick={onClose}
     >
-      {/* Time — centered, medium size, lots of black border */}
-      <div className="flex flex-col items-center gap-4 select-none">
+      {/* Force landscape via CSS rotation on portrait screens */}
+      <style>{`
+        @media (orientation: portrait) {
+          .atom-clock-inner {
+            transform: rotate(90deg);
+            width: 100vh;
+          }
+        }
+        @media (orientation: landscape) {
+          .atom-clock-inner {
+            width: 100%;
+          }
+        }
+      `}</style>
+
+      <div className="atom-clock-inner flex flex-col items-center justify-center gap-3 select-none">
         <div
           className="font-mono font-black tabular-nums text-white leading-none"
-          style={{ fontSize: 'clamp(44px, 14vw, 72px)', letterSpacing: '0.04em' }}
+          style={{ fontSize: 'clamp(22px, 6vw, 38px)', letterSpacing: '0.04em' }}
         >
           {hh}:{mm}:{ss}
         </div>
 
         <div
           className="font-mono font-bold tabular-nums text-white/70"
-          style={{ fontSize: 'clamp(20px, 6vw, 32px)', letterSpacing: '0.08em' }}
+          style={{ fontSize: 'clamp(12px, 3vw, 20px)', letterSpacing: '0.08em' }}
         >
           {day}.{mon}.{year}
         </div>
 
         <div
           className="font-mono text-white/35"
-          style={{ fontSize: 'clamp(11px, 3vw, 16px)', letterSpacing: '0.12em' }}
+          style={{ fontSize: 'clamp(9px, 1.8vw, 13px)', letterSpacing: '0.12em' }}
         >
           {tz}
         </div>
 
-        <div className="flex items-center gap-1.5 mt-2">
+        <div className="flex items-center gap-1.5">
           {synced ? (
-            <><span className="h-1.5 w-1.5 rounded-full bg-green-400" /><span className="text-[11px] font-bold text-green-400">NTP sync · TimeAPI.io</span></>
+            <><span className="h-1.5 w-1.5 rounded-full bg-green-400" /><span className="text-[10px] font-bold text-green-400">NTP sync · TimeAPI.io</span></>
           ) : syncError ? (
-            <><span className="h-1.5 w-1.5 rounded-full bg-yellow-400" /><span className="text-[11px] font-bold text-yellow-400">Gerätezeit</span></>
+            <><span className="h-1.5 w-1.5 rounded-full bg-yellow-400" /><span className="text-[10px] font-bold text-yellow-400">Gerätezeit</span></>
           ) : (
             <><span className="h-1.5 w-1.5 animate-pulse rounded-full bg-white/30" /><span className="text-[11px] text-white/30">Synchronisiere…</span></>
           )}
