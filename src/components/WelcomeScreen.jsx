@@ -122,8 +122,8 @@ function ModulePicker({ onSelect, onSettings }) {
         <div className="pointer-events-none absolute inset-0 transition-opacity duration-300"
           style={{ background: 'radial-gradient(ellipse at 35% 50%, rgba(255,255,255,0.08) 0%, transparent 65%)', opacity: hovered === 'tl' ? 1 : 0 }} />
 
-        {/* Content centered in left half — shift left so it clears the center logo */}
-        <div className="relative flex w-full flex-col items-center gap-5 px-6" style={{ maxWidth: '44%' }}>
+        {/* Content — centered in left quarter of the screen */}
+        <div className="relative flex flex-col items-center gap-5" style={{ width: '38%', marginRight: '12%' }}>
           <div className="flex h-14 w-14 items-center justify-center rounded-2xl bg-white/10 backdrop-blur-sm">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" className="h-7 w-7">
               <path d="M9 5H7a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-2"/>
@@ -135,7 +135,7 @@ function ModulePicker({ onSelect, onSettings }) {
           <div className="text-center">
             <p className="text-[10px] font-bold uppercase tracking-[0.2em] text-white/45">Module</p>
             <h1 className="mt-1.5 text-3xl font-black leading-tight text-white sm:text-4xl lg:text-5xl">
-              Tactic<br />Planner
+              Team<br />Leader
             </h1>
           </div>
 
@@ -174,8 +174,8 @@ function ModulePicker({ onSelect, onSettings }) {
         <div className="pointer-events-none absolute inset-0 transition-opacity duration-300"
           style={{ background: 'radial-gradient(ellipse at 65% 50%, rgba(255,255,255,0.08) 0%, transparent 65%)', opacity: hovered === 'photo' ? 1 : 0 }} />
 
-        {/* Content centered in right half — shift right so it clears the center logo */}
-        <div className="relative flex w-full flex-col items-center gap-5 px-6" style={{ maxWidth: '44%', marginLeft: 'auto' }}>
+        {/* Content — centered in right quarter of the screen */}
+        <div className="relative flex flex-col items-center gap-5" style={{ width: '38%', marginLeft: '12%' }}>
           <div className="flex h-14 w-14 items-center justify-center rounded-2xl bg-white/10 backdrop-blur-sm">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" className="h-7 w-7">
               <path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"/>
@@ -186,7 +186,7 @@ function ModulePicker({ onSelect, onSettings }) {
           <div className="text-center">
             <p className="text-[10px] font-bold uppercase tracking-[0.2em] text-white/45">Module</p>
             <h1 className="mt-1.5 text-3xl font-black leading-tight text-white sm:text-4xl lg:text-5xl">
-              Photo&shy;grapher<br />App
+              Photo&shy;grapher
             </h1>
           </div>
 
@@ -206,15 +206,16 @@ function ModulePicker({ onSelect, onSettings }) {
         </div>
       </button>
 
-      {/* ── Mascot logo centered over the split ── */}
+      {/* ── Mascot centered over the split ── */}
       <div className="pointer-events-none absolute inset-0 z-20 flex items-center justify-center pb-10">
         <img
-          src="/sg-logo.svg"
+          src="/mascot.svg"
           alt=""
-          className="w-28 sm:w-36 lg:w-44 transition-transform duration-300"
+          className="transition-transform duration-300"
           style={{
-            filter: 'drop-shadow(0 4px 28px rgba(0,0,0,0.4))',
-            transform: hovered === 'tl' ? 'translateX(-6px) scale(1.04)' : hovered === 'photo' ? 'translateX(6px) scale(1.04)' : 'scale(1)',
+            width: 'clamp(120px, 14vw, 200px)',
+            filter: 'brightness(0) invert(1) drop-shadow(0 4px 28px rgba(0,0,0,0.35))',
+            transform: hovered === 'tl' ? 'translateX(-8px) scale(1.05)' : hovered === 'photo' ? 'translateX(8px) scale(1.05)' : 'scale(1)',
           }}
         />
       </div>
