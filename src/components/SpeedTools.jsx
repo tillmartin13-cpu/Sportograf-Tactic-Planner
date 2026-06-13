@@ -16,14 +16,12 @@ function formatDuration(seconds) {
 }
 
 const PRESETS = [
-  { label: '100 MB', gb: 0.1 },
-  { label: '500 MB', gb: 0.5 },
-  { label: '1 GB',   gb: 1 },
-  { label: '5 GB',   gb: 5 },
-  { label: '10 GB',  gb: 10 },
-  { label: '50 GB',  gb: 50 },
-  { label: '100 GB', gb: 100 },
-  { label: '1 TB',   gb: 1000 },
+  { label: '10 GB',   gb: 10 },
+  { label: '50 GB',   gb: 50 },
+  { label: '100 GB',  gb: 100 },
+  { label: '250 GB',  gb: 250 },
+  { label: '500 GB',  gb: 500 },
+  { label: '1000 GB', gb: 1000 },
 ];
 
 function UploadCalculator({ uploadMbps }) {
