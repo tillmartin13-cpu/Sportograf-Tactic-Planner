@@ -124,61 +124,97 @@ function UploadCalculator({ uploadMbps }) {
   );
 }
 
-// ─── Connection Speed Test tab ────────────────────────────────────────────────
+// ─── Upload Speed Test tab ────────────────────────────────────────────────────
 
 const STATUS = { idle: 'idle', running: 'running', done: 'done', error: 'error' };
 
-function gauge(val, max, color) {
-  const pct = Math.min((val || 0) / max, 1);
-  const r = 36;
+function uploadColor(mbps) {
+  if (mbps == null) return '#b0b8cf';
+  if (mbps < 20) return '#cc2b2b';
+  if (mbps < 40) return '#f59e0b';
+  return '#22c55e';
+}
+
+function uploadLabel(mbps) {
+  if (mbps == null) return null;
+  if (mbps < 20) return { text: 'Slow — uploads will take a long time', color: '#cc2b2b', bg: '#fff5f5', border: '#fecaca' };
+  if (mbps < 40) return { text: 'Moderate — usable but not ideal', color: '#92400e', bg: '#fffbeb', border: '#fde68a' };
+  return { text: 'Good — fast uploads', color: '#166534', bg: '#f0fdf4', border: '#bbf7d0' };
+}
+
+function UploadGauge({ mbps }) {
+  const color = uploadColor(mbps);
+  const r = 54;
   const circ = 2 * Math.PI * r;
+  const pct = Math.min((mbps || 0) / 200, 1);
   const dash = pct * circ;
+
   return (
-    <svg width="90" height="90" viewBox="0 0 90 90">
-      <circle cx="45" cy="45" r={r} fill="none" stroke="#e3e7f2" strokeWidth="7" />
-      <circle cx="45" cy="45" r={r} fill="none" stroke={color} strokeWidth="7"
-        strokeDasharray={`${dash} ${circ}`}
-        strokeDashoffset={circ * 0.25}
-        strokeLinecap="round"
-        style={{ transition: 'stroke-dasharray 0.4s ease' }}
-      />
-    </svg>
+    <div className="flex flex-col items-center">
+      <div className="relative">
+        <svg width="140" height="140" viewBox="0 0 140 140">
+          <circle cx="70" cy="70" r={r} fill="none" stroke="#e3e7f2" strokeWidth="10" />
+          <circle cx="70" cy="70" r={r} fill="none" stroke={color} strokeWidth="10"
+            strokeDasharray={`${dash} ${circ}`}
+            strokeDashoffset={circ * 0.25}
+            strokeLinecap="round"
+            style={{ transition: 'stroke-dasharray 0.5s ease, stroke 0.5s ease' }}
+          />
+        </svg>
+        <div className="absolute inset-0 flex flex-col items-center justify-center">
+          <span className="text-3xl font-black" style={{ color }}>
+            {mbps != null ? mbps.toFixed(1) : '—'}
+          </span>
+          <span className="text-[11px] font-bold text-[#8a93b0]">Mbit/s</span>
+        </div>
+      </div>
+    </div>
   );
 }
 
 function ConnectionTest({ onUploadResult }) {
   const [status, setStatus] = useState(STATUS.idle);
   const [results, setResults] = useState(null);
-  const [progress, setProgress] = useState({ download: null, upload: null, latency: null, jitter: null });
+  const [liveUpload, setLiveUpload] = useState(null);
+  const [latency, setLatency] = useState(null);
 
   const runTest = useCallback(async () => {
     setStatus(STATUS.running);
     setResults(null);
-    setProgress({ download: null, upload: null, latency: null, jitter: null });
+    setLiveUpload(null);
+    setLatency(null);
 
     try {
       const { default: SpeedTest } = await import('@cloudflare/speedtest');
-      const engine = new SpeedTest({ autoStart: false });
+      // Only run upload + latency measurements
+      const engine = new SpeedTest({
+        autoStart: false,
+        measurements: [
+          { type: 'latency', numPackets: 5 },
+          { type: 'upload', bytes: 1e5, count: 5, bypassMinDuration: true },
+          { type: 'upload', bytes: 1e6, count: 8 },
+          { type: 'upload', bytes: 1e7, count: 6 },
+        ],
+      });
 
       engine.onResultsChange = () => {
         const r = engine.results;
-        setProgress({
-          download: r.getDownloadBandwidth ? r.getDownloadBandwidth() / 1e6 : null,
-          upload: r.getUploadBandwidth ? r.getUploadBandwidth() / 1e6 : null,
-          latency: r.getUnloadedLatency ? r.getUnloadedLatency() : null,
-          jitter: r.getUnloadedLatencyJitter ? r.getUnloadedLatencyJitter() : null,
-        });
+        if (r.getUploadBandwidth) {
+          const ul = r.getUploadBandwidth() / 1e6;
+          if (ul > 0) setLiveUpload(ul);
+        }
+        if (r.getUnloadedLatency) {
+          const lat = r.getUnloadedLatency();
+          if (lat > 0) setLatency(lat);
+        }
       };
 
       engine.onFinish = (r) => {
-        const final = {
-          download: r.getDownloadBandwidth() / 1e6,
-          upload: r.getUploadBandwidth() / 1e6,
-          latency: r.getUnloadedLatency(),
-          jitter: r.getUnloadedLatencyJitter(),
-        };
-        setResults(final);
-        onUploadResult?.(final.upload);
+        const ul = r.getUploadBandwidth() / 1e6;
+        const lat = r.getUnloadedLatency?.() ?? null;
+        setResults({ upload: ul, latency: lat });
+        setLiveUpload(ul);
+        onUploadResult?.(ul);
         setStatus(STATUS.done);
       };
 
@@ -190,53 +226,33 @@ function ConnectionTest({ onUploadResult }) {
     }
   }, [onUploadResult]);
 
-  const display = results || progress;
-  const dl = display?.download;
-  const ul = display?.upload;
-  const lat = display?.latency;
-  const jit = display?.jitter;
+  const ul = results?.upload ?? liveUpload;
+  const lat = results?.latency ?? latency;
+  const badge = ul != null ? uploadLabel(ul) : null;
 
   return (
     <div className="space-y-5">
       <p className="text-xs leading-relaxed text-[#8a93b0]">
-        Measures your connection speed using Cloudflare's global network — the same engine as speed.cloudflare.com. After the test the measured upload speed is automatically used in the Upload Calculator.
+        Measures your <strong>upload speed</strong> via Cloudflare's global network. The result is automatically used in the Upload Calculator tab.
       </p>
 
+      {/* Gauge — shown while running or done */}
       {(status === STATUS.running || status === STATUS.done) && (
-        <div className="grid grid-cols-2 gap-3">
-          <div className="flex flex-col items-center rounded-2xl border border-[#e3e7f2] bg-white py-4">
-            <div className="relative">
-              {gauge(dl, 500, '#1C2B6B')}
-              <div className="absolute inset-0 flex items-center justify-center">
-                <span className="text-[11px] font-black text-[#1C2B6B]">{dl != null ? dl.toFixed(1) : '—'}</span>
-              </div>
+        <div className="flex flex-col items-center gap-3">
+          <UploadGauge mbps={ul} />
+
+          {badge && (
+            <div className="w-full rounded-xl border px-4 py-2.5 text-center text-xs font-semibold"
+              style={{ background: badge.bg, borderColor: badge.border, color: badge.color }}>
+              {badge.text}
             </div>
-            <div className="mt-1 text-[10px] font-bold uppercase tracking-widest text-[#8a93b0]">Download</div>
-            <div className="text-[9px] text-[#b0b8cf]">Mbit/s</div>
-          </div>
+          )}
 
-          <div className="flex flex-col items-center rounded-2xl border border-[#e3e7f2] bg-white py-4">
-            <div className="relative">
-              {gauge(ul, 500, '#cc2b2b')}
-              <div className="absolute inset-0 flex items-center justify-center">
-                <span className="text-[11px] font-black text-[#cc2b2b]">{ul != null ? ul.toFixed(1) : '—'}</span>
-              </div>
+          {lat != null && (
+            <div className="flex items-center gap-2 text-[11px] text-[#8a93b0]">
+              <span className="font-bold text-[#1C2B6B]">{Math.round(lat)} ms</span> latency
             </div>
-            <div className="mt-1 text-[10px] font-bold uppercase tracking-widest text-[#8a93b0]">Upload</div>
-            <div className="text-[9px] text-[#b0b8cf]">Mbit/s</div>
-          </div>
-
-          <div className="flex flex-col items-center rounded-2xl border border-[#e3e7f2] bg-white py-3">
-            <div className="text-2xl font-black text-[#1C2B6B]">{lat != null ? Math.round(lat) : '—'}</div>
-            <div className="text-[9px] text-[#b0b8cf]">ms</div>
-            <div className="mt-0.5 text-[10px] font-bold uppercase tracking-widest text-[#8a93b0]">Latency</div>
-          </div>
-
-          <div className="flex flex-col items-center rounded-2xl border border-[#e3e7f2] bg-white py-3">
-            <div className="text-2xl font-black text-[#1C2B6B]">{jit != null ? Math.round(jit) : '—'}</div>
-            <div className="text-[9px] text-[#b0b8cf]">ms</div>
-            <div className="mt-0.5 text-[10px] font-bold uppercase tracking-widest text-[#8a93b0]">Jitter</div>
-          </div>
+          )}
         </div>
       )}
 
@@ -257,10 +273,17 @@ function ConnectionTest({ onUploadResult }) {
             <svg className="animate-spin" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round">
               <path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83" />
             </svg>
-            Testing…
+            Measuring upload…
           </span>
-        ) : status === STATUS.done ? 'Run again' : 'Start test'}
+        ) : status === STATUS.done ? 'Test again' : 'Start upload test'}
       </button>
+
+      {/* Legend */}
+      <div className="flex justify-center gap-4 text-[10px] font-semibold">
+        <span className="flex items-center gap-1"><span className="h-2 w-2 rounded-full bg-[#cc2b2b]" /> &lt; 20 Mbit/s</span>
+        <span className="flex items-center gap-1"><span className="h-2 w-2 rounded-full bg-[#f59e0b]" /> 20–40</span>
+        <span className="flex items-center gap-1"><span className="h-2 w-2 rounded-full bg-[#22c55e]" /> &gt; 40</span>
+      </div>
 
       {status === STATUS.done && (
         <p className="text-center text-[10px] text-[#b0b8cf]">Powered by Cloudflare · speed.cloudflare.com</p>
@@ -289,8 +312,8 @@ export function SpeedToolsModal({ onClose }) {
               </svg>
             </div>
             <div>
-              <div className="text-sm font-extrabold text-white">Speed Tools</div>
-              <div className="text-[10px] text-white/50">Connection test · Upload calculator</div>
+              <div className="text-sm font-extrabold text-white">Upload Calculator</div>
+              <div className="text-[10px] text-white/50">Upload speed test · File upload times</div>
             </div>
           </div>
           <button type="button" onClick={onClose}
@@ -305,11 +328,11 @@ export function SpeedToolsModal({ onClose }) {
         <div className="flex border-b border-[#e3e7f2] bg-white px-4 pt-2">
           <button type="button" onClick={() => setTab('test')}
             className={`mr-1 rounded-t-lg px-4 py-2.5 text-xs font-bold transition-all ${tab === 'test' ? 'border-b-2 border-[#1C2B6B] text-[#1C2B6B]' : 'text-[#8a93b0] hover:text-[#5b6aa8]'}`}>
-            Connection Test
+            Speed Test
           </button>
           <button type="button" onClick={() => setTab('upload')}
             className={`rounded-t-lg px-4 py-2.5 text-xs font-bold transition-all ${tab === 'upload' ? 'border-b-2 border-[#1C2B6B] text-[#1C2B6B]' : 'text-[#8a93b0] hover:text-[#5b6aa8]'}`}>
-            Upload Calculator
+            File Duration
             {uploadMbps != null && <span className="ml-1.5 rounded-full bg-[#1C2B6B] px-1.5 py-0.5 text-[9px] font-bold text-white">✓</span>}
           </button>
         </div>

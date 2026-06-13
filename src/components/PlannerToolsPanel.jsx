@@ -348,8 +348,8 @@ function PanelContent({ activeView, onViewChange, onClose }) {
               <SvgIcon name="zap" size={14} />
             </span>
             <div className="min-w-0 flex-1">
-              <div className="text-sm font-semibold text-[#1C2B6B] leading-tight">Speed Tools</div>
-              <div className="text-[10px] text-[#8a93b0] mt-0.5">Pace calculator · Connection test</div>
+              <div className="text-sm font-semibold text-[#1C2B6B] leading-tight">Upload Calculator</div>
+              <div className="text-[10px] text-[#8a93b0] mt-0.5">Upload speed test · File upload times</div>
             </div>
           </button>
 
