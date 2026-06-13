@@ -338,8 +338,11 @@ export function WelcomeScreen() {
               <button
                 type="button"
                 onClick={() => csvRef.current?.click()}
-                className="flex flex-col items-start gap-2 rounded-2xl border border-gray-200 bg-white p-4 text-left shadow-sm transition-all hover:border-[#293377]/30 hover:shadow-md"
+                className="relative flex flex-col items-start gap-2 rounded-2xl border border-[#293377]/25 bg-white p-4 text-left shadow-sm transition-all hover:border-[#293377]/40 hover:shadow-md"
               >
+                <span className="absolute right-3 top-3 flex items-center gap-0.5 rounded-full bg-[#293377]/8 px-2 py-0.5 text-[9px] font-bold uppercase tracking-wide text-[#293377]/70">
+                  ★ Recommended
+                </span>
                 <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-[#eef1fb] text-[#293377]">
                   <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round">
                     <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/>
