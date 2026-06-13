@@ -387,7 +387,7 @@ export function WelcomeScreen({ tlUnlocked, onTLUnlock }) {
 
   if (showTLGate) {
     return (
-      <TLPasswordGate onUnlock={() => { onTLUnlock?.(); setShowTLGate(false); setActiveRole('tl'); }} />
+      <TLPasswordGate onUnlock={() => { onTLUnlock?.(); setShowTLGate(false); setActiveRole('tl'); }} onBack={() => setShowTLGate(false)} />
     );
   }
 

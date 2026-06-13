@@ -2,7 +2,7 @@ import { useState } from 'react';
 
 const TL_PASSWORD = 'TL365ONLY';
 
-export function TLPasswordGate({ onUnlock }) {
+export function TLPasswordGate({ onUnlock, onBack }) {
   const [value, setValue] = useState('');
   const [shake, setShake] = useState(false);
   const [showPw, setShowPw] = useState(false);
@@ -81,6 +81,16 @@ export function TLPasswordGate({ onUnlock }) {
           >
             Unlock →
           </button>
+
+          {onBack && (
+            <button
+              type="button"
+              onClick={onBack}
+              className="mt-6 w-full py-2 text-sm font-semibold text-white/40 hover:text-white/70 transition-colors"
+            >
+              ← Back
+            </button>
+          )}
         </form>
       </div>
     </div>
