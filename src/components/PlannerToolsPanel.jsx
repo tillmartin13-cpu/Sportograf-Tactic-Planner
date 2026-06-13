@@ -375,7 +375,7 @@ export function PlannerToolsPanel({ activeView, onViewChange, mobileOpen, onMobi
       </aside>
 
       {mobileOpen && (
-        <div className="fixed inset-0 z-[800] lg:hidden">
+        <div className="fixed inset-0 z-[2000] lg:hidden">
           <div className="absolute inset-0 bg-black/40" onClick={onMobileClose} />
           <aside className="absolute left-0 top-0 h-full w-72 bg-[#fafbff] shadow-2xl flex flex-col">
             <div className="flex items-center justify-between border-b border-[var(--sg-border)] bg-white px-4 py-3">

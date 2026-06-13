@@ -412,7 +412,7 @@ export function CheckInFlow({ tacticId, cameraString, eventDate, photographerCod
                     {t('camSettingImageSize')} <strong>{mainSize.trim()}</strong>
                     {cropInfo && <span className="text-gray-400 font-normal"> · {cropInfo}</span>}
                   </div>
-                  <div className="text-gray-600">{t('camSettingJpeg')} <strong>{s.jpeg}</strong></div>
+                  <div className="text-gray-600">{t('camSettingJpeg')} <strong>{s.jpeg}</strong> <span className="text-red-500 font-semibold text-xs">— {t('camSettingJpegNoFine')}</span></div>
                   <div className="text-gray-600">{t('camSettingShutter')} <strong>1/1000s</strong></div>
                   <div className="text-gray-600">{t('camSettingAF')} <strong>{t('camSettingContinuousAF')}</strong></div>
                   <div className="text-gray-600">{t('camSettingWB')} <strong>{t('camSettingAWB')}</strong> <span className="text-gray-400 font-normal">({t('camSettingAuto')})</span></div>
@@ -458,7 +458,17 @@ export function CheckInFlow({ tacticId, cameraString, eventDate, photographerCod
       {/* Step 4: Memory card */}
       <div className="rounded-2xl border border-gray-200 bg-white p-4">
         <StepHeader number="4" title={t('checkInFlowStep3')} done={cardDone} />
-        <p className="text-sm text-gray-500 mb-3">{t('checkInFlowCardHint')}</p>
+        <div className="mb-3 flex items-center justify-between gap-3">
+          <p className="text-sm text-gray-500">{t('checkInFlowCardHint')}</p>
+          <a
+            href="https://sportografacademy2.super.site/essentials/essential-photographer-know-how#block-262b1e81867780269287c5941c1fc954"
+            target="_blank"
+            rel="noreferrer"
+            className="shrink-0 rounded-lg border border-[#1C2B6B]/20 bg-[#f0f2fa] px-2.5 py-1.5 text-[11px] font-bold text-[#1C2B6B] hover:bg-[#e5e9f5] whitespace-nowrap"
+          >
+            {t('checkInFlowCardGuide')}
+          </a>
+        </div>
         <div className="space-y-2">
           <label className="flex items-center gap-3 cursor-pointer">
             <input

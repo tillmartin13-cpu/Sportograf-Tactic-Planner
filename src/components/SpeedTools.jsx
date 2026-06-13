@@ -1,5 +1,6 @@
 import { useState, useRef, useCallback } from 'react';
 import { createPortal } from 'react-dom';
+import { useTranslation } from '../i18n/useTranslation';
 
 // ─── Upload calculator ────────────────────────────────────────────────────────
 
@@ -25,6 +26,7 @@ const PRESETS = [
 ];
 
 function UploadCalculator({ uploadMbps }) {
+  const { t } = useTranslation();
   const [gb, setGb] = useState('');
   const [custom, setCustom] = useState('');
   const [unit, setUnit] = useState('GB');
@@ -44,17 +46,17 @@ function UploadCalculator({ uploadMbps }) {
   return (
     <div className="space-y-5">
       <p className="text-xs leading-relaxed text-[#8a93b0]">
-        Calculate how long it takes to upload a given amount of data based on your connection speed.
+        {t('speedToolsDesc')}
       </p>
 
       {/* Upload speed source */}
       <div>
-        <div className="mb-2 text-[10px] font-bold uppercase tracking-widest text-[#8a93b0]">Upload speed (Mbit/s)</div>
+        <div className="mb-2 text-[10px] font-bold uppercase tracking-widest text-[#8a93b0]">{t('speedToolsSpeedLabel')}</div>
         {uploadMbps != null ? (
           <div className="flex items-center gap-2 rounded-xl bg-[#f0f2fa] px-4 py-3">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#22c55e" strokeWidth="2.5" strokeLinecap="round"><path d="M20 6L9 17l-5-5"/></svg>
             <span className="text-sm font-extrabold text-[#1C2B6B]">{uploadMbps.toFixed(1)} Mbit/s</span>
-            <span className="text-[10px] text-[#8a93b0]">from connection test</span>
+            <span className="text-[10px] text-[#8a93b0]">{t('speedToolsFromTest')}</span>
           </div>
         ) : (
           <div className="flex gap-2">
@@ -71,7 +73,7 @@ function UploadCalculator({ uploadMbps }) {
 
       {/* File size */}
       <div>
-        <div className="mb-2 text-[10px] font-bold uppercase tracking-widest text-[#8a93b0]">File / data size</div>
+        <div className="mb-2 text-[10px] font-bold uppercase tracking-widest text-[#8a93b0]">{t('speedToolsFileSizeLabel')}</div>
         <div className="flex gap-2 mb-2">
           {['GB', 'TB'].map((u) => (
             <button key={u} type="button" onClick={() => setUnit(u)}
@@ -91,7 +93,7 @@ function UploadCalculator({ uploadMbps }) {
       {/* Result */}
       {duration != null && (
         <div className="rounded-2xl bg-[#1C2B6B] px-5 py-4 text-center">
-          <div className="text-[10px] font-bold uppercase tracking-widest text-white/50 mb-1">Upload time</div>
+          <div className="text-[10px] font-bold uppercase tracking-widest text-white/50 mb-1">{t('speedToolsUploadTime')}</div>
           <div className="text-4xl font-black text-white">{formatDuration(duration)}</div>
           <div className="mt-1.5 text-[11px] text-white/40">
             {sizeInGb} GB @ {speedMbps.toFixed(1)} Mbit/s
@@ -102,7 +104,7 @@ function UploadCalculator({ uploadMbps }) {
       {/* Preset grid */}
       {speedMbps && (
         <div>
-          <div className="mb-2 text-[10px] font-bold uppercase tracking-widest text-[#8a93b0]">Quick reference</div>
+          <div className="mb-2 text-[10px] font-bold uppercase tracking-widest text-[#8a93b0]">{t('speedToolsQuickRef')}</div>
           <div className="grid grid-cols-2 gap-1.5">
             {PRESETS.map(({ label, gb: g }) => (
               <button
@@ -133,11 +135,11 @@ function uploadColor(mbps) {
   return '#22c55e';
 }
 
-function uploadLabel(mbps) {
+function uploadLabel(mbps, t) {
   if (mbps == null) return null;
-  if (mbps < 20) return { text: 'Slow — uploads will take a long time', color: '#cc2b2b', bg: '#fff5f5', border: '#fecaca' };
-  if (mbps < 40) return { text: 'Moderate — usable but not ideal', color: '#92400e', bg: '#fffbeb', border: '#fde68a' };
-  return { text: 'Good — fast uploads', color: '#166534', bg: '#f0fdf4', border: '#bbf7d0' };
+  if (mbps < 20) return { text: t('speedToolsSlowLabel'), color: '#cc2b2b', bg: '#fff5f5', border: '#fecaca' };
+  if (mbps < 40) return { text: t('speedToolsModerateLabel'), color: '#92400e', bg: '#fffbeb', border: '#fde68a' };
+  return { text: t('speedToolsGoodLabel'), color: '#166534', bg: '#f0fdf4', border: '#bbf7d0' };
 }
 
 function UploadGauge({ mbps }) {
@@ -170,10 +172,8 @@ function UploadGauge({ mbps }) {
   );
 }
 
-// 4 phases: latency (0→25%), small upload (25→50%), medium (50→75%), large (75→100%)
-const PHASES = ['Checking latency…', 'Warming up…', 'Measuring upload…', 'Final measurement…'];
-
 function ConnectionTest({ onUploadResult }) {
+  const { t } = useTranslation();
   const [status, setStatus] = useState(STATUS.idle);
   const [results, setResults] = useState(null);
   const [liveUpload, setLiveUpload] = useState(null);
@@ -253,19 +253,19 @@ function ConnectionTest({ onUploadResult }) {
 
   const ul = results?.upload ?? liveUpload;
   const lat = results?.latency ?? latency;
-  const badge = ul != null ? uploadLabel(ul) : null;
+  const badge = ul != null ? uploadLabel(ul, t) : null;
   const color = uploadColor(ul);
 
   return (
     <div className="space-y-5">
       <p className="text-xs leading-relaxed text-[#8a93b0]">
-        Measures your <strong>upload speed</strong> via Cloudflare's global network. The result is automatically used in the Upload Calculator tab.
+        {t('speedToolsDesc')}
       </p>
 
       <div className="flex gap-2.5 rounded-xl border border-[#e3e7f2] bg-[#f8f9ff] px-3.5 py-3">
         <span className="mt-px shrink-0 text-base leading-none">💡</span>
         <p className="text-[11px] leading-relaxed text-[#5b6aa8]">
-          Nutze für den Upload immer die <strong>schnellstmögliche Verbindung</strong>. Kabelgebunden vor WLAN. Bei mehreren verfügbaren Verbindungen teste, welche die schnellste ist.
+          {t('speedToolsTip')}
         </p>
       </div>
 
@@ -279,7 +279,7 @@ function ConnectionTest({ onUploadResult }) {
           {/* Progress bar */}
           <div>
             <div className="mb-1.5 flex items-center justify-between">
-              <span className="text-[10px] font-semibold text-[#8a93b0]">{PHASES[phaseIdx]}</span>
+              <span className="text-[10px] font-semibold text-[#8a93b0]">{t(`speedToolsPhase${phaseIdx}`)}</span>
               <span className="text-[10px] font-bold text-[#1C2B6B]">{Math.round(progress)}%</span>
             </div>
             <div className="h-2 w-full overflow-hidden rounded-full bg-[#f0f2fa]">
@@ -305,14 +305,14 @@ function ConnectionTest({ onUploadResult }) {
             )}
             {lat != null && (
               <div className="flex items-center gap-2 text-[11px] text-[#8a93b0]">
-                <span className="font-bold text-[#1C2B6B]">{Math.round(lat)} ms</span> latency
+                <span className="font-bold text-[#1C2B6B]">{Math.round(lat)} ms</span> {t('speedToolsLatency')}
               </div>
             )}
           </div>
           {/* Completion bar — full green */}
           <div>
             <div className="mb-1.5 flex items-center justify-between">
-              <span className="text-[10px] font-semibold text-[#22c55e]">Test complete</span>
+              <span className="text-[10px] font-semibold text-[#22c55e]">{t('speedToolsTestComplete')}</span>
               <span className="text-[10px] font-bold text-[#22c55e]">100%</span>
             </div>
             <div className="h-2 w-full overflow-hidden rounded-full bg-[#f0fdf4]">
@@ -324,7 +324,7 @@ function ConnectionTest({ onUploadResult }) {
 
       {status === STATUS.error && (
         <div className="rounded-xl bg-red-50 border border-red-200 px-4 py-3 text-sm text-red-700">
-          Test failed. Check your internet connection and try again.
+          {t('speedToolsTestFailed')}
         </div>
       )}
 
@@ -339,9 +339,9 @@ function ConnectionTest({ onUploadResult }) {
             <svg className="animate-spin" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round">
               <path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83" />
             </svg>
-            Measuring upload…
+            {t('speedToolsMeasuring')}
           </span>
-        ) : status === STATUS.done ? 'Test again' : 'Start upload test'}
+        ) : status === STATUS.done ? t('speedToolsTestAgain') : t('speedToolsStartTest')}
       </button>
 
       {/* Legend */}
@@ -352,7 +352,7 @@ function ConnectionTest({ onUploadResult }) {
       </div>
 
       {status === STATUS.done && (
-        <p className="text-center text-[10px] text-[#b0b8cf]">Powered by Cloudflare · speed.cloudflare.com</p>
+        <p className="text-center text-[10px] text-[#b0b8cf]">{t('speedToolsPoweredBy')}</p>
       )}
     </div>
   );
@@ -361,6 +361,7 @@ function ConnectionTest({ onUploadResult }) {
 // ─── Modal ────────────────────────────────────────────────────────────────────
 
 export function SpeedToolsModal({ onClose }) {
+  const { t } = useTranslation();
   const [tab, setTab] = useState('test');
   const [uploadMbps, setUploadMbps] = useState(null);
 
@@ -378,8 +379,8 @@ export function SpeedToolsModal({ onClose }) {
               </svg>
             </div>
             <div>
-              <div className="text-sm font-extrabold text-white">Upload Calculator</div>
-              <div className="text-[10px] text-white/50">Upload speed test · File upload times</div>
+              <div className="text-sm font-extrabold text-white">{t('speedToolsTitle')}</div>
+              <div className="text-[10px] text-white/50">{t('speedToolsSubtitle')}</div>
             </div>
           </div>
           <button type="button" onClick={onClose}
@@ -394,11 +395,11 @@ export function SpeedToolsModal({ onClose }) {
         <div className="flex border-b border-[#e3e7f2] bg-white px-4 pt-2">
           <button type="button" onClick={() => setTab('test')}
             className={`mr-1 rounded-t-lg px-4 py-2.5 text-xs font-bold transition-all ${tab === 'test' ? 'border-b-2 border-[#1C2B6B] text-[#1C2B6B]' : 'text-[#8a93b0] hover:text-[#5b6aa8]'}`}>
-            Speed Test
+            {t('speedTestTab')}
           </button>
           <button type="button" onClick={() => setTab('upload')}
             className={`rounded-t-lg px-4 py-2.5 text-xs font-bold transition-all ${tab === 'upload' ? 'border-b-2 border-[#1C2B6B] text-[#1C2B6B]' : 'text-[#8a93b0] hover:text-[#5b6aa8]'}`}>
-            File Duration
+            {t('fileDurationTab')}
             {uploadMbps != null && <span className="ml-1.5 rounded-full bg-[#1C2B6B] px-1.5 py-0.5 text-[9px] font-bold text-white">✓</span>}
           </button>
         </div>
