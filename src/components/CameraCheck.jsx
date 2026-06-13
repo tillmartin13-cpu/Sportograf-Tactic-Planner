@@ -46,20 +46,14 @@ function CropTool({ src, onConfirm, onCancel }) {
     img.src = src;
   }, [src]);
 
-  // Attach global pointermove/pointerup via useEffect so we can use { passive: false }
   useEffect(() => {
-    function getWrapperBounds() {
-      return wrapperRef.current?.getBoundingClientRect() ?? null;
-    }
     function clamp(v, lo, hi) { return Math.max(lo, Math.min(hi, v)); }
-
-    function onMove(e) {
+    function handleMove(clientX, clientY) {
       if (!dragRef.current) return;
-      e.preventDefault();
-      const b = getWrapperBounds();
+      const b = wrapperRef.current?.getBoundingClientRect();
       if (!b) return;
-      const px = (e.clientX - b.left) / b.width;
-      const py = (e.clientY - b.top) / b.height;
+      const px = (clientX - b.left) / b.width;
+      const py = (clientY - b.top) / b.height;
       const { type, sx, sy, sr: r } = dragRef.current;
       const dx = px - sx, dy = py - sy;
       const MIN = 0.06;
@@ -83,13 +77,24 @@ function CropTool({ src, onConfirm, onCancel }) {
       }
       setRect({ x, y, w, h });
     }
+
+    function onTouchMove(e) {
+      if (!dragRef.current) return;
+      e.preventDefault();
+      handleMove(e.touches[0].clientX, e.touches[0].clientY);
+    }
+    function onMouseMove(e) { handleMove(e.clientX, e.clientY); }
     function onUp() { dragRef.current = null; }
 
-    window.addEventListener('pointermove', onMove, { passive: false });
-    window.addEventListener('pointerup', onUp);
+    window.addEventListener('touchmove', onTouchMove, { passive: false });
+    window.addEventListener('touchend', onUp);
+    window.addEventListener('mousemove', onMouseMove);
+    window.addEventListener('mouseup', onUp);
     return () => {
-      window.removeEventListener('pointermove', onMove);
-      window.removeEventListener('pointerup', onUp);
+      window.removeEventListener('touchmove', onTouchMove);
+      window.removeEventListener('touchend', onUp);
+      window.removeEventListener('mousemove', onMouseMove);
+      window.removeEventListener('mouseup', onUp);
     };
   }, []);
 
@@ -98,10 +103,12 @@ function CropTool({ src, onConfirm, onCancel }) {
     e.stopPropagation();
     const b = wrapperRef.current?.getBoundingClientRect();
     if (!b) return;
+    const clientX = e.touches ? e.touches[0].clientX : e.clientX;
+    const clientY = e.touches ? e.touches[0].clientY : e.clientY;
     dragRef.current = {
       type,
-      sx: (e.clientX - b.left) / b.width,
-      sy: (e.clientY - b.top) / b.height,
+      sx: (clientX - b.left) / b.width,
+      sy: (clientY - b.top) / b.height,
       sr: { ...rect },
     };
   }
@@ -143,6 +150,7 @@ function CropTool({ src, onConfirm, onCancel }) {
               aspectRatio: `${imgSize.w} / ${imgSize.h}`,
               maxWidth: '100%',
               maxHeight: '100%',
+              touchAction: 'none',
             }}
           >
             <img
@@ -165,7 +173,8 @@ function CropTool({ src, onConfirm, onCancel }) {
             <div
               className="absolute border-2 border-white cursor-move touch-none"
               style={{ left: `${rect.x * 100}%`, top: `${rect.y * 100}%`, width: `${rect.w * 100}%`, height: `${rect.h * 100}%` }}
-              onPointerDown={(e) => startDrag('move', e)}
+              onMouseDown={(e) => startDrag('move', e)}
+              onTouchStart={(e) => startDrag('move', e)}
             >
               {/* Rule-of-thirds grid */}
               <div className="absolute inset-0 pointer-events-none" style={{
@@ -175,10 +184,10 @@ function CropTool({ src, onConfirm, onCancel }) {
             </div>
 
             {/* Corner handles */}
-            <div className={H} style={{ left: `calc(${rect.x * 100}% - 16px)`, top: `calc(${rect.y * 100}% - 16px)` }} onPointerDown={(e) => startDrag('tl', e)} />
-            <div className={H} style={{ left: `calc(${(rect.x + rect.w) * 100}% - 16px)`, top: `calc(${rect.y * 100}% - 16px)` }} onPointerDown={(e) => startDrag('tr', e)} />
-            <div className={H} style={{ left: `calc(${rect.x * 100}% - 16px)`, top: `calc(${(rect.y + rect.h) * 100}% - 16px)` }} onPointerDown={(e) => startDrag('bl', e)} />
-            <div className={H} style={{ left: `calc(${(rect.x + rect.w) * 100}% - 16px)`, top: `calc(${(rect.y + rect.h) * 100}% - 16px)` }} onPointerDown={(e) => startDrag('br', e)} />
+            <div className={H} style={{ left: `calc(${rect.x * 100}% - 16px)`, top: `calc(${rect.y * 100}% - 16px)` }} onMouseDown={(e) => startDrag('tl', e)} onTouchStart={(e) => startDrag('tl', e)} />
+            <div className={H} style={{ left: `calc(${(rect.x + rect.w) * 100}% - 16px)`, top: `calc(${rect.y * 100}% - 16px)` }} onMouseDown={(e) => startDrag('tr', e)} onTouchStart={(e) => startDrag('tr', e)} />
+            <div className={H} style={{ left: `calc(${rect.x * 100}% - 16px)`, top: `calc(${(rect.y + rect.h) * 100}% - 16px)` }} onMouseDown={(e) => startDrag('bl', e)} onTouchStart={(e) => startDrag('bl', e)} />
+            <div className={H} style={{ left: `calc(${(rect.x + rect.w) * 100}% - 16px)`, top: `calc(${(rect.y + rect.h) * 100}% - 16px)` }} onMouseDown={(e) => startDrag('br', e)} onTouchStart={(e) => startDrag('br', e)} />
           </div>
         )}
       </div>
