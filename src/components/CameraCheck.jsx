@@ -29,6 +29,167 @@ function CheckRow({ label, check }) {
   );
 }
 
+// ─── Crop Tool ────────────────────────────────────────────────────────────────
+
+function CropTool({ src, onConfirm, onCancel }) {
+  const containerRef = useRef(null);
+  const imgRef = useRef(null);
+  // crop rect in % of displayed image bounds: { x, y, w, h } all 0–100
+  const [rect, setRect] = useState({ x: 10, y: 20, w: 80, h: 60 });
+  const dragRef = useRef(null); // { type: 'move'|'tl'|'tr'|'bl'|'br', startX, startY, startRect }
+
+  function getPointer(e) {
+    const t = e.touches?.[0] ?? e;
+    return { x: t.clientX, y: t.clientY };
+  }
+
+  function clamp(v, lo, hi) { return Math.max(lo, Math.min(hi, v)); }
+
+  function onPointerDown(type, e) {
+    e.preventDefault();
+    e.stopPropagation();
+    const { x, y } = getPointer(e);
+    dragRef.current = { type, startX: x, startY: y, startRect: { ...rect } };
+  }
+
+  function onMove(e) {
+    if (!dragRef.current || !containerRef.current) return;
+    const { type, startX, startY, startRect: r } = dragRef.current;
+    const { x: cx, y: cy } = getPointer(e);
+    const el = containerRef.current;
+    const dx = ((cx - startX) / el.offsetWidth) * 100;
+    const dy = ((cy - startY) / el.offsetHeight) * 100;
+    const MIN = 8;
+
+    let nx = r.x, ny = r.y, nw = r.w, nh = r.h;
+    if (type === 'move') {
+      nx = clamp(r.x + dx, 0, 100 - r.w);
+      ny = clamp(r.y + dy, 0, 100 - r.h);
+    } else if (type === 'tl') {
+      const ex = clamp(r.x + dx, 0, r.x + r.w - MIN);
+      const ey = clamp(r.y + dy, 0, r.y + r.h - MIN);
+      nw = r.w + (r.x - ex); nh = r.h + (r.y - ey); nx = ex; ny = ey;
+    } else if (type === 'tr') {
+      const ey = clamp(r.y + dy, 0, r.y + r.h - MIN);
+      nw = clamp(r.w + dx, MIN, 100 - r.x); nh = r.h + (r.y - ey); ny = ey;
+    } else if (type === 'bl') {
+      const ex = clamp(r.x + dx, 0, r.x + r.w - MIN);
+      nw = r.w + (r.x - ex); nh = clamp(r.h + dy, MIN, 100 - r.y); nx = ex;
+    } else if (type === 'br') {
+      nw = clamp(r.w + dx, MIN, 100 - r.x);
+      nh = clamp(r.h + dy, MIN, 100 - r.y);
+    }
+    setRect({ x: nx, y: ny, w: nw, h: nh });
+  }
+
+  function onUp() { dragRef.current = null; }
+
+  function handleConfirm() {
+    const img = imgRef.current;
+    const container = containerRef.current;
+    if (!img || !container) return;
+    const naturalW = img.naturalWidth;
+    const naturalH = img.naturalHeight;
+    // Image is object-contain inside container — measure actual rendered bounds
+    const iRect = img.getBoundingClientRect();
+    const cRect = container.getBoundingClientRect();
+    // rect % is relative to container; convert to % of the actual image area
+    const imgOffX = iRect.left - cRect.left;
+    const imgOffY = iRect.top - cRect.top;
+    const imgDispW = iRect.width;
+    const imgDispH = iRect.height;
+    const absX = (rect.x / 100) * cRect.width - imgOffX;
+    const absY = (rect.y / 100) * cRect.height - imgOffY;
+    const absW = (rect.w / 100) * cRect.width;
+    const absH = (rect.h / 100) * cRect.height;
+    const scaleW = naturalW / imgDispW;
+    const scaleH = naturalH / imgDispH;
+    const px = Math.round(Math.max(0, absX) * scaleW);
+    const py = Math.round(Math.max(0, absY) * scaleH);
+    const pw = Math.round(Math.min(absW, imgDispW - Math.max(0, absX)) * scaleW);
+    const ph = Math.round(Math.min(absH, imgDispH - Math.max(0, absY)) * scaleH);
+    const canvas = document.createElement('canvas');
+    canvas.width = pw; canvas.height = ph;
+    const ctx = canvas.getContext('2d');
+    ctx.drawImage(img, px, py, pw, ph, 0, 0, pw, ph);
+    onConfirm(canvas.toDataURL('image/jpeg', 0.92));
+  }
+
+  const handleStyle = 'absolute w-7 h-7 rounded-full bg-white border-2 border-[#1C2B6B] shadow-lg touch-none cursor-pointer';
+
+  return createPortal(
+    <div
+      className="fixed inset-0 z-[9998] flex flex-col"
+      style={{ background: '#000' }}
+      onMouseMove={onMove} onTouchMove={onMove}
+      onMouseUp={onUp} onTouchEnd={onUp}
+    >
+      {/* Header */}
+      <div className="flex items-center justify-between px-4 py-3 shrink-0">
+        <button onClick={onCancel} className="text-sm font-semibold text-white/60 hover:text-white">Abbrechen</button>
+        <span className="text-sm font-bold text-white">Zuschneiden</span>
+        <button onClick={handleConfirm} className="rounded-xl bg-[#1C2B6B] px-4 py-1.5 text-sm font-bold text-white">Fertig</button>
+      </div>
+
+      {/* Image + crop overlay */}
+      <div
+        ref={containerRef}
+        className="relative flex-1 overflow-hidden flex items-center justify-center"
+      >
+        <img
+          ref={imgRef}
+          src={src}
+          alt="crop"
+          className="max-w-full max-h-full object-contain select-none"
+          draggable={false}
+        />
+
+        {/* Dark overlay — 4 quadrants around the crop rect */}
+        <div className="absolute inset-0 pointer-events-none" style={{
+          background: `linear-gradient(transparent, transparent)`,
+          boxShadow: 'none',
+        }}>
+          {/* top */}
+          <div className="absolute bg-black/55" style={{ top: 0, left: 0, right: 0, height: `${rect.y}%` }} />
+          {/* bottom */}
+          <div className="absolute bg-black/55" style={{ bottom: 0, left: 0, right: 0, top: `${rect.y + rect.h}%` }} />
+          {/* left */}
+          <div className="absolute bg-black/55" style={{ top: `${rect.y}%`, left: 0, width: `${rect.x}%`, height: `${rect.h}%` }} />
+          {/* right */}
+          <div className="absolute bg-black/55" style={{ top: `${rect.y}%`, left: `${rect.x + rect.w}%`, right: 0, height: `${rect.h}%` }} />
+        </div>
+
+        {/* Crop rect border + drag */}
+        <div
+          className="absolute border-2 border-white/80 touch-none cursor-move"
+          style={{ left: `${rect.x}%`, top: `${rect.y}%`, width: `${rect.w}%`, height: `${rect.h}%` }}
+          onMouseDown={(e) => onPointerDown('move', e)}
+          onTouchStart={(e) => onPointerDown('move', e)}
+        >
+          {/* Grid lines */}
+          <div className="absolute inset-0 pointer-events-none" style={{
+            backgroundImage: 'linear-gradient(rgba(255,255,255,0.15) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,0.15) 1px,transparent 1px)',
+            backgroundSize: '33.33% 33.33%',
+          }} />
+        </div>
+
+        {/* Corner handles */}
+        <div className={handleStyle} style={{ left: `calc(${rect.x}% - 14px)`, top: `calc(${rect.y}% - 14px)` }}
+          onMouseDown={(e) => onPointerDown('tl', e)} onTouchStart={(e) => onPointerDown('tl', e)} />
+        <div className={handleStyle} style={{ left: `calc(${rect.x + rect.w}% - 14px)`, top: `calc(${rect.y}% - 14px)` }}
+          onMouseDown={(e) => onPointerDown('tr', e)} onTouchStart={(e) => onPointerDown('tr', e)} />
+        <div className={handleStyle} style={{ left: `calc(${rect.x}% - 14px)`, top: `calc(${rect.y + rect.h}% - 14px)` }}
+          onMouseDown={(e) => onPointerDown('bl', e)} onTouchStart={(e) => onPointerDown('bl', e)} />
+        <div className={handleStyle} style={{ left: `calc(${rect.x + rect.w}% - 14px)`, top: `calc(${rect.y + rect.h}% - 14px)` }}
+          onMouseDown={(e) => onPointerDown('br', e)} onTouchStart={(e) => onPointerDown('br', e)} />
+      </div>
+
+      <div className="py-3 text-center text-[11px] text-white/30 shrink-0">Rahmen verschieben und Ecken ziehen</div>
+    </div>,
+    document.body
+  );
+}
+
 /** Compress image to max 1200px / ~500KB before sending to API */
 function compressForApi(dataUrl) {
   return new Promise((resolve) => {
@@ -180,6 +341,7 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
   const forced = result?.status === 'forced';
 
   const [showForceDialog, setShowForceDialog] = useState(false);
+  const [showCrop, setShowCrop] = useState(false);
 
   function handleForceConfirm() {
     const forcedResult = { ...result, status: 'forced', imageDataUrl: preview ?? result?.imageDataUrl };
@@ -212,6 +374,19 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
         </div>
       )}
 
+      {/* Crop tool */}
+      {showCrop && preview && (
+        <CropTool
+          src={preview}
+          onConfirm={(cropped) => {
+            setPreview(cropped);
+            setImageData(cropped);
+            setShowCrop(false);
+          }}
+          onCancel={() => setShowCrop(false)}
+        />
+      )}
+
       {/* Preview */}
       {preview && !result && (
         <div className="space-y-3">
@@ -228,14 +403,24 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
               )}
             </div>
           ) : (
-            <div className="flex gap-2">
-              <button onClick={handleReset}
-                className="flex-1 rounded-2xl border border-gray-200 py-3 text-sm font-semibold text-gray-600 hover:bg-gray-50 active:scale-95 transition-transform">
-                {tr('cameraCheckChangePhoto')}
-              </button>
-              <button onClick={handleSubmit}
-                className="flex-[2] rounded-2xl bg-[#1C2B6B] py-3 text-sm font-bold text-white hover:bg-[#16225a] active:scale-95 transition-transform">
-                {tr('cameraCheckVerify')}
+            <div className="flex flex-col gap-2">
+              <div className="flex gap-2">
+                <button onClick={handleReset}
+                  className="flex-1 rounded-2xl border border-gray-200 py-3 text-sm font-semibold text-gray-600 hover:bg-gray-50 active:scale-95 transition-transform">
+                  {tr('cameraCheckChangePhoto')}
+                </button>
+                <button onClick={handleSubmit}
+                  className="flex-[2] rounded-2xl bg-[#1C2B6B] py-3 text-sm font-bold text-white hover:bg-[#16225a] active:scale-95 transition-transform">
+                  {tr('cameraCheckVerify')}
+                </button>
+              </div>
+              <button onClick={() => setShowCrop(true)}
+                className="flex items-center justify-center gap-2 rounded-2xl border border-gray-200 py-2.5 text-sm font-semibold text-gray-500 hover:bg-gray-50 active:scale-95 transition-transform">
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <polyline points="6 2 6 6 2 6"/><polyline points="18 22 18 18 22 18"/>
+                  <rect x="6" y="6" width="12" height="12" rx="1"/>
+                </svg>
+                Display-Bereich zuschneiden
               </button>
             </div>
           )}
