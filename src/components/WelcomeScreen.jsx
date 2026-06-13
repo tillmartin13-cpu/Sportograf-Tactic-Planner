@@ -184,9 +184,9 @@ function ModulePicker({ onSelect, onSettings }) {
     );
     return (
       <div className="relative flex h-[100dvh] w-full flex-col overflow-hidden select-none" style={{ background: '#0f1535' }}>
-        {/* subtle grid texture */}
-        <div className="pointer-events-none absolute inset-0 opacity-[0.03]"
-          style={{ backgroundImage: 'linear-gradient(rgba(255,255,255,0.5) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.5) 1px, transparent 1px)', backgroundSize: '32px 32px' }} />
+        {/* topographic background image */}
+        <div className="pointer-events-none absolute inset-0"
+          style={{ backgroundImage: 'url(/bg-mobile.png)', backgroundSize: 'cover', backgroundPosition: 'center', opacity: 0.35 }} />
 
         {/* settings */}
         <button type="button" onClick={onSettings}
