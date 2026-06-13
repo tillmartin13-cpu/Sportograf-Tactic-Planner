@@ -3,15 +3,12 @@ import { usePlannerStore } from '../store/usePlannerStore';
 import { useCurrentEvent } from '../hooks/useCurrentEvent';
 import { useTranslation } from '../i18n/useTranslation';
 import { EVENT_CODE_LENGTH, normalizeEventCode } from '../lib/eventCode';
-import { normalizeEventId } from '../lib/id';
 
 export function PlannerEntryModal() {
   const open = usePlannerStore((s) => s.showPlannerEntryModal);
   const closePlannerEntryModal = usePlannerStore((s) => s.closePlannerEntryModal);
   const applyReferenceCode = usePlannerStore((s) => s.applyReferenceCode);
   const importTeamCsv = usePlannerStore((s) => s.importTeamCsv);
-  const createEvent = usePlannerStore((s) => s.createEvent);
-  const openOfficePlanner = usePlannerStore((s) => s.openOfficePlanner);
   const event = useCurrentEvent();
   const { t } = useTranslation();
 
@@ -19,8 +16,6 @@ export function PlannerEntryModal() {
   const [codeError, setCodeError] = useState('');
   const [codeLoading, setCodeLoading] = useState(false);
   const [csvJustImported, setCsvJustImported] = useState(false);
-  const [newId, setNewId] = useState('');
-  const [newName, setNewName] = useState('');
   const csvRef = useRef(null);
 
   if (!open) return null;
@@ -39,15 +34,6 @@ export function PlannerEntryModal() {
       else setCode('');
     } finally {
       setCodeLoading(false);
-    }
-  };
-
-  const handleCreate = (e) => {
-    e.preventDefault();
-    const created = createEvent({ id: newId, name: newName });
-    if (created) {
-      setNewId('');
-      setNewName('');
     }
   };
 
@@ -152,43 +138,12 @@ export function PlannerEntryModal() {
           </div>
         </section>
 
-        <section className="rounded-[10px] border border-[var(--sg-border)] p-4">
-          <h3 className="text-sm font-extrabold text-[var(--sg-navy)]">{t('entryCreateEvent')}</h3>
-          <p className="mt-1 text-xs leading-relaxed text-[var(--sg-muted)]">{t('entryCreateEventHint')}</p>
-
-          <form onSubmit={handleCreate} className="mt-3">
-            <span className="text-[10px] font-bold uppercase tracking-wide text-[#bbb]">Event ID</span>
-            <input
-              value={newId}
-              onChange={(e) => setNewId(normalizeEventId(e.target.value))}
-              placeholder="e.g. 8832"
-              inputMode="numeric"
-              maxLength={5}
-              className="sg-input mt-1.5 text-sm"
-            />
-            <span className="mt-2 block text-[10px] font-bold uppercase tracking-wide text-[#bbb]">
-              Event name (optional)
-            </span>
-            <input
-              value={newName}
-              onChange={(e) => setNewName(e.target.value)}
-              className="sg-input mt-1.5 text-sm"
-            />
-            <button type="submit" className="sg-btn sg-btn-primary mt-3 w-full text-sm">
-              {t('createNewEvent')}
-            </button>
-          </form>
-        </section>
-
         <button
           type="button"
-          onClick={() => {
-            openOfficePlanner();
-            closePlannerEntryModal();
-          }}
-          className="mt-4 text-center text-[10px] font-semibold text-[#ccc] hover:text-[var(--sg-navy)] hover:underline"
+          onClick={closePlannerEntryModal}
+          className="mt-2 w-full rounded-xl border border-[var(--sg-border)] bg-white px-3 py-2.5 text-sm font-semibold text-[var(--sg-muted)] hover:border-[#c0c8e8] hover:text-[var(--sg-navy)] transition-colors"
         >
-          {t('officeSetup')}
+          ← Back
         </button>
       </div>
     </div>
