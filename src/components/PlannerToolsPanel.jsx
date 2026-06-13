@@ -6,6 +6,8 @@ import { LanguageSettingsModal } from './LanguageSettingsModal';
 import { useTranslation } from '../i18n/useTranslation';
 import { isHyroxEvent, isIndoorEvent } from '../lib/hyrox';
 import { TLInfoEditor } from './TLInfoEditor';
+import { SpeedToolsModal } from './SpeedTools';
+import { AIEventLogicModal } from './AIEventLogic';
 
 // ─── Icons ───────────────────────────────────────────────────────────────────
 
@@ -26,6 +28,10 @@ const ICONS = {
   close:    ['M18 6L6 18','M6 6l12 12'],
   check:    'M20 6L9 17l-5-5',
   arrow:    'M9 18l6-6-6-6',
+  zap:      'M13 2L3 14h9l-1 8 10-12h-9l1-8z',
+  academy:  ['M22 10v6M2 10l10-5 10 5-10 5z','M6 12v5c3 3 9 3 12 0v-5'],
+  extlink:  ['M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6','M15 3h6v6','M10 14L21 3'],
+  ai:       ['M12 2a10 10 0 1 0 10 10','M12 6v6l4 2','M18 12h4M22 8v4'],
 };
 
 function SvgIcon({ name, size = 16 }) {
@@ -146,6 +152,8 @@ function PanelContent({ activeView, onViewChange, onClose }) {
   const [settingsOpen, setSettingsOpen] = useState(false);
   const [importOpen, setImportOpen] = useState(false);
   const [teamInfoOpen, setTeamInfoOpen] = useState(false);
+  const [speedToolsOpen, setSpeedToolsOpen] = useState(false);
+  const [aiEventOpen, setAiEventOpen] = useState(false);
 
   const hasReference = (tactic.referenceSpots || []).length > 0;
   const hyrox = isHyroxEvent(event);
@@ -308,6 +316,61 @@ function PanelContent({ activeView, onViewChange, onClose }) {
             </div>
           </>
         )}
+        {/* ── Tools always visible ── */}
+        <div className="my-2 border-t border-[var(--sg-border)]" />
+
+        <div className="px-1 space-y-1">
+          {/* AI Event Logic */}
+          <button
+            type="button"
+            onClick={() => setAiEventOpen(true)}
+            className="flex w-full items-center gap-3 rounded-xl border border-[#2d3e8f]/30 bg-gradient-to-r from-[#1C2B6B] to-[#2d3e8f] px-4 py-3 text-left transition-all hover:opacity-90 active:scale-[0.98]"
+          >
+            <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg bg-white/20 text-white">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <path d="M12 2a10 10 0 1 0 10 10"/><path d="M12 6v6l4 2"/><path d="M18 12h4M22 8v4"/>
+              </svg>
+            </span>
+            <div className="min-w-0 flex-1">
+              <div className="text-sm font-semibold text-white leading-tight">AI Event Logic</div>
+              <div className="text-[10px] text-white/55 mt-0.5">Spot timing predictions</div>
+            </div>
+            <span className="rounded-md bg-white/20 px-1.5 py-0.5 text-[9px] font-bold text-white/80">AI</span>
+          </button>
+
+          {/* Speed Tools */}
+          <button
+            type="button"
+            onClick={() => setSpeedToolsOpen(true)}
+            className="flex w-full items-center gap-3 rounded-xl border border-[#e3e7f2] bg-white px-4 py-3 text-left transition-all hover:bg-[#f8f9ff] active:scale-[0.98]"
+          >
+            <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg bg-[#eef1fb] text-[#5b6aa8]">
+              <SvgIcon name="zap" size={14} />
+            </span>
+            <div className="min-w-0 flex-1">
+              <div className="text-sm font-semibold text-[#1C2B6B] leading-tight">Speed Tools</div>
+              <div className="text-[10px] text-[#8a93b0] mt-0.5">Pace calculator · Connection test</div>
+            </div>
+          </button>
+
+          {/* TL Academy */}
+          <a
+            href="https://sportografacademy2.super.site/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex w-full items-center gap-3 rounded-xl border border-[#e3e7f2] bg-white px-4 py-3 text-left transition-all hover:bg-[#f8f9ff] active:scale-[0.98]"
+          >
+            <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg bg-[#eef1fb] text-[#5b6aa8]">
+              <SvgIcon name="academy" size={14} />
+            </span>
+            <div className="min-w-0 flex-1">
+              <div className="text-sm font-semibold text-[#1C2B6B] leading-tight">TL Academy</div>
+              <div className="text-[10px] text-[#8a93b0] mt-0.5">Tutorials &amp; team guidelines</div>
+            </div>
+            <SvgIcon name="extlink" size={12} />
+          </a>
+        </div>
+
       </div>
 
       {/* ── Footer ── */}
@@ -324,6 +387,8 @@ function PanelContent({ activeView, onViewChange, onClose }) {
 
       <LanguageSettingsModal open={settingsOpen} onClose={() => setSettingsOpen(false)} />
       {teamInfoOpen && <TeamInfoModal onClose={() => setTeamInfoOpen(false)} />}
+      {speedToolsOpen && <SpeedToolsModal onClose={() => setSpeedToolsOpen(false)} />}
+      {aiEventOpen && <AIEventLogicModal onClose={() => setAiEventOpen(false)} />}
     </div>
   );
 }

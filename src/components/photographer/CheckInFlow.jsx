@@ -10,6 +10,20 @@ const TUTORIAL_LINKS = [
   { id: 'newcomer', labelKey: 'Newcomer Info', url: 'https://sportografacademy2.super.site/' },
 ];
 
+function ElectronicShutterWarning() {
+  return (
+    <div className="flex gap-2.5 rounded-xl border border-amber-300 bg-amber-50 p-3">
+      <span className="mt-0.5 shrink-0 text-base leading-none">⚠️</span>
+      <div>
+        <p className="text-[11px] font-extrabold uppercase tracking-wide text-amber-700">Electronic Shutter — Rolling Shutter Risk</p>
+        <p className="mt-1 text-[11px] leading-relaxed text-amber-800">
+          This camera supports electronic shutter (silent mode). At fast-moving spots — e.g. road cycling or other high-speed subjects — <strong>do not use electronic shutter</strong>. The rolling shutter effect can cause significant image distortion. Switch to <strong>mechanical shutter</strong> at these spots.
+        </p>
+      </div>
+    </div>
+  );
+}
+
 function StepHeader({ number, title, done }) {
   return (
     <div className="flex items-center gap-3 mb-3">
@@ -96,6 +110,9 @@ export function CheckInFlow({ tacticId, cameraString }) {
                 <div className="text-gray-600">JPEG Quality: <strong>{s.jpeg}</strong></div>
               </div>
             ))}
+            {cameraSettings.some((s) => s.electronicShutter && !s.globalShutter) && (
+              <ElectronicShutterWarning />
+            )}
           </div>
         ) : (
           <div className="mb-3 rounded-xl bg-gray-50 p-3 text-sm text-gray-500">

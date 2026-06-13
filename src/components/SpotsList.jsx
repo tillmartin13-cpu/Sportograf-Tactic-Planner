@@ -24,7 +24,7 @@ function SpotAssignments({ spotId }) {
           <button
             key={a.id}
             type="button"
-            onClick={() => unassignPhotographer(spotId, a.photographer_id)}
+            onClick={(e) => { e.stopPropagation(); unassignPhotographer(spotId, a.photographer_id); }}
             className="rounded-md bg-[#1C2B6B] px-2 py-0.5 text-[11px] font-bold text-white hover:bg-[#cc2b2b]"
             title="Click to remove assignment"
           >
@@ -37,15 +37,25 @@ function SpotAssignments({ spotId }) {
 }
 
 function SpotCard({ spot, index }) {
-  const updateSpot = usePlannerStore((s) => s.updateSpot);
-  const removeSpot = usePlannerStore((s) => s.removeSpot);
+  const openEditSpotModal = usePlannerStore((s) => s.openEditSpotModal);
   const assignPhotographer = usePlannerStore((s) => s.assignPhotographer);
 
   const color = SPOT_TYPE_COLORS[spot.spot_type] || SPOT_TYPE_COLORS.custom;
 
+  const timeLabel = (() => {
+    const fmt = (t) => t?.includes('T') ? t.split('T')[1].slice(0, 5) : t;
+    const from = fmt(spot.time_from);
+    const to = fmt(spot.time_to);
+    if (from && to) return `${from} – ${to}`;
+    if (from) return `From ${from}`;
+    if (to) return `Until ${to}`;
+    return null;
+  })();
+
   return (
     <div
-      className="spot-drop-target rounded-xl border border-[#e3e7f2] bg-white p-2.5"
+      className="spot-drop-target group relative rounded-xl border border-[#e3e7f2] bg-white p-2.5 cursor-pointer hover:border-[#1C2B6B]/40 hover:shadow-sm transition-all"
+      onClick={() => openEditSpotModal(spot.id)}
       onDragOver={(e) => {
         e.preventDefault();
         e.currentTarget.classList.add('drag-over');
@@ -70,47 +80,32 @@ function SpotCard({ spot, index }) {
         >
           {index + 1}
         </div>
-        <input
-          value={spot.name}
-          onChange={(e) => updateSpot(spot.id, { name: e.target.value })}
-          className="min-w-0 flex-1 border-none bg-transparent p-0 text-xs font-extrabold text-[#1C2B6B] outline-none"
-        />
-        <button
-          type="button"
-          onClick={() => removeSpot(spot.id)}
-          className="shrink-0 text-[11px] font-bold text-[#c5cbe0] hover:text-[#cc2b2b]"
+        <span className="min-w-0 flex-1 truncate text-xs font-extrabold text-[#1C2B6B]">
+          {spot.name}
+        </span>
+        {/* edit hint */}
+        <svg
+          width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"
+          className="shrink-0 text-[#c5cbe0] group-hover:text-[#1C2B6B]/40 transition-colors"
         >
-          ✕
-        </button>
+          <path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7" />
+          <path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z" />
+        </svg>
       </div>
 
-      {/* Meta: type + km */}
+      {/* Meta: type + km + time */}
       <div className="mb-2 flex flex-wrap items-center gap-1 text-[10px] text-[#8a93b0]">
         <span className="rounded bg-[#f4f5fa] px-1 py-0.5 font-bold uppercase">{spot.spot_type}</span>
         {spot.km_mark != null && <span>{spot.km_mark} km</span>}
+        {timeLabel && <span className="text-[#9aa3bf]">{timeLabel}</span>}
       </div>
 
-      {/* Time inputs */}
-      <div className="mb-2 grid grid-cols-2 gap-1">
-        <label className="text-[9px] font-bold uppercase text-[#9aa3bf]">
-          From <span className="normal-case font-normal">(optional)</span>
-          <input
-            type="time"
-            value={spot.time_from?.includes('T') ? spot.time_from.split('T')[1].slice(0, 5) : spot.time_from || ''}
-            onChange={(e) => updateSpot(spot.id, { time_from: e.target.value })}
-            className="mt-0.5 w-full rounded-lg border border-[#e3e7f2] px-1.5 py-1 text-[10px]"
-          />
-        </label>
-        <label className="text-[9px] font-bold uppercase text-[#9aa3bf]">
-          To
-          <input
-            type="time"
-            value={spot.time_to?.includes('T') ? spot.time_to.split('T')[1].slice(0, 5) : spot.time_to || ''}
-            onChange={(e) => updateSpot(spot.id, { time_to: e.target.value })}
-            className="mt-0.5 w-full rounded-lg border border-[#e3e7f2] px-1.5 py-1 text-[10px]"
-          />
-        </label>
-      </div>
+      {/* Notes preview */}
+      {spot.notes && (
+        <p className="mb-2 line-clamp-2 text-[10px] leading-relaxed text-[#8a93b0] italic">
+          {spot.notes}
+        </p>
+      )}
 
       <SpotAssignments spotId={spot.id} />
 
