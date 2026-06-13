@@ -3,6 +3,7 @@ import { usePlannerStore } from '../store/usePlannerStore';
 import { normalizeEventId } from '../lib/id';
 import { LanguageSettingsModal } from './LanguageSettingsModal';
 import { useTranslation } from '../i18n/useTranslation';
+import { TLPasswordGate } from './TLPasswordGate';
 
 // WelcomeScreen uses useTranslation for the TL section strings
 
@@ -237,7 +238,7 @@ function ModulePicker({ onSelect, onSettings }) {
 
 // ─── Main WelcomeScreen ───────────────────────────────────────────────────────
 
-export function WelcomeScreen() {
+export function WelcomeScreen({ tlUnlocked, onTLUnlock }) {
   const events = usePlannerStore((s) => s.events);
   const openTacticPlanner = usePlannerStore((s) => s.openTacticPlanner);
   const openPhotographerImport = usePlannerStore((s) => s.openPhotographerImport);
@@ -251,6 +252,7 @@ export function WelcomeScreen() {
   const [settingsOpen, setSettingsOpen] = useState(false);
   const [deleteTarget, setDeleteTarget] = useState(null);
   const [activeRole, setActiveRole] = useState(null); // null = picker, 'tl' | 'photographer'
+  const [showTLGate, setShowTLGate] = useState(false);
   const [newId, setNewId] = useState('');
   const [newName, setNewName] = useState('');
   const [newDate, setNewDate] = useState('');
@@ -263,6 +265,12 @@ export function WelcomeScreen() {
     return da < db ? 1 : da > db ? -1 : 0;
   });
 
+  if (showTLGate) {
+    return (
+      <TLPasswordGate onUnlock={() => { onTLUnlock?.(); setShowTLGate(false); setActiveRole('tl'); }} />
+    );
+  }
+
   // Show fullscreen module picker when no role selected
   if (!activeRole) {
     return (
@@ -270,7 +278,8 @@ export function WelcomeScreen() {
         <ModulePicker
           onSelect={(role) => {
             if (role === 'photographer') openPhotographerImport();
-            else setActiveRole(role);
+            else if (tlUnlocked) setActiveRole('tl');
+            else setShowTLGate(true);
           }}
           onSettings={() => setSettingsOpen(true)}
         />

@@ -24,7 +24,7 @@ export default function App() {
   return (
     <ErrorBoundary>
       <div className="h-full overflow-hidden">
-        {appScreen === 'welcome' && <WelcomeScreen />}
+        {appScreen === 'welcome' && <WelcomeScreen tlUnlocked={tlUnlocked} onTLUnlock={() => setTlUnlocked(true)} />}
         {appScreen === 'planner' && !tlUnlocked && <TLPasswordGate onUnlock={() => setTlUnlocked(true)} />}
         {appScreen === 'planner' && tlUnlocked && <TacticPlannerScreen />}
         {appScreen === 'photographer' && <PhotographerScreen />}
