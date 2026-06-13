@@ -264,7 +264,7 @@ function PanelContent({ activeView, onViewChange, onClose }) {
             >
               <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-md bg-[#eef1fb] text-[#5b6aa8]">
                 <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                  <path d="M12 2a10 10 0 1 0 10 10"/><path d="M12 6v6l4 2"/><path d="M18 12h4M22 8v4"/>
+                  <path d="M9 18h6"/><path d="M10 22h4"/><path d="M12 2a7 7 0 0 1 7 7c0 2.6-1.4 4.9-3.5 6.2-.5.3-.5.8-.5 1.3V17H9v-.5c0-.5 0-1-.5-1.3A7 7 0 0 1 12 2z"/>
                 </svg>
               </span>
               <span className="flex-1 text-xs font-semibold text-[var(--sg-navy)]">Event Logic</span>
