@@ -581,7 +581,13 @@ function SpotsMap({ allSpots, mySpotIds, gpxTracks }) {
             {visibleSpots.map((spot, i) => {
               const isMine = mySpotIds ? mySpotIds.has(spot.id) : true;
               return (
-                <SpotMarker key={spot.id ?? i} spot={spot} isMine={isMine} myPos={null} />
+                <Marker
+                  key={spot.id ?? i}
+                  position={[spot.latitude, spot.longitude]}
+                  icon={makeSpotMarkerIcon(spot, i + 1, isMine)}
+                  zIndexOffset={isMine ? 500 : 100}
+                  interactive={false}
+                />
               );
             })}
           </MapContainer>
