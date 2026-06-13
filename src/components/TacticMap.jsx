@@ -38,7 +38,7 @@ function FitBounds({ spots, referenceSpots, tracks }) {
 
   useEffect(() => {
     const points = [];
-    tracks.forEach((t) => t.points.forEach((p) => points.push([p.lat, p.lng])));
+    tracks.forEach((t) => t.points?.forEach((p) => points.push([p.lat, p.lng])));
     [...spots, ...referenceSpots].forEach((s) => {
       if (s.latitude != null && s.longitude != null) points.push([s.latitude, s.longitude]);
     });

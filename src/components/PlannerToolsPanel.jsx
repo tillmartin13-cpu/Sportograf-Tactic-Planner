@@ -9,17 +9,8 @@ import { TLInfoEditor } from './TLInfoEditor';
 
 // ─── Icons ───────────────────────────────────────────────────────────────────
 
-function Icon({ d, size = 16, strokeWidth = 1.75 }) {
-  return (
-    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor"
-      strokeWidth={strokeWidth} strokeLinecap="round" strokeLinejoin="round">
-      {Array.isArray(d) ? d.map((p, i) => <path key={i} d={p} />) : <path d={d} />}
-    </svg>
-  );
-}
-
 const ICONS = {
-  map:      ['M3 6l9-3 9 3v13l-9 3-9-3z','M12 3v17','M3 6l9 4 9-4'],
+  map:      ['M9 5H7a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-2','M9 5a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2','M9 5a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2','M9 12h6','M9 16h4'],
   hyrox:    ['M6 4h12','M6 20h12','M12 4v16','M4 9h16','M4 15h16'],
   upload:   ['M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4','M17 8l-5-5-5 5','M12 3v12'],
   users:    ['M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2','M9 7a4 4 0 1 0 0-8 4 4 0 0 0 0 8zm14 14v-2a4 4 0 0 0-3-3.87','M16 3.13a4 4 0 0 1 0 7.75'],
@@ -34,6 +25,7 @@ const ICONS = {
   chevron:  'M6 9l6 6 6-6',
   close:    ['M18 6L6 18','M6 6l12 12'],
   check:    'M20 6L9 17l-5-5',
+  arrow:    'M9 18l6-6-6-6',
 };
 
 function SvgIcon({ name, size = 16 }) {
@@ -95,19 +87,6 @@ function ActionRow({ icon, label, hint, onClick, active }) {
   );
 }
 
-// ─── Stat pill ────────────────────────────────────────────────────────────────
-
-function Stat({ label, value, ok }) {
-  return (
-    <div className={`flex flex-col rounded-lg px-2.5 py-2 ${ok ? 'bg-[#f0fdf4]' : 'bg-[#f3f5fa]'}`}>
-      <span className={`text-base font-extrabold leading-none ${ok ? 'text-[#166534]' : 'text-[#9aa3bf]'}`}>{value}</span>
-      <span className={`mt-0.5 text-[10px] font-medium ${ok ? 'text-[#22c55e]' : 'text-[#b0b8cf]'}`}>{label}</span>
-    </div>
-  );
-}
-
-// ─── Nav button ───────────────────────────────────────────────────────────────
-
 function NavBtn({ icon, label, active, onClick }) {
   return (
     <button
@@ -123,15 +102,38 @@ function NavBtn({ icon, label, active, onClick }) {
   );
 }
 
+// ─── Team Info modal ──────────────────────────────────────────────────────────
+
+function TeamInfoModal({ onClose }) {
+  return (
+    <div className="fixed inset-0 z-[900] flex items-end justify-stretch lg:items-center lg:justify-center">
+      <div className="absolute inset-0 bg-black/40" onClick={onClose} />
+      <div className="relative z-10 flex w-full max-w-lg flex-col bg-white shadow-2xl lg:max-h-[90vh] lg:rounded-2xl rounded-t-2xl overflow-hidden">
+        <div className="flex items-center justify-between border-b border-[#e3e7f2] bg-[#1C2B6B] px-5 py-4">
+          <div className="flex items-center gap-2.5">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/>
+              <path d="M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"/>
+            </svg>
+            <span className="text-sm font-extrabold text-white">Team Info</span>
+          </div>
+          <button type="button" onClick={onClose} className="rounded-lg p-1.5 text-white/60 hover:bg-white/10 hover:text-white transition-colors">
+            <SvgIcon name="close" size={16} />
+          </button>
+        </div>
+        <div className="flex-1 overflow-y-auto p-4">
+          <TLInfoEditor />
+        </div>
+      </div>
+    </div>
+  );
+}
+
 // ─── Main panel content ───────────────────────────────────────────────────────
 
 function PanelContent({ activeView, onViewChange, onClose }) {
   const event = useCurrentEvent();
   const tactic = useTactic(event?.id);
-  const allPhotographers = usePlannerStore((s) => s.photographers) || [];
-  const photographers = event
-    ? allPhotographers.filter((p) => p.eventIds ? p.eventIds.includes(event.id) : p.eventId === event.id)
-    : [];
   const importTeamCsv = usePlannerStore((s) => s.importTeamCsv);
   const importInfofile = usePlannerStore((s) => s.importInfofile);
   const loadGpx = usePlannerStore((s) => s.loadGpx);
@@ -142,10 +144,8 @@ function PanelContent({ activeView, onViewChange, onClose }) {
   const { t } = useTranslation();
   const [settingsOpen, setSettingsOpen] = useState(false);
   const [importOpen, setImportOpen] = useState(false);
+  const [teamInfoOpen, setTeamInfoOpen] = useState(false);
 
-  const hasTeam = photographers.length > 0;
-  const hasRoute = tactic.gpxTrack.length > 0;
-  const hasSpots = tactic.spots.length > 0;
   const hasReference = (tactic.referenceSpots || []).length > 0;
   const hyrox = isHyroxEvent(event);
   const indoor = isIndoorEvent(event);
@@ -171,34 +171,21 @@ function PanelContent({ activeView, onViewChange, onClose }) {
               )}
             </div>
             {event.eventType && event.eventType !== 'standard_race' && (
-              <div className="mt-1.5">
-                <span className={`rounded-full px-2 py-0.5 text-[10px] font-bold ${
-                  event.eventType === 'hyrox' ? 'bg-[#fef3c7] text-[#92400e]' :
-                  event.eventType === 'obstacle_gpx' ? 'bg-[#f0fdf4] text-[#166534]' :
-                  event.eventType === 'obstacle_no_gpx' ? 'bg-[#fdf4ff] text-[#7e22ce]' :
-                  'bg-[#f1f5f9] text-[#475569]'
-                }`}>
-                  {{
-                    hyrox: 'HYROX',
-                    obstacle_gpx: 'Obstacle w/ GPX',
-                    obstacle_no_gpx: 'Obstacle w/o GPX',
-                    other: 'Other',
-                  }[event.eventType] || event.eventType}
-                </span>
-              </div>
+              <span className={`mt-1.5 inline-block rounded-full px-2 py-0.5 text-[10px] font-bold ${
+                event.eventType === 'hyrox' ? 'bg-[#fef3c7] text-[#92400e]' :
+                event.eventType === 'obstacle_gpx' ? 'bg-[#f0fdf4] text-[#166534]' :
+                event.eventType === 'obstacle_no_gpx' ? 'bg-[#fdf4ff] text-[#7e22ce]' :
+                'bg-[#f1f5f9] text-[#475569]'
+              }`}>
+                {{ hyrox:'HYROX', obstacle_gpx:'Obstacle w/ GPX', obstacle_no_gpx:'Obstacle w/o GPX', other:'Other' }[event.eventType] || event.eventType}
+              </span>
             )}
-            <div className="mt-3 grid grid-cols-3 gap-1.5">
-              <Stat label="Photographers" value={hasTeam ? photographers.length : '—'} ok={hasTeam} />
-              <Stat label="Spots" value={hasSpots ? tactic.spots.length : '—'} ok={hasSpots} />
-              {!indoor && <Stat label="Route" value={hasRoute ? 'GPS' : '—'} ok={hasRoute} />}
-              {indoor && <Stat label="Route" value="—" ok={false} />}
-            </div>
           </>
         ) : (
           <>
             <div className="text-sm font-extrabold text-[var(--sg-navy)]">Tactic Planner</div>
             <div className="mt-1 text-xs leading-relaxed text-[var(--sg-muted)]">
-              Import a team CSV to open your event, or create one manually.
+              Import a team CSV to get started, or create one manually.
             </div>
           </>
         )}
@@ -207,13 +194,11 @@ function PanelContent({ activeView, onViewChange, onClose }) {
       {/* ── Scrollable body ── */}
       <div className="flex-1 overflow-y-auto px-2 py-2.5 space-y-0.5">
 
-        {/* Navigation */}
-        {event && (
+        {/* View switcher — only for Hyrox (has two modes) */}
+        {event && hyrox && (
           <>
             <NavBtn icon="map" label="Tactic Planner" active={activeView === 'planner' || !activeView} onClick={() => navTo('planner')} />
-            {hyrox && (
-              <NavBtn icon="hyrox" label="Hyrox Planner" active={activeView === 'hyrox'} onClick={() => navTo('hyrox')} />
-            )}
+            <NavBtn icon="hyrox" label="Hyrox Planner" active={activeView === 'hyrox'} onClick={() => navTo('hyrox')} />
             <div className="my-2 border-t border-[var(--sg-border)]" />
           </>
         )}
@@ -254,26 +239,55 @@ function PanelContent({ activeView, onViewChange, onClose }) {
           </div>
         )}
 
-        {/* Actions */}
         {event && (
           <>
             <div className="my-2 border-t border-[var(--sg-border)]" />
-            <ActionRow icon="expand" label="Expand map" onClick={() => { setMapExpanded(true); onClose?.(); }} />
-            {hasReference && (
-              <ActionRow
-                icon={tactic.showReferenceLayer !== false ? 'eyeOff' : 'eye'}
-                label={tactic.showReferenceLayer !== false ? 'Hide reference layer' : 'Show reference layer'}
-                hint="Previous year's spots"
-                active={tactic.showReferenceLayer !== false}
-                onClick={() => { toggleReferenceLayer(); onClose?.(); }}
-              />
-            )}
-            <ActionRow icon="download" label="Export JSON" hint="Share with photographers" onClick={() => exportTacticJson(true)} />
+
+            {/* Export */}
+            <ActionRow icon="download" label="Export JSON / Team Tactic" hint="Share with photographers" onClick={() => exportTacticJson(true)} />
+
+            {/* Secondary actions */}
+            <div className="flex flex-wrap gap-1 px-3 py-1">
+              <button
+                type="button"
+                onClick={() => { setMapExpanded(true); onClose?.(); }}
+                className="flex items-center gap-1 rounded-md bg-[#f3f5fa] px-2 py-1 text-[11px] font-semibold text-[#5b6aa8] hover:bg-[#e8ebf5] transition-colors"
+              >
+                <SvgIcon name="expand" size={11} /> Expand map
+              </button>
+              {hasReference && (
+                <button
+                  type="button"
+                  onClick={() => { toggleReferenceLayer(); onClose?.(); }}
+                  className="flex items-center gap-1 rounded-md bg-[#f3f5fa] px-2 py-1 text-[11px] font-semibold text-[#5b6aa8] hover:bg-[#e8ebf5] transition-colors"
+                >
+                  <SvgIcon name={tactic.showReferenceLayer !== false ? 'eyeOff' : 'eye'} size={11} />
+                  {tactic.showReferenceLayer !== false ? 'Hide reference' : 'Show reference'}
+                </button>
+              )}
+            </div>
+
             <div className="my-2 border-t border-[var(--sg-border)]" />
-            {/* TL Info */}
-            <div className="px-1 py-1">
-              <p className="mb-2 text-[10px] font-bold uppercase tracking-wide text-[#9aa3bf]">TL Info for team</p>
-              <TLInfoEditor />
+
+            {/* Team Info — prominent CTA */}
+            <div className="px-1 pb-1">
+              <button
+                type="button"
+                onClick={() => setTeamInfoOpen(true)}
+                className="flex w-full items-center gap-3 rounded-xl bg-[#1C2B6B] px-4 py-3.5 text-left text-white transition-all hover:bg-[#16255e] active:scale-[0.98]"
+              >
+                <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-white/15">
+                  <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+                    <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/>
+                    <path d="M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"/>
+                  </svg>
+                </span>
+                <div className="min-w-0 flex-1">
+                  <div className="text-sm font-extrabold leading-tight">Team Info</div>
+                  <div className="text-[11px] text-white/55 mt-0.5">Briefing · Schedule · WhatsApp</div>
+                </div>
+                <SvgIcon name="arrow" size={14} />
+              </button>
             </div>
           </>
         )}
@@ -292,6 +306,7 @@ function PanelContent({ activeView, onViewChange, onClose }) {
       </div>
 
       <LanguageSettingsModal open={settingsOpen} onClose={() => setSettingsOpen(false)} />
+      {teamInfoOpen && <TeamInfoModal onClose={() => setTeamInfoOpen(false)} />}
     </div>
   );
 }

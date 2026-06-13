@@ -14,6 +14,7 @@ export function MapPanel({ fullscreen = false, onExpand, onCollapse }) {
   const openEditSpotModal = usePlannerStore((s) => s.openEditSpotModal);
   const movePhotoSpot = usePlannerStore((s) => s.movePhotoSpot);
   const toggleReferenceLayer = usePlannerStore((s) => s.toggleReferenceLayer);
+  const removeGpxTrack = usePlannerStore((s) => s.removeGpxTrack);
   const { t } = useTranslation();
   const [hoverKm, setHoverKm] = useState(null);
   const [activeTrackIndex, setActiveTrackIndex] = useState(null);
@@ -66,6 +67,7 @@ export function MapPanel({ fullscreen = false, onExpand, onCollapse }) {
               spots={spots}
               onHoverKm={setHoverKm}
               onActiveTrackIndex={setActiveTrackIndex}
+              onRemoveTrack={(i) => removeGpxTrack(event.id, i)}
             />
           </div>
         )}

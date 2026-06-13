@@ -7,15 +7,27 @@ const PAD_BOTTOM = 20;
 const PAD_LEFT = 36;
 const PAD_RIGHT = 8;
 
+function buildCumKm(pts) {
+  const cum = [0];
+  for (let i = 1; i < pts.length; i++) {
+    const dx = (pts[i].lat - pts[i - 1].lat) * 111.32;
+    const dy = (pts[i].lng - pts[i - 1].lng) * 111.32 * Math.cos((pts[i - 1].lat * Math.PI) / 180);
+    cum.push(cum[i - 1] + Math.sqrt(dx * dx + dy * dy));
+  }
+  return cum;
+}
+
 function buildProfile(track) {
   const pts = track.points;
+  if (!pts?.length) return null;
   const eles = pts.map((p) => p.ele).filter((e) => e != null);
   if (eles.length < 2) return null;
   const minEle = Math.min(...eles);
   const maxEle = Math.max(...eles);
   const range = maxEle - minEle || 1;
-  const totalKm = track.totalKm || track.cumKm?.[track.cumKm.length - 1] || 1;
-  return { pts, eles, minEle, maxEle, range, totalKm, cumKm: track.cumKm };
+  const cumKm = track.cumKm?.length === pts.length ? track.cumKm : buildCumKm(pts);
+  const totalKm = track.totalKm || cumKm[cumKm.length - 1] || 1;
+  return { pts, eles, minEle, maxEle, range, totalKm, cumKm };
 }
 
 function kmToX(km, totalKm, width) {
@@ -171,12 +183,12 @@ function ActiveProfile({ track, trackIndex, spots, color, onHoverKm }) {
   );
 }
 
-export function ElevationProfile({ tracks = [], spots = [], onHoverKm, onActiveTrackIndex }) {
+export function ElevationProfile({ tracks = [], spots = [], onHoverKm, onActiveTrackIndex, onRemoveTrack }) {
   const profiles = useMemo(() => tracks.map(buildProfile), [tracks]);
   const hasData = profiles.some(Boolean);
 
-  // Default to first track that has elevation data
   const [activeIndex, setActiveIndex] = useState(() => profiles.findIndex(Boolean));
+  const [confirmIndex, setConfirmIndex] = useState(null); // track index pending delete confirm
 
   if (!hasData) return null;
 
@@ -186,8 +198,62 @@ export function ElevationProfile({ tracks = [], spots = [], onHoverKm, onActiveT
     onHoverKm?.(null);
   }
 
+  function handleRemoveClick(e, i) {
+    e.stopPropagation();
+    setConfirmIndex(i);
+  }
+
+  function handleConfirmRemove() {
+    onRemoveTrack?.(confirmIndex);
+    setConfirmIndex(null);
+    // reset active index if removed track was active
+    setActiveIndex(0);
+    onHoverKm?.(null);
+  }
+
+  const RemoveBtn = ({ index }) => onRemoveTrack ? (
+    <button
+      type="button"
+      onClick={(e) => handleRemoveClick(e, index)}
+      className="ml-1 flex h-4 w-4 shrink-0 items-center justify-center rounded-full text-current opacity-40 hover:bg-red-100 hover:text-red-500 hover:opacity-100 transition-all"
+      aria-label="Remove track"
+    >
+      <svg width="8" height="8" viewBox="0 0 10 10" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round">
+        <line x1="2" y1="2" x2="8" y2="8"/><line x1="8" y1="2" x2="2" y2="8"/>
+      </svg>
+    </button>
+  ) : null;
+
   return (
     <div className="flex flex-col bg-white">
+      {/* Delete confirm modal */}
+      {confirmIndex !== null && (
+        <div className="fixed inset-0 z-[900] flex items-center justify-center bg-black/40 p-4">
+          <div className="w-full max-w-xs rounded-2xl bg-white p-5 shadow-xl">
+            <h3 className="font-bold text-gray-900 text-sm">Remove GPX track?</h3>
+            <p className="mt-1 text-xs text-gray-500">
+              "<strong>{tracks[confirmIndex]?.name || `Track ${confirmIndex + 1}`}</strong>" will be removed from this event.
+            </p>
+            <div className="mt-4 flex gap-2">
+              <button
+                type="button"
+                onClick={() => setConfirmIndex(null)}
+                className="flex-1 rounded-xl border border-gray-200 py-2 text-xs font-semibold text-gray-600 hover:bg-gray-50"
+              >
+                Cancel
+              </button>
+              <button
+                type="button"
+                onClick={handleConfirmRemove}
+                className="flex-1 rounded-xl bg-red-500 py-2 text-xs font-bold text-white hover:bg-red-600"
+              >
+                Remove
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+
       {/* Track selector tabs */}
       {tracks.length > 1 && (
         <div className="flex gap-0 border-b border-[#e3e7f2] overflow-x-auto">
@@ -197,33 +263,43 @@ export function ElevationProfile({ tracks = [], spots = [], onHoverKm, onActiveT
             const color = TRACK_COLORS[i % TRACK_COLORS.length];
             const isActive = activeIndex === i;
             return (
-              <button
+              <div
                 key={i}
-                type="button"
-                onClick={() => selectTrack(i)}
-                className={`flex shrink-0 items-center gap-1.5 px-3 py-2 text-[11px] font-bold transition-colors border-b-2 ${
+                className={`group flex shrink-0 items-center border-b-2 transition-colors ${
                   isActive
-                    ? 'border-[#1C2B6B] text-[#1C2B6B] bg-[#f4f6ff]'
-                    : 'border-transparent text-[#8a93b0] hover:text-[#1C2B6B] hover:bg-[#f8f9ff]'
+                    ? 'border-[#1C2B6B] bg-[#f4f6ff]'
+                    : 'border-transparent hover:bg-[#f8f9ff]'
                 }`}
               >
-                <span className="inline-block h-2 w-2 rounded-full shrink-0" style={{ background: color }} />
-                {track.name || `Track ${i + 1}`}
-                <span className="text-[9px] font-normal opacity-70">{profile.totalKm.toFixed(1)} km</span>
-              </button>
+                <button
+                  type="button"
+                  onClick={() => selectTrack(i)}
+                  className={`flex items-center gap-1.5 px-3 py-2 text-[11px] font-bold ${
+                    isActive ? 'text-[#1C2B6B]' : 'text-[#8a93b0] hover:text-[#1C2B6B]'
+                  }`}
+                >
+                  <span className="inline-block h-2 w-2 rounded-full shrink-0" style={{ background: color }} />
+                  {track.name || `Track ${i + 1}`}
+                  <span className="text-[9px] font-normal opacity-70">{profile.totalKm.toFixed(1)} km</span>
+                </button>
+                <RemoveBtn index={i} />
+                <div className="w-2" />
+              </div>
             );
           })}
         </div>
       )}
 
-      {/* Single track header (no tabs needed) */}
+      {/* Single track header */}
       {tracks.length === 1 && profiles[0] && (
         <div className="flex items-center gap-2 px-3 py-1.5 border-b border-[#f0f2fa]">
-          <span className="inline-block h-2 w-2 rounded-full" style={{ background: TRACK_COLORS[0] }} />
+          <span className="inline-block h-2 w-2 rounded-full shrink-0" style={{ background: TRACK_COLORS[0] }} />
           <span className="text-[10px] font-semibold text-[#8a93b0]">{tracks[0].name || 'Track 1'}</span>
           <span className="text-[10px] text-[#b0b8cf]">
             {profiles[0].totalKm.toFixed(1)} km · {Math.round(profiles[0].minEle)}–{Math.round(profiles[0].maxEle)} m
           </span>
+          <div className="flex-1" />
+          <RemoveBtn index={0} />
         </div>
       )}
 

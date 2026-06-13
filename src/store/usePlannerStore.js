@@ -533,6 +533,16 @@ export const usePlannerStore = create(
         set((state) => ({ tacticRevision: state.tacticRevision + 1 }));
       },
 
+      removeGpxTrack: (eventId, trackIndex) => {
+        if (!eventId) return;
+        const tactic = loadTactic(eventId) || emptyTactic();
+        const tracks = getGpxTracks(tactic);
+        const next = tracks.filter((_, i) => i !== trackIndex);
+        const gpxTrack = next.length ? trackToLatLng(next[0]) : [];
+        get().updateTactic(eventId, { gpxTracks: next, gpxTrack });
+        get().showToast(`Track removed.`);
+      },
+
       importTeamCsv: (text) => {
         const lang = get().language;
         try {

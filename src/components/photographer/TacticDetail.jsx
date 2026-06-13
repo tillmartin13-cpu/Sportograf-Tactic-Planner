@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef, useMemo, useCallback } from 'react';
 import { createPortal } from 'react-dom';
 import { MapContainer, TileLayer, Marker, Polyline, Popup, useMap } from 'react-leaflet';
-import { TRACK_COLORS } from '../../lib/locationTypes';
+import { TRACK_COLORS, LOCATION_TYPES } from '../../lib/locationTypes';
 import { buildSpotMarkerHtml } from '../../lib/spotMarkerHtml';
 import L from 'leaflet';
 import { usePhotographerStore } from '../../store/usePhotographerStore';
@@ -242,6 +242,11 @@ function SpotCard({ spot, index }) {
           {spot.name}
         </div>
         <div className="mt-1.5 flex flex-wrap items-center gap-1.5">
+          {spot.location_type && spot.location_type !== 'photo' && (
+            <span className="rounded-full bg-[#e8f0fe] px-2 py-0.5 text-[11px] font-semibold text-[#2563eb] capitalize">
+              {LOCATION_TYPES[spot.location_type]?.label || spot.location_type}
+            </span>
+          )}
           {(spot.time_from || spot.time_to) && (
             <span className="rounded-full bg-[#f0f2fa] px-2 py-0.5 text-[11px] font-semibold text-[#1C2B6B]">
               🕐 {formatTimeShort(spot.time_from)}–{formatTimeShort(spot.time_to)}
@@ -458,13 +463,12 @@ function SpotsMap({ allSpots, mySpotIds, gpxTracks }) {
   const [geoError, setGeoError] = useState(false);
   const [needsCompassPerm, setNeedsCompassPerm] = useState(false);
 
-  const visibleSpots = allSpots.filter((s) => s.latitude != null);
+  const visibleSpots = useMemo(() => allSpots.filter((s) => s.latitude != null), [allSpots]);
   const hasContent = visibleSpots.length > 0 || gpxTracks.some((t) => t.points?.length > 1);
-  if (!hasContent) return null;
 
-  // Live GPS
+  // Live GPS — all hooks before any early return
   useEffect(() => {
-    if (!navigator.geolocation) return;
+    if (!hasContent || !navigator.geolocation) return;
     const id = navigator.geolocation.watchPosition(
       (p) => setMyPos([p.coords.latitude, p.coords.longitude]),
       () => setGeoError(true),
@@ -489,17 +493,28 @@ function SpotsMap({ allSpots, mySpotIds, gpxTracks }) {
     }
   }, []);
 
+  const compassListenerRef = useRef(null);
+  useEffect(() => () => {
+    if (compassListenerRef.current) {
+      window.removeEventListener('deviceorientation', compassListenerRef.current, true);
+    }
+  }, []);
+
   async function requestCompassPerm() {
     try {
       if ((await DeviceOrientationEvent.requestPermission()) === 'granted') {
         setNeedsCompassPerm(false);
-        window.addEventListener('deviceorientation', (e) => {
+        function onOrientation(e) {
           const h = e.webkitCompassHeading ?? null;
           if (h != null) setHeading(Math.round(h));
-        }, true);
+        }
+        compassListenerRef.current = onOrientation;
+        window.addEventListener('deviceorientation', onOrientation, true);
       }
     } catch { setNeedsCompassPerm(false); }
   }
+
+  if (!hasContent) return null;
 
   const fallbackCenter = visibleSpots[0]
     ? [visibleSpots[0].latitude, visibleSpots[0].longitude]
@@ -653,11 +668,11 @@ function SpotsMap({ allSpots, mySpotIds, gpxTracks }) {
       {hasElevation && (
         <div className="border-t border-[#f0f2fa]">
           <ElevationProfile
-            tracks={activeTrackIndex !== null ? [gpxTracks[activeTrackIndex]].filter(Boolean) : gpxTracks}
+            tracks={gpxTracks}
             spots={allSpots}
             onHoverKm={setHoverKm}
             onActiveTrackIndex={(i) => {
-              if (i !== null && activeTrackIndex === null) setActiveTrackIndex(i);
+              if (i !== null) setActiveTrackIndex(i);
             }}
           />
         </div>
@@ -1014,10 +1029,13 @@ export function TacticDetail({ onOpenCheckIn }) {
   const mySpotIds = ph
     ? new Set(assignments.filter((a) => a.photographer_id === ph.id).map((a) => a.spot_id))
     : null;
-  // Primary: assignment-based. Fallback: spot name starts with photographer code
+  // Non-photo spots (meeting, copy, parking, other) are always shown to everyone
+  const isGeneralSpot = (s) => s.location_type && s.location_type !== 'photo';
+  // Primary: assignment-based. Fallback: spot name starts with photographer code. Always include general spots.
   const mySpots = mySpotIds
     ? spots.filter(
         (s) =>
+          isGeneralSpot(s) ||
           mySpotIds.has(s.id) ||
           (normalizedAcronym && s.name?.toUpperCase().startsWith(normalizedAcronym.replace(/\d+$/, ''))),
       )
