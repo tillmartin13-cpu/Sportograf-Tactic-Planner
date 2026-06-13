@@ -46,30 +46,66 @@ function LiveClock({ eventDate }) {
     if (d > 0) daysUntil = d;
   }
 
+  const dateStr = now.toLocaleDateString('de-DE', {
+    weekday: 'short', day: '2-digit', month: '2-digit', year: 'numeric',
+  });
+
   return (
-    <div className="mb-3 overflow-hidden rounded-2xl border border-[#1C2B6B]/15 bg-[#0f1535]">
-      {/* Clock face */}
-      <div className="flex flex-col items-center py-6 gap-1">
-        <div className="flex items-baseline gap-1 font-mono">
-          <span className="text-6xl font-black tabular-nums text-white tracking-tight">{hh}:{mm}</span>
-          <span className="text-4xl font-black tabular-nums text-white/60 tracking-tight">{ss}</span>
+    <div className="mb-3 overflow-hidden rounded-2xl" style={{ background: '#0b1129' }}>
+
+      {/* ── Photo-optimised clock face ── */}
+      <div className="flex flex-col items-center px-5 py-8 gap-0" style={{ background: '#0b1129' }}>
+
+        {/* Label */}
+        <div className="mb-4 text-[10px] font-bold uppercase tracking-[0.25em] text-white/30">
+          Aktuelle Uhrzeit — Kamera einstellen
         </div>
-        <div className="mt-1 text-[10px] font-semibold text-white/40 tracking-widest uppercase">{tz.replace('_', ' ')}</div>
-        <div className="mt-2 flex items-center gap-1.5">
+
+        {/* HH:MM in huge mono */}
+        <div className="font-mono font-black tabular-nums text-white leading-none"
+          style={{ fontSize: 'clamp(64px, 22vw, 96px)', letterSpacing: '-0.02em' }}>
+          {hh}:{mm}
+        </div>
+
+        {/* Seconds — large, clearly readable */}
+        <div className="mt-2 font-mono font-black tabular-nums leading-none"
+          style={{ fontSize: 'clamp(36px, 12vw, 56px)', color: '#60a5fa', letterSpacing: '0.04em' }}>
+          :{ss}
+        </div>
+
+        {/* Date with full year */}
+        <div className="mt-5 rounded-xl border border-white/10 px-5 py-2 text-center"
+          style={{ background: 'rgba(255,255,255,0.05)' }}>
+          <div className="font-mono font-extrabold text-white tabular-nums"
+            style={{ fontSize: 'clamp(18px, 6vw, 26px)', letterSpacing: '0.06em' }}>
+            {String(now.getDate()).padStart(2,'0')}.{String(now.getMonth()+1).padStart(2,'0')}.{now.getFullYear()}
+          </div>
+        </div>
+
+        {/* Timezone */}
+        <div className="mt-3 rounded-lg border border-white/8 px-4 py-1.5"
+          style={{ background: 'rgba(255,255,255,0.04)' }}>
+          <div className="text-center font-mono text-[13px] font-bold text-white/55 tracking-wide">
+            {tz}
+          </div>
+        </div>
+
+        {/* Sync status */}
+        <div className="mt-4 flex items-center gap-2">
           {synced ? (
             <>
-              <span className="h-1.5 w-1.5 rounded-full bg-[#22c55e]" />
-              <span className="text-[10px] font-bold text-[#22c55e]">Synchronisiert · TimeAPI.io</span>
+              <span className="h-2 w-2 rounded-full bg-[#22c55e]" />
+              <span className="text-[11px] font-bold text-[#22c55e]">Synchronisiert · TimeAPI.io</span>
             </>
           ) : syncError ? (
             <>
-              <span className="h-1.5 w-1.5 rounded-full bg-[#f59e0b]" />
-              <span className="text-[10px] font-bold text-[#f59e0b]">Lokale Zeit (kein Sync)</span>
+              <span className="h-2 w-2 rounded-full bg-[#f59e0b]" />
+              <span className="text-[11px] font-bold text-[#f59e0b]">Gerätezeit (kein NTP-Sync)</span>
             </>
           ) : (
             <>
-              <span className="h-1.5 w-1.5 animate-pulse rounded-full bg-white/40" />
-              <span className="text-[10px] font-bold text-white/40">Synchronisiere…</span>
+              <span className="h-2 w-2 animate-pulse rounded-full bg-white/30" />
+              <span className="text-[11px] font-bold text-white/30">Synchronisiere…</span>
             </>
           )}
         </div>
@@ -77,14 +113,15 @@ function LiveClock({ eventDate }) {
 
       {/* Future event warning */}
       {daysUntil !== null && (
-        <div className="border-t border-amber-400/20 bg-amber-950/60 px-4 py-3 flex gap-2.5">
+        <div className="border-t border-amber-400/20 px-4 py-3 flex gap-2.5"
+          style={{ background: 'rgba(120,53,15,0.5)' }}>
           <span className="mt-px shrink-0 text-base leading-none">⚠️</span>
           <div>
             <p className="text-[11px] font-extrabold text-amber-300">
               Event in {daysUntil} {daysUntil === 1 ? 'Tag' : 'Tagen'} — Uhrzeit vor Ort nochmal prüfen!
             </p>
             <p className="mt-1 text-[10px] leading-relaxed text-amber-400/80">
-              Sommer-/Winterzeit oder Zeitzonenwechsel können die lokale Zeit am Eventort verschieben. Stelle die Kamerauhrzeit <strong>kurz vor dem Event</strong> immer neu auf die lokale Zeit am Veranstaltungsort ein.
+              Sommer-/Winterzeit oder Zeitzonenwechsel können die lokale Zeit am Eventort verschieben. Stelle die Kamerauhrzeit <strong>kurz vor dem Event</strong> neu auf die lokale Ortszeit ein.
             </p>
           </div>
         </div>
