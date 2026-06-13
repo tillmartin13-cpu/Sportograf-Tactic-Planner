@@ -47,50 +47,52 @@ function AtomClockOverlay({ onClose }) {
   const mon  = String(now.getMonth() + 1).padStart(2, '0');
   const year = now.getFullYear();
 
+  // Corner marker SVG — L-shaped crop marks
+  const Corner = ({ style }) => (
+    <div className="absolute" style={{ width: 22, height: 22, ...style }}>
+      <svg width="22" height="22" viewBox="0 0 22 22" fill="none">
+        <path d="M0 16 L0 0 L16 0" stroke="rgba(255,255,255,0.5)" strokeWidth="1.5" fill="none"/>
+      </svg>
+    </div>
+  );
+
   return createPortal(
     <div
       className="fixed inset-0 z-[9999] flex items-center justify-center"
       style={{ background: '#000' }}
       onClick={onClose}
     >
-      {/* Force landscape via CSS rotation on portrait screens */}
-      <style>{`
-        @media (orientation: portrait) {
-          .atom-clock-inner {
-            transform: rotate(90deg);
-            width: 100vh;
-          }
-        }
-        @media (orientation: landscape) {
-          .atom-clock-inner {
-            width: 100%;
-          }
-        }
-      `}</style>
+      {/* Content box — small, centered, surrounded by black */}
+      <div className="relative flex flex-col items-center gap-3 select-none px-10 py-8">
 
-      <div className="atom-clock-inner flex flex-col items-center justify-center gap-3 select-none">
+        {/* Crop-corner markers */}
+        <Corner style={{ top: 0, left: 0, transform: 'none' }} />
+        <Corner style={{ top: 0, right: 0, transform: 'scaleX(-1)' }} />
+        <Corner style={{ bottom: 0, left: 0, transform: 'scaleY(-1)' }} />
+        <Corner style={{ bottom: 0, right: 0, transform: 'scale(-1,-1)' }} />
+
         <div
           className="font-mono font-black tabular-nums text-white leading-none"
-          style={{ fontSize: 'clamp(22px, 6vw, 38px)', letterSpacing: '0.04em' }}
+          style={{ fontSize: 'clamp(32px, 9vw, 48px)', letterSpacing: '0.04em' }}
         >
           {hh}:{mm}:{ss}
         </div>
 
         <div
           className="font-mono font-bold tabular-nums text-white/70"
-          style={{ fontSize: 'clamp(12px, 3vw, 20px)', letterSpacing: '0.08em' }}
+          style={{ fontSize: 'clamp(15px, 4vw, 22px)', letterSpacing: '0.08em' }}
         >
           {day}.{mon}.{year}
         </div>
 
         <div
           className="font-mono text-white/35"
-          style={{ fontSize: 'clamp(9px, 1.8vw, 13px)', letterSpacing: '0.12em' }}
+          style={{ fontSize: 'clamp(10px, 2.5vw, 14px)', letterSpacing: '0.1em' }}
         >
           {tz}
         </div>
 
-        <div className="flex items-center gap-1.5">
+        <div className="flex items-center gap-1.5 mt-1">
           {synced ? (
             <><span className="h-1.5 w-1.5 rounded-full bg-green-400" /><span className="text-[10px] font-bold text-green-400">NTP sync · TimeAPI.io</span></>
           ) : syncError ? (
