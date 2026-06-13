@@ -29,24 +29,13 @@ function navOptions(lat, lng) {
       id: 'googlemaps',
       label: 'Google Maps',
       img: '/mymaps.png',
-      imgClass: 'h-6 w-6 object-contain',
       url: `https://www.google.com/maps/dir/?api=1&destination=${coord}&travelmode=driving`,
     },
     {
       id: 'waze',
       label: 'Waze',
       img: '/Waze_logo_2022.png',
-      // Wide logo — show only the ghost (right side) via object-right
-      imgClass: 'h-6 w-6 object-cover object-right',
       url: `https://waze.com/ul?ll=${coord}&navigate=yes`,
-    },
-    {
-      id: 'komoot',
-      label: 'Komoot',
-      img: '/Komoot-logo-type.svg.png',
-      // Wide logo — show only the circle (left side) via object-left
-      imgClass: 'h-6 w-6 object-cover object-left',
-      url: `https://www.komoot.com/plan/@${lat},${lng},15z`,
     },
   ];
 
@@ -55,7 +44,6 @@ function navOptions(lat, lng) {
       id: 'applemaps',
       label: 'Apple Maps',
       img: '/Apple_Maps_iOS_26_icon.png',
-      imgClass: 'h-6 w-6 object-contain',
       url: `maps://maps.apple.com/?daddr=${coord}&dirflg=d`,
     });
   }
@@ -79,71 +67,90 @@ const VIEW_OPTIONS = (lat, lng) => [
   },
 ];
 
-// ─── Navigate dropdown ────────────────────────────────────────────────────────
+// ─── Utilities ───────────────────────────────────────────────────────────────
 
 // PWA-safe external link opener — target="_blank" is unreliable in iOS standalone mode
 function openExternal(url) {
   window.open(url, '_blank', 'noopener,noreferrer');
 }
 
+// ─── Image lightbox ───────────────────────────────────────────────────────────
+
+function ImageLightbox({ src, onClose }) {
+  useEffect(() => {
+    function handler(e) { if (e.key === 'Escape') onClose(); }
+    document.addEventListener('keydown', handler);
+    return () => document.removeEventListener('keydown', handler);
+  }, [onClose]);
+
+  return createPortal(
+    <div
+      className="fixed inset-0 z-[99999] flex items-center justify-center bg-black/90"
+      onClick={onClose}
+    >
+      <img
+        src={src}
+        alt=""
+        className="max-h-[90dvh] max-w-[95vw] rounded-xl object-contain shadow-2xl"
+        onClick={(e) => e.stopPropagation()}
+      />
+      <button
+        type="button"
+        onClick={onClose}
+        className="absolute right-4 top-4 flex h-9 w-9 items-center justify-center rounded-full bg-white/15 text-white hover:bg-white/25"
+      >
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className="h-5 w-5">
+          <path d="M18 6L6 18M6 6l12 12"/>
+        </svg>
+      </button>
+    </div>,
+    document.body,
+  );
+}
+
+// ─── Navigate modal ───────────────────────────────────────────────────────────
+
 function NavigateButton({ lat, lng }) {
   const [open, setOpen] = useState(false);
-  const [dropRect, setDropRect] = useState(null);
-  const btnRef = useRef(null);
-
   const options = navOptions(lat, lng);
 
-  function handleToggle() {
-    if (!open && btnRef.current) {
-      const r = btnRef.current.getBoundingClientRect();
-      setDropRect({ top: r.bottom + 4, left: r.left });
-    }
-    setOpen((v) => !v);
-  }
-
-  // Close on outside tap
-  useEffect(() => {
-    if (!open) return;
-    function handler(e) {
-      if (btnRef.current && btnRef.current.contains(e.target)) return;
-      setOpen(false);
-    }
-    document.addEventListener('touchend', handler);
-    document.addEventListener('mousedown', handler);
-    return () => {
-      document.removeEventListener('touchend', handler);
-      document.removeEventListener('mousedown', handler);
-    };
-  }, [open]);
-
-  const dropdown = open && dropRect && createPortal(
+  const modal = open && createPortal(
     <div
-      style={{
-        position: 'fixed',
-        top: dropRect.top,
-        left: dropRect.left,
-        zIndex: 99999,
-        width: 192,
-      }}
-      className="overflow-hidden rounded-2xl border border-gray-100 bg-white shadow-2xl"
+      className="fixed inset-0 z-[99999] flex items-center justify-center bg-black/50 px-6"
+      onClick={() => setOpen(false)}
     >
-      {options.map((opt) => (
-        <button
-          key={opt.id}
-          type="button"
-          onPointerDown={(e) => {
-            e.stopPropagation();
-            setOpen(false);
-            openExternal(opt.url);
-          }}
-          className="flex w-full items-center gap-3 px-4 py-3 text-sm font-semibold text-gray-700 active:bg-[#f0f2fa]"
-        >
-          <span className="flex h-6 w-6 shrink-0 items-center justify-center overflow-hidden rounded">
-            <img src={opt.img} alt={opt.label} className={opt.imgClass} />
-          </span>
-          {opt.label}
-        </button>
-      ))}
+      <div
+        className="w-full max-w-xs overflow-hidden rounded-2xl bg-white shadow-2xl"
+        onClick={(e) => e.stopPropagation()}
+      >
+        <div className="px-5 pb-1 pt-5">
+          <p className="text-[11px] font-bold uppercase tracking-[0.15em] text-gray-400">Navigate to spot</p>
+        </div>
+        {options.map((opt) => (
+          <button
+            key={opt.id}
+            type="button"
+            onPointerDown={(e) => {
+              e.stopPropagation();
+              setOpen(false);
+              openExternal(opt.url);
+            }}
+            className="flex w-full items-center gap-4 px-5 py-3.5 text-left text-base font-semibold text-gray-800 active:bg-gray-50"
+          >
+            <img src={opt.img} alt={opt.label} className="h-8 w-8 object-contain" />
+            {opt.label}
+          </button>
+        ))}
+        <div className="p-3 pt-1">
+          <button
+            type="button"
+            onClick={() => setOpen(false)}
+            className="w-full rounded-xl bg-gray-100 py-3 text-sm font-bold text-gray-500"
+          >
+            Cancel
+          </button>
+        </div>
+      </div>
     </div>,
     document.body,
   );
@@ -151,20 +158,14 @@ function NavigateButton({ lat, lng }) {
   return (
     <>
       <button
-        ref={btnRef}
         type="button"
-        onClick={handleToggle}
+        onClick={() => setOpen(true)}
         className="flex w-full flex-col items-center justify-center gap-1 py-2.5 text-[10px] font-semibold text-gray-500 hover:bg-[#f0f2fa] hover:text-[#1C2B6B] transition-colors active:bg-[#f0f2fa]"
       >
-        <span className="flex items-center gap-1">
-          <img src="/mymaps.png" alt="Navigate" className="h-5 w-5 object-contain" />
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className={`h-3 w-3 transition-transform ${open ? 'rotate-180' : ''}`}>
-            <polyline points="6 9 12 15 18 9" />
-          </svg>
-        </span>
+        <img src="/mymaps.png" alt="Navigate" className="h-5 w-5 object-contain" />
         Navigate
       </button>
-      {dropdown}
+      {modal}
     </>
   );
 }
@@ -233,6 +234,7 @@ function SpotCard({ spot, index }) {
   const lng = spot.longitude;
   const hasCoords = lat != null && lng != null;
   const viewOptions = hasCoords ? VIEW_OPTIONS(lat, lng) : [];
+  const [lightboxSrc, setLightboxSrc] = useState(null);
 
   return (
     <div className="rounded-2xl border border-gray-200 bg-white shadow-sm overflow-hidden">
@@ -274,13 +276,13 @@ function SpotCard({ spot, index }) {
                 <button
                   key={idx}
                   type="button"
-                  onClick={() => openExternal(img.data)}
-                  className="shrink-0"
+                  onClick={() => setLightboxSrc(img.data)}
+                  className="shrink-0 active:opacity-70 transition-opacity"
                 >
                   <img
                     src={img.data}
                     alt={img.name || `ref-${idx}`}
-                    className="h-24 w-24 rounded-xl object-cover border border-gray-200 active:opacity-80"
+                    className="h-24 w-24 rounded-xl object-cover border border-gray-200"
                     loading="lazy"
                     decoding="async"
                   />
@@ -306,12 +308,13 @@ function SpotCard({ spot, index }) {
               {opt.label}
             </button>
           ))}
-          {/* Navigate dropdown */}
+          {/* Navigate modal */}
           <div className="flex-1">
             <NavigateButton lat={lat} lng={lng} />
           </div>
         </div>
       )}
+      {lightboxSrc && <ImageLightbox src={lightboxSrc} onClose={() => setLightboxSrc(null)} />}
     </div>
   );
 }
