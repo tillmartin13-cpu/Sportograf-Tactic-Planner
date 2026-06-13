@@ -197,33 +197,33 @@ function ModulePicker({ onSelect, onSettings }) {
           </svg>
         </button>
 
-        {/* header */}
-        <div className="flex flex-col items-center pt-14 pb-6 px-6">
+        {/* mascot */}
+        <div className="flex items-center justify-center pt-12 pb-4">
           <img src="/mascot.png" alt="" className="h-20 w-auto" style={{ filter: 'drop-shadow(0 4px 16px rgba(0,0,0,0.5))' }} />
         </div>
 
-        {/* cards */}
-        <div className="flex flex-1 flex-col gap-4 px-5 pb-6 overflow-y-auto">
+        {/* cards — flex-1 so they fill remaining space and are vertically centered */}
+        <div className="flex flex-1 flex-col justify-center gap-3 px-5 pb-4">
           {/* TL card */}
           <button type="button" onClick={() => onSelect('tl')}
             className="relative w-full overflow-hidden rounded-2xl text-left outline-none active:scale-[0.98] transition-transform"
             style={{ background: 'linear-gradient(135deg, #1e2f7a 0%, #293377 100%)' }}>
-            <div className="absolute top-0 right-0 h-32 w-32 rounded-full opacity-10"
+            <div className="absolute top-0 right-0 h-40 w-40 rounded-full opacity-10"
               style={{ background: 'radial-gradient(circle, #fff 0%, transparent 70%)', transform: 'translate(20%, -30%)' }} />
-            <div className="relative p-5">
-              <div className="mb-4 flex items-center justify-between">
+            <div className="relative p-6 pb-8">
+              <div className="mb-5 flex items-center justify-between">
                 <div className="flex h-11 w-11 items-center justify-center rounded-xl text-white" style={{ background: 'rgba(255,255,255,0.12)' }}>
                   {tlIcon}
                 </div>
                 <span className="text-[10px] font-bold uppercase tracking-[0.18em] text-white/35">Module</span>
               </div>
-              <div className="mb-1 text-2xl font-black leading-tight text-white">Team Leader</div>
+              <div className="mb-2 text-2xl font-black leading-tight text-white">Team Leader</div>
               <p className="text-sm text-white/50">Spots, photographers, routes & team tactics.</p>
             </div>
           </button>
 
           {/* Apply now */}
-          <div className="flex flex-col items-center gap-1.5 -mt-1" onClick={(e) => e.stopPropagation()}>
+          <div className="flex flex-col items-center gap-1.5" onClick={(e) => e.stopPropagation()}>
             <p className="text-[11px] text-white/30">Want to become a Team Leader?</p>
             <a href="https://forms.gle/MZqTfC1L4kDP7Gsd6" target="_blank" rel="noreferrer"
               className="rounded-full border border-white/20 bg-white/5 px-4 py-1.5 text-[11px] font-bold text-white/60 hover:text-white transition-colors">
@@ -235,16 +235,16 @@ function ModulePicker({ onSelect, onSettings }) {
           <button type="button" onClick={() => onSelect('photographer')}
             className="relative w-full overflow-hidden rounded-2xl text-left outline-none active:scale-[0.98] transition-transform"
             style={{ background: 'linear-gradient(135deg, #9e0f29 0%, #cc1336 100%)' }}>
-            <div className="absolute top-0 right-0 h-32 w-32 rounded-full opacity-10"
+            <div className="absolute top-0 right-0 h-40 w-40 rounded-full opacity-10"
               style={{ background: 'radial-gradient(circle, #fff 0%, transparent 70%)', transform: 'translate(20%, -30%)' }} />
-            <div className="relative p-5">
-              <div className="mb-4 flex items-center justify-between">
+            <div className="relative p-6 pb-8">
+              <div className="mb-5 flex items-center justify-between">
                 <div className="flex h-11 w-11 items-center justify-center rounded-xl text-white" style={{ background: 'rgba(255,255,255,0.12)' }}>
                   {phIcon}
                 </div>
                 <span className="text-[10px] font-bold uppercase tracking-[0.18em] text-white/35">Module</span>
               </div>
-              <div className="mb-1 text-2xl font-black leading-tight text-white">Photographer</div>
+              <div className="mb-2 text-2xl font-black leading-tight text-white">Photographer</div>
               <p className="text-sm text-white/50">Your spots, route & weather in one view.</p>
             </div>
           </button>
