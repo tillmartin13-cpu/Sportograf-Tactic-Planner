@@ -200,7 +200,7 @@ function ModulePicker({ onSelect, onSettings }) {
         {/* mascot + cards — single block, vertically centered */}
         <div className="flex flex-1 flex-col justify-center gap-3 px-5 py-4">
           <div className="flex justify-center mb-1">
-            <img src="/mascot.png" alt="" className="h-16 w-auto" style={{ filter: 'drop-shadow(0 4px 16px rgba(0,0,0,0.5))' }} />
+            <img src="/mascot.png" alt="" className="h-16 w-auto" style={{ filter: 'drop-shadow(0 4px 16px rgba(0,0,0,0.5)) brightness(0.75)', opacity: 0.7 }} />
           </div>
           {/* TL card */}
           <button type="button" onClick={() => onSelect('tl')}
@@ -250,8 +250,8 @@ function ModulePicker({ onSelect, onSettings }) {
 
         {/* footer */}
         <div className="flex flex-col items-center gap-0.5 pb-5">
-          <span className="text-[10px] font-semibold tracking-wide text-white/20">Sportograf Digital Solutions GmbH</span>
-          <span className="text-[9px] text-white/15">v{APP_VERSION} · Stand {LAST_UPDATE}</span>
+          <span className="text-[10px] font-semibold tracking-wide text-white/40">Sportograf Digital Solutions GmbH</span>
+          <span className="text-[9px] text-white/30">v{APP_VERSION} · Stand {LAST_UPDATE}</span>
         </div>
       </div>
     );
