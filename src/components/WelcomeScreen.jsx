@@ -150,9 +150,9 @@ function ModulePicker({ onSelect, onSettings }) {
             <path d="M5 12h14M12 5l7 7-7 7"/>
           </svg>
         </div>
-        {isTl && (
-          <div className="text-center" onClick={(e) => e.stopPropagation()}>
-            <p className="text-[11px] text-white/40 mb-1.5">Want to become a Team Leader?</p>
+        <div className="h-14 flex flex-col items-center justify-start gap-1.5" onClick={(e) => e.stopPropagation()}>
+          {isTl && (<>
+            <p className="text-[11px] text-white/40">Want to become a Team Leader?</p>
             <a
               href="https://forms.gle/MZqTfC1L4kDP7Gsd6"
               target="_blank"
@@ -161,8 +161,8 @@ function ModulePicker({ onSelect, onSettings }) {
             >
               Apply now →
             </a>
-          </div>
-        )}
+          </>)}
+        </div>
       </div>
     );
   }
