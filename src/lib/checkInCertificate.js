@@ -1,6 +1,6 @@
 const SCALE = 2; // 2× for crisp sharing
-const W = 600 * SCALE;
-const H = 520 * SCALE;
+const W = 600; // logical drawing size — canvas is W*SCALE × H*SCALE
+const H = 520;
 
 const COLORS = {
   navy: '#1C2B6B',
@@ -77,8 +77,8 @@ export async function generateCheckInCertificate({
   locale = 'en-GB',
 }) {
   const canvas = document.createElement('canvas');
-  canvas.width = W;
-  canvas.height = H;
+  canvas.width = W * SCALE;
+  canvas.height = H * SCALE;
   const ctx = canvas.getContext('2d');
   if (!ctx) throw new Error('Canvas not supported');
   ctx.scale(SCALE, SCALE);
