@@ -220,13 +220,7 @@ function ModulePicker({ onSelect, onSettings }) {
                 <span className="text-[10px] font-bold uppercase tracking-[0.18em] text-white/35">Module</span>
               </div>
               <div className="mb-1 text-2xl font-black leading-tight text-white">Team Leader</div>
-              <p className="mb-4 text-sm text-white/50">Spots, photographers, routes & team tactics.</p>
-              <div className="flex items-center gap-1.5 self-start rounded-full border border-white/20 bg-white/10 px-4 py-2 text-sm font-bold text-white w-fit">
-                Open
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className="h-3.5 w-3.5">
-                  <path d="M5 12h14M12 5l7 7-7 7"/>
-                </svg>
-              </div>
+              <p className="text-sm text-white/50">Spots, photographers, routes & team tactics.</p>
             </div>
           </button>
 
@@ -253,13 +247,7 @@ function ModulePicker({ onSelect, onSettings }) {
                 <span className="text-[10px] font-bold uppercase tracking-[0.18em] text-white/35">Module</span>
               </div>
               <div className="mb-1 text-2xl font-black leading-tight text-white">Photographer</div>
-              <p className="mb-4 text-sm text-white/50">Your spots, route & weather in one view.</p>
-              <div className="flex items-center gap-1.5 self-start rounded-full border border-white/20 bg-white/10 px-4 py-2 text-sm font-bold text-white w-fit">
-                Open
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className="h-3.5 w-3.5">
-                  <path d="M5 12h14M12 5l7 7-7 7"/>
-                </svg>
-              </div>
+              <p className="text-sm text-white/50">Your spots, route & weather in one view.</p>
             </div>
           </button>
         </div>
