@@ -156,6 +156,7 @@ export function PhotographerApp({ onExit = () => {} }) {
             tacticId={activeTacticId}
             cameraString={cameraString}
             eventDate={activeTactic?.pkg?.event?.date ?? null}
+            photographerCode={acronym}
           />
         )}
       </main>

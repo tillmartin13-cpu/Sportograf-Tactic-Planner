@@ -37,7 +37,7 @@ function useNtpClock() {
 
 // ─── Fullscreen atomic clock overlay ─────────────────────────────────────────
 
-function AtomClockOverlay({ onClose }) {
+function AtomClockOverlay({ onClose, photographerCode, cameraLabel }) {
   const { now, synced, syncError, tz } = useNtpClock();
 
   const hh = String(now.getHours()).padStart(2, '0');
@@ -101,6 +101,15 @@ function AtomClockOverlay({ onClose }) {
             <><span className="h-1.5 w-1.5 animate-pulse rounded-full bg-white/30" /><span className="text-[11px] text-white/30">Synchronisiere…</span></>
           )}
         </div>
+
+        {(photographerCode || cameraLabel) && (
+          <div
+            className="mt-2 font-mono text-white/70 tracking-widest text-center"
+            style={{ fontSize: 'clamp(11px, 2.8vw, 15px)' }}
+          >
+            {[photographerCode, cameraLabel].filter(Boolean).join(' · ')}
+          </div>
+        )}
       </div>
 
       {/* Tap to close hint */}
@@ -114,8 +123,17 @@ function AtomClockOverlay({ onClose }) {
 
 // ─── Button shown in step 5 ───────────────────────────────────────────────────
 
-function LiveClock({ eventDate }) {
+function LiveClock({ eventDate, cameras, photographerCode }) {
   const [open, setOpen] = useState(false);
+  const [selectedCamera, setSelectedCamera] = useState('');
+  const [otherText, setOtherText] = useState('');
+
+  const cameraOptions = cameras.map((c) => `${c.brand} ${c.model}`);
+  const hasMultiple = cameraOptions.length > 0;
+
+  const cameraLabel = selectedCamera === '__other__'
+    ? (otherText.trim() || 'Other')
+    : selectedCamera || (cameraOptions[0] ?? '');
 
   // Future event warning
   let daysUntil = null;
@@ -128,7 +146,39 @@ function LiveClock({ eventDate }) {
 
   return (
     <>
-      {open && <AtomClockOverlay onClose={() => setOpen(false)} />}
+      {open && (
+        <AtomClockOverlay
+          onClose={() => setOpen(false)}
+          photographerCode={photographerCode}
+          cameraLabel={cameraLabel}
+        />
+      )}
+
+      {/* Camera selector */}
+      <div className="mb-2 space-y-2">
+        <div className="flex items-center gap-2">
+          <span className="text-xs font-bold text-gray-500 shrink-0">Kamera:</span>
+          <select
+            value={selectedCamera || (cameraOptions[0] ?? '__other__')}
+            onChange={(e) => setSelectedCamera(e.target.value)}
+            className="flex-1 rounded-xl border border-gray-200 bg-white px-3 py-2 text-sm font-semibold text-gray-800 focus:outline-none focus:border-[#1C2B6B]"
+          >
+            {cameraOptions.map((opt) => (
+              <option key={opt} value={opt}>{opt}</option>
+            ))}
+            <option value="__other__">Andere / Other…</option>
+          </select>
+        </div>
+        {(selectedCamera === '__other__' || (!hasMultiple && cameraOptions.length === 0)) && (
+          <input
+            type="text"
+            value={otherText}
+            onChange={(e) => setOtherText(e.target.value)}
+            placeholder="Kamerabezeichnung eingeben…"
+            className="w-full rounded-xl border border-gray-200 px-3 py-2 text-sm text-gray-800 focus:outline-none focus:border-[#1C2B6B]"
+          />
+        )}
+      </div>
 
       <button
         type="button"
@@ -194,7 +244,7 @@ function StepHeader({ number, title, done }) {
   );
 }
 
-export function CheckInFlow({ tacticId, cameraString, eventDate }) {
+export function CheckInFlow({ tacticId, cameraString, eventDate, photographerCode }) {
   const { t, language } = usePhTranslation();
   const setCheckInStep = usePhotographerStore((s) => s.setCheckInStep);
   const setCameraCheckResult = usePhotographerStore((s) => s.setCameraCheckResult);
@@ -337,7 +387,7 @@ export function CheckInFlow({ tacticId, cameraString, eventDate }) {
         <StepHeader number="5" title={t('checkInFlowStep4')} done={cameraDone} />
         <p className="text-sm text-gray-500 mb-3">{t('checkInFlowCameraHint')}</p>
 
-        <LiveClock eventDate={eventDate} />
+        <LiveClock eventDate={eventDate} cameras={cameraSettings} photographerCode={photographerCode} />
 
         <CameraCheck
           lang={language}
