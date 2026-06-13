@@ -1,5 +1,9 @@
 import { useState, useEffect, useRef } from 'react';
 import { createPortal } from 'react-dom';
+import { usePhotographerStore } from '../../store/usePhotographerStore';
+import { usePhTranslation } from '../../i18n/usePhTranslation';
+import { findAllCameraSettings, needsCardReader } from '../../lib/cameraSettings';
+import { CameraCheck } from '../CameraCheck';
 
 // ─── NTP hook ────────────────────────────────────────────────────────────────
 
