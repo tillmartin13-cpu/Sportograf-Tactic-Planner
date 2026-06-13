@@ -864,6 +864,33 @@ export const usePlannerStore = create(
         });
       },
 
+      replacePhotographer: (photographerId, { code, firstName }) => {
+        const trimCode = code.trim().toUpperCase();
+        if (!trimCode) return false;
+        set((state) => ({
+          photographers: state.photographers.map((p) =>
+            p.id === photographerId
+              ? { ...p, code: trimCode, firstName: (firstName || '').trim() }
+              : p,
+          ),
+        }));
+        return true;
+      },
+
+      deletePhotographer: (photographerId) => {
+        const eventId = get().currentEventId;
+        set((state) => ({
+          photographers: state.photographers.filter((p) => p.id !== photographerId),
+        }));
+        if (eventId) {
+          const tactic = get().getTactic(eventId);
+          get().updateTactic(eventId, {
+            assignments: tactic.assignments.filter((a) => a.photographer_id !== photographerId),
+          });
+        }
+        return true;
+      },
+
       addPhotographerManually: ({ code, firstName, lastName, cameras }) => {
         const eventId = get().currentEventId;
         if (!eventId) return false;
