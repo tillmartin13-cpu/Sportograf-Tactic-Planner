@@ -300,28 +300,6 @@ export function WelcomeScreen() {
 
         <div className="flex-1" />
 
-        {/* Role toggle pills */}
-        <div className="flex rounded-lg bg-white/10 p-0.5">
-          <button
-            type="button"
-            onClick={() => setActiveRole('tl')}
-            className={`rounded-md px-3 py-1 text-[11px] font-bold transition-colors ${
-              activeRole === 'tl' ? 'bg-white/20 text-white' : 'text-white/50 hover:text-white'
-            }`}
-          >
-            TL
-          </button>
-          <button
-            type="button"
-            onClick={() => setActiveRole('photographer')}
-            className={`rounded-md px-3 py-1 text-[11px] font-bold transition-colors ${
-              activeRole === 'photographer' ? 'bg-white/20 text-white' : 'text-white/50 hover:text-white'
-            }`}
-          >
-            Photo
-          </button>
-        </div>
-
         <button
           type="button"
           onClick={() => setSettingsOpen(true)}
