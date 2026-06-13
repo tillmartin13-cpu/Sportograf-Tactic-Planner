@@ -1102,7 +1102,7 @@ const CHECK_LABELS = {
   shutterSpeed: 'Shutter speed', cardImages: 'Memory card', pictureStyle: 'Picture style',
 };
 
-function CertificateButton({ event, photographer, cameraOk, cameraStatus, cameraImageUrl, cameraResult, checkedInAt, completedChecks }) {
+function CertificateButton({ event, photographer, cameraOk, cameraStatus, cameraImageUrl, cameraResult, cameraString, checkedInAt, completedChecks }) {
   const [open, setOpen] = useState(false);
   const meta = CAM_STATUS_META[cameraStatus] ?? CAM_STATUS_META.declined;
 
@@ -1140,6 +1140,7 @@ function CertificateButton({ event, photographer, cameraOk, cameraStatus, camera
               cameraStatus={cameraStatus}
               cameraImageUrl={cameraImageUrl}
               cameraDetails={cameraResult?.details}
+              cameraString={cameraString}
               checkedInAt={checkedInAt}
               completedChecks={completedChecks}
               extraShareFile={cameraImageUrl}
@@ -1317,6 +1318,7 @@ export function TacticDetail({ onOpenCheckIn }) {
             cameraStatus={cameraResult?.status}
             cameraImageUrl={cameraResult?.imageDataUrl}
             cameraResult={cameraResult}
+            cameraString={profile?.cameras || profile?.equipment || ''}
             checkedInAt={checkIn.completedAt}
             completedChecks={completedChecks}
           />

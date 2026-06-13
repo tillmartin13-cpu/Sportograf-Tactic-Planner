@@ -89,6 +89,7 @@ export async function generateCheckInCertificate({
   cameraStatus,
   cameraImageUrl,
   cameraDetails,
+  cameraString,
   checkedInAt,
   labels,
   completedChecks = [],
@@ -228,8 +229,14 @@ export async function generateCheckInCertificate({
   ctx.fillStyle = camStatusColor;
   ctx.fillText(`${camStatusIcon}  ${camStatusLabel}`, 48, camLabelY + 18);
 
+  if (cameraString) {
+    ctx.font = '600 11px system-ui, -apple-system, Segoe UI, sans-serif';
+    ctx.fillStyle = COLORS.muted;
+    ctx.fillText(String(cameraString), 48, camLabelY + 34);
+  }
+
   // Camera detail rows
-  let detailY = camLabelY + 36;
+  let detailY = camLabelY + (cameraString ? 52 : 36);
   if (cameraDetails && typeof cameraDetails === 'object') {
     const detailOrder = ['shutterSpeed', 'format', 'date', 'time', 'cardImages', 'pictureStyle'];
     const rowH = 17;
