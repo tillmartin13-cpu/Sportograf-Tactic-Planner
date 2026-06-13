@@ -209,12 +209,12 @@ function ModulePicker({ onSelect, onSettings }) {
       {/* ── Mascot centered over the split ── */}
       <div className="pointer-events-none absolute inset-0 z-20 flex items-center justify-center pb-10">
         <img
-          src="/mascot.svg"
+          src="/mascot.png"
           alt=""
           className="transition-transform duration-300"
           style={{
             width: 'clamp(120px, 14vw, 200px)',
-            filter: 'brightness(0) invert(1) drop-shadow(0 4px 28px rgba(0,0,0,0.35))',
+            filter: 'drop-shadow(0 4px 28px rgba(0,0,0,0.35))',
             transform: hovered === 'tl' ? 'translateX(-8px) scale(1.05)' : hovered === 'photo' ? 'translateX(8px) scale(1.05)' : 'scale(1)',
           }}
         />
