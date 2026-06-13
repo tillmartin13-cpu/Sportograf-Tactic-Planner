@@ -154,7 +154,7 @@ function ModulePicker({ onSelect, onSettings }) {
   }
 
   return (
-    <div className="relative flex h-[100dvh] w-full overflow-hidden select-none">
+    <div className="relative flex h-[100dvh] w-full overflow-hidden select-none" style={{ background: '#1a2050' }}>
       {/* ── Decorative speed lines ── */}
       <svg className="pointer-events-none absolute inset-0 h-full w-full opacity-[0.05]" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
         {[...Array(18)].map((_, i) => (
@@ -172,9 +172,7 @@ function ModulePicker({ onSelect, onSettings }) {
         style={{
           background: '#293377',
           clipPath: `polygon(0 0, 100% 0, calc(100% - ${diagOffset}) 100%, 0 100%)`,
-          opacity: hovered === 'photo' ? 0.72 : 1,
-          transform: hovered === 'tl' ? 'scale(1.012)' : 'scale(1)',
-          transformOrigin: 'left center',
+          filter: hovered === 'photo' ? 'brightness(0.72)' : 'brightness(1)',
         }}
       >
         <div className="pointer-events-none absolute inset-0 transition-opacity duration-300"
@@ -193,9 +191,7 @@ function ModulePicker({ onSelect, onSettings }) {
           background: '#cc1336',
           clipPath: `polygon(${diagOffset} 0, 100% 0, 100% 100%, 0 100%)`,
           marginLeft: isMobile ? '0' : `-${diagOffset}`,
-          opacity: hovered === 'tl' ? 0.72 : 1,
-          transform: hovered === 'photo' ? 'scale(1.012)' : 'scale(1)',
-          transformOrigin: 'right center',
+          filter: hovered === 'tl' ? 'brightness(0.72)' : 'brightness(1)',
         }}
       >
         <div className="pointer-events-none absolute inset-0 transition-opacity duration-300"
