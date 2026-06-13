@@ -1,8 +1,99 @@
-import { useState } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { usePhotographerStore } from '../../store/usePhotographerStore';
 import { usePhTranslation } from '../../i18n/usePhTranslation';
 import { findAllCameraSettings, needsCardReader } from '../../lib/cameraSettings';
 import { CameraCheck } from '../CameraCheck';
+
+// ─── Live NTP clock via TimeAPI.io ───────────────────────────────────────────
+
+function LiveClock({ eventDate }) {
+  const tz = Intl.DateTimeFormat().resolvedOptions().timeZone;
+  const offsetRef = useRef(0);
+  const [synced, setSynced] = useState(false);
+  const [syncError, setSyncError] = useState(false);
+  const [now, setNow] = useState(() => new Date());
+
+  // Sync once on mount
+  useEffect(() => {
+    const localBefore = Date.now();
+    fetch(`https://timeapi.io/api/time/current/zone?timeZone=${encodeURIComponent(tz)}`)
+      .then((r) => r.json())
+      .then((data) => {
+        const localAfter = Date.now();
+        const serverMs = new Date(data.dateTime).getTime();
+        offsetRef.current = serverMs - (localBefore + (localAfter - localBefore) / 2);
+        setSynced(true);
+      })
+      .catch(() => setSyncError(true));
+  }, [tz]);
+
+  // Tick every 250 ms for smooth seconds display
+  useEffect(() => {
+    const id = setInterval(() => setNow(new Date(Date.now() + offsetRef.current)), 250);
+    return () => clearInterval(id);
+  }, []);
+
+  const hh = String(now.getHours()).padStart(2, '0');
+  const mm = String(now.getMinutes()).padStart(2, '0');
+  const ss = String(now.getSeconds()).padStart(2, '0');
+
+  // Future event warning
+  let daysUntil = null;
+  if (eventDate) {
+    const today = new Date(); today.setHours(0, 0, 0, 0);
+    const eDate = new Date(eventDate); eDate.setHours(0, 0, 0, 0);
+    const d = Math.round((eDate - today) / 86_400_000);
+    if (d > 0) daysUntil = d;
+  }
+
+  return (
+    <div className="mb-3 overflow-hidden rounded-2xl border border-[#1C2B6B]/15 bg-[#0f1535]">
+      {/* Clock face */}
+      <div className="flex flex-col items-center py-6 gap-1">
+        <div className="flex items-baseline gap-1 font-mono">
+          <span className="text-6xl font-black tabular-nums text-white tracking-tight">{hh}:{mm}</span>
+          <span className="text-4xl font-black tabular-nums text-white/60 tracking-tight">{ss}</span>
+        </div>
+        <div className="mt-1 text-[10px] font-semibold text-white/40 tracking-widest uppercase">{tz.replace('_', ' ')}</div>
+        <div className="mt-2 flex items-center gap-1.5">
+          {synced ? (
+            <>
+              <span className="h-1.5 w-1.5 rounded-full bg-[#22c55e]" />
+              <span className="text-[10px] font-bold text-[#22c55e]">Synchronisiert · TimeAPI.io</span>
+            </>
+          ) : syncError ? (
+            <>
+              <span className="h-1.5 w-1.5 rounded-full bg-[#f59e0b]" />
+              <span className="text-[10px] font-bold text-[#f59e0b]">Lokale Zeit (kein Sync)</span>
+            </>
+          ) : (
+            <>
+              <span className="h-1.5 w-1.5 animate-pulse rounded-full bg-white/40" />
+              <span className="text-[10px] font-bold text-white/40">Synchronisiere…</span>
+            </>
+          )}
+        </div>
+      </div>
+
+      {/* Future event warning */}
+      {daysUntil !== null && (
+        <div className="border-t border-amber-400/20 bg-amber-950/60 px-4 py-3 flex gap-2.5">
+          <span className="mt-px shrink-0 text-base leading-none">⚠️</span>
+          <div>
+            <p className="text-[11px] font-extrabold text-amber-300">
+              Event in {daysUntil} {daysUntil === 1 ? 'Tag' : 'Tagen'} — Uhrzeit vor Ort nochmal prüfen!
+            </p>
+            <p className="mt-1 text-[10px] leading-relaxed text-amber-400/80">
+              Sommer-/Winterzeit oder Zeitzonenwechsel können die lokale Zeit am Eventort verschieben. Stelle die Kamerauhrzeit <strong>kurz vor dem Event</strong> immer neu auf die lokale Zeit am Veranstaltungsort ein.
+            </p>
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
 
 const TUTORIAL_LINKS = [
   { id: 'settings', labelKey: 'Camera Settings', url: 'https://sportografacademy2.super.site/' },
@@ -178,46 +269,7 @@ export function CheckInFlow({ tacticId, cameraString, eventDate }) {
         <StepHeader number="5" title={t('checkInFlowStep4')} done={cameraDone} />
         <p className="text-sm text-gray-500 mb-3">{t('checkInFlowCameraHint')}</p>
 
-        {/* time.is link */}
-        <a
-          href="https://time.is"
-          target="_blank"
-          rel="noreferrer"
-          className="mb-3 flex items-center gap-2 rounded-xl border border-[#e3e7f2] bg-[#f8f9ff] px-3 py-2.5 text-left transition-colors hover:bg-[#eef1fb]"
-        >
-          <span className="text-base leading-none">🕐</span>
-          <div className="flex-1 min-w-0">
-            <div className="text-[11px] font-extrabold text-[#1C2B6B]">Aktuelle Uhrzeit prüfen</div>
-            <div className="text-[10px] text-[#8a93b0]">time.is — atomgenaue Lokalzeit öffnen</div>
-          </div>
-          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#8a93b0" strokeWidth="2" strokeLinecap="round">
-            <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/>
-          </svg>
-        </a>
-
-        {/* Future event warning */}
-        {(() => {
-          if (!eventDate) return null;
-          const today = new Date();
-          today.setHours(0, 0, 0, 0);
-          const eDate = new Date(eventDate);
-          eDate.setHours(0, 0, 0, 0);
-          const daysUntil = Math.round((eDate - today) / (1000 * 60 * 60 * 24));
-          if (daysUntil <= 0) return null;
-          return (
-            <div className="mb-3 flex gap-2.5 rounded-xl border border-amber-200 bg-amber-50 px-3 py-2.5">
-              <span className="mt-px shrink-0 text-base leading-none">⚠️</span>
-              <div>
-                <p className="text-[11px] font-extrabold text-amber-800">
-                  Event liegt noch {daysUntil} {daysUntil === 1 ? 'Tag' : 'Tage'} in der Zukunft
-                </p>
-                <p className="mt-1 text-[10px] leading-relaxed text-amber-700">
-                  Durch Sommer-/Winterzeit oder Zeitzonenwechsel kann sich die lokale Uhrzeit bis zum Event ändern. <strong>Stelle die Kameruhrzeit immer kurz vor dem Event nochmal auf die lokale Ortszeit ein.</strong> Es gilt die lokale Zeit am Eventort.
-                </p>
-              </div>
-            </div>
-          );
-        })()}
+        <LiveClock eventDate={eventDate} />
 
         <CameraCheck
           lang={language}
