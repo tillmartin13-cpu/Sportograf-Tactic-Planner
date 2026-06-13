@@ -8,7 +8,8 @@ import { usePhotographerStore } from '../../store/usePhotographerStore';
 import { usePhTranslation } from '../../i18n/usePhTranslation';
 import { useMyProfile } from '../../hooks/useMyProfile';
 import { formatTimeShort } from '../../lib/timeConflict';
-import { findAllCameraSettings } from '../../lib/cameraSettings';
+import { findAllCameraSettings, needsCardReader } from '../../lib/cameraSettings';
+import { CheckInCertificateCard } from '../CheckInCertificateCard';
 import { useWeather, wmoToEmoji, getPhotoTips } from '../../hooks/useWeather';
 import { HYROX_STATIONS } from '../../lib/hyrox';
 import { getStationImages } from '../../lib/hyroxStationImages';
@@ -1155,6 +1156,31 @@ export function TacticDetail({ onOpenCheckIn }) {
           {isComplete ? t('tacticDetailCheckedIn') : t('tacticDetailCheckIn')}
         </button>
       </div>
+
+      {/* Certificate — shown when check-in is complete */}
+      {isComplete && (() => {
+        const steps = checkIn?.steps ?? {};
+        const cameraResult = checkIn?.cameraCheckResult;
+        const cameraSettings = findAllCameraSettings(profile?.equipment || '');
+        const requiresReader = cameraSettings.some((s) => needsCardReader(s.brand, s.model));
+        const checks = [
+          { key: 'tutorials', label: 'Academy Tutorials', done: ['settings','workflow','newcomer'].every((k) => steps[k]) },
+          { key: 'settings', label: 'Camera Settings', done: !!steps.settings_confirmed },
+          { key: 'battery', label: 'Batteries & Power', done: !!steps.battery_checked },
+          { key: 'card', label: 'Memory Card', done: !!steps.card_formatted && (!requiresReader || !!steps.card_reader_packed) },
+          { key: 'camera', label: 'Camera Time Check', done: cameraResult?.status === 'accepted' || cameraResult?.status === 'warning' },
+        ];
+        const completedChecks = checks.filter((c) => c.done).map((c) => c.label);
+        return (
+          <CheckInCertificateCard
+            event={{ id: event?.id, name: event?.name, eventDate: event?.date }}
+            photographer={{ code: acronym, firstName: profile?.firstName, lastName: profile?.lastName }}
+            cameraOk={cameraResult?.status === 'accepted' || cameraResult?.status === 'warning'}
+            checkedInAt={checkIn.completedAt}
+            completedChecks={completedChecks}
+          />
+        );
+      })()}
 
       {/* Personalized profile card — equipment only */}
       {isMatched && profile && (

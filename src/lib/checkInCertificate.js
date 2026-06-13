@@ -71,6 +71,7 @@ function drawRow(ctx, label, value, y, valueColor = COLORS.navy) {
  * @param {boolean} params.cameraOk
  * @param {string} params.checkedInAt ISO timestamp
  * @param {object} params.labels i18n strings
+ * @param {string[]} [params.completedChecks] list of completed check labels
  * @param {string} [params.locale]
  */
 export async function generateCheckInCertificate({
@@ -79,6 +80,7 @@ export async function generateCheckInCertificate({
   cameraOk,
   checkedInAt,
   labels,
+  completedChecks = [],
   locale = 'en-GB',
 }) {
   const canvas = document.createElement('canvas');
@@ -140,11 +142,7 @@ export async function generateCheckInCertificate({
   ctx.fillStyle = COLORS.muted;
   ctx.fillText(fullName, 48, headerH + 78);
 
-  ctx.font = '600 12px system-ui, -apple-system, Segoe UI, sans-serif';
-  ctx.fillStyle = COLORS.red;
-  ctx.fillText(labels.subtitle, 48, headerH + 98);
-
-  const dividerY = headerH + 118;
+  const dividerY = headerH + 100;
   ctx.strokeStyle = COLORS.border;
   ctx.lineWidth = 1;
   ctx.beginPath();
@@ -164,22 +162,39 @@ export async function generateCheckInCertificate({
   ctx.fillStyle = COLORS.muted;
   ctx.fillText(`#${event.id}${event.eventDate ? ` · ${event.eventDate}` : ''}`, 48, dividerY + 28 + eventLines.length * 22 + 6);
 
-  let rowY = dividerY + 100;
-  drawRow(ctx, labels.event, `#${event.id}`, rowY);
-  rowY += 30;
-  if (event.eventDate) {
-    drawRow(ctx, labels.date, event.eventDate, rowY);
-    rowY += 30;
-  }
-  drawRow(
-    ctx,
-    labels.camera,
-    cameraOk ? labels.cameraOk : labels.cameraPending,
-    rowY,
-    cameraOk ? COLORS.green : COLORS.muted,
-  );
-  rowY += 30;
+  // Compact info row: time + event ID
+  let rowY = dividerY + 90;
   drawRow(ctx, labels.time, formatCertTime(checkedInAt, locale), rowY);
+  rowY += 26;
+  drawRow(ctx, labels.event, `#${event.id}${event.eventDate ? ' · ' + event.eventDate : ''}`, rowY);
+
+  // Completed checks grid — 2 columns
+  if (completedChecks.length > 0) {
+    rowY += 36;
+    const cols = 2;
+    const cellW = (W - 96) / cols;
+    const cellH = 22;
+    completedChecks.forEach((label, i) => {
+      const col = i % cols;
+      const row = Math.floor(i / cols);
+      const cx = 48 + col * cellW;
+      const cy = rowY + row * cellH;
+      // green circle check
+      ctx.beginPath();
+      ctx.arc(cx + 7, cy + 5, 7, 0, Math.PI * 2);
+      ctx.fillStyle = COLORS.greenBg;
+      ctx.fill();
+      ctx.fillStyle = COLORS.green;
+      ctx.font = '700 9px system-ui, -apple-system, Segoe UI, sans-serif';
+      ctx.textAlign = 'center';
+      ctx.fillText('✓', cx + 7, cy + 9);
+      // label
+      ctx.textAlign = 'left';
+      ctx.font = '600 11px system-ui, -apple-system, Segoe UI, sans-serif';
+      ctx.fillStyle = COLORS.navy;
+      ctx.fillText(label, cx + 18, cy + 9);
+    });
+  }
 
   ctx.fillStyle = COLORS.bg;
   ctx.fillRect(0, H - 44, W, 44);
