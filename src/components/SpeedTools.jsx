@@ -264,6 +264,13 @@ function ConnectionTest({ onUploadResult }) {
         Measures your <strong>upload speed</strong> via Cloudflare's global network. The result is automatically used in the Upload Calculator tab.
       </p>
 
+      <div className="flex gap-2.5 rounded-xl border border-[#e3e7f2] bg-[#f8f9ff] px-3.5 py-3">
+        <span className="mt-px shrink-0 text-base leading-none">💡</span>
+        <p className="text-[11px] leading-relaxed text-[#5b6aa8]">
+          Nutze für den Upload immer die <strong>schnellstmögliche Verbindung</strong>. Kabelgebunden vor WLAN. Bei mehreren verfügbaren Verbindungen teste, welche die schnellste ist.
+        </p>
+      </div>
+
       {/* Running state */}
       {status === STATUS.running && (
         <div className="rounded-2xl border border-[#e3e7f2] bg-white p-5 space-y-4">
