@@ -81,36 +81,32 @@ export function wmoToEmoji(code) {
   return { icon: '🌩️', label: 'Heavy storm' };
 }
 
-/** Photography-specific weather tips based on weather & time window */
+/** Practical event-day tips based on temperature, rain, and wind */
 export function getPhotoTips(daily, hourlyWindow) {
   const tips = [];
   const rain = daily?.rain ?? 0;
   const tempMax = daily?.tempMax ?? 20;
-  const tempMin = daily?.tempMin ?? 10;
   const avg = hourlyWindow.length
     ? hourlyWindow.reduce((s, h) => s + (h.windspeed ?? 0), 0) / hourlyWindow.length
     : 0;
 
-  if (rain > 5) tips.push('🌧️ Significant rain expected — bring rain covers for your gear');
-  else if (rain > 0.5) tips.push('🌦️ Light rain possible — keep a rain cover handy');
+  // Rain
+  if (rain > 5) tips.push('🌧️ Significant rain expected — pack rain protection for you and your gear');
+  else if (rain > 0.5) tips.push('🌦️ Light rain possible — keep a rain cover handy for you and your equipment');
 
-  if (avg > 30) tips.push('💨 High wind — brace carefully when shooting with tele lenses');
-  else if (avg > 15) tips.push('🌬️ Moderate wind — watch for camera shake at slow shutter speeds');
+  // Temperature (high of day)
+  if (tempMax < 10) tips.push('🥶 Cold event — wear warm clothing, gloves and warm socks');
+  else if (tempMax < 15) tips.push('🧥 Could be chilly — better bring an extra layer');
 
-  if (tempMin < 5) tips.push('🥶 Cold conditions — keep batteries warm in your jacket');
-  if (tempMax > 30) tips.push('🌡️ Hot day — protect gear from direct sun, stay hydrated');
-
-  const codes = hourlyWindow.map((h) => h.weathercode ?? 0);
-  const hasHarshLight = codes.some((c) => c === 0);
-  if (hasHarshLight) {
-    tips.push('☀️ Potential harsh direct sunlight — overexposure risk, watch highlights');
+  // Sunny & warm
+  if (rain <= 0.5 && tempMax >= 22) {
+    const codes = hourlyWindow.map((h) => h.weathercode ?? 0);
+    if (codes.some((c) => c <= 1)) tips.push('☀️ Sunny and warm — pack sunscreen, a cap and plenty of water');
   }
 
-  const hasCloudy = codes.some((c) => c >= 1 && c <= 3);
-  if (hasCloudy && rain <= 0.5) {
-    tips.push('🌤️ Overcast/diffuse light — great for even exposures, no harsh shadows');
-  }
+  // Strong wind only
+  if (avg > 30) tips.push('💨 Windy! Secure tripods and stands carefully');
 
-  if (tips.length === 0) tips.push('✅ Good shooting conditions expected');
+  if (tips.length === 0) tips.push('✅ Good conditions expected — enjoy the event!');
   return tips;
 }
