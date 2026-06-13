@@ -81,31 +81,42 @@ export function wmoToEmoji(code) {
   return { icon: '🌩️', label: 'Heavy storm' };
 }
 
-/** Practical event-day tips based on temperature, rain, and wind */
+/** Practical event-day tips based on temperature, rain, and wind.
+ *  Each condition is evaluated independently so multiple tips can fire
+ *  (e.g. morning rain + hot afternoon both produce a tip). */
 export function getPhotoTips(daily, hourlyWindow) {
   const tips = [];
-  const rain = daily?.rain ?? 0;
   const tempMax = daily?.tempMax ?? 20;
-  const avg = hourlyWindow.length
+
+  const avgWind = hourlyWindow.length
     ? hourlyWindow.reduce((s, h) => s + (h.windspeed ?? 0), 0) / hourlyWindow.length
     : 0;
 
-  // Rain
-  if (rain > 5) tips.push('🌧️ Significant rain expected — pack rain protection for you and your gear');
-  else if (rain > 0.5) tips.push('🌦️ Light rain possible — keep a rain cover handy for you and your equipment');
+  // Check per-hour conditions so mixed days (rain morning, sun afternoon) show all tips
+  const rainyHours = hourlyWindow.filter((h) => (h.rain ?? 0) > 0.3);
+  const sunnyHotHours = hourlyWindow.filter(
+    (h) => (h.weathercode ?? 99) <= 1 && (h.temp ?? 0) >= 20,
+  );
+  const totalRain = hourlyWindow.reduce((s, h) => s + (h.rain ?? 0), 0);
 
-  // Temperature (high of day)
+  // Rain tip — based on actual hourly rain accumulation within the event window
+  if (totalRain > 4 || rainyHours.length >= 3) {
+    tips.push('🌧️ Significant rain expected — pack rain protection for you and your gear');
+  } else if (rainyHours.length >= 1) {
+    tips.push('🌦️ Rain possible — keep a rain cover handy for you and your equipment');
+  }
+
+  // Sunny & warm tip — fires even if other hours are rainy
+  if (sunnyHotHours.length >= 1) {
+    tips.push('☀️ Sunny and warm periods — pack sunscreen, a cap and plenty of water');
+  }
+
+  // Temperature (daily high)
   if (tempMax < 10) tips.push('🥶 Cold event — wear warm clothing, gloves and warm socks');
   else if (tempMax < 15) tips.push('🧥 Could be chilly — better bring an extra layer');
 
-  // Sunny & warm
-  if (rain <= 0.5 && tempMax >= 22) {
-    const codes = hourlyWindow.map((h) => h.weathercode ?? 0);
-    if (codes.some((c) => c <= 1)) tips.push('☀️ Sunny and warm — pack sunscreen, a cap and plenty of water');
-  }
-
   // Strong wind only
-  if (avg > 30) tips.push('💨 Windy! Secure tripods and stands carefully');
+  if (avgWind > 30) tips.push('💨 Windy! Secure tripods and stands carefully');
 
   if (tips.length === 0) tips.push('✅ Good conditions expected — enjoy the event!');
   return tips;
