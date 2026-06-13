@@ -1,6 +1,15 @@
+import { useState } from 'react';
 import { usePhotographerStore, ACADEMY_URL, EM_URL } from '../../store/usePhotographerStore';
 
 const SUPPORT_URL = 'mailto:support@sportograf.com';
+
+const LANGUAGES = [
+  { code: 'en', label: 'English' },
+  { code: 'de', label: 'Deutsch' },
+  { code: 'es', label: 'Español' },
+  { code: 'it', label: 'Italiano' },
+  { code: 'fr', label: 'Français' },
+];
 
 const TILES = [
   {
@@ -58,8 +67,254 @@ const TILES = [
   },
 ];
 
+// ─── Acronym input step 1 ─────────────────────────────────────────────────────
+
+function AcronymStep1({ initial = '', onNext, onCancel }) {
+  const [value, setValue] = useState(initial);
+
+  return (
+    <div className="fixed inset-0 z-50 flex items-end bg-black/40" onClick={onCancel}>
+      <div
+        className="w-full rounded-t-3xl bg-white px-6 pb-10 pt-6 shadow-2xl"
+        onClick={(e) => e.stopPropagation()}
+      >
+        <h3 className="mb-1 text-base font-black text-gray-900">Dein Kürzel (Acronym)</h3>
+        <p className="mb-5 text-sm text-gray-400 leading-snug">
+          Gib dein persönliches Kürzel ein, damit du deine Taktiken findest.
+        </p>
+
+        <label className="mb-1.5 block text-[10px] font-bold uppercase tracking-wider text-gray-400">
+          Acronym
+        </label>
+        <input
+          autoFocus
+          type="text"
+          value={value}
+          onChange={(e) => setValue(e.target.value.toUpperCase().trim())}
+          maxLength={8}
+          placeholder="z.B. TILL"
+          className="w-full rounded-xl border border-gray-200 px-4 py-3 text-lg font-black uppercase tracking-[0.2em] text-[#1C2B6B] focus:outline-none focus:ring-2 focus:ring-[#1C2B6B]/30"
+        />
+
+        <p className="mt-3 text-xs text-gray-400">
+          Unsicher?{' '}
+          <a
+            href={EM_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="font-semibold text-[#0369a1] underline underline-offset-2"
+          >
+            Eventmanager Profil
+          </a>{' '}
+          öffnen und nachschauen.
+        </p>
+
+        <div className="mt-5 flex gap-3">
+          <button
+            type="button"
+            onClick={onCancel}
+            className="flex-1 rounded-xl border border-gray-200 py-3 text-sm font-semibold text-gray-400 hover:bg-gray-50"
+          >
+            Abbrechen
+          </button>
+          <button
+            type="button"
+            disabled={!value}
+            onClick={() => onNext(value)}
+            className="flex-1 rounded-xl bg-[#1C2B6B] py-3 text-sm font-bold text-white disabled:opacity-40"
+          >
+            Weiter →
+          </button>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+// ─── Acronym confirm step 2 ───────────────────────────────────────────────────
+
+function AcronymStep2({ firstValue, onConfirm, onBack }) {
+  const [value, setValue] = useState('');
+  const mismatch = value.length > 0 && value !== firstValue;
+
+  return (
+    <div className="fixed inset-0 z-50 flex items-end bg-black/50">
+      <div className="w-full rounded-t-3xl bg-white px-6 pb-10 pt-6 shadow-2xl">
+        <div className="mb-4 flex h-12 w-12 items-center justify-center rounded-2xl bg-[#1C2B6B]/10">
+          <svg viewBox="0 0 24 24" fill="none" stroke="#1C2B6B" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="h-6 w-6">
+            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+          </svg>
+        </div>
+
+        <h3 className="mb-1 text-base font-black text-gray-900">Sicher?</h3>
+        <p className="mb-1 text-sm text-gray-400 leading-snug">
+          Bestätige dein Acronym final — nur so erhältst du deine personalisierten Taktiken für die Events.
+        </p>
+        <p className="mb-5 text-sm font-bold text-[#1C2B6B]">
+          Eingetragen: <span className="tracking-widest">{firstValue}</span>
+        </p>
+
+        <label className="mb-1.5 block text-[10px] font-bold uppercase tracking-wider text-gray-400">
+          Acronym nochmal eingeben
+        </label>
+        <input
+          autoFocus
+          type="text"
+          value={value}
+          onChange={(e) => setValue(e.target.value.toUpperCase().trim())}
+          maxLength={8}
+          placeholder={firstValue.replace(/./g, '·')}
+          className={`w-full rounded-xl border px-4 py-3 text-lg font-black uppercase tracking-[0.2em] text-[#1C2B6B] focus:outline-none focus:ring-2 transition-colors ${
+            mismatch
+              ? 'border-red-300 bg-red-50 focus:ring-red-200'
+              : 'border-gray-200 focus:ring-[#1C2B6B]/30'
+          }`}
+        />
+        {mismatch && (
+          <p className="mt-1.5 text-xs font-semibold text-red-500">Stimmt nicht überein — bitte prüfen.</p>
+        )}
+
+        <div className="mt-5 flex gap-3">
+          <button
+            type="button"
+            onClick={onBack}
+            className="flex-1 rounded-xl border border-gray-200 py-3 text-sm font-semibold text-gray-400 hover:bg-gray-50"
+          >
+            ← Zurück
+          </button>
+          <button
+            type="button"
+            disabled={value !== firstValue}
+            onClick={() => onConfirm(value)}
+            className="flex-1 rounded-xl bg-[#1C2B6B] py-3 text-sm font-bold text-white disabled:opacity-40"
+          >
+            Bestätigen ✓
+          </button>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+// ─── Settings sheet ───────────────────────────────────────────────────────────
+
+function SettingsSheet({ onClose }) {
+  const acronym = usePhotographerStore((s) => s.acronym);
+  const language = usePhotographerStore((s) => s.language);
+  const setAcronym = usePhotographerStore((s) => s.setAcronym);
+  const setLanguage = usePhotographerStore((s) => s.setLanguage);
+
+  // 'idle' | 'step1' | 'step2'
+  const [acronymFlow, setAcronymFlow] = useState('idle');
+  const [step1Value, setStep1Value] = useState('');
+
+  function startAcronymEdit() {
+    setStep1Value('');
+    setAcronymFlow('step1');
+  }
+
+  function onStep1Next(val) {
+    setStep1Value(val);
+    setAcronymFlow('step2');
+  }
+
+  function onStep2Confirm(val) {
+    setAcronym(val);
+    setAcronymFlow('idle');
+  }
+
+  return (
+    <>
+      <div className="fixed inset-0 z-40 flex items-end bg-black/40" onClick={onClose}>
+        <div
+          className="w-full rounded-t-3xl bg-white px-6 pb-10 pt-6 shadow-2xl"
+          onClick={(e) => e.stopPropagation()}
+        >
+          {/* Header */}
+          <div className="mb-6 flex items-center justify-between">
+            <h3 className="text-base font-black text-gray-900">Einstellungen</h3>
+            <button type="button" onClick={onClose} className="text-xl leading-none text-gray-300 hover:text-gray-500">×</button>
+          </div>
+
+          {/* Acronym */}
+          <div className="mb-6">
+            <p className="mb-1 text-[10px] font-bold uppercase tracking-wider text-gray-400">Kürzel (Acronym)</p>
+            {acronym ? (
+              <div className="flex items-center justify-between rounded-xl border border-gray-200 bg-gray-50 px-4 py-3">
+                <span className="text-base font-black tracking-[0.2em] text-[#1C2B6B]">{acronym}</span>
+                <button
+                  type="button"
+                  onClick={startAcronymEdit}
+                  className="text-xs font-semibold text-[#0369a1] hover:underline"
+                >
+                  Ändern
+                </button>
+              </div>
+            ) : (
+              <button
+                type="button"
+                onClick={startAcronymEdit}
+                className="w-full rounded-xl border-2 border-dashed border-[#1C2B6B]/30 px-4 py-4 text-sm font-bold text-[#1C2B6B]/60 hover:border-[#1C2B6B]/60 hover:text-[#1C2B6B] transition-colors"
+              >
+                + Kürzel hinterlegen
+              </button>
+            )}
+          </div>
+
+          {/* Language */}
+          <div>
+            <p className="mb-2 text-[10px] font-bold uppercase tracking-wider text-gray-400">Sprache</p>
+            <div className="grid grid-cols-5 gap-1.5">
+              {LANGUAGES.map((l) => (
+                <button
+                  key={l.code}
+                  type="button"
+                  onClick={() => setLanguage(l.code)}
+                  className={`rounded-xl py-2 text-xs font-bold transition-colors ${
+                    language === l.code
+                      ? 'bg-[#1C2B6B] text-white'
+                      : 'bg-gray-100 text-gray-500 hover:bg-gray-200'
+                  }`}
+                >
+                  {l.code.toUpperCase()}
+                </button>
+              ))}
+            </div>
+            <p className="mt-1.5 text-[11px] text-gray-400">
+              {LANGUAGES.find((l) => l.code === language)?.label}
+            </p>
+          </div>
+        </div>
+      </div>
+
+      {acronymFlow === 'step1' && (
+        <AcronymStep1
+          initial={acronym}
+          onNext={onStep1Next}
+          onCancel={() => setAcronymFlow('idle')}
+        />
+      )}
+      {acronymFlow === 'step2' && (
+        <AcronymStep2
+          firstValue={step1Value}
+          onConfirm={onStep2Confirm}
+          onBack={() => setAcronymFlow('step1')}
+        />
+      )}
+    </>
+  );
+}
+
+// ─── Main ─────────────────────────────────────────────────────────────────────
+
 export function PhotographerHome({ onExit }) {
   const goToTactics = usePhotographerStore((s) => s.goToTactics);
+  const acronym = usePhotographerStore((s) => s.acronym);
+  const [showSettings, setShowSettings] = useState(false);
+  // Prompt acronym entry on first visit if not set
+  const [acronymFlow, setAcronymFlow] = useState(() => !acronym ? 'step1' : 'idle');
+  const [step1Value, setStep1Value] = useState('');
+  const setAcronym = usePhotographerStore((s) => s.setAcronym);
 
   function handleTile(tile) {
     if (tile.id === 'tactics') {
@@ -67,6 +322,16 @@ export function PhotographerHome({ onExit }) {
     } else if (tile.href) {
       window.open(tile.href, '_blank', 'noopener,noreferrer');
     }
+  }
+
+  function onStep1Next(val) {
+    setStep1Value(val);
+    setAcronymFlow('step2');
+  }
+
+  function onStep2Confirm(val) {
+    setAcronym(val);
+    setAcronymFlow('idle');
   }
 
   return (
@@ -86,14 +351,20 @@ export function PhotographerHome({ onExit }) {
             Modul beenden
           </button>
           <span className="text-xs font-bold text-white/60">Photographer</span>
-          <div className="w-20" />
+          <div className="w-24" />
         </div>
       </header>
 
       {/* Content */}
       <main className="flex-1 overflow-y-auto px-4 py-6">
         <h1 className="mb-1 text-xl font-black text-[#1C2B6B]">Home</h1>
-        <p className="mb-6 text-sm text-gray-400">Was möchtest du tun?</p>
+        {acronym ? (
+          <p className="mb-6 text-sm text-gray-400">
+            Hallo, <span className="font-bold text-[#1C2B6B]">{acronym}</span> — was möchtest du tun?
+          </p>
+        ) : (
+          <p className="mb-6 text-sm text-gray-400">Was möchtest du tun?</p>
+        )}
 
         <div className="grid grid-cols-2 gap-3">
           {TILES.map((tile) => (
@@ -122,6 +393,44 @@ export function PhotographerHome({ onExit }) {
           ))}
         </div>
       </main>
+
+      {/* Settings button */}
+      <div className="border-t border-gray-200 bg-white px-4 py-3">
+        <button
+          type="button"
+          onClick={() => setShowSettings(true)}
+          className="flex w-full items-center gap-2.5 rounded-xl px-4 py-3 text-sm font-semibold text-gray-500 hover:bg-gray-50 transition-colors"
+        >
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round" className="h-5 w-5 text-gray-400">
+            <circle cx="12" cy="12" r="3"/>
+            <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/>
+          </svg>
+          Einstellungen
+          {!acronym && (
+            <span className="ml-auto rounded-full bg-red-500 px-2 py-0.5 text-[10px] font-bold text-white">
+              Kürzel fehlt
+            </span>
+          )}
+        </button>
+      </div>
+
+      {showSettings && <SettingsSheet onClose={() => setShowSettings(false)} />}
+
+      {/* Acronym flow on first visit */}
+      {acronymFlow === 'step1' && (
+        <AcronymStep1
+          initial=""
+          onNext={onStep1Next}
+          onCancel={() => setAcronymFlow('idle')}
+        />
+      )}
+      {acronymFlow === 'step2' && (
+        <AcronymStep2
+          firstValue={step1Value}
+          onConfirm={onStep2Confirm}
+          onBack={() => setAcronymFlow('step1')}
+        />
+      )}
     </div>
   );
 }
