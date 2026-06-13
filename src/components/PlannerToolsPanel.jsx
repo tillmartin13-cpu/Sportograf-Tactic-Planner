@@ -111,6 +111,7 @@ function NavBtn({ icon, label, active, onClick }) {
 // ─── Team Info modal ──────────────────────────────────────────────────────────
 
 function TeamInfoModal({ onClose }) {
+  const { t } = useTranslation();
   return (
     <div className="fixed inset-0 z-[900] flex items-end justify-stretch lg:items-center lg:justify-center">
       <div className="absolute inset-0 bg-black/40" onClick={onClose} />
