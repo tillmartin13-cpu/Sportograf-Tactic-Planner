@@ -1,19 +1,14 @@
-import { useState, useEffect, useRef } from 'react';
-import { usePhotographerStore } from '../../store/usePhotographerStore';
-import { usePhTranslation } from '../../i18n/usePhTranslation';
-import { findAllCameraSettings, needsCardReader } from '../../lib/cameraSettings';
-import { CameraCheck } from '../CameraCheck';
+import { createPortal } from 'react-dom';
 
-// ─── Live NTP clock via TimeAPI.io ───────────────────────────────────────────
+// ─── NTP hook ────────────────────────────────────────────────────────────────
 
-function LiveClock({ eventDate }) {
+function useNtpClock() {
   const tz = Intl.DateTimeFormat().resolvedOptions().timeZone;
   const offsetRef = useRef(0);
   const [synced, setSynced] = useState(false);
   const [syncError, setSyncError] = useState(false);
   const [now, setNow] = useState(() => new Date());
 
-  // Sync once on mount
   useEffect(() => {
     const localBefore = Date.now();
     fetch(`https://timeapi.io/api/time/current/zone?timeZone=${encodeURIComponent(tz)}`)
@@ -27,100 +22,121 @@ function LiveClock({ eventDate }) {
       .catch(() => setSyncError(true));
   }, [tz]);
 
-  // Tick every 250 ms for smooth seconds display
   useEffect(() => {
     const id = setInterval(() => setNow(new Date(Date.now() + offsetRef.current)), 250);
     return () => clearInterval(id);
   }, []);
 
+  return { now, synced, syncError, tz };
+}
+
+// ─── Fullscreen atomic clock overlay ─────────────────────────────────────────
+
+function AtomClockOverlay({ onClose }) {
+  const { now, synced, syncError, tz } = useNtpClock();
+
   const hh = String(now.getHours()).padStart(2, '0');
   const mm = String(now.getMinutes()).padStart(2, '0');
   const ss = String(now.getSeconds()).padStart(2, '0');
+  const day  = String(now.getDate()).padStart(2, '0');
+  const mon  = String(now.getMonth() + 1).padStart(2, '0');
+  const year = now.getFullYear();
+
+  return createPortal(
+    <div
+      className="fixed inset-0 z-[9999] flex flex-col items-center justify-center"
+      style={{ background: '#000' }}
+      onClick={onClose}
+    >
+      {/* Time — centered, medium size, lots of black border */}
+      <div className="flex flex-col items-center gap-4 select-none">
+        <div
+          className="font-mono font-black tabular-nums text-white leading-none"
+          style={{ fontSize: 'clamp(44px, 14vw, 72px)', letterSpacing: '0.04em' }}
+        >
+          {hh}:{mm}:{ss}
+        </div>
+
+        <div
+          className="font-mono font-bold tabular-nums text-white/70"
+          style={{ fontSize: 'clamp(20px, 6vw, 32px)', letterSpacing: '0.08em' }}
+        >
+          {day}.{mon}.{year}
+        </div>
+
+        <div
+          className="font-mono text-white/35"
+          style={{ fontSize: 'clamp(11px, 3vw, 16px)', letterSpacing: '0.12em' }}
+        >
+          {tz}
+        </div>
+
+        <div className="flex items-center gap-1.5 mt-2">
+          {synced ? (
+            <><span className="h-1.5 w-1.5 rounded-full bg-green-400" /><span className="text-[11px] font-bold text-green-400">NTP sync · TimeAPI.io</span></>
+          ) : syncError ? (
+            <><span className="h-1.5 w-1.5 rounded-full bg-yellow-400" /><span className="text-[11px] font-bold text-yellow-400">Gerätezeit</span></>
+          ) : (
+            <><span className="h-1.5 w-1.5 animate-pulse rounded-full bg-white/30" /><span className="text-[11px] text-white/30">Synchronisiere…</span></>
+          )}
+        </div>
+      </div>
+
+      {/* Tap to close hint */}
+      <div className="absolute bottom-8 text-[11px] text-white/20 tracking-widest uppercase">
+        Tippen zum Schließen
+      </div>
+    </div>,
+    document.body
+  );
+}
+
+// ─── Button shown in step 5 ───────────────────────────────────────────────────
+
+function LiveClock({ eventDate }) {
+  const [open, setOpen] = useState(false);
 
   // Future event warning
   let daysUntil = null;
   if (eventDate) {
     const today = new Date(); today.setHours(0, 0, 0, 0);
     const eDate = new Date(eventDate); eDate.setHours(0, 0, 0, 0);
-    const d = Math.round((eDate - today) / 86_400_000);
+    const d = Math.round((eDate - today) / (1000 * 60 * 60 * 24));
     if (d > 0) daysUntil = d;
   }
 
-  const dateStr = now.toLocaleDateString('de-DE', {
-    weekday: 'short', day: '2-digit', month: '2-digit', year: 'numeric',
-  });
-
   return (
-    <div className="mb-3 overflow-hidden rounded-2xl" style={{ background: '#0b1129' }}>
+    <>
+      {open && <AtomClockOverlay onClose={() => setOpen(false)} />}
 
-      {/* ── Photo-optimised clock face ── */}
-      <div className="flex flex-col items-center px-5 py-8 gap-0" style={{ background: '#0b1129' }}>
-
-        {/* Label */}
-        <div className="mb-4 text-[10px] font-bold uppercase tracking-[0.25em] text-white/30">
-          Aktuelle Uhrzeit — Kamera einstellen
+      <button
+        type="button"
+        onClick={() => setOpen(true)}
+        className="mb-3 flex w-full items-center gap-3 rounded-2xl px-4 py-3.5 text-left transition-colors"
+        style={{ background: '#0b1129' }}
+      >
+        <span className="text-2xl leading-none">🕐</span>
+        <div className="flex-1 min-w-0">
+          <div className="text-sm font-extrabold text-white">Atomuhr öffnen</div>
+          <div className="text-[10px] text-white/40">NTP-synchronisiert · Vollbild zum Fotografieren</div>
         </div>
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="rgba(255,255,255,0.3)" strokeWidth="2" strokeLinecap="round"><polyline points="9 18 15 12 9 6"/></svg>
+      </button>
 
-        {/* HH:MM:SS — same size, same color */}
-        <div className="font-mono font-black tabular-nums text-white leading-none"
-          style={{ fontSize: 'clamp(52px, 17vw, 80px)', letterSpacing: '-0.02em' }}>
-          {hh}:{mm}:{ss}
-        </div>
-
-        {/* Date with full year */}
-        <div className="mt-5 rounded-xl border border-white/10 px-5 py-2 text-center"
-          style={{ background: 'rgba(255,255,255,0.05)' }}>
-          <div className="font-mono font-extrabold text-white tabular-nums"
-            style={{ fontSize: 'clamp(18px, 6vw, 26px)', letterSpacing: '0.06em' }}>
-            {String(now.getDate()).padStart(2,'0')}.{String(now.getMonth()+1).padStart(2,'0')}.{now.getFullYear()}
-          </div>
-        </div>
-
-        {/* Timezone */}
-        <div className="mt-3 rounded-lg border border-white/8 px-4 py-1.5"
-          style={{ background: 'rgba(255,255,255,0.04)' }}>
-          <div className="text-center font-mono text-[13px] font-bold text-white/55 tracking-wide">
-            {tz}
-          </div>
-        </div>
-
-        {/* Sync status */}
-        <div className="mt-4 flex items-center gap-2">
-          {synced ? (
-            <>
-              <span className="h-2 w-2 rounded-full bg-[#22c55e]" />
-              <span className="text-[11px] font-bold text-[#22c55e]">Synchronisiert · TimeAPI.io</span>
-            </>
-          ) : syncError ? (
-            <>
-              <span className="h-2 w-2 rounded-full bg-[#f59e0b]" />
-              <span className="text-[11px] font-bold text-[#f59e0b]">Gerätezeit (kein NTP-Sync)</span>
-            </>
-          ) : (
-            <>
-              <span className="h-2 w-2 animate-pulse rounded-full bg-white/30" />
-              <span className="text-[11px] font-bold text-white/30">Synchronisiere…</span>
-            </>
-          )}
-        </div>
-      </div>
-
-      {/* Future event warning */}
       {daysUntil !== null && (
-        <div className="border-t border-amber-400/20 px-4 py-3 flex gap-2.5"
-          style={{ background: 'rgba(120,53,15,0.5)' }}>
+        <div className="mb-3 flex gap-2.5 rounded-xl border border-amber-200 bg-amber-50 px-3 py-2.5">
           <span className="mt-px shrink-0 text-base leading-none">⚠️</span>
           <div>
-            <p className="text-[11px] font-extrabold text-amber-300">
+            <p className="text-[11px] font-extrabold text-amber-800">
               Event in {daysUntil} {daysUntil === 1 ? 'Tag' : 'Tagen'} — Uhrzeit vor Ort nochmal prüfen!
             </p>
-            <p className="mt-1 text-[10px] leading-relaxed text-amber-400/80">
+            <p className="mt-1 text-[10px] leading-relaxed text-amber-700">
               Sommer-/Winterzeit oder Zeitzonenwechsel können die lokale Zeit am Eventort verschieben. Stelle die Kamerauhrzeit <strong>kurz vor dem Event</strong> neu auf die lokale Ortszeit ein.
             </p>
           </div>
         </div>
       )}
-    </div>
+    </>
   );
 }
 
