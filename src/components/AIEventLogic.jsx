@@ -179,7 +179,7 @@ export function AIEventLogicModal({ onClose }) {
               </svg>
             </div>
             <div>
-              <div className="text-sm font-extrabold text-white">AI Event Logic</div>
+              <div className="text-sm font-extrabold text-white">Event Logic</div>
               <div className="text-[10px] text-white/50">Upload schedule · Get spot timings</div>
             </div>
           </div>

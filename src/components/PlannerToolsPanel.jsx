@@ -267,7 +267,7 @@ function PanelContent({ activeView, onViewChange, onClose }) {
                   <path d="M12 2a10 10 0 1 0 10 10"/><path d="M12 6v6l4 2"/><path d="M18 12h4M22 8v4"/>
                 </svg>
               </span>
-              <span className="flex-1 text-xs font-semibold text-white">AI Event Logic</span>
+              <span className="flex-1 text-xs font-semibold text-white">Event Logic</span>
               <span className="rounded bg-white/20 px-1 py-0.5 text-[9px] font-bold text-white/70">AI</span>
             </button>
 
