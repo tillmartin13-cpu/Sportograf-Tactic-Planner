@@ -32,159 +32,158 @@ function CheckRow({ label, check }) {
 // ─── Crop Tool ────────────────────────────────────────────────────────────────
 
 function CropTool({ src, onConfirm, onCancel }) {
-  const containerRef = useRef(null);
+  const wrapperRef = useRef(null);
   const imgRef = useRef(null);
-  // crop rect in % of displayed image bounds: { x, y, w, h } all 0–100
-  const [rect, setRect] = useState({ x: 10, y: 20, w: 80, h: 60 });
-  const dragRef = useRef(null); // { type: 'move'|'tl'|'tr'|'bl'|'br', startX, startY, startRect }
+  const [imgSize, setImgSize] = useState(null); // { w, h } natural dimensions
+  // rect as fraction of image: 0..1
+  const [rect, setRect] = useState({ x: 0.05, y: 0.15, w: 0.9, h: 0.7 });
+  const dragRef = useRef(null);
 
-  function getPointer(e) {
-    const t = e.touches?.[0] ?? e;
-    return { x: t.clientX, y: t.clientY };
-  }
+  // Load image to get natural dimensions
+  useEffect(() => {
+    const img = new Image();
+    img.onload = () => setImgSize({ w: img.naturalWidth, h: img.naturalHeight });
+    img.src = src;
+  }, [src]);
 
-  function clamp(v, lo, hi) { return Math.max(lo, Math.min(hi, v)); }
+  // Attach global pointermove/pointerup via useEffect so we can use { passive: false }
+  useEffect(() => {
+    function getWrapperBounds() {
+      return wrapperRef.current?.getBoundingClientRect() ?? null;
+    }
+    function clamp(v, lo, hi) { return Math.max(lo, Math.min(hi, v)); }
 
-  function onPointerDown(type, e) {
+    function onMove(e) {
+      if (!dragRef.current) return;
+      e.preventDefault();
+      const b = getWrapperBounds();
+      if (!b) return;
+      const px = (e.clientX - b.left) / b.width;
+      const py = (e.clientY - b.top) / b.height;
+      const { type, sx, sy, sr: r } = dragRef.current;
+      const dx = px - sx, dy = py - sy;
+      const MIN = 0.06;
+      let { x, y, w, h } = r;
+      if (type === 'move') {
+        x = clamp(r.x + dx, 0, 1 - r.w);
+        y = clamp(r.y + dy, 0, 1 - r.h);
+      } else if (type === 'tl') {
+        const ex = clamp(r.x + dx, 0, r.x + r.w - MIN);
+        const ey = clamp(r.y + dy, 0, r.y + r.h - MIN);
+        w = r.w + r.x - ex; h = r.h + r.y - ey; x = ex; y = ey;
+      } else if (type === 'tr') {
+        const ey = clamp(r.y + dy, 0, r.y + r.h - MIN);
+        w = clamp(r.w + dx, MIN, 1 - r.x); h = r.h + r.y - ey; y = ey;
+      } else if (type === 'bl') {
+        const ex = clamp(r.x + dx, 0, r.x + r.w - MIN);
+        w = r.w + r.x - ex; h = clamp(r.h + dy, MIN, 1 - r.y); x = ex;
+      } else if (type === 'br') {
+        w = clamp(r.w + dx, MIN, 1 - r.x);
+        h = clamp(r.h + dy, MIN, 1 - r.y);
+      }
+      setRect({ x, y, w, h });
+    }
+    function onUp() { dragRef.current = null; }
+
+    window.addEventListener('pointermove', onMove, { passive: false });
+    window.addEventListener('pointerup', onUp);
+    return () => {
+      window.removeEventListener('pointermove', onMove);
+      window.removeEventListener('pointerup', onUp);
+    };
+  }, []);
+
+  function startDrag(type, e) {
     e.preventDefault();
     e.stopPropagation();
-    const { x, y } = getPointer(e);
-    dragRef.current = { type, startX: x, startY: y, startRect: { ...rect } };
+    const b = wrapperRef.current?.getBoundingClientRect();
+    if (!b) return;
+    dragRef.current = {
+      type,
+      sx: (e.clientX - b.left) / b.width,
+      sy: (e.clientY - b.top) / b.height,
+      sr: { ...rect },
+    };
   }
-
-  function onMove(e) {
-    if (!dragRef.current || !containerRef.current) return;
-    const { type, startX, startY, startRect: r } = dragRef.current;
-    const { x: cx, y: cy } = getPointer(e);
-    const el = containerRef.current;
-    const dx = ((cx - startX) / el.offsetWidth) * 100;
-    const dy = ((cy - startY) / el.offsetHeight) * 100;
-    const MIN = 8;
-
-    let nx = r.x, ny = r.y, nw = r.w, nh = r.h;
-    if (type === 'move') {
-      nx = clamp(r.x + dx, 0, 100 - r.w);
-      ny = clamp(r.y + dy, 0, 100 - r.h);
-    } else if (type === 'tl') {
-      const ex = clamp(r.x + dx, 0, r.x + r.w - MIN);
-      const ey = clamp(r.y + dy, 0, r.y + r.h - MIN);
-      nw = r.w + (r.x - ex); nh = r.h + (r.y - ey); nx = ex; ny = ey;
-    } else if (type === 'tr') {
-      const ey = clamp(r.y + dy, 0, r.y + r.h - MIN);
-      nw = clamp(r.w + dx, MIN, 100 - r.x); nh = r.h + (r.y - ey); ny = ey;
-    } else if (type === 'bl') {
-      const ex = clamp(r.x + dx, 0, r.x + r.w - MIN);
-      nw = r.w + (r.x - ex); nh = clamp(r.h + dy, MIN, 100 - r.y); nx = ex;
-    } else if (type === 'br') {
-      nw = clamp(r.w + dx, MIN, 100 - r.x);
-      nh = clamp(r.h + dy, MIN, 100 - r.y);
-    }
-    setRect({ x: nx, y: ny, w: nw, h: nh });
-  }
-
-  function onUp() { dragRef.current = null; }
 
   function handleConfirm() {
+    if (!imgSize) return;
+    const { w: nw, h: nh } = imgSize;
+    const px = Math.round(rect.x * nw);
+    const py = Math.round(rect.y * nh);
+    const pw = Math.round(rect.w * nw);
+    const ph = Math.round(rect.h * nh);
     const img = imgRef.current;
-    const container = containerRef.current;
-    if (!img || !container) return;
-    const naturalW = img.naturalWidth;
-    const naturalH = img.naturalHeight;
-    // Image is object-contain inside container — measure actual rendered bounds
-    const iRect = img.getBoundingClientRect();
-    const cRect = container.getBoundingClientRect();
-    // rect % is relative to container; convert to % of the actual image area
-    const imgOffX = iRect.left - cRect.left;
-    const imgOffY = iRect.top - cRect.top;
-    const imgDispW = iRect.width;
-    const imgDispH = iRect.height;
-    const absX = (rect.x / 100) * cRect.width - imgOffX;
-    const absY = (rect.y / 100) * cRect.height - imgOffY;
-    const absW = (rect.w / 100) * cRect.width;
-    const absH = (rect.h / 100) * cRect.height;
-    const scaleW = naturalW / imgDispW;
-    const scaleH = naturalH / imgDispH;
-    const px = Math.round(Math.max(0, absX) * scaleW);
-    const py = Math.round(Math.max(0, absY) * scaleH);
-    const pw = Math.round(Math.min(absW, imgDispW - Math.max(0, absX)) * scaleW);
-    const ph = Math.round(Math.min(absH, imgDispH - Math.max(0, absY)) * scaleH);
+    if (!img) return;
     const canvas = document.createElement('canvas');
     canvas.width = pw; canvas.height = ph;
-    const ctx = canvas.getContext('2d');
-    ctx.drawImage(img, px, py, pw, ph, 0, 0, pw, ph);
+    canvas.getContext('2d').drawImage(img, px, py, pw, ph, 0, 0, pw, ph);
     onConfirm(canvas.toDataURL('image/jpeg', 0.92));
   }
 
-  const handleStyle = 'absolute w-7 h-7 rounded-full bg-white border-2 border-[#1C2B6B] shadow-lg touch-none cursor-pointer';
+  const H = 'absolute w-8 h-8 rounded-full bg-white border-[3px] border-[#1C2B6B] shadow-lg cursor-pointer touch-none';
 
   return createPortal(
-    <div
-      className="fixed inset-0 z-[9998] flex flex-col"
-      style={{ background: '#000' }}
-      onMouseMove={onMove} onTouchMove={onMove}
-      onMouseUp={onUp} onTouchEnd={onUp}
-    >
+    <div className="fixed inset-0 z-[9998] flex flex-col select-none" style={{ background: '#000' }}>
       {/* Header */}
       <div className="flex items-center justify-between px-4 py-3 shrink-0">
-        <button onClick={onCancel} className="text-sm font-semibold text-white/60 hover:text-white">Abbrechen</button>
-        <span className="text-sm font-bold text-white">Zuschneiden</span>
-        <button onClick={handleConfirm} className="rounded-xl bg-[#1C2B6B] px-4 py-1.5 text-sm font-bold text-white">Fertig</button>
+        <button onClick={onCancel} className="text-sm font-semibold text-white/60">Abbrechen</button>
+        <span className="text-sm font-bold text-white">Display-Bereich auswählen</span>
+        <button onClick={handleConfirm} className="rounded-xl bg-[#1C2B6B] px-4 py-1.5 text-sm font-bold text-white">Fertig ✓</button>
       </div>
 
-      {/* Image + crop overlay */}
-      <div
-        ref={containerRef}
-        className="relative flex-1 overflow-hidden flex items-center justify-center"
-      >
-        <img
-          ref={imgRef}
-          src={src}
-          alt="crop"
-          className="max-w-full max-h-full object-contain select-none"
-          draggable={false}
-        />
+      {/* Image area */}
+      <div className="flex-1 flex items-center justify-center overflow-hidden p-2">
+        {imgSize && (
+          // Wrapper sized exactly to the image's aspect ratio — crop positions are % of this wrapper = % of image
+          <div
+            ref={wrapperRef}
+            style={{
+              position: 'relative',
+              aspectRatio: `${imgSize.w} / ${imgSize.h}`,
+              maxWidth: '100%',
+              maxHeight: '100%',
+            }}
+          >
+            <img
+              ref={imgRef}
+              src={src}
+              alt="crop"
+              style={{ width: '100%', height: '100%', display: 'block', userSelect: 'none' }}
+              draggable={false}
+            />
 
-        {/* Dark overlay — 4 quadrants around the crop rect */}
-        <div className="absolute inset-0 pointer-events-none" style={{
-          background: `linear-gradient(transparent, transparent)`,
-          boxShadow: 'none',
-        }}>
-          {/* top */}
-          <div className="absolute bg-black/55" style={{ top: 0, left: 0, right: 0, height: `${rect.y}%` }} />
-          {/* bottom */}
-          <div className="absolute bg-black/55" style={{ bottom: 0, left: 0, right: 0, top: `${rect.y + rect.h}%` }} />
-          {/* left */}
-          <div className="absolute bg-black/55" style={{ top: `${rect.y}%`, left: 0, width: `${rect.x}%`, height: `${rect.h}%` }} />
-          {/* right */}
-          <div className="absolute bg-black/55" style={{ top: `${rect.y}%`, left: `${rect.x + rect.w}%`, right: 0, height: `${rect.h}%` }} />
-        </div>
+            {/* Dark overlay — 4 sides */}
+            <div className="absolute inset-0 pointer-events-none">
+              <div className="absolute bg-black/60" style={{ top: 0, left: 0, right: 0, height: `${rect.y * 100}%` }} />
+              <div className="absolute bg-black/60" style={{ bottom: 0, left: 0, right: 0, top: `${(rect.y + rect.h) * 100}%` }} />
+              <div className="absolute bg-black/60" style={{ top: `${rect.y * 100}%`, left: 0, width: `${rect.x * 100}%`, height: `${rect.h * 100}%` }} />
+              <div className="absolute bg-black/60" style={{ top: `${rect.y * 100}%`, left: `${(rect.x + rect.w) * 100}%`, right: 0, height: `${rect.h * 100}%` }} />
+            </div>
 
-        {/* Crop rect border + drag */}
-        <div
-          className="absolute border-2 border-white/80 touch-none cursor-move"
-          style={{ left: `${rect.x}%`, top: `${rect.y}%`, width: `${rect.w}%`, height: `${rect.h}%` }}
-          onMouseDown={(e) => onPointerDown('move', e)}
-          onTouchStart={(e) => onPointerDown('move', e)}
-        >
-          {/* Grid lines */}
-          <div className="absolute inset-0 pointer-events-none" style={{
-            backgroundImage: 'linear-gradient(rgba(255,255,255,0.15) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,0.15) 1px,transparent 1px)',
-            backgroundSize: '33.33% 33.33%',
-          }} />
-        </div>
+            {/* Crop border */}
+            <div
+              className="absolute border-2 border-white cursor-move touch-none"
+              style={{ left: `${rect.x * 100}%`, top: `${rect.y * 100}%`, width: `${rect.w * 100}%`, height: `${rect.h * 100}%` }}
+              onPointerDown={(e) => startDrag('move', e)}
+            >
+              {/* Rule-of-thirds grid */}
+              <div className="absolute inset-0 pointer-events-none" style={{
+                backgroundImage: 'linear-gradient(rgba(255,255,255,0.2) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,0.2) 1px,transparent 1px)',
+                backgroundSize: '33.33% 33.33%',
+              }} />
+            </div>
 
-        {/* Corner handles */}
-        <div className={handleStyle} style={{ left: `calc(${rect.x}% - 14px)`, top: `calc(${rect.y}% - 14px)` }}
-          onMouseDown={(e) => onPointerDown('tl', e)} onTouchStart={(e) => onPointerDown('tl', e)} />
-        <div className={handleStyle} style={{ left: `calc(${rect.x + rect.w}% - 14px)`, top: `calc(${rect.y}% - 14px)` }}
-          onMouseDown={(e) => onPointerDown('tr', e)} onTouchStart={(e) => onPointerDown('tr', e)} />
-        <div className={handleStyle} style={{ left: `calc(${rect.x}% - 14px)`, top: `calc(${rect.y + rect.h}% - 14px)` }}
-          onMouseDown={(e) => onPointerDown('bl', e)} onTouchStart={(e) => onPointerDown('bl', e)} />
-        <div className={handleStyle} style={{ left: `calc(${rect.x + rect.w}% - 14px)`, top: `calc(${rect.y + rect.h}% - 14px)` }}
-          onMouseDown={(e) => onPointerDown('br', e)} onTouchStart={(e) => onPointerDown('br', e)} />
+            {/* Corner handles */}
+            <div className={H} style={{ left: `calc(${rect.x * 100}% - 16px)`, top: `calc(${rect.y * 100}% - 16px)` }} onPointerDown={(e) => startDrag('tl', e)} />
+            <div className={H} style={{ left: `calc(${(rect.x + rect.w) * 100}% - 16px)`, top: `calc(${rect.y * 100}% - 16px)` }} onPointerDown={(e) => startDrag('tr', e)} />
+            <div className={H} style={{ left: `calc(${rect.x * 100}% - 16px)`, top: `calc(${(rect.y + rect.h) * 100}% - 16px)` }} onPointerDown={(e) => startDrag('bl', e)} />
+            <div className={H} style={{ left: `calc(${(rect.x + rect.w) * 100}% - 16px)`, top: `calc(${(rect.y + rect.h) * 100}% - 16px)` }} onPointerDown={(e) => startDrag('br', e)} />
+          </div>
+        )}
       </div>
 
-      <div className="py-3 text-center text-[11px] text-white/30 shrink-0">Rahmen verschieben und Ecken ziehen</div>
+      <div className="py-2 text-center text-[11px] text-white/30 shrink-0">Box verschieben · Ecken ziehen zum Anpassen</div>
     </div>,
     document.body
   );
