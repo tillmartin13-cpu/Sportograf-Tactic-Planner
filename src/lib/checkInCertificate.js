@@ -1,5 +1,5 @@
 const W = 600;
-const H = 400;
+const H = 520;
 
 const COLORS = {
   navy: '#1C2B6B',
@@ -64,20 +64,12 @@ function drawRow(ctx, label, value, y, valueColor = COLORS.navy) {
   ctx.fillText(value, 180, y);
 }
 
-/**
- * @param {object} params
- * @param {{ id: string, name?: string, eventDate?: string }} params.event
- * @param {{ code: string, firstName?: string, lastName?: string }} params.photographer
- * @param {boolean} params.cameraOk
- * @param {string} params.checkedInAt ISO timestamp
- * @param {object} params.labels i18n strings
- * @param {string[]} [params.completedChecks] list of completed check labels
- * @param {string} [params.locale]
- */
 export async function generateCheckInCertificate({
   event,
   photographer,
   cameraOk,
+  cameraStatus,
+  cameraImageUrl,
   checkedInAt,
   labels,
   completedChecks = [],
@@ -194,6 +186,48 @@ export async function generateCheckInCertificate({
       ctx.fillStyle = COLORS.navy;
       ctx.fillText(label, cx + 18, cy + 9);
     });
+  }
+
+  // Camera check section
+  const camSectionY = rowY + (completedChecks.length > 0 ? Math.ceil(completedChecks.length / 2) * 22 + 16 : 16);
+  ctx.strokeStyle = COLORS.border;
+  ctx.lineWidth = 1;
+  ctx.beginPath();
+  ctx.moveTo(36, camSectionY);
+  ctx.lineTo(W - 36, camSectionY);
+  ctx.stroke();
+
+  const camLabelY = camSectionY + 18;
+  const camStatusIcon = cameraStatus === 'accepted' ? '✅' : cameraStatus === 'warning' ? '⚠️' : cameraStatus === 'forced' ? '🔧' : '❌';
+  const camStatusLabel = cameraStatus === 'accepted' ? 'Camera Check Passed' : cameraStatus === 'warning' ? 'Passed with Notes' : cameraStatus === 'forced' ? 'Manually Confirmed' : 'Not Passed';
+  const camStatusColor = (cameraStatus === 'accepted' || cameraStatus === 'forced') ? COLORS.green : cameraStatus === 'warning' ? '#92400e' : COLORS.red;
+
+  ctx.font = '700 12px system-ui, -apple-system, Segoe UI, sans-serif';
+  ctx.fillStyle = COLORS.muted;
+  ctx.textAlign = 'left';
+  ctx.fillText('CAMERA CHECK', 48, camLabelY);
+  ctx.font = '700 13px system-ui, -apple-system, Segoe UI, sans-serif';
+  ctx.fillStyle = camStatusColor;
+  ctx.fillText(`${camStatusIcon}  ${camStatusLabel}`, 48, camLabelY + 18);
+
+  if (cameraImageUrl) {
+    try {
+      const camImg = await loadImage(cameraImageUrl);
+      const maxImgH = H - 44 - (camLabelY + 36) - 8;
+      const maxImgW = W - 96;
+      const scale = Math.min(maxImgW / camImg.width, maxImgH / camImg.height, 1);
+      const iw = Math.round(camImg.width * scale);
+      const ih = Math.round(camImg.height * scale);
+      const ix = 48;
+      const iy = camLabelY + 36;
+      ctx.drawImage(camImg, ix, iy, iw, ih);
+      // subtle border around photo
+      ctx.strokeStyle = COLORS.border;
+      ctx.lineWidth = 1;
+      ctx.strokeRect(ix, iy, iw, ih);
+    } catch {
+      // image failed to load — skip
+    }
   }
 
   ctx.fillStyle = COLORS.bg;

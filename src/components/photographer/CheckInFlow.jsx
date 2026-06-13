@@ -40,7 +40,7 @@ export function CheckInFlow({ tacticId, cameraString }) {
   const settingsDone = steps.settings_confirmed;
   const batteryDone = steps.battery_checked;
   const cardDone = steps.card_formatted && (!requiresCardReader || steps.card_reader_packed);
-  const cameraDone = cameraResult?.status === 'accepted' || cameraResult?.status === 'warning';
+  const cameraDone = ['accepted', 'warning', 'forced'].includes(cameraResult?.status);
 
   const allDone = tutorialsDone && settingsDone && batteryDone && cardDone && cameraDone;
 

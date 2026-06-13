@@ -149,8 +149,9 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
         { image: compressed, mediaType: 'image/jpeg', cameraModel, expectedImageSize, expectedJpeg, language: lang },
         3,
       );
-      setResult(data);
-      if (onResult) onResult(data);
+      const dataWithImage = { ...data, imageDataUrl: imageData };
+      setResult(dataWithImage);
+      if (onResult) onResult(dataWithImage);
       if (data.status === 'accepted' && onAccepted) onAccepted();
     } catch (err) {
       const rawMsg = err?.message ?? 'unknown';
@@ -175,6 +176,13 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
   const accepted = result?.status === 'accepted';
   const declined = result?.status === 'declined';
   const hasWarning = result?.status === 'warning';
+  const forced = result?.status === 'forced';
+
+  function handleForceConfirm() {
+    const forcedResult = { ...result, status: 'forced', imageDataUrl: preview ?? result?.imageDataUrl };
+    setResult(forcedResult);
+    if (onResult) onResult(forcedResult);
+  }
 
   return (
     <div className="w-full">
@@ -257,20 +265,21 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
         <div className="space-y-3">
           {/* Status banner */}
           <div className={`rounded-xl p-4 border ${
-            accepted ? 'bg-green-50 border-green-300' :
+            accepted || forced ? 'bg-green-50 border-green-300' :
             hasWarning ? 'bg-amber-50 border-amber-300' :
             'bg-red-50 border-red-300'
           }`}>
             <div className="flex items-center gap-2 mb-1">
               <span className="text-2xl">
-                {accepted ? '✅' : hasWarning ? '⚠️' : '❌'}
+                {accepted ? '✅' : forced ? '🔧' : hasWarning ? '⚠️' : '❌'}
               </span>
               <span className={`font-bold text-base ${
-                accepted ? 'text-green-800' :
+                accepted || forced ? 'text-green-800' :
                 hasWarning ? 'text-amber-800' :
                 'text-red-800'
               }`}>
                 {accepted ? tr('cameraCheckPassed') :
+                 forced ? tr('cameraCheckForced') :
                  hasWarning ? tr('cameraCheckPassedWarnings') :
                  tr('cameraCheckFailed')}
               </span>
@@ -308,21 +317,31 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
           </div>
 
           {/* Actions */}
-          <div className="flex gap-2">
-            {(declined || result.uploadNewPhoto) && (
+          <div className="flex flex-col gap-2">
+            <div className="flex gap-2">
+              {(declined || result.uploadNewPhoto) && (
+                <button
+                  onClick={handleReset}
+                  className="flex-1 py-2 rounded-lg bg-[#1C2B6B] text-white text-sm font-semibold"
+                >
+                  {tr('cameraCheckUploadNew')}
+                </button>
+              )}
+              {(accepted || hasWarning || forced) && (
+                <button
+                  onClick={handleReset}
+                  className="flex-1 py-2 rounded-lg border border-gray-300 text-sm text-gray-600"
+                >
+                  {tr('cameraCheckReplacePhoto')}
+                </button>
+              )}
+            </div>
+            {declined && (
               <button
-                onClick={handleReset}
-                className="flex-1 py-2 rounded-lg bg-[#1C2B6B] text-white text-sm font-semibold"
+                onClick={handleForceConfirm}
+                className="w-full py-2 rounded-lg border border-amber-300 bg-amber-50 text-amber-800 text-xs font-semibold hover:bg-amber-100 active:scale-95 transition-transform"
               >
-                {tr('cameraCheckUploadNew')}
-              </button>
-            )}
-            {(accepted || hasWarning) && (
-              <button
-                onClick={handleReset}
-                className="flex-1 py-2 rounded-lg border border-gray-300 text-sm text-gray-600"
-              >
-                {tr('cameraCheckReplacePhoto')}
+                🔧 {tr('cameraCheckForceConfirm')}
               </button>
             )}
           </div>
