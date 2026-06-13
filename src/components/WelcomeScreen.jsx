@@ -95,6 +95,49 @@ const LAST_UPDATE = '12.06.2026';
 function ModulePicker({ onSelect, onSettings }) {
   const [hovered, setHovered] = useState(null);
 
+  // Shared panel content block
+  function PanelContent({ side }) {
+    const isTl = side === 'tl';
+    const icon = isTl ? (
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" className="h-6 w-6 sm:h-7 sm:w-7">
+        <path d="M9 5H7a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-2"/>
+        <rect x="9" y="3" width="6" height="4" rx="2"/>
+        <path d="M9 12h6M9 16h4"/>
+      </svg>
+    ) : (
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" className="h-6 w-6 sm:h-7 sm:w-7">
+        <path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"/>
+        <circle cx="12" cy="13" r="4"/>
+      </svg>
+    );
+
+    return (
+      <div className={`relative flex flex-col items-center gap-3 sm:gap-5 ${isTl ? 'sm:mr-[12%] sm:w-[38%]' : 'sm:ml-[12%] sm:w-[38%]'} w-[44%]`}>
+        <div className="flex h-11 w-11 sm:h-14 sm:w-14 items-center justify-center rounded-xl sm:rounded-2xl bg-white/10 backdrop-blur-sm">
+          {icon}
+        </div>
+        <div className="text-center">
+          <p className="text-[9px] sm:text-[10px] font-bold uppercase tracking-[0.2em] text-white/45">Module</p>
+          <h1 className="mt-1 text-xl sm:text-3xl lg:text-5xl font-black leading-tight text-white">
+            {isTl ? <><span>Team</span><br /><span>Leader</span></> : <><span>Photo-</span><br /><span>grapher</span></>}
+          </h1>
+        </div>
+        <p className="hidden sm:block text-center text-sm leading-relaxed text-white/55 max-w-[180px]">
+          {isTl ? 'Spots, photographers, routes & team tactics.' : 'Your spots, route & weather in one view.'}
+        </p>
+        <div
+          className="flex items-center gap-1.5 rounded-full border border-white/20 bg-white/10 px-4 py-2 sm:px-5 sm:py-2.5 text-xs sm:text-sm font-bold text-white transition-all duration-200"
+          style={{ transform: hovered === side || (side === 'tl' && hovered === 'tl') || (side === 'photo' && hovered === 'photo') ? 'translateX(4px)' : 'translateX(0)' }}
+        >
+          Open
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className="h-3 w-3 sm:h-3.5 sm:w-3.5">
+            <path d="M5 12h14M12 5l7 7-7 7"/>
+          </svg>
+        </div>
+      </div>
+    );
+  }
+
   return (
     <div className="relative flex h-[100dvh] w-full overflow-hidden select-none">
       {/* ── Decorative speed lines ── */}
@@ -110,7 +153,7 @@ function ModulePicker({ onSelect, onSettings }) {
         onClick={() => onSelect('tl')}
         onMouseEnter={() => setHovered('tl')}
         onMouseLeave={() => setHovered(null)}
-        className="relative z-10 flex flex-1 flex-col items-center justify-center pb-10 transition-all duration-400 outline-none"
+        className="relative z-10 flex flex-1 flex-col items-center justify-end pb-[18%] sm:justify-center sm:pb-10 transition-all duration-400 outline-none"
         style={{
           background: '#293377',
           clipPath: 'polygon(0 0, 100% 0, calc(100% - 6vw) 100%, 0 100%)',
@@ -121,38 +164,7 @@ function ModulePicker({ onSelect, onSettings }) {
       >
         <div className="pointer-events-none absolute inset-0 transition-opacity duration-300"
           style={{ background: 'radial-gradient(ellipse at 35% 50%, rgba(255,255,255,0.08) 0%, transparent 65%)', opacity: hovered === 'tl' ? 1 : 0 }} />
-
-        {/* Content — centered in left quarter of the screen */}
-        <div className="relative flex flex-col items-center gap-5" style={{ width: '38%', marginRight: '12%' }}>
-          <div className="flex h-14 w-14 items-center justify-center rounded-2xl bg-white/10 backdrop-blur-sm">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" className="h-7 w-7">
-              <path d="M9 5H7a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-2"/>
-              <rect x="9" y="3" width="6" height="4" rx="2"/>
-              <path d="M9 12h6M9 16h4"/>
-            </svg>
-          </div>
-
-          <div className="text-center">
-            <p className="text-[10px] font-bold uppercase tracking-[0.2em] text-white/45">Module</p>
-            <h1 className="mt-1.5 text-3xl font-black leading-tight text-white sm:text-4xl lg:text-5xl">
-              Team<br />Leader
-            </h1>
-          </div>
-
-          <p className="text-center text-sm leading-relaxed text-white/55 max-w-[180px]">
-            Spots, photographers, routes & team tactics.
-          </p>
-
-          <div
-            className="flex items-center gap-2 rounded-full border border-white/20 bg-white/10 px-5 py-2.5 text-sm font-bold text-white transition-all duration-200"
-            style={{ transform: hovered === 'tl' ? 'translateX(4px)' : 'translateX(0)' }}
-          >
-            Open
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className="h-3.5 w-3.5">
-              <path d="M5 12h14M12 5l7 7-7 7"/>
-            </svg>
-          </div>
-        </div>
+        <PanelContent side="tl" />
       </button>
 
       {/* ── Right panel (Photographer / red) ── */}
@@ -161,7 +173,7 @@ function ModulePicker({ onSelect, onSettings }) {
         onClick={() => onSelect('photographer')}
         onMouseEnter={() => setHovered('photo')}
         onMouseLeave={() => setHovered(null)}
-        className="relative z-10 flex flex-1 flex-col items-center justify-center pb-10 transition-all duration-400 outline-none"
+        className="relative z-10 flex flex-1 flex-col items-center justify-end pb-[18%] sm:justify-center sm:pb-10 transition-all duration-400 outline-none"
         style={{
           background: '#cc1336',
           clipPath: 'polygon(6vw 0, 100% 0, 100% 100%, 0 100%)',
@@ -173,48 +185,19 @@ function ModulePicker({ onSelect, onSettings }) {
       >
         <div className="pointer-events-none absolute inset-0 transition-opacity duration-300"
           style={{ background: 'radial-gradient(ellipse at 65% 50%, rgba(255,255,255,0.08) 0%, transparent 65%)', opacity: hovered === 'photo' ? 1 : 0 }} />
-
-        {/* Content — centered in right quarter of the screen */}
-        <div className="relative flex flex-col items-center gap-5" style={{ width: '38%', marginLeft: '12%' }}>
-          <div className="flex h-14 w-14 items-center justify-center rounded-2xl bg-white/10 backdrop-blur-sm">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" className="h-7 w-7">
-              <path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"/>
-              <circle cx="12" cy="13" r="4"/>
-            </svg>
-          </div>
-
-          <div className="text-center">
-            <p className="text-[10px] font-bold uppercase tracking-[0.2em] text-white/45">Module</p>
-            <h1 className="mt-1.5 text-3xl font-black leading-tight text-white sm:text-4xl lg:text-5xl">
-              Photo&shy;grapher
-            </h1>
-          </div>
-
-          <p className="text-center text-sm leading-relaxed text-white/55 max-w-[180px]">
-            Your spots, route & weather in one view.
-          </p>
-
-          <div
-            className="flex items-center gap-2 rounded-full border border-white/20 bg-white/10 px-5 py-2.5 text-sm font-bold text-white transition-all duration-200"
-            style={{ transform: hovered === 'photo' ? 'translateX(4px)' : 'translateX(0)' }}
-          >
-            Open
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className="h-3.5 w-3.5">
-              <path d="M5 12h14M12 5l7 7-7 7"/>
-            </svg>
-          </div>
-        </div>
+        <PanelContent side="photo" />
       </button>
 
-      {/* ── Mascot centered over the split ── */}
-      <div className="pointer-events-none absolute inset-0 z-20 flex items-center justify-center pb-10">
+      {/* ── Mascot: top-center on mobile, center on desktop ── */}
+      <div className="pointer-events-none absolute z-20 left-1/2 -translate-x-1/2
+        top-[10%] sm:top-1/2 sm:-translate-y-1/2 sm:translate-x-[-50%]">
         <img
           src="/mascot.png"
           alt=""
           className="transition-transform duration-300"
           style={{
-            width: 'clamp(120px, 14vw, 200px)',
-            filter: 'drop-shadow(0 4px 28px rgba(0,0,0,0.35))',
+            width: 'clamp(80px, 20vw, 200px)',
+            filter: 'drop-shadow(0 4px 20px rgba(0,0,0,0.4))',
             transform: hovered === 'tl' ? 'translateX(-8px) scale(1.05)' : hovered === 'photo' ? 'translateX(8px) scale(1.05)' : 'scale(1)',
           }}
         />
