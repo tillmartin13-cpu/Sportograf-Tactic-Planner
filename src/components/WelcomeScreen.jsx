@@ -96,8 +96,8 @@ function DeleteConfirmModal({ eventName, onConfirm, onCancel }) {
 
 // ─── Module picker (fullscreen hero) ─────────────────────────────────────────
 
-const APP_VERSION = '1.0.0';
-const LAST_UPDATE = '12.06.2026';
+const APP_VERSION = '1.1.0';
+const LAST_UPDATE = '13.06.2026';
 
 function ModulePicker({ onSelect, onSettings }) {
   const [hovered, setHovered] = useState(null);
@@ -199,9 +199,7 @@ function ModulePicker({ onSelect, onSettings }) {
 
         {/* header */}
         <div className="flex flex-col items-center pt-14 pb-6 px-6">
-          <img src="/mascot.png" alt="" className="h-16 w-auto mb-4" style={{ filter: 'drop-shadow(0 4px 16px rgba(0,0,0,0.5))' }} />
-          <p className="text-[10px] font-bold uppercase tracking-[0.25em] text-white/30">Sportograf</p>
-          <h1 className="mt-1 text-2xl font-black text-white">Tactic Tool</h1>
+          <img src="/mascot.png" alt="" className="h-20 w-auto" style={{ filter: 'drop-shadow(0 4px 16px rgba(0,0,0,0.5))' }} />
         </div>
 
         {/* cards */}
