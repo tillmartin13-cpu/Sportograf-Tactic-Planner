@@ -280,6 +280,8 @@ function SpotCard({ spot, index }) {
                     src={img.data}
                     alt={img.name || `ref-${idx}`}
                     className="h-24 w-24 rounded-xl object-cover border border-gray-200 active:opacity-80"
+                    loading="lazy"
+                    decoding="async"
                   />
                 </button>
               ))}

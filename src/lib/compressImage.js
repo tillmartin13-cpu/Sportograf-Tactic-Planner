@@ -2,7 +2,9 @@ const MAX_REF_IMAGES = 4;
 
 export { MAX_REF_IMAGES };
 
-export function compressImageFile(file, maxDim = 1400, maxChars = 380000) {
+// maxDim: 800px is plenty for a phone lightbox (375px screen × 2x retina = 750px)
+// maxChars: ~112KB binary — fast to load, looks great at any displayed size
+export function compressImageFile(file, maxDim = 800, maxChars = 150000) {
   return new Promise((resolve, reject) => {
     const reader = new FileReader();
     reader.onload = (ev) => {
@@ -28,9 +30,9 @@ export function compressImageFile(file, maxDim = 1400, maxChars = 380000) {
         ctx.imageSmoothingEnabled = true;
         ctx.imageSmoothingQuality = 'high';
         ctx.drawImage(img, 0, 0, w, h);
-        let q = 0.86;
+        let q = 0.82;
         let data = canvas.toDataURL('image/jpeg', q);
-        while (data.length > maxChars && q >= 0.52) {
+        while (data.length > maxChars && q >= 0.4) {
           q -= 0.06;
           data = canvas.toDataURL('image/jpeg', q);
         }
