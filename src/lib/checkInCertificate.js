@@ -1,5 +1,6 @@
-const W = 600;
-const H = 520;
+const SCALE = 2; // 2× for crisp sharing
+const W = 600 * SCALE;
+const H = 520 * SCALE;
 
 const COLORS = {
   navy: '#1C2B6B',
@@ -80,6 +81,7 @@ export async function generateCheckInCertificate({
   canvas.height = H;
   const ctx = canvas.getContext('2d');
   if (!ctx) throw new Error('Canvas not supported');
+  ctx.scale(SCALE, SCALE);
 
   ctx.fillStyle = COLORS.white;
   ctx.fillRect(0, 0, W, H);
@@ -263,10 +265,21 @@ export function downloadCertificateBlob(blob, filename) {
   URL.revokeObjectURL(url);
 }
 
-export async function shareCertificateBlob(blob, filename, title) {
-  const file = new File([blob], filename, { type: 'image/png' });
-  if (navigator.share && navigator.canShare?.({ files: [file] })) {
-    await navigator.share({ files: [file], title });
+export async function shareCertificateBlob(blob, filename, title, cameraImageDataUrl) {
+  const certFile = new File([blob], filename, { type: 'image/png' });
+  const files = [certFile];
+
+  if (cameraImageDataUrl) {
+    try {
+      const res = await fetch(cameraImageDataUrl);
+      const camBlob = await res.blob();
+      const ext = camBlob.type.includes('png') ? 'png' : 'jpg';
+      files.push(new File([camBlob], filename.replace('.png', `_camera.${ext}`), { type: camBlob.type }));
+    } catch { /* skip camera image if fetch fails */ }
+  }
+
+  if (navigator.share && navigator.canShare?.({ files })) {
+    await navigator.share({ files, title });
     return true;
   }
   return false;

@@ -1087,6 +1087,129 @@ function HyroxSection({ pkg, acronym, photographers }) {
   );
 }
 
+// ─── Certificate button + modal ───────────────────────────────────────────────
+
+const CAM_STATUS_META = {
+  accepted: { icon: '✅', label: 'Passed',             color: '#166534', bg: '#f0fdf4', border: '#bbf7d0' },
+  warning:  { icon: '⚠️', label: 'Passed with notes',  color: '#92400e', bg: '#fffbeb', border: '#fde68a' },
+  forced:   { icon: '🔧', label: 'Manually confirmed', color: '#1e40af', bg: '#eff6ff', border: '#bfdbfe' },
+  declined: { icon: '❌', label: 'Not passed',          color: '#991b1b', bg: '#fff5f5', border: '#fecaca' },
+};
+
+const CHECK_ICONS = { ok: '✅', warning: '⚠️', failed: '❌', unreadable: '—' };
+const CHECK_LABELS = {
+  time: 'Camera time', date: 'Date', format: 'File format',
+  shutterSpeed: 'Shutter speed', cardImages: 'Memory card', pictureStyle: 'Picture style',
+};
+
+function CertificateButton({ event, photographer, cameraOk, cameraStatus, cameraImageUrl, cameraResult, checkedInAt, completedChecks }) {
+  const [open, setOpen] = useState(false);
+  const meta = CAM_STATUS_META[cameraStatus] ?? CAM_STATUS_META.declined;
+
+  return (
+    <>
+      <button
+        type="button"
+        onClick={() => setOpen(true)}
+        className="flex w-full items-center gap-3 rounded-2xl border border-[#bbf7d0] bg-[#f0fdf4] px-4 py-3 text-left transition-colors hover:bg-[#dcfce7]"
+      >
+        <span className="text-xl">📋</span>
+        <div className="flex-1 min-w-0">
+          <div className="text-sm font-extrabold text-[#166534]">Check-in Zertifikat</div>
+          <div className="text-[11px] text-[#4b7a5c]">Erstellt · Tippe zum Anzeigen & Teilen</div>
+        </div>
+        <span className="text-lg">✅</span>
+      </button>
+
+      {open && createPortal(
+        <div className="fixed inset-0 z-[9500] flex flex-col bg-[#f4f5f8]">
+          {/* Header */}
+          <div className="flex items-center justify-between bg-[#1C2B6B] px-4 py-3 shrink-0">
+            <span className="text-sm font-extrabold text-white">Check-in Zertifikat</span>
+            <button type="button" onClick={() => setOpen(false)} className="rounded-lg p-1.5 text-white/60 hover:bg-white/10 hover:text-white">
+              <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+            </button>
+          </div>
+
+          <div className="flex-1 overflow-y-auto p-4 space-y-4">
+            {/* Certificate card */}
+            <CheckInCertificateCard
+              event={event}
+              photographer={photographer}
+              cameraOk={cameraOk}
+              cameraStatus={cameraStatus}
+              cameraImageUrl={cameraImageUrl}
+              checkedInAt={checkedInAt}
+              completedChecks={completedChecks}
+              extraShareFile={cameraImageUrl}
+            />
+
+            {/* Camera check image — full res */}
+            {cameraImageUrl && (
+              <div className="rounded-2xl border border-[#e3e7f2] bg-white overflow-hidden">
+                <div className="border-b border-[#f0f2fa] bg-[#f4f5fa] px-4 py-3">
+                  <div className="text-xs font-extrabold text-[#1C2B6B]">📷 Kamerabild (Original)</div>
+                  <div className="text-[10px] text-[#8a93b0] mt-0.5">Der TL kann hier die Einstellungen prüfen</div>
+                </div>
+                <img src={cameraImageUrl} alt="Camera check" className="w-full" style={{ imageRendering: 'high-quality' }} />
+              </div>
+            )}
+
+            {/* Camera check detail result */}
+            {cameraResult?.details && (
+              <div className="rounded-2xl border border-[#e3e7f2] bg-white overflow-hidden">
+                <div className="border-b border-[#f0f2fa] bg-[#f4f5fa] px-4 py-3 flex items-center gap-2">
+                  <span>{meta.icon}</span>
+                  <div className="flex-1">
+                    <div className="text-xs font-extrabold text-[#1C2B6B]">KI-Kameraprüfung — Detailergebnis</div>
+                    <div className="text-[10px] mt-0.5 font-semibold" style={{ color: meta.color }}>{meta.label}</div>
+                  </div>
+                </div>
+                <div className="divide-y divide-[#f0f2fa]">
+                  {Object.entries(cameraResult.details).map(([key, val]) => {
+                    if (!val) return null;
+                    const icon = CHECK_ICONS[val.status] ?? '—';
+                    const color = val.status === 'ok' ? '#166534' : val.status === 'warning' ? '#92400e' : val.status === 'failed' ? '#991b1b' : '#8a93b0';
+                    return (
+                      <div key={key} className="flex items-start gap-3 px-4 py-3">
+                        <span className="mt-0.5 text-base leading-none">{icon}</span>
+                        <div className="flex-1 min-w-0">
+                          <div className="text-[11px] font-bold text-[#1C2B6B]">{CHECK_LABELS[key] ?? key}</div>
+                          {val.detected != null && (
+                            <div className="text-xs font-extrabold mt-0.5" style={{ color }}>{String(val.detected)}</div>
+                          )}
+                          {val.message && (
+                            <div className="text-[10px] text-[#8a93b0] mt-0.5 leading-relaxed">{val.message}</div>
+                          )}
+                        </div>
+                      </div>
+                    );
+                  })}
+                </div>
+                {cameraResult.warnings?.length > 0 && (
+                  <div className="border-t border-[#fde68a] bg-[#fffbeb] px-4 py-3 space-y-1">
+                    {cameraResult.warnings.map((w, i) => (
+                      <div key={i} className="text-[11px] text-[#92400e]">⚠️ {w}</div>
+                    ))}
+                  </div>
+                )}
+                {cameraResult.declineReasons?.length > 0 && (
+                  <div className="border-t border-[#fecaca] bg-[#fff5f5] px-4 py-3 space-y-1">
+                    {cameraResult.declineReasons.map((r, i) => (
+                      <div key={i} className="text-[11px] text-[#991b1b]">❌ {r}</div>
+                    ))}
+                  </div>
+                )}
+              </div>
+            )}
+          </div>
+        </div>,
+        document.body
+      )}
+    </>
+  );
+}
+
 // ─── Main view ────────────────────────────────────────────────────────────────
 
 export function TacticDetail({ onOpenCheckIn }) {
@@ -1171,7 +1294,7 @@ export function TacticDetail({ onOpenCheckIn }) {
         </button>
       </div>
 
-      {/* Certificate — shown when check-in is complete */}
+      {/* Certificate button — compact, opens modal */}
       {isComplete && (() => {
         const steps = checkIn?.steps ?? {};
         const cameraResult = checkIn?.cameraCheckResult;
@@ -1186,12 +1309,13 @@ export function TacticDetail({ onOpenCheckIn }) {
         ];
         const completedChecks = checks.filter((c) => c.done).map((c) => c.label);
         return (
-          <CheckInCertificateCard
+          <CertificateButton
             event={{ id: event?.id, name: event?.name, eventDate: event?.date }}
             photographer={{ code: acronym, firstName: profile?.firstName, lastName: profile?.lastName }}
             cameraOk={['accepted', 'warning', 'forced'].includes(cameraResult?.status)}
             cameraStatus={cameraResult?.status}
             cameraImageUrl={cameraResult?.imageDataUrl}
+            cameraResult={cameraResult}
             checkedInAt={checkIn.completedAt}
             completedChecks={completedChecks}
           />

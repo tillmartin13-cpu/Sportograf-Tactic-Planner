@@ -11,7 +11,7 @@ import { t as translate } from '../i18n/messages';
 
 const LOCALE_MAP = { en: 'en-GB', de: 'de-DE', es: 'es-ES', it: 'it-IT' };
 
-export function CheckInCertificateCard({ event, photographer, cameraOk, cameraStatus, cameraImageUrl, checkedInAt, completedChecks = [], onClose }) {
+export function CheckInCertificateCard({ event, photographer, cameraOk, cameraStatus, cameraImageUrl, checkedInAt, completedChecks = [], onClose, extraShareFile }) {
   const { t, language } = useTranslation();
   const showToast = usePlannerStore((s) => s.showToast);
   const [previewUrl, setPreviewUrl] = useState(null);
@@ -75,7 +75,7 @@ export function CheckInCertificateCard({ event, photographer, cameraOk, cameraSt
     if (!blob) return;
     setSharing(true);
     try {
-      const shared = await shareCertificateBlob(blob, filename, t('checkInCertTitle'));
+      const shared = await shareCertificateBlob(blob, filename, t('checkInCertTitle'), extraShareFile);
       if (!shared) {
         downloadCertificateBlob(blob, filename);
         showToast(t('checkInCertDownloaded'));
