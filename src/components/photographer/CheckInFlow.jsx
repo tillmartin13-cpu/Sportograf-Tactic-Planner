@@ -84,6 +84,7 @@ function formatInTz(date, tz) {
 // ─── Fullscreen atomic clock overlay ─────────────────────────────────────────
 
 function AtomClockOverlay({ onClose, photographerCode, cameraLabel, displayTz }) {
+  const { t } = usePhTranslation();
   const { now, synced, syncError, tz: deviceTz } = useNtpClock();
 
   const activeTz = displayTz || deviceTz;
@@ -132,7 +133,7 @@ function AtomClockOverlay({ onClose, photographerCode, cameraLabel, displayTz })
           {travelMode && (
             <div className="flex items-center gap-1 rounded-full bg-amber-400/20 px-2 py-0.5">
               <span style={{ fontSize: 10 }}>✈</span>
-              <span className="text-[10px] font-bold text-amber-300 tracking-wide">TRAVEL MODE</span>
+              <span className="text-[10px] font-bold text-amber-300 tracking-wide">{t('travelModeBadge')}</span>
             </div>
           )}
           <div
@@ -147,9 +148,9 @@ function AtomClockOverlay({ onClose, photographerCode, cameraLabel, displayTz })
           {synced ? (
             <><span className="h-1.5 w-1.5 rounded-full bg-green-400" /><span className="text-[10px] font-bold text-green-400">NTP sync · TimeAPI.io</span></>
           ) : syncError ? (
-            <><span className="h-1.5 w-1.5 rounded-full bg-yellow-400" /><span className="text-[10px] font-bold text-yellow-400">Gerätezeit</span></>
+            <><span className="h-1.5 w-1.5 rounded-full bg-yellow-400" /><span className="text-[10px] font-bold text-yellow-400">{t('ntpDeviceTime')}</span></>
           ) : (
-            <><span className="h-1.5 w-1.5 animate-pulse rounded-full bg-white/30" /><span className="text-[11px] text-white/30">Synchronisiere…</span></>
+            <><span className="h-1.5 w-1.5 animate-pulse rounded-full bg-white/30" /><span className="text-[11px] text-white/30">{t('ntpSyncing')}</span></>
           )}
         </div>
 
@@ -165,7 +166,7 @@ function AtomClockOverlay({ onClose, photographerCode, cameraLabel, displayTz })
 
       {/* Tap to close hint */}
       <div className="absolute bottom-8 text-[11px] text-white/20 tracking-widest uppercase">
-        Tippen zum Schließen
+        {t('tapToClose')}
       </div>
     </div>,
     document.body
@@ -175,6 +176,7 @@ function AtomClockOverlay({ onClose, photographerCode, cameraLabel, displayTz })
 // ─── Button shown in step 5 ───────────────────────────────────────────────────
 
 function LiveClock({ eventDate, cameras, photographerCode }) {
+  const { t } = usePhTranslation();
   const [open, setOpen] = useState(false);
   const [selectedCamera, setSelectedCamera] = useState('');
   const [otherText, setOtherText] = useState('');
@@ -211,7 +213,7 @@ function LiveClock({ eventDate, cameras, photographerCode }) {
       {/* Camera selector */}
       <div className="mb-2 space-y-2">
         <div className="flex items-center gap-2">
-          <span className="text-xs font-bold text-gray-500 shrink-0">Kamera:</span>
+          <span className="text-xs font-bold text-gray-500 shrink-0">{t('timeCheckCameraLabel')}</span>
           <select
             value={selectedCamera || (cameraOptions[0] ?? '__other__')}
             onChange={(e) => setSelectedCamera(e.target.value)}
@@ -220,7 +222,7 @@ function LiveClock({ eventDate, cameras, photographerCode }) {
             {cameraOptions.map((opt) => (
               <option key={opt} value={opt}>{opt}</option>
             ))}
-            <option value="__other__">Andere / Other…</option>
+            <option value="__other__">{t('timeCheckOtherOption')}</option>
           </select>
         </div>
         {(selectedCamera === '__other__' || (!hasMultiple && cameraOptions.length === 0)) && (
@@ -228,7 +230,7 @@ function LiveClock({ eventDate, cameras, photographerCode }) {
             type="text"
             value={otherText}
             onChange={(e) => setOtherText(e.target.value)}
-            placeholder="Kamerabezeichnung eingeben…"
+            placeholder={t('timeCheckOtherPlaceholder')}
             className="w-full rounded-xl border border-gray-200 px-3 py-2 text-sm text-gray-800 focus:outline-none focus:border-[#1C2B6B]"
           />
         )}
@@ -243,8 +245,8 @@ function LiveClock({ eventDate, cameras, photographerCode }) {
         >
           <span className="text-base leading-none">✈️</span>
           <div className="flex-1 text-left">
-            <span className="text-sm font-bold text-gray-800">Travel Mode</span>
-            <span className="ml-2 text-[10px] text-gray-400">andere Zeitzone</span>
+            <span className="text-sm font-bold text-gray-800">{t('travelModeLabel')}</span>
+            <span className="ml-2 text-[10px] text-gray-400">{t('travelModeSubLabel')}</span>
           </div>
           <div className={`relative h-5 w-9 rounded-full transition-colors ${travelMode ? 'bg-[#1C2B6B]' : 'bg-gray-300'}`}>
             <div className={`absolute top-0.5 h-4 w-4 rounded-full bg-white shadow transition-transform ${travelMode ? 'translate-x-4' : 'translate-x-0.5'}`} />
@@ -407,14 +409,14 @@ export function CheckInFlow({ tacticId, cameraString, eventDate, photographerCod
                 <div key={i} className="rounded-xl bg-[#f0f2fa] p-3 text-sm space-y-1">
                   <div className="font-bold text-[#1C2B6B]">{s.brand} {s.model}</div>
                   <div className="text-gray-600">
-                    Image Size: <strong>{mainSize.trim()}</strong>
+                    {t('camSettingImageSize')} <strong>{mainSize.trim()}</strong>
                     {cropInfo && <span className="text-gray-400 font-normal"> · {cropInfo}</span>}
                   </div>
-                  <div className="text-gray-600">JPEG Quality: <strong>{s.jpeg}</strong></div>
-                  <div className="text-gray-600">Shutter Speed: <strong>1/1000s</strong></div>
-                  <div className="text-gray-600">Autofocus: <strong>Continuous AF</strong></div>
-                  <div className="text-gray-600">White Balance: <strong>AWB</strong> <span className="text-gray-400 font-normal">(Auto)</span></div>
-                  <div className="text-gray-600">Picture Style: <strong>Neutral</strong> <span className="text-gray-400 font-normal">— kein extra Kontrast, Sättigung, Schärfe</span></div>
+                  <div className="text-gray-600">{t('camSettingJpeg')} <strong>{s.jpeg}</strong></div>
+                  <div className="text-gray-600">{t('camSettingShutter')} <strong>1/1000s</strong></div>
+                  <div className="text-gray-600">{t('camSettingAF')} <strong>{t('camSettingContinuousAF')}</strong></div>
+                  <div className="text-gray-600">{t('camSettingWB')} <strong>{t('camSettingAWB')}</strong> <span className="text-gray-400 font-normal">({t('camSettingAuto')})</span></div>
+                  <div className="text-gray-600">{t('camSettingPictureStyle')} <strong>{t('camSettingNeutral')}</strong> <span className="text-gray-400 font-normal">— {t('camSettingNeutralDetail')}</span></div>
                 </div>
               );
             })}

@@ -31,7 +31,7 @@ function CheckRow({ label, check }) {
 
 // ─── Crop Tool ────────────────────────────────────────────────────────────────
 
-function CropTool({ src, onConfirm, onCancel }) {
+function CropTool({ src, onConfirm, onCancel, tr }) {
   const wrapperRef = useRef(null);
   const imgRef = useRef(null);
   const [imgSize, setImgSize] = useState(null); // { w, h } natural dimensions
@@ -135,9 +135,9 @@ function CropTool({ src, onConfirm, onCancel }) {
       {/* Header — pushed below iOS status bar */}
       <div className="flex items-center justify-between px-4 py-3 shrink-0"
         style={{ paddingTop: 'max(12px, env(safe-area-inset-top))' }}>
-        <button onClick={onCancel} className="text-sm font-semibold text-white/60 px-2 py-2">Abbrechen</button>
-        <span className="text-sm font-bold text-white">Display-Bereich auswählen</span>
-        <button onClick={handleConfirm} className="rounded-xl bg-[#1C2B6B] px-4 py-2 text-sm font-bold text-white">Fertig ✓</button>
+        <button onClick={onCancel} className="text-sm font-semibold text-white/60 px-2 py-2">{tr('cropCancel')}</button>
+        <span className="text-sm font-bold text-white">{tr('cropSelectArea')}</span>
+        <button onClick={handleConfirm} className="rounded-xl bg-[#1C2B6B] px-4 py-2 text-sm font-bold text-white">{tr('cropDone')}</button>
       </div>
 
       {/* Image area */}
@@ -193,7 +193,7 @@ function CropTool({ src, onConfirm, onCancel }) {
         )}
       </div>
 
-      <div className="py-2 text-center text-[11px] text-white/30 shrink-0">Box verschieben · Ecken ziehen zum Anpassen</div>
+      <div className="py-2 text-center text-[11px] text-white/30 shrink-0">{tr('cropHint')}</div>
     </div>,
     document.body
   );
@@ -387,6 +387,7 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
       {showCrop && preview && (
         <CropTool
           src={preview}
+          tr={tr}
           onConfirm={(cropped) => {
             setPreview(cropped);
             setImageData(cropped);
@@ -423,7 +424,7 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
                   <polyline points="6 2 6 6 2 6"/><polyline points="18 22 18 18 22 18"/>
                   <rect x="6" y="6" width="12" height="12" rx="1"/>
                 </svg>
-                Zuschneiden
+                {tr('cropButton')}
               </button>
               <button onClick={handleSubmit}
                 className="flex-[1.5] rounded-2xl bg-[#1C2B6B] py-3 text-sm font-bold text-white hover:bg-[#16225a] active:scale-95 transition-transform">
@@ -549,24 +550,23 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
         <div className="fixed inset-0 z-[9999] flex items-center justify-center bg-black/60 p-4">
           <div className="bg-white rounded-2xl shadow-xl max-w-sm w-full p-6">
             <div className="text-3xl mb-3 text-center">⚠️</div>
-            <h3 className="text-base font-bold text-red-800 mb-3 text-center">Kamera-Check manuell bestätigen</h3>
+            <h3 className="text-base font-bold text-red-800 mb-3 text-center">{tr('forceConfirmTitle')}</h3>
             <p className="text-sm text-gray-700 leading-relaxed mb-5">
-              Ich bestätige, dass ich meine Kamera korrekt eingestellt habe und die Hinweise ignoriert werden können.
-              Wenn es aufgrund falscher Kameraeinstellungen zu Problemen im Workflow kommt,
-              <strong> besteht die Möglichkeit, dass das Honorar reduziert wird.</strong>
+              {tr('forceConfirmBody')}
+              <strong> {tr('forceConfirmBodyBold')}</strong>
             </p>
             <div className="flex flex-col gap-2">
               <button
                 onClick={handleForceConfirm}
                 className="w-full py-3 rounded-xl bg-red-600 text-white text-sm font-bold hover:bg-red-700 active:scale-95 transition-transform"
               >
-                Ich bestätige — trotzdem fortfahren
+                {tr('forceConfirmBtn')}
               </button>
               <button
                 onClick={() => setShowForceDialog(false)}
                 className="w-full py-3 rounded-xl border border-gray-300 text-sm font-semibold text-gray-600 hover:bg-gray-50 active:scale-95 transition-transform"
               >
-                Abbrechen — neues Foto machen
+                {tr('forceConfirmCancel')}
               </button>
             </div>
           </div>
