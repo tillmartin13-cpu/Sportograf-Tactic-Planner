@@ -132,11 +132,12 @@ function CropTool({ src, onConfirm, onCancel }) {
 
   return createPortal(
     <div className="fixed inset-0 z-[9998] flex flex-col select-none" style={{ background: '#000' }}>
-      {/* Header */}
-      <div className="flex items-center justify-between px-4 py-3 shrink-0">
-        <button onClick={onCancel} className="text-sm font-semibold text-white/60">Abbrechen</button>
+      {/* Header — pushed below iOS status bar */}
+      <div className="flex items-center justify-between px-4 py-3 shrink-0"
+        style={{ paddingTop: 'max(12px, env(safe-area-inset-top))' }}>
+        <button onClick={onCancel} className="text-sm font-semibold text-white/60 px-2 py-2">Abbrechen</button>
         <span className="text-sm font-bold text-white">Display-Bereich auswählen</span>
-        <button onClick={handleConfirm} className="rounded-xl bg-[#1C2B6B] px-4 py-1.5 text-sm font-bold text-white">Fertig ✓</button>
+        <button onClick={handleConfirm} className="rounded-xl bg-[#1C2B6B] px-4 py-2 text-sm font-bold text-white">Fertig ✓</button>
       </div>
 
       {/* Image area */}
