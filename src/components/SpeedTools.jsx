@@ -172,21 +172,46 @@ function UploadGauge({ mbps }) {
   );
 }
 
+// 4 phases: latency (0→25%), small upload (25→50%), medium (50→75%), large (75→100%)
+const PHASES = ['Checking latency…', 'Warming up…', 'Measuring upload…', 'Final measurement…'];
+
 function ConnectionTest({ onUploadResult }) {
   const [status, setStatus] = useState(STATUS.idle);
   const [results, setResults] = useState(null);
   const [liveUpload, setLiveUpload] = useState(null);
   const [latency, setLatency] = useState(null);
+  const [progress, setProgress] = useState(0); // 0–100
+  const [phaseIdx, setPhaseIdx] = useState(0);
+  const progressRef = useRef(null);
+
+  // Simulate smooth progress during test — ticks forward, never exceeds 95 until done
+  function startProgress() {
+    let val = 0;
+    let phase = 0;
+    progressRef.current = setInterval(() => {
+      val += Math.random() * 2.5 + 0.5;
+      if (val > 95) val = 95;
+      setProgress(val);
+      const newPhase = Math.min(Math.floor(val / 25), 3);
+      if (newPhase !== phase) { phase = newPhase; setPhaseIdx(newPhase); }
+    }, 300);
+  }
+  function stopProgress() {
+    clearInterval(progressRef.current);
+    setProgress(100);
+  }
 
   const runTest = useCallback(async () => {
     setStatus(STATUS.running);
     setResults(null);
     setLiveUpload(null);
     setLatency(null);
+    setProgress(0);
+    setPhaseIdx(0);
+    startProgress();
 
     try {
       const { default: SpeedTest } = await import('@cloudflare/speedtest');
-      // Only run upload + latency measurements
       const engine = new SpeedTest({
         autoStart: false,
         measurements: [
@@ -210,6 +235,7 @@ function ConnectionTest({ onUploadResult }) {
       };
 
       engine.onFinish = (r) => {
+        stopProgress();
         const ul = r.getUploadBandwidth() / 1e6;
         const lat = r.getUnloadedLatency?.() ?? null;
         setResults({ upload: ul, latency: lat });
@@ -218,9 +244,10 @@ function ConnectionTest({ onUploadResult }) {
         setStatus(STATUS.done);
       };
 
-      engine.onError = () => setStatus(STATUS.error);
+      engine.onError = () => { stopProgress(); setStatus(STATUS.error); };
       engine.play();
     } catch (e) {
+      stopProgress();
       console.error(e);
       setStatus(STATUS.error);
     }
@@ -229,6 +256,7 @@ function ConnectionTest({ onUploadResult }) {
   const ul = results?.upload ?? liveUpload;
   const lat = results?.latency ?? latency;
   const badge = ul != null ? uploadLabel(ul) : null;
+  const color = uploadColor(ul);
 
   return (
     <div className="space-y-5">
@@ -236,23 +264,56 @@ function ConnectionTest({ onUploadResult }) {
         Measures your <strong>upload speed</strong> via Cloudflare's global network. The result is automatically used in the Upload Calculator tab.
       </p>
 
-      {/* Gauge — shown while running or done */}
-      {(status === STATUS.running || status === STATUS.done) && (
-        <div className="flex flex-col items-center gap-3">
-          <UploadGauge mbps={ul} />
-
-          {badge && (
-            <div className="w-full rounded-xl border px-4 py-2.5 text-center text-xs font-semibold"
-              style={{ background: badge.bg, borderColor: badge.border, color: badge.color }}>
-              {badge.text}
+      {/* Running state */}
+      {status === STATUS.running && (
+        <div className="rounded-2xl border border-[#e3e7f2] bg-white p-5 space-y-4">
+          {/* Live gauge (small, greyed until we have data) */}
+          <div className="flex flex-col items-center">
+            <UploadGauge mbps={ul} />
+          </div>
+          {/* Progress bar */}
+          <div>
+            <div className="mb-1.5 flex items-center justify-between">
+              <span className="text-[10px] font-semibold text-[#8a93b0]">{PHASES[phaseIdx]}</span>
+              <span className="text-[10px] font-bold text-[#1C2B6B]">{Math.round(progress)}%</span>
             </div>
-          )}
-
-          {lat != null && (
-            <div className="flex items-center gap-2 text-[11px] text-[#8a93b0]">
-              <span className="font-bold text-[#1C2B6B]">{Math.round(lat)} ms</span> latency
+            <div className="h-2 w-full overflow-hidden rounded-full bg-[#f0f2fa]">
+              <div
+                className="h-full rounded-full transition-all duration-300"
+                style={{ width: `${progress}%`, background: 'linear-gradient(90deg, #1C2B6B, #4f6aff)' }}
+              />
             </div>
-          )}
+          </div>
+        </div>
+      )}
+
+      {/* Done state */}
+      {status === STATUS.done && (
+        <div className="space-y-3">
+          <div className="flex flex-col items-center gap-3">
+            <UploadGauge mbps={ul} />
+            {badge && (
+              <div className="w-full rounded-xl border px-4 py-2.5 text-center text-xs font-semibold"
+                style={{ background: badge.bg, borderColor: badge.border, color: badge.color }}>
+                {badge.text}
+              </div>
+            )}
+            {lat != null && (
+              <div className="flex items-center gap-2 text-[11px] text-[#8a93b0]">
+                <span className="font-bold text-[#1C2B6B]">{Math.round(lat)} ms</span> latency
+              </div>
+            )}
+          </div>
+          {/* Completion bar — full green */}
+          <div>
+            <div className="mb-1.5 flex items-center justify-between">
+              <span className="text-[10px] font-semibold text-[#22c55e]">Test complete</span>
+              <span className="text-[10px] font-bold text-[#22c55e]">100%</span>
+            </div>
+            <div className="h-2 w-full overflow-hidden rounded-full bg-[#f0fdf4]">
+              <div className="h-full w-full rounded-full bg-[#22c55e]" />
+            </div>
+          </div>
         </div>
       )}
 
