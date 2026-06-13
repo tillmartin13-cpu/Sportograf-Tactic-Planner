@@ -197,13 +197,11 @@ function ModulePicker({ onSelect, onSettings }) {
           </svg>
         </button>
 
-        {/* mascot */}
-        <div className="flex items-center justify-center pt-12 pb-4">
-          <img src="/mascot.png" alt="" className="h-20 w-auto" style={{ filter: 'drop-shadow(0 4px 16px rgba(0,0,0,0.5))' }} />
-        </div>
-
-        {/* cards — flex-1 so they fill remaining space and are vertically centered */}
-        <div className="flex flex-1 flex-col justify-center gap-3 px-5 pb-4">
+        {/* mascot + cards — single block, vertically centered */}
+        <div className="flex flex-1 flex-col justify-center gap-3 px-5 py-4">
+          <div className="flex justify-center mb-1">
+            <img src="/mascot.png" alt="" className="h-16 w-auto" style={{ filter: 'drop-shadow(0 4px 16px rgba(0,0,0,0.5))' }} />
+          </div>
           {/* TL card */}
           <button type="button" onClick={() => onSelect('tl')}
             className="relative w-full overflow-hidden rounded-2xl text-left outline-none active:scale-[0.98] transition-transform"
