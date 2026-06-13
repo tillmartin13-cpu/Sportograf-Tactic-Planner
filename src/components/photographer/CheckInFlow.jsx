@@ -399,13 +399,25 @@ export function CheckInFlow({ tacticId, cameraString, eventDate, photographerCod
         <StepHeader number="2" title={t('checkInFlowStep2')} done={settingsDone} />
         {cameraSettings.length > 0 ? (
           <div className="mb-3 space-y-2">
-            {cameraSettings.map((s, i) => (
-              <div key={i} className="rounded-xl bg-[#f0f2fa] p-3 text-sm">
-                <div className="font-bold text-[#1C2B6B]">{s.brand} {s.model}</div>
-                <div className="text-gray-600 mt-1">Image Size: <strong>{s.imageSize}</strong></div>
-                <div className="text-gray-600">JPEG Quality: <strong>{s.jpeg}</strong></div>
-              </div>
-            ))}
+            {cameraSettings.map((s, i) => {
+              // Split imageSize at ';' — first part is the main size (bold), rest is crop info (normal)
+              const [mainSize, ...cropParts] = s.imageSize.split(';');
+              const cropInfo = cropParts.join(';').trim();
+              return (
+                <div key={i} className="rounded-xl bg-[#f0f2fa] p-3 text-sm space-y-1">
+                  <div className="font-bold text-[#1C2B6B]">{s.brand} {s.model}</div>
+                  <div className="text-gray-600">
+                    Image Size: <strong>{mainSize.trim()}</strong>
+                    {cropInfo && <span className="text-gray-400 font-normal"> · {cropInfo}</span>}
+                  </div>
+                  <div className="text-gray-600">JPEG Quality: <strong>{s.jpeg}</strong></div>
+                  <div className="text-gray-600">Shutter Speed: <strong>1/1000s</strong></div>
+                  <div className="text-gray-600">Autofocus: <strong>Continuous AF</strong></div>
+                  <div className="text-gray-600">White Balance: <strong>AWB</strong> <span className="text-gray-400 font-normal">(Auto)</span></div>
+                  <div className="text-gray-600">Picture Style: <strong>Neutral</strong> <span className="text-gray-400 font-normal">— kein extra Kontrast, Sättigung, Schärfe</span></div>
+                </div>
+              );
+            })}
             {cameraSettings.some((s) => s.electronicShutter && !s.globalShutter) && (
               <ElectronicShutterWarning />
             )}
