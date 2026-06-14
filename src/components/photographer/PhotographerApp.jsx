@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { usePhotographerStore } from '../../store/usePhotographerStore';
 import { usePhTranslation } from '../../i18n/usePhTranslation';
+import { getEventDate } from '../../lib/eventDate';
 import { BrandLogo } from '../BrandLogo';
 import { BottomNav } from './BottomNav';
 import { TacticManager } from './TacticManager';
@@ -155,7 +156,7 @@ export function PhotographerApp({ onExit = () => {} }) {
           <CheckInFlow
             tacticId={activeTacticId}
             cameraString={cameraString}
-            eventDate={activeTactic?.pkg?.event?.date ?? null}
+            eventDate={getEventDate(activeTactic?.pkg?.event) || null}
             photographerCode={acronym}
           />
         )}

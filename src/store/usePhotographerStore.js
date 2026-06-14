@@ -42,11 +42,11 @@ export const usePhotographerStore = create(
         if (!event?.id) return { error: 'This file does not look like a valid tactic.' };
 
         const id = String(event.id);
-        const existing = get().tactics.find((t) => t.id === id);
+        const existing = (get().tactics ?? []).find((t) => t.id === id);
         if (existing) {
           // Update existing
           set((s) => ({
-            tactics: s.tactics.map((t) => (t.id === id ? { id, importedAt: new Date().toISOString(), pkg } : t)),
+            tactics: (s.tactics ?? []).map((t) => (t.id === id ? { id, importedAt: new Date().toISOString(), pkg } : t)),
           }));
           return { updated: true };
         }
@@ -54,7 +54,7 @@ export const usePhotographerStore = create(
         set((s) => ({
           tactics: [
             { id, importedAt: new Date().toISOString(), pkg },
-            ...s.tactics,
+            ...(s.tactics ?? []),
           ],
         }));
         return { created: true };
@@ -62,7 +62,7 @@ export const usePhotographerStore = create(
 
       deleteTactic: (id) => {
         set((s) => ({
-          tactics: s.tactics.filter((t) => t.id !== id),
+          tactics: (s.tactics ?? []).filter((t) => t.id !== id),
           checkIns: Object.fromEntries(Object.entries(s.checkIns).filter(([k]) => k !== id)),
           activeTacticId: s.activeTacticId === id ? null : s.activeTacticId,
           screen: s.activeTacticId === id ? 'manager' : s.screen,
@@ -135,7 +135,7 @@ export const usePhotographerStore = create(
       // ── Helpers ──────────────────────────────────────────────────────────
       getActiveTactic: () => {
         const { tactics, activeTacticId } = get();
-        return tactics.find((t) => t.id === activeTacticId) ?? null;
+        return (tactics ?? []).find((t) => t.id === activeTacticId) ?? null;
       },
 
       getCheckIn: (tacticId) => get().checkIns[tacticId] ?? {},
@@ -145,7 +145,7 @@ export const usePhotographerStore = create(
       // My spots for a given tactic (filtered by acronym)
       getMySpots: (tacticId) => {
         const { tactics, acronym } = get();
-        const entry = tactics.find((t) => t.id === tacticId);
+        const entry = (tactics ?? []).find((t) => t.id === tacticId);
         if (!entry) return [];
         const { tactic, photographers, assignments } = entry.pkg ?? {};
         const spots = tactic?.spots ?? [];
@@ -161,6 +161,11 @@ export const usePhotographerStore = create(
     }),
     {
       name: 'stp_photographer_v1',
+      merge: (persisted, current) => ({
+        ...current,
+        ...persisted,
+        tactics: Array.isArray(persisted?.tactics) ? persisted.tactics : [],
+      }),
     },
   ),
 );

@@ -1,6 +1,7 @@
 import { useRef, useState } from 'react';
 import { usePhotographerStore } from '../../store/usePhotographerStore';
 import { usePhTranslation } from '../../i18n/usePhTranslation';
+import { getEventDate } from '../../lib/eventDate';
 
 /** Inline prompt shown when no acronym is set yet — blocks JSON upload */
 function AcronymGate({ onSaved }) {
@@ -85,8 +86,9 @@ function TacticCard({ entry, onOpen, onDelete }) {
       )
     : spots;
 
-  const date = event?.date
-    ? new Date(event.date).toLocaleDateString(undefined, { weekday: 'short', day: '2-digit', month: '2-digit', year: 'numeric' })
+  const dateRaw = getEventDate(event);
+  const date = dateRaw
+    ? new Date(dateRaw).toLocaleDateString(undefined, { weekday: 'short', day: '2-digit', month: '2-digit', year: 'numeric' })
     : null;
 
   return (
@@ -190,9 +192,9 @@ export function TacticManager() {
   const [deleteId, setDeleteId] = useState(null);
   const [importError, setImportError] = useState(null);
 
-  const sorted = [...tactics].sort((a, b) => {
-    const da = a.pkg?.event?.date ?? a.importedAt;
-    const db = b.pkg?.event?.date ?? b.importedAt;
+  const sorted = [...(tactics ?? [])].sort((a, b) => {
+    const da = getEventDate(a.pkg?.event) || a.importedAt;
+    const db = getEventDate(b.pkg?.event) || b.importedAt;
     return new Date(da) - new Date(db);
   });
 

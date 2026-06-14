@@ -181,8 +181,8 @@ export function SpotModal() {
       locationType,
       name: isPhoto ? label : name.trim(),
       notes: notes.trim(),
-      lat: coords.lat,
-      lng: coords.lng,
+      lat: coords?.lat ?? null,
+      lng: coords?.lng ?? null,
       kmOverrides,
       refImages,
     });

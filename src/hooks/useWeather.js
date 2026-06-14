@@ -34,12 +34,14 @@ export function useWeather(lat, lon, dateStr) {
       `&timezone=auto` +
       `&start_date=${date}&end_date=${date}`;
 
+    let cancelled = false;
     setLoading(true);
     setError(null);
 
     fetch(url)
       .then((r) => r.json())
       .then((data) => {
+        if (cancelled) return;
         const h = data.hourly;
         const d = data.daily;
         const hourly = (h?.time ?? []).map((t, i) => ({
@@ -59,8 +61,16 @@ export function useWeather(lat, lon, dateStr) {
         };
         setWeather({ hourly, daily });
       })
-      .catch((e) => setError(e.message))
-      .finally(() => setLoading(false));
+      .catch((e) => {
+        if (!cancelled) setError(e.message);
+      })
+      .finally(() => {
+        if (!cancelled) setLoading(false);
+      });
+
+    return () => {
+      cancelled = true;
+    };
   }, [lat, lon, dateStr]);
 
   return { weather, loading, error };

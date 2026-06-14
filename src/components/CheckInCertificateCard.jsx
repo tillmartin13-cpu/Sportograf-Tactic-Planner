@@ -6,6 +6,7 @@ import {
   shareCertificateBlob,
 } from '../lib/checkInCertificate';
 import { uploadCertificate } from '../lib/supabase';
+import { getEventDate } from '../lib/eventDate';
 import { usePlannerStore } from '../store/usePlannerStore';
 import { useTranslation } from '../i18n/useTranslation';
 import { t as translate } from '../i18n/messages';
@@ -37,7 +38,7 @@ export function CheckInCertificateCard({ event, photographer, cameraOk, cameraSt
 
   const eventId = event?.id;
   const eventName = event?.name;
-  const eventDate = event?.eventDate;
+  const eventDate = getEventDate(event);
   const photographerCode = photographer?.code;
   const photographerFirstName = photographer?.firstName;
   const photographerLastName = photographer?.lastName;
@@ -83,6 +84,10 @@ export function CheckInCertificateCard({ event, photographer, cameraOk, cameraSt
     return () => {
       cancelled = true;
       if (objectUrl) URL.revokeObjectURL(objectUrl);
+      setPreviewUrl((url) => {
+        if (url) URL.revokeObjectURL(url);
+        return null;
+      });
     };
   }, [
     eventId,

@@ -30,7 +30,7 @@ export function PlanningHub({ title = 'Tactic Planner' }) {
 
   useEffect(() => {
     setActiveView(event?.eventType === 'hyrox' ? 'hyrox' : 'planner');
-  }, [event?.id]);
+  }, [event?.id, event?.eventType]);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [mobileSidebarOpen, setMobileSidebarOpen] = useState(false);
 

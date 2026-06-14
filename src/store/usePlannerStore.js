@@ -100,6 +100,32 @@ function photographerIndex(photographers) {
   return map;
 }
 
+function nonEmptyPhotographerFields(incoming) {
+  const { id: _dropId, ...rest } = incoming;
+  return Object.fromEntries(
+    Object.entries(rest).filter(([, v]) => v !== '' && v != null),
+  );
+}
+
+function mergeImportedPhotographers(existing, incoming, eventId) {
+  const merged = [...existing];
+  incoming.forEach((ph) => {
+    const idx = merged.findIndex((p) => p.code === ph.code);
+    if (idx >= 0) {
+      const existingEventIds = merged[idx].eventIds || (merged[idx].eventId ? [merged[idx].eventId] : []);
+      const eventIds = existingEventIds.includes(eventId)
+        ? existingEventIds
+        : [...existingEventIds, eventId];
+      merged[idx] = { ...merged[idx], ...nonEmptyPhotographerFields(ph), eventIds };
+    } else {
+      merged.push({ ...ph, eventIds: ph.eventIds?.length ? ph.eventIds : [eventId] });
+    }
+  });
+  return merged;
+}
+
+let gpxImportChain = Promise.resolve();
+
 function normalizeStoredState(state) {
   if (!state) return state;
   return {
@@ -542,7 +568,8 @@ export const usePlannerStore = create(
         const tracks = getGpxTracks(tactic);
         const next = tracks.filter((_, i) => i !== trackIndex);
         const gpxTrack = next.length ? trackToLatLng(next[0]) : [];
-        get().updateTactic(eventId, { gpxTracks: next, gpxTrack });
+        const spots = rematchAllPhotoSpots(tactic.spots, next);
+        get().updateTactic(eventId, { gpxTracks: next, gpxTrack, spots });
         get().showToast(`Track removed.`);
       },
 
@@ -585,12 +612,11 @@ export const usePlannerStore = create(
           photographers.forEach((incoming) => {
             const idx = merged.findIndex((p) => p.code === incoming.code);
             if (idx >= 0) {
-              const { id: _dropId, ...rest } = incoming;
               const existingEventIds = merged[idx].eventIds || (merged[idx].eventId ? [merged[idx].eventId] : []);
               const eventIds = existingEventIds.includes(targetEventId)
                 ? existingEventIds
                 : [...existingEventIds, targetEventId];
-              merged[idx] = { ...merged[idx], ...rest, eventIds };
+              merged[idx] = { ...merged[idx], ...nonEmptyPhotographerFields(incoming), eventIds };
             } else {
               merged.push({ ...incoming, eventIds: [targetEventId] });
             }
@@ -665,6 +691,7 @@ export const usePlannerStore = create(
             get().showToast(`Imported ${reconverted.spots.length} spots from infofile.`);
             return;
           }
+          return;
         }
 
         const tracks = getGpxTracks(get().getTactic(event.id));
@@ -685,23 +712,26 @@ export const usePlannerStore = create(
       },
 
       loadGpx: async (file) => {
-        const event = get().getCurrentEvent();
-        if (!event) {
-          get().showToast('Open or create an event first.');
-          return;
-        }
-        const text = await file.text();
-        try {
-          const track = parseGpx(text, file.name);
-          const tactic = get().getTactic(event.id);
-          const gpxTracks = [...getGpxTracks(tactic), track];
-          const gpxTrack = trackToLatLng(track);
-          const spots = rematchAllPhotoSpots(tactic.spots, gpxTracks);
-          get().updateTactic(event.id, { gpxTracks, gpxTrack, spots });
-          get().showToast(`"${track.name}" loaded · ${track.totalKm.toFixed(1)} km`);
-        } catch (err) {
-          get().showToast(err.message || 'GPX import failed.');
-        }
+        gpxImportChain = gpxImportChain.then(async () => {
+          const event = get().getCurrentEvent();
+          if (!event) {
+            get().showToast('Open or create an event first.');
+            return;
+          }
+          try {
+            const text = await file.text();
+            const track = parseGpx(text, file.name);
+            const tactic = get().getTactic(event.id);
+            const gpxTracks = [...getGpxTracks(tactic), track];
+            const gpxTrack = trackToLatLng(track);
+            const spots = rematchAllPhotoSpots(tactic.spots, gpxTracks);
+            get().updateTactic(event.id, { gpxTracks, gpxTrack, spots });
+            get().showToast(`"${track.name}" loaded · ${track.totalKm.toFixed(1)} km`);
+          } catch (err) {
+            get().showToast(err.message || 'GPX import failed.');
+          }
+        });
+        return gpxImportChain;
       },
 
       importKml: async (file) => {
@@ -729,20 +759,24 @@ export const usePlannerStore = create(
           const { spots: incomingSpots, tracks: kmlTracks } = parseKml(kmlText);
           const tactic = get().getTactic(event.id);
           let spots = incomingSpots;
+          let replacedAllSpots = false;
 
           if (incomingSpots.length > 0 && tactic.spots.length > 0) {
             const add = window.confirm(
               `Add ${incomingSpots.length} spots from KML to the existing ${tactic.spots.length} spots?\n\nOK = Add · Cancel = Replace all spots`,
             );
-            spots = add
-              ? [
-                  ...tactic.spots,
-                  ...incomingSpots.map((spot, index) => ({
-                    ...spot,
-                    position: tactic.spots.length + index,
-                  })),
-                ]
-              : incomingSpots;
+            if (add) {
+              spots = [
+                ...tactic.spots,
+                ...incomingSpots.map((spot, index) => ({
+                  ...spot,
+                  position: tactic.spots.length + index,
+                })),
+              ];
+            } else {
+              spots = incomingSpots;
+              replacedAllSpots = true;
+            }
           }
 
           // Merge KML tracks with any existing GPX tracks
@@ -753,6 +787,7 @@ export const usePlannerStore = create(
             spots: rematchAllPhotoSpots(spots, mergedTracks),
             importedFrom: { type: 'kml', fileName: file.name, at: new Date().toISOString() },
           };
+          if (replacedAllSpots) update.assignments = [];
           if (kmlTracks.length > 0) update.gpxTracks = mergedTracks;
 
           get().updateTactic(event.id, update);
@@ -929,17 +964,26 @@ export const usePlannerStore = create(
           if (!eventId) { get().showToast('JSON missing valid event ID.'); return false; }
 
           const existing = get().events.find((e) => e.id === eventId);
+          const mergedPhotographers = Array.isArray(photographers)
+            ? mergeImportedPhotographers(get().photographers, photographers, eventId)
+            : get().photographers;
+
           if (existing) {
             // Update tactic and photographers but keep existing event entry
             if (tactic) saveTactic(eventId, tactic);
-            if (Array.isArray(photographers)) set({ photographers });
-            set({ currentEventId: eventId, appScreen: APP_SCREEN.planner, showPlannerEntryModal: false, mapExpanded: false });
+            set({
+              photographers: mergedPhotographers,
+              currentEventId: eventId,
+              appScreen: APP_SCREEN.planner,
+              showPlannerEntryModal: false,
+              mapExpanded: false,
+            });
             get().showToast(`Event ${eventId} updated from JSON.`);
           } else {
             const newEvent = withEventCode({
               id: eventId,
               name: (event.name || '').trim(),
-              eventDate: event.eventDate || '',
+              eventDate: event.eventDate || event.date || '',
               predecessorEventId: event.predecessorEventId || '',
               eventType: event.eventType || '',
               createdAt: Date.now(),
@@ -947,7 +991,7 @@ export const usePlannerStore = create(
             if (tactic) saveTactic(eventId, tactic);
             set({
               events: [newEvent, ...get().events],
-              photographers: Array.isArray(photographers) ? photographers : get().photographers,
+              photographers: mergedPhotographers,
               currentEventId: eventId,
               appScreen: APP_SCREEN.planner,
               showPlannerEntryModal: false,

@@ -6,6 +6,7 @@ import { buildSpotMarkerHtml } from '../../lib/spotMarkerHtml';
 import L from 'leaflet';
 import { usePhotographerStore } from '../../store/usePhotographerStore';
 import { usePhTranslation } from '../../i18n/usePhTranslation';
+import { getEventDate, parseTimeHour } from '../../lib/eventDate';
 import { useMyProfile } from '../../hooks/useMyProfile';
 import { formatTimeShort } from '../../lib/timeConflict';
 import { findAllCameraSettings, needsCardReader } from '../../lib/cameraSettings';
@@ -873,7 +874,7 @@ function WeatherBriefing({ event, spots }) {
   // Support both date field names
   // Fall back to today if no event date set
   const today = new Date().toISOString().slice(0, 10);
-  const dateStr = event?.date || event?.eventDate || today;
+  const dateStr = getEventDate(event) || today;
 
   const { weather, loading, error } = useWeather(lat, lon, dateStr);
 
@@ -901,10 +902,9 @@ function WeatherBriefing({ event, spots }) {
   const { daily, hourly } = weather;
   const { icon, label } = wmoToEmoji(daily.weathercode);
 
-  // Filter hourly to event time window (roughly); time_from/to are "HH:MM"
-  const parseHour = (t) => t ? parseInt(t.split(':')[0], 10) : NaN;
-  const timeFroms = spots.map((s) => parseHour(s.time_from)).filter((n) => !isNaN(n));
-  const timeTos = spots.map((s) => parseHour(s.time_to)).filter((n) => !isNaN(n));
+  // Filter hourly to event time window (roughly); time_from/to are "HH:MM" or ISO
+  const timeFroms = spots.map((s) => parseTimeHour(s.time_from)).filter((n) => !isNaN(n));
+  const timeTos = spots.map((s) => parseTimeHour(s.time_to)).filter((n) => !isNaN(n));
   const startHour = timeFroms.length ? Math.min(...timeFroms) : 6;
   const endHour = timeTos.length ? Math.max(...timeTos) : 18;
   const window = hourly.filter((h) => h.hour >= startHour && h.hour <= endHour);
@@ -1349,8 +1349,9 @@ export function TacticDetail({ onOpenCheckIn }) {
   const firstName = profile?.firstName || profile?.name?.split(' ')[0] || null;
   const greeting = firstName ? `Hey ${firstName} 👋` : acronym ? `Hey ${acronym} 👋` : null;
 
-  const date = event?.date
-    ? new Date(event.date).toLocaleDateString(undefined, {
+  const dateRaw = getEventDate(event);
+  const date = dateRaw
+    ? new Date(dateRaw).toLocaleDateString(undefined, {
         weekday: 'long', day: '2-digit', month: 'long', year: 'numeric',
       })
     : null;
@@ -1424,7 +1425,7 @@ export function TacticDetail({ onOpenCheckIn }) {
 
         return (
           <CertificateButton
-            event={{ id: event?.id, name: event?.name, eventDate: event?.date }}
+            event={{ id: event?.id, name: event?.name, eventDate: getEventDate(event) }}
             photographer={{ code: acronym, firstName: profile?.firstName, lastName: profile?.lastName }}
             cameraOk={['accepted', 'warning', 'forced'].includes(cameraResult?.status)}
             cameraStatus={cameraResult?.status}
