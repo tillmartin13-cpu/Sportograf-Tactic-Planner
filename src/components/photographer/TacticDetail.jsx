@@ -170,8 +170,6 @@ function NavigateButton({ lat, lng }) {
   );
 }
 
-// ─── Personalized profile card ───────────────────────────────────────────────
-
 function CheckOutModal({ cameraModel, onConfirm, onCancel }) {
   return createPortal(
     <div className="fixed inset-0 z-[9999] flex items-end justify-center p-4 bg-black/50">
@@ -196,6 +194,8 @@ function CheckOutModal({ cameraModel, onConfirm, onCancel }) {
   );
 }
 
+const EMPTY_CAMERA_CHECKOUTS = Object.freeze({});
+
 function ProfileCard({ profile, tacticId, onOpenCheckIn, isComplete }) {
   const fullName = [profile.firstName, profile.lastName].filter(Boolean).join(' ') || profile.name || profile.code;
   const cameras = profile.cameras || profile.equipment || '';
@@ -203,7 +203,8 @@ function ProfileCard({ profile, tacticId, onOpenCheckIn, isComplete }) {
   const flashes = profile.flashes || '';
   const camSettings = cameras ? findAllCameraSettings(cameras) : [];
 
-  const cameraCheckouts = usePhotographerStore((s) => s.checkIns[tacticId]?.cameraCheckouts ?? {});
+  const cameraCheckouts =
+    usePhotographerStore((s) => s.checkIns[tacticId]?.cameraCheckouts) ?? EMPTY_CAMERA_CHECKOUTS;
   const setCameraCheckout = usePhotographerStore((s) => s.setCameraCheckout);
   const [checkOutTarget, setCheckOutTarget] = useState(null);
 

@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { usePhotographerStore, ACADEMY_URL, EM_URL } from '../../store/usePhotographerStore';
 import { usePhTranslation } from '../../i18n/usePhTranslation';
 
@@ -316,10 +316,13 @@ export function PhotographerHome({ onExit }) {
   const acronym = usePhotographerStore((s) => s.acronym);
   const [showSettings, setShowSettings] = useState(false);
   const { t } = usePhTranslation();
-  // Prompt acronym entry on first visit if not set
-  const [acronymFlow, setAcronymFlow] = useState(() => !acronym ? 'step1' : 'idle');
+  const [acronymFlow, setAcronymFlow] = useState('idle');
   const [step1Value, setStep1Value] = useState('');
   const setAcronym = usePhotographerStore((s) => s.setAcronym);
+
+  useEffect(() => {
+    setAcronymFlow(acronym?.trim() ? 'idle' : 'step1');
+  }, [acronym]);
 
   function handleTile(tile) {
     if (tile.id === 'tactics') {

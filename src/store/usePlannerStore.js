@@ -13,6 +13,7 @@ import { windowsOverlap } from '../lib/timeConflict';
 import { generateEventCode, normalizeEventCode, isValidEventCode, EVENT_CODE_LENGTH } from '../lib/eventCode';
 import { REFERENCE_CODES } from '../lib/referenceCodes';
 import { t as translate } from '../i18n/messages';
+import { usePhotographerStore } from './usePhotographerStore';
 
 const APP_SCREEN = {
   welcome: 'welcome',
@@ -391,11 +392,13 @@ export const usePlannerStore = create(
         get().updateTactic(event.id, { showReferenceLayer: !tactic.showReferenceLayer });
       },
 
-      openPhotographerImport: () =>
+      openPhotographerImport: () => {
+        usePhotographerStore.getState().goHome();
         set({
           appScreen: APP_SCREEN.photographer,
           photographerPackage: null,
-        }),
+        });
+      },
 
       importPhotographerJson: (text) => {
         try {

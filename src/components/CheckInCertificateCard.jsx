@@ -35,6 +35,14 @@ export function CheckInCertificateCard({ event, photographer, cameraOk, cameraSt
     [language],
   );
 
+  const eventId = event?.id;
+  const eventName = event?.name;
+  const eventDate = event?.eventDate;
+  const photographerCode = photographer?.code;
+  const photographerFirstName = photographer?.firstName;
+  const photographerLastName = photographer?.lastName;
+  const completedChecksKey = completedChecks.join('\u0001');
+
   useEffect(() => {
     let cancelled = false;
     let objectUrl = null;
@@ -43,8 +51,12 @@ export function CheckInCertificateCard({ event, photographer, cameraOk, cameraSt
       setLoading(true);
       try {
         const imageBlob = await generateCheckInCertificate({
-          event,
-          photographer,
+          event: { id: eventId, name: eventName, eventDate },
+          photographer: {
+            code: photographerCode,
+            firstName: photographerFirstName,
+            lastName: photographerLastName,
+          },
           cameraOk,
           cameraStatus,
           cameraImageUrl,
@@ -59,8 +71,7 @@ export function CheckInCertificateCard({ event, photographer, cameraOk, cameraSt
         objectUrl = URL.createObjectURL(imageBlob);
         setBlob(imageBlob);
         setPreviewUrl(objectUrl);
-        // Upload to Supabase in background — silent, no error shown to user
-        const fname = certificateFilename(event.id, photographer.code);
+        const fname = certificateFilename(eventId, photographerCode);
         uploadCertificate(imageBlob, fname).catch(() => {});
       } catch {
         if (!cancelled) setPreviewUrl(null);
@@ -73,9 +84,25 @@ export function CheckInCertificateCard({ event, photographer, cameraOk, cameraSt
       cancelled = true;
       if (objectUrl) URL.revokeObjectURL(objectUrl);
     };
-  }, [event, photographer, cameraOk, cameraStatus, cameraImageUrl, cameraDetails, cameraString, checkedInAt, completedChecks, language, certLabels]);
+  }, [
+    eventId,
+    eventName,
+    eventDate,
+    photographerCode,
+    photographerFirstName,
+    photographerLastName,
+    cameraOk,
+    cameraStatus,
+    cameraImageUrl,
+    cameraDetails,
+    cameraString,
+    checkedInAt,
+    completedChecksKey,
+    language,
+    certLabels,
+  ]);
 
-  const filename = certificateFilename(event.id, photographer.code);
+  const filename = certificateFilename(eventId, photographerCode);
 
   const handleShare = async () => {
     if (!blob) return;
