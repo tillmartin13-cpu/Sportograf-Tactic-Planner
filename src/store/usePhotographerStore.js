@@ -105,6 +105,21 @@ export const usePhotographerStore = create(
         }));
       },
 
+      setCameraCheckout: (tacticId, cameraModel, checked) => {
+        set((s) => {
+          const prev = s.checkIns[tacticId]?.cameraCheckouts ?? {};
+          return {
+            checkIns: {
+              ...s.checkIns,
+              [tacticId]: {
+                ...s.checkIns[tacticId],
+                cameraCheckouts: { ...prev, [cameraModel]: checked ? 'checked_out' : null },
+              },
+            },
+          };
+        });
+      },
+
       completeCheckIn: (tacticId) => {
         set((s) => ({
           checkIns: {

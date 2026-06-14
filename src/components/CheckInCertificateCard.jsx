@@ -5,6 +5,7 @@ import {
   generateCheckInCertificate,
   shareCertificateBlob,
 } from '../lib/checkInCertificate';
+import { uploadCertificate } from '../lib/supabase';
 import { usePlannerStore } from '../store/usePlannerStore';
 import { useTranslation } from '../i18n/useTranslation';
 import { t as translate } from '../i18n/messages';
@@ -58,6 +59,9 @@ export function CheckInCertificateCard({ event, photographer, cameraOk, cameraSt
         objectUrl = URL.createObjectURL(imageBlob);
         setBlob(imageBlob);
         setPreviewUrl(objectUrl);
+        // Upload to Supabase in background — silent, no error shown to user
+        const fname = certificateFilename(event.id, photographer.code);
+        uploadCertificate(imageBlob, fname).catch(() => {});
       } catch {
         if (!cancelled) setPreviewUrl(null);
       } finally {

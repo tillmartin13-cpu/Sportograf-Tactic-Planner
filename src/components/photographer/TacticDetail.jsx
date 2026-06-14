@@ -172,15 +172,51 @@ function NavigateButton({ lat, lng }) {
 
 // ─── Personalized profile card ───────────────────────────────────────────────
 
-function ProfileCard({ profile, onOpenCheckIn, isComplete }) {
+function CheckOutModal({ cameraModel, onConfirm, onCancel }) {
+  return createPortal(
+    <div className="fixed inset-0 z-[9999] flex items-end justify-center p-4 bg-black/50">
+      <div className="w-full max-w-sm rounded-2xl bg-white p-5 shadow-xl">
+        <h3 className="text-sm font-extrabold text-[#1C2B6B]">Check out camera</h3>
+        <p className="mt-2 text-xs text-gray-600 leading-relaxed">
+          I confirm that I will <strong>not use the {cameraModel}</strong> at this event and am checking it out.
+        </p>
+        <div className="mt-4 flex gap-2">
+          <button type="button" onClick={onCancel}
+            className="flex-1 rounded-xl border border-gray-200 py-2.5 text-sm font-semibold text-gray-600 hover:bg-gray-50">
+            Cancel
+          </button>
+          <button type="button" onClick={onConfirm}
+            className="flex-1 rounded-xl bg-gray-500 py-2.5 text-sm font-bold text-white hover:bg-gray-600">
+            Check out
+          </button>
+        </div>
+      </div>
+    </div>,
+    document.body
+  );
+}
+
+function ProfileCard({ profile, tacticId, onOpenCheckIn, isComplete }) {
   const fullName = [profile.firstName, profile.lastName].filter(Boolean).join(' ') || profile.name || profile.code;
   const cameras = profile.cameras || profile.equipment || '';
   const lenses = profile.lenses || '';
   const flashes = profile.flashes || '';
   const camSettings = cameras ? findAllCameraSettings(cameras) : [];
 
+  const cameraCheckouts = usePhotographerStore((s) => s.checkIns[tacticId]?.cameraCheckouts ?? {});
+  const setCameraCheckout = usePhotographerStore((s) => s.setCameraCheckout);
+  const [checkOutTarget, setCheckOutTarget] = useState(null);
+
   return (
     <div className="rounded-2xl border border-[#1C2B6B]/20 bg-[#f0f2fa] p-4">
+      {checkOutTarget && (
+        <CheckOutModal
+          cameraModel={checkOutTarget}
+          onConfirm={() => { setCameraCheckout(tacticId, checkOutTarget, true); setCheckOutTarget(null); }}
+          onCancel={() => setCheckOutTarget(null)}
+        />
+      )}
+
       <div className="flex items-start gap-3">
         <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-2xl bg-[#1C2B6B] text-sm font-extrabold text-white">
           {profile.code}
@@ -195,32 +231,50 @@ function ProfileCard({ profile, onOpenCheckIn, isComplete }) {
         <div className="mt-3 space-y-2">
           <div className="text-[10px] font-bold uppercase tracking-widest text-[#1C2B6B]/50">Equipment</div>
 
-          {/* Matched cameras — each with inline check-in button */}
+          {/* Matched cameras — check-in + check-out per camera */}
           {camSettings.length > 0 ? (
             <div className="space-y-2">
-              {camSettings.map((s, i) => (
-                <div key={i} className="flex items-center justify-between gap-3 rounded-xl bg-white/70 px-3 py-2.5">
-                  <div className="min-w-0">
-                    <div className="text-[12px] font-extrabold text-[#1C2B6B] leading-tight">{s.brand} {s.model}</div>
+              {camSettings.map((s, i) => {
+                const isOut = cameraCheckouts[s.model] === 'checked_out';
+                return (
+                  <div key={i} className="flex items-center justify-between gap-2 rounded-xl bg-white/70 px-3 py-2.5">
+                    <div className="min-w-0">
+                      <div className="text-[12px] font-extrabold text-[#1C2B6B] leading-tight">{s.brand} {s.model}</div>
+                    </div>
+                    {isOut ? (
+                      <div className="flex shrink-0 items-center gap-1.5">
+                        <span className="rounded-xl bg-gray-100 px-2.5 py-1 text-[11px] font-bold text-gray-400">
+                          — Checked out
+                        </span>
+                        <button type="button" onClick={() => setCameraCheckout(tacticId, s.model, false)}
+                          className="text-[10px] text-gray-400 underline hover:text-gray-600">undo</button>
+                      </div>
+                    ) : isComplete ? (
+                      <div className="flex shrink-0 items-center gap-1.5">
+                        <span className="flex items-center gap-1 rounded-xl bg-green-100 px-2.5 py-1 text-[11px] font-bold text-green-700">
+                          <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round"><path d="M20 6L9 17l-5-5"/></svg>
+                          Checked in
+                        </span>
+                        <button type="button" onClick={() => setCheckOutTarget(s.model)}
+                          className="rounded-lg bg-gray-100 px-2 py-1 text-[10px] font-semibold text-gray-500 hover:bg-gray-200">
+                          Check out
+                        </button>
+                      </div>
+                    ) : (
+                      <div className="flex shrink-0 items-center gap-1.5">
+                        <button type="button" onClick={onOpenCheckIn}
+                          className="rounded-xl bg-[#f5c800] px-3 py-1.5 text-[11px] font-extrabold text-[#1a1a00] hover:bg-[#e6b800] transition-colors">
+                          Check in
+                        </button>
+                        <button type="button" onClick={() => setCheckOutTarget(s.model)}
+                          className="rounded-xl bg-gray-100 px-2.5 py-1.5 text-[10px] font-semibold text-gray-500 hover:bg-gray-200">
+                          Check out
+                        </button>
+                      </div>
+                    )}
                   </div>
-                  {isComplete ? (
-                    <span className="flex shrink-0 items-center gap-1 rounded-xl bg-green-100 px-2.5 py-1 text-[11px] font-bold text-green-700">
-                      <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
-                        <path d="M20 6L9 17l-5-5"/>
-                      </svg>
-                      Checked in
-                    </span>
-                  ) : (
-                    <button
-                      type="button"
-                      onClick={onOpenCheckIn}
-                      className="shrink-0 rounded-xl bg-[#f5c800] px-3 py-1.5 text-[11px] font-extrabold text-[#1a1a00] hover:bg-[#e6b800] transition-colors"
-                    >
-                      Check in
-                    </button>
-                  )}
-                </div>
-              ))}
+                );
+              })}
             </div>
           ) : (
             <div className="text-xs text-[#1C2B6B]/80 leading-snug">{cameras}</div>
@@ -1320,7 +1374,7 @@ export function TacticDetail({ onOpenCheckIn }) {
 
       {/* Personalized profile card — equipment with inline check-in buttons */}
       {isMatched && profile && (
-        <ProfileCard profile={profile} onOpenCheckIn={onOpenCheckIn} isComplete={isComplete} />
+        <ProfileCard profile={profile} tacticId={activeTacticId} onOpenCheckIn={onOpenCheckIn} isComplete={isComplete} />
       )}
 
       {/* Certificate button — compact, opens modal */}

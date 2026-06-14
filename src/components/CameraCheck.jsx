@@ -264,6 +264,80 @@ async function sendWithRetry(payload, maxAttempts = 3) {
   throw lastErr;
 }
 
+function CameraTutorial({ onProceed, lang }) {
+  const tr = (key) => t(lang, key);
+  return createPortal(
+    <div className="fixed inset-0 z-[9997] flex flex-col bg-[#0e1a3a]" style={{ paddingTop: 'env(safe-area-inset-top)' }}>
+      <div className="flex items-center justify-between px-4 py-3 shrink-0">
+        <span className="text-sm font-extrabold text-white">{tr('cameraTutorialTitle')}</span>
+      </div>
+
+      <div className="flex-1 overflow-y-auto px-4 pb-6 space-y-4">
+        {/* Example image — SVG illustration */}
+        <div className="rounded-2xl overflow-hidden bg-black/40 border border-white/10">
+          <svg viewBox="0 0 360 220" xmlns="http://www.w3.org/2000/svg" className="w-full">
+            {/* Phone outline */}
+            <rect x="105" y="10" width="150" height="200" rx="16" fill="#1e293b" stroke="#334155" strokeWidth="2"/>
+            {/* Phone screen */}
+            <rect x="113" y="24" width="134" height="172" rx="6" fill="#0f172a"/>
+            {/* Camera display on phone screen */}
+            <rect x="120" y="32" width="120" height="80" rx="4" fill="#1C2B6B"/>
+            {/* Time on camera display */}
+            <text x="180" y="62" textAnchor="middle" fill="white" fontSize="18" fontWeight="bold" fontFamily="monospace">10:24:37</text>
+            <text x="180" y="80" textAnchor="middle" fill="#94a3b8" fontSize="10" fontFamily="monospace">2025.06.14</text>
+            <text x="180" y="96" textAnchor="middle" fill="#f5c800" fontSize="9" fontFamily="monospace">JPEG  M  AWB</text>
+            {/* Card indicator */}
+            <rect x="125" y="102" width="110" height="4" rx="2" fill="#166534" opacity="0.7"/>
+            {/* Good photo label */}
+            <rect x="120" y="116" width="120" height="18" rx="4" fill="#166534" opacity="0.8"/>
+            <text x="180" y="129" textAnchor="middle" fill="white" fontSize="9" fontFamily="sans-serif">✓ Display clearly visible</text>
+            {/* Arrow pointing at display */}
+            <path d="M 80 72 L 115 72" stroke="#f5c800" strokeWidth="2" markerEnd="url(#arr)" fill="none"/>
+            <defs>
+              <marker id="arr" markerWidth="6" markerHeight="6" refX="3" refY="3" orient="auto">
+                <path d="M0,0 L6,3 L0,6 Z" fill="#f5c800"/>
+              </marker>
+            </defs>
+            <text x="40" y="68" textAnchor="middle" fill="#f5c800" fontSize="8">Camera</text>
+            <text x="40" y="78" textAnchor="middle" fill="#f5c800" fontSize="8">display</text>
+          </svg>
+        </div>
+
+        {/* Tips */}
+        <div className="space-y-2">
+          {[
+            { icon: '🔆', text: tr('cameraTutorialTip1') },
+            { icon: '🔍', text: tr('cameraTutorialTip2') },
+            { icon: '📐', text: tr('cameraTutorialTip3') },
+          ].map(({ icon, text }, i) => (
+            <div key={i} className="flex items-start gap-3 rounded-xl bg-white/10 px-3 py-2.5">
+              <span className="text-lg shrink-0 leading-none mt-0.5">{icon}</span>
+              <p className="text-[12px] text-white/80 leading-relaxed">{text}</p>
+            </div>
+          ))}
+        </div>
+
+        {/* Data notice */}
+        <div className="flex items-start gap-2 rounded-xl border border-white/10 bg-white/5 px-3 py-2.5">
+          <span className="text-sm shrink-0">ℹ️</span>
+          <p className="text-[11px] text-white/50 leading-relaxed">{tr('cameraTutorialDataHint')}</p>
+        </div>
+      </div>
+
+      <div className="shrink-0 px-4 pb-6" style={{ paddingBottom: 'max(24px, env(safe-area-inset-bottom))' }}>
+        <button
+          type="button"
+          onClick={onProceed}
+          className="w-full rounded-2xl bg-[#f5c800] py-4 text-sm font-extrabold text-[#1a1a00] hover:bg-[#e6b800] transition-colors"
+        >
+          {tr('cameraTutorialBtn')} →
+        </button>
+      </div>
+    </div>,
+    document.body
+  );
+}
+
 export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, expectedImageSize, expectedJpeg, lang = 'en' }) {
   const inputRef = useRef(null);
   const [preview, setPreview] = useState(null);
@@ -272,6 +346,7 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
   const [attempt, setAttempt] = useState(0);
   const [result, setResult] = useState(initialResult ?? null);
   const [error, setError] = useState(null);
+  const [showTutorial, setShowTutorial] = useState(false);
 
   // Translation helper
   const tr = (key, vars) => {
@@ -361,11 +436,16 @@ export function CameraCheck({ onAccepted, onResult, initialResult, cameraModel, 
 
   return (
     <div className="w-full">
+      {/* Tutorial screen */}
+      {showTutorial && (
+        <CameraTutorial lang={lang} onProceed={() => { setShowTutorial(false); inputRef.current?.click(); }} />
+      )}
+
       {/* Upload area */}
       {!preview && (
         <div
           className="border-2 border-dashed border-gray-300 rounded-2xl p-6 text-center cursor-pointer hover:border-[#1C2B6B] hover:bg-[#f0f2fa] transition-colors active:scale-[0.98]"
-          onClick={() => inputRef.current?.click()}
+          onClick={() => setShowTutorial(true)}
           onDrop={handleDrop}
           onDragOver={(e) => e.preventDefault()}
         >
