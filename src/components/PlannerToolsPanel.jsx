@@ -159,6 +159,7 @@ function PanelContent({ activeView, onViewChange, onClose }) {
   const [aiEventOpen, setAiEventOpen] = useState(false);
   const [tacticUploading, setTacticUploading] = useState(false);
   const [tacticUploadStatus, setTacticUploadStatus] = useState(null); // null | 'ok' | 'error'
+  const [mailOpen, setMailOpen] = useState(false);
 
   async function handleUploadTactic() {
     if (!event) return;
@@ -364,6 +365,80 @@ function PanelContent({ activeView, onViewChange, onClose }) {
                   <div className="text-[10px] text-[#4ade80] mt-0.5">{t('toolsExportTacticJsonHint')}</div>
                 </div>
               </button>
+            </div>
+
+            {/* ── Mail tactic to team ── */}
+            <div className="px-1 pb-1">
+              {(() => {
+                const emails = (photographers || []).map((p) => p.email).filter(Boolean);
+                const eventName = event?.name || 'the event';
+                const eventDate = event?.date ? new Date(event.date).toLocaleDateString('de-DE', { day: '2-digit', month: '2-digit', year: 'numeric' }) : '';
+                const subject = `Tactic — ${eventName}${eventDate ? ' · ' + eventDate : ''}`;
+                const body = `Hi team,\n\nPlease find the tactic for ${eventName}${eventDate ? ' on ' + eventDate : ''} attached as a JSON file.\n\nHow to import:\n1. Open the Sportograf Tactic Tool\n2. Tap "Import Tactic JSON"\n3. Select the attached file\n\nBest,`;
+
+                return (
+                  <>
+                    <button
+                      type="button"
+                      onClick={() => setMailOpen((v) => !v)}
+                      className="flex w-full items-center gap-2.5 rounded-xl border border-[#e3e7f2] bg-white px-3 py-2 text-left transition-all hover:bg-[#f4f5fb] active:scale-[0.98]"
+                    >
+                      <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-md bg-[#eef1fb] text-[#1C2B6B]">
+                        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M2 7l10 7 10-7"/></svg>
+                      </span>
+                      <div className="min-w-0 flex-1">
+                        <div className="text-[12px] font-semibold text-[#1C2B6B] leading-tight">Mail tactic to team</div>
+                        <div className="text-[10px] text-[#8a93b0] mt-0.5">
+                          {emails.length > 0 ? `${emails.length} address${emails.length !== 1 ? 'es' : ''} ready` : 'No emails in team CSV'}
+                        </div>
+                      </div>
+                      <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={`shrink-0 text-[#8a93b0] transition-transform ${mailOpen ? 'rotate-180' : ''}`}><polyline points="6 9 12 15 18 9"/></svg>
+                    </button>
+
+                    {mailOpen && (
+                      <div className="mt-1 rounded-xl border border-[#e3e7f2] bg-[#f8f9ff] p-3 space-y-2.5">
+                        {/* Email addresses */}
+                        <div>
+                          <div className="flex items-center justify-between mb-1">
+                            <span className="text-[10px] font-bold uppercase tracking-wider text-[#8a93b0]">To</span>
+                            <button type="button" onClick={() => navigator.clipboard?.writeText(emails.join(', '))}
+                              className="text-[10px] font-bold text-[#1C2B6B] hover:underline">Copy</button>
+                          </div>
+                          <div className="rounded-lg bg-white border border-[#e3e7f2] px-2.5 py-2 text-[11px] text-[#1C2B6B] leading-relaxed break-all select-all">
+                            {emails.length > 0 ? emails.join(', ') : <span className="text-[#8a93b0]">No email addresses found in team CSV</span>}
+                          </div>
+                        </div>
+
+                        {/* Subject */}
+                        <div>
+                          <div className="flex items-center justify-between mb-1">
+                            <span className="text-[10px] font-bold uppercase tracking-wider text-[#8a93b0]">Subject</span>
+                            <button type="button" onClick={() => navigator.clipboard?.writeText(subject)}
+                              className="text-[10px] font-bold text-[#1C2B6B] hover:underline">Copy</button>
+                          </div>
+                          <div className="rounded-lg bg-white border border-[#e3e7f2] px-2.5 py-2 text-[11px] text-[#1C2B6B] select-all">
+                            {subject}
+                          </div>
+                        </div>
+
+                        {/* Body */}
+                        <div>
+                          <div className="flex items-center justify-between mb-1">
+                            <span className="text-[10px] font-bold uppercase tracking-wider text-[#8a93b0]">Message</span>
+                            <button type="button" onClick={() => navigator.clipboard?.writeText(body)}
+                              className="text-[10px] font-bold text-[#1C2B6B] hover:underline">Copy</button>
+                          </div>
+                          <div className="rounded-lg bg-white border border-[#e3e7f2] px-2.5 py-2 text-[11px] text-[#1C2B6B] whitespace-pre-wrap leading-relaxed select-all">
+                            {body}
+                          </div>
+                        </div>
+
+                        <p className="text-[10px] text-[#8a93b0] leading-snug">Attach the exported tactic JSON file to your email.</p>
+                      </div>
+                    )}
+                  </>
+                );
+              })()}
             </div>
 
             {/* ── Save to cloud archive ── */}
