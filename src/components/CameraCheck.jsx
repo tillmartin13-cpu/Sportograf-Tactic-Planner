@@ -273,34 +273,13 @@ function CameraTutorial({ onProceed, lang }) {
       </div>
 
       <div className="flex-1 overflow-y-auto px-4 pb-6 space-y-4">
-        {/* Example image — SVG illustration */}
+        {/* Example image */}
         <div className="rounded-2xl overflow-hidden bg-black/40 border border-white/10">
-          <svg viewBox="0 0 360 220" xmlns="http://www.w3.org/2000/svg" className="w-full">
-            {/* Phone outline */}
-            <rect x="105" y="10" width="150" height="200" rx="16" fill="#1e293b" stroke="#334155" strokeWidth="2"/>
-            {/* Phone screen */}
-            <rect x="113" y="24" width="134" height="172" rx="6" fill="#0f172a"/>
-            {/* Camera display on phone screen */}
-            <rect x="120" y="32" width="120" height="80" rx="4" fill="#1C2B6B"/>
-            {/* Time on camera display */}
-            <text x="180" y="62" textAnchor="middle" fill="white" fontSize="18" fontWeight="bold" fontFamily="monospace">10:24:37</text>
-            <text x="180" y="80" textAnchor="middle" fill="#94a3b8" fontSize="10" fontFamily="monospace">2025.06.14</text>
-            <text x="180" y="96" textAnchor="middle" fill="#f5c800" fontSize="9" fontFamily="monospace">JPEG  M  AWB</text>
-            {/* Card indicator */}
-            <rect x="125" y="102" width="110" height="4" rx="2" fill="#166534" opacity="0.7"/>
-            {/* Good photo label */}
-            <rect x="120" y="116" width="120" height="18" rx="4" fill="#166534" opacity="0.8"/>
-            <text x="180" y="129" textAnchor="middle" fill="white" fontSize="9" fontFamily="sans-serif">✓ Display clearly visible</text>
-            {/* Arrow pointing at display */}
-            <path d="M 80 72 L 115 72" stroke="#f5c800" strokeWidth="2" markerEnd="url(#arr)" fill="none"/>
-            <defs>
-              <marker id="arr" markerWidth="6" markerHeight="6" refX="3" refY="3" orient="auto">
-                <path d="M0,0 L6,3 L0,6 Z" fill="#f5c800"/>
-              </marker>
-            </defs>
-            <text x="40" y="68" textAnchor="middle" fill="#f5c800" fontSize="8">Camera</text>
-            <text x="40" y="78" textAnchor="middle" fill="#f5c800" fontSize="8">display</text>
-          </svg>
+          <img
+            src="/camera-tutorial-example.jpg"
+            alt="Example camera display photo"
+            className="w-full object-contain"
+          />
         </div>
 
         {/* Tips */}

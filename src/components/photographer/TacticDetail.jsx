@@ -1377,11 +1377,36 @@ export function TacticDetail({ onOpenCheckIn }) {
         <ProfileCard profile={profile} tacticId={activeTacticId} onOpenCheckIn={onOpenCheckIn} isComplete={isComplete} />
       )}
 
-      {/* Certificate button — compact, opens modal */}
-      {isComplete && (() => {
+      {/* Certificate button — only when all cameras are handled (checked-in or checked-out) */}
+      {(() => {
+        if (!profile) return null;
+        const cameraSettings = findAllCameraSettings(profile?.equipment || '');
+        const cameraCheckouts = checkIn?.cameraCheckouts ?? {};
+
+        // A camera is handled if explicitly checked out, OR if the check-in flow was completed
+        // (flow completion implicitly covers all remaining cameras as "checked in")
+        const allHandled = cameraSettings.length === 0
+          || isComplete
+          || cameraSettings.every((s) => cameraCheckouts[s.model] === 'checked_out');
+
+        if (!allHandled) {
+          // Show hint: which cameras still need a decision
+          const pending = cameraSettings.filter((s) => cameraCheckouts[s.model] !== 'checked_out');
+          return (
+            <div className="rounded-2xl border border-amber-200 bg-amber-50 px-4 py-3 text-xs text-amber-700">
+              ⚠️ Please check in or check out all cameras before generating the certificate:
+              {' '}<strong>{pending.map((s) => s.model).join(', ')}</strong>
+            </div>
+          );
+        }
+
+        if (!isComplete && cameraSettings.length > 0) {
+          // All cameras checked out but no check-in flow — don't show cert
+          return null;
+        }
+
         const steps = checkIn?.steps ?? {};
         const cameraResult = checkIn?.cameraCheckResult;
-        const cameraSettings = findAllCameraSettings(profile?.equipment || '');
         const requiresReader = cameraSettings.some((s) => needsCardReader(s.brand, s.model));
         const checks = [
           { key: 'tutorials', label: 'Academy Tutorials', done: ['settings','workflow','newcomer'].every((k) => steps[k]) },
@@ -1391,6 +1416,11 @@ export function TacticDetail({ onOpenCheckIn }) {
           { key: 'camera', label: 'Camera Time Check', done: ['accepted', 'warning', 'forced'].includes(cameraResult?.status) },
         ];
         const completedChecks = checks.filter((c) => c.done).map((c) => c.label);
+        const checkedOutCams = cameraSettings.filter((s) => cameraCheckouts[s.model] === 'checked_out');
+        if (checkedOutCams.length > 0) {
+          completedChecks.push(`Checked out: ${checkedOutCams.map((s) => s.model).join(', ')}`);
+        }
+
         return (
           <CertificateButton
             event={{ id: event?.id, name: event?.name, eventDate: event?.date }}
@@ -1400,7 +1430,7 @@ export function TacticDetail({ onOpenCheckIn }) {
             cameraImageUrl={cameraResult?.imageDataUrl}
             cameraResult={cameraResult}
             cameraString={profile?.cameras || profile?.equipment || ''}
-            checkedInAt={checkIn.completedAt}
+            checkedInAt={checkIn?.completedAt}
             completedChecks={completedChecks}
           />
         );
