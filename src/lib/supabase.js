@@ -1,6 +1,7 @@
 const SUPABASE_URL = 'https://upijqspdxkpcyexgqewd.supabase.co';
 const SUPABASE_KEY = 'sb_publishable_qk6pam1kd3m6UXOPGdp72w_65FZNmWi';
 const BUCKET = 'certificates';
+const TACTICS_BUCKET = 'tactics';
 
 /** Upload a certificate blob to Supabase Storage. Returns public URL. */
 export async function uploadCertificate(blob, filename) {
@@ -18,6 +19,31 @@ export async function uploadCertificate(blob, filename) {
     throw new Error(`Upload failed: ${msg}`);
   }
   return `${SUPABASE_URL}/storage/v1/object/public/${BUCKET}/${filename}`;
+}
+
+/**
+ * Upload a tactic JSON to Supabase Storage.
+ * Filename: {EVENT_ID}_{YEAR}.json  e.g. "K7X9_2025.json"
+ * Returns public URL.
+ */
+export async function uploadTacticJson(payload, eventId) {
+  const year = new Date().getFullYear();
+  const filename = `${eventId}_${year}.json`;
+  const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
+  const res = await fetch(`${SUPABASE_URL}/storage/v1/object/${TACTICS_BUCKET}/${filename}`, {
+    method: 'POST',
+    headers: {
+      Authorization: `Bearer ${SUPABASE_KEY}`,
+      'Content-Type': 'application/json',
+      'x-upsert': 'true',
+    },
+    body: blob,
+  });
+  if (!res.ok) {
+    const msg = await res.text().catch(() => res.status);
+    throw new Error(`Upload failed: ${msg}`);
+  }
+  return `${SUPABASE_URL}/storage/v1/object/public/${TACTICS_BUCKET}/${filename}`;
 }
 
 /** List all certificates for a given event ID. Returns array of { acronym, url, updatedAt }. */

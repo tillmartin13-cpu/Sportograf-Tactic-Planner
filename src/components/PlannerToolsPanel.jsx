@@ -8,6 +8,7 @@ import { isHyroxEvent, isIndoorEvent } from '../lib/hyrox';
 import { TLInfoEditor } from './TLInfoEditor';
 import { SpeedToolsModal } from './SpeedTools';
 import { AIEventLogicModal } from './AIEventLogic';
+import { uploadTacticJson } from '../lib/supabase';
 
 // ─── Icons ───────────────────────────────────────────────────────────────────
 
@@ -150,11 +151,35 @@ function PanelContent({ activeView, onViewChange, onClose }) {
   const setMapExpanded = usePlannerStore((s) => s.setMapExpanded);
   const toggleReferenceLayer = usePlannerStore((s) => s.toggleReferenceLayer);
   const { t } = useTranslation();
+  const photographers = usePlannerStore((s) => s.photographers);
   const [settingsOpen, setSettingsOpen] = useState(false);
   const [importOpen, setImportOpen] = useState(false);
   const [teamInfoOpen, setTeamInfoOpen] = useState(false);
   const [speedToolsOpen, setSpeedToolsOpen] = useState(false);
   const [aiEventOpen, setAiEventOpen] = useState(false);
+  const [tacticUploading, setTacticUploading] = useState(false);
+  const [tacticUploadStatus, setTacticUploadStatus] = useState(null); // null | 'ok' | 'error'
+
+  async function handleUploadTactic() {
+    if (!event) return;
+    setTacticUploading(true);
+    setTacticUploadStatus(null);
+    try {
+      const { eventCode, ...publicEvent } = event;
+      const payload = {
+        _sportograf: { format: 'tactic-package', version: '1.0.0', exportedAt: new Date().toISOString() },
+        event: publicEvent,
+        photographers,
+        tactic,
+      };
+      await uploadTacticJson(payload, event.id);
+      setTacticUploadStatus('ok');
+    } catch {
+      setTacticUploadStatus('error');
+    } finally {
+      setTacticUploading(false);
+    }
+  }
 
   const hasReference = (tactic.referenceSpots || []).length > 0;
   const hyrox = isHyroxEvent(event);
@@ -325,7 +350,7 @@ function PanelContent({ activeView, onViewChange, onClose }) {
             </div>
 
             {/* ── Export — green, workflow conclusion ── */}
-            <div className="px-1 pb-2 pt-1">
+            <div className="px-1 pb-1 pt-1">
               <button
                 type="button"
                 onClick={() => exportTacticJson(true)}
@@ -337,6 +362,36 @@ function PanelContent({ activeView, onViewChange, onClose }) {
                 <div className="min-w-0 flex-1">
                   <div className="text-sm font-semibold text-[#166534] leading-tight">{t('toolsExportTacticJson')}</div>
                   <div className="text-[10px] text-[#4ade80] mt-0.5">{t('toolsExportTacticJsonHint')}</div>
+                </div>
+              </button>
+            </div>
+
+            {/* ── Save to cloud archive ── */}
+            <div className="px-1 pb-2">
+              <button
+                type="button"
+                onClick={handleUploadTactic}
+                disabled={tacticUploading || !event}
+                className="flex w-full items-center gap-2.5 rounded-xl border border-[#e3e7f2] bg-white px-3 py-2 text-left transition-all hover:bg-[#f4f5fb] disabled:opacity-50 active:scale-[0.98]"
+              >
+                <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-md bg-[#eef1fb] text-[#1C2B6B]">
+                  {tacticUploading
+                    ? <svg className="animate-spin" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/></svg>
+                    : tacticUploadStatus === 'ok'
+                      ? <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round"><path d="M20 6L9 17l-5-5"/></svg>
+                      : <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round"><path d="M12 2v10M8 6l4-4 4 4M20 16v2a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-2"/></svg>
+                  }
+                </span>
+                <div className="min-w-0 flex-1">
+                  <div className="text-[12px] font-semibold text-[#1C2B6B] leading-tight">
+                    {tacticUploading ? 'Uploading…' : tacticUploadStatus === 'ok' ? 'Saved to cloud ✓' : 'Save tactic to cloud archive'}
+                  </div>
+                  {tacticUploadStatus === 'error' && (
+                    <div className="text-[10px] text-red-500 mt-0.5">Upload failed — check connection</div>
+                  )}
+                  {!tacticUploadStatus && !tacticUploading && (
+                    <div className="text-[10px] text-[#8a93b0] mt-0.5">Saves as {event?.id}_{new Date().getFullYear()}.json</div>
+                  )}
                 </div>
               </button>
             </div>
