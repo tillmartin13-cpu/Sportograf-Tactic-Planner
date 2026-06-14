@@ -22,7 +22,7 @@ function CertPreviewModal({ cert, onClose }) {
 
 export function TeamCheckInPanel() {
   const event = useCurrentEvent();
-  const photographers = usePlannerStore((s) => s.photographers) || [];
+  const photographers = usePlannerStore((s) => s.photographers) ?? [];
   const [certs, setCerts] = useState([]);
   const [certsLoading, setCertsLoading] = useState(false);
   const [certsError, setCertsError] = useState(null);
