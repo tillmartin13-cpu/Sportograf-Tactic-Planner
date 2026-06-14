@@ -55,24 +55,31 @@ export function TeamCheckInPanel() {
     if (!event) return undefined;
     const refresh = () => setCheckIns(loadCheckIns(event.id));
     refresh();
-    const timer = setInterval(refresh, 5000);
+    const timer = setInterval(refresh, 60000);
     return () => clearInterval(timer);
   }, [event, checkInRevision]);
 
-  async function fetchCerts() {
+  async function fetchCerts(silent = false) {
     if (!event) return;
-    setCertsLoading(true);
+    if (!silent) setCertsLoading(true);
     setCertsError(null);
     try {
       const result = await listCertificatesForEvent(String(event.id));
       setCerts(result);
       setLastFetched(new Date());
     } catch {
-      setCertsError('Could not load — check connection.');
+      if (!silent) setCertsError('Could not load — check connection.');
     } finally {
-      setCertsLoading(false);
+      if (!silent) setCertsLoading(false);
     }
   }
+
+  // Auto-poll every 5 minutes
+  useEffect(() => {
+    if (!event) return undefined;
+    const timer = setInterval(() => fetchCerts(true), 60000);
+    return () => clearInterval(timer);
+  }, [event?.id]);
 
   if (!event) return null;
 
