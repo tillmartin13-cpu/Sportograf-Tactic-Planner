@@ -276,7 +276,7 @@ function CameraTutorial({ onProceed, lang }) {
         {/* Example image */}
         <div className="rounded-2xl overflow-hidden bg-black/40 border border-white/10">
           <img
-            src="/camera-tutorial-example.jpg"
+            src="/rolling_shutter.jpg"
             alt="Example camera display photo"
             className="w-full object-contain"
           />
