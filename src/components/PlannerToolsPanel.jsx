@@ -1,10 +1,11 @@
-import { useRef, useState } from 'react';
+import { useRef, useState, useCallback } from 'react';
 import { usePlannerStore } from '../store/usePlannerStore';
 import { useCurrentEvent } from '../hooks/useCurrentEvent';
 import { useTactic } from '../hooks/useTactic';
 import { LanguageSettingsModal } from './LanguageSettingsModal';
 import { useTranslation } from '../i18n/useTranslation';
 import { isHyroxEvent, isIndoorEvent } from '../lib/hyrox';
+import { EVENT_CODE_LENGTH, normalizeEventCode } from '../lib/eventCode';
 import { TLInfoEditor } from './TLInfoEditor';
 import { SpeedToolsModal } from './SpeedTools';
 import { AIEventLogicModal } from './AIEventLogic';
@@ -144,7 +145,7 @@ function PanelContent({ activeView, onViewChange, onClose }) {
   const tactic = useTactic(event?.id);
   const importTeamCsv = usePlannerStore((s) => s.importTeamCsv);
   const importTacticJson = usePlannerStore((s) => s.importTacticJson);
-  const importInfofile = usePlannerStore((s) => s.importInfofile);
+  const applyReferenceCode = usePlannerStore((s) => s.applyReferenceCode);
   const loadGpx = usePlannerStore((s) => s.loadGpx);
   const importKml = usePlannerStore((s) => s.importKml);
   const exportTacticJson = usePlannerStore((s) => s.exportTacticJson);
@@ -160,6 +161,10 @@ function PanelContent({ activeView, onViewChange, onClose }) {
   const [tacticUploading, setTacticUploading] = useState(false);
   const [tacticUploadStatus, setTacticUploadStatus] = useState(null); // null | 'ok' | 'error'
   const [mailOpen, setMailOpen] = useState(false);
+  const [refCodeOpen, setRefCodeOpen] = useState(false);
+  const [refCode, setRefCode] = useState('');
+  const [refCodeLoading, setRefCodeLoading] = useState(false);
+  const [refCodeError, setRefCodeError] = useState('');
 
   async function handleUploadTactic() {
     if (!event) return;
@@ -270,9 +275,62 @@ function PanelContent({ activeView, onViewChange, onClose }) {
               <FileRow icon="pin" label="KML / KMZ" hint="Spots + route from Google Maps" accept=".kml,.kmz"
                 onPick={(f) => { importKml(f); onClose?.(); }} />
             )}
-            {!indoor && (
-              <FileRow icon="infofile" label="Infofile" hint="Spots + assignments from Sportograf" accept=".txt"
-                onPick={async (f) => { await importInfofile(await f.text()); onClose?.(); }} />
+            {event && (
+              <div>
+                <button
+                  type="button"
+                  onClick={() => { setRefCodeOpen((v) => !v); setRefCodeError(''); }}
+                  className="flex w-full items-center gap-2.5 rounded-lg px-3 py-2 text-left transition-colors hover:bg-[var(--sg-tint)]"
+                >
+                  <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-md bg-[#fef0f3] text-[#cc1336]">
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                      <path d="M12 8v4l3 3"/><circle cx="12" cy="12" r="10"/>
+                    </svg>
+                  </span>
+                  <span className="flex-1 min-w-0">
+                    <span className="block text-xs font-semibold text-[var(--sg-navy)]">Vorjahr laden</span>
+                    <span className="block text-[10px] text-[var(--sg-muted)] truncate">Event-Code eingeben</span>
+                  </span>
+                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"
+                    className={`shrink-0 text-[#aaa] transition-transform ${refCodeOpen ? 'rotate-180' : ''}`}>
+                    <polyline points="6 9 12 15 18 9"/>
+                  </svg>
+                </button>
+                {refCodeOpen && (
+                  <form
+                    className="mx-3 mb-2 mt-1 space-y-1.5"
+                    onSubmit={async (e) => {
+                      e.preventDefault();
+                      setRefCodeError('');
+                      setRefCodeLoading(true);
+                      try {
+                        const ok = await applyReferenceCode(refCode);
+                        if (ok) { setRefCode(''); setRefCodeOpen(false); onClose?.(); }
+                        else setRefCodeError('Code nicht gefunden oder Event stimmt nicht überein.');
+                      } finally {
+                        setRefCodeLoading(false);
+                      }
+                    }}
+                  >
+                    <input
+                      value={refCode}
+                      onChange={(e) => setRefCode(normalizeEventCode(e.target.value))}
+                      placeholder="Event-Code"
+                      maxLength={EVENT_CODE_LENGTH}
+                      className="sg-input font-mono text-center font-bold tracking-[0.28em] text-sm"
+                      autoFocus
+                    />
+                    {refCodeError && <p className="text-[10px] font-semibold text-[#cc1336]">{refCodeError}</p>}
+                    <button
+                      type="submit"
+                      disabled={refCodeLoading || !refCode}
+                      className="sg-btn w-full text-xs disabled:opacity-50"
+                    >
+                      {refCodeLoading ? '…' : 'Vorjahr laden'}
+                    </button>
+                  </form>
+                )}
+              </div>
             )}
           </div>
         )}
