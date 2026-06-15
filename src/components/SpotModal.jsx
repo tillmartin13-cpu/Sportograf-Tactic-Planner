@@ -309,14 +309,36 @@ export function SpotModal() {
         )}
 
         {isPhoto ? (
-          <label className="mb-3 block">
+          <div className="mb-3">
             <span className="text-[10px] font-bold uppercase tracking-wide text-[#bbb]">Photographer acronym</span>
+            {photographers.length > 0 && (
+              <div className="mt-1.5 flex flex-wrap gap-1.5">
+                {photographers.map((p) => {
+                  const active = name.toUpperCase() === p.code;
+                  return (
+                    <button
+                      key={p.id}
+                      type="button"
+                      onClick={() => setName(p.code)}
+                      className={`rounded-lg border px-2.5 py-1 text-xs font-bold transition-colors ${
+                        active
+                          ? 'border-[#1C2B6B] bg-[#1C2B6B] text-white'
+                          : 'border-[#dde1f0] bg-white text-[#1C2B6B] hover:border-[#1C2B6B]'
+                      }`}
+                    >
+                      {p.code}
+                      {p.hasLs && <span className="ml-1 opacity-60">·LS</span>}
+                    </button>
+                  );
+                })}
+              </div>
+            )}
             <input
               list="team-acronym-list"
               value={name}
               onChange={(e) => setName(e.target.value.toUpperCase())}
               className="sg-input mt-1.5 font-mono font-bold uppercase"
-              placeholder=""
+              placeholder="or type manually"
             />
             <datalist id="team-acronym-list">
               {photographers.map((p) => (
@@ -331,7 +353,7 @@ export function SpotModal() {
                 Remote camera (LS)
               </div>
             ) : null; })()}
-          </label>
+          </div>
         ) : (
           <label className="mb-3 block">
             <span className="text-[10px] font-bold uppercase tracking-wide text-[#bbb]">Label</span>
