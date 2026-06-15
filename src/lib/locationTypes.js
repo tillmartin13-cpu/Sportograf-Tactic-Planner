@@ -3,7 +3,7 @@ export const LOCATION_TYPES = {
   meeting: { id: 'meeting', label: 'Meeting', color: '#2196F3', emoji: '🤝' },
   copy: { id: 'copy', label: 'Copy station', color: '#2196F3', emoji: '💻' },
   parking: { id: 'parking', label: 'Parking', color: '#2196F3', emoji: '🅿' },
-  accommodation: { id: 'accommodation', label: 'Accommodation', color: '#2196F3', emoji: '🏨' },
+  accommodation: { id: 'accommodation', label: 'Accommodation', color: '#2196F3', emoji: '🛏️' },
   other: { id: 'other', label: 'Other', color: '#2196F3', emoji: '🚩' },
 };
 
