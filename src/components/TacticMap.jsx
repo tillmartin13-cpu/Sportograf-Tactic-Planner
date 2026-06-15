@@ -257,7 +257,7 @@ function SpotMapMarker({
           )}
           {spot.results?.length > 0 ? (
             <ul className="mt-1 space-y-0.5 text-[#5b6aa8]">
-              {spot.results.filter((r) => r.dist == null || r.dist === 0 || r.dist <= 0.05).map((r, i) => (
+              {spot.results.filter((r) => r.dist == null || r.dist === 0 || r.dist <= 0.1).map((r, i) => (
                 <li key={i}>
                   {r.trackName}: <strong>KM {Number(r.km).toFixed(1)}</strong>
                 </li>

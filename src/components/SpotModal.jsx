@@ -384,7 +384,7 @@ export function SpotModal() {
         )}
 
         {editingSpot?.results?.length > 0 && (() => {
-          const filtered = editingSpot.results.filter((r) => r.dist == null || r.dist === 0 || r.dist <= 0.05);
+          const filtered = editingSpot.results.filter((r) => r.dist == null || r.dist === 0 || r.dist <= 0.1);
           if (!filtered.length) return null;
           return (
             <div className="mb-3 rounded-lg bg-[#f6f8ff] p-2.5 text-xs text-[#5b6aa8]">
