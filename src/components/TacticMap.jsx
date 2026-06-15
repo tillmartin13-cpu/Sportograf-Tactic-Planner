@@ -404,7 +404,7 @@ export function TacticMap({
             type="button"
             onClick={onToggleReferenceLayer}
             className={`rounded-lg px-2.5 py-1.5 text-[10px] font-bold shadow-md ${
-              showReferenceLayer ? 'bg-[#7c3aed] text-white' : 'bg-white/95 text-[#7c3aed]'
+              showReferenceLayer ? 'bg-[#cc1336] text-white' : 'bg-white/95 text-[#cc1336]'
             }`}
           >
             {showReferenceLayer ? t('toolsHideReference') : t('toolsShowReference')}
