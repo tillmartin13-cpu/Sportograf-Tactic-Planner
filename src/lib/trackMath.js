@@ -23,6 +23,27 @@ export function nearestKm(lat, lng, track) {
   return { km: track.cumKm[idx], dist: best };
 }
 
+// Perpendicular distance from point P to segment AB (all in degrees, result in km)
+function distToSegment(p, a, b) {
+  const dx = b.lng - a.lng;
+  const dy = b.lat - a.lat;
+  const lenSq = dx * dx + dy * dy;
+  if (lenSq === 0) return hav(p, a);
+  let t = ((p.lng - a.lng) * dx + (p.lat - a.lat) * dy) / lenSq;
+  t = Math.max(0, Math.min(1, t));
+  return hav(p, { lat: a.lat + t * dy, lng: a.lng + t * dx });
+}
+
+// Minimum distance from a point to any segment of the track
+export function distToTrack(lat, lng, track) {
+  let best = Infinity;
+  for (let i = 0; i < track.points.length - 1; i++) {
+    const d = distToSegment({ lat, lng }, track.points[i], track.points[i + 1]);
+    if (d < best) best = d;
+  }
+  return best;
+}
+
 export function snapToTrack(lat, lng, tracks = []) {
   if (!tracks.length) return { lat, lng };
   let best = Infinity;
@@ -93,15 +114,15 @@ export function buildSpotResults(lat, lng, tracks, kmOverrides = {}, useSnap = t
           results.push({ trackIndex, trackName: track.name, km, dist: 0 });
         });
     } else {
-      // Check distance from original position (not snapped) so multi-track spots work
-      const distCheck = nearestKm(lat, lng, track);
-      if (distCheck.dist <= MAX_TRACK_DIST) {
+      // Use segment distance from original position so gaps between GPX points don't exclude valid spots
+      const segDist = distToTrack(lat, lng, track);
+      if (segDist <= MAX_TRACK_DIST) {
         const match = nearestKm(snapped.lat, snapped.lng, track);
         results.push({
           trackIndex,
           trackName: track.name,
           km: match.km,
-          dist: distCheck.dist,
+          dist: segDist,
         });
       }
     }
