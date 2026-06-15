@@ -402,9 +402,6 @@ export function PhotographersPanel() {
                         {[ph.firstName, ph.lastName].filter(Boolean).join(' ')}
                       </div>
                     )}
-                    {ph.dispatch && (
-                      <div className="mt-0.5 text-[10px] font-semibold text-[#a8b0c8]">{ph.dispatch}</div>
-                    )}
                     {ph.cameras && (
                       <div className="mt-1 text-[10px] leading-snug text-[#9aa3bf]">
                         <span className="font-bold text-[#b0b8cf]">Cam: </span>{ph.cameras}
