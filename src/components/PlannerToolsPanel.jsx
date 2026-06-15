@@ -370,7 +370,12 @@ function PanelContent({ activeView, onViewChange, onClose }) {
             {/* ── Mail tactic to team ── */}
             <div className="px-1 pb-1">
               {(() => {
-                const emails = (photographers || []).map((p) => p.email).filter(Boolean);
+                // Only photographers assigned in the current tactic — not accumulated from past imports
+                const assignedIds = new Set((tactic?.assignments || []).map((a) => a.photographer_id));
+                const teamPhotographers = assignedIds.size > 0
+                  ? (photographers || []).filter((p) => assignedIds.has(p.id))
+                  : (photographers || []);
+                const emails = teamPhotographers.map((p) => p.email).filter(Boolean);
                 const eventName = event?.name || 'the event';
                 const eventDate = event?.date ? new Date(event.date).toLocaleDateString('de-DE', { day: '2-digit', month: '2-digit', year: 'numeric' }) : '';
                 const subject = `Tactic — ${eventName}${eventDate ? ' · ' + eventDate : ''}`;

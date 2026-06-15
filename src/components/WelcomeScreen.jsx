@@ -355,7 +355,7 @@ export function WelcomeScreen({ tlUnlocked, onTLUnlock }) {
   const { t } = useTranslation();
   const [settingsOpen, setSettingsOpen] = useState(false);
   const [deleteTarget, setDeleteTarget] = useState(null);
-  const [activeRole, setActiveRole] = useState(null); // null = picker, 'tl' | 'photographer'
+  const [activeRole, setActiveRole] = useState(tlUnlocked ? 'tl' : null); // null = picker, 'tl' | 'photographer'
   const [showTLGate, setShowTLGate] = useState(false);
   const [newId, setNewId] = useState('');
   const [newName, setNewName] = useState('');
