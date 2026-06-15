@@ -1083,10 +1083,6 @@ function HyroxSection({ pkg, acronym, photographers }) {
 
   if (!hyrox) return null;
 
-  const assignments = hyrox.assignments || {};
-  const waves = hyrox.waves || [];
-  const waveTimes = hyrox.waveTimes || {};
-  const cellTimes = hyrox.cellTimes || {};
   const activeStationIds = hyrox.stations || HYROX_STATIONS.map((s) => s.id);
   const stations = HYROX_STATIONS.filter((s) => activeStationIds.includes(s.id));
 
@@ -1094,83 +1090,85 @@ function HyroxSection({ pkg, acronym, photographers }) {
     (p) => p.code === acronym || p.code === acronym?.replace(/\d+$/, ''),
   );
 
-  const myAssignments = [];
-  stations.forEach((station) => {
-    waves.forEach((wave) => {
-      const key = `${station.id}__${wave}`;
-      const phIds = assignments[key] || [];
-      if (!ph || phIds.includes(ph.id)) {
-        const ct = cellTimes[key];
-        const wt = waveTimes[wave];
-        myAssignments.push({ station, wave, cellTime: ct, waveTime: wt, isAssigned: phIds.includes(ph?.id) });
-      }
-    });
-  });
+  // Support both old flat format and new multi-day format
+  const days = Array.isArray(hyrox.days) && hyrox.days.length
+    ? hyrox.days
+    : [{ id: '1', waves: hyrox.waves || [], assignments: hyrox.assignments || {}, waveTimes: hyrox.waveTimes || {}, cellTimes: hyrox.cellTimes || {} }];
 
-  const relevant = ph ? myAssignments.filter((a) => a.isAssigned) : myAssignments;
-  if (!relevant.length && ph) return null;
+  // Per day: collect this photographer's assignments
+  const dayEntries = days.map((day) => {
+    const entries = [];
+    stations.forEach((station) => {
+      (day.waves || []).forEach((shift) => {
+        const key = `${station.id}__${shift}`;
+        const phIds = day.assignments[key] || [];
+        if (!ph || phIds.includes(ph.id)) {
+          const ct = (day.cellTimes || {})[key];
+          const wt = (day.waveTimes || {})[shift];
+          entries.push({ station, shift, cellTime: ct, waveTime: wt, isAssigned: phIds.includes(ph?.id) });
+        }
+      });
+    });
+    const relevant = ph ? entries.filter((e) => e.isAssigned) : entries;
+    return { day, relevant };
+  }).filter(({ relevant }) => relevant.length > 0);
+
+  if (!dayEntries.length && ph) return null;
+
+  const multiDay = days.length > 1;
 
   return (
     <>
       {lightboxSrc && createPortal(
-        <div
-          className="fixed inset-0 z-[9999] flex items-center justify-center bg-black/80 p-4"
-          onClick={() => setLightboxSrc(null)}
-        >
-          <img
-            src={lightboxSrc}
-            alt=""
-            className="max-h-full max-w-full rounded-2xl object-contain shadow-2xl"
-            onClick={(e) => e.stopPropagation()}
-          />
-          <button
-            type="button"
-            onClick={() => setLightboxSrc(null)}
-            className="absolute right-4 top-4 rounded-full bg-white/20 p-2 text-white hover:bg-white/40"
-          >
-            ✕
-          </button>
+        <div className="fixed inset-0 z-[9999] flex items-center justify-center bg-black/80 p-4" onClick={() => setLightboxSrc(null)}>
+          <img src={lightboxSrc} alt="" className="max-h-full max-w-full rounded-2xl object-contain shadow-2xl" onClick={(e) => e.stopPropagation()} />
+          <button type="button" onClick={() => setLightboxSrc(null)} className="absolute right-4 top-4 rounded-full bg-white/20 p-2 text-white hover:bg-white/40">✕</button>
         </div>,
         document.body
       )}
       <div className="rounded-2xl border border-[#e3e7f2] bg-white p-4">
         <h3 className="mb-3 text-xs font-bold uppercase tracking-wider text-gray-400">
-          HYROX — {ph ? 'My Stations' : 'All Stations'}
+          HYROX — {ph ? 'Meine Stationen' : 'Alle Stationen'}
         </h3>
-        <div className="flex flex-col gap-2">
-          {relevant.map(({ station, wave, cellTime, waveTime }) => {
-            const images = getStationImages(station.id);
-            const timeFrom = cellTime?.from || waveTime?.from;
-            const timeTo = cellTime?.to || waveTime?.to;
-            return (
-              <div key={`${station.id}__${wave}`} className="rounded-xl border border-[#f0f2fa] bg-[#f8f9ff] p-3">
-                <div className="flex items-center justify-between gap-2">
-                  <div className="flex items-center gap-2">
-                    <span className="inline-block h-2.5 w-2.5 shrink-0 rounded-full" style={{ background: station.color }} />
-                    <span className="text-sm font-extrabold text-[#1C2B6B]">{station.label}</span>
-                    <span className="rounded bg-[#e8eaf6] px-1.5 py-0.5 text-[10px] font-bold text-[#4a5680]">Einsatz {wave}</span>
-                  </div>
-                  {(timeFrom || timeTo) && (
-                    <span className="text-xs font-semibold text-[#6b7db3]">{timeFrom || '–'} – {timeTo || '–'}</span>
-                  )}
-                </div>
-                {images.length > 0 && (
-                  <div className="mt-2 flex flex-wrap gap-1.5">
-                    {images.map((src) => (
-                      <button
-                        key={src}
-                        type="button"
-                        onClick={() => setLightboxSrc(src)}
-                        className="h-14 w-14 shrink-0 overflow-hidden rounded-lg border border-[#e3e7f2] focus:outline-none"
-                      >
-                        <img src={src} alt="" className="h-full w-full object-cover" loading="lazy" />
-                      </button>
-                    ))}
-                  </div>
-                )}
+        <div className="flex flex-col gap-4">
+          {dayEntries.map(({ day, relevant }) => (
+            <div key={day.id}>
+              {multiDay && (
+                <div className="mb-2 text-[10px] font-bold uppercase tracking-wide text-[#7c3aed]">Tag {day.id}</div>
+              )}
+              <div className="flex flex-col gap-2">
+                {relevant.map(({ station, shift, cellTime, waveTime }) => {
+                  const images = getStationImages(station.id);
+                  const timeFrom = cellTime?.from || waveTime?.from;
+                  const timeTo = cellTime?.to || waveTime?.to;
+                  return (
+                    <div key={`${day.id}__${station.id}__${shift}`} className="rounded-xl border border-[#f0f2fa] bg-[#f8f9ff] p-3">
+                      <div className="flex items-center justify-between gap-2">
+                        <div className="flex items-center gap-2">
+                          <span className="inline-block h-2.5 w-2.5 shrink-0 rounded-full" style={{ background: station.color }} />
+                          <span className="text-sm font-extrabold text-[#1C2B6B]">{station.label}</span>
+                          <span className="rounded bg-[#e8eaf6] px-1.5 py-0.5 text-[10px] font-bold text-[#4a5680]">Einsatz {shift}</span>
+                        </div>
+                        {(timeFrom || timeTo) && (
+                          <span className="text-xs font-semibold text-[#6b7db3]">{timeFrom || '–'} – {timeTo || '–'}</span>
+                        )}
+                      </div>
+                      {images.length > 0 && (
+                        <div className="mt-2 flex flex-wrap gap-1.5">
+                          {images.map((src) => (
+                            <button key={src} type="button" onClick={() => setLightboxSrc(src)}
+                              className="h-14 w-14 shrink-0 overflow-hidden rounded-lg border border-[#e3e7f2] focus:outline-none">
+                              <img src={src} alt="" className="h-full w-full object-cover" loading="lazy" />
+                            </button>
+                          ))}
+                        </div>
+                      )}
+                    </div>
+                  );
+                })}
               </div>
-            );
-          })}
+            </div>
+          ))}
         </div>
       </div>
     </>
