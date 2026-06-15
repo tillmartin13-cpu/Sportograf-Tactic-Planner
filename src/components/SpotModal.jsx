@@ -383,16 +383,20 @@ export function SpotModal() {
           </div>
         )}
 
-        {editingSpot?.results?.length > 0 && (
-          <div className="mb-3 rounded-lg bg-[#f6f8ff] p-2.5 text-xs text-[#5b6aa8]">
-            {editingSpot.results.map((r, i) => (
-              <div key={i} className="flex justify-between py-0.5">
-                <span>{r.trackName}</span>
-                <span className="font-extrabold text-[#1C2B6B]">KM {r.km?.toFixed?.(1) ?? r.km}</span>
-              </div>
-            ))}
-          </div>
-        )}
+        {editingSpot?.results?.length > 0 && (() => {
+          const filtered = editingSpot.results.filter((r) => r.dist == null || r.dist === 0 || r.dist <= 0.05);
+          if (!filtered.length) return null;
+          return (
+            <div className="mb-3 rounded-lg bg-[#f6f8ff] p-2.5 text-xs text-[#5b6aa8]">
+              {filtered.map((r, i) => (
+                <div key={i} className="flex justify-between py-0.5">
+                  <span>{r.trackName}</span>
+                  <span className="font-extrabold text-[#1C2B6B]">KM {r.km?.toFixed?.(1) ?? r.km}</span>
+                </div>
+              ))}
+            </div>
+          );
+        })()}
 
         {coords && nav && (
           <div className="mb-3 flex gap-2">
