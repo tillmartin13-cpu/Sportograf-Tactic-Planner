@@ -212,7 +212,7 @@ function SpotMapMarker({
   onSpotClick,
   onSpotDragEnd,
 }) {
-  const draggable = interactive && isPhotoLocation(spot);
+  const draggable = interactive;
 
   const icon = useMemo(
     () =>

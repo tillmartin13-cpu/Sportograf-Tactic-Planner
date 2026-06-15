@@ -304,8 +304,9 @@ export const usePlannerStore = create(
         const tactic = get().getTactic(event.id);
         const tracks = getGpxTracks(tactic);
         const spots = tactic.spots.map((s) => {
-          if (s.id !== spotId || !isPhotoLocation(s)) return s;
-          return rematchPhotoSpot({ ...s, latitude: lat, longitude: lng }, tracks);
+          if (s.id !== spotId) return s;
+          if (isPhotoLocation(s)) return rematchPhotoSpot({ ...s, latitude: lat, longitude: lng }, tracks);
+          return { ...s, latitude: lat, longitude: lng };
         });
         get().updateTactic(event.id, { spots });
         get().showToast('Spot updated.');
