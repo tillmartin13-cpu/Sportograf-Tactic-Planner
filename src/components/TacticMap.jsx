@@ -126,7 +126,7 @@ function ReferenceSpotMarker({ spot, index, referenceTimeline }) {
             type="button"
             onClick={() => {
               map.closePopup();
-              openCreateSpotModal(lat, lng, { name: spot.name, location_type: 'photo' });
+              openCreateSpotModal(lat, lng, { name: spot.name, location_type: 'photo', referenceName: spot.name });
             }}
             style={{ display: 'block', width: '100%', marginTop: 8, marginBottom: 4, background: '#1C2B6B', color: '#fff', border: 'none', borderRadius: 7, padding: '6px 0', fontSize: 12, fontWeight: 800, cursor: 'pointer', letterSpacing: '0.01em' }}
           >
@@ -329,7 +329,10 @@ export function TacticMap({
     .filter((s) => s.latitude != null && s.longitude != null)
     .sort((a, b) => (a.position ?? 0) - (b.position ?? 0));
 
-  const adoptedSpotNames = new Set(spots.map((s) => s.name?.trim().toLowerCase()).filter(Boolean));
+  const adoptedSpotNames = new Set(spots.flatMap((s) => [
+    s.name?.trim().toLowerCase(),
+    s.adoptedFrom?.trim().toLowerCase(),
+  ]).filter(Boolean));
   const referenceWithCoords = (showReferenceLayer ? referenceSpots : [])
     .filter((s) => s.latitude != null && s.longitude != null && !adoptedSpotNames.has(s.name?.trim().toLowerCase()))
     .sort((a, b) => (a.position ?? 0) - (b.position ?? 0));

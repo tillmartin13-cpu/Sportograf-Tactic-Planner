@@ -200,6 +200,7 @@ export const usePlannerStore = create(
         lng,
         kmOverrides = {},
         refImages = [],
+        adoptedFrom = null,
       }) => {
         const event = get().getCurrentEvent();
         if (!event) return;
@@ -267,6 +268,7 @@ export const usePlannerStore = create(
           wide: false,
           notes: notes || '',
           refImages,
+          ...(adoptedFrom ? { adoptedFrom } : {}),
         };
 
         let assignments = [...tactic.assignments];

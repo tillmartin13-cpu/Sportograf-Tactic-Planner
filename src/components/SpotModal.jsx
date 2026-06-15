@@ -128,6 +128,7 @@ export function SpotModal() {
       setNotes(pre.notes || '');
       setRefImages([]);
     }
+    // adoptedFrom tracked via spotModal.prefill.referenceName — no extra state needed
   }, [spotModal?.open, spotModal?.spotId, editingSpot?.id]);
 
   if (!spotModal?.open || !event) return null;
@@ -185,6 +186,7 @@ export function SpotModal() {
       lng: coords?.lng ?? null,
       kmOverrides,
       refImages,
+      adoptedFrom: spotModal.prefill?.referenceName || null,
     });
   };
 
