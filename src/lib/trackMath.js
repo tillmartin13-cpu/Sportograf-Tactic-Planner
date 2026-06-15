@@ -82,7 +82,7 @@ export function buildSpotResults(lat, lng, tracks, kmOverrides = {}, useSnap = t
   const results = [];
 
   // Max distance (km) for a spot to be considered on a track
-  const MAX_TRACK_DIST = 0.3;
+  const MAX_TRACK_DIST = 0.05;
 
   tracks.forEach((track, trackIndex) => {
     const override = kmOverrides[trackIndex];
