@@ -73,25 +73,30 @@ export function PlanningHub({ title = 'Tactic Planner' }) {
                 ) : (
                   <>
                     {(showReferenceTimeline || tactic.referenceTimeline?.length > 0) && (
-                      <div className="rounded-xl border border-[#e3e7f2] bg-white overflow-hidden">
+                      <div className="rounded-xl overflow-hidden border border-[#c4b5fd] shadow-sm">
                         <button
                           type="button"
                           onClick={() => setRefExpanded((v) => !v)}
-                          className="flex w-full items-center justify-between px-3 py-2 text-left hover:bg-[#f8f9ff] transition-colors"
+                          className="flex w-full items-center justify-between px-3 py-2.5 text-left bg-[#7c3aed] hover:bg-[#6d28d9] transition-colors"
                         >
-                          <span className="flex items-center gap-2 text-xs font-bold text-[#5b6aa8]">
-                            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M12 8v4l3 3"/><circle cx="12" cy="12" r="10"/></svg>
+                          <span className="flex items-center gap-2 text-sm font-bold text-white">
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M12 8v4l3 3"/><circle cx="12" cy="12" r="10"/></svg>
                             {referenceLabel}
+                            {refSpots.length > 0 && (
+                              <span className="rounded-full bg-white/20 px-1.5 py-0.5 text-[10px] font-bold text-white/90">
+                                {refSpots.length} Spots
+                              </span>
+                            )}
                           </span>
                           <svg
-                            width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"
-                            className={`text-[#b0b8cf] transition-transform ${refExpanded ? 'rotate-180' : ''}`}
+                            width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"
+                            className={`text-white/70 transition-transform ${refExpanded ? 'rotate-180' : ''}`}
                           >
                             <polyline points="6 9 12 15 18 9" />
                           </svg>
                         </button>
                         {refExpanded && (
-                          <div className="border-t border-[#f0f2fa]">
+                          <div className="border-t border-[#c4b5fd] bg-white">
                             {showReferenceTimeline && (
                               <ReferenceTimeline
                                 spots={refSpots}
