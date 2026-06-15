@@ -1148,7 +1148,7 @@ function HyroxSection({ pkg, acronym, photographers }) {
                   <div className="flex items-center gap-2">
                     <span className="inline-block h-2.5 w-2.5 shrink-0 rounded-full" style={{ background: station.color }} />
                     <span className="text-sm font-extrabold text-[#1C2B6B]">{station.label}</span>
-                    <span className="rounded bg-[#e8eaf6] px-1.5 py-0.5 text-[10px] font-bold text-[#4a5680]">Wave {wave}</span>
+                    <span className="rounded bg-[#e8eaf6] px-1.5 py-0.5 text-[10px] font-bold text-[#4a5680]">Einsatz {wave}</span>
                   </div>
                   {(timeFrom || timeTo) && (
                     <span className="text-xs font-semibold text-[#6b7db3]">{timeFrom || '–'} – {timeTo || '–'}</span>

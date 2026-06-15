@@ -62,14 +62,10 @@ export const HYROX_STATIONS = [
   { id: 'finish',   label: 'Finish',           color: '#1C2B6B' },
 ];
 
-export function parseWaves(waveString) {
-  // "A,B,C" or "A B C" or "Wave A, Wave B"
-  return waveString
-    .split(/[\s,;]+/)
-    .map((w) => w.replace(/^wave\s*/i, '').trim().toUpperCase())
-    .filter(Boolean);
+export function defaultShifts() {
+  return ['1', '2'];
 }
 
-export function defaultWaves() {
-  return ['A', 'B', 'C', 'D'];
+export function shiftLabel(shift) {
+  return `Einsatz ${shift}`;
 }

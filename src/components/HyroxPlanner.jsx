@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { usePlannerStore } from '../store/usePlannerStore';
 import { useCurrentEvent } from '../hooks/useCurrentEvent';
-import { HYROX_STATIONS, defaultWaves } from '../lib/hyrox';
+import { HYROX_STATIONS, defaultShifts, shiftLabel } from '../lib/hyrox';
 import { getStationImages } from '../lib/hyroxStationImages';
 
 // ─── Lightbox ────────────────────────────────────────────────────────────────
@@ -152,29 +152,29 @@ function MatrixCell({ stationId, wave, assigned, photographers, times, onDrop, o
   );
 }
 
-// ─── Wave header controls ────────────────────────────────────────────────────
+// ─── Shift header controls ───────────────────────────────────────────────────
 
-function WaveHeader({ wave, times, onDelete, onTimeChange }) {
+function ShiftHeader({ shift, times, onDelete, onTimeChange }) {
   const [open, setOpen] = useState(false);
   const from = times?.from || '';
   const to = times?.to || '';
 
   return (
-    <th className="border border-gray-200 bg-[#f0f2fa] px-2 py-1.5 text-center text-xs font-extrabold text-[#1C2B6B] min-w-[90px]">
+    <th className="border border-gray-200 bg-[#f0f2fa] px-2 py-1.5 text-center text-xs font-extrabold text-[#1C2B6B] min-w-[110px]">
       <div className="flex items-center justify-center gap-1">
         <button
           type="button"
           onClick={() => setOpen((v) => !v)}
           className="font-extrabold text-[#1C2B6B] hover:underline"
-          title="Set wave time"
+          title="Uhrzeit setzen"
         >
-          Wave {wave}
+          {shiftLabel(shift)}
         </button>
         <button
           type="button"
-          onClick={() => onDelete(wave)}
+          onClick={() => onDelete(shift)}
           className="text-gray-300 hover:text-red-400 leading-none text-[10px]"
-          title="Remove wave"
+          title="Einsatz entfernen"
         >×</button>
       </div>
       {(from || to) && !open && (
@@ -187,20 +187,20 @@ function WaveHeader({ wave, times, onDelete, onTimeChange }) {
           <input
             type="time"
             value={from}
-            onChange={(e) => onTimeChange(wave, 'from', e.target.value)}
+            onChange={(e) => onTimeChange(shift, 'from', e.target.value)}
             className="w-full rounded border border-[#d5daea] px-1 py-0.5 text-[10px] font-normal text-gray-700 outline-none focus:border-[#1C2B6B]"
           />
           <input
             type="time"
             value={to}
-            onChange={(e) => onTimeChange(wave, 'to', e.target.value)}
+            onChange={(e) => onTimeChange(shift, 'to', e.target.value)}
             className="w-full rounded border border-[#d5daea] px-1 py-0.5 text-[10px] font-normal text-gray-700 outline-none focus:border-[#1C2B6B]"
           />
           <button
             type="button"
             onClick={() => setOpen(false)}
             className="text-[9px] font-bold text-[#1C2B6B] hover:underline"
-          >Done</button>
+          >Fertig</button>
         </div>
       )}
     </th>
@@ -220,13 +220,11 @@ export function HyroxPlanner() {
   const updateEvent = usePlannerStore((s) => s.updateEvent);
 
   const [dragId, setDragId] = useState(null);
-  const [newWave, setNewWave] = useState('');
-  const [addingWave, setAddingWave] = useState(false);
 
   if (!event) return null;
 
-  const hyrox = event.hyrox || { waves: defaultWaves(), assignments: {}, stations: HYROX_STATIONS.map(s => s.id) };
-  const waves = hyrox.waves || defaultWaves();
+  const hyrox = event.hyrox || { waves: defaultShifts(), assignments: {}, stations: HYROX_STATIONS.map(s => s.id) };
+  const waves = hyrox.waves?.length ? hyrox.waves : defaultShifts();
   const assignments = hyrox.assignments || {};
 
   // Active stations (all by default, can be toggled)
@@ -257,25 +255,23 @@ export function HyroxPlanner() {
     patch({ cellTimes });
   }
 
-  function addWave() {
-    const w = newWave.trim().toUpperCase();
-    if (!w || waves.includes(w)) return;
-    patch({ waves: [...waves, w] });
-    setNewWave('');
-    setAddingWave(false);
+  function addShift() {
+    const nextNum = String(waves.length + 1);
+    if (waves.includes(nextNum)) return;
+    patch({ waves: [...waves, nextNum] });
   }
 
-  function deleteWave(wave) {
+  function deleteShift(shift) {
     const newAssignments = { ...assignments };
-    HYROX_STATIONS.forEach(s => { delete newAssignments[cellKey(s.id, wave)]; });
+    HYROX_STATIONS.forEach(s => { delete newAssignments[cellKey(s.id, shift)]; });
     const newWaveTimes = { ...(hyrox.waveTimes || {}) };
-    delete newWaveTimes[wave];
-    patch({ waves: waves.filter(w => w !== wave), assignments: newAssignments, waveTimes: newWaveTimes });
+    delete newWaveTimes[shift];
+    patch({ waves: waves.filter(w => w !== shift), assignments: newAssignments, waveTimes: newWaveTimes });
   }
 
-  function handleTimeChange(wave, field, value) {
+  function handleTimeChange(shift, field, value) {
     const waveTimes = { ...(hyrox.waveTimes || {}) };
-    waveTimes[wave] = { ...(waveTimes[wave] || {}), [field]: value };
+    waveTimes[shift] = { ...(waveTimes[shift] || {}), [field]: value };
     patch({ waveTimes });
   }
 
@@ -303,32 +299,16 @@ export function HyroxPlanner() {
       <div className="flex items-center justify-between">
         <div>
           <h2 className="text-lg font-extrabold text-[#1C2B6B]">Hyrox Planner</h2>
-          <p className="text-xs text-gray-400">{waves.length} waves · {stations.length} stations</p>
+          <p className="text-xs text-gray-400">{waves.length} Einsätze · {stations.length} Stationen</p>
         </div>
         <div className="flex items-center gap-2">
-          {addingWave ? (
-            <div className="flex items-center gap-1.5">
-              <input
-                autoFocus
-                value={newWave}
-                onChange={(e) => setNewWave(e.target.value.toUpperCase())}
-                onKeyDown={(e) => e.key === 'Enter' && addWave()}
-                placeholder="E"
-                maxLength={3}
-                className="w-16 rounded-lg border border-gray-200 px-2 py-1 text-center text-sm font-bold uppercase outline-none focus:border-[#1C2B6B]"
-              />
-              <button type="button" onClick={addWave} className="rounded-lg bg-[#1C2B6B] px-3 py-1 text-xs font-bold text-white">Add</button>
-              <button type="button" onClick={() => setAddingWave(false)} className="rounded-lg px-2 py-1 text-xs text-gray-400 hover:bg-gray-100">✕</button>
-            </div>
-          ) : (
-            <button
-              type="button"
-              onClick={() => setAddingWave(true)}
-              className="rounded-xl border-2 border-dashed border-gray-300 px-3 py-1.5 text-xs font-bold text-gray-400 hover:border-[#1C2B6B] hover:text-[#1C2B6B] transition-colors"
-            >
-              + Wave
-            </button>
-          )}
+          <button
+            type="button"
+            onClick={addShift}
+            className="rounded-xl border-2 border-dashed border-gray-300 px-3 py-1.5 text-xs font-bold text-gray-400 hover:border-[#1C2B6B] hover:text-[#1C2B6B] transition-colors"
+          >
+            + Einsatz
+          </button>
         </div>
       </div>
 
@@ -407,7 +387,7 @@ export function HyroxPlanner() {
                     Station
                   </th>
                   {waves.map((w) => (
-                    <WaveHeader key={w} wave={w} times={(hyrox.waveTimes || {})[w]} onDelete={deleteWave} onTimeChange={handleTimeChange} />
+                    <ShiftHeader key={w} shift={w} times={(hyrox.waveTimes || {})[w]} onDelete={deleteShift} onTimeChange={handleTimeChange} />
                   ))}
                 </tr>
               </thead>
