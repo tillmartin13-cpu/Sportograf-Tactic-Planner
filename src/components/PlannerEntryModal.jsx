@@ -75,7 +75,7 @@ export function PlannerEntryModal() {
               if (!file) return;
               try {
                 const ok = await importTeamCsv(await file.text());
-                if (ok) setCsvJustImported(true);
+                if (ok === true) setCsvJustImported(true);
               } catch {
                 /* importTeamCsv reports its own errors */
               } finally {

@@ -329,8 +329,9 @@ export function TacticMap({
     .filter((s) => s.latitude != null && s.longitude != null)
     .sort((a, b) => (a.position ?? 0) - (b.position ?? 0));
 
+  const adoptedSpotNames = new Set(spots.map((s) => s.name).filter(Boolean));
   const referenceWithCoords = (showReferenceLayer ? referenceSpots : [])
-    .filter((s) => s.latitude != null && s.longitude != null)
+    .filter((s) => s.latitude != null && s.longitude != null && !adoptedSpotNames.has(s.name))
     .sort((a, b) => (a.position ?? 0) - (b.position ?? 0));
 
   const referenceWithCoordsAll = referenceSpots.filter((s) => s.latitude != null && s.longitude != null);

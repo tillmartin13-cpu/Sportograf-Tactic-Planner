@@ -152,6 +152,7 @@ export const usePlannerStore = create(
       toast: null,
       tacticRevision: 0,
       checkInRevision: 0,
+      csvDiff: null,
 
       setLanguage: (language) => set({ language }),
 
@@ -608,22 +609,47 @@ export const usePlannerStore = create(
             events = events.map((e) => (e.id === targetEventId ? existing : e));
           }
 
-          const merged = [...get().photographers];
-          photographers.forEach((incoming) => {
-            const idx = merged.findIndex((p) => p.code === incoming.code);
-            if (idx >= 0) {
-              const existingEventIds = merged[idx].eventIds || (merged[idx].eventId ? [merged[idx].eventId] : []);
-              const eventIds = existingEventIds.includes(targetEventId)
-                ? existingEventIds
-                : [...existingEventIds, targetEventId];
-              merged[idx] = { ...merged[idx], ...nonEmptyPhotographerFields(incoming), eventIds };
-            } else {
-              merged.push({ ...incoming, eventIds: [targetEventId] });
-            }
-          });
+          // Detect who was in this event before
+          const currentEventPhotographers = get().photographers.filter(
+            (p) => (p.eventIds || []).includes(targetEventId),
+          );
+          const incomingCodes = new Set(photographers.map((p) => p.code));
+          const removed = currentEventPhotographers.filter((p) => !incomingCodes.has(p.code));
+          const currentCodes = new Set(currentEventPhotographers.map((p) => p.code));
+          const added = photographers.filter((p) => !currentCodes.has(p.code));
+
+          const merged = mergeImportedPhotographers(get().photographers, photographers, targetEventId);
 
           const tactic = loadTactic(targetEventId) || emptyTactic();
           const hasReference = tactic.referenceSpots && tactic.referenceSpots.length > 0;
+
+          // If photographers are being removed, pause and show diff modal
+          if (removed.length > 0) {
+            const removedWithSpots = removed.map((ph) => ({
+              ...ph,
+              spots: tactic.assignments
+                .filter((a) => a.photographer_id === ph.id)
+                .map((a) => tactic.spots.find((s) => s.id === a.spot_id))
+                .filter(Boolean),
+            }));
+            set({
+              csvDiff: {
+                added,
+                removed: removedWithSpots,
+                pending: {
+                  events,
+                  merged,
+                  targetEventId,
+                  hasReference,
+                  tactic,
+                  lang,
+                  photographerCount: photographers.length,
+                },
+              },
+            });
+            return { pending: true };
+          }
+
           set({
             events,
             photographers: merged,
@@ -643,6 +669,61 @@ export const usePlannerStore = create(
           return false;
         }
       },
+
+      commitCsvImport: (resolutions) => {
+        const diff = get().csvDiff;
+        if (!diff) return;
+        const { pending } = diff;
+        const { events, merged, targetEventId, hasReference, tactic, lang, photographerCount } = pending;
+
+        // Apply resolutions: for each removed photographer, handle their spots
+        let updatedAssignments = [...tactic.assignments];
+        let updatedSpots = [...tactic.spots];
+
+        (resolutions || []).forEach(({ photographerId, action, assignToId }) => {
+          if (action === 'delete') {
+            // Remove spots that were assigned only to this photographer
+            const assignedSpotIds = updatedAssignments
+              .filter((a) => a.photographer_id === photographerId)
+              .map((a) => a.spot_id);
+            updatedAssignments = updatedAssignments.filter((a) => a.photographer_id !== photographerId);
+            // Delete spots that have no remaining assignments
+            const remainingAssignedSpotIds = new Set(updatedAssignments.map((a) => a.spot_id));
+            updatedSpots = updatedSpots.filter(
+              (s) => !assignedSpotIds.includes(s.id) || remainingAssignedSpotIds.has(s.id),
+            );
+          } else if (action === 'keep') {
+            // Unassign the photographer but keep the spots
+            updatedAssignments = updatedAssignments.filter((a) => a.photographer_id !== photographerId);
+          } else if (action === 'assign' && assignToId) {
+            // Transfer spots to another photographer
+            updatedAssignments = updatedAssignments.map((a) =>
+              a.photographer_id === photographerId ? { ...a, photographer_id: assignToId } : a,
+            );
+          }
+        });
+
+        const updatedTactic = { ...tactic, assignments: updatedAssignments, spots: updatedSpots };
+        saveTactic(targetEventId, updatedTactic);
+
+        set({
+          events,
+          photographers: merged,
+          currentEventId: targetEventId,
+          appScreen: APP_SCREEN.planner,
+          officeSession: false,
+          showPlannerEntryModal: !hasReference,
+          csvDiff: null,
+          tacticRevision: get().tacticRevision + 1,
+        });
+        get().showToast(
+          translate(lang, 'csvImported')
+            .replace('{n}', String(photographerCount))
+            .replace('{id}', targetEventId),
+        );
+      },
+
+      dismissCsvDiff: () => set({ csvDiff: null }),
 
       importInfofile: (text) => {
         const event = get().getCurrentEvent();

@@ -6,6 +6,7 @@ import { TacticPlannerScreen } from './components/TacticPlannerScreen';
 import { PhotographerScreen } from './components/PhotographerScreen';
 import { TLPasswordGate } from './components/TLPasswordGate';
 import { Toast } from './components/Toast';
+import { CsvDiffModal } from './components/CsvDiffModal';
 import { ErrorBoundary } from './components/ErrorBoundary';
 
 export default function App() {
@@ -29,6 +30,7 @@ export default function App() {
         {appScreen === 'planner' && tlUnlocked && <TacticPlannerScreen />}
         {appScreen === 'photographer' && <PhotographerScreen />}
         <Toast />
+        <CsvDiffModal />
       </div>
     </ErrorBoundary>
   );
