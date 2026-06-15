@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { usePlannerStore } from '../store/usePlannerStore';
 import { useCurrentEvent } from '../hooks/useCurrentEvent';
-import { HYROX_STATIONS, defaultShifts, shiftLabel } from '../lib/hyrox';
+import { HYROX_STATIONS, defaultShifts, shiftLabel, isOldDefaultWaves } from '../lib/hyrox';
 import { getStationImages } from '../lib/hyroxStationImages';
 
 // ─── Constants ───────────────────────────────────────────────────────────────
@@ -18,12 +18,14 @@ function migrateHyrox(hyrox, activeStationIds) {
   const stations = activeStationIds || HYROX_STATIONS.map((s) => s.id);
   if (!hyrox) return { stations, days: [defaultDay(1)] };
   if (Array.isArray(hyrox.days) && hyrox.days.length) return hyrox;
-  // Migrate old flat structure to day 1
+  // Migrate old flat structure to day 1; reset old A/B/C/D default to 1/2
+  const oldWaves = hyrox.waves;
+  const waves = (!oldWaves?.length || isOldDefaultWaves(oldWaves)) ? defaultShifts() : oldWaves;
   return {
     stations: hyrox.stations || stations,
     days: [{
       id: '1',
-      waves: hyrox.waves?.length ? hyrox.waves : defaultShifts(),
+      waves,
       assignments: hyrox.assignments || {},
       waveTimes: hyrox.waveTimes || {},
       cellTimes: hyrox.cellTimes || {},
@@ -175,7 +177,7 @@ function MatrixCell({ stationId, shift, assigned, photographers, times, onDrop, 
 
 // ─── Shift header ─────────────────────────────────────────────────────────────
 
-function ShiftHeader({ shift, times, onDelete, onTimeChange }) {
+function ShiftHeader({ shift, times, language, onDelete, onTimeChange }) {
   const [open, setOpen] = useState(false);
   const from = times?.from || '';
   const to = times?.to || '';
@@ -184,9 +186,9 @@ function ShiftHeader({ shift, times, onDelete, onTimeChange }) {
     <th className="border border-gray-200 bg-[#f0f2fa] px-2 py-1.5 text-center text-xs font-extrabold text-[#1C2B6B] min-w-[110px]">
       <div className="flex items-center justify-center gap-1">
         <button type="button" onClick={() => setOpen((v) => !v)} className="font-extrabold text-[#1C2B6B] hover:underline" title="Uhrzeit setzen">
-          {shiftLabel(shift)}
+          {shiftLabel(shift, language)}
         </button>
-        <button type="button" onClick={() => onDelete(shift)} className="text-gray-300 hover:text-red-400 leading-none text-[10px]" title="Schicht entfernen">×</button>
+        <button type="button" onClick={() => onDelete(shift)} className="text-gray-300 hover:text-red-400 leading-none text-[10px]" title={language === 'de' ? 'Schicht entfernen' : 'Remove shift'}>×</button>
       </div>
       {(from || to) && !open && (
         <div className="mt-0.5 text-[9px] font-normal text-[#6b7db3]">{from || '–'} – {to || '–'}</div>
@@ -208,6 +210,7 @@ function ShiftHeader({ shift, times, onDelete, onTimeChange }) {
 
 export function HyroxPlanner() {
   const event = useCurrentEvent();
+  const language = usePlannerStore((s) => s.language);
   const allPhotographers = usePlannerStore((s) => s.photographers) || [];
   const photographers = event
     ? allPhotographers.filter((p) => p.eventIds ? p.eventIds.includes(event.id) : p.eventId === event.id)
@@ -378,7 +381,7 @@ export function HyroxPlanner() {
       <div className="flex items-center justify-between gap-2">
         <div>
           <h2 className="text-base font-extrabold text-[#1C2B6B]">Hyrox — Tag {day.id}</h2>
-          <p className="text-xs text-gray-400">{day.waves.length} Schichten · {stations.length} Stationen</p>
+          <p className="text-xs text-gray-400">{day.waves.length} {language === 'de' ? 'Schichten' : 'Shifts'} · {stations.length} {language === 'de' ? 'Stationen' : 'Stations'}</p>
         </div>
         <div className="flex items-center gap-2">
           {safeIdx > 0 && (
@@ -498,6 +501,7 @@ export function HyroxPlanner() {
                       key={w}
                       shift={w}
                       times={day.waveTimes[w]}
+                      language={language}
                       onDelete={deleteShift}
                       onTimeChange={handleShiftTimeChange}
                     />

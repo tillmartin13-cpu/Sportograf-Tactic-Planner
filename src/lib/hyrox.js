@@ -66,6 +66,12 @@ export function defaultShifts() {
   return ['1', '2'];
 }
 
-export function shiftLabel(shift) {
-  return `Schicht ${shift}`;
+export function shiftLabel(shift, language = 'de') {
+  const word = language === 'de' ? 'Schicht' : 'Shift';
+  return `${word} ${shift}`;
+}
+
+const OLD_DEFAULT_WAVES = new Set(['A', 'B', 'C', 'D']);
+export function isOldDefaultWaves(waves) {
+  return waves?.length === 4 && waves.every((w) => OLD_DEFAULT_WAVES.has(w));
 }
