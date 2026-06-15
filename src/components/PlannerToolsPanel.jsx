@@ -436,7 +436,7 @@ function PanelContent({ activeView, onViewChange, onClose }) {
                 const emails = teamPhotographers.map((p) => p.email).filter(Boolean);
                 const eventName = event?.name || 'the event';
                 const eventDate = event?.date ? new Date(event.date).toLocaleDateString('de-DE', { day: '2-digit', month: '2-digit', year: 'numeric' }) : '';
-                const subject = `Tactic — ${eventName}${eventDate ? ' · ' + eventDate : ''}`;
+                const subject = `${eventName}${eventDate ? ' ' + eventDate : ''} - Tactic Info`;
                 const body = `Hi team,\n\nPlease find the tactic for ${eventName}${eventDate ? ' on ' + eventDate : ''} attached as a JSON file.\n\nHow to import:\n1. Open the Sportograf Tactic Tool\n2. Tap "Import Tactic JSON"\n3. Select the attached file\n\nBest,`;
 
                 return (
