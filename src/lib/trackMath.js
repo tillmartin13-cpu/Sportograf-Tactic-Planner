@@ -81,7 +81,7 @@ export function buildSpotResults(lat, lng, tracks, kmOverrides = {}, useSnap = t
   const snapped = useSnap ? snapToTrack(lat, lng, tracks) : { lat, lng };
   const results = [];
 
-  // Max distance (km) for a spot to be considered on a track
+  // Max distance (km) from the ORIGINAL position to be considered on a track
   const MAX_TRACK_DIST = 0.05;
 
   tracks.forEach((track, trackIndex) => {
@@ -93,13 +93,15 @@ export function buildSpotResults(lat, lng, tracks, kmOverrides = {}, useSnap = t
           results.push({ trackIndex, trackName: track.name, km, dist: 0 });
         });
     } else {
-      const match = nearestKm(snapped.lat, snapped.lng, track);
-      if (match.dist <= MAX_TRACK_DIST) {
+      // Check distance from original position (not snapped) so multi-track spots work
+      const distCheck = nearestKm(lat, lng, track);
+      if (distCheck.dist <= MAX_TRACK_DIST) {
+        const match = nearestKm(snapped.lat, snapped.lng, track);
         results.push({
           trackIndex,
           trackName: track.name,
           km: match.km,
-          dist: match.dist,
+          dist: distCheck.dist,
         });
       }
     }
