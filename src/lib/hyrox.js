@@ -60,6 +60,7 @@ export const HYROX_STATIONS = [
   { id: 'sandbag',  label: 'Sandbag Lunges',   color: '#d97706' },
   { id: 'wallball', label: 'Wall Balls',        color: '#ea580c' },
   { id: 'finish',   label: 'Finish',           color: '#1C2B6B' },
+  { id: 'hero_wall',label: 'Hero Wall',        color: '#b91c1c' },
 ];
 
 export function defaultShifts() {

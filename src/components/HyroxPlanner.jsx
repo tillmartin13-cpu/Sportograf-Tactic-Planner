@@ -6,7 +6,7 @@ import { getStationImages } from '../lib/hyroxStationImages';
 
 // ─── Constants ───────────────────────────────────────────────────────────────
 
-const LATE_STATION_IDS = new Set(['wallball', 'finish', 'sandbag']);
+const LATE_STATION_IDS = new Set(['finish', 'hero_wall']);
 
 // ─── Data migration: flat → multi-day ────────────────────────────────────────
 
