@@ -247,7 +247,7 @@ function ConnectionTest() {
       console.error(e);
       setStatus(STATUS.error);
     }
-  }, [onUploadResult]);
+  }, []);
 
   const ul = results?.upload ?? liveUpload;
   const lat = results?.latency ?? latency;
