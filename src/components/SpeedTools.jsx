@@ -17,12 +17,11 @@ function formatDuration(seconds) {
 }
 
 const PRESETS = [
-  { label: '10 GB',   gb: 10 },
-  { label: '50 GB',   gb: 50 },
-  { label: '100 GB',  gb: 100 },
-  { label: '250 GB',  gb: 250 },
-  { label: '500 GB',  gb: 500 },
-  { label: '1000 GB', gb: 1000 },
+  { label: '10 GB',  gb: 10 },
+  { label: '50 GB',  gb: 50 },
+  { label: '100 GB', gb: 100 },
+  { label: '250 GB', gb: 250 },
+  { label: '500 GB', gb: 500 },
 ];
 
 function UploadCalculator({ uploadMbps }) {
@@ -172,7 +171,7 @@ function UploadGauge({ mbps }) {
   );
 }
 
-function ConnectionTest({ onUploadResult }) {
+function ConnectionTest() {
   const { t } = useTranslation();
   const [status, setStatus] = useState(STATUS.idle);
   const [results, setResults] = useState(null);
@@ -238,7 +237,6 @@ function ConnectionTest({ onUploadResult }) {
         const lat = r.getUnloadedLatency?.() ?? null;
         setResults({ upload: ul, latency: lat });
         setLiveUpload(ul);
-        onUploadResult?.(ul);
         setStatus(STATUS.done);
       };
 
@@ -319,6 +317,23 @@ function ConnectionTest({ onUploadResult }) {
               <div className="h-full w-full rounded-full bg-[#22c55e]" />
             </div>
           </div>
+          {/* Upload time presets */}
+          {ul != null && (
+            <div>
+              <div className="mb-2 text-[10px] font-bold uppercase tracking-widest text-[#8a93b0]">{t('speedToolsQuickRef')}</div>
+              <div className="grid grid-cols-2 gap-1.5">
+                {PRESETS.map(({ label, gb: g }) => (
+                  <div key={label}
+                    className="flex items-center justify-between rounded-xl bg-[#f4f5fa] px-3 py-2.5">
+                    <span className="text-[11px] font-semibold text-[#5b6aa8]">{label}</span>
+                    <span className="text-[11px] font-extrabold text-[#1C2B6B]">
+                      {formatDuration((g * 8 * 1024) / ul)}
+                    </span>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
         </div>
       )}
 
@@ -362,8 +377,6 @@ function ConnectionTest({ onUploadResult }) {
 
 export function SpeedToolsModal({ onClose }) {
   const { t } = useTranslation();
-  const [tab, setTab] = useState('test');
-  const [uploadMbps, setUploadMbps] = useState(null);
 
   return createPortal(
     <div className="fixed inset-0 z-[9000] flex items-end justify-center bg-black/50 p-0 sm:items-center sm:p-4"
@@ -391,24 +404,8 @@ export function SpeedToolsModal({ onClose }) {
           </button>
         </div>
 
-        {/* Tab bar */}
-        <div className="flex border-b border-[#e3e7f2] bg-white px-4 pt-2">
-          <button type="button" onClick={() => setTab('test')}
-            className={`mr-1 rounded-t-lg px-4 py-2.5 text-xs font-bold transition-all ${tab === 'test' ? 'border-b-2 border-[#1C2B6B] text-[#1C2B6B]' : 'text-[#8a93b0] hover:text-[#5b6aa8]'}`}>
-            {t('speedTestTab')}
-          </button>
-          <button type="button" onClick={() => setTab('upload')}
-            className={`rounded-t-lg px-4 py-2.5 text-xs font-bold transition-all ${tab === 'upload' ? 'border-b-2 border-[#1C2B6B] text-[#1C2B6B]' : 'text-[#8a93b0] hover:text-[#5b6aa8]'}`}>
-            {t('fileDurationTab')}
-            {uploadMbps != null && <span className="ml-1.5 rounded-full bg-[#1C2B6B] px-1.5 py-0.5 text-[9px] font-bold text-white">✓</span>}
-          </button>
-        </div>
-
         <div className="flex-1 overflow-y-auto p-5">
-          {tab === 'test'
-            ? <ConnectionTest onUploadResult={(mbps) => { setUploadMbps(mbps); }} />
-            : <UploadCalculator uploadMbps={uploadMbps} />
-          }
+          <ConnectionTest />
         </div>
       </div>
     </div>,
