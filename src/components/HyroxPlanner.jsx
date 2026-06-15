@@ -186,7 +186,7 @@ function ShiftHeader({ shift, times, onDelete, onTimeChange }) {
         <button type="button" onClick={() => setOpen((v) => !v)} className="font-extrabold text-[#1C2B6B] hover:underline" title="Uhrzeit setzen">
           {shiftLabel(shift)}
         </button>
-        <button type="button" onClick={() => onDelete(shift)} className="text-gray-300 hover:text-red-400 leading-none text-[10px]" title="Einsatz entfernen">×</button>
+        <button type="button" onClick={() => onDelete(shift)} className="text-gray-300 hover:text-red-400 leading-none text-[10px]" title="Schicht entfernen">×</button>
       </div>
       {(from || to) && !open && (
         <div className="mt-0.5 text-[9px] font-normal text-[#6b7db3]">{from || '–'} – {to || '–'}</div>
@@ -378,7 +378,7 @@ export function HyroxPlanner() {
       <div className="flex items-center justify-between gap-2">
         <div>
           <h2 className="text-base font-extrabold text-[#1C2B6B]">Hyrox — Tag {day.id}</h2>
-          <p className="text-xs text-gray-400">{day.waves.length} Einsätze · {stations.length} Stationen</p>
+          <p className="text-xs text-gray-400">{day.waves.length} Schichten · {stations.length} Stationen</p>
         </div>
         <div className="flex items-center gap-2">
           {safeIdx > 0 && (
@@ -415,7 +415,7 @@ export function HyroxPlanner() {
             onClick={addShift}
             className="rounded-xl border-2 border-dashed border-gray-300 px-3 py-1.5 text-xs font-bold text-gray-400 hover:border-[#1C2B6B] hover:text-[#1C2B6B] transition-colors"
           >
-            + Einsatz
+            + Schicht
           </button>
         </div>
       </div>

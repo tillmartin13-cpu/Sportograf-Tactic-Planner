@@ -67,5 +67,5 @@ export function defaultShifts() {
 }
 
 export function shiftLabel(shift) {
-  return `Einsatz ${shift}`;
+  return `Schicht ${shift}`;
 }
