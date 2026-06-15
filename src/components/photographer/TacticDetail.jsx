@@ -11,7 +11,6 @@ import { useMyProfile } from '../../hooks/useMyProfile';
 import { formatTimeShort } from '../../lib/timeConflict';
 import { findAllCameraSettings, needsCardReader } from '../../lib/cameraSettings';
 import { CheckInCertificateCard } from '../CheckInCertificateCard';
-import { ReferenceTimeline } from '../ReferenceTimeline';
 import { useWeather, wmoToEmoji, getPhotoTips } from '../../hooks/useWeather';
 import { HYROX_STATIONS } from '../../lib/hyrox';
 import { getStationImages } from '../../lib/hyroxStationImages';
@@ -1321,8 +1320,6 @@ export function TacticDetail({ onOpenCheckIn }) {
   const spots = entry?.pkg?.tactic?.spots ?? [];
   const photographers = entry?.pkg?.photographers ?? [];
   const assignments = entry?.pkg?.tactic?.assignments ?? [];
-  const referenceSpots = entry?.pkg?.tactic?.referenceSpots ?? [];
-  const referenceTimeline = entry?.pkg?.tactic?.referenceTimeline ?? [];
   const normalizedAcronym = acronym?.trim().toUpperCase();
   const ph = photographers.find((p) => {
     const code = p.code?.trim().toUpperCase();
@@ -1446,14 +1443,6 @@ export function TacticDetail({ onOpenCheckIn }) {
 
       {/* Weather briefing */}
       <WeatherBriefing event={event} spots={mySpots.length > 0 ? mySpots : spots} />
-
-      {/* Reference timeline from previous year */}
-      {referenceSpots.some((s) => s.time_from && s.time_to) && (
-        <ReferenceTimeline
-          spots={referenceSpots}
-          referenceTimeline={referenceTimeline}
-        />
-      )}
 
       {/* Spots map — all spots + GPX tracks */}
       <SpotsMap
