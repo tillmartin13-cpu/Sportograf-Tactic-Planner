@@ -124,7 +124,7 @@ export function SpotModal() {
     } else {
       const pre = spotModal?.prefill || {};
       setLocationType(pre.location_type || 'photo');
-      setName(''); // photographer acronym always starts empty
+      setName(pre.name || '');
       setNotes(pre.notes || '');
       setRefImages([]);
     }
