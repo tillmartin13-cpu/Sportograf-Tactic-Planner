@@ -179,6 +179,7 @@ function ConnectionTest() {
   const [latency, setLatency] = useState(null);
   const [progress, setProgress] = useState(0); // 0–100
   const [phaseIdx, setPhaseIdx] = useState(0);
+  const [customGb, setCustomGb] = useState('');
   const progressRef = useRef(null);
 
   // Simulate smooth progress during test — ticks forward, never exceeds 95 until done
@@ -319,8 +320,8 @@ function ConnectionTest() {
           </div>
           {/* Upload time presets */}
           {ul != null && (
-            <div>
-              <div className="mb-2 text-[10px] font-bold uppercase tracking-widest text-[#8a93b0]">{t('speedToolsQuickRef')}</div>
+            <div className="space-y-2">
+              <div className="text-[10px] font-bold uppercase tracking-widest text-[#8a93b0]">{t('speedToolsQuickRef')}</div>
               <div className="grid grid-cols-2 gap-1.5">
                 {PRESETS.map(({ label, gb: g }) => (
                   <div key={label}
@@ -331,6 +332,24 @@ function ConnectionTest() {
                     </span>
                   </div>
                 ))}
+              </div>
+              {/* Custom GB input */}
+              <div className="flex items-center gap-2 rounded-xl border border-[#e3e7f2] bg-white px-3 py-2">
+                <input
+                  type="number"
+                  min="1"
+                  step="1"
+                  placeholder="Eigene GB-Zahl"
+                  value={customGb}
+                  onChange={(e) => setCustomGb(e.target.value)}
+                  className="min-w-0 flex-1 bg-transparent text-sm font-bold text-[#1C2B6B] outline-none placeholder:font-normal placeholder:text-[#b0b8cf]"
+                />
+                <span className="text-[11px] font-semibold text-[#8a93b0]">GB</span>
+                {customGb && parseFloat(customGb) > 0 && (
+                  <span className="shrink-0 text-[11px] font-extrabold text-[#1C2B6B]">
+                    = {formatDuration((parseFloat(customGb) * 8 * 1024) / ul)}
+                  </span>
+                )}
               </div>
             </div>
           )}
