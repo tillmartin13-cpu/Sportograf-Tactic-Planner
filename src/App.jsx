@@ -13,23 +13,22 @@ const MAINTENANCE_MODE = true;
 
 function MaintenancePage() {
   return (
-    <div className="flex min-h-full flex-col items-center justify-center bg-[#0f1a3d] px-6 text-center">
-      <img src="/sg-logo-white.svg" alt="Sportograf" className="mb-8 h-10 opacity-90" />
-      <div className="mb-3 flex items-center gap-2 text-amber-400 text-sm font-semibold tracking-widest uppercase">
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
-        Wartung
-      </div>
-      <h1 className="mb-4 text-3xl font-black text-white leading-tight">
-        Tactic Planner
-      </h1>
-      <p className="max-w-sm text-[#8a9ac8] text-sm leading-relaxed">
-        Das Tool wird gerade weiterentwickelt und ist vorübergehend nicht verfügbar.
-        <br className="hidden sm:block" />
-        Wir sind bald wieder da.
+    <div style={{
+      minHeight: '100vh',
+      background: '#111827',
+      display: 'flex',
+      flexDirection: 'column',
+      alignItems: 'center',
+      justifyContent: 'center',
+      gap: '24px',
+      padding: '32px',
+      textAlign: 'center',
+      fontFamily: 'system-ui, sans-serif',
+    }}>
+      <img src="/sg-logo-white.svg" alt="Sportograf" style={{ height: 32, opacity: 0.7 }} />
+      <p style={{ color: '#6b7db3', fontSize: 13, lineHeight: 1.7, maxWidth: 320, margin: 0 }}>
+        Dieses Tool befindet sich aktuell in der Wartung und ist vorübergehend nicht verfügbar.
       </p>
-      <div className="mt-10 rounded-2xl border border-white/10 bg-white/5 px-6 py-4 text-xs text-[#6b7db3]">
-        Sportograf · internal planning tool
-      </div>
     </div>
   );
 }
