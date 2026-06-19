@@ -89,6 +89,7 @@ export function SpotModal() {
   const [locationType, setLocationType] = useState('photo');
   const [name, setName] = useState('');
   const [notes, setNotes] = useState('');
+  const [lensType, setLensType] = useState('');
   const [pasteText, setPasteText] = useState('');
   const [pasteCoords, setPasteCoords] = useState(null);
   const [tab, setTab] = useState('map');
@@ -120,12 +121,14 @@ export function SpotModal() {
       setLocationType(editingSpot.location_type || 'photo');
       setName(editingSpot.name || '');
       setNotes(editingSpot.notes || '');
+      setLensType(editingSpot.lens_type || '');
       setRefImages(editingSpot.refImages || []);
     } else {
       const pre = spotModal?.prefill || {};
       setLocationType(pre.location_type || 'photo');
       setName(pre.name || '');
       setNotes(pre.notes || '');
+      setLensType('');
       setRefImages([]);
     }
     // adoptedFrom tracked via spotModal.prefill.referenceName — no extra state needed
@@ -182,6 +185,7 @@ export function SpotModal() {
       locationType,
       name: isPhoto ? label : name.trim(),
       notes: notes.trim(),
+      lensType: lensType || null,
       lat: coords?.lat ?? null,
       lng: coords?.lng ?? null,
       kmOverrides,
@@ -418,6 +422,28 @@ export function SpotModal() {
             </a>
           </div>
         )}
+
+        <div className="mb-4">
+          <span className="text-[10px] font-bold uppercase tracking-wide text-[#bbb]">Lens (optional)</span>
+          <div className="mt-1.5 flex gap-2">
+            {['tele', 'wide'].map((v) => {
+              const label = v === 'tele' ? '🔭 Tele' : '🔲 Weitwinkel';
+              const active = lensType === v;
+              return (
+                <button
+                  key={v}
+                  type="button"
+                  onClick={() => setLensType(active ? '' : v)}
+                  className={`rounded-lg border px-3 py-2 text-xs font-bold transition-colors ${
+                    active ? 'border-[#1C2B6B] bg-[#eef1fb] text-[#1C2B6B]' : 'border-[#ddd] bg-white text-[#888]'
+                  }`}
+                >
+                  {label}
+                </button>
+              );
+            })}
+          </div>
+        </div>
 
         <label className="mb-4 block">
           <span className="text-[10px] font-bold uppercase tracking-wide text-[#bbb]">Comment (optional)</span>

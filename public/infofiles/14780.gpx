@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "47.50391" lon = "12.18871"><name>ANI1</name><desc>Start
+Images:120
+First:04.10.2025 09:35:51
+Last:05.10.2025 10:33:22
+Duration:1.00:57:31
+</desc></wpt>
+<wpt lat = "47.49467" lon = "12.13938"><name>ANI2</name><desc>17.0 km Juffinger Jöchl
+Images:1157
+First:05.10.2025 10:38:08
+Last:05.10.2025 12:42:12
+Duration:02:04:04
+</desc></wpt>
+<wpt lat = "47.50391" lon = "12.18871"><name>COR1</name><desc>Finish
+Images:2647
+First:03.10.2025 17:52:24
+Last:05.10.2025 13:45:33
+Duration:1.19:53:09
+</desc></wpt>
+<wpt lat = "47.50391" lon = "12.18871"><name>COR1LS1</name><desc>Finish
+Images:401
+First:05.10.2025 11:04:19
+Last:05.10.2025 13:11:33
+Duration:02:07:14
+</desc></wpt>
+<wpt lat = "47.49467" lon = "12.13938"><name>ANI2DRONE1</name><desc>Impressions / Pano
+Images:4
+First:05.10.2025 10:12:25
+Last:05.10.2025 10:13:03
+Duration:00:00:38
+</desc></wpt>
+</gpx>

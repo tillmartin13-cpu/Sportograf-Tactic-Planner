@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "46.50679" lon = "6.62631"><name>LOL1</name><desc>Start Lausanne-Lausanne
+Images:3444
+First:25.05.2025 05:37:16
+Last:25.05.2025 07:17:29
+Duration:01:40:13
+</desc></wpt>
+<wpt lat = "46.48878" lon = "6.74717"><name>LAPO1</name><desc>km 10
+Images:2428
+First:25.05.2025 06:10:28
+Last:25.05.2025 09:01:41
+Duration:02:51:13
+</desc></wpt>
+<wpt lat = "46.47425" lon = "6.79070"><name>LUB1</name><desc>km 15
+Images:2377
+First:25.05.2025 06:00:56
+Last:25.05.2025 09:27:43
+Duration:03:26:47
+</desc></wpt>
+<wpt lat = "46.37509" lon = "6.90115"><name>AMU1</name><desc>km 34
+Images:5935
+First:25.05.2025 06:47:52
+Last:25.05.2025 10:33:06
+Duration:03:45:14
+</desc></wpt>
+<wpt lat = "46.37509" lon = "6.90115"><name>AMU1DRONE1</name><desc>km 34
+Images:24
+First:25.05.2025 08:58:07
+Last:25.05.2025 15:22:22
+Duration:06:24:15
+</desc></wpt>
+<wpt lat = "46.40154" lon = "6.60066"><name>CAIS1</name><desc>Start Evian-Lausanne
+Images:676
+First:25.05.2025 07:32:49
+Last:25.05.2025 08:22:46
+Duration:00:49:57
+</desc></wpt>
+<wpt lat = "46.40185" lon = "6.58703"><name>CAIS2</name><desc>Km 64
+Images:3391
+First:25.05.2025 08:34:48
+Last:25.05.2025 11:47:19
+Duration:03:12:31
+</desc></wpt>
+<wpt lat = "46.38395" lon = "6.48269"><name>GAT1</name><desc>Km 72 / Km 8
+Images:8361
+First:25.05.2025 07:08:22
+Last:25.05.2025 11:28:33
+Duration:04:20:11
+</desc></wpt>
+<wpt lat = "46.37125" lon = "6.47129"><name>EB1</name><desc>Km 75 / Km 11
+Images:7458
+First:25.05.2025 07:46:56
+Last:25.05.2025 11:39:06
+Duration:03:52:10
+</desc></wpt>
+<wpt lat = "46.37125" lon = "6.47129"><name>EB1LS2</name><desc>Km 75 / Km 11
+Images:2166
+First:25.05.2025 07:58:04
+Last:25.05.2025 12:06:06
+Duration:04:08:02
+</desc></wpt>
+<wpt lat = "46.37125" lon = "6.47129"><name>EB1LS1</name><desc>Km 75 / Km 11
+Images:4113
+First:25.05.2025 07:28:34
+Last:25.05.2025 11:57:25
+Duration:04:28:51
+</desc></wpt>
+<wpt lat = "46.20858" lon = "6.16519"><name>LEBE1</name><desc>Km 115 / 51 Km
+Images:5800
+First:25.05.2025 08:46:54
+Last:25.05.2025 13:21:09
+Duration:04:34:15
+</desc></wpt>
+<wpt lat = "46.21748" lon = "6.15075"><name>ELLA1</name><desc>Km 117 / 53 Km
+Images:7805
+First:25.05.2025 08:52:06
+Last:25.05.2025 13:32:44
+Duration:04:40:38
+</desc></wpt>
+<wpt lat = "46.46006" lon = "6.34102"><name>AMU2</name><desc>Km 151 / 87 Km
+Images:3454
+First:25.05.2025 10:34:49
+Last:25.05.2025 14:23:54
+Duration:03:49:05
+</desc></wpt>
+<wpt lat = "46.46783" lon = "6.38739"><name>LAPO2</name><desc>Km 155 / Km 91
+Images:4102
+First:25.05.2025 10:30:52
+Last:25.05.2025 15:28:58
+Duration:04:58:06
+</desc></wpt>
+<wpt lat = "46.46826" lon = "6.38983"><name>LUB2</name><desc>Km 155 / Km 91
+Images:4378
+First:25.05.2025 10:39:34
+Last:25.05.2025 15:25:01
+Duration:04:45:27
+</desc></wpt>
+<wpt lat = "46.50679" lon = "6.62631"><name>LOL2</name><desc>Finish
+Images:4799
+First:25.05.2025 10:04:46
+Last:25.05.2025 16:31:45
+Duration:06:26:59
+</desc></wpt>
+</gpx>

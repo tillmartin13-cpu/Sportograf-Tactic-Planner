@@ -1,0 +1,55 @@
+EventId: 13189
+Spots: 7
+Total Images: 10871
+Time:	18.06.2024 15:56:59 to 18.06.2024 20:21:25
+Duration: 04:24:26
+
+(1) - 0.0 km Lida Candids
+	LNIXO1
+		Images:	79
+		Time:	18.06.2024 17:41:42 until 18.06.2024 18:50:10
+		Duration:	01:08:28
+		Location:	NULL NULL
+
+(2) - 0.0 km Lida Medals
+	LNIXO3
+		Images:	36
+		Time:	18.06.2024 20:05:45 until 18.06.2024 20:21:25
+		Duration:	00:15:40
+		Location:	NULL NULL
+
+(3) - 0.0 km Lida Pre-Fin
+	LNIXO4
+		Images:	1818
+		Time:	18.06.2024 18:59:09 until 18.06.2024 19:59:39
+		Duration:	01:00:30
+		Location:	NULL NULL
+
+(4) - 0.0 km Lida Trigger
+	LNIXO1LS1
+		Images:	3263
+		Time:	18.06.2024 17:41:42 until 18.06.2024 20:00:14
+		Duration:	02:18:32
+		Location:	NULL NULL
+
+(5) - 0.0 km Steve Candids
+	SZANE2
+		Images:	88
+		Time:	18.06.2024 15:56:59 until 18.06.2024 18:05:06
+		Duration:	02:08:07
+		Location:	NULL NULL
+
+(6) - 0.0 km Steve Finish Trigger
+	SZANE1LS1
+		Images:	3437
+		Time:	18.06.2024 16:41:30 until 18.06.2024 19:00:28
+		Duration:	02:18:58
+		Location:	NULL NULL
+
+(7) - 0.0 km Steve Z Finishline
+	SZANE3
+		Images:	2150
+		Time:	18.06.2024 17:56:50 until 18.06.2024 19:08:27
+		Duration:	01:11:37
+		Location:	NULL NULL
+

@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "51.26018" lon = "6.73335"><name>OP1</name><desc>0.2 km
+Images:1983
+First:23.05.2023 18:09:31
+Last:23.05.2023 19:23:22
+Duration:01:13:51
+</desc></wpt>
+<wpt lat = "51.26308" lon = "6.71604"><name>VL1</name><desc>1.6 km Lohauser Deich
+Images:8904
+First:23.05.2023 16:42:32
+Last:23.05.2023 19:42:25
+Duration:02:59:53
+</desc></wpt>
+<wpt lat = "51.26470" lon = "6.71330"><name>FMT1</name><desc>2.0 km Lohauser Deich
+Images:29042
+First:23.05.2023 16:04:01
+Last:23.05.2023 19:44:08
+Duration:03:40:07
+</desc></wpt>
+<wpt lat = "51.26470" lon = "6.71330"><name>FMT1LS1</name><desc>2.0 km Lohauser Deich
+Images:9174
+First:23.05.2023 17:57:54
+Last:23.05.2023 19:48:01
+Duration:01:50:07
+</desc></wpt>
+<wpt lat = "51.26016" lon = "6.73283"><name>MSC1</name><desc>5.9 km Spielarena
+Images:7311
+First:23.05.2023 17:21:32
+Last:23.05.2023 20:25:28
+Duration:03:03:56
+</desc></wpt>
+<wpt lat = "51.26028" lon = "6.73278"><name>THL2</name><desc>5.9 km Spielarena
+Images:5384
+First:23.05.2023 18:22:09
+Last:23.05.2023 20:29:19
+Duration:02:07:10
+</desc></wpt>
+<wpt lat = "51.26028" lon = "6.73278"><name>THL2LS1</name><desc>5.9 km Spielarena
+Images:3442
+First:23.05.2023 17:32:49
+Last:23.05.2023 20:25:29
+Duration:02:52:40
+</desc></wpt>
+<wpt lat = "51.26028" lon = "6.73278"><name>THL2LS2</name><desc>5.9 km Spielarena
+Images:5722
+First:23.05.2023 17:33:03
+Last:23.05.2023 20:23:08
+Duration:02:50:05
+</desc></wpt>
+<wpt lat = "51.26036" lon = "6.73348"><name>TOG1LS1</name><desc>6.0 km Stadioneinlauf
+Images:1109
+First:23.05.2023 18:11:20
+Last:23.05.2023 18:50:57
+Duration:00:39:37
+</desc></wpt>
+<wpt lat = "51.26036" lon = "6.73348"><name>TOG1LS2</name><desc>6.0 km Stadioneinlauf
+Images:1110
+First:23.05.2023 18:10:57
+Last:23.05.2023 18:50:54
+Duration:00:39:57
+</desc></wpt>
+<wpt lat = "51.26164" lon = "6.73315"><name>ALN1</name><desc>Event Area
+Images:4663
+First:23.05.2023 18:23:36
+Last:23.05.2023 20:32:56
+Duration:02:09:20
+</desc></wpt>
+<wpt lat = "51.26164" lon = "6.73315"><name>DRI1</name><desc>Event Area
+Images:5213
+First:23.05.2023 17:40:42
+Last:23.05.2023 20:34:36
+Duration:02:53:54
+</desc></wpt>
+<wpt lat = "51.26221" lon = "6.73164"><name>MW1</name><desc>Event Area
+Images:3056
+First:23.05.2023 18:06:49
+Last:23.05.2023 20:44:45
+Duration:02:37:56
+</desc></wpt>
+<wpt lat = "51.26164" lon = "6.73315"><name>ST2</name><desc>Event Area
+Images:1179
+First:23.05.2023 19:31:55
+Last:23.05.2023 20:23:32
+Duration:00:51:37
+</desc></wpt>
+<wpt lat = "51.26164" lon = "6.73315"><name>THL1</name><desc>Event Area
+Images:99
+First:23.05.2023 17:44:36
+Last:23.05.2023 18:10:45
+Duration:00:26:09
+</desc></wpt>
+<wpt lat = "51.26160" lon = "6.73386"><name>ALN1LS1</name><desc>Finish
+Images:4951
+First:23.05.2023 18:03:52
+Last:23.05.2023 20:35:59
+Duration:02:32:07
+</desc></wpt>
+<wpt lat = "51.26160" lon = "6.73386"><name>ALN1LS2</name><desc>Finish
+Images:5430
+First:23.05.2023 18:05:37
+Last:23.05.2023 20:38:51
+Duration:02:33:14
+</desc></wpt>
+<wpt lat = "51.26164" lon = "6.73315"><name>DEW1</name><desc>Finish
+Images:6734
+First:23.05.2023 17:06:43
+Last:23.05.2023 20:38:05
+Duration:03:31:22
+</desc></wpt>
+<wpt lat = "51.26161" lon = "6.73308"><name>DRI1LS1</name><desc>Finish
+Images:7190
+First:23.05.2023 17:40:54
+Last:23.05.2023 20:38:52
+Duration:02:57:58
+</desc></wpt>
+<wpt lat = "51.26161" lon = "6.73308"><name>DRI1LS2</name><desc>Finish
+Images:4199
+First:23.05.2023 17:55:50
+Last:23.05.2023 20:33:36
+Duration:02:37:46
+</desc></wpt>
+<wpt lat = "51.26144" lon = "6.73283"><name>MARS1</name><desc>Finish
+Images:13327
+First:23.05.2023 18:22:44
+Last:23.05.2023 20:33:12
+Duration:02:10:28
+</desc></wpt>
+<wpt lat = "51.26178" lon = "6.73342"><name>MWO2</name><desc>Finish
+Images:6232
+First:23.05.2023 19:36:39
+Last:23.05.2023 20:23:58
+Duration:00:47:19
+</desc></wpt>
+<wpt lat = "51.26221" lon = "6.73386"><name>OT1</name><desc>Finish
+Images:7919
+First:23.05.2023 17:29:07
+Last:23.05.2023 20:32:46
+Duration:03:03:39
+</desc></wpt>
+<wpt lat = "51.26144" lon = "6.73283"><name>TOG1</name><desc>Finish
+Images:9623
+First:23.05.2023 18:16:21
+Last:23.05.2023 20:33:13
+Duration:02:16:52
+</desc></wpt>
+<wpt lat = "51.26221" lon = "6.73164"><name>GAC1</name><desc>Medaillenübergabe
+Images:6033
+First:23.05.2023 17:50:44
+Last:23.05.2023 20:41:47
+Duration:02:51:03
+</desc></wpt>
+<wpt lat = "51.26132" lon = "6.73562"><name>MWO1</name><desc>Start
+Images:6456
+First:23.05.2023 18:02:33
+Last:23.05.2023 19:32:13
+Duration:01:29:40
+</desc></wpt>
+<wpt lat = "51.26138" lon = "6.73530"><name>ST1</name><desc>Start
+Images:6852
+First:23.05.2023 17:43:21
+Last:23.05.2023 19:20:27
+Duration:01:37:06
+</desc></wpt>
+<wpt lat = "51.26138" lon = "6.73530"><name>ST1LS1</name><desc>Start
+Images:2384
+First:23.05.2023 17:16:11
+Last:23.05.2023 19:21:27
+Duration:02:05:16
+</desc></wpt>
+<wpt lat = "51.26138" lon = "6.73530"><name>ST1LS2</name><desc>Start
+Images:1460
+First:23.05.2023 17:19:12
+Last:23.05.2023 19:21:17
+Duration:02:02:05
+</desc></wpt>
+</gpx>

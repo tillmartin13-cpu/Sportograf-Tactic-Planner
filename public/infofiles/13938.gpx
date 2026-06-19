@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "44.25851" lon = "12.36384"><name>FBO1</name><desc>Swim - Start
+Images:2642
+First:20.09.2025 06:54:23
+Last:21.09.2025 11:38:08
+Duration:1.04:43:45
+</desc></wpt>
+<wpt lat = "44.25851" lon = "12.36384"><name>EO1</name><desc>Swim - Start
+Images:3655
+First:20.09.2025 06:54:52
+Last:21.09.2025 12:49:44
+Duration:1.05:54:52
+</desc></wpt>
+<wpt lat = "44.25502" lon = "12.36530"><name>FME1</name><desc>Swim - Start
+Images:3363
+First:20.09.2025 08:21:59
+Last:20.09.2025 13:09:25
+Duration:04:47:26
+</desc></wpt>
+<wpt lat = "44.25492" lon = "12.36467"><name>YG1</name><desc>Swim - Start
+Images:2145
+First:20.09.2025 08:24:24
+Last:20.09.2025 10:54:07
+Duration:02:29:43
+</desc></wpt>
+<wpt lat = "44.24940" lon = "12.36592"><name>BRP1</name><desc>Swim - Transition zone
+Images:6755
+First:19.09.2025 17:08:51
+Last:21.09.2025 11:27:42
+Duration:1.18:18:51
+</desc></wpt>
+<wpt lat = "44.24044" lon = "12.32431"><name>FRI1</name><desc>Bike - 8.5 km
+Images:3808
+First:19.09.2025 17:17:53
+Last:20.09.2025 11:32:54
+Duration:18:15:01
+</desc></wpt>
+<wpt lat = "44.24382" lon = "12.32915"><name>RABI1</name><desc>Bike - 9.3 km
+Images:3014
+First:20.09.2025 07:02:38
+Last:21.09.2025 10:30:16
+Duration:1.03:27:38
+</desc></wpt>
+<wpt lat = "44.18688" lon = "12.12590"><name>SMO1</name><desc>Bike - 56.0 km
+Images:2183
+First:20.09.2025 09:38:28
+Last:20.09.2025 11:51:22
+Duration:02:12:54
+</desc></wpt>
+<wpt lat = "44.18826" lon = "12.12657"><name>SMO2</name><desc>Bike - 126.0 km
+Images:3889
+First:20.09.2025 11:58:47
+Last:20.09.2025 16:24:47
+Duration:04:26:00
+</desc></wpt>
+<wpt lat = "44.24382" lon = "12.32915"><name>RABI2</name><desc>Bike - 170.7 km
+Images:2605
+First:20.09.2025 12:35:29
+Last:21.09.2025 15:34:36
+Duration:1.02:59:07
+</desc></wpt>
+<wpt lat = "44.24044" lon = "12.32431"><name>FRI2</name><desc>Bike - 171.5 km
+Images:2373
+First:20.09.2025 12:36:14
+Last:21.09.2025 17:43:45
+Duration:1.05:07:31
+</desc></wpt>
+<wpt lat = "44.26307" lon = "12.35516"><name>YG2</name><desc>Run - 1.5 km
+Images:5980
+First:20.09.2025 13:02:19
+Last:20.09.2025 19:35:06
+Duration:06:32:47
+</desc></wpt>
+<wpt lat = "44.26493" lon = "12.35317"><name>FME2</name><desc>Run - 8.4 km
+Images:4821
+First:20.09.2025 13:09:50
+Last:20.09.2025 19:32:41
+Duration:06:22:51
+</desc></wpt>
+<wpt lat = "44.25519" lon = "12.36443"><name>BRP2</name><desc>Finish
+Images:3859
+First:20.09.2025 11:03:26
+Last:21.09.2025 18:22:05
+Duration:1.07:18:39
+</desc></wpt>
+<wpt lat = "44.25519" lon = "12.36443"><name>BRP2LS1</name><desc>Finish
+Images:3266
+First:19.09.2025 17:14:56
+Last:20.09.2025 23:40:01
+Duration:1.06:25:05
+</desc></wpt>
+<wpt lat = "44.25519" lon = "12.36443"><name>EO2</name><desc>Finish
+Images:5798
+First:20.09.2025 11:41:09
+Last:21.09.2025 00:27:56
+Duration:12:46:47
+</desc></wpt>
+<wpt lat = "44.25519" lon = "12.36443"><name>EO2LS1</name><desc>Finish
+Images:3842
+First:20.09.2025 15:19:24
+Last:21.09.2025 00:04:19
+Duration:08:44:55
+</desc></wpt>
+<wpt lat = "44.25519" lon = "12.36443"><name>EO2LS2</name><desc>Finish
+Images:4362
+First:20.09.2025 13:51:15
+Last:21.09.2025 00:05:13
+Duration:10:13:58
+</desc></wpt>
+<wpt lat = "44.25519" lon = "12.36443"><name>FBO2</name><desc>Finish
+Images:5546
+First:20.09.2025 15:44:43
+Last:21.09.2025 15:22:30
+Duration:23:37:47
+</desc></wpt>
+<wpt lat = "44.25519" lon = "12.36443"><name>FRI1DRONE1</name><desc>Finish
+Images:23
+First:20.09.2025 18:29:59
+Last:21.09.2025 09:15:30
+Duration:14:45:31
+</desc></wpt>
+</gpx>

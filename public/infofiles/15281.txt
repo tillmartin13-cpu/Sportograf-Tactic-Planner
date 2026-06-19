@@ -1,0 +1,157 @@
+EventId: 15281
+Spots: 25
+Total Images: 27951
+Time:	01.01.0001 23:00:00 to 20.07.2025 19:13:46
+Duration: 739450.20:13:46
+
+(1) - Impressions / Pano
+	PANO1
+	BSZ1
+		Images:	24
+		Time:	19.07.2025 20:55:14 until 20.07.2025 06:58:03
+		Duration:	10:02:49
+		Location:	-27.96206 153.37885
+
+	HOO2
+		Images:	87
+		Time:	20.07.2025 06:26:50 until 20.07.2025 06:58:03
+		Duration:	00:31:13
+		Location:	-27.96206 153.37885
+
+	AKC4
+		Images:	94
+		Time:	20.07.2025 15:36:04 until 20.07.2025 16:12:13
+		Duration:	00:36:09
+		Location:	-27.96206 153.37885
+
+(2) - Obstacle 1
+	BSZ2
+		Images:	1613
+		Time:	20.07.2025 06:29:57 until 20.07.2025 10:05:20
+		Duration:	03:35:23
+		Location:	-27.96206 153.37885
+
+	AKC3
+		Images:	1699
+		Time:	20.07.2025 12:45:32 until 20.07.2025 14:58:52
+		Duration:	02:13:20
+		Location:	-27.96206 153.37885
+
+	TSOC3
+		Images:	707
+		Time:	01.01.0001 23:00:00 until 20.07.2025 15:27:00
+		Duration:	739450.16:27:00
+		Location:	-27.96206 153.37885
+
+(3) - Obstacle 2
+	BSZ3
+		Images:	541
+		Time:	20.07.2025 09:53:17 until 20.07.2025 12:45:47
+		Duration:	02:52:30
+		Location:	-27.96206 153.37885
+
+	HOO3
+		Images:	871
+		Time:	20.07.2025 07:04:04 until 20.07.2025 09:46:47
+		Duration:	02:42:43
+		Location:	-27.96206 153.37885
+
+	AMI2
+		Images:	659
+		Time:	20.07.2025 10:12:17 until 20.07.2025 12:44:39
+		Duration:	02:32:22
+		Location:	-27.96206 153.37885
+
+	AMI3
+		Images:	630
+		Time:	20.07.2025 13:16:30 until 20.07.2025 15:40:23
+		Duration:	02:23:53
+		Location:	-27.96206 153.37885
+
+	TSOC1LS1
+		Images:	5269
+		Time:	19.07.2025 21:31:05 until 20.07.2025 19:13:46
+		Duration:	21:42:41
+		Location:	-27.96206 153.37885
+
+	TSOC4
+		Images:	491
+		Time:	01.01.0001 23:00:00 until 20.07.2025 13:17:20
+		Duration:	739450.14:17:20
+		Location:	-27.96206 153.37885
+
+(4) - Obstacle 3
+	BSZ4
+		Images:	948
+		Time:	20.07.2025 12:48:13 until 20.07.2025 16:00:18
+		Duration:	03:12:05
+		Location:	-27.96206 153.37885
+
+	HOO4
+		Images:	591
+		Time:	20.07.2025 09:53:55 until 20.07.2025 12:30:42
+		Duration:	02:36:47
+		Location:	-27.96206 153.37885
+
+	AKC1
+		Images:	1201
+		Time:	20.07.2025 07:01:51 until 20.07.2025 09:33:24
+		Duration:	02:31:33
+		Location:	-27.96206 153.37885
+
+	AMI4
+		Images:	12
+		Time:	20.07.2025 15:05:00 until 20.07.2025 15:07:27
+		Duration:	00:02:27
+		Location:	-27.96206 153.37885
+
+	TSOC2LS1
+		Images:	6075
+		Time:	19.07.2025 18:29:42 until 20.07.2025 16:14:03
+		Duration:	21:44:21
+		Location:	-27.96206 153.37885
+
+	TSOC5
+		Images:	854
+		Time:	01.01.0001 23:00:00 until 20.07.2025 14:14:50
+		Duration:	739450.15:14:50
+		Location:	-27.96206 153.37885
+
+(5) - Finish
+	HOO1
+		Images:	1385
+		Time:	20.07.2025 12:43:00 until 20.07.2025 16:19:09
+		Duration:	03:36:09
+		Location:	-27.96206 153.37885
+
+	AKC2
+		Images:	890
+		Time:	20.07.2025 09:40:51 until 20.07.2025 12:41:03
+		Duration:	03:00:12
+		Location:	-27.96206 153.37885
+
+	AMI1
+		Images:	1199
+		Time:	20.07.2025 06:53:04 until 20.07.2025 16:19:11
+		Duration:	09:26:07
+		Location:	-27.96206 153.37885
+
+	AMI5LS1
+		Images:	1502
+		Time:	20.07.2025 07:47:29 until 20.07.2025 16:20:35
+		Duration:	08:33:06
+		Location:	-27.96206 153.37885
+
+	TSOC6
+		Images:	327
+		Time:	20.07.2025 11:43:16 until 20.07.2025 14:53:23
+		Duration:	03:10:07
+		Location:	-27.96206 153.37885
+
+(6) - Start
+	AKC5LS1
+		Images:	282
+		Time:	20.07.2025 06:48:45 until 20.07.2025 11:59:31
+		Duration:	05:10:46
+		Location:	-27.96206 153.37885
+

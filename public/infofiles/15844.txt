@@ -1,0 +1,213 @@
+EventId: 15844
+Spots: 33
+Total Images: 252262
+Time:	12.04.2025 09:19:59 to 13.04.2025 16:40:35
+Duration: 1.07:20:36
+
+(1) - Start
+	ACCA1
+		Images:	2356
+		Time:	13.04.2025 08:15:37 until 13.04.2025 10:47:24
+		Duration:	02:31:47
+		Location:	50.84597 4.36577
+
+	LMC1
+		Images:	5018
+		Time:	13.04.2025 09:00:50 until 13.04.2025 10:45:31
+		Duration:	01:44:41
+		Location:	50.84597 4.36577
+
+(2) - 3,44 km
+	PBO1
+		Images:	5371
+		Time:	12.04.2025 19:03:25 until 13.04.2025 11:05:12
+		Duration:	16:01:47
+		Location:	50.83897 4.40049
+
+	TID1
+		Images:	3743
+		Time:	13.04.2025 09:47:06 until 13.04.2025 11:05:12
+		Duration:	01:18:06
+		Location:	50.83897 4.40049
+
+	TID1LS1
+		Images:	2491
+		Time:	13.04.2025 09:41:02 until 13.04.2025 11:05:07
+		Duration:	01:24:05
+		Location:	50.83897 4.40049
+
+(3) - 13,28 km
+	YHA1
+		Images:	2553
+		Time:	13.04.2025 07:52:53 until 13.04.2025 12:26:53
+		Duration:	04:34:00
+		Location:	50.82748 4.52242
+
+(4) - 14,80 km
+	TOG1
+		Images:	11470
+		Time:	12.04.2025 09:27:00 until 13.04.2025 12:36:01
+		Duration:	1.03:09:01
+		Location:	50.83244 4.53602
+
+	TOG1LS1
+		Images:	4495
+		Time:	13.04.2025 10:14:28 until 13.04.2025 12:36:03
+		Duration:	02:21:35
+		Location:	50.83244 4.53602
+
+	TOG1LS2
+		Images:	3401
+		Time:	13.04.2025 10:19:08 until 13.04.2025 12:36:03
+		Duration:	02:16:55
+		Location:	50.83244 4.53602
+
+(5) - 14,83 km
+	NWO1
+		Images:	4955
+		Time:	12.04.2025 11:16:23 until 13.04.2025 12:35:34
+		Duration:	1.01:19:11
+		Location:	50.83220 4.53782
+
+	NWO1LS1
+		Images:	4858
+		Time:	13.04.2025 10:22:07 until 13.04.2025 12:37:27
+		Duration:	02:15:20
+		Location:	50.83220 4.53782
+
+	NWO1LS2
+		Images:	4878
+		Time:	13.04.2025 10:13:31 until 13.04.2025 12:36:21
+		Duration:	02:22:50
+		Location:	50.83220 4.53782
+
+(6) - 28,69 km
+	DPH1
+		Images:	12886
+		Time:	13.04.2025 11:41:24 until 13.04.2025 15:17:15
+		Duration:	03:35:51
+		Location:	50.86787 4.68010
+
+	MARSC1
+		Images:	13671
+		Time:	13.04.2025 11:00:45 until 13.04.2025 14:34:59
+		Duration:	03:34:14
+		Location:	50.86787 4.68010
+
+(7) - 32,45 km
+	FVE1
+		Images:	5786
+		Time:	13.04.2025 10:09:45 until 13.04.2025 15:09:39
+		Duration:	04:59:54
+		Location:	50.87624 4.70046
+
+	KO1
+		Images:	2322
+		Time:	13.04.2025 11:54:45 until 13.04.2025 15:10:49
+		Duration:	03:16:04
+		Location:	50.87624 4.70046
+
+(8) - 33,10 km
+	MOKU1
+		Images:	12763
+		Time:	12.04.2025 10:17:54 until 13.04.2025 15:13:03
+		Duration:	1.04:55:09
+		Location:	50.87919 4.70201
+
+	MOKU1LS1
+		Images:	5458
+		Time:	12.04.2025 10:19:41 until 13.04.2025 15:13:23
+		Duration:	1.04:53:42
+		Location:	50.87919 4.70201
+
+	MOKU1LS2
+		Images:	7645
+		Time:	13.04.2025 08:22:14 until 13.04.2025 15:19:17
+		Duration:	06:57:03
+		Location:	50.87919 4.70201
+
+	IWI1
+		Images:	18945
+		Time:	12.04.2025 09:41:59 until 13.04.2025 15:12:45
+		Duration:	1.05:30:46
+		Location:	50.87919 4.70201
+
+(9) - 33,27 km
+	BENP1
+		Images:	13870
+		Time:	12.04.2025 10:04:30 until 13.04.2025 15:14:11
+		Duration:	1.05:09:41
+		Location:	50.88005 4.70012
+
+	WIP1
+		Images:	6918
+		Time:	13.04.2025 11:56:11 until 13.04.2025 15:15:11
+		Duration:	03:19:00
+		Location:	50.88005 4.70012
+
+(10) - 39,5 km
+	JTA1
+		Images:	4969
+		Time:	13.04.2025 11:59:59 until 13.04.2025 16:16:37
+		Duration:	04:16:38
+		Location:	50.88038 4.70984
+
+	KMC1
+		Images:	6548
+		Time:	12.04.2025 09:59:13 until 13.04.2025 16:17:13
+		Duration:	1.06:18:00
+		Location:	50.88038 4.70984
+
+(11) - 40 km
+	DECO1
+		Images:	9668
+		Time:	12.04.2025 10:03:23 until 13.04.2025 16:19:54
+		Duration:	1.06:16:31
+		Location:	50.88111 4.71447
+
+	GAC1
+		Images:	22259
+		Time:	12.04.2025 10:14:33 until 13.04.2025 16:19:51
+		Duration:	1.06:05:18
+		Location:	50.88111 4.71447
+
+(12) - 40,85 km
+	GST1
+		Images:	8730
+		Time:	12.04.2025 09:53:16 until 13.04.2025 16:28:49
+		Duration:	1.06:35:33
+		Location:	50.87791 4.70675
+
+	KFK1
+		Images:	9502
+		Time:	13.04.2025 12:20:18 until 13.04.2025 16:27:31
+		Duration:	04:07:13
+		Location:	50.87791 4.70675
+
+(13) - Finish
+	SDT1
+		Images:	4063
+		Time:	13.04.2025 12:24:33 until 13.04.2025 16:18:19
+		Duration:	03:53:46
+		Location:	50.86943 4.70896
+
+	SDT1LS1
+		Images:	6389
+		Time:	13.04.2025 12:01:05 until 13.04.2025 16:21:02
+		Duration:	04:19:57
+		Location:	50.86943 4.70896
+
+	SDT1LS2
+		Images:	5455
+		Time:	13.04.2025 12:01:06 until 13.04.2025 16:20:02
+		Duration:	04:18:56
+		Location:	50.86943 4.70896
+
+	SIL1
+		Images:	18809
+		Time:	12.04.2025 09:41:30 until 13.04.2025 16:40:35
+		Duration:	1.06:59:05
+		Location:	50.86943 4.70896
+
+(14) - Impressions / Pano
+	PANO1

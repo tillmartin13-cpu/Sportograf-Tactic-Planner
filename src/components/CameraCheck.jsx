@@ -273,15 +273,6 @@ function CameraTutorial({ onProceed, lang }) {
       </div>
 
       <div className="flex-1 overflow-y-auto px-4 pb-6 space-y-4">
-        {/* Example image */}
-        <div className="rounded-2xl overflow-hidden bg-black/40 border border-white/10">
-          <img
-            src="/rolling_shutter.jpg"
-            alt="Example camera display photo"
-            className="w-full object-contain"
-          />
-        </div>
-
         {/* Tips */}
         <div className="space-y-2">
           {[

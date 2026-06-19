@@ -1,0 +1,83 @@
+EventId: 13884
+Spots: 12
+Total Images: 29949
+Time:	12.06.2025 15:50:49 to 12.06.2025 20:18:26
+Duration: 04:27:37
+
+(1) - Obstacle 16 Wasserrutsche
+	ADCR1
+		Images:	7294
+		Time:	12.06.2025 15:50:49 until 12.06.2025 19:41:06
+		Duration:	03:50:17
+		Location:	48.20368 16.41795
+
+(2) - Obstacle 7 Tire Challenge (Reifenhindernis)
+	ANN1
+		Images:	4407
+		Time:	12.06.2025 16:39:00 until 12.06.2025 19:20:50
+		Duration:	02:41:50
+		Location:	48.19328 16.43774
+
+(3) - Obstacle 11 Pool Party (Wassermulde)
+	DRU1
+		Images:	1670
+		Time:	12.06.2025 16:41:26 until 12.06.2025 19:32:03
+		Duration:	02:50:37
+		Location:	48.19889 16.42480
+
+(4) - Obstacle 18 Big Spider Net
+	KYR1
+		Images:	4522
+		Time:	12.06.2025 17:52:34 until 12.06.2025 19:51:28
+		Duration:	01:58:54
+		Location:	48.20422 16.41785
+
+(5) - Start
+	LOMA1
+		Images:	2576
+		Time:	12.06.2025 17:50:01 until 12.06.2025 18:55:10
+		Duration:	01:05:09
+		Location:	48.20396 16.41550
+
+	LOMA1LS1
+		Images:	173
+		Time:	12.06.2025 17:39:49 until 12.06.2025 18:21:57
+		Duration:	00:42:08
+		Location:	48.20396 16.41550
+
+(6) - Finish
+	LOMA3
+		Images:	3343
+		Time:	12.06.2025 18:55:11 until 12.06.2025 19:48:46
+		Duration:	00:53:35
+		Location:	48.20396 16.41550
+
+	LOMA1LS2
+		Images:	1911
+		Time:	12.06.2025 18:22:42 until 12.06.2025 19:43:36
+		Duration:	01:20:54
+		Location:	48.20396 16.41550
+
+(7) - Ceremony
+	LOMA2
+		Images:	254
+		Time:	12.06.2025 20:06:04 until 12.06.2025 20:18:26
+		Duration:	00:12:22
+		Location:	48.20396 16.41550
+
+(8) - Impressions / Pano
+	PANO1
+(9) - Obstacle 17 Schaumhindernis
+	ISM1
+		Images:	2404
+		Time:	12.06.2025 18:10:15 until 12.06.2025 19:41:32
+		Duration:	01:31:17
+		Location:	48.20396 16.41808
+
+(10) - Obstacle 1
+	ISM1LS1
+		Images:	1395
+		Time:	12.06.2025 18:38:26 until 12.06.2025 19:41:32
+		Duration:	01:03:06
+		Location:	48.20396 16.41550
+

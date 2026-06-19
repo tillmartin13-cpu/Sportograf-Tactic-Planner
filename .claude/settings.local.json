@@ -34,7 +34,25 @@
       "Bash(node --input-type=module --eval ' *)",
       "Bash(npx --yes acorn --ecma2020 --module src/components/photographer/TacticDetail.jsx)",
       "Bash(curl -s http://localhost:5173)",
-      "Bash(curl -s \"http://localhost:5173/src/components/photographer/TacticDetail.jsx\")"
+      "Bash(curl -s \"http://localhost:5173/src/components/photographer/TacticDetail.jsx\")",
+      "WebFetch(domain:reactjs.org)",
+      "WebFetch(domain:legacy.reactjs.org)",
+      "mcp__Claude_in_Chrome__navigate",
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "Bash(xargs grep -l \"hyrox\\\\|Hyrox\\\\|wave\\\\|Wave\")",
+      "Bash(grep \"\\\\.gpx$\")",
+      "Bash(grep \"\\\\.txt$\")",
+      "Bash(grep \"_infofile\\\\.txt$\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\Till\\\\Desktop\\\\Apps\\\\trading-assistant\\\\frontend\\\\src\\\\components\\\\ui\" \"C:\\\\Users\\\\Till\\\\Desktop\\\\Apps\\\\trading-assistant\\\\frontend\\\\src\\\\pages\" \"C:\\\\Users\\\\Till\\\\Desktop\\\\Apps\\\\trading-assistant\\\\frontend\\\\src\\\\hooks\" \"C:\\\\Users\\\\Till\\\\Desktop\\\\Apps\\\\trading-assistant\\\\frontend\\\\src\\\\types\" \"C:\\\\Users\\\\Till\\\\Desktop\\\\Apps\\\\trading-assistant\\\\frontend\\\\src\\\\api\" \"C:\\\\Users\\\\Till\\\\Desktop\\\\Apps\\\\trading-assistant\\\\frontend\\\\src\\\\utils\" \"C:\\\\Users\\\\Till\\\\Desktop\\\\Apps\\\\trading-assistant\\\\frontend\\\\public\" \"C:\\\\Users\\\\Till\\\\Desktop\\\\Apps\\\\trading-assistant\\\\backend\\\\app\\\\api\\\\routes\" \"C:\\\\Users\\\\Till\\\\Desktop\\\\Apps\\\\trading-assistant\\\\backend\\\\app\\\\models\" \"C:\\\\Users\\\\Till\\\\Desktop\\\\Apps\\\\trading-assistant\\\\backend\\\\app\\\\schemas\" \"C:\\\\Users\\\\Till\\\\Desktop\\\\Apps\\\\trading-assistant\\\\backend\\\\app\\\\services\" \"C:\\\\Users\\\\Till\\\\Desktop\\\\Apps\\\\trading-assistant\\\\backend\\\\app\\\\database\")",
+      "Read(//c/Users/Till/Desktop/Apps/trading-assistant/backend/**)",
+      "Bash(python -m pip install -r requirements.txt -q)",
+      "Bash(mkdir -p \"C:\\\\Users\\\\Till\\\\Desktop\\\\Apps\\\\trading-assistant\\\\.claude\")",
+      "Bash(python -c \"from app.models.trade import Trade; from app.models.position import Position; from app.models.watchlist import WatchlistItem; from app.services.stats import compute_trade_stats; print\\('OK'\\)\")",
+      "Bash(pip install *)",
+      "Bash(python -c \"from app.models.trade import Trade; from app.models.position import Position; from app.services.stats import compute_trade_stats; print\\('OK'\\)\")",
+      "Bash(pip --version)",
+      "Bash(pip show *)",
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\Till\\\\Desktop\\\\Apps\\\\TLT TACTIC TOOL\\\\sportograf-tactic-planner\" -Recurse -Filter \"*.jsx\" -o)"
     ]
   }
 }

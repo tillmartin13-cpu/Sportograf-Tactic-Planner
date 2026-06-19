@@ -1,0 +1,59 @@
+EventId: 19234
+Spots: 10
+Total Images: 20212
+Time:	25.10.2025 07:53:52 to 25.10.2025 12:26:47
+Duration: 04:32:55
+
+(1) - 0.0 km
+	ACMCA1
+		Images:	1280
+		Time:	25.10.2025 08:56:20 until 25.10.2025 11:50:03
+		Duration:	02:53:43
+		Location:	NULL NULL
+
+	AFARU1
+		Images:	6921
+		Time:	25.10.2025 09:09:36 until 25.10.2025 11:52:28
+		Duration:	02:42:52
+		Location:	NULL NULL
+
+	AJHAR1
+		Images:	313
+		Time:	25.10.2025 09:30:15 until 25.10.2025 11:54:36
+		Duration:	02:24:21
+		Location:	NULL NULL
+
+	ALKRO1
+		Images:	2222
+		Time:	25.10.2025 07:53:52 until 25.10.2025 11:50:57
+		Duration:	03:57:05
+		Location:	NULL NULL
+
+	ASLAU1
+		Images:	2928
+		Time:	25.10.2025 09:07:03 until 25.10.2025 11:47:45
+		Duration:	02:40:42
+		Location:	NULL NULL
+
+	ATRW1
+(2) - Impressions / Pano
+	PANO1
+(3) - none
+	AMTOD1
+		Images:	4196
+		Time:	25.10.2025 09:08:52 until 25.10.2025 11:53:28
+		Duration:	02:44:36
+		Location:	NULL NULL
+
+	ARCZ1
+		Images:	1252
+		Time:	25.10.2025 10:03:39 until 25.10.2025 12:26:47
+		Duration:	02:23:08
+		Location:	NULL NULL
+
+	ATRA1
+		Images:	1100
+		Time:	25.10.2025 09:25:06 until 25.10.2025 11:44:53
+		Duration:	02:19:47
+		Location:	NULL NULL
+

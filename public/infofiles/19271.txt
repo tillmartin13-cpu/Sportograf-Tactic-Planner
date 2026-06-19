@@ -1,0 +1,69 @@
+EventId: 19271
+Spots: 11
+Total Images: 15484
+Time:	01.01.0001 23:00:00 to 30.12.2025 18:02:38
+Duration: 739613.19:02:38
+
+(1) - Impressions / Pano
+	PANO1
+(2) - none
+	ZZZ1
+		Images:	75
+		Time:	30.11.2025 13:46:07 until 30.11.2025 13:54:54
+		Duration:	00:08:47
+		Location:	NULL NULL
+
+	ZZZ10
+		Images:	146
+		Time:	29.11.2025 14:41:40 until 29.11.2025 15:31:22
+		Duration:	00:49:42
+		Location:	NULL NULL
+
+	ZZZ2
+		Images:	2537
+		Time:	01.01.0001 23:00:00 until 30.11.2025 18:28:05
+		Duration:	739583.19:28:05
+		Location:	NULL NULL
+
+	ZZZ3
+		Images:	4138
+		Time:	29.11.2025 14:48:42 until 30.11.2025 18:21:41
+		Duration:	1.03:32:59
+		Location:	NULL NULL
+
+	ZZZ4
+		Images:	2161
+		Time:	30.11.2025 13:46:32 until 30.11.2025 16:06:22
+		Duration:	02:19:50
+		Location:	NULL NULL
+
+	ZZZ5
+		Images:	1448
+		Time:	30.11.2025 16:06:25 until 30.11.2025 18:13:20
+		Duration:	02:06:55
+		Location:	NULL NULL
+
+	ZZZ6
+		Images:	589
+		Time:	01.01.0001 23:00:00 until 30.12.2025 18:02:38
+		Duration:	739613.19:02:38
+		Location:	NULL NULL
+
+	ZZZ7
+		Images:	513
+		Time:	30.11.2025 17:17:25 until 30.11.2025 19:03:24
+		Duration:	01:45:59
+		Location:	NULL NULL
+
+	ZZZ8
+		Images:	1689
+		Time:	29.11.2025 15:31:22 until 29.11.2025 19:55:18
+		Duration:	04:23:56
+		Location:	NULL NULL
+
+	ZZZ9
+		Images:	2188
+		Time:	29.11.2025 15:15:33 until 30.11.2025 18:12:41
+		Duration:	1.02:57:08
+		Location:	NULL NULL
+

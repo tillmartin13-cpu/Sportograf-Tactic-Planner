@@ -1,0 +1,93 @@
+EventId: 16036
+Spots: 14
+Total Images: 8492
+Time:	18.04.2025 19:15:02 to 19.04.2025 14:04:53
+Duration: 18:49:51
+
+(1) - 14.0 km
+	BAR1
+		Images:	1735
+		Time:	19.04.2025 06:31:33 until 19.04.2025 10:05:59
+		Duration:	03:34:26
+		Location:	50.17992 4.34939
+
+(2) - 53.0 km
+	BAR2
+		Images:	1373
+		Time:	19.04.2025 11:03:43 until 19.04.2025 12:00:24
+		Duration:	00:56:41
+		Location:	50.17798 4.39774
+
+(3) - 73.0 km and 93km for Gran Fondo (2x passage)
+	BAR3
+		Images:	1492
+		Time:	19.04.2025 12:25:20 until 19.04.2025 14:04:53
+		Duration:	01:39:33
+		Location:	50.17653 4.40446
+
+(4) - 2.0 km
+	PBO1
+		Images:	429
+		Time:	18.04.2025 20:37:35 until 19.04.2025 09:47:43
+		Duration:	13:10:08
+		Location:	50.20356 4.37225
+
+	SDT1LS1
+		Images:	205
+		Time:	18.04.2025 19:18:12 until 19.04.2025 09:35:41
+		Duration:	14:17:29
+		Location:	50.20350 4.37255
+
+	SDT1LS2
+		Images:	192
+		Time:	18.04.2025 19:21:19 until 19.04.2025 09:35:41
+		Duration:	14:14:22
+		Location:	50.20350 4.37255
+
+(5) - 605.0 km and 81,5km for Gran Fondo (2x passage)
+	PBO2
+		Images:	1474
+		Time:	19.04.2025 10:07:48 until 19.04.2025 13:10:41
+		Duration:	03:02:53
+		Location:	50.21154 4.37959
+
+(6) - Start
+	SDT1
+		Images:	144
+		Time:	18.04.2025 19:15:02 until 19.04.2025 09:30:37
+		Duration:	14:15:35
+		Location:	50.19162 4.38346
+
+	SDT1DRONE1
+		Images:	8
+		Time:	19.04.2025 08:54:22 until 19.04.2025 09:00:34
+		Duration:	00:06:12
+		Location:	50.19162 4.38346
+
+(7) - 55.0 km and 76,5km for Gran Fondo (2x passage)
+	SDT2
+		Images:	492
+		Time:	19.04.2025 10:38:26 until 19.04.2025 12:41:08
+		Duration:	02:02:42
+		Location:	50.19241 4.39448
+
+	SDT2LS1
+		Images:	481
+		Time:	19.04.2025 10:01:05 until 19.04.2025 12:48:19
+		Duration:	02:47:14
+		Location:	50.19202 4.39401
+
+	SDT2LS2
+		Images:	443
+		Time:	19.04.2025 09:55:30 until 19.04.2025 12:47:06
+		Duration:	02:51:36
+		Location:	50.19202 4.39401
+
+	SDT2DRONE1
+		Images:	24
+		Time:	19.04.2025 11:43:14 until 19.04.2025 12:02:37
+		Duration:	00:19:23
+		Location:	50.19241 4.39448
+
+(8) - Impressions / Pano
+	PANO1

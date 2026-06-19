@@ -1,0 +1,113 @@
+EventId: 10441
+Spots: 16
+Total Images: 60340
+Time:	01.01.0001 23:00:00 to 07.10.2023 10:11:34
+Duration: 738798.11:11:34
+
+(1) - 0.0 km Brad Kroll start 852409
+	BK1
+		Images:	205
+		Time:	07.10.2023 07:45:39 until 07.10.2023 08:39:24
+		Duration:	00:53:45
+		Location:	NULL NULL
+
+(2) - 0.0 km Bryan Sebastian MSC4 852428
+	BS1
+		Images:	8390
+		Time:	07.10.2023 07:36:39 until 07.10.2023 08:55:04
+		Duration:	01:18:25
+		Location:	NULL NULL
+
+(3) - 0.0 km Chynna Grime 852421 Medals
+	CB1
+		Images:	1156
+		Time:	07.10.2023 06:04:57 until 07.10.2023 08:04:58
+		Duration:	02:00:01
+		Location:	NULL NULL
+
+(4) - 0.0 km Claudia Maslon 852417 Medals
+	CM1
+		Images:	719
+		Time:	07.10.2023 06:43:24 until 07.10.2023 08:04:59
+		Duration:	01:21:35
+		Location:	NULL NULL
+
+(5) - 0.0 km Colin Burke 852418 Medals
+	BC1
+		Images:	724
+		Time:	06.10.2023 19:50:52 until 06.10.2023 21:08:13
+		Duration:	01:17:21
+		Location:	NULL NULL
+
+(6) - 0.0 km Jeff Altop Pre Finish 852412
+	JA1
+		Images:	5046
+		Time:	07.10.2023 07:46:16 until 07.10.2023 09:04:20
+		Duration:	01:18:04
+		Location:	NULL NULL
+
+(7) - 0.0 km Mario Arenales 852419 Medals
+	MA1
+		Images:	553
+		Time:	07.10.2023 07:52:10 until 07.10.2023 09:05:18
+		Duration:	01:13:08
+		Location:	NULL NULL
+
+(8) - 0.0 km Megyn Barroner 852416 Medals
+	MB1
+		Images:	1142
+		Time:	07.10.2023 08:52:42 until 07.10.2023 10:11:34
+		Duration:	01:18:52
+		Location:	NULL NULL
+
+(9) - 0.0 km Regina Saponieri 854931 Medals
+	RS1
+		Images:	552
+		Time:	01.01.0001 23:00:00 until 06.10.2023 14:18:51
+		Duration:	738797.15:18:51
+		Location:	NULL NULL
+
+(10) - 0.0 km Sean Haworth Congress Parkway 852422
+	SH1
+		Images:	9402
+		Time:	07.10.2023 07:33:38 until 07.10.2023 09:03:47
+		Duration:	01:30:09
+		Location:	NULL NULL
+
+(11) - 0.0 km sean haworth, order 852422
+	ZZ1
+		Images:	9402
+		Time:	07.10.2023 07:33:38 until 07.10.2023 09:03:47
+		Duration:	01:30:09
+		Location:	NULL NULL
+
+(12) - 0.0 km Steve handwerker order 854928
+	YY1
+		Images:	3347
+		Time:	07.10.2023 07:38:51 until 07.10.2023 09:04:05
+		Duration:	01:25:14
+		Location:	NULL NULL
+
+(13) - 0.0 km Steven Nunez 852420 Medals
+	SN1
+		Images:	632
+		Time:	07.10.2023 07:47:39 until 07.10.2023 09:04:58
+		Duration:	01:17:19
+		Location:	NULL NULL
+
+(14) - 0.0 km Thomas Lammertz MSC4 852429
+	TL1
+		Images:	8947
+		Time:	07.10.2023 07:25:26 until 07.10.2023 08:53:27
+		Duration:	01:28:01
+		Location:	NULL NULL
+
+(15) - 0.0 km Trigger Five PFN 852415
+	FT1
+		Images:	10123
+		Time:	26.03.2023 10:07:00 until 07.10.2023 08:48:14
+		Duration:	194.22:41:14
+		Location:	NULL NULL
+
+(16) - Impressions / Pano
+	PANO1

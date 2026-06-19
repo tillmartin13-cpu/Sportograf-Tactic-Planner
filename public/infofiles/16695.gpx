@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "-25.76760" lon = "28.21782"><name>JHI1</name><desc>Start
+Images:116
+First:03.05.2025 05:07:22
+Last:03.05.2025 06:23:48
+Duration:01:16:26
+</desc></wpt>
+<wpt lat = "-25.76760" lon = "28.21782"><name>TDI1</name><desc>Start
+Images:521
+First:01.01.0001 23:00:00
+Last:03.05.2025 07:22:16
+Duration:739372.08:22:16
+</desc></wpt>
+<wpt lat = "-25.77569" lon = "28.25280"><name>TAZ1</name><desc>Party Lane 10km 21km
+Images:3582
+First:03.05.2025 06:34:59
+Last:03.05.2025 07:35:16
+Duration:01:00:17
+</desc></wpt>
+<wpt lat = "-25.77675" lon = "28.23800"><name>MBEL1</name><desc>Waterpoint Approach 10km
+Images:4502
+First:03.05.2025 06:21:41
+Last:03.05.2025 07:51:00
+Duration:01:29:19
+</desc></wpt>
+<wpt lat = "-25.76951" lon = "28.22719"><name>DAFO1</name><desc>Dey St. 5km 10km 21km Photographer 1
+Images:10702
+First:03.05.2025 06:00:16
+Last:03.05.2025 08:48:27
+Duration:02:48:11
+</desc></wpt>
+<wpt lat = "-25.76951" lon = "28.22719"><name>KVDM1</name><desc>Dey St. 5km 10km 21km Photographer 2
+Images:4158
+First:03.05.2025 06:39:55
+Last:03.05.2025 08:33:28
+Duration:01:53:33
+</desc></wpt>
+<wpt lat = "-25.76482" lon = "28.21810"><name>MAKE1</name><desc>Finish Line Approach 21km
+Images:5845
+First:03.05.2025 07:18:19
+Last:03.05.2025 09:14:29
+Duration:01:56:10
+</desc></wpt>
+<wpt lat = "-25.76667" lon = "28.21357"><name>JHI2</name><desc>Finish
+Images:3495
+First:03.05.2025 06:44:59
+Last:03.05.2025 09:23:20
+Duration:02:38:21
+</desc></wpt>
+<wpt lat = "-25.76667" lon = "28.21357"><name>TDI2</name><desc>Finish
+Images:1349
+First:01.01.0001 23:00:00
+Last:03.05.2025 09:46:53
+Duration:739372.10:46:53
+</desc></wpt>
+<wpt lat = "-25.76667" lon = "28.21357"><name>TAZ2</name><desc>Finish
+Images:584
+First:03.05.2025 08:43:18
+Last:03.05.2025 09:09:43
+Duration:00:26:25
+</desc></wpt>
+</gpx>

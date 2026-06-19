@@ -1,0 +1,203 @@
+EventId: 14527
+Spots: 31
+Total Images: 107683
+Time:	12.06.2025 19:23:23 to 14.06.2025 23:32:36
+Duration: 2.04:09:13
+
+(1) - Start
+	NJO1
+		Images:	967
+		Time:	12.06.2025 19:49:46 until 13.06.2025 22:12:00
+		Duration:	1.02:22:14
+		Location:	47.49347 11.08933
+
+	NJO1LS1
+		Images:	387
+		Time:	12.06.2025 19:48:23 until 13.06.2025 22:05:35
+		Duration:	1.02:17:12
+		Location:	47.49347 11.08933
+
+	MBRE1
+		Images:	425
+		Time:	12.06.2025 20:01:45 until 13.06.2025 22:04:29
+		Duration:	1.02:02:44
+		Location:	47.49347 11.08933
+
+	MBRE1LS1
+		Images:	187
+		Time:	12.06.2025 20:01:40 until 13.06.2025 22:04:31
+		Duration:	1.02:02:51
+		Location:	47.49347 11.08933
+
+	MMART1
+		Images:	773
+		Time:	12.06.2025 19:23:23 until 13.06.2025 22:02:28
+		Duration:	1.02:39:05
+		Location:	47.49464 11.09221
+
+(2) - Drone
+	NJO1DRONE1
+		Images:	32
+		Time:	12.06.2025 20:50:59 until 14.06.2025 13:40:23
+		Duration:	1.16:49:24
+		Location:	47.49347 11.08933
+
+(3) - Osterfelderkopf Downhill
+	NJO2
+		Images:	5793
+		Time:	14.06.2025 10:28:35 until 14.06.2025 14:56:04
+		Duration:	04:27:29
+		Location:	47.43952 11.05311
+
+	NJO2LS1
+		Images:	1423
+		Time:	14.06.2025 10:07:26 until 14.06.2025 15:00:45
+		Duration:	04:53:19
+		Location:	47.43952 11.05311
+
+	NJO2LS2
+		Images:	825
+		Time:	14.06.2025 09:44:36 until 14.06.2025 14:38:47
+		Duration:	04:54:11
+		Location:	47.43952 11.05311
+
+	MMART2
+		Images:	4584
+		Time:	14.06.2025 09:27:12 until 14.06.2025 16:21:33
+		Duration:	06:54:21
+		Location:	47.43925 11.05433
+
+	BSI1
+		Images:	2026
+		Time:	14.06.2025 09:23:49 until 14.06.2025 16:21:56
+		Duration:	06:58:07
+		Location:	47.44080 11.05527
+
+	MASA1
+		Images:	5168
+		Time:	14.06.2025 09:48:46 until 14.06.2025 16:06:25
+		Duration:	06:17:39
+		Location:	47.44227 11.05516
+
+	MASA1LS1
+		Images:	1593
+		Time:	14.06.2025 09:31:33 until 14.06.2025 16:01:48
+		Duration:	06:30:15
+		Location:	47.44227 11.05516
+
+(4) - Ferchensee
+	AFRE1
+		Images:	6365
+		Time:	14.06.2025 03:58:32 until 14.06.2025 15:51:32
+		Duration:	11:53:00
+		Location:	47.43739 11.21315
+
+(5) - Schloss Elmau
+	DASA1
+		Images:	5215
+		Time:	14.06.2025 04:25:37 until 14.06.2025 16:19:02
+		Duration:	11:53:25
+		Location:	47.46516 11.19015
+
+	DASA1LS1
+		Images:	2030
+		Time:	14.06.2025 05:42:40 until 14.06.2025 16:12:49
+		Duration:	10:30:09
+		Location:	47.46516 11.19015
+
+(6) - Elmauer Alm
+	TH1
+		Images:	12551
+		Time:	14.06.2025 05:16:22 until 14.06.2025 16:17:27
+		Duration:	11:01:05
+		Location:	47.47439 11.18077
+
+(7) - Eckbauer Hütten
+	MJO1
+		Images:	4956
+		Time:	14.06.2025 08:37:21 until 14.06.2025 17:56:29
+		Duration:	09:19:08
+		Location:	47.46761 11.14165
+
+(8) - Kreuzeck Uphill
+	LZE1
+		Images:	4514
+		Time:	14.06.2025 08:59:38 until 14.06.2025 18:09:29
+		Duration:	09:09:51
+		Location:	47.44928 11.06545
+
+	MBRE2
+		Images:	3234
+		Time:	14.06.2025 09:00:35 until 14.06.2025 18:33:06
+		Duration:	09:32:31
+		Location:	47.44928 11.06545
+
+(9) - Osterfelderkopf Uphill
+	LIMA1
+		Images:	18979
+		Time:	14.06.2025 08:53:07 until 14.06.2025 15:57:39
+		Duration:	07:04:32
+		Location:	47.43481 11.05266
+
+(10) - Zugspitz View
+	SHUE1
+		Images:	6294
+		Time:	14.06.2025 09:15:24 until 14.06.2025 16:08:43
+		Duration:	06:53:19
+		Location:	47.48462 11.09621
+
+	SVL1LS1
+		Images:	3132
+		Time:	14.06.2025 16:55:13 until 14.06.2025 21:06:40
+		Duration:	04:11:27
+		Location:	47.48462 11.09621
+
+	SVL1
+		Images:	5209
+		Time:	14.06.2025 16:16:23 until 14.06.2025 22:03:53
+		Duration:	05:47:30
+		Location:	47.48462 11.09621
+
+	SVL1LS2
+		Images:	1147
+		Time:	13.06.2025 16:40:10 until 13.06.2025 21:09:45
+		Duration:	04:29:35
+		Location:	47.48462 11.09621
+
+	SVL1LS3
+		Images:	1092
+		Time:	14.06.2025 16:29:38 until 14.06.2025 20:30:17
+		Duration:	04:00:39
+		Location:	47.48462 11.09621
+
+(11) - Finish
+	NJO3
+		Images:	304
+		Time:	13.06.2025 19:59:04 until 13.06.2025 21:29:26
+		Duration:	01:30:22
+		Location:	47.49464 11.09221
+
+	NJO3LS1
+		Images:	1571
+		Time:	14.06.2025 16:31:22 until 14.06.2025 22:53:28
+		Duration:	06:22:06
+		Location:	47.49464 11.09221
+
+	IH1
+		Images:	465
+		Time:	13.06.2025 23:33:01 until 14.06.2025 07:58:57
+		Duration:	08:25:56
+		Location:	47.49464 11.09221
+
+	ALIS1
+		Images:	3595
+		Time:	14.06.2025 08:27:01 until 14.06.2025 16:15:46
+		Duration:	07:48:45
+		Location:	47.49464 11.09221
+
+	TNS1
+		Images:	2847
+		Time:	14.06.2025 16:01:32 until 14.06.2025 23:32:36
+		Duration:	07:31:04
+		Location:	47.49464 11.09221
+

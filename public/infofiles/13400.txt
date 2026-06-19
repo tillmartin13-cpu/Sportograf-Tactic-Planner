@@ -1,0 +1,406 @@
+EventId: 13400
+Spots: 66
+Total Images: 393761
+Time:	01.01.0001 23:00:00 to 01.01.2028 00:11:39
+Duration: 740345.01:11:39
+
+(1) - 0.0 km - Medals - Arnold Suliguin
+	BMDAS1
+(2) - 0.0 km - Medals - Jarrod Kohls
+	BMDJK1
+(3) - 0.0 km - Medals - Juan Padilla
+	BMDJP1
+		Images:	1098
+		Time:	08.12.2024 18:12:34 until 08.12.2024 18:40:34
+		Duration:	00:28:00
+		Location:	NULL NULL
+
+(4) - 0.0 km - Medals - Vijen Naicker
+	BMDVN1
+(5) - 0.0 km - OFP - Alex Yeung
+	BOFAY1
+(6) - 0.0 km - OFP - Jacob Borja
+	BOFJB1
+(7) - 0.0 km - OFP - Michele Massaro
+	BOFMM1
+(8) - 0.0 km 000000 - Morning Finish Area PR's - Joshua Kyles
+	BMDJO1
+		Images:	177
+		Time:	08.12.2024 06:25:15 until 08.12.2024 07:13:31
+		Duration:	00:48:16
+		Location:	NULL NULL
+
+(9) - 0.0 km 858552 - Finish - Phillip Reyes
+	BFIPR1
+		Images:	8203
+		Time:	08.12.2024 07:59:02 until 08.12.2024 11:55:13
+		Duration:	03:56:11
+		Location:	NULL NULL
+
+(10) - 0.0 km 858553 - Finish - Gus Gargallo
+	BFIGG1
+		Images:	9399
+		Time:	08.12.2024 08:20:46 until 08.12.2024 10:21:32
+		Duration:	02:00:46
+		Location:	NULL NULL
+
+(11) - 0.0 km 858554 - Finish - Christine Roosa
+	BFICR1
+		Images:	9930
+		Time:	08.12.2024 09:16:41 until 08.12.2024 10:36:29
+		Duration:	01:19:48
+		Location:	NULL NULL
+
+(12) - 0.0 km 858555 - Finish - Trigger 1
+	BFITO1
+		Images:	12933
+		Time:	08.12.2024 07:27:58 until 08.12.2024 11:55:53
+		Duration:	04:27:55
+		Location:	NULL NULL
+
+(13) - 0.0 km 858558 - MSC 1 - Desmond Tan
+	BMODT1
+		Images:	3783
+		Time:	08.12.2024 06:03:19 until 08.12.2024 06:41:33
+		Duration:	00:38:14
+		Location:	NULL NULL
+
+(14) - 0.0 km 858559 - MSC 1 - Hal Ogata
+	BMOHO1
+		Images:	2070
+		Time:	08.12.2024 06:01:49 until 08.12.2024 06:41:01
+		Duration:	00:39:12
+		Location:	NULL NULL
+
+(15) - 0.0 km 858560 - MSC 1 - Trigger 1
+	BMOTO1
+		Images:	2417
+		Time:	08.12.2024 09:34:10 until 08.12.2024 10:40:54
+		Duration:	01:06:44
+		Location:	NULL NULL
+
+(16) - 0.0 km 858561 - MSC 2 - Mike Kelly
+	BMTMK1
+		Images:	7027
+		Time:	08.12.2024 09:30:31 until 08.12.2024 10:37:40
+		Duration:	01:07:09
+		Location:	NULL NULL
+
+(17) - 0.0 km 858562 - MSC 2 - Christopher Winterfeld
+	BMTCW1
+		Images:	3274
+		Time:	08.12.2024 06:05:11 until 08.12.2024 07:35:30
+		Duration:	01:30:19
+		Location:	NULL NULL
+
+(18) - 0.0 km 858563 - MSC 2 - Trigger 1
+	BMTTO1
+		Images:	4422
+		Time:	08.12.2024 17:46:42 until 01.01.2028 00:11:39
+		Duration:	1118.06:24:57
+		Location:	NULL NULL
+
+(19) - 0.0 km 858564 - MSC 3 - Yiu Nien Wang
+	BMEYW1
+		Images:	9841
+		Time:	08.12.2024 06:29:18 until 08.12.2024 08:06:10
+		Duration:	01:36:52
+		Location:	NULL NULL
+
+(20) - 0.0 km 858565 - MSC 3 - Christine Roosa
+	BMECR1
+		Images:	6970
+		Time:	08.12.2024 06:20:09 until 08.12.2024 08:06:29
+		Duration:	01:46:20
+		Location:	NULL NULL
+
+(21) - 0.0 km 858566 - MSC 3- Trigger 1
+	BMETO1
+		Images:	5332
+		Time:	19.02.2024 01:59:23 until 19.02.2024 03:33:25
+		Duration:	01:34:02
+		Location:	NULL NULL
+
+(22) - 0.0 km 858567 - MSC 4 - Laura Gonsalve
+	BMFLG1
+		Images:	10639
+		Time:	08.12.2024 06:38:32 until 08.12.2024 08:14:54
+		Duration:	01:36:22
+		Location:	NULL NULL
+
+(23) - 0.0 km 858568 - MSC 4 - Stephen Leonardi
+	BMFSL1
+		Images:	8291
+		Time:	07.12.2024 05:45:16 until 07.12.2024 07:44:13
+		Duration:	01:58:57
+		Location:	NULL NULL
+
+(24) - 0.0 km 858569 - MSC 4 - Trigger 1
+	BMFTO1
+		Images:	14553
+		Time:	01.01.0001 23:00:00 until 08.12.2024 12:27:27
+		Duration:	739226.13:27:27
+		Location:	NULL NULL
+
+(25) - 0.0 km 858570 - MSC 5 - Elle Reyes
+	BMSER1
+		Images:	8445
+		Time:	08.12.2024 07:19:55 until 08.12.2024 10:34:03
+		Duration:	03:14:08
+		Location:	NULL NULL
+
+(26) - 0.0 km 858571 - MSC 5 - Alex Lopez
+	BMSAL1
+		Images:	3655
+		Time:	08.12.2024 07:22:19 until 08.12.2024 10:19:16
+		Duration:	02:56:57
+		Location:	NULL NULL
+
+(27) - 0.0 km 858572 - MSC 5 - Trigger 1
+	BMSTO1
+		Images:	10421
+		Time:	08.12.2024 10:18:23 until 08.12.2024 13:19:12
+		Duration:	03:00:49
+		Location:	NULL NULL
+
+(28) - 0.0 km 858573 - MSC 6 - Phillip Welty
+	BSIPW1
+(29) - 0.0 km 858574 - MSC 6 - Kevin Cheah
+	BSIKC1
+		Images:	7161
+		Time:	08.12.2024 11:50:36 until 08.12.2024 15:20:31
+		Duration:	03:29:55
+		Location:	NULL NULL
+
+(30) - 0.0 km 858575 - MSC 6 - Trigger 1
+	BSITO1
+(31) - 0.0 km 858576 - MSC 8 - Tim Berger
+	BEITB1
+		Images:	17988
+		Time:	08.12.2024 06:29:56 until 08.12.2024 12:45:27
+		Duration:	06:15:31
+		Location:	NULL NULL
+
+(32) - 0.0 km 858578 - Medals - Michele Massaro
+	BMDMM1
+		Images:	1750
+		Time:	08.12.2024 08:10:15 until 08.12.2024 12:36:26
+		Duration:	04:26:11
+		Location:	NULL NULL
+
+(33) - 0.0 km 858579- Medals - Alex Yeung
+	BMDAY1
+		Images:	112
+		Time:	08.12.2024 11:48:37 until 08.12.2024 12:21:41
+		Duration:	00:33:04
+		Location:	NULL NULL
+
+(34) - 0.0 km 858580 - Medals - Jacob Borja
+	BMDJB1
+		Images:	1443
+		Time:	08.12.2024 08:53:13 until 08.12.2024 13:37:42
+		Duration:	04:44:29
+		Location:	NULL NULL
+
+(35) - 0.0 km 858581 - OFP - Vijen Naicker
+	BOFVN1
+		Images:	1333
+		Time:	08.12.2024 09:20:45 until 08.12.2024 13:38:55
+		Duration:	04:18:10
+		Location:	NULL NULL
+
+(36) - 0.0 km 858582 - OFP - Arnold Suliguin
+	BOFAS1
+		Images:	1113
+		Time:	08.12.2024 09:28:42 until 08.12.2024 13:12:34
+		Duration:	03:43:52
+		Location:	NULL NULL
+
+(37) - 0.0 km 858583 - OFP - Jarrod Kohls
+	BOFJK1
+		Images:	1483
+		Time:	08.12.2024 01:09:35 until 08.12.2024 04:51:59
+		Duration:	03:42:24
+		Location:	NULL NULL
+
+(38) - 0.0 km 858584 - OFP - Joshua Kyles
+	BOFJO1
+		Images:	1611
+		Time:	08.12.2024 08:04:37 until 08.12.2024 12:42:11
+		Duration:	04:37:34
+		Location:	NULL NULL
+
+(39) - 0.0 km 858585 - PRs and START - Gustavo Gargallo
+	BPRGG1
+(40) - 0.0 km 858586 - PRs and START - Alan Ng
+	BPRAN1
+		Images:	298
+		Time:	08.12.2024 04:41:58 until 08.12.2024 06:05:49
+		Duration:	01:23:51
+		Location:	NULL NULL
+
+(41) - 0.0 km 858587 - Pre-Finish - Alan Ng
+	BPFAN1
+		Images:	17534
+		Time:	08.12.2024 08:57:54 until 08.12.2024 10:23:19
+		Duration:	01:25:25
+		Location:	NULL NULL
+
+(42) - 0.0 km 858588 - Pre-Finish - Trigger 3
+	BPFTE1
+		Images:	6429
+		Time:	08.12.2024 14:43:05 until 08.12.2024 16:32:50
+		Duration:	01:49:45
+		Location:	NULL NULL
+
+(43) - 0.0 km 858589 - Pre-Finish - Desmond Tan
+	BPFDT1
+		Images:	8888
+		Time:	08.12.2024 10:28:28 until 08.12.2024 12:32:55
+		Duration:	02:04:27
+		Location:	NULL NULL
+
+(44) - 0.0 km 858590 - Pre-Finish - Hal Ogata
+	BPFHO1
+		Images:	2212
+		Time:	08.12.2024 11:41:11 until 08.12.2024 12:32:22
+		Duration:	00:51:11
+		Location:	NULL NULL
+
+(45) - 0.0 km 858591 - Pre-Finish - Trigger 1
+	BPFTO1
+		Images:	9647
+		Time:	19.02.2024 04:53:57 until 19.02.2024 07:59:24
+		Duration:	03:05:27
+		Location:	NULL NULL
+
+(46) - 0.0 km 858592 - Pre-Finish - Trigger 2
+	BPFTT1
+		Images:	10906
+		Time:	08.12.2024 08:49:44 until 08.12.2024 12:10:51
+		Duration:	03:21:07
+		Location:	NULL NULL
+
+(47) - 0.0 km 858593 - MSC 7 - Cristina St. Germain
+	BSECS1
+		Images:	12034
+		Time:	23.11.2024 07:29:18 until 23.11.2024 10:17:18
+		Duration:	02:48:00
+		Location:	NULL NULL
+
+(48) - 0.0 km 858594 - MSC 7 - Trigger 1
+	BSETO1
+		Images:	11191
+		Time:	08.12.2024 07:56:01 until 08.12.2024 11:11:23
+		Duration:	03:15:22
+		Location:	NULL NULL
+
+(49) - 0.0 km 864070 - MSC 8 - Mike Kelly
+	BEIMK1
+		Images:	13491
+		Time:	08.12.2024 11:58:28 until 08.12.2024 15:45:21
+		Duration:	03:46:53
+		Location:	NULL NULL
+
+(50) - 0.0 km 864071 - MSC 8 - Christopher Winterfeld
+	BEICW1
+		Images:	8591
+		Time:	08.12.2024 08:40:43 until 08.12.2024 12:42:56
+		Duration:	04:02:13
+		Location:	NULL NULL
+
+(51) - 0.0 km 864072 - MSC 8 - Yiu Nien Wang
+	BEIYW1
+		Images:	12344
+		Time:	08.12.2024 09:30:21 until 08.12.2024 12:44:49
+		Duration:	03:14:28
+		Location:	NULL NULL
+
+(52) - 0.0 km 864098 - MSC 4 -Thaise Meira
+	BMFTM1
+		Images:	1742
+		Time:	08.12.2024 06:34:39 until 08.12.2024 09:32:46
+		Duration:	02:58:07
+		Location:	NULL NULL
+
+(53) - Impressions / Pano
+	PANO1
+(54) - none
+	BFICR2
+		Images:	8766
+		Time:	08.12.2024 10:36:30 until 08.12.2024 12:32:29
+		Duration:	01:55:59
+		Location:	NULL NULL
+
+	BFIGG2
+		Images:	5997
+		Time:	08.12.2024 10:23:20 until 08.12.2024 12:33:00
+		Duration:	02:09:40
+		Location:	NULL NULL
+
+	BFITO2
+		Images:	15156
+		Time:	08.12.2024 07:27:58 until 08.12.2024 12:32:58
+		Duration:	05:05:00
+		Location:	NULL NULL
+
+	BMDAY2
+		Images:	3133
+		Time:	08.12.2024 07:52:04 until 08.12.2024 11:40:02
+		Duration:	03:47:58
+		Location:	NULL NULL
+
+	BMFLG2
+		Images:	3975
+		Time:	08.12.2024 06:41:38 until 08.12.2024 09:34:20
+		Duration:	02:52:42
+		Location:	NULL NULL
+
+	BMFSL2
+		Images:	6203
+		Time:	07.12.2024 07:47:46 until 07.12.2024 09:32:44
+		Duration:	01:44:58
+		Location:	NULL NULL
+
+	BPFAN2
+		Images:	10761
+		Time:	08.12.2024 10:25:54 until 08.12.2024 12:31:37
+		Duration:	02:05:43
+		Location:	NULL NULL
+
+	BPFDT2
+		Images:	14478
+		Time:	08.12.2024 08:23:02 until 08.12.2024 10:27:27
+		Duration:	02:04:25
+		Location:	NULL NULL
+
+	BPFHO2
+		Images:	16216
+		Time:	08.12.2024 08:12:37 until 08.12.2024 11:37:02
+		Duration:	03:24:25
+		Location:	NULL NULL
+
+	BPFTE2
+		Images:	5646
+		Time:	08.12.2024 12:11:55 until 08.12.2024 13:57:26
+		Duration:	01:45:31
+		Location:	NULL NULL
+
+	BPRAN2
+		Images:	605
+		Time:	08.12.2024 08:01:20 until 08.12.2024 08:30:50
+		Duration:	00:29:30
+		Location:	NULL NULL
+
+	BSECS2
+		Images:	8015
+		Time:	08.12.2024 07:26:51 until 08.12.2024 11:58:33
+		Duration:	04:31:42
+		Location:	NULL NULL
+
+	BSETO2
+		Images:	2629
+		Time:	08.12.2024 11:15:59 until 08.12.2024 12:01:04
+		Duration:	00:45:05
+		Location:	NULL NULL
+

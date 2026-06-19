@@ -1,0 +1,89 @@
+EventId: 14425
+Spots: 12
+Total Images: 32567
+Time:	20.12.2024 12:53:05 to 16.06.2025 01:53:39
+Duration: 177.13:00:34
+
+(1) - Obstacle 9 Funky Monkey
+	MKI1
+		Images:	3021
+		Time:	14.06.2025 07:35:09 until 15.06.2025 12:51:39
+		Duration:	1.05:16:30
+		Location:	42.83800 -83.25424
+
+(2) - Obstacle 10 Electric Eel
+	JEPO1
+		Images:	2256
+		Time:	15.06.2025 10:11:21 until 15.06.2025 13:10:00
+		Duration:	02:58:39
+		Location:	42.83519 -83.25267
+
+(3) - Obstacle 11 Cage Crawl
+	VAR1
+		Images:	1438
+		Time:	14.06.2025 08:16:58 until 15.06.2025 13:13:05
+		Duration:	1.04:56:07
+		Location:	42.83629 -83.25122
+
+(4) - Obstacle 12 Hangin Tough
+	TAPO1
+		Images:	1292
+		Time:	15.06.2025 10:27:39 until 15.06.2025 13:24:13
+		Duration:	02:56:34
+		Location:	42.83724 -83.24915
+
+(5) - Obstacle 13 Son of a Ditch
+	MIGO1
+		Images:	2851
+		Time:	13.06.2025 19:32:08 until 16.06.2025 01:53:39
+		Duration:	2.06:21:31
+		Location:	42.83495 -83.24874
+
+(6) - Obstacle 16 Ladder to Hell
+	JOD1
+		Images:	5684
+		Time:	14.06.2025 08:07:52 until 15.06.2025 14:25:28
+		Duration:	1.06:17:36
+		Location:	42.83174 -83.22971
+
+(7) - Obstacle 17 Blockness Monster
+	IZZY1
+		Images:	3297
+		Time:	14.06.2025 07:46:20 until 15.06.2025 14:29:43
+		Duration:	1.06:43:23
+		Location:	42.83018 -83.22928
+
+(8) - Obstacle 19 Lumber Jacked
+	RYN1
+		Images:	7986
+		Time:	15.06.2025 09:48:48 until 15.06.2025 14:38:53
+		Duration:	04:50:05
+		Location:	42.83184 -83.23051
+
+(9) - Impressions / Pano
+	RYN1DRONE1
+		Images:	111
+		Time:	20.12.2024 12:53:05 until 20.12.2024 13:06:13
+		Duration:	00:13:08
+		Location:	42.83106 -83.22843
+
+	CCZ1DRONE1
+		Images:	15
+		Time:	14.06.2025 17:46:26 until 15.06.2025 16:20:09
+		Duration:	22:33:43
+		Location:	42.83106 -83.22843
+
+(10) - Obstacle 22 Artic Enema
+	JIMH1
+		Images:	4401
+		Time:	15.06.2025 09:54:27 until 15.06.2025 15:05:07
+		Duration:	05:10:40
+		Location:	42.82915 -83.22975
+
+(11) - Start
+	CCZ1
+		Images:	204
+		Time:	14.06.2025 11:20:24 until 15.06.2025 09:30:23
+		Duration:	22:09:59
+		Location:	42.83106 -83.22843
+

@@ -1,0 +1,107 @@
+EventId: 11681
+Spots: 15
+Total Images: 28716
+Time:	16.06.2024 06:19:31 to 16.06.2024 15:00:27
+Duration: 08:40:56
+
+(1) - 19,0 / 36  km
+	S0SVL1HAND1N2236
+		Images:	3532
+		Time:	16.06.2024 07:00:43 until 16.06.2024 08:57:50
+		Duration:	01:57:07
+		Location:	47.73877 13.39422
+
+(2) - 19,0 / 36 km
+	S0SVL1DRONE1N2236
+		Images:	69
+		Time:	16.06.2024 07:48:04 until 16.06.2024 08:00:50
+		Duration:	00:12:46
+		Location:	47.73877 13.39422
+
+	S0SVL1LS1N2236
+		Images:	2558
+		Time:	16.06.2024 06:43:47 until 16.06.2024 08:58:26
+		Duration:	02:14:39
+		Location:	47.73877 13.39422
+
+	S0SVL1LS2N2236
+		Images:	1639
+		Time:	16.06.2024 06:43:12 until 16.06.2024 08:55:52
+		Duration:	02:12:40
+		Location:	47.73877 13.39422
+
+(3) - 199,0 km
+	S0DOB2HAND1N2236
+		Images:	2787
+		Time:	16.06.2024 11:45:08 until 16.06.2024 14:56:57
+		Duration:	03:11:49
+		Location:	47.84783 13.36830
+
+(4) - 44,0 61,1 km
+	S0ALIS2HAND1N2236
+		Images:	2746
+		Time:	16.06.2024 07:44:52 until 16.06.2024 13:21:01
+		Duration:	05:36:09
+		Location:	47.74963 13.65977
+
+(5) - 60,4 / 76,7 / 138
+	S0SVL2LS1N2236
+		Images:	1610
+		Time:	16.06.2024 09:57:00 until 16.06.2024 13:51:05
+		Duration:	03:54:05
+		Location:	47.78926 13.48951
+
+(6) - 60,4 / 76,7 / 138 km
+	S0SVL2HAND1N2236
+		Images:	2698
+		Time:	16.06.2024 10:06:54 until 16.06.2024 13:25:21
+		Duration:	03:18:27
+		Location:	47.78926 13.48951
+
+	S0SVL2LS2N2236
+		Images:	425
+		Time:	16.06.2024 09:48:56 until 16.06.2024 13:50:54
+		Duration:	04:01:58
+		Location:	47.78926 13.48951
+
+(7) - 66,2 km Tour C
+	S0DOB1HAND1N2236
+		Images:	3761
+		Time:	16.06.2024 07:16:51 until 16.06.2024 10:28:36
+		Duration:	03:11:45
+		Location:	47.60483 13.36916
+
+(8) - 83,2 / 144,7 km
+	S0MIW1HAND1N2236
+		Images:	1893
+		Time:	16.06.2024 08:03:10 until 16.06.2024 13:38:17
+		Duration:	05:35:07
+		Location:	47.83191 13.51977
+
+(9) - Ceremony
+	S0ALIS3HAND1N2236
+		Images:	61
+		Time:	16.06.2024 14:26:20 until 16.06.2024 14:38:19
+		Duration:	00:11:59
+		Location:	47.85339 13.34858
+
+(10) - Finish
+	S0ALIS1HAND1N2236
+		Images:	277
+		Time:	16.06.2024 13:25:27 until 16.06.2024 14:11:32
+		Duration:	00:46:05
+		Location:	47.85339 13.34858
+
+	S0HKA2HAND1N2236
+		Images:	3479
+		Time:	16.06.2024 08:02:14 until 16.06.2024 15:00:27
+		Duration:	06:58:13
+		Location:	47.85339 13.34858
+
+(11) - Start
+	S0HKA1HAND1N2236
+		Images:	1181
+		Time:	16.06.2024 06:19:31 until 16.06.2024 07:58:57
+		Duration:	01:39:26
+		Location:	47.85339 13.34858
+

@@ -1,0 +1,461 @@
+EventId: 9843
+Spots: 73
+Total Images: 349133
+Time:	29.04.2023 06:10:43 to 29.04.2023 21:08:21
+Duration: 14:57:38
+
+(1) - 106.0 km
+	MHO1
+		Images:	6066
+		Time:	29.04.2023 09:16:50 until 29.04.2023 12:36:00
+		Duration:	03:19:10
+		Location:	39.68341 2.50044
+
+	MHO1DRONE1
+		Images:	13
+		Time:	29.04.2023 12:06:30 until 29.04.2023 12:10:32
+		Duration:	00:04:02
+		Location:	39.68341 2.50044
+
+	MHO1LS2
+		Images:	2997
+		Time:	29.04.2023 08:32:25 until 29.04.2023 12:48:58
+		Duration:	04:16:33
+		Location:	39.68341 2.50044
+
+	MHO2LS1
+		Images:	1431
+		Time:	29.04.2023 16:04:19 until 29.04.2023 17:59:47
+		Duration:	01:55:28
+		Location:	39.68341 2.50044
+
+(2) - 112.0 km
+	MICE1
+		Images:	7824
+		Time:	29.04.2023 07:50:52 until 29.04.2023 10:54:35
+		Duration:	03:03:43
+		Location:	39.7648 2.65516
+
+	MICE1LS2
+		Images:	12564
+		Time:	29.04.2023 07:46:34 until 29.04.2023 09:59:10
+		Duration:	02:12:36
+		Location:	39.7648 2.65516
+
+	MLU1
+		Images:	7500
+		Time:	29.04.2023 08:46:52 until 29.04.2023 12:48:43
+		Duration:	04:01:51
+		Location:	39.65341 2.48227
+
+(3) - 117.0 km
+	FRN1
+		Images:	11564
+		Time:	29.04.2023 09:13:38 until 29.04.2023 13:02:30
+		Duration:	03:48:52
+		Location:	39.64549 2.45166
+
+	FRN1LS1
+		Images:	3749
+		Time:	29.04.2023 08:42:39 until 29.04.2023 13:06:32
+		Duration:	04:23:53
+		Location:	39.64549 2.45166
+
+(4) - 160,0 km
+	TGM2
+		Images:	2215
+		Time:	29.04.2023 14:32:20 until 29.04.2023 17:34:37
+		Duration:	03:02:17
+		Location:	39.69102 2.78880
+
+	TGM2LS1
+		Images:	2318
+		Time:	29.04.2023 14:26:00 until 29.04.2023 17:03:24
+		Duration:	02:37:24
+		Location:	39.69102 2.78880
+
+	TGM2LS2
+		Images:	2600
+		Time:	29.04.2023 14:17:21 until 29.04.2023 17:31:41
+		Duration:	03:14:20
+		Location:	39.69102 2.78880
+
+(5) - 169,0 km
+	JLTG2
+		Images:	3341
+		Time:	29.04.2023 15:02:54 until 29.04.2023 17:32:16
+		Duration:	02:29:22
+		Location:	39.72119 2.82851
+
+	JLTG2LS1
+		Images:	2455
+		Time:	29.04.2023 14:35:41 until 29.04.2023 17:47:04
+		Duration:	03:11:23
+		Location:	39.72119 2.82851
+
+(6) - 170.0 km
+	MHO2
+		Images:	2300
+		Time:	29.04.2023 16:12:16 until 29.04.2023 18:22:02
+		Duration:	02:09:46
+		Location:	39.64089 3.17471
+
+(7) - 171,0 km
+	MANR2
+		Images:	4760
+		Time:	29.04.2023 14:46:11 until 29.04.2023 17:31:20
+		Duration:	02:45:09
+		Location:	39.72077 2.84435
+
+	MANR2LS1
+		Images:	2240
+		Time:	29.04.2023 14:37:22 until 29.04.2023 17:31:21
+		Duration:	02:53:59
+		Location:	39.72077 2.84435
+
+	MANR2LS2
+		Images:	2261
+		Time:	29.04.2023 15:51:28 until 29.04.2023 18:28:16
+		Duration:	02:36:48
+		Location:	39.72077 2.84435
+
+(8) - 172,0 km
+	JCR2
+		Images:	3304
+		Time:	29.04.2023 13:19:17 until 29.04.2023 17:46:27
+		Duration:	04:27:10
+		Location:	39.71656 2.85291
+
+	JCR2LS1
+		Images:	4090
+		Time:	29.04.2023 13:09:07 until 29.04.2023 17:49:43
+		Duration:	04:40:36
+		Location:	39.71656 2.85291
+
+	JCR2LS2
+		Images:	3680
+		Time:	29.04.2023 12:10:56 until 29.04.2023 16:22:28
+		Duration:	04:11:32
+		Location:	39.71656 2.85291
+
+(9) - 175,0 km
+	DR2
+		Images:	12602
+		Time:	29.04.2023 13:02:36 until 29.04.2023 17:55:10
+		Duration:	04:52:34
+		Location:	39.71259 2.85866
+
+(10) - 176,0 km
+	AMRU2
+		Images:	4064
+		Time:	29.04.2023 13:02:23 until 29.04.2023 17:57:38
+		Duration:	04:55:15
+		Location:	39.71142 2.86075
+
+(11) - 178,0 km
+	RAB2
+		Images:	5786
+		Time:	29.04.2023 13:35:04 until 29.04.2023 18:11:56
+		Duration:	04:36:52
+		Location:	39.71142 2.86075
+
+(12) - 179,0 km
+	MPP2
+		Images:	2996
+		Time:	29.04.2023 13:46:02 until 29.04.2023 14:59:27
+		Duration:	01:13:25
+		Location:	39.77789 2.95280
+
+	MPP2LS1
+		Images:	2729
+		Time:	29.04.2023 13:40:02 until 29.04.2023 15:01:48
+		Duration:	01:21:46
+		Location:	39.77789 2.95280
+
+(13) - 201.0 km
+	MICE2
+		Images:	1830
+		Time:	29.04.2023 13:01:57 until 29.04.2023 17:11:45
+		Duration:	04:09:48
+		Location:	39.61890 3.12405
+
+	MICE2LS1
+		Images:	1684
+		Time:	29.04.2023 12:58:07 until 29.04.2023 17:11:45
+		Duration:	04:13:38
+		Location:	39.61890 3.12405
+
+(14) - 205.0 km
+	MICE1LS1
+(15) - 215.0 km
+	MLU2
+		Images:	3009
+		Time:	29.04.2023 15:50:01 until 29.04.2023 18:25:35
+		Duration:	02:35:34
+		Location:	39.63214 3.16708
+
+(16) - 217.0 km
+	FRN2
+		Images:	3035
+		Time:	29.04.2023 15:59:30 until 29.04.2023 18:20:56
+		Duration:	02:21:26
+		Location:	39.63301 3.16677
+
+	FRN2LS1
+		Images:	1882
+		Time:	29.04.2023 15:46:18 until 29.04.2023 18:25:02
+		Duration:	02:38:44
+		Location:	39.63301 3.16677
+
+(17) - 248,0 km
+	GETK2
+		Images:	5469
+		Time:	29.04.2023 13:47:07 until 29.04.2023 18:33:03
+		Duration:	04:45:56
+		Location:	39.63813 3.14118
+
+(18) - 250,0 km
+	ACC2
+		Images:	2271
+		Time:	29.04.2023 13:50:01 until 29.04.2023 18:29:45
+		Duration:	04:39:44
+		Location:	39.62921 3.13156
+
+	ACC2LS1
+		Images:	1926
+		Time:	29.04.2023 13:59:45 until 29.04.2023 18:18:14
+		Duration:	04:18:29
+		Location:	39.62921 3.13156
+
+	PANO1
+(19) - 30.0 km
+	JMP1
+		Images:	4188
+		Time:	29.04.2023 07:11:55 until 29.04.2023 08:43:47
+		Duration:	01:31:52
+		Location:	39.86622 2.92356
+
+	JMP1LS1
+		Images:	4298
+		Time:	29.04.2023 07:01:43 until 29.04.2023 08:41:09
+		Duration:	01:39:26
+		Location:	39.86622 2.92356
+
+	JMP2DRONE1
+		Images:	105
+		Time:	29.04.2023 06:33:58 until 29.04.2023 13:49:43
+		Duration:	07:15:45
+		Location:	39.86622 2.92356
+
+	LYB1
+		Images:	6130
+		Time:	29.04.2023 07:09:17 until 29.04.2023 08:45:29
+		Duration:	01:36:12
+		Location:	39.86488 2.91917
+
+(20) - 45,0 km
+	TGM1
+		Images:	6815
+		Time:	29.04.2023 08:00:25 until 29.04.2023 10:14:41
+		Duration:	02:14:16
+		Location:	39.82876 2.83716
+
+	TGM1LS1
+		Images:	4929
+		Time:	29.04.2023 06:48:13 until 29.04.2023 09:55:06
+		Duration:	03:06:53
+		Location:	39.82876 2.83716
+
+	TGM1LS2
+		Images:	4014
+		Time:	29.04.2023 06:35:59 until 29.04.2023 09:56:35
+		Duration:	03:20:36
+		Location:	39.82876 2.83716
+
+(21) - 49,0 km
+	JLTG1
+		Images:	7569
+		Time:	29.04.2023 07:40:07 until 29.04.2023 11:07:18
+		Duration:	03:27:11
+		Location:	39.80717 2.8193
+
+	JLTG1LS1
+		Images:	1760
+		Time:	29.04.2023 07:03:37 until 29.04.2023 10:07:08
+		Duration:	03:03:31
+		Location:	39.80717 2.8193
+
+	JLTG1LS2
+		Images:	4164
+		Time:	29.04.2023 06:55:38 until 29.04.2023 09:29:54
+		Duration:	02:34:16
+		Location:	39.80717 2.8193
+
+(22) - 56,0 km
+	MANR1
+		Images:	11492
+		Time:	29.04.2023 07:25:59 until 29.04.2023 10:58:38
+		Duration:	03:32:39
+		Location:	39.79052 2.77442
+
+	MANR1LS1
+		Images:	5637
+		Time:	29.04.2023 07:58:42 until 29.04.2023 11:54:19
+		Duration:	03:55:37
+		Location:	39.79052 2.77442
+
+(23) - 57,3 km
+	AMRU1
+		Images:	7552
+		Time:	29.04.2023 08:12:10 until 29.04.2023 11:09:33
+		Duration:	02:57:23
+		Location:	39.79771 2.7732
+
+	AMRU1LS1
+		Images:	3045
+		Time:	29.04.2023 07:47:28 until 29.04.2023 09:22:27
+		Duration:	01:34:59
+		Location:	39.79771 2.7732
+
+(24) - 59,0 km
+	JCR1
+		Images:	3510
+		Time:	29.04.2023 08:13:57 until 29.04.2023 10:51:51
+		Duration:	02:37:54
+		Location:	39.7962 2.76696
+
+	JCR1LS1
+		Images:	5078
+		Time:	29.04.2023 07:58:56 until 29.04.2023 10:51:47
+		Duration:	02:52:51
+		Location:	39.7962 2.76696
+
+	JCR1LS2
+		Images:	3988
+		Time:	29.04.2023 07:03:51 until 29.04.2023 08:47:43
+		Duration:	01:43:52
+		Location:	39.7962 2.76696
+
+(25) - 63,7 km
+	DR1
+		Images:	12622
+		Time:	29.04.2023 08:31:05 until 29.04.2023 10:49:17
+		Duration:	02:18:12
+		Location:	39.79196 2.73623
+
+	DR1LS1
+		Images:	1245
+		Time:	29.04.2023 08:24:58 until 29.04.2023 10:41:27
+		Duration:	02:16:29
+		Location:	39.79196 2.73623
+
+	DR1LS2
+		Images:	4000
+		Time:	29.04.2023 08:29:36 until 29.04.2023 10:06:39
+		Duration:	01:37:03
+		Location:	39.79196 2.73623
+
+	DR1LS3
+		Images:	828
+		Time:	29.04.2023 08:26:05 until 29.04.2023 10:40:27
+		Duration:	02:14:22
+		Location:	39.79196 2.73623
+
+(26) - 66,8 km
+	ACC1LS1
+		Images:	6367
+		Time:	29.04.2023 08:52:29 until 29.04.2023 12:04:48
+		Duration:	03:12:19
+		Location:	39.78463 2.73388
+
+	MPP1
+		Images:	6876
+		Time:	29.04.2023 08:31:53 until 29.04.2023 11:40:36
+		Duration:	03:08:43
+		Location:	39.78463 2.73388
+
+	MPP1LS1
+		Images:	6838
+		Time:	29.04.2023 08:27:14 until 29.04.2023 10:51:41
+		Duration:	02:24:27
+		Location:	39.78463 2.73388
+
+	MPP1LS2
+		Images:	8339
+		Time:	29.04.2023 08:25:11 until 29.04.2023 10:52:19
+		Duration:	02:27:08
+		Location:	39.78463 2.73388
+
+(27) - 72,0 km
+	RAB1
+		Images:	5545
+		Time:	29.04.2023 07:32:16 until 29.04.2023 12:15:59
+		Duration:	04:43:43
+		Location:	39.77427 2.69845
+
+(28) - 80,5 km
+	ACC1
+		Images:	11259
+		Time:	29.04.2023 08:55:55 until 29.04.2023 12:03:26
+		Duration:	03:07:31
+		Location:	39.7463 2.64951
+
+(29) - 84,0 km
+	GETK3
+		Images:	14358
+		Time:	29.04.2023 07:10:48 until 29.04.2023 12:14:40
+		Duration:	05:03:52
+		Location:	39.75601 2.63285
+
+(30) - Finish
+	JMP2
+		Images:	8753
+		Time:	29.04.2023 10:56:33 until 29.04.2023 21:08:21
+		Duration:	10:11:48
+		Location:	39.80667 3.11683
+
+	JMP2LS1
+		Images:	6284
+		Time:	29.04.2023 10:36:52 until 29.04.2023 20:43:51
+		Duration:	10:06:59
+		Location:	39.80667 3.11683
+
+	LYB2
+		Images:	8142
+		Time:	29.04.2023 11:22:46 until 29.04.2023 20:41:51
+		Duration:	09:19:05
+		Location:	39.86488 2.91917
+
+	ROG2
+		Images:	8240
+		Time:	29.04.2023 11:14:47 until 29.04.2023 20:49:05
+		Duration:	09:34:18
+		Location:	39.86488 2.91917
+
+	ROG2LS1
+		Images:	6084
+		Time:	29.04.2023 10:44:28 until 29.04.2023 20:43:58
+		Duration:	09:59:30
+		Location:	39.86488 2.91917
+
+(31) - Impressions / Pano
+	PANO1
+(32) - Start
+	ROG1
+		Images:	3434
+		Time:	29.04.2023 06:10:43 until 29.04.2023 17:36:19
+		Duration:	11:25:36
+		Location:	39.80833 3.11649
+
+	ROG1LS1
+		Images:	860
+		Time:	29.04.2023 06:49:04 until 29.04.2023 07:06:52
+		Duration:	00:17:48
+		Location:	39.80833 3.11649
+
+	ROG2LS2
+		Images:	6230
+		Time:	29.04.2023 10:47:08 until 29.04.2023 20:43:51
+		Duration:	09:56:43
+		Location:	39.80833 3.11649
+

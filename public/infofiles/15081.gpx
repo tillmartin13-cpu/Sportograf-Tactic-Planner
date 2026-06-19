@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "-33.84512" lon = "151.06909"><name>CRBR1</name><desc>0.0 km SLED PULL
+Images:3068
+First:04.07.2025 10:01:02
+Last:06.07.2025 08:02:26
+Duration:1.22:01:24
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>EAP1</name><desc>0.0 km SLED PULL
+Images:1644
+First:03.07.2025 19:39:59
+Last:05.07.2025 20:14:42
+Duration:2.00:34:43
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>IAF2</name><desc>0.0 km SLED PULL
+Images:4177
+First:05.07.2025 14:58:49
+Last:05.07.2025 20:42:31
+Duration:05:43:42
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>IDS2</name><desc>0.0 km SLED PULL
+Images:1397
+First:05.07.2025 14:58:49
+Last:05.07.2025 17:38:50
+Duration:02:40:01
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>TPA2</name><desc>0.0 km SLED PULL
+Images:3690
+First:05.07.2025 15:01:41
+Last:05.07.2025 20:42:34
+Duration:05:40:53
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>JUBA1</name><desc>0.0 km SLED PULL
+Images:1228
+First:05.07.2025 14:03:59
+Last:06.07.2025 10:50:45
+Duration:20:46:46
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>CRBR2</name><desc>0.0 km SLED PUSH
+Images:2090
+First:05.07.2025 15:03:26
+Last:06.07.2025 10:40:16
+Duration:19:36:50
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>PAC1</name><desc>0.0 km SLED PUSH
+Images:2283
+First:05.07.2025 07:45:26
+Last:05.07.2025 20:28:01
+Duration:12:42:35
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>SNT1</name><desc>0.0 km SLED PUSH
+Images:3610
+First:05.07.2025 07:56:49
+Last:05.07.2025 14:54:58
+Duration:06:58:09
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>VFV1</name><desc>0.0 km SLED PUSH
+Images:7429
+First:05.07.2025 07:52:13
+Last:05.07.2025 20:15:33
+Duration:12:23:20
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>WP1</name><desc>0.0 km SLED PUSH
+Images:4715
+First:05.07.2025 08:05:08
+Last:05.07.2025 14:46:36
+Duration:06:41:28
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>CSM1</name><desc>Finish
+Images:5058
+First:04.07.2025 08:20:05
+Last:06.07.2025 10:38:15
+Duration:2.02:18:10
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>CVO2</name><desc>Finish
+Images:4229
+First:05.07.2025 14:58:31
+Last:05.07.2025 21:48:56
+Duration:06:50:25
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>MFS2</name><desc>Finish
+Images:1889
+First:05.07.2025 14:45:39
+Last:05.07.2025 21:28:41
+Duration:06:43:02
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>TOSC1</name><desc>Finish
+Images:1622
+First:05.07.2025 08:41:47
+Last:06.07.2025 14:53:26
+Duration:1.06:11:39
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>TOSC3LS1</name><desc>Finish
+Images:207
+First:05.07.2025 08:19:51
+Last:05.07.2025 09:50:07
+Duration:01:30:16
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>TPA3LS1</name><desc>Finish
+Images:3978
+First:05.07.2025 08:05:48
+Last:05.07.2025 21:12:28
+Duration:13:06:40
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>JUBA2</name><desc>Finish
+Images:320
+First:05.07.2025 14:52:23
+Last:05.07.2025 15:47:49
+Duration:00:55:26
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>CSM2</name><desc>Herotent
+Images:3124
+First:05.07.2025 15:18:16
+Last:05.07.2025 21:52:02
+Duration:06:33:46
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>IAF1</name><desc>Herotent
+Images:2191
+First:05.07.2025 07:54:56
+Last:05.07.2025 14:56:01
+Duration:07:01:05
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>LMLS2</name><desc>Herotent
+Images:1283
+First:05.07.2025 15:07:00
+Last:05.07.2025 21:47:17
+Duration:06:40:17
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>ZMO1</name><desc>Herotent
+Images:2574
+First:05.07.2025 07:56:08
+Last:05.07.2025 15:16:48
+Duration:07:20:40
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>CVO1</name><desc>0.0 km LUNGES
+Images:5898
+First:05.07.2025 07:58:26
+Last:05.07.2025 14:53:30
+Duration:06:55:04
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>LMLS1</name><desc>0.0 km LUNGES
+Images:3668
+First:05.07.2025 07:47:23
+Last:05.07.2025 14:52:05
+Duration:07:04:42
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>NCJ2</name><desc>0.0 km LUNGES
+Images:5418
+First:04.07.2025 07:49:14
+Last:05.07.2025 21:31:45
+Duration:1.13:42:31
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>NOJ2</name><desc>0.0 km LUNGES
+Images:3806
+First:05.07.2025 17:34:12
+Last:05.07.2025 21:33:33
+Duration:03:59:21
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>EAP2</name><desc>0.0 km WALL BALL
+Images:3360
+First:05.07.2025 03:18:27
+Last:05.07.2025 09:39:23
+Duration:06:20:56
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>JBR1</name><desc>0.0 km WALL BALL
+Images:1198
+First:05.07.2025 08:55:36
+Last:05.07.2025 14:50:02
+Duration:05:54:26
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>MALO2</name><desc>0.0 km WALL BALL
+Images:9632
+First:05.07.2025 15:15:24
+Last:05.07.2025 21:47:40
+Duration:06:32:16
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>NCJ1</name><desc>0.0 km WALL BALL
+Images:5183
+First:04.07.2025 08:16:12
+Last:05.07.2025 15:01:13
+Duration:1.06:45:01
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>SNT2</name><desc>0.0 km WALL BALL
+Images:8032
+First:05.07.2025 14:53:34
+Last:05.07.2025 21:47:02
+Duration:06:53:28
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>TPA1</name><desc>0.0 km WALL BALL
+Images:11623
+First:04.07.2025 10:32:06
+Last:05.07.2025 14:50:47
+Duration:1.04:18:41
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>JUBA4</name><desc>0.0 km WALL BALL
+Images:261
+First:05.07.2025 15:07:28
+Last:05.07.2025 15:13:40
+Duration:00:06:12
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>IDS1</name><desc>0.0 km SKIERG
+Images:4252
+First:04.07.2025 07:59:37
+Last:06.07.2025 08:41:46
+Duration:2.00:42:09
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>JBR2</name><desc>0.0 km SKIERG
+Images:2220
+First:05.07.2025 15:04:35
+Last:05.07.2025 20:18:23
+Duration:05:13:48
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>KSL1</name><desc>0.0 km SKIERG
+Images:4014
+First:04.07.2025 07:43:07
+Last:05.07.2025 15:19:43
+Duration:1.07:36:36
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>MALO1</name><desc>0.0 km SKIERG
+Images:9885
+First:05.07.2025 08:03:13
+Last:06.07.2025 08:22:39
+Duration:1.00:19:26
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>PBOY2</name><desc>0.0 km SKIERG
+Images:6990
+First:05.07.2025 15:01:03
+Last:05.07.2025 20:18:29
+Duration:05:17:26
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>WP2</name><desc>0.0 km SKIERG
+Images:4404
+First:05.07.2025 15:03:27
+Last:06.07.2025 21:31:13
+Duration:1.06:27:46
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>IGM1</name><desc>0.0 km SKIERG
+Images:1434
+First:05.07.2025 11:44:19
+Last:05.07.2025 13:38:33
+Duration:01:54:14
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>JUBA3</name><desc>0.0 km SKIERG
+Images:2056
+First:05.07.2025 15:56:24
+Last:05.07.2025 17:37:23
+Duration:01:40:59
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>KSL2</name><desc>0.0 km ROWING
+Images:2822
+First:05.07.2025 15:19:43
+Last:05.07.2025 21:01:06
+Duration:05:41:23
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>MFS1</name><desc>0.0 km ROWING
+Images:5815
+First:05.07.2025 08:21:16
+Last:05.07.2025 14:31:45
+Duration:06:10:29
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>NOJ1</name><desc>0.0 km ROWING
+Images:6067
+First:05.07.2025 08:31:31
+Last:05.07.2025 15:00:26
+Duration:06:28:55
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>PBOY1</name><desc>0.0 km ROWING
+Images:10932
+First:05.07.2025 08:31:41
+Last:06.07.2025 11:40:26
+Duration:1.03:08:45
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>TOSC2</name><desc>0.0 km ROWING
+Images:7236
+First:05.07.2025 15:20:28
+Last:06.07.2025 19:52:44
+Duration:1.04:32:16
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>ZMO2</name><desc>0.0 km ROWING
+Images:5689
+First:05.07.2025 15:35:31
+Last:05.07.2025 20:58:19
+Duration:05:22:48
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>IGM2LS1</name><desc>0.0 km FARMERS CARRY
+Images:4335
+First:05.07.2025 08:21:35
+Last:05.07.2025 21:22:50
+Duration:13:01:15
+</desc></wpt>
+<wpt lat = "-33.84512" lon = "151.06909"><name>IGM2LS2</name><desc>0.0 km FARMERS CARRY
+Images:4670
+First:05.07.2025 15:41:11
+Last:05.07.2025 21:22:52
+Duration:05:41:41
+</desc></wpt>
+</gpx>

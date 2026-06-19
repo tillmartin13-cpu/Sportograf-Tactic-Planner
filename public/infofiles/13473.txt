@@ -1,0 +1,119 @@
+EventId: 13473
+Spots: 17
+Total Images: 18943
+Time:	25.10.2025 05:54:59 to 26.10.2025 13:28:52
+Duration: 1.07:33:53
+
+(1) - Bike - Transition zone
+	AAM1
+		Images:	653
+		Time:	25.10.2025 06:29:13 until 25.10.2025 07:49:08
+		Duration:	01:19:55
+		Location:	17.03240 54.30155
+
+	MUP1
+		Images:	608
+		Time:	25.10.2025 06:34:47 until 25.10.2025 07:51:11
+		Duration:	01:16:24
+		Location:	17.03240 54.30155
+
+(2) - Run - 55,0  Marina
+	AAM2
+		Images:	1807
+		Time:	25.10.2025 09:21:22 until 25.10.2025 13:27:57
+		Duration:	04:06:35
+		Location:	17.03319 54.29991
+
+(3) - Finish
+	AAM3
+		Images:	1430
+		Time:	25.10.2025 10:54:24 until 25.10.2025 14:59:20
+		Duration:	04:04:56
+		Location:	17.03319 54.29991
+
+	GSH2
+		Images:	1431
+		Time:	25.10.2025 10:31:37 until 25.10.2025 14:55:43
+		Duration:	04:24:06
+		Location:	17.03319 54.29991
+
+	MUP2
+		Images:	2948
+		Time:	25.10.2025 10:31:44 until 26.10.2025 13:28:52
+		Duration:	1.02:57:08
+		Location:	17.03319 54.29991
+
+(4) - Swim - Transition zone
+	GSH1
+		Images:	855
+		Time:	25.10.2025 06:25:41 until 25.10.2025 07:44:09
+		Duration:	01:18:28
+		Location:	17.03201 54.30155
+
+	MUP1LS1
+		Images:	314
+		Time:	25.10.2025 06:56:07 until 25.10.2025 07:51:30
+		Duration:	00:55:23
+		Location:	17.03240 54.30155
+
+	MUP2LS1
+		Images:	488
+		Time:	25.10.2025 10:54:50 until 25.10.2025 15:22:32
+		Duration:	04:27:42
+		Location:	17.03240 54.30155
+
+(5) - Bike - 40,0 km
+	MGOT1
+		Images:	1096
+		Time:	25.10.2025 07:00:54 until 25.10.2025 09:58:49
+		Duration:	02:57:55
+		Location:	17.01644 54.68063
+
+(6) - Run - 6,0 km By the sea before Zanzibar
+	MGOT2
+		Images:	673
+		Time:	25.10.2025 11:35:42 until 25.10.2025 13:50:54
+		Duration:	02:15:12
+		Location:	17.03045 54.30218
+
+(7) - Swim - Start
+	MRGO1
+		Images:	182
+		Time:	25.10.2025 05:54:59 until 25.10.2025 07:19:19
+		Duration:	01:24:20
+		Location:	17.03319 54.29991
+
+(8) - Run - 4,0 km Pier
+	MRGO2
+		Images:	1976
+		Time:	25.10.2025 09:05:57 until 25.10.2025 13:45:48
+		Duration:	04:39:51
+		Location:	17.02771 54.29933
+
+(9) - Run - 55,0 km
+	MUP1LS2
+		Images:	319
+		Time:	25.10.2025 06:55:25 until 25.10.2025 15:24:31
+		Duration:	08:29:06
+		Location:	17.03302 54.30074
+
+	MUP2LS2
+		Images:	470
+		Time:	25.10.2025 10:56:59 until 25.10.2025 15:22:14
+		Duration:	04:25:15
+		Location:	17.03302 54.30074
+
+(10) - Bike - 20,0 km
+	NIZ1
+		Images:	2752
+		Time:	25.10.2025 06:40:18 until 25.10.2025 11:01:47
+		Duration:	04:21:29
+		Location:	17.05652 54.41521
+
+(11) - Run - 6,5 km Zanzibar
+	NIZ2
+		Images:	941
+		Time:	25.10.2025 11:43:04 until 25.10.2025 13:52:30
+		Duration:	02:09:26
+		Location:	17.02995 54.30415
+

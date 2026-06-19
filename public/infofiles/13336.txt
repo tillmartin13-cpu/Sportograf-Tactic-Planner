@@ -1,0 +1,184 @@
+EventId: 13336
+Spots: 31
+Total Images: 117570
+Time:	31.12.2000 18:03:36 to 12.12.2024 07:49:58
+Duration: 8746.13:46:22
+
+(1) - 0.0 km
+	BJALL1
+		Images:	3863
+		Time:	12.10.2024 07:16:27 until 12.10.2024 08:44:48
+		Duration:	01:28:21
+		Location:	NULL NULL
+
+	BMKON1
+		Images:	6503
+		Time:	12.10.2024 06:43:25 until 12.10.2024 07:58:03
+		Duration:	01:14:38
+		Location:	NULL NULL
+
+	BTTWO1
+		Images:	4079
+		Time:	12.10.2024 06:37:29 until 12.10.2024 07:50:05
+		Duration:	01:12:36
+		Location:	NULL NULL
+
+	CBWIL1
+		Images:	5460
+		Time:	12.10.2024 06:38:15 until 12.10.2024 08:57:18
+		Duration:	02:19:03
+		Location:	NULL NULL
+
+	CCGAY1
+		Images:	578
+		Time:	12.10.2024 07:10:47 until 12.10.2024 08:58:49
+		Duration:	01:48:02
+		Location:	NULL NULL
+
+	CFTA1
+		Images:	4572
+		Time:	12.10.2024 07:46:20 until 12.10.2024 09:27:09
+		Duration:	01:40:49
+		Location:	NULL NULL
+
+	CFTB1
+	CTCB1
+		Images:	10539
+		Time:	12.10.2024 08:10:44 until 12.10.2024 10:00:25
+		Duration:	01:49:41
+		Location:	NULL NULL
+
+	CTWEY1
+		Images:	9152
+		Time:	31.12.2000 18:03:36 until 12.10.2024 08:57:15
+		Duration:	8685.14:53:39
+		Location:	NULL NULL
+
+	DALEF1
+		Images:	731
+		Time:	12.10.2024 07:51:10 until 12.10.2024 09:01:45
+		Duration:	01:10:35
+		Location:	NULL NULL
+
+	DCLMA1
+		Images:	761
+		Time:	12.10.2024 06:41:26 until 12.10.2024 08:05:34
+		Duration:	01:24:08
+		Location:	NULL NULL
+
+	DELHU1
+		Images:	1322
+		Time:	12.10.2024 09:41:53 until 12.10.2024 11:05:12
+		Duration:	01:23:19
+		Location:	NULL NULL
+
+	DEMRO1
+		Images:	740
+		Time:	11.10.2024 19:57:45 until 12.10.2024 08:10:25
+		Duration:	12:12:40
+		Location:	NULL NULL
+
+	DJOES1
+		Images:	650
+		Time:	12.10.2024 07:49:45 until 12.10.2024 09:03:27
+		Duration:	01:13:42
+		Location:	NULL NULL
+
+	DMAEL1
+		Images:	1723
+		Time:	12.10.2024 06:55:44 until 12.10.2024 09:05:17
+		Duration:	02:09:33
+		Location:	NULL NULL
+
+	DMEBA1
+		Images:	1155
+		Time:	12.10.2024 08:46:49 until 12.10.2024 10:09:05
+		Duration:	01:22:16
+		Location:	NULL NULL
+
+	DORSA1
+		Images:	8830
+		Time:	12.10.2024 07:04:14 until 12.10.2024 09:01:16
+		Duration:	01:57:02
+		Location:	NULL NULL
+
+	DTRFI1
+		Images:	4644
+		Time:	12.10.2024 08:46:09 until 12.10.2024 10:03:32
+		Duration:	01:17:23
+		Location:	NULL NULL
+
+	DTRIG1
+		Images:	4724
+		Time:	12.10.2024 07:44:00 until 12.10.2024 09:02:43
+		Duration:	01:18:43
+		Location:	NULL NULL
+
+(2) - 0.0 km bryan sebastian, msc 4, 856371
+	BRYAN1
+		Images:	8405
+		Time:	12.10.2024 06:41:18 until 12.10.2024 07:54:39
+		Duration:	01:13:21
+		Location:	NULL NULL
+
+(3) - 0.0 km David kraus, msc 4, 856370
+	DKRA1
+		Images:	6116
+		Time:	12.10.2024 07:11:52 until 12.10.2024 08:51:46
+		Duration:	01:39:54
+		Location:	NULL NULL
+
+(4) - 0.0 km Dennis Peralta, 856362, Cong Parkway
+	DPERA1
+		Images:	5494
+		Time:	12.10.2024 07:35:42 until 12.10.2024 08:54:44
+		Duration:	01:19:02
+		Location:	NULL NULL
+
+(5) - 0.0 km gus gargallo, PFN, 856351
+	BGUS1
+(6) - 0.0 km Harral Allen, MSC2,856364
+	BALLE1
+		Images:	5880
+		Time:	12.10.2024 07:19:21 until 12.10.2024 08:51:17
+		Duration:	01:31:56
+		Location:	NULL NULL
+
+(7) - 0.0 km israel vega, msc 2, 856365
+	BVEGA1
+		Images:	6705
+		Time:	12.10.2024 07:28:22 until 12.10.2024 08:39:14
+		Duration:	01:10:52
+		Location:	NULL NULL
+
+(8) - 0.0 km Jailene Diego, 856363, congress parkway
+	DIEGO1
+		Images:	1425
+		Time:	12.12.2024 06:35:10 until 12.12.2024 07:49:58
+		Duration:	01:14:48
+		Location:	NULL NULL
+
+(9) - 0.0 km trigger cam, msc 4, 856372
+	BTRIG1
+		Images:	4435
+		Time:	12.10.2024 07:24:49 until 12.10.2024 08:52:04
+		Duration:	01:27:15
+		Location:	NULL NULL
+
+(10) - 0.0 km trigger one, msc 2, 862204
+	BAUTO1
+		Images:	4492
+		Time:	12.10.2024 06:58:53 until 12.10.2024 09:07:38
+		Duration:	02:08:45
+		Location:	NULL NULL
+
+(11) - Impressions / Pano
+	PANO1
+(12) - none
+	BTRES1
+	CSHAN1
+		Images:	4592
+		Time:	12.10.2024 07:21:25 until 12.10.2024 08:58:10
+		Duration:	01:36:45
+		Location:	NULL NULL
+

@@ -88,6 +88,19 @@ export function findAmbiguous(lat, lng, track) {
   return deduped.map((b) => ({ km: b.km, dist: b.dist }));
 }
 
+// Find the track point at a given cumulative km position
+export function pointAtKm(track, km) {
+  if (!track?.points?.length || !track?.cumKm?.length) return null;
+  const { points, cumKm } = track;
+  let best = 0;
+  let bestDiff = Math.abs(cumKm[0] - km);
+  for (let i = 1; i < cumKm.length; i++) {
+    const diff = Math.abs(cumKm[i] - km);
+    if (diff < bestDiff) { bestDiff = diff; best = i; }
+  }
+  return points[best];
+}
+
 export function buildTrackMetrics(points) {
   let totalKm = 0;
   const cumKm = [0];

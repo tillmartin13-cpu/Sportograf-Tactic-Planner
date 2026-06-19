@@ -1,0 +1,501 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "45.84638" lon = "7.03537"><name>EP3</name><desc>21.0 km
+Images:3625
+First:01.09.2023 10:56:59
+Last:01.09.2023 15:58:25
+Duration:05:01:26
+</desc></wpt>
+<wpt lat = "45.84725" lon = "7.03190"><name>JH1</name><desc>CCC 20.5KM Rifugio Bonatti
+Images:6210
+First:01.09.2023 08:05:47
+Last:01.09.2023 19:02:36
+Duration:10:56:49
+</desc></wpt>
+<wpt lat = "45.84799" lon = "7.03112"><name>KAV1</name><desc>CCC 20KM Rifugio Bonatti
+Images:5598
+First:01.09.2023 10:56:12
+Last:01.09.2023 15:32:58
+Duration:04:36:46
+</desc></wpt>
+<wpt lat = "45.84799" lon = "7.03112"><name>KAV1LS1</name><desc>CCC 20KM Rifugio Bonatti
+Images:1420
+First:01.09.2023 10:59:33
+Last:01.09.2023 15:39:54
+Duration:04:40:21
+</desc></wpt>
+<wpt lat = "45.84958" lon = "7.03647"><name>COR1</name><desc>CCC 21.5KM Rifugio Bonatti
+Images:5682
+First:01.09.2023 11:09:57
+Last:01.09.2023 15:57:03
+Duration:04:47:06
+</desc></wpt>
+<wpt lat = "45.84958" lon = "7.03647"><name>COR1DRONE1</name><desc>CCC 21.5KM Rifugio Bonatti
+Images:42
+First:01.01.0001 23:00:00
+Last:02.09.2023 08:14:34
+Duration:738763.09:14:34
+</desc></wpt>
+<wpt lat = "45.84982" lon = "7.03711"><name>COR1LS1</name><desc>CCC 21.5KM Rifugio Bonatti
+Images:2949
+First:01.09.2023 10:58:08
+Last:02.09.2023 07:53:33
+Duration:20:55:25
+</desc></wpt>
+<wpt lat = "45.87413" lon = "7.05715"><name>KD1</name><desc>CCC 26KM Arnouvaz
+Images:3959
+First:01.09.2023 11:36:02
+Last:01.09.2023 16:58:17
+Duration:05:22:15
+</desc></wpt>
+<wpt lat = "45.87413" lon = "7.05715"><name>KD1LS1</name><desc>CCC 26KM Arnouvaz
+Images:2123
+First:01.09.2023 11:18:28
+Last:01.09.2023 16:48:36
+Duration:05:30:08
+</desc></wpt>
+<wpt lat = "45.87229" lon = "7.05238"><name>MAWI1</name><desc>CCC 26KM Arnouvaz
+Images:4088
+First:01.09.2023 11:42:58
+Last:01.09.2023 17:02:07
+Duration:05:19:09
+</desc></wpt>
+<wpt lat = "45.87229" lon = "7.05238"><name>MAWI1LS1</name><desc>CCC 26KM Arnouvaz
+Images:1155
+First:01.09.2023 11:33:15
+Last:01.09.2023 16:49:51
+Duration:05:16:36
+</desc></wpt>
+<wpt lat = "45.88364" lon = "7.07021"><name>TNR1</name><desc>CCC 29KM Rifugio Elena
+Images:2314
+First:01.09.2023 13:03:20
+Last:01.09.2023 18:05:41
+Duration:05:02:21
+</desc></wpt>
+<wpt lat = "45.88410" lon = "7.06564"><name>TNR1LS1</name><desc>CCC 29KM Rifugio Elena
+Images:2893
+First:01.09.2023 11:55:08
+Last:01.09.2023 15:00:37
+Duration:03:05:29
+</desc></wpt>
+<wpt lat = "45.88364" lon = "7.07021"><name>TNR1LS2</name><desc>CCC 29KM Rifugio Elena
+Images:2888
+First:31.12.2012 23:00:46
+Last:02.09.2023 12:09:48
+Duration:3896.13:09:02
+</desc></wpt>
+<wpt lat = "46.02915" lon = "7.11745"><name>EB2</name><desc>CCC 55KM Lac Champex
+Images:2693
+First:01.09.2023 12:38:16
+Last:01.09.2023 23:39:30
+Duration:11:01:14
+</desc></wpt>
+<wpt lat = "46.02915" lon = "7.11745"><name>EB2LS1</name><desc>CCC 55KM Lac Champex
+Images:2960
+First:01.09.2023 12:18:11
+Last:01.09.2023 22:02:11
+Duration:09:44:00
+</desc></wpt>
+<wpt lat = "46.05582" lon = "7.05204"><name>PKA1</name><desc>CCC 63.5KM Alpage Bovine
+Images:764
+First:01.09.2023 13:36:34
+Last:01.09.2023 20:40:49
+Duration:07:04:15
+</desc></wpt>
+<wpt lat = "46.05824" lon = "7.04712"><name>MHO3</name><desc>CCC 64.5KM Alpage Bovine
+Images:485
+First:01.09.2023 14:35:32
+Last:01.09.2023 17:57:05
+Duration:03:21:33
+</desc></wpt>
+<wpt lat = "46.05824" lon = "7.04712"><name>MHO3LS1</name><desc>CCC 64.5KM Alpage Bovine
+Images:198
+First:01.09.2023 14:23:17
+Last:01.09.2023 17:35:53
+Duration:03:12:36
+</desc></wpt>
+<wpt lat = "46.05486" lon = "7.04766"><name>ALL1</name><desc>CCC 64KM Alpage Bovine
+Images:973
+First:01.09.2023 14:26:45
+Last:01.09.2023 18:09:21
+Duration:03:42:36
+</desc></wpt>
+<wpt lat = "46.05486" lon = "7.04766"><name>ALL1LS1</name><desc>CCC 64KM Alpage Bovine
+Images:285
+First:01.09.2023 14:14:57
+Last:01.09.2023 18:17:15
+Duration:04:02:18
+</desc></wpt>
+<wpt lat = "46.05643" lon = "7.03144"><name>ALL3</name><desc>CCC 66KM Alpage Bovine
+Images:229
+First:01.09.2023 19:06:28
+Last:01.09.2023 23:36:15
+Duration:04:29:47
+</desc></wpt>
+<wpt lat = "46.05643" lon = "7.03144"><name>ALL3LS1</name><desc>CCC 66KM Alpage Bovine
+Images:2899
+First:01.09.2023 19:14:33
+Last:02.09.2023 01:51:49
+Duration:06:37:16
+</desc></wpt>
+<wpt lat = "46.05643" lon = "7.03144"><name>MHO4</name><desc>CCC 66KM Alpage Bovine
+Images:1541
+First:01.09.2023 18:12:53
+Last:01.09.2023 23:56:57
+Duration:05:44:04
+</desc></wpt>
+<wpt lat = "46.05643" lon = "7.03144"><name>MHO4LS1</name><desc>CCC 66KM Alpage Bovine
+Images:3181
+First:01.09.2023 18:04:57
+Last:02.09.2023 02:53:47
+Duration:08:48:50
+</desc></wpt>
+<wpt lat = "45.96274" lon = "6.88758"><name>HS1</name><desc>CCC 93.2KM La Flagere
+Images:1388
+First:01.09.2023 18:45:59
+Last:02.09.2023 10:28:41
+Duration:15:42:42
+</desc></wpt>
+<wpt lat = "45.96274" lon = "6.88758"><name>HS1LS1</name><desc>CCC 93.2KM La Flagere
+Images:672
+First:01.09.2023 18:31:51
+Last:02.09.2023 13:08:10
+Duration:18:36:19
+</desc></wpt>
+<wpt lat = "45.96049" lon = "6.88347"><name>ROB1</name><desc>CCC 93.4KM La Flagere
+Images:2910
+First:01.09.2023 17:36:17
+Last:02.09.2023 10:47:07
+Duration:17:10:50
+</desc></wpt>
+<wpt lat = "45.96049" lon = "6.88347"><name>ROB1LS1</name><desc>CCC 93.4KM La Flagere
+Images:1457
+First:01.09.2023 21:46:03
+Last:02.09.2023 11:23:55
+Duration:13:37:52
+</desc></wpt>
+<wpt lat = "45.96355" lon = "6.88933"><name>RSJ1</name><desc>CCC 93KM La Flagere
+Images:999
+First:01.09.2023 18:39:24
+Last:02.09.2023 19:23:09
+Duration:1.00:43:45
+</desc></wpt>
+<wpt lat = "45.96355" lon = "6.88933"><name>RSJ1LS1</name><desc>CCC 93KM La Flagere
+Images:2191
+First:02.09.2023 00:18:34
+Last:02.09.2023 10:57:00
+Duration:10:38:26
+</desc></wpt>
+<wpt lat = "45.79262" lon = "6.96910"><name>COR3</name><desc>CCC Start
+Images:224
+First:01.09.2023 07:01:46
+Last:01.09.2023 09:15:52
+Duration:02:14:06
+</desc></wpt>
+<wpt lat = "45.79262" lon = "6.96910"><name>KAV3</name><desc>CCC Start
+Images:109
+First:01.09.2023 08:26:04
+Last:01.09.2023 09:16:05
+Duration:00:50:01
+</desc></wpt>
+<wpt lat = "45.92363" lon = "6.86902"><name>AZ1</name><desc>Finish
+Images:7056
+First:01.09.2023 19:12:55
+Last:02.09.2023 04:47:14
+Duration:09:34:19
+</desc></wpt>
+<wpt lat = "45.92363" lon = "6.86902"><name>AZ2</name><desc>Finish
+Images:7195
+First:02.09.2023 17:01:20
+Last:03.09.2023 05:08:32
+Duration:12:07:12
+</desc></wpt>
+<wpt lat = "45.92363" lon = "6.86902"><name>DR1</name><desc>Finish
+Images:71
+First:01.09.2023 11:17:25
+Last:01.09.2023 11:44:07
+Duration:00:26:42
+</desc></wpt>
+<wpt lat = "45.92363" lon = "6.86902"><name>DR3</name><desc>Finish
+Images:6287
+First:02.09.2023 05:02:33
+Last:02.09.2023 12:14:31
+Duration:07:11:58
+</desc></wpt>
+<wpt lat = "45.92363" lon = "6.86902"><name>DR4</name><desc>Finish
+Images:9605
+First:02.09.2023 13:15:17
+Last:03.09.2023 17:05:23
+Duration:1.03:50:06
+</desc></wpt>
+<wpt lat = "45.92363" lon = "6.86902"><name>EP1</name><desc>Finish
+Images:5214
+First:02.09.2023 05:13:02
+Last:02.09.2023 12:27:30
+Duration:07:14:28
+</desc></wpt>
+<wpt lat = "45.92363" lon = "6.86902"><name>EP2</name><desc>Finish
+Images:5828
+First:02.09.2023 12:55:18
+Last:03.09.2023 16:33:02
+Duration:1.03:37:44
+</desc></wpt>
+<wpt lat = "45.92363" lon = "6.86902"><name>MAX2</name><desc>Finish
+Images:8197
+First:01.01.0001 23:00:00
+Last:02.09.2023 05:10:11
+Duration:738763.06:10:11
+</desc></wpt>
+<wpt lat = "45.92363" lon = "6.86902"><name>MAX3</name><desc>Finish
+Images:6356
+First:02.09.2023 17:43:47
+Last:03.09.2023 05:08:32
+Duration:11:24:45
+</desc></wpt>
+<wpt lat = "45.92363" lon = "6.86902"><name>EP2IMP1</name><desc>Impressions / Pano
+Images:171
+First:03.09.2023 13:04:06
+Last:03.09.2023 13:39:55
+Duration:00:35:49
+</desc></wpt>
+<wpt lat = "45.88996" lon = "6.87156"><name>CHR2</name><desc>PTL 12KM Gare des Glaciers
+Images:1451
+First:28.08.2023 11:01:32
+Last:29.08.2023 07:35:16
+Duration:20:33:44
+</desc></wpt>
+<wpt lat = "45.87279" lon = "6.79028"><name>EB1</name><desc>PTL 30KM Before Bellevue
+Images:245
+First:28.08.2023 14:01:30
+Last:28.08.2023 16:53:12
+Duration:02:51:42
+</desc></wpt>
+<wpt lat = "45.87279" lon = "6.79028"><name>EB1LS1</name><desc>PTL 30KM Before Bellevue
+Images:164
+First:28.08.2023 13:47:51
+Last:28.08.2023 16:46:05
+Duration:02:58:14
+</desc></wpt>
+<wpt lat = "45.90085" lon = "6.89058"><name>MHO2</name><desc>PTL 9KM Lac Bleu
+Images:1120
+First:28.08.2023 10:01:45
+Last:28.08.2023 12:51:06
+Duration:02:49:21
+</desc></wpt>
+<wpt lat = "45.92364" lon = "6.86892"><name>CHR1</name><desc>PTL Start
+Images:191
+First:28.08.2023 07:53:24
+Last:28.08.2023 08:02:08
+Duration:00:08:44
+</desc></wpt>
+<wpt lat = "45.92364" lon = "6.86892"><name>MHO1</name><desc>PTL Start
+Images:70
+First:28.08.2023 07:53:22
+Last:28.08.2023 08:01:56
+Duration:00:08:34
+</desc></wpt>
+<wpt lat = "45.92363" lon = "6.86902"><name>AZ3</name><desc>Start
+Images:1070
+First:01.09.2023 16:31:38
+Last:01.09.2023 18:04:03
+Duration:01:32:25
+</desc></wpt>
+<wpt lat = "45.92363" lon = "6.86902"><name>DR2</name><desc>Start
+Images:715
+First:01.09.2023 16:34:38
+Last:02.09.2023 13:13:13
+Duration:20:38:35
+</desc></wpt>
+<wpt lat = "45.92363" lon = "6.86902"><name>MAX1</name><desc>Start
+Images:813
+First:01.01.0001 23:00:00
+Last:01.09.2023 18:04:09
+Duration:738762.19:04:09
+</desc></wpt>
+<wpt lat = "45.88364" lon = "7.07021"><name>TNR2</name><desc>UTMB 101KM Rifugio Elena
+Images:2738
+First:02.09.2023 07:02:32
+Last:02.09.2023 19:45:07
+Duration:12:42:35
+</desc></wpt>
+<wpt lat = "45.88498" lon = "7.06732"><name>TNR2LS1</name><desc>UTMB 101KM Rifugio Elena
+Images:3609
+First:02.09.2023 07:48:12
+Last:02.09.2023 19:51:58
+Duration:12:03:46
+</desc></wpt>
+<wpt lat = "45.88364" lon = "7.07021"><name>TNR2LS2</name><desc>UTMB 101KM Rifugio Elena
+Images:2819
+First:02.09.2023 12:10:38
+Last:03.09.2023 11:16:43
+Duration:23:06:05
+</desc></wpt>
+<wpt lat = "46.05486" lon = "7.04766"><name>ALL2</name><desc>UTMB 137KM Alpage Bovine
+Images:2494
+First:02.09.2023 10:18:23
+Last:02.09.2023 19:40:51
+Duration:09:22:28
+</desc></wpt>
+<wpt lat = "46.05486" lon = "7.04766"><name>ALL2LS1</name><desc>UTMB 137KM Alpage Bovine
+Images:3238
+First:02.09.2023 10:05:07
+Last:02.09.2023 18:54:35
+Duration:08:49:28
+</desc></wpt>
+<wpt lat = "46.05565" lon = "7.04851"><name>MHO5</name><desc>UTMB 137KM Alpage Bovine
+Images:1428
+First:02.09.2023 10:05:34
+Last:02.09.2023 19:50:44
+Duration:09:45:10
+</desc></wpt>
+<wpt lat = "46.05582" lon = "7.05204"><name>PKA2</name><desc>UTMB 137KM Alpage Bovine
+Images:812
+First:02.09.2023 09:41:23
+Last:03.09.2023 06:13:39
+Duration:20:32:16
+</desc></wpt>
+<wpt lat = "46.02915" lon = "7.11745"><name>EB3</name><desc>UTMB 137KM Lac Champex
+Images:3145
+First:02.09.2023 08:05:00
+Last:03.09.2023 02:52:12
+Duration:18:47:12
+</desc></wpt>
+<wpt lat = "46.02915" lon = "7.11745"><name>EB3LS1</name><desc>UTMB 137KM Lac Champex
+Images:687
+First:02.09.2023 07:16:46
+Last:02.09.2023 20:02:55
+Duration:12:46:09
+</desc></wpt>
+<wpt lat = "46.05620" lon = "6.99238"><name>MHO6</name><desc>UTMB 144KM Trient Church
+Images:409
+First:02.09.2023 22:47:15
+Last:03.09.2023 06:07:17
+Duration:07:20:02
+</desc></wpt>
+<wpt lat = "46.05620" lon = "6.99238"><name>MHO6LS1</name><desc>UTMB 144KM Trient Church
+Images:5205
+First:02.09.2023 21:16:54
+Last:03.09.2023 08:08:13
+Duration:10:51:19
+</desc></wpt>
+<wpt lat = "46.05620" lon = "6.99238"><name>PKA3</name><desc>UTMB 144KM Trient Church
+Images:346
+First:03.09.2023 06:17:18
+Last:03.09.2023 07:59:21
+Duration:01:42:03
+</desc></wpt>
+<wpt lat = "45.96355" lon = "6.88933"><name>RSJ2</name><desc>UTMB 165.5KM La Flagere
+Images:4558
+First:02.09.2023 19:23:09
+Last:03.09.2023 14:46:05
+Duration:19:22:56
+</desc></wpt>
+<wpt lat = "45.96355" lon = "6.88933"><name>RSJ2LS1</name><desc>UTMB 165.5KM La Flagere
+Images:2785
+First:02.09.2023 15:39:13
+Last:03.09.2023 14:53:09
+Duration:23:13:56
+</desc></wpt>
+<wpt lat = "45.96274" lon = "6.88758"><name>HS2</name><desc>UTMB 165.7KM La Flagere
+Images:1712
+First:02.09.2023 13:13:37
+Last:03.09.2023 14:21:12
+Duration:1.01:07:35
+</desc></wpt>
+<wpt lat = "45.96274" lon = "6.88758"><name>HS2LS1</name><desc>UTMB 165.7KM La Flagere
+Images:3296
+First:31.12.2012 23:03:33
+Last:03.09.2023 14:44:26
+Duration:3897.15:40:53
+</desc></wpt>
+<wpt lat = "45.96049" lon = "6.88347"><name>ROB2</name><desc>UTMB 166KM La Flagere
+Images:5318
+First:02.09.2023 13:02:59
+Last:03.09.2023 14:35:33
+Duration:1.01:32:34
+</desc></wpt>
+<wpt lat = "45.96049" lon = "6.88347"><name>ROB2LS1</name><desc>UTMB 166KM La Flagere
+Images:1255
+First:02.09.2023 16:40:19
+Last:03.09.2023 14:33:08
+Duration:21:52:49
+</desc></wpt>
+<wpt lat = "45.84725" lon = "7.03190"><name>JH2</name><desc>UTMB 93.5KM Rifugio Bonatti
+Images:6409
+First:02.09.2023 05:43:37
+Last:02.09.2023 18:04:09
+Duration:12:20:32
+</desc></wpt>
+<wpt lat = "45.84725" lon = "7.03190"><name>JH2LS1</name><desc>UTMB 93.5KM Rifugio Bonatti
+Images:3877
+First:02.09.2023 05:57:49
+Last:02.09.2023 16:50:55
+Duration:10:53:06
+</desc></wpt>
+<wpt lat = "45.84799" lon = "7.03112"><name>KAV2</name><desc>UTMB 93KM Rifugio Bonatti
+Images:5386
+First:02.09.2023 05:57:47
+Last:02.09.2023 18:03:20
+Duration:12:05:33
+</desc></wpt>
+<wpt lat = "45.84799" lon = "7.03112"><name>KAV2LS1</name><desc>UTMB 93KM Rifugio Bonatti
+Images:2162
+First:01.01.0001 23:00:00
+Last:02.09.2023 17:32:18
+Duration:738763.18:32:18
+</desc></wpt>
+<wpt lat = "45.84982" lon = "7.03711"><name>CHR3LS1</name><desc>UTMB 94.5KM Rifugio Bonatti
+Images:3114
+First:31.08.2023 22:40:37
+Last:02.09.2023 22:05:13
+Duration:1.23:24:36
+</desc></wpt>
+<wpt lat = "45.84958" lon = "7.03647"><name>COR2</name><desc>UTMB 94.5KM Rifugio Bonatti
+Images:6719
+First:02.09.2023 06:05:28
+Last:02.09.2023 18:04:06
+Duration:11:58:38
+</desc></wpt>
+<wpt lat = "45.84982" lon = "7.03711"><name>COR2LS1</name><desc>UTMB 94.5KM Rifugio Bonatti
+Images:4209
+First:02.09.2023 07:54:45
+Last:02.09.2023 14:53:54
+Duration:06:59:09
+</desc></wpt>
+<wpt lat = "45.85489" lon = "7.03926"><name>CHR3</name><desc>UTMB 95.5KM Rifugio Bonatti
+Images:6790
+First:02.09.2023 06:36:48
+Last:02.09.2023 17:35:34
+Duration:10:58:46
+</desc></wpt>
+<wpt lat = "45.87229" lon = "7.05238"><name>MAWI2</name><desc>UTMB 99.3KM Arnouvaz
+Images:3014
+First:02.09.2023 07:58:40
+Last:02.09.2023 18:28:46
+Duration:10:30:06
+</desc></wpt>
+<wpt lat = "45.87229" lon = "7.05238"><name>MAWI2LS1</name><desc>UTMB 99.3KM Arnouvaz
+Images:1395
+First:02.09.2023 07:11:20
+Last:02.09.2023 18:44:16
+Duration:11:32:56
+</desc></wpt>
+<wpt lat = "45.87229" lon = "7.05238"><name>MAWI2LS2</name><desc>UTMB 99.3KM Arnouvaz
+Images:2263
+First:02.09.2023 07:45:04
+Last:02.09.2023 17:20:10
+Duration:09:35:06
+</desc></wpt>
+<wpt lat = "45.87413" lon = "7.05715"><name>KD2</name><desc>UTMB 99.5KM Arnouvaz
+Images:3860
+First:02.09.2023 07:18:25
+Last:02.09.2023 18:43:34
+Duration:11:25:09
+</desc></wpt>
+<wpt lat = "45.87413" lon = "7.05715"><name>KD2LS1</name><desc>UTMB 99.5KM Arnouvaz
+Images:3861
+First:02.09.2023 07:06:13
+Last:02.09.2023 18:49:18
+Duration:11:43:05
+</desc></wpt>
+</gpx>

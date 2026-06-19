@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "43.88514" lon = "7.24841"><name>CC1</name><desc>30.0 km
+Images:1260
+First:15.03.2025 07:39:03
+Last:15.03.2025 08:46:16
+Duration:01:07:13
+</desc></wpt>
+<wpt lat = "43.73437" lon = "7.34814"><name>CC2</name><desc>115.0 km
+Images:2515
+First:01.01.0001 23:00:00
+Last:01.01.0001 23:00:00
+Duration:00:00:00
+</desc></wpt>
+<wpt lat = "43.79513" lon = "7.40554"><name>ELLA1</name><desc>32.0 km
+Images:2370
+First:15.03.2025 07:12:23
+Last:15.03.2025 08:45:51
+Duration:01:33:28
+</desc></wpt>
+<wpt lat = "43.89716" lon = "7.23733"><name>LEBE1</name><desc>100.0 km
+Images:1783
+First:15.03.2025 09:39:14
+Last:15.03.2025 14:12:45
+Duration:04:33:31
+</desc></wpt>
+<wpt lat = "43.71012" lon = "7.31038"><name>ELLA2</name><desc>120.0 km
+Images:4002
+First:15.03.2025 10:04:04
+Last:15.03.2025 14:13:29
+Duration:04:09:25
+</desc></wpt>
+<wpt lat = "43.69503" lon = "7.26154"><name>LTU1</name><desc>Start
+Images:777
+First:15.03.2025 07:18:54
+Last:15.03.2025 09:17:38
+Duration:01:58:44
+</desc></wpt>
+<wpt lat = "43.69503" lon = "7.26154"><name>LTU2</name><desc>Finish
+Images:2166
+First:15.03.2025 09:49:22
+Last:15.03.2025 16:43:58
+Duration:06:54:36
+</desc></wpt>
+<wpt lat = "43.80308" lon = "7.40259"><name>MARY1</name><desc>95.0 km
+Images:1604
+First:15.03.2025 08:04:07
+Last:15.03.2025 14:13:20
+Duration:06:09:13
+</desc></wpt>
+</gpx>

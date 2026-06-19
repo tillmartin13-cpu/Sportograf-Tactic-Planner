@@ -1,0 +1,381 @@
+EventId: 9533
+Spots: 60
+Total Images: 613585
+Time:	12.08.2023 11:20:28 to 13.08.2023 13:49:26
+Duration: 1.02:28:58
+
+(1) - 0.8 km Tunnel entry
+	DRAV1
+		Images:	4281
+		Time:	13.08.2023 07:05:45 until 13.08.2023 10:14:04
+		Duration:	03:08:19
+		Location:	-33.87516 151.21835
+
+	TOSC1
+		Images:	8498
+		Time:	13.08.2023 07:39:28 until 13.08.2023 10:14:27
+		Duration:	02:34:59
+		Location:	-33.87516 151.21835
+
+	TOSC1LS1
+		Images:	8368
+		Time:	13.08.2023 07:29:08 until 13.08.2023 10:12:52
+		Duration:	02:43:44
+		Location:	-33.87516 151.21835
+
+(2) - 1.3 km William street pedestrian bridge
+	ACV1
+		Images:	9302
+		Time:	13.08.2023 07:43:02 until 13.08.2023 10:22:42
+		Duration:	02:39:40
+		Location:	-33.87635 151.22359
+
+	DARR1
+		Images:	9810
+		Time:	13.08.2023 07:43:41 until 13.08.2023 10:18:56
+		Duration:	02:35:15
+		Location:	-33.87635 151.22359
+
+	IAK1
+		Images:	5762
+		Time:	13.08.2023 07:42:47 until 13.08.2023 10:20:33
+		Duration:	02:37:46
+		Location:	-33.87635 151.22359
+
+	KH1
+		Images:	8990
+		Time:	13.08.2023 07:25:05 until 13.08.2023 10:17:16
+		Duration:	02:52:11
+		Location:	-33.87635 151.22359
+
+	LUV1
+		Images:	2533
+		Time:	13.08.2023 07:43:49 until 13.08.2023 10:20:00
+		Duration:	02:36:11
+		Location:	-33.87635 151.22359
+
+	RUP1
+		Images:	29785
+		Time:	13.08.2023 07:44:40 until 13.08.2023 10:36:36
+		Duration:	02:51:56
+		Location:	-33.87635 151.22359
+
+(3) - 13.5 km
+	HC1
+		Images:	26832
+		Time:	12.08.2023 22:22:00 until 13.08.2023 13:28:11
+		Duration:	15:06:11
+		Location:	-33.88902 151.27706
+
+	TPA1
+		Images:	9693
+		Time:	13.08.2023 11:36:08 until 13.08.2023 13:29:43
+		Duration:	01:53:35
+		Location:	-33.88977 151.27566
+
+	TPA1LS1
+		Images:	7952
+		Time:	13.08.2023 08:18:15 until 13.08.2023 13:35:26
+		Duration:	05:17:11
+		Location:	-33.88977 151.27566
+
+	TPA2
+		Images:	9611
+		Time:	13.08.2023 08:21:36 until 13.08.2023 09:32:11
+		Duration:	01:10:35
+		Location:	-33.88977 151.27566
+
+(4) - 5.0 km
+	CHRO1
+		Images:	15757
+		Time:	13.08.2023 07:33:15 until 13.08.2023 11:12:17
+		Duration:	03:39:02
+		Location:	-33.87231 151.25808
+
+	CHRO1LS1
+		Images:	2979
+		Time:	13.08.2023 07:22:38 until 13.08.2023 10:29:18
+		Duration:	03:06:40
+		Location:	-33.87231 151.25808
+
+	JDY1
+		Images:	7599
+		Time:	13.08.2023 07:03:07 until 13.08.2023 11:12:15
+		Duration:	04:09:08
+		Location:	-33.87231 151.25808
+
+	RKM1
+		Images:	6500
+		Time:	13.08.2023 07:18:40 until 13.08.2023 11:12:26
+		Duration:	03:53:46
+		Location:	-33.87231 151.25808
+
+(5) - 5.1 km
+	KHT1
+		Images:	7752
+		Time:	13.08.2023 07:18:03 until 13.08.2023 11:12:33
+		Duration:	03:54:30
+		Location:	-33.87222 151.25813
+
+(6) - 5.2 km
+	IGM1
+		Images:	6057
+		Time:	13.08.2023 07:17:58 until 13.08.2023 11:15:06
+		Duration:	03:57:08
+		Location:	-33.87260 151.26010
+
+	IGM1LS1
+		Images:	3998
+		Time:	13.08.2023 07:54:33 until 13.08.2023 11:15:40
+		Duration:	03:21:07
+		Location:	-33.87260 151.26010
+
+	IGM1LS2
+		Images:	1851
+		Time:	13.08.2023 07:33:05 until 13.08.2023 10:21:10
+		Duration:	02:48:05
+		Location:	-33.87260 151.26010
+
+	WP1
+		Images:	9342
+		Time:	13.08.2023 07:54:30 until 13.08.2023 10:31:12
+		Duration:	02:36:42
+		Location:	-33.87260 151.26010
+
+	WP1LS1
+		Images:	5283
+		Time:	13.08.2023 07:06:07 until 13.08.2023 11:19:59
+		Duration:	04:13:52
+		Location:	-33.87260 151.26010
+
+(7) - 5.4 km
+	MFS1
+		Images:	5601
+		Time:	13.08.2023 07:54:47 until 13.08.2023 11:16:30
+		Duration:	03:21:43
+		Location:	-33.87258 151.26112
+
+	VFV1
+		Images:	7539
+		Time:	13.08.2023 07:54:38 until 13.08.2023 10:35:16
+		Duration:	02:40:38
+		Location:	-33.87258 151.26112
+
+(8) - 6.4 km
+	JD1
+		Images:	12986
+		Time:	13.08.2023 07:54:20 until 13.08.2023 11:37:19
+		Duration:	03:42:59
+		Location:	-33.86590 151.27214
+
+	JEK1
+		Images:	21079
+		Time:	12.08.2023 19:48:20 until 13.08.2023 11:35:54
+		Duration:	15:47:34
+		Location:	-33.86590 151.27214
+
+	JEK1LS1
+		Images:	3317
+		Time:	12.08.2023 19:56:37 until 13.08.2023 11:37:03
+		Duration:	15:40:26
+		Location:	-33.86590 151.27214
+
+	JEK1LS2
+		Images:	18068
+		Time:	12.08.2023 20:03:00 until 13.08.2023 11:35:52
+		Duration:	15:32:52
+		Location:	-33.86590 151.27214
+
+	KHE1
+		Images:	21612
+		Time:	13.08.2023 07:51:46 until 13.08.2023 11:34:16
+		Duration:	03:42:30
+		Location:	-33.86590 151.27214
+
+(9) - 6.7 km
+	MFQ1
+		Images:	1006
+		Time:	13.08.2023 08:56:41 until 13.08.2023 12:36:59
+		Duration:	03:40:18
+		Location:	-33.86547 151.27316
+
+	SLAU1
+		Images:	40672
+		Time:	13.08.2023 07:11:04 until 13.08.2023 11:36:39
+		Duration:	04:25:35
+		Location:	-33.86547 151.27316
+
+(10) - 7.8 km
+	CVO1
+		Images:	24106
+		Time:	12.08.2023 11:20:28 until 13.08.2023 12:06:06
+		Duration:	1.00:45:38
+		Location:	-33.85954 151.27679
+
+	RIT1
+		Images:	7736
+		Time:	12.08.2023 20:23:08 until 13.08.2023 11:38:24
+		Duration:	15:15:16
+		Location:	-33.85954 151.27679
+
+	TS1
+		Images:	10024
+		Time:	13.08.2023 06:48:11 until 13.08.2023 12:06:13
+		Duration:	05:18:02
+		Location:	-33.85954 151.27679
+
+	TS1LS1
+		Images:	8
+		Time:	13.08.2023 06:45:27 until 13.08.2023 07:17:06
+		Duration:	00:31:39
+		Location:	-33.85954 151.27679
+
+(11) - 8.5 km
+	BRE1
+		Images:	28553
+		Time:	13.08.2023 06:19:57 until 13.08.2023 12:08:51
+		Duration:	05:48:54
+		Location:	-33.85713 151.28247
+
+	DTT1
+		Images:	11504
+		Time:	13.08.2023 06:18:00 until 13.08.2023 12:07:20
+		Duration:	05:49:20
+		Location:	-33.85713 151.28247
+
+	DTT1LS1
+		Images:	6026
+		Time:	13.08.2023 08:16:46 until 13.08.2023 12:08:34
+		Duration:	03:51:48
+		Location:	-33.85713 151.28247
+
+(12) - Ceremony
+	RGL1
+		Images:	2038
+		Time:	12.08.2023 19:57:04 until 13.08.2023 13:30:58
+		Duration:	17:33:54
+		Location:	-33.89032 151.27761
+
+	SAA1
+		Images:	1420
+		Time:	12.08.2023 12:17:33 until 13.08.2023 13:35:24
+		Duration:	1.01:17:51
+		Location:	-33.89032 151.27761
+
+(13) - Finish
+	ABR1
+		Images:	11856
+		Time:	12.08.2023 12:43:51 until 13.08.2023 13:27:02
+		Duration:	1.00:43:11
+		Location:	-33.88930 151.27655
+
+	ABR1LS1
+		Images:	6330
+		Time:	13.08.2023 08:04:50 until 13.08.2023 13:29:16
+		Duration:	05:24:26
+		Location:	-33.88930 151.27655
+
+	ABS1
+		Images:	10752
+		Time:	12.08.2023 15:03:11 until 13.08.2023 13:48:42
+		Duration:	22:45:31
+		Location:	-33.89025 151.27864
+
+	CYH1
+		Images:	16137
+		Time:	13.08.2023 06:41:54 until 13.08.2023 13:49:26
+		Duration:	07:07:32
+		Location:	-33.89025 151.27864
+
+	ESF1
+		Images:	11980
+		Time:	13.08.2023 07:46:46 until 13.08.2023 11:21:41
+		Duration:	03:34:55
+		Location:	-33.89025 151.27864
+
+	ESF2
+		Images:	2316
+		Time:	13.08.2023 11:22:48 until 13.08.2023 13:28:23
+		Duration:	02:05:35
+		Location:	-33.89025 151.27864
+
+	JBR1
+		Images:	13458
+		Time:	13.08.2023 07:19:08 until 13.08.2023 13:20:20
+		Duration:	06:01:12
+		Location:	-33.89025 151.27864
+
+	PAC1
+		Images:	14945
+		Time:	13.08.2023 07:18:27 until 13.08.2023 13:34:36
+		Duration:	06:16:09
+		Location:	-33.89025 151.27864
+
+	PRK1
+		Images:	11324
+		Time:	12.08.2023 12:25:59 until 13.08.2023 13:48:17
+		Duration:	1.01:22:18
+		Location:	-33.89025 151.27864
+
+	RCT1
+		Images:	7744
+		Time:	13.08.2023 07:08:20 until 13.08.2023 13:48:22
+		Duration:	06:40:02
+		Location:	-33.89025 151.27864
+
+	TOB1
+		Images:	29394
+		Time:	13.08.2023 08:21:28 until 13.08.2023 11:25:18
+		Duration:	03:03:50
+		Location:	-33.89025 151.27864
+
+	TOB1LS1
+		Images:	3057
+		Time:	12.08.2023 20:58:59 until 13.08.2023 10:46:05
+		Duration:	13:47:06
+		Location:	-33.89025 151.27864
+
+	TOB2
+		Images:	14635
+		Time:	13.08.2023 11:25:41 until 13.08.2023 13:18:04
+		Duration:	01:52:23
+		Location:	-33.89025 151.27864
+
+	TOB3
+		Images:	1133
+		Time:	13.08.2023 13:08:00 until 13.08.2023 13:36:59
+		Duration:	00:28:59
+		Location:	-33.89025 151.27864
+
+(14) - Impressions / Pano
+	PANO1
+		Images:	1
+		Time:	13.08.2023 06:32:15 until 13.08.2023 06:32:15
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(15) - Medals
+	NIF1
+		Images:	4766
+		Time:	13.08.2023 06:38:00 until 13.08.2023 13:36:18
+		Duration:	06:58:18
+		Location:	-33.89032 151.27761
+
+	VN1
+		Images:	9534
+		Time:	12.08.2023 20:25:58 until 13.08.2023 13:04:32
+		Duration:	16:38:34
+		Location:	-33.89032 151.27761
+
+	VN1LS1
+		Images:	8428
+		Time:	12.08.2023 20:26:36 until 13.08.2023 13:42:35
+		Duration:	17:15:59
+		Location:	-33.89032 151.27761
+
+	VN1LS2
+		Images:	3965
+		Time:	13.08.2023 07:07:23 until 13.08.2023 11:14:09
+		Duration:	04:06:46
+		Location:	-33.89032 151.27761
+

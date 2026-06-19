@@ -1,0 +1,338 @@
+EventId: 11683
+Spots: 50
+Total Images: 269072
+Time:	31.12.2012 23:00:08 to 17.03.2024 15:30:54
+Duration: 4093.16:30:46
+
+(1) - 0,8 km
+	DEC1
+		Images:	3970
+		Time:	15.03.2024 14:22:23 until 17.03.2024 08:08:41
+		Duration:	1.17:46:18
+		Location:	41.88905 12.49108
+
+(2) - 1,0 km
+	BRP1
+		Images:	2393
+		Time:	17.03.2024 06:20:21 until 17.03.2024 08:10:23
+		Duration:	01:50:02
+		Location:	41.88705 12.48983
+
+	BRP1LS1
+		Images:	835
+		Time:	17.03.2024 07:28:32 until 17.03.2024 08:10:31
+		Duration:	00:41:59
+		Location:	41.88705 12.48983
+
+(3) - 13.1 km
+	MCO1
+		Images:	5879
+		Time:	17.03.2024 08:08:56 until 17.03.2024 09:59:17
+		Duration:	01:50:21
+		Location:	41.88905 12.49108
+
+(4) - 15,8 km
+	MDV1
+		Images:	2143
+		Time:	16.03.2024 11:40:40 until 17.03.2024 10:20:32
+		Duration:	22:39:52
+		Location:	41.90239 12.45986
+
+(5) - 15.5 km
+	RLO1
+		Images:	3047
+		Time:	16.03.2024 11:05:44 until 17.03.2024 10:17:31
+		Duration:	23:11:47
+		Location:	41.90177 12.46360
+
+	VHO1
+		Images:	2492
+		Time:	17.03.2024 08:15:33 until 17.03.2024 10:43:16
+		Duration:	02:27:43
+		Location:	41.90090 12.46483
+
+(6) - 16.0 km
+	ALBIA1
+		Images:	5124
+		Time:	17.03.2024 06:24:41 until 17.03.2024 10:22:16
+		Duration:	03:57:35
+		Location:	41.90262 12.45828
+
+(7) - 17.5 km
+	CMA1
+		Images:	2270
+		Time:	17.03.2024 08:22:22 until 17.03.2024 10:39:15
+		Duration:	02:16:53
+		Location:	41.90322 12.47093
+
+(8) - 2,5 km
+	RS1
+		Images:	3363
+		Time:	17.03.2024 07:35:12 until 17.03.2024 08:24:10
+		Duration:	00:48:58
+		Location:	41.87658 12.48271
+
+(9) - 26.5 km
+	RABI1
+		Images:	6855
+		Time:	17.03.2024 08:40:58 until 17.03.2024 11:33:40
+		Duration:	02:52:42
+		Location:	41.93072 12.46135
+
+	RABI1LS1
+		Images:	2879
+		Time:	17.03.2024 09:10:02 until 17.03.2024 11:33:56
+		Duration:	02:23:54
+		Location:	41.93072 12.46135
+
+	YG1
+		Images:	6471
+		Time:	17.03.2024 08:49:15 until 17.03.2024 11:33:34
+		Duration:	02:44:19
+		Location:	41.93072 12.46135
+
+	YG1LS1
+		Images:	2127
+		Time:	16.03.2024 11:03:14 until 17.03.2024 12:32:33
+		Duration:	1.01:29:19
+		Location:	41.93072 12.46135
+
+(10) - 35,4 km
+	CSI1
+		Images:	10295
+		Time:	17.03.2024 07:44:18 until 17.03.2024 13:24:55
+		Duration:	05:40:37
+		Location:	41.91026 12.47649
+
+(11) - 35,5 km
+	LP1
+		Images:	8056
+		Time:	17.03.2024 09:15:51 until 17.03.2024 13:27:27
+		Duration:	04:11:36
+		Location:	41.90985 12.47727
+
+	LP1LS1
+		Images:	1727
+		Time:	17.03.2024 09:17:45 until 17.03.2024 11:19:19
+		Duration:	02:01:34
+		Location:	41.90985 12.47727
+
+(12) - 35.4 km
+	FMI1
+		Images:	8490
+		Time:	17.03.2024 09:15:11 until 17.03.2024 13:24:58
+		Duration:	04:09:47
+		Location:	41.91021 12.47644
+
+(13) - 35.5 km
+	SMO1
+		Images:	10254
+		Time:	17.03.2024 09:15:05 until 17.03.2024 13:26:43
+		Duration:	04:11:38
+		Location:	41.91044 12.47696
+
+(14) - 36,1 km
+	FOS1
+		Images:	5932
+		Time:	17.03.2024 05:25:52 until 17.03.2024 13:34:05
+		Duration:	08:08:13
+		Location:	41.90557 12.48240
+
+(15) - 36.1 km
+	CMA2
+		Images:	2268
+		Time:	17.03.2024 11:22:31 until 17.03.2024 13:34:05
+		Duration:	02:11:34
+		Location:	41.90548 12.48225
+
+(16) - 38,2 km
+	MDV2
+		Images:	2491
+		Time:	17.03.2024 10:50:58 until 17.03.2024 13:53:12
+		Duration:	03:02:14
+		Location:	41.90132 12.47212
+
+(17) - 38,5 km
+	MAC1
+		Images:	6054
+		Time:	16.03.2024 15:23:35 until 17.03.2024 13:56:49
+		Duration:	22:33:14
+		Location:	41.89857 12.47300
+
+	MAC1LS1
+		Images:	5523
+		Time:	31.12.2012 23:00:08 until 17.03.2024 13:58:47
+		Duration:	4093.14:58:39
+		Location:	41.89857 12.47300
+
+(18) - 38.2 km
+	ALBIA2
+		Images:	5852
+		Time:	17.03.2024 10:55:14 until 17.03.2024 13:52:24
+		Duration:	02:57:10
+		Location:	41.90262 12.45828
+
+(19) - 38.6 km
+	ADO1
+		Images:	3600
+		Time:	17.03.2024 07:01:10 until 17.03.2024 13:57:28
+		Duration:	06:56:18
+		Location:	41.89790 12.47298
+
+	FMA1
+		Images:	11846
+		Time:	17.03.2024 07:10:08 until 17.03.2024 13:56:51
+		Duration:	06:46:43
+		Location:	41.89856 12.47289
+
+(20) - 39.0 km
+	RLO2
+		Images:	3455
+		Time:	17.03.2024 10:40:09 until 17.03.2024 14:01:57
+		Duration:	03:21:48
+		Location:	41.89604 12.47670
+
+	VHO2
+		Images:	2041
+		Time:	17.03.2024 10:49:14 until 17.03.2024 13:58:44
+		Duration:	03:09:30
+		Location:	41.89587 12.47681
+
+(21) - 39.7 km
+	MCO2
+		Images:	5020
+		Time:	17.03.2024 10:29:37 until 17.03.2024 14:08:51
+		Duration:	03:39:14
+		Location:	41.89250 12.48057
+
+(22) - 39.8 km
+	MATR1
+		Images:	4962
+		Time:	16.03.2024 16:58:09 until 17.03.2024 13:21:50
+		Duration:	20:23:41
+		Location:	41.89175 12.48036
+
+(23) - 39.9 km
+	NBE1
+		Images:	4091
+		Time:	17.03.2024 10:39:30 until 17.03.2024 13:20:27
+		Duration:	02:40:57
+		Location:	41.89098 12.48059
+
+(24) - 40,2 km
+	BRP2
+		Images:	11349
+		Time:	17.03.2024 09:30:00 until 17.03.2024 14:13:44
+		Duration:	04:43:44
+		Location:	41.88896 12.48207
+
+	BRP2LS1
+		Images:	6009
+		Time:	17.03.2024 09:15:14 until 17.03.2024 14:06:37
+		Duration:	04:51:23
+		Location:	41.88896 12.48207
+
+(25) - 40,8 km
+	RS2
+		Images:	9014
+		Time:	17.03.2024 09:31:02 until 17.03.2024 14:19:53
+		Duration:	04:48:51
+		Location:	41.88406 12.48733
+
+(26) - 40.8 km
+	NAT1
+		Images:	8687
+		Time:	17.03.2024 10:17:11 until 17.03.2024 13:20:22
+		Duration:	03:03:11
+		Location:	41.88588 12.48750
+
+(27) - 41,5 km
+	MMI2
+		Images:	9089
+		Time:	17.03.2024 09:29:57 until 17.03.2024 14:32:36
+		Duration:	05:02:39
+		Location:	41.89109 12.49262
+
+	MMI2LS1
+		Images:	5194
+		Time:	17.03.2024 10:34:18 until 17.03.2024 15:30:54
+		Duration:	04:56:36
+		Location:	41.89109 12.49262
+
+(28) - 41.2 km
+	BATI1
+		Images:	3190
+		Time:	17.03.2024 10:08:57 until 17.03.2024 13:44:12
+		Duration:	03:35:15
+		Location:	41.88782 12.48980
+
+(29) - 41.4 km
+	DARU1
+		Images:	8926
+		Time:	17.03.2024 10:15:20 until 17.03.2024 14:00:02
+		Duration:	03:44:42
+		Location:	41.88925 12.49330
+
+(30) - Finish
+	DEC2
+		Images:	2483
+		Time:	17.03.2024 09:43:44 until 17.03.2024 14:35:17
+		Duration:	04:51:33
+		Location:	41.89220 12.48811
+
+	EO2
+		Images:	13787
+		Time:	17.03.2024 09:36:45 until 17.03.2024 14:33:08
+		Duration:	04:56:23
+		Location:	41.89220 12.48811
+
+	FBO2
+		Images:	7161
+		Time:	17.03.2024 09:35:10 until 17.03.2024 14:33:10
+		Duration:	04:58:00
+		Location:	41.89220 12.48811
+
+	LIG2
+		Images:	5911
+		Time:	17.03.2024 05:27:43 until 17.03.2024 08:01:00
+		Duration:	02:33:17
+		Location:	41.89220 12.48811
+
+(31) - Impressions / Pano
+	EM1
+		Images:	503
+		Time:	17.03.2024 04:49:04 until 17.03.2024 13:00:53
+		Duration:	08:11:49
+		Location:	41.89857 12.47300
+
+(32) - Start
+	EO1
+		Images:	3005
+		Time:	17.03.2024 06:29:40 until 17.03.2024 08:00:55
+		Duration:	01:31:15
+		Location:	41.89250 12.48863
+
+	FBO1
+		Images:	1029
+		Time:	16.03.2024 14:01:36 until 17.03.2024 08:00:41
+		Duration:	17:59:05
+		Location:	41.89250 12.48863
+
+	LIG1
+		Images:	18411
+		Time:	17.03.2024 09:36:38 until 17.03.2024 14:33:12
+		Duration:	04:56:34
+		Location:	41.89250 12.48863
+
+	MMI1
+		Images:	2881
+		Time:	17.03.2024 07:28:08 until 17.03.2024 08:05:33
+		Duration:	00:37:25
+		Location:	41.89250 12.48863
+
+	MMI1LS1
+		Images:	638
+		Time:	17.03.2024 08:20:54 until 17.03.2024 09:05:10
+		Duration:	00:44:16
+		Location:	41.89250 12.48863
+

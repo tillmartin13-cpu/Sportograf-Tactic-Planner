@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "47.72752" lon = "10.3138"><name>FLOS1</name><desc>Start
+Images:3
+First:04.05.2025 11:13:24
+Last:04.05.2025 11:49:55
+Duration:00:36:31
+</desc></wpt>
+<wpt lat = "47.72752" lon = "10.3138"><name>FLOS3</name><desc>Start
+Images:3
+First:04.05.2025 13:41:50
+Last:04.05.2025 13:43:03
+Duration:00:01:13
+</desc></wpt>
+<wpt lat = "47.73019" lon = "10.3133"><name>SVL1</name><desc>0,5 km
+Images:4000
+First:04.05.2025 12:32:05
+Last:04.05.2025 14:16:50
+Duration:01:44:45
+</desc></wpt>
+<wpt lat = "47.73019" lon = "10.3133"><name>SVL2</name><desc>0,5 km
+Images:3262
+First:04.05.2025 14:27:39
+Last:04.05.2025 15:01:32
+Duration:00:33:53
+</desc></wpt>
+<wpt lat = "47.73019" lon = "10.313"><name>SVL3</name><desc>0,5 km
+Images:2170
+First:04.05.2025 12:13:50
+Last:04.05.2025 15:05:27
+Duration:02:51:37
+</desc></wpt>
+<wpt lat = "47.72588" lon = "10.31902"><name>ANFI1</name><desc>3,9 km
+Images:1365
+First:04.05.2025 11:30:09
+Last:04.05.2025 13:10:10
+Duration:01:40:01
+</desc></wpt>
+<wpt lat = "47.72588" lon = "10.31902"><name>ANFI2</name><desc>3,9 km
+Images:1555
+First:04.05.2025 13:31:25
+Last:04.05.2025 15:07:30
+Duration:01:36:05
+</desc></wpt>
+<wpt lat = "47.72633" lon = "10.31658"><name>MIKR1</name><desc>4,1 km
+Images:2228
+First:04.05.2025 11:24:09
+Last:04.05.2025 13:12:21
+Duration:01:48:12
+</desc></wpt>
+<wpt lat = "47.72633" lon = "10.31658"><name>MIKR2</name><desc>4,1 km
+Images:1913
+First:04.05.2025 14:04:15
+Last:04.05.2025 15:03:40
+Duration:00:59:25
+</desc></wpt>
+<wpt lat = "47.72754" lon = "10.31388"><name>FLOS2</name><desc>Finish
+Images:3604
+First:04.05.2025 11:13:24
+Last:04.05.2025 13:22:05
+Duration:02:08:41
+</desc></wpt>
+<wpt lat = "47.72754" lon = "10.31388"><name>FLOS4</name><desc>Finish
+Images:3892
+First:04.05.2025 13:41:50
+Last:04.05.2025 15:35:03
+Duration:01:53:13
+</desc></wpt>
+</gpx>

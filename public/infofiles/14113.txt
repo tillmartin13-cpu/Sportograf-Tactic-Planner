@@ -1,0 +1,75 @@
+EventId: 14113
+Spots: 11
+Total Images: 29700
+Time:	07.09.2025 08:27:02 to 07.09.2025 17:37:38
+Duration: 09:10:36
+
+(1) - Swim - Start
+	WBEC1
+		Images:	129
+		Time:	07.09.2025 09:36:16 until 07.09.2025 10:10:25
+		Duration:	00:34:09
+		Location:	51.26000 6.54456
+
+(2) - Swim - Transition zone
+	THL1LS1
+		Images:	5468
+		Time:	07.09.2025 08:32:58 until 07.09.2025 16:38:27
+		Duration:	08:05:29
+		Location:	51.25976 6.54454
+
+(3) - Bike - 0.5 km Bambini
+	THL1
+		Images:	455
+		Time:	07.09.2025 10:12:23 until 07.09.2025 10:32:25
+		Duration:	00:20:02
+		Location:	51.25702 6.55275
+
+	THL1DRONE1
+		Images:	17
+		Time:	07.09.2025 09:07:31 until 07.09.2025 14:08:17
+		Duration:	05:00:46
+		Location:	51.25702 6.55275
+
+(4) - Bike - 2.5 km
+	THL2LS1
+		Images:	2000
+		Time:	07.09.2025 11:45:59 until 07.09.2025 16:22:09
+		Duration:	04:36:10
+		Location:	51.25608 6.57119
+
+	THL2
+		Images:	8713
+		Time:	07.09.2025 11:01:10 until 07.09.2025 16:31:36
+		Duration:	05:30:26
+		Location:	51.25608 6.57119
+
+(5) - Run - 0.5 km Bambini
+	NKR1
+		Images:	1069
+		Time:	07.09.2025 10:17:11 until 07.09.2025 11:40:54
+		Duration:	01:23:43
+		Location:	51.25702 6.55275
+
+(6) - Run - 4.5 km
+	NKR2
+		Images:	6502
+		Time:	07.09.2025 11:41:35 until 07.09.2025 17:29:40
+		Duration:	05:48:05
+		Location:	51.25882 6.54264
+
+(7) - Finish
+	THL1LS2
+		Images:	816
+		Time:	07.09.2025 08:27:02 until 07.09.2025 17:23:51
+		Duration:	08:56:49
+		Location:	51.25976 6.54370
+
+	WBEC2
+		Images:	4531
+		Time:	07.09.2025 10:16:38 until 07.09.2025 17:37:38
+		Duration:	07:21:00
+		Location:	51.25976 6.54370
+
+(8) - Swim - Impressions / Pano
+	PANO1

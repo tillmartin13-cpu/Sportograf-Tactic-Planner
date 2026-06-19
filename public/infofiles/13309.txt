@@ -1,0 +1,210 @@
+EventId: 13309
+Spots: 30
+Total Images: 155319
+Time:	01.01.0001 23:00:00 to 21.09.2024 12:03:39
+Duration: 739148.13:03:39
+
+(1) - 0.0 km alan ng, 856626, Finish
+	ALAN1
+		Images:	14991
+		Time:	21.09.2024 08:23:50 until 21.09.2024 11:42:03
+		Duration:	03:18:13
+		Location:	NULL NULL
+
+(2) - 0.0 km edurardo, 856632, PFN
+	BED1
+		Images:	9979
+		Time:	21.09.2024 08:58:59 until 21.09.2024 11:45:23
+		Duration:	02:46:24
+		Location:	NULL NULL
+
+(3) - 0.0 km Emil Shevelev, 856637, msc 1
+	BEMIL1
+		Images:	1659
+		Time:	20.09.2024 20:47:37 until 20.09.2024 22:13:10
+		Duration:	01:25:33
+		Location:	NULL NULL
+
+(4) - 0.0 km Erica, 856644, medals
+	AERIC1
+		Images:	754
+		Time:	20.09.2024 08:58:17 until 20.09.2024 11:52:44
+		Duration:	02:54:27
+		Location:	NULL NULL
+
+(5) - 0.0 km Finish line trigger cam
+	FTRIG1
+		Images:	10511
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(6) - 0.0 km Gustavo, 856642, medals
+	AGUS1
+		Images:	974
+		Time:	21.09.2024 08:57:04 until 21.09.2024 11:44:56
+		Duration:	02:47:52
+		Location:	NULL NULL
+
+(7) - 0.0 km ivan giron, msc 1, 856636
+	AIVAN1
+		Images:	2104
+		Time:	21.09.2024 08:49:16 until 21.09.2024 10:13:22
+		Duration:	01:24:06
+		Location:	NULL NULL
+
+(8) - 0.0 km ivan giron, msc 3, 862159
+	CIVAN1
+		Images:	1627
+		Time:	21.09.2024 10:28:19 until 21.09.2024 11:54:16
+		Duration:	01:25:57
+		Location:	NULL NULL
+
+(9) - 0.0 km low trigger, PFN
+	LTRIG1
+		Images:	2590
+		Time:	21.09.2024 07:30:02 until 21.09.2024 12:03:39
+		Duration:	04:33:37
+		Location:	NULL NULL
+
+(10) - 0.0 km nathan taylor, 856631, PFN
+	BNAT1
+		Images:	8264
+		Time:	21.09.2024 09:00:35 until 21.09.2024 11:51:49
+		Duration:	02:51:14
+		Location:	NULL NULL
+
+(11) - 0.0 km Omar 856640, Medals
+	AOMAR1
+		Images:	441
+		Time:	21.09.2024 08:57:04 until 21.09.2024 11:57:10
+		Duration:	03:00:06
+		Location:	NULL NULL
+
+(12) - 0.0 km phael, 856643, medals
+	APHAE1
+		Images:	650
+		Time:	21.09.2024 08:24:15 until 21.09.2024 11:45:34
+		Duration:	03:21:19
+		Location:	NULL NULL
+
+(13) - 0.0 km pre finish right side trigger
+	APTRI1
+		Images:	6415
+		Time:	01.01.0001 23:00:00 until 21.09.2024 10:15:58
+		Duration:	739148.11:15:58
+		Location:	NULL NULL
+
+(14) - 0.0 km Ramiro Rodriquez, msc 2, 862177
+	ARAM1
+		Images:	3440
+		Time:	21.09.2024 08:38:38 until 21.09.2024 11:48:35
+		Duration:	03:09:57
+		Location:	NULL NULL
+
+(15) - 0.0 km scott baker, 856630, PFN
+	BSCOT1
+		Images:	14041
+		Time:	21.09.2024 07:56:17 until 21.09.2024 11:55:29
+		Duration:	03:59:12
+		Location:	NULL NULL
+
+(16) - 0.0 km Serkan senturk, 856635, msc 1
+	BSERK1
+		Images:	1515
+		Time:	21.09.2024 09:07:26 until 21.09.2024 10:13:18
+		Duration:	01:05:52
+		Location:	NULL NULL
+
+(17) - 0.0 km serkan senturk, 862158, msc 3
+	CSERK1
+		Images:	4093
+		Time:	21.09.2024 10:28:08 until 21.09.2024 11:54:09
+		Duration:	01:26:01
+		Location:	NULL NULL
+
+(18) - 0.0 km Steffie Boucher, 856646, msc 2
+	ASTEF1
+		Images:	5255
+		Time:	21.09.2024 08:58:16 until 21.09.2024 11:47:10
+		Duration:	02:48:54
+		Location:	NULL NULL
+
+(19) - 0.0 km tatiana, 856647, medals
+	ATAT1
+		Images:	892
+		Time:	21.09.2024 07:55:59 until 21.09.2024 11:49:37
+		Duration:	03:53:38
+		Location:	NULL NULL
+
+(20) - 0.0 km Terry Wherry, 856645, MSC 2
+	ATWHE1
+		Images:	15074
+		Time:	21.09.2024 08:31:23 until 21.09.2024 11:32:09
+		Duration:	03:00:46
+		Location:	NULL NULL
+
+(21) - 0.0 km thomas murray, 856638, msc 1
+	ATHOM1
+		Images:	7910
+		Time:	21.09.2024 08:58:41 until 21.09.2024 11:05:20
+		Duration:	02:06:39
+		Location:	NULL NULL
+
+(22) - 0.0 km Tim Hanna, 856634, msc 1
+	BTIM1
+		Images:	2809
+		Time:	21.09.2024 08:36:28 until 21.09.2024 09:58:47
+		Duration:	01:22:19
+		Location:	NULL NULL
+
+(23) - 0.0 km tim hanna, msc 3, 862157
+	CTIM1
+		Images:	3633
+		Time:	21.09.2024 10:38:08 until 21.09.2024 11:49:09
+		Duration:	01:11:01
+		Location:	NULL NULL
+
+(24) - 0.0 km trent wellot, 856629, PFN
+	BTREN1
+		Images:	12779
+		Time:	21.09.2024 08:27:49 until 21.09.2024 11:42:09
+		Duration:	03:14:20
+		Location:	NULL NULL
+
+(25) - 0.0 km trigger cam, msc 3, 862160
+	CTRIG1
+		Images:	2157
+		Time:	21.09.2024 10:31:40 until 21.09.2024 11:54:09
+		Duration:	01:22:29
+		Location:	NULL NULL
+
+(26) - 0.0 km trigger, msc 1, 856639
+	ATRIG1
+		Images:	1415
+		Time:	20.09.2024 21:20:21 until 21.09.2024 09:59:08
+		Duration:	12:38:47
+		Location:	NULL NULL
+
+(27) - 0.0 km zakaria, 856641, medals
+	AZAK1
+		Images:	606
+		Time:	21.09.2024 09:06:55 until 21.09.2024 11:49:52
+		Duration:	02:42:57
+		Location:	NULL NULL
+
+(28) - Impressions / Pano
+	PANO1
+(29) - none
+	AGER1
+		Images:	13496
+		Time:	21.09.2024 08:59:13 until 21.09.2024 11:56:23
+		Duration:	02:57:10
+		Location:	NULL NULL
+
+	OTRIG1
+		Images:	5245
+		Time:	21.09.2024 05:42:15 until 21.09.2024 10:25:07
+		Duration:	04:42:52
+		Location:	NULL NULL
+

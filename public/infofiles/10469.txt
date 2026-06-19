@@ -1,0 +1,762 @@
+EventId: 10469
+Spots: 113
+Total Images: 1926154
+Time:	02.01.2007 12:00:58 to 05.12.2023 16:54:57
+Duration: 6181.04:53:59
+
+(1) - 0.0 km <catherine stackpole 853348 msc 6
+	ECST1
+		Images:	24332
+		Time:	05.12.2023 09:18:17 until 05.12.2023 16:54:57
+		Duration:	07:36:40
+		Location:	NULL NULL
+
+(2) - 0.0 km 853309 terry
+	OTWE1
+		Images:	18276
+		Time:	05.11.2023 10:04:45 until 05.11.2023 15:53:40
+		Duration:	05:48:55
+		Location:	NULL NULL
+
+(3) - 0.0 km 853320 PreFIN +FLASH Mauricio Campino
+	FMCAM2
+		Images:	7226
+		Time:	05.11.2023 16:35:47 until 05.11.2023 19:23:36
+		Duration:	02:47:49
+		Location:	NULL NULL
+
+(4) - 0.0 km 853320 PreFIN-Mauricio Campino
+	FMAUR1
+		Images:	13584
+		Time:	05.11.2023 14:28:31 until 05.11.2023 16:35:47
+		Duration:	02:07:16
+		Location:	NULL NULL
+
+(5) - 0.0 km 853325 MSC 11 Ryan Gay
+	IRG1
+		Images:	24802
+		Time:	05.11.2023 10:56:46 until 05.11.2023 17:01:01
+		Duration:	06:04:15
+		Location:	NULL NULL
+
+(6) - 0.0 km 853325 MSC 11 WITH FLASH Ryan Gay
+	IRG2
+		Images:	5382
+		Time:	05.11.2023 17:07:20 until 05.11.2023 18:50:25
+		Duration:	01:43:05
+		Location:	NULL NULL
+
+(7) - 0.0 km 853326 MSC 11 Kylene Gay
+	IKGAY1
+		Images:	19451
+		Time:	05.11.2023 11:26:55 until 05.11.2023 19:15:09
+		Duration:	07:48:14
+		Location:	NULL NULL
+
+(8) - 0.0 km 853326 MSC 11 WITH FLASH Kylene Gay
+	IKGAY2
+		Images:	1742
+		Time:	05.11.2023 17:20:56 until 05.11.2023 19:15:09
+		Duration:	01:54:13
+		Location:	NULL NULL
+
+(9) - 0.0 km 853327 MSC 11 Jacob Kander
+	FJKAN1
+		Images:	17671
+		Time:	05.11.2023 11:02:23 until 05.11.2023 16:32:51
+		Duration:	05:30:28
+		Location:	NULL NULL
+
+(10) - 0.0 km 853327 MSC 11 with FLASH Jacob Kander
+	FJKAN2
+		Images:	2005
+		Time:	05.11.2023 16:50:38 until 05.11.2023 18:44:10
+		Duration:	01:53:32
+		Location:	NULL NULL
+
+(11) - 0.0 km 853338 trigger msc 13
+	JTCD1
+		Images:	20642
+		Time:	05.11.2023 10:04:19 until 05.11.2023 16:02:02
+		Duration:	05:57:43
+		Location:	NULL NULL
+
+(12) - 0.0 km abdo 853382 fin
+	OASH1
+		Images:	17025
+		Time:	05.11.2023 13:40:24 until 05.11.2023 15:50:39
+		Duration:	02:10:15
+		Location:	NULL NULL
+
+(13) - 0.0 km Abdo Sharhand up shot, 853382
+	HASHA1
+		Images:	26525
+		Time:	05.11.2023 12:03:19 until 05.11.2023 19:27:35
+		Duration:	07:24:16
+		Location:	NULL NULL
+
+(14) - 0.0 km alex kriv msc 8 853340
+	EAKR1
+		Images:	23200
+		Time:	05.11.2023 08:25:26 until 05.11.2023 16:59:56
+		Duration:	08:34:30
+		Location:	NULL NULL
+
+(15) - 0.0 km BOBBZ LEE verizzano 853389
+	ABLEE1
+		Images:	8509
+		Time:	05.11.2023 08:20:04 until 05.11.2023 12:03:37
+		Duration:	03:43:33
+		Location:	NULL NULL
+
+(16) - 0.0 km Charlotte msc 7 853345
+	JCF1
+		Images:	29775
+		Time:	05.11.2023 10:41:23 until 05.11.2023 17:14:25
+		Duration:	06:33:02
+		Location:	NULL NULL
+
+(17) - 0.0 km christine mccan 853344 msc7
+	HCC1
+		Images:	67308
+		Time:	04.11.2023 07:14:34 until 05.11.2023 16:33:06
+		Duration:	1.09:18:32
+		Location:	NULL NULL
+
+(18) - 0.0 km christne cloudier 853347
+	GCCL1
+		Images:	19882
+		Time:	05.11.2023 08:02:48 until 05.11.2023 15:44:23
+		Duration:	07:41:35
+		Location:	NULL NULL
+
+(19) - 0.0 km cody curatolo, 853332
+	ECC1
+		Images:	23486
+		Time:	05.11.2023 11:39:09 until 05.11.2023 15:47:11
+		Duration:	04:08:02
+		Location:	NULL NULL
+
+(20) - 0.0 km darren flash 853318
+	JDFL1
+		Images:	3685
+		Time:	05.11.2023 16:11:08 until 05.11.2023 18:59:57
+		Duration:	02:48:49
+		Location:	NULL NULL
+
+(21) - 0.0 km darren kempany 853318
+	JDAR1
+		Images:	2445
+		Time:	05.11.2023 15:02:36 until 05.11.2023 16:09:13
+		Duration:	01:06:37
+		Location:	NULL NULL
+
+(22) - 0.0 km dave tideswell flash 853311
+	EDTF1
+		Images:	2023
+		Time:	05.11.2023 17:03:57 until 05.11.2023 19:36:39
+		Duration:	02:32:42
+		Location:	NULL NULL
+
+(23) - 0.0 km dave tideswell pre fin 853311
+	EDTW1
+		Images:	30492
+		Time:	05.11.2023 11:04:32 until 05.11.2023 16:56:12
+		Duration:	05:51:40
+		Location:	NULL NULL
+
+(24) - 0.0 km david flash 853310
+	JDLF1
+		Images:	1972
+		Time:	05.11.2023 16:12:16 until 05.11.2023 18:18:06
+		Duration:	02:05:50
+		Location:	NULL NULL
+
+(25) - 0.0 km David pre fin 853310
+	ODLV1
+		Images:	14240
+		Time:	05.11.2023 10:32:23 until 05.11.2023 16:08:32
+		Duration:	05:36:09
+		Location:	NULL NULL
+
+(26) - 0.0 km Diego Guillen / MSC10 / 853335
+	LDGU1
+		Images:	21056
+		Time:	05.11.2023 09:50:16 until 05.11.2023 16:55:57
+		Duration:	07:05:41
+		Location:	NULL NULL
+
+(27) - 0.0 km dru lam order 853334, msc 10
+	HDLAM1
+		Images:	26619
+		Time:	05.11.2023 12:50:40 until 05.11.2023 18:50:14
+		Duration:	05:59:34
+		Location:	NULL NULL
+
+(28) - 0.0 km dru msc 10 853334
+	JDRUA1
+		Images:	18252
+		Time:	05.11.2023 11:28:58 until 05.11.2023 13:39:52
+		Duration:	02:10:54
+		Location:	NULL NULL
+
+(29) - 0.0 km E Catherine Stackpole MSC 6 853346
+	OIV1
+		Images:	27781
+		Time:	05.11.2023 07:43:24 until 05.11.2023 15:08:29
+		Duration:	07:25:05
+		Location:	NULL NULL
+
+(30) - 0.0 km Fin trigger center 853376
+	AFTRI1
+		Images:	7458
+		Time:	05.11.2023 15:05:39 until 05.11.2023 17:10:23
+		Duration:	02:04:44
+		Location:	NULL NULL
+
+(31) - 0.0 km FIn Trigger left 853374
+	AFNNA1
+		Images:	23759
+		Time:	05.11.2023 09:33:27 until 05.11.2023 18:20:57
+		Duration:	08:47:30
+		Location:	NULL NULL
+
+(32) - 0.0 km Fin trigger right 853375
+	ASNF1
+		Images:	26788
+		Time:	05.11.2023 08:32:59 until 05.11.2023 18:29:38
+		Duration:	09:56:39
+		Location:	NULL NULL
+
+(33) - 0.0 km Finish trigger center 853376
+	JFTA1
+		Images:	11384
+		Time:	05.11.2023 10:52:13 until 05.11.2023 14:56:30
+		Duration:	04:04:17
+		Location:	NULL NULL
+
+(34) - 0.0 km Gus 853215
+	FGARG1
+		Images:	23752
+		Time:	05.11.2023 11:13:40 until 05.11.2023 13:46:06
+		Duration:	02:32:26
+		Location:	NULL NULL
+
+(35) - 0.0 km hammy verizzano 853388
+	ASHA1
+		Images:	6198
+		Time:	05.11.2023 07:22:17 until 05.11.2023 11:07:16
+		Duration:	03:44:59
+		Location:	NULL NULL
+
+(36) - 0.0 km IRENE msc 4 853356
+	EICA1
+		Images:	23884
+		Time:	05.11.2023 08:22:00 until 05.11.2023 15:20:39
+		Duration:	06:58:39
+		Location:	NULL NULL
+
+(37) - 0.0 km Jerome msc 4 853354 comp o
+	DJSB1
+		Images:	28857
+		Time:	05.11.2023 09:20:08 until 05.11.2023 15:49:41
+		Duration:	06:29:33
+		Location:	NULL NULL
+
+(38) - 0.0 km jim dee 853312
+	EJD1
+		Images:	46494
+		Time:	05.11.2023 09:45:49 until 05.11.2023 17:58:20
+		Duration:	08:12:31
+		Location:	NULL NULL
+
+(39) - 0.0 km jonathan roberts msc 7 853314
+	HJROB1
+		Images:	25983
+		Time:	05.11.2023 09:54:02 until 05.11.2023 15:27:42
+		Duration:	05:33:40
+		Location:	NULL NULL
+
+(40) - 0.0 km julio mora 853383
+	OJM1
+		Images:	19047
+		Time:	05.11.2023 10:04:48 until 05.11.2023 14:24:56
+		Duration:	04:20:08
+		Location:	NULL NULL
+
+(41) - 0.0 km Julio Mora, finish upshot, order 853383
+	HJMO1
+		Images:	7854
+		Time:	04.11.2023 07:17:39 until 05.11.2023 19:50:19
+		Duration:	1.12:32:40
+		Location:	NULL NULL
+
+(42) - 0.0 km keith msc 5 853350
+	GKTR1
+		Images:	14958
+		Time:	05.11.2023 08:41:49 until 05.11.2023 15:08:00
+		Duration:	06:26:11
+		Location:	NULL NULL
+
+(43) - 0.0 km kelly pre fin flash 853308
+	OSHF1
+		Images:	8114
+		Time:	05.11.2023 15:55:39 until 05.11.2023 18:33:45
+		Duration:	02:38:06
+		Location:	NULL NULL
+
+(44) - 0.0 km lucy baptiste msc 4 853357
+	JLBA1
+		Images:	13508
+		Time:	05.01.2022 19:01:22 until 06.01.2022 01:21:38
+		Duration:	06:20:16
+		Location:	NULL NULL
+
+(45) - 0.0 km marco msc 9 853359
+	JMT1
+		Images:	29674
+		Time:	05.11.2023 09:33:22 until 05.11.2023 18:46:38
+		Duration:	09:13:16
+		Location:	NULL NULL
+
+(46) - 0.0 km megyn start 853377
+	JMBA1
+		Images:	253
+		Time:	05.11.2023 06:42:32 until 05.11.2023 09:23:52
+		Duration:	02:41:20
+		Location:	NULL NULL
+
+(47) - 0.0 km Mid Mass 25 Mile 853216 Van Quan Card 2 and 3
+	GVQUA1
+		Images:	29372
+		Time:	05.11.2023 19:28:15 until 05.11.2023 22:59:04
+		Duration:	03:30:49
+		Location:	NULL NULL
+
+(48) - 0.0 km Mid Mass Mile 25 853215 Gus Gallo Card 2 and 3
+	GGGAL1
+		Images:	33207
+		Time:	05.11.2023 13:49:35 until 05.11.2023 17:59:14
+		Duration:	04:09:39
+		Location:	NULL NULL
+
+(49) - 0.0 km Mile 25 Trigger 853217
+	FMTFT1
+		Images:	10885
+		Time:	05.11.2023 10:30:45 until 05.11.2023 13:36:57
+		Duration:	03:06:12
+		Location:	NULL NULL
+
+(50) - 0.0 km miyan msc 8 853341
+	OML1
+		Images:	21663
+		Time:	05.11.2023 08:46:28 until 05.11.2023 16:26:33
+		Duration:	07:40:05
+		Location:	NULL NULL
+
+(51) - 0.0 km MSC 12 Robert 853329 Day
+	FBFIN2
+		Images:	31420
+		Time:	05.11.2023 08:11:35 until 05.11.2023 16:45:48
+		Duration:	08:34:13
+		Location:	NULL NULL
+
+(52) - 0.0 km MSC12 Robert 853329 Flash
+	FBFIN1
+		Images:	2023
+		Time:	05.11.2023 16:55:37 until 05.11.2023 19:06:10
+		Duration:	02:10:33
+		Location:	NULL NULL
+
+(53) - 0.0 km pablo 853339
+	GPB1
+		Images:	13776
+		Time:	05.11.2023 09:31:07 until 05.11.2023 17:12:23
+		Duration:	07:41:16
+		Location:	NULL NULL
+
+(54) - 0.0 km phillip finish 853385
+	FPRA1
+		Images:	7658
+		Time:	05.11.2023 13:34:47 until 05.11.2023 15:21:35
+		Duration:	01:46:48
+		Location:	NULL NULL
+
+(55) - 0.0 km phillip verizanno bridge 853385
+	JPRE1
+		Images:	11184
+		Time:	05.11.2023 07:48:08 until 05.11.2023 11:03:09
+		Duration:	03:15:01
+		Location:	NULL NULL
+
+(56) - 0.0 km PRE FIN TRIGGER CENTER 853322
+	APFTA1
+		Images:	10117
+		Time:	05.11.2023 11:11:55 until 05.11.2023 15:25:13
+		Duration:	04:13:18
+		Location:	NULL NULL
+
+(57) - 0.0 km Pre Fin Trigger Right 853323
+	APFTR1
+		Images:	13538
+		Time:	05.11.2023 11:07:02 until 05.11.2023 15:53:47
+		Duration:	04:46:45
+		Location:	NULL NULL
+
+(58) - 0.0 km PreFIn trigger Left 853324
+	APPTR1
+		Images:	18895
+		Time:	05.11.2023 07:39:06 until 05.11.2023 16:41:38
+		Duration:	09:02:32
+		Location:	NULL NULL
+
+(59) - 0.0 km ragan banners 853247
+	ARAG1
+		Images:	1362
+		Time:	05.09.2019 12:28:13 until 05.09.2019 16:50:19
+		Duration:	04:22:06
+		Location:	NULL NULL
+
+(60) - 0.0 km RICO VERIZANNO 853387
+	AMCAM1
+		Images:	11414
+		Time:	05.11.2023 08:08:45 until 05.11.2023 12:05:13
+		Duration:	03:56:28
+		Location:	NULL NULL
+
+(61) - 0.0 km Roberty Fina 853329 col circ
+	JRF1
+		Images:	31420
+		Time:	05.11.2023 08:11:35 until 05.11.2023 16:45:48
+		Duration:	08:34:13
+		Location:	NULL NULL
+
+(62) - 0.0 km ronnel medals 853264
+	ARON1
+		Images:	1118
+		Time:	05.11.2023 12:01:50 until 05.11.2023 14:34:03
+		Duration:	02:32:13
+		Location:	NULL NULL
+
+(63) - 0.0 km sarah lacuesta 853351
+	GSLA1
+		Images:	41252
+		Time:	05.11.2023 08:25:41 until 05.11.2023 15:09:21
+		Duration:	06:43:40
+		Location:	NULL NULL
+
+(64) - 0.0 km sheehan 853308 mile 26
+	OSHE1
+		Images:	29104
+		Time:	05.11.2013 10:15:25 until 05.11.2013 16:54:42
+		Duration:	06:39:17
+		Location:	NULL NULL
+
+(65) - 0.0 km Sheehan Flash 853308
+	JSHE1
+		Images:	4053
+		Time:	05.11.2013 16:57:05 until 05.11.2013 19:42:09
+		Duration:	02:45:04
+		Location:	NULL NULL
+
+(66) - 0.0 km steve hammy fin 853321
+	JHSW1
+		Images:	4120
+		Time:	05.11.2023 13:55:13 until 05.11.2023 15:27:47
+		Duration:	01:32:34
+		Location:	NULL NULL
+
+(67) - 0.0 km terry flash 853309
+	OJMF1
+		Images:	2967
+		Time:	05.11.2023 15:31:01 until 05.11.2023 18:20:13
+		Duration:	02:49:12
+		Location:	NULL NULL
+
+	OTWF1
+		Images:	1103
+		Time:	05.11.2023 16:41:38 until 05.11.2023 18:41:47
+		Duration:	02:00:09
+		Location:	NULL NULL
+
+(68) - 0.0 km trent 853317
+	FTWEL1
+		Images:	1148
+		Time:	05.11.2023 16:59:19 until 05.11.2023 19:54:31
+		Duration:	02:55:12
+		Location:	NULL NULL
+
+(69) - 0.0 km trent wellot 853317
+	JTWEL1
+		Images:	14646
+		Time:	05.11.2023 10:56:55 until 05.11.2023 14:37:54
+		Duration:	03:40:59
+		Location:	NULL NULL
+
+(70) - 0.0 km Trigger Five, msc 10,
+	HTFIV1
+		Images:	25624
+		Time:	05.11.2023 06:42:59 until 05.11.2023 13:02:36
+		Duration:	06:19:37
+		Location:	NULL NULL
+
+(71) - 0.0 km Trigger Mas 25 mile 853217
+	GTMA1
+		Images:	12135
+		Time:	05.11.2023 13:38:30 until 05.11.2023 17:51:22
+		Duration:	04:12:52
+		Location:	NULL NULL
+
+(72) - 0.0 km trigger msc 12 853333
+	OTXV1
+		Images:	16729
+		Time:	05.11.2023 11:42:30 until 05.11.2023 16:45:33
+		Duration:	05:03:03
+		Location:	NULL NULL
+
+(73) - 0.0 km trigger msc 4 853358
+	OTCA1
+		Images:	29971
+		Time:	13.09.2023 20:15:36 until 05.11.2023 15:38:33
+		Duration:	52.19:22:57
+		Location:	NULL NULL
+
+(74) - 0.0 km trigger msc 5 853353
+	HTRA1
+		Images:	16843
+		Time:	02.01.2007 12:00:58 until 05.11.2023 11:14:55
+		Duration:	6150.23:13:57
+		Location:	NULL NULL
+
+(75) - 0.0 km Trigger msc 6 853349
+	OTCA1
+		Images:	29971
+		Time:	13.09.2023 20:15:36 until 05.11.2023 15:38:33
+		Duration:	52.19:22:57
+		Location:	NULL NULL
+
+(76) - 0.0 km trigger msc 8 853342
+	HTRB1
+		Images:	6487
+		Time:	04.11.2023 08:20:42 until 05.11.2023 11:32:12
+		Duration:	1.03:11:30
+		Location:	NULL NULL
+
+(77) - 0.0 km van 852316 mile 25
+	JVANA1
+		Images:	27757
+		Time:	05.11.2023 15:10:56 until 05.11.2023 19:24:08
+		Duration:	04:13:12
+		Location:	NULL NULL
+
+(78) - 0.0 km verizzano bridge 853391
+	AVZBB1
+		Images:	5769
+		Time:	05.11.2023 08:10:05 until 05.11.2023 12:07:14
+		Duration:	03:57:09
+		Location:	NULL NULL
+
+(79) - 0.0 km verizzano bridge card 1 853392
+	JVZBA1
+		Images:	9476
+		Time:	05.11.2023 07:10:18 until 05.11.2023 11:03:46
+		Duration:	03:53:28
+		Location:	NULL NULL
+
+(80) - 0.0 km verizzano trigger 853390
+	AVZBC1
+		Images:	9414
+		Time:	05.11.2023 12:28:53 until 05.11.2023 16:04:29
+		Duration:	03:35:36
+		Location:	NULL NULL
+
+(81) - 0.0 km walter msc 5 853352
+	HWPA1
+		Images:	35865
+		Time:	05.11.2023 09:26:43 until 05.11.2023 16:08:19
+		Duration:	06:41:36
+		Location:	NULL NULL
+
+(82) - Impressions / Pano
+	PANO1
+(83) - none
+	AAZEL1
+		Images:	15812
+		Time:	05.11.2023 10:26:49 until 05.11.2023 18:50:38
+		Duration:	08:23:49
+		Location:	NULL NULL
+
+	AAZEL2
+		Images:	1202
+		Time:	05.11.2023 16:44:24 until 05.11.2023 18:37:32
+		Duration:	01:53:08
+		Location:	NULL NULL
+
+	ACCUR1
+		Images:	11583
+		Time:	05.11.2023 10:53:21 until 05.11.2023 16:48:07
+		Duration:	05:54:46
+		Location:	NULL NULL
+
+	ACCUR2
+		Images:	1375
+		Time:	05.11.2023 16:50:11 until 05.11.2023 19:02:30
+		Duration:	02:12:19
+		Location:	NULL NULL
+
+	ARORU1
+		Images:	18271
+		Time:	05.11.2023 10:35:12 until 05.11.2023 15:57:36
+		Duration:	05:22:24
+		Location:	NULL NULL
+
+	ARORU2
+		Images:	1337
+		Time:	05.11.2023 15:57:37 until 05.11.2023 17:02:51
+		Duration:	01:05:14
+		Location:	NULL NULL
+
+	ATRIG1
+		Images:	18125
+		Time:	05.11.2023 11:42:30 until 05.11.2023 19:20:33
+		Duration:	07:38:03
+		Location:	NULL NULL
+
+	ATRIG2
+		Images:	3619
+		Time:	05.11.2023 17:14:32 until 05.11.2023 18:16:07
+		Duration:	01:01:35
+		Location:	NULL NULL
+
+	BBABS1
+		Images:	32909
+		Time:	05.11.2023 08:21:53 until 05.11.2023 15:20:32
+		Duration:	06:58:39
+		Location:	NULL NULL
+
+	BBENE1
+		Images:	37328
+		Time:	05.11.2023 08:40:12 until 05.11.2023 15:45:14
+		Duration:	07:05:02
+		Location:	NULL NULL
+
+	BTJ1
+		Images:	40318
+		Time:	22.10.2023 09:54:01 until 05.11.2023 14:45:48
+		Duration:	14.04:51:47
+		Location:	NULL NULL
+
+	BTJ1LS1
+		Images:	10001
+		Time:	05.11.2023 08:39:09 until 05.11.2023 15:37:49
+		Duration:	06:58:40
+		Location:	NULL NULL
+
+	BTJ1LS2
+		Images:	8563
+		Time:	05.11.2023 08:23:05 until 05.11.2023 15:40:19
+		Duration:	07:17:14
+		Location:	NULL NULL
+
+	CMMON1
+		Images:	34624
+		Time:	05.11.2023 09:04:04 until 05.11.2023 14:05:59
+		Duration:	05:01:55
+		Location:	NULL NULL
+
+	CPSAN1
+		Images:	50066
+		Time:	05.11.2023 05:57:41 until 05.11.2023 10:56:12
+		Duration:	04:58:31
+		Location:	NULL NULL
+
+	CTMOM1
+		Images:	9263
+		Time:	05.11.2023 08:57:41 until 05.11.2023 13:54:53
+		Duration:	04:57:12
+		Location:	NULL NULL
+
+	CTRIG1
+		Images:	17060
+		Time:	05.11.2023 08:52:47 until 05.11.2023 13:45:17
+		Duration:	04:52:30
+		Location:	NULL NULL
+
+	CVERA1
+		Images:	23261
+		Time:	05.11.2023 07:49:49 until 05.11.2023 12:49:57
+		Duration:	05:00:08
+		Location:	NULL NULL
+
+	DAADD1
+		Images:	6731
+		Time:	05.11.2023 08:24:27 until 05.11.2023 14:30:00
+		Duration:	06:05:33
+		Location:	NULL NULL
+
+	DCGUR1
+		Images:	21346
+		Time:	05.11.2023 08:40:55 until 05.11.2023 15:32:20
+		Duration:	06:51:25
+		Location:	NULL NULL
+
+	DHCHE1
+		Images:	24122
+		Time:	05.11.2023 07:44:50 until 05.11.2023 14:01:03
+		Duration:	06:16:13
+		Location:	NULL NULL
+
+	DJCCH1
+		Images:	38519
+		Time:	05.11.2023 07:34:13 until 05.11.2023 16:35:39
+		Duration:	09:01:26
+		Location:	NULL NULL
+
+	DKDIC1
+		Images:	21964
+		Time:	05.11.2023 07:48:10 until 05.11.2023 13:38:05
+		Duration:	05:49:55
+		Location:	NULL NULL
+
+	DPWIR1
+		Images:	16257
+		Time:	05.11.2023 08:47:30 until 05.11.2023 12:25:02
+		Duration:	03:37:32
+		Location:	NULL NULL
+
+	DSEDW1
+		Images:	22853
+		Time:	04.11.2023 08:45:57 until 04.11.2023 13:53:32
+		Duration:	05:07:35
+		Location:	NULL NULL
+
+	DSHAW1
+		Images:	24513
+		Time:	05.11.2023 07:36:51 until 05.11.2023 12:31:35
+		Duration:	04:54:44
+		Location:	NULL NULL
+
+	DTRIG1
+		Images:	10833
+		Time:	05.11.2023 09:45:47 until 05.11.2023 13:26:08
+		Duration:	03:40:21
+		Location:	NULL NULL
+
+	DTRIH1
+		Images:	14318
+		Time:	05.11.2023 07:33:52 until 05.11.2023 12:25:26
+		Duration:	04:51:34
+		Location:	NULL NULL
+
+	FSHAN1
+		Images:	999
+		Time:	05.11.2023 15:32:33 until 05.11.2023 15:55:39
+		Duration:	00:23:06
+		Location:	NULL NULL
+
+	FSHF1
+		Images:	8114
+		Time:	05.11.2023 15:55:39 until 05.11.2023 18:33:45
+		Duration:	02:38:06
+		Location:	NULL NULL
+

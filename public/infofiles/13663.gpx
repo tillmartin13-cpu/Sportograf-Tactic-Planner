@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "50.30262" lon = "4.89543"><name>BAR1</name><desc>14,0 km Maas
+Images:3675
+First:08.03.2025 22:02:28
+Last:09.03.2025 10:36:33
+Duration:12:34:05
+</desc></wpt>
+<wpt lat = "50.30262" lon = "4.89543"><name>BAR1LS1</name><desc>14,0 km Maas
+Images:1888
+First:08.03.2025 22:06:28
+Last:09.03.2025 10:37:13
+Duration:12:30:45
+</desc></wpt>
+<wpt lat = "50.30078" lon = "4.76811"><name>BC1</name><desc>Start
+Images:76
+First:09.03.2025 06:52:44
+Last:09.03.2025 08:05:17
+Duration:01:12:33
+</desc></wpt>
+<wpt lat = "50.31181" lon = "4.83277"><name>BC2</name><desc>8,0 km Railway
+Images:3471
+First:09.03.2025 08:23:30
+Last:09.03.2025 09:41:42
+Duration:01:18:12
+</desc></wpt>
+<wpt lat = "50.25337" lon = "4.91553"><name>DIK1</name><desc>Finish
+Images:6451
+First:09.03.2025 08:11:09
+Last:09.03.2025 11:48:35
+Duration:03:37:26
+</desc></wpt>
+<wpt lat = "50.26032" lon = "4.912"><name>DRI1</name><desc>19,3 km Collégiale Notre-Dame
+Images:8870
+First:09.03.2025 08:42:08
+Last:09.03.2025 11:28:19
+Duration:02:46:11
+</desc></wpt>
+<wpt lat = "50.26032" lon = "4.912"><name>DRI1LS2</name><desc>19,3 km Collégiale Notre-Dame
+Images:6345
+First:10.03.2025 07:44:05
+Last:10.03.2025 11:16:26
+Duration:03:32:21
+</desc></wpt>
+<wpt lat = "50.26032" lon = "4.912"><name>DRI1LS1</name><desc>19,3 km Collégiale Notre-Dame
+Images:1605
+First:09.03.2025 09:12:45
+Last:09.03.2025 11:10:33
+Duration:01:57:48
+</desc></wpt>
+<wpt lat = "50.26032" lon = "4.912"><name>DRI1DRONE1</name><desc>19,3 km Collégiale Notre-Dame
+Images:8
+First:09.03.2025 06:00:49
+Last:09.03.2025 10:07:20
+Duration:04:06:31
+</desc></wpt>
+</gpx>

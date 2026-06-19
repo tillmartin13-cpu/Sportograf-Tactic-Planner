@@ -1,0 +1,98 @@
+EventId: 15408
+Spots: 15
+Total Images: 28465
+Time:	09.02.2025 08:44:38 to 09.02.2025 14:45:46
+Duration: 06:01:08
+
+(1) - Impressions / Pano
+	MK1DRONE1
+		Images:	28
+		Time:	09.02.2025 09:41:36 until 09.02.2025 13:32:26
+		Duration:	03:50:50
+		Location:	50.12833 5.79958
+
+	PANO1
+(2) - Beach Katwijk : km 15 of 42 + km 3,5 of 30  (start in Katwijk)
+	MK1
+		Images:	3790
+		Time:	09.02.2025 09:25:20 until 09.02.2025 12:06:46
+		Duration:	02:41:26
+		Location:	50.12833 5.79958
+
+	MK1LS1
+		Images:	311
+		Time:	09.02.2025 09:28:07 until 09.02.2025 11:10:33
+		Duration:	01:42:26
+		Location:	50.12833 5.79958
+
+	MK1LS2
+		Images:	297
+		Time:	09.02.2025 09:28:29 until 09.02.2025 11:08:36
+		Duration:	01:40:07
+		Location:	50.12833 5.79958
+
+	LV1
+		Images:	1680
+		Time:	09.02.2025 08:44:38 until 09.02.2025 11:34:58
+		Duration:	02:50:20
+		Location:	52.21236 4.39934
+
+(3) - Beach Noordwijk km22/42 (Start Katwijk) - km10/30 - km1/21 - km1/10 (start Noordwijk)
+	FAH1
+		Images:	3397
+		Time:	09.02.2025 08:50:31 until 09.02.2025 11:28:19
+		Duration:	02:37:48
+		Location:	52.25156 4.43341
+
+	RVAM1
+		Images:	405
+		Time:	09.02.2025 08:48:36 until 09.02.2025 10:20:36
+		Duration:	01:32:00
+		Location:	52.25156 4.43341
+
+(4) - Dunes Noordwijk:  2 km to the finish  all distances
+	MK2
+		Images:	5906
+		Time:	09.02.2025 12:06:49 until 09.02.2025 14:36:02
+		Duration:	02:29:13
+		Location:	52.25447 4.44645
+
+(5) - Dunes Noordwijk:  1 km to the finish  all distances
+	MK2LS1
+		Images:	531
+		Time:	09.02.2025 11:39:21 until 09.02.2025 14:38:52
+		Duration:	02:59:31
+		Location:	52.25259 4.44188
+
+	MK2LS2
+		Images:	499
+		Time:	09.02.2025 11:50:12 until 09.02.2025 14:39:20
+		Duration:	02:49:08
+		Location:	52.25259 4.44188
+
+	LV2
+		Images:	5239
+		Time:	09.02.2025 11:36:08 until 09.02.2025 14:36:17
+		Duration:	03:00:09
+		Location:	52.25259 4.44188
+
+	LV2LS1
+		Images:	362
+		Time:	09.02.2025 12:02:45 until 09.02.2025 14:37:25
+		Duration:	02:34:40
+		Location:	52.25259 4.44188
+
+(6) - Noordwijk  last straigt to the Finish
+	FAH2
+		Images:	3855
+		Time:	09.02.2025 11:34:43 until 09.02.2025 14:45:05
+		Duration:	03:10:22
+		Location:	52.24984 4.43448
+
+(7) - Finish Noordwijk
+	RVAM2
+		Images:	2165
+		Time:	09.02.2025 10:25:11 until 09.02.2025 14:45:46
+		Duration:	04:20:35
+		Location:	52.2491 4.43404
+

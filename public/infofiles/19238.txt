@@ -1,0 +1,684 @@
+EventId: 19238
+Spots: 118
+Total Images: 1366798
+Time:	01.01.0001 23:00:00 to 26.10.2026 14:18:19
+Duration: 739913.15:18:19
+
+(1) - 0,0 km
+	FALNG1
+		Images:	50675
+		Time:	26.10.2025 07:06:50 until 26.10.2025 11:36:15
+		Duration:	04:29:25
+		Location:	NULL NULL
+
+	FTTW1
+		Images:	11394
+		Time:	26.10.2025 07:45:20 until 26.10.2025 10:36:56
+		Duration:	02:51:36
+		Location:	NULL NULL
+
+(2) - 0.0 km
+	AJEL1
+		Images:	9713
+		Time:	26.10.2025 06:09:12 until 26.10.2025 07:25:27
+		Duration:	01:16:15
+		Location:	NULL NULL
+
+	AJORO1
+		Images:	524
+		Time:	26.10.2025 06:13:44 until 26.10.2025 06:43:42
+		Duration:	00:29:58
+		Location:	NULL NULL
+
+	AKRI1
+		Images:	2731
+		Time:	26.10.2025 05:40:04 until 26.10.2025 07:17:47
+		Duration:	01:37:43
+		Location:	NULL NULL
+
+	AMEB1
+		Images:	1118
+		Time:	26.10.2025 05:30:36 until 26.10.2025 07:09:43
+		Duration:	01:39:07
+		Location:	NULL NULL
+
+	APOL1
+		Images:	8303
+		Time:	26.10.2025 06:02:13 until 26.10.2025 07:33:51
+		Duration:	01:31:38
+		Location:	NULL NULL
+
+	ATOC1
+		Images:	14458
+		Time:	26.10.2025 06:07:03 until 26.10.2025 08:07:48
+		Duration:	02:00:45
+		Location:	NULL NULL
+
+	BGSHK1
+		Images:	14139
+		Time:	26.10.2025 06:52:26 until 26.10.2025 09:45:26
+		Duration:	02:53:00
+		Location:	NULL NULL
+
+	BJDEE1
+		Images:	8637
+		Time:	26.10.2025 06:39:19 until 26.10.2025 07:35:20
+		Duration:	00:56:01
+		Location:	NULL NULL
+
+	BTRC1
+		Images:	6905
+		Time:	25.10.2025 20:58:18 until 26.10.2025 07:42:30
+		Duration:	10:44:12
+		Location:	NULL NULL
+
+	CCMCA1
+		Images:	17535
+		Time:	26.10.2025 04:57:18 until 26.10.2025 09:45:19
+		Duration:	04:48:01
+		Location:	NULL NULL
+
+	CIO1
+		Images:	29447
+		Time:	26.10.2025 07:30:58 until 26.10.2025 13:49:14
+		Duration:	06:18:16
+		Location:	NULL NULL
+
+	CVOBU1
+		Images:	10419
+		Time:	26.10.2025 10:02:56 until 26.10.2025 14:19:03
+		Duration:	04:16:07
+		Location:	NULL NULL
+
+	EBLEE1
+		Images:	15272
+		Time:	26.10.2025 07:18:19 until 26.10.2025 12:03:37
+		Duration:	04:45:18
+		Location:	NULL NULL
+
+	EMDAN1
+		Images:	14227
+		Time:	26.10.2025 07:22:18 until 26.10.2025 11:37:36
+		Duration:	04:15:18
+		Location:	NULL NULL
+
+	ERCZ1
+		Images:	31381
+		Time:	26.10.2025 08:33:48 until 26.10.2025 14:05:55
+		Duration:	05:32:07
+		Location:	NULL NULL
+
+	ETRG1
+		Images:	11555
+		Time:	26.10.2025 08:38:14 until 26.10.2025 11:54:12
+		Duration:	03:15:58
+		Location:	NULL NULL
+
+	ETRW1
+		Images:	21818
+		Time:	26.10.2025 07:36:59 until 26.10.2025 12:01:36
+		Duration:	04:24:37
+		Location:	NULL NULL
+
+	GCFIO1
+		Images:	26701
+		Time:	26.10.2025 07:23:32 until 26.10.2025 12:00:40
+		Duration:	04:37:08
+		Location:	NULL NULL
+
+	GPGR1
+		Images:	28489
+		Time:	26.10.2025 06:21:44 until 26.10.2025 11:58:14
+		Duration:	05:36:30
+		Location:	NULL NULL
+
+	GTRJ1
+		Images:	16100
+		Time:	26.10.2025 05:04:12 until 26.10.2025 10:59:00
+		Duration:	05:54:48
+		Location:	NULL NULL
+
+	HAKRI1
+		Images:	22317
+		Time:	26.10.2025 07:42:36 until 26.10.2025 14:27:57
+		Duration:	06:45:21
+		Location:	NULL NULL
+
+	HFARU1
+		Images:	20975
+		Time:	26.10.2025 11:31:25 until 26.10.2025 14:25:23
+		Duration:	02:53:58
+		Location:	NULL NULL
+
+	HMTOD1
+		Images:	15109
+		Time:	26.10.2025 11:03:49 until 26.10.2025 14:25:39
+		Duration:	03:21:50
+		Location:	NULL NULL
+
+	HTRE1
+		Images:	10032
+		Time:	26.10.2025 06:29:25 until 26.10.2025 09:51:43
+		Duration:	03:22:18
+		Location:	NULL NULL
+
+	HTRO1
+		Images:	15566
+		Time:	26.10.2025 08:31:43 until 26.10.2025 13:25:28
+		Duration:	04:53:45
+		Location:	NULL NULL
+
+	HWDEE1
+		Images:	23524
+		Time:	26.10.2025 09:42:11 until 26.10.2025 14:19:47
+		Duration:	04:37:36
+		Location:	NULL NULL
+
+	JCOCU1
+		Images:	24736
+		Time:	26.10.2025 09:04:31 until 26.10.2025 13:52:57
+		Duration:	04:48:26
+		Location:	NULL NULL
+
+	JDKEP1
+		Images:	27196
+		Time:	26.10.2025 09:00:06 until 26.10.2025 14:24:39
+		Duration:	05:24:33
+		Location:	NULL NULL
+
+	JLANE1
+		Images:	46759
+		Time:	26.10.2025 08:06:48 until 26.10.2025 14:27:12
+		Duration:	06:20:24
+		Location:	NULL NULL
+
+	JTOC1
+		Images:	5972
+		Time:	26.10.2025 09:10:14 until 26.10.2025 09:47:11
+		Duration:	00:36:57
+		Location:	NULL NULL
+
+	JTRP1
+		Images:	17212
+		Time:	01.01.0001 23:00:00 until 26.10.2025 10:53:06
+		Duration:	739548.11:53:06
+		Location:	NULL NULL
+
+	KCDR1
+		Images:	11794
+		Time:	26.10.2025 07:09:34 until 26.10.2025 11:31:01
+		Duration:	04:21:27
+		Location:	NULL NULL
+
+	KJLB1
+		Images:	27570
+		Time:	26.10.2025 08:38:28 until 26.10.2025 14:25:17
+		Duration:	05:46:49
+		Location:	NULL NULL
+
+	KJWHI1
+		Images:	13777
+		Time:	26.10.2025 06:56:26 until 26.10.2025 09:59:10
+		Duration:	03:02:44
+		Location:	NULL NULL
+
+	KPSAN1
+		Images:	33965
+		Time:	26.10.2025 08:30:40 until 26.10.2025 14:26:25
+		Duration:	05:55:45
+		Location:	NULL NULL
+
+	KTRF1
+		Images:	8894
+		Time:	26.10.2025 06:51:24 until 26.10.2025 10:02:14
+		Duration:	03:10:50
+		Location:	NULL NULL
+
+	KTRRD1
+		Images:	10190
+		Time:	26.10.2025 07:34:52 until 26.10.2025 10:42:43
+		Duration:	03:07:51
+		Location:	NULL NULL
+
+	MADLR1
+		Images:	685
+		Time:	26.10.2025 08:07:18 until 26.10.2025 13:27:54
+		Duration:	05:20:36
+		Location:	NULL NULL
+
+	MAEAG1
+		Images:	921
+		Time:	26.10.2025 01:22:09 until 26.10.2025 05:00:23
+		Duration:	03:38:14
+		Location:	NULL NULL
+
+	MASCH1
+		Images:	2269
+		Time:	26.10.2025 07:55:12 until 26.10.2025 14:29:24
+		Duration:	06:34:12
+		Location:	NULL NULL
+
+	MBINV1
+		Images:	2177
+		Time:	26.10.2025 10:28:54 until 26.10.2025 15:26:59
+		Duration:	04:58:05
+		Location:	NULL NULL
+
+	MCBEI1
+		Images:	1776
+		Time:	26.10.2025 08:50:12 until 26.10.2025 13:00:31
+		Duration:	04:10:19
+		Location:	NULL NULL
+
+	MDMUH1
+		Images:	1070
+		Time:	25.10.2025 19:52:11 until 26.10.2025 02:16:19
+		Duration:	06:24:08
+		Location:	NULL NULL
+
+	MEBUR1
+		Images:	1612
+		Time:	26.10.2025 07:42:06 until 26.10.2025 14:06:24
+		Duration:	06:24:18
+		Location:	NULL NULL
+
+	MHMIL1
+		Images:	5151
+		Time:	26.10.2025 08:08:14 until 26.10.2025 13:34:06
+		Duration:	05:25:52
+		Location:	NULL NULL
+
+	MIKAM1
+		Images:	2468
+		Time:	26.10.2025 07:42:06 until 26.10.2025 14:26:37
+		Duration:	06:44:31
+		Location:	NULL NULL
+
+	MMHAN1
+		Images:	888
+		Time:	26.10.2025 09:04:47 until 26.10.2025 13:56:38
+		Duration:	04:51:51
+		Location:	NULL NULL
+
+	MRHAM1
+		Images:	3370
+		Time:	26.10.2025 06:03:06 until 26.10.2025 11:30:17
+		Duration:	05:27:11
+		Location:	NULL NULL
+
+	MRKEL1
+		Images:	1500
+		Time:	26.10.2025 08:06:57 until 26.10.2025 14:12:54
+		Duration:	06:05:57
+		Location:	NULL NULL
+
+	MRKIL1
+		Images:	2318
+		Time:	26.10.2025 07:33:54 until 26.10.2025 12:00:04
+		Duration:	04:26:10
+		Location:	NULL NULL
+
+	MRUSS1
+		Images:	4436
+		Time:	26.10.2025 08:06:20 until 26.10.2025 14:06:12
+		Duration:	05:59:52
+		Location:	NULL NULL
+
+	MSBHO1
+		Images:	8402
+		Time:	26.10.2025 08:49:21 until 26.10.2025 14:37:16
+		Duration:	05:47:55
+		Location:	NULL NULL
+
+	MVRIP1
+		Images:	2116
+		Time:	26.10.2025 08:22:43 until 26.10.2025 13:25:53
+		Duration:	05:03:10
+		Location:	NULL NULL
+
+	MWLEU1
+		Images:	1642
+		Time:	26.10.2025 08:11:58 until 26.10.2025 14:18:34
+		Duration:	06:06:36
+		Location:	NULL NULL
+
+(3) - 0.0 km MSC 16 Trigger z9 FULL
+	DSGEN2
+		Images:	3978
+		Time:	26.10.2025 12:49:48 until 26.10.2025 13:56:11
+		Duration:	01:06:23
+		Location:	NULL NULL
+
+	DSGEN3
+		Images:	13333
+		Time:	26.10.2025 07:32:25 until 26.10.2025 12:49:47
+		Duration:	05:17:22
+		Location:	NULL NULL
+
+(4) - 0.0 km PR Rico
+	DRICO1
+		Images:	865
+		Time:	26.10.2025 06:50:54 until 26.10.2025 14:07:54
+		Duration:	07:17:00
+		Location:	NULL NULL
+
+(5) - 0.0 km PRe Fin Left Ground
+	DSGEN4
+		Images:	17737
+		Time:	01.01.0001 23:00:00 until 26.10.2025 07:07:45
+		Duration:	739548.08:07:45
+		Location:	NULL NULL
+
+(6) - 0.0 km Pre Fin Left Trigger
+	DBRAD3
+		Images:	18285
+		Time:	26.10.2025 08:04:41 until 26.10.2025 13:11:02
+		Duration:	05:06:21
+		Location:	NULL NULL
+
+(7) - 0.0 km Pre Fin Right Ground
+	DSGEN1
+		Images:	16665
+		Time:	26.10.2025 07:57:27 until 26.10.2025 13:53:22
+		Duration:	05:55:55
+		Location:	NULL NULL
+
+(8) - 0.0 km Pre Right z9 FULL
+	DBRAD1
+		Images:	9984
+		Time:	26.10.2025 06:51:48 until 26.10.2025 11:49:47
+		Duration:	04:57:59
+		Location:	NULL NULL
+
+	DBRAD2
+		Images:	8118
+		Time:	26.10.2025 11:49:48 until 26.10.2025 14:06:10
+		Duration:	02:16:22
+		Location:	NULL NULL
+
+(9) - Impressions / Pano
+	PANO1
+(10) - none
+	ACBIR1
+		Images:	3437
+		Time:	26.10.2025 04:17:19 until 26.10.2025 06:10:46
+		Duration:	01:53:27
+		Location:	NULL NULL
+
+	ACOCU1
+		Images:	9790
+		Time:	26.10.2025 06:33:27 until 26.10.2025 08:19:17
+		Duration:	01:45:50
+		Location:	NULL NULL
+
+	ADKE1
+		Images:	11536
+		Time:	26.10.2025 06:32:21 until 26.10.2025 08:13:59
+		Duration:	01:41:38
+		Location:	NULL NULL
+
+	ADTID1
+		Images:	10797
+		Time:	26.10.2025 06:20:34 until 26.10.2025 07:29:46
+		Duration:	01:09:12
+		Location:	NULL NULL
+
+	ALANE1
+		Images:	15874
+		Time:	26.10.2025 06:07:32 until 26.10.2025 07:33:31
+		Duration:	01:25:59
+		Location:	NULL NULL
+
+	ARLI1
+		Images:	1152
+		Time:	26.10.2025 05:24:30 until 26.10.2025 07:24:14
+		Duration:	01:59:44
+		Location:	NULL NULL
+
+	ASIMB1
+		Images:	2424
+		Time:	26.10.2025 05:32:23 until 26.10.2025 07:07:53
+		Duration:	01:35:30
+		Location:	NULL NULL
+
+	ATRA1
+		Images:	5753
+		Time:	26.10.2025 02:08:39 until 26.10.2025 05:09:50
+		Duration:	03:01:11
+		Location:	NULL NULL
+
+	BFARU2
+	BFARU3
+	BFARU4
+	BMTOD1
+	BMTOD1LS1
+	BVOBU1
+		Images:	8326
+		Time:	26.10.2025 06:50:38 until 26.10.2025 09:29:28
+		Duration:	02:38:50
+		Location:	NULL NULL
+
+	BWDEE1
+		Images:	462
+		Time:	26.10.2025 08:15:32 until 26.10.2025 08:39:44
+		Duration:	00:24:12
+		Location:	NULL NULL
+
+	CJDEE1
+		Images:	25637
+		Time:	26.10.2025 09:31:16 until 26.10.2025 14:18:43
+		Duration:	04:47:27
+		Location:	NULL NULL
+
+	CTRN1
+		Images:	18163
+		Time:	26.10.2025 07:23:19 until 26.10.2025 13:48:34
+		Duration:	06:25:15
+		Location:	NULL NULL
+
+	DAKRI1
+	DAKRI1LS1
+		Images:	19015
+		Time:	01.01.0001 23:00:00 until 26.10.2026 14:18:19
+		Duration:	739913.15:18:19
+		Location:	NULL NULL
+
+	DBRAD4
+		Images:	19071
+		Time:	01.01.0001 23:00:00 until 26.10.2025 14:16:32
+		Duration:	739548.15:16:32
+		Location:	NULL NULL
+
+	DRICO2
+		Images:	192
+		Time:	26.10.2025 06:49:55 until 26.10.2025 13:41:32
+		Duration:	06:51:37
+		Location:	NULL NULL
+
+	EEMAR1
+		Images:	19164
+		Time:	26.10.2025 07:38:40 until 26.10.2025 13:36:02
+		Duration:	05:57:22
+		Location:	NULL NULL
+
+	ERSB1
+		Images:	11616
+		Time:	26.10.2025 07:46:53 until 26.10.2025 11:33:19
+		Duration:	03:46:26
+		Location:	NULL NULL
+
+	ESLA1
+		Images:	22847
+		Time:	01.01.0001 23:00:00 until 26.10.2025 11:47:43
+		Duration:	739548.12:47:43
+		Location:	NULL NULL
+
+	ETRI1
+		Images:	14377
+		Time:	01.01.0001 23:00:00 until 26.10.2025 08:53:15
+		Duration:	739548.09:53:15
+		Location:	NULL NULL
+
+	FDTAN1
+		Images:	30538
+		Time:	26.10.2025 06:49:25 until 26.10.2025 10:33:49
+		Duration:	03:44:24
+		Location:	NULL NULL
+
+	FEAV1
+		Images:	13304
+		Time:	26.10.2025 06:45:18 until 26.10.2025 10:47:10
+		Duration:	04:01:52
+		Location:	NULL NULL
+
+	FMDAN1
+		Images:	5317
+		Time:	26.10.2025 07:02:23 until 26.10.2025 11:37:32
+		Duration:	04:35:09
+		Location:	NULL NULL
+
+	FTRH1
+		Images:	13007
+		Time:	26.10.2025 06:51:39 until 26.10.2025 11:32:55
+		Duration:	04:41:16
+		Location:	NULL NULL
+
+	GBML1
+		Images:	8625
+		Time:	26.10.2025 07:13:10 until 26.10.2025 12:05:42
+		Duration:	04:52:32
+		Location:	NULL NULL
+
+	GCMAR1
+		Images:	15266
+		Time:	26.10.2025 07:51:44 until 26.10.2025 09:59:20
+		Duration:	02:07:36
+		Location:	NULL NULL
+
+	GGE1
+		Images:	29591
+		Time:	26.10.2025 07:19:38 until 26.10.2025 13:48:55
+		Duration:	06:29:17
+		Location:	NULL NULL
+
+	GMKEL1
+		Images:	19411
+		Time:	26.10.2025 05:22:05 until 26.10.2025 10:53:05
+		Duration:	05:31:00
+		Location:	NULL NULL
+
+	GPPA1
+		Images:	10587
+		Time:	26.10.2025 07:20:55 until 26.10.2025 12:13:13
+		Duration:	04:52:18
+		Location:	NULL NULL
+
+	GTRK1
+		Images:	13217
+		Time:	26.10.2025 07:15:08 until 26.10.2025 12:01:56
+		Duration:	04:46:48
+		Location:	NULL NULL
+
+	GTRKB1
+		Images:	14238
+		Time:	26.10.2025 07:04:02 until 26.10.2025 12:00:19
+		Duration:	04:56:17
+		Location:	NULL NULL
+
+	HCMCA1
+		Images:	14413
+		Time:	26.10.2025 10:35:32 until 26.10.2025 14:15:33
+		Duration:	03:40:01
+		Location:	NULL NULL
+
+	JGSHK1
+		Images:	16937
+		Time:	26.10.2025 10:28:49 until 26.10.2025 14:29:48
+		Duration:	04:00:59
+		Location:	NULL NULL
+
+	KJORO1
+		Images:	21348
+		Time:	26.10.2025 07:36:22 until 26.10.2025 14:27:31
+		Duration:	06:51:09
+		Location:	NULL NULL
+
+	KTRMM1
+		Images:	19030
+		Time:	26.10.2025 07:29:31 until 26.10.2025 13:28:17
+		Duration:	05:58:46
+		Location:	NULL NULL
+
+	MBAB1
+		Images:	1173
+		Time:	27.10.2025 08:53:36 until 27.10.2025 12:13:34
+		Duration:	03:19:58
+		Location:	NULL NULL
+
+	MCBIR1
+		Images:	12183
+		Time:	26.10.2025 07:12:03 until 26.10.2025 13:17:58
+		Duration:	06:05:55
+		Location:	NULL NULL
+
+	MEBES1
+		Images:	520
+		Time:	26.10.2025 07:54:40 until 26.10.2025 13:48:05
+		Duration:	05:53:25
+		Location:	NULL NULL
+
+	MLNEL1
+		Images:	456
+		Time:	08.02.2018 15:44:16 until 08.02.2018 21:02:42
+		Duration:	05:18:26
+		Location:	NULL NULL
+
+	MMBAR1
+		Images:	2970
+		Time:	26.10.2025 09:16:54 until 26.10.2025 14:35:16
+		Duration:	05:18:22
+		Location:	NULL NULL
+
+	MPCAL1
+		Images:	681
+		Time:	25.10.2025 20:28:38 until 26.10.2025 02:40:56
+		Duration:	06:12:18
+		Location:	NULL NULL
+
+	MSIB1
+		Images:	960
+		Time:	26.10.2025 09:20:15 until 26.10.2025 14:39:20
+		Duration:	05:19:05
+		Location:	NULL NULL
+
+	MTCON1
+		Images:	513
+		Time:	26.10.2025 11:28:40 until 26.10.2025 14:45:03
+		Duration:	03:16:23
+		Location:	NULL NULL
+
+	MXSEI1
+		Images:	1695
+		Time:	26.10.2025 08:56:37 until 26.10.2025 14:14:15
+		Duration:	05:17:38
+		Location:	NULL NULL
+
+	WCROP1
+		Images:	4482
+		Time:	26.10.2025 07:52:57 until 26.10.2025 10:42:40
+		Duration:	02:49:43
+		Location:	NULL NULL
+
+	WCROP2
+	XCROP1
+		Images:	43153
+		Time:	26.10.2025 09:06:56 until 26.10.2025 13:56:08
+		Duration:	04:49:12
+		Location:	NULL NULL
+
+	XCROP2
+		Images:	14655
+		Time:	26.10.2025 09:02:01 until 26.10.2025 14:06:06
+		Duration:	05:04:05
+		Location:	NULL NULL
+

@@ -1,0 +1,331 @@
+EventId: 14988
+Spots: 53
+Total Images: 97777
+Time:	12.06.2025 16:59:08 to 14.06.2025 21:22:16
+Duration: 2.04:23:08
+
+(1) - Station 8 Wall Balls
+	AWD1
+		Images:	406
+		Time:	14.06.2025 09:00:32 until 14.06.2025 12:36:30
+		Duration:	03:35:58
+		Location:	41.89186 -87.60766
+
+	DANG2
+		Images:	2110
+		Time:	14.06.2025 12:43:40 until 14.06.2025 17:27:08
+		Duration:	04:43:28
+		Location:	41.89186 -87.60766
+
+	GIP5
+		Images:	844
+		Time:	14.06.2025 14:54:20 until 14.06.2025 15:19:24
+		Duration:	00:25:04
+		Location:	41.89186 -87.60766
+
+	JVI1
+		Images:	4962
+		Time:	14.06.2025 09:06:26 until 14.06.2025 12:38:46
+		Duration:	03:32:20
+		Location:	41.89186 -87.60766
+
+	MAT5
+		Images:	847
+		Time:	14.06.2025 11:00:06 until 14.06.2025 15:19:29
+		Duration:	04:19:23
+		Location:	41.89186 -87.60766
+
+	SAM2
+		Images:	5490
+		Time:	14.06.2025 12:43:36 until 14.06.2025 17:28:58
+		Duration:	04:45:22
+		Location:	41.89186 -87.60766
+
+	VICY4
+		Images:	437
+		Time:	14.06.2025 11:03:23 until 14.06.2025 11:29:18
+		Duration:	00:25:55
+		Location:	41.89186 -87.60766
+
+(2) - Station 3 Sled Pull
+	AWD2
+		Images:	533
+		Time:	14.06.2025 12:49:32 until 14.06.2025 16:22:14
+		Duration:	03:32:42
+		Location:	41.89186 -87.60766
+
+	DANG1
+		Images:	1537
+		Time:	14.06.2025 08:23:39 until 14.06.2025 12:34:14
+		Duration:	04:10:35
+		Location:	41.89186 -87.60766
+
+	GIP3
+		Images:	511
+		Time:	14.06.2025 13:59:05 until 14.06.2025 14:17:12
+		Duration:	00:18:07
+		Location:	41.89186 -87.60766
+
+	JBR2
+		Images:	541
+		Time:	14.06.2025 12:48:08 until 14.06.2025 16:22:48
+		Duration:	03:34:40
+		Location:	41.89186 -87.60766
+
+	MAT3
+		Images:	697
+		Time:	14.06.2025 09:59:03 until 14.06.2025 14:19:09
+		Duration:	04:20:06
+		Location:	41.89186 -87.60766
+
+	SAM1
+		Images:	3938
+		Time:	14.06.2025 08:21:20 until 14.06.2025 12:33:55
+		Duration:	04:12:35
+		Location:	41.89186 -87.60766
+
+	VICY2
+		Images:	387
+		Time:	14.06.2025 10:05:26 until 14.06.2025 12:47:11
+		Duration:	02:41:45
+		Location:	41.89186 -87.60766
+
+(3) - Station 6 Farmers Carry
+	DANG1LS1
+		Images:	2061
+		Time:	14.06.2025 07:04:34 until 14.06.2025 17:04:10
+		Duration:	09:59:36
+		Location:	41.89186 -87.60766
+
+	MAT8LS1
+		Images:	2552
+		Time:	14.06.2025 07:06:40 until 14.06.2025 17:03:35
+		Duration:	09:56:55
+		Location:	41.89186 -87.60766
+
+(4) - Station 1 Ski Erg
+	DEHA1
+		Images:	2288
+		Time:	14.06.2025 08:14:22 until 14.06.2025 12:52:05
+		Duration:	04:37:43
+		Location:	41.89186 -87.60766
+
+	JBB1
+		Images:	6805
+		Time:	13.06.2025 07:40:14 until 14.06.2025 12:20:52
+		Duration:	1.04:40:38
+		Location:	41.89186 -87.60766
+
+	JVI2
+		Images:	3629
+		Time:	14.06.2025 12:55:47 until 14.06.2025 16:00:08
+		Duration:	03:04:21
+		Location:	41.89186 -87.60766
+
+	LIT2
+		Images:	1669
+		Time:	14.06.2025 12:58:40 until 14.06.2025 16:02:03
+		Duration:	03:03:23
+		Location:	41.89186 -87.60766
+
+	PEC1
+		Images:	1785
+		Time:	13.06.2025 08:17:38 until 14.06.2025 12:31:34
+		Duration:	1.04:13:56
+		Location:	41.89186 -87.60766
+
+(5) - Station 5 Rowing
+	DMCI1
+		Images:	2885
+		Time:	13.06.2025 07:40:54 until 14.06.2025 12:55:11
+		Duration:	1.05:14:17
+		Location:	41.89186 -87.60766
+
+	DOBR2
+		Images:	2618
+		Time:	14.06.2025 12:40:18 until 14.06.2025 17:08:13
+		Duration:	04:27:55
+		Location:	41.89186 -87.60766
+
+	GIP4
+		Images:	256
+		Time:	12.06.2025 16:59:08 until 14.06.2025 14:50:06
+		Duration:	1.21:50:58
+		Location:	41.89186 -87.60766
+
+	JBR1
+		Images:	1484
+		Time:	13.06.2025 07:58:55 until 14.06.2025 12:40:25
+		Duration:	1.04:41:30
+		Location:	41.89186 -87.60766
+
+	MAT4
+		Images:	658
+		Time:	14.06.2025 10:27:31 until 14.06.2025 14:42:29
+		Duration:	04:14:58
+		Location:	41.89186 -87.60766
+
+	VICY3
+		Images:	5182
+		Time:	14.06.2025 10:30:57 until 14.06.2025 16:26:55
+		Duration:	05:55:58
+		Location:	41.89186 -87.60766
+
+(6) - Station 7 Sandbag Lunges
+	DMCI2
+		Images:	5909
+		Time:	13.06.2025 08:01:18 until 14.06.2025 17:12:48
+		Duration:	1.09:11:30
+		Location:	41.89186 -87.60766
+
+	DOBR1
+		Images:	3353
+		Time:	13.06.2025 08:09:47 until 14.06.2025 12:33:46
+		Duration:	1.04:23:59
+		Location:	41.89186 -87.60766
+
+	DPE1
+		Images:	1832
+		Time:	14.06.2025 08:53:52 until 14.06.2025 12:33:39
+		Duration:	03:39:47
+		Location:	41.89186 -87.60766
+
+	GIP6
+		Images:	325
+		Time:	14.06.2025 15:27:20 until 14.06.2025 15:37:51
+		Duration:	00:10:31
+		Location:	41.89186 -87.60766
+
+	MAT7
+		Images:	187
+		Time:	14.06.2025 11:29:13 until 14.06.2025 11:53:34
+		Duration:	00:24:21
+		Location:	41.89186 -87.60766
+
+	MKON2
+		Images:	1582
+		Time:	14.06.2025 08:30:50 until 14.06.2025 17:15:23
+		Duration:	08:44:33
+		Location:	41.89186 -87.60766
+
+(7) - Finish
+	DPE2
+		Images:	4866
+		Time:	14.06.2025 12:47:26 until 14.06.2025 17:36:03
+		Duration:	04:48:37
+		Location:	41.89186 -87.60766
+
+	GIP6LS1
+		Images:	1315
+		Time:	14.06.2025 07:35:09 until 14.06.2025 20:03:04
+		Duration:	12:27:55
+		Location:	41.89186 -87.60766
+
+	GIP6LS2
+		Images:	1689
+		Time:	14.06.2025 07:49:40 until 14.06.2025 19:03:05
+		Duration:	11:13:25
+		Location:	41.89186 -87.60766
+
+	MAT6
+		Images:	780
+		Time:	14.06.2025 12:27:48 until 14.06.2025 15:48:57
+		Duration:	03:21:09
+		Location:	41.89186 -87.60766
+
+	MKON1
+		Images:	631
+		Time:	13.06.2025 08:05:12 until 14.06.2025 12:26:56
+		Duration:	1.04:21:44
+		Location:	41.89186 -87.60766
+
+	VICY5
+		Images:	226
+		Time:	14.06.2025 11:29:34 until 14.06.2025 11:41:30
+		Duration:	00:11:56
+		Location:	41.89186 -87.60766
+
+(8) - General Pictures
+	GIP1
+		Images:	385
+		Time:	14.06.2025 14:36:10 until 14.06.2025 15:52:17
+		Duration:	01:16:07
+		Location:	41.89186 -87.60766
+
+	MAT1
+	VICY6
+		Images:	551
+		Time:	14.06.2025 07:26:48 until 14.06.2025 08:29:15
+		Duration:	01:02:27
+		Location:	41.89186 -87.60766
+
+(9) - Station 2 Sled Push
+	GIP2
+		Images:	285
+		Time:	14.06.2025 13:32:47 until 14.06.2025 13:45:58
+		Duration:	00:13:11
+		Location:	41.89186 -87.60766
+
+	JBB2
+		Images:	2546
+		Time:	14.06.2025 12:35:30 until 14.06.2025 16:12:07
+		Duration:	03:36:37
+		Location:	41.89186 -87.60766
+
+	LIT1
+		Images:	1104
+		Time:	14.06.2025 08:14:17 until 14.06.2025 12:28:57
+		Duration:	04:14:40
+		Location:	41.89186 -87.60766
+
+	MAT2
+		Images:	286
+		Time:	14.06.2025 09:28:10 until 14.06.2025 13:46:22
+		Duration:	04:18:12
+		Location:	41.89186 -87.60766
+
+	PEC2
+		Images:	997
+		Time:	14.06.2025 13:13:54 until 14.06.2025 16:28:54
+		Duration:	03:15:00
+		Location:	41.89186 -87.60766
+
+	VICY1
+		Images:	752
+		Time:	13.06.2025 07:18:54 until 14.06.2025 10:02:48
+		Duration:	1.02:43:54
+		Location:	41.89186 -87.60766
+
+(10) - Elite 15 Doubles
+	GIP7
+		Images:	3782
+		Time:	14.06.2025 18:51:10 until 14.06.2025 21:22:16
+		Duration:	02:31:06
+		Location:	41.89186 -87.60766
+
+	MAT9
+		Images:	834
+		Time:	14.06.2025 19:04:24 until 14.06.2025 21:19:22
+		Duration:	02:14:58
+		Location:	41.89186 -87.60766
+
+(11) - Medalwall
+	MAT8
+		Images:	282
+		Time:	14.06.2025 11:58:44 until 14.06.2025 16:20:06
+		Duration:	04:21:22
+		Location:	41.89186 -87.60766
+
+	SCOT1
+		Images:	3596
+		Time:	14.06.2025 07:32:02 until 14.06.2025 17:38:17
+		Duration:	10:06:15
+		Location:	41.89186 -87.60766
+
+(12) - Run
+	SAM1LS1
+		Images:	2570
+		Time:	14.06.2025 08:09:51 until 14.06.2025 16:24:52
+		Duration:	08:15:01
+		Location:	41.89186 -87.60766
+

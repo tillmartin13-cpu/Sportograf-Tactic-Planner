@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "44.88885" lon = "-0.58049"><name>GGA1</name><desc>Station 1 SKIERG
+Images:6553
+First:20.11.2025 06:44:51
+Last:23.11.2025 14:01:07
+Duration:3.07:16:16
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>ATRE1</name><desc>Station 1 SKIERG
+Images:3234
+First:20.10.2025 08:09:39
+Last:23.11.2025 13:59:09
+Duration:34.05:49:30
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>JDU1</name><desc>Station 1 SKIERG
+Images:7698
+First:23.11.2025 07:04:44
+Last:23.11.2025 13:59:44
+Duration:06:55:00
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>MAAU2</name><desc>Station 1 SKIERG
+Images:3789
+First:23.11.2025 14:17:58
+Last:23.11.2025 18:25:30
+Duration:04:07:32
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>MAI2</name><desc>Station 1 SKIERG
+Images:31891
+First:23.11.2025 14:15:33
+Last:23.11.2025 18:27:21
+Duration:04:11:48
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>JIA2</name><desc>Station 1 SKIERG
+Images:2581
+First:23.11.2025 14:16:05
+Last:23.11.2025 18:33:10
+Duration:04:17:05
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>TGM4</name><desc>Station 1 SKIERG
+Images:36
+First:23.11.2025 07:03:58
+Last:23.11.2025 07:06:27
+Duration:00:02:29
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>AIS1</name><desc>Station 2 SLED PUSH
+Images:6002
+First:20.11.2025 06:53:48
+Last:23.11.2025 14:11:45
+Duration:3.07:17:57
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>AFA1</name><desc>Station 2 SLED PUSH
+Images:2781
+First:23.11.2025 07:06:52
+Last:23.11.2025 14:13:45
+Duration:07:06:53
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>JIA1</name><desc>Station 2 SLED PUSH
+Images:3576
+First:23.11.2025 06:45:10
+Last:23.11.2025 13:57:31
+Duration:07:12:21
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>JCR2</name><desc>Station 2 SLED PUSH
+Images:4545
+First:23.11.2025 14:15:46
+Last:23.11.2025 18:47:07
+Duration:04:31:21
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>JI2</name><desc>Station 2 SLED PUSH
+Images:5254
+First:23.11.2025 14:13:12
+Last:23.11.2025 18:50:37
+Duration:04:37:25
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>RAVE2</name><desc>Station 2 SLED PUSH
+Images:9146
+First:20.11.2025 15:15:17
+Last:23.11.2025 18:46:24
+Duration:3.03:31:07
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>JLTG1LS1</name><desc>SMILE ARCH
+Images:6342
+First:23.11.2025 06:28:10
+Last:23.11.2025 19:08:12
+Duration:12:40:02
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>JLTG1LS2</name><desc>SMILE ARCH
+Images:5455
+First:23.11.2025 06:41:04
+Last:23.11.2025 19:07:54
+Duration:12:26:50
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>JRD1</name><desc>Station 3 SLED PULL
+Images:3489
+First:20.11.2025 06:36:46
+Last:23.11.2025 13:46:54
+Duration:3.07:10:08
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>MAAU1</name><desc>Station 3 SLED PULL
+Images:7256
+First:23.11.2025 06:59:40
+Last:23.11.2025 14:02:35
+Duration:07:02:55
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>IBLA1</name><desc>Station 3 SLED PULL
+Images:5462
+First:20.11.2025 14:12:34
+Last:23.11.2025 14:15:51
+Duration:3.00:03:17
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>GGA2</name><desc>Station 3 SLED PULL
+Images:3322
+First:23.11.2025 14:10:12
+Last:23.11.2025 19:08:19
+Duration:04:58:07
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>ATRE2</name><desc>Station 3 SLED PULL
+Images:1957
+First:23.11.2025 14:08:29
+Last:23.11.2025 19:00:35
+Duration:04:52:06
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>JDU2</name><desc>Station 3 SLED PULL
+Images:5486
+First:23.11.2025 14:05:28
+Last:23.11.2025 19:04:26
+Duration:04:58:58
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>TGM5</name><desc>Station 3 SLED PULL
+Images:131
+First:23.11.2025 13:50:59
+Last:23.11.2025 14:06:18
+Duration:00:15:19
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>JI1</name><desc>Station 5 ROWING
+Images:17248
+First:23.11.2025 07:27:33
+Last:23.11.2025 14:00:38
+Duration:06:33:05
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>MAI1</name><desc>Station 5 ROWING
+Images:22356
+First:23.11.2025 07:28:24
+Last:23.11.2025 14:08:21
+Duration:06:39:57
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>AIS2</name><desc>Station 5 ROWING
+Images:11004
+First:23.11.2025 14:16:27
+Last:23.11.2025 19:30:18
+Duration:05:13:51
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>IBLA2</name><desc>Station 5 ROWING
+Images:8296
+First:23.11.2025 14:09:57
+Last:23.11.2025 19:09:02
+Duration:04:59:05
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>JLTG1</name><desc>Station 5 ROWING
+Images:1675
+First:20.11.2025 08:28:00
+Last:23.11.2025 14:59:39
+Duration:3.06:31:39
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>TGM1</name><desc>Station 5 ROWING
+Images:2099
+First:21.11.2025 07:37:46
+Last:23.11.2025 18:03:20
+Duration:2.10:25:34
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>MANR1LS1</name><desc>Station 6 FARMER CARRY
+Images:7024
+First:23.11.2025 06:35:44
+Last:23.11.2025 19:44:44
+Duration:13:09:00
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>JCR1</name><desc>Station 7 SANDBAG LUNGES
+Images:5554
+First:21.11.2025 06:51:46
+Last:23.11.2025 14:07:37
+Duration:2.07:15:51
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>RAVE1</name><desc>Station 7 SANDBAG LUNGES
+Images:13557
+First:20.11.2025 12:46:15
+Last:23.11.2025 13:53:02
+Duration:3.01:06:47
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>JRD2</name><desc>Station 7 SANDBAG LUNGES
+Images:5229
+First:23.11.2025 13:54:07
+Last:23.11.2025 19:49:42
+Duration:05:55:35
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>AFA2</name><desc>Station 7 SANDBAG LUNGES
+Images:7060
+First:23.11.2025 14:14:46
+Last:23.11.2025 19:42:28
+Duration:05:27:42
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>JLTG2</name><desc>Station 7 SANDBAG LUNGES
+Images:3296
+First:23.11.2025 12:34:25
+Last:23.11.2025 16:32:32
+Duration:03:58:07
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>LULE1</name><desc>Station 8 WALL BALLS
+Images:9383
+First:20.11.2025 13:37:09
+Last:23.11.2025 14:05:36
+Duration:3.00:28:27
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>MIFP1</name><desc>Station 8 WALL BALLS
+Images:5609
+First:20.11.2025 07:32:36
+Last:23.11.2025 13:12:28
+Duration:3.05:39:52
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>AFGA2</name><desc>Station 8 WALL BALLS
+Images:2251
+First:23.11.2025 14:03:41
+Last:23.11.2025 19:55:58
+Duration:05:52:17
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>GUF2</name><desc>Station 8 WALL BALLS
+Images:5313
+First:23.11.2025 14:09:23
+Last:23.11.2025 20:10:30
+Duration:06:01:07
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>JLTG3</name><desc>Station 8 WALL BALLS
+Images:536
+First:21.11.2025 08:43:49
+Last:23.11.2025 19:18:11
+Duration:2.10:34:22
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>TGM3</name><desc>Station 8 WALL BALLS
+Images:2054
+First:23.11.2025 10:34:31
+Last:23.11.2025 19:13:50
+Duration:08:39:19
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>GUF1</name><desc>Finish
+Images:6553
+First:20.11.2025 07:18:05
+Last:23.11.2025 14:05:22
+Duration:3.06:47:17
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>LULE2</name><desc>Finish
+Images:12901
+First:23.11.2025 14:06:14
+Last:23.11.2025 20:03:02
+Duration:05:56:48
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>TGM1LS2</name><desc>Finish
+Images:3465
+First:23.11.2025 06:36:10
+Last:23.11.2025 19:56:12
+Duration:13:20:02
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>JLTG4</name><desc>Finish
+Images:191
+First:23.11.2025 16:54:09
+Last:23.11.2025 17:11:37
+Duration:00:17:28
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>TGM1LS1</name><desc>Finish
+Images:3559
+First:23.11.2025 06:32:48
+Last:23.11.2025 19:59:09
+Duration:13:26:21
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>AFGA1</name><desc>Medalwall
+Images:2561
+First:21.11.2025 07:17:05
+Last:23.11.2025 13:56:47
+Duration:2.06:39:42
+</desc></wpt>
+<wpt lat = "44.88885" lon = "-0.58049"><name>MIFP2</name><desc>Medalwall
+Images:3393
+First:23.11.2025 13:54:48
+Last:23.11.2025 20:08:51
+Duration:06:14:03
+</desc></wpt>
+</gpx>

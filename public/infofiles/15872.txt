@@ -1,0 +1,316 @@
+EventId: 15872
+Spots: 51
+Total Images: 117646
+Time:	26.04.2025 07:46:46 to 27.04.2025 16:57:35
+Duration: 1.09:10:49
+
+(1) - Finish
+	BMY2
+		Images:	4185
+		Time:	27.04.2025 12:20:42 until 27.04.2025 16:57:35
+		Duration:	04:36:53
+		Location:	33.76083 -84.40228
+
+	LEOD1
+		Images:	1975
+		Time:	27.04.2025 08:16:57 until 27.04.2025 11:51:01
+		Duration:	03:34:04
+		Location:	33.76083 -84.40228
+
+	CCZ5
+		Images:	1613
+		Time:	27.04.2025 08:58:19 until 27.04.2025 14:17:59
+		Duration:	05:19:40
+		Location:	33.76083 -84.40228
+
+	DANG1LS1
+		Images:	2413
+		Time:	27.04.2025 08:44:48 until 27.04.2025 16:02:58
+		Duration:	07:18:10
+		Location:	33.76083 -84.40228
+
+	MAT1LS1
+		Images:	2605
+		Time:	27.04.2025 08:44:03 until 27.04.2025 16:02:57
+		Duration:	07:18:54
+		Location:	33.76083 -84.40228
+
+(2) - Medalwall
+	AKT2
+		Images:	2649
+		Time:	26.04.2025 15:46:21 until 27.04.2025 16:55:53
+		Duration:	1.01:09:32
+		Location:	33.76083 -84.40228
+
+	VAR1
+		Images:	621
+		Time:	27.04.2025 09:02:36 until 27.04.2025 11:31:43
+		Duration:	02:29:07
+		Location:	33.76083 -84.40228
+
+	BMY1
+		Images:	1083
+		Time:	27.04.2025 08:17:36 until 27.04.2025 12:19:06
+		Duration:	04:01:30
+		Location:	33.76083 -84.40228
+
+	MAT2
+		Images:	427
+		Time:	27.04.2025 09:52:30 until 27.04.2025 10:24:02
+		Duration:	00:31:32
+		Location:	33.76083 -84.40228
+
+	BICI2
+		Images:	1435
+		Time:	27.04.2025 11:52:55 until 27.04.2025 16:30:11
+		Duration:	04:37:16
+		Location:	33.76083 -84.40228
+
+(3) - Station 1 SKIERG
+	BICI1
+		Images:	3339
+		Time:	27.04.2025 08:03:16 until 27.04.2025 11:37:43
+		Duration:	03:34:27
+		Location:	33.76083 -84.40228
+
+	DANM2
+	DANG1
+		Images:	3193
+		Time:	27.04.2025 08:03:32 until 27.04.2025 11:38:27
+		Duration:	03:34:55
+		Location:	33.76083 -84.40228
+
+	ROOT2
+		Images:	6676
+		Time:	27.04.2025 11:39:03 until 27.04.2025 15:06:34
+		Duration:	03:27:31
+		Location:	33.76083 -84.40228
+
+	VAR2
+		Images:	1408
+		Time:	27.04.2025 12:04:07 until 27.04.2025 15:07:44
+		Duration:	03:03:37
+		Location:	33.76083 -84.40228
+
+	NIJA1
+		Images:	4749
+		Time:	27.04.2025 08:04:08 until 27.04.2025 11:38:14
+		Duration:	03:34:06
+		Location:	33.76083 -84.40228
+
+(4) - Station 2 SLED PUSH
+	SAMT2
+		Images:	742
+		Time:	26.04.2025 18:39:54 until 27.04.2025 15:14:29
+		Duration:	20:34:35
+		Location:	33.76083 -84.40228
+
+	BRB1
+		Images:	2567
+		Time:	26.04.2025 07:52:47 until 27.04.2025 11:52:41
+		Duration:	1.03:59:54
+		Location:	33.76083 -84.40228
+
+	DEHA1
+		Images:	1800
+		Time:	27.04.2025 08:09:33 until 27.04.2025 11:48:13
+		Duration:	03:38:40
+		Location:	33.76083 -84.40228
+
+	MAPM2
+		Images:	1400
+		Time:	27.04.2025 12:08:59 until 27.04.2025 15:14:41
+		Duration:	03:05:42
+		Location:	33.76083 -84.40228
+
+	MAT1
+		Images:	485
+		Time:	27.04.2025 09:14:57 until 27.04.2025 09:29:07
+		Duration:	00:14:10
+		Location:	33.76083 -84.40228
+
+	MSK2
+		Images:	1384
+		Time:	27.04.2025 12:15:16 until 27.04.2025 15:14:32
+		Duration:	02:59:16
+		Location:	33.76083 -84.40228
+
+	SAM1
+		Images:	1154
+		Time:	27.04.2025 09:14:56 until 27.04.2025 13:37:58
+		Duration:	04:23:02
+		Location:	33.76083 -84.40228
+
+	TAT1
+		Images:	2875
+		Time:	27.04.2025 08:12:20 until 27.04.2025 11:52:25
+		Duration:	03:40:05
+		Location:	33.76083 -84.40228
+
+(5) - Station 3 SLED PULL
+	SAMT1
+		Images:	1106
+		Time:	26.04.2025 08:01:16 until 27.04.2025 12:02:07
+		Duration:	1.04:00:51
+		Location:	33.76083 -84.40228
+
+	DEHA2
+		Images:	1113
+		Time:	27.04.2025 12:09:24 until 27.04.2025 15:25:48
+		Duration:	03:16:24
+		Location:	33.76083 -84.40228
+
+	SAM2
+		Images:	2224
+		Time:	27.04.2025 09:49:43 until 27.04.2025 14:14:14
+		Duration:	04:24:31
+		Location:	33.76083 -84.40228
+
+	WILM2
+		Images:	1572
+		Time:	27.04.2025 12:20:23 until 27.04.2025 15:25:48
+		Duration:	03:05:25
+		Location:	33.76083 -84.40228
+
+	CCZ6
+		Images:	834
+		Time:	27.04.2025 09:51:45 until 27.04.2025 10:16:50
+		Duration:	00:25:05
+		Location:	33.76083 -84.40228
+
+	AWD2
+		Images:	432
+		Time:	27.04.2025 11:59:52 until 27.04.2025 15:25:31
+		Duration:	03:25:39
+		Location:	33.76083 -84.40228
+
+	CHIT1
+		Images:	2248
+		Time:	26.04.2025 08:10:35 until 27.04.2025 12:00:16
+		Duration:	1.03:49:41
+		Location:	33.76083 -84.40228
+
+	DANM1
+		Images:	6757
+		Time:	27.04.2025 08:17:51 until 27.04.2025 11:56:23
+		Duration:	03:38:32
+		Location:	33.76083 -84.40228
+
+(6) - Station 5 ROWING
+	BRB2
+		Images:	2492
+		Time:	27.04.2025 11:59:57 until 27.04.2025 16:02:35
+		Duration:	04:02:38
+		Location:	33.76083 -84.40228
+
+	MAPM1
+		Images:	3869
+		Time:	26.04.2025 07:56:50 until 27.04.2025 12:04:37
+		Duration:	1.04:07:47
+		Location:	33.76083 -84.40228
+
+	TAT2
+		Images:	5432
+		Time:	27.04.2025 12:08:19 until 27.04.2025 15:49:54
+		Duration:	03:41:35
+		Location:	33.76083 -84.40228
+
+	CCZ3
+		Images:	648
+		Time:	27.04.2025 10:24:57 until 27.04.2025 14:52:51
+		Duration:	04:27:54
+		Location:	33.76083 -84.40228
+
+	MSK1
+		Images:	3131
+		Time:	27.04.2025 08:09:58 until 27.04.2025 11:56:00
+		Duration:	03:46:02
+		Location:	33.76083 -84.40228
+
+	SAM3
+		Images:	1346
+		Time:	27.04.2025 10:24:02 until 27.04.2025 15:17:04
+		Duration:	04:53:02
+		Location:	33.76083 -84.40228
+
+(7) - Station 6 FARMERS CARRY
+	SAM1LS1
+		Images:	3763
+		Time:	27.04.2025 08:22:19 until 27.04.2025 16:09:40
+		Duration:	07:47:21
+		Location:	33.76083 -84.40228
+
+(8) - Station 7 SANDBAG LUNGES
+	CCZ7
+		Images:	59
+		Time:	27.04.2025 15:13:13 until 27.04.2025 15:17:01
+		Duration:	00:03:48
+		Location:	33.76083 -84.40228
+
+	AWD1
+		Images:	1008
+		Time:	26.04.2025 08:41:39 until 27.04.2025 11:50:21
+		Duration:	1.03:08:42
+		Location:	33.76083 -84.40228
+
+	LEOD2
+		Images:	3190
+		Time:	27.04.2025 11:52:03 until 27.04.2025 16:28:05
+		Duration:	04:36:02
+		Location:	33.76083 -84.40228
+
+	CHIT2
+		Images:	3084
+		Time:	27.04.2025 12:09:48 until 27.04.2025 16:21:47
+		Duration:	04:11:59
+		Location:	33.76083 -84.40228
+
+	MAT3
+		Images:	1163
+		Time:	27.04.2025 10:24:44 until 27.04.2025 15:10:33
+		Duration:	04:45:49
+		Location:	33.76083 -84.40228
+
+	WILM1
+		Images:	3784
+		Time:	27.04.2025 08:39:07 until 27.04.2025 12:07:59
+		Duration:	03:28:52
+		Location:	33.76083 -84.40228
+
+(9) - Station 8 WALL BALLS
+	AKT1
+		Images:	2232
+		Time:	26.04.2025 07:51:54 until 27.04.2025 10:58:50
+		Duration:	1.03:06:56
+		Location:	33.76083 -84.40228
+
+	NIJA2
+		Images:	3896
+		Time:	27.04.2025 11:51:11 until 27.04.2025 16:54:53
+		Duration:	05:03:42
+		Location:	33.76083 -84.40228
+
+	DANG2
+		Images:	3840
+		Time:	27.04.2025 11:47:53 until 27.04.2025 16:42:07
+		Duration:	04:54:14
+		Location:	33.76083 -84.40228
+
+	ROOT1
+		Images:	4736
+		Time:	27.04.2025 08:23:49 until 27.04.2025 11:00:26
+		Duration:	02:36:37
+		Location:	33.76083 -84.40228
+
+	SAM4
+		Images:	1720
+		Time:	27.04.2025 10:58:46 until 27.04.2025 16:04:39
+		Duration:	05:05:53
+		Location:	33.76083 -84.40228
+
+	CCZ4
+		Images:	1177
+		Time:	27.04.2025 11:00:56 until 27.04.2025 16:04:39
+		Duration:	05:03:43
+		Location:	33.76083 -84.40228
+

@@ -1,0 +1,48 @@
+EventId: 13383
+Spots: 7
+Total Images: 31088
+Time:	09.11.2024 06:16:19 to 09.11.2024 13:06:14
+Duration: 06:49:55
+
+(1) - 0.0 km FIN trigger
+	AUTO1
+		Images:	6404
+		Time:	09.11.2024 08:07:11 until 09.11.2024 10:53:08
+		Duration:	02:45:57
+		Location:	NULL NULL
+
+(2) - 0.0 km Michael-PR
+	MSK2
+		Images:	16
+		Time:	09.11.2024 11:55:04 until 09.11.2024 11:58:16
+		Duration:	00:03:12
+		Location:	NULL NULL
+
+(3) - 0.0 km PreFIN trigger
+	AUTO2
+		Images:	6655
+		Time:	09.11.2024 10:13:44 until 09.11.2024 12:53:04
+		Duration:	02:39:20
+		Location:	NULL NULL
+
+(4) - Impressions / Pano
+	PANO1
+(5) - none
+	MEGYN1
+		Images:	1380
+		Time:	09.11.2024 06:16:19 until 09.11.2024 09:09:39
+		Duration:	02:53:20
+		Location:	NULL NULL
+
+	MSK1
+		Images:	6598
+		Time:	09.11.2024 09:34:35 until 09.11.2024 12:07:28
+		Duration:	02:32:53
+		Location:	NULL NULL
+
+	TOBY1
+		Images:	10035
+		Time:	09.11.2024 10:48:49 until 09.11.2024 13:06:14
+		Duration:	02:17:25
+		Location:	NULL NULL
+

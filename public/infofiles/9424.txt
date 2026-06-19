@@ -1,0 +1,392 @@
+EventId: 9424
+Spots: 62
+Total Images: 264832
+Time:	31.12.2012 23:00:09 to 04.11.2023 22:19:08
+Duration: 3959.23:18:59
+
+(1) - Finish
+	AALN7
+		Images:	91
+		Time:	04.11.2023 10:05:35 until 04.11.2023 10:11:14
+		Duration:	00:05:39
+		Location:	52.34341 4.88657
+
+	ALV7
+		Images:	115
+		Time:	04.11.2023 16:00:16 until 04.11.2023 16:33:12
+		Duration:	00:32:56
+		Location:	52.34341 4.88657
+
+	AST1
+		Images:	11886
+		Time:	04.11.2023 07:52:52 until 04.11.2023 15:20:26
+		Duration:	07:27:34
+		Location:	52.34341 4.88657
+
+	BPBO1
+		Images:	2051
+		Time:	04.11.2023 14:24:03 until 04.11.2023 21:24:41
+		Duration:	07:00:38
+		Location:	52.34341 4.88657
+
+	BRM1LS1
+		Images:	7412
+		Time:	04.11.2023 07:09:18 until 04.11.2023 20:11:56
+		Duration:	13:02:38
+		Location:	52.34341 4.88657
+
+	BST1LS1
+		Images:	6200
+		Time:	04.11.2023 08:15:53 until 04.11.2023 21:22:05
+		Duration:	13:06:12
+		Location:	52.34341 4.88657
+
+(2) - Impressions / Pano
+	AALN8IMP1
+		Images:	211
+		Time:	04.11.2023 07:56:59 until 04.11.2023 11:23:08
+		Duration:	03:26:09
+		Location:	52.34341 4.88657
+
+	BLV1
+		Images:	322
+		Time:	04.11.2023 19:08:31 until 04.11.2023 20:14:47
+		Duration:	01:06:16
+		Location:	52.34341 4.88657
+
+	BMK10
+		Images:	115
+		Time:	04.11.2023 08:49:18 until 04.11.2023 13:52:24
+		Duration:	05:03:06
+		Location:	52.34341 4.88657
+
+	PANO1
+		Images:	3
+		Time:	04.11.2023 08:50:56 until 04.11.2023 08:51:41
+		Duration:	00:00:45
+		Location:	52.34341 4.88657
+
+(3) - Medalwall
+	AALN8
+		Images:	175
+		Time:	04.11.2023 18:11:45 until 04.11.2023 18:20:09
+		Duration:	00:08:24
+		Location:	52.34341 4.88657
+
+	AJOS1
+		Images:	2393
+		Time:	04.11.2023 07:57:15 until 04.11.2023 14:06:00
+		Duration:	06:08:45
+		Location:	52.34341 4.88657
+
+	BBAR1
+		Images:	2251
+		Time:	01.01.2014 00:00:01 until 04.11.2023 21:28:33
+		Duration:	3594.21:28:32
+		Location:	52.34341 4.88657
+
+(4) - Run LAPS
+	AMK1LS1
+		Images:	22975
+		Time:	04.11.2023 07:57:35 until 04.11.2023 20:58:09
+		Duration:	13:00:34
+		Location:	52.34341 4.88657
+
+(5) - Run RUN IN
+	AALN1LS1
+		Images:	14817
+		Time:	04.11.2023 06:46:19 until 04.11.2023 15:07:21
+		Duration:	08:21:02
+		Location:	52.34341 4.88657
+
+(6) - Station 0 FARMERS CARRY
+	BLV1LS1
+		Images:	3662
+		Time:	31.12.2012 23:00:09 until 04.11.2023 20:34:05
+		Duration:	3959.21:33:56
+		Location:	52.34341 4.88657
+
+	BLV1LS2
+		Images:	5828
+		Time:	04.11.2023 06:37:54 until 04.11.2023 20:37:35
+		Duration:	13:59:41
+		Location:	52.34341 4.88657
+
+(7) - Station 0 RUN IN
+	BALN1LS1
+		Images:	7673
+		Time:	04.11.2023 15:28:48 until 04.11.2023 20:13:53
+		Duration:	04:45:05
+		Location:	52.34341 4.88657
+
+(8) - Station 1 SKIERG
+	AALN1
+		Images:	2015
+		Time:	04.11.2023 09:05:58 until 04.11.2023 18:39:38
+		Duration:	09:33:40
+		Location:	52.34339 4.88652
+
+	ALMC1
+		Images:	11634
+		Time:	04.11.2023 07:29:37 until 04.11.2023 15:18:25
+		Duration:	07:48:48
+		Location:	52.34339 4.88652
+
+	ALUGR1
+		Images:	2347
+		Time:	04.11.2023 07:03:42 until 04.11.2023 14:18:18
+		Duration:	07:14:36
+		Location:	52.34339 4.88652
+
+	ALV1
+		Images:	394
+		Time:	04.11.2023 07:06:43 until 04.11.2023 14:29:50
+		Duration:	07:23:07
+		Location:	52.34339 4.88652
+
+	BALN1
+		Images:	1300
+		Time:	04.11.2023 18:41:19 until 04.11.2023 19:47:42
+		Duration:	01:06:23
+		Location:	52.34341 4.88657
+
+	BMABR1
+		Images:	6733
+		Time:	04.11.2023 14:43:17 until 04.11.2023 19:46:58
+		Duration:	05:03:41
+		Location:	52.34341 4.88657
+
+	BMK1
+		Images:	107
+		Time:	04.11.2023 09:13:57 until 04.11.2023 17:39:20
+		Duration:	08:25:23
+		Location:	52.34341 4.88657
+
+	BRM1
+		Images:	12459
+		Time:	04.11.2023 14:27:15 until 04.11.2023 19:48:03
+		Duration:	05:20:48
+		Location:	52.34341 4.88657
+
+(9) - Station 2 SLED PUSH
+	AALN2
+		Images:	168
+		Time:	04.11.2023 08:13:21 until 04.11.2023 09:27:06
+		Duration:	01:13:45
+		Location:	52.34339 4.88652
+
+	AKSA1
+		Images:	3384
+		Time:	04.11.2023 06:46:32 until 04.11.2023 14:19:50
+		Duration:	07:33:18
+		Location:	52.34339 4.88652
+
+	ALV2
+		Images:	825
+		Time:	04.11.2023 07:13:54 until 04.11.2023 16:46:46
+		Duration:	09:32:52
+		Location:	52.34339 4.88652
+
+	AOT1
+		Images:	6972
+		Time:	30.09.2023 21:34:46 until 04.11.2023 14:23:47
+		Duration:	34.16:49:01
+		Location:	52.34339 4.88652
+
+	BALN2
+		Images:	21
+		Time:	04.11.2023 20:44:47 until 04.11.2023 20:46:11
+		Duration:	00:01:24
+		Location:	52.34341 4.88657
+
+	BLMC1
+		Images:	4275
+		Time:	04.11.2023 15:22:46 until 04.11.2023 21:02:23
+		Duration:	05:39:37
+		Location:	52.34341 4.88657
+
+	BLUGR1
+		Images:	2269
+		Time:	04.11.2023 14:25:20 until 04.11.2023 20:00:10
+		Duration:	05:34:50
+		Location:	52.34341 4.88657
+
+	BMK2
+		Images:	1343
+		Time:	04.11.2023 07:12:34 until 04.11.2023 14:59:35
+		Duration:	07:47:01
+		Location:	52.34341 4.88657
+
+(10) - Station 3 SLED PULL
+	ALV3
+		Images:	1229
+		Time:	04.11.2023 07:17:23 until 04.11.2023 15:48:04
+		Duration:	08:30:41
+		Location:	52.34341 4.88657
+
+	AMAW1
+		Images:	10396
+		Time:	04.11.2023 06:27:10 until 04.11.2023 14:30:07
+		Duration:	08:02:57
+		Location:	52.34341 4.88657
+
+	ATID1
+		Images:	3783
+		Time:	04.11.2023 07:36:05 until 04.11.2023 15:24:55
+		Duration:	07:48:50
+		Location:	52.34341 4.88657
+
+	BALN3
+		Images:	254
+		Time:	04.11.2023 20:29:11 until 04.11.2023 20:46:53
+		Duration:	00:17:42
+		Location:	52.34341 4.88657
+
+	BMK3
+		Images:	1248
+		Time:	04.11.2023 07:19:29 until 04.11.2023 17:44:15
+		Duration:	10:24:46
+		Location:	52.34341 4.88657
+
+	BSJA1
+		Images:	4806
+		Time:	04.11.2023 15:31:22 until 04.11.2023 21:17:13
+		Duration:	05:45:51
+		Location:	52.34341 4.88657
+
+	BST1
+		Images:	11377
+		Time:	04.11.2023 14:34:45 until 04.11.2023 20:13:31
+		Duration:	05:38:46
+		Location:	52.34341 4.88657
+
+(11) - Station 4 BURPEE ROAD
+	AMK1
+		Images:	367
+		Time:	04.11.2023 07:27:17 until 04.11.2023 17:38:27
+		Duration:	10:11:10
+		Location:	52.34341 4.88657
+
+(12) - Station 5 ROWING
+	AALN4
+		Images:	4506
+		Time:	04.11.2023 08:25:27 until 04.11.2023 16:47:19
+		Duration:	08:21:52
+		Location:	52.34341 4.88657
+
+	ALV4
+		Images:	377
+		Time:	04.11.2023 07:33:13 until 04.11.2023 07:55:05
+		Duration:	00:21:52
+		Location:	52.34341 4.88657
+
+	AMBEN1
+		Images:	6497
+		Time:	04.11.2023 08:23:19 until 04.11.2023 15:21:28
+		Duration:	06:58:09
+		Location:	52.34341 4.88657
+
+	ASJA1
+		Images:	4109
+		Time:	04.11.2023 07:36:57 until 04.11.2023 15:21:07
+		Duration:	07:44:10
+		Location:	52.34341 4.88657
+
+	BKSA1
+		Images:	2799
+		Time:	04.11.2023 14:25:10 until 04.11.2023 20:38:30
+		Duration:	06:13:20
+		Location:	52.34341 4.88657
+
+	BMK5
+		Images:	16
+		Time:	04.11.2023 09:20:13 until 04.11.2023 09:20:42
+		Duration:	00:00:29
+		Location:	52.34341 4.88657
+
+	BOT1
+		Images:	3982
+		Time:	04.11.2023 14:25:16 until 04.11.2023 20:29:34
+		Duration:	06:04:18
+		Location:	52.34341 4.88657
+
+(13) - Station 7 SANDBAG LUNGES
+	ABAR1
+		Images:	2567
+		Time:	03.11.2023 21:36:29 until 04.11.2023 13:54:36
+		Duration:	16:18:07
+		Location:	52.34341 4.88657
+
+	ALV5
+		Images:	1942
+		Time:	04.11.2023 08:02:12 until 04.11.2023 19:07:29
+		Duration:	11:05:17
+		Location:	52.34341 4.88657
+
+	APBO1
+		Images:	3153
+		Time:	04.11.2023 05:00:52 until 04.11.2023 14:15:00
+		Duration:	09:14:08
+		Location:	52.34341 4.88657
+
+	BJOS1
+		Images:	5532
+		Time:	04.11.2023 14:23:25 until 04.11.2023 21:08:51
+		Duration:	06:45:26
+		Location:	52.34341 4.88657
+
+	BMBEN1
+		Images:	6552
+		Time:	04.11.2023 15:27:07 until 04.11.2023 22:03:39
+		Duration:	06:36:32
+		Location:	52.34341 4.88657
+
+	BMK6
+		Images:	1154
+		Time:	04.11.2023 11:51:53 until 04.11.2023 17:32:38
+		Duration:	05:40:45
+		Location:	52.34341 4.88657
+
+(14) - Station 8 WALL BALLS
+	AALN6
+		Images:	4747
+		Time:	04.11.2023 09:55:15 until 04.11.2023 17:27:49
+		Duration:	07:32:34
+		Location:	52.34341 4.88657
+
+	ALV6
+		Images:	87
+		Time:	04.11.2023 08:19:59 until 04.11.2023 08:28:49
+		Duration:	00:08:50
+		Location:	52.34341 4.88657
+
+	AMABR1
+		Images:	7085
+		Time:	04.11.2023 06:37:38 until 04.11.2023 14:33:54
+		Duration:	07:56:16
+		Location:	52.34341 4.88657
+
+	ARM1
+		Images:	9990
+		Time:	04.11.2023 07:18:10 until 04.11.2023 14:20:59
+		Duration:	07:02:49
+		Location:	52.34341 4.88657
+
+	BALN4
+		Images:	650
+		Time:	04.11.2023 20:47:28 until 04.11.2023 21:07:54
+		Duration:	00:20:26
+		Location:	52.34341 4.88657
+
+	BMW1
+		Images:	17558
+		Time:	04.11.2023 14:43:14 until 04.11.2023 21:20:20
+		Duration:	06:37:06
+		Location:	52.34341 4.88657
+
+	BTID1
+		Images:	3643
+		Time:	04.11.2023 15:37:46 until 04.11.2023 22:19:08
+		Duration:	06:41:22
+		Location:	52.34341 4.88657
+

@@ -1,0 +1,37 @@
+EventId: 1977
+Spots: 5
+Total Images: 29747
+Time:	25.05.2024 09:29:43 to 25.05.2024 16:15:43
+Duration: 06:46:00
+
+(1) - none
+	S0TT1HAND1N2141
+		Images:	5466
+		Time:	25.05.2024 11:40:38 until 25.05.2024 16:15:43
+		Duration:	04:35:05
+		Location:	NULL NULL
+
+	S0TT2HAND1N2141
+		Images:	4535
+		Time:	25.05.2024 09:29:43 until 25.05.2024 15:06:50
+		Duration:	05:37:07
+		Location:	NULL NULL
+
+	S0TT3HAND1N2141
+		Images:	9056
+		Time:	25.05.2024 10:57:32 until 25.05.2024 15:53:18
+		Duration:	04:55:46
+		Location:	NULL NULL
+
+	S0TT4HAND1N2141
+		Images:	6928
+		Time:	25.05.2024 11:46:48 until 25.05.2024 15:43:44
+		Duration:	03:56:56
+		Location:	NULL NULL
+
+	S0TT5HAND1N2141
+		Images:	3762
+		Time:	25.05.2024 10:51:08 until 25.05.2024 15:03:16
+		Duration:	04:12:08
+		Location:	NULL NULL
+

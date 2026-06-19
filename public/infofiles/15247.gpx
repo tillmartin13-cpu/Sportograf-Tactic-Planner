@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "50.68913" lon = "6.47875"><name>ROC1</name><desc>Start
+Images:749
+First:12.04.2025 08:27:10
+Last:12.04.2025 13:46:36
+Duration:05:19:26
+</desc></wpt>
+<wpt lat = "50.68841" lon = "6.47584"><name>OP1</name><desc>0.9 km
+Images:718
+First:12.04.2025 09:03:47
+Last:12.04.2025 09:13:05
+Duration:00:09:18
+</desc></wpt>
+<wpt lat = "50.68841" lon = "6.47584"><name>OP1LS1</name><desc>0.9 km
+Images:338
+First:12.04.2025 08:24:38
+Last:12.04.2025 09:21:55
+Duration:00:57:17
+</desc></wpt>
+<wpt lat = "50.68806" lon = "6.47665"><name>MAW1</name><desc>1.0 km
+Images:726
+First:12.04.2025 08:19:56
+Last:12.04.2025 09:11:28
+Duration:00:51:32
+</desc></wpt>
+<wpt lat = "50.68806" lon = "6.47665"><name>MAW1IMP1</name><desc>1.0 km
+Images:15
+First:12.04.2025 09:20:38
+Last:12.04.2025 10:32:32
+Duration:01:11:54
+</desc></wpt>
+<wpt lat = "50.68806" lon = "6.47665"><name>MAW1DRONE1</name><desc>1.0 km
+Images:56
+First:12.04.2025 08:40:53
+Last:12.04.2025 08:49:18
+Duration:00:08:25
+</desc></wpt>
+<wpt lat = "50.68806" lon = "6.47665"><name>MAW1LS1</name><desc>1.0 km
+Images:255
+First:12.04.2025 08:17:31
+Last:12.04.2025 09:11:24
+Duration:00:53:53
+</desc></wpt>
+<wpt lat = "50.68806" lon = "6.47665"><name>MAW1LS2</name><desc>1.0 km
+Images:208
+First:12.04.2025 08:23:29
+Last:12.04.2025 09:10:49
+Duration:00:47:20
+</desc></wpt>
+<wpt lat = "50.68913" lon = "6.47875"><name>ROC3</name><desc>1.9 km
+Images:470
+First:12.04.2025 09:07:11
+Last:12.04.2025 09:14:32
+Duration:00:07:21
+</desc></wpt>
+<wpt lat = "50.69947" lon = "6.46818"><name>MAW2</name><desc>4.0 km before finish (22km) 9.5 km before finish (44/66km)
+Images:5285
+First:12.04.2025 10:37:04
+Last:12.04.2025 17:34:55
+Duration:06:57:51
+</desc></wpt>
+<wpt lat = "50.69947" lon = "6.46818"><name>MAW2LS1</name><desc>4.0 km before finish (22km) 9.5 km before finish (44/66km)
+Images:1053
+First:12.04.2025 10:11:35
+Last:12.04.2025 17:25:19
+Duration:07:13:44
+</desc></wpt>
+<wpt lat = "50.69947" lon = "6.46818"><name>MAW2LS2</name><desc>4.0 km before finish (22km) 9.5 km before finish (44/66km)
+Images:1044
+First:12.04.2025 10:23:51
+Last:12.04.2025 17:34:17
+Duration:07:10:26
+</desc></wpt>
+<wpt lat = "50.69487" lon = "6.46699"><name>OP2</name><desc>3.0 km before finish
+Images:1943
+First:12.04.2025 09:56:39
+Last:12.04.2025 17:42:14
+Duration:07:45:35
+</desc></wpt>
+<wpt lat = "50.69487" lon = "6.46699"><name>OP2LS1</name><desc>3.0 km before finish
+Images:1177
+First:12.04.2025 10:06:43
+Last:12.04.2025 17:44:43
+Duration:07:38:00
+</desc></wpt>
+<wpt lat = "50.69268" lon = "6.46939"><name>MER1</name><desc>2.6 km before finish
+Images:5155
+First:12.04.2025 09:01:03
+Last:12.04.2025 18:00:52
+Duration:08:59:49
+</desc></wpt>
+<wpt lat = "50.69300" lon = "6.47212"><name>ANR1</name><desc>2.5 km before finish
+Images:6124
+First:12.04.2025 09:12:25
+Last:12.04.2025 17:58:34
+Duration:08:46:09
+</desc></wpt>
+<wpt lat = "50.68913" lon = "6.47875"><name>ROC2</name><desc>Finish
+Images:6523
+First:12.04.2025 09:23:38
+Last:12.04.2025 18:21:16
+Duration:08:57:38
+</desc></wpt>
+</gpx>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "27.97501" lon = "-82.50286"><name>MBAR1</name><desc>Start
+Images:1209
+First:04.05.2025 06:23:02
+Last:04.05.2025 14:36:02
+Duration:08:13:00
+</desc></wpt>
+<wpt lat = "27.97656" lon = "-82.50328"><name>GMAL1</name><desc>LEVEL 2
+Images:6136
+First:04.05.2025 06:32:45
+Last:04.05.2025 14:14:20
+Duration:07:41:35
+</desc></wpt>
+<wpt lat = "27.97656" lon = "-82.50328"><name>JACL1</name><desc>LEVEL 2
+Images:17552
+First:04.05.2025 06:54:03
+Last:04.05.2025 15:12:58
+Duration:08:18:55
+</desc></wpt>
+<wpt lat = "27.97656" lon = "-82.50328"><name>JHRO1</name><desc>LEVEL 2
+Images:13077
+First:04.05.2025 06:52:58
+Last:04.05.2025 15:13:41
+Duration:08:20:43
+</desc></wpt>
+<wpt lat = "27.97656" lon = "-82.50328"><name>MAPM1</name><desc>LEVEL 2
+Images:10393
+First:04.05.2025 06:31:39
+Last:04.05.2025 15:13:47
+Duration:08:42:08
+</desc></wpt>
+<wpt lat = "27.97696" lon = "-82.50412"><name>BMY1</name><desc>LEVEL 3
+Images:10738
+First:04.05.2025 06:52:43
+Last:04.05.2025 15:31:57
+Duration:08:39:14
+</desc></wpt>
+<wpt lat = "27.97656" lon = "-82.50328"><name>CUL1</name><desc>LEVEL 3
+Images:17683
+First:04.05.2025 06:48:47
+Last:04.05.2025 15:33:41
+Duration:08:44:54
+</desc></wpt>
+<wpt lat = "27.97656" lon = "-82.50328"><name>FC1</name><desc>LEVEL 3
+Images:2791
+First:04.05.2025 07:37:39
+Last:04.05.2025 15:30:36
+Duration:07:52:57
+</desc></wpt>
+<wpt lat = "27.97572" lon = "-82.50418"><name>ORGA1</name><desc>LEVEL 3
+Images:7021
+First:04.05.2025 06:43:22
+Last:04.05.2025 15:27:48
+Duration:08:44:26
+</desc></wpt>
+<wpt lat = "27.97585" lon = "-82.50373"><name>JAZZ1</name><desc>Finish
+Images:11703
+First:04.05.2025 07:42:50
+Last:04.05.2025 15:28:12
+Duration:07:45:22
+</desc></wpt>
+<wpt lat = "27.97585" lon = "-82.50373"><name>NIMA1</name><desc>Finish
+Images:7350
+First:04.05.2025 06:44:53
+Last:04.05.2025 15:42:50
+Duration:08:57:57
+</desc></wpt>
+<wpt lat = "27.97602" lon = "-82.50370"><name>ATOL1</name><desc>Herotent
+Images:3795
+First:04.05.2025 06:44:28
+Last:04.05.2025 15:44:46
+Duration:09:00:18
+</desc></wpt>
+<wpt lat = "27.97602" lon = "-82.50370"><name>PANO1</name><desc>Impressions / Pano
+Images:24
+First:04.05.2025 07:19:45
+Last:04.05.2025 12:25:10
+Duration:05:05:25
+</desc></wpt>
+<wpt lat = "27.97602" lon = "-82.50370"><name>SICA1</name><desc>Ceremony
+Images:403
+First:04.05.2025 06:35:48
+Last:04.05.2025 12:02:14
+Duration:05:26:26
+</desc></wpt>
+</gpx>

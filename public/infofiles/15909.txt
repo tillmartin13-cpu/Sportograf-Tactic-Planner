@@ -1,0 +1,32 @@
+EventId: 15909
+Spots: 4
+Total Images: 7505
+Time:	31.12.2022 23:00:15 to 06.06.2025 19:17:50
+Duration: 887.20:17:35
+
+(1) - 3.0 km
+	AD1
+		Images:	1724
+		Time:	31.12.2022 23:00:15 until 31.12.2022 23:53:15
+		Duration:	00:53:00
+		Location:	43.59100 -110.83190
+
+	AD1LS1
+		Images:	530
+		Time:	06.06.2025 17:04:45 until 06.06.2025 17:35:40
+		Duration:	00:30:55
+		Location:	43.59100 -110.83190
+
+(2) - Finish
+	ER1
+		Images:	3181
+		Time:	06.06.2025 17:33:22 until 06.06.2025 19:17:50
+		Duration:	01:44:28
+		Location:	43.58904 -110.82850
+
+	ER1LS1
+		Images:	2070
+		Time:	06.06.2025 17:15:31 until 06.06.2025 19:00:11
+		Duration:	01:44:40
+		Location:	43.58904 -110.82850
+

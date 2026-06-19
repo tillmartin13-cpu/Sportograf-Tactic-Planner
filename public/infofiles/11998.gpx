@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "56.03778" lon = "12.61685"><name>OLM1</name><desc>Swim - Start
+Images:2010
+First:20.06.2025 13:13:16
+Last:20.06.2025 18:08:09
+Duration:04:54:53
+</desc></wpt>
+<wpt lat = "56.03816" lon = "12.61725"><name>OLM2</name><desc>Swim - Transition zone
+Images:2470
+First:20.06.2025 18:09:01
+Last:20.06.2025 18:36:10
+Duration:00:27:09
+</desc></wpt>
+<wpt lat = "56.03982" lon = "12.60870"><name>PAG1</name><desc>Bike - 0.5 km
+Images:3661
+First:20.06.2025 17:17:42
+Last:20.06.2025 19:32:34
+Duration:02:14:52
+</desc></wpt>
+<wpt lat = "56.03963" lon = "12.61607"><name>ZSZ1</name><desc>Run - 0.3 km
+Images:2610
+First:20.06.2025 17:20:05
+Last:20.06.2025 19:54:16
+Duration:02:34:11
+</desc></wpt>
+<wpt lat = "56.03839" lon = "12.61610"><name>OLM3</name><desc>Finish
+Images:2973
+First:20.06.2025 18:40:30
+Last:20.06.2025 22:12:00
+Duration:03:31:30
+</desc></wpt>
+</gpx>

@@ -1,0 +1,289 @@
+EventId: 12212
+Spots: 45
+Total Images: 425153
+Time:	01.01.0001 23:00:00 to 24.04.2024 18:33:09
+Duration: 738998.19:33:09
+
+(1) - 15.0 km
+	BOT1
+		Images:	3377
+		Time:	19.04.2024 15:56:10 until 20.04.2024 11:30:35
+		Duration:	19:34:25
+		Location:	50.47285 5.63288
+
+(2) - 16.0 km
+	BMB1
+		Images:	2433
+		Time:	20.04.2024 06:05:31 until 20.04.2024 11:16:18
+		Duration:	05:10:47
+		Location:	50.47605 5.63472
+
+(3) - 17.0 km
+	BMW1
+		Images:	1591
+		Time:	20.04.2024 04:46:31 until 20.04.2024 10:25:50
+		Duration:	05:39:19
+		Location:	50.47369 5.63221
+
+(4) - 24.0 km /99km/199km -Niaster
+	ATID1
+		Images:	12675
+		Time:	20.04.2024 08:44:28 until 20.04.2024 17:26:07
+		Duration:	08:41:39
+		Location:	50.45989 5.67738
+
+	ATID1LS1
+		Images:	10905
+		Time:	20.04.2024 08:31:50 until 20.04.2024 17:34:40
+		Duration:	09:02:50
+		Location:	50.45989 5.67738
+
+(5) - 25.0 km /100km/200km -Niaster
+	AACCA1
+		Images:	15573
+		Time:	20.04.2024 09:05:02 until 20.04.2024 17:31:22
+		Duration:	08:26:20
+		Location:	50.45531 5.6769
+
+	APBO1
+		Images:	9471
+		Time:	19.04.2024 17:03:07 until 20.04.2024 17:34:29
+		Duration:	1.00:31:22
+		Location:	50.45309 5.68027
+
+(6) - 26.0 km /101km/201km -Niaster
+	AYT1
+		Images:	27268
+		Time:	20.04.2024 10:13:15 until 20.04.2024 17:41:58
+		Duration:	07:28:43
+		Location:	50.45371 5.68537
+
+	AYT1LS1
+		Images:	5879
+		Time:	20.04.2024 10:03:59 until 20.04.2024 16:17:25
+		Duration:	06:13:26
+		Location:	50.45371 5.68537
+
+	AYT1LS2
+		Images:	6817
+		Time:	20.04.2024 10:07:33 until 20.04.2024 17:40:35
+		Duration:	07:33:02
+		Location:	50.45371 5.68537
+
+(7) - 27.0 km /102km/202km -Niaster
+	ACD1
+		Images:	21782
+		Time:	20.04.2024 10:35:57 until 20.04.2024 17:33:03
+		Duration:	06:57:06
+		Location:	50.45551 5.69370
+
+	ACD1LS1
+		Images:	5863
+		Time:	20.04.2024 10:30:33 until 20.04.2024 16:52:15
+		Duration:	06:21:42
+		Location:	50.45551 5.69370
+
+	ACD1LS2
+		Images:	6245
+		Time:	20.04.2024 10:22:15 until 20.04.2024 17:35:41
+		Duration:	07:13:26
+		Location:	50.45551 5.69370
+
+(8) - 39.5 km /105.5km/213.5km Cote de la Redout
+	BSJA1LS1
+		Images:	11447
+		Time:	24.04.2024 09:47:16 until 24.04.2024 18:33:09
+		Duration:	08:45:53
+		Location:	50.49147 5.70166
+
+	BSJA1LS2
+		Images:	7929
+		Time:	01.01.0001 23:00:00 until 20.04.2024 18:11:12
+		Duration:	738994.19:11:12
+		Location:	50.49147 5.70166
+
+(9) - 39.5 km /105km/213km Cote de la Redout
+	BSJA1
+		Images:	24936
+		Time:	20.04.2024 08:34:58 until 20.04.2024 18:44:20
+		Duration:	10:09:22
+		Location:	50.49096 5.70361
+
+(10) - 40.0 km /105km/213km Cote de la Redout
+	BHM1
+		Images:	15151
+		Time:	19.04.2024 18:01:25 until 20.04.2024 18:52:43
+		Duration:	1.00:51:18
+		Location:	50.49224 5.70027
+
+	BHM1LS1
+		Images:	9389
+		Time:	20.04.2024 08:56:11 until 20.04.2024 17:09:44
+		Duration:	08:13:33
+		Location:	50.49224 5.70027
+
+	BHM1LS2
+		Images:	10587
+		Time:	20.04.2024 08:51:15 until 20.04.2024 18:30:13
+		Duration:	09:38:58
+		Location:	50.49224 5.70027
+
+(11) - 40.5 km /105km/213km Cote de la Redout
+	BANR1
+		Images:	30998
+		Time:	20.04.2024 08:43:16 until 20.04.2024 18:53:32
+		Duration:	10:10:16
+		Location:	50.49413 5.70196
+
+(12) - 50,0 km
+	CDRI1
+		Images:	8796
+		Time:	20.04.2024 08:55:39 until 20.04.2024 10:49:48
+		Duration:	01:54:09
+		Location:	50.28745 5.48859
+
+	CDRI1LS1
+		Images:	3085
+		Time:	20.04.2024 08:20:57 until 20.04.2024 12:25:24
+		Duration:	04:04:27
+		Location:	50.28745 5.48859
+
+	CDRI1LS2
+	CDRI1LS3
+		Images:	5893
+		Time:	20.04.2024 08:43:34 until 20.04.2024 10:56:15
+		Duration:	02:12:41
+		Location:	50.28745 5.48859
+
+(13) - 51,0 km
+	CMAW1
+		Images:	9315
+		Time:	20.04.2024 08:47:01 until 20.04.2024 11:01:20
+		Duration:	02:14:19
+		Location:	50.28737 5.49224
+
+	CMAW1DRONE1
+		Images:	104
+		Time:	20.04.2024 09:44:11 until 20.04.2024 16:25:25
+		Duration:	06:41:14
+		Location:	50.28737 5.49224
+
+	CMAW1LS1
+		Images:	4143
+		Time:	20.04.2024 08:15:02 until 20.04.2024 11:07:57
+		Duration:	02:52:55
+		Location:	50.28737 5.49224
+
+	CMAW1LS2
+		Images:	3309
+		Time:	20.04.2024 08:24:29 until 20.04.2024 11:08:13
+		Duration:	02:43:44
+		Location:	50.28737 5.49224
+
+(14) - 52,0 km
+	CNWO1
+		Images:	4892
+		Time:	20.04.2024 08:55:49 until 20.04.2024 10:54:51
+		Duration:	01:59:02
+		Location:	50.28801 5.49627
+
+	CNWO1LS1
+		Images:	1647
+		Time:	20.04.2024 08:37:51 until 20.04.2024 12:39:59
+		Duration:	04:02:08
+		Location:	50.28801 5.49627
+
+	CNWO1LS2
+		Images:	3839
+		Time:	20.04.2024 08:42:27 until 20.04.2024 11:01:24
+		Duration:	02:18:57
+		Location:	50.28801 5.49627
+
+(15) - 54.0 km /129km/229km Cote de la Roche aux faucons
+	BOT2
+		Images:	20484
+		Time:	20.04.2024 11:17:12 until 20.04.2024 19:13:44
+		Duration:	07:56:32
+		Location:	50.55031 5.57382
+
+(16) - 55.0 km /130km/230km Cote de la Roche aux faucons
+	BMW2
+		Images:	11725
+		Time:	20.04.2024 10:36:51 until 20.04.2024 19:18:14
+		Duration:	08:41:23
+		Location:	50.55362 5.55842
+
+(17) - 56.0 km /131km/231km Cote de la Roche aux faucons
+	BMB2
+		Images:	7975
+		Time:	20.04.2024 11:19:14 until 20.04.2024 18:17:14
+		Duration:	06:58:00
+		Location:	50.55287 5.56933
+
+(18) - 75,0 km A la Basse Goblet /81 141/147 249/255
+	CMAW2
+		Images:	10808
+		Time:	20.04.2024 13:03:13 until 20.04.2024 19:25:41
+		Duration:	06:22:28
+		Location:	50.53533 5.70923
+
+	CMAW2LS1
+		Images:	11591
+		Time:	20.04.2024 12:18:49 until 20.04.2024 18:42:17
+		Duration:	06:23:28
+		Location:	50.53533 5.70923
+
+	CMAW2LS2
+		Images:	7488
+		Time:	20.04.2024 12:28:44 until 20.04.2024 19:28:01
+		Duration:	06:59:17
+		Location:	50.53533 5.70923
+
+(19) - 77,0 km A la Basse Goblet /81 143/147 251/255
+	CNWO2
+		Images:	10370
+		Time:	20.04.2024 13:27:06 until 20.04.2024 19:31:47
+		Duration:	06:04:41
+		Location:	50.53194 5.70649
+
+(20) - 78,0 km A la Basse Goblet /80 148/150 248/250
+	CDRI2
+		Images:	17852
+		Time:	20.04.2024 13:36:42 until 20.04.2024 18:40:41
+		Duration:	05:03:59
+		Location:	50.54372 5.68547
+
+	CDRI2LS1
+		Images:	9095
+		Time:	20.04.2024 12:25:48 until 20.04.2024 18:52:49
+		Duration:	06:27:01
+		Location:	50.54372 5.68547
+
+	CDRI2LS2
+		Images:	19429
+		Time:	20.04.2024 12:21:58 until 20.04.2024 19:26:43
+		Duration:	07:04:45
+		Location:	50.54372 5.68547
+
+(21) - Finish
+	CBAR2
+		Images:	6360
+		Time:	20.04.2024 14:16:38 until 20.04.2024 20:05:36
+		Duration:	05:48:58
+		Location:	50.53963 5.74541
+
+(22) - Impressions / Pano
+	BHM1DRONE1
+		Images:	5
+		Time:	20.04.2024 12:15:23 until 20.04.2024 12:16:16
+		Duration:	00:00:53
+		Location:	50.49224 5.70027
+
+	PANO1
+(23) - Start
+	CBAR1
+		Images:	6632
+		Time:	19.04.2024 18:21:34 until 20.04.2024 14:16:37
+		Duration:	19:55:03
+		Location:	50.53963 5.74541
+

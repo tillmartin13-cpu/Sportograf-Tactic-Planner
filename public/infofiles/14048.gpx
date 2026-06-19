@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "53.53033" lon = "10.03909"><name>BK1</name><desc>Start
+Images:2556
+First:09.08.2025 17:46:26
+Last:09.08.2025 19:21:19
+Duration:01:34:53
+</desc></wpt>
+<wpt lat = "53.53033" lon = "10.03909"><name>BK1DRONE1</name><desc>Start
+Images:29
+First:09.08.2025 17:25:33
+Last:10.08.2025 05:41:23
+Duration:12:15:50
+</desc></wpt>
+<wpt lat = "53.53033" lon = "10.03909"><name>DWE1</name><desc>Start
+Images:1616
+First:09.08.2025 17:18:13
+Last:09.08.2025 19:21:26
+Duration:02:03:13
+</desc></wpt>
+<wpt lat = "53.52765" lon = "10.04457"><name>JKOR1</name><desc>Kaltehofe Hauptdeich
+Images:4209
+First:09.08.2025 17:44:27
+Last:09.08.2025 20:15:51
+Duration:02:31:24
+</desc></wpt>
+<wpt lat = "53.48793" lon = "10.09379"><name>PDD1</name><desc>Jachthafen Moorfleet
+Images:2056
+First:09.08.2025 18:30:57
+Last:09.08.2025 20:56:49
+Duration:02:25:52
+</desc></wpt>
+<wpt lat = "53.48601" lon = "10.10684"><name>GL1</name><desc>Eichbaumsee
+Images:3132
+First:09.08.2025 18:50:01
+Last:09.08.2025 21:09:20
+Duration:02:19:19
+</desc></wpt>
+<wpt lat = "53.51114" lon = "10.15763"><name>JKOR2</name><desc>Boberger Dünen
+Images:2242
+First:09.08.2025 20:18:08
+Last:09.08.2025 22:36:01
+Duration:02:17:53
+</desc></wpt>
+<wpt lat = "53.56563" lon = "10.01697"><name>GL2</name><desc>Alsterwiese
+Images:1058
+First:09.08.2025 19:25:11
+Last:10.08.2025 04:06:24
+Duration:08:41:13
+</desc></wpt>
+<wpt lat = "53.54417" lon = "9.99331"><name>JKOR3</name><desc>Speicherstadt
+Images:2228
+First:09.08.2025 23:12:18
+Last:10.08.2025 06:30:09
+Duration:07:17:51
+</desc></wpt>
+<wpt lat = "53.53033" lon = "10.03909"><name>PDD2</name><desc>Finish
+Images:2275
+First:10.08.2025 01:46:07
+Last:10.08.2025 07:34:06
+Duration:05:47:59
+</desc></wpt>
+<wpt lat = "53.53033" lon = "10.03909"><name>DWE1LS1</name><desc>Finish
+Images:1014
+First:10.08.2025 01:49:41
+Last:10.08.2025 07:24:09
+Duration:05:34:28
+</desc></wpt>
+<wpt lat = "53.53033" lon = "10.03909"><name>DWE2</name><desc>Herotent
+Images:607
+First:10.08.2025 02:05:52
+Last:10.08.2025 07:34:40
+Duration:05:28:48
+</desc></wpt>
+</gpx>

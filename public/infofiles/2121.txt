@@ -1,0 +1,22 @@
+EventId: 2121
+Spots: 3
+Total Images: 510
+Time:	29.08.2023 05:36:19 to 29.08.2023 07:33:26
+Duration: 01:57:07
+
+(1) - Ceremony
+	S0LF1HAND1NMF
+		Images:	250
+		Time:	29.08.2023 06:19:25 until 29.08.2023 07:33:26
+		Duration:	01:14:01
+		Location:	1.11 1.22
+
+(2) - Finish
+	S0PANO1HAND1NMF
+(3) - Start
+	S0MF1HAND1NMF
+		Images:	260
+		Time:	29.08.2023 05:36:19 until 29.08.2023 07:33:26
+		Duration:	01:57:07
+		Location:	1.11 1.22
+

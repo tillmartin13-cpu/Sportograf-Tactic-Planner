@@ -1,0 +1,485 @@
+EventId: 11687
+Spots: 77
+Total Images: 776242
+Time:	06.04.2024 20:06:16 to 07.04.2026 14:52:04
+Duration: 730.18:45:48
+
+(1) - 0,5 km Siegessäule
+	DALGE1
+		Images:	13334
+		Time:	07.04.2024 07:43:15 until 07.04.2024 11:26:38
+		Duration:	03:43:23
+		Location:	52.51460 13.34843
+
+	DSESI1
+		Images:	9840
+		Time:	07.04.2024 08:47:11 until 07.04.2024 11:24:48
+		Duration:	02:37:37
+		Location:	52.51460 13.34843
+
+(2) - 11,0 km Gedächtniskirche
+	DOAD1
+		Images:	69
+		Time:	07.04.2026 13:52:18 until 07.04.2026 14:52:04
+		Duration:	00:59:46
+		Location:	52.50420 13.33606
+
+	DZOS1
+		Images:	5676
+		Time:	07.04.2024 09:15:56 until 07.04.2024 11:27:05
+		Duration:	02:11:09
+		Location:	52.50420 13.33606
+
+(3) - 11,5 km KaDeWe
+	DJKIM1
+		Images:	14526
+		Time:	07.04.2024 09:17:01 until 07.04.2024 14:14:05
+		Duration:	04:57:04
+		Location:	52.50190 13.34241
+
+	YTS1
+		Images:	11012
+		Time:	07.04.2024 08:13:46 until 07.04.2024 13:13:46
+		Duration:	05:00:00
+		Location:	52.50190 13.34241
+
+(4) - 14,5 km Potsdamer Platz
+	CRJ1
+		Images:	15609
+		Time:	07.04.2024 09:38:29 until 07.04.2024 13:47:19
+		Duration:	04:08:50
+		Location:	52.50988 13.37913
+
+	CRJ1LS1
+		Images:	2608
+		Time:	07.04.2024 11:03:48 until 07.04.2024 13:30:52
+		Duration:	02:27:04
+		Location:	52.50988 13.37913
+
+	CSTM1
+		Images:	16502
+		Time:	07.04.2024 08:48:04 until 07.04.2024 13:47:15
+		Duration:	04:59:11
+		Location:	52.50988 13.37913
+
+	CSTM1LS1
+		Images:	4809
+		Time:	07.04.2024 09:13:58 until 07.04.2024 13:47:22
+		Duration:	04:33:24
+		Location:	52.50988 13.37913
+
+(5) - 15,0 km Bundesrat
+	DJE1
+		Images:	10436
+		Time:	07.04.2024 08:43:01 until 07.04.2024 13:45:56
+		Duration:	05:02:55
+		Location:	52.50980 13.38155
+
+	DMAWA1
+		Images:	12652
+		Time:	07.04.2024 09:38:16 until 07.04.2024 13:46:08
+		Duration:	04:07:52
+		Location:	52.50980 13.38155
+
+(6) - 16,8 km Checkpoint Charlie
+	BARTA1
+		Images:	8278
+		Time:	07.04.2024 09:14:10 until 07.04.2024 13:59:34
+		Duration:	04:45:24
+		Location:	52.50768 13.39037
+
+	BHKU1
+		Images:	6449
+		Time:	07.04.2024 09:40:31 until 07.04.2024 13:57:01
+		Duration:	04:16:30
+		Location:	52.50768 13.39037
+
+	BLW1
+		Images:	32289
+		Time:	07.04.2024 08:17:47 until 07.04.2024 13:53:39
+		Duration:	05:35:52
+		Location:	52.50768 13.39037
+
+	BROC1
+		Images:	20188
+		Time:	06.04.2024 20:32:33 until 07.04.2024 13:58:39
+		Duration:	17:26:06
+		Location:	52.50768 13.39037
+
+(7) - 18,7 km Humboldt Forum
+	ACM1
+		Images:	10414
+		Time:	07.04.2024 08:51:49 until 07.04.2024 14:19:20
+		Duration:	05:27:31
+		Location:	52.51573 13.40133
+
+	ACM1LS1
+		Images:	4491
+		Time:	07.04.2024 10:04:58 until 07.04.2024 14:19:55
+		Duration:	04:14:57
+		Location:	52.51573 13.40133
+
+	ACM1LS2
+		Images:	7298
+		Time:	07.04.2024 09:39:31 until 07.04.2024 14:17:20
+		Duration:	04:37:49
+		Location:	52.51573 13.40133
+
+	AGPD1
+		Images:	6612
+		Time:	07.04.2024 07:57:53 until 07.04.2024 14:18:48
+		Duration:	06:20:55
+		Location:	52.51573 13.40133
+
+	ARAC1
+		Images:	16506
+		Time:	07.04.2024 09:15:48 until 07.04.2024 14:21:51
+		Duration:	05:06:03
+		Location:	52.51573 13.40133
+
+	ATHO1
+		Images:	21456
+		Time:	07.04.2024 08:41:37 until 07.04.2024 14:22:27
+		Duration:	05:40:50
+		Location:	52.51573 13.40133
+
+	ATHO1LS1
+		Images:	6650
+		Time:	07.04.2024 09:17:06 until 07.04.2024 14:23:01
+		Duration:	05:05:55
+		Location:	52.51573 13.40133
+
+(8) - 19,3 km Gendarmenmarkt
+	BDS1
+		Images:	16362
+		Time:	07.04.2024 08:55:51 until 07.04.2024 14:25:58
+		Duration:	05:30:07
+		Location:	52.51380 13.39324
+
+	BPKE1
+		Images:	25674
+		Time:	06.04.2024 20:06:16 until 07.04.2024 14:26:19
+		Duration:	18:20:03
+		Location:	52.51380 13.39324
+
+(9) - 20,8 km Hotel Adlon
+	CAPE1
+		Images:	7319
+		Time:	07.04.2024 09:46:43 until 07.04.2024 14:42:23
+		Duration:	04:55:40
+		Location:	52.51614 13.37956
+
+	CDASC1
+		Images:	7001
+		Time:	07.04.2024 12:08:49 until 07.04.2024 14:42:24
+		Duration:	02:33:35
+		Location:	52.51614 13.37956
+
+	COV1
+		Images:	8464
+		Time:	07.04.2024 08:31:15 until 07.04.2024 14:41:24
+		Duration:	06:10:09
+		Location:	52.51614 13.37956
+
+(10) - 21,0 km Brandenburger Tor
+	CCF1
+		Images:	13427
+		Time:	07.04.2024 09:13:58 until 07.04.2024 14:44:21
+		Duration:	05:30:23
+		Location:	52.51620 13.37741
+
+	CCRIC1
+		Images:	15466
+		Time:	07.04.2024 08:14:48 until 07.04.2024 14:44:11
+		Duration:	06:29:23
+		Location:	52.51620 13.37741
+
+	CCRIC1LS1
+		Images:	5978
+		Time:	07.04.2024 09:46:53 until 07.04.2024 14:46:18
+		Duration:	04:59:25
+		Location:	52.51620 13.37741
+
+	CMDO1
+		Images:	18992
+		Time:	07.04.2024 08:44:17 until 07.04.2024 14:43:27
+		Duration:	05:59:10
+		Location:	52.51620 13.37741
+
+	CMDO1LS1
+		Images:	6292
+		Time:	07.04.2024 08:57:28 until 07.04.2024 14:44:29
+		Duration:	05:47:01
+		Location:	52.51620 13.37741
+
+	CRYS1
+		Images:	11253
+		Time:	07.04.2024 09:10:53 until 07.04.2024 14:46:01
+		Duration:	05:35:08
+		Location:	52.51620 13.37741
+
+	CRYS1LS1
+		Images:	7282
+		Time:	07.04.2024 09:24:46 until 07.04.2024 14:43:41
+		Duration:	05:18:55
+		Location:	52.51620 13.37741
+
+	CRYS1LS2
+		Images:	6474
+		Time:	07.04.2024 09:25:00 until 07.04.2024 14:43:45
+		Duration:	05:18:45
+		Location:	52.51620 13.37741
+
+(11) - 21,0 km Zieleinlauf
+	CALN1
+		Images:	22951
+		Time:	07.04.2024 09:46:55 until 07.04.2024 14:44:42
+		Duration:	04:57:47
+		Location:	52.51623 13.37597
+
+	CALN1LS1
+		Images:	6286
+		Time:	07.04.2024 09:35:23 until 07.04.2024 14:53:15
+		Duration:	05:17:52
+		Location:	52.51623 13.37597
+
+	CALN1LS2
+		Images:	9771
+		Time:	07.04.2024 11:17:26 until 07.04.2024 14:36:49
+		Duration:	03:19:23
+		Location:	52.51623 13.37597
+
+	DALN1LS1
+		Images:	9965
+		Time:	07.04.2024 08:07:12 until 07.04.2024 14:40:20
+		Duration:	06:33:08
+		Location:	52.51623 13.37597
+
+	DALN1LS2
+		Images:	8586
+		Time:	07.04.2024 08:16:18 until 07.04.2024 14:42:10
+		Duration:	06:25:52
+		Location:	52.51623 13.37597
+
+	DALN1LS3
+		Images:	11430
+		Time:	07.04.2024 08:30:18 until 07.04.2024 14:38:08
+		Duration:	06:07:50
+		Location:	52.51623 13.37597
+
+	DMFR2
+		Images:	8718
+		Time:	07.04.2024 12:14:09 until 07.04.2024 14:44:47
+		Duration:	02:30:38
+		Location:	52.51623 13.37597
+
+	DTHS1LS1
+		Images:	5625
+		Time:	07.04.2024 11:20:17 until 07.04.2024 14:37:17
+		Duration:	03:17:00
+		Location:	52.51623 13.37597
+
+	DTHS1LS2
+		Images:	3948
+		Time:	07.04.2024 11:18:11 until 07.04.2024 14:37:49
+		Duration:	03:19:38
+		Location:	52.51623 13.37597
+
+(12) - 21,0 km Zieleinlauf Steiger
+	DTHS1
+		Images:	24353
+		Time:	07.04.2024 09:44:05 until 07.04.2024 14:44:52
+		Duration:	05:00:47
+		Location:	52.51623 13.37597
+
+(13) - 21,1 km Ziel Steiger
+	DDAR1
+		Images:	24310
+		Time:	07.04.2024 09:38:38 until 07.04.2024 14:45:40
+		Duration:	05:07:02
+		Location:	52.51617 13.37515
+
+	DDAR1LS1
+		Images:	7205
+		Time:	07.04.2024 10:07:55 until 07.04.2024 14:46:16
+		Duration:	04:38:21
+		Location:	52.51617 13.37515
+
+(14) - 21,1 km Zieleinlauf
+	BGUD1
+		Images:	13543
+		Time:	07.04.2024 09:53:24 until 07.04.2024 12:21:13
+		Duration:	02:27:49
+		Location:	52.51624 13.37554
+
+	BGUD1LS1
+		Images:	4595
+		Time:	07.04.2024 10:58:44 until 07.04.2024 14:49:56
+		Duration:	03:51:12
+		Location:	52.51624 13.37554
+
+	BGUD1LS2
+		Images:	2
+		Time:	07.04.2024 08:30:22 until 07.04.2024 08:30:33
+		Duration:	00:00:11
+		Location:	52.51624 13.37554
+
+	BLEM2
+		Images:	7798
+		Time:	07.04.2024 11:54:25 until 07.04.2024 14:46:57
+		Duration:	02:52:32
+		Location:	52.51624 13.37554
+
+(15) - Brandenburger Tor
+	ADG1
+		Images:	38265
+		Time:	07.04.2024 08:16:42 until 07.04.2024 14:44:49
+		Duration:	06:28:07
+		Location:	52.51620 13.37741
+
+(16) - Impressionen Siegessäule
+	ATIM1
+		Images:	354
+		Time:	07.04.2024 08:58:50 until 07.04.2024 11:18:54
+		Duration:	02:20:04
+		Location:	52.51454 13.35002
+
+(17) - Impressions / Pano
+	PANO1
+(18) - Medaillen
+	DALGE2
+		Images:	884
+		Time:	07.04.2024 11:51:50 until 07.04.2024 12:58:24
+		Duration:	01:06:34
+		Location:	52.51598 13.37342
+
+	DCHW1
+		Images:	4430
+		Time:	07.04.2024 09:15:15 until 07.04.2024 14:47:54
+		Duration:	05:32:39
+		Location:	52.51598 13.37342
+
+	DJKIM2
+		Images:	493
+		Time:	07.04.2024 14:45:30 until 07.04.2024 15:42:09
+		Duration:	00:56:39
+		Location:	52.51598 13.37342
+
+	DMFR1
+		Images:	2233
+		Time:	07.04.2024 09:11:54 until 07.04.2024 11:59:51
+		Duration:	02:47:57
+		Location:	52.51598 13.37342
+
+	DMGO2
+		Images:	8398
+		Time:	07.04.2024 08:13:32 until 07.04.2024 11:20:18
+		Duration:	03:06:46
+		Location:	52.51598 13.37342
+
+	DOAD2
+		Images:	14337
+		Time:	07.04.2026 09:33:16 until 07.04.2026 13:45:37
+		Duration:	04:12:21
+		Location:	52.51598 13.37342
+
+	DSESI2
+		Images:	2754
+		Time:	07.04.2024 12:03:07 until 07.04.2024 14:36:36
+		Duration:	02:33:29
+		Location:	52.51598 13.37342
+
+	DZOS2
+		Images:	5788
+		Time:	06.04.2024 23:45:13 until 07.04.2024 14:35:31
+		Duration:	14:50:18
+		Location:	52.51598 13.37342
+
+	YTS2
+		Images:	227
+		Time:	07.04.2024 13:46:25 until 07.04.2024 14:31:52
+		Duration:	00:45:27
+		Location:	52.51598 13.37342
+
+(19) - Start
+	BLEM1
+		Images:	6079
+		Time:	07.04.2024 08:10:31 until 07.04.2024 11:20:20
+		Duration:	03:09:49
+		Location:	52.51486 13.35651
+
+	BLEM1LS1
+		Images:	1640
+		Time:	07.04.2024 08:06:21 until 07.04.2024 11:20:25
+		Duration:	03:14:04
+		Location:	52.51486 13.35651
+
+	BLEM1LS2
+		Images:	1735
+		Time:	07.04.2024 08:03:11 until 07.04.2024 11:20:25
+		Duration:	03:17:14
+		Location:	52.51486 13.35651
+
+	DMGO1
+		Images:	2218
+		Time:	07.04.2024 11:42:04 until 07.04.2024 14:47:58
+		Duration:	03:05:54
+		Location:	52.51486 13.35651
+
+(20) - Ziel
+	AKHR1
+		Images:	17383
+		Time:	07.04.2024 09:57:23 until 07.04.2024 14:46:53
+		Duration:	04:49:30
+		Location:	52.51617 13.37515
+
+	AKHR1LS1
+		Images:	6341
+		Time:	07.04.2024 09:46:52 until 07.04.2024 14:46:21
+		Duration:	04:59:29
+		Location:	52.51617 13.37515
+
+	AKHR1LS2
+		Images:	4693
+		Time:	07.04.2024 10:31:45 until 07.04.2024 15:41:27
+		Duration:	05:09:42
+		Location:	52.51617 13.37515
+
+	AROH1
+		Images:	22492
+		Time:	07.04.2024 08:47:12 until 07.04.2024 13:45:16
+		Duration:	04:58:04
+		Location:	52.51617 13.37515
+
+	AROH1LS1
+		Images:	4481
+		Time:	07.04.2024 09:49:46 until 07.04.2024 14:45:38
+		Duration:	04:55:52
+		Location:	52.51617 13.37515
+
+(21) - Ziel Steiger
+	APK1
+		Images:	22676
+		Time:	07.04.2024 09:43:57 until 07.04.2024 14:47:16
+		Duration:	05:03:19
+		Location:	52.51617 13.37515
+
+(22) - Zieleinlauf
+	ABS1
+		Images:	12006
+		Time:	07.04.2024 09:47:08 until 07.04.2024 14:45:00
+		Duration:	04:57:52
+		Location:	52.51624 13.37554
+
+	ABS1LS1
+		Images:	8836
+		Time:	07.04.2024 09:27:53 until 07.04.2024 14:47:54
+		Duration:	05:20:01
+		Location:	52.51626 13.37610
+
+	ATIM2
+		Images:	10725
+		Time:	07.04.2024 12:21:46 until 07.04.2024 14:45:15
+		Duration:	02:23:29
+		Location:	52.51624 13.37554
+

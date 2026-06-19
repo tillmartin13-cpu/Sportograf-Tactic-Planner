@@ -162,6 +162,10 @@ function PanelContent({ activeView, onViewChange, onClose }) {
   const [tacticUploadStatus, setTacticUploadStatus] = useState(null); // null | 'ok' | 'error'
   const [mailOpen, setMailOpen] = useState(false);
   const [refCodeOpen, setRefCodeOpen] = useState(false);
+  const [editingEventMeta, setEditingEventMeta] = useState(false);
+  const [editName, setEditName] = useState('');
+  const [editDate, setEditDate] = useState('');
+  const updateEvent = usePlannerStore((s) => s.updateEvent);
   const [refCode, setRefCode] = useState('');
   const [refCodeLoading, setRefCodeLoading] = useState(false);
   const [refCodeError, setRefCodeError] = useState('');
@@ -199,29 +203,85 @@ function PanelContent({ activeView, onViewChange, onClose }) {
       {/* ── Event info ── */}
       <div className="border-b border-[var(--sg-border)] bg-white px-4 py-3.5">
         {event ? (
-          <>
-            <div className="truncate text-sm font-extrabold text-[var(--sg-navy)]">
-              {event.name || `Event ${event.id}`}
-            </div>
-            <div className="mt-0.5 flex items-center gap-1.5">
-              <span className="rounded bg-[#e8eaf6] px-1.5 py-0.5 text-[11px] font-extrabold tracking-wide text-[#4a5680]">
-                {event.id}
-              </span>
-              {event.eventDate && (
-                <span className="text-xs text-[var(--sg-muted)]">{event.eventDate}</span>
+          editingEventMeta ? (
+            /* ── Inline edit form ── */
+            <form
+              onSubmit={(e) => {
+                e.preventDefault();
+                const name = editName.trim();
+                if (name) updateEvent(event.id, { name, eventDate: editDate || null });
+                setEditingEventMeta(false);
+              }}
+              className="space-y-2"
+            >
+              <input
+                autoFocus
+                value={editName}
+                onChange={(e) => setEditName(e.target.value)}
+                placeholder="Event name"
+                className="sg-input text-sm font-bold"
+              />
+              <input
+                type="date"
+                value={editDate}
+                onChange={(e) => setEditDate(e.target.value)}
+                className="sg-input text-sm"
+              />
+              <div className="flex gap-2 pt-0.5">
+                <button type="submit" className="sg-btn flex-1 text-xs py-1.5" disabled={!editName.trim()}>
+                  Save
+                </button>
+                <button type="button" onClick={() => setEditingEventMeta(false)}
+                  className="flex-1 rounded-xl border border-[var(--sg-border)] py-1.5 text-xs font-semibold text-[var(--sg-muted)] hover:bg-gray-50">
+                  Cancel
+                </button>
+              </div>
+            </form>
+          ) : (
+            /* ── Display mode — click to edit ── */
+            <button
+              type="button"
+              onClick={() => {
+                setEditName(event.name || '');
+                setEditDate(event.eventDate || '');
+                setEditingEventMeta(true);
+              }}
+              className="group w-full text-left"
+              title="Click to edit event name and date"
+            >
+              <div className="flex items-start gap-1.5">
+                <div className="min-w-0 flex-1 truncate text-sm font-extrabold text-[var(--sg-navy)]">
+                  {event.name || `Event ${event.id}`}
+                </div>
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"
+                  strokeLinecap="round" strokeLinejoin="round"
+                  className="mt-0.5 shrink-0 text-[#b0b8cf] opacity-0 transition-opacity group-hover:opacity-100">
+                  <path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/>
+                  <path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/>
+                </svg>
+              </div>
+              <div className="mt-0.5 flex items-center gap-1.5">
+                <span className="rounded bg-[#e8eaf6] px-1.5 py-0.5 text-[11px] font-extrabold tracking-wide text-[#4a5680]">
+                  {event.id}
+                </span>
+                {event.eventDate ? (
+                  <span className="text-xs text-[var(--sg-muted)]">{event.eventDate}</span>
+                ) : (
+                  <span className="text-[11px] text-[#b0b8cf]">+ add date</span>
+                )}
+              </div>
+              {event.eventType && event.eventType !== 'standard_race' && (
+                <span className={`mt-1.5 inline-block rounded-full px-2 py-0.5 text-[10px] font-bold ${
+                  event.eventType === 'hyrox' ? 'bg-[#fef3c7] text-[#92400e]' :
+                  event.eventType === 'obstacle_gpx' ? 'bg-[#f0fdf4] text-[#166534]' :
+                  event.eventType === 'obstacle_no_gpx' ? 'bg-[#fdf4ff] text-[#7e22ce]' :
+                  'bg-[#f1f5f9] text-[#475569]'
+                }`}>
+                  {{ hyrox:'HYROX', obstacle_gpx:'Obstacle w/ GPX', obstacle_no_gpx:'Obstacle w/o GPX', other:'Other' }[event.eventType] || event.eventType}
+                </span>
               )}
-            </div>
-            {event.eventType && event.eventType !== 'standard_race' && (
-              <span className={`mt-1.5 inline-block rounded-full px-2 py-0.5 text-[10px] font-bold ${
-                event.eventType === 'hyrox' ? 'bg-[#fef3c7] text-[#92400e]' :
-                event.eventType === 'obstacle_gpx' ? 'bg-[#f0fdf4] text-[#166534]' :
-                event.eventType === 'obstacle_no_gpx' ? 'bg-[#fdf4ff] text-[#7e22ce]' :
-                'bg-[#f1f5f9] text-[#475569]'
-              }`}>
-                {{ hyrox:'HYROX', obstacle_gpx:'Obstacle w/ GPX', obstacle_no_gpx:'Obstacle w/o GPX', other:'Other' }[event.eventType] || event.eventType}
-              </span>
-            )}
-          </>
+            </button>
+          )
         ) : (
           <>
             <div className="text-sm font-extrabold text-[var(--sg-navy)]">Tactic Planner</div>
@@ -288,8 +348,8 @@ function PanelContent({ activeView, onViewChange, onClose }) {
                     </svg>
                   </span>
                   <span className="flex-1 min-w-0">
-                    <span className="block text-xs font-semibold text-[var(--sg-navy)]">Vorjahr laden</span>
-                    <span className="block text-[10px] text-[var(--sg-muted)] truncate">Event-Code eingeben</span>
+                    <span className="block text-xs font-semibold text-[var(--sg-navy)]">{t('toolsLoadPrevYear')}</span>
+                    <span className="block text-[10px] text-[var(--sg-muted)] truncate">{t('toolsLoadPrevYearHint')}</span>
                   </span>
                   <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"
                     className={`shrink-0 text-[#aaa] transition-transform ${refCodeOpen ? 'rotate-180' : ''}`}>
@@ -306,7 +366,7 @@ function PanelContent({ activeView, onViewChange, onClose }) {
                       try {
                         const ok = await applyReferenceCode(refCode);
                         if (ok) { setRefCode(''); setRefCodeOpen(false); onClose?.(); }
-                        else setRefCodeError('Code nicht gefunden oder Event stimmt nicht überein.');
+                        else setRefCodeError(t('toolsLoadPrevYearError'));
                       } finally {
                         setRefCodeLoading(false);
                       }
@@ -315,7 +375,7 @@ function PanelContent({ activeView, onViewChange, onClose }) {
                     <input
                       value={refCode}
                       onChange={(e) => setRefCode(normalizeEventCode(e.target.value))}
-                      placeholder="Event-Code"
+                      placeholder={t('eventCodePlaceholder')}
                       maxLength={EVENT_CODE_LENGTH}
                       className="sg-input font-mono text-center font-bold tracking-[0.28em] text-sm"
                       autoFocus
@@ -326,7 +386,7 @@ function PanelContent({ activeView, onViewChange, onClose }) {
                       disabled={refCodeLoading || !refCode}
                       className="sg-btn w-full text-xs disabled:opacity-50"
                     >
-                      {refCodeLoading ? '…' : 'Vorjahr laden'}
+                      {refCodeLoading ? '…' : t('toolsLoadPrevYearBtn')}
                     </button>
                   </form>
                 )}
@@ -370,7 +430,7 @@ function PanelContent({ activeView, onViewChange, onClose }) {
 
             {/* TL Academy */}
             <a
-              href="https://sportografacademy2.super.site/"
+              href="https://sportografacademy2.super.site/teamleaders"
               target="_blank"
               rel="noopener noreferrer"
               className="flex w-full items-center gap-2.5 rounded-lg px-3 py-2 text-left transition-colors hover:bg-[var(--sg-tint)]"

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "50.19118" lon = "4.37918"><name>MSAI1</name><desc>Swim - Start
+Images:770
+First:20.09.2025 07:48:31
+Last:20.09.2025 08:57:44
+Duration:01:09:13
+</desc></wpt>
+<wpt lat = "50.19198" lon = "4.38032"><name>SBRO1</name><desc>Bike - Transition zone
+Images:637
+First:20.09.2025 07:50:13
+Last:20.09.2025 09:07:43
+Duration:01:17:30
+</desc></wpt>
+<wpt lat = "50.19022" lon = "4.38449"><name>ROB1DRONE1</name><desc>Bike - 0.8 km after Start
+Images:11
+First:20.09.2025 08:03:55
+Last:20.09.2025 08:11:17
+Duration:00:07:22
+</desc></wpt>
+<wpt lat = "50.19022" lon = "4.38449"><name>ROB1</name><desc>Bike - 0.8 km after Start
+Images:1136
+First:20.09.2025 08:54:23
+Last:20.09.2025 09:10:10
+Duration:00:15:47
+</desc></wpt>
+<wpt lat = "50.17037" lon = "4.36070"><name>SDT1</name><desc>Bike - 7.1 km after Start
+Images:565
+First:20.09.2025 09:12:18
+Last:20.09.2025 09:43:10
+Duration:00:30:52
+</desc></wpt>
+<wpt lat = "50.17037" lon = "4.36070"><name>SDT1LS2</name><desc>Bike - 7.1 km after Start
+Images:449
+First:19.09.2025 20:50:25
+Last:20.09.2025 09:42:45
+Duration:12:52:20
+</desc></wpt>
+<wpt lat = "50.17037" lon = "4.36070"><name>SDT1LS1</name><desc>Bike - 7.1 km after Start
+Images:425
+First:19.09.2025 20:49:40
+Last:20.09.2025 12:29:42
+Duration:15:40:02
+</desc></wpt>
+<wpt lat = "50.18996" lon = "4.36630"><name>BA1</name><desc>Bike - 13.7 km after Start
+Images:989
+First:20.09.2025 09:00:29
+Last:20.09.2025 09:45:44
+Duration:00:45:15
+</desc></wpt>
+<wpt lat = "50.18910" lon = "4.36539"><name>BA2</name><desc>Run - 1.8 km after Start
+Images:303
+First:20.09.2025 09:52:54
+Last:20.09.2025 10:20:09
+Duration:00:27:15
+</desc></wpt>
+<wpt lat = "50.18899" lon = "4.37698"><name>MSAI2</name><desc>Run - 0.8 km after Start
+Images:1362
+First:20.09.2025 09:24:17
+Last:20.09.2025 10:17:39
+Duration:00:53:22
+</desc></wpt>
+<wpt lat = "50.19184" lon = "4.37908"><name>SBRO2</name><desc>Finish
+Images:2141
+First:20.09.2025 09:16:28
+Last:20.09.2025 10:34:35
+Duration:01:18:07
+</desc></wpt>
+</gpx>

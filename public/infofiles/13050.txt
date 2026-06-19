@@ -1,0 +1,225 @@
+EventId: 13050
+Spots: 32
+Total Images: 178817
+Time:	24.01.2020 22:50:20 to 16.04.2024 00:34:43
+Duration: 1543.01:44:23
+
+(1) - 0.0 km Alison, medals, order 854170
+	AMED1
+		Images:	1258
+		Time:	24.01.2020 22:50:20 until 25.01.2020 05:37:16
+		Duration:	06:46:56
+		Location:	NULL NULL
+
+(2) - 0.0 km Amaya Millner, MSC 1, order 854145
+	AAM1
+		Images:	1175
+		Time:	17.03.2024 18:29:40 until 17.03.2024 18:51:36
+		Duration:	00:21:56
+		Location:	NULL NULL
+
+(3) - 0.0 km anastasiia rom - hill, medals, order 854167
+	AARH1
+		Images:	1286
+		Time:	17.03.2024 07:42:00 until 17.03.2024 12:47:43
+		Duration:	05:05:43
+		Location:	NULL NULL
+
+(4) - 0.0 km andrew trigger, msc 4, order 859086
+	AATR1
+		Images:	4675
+		Time:	17.03.2024 07:12:07 until 17.03.2024 08:30:01
+		Duration:	01:17:54
+		Location:	NULL NULL
+
+(5) - 0.0 km andrew winz, msc 4, order 854152
+	AWIN1
+		Images:	4813
+		Time:	16.02.2024 05:40:28 until 16.02.2024 08:26:38
+		Duration:	02:46:10
+		Location:	NULL NULL
+
+(6) - 0.0 km charlie mcadams, finish line, order 854164
+	ACMCA1
+		Images:	8168
+		Time:	17.03.2024 07:39:09 until 17.03.2024 14:29:17
+		Duration:	06:50:08
+		Location:	NULL NULL
+
+(7) - 0.0 km cheryl paz, banner, order 854174
+	ACPB1
+		Images:	1517
+		Time:	17.03.2024 08:03:07 until 17.03.2024 12:08:23
+		Duration:	04:05:16
+		Location:	NULL NULL
+
+(8) - 0.0 km chris wade, medals, order 854169
+	ACWM1
+		Images:	987
+		Time:	17.03.2024 07:44:03 until 17.03.2024 12:05:31
+		Duration:	04:21:28
+		Location:	NULL NULL
+
+(9) - 0.0 km dave denk, medals, order 854168
+	ADDM1
+		Images:	1479
+		Time:	17.03.2024 06:02:06 until 17.03.2024 10:21:12
+		Duration:	04:19:06
+		Location:	NULL NULL
+
+(10) - 0.0 km deborah shearer, msc 1, order 854413
+	ADS1
+		Images:	835
+		Time:	17.03.2024 06:29:14 until 17.03.2024 06:50:21
+		Duration:	00:21:07
+		Location:	NULL NULL
+
+(11) - 0.0 km erica johnson, msc 2, order 854148
+	AEJOH1
+		Images:	2544
+		Time:	16.03.2024 17:36:36 until 16.03.2024 19:41:24
+		Duration:	02:04:48
+		Location:	NULL NULL
+
+(12) - 0.0 km Finish line trigger cam
+	AFCAM1
+		Images:	16627
+		Time:	17.03.2024 06:40:07 until 17.03.2024 12:45:19
+		Duration:	06:05:12
+		Location:	NULL NULL
+
+(13) - 0.0 km finish trigger, left side
+	FLEFT1
+		Images:	16087
+		Time:	17.03.2024 02:12:01 until 17.03.2024 10:22:40
+		Duration:	08:10:39
+		Location:	NULL NULL
+
+(14) - 0.0 km Gus Gargallo, pre finish, order 854158
+	AGPRE1
+		Images:	16416
+		Time:	17.03.2024 07:39:15 until 17.03.2024 11:39:35
+		Duration:	04:00:20
+		Location:	NULL NULL
+
+(15) - 0.0 km Gus Gargallo, start, order 854141
+	BGG1
+		Images:	507
+		Time:	17.03.2024 06:10:51 until 17.03.2024 06:55:05
+		Duration:	00:44:14
+		Location:	NULL NULL
+
+(16) - 0.0 km james smith, msc 2, order 854146
+	AJFS1
+		Images:	4694
+		Time:	17.03.2024 05:34:01 until 17.03.2024 07:40:24
+		Duration:	02:06:23
+		Location:	NULL NULL
+
+(17) - 0.0 km james whitesides, msc 2, order 854147
+	AJWHI1
+		Images:	13420
+		Time:	17.03.2024 05:35:42 until 17.03.2024 07:33:58
+		Duration:	01:58:16
+		Location:	NULL NULL
+
+(18) - 0.0 km jonathan roberts, PR, order 854139
+	AJR1
+		Images:	341
+		Time:	17.03.2024 06:32:27 until 17.03.2024 07:01:46
+		Duration:	00:29:19
+		Location:	NULL NULL
+
+(19) - 0.0 km jonathanon roeberst, pre finish, 854159
+	ARJ1
+		Images:	13893
+		Time:	17.03.2024 07:38:15 until 17.03.2024 13:19:07
+		Duration:	05:40:52
+		Location:	NULL NULL
+
+(20) - 0.0 km Liam castellano, banners, order 854176
+	ALCB1
+		Images:	577
+		Time:	17.03.2024 07:48:29 until 17.03.2024 11:58:11
+		Duration:	04:09:42
+		Location:	NULL NULL
+
+(21) - 0.0 km Lida nixon, msc4, order 854153
+	ALN1
+		Images:	4781
+		Time:	17.03.2024 06:13:54 until 17.03.2024 09:26:35
+		Duration:	03:12:41
+		Location:	NULL NULL
+
+(22) - 0.0 km Lida trigger, msc 4, order 854154
+	ALTR1
+		Images:	8112
+		Time:	17.03.2024 05:50:51 until 17.03.2024 09:27:33
+		Duration:	03:36:42
+		Location:	NULL NULL
+
+(23) - 0.0 km neptune statue trigger cam
+	ATRIG1
+		Images:	18220
+		Time:	17.03.2024 04:46:53 until 17.03.2024 11:27:56
+		Duration:	06:41:03
+		Location:	NULL NULL
+
+(24) - 0.0 km overhead finish trigger cam
+	AFTC1
+		Images:	8186
+		Time:	17.03.2024 06:28:19 until 17.03.2024 12:25:13
+		Duration:	05:56:54
+		Location:	NULL NULL
+
+(25) - 0.0 km Paul Greiner msc 3, order 854150
+	PGO1
+		Images:	4479
+		Time:	17.03.2022 06:28:43 until 17.03.2022 08:31:53
+		Duration:	02:03:10
+		Location:	NULL NULL
+
+(26) - 0.0 km Paul greiner msc 6, order 854156
+	PGT1
+		Images:	4117
+		Time:	17.03.2022 09:08:55 until 17.03.2022 13:22:58
+		Duration:	04:14:03
+		Location:	NULL NULL
+
+(27) - 0.0 km phillip reyes, msc 1, order 854142
+	APR1
+		Images:	1590
+		Time:	17.03.2024 06:32:29 until 17.03.2024 06:50:12
+		Duration:	00:17:43
+		Location:	NULL NULL
+
+(28) - 0.0 km sarah thompson, msc 6, order 854155
+	ASTHO1
+		Images:	3599
+		Time:	15.04.2024 19:48:22 until 16.04.2024 00:34:43
+		Duration:	04:46:21
+		Location:	NULL NULL
+
+(29) - 0.0 km Steve Zanetti, order 854163 Finish
+	ASZ1
+		Images:	6376
+		Time:	17.03.2024 06:05:51 until 17.03.2024 11:47:34
+		Duration:	05:41:43
+		Location:	NULL NULL
+
+(30) - 0.0 km Trigger One, MSC 1, order 859085
+	ATC1
+		Images:	1137
+		Time:	17.03.2024 06:29:44 until 17.03.2024 06:50:34
+		Duration:	00:20:50
+		Location:	NULL NULL
+
+(31) - 0.0 km trigger three, msc 6, order 854157
+	ATHRE1
+		Images:	6921
+		Time:	17.03.2024 09:12:26 until 17.03.2024 13:23:47
+		Duration:	04:11:21
+		Location:	NULL NULL
+
+(32) - Impressions / Pano
+	PANO1

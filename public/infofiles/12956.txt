@@ -1,0 +1,15 @@
+EventId: 12956
+Spots: 2
+Total Images: 422
+Time:	25.11.2023 12:15:46 to 25.11.2023 13:49:31
+Duration: 01:33:45
+
+(1) - Impressions / Pano
+	PANO1
+(2) - none
+	EPRE1
+		Images:	422
+		Time:	25.11.2023 12:15:46 until 25.11.2023 13:49:31
+		Duration:	01:33:45
+		Location:	NULL NULL
+

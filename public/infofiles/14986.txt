@@ -1,0 +1,45 @@
+EventId: 14986
+Spots: 6
+Total Images: 11699
+Time:	12.06.2025 16:49:03 to 13.06.2025 19:44:17
+Duration: 1.02:55:14
+
+(1) - Elite 15 Single - Women
+	GIP2
+		Images:	2421
+		Time:	12.06.2025 18:31:07 until 12.06.2025 20:02:51
+		Duration:	01:31:44
+		Location:	41.89152 -87.60370
+
+	MAT2
+		Images:	723
+		Time:	12.06.2025 19:04:07 until 12.06.2025 20:27:26
+		Duration:	01:23:19
+		Location:	41.89152 -87.60370
+
+(2) - Ceremony
+	GIP4
+		Images:	3773
+		Time:	12.06.2025 16:49:03 until 12.06.2025 21:29:41
+		Duration:	04:40:38
+		Location:	41.89152 -87.60370
+
+	MAT1
+		Images:	521
+		Time:	12.06.2025 17:02:55 until 12.06.2025 18:32:46
+		Duration:	01:29:51
+		Location:	41.89152 -87.60370
+
+(3) - Elite 15 Single - Men
+	GIP3
+		Images:	3446
+		Time:	12.06.2025 20:27:25 until 12.06.2025 21:31:36
+		Duration:	01:04:11
+		Location:	41.89152 -87.60370
+
+	MAT3
+		Images:	787
+		Time:	12.06.2025 20:27:36 until 12.06.2025 21:26:07
+		Duration:	00:58:31
+		Location:	41.89152 -87.60370
+

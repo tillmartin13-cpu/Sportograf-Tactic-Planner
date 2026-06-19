@@ -1,0 +1,986 @@
+EventId: 12003
+Spots: 162
+Total Images: 2230423
+Time:	01.01.2014 01:00:37 to 21.04.2024 20:58:40
+Duration: 3763.19:58:03
+
+(1) - 0,0 km
+	CGHI1
+		Images:	1456
+		Time:	21.04.2024 17:07:03 until 21.04.2024 19:00:45
+		Duration:	01:53:42
+		Location:	NULL NULL
+
+(2) - Big Ben - Mile 25.6 / Km 40.8
+	ADATI1
+		Images:	17326
+		Time:	21.04.2024 08:57:04 until 21.04.2024 16:04:56
+		Duration:	07:07:52
+		Location:	51.50113 -0.12736
+
+	AJAJ1
+		Images:	9405
+		Time:	21.04.2024 10:30:50 until 21.04.2024 16:35:52
+		Duration:	06:05:02
+		Location:	51.50113 -0.12736
+
+	ALOT1
+		Images:	19021
+		Time:	21.04.2024 09:30:51 until 21.04.2024 16:35:39
+		Duration:	07:04:48
+		Location:	51.50113 -0.12736
+
+	AMLU1
+		Images:	27927
+		Time:	21.04.2024 08:53:50 until 21.04.2024 17:26:12
+		Duration:	08:32:22
+		Location:	51.50113 -0.12736
+
+	AMLU1LS1
+		Images:	10501
+		Time:	21.04.2024 08:50:31 until 21.04.2024 19:11:22
+		Duration:	10:20:51
+		Location:	51.50113 -0.12736
+
+	ASHP1
+		Images:	17540
+		Time:	21.04.2024 07:51:35 until 21.04.2024 16:34:14
+		Duration:	08:42:39
+		Location:	51.50113 -0.12736
+
+	ATO1
+		Images:	10057
+		Time:	21.04.2024 10:08:55 until 21.04.2024 15:36:09
+		Duration:	05:27:14
+		Location:	51.50113 -0.12736
+
+(3) - Big Ben - Mile 25.6 / Km 41.1
+	BSESA1
+		Images:	274
+		Time:	21.04.2024 16:30:35 until 21.04.2024 18:05:32
+		Duration:	01:34:57
+		Location:	51.50095 -0.12507
+
+(4) - Big Ben - Mile 26 / Km 41.1
+	FJUW1
+		Images:	19451
+		Time:	21.04.2024 07:33:22 until 21.04.2024 14:38:32
+		Duration:	07:05:10
+		Location:	51.50113 -0.12736
+
+	FSESA1
+		Images:	2436
+		Time:	21.04.2024 08:57:34 until 21.04.2024 16:22:41
+		Duration:	07:25:07
+		Location:	51.50113 -0.12736
+
+	FSTEM1
+		Images:	53672
+		Time:	21.04.2024 09:32:01 until 21.04.2024 16:26:11
+		Duration:	06:54:10
+		Location:	51.50113 -0.12736
+
+(5) - Birdcage Walk - Mile 26 / Km 41.8
+	AALN1
+		Images:	30950
+		Time:	21.04.2024 10:32:12 until 21.04.2024 16:14:14
+		Duration:	05:42:02
+		Location:	51.50066 -0.13652
+
+	AEKR1
+		Images:	38598
+		Time:	21.04.2024 10:11:49 until 21.04.2024 19:08:44
+		Duration:	08:56:55
+		Location:	51.50066 -0.13652
+
+	AMBEN1
+		Images:	30546
+		Time:	21.04.2024 09:21:49 until 21.04.2024 19:23:57
+		Duration:	10:02:08
+		Location:	51.50066 -0.13652
+
+	AMBEN1LS1
+		Images:	19818
+		Time:	21.04.2024 10:31:59 until 21.04.2024 19:11:16
+		Duration:	08:39:17
+		Location:	51.50066 -0.13652
+
+	AREM1
+		Images:	4547
+		Time:	21.04.2024 11:47:16 until 21.04.2024 19:28:05
+		Duration:	07:40:49
+		Location:	51.50066 -0.13652
+
+	AREM1LS1
+		Images:	9153
+		Time:	21.04.2024 09:23:10 until 21.04.2024 17:29:30
+		Duration:	08:06:20
+		Location:	51.50066 -0.13652
+
+	EALN1
+		Images:	33112
+		Time:	21.04.2024 10:02:49 until 21.04.2024 19:26:05
+		Duration:	09:23:16
+		Location:	51.50066 -0.13652
+
+	EALN1LS1
+		Images:	13017
+		Time:	21.04.2024 09:18:20 until 21.04.2024 18:42:02
+		Duration:	09:23:42
+		Location:	51.50066 -0.13652
+
+	EALN1LS2
+		Images:	19038
+		Time:	21.04.2024 09:18:20 until 21.04.2024 18:26:41
+		Duration:	09:08:21
+		Location:	51.50066 -0.13652
+
+	EALN1LS3
+		Images:	16802
+		Time:	21.04.2024 09:17:40 until 21.04.2024 18:01:50
+		Duration:	08:44:10
+		Location:	51.50066 -0.13652
+
+	EMLU1
+		Images:	2320
+		Time:	21.04.2024 17:26:14 until 21.04.2024 18:30:05
+		Duration:	01:03:51
+		Location:	51.50066 -0.13652
+
+(6) - Birdcage Walk -Mile 26 / Km 41.8
+	FREM1
+		Images:	10662
+		Time:	21.04.2024 08:47:23 until 21.04.2024 16:16:45
+		Duration:	07:29:22
+		Location:	51.50066 -0.13652
+
+(7) - Buckingham Palace -  Mile 26.1 / Km 41.9
+	EMDO1
+		Images:	51375
+		Time:	21.04.2024 09:18:40 until 21.04.2024 19:31:51
+		Duration:	10:13:11
+		Location:	51.50191 -0.13988
+
+	EMFR1
+		Images:	20956
+		Time:	21.04.2024 09:29:55 until 21.04.2024 19:35:48
+		Duration:	10:05:53
+		Location:	51.50191 -0.13988
+
+(8) - Buckingham Palace - Mile 26.1 / Km 41.9
+	ACM1
+		Images:	4698
+		Time:	21.04.2024 15:19:27 until 21.04.2024 18:32:22
+		Duration:	03:12:55
+		Location:	51.50191 -0.13988
+
+	ACM1LS1
+		Images:	7926
+		Time:	21.04.2024 11:24:00 until 21.04.2024 18:05:51
+		Duration:	06:41:51
+		Location:	51.50191 -0.13988
+
+	AMDO1
+	AMDO1LS1
+		Images:	11471
+		Time:	21.04.2024 09:26:03 until 21.04.2024 19:28:26
+		Duration:	10:02:23
+		Location:	51.50191 -0.13988
+
+	HMP1
+		Images:	9912
+		Time:	01.01.2014 01:00:37 until 21.04.2024 17:35:37
+		Duration:	3763.16:35:00
+		Location:	51.50208 -0.13950
+
+	HMP5
+		Images:	2197
+		Time:	21.04.2024 09:12:48 until 21.04.2024 11:02:53
+		Duration:	01:50:05
+		Location:	51.50208 -0.13950
+
+(9) - Canary Wharf - Heron Quays - Mile 18.4 / Km 29.6
+	DAH1
+		Images:	20827
+		Time:	20.04.2024 16:11:35 until 21.04.2024 17:05:25
+		Duration:	1.00:53:50
+		Location:	51.50327 -0.01747
+
+	DJOEM1
+		Images:	12297
+		Time:	21.04.2024 09:39:41 until 21.04.2024 17:04:20
+		Duration:	07:24:39
+		Location:	51.50327 -0.01747
+
+	DRLW1
+		Images:	23135
+		Time:	21.04.2024 09:55:22 until 21.04.2024 17:11:18
+		Duration:	07:15:56
+		Location:	51.50327 -0.01747
+
+	DTOMY1
+		Images:	57828
+		Time:	21.04.2024 09:59:19 until 21.04.2024 17:12:04
+		Duration:	07:12:45
+		Location:	51.50327 -0.01747
+
+	DTOMY1LS1
+		Images:	5660
+		Time:	21.04.2024 09:26:50 until 21.04.2024 17:09:56
+		Duration:	07:43:06
+		Location:	51.50327 -0.01747
+
+(10) - Canary Wharf - Marshall Wall  - Mile 18.1 / Km 29.1
+	DCMU2
+		Images:	24951
+		Time:	21.04.2024 11:42:37 until 21.04.2024 17:00:00
+		Duration:	05:17:23
+		Location:	51.50529 -0.02350
+
+	DJIHI1
+		Images:	30292
+		Time:	21.04.2024 08:09:46 until 21.04.2024 17:06:42
+		Duration:	08:56:56
+		Location:	51.50529 -0.02350
+
+	DPAS1
+		Images:	33659
+		Time:	21.04.2024 09:47:39 until 21.04.2024 17:01:13
+		Duration:	07:13:34
+		Location:	51.50529 -0.02350
+
+	DSAL1
+		Images:	40089
+		Time:	21.04.2024 10:02:53 until 21.04.2024 17:05:25
+		Duration:	07:02:32
+		Location:	51.50529 -0.02350
+
+	DWIN1
+		Images:	34351
+		Time:	21.04.2024 09:29:12 until 21.04.2024 17:01:14
+		Duration:	07:32:02
+		Location:	51.50529 -0.02350
+
+(11) - Cutty Sark - Mile 6.4 / Km 10.2
+	EDAT1
+		Images:	9499
+		Time:	21.04.2024 09:26:41 until 21.04.2024 13:19:45
+		Duration:	03:53:04
+		Location:	51.48251 -0.01046
+
+(12) - Cutty Sark - Mile 6.4 / Km10.2
+	FKHR1
+		Images:	21637
+		Time:	21.04.2024 09:27:44 until 21.04.2024 13:32:36
+		Duration:	04:04:52
+		Location:	51.48336 -0.00955
+
+(13) - Cutty Sark - Mile 6.6 / Km 10.6
+	EHV1LS1
+		Images:	2744
+		Time:	20.04.2024 09:04:41 until 21.04.2024 13:15:36
+		Duration:	1.04:10:55
+		Location:	51.48251 -0.01046
+
+	EKHR1LS1
+		Images:	4290
+		Time:	21.04.2024 09:04:13 until 21.04.2024 13:13:04
+		Duration:	04:08:51
+		Location:	51.48251 -0.01046
+
+(14) - Cutty Sark - Mile 6.6 / Km10.6
+	FDD1
+		Images:	10954
+		Time:	21.04.2024 07:25:17 until 21.04.2024 13:25:08
+		Duration:	05:59:51
+		Location:	51.48251 -0.01046
+
+	FHV1
+		Images:	23472
+		Time:	21.04.2024 08:53:31 until 21.04.2024 13:28:36
+		Duration:	04:35:05
+		Location:	51.48211 -0.01000
+
+(15) - Finish
+	BSESA2
+		Images:	296
+		Time:	21.04.2024 19:38:17 until 21.04.2024 20:58:40
+		Duration:	01:20:23
+		Location:	51.50351 -0.13562
+
+	HMP2
+		Images:	10024
+		Time:	21.04.2024 06:01:21 until 21.04.2024 19:47:25
+		Duration:	13:46:04
+		Location:	51.50330 -0.13672
+
+	HMP4
+		Images:	10031
+		Time:	21.04.2024 06:12:41 until 21.04.2024 17:29:12
+		Duration:	11:16:31
+		Location:	51.50330 -0.13672
+
+(16) - Finishing
+	EDAR1
+		Images:	15983
+		Time:	21.04.2024 16:11:03 until 21.04.2024 19:37:51
+		Duration:	03:26:48
+		Location:	51.5025 -0.139
+
+	EGUD1
+		Images:	16039
+		Time:	21.04.2024 12:35:11 until 21.04.2024 19:37:00
+		Duration:	07:01:49
+		Location:	51.5025 -0.139
+
+	ELEM1
+		Images:	20160
+		Time:	21.04.2024 12:37:37 until 21.04.2024 19:35:56
+		Duration:	06:58:19
+		Location:	51.5025 -0.139
+
+	EMIH1
+		Images:	6773
+		Time:	21.04.2024 16:12:15 until 21.04.2024 19:35:26
+		Duration:	03:23:11
+		Location:	51.5025 -0.139
+
+	EPMA1
+		Images:	10215
+		Time:	21.04.2024 12:37:01 until 21.04.2024 19:35:15
+		Duration:	06:58:14
+		Location:	51.5025 -0.139
+
+	ETHS1
+		Images:	21620
+		Time:	21.04.2024 12:35:17 until 21.04.2024 19:36:42
+		Duration:	07:01:25
+		Location:	51.5025 -0.139
+
+(17) - Finishing - Mile 26.1 / Km 42
+	ADAR1
+		Images:	29838
+		Time:	21.04.2024 11:17:18 until 21.04.2024 16:09:38
+		Duration:	04:52:20
+		Location:	51.5025 -0.139
+
+	ADAR1LS1
+		Images:	3958
+		Time:	21.04.2024 12:37:58 until 21.04.2024 19:35:43
+		Duration:	06:57:45
+		Location:	51.5025 -0.139
+
+	AGUD1
+		Images:	38179
+		Time:	21.04.2024 12:40:04 until 21.04.2024 17:07:25
+		Duration:	04:27:21
+		Location:	51.5025 -0.139
+
+	AGUD1LS1
+		Images:	8073
+		Time:	21.04.2024 12:37:54 until 21.04.2024 19:26:25
+		Duration:	06:48:31
+		Location:	51.5025 -0.139
+
+	AJUT1
+		Images:	17378
+		Time:	21.04.2024 12:34:07 until 21.04.2024 19:32:31
+		Duration:	06:58:24
+		Location:	51.5025 -0.139
+
+	APMA1
+		Images:	11483
+		Time:	21.04.2024 16:10:35 until 21.04.2024 19:33:32
+		Duration:	03:22:57
+		Location:	51.5025 -0.139
+
+	APMA1LS1
+		Images:	11389
+		Time:	21.04.2024 12:37:15 until 21.04.2024 19:35:41
+		Duration:	06:58:26
+		Location:	51.5025 -0.139
+
+	AROH1
+		Images:	11260
+		Time:	21.04.2024 16:14:58 until 21.04.2024 19:35:31
+		Duration:	03:20:33
+		Location:	51.5025 -0.139
+
+	AROH1LS1
+		Images:	11787
+		Time:	21.04.2024 11:25:06 until 21.04.2024 19:36:21
+		Duration:	08:11:15
+		Location:	51.5025 -0.139
+
+	ATHS1
+	ATHS1LS1
+		Images:	8338
+		Time:	21.04.2024 12:34:48 until 21.04.2024 19:36:49
+		Duration:	07:02:01
+		Location:	51.5025 -0.139
+
+(18) - Finishing - Mile 26.1 /Km 42
+	FLEM1
+		Images:	21665
+		Time:	21.04.2024 12:35:04 until 21.04.2024 18:59:03
+		Duration:	06:23:59
+		Location:	51.50338 -0.13699
+
+	FMIH1
+		Images:	11550
+		Time:	21.04.2024 12:39:06 until 21.04.2024 16:10:40
+		Duration:	03:31:34
+		Location:	51.50338 -0.13699
+
+	FMIH1LS1
+		Images:	15718
+		Time:	21.04.2024 12:36:54 until 21.04.2024 16:49:28
+		Duration:	04:12:34
+		Location:	51.50338 -0.13699
+
+	FPMA1
+		Images:	21823
+		Time:	21.04.2024 12:40:24 until 21.04.2024 16:10:20
+		Duration:	03:29:56
+		Location:	51.50338 -0.13699
+
+	FROH1
+		Images:	21744
+		Time:	21.04.2024 12:38:16 until 21.04.2024 16:11:06
+		Duration:	03:32:50
+		Location:	51.50338 -0.13699
+
+	FROH1LS1
+		Images:	11794
+		Time:	21.04.2024 11:24:53 until 21.04.2024 19:36:17
+		Duration:	08:11:24
+		Location:	51.50338 -0.13699
+
+	FTHS1
+		Images:	43946
+		Time:	21.04.2024 12:05:46 until 21.04.2024 16:08:43
+		Duration:	04:02:57
+		Location:	51.50338 -0.13699
+
+	FTIH1
+		Images:	36156
+		Time:	21.04.2024 11:53:40 until 21.04.2024 19:35:10
+		Duration:	07:41:30
+		Location:	51.50338 -0.13699
+
+	FTIH1LS1
+		Images:	7955
+		Time:	21.04.2024 12:33:24 until 21.04.2024 19:26:42
+		Duration:	06:53:18
+		Location:	51.50338 -0.13699
+
+(19) - Golden Jubilee Bridge - Mile 25.07 / km 40.03
+	CKF1
+		Images:	24125
+		Time:	21.04.2024 10:29:02 until 21.04.2024 19:07:48
+		Duration:	08:38:46
+		Location:	NULL NULL
+
+	CQVT1
+		Images:	36842
+		Time:	21.04.2024 09:12:57 until 21.04.2024 19:07:59
+		Duration:	09:55:02
+		Location:	NULL NULL
+
+(20) - Impressions / Pano
+	PANO1
+(21) - London Eye - Mile 25.4 / Km 40.8
+	CCKC1
+		Images:	16566
+		Time:	21.04.2024 08:16:07 until 21.04.2024 19:15:29
+		Duration:	10:59:22
+		Location:	NULL NULL
+
+	CCUP1
+		Images:	21383
+		Time:	21.04.2024 08:36:57 until 21.04.2024 19:21:19
+		Duration:	10:44:22
+		Location:	NULL NULL
+
+	CGO1
+		Images:	22143
+		Time:	21.04.2024 09:14:58 until 21.04.2024 19:15:21
+		Duration:	10:00:23
+		Location:	NULL NULL
+
+	CYCAN1
+		Images:	8391
+		Time:	21.04.2024 08:33:42 until 21.04.2024 17:31:52
+		Duration:	08:58:10
+		Location:	NULL NULL
+
+(22) - Lower Thames St - Mile 23.3 / Km 37.4
+	CCH1
+		Images:	17852
+		Time:	21.04.2024 08:30:51 until 21.04.2024 15:33:54
+		Duration:	07:03:03
+		Location:	NULL NULL
+
+	CMADO1
+		Images:	48661
+		Time:	21.04.2024 10:23:50 until 21.04.2024 18:42:59
+		Duration:	08:19:09
+		Location:	NULL NULL
+
+	ECH1
+		Images:	22261
+		Time:	21.04.2024 10:24:06 until 21.04.2024 18:42:44
+		Duration:	08:18:38
+		Location:	51.5095 -0.08558
+
+(23) - Medals
+	ACLAO1
+		Images:	16837
+		Time:	21.04.2024 09:56:36 until 21.04.2024 19:37:28
+		Duration:	09:40:52
+		Location:	51.50431 -0.13721
+
+	ACMS1
+		Images:	2691
+		Time:	19.04.2024 09:28:05 until 21.04.2024 19:37:01
+		Duration:	2.10:08:56
+		Location:	51.50431 -0.13721
+
+	EAMK1
+		Images:	4813
+		Time:	21.04.2024 09:43:33 until 21.04.2024 19:30:03
+		Duration:	09:46:30
+		Location:	51.50431 -0.13721
+
+	ECMS1
+		Images:	2780
+		Time:	21.04.2024 09:25:15 until 21.04.2024 16:15:06
+		Duration:	06:49:51
+		Location:	51.50431 -0.13721
+
+	EDAT2
+		Images:	2374
+		Time:	21.04.2024 15:05:56 until 21.04.2024 18:50:07
+		Duration:	03:44:11
+		Location:	51.50431 -0.13721
+
+	EDD1
+		Images:	1777
+		Time:	21.04.2024 15:11:20 until 21.04.2024 18:22:37
+		Duration:	03:11:17
+		Location:	51.50431 -0.13721
+
+	EEVLE1
+		Images:	1979
+		Time:	21.04.2024 15:31:04 until 21.04.2024 19:35:33
+		Duration:	04:04:29
+		Location:	51.50431 -0.13721
+
+	EFRN1
+		Images:	916
+		Time:	21.04.2024 17:26:59 until 21.04.2024 18:13:15
+		Duration:	00:46:16
+		Location:	51.50431 -0.13721
+
+	EHV1
+		Images:	1766
+		Time:	21.04.2024 15:06:49 until 21.04.2024 19:34:43
+		Duration:	04:27:54
+		Location:	51.50431 -0.13721
+
+	EKHR1
+		Images:	2428
+		Time:	21.04.2024 15:11:04 until 21.04.2024 18:49:02
+		Duration:	03:37:58
+		Location:	51.50431 -0.13721
+
+	ELCOS1
+		Images:	631
+		Time:	21.04.2024 17:38:26 until 21.04.2024 18:48:32
+		Duration:	01:10:06
+		Location:	51.50431 -0.13721
+
+	EMG1
+		Images:	830
+		Time:	21.04.2024 16:39:51 until 21.04.2024 18:51:50
+		Duration:	02:11:59
+		Location:	51.50431 -0.13721
+
+	ESHAK1
+		Images:	1766
+		Time:	21.04.2024 15:06:49 until 21.04.2024 19:34:43
+		Duration:	04:27:54
+		Location:	51.50431 -0.13721
+
+	ESJH1
+		Images:	590
+		Time:	21.04.2024 16:38:52 until 21.04.2024 18:42:32
+		Duration:	02:03:40
+		Location:	51.50431 -0.13721
+
+	ESK1
+		Images:	3992
+		Time:	21.04.2024 16:39:11 until 21.04.2024 18:49:55
+		Duration:	02:10:44
+		Location:	51.50431 -0.13721
+
+	FCMS1
+		Images:	2780
+		Time:	21.04.2024 09:25:15 until 21.04.2024 15:28:12
+		Duration:	06:02:57
+		Location:	51.50432 -0.13462
+
+	FFRN1
+		Images:	15718
+		Time:	21.04.2024 11:22:33 until 21.04.2024 17:24:43
+		Duration:	06:02:10
+		Location:	51.50432 -0.13462
+
+	FJHD1
+		Images:	3463
+		Time:	21.04.2024 09:45:25 until 21.04.2024 19:33:03
+		Duration:	09:47:38
+		Location:	51.50432 -0.13462
+
+	FKYY1
+		Images:	9133
+		Time:	21.04.2024 09:13:20 until 21.04.2024 19:31:26
+		Duration:	10:18:06
+		Location:	51.50432 -0.13462
+
+	FLULE1
+		Images:	4876
+		Time:	21.04.2024 09:05:57 until 21.04.2024 15:29:35
+		Duration:	06:23:38
+		Location:	51.50432 -0.13462
+
+	FMF1
+		Images:	3012
+		Time:	21.04.2024 12:33:01 until 21.04.2024 15:27:59
+		Duration:	02:54:58
+		Location:	51.50432 -0.13462
+
+	FSHAK1
+		Images:	2266
+		Time:	21.04.2024 09:46:05 until 21.04.2024 15:04:58
+		Duration:	05:18:53
+		Location:	51.50432 -0.13462
+
+(24) - none
+	CAGP1
+		Images:	2171
+		Time:	21.04.2024 16:58:42 until 21.04.2024 19:22:26
+		Duration:	02:23:44
+		Location:	NULL NULL
+
+	CBKO1
+		Images:	8349
+		Time:	21.04.2024 16:37:29 until 21.04.2024 19:17:32
+		Duration:	02:40:03
+		Location:	NULL NULL
+
+	CCLL1
+		Images:	8
+		Time:	21.04.2024 11:17:18 until 21.04.2024 15:24:20
+		Duration:	04:07:02
+		Location:	NULL NULL
+
+	CDATI1
+		Images:	6596
+		Time:	21.04.2024 16:06:59 until 21.04.2024 19:19:51
+		Duration:	03:12:52
+		Location:	NULL NULL
+
+	CJAJ1
+		Images:	2400
+		Time:	21.04.2024 16:37:19 until 21.04.2024 18:56:33
+		Duration:	02:19:14
+		Location:	NULL NULL
+
+	CJJ1
+		Images:	674
+		Time:	21.04.2024 15:48:56 until 21.04.2024 19:20:06
+		Duration:	03:31:10
+		Location:	NULL NULL
+
+	CJUW1
+	CJUW1LS1
+		Images:	21528
+		Time:	21.04.2024 08:41:27 until 21.04.2024 19:01:44
+		Duration:	10:20:17
+		Location:	NULL NULL
+
+	CLOT1
+		Images:	4745
+		Time:	21.04.2024 16:36:02 until 21.04.2024 19:17:05
+		Duration:	02:41:03
+		Location:	NULL NULL
+
+	CLV1
+		Images:	15609
+		Time:	21.04.2024 16:14:49 until 21.04.2024 17:40:16
+		Duration:	01:25:27
+		Location:	NULL NULL
+
+	CMALV1
+		Images:	7116
+		Time:	21.04.2024 16:34:45 until 21.04.2024 19:01:55
+		Duration:	02:27:10
+		Location:	NULL NULL
+
+	CRM1
+		Images:	1001
+		Time:	21.04.2024 16:21:53 until 21.04.2024 16:46:35
+		Duration:	00:24:42
+		Location:	NULL NULL
+
+	CSHP1
+		Images:	4039
+		Time:	21.04.2024 16:36:30 until 21.04.2024 19:20:23
+		Duration:	02:43:53
+		Location:	NULL NULL
+
+	CSTEM1
+		Images:	13907
+		Time:	21.04.2024 08:44:18 until 21.04.2024 19:15:22
+		Duration:	10:31:04
+		Location:	NULL NULL
+
+	CTO1
+		Images:	5094
+		Time:	21.04.2024 15:39:08 until 21.04.2024 18:59:30
+		Duration:	03:20:22
+		Location:	NULL NULL
+
+	CYACN1
+		Images:	972
+		Time:	21.04.2024 17:33:38 until 21.04.2024 19:19:44
+		Duration:	01:46:06
+		Location:	NULL NULL
+
+(25) - Spur Road Gates - Mile 26.1 / Km 41.9
+	ADACU1
+		Images:	39846
+		Time:	21.04.2024 09:57:12 until 21.04.2024 19:31:24
+		Duration:	09:34:12
+		Location:	51.50130 -0.13997
+
+	AOV1
+		Images:	15202
+		Time:	21.04.2024 09:47:07 until 21.04.2024 19:32:11
+		Duration:	09:45:04
+		Location:	51.50130 -0.13997
+
+	ARJ1
+		Images:	21820
+		Time:	21.04.2024 10:01:59 until 21.04.2024 19:31:15
+		Duration:	09:29:16
+		Location:	51.50130 -0.13997
+
+	ARJ1LS1
+		Images:	5486
+		Time:	21.04.2024 12:33:27 until 21.04.2024 19:00:42
+		Duration:	06:27:15
+		Location:	51.50130 -0.13997
+
+	ARJ1LS2
+		Images:	7250
+		Time:	21.04.2024 12:33:13 until 21.04.2024 19:00:38
+		Duration:	06:27:25
+		Location:	51.50130 -0.13997
+
+(26) - Start
+	DCMU1
+		Images:	604
+		Time:	21.04.2024 07:40:34 until 21.04.2024 11:24:31
+		Duration:	03:43:57
+		Location:	51.47301 0.01122
+
+	DCMU1DRONE1
+		Images:	36
+		Time:	21.04.2024 07:56:44 until 21.04.2024 16:07:10
+		Duration:	08:10:26
+		Location:	51.47301 0.01122
+
+(27) - Tower Bridge - Mile 12.5 / Km 20
+	BGHI1
+		Images:	17641
+		Time:	21.04.2024 08:25:45 until 21.04.2024 15:21:40
+		Duration:	06:55:55
+		Location:	51.50613 -0.07497
+
+	BGJ1
+		Images:	18093
+		Time:	21.04.2024 09:11:27 until 21.04.2024 15:23:09
+		Duration:	06:11:42
+		Location:	51.50613 -0.07497
+
+	BGJ1LS1
+		Images:	4537
+		Time:	21.04.2024 11:06:22 until 21.04.2024 14:53:27
+		Duration:	03:47:05
+		Location:	51.50613 -0.07497
+
+	BGRR1
+		Images:	11230
+		Time:	21.04.2024 09:46:55 until 21.04.2024 15:24:28
+		Duration:	05:37:33
+		Location:	51.50613 -0.07497
+
+	BGWH1
+		Images:	16535
+		Time:	21.04.2024 08:19:36 until 21.04.2024 15:23:20
+		Duration:	07:03:44
+		Location:	51.50613 -0.07497
+
+	BLAE1
+		Images:	14148
+		Time:	21.04.2024 08:11:12 until 21.04.2024 15:24:04
+		Duration:	07:12:52
+		Location:	51.50613 -0.07497
+
+	BMELI1
+		Images:	22585
+		Time:	21.04.2024 08:26:39 until 21.04.2024 15:24:20
+		Duration:	06:57:41
+		Location:	51.50613 -0.07497
+
+	BMG1
+		Images:	9224
+		Time:	21.04.2024 09:37:26 until 21.04.2024 15:24:46
+		Duration:	05:47:20
+		Location:	51.50613 -0.07497
+
+	BMG1LS1
+		Images:	2719
+		Time:	21.04.2024 09:49:03 until 21.04.2024 14:57:14
+		Duration:	05:08:11
+		Location:	51.50613 -0.07497
+
+	BMK1
+		Images:	55372
+		Time:	21.04.2024 09:41:56 until 21.04.2024 15:15:56
+		Duration:	05:34:00
+		Location:	51.50613 -0.07497
+
+	BMK1LS1
+		Images:	9654
+		Time:	21.04.2024 09:13:53 until 21.04.2024 15:15:20
+		Duration:	06:01:27
+		Location:	51.50613 -0.07497
+
+	BMK1LS2
+		Images:	6372
+		Time:	21.04.2024 10:14:15 until 21.04.2024 14:53:29
+		Duration:	04:39:14
+		Location:	51.50613 -0.07497
+
+	BRM1
+		Images:	32992
+		Time:	21.04.2024 08:43:36 until 21.04.2024 15:22:18
+		Duration:	06:38:42
+		Location:	51.50613 -0.07497
+
+	BSJK1
+		Images:	11074
+		Time:	21.04.2024 08:59:30 until 21.04.2024 15:24:13
+		Duration:	06:24:43
+		Location:	51.50613 -0.07497
+
+	BSK1
+		Images:	17904
+		Time:	20.04.2024 18:15:46 until 21.04.2024 15:27:33
+		Duration:	21:11:47
+		Location:	51.50613 -0.07497
+
+	BSK1LS1
+		Images:	7028
+		Time:	20.04.2024 18:08:09 until 21.04.2024 14:11:37
+		Duration:	20:03:28
+		Location:	51.50613 -0.07497
+
+	DDACA1
+		Images:	10505
+		Time:	21.04.2024 08:14:27 until 21.04.2024 15:22:42
+		Duration:	07:08:15
+		Location:	51.50662 -0.07458
+
+	DLCO1
+		Images:	12344
+		Time:	21.04.2024 08:24:15 until 21.04.2024 15:22:08
+		Duration:	06:57:53
+		Location:	51.50662 -0.07458
+
+	DLV1
+		Images:	38734
+		Time:	21.04.2024 09:05:40 until 21.04.2024 15:24:25
+		Duration:	06:18:45
+		Location:	51.50662 -0.07458
+
+	DLV1LS1
+		Images:	6485
+		Time:	21.04.2024 11:05:21 until 21.04.2024 14:54:21
+		Duration:	03:49:00
+		Location:	51.50662 -0.07458
+
+	DPARO1
+		Images:	35088
+		Time:	21.04.2024 07:19:35 until 21.04.2024 15:22:43
+		Duration:	08:03:08
+		Location:	51.50662 -0.07458
+
+	DPARO1LS1
+		Images:	6761
+		Time:	21.04.2024 09:39:25 until 21.04.2024 15:11:09
+		Duration:	05:31:44
+		Location:	51.50662 -0.07458
+
+	EDACA1
+		Images:	271
+		Time:	21.04.2024 17:38:06 until 21.04.2024 18:47:22
+		Duration:	01:09:16
+		Location:	51.50575 -0.07522
+
+	EGRR1
+		Images:	974
+		Time:	21.04.2024 18:04:08 until 21.04.2024 18:56:49
+		Duration:	00:52:41
+		Location:	51.50575 -0.07522
+
+	EGWH1
+		Images:	4300
+		Time:	21.04.2024 17:19:22 until 21.04.2024 18:55:39
+		Duration:	01:36:17
+		Location:	51.50575 -0.07522
+
+	EMELI1
+		Images:	1305
+		Time:	21.04.2024 16:37:52 until 21.04.2024 18:49:52
+		Duration:	02:12:00
+		Location:	51.50575 -0.07522
+
+(28) - Tower of London - Mile 12.55 / Km 20.2
+	ALAE1
+		Images:	1427
+		Time:	21.04.2024 09:47:14 until 21.04.2024 18:55:26
+		Duration:	09:08:12
+		Location:	51.50869 -0.07388
+
+	CMK1
+		Images:	4375
+		Time:	21.04.2024 16:16:08 until 21.04.2024 17:23:32
+		Duration:	01:07:24
+		Location:	NULL NULL
+
+	DAGP1
+		Images:	3940
+		Time:	21.04.2024 08:50:02 until 21.04.2024 15:26:55
+		Duration:	06:36:53
+		Location:	51.50896 -0.07373
+
+	DJJ1
+		Images:	19687
+		Time:	21.04.2024 07:41:46 until 21.04.2024 15:26:03
+		Duration:	07:44:17
+		Location:	51.50896 -0.07373
+

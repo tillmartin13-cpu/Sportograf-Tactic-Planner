@@ -1,0 +1,134 @@
+EventId: 11760
+Spots: 21
+Total Images: 111672
+Time:	04.05.2024 16:36:00 to 05.05.2024 19:05:50
+Duration: 1.02:29:50
+
+(1) - 10,5 km Palm Brewery
+	ACD1
+		Images:	13294
+		Time:	05.05.2024 09:45:46 until 05.05.2024 14:39:07
+		Duration:	04:53:21
+		Location:	50.99607 4.26870
+
+	ACD1DRONE1
+		Images:	20
+		Time:	05.05.2024 11:19:20 until 05.05.2024 15:44:25
+		Duration:	04:25:05
+		Location:	50.99607 4.26870
+
+	ACD1LS1
+		Images:	3606
+		Time:	05.05.2024 09:15:08 until 05.05.2024 14:40:03
+		Duration:	05:24:55
+		Location:	50.99607 4.26870
+
+	ACD1LS2
+		Images:	3606
+		Time:	05.05.2024 09:18:58 until 05.05.2024 14:46:43
+		Duration:	05:27:45
+		Location:	50.99607 4.26870
+
+(2) - 300,0 m Before FInish
+	BDAH1
+		Images:	11637
+		Time:	05.05.2024 10:12:34 until 05.05.2024 16:48:13
+		Duration:	06:35:39
+		Location:	51.04221 4.32842
+
+	BDAH1LS1
+		Images:	2898
+		Time:	05.05.2024 10:28:13 until 05.05.2024 16:57:59
+		Duration:	06:29:46
+		Location:	51.04221 4.32842
+
+	BDAH1LS2
+		Images:	2798
+		Time:	05.05.2024 10:28:42 until 05.05.2024 16:51:01
+		Duration:	06:22:19
+		Location:	51.04221 4.32842
+
+(3) - 6,0 km
+	ATHL1
+		Images:	17299
+		Time:	04.05.2024 16:36:00 until 05.05.2024 13:27:31
+		Duration:	20:51:31
+		Location:	51.01674 4.29889
+
+	ATHL1LS1
+		Images:	3038
+		Time:	04.05.2024 16:42:35 until 05.05.2024 13:31:00
+		Duration:	20:48:25
+		Location:	51.01674 4.29889
+
+	ATHL1LS2
+		Images:	3052
+		Time:	04.05.2024 16:41:00 until 05.05.2024 13:37:01
+		Duration:	20:56:01
+		Location:	51.01674 4.29889
+
+(4) - 9,5 km Kasteel Diepensteyn
+	AHM1
+		Images:	7418
+		Time:	04.05.2024 17:46:29 until 05.05.2024 14:23:26
+		Duration:	20:36:57
+		Location:	51.00050 4.27127
+
+	AHM1DRONE2
+		Images:	4
+		Time:	05.05.2024 09:48:55 until 05.05.2024 09:49:42
+		Duration:	00:00:47
+		Location:	51.00050 4.27127
+
+	AHM1LS1
+		Images:	3725
+		Time:	05.05.2024 09:05:59 until 05.05.2024 14:12:21
+		Duration:	05:06:22
+		Location:	51.00050 4.27127
+
+	AHM1LS2
+		Images:	3723
+		Time:	05.05.2024 09:07:35 until 05.05.2024 14:12:21
+		Duration:	05:04:46
+		Location:	51.00050 4.27127
+
+(5) - 9,6 km Kasteel Diepensteyn
+	AANR1
+		Images:	10942
+		Time:	05.05.2024 09:33:51 until 05.05.2024 14:33:50
+		Duration:	04:59:59
+		Location:	51.00009 4.27121
+
+(6) - Finish
+	BDAH2
+		Images:	3040
+		Time:	05.05.2024 16:50:18 until 05.05.2024 19:05:50
+		Duration:	02:15:32
+		Location:	51.04154 4.32868
+
+	BDAH2LS1
+		Images:	1820
+		Time:	05.05.2024 16:58:07 until 05.05.2024 18:45:18
+		Duration:	01:47:11
+		Location:	51.04154 4.32868
+
+	BDAH2LS2
+		Images:	1640
+		Time:	05.05.2024 16:58:14 until 05.05.2024 18:47:46
+		Duration:	01:49:32
+		Location:	51.04154 4.32868
+
+	BFVE1
+		Images:	5658
+		Time:	05.05.2024 10:17:12 until 05.05.2024 16:42:13
+		Duration:	06:25:01
+		Location:	51.04154 4.32868
+
+	BGVDL1
+		Images:	12454
+		Time:	05.05.2024 10:15:25 until 05.05.2024 18:26:50
+		Duration:	08:11:25
+		Location:	51.04154 4.32868
+
+(7) - Impressions / Pano
+	PANO1

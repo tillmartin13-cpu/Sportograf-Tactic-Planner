@@ -1,0 +1,238 @@
+EventId: 10468
+Spots: 34
+Total Images: 143205
+Time:	01.01.0001 23:00:00 to 04.11.2023 13:37:15
+Duration: 738826.14:37:15
+
+(1) - 0.0 km abdo msc 3 853595
+	IASH1
+		Images:	8965
+		Time:	04.11.2023 07:13:24 until 04.11.2023 08:40:21
+		Duration:	01:26:57
+		Location:	NULL NULL
+
+(2) - 0.0 km Amanda msc 4 854762
+	HAAD1
+		Images:	2977
+		Time:	09.07.2023 09:09:37 until 04.11.2023 08:15:12
+		Duration:	117.23:05:35
+		Location:	NULL NULL
+
+(3) - 0.0 km bene 854760 msc 4
+	IBB1
+		Images:	5914
+		Time:	04.11.2023 07:22:25 until 04.11.2023 08:55:16
+		Duration:	01:32:51
+		Location:	NULL NULL
+
+(4) - 0.0 km Christine MSC 4 854761
+	HCCL1
+		Images:	4264
+		Time:	04.11.2023 06:39:11 until 04.11.2023 08:04:18
+		Duration:	01:25:07
+		Location:	NULL NULL
+
+(5) - 0.0 km Claude bird 853569 candids
+	FCBIR1
+		Images:	2586
+		Time:	04.11.2023 04:03:45 until 04.11.2023 06:13:30
+		Duration:	02:09:45
+		Location:	NULL NULL
+
+(6) - 0.0 km Conor Start 853589
+	JCGAY1
+		Images:	239
+		Time:	02.11.2023 12:48:47 until 04.11.2023 12:06:54
+		Duration:	1.23:18:07
+		Location:	NULL NULL
+
+(7) - 0.0 km Finish Lance Edwards 853586
+	FLEDW1
+		Images:	10493
+		Time:	04.11.2023 07:26:56 until 04.11.2023 09:58:43
+		Duration:	02:31:47
+		Location:	NULL NULL
+
+(8) - 0.0 km Finish Toby Cheung 853585
+	FTCHE1
+		Images:	8898
+		Time:	04.11.2023 04:19:23 until 04.11.2023 06:15:51
+		Duration:	01:56:28
+		Location:	NULL NULL
+
+(9) - 0.0 km finish trigger center 853588
+	GFTC1
+		Images:	3976
+		Time:	04.11.2023 10:59:41 until 04.11.2023 12:54:13
+		Duration:	01:54:32
+		Location:	NULL NULL
+
+(10) - 0.0 km finish trigger left 853587
+	GFTL1
+		Images:	3930
+		Time:	04.11.2023 07:14:34 until 04.11.2023 09:08:04
+		Duration:	01:53:30
+		Location:	NULL NULL
+
+(11) - 0.0 km Finish trigger right
+	GFTR1
+		Images:	4047
+		Time:	04.11.2023 07:56:59 until 04.11.2023 09:09:00
+		Duration:	01:12:01
+		Location:	NULL NULL
+
+(12) - 0.0 km Heide 853583
+	GHCHE1
+		Images:	3104
+		Time:	04.11.2023 07:39:06 until 04.11.2023 08:26:03
+		Duration:	00:46:57
+		Location:	NULL NULL
+
+(13) - 0.0 km JC MSC 1 853584
+	GJCC1
+		Images:	3919
+		Time:	04.11.2023 07:35:56 until 04.11.2023 08:22:59
+		Duration:	00:47:03
+		Location:	NULL NULL
+
+(14) - 0.0 km Marco Todaro msc 3 853596
+	HMTO1
+		Images:	4081
+		Time:	04.11.2023 07:23:40 until 04.11.2023 08:48:14
+		Duration:	01:24:34
+		Location:	NULL NULL
+
+(15) - 0.0 km Megyn Barroner, 853568 candids
+	JMBAR1
+		Images:	721
+		Time:	01.01.0001 23:00:00 until 04.11.2023 08:09:27
+		Duration:	738826.09:09:27
+		Location:	NULL NULL
+
+(16) - 0.0 km michael monahan 853594 msc 2
+	GMMON1
+		Images:	6448
+		Time:	04.11.2023 07:17:28 until 04.11.2023 08:30:56
+		Duration:	01:13:28
+		Location:	NULL NULL
+
+(17) - 0.0 km msc 1 trigger
+	GTRA1
+		Images:	2225
+		Time:	04.11.2023 07:42:14 until 04.11.2023 08:28:11
+		Duration:	00:45:57
+		Location:	NULL NULL
+
+(18) - 0.0 km msc 2 trigger 854979
+	GTRB1
+		Images:	2978
+		Time:	04.11.2023 07:23:53 until 04.11.2023 08:42:09
+		Duration:	01:18:16
+		Location:	NULL NULL
+
+(19) - 0.0 km pablo msc 1 853582
+	GPBAR1
+		Images:	1371
+		Time:	04.11.2023 07:51:44 until 04.11.2023 08:29:30
+		Duration:	00:37:46
+		Location:	NULL NULL
+
+(20) - 0.0 km Pol msc 4 854981
+	IPOL1
+		Images:	6026
+		Time:	04.11.2023 04:29:12 until 04.11.2023 05:53:35
+		Duration:	01:24:23
+		Location:	NULL NULL
+
+(21) - 0.0 km Pre finish Barbara Spree 853577
+	FBSPR1
+		Images:	3618
+		Time:	04.11.2023 07:37:48 until 04.11.2023 09:28:55
+		Duration:	01:51:07
+		Location:	NULL NULL
+
+(22) - 0.0 km Pre Finish Dave Tideswell 853575
+	FDTID1
+		Images:	5834
+		Time:	04.11.2023 08:05:35 until 04.11.2023 09:20:22
+		Duration:	01:14:47
+		Location:	NULL NULL
+
+(23) - 0.0 km Pre finish Jacob Kander 853579
+	JKAND1
+		Images:	3754
+		Time:	04.11.2023 08:02:14 until 04.11.2023 09:20:25
+		Duration:	01:18:11
+		Location:	NULL NULL
+
+(24) - 0.0 km Pre Finish Lucy Baptiste 853578
+	FLBAP1
+		Images:	711
+		Time:	04.01.2022 17:07:52 until 04.01.2022 18:21:43
+		Duration:	01:13:51
+		Location:	NULL NULL
+
+(25) - 0.0 km Pre finish Tom Janas 853576
+	FTJAN1
+		Images:	11197
+		Time:	04.11.2023 08:09:50 until 04.11.2023 09:21:11
+		Duration:	01:11:21
+		Location:	NULL NULL
+
+(26) - 0.0 km pre finish trigger ground 853581
+	GPFTG1
+		Images:	4487
+		Time:	04.11.2023 08:04:51 until 04.11.2023 09:23:14
+		Duration:	01:18:23
+		Location:	NULL NULL
+
+(27) - 0.0 km pre finish trigger left 853580
+	GPFTL1
+		Images:	3406
+		Time:	04.11.2023 08:06:56 until 04.11.2023 09:04:58
+		Duration:	00:58:02
+		Location:	NULL NULL
+
+(28) - 0.0 km pre finish triggr right
+	GPRTR1
+		Images:	3531
+		Time:	08.10.2023 07:42:55 until 04.11.2023 09:09:58
+		Duration:	27.01:27:03
+		Location:	NULL NULL
+
+(29) - 0.0 km ronnel grant medals 853574
+	JRGR1
+		Images:	524
+		Time:	08.10.2023 07:42:55 until 04.11.2023 09:22:45
+		Duration:	27.01:39:50
+		Location:	NULL NULL
+
+(30) - 0.0 km sarah lacuesta 853593 msc 2
+	GSLA1
+		Images:	5453
+		Time:	04.11.2023 07:35:25 until 04.11.2023 11:23:41
+		Duration:	03:48:16
+		Location:	NULL NULL
+
+(31) - 0.0 km Van q msc 2 853592
+	GVAN1
+		Images:	6452
+		Time:	04.11.2023 12:35:52 until 04.11.2023 13:37:15
+		Duration:	01:01:23
+		Location:	NULL NULL
+
+(32) - Impressions / Pano
+	PANO1
+(33) - none
+	GFRU1
+		Images:	4353
+		Time:	04.11.2023 08:20:42 until 04.11.2023 09:40:38
+		Duration:	01:19:56
+		Location:	NULL NULL
+
+	GTRC1
+		Images:	2723
+		Time:	04.11.2023 07:10:29 until 04.11.2023 08:35:14
+		Duration:	01:24:45
+		Location:	NULL NULL
+

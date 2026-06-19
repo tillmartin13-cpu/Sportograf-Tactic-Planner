@@ -1,0 +1,201 @@
+EventId: 22474
+Spots: 35
+Total Images: 123984
+Time:	01.01.0001 23:00:00 to 10.01.2026 20:50:30
+Duration: 739624.21:50:30
+
+(1) - 0,0 km
+	AIHOU1
+		Images:	2885
+		Time:	10.01.2026 07:33:04 until 10.01.2026 08:50:50
+		Duration:	01:17:46
+		Location:	NULL NULL
+
+(2) - 0.0 km
+	BABAR1
+		Images:	4994
+		Time:	10.01.2026 06:59:29 until 10.01.2026 08:26:02
+		Duration:	01:26:33
+		Location:	NULL NULL
+
+	BABAR1LS1
+		Images:	5077
+		Time:	10.01.2026 06:58:31 until 10.01.2026 08:26:21
+		Duration:	01:27:50
+		Location:	NULL NULL
+
+	CBRAN1
+		Images:	5028
+		Time:	10.01.2026 07:07:47 until 10.01.2026 08:56:12
+		Duration:	01:48:25
+		Location:	NULL NULL
+
+	CBRAN1LS1
+		Images:	4734
+		Time:	10.01.2026 07:20:00 until 10.01.2026 08:38:53
+		Duration:	01:18:53
+		Location:	NULL NULL
+
+	CDOUG1
+		Images:	4051
+		Time:	10.01.2026 06:56:36 until 10.01.2026 07:56:27
+		Duration:	00:59:51
+		Location:	NULL NULL
+
+	CJULI1
+		Images:	1109
+		Time:	10.01.2026 06:50:08 until 10.01.2026 07:23:55
+		Duration:	00:33:47
+		Location:	NULL NULL
+
+(3) - Ceremony
+	CBARR1
+		Images:	988
+		Time:	09.01.2026 06:58:48 until 09.01.2026 09:50:20
+		Duration:	02:51:32
+		Location:	NULL NULL
+
+	CCARR1
+		Images:	905
+		Time:	10.01.2026 07:03:02 until 10.01.2026 09:48:01
+		Duration:	02:44:59
+		Location:	NULL NULL
+
+	CDIAZ1
+		Images:	759
+		Time:	10.01.2026 03:07:47 until 10.01.2026 05:02:15
+		Duration:	01:54:28
+		Location:	NULL NULL
+
+	CMCCA1
+		Images:	1531
+		Time:	10.01.2026 06:03:29 until 10.01.2026 08:52:38
+		Duration:	02:49:09
+		Location:	NULL NULL
+
+(4) - Impressions / Pano
+	PANO1
+(5) - none
+	AADIC1
+	AANG1
+	AANG1LS1
+		Images:	4155
+		Time:	10.01.2026 07:25:30 until 10.01.2026 08:35:06
+		Duration:	01:09:36
+		Location:	NULL NULL
+
+	ABFLO1
+		Images:	3340
+		Time:	10.01.2026 08:04:48 until 10.01.2026 09:56:08
+		Duration:	01:51:20
+		Location:	NULL NULL
+
+	AJLAU1
+		Images:	7572
+		Time:	10.01.2026 07:04:54 until 10.01.2026 08:46:51
+		Duration:	01:41:57
+		Location:	NULL NULL
+
+	AJLAU1LS1
+		Images:	4589
+		Time:	10.01.2026 07:19:59 until 10.01.2026 08:37:43
+		Duration:	01:17:44
+		Location:	NULL NULL
+
+	ALBAR1
+	ALBAR1LS1
+		Images:	5873
+		Time:	10.01.2026 18:25:37 until 10.01.2026 20:50:30
+		Duration:	02:24:53
+		Location:	NULL NULL
+
+	ATBOR1
+		Images:	3148
+		Time:	10.01.2026 07:11:37 until 10.01.2026 08:58:26
+		Duration:	01:46:49
+		Location:	NULL NULL
+
+	BCCOR1
+		Images:	9163
+		Time:	10.01.2026 06:58:34 until 10.01.2026 08:25:06
+		Duration:	01:26:32
+		Location:	NULL NULL
+
+	BJBAT1
+		Images:	3561
+		Time:	10.01.2026 08:03:46 until 10.01.2026 09:53:00
+		Duration:	01:49:14
+		Location:	NULL NULL
+
+	BJMOR1
+		Images:	3497
+		Time:	10.01.2026 07:41:30 until 10.01.2026 08:48:38
+		Duration:	01:07:08
+		Location:	NULL NULL
+
+	BLBAR1
+		Images:	14652
+		Time:	01.01.0001 23:00:00 until 10.01.2026 08:51:00
+		Duration:	739624.09:51:00
+		Location:	NULL NULL
+
+	BLMCK1
+		Images:	3252
+		Time:	10.01.2026 07:01:05 until 10.01.2026 09:51:08
+		Duration:	02:50:03
+		Location:	NULL NULL
+
+	BRFER1
+		Images:	3029
+		Time:	10.01.2026 07:04:54 until 10.01.2026 08:51:43
+		Duration:	01:46:49
+		Location:	NULL NULL
+
+	CBRAN1LS2
+		Images:	4456
+		Time:	23.11.2025 09:18:20 until 10.01.2026 08:39:45
+		Duration:	47.23:21:25
+		Location:	NULL NULL
+
+	CDOUG1LS1
+		Images:	3530
+		Time:	09.01.2026 05:55:51 until 09.01.2026 06:55:40
+		Duration:	00:59:49
+		Location:	NULL NULL
+
+	CIZIA1
+		Images:	514
+		Time:	10.01.2026 06:50:57 until 10.01.2026 07:24:00
+		Duration:	00:33:03
+		Location:	NULL NULL
+
+	CJAKE1
+		Images:	5827
+		Time:	10.01.2026 07:14:05 until 10.01.2026 08:46:38
+		Duration:	01:32:33
+		Location:	NULL NULL
+
+	CJAKE1LS1
+		Images:	5008
+		Time:	10.01.2026 04:54:02 until 10.01.2026 06:40:10
+		Duration:	01:46:08
+		Location:	NULL NULL
+
+	CJAKE1LS2
+		Images:	3755
+		Time:	10.01.2026 07:10:30 until 10.01.2026 08:25:17
+		Duration:	01:14:47
+		Location:	NULL NULL
+
+	CJULI1LS1
+		Images:	754
+		Time:	01.01.0001 23:00:00 until 09.01.2026 23:03:04
+		Duration:	739624.00:03:04
+		Location:	NULL NULL
+
+	CMARD1
+		Images:	2248
+		Time:	10.01.2026 06:44:50 until 10.01.2026 08:04:30
+		Duration:	01:19:40
+		Location:	NULL NULL
+

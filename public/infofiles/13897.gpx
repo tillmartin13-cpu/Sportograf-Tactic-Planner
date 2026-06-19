@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "39.84235" lon = "3.12669"><name>WRFG1</name><desc>Start
+Images:480
+First:22.02.2025 06:23:43
+Last:22.02.2025 07:35:43
+Duration:01:12:00
+</desc></wpt>
+<wpt lat = "39.84235" lon = "3.12669"><name>WRFG1IMP1</name><desc>0.0 km
+Images:43
+First:22.02.2025 06:10:42
+Last:22.02.2025 07:37:49
+Duration:01:27:07
+</desc></wpt>
+<wpt lat = "39.83518" lon = "3.14858"><name>KKP1</name><desc>2.6 km
+Images:2023
+First:22.02.2025 06:21:11
+Last:22.02.2025 07:58:18
+Duration:01:37:07
+</desc></wpt>
+<wpt lat = "39.83679" lon = "3.15497"><name>ACC1</name><desc>3.2 km
+Images:768
+First:22.02.2025 06:04:57
+Last:22.02.2025 08:23:23
+Duration:02:18:26
+</desc></wpt>
+<wpt lat = "39.83679" lon = "3.15497"><name>ACC1LS1</name><desc>3.2 km
+Images:908
+First:22.02.2025 06:01:33
+Last:22.02.2025 07:53:17
+Duration:01:51:44
+</desc></wpt>
+<wpt lat = "39.83879" lon = "3.16276"><name>FJPH1</name><desc>3.9 km
+Images:2097
+First:22.02.2025 05:58:12
+Last:22.02.2025 08:18:45
+Duration:02:20:33
+</desc></wpt>
+<wpt lat = "39.83814" lon = "3.15338"><name>WRFG2</name><desc>5.1 km
+Images:731
+First:22.02.2025 07:48:52
+Last:22.02.2025 08:13:13
+Duration:00:24:21
+</desc></wpt>
+<wpt lat = "39.84128" lon = "3.14446"><name>MICE1</name><desc>6.3 km
+Images:2378
+First:22.02.2025 06:01:33
+Last:22.02.2025 08:48:02
+Duration:02:46:29
+</desc></wpt>
+<wpt lat = "39.85900" lon = "3.11064"><name>KKP2</name><desc>12.0 km
+Images:1452
+First:22.02.2025 08:12:29
+Last:22.02.2025 10:21:34
+Duration:02:09:05
+</desc></wpt>
+<wpt lat = "39.86330" lon = "3.12157"><name>ACC2</name><desc>13.8 km
+Images:1342
+First:22.02.2025 08:27:05
+Last:22.02.2025 10:45:07
+Duration:02:18:02
+</desc></wpt>
+<wpt lat = "39.86330" lon = "3.12157"><name>ACC2LS1</name><desc>13.8 km
+Images:1159
+First:22.02.2025 08:23:28
+Last:22.02.2025 10:45:15
+Duration:02:21:47
+</desc></wpt>
+<wpt lat = "39.86487" lon = "3.13743"><name>FJPH2</name><desc>15.5 km
+Images:1688
+First:22.02.2025 08:59:40
+Last:22.02.2025 11:32:54
+Duration:02:33:14
+</desc></wpt>
+<wpt lat = "39.87094" lon = "3.15447"><name>WRFG2DRONE1</name><desc>18.2 km
+Images:48
+First:16.02.2025 22:42:24
+Last:22.02.2025 08:57:38
+Duration:5.10:15:14
+</desc></wpt>
+<wpt lat = "39.87094" lon = "3.15447"><name>WRFG3</name><desc>18.2 km
+Images:6430
+First:22.02.2025 09:17:15
+Last:22.02.2025 12:47:24
+Duration:03:30:09
+</desc></wpt>
+<wpt lat = "39.87256" lon = "3.16224"><name>MICE2</name><desc>19.2 km
+Images:3043
+First:22.02.2025 09:08:08
+Last:22.02.2025 12:04:39
+Duration:02:56:31
+</desc></wpt>
+<wpt lat = "39.81828" lon = "3.11209"><name>FJPH3</name><desc>46.5 km
+Images:4333
+First:22.02.2025 13:34:50
+Last:22.02.2025 18:11:27
+Duration:04:36:37
+</desc></wpt>
+<wpt lat = "39.82960" lon = "3.11873"><name>WRFG4</name><desc>48.2 km
+Images:3973
+First:22.02.2025 14:15:49
+Last:22.02.2025 19:15:51
+Duration:05:00:02
+</desc></wpt>
+<wpt lat = "39.83727" lon = "3.12356"><name>ACC3</name><desc>49.3 km
+Images:1719
+First:22.02.2025 12:54:21
+Last:22.02.2025 19:20:37
+Duration:06:26:16
+</desc></wpt>
+<wpt lat = "39.83727" lon = "3.12356"><name>ACC3LS1</name><desc>49.3 km
+Images:1416
+First:22.02.2025 13:30:15
+Last:22.02.2025 17:48:21
+Duration:04:18:06
+</desc></wpt>
+<wpt lat = "39.84227" lon = "3.12629"><name>MICE3</name><desc>Finish
+Images:2146
+First:22.02.2025 12:59:47
+Last:22.02.2025 20:01:19
+Duration:07:01:32
+</desc></wpt>
+<wpt lat = "39.84227" lon = "3.12629"><name>MICE3LS1</name><desc>Finish
+Images:1342
+First:22.02.2025 13:10:48
+Last:22.02.2025 17:57:29
+Duration:04:46:41
+</desc></wpt>
+<wpt lat = "39.84227" lon = "3.12629"><name>MICE3LS2</name><desc>Finish
+Images:771
+First:22.02.2025 13:03:42
+Last:22.02.2025 17:44:17
+Duration:04:40:35
+</desc></wpt>
+<wpt lat = "39.84235" lon = "3.12756"><name>KKP3</name><desc>Herotent
+Images:569
+First:22.02.2025 13:00:36
+Last:22.02.2025 19:11:26
+Duration:06:10:50
+</desc></wpt>
+</gpx>

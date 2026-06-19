@@ -1,0 +1,38 @@
+EventId: 16531
+Spots: 5
+Total Images: 18238
+Time:	04.05.2025 10:13:44 to 04.05.2025 13:46:39
+Duration: 03:32:55
+
+(1) - Start/Finish
+	DARU1
+		Images:	3691
+		Time:	04.05.2025 10:24:41 until 04.05.2025 13:33:57
+		Duration:	03:09:16
+		Location:	45.88351 10.85075
+
+	DARU1LS1
+		Images:	2795
+		Time:	04.05.2025 10:31:53 until 04.05.2025 13:36:08
+		Duration:	03:04:15
+		Location:	45.88351 10.85075
+
+(2) - All race
+	LULE1
+		Images:	5837
+		Time:	04.05.2025 10:13:44 until 04.05.2025 13:33:52
+		Duration:	03:20:08
+		Location:	45.88375 10.85049
+
+	LULE1LS1
+		Images:	3495
+		Time:	04.05.2025 11:07:17 until 04.05.2025 13:46:39
+		Duration:	02:39:22
+		Location:	45.88375 10.85049
+
+	LULE1LS2
+		Images:	2420
+		Time:	04.05.2025 10:52:01 until 04.05.2025 12:54:05
+		Duration:	02:02:04
+		Location:	45.88375 10.85049
+

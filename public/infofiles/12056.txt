@@ -1,0 +1,279 @@
+EventId: 12056
+Spots: 43
+Total Images: 444722
+Time:	20.04.2024 20:01:39 to 21.04.2024 17:40:42
+Duration: 21:39:03
+
+(1) - 1,7 km
+	AKV1
+		Images:	4831
+		Time:	21.04.2024 11:29:11 until 21.04.2024 16:37:41
+		Duration:	05:08:30
+		Location:	51.21232 4.37804
+
+	BJKE1
+		Images:	17448
+		Time:	20.04.2024 20:29:23 until 21.04.2024 17:33:42
+		Duration:	21:04:19
+		Location:	51.21261 4.37856
+
+	BJKE1LS1
+		Images:	4311
+		Time:	21.04.2024 12:23:23 until 21.04.2024 14:22:58
+		Duration:	01:59:35
+		Location:	51.21261 4.37856
+
+(2) - 10,4 km
+	BDRI1
+		Images:	38925
+		Time:	21.04.2024 13:35:32 until 21.04.2024 16:35:30
+		Duration:	02:59:58
+		Location:	51.21578 4.39332
+
+	BDRI1LS1
+		Images:	10456
+		Time:	21.04.2024 13:25:58 until 21.04.2024 16:34:37
+		Duration:	03:08:39
+		Location:	51.21578 4.39332
+
+	BDRI1LS2
+		Images:	5254
+		Time:	21.04.2024 13:18:20 until 21.04.2024 16:30:47
+		Duration:	03:12:27
+		Location:	51.21578 4.39332
+
+(3) - 10,9 km
+	BOT1
+		Images:	11194
+		Time:	21.04.2024 08:36:28 until 21.04.2024 16:35:39
+		Duration:	07:59:11
+		Location:	51.21871 4.39522
+
+(4) - 11,2 km
+	BMB1
+		Images:	7269
+		Time:	21.04.2024 13:36:49 until 21.04.2024 16:28:29
+		Duration:	02:51:40
+		Location:	51.22152 4.39730
+
+(5) - 11,3 km
+	BMW1
+		Images:	13694
+		Time:	21.04.2024 08:41:59 until 21.04.2024 16:39:55
+		Duration:	07:57:56
+		Location:	51.22155 4.39705
+
+(6) - 11,4 km
+	BMAW1
+		Images:	17346
+		Time:	21.04.2024 13:24:36 until 21.04.2024 16:30:01
+		Duration:	03:05:25
+		Location:	51.22291 4.39825
+
+	BMAW1LS1
+		Images:	9607
+		Time:	21.04.2024 13:18:21 until 21.04.2024 16:19:41
+		Duration:	03:01:20
+		Location:	51.22291 4.39825
+
+	BMAW1LS2
+		Images:	8937
+		Time:	21.04.2024 13:12:27 until 21.04.2024 16:29:18
+		Duration:	03:16:51
+		Location:	51.22291 4.39825
+
+(7) - 12,0 km
+	BOP1
+		Images:	9281
+		Time:	21.04.2024 11:39:28 until 21.04.2024 16:40:47
+		Duration:	05:01:19
+		Location:	51.22913 4.40208
+
+	BOP1LS1
+		Images:	4986
+		Time:	21.04.2024 13:39:13 until 21.04.2024 16:33:37
+		Duration:	02:54:24
+		Location:	51.22913 4.40208
+
+(8) - 12,2 km
+	BFLOF1
+		Images:	18929
+		Time:	20.04.2024 20:03:00 until 21.04.2024 16:42:04
+		Duration:	20:39:04
+		Location:	51.22977 4.40205
+
+(9) - 12,6 km
+	BNWO1
+		Images:	12632
+		Time:	21.04.2024 13:41:16 until 21.04.2024 16:51:41
+		Duration:	03:10:25
+		Location:	51.22934 4.40547
+
+	BNWO1LS1
+		Images:	3223
+		Time:	21.04.2024 13:14:24 until 21.04.2024 16:50:14
+		Duration:	03:35:50
+		Location:	51.22934 4.40547
+
+	BNWO1LS2
+		Images:	3704
+		Time:	21.04.2024 13:25:19 until 21.04.2024 17:01:22
+		Duration:	03:36:03
+		Location:	51.22934 4.40547
+
+(10) - 12,8 km MAS Museum
+	APBO1
+		Images:	10480
+		Time:	21.04.2024 14:45:18 until 21.04.2024 16:51:13
+		Duration:	02:05:55
+		Location:	51.22795 4.40527
+
+(11) - 14,0 km
+	ADAH1
+		Images:	21208
+		Time:	21.04.2024 13:43:31 until 21.04.2024 16:46:25
+		Duration:	03:02:54
+		Location:	51.22703 4.41131
+
+	ADAH1LS1
+		Images:	5757
+		Time:	21.04.2024 13:30:09 until 21.04.2024 16:49:38
+		Duration:	03:19:29
+		Location:	51.22703 4.41131
+
+	ADAH1LS2
+		Images:	9056
+		Time:	21.04.2024 13:23:32 until 21.04.2024 16:21:23
+		Duration:	02:57:51
+		Location:	51.22703 4.41131
+
+(12) - 2,4 km
+	BMSC1
+		Images:	7140
+		Time:	21.04.2024 11:20:30 until 21.04.2024 15:19:51
+		Duration:	03:59:21
+		Location:	51.21022 4.37344
+
+(13) - 3,3 km
+	ATID1
+		Images:	3463
+		Time:	21.04.2024 11:15:01 until 21.04.2024 12:39:19
+		Duration:	01:24:18
+		Location:	51.21652 4.37869
+
+	ATID1LS1
+		Images:	2583
+		Time:	21.04.2024 11:03:35 until 21.04.2024 12:33:35
+		Duration:	01:30:00
+		Location:	51.21652 4.37869
+
+(14) - 8,8 km
+	BPV1
+		Images:	9805
+		Time:	21.04.2024 12:45:05 until 21.04.2024 16:19:40
+		Duration:	03:34:35
+		Location:	51.20501 4.38896
+
+	BSSW1
+		Images:	16312
+		Time:	20.04.2024 20:15:08 until 21.04.2024 16:19:16
+		Duration:	20:04:08
+		Location:	51.20445 4.38918
+
+(15) - 9,2 km
+	BEVI1
+		Images:	21483
+		Time:	20.04.2024 20:58:53 until 21.04.2024 17:40:42
+		Duration:	20:41:49
+		Location:	51.20734 4.39117
+
+(16) - 9,4 km
+	BRVAM1
+		Images:	7820
+		Time:	20.04.2024 20:01:39 until 21.04.2024 16:25:33
+		Duration:	20:23:54
+		Location:	51.20935 4.39389
+
+(17) - 9,6 km
+	BAPB1
+		Images:	18472
+		Time:	21.04.2024 10:11:36 until 21.04.2024 17:38:37
+		Duration:	07:27:01
+		Location:	51.20978 4.39443
+
+(18) - Finish
+	AALE2
+		Images:	1521
+		Time:	21.04.2024 15:47:33 until 21.04.2024 16:46:35
+		Duration:	00:59:02
+		Location:	51.22935 4.37844
+
+	ADER2
+		Images:	1949
+		Time:	21.04.2024 15:22:12 until 21.04.2024 16:58:30
+		Duration:	01:36:18
+		Location:	51.22935 4.37844
+
+	AFVE1
+		Images:	6553
+		Time:	21.04.2024 10:35:07 until 21.04.2024 16:52:50
+		Duration:	06:17:43
+		Location:	51.22935 4.37844
+
+	ALMC2
+		Images:	21839
+		Time:	21.04.2024 13:50:40 until 21.04.2024 17:33:56
+		Duration:	03:43:16
+		Location:	51.22935 4.37844
+
+	ATID2
+		Images:	16974
+		Time:	21.04.2024 13:41:52 until 21.04.2024 17:33:28
+		Duration:	03:51:36
+		Location:	51.22935 4.37844
+
+	ATID2LS1
+		Images:	13372
+		Time:	21.04.2024 13:04:29 until 21.04.2024 17:33:38
+		Duration:	04:29:09
+		Location:	51.22935 4.37844
+
+	BJKE2
+		Images:	1186
+		Time:	21.04.2024 16:08:03 until 21.04.2024 16:47:01
+		Duration:	00:38:58
+		Location:	51.22935 4.37844
+
+(19) - Impressions / Pano
+	PANO1
+(20) - Start
+	AALE1
+		Images:	10694
+		Time:	21.04.2024 11:23:10 until 21.04.2024 15:46:24
+		Duration:	04:23:14
+		Location:	51.22198 4.38604
+
+	ADAV1
+		Images:	4371
+		Time:	21.04.2024 10:16:30 until 21.04.2024 13:22:53
+		Duration:	03:06:23
+		Location:	51.22198 4.38604
+
+	ADAV2
+		Images:	18692
+		Time:	21.04.2024 13:41:06 until 21.04.2024 17:33:07
+		Duration:	03:52:01
+		Location:	51.22198 4.38604
+
+	ADER1
+		Images:	6547
+		Time:	21.04.2024 10:14:47 until 21.04.2024 15:03:12
+		Duration:	04:48:25
+		Location:	51.22198 4.38604
+
+	ALMC1
+		Images:	5418
+		Time:	21.04.2024 08:30:08 until 21.04.2024 13:52:25
+		Duration:	05:22:17
+		Location:	51.22198 4.38604
+

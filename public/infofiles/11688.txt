@@ -1,0 +1,357 @@
+EventId: 11688
+Spots: 59
+Total Images: 613246
+Time:	28.03.2013 06:59:09 to 24.11.2024 03:44:02
+Duration: 4258.20:44:53
+
+(1) - 0.0 km
+	BARM1
+		Images:	3651
+		Time:	23.11.2024 20:27:40 until 24.11.2024 03:44:02
+		Duration:	07:16:22
+		Location:	NULL NULL
+
+(2) - Downhill section to Patersberg km58/73  - km115/128  - km145/159 - 224/237
+	NWO1
+		Images:	12503
+		Time:	30.03.2024 08:48:06 until 30.03.2024 17:58:44
+		Duration:	09:10:38
+		Location:	50.77729 3.54621
+
+	TOG1
+		Images:	16047
+		Time:	30.03.2024 06:58:56 until 30.03.2024 17:55:28
+		Duration:	10:56:32
+		Location:	50.77729 3.54621
+
+	TOG1LS1
+		Images:	8479
+		Time:	30.03.2024 07:25:31 until 30.03.2024 17:43:42
+		Duration:	10:18:11
+		Location:	50.77729 3.54621
+
+(3) - Fast after downhill Patersberg km60,5/73  - km117,5/128  - km147,5/159 - 226,5/237
+	LUGR1
+		Images:	16417
+		Time:	30.03.2024 07:59:58 until 30.03.2024 18:32:38
+		Duration:	10:32:40
+		Location:	50.78309 3.54865
+
+	LUGR1LS1
+		Images:	8516
+		Time:	30.03.2024 07:28:23 until 30.03.2024 17:43:13
+		Duration:	10:14:50
+		Location:	50.78309 3.54865
+
+(4) - fast downhill from Patersberg km60,5/73  - km117,5/128  - km147,5/159 - 226,5/242
+	MBEN1
+		Images:	19220
+		Time:	30.03.2024 07:49:12 until 30.03.2024 18:11:08
+		Duration:	10:21:56
+		Location:	50.78309 3.54865
+
+(5) - Fast downhill section after Koppenberg km24/73 - km80/128 - km111/159 - km189/237
+	DRI1
+		Images:	44986
+		Time:	30.03.2024 07:15:26 until 30.03.2024 16:21:30
+		Duration:	09:06:04
+		Location:	50.81913 3.59822
+
+	DRI1LS1
+		Images:	9042
+		Time:	30.03.2024 06:34:54 until 30.03.2024 16:06:48
+		Duration:	09:31:54
+		Location:	50.81913 3.59822
+
+	DRI1LS2
+		Images:	7189
+		Time:	30.03.2024 06:39:19 until 30.03.2024 16:06:52
+		Duration:	09:27:33
+		Location:	50.81913 3.59822
+
+	TLA1
+		Images:	21086
+		Time:	30.03.2024 06:14:27 until 30.03.2024 16:04:55
+		Duration:	09:50:28
+		Location:	50.81913 3.59822
+
+(6) - Fast downhill section to Patersberg km58/73  - km115/128  - km145/159 - 224/242
+	MW1
+		Images:	11806
+		Time:	30.03.2024 06:57:52 until 30.03.2024 17:54:15
+		Duration:	10:56:23
+		Location:	50.7766 3.5459
+
+(7) - Finish
+	PBO1
+		Images:	13830
+		Time:	30.03.2024 07:38:46 until 30.03.2024 19:05:45
+		Duration:	11:26:59
+		Location:	50.84029 3.59126
+
+	TB1
+		Images:	18781
+		Time:	30.03.2024 08:23:16 until 30.03.2024 19:04:53
+		Duration:	10:41:37
+		Location:	50.84029 3.59126
+
+(8) - Gorikstraat km34/128+159 - km112/237
+	LV1
+		Images:	21125
+		Time:	30.03.2024 06:50:05 until 30.03.2024 11:58:22
+		Duration:	05:08:17
+		Location:	50.84549 3.78686
+
+	LV1LS1
+		Images:	5189
+		Time:	28.03.2024 08:02:13 until 30.03.2024 10:36:54
+		Duration:	2.02:34:41
+		Location:	50.84549 3.78686
+
+	MK1
+		Images:	16877
+		Time:	30.03.2024 07:53:54 until 30.03.2024 11:56:26
+		Duration:	04:02:32
+		Location:	50.84549 3.78686
+
+	MK1LS1
+		Images:	8093
+		Time:	30.03.2024 07:00:58 until 30.03.2024 11:28:55
+		Duration:	04:27:57
+		Location:	50.84549 3.78686
+
+	MK1LS2
+		Images:	6258
+		Time:	30.03.2024 07:09:01 until 30.03.2024 11:22:05
+		Duration:	04:13:04
+		Location:	50.84549 3.78686
+
+	TOG1LS2
+		Images:	8603
+		Time:	30.03.2024 06:43:02 until 30.03.2024 17:43:43
+		Duration:	11:00:41
+		Location:	50.84549 3.78686
+
+(9) - Impressions / Pano
+	DRI1DRONE1
+		Images:	20
+		Time:	30.03.2024 12:50:12 until 30.03.2024 12:59:36
+		Duration:	00:09:24
+		Location:	50.81913 3.59822
+
+	MK2DRONE1
+		Images:	83
+		Time:	30.03.2024 15:56:25 until 30.03.2024 16:11:12
+		Duration:	00:14:47
+		Location:	50.7723 3.89046
+
+	PANO1
+(10) - Karnemelkbeekstraat climb km50/73 - km102/128 - km134/159 - km212/237
+	IWI1
+		Images:	19363
+		Time:	30.03.2024 06:48:39 until 30.03.2024 17:13:52
+		Duration:	10:25:13
+		Location:	50.75718 3.53881
+
+(11) - Koppenberg top km22/73 - km79/128 - km 110/159 - km 188/237
+	BENL1
+		Images:	10622
+		Time:	30.03.2024 06:53:05 until 30.03.2024 15:19:40
+		Duration:	08:26:35
+		Location:	50.81101 3.579
+
+	KSA1
+		Images:	11387
+		Time:	30.03.2024 06:51:54 until 30.03.2024 15:51:01
+		Duration:	08:59:07
+		Location:	50.81101 3.579
+
+	RA1
+		Images:	22588
+		Time:	30.03.2024 06:52:59 until 30.03.2024 15:46:57
+		Duration:	08:53:58
+		Location:	50.81101 3.579
+
+	RA1LS1
+		Images:	7840
+		Time:	30.03.2024 06:34:07 until 30.03.2024 15:13:46
+		Duration:	08:39:39
+		Location:	50.81101 3.579
+
+	RA1LS2
+		Images:	9308
+		Time:	30.03.2024 06:29:11 until 30.03.2024 12:15:33
+		Duration:	05:46:22
+		Location:	50.81101 3.579
+
+(12) - Last flat before Patersberg km59/73  - km116/128  - km146/159 - 225/242
+	ALN1
+		Images:	36955
+		Time:	30.03.2024 08:41:59 until 30.03.2024 18:15:36
+		Duration:	09:33:37
+		Location:	50.78195 3.54393
+
+	ALN1LS1
+		Images:	8235
+		Time:	30.03.2024 08:20:04 until 30.03.2024 18:12:32
+		Duration:	09:52:28
+		Location:	50.78195 3.54393
+
+	ALN1LS2
+		Images:	7980
+		Time:	30.03.2024 08:14:36 until 30.03.2024 18:15:40
+		Duration:	10:01:04
+		Location:	50.78195 3.54393
+
+	ALN2LS1
+		Images:	8138
+		Time:	30.03.2024 08:10:52 until 30.03.2024 18:21:58
+		Duration:	10:11:06
+		Location:	50.78195 3.54393
+
+(13) - Muur van Geraardsbergen 68km/159 - 146km/237
+	DAH1
+		Images:	11933
+		Time:	30.03.2024 08:14:31 until 30.03.2024 13:09:44
+		Duration:	04:55:13
+		Location:	50.7723 3.89046
+
+	DAH1LS1
+		Images:	7051
+		Time:	30.03.2024 08:12:56 until 30.03.2024 12:57:28
+		Duration:	04:44:32
+		Location:	50.7723 3.89046
+
+	DAH1LS2
+		Images:	5897
+		Time:	30.03.2024 08:14:31 until 30.03.2024 12:57:52
+		Duration:	04:43:21
+		Location:	50.7723 3.89046
+
+	LV2
+		Images:	265
+		Time:	30.03.2024 12:46:01 until 30.03.2024 13:19:32
+		Duration:	00:33:31
+		Location:	50.7723 3.89046
+
+	MK2
+		Images:	500
+		Time:	30.03.2024 12:44:44 until 30.03.2024 13:15:22
+		Duration:	00:30:38
+		Location:	50.7723 3.89046
+
+(14) - none
+	BBUP1
+	BCAA1
+	BDCL1
+	BRPB1
+(15) - Oude Kwaremont botom   km53/73 - km109/128 - km140/159 - km217/237
+	MSC1
+		Images:	10662
+		Time:	30.03.2024 07:24:41 until 30.03.2024 17:29:53
+		Duration:	10:05:12
+		Location:	50.77897 3.52554
+
+(16) - Oude Kwaremont bottom km53/73 - km109/128 - km140/159 - km217/237
+	OT1
+		Images:	18830
+		Time:	30.03.2024 07:14:55 until 30.03.2024 17:33:06
+		Duration:	10:18:11
+		Location:	50.77897 3.52554
+
+(17) - Oude Kwaremont Top  km54/73 - km110/128 - km141/159 - km218/237
+	GAC1
+		Images:	20587
+		Time:	30.03.2024 07:30:03 until 30.03.2024 17:47:06
+		Duration:	10:17:03
+		Location:	50.77034 3.52974
+
+(18) - Oude Kwaremont Top km54/73 - km110/128 - km141/159 - km218/237
+	DAV2
+		Images:	8789
+		Time:	30.03.2024 08:51:52 until 30.03.2024 17:38:04
+		Duration:	08:46:12
+		Location:	50.77034 3.52974
+
+	DAV2LS1
+		Images:	9416
+		Time:	30.03.2024 08:40:52 until 30.03.2024 17:45:24
+		Duration:	09:04:32
+		Location:	50.77034 3.52974
+
+(19) - Paterberg Top km60/73  - km117/128  - km147/159 - 226/242
+	OP1
+		Images:	7895
+		Time:	30.03.2024 08:04:01 until 30.03.2024 17:39:05
+		Duration:	09:35:04
+		Location:	50.78213 3.54765
+
+	ST1
+		Images:	9091
+		Time:	30.03.2024 08:18:32 until 30.03.2024 18:15:34
+		Duration:	09:57:02
+		Location:	50.78213 3.54765
+
+	ST1LS1
+		Images:	4612
+		Time:	30.03.2024 07:54:07 until 30.03.2024 17:16:29
+		Duration:	09:22:22
+		Location:	50.78213 3.54765
+
+	ST1LS2
+		Images:	19996
+		Time:	28.03.2013 06:59:09 until 28.03.2013 17:32:45
+		Duration:	10:33:36
+		Location:	50.78213 3.54765
+
+(20) - Start long distance Antwerpen
+	DAV1
+		Images:	41
+		Time:	30.03.2024 05:49:39 until 30.03.2024 06:24:38
+		Duration:	00:34:59
+		Location:	51.21920 4.39573
+
+(21) - Stationsberg coblestone downhil km25/73 - km80/128 - km112/159 - km192/237
+	NKR1
+		Images:	16249
+		Time:	30.03.2024 04:42:59 until 30.03.2024 16:03:40
+		Duration:	11:20:41
+		Location:	50.80112 3.61878
+
+(22) - Stationsberg coblestone downhill km25/73 - km80/128 - km112/159 - km192/237
+	LV3
+		Images:	3530
+		Time:	30.03.2024 14:07:41 until 30.03.2024 16:14:50
+		Duration:	02:07:09
+		Location:	50.80112 3.61878
+
+	MK3LS1
+		Images:	783
+		Time:	30.03.2024 14:15:49 until 30.03.2024 16:20:18
+		Duration:	02:04:29
+		Location:	50.80112 3.61878
+
+	MK3LS2
+		Images:	2584
+		Time:	30.03.2024 14:40:21 until 30.03.2024 16:11:19
+		Duration:	01:30:58
+		Location:	50.80112 3.61878
+
+	THL1
+		Images:	17415
+		Time:	29.03.2024 18:50:00 until 30.03.2024 16:15:16
+		Duration:	21:25:16
+		Location:	50.80112 3.61878
+
+	THL1LS1
+		Images:	8850
+		Time:	29.03.2024 18:53:53 until 30.03.2024 16:11:26
+		Duration:	21:17:33
+		Location:	50.80112 3.61878
+
+	THL1LS2
+		Images:	8053
+		Time:	29.03.2024 18:55:40 until 30.03.2024 15:47:04
+		Duration:	20:51:24
+		Location:	50.80112 3.61878
+

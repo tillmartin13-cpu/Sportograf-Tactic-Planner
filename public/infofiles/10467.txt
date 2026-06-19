@@ -1,0 +1,181 @@
+EventId: 10467
+Spots: 40
+Total Images: 175446
+Time:	31.07.2020 23:33:48 to 28.10.2023 15:32:21
+Duration: 1183.15:58:33
+
+(1) - 0.0 km FIN-Auto Left -852945
+	AUTOF1
+		Images:	16292
+		Time:	28.10.2023 08:45:22 until 28.10.2023 15:11:10
+		Duration:	06:25:48
+		Location:	NULL NULL
+
+(2) - 0.0 km FIN-Lucas Kroll 852943
+	BR1
+(3) - 0.0 km FIN-Toby-852942
+	BE1
+(4) - 0.0 km Medals Brandon 852922
+	BN1
+(5) - 0.0 km Medals Frank 852921
+	BM1
+(6) - 0.0 km Medals-Amanda-852920
+	AMAND1
+		Images:	2898
+		Time:	31.07.2020 23:33:48 until 01.08.2020 06:42:29
+		Duration:	07:08:41
+		Location:	NULL NULL
+
+(7) - 0.0 km Medals-Inca 852919
+	BO1
+(8) - 0.0 km Medals-Justin 852917
+	BP1
+(9) - 0.0 km Michael Koseruba, MSC 1, Order 852934, card 2420
+	BA1
+		Images:	2704
+		Time:	28.10.2023 06:54:48 until 28.10.2023 07:54:37
+		Duration:	00:59:49
+		Location:	NULL NULL
+
+(10) - 0.0 km MSC 2 Brian S 852928
+	BRIAN2
+		Images:	8047
+		Time:	28.10.2023 08:11:30 until 28.10.2023 08:51:05
+		Duration:	00:39:35
+		Location:	NULL NULL
+
+(11) - 0.0 km MSC 2 Garrett H 852930
+	GH1
+		Images:	2731
+		Time:	28.10.2023 08:12:33 until 28.10.2023 08:48:31
+		Duration:	00:35:58
+		Location:	NULL NULL
+
+(12) - 0.0 km MSC 2 Mark E 852931
+	MARK1
+		Images:	7355
+		Time:	28.10.2023 08:12:05 until 28.10.2023 08:44:45
+		Duration:	00:32:40
+		Location:	NULL NULL
+
+(13) - 0.0 km MSC 2 Zach B 852929
+	ZACH1
+		Images:	1295
+		Time:	28.10.2023 08:12:08 until 28.10.2023 08:46:56
+		Duration:	00:34:48
+		Location:	NULL NULL
+
+(14) - 0.0 km MSC 3 Anna Tiplick 852933
+	BT1
+(15) - 0.0 km MSC 3 Eric Andrews 852932
+	BS1
+(16) - 0.0 km MSC 4 JT Coccherell 854793
+	BI1
+(17) - 0.0 km MSC 4 Ken Moreland 852952
+	BH1
+(18) - 0.0 km MSC 4 Trigger 854978
+	BJ1
+(19) - 0.0 km MSC 5 Zach Bender 852953
+	BF1
+(20) - 0.0 km MSC 6 Anna T 852927
+	ANNAT1
+		Images:	13642
+		Time:	28.10.2023 10:06:17 until 28.10.2023 14:02:00
+		Duration:	03:55:43
+		Location:	NULL NULL
+
+(21) - 0.0 km MSC 6 Eric A 852926
+	ERIC1
+		Images:	12025
+		Time:	28.10.2023 10:08:56 until 28.10.2023 14:04:05
+		Duration:	03:55:09
+		Location:	NULL NULL
+
+(22) - 0.0 km MSC 7 Andy 852949
+	ANDY1
+		Images:	12137
+		Time:	28.10.2023 08:59:31 until 28.10.2023 15:06:07
+		Duration:	06:06:36
+		Location:	NULL NULL
+
+(23) - 0.0 km MSC 7 Gary B 852948
+	GARY1
+		Images:	28568
+		Time:	28.10.2023 08:43:22 until 28.10.2023 14:54:17
+		Duration:	06:10:55
+		Location:	NULL NULL
+
+(24) - 0.0 km MSC 8 Brian S 852950
+	BRIAN1
+		Images:	23896
+		Time:	28.10.2023 09:32:24 until 28.10.2023 14:51:48
+		Duration:	05:19:24
+		Location:	NULL NULL
+
+(25) - 0.0 km MSC5 Garrett Hall-854974
+	BG1
+(26) - 0.0 km OFP Andy 852916
+	BL1
+(27) - 0.0 km OFP John 852915 4PM OUT
+	JOHN1
+		Images:	840
+		Time:	28.10.2023 07:24:41 until 28.10.2023 14:32:22
+		Duration:	07:07:41
+		Location:	NULL NULL
+
+(28) - 0.0 km OFP Riley 852914
+	BQ1
+(29) - 0.0 km PreFIN Trigger Right 854971
+	BK1
+(30) - 0.0 km PreFIN-Auto Left 854972
+	AUTOP1
+		Images:	13197
+		Time:	28.10.2023 09:09:57 until 28.10.2023 15:32:21
+		Duration:	06:22:24
+		Location:	NULL NULL
+
+(31) - 0.0 km PreFIN-Jonathan R-852923
+	JR1
+		Images:	231
+		Time:	28.10.2023 15:04:49 until 28.10.2023 15:29:38
+		Duration:	00:24:49
+		Location:	NULL NULL
+
+(32) - 0.0 km PreFin-Jonathon Roberts 852923
+	BU1
+(33) - 0.0 km PreFIN-Michael K 852924
+	MK1
+		Images:	14416
+		Time:	28.10.2023 10:06:46 until 28.10.2023 15:06:08
+		Duration:	04:59:22
+		Location:	NULL NULL
+
+(34) - 0.0 km PreFIN-Steve H 852925
+	SH1
+		Images:	10709
+		Time:	28.10.2023 10:13:54 until 28.10.2023 15:31:53
+		Duration:	05:17:59
+		Location:	NULL NULL
+
+(35) - 0.0 km Start-PR-Toby-852946
+	BE2
+(36) - 0.0 km Steve Handwerker, MSC 1, order 852935, card 1217
+	BB1
+		Images:	1695
+		Time:	28.10.2023 08:21:05 until 28.10.2023 09:04:56
+		Duration:	00:43:51
+		Location:	NULL NULL
+
+(37) - 0.0 km Trigger Cam Finish right side, Order 852944, card 2232
+	BD1
+(38) - 0.0 km Trigger Cam, MSC 1, order 852936, card 1258
+	BC1
+		Images:	2768
+		Time:	28.10.2023 07:57:59 until 28.10.2023 09:06:26
+		Duration:	01:08:27
+		Location:	NULL NULL
+
+(39) - Impressions / Pano
+	PANO1
+(40) - none
+	BZ1

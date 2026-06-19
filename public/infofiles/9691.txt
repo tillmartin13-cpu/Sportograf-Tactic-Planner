@@ -1,0 +1,382 @@
+EventId: 9691
+Spots: 60
+Total Images: 657858
+Time:	01.01.0001 23:00:00 to 28.05.2023 15:39:03
+Duration: 738666.16:39:03
+
+(1) - 0.1 km
+	XGAC1
+		Images:	17376
+		Time:	28.05.2023 06:59:00 until 28.05.2023 10:50:30
+		Duration:	03:51:30
+		Location:	50.84198 4.38587
+
+	XMARS1
+		Images:	3756
+		Time:	28.05.2023 08:59:14 until 28.05.2023 10:05:53
+		Duration:	01:06:39
+		Location:	50.84198 4.38587
+
+	XPV1
+		Images:	550
+		Time:	28.05.2023 09:30:55 until 28.05.2023 10:21:35
+		Duration:	00:50:40
+		Location:	50.84198 4.38587
+
+(2) - 0.2 km
+	XALP1
+		Images:	25414
+		Time:	28.05.2023 06:36:24 until 28.05.2023 10:52:00
+		Duration:	04:15:36
+		Location:	50.84222 4.38451
+
+	XLMC1
+		Images:	19092
+		Time:	28.05.2023 08:13:46 until 28.05.2023 10:49:40
+		Duration:	02:35:54
+		Location:	50.84222 4.38451
+
+	XMTR1
+		Images:	6824
+		Time:	28.05.2023 06:54:53 until 28.05.2023 10:50:22
+		Duration:	03:55:29
+		Location:	50.84222 4.38451
+
+(3) - 0.3 km
+	XMBEN1
+		Images:	14178
+		Time:	28.05.2023 07:53:09 until 28.05.2023 11:11:03
+		Duration:	03:17:54
+		Location:	50.84219 4.38335
+
+	XOT1
+		Images:	10750
+		Time:	28.05.2023 07:47:54 until 28.05.2023 10:51:59
+		Duration:	03:04:05
+		Location:	50.84219 4.38335
+
+(4) - 16.7 km
+	DRI1
+		Images:	9725
+		Time:	28.05.2023 12:29:06 until 28.05.2023 14:46:32
+		Duration:	02:17:26
+		Location:	50.83028 4.43337
+
+	DRI1LS1
+		Images:	3500
+		Time:	28.05.2023 12:56:21 until 28.05.2023 14:48:41
+		Duration:	01:52:20
+		Location:	50.83028 4.43337
+
+	DRI1LS2
+		Images:	4282
+		Time:	28.05.2023 12:54:11 until 28.05.2023 14:52:59
+		Duration:	01:58:48
+		Location:	50.83028 4.43337
+
+	PBO1
+		Images:	7526
+		Time:	28.05.2023 11:39:15 until 28.05.2023 14:48:40
+		Duration:	03:09:25
+		Location:	50.83028 4.43337
+
+	TLA1
+		Images:	5232
+		Time:	28.05.2023 12:48:06 until 28.05.2023 15:12:06
+		Duration:	02:24:00
+		Location:	50.83028 4.43337
+
+(5) - 17.5 km
+	LUGR1
+		Images:	9712
+		Time:	28.05.2023 11:17:39 until 28.05.2023 15:30:14
+		Duration:	04:12:35
+		Location:	50.83473 4.42757
+
+	MSC1
+		Images:	9104
+		Time:	28.05.2023 07:55:51 until 28.05.2023 14:57:01
+		Duration:	07:01:10
+		Location:	50.83473 4.42757
+
+	OT1
+		Images:	8490
+		Time:	28.05.2023 06:57:12 until 28.05.2023 14:56:51
+		Duration:	07:59:39
+		Location:	50.83473 4.42757
+
+	THL1
+		Images:	13023
+		Time:	28.05.2023 07:52:21 until 28.05.2023 14:57:59
+		Duration:	07:05:38
+		Location:	50.83473 4.42757
+
+	THL1LS1
+		Images:	5087
+		Time:	28.05.2023 08:04:35 until 28.05.2023 15:00:45
+		Duration:	06:56:10
+		Location:	50.83473 4.42757
+
+	THL1LS2
+		Images:	8543
+		Time:	28.05.2023 09:16:07 until 28.05.2023 14:09:47
+		Duration:	04:53:40
+		Location:	50.83473 4.42757
+
+	THL1LS3
+		Images:	4858
+		Time:	28.05.2023 08:00:09 until 28.05.2023 14:55:24
+		Duration:	06:55:15
+		Location:	50.83473 4.42757
+
+(6) - 17.8 km
+	APL1
+		Images:	15921
+		Time:	28.05.2023 11:00:19 until 28.05.2023 15:31:05
+		Duration:	04:30:46
+		Location:	50.83439 4.42147
+
+	DAV1
+		Images:	2754
+		Time:	28.05.2023 12:34:57 until 28.05.2023 14:52:05
+		Duration:	02:17:08
+		Location:	50.83439 4.42147
+
+	DAV1LS1
+		Images:	8217
+		Time:	28.05.2023 12:32:05 until 28.05.2023 14:52:34
+		Duration:	02:20:29
+		Location:	50.83439 4.42147
+
+	JAD1
+		Images:	9158
+		Time:	28.05.2023 10:03:35 until 28.05.2023 14:46:29
+		Duration:	04:42:54
+		Location:	50.83439 4.42147
+
+	ST1
+		Images:	18616
+		Time:	28.05.2023 10:25:19 until 28.05.2023 15:03:06
+		Duration:	04:37:47
+		Location:	50.83439 4.42147
+
+	ST1LS1
+		Images:	14549
+		Time:	28.05.2023 07:56:35 until 28.05.2023 14:47:24
+		Duration:	06:50:49
+		Location:	50.83439 4.42147
+
+	ST1LS2
+		Images:	2795
+		Time:	28.05.2023 13:47:03 until 28.05.2023 14:49:35
+		Duration:	01:02:32
+		Location:	50.83439 4.42147
+
+	ST1LS3
+		Images:	6663
+		Time:	28.05.2023 07:58:32 until 28.05.2023 12:59:53
+		Duration:	05:01:21
+		Location:	50.83439 4.42147
+
+	ST1LS4
+		Images:	7597
+		Time:	28.05.2023 07:40:37 until 28.05.2023 15:06:42
+		Duration:	07:26:05
+		Location:	50.83439 4.42147
+
+(7) - 18.8 km
+	GAC1
+		Images:	28738
+		Time:	01.01.0001 23:00:00 until 28.05.2023 15:23:54
+		Duration:	738666.16:23:54
+		Location:	50.83831 4.40267
+
+	MTR1
+		Images:	11588
+		Time:	28.05.2023 11:14:51 until 28.05.2023 15:25:24
+		Duration:	04:10:33
+		Location:	50.83831 4.40267
+
+(8) - 19.0 km
+	MDOH1
+		Images:	14565
+		Time:	28.05.2023 11:16:50 until 28.05.2023 15:16:46
+		Duration:	03:59:56
+		Location:	50.83722 4.40814
+
+	MW1
+		Images:	17476
+		Time:	28.05.2023 11:21:30 until 28.05.2023 15:17:08
+		Duration:	03:55:38
+		Location:	50.83722 4.40814
+
+(9) - 19.5 km
+	LE1
+		Images:	14987
+		Time:	28.05.2023 06:23:48 until 28.05.2023 15:31:29
+		Duration:	09:07:41
+		Location:	50.83948 4.39795
+
+	LE1LS1
+		Images:	9916
+		Time:	28.05.2023 06:58:21 until 28.05.2023 15:34:34
+		Duration:	08:36:13
+		Location:	50.83948 4.39795
+
+	MBEN1
+		Images:	12622
+		Time:	28.05.2023 11:42:44 until 28.05.2023 15:25:34
+		Duration:	03:42:50
+		Location:	50.83948 4.39795
+
+	VL1
+		Images:	9753
+		Time:	28.05.2023 06:42:29 until 28.05.2023 15:30:51
+		Duration:	08:48:22
+		Location:	50.83948 4.39795
+
+(10) - 19.9 km
+	NEZ1
+		Images:	3275
+		Time:	28.05.2023 13:43:28 until 28.05.2023 15:10:29
+		Duration:	01:27:01
+		Location:	50.83949 4.39625
+
+	SEO1
+		Images:	3026
+		Time:	28.05.2023 13:31:36 until 28.05.2023 15:20:37
+		Duration:	01:49:01
+		Location:	50.83949 4.39625
+
+(11) - 2.3 km
+	XDAV1
+		Images:	8020
+		Time:	28.05.2023 09:34:10 until 28.05.2023 11:22:05
+		Duration:	01:47:55
+		Location:	50.84197 4.35896
+
+	XDAV1LS1
+		Images:	9894
+		Time:	28.05.2023 09:26:23 until 28.05.2023 11:23:07
+		Duration:	01:56:44
+		Location:	50.84197 4.35896
+
+	XDRI1
+		Images:	28472
+		Time:	28.05.2023 07:19:52 until 28.05.2023 11:25:18
+		Duration:	04:05:26
+		Location:	50.84197 4.35896
+
+	XDRI1LS1
+		Images:	4410
+		Time:	28.05.2023 09:27:05 until 28.05.2023 11:26:01
+		Duration:	01:58:56
+		Location:	50.84197 4.35896
+
+	XDRI1LS2
+		Images:	2556
+		Time:	28.05.2023 09:19:41 until 28.05.2023 11:26:37
+		Duration:	02:06:56
+		Location:	50.84197 4.35896
+
+	XTLA1
+		Images:	13566
+		Time:	28.05.2023 07:02:19 until 28.05.2023 11:24:01
+		Duration:	04:21:42
+		Location:	50.84197 4.35896
+
+(12) - 6.0 km
+	NEZ1LS1
+		Images:	8586
+		Time:	28.05.2023 10:04:49 until 28.05.2023 12:10:34
+		Duration:	02:05:45
+		Location:	50.81353 4.37008
+
+	XNEZ1
+		Images:	23362
+		Time:	28.05.2023 06:28:19 until 28.05.2023 12:06:10
+		Duration:	05:37:51
+		Location:	50.81353 4.37008
+
+	XSEO1
+		Images:	24338
+		Time:	28.05.2023 06:22:02 until 28.05.2023 12:18:21
+		Duration:	05:56:19
+		Location:	50.81353 4.37008
+
+(13) - 6.5 km
+	LM1
+		Images:	20730
+		Time:	28.05.2023 06:26:38 until 28.05.2023 12:29:54
+		Duration:	06:03:16
+		Location:	50.80901 4.37197
+
+(14) - Finish
+	LMC1
+		Images:	12949
+		Time:	28.05.2023 11:16:04 until 28.05.2023 15:36:45
+		Duration:	04:20:41
+		Location:	50.84031 4.39385
+
+	MARS1
+		Images:	24809
+		Time:	28.05.2023 10:16:07 until 28.05.2023 15:38:00
+		Duration:	05:21:53
+		Location:	50.84031 4.39385
+
+	PV1
+		Images:	9870
+		Time:	28.05.2023 10:30:27 until 28.05.2023 15:38:28
+		Duration:	05:08:01
+		Location:	50.84031 4.39385
+
+	TOBB1LS1
+		Images:	8394
+		Time:	28.05.2023 10:48:48 until 28.05.2023 15:39:03
+		Duration:	04:50:15
+		Location:	50.84031 4.39385
+
+	TOBB1LS2
+		Images:	15108
+		Time:	28.05.2023 07:47:55 until 28.05.2023 15:33:53
+		Duration:	07:45:58
+		Location:	50.84031 4.39385
+
+(15) - Impressions / Pano
+	PANO1
+		Images:	20
+		Time:	28.05.2023 08:12:58 until 28.05.2023 10:36:42
+		Duration:	02:23:44
+		Location:	NULL NULL
+
+(16) - Start
+	TOBB1
+		Images:	3892
+		Time:	28.05.2023 08:08:18 until 28.05.2023 10:41:53
+		Duration:	02:33:35
+		Location:	50.84167 4.38673
+
+	XLUGR1
+		Images:	4892
+		Time:	28.05.2023 08:58:15 until 28.05.2023 10:47:25
+		Duration:	01:49:10
+		Location:	50.84167 4.38673
+
+	XMDOH1
+		Images:	16444
+		Time:	28.05.2023 07:00:03 until 28.05.2023 10:52:10
+		Duration:	03:52:07
+		Location:	50.84167 4.38673
+
+	XMW1
+		Images:	13556
+		Time:	28.05.2023 06:32:53 until 28.05.2023 10:48:31
+		Duration:	04:15:38
+		Location:	50.84167 4.38673
+
+	XPBO1
+		Images:	4752
+		Time:	28.05.2023 05:23:28 until 28.05.2023 10:49:13
+		Duration:	05:25:45
+		Location:	50.84167 4.38673
+

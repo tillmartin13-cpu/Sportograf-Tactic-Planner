@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "43.93319" lon = "10.91548"><name>CSI1</name><desc>Start
+Images:395
+First:06.04.2025 07:45:19
+Last:06.04.2025 08:34:57
+Duration:00:49:38
+</desc></wpt>
+<wpt lat = "43.93107" lon = "10.91410"><name>FMA1</name><desc>0.6 km
+Images:379
+First:06.04.2025 08:30:35
+Last:06.04.2025 08:36:56
+Duration:00:06:21
+</desc></wpt>
+<wpt lat = "43.80927" lon = "10.92871"><name>FBO1</name><desc>60.0 km
+Images:1228
+First:06.04.2025 10:44:39
+Last:06.04.2025 12:31:56
+Duration:01:47:17
+</desc></wpt>
+<wpt lat = "43.80927" lon = "10.92871"><name>FBO1LS1</name><desc>60.0 km
+Images:438
+First:06.04.2025 10:46:32
+Last:06.04.2025 12:18:11
+Duration:01:31:39
+</desc></wpt>
+<wpt lat = "43.78034" lon = "10.97724"><name>EO1LS1</name><desc>0.0 km
+Images:136
+First:06.04.2025 10:27:31
+Last:06.04.2025 11:48:11
+Duration:01:20:40
+</desc></wpt>
+<wpt lat = "43.78034" lon = "10.97724"><name>EO1</name><desc>72.0 km
+Images:965
+First:06.04.2025 10:19:33
+Last:06.04.2025 11:42:05
+Duration:01:22:32
+</desc></wpt>
+<wpt lat = "43.92710" lon = "10.89968"><name>FMA2</name><desc>123.0 km
+Images:796
+First:06.04.2025 10:09:16
+Last:06.04.2025 13:54:42
+Duration:03:45:26
+</desc></wpt>
+<wpt lat = "43.93319" lon = "10.91548"><name>CSI2</name><desc>Finish
+Images:760
+First:06.04.2025 10:12:30
+Last:06.04.2025 14:20:54
+Duration:04:08:24
+</desc></wpt>
+<wpt lat = "43.93319" lon = "10.91548"><name>CSI2LS1</name><desc>Finish
+Images:1934
+First:06.04.2025 10:09:02
+Last:06.04.2025 14:20:56
+Duration:04:11:54
+</desc></wpt>
+</gpx>

@@ -1,0 +1,164 @@
+EventId: 14143
+Spots: 24
+Total Images: 108035
+Time:	31.12.2012 23:00:17 to 12.07.2025 18:11:45
+Duration: 4575.19:11:28
+
+(1) - Start
+	RIM1
+		Images:	5878
+		Time:	12.07.2025 06:37:11 until 12.07.2025 11:02:05
+		Duration:	04:24:54
+		Location:	46.73785 12.16925
+
+(2) - 46.0 km
+	DARU1
+		Images:	2989
+		Time:	12.07.2025 07:07:35 until 12.07.2025 15:49:49
+		Duration:	08:42:14
+		Location:	46.70222 12.22182
+
+	DARU1LS1
+		Images:	2197
+		Time:	12.07.2025 07:11:08 until 12.07.2025 15:17:48
+		Duration:	08:06:40
+		Location:	46.70222 12.22182
+
+(3) - 48.0 km
+	DDF1
+		Images:	989
+		Time:	12.07.2025 09:18:10 until 12.07.2025 14:40:36
+		Duration:	05:22:26
+		Location:	46.66357 12.37393
+
+	DDF1LS1
+		Images:	1087
+		Time:	12.07.2025 09:07:19 until 12.07.2025 12:26:36
+		Duration:	03:19:17
+		Location:	46.66357 12.37393
+
+	DDF1LS2
+		Images:	1098
+		Time:	12.07.2025 08:55:51 until 12.07.2025 12:26:34
+		Duration:	03:30:43
+		Location:	46.66357 12.37393
+
+(4) - Impressions / Pano
+	DDF1DRONE1
+		Images:	49
+		Time:	12.07.2025 11:27:24 until 12.07.2025 11:41:47
+		Duration:	00:14:23
+		Location:	46.66357 12.37393
+
+	NAT1DRONE1
+		Images:	21
+		Time:	12.07.2025 09:14:45 until 12.07.2025 11:29:09
+		Duration:	02:14:24
+		Location:	46.64474 12.19252
+
+(5) - 94.0 km
+	GAZ1
+		Images:	7553
+		Time:	12.07.2025 08:56:39 until 12.07.2025 15:25:08
+		Duration:	06:28:29
+		Location:	46.64014 12.23282
+
+	GAZ1LS2
+		Images:	2113
+		Time:	12.07.2025 09:22:42 until 12.07.2025 15:20:26
+		Duration:	05:57:44
+		Location:	46.64014 12.23282
+
+	GAZ1LS1
+		Images:	1234
+		Time:	12.07.2025 09:12:39 until 12.07.2025 15:23:42
+		Duration:	06:11:03
+		Location:	46.64014 12.23282
+
+(6) - 95.0 km
+	MIPA1
+		Images:	1905
+		Time:	12.07.2025 08:55:37 until 12.07.2025 15:40:28
+		Duration:	06:44:51
+		Location:	46.63140 12.22923
+
+(7) - 104.0 km
+	MAGA1
+		Images:	4201
+		Time:	12.07.2025 09:13:24 until 12.07.2025 17:08:46
+		Duration:	07:55:22
+		Location:	46.63906 12.19781
+
+	MAGA1LS1
+		Images:	3407
+		Time:	12.07.2025 08:48:21 until 12.07.2025 17:08:28
+		Duration:	08:20:07
+		Location:	46.63906 12.19781
+
+(8) - 105.0 km
+	GMA1
+		Images:	4713
+		Time:	11.07.2025 20:57:11 until 12.07.2025 17:13:31
+		Duration:	20:16:20
+		Location:	46.64165 12.19420
+
+(9) - 106.0 km
+	NAT1
+		Images:	13156
+		Time:	12.07.2025 08:58:33 until 12.07.2025 17:16:03
+		Duration:	08:17:30
+		Location:	46.64474 12.19252
+
+(10) - 112.0 km
+	RAM1
+		Images:	7239
+		Time:	12.07.2025 09:33:25 until 12.07.2025 17:33:48
+		Duration:	08:00:23
+		Location:	46.68053 12.14795
+
+	RAM1LS1
+		Images:	4475
+		Time:	12.07.2025 08:29:31 until 12.07.2025 17:27:11
+		Duration:	08:57:40
+		Location:	46.68053 12.14795
+
+	RAM1LS2
+		Images:	5147
+		Time:	12.07.2025 09:33:02 until 12.07.2025 17:33:40
+		Duration:	08:00:38
+		Location:	46.68053 12.14795
+
+(11) - 113.5 km
+	GIBE1
+		Images:	6533
+		Time:	12.07.2025 09:34:09 until 12.07.2025 17:38:32
+		Duration:	08:04:23
+		Location:	46.68379 12.14690
+
+(12) - 115.0 km
+	RLO1
+		Images:	5716
+		Time:	12.07.2025 07:02:34 until 12.07.2025 17:45:34
+		Duration:	10:43:00
+		Location:	46.70249 12.15023
+
+(13) - 116.0 km
+	LDL1
+		Images:	4787
+		Time:	12.07.2025 07:14:05 until 12.07.2025 17:43:36
+		Duration:	10:29:31
+		Location:	46.69492 12.15017
+
+(14) - Finish
+	RIM2
+		Images:	20333
+		Time:	12.07.2025 11:02:05 until 12.07.2025 18:09:30
+		Duration:	07:07:25
+		Location:	46.73785 12.16925
+
+	GAZ1LS3
+		Images:	1215
+		Time:	31.12.2012 23:00:17 until 12.07.2025 18:11:45
+		Duration:	4575.19:11:28
+		Location:	46.73785 12.16925
+

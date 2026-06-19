@@ -1,0 +1,336 @@
+EventId: 12319
+Spots: 53
+Total Images: 426778
+Time:	29.11.2024 20:48:27 to 30.11.2024 09:49:54
+Duration: 13:01:27
+
+(1) - 0,0 km
+	CBECB1LS1
+		Images:	3377
+		Time:	30.11.2024 05:38:50 until 30.11.2024 07:18:33
+		Duration:	01:39:43
+		Location:	1.30413 103.86819
+
+(2) - 1,0 km
+	BJERO1
+		Images:	9389
+		Time:	29.11.2024 21:10:14 until 30.11.2024 08:20:47
+		Duration:	11:10:33
+		Location:	1.30005 103.86454
+
+(3) - 1,5 km
+	BCAA1
+		Images:	8424
+		Time:	30.11.2024 05:12:52 until 30.11.2024 08:14:25
+		Duration:	03:01:33
+		Location:	1.30325 103.86731
+
+	BVMM1
+		Images:	7828
+		Time:	30.11.2024 04:59:57 until 30.11.2024 08:59:56
+		Duration:	03:59:59
+		Location:	1.30325 103.86731
+
+	BVMM1LS1
+		Images:	3769
+		Time:	30.11.2024 05:08:52 until 30.11.2024 08:15:08
+		Duration:	03:06:16
+		Location:	1.30325 103.86731
+
+(4) - 1.0 km
+	ALDB1
+		Images:	11155
+		Time:	30.11.2024 05:16:13 until 30.11.2024 08:20:58
+		Duration:	03:04:45
+		Location:	1.30009 103.86466
+
+	ALDB1LS1
+		Images:	5502
+		Time:	30.11.2024 05:25:41 until 30.11.2024 07:55:14
+		Duration:	02:29:33
+		Location:	1.30009 103.86466
+
+(5) - 3,0 km
+	CBECB1
+		Images:	5838
+		Time:	30.11.2024 05:25:55 until 30.11.2024 06:38:21
+		Duration:	01:12:26
+		Location:	1.30413 103.86819
+
+	CCRI1
+		Images:	7284
+		Time:	30.11.2024 05:31:40 until 30.11.2024 06:46:33
+		Duration:	01:14:53
+		Location:	1.30467 103.86925
+
+(6) - 4,0 km
+	BIMH1
+		Images:	2918
+		Time:	30.11.2024 03:23:20 until 30.11.2024 07:38:21
+		Duration:	04:15:01
+		Location:	1.30711 103.87986
+
+	BRPB1
+		Images:	5297
+		Time:	30.11.2024 05:45:54 until 30.11.2024 07:06:17
+		Duration:	01:20:23
+		Location:	1.30711 103.87986
+
+(7) - 4.2 km
+	ALNG1
+		Images:	16141
+		Time:	30.11.2024 05:47:23 until 30.11.2024 08:49:46
+		Duration:	03:02:23
+		Location:	1.29306 103.85581
+
+	ALNG1LS1
+		Images:	1320
+		Time:	30.11.2024 08:06:37 until 30.11.2024 08:51:31
+		Duration:	00:44:54
+		Location:	1.29306 103.85581
+
+	ANNG1
+		Images:	11981
+		Time:	30.11.2024 05:56:58 until 30.11.2024 08:49:41
+		Duration:	02:52:43
+		Location:	1.29306 103.85581
+
+	ANNG1LS1
+		Images:	4361
+		Time:	30.11.2024 05:26:01 until 30.11.2024 08:56:29
+		Duration:	03:30:28
+		Location:	1.29306 103.85581
+
+	ATAP1
+		Images:	13630
+		Time:	30.11.2024 05:27:06 until 30.11.2024 09:49:54
+		Duration:	04:22:48
+		Location:	1.29306 103.85581
+
+	ATDK1
+		Images:	15324
+		Time:	30.11.2024 05:17:23 until 30.11.2024 08:37:08
+		Duration:	03:19:45
+		Location:	1.29306 103.85581
+
+(8) - 4.8 km
+	ADTQ1
+		Images:	10544
+		Time:	29.11.2024 22:13:40 until 30.11.2024 09:05:21
+		Duration:	10:51:41
+		Location:	1.28811 103.85421
+
+	AMVV1
+		Images:	15819
+		Time:	30.11.2024 05:24:24 until 30.11.2024 09:12:52
+		Duration:	03:48:28
+		Location:	1.28811 103.85421
+
+	ANTT1
+		Images:	14242
+		Time:	30.11.2024 04:37:36 until 30.11.2024 09:13:31
+		Duration:	04:35:55
+		Location:	1.28811 103.85421
+
+	ANTT1LS1
+		Images:	5019
+		Time:	30.11.2024 04:51:20 until 30.11.2024 08:53:43
+		Duration:	04:02:23
+		Location:	1.28811 103.85421
+
+(9) - 6,0 km
+	CALN1
+		Images:	12599
+		Time:	30.11.2024 05:50:47 until 30.11.2024 07:26:06
+		Duration:	01:35:19
+		Location:	1.30413 103.86819
+
+	CALN1LS1
+		Images:	4928
+		Time:	30.11.2024 05:39:17 until 30.11.2024 07:26:06
+		Duration:	01:46:49
+		Location:	1.30413 103.86819
+
+	CALN1LS2
+		Images:	4417
+		Time:	30.11.2024 05:43:35 until 30.11.2024 07:26:03
+		Duration:	01:42:28
+		Location:	1.30413 103.86819
+
+	CBECB2
+		Images:	2661
+		Time:	30.11.2024 06:40:52 until 30.11.2024 08:01:03
+		Duration:	01:20:11
+		Location:	1.30413 103.86819
+
+	CBECB2LS1
+		Images:	4795
+		Time:	30.11.2024 05:23:29 until 30.11.2024 07:26:11
+		Duration:	02:02:42
+		Location:	1.30413 103.86819
+
+(10) - 7,0 km
+	BJONI1
+		Images:	8324
+		Time:	30.11.2024 05:33:14 until 30.11.2024 08:40:54
+		Duration:	03:07:40
+		Location:	1.30085 103.86315
+
+	BLMD1
+		Images:	15218
+		Time:	30.11.2024 05:36:10 until 30.11.2024 09:49:22
+		Duration:	04:13:12
+		Location:	1.30085 103.86315
+
+(11) - 8,0 km
+	CANDR1
+		Images:	7869
+		Time:	29.11.2024 22:06:20 until 30.11.2024 09:16:26
+		Duration:	11:10:06
+		Location:	1.29530 103.85735
+
+	CCRI2
+		Images:	1343
+		Time:	30.11.2024 06:48:28 until 30.11.2024 07:12:05
+		Duration:	00:23:37
+		Location:	1.29530 103.85735
+
+	CDL1
+		Images:	9829
+		Time:	29.11.2024 22:01:03 until 30.11.2024 08:41:33
+		Duration:	10:40:30
+		Location:	1.29530 103.85735
+
+(12) - 9,0 km
+	CHTT1
+		Images:	22747
+		Time:	29.11.2024 20:49:34 until 30.11.2024 09:05:48
+		Duration:	12:16:14
+		Location:	1.28839 103.85426
+
+	CHTT1LS1
+		Images:	5442
+		Time:	29.11.2024 20:48:27 until 30.11.2024 08:59:57
+		Duration:	12:11:30
+		Location:	1.28839 103.85426
+
+(13) - 9.9 km
+	ANP1
+		Images:	20634
+		Time:	30.11.2024 05:34:31 until 30.11.2024 09:19:47
+		Duration:	03:45:16
+		Location:	1.28666 103.85370
+
+	ANP1LS1
+		Images:	3001
+		Time:	30.11.2024 05:34:31 until 30.11.2024 09:09:39
+		Duration:	03:35:08
+		Location:	1.28666 103.85370
+
+	ANTA1
+		Images:	10579
+		Time:	30.11.2024 06:01:51 until 30.11.2024 09:05:20
+		Duration:	03:03:29
+		Location:	1.28666 103.85370
+
+	APNQ1
+		Images:	29004
+		Time:	30.11.2024 05:12:50 until 30.11.2024 09:07:41
+		Duration:	03:54:51
+		Location:	1.28666 103.85370
+
+	ATDB1
+		Images:	16066
+		Time:	30.11.2024 06:01:45 until 30.11.2024 09:16:55
+		Duration:	03:15:10
+		Location:	1.28666 103.85370
+
+(14) - Finish
+	BDCL1
+		Images:	8422
+		Time:	29.11.2024 22:13:59 until 30.11.2024 09:13:07
+		Duration:	10:59:08
+		Location:	1.28760 103.85247
+
+	BDCL1LS1
+		Images:	3585
+		Time:	30.11.2024 05:56:28 until 30.11.2024 09:22:32
+		Duration:	03:26:04
+		Location:	1.28760 103.85247
+
+	BOCH1
+		Images:	11553
+		Time:	30.11.2024 05:53:52 until 30.11.2024 09:02:53
+		Duration:	03:09:01
+		Location:	1.28760 103.85247
+
+	BOCH1LS1
+		Images:	2792
+		Time:	30.11.2024 05:42:12 until 30.11.2024 09:01:17
+		Duration:	03:19:05
+		Location:	1.28760 103.85247
+
+	BPCT1
+		Images:	8533
+		Time:	30.11.2024 05:26:02 until 30.11.2024 09:22:12
+		Duration:	03:56:10
+		Location:	1.28760 103.85247
+
+	BPCT1LS1
+		Images:	3888
+		Time:	29.11.2024 22:23:28 until 30.11.2024 08:18:47
+		Duration:	09:55:19
+		Location:	1.28760 103.85247
+
+	BPCT1LS2
+		Images:	1675
+		Time:	30.11.2024 05:21:34 until 30.11.2024 09:17:57
+		Duration:	03:56:23
+		Location:	1.28760 103.85247
+
+	BRDI1
+		Images:	3131
+		Time:	30.11.2024 05:33:39 until 30.11.2024 08:58:19
+		Duration:	03:24:40
+		Location:	1.28760 103.85247
+
+	BRDI1LS1
+		Images:	3292
+		Time:	30.11.2024 06:02:24 until 30.11.2024 09:04:42
+		Duration:	03:02:18
+		Location:	1.28760 103.85247
+
+(15) - Impressions / Pano
+	PANO1
+(16) - Medal Wall
+	CBIC1
+		Images:	4384
+		Time:	30.11.2024 05:48:34 until 30.11.2024 09:19:25
+		Duration:	03:30:51
+		Location:	1.29107 103.85341
+
+	CHALI1
+		Images:	2689
+		Time:	30.11.2024 05:47:06 until 30.11.2024 09:32:56
+		Duration:	03:45:50
+		Location:	1.29107 103.85341
+
+	CKAWO1
+		Images:	5303
+		Time:	30.11.2024 05:56:20 until 30.11.2024 09:28:00
+		Duration:	03:31:40
+		Location:	1.29107 103.85341
+
+	CYR1
+		Images:	6191
+		Time:	30.11.2024 05:59:51 until 30.11.2024 09:31:36
+		Duration:	03:31:45
+		Location:	1.29107 103.85341
+
+(17) - Start
+	CKD1
+		Images:	2722
+		Time:	30.11.2024 05:11:10 until 30.11.2024 07:48:52
+		Duration:	02:37:42
+		Location:	1.29216 103.86353
+

@@ -1,0 +1,251 @@
+EventId: 13082
+Spots: 41
+Total Images: 127793
+Time:	01.01.0001 23:00:00 to 13.04.2024 13:17:16
+Duration: 738987.14:17:16
+
+(1) - 0,0 km
+	ZFTRL1
+		Images:	3570
+		Time:	05.07.2002 08:15:43 until 13.04.2024 08:32:55
+		Duration:	7953.00:17:12
+		Location:	NULL NULL
+
+	ZFTRR1
+		Images:	4150
+		Time:	13.04.2024 06:53:45 until 13.04.2024 08:32:39
+		Duration:	01:38:54
+		Location:	NULL NULL
+
+	ZHCAS1
+		Images:	5872
+		Time:	13.04.2024 07:59:34 until 13.04.2024 09:34:23
+		Duration:	01:34:49
+		Location:	NULL NULL
+
+	ZIVER1
+		Images:	6585
+		Time:	13.04.2024 07:49:06 until 13.04.2024 09:33:20
+		Duration:	01:44:14
+		Location:	NULL NULL
+
+	ZPFTL1
+		Images:	7078
+		Time:	13.04.2024 06:51:54 until 13.04.2024 09:30:25
+		Duration:	02:38:31
+		Location:	NULL NULL
+
+	ZPFTR1
+		Images:	3843
+		Time:	13.04.2024 04:23:24 until 13.04.2024 05:30:37
+		Duration:	01:07:13
+		Location:	NULL NULL
+
+	ZTCHE1
+		Images:	13001
+		Time:	13.04.2024 06:32:35 until 13.04.2024 09:40:23
+		Duration:	03:07:48
+		Location:	NULL NULL
+
+	ZTRA1
+		Images:	5080
+		Time:	13.04.2024 08:01:19 until 13.04.2024 09:28:31
+		Duration:	01:27:12
+		Location:	NULL NULL
+
+(2) - 0.0 km
+	ADJER1
+		Images:	165
+		Time:	13.04.2024 06:29:00 until 13.04.2024 08:03:04
+		Duration:	01:34:04
+		Location:	NULL NULL
+
+	ADLAV1
+		Images:	4607
+		Time:	13.04.2024 06:12:37 until 13.04.2024 09:40:29
+		Duration:	03:27:52
+		Location:	NULL NULL
+
+	AJAY1
+		Images:	6207
+		Time:	13.04.2024 07:57:00 until 13.04.2024 09:40:06
+		Duration:	01:43:06
+		Location:	NULL NULL
+
+	AJNUN1
+		Images:	4554
+		Time:	14.04.2023 08:02:43 until 14.04.2023 09:26:33
+		Duration:	01:23:50
+		Location:	NULL NULL
+
+	ALCIT1
+		Images:	7971
+		Time:	13.04.2024 07:58:58 until 13.04.2024 09:38:46
+		Duration:	01:39:48
+		Location:	NULL NULL
+
+	ALMOS1
+		Images:	364
+		Time:	31.12.2006 19:00:23 until 13.04.2024 07:35:28
+		Duration:	6312.12:35:05
+		Location:	NULL NULL
+
+	APMER1
+		Images:	4806
+		Time:	13.04.2024 07:45:17 until 13.04.2024 09:23:18
+		Duration:	01:38:01
+		Location:	NULL NULL
+
+	ARFIS1
+		Images:	6014
+		Time:	31.12.1999 23:00:00 until 01.01.2000 00:02:19
+		Duration:	01:02:19
+		Location:	NULL NULL
+
+	AVDUR1
+		Images:	109
+		Time:	13.04.2024 06:55:13 until 13.04.2024 08:32:39
+		Duration:	01:37:26
+		Location:	NULL NULL
+
+	BFSTR1
+		Images:	3917
+		Time:	01.01.0001 23:00:00 until 13.04.2024 13:17:16
+		Duration:	738987.14:17:16
+		Location:	NULL NULL
+
+	BHDAN1
+		Images:	3440
+		Time:	01.01.0001 23:00:00 until 13.04.2024 09:14:19
+		Duration:	738987.10:14:19
+		Location:	NULL NULL
+
+	BJALL1
+		Images:	5477
+		Time:	14.04.2023 07:44:35 until 13.04.2024 08:34:28
+		Duration:	365.00:49:53
+		Location:	NULL NULL
+
+	BKLEW1
+		Images:	173
+		Time:	13.04.2024 06:38:50 until 13.04.2024 08:16:22
+		Duration:	01:37:32
+		Location:	NULL NULL
+
+	BPWOO1
+		Images:	6357
+		Time:	13.04.2024 08:07:22 until 13.04.2024 09:17:13
+		Duration:	01:09:51
+		Location:	NULL NULL
+
+	CCWU1
+		Images:	436
+		Time:	13.04.2024 08:27:43 until 13.04.2024 09:36:04
+		Duration:	01:08:21
+		Location:	NULL NULL
+
+	CCWUA1
+		Images:	241
+		Time:	13.04.2024 06:26:37 until 13.04.2024 08:04:28
+		Duration:	01:37:51
+		Location:	NULL NULL
+
+	CDJER1
+		Images:	485
+		Time:	13.04.2024 08:27:47 until 13.04.2024 09:35:47
+		Duration:	01:08:00
+		Location:	NULL NULL
+
+	CJBEA1
+		Images:	122
+		Time:	31.12.2006 19:00:23 until 13.04.2024 08:04:29
+		Duration:	6312.13:04:06
+		Location:	NULL NULL
+
+	CJBER1
+		Images:	282
+		Time:	13.04.2024 08:29:49 until 13.04.2024 09:29:44
+		Duration:	00:59:55
+		Location:	NULL NULL
+
+	CJBUA1
+		Images:	200
+		Time:	13.04.2024 05:33:11 until 13.04.2024 07:15:44
+		Duration:	01:42:33
+		Location:	NULL NULL
+
+	CJBUR1
+		Images:	420
+		Time:	13.04.2024 07:27:52 until 13.04.2024 08:54:26
+		Duration:	01:26:34
+		Location:	NULL NULL
+
+	CJFAA1
+		Images:	410
+		Time:	13.04.2024 06:35:51 until 13.04.2024 08:09:31
+		Duration:	01:33:40
+		Location:	NULL NULL
+
+	CJFAG1
+		Images:	741
+		Time:	13.04.2024 08:25:26 until 13.04.2024 09:33:03
+		Duration:	01:07:37
+		Location:	NULL NULL
+
+	CKLEW1
+		Images:	329
+		Time:	13.04.2024 08:44:09 until 13.04.2024 10:10:07
+		Duration:	01:25:58
+		Location:	NULL NULL
+
+	CLMOS1
+		Images:	346
+		Time:	13.04.2024 07:42:08 until 13.04.2024 08:40:00
+		Duration:	00:57:52
+		Location:	NULL NULL
+
+	CMBAB1
+		Images:	855
+		Time:	13.04.2024 08:33:55 until 13.04.2024 09:35:47
+		Duration:	01:01:52
+		Location:	NULL NULL
+
+	CMBAR1
+		Images:	324
+		Time:	13.04.2024 06:56:50 until 13.04.2024 08:04:11
+		Duration:	01:07:21
+		Location:	NULL NULL
+
+	CMKEL1
+		Images:	4229
+		Time:	13.04.2024 03:13:59 until 13.04.2024 05:40:00
+		Duration:	02:26:01
+		Location:	NULL NULL
+
+	CWDUR1
+		Images:	632
+		Time:	13.04.2024 06:56:50 until 13.04.2024 09:53:22
+		Duration:	02:56:32
+		Location:	NULL NULL
+
+(3) - Impressions / Pano
+	PANO1
+(4) - none
+	AENUE1
+		Images:	2452
+		Time:	13.04.2024 08:07:44 until 13.04.2024 09:25:40
+		Duration:	01:17:56
+		Location:	NULL NULL
+
+	ZDDO1
+		Images:	5004
+		Time:	13.04.2024 08:02:04 until 13.04.2024 09:36:52
+		Duration:	01:34:48
+		Location:	NULL NULL
+
+	ZSHAW1
+		Images:	6945
+		Time:	13.04.2024 07:13:17 until 13.04.2024 08:43:38
+		Duration:	01:30:21
+		Location:	NULL NULL
+

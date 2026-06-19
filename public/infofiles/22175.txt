@@ -1,0 +1,345 @@
+EventId: 22175
+Spots: 56
+Total Images: 445204
+Time:	31.12.2013 23:04:48 to 07.12.2025 13:33:01
+Duration: 4358.14:28:13
+
+(1) - 0.0 km
+	AFOSL2
+		Images:	11802
+		Time:	06.12.2025 08:09:19 until 06.12.2025 09:19:24
+		Duration:	01:10:05
+		Location:	NULL NULL
+
+	ASEDB2
+		Images:	5984
+		Time:	07.12.2025 09:11:30 until 07.12.2025 11:29:17
+		Duration:	02:17:47
+		Location:	NULL NULL
+
+	ASETO2
+		Images:	6093
+		Time:	07.12.2025 07:23:08 until 07.12.2025 09:33:55
+		Duration:	02:10:47
+		Location:	NULL NULL
+
+	ATHAD2
+		Images:	1229
+		Time:	07.12.2025 09:18:51 until 07.12.2025 09:39:54
+		Duration:	00:21:03
+		Location:	NULL NULL
+
+	BMDJC1
+		Images:	432
+		Time:	07.12.2025 08:20:42 until 07.12.2025 12:46:48
+		Duration:	04:26:06
+		Location:	NULL NULL
+
+	BMDLK1
+		Images:	1492
+		Time:	07.12.2025 09:32:11 until 07.12.2025 13:33:01
+		Duration:	04:00:50
+		Location:	NULL NULL
+
+	BMDMB1
+		Images:	1005
+		Time:	07.12.2025 08:58:07 until 07.12.2025 12:45:53
+		Duration:	03:47:46
+		Location:	NULL NULL
+
+	BNICW1
+		Images:	8315
+		Time:	07.12.2025 08:48:46 until 07.12.2025 12:11:08
+		Duration:	03:22:22
+		Location:	NULL NULL
+
+	BNIJH1
+		Images:	9687
+		Time:	07.12.2025 08:43:35 until 07.12.2025 12:24:15
+		Duration:	03:40:40
+		Location:	NULL NULL
+
+	BNIKC1
+		Images:	8415
+		Time:	07.12.2025 08:49:17 until 07.12.2025 12:04:20
+		Duration:	03:15:03
+		Location:	NULL NULL
+
+	BOFJT1
+		Images:	432
+		Time:	07.12.2025 07:24:01 until 07.12.2025 11:41:18
+		Duration:	04:17:17
+		Location:	NULL NULL
+
+(2) - Finish
+	BFNAN1
+		Images:	15177
+		Time:	07.12.2025 08:05:13 until 07.12.2025 12:33:11
+		Duration:	04:27:58
+		Location:	NULL NULL
+
+	BFNTR1
+		Images:	1101
+		Time:	07.12.2025 12:13:05 until 07.12.2025 12:33:51
+		Duration:	00:20:46
+		Location:	NULL NULL
+
+(3) - IMP
+	AEIER1
+		Images:	12737
+		Time:	07.12.2025 07:12:47 until 07.12.2025 12:05:42
+		Duration:	04:52:55
+		Location:	NULL NULL
+
+	AEITO1
+		Images:	742
+		Time:	07.12.2025 11:56:59 until 07.12.2025 12:10:10
+		Duration:	00:13:11
+		Location:	NULL NULL
+
+	ASIDT1
+		Images:	14484
+		Time:	07.12.2025 07:35:49 until 07.12.2025 10:42:59
+		Duration:	03:07:10
+		Location:	38.57400 -121.38316
+
+	ASIHO1
+		Images:	10669
+		Time:	06.12.2025 19:37:02 until 06.12.2025 22:58:32
+		Duration:	03:21:30
+		Location:	38.57400 -121.38316
+
+(4) - Impressions / Pano
+	PANO1
+(5) - Mile 1.2
+	AONDT1
+		Images:	1272
+		Time:	07.12.2025 05:58:54 until 07.12.2025 06:35:09
+		Duration:	00:36:15
+		Location:	38.69629 -121.18199
+
+	AONHO1
+		Images:	640
+		Time:	06.12.2025 17:58:59 until 06.12.2025 18:36:03
+		Duration:	00:37:04
+		Location:	38.69629 -121.18199
+
+	AONTO1
+		Images:	1671
+		Time:	07.12.2025 07:05:24 until 07.12.2025 07:36:25
+		Duration:	00:31:01
+		Location:	38.69629 -121.18199
+
+(6) - Mile 10.1
+	ATHAD1
+		Images:	11121
+		Time:	07.12.2025 07:51:32 until 07.12.2025 09:16:45
+		Duration:	01:25:13
+		Location:	38.64226 -121.27017
+
+	ATHCS1
+		Images:	11617
+		Time:	07.12.2025 06:40:33 until 07.12.2025 08:49:46
+		Duration:	02:09:13
+		Location:	38.64226 -121.27017
+
+	ATHTO1
+		Images:	10392
+		Time:	07.12.2025 07:52:16 until 07.12.2025 09:42:00
+		Duration:	01:49:44
+		Location:	38.64226 -121.27017
+
+(7) - Mile 13.1
+	AFOJR1
+		Images:	3982
+		Time:	07.12.2025 07:03:57 until 07.12.2025 09:29:38
+		Duration:	02:25:41
+		Location:	38.63673 -121.31881
+
+	AFOSL1
+		Images:	22632
+		Time:	06.12.2025 06:09:44 until 06.12.2025 08:08:38
+		Duration:	01:58:54
+		Location:	38.63673 -121.31881
+
+	AFOTM1
+		Images:	23725
+		Time:	07.12.2025 06:16:07 until 07.12.2025 09:21:32
+		Duration:	03:05:25
+		Location:	38.63673 -121.31881
+
+	AFOTO1
+		Images:	9718
+		Time:	31.12.2013 23:04:48 until 01.01.2014 02:08:25
+		Duration:	03:03:37
+		Location:	38.63673 -121.31881
+
+(8) - Mile 16.3
+	AFICR1
+		Images:	6548
+		Time:	07.12.2025 08:20:05 until 07.12.2025 11:13:43
+		Duration:	02:53:38
+		Location:	38.60119 -121.34052
+
+	AFIKA1
+		Images:	10409
+		Time:	07.12.2025 07:10:09 until 07.12.2025 10:02:15
+		Duration:	02:52:06
+		Location:	38.60119 -121.34052
+
+(9) - Mile 19.4
+	ASITO1
+		Images:	11103
+		Time:	07.12.2025 08:35:17 until 07.12.2025 11:45:46
+		Duration:	03:10:29
+		Location:	38.57400 -121.38316
+
+(10) - Mile 21.7 J Street Bridge
+	ASEAM1
+		Images:	15047
+		Time:	07.12.2025 07:15:32 until 07.12.2025 11:29:13
+		Duration:	04:13:41
+		Location:	NULL NULL
+
+	ASEDB1
+		Images:	5880
+		Time:	07.12.2025 07:26:15 until 07.12.2025 09:05:51
+		Duration:	01:39:36
+		Location:	NULL NULL
+
+	ASEGG1
+		Images:	16943
+		Time:	07.12.2025 07:46:54 until 07.12.2025 11:31:04
+		Duration:	03:44:10
+		Location:	NULL NULL
+
+	ASETO1
+		Images:	4743
+		Time:	07.12.2025 09:37:48 until 07.12.2025 11:32:04
+		Duration:	01:54:16
+		Location:	NULL NULL
+
+(11) - Mile 5.9
+	ATOCW1
+		Images:	4950
+		Time:	07.12.2025 06:18:44 until 07.12.2025 07:31:20
+		Duration:	01:12:36
+		Location:	38.70041 -121.26238
+
+	ATOJH1
+		Images:	4637
+		Time:	07.12.2025 06:28:32 until 07.12.2025 07:33:17
+		Duration:	01:04:45
+		Location:	38.70041 -121.26238
+
+	ATOTO1
+		Images:	3627
+		Time:	07.12.2025 06:11:35 until 07.12.2025 07:31:46
+		Duration:	01:20:11
+		Location:	38.70041 -121.26238
+
+(12) - none
+	AEITO2
+		Images:	3032
+		Time:	07.12.2025 10:58:37 until 07.12.2025 11:52:00
+		Duration:	00:53:23
+		Location:	NULL NULL
+
+	AEITO3
+		Images:	6371
+		Time:	07.12.2025 07:27:22 until 07.12.2025 10:02:34
+		Duration:	02:35:12
+		Location:	NULL NULL
+
+	BFNNS1
+		Images:	14682
+		Time:	06.12.2025 19:51:30 until 07.12.2025 00:31:17
+		Duration:	04:39:47
+		Location:	NULL NULL
+
+	BFNTC1
+		Images:	24185
+		Time:	07.12.2025 07:50:29 until 07.12.2025 11:02:36
+		Duration:	03:12:07
+		Location:	NULL NULL
+
+	BFNTC2
+		Images:	9981
+		Time:	07.12.2025 11:05:16 until 07.12.2025 12:31:19
+		Duration:	01:26:03
+		Location:	NULL NULL
+
+	BFNTR2
+		Images:	17262
+		Time:	07.12.2025 08:22:08 until 07.12.2025 10:05:45
+		Duration:	01:43:37
+		Location:	NULL NULL
+
+	BFNTR3
+		Images:	16468
+		Time:	07.12.2025 10:08:13 until 07.12.2025 12:10:34
+		Duration:	02:02:21
+		Location:	NULL NULL
+
+	BMDML1
+		Images:	1121
+		Time:	07.12.2025 09:44:08 until 07.12.2025 13:13:08
+		Duration:	03:29:00
+		Location:	NULL NULL
+
+	BNICS1
+		Images:	6999
+		Time:	07.12.2025 09:48:17 until 07.12.2025 12:24:30
+		Duration:	02:36:13
+		Location:	NULL NULL
+
+	BNITR1
+		Images:	1139
+		Time:	07.12.2025 08:47:32 until 07.12.2025 09:07:11
+		Duration:	00:19:39
+		Location:	NULL NULL
+
+	BOFJD1
+		Images:	2739
+		Time:	07.12.2025 08:42:38 until 07.12.2025 12:51:27
+		Duration:	04:08:49
+		Location:	NULL NULL
+
+	BOFLE1
+	BOFRB1
+		Images:	505
+		Time:	07.12.2025 08:32:08 until 07.12.2025 12:28:53
+		Duration:	03:56:45
+		Location:	NULL NULL
+
+	BPFAD1
+		Images:	10394
+		Time:	07.12.2025 11:06:45 until 07.12.2025 13:31:24
+		Duration:	02:24:39
+		Location:	NULL NULL
+
+	BPFPR1
+		Images:	10295
+		Time:	07.12.2025 07:19:48 until 07.12.2025 11:44:23
+		Duration:	04:24:35
+		Location:	NULL NULL
+
+	BPFTR1
+		Images:	14515
+		Time:	07.12.2025 08:11:11 until 07.12.2025 12:43:13
+		Duration:	04:32:02
+		Location:	NULL NULL
+
+	BPFTT1
+		Images:	14513
+		Time:	07.12.2025 07:08:28 until 07.12.2025 12:41:54
+		Duration:	05:33:26
+		Location:	NULL NULL
+
+(13) - Start
+	ASTTC1
+		Images:	550
+		Time:	07.12.2025 04:13:05 until 07.12.2025 06:18:16
+		Duration:	02:05:11
+		Location:	38.69080 -121.17478
+

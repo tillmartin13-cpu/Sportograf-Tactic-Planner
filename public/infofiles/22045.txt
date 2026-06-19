@@ -1,0 +1,377 @@
+EventId: 22045
+Spots: 57
+Total Images: 637189
+Time:	01.01.0001 23:00:00 to 22.11.2025 19:29:09
+Duration: 739575.20:29:09
+
+(1) - 0.0 km
+	ASGET3
+		Images:	24524
+		Time:	22.11.2025 06:45:41 until 22.11.2025 11:44:42
+		Duration:	04:59:01
+		Location:	NULL NULL
+
+	BBIMY1
+		Images:	6590
+		Time:	22.11.2025 06:09:32 until 22.11.2025 07:07:27
+		Duration:	00:57:55
+		Location:	NULL NULL
+
+	BJIDE1
+		Images:	20898
+		Time:	21.11.2025 19:44:37 until 21.11.2025 23:48:25
+		Duration:	04:03:48
+		Location:	NULL NULL
+
+	BTEWH1
+		Images:	19725
+		Time:	22.11.2025 07:38:59 until 22.11.2025 11:42:59
+		Duration:	04:04:00
+		Location:	NULL NULL
+
+	BWIDE1
+		Images:	19077
+		Time:	22.11.2025 07:50:00 until 22.11.2025 11:49:03
+		Duration:	03:59:03
+		Location:	NULL NULL
+
+	CALNG1LS1
+		Images:	3522
+		Time:	22.11.2025 05:38:10 until 22.11.2025 07:07:23
+		Duration:	01:29:13
+		Location:	NULL NULL
+
+	CRACZ1
+		Images:	5878
+		Time:	22.11.2025 10:23:52 until 22.11.2025 11:59:31
+		Duration:	01:35:39
+		Location:	NULL NULL
+
+	CRACZ1LS1
+		Images:	12571
+		Time:	22.11.2025 08:25:25 until 22.11.2025 12:08:11
+		Duration:	03:42:46
+		Location:	NULL NULL
+
+(2) - 0.0 km FInish Christian Ground
+	ACFIO2
+		Images:	14556
+		Time:	22.11.2025 10:13:14 until 22.11.2025 12:05:09
+		Duration:	01:51:55
+		Location:	NULL NULL
+
+(3) - 0.0 km Finish Gus 864747
+	AGGAR1
+		Images:	22174
+		Time:	22.11.2025 07:10:18 until 22.11.2025 12:31:50
+		Duration:	05:21:32
+		Location:	NULL NULL
+
+(4) - 0.0 km Finish Trigger Center Lightstand  864750
+	ASGET2
+		Images:	29358
+		Time:	22.11.2025 06:25:26 until 22.11.2025 11:45:42
+		Duration:	05:20:16
+		Location:	NULL NULL
+
+(5) - 0.0 km FInish Trigger LEft 864748
+	AGGAR1LS2
+		Images:	15806
+		Time:	22.11.2025 06:47:24 until 22.11.2025 11:45:26
+		Duration:	04:58:02
+		Location:	NULL NULL
+
+(6) - 0.0 km Finish Trigger Left Crops 867358
+	AGGAR1LS4
+		Images:	15985
+		Time:	22.11.2025 06:51:17 until 22.11.2025 11:44:57
+		Duration:	04:53:40
+		Location:	NULL NULL
+
+(7) - 0.0 km FInish Trigger Right 864749
+	AGGAR1LS1
+		Images:	13721
+		Time:	22.11.2025 07:44:21 until 22.11.2025 11:45:18
+		Duration:	04:00:57
+		Location:	NULL NULL
+
+(8) - 0.0 km MSC 1 Bob Fina 864772
+	ABFIN1
+		Images:	6420
+		Time:	22.11.2025 06:00:12 until 22.11.2025 06:59:50
+		Duration:	00:59:38
+		Location:	NULL NULL
+
+(9) - 0.0 km MSC 1 Dave 864769
+	ADAT1
+		Images:	11575
+		Time:	22.11.2025 07:03:00 until 22.11.2025 07:59:20
+		Duration:	00:56:20
+		Location:	NULL NULL
+
+(10) - 0.0 km MSC 1 Jim Dee 864770
+	AJDEE1
+		Images:	9063
+		Time:	21.11.2025 17:57:03 until 21.11.2025 19:00:59
+		Duration:	01:03:56
+		Location:	NULL NULL
+
+(11) - 0.0 km MSC 1 Rico 864773
+	AMCAM1
+		Images:	3547
+		Time:	22.11.2025 06:02:37 until 22.11.2025 06:58:52
+		Duration:	00:56:15
+		Location:	NULL NULL
+
+(12) - 0.0 km MSC 1 William Dee 864771
+	AWDEE1
+		Images:	4681
+		Time:	22.11.2025 05:58:25 until 22.11.2025 06:59:34
+		Duration:	01:01:09
+		Location:	NULL NULL
+
+(13) - 0.0 km MSC 3 Master Jones 864790
+	BMJON1
+		Images:	2362
+		Time:	21.11.2025 20:27:44 until 21.11.2025 21:38:17
+		Duration:	01:10:33
+		Location:	NULL NULL
+
+(14) - 0.0 km MSC 3 Matt Iovannone 864791
+	BMIOV1
+		Images:	6406
+		Time:	22.11.2025 06:20:51 until 22.11.2025 08:38:29
+		Duration:	02:17:38
+		Location:	NULL NULL
+
+(15) - 0.0 km MSC 3 Trigger 864779
+	BMJON1LS1
+		Images:	3572
+		Time:	01.01.0001 23:00:00 until 22.11.2025 19:29:09
+		Duration:	739575.20:29:09
+		Location:	NULL NULL
+
+(16) - 0.0 km MSC 4 CHristian 864777
+	ACFIO1
+		Images:	14476
+		Time:	22.11.2025 06:34:20 until 22.11.2025 09:09:10
+		Duration:	02:34:50
+		Location:	NULL NULL
+
+(17) - 0.0 km MSC 4 JOsh 864778
+	AJHUM1
+		Images:	5892
+		Time:	22.11.2025 06:34:40 until 22.11.2025 09:10:37
+		Duration:	02:35:57
+		Location:	NULL NULL
+
+(18) - 0.0 km MSC 5 Joseph Antoine 864780
+	BJANT1
+		Images:	3941
+		Time:	22.11.2025 07:02:26 until 22.11.2025 09:30:47
+		Duration:	02:28:21
+		Location:	NULL NULL
+
+(19) - 0.0 km MSC 6 Alan Ng 864786
+	BANG1
+		Images:	37346
+		Time:	22.11.2025 08:11:05 until 22.11.2025 11:34:41
+		Duration:	03:23:36
+		Location:	NULL NULL
+
+(20) - 0.0 km MSC 6 ALan Trigger 867303
+	BANG1LS1
+		Images:	11281
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(21) - 0.0 km MSC 6 Marvin Dangerfield 864785
+	BMDAN1
+		Images:	16833
+		Time:	22.11.2025 06:31:23 until 22.11.2025 11:44:22
+		Duration:	05:12:59
+		Location:	NULL NULL
+
+(22) - 0.0 km MSC 6 Milly Myers 867302
+	BBMYE1
+		Images:	10347
+		Time:	22.11.2025 08:08:06 until 22.11.2025 11:38:25
+		Duration:	03:30:19
+		Location:	NULL NULL
+
+(23) - 0.0 km MSC 6 Trigger  867353
+	BMDAN1LS1
+		Images:	16579
+		Time:	22.11.2025 05:07:25 until 22.11.2025 11:36:35
+		Duration:	06:29:10
+		Location:	NULL NULL
+
+(24) - 0.0 km MSC4 Trigger 864779
+	ACFIO1LS1
+		Images:	8619
+		Time:	22.11.2025 06:33:41 until 22.11.2025 08:58:44
+		Duration:	02:25:03
+		Location:	NULL NULL
+
+(25) - 0.0 km MSC5 Anwar Ali 864781
+	BAALI1
+		Images:	9198
+		Time:	22.11.2025 07:21:53 until 22.11.2025 10:31:42
+		Duration:	03:09:49
+		Location:	NULL NULL
+
+(26) - 0.0 km PRe Fin Bob FIna 864753
+	ABFIN2
+		Images:	23390
+		Time:	22.11.2025 07:37:53 until 22.11.2025 11:58:36
+		Duration:	04:20:43
+		Location:	NULL NULL
+
+(27) - 0.0 km Pre Fin Dave 864754
+	ADAT2
+		Images:	47183
+		Time:	22.11.2025 08:38:48 until 22.11.2025 12:59:36
+		Duration:	04:20:48
+		Location:	NULL NULL
+
+(28) - 0.0 km Pre FIn Trigger Center 864757
+	ATWEL2LS1
+		Images:	14739
+		Time:	22.11.2025 06:34:11 until 22.11.2025 11:44:16
+		Duration:	05:10:05
+		Location:	NULL NULL
+
+(29) - 0.0 km PRe FIn Trigger Left Dave 864756
+	ADAT2LS1
+		Images:	11142
+		Time:	22.11.2025 06:59:43 until 22.11.2025 11:44:17
+		Duration:	04:44:34
+		Location:	NULL NULL
+
+(30) - 0.0 km PRe FIn Trigger Right Bob 864755
+	ABFIN2LS1
+		Images:	15031
+		Time:	22.11.2025 06:44:19 until 22.11.2025 11:46:35
+		Duration:	05:02:16
+		Location:	NULL NULL
+
+(31) - 0.0 km PRe FIn Trigger Right Ground
+	ASGET1
+		Images:	15922
+		Time:	01.01.0001 23:00:00 until 22.11.2025 11:44:46
+		Duration:	739575.12:44:46
+		Location:	NULL NULL
+
+(32) - 0.0 km Pre Finish Trent Wellott 864752
+	BTWEL1
+		Images:	18380
+		Time:	22.11.2025 06:48:59 until 22.11.2025 12:05:04
+		Duration:	05:16:05
+		Location:	NULL NULL
+
+(33) - 0.0 km Start Rachel 864784
+	ARZEC1
+		Images:	2402
+		Time:	22.11.2025 05:34:29 until 22.11.2025 06:25:36
+		Duration:	00:51:07
+		Location:	NULL NULL
+
+(34) - 0.0 km Start Trent 864783
+	ATWEL1
+		Images:	505
+		Time:	22.11.2025 05:50:10 until 22.11.2025 06:18:05
+		Duration:	00:27:55
+		Location:	NULL NULL
+
+(35) - 0.0 km Trigger LEft Crops 867354
+	ADAT2LS2
+		Images:	8281
+		Time:	22.11.2025 06:59:45 until 22.11.2025 11:42:45
+		Duration:	04:43:00
+		Location:	NULL NULL
+
+(36) - 0.0 km Trigger Right Crops 864751
+	AGGAR1LS3
+		Images:	14445
+		Time:	22.11.2025 07:44:26 until 22.11.2025 11:45:18
+		Duration:	04:00:52
+		Location:	NULL NULL
+
+(37) - Ceremony
+	CBYPU1
+		Images:	1008
+		Time:	22.11.2025 06:50:13 until 22.11.2025 11:52:34
+		Duration:	05:02:21
+		Location:	NULL NULL
+
+	CEVLE1
+		Images:	1527
+		Time:	22.11.2025 08:19:36 until 22.11.2025 12:46:23
+		Duration:	04:26:47
+		Location:	NULL NULL
+
+	CGACA1
+		Images:	2726
+		Time:	22.11.2025 07:31:07 until 22.11.2025 11:40:49
+		Duration:	04:09:42
+		Location:	NULL NULL
+
+	CJAHA1
+		Images:	1659
+		Time:	22.11.2025 07:22:54 until 22.11.2025 11:37:22
+		Duration:	04:14:28
+		Location:	NULL NULL
+
+	CLITS1
+		Images:	1620
+		Time:	22.11.2025 08:03:15 until 22.11.2025 12:34:22
+		Duration:	04:31:07
+		Location:	NULL NULL
+
+	CMIFI1
+		Images:	949
+		Time:	22.11.2025 07:27:53 until 22.11.2025 11:52:42
+		Duration:	04:24:49
+		Location:	NULL NULL
+
+	CRAAC1
+		Images:	680
+		Time:	22.11.2025 07:10:21 until 22.11.2025 12:25:13
+		Duration:	05:14:52
+		Location:	NULL NULL
+
+	CRULI1
+		Images:	3935
+		Time:	22.11.2025 07:51:48 until 22.11.2025 13:00:09
+		Duration:	05:08:21
+		Location:	NULL NULL
+
+	CZAHE1
+		Images:	3859
+		Time:	22.11.2025 06:58:08 until 22.11.2025 11:41:06
+		Duration:	04:42:58
+		Location:	NULL NULL
+
+(38) - Impressions / Pano
+	PANO1
+(39) - none
+	ATWEL2LS2
+	BTEWH1LS1
+		Images:	15288
+		Time:	22.11.2025 08:18:00 until 22.11.2025 12:52:29
+		Duration:	04:34:29
+		Location:	NULL NULL
+
+	CALNG1
+		Images:	11207
+		Time:	22.11.2025 05:43:54 until 22.11.2025 07:07:16
+		Duration:	01:23:22
+		Location:	NULL NULL
+
+	CMACO1
+		Images:	14788
+		Time:	22.11.2025 07:48:19 until 22.11.2025 11:53:58
+		Duration:	04:05:39
+		Location:	NULL NULL
+

@@ -1,0 +1,116 @@
+EventId: 13730
+Spots: 18
+Total Images: 25444
+Time:	31.12.2012 23:00:09 to 04.01.2025 14:02:15
+Duration: 4386.15:02:06
+
+(1) - 2,0 km alle afstanden
+	LV1
+		Images:	2617
+		Time:	04.01.2025 06:55:18 until 04.01.2025 10:23:29
+		Duration:	03:28:11
+		Location:	50.86266 5.82213
+
+	LV1LS1
+		Images:	859
+		Time:	04.01.2025 07:08:03 until 04.01.2025 10:23:05
+		Duration:	03:15:02
+		Location:	50.86266 5.82213
+
+	LV1LS2
+		Images:	831
+		Time:	04.01.2025 08:09:25 until 04.01.2025 10:23:33
+		Duration:	02:14:08
+		Location:	50.86266 5.82213
+
+(2) - 5,0 km 54+44 km track
+	MK1
+		Images:	736
+		Time:	04.01.2025 07:28:26 until 04.01.2025 08:43:56
+		Duration:	01:15:30
+		Location:	50.85637 5.8299
+
+	MK1LS1
+		Images:	102
+		Time:	31.12.2012 23:00:09 until 04.01.2025 08:43:54
+		Duration:	4386.09:43:45
+		Location:	50.85647 5.83114
+
+	JOS1
+		Images:	596
+		Time:	04.01.2025 07:24:41 until 04.01.2025 08:48:02
+		Duration:	01:23:21
+		Location:	50.85647 5.83114
+
+(3) - 3,7 km  30km+18km+30km track
+	MK2
+		Images:	3677
+		Time:	04.01.2025 09:25:47 until 04.01.2025 10:37:26
+		Duration:	01:11:39
+		Location:	50.8613 5.81325
+
+	MK2LS2
+		Images:	414
+		Time:	04.01.2025 09:21:20 until 04.01.2025 10:39:58
+		Duration:	01:18:38
+		Location:	50.8613 5.81325
+
+	LV2LS1
+		Images:	799
+		Time:	04.01.2025 09:49:12 until 04.01.2025 10:36:56
+		Duration:	00:47:44
+		Location:	50.8613 5.81325
+
+	LV2LS2
+		Images:	545
+		Time:	04.01.2025 09:12:27 until 04.01.2025 10:40:16
+		Duration:	01:27:49
+		Location:	50.8613 5.81325
+
+(4) - 3,9 km  30km+18km+30km track
+	JOS2
+		Images:	1583
+		Time:	04.01.2025 09:15:21 until 04.01.2025 10:16:33
+		Duration:	01:01:12
+		Location:	50.86188 5.81296
+
+(5) - 3 km tot de finish
+	MK3
+		Images:	4985
+		Time:	04.01.2025 11:05:53 until 04.01.2025 13:45:42
+		Duration:	02:39:49
+		Location:	50.86225 5.81264
+
+	MK3LS1
+		Images:	387
+		Time:	04.01.2025 11:00:16 until 04.01.2025 13:48:21
+		Duration:	02:48:05
+		Location:	50.86225 5.81264
+
+	JOS3
+		Images:	3992
+		Time:	04.01.2025 10:26:42 until 04.01.2025 13:56:56
+		Duration:	03:30:14
+		Location:	50.8621 5.81302
+
+	MK3LS2
+		Images:	629
+		Time:	04.01.2025 10:51:18 until 04.01.2025 13:46:11
+		Duration:	02:54:53
+		Location:	50.8621 5.81302
+
+(6) - 2,5 km tot aan de finish
+	LV2
+		Images:	2652
+		Time:	04.01.2025 10:43:40 until 04.01.2025 14:02:15
+		Duration:	03:18:35
+		Location:	50.86552 5.81604
+
+(7) - Impressions / Pano
+	MK1DRONE1
+		Images:	40
+		Time:	04.01.2025 08:16:21 until 04.01.2025 10:33:36
+		Duration:	02:17:15
+		Location:	50.85637 5.8299
+
+	PANO1

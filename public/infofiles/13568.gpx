@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "52.48081" lon = "13.39009"><name>LSI1</name><desc>Start
+Images:2521
+First:18.10.2025 17:10:23
+Last:18.10.2025 19:31:26
+Duration:02:21:03
+</desc></wpt>
+<wpt lat = "52.48081" lon = "13.39009"><name>RYS1</name><desc>General Pictures
+Images:2536
+First:18.10.2025 16:18:04
+Last:18.10.2025 21:31:26
+Duration:05:13:22
+</desc></wpt>
+<wpt lat = "52.47468" lon = "13.39258"><name>MFR1</name><desc>1.0 km
+Images:1872
+First:18.10.2025 18:02:19
+Last:18.10.2025 21:34:55
+Duration:03:32:36
+</desc></wpt>
+<wpt lat = "52.47468" lon = "13.39258"><name>MFR1LS1</name><desc>1.0 km
+Images:1798
+First:18.10.2025 17:57:55
+Last:18.10.2025 21:41:01
+Duration:03:43:06
+</desc></wpt>
+<wpt lat = "52.47481" lon = "13.40013"><name>KHR1</name><desc>1.5 km
+Images:6126
+First:18.10.2025 17:56:18
+Last:18.10.2025 21:39:48
+Duration:03:43:30
+</desc></wpt>
+<wpt lat = "52.48093" lon = "13.39183"><name>MGEN1</name><desc>4.5 km
+Images:3248
+First:18.10.2025 17:54:40
+Last:18.10.2025 22:12:30
+Duration:04:17:50
+</desc></wpt>
+<wpt lat = "52.48081" lon = "13.39009"><name>RYS2LS2</name><desc>Finish
+Images:3732
+First:18.10.2025 18:03:49
+Last:18.10.2025 22:04:31
+Duration:04:00:42
+</desc></wpt>
+<wpt lat = "52.48081" lon = "13.39009"><name>LSI2</name><desc>Finish
+Images:4876
+First:18.10.2025 19:39:14
+Last:18.10.2025 22:14:28
+Duration:02:35:14
+</desc></wpt>
+<wpt lat = "52.48081" lon = "13.39009"><name>RYS2LS1</name><desc>Finish
+Images:3749
+First:18.10.2025 17:15:59
+Last:18.10.2025 22:05:03
+Duration:04:49:04
+</desc></wpt>
+</gpx>

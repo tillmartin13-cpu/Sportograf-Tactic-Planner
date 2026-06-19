@@ -1,0 +1,281 @@
+EventId: 11929
+Spots: 43
+Total Images: 243858
+Time:	11.03.2024 11:57:28 to 08.04.2024 15:20:47
+Duration: 28.03:23:19
+
+(1) - AOK km5.3
+	ATNR2
+		Images:	2125
+		Time:	07.04.2024 12:13:46 until 07.04.2024 13:09:47
+		Duration:	00:56:01
+		Location:	47.99818 7.81860
+
+	ATNR2LS1
+		Images:	944
+		Time:	07.04.2024 11:32:35 until 07.04.2024 12:35:55
+		Duration:	01:03:20
+		Location:	47.99818 7.82039
+
+	ATNR2LS2
+		Images:	1178
+		Time:	07.04.2024 11:37:10 until 07.04.2024 13:06:31
+		Duration:	01:29:21
+		Location:	47.99818 7.82039
+
+(2) - Finish
+	BISA2
+		Images:	385
+		Time:	07.04.2024 14:06:08 until 07.04.2024 16:02:22
+		Duration:	01:56:14
+		Location:	48.01448 7.83995
+
+	BJOM2
+		Images:	17211
+		Time:	07.04.2024 10:19:19 until 07.04.2024 16:02:24
+		Duration:	05:43:05
+		Location:	48.01448 7.83995
+
+	BJOM2LS1
+		Images:	7055
+		Time:	07.04.2024 10:46:23 until 07.04.2024 16:03:05
+		Duration:	05:16:42
+		Location:	48.01448 7.83995
+
+	BLUJ2
+		Images:	3804
+		Time:	07.04.2024 10:46:20 until 07.04.2024 16:02:27
+		Duration:	05:16:07
+		Location:	48.01448 7.83995
+
+	BMAWI1LS1
+		Images:	6583
+		Time:	07.04.2024 10:18:58 until 07.04.2024 16:03:18
+		Duration:	05:44:20
+		Location:	48.01448 7.83995
+
+(3) - Finisher Wall
+	BEVL2
+		Images:	25
+		Time:	07.04.2024 14:36:17 until 07.04.2024 14:55:24
+		Duration:	00:19:07
+		Location:	48.01448 7.83995
+
+	BMAWI1
+		Images:	2391
+		Time:	07.04.2024 10:58:50 until 07.04.2024 16:07:51
+		Duration:	05:09:01
+		Location:	48.01448 7.83995
+
+(4) - Impressions / Pano
+	AMOG1DRONE1
+		Images:	28
+		Time:	07.04.2024 09:54:21 until 07.04.2024 12:35:40
+		Duration:	02:41:19
+		Location:	47.98508 7.85402
+
+	BTE1
+		Images:	120
+		Time:	07.04.2024 08:17:11 until 07.04.2024 09:16:31
+		Duration:	00:59:20
+		Location:	48.01448 7.83995
+
+(5) - km12.3
+	AMOG1
+		Images:	5605
+		Time:	07.04.2024 08:28:36 until 07.04.2024 14:47:27
+		Duration:	06:18:51
+		Location:	47.98508 7.85402
+
+	AMOG1LS1
+		Images:	7515
+		Time:	07.04.2024 09:35:22 until 07.04.2024 14:48:44
+		Duration:	05:13:22
+		Location:	47.98508 7.85402
+
+	AMOG1LS2
+		Images:	8012
+		Time:	11.03.2024 11:57:28 until 07.04.2024 14:48:59
+		Duration:	27.02:51:31
+		Location:	47.98501 7.85405
+
+(6) - km14.0
+	AHS1
+		Images:	5519
+		Time:	07.04.2024 09:17:46 until 07.04.2024 14:58:30
+		Duration:	05:40:44
+		Location:	47.98814 7.87391
+
+	AHS1LS1
+		Images:	8101
+		Time:	07.04.2024 08:41:52 until 07.04.2024 14:59:50
+		Duration:	06:17:58
+		Location:	47.98814 7.87391
+
+	AHS1LS2
+		Images:	7317
+		Time:	07.04.2024 10:43:45 until 07.04.2024 14:58:42
+		Duration:	04:14:57
+		Location:	47.98814 7.87391
+
+(7) - km15.3
+	AJOMA1
+		Images:	6621
+		Time:	07.04.2024 08:17:25 until 07.04.2024 15:10:24
+		Duration:	06:52:59
+		Location:	47.99091 7.85875
+
+	AJOMA1LS1
+		Images:	5901
+		Time:	07.04.2024 10:26:59 until 07.04.2024 12:58:07
+		Duration:	02:31:08
+		Location:	47.99088 7.85673
+
+	AJOMA1LS2
+		Images:	6823
+		Time:	07.04.2024 10:26:02 until 07.04.2024 15:11:51
+		Duration:	04:45:49
+		Location:	47.99088 7.85673
+
+(8) - km16.1
+	AKD1
+		Images:	8066
+		Time:	07.04.2024 08:43:32 until 07.04.2024 14:14:49
+		Duration:	05:31:17
+		Location:	47.99378 7.85373
+
+	AKD1LS1
+		Images:	6495
+		Time:	07.04.2024 08:07:42 until 07.04.2024 13:44:53
+		Duration:	05:37:11
+		Location:	47.99378 7.85373
+
+	AKD1LS2
+		Images:	6413
+		Time:	07.04.2024 09:08:53 until 07.04.2024 13:34:50
+		Duration:	04:25:57
+		Location:	47.99378 7.85373
+
+(9) - km16.8
+	ARONS1
+		Images:	8077
+		Time:	08.04.2024 08:54:37 until 08.04.2024 15:20:47
+		Duration:	06:26:10
+		Location:	47.99460 7.84564
+
+(10) - km17.6
+	ABP1
+		Images:	8823
+		Time:	07.04.2024 09:59:38 until 07.04.2024 13:51:59
+		Duration:	03:52:21
+		Location:	47.99652 7.83940
+
+	ABP1LS1
+		Images:	7356
+		Time:	07.04.2024 09:09:25 until 07.04.2024 15:43:07
+		Duration:	06:33:42
+		Location:	47.99652 7.83940
+
+	ABP1LS2
+		Images:	7611
+		Time:	07.04.2024 09:31:58 until 07.04.2024 15:49:03
+		Duration:	06:17:05
+		Location:	47.99652 7.83940
+
+	ATNR3
+		Images:	1463
+		Time:	07.04.2024 13:52:11 until 07.04.2024 15:36:20
+		Duration:	01:44:09
+		Location:	47.99652 7.83940
+
+(11) - km18.0 / AOK km7.3
+	ADABI1
+		Images:	10880
+		Time:	08.04.2024 08:00:55 until 08.04.2024 14:25:32
+		Duration:	06:24:37
+		Location:	47.99764 7.83775
+
+(12) - km2.1 / AOK km2.1
+	BISA1
+		Images:	2957
+		Time:	07.04.2024 08:24:13 until 07.04.2024 13:28:43
+		Duration:	05:04:30
+		Location:	48.01367 7.81693
+
+(13) - km20.8 / AOK km9.8
+	BTE2
+		Images:	12836
+		Time:	07.04.2024 10:22:46 until 07.04.2024 16:01:08
+		Duration:	05:38:22
+		Location:	48.01316 7.84160
+
+	BTE2LS1
+		Images:	3314
+		Time:	07.04.2024 12:24:22 until 07.04.2024 16:01:18
+		Duration:	03:36:56
+		Location:	48.01316 7.84160
+
+	BTE2LS2
+		Images:	11071
+		Time:	07.04.2024 09:31:14 until 07.04.2024 16:01:37
+		Duration:	06:30:23
+		Location:	48.01316 7.84160
+
+(14) - km3.8 / AOK km3.8
+	BEVL1
+		Images:	7436
+		Time:	07.04.2024 08:14:12 until 07.04.2024 13:47:44
+		Duration:	05:33:32
+		Location:	48.00790 7.80447
+
+	BEVL1LS1
+		Images:	5430
+		Time:	07.04.2024 09:13:02 until 07.04.2024 13:47:33
+		Duration:	04:34:31
+		Location:	48.00790 7.80447
+
+	BEVL1LS2
+		Images:	7908
+		Time:	07.04.2024 08:59:25 until 07.04.2024 13:47:58
+		Duration:	04:48:33
+		Location:	48.00825 7.80223
+
+(15) - km6.6
+	ATNR1
+		Images:	4015
+		Time:	07.04.2024 09:37:57 until 07.04.2024 11:12:25
+		Duration:	01:34:28
+		Location:	47.99441 7.81656
+
+	ATNR1LS1
+		Images:	4093
+		Time:	07.04.2024 09:30:46 until 07.04.2024 11:13:55
+		Duration:	01:43:09
+		Location:	47.99441 7.81656
+
+	ATNR1LS2
+		Images:	3586
+		Time:	07.04.2024 08:47:04 until 07.04.2024 11:15:45
+		Duration:	02:28:41
+		Location:	47.99441 7.81656
+
+(16) - km7.4
+	ATD1
+		Images:	8702
+		Time:	07.04.2024 10:00:18 until 07.04.2024 14:06:16
+		Duration:	04:05:58
+		Location:	47.98922 7.81363
+
+(17) - Start
+	BJOM3
+		Images:	2288
+		Time:	07.04.2024 08:13:07 until 07.04.2024 10:08:16
+		Duration:	01:55:09
+		Location:	48.01205 7.83882
+
+	BLUJ1
+		Images:	1775
+		Time:	07.04.2024 08:48:13 until 07.04.2024 12:00:36
+		Duration:	03:12:23
+		Location:	48.01205 7.83882
+

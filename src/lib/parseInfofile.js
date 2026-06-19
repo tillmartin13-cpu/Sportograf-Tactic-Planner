@@ -80,13 +80,14 @@ export function parseInfofile(text) {
     if (spotMatch) {
       flushSpot();
       const name = spotMatch[2].trim();
-      const kmFromPrefix = name.match(/^km([\d.]+)/i);
-      const kmFromSuffix = name.match(/([\d.]+)\s*km/i);
+      const kmFromPrefix = name.match(/^km([\d.,]+)/i);
+      const kmFromSuffix = name.match(/([\d.,]+)\s*km/i);
+      const parseKm = (s) => parseFloat(s.replace(',', '.'));
       currentSpot = {
         position: parseInt(spotMatch[1], 10) - 1,
         name,
         spot_type: detectSpotType(name),
-        km_mark: kmFromPrefix ? parseFloat(kmFromPrefix[1]) : kmFromSuffix ? parseFloat(kmFromSuffix[1]) : null,
+        km_mark: kmFromPrefix ? parseKm(kmFromPrefix[1]) : kmFromSuffix ? parseKm(kmFromSuffix[1]) : null,
         cameras: [],
       };
       continue;

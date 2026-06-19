@@ -1,0 +1,124 @@
+EventId: 14474
+Spots: 19
+Total Images: 26063
+Time:	26.07.2025 13:34:01 to 27.07.2025 12:31:14
+Duration: 22:57:13
+
+(1) - Swim - Start
+	MERO1
+		Images:	191
+		Time:	26.07.2025 13:34:01 until 27.07.2025 11:04:15
+		Duration:	21:30:14
+		Location:	NULL NULL
+
+(2) - Swim - Exit
+	MERO2
+		Images:	1263
+		Time:	26.07.2025 15:12:40 until 26.07.2025 15:35:54
+		Duration:	00:23:14
+		Location:	NULL NULL
+
+	MERO2LS1
+		Images:	1086
+		Time:	26.07.2025 13:58:10 until 26.07.2025 15:36:07
+		Duration:	01:37:57
+		Location:	NULL NULL
+
+(3) - Bike - 0,4 km
+	SBU1
+		Images:	1061
+		Time:	26.07.2025 15:15:21 until 26.07.2025 15:28:43
+		Duration:	00:13:22
+		Location:	NULL NULL
+
+(4) - Bike - 1,5 km
+	GUD1
+		Images:	4288
+		Time:	26.07.2025 15:17:55 until 26.07.2025 16:10:22
+		Duration:	00:52:27
+		Location:	NULL NULL
+
+	GUD1LS1
+		Images:	1267
+		Time:	26.07.2025 15:14:34 until 26.07.2025 16:06:41
+		Duration:	00:52:07
+		Location:	NULL NULL
+
+	GUD1LS2
+		Images:	1278
+		Time:	26.07.2025 15:17:06 until 27.07.2025 11:23:55
+		Duration:	20:06:49
+		Location:	NULL NULL
+
+(5) - Bike - 4,6 km
+	ROH1
+		Images:	4059
+		Time:	26.07.2025 14:27:20 until 26.07.2025 16:28:52
+		Duration:	02:01:32
+		Location:	NULL NULL
+
+	ROH1LS1
+		Images:	1259
+		Time:	26.07.2025 14:06:09 until 26.07.2025 16:20:13
+		Duration:	02:14:04
+		Location:	NULL NULL
+
+	ROH1LS2
+		Images:	1117
+		Time:	26.07.2025 14:10:18 until 26.07.2025 16:10:41
+		Duration:	02:00:23
+		Location:	NULL NULL
+
+(6) - Run - 1,1 km
+	SBU2
+		Images:	1105
+		Time:	26.07.2025 16:10:49 until 26.07.2025 17:18:58
+		Duration:	01:08:09
+		Location:	NULL NULL
+
+	SBU2LS1
+		Images:	617
+		Time:	26.07.2025 15:57:33 until 26.07.2025 17:05:58
+		Duration:	01:08:25
+		Location:	NULL NULL
+
+(7) - Run - 3,9 km
+	GUD2
+		Images:	3627
+		Time:	26.07.2025 16:22:05 until 26.07.2025 17:26:48
+		Duration:	01:04:43
+		Location:	NULL NULL
+
+	GUD2LS1
+		Images:	711
+		Time:	26.07.2025 16:17:16 until 26.07.2025 17:10:09
+		Duration:	00:52:53
+		Location:	NULL NULL
+
+	GUD2LS2
+		Images:	682
+		Time:	26.07.2025 16:20:12 until 26.07.2025 17:10:09
+		Duration:	00:49:57
+		Location:	NULL NULL
+
+(8) - Finish
+	MERO3
+		Images:	1776
+		Time:	26.07.2025 16:04:33 until 26.07.2025 17:33:06
+		Duration:	01:28:33
+		Location:	NULL NULL
+
+	MERO3LS1
+		Images:	655
+		Time:	26.07.2025 15:46:25 until 27.07.2025 12:31:14
+		Duration:	20:44:49
+		Location:	NULL NULL
+
+(9) - Impressions / Pano
+	GUD1DRONE1
+		Images:	17
+		Time:	26.07.2025 14:45:59 until 27.07.2025 10:56:56
+		Duration:	20:10:57
+		Location:	NULL NULL
+
+	PANO1

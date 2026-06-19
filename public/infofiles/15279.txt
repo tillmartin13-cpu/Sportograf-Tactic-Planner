@@ -1,0 +1,135 @@
+EventId: 15279
+Spots: 22
+Total Images: 48284
+Time:	29.03.2025 03:22:19 to 30.03.2025 16:19:05
+Duration: 1.12:56:46
+
+(1) - Impressions / Pano
+	PANO1
+	AKC1
+		Images:	40
+		Time:	30.03.2025 05:53:08 until 30.03.2025 06:50:47
+		Duration:	00:57:39
+		Location:	-26.71639 153.06742
+
+	VN6
+		Images:	118
+		Time:	30.03.2025 14:39:45 until 30.03.2025 14:49:50
+		Duration:	00:10:05
+		Location:	-26.71639 153.06742
+
+	CHRO1
+		Images:	46
+		Time:	30.03.2025 05:48:55 until 30.03.2025 15:10:21
+		Duration:	09:21:26
+		Location:	-26.71639 153.06742
+
+(2) - Obstacle 2
+	AKC2
+		Images:	854
+		Time:	30.03.2025 06:52:17 until 30.03.2025 14:35:38
+		Duration:	07:43:21
+		Location:	-26.71639 153.06742
+
+	VN2
+		Images:	3186
+		Time:	30.03.2025 10:13:19 until 30.03.2025 14:34:33
+		Duration:	04:21:14
+		Location:	-26.71639 153.06742
+
+	CHRO3
+		Images:	5675
+		Time:	30.03.2025 09:30:55 until 30.03.2025 12:33:22
+		Duration:	03:02:27
+		Location:	-26.71639 153.06742
+
+	TOSC1
+		Images:	303
+		Time:	29.03.2025 04:29:27 until 30.03.2025 09:23:35
+		Duration:	1.04:54:08
+		Location:	-26.71639 153.06742
+
+	TOSC4LS1
+		Images:	3411
+		Time:	30.03.2025 06:12:27 until 30.03.2025 15:21:16
+		Duration:	09:08:49
+		Location:	-26.71639 153.06742
+
+(3) - Obstacle 3
+	AKC3
+		Images:	1207
+		Time:	30.03.2025 09:32:21 until 30.03.2025 13:34:53
+		Duration:	04:02:32
+		Location:	-26.71639 153.06742
+
+	AKC4
+		Images:	85
+		Time:	30.03.2025 12:38:42 until 30.03.2025 12:51:27
+		Duration:	00:12:45
+		Location:	-26.71639 153.06742
+
+	VN1
+		Images:	3741
+		Time:	30.03.2025 07:23:12 until 30.03.2025 11:56:58
+		Duration:	04:33:46
+		Location:	-26.71639 153.06742
+
+	VN4LS1
+		Images:	2311
+		Time:	30.03.2025 07:38:20 until 30.03.2025 16:03:02
+		Duration:	08:24:42
+		Location:	-26.71639 153.06742
+
+	CHRO4
+		Images:	5451
+		Time:	30.03.2025 12:34:43 until 30.03.2025 15:00:53
+		Duration:	02:26:10
+		Location:	-26.71639 153.06742
+
+(4) - Obstacle 1
+	VN3
+		Images:	1989
+		Time:	30.03.2025 10:31:09 until 30.03.2025 14:17:45
+		Duration:	03:46:36
+		Location:	-26.71639 153.06742
+
+	VN7
+	CHRO2
+		Images:	5997
+		Time:	30.03.2025 06:35:03 until 30.03.2025 09:29:33
+		Duration:	02:54:30
+		Location:	-26.71639 153.06742
+
+	TOSC3
+		Images:	3606
+		Time:	30.03.2025 10:29:52 until 30.03.2025 15:11:27
+		Duration:	04:41:35
+		Location:	-26.71639 153.06742
+
+(5) - Obstacle 0
+	VN5LS1
+		Images:	4638
+		Time:	30.03.2025 08:32:21 until 30.03.2025 16:19:05
+		Duration:	07:46:44
+		Location:	-26.71639 153.06742
+
+(6) - Finish
+	VN7LS1
+		Images:	826
+		Time:	30.03.2025 06:00:58 until 30.03.2025 14:30:29
+		Duration:	08:29:31
+		Location:	-26.71639 153.06742
+
+	TOSC5LS1
+		Images:	4457
+		Time:	29.03.2025 03:22:19 until 30.03.2025 15:07:47
+		Duration:	1.11:45:28
+		Location:	-26.71639 153.06742
+
+(7) - Obstacle 4
+	TOSC2
+		Images:	343
+		Time:	30.03.2025 09:34:23 until 30.03.2025 10:22:35
+		Duration:	00:48:12
+		Location:	-26.71639 153.06742
+

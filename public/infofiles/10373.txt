@@ -1,0 +1,355 @@
+EventId: 10373
+Spots: 55
+Total Images: 131878
+Time:	15.06.2024 20:00:45 to 17.06.2024 02:31:50
+Duration: 1.06:31:05
+
+(1) - Bike - 119.0 km
+	TPA2
+		Images:	2619
+		Time:	16.06.2024 13:04:35 until 16.06.2024 20:06:02
+		Duration:	07:01:27
+		Location:	-16.58041 145.51214
+
+	TPA2LS1
+		Images:	731
+		Time:	16.06.2024 13:06:37 until 16.06.2024 15:42:37
+		Duration:	02:36:00
+		Location:	-16.58041 145.51214
+
+(2) - Bike - 17.8 km
+	CLH1
+		Images:	4670
+		Time:	16.06.2024 06:40:08 until 16.06.2024 11:35:24
+		Duration:	04:55:16
+		Location:	-16.66497 145.56675
+
+(3) - Bike - 179.5 km
+	NIF4
+		Images:	5486
+		Time:	16.06.2024 12:57:21 until 16.06.2024 17:56:51
+		Duration:	04:59:30
+		Location:	-16.92035 145.77766
+
+	VN3LS2
+		Images:	461
+		Time:	16.06.2024 13:35:48 until 16.06.2024 18:02:38
+		Duration:	04:26:50
+		Location:	-16.92041 145.77801
+
+(4) - Bike - 29.0 km
+	HOO1
+		Images:	1906
+		Time:	16.06.2024 07:08:12 until 16.06.2024 11:05:24
+		Duration:	03:57:12
+		Location:	-16.57493 145.51268
+
+	TPA1
+		Images:	9976
+		Time:	16.06.2024 06:49:26 until 16.06.2024 12:53:51
+		Duration:	06:04:25
+		Location:	-16.58041 145.51214
+
+	TPA1LS1
+		Images:	3645
+		Time:	16.06.2024 07:31:16 until 16.06.2024 12:55:33
+		Duration:	05:24:17
+		Location:	-16.58041 145.51214
+
+(5) - Bike - 33.4 km
+	HOO2
+		Images:	1976
+		Time:	16.06.2024 11:39:54 until 16.06.2024 15:37:50
+		Duration:	03:57:56
+		Location:	-16.57493 145.51268
+
+	HOO3
+		Images:	2838
+		Time:	16.06.2024 06:35:36 until 16.06.2024 15:17:45
+		Duration:	08:42:09
+		Location:	-16.57493 145.51268
+
+(6) - Finish
+	IGM2
+		Images:	5861
+		Time:	16.06.2024 10:25:26 until 16.06.2024 17:33:48
+		Duration:	07:08:22
+		Location:	-16.91987 145.77888
+
+	IGM2LS1
+		Images:	4152
+		Time:	16.06.2024 10:41:28 until 16.06.2024 14:31:30
+		Duration:	03:50:02
+		Location:	-16.91987 145.77888
+
+	IGM2LS2
+		Images:	1762
+		Time:	15.06.2024 20:13:52 until 16.06.2024 14:51:26
+		Duration:	18:37:34
+		Location:	-16.91987 145.77888
+
+	JEK3
+		Images:	4276
+		Time:	16.06.2024 10:35:50 until 16.06.2024 14:50:32
+		Duration:	04:14:42
+		Location:	-16.91987 145.77888
+
+	JEK3LS1
+		Images:	1415
+		Time:	15.06.2024 20:34:15 until 16.06.2024 14:51:51
+		Duration:	18:17:36
+		Location:	-16.91987 145.77888
+
+	JEK3LS2
+		Images:	1365
+		Time:	15.06.2024 20:24:25 until 16.06.2024 17:22:24
+		Duration:	20:57:59
+		Location:	-16.91987 145.77888
+
+	JEK3LS3
+		Images:	785
+		Time:	16.06.2024 17:22:30 until 16.06.2024 23:11:41
+		Duration:	05:49:11
+		Location:	-16.91987 145.77888
+
+	TOB1
+		Images:	268
+		Time:	16.06.2024 14:47:38 until 16.06.2024 15:24:23
+		Duration:	00:36:45
+		Location:	-16.91987 145.77888
+
+	TOB2
+		Images:	999
+		Time:	16.06.2024 15:24:42 until 16.06.2024 18:06:27
+		Duration:	02:41:45
+		Location:	-16.91987 145.77888
+
+	TOB3
+		Images:	5302
+		Time:	16.06.2024 18:06:28 until 17.06.2024 00:23:50
+		Duration:	06:17:22
+		Location:	-16.91987 145.77888
+
+	TOB3LS1
+		Images:	5028
+		Time:	16.06.2024 17:11:02 until 17.06.2024 01:12:20
+		Duration:	08:01:18
+		Location:	-16.91987 145.77888
+
+	TOSC3
+		Images:	510
+		Time:	16.06.2024 19:20:46 until 17.06.2024 00:23:44
+		Duration:	05:02:58
+		Location:	-16.91987 145.77888
+
+	VN4
+		Images:	917
+		Time:	16.06.2024 17:06:33 until 16.06.2024 18:06:22
+		Duration:	00:59:49
+		Location:	-16.91987 145.77888
+
+	VN5
+		Images:	752
+		Time:	16.06.2024 18:08:58 until 16.06.2024 19:41:51
+		Duration:	01:32:53
+		Location:	-16.91987 145.77888
+
+(7) - Run - 0.0 km
+	HOO4
+		Images:	519
+		Time:	16.06.2024 19:51:09 until 16.06.2024 23:15:32
+		Duration:	03:24:23
+		Location:	-16.92062 145.78080
+
+(8) - Run - 0.8 km
+	TOSC1
+		Images:	3478
+		Time:	15.06.2024 20:00:45 until 16.06.2024 15:44:13
+		Duration:	19:43:28
+		Location:	-16.92354 145.78073
+
+	TOSC1LS1
+		Images:	7689
+		Time:	15.06.2024 20:03:54 until 16.06.2024 13:31:14
+		Duration:	17:27:20
+		Location:	-16.92354 145.78073
+
+	TOSC2
+		Images:	3770
+		Time:	16.06.2024 13:31:20 until 16.06.2024 17:47:23
+		Duration:	04:16:03
+		Location:	-16.92354 145.78073
+
+	TOSC2LS1
+		Images:	3425
+		Time:	16.06.2024 13:31:20 until 16.06.2024 16:42:41
+		Duration:	03:11:21
+		Location:	-16.92354 145.78073
+
+(9) - Run - 1.4 km
+	JEK4
+		Images:	1212
+		Time:	16.06.2024 18:35:00 until 16.06.2024 22:24:21
+		Duration:	03:49:21
+		Location:	-16.92329 145.78065
+
+	JEK4LS1
+		Images:	831
+		Time:	16.06.2024 17:54:02 until 16.06.2024 21:05:05
+		Duration:	03:11:03
+		Location:	-16.92329 145.78065
+
+(10) - Run - 10.3 km
+	NIF3
+		Images:	103
+		Time:	16.06.2024 13:28:50 until 16.06.2024 13:32:36
+		Duration:	00:03:46
+		Location:	-16.92035 145.77766
+
+(11) - Run - 10.7 km
+	IGM3
+		Images:	1512
+		Time:	16.06.2024 18:04:49 until 16.06.2024 23:18:08
+		Duration:	05:13:19
+		Location:	-16.91986 145.77894
+
+	IGM3LS1
+		Images:	1080
+		Time:	16.06.2024 18:02:39 until 16.06.2024 22:32:07
+		Duration:	04:29:28
+		Location:	-16.91986 145.77894
+
+(12) - Run - 2.7 km
+	VIBA3
+		Images:	4583
+		Time:	16.06.2024 10:03:54 until 16.06.2024 15:06:33
+		Duration:	05:02:39
+		Location:	-16.91709 145.78118
+
+	VIBA4
+		Images:	4337
+		Time:	16.06.2024 15:10:23 until 16.06.2024 18:11:25
+		Duration:	03:01:02
+		Location:	-16.91709 145.78118
+
+	VIBA5
+		Images:	226
+		Time:	16.06.2024 18:14:18 until 16.06.2024 19:42:13
+		Duration:	01:27:55
+		Location:	-16.91709 145.78118
+
+	VN3
+		Images:	1799
+		Time:	16.06.2024 14:00:32 until 16.06.2024 15:10:12
+		Duration:	01:09:40
+		Location:	-16.91709 145.78118
+
+(13) - Run - 3.2 km
+	VN3LS1
+		Images:	1464
+		Time:	16.06.2024 13:15:31 until 16.06.2024 18:00:17
+		Duration:	04:44:46
+		Location:	-16.92041 145.77801
+
+(14) - Run - 3.9 km
+	VIBA1
+		Images:	731
+		Time:	16.06.2024 05:46:25 until 16.06.2024 07:09:14
+		Duration:	01:22:49
+		Location:	-16.91551 145.77364
+
+	VIBA2
+		Images:	896
+		Time:	16.06.2024 07:11:18 until 16.06.2024 08:10:56
+		Duration:	00:59:38
+		Location:	-16.91551 145.77364
+
+(15) - Run - 42.0 km
+	TPA3
+		Images:	1310
+		Time:	16.06.2024 20:01:46 until 17.06.2024 00:23:23
+		Duration:	04:21:37
+		Location:	-16.92039 145.77821
+
+	TPA3LS1
+		Images:	583
+		Time:	16.06.2024 20:20:22 until 17.06.2024 00:20:01
+		Duration:	03:59:39
+		Location:	-16.92039 145.77821
+
+(16) - Run - Impressions / Pano
+	IGM1
+		Images:	51
+		Time:	15.06.2024 20:13:05 until 16.06.2024 09:03:05
+		Duration:	12:50:00
+		Location:	-16.91987 145.77888
+
+(17) - Swim - Impressions / Pano
+	PANO1
+		Images:	4
+		Time:	16.06.2024 06:19:18 until 16.06.2024 16:26:21
+		Duration:	10:07:03
+		Location:	-16.91987 145.77888
+
+	TOSC1DRONE1
+		Images:	6
+		Time:	17.06.2024 02:31:45 until 17.06.2024 02:31:50
+		Duration:	00:00:05
+		Location:	-16.74049 145.67140
+
+(18) - Swim - Start
+	JEK1
+		Images:	1708
+		Time:	15.06.2024 20:16:44 until 16.06.2024 07:02:19
+		Duration:	10:45:35
+		Location:	-16.74647 145.67106
+
+	JEK2
+		Images:	2035
+		Time:	16.06.2024 07:04:46 until 16.06.2024 08:09:33
+		Duration:	01:04:47
+		Location:	-16.74647 145.67106
+
+(19) - Swim - Transition zone
+	NIF1
+		Images:	5011
+		Time:	16.06.2024 05:54:29 until 16.06.2024 07:59:54
+		Duration:	02:05:25
+		Location:	-16.74045 145.67157
+
+	NIF2
+		Images:	4119
+		Time:	16.06.2024 08:26:24 until 16.06.2024 10:18:52
+		Duration:	01:52:28
+		Location:	-16.74045 145.67157
+
+	VN1
+		Images:	4837
+		Time:	16.06.2024 06:39:37 until 16.06.2024 08:13:18
+		Duration:	01:33:41
+		Location:	-16.74049 145.67140
+
+	VN1LS1
+		Images:	1273
+		Time:	16.06.2024 06:11:16 until 16.06.2024 08:14:24
+		Duration:	02:03:08
+		Location:	-16.74049 145.67140
+
+	VN2
+		Images:	3678
+		Time:	16.06.2024 08:28:57 until 16.06.2024 10:32:21
+		Duration:	02:03:24
+		Location:	-16.74049 145.67140
+
+	VN2LS1
+		Images:	982
+		Time:	16.06.2024 08:15:36 until 16.06.2024 10:42:06
+		Duration:	02:26:30
+		Location:	-16.74049 145.67140
+
+	VN2LS2
+		Images:	926
+		Time:	16.06.2024 08:10:12 until 16.06.2024 13:25:09
+		Duration:	05:14:57
+		Location:	-16.74049 145.67140
+

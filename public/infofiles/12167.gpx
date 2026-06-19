@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "50.80967" lon = "4.37049"><name>DRI1LS2</name><desc>0,0 km
+Images:5488
+First:26.05.2024 09:22:27
+Last:26.05.2024 13:21:03
+Duration:03:58:36
+</desc></wpt>
+<wpt lat = "50.80982" lon = "4.37099"><name>SJA1LS1</name><desc>0,0 km
+Images:6148
+First:26.05.2024 09:23:22
+Last:26.05.2024 12:23:46
+Duration:03:00:24
+</desc></wpt>
+<wpt lat = "50.83708" lon = "4.35365"><name>TID1LS1</name><desc>0,0 km
+Images:9842
+First:26.05.2024 08:35:02
+Last:26.05.2024 12:33:38
+Duration:03:58:36
+</desc></wpt>
+<wpt lat = "50.84183" lon = "4.38613"><name>APL1</name><desc>0,1 km
+Images:22696
+First:26.05.2024 10:14:07
+Last:26.05.2024 12:13:48
+Duration:01:59:41
+</desc></wpt>
+<wpt lat = "50.84191" lon = "4.38608"><name>DAV1</name><desc>0,1 km
+Images:5459
+First:26.05.2024 07:31:31
+Last:26.05.2024 11:49:18
+Duration:04:17:47
+</desc></wpt>
+<wpt lat = "50.84191" lon = "4.38608"><name>DAV1LS1</name><desc>0,1 km
+Images:3171
+First:26.05.2024 08:24:13
+Last:26.05.2024 11:50:02
+Duration:03:25:49
+</desc></wpt>
+<wpt lat = "50.84194" lon = "4.38609"><name>GVDL1</name><desc>0,1 km
+Images:1874
+First:25.05.2024 22:56:00
+Last:26.05.2024 11:50:13
+Duration:12:54:13
+</desc></wpt>
+<wpt lat = "50.84188" lon = "4.38596"><name>JKE1</name><desc>0,1 km
+Images:1908
+First:26.05.2024 07:32:54
+Last:26.05.2024 10:19:09
+Duration:02:46:15
+</desc></wpt>
+<wpt lat = "50.84194" lon = "4.38609"><name>PATL1</name><desc>0,1 km
+Images:7095
+First:25.05.2024 11:16:27
+Last:26.05.2024 11:51:10
+Duration:1.00:34:43
+</desc></wpt>
+<wpt lat = "50.83972" lon = "4.38343"><name>FVE1</name><desc>0,2 km
+Images:2866
+First:26.05.2024 09:14:30
+Last:26.05.2024 11:22:16
+Duration:02:07:46
+</desc></wpt>
+<wpt lat = "50.83978" lon = "4.38342"><name>LMC1</name><desc>0,2 km
+Images:15488
+First:26.05.2024 08:54:27
+Last:26.05.2024 11:37:59
+Duration:02:43:32
+</desc></wpt>
+<wpt lat = "50.84079" lon = "4.38517"><name>PBO1</name><desc>0,2 km
+Images:7992
+First:25.05.2024 21:52:21
+Last:26.05.2024 12:02:54
+Duration:14:10:33
+</desc></wpt>
+<wpt lat = "50.84237" lon = "4.38344"><name>ACCA1</name><desc>0,3 km
+Images:4790
+First:26.05.2024 10:07:07
+Last:26.05.2024 11:43:35
+Duration:01:36:28
+</desc></wpt>
+<wpt lat = "50.84237" lon = "4.38344"><name>FEF1</name><desc>0,3 km
+Images:459
+First:26.05.2024 10:23:45
+Last:26.05.2024 10:51:14
+Duration:00:27:29
+</desc></wpt>
+<wpt lat = "50.83046" lon = "4.43369"><name>DERS2</name><desc>16,9 km
+Images:3407
+First:26.05.2024 12:47:06
+Last:26.05.2024 15:31:48
+Duration:02:44:42
+</desc></wpt>
+<wpt lat = "50.83028" lon = "4.43337"><name>DTU2</name><desc>16,9 km
+Images:1736
+First:26.05.2024 12:48:27
+Last:26.05.2024 15:31:10
+Duration:02:42:43
+</desc></wpt>
+<wpt lat = "50.83028" lon = "4.43337"><name>KO2</name><desc>16,9 km
+Images:1672
+First:26.05.2024 12:28:37
+Last:26.05.2024 15:10:17
+Duration:02:41:40
+</desc></wpt>
+<wpt lat = "50.83444" lon = "4.42126"><name>LMC2</name><desc>17,5 km
+Images:10729
+First:26.05.2024 12:48:46
+Last:26.05.2024 15:45:25
+Duration:02:56:39
+</desc></wpt>
+<wpt lat = "50.83474" lon = "4.42758"><name>MAW1</name><desc>17,5 km
+Images:30847
+First:26.05.2024 09:11:42
+Last:26.05.2024 15:45:22
+Duration:06:33:40
+</desc></wpt>
+<wpt lat = "50.83474" lon = "4.42758"><name>MAW1LS1</name><desc>17,5 km
+Images:5965
+First:26.05.2024 07:34:52
+Last:26.05.2024 15:44:35
+Duration:08:09:43
+</desc></wpt>
+<wpt lat = "50.83474" lon = "4.42758"><name>MAW1LS2</name><desc>17,5 km
+Images:6725
+First:26.05.2024 09:09:30
+Last:26.05.2024 15:43:06
+Duration:06:33:36
+</desc></wpt>
+<wpt lat = "50.83475" lon = "4.42758"><name>MOAB1</name><desc>17,5 km
+Images:6207
+First:26.05.2024 09:15:58
+Last:26.05.2024 15:41:13
+Duration:06:25:15
+</desc></wpt>
+<wpt lat = "50.83439" lon = "4.42187"><name>PBO2</name><desc>17,5 km
+Images:5796
+First:26.05.2024 12:47:40
+Last:26.05.2024 15:43:19
+Duration:02:55:39
+</desc></wpt>
+<wpt lat = "50.83456" lon = "4.42855"><name>TID2</name><desc>17,5 km
+Images:4697
+First:26.05.2024 13:37:10
+Last:26.05.2024 15:47:12
+Duration:02:10:02
+</desc></wpt>
+<wpt lat = "50.83456" lon = "4.42855"><name>TID2LS1</name><desc>17,5 km
+Images:7828
+First:26.05.2024 13:34:17
+Last:26.05.2024 15:45:13
+Duration:02:10:56
+</desc></wpt>
+<wpt lat = "50.83452" lon = "4.42212"><name>SBG1</name><desc>17,8 km
+Images:14670
+First:26.05.2024 08:47:30
+Last:26.05.2024 15:50:23
+Duration:07:02:53
+</desc></wpt>
+<wpt lat = "50.83452" lon = "4.42212"><name>ST1</name><desc>17,8 km
+Images:27609
+First:26.05.2024 07:21:23
+Last:26.05.2024 15:35:59
+Duration:08:14:36
+</desc></wpt>
+<wpt lat = "50.83452" lon = "4.42212"><name>ST1LS1</name><desc>17,8 km
+Images:15512
+First:26.05.2024 07:20:30
+Last:26.05.2024 15:23:49
+Duration:08:03:19
+</desc></wpt>
+<wpt lat = "50.83452" lon = "4.42212"><name>ST1LS2</name><desc>17,8 km
+Images:4819
+First:25.05.2024 13:24:15
+Last:26.05.2024 14:56:05
+Duration:1.01:31:50
+</desc></wpt>
+<wpt lat = "50.83452" lon = "4.42212"><name>ST1LS3</name><desc>17,8 km
+Images:14915
+First:25.05.2024 10:57:26
+Last:26.05.2024 15:33:24
+Duration:1.04:35:58
+</desc></wpt>
+<wpt lat = "50.83713" lon = "4.40897"><name>PATL3</name><desc>19,0 km
+Images:10729
+First:26.05.2024 12:48:46
+Last:26.05.2024 15:45:25
+Duration:02:56:39
+</desc></wpt>
+<wpt lat = "50.83760" lon = "4.40643"><name>PATL4</name><desc>19,0 km
+Images:10030
+First:26.05.2024 13:28:23
+Last:26.05.2024 16:00:38
+Duration:02:32:15
+</desc></wpt>
+<wpt lat = "50.83713" lon = "4.40897"><name>ROC2</name><desc>19,0 km
+Images:18003
+First:25.05.2024 11:42:10
+Last:26.05.2024 16:02:30
+Duration:1.04:20:20
+</desc></wpt>
+<wpt lat = "50.84162" lon = "4.38657"><name>MOKU2</name><desc>19,3 km
+Images:5180
+First:26.05.2024 12:33:31
+Last:26.05.2024 16:04:00
+Duration:03:30:29
+</desc></wpt>
+<wpt lat = "50.83952" lon = "4.39783"><name>ACCA2</name><desc>19,6 km
+Images:7656
+First:26.05.2024 12:15:41
+Last:26.05.2024 15:47:14
+Duration:03:31:33
+</desc></wpt>
+<wpt lat = "50.83952" lon = "4.39783"><name>GVDL2</name><desc>19,6 km
+Images:2415
+First:25.05.2024 11:10:52
+Last:26.05.2024 15:56:02
+Duration:1.04:45:10
+</desc></wpt>
+<wpt lat = "50.84316" lon = "4.36095"><name>DTU1</name><desc>2,3 km
+Images:1480
+First:26.05.2024 08:52:13
+Last:26.05.2024 12:14:48
+Duration:03:22:35
+</desc></wpt>
+<wpt lat = "50.84310" lon = "4.36167"><name>GST1</name><desc>2,3 km
+Images:7011
+First:26.05.2024 08:34:57
+Last:26.05.2024 12:15:34
+Duration:03:40:37
+</desc></wpt>
+<wpt lat = "50.84172" lon = "4.35858"><name>DERS1</name><desc>2,6 km
+Images:6460
+First:25.05.2024 19:57:34
+Last:26.05.2024 12:07:41
+Duration:16:10:07
+</desc></wpt>
+<wpt lat = "50.84188" lon = "4.35905"><name>KO1</name><desc>2,6 km
+Images:3025
+First:25.05.2024 21:54:02
+Last:26.05.2024 11:59:25
+Duration:14:05:23
+</desc></wpt>
+<wpt lat = "50.83706" lon = "4.35354"><name>OP1</name><desc>3,3 km
+Images:5683
+First:26.05.2024 09:43:56
+Last:26.05.2024 11:56:14
+Duration:02:12:18
+</desc></wpt>
+<wpt lat = "50.83706" lon = "4.35354"><name>OP1LS1</name><desc>3,3 km
+Images:5238
+First:26.05.2024 09:43:56
+Last:26.05.2024 11:53:59
+Duration:02:10:03
+</desc></wpt>
+<wpt lat = "50.83708" lon = "4.35365"><name>TID1</name><desc>3,3 km
+Images:13360
+First:26.05.2024 08:05:15
+Last:26.05.2024 12:31:55
+Duration:04:26:40
+</desc></wpt>
+<wpt lat = "50.80982" lon = "4.37099"><name>DRI1</name><desc>7,0 km
+Images:38780
+First:26.05.2024 09:45:19
+Last:26.05.2024 12:21:38
+Duration:02:36:19
+</desc></wpt>
+<wpt lat = "50.80967" lon = "4.37049"><name>DRI1LS1</name><desc>7,0 km
+Images:5071
+First:26.05.2024 09:30:43
+Last:26.05.2024 13:06:11
+Duration:03:35:28
+</desc></wpt>
+<wpt lat = "50.80967" lon = "4.37049"><name>DRI4</name><desc>7,0 km
+Images:2917
+First:26.05.2024 12:23:18
+Last:26.05.2024 13:19:57
+Duration:00:56:39
+</desc></wpt>
+<wpt lat = "50.80982" lon = "4.37099"><name>SJA1</name><desc>7,0 km
+Images:23611
+First:26.05.2024 09:50:27
+Last:26.05.2024 13:20:10
+Duration:03:29:43
+</desc></wpt>
+<wpt lat = "50.84033" lon = "4.39399"><name>FEF2</name><desc>Ceremony
+Images:2413
+First:26.05.2024 10:57:31
+Last:26.05.2024 15:36:50
+Duration:04:39:19
+</desc></wpt>
+<wpt lat = "50.84079" lon = "4.39373"><name>FVE2</name><desc>Ceremony
+Images:2659
+First:26.05.2024 11:52:13
+Last:26.05.2024 15:36:45
+Duration:03:44:32
+</desc></wpt>
+<wpt lat = "50.84079" lon = "4.39373"><name>GST2</name><desc>Ceremony
+Images:419
+First:26.05.2024 08:23:44
+Last:26.05.2024 15:03:40
+Duration:06:39:56
+</desc></wpt>
+<wpt lat = "50.84033" lon = "4.39399"><name>OP2</name><desc>Ceremony
+Images:3802
+First:26.05.2024 13:12:56
+Last:26.05.2024 15:03:21
+Duration:01:50:25
+</desc></wpt>
+<wpt lat = "50.83938" lon = "4.39735"><name>DAV2</name><desc>Finish
+Images:8910
+First:26.05.2024 12:48:28
+Last:26.05.2024 15:52:53
+Duration:03:04:25
+</desc></wpt>
+<wpt lat = "50.83949" lon = "4.39733"><name>JKE2</name><desc>Finish
+Images:28059
+First:25.05.2024 18:08:35
+Last:26.05.2024 15:53:39
+Duration:21:45:04
+</desc></wpt>
+<wpt lat = "50.83949" lon = "4.39733"><name>MIBU2</name><desc>Finish
+Images:13356
+First:26.05.2024 10:47:53
+Last:26.05.2024 15:51:09
+Duration:05:03:16
+</desc></wpt>
+<wpt lat = "50.83949" lon = "4.3973"><name>TOBB2LS1</name><desc>Finish
+Images:14210
+First:25.05.2024 10:31:22
+Last:26.05.2024 16:07:59
+Duration:1.05:36:37
+</desc></wpt>
+<wpt lat = "50.83949" lon = "4.39733"><name>TOBB2LS2</name><desc>Finish
+Images:13075
+First:25.05.2024 10:28:30
+Last:26.05.2024 15:59:05
+Duration:1.05:30:35
+</desc></wpt>
+<wpt lat = "50.84194" lon = "4.38665"><name>MIBU1</name><desc>Start
+Images:2822
+First:26.05.2024 07:52:33
+Last:26.05.2024 10:37:20
+Duration:02:44:47
+</desc></wpt>
+<wpt lat = "50.84167" lon = "4.38714"><name>MOKU1</name><desc>Start
+Images:2964
+First:25.05.2024 21:43:35
+Last:26.05.2024 11:50:51
+Duration:14:07:16
+</desc></wpt>
+<wpt lat = "50.84192" lon = "4.38675"><name>ROC1</name><desc>Start
+Images:6727
+First:26.05.2024 09:25:44
+Last:26.05.2024 11:49:09
+Duration:02:23:25
+</desc></wpt>
+<wpt lat = "50.84194" lon = "4.3866"><name>TOBB1</name><desc>Start
+Images:4131
+First:25.05.2024 10:34:52
+Last:26.05.2024 15:00:44
+Duration:1.04:25:52
+</desc></wpt>
+</gpx>

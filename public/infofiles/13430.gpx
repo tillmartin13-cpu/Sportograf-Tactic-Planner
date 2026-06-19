@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "52.51953" lon = "13.29545"><name>EBO1</name><desc>Start
+Images:5686
+First:12.10.2025 10:46:53
+Last:12.10.2025 14:11:27
+Duration:03:24:34
+</desc></wpt>
+<wpt lat = "52.51664" lon = "13.30880"><name>AEPB1</name><desc>1.0 km
+Images:1483
+First:12.10.2025 12:03:32
+Last:12.10.2025 12:15:43
+Duration:00:12:11
+</desc></wpt>
+<wpt lat = "52.51328" lon = "13.33207"><name>CRIC1</name><desc>2.6 km
+Images:2751
+First:12.10.2025 11:24:51
+Last:12.10.2025 12:29:01
+Duration:01:04:10
+</desc></wpt>
+<wpt lat = "52.51328" lon = "13.33207"><name>CRIC1LS2</name><desc>2.6 km
+Images:610
+First:12.10.2025 12:09:26
+Last:12.10.2025 12:29:48
+Duration:00:20:22
+</desc></wpt>
+<wpt lat = "52.51328" lon = "13.33207"><name>CRIC1LS1</name><desc>2.6 km
+Images:612
+First:12.10.2025 12:09:28
+Last:12.10.2025 12:29:50
+Duration:00:20:22
+</desc></wpt>
+<wpt lat = "52.51308" lon = "13.35005"><name>MOIK1</name><desc>3.9 km
+Images:1507
+First:12.10.2025 10:58:18
+Last:12.10.2025 12:41:10
+Duration:01:42:52
+</desc></wpt>
+<wpt lat = "52.50566" lon = "13.33982"><name>MPU1</name><desc>5.7 km
+Images:3235
+First:12.10.2025 11:54:07
+Last:12.10.2025 13:39:23
+Duration:01:45:16
+</desc></wpt>
+<wpt lat = "52.50563" lon = "13.33989"><name>JOPE1</name><desc>5.7 km
+Images:4783
+First:12.10.2025 12:01:28
+Last:12.10.2025 13:32:05
+Duration:01:30:37
+</desc></wpt>
+<wpt lat = "52.50567" lon = "13.33420"><name>BOC1</name><desc>6.2 km
+Images:2597
+First:12.10.2025 11:01:55
+Last:12.10.2025 13:33:54
+Duration:02:31:59
+</desc></wpt>
+<wpt lat = "52.50702" lon = "13.29895"><name>SZI1</name><desc>8.6 km
+Images:9890
+First:12.10.2025 11:05:25
+Last:12.10.2025 14:23:45
+Duration:03:18:20
+</desc></wpt>
+<wpt lat = "52.51600" lon = "13.29681"><name>AEPB2</name><desc>9.4 km
+Images:6892
+First:12.10.2025 12:30:33
+Last:12.10.2025 14:04:42
+Duration:01:34:09
+</desc></wpt>
+<wpt lat = "52.51953" lon = "13.29545"><name>CRIC2</name><desc>Finish
+Images:649
+First:12.10.2025 13:18:23
+Last:12.10.2025 14:10:31
+Duration:00:52:08
+</desc></wpt>
+</gpx>

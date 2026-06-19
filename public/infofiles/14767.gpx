@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "50.19125" lon = "4.37934"><name>BA1</name><desc>Swim - Start
+Images:1654
+First:21.09.2025 14:11:06
+Last:21.09.2025 16:01:14
+Duration:01:50:08
+</desc></wpt>
+<wpt lat = "50.19125" lon = "4.37934"><name>SDT1DRONE1</name><desc>Swim - Start
+Images:12
+First:20.09.2025 13:56:57
+Last:21.09.2025 14:33:17
+Duration:1.00:36:20
+</desc></wpt>
+<wpt lat = "50.19125" lon = "4.37934"><name>SDT1</name><desc>Swim - Transition zone
+Images:939
+First:21.09.2025 14:37:39
+Last:21.09.2025 16:24:42
+Duration:01:47:03
+</desc></wpt>
+<wpt lat = "50.19125" lon = "4.37934"><name>SDT1LS2</name><desc>Swim - Transition zone
+Images:677
+First:21.09.2025 14:24:40
+Last:21.09.2025 15:54:33
+Duration:01:29:53
+</desc></wpt>
+<wpt lat = "50.19125" lon = "4.37934"><name>SDT1LS1</name><desc>Swim - Transition zone
+Images:753
+First:21.09.2025 14:24:38
+Last:21.09.2025 15:54:31
+Duration:01:29:53
+</desc></wpt>
+<wpt lat = "50.20791" lon = "4.40387"><name>ROB1</name><desc>Bike - 6.2 km after Start
+Images:8810
+First:20.09.2025 13:08:13
+Last:21.09.2025 16:58:49
+Duration:1.03:50:36
+</desc></wpt>
+<wpt lat = "50.20791" lon = "4.40387"><name>ROB1LS2</name><desc>Bike - 6.2 km after Start
+Images:1508
+First:21.09.2025 14:08:30
+Last:21.09.2025 17:22:32
+Duration:03:14:02
+</desc></wpt>
+<wpt lat = "50.20791" lon = "4.40387"><name>ROB1LS1</name><desc>Bike - 6.2 km after Start
+Images:1698
+First:21.09.2025 14:20:21
+Last:21.09.2025 17:16:45
+Duration:02:56:24
+</desc></wpt>
+<wpt lat = "50.21385" lon = "4.40407"><name>SBRO2</name><desc>Bike - 5.3 km after Start
+Images:3166
+First:20.09.2025 15:06:48
+Last:21.09.2025 17:21:34
+Duration:1.02:14:46
+</desc></wpt>
+<wpt lat = "50.19099" lon = "4.36285"><name>MSAI1</name><desc>Bike - 20.8 km after Start
+Images:1761
+First:20.09.2025 13:05:39
+Last:21.09.2025 16:38:48
+Duration:1.03:33:09
+</desc></wpt>
+<wpt lat = "50.18892" lon = "4.37707"><name>BA2</name><desc>Run - 0.7 km after Start
+Images:1357
+First:21.09.2025 16:15:36
+Last:21.09.2025 19:09:34
+Duration:02:53:58
+</desc></wpt>
+<wpt lat = "50.18911" lon = "4.36567"><name>MSAI2</name><desc>Run - 1.9 km after Start
+Images:3882
+First:21.09.2025 16:53:32
+Last:21.09.2025 19:20:48
+Duration:02:27:16
+</desc></wpt>
+<wpt lat = "50.19136" lon = "4.37869"><name>SDT2</name><desc>Finish
+Images:1017
+First:21.09.2025 16:24:44
+Last:21.09.2025 19:50:51
+Duration:03:26:07
+</desc></wpt>
+<wpt lat = "50.19136" lon = "4.37869"><name>SDT2LS2</name><desc>Finish
+Images:1164
+First:21.09.2025 16:05:37
+Last:21.09.2025 19:52:00
+Duration:03:46:23
+</desc></wpt>
+<wpt lat = "50.19136" lon = "4.37869"><name>SDT2LS1</name><desc>Finish
+Images:1157
+First:21.09.2025 16:05:36
+Last:21.09.2025 19:49:08
+Duration:03:43:32
+</desc></wpt>
+</gpx>

@@ -1,0 +1,185 @@
+EventId: 13314
+Spots: 27
+Total Images: 79844
+Time:	30.09.2023 08:57:23 to 30.09.2024 04:01:56
+Duration: 365.19:04:33
+
+(1) - 0.0 km
+	MSKA1
+		Images:	2232
+		Time:	29.09.2024 13:05:52 until 29.09.2024 14:58:19
+		Duration:	01:52:27
+		Location:	NULL NULL
+
+	MSKA2
+		Images:	1428
+		Time:	29.09.2024 10:03:35 until 29.09.2024 11:38:29
+		Duration:	01:34:54
+		Location:	NULL NULL
+
+	MSKA3
+		Images:	1532
+		Time:	29.09.2024 09:19:29 until 29.09.2024 15:34:40
+		Duration:	06:15:11
+		Location:	NULL NULL
+
+	MSKA4
+		Images:	1139
+		Time:	29.09.2024 06:54:49 until 29.09.2024 08:54:56
+		Duration:	02:00:07
+		Location:	NULL NULL
+
+	MSKA5
+		Images:	1959
+		Time:	29.09.2024 12:30:33 until 29.09.2024 18:26:41
+		Duration:	05:56:08
+		Location:	NULL NULL
+
+	MSKA6
+		Images:	7470
+		Time:	29.09.2024 15:29:50 until 29.09.2024 21:48:09
+		Duration:	06:18:19
+		Location:	NULL NULL
+
+(2) - 0.0 km 860498 Start Toby
+	TOBY3
+		Images:	1032
+		Time:	29.09.2024 11:16:06 until 29.09.2024 12:38:21
+		Duration:	01:22:15
+		Location:	NULL NULL
+
+(3) - 0.0 km 860499 MSC 1 Eric Alcantara
+	ERIC1
+		Images:	2265
+		Time:	29.09.2024 06:17:06 until 29.09.2024 07:24:33
+		Duration:	01:07:27
+		Location:	NULL NULL
+
+(4) - 0.0 km 860500 MSC 1 Charlotte Foerschler
+	CHARL1
+		Images:	121
+		Time:	29.09.2024 15:22:58 until 29.09.2024 15:48:54
+		Duration:	00:25:56
+		Location:	NULL NULL
+
+(5) - 0.0 km 860501 MSC 2 Abby Oh
+	ABBYO1
+		Images:	3328
+		Time:	29.09.2024 06:58:40 until 29.09.2024 08:39:02
+		Duration:	01:40:22
+		Location:	NULL NULL
+
+(6) - 0.0 km 860503 PreFIN Eric Alcantara
+	ERIC3
+		Images:	5247
+		Time:	29.09.2024 08:35:23 until 29.09.2024 17:08:45
+		Duration:	08:33:22
+		Location:	NULL NULL
+
+(7) - 0.0 km 860504 PreFIN Abby Oh
+	ABBYO2
+		Images:	8462
+		Time:	30.09.2023 08:57:23 until 30.09.2023 15:53:07
+		Duration:	06:55:44
+		Location:	NULL NULL
+
+(8) - 0.0 km 860505 FIN Toby
+	TOBY2
+		Images:	5658
+		Time:	29.09.2024 13:40:19 until 29.09.2024 23:22:53
+		Duration:	09:42:34
+		Location:	NULL NULL
+
+(9) - 0.0 km 860624 MSC 3 Zachary Jones Outbound
+	ZACH1
+		Images:	3826
+		Time:	29.09.2024 06:35:00 until 29.09.2024 08:32:17
+		Duration:	01:57:17
+		Location:	NULL NULL
+
+(10) - 0.0 km 860624 MSC 3 Zachary Jones return
+	ZACH2
+		Images:	3346
+		Time:	29.09.2024 09:03:11 until 29.09.2024 15:57:38
+		Duration:	06:54:27
+		Location:	NULL NULL
+
+(11) - 0.0 km 860625 MSC 3 Cable Hoover Outbound
+	CABLE1
+		Images:	2771
+		Time:	29.09.2024 10:02:34 until 29.09.2024 11:15:39
+		Duration:	01:13:05
+		Location:	NULL NULL
+
+(12) - 0.0 km 860625 MSC 3 Cable Hoover return
+	CABLE2
+		Images:	4746
+		Time:	29.09.2024 11:17:49 until 29.09.2024 19:20:53
+		Duration:	08:03:04
+		Location:	NULL NULL
+
+(13) - 0.0 km 860632 MSC 6 Elliot Miles Outbound
+	EMILE1
+		Images:	486
+		Time:	29.09.2024 07:03:31 until 29.09.2024 09:05:31
+		Duration:	02:02:00
+		Location:	NULL NULL
+
+(14) - 0.0 km 860632 MSC 6 Elliot Miles return
+	EMILE2
+		Images:	4104
+		Time:	29.09.2024 09:07:33 until 29.09.2024 12:58:21
+		Duration:	03:50:48
+		Location:	NULL NULL
+
+(15) - 0.0 km 862172 MSC 7 Johnny Wilson
+	JOHNW1
+		Images:	1771
+		Time:	29.09.2024 07:38:12 until 29.09.2024 12:28:42
+		Duration:	04:50:30
+		Location:	NULL NULL
+
+(16) - 0.0 km 862173 FIN Trigger
+	AUTO2
+		Images:	8809
+		Time:	29.09.2024 16:26:08 until 30.09.2024 04:01:56
+		Duration:	11:35:48
+		Location:	NULL NULL
+
+(17) - 0.0 km 862174 OFP Cheynne Sing
+	CSING1
+		Images:	563
+		Time:	29.09.2024 07:57:52 until 29.09.2024 16:15:22
+		Duration:	08:17:30
+		Location:	NULL NULL
+
+(18) - 0.0 km 862186 MSC 8 Charlotte Foerschler
+	CHARL2
+		Images:	4847
+		Time:	29.09.2024 06:17:39 until 29.09.2024 15:21:19
+		Duration:	09:03:40
+		Location:	NULL NULL
+
+(19) - 0.0 km Family Ride Eric Alcantara
+	ERIC2
+		Images:	279
+		Time:	29.09.2024 07:39:37 until 29.09.2024 08:27:37
+		Duration:	00:48:00
+		Location:	NULL NULL
+
+(20) - 0.0 km MSC 3 Trigger
+	AUTO1
+		Images:	2251
+		Time:	19.01.2024 16:45:16 until 20.01.2024 15:10:17
+		Duration:	22:25:01
+		Location:	NULL NULL
+
+(21) - 0.0 km VIP Receptioin
+	TOBY1
+		Images:	172
+		Time:	27.09.2024 23:04:06 until 28.09.2024 00:28:25
+		Duration:	01:24:19
+		Location:	NULL NULL
+
+(22) - Impressions / Pano
+	PANO1

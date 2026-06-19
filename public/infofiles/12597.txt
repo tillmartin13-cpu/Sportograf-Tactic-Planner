@@ -1,0 +1,323 @@
+EventId: 12597
+Spots: 46
+Total Images: 355202
+Time:	01.01.0001 23:00:00 to 02.12.2024 02:12:38
+Duration: 739220.03:12:38
+
+(1) - 0.0 km 850311 - Trigger - MSC 7
+	TROK4
+		Images:	14757
+		Time:	02.12.2023 10:44:43 until 02.12.2023 14:18:16
+		Duration:	03:33:33
+		Location:	NULL NULL
+
+(2) - 0.0 km 852955- Abdo Sharhan - PR
+	SHAA4
+		Images:	190
+		Time:	02.12.2023 07:50:42 until 02.12.2023 10:53:11
+		Duration:	03:02:29
+		Location:	NULL NULL
+
+(3) - 0.0 km 852958 - Gus Gargallo - Start
+	GARG1
+		Images:	961
+		Time:	02.12.2023 07:52:29 until 02.12.2023 08:32:43
+		Duration:	00:40:14
+		Location:	NULL NULL
+
+(4) - 0.0 km 852964 - Bradley Milstone - MSC 6
+	MILB2
+		Images:	2202
+		Time:	02.12.2023 11:41:43 until 02.12.2023 14:13:07
+		Duration:	02:31:24
+		Location:	NULL NULL
+
+(5) - 0.0 km 852965 - Bradley Milstone - MSC 2
+	MILB1
+		Images:	3855
+		Time:	02.12.2023 07:11:52 until 02.12.2023 11:00:26
+		Duration:	03:48:34
+		Location:	NULL NULL
+
+(6) - 0.0 km 852966 - Trigger 1 - Pre Finish
+	ROBJ2
+		Images:	25286
+		Time:	02.12.2023 03:46:55 until 02.12.2023 11:36:11
+		Duration:	07:49:16
+		Location:	NULL NULL
+
+(7) - 0.0 km 852967 - Trigger 2 - Pre Finish
+	ROBJ3
+		Images:	9611
+		Time:	02.12.2023 09:27:39 until 02.12.2023 12:20:22
+		Duration:	02:52:43
+		Location:	NULL NULL
+
+(8) - 0.0 km 852968 - Trigger - MSC 2
+	HANS2
+		Images:	3492
+		Time:	02.12.2023 06:37:23 until 02.12.2023 10:01:03
+		Duration:	03:23:40
+		Location:	NULL NULL
+
+(9) - 0.0 km 852970 - Dru Lam - MSC 1
+	LAMD1
+		Images:	5800
+		Time:	01.01.0001 23:00:00 until 02.12.2023 09:47:58
+		Duration:	738854.10:47:58
+		Location:	NULL NULL
+
+(10) - 0.0 km 852971 - Julio Mora - MSC 1
+	MORJ1
+		Images:	4109
+		Time:	02.12.2023 06:52:50 until 02.12.2023 08:42:57
+		Duration:	01:50:07
+		Location:	NULL NULL
+
+(11) - 0.0 km 852972 - Duane Bierman - MSC 1
+	BIED1
+		Images:	5039
+		Time:	02.12.2023 06:03:38 until 02.12.2023 07:53:43
+		Duration:	01:50:05
+		Location:	NULL NULL
+
+(12) - 0.0 km 852973 - Trigger - MSC 1
+	LAMD2
+		Images:	2743
+		Time:	02.12.2023 07:06:54 until 02.12.2023 08:49:28
+		Duration:	01:42:34
+		Location:	NULL NULL
+
+(13) - 0.0 km 852974 - Steve Handwerker - MSC 2
+	HANS1
+		Images:	3229
+		Time:	02.12.2023 06:47:31 until 02.12.2023 09:39:25
+		Duration:	02:51:54
+		Location:	NULL NULL
+
+(14) - 0.0 km 852975 - Ben Owens - MSC 2
+	OWEB1
+		Images:	8116
+		Time:	02.12.2023 06:08:26 until 02.12.2023 09:59:49
+		Duration:	03:51:23
+		Location:	NULL NULL
+
+(15) - 0.0 km 852976 - Keith Tromiczak - MSC 3
+	TROK1
+		Images:	5466
+		Time:	02.12.2023 08:19:34 until 02.12.2023 09:49:38
+		Duration:	01:30:04
+		Location:	NULL NULL
+
+(16) - 0.0 km 852977 - Jody McRee - MSC 3
+	MCRJ2
+		Images:	11562
+		Time:	02.12.2023 07:54:01 until 02.12.2023 09:44:56
+		Duration:	01:50:55
+		Location:	NULL NULL
+
+(17) - 0.0 km 852978 - Trigger - MSC 3
+	TROK2
+		Images:	2142
+		Time:	02.12.2023 08:04:07 until 02.12.2023 09:50:25
+		Duration:	01:46:18
+		Location:	NULL NULL
+
+(18) - 0.0 km 852979 - Jeff Ring - MSC 4
+	RINJ1
+		Images:	8214
+		Time:	01.01.0001 23:00:00 until 02.12.2023 09:48:01
+		Duration:	738854.10:48:01
+		Location:	NULL NULL
+
+(19) - 0.0 km 852980 - Herman Williams - MSC 4
+	WILH1
+		Images:	3825
+		Time:	01.12.2023 19:30:23 until 01.12.2023 20:58:09
+		Duration:	01:27:46
+		Location:	NULL NULL
+
+(20) - 0.0 km 852981 - Steve Handwerker - MSC 6
+	HANS3
+		Images:	3695
+		Time:	02.12.2023 11:16:26 until 02.12.2023 13:10:16
+		Duration:	01:53:50
+		Location:	NULL NULL
+
+(21) - 0.0 km 852982 - Ben Owens - MSC 6
+	OWEB2
+		Images:	1363
+		Time:	02.12.2023 10:46:30 until 02.12.2023 13:10:04
+		Duration:	02:23:34
+		Location:	NULL NULL
+
+(22) - 0.0 km 852983 - Trigger - MSC 6
+	HANS4
+		Images:	3965
+		Time:	02.12.2023 10:49:42 until 02.12.2023 13:14:51
+		Duration:	02:25:09
+		Location:	NULL NULL
+
+(23) - 0.0 km 852984 - Jody McKown - MSC 5
+	MCKJ1
+		Images:	18080
+		Time:	02.12.2023 07:19:35 until 02.12.2023 14:06:31
+		Duration:	06:46:56
+		Location:	NULL NULL
+
+(24) - 0.0 km 852985 - Wes Hale - MSC 5
+	HALW1
+		Images:	21026
+		Time:	02.12.2023 06:13:25 until 02.12.2023 13:01:47
+		Duration:	06:48:22
+		Location:	NULL NULL
+
+(25) - 0.0 km 852986 - Jonathan Roberts - Pre Finish
+	ROBJ1
+		Images:	21560
+		Time:	02.12.2023 06:17:28 until 02.12.2023 13:54:23
+		Duration:	07:36:55
+		Location:	NULL NULL
+
+(26) - 0.0 km 852987 - Dru Lam - Pre Finish
+	LAMD3
+		Images:	3290
+		Time:	02.12.2023 11:52:59 until 02.12.2023 16:24:33
+		Duration:	04:31:34
+		Location:	NULL NULL
+
+(27) - 0.0 km 852988 - Julio Mora - Pre FInish
+	MORJ2
+		Images:	10568
+		Time:	02.12.2023 09:23:42 until 02.12.2023 13:53:17
+		Duration:	04:29:35
+		Location:	NULL NULL
+
+(28) - 0.0 km 852989 - Duane Bierman - Pre Finish
+	BIED2
+		Images:	12554
+		Time:	02.12.2023 08:28:57 until 02.12.2023 12:31:08
+		Duration:	04:02:11
+		Location:	NULL NULL
+
+(29) - 0.0 km 852990 - Abdo Sharhan - Finish
+	SHAA1
+		Images:	35854
+		Time:	02.12.2023 07:14:56 until 02.12.2023 14:21:32
+		Duration:	07:06:36
+		Location:	NULL NULL
+
+(30) - 0.0 km 852991 - Gus Gargallo - Finish
+	GARG2
+		Images:	18075
+		Time:	02.12.2023 08:50:50 until 02.12.2023 14:50:06
+		Duration:	05:59:16
+		Location:	NULL NULL
+
+(31) - 0.0 km 852992 - Trigger Right - Finish
+	SHAA2
+		Images:	12419
+		Time:	02.12.2023 07:50:10 until 02.12.2023 14:46:41
+		Duration:	06:56:31
+		Location:	NULL NULL
+
+(32) - 0.0 km 852993 - Trigger Left - Finish
+	SHAA3
+		Images:	16486
+		Time:	02.12.2023 07:58:01 until 02.12.2023 13:48:55
+		Duration:	05:50:54
+		Location:	NULL NULL
+
+(33) - 0.0 km 852995 - Claude Bird - Medals
+	BIRC1
+		Images:	7248
+		Time:	02.12.2023 06:37:03 until 02.12.2023 13:44:40
+		Duration:	07:07:37
+		Location:	NULL NULL
+
+(34) - 0.0 km 852996 - Sarah Thompson - Medals
+	THOS1
+		Images:	3262
+		Time:	02.12.2023 07:26:36 until 02.12.2023 14:13:23
+		Duration:	06:46:47
+		Location:	NULL NULL
+
+(35) - 0.0 km 852997 - Alonzo Jones - OFP
+	JONA1
+		Images:	1931
+		Time:	02.12.2023 07:06:33 until 02.12.2023 15:42:13
+		Duration:	08:35:40
+		Location:	NULL NULL
+
+(36) - 0.0 km 852998 - Jalen Davis - OFP
+	DAVJ1
+		Images:	855
+		Time:	01.12.2024 19:05:12 until 02.12.2024 02:12:38
+		Duration:	07:07:26
+		Location:	NULL NULL
+
+(37) - 0.0 km 852999 - Jason Robinson - Medals
+	ROBJ1
+		Images:	21560
+		Time:	02.12.2023 06:17:28 until 02.12.2023 13:54:23
+		Duration:	07:36:55
+		Location:	NULL NULL
+
+(38) - 0.0 km 853000 - Jordan Dunlap - OFP
+	DUNJ1
+		Images:	1019
+		Time:	01.12.2023 23:14:11 until 02.12.2023 10:30:17
+		Duration:	11:16:06
+		Location:	NULL NULL
+
+(39) - 0.0 km 853001 - Cassie Watson - Medals
+	WATC1
+		Images:	938
+		Time:	02.12.2023 06:10:01 until 02.12.2023 12:57:54
+		Duration:	06:47:53
+		Location:	NULL NULL
+
+(40) - 0.0 km 853002 - David Kapaun - Medals
+	KAUD1
+		Images:	1808
+		Time:	02.12.2023 06:09:19 until 02.12.2023 11:53:40
+		Duration:	05:44:21
+		Location:	NULL NULL
+
+(41) - 0.0 km 853007 - Keith Tromiczak - MSC 7
+	TROK3
+		Images:	5768
+		Time:	02.12.2023 10:56:19 until 02.12.2023 14:14:13
+		Duration:	03:17:54
+		Location:	NULL NULL
+
+(42) - 0.0 km 853008 - Jody McRee - MSC 7
+	MCRJ1
+		Images:	14472
+		Time:	02.12.2023 10:37:10 until 02.12.2023 14:14:22
+		Duration:	03:37:12
+		Location:	NULL NULL
+
+(43) - 0.0 km 853009 - Herman Williams - MSC 7
+	WILH2
+		Images:	7037
+		Time:	01.12.2023 21:32:39 until 02.12.2023 00:35:48
+		Duration:	03:03:09
+		Location:	NULL NULL
+
+(44) - 0.0 km 853010 - Jeff Ring - MSC 7
+	RINJ3
+		Images:	8524
+		Time:	02.12.2023 10:36:44 until 02.12.2023 14:46:22
+		Duration:	04:09:38
+		Location:	NULL NULL
+
+(45) - Impressions / Pano
+	PANO1
+(46) - none
+	AAAA1
+		Images:	2806
+		Time:	02.12.2023 09:33:15 until 02.12.2023 10:20:54
+		Duration:	00:47:39
+		Location:	NULL NULL
+

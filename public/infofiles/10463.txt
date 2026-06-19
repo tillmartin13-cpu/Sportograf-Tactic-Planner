@@ -1,0 +1,348 @@
+EventId: 10463
+Spots: 53
+Total Images: 514962
+Time:	01.01.0001 23:00:00 to 05.05.2024 13:12:49
+Duration: 739009.14:12:49
+
+(1) - 10.0 km
+	CSGR1
+		Images:	33280
+		Time:	05.05.2024 05:42:20 until 05.05.2024 11:07:43
+		Duration:	05:25:23
+		Location:	-33.86741 151.21738
+
+(2) - 10.7 km
+	DTS1
+		Images:	9734
+		Time:	04.05.2024 19:37:02 until 05.05.2024 10:00:07
+		Duration:	14:23:05
+		Location:	-33.87335 151.20018
+
+(3) - 10.9 km
+	DJD1
+		Images:	12017
+		Time:	05.05.2024 06:37:00 until 05.05.2024 09:58:34
+		Duration:	03:21:34
+		Location:	-33.87304 151.20121
+
+(4) - 11.1 km
+	DRIT1
+		Images:	4184
+		Time:	05.05.2024 07:07:50 until 05.05.2024 09:51:29
+		Duration:	02:43:39
+		Location:	-33.87165 151.20207
+
+(5) - 12.8 km
+	ACYH1
+		Images:	8664
+		Time:	05.05.2024 04:37:42 until 05.05.2024 10:19:09
+		Duration:	05:41:27
+		Location:	-33.85802 151.20031
+
+(6) - 14.2 km
+	ATOB1
+		Images:	26810
+		Time:	04.05.2024 12:14:19 until 05.05.2024 10:31:26
+		Duration:	22:17:07
+		Location:	-33.85450 151.20986
+
+	ATOB1LS1
+		Images:	10476
+		Time:	04.05.2024 12:18:57 until 05.05.2024 10:35:13
+		Duration:	22:16:16
+		Location:	-33.85450 151.20986
+
+(7) - 14.3 km
+	ACSM1
+		Images:	3999
+		Time:	05.05.2024 06:30:02 until 05.05.2024 07:09:44
+		Duration:	00:39:42
+		Location:	-33.85384 151.20886
+
+	ACSM1LS1
+		Images:	777
+		Time:	05.05.2024 06:33:52 until 05.05.2024 07:12:48
+		Duration:	00:38:56
+		Location:	-33.85384 151.20886
+
+	ACSM2
+		Images:	12101
+		Time:	05.05.2024 07:12:51 until 05.05.2024 10:32:05
+		Duration:	03:19:14
+		Location:	-33.85384 151.20886
+
+(8) - 14.4 km
+	AVN1
+		Images:	20246
+		Time:	05.05.2024 07:31:36 until 05.05.2024 10:28:19
+		Duration:	02:56:43
+		Location:	-33.85393 151.20865
+
+	AVN2
+		Images:	2088
+		Time:	05.05.2024 06:33:30 until 05.05.2024 07:21:33
+		Duration:	00:48:03
+		Location:	-33.85393 151.20865
+
+	AVN2LS1
+		Images:	10352
+		Time:	04.05.2024 12:50:14 until 05.05.2024 10:34:48
+		Duration:	21:44:34
+		Location:	-33.85393 151.20865
+
+(9) - 14.5 km
+	DNIF1
+		Images:	10853
+		Time:	05.05.2024 06:15:12 until 05.05.2024 09:13:41
+		Duration:	02:58:29
+		Location:	-33.85384 151.20886
+
+	DNIF2
+		Images:	4479
+		Time:	05.05.2024 09:14:07 until 05.05.2024 10:33:23
+		Duration:	01:19:16
+		Location:	-33.85384 151.20886
+
+	DSBR1
+		Images:	9565
+		Time:	04.05.2024 06:02:03 until 04.05.2024 10:30:46
+		Duration:	04:28:43
+		Location:	-33.85384 151.20886
+
+(10) - 14.7 km
+	AJV1
+		Images:	10898
+		Time:	05.05.2024 06:23:52 until 05.05.2024 10:27:03
+		Duration:	04:03:11
+		Location:	-33.85555 151.20746
+
+	AJV1LS1
+		Images:	4107
+		Time:	05.05.2024 05:37:29 until 05.05.2024 10:31:19
+		Duration:	04:53:50
+		Location:	-33.85555 151.20746
+
+(11) - 15.0 km
+	AACV1
+		Images:	15934
+		Time:	05.05.2024 06:35:54 until 05.05.2024 10:34:18
+		Duration:	03:58:24
+		Location:	-33.85695 151.20584
+
+	ATKU1
+		Images:	15501
+		Time:	05.05.2024 05:39:52 until 05.05.2024 10:31:18
+		Duration:	04:51:26
+		Location:	-33.85620 151.20672
+
+	ATKU1LS1
+		Images:	2298
+		Time:	01.01.0001 23:00:00 until 05.05.2024 13:12:49
+		Duration:	739009.14:12:49
+		Location:	-33.85620 151.20672
+
+(12) - 16.8 km
+	AJBR1
+		Images:	28925
+		Time:	05.05.2024 06:08:11 until 05.05.2024 10:46:48
+		Duration:	04:38:37
+		Location:	-33.86133 151.21000
+
+	ANOJ1
+		Images:	10166
+		Time:	05.05.2024 08:20:56 until 05.05.2024 10:46:46
+		Duration:	02:25:50
+		Location:	-33.86133 151.21000
+
+	ANOJ2
+		Images:	9541
+		Time:	05.05.2024 05:48:25 until 05.05.2024 09:28:28
+		Duration:	03:40:03
+		Location:	-33.86133 151.21000
+
+(13) - 18.1 km
+	CPRK1
+		Images:	6762
+		Time:	05.05.2024 06:43:36 until 05.05.2024 11:01:25
+		Duration:	04:17:49
+		Location:	-33.87035 151.2136
+
+(14) - 18.3 km
+	CKH1
+		Images:	8490
+		Time:	05.05.2024 06:40:02 until 05.05.2024 11:02:43
+		Duration:	04:22:41
+		Location:	-33.86888 151.21612
+
+	CVFV1
+		Images:	13119
+		Time:	05.05.2024 06:47:00 until 05.05.2024 11:02:41
+		Duration:	04:15:41
+		Location:	-33.86888 151.21612
+
+(15) - 19.5 km
+	CIGM1
+		Images:	13222
+		Time:	05.05.2024 06:51:04 until 05.05.2024 11:08:16
+		Duration:	04:17:12
+		Location:	-33.85983 151.2220
+
+	CIGM1LS1
+		Images:	5468
+		Time:	05.05.2024 06:50:25 until 05.05.2024 11:04:54
+		Duration:	04:14:29
+		Location:	-33.85983 151.2220
+
+	CWP1
+		Images:	8157
+		Time:	04.05.2024 21:16:18 until 05.05.2024 11:11:38
+		Duration:	13:55:20
+		Location:	-33.85983 151.2220
+
+(16) - 19.9 km
+	CKHT1
+		Images:	20741
+		Time:	05.05.2024 06:51:13 until 05.05.2024 11:15:45
+		Duration:	04:24:32
+		Location:	-33.86273 151.22203
+
+	CMFS1
+		Images:	16020
+		Time:	05.05.2024 06:51:21 until 05.05.2024 11:15:45
+		Duration:	04:24:24
+		Location:	-33.86273 151.22203
+
+(17) - 5.2 km
+	DABS1
+		Images:	3935
+		Time:	05.05.2024 05:56:54 until 05.05.2024 08:10:57
+		Duration:	02:14:03
+		Location:	-33.86775 151.19596
+
+(18) - 7.7 km
+	DJKN1
+		Images:	4443
+		Time:	05.05.2024 05:55:40 until 05.05.2024 09:24:32
+		Duration:	03:28:52
+		Location:	-33.86764 151.18931
+
+	DJKN1LS1
+		Images:	4247
+		Time:	05.05.2024 07:05:30 until 05.05.2024 09:27:55
+		Duration:	02:22:25
+		Location:	-33.86764 151.18931
+
+(19) - 8.6 km
+	DLMLS1
+		Images:	5663
+		Time:	05.05.2024 06:36:47 until 05.05.2024 09:34:26
+		Duration:	02:57:39
+		Location:	-33.86354 151.19343
+
+	DTPA1
+		Images:	8885
+		Time:	05.05.2024 06:47:33 until 05.05.2024 09:34:17
+		Duration:	02:46:44
+		Location:	-33.86323 151.19375
+
+	DTPA1LS1
+		Images:	4087
+		Time:	05.05.2024 07:10:15 until 05.05.2024 09:36:03
+		Duration:	02:25:48
+		Location:	-33.86297 151.19390
+
+	DTPA1LS2
+		Images:	4240
+		Time:	05.05.2024 07:06:45 until 05.05.2024 09:36:20
+		Duration:	02:29:35
+		Location:	-33.86313 151.1938
+
+(20) - 8.8 km
+	DBRON1
+		Images:	15252
+		Time:	05.05.2024 06:43:54 until 05.05.2024 09:40:39
+		Duration:	02:56:45
+		Location:	-33.86536 151.19670
+
+	DBRON1LS1
+		Images:	2373
+		Time:	05.05.2024 06:27:29 until 05.05.2024 09:33:45
+		Duration:	03:06:16
+		Location:	-33.86536 151.19670
+
+(21) - 9.2 km
+	DABS2
+		Images:	4461
+		Time:	05.05.2024 08:13:16 until 05.05.2024 09:49:06
+		Duration:	01:35:50
+		Location:	-33.86761 151.19602
+
+(22) - Finish
+	BBRE1
+		Images:	4891
+		Time:	05.05.2024 06:01:50 until 05.05.2024 11:41:06
+		Duration:	05:39:16
+		Location:	-33.86996 151.21269
+
+	BCVO2
+		Images:	5808
+		Time:	05.05.2024 06:11:01 until 05.05.2024 11:41:20
+		Duration:	05:30:19
+		Location:	-33.86996 151.21269
+
+	BDTT1
+		Images:	12737
+		Time:	05.05.2024 06:19:10 until 05.05.2024 11:39:11
+		Duration:	05:20:01
+		Location:	-33.86996 151.21269
+
+	BHC2
+		Images:	2769
+		Time:	05.05.2024 09:28:28 until 05.05.2024 11:36:44
+		Duration:	02:08:16
+		Location:	-33.86996 151.21269
+
+	BIAK2
+		Images:	2204
+		Time:	05.05.2024 08:55:53 until 05.05.2024 11:40:46
+		Duration:	02:44:53
+		Location:	-33.86996 151.21269
+
+	BJUBA1
+		Images:	10090
+		Time:	05.05.2024 07:22:57 until 05.05.2024 12:34:40
+		Duration:	05:11:43
+		Location:	-33.86996 151.21269
+
+	BPAC1
+		Images:	8763
+		Time:	05.05.2024 06:12:42 until 05.05.2024 11:40:53
+		Duration:	05:28:11
+		Location:	-33.86996 151.21269
+
+	BRCT1
+		Images:	31858
+		Time:	05.05.2024 06:20:06 until 05.05.2024 11:47:42
+		Duration:	05:27:36
+		Location:	-33.86996 151.21269
+
+(23) - Impressions / Pano
+	PANO1
+		Images:	2
+		Time:	05.05.2024 11:27:48 until 05.05.2024 11:27:57
+		Duration:	00:00:09
+		Location:	NULL NULL
+
+(24) - Start
+	BHC1
+		Images:	1664
+		Time:	05.05.2024 06:15:08 until 05.05.2024 08:25:24
+		Duration:	02:10:16
+		Location:	-33.86263 151.21350
+
+	BIAK1
+		Images:	7616
+		Time:	05.05.2024 06:14:09 until 05.05.2024 08:13:09
+		Duration:	01:59:00
+		Location:	-33.86263 151.21350
+

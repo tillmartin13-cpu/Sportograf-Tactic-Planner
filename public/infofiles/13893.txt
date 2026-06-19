@@ -1,0 +1,39 @@
+EventId: 13893
+Spots: 5
+Total Images: 3908
+Time:	25.05.2025 08:24:18 to 25.05.2025 14:58:21
+Duration: 06:34:03
+
+(1) - Singletrail Strecke A,B,C 10,8KM & Gravel 9,3KM nach Start
+	MIKR1
+		Images:	710
+		Time:	25.05.2025 08:41:01 until 25.05.2025 10:05:56
+		Duration:	01:24:55
+		Location:	47.49887 11.97283
+
+(2) - Bachdurchfahrt 13KM vor dem Ziel
+	EP1LS2
+		Images:	331
+		Time:	25.05.2025 09:40:49 until 25.05.2025 13:39:14
+		Duration:	03:58:25
+		Location:	47.47364 12.03068
+
+	EP1LS1
+		Images:	612
+		Time:	25.05.2025 08:24:18 until 25.05.2025 14:09:20
+		Duration:	05:45:02
+		Location:	47.47364 12.03068
+
+	EP1
+		Images:	1169
+		Time:	25.05.2025 09:39:46 until 25.05.2025 14:42:25
+		Duration:	05:02:39
+		Location:	47.47370 12.03114
+
+(3) - Finish
+	ZIEL1
+		Images:	1086
+		Time:	25.05.2025 10:07:28 until 25.05.2025 14:58:21
+		Duration:	04:50:53
+		Location:	47.50473 12.03834
+

@@ -1,0 +1,203 @@
+EventId: 12173
+Spots: 30
+Total Images: 232475
+Time:	01.01.0001 23:00:00 to 02.06.2024 23:00:29
+Duration: 739038.00:00:29
+
+(1) - Bike - 13,5 km St Pauli Fischmarkt
+	AMNO1
+		Images:	24306
+		Time:	02.06.2024 06:13:02 until 02.06.2024 14:03:51
+		Duration:	07:50:49
+		Location:	53.54558 9.95515
+
+(2) - Bike - 14,5 km Landungsbrücken
+	AJKOR1
+		Images:	4716
+		Time:	01.06.2024 22:44:27 until 02.06.2024 13:45:27
+		Duration:	15:01:00
+		Location:	53.54570 9.97017
+
+	AJKOR1LS1
+		Images:	17797
+		Time:	01.06.2024 22:56:13 until 02.06.2024 14:52:36
+		Duration:	15:56:23
+		Location:	53.54570 9.97017
+
+(3) - Bike - 14,7 km Reperbahn / Landungsbrücken
+	ABK1
+		Images:	1061
+		Time:	02.06.2024 09:18:04 until 02.06.2024 17:13:41
+		Duration:	07:55:37
+		Location:	53.54925 9.96245
+
+(4) - Bike - 15.4 km Baumwall
+	BSTT1
+		Images:	6063
+		Time:	02.06.2024 06:50:10 until 02.06.2024 13:35:08
+		Duration:	06:44:58
+		Location:	53.54478 9.97444
+
+(5) - Bike - 39,3 km Overwerder Hauptdeich
+	ABIL1
+		Images:	6730
+		Time:	02.06.2024 08:01:04 until 02.06.2024 15:06:08
+		Duration:	07:05:04
+		Location:	53.43608 10.10814
+
+	ABIL1LS1
+		Images:	4687
+		Time:	02.06.2024 07:31:33 until 02.06.2024 15:05:59
+		Duration:	07:34:26
+		Location:	53.43608 10.10814
+
+(6) - Bike - 4.1 km Reperbahn
+	BMELS1
+		Images:	14726
+		Time:	02.06.2024 07:20:27 until 02.06.2024 13:47:36
+		Duration:	06:27:09
+		Location:	53.54925 9.96245
+
+(7) - Bike - 46,7 km Zollenspieker
+	ACRIC1
+		Images:	13518
+		Time:	01.06.2024 22:33:05 until 02.06.2024 15:18:47
+		Duration:	16:45:42
+		Location:	53.56532 9.99842
+
+	ACRIC1LS1
+		Images:	1355
+		Time:	02.06.2024 18:23:31 until 02.06.2024 19:21:38
+		Duration:	00:58:07
+		Location:	53.56532 9.99842
+
+(8) - Bike - Transition zone
+	BHT1
+		Images:	4492
+		Time:	02.06.2024 06:18:48 until 02.06.2024 09:53:15
+		Duration:	03:34:27
+		Location:	53.55522 10.00017
+
+	BHT1LS1
+		Images:	1694
+		Time:	02.06.2024 06:12:17 until 02.06.2024 09:51:51
+		Duration:	03:39:34
+		Location:	53.55522 10.00017
+
+(9) - Finish
+	AJKOR2
+		Images:	2112
+		Time:	02.06.2024 14:53:12 until 02.06.2024 18:46:00
+		Duration:	03:52:48
+		Location:	53.55060 9.99299
+
+	BHT2
+		Images:	5863
+		Time:	02.06.2024 11:39:36 until 02.06.2024 23:00:29
+		Duration:	11:20:53
+		Location:	53.55060 9.99299
+
+	BHT2LS1
+		Images:	1568
+		Time:	02.06.2024 13:34:59 until 02.06.2024 22:16:06
+		Duration:	08:41:07
+		Location:	53.55060 9.99299
+
+	BSTT2
+		Images:	6277
+		Time:	02.06.2024 14:55:06 until 02.06.2024 21:41:18
+		Duration:	06:46:12
+		Location:	53.55060 9.99299
+
+(10) - Gänsemarkt
+	BKST2
+		Images:	9211
+		Time:	02.06.2024 12:28:29 until 02.06.2024 21:44:46
+		Duration:	09:16:17
+		Location:	53.55520 9.98856
+
+(11) - Hoka Flyzone
+	AHMU2
+		Images:	13318
+		Time:	02.06.2024 11:36:25 until 02.06.2024 19:47:13
+		Duration:	08:10:48
+		Location:	53.55134 9.99222
+
+	BHMU1
+		Images:	2747
+		Time:	02.06.2024 19:50:01 until 02.06.2024 21:21:22
+		Duration:	01:31:21
+		Location:	53.55134 9.99222
+
+(12) - Run - 0.9 km Binnenalster
+	BFG2
+		Images:	15041
+		Time:	02.06.2024 11:07:51 until 02.06.2024 21:14:15
+		Duration:	10:06:24
+		Location:	53.55709 9.99530
+
+(13) - Run - 18,7 km Alsterufer
+	ABIL2
+		Images:	618
+		Time:	02.06.2024 18:32:12 until 02.06.2024 19:18:34
+		Duration:	00:46:22
+		Location:	53.56532 9.99842
+
+	ACRIC1LS2
+		Images:	11430
+		Time:	02.06.2024 07:55:07 until 02.06.2024 15:21:26
+		Duration:	07:26:19
+		Location:	53.56532 9.99842
+
+	AMNO2
+		Images:	2154
+		Time:	02.06.2024 17:26:45 until 02.06.2024 18:42:44
+		Duration:	01:15:59
+		Location:	53.56532 9.99842
+
+(14) - Run - 2.9 km Lombardsbrücke
+	BMARM2
+		Images:	20662
+		Time:	02.06.2024 11:10:47 until 02.06.2024 20:52:09
+		Duration:	09:41:22
+		Location:	53.55679 9.99778
+
+	BMELS2
+		Images:	7409
+		Time:	02.06.2024 16:29:29 until 02.06.2024 21:12:27
+		Duration:	04:42:58
+		Location:	53.55679 9.99778
+
+(15) - Swim - Start
+	ABK1DRONE1
+		Images:	70
+		Time:	02.06.2024 06:08:13 until 02.06.2024 09:55:52
+		Duration:	03:47:39
+		Location:	53.55060 9.99299
+
+	AHMU1
+		Images:	687
+		Time:	02.06.2024 06:14:15 until 02.06.2024 07:29:34
+		Duration:	01:15:19
+		Location:	53.55357 9.99330
+
+(16) - Swim - Transition zone
+	BMARM1
+		Images:	16305
+		Time:	02.06.2024 06:25:34 until 02.06.2024 15:03:11
+		Duration:	08:37:37
+		Location:	53.55155 9.99276
+
+(17) - Swim Ausstieg
+	BFG1
+		Images:	8468
+		Time:	02.06.2024 06:38:04 until 02.06.2024 14:22:24
+		Duration:	07:44:20
+		Location:	53.55155 9.99276
+
+	BKST1
+		Images:	7390
+		Time:	01.01.0001 23:00:00 until 02.06.2024 19:42:17
+		Duration:	739037.20:42:17
+		Location:	53.55155 9.99276
+

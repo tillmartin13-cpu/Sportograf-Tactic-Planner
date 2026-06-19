@@ -1,0 +1,513 @@
+EventId: 14366
+Spots: 94
+Total Images: 295868
+Time:	28.06.2025 07:08:08 to 28.06.2025 22:24:26
+Duration: 15:16:18
+
+(1) - Finish
+	ABIC6
+	AGIP3LS1
+	AHTT6
+	AHTT7LS1
+	ANNG6
+		Images:	1138
+		Time:	28.06.2025 11:32:09 until 28.06.2025 15:09:44
+		Duration:	03:37:35
+		Location:	1.29761 103.88111
+
+	AVLA1
+		Images:	4345
+		Time:	28.06.2025 07:27:00 until 28.06.2025 14:32:16
+		Duration:	07:05:16
+		Location:	1.29761 103.88111
+
+	BCAH1
+		Images:	3368
+		Time:	28.06.2025 15:08:35 until 28.06.2025 22:22:18
+		Duration:	07:13:43
+		Location:	1.30401 103.86608
+
+	BGIP1LS1
+		Images:	1041
+		Time:	28.06.2025 07:52:06 until 28.06.2025 19:53:15
+		Duration:	12:01:09
+		Location:	1.30401 103.86608
+
+	BHTT1LS2
+		Images:	3131
+		Time:	28.06.2025 07:08:08 until 28.06.2025 18:09:57
+		Duration:	11:01:49
+		Location:	1.30401 103.86608
+
+	BHTT4
+		Images:	3450
+		Time:	28.06.2025 17:26:24 until 28.06.2025 20:23:30
+		Duration:	02:57:06
+		Location:	1.30401 103.86608
+
+(2) - Impressions / Pano
+	PANO1
+		Images:	1
+		Time:	28.06.2025 09:17:49 until 28.06.2025 09:17:49
+		Duration:	00:00:00
+		Location:	1.30401 103.86608
+
+(3) - Medalwall
+	ABIC7
+		Images:	1392
+		Time:	28.06.2025 11:28:47 until 28.06.2025 15:00:44
+		Duration:	03:31:57
+		Location:	1.29761 103.88111
+
+	ABUP1
+		Images:	3748
+		Time:	28.06.2025 07:56:19 until 28.06.2025 14:28:49
+		Duration:	06:32:30
+		Location:	1.29761 103.88111
+
+	AHTT7
+		Images:	1784
+		Time:	28.06.2025 11:28:18 until 28.06.2025 15:05:05
+		Duration:	03:36:47
+		Location:	1.29761 103.88111
+
+	ANNG7
+	ANP1
+		Images:	7577
+		Time:	28.06.2025 08:33:04 until 28.06.2025 14:26:35
+		Duration:	05:53:31
+		Location:	1.29761 103.88111
+
+	BBIC4
+		Images:	600
+		Time:	28.06.2025 17:30:10 until 28.06.2025 20:21:43
+		Duration:	02:51:33
+		Location:	1.30401 103.86608
+
+	BNNG4
+		Images:	423
+		Time:	28.06.2025 17:30:21 until 28.06.2025 20:18:11
+		Duration:	02:47:50
+		Location:	1.30401 103.86608
+
+	BVLA1
+		Images:	2047
+		Time:	28.06.2025 15:00:57 until 28.06.2025 22:09:12
+		Duration:	07:08:15
+		Location:	1.30401 103.86608
+
+	BVW1
+		Images:	1697
+		Time:	28.06.2025 15:05:49 until 28.06.2025 22:24:26
+		Duration:	07:18:37
+		Location:	1.30401 103.86608
+
+(4) - Run
+	AHTT7LS2
+	ANNG7LS1
+	BHTT1LS1
+		Images:	3278
+		Time:	28.06.2025 07:09:25 until 28.06.2025 13:33:38
+		Duration:	06:24:13
+		Location:	1.30401 103.86608
+
+(5) - Station 1 Ski Erg
+	AAKT1
+		Images:	4121
+		Time:	28.06.2025 07:40:24 until 28.06.2025 15:10:12
+		Duration:	07:29:48
+		Location:	1.29761 103.88111
+
+	ABIC1
+		Images:	815
+		Time:	28.06.2025 08:35:08 until 28.06.2025 12:56:41
+		Duration:	04:21:33
+		Location:	1.29761 103.88111
+
+	AHTT1
+		Images:	3781
+		Time:	28.06.2025 09:24:21 until 28.06.2025 15:22:31
+		Duration:	05:58:10
+		Location:	1.29761 103.88111
+
+	ALDB1
+		Images:	20126
+		Time:	28.06.2025 07:28:27 until 28.06.2025 15:07:45
+		Duration:	07:39:18
+		Location:	1.29761 103.88111
+
+	ANNG1
+		Images:	896
+		Time:	28.06.2025 08:15:05 until 28.06.2025 12:59:22
+		Duration:	04:44:17
+		Location:	1.29761 103.88111
+
+	ATAP1
+		Images:	7240
+		Time:	28.06.2025 07:30:32 until 28.06.2025 15:19:20
+		Duration:	07:48:48
+		Location:	1.29761 103.88111
+
+	BBIC1
+		Images:	324
+		Time:	28.06.2025 16:04:20 until 28.06.2025 18:46:25
+		Duration:	02:42:05
+		Location:	1.30401 103.86608
+
+	BHTT1
+		Images:	1988
+		Time:	28.06.2025 15:55:46 until 28.06.2025 18:48:00
+		Duration:	02:52:14
+		Location:	1.30401 103.86608
+
+	BLNG1
+		Images:	10492
+		Time:	28.06.2025 15:15:22 until 28.06.2025 20:20:39
+		Duration:	05:05:17
+		Location:	1.30401 103.86608
+
+	BNNG5
+		Images:	460
+		Time:	28.06.2025 16:05:05 until 28.06.2025 18:49:43
+		Duration:	02:44:38
+		Location:	1.30401 103.86608
+
+	BSUA1
+		Images:	1684
+		Time:	28.06.2025 15:15:11 until 28.06.2025 20:19:57
+		Duration:	05:04:46
+		Location:	1.30401 103.86608
+
+	BTDB1
+		Images:	2601
+		Time:	28.06.2025 15:19:48 until 28.06.2025 20:20:20
+		Duration:	05:00:32
+		Location:	1.30401 103.86608
+
+(6) - Station 2 Sled Push
+	ACAH1
+		Images:	2842
+		Time:	28.06.2025 07:42:38 until 28.06.2025 14:59:15
+		Duration:	07:16:37
+		Location:	1.29761 103.88111
+
+	ALNG1
+		Images:	6427
+		Time:	28.06.2025 07:50:25 until 28.06.2025 15:09:42
+		Duration:	07:19:17
+		Location:	1.29761 103.88111
+
+	ASUA1
+		Images:	954
+		Time:	28.06.2025 07:34:19 until 28.06.2025 14:59:29
+		Duration:	07:25:10
+		Location:	1.29761 103.88111
+
+	ATDB1
+		Images:	7889
+		Time:	28.06.2025 07:34:38 until 28.06.2025 15:17:28
+		Duration:	07:42:50
+		Location:	1.29761 103.88111
+
+	BAKT1
+		Images:	2188
+		Time:	28.06.2025 15:15:05 until 28.06.2025 20:33:13
+		Duration:	05:18:08
+		Location:	1.30401 103.86608
+
+	BBUP1
+		Images:	2917
+		Time:	28.06.2025 15:01:53 until 28.06.2025 20:32:50
+		Duration:	05:30:57
+		Location:	1.30401 103.86608
+
+	BLDB1
+		Images:	3510
+		Time:	28.06.2025 15:16:31 until 28.06.2025 20:33:49
+		Duration:	05:17:18
+		Location:	1.30401 103.86608
+
+	BTAP1
+		Images:	2828
+		Time:	28.06.2025 15:21:14 until 28.06.2025 20:33:16
+		Duration:	05:12:02
+		Location:	1.30401 103.86608
+
+(7) - Station 3 Sled Pull
+	AANDR1
+		Images:	3501
+		Time:	28.06.2025 07:29:06 until 28.06.2025 15:08:09
+		Duration:	07:39:03
+		Location:	1.29761 103.88111
+
+	AJBR1
+		Images:	1088
+		Time:	28.06.2025 08:06:59 until 28.06.2025 15:09:51
+		Duration:	07:02:52
+		Location:	1.29761 103.88111
+
+	AJOSS1
+		Images:	3050
+		Time:	28.06.2025 07:08:47 until 28.06.2025 15:10:54
+		Duration:	08:02:07
+		Location:	1.29761 103.88111
+
+	AMVV1
+		Images:	7705
+		Time:	28.06.2025 07:52:13 until 28.06.2025 14:20:30
+		Duration:	06:28:17
+		Location:	1.29761 103.88111
+
+	APNQ2
+		Images:	140
+		Time:	28.06.2025 15:13:00 until 28.06.2025 15:18:03
+		Duration:	00:05:03
+		Location:	1.29761 103.88111
+
+	BNTA1
+		Images:	4351
+		Time:	28.06.2025 15:06:59 until 28.06.2025 20:50:20
+		Duration:	05:43:21
+		Location:	1.30401 103.86608
+
+	BPNQ1
+		Images:	4107
+		Time:	28.06.2025 15:19:32 until 28.06.2025 20:45:41
+		Duration:	05:26:09
+		Location:	1.30401 103.86608
+
+	BTDK1
+		Images:	2122
+		Time:	28.06.2025 15:09:35 until 28.06.2025 20:48:00
+		Duration:	05:38:25
+		Location:	1.30401 103.86608
+
+	BTNA1
+		Images:	3493
+		Time:	28.06.2025 15:17:26 until 28.06.2025 20:44:41
+		Duration:	05:27:15
+		Location:	1.30401 103.86608
+
+(8) - Station 4 Burpees
+	ABIC2
+		Images:	177
+		Time:	28.06.2025 15:03:50 until 28.06.2025 15:18:50
+		Duration:	00:15:00
+		Location:	1.29761 103.88111
+
+	AGIP2
+		Images:	2758
+		Time:	28.06.2025 09:57:40 until 28.06.2025 15:11:40
+		Duration:	05:14:00
+		Location:	1.29761 103.88111
+
+	AHTT3
+	ANNG2
+		Images:	1095
+		Time:	28.06.2025 10:05:16 until 28.06.2025 13:41:01
+		Duration:	03:35:45
+		Location:	1.29761 103.88111
+
+	ANTA1
+		Images:	9474
+		Time:	28.06.2025 07:32:40 until 28.06.2025 15:02:52
+		Duration:	07:30:12
+		Location:	1.29761 103.88111
+
+	ATDK1
+		Images:	3888
+		Time:	28.06.2025 07:27:52 until 28.06.2025 15:04:29
+		Duration:	07:36:37
+		Location:	1.29761 103.88111
+
+	BANDR1
+		Images:	2821
+		Time:	28.06.2025 15:11:18 until 28.06.2025 21:13:42
+		Duration:	06:02:24
+		Location:	1.30401 103.86608
+
+	BBIC2
+		Images:	639
+		Time:	28.06.2025 16:29:01 until 28.06.2025 19:22:38
+		Duration:	02:53:37
+		Location:	1.30401 103.86608
+
+	BHTT2
+		Images:	1960
+		Time:	28.06.2025 16:21:17 until 28.06.2025 19:19:05
+		Duration:	02:57:48
+		Location:	1.30401 103.86608
+
+	BMVV1
+		Images:	11478
+		Time:	28.06.2025 14:22:22 until 28.06.2025 20:12:41
+		Duration:	05:50:19
+		Location:	1.30401 103.86608
+
+(9) - Station 5 Rowing
+	ABIC3
+		Images:	1695
+		Time:	28.06.2025 10:08:25 until 28.06.2025 13:41:10
+		Duration:	03:32:45
+		Location:	1.29761 103.88111
+
+	ADTQ1
+		Images:	8074
+		Time:	28.06.2025 07:34:20 until 28.06.2025 15:03:38
+		Duration:	07:29:18
+		Location:	1.29761 103.88111
+
+	AGIP3
+		Images:	1325
+		Time:	28.06.2025 16:38:21 until 28.06.2025 17:12:51
+		Duration:	00:34:30
+		Location:	1.29761 103.88111
+
+	AHTT4
+		Images:	5389
+		Time:	28.06.2025 10:07:53 until 28.06.2025 13:41:19
+		Duration:	03:33:26
+		Location:	1.29761 103.88111
+
+	ANNG3
+	ANTT1
+		Images:	11514
+		Time:	28.06.2025 07:55:26 until 28.06.2025 15:15:01
+		Duration:	07:19:35
+		Location:	1.29761 103.88111
+
+	BGIP1
+		Images:	994
+		Time:	28.06.2025 19:05:47 until 28.06.2025 20:02:35
+		Duration:	00:56:48
+		Location:	1.30401 103.86608
+
+	BJBR1
+		Images:	2750
+		Time:	28.06.2025 15:17:15 until 28.06.2025 21:31:50
+		Duration:	06:14:35
+		Location:	1.30401 103.86608
+
+	BJOSS1
+		Images:	1837
+		Time:	28.06.2025 15:17:03 until 28.06.2025 21:13:34
+		Duration:	05:56:31
+		Location:	1.30401 103.86608
+
+	BNNG2
+		Images:	987
+		Time:	28.06.2025 16:24:32 until 28.06.2025 19:24:56
+		Duration:	03:00:24
+		Location:	1.30401 103.86608
+
+(10) - Station 6 Farmers Carry
+	ABIC7LS1
+	AGIP3LS2
+	ANNG7LS2
+	BBIC4LS1
+		Images:	11116
+		Time:	28.06.2025 07:48:24 until 28.06.2025 20:35:29
+		Duration:	12:47:05
+		Location:	1.30401 103.86608
+
+	BGIP1LS2
+		Images:	6790
+		Time:	28.06.2025 08:27:59 until 28.06.2025 20:19:42
+		Duration:	11:51:43
+		Location:	1.30401 103.86608
+
+	BNNG2LS1
+		Images:	9878
+		Time:	28.06.2025 08:20:53 until 28.06.2025 20:25:18
+		Duration:	12:04:25
+		Location:	1.30401 103.86608
+
+(11) - Station 7 Sandbag Lunges
+	ABIC4
+	ANNG4
+		Images:	1769
+		Time:	28.06.2025 10:53:20 until 28.06.2025 14:32:51
+		Duration:	03:39:31
+		Location:	1.29761 103.88111
+
+	AVW1
+		Images:	3134
+		Time:	28.06.2025 08:49:42 until 28.06.2025 15:00:48
+		Duration:	06:11:06
+		Location:	1.29761 103.88111
+
+	BBIC3
+		Images:	729
+		Time:	28.06.2025 16:59:06 until 28.06.2025 19:50:13
+		Duration:	02:51:07
+		Location:	1.30401 103.86608
+
+	BNP1
+		Images:	13206
+		Time:	28.06.2025 15:01:23 until 28.06.2025 21:58:33
+		Duration:	06:57:10
+		Location:	1.30401 103.86608
+
+(12) - Station 8 Wall Balls
+	ABIC5
+		Images:	869
+		Time:	28.06.2025 10:50:33 until 28.06.2025 14:16:10
+		Duration:	03:25:37
+		Location:	1.29761 103.88111
+
+	AHTT5
+		Images:	3651
+		Time:	28.06.2025 10:46:01 until 28.06.2025 15:21:10
+		Duration:	04:35:09
+		Location:	1.29761 103.88111
+
+	ANNG5
+	APNQ3
+		Images:	4463
+		Time:	28.06.2025 08:54:44 until 28.06.2025 15:05:45
+		Duration:	06:11:01
+		Location:	1.29761 103.88111
+
+	ATNA1
+		Images:	4461
+		Time:	28.06.2025 07:36:32 until 28.06.2025 15:11:07
+		Duration:	07:34:35
+		Location:	1.29761 103.88111
+
+	BDTQ1
+		Images:	5356
+		Time:	28.06.2025 15:13:21 until 28.06.2025 22:21:13
+		Duration:	07:07:52
+		Location:	1.30401 103.86608
+
+	BHTT3
+		Images:	2505
+		Time:	28.06.2025 16:53:05 until 28.06.2025 19:56:45
+		Duration:	03:03:40
+		Location:	1.30401 103.86608
+
+	BNNG3
+		Images:	468
+		Time:	28.06.2025 17:08:50 until 28.06.2025 19:51:27
+		Duration:	02:42:37
+		Location:	1.30401 103.86608
+
+	BNTT1
+		Images:	5008
+		Time:	28.06.2025 15:22:03 until 28.06.2025 22:09:06
+		Duration:	06:47:03
+		Location:	1.30401 103.86608
+
+(13) - Venue
+	AGIP1
+		Images:	622
+		Time:	28.06.2025 11:49:22 until 28.06.2025 15:26:54
+		Duration:	03:37:32
+		Location:	1.29761 103.88111
+
+	AHTT2
+		Images:	328
+		Time:	28.06.2025 07:10:01 until 28.06.2025 09:20:53
+		Duration:	02:10:52
+		Location:	1.29761 103.88111
+

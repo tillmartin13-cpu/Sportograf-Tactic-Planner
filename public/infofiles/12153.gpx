@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "50.86170" lon = "5.82683"><name>MKMC1</name><desc>0,0 km Cauberg
+Images:4761
+First:13.04.2024 08:22:16
+Last:13.04.2024 18:58:54
+Duration:10:36:38
+</desc></wpt>
+<wpt lat = "50.86111" lon = "5.82351"><name>MSTL2</name><desc>0,0 km Cauberg
+Images:8349
+First:13.04.2024 11:03:34
+Last:13.04.2024 19:16:43
+Duration:08:13:09
+</desc></wpt>
+<wpt lat = "50.86166" lon = "5.82735"><name>MTID1</name><desc>0,0 km Cauberg
+Images:20822
+First:13.04.2024 08:26:26
+Last:13.04.2024 18:58:08
+Duration:10:31:42
+</desc></wpt>
+<wpt lat = "50.86166" lon = "5.82735"><name>MTID1LS1</name><desc>0,0 km Cauberg
+Images:32116
+First:13.04.2024 08:12:09
+Last:13.04.2024 18:49:51
+Duration:10:37:42
+</desc></wpt>
+<wpt lat = "50.86111" lon = "5.82351"><name>MVL2</name><desc>0,0 km Cauberg
+Images:11727
+First:13.04.2024 10:55:54
+Last:13.04.2024 19:17:22
+Duration:08:21:28
+</desc></wpt>
+<wpt lat = "50.84873" lon = "5.77041"><name>DDRI1</name><desc>105,0 km /240, 106/200, 12,4/150
+Images:12584
+First:13.04.2024 07:01:37
+Last:13.04.2024 10:06:20
+Duration:03:04:43
+</desc></wpt>
+<wpt lat = "50.84873" lon = "5.77041"><name>DDRI1LS1</name><desc>105,0 km /240, 106/200, 12,4/150
+Images:16338
+First:13.04.2024 07:05:48
+Last:13.04.2024 10:24:59
+Duration:03:19:11
+</desc></wpt>
+<wpt lat = "50.84873" lon = "5.77041"><name>DDRI1LS2</name><desc>105,0 km /240, 106/200, 12,4/150
+Images:3026
+First:13.04.2024 07:40:12
+Last:13.04.2024 10:12:08
+Duration:02:31:56
+</desc></wpt>
+<wpt lat = "50.84873" lon = "5.77041"><name>DDRI1LS3</name><desc>105,0 km /240, 106/200, 12,4/150
+Images:3413
+First:13.04.2024 07:18:43
+Last:13.04.2024 10:15:21
+Duration:02:56:38
+</desc></wpt>
+<wpt lat = "50.8487" lon = "5.92104"><name>DPV1</name><desc>105,0 km /240, 106/200, 12,4/150
+Images:19260
+First:13.04.2024 09:06:20
+Last:13.04.2024 18:57:20
+Duration:09:51:00
+</desc></wpt>
+<wpt lat = "50.84873" lon = "5.77041"><name>DSJA1</name><desc>105,0 km /240, 106/200, 12,4/150
+Images:8965
+First:13.04.2024 06:59:33
+Last:13.04.2024 12:56:34
+Duration:05:57:01
+</desc></wpt>
+<wpt lat = "50.84873" lon = "5.77041"><name>DSJA1LS1</name><desc>105,0 km 105/240, 106/200, 12,4/150
+Images:2948
+First:13.04.2025 07:46:17
+Last:13.04.2025 10:55:51
+Duration:03:09:34
+</desc></wpt>
+<wpt lat = "50.8487" lon = "5.92104"><name>DMAW1</name><desc>180,0 km /200, 81/100
+Images:12761
+First:13.04.2024 08:26:27
+Last:13.04.2024 19:05:11
+Duration:10:38:44
+</desc></wpt>
+<wpt lat = "50.8487" lon = "5.92104"><name>DMAW1DRONE1</name><desc>180,0 km /200, 81/100
+Images:69
+First:13.04.2024 12:35:08
+Last:13.04.2024 15:58:54
+Duration:03:23:46
+</desc></wpt>
+<wpt lat = "50.8487" lon = "5.92104"><name>DMAW1LS1</name><desc>180,0 km /200, 81/100
+Images:9806
+First:13.04.2024 08:06:32
+Last:13.04.2024 18:47:48
+Duration:10:41:16
+</desc></wpt>
+<wpt lat = "50.8487" lon = "5.92104"><name>DMAW1LS2</name><desc>180,0 km /200, 81/100
+Images:10208
+First:13.04.2024 08:18:22
+Last:13.04.2024 18:42:38
+Duration:10:24:16
+</desc></wpt>
+<wpt lat = "50.83085" lon = "5.92755"><name>DAPL1</name><desc>201,0 km /240, 162/200, 108/150
+Images:13380
+First:13.04.2024 09:08:12
+Last:13.04.2024 17:52:25
+Duration:08:44:13
+</desc></wpt>
+<wpt lat = "50.83085" lon = "5.92755"><name>DFLOF1</name><desc>201,0 km /240, 162/200, 108/150
+Images:7311
+First:12.04.2024 19:16:07
+Last:13.04.2024 18:50:43
+Duration:23:34:36
+</desc></wpt>
+<wpt lat = "50.84398" lon = "5.87366"><name>DDAGG1</name><desc>226,0 km /240, 187/200,133/150
+Images:7556
+First:12.04.2024 16:27:56
+Last:13.04.2024 19:08:27
+Duration:1.02:40:31
+</desc></wpt>
+<wpt lat = "50.84398" lon = "5.87366"><name>DFEF1</name><desc>226,0 km /240, 187/200,133/150
+Images:18930
+First:13.04.2024 08:27:08
+Last:13.04.2024 19:04:38
+Duration:10:37:30
+</desc></wpt>
+<wpt lat = "50.8563" lon = "5.82563"><name>DDRI2</name><desc>235,0 km /240, 196/200, 142/150, 118/125, 94/100, 65/65
+Images:28809
+First:13.04.2024 12:32:18
+Last:13.04.2024 18:34:51
+Duration:06:02:33
+</desc></wpt>
+<wpt lat = "50.8563" lon = "5.82563"><name>DDRI2DRONE1</name><desc>235,0 km /240, 196/200, 142/150, 118/125, 94/100, 65/65
+Images:8
+First:13.04.2024 07:57:05
+Last:13.04.2024 08:01:50
+Duration:00:04:45
+</desc></wpt>
+<wpt lat = "50.8563" lon = "5.82563"><name>DDRI2LS1</name><desc>235,0 km /240, 196/200, 142/150, 118/125, 94/100, 65/65
+Images:28149
+First:13.04.2024 10:45:29
+Last:13.04.2024 18:39:06
+Duration:07:53:37
+</desc></wpt>
+<wpt lat = "50.8563" lon = "5.82563"><name>DDRI2LS2</name><desc>235,0 km /240, 196/200, 142/150, 118/125, 94/100, 65/65
+Images:13967
+First:13.04.2024 11:47:27
+Last:13.04.2024 18:38:05
+Duration:06:50:38
+</desc></wpt>
+<wpt lat = "50.8563" lon = "5.82563"><name>DDRI2LS3</name><desc>235,0 km /240, 196/200, 142/150, 118/125, 94/100, 65/65
+Images:7320
+First:13.04.2024 11:54:01
+Last:13.04.2024 15:49:17
+Duration:03:55:16
+</desc></wpt>
+<wpt lat = "50.8563" lon = "5.82563"><name>DSJA2</name><desc>235,0 km /240, 196/200, 142/150, 118/125, 94/100, 65/65
+Images:22571
+First:13.04.2024 12:06:50
+Last:13.04.2024 18:38:36
+Duration:06:31:46
+</desc></wpt>
+<wpt lat = "50.8563" lon = "5.82563"><name>DSJA2LS1</name><desc>235,0 km /240, 196/200, 142/150, 118/125, 94/100, 65/65
+Images:7689
+First:13.04.2025 11:11:19
+Last:13.04.2025 18:39:00
+Duration:07:27:41
+</desc></wpt>
+<wpt lat = "50.8563" lon = "5.82563"><name>DSJA2LS2</name><desc>235,0 km /240, 196/200, 142/150, 118/125, 94/100, 65/65
+Images:5412
+First:13.04.2024 11:14:06
+Last:13.04.2024 14:15:58
+Duration:03:01:52
+</desc></wpt>
+<wpt lat = "50.76994" lon = "5.92600"><name>CD1</name><desc>74,0 km /150 ; 167km/250 - Camerig
+Images:18969
+First:13.04.2024 09:56:31
+Last:13.04.2024 15:44:58
+Duration:05:48:27
+</desc></wpt>
+<wpt lat = "50.76994" lon = "5.92600"><name>CD1LS1</name><desc>74,0 km /150 ; 167km/250 - Camerig
+Images:11650
+First:12.04.2024 22:06:14
+Last:13.04.2024 15:33:59
+Duration:17:27:45
+</desc></wpt>
+<wpt lat = "50.76994" lon = "5.92600"><name>CD1LS2</name><desc>74,0 km /150 ; 167km/250 - Camerig
+Images:12574
+First:13.04.2024 09:34:09
+Last:13.04.2024 15:44:42
+Duration:06:10:33
+</desc></wpt>
+<wpt lat = "50.77002" lon = "5.93033"><name>YT1</name><desc>74,5 km /150 ; 167,5km/250 - Camerig
+Images:18919
+First:13.04.2024 09:15:25
+Last:13.04.2024 15:45:55
+Duration:06:30:30
+</desc></wpt>
+<wpt lat = "50.77002" lon = "5.93033"><name>YT1LS1</name><desc>74,5 km /150 ; 167,5km/250 - Camerig
+Images:12126
+First:13.04.2024 09:23:38
+Last:13.04.2024 14:56:47
+Duration:05:33:09
+</desc></wpt>
+<wpt lat = "50.77002" lon = "5.93033"><name>YT1LS2</name><desc>74,5 km /150 ; 167,5km/250 - Camerig
+Images:9656
+First:13.04.2024 09:18:20
+Last:13.04.2024 15:35:14
+Duration:06:16:54
+</desc></wpt>
+<wpt lat = "50.84476" lon = "5.89462"><name>EKR1</name><desc>83,0 km /240,83/200,106/125,83/100,54/60
+Images:51829
+First:13.04.2024 07:41:39
+Last:13.04.2024 18:43:32
+Duration:11:01:53
+</desc></wpt>
+<wpt lat = "50.84476" lon = "5.89462"><name>OP1</name><desc>83,0 km /240,83/200,106/125,83/100,54/60
+Images:15389
+First:13.04.2024 08:31:18
+Last:13.04.2024 18:44:53
+Duration:10:13:35
+</desc></wpt>
+<wpt lat = "50.84476" lon = "5.89462"><name>OP1LS1</name><desc>83,0 km /240,83/200,106/125,83/100,54/60
+Images:14465
+First:13.04.2024 08:31:21
+Last:13.04.2024 18:43:35
+Duration:10:12:14
+</desc></wpt>
+<wpt lat = "50.84772" lon = "5.9007"><name>BAB1</name><desc>84,0 km /240, 84/200, 129/150, 107/125, 84/100, 55/60
+Images:34787
+First:13.04.2024 08:54:29
+Last:13.04.2024 18:19:18
+Duration:09:24:49
+</desc></wpt>
+<wpt lat = "50.84772" lon = "5.9007"><name>BAB1LS1</name><desc>84,0 km /240, 84/200, 129/150, 107/125, 84/100, 55/60
+Images:16516
+First:13.04.2024 08:26:02
+Last:13.04.2024 19:05:10
+Duration:10:39:08
+</desc></wpt>
+<wpt lat = "50.84772" lon = "5.9007"><name>BAB1LS2</name><desc>84,0 km /240, 84/200, 129/150, 107/125, 84/100, 55/60
+Images:16553
+First:13.04.2024 08:24:31
+Last:13.04.2024 18:58:50
+Duration:10:34:19
+</desc></wpt>
+<wpt lat = "50.84772" lon = "5.9007"><name>PATL1</name><desc>84,0 km /240, 84/200, 129/150, 107/125, 84/100, 55/60
+Images:25936
+First:13.04.2024 08:54:40
+Last:13.04.2024 18:24:07
+Duration:09:29:27
+</desc></wpt>
+<wpt lat = "50.85391" lon = "5.88904"><name>ACCA1</name><desc>85,0 km /240,85/200,131/150,108/125,85/100,56/60
+Images:21560
+First:13.04.2024 08:29:19
+Last:13.04.2024 18:54:30
+Duration:10:25:11
+</desc></wpt>
+<wpt lat = "50.85391" lon = "5.88904"><name>PBO1</name><desc>85,0 km /240,85/200,131/150,108/125,85/100,56/60
+Images:21188
+First:13.04.2024 05:26:20
+Last:13.04.2024 19:07:42
+Duration:13:41:22
+</desc></wpt>
+<wpt lat = "50.85247" lon = "5.88602"><name>ANR1</name><desc>86,0 km /240, 86/200, 132/150, 109/125, 86/100, 57/60
+Images:41814
+First:13.04.2024 08:29:50
+Last:13.04.2024 18:39:11
+Duration:10:09:21
+</desc></wpt>
+<wpt lat = "50.85247" lon = "5.88602"><name>NWO1</name><desc>86,0 km /240, 86/200, 132/150, 109/125, 86/100, 57/60
+Images:21923
+First:13.04.2024 08:51:55
+Last:13.04.2024 18:16:38
+Duration:09:24:43
+</desc></wpt>
+<wpt lat = "50.85247" lon = "5.88602"><name>NWO1LS1</name><desc>86,0 km /240, 86/200, 132/150, 109/125, 86/100, 57/60
+Images:19734
+First:13.04.2024 08:23:12
+Last:13.04.2024 18:17:47
+Duration:09:54:35
+</desc></wpt>
+<wpt lat = "50.85247" lon = "5.88602"><name>NWO1LS2</name><desc>86,0 km /240, 86/200, 132/150, 109/125, 86/100, 57/60
+Images:19594
+First:13.04.2024 08:41:36
+Last:13.04.2024 18:21:03
+Duration:09:39:27
+</desc></wpt>
+<wpt lat = "50.85907" lon = "5.79924"><name>MMARS2</name><desc>Ceremony
+Images:462
+First:13.04.2024 10:53:09
+Last:13.04.2024 15:52:34
+Duration:04:59:25
+</desc></wpt>
+<wpt lat = "50.85861" lon = "5.79775"><name>MGAC1</name><desc>Finish
+Images:30308
+First:13.04.2024 09:25:57
+Last:13.04.2024 18:13:34
+Duration:08:47:37
+</desc></wpt>
+<wpt lat = "50.85861" lon = "5.79775"><name>MMARS3</name><desc>Finish
+Images:9281
+First:13.04.2024 15:58:29
+Last:13.04.2024 19:01:25
+Duration:03:02:56
+</desc></wpt>
+<wpt lat = "50.85888" lon = "5.79569"><name>MNKR1</name><desc>Finish
+Images:25933
+First:13.04.2024 09:20:26
+Last:13.04.2024 19:00:59
+Duration:09:40:33
+</desc></wpt>
+<wpt lat = "50.85853" lon = "5.79787"><name>MRKA1</name><desc>Finish
+Images:11295
+First:13.04.2024 05:11:58
+Last:13.04.2024 19:01:23
+Duration:13:49:25
+</desc></wpt>
+<wpt lat = "50.85881" lon = "5.79596"><name>MMARS1</name><desc>Herotent
+Images:353
+First:13.04.2024 06:56:46
+Last:13.04.2024 09:55:54
+Duration:02:59:08
+</desc></wpt>
+<wpt lat = "50.86751" lon = "5.81924"><name>MSTL1</name><desc>Start
+Images:12670
+First:13.04.2024 06:16:56
+Last:13.04.2024 10:28:47
+Duration:04:11:51
+</desc></wpt>
+<wpt lat = "50.86751" lon = "5.81924"><name>MVL1</name><desc>Start
+Images:18129
+First:13.04.2024 06:14:51
+Last:13.04.2024 10:29:57
+Duration:04:15:06
+</desc></wpt>
+</gpx>

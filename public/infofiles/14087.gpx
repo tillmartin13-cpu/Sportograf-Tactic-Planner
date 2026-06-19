@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "45.12135" lon = "6.03241"><name>CC1</name><desc>9.0 km
+Images:516
+First:15.06.2025 08:10:44
+Last:15.06.2025 08:23:30
+Duration:00:12:46
+</desc></wpt>
+<wpt lat = "45.08568" lon = "6.03336"><name>CC2</name><desc>117.0 km
+Images:1401
+First:15.06.2025 09:28:12
+Last:15.06.2025 16:03:24
+Duration:06:35:12
+</desc></wpt>
+<wpt lat = "45.13042" lon = "6.04604"><name>DART1</name><desc>7.0 km
+Images:567
+First:15.06.2025 07:59:07
+Last:15.06.2025 08:18:01
+Duration:00:18:54
+</desc></wpt>
+<wpt lat = "45.15001" lon = "6.05067"><name>DART2</name><desc>147.0 km
+Images:2215
+First:15.06.2025 08:43:29
+Last:15.06.2025 16:32:57
+Duration:07:49:28
+</desc></wpt>
+<wpt lat = "45.15668" lon = "6.07546"><name>LAPO1</name><desc>Start
+Images:440
+First:15.06.2025 07:41:47
+Last:15.06.2025 08:14:26
+Duration:00:32:39
+</desc></wpt>
+<wpt lat = "45.15759" lon = "6.07570"><name>LAPO2</name><desc>Finish
+Images:1979
+First:15.06.2025 09:22:11
+Last:15.06.2025 16:57:03
+Duration:07:34:52
+</desc></wpt>
+</gpx>

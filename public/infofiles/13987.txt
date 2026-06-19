@@ -1,0 +1,72 @@
+EventId: 13987
+Spots: 11
+Total Images: 35681
+Time:	29.11.2025 12:46:11 to 14.12.2025 12:25:43
+Duration: 14.23:39:32
+
+(1) - 7,6 km
+	AG1
+		Images:	9659
+		Time:	14.12.2025 10:03:40 until 14.12.2025 10:57:33
+		Duration:	00:53:53
+		Location:	50.74058 6.16806
+
+	AG1DRONE1
+		Images:	32
+		Time:	29.11.2025 12:46:11 until 14.12.2025 11:23:36
+		Duration:	14.22:37:25
+		Location:	50.74058 6.16806
+
+	AG1LS1
+		Images:	1160
+		Time:	14.12.2025 09:51:14 until 14.12.2025 10:58:29
+		Duration:	01:07:15
+		Location:	50.74058 6.16806
+
+	AG1LS2
+		Images:	1286
+		Time:	14.12.2025 09:35:25 until 14.12.2025 10:57:41
+		Duration:	01:22:16
+		Location:	50.74058 6.16806
+
+(2) - Finish
+	AG2
+		Images:	384
+		Time:	14.12.2025 11:54:06 until 14.12.2025 12:14:20
+		Duration:	00:20:14
+		Location:	50.74853 6.0836
+
+	JKE1
+		Images:	8404
+		Time:	14.12.2025 08:12:39 until 14.12.2025 12:24:18
+		Duration:	04:11:39
+		Location:	50.74853 6.0836
+
+	JKE1LS1
+		Images:	1530
+		Time:	14.12.2025 07:59:59 until 14.12.2025 12:16:53
+		Duration:	04:16:54
+		Location:	50.74853 6.0836
+
+	JKE1LS2
+		Images:	1348
+		Time:	14.12.2025 07:52:35 until 14.12.2025 12:25:43
+		Duration:	04:33:08
+		Location:	50.74853 6.0836
+
+(3) - 12,7 km
+	NWO1
+		Images:	4712
+		Time:	14.12.2025 10:35:48 until 14.12.2025 12:12:33
+		Duration:	01:36:45
+		Location:	50.74257 6.11397
+
+(4) - 15,5 km
+	TKA1
+		Images:	7166
+		Time:	14.12.2025 09:59:31 until 14.12.2025 12:11:18
+		Duration:	02:11:47
+		Location:	50.74372 6.07946
+
+(5) - Impressions / Pano
+	PANO1

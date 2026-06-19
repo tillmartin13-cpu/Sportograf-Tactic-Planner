@@ -1,0 +1,35 @@
+EventId: 22272
+Spots: 5
+Total Images: 8799
+Time:	31.12.2025 10:18:54 to 31.12.2025 13:19:17
+Duration: 03:00:23
+
+(1) - Impressions / Pano
+	FGA1
+		Images:	61
+		Time:	31.12.2025 11:13:26 until 31.12.2025 11:26:54
+		Duration:	00:13:28
+		Location:	52.36258 9.73903
+
+	PANO1
+(2) - Start
+	CRI1
+		Images:	626
+		Time:	31.12.2025 10:18:54 until 31.12.2025 11:07:04
+		Duration:	00:48:10
+		Location:	52.36205 9.73568
+
+(3) - Loewenbastion
+	FGA2
+		Images:	4248
+		Time:	31.12.2025 11:57:33 until 31.12.2025 13:19:17
+		Duration:	01:21:44
+		Location:	52.34819 9.75069
+
+(4) - Finish
+	CRI2
+		Images:	3864
+		Time:	31.12.2025 11:08:40 until 31.12.2025 12:17:26
+		Duration:	01:08:46
+		Location:	52.36258 9.73903
+

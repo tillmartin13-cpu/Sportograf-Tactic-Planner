@@ -1,0 +1,146 @@
+EventId: 14495
+Spots: 22
+Total Images: 92791
+Time:	20.07.2025 09:16:05 to 20.07.2025 14:43:42
+Duration: 05:27:37
+
+(1) - Start
+	GUD1
+		Images:	129
+		Time:	20.07.2025 11:04:32 until 20.07.2025 11:17:36
+		Duration:	00:13:04
+		Location:	NULL NULL
+
+(2) - Obstacle 4 Seiltanz
+	GSA1
+		Images:	8338
+		Time:	20.07.2025 09:36:59 until 20.07.2025 13:28:49
+		Duration:	03:51:50
+		Location:	NULL NULL
+
+(3) - Obstacle 5 Schlammbecken
+	ROH1
+		Images:	11206
+		Time:	20.07.2025 09:50:16 until 20.07.2025 13:33:58
+		Duration:	03:43:42
+		Location:	NULL NULL
+
+(4) - Obstacle 6 Tauchbecken
+	CHWI1
+		Images:	3818
+		Time:	20.07.2025 09:31:36 until 20.07.2025 13:36:27
+		Duration:	04:04:51
+		Location:	NULL NULL
+
+	SBU1
+		Images:	6245
+		Time:	20.07.2025 09:51:49 until 20.07.2025 13:36:41
+		Duration:	03:44:52
+		Location:	NULL NULL
+
+(5) - Obstacle 7 Schaumparty
+	SLOM1
+		Images:	5742
+		Time:	20.07.2025 09:52:54 until 20.07.2025 13:42:04
+		Duration:	03:49:10
+		Location:	NULL NULL
+
+(6) - Laufstrecke vor Obstacle 8 Pyramide
+	DAR1LS1
+		Images:	1727
+		Time:	20.07.2025 09:41:41 until 20.07.2025 14:06:10
+		Duration:	04:24:29
+		Location:	NULL NULL
+
+	DAR1LS2
+		Images:	1103
+		Time:	20.07.2025 09:40:17 until 20.07.2025 14:06:10
+		Duration:	04:25:53
+		Location:	NULL NULL
+
+(7) - Obstacle 9 Krabbelstrecke
+	EBO1
+		Images:	11517
+		Time:	20.07.2025 09:57:27 until 20.07.2025 14:03:05
+		Duration:	04:05:38
+		Location:	NULL NULL
+
+	LSI1
+		Images:	7885
+		Time:	20.07.2025 10:00:17 until 20.07.2025 14:04:08
+		Duration:	04:03:51
+		Location:	NULL NULL
+
+(8) - Obstacle 11 Gitterbecken
+	DIA1
+		Images:	2531
+		Time:	20.07.2025 09:41:07 until 20.07.2025 14:17:30
+		Duration:	04:36:23
+		Location:	NULL NULL
+
+	JOPE1
+		Images:	3663
+		Time:	20.07.2025 10:05:46 until 20.07.2025 14:24:16
+		Duration:	04:18:30
+		Location:	NULL NULL
+
+(9) - Laufstrecke vor Obstacle 15 Containerrutsche
+	CM1LS1
+		Images:	1604
+		Time:	20.07.2025 09:18:28 until 20.07.2025 14:32:18
+		Duration:	05:13:50
+		Location:	NULL NULL
+
+(10) - Obstacle 15 Containerrutsche
+	CM1
+		Images:	7264
+		Time:	20.07.2025 10:01:13 until 20.07.2025 14:41:55
+		Duration:	04:40:42
+		Location:	NULL NULL
+
+	MUM1
+		Images:	7053
+		Time:	20.07.2025 10:16:29 until 20.07.2025 14:41:57
+		Duration:	04:25:28
+		Location:	NULL NULL
+
+(11) - Finish
+	MOIK1
+		Images:	5084
+		Time:	20.07.2025 09:16:05 until 20.07.2025 14:42:24
+		Duration:	05:26:19
+		Location:	NULL NULL
+
+	GUD1LS1
+		Images:	2499
+		Time:	20.07.2025 09:26:36 until 20.07.2025 14:42:30
+		Duration:	05:15:54
+		Location:	NULL NULL
+
+	GUD1LS2
+		Images:	2355
+		Time:	20.07.2025 09:26:36 until 20.07.2025 14:42:30
+		Duration:	05:15:54
+		Location:	NULL NULL
+
+(12) - Herotent
+	MFR1
+		Images:	1290
+		Time:	20.07.2025 09:27:08 until 20.07.2025 14:43:42
+		Duration:	05:16:34
+		Location:	NULL NULL
+
+	DAR1
+		Images:	1728
+		Time:	20.07.2025 10:24:00 until 20.07.2025 14:31:35
+		Duration:	04:07:35
+		Location:	NULL NULL
+
+(13) - Impressions / Pano
+	GUD1DRONE1
+		Images:	10
+		Time:	20.07.2025 11:32:37 until 20.07.2025 11:37:52
+		Duration:	00:05:15
+		Location:	NULL NULL
+
+	PANO1

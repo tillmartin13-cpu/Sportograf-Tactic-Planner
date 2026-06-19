@@ -1,0 +1,60 @@
+EventId: 14743
+Spots: 9
+Total Images: 41357
+Time:	05.07.2025 08:06:54 to 06.07.2025 16:06:21
+Duration: 1.07:59:27
+
+(1) - km5,2/36k+28k+11k -- km1,9/18k
+	MK1
+		Images:	9906
+		Time:	05.07.2025 09:07:04 until 06.07.2025 15:19:20
+		Duration:	1.06:12:16
+		Location:	50.13043 5.78651
+
+	MK1LS1
+		Images:	1853
+		Time:	06.07.2025 09:34:20 until 06.07.2025 15:16:08
+		Duration:	05:41:48
+		Location:	50.13076 5.78657
+
+	MK1LS2
+		Images:	1096
+		Time:	06.07.2025 10:27:24 until 06.07.2025 15:21:05
+		Duration:	04:53:41
+		Location:	50.13043 5.78651
+
+	LV1
+		Images:	7243
+		Time:	05.07.2025 08:06:54 until 06.07.2025 15:32:01
+		Duration:	1.07:25:07
+		Location:	50.12996 5.78609
+
+(2) - km5,5/36k+28k+11k -- km2,3/18k
+	DEES1
+		Images:	1180
+		Time:	06.07.2025 09:39:41 until 06.07.2025 11:06:45
+		Duration:	01:27:04
+		Location:	50.1238 5.79064
+
+(3) - kkm5,5/36k+28k+11k -- km2,3/18k
+	RM1
+		Images:	3417
+		Time:	06.07.2025 09:39:51 until 06.07.2025 11:10:53
+		Duration:	01:31:02
+		Location:	50.1234 5.7896
+
+(4) - km33,2/56 -- km24,5/28 -- km15,8/18 -- km8,8/11
+	RM2
+		Images:	13016
+		Time:	06.07.2025 11:49:38 until 06.07.2025 16:05:47
+		Duration:	04:16:09
+		Location:	50.1234 5.7896
+
+	DEES2
+		Images:	3634
+		Time:	06.07.2025 12:06:13 until 06.07.2025 16:06:21
+		Duration:	04:00:08
+		Location:	50.1238 5.79064
+
+(5) - Impressions / Pano
+	PANO1

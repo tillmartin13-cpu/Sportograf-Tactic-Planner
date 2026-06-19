@@ -1,0 +1,209 @@
+EventId: 9727
+Spots: 32
+Total Images: 343185
+Time:	16.09.2023 08:19:13 to 16.10.2023 16:36:54
+Duration: 30.08:17:41
+
+(1) - 0.5 km
+	AV1
+		Images:	8119
+		Time:	16.10.2023 08:45:08 until 16.10.2023 16:36:54
+		Duration:	07:51:46
+		Location:	59.91313 10.72728
+
+(2) - 1.4 km
+	DADA1
+		Images:	10600
+		Time:	16.09.2023 08:51:37 until 16.09.2023 16:37:01
+		Duration:	07:45:24
+		Location:	59.9119 10.71727
+
+(3) - 11,5 km
+	MANR1
+		Images:	18946
+		Time:	16.09.2023 08:58:09 until 16.09.2023 17:39:56
+		Duration:	08:41:47
+		Location:	NULL NULL
+
+	MANR1LS1
+		Images:	10983
+		Time:	16.09.2023 08:27:11 until 16.09.2023 17:40:17
+		Duration:	09:13:06
+		Location:	NULL NULL
+
+	MANR1LS2
+		Images:	2057
+		Time:	16.09.2023 08:32:54 until 16.09.2023 16:31:51
+		Duration:	07:58:57
+		Location:	NULL NULL
+
+(4) - 11.0 km
+	VG1
+		Images:	16647
+		Time:	16.09.2023 08:51:00 until 16.09.2023 17:35:00
+		Duration:	08:44:00
+		Location:	59.91180 10.70277
+
+	VG1DRONE1
+		Images:	43
+		Time:	16.09.2023 08:46:33 until 16.09.2023 16:37:06
+		Duration:	07:50:33
+		Location:	59.91180 10.70277
+
+(5) - 12.4 km
+	IVAH1
+		Images:	12896
+		Time:	16.09.2023 08:42:54 until 16.09.2023 17:50:50
+		Duration:	09:07:56
+		Location:	59.90927 10.7231
+
+(6) - 12.6 km
+	LIZ1
+		Images:	9658
+		Time:	16.09.2023 09:26:34 until 16.09.2023 17:46:45
+		Duration:	08:20:11
+		Location:	59.90838 10.7243
+
+	LIZ1LS1
+		Images:	12236
+		Time:	16.09.2023 09:18:21 until 16.09.2023 17:47:11
+		Duration:	08:28:50
+		Location:	59.90838 10.7243
+
+(7) - 12.7 km
+	PAZ2
+		Images:	24250
+		Time:	16.09.2023 09:00:43 until 16.09.2023 17:48:36
+		Duration:	08:47:53
+		Location:	59.90896 10.7256
+
+(8) - 13.2 km
+	PAZ1
+		Images:	7358
+		Time:	16.09.2023 08:56:06 until 16.09.2023 14:24:52
+		Duration:	05:28:46
+		Location:	59.91096 10.73272
+
+(9) - 14,0 km
+	FDC1
+		Images:	16868
+		Time:	16.09.2023 08:37:55 until 16.09.2023 17:58:08
+		Duration:	09:20:13
+		Location:	NULL NULL
+
+(10) - 17,0 km
+	BL1
+		Images:	21521
+		Time:	16.09.2023 09:01:09 until 16.09.2023 16:42:03
+		Duration:	07:40:54
+		Location:	NULL NULL
+
+(11) - 18,0 km
+	RENA1
+		Images:	28030
+		Time:	16.09.2023 10:25:14 until 16.09.2023 16:47:15
+		Duration:	06:22:01
+		Location:	NULL NULL
+
+(12) - 20.6 km
+	JJ2
+		Images:	98
+		Time:	16.09.2023 10:45:19 until 16.09.2023 11:11:58
+		Duration:	00:26:39
+		Location:	59.91350 10.73848
+
+(13) - 20.8 km
+	ACP1
+		Images:	9332
+		Time:	16.09.2023 14:36:42 until 16.09.2023 18:02:21
+		Duration:	03:25:39
+		Location:	59.91193 10.74101
+
+(14) - 20.9 km
+	ACP2
+		Images:	586
+		Time:	16.09.2023 17:35:07 until 16.09.2023 18:02:21
+		Duration:	00:27:14
+		Location:	59.91141 10.73954
+
+	DDT1
+		Images:	44278
+		Time:	16.09.2023 08:50:22 until 16.09.2023 18:11:10
+		Duration:	09:20:48
+		Location:	59.91141 10.73954
+
+(15) - 3,2 km
+	TASI1
+		Images:	8522
+		Time:	16.09.2023 09:12:50 until 16.09.2023 17:51:20
+		Duration:	08:38:30
+		Location:	NULL NULL
+
+(16) - 6,6 km
+	SF1
+		Images:	15318
+		Time:	16.09.2023 09:45:23 until 16.09.2023 15:07:27
+		Duration:	05:22:04
+		Location:	NULL NULL
+
+(17) - 7,2 km
+	TV1
+		Images:	9154
+		Time:	16.09.2023 09:47:40 until 16.09.2023 15:07:12
+		Duration:	05:19:32
+		Location:	NULL NULL
+
+(18) - 7,4 km
+	SBU1
+		Images:	9031
+		Time:	16.09.2023 09:46:15 until 16.09.2023 15:13:18
+		Duration:	05:27:03
+		Location:	NULL NULL
+
+	SBU1LS1
+(19) - Finish
+	EVA2
+		Images:	20894
+		Time:	16.09.2023 11:56:45 until 16.09.2023 18:14:14
+		Duration:	06:17:29
+		Location:	59.91155 10.73337
+
+	JJ3
+		Images:	9661
+		Time:	16.09.2023 11:13:34 until 16.09.2023 18:07:09
+		Duration:	06:53:35
+		Location:	59.91155 10.73337
+
+	PKE2
+		Images:	10630
+		Time:	16.09.2023 11:50:17 until 16.09.2023 18:14:45
+		Duration:	06:24:28
+		Location:	59.91155 10.73337
+
+(20) - Impressions / Pano
+	PANO1
+(21) - Start
+	EVA1
+		Images:	997
+		Time:	16.09.2023 08:59:32 until 16.09.2023 11:56:45
+		Duration:	02:57:13
+		Location:	59.91155 10.73337
+
+	JJ1
+		Images:	83
+		Time:	16.09.2023 08:19:13 until 16.09.2023 10:34:09
+		Duration:	02:14:56
+		Location:	59.91155 10.73337
+
+	PKE1
+		Images:	3365
+		Time:	16.09.2023 08:39:44 until 16.09.2023 11:49:11
+		Duration:	03:09:27
+		Location:	59.91155 10.73337
+
+	TASI2
+		Images:	1024
+		Time:	16.09.2023 16:14:35 until 16.09.2023 16:32:19
+		Duration:	00:17:44
+		Location:	NULL NULL
+

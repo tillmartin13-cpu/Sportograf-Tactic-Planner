@@ -1,0 +1,45 @@
+EventId: 15904
+Spots: 6
+Total Images: 21856
+Time:	12.04.2025 06:08:27 to 12.04.2025 18:02:39
+Duration: 11:54:12
+
+(1) - 13.1 Mile
+	ER1
+		Images:	3443
+		Time:	12.04.2025 06:08:27 until 12.04.2025 09:01:26
+		Duration:	02:52:59
+		Location:	37.14059 -113.09481
+
+	ER1LS1
+		Images:	2997
+		Time:	12.04.2025 09:28:41 until 12.04.2025 11:59:17
+		Duration:	02:30:36
+		Location:	37.14059 -113.09481
+
+(2) - Finish
+	ER2
+		Images:	1903
+		Time:	12.04.2025 10:26:13 until 12.04.2025 15:06:50
+		Duration:	04:40:37
+		Location:	37.11572 -113.10801
+
+	ER2LS1
+		Images:	1733
+		Time:	12.04.2025 13:18:38 until 12.04.2025 14:45:30
+		Duration:	01:26:52
+		Location:	37.11572 -113.10801
+
+(3) - 31.0 Mile
+	JZ1
+		Images:	2935
+		Time:	12.04.2025 06:55:00 until 12.04.2025 16:04:45
+		Duration:	09:09:45
+		Location:	37.14190 -113.17107
+
+	JZ1LS1
+		Images:	8845
+		Time:	12.04.2025 09:08:50 until 12.04.2025 18:02:39
+		Duration:	08:53:49
+		Location:	37.14190 -113.17107
+

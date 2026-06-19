@@ -1,0 +1,170 @@
+EventId: 11879
+Spots: 25
+Total Images: 157185
+Time:	01.01.2014 19:40:51 to 20.07.2024 18:11:29
+Duration: 3852.22:30:38
+
+(1) - Feldweg ins Quetschwerk
+	BNH1LS1
+		Images:	2559
+		Time:	20.07.2024 09:49:04 until 20.07.2024 18:11:29
+		Duration:	08:22:25
+		Location:	48.12345 11.71526
+
+(2) - Finish
+	AKSZ1
+		Images:	8064
+		Time:	20.07.2024 08:17:49 until 20.07.2024 18:00:42
+		Duration:	09:42:53
+		Location:	48.12224 11.71425
+
+	ANJO2LS1
+		Images:	7582
+		Time:	20.07.2024 08:54:46 until 20.07.2024 18:08:08
+		Duration:	09:13:22
+		Location:	48.12224 11.71425
+
+	ANJO2LS2
+		Images:	7477
+		Time:	20.07.2024 08:44:48 until 20.07.2024 18:08:28
+		Duration:	09:23:40
+		Location:	48.12224 11.71425
+
+(3) - Herotent
+	BNH1
+		Images:	3053
+		Time:	20.07.2024 09:58:05 until 20.07.2024 17:59:12
+		Duration:	08:01:07
+		Location:	48.12302 11.71412
+
+	BYS1
+		Images:	3391
+		Time:	20.07.2024 08:17:23 until 20.07.2024 17:59:33
+		Duration:	09:42:10
+		Location:	48.12302 11.71412
+
+(4) - Laufstrecke Kieswerk
+	BYS1LS1
+		Images:	2590
+		Time:	01.01.2014 19:40:51 until 20.07.2024 18:02:25
+		Duration:	3852.22:21:34
+		Location:	48.12314 11.71583
+
+	BYS1LS2
+		Images:	4283
+		Time:	20.07.2024 08:57:37 until 20.07.2024 18:02:25
+		Duration:	09:04:48
+		Location:	48.12314 11.71583
+
+(5) - Obstacle 10 Tauchbecken
+	AJUEF1
+		Images:	3471
+		Time:	20.07.2024 08:15:59 until 20.07.2024 17:26:29
+		Duration:	09:10:30
+		Location:	48.11911 11.71584
+
+(6) - Obstacle 11 Balance Akt
+	BPGE1
+		Images:	17655
+		Time:	20.07.2024 08:46:23 until 20.07.2024 17:39:07
+		Duration:	08:52:44
+		Location:	48.12035 11.71952
+
+(7) - Obstacle 14 Seiltanz
+	BMIKR1
+		Images:	8973
+		Time:	20.07.2024 08:47:17 until 20.07.2024 17:55:38
+		Duration:	09:08:21
+		Location:	48.12283 11.71678
+
+	BRRO1
+		Images:	8378
+		Time:	20.07.2024 09:44:19 until 20.07.2024 17:55:46
+		Duration:	08:11:27
+		Location:	48.12283 11.71678
+
+(8) - Obstacle 15 Container Rutsche
+	AAKS1
+		Images:	6498
+		Time:	20.07.2024 10:10:09 until 20.07.2024 17:58:56
+		Duration:	07:48:47
+		Location:	48.12261 11.71430
+
+(9) - Obstacle 3 Schlammbecken
+	AMJO1
+		Images:	8034
+		Time:	20.07.2024 08:47:48 until 20.07.2024 16:54:35
+		Duration:	08:06:47
+		Location:	48.12244 11.71922
+
+	ARAK1
+		Images:	7885
+		Time:	20.07.2024 09:43:51 until 20.07.2024 16:54:43
+		Duration:	07:10:52
+		Location:	48.12244 11.71922
+
+(10) - Obstacle 4 Schaumparty
+	BDASA1
+		Images:	10966
+		Time:	20.07.2024 08:54:33 until 20.07.2024 17:04:16
+		Duration:	08:09:43
+		Location:	48.11995 11.72055
+
+(11) - Obstacle 6 Krabbelstrecke
+	AIH1
+		Images:	8714
+		Time:	20.07.2024 08:17:05 until 20.07.2024 17:09:26
+		Duration:	08:52:21
+		Location:	48.11759 11.72360
+
+	AREM1
+		Images:	13651
+		Time:	20.07.2024 09:51:54 until 20.07.2024 17:11:16
+		Duration:	07:19:22
+		Location:	48.11759 11.72360
+
+(12) - Obstacle 6 Kurve nach Krabbelstrecke
+	AREM1LS1
+		Images:	1484
+		Time:	20.07.2024 09:27:54 until 20.07.2024 14:48:40
+		Duration:	05:20:46
+		Location:	48.11765 11.72355
+
+	AREM1LS2
+		Images:	1492
+		Time:	20.07.2024 09:46:03 until 20.07.2024 15:00:13
+		Duration:	05:14:10
+		Location:	48.11765 11.72355
+
+(13) - Obstacle 8 Gitterbecken
+	AEHE1
+		Images:	9449
+		Time:	20.07.2024 08:15:09 until 20.07.2024 16:15:21
+		Duration:	08:00:12
+		Location:	48.12302 11.71412
+
+	ARSJ1
+		Images:	7206
+		Time:	20.07.2024 10:01:50 until 20.07.2024 17:34:00
+		Duration:	07:32:10
+		Location:	48.12302 11.71412
+
+	ARSJ1LS1
+		Images:	3832
+		Time:	20.07.2024 10:01:53 until 20.07.2024 17:34:05
+		Duration:	07:32:12
+		Location:	48.12302 11.71412
+
+(14) - Start
+	ANJO1
+		Images:	461
+		Time:	20.07.2024 09:49:26 until 20.07.2024 13:27:21
+		Duration:	03:37:55
+		Location:	48.12357 11.71367
+
+	ANJO1DRONE1
+		Images:	37
+		Time:	20.07.2024 13:39:25 until 20.07.2024 14:43:06
+		Duration:	01:03:41
+		Location:	48.12357 11.71367
+

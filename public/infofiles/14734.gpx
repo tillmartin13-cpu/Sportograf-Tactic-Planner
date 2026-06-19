@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "46.41618" lon = "10.01371"><name>MOG1</name><desc>Start
+Images:890
+First:05.07.2025 06:04:49
+Last:05.07.2025 07:10:22
+Duration:01:05:33
+</desc></wpt>
+<wpt lat = "46.44007" lon = "10.05546"><name>EVL1</name><desc>42,0 km
+Images:1936
+First:05.07.2025 07:08:11
+Last:05.07.2025 09:58:44
+Duration:02:50:33
+</desc></wpt>
+<wpt lat = "46.44007" lon = "10.05546"><name>EVL1LS2</name><desc>42,0 km
+Images:1466
+First:05.07.2025 07:23:17
+Last:05.07.2025 09:53:07
+Duration:02:29:50
+</desc></wpt>
+<wpt lat = "46.44007" lon = "10.05546"><name>EVL1LS1</name><desc>42,0 km
+Images:855
+First:05.07.2025 07:15:06
+Last:05.07.2025 09:50:54
+Duration:02:35:48
+</desc></wpt>
+<wpt lat = "46.41618" lon = "10.01371"><name>JNK1</name><desc>50,5 km
+Images:1989
+First:05.07.2025 07:44:47
+Last:05.07.2025 10:53:05
+Duration:03:08:18
+</desc></wpt>
+<wpt lat = "46.41618" lon = "10.01371"><name>JNK1LS1</name><desc>50,5 km
+Images:1689
+First:05.07.2025 08:27:30
+Last:05.07.2025 10:48:49
+Duration:02:21:19
+</desc></wpt>
+<wpt lat = "46.45893" lon = "9.94063"><name>ROB1</name><desc>59,0 km
+Images:4042
+First:05.07.2025 07:45:08
+Last:05.07.2025 11:15:09
+Duration:03:30:01
+</desc></wpt>
+<wpt lat = "46.45893" lon = "9.94063"><name>ROB1LS1</name><desc>59,0 km
+Images:2895
+First:05.07.2025 08:27:49
+Last:05.07.2025 10:54:17
+Duration:02:26:28
+</desc></wpt>
+<wpt lat = "46.69926" lon = "10.09421"><name>MOG2</name><desc>Finish
+Images:1014
+First:05.07.2025 09:23:00
+Last:05.07.2025 12:49:11
+Duration:03:26:11
+</desc></wpt>
+<wpt lat = "46.69926" lon = "10.09421"><name>MOG2LS2</name><desc>Finish
+Images:668
+First:05.07.2025 09:27:18
+Last:05.07.2025 12:50:22
+Duration:03:23:04
+</desc></wpt>
+<wpt lat = "46.69926" lon = "10.09421"><name>MOG2LS1</name><desc>Finish
+Images:701
+First:05.07.2025 09:16:28
+Last:05.07.2025 12:50:05
+Duration:03:33:37
+</desc></wpt>
+<wpt lat = "46.41618" lon = "10.01371"><name>PANO1</name><desc>Impressions / Pano
+Images:1
+First:05.07.2025 07:45:13
+Last:05.07.2025 07:45:13
+Duration:00:00:00
+</desc></wpt>
+</gpx>

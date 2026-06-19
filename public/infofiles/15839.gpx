@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "36.81622" lon = "-111.37896"><name>CC1</name><desc>13.0 Mile (Deer Canyon)
+Images:2986
+First:07.03.2025 17:09:53
+Last:08.03.2025 08:38:18
+Duration:15:28:25
+</desc></wpt>
+<wpt lat = "36.81622" lon = "-111.37896"><name>CC1LS1</name><desc>13.0 Mile (Deer Canyon)
+Images:4563
+First:08.03.2025 08:53:32
+Last:08.03.2025 11:32:57
+Duration:02:39:25
+</desc></wpt>
+<wpt lat = "36.88274" lon = "-111.51107"><name>ER1</name><desc>Horse Shoe Bend
+Images:481
+First:08.03.2025 07:01:51
+Last:08.03.2025 12:49:10
+Duration:05:47:19
+</desc></wpt>
+<wpt lat = "36.88274" lon = "-111.51107"><name>ER1LS1</name><desc>Horse Shoe Bend
+Images:3122
+First:07.03.2024 09:57:34
+Last:07.03.2024 15:48:26
+Duration:05:50:52
+</desc></wpt>
+<wpt lat = "36.90077" lon = "-111.45995"><name>ER2</name><desc>Finish
+Images:6671
+First:08.03.2025 10:53:36
+Last:08.03.2025 16:30:42
+Duration:05:37:06
+</desc></wpt>
+<wpt lat = "36.90077" lon = "-111.45995"><name>CC2</name><desc>Finish
+Images:1231
+First:08.03.2025 11:07:39
+Last:08.03.2025 12:26:40
+Duration:01:19:01
+</desc></wpt>
+</gpx>

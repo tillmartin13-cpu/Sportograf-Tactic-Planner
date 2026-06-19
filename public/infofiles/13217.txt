@@ -1,0 +1,15 @@
+EventId: 13217
+Spots: 2
+Total Images: 4240
+Time:	29.06.2024 08:44:44 to 29.06.2024 15:32:44
+Duration: 06:48:00
+
+(1) - Impressions / Pano
+	PANO1
+(2) - none
+	SGENT2
+		Images:	4240
+		Time:	29.06.2024 08:44:44 until 29.06.2024 15:32:44
+		Duration:	06:48:00
+		Location:	NULL NULL
+

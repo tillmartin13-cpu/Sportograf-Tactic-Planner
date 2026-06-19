@@ -1,0 +1,456 @@
+EventId: 10409
+Spots: 73
+Total Images: 508366
+Time:	02.12.2023 18:16:45 to 03.12.2023 15:09:37
+Duration: 20:52:52
+
+(1) - After Finish / Medals
+	CRPR2
+		Images:	205
+		Time:	03.12.2023 09:09:36 until 03.12.2023 11:16:28
+		Duration:	02:06:52
+		Location:	1.30462 103.87444
+
+(2) - After Finish/Medals
+	BMAKO1
+		Images:	2078
+		Time:	03.12.2023 02:21:07 until 03.12.2023 12:01:02
+		Duration:	09:39:55
+		Location:	1.30458 103.87441
+
+	BRAGE1
+		Images:	3807
+		Time:	03.12.2023 03:55:52 until 03.12.2023 12:08:54
+		Duration:	08:13:02
+		Location:	1.30458 103.87441
+
+	BSUA1
+		Images:	648
+		Time:	03.12.2023 03:58:11 until 03.12.2023 12:15:02
+		Duration:	08:16:51
+		Location:	1.30458 103.87441
+
+(3) - Before Finish - 20,9/HM
+	CLNG1
+		Images:	8108
+		Time:	03.12.2023 04:28:49 until 03.12.2023 08:41:41
+		Duration:	04:12:52
+		Location:	1.30465 103.87711
+
+	CNP1
+		Images:	10798
+		Time:	03.12.2023 04:54:09 until 03.12.2023 08:48:26
+		Duration:	03:54:17
+		Location:	1.30465 103.87711
+
+(4) - Before Finish - 39,9/M
+	ARDI1
+		Images:	8157
+		Time:	03.12.2023 05:37:47 until 03.12.2023 12:12:17
+		Duration:	06:34:30
+		Location:	1.30655 103.87684
+
+	DDCL1
+		Images:	16396
+		Time:	03.12.2023 05:34:47 until 03.12.2023 12:11:12
+		Duration:	06:36:25
+		Location:	1.30655 103.87684
+
+(5) - Cecil Street - 5 km
+	DAZNH1
+		Images:	4928
+		Time:	03.12.2023 03:41:06 until 03.12.2023 05:38:20
+		Duration:	01:57:14
+		Location:	1.28164 103.84685
+
+	DMUS1
+		Images:	2562
+		Time:	03.12.2023 04:00:47 until 03.12.2023 05:27:23
+		Duration:	01:26:36
+		Location:	1.28164 103.84685
+
+	DPRAK1
+		Images:	2789
+		Time:	03.12.2023 04:02:40 until 03.12.2023 07:53:55
+		Duration:	03:51:15
+		Location:	1.28164 103.84685
+
+(6) - Finish
+	ACRI2IMP1
+		Images:	15
+		Time:	03.12.2023 07:42:34 until 03.12.2023 07:57:10
+		Duration:	00:14:36
+		Location:	1.30458 103.87441
+
+	AJERO1
+		Images:	22793
+		Time:	03.12.2023 04:59:46 until 03.12.2023 12:15:33
+		Duration:	07:15:47
+		Location:	1.30458 103.87441
+
+	APNQ1
+		Images:	25031
+		Time:	03.12.2023 04:59:48 until 03.12.2023 12:18:41
+		Duration:	07:18:53
+		Location:	1.30458 103.87441
+
+	AVMM1
+		Images:	37374
+		Time:	02.12.2023 18:16:45 until 03.12.2023 09:52:19
+		Duration:	15:35:34
+		Location:	1.30458 103.87441
+
+	CYR2
+		Images:	678
+		Time:	03.12.2023 10:23:50 until 03.12.2023 11:36:24
+		Duration:	01:12:34
+		Location:	1.30462 103.87444
+
+	DJMAO1
+		Images:	11016
+		Time:	03.12.2023 03:25:57 until 03.12.2023 12:10:50
+		Duration:	08:44:53
+		Location:	1.30458 103.87441
+
+	DOCH1
+		Images:	13547
+		Time:	03.12.2023 04:59:42 until 03.12.2023 12:15:35
+		Duration:	07:15:53
+		Location:	1.30458 103.87441
+
+	DPCT1
+		Images:	17455
+		Time:	03.12.2023 04:44:05 until 03.12.2023 12:15:36
+		Duration:	07:31:31
+		Location:	1.30458 103.87441
+
+	DPCT1LS1
+		Images:	7597
+		Time:	03.12.2023 04:29:02 until 03.12.2023 12:18:25
+		Duration:	07:49:23
+		Location:	1.30458 103.87441
+
+	DVLA1
+		Images:	6739
+		Time:	03.12.2023 04:59:47 until 03.12.2023 12:15:33
+		Duration:	07:15:46
+		Location:	1.30458 103.87441
+
+(7) - Flower Dome - 36,4/M
+	CBIC1
+		Images:	14362
+		Time:	03.12.2023 05:18:07 until 03.12.2023 11:16:35
+		Duration:	05:58:28
+		Location:	1.28516 103.86453
+
+	CBUP1
+		Images:	8372
+		Time:	03.12.2023 05:10:13 until 03.12.2023 11:16:39
+		Duration:	06:06:26
+		Location:	1.28516 103.86453
+
+(8) - Harbourfront - 9,5 km
+	DANDR1
+		Images:	4383
+		Time:	03.12.2023 04:13:39 until 03.12.2023 06:28:39
+		Duration:	02:15:00
+		Location:	1.26617 103.81674
+
+(9) - Impressions / Pano
+	PANO1
+(10) - Jubilee Bridge - 16,3/HM
+	ARYH2
+		Images:	3331
+		Time:	03.12.2023 04:58:10 until 03.12.2023 07:49:49
+		Duration:	02:51:39
+		Location:	1.28804 103.85417
+
+	ARYT2
+		Images:	3291
+		Time:	03.12.2023 05:17:35 until 03.12.2023 07:51:46
+		Duration:	02:34:11
+		Location:	1.28804 103.85417
+
+	AYH2
+		Images:	2831
+		Time:	03.12.2023 03:27:19 until 03.12.2023 05:57:55
+		Duration:	02:30:36
+		Location:	1.28804 103.85417
+
+	AYH3
+		Images:	1593
+		Time:	03.12.2023 05:58:00 until 03.12.2023 07:49:45
+		Duration:	01:51:45
+		Location:	1.28804 103.85417
+
+(11) - Jubilee Bridge - 4,1 km
+	ARYH1
+		Images:	4358
+		Time:	03.12.2023 03:57:21 until 03.12.2023 04:58:03
+		Duration:	01:00:42
+		Location:	1.28804 103.85417
+
+	ARYT1
+		Images:	4000
+		Time:	03.12.2023 03:41:11 until 03.12.2023 05:17:35
+		Duration:	01:36:24
+		Location:	1.28804 103.85417
+
+	AYH1
+		Images:	2510
+		Time:	03.12.2023 04:18:25 until 03.12.2023 05:03:39
+		Duration:	00:45:14
+		Location:	1.28804 103.85417
+
+(12) - Marina Blvd (MBFC Towers) - 14,7 km
+	CALN1
+		Images:	9377
+		Time:	03.12.2023 03:33:17 until 03.12.2023 07:38:19
+		Duration:	04:05:02
+		Location:	1.28193 103.85273
+
+	CALN1LS1
+		Images:	7806
+		Time:	03.12.2023 04:29:27 until 03.12.2023 07:17:51
+		Duration:	02:48:24
+		Location:	1.28193 103.85273
+
+(13) - Marina Blvd (Momentum) - 14,4 km
+	CWIG1
+		Images:	6411
+		Time:	03.12.2023 04:06:46 until 03.12.2023 07:23:43
+		Duration:	03:16:57
+		Location:	1.28206 103.85224
+
+	DJBA1
+		Images:	3594
+		Time:	03.12.2023 03:30:45 until 03.12.2023 06:00:43
+		Duration:	02:29:58
+		Location:	1.28204 103.85215
+
+	DJBA1LS1
+		Images:	6951
+		Time:	03.12.2023 05:00:53 until 03.12.2023 07:02:01
+		Duration:	02:01:08
+		Location:	1.28204 103.85215
+
+	DJBA2
+		Images:	3704
+		Time:	03.12.2023 06:00:47 until 03.12.2023 08:55:11
+		Duration:	02:54:24
+		Location:	1.28204 103.85215
+
+	DJBA2LS1
+(14) - Marina East - 24,4/M
+	CIHM1
+		Images:	14526
+		Time:	03.12.2023 04:40:27 until 03.12.2023 10:53:52
+		Duration:	06:13:25
+		Location:	1.28659 103.87011
+
+	CLMD1
+		Images:	10957
+		Time:	03.12.2023 04:40:39 until 03.12.2023 10:53:51
+		Duration:	06:13:12
+		Location:	1.28659 103.87011
+
+(15) - Merdeka Bridge - 18.5/HM - 40.5/M
+	BHTT1
+		Images:	29631
+		Time:	03.12.2023 03:56:21 until 03.12.2023 12:53:29
+		Duration:	08:57:08
+		Location:	1.30443 103.86626
+
+	BLDB1
+		Images:	19971
+		Time:	03.12.2023 03:54:14 until 03.12.2023 11:17:36
+		Duration:	07:23:22
+		Location:	1.30443 103.86626
+
+	BMVV2
+		Images:	17081
+		Time:	03.12.2023 05:42:01 until 03.12.2023 12:51:58
+		Duration:	07:09:57
+		Location:	1.30443 103.86626
+
+(16) - Nicoll Highway MRT - 19/HM
+	BGIP2
+		Images:	6218
+		Time:	03.12.2023 05:13:11 until 03.12.2023 07:24:17
+		Duration:	02:11:06
+		Location:	1.30070 103.86062
+
+	BGIP2LS1
+		Images:	2473
+		Time:	03.12.2023 06:17:17 until 03.12.2023 07:55:29
+		Duration:	01:38:12
+		Location:	1.30070 103.86062
+
+	BGIP2LS2
+		Images:	2130
+		Time:	03.12.2023 06:17:17 until 03.12.2023 07:30:04
+		Duration:	01:12:47
+		Location:	1.30070 103.86062
+
+	BNNG2
+		Images:	7855
+		Time:	03.12.2023 05:35:35 until 03.12.2023 08:03:55
+		Duration:	02:28:20
+		Location:	1.30070 103.86062
+
+	BNTA2
+		Images:	8847
+		Time:	03.12.2023 05:51:43 until 03.12.2023 09:48:13
+		Duration:	03:56:30
+		Location:	1.30070 103.86062
+
+	BNTA2LS1
+		Images:	997
+		Time:	03.12.2023 05:22:33 until 03.12.2023 06:24:43
+		Duration:	01:02:10
+		Location:	1.30070 103.86062
+
+	BNTT2
+		Images:	4445
+		Time:	03.12.2023 04:53:52 until 03.12.2023 07:53:00
+		Duration:	02:59:08
+		Location:	1.30070 103.86062
+
+(17) - Nicoll Highway MRT - 40.8/M
+	BGIP3
+		Images:	5083
+		Time:	03.12.2023 08:11:51 until 03.12.2023 10:54:10
+		Duration:	02:42:19
+		Location:	1.30066 103.86365
+
+	BGIP3LS1
+		Images:	2898
+		Time:	03.12.2023 07:57:33 until 03.12.2023 11:10:41
+		Duration:	03:13:08
+		Location:	1.30066 103.86365
+
+	BGIP3LS2
+		Images:	3241
+		Time:	03.12.2023 07:32:27 until 03.12.2023 11:10:41
+		Duration:	03:38:14
+		Location:	1.30066 103.86365
+
+	BNNG3
+		Images:	4210
+		Time:	03.12.2023 08:38:12 until 03.12.2023 11:14:18
+		Duration:	02:36:06
+		Location:	1.30066 103.86365
+
+	BNTA3
+		Images:	3042
+		Time:	03.12.2023 09:48:13 until 03.12.2023 11:18:04
+		Duration:	01:29:51
+		Location:	1.30066 103.86365
+
+	BNTA3LS1
+		Images:	4000
+		Time:	03.12.2023 06:24:44 until 03.12.2023 09:54:44
+		Duration:	03:30:00
+		Location:	1.30066 103.86365
+
+	BNTA3LS2
+		Images:	1304
+		Time:	03.12.2023 09:54:46 until 03.12.2023 11:21:17
+		Duration:	01:26:31
+		Location:	1.30066 103.86365
+
+	BNTT3
+		Images:	10156
+		Time:	03.12.2023 07:53:10 until 03.12.2023 11:02:19
+		Duration:	03:09:09
+		Location:	1.30066 103.86365
+
+(18) - Republic Ave (Underpass) - 1.5/HM - 1.5/M
+	BGIP1
+		Images:	3405
+		Time:	03.12.2023 03:53:30 until 03.12.2023 04:44:17
+		Duration:	00:50:47
+		Location:	1.30427 103.86603
+
+	BMVV1
+		Images:	3046
+		Time:	03.12.2023 03:48:33 until 03.12.2023 04:53:34
+		Duration:	01:05:01
+		Location:	1.30427 103.86603
+
+	BNNG1
+		Images:	4335
+		Time:	03.12.2023 03:43:04 until 03.12.2023 05:34:16
+		Duration:	01:51:12
+		Location:	1.30427 103.86603
+
+	BNNG1LS1
+		Images:	2152
+		Time:	03.12.2023 03:35:22 until 03.12.2023 04:47:58
+		Duration:	01:12:36
+		Location:	1.30427 103.86603
+
+	BNTA1
+		Images:	3663
+		Time:	03.12.2023 03:57:04 until 03.12.2023 05:51:37
+		Duration:	01:54:33
+		Location:	1.30427 103.86603
+
+	BNTT1
+		Images:	1535
+		Time:	03.12.2023 03:54:59 until 03.12.2023 04:43:03
+		Duration:	00:48:04
+		Location:	1.30427 103.86603
+
+(19) - Robinson Rd - 14,1 km
+	CTAP1
+		Images:	7183
+		Time:	03.12.2023 05:08:05 until 03.12.2023 15:09:37
+		Duration:	10:01:32
+		Location:	1.28151 103.85053
+
+	CTDK1
+		Images:	2785
+		Time:	03.12.2023 04:15:58 until 03.12.2023 07:12:24
+		Duration:	02:56:26
+		Location:	1.28151 103.85053
+
+	DCSB1
+		Images:	7302
+		Time:	03.12.2023 03:57:11 until 03.12.2023 07:39:33
+		Duration:	03:42:22
+		Location:	1.28119 103.84785
+
+(20) - Stadium Blvd - 20,6/HM
+	CARM1
+		Images:	3384
+		Time:	03.12.2023 04:57:52 until 03.12.2023 08:29:25
+		Duration:	03:31:33
+		Location:	1.30463 103.87898
+
+	CPEH1
+		Images:	5880
+		Time:	03.12.2023 04:57:51 until 03.12.2023 08:36:34
+		Duration:	03:38:43
+		Location:	1.30463 103.87898
+
+(21) - Stadium Drive - 32,1/M
+	CRPR1
+		Images:	7067
+		Time:	02.12.2023 19:44:06 until 03.12.2023 10:12:47
+		Duration:	14:28:41
+		Location:	1.30642 103.87476
+
+	CYR1
+		Images:	7873
+		Time:	03.12.2023 04:53:49 until 03.12.2023 10:12:22
+		Duration:	05:18:33
+		Location:	1.30642 103.87476
+
+(22) - Start
+	ACRI1IMP1
+		Images:	96
+		Time:	03.12.2023 03:03:20 until 03.12.2023 03:51:28
+		Duration:	00:48:08
+		Location:	1.29275 103.86401
+

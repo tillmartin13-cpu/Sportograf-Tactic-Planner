@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "36.85771" lon = "31.00417"><name>COR1</name><desc>Swim - Start
+Images:1927
+First:02.11.2025 06:05:53
+Last:02.11.2025 07:39:29
+Duration:01:33:36
+</desc></wpt>
+<wpt lat = "36.85771" lon = "31.00519"><name>DAR1</name><desc>Swim - Exit
+Images:4367
+First:02.11.2025 06:12:32
+Last:02.11.2025 08:45:43
+Duration:02:33:11
+</desc></wpt>
+<wpt lat = "36.85771" lon = "31.00519"><name>DAR1LS1</name><desc>Swim - Exit
+Images:2069
+First:02.11.2025 06:23:53
+Last:02.11.2025 08:46:53
+Duration:02:23:00
+</desc></wpt>
+<wpt lat = "36.85776" lon = "31.00521"><name>REM1</name><desc>Swim - Exit
+Images:3693
+First:02.11.2025 06:36:11
+Last:02.11.2025 08:45:40
+Duration:02:09:29
+</desc></wpt>
+<wpt lat = "36.85776" lon = "31.00521"><name>REM1LS1</name><desc>Swim - Exit
+Images:1413
+First:02.11.2025 07:13:49
+Last:02.11.2025 08:46:52
+Duration:01:33:03
+</desc></wpt>
+<wpt lat = "36.87591" lon = "30.96969"><name>ROH1</name><desc>Bike - 14,4 km / 49,2 km
+Images:4221
+First:02.11.2025 06:08:14
+Last:02.11.2025 09:10:05
+Duration:03:01:51
+</desc></wpt>
+<wpt lat = "36.87591" lon = "30.96969"><name>ROH1LS1</name><desc>Bike - 14,4 km / 49,2 km
+Images:1547
+First:02.11.2025 06:54:32
+Last:02.11.2025 09:05:18
+Duration:02:10:46
+</desc></wpt>
+<wpt lat = "36.87591" lon = "30.96969"><name>ROH1LS2</name><desc>Bike - 14,4 km / 49,2 km
+Images:1942
+First:02.11.2025 06:54:48
+Last:02.11.2025 09:12:04
+Duration:02:17:16
+</desc></wpt>
+<wpt lat = "36.87695" lon = "30.96173"><name>SBU1</name><desc>Bike - 15,2 km / 50,0 km
+Images:5666
+First:02.11.2025 07:05:08
+Last:02.11.2025 10:32:21
+Duration:03:27:13
+</desc></wpt>
+<wpt lat = "36.87695" lon = "30.96173"><name>SBU1LS1</name><desc>Bike - 15,2 km / 50,0 km
+Images:2808
+First:02.11.2025 07:49:32
+Last:02.11.2025 09:51:54
+Duration:02:02:22
+</desc></wpt>
+<wpt lat = "36.95105" lon = "30.87946"><name>GUD1</name><desc>Bike - 31,1 km / 68,1 km
+Images:8173
+First:02.11.2025 06:48:37
+Last:02.11.2025 12:16:59
+Duration:05:28:22
+</desc></wpt>
+<wpt lat = "36.95105" lon = "30.87946"><name>GUD1LS1</name><desc>Bike - 31,1 km / 68,1 km
+Images:2536
+First:02.11.2025 06:58:48
+Last:02.11.2025 12:16:59
+Duration:05:18:11
+</desc></wpt>
+<wpt lat = "36.95105" lon = "30.87946"><name>GUD1LS2</name><desc>Bike - 31,1 km / 68,1 km
+Images:2251
+First:02.11.2025 06:58:48
+Last:02.11.2025 12:16:59
+Duration:05:18:11
+</desc></wpt>
+<wpt lat = "36.87695" lon = "30.96173"><name>SBU2</name><desc>Bike - 52,2 km / 85,6 km
+Images:1132
+First:02.11.2025 10:35:04
+Last:02.11.2025 12:37:32
+Duration:02:02:28
+</desc></wpt>
+<wpt lat = "36.87695" lon = "30.96173"><name>SBU2LS1</name><desc>Bike - 52,2 km / 85,6 km
+Images:355
+First:02.11.2025 10:54:09
+Last:02.11.2025 12:20:53
+Duration:01:26:44
+</desc></wpt>
+<wpt lat = "36.87591" lon = "30.96969"><name>ROH2</name><desc>Bike - 53,0 km / 86,4 km
+Images:6069
+First:02.11.2025 09:10:58
+Last:02.11.2025 12:46:25
+Duration:03:35:27
+</desc></wpt>
+<wpt lat = "36.87591" lon = "30.96969"><name>ROH2LS1</name><desc>Bike - 53,0 km / 86,4 km
+Images:2227
+First:02.11.2025 09:06:08
+Last:02.11.2025 12:23:02
+Duration:03:16:54
+</desc></wpt>
+<wpt lat = "36.87591" lon = "30.96969"><name>ROH2LS2</name><desc>Bike - 53,0 km / 86,4 km
+Images:2850
+First:02.11.2025 09:13:10
+Last:02.11.2025 12:26:59
+Duration:03:13:49
+</desc></wpt>
+<wpt lat = "36.87445" lon = "31.00414"><name>COR2</name><desc>Run - 0,5 km / 7,2 km / 14,0 km / 20,6 km
+Images:8562
+First:02.11.2025 09:38:40
+Last:02.11.2025 15:00:49
+Duration:05:22:09
+</desc></wpt>
+<wpt lat = "36.87445" lon = "31.00414"><name>COR2LS1</name><desc>Run - 0,5 km / 7,2 km / 14,0 km / 20,6 km
+Images:3137
+First:02.11.2025 10:10:15
+Last:02.11.2025 14:38:12
+Duration:04:27:57
+</desc></wpt>
+<wpt lat = "36.87545" lon = "31.00580"><name>GUD2</name><desc>Run - 6,3 km / 13,1 km / 19,7 km
+Images:1385
+First:02.11.2025 13:38:12
+Last:02.11.2025 15:00:55
+Duration:01:22:43
+</desc></wpt>
+<wpt lat = "36.87545" lon = "31.00580"><name>ROH3</name><desc>Run - 6,3 km / 13,1 km / 19,7 km
+Images:927
+First:02.11.2025 13:36:31
+Last:02.11.2025 14:58:38
+Duration:01:22:07
+</desc></wpt>
+<wpt lat = "36.87825" lon = "31.00355"><name>DAR2</name><desc>Finish
+Images:10115
+First:02.11.2025 10:14:01
+Last:02.11.2025 16:00:04
+Duration:05:46:03
+</desc></wpt>
+<wpt lat = "36.87825" lon = "31.00355"><name>DAR2LS1</name><desc>Finish
+Images:1586
+First:02.11.2025 10:32:24
+Last:02.11.2025 16:00:41
+Duration:05:28:17
+</desc></wpt>
+<wpt lat = "36.87830" lon = "31.00351"><name>REM2</name><desc>Finish
+Images:5537
+First:02.11.2025 10:48:29
+Last:02.11.2025 15:41:36
+Duration:04:53:07
+</desc></wpt>
+<wpt lat = "36.87830" lon = "31.00351"><name>REM2LS1</name><desc>Finish
+Images:1739
+First:02.11.2025 10:33:34
+Last:02.11.2025 16:00:50
+Duration:05:27:16
+</desc></wpt>
+</gpx>

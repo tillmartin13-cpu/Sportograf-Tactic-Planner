@@ -1,0 +1,332 @@
+EventId: 9530
+Spots: 52
+Total Images: 487267
+Time:	01.01.0001 23:00:00 to 20.08.2023 14:04:23
+Duration: 738750.15:04:23
+
+(1) - Elbtreppen
+	ALN1
+		Images:	23264
+		Time:	20.08.2023 08:44:38 until 20.08.2023 13:38:24
+		Duration:	04:53:46
+		Location:	53.54731 9.86266
+
+	ALN1LS1
+		Images:	5976
+		Time:	20.08.2023 08:25:47 until 20.08.2023 13:10:38
+		Duration:	04:44:51
+		Location:	53.54731 9.86266
+
+	ALN1LS2
+		Images:	8474
+		Time:	20.08.2023 08:33:48 until 20.08.2023 13:12:21
+		Duration:	04:38:33
+		Location:	53.54731 9.86266
+
+	ALN2
+	ALN2LS1
+		Images:	8107
+		Time:	20.08.2023 08:27:48 until 20.08.2023 13:15:22
+		Duration:	04:47:34
+		Location:	53.54738 9.86264
+
+	ALN2LS2
+		Images:	8367
+		Time:	20.08.2023 08:20:51 until 20.08.2023 13:13:24
+		Duration:	04:52:33
+		Location:	53.54738 9.86264
+
+	THL1
+		Images:	33593
+		Time:	20.08.2023 08:38:36 until 20.08.2023 13:17:28
+		Duration:	04:38:52
+		Location:	53.54763 9.86178
+
+	THL1LS1
+		Images:	8461
+		Time:	20.08.2023 08:25:21 until 20.08.2023 13:14:17
+		Duration:	04:48:56
+		Location:	53.54763 9.86178
+
+	THL1LS2
+		Images:	5486
+		Time:	20.08.2023 08:21:07 until 20.08.2023 13:21:36
+		Duration:	05:00:29
+		Location:	53.54763 9.86178
+
+(2) - Finish
+	MNO2
+		Images:	21756
+		Time:	20.08.2023 07:46:37 until 20.08.2023 13:57:26
+		Duration:	06:10:49
+		Location:	53.5511 10.00056
+
+	SEN1
+		Images:	14707
+		Time:	20.08.2023 08:53:15 until 20.08.2023 13:57:58
+		Duration:	05:04:43
+		Location:	53.5511 10.00056
+
+	THM2
+		Images:	7728
+		Time:	20.08.2023 08:45:31 until 20.08.2023 13:57:48
+		Duration:	05:12:17
+		Location:	53.5511 10.00056
+
+(3) - Impressions / Pano
+	PANO1
+		Images:	112
+		Time:	20.08.2023 06:19:56 until 20.08.2023 13:12:38
+		Duration:	06:52:42
+		Location:	NULL NULL
+
+	TOG1DRONE2
+		Images:	4
+		Time:	19.08.2023 10:49:36 until 19.08.2023 10:51:53
+		Duration:	00:02:17
+		Location:	53.78149 9.75742
+
+(4) - Kösterberg Abfahrt
+	NKR1
+		Images:	8805
+		Time:	20.08.2023 08:30:24 until 20.08.2023 13:13:11
+		Duration:	04:42:47
+		Location:	53.56715 9.77847
+
+	ST1
+		Images:	14251
+		Time:	20.08.2023 08:13:39 until 20.08.2023 13:14:30
+		Duration:	05:00:51
+		Location:	53.56702 9.77852
+
+	ST1LS1
+		Images:	6634
+		Time:	20.08.2023 07:53:51 until 20.08.2023 12:49:44
+		Duration:	04:55:53
+		Location:	53.56702 9.77852
+
+	ST1LS2
+		Images:	6323
+		Time:	20.08.2023 08:21:36 until 20.08.2023 12:49:54
+		Duration:	04:28:18
+		Location:	53.56702 9.77852
+
+(5) - Kösterberg Anstieg
+	MOKU1
+		Images:	6896
+		Time:	20.08.2023 08:04:45 until 20.08.2023 13:15:57
+		Duration:	05:11:12
+		Location:	53.56969 9.76520
+
+	MSC1
+		Images:	8211
+		Time:	20.08.2023 08:06:28 until 20.08.2023 13:16:13
+		Duration:	05:09:45
+		Location:	53.56969 9.76520
+
+(6) - Kreisverkehr Rantzauer See
+	NWO1
+		Images:	5838
+		Time:	20.08.2023 09:46:00 until 20.08.2023 11:39:36
+		Duration:	01:53:36
+		Location:	53.78149 9.75742
+
+	NWO1LS1
+		Images:	3235
+		Time:	20.08.2023 09:26:01 until 20.08.2023 11:51:54
+		Duration:	02:25:53
+		Location:	53.78149 9.75742
+
+	NWO1LS2
+		Images:	3238
+		Time:	20.08.2023 09:20:37 until 20.08.2023 11:47:27
+		Duration:	02:26:50
+		Location:	53.78149 9.75742
+
+	TOG1
+		Images:	10611
+		Time:	20.08.2023 09:14:36 until 20.08.2023 11:39:30
+		Duration:	02:24:54
+		Location:	53.78149 9.75742
+
+	TOG1LS1
+		Images:	2601
+		Time:	20.08.2023 08:53:30 until 20.08.2023 11:56:58
+		Duration:	03:03:28
+		Location:	53.78149 9.75742
+
+	TOG1LS2
+		Images:	2813
+		Time:	20.08.2023 09:05:34 until 20.08.2023 11:56:51
+		Duration:	02:51:17
+		Location:	53.78149 9.75742
+
+(7) - Millerntorplatz
+	DAGG1
+		Images:	9848
+		Time:	20.08.2023 08:18:19 until 20.08.2023 13:40:51
+		Duration:	05:22:32
+		Location:	53.5501 9.97028
+
+	PF1
+		Images:	13699
+		Time:	20.08.2023 08:16:15 until 20.08.2023 13:37:04
+		Duration:	05:20:49
+		Location:	53.5501 9.97028
+
+(8) - Moenckebergstrasse
+	MELS2
+		Images:	11349
+		Time:	20.08.2023 08:44:33 until 20.08.2023 13:57:08
+		Duration:	05:12:35
+		Location:	53.55075 9.99825
+
+(9) - Mönkebergstrasse
+	JKOR2
+		Images:	24256
+		Time:	20.08.2023 08:42:46 until 20.08.2023 13:57:25
+		Duration:	05:14:39
+		Location:	53.55075 9.99825
+
+(10) - Pinneberger Landstraße
+	ANR1
+		Images:	5319
+		Time:	20.08.2023 09:37:50 until 20.08.2023 11:42:59
+		Duration:	02:05:09
+		Location:	53.77222 9.76723
+
+	OP1
+		Images:	8998
+		Time:	20.08.2023 09:45:59 until 20.08.2023 11:46:51
+		Duration:	02:00:52
+		Location:	53.77365 9.76563
+
+	OP1LS1
+		Images:	1544
+		Time:	20.08.2023 09:28:22 until 20.08.2023 11:49:14
+		Duration:	02:20:52
+		Location:	53.77365 9.76563
+
+(11) - Rathaus
+	JONL2
+		Images:	12196
+		Time:	20.08.2023 08:50:40 until 20.08.2023 13:35:16
+		Duration:	04:44:36
+		Location:	53.55047 9.99485
+
+	NF2
+		Images:	2509
+		Time:	20.08.2023 12:02:45 until 20.08.2023 13:45:43
+		Duration:	01:42:58
+		Location:	53.55047 9.99485
+
+(12) - Rödingsmarkt
+	ZHU1
+		Images:	9788
+		Time:	20.08.2023 08:43:00 until 20.08.2023 13:55:41
+		Duration:	05:12:41
+		Location:	53.54855 9.98771
+
+(13) - Roedingsmarkt
+	TRUP1
+		Images:	26350
+		Time:	20.08.2023 06:19:56 until 20.08.2023 13:55:45
+		Duration:	07:35:49
+		Location:	53.54855 9.98771
+
+(14) - Schlump
+	JONL1
+		Images:	2931
+		Time:	20.08.2023 07:32:28 until 20.08.2023 08:06:25
+		Duration:	00:33:57
+		Location:	53.56771 9.97019
+
+	NF1
+		Images:	8215
+		Time:	20.08.2023 07:35:31 until 20.08.2023 12:01:34
+		Duration:	04:26:03
+		Location:	53.56771 9.97019
+
+	SEN2
+		Images:	2104
+		Time:	20.08.2023 07:32:23 until 20.08.2023 08:06:06
+		Duration:	00:33:43
+		Location:	53.56771 9.97019
+
+	THM1
+		Images:	1507
+		Time:	20.08.2023 07:32:14 until 20.08.2023 08:06:06
+		Duration:	00:33:52
+		Location:	53.56771 9.97019
+
+(15) - Stadthausbruecke
+	DWE1
+		Images:	10638
+		Time:	20.08.2023 08:24:06 until 20.08.2023 13:46:57
+		Duration:	05:22:51
+		Location:	53.54952 9.98627
+
+(16) - Stadthausbrueecke
+	MAR1
+		Images:	10855
+		Time:	20.08.2023 08:31:19 until 20.08.2023 11:45:08
+		Duration:	03:13:49
+		Location:	53.54952 9.98627
+
+(17) - Start
+	BK1
+		Images:	2500
+		Time:	20.08.2023 07:32:48 until 20.08.2023 11:07:33
+		Duration:	03:34:45
+		Location:	53.55860 9.99504
+
+	JKOR1
+		Images:	1040
+		Time:	20.08.2023 06:59:14 until 20.08.2023 07:46:51
+		Duration:	00:47:37
+		Location:	53.55067 9.99460
+
+	MELS1
+		Images:	1516
+		Time:	20.08.2023 06:58:39 until 20.08.2023 08:08:05
+		Duration:	01:09:26
+		Location:	53.55067 9.99460
+
+	MNO1
+		Images:	3860
+		Time:	20.08.2023 07:29:56 until 20.08.2023 08:02:25
+		Duration:	00:32:29
+		Location:	53.55067 9.99460
+
+	SZ1
+		Images:	3499
+		Time:	01.01.0001 23:00:00 until 20.08.2023 09:46:52
+		Duration:	738750.10:46:52
+		Location:	53.55860 9.99504
+
+(18) - Teufelsbrück
+	MBEN1
+		Images:	29664
+		Time:	20.08.2023 08:21:46 until 20.08.2023 14:04:23
+		Duration:	05:42:37
+		Location:	53.54794 9.86767
+
+	OT1
+		Images:	29120
+		Time:	20.08.2023 06:15:45 until 20.08.2023 13:33:33
+		Duration:	07:17:48
+		Location:	53.54794 9.86767
+
+(19) - Wedel Hafen
+	GAC1
+		Images:	16311
+		Time:	20.08.2023 08:24:13 until 20.08.2023 13:07:46
+		Duration:	04:43:33
+		Location:	53.56901 9.70201
+
+	MW1
+		Images:	12160
+		Time:	20.08.2023 08:24:06 until 20.08.2023 13:02:51
+		Duration:	04:38:45
+		Location:	53.56925 9.70176
+

@@ -1,0 +1,281 @@
+EventId: 12032
+Spots: 45
+Total Images: 484388
+Time:	01.09.2024 06:37:50 to 01.09.2024 14:36:15
+Duration: 07:58:25
+
+(1) - 100m before Finish
+	BSHP1
+		Images:	17890
+		Time:	01.09.2024 07:47:14 until 01.09.2024 14:30:44
+		Duration:	06:43:30
+		Location:	51.48237 -0.00991
+
+	BSHP1LS1
+		Images:	4899
+		Time:	01.09.2024 08:09:57 until 01.09.2024 13:53:13
+		Duration:	05:43:16
+		Location:	51.48237 -0.00991
+
+(2) - Canary Wharf - Km 5.5
+	AAH1
+		Images:	12846
+		Time:	01.09.2024 08:37:31 until 01.09.2024 11:11:32
+		Duration:	02:34:01
+		Location:	51.50476 -0.01704
+
+	AGF1
+		Images:	6700
+		Time:	01.09.2024 08:16:47 until 01.09.2024 11:18:04
+		Duration:	03:01:17
+		Location:	51.50476 -0.01704
+
+(3) - Church St - Km 21.1
+	ACMS1
+		Images:	14639
+		Time:	01.09.2024 08:42:38 until 01.09.2024 14:06:10
+		Duration:	05:23:32
+		Location:	51.48179 -0.01002
+
+	ACMS1LS1
+		Images:	5628
+		Time:	01.09.2024 08:42:13 until 01.09.2024 12:52:33
+		Duration:	04:10:20
+		Location:	51.48179 -0.01002
+
+	AWIN1
+		Images:	21530
+		Time:	01.09.2024 09:06:37 until 01.09.2024 14:25:31
+		Duration:	05:18:54
+		Location:	51.48179 -0.01002
+
+	AWIN1LS1
+		Images:	7547
+		Time:	01.09.2024 09:39:45 until 01.09.2024 13:52:28
+		Duration:	04:12:43
+		Location:	51.48179 -0.01002
+
+(4) - Finish
+	AAH2
+		Images:	2185
+		Time:	01.09.2024 12:42:44 until 01.09.2024 13:31:00
+		Duration:	00:48:16
+		Location:	51.48273 -0.00986
+
+	AGF2
+		Images:	1306
+		Time:	01.09.2024 12:44:06 until 01.09.2024 13:31:13
+		Duration:	00:47:07
+		Location:	51.48273 -0.00986
+
+	AGU1
+		Images:	14617
+		Time:	01.09.2024 06:48:02 until 01.09.2024 14:31:05
+		Duration:	07:43:03
+		Location:	51.48273 -0.00986
+
+	APARO1
+		Images:	10344
+		Time:	01.09.2024 09:39:14 until 01.09.2024 12:44:07
+		Duration:	03:04:53
+		Location:	51.48273 -0.00986
+
+	APARO1LS1
+		Images:	12788
+		Time:	01.09.2024 07:44:02 until 01.09.2024 13:51:54
+		Duration:	06:07:52
+		Location:	51.48273 -0.00986
+
+	APARO1LS2
+		Images:	13692
+		Time:	01.09.2024 07:45:39 until 01.09.2024 13:55:13
+		Duration:	06:09:34
+		Location:	51.48273 -0.00986
+
+	APARO1LS3
+		Images:	15459
+		Time:	01.09.2024 09:37:09 until 01.09.2024 14:08:36
+		Duration:	04:31:27
+		Location:	51.48273 -0.00986
+
+	ASHAK2
+		Images:	56
+		Time:	01.09.2024 13:55:02 until 01.09.2024 14:31:29
+		Duration:	00:36:27
+		Location:	51.48273 -0.00986
+
+	ASTEM2
+		Images:	117
+		Time:	01.09.2024 13:54:53 until 01.09.2024 14:24:35
+		Duration:	00:29:42
+		Location:	51.48273 -0.00986
+
+	BJOEM1
+		Images:	12655
+		Time:	01.09.2024 09:12:35 until 01.09.2024 14:31:01
+		Duration:	05:18:26
+		Location:	51.48273 -0.00986
+
+(5) - Impressions / Pano
+	PANO1
+(6) - Jamaica Rd - Km 13.1
+	ACMU1
+		Images:	10787
+		Time:	01.09.2024 07:20:52 until 01.09.2024 12:43:20
+		Duration:	05:22:28
+		Location:	51.49835 -0.06882
+
+	ACMU1LS1
+		Images:	4982
+		Time:	01.09.2024 09:08:16 until 01.09.2024 11:58:57
+		Duration:	02:50:41
+		Location:	51.49835 -0.06882
+
+	ADEPE1
+		Images:	9710
+		Time:	01.09.2024 08:53:18 until 01.09.2024 12:43:16
+		Duration:	03:49:58
+		Location:	51.49835 -0.06882
+
+(7) - Just before Finish
+	BMADO1
+		Images:	30913
+		Time:	01.09.2024 08:28:59 until 01.09.2024 14:30:30
+		Duration:	06:01:31
+		Location:	51.48273 -0.00985
+
+	BQVT1
+		Images:	19782
+		Time:	01.09.2024 09:14:52 until 01.09.2024 14:26:31
+		Duration:	05:11:39
+		Location:	51.48273 -0.00985
+
+	BTOMY2
+		Images:	593
+		Time:	01.09.2024 13:33:09 until 01.09.2024 14:30:26
+		Duration:	00:57:17
+		Location:	51.48273 -0.00985
+
+(8) - Medals
+	AAMK1
+		Images:	6542
+		Time:	01.09.2024 09:03:30 until 01.09.2024 14:36:15
+		Duration:	05:32:45
+		Location:	51.4828 -0.00919
+
+	ALRE1
+		Images:	5022
+		Time:	01.09.2024 07:51:10 until 01.09.2024 14:30:20
+		Duration:	06:39:10
+		Location:	51.4828 -0.00919
+
+	ASESA1
+		Images:	16436
+		Time:	01.09.2024 08:28:38 until 01.09.2024 14:08:36
+		Duration:	05:39:58
+		Location:	51.4828 -0.00919
+
+	ASTN1
+		Images:	20187
+		Time:	01.09.2024 08:34:48 until 01.09.2024 14:09:52
+		Duration:	05:35:04
+		Location:	51.4828 -0.00919
+
+(9) - Tower Bridge - Km 12
+	BBKO1
+		Images:	21877
+		Time:	01.09.2024 08:28:05 until 01.09.2024 12:08:57
+		Duration:	03:40:52
+		Location:	51.50529 -0.07554
+
+	BBKO1DRONE1
+		Images:	13
+		Time:	01.09.2024 06:37:50 until 01.09.2024 06:45:04
+		Duration:	00:07:14
+		Location:	51.50529 -0.07554
+
+	BBKO1LS1
+		Images:	3142
+		Time:	01.09.2024 08:46:25 until 01.09.2024 11:54:09
+		Duration:	03:07:44
+		Location:	51.50529 -0.07554
+
+	BBKO1LS2
+		Images:	4718
+		Time:	01.09.2024 09:14:26 until 01.09.2024 11:54:14
+		Duration:	02:39:48
+		Location:	51.50529 -0.07554
+
+	BCH1
+		Images:	35654
+		Time:	01.09.2024 07:50:14 until 01.09.2024 12:13:38
+		Duration:	04:23:24
+		Location:	51.50529 -0.07554
+
+	BCH1LS1
+		Images:	4634
+		Time:	01.09.2024 09:12:36 until 01.09.2024 11:47:02
+		Duration:	02:34:26
+		Location:	51.50529 -0.07554
+
+	BJIHI1
+		Images:	9220
+		Time:	01.09.2024 07:55:07 until 01.09.2024 12:29:13
+		Duration:	04:34:06
+		Location:	51.50529 -0.07554
+
+	BJIHI1LS1
+		Images:	8192
+		Time:	01.09.2024 09:16:46 until 01.09.2024 11:39:17
+		Duration:	02:22:31
+		Location:	51.50529 -0.07554
+
+	BKMIN1
+		Images:	2785
+		Time:	01.09.2024 08:34:19 until 01.09.2024 12:16:48
+		Duration:	03:42:29
+		Location:	51.50529 -0.07554
+
+	BSALA1
+		Images:	22477
+		Time:	01.09.2024 07:59:02 until 01.09.2024 12:31:20
+		Duration:	04:32:18
+		Location:	51.50529 -0.07554
+
+	BSALA1LS1
+		Images:	4617
+		Time:	01.09.2024 09:01:57 until 01.09.2024 11:54:47
+		Duration:	02:52:50
+		Location:	51.50529 -0.07554
+
+	BTOMY1
+		Images:	29071
+		Time:	01.09.2024 08:08:32 until 01.09.2024 12:30:35
+		Duration:	04:22:03
+		Location:	51.50529 -0.07554
+
+	BTOMY1LS1
+		Images:	9414
+		Time:	01.09.2024 08:01:41 until 01.09.2024 11:51:52
+		Duration:	03:50:11
+		Location:	51.50529 -0.07554
+
+(10) - Tower of London - Km 11.7
+	ASHAK1
+		Images:	4620
+		Time:	01.09.2024 08:14:36 until 01.09.2024 12:15:26
+		Duration:	04:00:50
+		Location:	51.50725 -0.07425
+
+	ASTEM1
+		Images:	19323
+		Time:	01.09.2024 08:05:45 until 01.09.2024 12:39:22
+		Duration:	04:33:37
+		Location:	51.50725 -0.07425
+
+	ASTEM1LS1
+		Images:	4779
+		Time:	01.09.2024 08:07:31 until 01.09.2024 11:52:53
+		Duration:	03:45:22
+		Location:	51.50725 -0.07425
+

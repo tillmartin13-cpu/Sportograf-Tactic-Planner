@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "61.07426" lon = "14.32425"><name>SBRO1</name><desc>18,1 km before Finish (Spjutmo)
+Images:293
+First:21.02.2025 08:56:17
+Last:23.02.2025 09:58:38
+Duration:2.01:02:21
+</desc></wpt>
+<wpt lat = "61.06348" lon = "14.35333"><name>COR1LS1</name><desc>16,1 km before Finish (Hökberget)
+Images:1
+First:23.02.2025 08:42:45
+Last:23.02.2025 08:42:45
+Duration:00:00:00
+</desc></wpt>
+<wpt lat = "61.06348" lon = "14.35333"><name>COR1</name><desc>16,1 km before Finish (Hökberget)
+Images:179
+First:23.02.2025 08:33:05
+Last:23.02.2025 10:19:44
+Duration:01:46:39
+</desc></wpt>
+<wpt lat = "61.06151" lon = "14.34749"><name>JLA1</name><desc>1,7 km before Finish (Mora)
+Images:6
+First:21.02.2025 07:47:27
+Last:22.02.2025 08:36:08
+Duration:1.00:48:41
+</desc></wpt>
+<wpt lat = "61.06122" lon = "14.34923"><name>MAV1</name><desc>1,2 km before Finish (Mora)
+Images:2
+First:22.02.2025 08:12:12
+Last:22.02.2025 08:20:50
+Duration:00:08:38
+</desc></wpt>
+<wpt lat = "61.00699" lon = "14.54266"><name>MW1LS1</name><desc>Finish
+Images:1
+First:23.02.2025 09:14:46
+Last:23.02.2025 09:14:46
+Duration:00:00:00
+</desc></wpt>
+<wpt lat = "61.01813" lon = "14.40941"><name>ALN1</name><desc>Finish
+Images:1
+First:21.02.2025 11:28:48
+Last:21.02.2025 11:28:48
+Duration:00:00:00
+</desc></wpt>
+<wpt lat = "61.00699" lon = "14.54266"><name>MAE2</name><desc>Finish
+Images:1
+First:23.02.2025 19:06:10
+Last:23.02.2025 19:06:10
+Duration:00:00:00
+</desc></wpt>
+</gpx>

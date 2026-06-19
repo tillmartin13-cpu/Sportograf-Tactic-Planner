@@ -1,0 +1,83 @@
+EventId: 14671
+Spots: 12
+Total Images: 82966
+Time:	20.12.2024 12:53:08 to 15.06.2025 21:09:57
+Duration: 177.08:16:49
+
+(1) - Obstacle 1 Kiss of Mud
+	RYN1
+		Images:	5237
+		Time:	14.06.2025 08:05:41 until 14.06.2025 13:54:50
+		Duration:	05:49:09
+		Location:	NULL NULL
+
+(2) - Obstacle 9 Funky Monkey
+	CCZ1
+		Images:	1707
+		Time:	14.06.2025 09:59:25 until 15.06.2025 09:19:16
+		Duration:	23:19:51
+		Location:	NULL NULL
+
+	IZZY1
+		Images:	3419
+		Time:	13.06.2025 20:58:10 until 14.06.2025 14:40:09
+		Duration:	17:41:59
+		Location:	NULL NULL
+
+(3) - Impressions / Pano
+	CCZ1DRONE1
+		Images:	12
+		Time:	14.06.2025 17:46:26 until 15.06.2025 16:20:08
+		Duration:	22:33:42
+		Location:	NULL NULL
+
+	PANO1
+(4) - Obstacle 12 Hangin Tough
+	MIGO1
+		Images:	7671
+		Time:	13.06.2025 10:07:41 until 15.06.2025 21:09:57
+		Duration:	2.11:02:16
+		Location:	NULL NULL
+
+(5) - Obstacle 11 Cage Crawl
+	JOD1
+		Images:	15852
+		Time:	13.06.2025 22:05:48 until 15.06.2025 09:20:59
+		Duration:	1.11:15:11
+		Location:	NULL NULL
+
+(6) - Obstacle 1
+	JOD1DRONE1
+		Images:	22
+		Time:	14.06.2025 08:51:20 until 14.06.2025 14:20:09
+		Duration:	05:28:49
+		Location:	NULL NULL
+
+(7) - Obstacle 16 Ladder to Hell
+	TAPO1
+		Images:	5076
+		Time:	14.06.2025 08:44:12 until 15.06.2025 10:35:29
+		Duration:	1.01:51:17
+		Location:	NULL NULL
+
+(8) - Obstacle 17 Blockness Monster
+	VAR1
+		Images:	2415
+		Time:	14.06.2025 08:16:58 until 14.06.2025 15:21:39
+		Duration:	07:04:41
+		Location:	NULL NULL
+
+(9) - Obstacle 19 Lumber Jack
+	JEPO1
+		Images:	9173
+		Time:	14.06.2025 09:54:57 until 15.06.2025 11:12:40
+		Duration:	1.01:17:43
+		Location:	NULL NULL
+
+(10) - Obstacle 22 Artic Enema
+	MKI1
+		Images:	32372
+		Time:	13.06.2025 17:55:13 until 15.06.2025 09:13:01
+		Duration:	1.15:17:48
+		Location:	NULL NULL
+

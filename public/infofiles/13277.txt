@@ -1,0 +1,233 @@
+EventId: 13277
+Spots: 34
+Total Images: 179483
+Time:	23.08.2024 14:51:45 to 10.09.2024 04:56:06
+Duration: 17.14:04:21
+
+(1) - 0.0 km 857192 FIN Toby
+	TOBY1
+		Images:	22727
+		Time:	24.08.2024 09:56:54 until 24.08.2024 16:05:33
+		Duration:	06:08:39
+		Location:	NULL NULL
+
+(2) - 0.0 km 857193 FIN Matt Carpenter
+	MATTC2
+		Images:	5138
+		Time:	24.08.2024 09:31:44 until 24.08.2024 17:29:37
+		Duration:	07:57:53
+		Location:	NULL NULL
+
+(3) - 0.0 km 857196 MSC 9 Gray Kinney
+	GRAYK2
+		Images:	3737
+		Time:	24.08.2024 11:25:28 until 24.08.2024 16:09:22
+		Duration:	04:43:54
+		Location:	NULL NULL
+
+(4) - 0.0 km 857197 MSC 9 Karen Kinney
+	KAREN2
+		Images:	3074
+		Time:	24.08.2024 11:17:17 until 24.08.2024 16:00:28
+		Duration:	04:43:11
+		Location:	NULL NULL
+
+(5) - 0.0 km 857198 MSC 1 Julio Mora
+	JULIO1
+		Images:	1439
+		Time:	23.08.2024 17:38:20 until 23.08.2024 19:16:04
+		Duration:	01:37:44
+		Location:	NULL NULL
+
+(6) - 0.0 km 857199 MSC 1 Brantley Stephens
+	BRANT1
+		Images:	4634
+		Time:	24.08.2024 06:58:02 until 24.08.2024 08:38:38
+		Duration:	01:40:36
+		Location:	NULL NULL
+
+(7) - 0.0 km 857200 MSC 1 Matt Carpenter
+	MATTC1
+		Images:	1141
+		Time:	24.08.2024 07:03:28 until 24.08.2024 08:38:39
+		Duration:	01:35:11
+		Location:	NULL NULL
+
+(8) - 0.0 km 857202 MSC 2 Albert Ocasio
+	ALBER1
+		Images:	3626
+		Time:	24.08.2024 07:18:02 until 24.08.2024 08:53:35
+		Duration:	01:35:33
+		Location:	NULL NULL
+
+(9) - 0.0 km 857203 MSC 2 Matthew Giudice
+	MATTG1
+		Images:	3965
+		Time:	24.08.2024 07:16:50 until 24.08.2024 09:38:28
+		Duration:	02:21:38
+		Location:	NULL NULL
+
+(10) - 0.0 km 857204 MSC 3 Don Weaver
+	DONW1
+		Images:	4838
+		Time:	24.08.2024 07:11:47 until 24.08.2024 08:55:28
+		Duration:	01:43:41
+		Location:	NULL NULL
+
+(11) - 0.0 km 857206 MSC 6 Don Weaver
+	DONW2
+		Images:	6811
+		Time:	24.08.2024 09:45:26 until 24.08.2024 14:58:07
+		Duration:	05:12:41
+		Location:	NULL NULL
+
+(12) - 0.0 km 857208 MSC 8 Albert Ocasio
+	ALBER2
+		Images:	2746
+		Time:	24.08.2024 09:50:10 until 24.08.2024 15:26:30
+		Duration:	05:36:20
+		Location:	NULL NULL
+
+(13) - 0.0 km 857209 MSC 8 Matthew Giudice
+	MATTG2
+		Images:	2974
+		Time:	24.08.2024 11:12:44 until 24.08.2024 15:25:44
+		Duration:	04:13:00
+		Location:	NULL NULL
+
+(14) - 0.0 km 857213 Candids Claude Bird
+	BIRD1
+		Images:	3665
+		Time:	09.09.2024 17:56:44 until 09.09.2024 19:40:17
+		Duration:	01:43:33
+		Location:	NULL NULL
+
+(15) - 0.0 km 857215  PreFIN Julio Mora
+	JULIO2
+		Images:	6093
+		Time:	23.08.2024 20:44:03 until 24.08.2024 01:04:47
+		Duration:	04:20:44
+		Location:	NULL NULL
+
+(16) - 0.0 km 857216 PreFIN Brantley Stephens
+	BRANT2
+		Images:	12363
+		Time:	24.08.2024 09:41:06 until 24.08.2024 17:06:51
+		Duration:	07:25:45
+		Location:	NULL NULL
+
+(17) - 0.0 km 857217 PreFIN-Nicolas Ingram
+	NICK1
+		Images:	15115
+		Time:	24.08.2024 08:19:30 until 24.08.2024 17:03:07
+		Duration:	08:43:37
+		Location:	NULL NULL
+
+(18) - 0.0 km 857218 Medals Claude Bird
+	BIRD2
+		Images:	8457
+		Time:	09.09.2024 20:39:02 until 10.09.2024 04:56:06
+		Duration:	08:17:04
+		Location:	NULL NULL
+
+(19) - 0.0 km 857220 MSC 7 Mike Kelly
+	MKEXP3
+		Images:	4585
+		Time:	24.08.2024 07:23:36 until 24.08.2024 12:08:06
+		Duration:	04:44:30
+		Location:	NULL NULL
+
+(20) - 0.0 km 857221 MSC 4 Joan S
+	JOANS1
+		Images:	2446
+		Time:	24.08.2024 05:23:45 until 24.08.2024 08:54:24
+		Duration:	03:30:39
+		Location:	NULL NULL
+
+(21) - 0.0 km 857222 MSC 5 Gray Kinney
+	GRAYK1
+		Images:	4384
+		Time:	24.08.2024 07:00:34 until 24.08.2024 09:58:51
+		Duration:	02:58:17
+		Location:	NULL NULL
+
+(22) - 0.0 km 857223 MSC 5 Karen Kinney
+	KAREN1
+		Images:	2899
+		Time:	24.08.2024 07:00:25 until 24.08.2024 10:04:29
+		Duration:	03:04:04
+		Location:	NULL NULL
+
+(23) - 0.0 km 857224 MSC 4 Mike Kelly
+	MKEXP2
+		Images:	1838
+		Time:	24.08.2024 05:29:10 until 24.08.2024 06:50:12
+		Duration:	01:21:02
+		Location:	NULL NULL
+
+(24) - 0.0 km 857225 MSC 7 Joan Sheahan
+	JOANS2
+		Images:	5898
+		Time:	24.08.2024 07:27:23 until 24.08.2024 14:04:41
+		Duration:	06:37:18
+		Location:	NULL NULL
+
+(25) - 0.0 km Expo PR - Michael Kelly
+	MKEXP1
+		Images:	70
+		Time:	23.08.2024 14:51:45 until 23.08.2024 15:59:43
+		Duration:	01:07:58
+		Location:	NULL NULL
+
+(26) - 0.0 km Start Toby
+	TOBY2
+		Images:	966
+		Time:	24.08.2024 07:39:22 until 24.08.2024 10:43:57
+		Duration:	03:04:35
+		Location:	NULL NULL
+
+(27) - 0.0 km trigger FIN
+	AUTO1
+		Images:	16782
+		Time:	24.08.2024 06:25:10 until 24.08.2024 11:39:31
+		Duration:	05:14:21
+		Location:	NULL NULL
+
+(28) - 0.0 km trigger MSC 1
+	AUTO2
+		Images:	4867
+		Time:	24.08.2024 05:16:51 until 24.08.2024 06:38:57
+		Duration:	01:22:06
+		Location:	NULL NULL
+
+(29) - 0.0 km trigger MSC 6
+	AUTO5
+		Images:	5712
+		Time:	24.08.2024 09:41:36 until 24.08.2024 14:58:07
+		Duration:	05:16:31
+		Location:	NULL NULL
+
+(30) - 0.0 km trigger PreFIN 1
+	AUTO3
+(31) - 0.0 km trigger PreFIN 2
+	AUTO4
+		Images:	13736
+		Time:	24.08.2024 07:55:38 until 24.08.2024 11:51:25
+		Duration:	03:55:47
+		Location:	NULL NULL
+
+(32) - Impressions / Pano
+	PANO1
+(33) - none
+	ERIK1
+		Images:	1677
+		Time:	24.08.2024 08:57:47 until 24.08.2024 17:13:29
+		Duration:	08:15:42
+		Location:	NULL NULL
+
+	SAMAR1
+		Images:	1080
+		Time:	24.08.2024 00:48:44 until 24.08.2024 09:06:40
+		Duration:	08:17:56
+		Location:	NULL NULL
+

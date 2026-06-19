@@ -1,0 +1,44 @@
+EventId: 15738
+Spots: 6
+Total Images: 30315
+Time:	01.03.2023 09:14:27 to 01.03.2025 13:03:48
+Duration: 731.03:49:21
+
+(1) - 6.0 Mile
+	ER1
+		Images:	5634
+		Time:	01.03.2025 06:47:24 until 01.03.2025 07:58:40
+		Duration:	01:11:16
+		Location:	NULL NULL
+
+	ER1LS1
+		Images:	2106
+		Time:	29.02.2024 09:04:03 until 29.02.2024 10:54:17
+		Duration:	01:50:14
+		Location:	NULL NULL
+
+(2) - Finish
+	CC1
+		Images:	6204
+		Time:	01.03.2025 08:25:34 until 01.03.2025 11:00:53
+		Duration:	02:35:19
+		Location:	NULL NULL
+
+	CC1LS2
+		Images:	9113
+		Time:	01.03.2025 09:23:43 until 01.03.2025 13:03:48
+		Duration:	03:40:05
+		Location:	NULL NULL
+
+	CC1LS1
+		Images:	6529
+		Time:	01.03.2023 09:14:27 until 01.03.2023 13:06:35
+		Duration:	03:52:08
+		Location:	NULL NULL
+
+	ER3
+		Images:	729
+		Time:	01.03.2025 09:32:55 until 01.03.2025 10:30:53
+		Duration:	00:57:58
+		Location:	NULL NULL
+

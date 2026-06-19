@@ -1,0 +1,48 @@
+EventId: 14506
+Spots: 23
+Total Images: 589
+Time:	19.07.2025 10:40:56 to 19.07.2025 17:29:56
+Duration: 06:49:00
+
+(1) - Start
+	GUD1
+(2) - Obstacle 4 Seiltanz
+	AKON1
+(3) - Obstacle 5 Schlammbecken
+	DAR1
+(4) - Laufstrecke nach Obstacle 5 Schlammbecken
+	DAR1LS1
+	DAR1LS2
+(5) - Obstacle 6 Tauchbecken
+	MUM1
+	SLOM1
+(6) - Obstacle 7 Schaumparty
+	CHWI1
+(7) - Obstacle 9 Krabbelstrecke
+	CM1
+	MFR1
+(8) - Laufstrecke nach Obstacle 9 Krabbelstrecke
+	CM1LS1
+(9) - Obstacle 11 Gitterbecken
+	GSA1
+	LSI1
+(10) - Laufstrecke vor Obstacle 15 Containerrutsche
+	SBU1LS1
+(11) - Obstacle 15 Containerrutsche
+	RAMA1
+	SBU1
+(12) - Finish
+	DIA1
+	GUD1LS2
+		Images:	589
+		Time:	19.07.2025 10:40:56 until 19.07.2025 17:29:56
+		Duration:	06:49:00
+		Location:	NULL NULL
+
+	GUD1LS1
+(13) - Herotent
+	EBO1
+	ROH1
+(14) - Impressions / Pano
+	GUD1DRONE1
+	PANO1

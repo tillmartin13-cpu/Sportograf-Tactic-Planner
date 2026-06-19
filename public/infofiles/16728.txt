@@ -1,0 +1,93 @@
+EventId: 16728
+Spots: 15
+Total Images: 57133
+Time:	01.01.0001 23:00:00 to 18.05.2025 08:58:44
+Duration: 739387.09:58:44
+
+(1) - Impressions / Pano
+	PANO1
+(2) - none
+	DON1
+		Images:	5308
+		Time:	18.05.2025 06:45:03 until 18.05.2025 08:21:15
+		Duration:	01:36:12
+		Location:	NULL NULL
+
+	DTRIG1
+		Images:	3962
+		Time:	18.05.2025 05:56:32 until 18.05.2025 07:15:28
+		Duration:	01:18:56
+		Location:	NULL NULL
+
+	JCAM1
+		Images:	795
+		Time:	18.05.2025 07:49:13 until 18.05.2025 08:20:06
+		Duration:	00:30:53
+		Location:	NULL NULL
+
+	JAFO1
+		Images:	711
+		Time:	18.05.2025 07:41:11 until 18.05.2025 07:48:53
+		Duration:	00:07:42
+		Location:	NULL NULL
+
+	FOLER1
+		Images:	4000
+		Time:	18.05.2025 06:35:40 until 18.05.2025 07:41:11
+		Duration:	01:05:31
+		Location:	NULL NULL
+
+	FINA1
+		Images:	5233
+		Time:	17.05.2025 18:31:38 until 17.05.2025 20:32:46
+		Duration:	02:01:08
+		Location:	NULL NULL
+
+	FCAM1
+		Images:	6105
+		Time:	18.05.2025 07:04:56 until 18.05.2025 08:48:48
+		Duration:	01:43:52
+		Location:	NULL NULL
+
+	FTRIG1
+		Images:	4972
+		Time:	01.01.0001 23:00:00 until 18.05.2025 08:28:07
+		Duration:	739387.09:28:07
+		Location:	NULL NULL
+
+	PTRIG1
+		Images:	452
+		Time:	18.05.2025 06:29:40 until 18.05.2025 07:12:54
+		Duration:	00:43:14
+		Location:	NULL NULL
+
+	WYMON1
+		Images:	5753
+		Time:	18.05.2025 06:58:45 until 18.05.2025 08:58:44
+		Duration:	01:59:59
+		Location:	NULL NULL
+
+	DRES1
+		Images:	7743
+		Time:	17.05.2025 07:05:32 until 17.05.2025 09:10:25
+		Duration:	02:04:53
+		Location:	NULL NULL
+
+	PREFE1
+		Images:	5479
+		Time:	18.05.2025 05:23:14 until 18.05.2025 07:37:58
+		Duration:	02:14:44
+		Location:	NULL NULL
+
+	MTRIG1
+		Images:	127
+		Time:	18.05.2025 07:40:43 until 18.05.2025 07:54:35
+		Duration:	00:13:52
+		Location:	NULL NULL
+
+	WYM1
+		Images:	6493
+		Time:	01.01.0001 23:00:00 until 18.05.2025 08:50:34
+		Duration:	739387.09:50:34
+		Location:	NULL NULL
+

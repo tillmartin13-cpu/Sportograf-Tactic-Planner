@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "46.86921" lon = "9.87856"><name>HS1</name><desc>Start
+Images:582
+First:08.08.2025 17:48:30
+Last:09.08.2025 09:28:38
+Duration:15:40:08
+</desc></wpt>
+<wpt lat = "46.86440" lon = "9.91659"><name>DBOR1</name><desc>km6.3
+Images:1588
+First:09.08.2025 06:01:35
+Last:09.08.2025 11:15:55
+Duration:05:14:20
+</desc></wpt>
+<wpt lat = "46.88704" lon = "9.87966"><name>ROB2</name><desc>km11.5 (T24)
+Images:1248
+First:08.08.2025 18:42:33
+Last:09.08.2025 12:12:22
+Duration:17:29:49
+</desc></wpt>
+<wpt lat = "46.88704" lon = "9.87966"><name>ROB2LS1</name><desc>km11.5 (T24)
+Images:41
+First:09.08.2025 10:14:40
+Last:09.08.2025 11:48:50
+Duration:01:34:10
+</desc></wpt>
+<wpt lat = "46.88704" lon = "9.87966"><name>ROB2LS2</name><desc>km11.5 (T24)
+Images:505
+First:08.08.2025 18:44:53
+Last:09.08.2025 11:49:10
+Duration:17:04:17
+</desc></wpt>
+<wpt lat = "46.88929" lon = "9.88456"><name>ROB1</name><desc>km12.0 (T54, T33)
+Images:1329
+First:08.08.2025 16:34:47
+Last:09.08.2025 09:07:55
+Duration:16:33:08
+</desc></wpt>
+<wpt lat = "46.88929" lon = "9.88456"><name>ROB1LS1</name><desc>km12.0 (T54, T33)
+Images:249
+First:09.08.2025 06:37:13
+Last:09.08.2025 08:31:09
+Duration:01:53:56
+</desc></wpt>
+<wpt lat = "46.91156" lon = "9.88681"><name>BP1DRONE1</name><desc>km16.0 (T33, T54)
+Images:26
+First:08.08.2025 17:28:05
+Last:09.08.2025 16:15:01
+Duration:22:46:56
+</desc></wpt>
+<wpt lat = "46.91156" lon = "9.88681"><name>BP3</name><desc>km16.0 (T33, T54)
+Images:1919
+First:09.08.2025 06:23:54
+Last:09.08.2025 11:12:16
+Duration:04:48:22
+</desc></wpt>
+<wpt lat = "46.91156" lon = "9.88681"><name>BP1LS1</name><desc>km16.0 (T33, T54)
+Images:974
+First:09.08.2025 07:03:21
+Last:09.08.2025 11:12:01
+Duration:04:08:40
+</desc></wpt>
+<wpt lat = "46.91095" lon = "9.88294"><name>BP1LS2</name><desc>km16.2 (T33, T54)
+Images:2758
+First:08.08.2025 18:14:12
+Last:09.08.2025 11:23:19
+Duration:17:09:07
+</desc></wpt>
+<wpt lat = "46.90840" lon = "9.86139"><name>BP2LS3</name><desc>km25.0 (T33)
+Images:255
+First:09.08.2025 06:11:12
+Last:09.08.2025 17:16:33
+Duration:11:05:21
+</desc></wpt>
+<wpt lat = "46.91194" lon = "9.85572"><name>BP4</name><desc>km50.0 (T54), km25.5 (T33)
+Images:583
+First:09.08.2025 12:47:58
+Last:09.08.2025 17:00:28
+Duration:04:12:30
+</desc></wpt>
+<wpt lat = "46.91194" lon = "9.85572"><name>BP2LS1</name><desc>km50.0 (T54), km25.5 (T33)
+Images:273
+First:09.08.2025 12:21:51
+Last:09.08.2025 16:52:34
+Duration:04:30:43
+</desc></wpt>
+<wpt lat = "46.91194" lon = "9.85572"><name>BP2LS2</name><desc>km50.0 (T54), km25.5 (T33)
+Images:160
+First:09.08.2025 12:09:26
+Last:09.08.2025 17:07:12
+Duration:04:57:46
+</desc></wpt>
+<wpt lat = "46.89200" lon = "9.87909"><name>ROB3</name><desc>4km before Finish (T33, T54)
+Images:380
+First:09.08.2025 12:48:11
+Last:09.08.2025 17:12:46
+Duration:04:24:35
+</desc></wpt>
+<wpt lat = "46.89200" lon = "9.87909"><name>ROB3LS1</name><desc>4km before Finish (T33, T54)
+Images:241
+First:09.08.2025 13:00:29
+Last:09.08.2025 17:31:10
+Duration:04:30:41
+</desc></wpt>
+<wpt lat = "46.89200" lon = "9.87909"><name>ROB3LS2</name><desc>4km before Finish (T33, T54)
+Images:212
+First:09.08.2025 12:50:22
+Last:09.08.2025 15:50:32
+Duration:03:00:10
+</desc></wpt>
+<wpt lat = "46.87591" lon = "9.86566"><name>DBOR2</name><desc>1.5km before Finish (T24)
+Images:822
+First:09.08.2025 11:18:56
+Last:09.08.2025 14:58:56
+Duration:03:40:00
+</desc></wpt>
+<wpt lat = "46.87429" lon = "9.87779"><name>DBOR4</name><desc>0.5km before Finish
+Images:218
+First:09.08.2025 16:52:29
+Last:09.08.2025 18:09:14
+Duration:01:16:45
+</desc></wpt>
+<wpt lat = "46.86921" lon = "9.87856"><name>HS2</name><desc>Finish
+Images:1747
+First:09.08.2025 10:34:35
+Last:09.08.2025 18:07:54
+Duration:07:33:19
+</desc></wpt>
+<wpt lat = "46.86921" lon = "9.87856"><name>HS2LS1</name><desc>Finish
+Images:1555
+First:09.08.2025 10:25:40
+Last:09.08.2025 17:55:02
+Duration:07:29:22
+</desc></wpt>
+<wpt lat = "46.86921" lon = "9.87856"><name>HS2LS2</name><desc>Finish
+Images:1647
+First:09.08.2025 10:18:40
+Last:09.08.2025 17:52:16
+Duration:07:33:36
+</desc></wpt>
+<wpt lat = "46.86921" lon = "9.87856"><name>DBOR3</name><desc>Finish
+Images:96
+First:09.08.2025 16:31:43
+Last:09.08.2025 16:43:11
+Duration:00:11:28
+</desc></wpt>
+</gpx>

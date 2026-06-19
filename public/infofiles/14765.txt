@@ -1,0 +1,206 @@
+EventId: 14765
+Spots: 31
+Total Images: 60604
+Time:	08.08.2025 21:15:11 to 10.08.2025 13:34:06
+Duration: 1.16:18:55
+
+(1) - 0,3 km
+	SSW1
+		Images:	2527
+		Time:	08.08.2025 21:15:11 until 10.08.2025 11:02:12
+		Duration:	1.13:47:01
+		Location:	50.14325 5.65969
+
+	SSW1LS1
+		Images:	896
+		Time:	08.08.2025 21:30:31 until 10.08.2025 07:37:26
+		Duration:	1.10:06:55
+		Location:	50.14325 5.65969
+
+(2) - 1,6 km
+	MBEN1
+		Images:	1224
+		Time:	08.08.2025 21:32:14 until 09.08.2025 08:30:30
+		Duration:	10:58:16
+		Location:	50.13945 5.66084
+
+	MBEN1LS1
+		Images:	386
+		Time:	08.08.2025 21:34:00 until 10.08.2025 07:47:33
+		Duration:	1.10:13:33
+		Location:	50.13945 5.66084
+
+(3) - 2,4 km (-/20km/55km/73km), 20,1km (55km/73km)
+	MW1
+		Images:	5537
+		Time:	09.08.2025 07:13:42 until 09.08.2025 10:20:59
+		Duration:	03:07:17
+		Location:	50.14212 5.66395
+
+	MW1LS1
+		Images:	817
+		Time:	08.08.2025 21:18:21 until 09.08.2025 11:50:21
+		Duration:	14:32:00
+		Location:	50.14212 5.66395
+
+	MW1LS2
+		Images:	1375
+		Time:	09.08.2025 06:59:49 until 09.08.2025 10:21:00
+		Duration:	03:21:11
+		Location:	50.14212 5.66395
+
+(4) - 3,1 km (10km/20km/55km/73km), 20,9km (55km/73km)
+	ALN1
+		Images:	6387
+		Time:	09.08.2025 07:15:51 until 09.08.2025 09:37:13
+		Duration:	02:21:22
+		Location:	50.14402 5.66862
+
+	ALN1LS1
+		Images:	792
+		Time:	09.08.2025 06:48:06 until 09.08.2025 08:56:49
+		Duration:	02:08:43
+		Location:	50.14402 5.66862
+
+	ALN1LS2
+		Images:	744
+		Time:	09.08.2025 06:56:47 until 09.08.2025 11:35:14
+		Duration:	04:38:27
+		Location:	50.14402 5.66862
+
+(5) - 8,2 km (10km/20km) 26,1km (55km/73km)
+	TOBB1
+		Images:	2466
+		Time:	08.08.2025 21:21:10 until 10.08.2025 08:03:50
+		Duration:	1.10:42:40
+		Location:	50.14981 5.66440
+
+	TOBB1LS1
+		Images:	3731
+		Time:	08.08.2025 21:17:10 until 09.08.2025 10:26:02
+		Duration:	13:08:52
+		Location:	50.14981 5.66440
+
+	TOBB1LS2
+		Images:	1296
+		Time:	08.08.2025 21:19:25 until 09.08.2025 10:29:51
+		Duration:	13:10:26
+		Location:	50.14981 5.66440
+
+	TOBB1DRONE1
+		Images:	80
+		Time:	09.08.2025 08:19:34 until 10.08.2025 13:34:06
+		Duration:	1.05:14:32
+		Location:	50.14981 5.66440
+
+(6) - 2,5 km before finish, (20km/55km/73km)
+	ALN2
+		Images:	6235
+		Time:	09.08.2025 10:40:15 until 09.08.2025 17:36:15
+		Duration:	06:56:00
+		Location:	50.15514 5.66095
+
+	ALN2LS1
+		Images:	988
+		Time:	09.08.2025 10:34:10 until 09.08.2025 16:06:02
+		Duration:	05:31:52
+		Location:	50.15514 5.66095
+
+	ALN2LS2
+		Images:	912
+		Time:	09.08.2025 10:37:14 until 10.08.2025 12:55:01
+		Duration:	1.02:17:47
+		Location:	50.15514 5.66095
+
+(7) - 1,6 km before finish (20km/55km/73km)
+	TOBB2
+		Images:	2548
+		Time:	09.08.2025 10:25:34 until 09.08.2025 18:26:45
+		Duration:	08:01:11
+		Location:	50.15293 5.66168
+
+	TOBB2LS1
+		Images:	1600
+		Time:	09.08.2025 11:20:48 until 09.08.2025 18:38:32
+		Duration:	07:17:44
+		Location:	50.15293 5.66168
+
+	TOBB2LS2
+		Images:	2890
+		Time:	09.08.2025 11:07:24 until 09.08.2025 17:32:36
+		Duration:	06:25:12
+		Location:	50.15293 5.66168
+
+(8) - 0,3 km before finish (10km)
+	SSW3
+		Images:	1050
+		Time:	09.08.2025 17:34:02 until 09.08.2025 18:59:05
+		Duration:	01:25:03
+		Location:	50.14608 5.66468
+
+(9) - 0,6 km before finish (10km)
+	SSW3LS1
+		Images:	337
+		Time:	09.08.2025 17:26:03 until 09.08.2025 18:59:24
+		Duration:	01:33:21
+		Location:	50.14608 5.66468
+
+(10) - 0,6 km before finish (20km/55km/73km)
+	SSW2
+		Images:	2386
+		Time:	09.08.2025 09:33:40 until 10.08.2025 12:47:57
+		Duration:	1.03:14:17
+		Location:	50.14933 5.66117
+
+	SSW2LS1
+		Images:	1887
+		Time:	08.08.2025 21:18:57 until 09.08.2025 17:36:49
+		Duration:	20:17:52
+		Location:	50.14971 5.66073
+
+	SSW2LS2
+		Images:	1227
+		Time:	09.08.2025 09:00:28 until 09.08.2025 16:17:25
+		Duration:	07:16:57
+		Location:	50.14971 5.66073
+
+(11) - 0,2 km before finish (20km,55km,73km)
+	MW2
+		Images:	3679
+		Time:	09.08.2025 12:21:36 until 09.08.2025 19:23:53
+		Duration:	07:02:17
+		Location:	50.14772 5.66267
+
+	MW2LS1
+		Images:	596
+		Time:	09.08.2025 12:07:18 until 09.08.2025 19:23:01
+		Duration:	07:15:43
+		Location:	50.14772 5.66267
+
+(12) - 2,4 km before finish (20km,55km,73km)
+	MW2LS2
+		Images:	472
+		Time:	09.08.2025 12:07:19 until 09.08.2025 19:23:03
+		Duration:	07:15:44
+		Location:	50.14772 5.66267
+
+(13) - Finish
+	MBEN2
+		Images:	4583
+		Time:	09.08.2025 09:38:11 until 09.08.2025 19:25:46
+		Duration:	09:47:35
+		Location:	50.14595 5.66282
+
+	MBEN2LS1
+		Images:	955
+		Time:	09.08.2025 09:12:15 until 09.08.2025 19:29:43
+		Duration:	10:17:28
+		Location:	50.14595 5.66282
+
+(14) - Impressions / Pano
+	PANO1
+		Images:	1
+		Time:	09.08.2025 15:08:40 until 09.08.2025 15:08:40
+		Duration:	00:00:00
+		Location:	NULL NULL
+

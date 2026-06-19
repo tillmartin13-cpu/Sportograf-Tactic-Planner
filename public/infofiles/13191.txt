@@ -1,0 +1,269 @@
+EventId: 13191
+Spots: 39
+Total Images: 432381
+Time:	28.09.2002 08:56:00 to 31.12.2024 19:27:49
+Duration: 8130.10:31:49
+
+(1) - 0.0 km abigail medals, order855952
+	CABBY1
+		Images:	2803
+		Time:	22.06.2024 07:16:03 until 22.06.2024 14:01:12
+		Duration:	06:45:09
+		Location:	NULL NULL
+
+(2) - 0.0 km allison postal, 855948, ofp
+	AALI1
+		Images:	755
+		Time:	21.06.2024 18:15:59 until 22.06.2024 02:17:14
+		Duration:	08:01:15
+		Location:	NULL NULL
+
+(3) - 0.0 km amber nichols, pfn, order 855960
+	AAMB1
+		Images:	9715
+		Time:	21.06.2024 17:58:29 until 22.06.2024 14:16:13
+		Duration:	20:17:44
+		Location:	NULL NULL
+
+(4) - 0.0 km Andra johnson, msc 5
+	EAND1
+		Images:	11792
+		Time:	21.06.2024 19:47:09 until 22.06.2024 02:24:06
+		Duration:	06:36:57
+		Location:	NULL NULL
+
+(5) - 0.0 km auto cam msc 7, order 855974
+	ASEV1
+		Images:	9505
+		Time:	22.06.2024 07:34:39 until 22.06.2024 10:47:49
+		Duration:	03:13:10
+		Location:	NULL NULL
+
+(6) - 0.0 km caitlin kroll, PFN, order 855959
+	ACAIT1
+		Images:	29512
+		Time:	22.06.2024 07:51:22 until 22.06.2024 16:19:45
+		Duration:	08:28:23
+		Location:	NULL NULL
+
+(7) - 0.0 km carla, medals, 855956
+	ACARL1
+		Images:	2451
+		Time:	22.06.2024 07:04:17 until 22.06.2024 14:16:17
+		Duration:	07:12:00
+		Location:	NULL NULL
+
+(8) - 0.0 km carrie becker, banners, 855947
+	ACAR1
+		Images:	2561
+		Time:	22.06.2024 07:07:15 until 22.06.2024 15:10:00
+		Duration:	08:02:45
+		Location:	NULL NULL
+
+(9) - 0.0 km chris juhn, msc 7, order 855971
+	ACHRI1
+		Images:	21755
+		Time:	22.06.2024 07:00:35 until 22.06.2024 15:40:57
+		Duration:	08:40:22
+		Location:	NULL NULL
+
+(10) - 0.0 km clark yarifis msc 5, order 855962
+	ECLAR1
+		Images:	20940
+		Time:	22.06.2024 02:35:18 until 22.06.2024 14:57:00
+		Duration:	12:21:42
+		Location:	NULL NULL
+
+(11) - 0.0 km expo
+	AEXPO1
+		Images:	190
+		Time:	21.06.2024 10:38:15 until 21.06.2024 13:44:29
+		Duration:	03:06:14
+		Location:	NULL NULL
+
+(12) - 0.0 km finish trigger
+	AFIN1
+		Images:	10806
+		Time:	28.09.2002 08:56:00 until 22.06.2024 09:16:49
+		Duration:	7938.00:20:49
+		Location:	NULL NULL
+
+(13) - 0.0 km heidi, banners, 855955
+	AHEID1
+		Images:	2079
+		Time:	22.06.2024 05:11:20 until 22.06.2024 13:20:14
+		Duration:	08:08:54
+		Location:	NULL NULL
+
+(14) - 0.0 km jeff alltop, msc 7 , order 885970
+	AJEF1
+		Images:	20130
+		Time:	22.06.2024 07:03:41 until 22.06.2024 15:09:04
+		Duration:	08:05:23
+		Location:	NULL NULL
+
+(15) - 0.0 km jennifer gallant, msc 7, order 855972
+	AJENN1
+		Images:	17245
+		Time:	22.06.2024 07:00:40 until 22.06.2024 12:39:48
+		Duration:	05:39:08
+		Location:	NULL NULL
+
+(16) - 0.0 km jenny taggart, msc 2, order 855977
+	EJENN1
+		Images:	2559
+		Time:	22.06.2024 06:16:14 until 22.06.2024 07:45:55
+		Duration:	01:29:41
+		Location:	NULL NULL
+
+(17) - 0.0 km jenny taggert msc 4, order 855980
+	ETAGG1
+		Images:	4440
+		Time:	22.06.2024 07:53:41 until 22.06.2024 09:19:03
+		Duration:	01:25:22
+		Location:	NULL NULL
+
+(18) - 0.0 km jennz taggert, msc 5 order 855964
+	EJT1
+		Images:	6762
+		Time:	22.06.2024 10:57:55 until 22.06.2024 12:49:43
+		Duration:	01:51:48
+		Location:	NULL NULL
+
+(19) - 0.0 km keith tromicyak msc 4, order 855979
+	ETROM1
+		Images:	3541
+		Time:	22.06.2024 07:54:36 until 22.06.2024 10:32:09
+		Duration:	02:37:33
+		Location:	NULL NULL
+
+(20) - 0.0 km keith tromicyak msc 5, order 855963
+	EKT1
+		Images:	5760
+		Time:	22.06.2024 11:15:21 until 22.06.2024 14:54:13
+		Duration:	03:38:52
+		Location:	NULL NULL
+
+(21) - 0.0 km keith tromiczak msc 2, order 855976
+	EKEIT1
+		Images:	3100
+		Time:	22.06.2024 06:13:34 until 22.06.2024 07:45:19
+		Duration:	01:31:45
+		Location:	NULL NULL
+
+(22) - 0.0 km Lucas - finish line
+	CLUKE1
+		Images:	51932
+		Time:	22.06.2024 08:09:27 until 22.06.2024 13:10:35
+		Duration:	05:01:08
+		Location:	NULL NULL
+
+(23) - 0.0 km mari, msc 6, order 855969
+	EMARI1
+		Images:	9961
+		Time:	23.06.2021 05:53:45 until 23.06.2021 11:15:51
+		Duration:	05:22:06
+		Location:	NULL NULL
+
+(24) - 0.0 km mike kellz msc 6, order 855966
+	EMIKE1
+		Images:	14980
+		Time:	22.06.2024 05:18:55 until 22.06.2024 13:05:50
+		Duration:	07:46:55
+		Location:	NULL NULL
+
+(25) - 0.0 km paul kelm PFN, orde 855958
+	APAUL1
+		Images:	19908
+		Time:	22.06.2024 05:42:45 until 22.06.2024 14:13:19
+		Duration:	08:30:34
+		Location:	NULL NULL
+
+(26) - 0.0 km PFN trigger, left order 859548
+	ALEFT1
+		Images:	4493
+		Time:	22.06.2024 14:22:39 until 22.06.2024 15:43:59
+		Duration:	01:21:20
+		Location:	NULL NULL
+
+(27) - 0.0 km PFN trigger, right, order 855961
+	ARIGH1
+		Images:	17380
+		Time:	22.06.2024 06:37:09 until 22.06.2024 14:22:38
+		Duration:	07:45:29
+		Location:	NULL NULL
+
+(28) - 0.0 km phillip reyes, pfn, order 855957
+	APHIL1
+		Images:	18204
+		Time:	22.06.2024 04:43:44 until 22.06.2024 12:00:29
+		Duration:	07:16:45
+		Location:	NULL NULL
+
+(29) - 0.0 km ryan plety msc 1, 859542
+	ERYAN1
+		Images:	2323
+		Time:	22.06.2024 04:52:26 until 22.06.2024 05:40:17
+		Duration:	00:47:51
+		Location:	NULL NULL
+
+(30) - 0.0 km rzan pletz msc 3, order 859545
+	EPLET1
+		Images:	2718
+		Time:	22.06.2024 06:43:30 until 22.06.2024 07:37:37
+		Duration:	00:54:07
+		Location:	NULL NULL
+
+(31) - 0.0 km scott homich msc 6, order 855968
+	ESH1
+		Images:	22292
+		Time:	22.06.2024 10:20:16 until 22.06.2024 14:56:05
+		Duration:	04:35:49
+		Location:	NULL NULL
+
+(32) - 0.0 km scott homich, msc 1, order 859543
+	ESCOT1
+		Images:	3565
+		Time:	22.06.2024 05:52:10 until 22.06.2024 07:10:30
+		Duration:	01:18:20
+		Location:	NULL NULL
+
+(33) - 0.0 km scott homich, msc 3, 859546
+	EHOM1
+		Images:	4544
+		Time:	22.06.2024 07:44:23 until 22.06.2024 08:37:50
+		Duration:	00:53:27
+		Location:	NULL NULL
+
+(34) - 0.0 km sydney, medals, 855989
+	ASYD1
+(35) - 0.0 km toby finish, 855943 card 2
+	ATOBY1
+		Images:	26924
+		Time:	22.06.2024 11:31:01 until 22.06.2024 16:12:14
+		Duration:	04:41:13
+		Location:	NULL NULL
+
+(36) - 0.0 km trigger cam, msc 5, order 855965
+	ETRIG1
+		Images:	20219
+		Time:	22.06.2024 08:13:18 until 22.06.2024 15:04:33
+		Duration:	06:51:15
+		Location:	NULL NULL
+
+(37) - 0.0 km trigger msc 1 and 3, order 859547
+	EONE1
+		Images:	1490
+		Time:	22.06.2024 05:38:08 until 22.06.2024 08:33:08
+		Duration:	02:55:00
+		Location:	NULL NULL
+
+(38) - 0.0 km trigger, msc 6, order 859558
+	ESIX1
+		Images:	23047
+		Time:	31.12.2013 19:00:01 until 31.12.2024 19:27:49
+		Duration:	4018.00:27:48
+		Location:	NULL NULL
+
+(39) - Impressions / Pano
+	PANO1

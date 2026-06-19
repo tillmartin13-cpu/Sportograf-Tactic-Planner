@@ -1,0 +1,273 @@
+EventId: 13153
+Spots: 51
+Total Images: 433007
+Time:	31.12.2013 19:00:01 to 31.12.2099 22:59:59
+Duration: 31411.03:59:58
+
+(1) - 0,0 km 855377 MSC 1  JIm
+	CJDEE1
+		Images:	18795
+		Time:	18.05.2024 06:04:52 until 18.05.2024 08:12:02
+		Duration:	02:07:10
+		Location:	NULL NULL
+
+(2) - 0,0 km 855476 MSC1 William
+	CWDEE1
+		Images:	10582
+		Time:	18.05.2024 07:13:25 until 18.05.2024 09:13:22
+		Duration:	01:59:57
+		Location:	NULL NULL
+
+(3) - 0,0 km 855478 MSC1 Chris
+	CCFED1
+		Images:	3320
+		Time:	19.10.2023 03:01:01 until 19.10.2023 05:03:34
+		Duration:	02:02:33
+		Location:	NULL NULL
+
+(4) - 0,0 km 855479 MSC1 Trigger
+	CWDEE1LS1
+		Images:	5499
+		Time:	18.05.2024 14:07:24 until 18.05.2024 16:04:29
+		Duration:	01:57:05
+		Location:	NULL NULL
+
+(5) - 0,0 km 855497 Pre Fin Trent
+	CTWEL1
+(6) - 0,0 km 855498 Pre Fin Marco
+	CMKOL1
+		Images:	35175
+		Time:	18.05.2024 07:51:30 until 18.05.2024 12:48:25
+		Duration:	04:56:55
+		Location:	NULL NULL
+
+(7) - 0,0 km 855499 Pre FIn Lenny
+	CLVER1
+		Images:	33673
+		Time:	18.05.2024 07:37:16 until 18.05.2024 12:53:03
+		Duration:	05:15:47
+		Location:	NULL NULL
+
+(8) - 0,0 km 855500 Pre FIn Alexander
+	CAKRI1
+(9) - 0,0 km 855501 Pre Fin Trigger 1
+	CTWEL1LS1
+		Images:	13948
+		Time:	18.05.2024 06:43:43 until 18.05.2024 12:15:27
+		Duration:	05:31:44
+		Location:	NULL NULL
+
+(10) - 0,0 km 855502 Pre Fin Trigger 2
+	CMKOL1LS1
+		Images:	12363
+		Time:	18.05.2024 07:35:51 until 18.05.2024 12:19:41
+		Duration:	04:43:50
+		Location:	NULL NULL
+
+(11) - 0,0 km 855504 Finish Guy
+	CGEWA1
+		Images:	40078
+		Time:	18.05.2024 07:44:11 until 18.05.2024 11:54:23
+		Duration:	04:10:12
+		Location:	NULL NULL
+
+(12) - 0,0 km 855505 Finish Trigger 1
+	CLEDW1LS1
+		Images:	16244
+		Time:	31.12.2013 19:00:01 until 31.12.2099 22:59:59
+		Duration:	31411.03:59:58
+		Location:	NULL NULL
+
+(13) - 0,0 km 855506 Finish Trigger 2
+	CGEWA1LS1
+(14) - 0,0 km 855515 ofp jorge
+	CJROJ1
+		Images:	2230
+		Time:	18.05.2024 21:13:02 until 19.05.2024 00:41:46
+		Duration:	03:28:44
+		Location:	NULL NULL
+
+(15) - 0,0 km 859448 pre fin trigger
+	CAKRI1LS1
+		Images:	13620
+		Time:	18.05.2024 08:00:38 until 18.05.2024 12:01:19
+		Duration:	04:00:41
+		Location:	NULL NULL
+
+(16) - 0.0 km 855480
+	AJKAN2
+		Images:	3891
+		Time:	18.05.2024 09:47:16 until 18.05.2024 10:33:22
+		Duration:	00:46:06
+		Location:	NULL NULL
+
+(17) - 0.0 km 855480 MSC 2 Jacob
+	AJKAN1
+		Images:	12733
+		Time:	18.05.2024 07:16:30 until 18.05.2024 09:42:56
+		Duration:	02:26:26
+		Location:	NULL NULL
+
+(18) - 0.0 km 855481 MSC 2 Cynthia
+	ACSAN1
+		Images:	8262
+		Time:	18.05.2024 07:13:52 until 18.05.2024 09:42:51
+		Duration:	02:28:59
+		Location:	NULL NULL
+
+(19) - 0.0 km 855482 MSC 2 Christine
+	ACMCC1
+(20) - 0.0 km 855483
+	AJKAN1LS2
+		Images:	2998
+		Time:	18.05.2024 06:07:29 until 18.05.2024 07:09:37
+		Duration:	01:02:08
+		Location:	NULL NULL
+
+(21) - 0.0 km 855483 MSC 2 Trigger
+	AJKAN1LS1
+		Images:	7003
+		Time:	18.05.2024 07:19:48 until 18.05.2024 09:16:30
+		Duration:	01:56:42
+		Location:	NULL NULL
+
+(22) - 0.0 km 855484 MSC 3 Pablo
+	APBAR1
+		Images:	9830
+		Time:	18.05.2024 07:55:16 until 18.05.2024 11:46:57
+		Duration:	03:51:41
+		Location:	NULL NULL
+
+(23) - 0.0 km 855485 MSC 3 Joe
+	AAJRI1
+		Images:	15995
+		Time:	11.06.2014 12:18:03 until 11.06.2014 16:22:02
+		Duration:	04:03:59
+		Location:	NULL NULL
+
+(24) - 0.0 km 855486 MSC3 Tanja
+	ATMOM1
+		Images:	5786
+		Time:	18.05.2024 07:42:39 until 18.05.2024 11:59:17
+		Duration:	04:16:38
+		Location:	NULL NULL
+
+(25) - 0.0 km 855487 MSC3 Trigger
+	APBAR1LS1
+		Images:	3400
+		Time:	18.05.2024 11:01:48 until 18.05.2024 11:58:26
+		Duration:	00:56:38
+		Location:	NULL NULL
+
+(26) - 0.0 km 855488 MSC4 Henry
+	AHCAS1
+		Images:	29350
+		Time:	18.05.2024 07:30:46 until 18.05.2024 12:04:30
+		Duration:	04:33:44
+		Location:	NULL NULL
+
+(27) - 0.0 km 855489 MSC 4 Miyan
+	AMLEV1
+		Images:	32839
+		Time:	18.05.2024 07:27:55 until 18.05.2024 12:13:23
+		Duration:	04:45:28
+		Location:	NULL NULL
+
+(28) - 0.0 km 855490 MSC4 Trigger
+	AHCAS1LS1
+		Images:	14010
+		Time:	18.05.2024 07:46:37 until 18.05.2024 12:02:38
+		Duration:	04:16:01
+		Location:	NULL NULL
+
+(29) - 0.0 km 855492 MSC 5 Terry
+	BTWER1
+(30) - 0.0 km 855493 MSC 5 JC
+	BJCER1
+(31) - 0.0 km 855494 MSC 5 Heide
+	BHCHE1
+(32) - 0.0 km 855495 MSC 5 Trigger 1
+	BTWER1LS1
+		Images:	6237
+		Time:	18.05.2024 08:06:38 until 18.05.2024 10:26:06
+		Duration:	02:19:28
+		Location:	NULL NULL
+
+(33) - 0.0 km 855496 MSC 5 Trigger 2
+	BJCER1LS1
+(34) - 0.0 km 855503 Finish Lance
+	ALEDW1
+		Images:	37921
+		Time:	18.05.2024 04:50:53 until 18.05.2024 11:43:16
+		Duration:	06:52:23
+		Location:	NULL NULL
+
+(35) - 0.0 km 859431 MSC 6 Tom
+	BTMEN1
+		Images:	4744
+		Time:	18.05.2024 07:36:59 until 18.05.2024 09:08:32
+		Duration:	01:31:33
+		Location:	NULL NULL
+
+(36) - 0.0 km 859432 MSC 6 CODY
+	BCURA1
+(37) - 0.0 km 859433 MSC6 Lisa
+	BLBET1
+(38) - 0.0 km 859434 MSC 6 Jim
+	BJDEE1
+(39) - 0.0 km 859435 MSC 6 William
+	BWDEE1
+(40) - 0.0 km 859436 MSC6 Chris
+	BCFRE1
+		Images:	1969
+		Time:	19.10.2023 06:55:24 until 19.10.2023 08:31:39
+		Duration:	01:36:15
+		Location:	NULL NULL
+
+(41) - 0.0 km Medals Cameron
+	BCBHO1
+(42) - 0.0 km Medals Claude
+	BCBIR1
+(43) - 0.0 km Medals Peter
+	BPKOL1
+(44) - 0.0 km Medals Simon
+	BSBHO1
+(45) - 0.0 km Medels Lesley MAe
+	BLMAE1
+(46) - none
+	ACMON1
+		Images:	1236
+		Time:	18.05.2024 08:06:08 until 18.05.2024 12:15:35
+		Duration:	04:09:27
+		Location:	NULL NULL
+
+	AIDBE1
+		Images:	1781
+		Time:	18.05.2024 07:48:58 until 18.05.2024 12:41:17
+		Duration:	04:52:19
+		Location:	NULL NULL
+
+	AMCOR1
+		Images:	3764
+		Time:	18.05.2024 08:15:49 until 18.05.2024 12:12:51
+		Duration:	03:57:02
+		Location:	NULL NULL
+
+	AMROY1
+		Images:	1627
+		Time:	17.05.2024 19:31:44 until 17.05.2024 23:10:55
+		Duration:	03:39:11
+		Location:	NULL NULL
+
+	BCURA1LS1
+		Images:	12480
+		Time:	18.05.2024 07:21:02 until 18.05.2024 11:44:33
+		Duration:	04:23:31
+		Location:	NULL NULL
+
+	BTMEN1LS1
+		Images:	9624
+		Time:	18.05.2024 05:57:29 until 18.05.2024 09:46:11
+		Duration:	03:48:42
+		Location:	NULL NULL
+

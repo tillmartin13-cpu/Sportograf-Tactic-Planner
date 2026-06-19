@@ -1,0 +1,133 @@
+EventId: 14950
+Spots: 20
+Total Images: 49497
+Time:	02.02.2025 08:18:04 to 02.03.2025 13:56:50
+Duration: 28.05:38:46
+
+(1) - Swim - Impressions / Pano
+	DCL1
+		Images:	183
+		Time:	02.03.2025 04:26:46 until 02.03.2025 05:01:06
+		Duration:	00:34:20
+		Location:	NULL NULL
+
+	JERO4
+		Images:	93
+		Time:	02.03.2025 04:27:40 until 02.03.2025 05:08:13
+		Duration:	00:40:33
+		Location:	NULL NULL
+
+(2) - Swim - Start
+	DCL3
+		Images:	799
+		Time:	02.03.2025 05:02:17 until 02.03.2025 05:27:09
+		Duration:	00:24:52
+		Location:	NULL NULL
+
+	JERO1
+		Images:	731
+		Time:	02.03.2025 04:51:22 until 02.03.2025 05:25:15
+		Duration:	00:33:53
+		Location:	NULL NULL
+
+(3) - Swim - Transition zone
+	DCL4
+		Images:	788
+		Time:	02.03.2025 05:29:10 until 02.03.2025 09:35:24
+		Duration:	04:06:14
+		Location:	NULL NULL
+
+	JERO3
+		Images:	2629
+		Time:	02.03.2025 05:26:30 until 02.03.2025 06:53:24
+		Duration:	01:26:54
+		Location:	NULL NULL
+
+(4) - Bike - Transition zone
+	DCL5
+		Images:	66
+		Time:	02.03.2025 05:56:51 until 02.03.2025 06:04:22
+		Duration:	00:07:31
+		Location:	NULL NULL
+
+(5) - Bike - 0,0 km
+	OCH1
+		Images:	7074
+		Time:	02.02.2025 09:34:05 until 02.03.2025 09:53:00
+		Duration:	28.00:18:55
+		Location:	NULL NULL
+
+	OCH1LS1
+		Images:	3011
+		Time:	02.02.2025 08:18:04 until 02.03.2025 08:15:04
+		Duration:	27.23:57:00
+		Location:	NULL NULL
+
+	VMM1
+		Images:	3938
+		Time:	02.03.2025 04:38:45 until 02.03.2025 07:15:41
+		Duration:	02:36:56
+		Location:	NULL NULL
+
+	VMM2
+		Images:	3462
+		Time:	02.03.2025 07:45:35 until 02.03.2025 10:01:27
+		Duration:	02:15:52
+		Location:	NULL NULL
+
+(6) - Run - 0,0 km
+	PCT1
+		Images:	3774
+		Time:	02.03.2025 06:06:42 until 02.03.2025 12:59:53
+		Duration:	06:53:11
+		Location:	NULL NULL
+
+	PCT1LS1
+		Images:	447
+		Time:	02.03.2025 06:03:23 until 02.03.2025 13:52:34
+		Duration:	07:49:11
+		Location:	NULL NULL
+
+	PCT1LS2
+		Images:	6183
+		Time:	02.03.2025 06:22:38 until 02.03.2025 12:55:58
+		Duration:	06:33:20
+		Location:	NULL NULL
+
+	VMM4
+		Images:	964
+		Time:	02.03.2025 11:50:31 until 02.03.2025 13:53:00
+		Duration:	02:02:29
+		Location:	NULL NULL
+
+(7) - Finish
+	JERO2
+		Images:	6785
+		Time:	02.03.2025 05:25:16 until 02.03.2025 13:54:28
+		Duration:	08:29:12
+		Location:	NULL NULL
+
+	DCL2
+		Images:	604
+		Time:	02.03.2025 06:27:25 until 02.03.2025 10:53:54
+		Duration:	04:26:29
+		Location:	NULL NULL
+
+	DCL2LS1
+		Images:	6130
+		Time:	02.03.2025 06:18:07 until 02.03.2025 13:56:50
+		Duration:	07:38:43
+		Location:	NULL NULL
+
+	OCH2
+		Images:	1293
+		Time:	02.02.2025 10:52:50 until 02.03.2025 13:54:49
+		Duration:	28.03:01:59
+		Location:	NULL NULL
+
+	VMM3
+		Images:	543
+		Time:	02.03.2025 10:52:51 until 02.03.2025 13:02:26
+		Duration:	02:09:35
+		Location:	NULL NULL
+

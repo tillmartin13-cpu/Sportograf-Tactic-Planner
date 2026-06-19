@@ -1,0 +1,338 @@
+EventId: 13094
+Spots: 50
+Total Images: 309383
+Time:	01.01.0001 23:00:00 to 04.05.2024 12:49:33
+Duration: 739008.13:49:33
+
+(1) - 0.0 km
+	FFNRP2
+		Images:	662
+		Time:	04.05.2024 10:13:42 until 04.05.2024 11:20:13
+		Duration:	01:06:31
+		Location:	NULL NULL
+
+	FFNTO2
+		Images:	1003
+		Time:	04.05.2024 11:49:46 until 04.05.2024 12:07:29
+		Duration:	00:17:43
+		Location:	NULL NULL
+
+	FPFAM2
+		Images:	3008
+		Time:	04.05.2024 10:21:33 until 04.05.2024 12:26:55
+		Duration:	02:05:22
+		Location:	NULL NULL
+
+	FPFDT2
+		Images:	15237
+		Time:	04.05.2024 07:18:34 until 04.05.2024 10:53:34
+		Duration:	03:35:00
+		Location:	NULL NULL
+
+(2) - 0.0 km FN - 855025 - Phillip Reyes
+	FFNPR1
+		Images:	10103
+		Time:	01.01.0001 23:00:00 until 04.05.2024 09:22:38
+		Duration:	739008.10:22:38
+		Location:	NULL NULL
+
+(3) - 0.0 km FN - 855026 - Ryann Purdy
+	FFNRP1
+		Images:	3780
+		Time:	04.05.2024 07:03:56 until 04.05.2024 10:57:54
+		Duration:	03:53:58
+		Location:	NULL NULL
+
+(4) - 0.0 km FN - 855027 - Trigger One
+	FFNTO1
+		Images:	10392
+		Time:	04.05.2024 07:11:11 until 04.05.2024 11:00:23
+		Duration:	03:49:12
+		Location:	NULL NULL
+
+(5) - 0.0 km Medals - 854987 - John Copeland
+	FMDJC1
+		Images:	1955
+		Time:	04.05.2024 05:57:23 until 04.05.2024 11:34:19
+		Duration:	05:36:56
+		Location:	NULL NULL
+
+(6) - 0.0 km Medals - 854989 - Arthur Mansavage
+	FMDAM1
+		Images:	1512
+		Time:	04.05.2024 07:12:58 until 04.05.2024 12:30:30
+		Duration:	05:17:32
+		Location:	NULL NULL
+
+(7) - 0.0 km Medals - 855024 - Bryce Bettag
+	FMDBB1
+		Images:	2628
+		Time:	04.05.2024 06:38:31 until 04.05.2024 11:10:41
+		Duration:	04:32:10
+		Location:	NULL NULL
+
+(8) - 0.0 km MSC1 - 855031 - Gary Brockman
+	FONGB1
+		Images:	2766
+		Time:	04.05.2024 10:20:18 until 04.05.2024 10:48:48
+		Duration:	00:28:30
+		Location:	NULL NULL
+
+(9) - 0.0 km MSC1 - 855032 - Maylea Salmon
+	FONMS1
+		Images:	6305
+		Time:	04.05.2024 07:12:17 until 04.05.2024 10:42:51
+		Duration:	03:30:34
+		Location:	NULL NULL
+
+(10) - 0.0 km MSC1 - 855033 - Casey Ballard
+	FONCB1
+		Images:	4527
+		Time:	04.05.2024 06:54:36 until 04.05.2024 10:08:24
+		Duration:	03:13:48
+		Location:	NULL NULL
+
+(11) - 0.0 km MSC1 - 855034 - Trigger
+	FONTO1
+		Images:	8061
+		Time:	04.05.2024 04:42:02 until 04.05.2024 09:56:35
+		Duration:	05:14:33
+		Location:	NULL NULL
+
+(12) - 0.0 km MSC2 - 855055 - Jeff Ring
+	FTWJR1
+		Images:	16941
+		Time:	04.05.2024 06:13:16 until 04.05.2024 10:10:11
+		Duration:	03:56:55
+		Location:	NULL NULL
+
+(13) - 0.0 km MSC2 - 855057 - Lydia Schembre
+	FTWLS1
+		Images:	4742
+		Time:	04.05.2024 07:45:36 until 04.05.2024 08:58:16
+		Duration:	01:12:40
+		Location:	NULL NULL
+
+(14) - 0.0 km MSC2 - 855058 - Goran Jagetic
+	FTWGJ1
+		Images:	507
+		Time:	04.05.2024 08:38:26 until 04.05.2024 09:11:58
+		Duration:	00:33:32
+		Location:	NULL NULL
+
+(15) - 0.0 km MSC2 - 855059 - Trigger
+	FTWTO1
+		Images:	10208
+		Time:	01.01.0001 23:00:00 until 04.05.2024 09:55:01
+		Duration:	739008.10:55:01
+		Location:	NULL NULL
+
+(16) - 0.0 km MSC3 - 854994 - Trigger Two Ground
+	FTHTT1
+		Images:	8535
+		Time:	04.05.2024 06:44:48 until 04.05.2024 09:36:11
+		Duration:	02:51:23
+		Location:	NULL NULL
+
+(17) - 0.0 km MSC3 - 855009 - Zach Bender
+	FTHZB1
+		Images:	5500
+		Time:	04.05.2024 07:55:13 until 04.05.2024 10:30:56
+		Duration:	02:35:43
+		Location:	NULL NULL
+
+(18) - 0.0 km MSC3 - 855010 - Mark Evrard
+	FTHME1
+		Images:	18667
+		Time:	04.05.2024 07:58:34 until 04.05.2024 09:38:37
+		Duration:	01:40:03
+		Location:	NULL NULL
+
+(19) - 0.0 km MSC3 - 855012 - Trigger One Lift
+	FTHTO1
+		Images:	22774
+		Time:	27.04.2024 05:07:34 until 04.05.2024 10:31:48
+		Duration:	7.05:24:14
+		Location:	NULL NULL
+
+(20) - 0.0 km MSC3 - 855013 - Joshua Lohrman
+	FTHJL1
+		Images:	4720
+		Time:	04.05.2024 08:10:59 until 04.05.2024 10:41:37
+		Duration:	02:30:38
+		Location:	NULL NULL
+
+(21) - 0.0 km MSC4 - 854982 - Brian Spurlock
+	FFOBS1
+		Images:	3042
+		Time:	04.05.2024 11:16:01 until 04.05.2024 12:10:35
+		Duration:	00:54:34
+		Location:	NULL NULL
+
+(22) - 0.0 km MSC4 - 854983 - Frank Stone
+	FFOFS1
+		Images:	6014
+		Time:	04.05.2024 07:11:24 until 04.05.2024 12:11:54
+		Duration:	05:00:30
+		Location:	NULL NULL
+
+(23) - 0.0 km MSC4 - 854984 - Trigger
+	FFOTO1
+		Images:	10882
+		Time:	03.05.2024 21:18:44 until 04.05.2024 12:21:07
+		Duration:	15:02:23
+		Location:	NULL NULL
+
+(24) - 0.0 km OFP - 855017 - Sophia Tintera
+	FOFST1
+		Images:	1015
+		Time:	04.05.2024 07:59:25 until 04.05.2024 12:29:15
+		Duration:	04:29:50
+		Location:	NULL NULL
+
+(25) - 0.0 km OFP - 855020 - Ashley Jones
+	FOFAJ1
+		Images:	894
+		Time:	04.05.2024 07:31:54 until 04.05.2024 12:49:33
+		Duration:	05:17:39
+		Location:	NULL NULL
+
+(26) - 0.0 km OFP - 855021 - China Minter
+	FOFCM1
+		Images:	1412
+		Time:	17.05.2021 16:39:35 until 04.05.2024 09:21:29
+		Duration:	1082.16:41:54
+		Location:	NULL NULL
+
+(27) - 0.0 km OFP - 855022 - Oscar Sanchez
+	FOFOS1
+		Images:	732
+		Time:	04.05.2024 05:22:30 until 04.05.2024 10:47:14
+		Duration:	05:24:44
+		Location:	NULL NULL
+
+(28) - 0.0 km OFP - 855023 - Kylee Polston
+	FOFKP1
+		Images:	324
+		Time:	01.01.0001 23:00:00 until 04.05.2024 09:30:43
+		Duration:	739008.10:30:43
+		Location:	NULL NULL
+
+(29) - 0.0 km PFN - 854993 - Anthony Miller
+	FPFAM1
+		Images:	5680
+		Time:	04.05.2024 07:06:44 until 04.05.2024 10:16:39
+		Duration:	03:09:55
+		Location:	NULL NULL
+
+(30) - 0.0 km PFN - 855013 - Michael Kelly
+	FPFMK1
+		Images:	9762
+		Time:	04.05.2024 04:27:15 until 04.05.2024 09:36:05
+		Duration:	05:08:50
+		Location:	NULL NULL
+
+(31) - 0.0 km PFN - 855014 - Desmond Tan
+	FPFDT1
+		Images:	3894
+		Time:	04.05.2024 10:54:23 until 04.05.2024 12:20:33
+		Duration:	01:26:10
+		Location:	NULL NULL
+
+(32) - 0.0 km PFN - 855015 - Trigger Four
+	FPFTF1
+		Images:	10178
+		Time:	04.05.2024 07:51:16 until 04.05.2024 12:17:00
+		Duration:	04:25:44
+		Location:	NULL NULL
+
+(33) - 0.0 km PFN - 855016 - Trigger Five
+	FPFTS1
+		Images:	12092
+		Time:	04.05.2024 07:53:40 until 04.05.2024 11:42:29
+		Duration:	03:48:49
+		Location:	NULL NULL
+
+(34) - 0.0 km PR/Start - 855029 - Phillip Reyes
+	FSTPR1
+		Images:	182
+		Time:	04.05.2024 04:17:49 until 04.05.2024 08:58:56
+		Duration:	04:41:07
+		Location:	NULL NULL
+
+(35) - 0.0 km PR/Start - 855030 - Desmond Tan
+	FSTDT1
+		Images:	605
+		Time:	04.05.2024 06:50:11 until 04.05.2024 07:08:00
+		Duration:	00:17:49
+		Location:	NULL NULL
+
+(36) - Impressions / Pano
+	PANO1
+(37) - none
+	FFOBS2
+		Images:	9926
+		Time:	04.05.2024 06:13:20 until 04.05.2024 07:55:09
+		Duration:	01:41:49
+		Location:	NULL NULL
+
+	FFOBS3
+		Images:	8501
+		Time:	04.05.2024 09:13:01 until 04.05.2024 10:13:00
+		Duration:	00:59:59
+		Location:	NULL NULL
+
+	FFOBS4
+		Images:	8947
+		Time:	04.05.2024 07:58:23 until 04.05.2024 09:09:39
+		Duration:	01:11:16
+		Location:	NULL NULL
+
+	FONGB2
+		Images:	5724
+		Time:	04.05.2024 10:50:35 until 04.05.2024 11:51:37
+		Duration:	01:01:02
+		Location:	NULL NULL
+
+	FONGB3
+		Images:	11030
+		Time:	04.05.2024 08:56:05 until 04.05.2024 10:54:32
+		Duration:	01:58:27
+		Location:	NULL NULL
+
+	FONGB4
+		Images:	12175
+		Time:	04.05.2024 07:03:20 until 04.05.2024 08:53:40
+		Duration:	01:50:20
+		Location:	NULL NULL
+
+	FONMS2
+		Images:	864
+		Time:	04.05.2024 10:43:21 until 04.05.2024 11:29:15
+		Duration:	00:45:54
+		Location:	NULL NULL
+
+	FTHME2
+		Images:	8329
+		Time:	04.05.2024 09:39:38 until 04.05.2024 10:33:18
+		Duration:	00:53:40
+		Location:	NULL NULL
+
+	FTWGJ2
+		Images:	7493
+		Time:	04.05.2024 05:46:18 until 04.05.2024 08:37:12
+		Duration:	02:50:54
+		Location:	NULL NULL
+
+	FTWLS2
+		Images:	4259
+		Time:	04.05.2024 08:58:49 until 04.05.2024 11:11:06
+		Duration:	02:12:17
+		Location:	NULL NULL
+
+	FTWTO2
+		Images:	894
+		Time:	04.05.2024 10:01:03 until 04.05.2024 10:16:02
+		Duration:	00:14:59
+		Location:	NULL NULL
+

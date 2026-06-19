@@ -1,0 +1,253 @@
+EventId: 9261
+Spots: 38
+Total Images: 187235
+Time:	04.11.2023 19:30:02 to 05.11.2023 19:30:50
+Duration: 1.00:00:48
+
+(1) - Bike - 1.8 km
+	KOH2
+		Images:	208
+		Time:	05.11.2023 10:03:29 until 05.11.2023 11:08:21
+		Duration:	01:04:52
+		Location:	-26.38735 153.09049
+
+(2) - Bike - 18.0 km
+	CFW1
+		Images:	16592
+		Time:	04.11.2023 20:11:41 until 05.11.2023 10:00:34
+		Duration:	13:48:53
+		Location:	-26.40525 152.98939
+
+(3) - Bike - 2.5 km
+	VN1
+		Images:	13766
+		Time:	05.11.2023 05:36:13 until 05.11.2023 09:16:02
+		Duration:	03:39:49
+		Location:	-26.38816 153.09025
+
+(4) - Bike - 38.5 km
+	TOSC3
+		Images:	697
+		Time:	05.11.2023 09:23:30 until 05.11.2023 10:51:49
+		Duration:	01:28:19
+		Location:	-26.39728 153.06465
+
+(5) - Bike - 39.1 km
+	VN1LS2
+		Images:	7298
+		Time:	04.11.2023 19:31:59 until 05.11.2023 11:18:22
+		Duration:	15:46:23
+		Location:	-26.38807 153.09077
+
+(6) - Bike - 39.2 km
+	TOB1LS1
+		Images:	5465
+		Time:	05.11.2023 04:06:27 until 05.11.2023 11:15:00
+		Duration:	07:08:33
+		Location:	-26.39577 153.06911
+
+(7) - Bike - 4.0 km
+	STB1
+		Images:	1386
+		Time:	05.11.2023 05:41:44 until 05.11.2023 08:14:59
+		Duration:	02:33:15
+		Location:	-26.39459 153.07835
+
+(8) - Bike - 5.2 km
+	MEHO1
+		Images:	8501
+		Time:	05.11.2023 03:36:32 until 05.11.2023 07:22:01
+		Duration:	03:45:29
+		Location:	-26.39731 153.06991
+
+(9) - Bike - 5.4 km
+	TOB1LS2
+		Images:	5555
+		Time:	05.11.2023 04:07:58 until 05.11.2023 11:15:24
+		Duration:	07:07:26
+		Location:	-26.39555 153.06923
+
+(10) - Bike - 51.5 km
+	TOB1
+		Images:	14466
+		Time:	05.11.2023 04:46:20 until 05.11.2023 11:06:35
+		Duration:	06:20:15
+		Location:	-26.39519 153.07059
+
+(11) - Bike - Transition zone
+	JEK1
+		Images:	1064
+		Time:	05.11.2023 05:33:24 until 05.11.2023 19:30:50
+		Duration:	13:57:26
+		Location:	-26.38828 153.09029
+
+	VN1IMP2
+		Images:	1338
+		Time:	05.11.2023 09:57:50 until 05.11.2023 10:55:05
+		Duration:	00:57:15
+		Location:	-26.38972 153.08870
+
+	VN1LS3
+		Images:	5943
+		Time:	05.11.2023 07:20:38 until 05.11.2023 11:22:03
+		Duration:	04:01:25
+		Location:	-26.38822 153.09015
+
+(12) - Finish
+	CFW2
+		Images:	1225
+		Time:	05.11.2023 10:58:42 until 05.11.2023 11:51:25
+		Duration:	00:52:43
+		Location:	-26.38822 153.09015
+
+	JEK4
+		Images:	16279
+		Time:	05.11.2023 06:56:57 until 05.11.2023 12:21:41
+		Duration:	05:24:44
+		Location:	-26.38829 153.09040
+
+	JEK4LS1
+		Images:	3847
+		Time:	05.11.2023 06:50:11 until 05.11.2023 12:22:30
+		Duration:	05:32:19
+		Location:	-26.38828 153.09029
+
+	JEK4LS2
+		Images:	9591
+		Time:	04.11.2023 21:19:41 until 05.11.2023 12:24:07
+		Duration:	15:04:26
+		Location:	-26.38828 153.09029
+
+	NIF2
+		Images:	3914
+		Time:	05.11.2023 09:04:57 until 05.11.2023 11:48:23
+		Duration:	02:43:26
+		Location:	-26.38821 153.09027
+
+	VAY2
+	VAY3
+		Images:	2197
+		Time:	05.11.2023 09:13:46 until 05.11.2023 10:31:12
+		Duration:	01:17:26
+		Location:	-26.38826 153.09036
+
+	VN1IMP3
+		Images:	112
+		Time:	05.11.2023 10:27:13 until 05.11.2023 10:36:23
+		Duration:	00:09:10
+		Location:	-26.38822 153.09015
+
+(13) - Run - 1.2 km
+	JEK3
+		Images:	6
+		Time:	05.11.2023 06:52:30 until 05.11.2023 06:53:06
+		Duration:	00:00:36
+		Location:	-26.38828 153.09029
+
+(14) - Run - 43.2 km
+	STB3
+		Images:	277
+		Time:	05.11.2023 07:49:29 until 05.11.2023 09:28:51
+		Duration:	01:39:22
+		Location:	-26.39459 153.07835
+
+(15) - Run - 44.2 km
+	MEHO3
+		Images:	400
+		Time:	05.11.2023 11:13:10 until 05.11.2023 11:58:35
+		Duration:	00:45:25
+		Location:	-26.39731 153.06991
+
+(16) - Run - 46.5 km
+	JEK3LS1
+		Images:	5033
+		Time:	05.11.2023 06:41:47 until 05.11.2023 11:52:03
+		Duration:	05:10:16
+		Location:	-26.40391 153.07597
+
+(17) - Run - 46.8 km
+	HOO1
+		Images:	4040
+		Time:	05.11.2023 04:13:48 until 05.11.2023 11:42:30
+		Duration:	07:28:42
+		Location:	-26.40396 153.07624
+
+(18) - Run - 47.9 km
+	MEHO2
+		Images:	4151
+		Time:	05.11.2023 04:38:42 until 05.11.2023 11:10:44
+		Duration:	06:32:02
+		Location:	-26.39731 153.06991
+
+(19) - Run - 48.4 km
+	CHRO2
+		Images:	4484
+		Time:	05.11.2023 10:08:42 until 05.11.2023 12:01:25
+		Duration:	01:52:43
+		Location:	-26.39619 153.07409
+
+(20) - Run - 50.0 km
+	STB2
+		Images:	6419
+		Time:	05.11.2023 07:30:17 until 05.11.2023 12:01:11
+		Duration:	04:30:54
+		Location:	-26.39459 153.07835
+
+(21) - Run - Transition zone
+	JEK2
+		Images:	178
+		Time:	05.11.2023 06:26:39 until 05.11.2023 07:10:23
+		Duration:	00:43:44
+		Location:	-26.38828 153.09029
+
+(22) - Swim - Impressions / Pano
+	PANO1
+		Images:	1
+		Time:	05.11.2023 04:16:00 until 05.11.2023 04:16:00
+		Duration:	00:00:00
+		Location:	-26.38583 153.09199
+
+(23) - Swim - Start
+	NIF1
+		Images:	6216
+		Time:	05.11.2023 03:38:38 until 05.11.2023 08:26:36
+		Duration:	04:47:58
+		Location:	-26.38583 153.09199
+
+	TOSC1
+		Images:	35
+		Time:	05.11.2023 04:16:49 until 05.11.2023 05:03:57
+		Duration:	00:47:08
+		Location:	-26.38628 153.09197
+
+	TOSC2
+		Images:	9650
+		Time:	05.11.2023 04:21:58 until 05.11.2023 09:19:12
+		Duration:	04:57:14
+		Location:	-26.39604 153.06824
+
+	TOSC4
+		Images:	498
+		Time:	05.11.2023 11:31:42 until 05.11.2023 12:16:04
+		Duration:	00:44:22
+		Location:	-26.38628 153.09197
+
+(24) - Swim - Transition zone
+	CHRO1
+		Images:	11544
+		Time:	05.11.2023 04:43:39 until 05.11.2023 09:13:20
+		Duration:	04:29:41
+		Location:	-26.38612 153.09131
+
+	KOH1
+		Images:	9530
+		Time:	04.11.2023 19:30:02 until 05.11.2023 09:13:02
+		Duration:	13:43:00
+		Location:	-26.38650 153.08931
+
+	VAY1
+		Images:	5329
+		Time:	05.11.2023 04:17:49 until 05.11.2023 12:21:34
+		Duration:	08:03:45
+		Location:	-26.39646 153.07507
+

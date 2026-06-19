@@ -1,0 +1,186 @@
+EventId: 14763
+Spots: 29
+Total Images: 62286
+Time:	31.12.2013 23:00:45 to 10.08.2025 16:12:19
+Duration: 4239.17:11:34
+
+(1) - 0,3 km
+	MW1
+		Images:	4091
+		Time:	10.08.2025 08:00:16 until 10.08.2025 12:10:12
+		Duration:	04:09:56
+		Location:	50.14353 5.65969
+
+	MW1LS1
+		Images:	793
+		Time:	10.08.2025 07:46:33 until 10.08.2025 12:12:45
+		Duration:	04:26:12
+		Location:	50.14353 5.65969
+
+	MW1LS2
+		Images:	784
+		Time:	10.08.2025 07:44:09 until 10.08.2025 12:12:43
+		Duration:	04:28:34
+		Location:	50.14353 5.65969
+
+(2) - 1,5 km
+	TOBB1
+		Images:	4989
+		Time:	09.08.2025 09:59:00 until 10.08.2025 12:17:12
+		Duration:	1.02:18:12
+		Location:	50.13877 5.65874
+
+	TOBB1DRONE1
+		Images:	44
+		Time:	09.08.2025 12:28:12 until 10.08.2025 13:35:53
+		Duration:	1.01:07:41
+		Location:	50.13877 5.65874
+
+	TOBB1LS1
+		Images:	2115
+		Time:	10.08.2025 07:25:59 until 10.08.2025 12:19:31
+		Duration:	04:53:32
+		Location:	50.13877 5.65874
+
+	TOBB1LS2
+		Images:	1152
+		Time:	09.08.2025 08:59:14 until 10.08.2025 12:22:41
+		Duration:	1.03:23:27
+		Location:	50.13877 5.65874
+
+(3) - 2,3 km
+	ALN1
+		Images:	4073
+		Time:	10.08.2025 08:05:02 until 10.08.2025 12:19:10
+		Duration:	04:14:08
+		Location:	50.13925 5.66114
+
+	ALN1LS1
+		Images:	1122
+		Time:	10.08.2025 07:41:00 until 10.08.2025 12:23:08
+		Duration:	04:42:08
+		Location:	50.13925 5.66114
+
+	ALN1LS2
+		Images:	1064
+		Time:	10.08.2025 07:42:48 until 10.08.2025 12:24:24
+		Duration:	04:41:36
+		Location:	50.13925 5.66114
+
+(4) - 3,0 km
+	MBEN1
+		Images:	2604
+		Time:	10.08.2025 08:13:06 until 10.08.2025 10:47:37
+		Duration:	02:34:31
+		Location:	50.14395 5.66864
+
+	MBEN1LS1
+		Images:	617
+		Time:	10.08.2025 07:47:33 until 10.08.2025 10:47:53
+		Duration:	03:00:20
+		Location:	50.14395 5.66864
+
+(5) - 8,2 km /6,8km/-
+	SSW1
+		Images:	2187
+		Time:	09.08.2025 06:43:52 until 10.08.2025 12:47:16
+		Duration:	1.06:03:24
+		Location:	50.14979 5.66432
+
+	SSW1LS1
+		Images:	1065
+		Time:	10.08.2025 07:37:26 until 10.08.2025 11:21:39
+		Duration:	03:44:13
+		Location:	50.14979 5.66432
+
+	SSW1LS2
+		Images:	1721
+		Time:	10.08.2025 08:08:03 until 10.08.2025 11:18:32
+		Duration:	03:10:29
+		Location:	50.14979 5.66432
+
+(6) - 2,5 km before finish
+	MBEN2
+		Images:	4802
+		Time:	10.08.2025 11:57:16 until 10.08.2025 15:13:57
+		Duration:	03:16:41
+		Location:	50.15515 5.66105
+
+	MBEN2LS1
+		Images:	1521
+		Time:	31.12.2013 23:00:45 until 10.08.2025 15:09:11
+		Duration:	4239.16:08:26
+		Location:	50.15515 5.66105
+
+(7) - 2,3 km before finish
+	SSW2
+		Images:	3798
+		Time:	09.08.2025 09:33:42 until 10.08.2025 14:56:24
+		Duration:	1.05:22:42
+		Location:	50.15494 5.66122
+
+	SSW2LS1
+		Images:	2688
+		Time:	09.08.2025 07:39:54 until 10.08.2025 15:08:06
+		Duration:	1.07:28:12
+		Location:	50.15494 5.66122
+
+(8) - 0,6 km before finish
+	ALN2
+		Images:	5540
+		Time:	10.08.2025 13:06:27 until 10.08.2025 15:50:53
+		Duration:	02:44:26
+		Location:	50.14798 5.66247
+
+	ALN2LS1
+		Images:	1348
+		Time:	10.08.2025 12:57:24 until 10.08.2025 15:31:52
+		Duration:	02:34:28
+		Location:	50.14798 5.66247
+
+	ALN2LS2
+		Images:	1271
+		Time:	10.08.2025 12:55:01 until 10.08.2025 15:30:04
+		Duration:	02:35:03
+		Location:	50.14798 5.66247
+
+(9) - 0,3 km before finish
+	TOBB2
+		Images:	2674
+		Time:	10.08.2025 12:46:58 until 10.08.2025 15:32:57
+		Duration:	02:45:59
+		Location:	50.14714 5.66282
+
+	TOBB2LS1
+		Images:	2026
+		Time:	10.08.2025 12:55:12 until 10.08.2025 15:45:46
+		Duration:	02:50:34
+		Location:	50.14714 5.66282
+
+	TOBB2LS2
+		Images:	973
+		Time:	09.08.2025 11:09:48 until 10.08.2025 15:51:23
+		Duration:	1.04:41:35
+		Location:	50.14714 5.66282
+
+(10) - Finish
+	MW2
+		Images:	5555
+		Time:	10.08.2025 12:27:30 until 10.08.2025 16:12:19
+		Duration:	03:44:49
+		Location:	50.14583 5.66289
+
+	MW2LS1
+		Images:	925
+		Time:	10.08.2025 12:27:36 until 10.08.2025 16:10:31
+		Duration:	03:42:55
+		Location:	50.14583 5.66289
+
+	MW2LS2
+		Images:	741
+		Time:	09.08.2025 12:07:19 until 10.08.2025 16:01:56
+		Duration:	1.03:54:37
+		Location:	50.14583 5.66289
+
+(11) - Impressions / Pano
+	PANO1

@@ -1,0 +1,332 @@
+EventId: 12235
+Spots: 52
+Total Images: 546184
+Time:	31.12.2017 23:00:09 to 06.10.2025 13:52:38
+Duration: 2835.14:52:29
+
+(1) - 1,0 km Deutzer Brücke
+	JKE3
+		Images:	5167
+		Time:	05.10.2024 21:16:56 until 06.10.2024 09:40:54
+		Duration:	12:23:58
+		Location:	50.9362 6.96373
+
+	SEO1
+		Images:	11890
+		Time:	06.10.2024 07:43:25 until 06.10.2024 10:49:02
+		Duration:	03:05:37
+		Location:	50.9362 6.96373
+
+(2) - 1,8 km Cäcilienstr.
+	DAGG1
+		Images:	1266
+		Time:	06.10.2024 09:05:00 until 06.10.2024 09:42:13
+		Duration:	00:37:13
+		Location:	50.93536 6.95257
+
+	MABR1
+		Images:	3108
+		Time:	06.10.2024 08:59:01 until 06.10.2024 09:42:35
+		Duration:	00:43:34
+		Location:	50.93536 6.95257
+
+(3) - 17,0 km 38
+	AMAR1
+		Images:	36502
+		Time:	06.10.2024 08:19:21 until 06.10.2024 15:16:31
+		Duration:	06:57:10
+		Location:	50.94704 6.94246
+
+(4) - 1km vor dem Ziel
+	JKE1LS1
+		Images:	12796
+		Time:	05.10.2024 22:45:37 until 06.10.2024 16:44:42
+		Duration:	17:59:05
+		Location:	50.93634 6.95622
+
+	JKE2
+		Images:	34886
+		Time:	06.10.2024 09:56:12 until 06.10.2024 16:38:50
+		Duration:	06:42:38
+		Location:	50.93634 6.95622
+
+(5) - 1km vor dem Ziel (Hohe Str.)
+	SEO2
+		Images:	25864
+		Time:	06.10.2024 10:49:02 until 06.10.2024 16:38:27
+		Duration:	05:49:25
+		Location:	50.93634 6.95622
+
+(6) - 2,3 km Neumarkt
+	FEF1
+		Images:	786
+		Time:	06.10.2024 08:54:02 until 06.10.2024 09:48:14
+		Duration:	00:54:12
+		Location:	50.93563 6.94751
+
+	MARSC1
+		Images:	3750
+		Time:	05.10.2024 15:01:03 until 06.10.2024 09:47:35
+		Duration:	18:46:32
+		Location:	50.93563 6.94751
+
+(7) - 2,5 km Rudolfplatz
+	KOLSI1
+		Images:	8892
+		Time:	06.10.2024 08:47:34 until 06.10.2024 16:17:18
+		Duration:	07:29:44
+		Location:	50.93550 6.93991
+
+	ROPR1
+		Images:	5576
+		Time:	06.10.2024 08:51:33 until 06.10.2024 16:26:35
+		Duration:	07:35:02
+		Location:	50.93550 6.93991
+
+	THL1
+		Images:	16850
+		Time:	05.10.2024 18:05:50 until 06.10.2024 16:20:55
+		Duration:	22:15:05
+		Location:	50.93550 6.93991
+
+	THL1LS1
+		Images:	4473
+		Time:	06.10.2024 08:48:16 until 06.10.2024 09:58:48
+		Duration:	01:10:32
+		Location:	50.93550 6.93991
+
+	THL1LS2
+		Images:	6509
+		Time:	06.10.2024 10:26:32 until 06.10.2024 12:20:18
+		Duration:	01:53:46
+		Location:	50.93550 6.93991
+
+	THL1LS3
+		Images:	7200
+		Time:	05.10.2024 18:10:50 until 06.10.2024 16:20:55
+		Duration:	22:10:05
+		Location:	50.93550 6.93991
+
+	THL1LS4
+		Images:	8253
+		Time:	06.10.2024 10:30:42 until 06.10.2024 14:28:17
+		Duration:	03:57:35
+		Location:	50.93550 6.93991
+
+(8) - 200m vor dem Ziel (Kölner Dom)
+	JS2
+		Images:	15211
+		Time:	06.10.2024 11:41:07 until 06.10.2024 16:45:09
+		Duration:	05:04:02
+		Location:	50.94173 6.95604
+
+	LUGR2
+		Images:	18656
+		Time:	06.10.2024 09:59:48 until 06.10.2024 16:45:22
+		Duration:	06:45:34
+		Location:	50.94173 6.95604
+
+(9) - Finish
+	ALN1
+		Images:	19680
+		Time:	06.10.2024 09:57:01 until 06.10.2024 16:57:35
+		Duration:	07:00:34
+		Location:	50.94156 6.95341
+
+	ALN1DRONE1
+		Images:	20
+		Time:	06.10.2024 07:39:13 until 06.10.2024 13:00:33
+		Duration:	05:21:20
+		Location:	50.94156 6.95341
+
+	ALN1LS1
+		Images:	10252
+		Time:	06.10.2024 09:23:12 until 06.10.2024 16:52:20
+		Duration:	07:29:08
+		Location:	50.94156 6.95341
+
+	ALN1LS2
+		Images:	10849
+		Time:	06.10.2024 09:19:45 until 06.10.2024 16:48:07
+		Duration:	07:28:22
+		Location:	50.94156 6.95341
+
+	ALN2LS1
+		Images:	7757
+		Time:	06.10.2024 09:25:36 until 06.10.2024 16:36:25
+		Duration:	07:10:49
+		Location:	50.94178 6.95761
+
+	ALN2LS2
+		Images:	10020
+		Time:	06.10.2024 09:25:34 until 06.10.2024 16:36:45
+		Duration:	07:11:11
+		Location:	50.94178 6.95761
+
+	ANR1
+		Images:	16381
+		Time:	31.12.2017 23:00:09 until 06.10.2024 15:35:13
+		Duration:	2470.16:35:04
+		Location:	50.94156 6.95341
+
+(10) - Impressionen
+	AG1
+		Images:	584
+		Time:	06.10.2024 08:08:19 until 06.10.2024 14:42:46
+		Duration:	06:34:27
+		Location:	50.93981 6.97288
+
+(11) - Impressions / Pano
+	AG1DRONE1
+		Images:	33
+		Time:	06.10.2024 10:09:40 until 06.10.2024 11:38:07
+		Duration:	01:28:27
+		Location:	50.93981 6.97288
+
+	IWI2
+		Images:	75
+		Time:	06.10.2024 08:31:55 until 06.10.2024 10:17:32
+		Duration:	01:45:37
+		Location:	50.94156 6.95341
+
+	PANO1
+(12) - Km 12,7/25,2 Friesenplatz Puma Cheering Zone
+	MAJ1
+		Images:	10046
+		Time:	06.10.2024 09:38:34 until 06.10.2024 14:20:10
+		Duration:	04:41:36
+		Location:	50.94079 6.93816
+
+	MBEN1
+		Images:	23118
+		Time:	05.10.2024 18:32:55 until 06.10.2024 14:21:33
+		Duration:	19:48:38
+		Location:	50.94079 6.93816
+
+	MBEN1LS1
+		Images:	10126
+		Time:	06.10.2024 09:09:56 until 06.10.2024 14:12:36
+		Duration:	05:02:40
+		Location:	50.94079 6.93816
+
+(13) - Km 15/27,3 Venloer Str./Piusstr. Run Squad Cologne Cheering Zone
+	SSW1
+		Images:	21499
+		Time:	05.10.2024 15:11:19 until 06.10.2024 14:41:44
+		Duration:	23:30:25
+		Location:	50.94624 6.92531
+
+	SSW1LS1
+		Images:	5412
+		Time:	05.10.2024 15:12:20 until 06.10.2024 14:15:37
+		Duration:	23:03:17
+		Location:	50.94624 6.92531
+
+	SSW1LS2
+		Images:	3033
+		Time:	05.10.2024 15:14:06 until 06.10.2024 14:00:06
+		Duration:	22:46:00
+		Location:	50.94624 6.92531
+
+	ST1
+		Images:	14208
+		Time:	06.10.2024 09:45:48 until 06.10.2024 14:41:59
+		Duration:	04:56:11
+		Location:	50.94624 6.92531
+
+	ST1LS1
+		Images:	4480
+		Time:	06.10.2024 09:15:44 until 06.10.2024 13:55:43
+		Duration:	04:39:59
+		Location:	50.94624 6.92531
+
+	ST1LS2
+		Images:	8774
+		Time:	06.10.2025 09:07:18 until 06.10.2025 13:52:38
+		Duration:	04:45:20
+		Location:	50.94624 6.92531
+
+(14) - Km 19,6/40,6 Neumarkt Generali Fan-Meile
+	FEF2
+		Images:	4789
+		Time:	06.10.2024 10:00:56 until 06.10.2024 16:29:18
+		Duration:	06:28:22
+		Location:	50.93639 6.94796
+
+	MARSC2
+		Images:	11863
+		Time:	06.10.2024 09:59:40 until 06.10.2024 16:26:22
+		Duration:	06:26:42
+		Location:	50.93639 6.94796
+
+(15) - Km 20/41 Cäcilienstr. Kölner Haie Fan-Meile
+	DAGG2
+		Images:	8931
+		Time:	06.10.2024 09:51:49 until 06.10.2024 16:35:32
+		Duration:	06:43:43
+		Location:	50.93536 6.95257
+
+	MABR2
+		Images:	15521
+		Time:	06.10.2024 09:51:17 until 06.10.2024 16:35:32
+		Duration:	06:44:15
+		Location:	50.93536 6.95257
+
+(16) - Km 29,5/38,4 Hansaring/Ritterstr. REWE Group-Hammermeile mit REWE und toom
+	MIJA1
+		Images:	19448
+		Time:	06.10.2024 09:53:02 until 06.10.2024 16:22:08
+		Duration:	06:29:06
+		Location:	50.94834 6.9508
+
+	MW1
+		Images:	25484
+		Time:	06.10.2024 08:24:45 until 06.10.2024 16:22:08
+		Duration:	07:57:23
+		Location:	50.94834 6.9508
+
+(17) - Km 5/17,5 Universität zu Köln
+	AGR1
+		Images:	21685
+		Time:	06.10.2024 08:45:35 until 06.10.2024 14:09:46
+		Duration:	05:24:11
+		Location:	50.92744 6.92877
+
+	OT1
+		Images:	20398
+		Time:	06.10.2024 01:03:44 until 06.10.2024 14:01:48
+		Duration:	12:58:04
+		Location:	50.92744 6.92877
+
+(18) - Medaillen
+	IWI1
+		Images:	3704
+		Time:	06.10.2024 10:18:19 until 06.10.2024 16:48:09
+		Duration:	06:29:50
+		Location:	50.94156 6.95341
+
+	THOS2
+		Images:	777
+		Time:	06.10.2024 14:36:07 until 06.10.2024 16:46:39
+		Duration:	02:10:32
+		Location:	50.94156 6.95341
+
+(19) - Start
+	JS1
+		Images:	4049
+		Time:	05.10.2024 16:28:19 until 06.10.2024 10:46:42
+		Duration:	18:18:23
+		Location:	50.93981 6.97288
+
+	LUGR1
+		Images:	3168
+		Time:	05.10.2024 23:13:22 until 06.10.2024 09:38:19
+		Duration:	10:24:57
+		Location:	50.93981 6.97288
+
+	THOS1
+		Images:	2385
+		Time:	06.10.2024 08:38:44 until 06.10.2024 14:36:01
+		Duration:	05:57:17
+		Location:	50.93981 6.97288
+

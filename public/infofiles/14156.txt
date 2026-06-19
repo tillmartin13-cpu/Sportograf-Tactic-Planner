@@ -1,0 +1,169 @@
+EventId: 14156
+Spots: 27
+Total Images: 77186
+Time:	13.12.2025 05:08:59 to 13.12.2025 09:51:15
+Duration: 04:42:16
+
+(1) - Start
+	AZF1
+		Images:	834
+		Time:	13.12.2025 05:20:28 until 13.12.2025 06:28:42
+		Duration:	01:08:14
+		Location:	29.39011 48.00077
+
+	BUR1
+		Images:	1747
+		Time:	13.12.2025 05:20:26 until 13.12.2025 08:31:03
+		Duration:	03:10:37
+		Location:	29.38945 48.00136
+
+	GOR1IMP1
+		Images:	142
+		Time:	13.12.2025 05:16:45 until 13.12.2025 06:00:44
+		Duration:	00:43:59
+		Location:	29.38697 48.00294
+
+	HHT1
+		Images:	125
+		Time:	13.12.2025 05:24:28 until 13.12.2025 06:39:07
+		Duration:	01:14:39
+		Location:	29.38929 48.00149
+
+	MUP1
+		Images:	181
+		Time:	13.12.2025 05:30:49 until 13.12.2025 05:41:33
+		Duration:	00:10:44
+		Location:	29.39011 48.00077
+
+	PW1
+		Images:	4000
+		Time:	13.12.2025 05:08:59 until 13.12.2025 09:00:10
+		Duration:	03:51:11
+		Location:	29.38952 47.99889
+
+	YAS1IMP1
+		Images:	96
+		Time:	13.12.2025 05:27:34 until 13.12.2025 06:41:00
+		Duration:	01:13:26
+		Location:	29.38720 48.00285
+
+(2) - 1.0 km
+	ARP1
+		Images:	7774
+		Time:	13.12.2025 05:31:35 until 13.12.2025 09:19:44
+		Duration:	03:48:09
+		Location:	29.39104 47.99825
+
+	MANB1
+		Images:	2235
+		Time:	13.12.2025 05:31:33 until 13.12.2025 09:19:48
+		Duration:	03:48:15
+		Location:	29.39099 47.99820
+
+(3) - 2.5 km
+	AAM1
+		Images:	7347
+		Time:	13.12.2025 05:37:56 until 13.12.2025 08:58:52
+		Duration:	03:20:56
+		Location:	29.38444 47.97815
+
+	SAQ1
+		Images:	10032
+		Time:	13.12.2025 05:24:25 until 13.12.2025 09:36:23
+		Duration:	04:11:58
+		Location:	29.38447 47.97791
+
+(4) - 50m Before Finish
+	PW2
+		Images:	1115
+		Time:	13.12.2025 09:00:16 until 13.12.2025 09:40:40
+		Duration:	00:40:24
+		Location:	29.39053 48.00090
+
+	BUR2
+		Images:	1347
+		Time:	13.12.2025 08:31:04 until 13.12.2025 09:38:01
+		Duration:	01:06:57
+		Location:	29.39053 48.00090
+
+(5) - Finish
+	AZF2
+		Images:	2147
+		Time:	13.12.2025 06:31:13 until 13.12.2025 09:44:40
+		Duration:	03:13:27
+		Location:	29.38754 48.00273
+
+	GOR1
+		Images:	13674
+		Time:	13.12.2025 06:02:29 until 13.12.2025 09:51:15
+		Duration:	03:48:46
+		Location:	29.38994 48.00163
+
+	HHT2
+		Images:	273
+		Time:	13.12.2025 06:45:22 until 13.12.2025 09:31:58
+		Duration:	02:46:36
+		Location:	29.38769 48.00279
+
+	MUP2
+		Images:	1459
+		Time:	13.12.2025 06:33:49 until 13.12.2025 09:30:26
+		Duration:	02:56:37
+		Location:	29.38759 48.00280
+
+	MUP1LS3
+		Images:	323
+		Time:	13.12.2025 06:13:07 until 13.12.2025 09:30:39
+		Duration:	03:17:32
+		Location:	29.38759 48.00280
+
+	MUP1LS2
+		Images:	315
+		Time:	13.12.2025 06:14:33 until 13.12.2025 09:31:47
+		Duration:	03:17:14
+		Location:	29.38759 48.00280
+
+	SA1
+		Images:	6020
+		Time:	13.12.2025 06:37:21 until 13.12.2025 09:32:43
+		Duration:	02:55:22
+		Location:	29.39000 48.00159
+
+	SA1LS2
+		Images:	1038
+		Time:	13.12.2025 06:18:31 until 13.12.2025 08:24:36
+		Duration:	02:06:05
+		Location:	29.39000 48.00159
+
+	SA1LS1
+		Images:	719
+		Time:	13.12.2025 06:30:31 until 13.12.2025 08:43:12
+		Duration:	02:12:41
+		Location:	29.39000 48.00159
+
+	SADH1
+		Images:	2776
+		Time:	13.12.2025 05:34:54 until 13.12.2025 09:35:07
+		Duration:	04:00:13
+		Location:	29.39000 48.00159
+
+	SHPA1
+		Images:	1101
+		Time:	13.12.2025 05:21:16 until 13.12.2025 09:34:41
+		Duration:	04:13:25
+		Location:	29.39009 48.00119
+
+	YAS1
+		Images:	9732
+		Time:	13.12.2025 06:42:49 until 13.12.2025 09:33:42
+		Duration:	02:50:53
+		Location:	29.38994 48.00163
+
+	YUM1
+		Images:	634
+		Time:	13.12.2025 06:06:30 until 13.12.2025 09:38:27
+		Duration:	03:31:57
+		Location:	29.38985 48.00175
+
+(6) - Impressions / Pano
+	PANO1

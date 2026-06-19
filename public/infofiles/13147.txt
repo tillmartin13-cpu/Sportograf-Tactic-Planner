@@ -1,0 +1,20 @@
+EventId: 13147
+Spots: 2
+Total Images: 10059
+Time:	31.08.2024 07:56:31 to 31.08.2024 22:40:41
+Duration: 14:44:10
+
+(1) - Herotent Hero Tent
+	MAMI2
+		Images:	1655
+		Time:	31.08.2024 09:44:58 until 31.08.2024 22:29:42
+		Duration:	12:44:44
+		Location:	21.765 8.360
+
+(2) - Obstacle 36 A Frame Cargo
+	RMI2
+		Images:	8404
+		Time:	31.08.2024 07:56:31 until 31.08.2024 22:40:41
+		Duration:	14:44:10
+		Location:	21.297 8.475
+

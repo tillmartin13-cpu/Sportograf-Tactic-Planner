@@ -1,0 +1,112 @@
+EventId: 10355
+Spots: 19
+Total Images: 59866
+Time:	31.12.2013 18:00:28 to 25.06.2023 10:43:33
+Duration: 3462.16:43:05
+
+(1) - 0.0 km
+	MBPF1
+		Images:	14743
+		Time:	25.06.2023 08:47:03 until 25.06.2023 10:30:53
+		Duration:	01:43:50
+		Location:	NULL NULL
+
+(2) - 0.0 km Abdo
+	AS1
+		Images:	3594
+		Time:	24.06.2023 16:34:15 until 24.06.2023 19:04:09
+		Duration:	02:29:54
+		Location:	NULL NULL
+
+(3) - 0.0 km Ant
+	DB1
+		Images:	377
+		Time:	25.06.2023 06:15:18 until 25.06.2023 09:44:50
+		Duration:	03:29:32
+		Location:	NULL NULL
+
+(4) - 0.0 km Ant medals
+	AO1
+		Images:	541
+		Time:	25.06.2023 07:09:08 until 25.06.2023 10:40:49
+		Duration:	03:31:41
+		Location:	NULL NULL
+
+(5) - 0.0 km Charlotte medals 851561
+	CT1
+		Images:	830
+		Time:	25.06.2023 03:54:36 until 25.06.2023 07:39:21
+		Duration:	03:44:45
+		Location:	NULL NULL
+
+(6) - 0.0 km Fin trigger
+	FINTR1
+		Images:	4585
+		Time:	31.12.2013 18:00:28 until 25.06.2023 10:00:58
+		Duration:	3462.16:00:30
+		Location:	NULL NULL
+
+(7) - 0.0 km Karla
+	KO1
+		Images:	235
+		Time:	24.06.2023 19:11:12 until 24.06.2023 20:32:06
+		Duration:	01:20:54
+		Location:	NULL NULL
+
+(8) - 0.0 km Leiyla medals
+	LM1
+		Images:	848
+		Time:	20.05.2023 08:19:25 until 25.06.2023 09:43:59
+		Duration:	36.01:24:34
+		Location:	NULL NULL
+
+(9) - 0.0 km MSC 3 trig
+	MS1
+		Images:	22
+		Time:	25.06.2023 08:37:54 until 25.06.2023 08:39:03
+		Duration:	00:01:09
+		Location:	NULL NULL
+
+(10) - 0.0 km some ofp
+	KOB1
+		Images:	672
+		Time:	24.06.2023 20:55:35 until 24.06.2023 22:45:14
+		Duration:	01:49:39
+		Location:	NULL NULL
+
+(11) - Impressions / Pano
+	PANO1
+(12) - none
+	EFM1
+		Images:	2532
+		Time:	25.06.2023 07:04:22 until 25.06.2023 10:43:33
+		Duration:	03:39:11
+		Location:	NULL NULL
+
+	LEN1
+		Images:	14515
+		Time:	25.06.2023 06:35:03 until 25.06.2023 10:08:25
+		Duration:	03:33:22
+		Location:	NULL NULL
+
+	MC1
+	MM1
+	MP1
+		Images:	6399
+		Time:	25.06.2023 06:33:44 until 25.06.2023 08:40:41
+		Duration:	02:06:57
+		Location:	NULL NULL
+
+	MSCC1
+		Images:	5931
+		Time:	25.06.2023 08:03:01 until 25.06.2023 10:11:52
+		Duration:	02:08:51
+		Location:	NULL NULL
+
+	PW1
+		Images:	4042
+		Time:	25.06.2023 08:47:03 until 25.06.2023 09:50:57
+		Duration:	01:03:54
+		Location:	NULL NULL
+
+	TPF1

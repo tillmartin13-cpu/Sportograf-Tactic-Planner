@@ -1,0 +1,184 @@
+EventId: 15248
+Spots: 29
+Total Images: 110539
+Time:	09.02.2025 03:48:52 to 09.02.2025 09:46:02
+Duration: 05:57:10
+
+(1) - 2.0 km
+	LEM1
+		Images:	2053
+		Time:	09.02.2025 05:08:11 until 09.02.2025 05:45:59
+		Duration:	00:37:48
+		Location:	25.02526 55.27004
+
+	NIZ1
+		Images:	1345
+		Time:	09.02.2025 04:48:11 until 09.02.2025 05:45:21
+		Duration:	00:57:10
+		Location:	25.02526 55.27004
+
+(2) - 7.5 km
+	AMG1
+		Images:	1709
+		Time:	09.02.2025 04:45:44 until 09.02.2025 06:24:34
+		Duration:	01:38:50
+		Location:	25.23768 55.26739
+
+	PASA1
+		Images:	3170
+		Time:	09.02.2025 05:14:02 until 09.02.2025 06:22:57
+		Duration:	01:08:55
+		Location:	25.23768 55.26739
+
+(3) - Finish
+	AMG2
+		Images:	3599
+		Time:	09.02.2025 07:20:22 until 09.02.2025 08:34:03
+		Duration:	01:13:41
+		Location:	25.14814 55.19518
+
+	KADE1
+		Images:	5711
+		Time:	09.02.2025 04:07:21 until 09.02.2025 08:33:56
+		Duration:	04:26:35
+		Location:	25.14830 55.19533
+
+	KADE2
+		Images:	635
+		Time:	09.02.2025 05:47:50 until 09.02.2025 07:22:15
+		Duration:	01:34:25
+		Location:	25.14803 55.19502
+
+	KAJ1
+		Images:	7508
+		Time:	09.02.2025 03:51:48 until 09.02.2025 08:32:54
+		Duration:	04:41:06
+		Location:	25.14830 55.19533
+
+	KEHI2
+		Images:	1996
+		Time:	09.02.2025 07:20:08 until 09.02.2025 08:41:39
+		Duration:	01:21:31
+		Location:	25.14823 55.19522
+
+	PASA2
+		Images:	3245
+		Time:	09.02.2025 07:18:30 until 09.02.2025 08:53:41
+		Duration:	01:35:11
+		Location:	25.14823 55.19522
+
+	SAS1
+		Images:	17750
+		Time:	09.02.2025 04:09:46 until 09.02.2025 08:34:03
+		Duration:	04:24:17
+		Location:	25.14823 55.19522
+
+	SAS1LS1
+		Images:	3178
+		Time:	09.02.2025 05:31:11 until 09.02.2025 08:30:19
+		Duration:	02:59:08
+		Location:	25.14823 55.19522
+
+	SSA2
+		Images:	4121
+		Time:	09.02.2025 07:19:38 until 09.02.2025 09:46:02
+		Duration:	02:26:24
+		Location:	25.14823 55.19522
+
+	SSR1
+		Images:	3597
+		Time:	09.02.2025 05:23:54 until 09.02.2025 08:43:16
+		Duration:	03:19:22
+		Location:	25.14823 55.19522
+
+(4) - 14.0 km
+	GSH1
+		Images:	5582
+		Time:	09.02.2025 05:40:04 until 09.02.2025 07:17:32
+		Duration:	01:37:28
+		Location:	25.19953 55.23886
+
+	MRGO1
+		Images:	3993
+		Time:	09.02.2025 03:48:52 until 09.02.2025 08:15:12
+		Duration:	04:26:20
+		Location:	25.19953 55.23886
+
+(5) - 7.0 km
+	KEHI1
+		Images:	2113
+		Time:	09.02.2025 04:49:55 until 09.02.2025 06:21:08
+		Duration:	01:31:13
+		Location:	25.23960 55.27108
+
+	SSA1
+		Images:	5103
+		Time:	09.02.2025 04:37:20 until 09.02.2025 07:19:05
+		Duration:	02:41:45
+		Location:	25.23974 55.27100
+
+(6) - 20.0 km
+	LEM2
+		Images:	7312
+		Time:	09.02.2025 06:36:08 until 09.02.2025 08:19:28
+		Duration:	01:43:20
+		Location:	25.14824 55.19761
+
+	LEM2LS1
+		Images:	2294
+		Time:	09.02.2025 06:35:23 until 09.02.2025 08:18:21
+		Duration:	01:42:58
+		Location:	25.14824 55.19761
+
+	MALM1
+		Images:	1309
+		Time:	09.02.2025 06:12:49 until 09.02.2025 08:18:04
+		Duration:	02:05:15
+		Location:	25.14968 55.19878
+
+	NIZ2
+		Images:	5155
+		Time:	09.02.2025 06:32:23 until 09.02.2025 08:19:06
+		Duration:	01:46:43
+		Location:	25.14782 55.19722
+
+(7) - 12.0 km
+	MGOT1
+		Images:	4085
+		Time:	09.02.2025 05:34:30 until 09.02.2025 07:00:04
+		Duration:	01:25:34
+		Location:	25.20974 55.24632
+
+	MUP1LS2
+		Images:	916
+		Time:	09.02.2025 06:29:56 until 09.02.2025 07:01:58
+		Duration:	00:32:02
+		Location:	25.14823 55.19522
+
+	MUP1
+		Images:	8957
+		Time:	09.02.2025 05:34:36 until 09.02.2025 08:09:09
+		Duration:	02:34:33
+		Location:	25.20974 55.24632
+
+	MUP1LS1
+		Images:	1879
+		Time:	09.02.2025 05:21:45 until 09.02.2025 07:00:48
+		Duration:	01:39:03
+		Location:	25.14823 55.19522
+
+(8) - Start
+	ZB1
+		Images:	2014
+		Time:	09.02.2025 04:15:33 until 09.02.2025 05:18:42
+		Duration:	01:03:09
+		Location:	25.21714 55.28596
+
+(9) - Impressions / Pano
+	ZB2
+		Images:	210
+		Time:	09.02.2025 06:35:02 until 09.02.2025 07:28:37
+		Duration:	00:53:35
+		Location:	25.14854 55.19556
+
+	PANO1

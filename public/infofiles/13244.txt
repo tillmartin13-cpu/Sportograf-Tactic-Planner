@@ -1,0 +1,207 @@
+EventId: 13244
+Spots: 30
+Total Images: 172926
+Time:	01.01.0001 23:00:00 to 31.12.2099 22:59:59
+Duration: 766642.23:59:59
+
+(1) - 0.0 km 857237, upsot trigger, pre finish
+	ATRIG1
+		Images:	9495
+		Time:	27.07.2024 08:22:39 until 27.07.2024 11:58:10
+		Duration:	03:35:31
+		Location:	NULL NULL
+
+(2) - 0.0 km aaron winski, msc 1, 857226
+	AARON1
+		Images:	10756
+		Time:	27.07.2024 08:27:11 until 27.07.2024 10:52:59
+		Duration:	02:25:48
+		Location:	NULL NULL
+
+(3) - 0.0 km auto cam, msc 2, 857245
+	ACAM1
+		Images:	10042
+		Time:	01.01.0001 23:00:00 until 27.07.2024 23:01:18
+		Duration:	739093.00:01:18
+		Location:	NULL NULL
+
+(4) - 0.0 km Brad KRoll medals, 857239
+	EBRAD1
+		Images:	944
+		Time:	27.07.2024 00:32:18 until 27.07.2024 02:41:43
+		Duration:	02:09:25
+		Location:	NULL NULL
+
+(5) - 0.0 km caitlin kroll, pre fin, 857233
+	ECAIT1
+		Images:	8914
+		Time:	27.07.2024 13:50:24 until 27.07.2024 18:04:49
+		Duration:	04:14:25
+		Location:	NULL NULL
+
+(6) - 0.0 km clark zarifis, finish 857234
+	BCLAR1
+		Images:	8016
+		Time:	27.07.2024 06:56:08 until 27.07.2024 11:02:23
+		Duration:	04:06:15
+		Location:	NULL NULL
+
+(7) - 0.0 km courtney hughes, medals 857607
+	ECOUT1
+		Images:	1164
+		Time:	27.07.2024 08:44:03 until 27.07.2024 10:51:17
+		Duration:	02:07:14
+		Location:	NULL NULL
+
+(8) - 0.0 km denise venteichert, msc1, 857227
+	ADENI1
+		Images:	8145
+		Time:	26.07.2024 19:51:04 until 26.07.2024 22:16:26
+		Duration:	02:25:22
+		Location:	NULL NULL
+
+(9) - 0.0 km Finish trigger cam
+	EFIN1
+		Images:	9593
+		Time:	27.07.2024 07:25:21 until 27.07.2024 23:06:36
+		Duration:	15:41:15
+		Location:	NULL NULL
+
+(10) - 0.0 km harral allen kids race 857250
+	KHARR1
+		Images:	1711
+		Time:	26.07.2024 17:18:14 until 26.07.2024 19:07:59
+		Duration:	01:49:45
+		Location:	NULL NULL
+
+(11) - 0.0 km jay patel, kids race
+	KJAY1
+		Images:	1449
+		Time:	26.07.2024 05:36:14 until 26.07.2024 06:45:16
+		Duration:	01:09:02
+		Location:	NULL NULL
+
+(12) - 0.0 km jay patel;, msc 2, 857244
+	AJAY1
+		Images:	3678
+		Time:	26.07.2024 20:36:46 until 26.07.2024 23:03:51
+		Duration:	02:27:05
+		Location:	NULL NULL
+
+(13) - 0.0 km jeff alltop kids race
+	KJEFF1
+		Images:	1348
+		Time:	26.07.2024 17:44:00 until 26.07.2024 19:08:42
+		Duration:	01:24:42
+		Location:	NULL NULL
+
+(14) - 0.0 km jeff alltop, PFN, 857238
+	EJEFF1
+		Images:	5486
+		Time:	27.07.2024 08:37:35 until 27.07.2024 10:51:41
+		Duration:	02:14:06
+		Location:	NULL NULL
+
+(15) - 0.0 km kids race morgan white 857247
+	KMORG1
+		Images:	905
+		Time:	26.07.2024 18:02:55 until 26.07.2024 19:24:53
+		Duration:	01:21:58
+		Location:	NULL NULL
+
+(16) - 0.0 km kids race PR
+	KPR1
+		Images:	90
+		Time:	26.07.2024 16:54:02 until 26.07.2024 19:29:18
+		Duration:	02:35:16
+		Location:	NULL NULL
+
+(17) - 0.0 km lucas kroll, mass, 857229
+	BLUKE1
+		Images:	15366
+		Time:	31.08.2013 20:04:43 until 31.12.2099 22:59:59
+		Duration:	31533.02:55:16
+		Location:	NULL NULL
+
+(18) - 0.0 km mike scanlon, 857243, msc2
+	AMIKE1
+		Images:	6201
+		Time:	26.07.2024 21:16:29 until 26.07.2024 23:42:43
+		Duration:	02:26:14
+		Location:	NULL NULL
+
+(19) - 0.0 km morgan white 857235, finish line
+	BMORG1
+		Images:	9357
+		Time:	27.07.2024 08:38:01 until 27.07.2024 11:05:35
+		Duration:	02:27:34
+		Location:	NULL NULL
+
+(20) - 0.0 km nick morris, medals, 857241
+	ENICK1
+		Images:	642
+		Time:	27.07.2024 08:41:21 until 27.07.2024 10:56:31
+		Duration:	02:15:10
+		Location:	NULL NULL
+
+(21) - 0.0 km owen vanderlinden, pre finish order 857236
+	EÖWEN1
+		Images:	10374
+		Time:	27.07.2024 07:31:39 until 27.07.2024 09:51:41
+		Duration:	02:20:02
+		Location:	NULL NULL
+
+(22) - 0.0 km pre finish trigger, 857232
+	APFN1
+		Images:	3515
+		Time:	27.07.2024 08:19:55 until 27.07.2024 10:17:26
+		Duration:	01:57:31
+		Location:	NULL NULL
+
+(23) - 0.0 km trigger, msc 1, 857228
+	AMSC1
+		Images:	9877
+		Time:	27.07.2024 07:08:37 until 27.07.2024 11:01:16
+		Duration:	03:52:39
+		Location:	NULL NULL
+
+(24) - 0.0 km trigger, road art, 857231
+	BMASS1
+		Images:	8367
+		Time:	27.07.2024 08:04:49 until 27.07.2024 10:57:31
+		Duration:	02:52:42
+		Location:	NULL NULL
+
+(25) - Impressions / Pano
+	PANO1
+(26) - none
+	AQUIC1
+		Images:	6432
+		Time:	27.07.2024 06:43:54 until 27.07.2024 13:43:50
+		Duration:	06:59:56
+		Location:	NULL NULL
+
+	BHARR1
+		Images:	7751
+		Time:	27.07.2024 08:36:47 until 27.07.2024 11:00:01
+		Duration:	02:23:14
+		Location:	NULL NULL
+
+	BSTAR1
+		Images:	440
+		Time:	27.07.2024 06:49:19 until 27.07.2024 08:24:41
+		Duration:	01:35:22
+		Location:	NULL NULL
+
+	EPR1
+		Images:	61
+		Time:	27.07.2024 06:51:22 until 27.07.2024 07:10:40
+		Duration:	00:19:18
+		Location:	NULL NULL
+
+	ERING1
+		Images:	12807
+		Time:	27.07.2024 07:47:35 until 27.07.2024 10:59:52
+		Duration:	03:12:17
+		Location:	NULL NULL
+

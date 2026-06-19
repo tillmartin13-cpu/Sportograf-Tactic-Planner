@@ -1,0 +1,140 @@
+EventId: 16035
+Spots: 21
+Total Images: 28597
+Time:	20.04.2025 07:41:15 to 20.04.2025 15:32:04
+Duration: 07:50:49
+
+(1) - 11.0 km
+	BAR1
+		Images:	615
+		Time:	20.04.2025 08:04:53 until 20.04.2025 09:52:42
+		Duration:	01:47:49
+		Location:	50.17462 4.40218
+
+(2) - 6.0 km before finish
+	BAR2
+		Images:	5443
+		Time:	20.04.2025 11:00:33 until 20.04.2025 15:32:04
+		Duration:	04:31:31
+		Location:	50.15099 4.39419
+
+(3) - 9.5 km
+	BC1
+		Images:	1074
+		Time:	20.04.2025 07:41:15 until 20.04.2025 11:30:14
+		Duration:	03:48:59
+		Location:	50.17149 4.38222
+
+(4) - 3.0 km before finish
+	BC2
+		Images:	2677
+		Time:	20.04.2025 11:48:03 until 20.04.2025 15:21:16
+		Duration:	03:33:13
+		Location:	50.17428 4.40796
+
+(5) - 2.0 km
+	MIJA1
+		Images:	2549
+		Time:	20.04.2025 07:57:53 until 20.04.2025 11:09:47
+		Duration:	03:11:54
+		Location:	50.19269 4.35742
+
+(6) - 0.5 km before finish
+	MIJA2
+		Images:	2708
+		Time:	20.04.2025 11:43:00 until 20.04.2025 15:22:36
+		Duration:	03:39:36
+		Location:	50.18279 4.39045
+
+(7) - Start
+	OP1
+		Images:	756
+		Time:	20.04.2025 07:43:32 until 20.04.2025 11:04:08
+		Duration:	03:20:36
+		Location:	50.19150 4.38348
+
+	OP1LS1
+		Images:	516
+		Time:	20.04.2025 08:40:26 until 20.04.2025 11:07:51
+		Duration:	02:27:25
+		Location:	50.19150 4.38348
+
+(8) - Finish
+	OP2
+		Images:	2420
+		Time:	20.04.2025 11:07:01 until 20.04.2025 15:04:03
+		Duration:	03:57:02
+		Location:	50.19150 4.38348
+
+	OP2LS1
+		Images:	1129
+		Time:	20.04.2025 11:09:05 until 20.04.2025 15:04:11
+		Duration:	03:55:06
+		Location:	50.19150 4.38348
+
+(9) - 36.5 km
+	PBO1
+		Images:	1078
+		Time:	20.04.2025 08:20:37 until 20.04.2025 11:03:59
+		Duration:	02:43:22
+		Location:	50.14101 4.32133
+
+(10) - 185.0 km before finish
+	PBO2
+		Images:	2132
+		Time:	20.04.2025 11:53:38 until 20.04.2025 14:39:10
+		Duration:	02:45:32
+		Location:	50.06322 4.37963
+
+(11) - 33.0 km
+	SDT1
+		Images:	188
+		Time:	20.04.2025 08:45:55 until 20.04.2025 10:49:16
+		Duration:	02:03:21
+		Location:	50.11338 4.32839
+
+	SDT1DRONE1
+		Images:	25
+		Time:	20.04.2025 10:04:59 until 20.04.2025 13:53:59
+		Duration:	03:49:00
+		Location:	50.11338 4.32839
+
+	SDT1LS1
+		Images:	338
+		Time:	20.04.2025 08:30:19 until 20.04.2025 10:49:18
+		Duration:	02:18:59
+		Location:	50.11338 4.32839
+
+	SDT1LS2
+		Images:	314
+		Time:	20.04.2025 08:33:12 until 20.04.2025 11:54:58
+		Duration:	03:21:46
+		Location:	50.11338 4.32839
+
+(12) - 18.0 km before finish
+	SDT2
+		Images:	685
+		Time:	20.04.2025 12:07:26 until 20.04.2025 14:35:10
+		Duration:	02:27:44
+		Location:	50.06439 4.37875
+
+	SDT2DRONE1
+		Images:	16
+		Time:	20.04.2025 13:41:29 until 20.04.2025 13:53:59
+		Duration:	00:12:30
+		Location:	50.06439 4.37875
+
+	SDT2LS1
+		Images:	1911
+		Time:	20.04.2025 11:58:35 until 20.04.2025 14:38:01
+		Duration:	02:39:26
+		Location:	50.06396 4.37861
+
+	SDT2LS2
+		Images:	2023
+		Time:	20.04.2025 11:56:19 until 20.04.2025 14:38:03
+		Duration:	02:41:44
+		Location:	50.06396 4.37861
+
+(13) - Impressions / Pano
+	PANO1

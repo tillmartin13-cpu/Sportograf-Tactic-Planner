@@ -1,0 +1,414 @@
+EventId: 10338
+Spots: 67
+Total Images: 286048
+Time:	26.11.2023 06:03:03 to 26.11.2023 21:18:06
+Duration: 15:15:03
+
+(1) - Farmers Carry
+	BDR2LS1
+		Images:	12526
+		Time:	26.11.2023 06:17:23 until 26.11.2023 18:15:21
+		Duration:	11:57:58
+		Location:	51.50827 0.02986
+
+	BPARO1LS1
+		Images:	5633
+		Time:	26.11.2023 06:10:12 until 26.11.2023 21:08:24
+		Duration:	14:58:12
+		Location:	51.50827 0.02986
+
+(2) - Finish
+	AGUD6
+		Images:	820
+		Time:	26.11.2023 12:40:57 until 26.11.2023 13:14:17
+		Duration:	00:33:20
+		Location:	51.50827 0.02986
+
+	APARO7
+		Images:	160
+		Time:	26.11.2023 07:59:07 until 26.11.2023 14:32:40
+		Duration:	06:33:33
+		Location:	51.50827 0.02986
+
+	ATOMY1
+		Images:	20839
+		Time:	26.11.2023 07:35:52 until 26.11.2023 15:12:17
+		Duration:	07:36:25
+		Location:	51.50827 0.02986
+
+	BDR1
+		Images:	4872
+		Time:	26.11.2023 14:32:48 until 26.11.2023 21:17:18
+		Duration:	06:44:30
+		Location:	51.50827 0.02986
+
+	BGUD6
+		Images:	371
+		Time:	26.11.2023 17:12:54 until 26.11.2023 17:31:57
+		Duration:	00:19:03
+		Location:	51.50827 0.02986
+
+	BGUD6LS1
+		Images:	2059
+		Time:	26.11.2023 06:13:33 until 26.11.2023 19:22:13
+		Duration:	13:08:40
+		Location:	51.50827 0.02986
+
+	BJUW2LS1
+		Images:	2007
+		Time:	26.11.2023 06:07:25 until 26.11.2023 19:20:03
+		Duration:	13:12:38
+		Location:	51.50827 0.02986
+
+(3) - Hero Wall
+	ADR1
+		Images:	5073
+		Time:	26.11.2023 06:26:52 until 26.11.2023 14:28:59
+		Duration:	08:02:07
+		Location:	51.50827 0.02986
+
+	BTOMY1
+		Images:	4248
+		Time:	26.11.2023 14:30:05 until 26.11.2023 21:18:06
+		Duration:	06:48:01
+		Location:	51.50827 0.02986
+
+(4) - Impressions / Pano
+	APARO8
+		Images:	40
+		Time:	26.11.2023 08:43:00 until 26.11.2023 09:47:25
+		Duration:	01:04:25
+		Location:	51.50827 0.02986
+
+	PANO1
+(5) - Rowing
+	AGUD4
+		Images:	881
+		Time:	26.11.2023 11:25:06 until 26.11.2023 11:49:24
+		Duration:	00:24:18
+		Location:	51.50827 0.02986
+
+	AMKH1
+		Images:	4863
+		Time:	26.11.2023 06:23:35 until 26.11.2023 14:16:42
+		Duration:	07:53:07
+		Location:	51.50827 0.02986
+
+	AMP3
+		Images:	991
+		Time:	26.11.2023 11:21:45 until 26.11.2023 11:43:52
+		Duration:	00:22:07
+		Location:	51.50827 0.02986
+
+	AMYN1
+		Images:	2956
+		Time:	26.11.2023 07:03:33 until 26.11.2023 13:58:28
+		Duration:	06:54:55
+		Location:	51.50827 0.02986
+
+	APARO4
+		Images:	32
+		Time:	26.11.2023 07:33:15 until 26.11.2023 07:45:54
+		Duration:	00:12:39
+		Location:	51.50827 0.02986
+
+	BAH1
+		Images:	6491
+		Time:	26.11.2023 14:19:10 until 26.11.2023 20:24:49
+		Duration:	06:05:39
+		Location:	51.50827 0.02986
+
+	BPARO1
+		Images:	1928
+		Time:	26.11.2023 15:53:50 until 26.11.2023 16:54:27
+		Duration:	01:00:37
+		Location:	51.50827 0.02986
+
+	BPAS1
+		Images:	8740
+		Time:	26.11.2023 14:17:57 until 26.11.2023 20:26:45
+		Duration:	06:08:48
+		Location:	51.50827 0.02986
+
+(6) - Run
+	BKO2LS1
+		Images:	2949
+		Time:	26.11.2023 06:05:03 until 26.11.2023 19:59:11
+		Duration:	13:54:08
+		Location:	51.50827 0.02986
+
+(7) - Sandbag Lunges
+	APARO5
+		Images:	1248
+		Time:	26.11.2023 07:48:19 until 26.11.2023 12:31:48
+		Duration:	04:43:29
+		Location:	51.50827 0.02986
+
+	AQVT1
+		Images:	4545
+		Time:	26.11.2023 06:08:05 until 26.11.2023 14:03:49
+		Duration:	07:55:44
+		Location:	51.50827 0.02986
+
+	AWIN1
+		Images:	6960
+		Time:	26.11.2023 06:24:30 until 26.11.2023 14:02:57
+		Duration:	07:38:27
+		Location:	51.50827 0.02986
+
+	BGUD4
+		Images:	901
+		Time:	26.11.2023 15:51:58 until 26.11.2023 18:46:50
+		Duration:	02:54:52
+		Location:	51.50827 0.02986
+
+	BMADO1
+		Images:	6392
+		Time:	26.11.2023 14:08:39 until 26.11.2023 20:58:48
+		Duration:	06:50:09
+		Location:	51.50827 0.02986
+
+	BMP4
+		Images:	1849
+		Time:	26.11.2023 15:49:58 until 26.11.2023 16:21:37
+		Duration:	00:31:39
+		Location:	51.50827 0.02986
+
+	BMYN1
+		Images:	2109
+		Time:	26.11.2023 14:06:44 until 26.11.2023 21:01:21
+		Duration:	06:54:37
+		Location:	51.50827 0.02986
+
+	BPARO2
+		Images:	181
+		Time:	26.11.2023 18:11:31 until 26.11.2023 18:16:48
+		Duration:	00:05:17
+		Location:	51.50827 0.02986
+
+(8) - SkiErg
+	ACMU1
+		Images:	13187
+		Time:	26.11.2023 06:03:03 until 26.11.2023 13:58:50
+		Duration:	07:55:47
+		Location:	51.50827 0.02986
+
+	AGUD1
+		Images:	2336
+		Time:	26.11.2023 06:34:54 until 26.11.2023 09:30:21
+		Duration:	02:55:27
+		Location:	51.50827 0.02986
+
+	AMADO1
+		Images:	8618
+		Time:	26.11.2023 06:35:04 until 26.11.2023 13:59:20
+		Duration:	07:24:16
+		Location:	51.50827 0.02986
+
+	APARO1
+		Images:	26
+		Time:	26.11.2023 07:15:34 until 26.11.2023 07:18:28
+		Duration:	00:02:54
+		Location:	51.50827 0.02986
+
+	ASALA1
+		Images:	8633
+		Time:	26.11.2023 06:25:28 until 26.11.2023 13:59:06
+		Duration:	07:33:38
+		Location:	51.50827 0.02986
+
+	BGUD1
+		Images:	217
+		Time:	26.11.2023 14:06:14 until 26.11.2023 14:18:41
+		Duration:	00:12:27
+		Location:	51.50827 0.02986
+
+	BJUW1
+		Images:	7495
+		Time:	26.11.2023 14:24:33 until 26.11.2023 19:13:43
+		Duration:	04:49:10
+		Location:	51.50827 0.02986
+
+	BMALV1
+		Images:	2399
+		Time:	26.11.2023 14:24:32 until 26.11.2023 19:32:10
+		Duration:	05:07:38
+		Location:	51.50827 0.02986
+
+	BMKH1
+		Images:	1849
+		Time:	26.11.2023 14:27:36 until 26.11.2023 19:27:26
+		Duration:	04:59:50
+		Location:	51.50827 0.02986
+
+	BMP1
+		Images:	661
+		Time:	26.11.2023 14:04:20 until 26.11.2023 14:19:20
+		Duration:	00:15:00
+		Location:	51.50827 0.02986
+
+(9) - Sled Pull
+	AAH1
+		Images:	11006
+		Time:	26.11.2023 06:40:27 until 26.11.2023 14:13:02
+		Duration:	07:32:35
+		Location:	51.50827 0.02986
+
+	AGUD3
+		Images:	380
+		Time:	26.11.2023 10:41:39 until 26.11.2023 11:11:42
+		Duration:	00:30:03
+		Location:	51.50827 0.02986
+
+	AMP2
+		Images:	1577
+		Time:	26.11.2023 10:30:08 until 26.11.2023 11:12:14
+		Duration:	00:42:06
+		Location:	51.50827 0.02986
+
+	APARO3
+		Images:	695
+		Time:	26.11.2023 07:29:39 until 26.11.2023 11:12:21
+		Duration:	03:42:42
+		Location:	51.50827 0.02986
+
+	APAS1
+		Images:	16198
+		Time:	26.11.2023 06:24:35 until 26.11.2023 14:12:47
+		Duration:	07:48:12
+		Location:	51.50827 0.02986
+
+	BGUD3
+		Images:	771
+		Time:	26.11.2023 15:18:24 until 26.11.2023 15:40:36
+		Duration:	00:22:12
+		Location:	51.50827 0.02986
+
+	BKO1
+		Images:	13206
+		Time:	26.11.2023 14:13:45 until 26.11.2023 19:48:16
+		Duration:	05:34:31
+		Location:	51.50827 0.02986
+
+	BKU1
+		Images:	4999
+		Time:	26.11.2023 14:12:22 until 26.11.2023 19:56:56
+		Duration:	05:44:34
+		Location:	51.50827 0.02986
+
+	BMP3
+		Images:	1090
+		Time:	26.11.2023 15:10:41 until 26.11.2023 15:40:46
+		Duration:	00:30:05
+		Location:	51.50827 0.02986
+
+(10) - Sled Push
+	ABKO1
+		Images:	10981
+		Time:	26.11.2023 06:18:38 until 26.11.2023 14:07:02
+		Duration:	07:48:24
+		Location:	51.50827 0.02986
+
+	AGUD2
+		Images:	596
+		Time:	26.11.2023 09:43:22 until 26.11.2023 10:20:57
+		Duration:	00:37:35
+		Location:	51.50827 0.02986
+
+	AKU1
+		Images:	6734
+		Time:	26.11.2023 06:31:20 until 26.11.2023 14:07:15
+		Duration:	07:35:55
+		Location:	51.50827 0.02986
+
+	AMP1
+		Images:	3481
+		Time:	26.11.2023 06:25:20 until 26.11.2023 10:21:07
+		Duration:	03:55:47
+		Location:	51.50827 0.02986
+
+	APARO2
+		Images:	474
+		Time:	26.11.2023 07:19:42 until 26.11.2023 10:21:37
+		Duration:	03:01:55
+		Location:	51.50827 0.02986
+
+	BCMU1
+		Images:	10490
+		Time:	26.11.2023 14:06:11 until 26.11.2023 19:41:41
+		Duration:	05:35:30
+		Location:	51.50827 0.02986
+
+	BGUD2
+		Images:	437
+		Time:	26.11.2023 14:30:48 until 26.11.2023 15:00:09
+		Duration:	00:29:21
+		Location:	51.50827 0.02986
+
+	BMP2
+		Images:	584
+		Time:	26.11.2023 14:30:42 until 26.11.2023 14:58:42
+		Duration:	00:28:00
+		Location:	51.50827 0.02986
+
+	BSALA1
+		Images:	5978
+		Time:	26.11.2023 14:10:11 until 26.11.2023 19:45:07
+		Duration:	05:34:56
+		Location:	51.50827 0.02986
+
+(11) - Wall Balls
+	AGUD5
+		Images:	596
+		Time:	26.11.2023 12:00:41 until 26.11.2023 12:32:34
+		Duration:	00:31:53
+		Location:	51.50827 0.02986
+
+	AJUW1
+		Images:	12309
+		Time:	26.11.2023 07:06:45 until 26.11.2023 14:09:43
+		Duration:	07:02:58
+		Location:	51.50827 0.02986
+
+	AMALV1
+		Images:	6084
+		Time:	26.11.2023 06:12:12 until 26.11.2023 14:11:14
+		Duration:	07:59:02
+		Location:	51.50827 0.02986
+
+	AMP4
+		Images:	1133
+		Time:	26.11.2023 11:58:41 until 26.11.2023 12:31:36
+		Duration:	00:32:55
+		Location:	51.50827 0.02986
+
+	APARO6
+		Images:	13
+		Time:	26.11.2023 07:53:36 until 26.11.2023 07:56:24
+		Duration:	00:02:48
+		Location:	51.50827 0.02986
+
+	BGUD5
+		Images:	821
+		Time:	26.11.2023 16:31:27 until 26.11.2023 17:00:25
+		Duration:	00:28:58
+		Location:	51.50827 0.02986
+
+	BMP5
+		Images:	943
+		Time:	26.11.2023 16:26:33 until 26.11.2023 17:36:40
+		Duration:	01:10:07
+		Location:	51.50827 0.02986
+
+	BQVT1
+		Images:	9139
+		Time:	26.11.2023 14:12:25 until 26.11.2023 21:12:41
+		Duration:	07:00:16
+		Location:	51.50827 0.02986
+
+	BWIN1
+		Images:	7248
+		Time:	26.11.2023 14:12:03 until 26.11.2023 21:12:27
+		Duration:	07:00:24
+		Location:	51.50827 0.02986
+

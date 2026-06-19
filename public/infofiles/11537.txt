@@ -1,0 +1,476 @@
+EventId: 11537
+Spots: 77
+Total Images: 627871
+Time:	26.04.2024 21:10:48 to 28.04.2024 16:02:40
+Duration: 1.18:51:52
+
+(1) - 16,4 km Puente de Rubén Darío
+	AECL1
+		Images:	10692
+		Time:	28.04.2024 07:41:57 until 28.04.2024 12:18:26
+		Duration:	04:36:29
+		Location:	40.43302 -3.68838
+
+	ASAG1
+		Images:	21963
+		Time:	28.04.2024 07:29:40 until 28.04.2024 12:20:06
+		Duration:	04:50:26
+		Location:	40.43302 -3.68838
+
+(2) - 16.4 km Puente de Rubén Darío
+	CVF2
+		Images:	10646
+		Time:	28.04.2024 09:41:30 until 28.04.2024 12:18:05
+		Duration:	02:36:35
+		Location:	40.43302 -3.68838
+
+(3) - 2,7 km Puente de Nuevos Ministerios
+	AAIC1
+		Images:	8276
+		Time:	28.04.2024 08:01:51 until 28.04.2024 11:14:09
+		Duration:	03:12:18
+		Location:	40.44613 -3.69113
+
+	AEGP1
+		Images:	4744
+		Time:	28.04.2024 07:37:53 until 28.04.2024 11:14:10
+		Duration:	03:36:17
+		Location:	40.44613 -3.69113
+
+	AJMO1
+		Images:	12554
+		Time:	28.04.2024 07:42:54 until 28.04.2024 11:14:06
+		Duration:	03:31:12
+		Location:	40.44613 -3.69113
+
+	AOMS1
+		Images:	6030
+		Time:	28.04.2024 08:02:26 until 28.04.2024 11:15:21
+		Duration:	03:12:55
+		Location:	40.44613 -3.69113
+
+(4) - 20,2 km Congreso de los Diputados
+	ADJ1
+		Images:	22750
+		Time:	28.04.2024 08:18:02 until 28.04.2024 12:53:59
+		Duration:	04:35:57
+		Location:	40.41585 -3.69624
+
+	ASEP1
+		Images:	17710
+		Time:	28.04.2024 08:05:56 until 28.04.2024 12:54:11
+		Duration:	04:48:15
+		Location:	40.41585 -3.69624
+
+(5) - 20,8 km Plaza de Cibeles
+	AANL2
+		Images:	12504
+		Time:	28.04.2024 10:09:38 until 28.04.2024 13:00:28
+		Duration:	02:50:50
+		Location:	40.41963 -3.69275
+
+	ANIL2
+		Images:	9795
+		Time:	28.04.2024 10:04:27 until 28.04.2024 13:05:28
+		Duration:	03:01:01
+		Location:	40.41963 -3.69275
+
+(6) - 27.4 km Fuente de la Buena Suerte
+	CAFU2
+		Images:	4613
+		Time:	28.04.2024 10:02:20 until 28.04.2024 13:51:03
+		Duration:	03:48:43
+		Location:	40.41883 -3.72361
+
+	CJDMM2
+		Images:	4374
+		Time:	28.04.2024 09:36:51 until 28.04.2024 13:53:06
+		Duration:	04:16:15
+		Location:	40.41883 -3.72361
+
+(7) - 30.5 km Lago de Casa de Campo
+	CJMGJ2
+		Images:	4146
+		Time:	28.04.2024 10:17:32 until 28.04.2024 14:07:08
+		Duration:	03:49:36
+		Location:	40.42052 -3.73116
+
+	CJOLO2
+		Images:	5661
+		Time:	28.04.2024 10:30:52 until 28.04.2024 14:05:33
+		Duration:	03:34:41
+		Location:	40.42052 -3.73116
+
+(8) - 41,5 km Plaza de Cibeles
+	AARA2
+		Images:	13671
+		Time:	28.04.2024 10:14:39 until 28.04.2024 15:35:24
+		Duration:	05:20:45
+		Location:	40.41963 -3.69275
+
+	AARA2LS1
+		Images:	6778
+		Time:	28.04.2024 10:08:57 until 28.04.2024 14:05:18
+		Duration:	03:56:21
+		Location:	40.41963 -3.69275
+
+	ARTG2
+		Images:	3865
+		Time:	28.04.2024 10:43:46 until 28.04.2024 15:46:56
+		Duration:	05:03:10
+		Location:	40.41963 -3.69275
+
+(9) - 41,7 km Recta de Meta
+	AJCF1
+		Images:	7662
+		Time:	28.04.2024 07:54:49 until 28.04.2024 16:02:40
+		Duration:	08:07:51
+		Location:	40.42232 -3.69152
+
+	AJG1
+		Images:	19486
+		Time:	27.04.2024 18:10:16 until 28.04.2024 15:58:46
+		Duration:	21:48:30
+		Location:	40.42232 -3.69152
+
+	ALUM1
+		Images:	38537
+		Time:	28.04.2024 08:29:34 until 28.04.2024 15:57:48
+		Duration:	07:28:14
+		Location:	40.42232 -3.69152
+
+	ASIC1
+		Images:	15426
+		Time:	28.04.2024 07:59:57 until 28.04.2024 15:56:26
+		Duration:	07:56:29
+		Location:	40.42232 -3.69152
+
+(10) - 41.6 km Plaza de Cibeles
+	CODR1
+		Images:	11415
+		Time:	28.04.2024 10:39:37 until 28.04.2024 15:44:05
+		Duration:	05:04:28
+		Location:	40.41963 -3.69275
+
+(11) - 5,3 km Plaza de Castilla
+	AMAAP1
+		Images:	9820
+		Time:	28.04.2024 08:58:23 until 28.04.2024 10:55:26
+		Duration:	01:57:03
+		Location:	40.46580 -3.69029
+
+	ARUR1
+		Images:	5866
+		Time:	28.04.2024 08:19:38 until 28.04.2024 10:57:56
+		Duration:	02:38:18
+		Location:	40.46580 -3.69029
+
+	ARUR1LS1
+		Images:	5088
+		Time:	28.04.2024 08:26:50 until 28.04.2024 10:40:51
+		Duration:	02:14:01
+		Location:	40.46580 -3.69029
+
+	ARUR1LS2
+		Images:	3161
+		Time:	28.04.2024 08:32:48 until 28.04.2024 10:40:50
+		Duration:	02:08:02
+		Location:	40.46580 -3.69029
+
+(12) - 5.2 km Puente de Rubén Darío
+	CVF1
+		Images:	1216
+		Time:	28.04.2024 07:42:09 until 28.04.2024 08:32:37
+		Duration:	00:50:28
+		Location:	40.43302 -3.68838
+
+(13) - 9,3 km Plaza de Neptuno
+	AARA1
+		Images:	6457
+		Time:	28.04.2024 08:31:16 until 28.04.2024 09:33:32
+		Duration:	01:02:16
+		Location:	40.41563 -3.69499
+
+	AARA1LS1
+		Images:	7872
+		Time:	26.04.2024 21:10:48 until 28.04.2024 12:38:01
+		Duration:	1.15:27:13
+		Location:	40.41563 -3.69499
+
+	ARTG1
+		Images:	2323
+		Time:	28.04.2024 08:22:18 until 28.04.2024 10:25:24
+		Duration:	02:03:06
+		Location:	40.41563 -3.69499
+
+(14) - 9,5 km Plaza de Cibeles
+	AANL1
+		Images:	8288
+		Time:	28.04.2024 08:34:56 until 28.04.2024 10:08:49
+		Duration:	01:33:53
+		Location:	40.41963 -3.69275
+
+	ANIL1
+		Images:	3366
+		Time:	28.04.2024 07:52:05 until 28.04.2024 10:02:15
+		Duration:	02:10:10
+		Location:	40.41963 -3.69275
+
+(15) - 9,6 km Plaza Republica Argentina
+	AASQ1
+		Images:	9073
+		Time:	28.04.2024 07:56:10 until 28.04.2024 11:15:48
+		Duration:	03:19:38
+		Location:	40.44493 -3.68559
+
+	ACRGA1
+		Images:	13559
+		Time:	28.04.2024 08:00:27 until 28.04.2024 11:16:37
+		Duration:	03:16:10
+		Location:	40.44493 -3.68559
+
+	ACRGA1LS1
+		Images:	1610
+		Time:	28.04.2024 08:09:36 until 28.04.2024 10:36:08
+		Duration:	02:26:32
+		Location:	40.44493 -3.68559
+
+(16) - Calle Mayor 42K
+	BJCFJ2
+		Images:	12491
+		Time:	28.04.2024 09:32:33 until 28.04.2024 12:45:10
+		Duration:	03:12:37
+		Location:	40.41549 -3.71071
+
+	BOHO2
+		Images:	2529
+		Time:	28.04.2024 09:46:25 until 28.04.2024 12:43:47
+		Duration:	02:57:22
+		Location:	40.41549 -3.71071
+
+(17) - Finish
+	AAGAR1
+		Images:	9724
+		Time:	28.04.2024 08:08:42 until 28.04.2024 13:51:16
+		Duration:	05:42:34
+		Location:	40.42227 -3.69161
+
+	AALSE1
+		Images:	7125
+		Time:	28.04.2024 08:30:06 until 28.04.2024 15:59:14
+		Duration:	07:29:08
+		Location:	40.42227 -3.69161
+
+	ACPA1
+		Images:	10793
+		Time:	28.04.2024 07:47:37 until 28.04.2024 16:00:13
+		Duration:	08:12:36
+		Location:	40.42227 -3.69161
+
+	ACRGA2
+		Images:	3879
+		Time:	28.04.2024 13:40:42 until 28.04.2024 15:59:03
+		Duration:	02:18:21
+		Location:	40.42227 -3.69161
+
+	AECL2
+	AJMP1
+		Images:	16001
+		Time:	28.04.2024 08:28:17 until 28.04.2024 13:58:22
+		Duration:	05:30:05
+		Location:	40.42227 -3.69161
+
+	AMAAP2
+		Images:	6378
+		Time:	28.04.2024 12:16:26 until 28.04.2024 14:58:43
+		Duration:	02:42:17
+		Location:	40.42227 -3.69161
+
+	AMBB1
+		Images:	6671
+		Time:	28.04.2024 07:44:55 until 28.04.2024 16:00:04
+		Duration:	08:15:09
+		Location:	40.42227 -3.69161
+
+	ARBC1
+		Images:	12669
+		Time:	28.04.2024 08:24:09 until 28.04.2024 16:00:15
+		Duration:	07:36:06
+		Location:	40.42227 -3.69161
+
+	AROM1
+		Images:	12072
+		Time:	28.04.2024 08:19:05 until 28.04.2024 16:00:20
+		Duration:	07:41:15
+		Location:	40.42227 -3.69161
+
+	AROM1LS1
+		Images:	13441
+		Time:	28.04.2024 08:26:09 until 28.04.2024 15:39:24
+		Duration:	07:13:15
+		Location:	40.42227 -3.69161
+
+	ARUR2
+		Images:	11389
+		Time:	28.04.2024 08:19:38 until 28.04.2024 15:04:29
+		Duration:	06:44:51
+		Location:	40.42227 -3.69161
+
+	ASAG2
+	CDR2
+		Images:	5992
+		Time:	28.04.2024 10:17:45 until 28.04.2024 11:11:14
+		Duration:	00:53:29
+		Location:	40.42227 -3.69161
+
+(18) - Impressions / Pano
+	CDR1IMP1
+		Images:	19
+		Time:	28.04.2024 08:42:01 until 28.04.2024 11:13:11
+		Duration:	02:31:10
+		Location:	40.43765 -3.69318
+
+	CODR1IMP1
+		Images:	421
+		Time:	28.04.2024 08:30:01 until 28.04.2024 09:37:13
+		Duration:	01:07:12
+		Location:	40.43765 -3.69318
+
+	CVF1IMP1
+		Images:	503
+		Time:	28.04.2024 08:41:43 until 28.04.2024 09:33:03
+		Duration:	00:51:20
+		Location:	40.43765 -3.69318
+
+	PANO1
+(19) - Palacio Real 42K
+	BMCAS1
+		Images:	8282
+		Time:	28.04.2024 09:05:33 until 28.04.2024 12:51:09
+		Duration:	03:45:36
+		Location:	40.41910 -3.71300
+
+	BRAVE1
+		Images:	8476
+		Time:	28.04.2024 08:51:45 until 28.04.2024 12:46:00
+		Duration:	03:54:15
+		Location:	40.41910 -3.71300
+
+	BSNP1
+		Images:	6626
+		Time:	28.04.2024 07:59:58 until 28.04.2024 12:43:16
+		Duration:	04:43:18
+		Location:	40.41910 -3.71300
+
+	BSTO1
+		Images:	7267
+		Time:	28.04.2024 10:35:14 until 28.04.2024 12:45:46
+		Duration:	02:10:32
+		Location:	40.41910 -3.71300
+
+(20) - Plaza de Callao
+	BCHA1
+		Images:	12358
+		Time:	28.04.2024 08:19:44 until 28.04.2024 13:14:38
+		Duration:	04:54:54
+		Location:	40.41996 -3.70569
+
+	BFEGO1
+		Images:	13551
+		Time:	28.04.2024 08:24:25 until 28.04.2024 12:38:28
+		Duration:	04:14:03
+		Location:	40.41996 -3.70569
+
+(21) - Puerta del Sol 10K y 21K
+	BAMRU1
+		Images:	2975
+		Time:	28.04.2024 07:23:59 until 28.04.2024 09:16:06
+		Duration:	01:52:07
+		Location:	40.41674 -3.70290
+
+	BCCG1
+		Images:	19800
+		Time:	28.04.2024 07:34:29 until 28.04.2024 12:42:03
+		Duration:	05:07:34
+		Location:	40.41674 -3.70290
+
+	BGCA1
+		Images:	12212
+		Time:	28.04.2024 07:55:50 until 28.04.2024 12:42:03
+		Duration:	04:46:13
+		Location:	40.41674 -3.70290
+
+	BJCFJ1
+		Images:	6078
+		Time:	28.04.2024 07:31:56 until 28.04.2024 09:18:10
+		Duration:	01:46:14
+		Location:	40.41674 -3.70290
+
+	BJMB1
+		Images:	2780
+		Time:	28.04.2024 07:38:55 until 28.04.2024 09:20:00
+		Duration:	01:41:05
+		Location:	40.41674 -3.70290
+
+	BJMCA1
+		Images:	16538
+		Time:	28.04.2024 07:38:24 until 28.04.2024 12:52:59
+		Duration:	05:14:35
+		Location:	40.41674 -3.70290
+
+	BJRP1
+		Images:	2345
+		Time:	28.04.2024 07:55:44 until 28.04.2024 09:17:27
+		Duration:	01:21:43
+		Location:	40.41674 -3.70290
+
+	BOHO1
+		Images:	1031
+		Time:	28.04.2024 07:50:25 until 28.04.2024 09:34:54
+		Duration:	01:44:29
+		Location:	40.41674 -3.70290
+
+(22) - Puerta del Sol 42K
+	BAMRU2
+		Images:	9741
+		Time:	28.04.2024 09:17:07 until 28.04.2024 12:41:45
+		Duration:	03:24:38
+		Location:	40.41674 -3.70290
+
+	BJMB2
+		Images:	8828
+		Time:	28.04.2024 09:29:38 until 28.04.2024 12:42:15
+		Duration:	03:12:37
+		Location:	40.41674 -3.70290
+
+	BJRP2
+		Images:	5533
+		Time:	28.04.2024 09:37:52 until 28.04.2024 12:38:18
+		Duration:	03:00:26
+		Location:	40.41674 -3.70290
+
+(23) - Start
+	CAFU1
+		Images:	96
+		Time:	28.04.2024 07:26:48 until 28.04.2024 08:23:09
+		Duration:	00:56:21
+		Location:	40.43803 -3.69339
+
+	CJDMM1
+		Images:	50
+		Time:	28.04.2024 07:28:21 until 28.04.2024 08:07:08
+		Duration:	00:38:47
+		Location:	40.43803 -3.69339
+
+	CJMGJ1
+		Images:	147
+		Time:	28.04.2024 07:27:11 until 28.04.2024 08:23:01
+		Duration:	00:55:50
+		Location:	40.43803 -3.69339
+
+	CJOLO1
+		Images:	63
+		Time:	28.04.2024 07:22:11 until 28.04.2024 08:06:19
+		Duration:	00:44:08
+		Location:	40.43803 -3.69339
+

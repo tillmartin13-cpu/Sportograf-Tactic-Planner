@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "51.22351" lon = "4.38543"><name>WIP1</name><desc>Start
+Images:4291
+First:26.04.2025 20:32:25
+Last:27.04.2025 15:05:43
+Duration:18:33:18
+</desc></wpt>
+<wpt lat = "51.21627" lon = "4.38377"><name>OT1</name><desc>1.0 km 3.5
+Images:18920
+First:27.04.2025 11:39:29
+Last:27.04.2025 15:12:23
+Duration:03:32:54
+</desc></wpt>
+<wpt lat = "51.21627" lon = "4.38377"><name>OT1LS1</name><desc>1.0 km 3.5 Shortrun
+Images:14736
+First:27.04.2025 11:14:09
+Last:27.04.2025 15:13:48
+Duration:03:59:39
+</desc></wpt>
+<wpt lat = "51.21627" lon = "4.38377"><name>MW1</name><desc>1.0 km 3.5 Shortrun
+Images:18660
+First:26.04.2025 22:32:35
+Last:27.04.2025 15:12:26
+Duration:16:39:51
+</desc></wpt>
+<wpt lat = "51.21627" lon = "4.38377"><name>MW1LS1</name><desc>1.0 km 3.5 Shortrun
+Images:11017
+First:26.04.2025 22:28:23
+Last:27.04.2025 15:09:42
+Duration:16:41:19
+</desc></wpt>
+<wpt lat = "51.22186" lon = "4.38125"><name>FVE1</name><desc>5.0 km of Shortrun
+Images:2121
+First:27.04.2025 10:44:58
+Last:27.04.2025 12:40:24
+Duration:01:55:26
+</desc></wpt>
+<wpt lat = "51.20443" lon = "4.38895"><name>FCO1</name><desc>8.5 km
+Images:19355
+First:27.04.2025 08:34:49
+Last:27.04.2025 16:22:41
+Duration:07:47:52
+</desc></wpt>
+<wpt lat = "51.20443" lon = "4.38895"><name>GAC1</name><desc>8.5 km
+Images:26656
+First:26.04.2025 23:20:29
+Last:27.04.2025 16:22:40
+Duration:17:02:11
+</desc></wpt>
+<wpt lat = "51.20667" lon = "4.38840"><name>JKE1</name><desc>9.0 km
+Images:17714
+First:27.04.2025 13:24:27
+Last:27.04.2025 18:34:49
+Duration:05:10:22
+</desc></wpt>
+<wpt lat = "51.20667" lon = "4.38840"><name>JKE1LS1</name><desc>9.0 km
+Images:6250
+First:26.04.2025 22:02:55
+Last:27.04.2025 16:27:17
+Duration:18:24:22
+</desc></wpt>
+<wpt lat = "51.20667" lon = "4.38840"><name>FAH1</name><desc>9.0 km
+Images:10744
+First:27.04.2025 09:21:44
+Last:27.04.2025 16:25:30
+Duration:07:03:46
+</desc></wpt>
+<wpt lat = "51.20982" lon = "4.39343"><name>NBA1</name><desc>9.5 km
+Images:12614
+First:27.04.2025 12:47:10
+Last:27.04.2025 16:30:06
+Duration:03:42:56
+</desc></wpt>
+<wpt lat = "51.20982" lon = "4.39343"><name>DECO1</name><desc>9.5 km
+Images:5142
+First:27.04.2025 12:37:09
+Last:27.04.2025 16:30:35
+Duration:03:53:26
+</desc></wpt>
+<wpt lat = "51.21603" lon = "4.39306"><name>BC1</name><desc>10.3 km
+Images:11421
+First:27.04.2025 12:50:01
+Last:27.04.2025 16:38:16
+Duration:03:48:15
+</desc></wpt>
+<wpt lat = "51.21766" lon = "4.39409"><name>LMC1</name><desc>10.5 km
+Images:24553
+First:26.04.2025 19:33:31
+Last:27.04.2025 16:39:50
+Duration:21:06:19
+</desc></wpt>
+<wpt lat = "51.21766" lon = "4.39409"><name>DIK1</name><desc>10.5 km
+Images:15898
+First:27.04.2025 12:44:11
+Last:27.04.2025 16:40:05
+Duration:03:55:54
+</desc></wpt>
+<wpt lat = "51.22150" lon = "4.39692"><name>BAR1</name><desc>11.1 km
+Images:10877
+First:26.04.2025 22:20:00
+Last:27.04.2025 16:42:44
+Duration:18:22:44
+</desc></wpt>
+<wpt lat = "51.22150" lon = "4.39692"><name>MTR1</name><desc>11.1 km
+Images:24810
+First:26.04.2025 22:11:50
+Last:27.04.2025 17:18:50
+Duration:19:07:00
+</desc></wpt>
+<wpt lat = "51.22331" lon = "4.39794"><name>PBO1</name><desc>11.4 km
+Images:7990
+First:26.04.2025 19:24:52
+Last:27.04.2025 16:44:20
+Duration:21:19:28
+</desc></wpt>
+<wpt lat = "51.22331" lon = "4.39794"><name>TID1</name><desc>11.4 km
+Images:13095
+First:26.04.2025 19:58:05
+Last:27.04.2025 16:46:49
+Duration:20:48:44
+</desc></wpt>
+<wpt lat = "51.22331" lon = "4.39794"><name>TID1LS1</name><desc>11.4 km
+Images:5500
+First:26.04.2025 20:02:00
+Last:27.04.2025 16:42:53
+Duration:20:40:53
+</desc></wpt>
+<wpt lat = "51.22841" lon = "4.40208"><name>STDM1</name><desc>11.9 km
+Images:18261
+First:27.04.2025 13:32:10
+Last:27.04.2025 16:53:52
+Duration:03:21:42
+</desc></wpt>
+<wpt lat = "51.22921" lon = "4.40356"><name>GVDL1</name><desc>12.6 km
+Images:5664
+First:27.04.2025 12:35:00
+Last:27.04.2025 16:57:01
+Duration:04:22:01
+</desc></wpt>
+<wpt lat = "51.22816" lon = "4.40558"><name>YHA1</name><desc>12.8 km
+Images:6433
+First:27.04.2025 09:45:30
+Last:27.04.2025 17:08:32
+Duration:07:23:02
+</desc></wpt>
+<wpt lat = "51.22713" lon = "4.41022"><name>SPSL1</name><desc>13.5 km
+Images:20810
+First:27.04.2025 13:27:53
+Last:27.04.2025 17:13:26
+Duration:03:45:33
+</desc></wpt>
+<wpt lat = "51.22727" lon = "4.38325"><name>KMC1</name><desc>15.5 km
+Images:9585
+First:27.04.2025 10:48:40
+Last:27.04.2025 17:37:08
+Duration:06:48:28
+</desc></wpt>
+<wpt lat = "51.22727" lon = "4.38325"><name>SEO1</name><desc>15.5 km
+Images:1
+First:27.04.2025 12:38:55
+Last:27.04.2025 12:38:55
+Duration:00:00:00
+</desc></wpt>
+<wpt lat = "51.22924" lon = "4.37709"><name>DAV1</name><desc>Finish
+Images:15264
+First:27.04.2025 10:19:14
+Last:27.04.2025 17:41:28
+Duration:07:22:14
+</desc></wpt>
+<wpt lat = "51.22924" lon = "4.37709"><name>DAV1LS1</name><desc>Finish
+Images:12528
+First:27.04.2025 10:10:15
+Last:27.04.2025 17:44:06
+Duration:07:33:51
+</desc></wpt>
+<wpt lat = "51.22924" lon = "4.37709"><name>KO1</name><desc>Finish
+Images:8400
+First:27.04.2025 07:22:15
+Last:27.04.2025 17:42:00
+Duration:10:19:45
+</desc></wpt>
+<wpt lat = "51.22924" lon = "4.37709"><name>FVE2</name><desc>Finish
+Images:6428
+First:27.04.2025 13:45:37
+Last:27.04.2025 17:33:26
+Duration:03:47:49
+</desc></wpt>
+</gpx>

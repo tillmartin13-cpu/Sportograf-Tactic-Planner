@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "47.50409" lon = "12.19035"><name>ANI1</name><desc>Start
+Images:505
+First:03.10.2025 17:15:04
+Last:05.10.2025 10:19:01
+Duration:1.17:03:57
+</desc></wpt>
+<wpt lat = "47.50510" lon = "12.17621"><name>COR1</name><desc>km 1.7, 5.0, 8.3
+Images:1731
+First:03.10.2025 17:43:04
+Last:05.10.2025 10:55:15
+Duration:1.17:12:11
+</desc></wpt>
+<wpt lat = "47.50510" lon = "12.17621"><name>COR1LS2</name><desc>km 1.7, 5.0, 8.3
+Images:846
+First:03.10.2025 17:12:20
+Last:03.10.2025 18:41:38
+Duration:01:29:18
+</desc></wpt>
+<wpt lat = "47.50510" lon = "12.17621"><name>COR1LS1</name><desc>km 1.7, 5.0, 8.3
+Images:846
+First:03.10.2025 17:12:17
+Last:03.10.2025 18:41:46
+Duration:01:29:29
+</desc></wpt>
+<wpt lat = "47.50409" lon = "12.19035"><name>ANI2</name><desc>Finish
+Images:560
+First:03.10.2025 18:04:05
+Last:05.10.2025 12:14:36
+Duration:1.18:10:31
+</desc></wpt>
+<wpt lat = "47.50510" lon = "12.17621"><name>COR1DRONE1</name><desc>Impressions / Pano
+Images:66
+First:03.10.2025 17:49:33
+Last:04.10.2025 11:33:48
+Duration:17:44:15
+</desc></wpt>
+</gpx>

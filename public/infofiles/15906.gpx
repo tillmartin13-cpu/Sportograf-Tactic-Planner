@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "38.55655" lon = "-123.01047"><name>BCOAP1</name><desc>7.5 Mi Course - 864297 - Armando Ibarra Padilla
+Images:1366
+First:15.05.2025 07:06:06
+Last:15.05.2025 12:26:33
+Duration:05:20:27
+</desc></wpt>
+<wpt lat = "38.55655" lon = "-123.01047"><name>BCOTO1</name><desc>7.5 Mi Course - 864298 - Trigger
+Images:3371
+First:15.05.2025 07:27:37
+Last:15.05.2025 10:46:59
+Duration:03:19:22
+</desc></wpt>
+<wpt lat = "38.52879" lon = "-122.99917"><name>BFNTO1</name><desc>10.4 Mi Finish - 864302 - Trigger Up Shot
+Images:5421
+First:15.05.2025 08:37:51
+Last:15.05.2025 13:37:50
+Duration:04:59:59
+</desc></wpt>
+<wpt lat = "38.55655" lon = "-123.01047"><name>BFNTO2</name><desc>0.0 km
+Images:27
+First:15.05.2025 12:42:26
+Last:15.05.2025 12:48:29
+Duration:00:06:03
+</desc></wpt>
+<wpt lat = "38.52810" lon = "-122.99939"><name>BPFPR1</name><desc>10.3 Mi PreFinish - 864299 - Phillip Reyes
+Images:1771
+First:15.05.2025 09:08:34
+Last:15.05.2025 13:30:52
+Duration:04:22:18
+</desc></wpt>
+<wpt lat = "38.52810" lon = "-122.99939"><name>BPFTO1</name><desc>10.3 Mi PreFinish - 864300 - Trigger
+Images:3549
+First:15.05.2025 09:09:58
+Last:15.05.2025 13:31:00
+Duration:04:21:02
+</desc></wpt>
+<wpt lat = "38.53225" lon = "-123.00253"><name>BSTPR1</name><desc>0.6 Mi Start - 000000 - Phillip Reyes
+Images:867
+First:15.05.2025 07:11:34
+Last:15.05.2025 07:50:20
+Duration:00:38:46
+</desc></wpt>
+<wpt lat = "38.52879" lon = "-122.99917"><name>BFNTT1</name><desc>10.4 Mi Finish - 000000 - Trigger Down Shot
+Images:5828
+First:15.05.2025 06:54:54
+Last:15.05.2025 13:34:33
+Duration:06:39:39
+</desc></wpt>
+</gpx>

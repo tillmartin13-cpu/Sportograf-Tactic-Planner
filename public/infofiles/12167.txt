@@ -1,0 +1,390 @@
+EventId: 12167
+Spots: 61
+Total Images: 528615
+Time:	25.05.2024 10:28:30 to 26.05.2024 16:07:59
+Duration: 1.05:39:29
+
+(1) - 0,0 km
+	DRI1LS2
+		Images:	5488
+		Time:	26.05.2024 09:22:27 until 26.05.2024 13:21:03
+		Duration:	03:58:36
+		Location:	50.80967 4.37049
+
+	SJA1LS1
+		Images:	6148
+		Time:	26.05.2024 09:23:22 until 26.05.2024 12:23:46
+		Duration:	03:00:24
+		Location:	50.80982 4.37099
+
+	TID1LS1
+		Images:	9842
+		Time:	26.05.2024 08:35:02 until 26.05.2024 12:33:38
+		Duration:	03:58:36
+		Location:	50.83708 4.35365
+
+(2) - 0,1 km
+	APL1
+		Images:	22696
+		Time:	26.05.2024 10:14:07 until 26.05.2024 12:13:48
+		Duration:	01:59:41
+		Location:	50.84183 4.38613
+
+	DAV1
+		Images:	5459
+		Time:	26.05.2024 07:31:31 until 26.05.2024 11:49:18
+		Duration:	04:17:47
+		Location:	50.84191 4.38608
+
+	DAV1LS1
+		Images:	3171
+		Time:	26.05.2024 08:24:13 until 26.05.2024 11:50:02
+		Duration:	03:25:49
+		Location:	50.84191 4.38608
+
+	GVDL1
+		Images:	1874
+		Time:	25.05.2024 22:56:00 until 26.05.2024 11:50:13
+		Duration:	12:54:13
+		Location:	50.84194 4.38609
+
+	JKE1
+		Images:	1908
+		Time:	26.05.2024 07:32:54 until 26.05.2024 10:19:09
+		Duration:	02:46:15
+		Location:	50.84188 4.38596
+
+	PATL1
+		Images:	7095
+		Time:	25.05.2024 11:16:27 until 26.05.2024 11:51:10
+		Duration:	1.00:34:43
+		Location:	50.84194 4.38609
+
+(3) - 0,2 km
+	FVE1
+		Images:	2866
+		Time:	26.05.2024 09:14:30 until 26.05.2024 11:22:16
+		Duration:	02:07:46
+		Location:	50.83972 4.38343
+
+	LMC1
+		Images:	15488
+		Time:	26.05.2024 08:54:27 until 26.05.2024 11:37:59
+		Duration:	02:43:32
+		Location:	50.83978 4.38342
+
+	PBO1
+		Images:	7992
+		Time:	25.05.2024 21:52:21 until 26.05.2024 12:02:54
+		Duration:	14:10:33
+		Location:	50.84079 4.38517
+
+(4) - 0,3 km
+	ACCA1
+		Images:	4790
+		Time:	26.05.2024 10:07:07 until 26.05.2024 11:43:35
+		Duration:	01:36:28
+		Location:	50.84237 4.38344
+
+	FEF1
+		Images:	459
+		Time:	26.05.2024 10:23:45 until 26.05.2024 10:51:14
+		Duration:	00:27:29
+		Location:	50.84237 4.38344
+
+(5) - 16,9 km
+	DERS2
+		Images:	3407
+		Time:	26.05.2024 12:47:06 until 26.05.2024 15:31:48
+		Duration:	02:44:42
+		Location:	50.83046 4.43369
+
+	DTU2
+		Images:	1736
+		Time:	26.05.2024 12:48:27 until 26.05.2024 15:31:10
+		Duration:	02:42:43
+		Location:	50.83028 4.43337
+
+	KO2
+		Images:	1672
+		Time:	26.05.2024 12:28:37 until 26.05.2024 15:10:17
+		Duration:	02:41:40
+		Location:	50.83028 4.43337
+
+(6) - 17,5 km
+	LMC2
+		Images:	10729
+		Time:	26.05.2024 12:48:46 until 26.05.2024 15:45:25
+		Duration:	02:56:39
+		Location:	50.83444 4.42126
+
+	MAW1
+		Images:	30847
+		Time:	26.05.2024 09:11:42 until 26.05.2024 15:45:22
+		Duration:	06:33:40
+		Location:	50.83474 4.42758
+
+	MAW1LS1
+		Images:	5965
+		Time:	26.05.2024 07:34:52 until 26.05.2024 15:44:35
+		Duration:	08:09:43
+		Location:	50.83474 4.42758
+
+	MAW1LS2
+		Images:	6725
+		Time:	26.05.2024 09:09:30 until 26.05.2024 15:43:06
+		Duration:	06:33:36
+		Location:	50.83474 4.42758
+
+	MOAB1
+		Images:	6207
+		Time:	26.05.2024 09:15:58 until 26.05.2024 15:41:13
+		Duration:	06:25:15
+		Location:	50.83475 4.42758
+
+	PBO2
+		Images:	5796
+		Time:	26.05.2024 12:47:40 until 26.05.2024 15:43:19
+		Duration:	02:55:39
+		Location:	50.83439 4.42187
+
+	TID2
+		Images:	4697
+		Time:	26.05.2024 13:37:10 until 26.05.2024 15:47:12
+		Duration:	02:10:02
+		Location:	50.83456 4.42855
+
+	TID2LS1
+		Images:	7828
+		Time:	26.05.2024 13:34:17 until 26.05.2024 15:45:13
+		Duration:	02:10:56
+		Location:	50.83456 4.42855
+
+(7) - 17,8 km
+	SBG1
+		Images:	14670
+		Time:	26.05.2024 08:47:30 until 26.05.2024 15:50:23
+		Duration:	07:02:53
+		Location:	50.83452 4.42212
+
+	ST1
+		Images:	27609
+		Time:	26.05.2024 07:21:23 until 26.05.2024 15:35:59
+		Duration:	08:14:36
+		Location:	50.83452 4.42212
+
+	ST1LS1
+		Images:	15512
+		Time:	26.05.2024 07:20:30 until 26.05.2024 15:23:49
+		Duration:	08:03:19
+		Location:	50.83452 4.42212
+
+	ST1LS2
+		Images:	4819
+		Time:	25.05.2024 13:24:15 until 26.05.2024 14:56:05
+		Duration:	1.01:31:50
+		Location:	50.83452 4.42212
+
+	ST1LS3
+		Images:	14915
+		Time:	25.05.2024 10:57:26 until 26.05.2024 15:33:24
+		Duration:	1.04:35:58
+		Location:	50.83452 4.42212
+
+(8) - 19,0 km
+	PATL3
+		Images:	10729
+		Time:	26.05.2024 12:48:46 until 26.05.2024 15:45:25
+		Duration:	02:56:39
+		Location:	50.83713 4.40897
+
+	PATL4
+		Images:	10030
+		Time:	26.05.2024 13:28:23 until 26.05.2024 16:00:38
+		Duration:	02:32:15
+		Location:	50.83760 4.40643
+
+	ROC2
+		Images:	18003
+		Time:	25.05.2024 11:42:10 until 26.05.2024 16:02:30
+		Duration:	1.04:20:20
+		Location:	50.83713 4.40897
+
+(9) - 19,3 km
+	MOKU2
+		Images:	5180
+		Time:	26.05.2024 12:33:31 until 26.05.2024 16:04:00
+		Duration:	03:30:29
+		Location:	50.84162 4.38657
+
+(10) - 19,6 km
+	ACCA2
+		Images:	7656
+		Time:	26.05.2024 12:15:41 until 26.05.2024 15:47:14
+		Duration:	03:31:33
+		Location:	50.83952 4.39783
+
+	GVDL2
+		Images:	2415
+		Time:	25.05.2024 11:10:52 until 26.05.2024 15:56:02
+		Duration:	1.04:45:10
+		Location:	50.83952 4.39783
+
+(11) - 2,3 km
+	DTU1
+		Images:	1480
+		Time:	26.05.2024 08:52:13 until 26.05.2024 12:14:48
+		Duration:	03:22:35
+		Location:	50.84316 4.36095
+
+	GST1
+		Images:	7011
+		Time:	26.05.2024 08:34:57 until 26.05.2024 12:15:34
+		Duration:	03:40:37
+		Location:	50.84310 4.36167
+
+(12) - 2,6 km
+	DERS1
+		Images:	6460
+		Time:	25.05.2024 19:57:34 until 26.05.2024 12:07:41
+		Duration:	16:10:07
+		Location:	50.84172 4.35858
+
+	KO1
+		Images:	3025
+		Time:	25.05.2024 21:54:02 until 26.05.2024 11:59:25
+		Duration:	14:05:23
+		Location:	50.84188 4.35905
+
+(13) - 3,3 km
+	OP1
+		Images:	5683
+		Time:	26.05.2024 09:43:56 until 26.05.2024 11:56:14
+		Duration:	02:12:18
+		Location:	50.83706 4.35354
+
+	OP1LS1
+		Images:	5238
+		Time:	26.05.2024 09:43:56 until 26.05.2024 11:53:59
+		Duration:	02:10:03
+		Location:	50.83706 4.35354
+
+	TID1
+		Images:	13360
+		Time:	26.05.2024 08:05:15 until 26.05.2024 12:31:55
+		Duration:	04:26:40
+		Location:	50.83708 4.35365
+
+(14) - 7,0 km
+	DRI1
+		Images:	38780
+		Time:	26.05.2024 09:45:19 until 26.05.2024 12:21:38
+		Duration:	02:36:19
+		Location:	50.80982 4.37099
+
+	DRI1LS1
+		Images:	5071
+		Time:	26.05.2024 09:30:43 until 26.05.2024 13:06:11
+		Duration:	03:35:28
+		Location:	50.80967 4.37049
+
+	DRI4
+		Images:	2917
+		Time:	26.05.2024 12:23:18 until 26.05.2024 13:19:57
+		Duration:	00:56:39
+		Location:	50.80967 4.37049
+
+	SJA1
+		Images:	23611
+		Time:	26.05.2024 09:50:27 until 26.05.2024 13:20:10
+		Duration:	03:29:43
+		Location:	50.80982 4.37099
+
+(15) - Ceremony
+	FEF2
+		Images:	2413
+		Time:	26.05.2024 10:57:31 until 26.05.2024 15:36:50
+		Duration:	04:39:19
+		Location:	50.84033 4.39399
+
+	FVE2
+		Images:	2659
+		Time:	26.05.2024 11:52:13 until 26.05.2024 15:36:45
+		Duration:	03:44:32
+		Location:	50.84079 4.39373
+
+	GST2
+		Images:	419
+		Time:	26.05.2024 08:23:44 until 26.05.2024 15:03:40
+		Duration:	06:39:56
+		Location:	50.84079 4.39373
+
+	OP2
+		Images:	3802
+		Time:	26.05.2024 13:12:56 until 26.05.2024 15:03:21
+		Duration:	01:50:25
+		Location:	50.84033 4.39399
+
+(16) - Finish
+	DAV2
+		Images:	8910
+		Time:	26.05.2024 12:48:28 until 26.05.2024 15:52:53
+		Duration:	03:04:25
+		Location:	50.83938 4.39735
+
+	JKE2
+		Images:	28059
+		Time:	25.05.2024 18:08:35 until 26.05.2024 15:53:39
+		Duration:	21:45:04
+		Location:	50.83949 4.39733
+
+	MIBU2
+		Images:	13356
+		Time:	26.05.2024 10:47:53 until 26.05.2024 15:51:09
+		Duration:	05:03:16
+		Location:	50.83949 4.39733
+
+	TOBB2LS1
+		Images:	14210
+		Time:	25.05.2024 10:31:22 until 26.05.2024 16:07:59
+		Duration:	1.05:36:37
+		Location:	50.83949 4.3973
+
+	TOBB2LS2
+		Images:	13075
+		Time:	25.05.2024 10:28:30 until 26.05.2024 15:59:05
+		Duration:	1.05:30:35
+		Location:	50.83949 4.39733
+
+(17) - Impressions / Pano
+	PANO1
+		Images:	9
+		Time:	26.05.2024 08:57:53 until 26.05.2024 10:31:44
+		Duration:	01:33:51
+		Location:	NULL NULL
+
+(18) - Start
+	MIBU1
+		Images:	2822
+		Time:	26.05.2024 07:52:33 until 26.05.2024 10:37:20
+		Duration:	02:44:47
+		Location:	50.84194 4.38665
+
+	MOKU1
+		Images:	2964
+		Time:	25.05.2024 21:43:35 until 26.05.2024 11:50:51
+		Duration:	14:07:16
+		Location:	50.84167 4.38714
+
+	ROC1
+		Images:	6727
+		Time:	26.05.2024 09:25:44 until 26.05.2024 11:49:09
+		Duration:	02:23:25
+		Location:	50.84192 4.38675
+
+	TOBB1
+		Images:	4131
+		Time:	25.05.2024 10:34:52 until 26.05.2024 15:00:44
+		Duration:	1.04:25:52
+		Location:	50.84194 4.3866
+

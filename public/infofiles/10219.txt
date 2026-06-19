@@ -1,0 +1,330 @@
+EventId: 10219
+Spots: 53
+Total Images: 235770
+Time:	28.10.2023 07:08:17 to 28.10.2023 22:34:52
+Duration: 15:26:35
+
+(1) - Farmers Carry
+	BLV1LS1
+		Images:	3692
+		Time:	28.10.2023 07:40:33 until 28.10.2023 22:01:36
+		Duration:	14:21:03
+		Location:	53.32304 -6.22575
+
+	BPARO1LS1
+		Images:	3719
+		Time:	28.10.2023 09:12:08 until 28.10.2023 22:09:08
+		Duration:	12:57:00
+		Location:	53.32304 -6.22575
+
+(2) - Finish
+	ABKO5
+		Images:	519
+		Time:	28.10.2023 18:00:14 until 28.10.2023 19:11:14
+		Duration:	01:11:00
+		Location:	53.32304 -6.22575
+
+	APARO6
+		Images:	1154
+		Time:	28.10.2023 13:47:21 until 28.10.2023 14:21:43
+		Duration:	00:34:22
+		Location:	53.32304 -6.22575
+
+	ARLW1
+		Images:	4049
+		Time:	28.10.2023 07:36:22 until 28.10.2023 14:31:02
+		Duration:	06:54:40
+		Location:	53.32304 -6.22575
+
+	BBKO2LS1
+		Images:	2261
+		Time:	28.10.2023 07:16:45 until 28.10.2023 20:26:28
+		Duration:	13:09:43
+		Location:	53.32304 -6.22575
+
+	BJUW1
+		Images:	5544
+		Time:	28.10.2023 14:22:36 until 28.10.2023 22:33:04
+		Duration:	08:10:28
+		Location:	53.32304 -6.22575
+
+	BJUW1LS1
+		Images:	2301
+		Time:	28.10.2023 08:26:35 until 28.10.2023 21:40:30
+		Duration:	13:13:55
+		Location:	53.32304 -6.22575
+
+(3) - Hero Wall
+	AJUW1
+		Images:	589
+		Time:	28.10.2023 08:11:23 until 28.10.2023 14:20:03
+		Duration:	06:08:40
+		Location:	53.32304 -6.22575
+
+	BRLW1
+		Images:	1583
+		Time:	28.10.2023 14:31:53 until 28.10.2023 22:34:52
+		Duration:	08:02:59
+		Location:	53.32304 -6.22575
+
+(4) - Impressions / Pano
+	AMK1IMP1
+		Images:	342
+		Time:	28.10.2023 08:27:38 until 28.10.2023 18:00:05
+		Duration:	09:32:27
+		Location:	53.32304 -6.22575
+
+	PANO1
+(5) - Rowing
+	ABKO3
+		Images:	2946
+		Time:	28.10.2023 16:45:09 until 28.10.2023 21:32:09
+		Duration:	04:47:00
+		Location:	53.32304 -6.22575
+
+	AGMU1
+		Images:	12887
+		Time:	28.10.2023 07:32:59 until 28.10.2023 14:28:25
+		Duration:	06:55:26
+		Location:	53.32304 -6.22575
+
+	ALOT1
+		Images:	11916
+		Time:	28.10.2023 07:24:00 until 28.10.2023 15:09:57
+		Duration:	07:45:57
+		Location:	53.32304 -6.22575
+
+	AMK4
+		Images:	877
+		Time:	28.10.2023 12:21:25 until 28.10.2023 19:49:27
+		Duration:	07:28:02
+		Location:	53.32304 -6.22575
+
+	APARO4
+		Images:	107
+		Time:	28.10.2023 08:35:48 until 28.10.2023 08:39:03
+		Duration:	00:03:15
+		Location:	53.32304 -6.22575
+
+	BKBH1
+		Images:	7692
+		Time:	28.10.2023 15:09:33 until 28.10.2023 21:46:50
+		Duration:	06:37:17
+		Location:	53.32304 -6.22575
+
+(6) - Run
+	AMK6
+		Images:	593
+		Time:	28.10.2023 18:00:06 until 28.10.2023 21:50:34
+		Duration:	03:50:28
+		Location:	53.32304 -6.22575
+
+	BDR2LS1
+		Images:	16126
+		Time:	28.10.2023 08:17:30 until 28.10.2023 22:16:02
+		Duration:	13:58:32
+		Location:	53.32304 -6.22575
+
+	BMK1LS1
+		Images:	16224
+		Time:	28.10.2023 08:14:13 until 28.10.2023 21:14:42
+		Duration:	13:00:29
+		Location:	53.32304 -6.22575
+
+(7) - Sandbag Lunges
+	AADG1
+		Images:	4059
+		Time:	28.10.2023 07:20:51 until 28.10.2023 14:51:29
+		Duration:	07:30:38
+		Location:	53.32304 -6.22575
+
+	AAK1
+		Images:	2760
+		Time:	28.10.2023 07:17:00 until 28.10.2023 14:53:16
+		Duration:	07:36:16
+		Location:	53.32304 -6.22575
+
+	AMK7
+		Images:	276
+		Time:	28.10.2023 19:01:09 until 28.10.2023 20:45:39
+		Duration:	01:44:30
+		Location:	53.32304 -6.22575
+
+	APARO5
+		Images:	1914
+		Time:	28.10.2023 12:58:47 until 28.10.2023 17:49:45
+		Duration:	04:50:58
+		Location:	53.32304 -6.22575
+
+	BDR1
+		Images:	4766
+		Time:	28.10.2023 14:50:01 until 28.10.2023 22:13:13
+		Duration:	07:23:12
+		Location:	53.32304 -6.22575
+
+	BLV2
+		Images:	7886
+		Time:	28.10.2023 07:59:44 until 28.10.2023 22:12:00
+		Duration:	14:12:16
+		Location:	53.32304 -6.22575
+
+(8) - SkiErg
+	ABKO6
+		Images:	273
+		Time:	28.10.2023 14:43:46 until 28.10.2023 15:01:59
+		Duration:	00:18:13
+		Location:	53.32304 -6.22575
+
+	ADR1
+		Images:	4785
+		Time:	28.10.2023 07:58:33 until 28.10.2023 14:40:07
+		Duration:	06:41:34
+		Location:	53.32304 -6.22575
+
+	ALV1
+		Images:	3037
+		Time:	28.10.2023 08:16:45 until 28.10.2023 14:57:50
+		Duration:	06:41:05
+		Location:	53.32304 -6.22575
+
+	APARO1
+		Images:	3317
+		Time:	28.10.2023 08:06:20 until 28.10.2023 16:39:31
+		Duration:	08:33:11
+		Location:	53.32304 -6.22575
+
+	BDP1
+		Images:	14164
+		Time:	28.10.2023 15:13:01 until 28.10.2023 20:45:09
+		Duration:	05:32:08
+		Location:	53.32304 -6.22575
+
+	BMKH1
+		Images:	4954
+		Time:	28.10.2023 15:10:15 until 28.10.2023 20:47:21
+		Duration:	05:37:06
+		Location:	53.32304 -6.22575
+
+(9) - Sled Pull
+	ABKO2
+		Images:	3911
+		Time:	28.10.2023 11:35:41 until 28.10.2023 16:40:03
+		Duration:	05:04:22
+		Location:	53.32304 -6.22575
+
+	AEBE1
+		Images:	4499
+		Time:	28.10.2023 07:29:53 until 28.10.2023 11:34:08
+		Duration:	04:04:15
+		Location:	53.32304 -6.22575
+
+	AMK3
+		Images:	637
+		Time:	28.10.2023 11:34:01 until 28.10.2023 16:41:11
+		Duration:	05:07:10
+		Location:	53.32304 -6.22575
+
+	APARO3
+		Images:	754
+		Time:	28.10.2023 08:28:06 until 28.10.2023 10:35:23
+		Duration:	02:07:17
+		Location:	53.32304 -6.22575
+
+	AWIN1
+		Images:	6606
+		Time:	28.10.2023 07:19:25 until 28.10.2023 15:12:34
+		Duration:	07:53:09
+		Location:	53.32304 -6.22575
+
+	BGMU1
+		Images:	9267
+		Time:	28.10.2023 14:32:43 until 28.10.2023 21:12:39
+		Duration:	06:39:56
+		Location:	53.32304 -6.22575
+
+	BLOT1
+		Images:	10874
+		Time:	28.10.2023 15:15:40 until 28.10.2023 21:11:01
+		Duration:	05:55:21
+		Location:	53.32304 -6.22575
+
+(10) - Sled Push
+	ABKO1
+		Images:	2999
+		Time:	28.10.2023 07:58:37 until 28.10.2023 16:08:16
+		Duration:	08:09:39
+		Location:	53.32304 -6.22575
+
+	ADP1
+		Images:	15001
+		Time:	28.10.2023 07:08:17 until 28.10.2023 15:03:52
+		Duration:	07:55:35
+		Location:	53.32304 -6.22575
+
+	AMK2
+		Images:	430
+		Time:	28.10.2023 11:02:10 until 28.10.2023 16:08:05
+		Duration:	05:05:55
+		Location:	53.32304 -6.22575
+
+	AMKH1
+		Images:	4666
+		Time:	28.10.2023 07:15:53 until 28.10.2023 15:03:53
+		Duration:	07:48:00
+		Location:	53.32304 -6.22575
+
+	APARO2
+		Images:	397
+		Time:	28.10.2023 08:20:53 until 28.10.2023 15:07:55
+		Duration:	06:47:02
+		Location:	53.32304 -6.22575
+
+	BTOMY1
+		Images:	9159
+		Time:	28.10.2023 15:07:44 until 28.10.2023 21:01:08
+		Duration:	05:53:24
+		Location:	53.32304 -6.22575
+
+	BWIN1
+		Images:	3604
+		Time:	28.10.2023 15:25:07 until 28.10.2023 21:01:00
+		Duration:	05:35:53
+		Location:	53.32304 -6.22575
+
+(11) - Wall Balls
+	ABKO4
+		Images:	579
+		Time:	28.10.2023 17:34:25 until 28.10.2023 17:58:55
+		Duration:	00:24:30
+		Location:	53.32304 -6.22575
+
+	AKBH1
+		Images:	3293
+		Time:	28.10.2023 07:37:17 until 28.10.2023 14:58:03
+		Duration:	07:20:46
+		Location:	53.32304 -6.22575
+
+	AMK5
+		Images:	828
+		Time:	28.10.2023 13:03:24 until 28.10.2023 17:58:47
+		Duration:	04:55:23
+		Location:	53.32304 -6.22575
+
+	ATOMY1
+		Images:	2068
+		Time:	28.10.2023 07:48:08 until 28.10.2023 14:59:01
+		Duration:	07:10:53
+		Location:	53.32304 -6.22575
+
+	BADG1
+		Images:	6712
+		Time:	28.10.2023 15:00:45 until 28.10.2023 22:08:33
+		Duration:	07:07:48
+		Location:	53.32304 -6.22575
+
+	BAK1
+		Images:	2174
+		Time:	28.10.2023 15:02:20 until 28.10.2023 22:23:30
+		Duration:	07:21:10
+		Location:	53.32304 -6.22575
+

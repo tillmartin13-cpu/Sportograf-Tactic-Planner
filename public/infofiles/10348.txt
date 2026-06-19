@@ -1,0 +1,188 @@
+EventId: 10348
+Spots: 28
+Total Images: 227124
+Time:	01.01.0001 23:00:00 to 17.06.2023 15:06:02
+Duration: 738686.16:06:02
+
+(1) - 0.0 km
+	BZ1
+		Images:	390
+		Time:	22.02.2011 02:36:41 until 22.02.2011 09:02:07
+		Duration:	06:25:26
+		Location:	NULL NULL
+
+(2) - 0.0 km amber nichols, order 851771, pfn
+	AN1
+		Images:	14088
+		Time:	17.06.2023 07:48:26 until 17.06.2023 14:31:23
+		Duration:	06:42:57
+		Location:	NULL NULL
+
+(3) - 0.0 km amy artson, msc 5, no order number
+	AA1
+		Images:	16509
+		Time:	17.06.2023 09:30:33 until 17.06.2023 14:32:53
+		Duration:	05:02:20
+		Location:	NULL NULL
+
+(4) - 0.0 km chad casey
+	CC1
+		Images:	4300
+		Time:	17.06.2023 07:55:30 until 17.06.2023 09:22:35
+		Duration:	01:27:05
+		Location:	NULL NULL
+
+(5) - 0.0 km charlie swanson, medals, 851767
+	CS1
+		Images:	3748
+		Time:	20.05.2023 08:19:25 until 17.06.2023 06:27:31
+		Duration:	27.22:08:06
+		Location:	NULL NULL
+
+(6) - 0.0 km chris juhn 854056, mscc5
+	JC1
+		Images:	1441
+		Time:	17.06.2023 13:32:39 until 17.06.2023 14:38:04
+		Duration:	01:05:25
+		Location:	NULL NULL
+
+(7) - 0.0 km clark zarifis, msc 4, order 851774
+	CZ1
+		Images:	9267
+		Time:	17.06.2023 10:56:02 until 17.06.2023 14:51:11
+		Duration:	03:55:09
+		Location:	NULL NULL
+
+(8) - 0.0 km j. roberts, PFN, no order number
+	JR1
+		Images:	24212
+		Time:	07.05.2023 13:29:16 until 17.06.2023 15:06:02
+		Duration:	41.01:36:46
+		Location:	NULL NULL
+
+(9) - 0.0 km jeff alltop, finish, 851755
+	JA1
+		Images:	15979
+		Time:	17.06.2023 07:06:18 until 17.06.2023 09:52:33
+		Duration:	02:46:15
+		Location:	NULL NULL
+
+(10) - 0.0 km jenny taggart, msc 4, 851778
+	JT1
+		Images:	36689
+		Time:	17.06.2023 06:20:49 until 17.06.2023 13:15:32
+		Duration:	06:54:43
+		Location:	NULL NULL
+
+(11) - 0.0 km jerry liebrand, pfn, 851772
+	JL1
+		Images:	6735
+		Time:	17.06.2023 10:47:54 until 17.06.2023 14:49:58
+		Duration:	04:02:04
+		Location:	NULL NULL
+
+(12) - 0.0 km lucas kroll, 851773, pfn
+	KL1
+		Images:	7204
+		Time:	17.06.2023 10:06:54 until 17.06.2023 14:54:02
+		Duration:	04:47:08
+		Location:	NULL NULL
+
+(13) - 0.0 km pat vasquez cunningham, order 851777, msc 4
+	PV1
+		Images:	9525
+		Time:	17.06.2023 06:50:52 until 17.06.2023 12:28:37
+		Duration:	05:37:45
+		Location:	NULL NULL
+
+(14) - 0.0 km paul kelm, 851770 pfn
+	PK1
+		Images:	3658
+		Time:	17.06.2023 11:39:35 until 17.06.2023 13:31:29
+		Duration:	01:51:54
+		Location:	NULL NULL
+
+(15) - 0.0 km PR Images
+	PR1
+		Images:	223
+		Time:	16.06.2023 12:29:58 until 17.06.2023 05:56:46
+		Duration:	17:26:48
+		Location:	NULL NULL
+
+(16) - 0.0 km Steve Garcia
+	GS1
+		Images:	2875
+		Time:	17.06.2023 07:17:06 until 17.06.2023 10:20:54
+		Duration:	03:03:48
+		Location:	NULL NULL
+
+(17) - 0.0 km steve garcia, MSC 1
+	SG1
+		Images:	2601
+		Time:	17.06.2023 05:29:49 until 17.06.2023 06:33:30
+		Duration:	01:03:41
+		Location:	NULL NULL
+
+(18) - 0.0 km steve garcia, msc 4
+	SF1
+		Images:	4104
+		Time:	17.06.2023 10:58:25 until 17.06.2023 13:52:49
+		Duration:	02:54:24
+		Location:	NULL NULL
+
+(19) - 0.0 km trigger cam
+	TC1
+		Images:	5084
+		Time:	17.06.2023 07:35:55 until 17.06.2023 09:02:16
+		Duration:	01:26:21
+		Location:	NULL NULL
+
+(20) - 0.0 km trigger finish
+	TF1
+		Images:	7230
+		Time:	31.12.2006 19:00:01 until 01.01.2007 02:32:24
+		Duration:	07:32:23
+		Location:	NULL NULL
+
+(21) - 0.0 km trigger msc 1
+	TO1
+		Images:	1312
+		Time:	17.06.2023 08:05:00 until 17.06.2023 09:19:52
+		Duration:	01:14:52
+		Location:	NULL NULL
+
+(22) - 0.0 km trigger pre finish
+	TP1
+		Images:	23050
+		Time:	17.06.2023 04:08:02 until 17.06.2023 10:48:05
+		Duration:	06:40:03
+		Location:	NULL NULL
+
+(23) - Impressions / Pano
+	PANO1
+(24) - none
+	BB1
+		Images:	9267
+		Time:	17.06.2023 10:56:02 until 17.06.2023 14:51:11
+		Duration:	03:55:09
+		Location:	NULL NULL
+
+	CB1
+	CT1
+		Images:	6745
+		Time:	01.01.0001 23:00:00 until 17.06.2023 12:45:25
+		Duration:	738686.13:45:25
+		Location:	NULL NULL
+
+	GG1
+		Images:	7230
+		Time:	31.12.2006 19:00:01 until 01.01.2007 02:32:24
+		Duration:	07:32:23
+		Location:	NULL NULL
+
+	MM1
+		Images:	3658
+		Time:	17.06.2023 11:39:35 until 17.06.2023 13:31:29
+		Duration:	01:51:54
+		Location:	NULL NULL
+

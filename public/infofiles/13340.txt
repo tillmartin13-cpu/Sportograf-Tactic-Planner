@@ -1,0 +1,790 @@
+EventId: 13340
+Spots: 131
+Total Images: 1425244
+Time:	01.01.0001 23:00:00 to 31.12.2047 22:02:59
+Duration: 747649.23:02:59
+
+(1) - 0,0 km
+	NCHAD1
+		Images:	5746
+		Time:	13.10.2024 14:14:36 until 13.10.2024 15:59:53
+		Duration:	01:45:17
+		Location:	NULL NULL
+
+	NDES1
+		Images:	10553
+		Time:	13.10.2024 12:56:59 until 13.10.2024 16:03:06
+		Duration:	03:06:07
+		Location:	NULL NULL
+
+	NDKRA1
+		Images:	21878
+		Time:	13.10.2024 07:13:36 until 13.10.2024 13:56:17
+		Duration:	06:42:41
+		Location:	NULL NULL
+
+	NDPER1
+		Images:	25548
+		Time:	13.10.2024 08:06:18 until 13.10.2024 14:16:01
+		Duration:	06:09:43
+		Location:	NULL NULL
+
+	NHALL1
+		Images:	13104
+		Time:	13.10.2024 12:11:46 until 13.10.2024 15:57:58
+		Duration:	03:46:12
+		Location:	NULL NULL
+
+	NJDI1
+		Images:	3929
+		Time:	13.12.2024 11:09:52 until 13.12.2024 13:57:11
+		Duration:	02:47:19
+		Location:	NULL NULL
+
+	NJEFF1
+		Images:	8350
+		Time:	13.10.2024 14:12:03 until 13.10.2024 15:57:38
+		Duration:	01:45:35
+		Location:	NULL NULL
+
+	NOSAL1
+		Images:	24208
+		Time:	13.10.2024 12:09:55 until 13.10.2024 15:55:38
+		Duration:	03:45:43
+		Location:	NULL NULL
+
+	NRING1
+		Images:	26241
+		Time:	13.10.2024 08:25:13 until 13.10.2024 15:17:30
+		Duration:	06:52:17
+		Location:	NULL NULL
+
+	NSHOM1
+		Images:	21214
+		Time:	13.10.2024 10:28:24 until 13.10.2024 15:19:14
+		Duration:	04:50:50
+		Location:	NULL NULL
+
+	NTWAT1
+		Images:	51513
+		Time:	13.10.2024 08:09:32 until 13.10.2024 15:19:39
+		Duration:	07:10:07
+		Location:	NULL NULL
+
+(2) - 0.0 km
+	ADSNO1
+		Images:	12494
+		Time:	13.10.2024 06:45:51 until 13.10.2024 09:26:48
+		Duration:	02:40:57
+		Location:	NULL NULL
+
+	BANG1
+		Images:	27480
+		Time:	13.10.2024 07:07:52 until 13.10.2024 09:17:56
+		Duration:	02:10:04
+		Location:	NULL NULL
+
+	BBTRA1
+	CCCAS1
+		Images:	10774
+		Time:	13.10.2024 07:28:25 until 13.10.2024 09:40:18
+		Duration:	02:11:53
+		Location:	NULL NULL
+
+	CDTAN1
+		Images:	13018
+		Time:	13.10.2024 07:20:46 until 13.10.2024 09:35:08
+		Duration:	02:14:22
+		Location:	NULL NULL
+
+	CGGAR1
+		Images:	3249
+		Time:	13.10.2024 06:38:18 until 13.10.2024 09:31:31
+		Duration:	02:53:13
+		Location:	NULL NULL
+
+	CJLAU1
+		Images:	18969
+		Time:	13.10.2024 07:27:51 until 13.10.2024 09:34:39
+		Duration:	02:06:48
+		Location:	NULL NULL
+
+	CJMOR1
+		Images:	28
+		Time:	13.10.2024 07:12:56 until 13.10.2024 07:29:25
+		Duration:	00:16:29
+		Location:	NULL NULL
+
+	CJROB1
+		Images:	1181
+		Time:	13.10.2024 07:27:48 until 13.10.2024 09:48:09
+		Duration:	02:20:21
+		Location:	NULL NULL
+
+	CSHOM1
+		Images:	7810
+		Time:	13.10.2024 06:41:18 until 13.10.2024 09:28:51
+		Duration:	02:47:33
+		Location:	NULL NULL
+
+	CTCHE1
+		Images:	24133
+		Time:	13.10.2024 08:06:07 until 13.10.2024 10:33:06
+		Duration:	02:26:59
+		Location:	NULL NULL
+
+	CTWEL1
+		Images:	300
+		Time:	13.10.2024 06:51:39 until 13.10.2024 07:31:46
+		Duration:	00:40:07
+		Location:	NULL NULL
+
+	EETRA1
+		Images:	11192
+		Time:	13.10.2024 07:55:22 until 13.10.2024 11:18:50
+		Duration:	03:23:28
+		Location:	NULL NULL
+
+	EJEFF1
+		Images:	24393
+		Time:	13.10.2024 10:18:14 until 13.10.2024 14:11:08
+		Duration:	03:52:54
+		Location:	NULL NULL
+
+	EJMOR1
+		Images:	11873
+		Time:	13.10.2024 08:27:04 until 13.10.2024 12:47:17
+		Duration:	04:20:13
+		Location:	NULL NULL
+
+	EMKEL1
+		Images:	15561
+		Time:	13.10.2024 05:24:05 until 13.10.2024 09:12:02
+		Duration:	03:47:57
+		Location:	NULL NULL
+
+	EPREY1
+		Images:	17322
+		Time:	13.10.2024 10:28:42 until 13.10.2024 13:47:41
+		Duration:	03:18:59
+		Location:	NULL NULL
+
+	ESHAN1
+		Images:	6749
+		Time:	13.10.2024 08:01:50 until 13.10.2024 11:16:27
+		Duration:	03:14:37
+		Location:	NULL NULL
+
+	ETBPR1
+		Images:	1077
+		Time:	13.10.2024 02:55:51 until 13.10.2024 11:48:46
+		Duration:	08:52:55
+		Location:	NULL NULL
+
+	FFTL1
+		Images:	19863
+		Time:	13.10.2024 07:54:44 until 13.10.2024 16:35:01
+		Duration:	08:40:17
+		Location:	NULL NULL
+
+	FFTR1
+		Images:	19921
+		Time:	13.10.2024 09:29:02 until 13.10.2024 16:51:47
+		Duration:	07:22:45
+		Location:	NULL NULL
+
+	FGPH1
+		Images:	46008
+		Time:	13.10.2024 08:08:50 until 13.10.2024 12:46:03
+		Duration:	04:37:13
+		Location:	NULL NULL
+
+	FJMB1
+		Images:	2299
+		Time:	13.10.2024 14:56:49 until 13.10.2024 16:06:25
+		Duration:	01:09:36
+		Location:	NULL NULL
+
+	FJMOR1
+		Images:	9436
+		Time:	13.10.2024 12:48:27 until 13.10.2024 14:55:33
+		Duration:	02:07:06
+		Location:	NULL NULL
+
+	FPFTL1
+		Images:	19875
+		Time:	01.01.0001 23:00:00 until 13.10.2024 15:36:49
+		Duration:	739170.16:36:49
+		Location:	NULL NULL
+
+	FPFTR1
+	GBSA1
+		Images:	23345
+		Time:	13.10.2024 08:15:42 until 13.10.2024 11:24:08
+		Duration:	03:08:26
+		Location:	NULL NULL
+
+	GPFTR1
+	GPFUL1
+		Images:	19106
+		Time:	01.01.0001 23:00:00 until 13.10.2024 15:54:08
+		Duration:	739170.16:54:08
+		Location:	NULL NULL
+
+	GPFUR1
+		Images:	21166
+		Time:	13.10.2024 09:57:37 until 13.10.2024 15:54:31
+		Duration:	05:56:54
+		Location:	NULL NULL
+
+	GTRX1
+		Images:	6965
+		Time:	13.10.2024 13:19:09 until 13.10.2024 16:14:40
+		Duration:	02:55:31
+		Location:	NULL NULL
+
+	GTRXX1
+		Images:	13817
+		Time:	13.10.2024 10:46:47 until 13.10.2024 16:18:20
+		Duration:	05:31:33
+		Location:	NULL NULL
+
+	HBSEB1
+		Images:	34260
+		Time:	13.10.2024 07:37:17 until 13.10.2024 14:12:07
+		Duration:	06:34:50
+		Location:	NULL NULL
+
+	HDRU1
+		Images:	2007
+		Time:	13.10.2024 04:54:24 until 13.10.2024 07:29:57
+		Duration:	02:35:33
+		Location:	NULL NULL
+
+	HJLY1
+		Images:	7300
+		Time:	13.10.2024 09:10:56 until 13.10.2024 14:27:00
+		Duration:	05:16:04
+		Location:	NULL NULL
+
+	HSFIE1
+		Images:	26965
+		Time:	13.10.2024 08:29:43 until 13.10.2024 15:10:32
+		Duration:	06:40:49
+		Location:	NULL NULL
+
+	HSHAW1
+		Images:	28086
+		Time:	13.10.2024 08:51:12 until 13.10.2024 15:08:11
+		Duration:	06:16:59
+		Location:	NULL NULL
+
+	JITRA1
+		Images:	15259
+		Time:	13.10.2024 08:43:05 until 13.10.2024 14:12:41
+		Duration:	05:29:36
+		Location:	NULL NULL
+
+	JTRRA1
+	KBRBL1
+		Images:	26163
+		Time:	13.10.2024 07:58:57 until 13.10.2024 15:51:13
+		Duration:	07:52:16
+		Location:	NULL NULL
+
+	KBRSP1
+		Images:	20509
+		Time:	13.10.2024 13:10:13 until 13.10.2024 15:30:23
+		Duration:	02:20:10
+		Location:	NULL NULL
+
+	KDOSN1
+		Images:	11212
+		Time:	12.10.2024 13:32:26 until 13.10.2024 13:33:11
+		Duration:	1.00:00:45
+		Location:	NULL NULL
+
+	KISVE1
+		Images:	13843
+		Time:	13.10.2024 12:55:01 until 13.10.2024 15:30:07
+		Duration:	02:35:06
+		Location:	NULL NULL
+
+	KKETR1
+		Images:	5762
+		Time:	13.10.2024 12:22:33 until 13.10.2024 15:50:35
+		Duration:	03:28:02
+		Location:	NULL NULL
+
+	KKTRI1
+		Images:	18526
+		Time:	01.01.2014 22:00:59 until 13.10.2024 15:48:56
+		Duration:	3937.17:47:57
+		Location:	NULL NULL
+
+	KMIKE1
+		Images:	9671
+		Time:	13.10.2024 10:19:38 until 13.10.2024 13:17:55
+		Duration:	02:58:17
+		Location:	NULL NULL
+
+	KPERI1
+		Images:	7762
+		Time:	13.10.2024 12:15:21 until 13.10.2024 15:35:45
+		Duration:	03:20:24
+		Location:	NULL NULL
+
+	KRACZ1
+		Images:	10895
+		Time:	13.10.2024 14:13:29 until 13.10.2024 17:00:29
+		Duration:	02:47:00
+		Location:	NULL NULL
+
+	KSTHA1
+		Images:	5691
+		Time:	13.10.2024 12:33:27 until 13.10.2024 14:30:18
+		Duration:	01:56:51
+		Location:	NULL NULL
+
+	KTEWH1
+		Images:	17893
+		Time:	13.10.2024 08:45:52 until 13.10.2024 15:12:21
+		Duration:	06:26:29
+		Location:	NULL NULL
+
+	LANG1
+		Images:	54515
+		Time:	13.10.2024 10:18:53 until 13.10.2024 15:14:55
+		Duration:	04:56:02
+		Location:	NULL NULL
+
+	LBWIL1
+		Images:	20305
+		Time:	13.10.2024 08:43:24 until 13.10.2024 15:21:17
+		Duration:	06:37:53
+		Location:	NULL NULL
+
+	LIVEG1
+		Images:	16415
+		Time:	13.10.2024 08:01:42 until 13.10.2024 11:41:12
+		Duration:	03:39:30
+		Location:	NULL NULL
+
+	LJALL1
+		Images:	32169
+		Time:	13.10.2024 08:39:27 until 13.10.2024 15:13:22
+		Duration:	06:33:55
+		Location:	NULL NULL
+
+	LTRF1
+		Images:	14114
+		Time:	13.10.2024 08:09:17 until 13.10.2024 10:41:18
+		Duration:	02:32:01
+		Location:	NULL NULL
+
+	LTRM1
+		Images:	19568
+		Time:	13.10.2024 09:49:45 until 13.10.2024 16:35:41
+		Duration:	06:45:56
+		Location:	NULL NULL
+
+	LTWEL1
+		Images:	24646
+		Time:	13.10.2024 08:45:24 until 13.10.2024 15:53:16
+		Duration:	07:07:52
+		Location:	NULL NULL
+
+	MMKO1
+		Images:	14844
+		Time:	13.10.2024 06:55:51 until 13.10.2024 13:04:19
+		Duration:	06:08:28
+		Location:	NULL NULL
+
+	MPAUL1
+		Images:	14417
+		Time:	13.10.2024 08:21:32 until 13.10.2024 11:10:17
+		Duration:	02:48:45
+		Location:	NULL NULL
+
+(3) - 0.0 km Adam Varnas OFP 856175
+	ZAVAR1
+		Images:	982
+		Time:	12.10.2024 22:04:23 until 13.10.2024 03:58:29
+		Duration:	05:54:06
+		Location:	NULL NULL
+
+(4) - 0.0 km Andrew Palmer OFP 856182
+	ZAPAL1
+		Images:	708
+		Time:	13.10.2024 10:16:42 until 13.10.2024 14:45:32
+		Duration:	04:28:50
+		Location:	NULL NULL
+
+(5) - 0.0 km Angelica Zavala OFP 856178
+	ZAZAV1
+		Images:	1602
+		Time:	13.10.2024 10:03:46 until 13.10.2024 15:14:25
+		Duration:	05:10:39
+		Location:	NULL NULL
+
+(6) - 0.0 km Basil Mahmud OFP 856180
+	ZBMAH1
+		Images:	1087
+		Time:	13.10.2024 10:04:23 until 13.10.2024 14:52:58
+		Duration:	04:48:35
+		Location:	NULL NULL
+
+(7) - 0.0 km Boomer Scripps PFP 856173
+	ZBSCR1
+		Images:	620
+		Time:	13.10.2024 10:20:50 until 13.10.2024 14:59:53
+		Duration:	04:39:03
+		Location:	NULL NULL
+
+(8) - 0.0 km Claude Bird Medals 856281
+	ZCBIR1
+		Images:	16719
+		Time:	29.10.2024 20:53:35 until 30.10.2024 02:48:12
+		Duration:	05:54:37
+		Location:	NULL NULL
+
+(9) - 0.0 km Claudia Maslon WWM banner 856311
+	ZCMAS1
+		Images:	693
+		Time:	13.10.2024 08:47:20 until 13.10.2024 14:34:07
+		Duration:	05:46:47
+		Location:	NULL NULL
+
+(10) - 0.0 km Edward After Buffalo Medals 856266
+	ZEAFT1
+		Images:	2758
+		Time:	13.10.2024 10:04:08 until 13.10.2024 15:32:25
+		Duration:	05:28:17
+		Location:	NULL NULL
+
+(11) - 0.0 km Elijah Hudley Medals 856265
+	ZEHUD1
+		Images:	5767
+		Time:	13.10.2024 12:02:40 until 13.10.2024 17:43:52
+		Duration:	05:41:12
+		Location:	NULL NULL
+
+(12) - 0.0 km Emiliano Roque 856185 OFP
+	ZEMIL1
+		Images:	1235
+		Time:	13.10.2024 09:16:49 until 13.10.2024 14:33:57
+		Duration:	05:17:08
+		Location:	NULL NULL
+
+(13) - 0.0 km Emma Raffery Medals 856271
+	ZERAF1
+		Images:	4298
+		Time:	13.10.2024 11:07:04 until 13.10.2024 16:35:02
+		Duration:	05:27:58
+		Location:	NULL NULL
+
+(14) - 0.0 km Ervin Guinto 856186
+	ZEGUI1
+		Images:	1333
+		Time:	13.10.2024 10:01:36 until 13.10.2024 15:00:22
+		Duration:	04:58:46
+		Location:	NULL NULL
+
+(15) - 0.0 km Gregory Bowman OFP 856179
+	ZGREG1
+		Images:	907
+		Time:	13.10.2024 10:11:17 until 13.10.2024 15:58:24
+		Duration:	05:47:07
+		Location:	NULL NULL
+
+(16) - 0.0 km Jakob Ferguson Medals Champ 856196
+	ZJFER1
+		Images:	1445
+		Time:	13.10.2024 12:31:39 until 13.10.2024 15:41:22
+		Duration:	03:09:43
+		Location:	NULL NULL
+
+(17) - 0.0 km Jayden Gonzales Medals 856279
+	ZJGON1
+		Images:	8720
+		Time:	13.10.2024 10:08:04 until 13.10.2024 15:01:37
+		Duration:	04:53:33
+		Location:	NULL NULL
+
+(18) - 0.0 km Joeff Davis OFP 856177
+	ZJDAV1
+		Images:	1635
+		Time:	13.10.2024 10:03:05 until 13.10.2024 15:14:27
+		Duration:	05:11:22
+		Location:	NULL NULL
+
+(19) - 0.0 km Jonathan Bivins OFP 856189
+	ZJBIV1
+		Images:	997
+		Time:	13.10.2024 09:21:21 until 13.10.2024 14:57:48
+		Duration:	05:36:27
+		Location:	NULL NULL
+
+(20) - 0.0 km Jorge Espinosa Medals 856269
+	ZJESP1
+		Images:	2128
+		Time:	13.10.2024 10:03:55 until 13.10.2024 14:57:02
+		Duration:	04:53:07
+		Location:	NULL NULL
+
+(21) - 0.0 km Kevin Holliday OFP 856181
+	ZKHOL1
+		Images:	941
+		Time:	13.10.2024 10:06:48 until 13.10.2024 14:51:09
+		Duration:	04:44:21
+		Location:	NULL NULL
+
+(22) - 0.0 km Luis Alvarez Medals 856276
+	ZLALV1
+		Images:	7709
+		Time:	13.10.2024 09:04:44 until 13.10.2024 14:32:51
+		Duration:	05:28:07
+		Location:	NULL NULL
+
+(23) - 0.0 km Mark Elliot Medals 856282
+	ZMELL1
+		Images:	7509
+		Time:	12.10.2024 07:51:10 until 13.10.2024 15:43:45
+		Duration:	1.07:52:35
+		Location:	NULL NULL
+
+(24) - 0.0 km Megan Jonas OFP 856187
+	ZMJON1
+		Images:	686
+		Time:	12.10.2024 22:11:00 until 13.10.2024 02:44:57
+		Duration:	04:33:57
+		Location:	NULL NULL
+
+(25) - 0.0 km Mehraj Mirzai Medals 856274
+	ZMMIR1
+		Images:	3223
+		Time:	12.10.2024 22:00:48 until 13.10.2024 03:46:05
+		Duration:	05:45:17
+		Location:	NULL NULL
+
+(26) - 0.0 km Meshia Reed OFP 856183
+	ZMREE1
+		Images:	757
+		Time:	13.10.2024 10:04:54 until 13.10.2024 15:01:36
+		Duration:	04:56:42
+		Location:	NULL NULL
+
+(27) - 0.0 km Ozzie Ramsay Medals 856280
+	ZOZZI1
+		Images:	3827
+		Time:	31.12.1999 23:00:00 until 31.12.2047 22:02:59
+		Duration:	17531.23:02:59
+		Location:	NULL NULL
+
+(28) - 0.0 km Renita Andani Medals 856267
+	ZRAND1
+		Images:	8745
+		Time:	13.10.2024 10:03:08 until 13.10.2024 15:47:20
+		Duration:	05:44:12
+		Location:	NULL NULL
+
+(29) - 0.0 km Reyshaun Griffin OFP 856184
+	ZRAYS1
+		Images:	1328
+		Time:	12.10.2024 21:09:43 until 13.10.2024 02:05:02
+		Duration:	04:55:19
+		Location:	NULL NULL
+
+(30) - 0.0 km Serajuddin Mirzai Medals 856275
+	ZSERA1
+		Images:	7704
+		Time:	13.10.2024 21:27:51 until 14.10.2024 03:43:30
+		Duration:	06:15:39
+		Location:	NULL NULL
+
+(31) - 0.0 km Sofia Villarruel OFP 856190
+	ZSVIL1
+		Images:	1486
+		Time:	13.10.2024 09:03:51 until 13.10.2024 14:00:28
+		Duration:	04:56:37
+		Location:	NULL NULL
+
+(32) - 0.0 km Steven Anderson OFP 856176
+	ZSAND1
+		Images:	855
+		Time:	13.10.2024 10:12:19 until 13.10.2024 14:23:06
+		Duration:	04:10:47
+		Location:	NULL NULL
+
+(33) - 0.0 km Tasha Peterson OFP 856172
+	ZTPET1
+		Images:	811
+		Time:	13.10.2024 09:17:04 until 13.10.2024 15:07:35
+		Duration:	05:50:31
+		Location:	NULL NULL
+
+(34) - 0.0 km Taylor Richardson Medals 856272
+	ZTRIC1
+		Images:	4213
+		Time:	13.10.2024 10:05:33 until 13.10.2024 15:35:18
+		Duration:	05:29:45
+		Location:	NULL NULL
+
+(35) - 0.0 km Tenesha Thompson Medals 856270
+	ZTTHO1
+(36) - 0.0 km Tiffany Harris OFP 856191
+	ZTHAR1
+		Images:	1031
+		Time:	12.10.2025 22:53:12 until 13.10.2025 04:29:07
+		Duration:	05:35:55
+		Location:	NULL NULL
+
+(37) - 0.0 km Trent Weyermuller Medals 856277
+	ZTWEY1
+		Images:	3271
+		Time:	31.12.2000 18:00:01 until 13.10.2024 15:45:28
+		Duration:	8686.21:45:27
+		Location:	NULL NULL
+
+(38) - 0.0 km Ursula Zajack Medals 856278
+	ZUZAJ1
+		Images:	5015
+		Time:	13.10.2024 09:50:24 until 13.10.2024 15:44:15
+		Duration:	05:53:51
+		Location:	NULL NULL
+
+(39) - 0.0 km Vincent Drakes OFP 856174
+	ZVDRA1
+		Images:	964
+		Time:	12.10.2024 22:15:42 until 13.10.2024 03:55:41
+		Duration:	05:39:59
+		Location:	NULL NULL
+
+(40) - 0.0 km Will McLaughlin OFP 856188
+	ZWMC1
+		Images:	1118
+		Time:	13.10.2024 10:10:19 until 13.10.2024 15:04:31
+		Duration:	04:54:12
+		Location:	NULL NULL
+
+(41) - 0.0 km Zhiaea Mitchell Medals 856273
+	ZZMIC1
+		Images:	4375
+		Time:	13.10.2024 09:57:50 until 13.10.2024 14:54:06
+		Duration:	04:56:16
+		Location:	NULL NULL
+
+(42) - Impressions / Pano
+	PANO1
+(43) - none
+	BDSNO1
+	BPRIC1
+	CATRA1
+		Images:	8344
+		Time:	13.10.2024 07:10:49 until 13.10.2024 09:41:22
+		Duration:	02:30:33
+		Location:	NULL NULL
+
+	CATRB1
+		Images:	6988
+		Time:	13.10.2024 06:45:02 until 13.10.2024 09:19:35
+		Duration:	02:34:33
+		Location:	NULL NULL
+
+	CPREY1
+		Images:	15107
+		Time:	13.10.2024 07:01:22 until 13.10.2024 09:44:03
+		Duration:	02:42:41
+		Location:	NULL NULL
+
+	ECHAD1
+		Images:	19707
+		Time:	13.10.2024 10:18:54 until 13.10.2024 14:11:09
+		Duration:	03:52:15
+		Location:	NULL NULL
+
+	EDES1
+		Images:	11981
+		Time:	13.10.2024 10:33:43 until 13.10.2024 12:56:31
+		Duration:	02:22:48
+		Location:	NULL NULL
+
+	EDSNO1
+		Images:	8991
+		Time:	13.10.2024 09:49:15 until 13.10.2024 11:06:55
+		Duration:	01:17:40
+		Location:	NULL NULL
+
+	EETRB1
+		Images:	4901
+		Time:	13.10.2024 09:41:07 until 13.10.2024 11:09:43
+		Duration:	01:28:36
+		Location:	NULL NULL
+
+	EJROB1
+		Images:	14342
+		Time:	13.10.2024 10:11:18 until 13.10.2024 14:08:52
+		Duration:	03:57:34
+		Location:	NULL NULL
+
+	EPRI1
+		Images:	8240
+		Time:	13.10.2024 09:38:50 until 13.10.2024 11:07:24
+		Duration:	01:28:34
+		Location:	NULL NULL
+
+	FEMIR1
+		Images:	11012
+		Time:	13.10.2024 08:08:10 until 13.10.2024 12:57:54
+		Duration:	04:49:44
+		Location:	NULL NULL
+
+	FFTCU1
+		Images:	17729
+		Time:	13.10.2024 10:42:33 until 13.10.2024 15:44:49
+		Duration:	05:02:16
+		Location:	NULL NULL
+
+	FGTRA1
+		Images:	6888
+		Time:	31.12.2006 18:00:00 until 13.10.2024 12:01:37
+		Duration:	6495.18:01:37
+		Location:	NULL NULL
+
+	FKIM1
+		Images:	8307
+		Time:	13.10.2024 08:05:55 until 13.10.2024 12:57:11
+		Duration:	04:51:16
+		Location:	NULL NULL
+
+	GPFUC1
+	GPRF1
+		Images:	8427
+		Time:	13.10.2024 13:53:12 until 13.10.2024 16:42:54
+		Duration:	02:49:42
+		Location:	NULL NULL
+
+	HBEDD1
+		Images:	15393
+		Time:	13.10.2024 08:32:02 until 13.10.2024 15:09:00
+		Duration:	06:36:58
+		Location:	NULL NULL
+
+	HITRB1
+		Images:	15422
+		Time:	02.01.2007 06:26:58 until 13.10.2024 14:12:41
+		Duration:	6494.07:45:43
+		Location:	NULL NULL
+
+	HRACH1
+		Images:	24875
+		Time:	13.10.2024 09:04:58 until 13.10.2024 12:40:09
+		Duration:	03:35:11
+		Location:	NULL NULL
+
+	NJROB1
+		Images:	4903
+		Time:	13.10.2024 14:09:59 until 13.10.2024 16:00:02
+		Duration:	01:50:03
+		Location:	NULL NULL
+

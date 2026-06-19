@@ -1,0 +1,183 @@
+EventId: 15962
+Spots: 26
+Total Images: 205656
+Time:	01.01.0001 23:00:00 to 31.12.2099 22:59:59
+Duration: 766642.23:59:59
+
+(1) - Impressions / Pano
+	PANO1
+(2) - 0.0 km Terrance donnelly- Medals
+	DTERR1
+		Images:	1556
+		Time:	03.05.2025 07:07:04 until 03.05.2025 12:03:11
+		Duration:	04:56:07
+		Location:	NULL NULL
+
+(3) - 0.0 km Connor tunstell- medals, 860887
+	DCONN1
+		Images:	1433
+		Time:	03.05.2025 07:50:49 until 03.05.2025 11:48:47
+		Duration:	03:57:58
+		Location:	NULL NULL
+
+(4) - 0.0 km Rick magyan, medals, 860883
+	DRICK1
+		Images:	627
+		Time:	03.05.2025 07:50:43 until 03.05.2025 11:51:04
+		Duration:	04:00:21
+		Location:	NULL NULL
+
+(5) - 0.0 km nathan kelly, medals,
+	DNATH1
+		Images:	904
+		Time:	03.05.2025 06:43:34 until 03.05.2025 10:42:23
+		Duration:	03:58:49
+		Location:	NULL NULL
+
+(6) - 0.0 km Forrest Cook- medals, 860882
+	DFORR1
+		Images:	681
+		Time:	03.05.2025 06:50:48 until 03.05.2025 10:50:22
+		Duration:	03:59:34
+		Location:	NULL NULL
+
+(7) - 0.0 km anthony summers, medals, 860885
+	DANTH1
+		Images:	1556
+		Time:	02.05.2025 19:54:54 until 02.05.2025 23:57:57
+		Duration:	04:03:03
+		Location:	NULL NULL
+
+(8) - 0.0 km Brad Kroll medals and pre finish
+	DKROL1
+		Images:	1565
+		Time:	31.12.2013 19:00:01 until 31.12.2099 22:59:59
+		Duration:	31411.03:59:58
+		Location:	NULL NULL
+
+(9) - 0.0 km Frank Roche - Medals, 860886
+	DFRAN1
+		Images:	1404
+		Time:	03.05.2025 06:50:47 until 03.05.2025 11:40:52
+		Duration:	04:50:05
+		Location:	NULL NULL
+
+(10) - 0.0 km Larry Castillo, pre finish, 860890
+	DLARR1
+		Images:	20854
+		Time:	03.05.2025 07:45:39 until 04.05.2025 09:29:54
+		Duration:	1.01:44:15
+		Location:	NULL NULL
+
+(11) - 0.0 km Kaitlyn Eylicio, 860888, medals
+	DKAIT1
+		Images:	472
+		Time:	22.06.2021 07:16:57 until 22.06.2021 11:19:25
+		Duration:	04:02:28
+		Location:	NULL NULL
+
+(12) - 0.0 km greg overbeck, medals
+	DGREG1
+		Images:	1450
+		Time:	03.05.2025 07:50:08 until 03.05.2025 11:50:25
+		Duration:	04:00:17
+		Location:	NULL NULL
+
+(13) - 0.0 km alan ng, finish, 860895
+	DALAN1
+		Images:	26961
+		Time:	03.05.2025 07:31:08 until 03.05.2025 11:49:21
+		Duration:	04:18:13
+		Location:	NULL NULL
+
+(14) - 0.0 km Finish trigger left side 860896
+	DFINL1
+		Images:	12481
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(15) - 0.0 km Finish trigger right side, 860897
+	DFINR1
+		Images:	11899
+		Time:	03.05.2025 06:31:40 until 03.05.2025 10:49:22
+		Duration:	04:17:42
+		Location:	NULL NULL
+
+(16) - 0.0 km pre finish low trigger
+	DEXTR1
+		Images:	11919
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(17) - 0.0 km Terry Wherry, Finish, 860894
+	DTWH1
+		Images:	21789
+		Time:	03.05.2025 06:54:35 until 03.05.2025 10:54:56
+		Duration:	04:00:21
+		Location:	NULL NULL
+
+(18) - 0.0 km Dave Tideswell, Pre Finish, 860889
+	DDAT1
+		Images:	15885
+		Time:	03.05.2025 07:45:36 until 03.05.2025 11:48:08
+		Duration:	04:02:32
+		Location:	NULL NULL
+
+(19) - 0.0 km Pre Finish Trigger, RHS, 860891
+	DPFTD1
+		Images:	11671
+		Time:	03.05.2025 07:45:05 until 03.05.2025 11:47:37
+		Duration:	04:02:32
+		Location:	NULL NULL
+
+(20) - 0.0 km Pre Finish Trigger, RHS, 860892
+	DPFTL1
+		Images:	10477
+		Time:	03.05.2025 07:38:18 until 03.05.2025 11:49:39
+		Duration:	04:11:21
+		Location:	NULL NULL
+
+(21) - 0.0 km Matt Wagner, MSC6, 860898
+	DMWA1
+		Images:	12945
+		Time:	03.05.2025 07:00:25 until 03.05.2025 11:39:20
+		Duration:	04:38:55
+		Location:	NULL NULL
+
+(22) - 0.0 km Trent Wellott, MSC6, 860899
+	DTWE1
+		Images:	9987
+		Time:	03.05.2025 07:56:23 until 03.05.2025 11:36:46
+		Duration:	03:40:23
+		Location:	NULL NULL
+
+(23) - 0.0 km Rachel Czech, MSC6, 860900
+	DRCZ1
+		Images:	13379
+		Time:	03.05.2025 07:44:37 until 03.05.2025 11:41:19
+		Duration:	03:56:42
+		Location:	NULL NULL
+
+(24) - 0.0 km Trigger Right, MSC6, 860901
+	DMSCR1
+		Images:	5725
+		Time:	03.05.2025 07:19:14 until 03.05.2025 11:39:32
+		Duration:	04:20:18
+		Location:	NULL NULL
+
+(25) - 0.0 km Trigger Left, MSC6, no number
+	DMSCL1
+		Images:	7636
+		Time:	03.05.2025 07:15:01 until 03.05.2025 11:40:03
+		Duration:	04:25:02
+		Location:	NULL NULL
+
+(26) - 0.0 km Trent Wellott, Start, 860884
+	DTWS1
+		Images:	400
+		Time:	03.05.2025 07:25:04 until 03.05.2025 07:39:31
+		Duration:	00:14:27
+		Location:	NULL NULL
+

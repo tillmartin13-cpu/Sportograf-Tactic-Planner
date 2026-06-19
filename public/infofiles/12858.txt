@@ -1,0 +1,21 @@
+EventId: 12858
+Spots: 3
+Total Images: 300
+Time:	17.11.2024 15:00:04 to 17.11.2024 16:13:16
+Duration: 01:13:12
+
+(1) - Herotent
+	NIPE1
+		Images:	150
+		Time:	17.11.2024 15:00:04 until 17.11.2024 16:13:16
+		Duration:	01:13:12
+		Location:	-81.56845 34.28047
+
+	NIPE2
+		Images:	150
+		Time:	17.11.2024 15:00:04 until 17.11.2024 16:13:16
+		Duration:	01:13:12
+		Location:	-81.56845 34.28047
+
+(2) - Impressions / Pano
+	PANO1

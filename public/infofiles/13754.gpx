@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "44.14131" lon = "4.25993"><name>CC1</name><desc>38.0 km
+Images:2131
+First:04.05.2025 09:46:20
+Last:04.05.2025 10:50:51
+Duration:01:04:31
+</desc></wpt>
+<wpt lat = "44.35368" lon = "4.46372"><name>CC2</name><desc>98.0 km
+Images:1054
+First:04.05.2025 13:06:57
+Last:04.05.2025 14:51:35
+Duration:01:44:38
+</desc></wpt>
+<wpt lat = "44.21854" lon = "4.48312"><name>DART1</name><desc>Start
+Images:1249
+First:04.05.2025 08:10:44
+Last:04.05.2025 11:15:18
+Duration:03:04:34
+</desc></wpt>
+<wpt lat = "44.21854" lon = "4.48312"><name>DART2</name><desc>Finish
+Images:3463
+First:04.05.2025 11:37:39
+Last:04.05.2025 16:43:34
+Duration:05:05:55
+</desc></wpt>
+<wpt lat = "44.13845" lon = "4.28420"><name>GAT1</name><desc>32.0 km
+Images:2958
+First:04.05.2025 09:12:20
+Last:04.05.2025 10:51:39
+Duration:01:39:19
+</desc></wpt>
+<wpt lat = "44.32741" lon = "4.54627"><name>GAT2</name><desc>102.0 km
+Images:641
+First:04.05.2025 12:52:28
+Last:04.05.2025 15:02:27
+Duration:02:09:59
+</desc></wpt>
+<wpt lat = "44.13838" lon = "4.27552"><name>LEBE1</name><desc>35.0 km
+Images:1526
+First:04.05.2025 09:54:51
+Last:04.05.2025 10:57:40
+Duration:01:02:49
+</desc></wpt>
+<wpt lat = "44.23837" lon = "4.55872"><name>LEBE2</name><desc>142.0 km
+Images:2369
+First:04.05.2025 12:03:30
+Last:04.05.2025 16:22:50
+Duration:04:19:20
+</desc></wpt>
+</gpx>

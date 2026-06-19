@@ -1,0 +1,382 @@
+EventId: 10064
+Spots: 59
+Total Images: 141353
+Time:	01.01.0001 23:00:00 to 07.10.2023 19:05:21
+Duration: 738798.20:05:21
+
+(1) - 1.3km from Roc Trail Finish + Family Trail
+	HS1
+		Images:	1058
+		Time:	07.10.2023 11:14:09 until 07.10.2023 17:09:11
+		Duration:	05:55:02
+		Location:	43.43474 6.63473
+
+	HS1LS1
+		Images:	651
+		Time:	07.10.2023 11:22:29 until 07.10.2023 15:32:30
+		Duration:	04:10:01
+		Location:	43.43474 6.63473
+
+	HS1LS2
+		Images:	665
+		Time:	07.10.2023 12:01:32 until 07.10.2023 17:02:09
+		Duration:	05:00:37
+		Location:	43.43474 6.63473
+
+(2) - 15.0km Rouge, 21.5 Noire
+	JH1
+		Images:	5801
+		Time:	07.10.2023 10:44:49 until 07.10.2023 15:31:01
+		Duration:	04:46:12
+		Location:	43.38482 6.65428
+
+	JH1LS1
+		Images:	2997
+		Time:	07.10.2023 10:29:42 until 07.10.2023 12:26:02
+		Duration:	01:56:20
+		Location:	43.38482 6.65428
+
+	JH1LS2
+		Images:	2997
+		Time:	07.10.2023 10:35:56 until 07.10.2023 12:25:08
+		Duration:	01:49:12
+		Location:	43.38482 6.65428
+
+(3) - 17.0km Rouge, 24.0km Noire, 31.5km Double Noire
+	COR1
+		Images:	6509
+		Time:	07.10.2023 10:47:48 until 07.10.2023 15:33:02
+		Duration:	04:45:14
+		Location:	43.37716 6.64330
+
+	COR1LS1
+		Images:	3425
+		Time:	07.10.2023 10:37:00 until 07.10.2023 15:37:00
+		Duration:	05:00:00
+		Location:	43.37716 6.64330
+
+	COR1LS2
+		Images:	3201
+		Time:	07.10.2023 10:35:29 until 07.10.2023 15:33:04
+		Duration:	04:57:35
+		Location:	43.37716 6.64330
+
+(4) - 18.3km Verte, 28.3km Bleue, 44km Noire, 52.5km Double Noire, 12.5 Desguisse
+	DARO1
+		Images:	2687
+		Time:	07.10.2023 08:38:16 until 07.10.2023 18:02:51
+		Duration:	09:24:35
+		Location:	43.38832 6.73054
+
+	DARO1LS1
+		Images:	6828
+		Time:	07.10.2023 07:46:37 until 07.10.2023 17:52:42
+		Duration:	10:06:05
+		Location:	43.38832 6.73054
+
+	DARO1LS2
+		Images:	4462
+		Time:	07.10.2023 08:01:42 until 07.10.2023 16:25:12
+		Duration:	08:23:30
+		Location:	43.38832 6.73054
+
+(5) - 18.8km Verte, 28.8km Bleue, 44.5km Noire, 53.0km Double Noire, 13.0 Desguisse
+	MIFP1
+		Images:	3262
+		Time:	07.10.2023 08:59:16 until 07.10.2023 18:10:18
+		Duration:	09:11:02
+		Location:	43.39271 6.72828
+
+	MIFP1LS1
+		Images:	4205
+		Time:	07.10.2023 08:29:36 until 07.10.2023 18:14:02
+		Duration:	09:44:26
+		Location:	43.39271 6.72828
+
+(6) - 19.0km Verte, 29.0km Bleue, 44.7km Noire, 53.2km Double Noire, 13.2 Desguisse
+	JLTG1LS1
+		Images:	2286
+		Time:	07.10.2023 08:28:52 until 07.10.2023 14:23:09
+		Duration:	05:54:17
+		Location:	43.39386 6.72526
+
+	JLTG1LS2
+		Images:	3161
+		Time:	07.10.2023 08:02:47 until 07.10.2023 18:23:14
+		Duration:	10:20:27
+		Location:	43.39386 6.72526
+
+	JLTG2
+		Images:	3649
+		Time:	07.10.2023 08:58:50 until 07.10.2023 18:33:57
+		Duration:	09:35:07
+		Location:	43.39386 6.72526
+
+(7) - 1km from Roc Finish
+	JJPT1LS2
+		Images:	707
+		Time:	07.10.2023 11:22:28 until 07.10.2023 16:56:04
+		Duration:	05:33:36
+		Location:	43.43745 6.63535
+
+(8) - 1km from Roc Trail Finish
+	JJPT1
+		Images:	502
+		Time:	07.10.2023 12:07:04 until 07.10.2023 16:41:10
+		Duration:	04:34:06
+		Location:	43.43745 6.63535
+
+	JJPT1LS1
+		Images:	715
+		Time:	07.10.2023 11:14:16 until 07.10.2023 16:41:08
+		Duration:	05:26:52
+		Location:	43.43745 6.63535
+
+(9) - 2.5km from Roc Trail Finish
+	MANR2
+		Images:	2651
+		Time:	07.10.2023 11:20:13 until 07.10.2023 16:05:18
+		Duration:	04:45:05
+		Location:	43.44001 6.62227
+
+	MANR2LS1
+		Images:	920
+		Time:	07.10.2023 11:10:17 until 07.10.2023 16:12:08
+		Duration:	05:01:51
+		Location:	43.44001 6.62227
+
+	MANR2LS2
+		Images:	735
+		Time:	07.10.2023 11:10:33 until 07.10.2023 16:11:18
+		Duration:	05:00:45
+		Location:	43.44001 6.62227
+
+(10) - Finish
+	STO2
+		Images:	8718
+		Time:	07.10.2023 08:24:28 until 07.10.2023 19:05:03
+		Duration:	10:40:35
+		Location:	43.41608 6.73564
+
+	STO2LS1
+		Images:	6057
+		Time:	07.10.2023 08:59:07 until 07.10.2023 19:05:21
+		Duration:	10:06:14
+		Location:	43.41608 6.73564
+
+(11) - Impressions / Pano
+	DARO1DRONE1
+		Images:	14
+		Time:	07.10.2023 09:04:56 until 07.10.2023 09:36:19
+		Duration:	00:31:23
+		Location:	43.38832 6.73054
+
+	MLU1DRONE1
+		Images:	24
+		Time:	07.10.2023 13:08:24 until 07.10.2023 16:18:56
+		Duration:	03:10:32
+		Location:	43.38870 6.64188
+
+	PANO1
+(12) - Impressions Past Days
+	IMPS1
+		Images:	185
+		Time:	01.01.0001 23:00:00 until 05.10.2023 15:47:00
+		Duration:	738796.16:47:00
+		Location:	43.38832 6.73054
+
+(13) - km 20.7 Doble Noir
+	MLU2
+		Images:	317
+		Time:	07.10.2023 12:45:46 until 07.10.2023 15:04:03
+		Duration:	02:18:17
+		Location:	43.40557 6.63829
+
+	MLU2LS1
+		Images:	455
+		Time:	01.01.0001 23:00:00 until 07.10.2023 15:14:00
+		Duration:	738798.16:14:00
+		Location:	43.40546 6.63764
+
+(14) - km 9.5 Gravel, Verte, Bleue, Rouge, Noire
+	PKA1
+		Images:	4599
+		Time:	07.10.2023 07:40:45 until 07.10.2023 13:23:29
+		Duration:	05:42:44
+		Location:	43.38759 6.69194
+
+	PKA1LS1
+		Images:	5565
+		Time:	06.10.2023 08:19:34 until 07.10.2023 11:47:29
+		Duration:	1.03:27:55
+		Location:	43.38759 6.69194
+
+(15) - km0.8 from the Roc Trail Finish
+	ROB1
+		Images:	1389
+		Time:	07.10.2023 10:02:52 until 07.10.2023 16:18:11
+		Duration:	06:15:19
+		Location:	43.43429 6.63258
+
+	ROB1LS1
+		Images:	979
+		Time:	07.10.2023 10:00:20 until 07.10.2023 16:38:03
+		Duration:	06:37:43
+		Location:	43.43411 6.63307
+
+	ROB1LS2
+		Images:	907
+		Time:	07.10.2023 10:47:46 until 07.10.2023 16:18:42
+		Duration:	05:30:56
+		Location:	43.43411 6.63307
+
+(16) - km13.3 Verte, km30.3 Rouge, km38.7 Noir, km45.7 Doble Noir, km23.3 Blue
+	DDF2
+		Images:	3894
+		Time:	07.10.2023 09:48:15 until 07.10.2023 18:10:09
+		Duration:	08:21:54
+		Location:	43.39178 6.70675
+
+(17) - km14.3 Verte, km31.3 Rouge, km39.7 Noir, km46.7 Doble Noir, km8.4 Desguisee, km24.3 Blue
+	BATI1
+		Images:	3946
+		Time:	07.10.2023 08:48:17 until 07.10.2023 18:13:51
+		Duration:	09:25:34
+		Location:	43.39831 6.70488
+
+(18) - km14.6 Rouge, km21.5 Noir
+	EP1
+		Images:	3768
+		Time:	07.10.2023 10:55:43 until 07.10.2023 15:20:21
+		Duration:	04:24:38
+		Location:	43.38513 6.65852
+
+	EP1LS1
+		Images:	2151
+		Time:	07.10.2023 10:24:44 until 07.10.2023 15:34:14
+		Duration:	05:09:30
+		Location:	43.38513 6.65852
+
+	EP1LS2
+		Images:	2244
+		Time:	07.10.2023 10:25:21 until 07.10.2023 15:22:37
+		Duration:	04:57:16
+		Location:	43.38513 6.65852
+
+(19) - km15.0 Verte, km32 Rouge, km40.4 Noir, km47.4 Doble Noir, km9.1 Desguisee, km25.1 Blue
+	MAGA1
+		Images:	3435
+		Time:	07.10.2023 08:51:55 until 07.10.2023 18:37:59
+		Duration:	09:46:04
+		Location:	43.40213 6.70718
+
+	MAGA1LS1
+		Images:	4266
+		Time:	07.10.2023 08:49:08 until 07.10.2023 18:38:14
+		Duration:	09:49:06
+		Location:	43.40213 6.70718
+
+(20) - km19.4 rouge, km26.3 noir, km33.3 doble noir
+	BRN1
+		Images:	5320
+		Time:	07.10.2023 11:08:29 until 07.10.2023 16:48:22
+		Duration:	05:39:53
+		Location:	43.36755 6.66036
+
+	BRN1LS1
+		Images:	5167
+		Time:	07.10.2023 10:55:56 until 07.10.2023 16:48:20
+		Duration:	05:52:24
+		Location:	43.36755 6.66036
+
+(21) - km21.0 rouge, km27.9 noir,km35.3 doble noir, km12.7 Gravel
+	MATR1
+		Images:	2540
+		Time:	07.10.2023 08:13:34 until 07.10.2023 13:40:09
+		Duration:	05:26:35
+		Location:	43.36763 6.67773
+
+	MATR1LS1
+		Images:	152
+		Time:	07.10.2023 08:26:48 until 07.10.2023 09:57:32
+		Duration:	01:30:44
+		Location:	43.36763 6.67773
+
+(22) - km21.1 rouge, km28 noir,km35.4 doble noir, km12.8 Gravel
+	MATR2
+		Images:	1867
+		Time:	07.10.2023 13:40:10 until 07.10.2023 17:04:58
+		Duration:	03:24:48
+		Location:	43.36782 6.67918
+
+	MATR2LS1
+		Images:	3297
+		Time:	07.10.2023 09:58:42 until 07.10.2023 17:05:01
+		Duration:	07:06:19
+		Location:	43.36782 6.67918
+
+(23) - km52.5 Gravel
+	MLU1
+		Images:	426
+		Time:	07.10.2023 10:57:11 until 07.10.2023 11:33:59
+		Duration:	00:36:48
+		Location:	43.38870 6.64188
+
+	MLU1LS1
+		Images:	431
+		Time:	07.10.2023 09:24:08 until 07.10.2023 11:15:06
+		Duration:	01:50:58
+		Location:	43.38870 6.64188
+
+	MLU1LS2
+		Images:	331
+		Time:	07.10.2023 09:24:30 until 07.10.2023 11:05:51
+		Duration:	01:41:21
+		Location:	43.38870 6.64188
+
+	MLU3
+		Images:	2211
+		Time:	07.10.2023 09:30:23 until 07.10.2023 10:55:20
+		Duration:	01:24:57
+		Location:	43.38870 6.64188
+
+(24) - km8.1 Roc d'Azur cadets
+	DDF1
+		Images:	600
+		Time:	07.10.2023 07:39:32 until 07.10.2023 09:33:14
+		Duration:	01:53:42
+		Location:	43.39652 6.70648
+
+(25) - Roc Kids, Famille
+	PKA2
+		Images:	1059
+		Time:	07.10.2023 15:33:06 until 07.10.2023 17:18:05
+		Duration:	01:44:59
+		Location:	43.41178 6.73602
+
+(26) - Roc Trail Start
+	MANR1
+		Images:	363
+		Time:	07.10.2023 09:59:47 until 07.10.2023 10:37:30
+		Duration:	00:37:43
+		Location:	43.44086 6.62569
+
+	MANR1LS1
+		Images:	254
+		Time:	07.10.2023 09:31:09 until 07.10.2023 11:09:19
+		Duration:	01:38:10
+		Location:	43.44086 6.62569
+
+	MANR1LS2
+		Images:	288
+		Time:	07.10.2023 09:44:00 until 07.10.2023 10:56:03
+		Duration:	01:12:03
+		Location:	43.44086 6.62569
+
+(27) - Start
+	STO1
+		Images:	60
+		Time:	07.10.2023 07:06:18 until 07.10.2023 07:45:15
+		Duration:	00:38:57
+		Location:	43.41608 6.73564
+

@@ -1,0 +1,134 @@
+EventId: 10400
+Spots: 19
+Total Images: 108135
+Time:	01.01.0001 23:00:00 to 24.09.2023 09:57:41
+Duration: 738785.10:57:41
+
+(1) - 0.0 km Finish Left Trigger
+	TRIGL1
+		Images:	23418
+		Time:	26.08.2023 09:03:46 until 26.08.2023 13:26:04
+		Duration:	04:22:18
+		Location:	NULL NULL
+
+(2) - 0.0 km Medals Claude
+	CBIRD2
+		Images:	7956
+		Time:	26.08.2023 07:48:21 until 26.08.2023 15:14:26
+		Duration:	07:26:05
+		Location:	NULL NULL
+
+(3) - 0.0 km MSC 1 Sean
+	SEAN1
+		Images:	1748
+		Time:	01.01.0001 23:00:00 until 26.08.2023 08:53:01
+		Duration:	738756.09:53:01
+		Location:	NULL NULL
+
+(4) - 0.0 km MSC 1 Trigger
+	TRIGA1
+		Images:	3061
+		Time:	25.08.2023 01:45:49 until 25.08.2023 02:47:54
+		Duration:	01:02:05
+		Location:	NULL NULL
+
+(5) - 0.0 km MSC 2 Albert O
+	ALBER1
+		Images:	4568
+		Time:	26.08.2023 07:29:18 until 26.08.2023 08:52:11
+		Duration:	01:22:53
+		Location:	NULL NULL
+
+(6) - 0.0 km MSC 2 Pol Santos
+	POLS1
+		Images:	1568
+		Time:	01.01.0001 23:00:00 until 26.08.2023 06:49:54
+		Duration:	738756.07:49:54
+		Location:	NULL NULL
+
+(7) - 0.0 km MSC 3 Jennifer Russ
+	JENNR1
+		Images:	8531
+		Time:	26.08.2023 07:17:59 until 26.08.2023 08:42:25
+		Duration:	01:24:26
+		Location:	NULL NULL
+
+(8) - 0.0 km MSC 6 Jennifer Russ
+	JENNR2
+		Images:	10806
+		Time:	26.08.2023 09:44:31 until 26.08.2023 13:33:25
+		Duration:	03:48:54
+		Location:	NULL NULL
+
+(9) - 0.0 km MSC 8 Allbert O
+	ALBER2
+		Images:	3004
+		Time:	26.08.2023 11:00:15 until 26.08.2023 15:19:34
+		Duration:	04:19:19
+		Location:	NULL NULL
+
+(10) - 0.0 km MSC 8 Pol Santos
+	POLS2
+		Images:	9246
+		Time:	26.08.2023 08:58:21 until 26.08.2023 13:16:04
+		Duration:	04:17:43
+		Location:	NULL NULL
+
+(11) - 0.0 km MSC1 Julio
+	JULIO1
+		Images:	2770
+		Time:	01.01.0001 23:00:00 until 26.08.2023 07:49:40
+		Duration:	738756.08:49:40
+		Location:	NULL NULL
+
+(12) - 0.0 km OFP Megyn
+	MEGYN2
+		Images:	1571
+		Time:	26.08.2023 09:40:50 until 26.08.2023 16:30:38
+		Duration:	06:49:48
+		Location:	NULL NULL
+
+(13) - 0.0 km Pre Fin Trigger
+	TRIGC1
+		Images:	7892
+		Time:	31.12.2006 19:06:52 until 26.08.2023 11:17:13
+		Duration:	6081.16:10:21
+		Location:	NULL NULL
+
+(14) - 0.0 km PreCND Claude
+	CBIRD1
+		Images:	2192
+		Time:	26.08.2023 05:11:24 until 26.08.2023 06:45:16
+		Duration:	01:33:52
+		Location:	NULL NULL
+
+(15) - 0.0 km PreCND Megyn
+	MEGYN1
+		Images:	809
+		Time:	26.08.2023 07:30:36 until 26.08.2023 08:49:33
+		Duration:	01:18:57
+		Location:	NULL NULL
+
+(16) - 0.0 km PreFin Julio
+	JULIO2
+		Images:	10722
+		Time:	26.08.2023 08:32:13 until 26.08.2023 15:12:42
+		Duration:	06:40:29
+		Location:	NULL NULL
+
+(17) - 0.0 km PreFIn Sean H
+	SEAN2
+		Images:	7866
+		Time:	26.08.2023 10:38:16 until 26.08.2023 15:29:17
+		Duration:	04:51:01
+		Location:	NULL NULL
+
+(18) - Impressions / Pano
+	PANO1
+(19) - none
+	HTEST1
+		Images:	407
+		Time:	24.09.2023 09:49:14 until 24.09.2023 09:57:41
+		Duration:	00:08:27
+		Location:	NULL NULL
+

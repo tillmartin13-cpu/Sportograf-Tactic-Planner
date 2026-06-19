@@ -1,0 +1,106 @@
+EventId: 14633
+Spots: 15
+Total Images: 43018
+Time:	01.01.0001 23:00:00 to 27.04.2025 16:39:13
+Duration: 739366.17:39:13
+
+(1) - BARBER WIRE
+	MDS1
+		Images:	6130
+		Time:	27.04.2025 09:37:15 until 27.04.2025 15:07:54
+		Duration:	05:30:39
+		Location:	46.35939 14.06973
+
+(2) - LOG CARRY
+	MDS1LS1
+		Images:	928
+		Time:	27.04.2025 09:22:33 until 27.04.2025 15:07:56
+		Duration:	05:45:23
+		Location:	46.35939 14.06973
+
+	RLO1
+		Images:	4062
+		Time:	27.04.2025 09:23:06 until 27.04.2025 15:50:54
+		Duration:	06:27:48
+		Location:	46.35929 14.06919
+
+(3) - SLACK LINE
+	GAZ1
+		Images:	3053
+		Time:	27.04.2025 09:48:53 until 27.04.2025 15:10:34
+		Duration:	05:21:41
+		Location:	46.36354 14.06520
+
+(4) - PENALITY LOOP SLAK LINE
+	GAZ1LS1
+		Images:	729
+		Time:	27.04.2025 09:40:56 until 27.04.2025 15:20:43
+		Duration:	05:39:47
+		Location:	46.36354 14.06520
+
+(5) - Impressions / Pano
+	GAZ1DRONE1
+		Images:	18
+		Time:	27.04.2025 15:23:08 until 27.04.2025 15:30:40
+		Duration:	00:07:32
+		Location:	46.36354 14.06520
+
+	DEC1DRONE1
+		Images:	19
+		Time:	26.04.2025 10:23:18 until 27.04.2025 08:59:30
+		Duration:	22:36:12
+		Location:	46.36799 14.08548
+
+	DARU1DRONE1
+		Images:	18
+		Time:	26.04.2025 07:51:47 until 26.04.2025 08:52:48
+		Duration:	01:01:01
+		Location:	46.36789 14.08598
+
+(6) - CHAIN  CARRY
+	LULE1
+		Images:	10295
+		Time:	01.01.0001 23:00:00 until 27.04.2025 13:20:19
+		Duration:	739366.14:20:19
+		Location:	46.37116 14.07753
+
+	LULE1LS1
+		Images:	1029
+		Time:	27.04.2025 09:55:55 until 27.04.2025 13:21:13
+		Duration:	03:25:18
+		Location:	46.37116 14.07753
+
+(7) - FRAME
+	DEC1
+		Images:	4001
+		Time:	27.04.2025 09:17:37 until 27.04.2025 16:27:21
+		Duration:	07:09:44
+		Location:	46.36799 14.08548
+
+(8) - SWIM OUT
+	MCO1
+		Images:	5094
+		Time:	27.04.2025 09:57:24 until 27.04.2025 16:31:34
+		Duration:	06:34:10
+		Location:	46.36758 14.08627
+
+(9) - Finish
+	MMO1LS1
+		Images:	1484
+		Time:	27.04.2025 09:11:58 until 27.04.2025 15:59:31
+		Duration:	06:47:33
+		Location:	46.36789 14.08598
+
+	MMO1
+		Images:	3509
+		Time:	27.04.2025 09:17:37 until 27.04.2025 16:34:38
+		Duration:	07:17:01
+		Location:	46.36789 14.08598
+
+(10) - Herotent
+	DARU1
+		Images:	2649
+		Time:	27.04.2025 09:28:38 until 27.04.2025 16:39:13
+		Duration:	07:10:35
+		Location:	46.36789 14.08598
+

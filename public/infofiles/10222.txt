@@ -1,0 +1,373 @@
+EventId: 10222
+Spots: 58
+Total Images: 385669
+Time:	01.01.0001 23:00:00 to 23.04.2023 16:27:19
+Duration: 738631.17:27:19
+
+(1) - 10.5 km + km 40.7
+	RAM1
+		Images:	8818
+		Time:	23.04.2023 09:04:59 until 23.04.2023 15:26:11
+		Duration:	06:21:12
+		Location:	48.20175 16.37406
+
+(2) - 10.8 km + km 41.2
+	DB1
+		Images:	3026
+		Time:	23.04.2023 08:08:17 until 23.04.2023 15:14:12
+		Duration:	07:05:55
+		Location:	48.20262 16.36804
+
+	MEHR1
+		Images:	7105
+		Time:	23.04.2023 08:31:19 until 23.04.2023 14:30:13
+		Duration:	05:58:54
+		Location:	48.20275 16.36801
+
+(3) - 11.7 km
+	WK1
+		Images:	4482
+		Time:	23.04.2023 09:34:46 until 23.04.2023 11:23:08
+		Duration:	01:48:22
+		Location:	48.19752 16.3596
+
+(4) - 16.0 km
+	BRPR1
+		Images:	1389
+		Time:	23.04.2023 09:47:06 until 23.04.2023 12:09:54
+		Duration:	02:22:48
+		Location:	48.18835 16.31434
+
+	JH1
+		Images:	5965
+		Time:	23.04.2023 09:06:32 until 23.04.2023 11:55:45
+		Duration:	02:49:13
+		Location:	48.18835 16.31434
+
+	JH1LS1
+		Images:	3167
+		Time:	23.04.2023 08:31:37 until 23.04.2023 11:58:52
+		Duration:	03:27:15
+		Location:	48.18835 16.31434
+
+	JH1LS2
+		Images:	4698
+		Time:	23.04.2023 09:03:50 until 23.04.2023 12:01:04
+		Duration:	02:57:14
+		Location:	48.18835 16.31434
+
+	RIP1
+		Images:	9963
+		Time:	22.04.2023 19:45:40 until 23.04.2023 12:12:18
+		Duration:	16:26:38
+		Location:	48.18835 16.31434
+
+(5) - 18.2 km
+	SKP1
+		Images:	1357
+		Time:	23.04.2023 08:27:32 until 23.04.2023 12:20:49
+		Duration:	03:53:17
+		Location:	48.19571 16.34028
+
+	VK1
+		Images:	5673
+		Time:	23.04.2023 09:14:06 until 23.04.2023 12:24:47
+		Duration:	03:10:41
+		Location:	48.19571 16.34028
+
+(6) - 20,4 km
+	MR1
+		Images:	7493
+		Time:	23.04.2023 08:14:16 until 23.04.2023 12:49:17
+		Duration:	04:35:01
+		Location:	48.20413 16.41322
+
+(7) - 20,8 km
+	MDS1
+		Images:	3815
+		Time:	23.04.2023 10:00:29 until 23.04.2023 12:28:03
+		Duration:	02:27:34
+		Location:	48.2085 16.3552
+
+(8) - 20.3 km km 42
+	COR1
+		Images:	13733
+		Time:	23.04.2023 10:05:56 until 23.04.2023 15:41:52
+		Duration:	05:35:56
+		Location:	48.20831 16.36011
+
+	COR1LS1
+		Images:	4357
+		Time:	23.04.2023 09:16:09 until 23.04.2023 14:46:47
+		Duration:	05:30:38
+		Location:	48.20831 16.36011
+
+	COR1LS2
+		Images:	4159
+		Time:	23.04.2023 11:06:43 until 23.04.2023 14:35:38
+		Duration:	03:28:55
+		Location:	48.20831 16.36011
+
+	KAV1
+		Images:	11733
+		Time:	23.04.2023 10:05:56 until 23.04.2023 15:33:50
+		Duration:	05:27:54
+		Location:	48.20831 16.36011
+
+	KAV1LS1
+		Images:	2651
+		Time:	23.04.2023 10:21:17 until 23.04.2023 12:36:59
+		Duration:	02:15:42
+		Location:	48.20831 16.36011
+
+(9) - 20.8 km
+	MIPA1
+		Images:	4822
+		Time:	23.04.2023 10:02:37 until 23.04.2023 12:29:41
+		Duration:	02:27:04
+		Location:	48.21096 16.36040
+
+	MIPA2
+		Images:	1133
+		Time:	23.04.2023 13:27:04 until 23.04.2023 15:44:47
+		Duration:	02:17:43
+		Location:	48.21096 16.36040
+
+(10) - 26.0 km Schwedenbrücke
+	CHR1
+		Images:	8558
+		Time:	23.04.2023 09:39:44 until 23.04.2023 13:26:03
+		Duration:	03:46:19
+		Location:	48.21253 16.37888
+
+	CHR1LS1
+		Images:	1731
+		Time:	23.04.2023 08:40:08 until 23.04.2023 13:06:06
+		Duration:	04:25:58
+		Location:	48.21253 16.37888
+
+	CHR1LS2
+		Images:	6063
+		Time:	23.04.2023 09:01:29 until 23.04.2023 13:08:55
+		Duration:	04:07:26
+		Location:	48.21253 16.37888
+
+	MAGA1
+		Images:	7892
+		Time:	23.04.2023 10:16:58 until 23.04.2023 14:07:49
+		Duration:	03:50:51
+		Location:	48.21253 16.37888
+
+	MAGA1LS1
+		Images:	6234
+		Time:	23.04.2023 10:02:57 until 23.04.2023 13:09:33
+		Duration:	03:06:36
+		Location:	48.21253 16.37888
+
+(11) - 33.0 km Hauptallee
+	EP1
+		Images:	9909
+		Time:	22.04.2023 21:09:00 until 23.04.2023 14:19:34
+		Duration:	17:10:34
+		Location:	48.19334 16.43757
+
+	EP1LS1
+		Images:	5076
+		Time:	23.04.2023 08:35:11 until 23.04.2023 14:37:23
+		Duration:	06:02:12
+		Location:	48.19289 16.43861
+
+	EP1LS2
+		Images:	4373
+		Time:	23.04.2023 10:09:11 until 23.04.2023 13:25:47
+		Duration:	03:16:36
+		Location:	48.19334 16.43757
+
+	LULE1
+		Images:	14763
+		Time:	23.04.2023 09:23:12 until 23.04.2023 14:09:05
+		Duration:	04:45:53
+		Location:	48.19334 16.43757
+
+	WB1
+		Images:	1615
+		Time:	23.04.2023 10:35:25 until 23.04.2023 14:06:42
+		Duration:	03:31:17
+		Location:	48.19334 16.43757
+
+(12) - 36.0 km Schüttelstraße Allee
+	EH2
+		Images:	7536
+		Time:	23.04.2023 10:51:07 until 23.04.2023 14:44:59
+		Duration:	03:53:52
+		Location:	48.20138 16.40791
+
+	EH2LS1
+		Images:	14982
+		Time:	23.04.2023 11:07:00 until 23.04.2023 14:49:34
+		Duration:	03:42:34
+		Location:	48.20138 16.40791
+
+	NAT2
+		Images:	8532
+		Time:	23.04.2023 10:46:51 until 23.04.2023 14:43:48
+		Duration:	03:56:57
+		Location:	48.20138 16.40791
+
+(13) - 39.9 km Café Prückel
+	LT1
+		Images:	6302
+		Time:	23.04.2023 09:25:09 until 23.04.2023 15:17:53
+		Duration:	05:52:44
+		Location:	48.20727 16.38003
+
+	RSA1
+		Images:	7889
+		Time:	23.04.2023 09:16:52 until 23.04.2023 15:18:36
+		Duration:	06:01:44
+		Location:	48.20696 16.38047
+
+(14) - 41,5 km
+	BRN1
+		Images:	10027
+		Time:	23.04.2023 11:01:52 until 23.04.2023 15:35:44
+		Duration:	04:33:52
+		Location:	48.20536 16.36204
+
+(15) - 41.5 km
+	MPA1
+		Images:	5903
+		Time:	23.04.2023 08:23:20 until 23.04.2023 15:29:01
+		Duration:	07:05:41
+		Location:	48.20536 16.36204
+
+(16) - 6.0 km Skyline
+	EH1
+		Images:	11039
+		Time:	22.04.2023 18:26:36 until 23.04.2023 10:48:37
+		Duration:	16:22:01
+		Location:	48.20037 16.40923
+
+	EH1LS1
+		Images:	11976
+		Time:	23.04.2023 09:08:49 until 23.04.2023 10:57:14
+		Duration:	01:48:25
+		Location:	48.20037 16.40923
+
+	NAT1
+		Images:	7118
+		Time:	23.04.2023 09:18:13 until 23.04.2023 10:28:38
+		Duration:	01:10:25
+		Location:	48.20037 16.40923
+
+(17) - Finish
+	ADB1
+		Images:	1466
+		Time:	23.04.2023 09:24:11 until 23.04.2023 15:42:16
+		Duration:	06:18:05
+		Location:	48.21116 16.36077
+
+	BRP1
+		Images:	8096
+		Time:	23.04.2023 10:06:30 until 23.04.2023 15:40:30
+		Duration:	05:34:00
+		Location:	48.21027 16.36061
+
+	BRP1LS1
+		Images:	3395
+		Time:	23.04.2023 10:06:16 until 23.04.2023 13:14:33
+		Duration:	03:08:17
+		Location:	48.21027 16.36061
+
+	CHM1
+		Images:	29228
+		Time:	23.04.2023 09:21:56 until 23.04.2023 15:41:49
+		Duration:	06:19:53
+		Location:	48.21027 16.36061
+
+	CHM1LS1
+		Images:	6845
+		Time:	23.04.2023 09:45:30 until 23.04.2023 15:32:29
+		Duration:	05:46:59
+		Location:	48.21027 16.36061
+
+	CHM1LS2
+		Images:	5709
+		Time:	23.04.2023 08:33:15 until 23.04.2023 14:46:41
+		Duration:	06:13:26
+		Location:	48.21027 16.36061
+
+	CHM1LS3
+		Images:	5727
+		Time:	23.04.2023 08:32:45 until 23.04.2023 14:36:01
+		Duration:	06:03:16
+		Location:	48.21027 16.36061
+
+	CHM1LS4
+		Images:	4420
+		Time:	23.04.2023 08:26:17 until 23.04.2023 13:28:51
+		Duration:	05:02:34
+		Location:	48.21027 16.36061
+
+	ISM2
+		Images:	3447
+		Time:	22.04.2023 19:25:45 until 23.04.2023 15:42:04
+		Duration:	20:16:19
+		Location:	48.21027 16.36061
+
+	KYR1
+		Images:	17805
+		Time:	23.04.2023 08:59:09 until 23.04.2023 16:27:19
+		Duration:	07:28:10
+		Location:	48.20989 16.36061
+
+	MDS2
+		Images:	1673
+		Time:	23.04.2023 08:49:16 until 23.04.2023 15:41:51
+		Duration:	06:52:35
+		Location:	48.21116 16.36077
+
+	NAG2
+		Images:	5565
+		Time:	23.04.2023 09:13:36 until 23.04.2023 13:59:18
+		Duration:	04:45:42
+		Location:	48.21116 16.36077
+
+	PES1
+		Images:	5126
+		Time:	23.04.2023 08:21:04 until 23.04.2023 14:52:31
+		Duration:	06:31:27
+		Location:	48.21027 16.36061
+
+	YG1
+		Images:	8136
+		Time:	23.04.2023 10:06:05 until 23.04.2023 15:40:29
+		Duration:	05:34:24
+		Location:	48.20989 16.36061
+
+	YG1LS1
+		Images:	2433
+		Time:	23.04.2023 09:28:34 until 23.04.2023 13:10:58
+		Duration:	03:42:24
+		Location:	48.20989 16.36061
+
+(18) - Impressions / Pano
+	MAX1
+		Images:	32
+		Time:	01.01.0001 23:00:00 until 23.04.2023 13:44:36
+		Duration:	738631.14:44:36
+		Location:	48.23018 16.41322
+
+(19) - Start
+	ISM1
+		Images:	2405
+		Time:	23.04.2023 08:34:12 until 23.04.2023 11:07:37
+		Duration:	02:33:25
+		Location:	48.23018 16.41322
+
+	NAG1
+		Images:	7104
+		Time:	23.04.2023 08:17:57 until 23.04.2023 09:37:03
+		Duration:	01:19:06
+		Location:	48.23018 16.41322
+

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "47.54210" lon = "14.88337"><name>DRU1</name><desc>Start
+Images:210
+First:26.07.2025 07:56:28
+Last:26.07.2025 10:27:20
+Duration:02:30:52
+</desc></wpt>
+<wpt lat = "47.54210" lon = "14.88337"><name>ISM1</name><desc>Start
+Images:457
+First:25.07.2025 21:13:17
+Last:26.07.2025 09:46:04
+Duration:12:32:47
+</desc></wpt>
+<wpt lat = "47.54249" lon = "14.88516"><name>KYR1</name><desc>Start
+Images:135
+First:26.07.2025 09:32:00
+Last:26.07.2025 09:45:19
+Duration:00:13:19
+</desc></wpt>
+<wpt lat = "47.52310" lon = "14.91439"><name>DRU2</name><desc>13.0 km
+Images:1014
+First:26.07.2025 10:27:46
+Last:26.07.2025 12:40:31
+Duration:02:12:45
+</desc></wpt>
+<wpt lat = "47.52215" lon = "14.91562"><name>ISM2</name><desc>12.5 km
+Images:4449
+First:26.07.2025 10:26:18
+Last:26.07.2025 12:22:57
+Duration:01:56:39
+</desc></wpt>
+<wpt lat = "47.52607" lon = "14.89178"><name>KYR2</name><desc>3.2 km
+Images:616
+First:26.07.2025 10:09:18
+Last:26.07.2025 10:23:19
+Duration:00:14:01
+</desc></wpt>
+<wpt lat = "47.52160" lon = "14.90491"><name>KYR3</name><desc>7.0 km
+Images:1259
+First:26.07.2025 08:38:40
+Last:26.07.2025 11:12:29
+Duration:02:33:49
+</desc></wpt>
+<wpt lat = "47.52497" lon = "14.91163"><name>NAG1</name><desc>Finish
+Images:4130
+First:26.07.2025 09:51:25
+Last:26.07.2025 12:36:00
+Duration:02:44:35
+</desc></wpt>
+</gpx>

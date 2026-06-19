@@ -1,0 +1,261 @@
+EventId: 15954
+Spots: 47
+Total Images: 197582
+Time:	26.03.2025 06:24:30 to 26.04.2025 13:57:55
+Duration: 31.07:33:25
+
+(1) - Start
+	PS1
+		Images:	871
+		Time:	26.03.2025 06:24:30 until 26.03.2025 12:54:53
+		Duration:	06:30:23
+		Location:	45.51300 -73.53094
+
+(2) - 1.0 km Place des nations
+	SB1
+		Images:	762
+		Time:	26.04.2025 07:59:58 until 26.04.2025 08:31:38
+		Duration:	00:31:40
+		Location:	45.50649 -73.53373
+
+	SB1LS1
+		Images:	1221
+		Time:	26.04.2025 08:03:30 until 26.04.2025 08:24:14
+		Duration:	00:20:44
+		Location:	45.50649 -73.53373
+
+	JS1
+		Images:	1229
+		Time:	26.04.2025 07:59:16 until 26.04.2025 08:22:22
+		Duration:	00:23:06
+		Location:	45.50649 -73.53373
+
+	NT1
+		Images:	1152
+		Time:	26.04.2025 08:03:01 until 26.04.2025 08:22:25
+		Duration:	00:19:24
+		Location:	45.50649 -73.53373
+
+(3) - 1.0 km Place des nations 1
+	IT1
+		Images:	745
+		Time:	26.04.2025 07:55:22 until 26.04.2025 08:19:35
+		Duration:	00:24:13
+		Location:	45.50649 -73.53373
+
+(4) - 4.5 km Passerelle du Cosmos
+	EJ1
+		Images:	5979
+		Time:	26.04.2025 08:00:43 until 26.04.2025 12:39:19
+		Duration:	04:38:36
+		Location:	45.51300 -73.53037
+
+	EJ1LS1
+		Images:	2083
+		Time:	26.04.2025 08:12:49 until 26.04.2025 08:48:27
+		Duration:	00:35:38
+		Location:	45.51300 -73.53037
+
+	FB1
+		Images:	1262
+		Time:	26.04.2025 07:24:06 until 26.04.2025 09:05:36
+		Duration:	01:41:30
+		Location:	45.51300 -73.53037
+
+	GN1
+		Images:	3645
+		Time:	26.04.2025 08:00:36 until 26.04.2025 13:08:29
+		Duration:	05:07:53
+		Location:	45.51300 -73.53037
+
+	KT1
+		Images:	774
+		Time:	26.04.2025 07:39:37 until 26.04.2025 08:45:48
+		Duration:	01:06:11
+		Location:	45.51300 -73.53037
+
+(5) - 5.5 km Olympic Basin
+	JSP1
+		Images:	916
+		Time:	26.04.2025 08:18:33 until 26.04.2025 08:55:34
+		Duration:	00:37:01
+		Location:	45.51690 -73.52559
+
+	AO1
+		Images:	2948
+		Time:	26.04.2025 07:17:21 until 26.04.2025 08:00:54
+		Duration:	00:43:33
+		Location:	45.51690 -73.52559
+
+	JSP1LS1
+		Images:	124
+		Time:	26.04.2025 08:17:13 until 26.04.2025 09:00:41
+		Duration:	00:43:28
+		Location:	45.51690 -73.52559
+
+(6) - 8.0 km Circuit Gilles Villeneuve
+	BL1LS1
+		Images:	7773
+		Time:	26.04.2025 08:29:06 until 26.04.2025 12:48:40
+		Duration:	04:19:34
+		Location:	45.49740 -73.52405
+
+	AC1
+		Images:	1365
+		Time:	26.04.2025 08:34:37 until 26.04.2025 08:54:57
+		Duration:	00:20:20
+		Location:	45.49740 -73.52405
+
+(7) - 12.0 km Circuit Gilles Villeneuve
+	BL2
+		Images:	7712
+		Time:	26.04.2025 08:43:29 until 26.04.2025 13:01:09
+		Duration:	04:17:40
+		Location:	45.49740 -73.52405
+
+	AC2
+		Images:	6990
+		Time:	26.04.2025 08:55:00 until 26.04.2025 12:57:24
+		Duration:	04:02:24
+		Location:	45.49740 -73.52405
+
+(8) - 10.5 km Circuit Gilles Villeneuve
+	SS1
+		Images:	6218
+		Time:	26.04.2025 08:26:58 until 26.04.2025 13:07:56
+		Duration:	04:40:58
+		Location:	45.50871 -73.52874
+
+(9) - 16.0 km Pavillon 76
+	JSP2
+		Images:	2065
+		Time:	26.04.2025 09:30:09 until 26.04.2025 12:27:52
+		Duration:	02:57:43
+		Location:	45.51546 -73.52670
+
+	JSP2LS1
+	AO2
+(10) - 20.0 km Passerelle du Cosmos
+	KT2
+		Images:	1997
+		Time:	26.04.2025 08:55:08 until 26.04.2025 12:45:09
+		Duration:	03:50:01
+		Location:	45.51316 -73.53075
+
+	EJ2
+		Images:	7975
+		Time:	26.04.2025 09:05:50 until 26.04.2025 12:10:00
+		Duration:	03:04:10
+		Location:	45.51316 -73.53075
+
+	EJ3
+	EJ2LS1
+		Images:	11861
+		Time:	26.04.2025 08:59:09 until 26.04.2025 12:44:24
+		Duration:	03:45:15
+		Location:	45.51316 -73.53075
+
+	FB2
+		Images:	3236
+		Time:	26.04.2025 09:21:31 until 26.04.2025 12:44:09
+		Duration:	03:22:38
+		Location:	45.51316 -73.53075
+
+	GN2
+		Images:	13940
+		Time:	26.04.2025 08:57:34 until 26.04.2025 12:47:34
+		Duration:	03:50:00
+		Location:	45.51316 -73.53075
+
+(11) - 21.0 km l'arrivée
+	SB2LS1
+		Images:	10662
+		Time:	26.04.2025 09:22:00 until 26.04.2025 13:03:21
+		Duration:	03:41:21
+		Location:	45.51296 -73.53109
+
+	SB2
+		Images:	6544
+		Time:	26.04.2025 09:24:28 until 26.04.2025 13:03:11
+		Duration:	03:38:43
+		Location:	45.51296 -73.53109
+
+	JS2
+		Images:	6334
+		Time:	26.04.2025 09:25:19 until 26.04.2025 13:22:08
+		Duration:	03:56:49
+		Location:	45.51296 -73.53109
+
+	IT2
+		Images:	4459
+		Time:	26.04.2025 09:21:52 until 26.04.2025 13:22:02
+		Duration:	04:00:10
+		Location:	45.51296 -73.53109
+
+(12) - Finish
+	PS2
+		Images:	26400
+		Time:	26.03.2025 07:51:35 until 26.03.2025 12:54:46
+		Duration:	05:03:11
+		Location:	45.51294 -73.53161
+
+	PS2LS1
+		Images:	19114
+		Time:	26.04.2025 08:38:43 until 26.04.2025 13:57:55
+		Duration:	05:19:12
+		Location:	45.51294 -73.53161
+
+	NT2
+		Images:	2202
+		Time:	26.04.2025 09:23:06 until 26.04.2025 11:03:26
+		Duration:	01:40:20
+		Location:	45.51294 -73.53161
+
+	PK1
+		Images:	6986
+		Time:	26.04.2025 09:18:47 until 26.04.2025 13:35:36
+		Duration:	04:16:49
+		Location:	45.51233 -73.53268
+
+	PK1LS1
+		Images:	16366
+		Time:	26.04.2025 07:37:08 until 26.04.2025 13:38:57
+		Duration:	06:01:49
+		Location:	45.51294 -73.53161
+
+	OS1
+		Images:	831
+		Time:	26.04.2025 08:26:33 until 26.04.2025 13:40:28
+		Duration:	05:13:55
+		Location:	45.51233 -73.53268
+
+	ZB1
+	TP1
+		Images:	1493
+		Time:	26.04.2025 07:59:53 until 26.04.2025 13:47:02
+		Duration:	05:47:09
+		Location:	45.51233 -73.53268
+
+	ES1
+		Images:	648
+		Time:	26.04.2025 06:55:23 until 26.04.2025 13:40:01
+		Duration:	06:44:38
+		Location:	45.51233 -73.53268
+
+	ST1
+	AD1
+		Images:	573
+		Time:	26.04.2025 09:15:07 until 26.04.2025 13:38:41
+		Duration:	04:23:34
+		Location:	45.51233 -73.53268
+
+	DP1
+	EE1
+	AV1
+(13) - Impressions / Pano
+	PK2
+		Images:	127
+		Time:	26.04.2025 07:59:04 until 26.04.2025 09:17:24
+		Duration:	01:18:20
+		Location:	45.51233 -73.53268
+

@@ -1,0 +1,15 @@
+EventId: 21283
+Spots: 2
+Total Images: 839
+Time:	21.12.2025 12:37:51 to 21.12.2025 13:14:15
+Duration: 00:36:24
+
+(1) - Impressions / Pano
+	PANO1
+(2) - none
+	ZZZ1
+		Images:	839
+		Time:	21.12.2025 12:37:51 until 21.12.2025 13:14:15
+		Duration:	00:36:24
+		Location:	NULL NULL
+

@@ -1,0 +1,364 @@
+EventId: 12028
+Spots: 59
+Total Images: 387812
+Time:	26.04.2024 22:19:10 to 28.04.2024 16:12:38
+Duration: 1.17:53:28
+
+(1) - 0,5 km Die Zwei Türme
+	AABAE1
+		Images:	1722
+		Time:	28.04.2024 08:24:32 until 28.04.2024 09:52:01
+		Duration:	01:27:29
+		Location:	53.55667 9.97528
+
+	AOP1
+		Images:	1448
+		Time:	28.04.2024 08:20:10 until 28.04.2024 09:51:45
+		Duration:	01:31:35
+		Location:	53.58315 9.98521
+
+(2) - 1.6 km Reeperbahn Regenbogen
+	BCRIC1
+		Images:	2645
+		Time:	28.04.2024 08:27:42 until 28.04.2024 10:01:29
+		Duration:	01:33:47
+		Location:	NULL NULL
+
+	BCRIC1LS1
+(3) - 10.6 km St. Pauli Fischmarkt
+	BRYS1
+		Images:	7010
+		Time:	28.04.2024 07:46:47 until 28.04.2024 11:06:51
+		Duration:	03:20:04
+		Location:	NULL NULL
+
+	BRYS1LS1
+		Images:	4520
+		Time:	28.04.2024 08:06:36 until 28.04.2024 11:09:52
+		Duration:	03:03:16
+		Location:	NULL NULL
+
+(4) - 11,8 km Überseebrücke
+	AJKOR1
+		Images:	8766
+		Time:	27.04.2024 22:25:14 until 28.04.2024 12:29:51
+		Duration:	14:04:37
+		Location:	53.55620 9.98008
+
+(5) - 11.5 km Landungsbrückenturm
+	BCM1
+		Images:	6195
+		Time:	28.04.2024 07:45:41 until 28.04.2024 11:26:36
+		Duration:	03:40:55
+		Location:	NULL NULL
+
+	BCM1LS1
+		Images:	1970
+		Time:	28.04.2024 08:11:55 until 28.04.2024 11:17:22
+		Duration:	03:05:27
+		Location:	NULL NULL
+
+	BLEM1
+		Images:	8703
+		Time:	28.04.2024 07:45:46 until 28.04.2024 13:34:20
+		Duration:	05:48:34
+		Location:	NULL NULL
+
+	BLEM1LS1
+		Images:	2371
+		Time:	28.04.2024 08:38:13 until 28.04.2024 11:14:18
+		Duration:	02:36:05
+		Location:	NULL NULL
+
+(6) - 11.9 km Brooklyn
+	BMELS1
+		Images:	11693
+		Time:	28.04.2024 08:02:28 until 28.04.2024 11:51:03
+		Duration:	03:48:35
+		Location:	NULL NULL
+
+	BMNO1
+		Images:	14770
+		Time:	28.04.2024 06:46:22 until 28.04.2024 11:32:27
+		Duration:	04:46:05
+		Location:	NULL NULL
+
+(7) - 13.2 km Elbphilharmonie
+	BMFR1
+		Images:	7236
+		Time:	28.04.2024 08:16:12 until 28.04.2024 13:12:26
+		Duration:	04:56:14
+		Location:	NULL NULL
+
+(8) - 13.3 km Kornhausbrücke
+	BJONL1
+		Images:	7834
+		Time:	28.04.2024 07:52:37 until 28.04.2024 11:43:44
+		Duration:	03:51:07
+		Location:	NULL NULL
+
+(9) - 14,4 km Wallringtunnel
+	ACRI1
+		Images:	15425
+		Time:	28.04.2024 08:04:31 until 28.04.2024 12:12:03
+		Duration:	04:07:32
+		Location:	53.55440 10.00309
+
+	ACRI1LS1
+		Images:	3530
+		Time:	28.04.2024 08:51:54 until 28.04.2024 11:45:12
+		Duration:	02:53:18
+		Location:	53.55440 10.00309
+
+(10) - 15.9 km Alsterhaus
+	BDDT1
+		Images:	26222
+		Time:	28.04.2024 08:32:06 until 28.04.2024 11:55:15
+		Duration:	03:23:09
+		Location:	NULL NULL
+
+	BEPF1
+		Images:	11449
+		Time:	28.04.2024 08:29:03 until 28.04.2024 12:49:33
+		Duration:	04:20:30
+		Location:	NULL NULL
+
+(11) - 16,2 km Neuer Jungfernstieg
+	AFG1
+		Images:	12625
+		Time:	28.04.2024 08:57:08 until 28.04.2024 12:21:37
+		Duration:	03:24:29
+		Location:	53.55610 9.99220
+
+(12) - 16.2 km Neuer Jungfernstieg
+	BKHR1
+		Images:	13025
+		Time:	28.04.2024 08:56:50 until 28.04.2024 12:08:07
+		Duration:	03:11:17
+		Location:	NULL NULL
+
+(13) - 19,4 km Schöne Aussicht
+	ANF1
+		Images:	8597
+		Time:	28.04.2024 08:23:17 until 28.04.2024 11:58:32
+		Duration:	03:35:15
+		Location:	53.57209 10.00897
+
+(14) - 19.4 km Schöne Aussicht
+	BNF1
+(15) - 2.1 km Pink Palace
+	BVG1
+		Images:	5320
+		Time:	28.04.2024 07:32:54 until 28.04.2024 10:06:20
+		Duration:	02:33:26
+		Location:	NULL NULL
+
+(16) - 20,2 km Langer Zug Brücke
+	AMEM1
+		Images:	10017
+		Time:	28.04.2024 09:07:31 until 28.04.2024 11:50:44
+		Duration:	02:43:13
+		Location:	53.57748 10.00993
+
+(17) - 28,8 km An der Alster
+	AKST1
+		Images:	5747
+		Time:	28.04.2024 10:39:55 until 28.04.2024 13:59:11
+		Duration:	03:19:16
+		Location:	53.61388 10.01613
+
+	ASZ1
+		Images:	16530
+		Time:	28.04.2024 11:21:36 until 28.04.2024 13:59:15
+		Duration:	02:37:39
+		Location:	53.61388 10.01613
+
+(18) - 3,6 km Rathaus Altona
+	AGL1
+		Images:	9854
+		Time:	28.04.2024 07:56:44 until 28.04.2024 10:21:23
+		Duration:	02:24:39
+		Location:	53.54771 9.93507
+
+(19) - 37,2 km Eppendorfer Baum
+	AABAE2
+		Images:	4923
+		Time:	28.04.2024 11:08:04 until 28.04.2024 15:09:14
+		Duration:	04:01:10
+		Location:	53.55620 9.98008
+
+	AOP2
+		Images:	4812
+		Time:	28.04.2024 11:19:42 until 28.04.2024 15:04:56
+		Duration:	03:45:14
+		Location:	53.58315 9.98521
+
+(20) - 39.3 km Harvestehuder Weg
+	BCRIC2
+		Images:	10631
+		Time:	28.04.2024 11:16:25 until 28.04.2024 15:14:01
+		Duration:	03:57:36
+		Location:	NULL NULL
+
+(21) - 39.7 km Ecke Harvestehuder Weg
+	BVG2
+		Images:	8940
+		Time:	28.04.2024 11:05:46 until 28.04.2024 15:31:11
+		Duration:	04:25:25
+		Location:	NULL NULL
+
+(22) - 40,9 km Dammtor
+	ANF2
+		Images:	461
+		Time:	28.04.2024 13:51:07 until 28.04.2024 15:18:25
+		Duration:	01:27:18
+		Location:	53.55924 9.98989
+
+(23) - 40.9 km Dammtor
+	BJONL2
+		Images:	7947
+		Time:	28.04.2024 12:09:24 until 28.04.2024 15:43:16
+		Duration:	03:33:52
+		Location:	NULL NULL
+
+	BKHR2
+		Images:	8560
+		Time:	28.04.2024 12:37:40 until 28.04.2024 15:44:45
+		Duration:	03:07:05
+		Location:	NULL NULL
+
+	BNF2
+(24) - 41,6 km Gorch Fock Wall
+	AFG2
+		Images:	9710
+		Time:	28.04.2024 12:22:00 until 28.04.2024 15:50:38
+		Duration:	03:28:38
+		Location:	53.55735 9.98247
+
+	AGL2
+		Images:	13334
+		Time:	28.04.2024 10:55:54 until 28.04.2024 15:51:04
+		Duration:	04:55:10
+		Location:	53.55711 9.98178
+
+(25) - 41,8 km Johannes Brahms Platz
+	AJKOR2
+		Images:	7516
+		Time:	28.04.2024 12:29:52 until 28.04.2024 15:51:05
+		Duration:	03:21:13
+		Location:	53.55620 9.98008
+
+(26) - 41.8 km Johannes-Brahms-Platz
+	BDDT2
+		Images:	7739
+		Time:	28.04.2024 12:26:04 until 28.04.2024 15:53:06
+		Duration:	03:27:02
+		Location:	NULL NULL
+
+	BEPF2
+		Images:	3944
+		Time:	28.04.2024 12:49:33 until 28.04.2024 15:52:54
+		Duration:	03:03:21
+		Location:	NULL NULL
+
+(27) - Finish
+	AHT2
+		Images:	8170
+		Time:	28.04.2024 10:21:32 until 28.04.2024 15:33:00
+		Duration:	05:11:28
+		Location:	53.55987 9.97532
+
+	AHT2LS1
+		Images:	10145
+		Time:	26.04.2024 22:19:10 until 28.04.2024 15:37:17
+		Duration:	1.17:18:07
+		Location:	53.55987 9.97532
+
+	AMARM2
+		Images:	9594
+		Time:	28.04.2024 10:45:23 until 28.04.2024 15:58:55
+		Duration:	05:13:32
+		Location:	53.55987 9.97532
+
+	AMEM2
+		Images:	1588
+		Time:	28.04.2024 11:50:46 until 28.04.2024 15:57:57
+		Duration:	04:07:11
+		Location:	53.55987 9.97532
+
+	ATHM2
+		Images:	12181
+		Time:	28.04.2024 11:56:43 until 28.04.2024 15:58:12
+		Duration:	04:01:29
+		Location:	53.55987 9.97532
+
+	BCM2
+		Images:	1676
+		Time:	28.04.2024 13:15:40 until 28.04.2024 15:44:18
+		Duration:	02:28:38
+		Location:	NULL NULL
+
+	BMELS2
+	BMNO2
+		Images:	3576
+		Time:	28.04.2024 12:35:09 until 28.04.2024 15:58:24
+		Duration:	03:23:15
+		Location:	NULL NULL
+
+	BRYS2
+		Images:	3666
+		Time:	28.04.2024 11:08:07 until 28.04.2024 16:12:38
+		Duration:	05:04:31
+		Location:	NULL NULL
+
+	BRYS2LS1
+		Images:	3720
+		Time:	28.04.2024 12:09:11 until 28.04.2024 14:48:30
+		Duration:	02:39:19
+		Location:	NULL NULL
+
+	MELS1
+		Images:	4910
+		Time:	28.04.2024 12:48:05 until 28.04.2024 15:56:55
+		Duration:	03:08:50
+		Location:	53.55987 9.97532
+
+(28) - Impressions / Pano
+	ABK1DRONE1
+		Images:	49
+		Time:	28.04.2024 09:36:27 until 28.04.2024 12:24:36
+		Duration:	02:48:09
+		Location:	53.55987 9.97532
+
+	ACRI1IMP1
+		Images:	86
+		Time:	28.04.2024 12:20:39 until 28.04.2024 14:00:11
+		Duration:	01:39:32
+		Location:	53.55440 10.00309
+
+	PANO1
+(29) - Start
+	ABK1
+		Images:	876
+		Time:	28.04.2024 11:29:21 until 28.04.2024 14:53:04
+		Duration:	03:23:43
+		Location:	53.55987 9.97532
+
+	AHT1
+		Images:	3143
+		Time:	28.04.2024 08:20:38 until 28.04.2024 09:50:49
+		Duration:	01:30:11
+		Location:	53.55987 9.97532
+
+	AMARM1
+		Images:	5617
+		Time:	28.04.2024 07:39:52 until 28.04.2024 10:45:22
+		Duration:	03:05:30
+		Location:	53.55987 9.97532
+
+	ATHM1
+		Images:	5074
+		Time:	28.04.2024 08:00:39 until 28.04.2024 11:37:18
+		Duration:	03:36:39
+		Location:	53.55987 9.97532
+

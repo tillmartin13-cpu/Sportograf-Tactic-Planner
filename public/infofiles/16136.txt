@@ -1,0 +1,78 @@
+EventId: 16136
+Spots: 11
+Total Images: 29753
+Time:	08.08.2025 19:37:25 to 10.08.2025 13:09:49
+Duration: 1.17:32:24
+
+(1) - Obstacle 2 500M Row
+	MEC1
+		Images:	4805
+		Time:	09.08.2025 07:06:23 until 09.08.2025 17:22:03
+		Duration:	10:15:40
+		Location:	40.10562 -76.41897
+
+	VICY2
+		Images:	945
+		Time:	09.08.2025 10:23:25 until 09.08.2025 13:09:34
+		Duration:	02:46:09
+		Location:	40.10562 -76.41897
+
+(2) - Obstacle 5 500M Skierg
+	JSAN1
+		Images:	9196
+		Time:	09.08.2025 07:15:30 until 09.08.2025 17:31:56
+		Duration:	10:16:26
+		Location:	40.10562 -76.41897
+
+	VICY3
+		Images:	1170
+		Time:	09.08.2025 10:51:33 until 09.08.2025 11:38:26
+		Duration:	00:46:53
+		Location:	40.10562 -76.41897
+
+(3) - Obstacle 6 Farmer's Carry
+	WMY1
+		Images:	3394
+		Time:	08.08.2025 19:37:25 until 10.08.2025 07:36:53
+		Duration:	1.11:59:28
+		Location:	40.10562 -76.41897
+
+	VICY4
+		Images:	141
+		Time:	09.08.2025 11:41:09 until 09.08.2025 11:54:46
+		Duration:	00:13:37
+		Location:	40.10562 -76.41897
+
+(4) - Obstacle 7 25Cal Air Bike
+	RU1
+		Images:	2364
+		Time:	09.08.2025 07:10:14 until 10.08.2025 07:25:17
+		Duration:	1.00:15:03
+		Location:	40.10562 -76.41897
+
+	VICY5
+		Images:	1287
+		Time:	09.08.2025 11:56:52 until 09.08.2025 14:31:03
+		Duration:	02:34:11
+		Location:	40.10562 -76.41897
+
+(5) - Obstacle 9 Tank Push/Pull
+	JAYK1
+		Images:	3348
+		Time:	09.08.2025 07:05:05 until 09.08.2025 17:45:25
+		Duration:	10:40:20
+		Location:	40.10562 -76.41897
+
+	VICY6
+		Images:	770
+		Time:	09.08.2025 12:16:29 until 09.08.2025 12:31:37
+		Duration:	00:15:08
+		Location:	40.10562 -76.41897
+
+(6) - Venue
+	VICY1
+		Images:	2333
+		Time:	09.08.2025 07:49:56 until 10.08.2025 13:09:49
+		Duration:	1.05:19:53
+		Location:	40.10562 -76.41897
+

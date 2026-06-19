@@ -1,0 +1,259 @@
+EventId: 11619
+Spots: 40
+Total Images: 275434
+Time:	02.11.2024 05:38:48 to 03.11.2024 12:01:19
+Duration: 1.06:22:31
+
+(1) - 11.5 km
+	AGCO1
+		Images:	9824
+		Time:	03.11.2024 03:24:17 until 03.11.2024 09:07:10
+		Duration:	05:42:53
+		Location:	-36.82846 174.74722
+
+	AGCO1LS1
+		Images:	57
+		Time:	03.11.2024 04:02:24 until 03.11.2024 07:59:26
+		Duration:	03:57:02
+		Location:	-36.82846 174.74722
+
+(2) - 12.0 km
+	BIGM1
+		Images:	9159
+		Time:	03.11.2024 05:14:03 until 03.11.2024 09:09:08
+		Duration:	03:55:05
+		Location:	-36.82982 174.74621
+
+	BIGM1LS1
+		Images:	2662
+		Time:	03.11.2024 05:54:45 until 03.11.2024 09:10:13
+		Duration:	03:15:28
+		Location:	-36.82982 174.74621
+
+	BIGM1LS2
+		Images:	4453
+		Time:	03.11.2024 06:00:03 until 03.11.2024 09:10:44
+		Duration:	03:10:41
+		Location:	-36.82982 174.74621
+
+(3) - 12.3 km
+	BDDAV1
+		Images:	20352
+		Time:	02.11.2024 05:38:48 until 02.11.2024 09:10:28
+		Duration:	03:31:40
+		Location:	-36.83177 174.74508
+
+(4) - 13.0 km
+	AJUBA1
+		Images:	22422
+		Time:	03.11.2024 05:39:48 until 03.11.2024 09:11:02
+		Duration:	03:31:14
+		Location:	-36.83555 174.74266
+
+	AOBL1
+		Images:	24117
+		Time:	03.11.2024 03:07:45 until 03.11.2024 09:14:03
+		Duration:	06:06:18
+		Location:	-36.83555 174.74266
+
+(5) - 13.5 km
+	BDARR1
+		Images:	17088
+		Time:	02.11.2024 21:20:39 until 03.11.2024 09:40:02
+		Duration:	12:19:23
+		Location:	-36.83612 174.74266
+
+(6) - 17.0 km
+	BHNRQ1
+		Images:	10635
+		Time:	03.11.2024 06:02:31 until 03.11.2024 10:59:50
+		Duration:	04:57:19
+		Location:	-36.84916 174.81849
+
+(7) - 18.0 km
+	BMALU1
+		Images:	8819
+		Time:	03.11.2024 06:32:32 until 03.11.2024 10:57:39
+		Duration:	04:25:07
+		Location:	-36.84541 174.81748
+
+(8) - 2.5 km
+	AKOH1
+		Images:	10438
+		Time:	03.11.2024 04:32:19 until 03.11.2024 07:34:14
+		Duration:	03:01:55
+		Location:	-36.81216 174.80032
+
+(9) - 20.0 km
+	BHLF1
+		Images:	13542
+		Time:	03.11.2024 05:27:16 until 03.11.2024 10:07:31
+		Duration:	04:40:15
+		Location:	-36.84065 174.75597
+
+(10) - 20.5 km
+	ARYB2
+		Images:	4590
+		Time:	03.11.2024 08:38:37 until 03.11.2024 11:13:32
+		Duration:	02:34:55
+		Location:	-36.84616 174.75652
+
+	ASML1
+		Images:	6049
+		Time:	03.11.2024 05:50:11 until 03.11.2024 10:03:33
+		Duration:	04:13:22
+		Location:	-36.84126 174.75825
+
+	BDARR2
+		Images:	60
+		Time:	03.11.2024 11:06:12 until 03.11.2024 11:25:35
+		Duration:	00:19:23
+		Location:	-36.84125 174.75824
+
+(11) - 22.0 km
+	BMBRO3
+		Images:	2848
+		Time:	03.11.2024 09:07:33 until 03.11.2024 10:19:03
+		Duration:	01:11:30
+		Location:	-36.84319 174.76364
+
+(12) - 22.5 km
+	ATJK1
+		Images:	7739
+		Time:	03.11.2024 04:54:01 until 03.11.2024 09:32:24
+		Duration:	04:38:23
+		Location:	-36.84251 174.76403
+
+	BMBRO2
+		Images:	4348
+		Time:	03.11.2024 06:48:18 until 03.11.2024 10:36:38
+		Duration:	03:48:20
+		Location:	-36.84321 174.76694
+
+	BRISO2
+		Images:	7325
+		Time:	03.11.2024 06:39:17 until 03.11.2024 11:37:18
+		Duration:	04:58:01
+		Location:	-36.84321 174.76694
+
+(13) - 23.5 km
+	AMBL1
+		Images:	10588
+		Time:	03.11.2024 05:59:13 until 03.11.2024 11:36:11
+		Duration:	05:36:58
+		Location:	-36.84769 174.78281
+
+(14) - 24.0 km
+	ARYB1
+		Images:	6105
+		Time:	03.11.2024 04:48:21 until 03.11.2024 07:27:35
+		Duration:	02:39:14
+		Location:	-36.84768 174.78696
+
+(15) - 41.5 km
+	BGBBR1
+		Images:	7593
+		Time:	03.11.2024 06:10:46 until 03.11.2024 11:00:35
+		Duration:	04:49:49
+		Location:	-36.84616 174.75652
+
+(16) - Finish
+	AGCO2
+		Images:	114
+		Time:	03.11.2024 09:42:55 until 03.11.2024 09:51:36
+		Duration:	00:08:41
+		Location:	-36.84689 174.7552
+
+	AGCO3
+		Images:	1483
+		Time:	03.11.2024 10:13:34 until 03.11.2024 11:48:03
+		Duration:	01:34:29
+		Location:	-36.84689 174.7552
+
+	AOBL2
+		Images:	2283
+		Time:	03.11.2024 09:43:57 until 03.11.2024 11:59:22
+		Duration:	02:15:25
+		Location:	-36.84689 174.7552
+
+	ARNA2
+		Images:	48
+		Time:	03.11.2024 09:18:07 until 03.11.2024 09:32:24
+		Duration:	00:14:17
+		Location:	-36.84689 174.7552
+
+	BBRON1
+		Images:	7942
+		Time:	03.11.2024 05:59:44 until 03.11.2024 11:03:49
+		Duration:	05:04:05
+		Location:	-36.84693 741.75515
+
+	BBRON1LS1
+		Images:	3999
+		Time:	03.11.2024 06:31:15 until 03.11.2024 10:51:46
+		Duration:	04:20:31
+		Location:	-36.84693 741.75515
+
+	BDARR3
+		Images:	186
+		Time:	03.11.2024 11:27:12 until 03.11.2024 11:59:54
+		Duration:	00:32:42
+		Location:	-36.84693 741.75515
+
+	BDDAV2
+		Images:	1140
+		Time:	02.11.2024 09:42:54 until 02.11.2024 10:22:37
+		Duration:	00:39:43
+		Location:	-36.84689 174.7552
+
+	BGBBR2
+		Images:	372
+		Time:	03.11.2024 11:00:35 until 03.11.2024 12:01:19
+		Duration:	01:00:44
+		Location:	-36.84693 741.75515
+
+	BPAD1
+		Images:	21286
+		Time:	02.11.2024 20:02:56 until 03.11.2024 11:47:52
+		Duration:	15:44:56
+		Location:	-36.84693 741.75515
+
+	BTCB1
+		Images:	10854
+		Time:	03.11.2024 06:47:50 until 03.11.2024 11:55:31
+		Duration:	05:07:41
+		Location:	-36.84693 741.75515
+
+(17) - Impressions / Pano
+	AKOH2
+		Images:	1583
+		Time:	03.11.2024 09:28:01 until 03.11.2024 11:28:01
+		Duration:	02:00:00
+		Location:	-36.84689 174.7552
+
+	BDDAV3
+		Images:	1720
+		Time:	02.11.2024 10:25:30 until 02.11.2024 12:02:26
+		Duration:	01:36:56
+		Location:	-36.84689 174.7552
+
+	PANO1
+(18) - Start
+	ARNA1
+		Images:	7970
+		Time:	03.11.2024 04:14:36 until 03.11.2024 09:18:07
+		Duration:	05:03:31
+		Location:	-36.78469 174.75121
+
+	BMBRO1
+		Images:	1927
+		Time:	03.11.2024 03:38:20 until 03.11.2024 06:07:39
+		Duration:	02:29:19
+		Location:	-36.83109 174.8021
+
+	BRISO1
+		Images:	1714
+		Time:	02.11.2024 19:41:51 until 03.11.2024 06:16:10
+		Duration:	10:34:19
+		Location:	-36.83109 174.8021
+

@@ -1,0 +1,489 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "52.51430" lon = "13.34666"><name>CABRI1</name><desc>0,5 km Siegessäule
+Images:9033
+First:06.04.2025 08:29:27
+Last:06.04.2025 11:29:25
+Duration:02:59:58
+</desc></wpt>
+<wpt lat = "52.51430" lon = "13.34666"><name>CAGA1</name><desc>0,5 km Siegessäule
+Images:14923
+First:06.04.2025 09:16:15
+Last:06.04.2025 11:32:47
+Duration:02:16:32
+</desc></wpt>
+<wpt lat = "52.51430" lon = "13.34666"><name>CAGA1LS1</name><desc>0,5 km Siegessäule
+Images:4388
+First:06.04.2025 09:29:47
+Last:06.04.2025 11:29:00
+Duration:01:59:13
+</desc></wpt>
+<wpt lat = "52.51430" lon = "13.34666"><name>CAGA1LS2</name><desc>0,5 km Siegessäule
+Images:8644
+First:06.04.2025 09:01:35
+Last:06.04.2025 11:28:58
+Duration:02:27:23
+</desc></wpt>
+<wpt lat = "52.50957" lon = "13.37770"><name>CLEM1</name><desc>12,8 km Potsdamer Platz
+Images:15843
+First:06.04.2025 09:20:44
+Last:06.04.2025 13:26:02
+Duration:04:05:18
+</desc></wpt>
+<wpt lat = "52.50957" lon = "13.37770"><name>CLEM1LS1</name><desc>12,8 km Potsdamer Platz
+Images:3269
+First:06.04.2025 09:17:51
+Last:06.04.2025 13:13:43
+Duration:03:55:52
+</desc></wpt>
+<wpt lat = "52.50957" lon = "13.37770"><name>CMPU1</name><desc>12,8 km Potsdamer Platz
+Images:25273
+First:06.04.2025 09:31:51
+Last:06.04.2025 13:26:06
+Duration:03:54:15
+</desc></wpt>
+<wpt lat = "52.50983" lon = "13.38212"><name>ADAR1</name><desc>13,1 km Bundesrat
+Images:12349
+First:06.04.2025 06:38:41
+Last:06.04.2025 13:26:38
+Duration:06:47:57
+</desc></wpt>
+<wpt lat = "52.50983" lon = "13.38212"><name>ADAR1LS1</name><desc>13,1 km Bundesrat
+Images:4605
+First:06.04.2025 10:42:01
+Last:06.04.2025 12:35:15
+Duration:01:53:14
+</desc></wpt>
+<wpt lat = "52.50983" lon = "13.38212"><name>AMAGI1</name><desc>13,1 km Bundesrat
+Images:5311
+First:06.04.2025 09:36:34
+Last:06.04.2025 13:17:51
+Duration:03:41:17
+</desc></wpt>
+<wpt lat = "52.51318" lon = "13.39334"><name>BCM1</name><desc>14,1 km Deutscher Dom
+Images:10063
+First:06.04.2025 08:48:49
+Last:06.04.2025 13:39:18
+Duration:04:50:29
+</desc></wpt>
+<wpt lat = "52.51318" lon = "13.39334"><name>BCM1LS1</name><desc>14,1 km Deutscher Dom
+Images:3555
+First:06.04.2025 09:47:23
+Last:06.04.2025 13:18:40
+Duration:03:31:17
+</desc></wpt>
+<wpt lat = "52.51318" lon = "13.39334"><name>BMUM1</name><desc>14,1 km Deutscher Dom
+Images:8568
+First:06.04.2025 09:38:20
+Last:06.04.2025 13:39:22
+Duration:04:01:02
+</desc></wpt>
+<wpt lat = "52.51411" lon = "13.39332"><name>CIL1</name><desc>14,2 km Konzerthaus Berlin
+Images:17683
+First:06.04.2025 08:42:08
+Last:06.04.2025 13:40:21
+Duration:04:58:13
+</desc></wpt>
+<wpt lat = "52.51411" lon = "13.39332"><name>CSBU1</name><desc>14,2 km Konzerthaus Berlin
+Images:12652
+First:06.04.2025 09:40:07
+Last:06.04.2025 13:52:41
+Duration:04:12:34
+</desc></wpt>
+<wpt lat = "52.51411" lon = "13.39332"><name>CSBU1LS1</name><desc>14,2 km Konzerthaus Berlin
+Images:2857
+First:06.04.2025 09:41:49
+Last:06.04.2025 13:35:01
+Duration:03:53:12
+</desc></wpt>
+<wpt lat = "52.51483" lon = "13.39309"><name>AEQ1</name><desc>14,3 km Französischer Dom
+Images:7611
+First:06.04.2025 08:55:29
+Last:06.04.2025 13:29:24
+Duration:04:33:55
+</desc></wpt>
+<wpt lat = "52.51483" lon = "13.39309"><name>AJOWE1</name><desc>14,3 km Französischer Dom
+Images:14820
+First:06.04.2025 09:08:30
+Last:06.04.2025 13:29:34
+Duration:04:21:04
+</desc></wpt>
+<wpt lat = "52.51483" lon = "13.39309"><name>AJOWE1LS1</name><desc>14,3 km Französischer Dom
+Images:3842
+First:06.04.2025 09:01:57
+Last:06.04.2025 13:37:07
+Duration:04:35:10
+</desc></wpt>
+<wpt lat = "52.51690" lon = "13.40346"><name>BAEPB1</name><desc>15,1 km Humboldt Forum
+Images:11014
+First:06.04.2025 09:39:41
+Last:06.04.2025 13:46:28
+Duration:04:06:47
+</desc></wpt>
+<wpt lat = "52.51690" lon = "13.40346"><name>BCRIC1</name><desc>15,1 km Humboldt Forum
+Images:16949
+First:06.04.2025 09:26:18
+Last:06.04.2025 13:48:03
+Duration:04:21:45
+</desc></wpt>
+<wpt lat = "52.51690" lon = "13.40346"><name>BCRIC1LS1</name><desc>15,1 km Humboldt Forum
+Images:4370
+First:06.04.2025 09:39:29
+Last:06.04.2025 13:48:19
+Duration:04:08:50
+</desc></wpt>
+<wpt lat = "52.51885" lon = "13.40661"><name>CCHWI1</name><desc>18,8 km Rotes Rathaus
+Images:12300
+First:06.04.2025 09:36:10
+Last:06.04.2025 14:20:55
+Duration:04:44:45
+</desc></wpt>
+<wpt lat = "52.51885" lon = "13.40661"><name>CDAN1LS1</name><desc>18,8 km Rotes Rathaus
+Images:3465
+First:06.04.2025 11:16:58
+Last:06.04.2025 14:13:50
+Duration:02:56:52
+</desc></wpt>
+<wpt lat = "52.51665" lon = "13.38491"><name>ADAT1</name><desc>20,5 km Powerzone Erdinger
+Images:16988
+First:06.04.2025 09:48:14
+Last:06.04.2025 14:36:44
+Duration:04:48:30
+</desc></wpt>
+<wpt lat = "52.51665" lon = "13.38491"><name>AFDC1</name><desc>20,5 km Powerzone Erdinger
+Images:19538
+First:06.04.2025 09:33:48
+Last:06.04.2025 14:36:15
+Duration:05:02:27
+</desc></wpt>
+<wpt lat = "52.51627" lon = "13.37948"><name>BDDT1</name><desc>20,8 km Hotel Adlon
+Images:24995
+First:06.04.2025 09:34:54
+Last:06.04.2025 14:41:29
+Duration:05:06:35
+</desc></wpt>
+<wpt lat = "52.51627" lon = "13.37948"><name>BFAW1</name><desc>20,8 km Hotel Adlon
+Images:12048
+First:06.04.2025 08:30:34
+Last:06.04.2025 14:41:24
+Duration:06:10:50
+</desc></wpt>
+<wpt lat = "52.51627" lon = "13.37948"><name>BFMT1</name><desc>20,8 km Hotel Adlon
+Images:23063
+First:06.04.2025 08:52:54
+Last:06.04.2025 14:41:24
+Duration:05:48:30
+</desc></wpt>
+<wpt lat = "52.51627" lon = "13.37948"><name>BFMT1LS1</name><desc>20,8 km Hotel Adlon
+Images:397
+First:06.04.2025 08:37:40
+Last:06.04.2025 10:41:42
+Duration:02:04:02
+</desc></wpt>
+<wpt lat = "52.51627" lon = "13.37948"><name>BGBR1</name><desc>20,8 km Hotel Adlon
+Images:32982
+First:06.04.2025 09:25:55
+Last:06.04.2025 14:42:17
+Duration:05:16:22
+</desc></wpt>
+<wpt lat = "52.51630" lon = "13.37750"><name>CBOC1</name><desc>20,9 km Brandenburger Tor
+Images:11577
+First:06.04.2025 08:51:55
+Last:06.04.2025 14:45:22
+Duration:05:53:27
+</desc></wpt>
+<wpt lat = "52.51630" lon = "13.37750"><name>CEBO1</name><desc>20,9 km Brandenburger Tor
+Images:8022
+First:06.04.2025 12:49:19
+Last:06.04.2025 14:44:00
+Duration:01:54:41
+</desc></wpt>
+<wpt lat = "52.51630" lon = "13.37750"><name>CJMU1</name><desc>20,9 km Brandenburger Tor
+Images:12457
+First:06.04.2025 09:36:57
+Last:06.04.2025 14:43:21
+Duration:05:06:24
+</desc></wpt>
+<wpt lat = "52.51630" lon = "13.37750"><name>CRYS1</name><desc>20,9 km Brandenburger Tor
+Images:7886
+First:06.04.2025 09:51:08
+Last:06.04.2025 14:38:56
+Duration:04:47:48
+</desc></wpt>
+<wpt lat = "52.51630" lon = "13.37750"><name>CRYS1LS1</name><desc>20,9 km Brandenburger Tor
+Images:6723
+First:06.04.2025 08:46:49
+Last:06.04.2025 14:33:28
+Duration:05:46:39
+</desc></wpt>
+<wpt lat = "52.51630" lon = "13.37750"><name>CRYS1LS2</name><desc>20,9 km Brandenburger Tor
+Images:6335
+First:06.04.2025 08:56:08
+Last:06.04.2025 14:33:31
+Duration:05:37:23
+</desc></wpt>
+<wpt lat = "52.51630" lon = "13.37750"><name>CSLOM1</name><desc>20,9 km Brandenburger Tor
+Images:13877
+First:06.04.2025 09:48:43
+Last:06.04.2025 14:45:15
+Duration:04:56:32
+</desc></wpt>
+<wpt lat = "52.51620" lon = "13.37505"><name>AALES2</name><desc>21,0 km Zieleinlauf
+Images:11816
+First:06.04.2025 11:55:31
+Last:06.04.2025 14:46:22
+Duration:02:50:51
+</desc></wpt>
+<wpt lat = "52.51620" lon = "13.37505"><name>ADG2</name><desc>21,0 km Zieleinlauf
+Images:18291
+First:06.04.2025 11:56:25
+Last:06.04.2025 14:46:17
+Duration:02:49:52
+</desc></wpt>
+<wpt lat = "52.51620" lon = "13.37505"><name>ADG2LS1</name><desc>21,0 km Zieleinlauf
+Images:3476
+First:06.04.2025 10:50:01
+Last:06.04.2025 13:47:08
+Duration:02:57:07
+</desc></wpt>
+<wpt lat = "52.51620" lon = "13.37523"><name>BBS1</name><desc>21,0 km Zieleinlauf
+Images:19499
+First:06.04.2025 09:49:09
+Last:06.04.2025 14:44:41
+Duration:04:55:32
+</desc></wpt>
+<wpt lat = "52.51620" lon = "13.37523"><name>BBS1LS1</name><desc>21,0 km Zieleinlauf
+Images:6174
+First:06.04.2025 08:44:18
+Last:06.04.2025 14:45:12
+Duration:06:00:54
+</desc></wpt>
+<wpt lat = "52.51620" lon = "13.37523"><name>BGUD1</name><desc>21,0 km Zieleinlauf
+Images:11021
+First:06.04.2025 09:49:12
+Last:06.04.2025 12:16:48
+Duration:02:27:36
+</desc></wpt>
+<wpt lat = "52.51620" lon = "13.37523"><name>BGUD1LS1</name><desc>21,0 km Zieleinlauf
+Images:4171
+First:06.04.2025 11:18:19
+Last:06.04.2025 14:49:35
+Duration:03:31:16
+</desc></wpt>
+<wpt lat = "52.51620" lon = "13.37523"><name>BGUD1LS2</name><desc>21,0 km Zieleinlauf
+Images:4126
+First:06.04.2025 11:22:03
+Last:06.04.2025 14:49:39
+Duration:03:27:36
+</desc></wpt>
+<wpt lat = "52.51620" lon = "13.37523"><name>BHKU1</name><desc>21,0 km Zieleinlauf
+Images:14987
+First:06.04.2025 09:28:39
+Last:06.04.2025 14:43:13
+Duration:05:14:34
+</desc></wpt>
+<wpt lat = "52.51620" lon = "13.37523"><name>BRIS1</name><desc>21,0 km Zieleinlauf
+Images:18395
+First:06.04.2025 09:45:38
+Last:06.04.2025 14:45:24
+Duration:04:59:46
+</desc></wpt>
+<wpt lat = "52.51620" lon = "13.37523"><name>BRW2</name><desc>21,0 km Zieleinlauf
+Images:11913
+First:06.04.2025 12:16:52
+Last:06.04.2025 14:47:40
+Duration:02:30:48
+</desc></wpt>
+<wpt lat = "52.51619" lon = "13.37520"><name>AMFR1</name><desc>21,0 km Zieleinlauf Steiger
+Images:8389
+First:06.04.2025 09:49:08
+Last:06.04.2025 14:44:13
+Duration:04:55:05
+</desc></wpt>
+<wpt lat = "52.51619" lon = "13.37520"><name>AMFR1LS1</name><desc>21,0 km Zieleinlauf Steiger
+Images:3917
+First:06.04.2025 08:58:28
+Last:06.04.2025 14:44:43
+Duration:05:46:15
+</desc></wpt>
+<wpt lat = "52.51619" lon = "13.37520"><name>ARJ1</name><desc>21,0 km Zieleinlauf Steiger
+Images:16843
+First:06.04.2025 09:56:18
+Last:06.04.2025 14:44:08
+Duration:04:47:50
+</desc></wpt>
+<wpt lat = "52.51619" lon = "13.37520"><name>ARJ1LS1</name><desc>21,0 km Zieleinlauf Steiger
+Images:4137
+First:06.04.2025 11:19:44
+Last:06.04.2025 14:46:25
+Duration:03:26:41
+</desc></wpt>
+<wpt lat = "52.51619" lon = "13.37520"><name>ARJ1LS2</name><desc>21,0 km Zieleinlauf Steiger
+Images:3746
+First:06.04.2025 11:23:03
+Last:06.04.2025 14:44:36
+Duration:03:21:33
+</desc></wpt>
+<wpt lat = "52.51614" lon = "13.37454"><name>CJMAR1</name><desc>21,1 km Ziel
+Images:20665
+First:06.04.2025 08:49:34
+Last:06.04.2025 14:48:00
+Duration:05:58:26
+</desc></wpt>
+<wpt lat = "52.51614" lon = "13.37454"><name>CMIRW1</name><desc>21,1 km Ziel
+Images:19992
+First:06.04.2025 09:17:12
+Last:06.04.2025 14:47:51
+Duration:05:30:39
+</desc></wpt>
+<wpt lat = "52.51614" lon = "13.37454"><name>CRECO1</name><desc>21,1 km Ziel
+Images:10214
+First:06.04.2025 09:45:40
+Last:06.04.2025 14:21:45
+Duration:04:36:05
+</desc></wpt>
+<wpt lat = "52.51614" lon = "13.37454"><name>CRECO3</name><desc>21,1 km Ziel
+Images:854
+First:01.01.0001 23:00:00
+Last:06.04.2025 09:49:51
+Duration:739345.10:49:51
+</desc></wpt>
+<wpt lat = "52.51600" lon = "13.37232"><name>ASTM1</name><desc>21,1 km Ziel Steiger
+Images:14628
+First:06.04.2025 09:48:59
+Last:06.04.2025 14:46:47
+Duration:04:57:48
+</desc></wpt>
+<wpt lat = "52.51600" lon = "13.37232"><name>ASTM1LS1</name><desc>21,1 km Ziel Steiger
+Images:6489
+First:06.04.2025 09:52:30
+Last:06.04.2025 14:36:15
+Duration:04:43:45
+</desc></wpt>
+<wpt lat = "52.51600" lon = "13.37232"><name>ATHS1</name><desc>21,1 km Ziel Steiger
+Images:43814
+First:06.04.2025 09:49:18
+Last:06.04.2025 14:45:39
+Duration:04:56:21
+</desc></wpt>
+<wpt lat = "52.51600" lon = "13.37232"><name>ATHS1LS1</name><desc>21,1 km Ziel Steiger
+Images:7921
+First:06.04.2025 09:49:12
+Last:06.04.2025 14:45:58
+Duration:04:56:46
+</desc></wpt>
+<wpt lat = "52.51600" lon = "13.37232"><name>ATHS1LS2</name><desc>21,1 km Ziel Steiger
+Images:5926
+First:06.04.2025 09:49:13
+Last:06.04.2025 14:44:46
+Duration:04:55:33
+</desc></wpt>
+<wpt lat = "52.50424" lon = "13.33625"><name>ABL1</name><desc>9,1 km Kaiser-Wilhelm-Gedächtniskirche
+Images:12529
+First:06.04.2025 09:50:10
+Last:06.04.2025 12:51:28
+Duration:03:01:18
+</desc></wpt>
+<wpt lat = "52.50424" lon = "13.33625"><name>ABL1LS1</name><desc>9,1 km Kaiser-Wilhelm-Gedächtniskirche
+Images:3644
+First:06.04.2025 08:33:56
+Last:06.04.2025 12:51:14
+Duration:04:17:18
+</desc></wpt>
+<wpt lat = "52.50210" lon = "13.34231"><name>BLSI1</name><desc>9,6 km KaDeWe
+Images:5659
+First:06.04.2025 09:22:41
+Last:06.04.2025 12:49:13
+Duration:03:26:32
+</desc></wpt>
+<wpt lat = "52.50210" lon = "13.34231"><name>BVL1</name><desc>9,6 km KaDeWe
+Images:30098
+First:06.04.2025 09:30:43
+Last:06.04.2025 12:55:09
+Duration:03:24:26
+</desc></wpt>
+<wpt lat = "52.50210" lon = "13.34231"><name>BVL1LS1</name><desc>9,6 km KaDeWe
+Images:3564
+First:06.04.2025 09:23:55
+Last:06.04.2025 12:53:08
+Duration:03:29:13
+</desc></wpt>
+<wpt lat = "52.51450" lon = "13.34989"><name>BRW1</name><desc>Impressionen Siegessäule
+Images:107
+First:06.04.2025 08:54:16
+Last:06.04.2025 11:24:46
+Duration:02:30:30
+</desc></wpt>
+<wpt lat = "52.51592" lon = "13.37149"><name>ABL2</name><desc>Medaillen
+Images:229
+First:06.04.2025 13:46:27
+Last:06.04.2025 14:42:25
+Duration:00:55:58
+</desc></wpt>
+<wpt lat = "52.51593" lon = "13.37152"><name>BLSI2</name><desc>Medaillen
+Images:759
+First:06.04.2025 13:40:17
+Last:06.04.2025 14:52:12
+Duration:01:11:55
+</desc></wpt>
+<wpt lat = "52.51593" lon = "13.37152"><name>BVL2</name><desc>Medaillen
+Images:1760
+First:06.04.2025 13:38:44
+Last:06.04.2025 14:52:11
+Duration:01:13:27
+</desc></wpt>
+<wpt lat = "52.51592" lon = "13.37136"><name>CAGA2</name><desc>Medaillen
+Images:10069
+First:06.04.2025 12:43:38
+Last:06.04.2025 14:36:06
+Duration:01:52:28
+</desc></wpt>
+<wpt lat = "52.51592" lon = "13.37136"><name>CANPE1</name><desc>Medaillen
+Images:2463
+First:06.04.2025 09:36:17
+Last:06.04.2025 14:55:16
+Duration:05:18:59
+</desc></wpt>
+<wpt lat = "52.51592" lon = "13.37136"><name>CBAK1</name><desc>Medaillen
+Images:2633
+First:06.04.2025 09:44:41
+Last:06.04.2025 14:29:29
+Duration:04:44:48
+</desc></wpt>
+<wpt lat = "52.51592" lon = "13.37136"><name>CJOLA1</name><desc>Medaillen
+Images:4504
+First:06.04.2025 09:19:24
+Last:06.04.2025 14:20:35
+Duration:05:01:11
+</desc></wpt>
+<wpt lat = "52.51592" lon = "13.37136"><name>CKWEI1</name><desc>Medaillen
+Images:3815
+First:06.04.2025 09:16:03
+Last:06.04.2025 14:37:00
+Duration:05:20:57
+</desc></wpt>
+<wpt lat = "52.51592" lon = "13.37136"><name>CRECO2</name><desc>Medaillen
+Images:3703
+First:06.04.2025 11:58:22
+Last:06.04.2025 14:32:29
+Duration:02:34:07
+</desc></wpt>
+<wpt lat = "52.51592" lon = "13.37136"><name>CSJW1</name><desc>Medaillen
+Images:5863
+First:06.04.2025 09:23:23
+Last:06.04.2025 13:54:41
+Duration:04:31:18
+</desc></wpt>
+<wpt lat = "52.51511" lon = "13.35876"><name>AALES1</name><desc>Start
+Images:4960
+First:06.04.2025 07:54:05
+Last:06.04.2025 11:24:56
+Duration:03:30:51
+</desc></wpt>
+<wpt lat = "52.51511" lon = "13.35876"><name>ADG1</name><desc>Start
+Images:14449
+First:06.04.2025 08:17:08
+Last:06.04.2025 11:23:38
+Duration:03:06:30
+</desc></wpt>
+</gpx>

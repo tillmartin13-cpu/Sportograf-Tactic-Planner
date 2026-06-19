@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "46.40050" lon = "8.12520"><name>AMU1</name><desc>160K + Vertical / 1 Km after start
+Images:532
+First:08.08.2025 07:17:18
+Last:08.08.2025 09:14:21
+Duration:01:57:03
+</desc></wpt>
+<wpt lat = "46.42778" lon = "8.09090"><name>AMU2</name><desc>Vertical finish
+Images:420
+First:08.08.2025 10:23:25
+Last:08.08.2025 13:18:36
+Duration:02:55:11
+</desc></wpt>
+<wpt lat = "46.37834" lon = "8.02056"><name>BEB1</name><desc>160K / Riederhalp / 15.4Km after start
+Images:1187
+First:07.08.2025 21:44:13
+Last:08.08.2025 11:25:09
+Duration:13:40:56
+</desc></wpt>
+<wpt lat = "46.39986" lon = "8.12609"><name>BEB2</name><desc>50K + 100K / 1 Km after start
+Images:1389
+First:09.08.2025 06:01:56
+Last:09.08.2025 06:42:55
+Duration:00:40:59
+</desc></wpt>
+<wpt lat = "46.39986" lon = "8.12609"><name>BEB2LS1</name><desc>50K + 100K / 1 Km after start
+Images:1449
+First:09.08.2025 05:50:35
+Last:09.08.2025 06:42:55
+Duration:00:52:20
+</desc></wpt>
+<wpt lat = "46.37809" lon = "8.02107"><name>BEB1LS1</name><desc>160K / Riederhalp / 15.5 Km after start
+Images:661
+First:08.08.2025 08:55:58
+Last:08.08.2025 10:30:26
+Duration:01:34:28
+</desc></wpt>
+</gpx>

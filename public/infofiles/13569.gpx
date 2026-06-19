@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "-33.33549" lon = "-71.45860"><name>CRP1</name><desc>20.0 km
+Images:2747
+First:28.09.2025 07:08:47
+Last:28.09.2025 09:18:17
+Duration:02:09:30
+</desc></wpt>
+<wpt lat = "-33.30141" lon = "-71.47505"><name>FO2</name><desc>20.0 km
+Images:784
+First:28.09.2025 08:43:05
+Last:28.09.2025 09:35:15
+Duration:00:52:10
+</desc></wpt>
+<wpt lat = "-33.30141" lon = "-71.47505"><name>FO2LS1</name><desc>20.0 km
+Images:1354
+First:28.09.2025 08:40:28
+Last:28.09.2025 09:37:32
+Duration:00:57:04
+</desc></wpt>
+<wpt lat = "-33.29896" lon = "-71.47480"><name>LUAL2</name><desc>20.0 km
+Images:989
+First:28.09.2025 08:42:20
+Last:28.09.2025 09:42:06
+Duration:00:59:46
+</desc></wpt>
+<wpt lat = "-33.36556" lon = "-71.30327"><name>CRP2</name><desc>Finish
+Images:2037
+First:28.09.2025 10:23:28
+Last:28.09.2025 13:06:43
+Duration:02:43:15
+</desc></wpt>
+<wpt lat = "-33.36556" lon = "-71.30327"><name>FO1</name><desc>Start
+Images:161
+First:28.09.2025 07:23:26
+Last:28.09.2025 07:59:24
+Duration:00:35:58
+</desc></wpt>
+<wpt lat = "-33.36556" lon = "-71.30327"><name>LUAL1</name><desc>Start
+Images:74
+First:28.09.2025 07:37:43
+Last:28.09.2025 07:47:17
+Duration:00:09:34
+</desc></wpt>
+<wpt lat = "-33.26546" lon = "-71.64458"><name>FO3</name><desc>70.0 km
+Images:513
+First:28.09.2025 10:18:40
+Last:28.09.2025 11:34:33
+Duration:01:15:53
+</desc></wpt>
+<wpt lat = "-33.26656" lon = "-71.64185"><name>LUAL3</name><desc>70.0 km
+Images:722
+First:28.09.2025 10:14:52
+Last:28.09.2025 11:51:41
+Duration:01:36:49
+</desc></wpt>
+<wpt lat = "-33.37036" lon = "-71.29705"><name>LUAL4</name><desc>Ceremony
+Images:57
+First:28.09.2025 12:57:48
+Last:28.09.2025 13:53:43
+Duration:00:55:55
+</desc></wpt>
+<wpt lat = "-33.37036" lon = "-71.29705"><name>LUAL4DRONE1</name><desc>Drone
+Images:185
+First:28.09.2025 07:31:07
+Last:28.09.2025 14:14:51
+Duration:06:43:44
+</desc></wpt>
+</gpx>

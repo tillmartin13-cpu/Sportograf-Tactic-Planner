@@ -1,0 +1,381 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "42.30839" lon = "9.15038"><name>MATR1</name><desc>Start
+Images:210
+First:03.07.2025 21:34:07
+Last:03.07.2025 23:31:10
+Duration:01:57:03
+</desc></wpt>
+<wpt lat = "42.30655" lon = "9.15063"><name>DDF4</name><desc>Start
+Images:548
+First:01.01.0001 23:00:00
+Last:05.07.2025 06:42:29
+Duration:739435.07:42:29
+</desc></wpt>
+<wpt lat = "42.30647" lon = "9.15085"><name>MDS4</name><desc>Start
+Images:574
+First:05.07.2025 06:16:37
+Last:05.07.2025 06:42:33
+Duration:00:25:56
+</desc></wpt>
+<wpt lat = "42.31007" lon = "9.14425"><name>AGU1</name><desc>2.0 km
+Images:293
+First:03.07.2025 23:01:46
+Last:03.07.2025 23:48:05
+Duration:00:46:19
+</desc></wpt>
+<wpt lat = "42.31007" lon = "9.14425"><name>AGU1LS1</name><desc>2.0 km
+Images:470
+First:03.07.2025 22:58:18
+Last:03.07.2025 23:18:04
+Duration:00:19:46
+</desc></wpt>
+<wpt lat = "42.31007" lon = "9.14425"><name>AGU1LS2</name><desc>2.0 km
+Images:471
+First:03.07.2025 22:57:37
+Last:03.07.2025 23:17:22
+Duration:00:19:45
+</desc></wpt>
+<wpt lat = "42.31027" lon = "9.14336"><name>MDS1</name><desc>2.5 km
+Images:175
+First:03.07.2025 23:00:45
+Last:03.07.2025 23:19:32
+Duration:00:18:47
+</desc></wpt>
+<wpt lat = "42.31027" lon = "9.14336"><name>MDS1LS1</name><desc>2.5 km
+Images:1102
+First:03.07.2025 20:46:05
+Last:03.07.2025 23:19:35
+Duration:02:33:30
+</desc></wpt>
+<wpt lat = "42.31083" lon = "9.14151"><name>BRN1</name><desc>3.0 km
+Images:374
+First:03.07.2025 22:57:22
+Last:03.07.2025 23:24:05
+Duration:00:26:43
+</desc></wpt>
+<wpt lat = "42.31083" lon = "9.14151"><name>BRN1LS1</name><desc>3.0 km
+Images:219
+First:03.07.2025 22:41:51
+Last:03.07.2025 23:24:32
+Duration:00:42:41
+</desc></wpt>
+<wpt lat = "42.37144" lon = "8.92968"><name>DDF1</name><desc>44.0 km
+Images:1519
+First:03.07.2025 18:14:10
+Last:04.07.2025 13:14:00
+Duration:18:59:50
+</desc></wpt>
+<wpt lat = "42.37144" lon = "8.92968"><name>DDF1DRONE1</name><desc>44.0 km
+Images:38
+First:04.07.2025 07:24:31
+Last:04.07.2025 12:58:27
+Duration:05:33:56
+</desc></wpt>
+<wpt lat = "42.37144" lon = "8.92968"><name>DDF1LS1</name><desc>44.0 km
+Images:1019
+First:04.07.2025 05:58:12
+Last:04.07.2025 13:10:39
+Duration:07:12:27
+</desc></wpt>
+<wpt lat = "42.30718" lon = "8.87751"><name>AGU2</name><desc>56.5 km
+Images:2071
+First:04.07.2025 09:09:28
+Last:04.07.2025 16:08:51
+Duration:06:59:23
+</desc></wpt>
+<wpt lat = "42.30718" lon = "8.87751"><name>AGU2LS2</name><desc>56.5 km
+Images:509
+First:04.07.2025 08:45:47
+Last:04.07.2025 18:41:52
+Duration:09:56:05
+</desc></wpt>
+<wpt lat = "42.30718" lon = "8.87751"><name>AGU2LS1</name><desc>56.5 km
+Images:503
+First:04.07.2025 08:42:59
+Last:04.07.2025 15:42:34
+Duration:06:59:35
+</desc></wpt>
+<wpt lat = "42.30279" lon = "8.87694"><name>MDS2</name><desc>57.0 km
+Images:3039
+First:04.07.2025 08:43:57
+Last:04.07.2025 16:09:49
+Duration:07:25:52
+</desc></wpt>
+<wpt lat = "42.30279" lon = "8.87694"><name>MDS2LS1</name><desc>57.0 km
+Images:544
+First:04.07.2025 08:37:41
+Last:04.07.2025 15:43:26
+Duration:07:05:45
+</desc></wpt>
+<wpt lat = "42.30279" lon = "8.87694"><name>MDS2LS2</name><desc>57.0 km
+Images:533
+First:03.07.2025 20:47:04
+Last:04.07.2025 15:43:27
+Duration:18:56:23
+</desc></wpt>
+<wpt lat = "42.29998" lon = "8.88255"><name>MATR2</name><desc>58.0 km
+Images:1622
+First:04.07.2025 08:54:15
+Last:04.07.2025 16:04:28
+Duration:07:10:13
+</desc></wpt>
+<wpt lat = "42.29998" lon = "8.88255"><name>MATR2LS1</name><desc>58.0 km
+Images:618
+First:04.07.2025 08:32:34
+Last:04.07.2025 15:49:50
+Duration:07:17:16
+</desc></wpt>
+<wpt lat = "42.29998" lon = "8.88255"><name>MATR2LS2</name><desc>58.0 km
+Images:841
+First:04.07.2025 08:21:05
+Last:04.07.2025 15:46:44
+Duration:07:25:39
+</desc></wpt>
+<wpt lat = "42.29998" lon = "8.88255"><name>MATR2DRONE1</name><desc>58.0 km
+Images:15
+First:04.07.2025 12:43:08
+Last:04.07.2025 12:49:30
+Duration:00:06:22
+</desc></wpt>
+<wpt lat = "42.32476" lon = "9.20891"><name>AGU3</name><desc>5.0 km
+Images:2141
+First:04.07.2025 18:34:55
+Last:04.07.2025 20:04:54
+Duration:01:29:59
+</desc></wpt>
+<wpt lat = "42.32476" lon = "9.20891"><name>AGU3LS2</name><desc>5.0 km
+Images:631
+First:04.07.2025 18:42:39
+Last:04.07.2025 20:10:43
+Duration:01:28:04
+</desc></wpt>
+<wpt lat = "42.32476" lon = "9.20891"><name>AGU3LS1</name><desc>5.0 km
+Images:655
+First:04.07.2025 18:37:21
+Last:04.07.2025 20:10:02
+Duration:01:32:41
+</desc></wpt>
+<wpt lat = "42.32531" lon = "9.20809"><name>MDS3</name><desc>5.5 km
+Images:2701
+First:04.07.2025 18:35:22
+Last:04.07.2025 19:55:27
+Duration:01:20:05
+</desc></wpt>
+<wpt lat = "42.32531" lon = "9.20809"><name>MDS3LS1</name><desc>5.5 km
+Images:581
+First:04.07.2025 18:49:47
+Last:04.07.2025 20:07:26
+Duration:01:17:39
+</desc></wpt>
+<wpt lat = "42.30655" lon = "9.15063"><name>BRN2</name><desc>Finish
+Images:4320
+First:04.07.2025 12:14:27
+Last:04.07.2025 23:03:01
+Duration:10:48:34
+</desc></wpt>
+<wpt lat = "42.30655" lon = "9.15063"><name>BRN2LS1</name><desc>Finish
+Images:1198
+First:04.07.2025 12:42:39
+Last:04.07.2025 23:03:01
+Duration:10:20:22
+</desc></wpt>
+<wpt lat = "42.30655" lon = "9.15063"><name>BRN2LS2</name><desc>Finish
+Images:1460
+First:04.07.2025 13:09:44
+Last:04.07.2025 21:27:16
+Duration:08:17:32
+</desc></wpt>
+<wpt lat = "42.30655" lon = "9.15063"><name>DDF2</name><desc>Finish
+Images:1010
+First:01.01.0001 23:00:00
+Last:05.07.2025 10:40:53
+Duration:739435.11:40:53
+</desc></wpt>
+<wpt lat = "42.30655" lon = "9.15063"><name>DDF2LS1</name><desc>Finish
+Images:267
+First:05.07.2025 00:01:33
+Last:05.07.2025 05:48:44
+Duration:05:47:11
+</desc></wpt>
+<wpt lat = "42.30655" lon = "9.15063"><name>DDF2LS2</name><desc>Finish
+Images:312
+First:01.01.0001 23:00:00
+Last:05.07.2025 05:48:49
+Duration:739435.06:48:49
+</desc></wpt>
+<wpt lat = "42.30647" lon = "9.15085"><name>MDS5</name><desc>Finish
+Images:4674
+First:05.07.2025 06:50:32
+Last:05.07.2025 14:06:38
+Duration:07:16:06
+</desc></wpt>
+<wpt lat = "42.30647" lon = "9.15085"><name>MDS5LS1</name><desc>Finish
+Images:1229
+First:05.07.2025 06:56:51
+Last:05.07.2025 13:31:10
+Duration:06:34:19
+</desc></wpt>
+<wpt lat = "42.30647" lon = "9.15085"><name>MDS5LS2</name><desc>Finish
+Images:721
+First:05.07.2025 06:54:57
+Last:05.07.2025 13:30:58
+Duration:06:36:01
+</desc></wpt>
+<wpt lat = "42.30647" lon = "9.15085"><name>DDF3</name><desc>Finish
+Images:1932
+First:01.01.0001 23:00:00
+Last:05.07.2025 18:20:09
+Duration:739435.19:20:09
+</desc></wpt>
+<wpt lat = "42.30647" lon = "9.15085"><name>DDF3LS1</name><desc>Finish
+Images:1067
+First:05.07.2025 14:00:08
+Last:05.07.2025 17:52:11
+Duration:03:52:03
+</desc></wpt>
+<wpt lat = "42.30647" lon = "9.15085"><name>DDF3LS2</name><desc>Finish
+Images:1831
+First:05.07.2025 14:03:57
+Last:05.07.2025 17:41:39
+Duration:03:37:42
+</desc></wpt>
+<wpt lat = "42.30647" lon = "9.15085"><name>MATR7</name><desc>Finish
+Images:1274
+First:05.07.2025 18:04:17
+Last:05.07.2025 23:06:28
+Duration:05:02:11
+</desc></wpt>
+<wpt lat = "42.30647" lon = "9.15085"><name>MATR7LS2</name><desc>Finish
+Images:643
+First:05.07.2025 17:51:43
+Last:05.07.2025 22:09:09
+Duration:04:17:26
+</desc></wpt>
+<wpt lat = "42.30647" lon = "9.15085"><name>MATR7LS1</name><desc>Finish
+Images:665
+First:05.07.2025 17:58:45
+Last:05.07.2025 22:09:11
+Duration:04:10:26
+</desc></wpt>
+<wpt lat = "42.31019" lon = "9.14345"><name>MATR3</name><desc>2.0 km 100K - 50K
+Images:731
+First:05.07.2025 04:28:49
+Last:05.07.2025 07:00:17
+Duration:02:31:28
+</desc></wpt>
+<wpt lat = "42.31019" lon = "9.14345"><name>MATR3LS1</name><desc>2.0 km 100K - 50K
+Images:1874
+First:05.07.2025 04:22:26
+Last:05.07.2025 07:12:55
+Duration:02:50:29
+</desc></wpt>
+<wpt lat = "42.31019" lon = "9.14345"><name>MATR3LS2</name><desc>2.0 km 100K - 50K
+Images:1696
+First:05.07.2025 06:23:39
+Last:05.07.2025 07:11:48
+Duration:00:48:09
+</desc></wpt>
+<wpt lat = "42.31019" lon = "9.14345"><name>MATR3DRONE1</name><desc>2.0 km 100K - 50K
+Images:22
+First:05.07.2025 05:22:05
+Last:05.07.2025 06:48:21
+Duration:01:26:16
+</desc></wpt>
+<wpt lat = "42.27814" lon = "9.05778"><name>AGU4</name><desc>95.0 km 100M
+Images:2915
+First:05.07.2025 09:23:13
+Last:05.07.2025 13:13:07
+Duration:03:49:54
+</desc></wpt>
+<wpt lat = "42.27814" lon = "9.05778"><name>AGU4LS1</name><desc>95.0 km
+Images:1096
+First:05.07.2025 09:39:52
+Last:05.07.2025 12:56:45
+Duration:03:16:53
+</desc></wpt>
+<wpt lat = "42.27814" lon = "9.05778"><name>AGU4LS2</name><desc>95.0 km
+Images:1095
+First:05.07.2025 09:33:50
+Last:05.07.2025 12:57:28
+Duration:03:23:38
+</desc></wpt>
+<wpt lat = "42.27740" lon = "9.05425"><name>AGU5</name><desc>98.0 km
+Images:1973
+First:05.07.2025 13:15:57
+Last:05.07.2025 18:03:58
+Duration:04:48:01
+</desc></wpt>
+<wpt lat = "42.27740" lon = "9.05425"><name>AGU5LS1</name><desc>98.0 km
+Images:889
+First:05.07.2025 13:06:28
+Last:05.07.2025 17:51:53
+Duration:04:45:25
+</desc></wpt>
+<wpt lat = "42.27740" lon = "9.05425"><name>AGU5LS2</name><desc>98.0 km
+Images:878
+First:05.07.2025 13:08:16
+Last:05.07.2025 17:55:46
+Duration:04:47:30
+</desc></wpt>
+<wpt lat = "42.30553" lon = "9.11975"><name>MATR4</name><desc>28.0 km 50K
+Images:1886
+First:05.07.2025 07:42:43
+Last:05.07.2025 12:13:33
+Duration:04:30:50
+</desc></wpt>
+<wpt lat = "42.30553" lon = "9.11975"><name>MATR4LS1</name><desc>28.0 km 50K
+Images:321
+First:05.07.2025 08:27:42
+Last:05.07.2025 12:03:13
+Duration:03:35:31
+</desc></wpt>
+<wpt lat = "42.30553" lon = "9.11975"><name>MATR4LS2</name><desc>28.0 km 50K
+Images:1058
+First:05.07.2025 08:40:41
+Last:05.07.2025 12:10:19
+Duration:03:29:38
+</desc></wpt>
+<wpt lat = "42.30553" lon = "9.11975"><name>MATR4DRONE1</name><desc>28.0 km 50K
+Images:21
+First:05.07.2025 12:16:36
+Last:05.07.2025 12:20:59
+Duration:00:04:23
+</desc></wpt>
+<wpt lat = "42.30553" lon = "9.11975"><name>BRN3</name><desc>28.0 km
+Images:10060
+First:05.07.2025 12:13:22
+Last:05.07.2025 21:55:18
+Duration:09:41:56
+</desc></wpt>
+<wpt lat = "42.30553" lon = "9.11975"><name>BRN3LS2</name><desc>28.0 km
+Images:1359
+First:05.07.2025 10:31:43
+Last:05.07.2025 21:55:30
+Duration:11:23:47
+</desc></wpt>
+<wpt lat = "42.30553" lon = "9.11975"><name>BRN3LS1</name><desc>28.0 km
+Images:1880
+First:05.07.2025 12:08:43
+Last:05.07.2025 21:16:17
+Duration:09:07:34
+</desc></wpt>
+<wpt lat = "42.30943" lon = "9.14202"><name>MDS6</name><desc>30.0 km
+Images:1015
+First:05.07.2025 19:00:13
+Last:05.07.2025 22:43:54
+Duration:03:43:41
+</desc></wpt>
+<wpt lat = "42.30943" lon = "9.14202"><name>MDS6LS1</name><desc>30.0 km
+Images:111
+First:05.07.2025 18:53:49
+Last:05.07.2025 22:48:35
+Duration:03:54:46
+</desc></wpt>
+<wpt lat = "42.30943" lon = "9.14202"><name>MDS6LS2</name><desc>30.0 km
+Images:255
+First:05.07.2025 18:33:46
+Last:05.07.2025 22:48:22
+Duration:04:14:36
+</desc></wpt>
+</gpx>

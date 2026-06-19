@@ -1,0 +1,141 @@
+EventId: 13382
+Spots: 23
+Total Images: 293641
+Time:	09.11.2024 05:38:47 to 11.11.2024 14:24:47
+Duration: 2.08:46:00
+
+(1) - 0.0 km
+	BAN1
+		Images:	2282
+		Time:	09.11.2024 06:15:37 until 09.11.2024 07:37:52
+		Duration:	01:22:15
+		Location:	NULL NULL
+
+	BBB1
+		Images:	13377
+		Time:	09.11.2024 09:13:26 until 09.11.2024 12:51:43
+		Duration:	03:38:17
+		Location:	NULL NULL
+
+	BBS1
+		Images:	11332
+		Time:	09.11.2024 08:05:38 until 09.11.2024 08:59:50
+		Duration:	00:54:12
+		Location:	NULL NULL
+
+	BBZ1
+		Images:	6996
+		Time:	09.11.2024 10:05:21 until 09.11.2024 13:57:38
+		Duration:	03:52:17
+		Location:	NULL NULL
+
+	BGG1
+		Images:	6190
+		Time:	09.11.2024 06:55:46 until 09.11.2024 07:46:52
+		Duration:	00:51:06
+		Location:	NULL NULL
+
+	BGU1
+		Images:	26128
+		Time:	09.11.2024 08:08:58 until 09.11.2024 14:31:11
+		Duration:	06:22:13
+		Location:	NULL NULL
+
+	BJB1
+		Images:	6207
+		Time:	09.11.2024 07:24:09 until 09.11.2024 08:36:22
+		Duration:	01:12:13
+		Location:	NULL NULL
+
+	BJR1
+		Images:	5776
+		Time:	09.11.2024 07:04:14 until 09.11.2024 07:59:24
+		Duration:	00:55:10
+		Location:	NULL NULL
+
+	BKL1
+		Images:	46140
+		Time:	09.11.2024 08:03:18 until 09.11.2024 16:35:49
+		Duration:	08:32:31
+		Location:	NULL NULL
+
+	BLK1
+		Images:	7607
+		Time:	09.11.2024 07:10:21 until 09.11.2024 07:46:16
+		Duration:	00:35:55
+		Location:	NULL NULL
+
+	BMS1
+		Images:	6843
+		Time:	09.11.2024 07:01:39 until 09.11.2024 08:03:12
+		Duration:	01:01:33
+		Location:	NULL NULL
+
+	BNG1
+		Images:	37506
+		Time:	09.11.2024 07:49:15 until 09.11.2024 12:55:54
+		Duration:	05:06:39
+		Location:	NULL NULL
+
+	BTR1
+		Images:	20880
+		Time:	09.11.2024 08:36:32 until 09.11.2024 14:19:26
+		Duration:	05:42:54
+		Location:	NULL NULL
+
+	BTW1
+		Images:	126
+		Time:	09.11.2024 07:35:45 until 09.11.2024 08:07:29
+		Duration:	00:31:44
+		Location:	NULL NULL
+
+	BWT1
+		Images:	3606
+		Time:	09.11.2024 07:16:54 until 09.11.2024 08:03:06
+		Duration:	00:46:12
+		Location:	NULL NULL
+
+	BXA1
+		Images:	2204
+		Time:	09.11.2024 07:02:50 until 09.11.2024 07:45:07
+		Duration:	00:42:17
+		Location:	NULL NULL
+
+	BXD1
+		Images:	12365
+		Time:	09.11.2024 09:01:39 until 09.11.2024 12:28:30
+		Duration:	03:26:51
+		Location:	NULL NULL
+
+	BXG1
+		Images:	15841
+		Time:	09.11.2024 05:38:47 until 09.11.2024 12:43:27
+		Duration:	07:04:40
+		Location:	NULL NULL
+
+	BXH1
+		Images:	18980
+		Time:	11.11.2024 06:24:30 until 11.11.2024 14:24:47
+		Duration:	08:00:17
+		Location:	NULL NULL
+
+	BXJ1
+		Images:	22248
+		Time:	09.11.2024 06:52:30 until 09.11.2024 15:35:38
+		Duration:	08:43:08
+		Location:	NULL NULL
+
+	BXK1
+		Images:	17564
+		Time:	09.11.2024 05:48:04 until 09.11.2024 12:56:56
+		Duration:	07:08:52
+		Location:	NULL NULL
+
+	BZB1
+		Images:	3443
+		Time:	09.11.2024 08:10:30 until 09.11.2024 09:31:14
+		Duration:	01:20:44
+		Location:	NULL NULL
+
+(2) - Impressions / Pano
+	PANO1

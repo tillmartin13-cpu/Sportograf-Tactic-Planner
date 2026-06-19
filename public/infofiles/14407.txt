@@ -1,0 +1,61 @@
+EventId: 14407
+Spots: 8
+Total Images: 29133
+Time:	18.05.2025 08:54:29 to 18.05.2025 17:23:10
+Duration: 08:28:41
+
+(1) - Obstacle 8 Kiss of Mud
+	ELAM1
+		Images:	1134
+		Time:	18.05.2025 09:20:36 until 18.05.2025 11:49:23
+		Duration:	02:28:47
+		Location:	39.90111 -75.76575
+
+(2) - Obstacle 9 Ladder to Hell
+	AAD1
+		Images:	6437
+		Time:	18.05.2025 09:13:31 until 18.05.2025 13:27:27
+		Duration:	04:13:56
+		Location:	39.90072 -75.77011
+
+(3) - Obstacle 17 Cage Crawl
+	JAYK1
+		Images:	2829
+		Time:	18.05.2025 08:54:29 until 18.05.2025 15:11:33
+		Duration:	06:17:04
+		Location:	39.91036 -75.77466
+
+	SWDY1
+		Images:	2935
+		Time:	18.05.2025 09:24:03 until 18.05.2025 15:11:12
+		Duration:	05:47:09
+		Location:	39.91036 -75.77466
+
+(4) - Obstacle 19 The Block Ness Monster
+	WMY1
+		Images:	5503
+		Time:	18.05.2025 09:02:04 until 18.05.2025 17:23:10
+		Duration:	08:21:06
+		Location:	39.90922 -75.77294
+
+(5) - Obstacle 23 Arctic Enema
+	EUGP1
+		Images:	3004
+		Time:	18.05.2025 09:30:34 until 18.05.2025 16:07:28
+		Duration:	06:36:54
+		Location:	39.90669 -75.76538
+
+(6) - Obstacle 24 Mud Mile
+	UKN1
+		Images:	2687
+		Time:	18.05.2025 09:00:44 until 18.05.2025 16:14:30
+		Duration:	07:13:46
+		Location:	39.90716 -75.76585
+
+(7) - Obstacle 25 Electroshock Therapy
+	YEP1
+		Images:	4604
+		Time:	18.05.2025 09:35:50 until 18.05.2025 16:19:07
+		Duration:	06:43:17
+		Location:	39.90733 -75.76547
+

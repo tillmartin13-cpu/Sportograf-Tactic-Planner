@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "46.41084" lon = "11.57039"><name>JADS1</name><desc>54,0 km
+Images:1884
+First:30.08.2025 09:52:14
+Last:30.08.2025 13:53:04
+Duration:04:00:50
+</desc></wpt>
+<wpt lat = "46.44105" lon = "11.57141"><name>LKE1</name><desc>22,0 km
+Images:355
+First:30.08.2025 09:59:08
+Last:30.08.2025 13:51:33
+Duration:03:52:25
+</desc></wpt>
+<wpt lat = "46.41483" lon = "11.55226"><name>UEC2</name><desc>22,0 km
+Images:265
+First:30.08.2025 09:01:26
+Last:30.08.2025 10:51:34
+Duration:01:50:08
+</desc></wpt>
+<wpt lat = "46.41483" lon = "11.55226"><name>UEC2LS2</name><desc>22,0 km
+Images:283
+First:30.08.2025 09:05:20
+Last:30.08.2025 10:31:50
+Duration:01:26:30
+</desc></wpt>
+<wpt lat = "46.41483" lon = "11.55226"><name>UEC2LS1</name><desc>22,0 km
+Images:311
+First:30.08.2025 09:05:10
+Last:30.08.2025 10:31:18
+Duration:01:26:08
+</desc></wpt>
+<wpt lat = "46.41105" lon = "11.57039"><name>UEC1</name><desc>2,1 km
+Images:255
+First:30.08.2025 07:25:44
+Last:30.08.2025 08:38:49
+Duration:01:13:05
+</desc></wpt>
+<wpt lat = "46.41105" lon = "11.57039"><name>UEC1LS1</name><desc>2,1 km
+Images:129
+First:30.08.2025 08:05:23
+Last:30.08.2025 08:38:26
+Duration:00:33:03
+</desc></wpt>
+<wpt lat = "46.41105" lon = "11.57039"><name>UEC1LS2</name><desc>2,1 km
+Images:236
+First:30.08.2025 08:04:51
+Last:30.08.2025 08:38:57
+Duration:00:34:06
+</desc></wpt>
+<wpt lat = "46.41483" lon = "11.55226"><name>UEC3LS1</name><desc>Finish
+Images:127
+First:30.08.2025 12:26:25
+Last:30.08.2025 14:06:10
+Duration:01:39:45
+</desc></wpt>
+<wpt lat = "46.73846" lon = "11.95850"><name>ULKE2</name><desc>Finish
+Images:1856
+First:30.08.2025 11:02:43
+Last:30.08.2025 14:50:29
+Duration:03:47:46
+</desc></wpt>
+<wpt lat = "46.73846" lon = "11.95850"><name>ULKE2DRONE1</name><desc>Finish
+Images:8
+First:30.08.2025 11:38:38
+Last:30.08.2025 11:40:51
+Duration:00:02:13
+</desc></wpt>
+<wpt lat = "46.69770" lon = "11.93261"><name>ULKE1</name><desc>Start
+Images:365
+First:30.08.2025 07:24:26
+Last:30.08.2025 08:30:26
+Duration:01:06:00
+</desc></wpt>
+<wpt lat = "46.69770" lon = "11.93261"><name>ULKE1DRONE1</name><desc>Start
+Images:23
+First:30.08.2025 09:30:57
+Last:30.08.2025 10:24:31
+Duration:00:53:34
+</desc></wpt>
+</gpx>

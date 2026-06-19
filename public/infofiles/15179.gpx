@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "50.75175" lon = "3.28871"><name>ACCA1</name><desc>7.0 km
+Images:2266
+First:01.06.2025 07:46:51
+Last:01.06.2025 10:15:18
+Duration:02:28:27
+</desc></wpt>
+<wpt lat = "50.77786" lon = "3.34003"><name>ACCA2</name><desc>7.0 km to finish
+Images:4084
+First:01.06.2025 10:33:00
+Last:01.06.2025 15:35:04
+Duration:05:02:04
+</desc></wpt>
+<wpt lat = "50.77650" lon = "3.27295"><name>PBO1</name><desc>0.5 km
+Images:3592
+First:01.06.2025 07:27:54
+Last:01.06.2025 10:59:32
+Duration:03:31:38
+</desc></wpt>
+<wpt lat = "50.77675" lon = "3.27853"><name>PBO2</name><desc>Finish
+Images:3578
+First:01.06.2025 11:14:19
+Last:01.06.2025 16:14:51
+Duration:05:00:32
+</desc></wpt>
+<wpt lat = "50.75332" lon = "3.30131"><name>SDT1</name><desc>7.5 km
+Images:1063
+First:31.05.2025 17:58:59
+Last:01.06.2025 10:02:01
+Duration:16:03:02
+</desc></wpt>
+<wpt lat = "50.75332" lon = "3.30131"><name>SDT1LS1</name><desc>7.5 km
+Images:868
+First:31.05.2025 18:01:20
+Last:01.06.2025 10:07:21
+Duration:16:06:01
+</desc></wpt>
+<wpt lat = "50.75332" lon = "3.30131"><name>SDT1LS2</name><desc>7.5 km
+Images:782
+First:31.05.2025 18:03:11
+Last:01.06.2025 10:08:20
+Duration:16:05:09
+</desc></wpt>
+<wpt lat = "50.75332" lon = "3.30131"><name>SDT1DRONE1</name><desc>7.5 km
+Images:9
+First:31.05.2025 15:28:01
+Last:31.05.2025 15:37:54
+Duration:00:09:53
+</desc></wpt>
+<wpt lat = "50.77678" lon = "3.33584"><name>SDT2</name><desc>6.0 km
+Images:1523
+First:01.06.2025 11:32:37
+Last:01.06.2025 15:23:58
+Duration:03:51:21
+</desc></wpt>
+<wpt lat = "50.77711" lon = "3.33693"><name>SDT2LS1</name><desc>6.0 km
+Images:1464
+First:01.06.2025 11:29:40
+Last:01.06.2025 15:29:25
+Duration:03:59:45
+</desc></wpt>
+<wpt lat = "50.77711" lon = "3.33693"><name>SDT2LS2</name><desc>6.0 km
+Images:1370
+First:01.06.2025 11:27:04
+Last:01.06.2025 15:29:26
+Duration:04:02:22
+</desc></wpt>
+<wpt lat = "50.77711" lon = "3.33693"><name>SDT2DRONE1</name><desc>6.0 km
+Images:7
+First:31.05.2025 19:15:53
+Last:31.05.2025 19:19:08
+Duration:00:03:15
+</desc></wpt>
+</gpx>

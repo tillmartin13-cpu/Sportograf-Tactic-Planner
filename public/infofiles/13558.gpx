@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "51.88032" lon = "-9.58386"><name>SKAL1</name><desc>Start
+Images:3072
+First:24.05.2025 06:41:00
+Last:24.05.2025 09:22:34
+Duration:02:41:34
+</desc></wpt>
+<wpt lat = "51.78047" lon = "-9.80572"><name>JUW1</name><desc>23.7 km
+Images:9412
+First:24.05.2025 07:34:54
+Last:24.05.2025 08:50:47
+Duration:01:15:53
+</desc></wpt>
+<wpt lat = "51.78047" lon = "-9.80572"><name>JUW1DRONE1</name><desc>23.7 km
+Images:10
+First:24.05.2025 07:28:37
+Last:24.05.2025 07:32:20
+Duration:00:03:43
+</desc></wpt>
+<wpt lat = "51.65452" lon = "-10.06341"><name>KRE1</name><desc>58km of 140km
+Images:2101
+First:24.05.2025 07:42:16
+Last:24.05.2025 11:12:37
+Duration:03:30:21
+</desc></wpt>
+<wpt lat = "51.61602" lon = "-10.06720"><name>JJKE1</name><desc>64.6km of 140km
+Images:5953
+First:24.05.2025 07:22:19
+Last:24.05.2025 11:52:36
+Duration:04:30:17
+</desc></wpt>
+<wpt lat = "51.69179" lon = "-9.72785"><name>JUW2</name><desc>65.8km of 100km/94.6km of 140km
+Images:5622
+First:24.05.2025 09:26:28
+Last:24.05.2025 13:28:13
+Duration:04:01:45
+</desc></wpt>
+<wpt lat = "51.77424" lon = "-9.58967"><name>HED1</name><desc>91.9km of 100km/120.9km of 140km
+Images:3881
+First:23.05.2025 20:36:46
+Last:24.05.2025 14:34:14
+Duration:17:57:28
+</desc></wpt>
+<wpt lat = "51.78593" lon = "-9.58714"><name>OHAL1</name><desc>93.2km of 100km/122.2km of 140km
+Images:2019
+First:24.05.2025 10:27:40
+Last:24.05.2025 16:00:00
+Duration:05:32:20
+</desc></wpt>
+<wpt lat = "51.78593" lon = "-9.58714"><name>OHAL1LS1</name><desc>93.2km of 100km/122.2km of 140km
+Images:2811
+First:24.05.2025 09:03:17
+Last:24.05.2025 13:02:47
+Duration:03:59:30
+</desc></wpt>
+<wpt lat = "51.88032" lon = "-9.58386"><name>SKAL2</name><desc>Finish
+Images:11529
+First:24.05.2025 09:33:08
+Last:24.05.2025 16:54:08
+Duration:07:21:00
+</desc></wpt>
+<wpt lat = "51.88032" lon = "-9.58386"><name>KRE2</name><desc>Finish
+Images:676
+First:24.05.2025 12:58:54
+Last:24.05.2025 14:54:48
+Duration:01:55:54
+</desc></wpt>
+<wpt lat = "51.88032" lon = "-9.58386"><name>JJKE2</name><desc>Finish
+Images:313
+First:24.05.2025 14:14:39
+Last:24.05.2025 14:45:58
+Duration:00:31:19
+</desc></wpt>
+</gpx>

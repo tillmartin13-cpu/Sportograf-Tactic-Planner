@@ -1,0 +1,451 @@
+EventId: 9978
+Spots: 73
+Total Images: 419064
+Time:	01.01.0001 23:00:00 to 23.07.2023 12:12:38
+Duration: 738722.13:12:38
+
+(1) - Adenauer Forst
+	PF3
+		Images:	3746
+		Time:	22.07.2023 17:01:02 until 22.07.2023 20:20:22
+		Duration:	03:19:20
+		Location:	NULL NULL
+
+(2) - Aremberg
+	OT1
+		Images:	16343
+		Time:	22.07.2023 09:05:49 until 22.07.2023 15:37:01
+		Duration:	06:31:12
+		Location:	NULL NULL
+
+	ST1
+		Images:	10537
+		Time:	22.07.2023 09:58:34 until 22.07.2023 15:12:48
+		Duration:	05:14:14
+		Location:	NULL NULL
+
+	ST1LS1
+		Images:	6029
+		Time:	22.07.2023 09:49:04 until 22.07.2023 15:17:05
+		Duration:	05:28:01
+		Location:	NULL NULL
+
+	ST1LS2
+		Images:	7253
+		Time:	22.07.2023 09:45:01 until 22.07.2023 15:17:17
+		Duration:	05:32:16
+		Location:	NULL NULL
+
+(3) - Boxengasse Nacht
+	ALN4LS1
+		Images:	473
+		Time:	22.07.2023 21:55:35 until 22.07.2023 22:26:36
+		Duration:	00:31:01
+		Location:	NULL NULL
+
+	ALN4LS2
+		Images:	6142
+		Time:	22.07.2023 22:00:46 until 23.07.2023 04:27:00
+		Duration:	06:26:14
+		Location:	NULL NULL
+
+	ALN4LS3
+		Images:	5686
+		Time:	22.07.2023 22:33:23 until 23.07.2023 05:15:46
+		Duration:	06:42:23
+		Location:	NULL NULL
+
+(4) - Brünnchen
+	PARO3
+		Images:	7453
+		Time:	23.07.2023 09:47:35 until 23.07.2023 11:46:26
+		Duration:	01:58:51
+		Location:	NULL NULL
+
+	PARO3LS1
+		Images:	4177
+		Time:	23.07.2023 08:48:35 until 23.07.2023 12:01:17
+		Duration:	03:12:42
+		Location:	NULL NULL
+
+	PARO3LS2
+		Images:	709
+		Time:	23.07.2023 10:49:52 until 23.07.2023 12:04:41
+		Duration:	01:14:49
+		Location:	NULL NULL
+
+	TOBB3
+		Images:	3202
+		Time:	23.07.2023 09:32:43 until 23.07.2023 11:03:20
+		Duration:	01:30:37
+		Location:	NULL NULL
+
+	TOBB3LS1
+		Images:	2118
+		Time:	23.07.2023 09:23:50 until 23.07.2023 11:05:43
+		Duration:	01:41:53
+		Location:	NULL NULL
+
+	TOBB3LS2
+		Images:	2592
+		Time:	23.07.2023 08:45:23 until 23.07.2023 12:01:13
+		Duration:	03:15:50
+		Location:	NULL NULL
+
+(5) - Ende Boxengasse zur Nordschelife
+	LV4LS1
+		Images:	10112
+		Time:	23.07.2023 06:37:12 until 23.07.2023 09:41:14
+		Duration:	03:04:02
+		Location:	NULL NULL
+
+	MK4LS1
+		Images:	6665
+		Time:	23.07.2023 09:22:10 until 23.07.2023 11:21:08
+		Duration:	01:58:58
+		Location:	NULL NULL
+
+(6) - Ex-Mühle
+	LV1
+		Images:	13823
+		Time:	22.07.2023 10:57:08 until 22.07.2023 15:39:46
+		Duration:	04:42:38
+		Location:	NULL NULL
+
+	LV1LS1
+		Images:	4279
+		Time:	22.07.2023 11:21:47 until 22.07.2023 15:45:20
+		Duration:	04:23:33
+		Location:	NULL NULL
+
+	MK1
+		Images:	8628
+		Time:	22.07.2023 13:14:47 until 22.07.2023 15:24:43
+		Duration:	02:09:56
+		Location:	NULL NULL
+
+	MK1LS1
+		Images:	4178
+		Time:	22.07.2023 11:05:47 until 22.07.2023 15:36:03
+		Duration:	04:30:16
+		Location:	NULL NULL
+
+	MK1LS2
+		Images:	8823
+		Time:	22.07.2023 13:12:44 until 22.07.2023 15:44:14
+		Duration:	02:31:30
+		Location:	NULL NULL
+
+(7) - Finish
+	ALN8
+		Images:	3925
+		Time:	23.07.2023 11:23:24 until 23.07.2023 12:12:38
+		Duration:	00:49:14
+		Location:	NULL NULL
+
+(8) - Fuchsröhre Speedmessung
+	PARO1
+		Images:	11791
+		Time:	22.07.2023 09:20:56 until 22.07.2023 15:18:28
+		Duration:	05:57:32
+		Location:	NULL NULL
+
+	PARO1LS1
+		Images:	9241
+		Time:	22.07.2023 09:51:19 until 22.07.2023 18:19:29
+		Duration:	08:28:10
+		Location:	NULL NULL
+
+	PARO1LS2
+		Images:	12389
+		Time:	22.07.2023 18:55:23 until 23.07.2023 08:18:14
+		Duration:	13:22:51
+		Location:	NULL NULL
+
+	PARO1LS3
+		Images:	11478
+		Time:	22.07.2023 11:35:24 until 22.07.2023 18:12:57
+		Duration:	06:37:33
+		Location:	NULL NULL
+
+	TOBB1
+		Images:	13826
+		Time:	01.01.0001 23:00:00 until 23.07.2023 07:34:58
+		Duration:	738722.08:34:58
+		Location:	NULL NULL
+
+	TOBB1LS1
+		Images:	12837
+		Time:	21.07.2023 14:54:39 until 22.07.2023 17:53:07
+		Duration:	1.02:58:28
+		Location:	NULL NULL
+
+	TOBB1LS2
+		Images:	3516
+		Time:	22.07.2023 07:44:19 until 22.07.2023 18:55:51
+		Duration:	11:11:32
+		Location:	NULL NULL
+
+(9) - Grandpix Strecke
+	ALN6
+		Images:	4247
+		Time:	23.07.2023 09:06:53 until 23.07.2023 10:04:03
+		Duration:	00:57:10
+		Location:	NULL NULL
+
+	ALN7
+		Images:	1919
+		Time:	23.07.2023 10:18:08 until 23.07.2023 10:44:57
+		Duration:	00:26:49
+		Location:	NULL NULL
+
+(10) - Hatzenbach
+	ALN3
+		Images:	5904
+		Time:	22.07.2023 17:40:04 until 22.07.2023 19:19:55
+		Duration:	01:39:51
+		Location:	NULL NULL
+
+	ALN3LS1
+	ALN3LS2
+		Images:	1401
+		Time:	22.07.2023 20:17:08 until 22.07.2023 21:29:52
+		Duration:	01:12:44
+		Location:	NULL NULL
+
+	ALN5
+		Images:	3539
+		Time:	22.07.2023 20:25:10 until 22.07.2023 21:25:39
+		Duration:	01:00:29
+		Location:	NULL NULL
+
+	CD3LS1
+		Images:	1927
+		Time:	22.07.2023 17:30:26 until 22.07.2023 19:25:23
+		Duration:	01:54:57
+		Location:	NULL NULL
+
+	CD3LS2
+		Images:	2188
+		Time:	22.07.2023 17:29:00 until 22.07.2023 19:24:11
+		Duration:	01:55:11
+		Location:	NULL NULL
+
+	PF1
+		Images:	610
+		Time:	22.07.2023 09:02:55 until 22.07.2023 09:31:12
+		Duration:	00:28:17
+		Location:	NULL NULL
+
+(11) - Hocheichen
+	LV4
+		Images:	2742
+		Time:	23.07.2023 08:43:08 until 23.07.2023 10:52:42
+		Duration:	02:09:34
+		Location:	NULL NULL
+
+	MK4
+		Images:	4307
+		Time:	23.07.2023 09:52:47 until 23.07.2023 10:52:57
+		Duration:	01:00:10
+		Location:	NULL NULL
+
+	PF2
+		Images:	10006
+		Time:	22.07.2023 09:36:18 until 22.07.2023 17:01:02
+		Duration:	07:24:44
+		Location:	NULL NULL
+
+(12) - Impressions / Pano
+	MHO1
+		Images:	55
+		Time:	01.01.0001 23:00:00 until 14.09.2017 00:00:00
+		Duration:	736584.01:00:00
+		Location:	NULL NULL
+
+	MK4DRONE1
+		Images:	36
+		Time:	22.07.2023 15:28:37 until 23.07.2023 06:53:40
+		Duration:	15:25:03
+		Location:	NULL NULL
+
+	PANO1
+(13) - Karusell
+	ALN2
+		Images:	5430
+		Time:	22.07.2023 15:41:47 until 22.07.2023 16:31:44
+		Duration:	00:49:57
+		Location:	NULL NULL
+
+	ALN2LS1
+		Images:	1595
+		Time:	22.07.2023 15:20:36 until 22.07.2023 16:34:19
+		Duration:	01:13:43
+		Location:	NULL NULL
+
+	ALN2LS2
+		Images:	2191
+		Time:	22.07.2023 15:26:51 until 22.07.2023 16:33:09
+		Duration:	01:06:18
+		Location:	NULL NULL
+
+	PARO2
+		Images:	12633
+		Time:	22.07.2023 15:20:16 until 23.07.2023 07:29:44
+		Duration:	16:09:28
+		Location:	NULL NULL
+
+	PARO2LS1
+		Images:	7518
+		Time:	22.07.2023 19:39:25 until 23.07.2023 03:04:42
+		Duration:	07:25:17
+		Location:	NULL NULL
+
+	PARO2LS2
+		Images:	2200
+		Time:	23.07.2023 06:10:45 until 23.07.2023 08:21:11
+		Duration:	02:10:26
+		Location:	NULL NULL
+
+	TOBB2LS1
+		Images:	6159
+		Time:	22.07.2023 19:02:13 until 23.07.2023 07:55:37
+		Duration:	12:53:24
+		Location:	NULL NULL
+
+	TOBB2LS2
+		Images:	9773
+		Time:	22.07.2023 10:15:02 until 23.07.2023 08:13:34
+		Duration:	21:58:32
+		Location:	NULL NULL
+
+(14) - Karussell
+	CD2
+		Images:	8195
+		Time:	22.07.2023 15:15:50 until 22.07.2023 16:46:24
+		Duration:	01:30:34
+		Location:	NULL NULL
+
+	CD2LS1
+		Images:	7557
+		Time:	22.07.2023 14:56:35 until 22.07.2023 16:36:06
+		Duration:	01:39:31
+		Location:	NULL NULL
+
+	CD2LS2
+		Images:	4090
+		Time:	22.07.2023 14:56:35 until 22.07.2023 16:36:06
+		Duration:	01:39:31
+		Location:	NULL NULL
+
+(15) - Nordkehre
+	ALN1
+		Images:	7067
+		Time:	22.07.2023 12:34:25 until 22.07.2023 14:21:13
+		Duration:	01:46:48
+		Location:	NULL NULL
+
+	ALN1LS1
+		Images:	2868
+		Time:	22.07.2023 10:53:13 until 22.07.2023 14:25:10
+		Duration:	03:31:57
+		Location:	NULL NULL
+
+	ALN1LS2
+		Images:	6520
+		Time:	22.07.2023 10:47:35 until 22.07.2023 14:25:10
+		Duration:	03:37:35
+		Location:	NULL NULL
+
+	CD1
+		Images:	6823
+		Time:	22.07.2023 10:29:57 until 22.07.2023 14:24:41
+		Duration:	03:54:44
+		Location:	NULL NULL
+
+	CD1LS1
+		Images:	7600
+		Time:	22.07.2023 10:34:23 until 22.07.2023 14:25:51
+		Duration:	03:51:28
+		Location:	NULL NULL
+
+	CD1LS2
+		Images:	7408
+		Time:	22.07.2023 10:38:45 until 22.07.2023 14:24:57
+		Duration:	03:46:12
+		Location:	NULL NULL
+
+(16) - Wehrseifen-Ex Mühle
+	LV3
+		Images:	2613
+		Time:	22.07.2023 19:01:42 until 22.07.2023 21:38:17
+		Duration:	02:36:35
+		Location:	NULL NULL
+
+	MK3
+		Images:	2613
+		Time:	22.07.2023 19:29:15 until 22.07.2023 19:53:06
+		Duration:	00:23:51
+		Location:	NULL NULL
+
+	MK3LS1
+		Images:	4256
+		Time:	22.07.2023 21:31:30 until 23.07.2023 01:33:13
+		Duration:	04:01:43
+		Location:	NULL NULL
+
+	OT2
+		Images:	13116
+		Time:	22.07.2023 15:37:20 until 22.07.2023 20:13:46
+		Duration:	04:36:26
+		Location:	NULL NULL
+
+	ST2
+		Images:	7005
+		Time:	22.07.2023 16:13:30 until 22.07.2023 19:27:35
+		Duration:	03:14:05
+		Location:	NULL NULL
+
+	ST2LS1
+		Images:	3542
+		Time:	22.07.2023 15:55:17 until 22.07.2023 19:37:51
+		Duration:	03:42:34
+		Location:	NULL NULL
+
+	ST2LS2
+		Images:	5032
+		Time:	22.07.2023 15:47:25 until 22.07.2023 19:43:13
+		Duration:	03:55:48
+		Location:	NULL NULL
+
+(17) - Wippeman
+	LV2
+		Images:	6896
+		Time:	22.07.2023 16:02:44 until 22.07.2023 18:32:37
+		Duration:	02:29:53
+		Location:	NULL NULL
+
+	LV2LS1
+		Images:	1866
+		Time:	22.07.2023 16:10:24 until 22.07.2023 17:51:41
+		Duration:	01:41:17
+		Location:	NULL NULL
+
+	LV2LS2
+		Images:	8082
+		Time:	22.07.2023 16:24:21 until 22.07.2023 18:44:29
+		Duration:	02:20:08
+		Location:	NULL NULL
+
+	MK2
+		Images:	5473
+		Time:	22.07.2023 16:57:32 until 22.07.2023 18:41:58
+		Duration:	01:44:26
+		Location:	NULL NULL
+
+	MK2LS1
+		Images:	2091
+		Time:	22.07.2023 16:05:52 until 22.07.2023 17:50:58
+		Duration:	01:45:06
+		Location:	NULL NULL
+

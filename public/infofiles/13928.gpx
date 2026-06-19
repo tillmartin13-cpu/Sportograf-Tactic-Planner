@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "49.13379" lon = "10.89293"><name>AKS1</name><desc>M:11/30km Hm:11km
+Images:6140
+First:21.09.2025 09:42:09
+Last:21.09.2025 13:22:16
+Duration:03:40:07
+</desc></wpt>
+<wpt lat = "49.13601" lon = "10.89390"><name>AKS1LS1</name><desc>M:11/30km Hm:11km
+Images:2526
+First:21.09.2025 09:24:19
+Last:21.09.2025 13:47:30
+Duration:04:23:11
+</desc></wpt>
+<wpt lat = "49.13601" lon = "10.89390"><name>AKS1LS2</name><desc>M:11/30km Hm:11km
+Images:2529
+First:21.09.2025 09:17:12
+Last:21.09.2025 13:49:07
+Duration:04:31:55
+</desc></wpt>
+<wpt lat = "49.13379" lon = "10.89293"><name>AKS1DRONE1</name><desc>M:11/30km Hm:11km
+Images:24
+First:21.09.2025 10:16:29
+Last:21.09.2025 13:34:51
+Duration:03:18:22
+</desc></wpt>
+<wpt lat = "49.12071" lon = "10.93980"><name>KAM1</name><desc>M:21,5/40km Hm: 18,8km
+Images:6113
+First:21.09.2025 06:58:09
+Last:21.09.2025 14:46:28
+Duration:07:48:19
+</desc></wpt>
+<wpt lat = "49.11560" lon = "10.96704"><name>SDR1</name><desc>M:21,9/40,4km Hm:19,3km
+Images:4817
+First:21.09.2025 07:06:17
+Last:21.09.2025 15:17:39
+Duration:08:11:22
+</desc></wpt>
+<wpt lat = "49.13962" lon = "10.92927"><name>SISA1</name><desc>M:8,2/26,8km Hm:8,2km
+Images:5504
+First:21.09.2025 09:02:56
+Last:21.09.2025 13:02:38
+Duration:03:59:42
+</desc></wpt>
+<wpt lat = "49.11131" lon = "10.97914"><name>SL1</name><desc>Start
+Images:545
+First:21.09.2025 08:49:20
+Last:21.09.2025 11:17:06
+Duration:02:27:46
+</desc></wpt>
+<wpt lat = "49.11109" lon = "10.98060"><name>SL2</name><desc>Finish
+Images:10805
+First:21.09.2025 11:45:53
+Last:21.09.2025 15:28:54
+Duration:03:43:01
+</desc></wpt>
+</gpx>

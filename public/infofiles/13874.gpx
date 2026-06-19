@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "50.84104" lon = "12.81309"><name>NH1</name><desc>Start
+Images:341
+First:21.06.2025 10:47:36
+Last:21.06.2025 12:11:04
+Duration:01:23:28
+</desc></wpt>
+<wpt lat = "50.84128" lon = "12.80929"><name>DAR1</name><desc>0,1 km
+Images:467
+First:21.06.2025 10:54:45
+Last:21.06.2025 12:12:40
+Duration:01:17:55
+</desc></wpt>
+<wpt lat = "50.83397" lon = "12.79486"><name>NH2</name><desc>2,7 km
+Images:3158
+First:21.06.2025 13:05:22
+Last:21.06.2025 15:50:39
+Duration:02:45:17
+</desc></wpt>
+<wpt lat = "50.83397" lon = "12.79486"><name>NH2LS1</name><desc>2,7 km
+Images:1256
+First:21.06.2025 13:01:27
+Last:21.06.2025 15:03:41
+Duration:02:02:14
+</desc></wpt>
+<wpt lat = "50.82981" lon = "12.78973"><name>NH3</name><desc>4,2 km
+Images:2687
+First:21.06.2025 15:51:19
+Last:21.06.2025 17:41:07
+Duration:01:49:48
+</desc></wpt>
+<wpt lat = "50.82981" lon = "12.78973"><name>NH3LS1</name><desc>4,2 km
+Images:1105
+First:21.06.2025 15:24:57
+Last:21.06.2025 17:28:19
+Duration:02:03:22
+</desc></wpt>
+<wpt lat = "50.82603" lon = "12.78123"><name>NH4</name><desc>4,6 km
+Images:1843
+First:21.06.2025 18:22:19
+Last:21.06.2025 20:21:43
+Duration:01:59:24
+</desc></wpt>
+<wpt lat = "50.82603" lon = "12.78123"><name>NH4LS1</name><desc>4,6 km
+Images:1233
+First:21.06.2025 18:11:37
+Last:21.06.2025 20:26:41
+Duration:02:15:04
+</desc></wpt>
+<wpt lat = "50.82276" lon = "12.78442"><name>DAR2</name><desc>5,0 km
+Images:2259
+First:21.06.2025 13:06:24
+Last:21.06.2025 14:59:50
+Duration:01:53:26
+</desc></wpt>
+<wpt lat = "50.82276" lon = "12.78442"><name>DAR2LS1</name><desc>5,0 km
+Images:1341
+First:21.06.2025 12:56:22
+Last:21.06.2025 15:08:00
+Duration:02:11:38
+</desc></wpt>
+<wpt lat = "50.82212" lon = "12.78541"><name>TIM6</name><desc>5,1 km
+Images:741
+First:22.06.2025 08:14:07
+Last:22.06.2025 09:54:01
+Duration:01:39:54
+</desc></wpt>
+<wpt lat = "50.82235" lon = "12.78799"><name>DAR3</name><desc>5,2 km
+Images:2311
+First:21.06.2025 15:43:17
+Last:21.06.2025 17:26:09
+Duration:01:42:52
+</desc></wpt>
+<wpt lat = "50.82235" lon = "12.78799"><name>DAR3LS1</name><desc>5,2 km
+Images:501
+First:21.06.2025 15:29:31
+Last:21.06.2025 16:24:11
+Duration:00:54:40
+</desc></wpt>
+<wpt lat = "50.82366" lon = "12.79090"><name>DAR4</name><desc>5,6 km
+Images:2121
+First:21.06.2025 17:50:22
+Last:21.06.2025 20:01:11
+Duration:02:10:49
+</desc></wpt>
+<wpt lat = "50.82355" lon = "12.79002"><name>DAR4LS1</name><desc>5,6 km
+Images:1375
+First:21.06.2025 17:22:37
+Last:21.06.2025 19:32:07
+Duration:02:09:30
+</desc></wpt>
+<wpt lat = "50.82359" lon = "12.79057"><name>TIM4LS1</name><desc>5,6 km
+Images:2852
+First:21.06.2025 21:08:37
+Last:22.06.2025 04:55:04
+Duration:07:46:27
+</desc></wpt>
+<wpt lat = "50.82369" lon = "12.79136"><name>TIM5</name><desc>5,6 km
+Images:2725
+First:22.06.2025 05:20:23
+Last:22.06.2025 07:31:17
+Duration:02:10:54
+</desc></wpt>
+<wpt lat = "50.82359" lon = "12.79057"><name>TIM5LS1</name><desc>5,6 km
+Images:1253
+First:22.06.2025 04:57:18
+Last:22.06.2025 07:35:28
+Duration:02:38:10
+</desc></wpt>
+<wpt lat = "50.82390" lon = "12.79338"><name>TIM1LS1</name><desc>5,8 km
+Images:1084
+First:21.06.2025 11:23:14
+Last:21.06.2025 14:32:23
+Duration:03:09:09
+</desc></wpt>
+<wpt lat = "50.82390" lon = "12.79338"><name>TIM1</name><desc>5,8 km
+Images:3761
+First:21.06.2025 12:08:43
+Last:21.06.2025 14:31:17
+Duration:02:22:34
+</desc></wpt>
+<wpt lat = "50.82407" lon = "12.79454"><name>TIM2</name><desc>5,9 km
+Images:1129
+First:21.06.2025 15:02:45
+Last:21.06.2025 17:15:40
+Duration:02:12:55
+</desc></wpt>
+<wpt lat = "50.82425" lon = "12.79470"><name>TIM2LS1</name><desc>5,9 km
+Images:1870
+First:21.06.2025 14:49:09
+Last:21.06.2025 17:19:56
+Duration:02:30:47
+</desc></wpt>
+<wpt lat = "50.82532" lon = "12.79605"><name>NH6</name><desc>6,0 km
+Images:1411
+First:22.06.2025 05:42:14
+Last:22.06.2025 07:12:13
+Duration:01:29:59
+</desc></wpt>
+<wpt lat = "50.82536" lon = "12.79602"><name>TIM3</name><desc>6,0 km
+Images:4434
+First:21.06.2025 18:00:50
+Last:21.06.2025 20:31:23
+Duration:02:30:33
+</desc></wpt>
+<wpt lat = "50.82536" lon = "12.79602"><name>TIM3LS1</name><desc>6,0 km
+Images:1940
+First:21.06.2025 17:37:44
+Last:21.06.2025 20:35:03
+Duration:02:57:19
+</desc></wpt>
+<wpt lat = "50.82580" lon = "12.79432"><name>NH7</name><desc>6,2 km
+Images:915
+First:22.06.2025 07:35:13
+Last:22.06.2025 09:49:58
+Duration:02:14:45
+</desc></wpt>
+<wpt lat = "50.82646" lon = "12.79097"><name>NH5</name><desc>6,5 km
+Images:236
+First:21.06.2025 23:55:01
+Last:22.06.2025 00:39:46
+Duration:00:44:45
+</desc></wpt>
+<wpt lat = "50.82646" lon = "12.79097"><name>NH5LS1</name><desc>6,5 km
+Images:4284
+First:21.06.2025 23:34:28
+Last:22.06.2025 05:15:15
+Duration:05:40:47
+</desc></wpt>
+<wpt lat = "50.82626" lon = "12.79165"><name>NH8</name><desc>6,5 km
+Images:1276
+First:22.06.2025 10:15:23
+Last:22.06.2025 12:25:42
+Duration:02:10:19
+</desc></wpt>
+<wpt lat = "50.82613" lon = "12.79205"><name>NH8LS1</name><desc>6,5 km
+Images:1882
+First:22.06.2025 10:10:47
+Last:22.06.2025 12:26:38
+Duration:02:15:51
+</desc></wpt>
+<wpt lat = "50.83391" lon = "12.80540"><name>DAR5LS1</name><desc>8,1 km
+Images:31429
+First:21.06.2025 23:10:52
+Last:22.06.2025 07:38:30
+Duration:08:27:38
+</desc></wpt>
+<wpt lat = "50.83282" lon = "12.80766"><name>DAR6</name><desc>8,1 km
+Images:1631
+First:22.06.2025 06:33:05
+Last:22.06.2025 07:33:45
+Duration:01:00:40
+</desc></wpt>
+<wpt lat = "50.83715" lon = "12.81271"><name>DAR7</name><desc>9,4 km
+Images:5805
+First:22.06.2025 08:31:46
+Last:22.06.2025 12:35:54
+Duration:04:04:08
+</desc></wpt>
+<wpt lat = "50.83715" lon = "12.81271"><name>DAR7LS1</name><desc>9,4 km
+Images:2133
+First:22.06.2025 08:20:48
+Last:22.06.2025 12:35:55
+Duration:04:15:07
+</desc></wpt>
+</gpx>

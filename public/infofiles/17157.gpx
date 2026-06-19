@@ -1,0 +1,393 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "55.63680" lon = "12.63942"><name>AVL1</name><desc>1.0 km Kastrup
+Images:2602
+First:15.06.2025 10:15:58
+Last:15.06.2025 11:55:05
+Duration:01:39:07
+</desc></wpt>
+<wpt lat = "55.63680" lon = "12.63942"><name>AVL1LS1</name><desc>1.0 km Kastrup
+Images:2547
+First:15.06.2025 10:08:43
+Last:15.06.2025 11:02:46
+Duration:00:54:03
+</desc></wpt>
+<wpt lat = "55.63680" lon = "12.63942"><name>AVL1LS2</name><desc>1.0 km Kastrup
+Images:1151
+First:15.06.2025 10:13:19
+Last:15.06.2025 11:00:39
+Duration:00:47:20
+</desc></wpt>
+<wpt lat = "55.59313" lon = "12.76683"><name>BAGP1</name><desc>10.7 km Peberholm Island
+Images:18189
+First:15.06.2025 10:46:42
+Last:15.06.2025 13:49:03
+Duration:03:02:21
+</desc></wpt>
+<wpt lat = "55.59309" lon = "12.76664"><name>BDWE1</name><desc>10.7 km Peberholm Island
+Images:13518
+First:15.06.2025 10:24:50
+Last:15.06.2025 13:34:49
+Duration:03:09:59
+</desc></wpt>
+<wpt lat = "55.59309" lon = "12.76664"><name>BDWE1LS1</name><desc>10.7 km Peberholm Island
+Images:3369
+First:15.06.2025 10:44:00
+Last:15.06.2025 13:35:40
+Duration:02:51:40
+</desc></wpt>
+<wpt lat = "55.58937" lon = "12.77609"><name>BGEPA1</name><desc>10.7 km Peberholm Island
+Images:26217
+First:15.06.2025 10:19:51
+Last:15.06.2025 13:53:26
+Duration:03:33:35
+</desc></wpt>
+<wpt lat = "55.59214" lon = "12.76910"><name>BJRE1</name><desc>10.7 km Peberholm Island
+Images:29950
+First:15.06.2025 10:13:47
+Last:15.06.2025 13:54:06
+Duration:03:40:19
+</desc></wpt>
+<wpt lat = "55.57565" lon = "12.82195"><name>AANPE1</name><desc>14.0 km Öresund Bridge
+Images:7927
+First:15.06.2025 10:19:46
+Last:15.06.2025 14:17:36
+Duration:03:57:50
+</desc></wpt>
+<wpt lat = "55.57565" lon = "12.82195"><name>AGBR1</name><desc>14.0 km Öresund Bridge
+Images:31615
+First:15.06.2025 10:31:50
+Last:15.06.2025 14:19:26
+Duration:03:47:36
+</desc></wpt>
+<wpt lat = "55.57565" lon = "12.82195"><name>AMAGI1</name><desc>14.0 km Öresund Bridge
+Images:13133
+First:15.06.2025 10:59:26
+Last:15.06.2025 14:20:55
+Duration:03:21:29
+</desc></wpt>
+<wpt lat = "55.57565" lon = "12.82195"><name>ASLE1</name><desc>14.0 km Öresund Bridge
+Images:12982
+First:15.06.2025 10:27:55
+Last:15.06.2025 14:13:47
+Duration:03:45:52
+</desc></wpt>
+<wpt lat = "55.57565" lon = "12.82195"><name>ASLE1LS1</name><desc>14.0 km Öresund Bridge
+Images:2774
+First:14.06.2025 15:28:42
+Last:15.06.2025 14:11:48
+Duration:22:43:06
+</desc></wpt>
+<wpt lat = "55.57626" lon = "12.82224"><name>BCM1</name><desc>14.3 km Öresund Bridge
+Images:9924
+First:15.06.2025 10:33:49
+Last:15.06.2025 14:25:13
+Duration:03:51:24
+</desc></wpt>
+<wpt lat = "55.57626" lon = "12.82224"><name>BCM1LS1</name><desc>14.3 km Öresund Bridge
+Images:4274
+First:15.06.2025 11:00:30
+Last:15.06.2025 14:23:40
+Duration:03:23:10
+</desc></wpt>
+<wpt lat = "55.57511" lon = "12.82696"><name>BHV1</name><desc>14.3 km Öresund Bridge
+Images:15114
+First:15.06.2025 10:47:32
+Last:15.06.2025 14:23:35
+Duration:03:36:03
+</desc></wpt>
+<wpt lat = "55.57511" lon = "12.82696"><name>BHV1LS1</name><desc>14.3 km Öresund Bridge
+Images:894
+First:15.06.2025 10:25:16
+Last:15.06.2025 12:03:46
+Duration:01:38:30
+</desc></wpt>
+<wpt lat = "55.57511" lon = "12.82696"><name>BHV1LS2</name><desc>14.3 km Öresund Bridge
+Images:4025
+First:15.06.2025 10:34:51
+Last:15.06.2025 14:24:48
+Duration:03:49:57
+</desc></wpt>
+<wpt lat = "55.57673" lon = "12.82002"><name>BMGEN1</name><desc>14.3 km Öresund Bridge
+Images:10692
+First:15.06.2025 10:28:47
+Last:15.06.2025 14:23:56
+Duration:03:55:09
+</desc></wpt>
+<wpt lat = "55.57424" lon = "12.83173"><name>AMOIK1</name><desc>14.6 km Öresund Bridge
+Images:39863
+First:15.06.2025 10:28:51
+Last:15.06.2025 13:30:59
+Duration:03:02:08
+</desc></wpt>
+<wpt lat = "55.57424" lon = "12.83173"><name>ANU1</name><desc>14.6 km Öresund Bridge
+Images:18693
+First:15.06.2025 10:43:03
+Last:15.06.2025 14:30:04
+Duration:03:47:01
+</desc></wpt>
+<wpt lat = "55.57424" lon = "12.83173"><name>ANU1LS1</name><desc>14.6 km Öresund Bridge
+Images:2832
+First:15.06.2025 11:04:41
+Last:15.06.2025 14:14:33
+Duration:03:09:52
+</desc></wpt>
+<wpt lat = "55.57424" lon = "12.83173"><name>ANU1LS2</name><desc>14.6 km Öresund Bridge
+Images:3867
+First:15.06.2025 11:05:54
+Last:15.06.2025 14:24:01
+Duration:03:18:07
+</desc></wpt>
+<wpt lat = "55.57424" lon = "12.83173"><name>APHI1</name><desc>14.6 km Öresund Bridge
+Images:17707
+First:15.06.2025 10:37:43
+Last:15.06.2025 14:29:34
+Duration:03:51:51
+</desc></wpt>
+<wpt lat = "55.57355" lon = "12.83398"><name>BEQ1</name><desc>14.8 km Öresund Bridge
+Images:31450
+First:01.01.0001 23:00:00
+Last:15.06.2025 14:26:55
+Duration:739415.15:26:55
+</desc></wpt>
+<wpt lat = "55.57355" lon = "12.83398"><name>BEQ1LS1</name><desc>14.8 km Öresund Bridge
+Images:2986
+First:01.01.0001 23:00:00
+Last:15.06.2025 14:28:19
+Duration:739415.15:28:19
+</desc></wpt>
+<wpt lat = "55.57355" lon = "12.83398"><name>BLKU1</name><desc>14.8 km Öresund Bridge
+Images:19240
+First:15.06.2025 11:00:15
+Last:15.06.2025 14:28:57
+Duration:03:28:42
+</desc></wpt>
+<wpt lat = "55.57355" lon = "12.83398"><name>BSTL1</name><desc>14.8 km Öresund Bridge
+Images:10999
+First:14.06.2025 23:46:47
+Last:15.06.2025 14:28:53
+Duration:14:42:06
+</desc></wpt>
+<wpt lat = "55.57355" lon = "12.83398"><name>BSTL1LS1</name><desc>14.8 km Öresund Bridge
+Images:4110
+First:14.06.2025 23:45:24
+Last:15.06.2025 14:29:30
+Duration:14:44:06
+</desc></wpt>
+<wpt lat = "55.57355" lon = "12.83398"><name>BSTL1LS2</name><desc>14.8 km Öresund Bridge
+Images:4102
+First:14.06.2025 23:43:12
+Last:15.06.2025 14:31:06
+Duration:14:47:54
+</desc></wpt>
+<wpt lat = "55.57246" lon = "12.83639"><name>AALBR1</name><desc>15.1 km Öresund Bridge
+Images:10867
+First:15.06.2025 10:23:43
+Last:15.06.2025 14:31:31
+Duration:04:07:48
+</desc></wpt>
+<wpt lat = "55.57246" lon = "12.83639"><name>AJAK1</name><desc>15.1 km Öresund Bridge
+Images:9035
+First:15.06.2025 11:05:30
+Last:15.06.2025 14:35:23
+Duration:03:29:53
+</desc></wpt>
+<wpt lat = "55.57246" lon = "12.83639"><name>AOP1</name><desc>15.1 km Öresund Bridge
+Images:9613
+First:15.06.2025 10:52:29
+Last:15.06.2025 14:36:22
+Duration:03:43:53
+</desc></wpt>
+<wpt lat = "55.57246" lon = "12.83639"><name>AOP1LS1</name><desc>15.1 km Öresund Bridge
+Images:4159
+First:15.06.2025 10:32:33
+Last:15.06.2025 14:10:58
+Duration:03:38:25
+</desc></wpt>
+<wpt lat = "55.57246" lon = "12.83639"><name>APLA1</name><desc>15.1 km Öresund Bridge
+Images:14618
+First:15.06.2025 10:21:23
+Last:15.06.2025 14:34:50
+Duration:04:13:27
+</desc></wpt>
+<wpt lat = "55.56594" lon = "12.88650"><name>BHMU1</name><desc>18.8 km Öresund Bridge
+Images:14244
+First:15.06.2025 11:06:54
+Last:15.06.2025 14:48:31
+Duration:03:41:37
+</desc></wpt>
+<wpt lat = "55.56595" lon = "12.88611"><name>BHMU1LS1</name><desc>18.8 km Öresund Bridge
+Images:4285
+First:15.06.2025 10:27:34
+Last:15.06.2025 14:45:05
+Duration:04:17:31
+</desc></wpt>
+<wpt lat = "55.56574" lon = "12.88767"><name>BJMAR1</name><desc>18.8 km Öresund Bridge
+Images:11184
+First:15.06.2025 10:44:08
+Last:15.06.2025 14:48:51
+Duration:04:04:43
+</desc></wpt>
+<wpt lat = "55.56594" lon = "12.88566"><name>BMUM1</name><desc>18.8 km Öresund Bridge
+Images:19290
+First:15.06.2025 11:13:35
+Last:15.06.2025 14:47:42
+Duration:03:34:07
+</desc></wpt>
+<wpt lat = "55.56589" lon = "12.88724"><name>BSLOM1</name><desc>18.8 km Öresund Bridge
+Images:18741
+First:15.06.2025 10:42:03
+Last:15.06.2025 14:48:58
+Duration:04:06:55
+</desc></wpt>
+<wpt lat = "55.63393" lon = "12.65044"><name>BAKS1</name><desc>2.0 km Kastrup
+Images:15194
+First:15.06.2025 09:54:47
+Last:15.06.2025 11:49:38
+Duration:01:54:51
+</desc></wpt>
+<wpt lat = "55.63333" lon = "12.64605"><name>BAKS1LS1</name><desc>2.0 km Kastrup
+Images:1477
+First:15.06.2025 09:25:59
+Last:15.06.2025 11:47:11
+Duration:02:21:12
+</desc></wpt>
+<wpt lat = "55.63333" lon = "12.64605"><name>BAKS1LS2</name><desc>2.0 km Kastrup
+Images:413
+First:15.06.2025 09:31:58
+Last:15.06.2025 10:20:30
+Duration:00:48:32
+</desc></wpt>
+<wpt lat = "55.61025" lon = "12.72885"><name>AARTA1</name><desc>7.0 km Tunnel
+Images:11346
+First:15.06.2025 10:07:34
+Last:15.06.2025 13:28:35
+Duration:03:21:01
+</desc></wpt>
+<wpt lat = "55.61025" lon = "12.72885"><name>ABOC1</name><desc>7.0 km Tunnel
+Images:13442
+First:15.06.2025 10:06:47
+Last:15.06.2025 13:21:58
+Duration:03:15:11
+</desc></wpt>
+<wpt lat = "55.61025" lon = "12.72885"><name>ADDT1</name><desc>7.0 km Tunnel
+Images:3637
+First:15.06.2025 10:37:10
+Last:15.06.2025 13:21:37
+Duration:02:44:27
+</desc></wpt>
+<wpt lat = "55.61025" lon = "12.72885"><name>AJZE1</name><desc>7.0 km Tunnel
+Images:5475
+First:15.06.2025 10:19:17
+Last:15.06.2025 13:08:32
+Duration:02:49:15
+</desc></wpt>
+<wpt lat = "55.61025" lon = "12.72885"><name>AJZE1LS1</name><desc>7.0 km Tunnel
+Images:3032
+First:15.06.2025 10:32:46
+Last:15.06.2025 13:18:04
+Duration:02:45:18
+</desc></wpt>
+<wpt lat = "55.57410" lon = "12.90578"><name>CCAGO1</name><desc>Finish
+Images:11085
+First:15.06.2025 09:26:59
+Last:15.06.2025 15:46:06
+Duration:06:19:07
+</desc></wpt>
+<wpt lat = "55.57410" lon = "12.90578"><name>CDHD1</name><desc>Finish
+Images:5467
+First:15.06.2025 10:11:40
+Last:15.06.2025 15:48:45
+Duration:05:37:05
+</desc></wpt>
+<wpt lat = "55.57410" lon = "12.90578"><name>CPSA1</name><desc>Finish
+Images:8111
+First:14.06.2025 21:51:11
+Last:15.06.2025 15:46:08
+Duration:17:54:57
+</desc></wpt>
+<wpt lat = "55.57410" lon = "12.90578"><name>CYS1</name><desc>Finish
+Images:16321
+First:15.06.2025 11:33:56
+Last:15.06.2025 15:51:19
+Duration:04:17:23
+</desc></wpt>
+<wpt lat = "55.57410" lon = "12.90578"><name>CYS1LS1</name><desc>Finish
+Images:3095
+First:15.06.2025 11:29:57
+Last:15.06.2025 15:50:48
+Duration:04:20:51
+</desc></wpt>
+<wpt lat = "55.57410" lon = "12.90578"><name>CYS1LS2</name><desc>Finish
+Images:1167
+First:15.06.2025 11:29:16
+Last:15.06.2025 13:19:36
+Duration:01:50:20
+</desc></wpt>
+<wpt lat = "55.59309" lon = "12.76664"><name>ZZZ1IMP1</name><desc>Impressions / Pano
+Images:22
+First:01.01.0001 23:00:00
+Last:01.01.0001 23:00:00
+Duration:00:00:00
+</desc></wpt>
+<wpt lat = "55.5745" lon = "12.90687"><name>CABRI1</name><desc>Medals
+Images:4236
+First:15.06.2025 11:22:34
+Last:15.06.2025 15:34:25
+Duration:04:11:51
+</desc></wpt>
+<wpt lat = "55.5745" lon = "12.90687"><name>CDABT1</name><desc>Medals
+Images:3576
+First:15.06.2025 11:23:29
+Last:15.06.2025 15:35:51
+Duration:04:12:22
+</desc></wpt>
+<wpt lat = "55.5745" lon = "12.90687"><name>CJOHS1</name><desc>Medals
+Images:9905
+First:15.06.2025 11:21:31
+Last:15.06.2025 15:42:35
+Duration:04:21:04
+</desc></wpt>
+<wpt lat = "55.5745" lon = "12.90687"><name>CKZY1</name><desc>Medals
+Images:7325
+First:15.06.2025 11:21:31
+Last:15.06.2025 15:34:50
+Duration:04:13:19
+</desc></wpt>
+<wpt lat = "55.5745" lon = "12.90687"><name>CLSI1</name><desc>Medals
+Images:6442
+First:15.06.2025 11:21:58
+Last:15.06.2025 15:05:22
+Duration:03:43:24
+</desc></wpt>
+<wpt lat = "55.5745" lon = "12.90687"><name>CLZA1</name><desc>Medals
+Images:10524
+First:15.06.2025 11:08:39
+Last:15.06.2025 15:27:28
+Duration:04:18:49
+</desc></wpt>
+<wpt lat = "55.5745" lon = "12.90687"><name>CTASI1</name><desc>Medals
+Images:24759
+First:15.06.2025 11:23:01
+Last:15.06.2025 15:35:21
+Duration:04:12:20
+</desc></wpt>
+<wpt lat = "55.63874" lon = "12.64122"><name>AOLM1</name><desc>Start
+Images:33055
+First:15.06.2025 09:25:01
+Last:15.06.2025 12:09:42
+Duration:02:44:41
+</desc></wpt>
+<wpt lat = "55.63874" lon = "12.64122"><name>APLU1</name><desc>Start
+Images:3860
+First:15.06.2025 09:00:27
+Last:15.06.2025 12:09:50
+Duration:03:09:23
+</desc></wpt>
+<wpt lat = "55.63874" lon = "12.64122"><name>AZSZ1</name><desc>Start
+Images:4367
+First:15.06.2025 09:34:32
+Last:15.06.2025 12:09:03
+Duration:02:34:31
+</desc></wpt>
+</gpx>

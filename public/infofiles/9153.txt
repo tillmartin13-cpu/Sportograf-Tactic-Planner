@@ -1,0 +1,205 @@
+EventId: 9153
+Spots: 32
+Total Images: 194696
+Time:	22.07.2023 09:02:55 to 23.07.2023 01:33:13
+Duration: 16:30:18
+
+(1) - Adenauer Forst
+	PF3
+		Images:	3746
+		Time:	22.07.2023 17:01:02 until 22.07.2023 20:20:22
+		Duration:	03:19:20
+		Location:	50.36877 6.93428
+
+(2) - Aremberg
+	OT1
+		Images:	16343
+		Time:	22.07.2023 09:05:49 until 22.07.2023 15:37:01
+		Duration:	06:31:12
+		Location:	50.35798 6.91995
+
+	ST1
+		Images:	10537
+		Time:	22.07.2023 09:58:34 until 22.07.2023 15:12:48
+		Duration:	05:14:14
+		Location:	50.35798 6.91995
+
+	ST1LS1
+		Images:	6029
+		Time:	22.07.2023 09:49:04 until 22.07.2023 15:17:05
+		Duration:	05:28:01
+		Location:	50.35848 6.92098
+
+	ST1LS2
+		Images:	7253
+		Time:	22.07.2023 09:45:01 until 22.07.2023 15:17:17
+		Duration:	05:32:16
+		Location:	50.35848 6.92098
+
+(3) - Bogen zur Nordschleife Nacht
+	MK3LS1
+		Images:	4256
+		Time:	22.07.2023 21:31:30 until 23.07.2023 01:33:13
+		Duration:	04:01:43
+		Location:	50.33900 6.94884
+
+(4) - Caracciola Karussell
+	CD2
+		Images:	8195
+		Time:	22.07.2023 15:15:50 until 22.07.2023 16:46:24
+		Duration:	01:30:34
+		Location:	50.37226 6.98598
+
+	CD2LS1
+		Images:	3467
+		Time:	22.07.2023 14:58:24 until 22.07.2023 16:18:27
+		Duration:	01:20:03
+		Location:	50.37226 6.98598
+
+	CD2LS2
+		Images:	4090
+		Time:	22.07.2023 14:56:35 until 22.07.2023 16:36:06
+		Duration:	01:39:31
+		Location:	50.37226 6.98598
+
+(5) - Ex-Mühle
+	LV1
+		Images:	13823
+		Time:	22.07.2023 10:57:08 until 22.07.2023 15:39:46
+		Duration:	04:42:38
+		Location:	50.37836 6.95058
+
+	LV1LS1
+		Images:	4279
+		Time:	22.07.2023 11:21:47 until 22.07.2023 15:45:20
+		Duration:	04:23:33
+		Location:	50.37836 6.95058
+
+	MK1
+		Images:	8628
+		Time:	22.07.2023 13:14:47 until 22.07.2023 15:24:43
+		Duration:	02:09:56
+		Location:	50.37836 6.95058
+
+	MK1LS1
+		Images:	4178
+		Time:	22.07.2023 11:05:47 until 22.07.2023 15:36:03
+		Duration:	04:30:16
+		Location:	50.37836 6.95058
+
+	MK1LS2
+		Images:	8823
+		Time:	22.07.2023 13:12:44 until 22.07.2023 15:44:14
+		Duration:	02:31:30
+		Location:	50.37836 6.95058
+
+(6) - Hatzenbach
+	PF1
+		Images:	610
+		Time:	22.07.2023 09:02:55 until 22.07.2023 09:31:12
+		Duration:	00:28:17
+		Location:	50.33997 6.93624
+
+(7) - Hocheichen
+	PF2
+		Images:	10006
+		Time:	22.07.2023 09:36:18 until 22.07.2023 17:01:02
+		Duration:	07:24:44
+		Location:	50.34275 6.93015
+
+(8) - Impressions / Pano
+	PANO1
+(9) - Nordkehre
+	CD1
+		Images:	6823
+		Time:	22.07.2023 10:29:57 until 22.07.2023 14:24:41
+		Duration:	03:54:44
+		Location:	50.33929 6.94845
+
+	CD1LS1
+		Images:	7600
+		Time:	22.07.2023 10:34:23 until 22.07.2023 14:25:51
+		Duration:	03:51:28
+		Location:	50.33929 6.94845
+
+	CD1LS2
+		Images:	7408
+		Time:	22.07.2023 10:38:45 until 22.07.2023 14:24:57
+		Duration:	03:46:12
+		Location:	50.33929 6.94845
+
+(10) - Start
+	MK1IMP1
+		Images:	273
+		Time:	22.07.2023 12:10:41 until 22.07.2023 12:45:07
+		Duration:	00:34:26
+		Location:	50.33432 6.94572
+
+(11) - Wehrseifen-Ex Mühle
+	LV3
+		Images:	2613
+		Time:	22.07.2023 19:01:42 until 22.07.2023 21:38:17
+		Duration:	02:36:35
+		Location:	50.37671 6.94422
+
+	MK3
+		Images:	2613
+		Time:	22.07.2023 19:29:15 until 22.07.2023 19:53:06
+		Duration:	00:23:51
+		Location:	50.37671 6.94422
+
+	OT2
+		Images:	13116
+		Time:	22.07.2023 15:37:20 until 22.07.2023 20:13:46
+		Duration:	04:36:26
+		Location:	50.37648 6.94388
+
+	ST2
+		Images:	7005
+		Time:	22.07.2023 16:13:30 until 22.07.2023 19:27:35
+		Duration:	03:14:05
+		Location:	50.37671 6.94422
+
+	ST2LS1
+		Images:	3542
+		Time:	22.07.2023 15:55:17 until 22.07.2023 19:37:51
+		Duration:	03:42:34
+		Location:	50.37671 6.94422
+
+	ST2LS2
+		Images:	5032
+		Time:	22.07.2023 15:47:25 until 22.07.2023 19:43:13
+		Duration:	03:55:48
+		Location:	50.37671 6.94422
+
+(12) - Wippeman
+	LV2
+		Images:	6896
+		Time:	22.07.2023 16:02:44 until 22.07.2023 18:32:37
+		Duration:	02:29:53
+		Location:	50.37342 7.00364
+
+	LV2LS1
+		Images:	1866
+		Time:	22.07.2023 16:10:24 until 22.07.2023 17:51:41
+		Duration:	01:41:17
+		Location:	50.37342 7.00364
+
+	LV2LS2
+		Images:	8082
+		Time:	22.07.2023 16:24:21 until 22.07.2023 18:44:29
+		Duration:	02:20:08
+		Location:	50.37342 7.00364
+
+	MK2
+		Images:	5473
+		Time:	22.07.2023 16:57:32 until 22.07.2023 18:41:58
+		Duration:	01:44:26
+		Location:	50.37342 7.00364
+
+	MK2LS1
+		Images:	2091
+		Time:	22.07.2023 16:05:52 until 22.07.2023 17:50:58
+		Duration:	01:45:06
+		Location:	50.37342 7.00364
+

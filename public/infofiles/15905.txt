@@ -1,0 +1,41 @@
+EventId: 15905
+Spots: 5
+Total Images: 35802
+Time:	09.05.2024 09:29:53 to 10.05.2025 13:29:17
+Duration: 366.03:59:24
+
+(1) - 13.0 mi Pre Finish - 000000 - Trigger
+	BPFTO1
+		Images:	6610
+		Time:	10.05.2025 06:53:23 until 10.05.2025 11:16:28
+		Duration:	04:23:05
+		Location:	37.32605 -119.57947
+
+(2) - 13.0 mi Pre Finish - 860983 - Phillip Reyes
+	BPFPH1
+		Images:	7515
+		Time:	10.05.2025 07:03:11 until 10.05.2025 11:39:59
+		Duration:	04:36:48
+		Location:	37.32605 -119.57947
+
+(3) - 13.1 mi Finish - 860984 - Trigger
+	BFITR1
+		Images:	8371
+		Time:	09.05.2024 09:29:53 until 09.05.2024 14:43:03
+		Duration:	05:13:10
+		Location:	37.32701 -119.57893
+
+(4) - 9.0 mi Course - 860981 - Elainne Reyes
+	BCOER1
+		Images:	6556
+		Time:	10.05.2025 05:57:44 until 10.05.2025 10:28:17
+		Duration:	04:30:33
+		Location:	37.32586 -119.55400
+
+(5) - 9.0 mi Course - 860982 - Trigger
+	BCOTR1
+		Images:	6750
+		Time:	10.05.2025 09:10:07 until 10.05.2025 13:29:17
+		Duration:	04:19:10
+		Location:	37.32586 -119.55400
+

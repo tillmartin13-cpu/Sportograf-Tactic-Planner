@@ -1,0 +1,20 @@
+EventId: 2221
+Spots: 3
+Total Images: 17250
+Time:	29.08.2023 06:19:25 to 03.03.2024 09:00:02
+Duration: 187.02:40:37
+
+(1) - none
+	S0LF1HAND1NMF
+		Images:	8500
+		Time:	29.08.2023 06:19:25 until 03.03.2024 09:00:02
+		Duration:	187.02:40:37
+		Location:	NULL NULL
+
+	S0MF1HAND1NMF
+		Images:	8750
+		Time:	29.08.2023 06:19:25 until 03.03.2024 09:00:02
+		Duration:	187.02:40:37
+		Location:	NULL NULL
+
+	S0PANO1HAND1NMF

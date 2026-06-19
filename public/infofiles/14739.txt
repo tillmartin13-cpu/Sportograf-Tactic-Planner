@@ -1,0 +1,62 @@
+EventId: 14739
+Spots: 8
+Total Images: 12552
+Time:	17.05.2025 09:55:27 to 18.05.2025 16:39:01
+Duration: 1.06:43:34
+
+(1) - Obstacle 1 slippery wall
+	RLLA1
+		Images:	1215
+		Time:	17.05.2025 09:55:27 until 18.05.2025 11:45:22
+		Duration:	1.01:49:55
+		Location:	46.13843 10.96197
+
+(2) - Obstacle 6 floating islands
+	DCC1
+		Images:	933
+		Time:	17.05.2025 10:34:23 until 18.05.2025 13:49:02
+		Duration:	1.03:14:39
+		Location:	46.14109 10.96847
+
+(3) - Obstacle 8 tarzan swing raw
+	FRN1
+		Images:	5646
+		Time:	17.05.2025 11:03:32 until 18.05.2025 12:26:50
+		Duration:	1.01:23:18
+		Location:	46.14151 10.96871
+
+(4) - Obstacle 11 Tree truk cross
+	LLM1
+		Images:	1326
+		Time:	17.05.2025 10:44:27 until 18.05.2025 12:59:23
+		Duration:	1.02:14:56
+		Location:	46.14609 10.95281
+
+(5) - Obstacle 13 waterfall climb
+	NBI1
+		Images:	1565
+		Time:	18.05.2025 10:25:25 until 18.05.2025 13:02:13
+		Duration:	02:36:48
+		Location:	46.14643 10.95203
+
+(6) - Obstacle 40 fire jump
+	RLLA2
+		Images:	1513
+		Time:	18.05.2025 11:48:55 until 18.05.2025 16:39:01
+		Duration:	04:50:06
+		Location:	46.13843 10.96197
+
+(7) - Finish
+	FRN1LS1
+		Images:	306
+		Time:	18.05.2025 09:25:06 until 18.05.2025 16:37:42
+		Duration:	07:12:36
+		Location:	46.13843 10.96197
+
+(8) - Impressions / Pano
+	FRN1DRONE1
+		Images:	48
+		Time:	17.05.2025 14:48:21 until 18.05.2025 12:11:23
+		Duration:	21:23:02
+		Location:	46.13843 10.96197
+

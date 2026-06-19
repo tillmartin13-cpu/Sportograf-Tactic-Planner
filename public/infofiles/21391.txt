@@ -1,0 +1,259 @@
+EventId: 21391
+Spots: 47
+Total Images: 169956
+Time:	01.01.0001 23:00:00 to 09.11.2025 13:11:42
+Duration: 739562.14:11:42
+
+(1) - Ceremony
+	TOBY1
+		Images:	113
+		Time:	07.11.2025 16:53:52 until 07.11.2025 18:27:16
+		Duration:	01:33:24
+		Location:	NULL NULL
+
+(2) - Expo
+	TOBY4
+		Images:	52
+		Time:	08.11.2025 11:54:11 until 08.11.2025 12:13:02
+		Duration:	00:18:51
+		Location:	NULL NULL
+
+(3) - Finish
+	ATRIG1
+		Images:	11070
+		Time:	09.11.2025 06:51:08 until 09.11.2025 10:11:15
+		Duration:	03:20:07
+		Location:	36.60300 -121.89365
+
+	BTRIG1
+		Images:	11453
+		Time:	09.11.2025 06:43:57 until 09.11.2025 09:59:42
+		Duration:	03:15:45
+		Location:	36.60300 -121.89365
+
+	CB1
+		Images:	712
+		Time:	09.11.2025 06:19:26 until 09.11.2025 10:26:28
+		Duration:	04:07:02
+		Location:	36.60300 -121.89365
+
+	CTRIG1
+		Images:	8569
+		Time:	09.11.2025 10:05:33 until 09.11.2025 12:35:02
+		Duration:	02:29:29
+		Location:	36.60300 -121.89365
+
+	CW1
+		Images:	9930
+		Time:	09.11.2025 06:59:25 until 09.11.2025 10:15:06
+		Duration:	03:15:41
+		Location:	36.60300 -121.89365
+
+	EE1
+		Images:	552
+		Time:	09.11.2025 07:00:47 until 09.11.2025 10:04:43
+		Duration:	03:03:56
+		Location:	36.60300 -121.89365
+
+	JR1
+		Images:	6564
+		Time:	09.11.2025 06:59:31 until 09.11.2025 10:14:04
+		Duration:	03:14:33
+		Location:	36.60300 -121.89365
+
+	MEGYN1
+		Images:	2294
+		Time:	09.11.2025 07:17:21 until 09.11.2025 09:40:14
+		Duration:	02:22:53
+		Location:	36.60300 -121.89365
+
+	MT1
+		Images:	4310
+		Time:	09.11.2025 07:03:49 until 09.11.2025 10:18:53
+		Duration:	03:15:04
+		Location:	36.60300 -121.89365
+
+	PA1
+		Images:	1275
+		Time:	09.11.2025 07:09:37 until 09.11.2025 10:58:43
+		Duration:	03:49:06
+		Location:	36.60300 -121.89365
+
+	SCN1
+		Images:	465
+		Time:	09.11.2025 06:40:22 until 09.11.2025 10:17:45
+		Duration:	03:37:23
+		Location:	36.60300 -121.89365
+
+	TC1
+		Images:	15979
+		Time:	07.11.2025 16:08:09 until 09.11.2025 13:11:42
+		Duration:	1.21:03:33
+		Location:	36.60300 -121.89365
+
+	TD1
+		Images:	1547
+		Time:	09.11.2025 07:07:01 until 09.11.2025 10:08:32
+		Duration:	03:01:31
+		Location:	36.60300 -121.89365
+
+	TOBY2
+(4) - IMP
+	EAUTO1
+		Images:	7396
+		Time:	09.11.2025 07:29:30 until 09.11.2025 09:36:28
+		Duration:	02:06:58
+		Location:	36.62388 -121.91520
+
+(5) - Impressions / Pano
+	PANO1
+(6) - Mie 7 Asilomar
+	LAURA2
+(7) - Mile 1.5 Lighthouse Ave
+	AAUTO1
+		Images:	2863
+		Time:	09.11.2025 05:25:04 until 09.11.2025 06:56:05
+		Duration:	01:31:01
+		Location:	36.60637 -121.89447
+
+	JOSH1
+		Images:	2526
+		Time:	09.11.2025 06:07:06 until 09.11.2025 06:54:48
+		Duration:	00:47:42
+		Location:	36.60637 -121.89447
+
+	NOAH1
+		Images:	3583
+		Time:	08.11.2025 17:52:25 until 08.11.2025 18:51:17
+		Duration:	00:58:52
+		Location:	36.60637 -121.89447
+
+	PR1
+		Images:	6232
+		Time:	09.11.2025 08:57:37 until 09.11.2025 09:49:15
+		Duration:	00:51:38
+		Location:	36.60637 -121.89447
+
+(8) - Mile 10 Ocean View Blvd
+	BILAL2
+		Images:	3425
+		Time:	09.11.2025 07:35:55 until 09.11.2025 08:42:30
+		Duration:	01:06:35
+		Location:	36.62388 -121.91520
+
+	ER2
+		Images:	2796
+		Time:	09.11.2025 07:52:10 until 09.11.2025 08:33:01
+		Duration:	00:40:51
+		Location:	36.62388 -121.91520
+
+	FAUTO1
+		Images:	7936
+		Time:	09.11.2025 06:58:49 until 09.11.2025 09:12:28
+		Duration:	02:13:39
+		Location:	36.62388 -121.91520
+
+(9) - Mile 11 Lovers Point
+	CHUCK2
+		Images:	973
+		Time:	09.11.2025 07:16:25 until 09.11.2025 08:43:20
+		Duration:	01:26:55
+		Location:	36.62388 -121.91520
+
+	YNW2
+		Images:	1232
+		Time:	09.11.2025 07:34:40 until 09.11.2025 07:45:59
+		Duration:	00:11:19
+		Location:	36.62388 -121.91520
+
+(10) - Mile 13-Booths Cannery Beach
+	BAUTO1
+		Images:	20917
+		Time:	09.11.2025 07:02:06 until 09.11.2025 10:14:36
+		Duration:	03:12:30
+		Location:	36.60459 -121.89429
+
+	JOSH2
+		Images:	7758
+		Time:	09.11.2025 07:05:57 until 09.11.2025 10:11:11
+		Duration:	03:05:14
+		Location:	36.60459 -121.89429
+
+	NOAH2
+		Images:	5740
+		Time:	08.11.2025 18:57:15 until 08.11.2025 20:43:28
+		Duration:	01:46:13
+		Location:	36.60459 -121.89429
+
+	PR2
+		Images:	5675
+		Time:	09.11.2025 07:02:20 until 09.11.2025 08:23:49
+		Duration:	01:21:29
+		Location:	36.60459 -121.89429
+
+(11) - Mile 3.75 Ocean View Blvd
+	CAUTO1
+		Images:	3959
+		Time:	09.11.2025 05:38:12 until 09.11.2025 07:23:27
+		Duration:	01:45:15
+		Location:	36.62388 -121.91520
+
+	CHUCK1
+		Images:	1293
+		Time:	09.11.2025 05:57:07 until 09.11.2025 06:27:26
+		Duration:	00:30:19
+		Location:	36.62388 -121.91520
+
+	YNW1
+		Images:	2023
+		Time:	09.11.2025 05:41:38 until 09.11.2025 06:39:14
+		Duration:	00:57:36
+		Location:	36.62388 -121.91520
+
+(12) - Mile 5.5 Asilomar
+	JESUS1
+	LAURA1
+(13) - Mile 5.5 Kissing Rock
+	BILAL1
+		Images:	3044
+		Time:	09.11.2025 05:53:20 until 09.11.2025 07:34:53
+		Duration:	01:41:33
+		Location:	36.63521 -121.92591
+
+	DAUTO1
+		Images:	1671
+		Time:	01.01.0001 23:00:00 until 09.11.2025 06:53:11
+		Duration:	739562.07:53:11
+		Location:	36.63521 -121.92591
+
+	ER1
+		Images:	1929
+		Time:	09.11.2025 06:36:08 until 09.11.2025 07:48:21
+		Duration:	01:12:13
+		Location:	36.63521 -121.92591
+
+(14) - Mile 7 Asilomar
+	JESUS2
+(15) - none
+	CHRIS1
+	JASON1
+	TOBY3
+(16) - Start
+	CW2
+		Images:	1203
+		Time:	09.11.2025 05:04:06 until 09.11.2025 06:23:54
+		Duration:	01:19:48
+		Location:	36.60029 -121.89005
+
+	JR2
+		Images:	211
+		Time:	09.11.2025 04:55:52 until 09.11.2025 06:06:49
+		Duration:	01:10:57
+		Location:	36.60029 -121.89005
+
+	TC2
+		Images:	686
+		Time:	09.11.2025 07:59:23 until 09.11.2025 09:15:36
+		Duration:	01:16:13
+		Location:	36.60029 -121.89005
+

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "47.29290" lon = "10.15338"><name>MAPF1</name><desc>4,3 km
+Images:704
+First:26.07.2025 10:20:14
+Last:26.07.2025 11:29:02
+Duration:01:08:48
+</desc></wpt>
+<wpt lat = "47.31235" lon = "10.14522"><name>MAXB1</name><desc>1,9 km
+Images:692
+First:26.07.2025 10:05:44
+Last:26.07.2025 10:12:31
+Duration:00:06:47
+</desc></wpt>
+<wpt lat = "47.29378" lon = "10.11439"><name>SVL1</name><desc>12,8 km
+Images:3978
+First:26.07.2025 11:34:18
+Last:26.07.2025 13:45:38
+Duration:02:11:20
+</desc></wpt>
+<wpt lat = "47.29268" lon = "10.11368"><name>SVL1LS2</name><desc>12,8 km
+Images:569
+First:26.07.2025 10:59:50
+Last:26.07.2025 13:44:23
+Duration:02:44:33
+</desc></wpt>
+<wpt lat = "47.29322" lon = "10.11421"><name>SVL1LS1</name><desc>12,8 km
+Images:1881
+First:26.07.2025 11:04:26
+Last:26.07.2025 13:44:50
+Duration:02:40:24
+</desc></wpt>
+<wpt lat = "47.29290" lon = "10.15338"><name>LKE1</name><desc>Start
+Images:246
+First:26.07.2025 09:27:31
+Last:26.07.2025 10:00:28
+Duration:00:32:57
+</desc></wpt>
+<wpt lat = "47.30963" lon = "10.12165"><name>LKE2</name><desc>Finish
+Images:1901
+First:26.07.2025 10:00:11
+Last:26.07.2025 13:58:14
+Duration:03:58:03
+</desc></wpt>
+</gpx>

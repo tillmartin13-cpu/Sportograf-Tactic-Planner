@@ -1,0 +1,46 @@
+EventId: 13013
+Spots: 8
+Total Images: 5469
+Time:	01.01.0001 23:00:00 to 01.02.2024 07:05:14
+Duration: 738915.08:05:14
+
+(1) - Impressions / Pano
+	PANO1
+(2) - none
+	KWIL1
+		Images:	467
+		Time:	01.02.2024 04:59:58 until 01.02.2024 06:06:09
+		Duration:	01:06:11
+		Location:	NULL NULL
+
+	OBFR1
+		Images:	516
+		Time:	31.12.2006 19:00:23 until 01.02.2024 06:08:59
+		Duration:	6240.11:08:36
+		Location:	NULL NULL
+
+	OBKRO1
+		Images:	1693
+		Time:	01.02.2024 05:30:28 until 01.02.2024 06:09:38
+		Duration:	00:39:10
+		Location:	NULL NULL
+
+	OBKRO1LS1
+		Images:	1616
+		Time:	01.02.2024 06:33:59 until 01.02.2024 07:05:14
+		Duration:	00:31:15
+		Location:	NULL NULL
+
+	OTWA1
+		Images:	354
+		Time:	01.02.2024 05:06:09 until 01.02.2024 06:08:35
+		Duration:	01:02:26
+		Location:	NULL NULL
+
+	SGENT1
+		Images:	823
+		Time:	01.01.0001 23:00:00 until 01.02.2024 05:02:41
+		Duration:	738915.06:02:41
+		Location:	NULL NULL
+
+	SGENT1LS1

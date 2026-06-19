@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "42.46562" lon = "-2.4763"><name>S1TGM1</name><desc>Etapa 1 - Salida
+Images:5525
+First:16.05.2025 14:59:57
+Last:16.05.2025 17:27:50
+Duration:02:27:53
+</desc></wpt>
+<wpt lat = "42.46562" lon = "-2.4763"><name>S1TGM1LS1</name><desc>Etapa 1 - Salida
+Images:959
+First:16.05.2025 14:59:59
+Last:16.05.2025 19:02:03
+Duration:04:02:04
+</desc></wpt>
+<wpt lat = "42.48732" lon = "-2.51349"><name>S1PARO1LS1</name><desc>Etapa 1 - Km 5.6
+Images:545
+First:16.05.2025 14:43:29
+Last:16.05.2025 17:56:26
+Duration:03:12:57
+</desc></wpt>
+<wpt lat = "42.48723" lon = "-2.5136"><name>S1PARO1LS2</name><desc>Etapa 1 - Km 5.8
+Images:551
+First:16.05.2025 14:43:34
+Last:16.05.2025 17:56:32
+Duration:03:12:58
+</desc></wpt>
+<wpt lat = "42.48723" lon = "-2.5136"><name>S1PARO1</name><desc>Etapa 1 - Km 5.9
+Images:5080
+First:16.05.2025 15:11:05
+Last:16.05.2025 17:45:48
+Duration:02:34:43
+</desc></wpt>
+<wpt lat = "42.46562" lon = "-2.4763"><name>S1PARO1DRONE1</name><desc>Impressions / Pano
+Images:5
+First:16.05.2025 17:50:31
+Last:16.05.2025 18:56:48
+Duration:01:06:17
+</desc></wpt>
+<wpt lat = "42.46562" lon = "-2.4763"><name>PANO1</name><desc>Impressions / Pano
+Images:4
+First:01.01.0001 23:00:00
+Last:17.05.2025 20:49:51
+Duration:739386.21:49:51
+</desc></wpt>
+<wpt lat = "42.29383" lon = "-2.54316"><name>S2PARO1DRONE1</name><desc>Impressions / Pano
+Images:5
+First:17.05.2025 10:31:09
+Last:17.05.2025 11:19:06
+Duration:00:47:57
+</desc></wpt>
+<wpt lat = "42.46562" lon = "-2.4763"><name>S2MANR1DRONE1</name><desc>Impressions / Pano
+Images:15
+First:17.05.2025 10:24:40
+Last:17.05.2025 14:03:52
+Duration:03:39:12
+</desc></wpt>
+<wpt lat = "42.41760" lon = "-2.50504"><name>S3PARO2DRONE1</name><desc>Impressions / Pano
+Images:8
+First:18.05.2025 11:51:35
+Last:18.05.2025 12:45:00
+Duration:00:53:25
+</desc></wpt>
+<wpt lat = "42.41898" lon = "-2.50313"><name>S3MANR2DRONE1</name><desc>Impressions / Pano
+Images:4
+First:18.05.2025 10:21:13
+Last:18.05.2025 13:11:12
+Duration:02:49:59
+</desc></wpt>
+<wpt lat = "42.45202" lon = "-2.50992"><name>S1MANR1</name><desc>Etapa 1 - Km 19.5
+Images:1044
+First:16.05.2025 12:46:33
+Last:16.05.2025 18:49:53
+Duration:06:03:20
+</desc></wpt>
+<wpt lat = "42.45202" lon = "-2.50992"><name>S1MANR1LS1</name><desc>Etapa 1 - Km 19.5
+Images:1099
+First:16.05.2025 13:01:38
+Last:16.05.2025 18:49:39
+Duration:05:48:01
+</desc></wpt>
+<wpt lat = "42.45195" lon = "-2.51015"><name>S1MANR1LS2</name><desc>Etapa 1 - Km 19.7
+Images:894
+First:16.05.2025 15:16:05
+Last:16.05.2025 17:55:57
+Duration:02:39:52
+</desc></wpt>
+<wpt lat = "42.33512" lon = "-2.49945"><name>S2MANR1</name><desc>Etapa 2 - Km 18.2
+Images:506
+First:17.05.2025 09:19:02
+Last:17.05.2025 10:28:56
+Duration:01:09:54
+</desc></wpt>
+<wpt lat = "42.30336" lon = "-2.53612"><name>S2TGM1LS1</name><desc>Etapa 2 - Km 23.6
+Images:1521
+First:17.05.2025 09:56:18
+Last:17.05.2025 11:00:44
+Duration:01:04:26
+</desc></wpt>
+<wpt lat = "42.30255" lon = "-2.53874"><name>S2TGM1LS2</name><desc>Etapa 2 - Km 23.8
+Images:1297
+First:17.05.2025 09:36:28
+Last:17.05.2025 11:03:49
+Duration:01:27:21
+</desc></wpt>
+<wpt lat = "42.30152" lon = "-2.53633"><name>S2TGM1</name><desc>Etapa 2 - Km 23.9
+Images:2165
+First:17.05.2025 10:21:16
+Last:17.05.2025 11:07:33
+Duration:00:46:17
+</desc></wpt>
+<wpt lat = "42.29423" lon = "-2.54396"><name>S2PARO1LS1</name><desc>Etapa 2 - Km 25.3
+Images:892
+First:17.05.2025 09:19:32
+Last:17.05.2025 11:22:10
+Duration:02:02:38
+</desc></wpt>
+<wpt lat = "42.29383" lon = "-2.54316"><name>S2PARO1</name><desc>Etapa 2 - Km 25.5
+Images:4085
+First:17.05.2025 10:26:23
+Last:17.05.2025 11:20:05
+Duration:00:53:42
+</desc></wpt>
+<wpt lat = "42.29383" lon = "-2.54316"><name>S2PARO1LS2</name><desc>Etapa 2 - Km 25.7
+Images:942
+First:17.05.2025 09:57:37
+Last:17.05.2025 11:32:57
+Duration:01:35:20
+</desc></wpt>
+<wpt lat = "42.33543" lon = "-2.47807"><name>S2MANR2</name><desc>Etapa 2 - Km 55.7
+Images:513
+First:17.05.2025 11:18:13
+Last:17.05.2025 15:07:52
+Duration:03:49:39
+</desc></wpt>
+<wpt lat = "42.42130" lon = "-2.49564"><name>S2TGM2</name><desc>Etapa 2 - Km 69.3
+Images:2778
+First:17.05.2025 12:53:49
+Last:17.05.2025 16:00:36
+Duration:03:06:47
+</desc></wpt>
+<wpt lat = "42.42142" lon = "-2.49615"><name>S2TGM2LS1</name><desc>Etapa 2 - Km 69.5
+Images:666
+First:17.05.2025 12:08:22
+Last:17.05.2025 16:06:43
+Duration:03:58:21
+</desc></wpt>
+<wpt lat = "42.42142" lon = "-2.49663"><name>S2TGM2LS2</name><desc>Etapa 2 - Km 69.7
+Images:514
+First:17.05.2025 12:36:14
+Last:17.05.2025 14:46:34
+Duration:02:10:20
+</desc></wpt>
+<wpt lat = "42.36599" lon = "-2.52626"><name>S3MANR1</name><desc>Etapa 3 - Km 17.5
+Images:451
+First:18.05.2025 10:06:25
+Last:18.05.2025 10:36:50
+Duration:00:30:25
+</desc></wpt>
+<wpt lat = "42.36638" lon = "-2.52737"><name>S3MANR1LS2</name><desc>Etapa 3 - Km 17.7
+Images:760
+First:18.05.2025 09:50:48
+Last:18.05.2025 10:43:06
+Duration:00:52:18
+</desc></wpt>
+<wpt lat = "42.36638" lon = "-2.52737"><name>S3MANR1LS1</name><desc>Etapa 3 - Km 17.7
+Images:696
+First:18.05.2025 10:05:18
+Last:18.05.2025 10:43:06
+Duration:00:37:48
+</desc></wpt>
+<wpt lat = "42.36002" lon = "-2.54525"><name>S3PARO1LS1</name><desc>Etapa 3 - Km 19.1
+Images:1040
+First:18.05.2025 09:35:55
+Last:18.05.2025 10:56:48
+Duration:01:20:53
+</desc></wpt>
+<wpt lat = "42.36002" lon = "-2.54525"><name>S3PARO1</name><desc>Etapa 3 - Km 19.3
+Images:3429
+First:18.05.2025 10:11:58
+Last:18.05.2025 10:51:28
+Duration:00:39:30
+</desc></wpt>
+<wpt lat = "42.36002" lon = "-2.54525"><name>S3PARO1LS2</name><desc>Etapa 3 - Km 19.3
+Images:988
+First:18.05.2025 10:02:10
+Last:18.05.2025 10:54:48
+Duration:00:52:38
+</desc></wpt>
+<wpt lat = "42.41760" lon = "-2.50504"><name>S3PARO2</name><desc>Etapa 3 - Km 42
+Images:4101
+First:18.05.2025 11:35:23
+Last:18.05.2025 13:49:19
+Duration:02:13:56
+</desc></wpt>
+<wpt lat = "42.41898" lon = "-2.50313"><name>S3MANR2</name><desc>Etapa 3 - Km 42.5
+Images:2318
+First:18.05.2025 11:33:13
+Last:18.05.2025 13:50:25
+Duration:02:17:12
+</desc></wpt>
+<wpt lat = "42.45354" lon = "-2.45574"><name>S3TGM1</name><desc>Etapa 3 - Meta
+Images:5083
+First:18.05.2025 08:53:36
+Last:18.05.2025 14:18:27
+Duration:05:24:51
+</desc></wpt>
+<wpt lat = "42.45354" lon = "-2.45574"><name>S3TGM1LS1</name><desc>Etapa 3 - Meta
+Images:463
+First:18.05.2025 11:33:10
+Last:18.05.2025 14:12:56
+Duration:02:39:46
+</desc></wpt>
+</gpx>

@@ -1,0 +1,161 @@
+EventId: 11967
+Spots: 25
+Total Images: 121180
+Time:	09.02.2024 19:58:24 to 10.02.2024 12:24:07
+Duration: 16:25:43
+
+(1) - 1.0 km 21k, 42k
+	MDS1
+		Images:	7809
+		Time:	10.02.2024 05:40:24 until 10.02.2024 11:20:57
+		Duration:	05:40:33
+		Location:	24.77918 46.59640
+
+(2) - 1.0 km 4k, 10k, 21k, 42k
+	BUR1
+		Images:	7390
+		Time:	10.02.2024 05:38:58 until 10.02.2024 10:52:17
+		Duration:	05:13:19
+		Location:	24.77915 46.59650
+
+	BUR1LS1
+		Images:	1028
+		Time:	10.02.2024 06:56:06 until 10.02.2024 10:59:22
+		Duration:	04:03:16
+		Location:	24.78087 46.59502
+
+(3) - 10.0 km 21k, 42k
+	MUP1
+		Images:	5684
+		Time:	10.02.2024 06:22:27 until 10.02.2024 10:29:20
+		Duration:	04:06:53
+		Location:	24.75598 46.55875
+
+	SA1
+		Images:	4651
+		Time:	10.02.2024 06:08:30 until 10.02.2024 10:21:58
+		Duration:	04:13:28
+		Location:	24.75195 46.55602
+
+	SA1LS1
+		Images:	1539
+		Time:	10.02.2024 06:09:10 until 10.02.2024 09:47:01
+		Duration:	03:37:51
+		Location:	24.75195 46.55602
+
+	SA1LS2
+		Images:	3049
+		Time:	10.02.2024 06:08:56 until 10.02.2024 09:47:01
+		Duration:	03:38:05
+		Location:	24.75195 46.55602
+
+(4) - 11.0 km 21k, 42k
+	GOR1
+		Images:	5057
+		Time:	09.02.2024 19:58:24 until 10.02.2024 11:16:11
+		Duration:	15:17:47
+		Location:	24.75651 46.56141
+
+	GOR1LS1
+		Images:	1940
+		Time:	09.02.2024 20:06:38 until 10.02.2024 10:40:05
+		Duration:	14:33:27
+		Location:	24.75651 46.56141
+
+(5) - 20.0 km 21k, 42k
+	GSH1
+		Images:	2333
+		Time:	10.02.2024 06:23:59 until 10.02.2024 11:59:31
+		Duration:	05:35:32
+		Location:	24.78653 46.60227
+
+	TAA1
+		Images:	9334
+		Time:	10.02.2024 04:54:46 until 10.02.2024 11:47:41
+		Duration:	06:52:55
+		Location:	24.78653 46.60227
+
+(6) - 3.0 km 21k, 42k
+	ATA1
+		Images:	9147
+		Time:	10.02.2024 05:55:07 until 10.02.2024 10:42:25
+		Duration:	04:47:18
+		Location:	24.77553 46.57368
+
+(7) - 4.5 km 21k, 42k
+	DR1
+		Images:	14551
+		Time:	10.02.2024 06:04:16 until 10.02.2024 09:59:44
+		Duration:	03:55:28
+		Location:	24.76518 46.56570
+
+	DR1LS1
+		Images:	5382
+		Time:	10.02.2024 06:00:17 until 10.02.2024 09:31:47
+		Duration:	03:31:30
+		Location:	24.76518 46.56570
+
+	DR1LS2
+		Images:	4535
+		Time:	10.02.2024 06:00:18 until 10.02.2024 09:32:03
+		Duration:	03:31:45
+		Location:	24.76518 46.56570
+
+(8) - 9.0 km 21k, 42k
+	ARP1
+		Images:	5104
+		Time:	10.02.2024 06:11:43 until 10.02.2024 10:23:48
+		Duration:	04:12:05
+		Location:	24.74912 46.55683
+
+	ARP1LS1
+		Images:	1917
+		Time:	10.02.2024 06:31:40 until 10.02.2024 10:24:05
+		Duration:	03:52:25
+		Location:	24.74912 46.55683
+
+	ARP1LS2
+		Images:	1616
+		Time:	10.02.2024 06:58:34 until 10.02.2024 10:25:05
+		Duration:	03:26:31
+		Location:	24.74912 46.55683
+
+(9) - Finish
+	AAM1
+		Images:	5254
+		Time:	10.02.2024 06:37:58 until 10.02.2024 12:18:31
+		Duration:	05:40:33
+		Location:	24.78521 46.60958
+
+	FAH1
+		Images:	3795
+		Time:	10.02.2024 06:31:19 until 10.02.2024 12:04:13
+		Duration:	05:32:54
+		Location:	24.78570 46.61094
+
+	GURU1
+		Images:	1992
+		Time:	10.02.2024 05:45:19 until 10.02.2024 11:37:05
+		Duration:	05:51:46
+		Location:	24.78510 46.60960
+
+	HTA1
+		Images:	11385
+		Time:	09.02.2024 23:36:11 until 10.02.2024 12:24:07
+		Duration:	12:47:56
+		Location:	24.78529 46.61006
+
+	HTA1LS1
+		Images:	1956
+		Time:	10.02.2024 06:29:11 until 10.02.2024 09:09:02
+		Duration:	02:39:51
+		Location:	24.78529 46.61006
+
+	NIZ1
+		Images:	4732
+		Time:	09.02.2024 21:49:17 until 10.02.2024 12:17:08
+		Duration:	14:27:51
+		Location:	24.78570 46.61094
+
+(10) - Impressions / Pano
+	PANO1

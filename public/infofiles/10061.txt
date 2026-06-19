@@ -1,0 +1,407 @@
+EventId: 10061
+Spots: 63
+Total Images: 120634
+Time:	06.10.2023 07:45:33 to 06.10.2023 21:12:56
+Duration: 13:27:23
+
+(1) - 11.5 km Enduroc
+	PKA2
+		Images:	685
+		Time:	06.10.2023 13:46:54 until 06.10.2023 16:43:56
+		Duration:	02:57:02
+		Location:	43.42247 6.61047
+
+(2) - 16.5 km Marathon / Roc Trophy / Multi Roc
+	COR1
+		Images:	3087
+		Time:	06.10.2023 08:12:35 until 06.10.2023 09:56:31
+		Duration:	01:43:56
+		Location:	43.39686 6.64873
+
+	COR1LS1
+		Images:	2890
+		Time:	06.10.2023 08:14:11 until 06.10.2023 09:52:49
+		Duration:	01:38:38
+		Location:	43.39686 6.64873
+
+	COR1LS2
+		Images:	821
+		Time:	06.10.2023 08:09:52 until 06.10.2023 08:30:19
+		Duration:	00:20:27
+		Location:	43.39686 6.64873
+
+(3) - 17.3km Estere24k, 49.5 km esterel 56k, 23.2km esterel 30k, 41.7 esterel 49k, 40.4km esterel 48k, 64.3km gravel esterel70k
+	HS2
+		Images:	797
+		Time:	06.10.2023 13:51:25 until 06.10.2023 17:00:27
+		Duration:	03:09:02
+		Location:	43.45592 6.83065
+
+(4) - 17.7 km esterel 56k, 17.7km esterel 48km, 17.7km gravel esterel 70k, 17.7km esterel 49k
+	BRN1
+		Images:	1464
+		Time:	06.10.2023 08:59:50 until 06.10.2023 15:51:28
+		Duration:	06:51:38
+		Location:	43.47963 6.79330
+
+	BRN1LS1
+		Images:	1860
+		Time:	06.10.2023 08:59:58 until 06.10.2023 16:44:04
+		Duration:	07:44:06
+		Location:	43.47963 6.79330
+
+(5) - 18.3km Estere24k, 42km esterel 56k, 42km esterel 30k, 42km esterel 48km, 42km esterel 49k, 42km gravel esterel 70km
+	ROB2
+		Images:	37
+		Time:	06.10.2023 16:36:38 until 06.10.2023 17:01:23
+		Duration:	00:24:45
+		Location:	43.45507 6.83183
+
+	ROB2LS1
+		Images:	61
+		Time:	06.10.2023 16:16:20 until 06.10.2023 17:02:31
+		Duration:	00:46:11
+		Location:	43.45507 6.83183
+
+(6) - 21.0 km Enduroc
+	JH3
+		Images:	531
+		Time:	06.10.2023 16:13:57 until 06.10.2023 18:00:27
+		Duration:	01:46:30
+		Location:	43.43420 6.63134
+
+(7) - 22.0 km esterel 56k, 22.0km esterel 48km, 22.0km gravel esterel 70k, 22.0km esterel 49k
+	MLU1
+		Images:	4520
+		Time:	06.10.2023 09:10:06 until 06.10.2023 13:53:50
+		Duration:	04:43:44
+		Location:	43.48740 6.80313
+
+	MLU1LS1
+		Images:	966
+		Time:	06.10.2023 08:45:05 until 06.10.2023 13:41:25
+		Duration:	04:56:20
+		Location:	43.48706 6.80341
+
+	MLU1LS2
+		Images:	1592
+		Time:	06.10.2023 08:57:27 until 06.10.2023 14:02:52
+		Duration:	05:05:25
+		Location:	43.48706 6.80341
+
+(8) - 25km etsterel 56km, 25km esterel 48km, 25km esterel gravel70k, 25km esterel 49k
+	ROB1
+		Images:	1777
+		Time:	06.10.2023 08:22:21 until 06.10.2023 14:26:46
+		Duration:	06:04:25
+		Location:	43.49771 6.81382
+
+	ROB1LS1
+		Images:	328
+		Time:	06.10.2023 08:53:36 until 06.10.2023 14:25:51
+		Duration:	05:32:15
+		Location:	43.49716 6.81426
+
+	ROB1LS2
+		Images:	486
+		Time:	06.10.2023 08:52:12 until 06.10.2023 14:32:49
+		Duration:	05:40:37
+		Location:	43.49716 6.81426
+
+(9) - 32.0 km Marathon / Roc Trophy / Multi Roc
+	PKA1
+		Images:	2028
+		Time:	06.10.2023 08:29:42 until 06.10.2023 12:17:18
+		Duration:	03:47:36
+		Location:	43.44002 6.62077
+
+(10) - 38.0 km Marathon / Roc Trophy / Multi Roc
+	JH1
+		Images:	5582
+		Time:	06.10.2023 09:01:46 until 06.10.2023 12:26:51
+		Duration:	03:25:05
+		Location:	43.43819 6.60337
+
+	JH1LS1
+		Images:	2997
+		Time:	06.10.2023 08:45:29 until 06.10.2023 14:09:54
+		Duration:	05:24:25
+		Location:	43.43819 6.60337
+
+	JH1LS2
+		Images:	2256
+		Time:	06.10.2023 08:54:22 until 06.10.2023 12:34:49
+		Duration:	03:40:27
+		Location:	43.43819 6.60337
+
+(11) - 43.0km esterel 56km, 43.0km esterel 48km, 56.5km esterel gravel 70km, 36km etserel 49km
+	MAGA1
+		Images:	2109
+		Time:	06.10.2023 10:26:21 until 06.10.2023 16:43:16
+		Duration:	06:16:55
+		Location:	43.46656 6.86123
+
+	MAGA1LS1
+		Images:	1254
+		Time:	06.10.2023 09:07:18 until 06.10.2023 16:43:01
+		Duration:	07:35:43
+		Location:	43.46656 6.86123
+
+(12) - 45.5km esterel 56km, 36.5km esterel 48km, 59.5km esterel gravel 70km, 37.5km etserel 49km
+	MATR1
+		Images:	2334
+		Time:	06.10.2023 08:26:39 until 06.10.2023 16:47:06
+		Duration:	08:20:27
+		Location:	43.47039 6.85617
+
+	MATR1LS1
+		Images:	1255
+		Time:	06.10.2023 08:02:31 until 06.10.2023 16:50:38
+		Duration:	08:48:07
+		Location:	43.47039 6.85617
+
+(13) - 57.0 km Marathon / Roc Trophy / Multi Roc
+	COR2
+		Images:	3865
+		Time:	06.10.2023 10:21:24 until 06.10.2023 15:12:13
+		Duration:	04:50:49
+		Location:	43.40578 6.64748
+
+	COR2LS1
+		Images:	1390
+		Time:	06.10.2023 10:14:41 until 06.10.2023 14:43:16
+		Duration:	04:28:35
+		Location:	43.40578 6.64748
+
+	COR2LS2
+		Images:	731
+		Time:	06.10.2023 10:08:29 until 06.10.2023 14:56:05
+		Duration:	04:47:36
+		Location:	43.40578 6.64748
+
+(14) - 69.0 km Marathon / Roc Trophy / Multi Roc
+	MIFP1
+		Images:	3961
+		Time:	06.10.2023 10:28:22 until 06.10.2023 16:38:30
+		Duration:	06:10:08
+		Location:	43.36719 6.66645
+
+	MIFP1LS1
+		Images:	1538
+		Time:	06.10.2023 10:19:01 until 06.10.2023 16:42:01
+		Duration:	06:23:00
+		Location:	43.36719 6.66645
+
+(15) - 70.0 km Marathon / Roc Trophy / Multi Roc
+	MANR1
+		Images:	12889
+		Time:	06.10.2023 10:36:06 until 06.10.2023 16:47:43
+		Duration:	06:11:37
+		Location:	43.36773 6.67652
+
+	MANR1LS1
+		Images:	5718
+		Time:	06.10.2023 09:43:24 until 06.10.2023 16:47:54
+		Duration:	07:04:30
+		Location:	43.36773 6.67652
+
+(16) - 8.5km Marathon/  Trophy#3 / Multi Roc Chalange
+	EP1
+		Images:	2078
+		Time:	06.10.2023 07:52:12 until 06.10.2023 09:42:08
+		Duration:	01:49:56
+		Location:	43.39110 6.69655
+
+(17) - 83.0km Marathon / Roc Trophy / Multi Roc, 25.5km Odessey
+	DARO1
+		Images:	1416
+		Time:	06.10.2023 11:14:10 until 06.10.2023 18:08:31
+		Duration:	06:54:21
+		Location:	43.40132 6.70868
+
+	DARO1LS1
+		Images:	1956
+		Time:	06.10.2023 10:27:42 until 06.10.2023 17:37:09
+		Duration:	07:09:27
+		Location:	43.40132 6.70868
+
+	DARO1LS2
+		Images:	2040
+		Time:	06.10.2023 10:29:45 until 06.10.2023 18:13:27
+		Duration:	07:43:42
+		Location:	43.40132 6.70868
+
+(18) - 86.5km Marathon / Roc Trophy / Multi Roc, 25.5km Odessey
+	JJPT1
+		Images:	1917
+		Time:	06.10.2023 10:45:11 until 06.10.2023 18:08:17
+		Duration:	07:23:06
+		Location:	43.40130 6.70704
+
+	JJPT1LS1
+		Images:	2150
+		Time:	06.10.2023 10:30:46 until 06.10.2023 17:52:31
+		Duration:	07:21:45
+		Location:	43.40130 6.70704
+
+	JJPT1LS2
+		Images:	3115
+		Time:	06.10.2023 11:05:43 until 06.10.2023 18:11:17
+		Duration:	07:05:34
+		Location:	43.40130 6.70704
+
+	JLTG1
+		Images:	1999
+		Time:	06.10.2023 10:46:26 until 06.10.2023 17:51:03
+		Duration:	07:04:37
+		Location:	43.39037 6.73219
+
+	JLTG1LS1
+		Images:	1708
+		Time:	06.10.2023 10:39:36 until 06.10.2023 16:55:33
+		Duration:	06:15:57
+		Location:	43.39037 6.73219
+
+	JLTG1LS2
+		Images:	2872
+		Time:	06.10.2023 10:37:30 until 06.10.2023 16:33:16
+		Duration:	05:55:46
+		Location:	43.39037 6.73219
+
+(19) - 87.0 Marathon / Roc Trophy / Multi Roc, 26.0km Odessey
+	STO1
+		Images:	3265
+		Time:	06.10.2023 11:17:59 until 06.10.2023 17:53:36
+		Duration:	06:35:37
+		Location:	43.39264 6.72561
+
+	STO1LS1
+		Images:	2148
+		Time:	06.10.2023 11:18:15 until 06.10.2023 17:53:36
+		Duration:	06:35:21
+		Location:	43.39264 6.72561
+
+(20) - 9.0 km Enduroc
+	JH2
+		Images:	934
+		Time:	06.10.2023 13:44:42 until 06.10.2023 15:27:58
+		Duration:	01:43:16
+		Location:	43.41115 6.61880
+
+	JH2LS1
+		Images:	1585
+		Time:	06.10.2023 13:23:46 until 06.10.2023 15:44:58
+		Duration:	02:21:12
+		Location:	43.41115 6.61880
+
+	JH2LS2
+		Images:	780
+		Time:	06.10.2023 13:22:48 until 06.10.2023 15:05:16
+		Duration:	01:42:28
+		Location:	43.41115 6.61880
+
+(21) - 9km Estere24k, 9km esterel 56k, 9km esterel 30k, 9km esterel 48km, 9km esterel 49k, 9km gravel esterel 70km
+	HS1
+		Images:	1279
+		Time:	06.10.2023 08:30:52 until 06.10.2023 12:59:30
+		Duration:	04:28:38
+		Location:	43.45710 6.82875
+
+	HS1DRONE1
+		Images:	55
+		Time:	06.10.2023 09:18:12 until 06.10.2023 12:15:10
+		Duration:	02:56:58
+		Location:	43.45710 6.82875
+
+	HS1LS1
+		Images:	2929
+		Time:	06.10.2023 07:53:13 until 06.10.2023 13:06:20
+		Duration:	05:13:07
+		Location:	43.45710 6.82875
+
+	HS1LS2
+		Images:	2572
+		Time:	06.10.2023 08:56:15 until 06.10.2023 13:05:09
+		Duration:	04:08:54
+		Location:	43.45710 6.82875
+
+(22) - Finish
+	ZIEL1
+		Images:	3382
+		Time:	06.10.2023 11:28:47 until 06.10.2023 18:36:08
+		Duration:	07:07:21
+		Location:	43.41950 6.73749
+
+(23) - Impressions / Pano
+	COR1DRONE1
+		Images:	23
+		Time:	06.10.2023 07:45:33 until 06.10.2023 09:46:20
+		Duration:	02:00:47
+		Location:	43.39686 6.64873
+
+	DARO1DRONE1
+		Images:	12
+		Time:	06.10.2023 11:40:32 until 06.10.2023 11:51:04
+		Duration:	00:10:32
+		Location:	43.40132 6.70868
+
+	MATR1DRONE1
+		Images:	20
+		Time:	06.10.2023 08:30:13 until 06.10.2023 08:41:01
+		Duration:	00:10:48
+		Location:	43.47039 6.85617
+
+	MLU1DRONE1
+		Images:	26
+		Time:	06.10.2023 09:52:51 until 06.10.2023 12:23:04
+		Duration:	02:30:13
+		Location:	43.48740 6.80313
+
+	PANO1
+(24) - km 8.8 Rando Odyssey
+	EP2LS1
+		Images:	1317
+		Time:	06.10.2023 14:00:14 until 06.10.2023 15:43:21
+		Duration:	01:43:07
+		Location:	43.38929 6.69337
+
+	EP2LS2
+		Images:	1308
+		Time:	06.10.2023 14:05:39 until 06.10.2023 15:42:32
+		Duration:	01:36:53
+		Location:	43.38929 6.69337
+
+(25) - km 9.1 Rando Odyssey
+	EP2
+		Images:	1491
+		Time:	06.10.2023 14:19:41 until 06.10.2023 15:40:21
+		Duration:	01:20:40
+		Location:	43.38929 6.69337
+
+(26) - km87.0 Marathon, km29.1 Odyssey
+	BATI1
+		Images:	2934
+		Time:	06.10.2023 11:22:14 until 06.10.2023 18:23:19
+		Duration:	07:01:05
+		Location:	43.38786 6.69206
+
+(27) - Roc Ruelles de Frejus
+	MANR2
+		Images:	741
+		Time:	06.10.2023 18:43:09 until 06.10.2023 21:10:01
+		Duration:	02:26:52
+		Location:	43.43362 6.73724
+
+	MIFP2
+		Images:	554
+		Time:	06.10.2023 18:46:16 until 06.10.2023 21:12:56
+		Duration:	02:26:40
+		Location:	43.43362 6.73724
+
+(28) - Start
+	START1
+		Images:	219
+		Time:	06.10.2023 08:06:35 until 06.10.2023 08:24:07
+		Duration:	00:17:32
+		Location:	43.41950 6.73749
+

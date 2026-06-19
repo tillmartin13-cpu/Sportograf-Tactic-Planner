@@ -1,0 +1,260 @@
+EventId: 12596
+Spots: 37
+Total Images: 189777
+Time:	01.01.0001 23:00:00 to 27.11.2023 02:07:01
+Duration: 738849.03:07:01
+
+(1) - 0.0 km 853499 - 2036 - PR's - Phillip Reyes
+	OPRPR1
+		Images:	195
+		Time:	26.11.2023 05:13:39 until 26.11.2023 06:29:57
+		Duration:	01:16:18
+		Location:	NULL NULL
+
+(2) - 0.0 km 853500 - 2481 - Start - Phillip Reyes
+	OSTPR1
+		Images:	330
+		Time:	26.11.2023 06:00:25 until 26.11.2023 06:36:45
+		Duration:	00:36:20
+		Location:	NULL NULL
+
+(3) - 0.0 km 853501 - 1207 - Expo - Phillip Reyes
+	EPRE1
+		Images:	422
+		Time:	25.11.2023 12:15:46 until 25.11.2023 13:49:31
+		Duration:	01:33:45
+		Location:	NULL NULL
+
+(4) - 0.0 km 853502 - 1202 - Finish - Phillip Reyes
+	OFPR1
+		Images:	10649
+		Time:	26.11.2023 07:37:11 until 26.11.2023 14:24:27
+		Duration:	06:47:16
+		Location:	NULL NULL
+
+(5) - 0.0 km 853504 - 1142 - Finish - Trigger Right Side
+	EFIT1
+		Images:	18572
+		Time:	26.11.2023 07:05:19 until 26.11.2023 12:48:26
+		Duration:	05:43:07
+		Location:	NULL NULL
+
+(6) - 0.0 km 853504 - 1188 - Finish - Trigger Left Side
+	EFIT2
+		Images:	21060
+		Time:	26.11.2023 11:02:03 until 26.11.2023 17:33:42
+		Duration:	06:31:39
+		Location:	NULL NULL
+
+(7) - 0.0 km 853505 - 1199 - MSC4 - Trigger
+	OFOT1
+		Images:	9540
+		Time:	26.11.2023 10:58:57 until 26.11.2023 15:35:35
+		Duration:	04:36:38
+		Location:	NULL NULL
+
+(8) - 0.0 km 853506 - 2010 - MSC1 - Irene Calder
+	EICO1
+		Images:	1762
+		Time:	26.11.2023 08:34:43 until 26.11.2023 09:41:16
+		Duration:	01:06:33
+		Location:	NULL NULL
+
+(9) - 0.0 km 853507 - 2188 - MSC1 - John Eastep
+	EJEO1
+		Images:	935
+		Time:	26.11.2023 07:03:22 until 26.11.2023 07:53:31
+		Duration:	00:50:09
+		Location:	NULL NULL
+
+(10) - 0.0 km 853508 - 2494 - MSC6 - John Eastep
+	OSIJE1
+		Images:	8813
+		Time:	26.11.2023 08:26:03 until 26.11.2023 14:42:28
+		Duration:	06:16:25
+		Location:	NULL NULL
+
+(11) - 0.0 km 853509 - 2018 - MSC6 - Aaron Benson
+	OSIAB1
+		Images:	5433
+		Time:	26.11.2023 08:53:13 until 26.11.2023 10:51:25
+		Duration:	01:58:12
+		Location:	NULL NULL
+
+(12) - 0.0 km 853509 - 2370 - MSC6 - Aaron Benson
+	OSIAB3
+		Images:	1528
+		Time:	26.11.2023 10:57:00 until 26.11.2023 13:39:12
+		Duration:	02:42:12
+		Location:	NULL NULL
+
+(13) - 0.0 km 853509 - 2443 - MSC6 - Aaron Benson
+	OSIAB2
+		Images:	5797
+		Time:	26.11.2023 07:35:55 until 26.11.2023 08:51:13
+		Duration:	01:15:18
+		Location:	NULL NULL
+
+(14) - 0.0 km 853512 - 1002 - MSC3 - Trigger
+	OTHKN2
+		Images:	8609
+		Time:	25.11.2023 22:30:06 until 26.11.2023 11:43:19
+		Duration:	13:13:13
+		Location:	NULL NULL
+
+(15) - 0.0 km 853512 - 1223 - MSC3 - Trigger
+	OTHKN1
+		Images:	1038
+		Time:	26.11.2023 11:46:18 until 26.11.2023 12:05:27
+		Duration:	00:19:09
+		Location:	NULL NULL
+
+(16) - 0.0 km 853513 - 1124 - MSC1 - Desmond Tan
+	EDTO1
+		Images:	303
+		Time:	26.11.2023 06:02:09 until 26.11.2023 06:41:45
+		Duration:	00:39:36
+		Location:	NULL NULL
+
+(17) - 0.0 km 853514 - 2394 - MSC1 - John Hong
+	EJHO1
+		Images:	1002
+		Time:	26.11.2023 07:00:26 until 26.11.2023 07:39:47
+		Duration:	00:39:21
+		Location:	NULL NULL
+
+(18) - 0.0 km 853515 - 1235 - PREFIN - Desmond Tan
+	EDTPF1
+		Images:	11030
+		Time:	26.11.2023 07:37:11 until 26.11.2023 10:46:32
+		Duration:	03:09:21
+		Location:	NULL NULL
+
+(19) - 0.0 km 853515 - 1259 - PREFIN - Desmond Tan
+	EDTPF2
+		Images:	2184
+		Time:	26.11.2023 10:47:32 until 26.11.2023 13:42:34
+		Duration:	02:55:02
+		Location:	NULL NULL
+
+(20) - 0.0 km 853516 - 2409 - PREFIN - John Hong
+	EJHPF1
+		Images:	11660
+		Time:	26.11.2023 08:35:36 until 26.11.2023 13:13:47
+		Duration:	04:38:11
+		Location:	NULL NULL
+
+(21) - 0.0 km 853517 - 1066 - PREFIN - Trigger
+	EFNT1
+		Images:	17167
+		Time:	26.11.2023 07:15:43 until 26.11.2023 12:26:38
+		Duration:	05:10:55
+		Location:	NULL NULL
+
+(22) - 0.0 km 853518 - 2032 - Medals - Elizabeth Weddon
+	OMEW1
+		Images:	1475
+		Time:	26.11.2023 11:23:33 until 26.11.2023 15:12:20
+		Duration:	03:48:47
+		Location:	NULL NULL
+
+(23) - 0.0 km 853518 - 2327 - Medals - Elizabeth Weddon
+	OMEW3
+		Images:	426
+		Time:	26.11.2023 01:31:58 until 26.11.2023 13:57:36
+		Duration:	12:25:38
+		Location:	NULL NULL
+
+(24) - 0.0 km 853518 - 2432 - Medals - Elizabeth Weddon
+	OMEW2
+		Images:	279
+		Time:	26.11.2023 13:58:31 until 26.11.2023 18:08:15
+		Duration:	04:09:44
+		Location:	NULL NULL
+
+(25) - 0.0 km 853519 - 2414 - Medals - Aaron Horner
+	OMAH1
+		Images:	1164
+		Time:	26.11.2023 08:35:31 until 26.11.2023 13:04:01
+		Duration:	04:28:30
+		Location:	NULL NULL
+
+(26) - 0.0 km 853526 - 2319 - MSC2 - Steven Schimmelman
+	OTWSS1
+		Images:	2414
+		Time:	26.11.2023 06:07:59 until 26.11.2023 06:56:22
+		Duration:	00:48:23
+		Location:	NULL NULL
+
+(27) - 0.0 km 853527 - 2305 - MSC2 - Aaron Benson
+	OTWAB1
+		Images:	1549
+		Time:	26.11.2023 05:24:04 until 26.11.2023 06:57:11
+		Duration:	01:33:07
+		Location:	NULL NULL
+
+(28) - 0.0 km 853528 - 2190 - MSC3 - Brian Mo
+	OTHBM1
+		Images:	3256
+		Time:	26.11.2023 23:05:23 until 27.11.2023 02:07:01
+		Duration:	03:01:38
+		Location:	NULL NULL
+
+(29) - 0.0 km 853529 - 2014 - MSC3 - Kevin Ng
+	OTHKN3
+		Images:	3954
+		Time:	26.11.2023 06:08:23 until 26.11.2023 10:08:07
+		Duration:	03:59:44
+		Location:	NULL NULL
+
+(30) - 0.0 km 853530 - 2219 - MSC4 - Jamie Mitchell
+	OFOJM2
+		Images:	255
+		Time:	26.11.2023 12:38:31 until 26.11.2023 13:29:31
+		Duration:	00:51:00
+		Location:	NULL NULL
+
+(31) - 0.0 km 853530 - 2380 - MSC4 - Jamie Mitchell
+	OFOJM1
+		Images:	10828
+		Time:	26.11.2023 08:21:41 until 26.11.2023 12:22:45
+		Duration:	04:01:04
+		Location:	NULL NULL
+
+(32) - 0.0 km 853531 - 2285 - MSC4 - Carmen Olsen
+	OFOCO1
+		Images:	2079
+		Time:	26.11.2023 08:21:47 until 26.11.2023 10:03:20
+		Duration:	01:41:33
+		Location:	NULL NULL
+
+(33) - 0.0 km 853532 - 2092 - MSC5 - Irene Calder
+	EFIIC1
+		Images:	11367
+		Time:	26.11.2023 09:56:43 until 26.11.2023 14:25:33
+		Duration:	04:28:50
+		Location:	NULL NULL
+
+(34) - 0.0 km 853532 - 2461 - MSC5 - Irene Calder
+	EFIIC2
+		Images:	745
+		Time:	26.11.2023 14:27:54 until 26.11.2023 16:38:46
+		Duration:	02:10:52
+		Location:	NULL NULL
+
+(35) - 0.0 km 853533 - 2247 - MSC5 - Steven Schimmelman
+	EFISS1
+		Images:	11948
+		Time:	26.11.2023 07:35:58 until 26.11.2023 13:38:56
+		Duration:	06:02:58
+		Location:	NULL NULL
+
+(36) - Impressions / Pano
+	PANO1
+(37) - none
+	BLANK1
+		Images:	9
+		Time:	01.01.0001 23:00:00 until 11.11.2023 11:55:43
+		Duration:	738833.12:55:43
+		Location:	NULL NULL
+

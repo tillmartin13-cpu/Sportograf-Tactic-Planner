@@ -1,0 +1,309 @@
+EventId: 14821
+Spots: 49
+Total Images: 271368
+Time:	01.03.2025 05:23:08 to 01.03.2025 21:49:28
+Duration: 16:26:20
+
+(1) - SkiErg
+	MEK1
+		Images:	9430
+		Time:	01.03.2025 05:27:39 until 01.03.2025 14:07:06
+		Duration:	08:39:27
+		Location:	-26.24357 27.97931
+
+	TIG1
+		Images:	7294
+		Time:	01.03.2025 05:25:51 until 01.03.2025 14:26:46
+		Duration:	09:00:55
+		Location:	-26.24357 27.97931
+
+	KAMA1
+		Images:	7098
+		Time:	01.03.2025 05:24:08 until 01.03.2025 14:19:13
+		Duration:	08:55:05
+		Location:	-26.24357 27.97931
+
+	JUW1
+		Images:	1612
+		Time:	01.03.2025 05:42:56 until 01.03.2025 08:46:19
+		Duration:	03:03:23
+		Location:	-26.24357 27.97931
+
+	PKI2
+		Images:	2526
+		Time:	01.03.2025 14:28:50 until 01.03.2025 19:55:08
+		Duration:	05:26:18
+		Location:	-26.24357 27.97931
+
+	DAFO2
+		Images:	4345
+		Time:	01.03.2025 14:20:44 until 01.03.2025 19:56:21
+		Duration:	05:35:37
+		Location:	-26.24357 27.97931
+
+	MALV2
+		Images:	10524
+		Time:	01.03.2025 14:27:20 until 01.03.2025 19:55:45
+		Duration:	05:28:25
+		Location:	-26.24357 27.97931
+
+(2) - Sled Push
+	DAFO1
+		Images:	2777
+		Time:	01.03.2025 05:32:46 until 01.03.2025 14:15:31
+		Duration:	08:42:45
+		Location:	-26.24357 27.97931
+
+	MALV1
+		Images:	14447
+		Time:	01.03.2025 05:50:37 until 01.03.2025 14:22:03
+		Duration:	08:31:26
+		Location:	-26.24357 27.97931
+
+	DAWH1
+		Images:	6954
+		Time:	01.03.2025 05:23:08 until 01.03.2025 14:23:22
+		Duration:	09:00:14
+		Location:	-26.24357 27.97931
+
+	BKO2
+		Images:	140
+		Time:	01.03.2025 18:21:37 until 01.03.2025 19:08:13
+		Duration:	00:46:36
+		Location:	-26.24357 27.97931
+
+	JUW2
+		Images:	536
+		Time:	01.03.2025 07:05:02 until 01.03.2025 18:25:28
+		Duration:	11:20:26
+		Location:	-26.24357 27.97931
+
+	RBU2
+		Images:	5079
+		Time:	01.03.2025 14:27:33 until 01.03.2025 20:20:17
+		Duration:	05:52:44
+		Location:	-26.24357 27.97931
+
+	TIG2
+		Images:	2924
+		Time:	01.03.2025 14:28:37 until 01.03.2025 20:06:14
+		Duration:	05:37:37
+		Location:	-26.24357 27.97931
+
+	BONI2
+		Images:	3956
+		Time:	01.03.2025 14:23:27 until 01.03.2025 20:19:53
+		Duration:	05:56:26
+		Location:	-26.24357 27.97931
+
+(3) - Sled Pull
+	MBEL1
+		Images:	5959
+		Time:	01.03.2025 06:18:14 until 01.03.2025 14:15:34
+		Duration:	07:57:20
+		Location:	-26.24357 27.97931
+
+	MAKE1
+		Images:	4351
+		Time:	01.03.2025 05:36:39 until 01.03.2025 14:00:44
+		Duration:	08:24:05
+		Location:	-26.24357 27.97931
+
+	LOT1
+		Images:	4462
+		Time:	01.03.2025 05:34:35 until 01.03.2025 14:15:11
+		Duration:	08:40:36
+		Location:	-26.24357 27.97931
+
+	JHI2
+		Images:	2385
+		Time:	01.03.2025 14:36:32 until 01.03.2025 20:20:36
+		Duration:	05:44:04
+		Location:	-26.24357 27.97931
+
+	LDR2
+		Images:	3515
+		Time:	01.03.2025 14:16:20 until 01.03.2025 20:32:25
+		Duration:	06:16:05
+		Location:	-26.24357 27.97931
+
+	JOBK2
+		Images:	839
+		Time:	01.03.2025 14:16:13 until 01.03.2025 20:21:12
+		Duration:	06:04:59
+		Location:	-26.24357 27.97931
+
+(4) - Rowing
+	RBU1
+		Images:	11264
+		Time:	01.03.2025 05:28:40 until 01.03.2025 14:15:12
+		Duration:	08:46:32
+		Location:	-26.24357 27.97931
+
+	NKK1
+		Images:	11988
+		Time:	01.03.2025 05:35:24 until 01.03.2025 13:46:14
+		Duration:	08:10:50
+		Location:	-26.24357 27.97931
+
+	BKO4
+		Images:	3254
+		Time:	01.03.2025 15:28:55 until 01.03.2025 19:06:53
+		Duration:	03:37:58
+		Location:	-26.24357 27.97931
+
+	JUW4
+		Images:	7160
+		Time:	01.03.2025 08:48:54 until 01.03.2025 16:02:06
+		Duration:	07:13:12
+		Location:	-26.24357 27.97931
+
+	DAWH2
+		Images:	7141
+		Time:	01.03.2025 14:28:28 until 01.03.2025 21:01:02
+		Duration:	06:32:34
+		Location:	-26.24357 27.97931
+
+	NFEN2
+		Images:	9956
+		Time:	01.03.2025 14:17:05 until 01.03.2025 20:59:09
+		Duration:	06:42:04
+		Location:	-26.24357 27.97931
+
+(5) - Farmers Carry
+	BKO9LS1
+		Images:	12505
+		Time:	01.03.2025 06:01:24 until 01.03.2025 21:28:11
+		Duration:	15:26:47
+		Location:	-26.24357 27.97931
+
+	BKO9LS2
+		Images:	7274
+		Time:	01.03.2025 07:09:30 until 01.03.2025 21:24:50
+		Duration:	14:15:20
+		Location:	-26.24357 27.97931
+
+(6) - Sandbag Lunges
+	TAZ1
+		Images:	3820
+		Time:	01.03.2025 06:24:50 until 01.03.2025 13:49:41
+		Duration:	07:24:51
+		Location:	-26.24357 27.97931
+
+	JOBK1
+		Images:	2551
+		Time:	01.03.2025 05:32:03 until 01.03.2025 13:56:31
+		Duration:	08:24:28
+		Location:	-26.24357 27.97931
+
+	BKO5
+		Images:	6405
+		Time:	01.03.2025 10:02:50 until 01.03.2025 16:43:37
+		Duration:	06:40:47
+		Location:	-26.24357 27.97931
+
+	JUW5
+		Images:	1390
+		Time:	01.03.2025 16:15:43 until 01.03.2025 19:41:35
+		Duration:	03:25:52
+		Location:	-26.24357 27.97931
+
+	MBEL2
+		Images:	5724
+		Time:	01.03.2025 14:21:19 until 01.03.2025 21:24:23
+		Duration:	07:03:04
+		Location:	-26.24357 27.97931
+
+	LOT2
+		Images:	15658
+		Time:	01.03.2025 14:22:46 until 01.03.2025 21:23:59
+		Duration:	07:01:13
+		Location:	-26.24357 27.97931
+
+(7) - Wall Balls
+	LDR1
+		Images:	11245
+		Time:	01.03.2025 05:33:42 until 01.03.2025 14:03:24
+		Duration:	08:29:42
+		Location:	-26.24357 27.97931
+
+	NFEN1
+		Images:	5794
+		Time:	01.03.2025 05:37:41 until 01.03.2025 14:09:32
+		Duration:	08:31:51
+		Location:	-26.24357 27.97931
+
+	BONI1
+		Images:	10143
+		Time:	01.03.2025 06:49:23 until 01.03.2025 18:39:24
+		Duration:	11:50:01
+		Location:	-26.24357 27.97931
+
+	JUW6
+		Images:	787
+		Time:	01.03.2025 06:25:34 until 01.03.2025 18:55:35
+		Duration:	12:30:01
+		Location:	-26.24357 27.97931
+
+	MEK2
+		Images:	4301
+		Time:	01.03.2025 14:15:55 until 01.03.2025 21:42:33
+		Duration:	07:26:38
+		Location:	-26.24357 27.97931
+
+	NKK2
+		Images:	5022
+		Time:	01.03.2025 13:49:10 until 01.03.2025 21:42:38
+		Duration:	07:53:28
+		Location:	-26.24357 27.97931
+
+	MAKE2
+		Images:	3508
+		Time:	01.03.2025 14:13:21 until 01.03.2025 21:41:50
+		Duration:	07:28:29
+		Location:	-26.24357 27.97931
+
+(8) - Finish
+	JHI1
+		Images:	4837
+		Time:	01.03.2025 06:01:07 until 01.03.2025 14:27:55
+		Duration:	08:26:48
+		Location:	-26.24357 27.97931
+
+	JUW7
+		Images:	2226
+		Time:	01.03.2025 11:06:15 until 01.03.2025 17:24:39
+		Duration:	06:18:24
+		Location:	-26.24357 27.97931
+
+	JUW9LS1
+		Images:	3476
+		Time:	01.03.2025 06:31:20 until 01.03.2025 21:11:53
+		Duration:	14:40:33
+		Location:	-26.24357 27.97931
+
+	KAMA2
+		Images:	7708
+		Time:	01.03.2025 14:28:14 until 01.03.2025 21:49:28
+		Duration:	07:21:14
+		Location:	-26.24357 27.97931
+
+(9) - Hero Wall
+	PKI1
+		Images:	2762
+		Time:	01.03.2025 06:58:59 until 01.03.2025 14:27:40
+		Duration:	07:28:41
+		Location:	-26.24357 27.97931
+
+	BKO8
+		Images:	276
+		Time:	01.03.2025 16:49:52 until 01.03.2025 17:22:56
+		Duration:	00:33:04
+		Location:	-26.24357 27.97931
+
+	TAZ2
+		Images:	2040
+		Time:	01.03.2025 14:01:17 until 01.03.2025 21:37:31
+		Duration:	07:36:14
+		Location:	-26.24357 27.97931
+

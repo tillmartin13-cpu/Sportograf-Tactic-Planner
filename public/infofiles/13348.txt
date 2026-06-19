@@ -1,0 +1,134 @@
+EventId: 13348
+Spots: 19
+Total Images: 71008
+Time:	31.12.2006 18:00:00 to 26.10.2024 12:09:52
+Duration: 6508.18:09:52
+
+(1) - 0,0 km MEDALS 857573 AMY
+	CANEL1
+		Images:	430
+		Time:	08.01.2007 12:51:38 until 08.01.2007 15:36:11
+		Duration:	02:44:33
+		Location:	NULL NULL
+
+(2) - 0,0 km MEDALS 857574 MEGYN
+	CMBAR1
+		Images:	1238
+		Time:	26.10.2024 06:13:11 until 26.10.2024 09:01:14
+		Duration:	02:48:03
+		Location:	NULL NULL
+
+(3) - 0,0 km MEDALS 857575 PAULA
+	CPPA1
+		Images:	2058
+		Time:	26.10.2024 09:27:02 until 26.10.2024 11:56:37
+		Duration:	02:29:35
+		Location:	NULL NULL
+
+(4) - 0,0 km MSC 862479 JAMES W
+	CJWH1
+		Images:	3459
+		Time:	26.10.2024 09:25:50 until 26.10.2024 11:54:54
+		Duration:	02:29:04
+		Location:	NULL NULL
+
+(5) - 0,0 km MSC 862482 SARAH
+	CSLA1
+		Images:	2799
+		Time:	26.10.2024 08:43:37 until 26.10.2024 11:49:31
+		Duration:	03:05:54
+		Location:	NULL NULL
+
+(6) - 0,0 km MSC TRIGGER 2
+	CTRD1
+		Images:	3656
+		Time:	31.12.2006 18:00:00 until 31.12.2006 18:07:44
+		Duration:	00:07:44
+		Location:	NULL NULL
+
+(7) - 0.0 km FINISH 857567 GUS
+	BGGAR1
+		Images:	3683
+		Time:	26.10.2024 08:21:44 until 26.10.2024 10:57:00
+		Duration:	02:35:16
+		Location:	NULL NULL
+
+(8) - 0.0 km FINISH 857568 TOBY
+	ATCHE1
+		Images:	8144
+		Time:	26.10.2024 09:23:39 until 26.10.2024 11:55:40
+		Duration:	02:32:01
+		Location:	NULL NULL
+
+(9) - 0.0 km FINISH TRIGGER 1 857569
+	AFTA1
+		Images:	5239
+		Time:	26.10.2024 06:16:40 until 26.10.2024 12:09:52
+		Duration:	05:53:12
+		Location:	NULL NULL
+
+(10) - 0.0 km FINISH TRIGGER 2
+	AFTB1
+		Images:	6081
+		Time:	26.10.2024 08:07:49 until 26.10.2024 11:56:51
+		Duration:	03:49:02
+		Location:	NULL NULL
+
+(11) - 0.0 km MSC 862478 LUCAS
+	BLKRO1
+		Images:	4229
+		Time:	26.10.2024 08:23:50 until 26.10.2024 10:52:29
+		Duration:	02:28:39
+		Location:	NULL NULL
+
+(12) - 0.0 km MSC 862480 FABRIZIO
+	BFAB1
+		Images:	4116
+		Time:	26.10.2024 09:21:27 until 26.10.2024 11:59:51
+		Duration:	02:38:24
+		Location:	NULL NULL
+
+(13) - 0.0 km MSC 862481 MARCO
+	BMAR1
+		Images:	4319
+		Time:	26.10.2024 09:07:08 until 26.10.2024 11:59:37
+		Duration:	02:52:29
+		Location:	NULL NULL
+
+(14) - 0.0 km MSC TRIGGER 862483
+	BTRC1
+		Images:	3410
+		Time:	26.10.2024 08:25:59 until 26.10.2024 11:43:23
+		Duration:	03:17:24
+		Location:	NULL NULL
+
+(15) - 0.0 km PRE FIN 857570 DAVE T
+	ADTID1
+		Images:	4263
+		Time:	26.10.2024 09:19:30 until 26.10.2024 11:56:25
+		Duration:	02:36:55
+		Location:	NULL NULL
+
+(16) - 0.0 km PRE FIN 857572 CHARLIE MCADAMS
+	BCMC1
+		Images:	3036
+		Time:	26.10.2024 09:11:55 until 26.10.2024 11:56:19
+		Duration:	02:44:24
+		Location:	NULL NULL
+
+(17) - 0.0 km PRE FIN 857572 TRIGGER 1
+	ATRA1
+		Images:	5282
+		Time:	26.10.2024 05:56:15 until 26.10.2024 11:57:11
+		Duration:	06:00:56
+		Location:	NULL NULL
+
+(18) - 0.0 km PRE FIN TRIGGER 2
+	ATRB1
+		Images:	5566
+		Time:	26.10.2024 06:10:17 until 26.10.2024 11:57:48
+		Duration:	05:47:31
+		Location:	NULL NULL
+
+(19) - Impressions / Pano
+	PANO1

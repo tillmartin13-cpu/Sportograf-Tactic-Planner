@@ -1,0 +1,267 @@
+EventId: 13183
+Spots: 41
+Total Images: 251043
+Time:	01.01.0001 23:00:00 to 31.12.2099 22:59:59
+Duration: 766642.23:59:59
+
+(1) - 0.0 km auto cam msc 2
+	AONE1
+		Images:	60
+		Time:	09.06.2024 10:45:07 until 09.06.2024 10:46:06
+		Duration:	00:00:59
+		Location:	NULL NULL
+
+(2) - 0.0 km brian spurlock - msc 2
+	ASPUR1
+		Images:	9520
+		Time:	09.06.2024 07:07:56 until 09.06.2024 08:40:57
+		Duration:	01:33:01
+		Location:	NULL NULL
+
+(3) - 0.0 km caitlin finish
+	ACAIT1
+		Images:	15515
+		Time:	09.06.2024 08:35:04 until 09.06.2024 12:17:08
+		Duration:	03:42:04
+		Location:	NULL NULL
+
+(4) - 0.0 km dennis - msc 2
+	APERA1
+		Images:	4497
+		Time:	09.06.2024 08:16:34 until 09.06.2024 09:41:02
+		Duration:	01:24:28
+		Location:	NULL NULL
+
+(5) - 0.0 km Enrique - MSC 4
+	BMIRE1
+		Images:	4827
+		Time:	09.06.2024 06:53:15 until 09.06.2024 09:16:13
+		Duration:	02:22:58
+		Location:	NULL NULL
+
+(6) - 0.0 km finish trigger
+	ASETT1
+		Images:	9648
+		Time:	31.12.2013 19:00:01 until 31.12.2099 22:59:59
+		Duration:	31411.03:59:58
+		Location:	NULL NULL
+
+(7) - 0.0 km isarael vega - msc 2
+	AVEGA1
+		Images:	8069
+		Time:	09.06.2024 07:07:22 until 09.06.2024 08:26:12
+		Duration:	01:18:50
+		Location:	NULL NULL
+
+(8) - 0.0 km jailene - MSC 1
+	EDIEG1
+		Images:	740
+		Time:	08.06.2024 19:18:11 until 08.06.2024 19:57:36
+		Duration:	00:39:25
+		Location:	NULL NULL
+
+(9) - 0.0 km jamil - MSC 1
+	ELYON1
+		Images:	927
+		Time:	09.06.2024 07:21:51 until 09.06.2024 07:55:28
+		Duration:	00:33:37
+		Location:	NULL NULL
+
+(10) - 0.0 km jay patel - PFN
+	EJAY1
+		Images:	8993
+		Time:	09.06.2024 07:52:02 until 09.06.2024 10:44:23
+		Duration:	02:52:21
+		Location:	NULL NULL
+
+(11) - 0.0 km kim msc4
+	AALIF1
+		Images:	5733
+		Time:	09.06.2024 07:53:56 until 09.06.2024 10:30:15
+		Duration:	02:36:19
+		Location:	NULL NULL
+
+(12) - 0.0 km low angle trigger
+	ELOW1
+		Images:	7730
+		Time:	08.06.2024 08:30:34 until 08.06.2024 10:42:50
+		Duration:	02:12:16
+		Location:	NULL NULL
+
+(13) - 0.0 km lucas - pfn
+	ELUC1
+		Images:	16583
+		Time:	09.06.2024 08:32:54 until 09.06.2024 12:17:13
+		Duration:	03:44:19
+		Location:	NULL NULL
+
+(14) - 0.0 km nicholas langtiw
+	ALANT1
+		Images:	6881
+		Time:	09.06.2024 19:01:09 until 09.06.2024 22:43:50
+		Duration:	03:42:41
+		Location:	NULL NULL
+
+(15) - 0.0 km orlando - msc 3
+	ASALG1
+		Images:	20131
+		Time:	09.06.2024 07:29:50 until 09.06.2024 11:02:02
+		Duration:	03:32:12
+		Location:	NULL NULL
+
+(16) - 0.0 km peter richardson - msc 3
+	ARICH1
+		Images:	6124
+		Time:	09.06.2024 07:01:30 until 09.06.2024 10:46:30
+		Duration:	03:45:00
+		Location:	NULL NULL
+
+(17) - 0.0 km PFN trigger high
+	EHIGH1
+		Images:	8753
+		Time:	09.06.2024 08:06:49 until 09.06.2024 10:43:42
+		Duration:	02:36:53
+		Location:	NULL NULL
+
+(18) - 0.0 km PFN trigger left side
+	EFIVE1
+		Images:	9494
+		Time:	09.06.2024 08:27:10 until 09.06.2024 11:41:34
+		Duration:	03:14:24
+		Location:	NULL NULL
+
+(19) - 0.0 km PFN trigger right side
+	ESIX1
+		Images:	9379
+		Time:	09.06.2024 08:23:23 until 09.06.2024 11:15:27
+		Duration:	02:52:04
+		Location:	NULL NULL
+
+(20) - 0.0 km scott - finish
+	AFIED1
+		Images:	18911
+		Time:	09.06.2024 07:33:44 until 09.06.2024 11:12:45
+		Duration:	03:39:01
+		Location:	NULL NULL
+
+(21) - 0.0 km ted -msc1
+	EPERE1
+		Images:	1359
+		Time:	09.06.2024 07:16:33 until 09.06.2024 07:57:22
+		Duration:	00:40:49
+		Location:	NULL NULL
+
+(22) - 0.0 km trigger - msc 3
+	BTWO1
+		Images:	9175
+		Time:	09.06.2024 08:18:18 until 09.06.2024 11:14:59
+		Duration:	02:56:41
+		Location:	NULL NULL
+
+(23) - 0.0 km trigger - msc 4
+	ADREI1
+		Images:	3256
+		Time:	09.06.2024 09:34:17 until 09.06.2024 11:11:11
+		Duration:	01:36:54
+		Location:	NULL NULL
+
+(24) - Impressions / Pano
+	PANO1
+(25) - none
+	ADAR1
+		Images:	1890
+		Time:	09.06.2024 07:50:55 until 09.06.2024 10:49:59
+		Duration:	02:59:04
+		Location:	NULL NULL
+
+	ADEN1
+		Images:	12687
+		Time:	09.06.2024 08:26:53 until 09.06.2024 10:52:09
+		Duration:	02:25:16
+		Location:	NULL NULL
+
+	AJAIL1
+		Images:	4023
+		Time:	08.06.2024 20:28:48 until 08.06.2024 22:54:29
+		Duration:	02:25:41
+		Location:	NULL NULL
+
+	AJAM1
+		Images:	4115
+		Time:	09.06.2024 08:37:05 until 09.06.2024 10:53:57
+		Duration:	02:16:52
+		Location:	NULL NULL
+
+	AJOE1
+		Images:	720
+		Time:	09.06.2024 07:48:04 until 09.06.2024 11:02:38
+		Duration:	03:14:34
+		Location:	NULL NULL
+
+	ANIC1
+		Images:	855
+		Time:	09.06.2024 19:06:39 until 09.06.2024 20:16:46
+		Duration:	01:10:07
+		Location:	NULL NULL
+
+	APED1
+		Images:	811
+		Time:	09.06.2024 07:04:48 until 09.06.2024 10:10:08
+		Duration:	03:05:20
+		Location:	NULL NULL
+
+	AVER1
+		Images:	3600
+		Time:	09.06.2024 09:44:02 until 09.06.2024 10:52:09
+		Duration:	01:08:07
+		Location:	NULL NULL
+
+	BBRI1
+		Images:	8952
+		Time:	09.06.2024 08:58:37 until 09.06.2024 10:44:34
+		Duration:	01:45:57
+		Location:	NULL NULL
+
+	BDAV1
+		Images:	2007
+		Time:	09.06.2024 21:17:37 until 10.06.2024 00:21:01
+		Duration:	03:03:24
+		Location:	NULL NULL
+
+	BERN1
+	BREN1
+		Images:	2602
+		Time:	09.06.2024 08:22:16 until 09.06.2024 11:06:09
+		Duration:	02:43:53
+		Location:	NULL NULL
+
+	DPR1
+		Images:	878
+		Time:	09.06.2024 07:04:52 until 09.06.2024 11:30:52
+		Duration:	04:26:00
+		Location:	NULL NULL
+
+	EANEL1
+		Images:	341
+		Time:	09.06.2024 08:08:11 until 09.06.2024 10:26:53
+		Duration:	02:18:42
+		Location:	NULL NULL
+
+	ECLAU1
+		Images:	1058
+		Time:	09.06.2024 06:37:01 until 09.06.2024 10:11:27
+		Duration:	03:34:26
+		Location:	NULL NULL
+
+	EISR1
+		Images:	14517
+		Time:	09.06.2024 08:28:49 until 09.06.2024 10:36:30
+		Duration:	02:07:41
+		Location:	NULL NULL
+
+	ETED1
+		Images:	5682
+		Time:	01.01.0001 23:00:00 until 09.06.2024 10:58:09
+		Duration:	739044.11:58:09
+		Location:	NULL NULL
+

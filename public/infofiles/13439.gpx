@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "48.87718" lon = "11.07648"><name>SL1</name><desc>Start
+Images:413
+First:18.10.2025 09:07:24
+Last:18.10.2025 12:16:53
+Duration:03:09:29
+</desc></wpt>
+<wpt lat = "48.86818" lon = "11.09203"><name>SISA1</name><desc>5.0 km
+Images:5330
+First:18.10.2025 10:39:48
+Last:18.10.2025 15:42:27
+Duration:05:02:39
+</desc></wpt>
+<wpt lat = "48.89320" lon = "11.13622"><name>MIRS1</name><desc>15.0 km
+Images:3373
+First:18.10.2025 10:26:40
+Last:18.10.2025 13:49:11
+Duration:03:22:31
+</desc></wpt>
+<wpt lat = "48.89320" lon = "11.13622"><name>MIRS1LS1</name><desc>15.7 km
+Images:1598
+First:18.10.2025 10:18:58
+Last:18.10.2025 13:47:23
+Duration:03:28:25
+</desc></wpt>
+<wpt lat = "48.89706" lon = "11.13453"><name>LPR1</name><desc>17.5 km
+Images:1491
+First:18.10.2025 10:32:28
+Last:18.10.2025 14:16:01
+Duration:03:43:33
+</desc></wpt>
+<wpt lat = "48.87718" lon = "11.07648"><name>SL2</name><desc>Finish
+Images:8005
+First:18.10.2025 12:40:42
+Last:18.10.2025 16:08:03
+Duration:03:27:21
+</desc></wpt>
+</gpx>

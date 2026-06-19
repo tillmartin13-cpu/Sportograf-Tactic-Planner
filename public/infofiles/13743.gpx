@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "48.04393" lon = "7.31358"><name>MAMO1</name><desc>Start 10k
+Images:403
+First:21.09.2025 09:05:34
+Last:21.09.2025 10:55:23
+Duration:01:49:49
+</desc></wpt>
+<wpt lat = "48.07918" lon = "7.35455"><name>ISA1</name><desc>0,9 km 42k & 21k
+Images:629
+First:21.09.2025 08:34:29
+Last:21.09.2025 09:07:59
+Duration:00:33:30
+</desc></wpt>
+<wpt lat = "48.07918" lon = "7.35455"><name>ISA1LS2</name><desc>0,9 km 42k & 21k
+Images:169
+First:21.09.2025 08:12:57
+Last:21.09.2025 09:10:33
+Duration:00:57:36
+</desc></wpt>
+<wpt lat = "48.07918" lon = "7.35455"><name>ISA1LS1</name><desc>0,9 km 42k & 21k
+Images:195
+First:21.09.2025 09:18:01
+Last:21.09.2025 10:05:30
+Duration:00:47:29
+</desc></wpt>
+<wpt lat = "48.08674" lon = "7.34392"><name>MRO1</name><desc>1,5 km & 19,5 km 42k & 21k
+Images:7626
+First:21.09.2025 08:14:41
+Last:21.09.2025 11:38:23
+Duration:03:23:42
+</desc></wpt>
+<wpt lat = "48.09591" lon = "7.32830"><name>EVL1</name><desc>3,5 km 42k & 21k
+Images:3885
+First:21.09.2025 07:52:38
+Last:21.09.2025 09:35:30
+Duration:01:42:52
+</desc></wpt>
+<wpt lat = "48.09591" lon = "7.32830"><name>EVL1LS1</name><desc>3,5 km 42k & 21k
+Images:1895
+First:21.09.2025 08:04:11
+Last:21.09.2025 09:37:31
+Duration:01:33:20
+</desc></wpt>
+<wpt lat = "48.12961" lon = "7.31056"><name>MAWI1</name><desc>12,3 km 42k & 21k
+Images:8185
+First:01.01.0001 23:00:00
+Last:21.09.2025 11:04:10
+Duration:739513.12:04:10
+</desc></wpt>
+<wpt lat = "48.12961" lon = "7.31056"><name>MAWI1LS2</name><desc>12,3 km 42k & 21k
+Images:3220
+First:21.09.2025 08:50:02
+Last:21.09.2025 11:06:54
+Duration:02:16:52
+</desc></wpt>
+<wpt lat = "48.12961" lon = "7.31056"><name>MAWI1LS1</name><desc>12,3 km 42k & 21k
+Images:3332
+First:21.09.2025 08:48:42
+Last:21.09.2025 11:06:51
+Duration:02:18:09
+</desc></wpt>
+<wpt lat = "48.03554" lon = "7.34804"><name>MAMO2</name><desc>35,5 km 42k
+Images:2559
+First:21.09.2025 10:57:02
+Last:21.09.2025 13:35:14
+Duration:02:38:12
+</desc></wpt>
+<wpt lat = "48.06406" lon = "7.35387"><name>MRO2</name><desc>40,5 km 42k / 8,5 km 21k
+Images:2060
+First:21.09.2025 12:13:01
+Last:21.09.2025 14:16:41
+Duration:02:03:40
+</desc></wpt>
+<wpt lat = "48.06585" lon = "7.35091"><name>EVL2</name><desc>41,8 km 42k / 8,5 km 21k
+Images:2616
+First:21.09.2025 11:14:00
+Last:21.09.2025 13:53:05
+Duration:02:39:05
+</desc></wpt>
+<wpt lat = "48.06585" lon = "7.35091"><name>EVL2LS1</name><desc>41,8 km 42k / 8,5 km 21k
+Images:816
+First:21.09.2025 11:20:58
+Last:21.09.2025 13:52:05
+Duration:02:31:07
+</desc></wpt>
+<wpt lat = "48.06950" lon = "7.34842"><name>ISA2</name><desc>42,0 km 42k / 9,7 km 21k
+Images:3587
+First:21.09.2025 10:31:01
+Last:21.09.2025 14:24:05
+Duration:03:53:04
+</desc></wpt>
+<wpt lat = "48.06950" lon = "7.34842"><name>ISA2LS2</name><desc>42,0 km 42k / 9,7 km 21k
+Images:1500
+First:21.09.2025 10:14:08
+Last:21.09.2025 14:19:14
+Duration:04:05:06
+</desc></wpt>
+<wpt lat = "48.07611" lon = "7.35329"><name>MAPP2</name><desc>Finish
+Images:4181
+First:21.09.2025 08:10:09
+Last:21.09.2025 14:31:40
+Duration:06:21:31
+</desc></wpt>
+<wpt lat = "48.07611" lon = "7.35329"><name>MAWI2</name><desc>Finish
+Images:4181
+First:21.09.2025 08:10:09
+Last:21.09.2025 14:31:40
+Duration:06:21:31
+</desc></wpt>
+<wpt lat = "48.07611" lon = "7.35329"><name>MAWI2LS2</name><desc>Finish
+Images:338
+First:21.09.2025 12:06:37
+Last:21.09.2025 12:54:12
+Duration:00:47:35
+</desc></wpt>
+<wpt lat = "48.07611" lon = "7.35329"><name>MAWI2LS1</name><desc>Finish
+Images:496
+First:21.09.2025 12:03:25
+Last:21.09.2025 13:01:12
+Duration:00:57:47
+</desc></wpt>
+</gpx>

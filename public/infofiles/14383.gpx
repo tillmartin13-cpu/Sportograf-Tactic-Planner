@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "50.78767" lon = "5.74794"><name>DAV1</name><desc>5,0 km
+Images:956
+First:20.09.2025 07:18:18
+Last:21.09.2025 09:24:29
+Duration:1.02:06:11
+</desc></wpt>
+<wpt lat = "50.78767" lon = "5.74794"><name>DAV1LS1</name><desc>5,0 km
+Images:735
+First:21.09.2025 07:33:49
+Last:21.09.2025 09:26:58
+Duration:01:53:09
+</desc></wpt>
+<wpt lat = "50.78767" lon = "5.74794"><name>DAV1LS2</name><desc>5,0 km
+Images:805
+First:21.09.2025 07:30:12
+Last:21.09.2025 09:27:54
+Duration:01:57:42
+</desc></wpt>
+<wpt lat = "50.81339" lon = "5.79526"><name>TID1</name><desc>7,0 km
+Images:2524
+First:21.09.2025 07:17:09
+Last:21.09.2025 12:31:37
+Duration:05:14:28
+</desc></wpt>
+<wpt lat = "50.81339" lon = "5.79526"><name>TID1LS1</name><desc>7,0 km
+Images:1248
+First:21.09.2025 07:13:32
+Last:21.09.2025 09:48:46
+Duration:02:35:14
+</desc></wpt>
+<wpt lat = "50.86692" lon = "5.81591"><name>KMC1</name><desc>23,0 km
+Images:4045
+First:20.09.2025 07:23:52
+Last:21.09.2025 12:26:32
+Duration:1.05:02:40
+</desc></wpt>
+<wpt lat = "50.86472" lon = "5.82082"><name>KDA1</name><desc>25,0 km
+Images:3347
+First:20.09.2025 07:20:20
+Last:21.09.2025 13:23:52
+Duration:1.06:03:32
+</desc></wpt>
+<wpt lat = "50.85754" lon = "5.82522"><name>EVIQ1</name><desc>26,0 km
+Images:3325
+First:20.09.2025 07:05:04
+Last:21.09.2025 13:41:55
+Duration:1.06:36:51
+</desc></wpt>
+<wpt lat = "50.7793" lon = "5.80779"><name>DAV2</name><desc>60,0 km
+Images:1906
+First:20.09.2025 12:09:13
+Last:21.09.2025 14:26:50
+Duration:1.02:17:37
+</desc></wpt>
+<wpt lat = "50.7793" lon = "5.80779"><name>DAV2LS1</name><desc>60,0 km
+Images:1636
+First:21.09.2025 10:27:52
+Last:21.09.2025 14:57:07
+Duration:04:29:15
+</desc></wpt>
+<wpt lat = "50.7793" lon = "5.80779"><name>DAV2LS2</name><desc>60,0 km
+Images:1683
+First:21.09.2025 10:28:18
+Last:21.09.2025 14:57:13
+Duration:04:28:55
+</desc></wpt>
+<wpt lat = "50.78426" lon = "5.78215"><name>TID2</name><desc>65,0 km
+Images:4191
+First:21.09.2025 10:10:06
+Last:21.09.2025 15:17:34
+Duration:05:07:28
+</desc></wpt>
+<wpt lat = "50.78426" lon = "5.78215"><name>TID2LS1</name><desc>65,0 km
+Images:2792
+First:21.09.2025 10:16:31
+Last:21.09.2025 14:59:14
+Duration:04:42:43
+</desc></wpt>
+</gpx>

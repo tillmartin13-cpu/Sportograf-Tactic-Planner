@@ -1,0 +1,591 @@
+EventId: 13218
+Spots: 92
+Total Images: 485372
+Time:	01.01.0001 23:00:00 to 31.12.2099 22:59:59
+Duration: 766642.23:59:59
+
+(1) - 0.0 km
+	BCBME1
+		Images:	1048
+		Time:	04.07.2024 07:36:36 until 04.07.2024 10:44:10
+		Duration:	03:07:34
+		Location:	NULL NULL
+
+	BSPME1
+		Images:	269
+		Time:	04.07.2024 05:53:41 until 04.07.2024 08:53:08
+		Duration:	02:59:27
+		Location:	NULL NULL
+
+	BYWME1
+(2) - 0.0 km 855589
+	EOPRP2
+		Images:	103
+		Time:	04.07.2024 04:41:37 until 04.07.2024 05:31:01
+		Duration:	00:49:24
+		Location:	NULL NULL
+
+(3) - 0.0 km 855598
+	ETRLE3
+		Images:	11951
+		Time:	04.07.2024 06:38:31 until 04.07.2024 09:58:31
+		Duration:	03:20:00
+		Location:	NULL NULL
+
+(4) - 0.0 km 855664
+	ESGTR3
+		Images:	10024
+		Time:	04.07.2024 06:15:07 until 04.07.2024 10:43:10
+		Duration:	04:28:03
+		Location:	NULL NULL
+
+(5) - 0.0 km Candid D Andre Moultrie 855584
+	EAMOU1
+		Images:	1022
+		Time:	04.07.2024 05:45:52 until 04.07.2024 08:42:50
+		Duration:	02:56:58
+		Location:	NULL NULL
+
+(6) - 0.0 km Candid Dillon Evans 855582
+	EDEVA1
+		Images:	2204
+		Time:	03.07.2024 13:19:55 until 03.07.2024 14:49:33
+		Duration:	01:29:38
+		Location:	NULL NULL
+
+(7) - 0.0 km Candid Sierra Wynn 855575
+	ESWYN1
+		Images:	300
+		Time:	04.07.2024 04:42:53 until 04.07.2024 07:17:31
+		Duration:	02:34:38
+		Location:	NULL NULL
+
+(8) - 0.0 km Candids Christerop RIce 855585
+	EECR1
+		Images:	395
+		Time:	03.07.2024 17:35:33 until 03.07.2024 20:35:10
+		Duration:	02:59:37
+		Location:	NULL NULL
+
+(9) - 0.0 km Candids Cyon 855580
+	ECRIG1
+		Images:	674
+		Time:	03.07.2024 16:58:10 until 03.07.2024 19:49:25
+		Duration:	02:51:15
+		Location:	NULL NULL
+
+(10) - 0.0 km Candids Jordan Moldando 855581
+	EJMAL1
+		Images:	2124
+		Time:	03.07.2024 14:17:48 until 03.07.2024 17:18:13
+		Duration:	03:00:25
+		Location:	NULL NULL
+
+(11) - 0.0 km Candids Kelvin Glenn 855578
+	EKGLE1
+		Images:	704
+		Time:	04.07.2024 05:38:44 until 04.07.2024 08:32:54
+		Duration:	02:54:10
+		Location:	NULL NULL
+
+(12) - 0.0 km Candids Mark Mallory 855587
+	EMALL1
+		Images:	343
+		Time:	04.07.2024 08:46:09 until 04.07.2024 11:56:58
+		Duration:	03:10:49
+		Location:	NULL NULL
+
+(13) - 0.0 km Candids Momodu Jallow 855583
+	EMJAL1
+		Images:	105
+		Time:	04.07.2024 06:03:39 until 04.07.2024 08:35:13
+		Duration:	02:31:34
+		Location:	NULL NULL
+
+(14) - 0.0 km Candids Nicole Green 855574
+	ESSTU1
+		Images:	875
+		Time:	04.07.2024 02:55:08 until 04.07.2024 05:30:30
+		Duration:	02:35:22
+		Location:	NULL NULL
+
+(15) - 0.0 km Candids Pierro ROgers 855586
+	EPROG1
+		Images:	1665
+		Time:	04.07.2024 05:58:13 until 04.07.2024 08:41:52
+		Duration:	02:43:39
+		Location:	NULL NULL
+
+(16) - 0.0 km Candids Ryan Martin 855577
+	ERMAR1
+		Images:	469
+		Time:	04.07.2024 05:09:20 until 04.07.2024 08:46:28
+		Duration:	03:37:08
+		Location:	NULL NULL
+
+(17) - 0.0 km Candids Trev Dorsey 855576
+	ETDOR1
+		Images:	332
+		Time:	04.01.2024 10:32:36 until 04.01.2024 13:13:21
+		Duration:	02:40:45
+		Location:	NULL NULL
+
+(18) - 0.0 km Candis Darrin 855579
+	EDMUL1
+		Images:	1076
+		Time:	04.07.2024 04:43:16 until 04.07.2024 07:55:50
+		Duration:	03:12:34
+		Location:	NULL NULL
+
+(19) - 0.0 km FInish 855596
+	ESGTR2
+		Images:	13836
+		Time:	04.07.2024 04:54:38 until 04.07.2024 10:50:54
+		Duration:	05:56:16
+		Location:	NULL NULL
+
+(20) - 0.0 km Finish 855597
+	ETRLE2
+		Images:	12489
+		Time:	04.07.2024 07:30:00 until 04.07.2024 10:59:41
+		Duration:	03:29:41
+		Location:	NULL NULL
+
+(21) - 0.0 km Finish 855662
+	ESGTR1
+		Images:	12881
+		Time:	04.07.2024 05:49:34 until 04.07.2024 09:59:57
+		Duration:	04:10:23
+		Location:	NULL NULL
+
+(22) - 0.0 km Finish 855663
+	ETRLE1
+		Images:	11271
+		Time:	05.07.2023 05:07:41 until 04.07.2024 10:50:20
+		Duration:	365.05:42:39
+		Location:	NULL NULL
+
+(23) - 0.0 km MSC 1 Blayr 855604
+	BCART1
+		Images:	10505
+		Time:	04.07.2024 06:43:07 until 04.07.2024 10:13:45
+		Duration:	03:30:38
+		Location:	NULL NULL
+
+(24) - 0.0 km MSC 1 Brandon 855603
+	BCRUM1
+		Images:	11145
+		Time:	03.07.2024 06:35:43 until 03.07.2024 10:15:00
+		Duration:	03:39:17
+		Location:	NULL NULL
+
+(25) - 0.0 km MSC 1 Gus 855601
+	GARGA1
+		Images:	12360
+		Time:	04.07.2024 07:21:25 until 04.07.2024 08:22:53
+		Duration:	01:01:28
+		Location:	NULL NULL
+
+(26) - 0.0 km MSC 1 Josh 855602
+	JSMIT1
+		Images:	7820
+		Time:	04.07.2024 07:10:40 until 04.07.2024 10:01:47
+		Duration:	02:51:07
+		Location:	NULL NULL
+
+(27) - 0.0 km MSC 1 Trigger 1 855605
+	GARGA1LS2
+(28) - 0.0 km MSC 1 Trigger 2 855606
+	GARGA1LS1
+		Images:	10567
+		Time:	04.07.2024 13:09:50 until 04.07.2024 16:20:00
+		Duration:	03:10:10
+		Location:	NULL NULL
+
+(29) - 0.0 km MSC 2 Aleni 859673
+	ABARK1
+		Images:	5009
+		Time:	04.07.2024 05:40:51 until 04.07.2024 07:13:44
+		Duration:	01:32:53
+		Location:	NULL NULL
+
+(30) - 0.0 km MSC 2 Gabriel 859572
+	GTRUJ1
+		Images:	781
+		Time:	04.07.2024 05:41:41 until 04.07.2024 06:56:51
+		Duration:	01:15:10
+		Location:	NULL NULL
+
+(31) - 0.0 km MSC 2 Johari 855607
+	JDAVI1
+		Images:	5072
+		Time:	04.07.2024 07:10:40 until 04.07.2024 08:28:54
+		Duration:	01:18:14
+		Location:	NULL NULL
+
+(32) - 0.0 km MSC 2 Max 855608
+	MWILD1
+		Images:	4213
+		Time:	04.07.2024 06:39:03 until 04.07.2024 10:31:54
+		Duration:	03:52:51
+		Location:	NULL NULL
+
+(33) - 0.0 km MSC 2 Trigger 1 859574
+	JDAVI1LS1
+		Images:	4752
+		Time:	04.07.2024 06:55:13 until 04.07.2024 08:36:54
+		Duration:	01:41:41
+		Location:	NULL NULL
+
+(34) - 0.0 km MSC 2 Trigger 2 859575
+	JDAVI1LS2
+		Images:	4557
+		Time:	04.07.2024 06:24:13 until 04.07.2024 08:13:46
+		Duration:	01:49:33
+		Location:	NULL NULL
+
+(35) - 0.0 km MSC 3 Aaron 855657
+	ABRYA1
+		Images:	5591
+		Time:	03.07.2024 06:45:44 until 03.07.2024 10:59:50
+		Duration:	04:14:06
+		Location:	NULL NULL
+
+(36) - 0.0 km MSC 3 Brian 855658
+	BBATE1
+		Images:	12826
+		Time:	04.07.2024 06:17:00 until 04.07.2024 11:12:16
+		Duration:	04:55:16
+		Location:	NULL NULL
+
+(37) - 0.0 km MSC 3 Gabriella 855654
+	GTURN1
+		Images:	12785
+		Time:	04.07.2024 05:51:08 until 04.07.2024 09:36:52
+		Duration:	03:45:44
+		Location:	NULL NULL
+
+(38) - 0.0 km MSC 3 Henry 855656
+	HGOMZ1
+		Images:	6609
+		Time:	04.07.2024 02:42:09 until 04.07.2024 07:01:44
+		Duration:	04:19:35
+		Location:	NULL NULL
+
+(39) - 0.0 km MSC 3 Terri 855655
+	TWATK1
+		Images:	32378
+		Time:	04.07.2024 05:44:00 until 04.07.2024 11:03:40
+		Duration:	05:19:40
+		Location:	NULL NULL
+
+(40) - 0.0 km MSC 3 Trigger 855659
+	GTURN1LS1
+(41) - 0.0 km OFP - Alexsia Miller - 855649
+	POFAM1
+		Images:	460
+		Time:	04.07.2024 07:40:19 until 04.07.2024 10:48:44
+		Duration:	03:08:25
+		Location:	NULL NULL
+
+(42) - 0.0 km OFP - Chillion Thomas - 855646
+	PCTOF1
+		Images:	606
+		Time:	04.07.2024 18:51:27 until 04.07.2024 21:51:07
+		Duration:	02:59:40
+		Location:	NULL NULL
+
+(43) - 0.0 km OFP - Chirhe Amin - 855648
+	POFCA1
+		Images:	511
+		Time:	04.07.2024 06:50:57 until 04.07.2024 10:33:15
+		Duration:	03:42:18
+		Location:	NULL NULL
+
+(44) - 0.0 km OFP - Colleen Yontz - 855650
+	POFCY1
+		Images:	1072
+		Time:	04.07.2024 07:29:54 until 04.07.2024 10:52:20
+		Duration:	03:22:26
+		Location:	NULL NULL
+
+(45) - 0.0 km OFP - Domingo Merced - 855645
+	POFDM1
+		Images:	569
+		Time:	04.07.2024 06:52:35 until 04.07.2024 10:42:56
+		Duration:	03:50:21
+		Location:	NULL NULL
+
+(46) - 0.0 km OFP - Yakki Weems - 855647
+	POFYW1
+		Images:	737
+		Time:	03.07.2024 19:16:34 until 04.07.2024 10:33:46
+		Duration:	15:17:12
+		Location:	NULL NULL
+
+(47) - 0.0 km Post finish Cody Richardson 855555
+	ECRIC1
+		Images:	1114
+		Time:	04.07.2024 07:35:14 until 04.07.2024 10:44:14
+		Duration:	03:09:00
+		Location:	NULL NULL
+
+(48) - 0.0 km PR 855589
+	EOPRP1
+		Images:	318
+		Time:	04.07.2024 07:55:11 until 04.07.2024 08:25:15
+		Duration:	00:30:04
+		Location:	NULL NULL
+
+(49) - 0.0 km PR Start
+	BBSU1
+		Images:	507
+		Time:	03.07.2024 12:25:04 until 03.07.2024 13:03:12
+		Duration:	00:38:08
+		Location:	NULL NULL
+
+(50) - 0.0 km Pre Fin Adam 855638
+	ADOBB1
+	EADOB1
+		Images:	7013
+		Time:	03.07.2024 18:40:00 until 03.07.2024 22:57:21
+		Duration:	04:17:21
+		Location:	NULL NULL
+
+(51) - 0.0 km Pre Fin Asher 855637
+	AGREE1
+(52) - 0.0 km Pre Fin ASHER gREEN 855637
+	EAGRE1
+		Images:	19176
+		Time:	04.07.2024 06:43:56 until 04.07.2024 11:00:51
+		Duration:	04:16:55
+		Location:	NULL NULL
+
+(53) - 0.0 km Pre Fin Cory 855639
+	CRICH1
+		Images:	5147
+		Time:	04.07.2024 09:43:38 until 04.07.2024 14:02:35
+		Duration:	04:18:57
+		Location:	NULL NULL
+
+(54) - 0.0 km Pre Fin Evangelina 855640
+	EAVIL1
+		Images:	5170
+		Time:	03.07.2024 16:11:05 until 03.07.2024 17:35:37
+		Duration:	01:24:32
+		Location:	NULL NULL
+
+(55) - 0.0 km Pre Fin Julio 855636
+	JMORA1
+		Images:	15778
+		Time:	04.07.2024 05:39:51 until 04.07.2024 09:01:38
+		Duration:	03:21:47
+		Location:	NULL NULL
+
+(56) - 0.0 km Pre Fin Phillip 855635
+	PREYE1
+		Images:	5083
+		Time:	04.07.2024 09:32:08 until 04.07.2024 10:45:02
+		Duration:	01:12:54
+		Location:	NULL NULL
+
+(57) - 0.0 km Road Art Jody 855591
+	JMCKO1
+		Images:	14517
+		Time:	04.07.2024 06:10:32 until 04.07.2024 10:59:15
+		Duration:	04:48:43
+		Location:	NULL NULL
+
+(58) - 0.0 km Road Art Jonathan 855595
+	JORTE1
+		Images:	12353
+		Time:	04.07.2024 06:07:00 until 04.07.2024 09:59:18
+		Duration:	03:52:18
+		Location:	NULL NULL
+
+(59) - 0.0 km Road Art Lucas 855594
+	LKROL1
+		Images:	48276
+		Time:	04.07.2024 05:07:36 until 04.07.2024 09:57:10
+		Duration:	04:49:34
+		Location:	NULL NULL
+
+(60) - 0.0 km Road Art Tom 855590
+	TMEND1
+		Images:	12675
+		Time:	04.07.2024 05:54:04 until 04.07.2024 08:54:20
+		Duration:	03:00:16
+		Location:	NULL NULL
+
+(61) - 0.0 km Road Art Trigger 1 855598
+	BKROL1
+		Images:	9291
+		Time:	04.07.2024 06:38:13 until 04.07.2024 10:03:32
+		Duration:	03:25:19
+		Location:	NULL NULL
+
+(62) - 0.0 km Road Art Trigger 2 855599
+	BKROL2
+		Images:	1586
+		Time:	31.12.2013 19:00:01 until 31.12.2099 22:59:59
+		Duration:	31411.03:59:58
+		Location:	NULL NULL
+
+(63) - 0.0 km Road Art Trigger 3 855600
+	BKROL3
+		Images:	16436
+		Time:	04.07.2024 05:57:46 until 04.07.2024 10:14:19
+		Duration:	04:16:33
+		Location:	NULL NULL
+
+(64) - 0.0 km Road Art Walter 855592
+	WPINE1
+		Images:	7083
+		Time:	04.07.2024 08:17:58 until 04.07.2024 09:14:22
+		Duration:	00:56:24
+		Location:	NULL NULL
+
+(65) - 0.0 km Road Art William 855593
+	WLOFT1
+		Images:	3810
+		Time:	04.07.2024 06:06:23 until 04.07.2024 08:09:51
+		Duration:	02:03:28
+		Location:	NULL NULL
+
+(66) - 0.0 km START PR Susan 855642
+	EBBCC1
+		Images:	290
+		Time:	03.07.2024 18:41:37 until 03.07.2024 20:26:08
+		Duration:	01:44:31
+		Location:	NULL NULL
+
+(67) - Impressions / Pano
+	PANO1
+(68) - none
+	BACFN1
+	BCHME1
+		Images:	739
+		Time:	04.07.2024 06:36:28 until 04.07.2024 09:55:12
+		Duration:	03:18:44
+		Location:	NULL NULL
+
+	BCLME1
+		Images:	4836
+		Time:	20.07.2024 18:13:46 until 20.07.2024 21:28:06
+		Duration:	03:14:20
+		Location:	NULL NULL
+
+	BJCFN1
+		Images:	830
+		Time:	04.07.2024 07:45:57 until 04.07.2024 10:41:54
+		Duration:	02:55:57
+		Location:	NULL NULL
+
+	BJSFN1
+		Images:	380
+		Time:	04.07.2024 07:51:23 until 04.07.2024 10:42:20
+		Duration:	02:50:57
+		Location:	NULL NULL
+
+	BKROL4
+		Images:	1529
+		Time:	04.07.2024 10:18:46 until 04.07.2024 10:44:14
+		Duration:	00:25:28
+		Location:	NULL NULL
+
+	BMKME1
+		Images:	2616
+		Time:	04.07.2024 06:57:26 until 04.07.2024 10:49:10
+		Duration:	03:51:44
+		Location:	NULL NULL
+
+	BTMME1
+		Images:	1051
+		Time:	04.07.2024 07:36:52 until 04.07.2024 10:42:31
+		Duration:	03:05:39
+		Location:	NULL NULL
+
+	BZJFN1
+		Images:	681
+		Time:	04.07.2024 07:38:47 until 04.07.2024 10:11:11
+		Duration:	02:32:24
+		Location:	NULL NULL
+
+	EAVIL2
+		Images:	4406
+		Time:	03.07.2024 13:49:31 until 03.07.2024 16:09:07
+		Duration:	02:19:36
+		Location:	NULL NULL
+
+	EAVIL3
+		Images:	1139
+		Time:	03.07.2024 17:36:54 until 03.07.2024 18:20:20
+		Duration:	00:43:26
+		Location:	NULL NULL
+
+	PMYW1
+		Images:	2762
+		Time:	01.01.0001 23:00:00 until 04.07.2024 06:59:59
+		Duration:	739069.07:59:59
+		Location:	NULL NULL
+
+	PPCC1
+		Images:	99
+		Time:	04.07.2024 10:23:14 until 04.07.2024 10:40:37
+		Duration:	00:17:23
+		Location:	NULL NULL
+
+	PPCC2
+		Images:	1041
+		Time:	04.07.2024 05:51:32 until 04.07.2024 10:15:42
+		Duration:	04:24:10
+		Location:	NULL NULL
+
+	PPGB1
+		Images:	686
+		Time:	03.07.2024 07:40:58 until 03.07.2024 18:23:19
+		Duration:	10:42:21
+		Location:	NULL NULL
+
+	PPKW1
+		Images:	1440
+		Time:	04.07.2024 06:48:33 until 04.07.2024 10:42:52
+		Duration:	03:54:19
+		Location:	NULL NULL
+
+	PREYE2
+		Images:	8365
+		Time:	04.07.2024 06:51:04 until 04.07.2024 09:28:08
+		Duration:	02:37:04
+		Location:	NULL NULL
+
+	TMEND2
+		Images:	1060
+		Time:	04.07.2024 10:19:17 until 04.07.2024 10:42:21
+		Duration:	00:23:04
+		Location:	NULL NULL
+
+	TMEND3
+		Images:	11190
+		Time:	04.07.2024 08:56:48 until 04.07.2024 10:16:09
+		Duration:	01:19:21
+		Location:	NULL NULL
+
+	WLOFT2
+		Images:	4036
+		Time:	04.07.2024 09:39:03 until 04.07.2024 10:58:46
+		Duration:	01:19:43
+		Location:	NULL NULL
+
+	WPINE2
+		Images:	6997
+		Time:	04.07.2024 06:06:24 until 04.07.2024 08:16:47
+		Duration:	02:10:23
+		Location:	NULL NULL
+
+	WPINE3
+		Images:	6781
+		Time:	04.07.2024 09:15:18 until 04.07.2024 10:45:43
+		Duration:	01:30:25
+		Location:	NULL NULL
+

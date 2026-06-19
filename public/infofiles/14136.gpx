@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "46.79227" lon = "10.29822"><name>BATI1</name><desc>Start
+Images:213
+First:30.08.2025 06:54:29
+Last:30.08.2025 11:11:47
+Duration:04:17:18
+</desc></wpt>
+<wpt lat = "46.67013" lon = "10.04802"><name>SVL1</name><desc>38.1 km
+Images:2306
+First:30.08.2025 09:02:58
+Last:30.08.2025 11:35:58
+Duration:02:33:00
+</desc></wpt>
+<wpt lat = "46.67013" lon = "10.04802"><name>SVL1LS2</name><desc>38.1 km
+Images:1150
+First:30.08.2025 09:10:26
+Last:30.08.2025 11:36:03
+Duration:02:25:37
+</desc></wpt>
+<wpt lat = "46.67013" lon = "10.04802"><name>SVL1LS1</name><desc>38.1 km
+Images:1129
+First:30.08.2025 08:55:39
+Last:30.08.2025 10:43:43
+Duration:01:48:04
+</desc></wpt>
+<wpt lat = "46.69307" lon = "10.10153"><name>LGRU1</name><desc>75.8 km
+Images:2273
+First:30.08.2025 10:34:15
+Last:30.08.2025 15:14:29
+Duration:04:40:14
+</desc></wpt>
+<wpt lat = "46.69741" lon = "10.10031"><name>EVL1</name><desc>77.0 km
+Images:2765
+First:30.08.2025 10:21:53
+Last:30.08.2025 14:18:16
+Duration:03:56:23
+</desc></wpt>
+<wpt lat = "46.69741" lon = "10.10031"><name>EVL1LS1</name><desc>77.0 km
+Images:2074
+First:30.08.2025 10:35:22
+Last:30.08.2025 14:18:45
+Duration:03:43:23
+</desc></wpt>
+<wpt lat = "46.77135" lon = "10.12027"><name>DARU1</name><desc>88.5 km
+Images:3439
+First:30.08.2025 08:42:50
+Last:30.08.2025 15:14:18
+Duration:06:31:28
+</desc></wpt>
+<wpt lat = "46.77547" lon = "10.15373"><name>LBO1</name><desc>92.1 km
+Images:2625
+First:30.08.2025 09:00:23
+Last:30.08.2025 15:34:58
+Duration:06:34:35
+</desc></wpt>
+<wpt lat = "46.79226" lon = "10.29816"><name>BATI2</name><desc>Finish
+Images:2074
+First:30.08.2025 10:37:14
+Last:30.08.2025 16:47:27
+Duration:06:10:13
+</desc></wpt>
+<wpt lat = "46.79227" lon = "10.29822"><name>SVL2LS2</name><desc>Finish
+Images:1070
+First:30.08.2025 14:11:11
+Last:30.08.2025 16:47:16
+Duration:02:36:05
+</desc></wpt>
+<wpt lat = "46.79227" lon = "10.29822"><name>SVL2LS1</name><desc>Finish
+Images:797
+First:30.08.2025 14:05:32
+Last:30.08.2025 16:30:13
+Duration:02:24:41
+</desc></wpt>
+<wpt lat = "46.69741" lon = "10.10031"><name>EVL1DRONE1</name><desc>Impressions / Pano
+Images:11
+First:30.08.2025 11:28:19
+Last:30.08.2025 11:31:56
+Duration:00:03:37
+</desc></wpt>
+</gpx>

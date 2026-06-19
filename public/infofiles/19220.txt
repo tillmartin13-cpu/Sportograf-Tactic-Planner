@@ -1,0 +1,905 @@
+EventId: 19220
+Spots: 144
+Total Images: 1551332
+Time:	01.01.0001 23:00:00 to 11.10.2026 22:15:56
+Duration: 739898.23:15:56
+
+(1) - 0,0 km aaron spoolstra msc 3 862609
+	KASA1
+		Images:	4034
+		Time:	12.10.2025 07:32:41 until 12.10.2025 09:10:06
+		Duration:	01:37:25
+		Location:	NULL NULL
+
+(2) - 0,0 km aaron spoostra msc 5 862697
+	KASB1
+		Images:	3787
+		Time:	12.10.2025 09:17:59 until 12.10.2025 11:02:25
+		Duration:	01:44:26
+		Location:	NULL NULL
+
+(3) - 0,0 km alan ng msc 2 862596
+	GANGB1
+		Images:	32901
+		Time:	12.10.2025 07:06:58 until 12.10.2025 09:34:44
+		Duration:	02:27:46
+		Location:	NULL NULL
+
+(4) - 0,0 km chad c msc 1 862605
+	GCCA1
+		Images:	14297
+		Time:	12.10.2025 07:27:46 until 12.10.2025 09:41:23
+		Duration:	02:13:37
+		Location:	NULL NULL
+
+(5) - 0,0 km D850 Crops 1st batch
+	MSGEN3
+		Images:	4984
+		Time:	12.10.2025 09:46:34 until 12.10.2025 13:37:38
+		Duration:	03:51:04
+		Location:	NULL NULL
+
+(6) - 0,0 km D850 Full
+	MSGEN1
+		Images:	10358
+		Time:	12.10.2025 08:12:43 until 12.10.2025 13:37:41
+		Duration:	05:24:58
+		Location:	NULL NULL
+
+(7) - 0,0 km D850 Full 2nd batch
+	MSGEN4
+		Images:	5646
+		Time:	12.10.2025 13:39:17 until 12.10.2025 15:13:45
+		Duration:	01:34:28
+		Location:	NULL NULL
+
+(8) - 0,0 km dave t msc 5 862694
+	KDTA1
+		Images:	22200
+		Time:	12.10.2025 07:40:00 until 12.10.2025 11:16:37
+		Duration:	03:36:37
+		Location:	NULL NULL
+
+(9) - 0,0 km dennis p msc 5 862695
+	KDPA1
+		Images:	23434
+		Time:	12.10.2025 07:41:31 until 12.10.2025 11:08:02
+		Duration:	03:26:31
+		Location:	NULL NULL
+
+(10) - 0,0 km des msc 1 862602
+	GDTA1
+		Images:	12470
+		Time:	12.10.2025 07:27:35 until 12.10.2025 09:37:27
+		Duration:	02:09:52
+		Location:	NULL NULL
+
+(11) - 0,0 km Finish Julio 862664
+	MJMOR1
+		Images:	16879
+		Time:	12.10.2025 10:31:36 until 12.10.2025 17:59:48
+		Duration:	07:28:12
+		Location:	NULL NULL
+
+(12) - 0,0 km Finish Phillip R 862663
+	MPREY1
+		Images:	23095
+		Time:	12.10.2025 10:30:46 until 12.10.2025 14:44:56
+		Duration:	04:14:10
+		Location:	NULL NULL
+
+(13) - 0,0 km Finish Trigger Left
+	MFINI1
+		Images:	21580
+		Time:	12.10.2025 07:50:37 until 12.10.2025 15:54:57
+		Duration:	08:04:20
+		Location:	NULL NULL
+
+(14) - 0,0 km Finish trigger right
+	MFGUS1
+		Images:	22407
+		Time:	12.10.2025 09:35:31 until 12.10.2025 16:09:36
+		Duration:	06:34:05
+		Location:	NULL NULL
+
+(15) - 0,0 km israel vega msc 2 862598
+	GIVB1
+		Images:	14010
+		Time:	12.10.2025 07:24:24 until 12.10.2025 09:25:16
+		Duration:	02:00:52
+		Location:	NULL NULL
+
+(16) - 0,0 km MSC 13 Terry 862706
+	MTWER1
+		Images:	32212
+		Time:	12.10.2025 09:44:15 until 12.10.2025 16:18:11
+		Duration:	06:33:56
+		Location:	NULL NULL
+
+(17) - 0,0 km msc 2 trigger 862599
+	GTRB1
+		Images:	6372
+		Time:	12.10.2025 05:56:40 until 12.10.2025 08:27:06
+		Duration:	02:30:26
+		Location:	NULL NULL
+
+(18) - 0,0 km msc 3 trigger 862610
+	KTRC1
+		Images:	5065
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(19) - 0,0 km msc 5 trigger 1 862698
+	KTREA1
+		Images:	9192
+		Time:	12.10.2025 08:25:17 until 12.10.2025 11:16:36
+		Duration:	02:51:19
+		Location:	NULL NULL
+
+(20) - 0,0 km msc 5 trigger 2 862699
+	KTREB1
+		Images:	7484
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(21) - 0,0 km phillip msc 1 862603
+	GPRA1
+		Images:	17884
+		Time:	12.10.2025 07:08:16 until 12.10.2025 09:43:35
+		Duration:	02:35:19
+		Location:	NULL NULL
+
+(22) - 0,0 km Pre Fin D850 crops 2nd batch
+	MCRO1
+		Images:	5795
+		Time:	12.10.2025 13:39:18 until 12.10.2025 15:13:44
+		Duration:	01:34:26
+		Location:	NULL NULL
+
+(23) - 0,0 km Pre Fin left ground
+	MPFIN1
+		Images:	9944
+		Time:	12.10.2025 11:30:06 until 12.10.2025 14:22:17
+		Duration:	02:52:11
+		Location:	NULL NULL
+
+(24) - 0,0 km Pre Fin Left Ground 2
+	MPFIN2
+		Images:	5859
+		Time:	12.10.2025 14:22:18 until 12.10.2025 15:59:57
+		Duration:	01:37:39
+		Location:	NULL NULL
+
+(25) - 0,0 km Pre Pre Fin Left 2nd batch
+	MPFIN1LS1
+		Images:	8969
+		Time:	12.10.2025 13:36:11 until 12.10.2025 16:05:58
+		Duration:	02:29:47
+		Location:	NULL NULL
+
+(26) - 0,0 km Pre Pre FIn Left Stage
+	MSGEN2
+		Images:	12640
+		Time:	12.10.2025 10:03:39 until 12.10.2025 13:35:24
+		Duration:	03:31:45
+		Location:	NULL NULL
+
+(27) - 0,0 km zach bender msc 3 862608
+	KZBA1
+		Images:	4311
+		Time:	12.10.2025 08:31:14 until 12.10.2025 09:51:01
+		Duration:	01:19:47
+		Location:	NULL NULL
+
+(28) - 0,0 km zach bender msc 5 862696
+	KZBB1
+		Images:	8926
+		Time:	12.10.2025 10:10:25 until 12.10.2025 12:08:42
+		Duration:	01:58:17
+		Location:	NULL NULL
+
+(29) - 0.0 km
+	AEMA1
+		Images:	4632
+		Time:	12.10.2025 08:03:33 until 12.10.2025 13:39:25
+		Duration:	05:35:52
+		Location:	NULL NULL
+
+	ATRI1
+		Images:	17246
+		Time:	31.12.2006 18:00:01 until 31.12.2006 22:46:51
+		Duration:	04:46:50
+		Location:	NULL NULL
+
+	BBSA1
+		Images:	28616
+		Time:	01.01.0001 23:00:00 until 12.10.2025 14:40:29
+		Duration:	739534.15:40:29
+		Location:	NULL NULL
+
+	BLKA1
+		Images:	46422
+		Time:	12.10.2025 08:21:18 until 12.10.2025 13:52:14
+		Duration:	05:30:56
+		Location:	NULL NULL
+
+	CSHAW1
+		Images:	42090
+		Time:	12.10.2025 08:32:24 until 12.10.2025 13:52:04
+		Duration:	05:19:40
+		Location:	NULL NULL
+
+	HCENT1
+		Images:	23206
+		Time:	12.10.2024 04:20:18 until 12.10.2024 14:12:57
+		Duration:	09:52:39
+		Location:	NULL NULL
+
+	HGRR1
+		Images:	19271
+		Time:	12.10.2025 07:47:45 until 12.10.2025 16:16:09
+		Duration:	08:28:24
+		Location:	NULL NULL
+
+	HPFR1
+		Images:	19091
+		Time:	12.10.2025 10:40:13 until 12.10.2025 16:16:39
+		Duration:	05:36:26
+		Location:	NULL NULL
+
+	HRTOP1
+		Images:	22646
+		Time:	12.10.2025 10:02:17 until 12.10.2025 16:21:01
+		Duration:	06:18:44
+		Location:	NULL NULL
+
+	LBMAH1
+		Images:	4455
+		Time:	12.10.2025 10:11:06 until 12.10.2025 14:29:49
+		Duration:	04:18:43
+		Location:	NULL NULL
+
+	LBRAN1
+		Images:	1756
+		Time:	12.10.2025 10:06:46 until 12.10.2025 16:17:34
+		Duration:	06:10:48
+		Location:	NULL NULL
+
+	LBSWA1
+		Images:	2895
+		Time:	11.10.2025 10:08:29 until 11.10.2025 14:15:02
+		Duration:	04:06:33
+		Location:	NULL NULL
+
+	LCBIR1
+		Images:	11546
+		Time:	12.10.2025 10:07:04 until 12.10.2025 16:17:38
+		Duration:	06:10:34
+		Location:	NULL NULL
+
+	LCMAS1
+		Images:	1891
+		Time:	12.10.2025 09:10:32 until 12.10.2025 13:52:33
+		Duration:	04:42:01
+		Location:	NULL NULL
+
+	LEHUD1
+		Images:	8108
+		Time:	01.01.0001 23:00:00 until 12.10.2025 14:10:32
+		Duration:	739534.15:10:32
+		Location:	NULL NULL
+
+	LGMED1
+		Images:	2763
+		Time:	12.10.2025 10:09:54 until 12.10.2025 14:54:22
+		Duration:	04:44:28
+		Location:	NULL NULL
+
+	LMREE1
+		Images:	1599
+		Time:	11.10.2025 10:08:25 until 11.10.2025 14:37:49
+		Duration:	04:29:24
+		Location:	NULL NULL
+
+	LRAND1
+		Images:	4498
+		Time:	12.10.2025 09:47:25 until 12.10.2025 15:00:18
+		Duration:	05:12:53
+		Location:	NULL NULL
+
+	LRMCK1
+		Images:	1621
+		Time:	13.10.2025 10:11:47 until 13.10.2025 14:38:30
+		Duration:	04:26:43
+		Location:	NULL NULL
+
+	LTHAR1
+		Images:	923
+		Time:	11.10.2026 10:06:09 until 11.10.2026 12:49:41
+		Duration:	02:43:32
+		Location:	NULL NULL
+
+	LTRIC1
+		Images:	3523
+		Time:	12.10.2025 09:07:14 until 12.10.2025 15:44:08
+		Duration:	06:36:54
+		Location:	NULL NULL
+
+	NOSA1
+		Images:	15189
+		Time:	12.10.2025 07:08:31 until 12.10.2025 10:11:14
+		Duration:	03:02:43
+		Location:	NULL NULL
+
+	PDBEJ1
+		Images:	578
+		Time:	12.10.2025 10:04:26 until 12.10.2025 14:29:59
+		Duration:	04:25:33
+		Location:	NULL NULL
+
+	PDPIE1
+		Images:	1060
+		Time:	12.10.2025 10:04:46 until 12.10.2025 16:04:48
+		Duration:	06:00:02
+		Location:	NULL NULL
+
+	PEROS1
+		Images:	1003
+		Time:	01.01.0001 23:00:00 until 12.10.2025 15:41:57
+		Duration:	739534.16:41:57
+		Location:	NULL NULL
+
+	PJWAL1
+		Images:	3
+		Time:	04.04.2021 14:24:35 until 04.04.2021 14:29:17
+		Duration:	00:04:42
+		Location:	NULL NULL
+
+	SBWIL1
+		Images:	22818
+		Time:	12.10.2025 10:50:01 until 12.10.2025 15:43:00
+		Duration:	04:52:59
+		Location:	NULL NULL
+
+	SJALL1
+		Images:	48270
+		Time:	12.10.2025 08:39:46 until 12.10.2025 15:47:50
+		Duration:	07:08:04
+		Location:	NULL NULL
+
+	SJESP1
+		Images:	18981
+		Time:	12.10.2025 08:35:44 until 12.10.2025 15:43:53
+		Duration:	07:08:09
+		Location:	NULL NULL
+
+	SORLA1
+		Images:	28903
+		Time:	12.10.2025 10:56:58 until 12.10.2025 15:44:12
+		Duration:	04:47:14
+		Location:	NULL NULL
+
+	TAASP1
+		Images:	1699
+		Time:	12.10.2025 15:22:50 until 12.10.2025 16:26:45
+		Duration:	01:03:55
+		Location:	NULL NULL
+
+	TDADE1
+	TDADE1LS1
+		Images:	11971
+		Time:	12.10.2025 12:08:59 until 12.10.2025 15:48:28
+		Duration:	03:39:29
+		Location:	NULL NULL
+
+	TDEPE1
+		Images:	24658
+		Time:	12.10.2025 12:08:31 until 12.10.2025 16:04:27
+		Duration:	03:55:56
+		Location:	NULL NULL
+
+	TJFRG1
+		Images:	28785
+		Time:	12.10.2025 08:05:37 until 12.10.2025 16:01:10
+		Duration:	07:55:33
+		Location:	NULL NULL
+
+	TJLY1
+		Images:	4415
+		Time:	12.10.2025 08:28:49 until 12.10.2025 11:47:54
+		Duration:	03:19:05
+		Location:	NULL NULL
+
+	TKETR1
+		Images:	7877
+		Time:	12.10.2025 12:27:36 until 12.10.2025 16:04:24
+		Duration:	03:36:48
+		Location:	NULL NULL
+
+	TMATC1
+		Images:	28050
+		Time:	12.10.2025 08:46:10 until 12.10.2025 16:02:17
+		Duration:	07:16:07
+		Location:	NULL NULL
+
+	TMATC1LS1
+		Images:	21755
+		Time:	12.10.2025 09:26:21 until 12.10.2025 16:04:26
+		Duration:	06:38:05
+		Location:	NULL NULL
+
+	TRCZ1
+		Images:	20255
+		Time:	12.10.2025 09:34:18 until 12.10.2025 13:09:29
+		Duration:	03:35:11
+		Location:	NULL NULL
+
+(30) - 0.0 km Gus truck 862677
+	EGST1
+		Images:	3696
+		Time:	12.10.2025 06:24:13 until 12.10.2025 09:38:15
+		Duration:	03:14:02
+		Location:	NULL NULL
+
+(31) - 0.0 km jeff l msc 1 862601
+	EJLA1
+		Images:	19022
+		Time:	12.10.2025 07:26:23 until 12.10.2025 09:37:59
+		Duration:	02:11:36
+		Location:	NULL NULL
+
+(32) - 0.0 km JHAD VILLENA MSC 2 862597
+	EJVB1
+		Images:	14998
+		Time:	12.10.2025 07:16:01 until 12.10.2025 08:59:06
+		Duration:	01:43:05
+		Location:	NULL NULL
+
+(33) - 0.0 km Jonathan Truck 862678
+	EJRPT1
+		Images:	2277
+		Time:	12.10.2025 06:24:09 until 12.10.2025 09:43:36
+		Duration:	03:19:27
+		Location:	NULL NULL
+
+(34) - 0.0 km JULIO M MSC 1 862604
+	EJMA1
+		Images:	10414
+		Time:	12.10.2025 06:57:36 until 12.10.2025 09:38:29
+		Duration:	02:40:53
+		Location:	NULL NULL
+
+(35) - 0.0 km MSC 1 TRIGGER LEFT 862606
+	ETRAA1
+		Images:	9204
+		Time:	17.08.2025 09:05:10 until 12.10.2025 09:43:12
+		Duration:	56.00:38:02
+		Location:	NULL NULL
+
+(36) - 0.0 km MSC 1 TRIGGER RIGHT 862607
+	ETRAB1
+		Images:	11063
+		Time:	05.10.2025 13:01:11 until 12.10.2025 09:39:06
+		Duration:	6.20:37:55
+		Location:	NULL NULL
+
+(37) - 0.0 km msc 6 israsel vega 862703
+	CIVC1
+		Images:	13646
+		Time:	12.10.2025 09:45:41 until 12.10.2025 11:27:41
+		Duration:	01:42:00
+		Location:	NULL NULL
+
+(38) - 0.0 km MSC 6 JHAD V 862702
+	BJVB1
+		Images:	14235
+		Time:	12.10.2025 10:20:25 until 12.10.2025 11:25:59
+		Duration:	01:05:34
+		Location:	NULL NULL
+
+(39) - 0.0 km MSC 6 Keith 862700
+	CKTA1
+		Images:	14643
+		Time:	12.10.2025 07:38:26 until 12.10.2025 11:24:37
+		Duration:	03:46:11
+		Location:	NULL NULL
+
+(40) - 0.0 km msc 6 scott homich 862701
+	CSHA1
+		Images:	9042
+		Time:	12.10.2025 09:22:35 until 12.10.2025 11:21:57
+		Duration:	01:59:22
+		Location:	NULL NULL
+
+(41) - 0.0 km MSC 6 TRIGGER 862614
+	BTRF1
+		Images:	4446
+		Time:	12.10.2025 09:13:22 until 12.10.2025 10:28:21
+		Duration:	01:14:59
+		Location:	NULL NULL
+
+(42) - 0.0 km msc 8 craig 862611
+	ACRA1
+		Images:	17563
+		Time:	12.10.2025 08:50:15 until 12.10.2025 13:42:29
+		Duration:	04:52:14
+		Location:	NULL NULL
+
+(43) - 0.0 km msc 8 trigger
+	ATRH1
+		Images:	1
+		Time:	12.10.2025 11:33:20 until 12.10.2025 11:33:20
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(44) - 0.0 km msc 9 david krauss 862712
+	ADKA1
+		Images:	13486
+		Time:	12.10.2025 07:40:01 until 12.10.2025 13:36:56
+		Duration:	05:56:55
+		Location:	NULL NULL
+
+(45) - 0.0 km PFN Chad C 862586
+	OCCA1
+		Images:	26572
+		Time:	12.10.2025 10:31:55 until 12.10.2025 16:08:29
+		Duration:	05:36:34
+		Location:	NULL NULL
+
+(46) - 0.0 km PFN Desmond Tan 862587
+	ODTA1
+		Images:	25276
+		Time:	12.10.2025 10:25:24 until 12.10.2025 14:41:16
+		Duration:	04:15:52
+		Location:	NULL NULL
+
+(47) - 0.0 km PFN Jeff L 862584
+	OJLA1
+		Images:	26359
+		Time:	12.10.2025 10:29:54 until 12.10.2025 16:56:02
+		Duration:	06:26:08
+		Location:	NULL NULL
+
+(48) - 0.0 km PFN Jonathan R 862585
+	OJRO1
+		Images:	17084
+		Time:	12.10.2025 10:30:03 until 12.10.2025 16:04:32
+		Duration:	05:34:29
+		Location:	NULL NULL
+
+(49) - 0.0 km PFN Trigger Four 862591
+	OTRF1
+(50) - 0.0 km PFN Trigger One 862588
+	OTRO1
+(51) - 0.0 km PFN Trigger Three 862590
+	OTRE1
+(52) - 0.0 km PFN Trigger Two 862589
+	OTRT1
+(53) - 0.0 km pre race barathes randle 862570
+	QBAR1
+		Images:	733
+		Time:	12.10.2025 05:43:27 until 12.10.2025 08:45:35
+		Duration:	03:02:08
+		Location:	NULL NULL
+
+(54) - 0.0 km pre race claude 862569
+	QCBIR1
+		Images:	5961
+		Time:	12.10.2025 06:05:58 until 12.10.2025 08:40:29
+		Duration:	02:34:31
+		Location:	NULL NULL
+
+(55) - 0.0 km pre race claudia 862571
+	QCLAU1
+		Images:	368
+		Time:	12.10.2025 04:38:59 until 12.10.2025 07:39:54
+		Duration:	03:00:55
+		Location:	NULL NULL
+
+(56) - 0.0 km pre race gabriel mendoza 862580
+	QGMEN1
+		Images:	465
+		Time:	18.10.2017 08:25:24 until 18.10.2017 10:44:28
+		Duration:	02:19:04
+		Location:	NULL NULL
+
+(57) - 0.0 km pre race megyn 862581
+	QMBAR1
+		Images:	2255
+		Time:	12.10.2025 04:28:35 until 12.10.2025 06:51:46
+		Duration:	02:23:11
+		Location:	NULL NULL
+
+(58) - 0.0 km PreRace Elena B 862572
+	QEBA1
+		Images:	776
+		Time:	12.10.2025 05:38:33 until 12.10.2025 08:34:35
+		Duration:	02:56:02
+		Location:	NULL NULL
+
+(59) - 0.0 km PreRace Jamil L 862709
+	QJLY1
+		Images:	4132
+		Time:	12.10.2025 12:49:17 until 12.10.2025 16:02:42
+		Duration:	03:13:25
+		Location:	NULL NULL
+
+(60) - 0.0 km PreRace Jaquies P 862573
+	QJPH1
+		Images:	1068
+		Time:	12.10.2025 05:09:09 until 12.10.2025 07:53:22
+		Duration:	02:44:13
+		Location:	NULL NULL
+
+(61) - 0.0 km PreRace Levi S 862577
+	QLSR1
+		Images:	460
+		Time:	12.10.2025 06:37:27 until 12.10.2025 08:51:08
+		Duration:	02:13:41
+		Location:	NULL NULL
+
+(62) - 0.0 km PreRace Mehrau M 862578
+	QMMI1
+		Images:	414
+		Time:	11.10.2025 18:19:50 until 11.10.2025 20:45:52
+		Duration:	02:26:02
+		Location:	NULL NULL
+
+(63) - 0.0 km PreRace Nicole G 862576
+	QNGU1
+		Images:	546
+		Time:	12.10.2025 05:54:08 until 12.10.2025 08:58:46
+		Duration:	03:04:38
+		Location:	NULL NULL
+
+(64) - 0.0 km PreRace Rachel C 862707
+	QRCZ1
+		Images:	11812
+		Time:	12.10.2025 14:28:21 until 12.10.2025 17:18:12
+		Duration:	02:49:51
+		Location:	NULL NULL
+
+(65) - 0.0 km PreRace Renita A 862574
+	QRAN1
+		Images:	1327
+		Time:	12.10.2025 06:10:54 until 12.10.2025 08:49:12
+		Duration:	02:38:18
+		Location:	NULL NULL
+
+(66) - 0.0 km PreRace Serajuddin M 862579
+	QSMI1
+		Images:	891
+		Time:	12.10.2025 17:37:30 until 12.10.2025 20:43:43
+		Duration:	03:06:13
+		Location:	NULL NULL
+
+(67) - 0.0 km PreRace Terry W 862706
+	QTWH1
+		Images:	14662
+		Time:	12.10.2025 09:44:15 until 12.10.2025 14:09:28
+		Duration:	04:25:13
+		Location:	NULL NULL
+
+(68) - 0.0 km PreRace Tiffany H 862575
+	QTHA1
+		Images:	562
+		Time:	11.10.2026 19:10:30 until 11.10.2026 22:15:56
+		Duration:	03:05:26
+		Location:	NULL NULL
+
+(69) - 0.0 km PreRace Trigger Four 862710
+	QTRF1
+		Images:	32959
+		Time:	11.05.2016 19:40:37 until 12.10.2025 16:25:48
+		Duration:	3440.20:45:11
+		Location:	NULL NULL
+
+(70) - 0.0 km TOBY MSC 1 862600
+	ETCA1
+		Images:	19415
+		Time:	12.10.2025 06:49:33 until 12.10.2025 09:39:44
+		Duration:	02:50:11
+		Location:	NULL NULL
+
+(71) - 0.0 km trent fin bridge early 862615
+	ETWFB1
+		Images:	1491
+		Time:	12.10.2025 09:39:53 until 12.10.2025 11:03:12
+		Duration:	01:23:19
+		Location:	NULL NULL
+
+(72) - 0.0 km Trent start 862679
+	ETST1
+		Images:	507
+		Time:	12.10.2025 06:59:45 until 12.10.2025 08:58:34
+		Duration:	01:58:49
+		Location:	NULL NULL
+
+(73) - 21.5 MI
+	FCWIT1
+		Images:	40768
+		Time:	12.10.2025 08:26:59 until 12.10.2025 14:35:03
+		Duration:	06:08:04
+		Location:	NULL NULL
+
+	FHALL1
+		Images:	16505
+		Time:	12.10.2025 07:27:14 until 12.10.2025 14:49:59
+		Duration:	07:22:45
+		Location:	NULL NULL
+
+	FIGIV1
+		Images:	6323
+		Time:	12.10.2025 08:28:13 until 12.10.2025 14:32:19
+		Duration:	06:04:06
+		Location:	NULL NULL
+
+	FMKEL1
+		Images:	24785
+		Time:	12.10.2025 08:08:46 until 12.10.2025 14:17:16
+		Duration:	06:08:30
+		Location:	NULL NULL
+
+	FMKEL1LS1
+		Images:	34719
+		Time:	12.10.2025 14:52:31 until 12.10.2025 21:01:23
+		Duration:	06:08:52
+		Location:	NULL NULL
+
+	FMKEL1LS2
+	FMKON1
+		Images:	21719
+		Time:	12.10.2025 07:29:54 until 12.10.2025 14:30:01
+		Duration:	07:00:07
+		Location:	NULL NULL
+
+(74) - Impressions / Pano
+	PANO1
+(75) - none
+	AAAB1
+		Images:	28737
+		Time:	12.10.2025 11:18:35 until 12.10.2025 15:28:29
+		Duration:	04:09:54
+		Location:	NULL NULL
+
+	AAAB2
+		Images:	7045
+		Time:	12.10.2025 15:45:37 until 12.10.2025 17:12:30
+		Duration:	01:26:53
+		Location:	NULL NULL
+
+	BTRFB1
+		Images:	23845
+		Time:	12.10.2025 07:09:50 until 12.10.2025 11:05:32
+		Duration:	03:55:42
+		Location:	NULL NULL
+
+	CTRMM1
+		Images:	16562
+		Time:	12.10.2025 08:28:43 until 12.10.2025 13:57:14
+		Duration:	05:28:31
+		Location:	NULL NULL
+
+	NBWA1
+		Images:	17601
+		Time:	12.10.2025 06:49:25 until 12.10.2025 09:52:25
+		Duration:	03:03:00
+		Location:	NULL NULL
+
+	NTRD1
+		Images:	7937
+		Time:	12.10.2025 07:36:01 until 12.10.2025 09:48:40
+		Duration:	02:12:39
+		Location:	NULL NULL
+
+	PAMAR1
+		Images:	921
+		Time:	12.10.2025 10:08:30 until 12.10.2025 15:09:26
+		Duration:	05:00:56
+		Location:	NULL NULL
+
+	PEAFT1
+		Images:	1149
+		Time:	12.10.2025 10:09:23 until 12.10.2025 16:05:29
+		Duration:	05:56:06
+		Location:	NULL NULL
+
+	PEBAD1
+		Images:	1296
+		Time:	12.10.2025 09:44:35 until 12.10.2025 14:57:36
+		Duration:	05:13:01
+		Location:	NULL NULL
+
+	PEBOL1
+		Images:	1429
+		Time:	12.10.2025 10:04:48 until 12.10.2025 15:12:07
+		Duration:	05:07:19
+		Location:	NULL NULL
+
+	PERAF1
+		Images:	1336
+		Time:	12.10.2025 10:04:22 until 12.10.2025 15:45:05
+		Duration:	05:40:43
+		Location:	NULL NULL
+
+	PGHES1
+		Images:	745
+		Time:	12.10.2025 10:09:52 until 12.10.2025 14:56:45
+		Duration:	04:46:53
+		Location:	NULL NULL
+
+	PJKOL1
+		Images:	495
+		Time:	12.10.2025 13:09:14 until 12.10.2025 16:04:09
+		Duration:	02:54:55
+		Location:	NULL NULL
+
+	PJWIL1
+		Images:	2386
+		Time:	12.10.2025 10:08:05 until 12.10.2025 14:59:12
+		Duration:	04:51:07
+		Location:	NULL NULL
+
+	PKNEL1
+		Images:	1857
+		Time:	12.10.2025 10:11:01 until 12.10.2025 15:50:08
+		Duration:	05:39:07
+		Location:	NULL NULL
+
+	PLHAM1
+		Images:	805
+		Time:	12.10.2025 10:03:34 until 12.10.2025 14:52:20
+		Duration:	04:48:46
+		Location:	NULL NULL
+
+	PLSMI1
+		Images:	713
+		Time:	12.10.2025 10:19:33 until 12.10.2025 15:33:39
+		Duration:	05:14:06
+		Location:	NULL NULL
+
+	PMBAR1
+		Images:	1736
+		Time:	12.10.2025 08:19:19 until 12.10.2025 14:14:39
+		Duration:	05:55:20
+		Location:	NULL NULL
+
+	PMDER1
+		Images:	2355
+		Time:	12.10.2025 09:16:46 until 12.10.2025 15:09:32
+		Duration:	05:52:46
+		Location:	NULL NULL
+
+	PMJIM1
+		Images:	2630
+		Time:	12.10.2025 09:57:23 until 12.10.2025 15:05:28
+		Duration:	05:08:05
+		Location:	NULL NULL
+
+	PMPUS1
+		Images:	744
+		Time:	12.10.2025 10:15:37 until 12.10.2025 15:10:33
+		Duration:	04:54:56
+		Location:	NULL NULL
+
+	PNGUZ1
+		Images:	2155
+		Time:	05.01.2000 17:43:43 until 12.10.2025 13:31:02
+		Duration:	9411.19:47:19
+		Location:	NULL NULL
+
+	PTNGO1
+		Images:	654
+		Time:	12.10.2025 10:14:46 until 12.10.2025 15:02:26
+		Duration:	04:47:40
+		Location:	NULL NULL
+
+	SJRIN1
+	TTRG1
+		Images:	5746
+		Time:	01.01.0001 23:00:00 until 01.01.2014 18:27:16
+		Duration:	735232.19:27:16
+		Location:	NULL NULL
+

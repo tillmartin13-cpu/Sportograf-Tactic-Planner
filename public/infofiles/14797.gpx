@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "50.83850" lon = "5.71077"><name>PBO1</name><desc>Station 1 SKI ERG
+Images:10
+First:01.02.2025 06:32:39
+Last:01.02.2025 07:08:59
+Duration:00:36:20
+</desc></wpt>
+<wpt lat = "50.83850" lon = "5.71077"><name>VL1</name><desc>Station 2 SLED PUSH
+Images:3
+First:01.02.2025 06:48:42
+Last:01.02.2025 07:02:38
+Duration:00:13:56
+</desc></wpt>
+<wpt lat = "50.83850" lon = "5.71077"><name>WEN1</name><desc>Station 2 SLED PUSH
+Images:5
+First:01.02.2025 06:47:08
+Last:01.02.2025 06:48:56
+Duration:00:01:48
+</desc></wpt>
+<wpt lat = "50.83850" lon = "5.71077"><name>BENL1</name><desc>Station 2 SLED PUSH
+Images:1
+First:01.02.2025 06:57:52
+Last:01.02.2025 06:57:52
+Duration:00:00:00
+</desc></wpt>
+<wpt lat = "50.83850" lon = "5.71077"><name>MBEN1</name><desc>Station 3 SLED PULL
+Images:3
+First:01.02.2025 07:02:29
+Last:01.02.2025 07:03:59
+Duration:00:01:30
+</desc></wpt>
+<wpt lat = "50.83850" lon = "5.71077"><name>PARO3</name><desc>Station 3 SLED PULL
+Images:1
+First:01.02.2025 20:11:05
+Last:01.02.2025 20:11:05
+Duration:00:00:00
+</desc></wpt>
+<wpt lat = "50.83850" lon = "5.71077"><name>RM1</name><desc>Station 5 ROWING
+Images:3
+First:01.02.2025 06:51:34
+Last:01.02.2025 06:55:08
+Duration:00:03:34
+</desc></wpt>
+<wpt lat = "50.83850" lon = "5.71077"><name>DR1</name><desc>Station 7 SANDBAG LUNGES
+Images:1
+First:01.02.2025 06:58:12
+Last:01.02.2025 06:58:12
+Duration:00:00:00
+</desc></wpt>
+<wpt lat = "50.83850" lon = "5.71077"><name>PARO7</name><desc>Station 7 SANDBAG LUNGES
+Images:1
+First:01.02.2025 12:47:17
+Last:01.02.2025 12:47:17
+Duration:00:00:00
+</desc></wpt>
+<wpt lat = "50.83850" lon = "5.71077"><name>AMAR1</name><desc>Station 8 WALL BALLS
+Images:2
+First:01.02.2025 06:44:50
+Last:01.02.2025 06:46:07
+Duration:00:01:17
+</desc></wpt>
+<wpt lat = "50.83850" lon = "5.71077"><name>MK1IMP1</name><desc>Impressions / Pano
+Images:2
+First:01.02.2025 09:07:12
+Last:01.02.2025 09:32:17
+Duration:00:25:05
+</desc></wpt>
+</gpx>

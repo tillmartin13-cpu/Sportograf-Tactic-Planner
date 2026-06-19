@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "41.35632" lon = "2.13055"><name>MANR1</name><desc>IMP
+Images:649
+First:27.04.2025 09:29:02
+Last:27.04.2025 15:57:32
+Duration:06:28:30
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>STO1</name><desc>IMP
+Images:177
+First:27.04.2025 07:24:08
+Last:27.04.2025 12:07:55
+Duration:04:43:47
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>TGM1</name><desc>IMP
+Images:368
+First:27.04.2025 08:48:59
+Last:27.04.2025 12:30:01
+Duration:03:41:02
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>EGO1</name><desc>SKIERG
+Images:6439
+First:27.04.2025 07:40:09
+Last:27.04.2025 15:10:04
+Duration:07:29:55
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>AFGA1</name><desc>SKIERG
+Images:6201
+First:27.04.2025 08:04:40
+Last:27.04.2025 15:12:30
+Duration:07:07:50
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>MCAS1</name><desc>SKIERG
+Images:9743
+First:27.04.2025 08:10:23
+Last:27.04.2025 15:09:22
+Duration:06:58:59
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>JLTG2</name><desc>SKIERG
+Images:3664
+First:27.04.2025 15:27:45
+Last:27.04.2025 18:12:31
+Duration:02:44:46
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>JCR2</name><desc>SKIERG
+Images:1877
+First:27.04.2025 15:36:34
+Last:27.04.2025 18:13:04
+Duration:02:36:30
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>TGM6</name><desc>SKIERG
+Images:96
+First:27.04.2025 15:25:07
+Last:27.04.2025 15:30:43
+Duration:00:05:36
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>CJL2</name><desc>SKIERG
+Images:2965
+First:27.04.2025 15:14:48
+Last:27.04.2025 18:11:51
+Duration:02:57:03
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>CJL1</name><desc>SLED PUSH
+Images:3948
+First:27.04.2025 07:39:50
+Last:27.04.2025 14:59:05
+Duration:07:19:15
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>URU1</name><desc>SLED PUSH
+Images:5381
+First:27.04.2025 08:13:15
+Last:27.04.2025 15:02:43
+Duration:06:49:28
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>JGM1</name><desc>SLED PUSH
+Images:3593
+First:27.04.2025 07:39:50
+Last:27.04.2025 15:02:28
+Duration:07:22:38
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>MCAS2</name><desc>SLED PUSH
+Images:3467
+First:27.04.2025 15:16:07
+Last:27.04.2025 18:21:16
+Duration:03:05:09
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>FRZ2</name><desc>SLED PUSH
+Images:5046
+First:27.04.2025 15:15:16
+Last:27.04.2025 18:22:47
+Duration:03:07:31
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>MRAB2</name><desc>SLED PUSH
+Images:1230
+First:27.04.2025 15:26:18
+Last:27.04.2025 18:23:37
+Duration:02:57:19
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>TGM5</name><desc>SLED PUSH
+Images:73
+First:27.04.2025 15:15:03
+Last:27.04.2025 15:20:32
+Duration:00:05:29
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>JMO1</name><desc>SLED PULL
+Images:5825
+First:27.04.2025 08:26:34
+Last:27.04.2025 15:08:18
+Duration:06:41:44
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>JIA1</name><desc>SLED PULL
+Images:3521
+First:27.04.2025 07:36:22
+Last:27.04.2025 15:06:59
+Duration:07:30:37
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>FRZ1</name><desc>SLED PULL
+Images:6897
+First:27.04.2025 08:27:51
+Last:27.04.2025 15:09:04
+Duration:06:41:13
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>EGO2</name><desc>SLED PULL
+Images:2012
+First:27.04.2025 15:22:22
+Last:27.04.2025 18:32:02
+Duration:03:09:40
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>JGM2</name><desc>SLED PULL
+Images:3216
+First:27.04.2025 15:09:15
+Last:27.04.2025 18:29:49
+Duration:03:20:34
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>URU2</name><desc>SLED PULL
+Images:2231
+First:27.04.2025 15:08:49
+Last:27.04.2025 18:32:28
+Duration:03:23:39
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>JRD1</name><desc>ROWING
+Images:9000
+First:27.04.2025 09:04:02
+Last:27.04.2025 15:13:40
+Duration:06:09:38
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>MIFP1</name><desc>ROWING
+Images:8819
+First:27.04.2025 08:09:10
+Last:27.04.2025 15:22:17
+Duration:07:13:07
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>JMO2</name><desc>ROWING
+Images:8415
+First:27.04.2025 15:15:21
+Last:27.04.2025 18:53:03
+Duration:03:37:42
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>PSP2</name><desc>ROWING
+Images:3921
+First:27.04.2025 15:21:51
+Last:27.04.2025 18:48:49
+Duration:03:26:58
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>STO2</name><desc>ROWING
+Images:926
+First:27.04.2025 12:11:45
+Last:27.04.2025 12:33:20
+Duration:00:21:35
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>TGM2</name><desc>ROWING
+Images:350
+First:27.04.2025 12:33:06
+Last:27.04.2025 12:55:32
+Duration:00:22:26
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>TGM7</name><desc>ROWING
+Images:668
+First:27.04.2025 15:49:57
+Last:27.04.2025 16:48:21
+Duration:00:58:24
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>MANR1LS1</name><desc>FARMERS CARRY
+Images:3441
+First:27.04.2025 08:29:11
+Last:27.04.2025 19:08:16
+Duration:10:39:05
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>STO1LS1</name><desc>FARMERS CARRY
+Images:6173
+First:27.04.2025 07:31:59
+Last:27.04.2025 19:14:06
+Duration:11:42:07
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>RAVE1</name><desc>SANDBAG
+Images:11485
+First:27.04.2025 07:38:06
+Last:27.04.2025 15:13:50
+Duration:07:35:44
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>MRAB1</name><desc>SANDBAG
+Images:8795
+First:27.04.2025 08:24:42
+Last:27.04.2025 15:15:09
+Duration:06:50:27
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>JIA2</name><desc>SANDBAG
+Images:4542
+First:27.04.2025 15:14:46
+Last:27.04.2025 19:14:56
+Duration:04:00:10
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>JRD2</name><desc>SANDBAG
+Images:3253
+First:27.04.2025 15:20:31
+Last:27.04.2025 19:19:52
+Duration:03:59:21
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>STO3</name><desc>SANDBAG
+Images:916
+First:27.04.2025 12:46:07
+Last:27.04.2025 14:24:40
+Duration:01:38:33
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>STO5</name><desc>SANDBAG
+Images:999
+First:27.04.2025 16:32:04
+Last:27.04.2025 17:30:18
+Duration:00:58:14
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>TGM3</name><desc>SANDBAG
+Images:201
+First:27.04.2025 13:15:07
+Last:27.04.2025 13:49:25
+Duration:00:34:18
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>TGM8</name><desc>SANDBAG
+Images:415
+First:27.04.2025 16:56:57
+Last:27.04.2025 17:18:15
+Duration:00:21:18
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>JLTG1</name><desc>WALL BALLS
+Images:6964
+First:27.04.2025 09:16:43
+Last:27.04.2025 15:18:10
+Duration:06:01:27
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>PSP1</name><desc>WALL BALLS
+Images:3127
+First:27.04.2025 08:07:36
+Last:27.04.2025 15:18:21
+Duration:07:10:45
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>MIFP2</name><desc>WALL BALLS
+Images:3536
+First:27.04.2025 15:22:28
+Last:27.04.2025 19:25:32
+Duration:04:03:04
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>AFGA2</name><desc>WALL BALLS
+Images:2322
+First:27.04.2025 15:19:40
+Last:27.04.2025 19:28:56
+Duration:04:09:16
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>STO6</name><desc>WALL BALLS
+Images:999
+First:27.04.2025 17:30:19
+Last:27.04.2025 18:01:52
+Duration:00:31:33
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>STO7</name><desc>WALL BALLS
+Images:30
+First:27.04.2025 18:01:52
+Last:27.04.2025 18:02:15
+Duration:00:00:23
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>TGM4</name><desc>WALL BALLS
+Images:357
+First:27.04.2025 13:59:25
+Last:27.04.2025 14:44:09
+Duration:00:44:44
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>TGM9</name><desc>WALL BALLS
+Images:533
+First:27.04.2025 17:46:33
+Last:27.04.2025 18:10:07
+Duration:00:23:34
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>JCR1</name><desc>Finish
+Images:3308
+First:27.04.2025 07:26:05
+Last:27.04.2025 15:21:05
+Duration:07:55:00
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>OSR2</name><desc>Finish
+Images:1914
+First:27.04.2025 15:25:58
+Last:27.04.2025 19:33:52
+Duration:04:07:54
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>JLTG1LS1</name><desc>Finish
+Images:4562
+First:25.03.2025 06:52:17
+Last:27.04.2025 18:56:35
+Duration:33.12:04:18
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>TGM1LS1</name><desc>Finish
+Images:2656
+First:27.04.2025 07:42:39
+Last:27.04.2025 19:32:15
+Duration:11:49:36
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>STO4</name><desc>Finish
+Images:459
+First:27.04.2025 15:45:47
+Last:27.04.2025 16:10:08
+Duration:00:24:21
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>TGM10</name><desc>Finish
+Images:448
+First:27.04.2025 18:15:51
+Last:27.04.2025 18:44:10
+Duration:00:28:19
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>OSR1</name><desc>HERO WALL
+Images:2382
+First:27.04.2025 07:24:36
+Last:27.04.2025 15:19:23
+Duration:07:54:47
+</desc></wpt>
+<wpt lat = "41.35632" lon = "2.13055"><name>RAVE2</name><desc>HERO WALL
+Images:1909
+First:27.04.2025 15:20:06
+Last:27.04.2025 19:34:16
+Duration:04:14:10
+</desc></wpt>
+</gpx>

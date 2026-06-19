@@ -1,0 +1,339 @@
+EventId: 10302
+Spots: 53
+Total Images: 236943
+Time:	01.01.0001 23:00:00 to 14.05.2023 00:33:41
+Duration: 738652.01:33:41
+
+(1) - 0.0 km 5k finish trigger
+	SG1LS1
+		Images:	3107
+		Time:	13.05.2023 08:09:01 until 13.05.2023 09:04:52
+		Duration:	00:55:51
+		Location:	NULL NULL
+
+(2) - 0.0 km 5k Michele
+	MB2
+		Images:	1092
+		Time:	13.05.2023 08:01:02 until 13.05.2023 09:11:33
+		Duration:	01:10:31
+		Location:	NULL NULL
+
+(3) - 0.0 km 5k Pre Trigger
+	DT1LS1
+		Images:	1578
+		Time:	13.05.2023 10:15:00 until 13.05.2023 11:08:03
+		Duration:	00:53:03
+		Location:	NULL NULL
+
+(4) - 0.0 km Dave Full 1st
+	DT4
+		Images:	5385
+		Time:	13.05.2023 13:33:34 until 13.05.2023 14:37:26
+		Duration:	01:03:52
+		Location:	NULL NULL
+
+(5) - 0.0 km fin trigger half
+	SG1LS2
+		Images:	5410
+		Time:	13.05.2023 09:54:47 until 13.05.2023 12:45:26
+		Duration:	02:50:39
+		Location:	NULL NULL
+
+(6) - 0.0 km full 1k Michele
+	MB1
+		Images:	638
+		Time:	13.05.2023 07:26:13 until 13.05.2023 07:38:33
+		Duration:	00:12:20
+		Location:	NULL NULL
+
+(7) - 0.0 km Jerome 2nd lab full
+	JS1
+		Images:	4743
+		Time:	13.05.2023 08:45:18 until 13.05.2023 10:41:30
+		Duration:	01:56:12
+		Location:	NULL NULL
+
+(8) - 0.0 km Michele FInish
+	MM1
+		Images:	9654
+		Time:	28.04.2019 08:34:05 until 13.05.2023 16:42:24
+		Duration:	1476.08:08:19
+		Location:	NULL NULL
+
+(9) - 0.0 km mikael 1
+	ML1
+		Images:	2361
+		Time:	13.05.2023 13:31:13 until 13.05.2023 16:10:26
+		Duration:	02:39:13
+		Location:	NULL NULL
+
+(10) - 0.0 km mikael2
+	ML2
+		Images:	2213
+		Time:	13.05.2023 11:38:30 until 13.05.2023 13:22:25
+		Duration:	01:43:55
+		Location:	NULL NULL
+
+(11) - 0.0 km PRe FIn trigger Dave right
+	DT2LS1
+		Images:	780
+		Time:	01.01.0001 23:00:00 until 13.05.2023 10:40:28
+		Duration:	738651.11:40:28
+		Location:	NULL NULL
+
+(12) - 0.0 km Pre fin trigger right half
+	BB1
+		Images:	6818
+		Time:	13.05.2023 15:44:34 until 13.05.2023 18:28:39
+		Duration:	02:44:05
+		Location:	NULL NULL
+
+(13) - 0.0 km Samppa 1st
+	SF2
+		Images:	380
+		Time:	13.05.2023 08:38:49 until 13.05.2023 09:34:03
+		Duration:	00:55:14
+		Location:	NULL NULL
+
+(14) - 0.0 km samppa 2nd lab full
+	SF1
+		Images:	5071
+		Time:	13.05.2023 09:36:59 until 13.05.2023 12:20:46
+		Duration:	02:43:47
+		Location:	NULL NULL
+
+(15) - 0.0 km Start FULL
+	DT1
+		Images:	103
+		Time:	13.05.2023 09:18:09 until 13.05.2023 09:49:08
+		Duration:	00:30:59
+		Location:	NULL NULL
+
+(16) - 0.0 km tj half medals
+	TJ1
+		Images:	1937
+		Time:	13.05.2023 18:28:37 until 14.05.2023 00:33:41
+		Duration:	06:05:04
+		Location:	NULL NULL
+
+(17) - 0.0 km trigger pre right half
+	DT2LS2
+		Images:	4789
+		Time:	13.05.2023 10:56:48 until 13.05.2023 13:46:08
+		Duration:	02:49:20
+		Location:	NULL NULL
+
+(18) - 0.0 km Van Full
+	VQ3
+		Images:	5046
+		Time:	13.05.2023 08:46:08 until 13.05.2023 13:19:55
+		Duration:	04:33:47
+		Location:	NULL NULL
+
+(19) - Impressions / Pano
+	PANO1
+(20) - none
+	AB1
+		Images:	2508
+		Time:	13.05.2023 11:16:03 until 13.05.2023 18:25:51
+		Duration:	07:09:48
+		Location:	NULL NULL
+
+	DT2
+		Images:	3560
+		Time:	13.05.2023 08:15:55 until 13.05.2023 09:06:29
+		Duration:	00:50:34
+		Location:	NULL NULL
+
+	DT2LS3
+		Images:	1244
+		Time:	13.05.2023 14:06:57 until 13.05.2023 14:50:01
+		Duration:	00:43:04
+		Location:	NULL NULL
+
+	DT2LS4
+		Images:	25
+		Time:	13.05.2023 15:44:34 until 13.05.2023 15:44:58
+		Duration:	00:00:24
+		Location:	NULL NULL
+
+	DT3
+		Images:	7372
+		Time:	13.05.2023 09:55:58 until 13.05.2023 13:32:09
+		Duration:	03:36:11
+		Location:	NULL NULL
+
+	DT5
+		Images:	9219
+		Time:	13.05.2023 14:38:25 until 13.05.2023 16:41:43
+		Duration:	02:03:18
+		Location:	NULL NULL
+
+	FS1
+		Images:	3431
+		Time:	13.05.2023 08:36:25 until 13.05.2023 10:18:07
+		Duration:	01:41:42
+		Location:	NULL NULL
+
+	FS2
+		Images:	4131
+		Time:	13.05.2023 10:23:43 until 13.05.2023 13:04:06
+		Duration:	02:40:23
+		Location:	NULL NULL
+
+	FS3
+		Images:	8362
+		Time:	13.05.2023 13:11:55 until 13.05.2023 16:12:44
+		Duration:	03:00:49
+		Location:	NULL NULL
+
+	JS2
+		Images:	508
+		Time:	13.05.2023 07:38:45 until 13.05.2023 07:47:25
+		Duration:	00:08:40
+		Location:	NULL NULL
+
+	JS3
+		Images:	2455
+		Time:	13.05.2023 11:15:09 until 13.05.2023 11:59:37
+		Duration:	00:44:28
+		Location:	NULL NULL
+
+	JS4
+		Images:	3888
+		Time:	13.05.2023 12:23:41 until 13.05.2023 13:21:51
+		Duration:	00:58:10
+		Location:	NULL NULL
+
+	JS5
+		Images:	10251
+		Time:	13.05.2023 14:09:31 until 13.05.2023 16:36:15
+		Duration:	02:26:44
+		Location:	NULL NULL
+
+	MB3
+		Images:	4747
+		Time:	01.01.0001 23:00:00 until 13.05.2023 13:28:39
+		Duration:	738651.14:28:39
+		Location:	NULL NULL
+
+	MB4
+		Images:	80
+		Time:	13.05.2023 13:31:02 until 13.05.2023 13:37:14
+		Duration:	00:06:12
+		Location:	NULL NULL
+
+	ML3
+		Images:	3407
+		Time:	13.05.2023 15:09:02 until 13.05.2023 17:07:19
+		Duration:	01:58:17
+		Location:	NULL NULL
+
+	PS1
+		Images:	14980
+		Time:	13.05.2023 09:43:12 until 13.05.2023 16:33:00
+		Duration:	06:49:48
+		Location:	NULL NULL
+
+	PS2
+		Images:	4050
+		Time:	13.05.2023 16:33:01 until 13.05.2023 18:39:04
+		Duration:	02:06:03
+		Location:	NULL NULL
+
+	SE1
+		Images:	5602
+		Time:	13.05.2023 15:10:04 until 13.05.2023 16:33:30
+		Duration:	01:23:26
+		Location:	NULL NULL
+
+	SE2
+		Images:	4992
+		Time:	13.05.2023 12:14:31 until 13.05.2023 15:09:47
+		Duration:	02:55:16
+		Location:	NULL NULL
+
+	SE3
+		Images:	4800
+		Time:	13.05.2023 10:00:36 until 13.05.2023 12:14:18
+		Duration:	02:13:42
+		Location:	NULL NULL
+
+	SF3
+		Images:	2882
+		Time:	13.05.2023 13:23:40 until 13.05.2023 15:11:19
+		Duration:	01:47:39
+		Location:	NULL NULL
+
+	SF4
+		Images:	9443
+		Time:	13.05.2023 15:12:00 until 13.05.2023 17:32:54
+		Duration:	02:20:54
+		Location:	NULL NULL
+
+	SG1
+		Images:	5350
+		Time:	13.05.2023 09:14:54 until 13.05.2023 10:35:34
+		Duration:	01:20:40
+		Location:	NULL NULL
+
+	SG1LS3
+		Images:	7484
+		Time:	13.05.2023 13:36:02 until 13.05.2023 16:09:35
+		Duration:	02:33:33
+		Location:	NULL NULL
+
+	SL1
+		Images:	5360
+		Time:	13.05.2023 07:38:45 until 13.05.2023 10:38:40
+		Duration:	02:59:55
+		Location:	NULL NULL
+
+	SL2
+		Images:	6591
+		Time:	13.05.2023 10:39:21 until 13.05.2023 13:51:24
+		Duration:	03:12:03
+		Location:	NULL NULL
+
+	SL3
+		Images:	5835
+		Time:	13.05.2023 14:29:15 until 13.05.2023 16:37:46
+		Duration:	02:08:31
+		Location:	NULL NULL
+
+	VQ1
+		Images:	517
+		Time:	13.05.2023 07:26:00 until 13.05.2023 07:37:48
+		Duration:	00:11:48
+		Location:	NULL NULL
+
+	VQ2
+		Images:	627
+		Time:	13.05.2023 08:00:40 until 13.05.2023 08:43:49
+		Duration:	00:43:09
+		Location:	NULL NULL
+
+	VQ4
+		Images:	6377
+		Time:	13.05.2023 13:22:25 until 13.05.2023 16:09:19
+		Duration:	02:46:54
+		Location:	NULL NULL
+
+	VQ4LS1
+		Images:	16581
+		Time:	13.05.2023 11:28:59 until 13.05.2023 18:14:14
+		Duration:	06:45:15
+		Location:	NULL NULL
+
+	VV1
+		Images:	7754
+		Time:	13.05.2023 14:31:13 until 13.05.2023 17:23:01
+		Duration:	02:51:48
+		Location:	NULL NULL
+
+	YC1
+		Images:	1425
+		Time:	13.05.2023 11:53:56 until 13.05.2023 18:18:30
+		Duration:	06:24:34
+		Location:	NULL NULL
+

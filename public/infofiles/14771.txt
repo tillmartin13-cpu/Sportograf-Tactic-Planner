@@ -1,0 +1,132 @@
+EventId: 14771
+Spots: 20
+Total Images: 48000
+Time:	26.07.2025 13:34:47 to 27.07.2025 15:24:26
+Duration: 1.01:49:39
+
+(1) - Impressions Swim Entry and Transition Zone
+	MERO1
+		Images:	466
+		Time:	26.07.2025 13:34:47 until 27.07.2025 12:44:03
+		Duration:	23:09:16
+		Location:	51.30578 12.25183
+
+(2) - Swim - Exit
+	MERO2
+		Images:	2065
+		Time:	27.07.2025 11:16:49 until 27.07.2025 11:56:21
+		Duration:	00:39:32
+		Location:	51.30578 12.25183
+
+	MERO2LS1
+		Images:	973
+		Time:	27.07.2025 10:09:22 until 27.07.2025 12:16:04
+		Duration:	02:06:42
+		Location:	51.30578 12.25183
+
+(3) - Bike - 0,4 km
+	SBU1
+		Images:	1611
+		Time:	27.07.2025 11:22:00 until 27.07.2025 11:43:09
+		Duration:	00:21:09
+		Location:	51.30409 12.25702
+
+(4) - Bike - 1,5 km
+	GUD1
+		Images:	9431
+		Time:	26.07.2025 15:21:22 until 27.07.2025 12:58:48
+		Duration:	21:37:26
+		Location:	51.29337 12.26161
+
+	GUD1LS1
+		Images:	3425
+		Time:	27.07.2025 11:26:07 until 27.07.2025 12:59:51
+		Duration:	01:33:44
+		Location:	51.29337 12.26161
+
+	GUD1LS2
+		Images:	3406
+		Time:	27.07.2025 11:23:44 until 27.07.2025 13:00:41
+		Duration:	01:36:57
+		Location:	51.29337 12.26161
+
+(5) - Bike - 5,1 km
+	BS1
+		Images:	5559
+		Time:	27.07.2025 09:57:09 until 27.07.2025 13:15:11
+		Duration:	03:18:02
+		Location:	51.28292 12.28318
+
+	BS1LS1
+		Images:	2700
+		Time:	27.07.2025 10:24:46 until 27.07.2025 13:09:32
+		Duration:	02:44:46
+		Location:	51.28292 12.28318
+
+(6) - Run - 1,1 km
+	SBU2
+		Images:	5162
+		Time:	27.07.2025 12:33:34 until 27.07.2025 14:45:52
+		Duration:	02:12:18
+		Location:	51.29676 12.25367
+
+	SBU2LS1
+		Images:	1723
+		Time:	27.07.2025 12:04:13 until 27.07.2025 14:39:53
+		Duration:	02:35:40
+		Location:	51.29676 12.25367
+
+(7) - Run - 3,7 km
+	BS2
+		Images:	2270
+		Time:	27.07.2025 13:34:55 until 27.07.2025 15:14:34
+		Duration:	01:39:39
+		Location:	51.30109 12.25833
+
+	BS2LS1
+		Images:	1333
+		Time:	27.07.2025 13:28:51 until 27.07.2025 14:52:08
+		Duration:	01:23:17
+		Location:	51.30109 12.25833
+
+(8) - Run - 3,9 km
+	GUD2
+		Images:	2766
+		Time:	27.07.2025 13:37:00 until 27.07.2025 15:16:32
+		Duration:	01:39:32
+		Location:	51.30163 12.26017
+
+	GUD2LS1
+		Images:	773
+		Time:	27.07.2025 13:34:49 until 27.07.2025 14:51:59
+		Duration:	01:17:10
+		Location:	51.30163 12.26017
+
+	GUD2LS2
+		Images:	861
+		Time:	27.07.2025 13:29:15 until 27.07.2025 14:51:59
+		Duration:	01:22:44
+		Location:	51.30163 12.26017
+
+(9) - Finish
+	MERO3
+		Images:	2383
+		Time:	27.07.2025 12:53:06 until 27.07.2025 15:24:26
+		Duration:	02:31:20
+		Location:	51.30482 12.25334
+
+	MERO3LS1
+		Images:	1074
+		Time:	27.07.2025 12:21:13 until 27.07.2025 14:53:08
+		Duration:	02:31:55
+		Location:	51.30482 12.25334
+
+(10) - Impressions / Pano
+	GUD1DRONE1
+		Images:	17
+		Time:	26.07.2025 14:45:59 until 27.07.2025 10:56:56
+		Duration:	20:10:57
+		Location:	51.30482 12.25334
+
+(11) - Swim - Impressions / Pano
+	PANO1

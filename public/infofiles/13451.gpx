@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "33.24628" lon = "126.51014"><name>AYO1</name><desc>Start
+Images:190
+First:17.10.2025 20:45:45
+Last:18.10.2025 05:02:45
+Duration:08:17:00
+</desc></wpt>
+<wpt lat = "33.24628" lon = "126.51014"><name>KEIN1</name><desc>Start
+Images:130
+First:18.10.2025 04:46:46
+Last:18.10.2025 05:02:44
+Duration:00:15:58
+</desc></wpt>
+<wpt lat = "33.24628" lon = "126.51014"><name>KTN1</name><desc>Start
+Images:1788
+First:18.10.2025 07:24:21
+Last:18.10.2025 09:42:18
+Duration:02:17:57
+</desc></wpt>
+<wpt lat = "33.24628" lon = "126.51014"><name>NNG1</name><desc>Start
+Images:261
+First:18.10.2025 04:57:28
+Last:18.10.2025 05:02:43
+Duration:00:05:15
+</desc></wpt>
+<wpt lat = "33.24628" lon = "126.51014"><name>NNG1DRONE1</name><desc>Start
+Images:7
+First:17.10.2025 20:56:31
+Last:17.10.2025 21:04:31
+Duration:00:08:00
+</desc></wpt>
+<wpt lat = "33.24628" lon = "126.51014"><name>RSK1</name><desc>Start
+Images:117
+First:17.10.2025 20:24:53
+Last:17.10.2025 21:05:08
+Duration:00:40:15
+</desc></wpt>
+<wpt lat = "33.24628" lon = "126.51014"><name>RYT1</name><desc>Start
+Images:2
+First:17.10.2025 20:25:57
+Last:17.10.2025 20:42:28
+Duration:00:16:31
+</desc></wpt>
+<wpt lat = "33.24628" lon = "126.51014"><name>TDB1</name><desc>Start
+Images:116
+First:17.10.2025 20:24:57
+Last:17.10.2025 21:02:50
+Duration:00:37:53
+</desc></wpt>
+<wpt lat = "33.38245" lon = "126.73567"><name>TDB3</name><desc>Start
+Images:5060
+First:18.10.2025 09:29:53
+Last:18.10.2025 16:14:54
+Duration:06:45:01
+</desc></wpt>
+<wpt lat = "33.24628" lon = "126.51014"><name>TDK1</name><desc>Start
+Images:116
+First:17.10.2025 20:35:54
+Last:17.10.2025 21:07:23
+Duration:00:31:29
+</desc></wpt>
+<wpt lat = "33.33829" lon = "126.62007"><name>AYO2</name><desc>26.0 km 70K
+Images:8108
+First:18.10.2025 07:30:06
+Last:18.10.2025 13:12:31
+Duration:05:42:25
+</desc></wpt>
+<wpt lat = "33.33829" lon = "126.62007"><name>KEIN2</name><desc>26.0 km 70K
+Images:13522
+First:18.10.2025 09:41:37
+Last:18.10.2025 13:16:29
+Duration:03:34:52
+</desc></wpt>
+<wpt lat = "33.30839" lon = "126.55892"><name>AYO3</name><desc>38.0 km 70K
+Images:6007
+First:18.10.2025 14:49:16
+Last:18.10.2025 18:04:51
+Duration:03:15:35
+</desc></wpt>
+<wpt lat = "33.30839" lon = "126.55892"><name>KEIN3</name><desc>38.0 km 70K
+Images:6805
+First:18.10.2025 14:37:46
+Last:18.10.2025 18:40:10
+Duration:04:02:24
+</desc></wpt>
+<wpt lat = "33.24628" lon = "126.51014"><name>AYO4</name><desc>Finish
+Images:5298
+First:18.10.2025 18:30:23
+Last:19.10.2025 08:02:57
+Duration:13:32:34
+</desc></wpt>
+<wpt lat = "33.24628" lon = "126.51014"><name>KEIN4</name><desc>Finish
+Images:4724
+First:18.10.2025 20:03:45
+Last:19.10.2025 08:09:22
+Duration:12:05:37
+</desc></wpt>
+<wpt lat = "33.24628" lon = "126.51014"><name>KTN4</name><desc>Finish
+Images:2912
+First:18.10.2025 17:21:55
+Last:19.10.2025 04:59:33
+Duration:11:37:38
+</desc></wpt>
+<wpt lat = "33.24628" lon = "126.51014"><name>NNG3</name><desc>Finish
+Images:1176
+First:18.10.2025 13:03:14
+Last:18.10.2025 16:25:21
+Duration:03:22:07
+</desc></wpt>
+<wpt lat = "33.24628" lon = "126.51014"><name>NNG3LS1</name><desc>Finish
+Images:1180
+First:18.10.2025 12:54:28
+Last:18.10.2025 20:57:18
+Duration:08:02:50
+</desc></wpt>
+<wpt lat = "33.24628" lon = "126.51014"><name>NNG3LS2</name><desc>Finish
+Images:2686
+First:18.10.2025 16:36:08
+Last:19.10.2025 10:05:41
+Duration:17:29:33
+</desc></wpt>
+<wpt lat = "33.24628" lon = "126.51014"><name>RSK4</name><desc>Finish
+Images:2516
+First:18.10.2025 17:16:44
+Last:19.10.2025 04:59:27
+Duration:11:42:43
+</desc></wpt>
+<wpt lat = "33.24628" lon = "126.51014"><name>RYT3</name><desc>Finish
+Images:2799
+First:18.10.2025 14:10:26
+Last:19.10.2025 02:13:33
+Duration:12:03:07
+</desc></wpt>
+<wpt lat = "33.38245" lon = "126.73567"><name>TDB3LS1</name><desc>Finish
+Images:2167
+First:18.10.2025 12:08:28
+Last:18.10.2025 13:28:48
+Duration:01:20:20
+</desc></wpt>
+<wpt lat = "33.24628" lon = "126.51014"><name>TDB5</name><desc>Finish
+Images:864
+First:19.10.2025 08:04:45
+Last:19.10.2025 09:56:09
+Duration:01:51:24
+</desc></wpt>
+<wpt lat = "33.24628" lon = "126.51014"><name>TDB5LS1</name><desc>Finish
+Images:1898
+First:18.10.2025 21:48:56
+Last:19.10.2025 09:58:18
+Duration:12:09:22
+</desc></wpt>
+<wpt lat = "33.24628" lon = "126.51014"><name>TDK5</name><desc>Finish
+Images:3372
+First:18.10.2025 23:07:35
+Last:19.10.2025 10:11:56
+Duration:11:04:21
+</desc></wpt>
+<wpt lat = "33.35903" lon = "126.49858"><name>KTN2</name><desc>22.0 km 100K
+Images:357
+First:18.10.2025 15:00:08
+Last:18.10.2025 15:33:38
+Duration:00:33:30
+</desc></wpt>
+<wpt lat = "33.35845" lon = "126.50399"><name>RSK2</name><desc>22.0 km 100K
+Images:2391
+First:18.10.2025 07:22:22
+Last:18.10.2025 12:09:56
+Duration:04:47:34
+</desc></wpt>
+<wpt lat = "33.26698" lon = "126.51293"><name>KTN3</name><desc>51.0 km 70K
+Images:88
+First:17.10.2025 20:45:07
+Last:17.10.2025 21:01:09
+Duration:00:16:02
+</desc></wpt>
+<wpt lat = "33.26698" lon = "126.51293"><name>TDB4</name><desc>51.0 km 70K
+Images:957
+First:18.10.2025 16:16:20
+Last:18.10.2025 17:35:09
+Duration:01:18:49
+</desc></wpt>
+<wpt lat = "33.26698" lon = "126.51293"><name>TDB4LS1</name><desc>51.0 km 70K
+Images:1038
+First:18.10.2025 16:08:07
+Last:18.10.2025 17:07:12
+Duration:00:59:05
+</desc></wpt>
+<wpt lat = "33.38914" lon = "126.49430"><name>NNG2</name><desc>28.0 km 100K
+Images:3679
+First:18.10.2025 07:56:58
+Last:18.10.2025 10:37:50
+Duration:02:40:52
+</desc></wpt>
+<wpt lat = "33.26156" lon = "126.49146"><name>NNG4</name><desc>60.0 km 70K
+Images:2725
+First:19.10.2025 06:44:52
+Last:19.10.2025 08:45:24
+Duration:02:00:32
+</desc></wpt>
+<wpt lat = "33.26156" lon = "126.49146"><name>NNG4LS1</name><desc>60.0 km 70K
+Images:440
+First:19.10.2025 06:36:17
+Last:19.10.2025 08:46:56
+Duration:02:10:39
+</desc></wpt>
+<wpt lat = "33.26156" lon = "126.49146"><name>TDB6</name><desc>60.0 km 70K
+Images:684
+First:19.10.2025 05:47:49
+Last:19.10.2025 07:38:53
+Duration:01:51:04
+</desc></wpt>
+<wpt lat = "33.28595" lon = "126.52248"><name>RSK3</name><desc>47.5 km 70K
+Images:1117
+First:18.10.2025 12:20:36
+Last:18.10.2025 16:22:15
+Duration:04:01:39
+</desc></wpt>
+<wpt lat = "33.28595" lon = "126.52248"><name>TDK4</name><desc>47.5 km 70K
+Images:2090
+First:18.10.2025 15:35:22
+Last:18.10.2025 23:06:22
+Duration:07:31:00
+</desc></wpt>
+<wpt lat = "33.24628" lon = "126.51014"><name>RYT2</name><desc>80.0 km 100M
+Images:3672
+First:18.10.2025 06:02:52
+Last:18.10.2025 12:02:59
+Duration:06:00:07
+</desc></wpt>
+<wpt lat = "33.24628" lon = "126.51014"><name>TDB2DRONE1</name><desc>80.0 km 100M
+Images:6
+First:18.10.2025 06:45:41
+Last:18.10.2025 07:08:26
+Duration:00:22:45
+</desc></wpt>
+<wpt lat = "33.24628" lon = "126.51014"><name>TDK2</name><desc>80.0 km 100M
+Images:25
+First:18.10.2025 06:02:01
+Last:18.10.2025 06:56:18
+Duration:00:54:17
+</desc></wpt>
+<wpt lat = "33.24628" lon = "126.51014"><name>TDB2</name><desc>3.5 km 70K
+Images:1833
+First:18.10.2025 06:03:51
+Last:18.10.2025 08:36:33
+Duration:02:32:42
+</desc></wpt>
+<wpt lat = "33.24628" lon = "126.51014"><name>TDB2LS1</name><desc>3.5 km 70K
+Images:1098
+First:18.10.2025 08:14:04
+Last:18.10.2025 12:06:33
+Duration:03:52:29
+</desc></wpt>
+<wpt lat = "33.39501" lon = "126.73864"><name>TDK3</name><desc>13.0 km 20K
+Images:7671
+First:18.10.2025 07:43:06
+Last:18.10.2025 14:30:13
+Duration:06:47:07
+</desc></wpt>
+</gpx>

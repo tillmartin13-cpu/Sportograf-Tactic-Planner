@@ -1,0 +1,179 @@
+EventId: 14324
+Spots: 28
+Total Images: 46689
+Time:	31.05.2025 07:51:49 to 31.05.2025 20:04:43
+Duration: 12:12:54
+
+(1) - Start
+	ALN1
+		Images:	3034
+		Time:	31.05.2025 07:54:42 until 31.05.2025 15:40:12
+		Duration:	07:45:30
+		Location:	50.71651 6.14322
+
+(2) - 5.0 km Kornelimünster
+	AG1
+		Images:	2469
+		Time:	31.05.2025 08:00:10 until 31.05.2025 09:37:37
+		Duration:	01:37:27
+		Location:	50.72884 6.18445
+
+	AG1LS2
+		Images:	348
+		Time:	31.05.2025 07:53:00 until 31.05.2025 09:50:37
+		Duration:	01:57:37
+		Location:	50.72884 6.18445
+
+	AG1LS1
+		Images:	394
+		Time:	31.05.2025 07:51:49 until 31.05.2025 09:51:28
+		Duration:	01:59:39
+		Location:	50.72884 6.18445
+
+(3) - Impressions / Pano
+	AG1DRONE1
+		Images:	14
+		Time:	31.05.2025 09:46:04 until 31.05.2025 09:48:32
+		Duration:	00:02:28
+		Location:	50.72884 6.18445
+
+	PANO1
+	ALN3DRONE1
+		Images:	23
+		Time:	31.05.2025 07:55:33 until 31.05.2025 16:55:56
+		Duration:	09:00:23
+		Location:	50.71713 6.14900
+
+(4) - 10.5 km Gravel Race
+	AG2
+		Images:	7596
+		Time:	31.05.2025 15:16:59 until 31.05.2025 18:03:19
+		Duration:	02:46:20
+		Location:	50.74473 6.11921
+
+	AG2LS2
+		Images:	546
+		Time:	31.05.2025 14:52:45 until 31.05.2025 17:53:28
+		Duration:	03:00:43
+		Location:	50.74473 6.11921
+
+	AG2LS1
+		Images:	570
+		Time:	31.05.2025 15:16:59 until 31.05.2025 17:55:05
+		Duration:	02:38:06
+		Location:	50.74473 6.11921
+
+(5) - 18.5 km vor dem Ziel
+	NWO1
+		Images:	282
+		Time:	31.05.2025 09:37:18 until 31.05.2025 13:17:23
+		Duration:	03:40:05
+		Location:	50.68483 6.22732
+
+	NWO1LS2
+		Images:	519
+		Time:	31.05.2025 08:56:38 until 31.05.2025 13:22:34
+		Duration:	04:25:56
+		Location:	50.68483 6.22732
+
+	NWO1LS1
+		Images:	400
+		Time:	31.05.2025 08:47:03 until 31.05.2025 12:24:50
+		Duration:	03:37:47
+		Location:	50.68483 6.22732
+
+(6) - 18.0 km vor dem Ziel
+	TOG1
+		Images:	718
+		Time:	31.05.2025 08:52:31 until 31.05.2025 13:20:23
+		Duration:	04:27:52
+		Location:	50.69031 6.21977
+
+	TOG1LS2
+		Images:	393
+		Time:	31.05.2025 08:37:11 until 31.05.2025 13:23:29
+		Duration:	04:46:18
+		Location:	50.69031 6.21977
+
+	TOG1LS1
+		Images:	542
+		Time:	31.05.2025 08:37:38 until 31.05.2025 13:25:47
+		Duration:	04:48:09
+		Location:	50.69031 6.21977
+
+(7) - 32.0 km Gravel Race
+	TOG2
+		Images:	6206
+		Time:	31.05.2025 13:21:36 until 31.05.2025 18:55:55
+		Duration:	05:34:19
+		Location:	50.70382 6.21715
+
+	TOG2LS2
+		Images:	1963
+		Time:	31.05.2025 15:44:32 until 31.05.2025 18:55:54
+		Duration:	03:11:22
+		Location:	50.70382 6.21715
+
+	TOG2LS1
+		Images:	2030
+		Time:	31.05.2025 13:27:05 until 31.05.2025 19:00:14
+		Duration:	05:33:09
+		Location:	50.70382 6.21715
+
+(8) - 32.5 km Gravel Race
+	NWO2
+		Images:	3169
+		Time:	31.05.2025 15:59:27 until 31.05.2025 18:56:40
+		Duration:	02:57:13
+		Location:	50.70185 6.21602
+
+	NWO2LS2
+		Images:	1115
+		Time:	31.05.2025 16:30:53 until 31.05.2025 19:05:54
+		Duration:	02:35:01
+		Location:	50.70185 6.21602
+
+	NWO2LS1
+		Images:	812
+		Time:	31.05.2025 17:46:58 until 31.05.2025 19:04:02
+		Duration:	01:17:04
+		Location:	50.70185 6.21602
+
+(9) - Finish Gravel Race
+	ALN3LS2
+		Images:	1797
+		Time:	31.05.2025 16:04:58 until 31.05.2025 20:03:00
+		Duration:	03:58:02
+		Location:	50.71713 6.14900
+
+	ALN3
+		Images:	5058
+		Time:	31.05.2025 16:46:53 until 31.05.2025 20:03:49
+		Duration:	03:16:56
+		Location:	50.71713 6.14900
+
+	ALN3LS1
+		Images:	1699
+		Time:	31.05.2025 16:00:46 until 31.05.2025 20:04:43
+		Duration:	04:03:57
+		Location:	50.71713 6.14900
+
+(10) - Finish Road Rides
+	ALN2
+		Images:	2193
+		Time:	31.05.2025 09:53:47 until 31.05.2025 14:32:06
+		Duration:	04:38:19
+		Location:	50.7163 6.14731
+
+	ALN2LS2
+		Images:	1480
+		Time:	31.05.2025 11:52:15 until 31.05.2025 13:41:05
+		Duration:	01:48:50
+		Location:	50.7163 6.14731
+
+	ALN2LS1
+		Images:	1319
+		Time:	31.05.2025 11:51:20 until 31.05.2025 13:39:42
+		Duration:	01:48:22
+		Location:	50.7163 6.14731
+

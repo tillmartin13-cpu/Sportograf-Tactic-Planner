@@ -1,0 +1,176 @@
+EventId: 12995
+Spots: 25
+Total Images: 139815
+Time:	31.12.2006 19:00:23 to 18.02.2024 12:11:14
+Duration: 6257.17:10:51
+
+(1) - 0.0 km a1abob
+	TWAT2
+		Images:	10551
+		Time:	18.02.2024 04:24:25 until 18.02.2024 09:58:00
+		Duration:	05:33:35
+		Location:	NULL NULL
+
+(2) - 0.0 km ALFREDEO BER
+	ABER1
+		Images:	1719
+		Time:	18.02.2024 03:50:55 until 18.02.2024 11:12:54
+		Duration:	07:21:59
+		Location:	NULL NULL
+
+(3) - 0.0 km don MSC 1
+	DONE1
+		Images:	1634
+		Time:	18.02.2024 04:19:03 until 18.02.2024 05:45:57
+		Duration:	01:26:54
+		Location:	NULL NULL
+
+(4) - 0.0 km Finish Andres Mendoza
+	AMEND1
+		Images:	9214
+		Time:	18.02.2024 05:28:51 until 18.02.2024 10:56:21
+		Duration:	05:27:30
+		Location:	NULL NULL
+
+(5) - 0.0 km Finish Tom
+	OTM2
+		Images:	11494
+		Time:	18.02.2024 04:13:49 until 18.02.2024 11:27:25
+		Duration:	07:13:36
+		Location:	NULL NULL
+
+(6) - 0.0 km KATHERINE CALLE
+	KCAL1
+		Images:	1367
+		Time:	18.02.2024 05:47:33 until 18.02.2024 11:05:45
+		Duration:	05:18:12
+		Location:	NULL NULL
+
+(7) - 0.0 km Kelly PR
+	KSHE1
+		Images:	430
+		Time:	31.12.2006 19:00:23 until 18.02.2024 11:01:01
+		Duration:	6257.16:00:38
+		Location:	NULL NULL
+
+(8) - 0.0 km Kelly Trigger Pre Finish
+	KSHE2LS1
+		Images:	18728
+		Time:	18.02.2024 05:47:06 until 18.02.2024 11:02:42
+		Duration:	05:15:36
+		Location:	NULL NULL
+
+(9) - 0.0 km kids race
+	DONE3
+		Images:	184
+		Time:	18.02.2024 10:48:41 until 18.02.2024 10:58:30
+		Duration:	00:09:49
+		Location:	NULL NULL
+
+(10) - 0.0 km MSC 1 Wyman
+	WJONG1
+		Images:	2112
+		Time:	18.02.2024 04:29:22 until 18.02.2024 06:09:33
+		Duration:	01:40:11
+		Location:	NULL NULL
+
+(11) - 0.0 km MSC 2 Aquiles
+	AMER1
+		Images:	6837
+		Time:	18.02.2024 06:20:22 until 18.02.2024 10:42:44
+		Duration:	04:22:22
+		Location:	NULL NULL
+
+(12) - 0.0 km MSC 2 Sergio
+	SORTI1
+		Images:	5836
+		Time:	18.02.2024 05:19:23 until 18.02.2024 08:42:17
+		Duration:	03:22:54
+		Location:	NULL NULL
+
+(13) - 0.0 km MSC 3 Megan
+	MPIIA1
+		Images:	3041
+		Time:	18.02.2024 04:21:57 until 18.02.2024 09:45:16
+		Duration:	05:23:19
+		Location:	NULL NULL
+
+(14) - 0.0 km MSC 3 Trigger
+	TWAT1LS1
+		Images:	7166
+		Time:	18.02.2024 04:39:57 until 18.02.2024 10:01:17
+		Duration:	05:21:20
+		Location:	NULL NULL
+
+(15) - 0.0 km MSC 4 Bob
+	BMARK1
+		Images:	8063
+		Time:	18.02.2024 05:26:01 until 18.02.2024 10:59:17
+		Duration:	05:33:16
+		Location:	NULL NULL
+
+(16) - 0.0 km MSC 4 Bob Markey Trigger
+	BMARK1LS1
+		Images:	6236
+		Time:	18.02.2024 06:42:40 until 18.02.2024 12:11:14
+		Duration:	05:28:34
+		Location:	NULL NULL
+
+(17) - 0.0 km MSC 4 Randy
+	RSCHI1
+		Images:	8594
+		Time:	18.02.2024 05:28:24 until 18.02.2024 10:50:40
+		Duration:	05:22:16
+		Location:	NULL NULL
+
+(18) - 0.0 km Pre Finish Don
+	DONE2
+		Images:	8163
+		Time:	18.02.2024 05:52:36 until 18.02.2024 10:36:38
+		Duration:	04:44:02
+		Location:	NULL NULL
+
+(19) - 0.0 km Pre Finish Wyman
+	WJONG2
+		Images:	4647
+		Time:	18.02.2024 06:19:41 until 18.02.2024 09:30:26
+		Duration:	03:10:45
+		Location:	NULL NULL
+
+(20) - 0.0 km Start Tom
+	OTM1
+		Images:	685
+		Time:	18.02.2024 04:13:49 until 18.02.2024 05:16:11
+		Duration:	01:02:22
+		Location:	NULL NULL
+
+(21) - 0.0 km Stephen
+	STCAN1
+		Images:	1089
+		Time:	18.02.2014 05:35:07 until 18.02.2014 11:17:39
+		Duration:	05:42:32
+		Location:	NULL NULL
+
+(22) - 0.0 km Terri MSc 3
+	TWAT1
+		Images:	12663
+		Time:	18.02.2024 04:25:44 until 18.02.2024 07:22:38
+		Duration:	02:56:54
+		Location:	NULL NULL
+
+(23) - 0.0 km tom finishtrigger
+	OTM3
+		Images:	9046
+		Time:	18.02.2024 05:30:48 until 18.02.2024 08:41:55
+		Duration:	03:11:07
+		Location:	NULL NULL
+
+(24) - Impressions / Pano
+	PANO1
+(25) - none
+	KSHE2
+		Images:	316
+		Time:	18.02.2024 10:48:42 until 18.02.2024 11:01:01
+		Duration:	00:12:19
+		Location:	NULL NULL
+

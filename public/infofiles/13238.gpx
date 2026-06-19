@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "46.68344" lon = "9.56366"><name>MAWI1</name><desc>Start
+Images:373
+First:22.06.2025 06:55:32
+Last:22.06.2025 07:18:24
+Duration:00:22:52
+</desc></wpt>
+<wpt lat = "46.68344" lon = "9.56366"><name>MAWI1IMP1</name><desc>Start
+Images:126
+First:22.06.2025 06:09:09
+Last:22.06.2025 14:31:24
+Duration:08:22:15
+</desc></wpt>
+<wpt lat = "46.66366" lon = "9.57776"><name>EVL1</name><desc>km4.5
+Images:1538
+First:22.06.2025 06:01:42
+Last:22.06.2025 07:28:10
+Duration:01:26:28
+</desc></wpt>
+<wpt lat = "46.66356" lon = "9.57896"><name>EVL1LS1</name><desc>km4.5
+Images:759
+First:22.06.2025 06:10:07
+Last:22.06.2025 07:30:42
+Duration:01:20:35
+</desc></wpt>
+<wpt lat = "46.66356" lon = "9.57896"><name>EVL1LS2</name><desc>km4.5
+Images:724
+First:22.06.2025 06:19:14
+Last:22.06.2025 07:33:14
+Duration:01:14:00
+</desc></wpt>
+<wpt lat = "46.63914" lon = "9.73248"><name>MAPP1</name><desc>km20.5
+Images:1868
+First:22.06.2025 06:29:47
+Last:22.06.2025 09:03:29
+Duration:02:33:42
+</desc></wpt>
+<wpt lat = "46.63914" lon = "9.73248"><name>MAPP1LS1</name><desc>km20.5
+Images:1821
+First:22.06.2025 06:40:54
+Last:22.06.2025 08:43:30
+Duration:02:02:36
+</desc></wpt>
+<wpt lat = "46.59530" lon = "9.75987"><name>MOG3</name><desc>km27.5
+Images:1679
+First:22.06.2025 06:47:26
+Last:22.06.2025 10:19:24
+Duration:03:31:58
+</desc></wpt>
+<wpt lat = "46.59530" lon = "9.75987"><name>MOG3LS1</name><desc>km27.5
+Images:1444
+First:22.06.2025 07:34:28
+Last:22.06.2025 09:53:34
+Duration:02:19:06
+</desc></wpt>
+<wpt lat = "46.59530" lon = "9.75987"><name>MOG3LS2</name><desc>km27.5
+Images:1425
+First:22.06.2025 07:32:07
+Last:22.06.2025 09:43:24
+Duration:02:11:17
+</desc></wpt>
+<wpt lat = "46.58555" lon = "9.85284"><name>BP1</name><desc>km35.0
+Images:1514
+First:22.06.2025 08:03:41
+Last:22.06.2025 10:49:34
+Duration:02:45:53
+</desc></wpt>
+<wpt lat = "46.58555" lon = "9.85284"><name>BP1LS1</name><desc>km35.0
+Images:908
+First:22.06.2025 07:45:54
+Last:22.06.2025 10:59:57
+Duration:03:14:03
+</desc></wpt>
+<wpt lat = "46.58555" lon = "9.85284"><name>BP1LS2</name><desc>km35.0
+Images:1069
+First:22.06.2025 08:16:19
+Last:22.06.2025 10:51:55
+Duration:02:35:36
+</desc></wpt>
+<wpt lat = "46.58555" lon = "9.85284"><name>BP1DRONE1</name><desc>km35.0
+Images:29
+First:22.06.2025 07:05:55
+Last:22.06.2025 13:29:31
+Duration:06:23:36
+</desc></wpt>
+<wpt lat = "46.58555" lon = "9.85284"><name>HS1</name><desc>km36.0
+Images:2333
+First:22.06.2025 08:36:57
+Last:22.06.2025 11:11:24
+Duration:02:34:27
+</desc></wpt>
+<wpt lat = "46.58555" lon = "9.85284"><name>HS1LS1</name><desc>km36.0
+Images:1474
+First:22.06.2025 07:48:28
+Last:22.06.2025 10:58:19
+Duration:03:09:51
+</desc></wpt>
+<wpt lat = "46.58555" lon = "9.85284"><name>HS1LS2</name><desc>km36.0
+Images:1464
+First:22.06.2025 08:16:19
+Last:22.06.2025 10:58:02
+Duration:02:41:43
+</desc></wpt>
+<wpt lat = "46.58839" lon = "9.87651"><name>EVL2</name><desc>km134.0 (Langstrecke)
+Images:2029
+First:22.06.2025 08:22:15
+Last:22.06.2025 15:12:47
+Duration:06:50:32
+</desc></wpt>
+<wpt lat = "46.58839" lon = "9.87651"><name>EVL2LS1</name><desc>km134.0 (Langstrecke)
+Images:2003
+First:22.06.2025 09:34:09
+Last:22.06.2025 15:15:29
+Duration:05:41:20
+</desc></wpt>
+<wpt lat = "46.58839" lon = "9.87651"><name>EVL2LS2</name><desc>km134.0 (Langstrecke)
+Images:3017
+First:22.06.2025 09:37:24
+Last:22.06.2025 15:16:02
+Duration:05:38:38
+</desc></wpt>
+<wpt lat = "46.66339" lon = "9.57652"><name>BP2</name><desc>4.5km before Finish
+Images:1236
+First:22.06.2025 12:39:11
+Last:22.06.2025 17:11:11
+Duration:04:32:00
+</desc></wpt>
+<wpt lat = "46.66339" lon = "9.57652"><name>BP2LS1</name><desc>4.5km before Finish
+Images:3073
+First:22.06.2025 12:16:51
+Last:22.06.2025 17:39:12
+Duration:05:22:21
+</desc></wpt>
+<wpt lat = "46.66339" lon = "9.57652"><name>BP2LS2</name><desc>4.5km before Finish
+Images:2663
+First:22.06.2025 12:28:26
+Last:22.06.2025 16:52:08
+Duration:04:23:42
+</desc></wpt>
+<wpt lat = "46.66761" lon = "9.58038"><name>MOG2</name><desc>3.0km before Finish
+Images:1000
+First:22.06.2025 11:15:08
+Last:22.06.2025 17:36:12
+Duration:06:21:04
+</desc></wpt>
+<wpt lat = "46.66761" lon = "9.58038"><name>MOG2LS1</name><desc>3.0km before Finish
+Images:2572
+First:22.06.2025 12:21:55
+Last:22.06.2025 17:53:00
+Duration:05:31:05
+</desc></wpt>
+<wpt lat = "46.66761" lon = "9.58038"><name>MOG2LS2</name><desc>3.0km before Finish
+Images:2545
+First:22.06.2025 12:25:19
+Last:22.06.2025 17:04:01
+Duration:04:38:42
+</desc></wpt>
+<wpt lat = "46.66870" lon = "9.57830"><name>MAPP2</name><desc>2.5km before Finish
+Images:1819
+First:22.06.2025 06:36:54
+Last:22.06.2025 17:41:16
+Duration:11:04:22
+</desc></wpt>
+<wpt lat = "46.66870" lon = "9.57830"><name>MAPP2LS1</name><desc>2.5km before Finish
+Images:2918
+First:22.06.2025 12:23:53
+Last:22.06.2025 17:24:53
+Duration:05:01:00
+</desc></wpt>
+<wpt lat = "46.67127" lon = "9.57615"><name>HS2</name><desc>1.0km before Finish
+Images:1427
+First:22.06.2025 11:37:28
+Last:22.06.2025 17:13:48
+Duration:05:36:20
+</desc></wpt>
+<wpt lat = "46.67127" lon = "9.57615"><name>HS2LS1</name><desc>1.0km before Finish
+Images:3387
+First:22.06.2025 12:28:22
+Last:22.06.2025 17:17:42
+Duration:04:49:20
+</desc></wpt>
+<wpt lat = "46.67127" lon = "9.57615"><name>HS2LS2</name><desc>1.0km before Finish
+Images:2475
+First:22.06.2025 13:21:01
+Last:22.06.2025 17:16:38
+Duration:03:55:37
+</desc></wpt>
+<wpt lat = "46.68344" lon = "9.56366"><name>MAWI2</name><desc>Finish
+Images:3670
+First:22.06.2025 08:51:02
+Last:22.06.2025 18:01:31
+Duration:09:10:29
+</desc></wpt>
+<wpt lat = "46.68344" lon = "9.56366"><name>MAWI2LS1</name><desc>Finish
+Images:2514
+First:22.06.2025 06:58:03
+Last:22.06.2025 17:48:40
+Duration:10:50:37
+</desc></wpt>
+<wpt lat = "46.68344" lon = "9.56366"><name>MAWI2LS2</name><desc>Finish
+Images:2455
+First:22.06.2025 08:28:04
+Last:22.06.2025 17:17:25
+Duration:08:49:21
+</desc></wpt>
+</gpx>

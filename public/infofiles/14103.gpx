@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "55.65465" lon = "12.64657"><name>PLU1</name><desc>Swim - Start
+Images:787
+First:15.08.2025 16:53:32
+Last:15.08.2025 19:04:06
+Duration:02:10:34
+</desc></wpt>
+<wpt lat = "55.65465" lon = "12.64657"><name>PLU2</name><desc>Swim Out
+Images:1622
+First:15.08.2025 16:49:28
+Last:15.08.2025 19:17:25
+Duration:02:27:57
+</desc></wpt>
+<wpt lat = "55.65365" lon = "12.64685"><name>OLM1</name><desc>Bike - Transition zone
+Images:974
+First:15.08.2025 11:54:10
+Last:15.08.2025 18:42:43
+Duration:06:48:33
+</desc></wpt>
+<wpt lat = "55.64911" lon = "12.64142"><name>ZSZ2</name><desc>Bike - 8.0 km
+Images:4373
+First:15.08.2025 18:14:18
+Last:15.08.2025 21:20:31
+Duration:03:06:13
+</desc></wpt>
+<wpt lat = "55.65653" lon = "12.64525"><name>OLM2</name><desc>Run - 3.0 km
+Images:6514
+First:15.08.2025 18:47:36
+Last:15.08.2025 21:29:56
+Duration:02:42:20
+</desc></wpt>
+<wpt lat = "55.65432" lon = "12.64848"><name>PLU3</name><desc>Finish
+Images:2741
+First:15.08.2025 19:23:39
+Last:15.08.2025 21:14:06
+Duration:01:50:27
+</desc></wpt>
+<wpt lat = "55.65432" lon = "12.64848"><name>ZSZ1</name><desc>Finish
+Images:10
+First:15.08.2025 17:01:03
+Last:15.08.2025 17:37:34
+Duration:00:36:31
+</desc></wpt>
+</gpx>

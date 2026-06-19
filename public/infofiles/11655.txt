@@ -1,0 +1,335 @@
+EventId: 11655
+Spots: 52
+Total Images: 138426
+Time:	01.01.0001 23:00:00 to 02.12.2024 02:08:00
+Duration: 739220.03:08:00
+
+(1) - Bike - 0.2 km
+	ATOSC2
+		Images:	1012
+		Time:	01.12.2024 10:47:17 until 01.12.2024 11:31:24
+		Duration:	00:44:07
+		Location:	-33.64597 115.34329
+
+	ATOSC7LS1
+		Images:	357
+		Time:	01.01.0001 23:00:00 until 01.12.2024 22:57:29
+		Duration:	739219.23:57:29
+		Location:	-33.64597 115.34329
+
+(2) - Bike - 0.4 km
+	ACLJ3
+		Images:	302
+		Time:	01.12.2024 11:31:12 until 01.12.2024 13:44:42
+		Duration:	02:13:30
+		Location:	-33.64611 115.34669
+
+(3) - Bike - 132.0 km
+	BDJA2
+		Images:	2839
+		Time:	01.12.2024 11:21:18 until 01.12.2024 15:05:03
+		Duration:	03:43:45
+		Location:	-33.55054 115.51542
+
+	BDJA2LS1
+		Images:	808
+		Time:	01.12.2024 11:04:57 until 01.12.2024 14:58:35
+		Duration:	03:53:38
+		Location:	-33.55054 115.51542
+
+	BDJA3
+		Images:	22
+		Time:	01.12.2024 16:04:12 until 01.12.2024 16:15:23
+		Duration:	00:11:11
+		Location:	-33.55054 115.51542
+
+(4) - Bike - 141.0 km Tuard Dr
+	BVN2LS1
+		Images:	1665
+		Time:	01.12.2024 10:34:31 until 01.12.2024 12:37:20
+		Duration:	02:02:49
+		Location:	-33.62329 115.44741
+
+	BVN2LS2
+		Images:	5752
+		Time:	01.12.2024 05:35:31 until 01.12.2024 15:48:30
+		Duration:	10:12:59
+		Location:	-33.62329 115.44741
+
+	BVN4
+		Images:	3761
+		Time:	01.12.2024 10:15:07 until 01.12.2024 16:09:58
+		Duration:	05:54:51
+		Location:	-33.62329 115.44741
+
+(5) - Bike - 32.0 km Tuard Dr
+	BVN1
+		Images:	8701
+		Time:	01.12.2024 05:14:34 until 01.12.2024 10:10:27
+		Duration:	04:55:53
+		Location:	-33.62329 115.44741
+
+	BVN1LS1
+		Images:	4223
+		Time:	01.12.2024 05:28:56 until 01.12.2024 10:29:45
+		Duration:	05:00:49
+		Location:	-33.62329 115.44741
+
+(6) - Bike - 42.0 km
+	BDJA1
+		Images:	7398
+		Time:	01.12.2024 05:16:56 until 01.12.2024 10:52:07
+		Duration:	05:35:11
+		Location:	-33.55054 115.51542
+
+	BDJA1LS1
+		Images:	4760
+		Time:	01.12.2024 05:43:19 until 01.12.2024 10:57:56
+		Duration:	05:14:37
+		Location:	-33.55054 115.51542
+
+(7) - Bike - Transition zone
+	ATOSC1
+		Images:	6635
+		Time:	01.12.2024 04:55:24 until 01.12.2024 08:44:51
+		Duration:	03:49:27
+		Location:	-33.64597 115.34329
+
+	ATOSC5LS1
+		Images:	4358
+		Time:	30.11.2024 18:31:42 until 01.12.2024 08:34:38
+		Duration:	14:02:56
+		Location:	-33.64597 115.34329
+
+	ATOSC6LS1
+		Images:	3558
+		Time:	01.12.2024 07:03:24 until 02.12.2024 02:08:00
+		Duration:	19:04:36
+		Location:	-33.64597 115.34329
+
+(8) - Finish
+	AALEV8
+		Images:	1298
+		Time:	01.12.2024 19:50:00 until 01.12.2024 23:36:32
+		Duration:	03:46:32
+		Location:	-33.64502 115.34473
+
+	ACLJ5
+		Images:	620
+		Time:	01.12.2024 19:09:20 until 01.12.2024 20:55:28
+		Duration:	01:46:08
+		Location:	-33.64502 115.34473
+
+	ACLJ6
+		Images:	198
+		Time:	01.12.2024 21:23:15 until 01.12.2024 22:08:40
+		Duration:	00:45:25
+		Location:	-33.64502 115.34473
+
+	AHOO3
+		Images:	5930
+		Time:	01.12.2024 08:07:29 until 01.12.2024 15:18:34
+		Duration:	07:11:05
+		Location:	-33.64502 115.34473
+
+	AHOO4
+		Images:	1812
+		Time:	01.12.2024 15:19:46 until 01.12.2024 19:20:00
+		Duration:	04:00:14
+		Location:	-33.64502 115.34473
+
+	AHOO5LS1
+		Images:	1654
+		Time:	01.12.2024 09:34:39 until 01.12.2024 22:21:45
+		Duration:	12:47:06
+		Location:	-33.64502 115.34473
+
+	ATOSC3
+		Images:	104
+		Time:	01.12.2024 13:04:47 until 01.12.2024 15:22:16
+		Duration:	02:17:29
+		Location:	-33.64502 115.34473
+
+	ATOSC4
+		Images:	9068
+		Time:	01.12.2024 16:09:06 until 01.12.2024 19:07:03
+		Duration:	02:57:57
+		Location:	-33.64502 115.34473
+
+	BDJA4
+		Images:	1025
+		Time:	01.12.2024 19:41:57 until 01.12.2024 23:35:14
+		Duration:	03:53:17
+		Location:	-33.64507 115.34468
+
+	BDJA5
+		Images:	209
+		Time:	01.12.2024 19:16:10 until 01.12.2024 19:41:01
+		Duration:	00:24:51
+		Location:	-33.64507 115.34468
+
+	BNIF4
+		Images:	325
+		Time:	01.12.2024 22:16:07 until 01.12.2024 23:36:39
+		Duration:	01:20:32
+		Location:	-33.64507 115.34468
+
+	BVN3
+		Images:	670
+		Time:	01.12.2024 21:07:36 until 01.12.2024 23:36:17
+		Duration:	02:28:41
+		Location:	-33.64507 115.34468
+
+	BWTE6
+		Images:	8294
+		Time:	01.12.2024 09:08:47 until 01.12.2024 15:14:48
+		Duration:	06:06:01
+		Location:	-33.64507 115.34468
+
+(9) - Run - 0.2 km
+	AALEV2
+		Images:	5044
+		Time:	01.12.2024 07:00:25 until 01.12.2024 15:28:09
+		Duration:	08:27:44
+		Location:	-33.64475 115.34391
+
+(10) - Run - 0.4 km
+	BNIF2
+		Images:	6271
+		Time:	01.12.2024 10:18:44 until 01.12.2024 16:49:33
+		Duration:	06:30:49
+		Location:	-33.64441 115.34580
+
+(11) - Run - 21.0 km
+	AALEV4
+		Images:	256
+		Time:	01.12.2024 14:55:05 until 01.12.2024 16:59:42
+		Duration:	02:04:37
+		Location:	-33.64498 115.34307
+
+(12) - Run - 28.9 km
+	AALEV5
+		Images:	899
+		Time:	01.12.2024 15:35:28 until 01.12.2024 16:19:43
+		Duration:	00:44:15
+		Location:	-33.64440 115.34503
+
+(13) - Run - 32.0 km
+	AALEV6
+		Images:	92
+		Time:	01.12.2024 16:19:43 until 01.12.2024 16:36:52
+		Duration:	00:17:09
+		Location:	-33.64440 115.34503
+
+(14) - Run - 39.0 km
+	BVN3LS1
+		Images:	271
+		Time:	01.12.2024 19:45:34 until 01.12.2024 23:34:09
+		Duration:	03:48:35
+		Location:	-33.64473 115.34412
+
+(15) - Run - 39.8 km
+	BNIF3
+		Images:	55
+		Time:	01.12.2024 21:03:31 until 01.12.2024 21:27:51
+		Duration:	00:24:20
+		Location:	-33.64531 115.34185
+
+	BWTE4
+		Images:	618
+		Time:	01.12.2024 18:12:56 until 01.12.2024 22:06:07
+		Duration:	03:53:11
+		Location:	-33.64531 115.34185
+
+(16) - Run - 42.0 km
+	AALEV7
+		Images:	702
+		Time:	01.12.2024 12:47:32 until 01.12.2024 16:55:37
+		Duration:	04:08:05
+		Location:	-33.64498 115.34307
+
+(17) - Run - 7.8 km
+	AALEV3
+		Images:	76
+		Time:	01.12.2024 12:31:58 until 01.12.2024 12:41:27
+		Duration:	00:09:29
+		Location:	-33.64475 115.34391
+
+(18) - Run - 8.0 km
+	ACLJ4
+		Images:	8717
+		Time:	01.12.2024 13:46:23 until 01.12.2024 16:57:47
+		Duration:	03:11:24
+		Location:	-33.64594 115.34046
+
+	BWTE5
+		Images:	808
+		Time:	01.12.2024 17:03:04 until 01.12.2024 18:12:08
+		Duration:	01:09:04
+		Location:	-33.64531 115.34185
+
+(19) - Run - Impressions / Pano
+	ATOSC8
+		Images:	9
+		Time:	01.12.2024 22:59:23 until 01.12.2024 23:24:31
+		Duration:	00:25:08
+		Location:	-33.64502 115.34473
+
+(20) - Swim - Impressions / Pano
+	AALEV1
+		Images:	393
+		Time:	01.12.2024 04:28:50 until 01.12.2024 12:57:00
+		Duration:	08:28:10
+		Location:	-33.64453 115.34503
+
+	PANO1
+(21) - Swim - Start
+	ACLJ1
+		Images:	3449
+		Time:	01.12.2024 03:55:35 until 01.12.2024 05:28:23
+		Duration:	01:32:48
+		Location:	-33.64418 115.34531
+
+	ACLJ2
+		Images:	3302
+		Time:	01.12.2024 05:35:20 until 01.12.2024 06:40:35
+		Duration:	01:05:15
+		Location:	-33.64418 115.34531
+
+	AHOO1
+		Images:	5248
+		Time:	01.12.2024 04:09:20 until 01.12.2024 05:27:37
+		Duration:	01:18:17
+		Location:	-33.64418 115.34531
+
+	AHOO2
+		Images:	3178
+		Time:	01.12.2024 06:07:10 until 01.12.2024 06:40:19
+		Duration:	00:33:09
+		Location:	-33.64418 115.34531
+
+(22) - Swim - Transition zone
+	BNIF5
+		Images:	2245
+		Time:	01.12.2024 07:11:10 until 01.12.2024 08:56:40
+		Duration:	01:45:30
+		Location:	-33.64476 115.34296
+
+	BNIF6
+		Images:	2465
+		Time:	01.12.2024 04:33:58 until 01.12.2024 06:48:05
+		Duration:	02:14:07
+		Location:	-33.64476 115.34296
+
+	BWTE1
+		Images:	3965
+		Time:	01.12.2024 03:53:33 until 01.12.2024 07:00:31
+		Duration:	03:06:58
+		Location:	-33.64476 115.34296
+
+	BWTE2
+		Images:	3005
+		Time:	01.12.2024 07:09:57 until 01.12.2024 08:06:44
+		Duration:	00:56:47
+		Location:	-33.64476 115.34296
+

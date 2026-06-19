@@ -1,0 +1,91 @@
+EventId: 14525
+Spots: 13
+Total Images: 21712
+Time:	13.06.2025 09:35:51 to 13.06.2025 18:33:55
+Duration: 08:58:04
+
+(1) - Zugspitzview
+	IH1
+		Images:	1666
+		Time:	13.06.2025 10:06:23 until 13.06.2025 10:21:25
+		Duration:	00:15:02
+		Location:	47.48416 11.09512
+
+(2) - Finish
+	IH2
+		Images:	5053
+		Time:	13.06.2025 11:45:51 until 13.06.2025 16:17:59
+		Duration:	04:32:08
+		Location:	47.49458 11.09190
+
+	MBRE3
+		Images:	323
+		Time:	13.06.2025 16:20:42 until 13.06.2025 18:33:55
+		Duration:	02:13:13
+		Location:	47.49458 11.09190
+
+(3) - Start
+	MBRE1
+		Images:	346
+		Time:	13.06.2025 09:45:11 until 13.06.2025 10:04:10
+		Duration:	00:18:59
+		Location:	47.49431 11.09123
+
+	MMART1
+		Images:	1083
+		Time:	13.06.2025 09:35:51 until 13.06.2025 10:02:56
+		Duration:	00:27:05
+		Location:	47.48416 11.09512
+
+	NJO1
+		Images:	404
+		Time:	13.06.2025 09:51:58 until 13.06.2025 10:03:34
+		Duration:	00:11:36
+		Location:	47.49461 11.09193
+
+(4) - Osterfelderkopf Uphill
+	MBRE2
+		Images:	3366
+		Time:	13.06.2025 11:11:27 until 13.06.2025 15:46:22
+		Duration:	04:34:55
+		Location:	47.43566 11.05437
+
+(5) - Expo
+	MBRE4
+		Images:	24
+		Time:	13.06.2025 17:45:01 until 13.06.2025 18:16:40
+		Duration:	00:31:39
+		Location:	47.49458 11.09190
+
+(6) - Osterfelderkopf Downhill
+	MMART2
+		Images:	3583
+		Time:	13.06.2025 11:06:13 until 13.06.2025 14:59:46
+		Duration:	03:53:33
+		Location:	47.43925 11.05433
+
+	NJO2
+		Images:	4372
+		Time:	13.06.2025 11:53:13 until 13.06.2025 14:54:30
+		Duration:	03:01:17
+		Location:	47.43952 11.05311
+
+	NJO2LS2
+		Images:	383
+		Time:	13.06.2025 11:36:45 until 13.06.2025 15:00:50
+		Duration:	03:24:05
+		Location:	47.43944 11.05468
+
+	NJO2LS1
+		Images:	1096
+		Time:	13.06.2025 11:16:04 until 13.06.2025 14:58:58
+		Duration:	03:42:54
+		Location:	47.43952 11.05311
+
+(7) - Impressions / Pano
+	NJO2DRONE1
+		Images:	13
+		Time:	13.06.2025 14:31:21 until 13.06.2025 14:35:19
+		Duration:	00:03:58
+		Location:	47.43952 11.05311
+

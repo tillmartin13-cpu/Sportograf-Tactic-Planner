@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "46.51164" lon = "8.69399"><name>LLM1</name><desc>Start
+Images:427
+First:20.07.2025 07:40:01
+Last:20.07.2025 09:03:44
+Duration:01:23:43
+</desc></wpt>
+<wpt lat = "46.51164" lon = "8.69399"><name>LLM2</name><desc>Finish
+Images:1749
+First:20.07.2025 10:40:05
+Last:20.07.2025 17:12:24
+Duration:06:32:19
+</desc></wpt>
+<wpt lat = "46.54965" lon = "8.56605"><name>RLLA1</name><desc>20.0 km
+Images:1323
+First:20.07.2025 09:20:40
+Last:20.07.2025 11:17:28
+Duration:01:56:48
+</desc></wpt>
+<wpt lat = "46.57719" lon = "8.38779"><name>PINO1</name><desc>51.0 km
+Images:1820
+First:20.07.2025 10:23:48
+Last:20.07.2025 13:29:27
+Duration:03:05:39
+</desc></wpt>
+<wpt lat = "46.47774" lon = "8.38396"><name>CVG1</name><desc>85.0 km
+Images:2263
+First:20.07.2025 12:40:35
+Last:20.07.2025 16:09:49
+Duration:03:29:14
+</desc></wpt>
+</gpx>

@@ -1,0 +1,305 @@
+EventId: 13377
+Spots: 44
+Total Images: 214299
+Time:	10.09.2018 16:07:53 to 03.11.2024 09:06:12
+Duration: 2245.16:58:19
+
+(1) - 0,0 km ale-amy 857869, medals
+	EALE1
+		Images:	813
+		Time:	02.11.2024 08:01:52 until 02.11.2024 09:00:41
+		Duration:	00:58:49
+		Location:	NULL NULL
+
+(2) - 0,0 km cassandra montalvo, 857872, medals
+	ECASS1
+		Images:	745
+		Time:	10.09.2018 16:07:53 until 10.09.2018 17:20:37
+		Duration:	01:12:44
+		Location:	NULL NULL
+
+(3) - 0,0 km dave tideswell, 857897, msc 3
+	EDAVE1
+		Images:	5788
+		Time:	02.11.2024 07:35:29 until 02.11.2024 08:44:29
+		Duration:	01:09:00
+		Location:	NULL NULL
+
+(4) - 0,0 km jay adorable, 857900 msc 3
+	EJAY1
+		Images:	3906
+		Time:	02.11.2024 07:15:39 until 02.11.2024 08:44:37
+		Duration:	01:28:58
+		Location:	NULL NULL
+
+(5) - 0,0 km john theodore, 857871, medals
+	EJOHN1
+		Images:	756
+		Time:	02.11.2024 07:59:27 until 02.11.2024 09:13:19
+		Duration:	01:13:52
+		Location:	NULL NULL
+
+(6) - 0,0 km lesley ma 857870, medals
+	ELESL1
+		Images:	1742
+		Time:	02.11.2024 07:48:33 until 02.11.2024 09:04:49
+		Duration:	01:16:16
+		Location:	NULL NULL
+
+(7) - 0,0 km luis bastardo, 857898, msc 3
+	ELUIS1
+		Images:	4060
+		Time:	02.11.2024 07:22:05 until 02.11.2024 08:44:28
+		Duration:	01:22:23
+		Location:	NULL NULL
+
+(8) - 0,0 km michael monahan, 857899, msc 3
+	EMICH1
+		Images:	9063
+		Time:	02.11.2024 07:24:57 until 02.11.2024 08:44:24
+		Duration:	01:19:27
+		Location:	NULL NULL
+
+(9) - 0,0 km peter kollek, 857867, medals
+	EPETE1
+		Images:	4667
+		Time:	02.11.2024 07:54:50 until 02.11.2024 09:26:31
+		Duration:	01:31:41
+		Location:	NULL NULL
+
+(10) - 0,0 km simon bhola, 857868, medals
+	ESIMO1
+		Images:	3130
+		Time:	02.11.2024 08:04:50 until 02.11.2024 09:17:31
+		Duration:	01:12:41
+		Location:	NULL NULL
+
+(11) - 0,0 km trigger msc 3
+	ETRIG1
+		Images:	2984
+		Time:	02.11.2024 07:29:36 until 02.11.2024 08:39:03
+		Duration:	01:09:27
+		Location:	NULL NULL
+
+(12) - 0.0 km FRANK 857884 MSC 1
+	CFNAT1
+		Images:	4641
+		Time:	02.11.2024 07:20:02 until 02.11.2024 08:35:38
+		Duration:	01:15:36
+		Location:	NULL NULL
+
+(13) - 0.0 km GAURAV 857876 PRE FIN
+	CGAU1
+		Images:	3191
+		Time:	02.11.2024 06:54:47 until 02.11.2024 09:36:44
+		Duration:	02:41:57
+		Location:	NULL NULL
+
+(14) - 0.0 km JC 857883 MSC 1
+	CJCC1
+		Images:	3174
+		Time:	02.11.2024 07:33:33 until 02.11.2024 08:29:15
+		Duration:	00:55:42
+		Location:	NULL NULL
+
+(15) - 0.0 km JIM 857873 PRE FIN
+	CJDEE1
+		Images:	18388
+		Time:	02.11.2024 07:13:14 until 02.11.2024 09:41:03
+		Duration:	02:27:49
+		Location:	NULL NULL
+
+(16) - 0.0 km JULIO 857881 MSC 1
+	CJMOR1
+		Images:	4139
+		Time:	02.11.2024 06:30:48 until 02.11.2024 07:27:25
+		Duration:	00:56:37
+		Location:	NULL NULL
+
+(17) - 0.0 km lucas 857878 pre fin
+	CLUC1
+		Images:	13994
+		Time:	02.11.2024 07:14:35 until 02.11.2024 09:27:46
+		Duration:	02:13:11
+		Location:	NULL NULL
+
+(18) - 0.0 km MSC 1 TRIGGER 863708
+	CTRA1
+		Images:	2407
+		Time:	02.11.2024 04:20:43 until 02.11.2024 05:28:02
+		Duration:	01:07:19
+		Location:	NULL NULL
+
+(19) - 0.0 km POL 857875 PRE FIN
+	CPOL1
+		Images:	9731
+		Time:	02.11.2024 07:32:02 until 02.11.2024 09:38:16
+		Duration:	02:06:14
+		Location:	NULL NULL
+
+(20) - 0.0 km PRE FIN TRIGGER RIGHT 857880
+	CTRXA1
+		Images:	3074
+		Time:	02.11.2024 08:13:12 until 02.11.2024 09:04:27
+		Duration:	00:51:15
+		Location:	NULL NULL
+
+(21) - 0.0 km SARA 857874 PRE FIN
+	CSARA1
+		Images:	7837
+		Time:	02.11.2024 07:12:19 until 02.11.2024 09:38:20
+		Duration:	02:26:01
+		Location:	NULL NULL
+
+(22) - asher
+	AASDO1
+		Images:	3526
+		Time:	02.11.2024 08:00:14 until 02.11.2024 09:37:54
+		Duration:	01:37:40
+		Location:	NULL NULL
+
+(23) - bene start
+	ABEBI1
+		Images:	2200
+		Time:	02.11.2024 06:30:02 until 02.11.2024 08:15:22
+		Duration:	01:45:20
+		Location:	NULL NULL
+
+(24) - fabrizio ruzzier 857896
+	AFARU1
+		Images:	5741
+		Time:	02.11.2024 07:23:28 until 02.11.2024 08:38:30
+		Duration:	01:15:02
+		Location:	NULL NULL
+
+(25) - finish trigger left
+	ALTR1
+		Images:	5547
+		Time:	02.11.2024 06:59:02 until 02.11.2024 09:15:26
+		Duration:	02:16:24
+		Location:	NULL NULL
+
+(26) - finish trigger right
+	AFTR1
+		Images:	5580
+		Time:	02.11.2024 06:25:05 until 02.11.2024 09:14:51
+		Duration:	02:49:46
+		Location:	NULL NULL
+
+(27) - georg dostmann 857903
+	AGEDO1
+		Images:	9570
+		Time:	02.11.2024 07:35:34 until 02.11.2024 08:51:15
+		Duration:	01:15:41
+		Location:	NULL NULL
+
+(28) - guy edwards 857894
+	AGUED1
+		Images:	9583
+		Time:	02.11.2024 16:20:35 until 02.11.2024 17:31:38
+		Duration:	01:11:03
+		Location:	NULL NULL
+
+(29) - Impressions / Pano
+	PANO1
+(30) - jacob kander 857901
+	AJAKA1
+		Images:	5283
+		Time:	02.11.2024 07:52:58 until 02.11.2024 08:51:08
+		Duration:	00:58:10
+		Location:	NULL NULL
+
+(31) - jerome sb 857902
+	AJSBL1
+		Images:	6652
+		Time:	02.11.2024 07:44:44 until 02.11.2024 08:52:36
+		Duration:	01:07:52
+		Location:	NULL NULL
+
+(32) - lance edwards 857886
+	ALED1
+		Images:	10373
+		Time:	02.11.2024 08:18:38 until 02.11.2024 12:15:07
+		Duration:	03:56:29
+		Location:	NULL NULL
+
+(33) - marco todaro 857895
+	AMATO1
+		Images:	4418
+		Time:	02.11.2024 07:23:44 until 02.11.2024 08:38:48
+		Duration:	01:15:04
+		Location:	NULL NULL
+
+(34) - megyn barroner 857865
+	AMEBA1
+		Images:	808
+		Time:	02.11.2024 06:30:37 until 02.11.2024 08:12:21
+		Duration:	01:41:44
+		Location:	NULL NULL
+
+(35) - none
+	ACENT1
+		Images:	4328
+		Time:	02.11.2024 08:04:15 until 02.11.2024 09:17:19
+		Duration:	01:13:04
+		Location:	NULL NULL
+
+	ALEFT1
+		Images:	4545
+		Time:	02.11.2024 08:03:30 until 02.11.2024 09:19:22
+		Duration:	01:15:52
+		Location:	NULL NULL
+
+	APFRB1
+		Images:	3309
+		Time:	02.11.2024 08:06:17 until 02.11.2024 09:03:18
+		Duration:	00:57:01
+		Location:	NULL NULL
+
+	APFRF1
+		Images:	2206
+		Time:	31.12.2019 18:07:04 until 03.11.2024 09:06:12
+		Duration:	1768.14:59:08
+		Location:	NULL NULL
+
+	CHCH1
+		Images:	3674
+		Time:	02.11.2024 07:21:11 until 02.11.2024 08:36:10
+		Duration:	01:14:59
+		Location:	NULL NULL
+
+(36) - robert hesse 857904
+	AROHE1
+		Images:	5520
+		Time:	02.11.2024 07:44:20 until 02.11.2024 08:53:57
+		Duration:	01:09:37
+		Location:	NULL NULL
+
+(37) - simona riccardi 857866
+	ASIRI1
+		Images:	716
+		Time:	02.11.2024 18:36:20 until 02.11.2024 20:11:24
+		Duration:	01:35:04
+		Location:	NULL NULL
+
+(38) - trigger 663712
+	ATRIZ1
+		Images:	3826
+		Time:	02.11.2024 07:41:41 until 02.11.2024 08:59:55
+		Duration:	01:18:14
+		Location:	NULL NULL
+
+(39) - trigger 863710
+	ATRIG1
+		Images:	3466
+		Time:	02.11.2024 07:27:47 until 02.11.2024 08:38:52
+		Duration:	01:11:05
+		Location:	NULL NULL
+
+(40) - william dee 857893
+	AWIDE1
+		Images:	5198
+		Time:	02.11.2024 07:39:35 until 02.11.2024 08:38:29
+		Duration:	00:58:54
+		Location:	NULL NULL
+

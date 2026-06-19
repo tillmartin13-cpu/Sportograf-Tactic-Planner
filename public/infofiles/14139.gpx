@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "50.77649" lon = "6.08357"><name>MK1</name><desc>Start
+Images:6114
+First:31.12.2025 12:53:53
+Last:31.12.2025 14:46:27
+Duration:01:52:34
+</desc></wpt>
+<wpt lat = "50.77649" lon = "6.08357"><name>MK1LS2</name><desc>0.0 km
+Images:1276
+First:31.12.2025 12:52:07
+Last:31.12.2025 14:54:22
+Duration:02:02:15
+</desc></wpt>
+<wpt lat = "50.77536" lon = "6.08150"><name>LV1</name><desc>0.2 km
+Images:6855
+First:31.12.2025 12:43:44
+Last:31.12.2025 15:29:43
+Duration:02:45:59
+</desc></wpt>
+<wpt lat = "50.77536" lon = "6.08150"><name>LV1LS1</name><desc>0.2 km
+Images:2274
+First:31.12.2025 12:28:11
+Last:31.12.2025 15:09:31
+Duration:02:41:20
+</desc></wpt>
+<wpt lat = "50.77435" lon = "6.08330"><name>TOBB1</name><desc>1.0 km
+Images:10646
+First:31.12.2025 07:37:44
+Last:31.12.2025 15:19:58
+Duration:07:42:14
+</desc></wpt>
+<wpt lat = "50.77435" lon = "6.08330"><name>TOBB1LS1</name><desc>1.0 km
+Images:3336
+First:31.12.2025 07:32:32
+Last:31.12.2025 16:04:26
+Duration:08:31:54
+</desc></wpt>
+<wpt lat = "50.77435" lon = "6.08330"><name>TOBB1LS2</name><desc>1.0 km
+Images:3237
+First:31.12.2025 07:34:25
+Last:31.12.2025 15:19:58
+Duration:07:45:33
+</desc></wpt>
+<wpt lat = "50.77563" lon = "6.08378"><name>ALN1</name><desc>1.3 km
+Images:10208
+First:31.12.2025 12:52:21
+Last:31.12.2025 15:26:14
+Duration:02:33:53
+</desc></wpt>
+<wpt lat = "50.77563" lon = "6.08378"><name>ALN1LS1</name><desc>1.3 km
+Images:2013
+First:31.12.2025 12:26:22
+Last:31.12.2025 15:28:09
+Duration:03:01:47
+</desc></wpt>
+<wpt lat = "50.77563" lon = "6.08378"><name>ALN1LS2</name><desc>1.3 km
+Images:3481
+First:31.12.2025 12:30:36
+Last:31.12.2025 15:25:58
+Duration:02:55:22
+</desc></wpt>
+<wpt lat = "50.77649" lon = "6.08357"><name>MK2</name><desc>Finish
+Images:8359
+First:31.12.2025 13:05:26
+Last:31.12.2025 15:29:12
+Duration:02:23:46
+</desc></wpt>
+<wpt lat = "50.77649" lon = "6.08357"><name>MK2DRONE1</name><desc>Finish
+Images:20
+First:31.12.2025 19:46:58
+Last:31.12.2025 19:50:07
+Duration:00:03:09
+</desc></wpt>
+<wpt lat = "50.77649" lon = "6.08357"><name>MK2LS1</name><desc>Finish
+Images:2200
+First:31.12.2025 13:04:38
+Last:31.12.2025 15:27:03
+Duration:02:22:25
+</desc></wpt>
+</gpx>

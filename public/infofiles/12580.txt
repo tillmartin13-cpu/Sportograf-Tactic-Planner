@@ -1,0 +1,63 @@
+EventId: 12580
+Spots: 19
+Total Images: 42906
+Time:	11.11.2023 18:37:03 to 12.11.2023 11:45:45
+Duration: 17:08:42
+
+(1) - 0.0 km Finish
+	ACM1
+		Images:	14749
+		Time:	12.11.2023 07:28:52 until 12.11.2023 11:45:45
+		Duration:	04:16:53
+		Location:	NULL NULL
+
+	ADK2
+		Images:	3339
+		Time:	12.11.2023 09:20:43 until 12.11.2023 10:45:00
+		Duration:	01:24:17
+		Location:	NULL NULL
+
+	ADK2LS1
+		Images:	14260
+		Time:	12.11.2023 05:33:18 until 12.11.2023 10:45:06
+		Duration:	05:11:48
+		Location:	NULL NULL
+
+(2) - 0.0 km Medals
+	AEH1
+		Images:	2508
+		Time:	12.11.2023 06:35:26 until 12.11.2023 10:31:39
+		Duration:	03:56:13
+		Location:	NULL NULL
+
+	AJT1
+		Images:	915
+		Time:	11.11.2023 18:37:03 until 11.11.2023 22:37:11
+		Duration:	04:00:08
+		Location:	NULL NULL
+
+	APK2
+		Images:	7135
+		Time:	12.11.2023 07:26:39 until 12.11.2023 11:29:16
+		Duration:	04:02:37
+		Location:	NULL NULL
+
+(3) - 0.0 km MSC1
+	ACG1LS1
+	AJR1
+	AQS1
+(4) - 0.0 km MSC2
+	AGJ1
+	AGJ1LS1
+	ARB1
+(5) - 0.0 km PR
+	ADK1
+	APK1
+(6) - 0.0 km PreFinish
+	AAS1
+	ARF1
+	ARF1LS1
+(7) - 5.0 mile MSC1
+	ACG1
+(8) - Impressions / Pano
+	PANO1

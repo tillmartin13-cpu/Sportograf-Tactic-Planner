@@ -1,0 +1,477 @@
+EventId: 10370
+Spots: 69
+Total Images: 524321
+Time:	01.01.0001 23:00:00 to 31.12.2099 22:59:59
+Duration: 766642.23:59:59
+
+(1) - 0,0 km Brandon MSC 2
+	BCRUM1
+		Images:	4855
+		Time:	03.07.2023 19:00:42 until 03.07.2023 22:45:03
+		Duration:	03:44:21
+		Location:	NULL NULL
+
+(2) - 0,0 km Candid Courtney Gurlie
+	CGUR1
+		Images:	342
+		Time:	04.07.2023 05:22:24 until 04.07.2023 08:15:06
+		Duration:	02:52:42
+		Location:	NULL NULL
+
+(3) - 0,0 km Candid James Jean Louis
+	JJEAN1
+		Images:	137
+		Time:	03.07.2023 05:34:47 until 03.07.2023 08:25:22
+		Duration:	02:50:35
+		Location:	NULL NULL
+
+(4) - 0,0 km Candid Jules Walter
+	JWALT1
+		Images:	263
+		Time:	04.07.2023 09:23:27 until 04.07.2023 12:18:34
+		Duration:	02:55:07
+		Location:	NULL NULL
+
+(5) - 0,0 km Deon Sanders Medals
+	DSAN1
+		Images:	1458
+		Time:	01.01.0001 23:00:00 until 04.07.2023 10:20:58
+		Duration:	738703.11:20:58
+		Location:	NULL NULL
+
+(6) - 0,0 km Diego Garcia Medals
+	DGARC1
+		Images:	882
+		Time:	03.07.2020 20:00:15 until 03.07.2020 22:34:22
+		Duration:	02:34:07
+		Location:	NULL NULL
+
+(7) - 0,0 km Jonathan MSc 2
+	JSAL1
+		Images:	11084
+		Time:	04.07.2023 05:43:39 until 04.07.2023 09:48:29
+		Duration:	04:04:50
+		Location:	NULL NULL
+
+(8) - 0,0 km kelly Johns Medals
+	KJOHN1
+		Images:	632
+		Time:	04.07.2023 05:48:00 until 04.07.2023 08:27:36
+		Duration:	02:39:36
+		Location:	NULL NULL
+
+(9) - 0,0 km medals christy halbershon
+	CHALB1
+		Images:	451
+		Time:	04.07.2023 02:27:27 until 04.07.2023 05:45:50
+		Duration:	03:18:23
+		Location:	NULL NULL
+
+(10) - 0,0 km medals jason page
+	JPAGE1
+		Images:	697
+		Time:	04.07.2023 06:32:17 until 04.07.2023 09:11:07
+		Duration:	02:38:50
+		Location:	NULL NULL
+
+(11) - 0,0 km Medals Jimmy Dodson
+	JDOD1
+		Images:	3702
+		Time:	04.07.2023 06:53:02 until 04.07.2023 10:15:59
+		Duration:	03:22:57
+		Location:	NULL NULL
+
+(12) - 0,0 km medals megyn barroner
+	MBARR1
+		Images:	1714
+		Time:	04.07.2023 08:18:56 until 04.07.2023 10:16:07
+		Duration:	01:57:11
+		Location:	NULL NULL
+
+(13) - 0,0 km nICHOLAS cASTRO Candid
+	NCAS1
+		Images:	376
+		Time:	03.07.2023 06:58:08 until 03.07.2023 09:55:22
+		Duration:	02:57:14
+		Location:	NULL NULL
+
+(14) - 0,0 km Nicole Green Candid
+	NGRE1
+		Images:	1059
+		Time:	04.07.2023 02:10:14 until 04.07.2023 05:26:55
+		Duration:	03:16:41
+		Location:	NULL NULL
+
+(15) - 0,0 km platform alex austin
+	AAUST1
+		Images:	1245
+		Time:	04.07.2023 07:08:39 until 04.07.2023 10:18:06
+		Duration:	03:09:27
+		Location:	NULL NULL
+
+(16) - 0,0 km platform Ana frederick
+	AFRED1
+		Images:	633
+		Time:	04.07.2023 06:40:22 until 04.07.2023 09:18:21
+		Duration:	02:37:59
+		Location:	NULL NULL
+
+(17) - 0,0 km Platform Angelique Lynch
+	AL1
+		Images:	582
+		Time:	04.07.2023 07:22:32 until 04.07.2023 10:00:53
+		Duration:	02:38:21
+		Location:	NULL NULL
+
+(18) - 0,0 km platform Natalie Rodriguez
+	NR1
+		Images:	446
+		Time:	03.07.2023 18:52:54 until 03.07.2023 22:27:26
+		Duration:	03:34:32
+		Location:	NULL NULL
+
+(19) - 0,0 km platform reginald mcgarrah
+	RMCGA1
+		Images:	454
+		Time:	04.07.2023 07:00:43 until 04.07.2023 10:16:49
+		Duration:	03:16:06
+		Location:	NULL NULL
+
+(20) - 0,0 km PLATFORM Sarah Manson
+	SMANS1
+		Images:	1102
+		Time:	03.07.2023 12:41:11 until 03.07.2023 15:45:57
+		Duration:	03:04:46
+		Location:	NULL NULL
+
+(21) - 0,0 km platform sarah mcmillian
+	SMCMI1
+		Images:	680
+		Time:	04.07.2023 05:54:38 until 04.07.2023 09:13:00
+		Duration:	03:18:22
+		Location:	NULL NULL
+
+(22) - 0,0 km platform zamiah jackson
+	ZJACK1
+		Images:	363
+		Time:	25.06.2016 18:38:45 until 04.07.2023 09:19:22
+		Duration:	2564.14:40:37
+		Location:	NULL NULL
+
+(23) - 0,0 km PreFin Douglas
+	DWHIT1
+		Images:	6942
+		Time:	04.07.2023 06:44:47 until 04.07.2023 10:49:43
+		Duration:	04:04:56
+		Location:	NULL NULL
+
+(24) - 0,0 km PreFin Ian
+	ISTON1
+		Images:	23555
+		Time:	04.07.2023 05:46:37 until 04.07.2023 09:35:32
+		Duration:	03:48:55
+		Location:	NULL NULL
+
+(25) - 0,0 km Road Trigger 1
+	RATR1
+		Images:	9647
+		Time:	04.07.2023 06:31:33 until 04.07.2023 09:18:43
+		Duration:	02:47:10
+		Location:	NULL NULL
+
+(26) - 0,0 km Road Trigger 2
+	RATR2
+		Images:	9240
+		Time:	04.07.2023 06:22:15 until 04.07.2023 10:28:27
+		Duration:	04:06:12
+		Location:	NULL NULL
+
+(27) - 0,0 km Road Trigger 3
+	RATR3
+		Images:	9879
+		Time:	04.07.2023 02:22:49 until 04.07.2023 06:18:54
+		Duration:	03:56:05
+		Location:	NULL NULL
+
+(28) - 0,0 km Susan Candid
+	SSTEW1
+		Images:	586
+		Time:	25.06.2016 17:54:48 until 03.07.2023 20:39:08
+		Duration:	2564.02:44:20
+		Location:	NULL NULL
+
+(29) - 0,0 km Terrance Wiggins Medals
+	TWIGG1
+		Images:	1593
+		Time:	04.07.2023 05:51:14 until 04.07.2023 09:12:34
+		Duration:	03:21:20
+		Location:	NULL NULL
+
+(30) - 0.0 km A Miller OFP
+	AMILL1
+		Images:	1554
+		Time:	04.07.2023 06:43:50 until 04.07.2023 09:13:06
+		Duration:	02:29:16
+		Location:	NULL NULL
+
+(31) - 0.0 km Candid Jermiah Raffety
+	JRAFF1
+		Images:	232
+		Time:	04.07.2023 05:45:07 until 04.07.2023 08:34:42
+		Duration:	02:49:35
+		Location:	NULL NULL
+
+(32) - 0.0 km Candid Kevin Yancez
+	KYANC1
+		Images:	1218
+		Time:	04.07.2023 05:41:50 until 04.07.2023 08:47:14
+		Duration:	03:05:24
+		Location:	NULL NULL
+
+(33) - 0.0 km Dvonte OFP
+	DBURK1
+		Images:	844
+		Time:	04.07.2023 07:45:26 until 04.07.2023 10:15:07
+		Duration:	02:29:41
+		Location:	NULL NULL
+
+(34) - 0.0 km feels like Johari
+	MWILD1
+		Images:	11818
+		Time:	04.07.2023 06:27:46 until 04.07.2023 10:14:44
+		Duration:	03:46:58
+		Location:	NULL NULL
+
+(35) - 0.0 km FIn Trigger RIght first card
+	SGFIN1LS1
+		Images:	12738
+		Time:	04.07.2023 06:50:00 until 04.07.2023 10:24:14
+		Duration:	03:34:14
+		Location:	NULL NULL
+
+(36) - 0.0 km Joe MOr
+	JMORE1
+		Images:	607
+		Time:	04.07.2023 05:27:44 until 04.07.2023 08:15:12
+		Duration:	02:47:28
+		Location:	NULL NULL
+
+(37) - 0.0 km Jonathan PreFIn
+	JR1
+		Images:	12107
+		Time:	04.07.2023 07:43:35 until 04.07.2023 11:02:49
+		Duration:	03:19:14
+		Location:	NULL NULL
+
+(38) - 0.0 km Kevin Watkins OFP
+	KW1
+		Images:	801
+		Time:	04.07.2023 06:51:07 until 04.07.2023 10:17:58
+		Duration:	03:26:51
+		Location:	NULL NULL
+
+(39) - 0.0 km Khadisha OFP
+	KCANT1
+		Images:	475
+		Time:	04.07.2023 07:01:13 until 04.07.2023 10:25:22
+		Duration:	03:24:09
+		Location:	NULL NULL
+
+(40) - 0.0 km Marvin Mass
+	MDANG1
+		Images:	25986
+		Time:	04.07.2023 06:45:41 until 04.07.2023 10:46:58
+		Duration:	04:01:17
+		Location:	NULL NULL
+
+(41) - 0.0 km MSC 1 Alexi Barkley
+	ABARK1
+		Images:	15039
+		Time:	04.07.2023 05:40:49 until 04.07.2023 09:26:38
+		Duration:	03:45:49
+		Location:	NULL NULL
+
+(42) - 0.0 km MSC 2 Gabi
+	GTURN1
+		Images:	18099
+		Time:	04.07.2023 05:53:35 until 04.07.2023 09:54:03
+		Duration:	04:00:28
+		Location:	NULL NULL
+
+(43) - 0.0 km MSC D850
+	WLOF1
+		Images:	8723
+		Time:	20.05.2023 08:19:25 until 04.07.2023 10:16:10
+		Duration:	45.01:56:45
+		Location:	NULL NULL
+
+(44) - 0.0 km MSC1 Bryant White
+	BWHIT1
+		Images:	8134
+		Time:	04.07.2023 06:07:20 until 04.07.2023 22:13:04
+		Duration:	16:05:44
+		Location:	NULL NULL
+
+(45) - 0.0 km MSC1 D500
+	BMSC1
+		Images:	15189
+		Time:	20.05.2023 08:19:25 until 04.07.2023 09:29:36
+		Duration:	45.01:10:11
+		Location:	NULL NULL
+
+(46) - 0.0 km MSC2 Jonathan
+	JORTE1
+		Images:	9975
+		Time:	04.07.2023 06:43:41 until 04.07.2023 10:51:45
+		Duration:	04:08:04
+		Location:	NULL NULL
+
+(47) - 0.0 km OFP Julian Cooper
+	JC1
+		Images:	405
+		Time:	04.07.2023 06:50:59 until 04.07.2023 09:28:30
+		Duration:	02:37:31
+		Location:	NULL NULL
+
+(48) - 0.0 km OFP Linday Camp
+	LCAMP1
+		Images:	616
+		Time:	04.07.2023 07:24:20 until 04.07.2023 10:21:55
+		Duration:	02:57:35
+		Location:	NULL NULL
+
+(49) - 0.0 km OFP Pierce Roger
+	PR1
+		Images:	960
+		Time:	04.07.2023 07:45:15 until 04.07.2023 10:16:43
+		Duration:	02:31:28
+		Location:	NULL NULL
+
+(50) - 0.0 km PFN-Clay Teague
+	CTEAG1
+		Images:	21100
+		Time:	04.07.2023 06:44:04 until 04.07.2023 10:19:29
+		Duration:	03:35:25
+		Location:	NULL NULL
+
+(51) - 0.0 km PFN-Kelly S
+	KSHEE1
+		Images:	19725
+		Time:	04.07.2023 06:44:19 until 04.07.2023 10:53:46
+		Duration:	04:09:27
+		Location:	NULL NULL
+
+(52) - 0.0 km Pineda mass
+	WPINE1
+		Images:	23334
+		Time:	04.07.2023 07:05:01 until 04.07.2023 10:53:52
+		Duration:	03:48:51
+		Location:	NULL NULL
+
+(53) - 0.0 km PReFIn trigger right
+	SGFIN1LS3
+		Images:	10217
+		Time:	04.07.2023 04:40:40 until 04.07.2023 09:24:46
+		Duration:	04:44:06
+		Location:	NULL NULL
+
+	SGFIN1LS4
+		Images:	11012
+		Time:	31.12.2013 19:00:02 until 31.12.2099 22:59:59
+		Duration:	31411.03:59:57
+		Location:	NULL NULL
+
+(54) - 0.0 km RoadArt Gus G
+	GGARG1
+		Images:	22274
+		Time:	04.07.2023 07:40:14 until 04.07.2023 10:28:19
+		Duration:	02:48:05
+		Location:	NULL NULL
+
+(55) - 0.0 km RoadArt-Brad
+	BKROL1
+		Images:	25316
+		Time:	04.07.2023 07:18:55 until 04.07.2023 10:18:36
+		Duration:	02:59:41
+		Location:	NULL NULL
+
+(56) - 0.0 km RoadArt-Clinton B
+	CBROW1
+		Images:	18192
+		Time:	04.07.2023 06:43:18 until 04.07.2023 10:52:29
+		Duration:	04:09:11
+		Location:	NULL NULL
+
+(57) - 0.0 km Toby Pre FIn
+	TC1
+		Images:	27093
+		Time:	04.07.2023 03:42:54 until 04.07.2023 07:08:33
+		Duration:	03:25:39
+		Location:	NULL NULL
+
+(58) - 0.0 km Toby Press
+	TC2
+		Images:	736
+		Time:	04.07.2023 02:28:48 until 04.07.2023 03:32:41
+		Duration:	01:03:53
+		Location:	NULL NULL
+
+(59) - 0.0 km trigger left fin 1st
+	SGFIN1LS2
+		Images:	12575
+		Time:	04.07.2023 06:55:27 until 04.07.2023 10:40:49
+		Duration:	03:45:22
+		Location:	NULL NULL
+
+(60) - 0.0 km Walter MSC 2
+	WPOOL1
+		Images:	29518
+		Time:	04.07.2023 06:46:25 until 04.07.2023 10:51:12
+		Duration:	04:04:47
+		Location:	NULL NULL
+
+(61) - Impressions / Pano
+	PANO1
+(62) - none
+	JDAVI1
+		Images:	11526
+		Time:	04.07.2023 06:54:57 until 04.07.2023 10:40:35
+		Duration:	03:45:38
+		Location:	NULL NULL
+
+	JMCKO1
+		Images:	10678
+		Time:	04.07.2023 05:48:34 until 04.07.2023 09:57:39
+		Duration:	04:09:05
+		Location:	NULL NULL
+
+	JR2
+		Images:	511
+		Time:	04.07.2023 06:22:26 until 04.07.2023 07:17:55
+		Duration:	00:55:29
+		Location:	NULL NULL
+
+	KJOHN1
+		Images:	632
+		Time:	04.07.2023 05:48:00 until 04.07.2023 08:27:36
+		Duration:	02:39:36
+		Location:	NULL NULL
+
+	LEDWA1
+		Images:	22086
+		Time:	04.07.2023 04:21:04 until 04.07.2023 08:53:23
+		Duration:	04:32:19
+		Location:	NULL NULL
+
+	SGFIN1
+		Images:	515
+		Time:	31.12.2006 19:00:00 until 31.12.2006 19:01:12
+		Duration:	00:01:12
+		Location:	NULL NULL
+
+	SHAWO1
+		Images:	17794
+		Time:	04.07.2023 04:38:43 until 04.07.2023 09:28:37
+		Duration:	04:49:54
+		Location:	NULL NULL
+

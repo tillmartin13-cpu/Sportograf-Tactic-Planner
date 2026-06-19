@@ -1,0 +1,284 @@
+EventId: 10312
+Spots: 42
+Total Images: 516172
+Time:	01.01.2014 04:48:15 to 20.05.2023 21:43:35
+Duration: 3426.16:55:20
+
+(1) - 0.0 km
+	DC1
+		Images:	1186
+		Time:	20.05.2023 07:14:52 until 20.05.2023 10:28:55
+		Duration:	03:14:03
+		Location:	NULL NULL
+
+(2) - 0.0 km Alex MSC 3
+	AK1
+		Images:	17483
+		Time:	20.05.2023 07:10:47 until 20.05.2023 11:24:09
+		Duration:	04:13:22
+		Location:	NULL NULL
+
+(3) - 0.0 km Alex MSC 5
+	AR1
+		Images:	30250
+		Time:	20.05.2023 07:15:16 until 20.05.2023 12:18:25
+		Duration:	05:03:09
+		Location:	NULL NULL
+
+(4) - 0.0 km claude medals
+	CB1
+		Images:	7365
+		Time:	20.05.2023 05:43:23 until 20.05.2023 10:02:00
+		Duration:	04:18:37
+		Location:	NULL NULL
+
+(5) - 0.0 km Cody msc5
+	CC1
+		Images:	12168
+		Time:	20.05.2023 07:42:55 until 20.05.2023 12:00:16
+		Duration:	04:17:21
+		Location:	NULL NULL
+
+(6) - 0.0 km Dean
+	DB1
+		Images:	29324
+		Time:	20.05.2023 07:37:46 until 20.05.2023 12:02:49
+		Duration:	04:25:03
+		Location:	NULL NULL
+
+(7) - 0.0 km Ezra
+	EM1
+		Images:	838
+		Time:	20.05.2023 08:21:49 until 20.05.2023 11:43:42
+		Duration:	03:21:53
+		Location:	NULL NULL
+
+(8) - 0.0 km Guy Pre Fin
+	SG3
+		Images:	5787
+		Time:	20.05.2023 10:26:04 until 20.05.2023 11:53:16
+		Duration:	01:27:12
+		Location:	NULL NULL
+
+(9) - 0.0 km Heide
+	HC1
+		Images:	14031
+		Time:	20.05.2023 07:47:40 until 20.05.2023 12:25:25
+		Duration:	04:37:45
+		Location:	NULL NULL
+
+(10) - 0.0 km Jim MSC5
+	JJ1
+		Images:	6354
+		Time:	20.05.2023 11:11:55 until 20.05.2023 12:55:44
+		Duration:	01:43:49
+		Location:	NULL NULL
+
+(11) - 0.0 km Joe Rich ofp
+	JS1
+		Images:	948
+		Time:	20.05.2023 06:39:07 until 20.05.2023 11:01:45
+		Duration:	04:22:38
+		Location:	NULL NULL
+
+(12) - 0.0 km Kamon Cash medals
+	KC1
+		Images:	4539
+		Time:	20.05.2023 06:54:37 until 20.05.2023 10:33:45
+		Duration:	03:39:08
+		Location:	NULL NULL
+
+(13) - 0.0 km Louis OFP
+	LL1
+		Images:	1359
+		Time:	20.05.2023 06:43:16 until 20.05.2023 10:32:34
+		Duration:	03:49:18
+		Location:	NULL NULL
+
+(14) - 0.0 km Miyan MSC
+	ML1
+		Images:	18987
+		Time:	20.05.2023 07:08:33 until 20.05.2023 10:02:39
+		Duration:	02:54:06
+		Location:	NULL NULL
+
+(15) - 0.0 km Natalioe OFP
+	NM1
+		Images:	1383
+		Time:	06.02.2023 02:14:45 until 06.02.2023 05:52:40
+		Duration:	03:37:55
+		Location:	NULL NULL
+
+(16) - 0.0 km Pablo MSc 3
+	BP1
+		Images:	7959
+		Time:	20.05.2023 07:31:42 until 20.05.2023 11:23:11
+		Duration:	03:51:29
+		Location:	NULL NULL
+
+(17) - 0.0 km Peter Medals
+	PK1
+		Images:	6322
+		Time:	20.05.2023 08:11:06 until 20.05.2023 12:23:03
+		Duration:	04:11:57
+		Location:	NULL NULL
+
+(18) - 0.0 km Pre Fin Trigger left
+	TT2LS1
+		Images:	11041
+		Time:	20.05.2023 05:53:48 until 20.05.2023 10:57:02
+		Duration:	05:03:14
+		Location:	NULL NULL
+
+(19) - 0.0 km Ryan Finish
+	RP1
+		Images:	14994
+		Time:	20.05.2023 07:48:41 until 20.05.2023 12:13:51
+		Duration:	04:25:10
+		Location:	NULL NULL
+
+(20) - 0.0 km simon medals
+	SB1
+		Images:	4965
+		Time:	01.01.2014 04:48:15 until 20.05.2023 12:00:25
+		Duration:	3426.07:12:10
+		Location:	NULL NULL
+
+(21) - 0.0 km Tanja MSC4
+	TM1
+		Images:	5384
+		Time:	20.05.2023 07:43:03 until 20.05.2023 12:02:31
+		Duration:	04:19:28
+		Location:	NULL NULL
+
+(22) - 0.0 km Terry MSC 4
+	TW1
+		Images:	23796
+		Time:	20.05.2023 08:15:55 until 20.05.2023 11:42:18
+		Duration:	03:26:23
+		Location:	NULL NULL
+
+(23) - 0.0 km Trent PR
+	TT2
+		Images:	55
+		Time:	20.05.2023 07:25:58 until 20.05.2023 08:19:25
+		Duration:	00:53:27
+		Location:	NULL NULL
+
+(24) - 0.0 km Trent Pre Fin
+	TT1
+		Images:	16165
+		Time:	20.05.2023 07:47:48 until 20.05.2023 12:27:09
+		Duration:	04:39:21
+		Location:	NULL NULL
+
+(25) - 0.0 km Trigger fin right
+	SG2
+		Images:	13777
+		Time:	20.05.2023 05:02:27 until 20.05.2023 10:59:34
+		Duration:	05:57:07
+		Location:	NULL NULL
+
+(26) - 0.0 km Trigger Left Finish
+	SG1
+		Images:	13360
+		Time:	20.05.2023 15:36:26 until 20.05.2023 21:43:35
+		Duration:	06:07:09
+		Location:	NULL NULL
+
+(27) - 0.0 km Vera MSC 1
+	VN1
+		Images:	17616
+		Time:	20.05.2023 07:16:40 until 20.05.2023 10:10:21
+		Duration:	02:53:41
+		Location:	NULL NULL
+
+(28) - 0.0 km William MSC 5
+	WW1
+		Images:	3877
+		Time:	20.05.2023 10:48:36 until 20.05.2023 12:25:06
+		Duration:	01:36:30
+		Location:	NULL NULL
+
+(29) - 0.0 km Xiamen medals
+	XM1
+		Images:	1067
+		Time:	20.05.2023 05:56:24 until 20.05.2023 09:04:27
+		Duration:	03:08:03
+		Location:	NULL NULL
+
+(30) - Impressions / Pano
+	PANO1
+(31) - none
+	AK1LS1
+		Images:	5998
+		Time:	20.05.2023 13:15:51 until 20.05.2023 17:21:51
+		Duration:	04:06:00
+		Location:	NULL NULL
+
+	CM1
+		Images:	34307
+		Time:	20.05.2023 06:26:02 until 20.05.2023 09:19:41
+		Duration:	02:53:39
+		Location:	NULL NULL
+
+	GE1
+		Images:	28700
+		Time:	20.05.2023 06:51:54 until 20.05.2023 08:32:00
+		Duration:	01:40:06
+		Location:	NULL NULL
+
+	JD1
+		Images:	17740
+		Time:	20.05.2023 07:31:20 until 20.05.2023 09:21:37
+		Duration:	01:50:17
+		Location:	NULL NULL
+
+	JD1LS1
+		Images:	4455
+		Time:	20.05.2023 04:51:05 until 20.05.2023 06:29:28
+		Duration:	01:38:23
+		Location:	NULL NULL
+
+	LE1
+		Images:	35519
+		Time:	20.05.2023 06:28:26 until 20.05.2023 09:34:57
+		Duration:	03:06:31
+		Location:	NULL NULL
+
+	LK1
+		Images:	24281
+		Time:	20.05.2023 08:03:33 until 20.05.2023 12:26:57
+		Duration:	04:23:24
+		Location:	NULL NULL
+
+	MK1
+		Images:	28569
+		Time:	20.05.2023 14:03:31 until 20.05.2023 18:18:59
+		Duration:	04:15:28
+		Location:	NULL NULL
+
+	MK1LS1
+		Images:	20925
+		Time:	20.05.2023 07:22:15 until 20.05.2023 12:01:10
+		Duration:	04:38:55
+		Location:	NULL NULL
+
+	ML1LS1
+		Images:	2926
+		Time:	20.05.2023 06:17:33 until 20.05.2023 07:06:18
+		Duration:	00:48:45
+		Location:	NULL NULL
+
+	TW1LS1
+		Images:	13634
+		Time:	20.05.2023 07:31:22 until 20.05.2023 12:09:42
+		Duration:	04:38:20
+		Location:	NULL NULL
+
+	WD1
+		Images:	6738
+		Time:	20.05.2023 06:59:16 until 20.05.2023 08:50:48
+		Duration:	01:51:32
+		Location:	NULL NULL
+

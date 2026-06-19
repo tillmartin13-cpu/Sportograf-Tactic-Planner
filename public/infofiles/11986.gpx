@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "-29.16545" lon = "-51.50370"><name>FO1</name><desc>0.0 km
+Images:92
+First:03.05.2025 11:40:12
+Last:03.05.2025 18:22:47
+Duration:06:42:35
+</desc></wpt>
+<wpt lat = "-29.16545" lon = "-51.50370"><name>FO2DRONE2</name><desc>0.0 km
+Images:96
+First:04.05.2025 07:12:10
+Last:04.05.2025 08:59:04
+Duration:01:46:54
+</desc></wpt>
+<wpt lat = "-29.16545" lon = "-51.50370"><name>MATS1</name><desc>Start
+Images:351
+First:04.05.2025 07:06:30
+Last:04.05.2025 07:33:33
+Duration:00:27:03
+</desc></wpt>
+<wpt lat = "-29.05887" lon = "-51.39642"><name>JJR2LS1</name><desc>39.0 km
+Images:1664
+First:04.05.2025 08:31:00
+Last:04.05.2025 09:10:31
+Duration:00:39:31
+</desc></wpt>
+<wpt lat = "-29.15252" lon = "-51.46069"><name>JJR1</name><desc>39.0 km
+Images:2961
+First:04.05.2025 08:31:59
+Last:04.05.2025 09:10:46
+Duration:00:38:47
+</desc></wpt>
+<wpt lat = "-29.05759" lon = "-51.39868"><name>FO2</name><desc>40.0 km
+Images:1116
+First:04.05.2025 08:32:15
+Last:04.05.2025 09:13:38
+Duration:00:41:23
+</desc></wpt>
+<wpt lat = "-29.05759" lon = "-51.39868"><name>FO2LS1</name><desc>40.0 km
+Images:2561
+First:04.05.2025 08:18:27
+Last:04.05.2025 09:11:00
+Duration:00:52:33
+</desc></wpt>
+<wpt lat = "-29.15252" lon = "-51.45811"><name>JJR2</name><desc>110.0 km
+Images:2379
+First:04.05.2025 10:14:53
+Last:04.05.2025 12:24:47
+Duration:02:09:54
+</desc></wpt>
+<wpt lat = "-29.15255" lon = "-51.46036"><name>JJR2LS2</name><desc>110.0 km
+Images:1130
+First:04.05.2025 10:00:21
+Last:04.05.2025 12:44:16
+Duration:02:43:55
+</desc></wpt>
+<wpt lat = "-29.16027" lon = "-51.46558"><name>FO3</name><desc>114.0 km
+Images:1248
+First:04.05.2025 09:16:30
+Last:04.05.2025 12:58:57
+Duration:03:42:27
+</desc></wpt>
+<wpt lat = "-29.16027" lon = "-51.46558"><name>FO2LS2</name><desc>114.0 km
+Images:817
+First:04.05.2025 10:00:17
+Last:04.05.2025 11:05:25
+Duration:01:05:08
+</desc></wpt>
+<wpt lat = "-29.16027" lon = "-51.46558"><name>FO2LS3</name><desc>114.0 km
+Images:2671
+First:04.05.2025 09:57:11
+Last:04.05.2025 11:45:27
+Duration:01:48:16
+</desc></wpt>
+<wpt lat = "-29.16545" lon = "-51.50370"><name>MATS2</name><desc>Finish
+Images:3133
+First:04.05.2025 10:06:13
+Last:04.05.2025 14:02:36
+Duration:03:56:23
+</desc></wpt>
+</gpx>

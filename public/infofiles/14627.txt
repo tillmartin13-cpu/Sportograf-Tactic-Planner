@@ -1,0 +1,217 @@
+EventId: 14627
+Spots: 32
+Total Images: 74172
+Time:	23.05.2025 16:30:36 to 25.05.2025 11:58:36
+Duration: 1.19:28:00
+
+(1) - Obstacle 5 Swim
+	LULE1
+		Images:	6022
+		Time:	24.05.2025 09:15:35 until 24.05.2025 14:01:08
+		Duration:	04:45:33
+		Location:	44.19132 12.41708
+
+	FRN1
+		Images:	4242
+		Time:	24.05.2025 10:48:17 until 24.05.2025 12:15:18
+		Duration:	01:27:01
+		Location:	44.19132 12.41708
+
+(2) - Obstacle 6 Bender
+	MCO1
+		Images:	3418
+		Time:	24.05.2025 09:16:20 until 24.05.2025 14:08:24
+		Duration:	04:52:04
+		Location:	44.19449 12.41441
+
+	FRN2
+		Images:	1475
+		Time:	24.05.2025 12:03:40 until 24.05.2025 12:15:18
+		Duration:	00:11:38
+		Location:	44.19449 12.41441
+
+(3) - Obstacle 7 Log Carry
+	MATR1
+		Images:	5682
+		Time:	24.05.2025 08:03:41 until 25.05.2025 09:34:02
+		Duration:	1.01:30:21
+		Location:	44.20196 12.40804
+
+	FRN3
+		Images:	2601
+		Time:	24.05.2025 12:28:04 until 24.05.2025 12:45:53
+		Duration:	00:17:49
+		Location:	44.20196 12.40804
+
+	MATR1LS2
+		Images:	1299
+		Time:	24.05.2025 09:14:42 until 24.05.2025 14:23:58
+		Duration:	05:09:16
+		Location:	44.20196 12.40804
+
+	MATR1LS1
+		Images:	2417
+		Time:	24.05.2025 09:06:27 until 24.05.2025 14:23:20
+		Duration:	05:16:53
+		Location:	44.20196 12.40804
+
+(4) - Run before Obstacle 9
+	MDS1LS1
+		Images:	1611
+		Time:	24.05.2025 09:08:48 until 24.05.2025 14:32:13
+		Duration:	05:23:25
+		Location:	44.20109 12.40549
+
+(5) - Obstacle 9 Beater
+	MDS1
+		Images:	6519
+		Time:	24.05.2025 08:04:04 until 24.05.2025 14:33:30
+		Duration:	06:29:26
+		Location:	44.20109 12.40549
+
+(6) - Obstacle 10 Starway to Sparta
+	RLO1
+		Images:	5248
+		Time:	23.05.2025 16:30:36 until 25.05.2025 11:28:41
+		Duration:	1.18:58:05
+		Location:	44.20092 12.40581
+
+	FRN4
+		Images:	499
+		Time:	24.05.2025 13:08:36 until 24.05.2025 13:22:40
+		Duration:	00:14:04
+		Location:	44.20092 12.40581
+
+(7) - Run before obstacle 16
+	LULE1LS1
+		Images:	1642
+		Time:	24.05.2025 09:01:42 until 24.05.2025 15:07:59
+		Duration:	06:06:17
+		Location:	44.19072 12.41648
+
+(8) - Obstacle 16 Buketr carry
+	LULE2
+		Images:	683
+		Time:	24.05.2025 14:06:46 until 24.05.2025 14:53:02
+		Duration:	00:46:16
+		Location:	44.19072 12.41648
+
+	LULE1LS2
+		Images:	1328
+		Time:	24.05.2025 11:21:06 until 24.05.2025 14:55:43
+		Duration:	03:34:37
+		Location:	44.19072 12.41648
+
+(9) - Obstacle 17 Chain Carry
+	BRN1
+		Images:	9101
+		Time:	24.05.2025 09:40:29 until 24.05.2025 15:24:04
+		Duration:	05:43:35
+		Location:	44.19073 12.41427
+
+	BRN1LS1
+		Images:	1112
+		Time:	24.05.2025 09:29:59 until 24.05.2025 15:30:11
+		Duration:	06:00:12
+		Location:	44.19073 12.41427
+
+(10) - Obstacle 23 Barbed Wire
+	DEC1
+		Images:	4425
+		Time:	24.05.2025 09:52:10 until 24.05.2025 16:00:53
+		Duration:	06:08:43
+		Location:	44.18847 12.41193
+
+	FRN5
+		Images:	3100
+		Time:	24.05.2025 10:25:41 until 24.05.2025 14:37:12
+		Duration:	04:11:31
+		Location:	44.18847 12.41193
+
+(11) - Fire Jump
+	VHO1
+		Images:	3426
+		Time:	24.05.2025 08:56:17 until 25.05.2025 09:25:34
+		Duration:	1.00:29:17
+		Location:	44.18811 12.41154
+
+	FRN1LS1
+		Images:	1198
+		Time:	24.05.2025 09:16:30 until 24.05.2025 16:12:54
+		Duration:	06:56:24
+		Location:	44.18811 12.41154
+
+(12) - Herotent
+	MDV1
+		Images:	2414
+		Time:	24.05.2025 09:58:49 until 24.05.2025 16:16:55
+		Duration:	06:18:06
+		Location:	44.18799 12.41161
+
+(13) - Impressions / Pano
+	DEC1DRONE1
+		Images:	13
+		Time:	24.05.2025 14:27:14 until 24.05.2025 14:36:32
+		Duration:	00:09:18
+		Location:	44.18847 12.41193
+
+	MATR1DRONE1
+		Images:	31
+		Time:	24.05.2025 14:28:42 until 25.05.2025 11:58:36
+		Duration:	21:29:54
+		Location:	44.20109 12.40549
+
+(14) - Obstacle 17 Chain Carry NIGHT
+	MDS2
+		Images:	253
+		Time:	24.05.2025 21:02:52 until 24.05.2025 22:04:28
+		Duration:	01:01:36
+		Location:	44.19073 12.41427
+
+	MDS2LS1
+		Images:	322
+		Time:	24.05.2025 20:11:40 until 24.05.2025 22:04:42
+		Duration:	01:53:02
+		Location:	44.19073 12.41427
+
+(15) - Obstacle 21 Multirig NIGHT
+	BRN2
+		Images:	601
+		Time:	24.05.2025 20:22:37 until 24.05.2025 22:38:20
+		Duration:	02:15:43
+		Location:	44.18866 12.41169
+
+(16) - Penalty Loop Obstacle 21 Multirig NIGHT
+	MATR2LS1
+		Images:	431
+		Time:	24.05.2025 20:06:38 until 24.05.2025 22:42:32
+		Duration:	02:35:54
+		Location:	44.18866 12.41169
+
+(17) - Obstacle 23 Barbed NIGHT
+	MATR2
+		Images:	864
+		Time:	24.05.2025 21:21:04 until 24.05.2025 22:39:31
+		Duration:	01:18:27
+		Location:	44.18866 12.41169
+
+(18) - Fire Jump NIGHT
+	FRN6LS1
+		Images:	558
+		Time:	24.05.2025 20:26:18 until 24.05.2025 22:50:47
+		Duration:	02:24:29
+		Location:	44.18801 12.41157
+
+	LULE3LS1
+		Images:	606
+		Time:	24.05.2025 20:01:43 until 24.05.2025 22:50:31
+		Duration:	02:48:48
+		Location:	44.18801 12.41157
+
+(19) - Herotent NIGHT
+	LULE3
+		Images:	1031
+		Time:	24.05.2025 21:23:33 until 24.05.2025 22:53:27
+		Duration:	01:29:54
+		Location:	44.18801 12.41157
+

@@ -1,0 +1,136 @@
+EventId: 10410
+Spots: 22
+Total Images: 92798
+Time:	31.12.2006 19:00:00 to 20.08.2023 11:37:01
+Duration: 6075.16:37:01
+
+(1) - 0.0 km Expo PR's
+	EP1
+		Images:	322
+		Time:	31.12.2006 19:00:00 until 18.08.2023 07:38:11
+		Duration:	6073.12:38:11
+		Location:	NULL NULL
+
+(2) - Impressions / Pano
+	PANO1
+(3) - none
+	AD1
+		Images:	470
+		Time:	20.08.2023 06:42:33 until 20.08.2023 10:22:31
+		Duration:	03:39:58
+		Location:	NULL NULL
+
+	AN1
+		Images:	995
+		Time:	31.12.2006 19:00:00 until 20.08.2023 09:26:06
+		Duration:	6075.14:26:06
+		Location:	NULL NULL
+
+	AS1
+		Images:	12879
+		Time:	20.08.2023 06:55:55 until 20.08.2023 11:24:45
+		Duration:	04:28:50
+		Location:	NULL NULL
+
+	BK1
+		Images:	327
+		Time:	19.08.2023 02:01:07 until 19.08.2023 02:51:59
+		Duration:	00:50:52
+		Location:	NULL NULL
+
+	BS1
+		Images:	4348
+		Time:	20.08.2023 07:08:35 until 20.08.2023 10:58:29
+		Duration:	03:49:54
+		Location:	NULL NULL
+
+	CH1
+		Images:	7423
+		Time:	20.08.2023 08:53:18 until 20.08.2023 11:37:01
+		Duration:	02:43:43
+		Location:	NULL NULL
+
+	DL1
+		Images:	5262
+		Time:	20.08.2023 09:09:29 until 20.08.2023 11:23:23
+		Duration:	02:13:54
+		Location:	NULL NULL
+
+	FT1
+		Images:	3400
+		Time:	20.08.2023 08:23:32 until 20.08.2023 11:15:59
+		Duration:	02:52:27
+		Location:	NULL NULL
+
+	HC1
+		Images:	4421
+		Time:	20.08.2023 08:36:52 until 20.08.2023 11:19:37
+		Duration:	02:42:45
+		Location:	NULL NULL
+
+	KB1
+		Images:	3270
+		Time:	17.08.2023 11:02:07 until 19.08.2023 03:42:56
+		Duration:	1.16:40:49
+		Location:	NULL NULL
+
+	LC1
+		Images:	1637
+		Time:	20.08.2022 08:51:53 until 20.08.2022 11:24:17
+		Duration:	02:32:24
+		Location:	NULL NULL
+
+	LG1
+		Images:	1052
+		Time:	19.08.2023 20:07:22 until 19.08.2023 22:34:42
+		Duration:	02:27:20
+		Location:	NULL NULL
+
+	LS1
+		Images:	5875
+		Time:	20.08.2023 08:57:40 until 20.08.2023 11:01:07
+		Duration:	02:03:27
+		Location:	NULL NULL
+
+	MB1
+		Images:	7159
+		Time:	20.08.2023 07:32:46 until 20.08.2023 11:34:11
+		Duration:	04:01:25
+		Location:	NULL NULL
+
+	NA1
+		Images:	13764
+		Time:	20.08.2023 09:36:46 until 20.08.2023 11:18:33
+		Duration:	01:41:47
+		Location:	NULL NULL
+
+	RD1
+		Images:	6370
+		Time:	20.08.2023 08:34:37 until 20.08.2023 11:05:31
+		Duration:	02:30:54
+		Location:	NULL NULL
+
+	RS1
+		Images:	7337
+		Time:	20.08.2023 08:52:57 until 20.08.2023 11:16:55
+		Duration:	02:23:58
+		Location:	NULL NULL
+
+	TF1
+		Images:	2490
+		Time:	31.12.2006 19:00:01 until 31.12.2006 20:53:03
+		Duration:	01:53:02
+		Location:	NULL NULL
+
+	WP1
+		Images:	3985
+		Time:	20.08.2023 09:04:14 until 20.08.2023 11:21:35
+		Duration:	02:17:21
+		Location:	NULL NULL
+
+	XX1
+		Images:	12
+		Time:	31.12.2006 19:00:00 until 31.12.2006 19:00:56
+		Duration:	00:00:56
+		Location:	NULL NULL
+

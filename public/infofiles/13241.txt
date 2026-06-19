@@ -1,0 +1,190 @@
+EventId: 13241
+Spots: 27
+Total Images: 193116
+Time:	01.01.0001 23:00:00 to 14.07.2024 20:37:38
+Duration: 739079.21:37:38
+
+(1) - 0.0 km 852773 PreFIn Josh Joireman
+	BJOSH1
+		Images:	5696
+		Time:	14.07.2024 08:42:48 until 14.07.2024 17:54:41
+		Duration:	09:11:53
+		Location:	NULL NULL
+
+(2) - 0.0 km 852774 PreFIN Day 2 Jefferson Carroll
+	BJEFF1
+		Images:	9176
+		Time:	14.07.2024 09:49:16 until 14.07.2024 16:25:25
+		Duration:	06:36:09
+		Location:	NULL NULL
+
+(3) - 0.0 km 856530 MSC 10 John Eastep
+	BJOHN1
+		Images:	5683
+		Time:	14.07.2024 06:15:41 until 14.07.2024 11:14:24
+		Duration:	04:58:43
+		Location:	NULL NULL
+
+(4) - 0.0 km 856531 MSC 9 Sean Hoffman
+	BSEAN1
+		Images:	5716
+		Time:	14.07.2024 07:25:16 until 14.07.2024 11:27:05
+		Duration:	04:01:49
+		Location:	NULL NULL
+
+(5) - 0.0 km 856535 Day 2 FIN Toby Cheung
+	BTOBY1
+		Images:	10573
+		Time:	14.07.2024 12:25:19 until 14.07.2024 19:25:39
+		Duration:	07:00:20
+		Location:	NULL NULL
+
+(6) - 0.0 km 856536 FIN Day 2 Sean Hoffman
+	BSEAN2
+		Images:	2246
+		Time:	14.07.2024 16:22:39 until 14.07.2024 19:50:34
+		Duration:	03:27:55
+		Location:	NULL NULL
+
+(7) - 0.0 km 856537 FIN Day 2 trigger
+	BAUTO1
+		Images:	22997
+		Time:	14.07.2024 06:59:33 until 14.07.2024 20:36:10
+		Duration:	13:36:37
+		Location:	NULL NULL
+
+(8) - 0.0 km 856538 MSC 11 Mat Chacon
+	BMAT1
+		Images:	3713
+		Time:	14.07.2024 07:18:46 until 14.07.2024 11:57:32
+		Duration:	04:38:46
+		Location:	NULL NULL
+
+(9) - 0.0 km 856540 MSC 12 Irene Calder
+	BIREN1
+		Images:	6189
+		Time:	14.07.2024 09:16:15 until 14.07.2024 16:56:44
+		Duration:	07:40:29
+		Location:	NULL NULL
+
+(10) - 0.0 km 856542 MSC 1 Jamie Mitchell
+	JAMIE1
+		Images:	4420
+		Time:	13.07.2024 05:38:55 until 13.07.2024 08:28:03
+		Duration:	02:49:08
+		Location:	NULL NULL
+
+(11) - 0.0 km 856543 MSC 1 Mat Chacon
+	MAT1
+		Images:	2330
+		Time:	13.07.2024 05:41:33 until 13.07.2024 08:15:30
+		Duration:	02:33:57
+		Location:	NULL NULL
+
+(12) - 0.0 km 856544 MSC 2 Steve Schimmelman
+	STEVE1
+		Images:	8482
+		Time:	13.07.2024 05:26:11 until 13.07.2024 07:55:19
+		Duration:	02:29:08
+		Location:	NULL NULL
+
+(13) - 0.0 km 856545 msc 3 bill berger
+	BILL1
+		Images:	4574
+		Time:	01.01.0001 23:00:00 until 13.07.2024 16:40:01
+		Duration:	739078.17:40:01
+		Location:	NULL NULL
+
+(14) - 0.0 km 856546 MSC 4 John Eastep
+	JOHN1
+		Images:	9685
+		Time:	13.07.2024 08:36:11 until 13.07.2024 17:28:34
+		Duration:	08:52:23
+		Location:	NULL NULL
+
+(15) - 0.0 km 856548 Day 1 Portland FIN with FLASH- Josh Joireman
+	JOSH2
+		Images:	314
+		Time:	13.07.2024 19:39:46 until 13.07.2024 20:39:55
+		Duration:	01:00:09
+		Location:	NULL NULL
+
+(16) - 0.0 km 856548 FIN Day 1 Portland Josh Joireman
+	JOSH1
+		Images:	3098
+		Time:	13.07.2024 13:14:44 until 13.07.2024 19:51:35
+		Duration:	06:36:51
+		Location:	NULL NULL
+
+(17) - 0.0 km 856551 MSC 5 Jamie Mitchell
+	JAMIE2
+		Images:	7807
+		Time:	13.07.2024 10:58:55 until 13.07.2024 17:30:24
+		Duration:	06:31:29
+		Location:	NULL NULL
+
+(18) - 0.0 km 856552 MSC 5 Mat Chacon
+	MAT2
+		Images:	8514
+		Time:	13.07.2024 11:13:58 until 13.07.2024 17:39:42
+		Duration:	06:25:44
+		Location:	NULL NULL
+
+(19) - 0.0 km 856557 MSC 7 Steve Scimmelman
+	STEVE2
+		Images:	10350
+		Time:	13.07.2024 10:10:00 until 13.07.2024 18:02:44
+		Duration:	07:52:44
+		Location:	NULL NULL
+
+(20) - 0.0 km 856558 MSC 12 Steve Schimmelman
+	BSTEV1
+		Images:	12181
+		Time:	14.07.2024 06:51:45 until 14.07.2024 12:31:02
+		Duration:	05:39:17
+		Location:	NULL NULL
+
+(21) - 0.0 km 856559  MSC 8 Jefferson Carroll
+	JEFF1
+		Images:	4207
+		Time:	13.07.2024 14:02:37 until 13.07.2024 20:34:18
+		Duration:	06:31:41
+		Location:	NULL NULL
+
+(22) - 0.0 km 856639 MSC 12 Jamie Mitchell
+	BJAMI1
+		Images:	11010
+		Time:	14.07.2024 09:32:06 until 14.07.2024 16:51:37
+		Duration:	07:19:31
+		Location:	NULL NULL
+
+(23) - 0.0 km FIN-Toby
+	TOBY1
+		Images:	15616
+		Time:	13.07.2024 12:18:45 until 13.07.2024 22:02:12
+		Duration:	09:43:27
+		Location:	NULL NULL
+
+(24) - 0.0 km MSC 6-Irene
+	IRENE1
+		Images:	9527
+		Time:	13.07.2024 09:29:35 until 13.07.2024 18:37:33
+		Duration:	09:07:58
+		Location:	NULL NULL
+
+(25) - 0.0 km PreFin-Sean
+	SEAN1
+		Images:	8909
+		Time:	13.07.2024 10:26:53 until 13.07.2024 19:58:42
+		Duration:	09:31:49
+		Location:	NULL NULL
+
+(26) - Impressions / Pano
+	PANO1
+(27) - none
+	BSEAN3
+		Images:	103
+		Time:	14.07.2024 19:52:56 until 14.07.2024 20:37:38
+		Duration:	00:44:42
+		Location:	NULL NULL
+

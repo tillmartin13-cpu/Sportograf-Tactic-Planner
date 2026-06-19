@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "51.47256" lon = "13.00971"><name>NH1</name><desc>Start
+Images:1197
+First:30.08.2025 10:08:53
+Last:30.08.2025 13:05:47
+Duration:02:56:54
+</desc></wpt>
+<wpt lat = "51.46004" lon = "13.02892"><name>GUD1</name><desc>29,8 km
+Images:3212
+First:30.08.2025 09:55:40
+Last:30.08.2025 15:19:53
+Duration:05:24:13
+</desc></wpt>
+<wpt lat = "51.46004" lon = "13.02892"><name>GUD1LS1</name><desc>29,8 km
+Images:1035
+First:30.08.2025 10:55:46
+Last:30.08.2025 15:20:12
+Duration:04:24:26
+</desc></wpt>
+<wpt lat = "51.46004" lon = "13.02892"><name>GUD1LS2</name><desc>29,8 km
+Images:1025
+First:30.08.2025 10:55:45
+Last:30.08.2025 15:20:11
+Duration:04:24:26
+</desc></wpt>
+<wpt lat = "51.46706" lon = "13.01671"><name>TIM1</name><desc>31,0 km
+Images:4899
+First:30.08.2025 10:28:40
+Last:30.08.2025 15:31:23
+Duration:05:02:43
+</desc></wpt>
+<wpt lat = "51.46706" lon = "13.01671"><name>TIM1LS1</name><desc>31,0 km
+Images:1427
+First:30.08.2025 10:02:30
+Last:30.08.2025 15:24:22
+Duration:05:21:52
+</desc></wpt>
+<wpt lat = "51.47243" lon = "13.00894"><name>NH2</name><desc>Finish
+Images:3007
+First:30.08.2025 13:24:44
+Last:30.08.2025 15:31:35
+Duration:02:06:51
+</desc></wpt>
+<wpt lat = "51.46706" lon = "13.01671"><name>GUD1DRONE1</name><desc>Impressions / Pano
+Images:8
+First:30.08.2025 10:31:04
+Last:30.08.2025 10:39:15
+Duration:00:08:11
+</desc></wpt>
+</gpx>

@@ -1,0 +1,304 @@
+EventId: 10455
+Spots: 44
+Total Images: 303916
+Time:	01.01.0001 23:00:00 to 15.10.2023 01:28:58
+Duration: 738806.02:28:58
+
+(1) - 0.0 km 583685 Trigger Fin
+	EABDO3
+		Images:	17393
+		Time:	14.10.2023 05:08:32 until 14.10.2023 12:58:15
+		Duration:	07:49:43
+		Location:	NULL NULL
+
+(2) - 0.0 km 853683 Abdo Finish
+	EABDO2
+		Images:	20476
+		Time:	04.02.2007 12:47:18 until 14.10.2023 14:51:40
+		Duration:	6096.02:04:22
+		Location:	NULL NULL
+
+(3) - 0.0 km 853684 - Alan Ng - Finish
+	ALAN2
+		Images:	20744
+		Time:	14.10.2023 08:28:19 until 14.10.2023 13:47:19
+		Duration:	05:19:00
+		Location:	NULL NULL
+
+(4) - 0.0 km 853686 Trigger Fin
+	EABDO4
+		Images:	19396
+		Time:	14.10.2023 06:00:55 until 14.10.2023 13:35:16
+		Duration:	07:34:21
+		Location:	NULL NULL
+
+(5) - 0.0 km 853687 Darren PFN
+	EDARR2
+		Images:	12801
+		Time:	14.10.2023 07:51:24 until 14.10.2023 15:03:41
+		Duration:	07:12:17
+		Location:	NULL NULL
+
+(6) - 0.0 km 853688 - Toby PFN - Card 2
+	TOBC1
+		Images:	11646
+		Time:	14.10.2023 07:24:04 until 14.10.2023 09:53:16
+		Duration:	02:29:12
+		Location:	NULL NULL
+
+(7) - 0.0 km 853688 Toby PFN
+	ETOBY1
+		Images:	46583
+		Time:	14.10.2023 02:54:41 until 14.10.2023 09:53:16
+		Duration:	06:58:35
+		Location:	NULL NULL
+
+(8) - 0.0 km 853689 - Maurico Campino - PreFIN
+	MAURI2
+		Images:	12483
+		Time:	14.10.2023 10:55:35 until 15.10.2023 00:28:55
+		Duration:	13:33:20
+		Location:	NULL NULL
+
+(9) - 0.0 km 853691 - Wesley Lapointe - PreFIN
+	WESLE1
+		Images:	14074
+		Time:	14.10.2023 03:58:56 until 14.10.2023 14:19:34
+		Duration:	10:20:38
+		Location:	NULL NULL
+
+(10) - 0.0 km 853692 Megyn-Medals
+	MEGYN1
+		Images:	1478
+		Time:	14.10.2023 08:13:28 until 14.10.2023 14:51:18
+		Duration:	06:37:50
+		Location:	NULL NULL
+
+(11) - 0.0 km 853693-Peter Kolleck-Medals
+	PETER1
+		Images:	5135
+		Time:	14.10.2023 07:50:17 until 14.10.2023 14:56:22
+		Duration:	07:06:05
+		Location:	NULL NULL
+
+(12) - 0.0 km 853694 Brianna Callahan-Medals
+	BCALL1
+		Images:	1366
+		Time:	13.10.2023 18:50:09 until 14.10.2023 01:00:27
+		Duration:	06:10:18
+		Location:	NULL NULL
+
+(13) - 0.0 km 853696 Israel Siqueira-Medals
+	ISRAE1
+		Images:	1147
+		Time:	13.10.2023 15:44:14 until 13.10.2023 19:53:14
+		Duration:	04:09:00
+		Location:	NULL NULL
+
+(14) - 0.0 km 853699 Rachel Czech OFP
+	RACHE1
+		Images:	1683
+		Time:	14.10.2023 08:03:36 until 14.10.2023 14:06:42
+		Duration:	06:03:06
+		Location:	NULL NULL
+
+(15) - 0.0 km 853700 Kacie Galloway-OFP
+	KACIE1
+		Images:	860
+		Time:	14.10.2023 08:33:51 until 14.10.2023 14:58:50
+		Duration:	06:24:59
+		Location:	NULL NULL
+
+(16) - 0.0 km 853701 Allison Ramsey-OFP
+	ALLIS1
+		Images:	1182
+		Time:	14.10.2023 06:22:05 until 14.10.2023 12:38:33
+		Duration:	06:16:28
+		Location:	NULL NULL
+
+(17) - 0.0 km 853702 Hugh Scott OFP
+	HUGHS1
+		Images:	466
+		Time:	14.10.2023 07:57:38 until 14.10.2023 14:03:34
+		Duration:	06:05:56
+		Location:	NULL NULL
+
+(18) - 0.0 km 853702 Juwan Thomas Medals
+	JUWAN1
+		Images:	1039
+		Time:	13.10.2023 18:38:08 until 14.10.2023 00:29:47
+		Duration:	05:51:39
+		Location:	NULL NULL
+
+(19) - 0.0 km 853703-Myriko Knight-OFP
+	MYRIK1
+		Images:	451
+		Time:	14.10.2023 06:44:36 until 14.10.2023 12:16:57
+		Duration:	05:32:21
+		Location:	NULL NULL
+
+(20) - 0.0 km 853704 - Cezary - MSC 6
+	CEZAR2
+		Images:	6304
+		Time:	14.10.2023 10:53:51 until 14.10.2023 12:54:00
+		Duration:	02:00:09
+		Location:	NULL NULL
+
+(21) - 0.0 km 853705 - Pol Santos - MSC 6
+	SANTP1
+		Images:	7790
+		Time:	14.10.2023 07:39:09 until 14.10.2023 09:59:25
+		Duration:	02:20:16
+		Location:	NULL NULL
+
+(22) - 0.0 km 853706 Robyn Brody MSC 6
+	EROBI1
+		Images:	11224
+		Time:	14.10.2023 10:25:22 until 14.10.2023 11:58:12
+		Duration:	01:32:50
+		Location:	NULL NULL
+
+(23) - 0.0 km 853707 - Dru Lam - MSC 6
+	DRUS2
+		Images:	9352
+		Time:	14.10.2023 10:24:38 until 14.10.2023 13:03:27
+		Duration:	02:38:49
+		Location:	NULL NULL
+
+(24) - 0.0 km 853709 Gus MSC 5
+	EGUST3
+		Images:	4976
+		Time:	14.10.2023 09:17:23 until 14.10.2023 10:11:08
+		Duration:	00:53:45
+		Location:	NULL NULL
+
+(25) - 0.0 km 853710 Curtis Cropper MSC 5
+	CURTI2
+		Images:	3072
+		Time:	14.10.2023 10:08:23 until 14.10.2023 11:14:23
+		Duration:	01:06:00
+		Location:	NULL NULL
+
+(26) - 0.0 km 853711 Trigger MSC 5
+	EGUST4
+		Images:	6222
+		Time:	14.10.2023 10:11:20 until 14.10.2023 11:16:27
+		Duration:	01:05:07
+		Location:	NULL NULL
+
+(27) - 0.0 km 853712 - Mauricio Campino - MSC 4
+	MAURI1
+		Images:	12161
+		Time:	14.10.2023 07:34:06 until 14.10.2023 11:10:36
+		Duration:	03:36:30
+		Location:	NULL NULL
+
+(28) - 0.0 km 853715 - Cezary - MSC 3
+	CEZAR1
+		Images:	2326
+		Time:	14.10.2023 08:38:34 until 14.10.2023 09:29:31
+		Duration:	00:50:57
+		Location:	NULL NULL
+
+(29) - 0.0 km 853716 Pol Santos MSC3
+	POL1
+		Images:	2717
+		Time:	14.10.2023 05:28:12 until 14.10.2023 06:32:26
+		Duration:	01:04:14
+		Location:	NULL NULL
+
+(30) - 0.0 km 853717 - MSC 3 - Trigger
+	THREE1
+		Images:	3409
+		Time:	14.10.2023 07:42:21 until 14.10.2023 08:39:34
+		Duration:	00:57:13
+		Location:	NULL NULL
+
+(31) - 0.0 km 853718 - Dru Lam - MSC 2
+	DRUS1
+		Images:	3182
+		Time:	14.10.2023 07:33:53 until 14.10.2023 09:14:12
+		Duration:	01:40:19
+		Location:	NULL NULL
+
+(32) - 0.0 km 853719 - Robyn - MSC 2
+	EROBI2
+		Images:	3653
+		Time:	14.10.2023 08:01:51 until 14.10.2023 09:10:41
+		Duration:	01:08:50
+		Location:	NULL NULL
+
+(33) - 0.0 km 853720 Gus MSC 1
+	EGUST1
+		Images:	5454
+		Time:	14.10.2023 07:05:51 until 14.10.2023 07:31:06
+		Duration:	00:25:15
+		Location:	NULL NULL
+
+(34) - 0.0 km 853720 Trigger MSC 1
+	EGUST2
+		Images:	1671
+		Time:	14.10.2023 08:01:51 until 14.10.2023 08:33:36
+		Duration:	00:31:45
+		Location:	NULL NULL
+
+(35) - 0.0 km 853721-Curtis Cropper-MSC 1
+	CURTI1
+		Images:	884
+		Time:	14.10.2023 08:03:16 until 14.10.2023 08:30:54
+		Duration:	00:27:38
+		Location:	NULL NULL
+
+(36) - 0.0 km 853725 - Trigger - MSC 7
+	GUSG1
+		Images:	8287
+		Time:	14.10.2023 12:05:02 until 14.10.2023 14:35:54
+		Duration:	02:30:52
+		Location:	NULL NULL
+
+(37) - 0.0 km 853727 Abdo EXPO
+	EABDO1
+		Images:	62
+		Time:	01.01.0001 23:00:00 until 13.10.2023 16:18:42
+		Duration:	738804.17:18:42
+		Location:	NULL NULL
+
+(38) - 0.0 km 853728 - Alan Ng - PR Start
+	ALAN1
+		Images:	534
+		Time:	14.10.2023 06:20:12 until 14.10.2023 07:59:48
+		Duration:	01:39:36
+		Location:	NULL NULL
+
+(39) - 0.0 km 853729 Darren Fin/PR
+	EDARR1
+		Images:	478
+		Time:	14.10.2023 06:44:40 until 14.10.2023 07:40:33
+		Duration:	00:55:53
+		Location:	NULL NULL
+
+(40) - 0.0 km 853730 Gus MSC 7
+	EGUST7
+		Images:	3781
+		Time:	14.10.2023 11:24:12 until 14.10.2023 13:50:26
+		Duration:	02:26:14
+		Location:	NULL NULL
+
+(41) - 0.0 km 853732 - Quinton Smith - MSC 7
+	QUINT1
+		Images:	5980
+		Time:	14.10.2023 10:55:35 until 15.10.2023 01:28:58
+		Duration:	14:33:23
+		Location:	NULL NULL
+
+(42) - 0.0 km Rico Campino - MSC 4 - Trigger
+	RICO1
+		Images:	9994
+		Time:	14.10.2023 11:35:07 until 14.10.2023 15:17:24
+		Duration:	03:42:17
+		Location:	NULL NULL
+
+(43) - 0.0 km Trigger PreFIN
+	AUTO1
+(44) - Impressions / Pano
+	PANO1

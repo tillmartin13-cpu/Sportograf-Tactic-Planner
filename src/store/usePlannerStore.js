@@ -4,7 +4,7 @@ import { uid, normalizeEventId } from '../lib/id';
 import { parseInfofile, infofileToTactic } from '../lib/parseInfofile';
 import { parseGpx, trackToLatLng } from '../lib/parseGpx';
 import { getGpxTracks } from '../lib/gpxTracks';
-import { buildSpotResults, buildTrackMetrics, rematchPhotoSpot } from '../lib/trackMath';
+import { buildSpotResults, buildTrackMetrics, rematchPhotoSpot, pointAtKm } from '../lib/trackMath';
 import { detectSpotType } from '../lib/spotTypes';
 import { isPhotoLocation } from '../lib/locationTypes';
 import { parseKml } from '../lib/parseKml';
@@ -196,6 +196,7 @@ export const usePlannerStore = create(
         locationType,
         name,
         notes,
+        lensType = null,
         lat,
         lng,
         kmOverrides = {},
@@ -267,6 +268,7 @@ export const usePlannerStore = create(
           tele: true,
           wide: false,
           notes: notes || '',
+          lens_type: lensType || null,
           refImages,
           ...(adoptedFrom ? { adoptedFrom } : {}),
         };
@@ -378,9 +380,29 @@ export const usePlannerStore = create(
         }
         try {
           const parsed = parseInfofile(text);
-          const tracks = getGpxTracks(get().getTactic(event.id));
+          // Try to fetch the predecessor's own GPX for coordinate matching
+          let tracks = getGpxTracks(get().getTactic(event.id));
+          try {
+            const gpxRes = await fetch(`/infofiles/${predecessorId}.gpx`);
+            if (gpxRes.ok) {
+              const gpxText = await gpxRes.text();
+              const predTrack = parseGpx(gpxText, `${predecessorId}.gpx`);
+              if (predTrack) tracks = [predTrack, ...tracks];
+            }
+          } catch { /* GPX optional — fall back to current event tracks */ }
           const converted = infofileToTactic(parsed, photographerIndex(get().photographers));
-          const matched = rematchAllPhotoSpots(converted.spots, tracks);
+          let matched = rematchAllPhotoSpots(converted.spots, tracks);
+          // For spots still missing coordinates, try to place them via km_mark on predecessor GPX
+          if (tracks.length > 0) {
+            matched = matched.map((spot) => {
+              if (spot.latitude != null && spot.longitude != null) return spot;
+              if (spot.km_mark == null) return spot;
+              const pt = pointAtKm(tracks[0], spot.km_mark);
+              if (!pt) return spot;
+              const { snapped, results } = buildSpotResults(pt.lat, pt.lng, tracks, {}, true);
+              return { ...spot, latitude: snapped.lat, longitude: snapped.lng, results };
+            });
+          }
           // Build per-photographer timeline from raw camera data
           const referenceTimeline = [];
           for (const rawSpot of parsed.rawSpots) {
@@ -420,6 +442,51 @@ export const usePlannerStore = create(
         if (!event) return;
         const tactic = get().getTactic(event.id);
         get().updateTactic(event.id, { showReferenceLayer: !tactic.showReferenceLayer });
+      },
+
+      deleteReferenceSpot: (eventId, spotId) => {
+        const tactic = get().getTactic(eventId);
+        const referenceSpots = (tactic.referenceSpots || []).filter((s) => s.id !== spotId);
+        get().updateTactic(eventId, { referenceSpots });
+      },
+
+      adoptReferenceSpot: (eventId, refSpot, photographerCode) => {
+        const tactic = get().getTactic(eventId);
+        const tracks = getGpxTracks(tactic);
+        const newSpot = {
+          id: uid(),
+          name: photographerCode
+            ? photographerCode.trim().toUpperCase()
+            : refSpot.name,
+          location_type: 'photo',
+          spot_type: refSpot.spot_type || 'finish',
+          latitude: refSpot.latitude ?? null,
+          longitude: refSpot.longitude ?? null,
+          km_mark: refSpot.km_mark ?? null,
+          results: refSpot.results ?? [],
+          time_from: null,
+          time_to: null,
+          notes: refSpot.notes || '',
+          lens_type: null,
+          refImages: [],
+          adoptedFrom: refSpot.name,
+        };
+        const matched = isPhotoLocation(newSpot) && newSpot.latitude != null
+          ? rematchPhotoSpot(newSpot, tracks)
+          : newSpot;
+        const spots = [...(tactic.spots || []), matched];
+        const referenceSpots = (tactic.referenceSpots || []).filter((s) => s.id !== refSpot.id);
+        // If photographer code given, create assignment
+        const assignments = [...(tactic.assignments || [])];
+        if (photographerCode) {
+          const allPh = get().photographers || [];
+          const ph = allPh.find((p) =>
+            p.code?.trim().toUpperCase() === photographerCode.trim().toUpperCase() &&
+            (p.eventIds ? p.eventIds.includes(eventId) : p.eventId === eventId)
+          );
+          if (ph) assignments.push({ spot_id: matched.id, photographer_id: ph.id });
+        }
+        get().updateTactic(eventId, { spots, referenceSpots, assignments });
       },
 
       openPhotographerImport: () => {

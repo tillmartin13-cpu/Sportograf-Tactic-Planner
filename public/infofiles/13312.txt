@@ -1,0 +1,84 @@
+EventId: 13312
+Spots: 26
+Total Images: 122940
+Time:	28.09.2024 07:22:28 to 28.09.2024 12:17:58
+Duration: 04:55:30
+
+(1) - 0.0 km
+	AK1
+		Images:	10589
+		Time:	28.09.2024 08:50:26 until 28.09.2024 11:10:01
+		Duration:	02:19:35
+		Location:	NULL NULL
+
+	AK1LS1
+		Images:	7818
+		Time:	28.09.2024 08:48:41 until 28.09.2024 11:10:20
+		Duration:	02:21:39
+		Location:	NULL NULL
+
+	ARA1
+	ARB1
+	AS1
+		Images:	13922
+		Time:	28.09.2024 07:22:28 until 28.09.2024 12:17:58
+		Duration:	04:55:30
+		Location:	NULL NULL
+
+	AS1LS1
+		Images:	15212
+		Time:	28.09.2024 08:15:49 until 28.09.2024 12:11:28
+		Duration:	03:55:39
+		Location:	NULL NULL
+
+	CF1
+		Images:	7304
+		Time:	28.09.2024 08:55:42 until 28.09.2024 11:37:53
+		Duration:	02:42:11
+		Location:	NULL NULL
+
+	DKA1
+	DKA1LS1
+	DKB1
+	DKB1LS1
+	GEA1
+	GEB1
+	JD1
+		Images:	23443
+		Time:	28.09.2024 07:58:37 until 28.09.2024 12:05:48
+		Duration:	04:07:11
+		Location:	NULL NULL
+
+	JK1
+		Images:	11116
+		Time:	28.09.2024 07:48:19 until 28.09.2024 10:55:29
+		Duration:	03:07:10
+		Location:	NULL NULL
+
+	JK1LS1
+		Images:	6750
+		Time:	28.09.2024 07:41:44 until 28.09.2024 10:41:42
+		Duration:	02:59:58
+		Location:	NULL NULL
+
+	JRA1
+	JRB1
+		Images:	13113
+		Time:	28.09.2024 09:19:51 until 28.09.2024 12:11:28
+		Duration:	02:51:37
+		Location:	NULL NULL
+
+	LEA1
+	LEA1LS1
+	LEB1
+	LEB1LS1
+	PKB1
+	SB1
+	WD1
+		Images:	13673
+		Time:	28.09.2024 08:01:49 until 28.09.2024 12:04:18
+		Duration:	04:02:29
+		Location:	NULL NULL
+
+(2) - Impressions / Pano
+	PANO1

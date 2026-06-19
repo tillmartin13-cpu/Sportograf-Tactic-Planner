@@ -1,0 +1,395 @@
+EventId: 12570
+Spots: 64
+Total Images: 192990
+Time:	26.01.2024 14:51:56 to 27.01.2024 22:01:12
+Duration: 1.07:09:16
+
+(1) - Farmers Carry
+	BBKO6LS1
+		Images:	3182
+		Time:	27.01.2024 06:59:12 until 27.01.2024 21:29:16
+		Duration:	14:30:04
+		Location:	53.47627 -2.24989
+
+	BPARO2LS1
+		Images:	4033
+		Time:	27.01.2024 07:33:49 until 27.01.2024 21:33:05
+		Duration:	13:59:16
+		Location:	53.47627 -2.24989
+
+(2) - Finish
+	AGUD5
+		Images:	476
+		Time:	27.01.2024 12:41:09 until 27.01.2024 13:07:21
+		Duration:	00:26:12
+		Location:	53.47627 -2.24989
+
+	APARO5
+		Images:	159
+		Time:	27.01.2024 14:29:33 until 27.01.2024 14:34:37
+		Duration:	00:05:04
+		Location:	53.47627 -2.24989
+
+	AYCAN1
+		Images:	7461
+		Time:	26.01.2024 14:51:56 until 27.01.2024 14:37:47
+		Duration:	23:45:51
+		Location:	53.47627 -2.24989
+
+	BGUD5
+		Images:	451
+		Time:	27.01.2024 17:13:35 until 27.01.2024 17:38:36
+		Duration:	00:25:01
+		Location:	53.47627 -2.24989
+
+	BGUD5LS1
+		Images:	3228
+		Time:	27.01.2024 06:26:20 until 27.01.2024 21:30:13
+		Duration:	15:03:53
+		Location:	53.47627 -2.24989
+
+	BJUW1
+		Images:	3967
+		Time:	27.01.2024 06:54:14 until 27.01.2024 22:00:21
+		Duration:	15:06:07
+		Location:	53.47627 -2.24989
+
+	BJUW1LS1
+		Images:	3184
+		Time:	27.01.2024 06:32:49 until 27.01.2024 21:27:54
+		Duration:	14:55:05
+		Location:	53.47627 -2.24989
+
+	BPARO1
+		Images:	398
+		Time:	27.01.2024 18:09:52 until 27.01.2024 19:47:44
+		Duration:	01:37:52
+		Location:	53.47627 -2.24989
+
+(3) - Hero Wall
+	AJUW1
+		Images:	717
+		Time:	27.01.2024 07:55:23 until 27.01.2024 14:28:02
+		Duration:	06:32:39
+		Location:	53.47627 -2.24989
+
+	BBKO5
+		Images:	55
+		Time:	27.01.2024 17:12:08 until 27.01.2024 17:37:50
+		Duration:	00:25:42
+		Location:	53.47627 -2.24989
+
+	BYCAN1
+		Images:	1624
+		Time:	27.01.2024 14:39:06 until 27.01.2024 22:01:12
+		Duration:	07:22:06
+		Location:	53.47627 -2.24989
+
+(4) - Impressions / Pano
+	ABKO5
+		Images:	222
+		Time:	27.01.2024 07:04:53 until 27.01.2024 09:40:15
+		Duration:	02:35:22
+		Location:	53.47627 -2.24989
+
+	APARO1
+		Images:	51
+		Time:	27.01.2024 07:41:33 until 27.01.2024 09:31:02
+		Duration:	01:49:29
+		Location:	53.47627 -2.24989
+
+	PANO1
+(5) - Rowing
+	ABKO3
+		Images:	581
+		Time:	27.01.2024 11:18:56 until 27.01.2024 11:50:28
+		Duration:	00:31:32
+		Location:	53.47627 -2.24989
+
+	AGUD4
+		Images:	831
+		Time:	27.01.2024 11:20:20 until 27.01.2024 11:50:27
+		Duration:	00:30:07
+		Location:	53.47627 -2.24989
+
+	APARO6
+		Images:	1073
+		Time:	27.01.2024 15:38:03 until 27.01.2024 16:37:47
+		Duration:	00:59:44
+		Location:	53.47627 -2.24989
+
+	APHA1
+		Images:	2913
+		Time:	27.01.2024 06:35:44 until 27.01.2024 14:15:45
+		Duration:	07:40:01
+		Location:	53.47627 -2.24989
+
+	AQVT1
+		Images:	6196
+		Time:	27.01.2024 06:35:33 until 27.01.2024 14:13:19
+		Duration:	07:37:46
+		Location:	53.47627 -2.24989
+
+	BGHI1
+		Images:	3209
+		Time:	27.01.2024 14:17:40 until 27.01.2024 20:54:14
+		Duration:	06:36:34
+		Location:	53.47627 -2.24989
+
+	BKU1
+		Images:	6711
+		Time:	27.01.2024 14:16:13 until 27.01.2024 21:14:42
+		Duration:	06:58:29
+		Location:	53.47627 -2.24989
+
+(6) - Sandbag Lunges
+	AALN2
+		Images:	143
+		Time:	27.01.2024 14:14:01 until 27.01.2024 14:23:15
+		Duration:	00:09:14
+		Location:	53.47627 -2.24989
+
+	AGHI1
+		Images:	4778
+		Time:	27.01.2024 06:32:50 until 27.01.2024 14:13:00
+		Duration:	07:40:10
+		Location:	53.47627 -2.24989
+
+	AKU1
+		Images:	4243
+		Time:	27.01.2024 07:35:21 until 27.01.2024 14:10:12
+		Duration:	06:34:51
+		Location:	53.47627 -2.24989
+
+	APARO3
+		Images:	930
+		Time:	27.01.2024 09:09:38 until 27.01.2024 11:55:58
+		Duration:	02:46:20
+		Location:	53.47627 -2.24989
+
+	BALN1
+		Images:	5478
+		Time:	27.01.2024 14:26:16 until 27.01.2024 21:43:43
+		Duration:	07:17:27
+		Location:	53.47627 -2.24989
+
+	BBKO3
+		Images:	646
+		Time:	27.01.2024 15:06:39 until 27.01.2024 15:39:50
+		Duration:	00:33:11
+		Location:	53.47627 -2.24989
+
+	BDWO1
+		Images:	3289
+		Time:	27.01.2024 14:10:53 until 27.01.2024 21:08:53
+		Duration:	06:58:00
+		Location:	53.47627 -2.24989
+
+	BGUD3
+		Images:	2153
+		Time:	27.01.2024 15:06:20 until 27.01.2024 19:18:05
+		Duration:	04:11:45
+		Location:	53.47627 -2.24989
+
+(7) - SkiErg
+	AGUD1
+		Images:	1936
+		Time:	27.01.2024 06:51:53 until 27.01.2024 09:38:41
+		Duration:	02:46:48
+		Location:	53.47627 -2.24989
+
+	AJBT1
+		Images:	10748
+		Time:	27.01.2024 06:39:17 until 27.01.2024 13:59:44
+		Duration:	07:20:27
+		Location:	53.47627 -2.24989
+
+	AOLH1
+		Images:	4104
+		Time:	27.01.2024 06:28:28 until 27.01.2024 13:59:37
+		Duration:	07:31:09
+		Location:	53.47627 -2.24989
+
+	AWIN1
+		Images:	5579
+		Time:	27.01.2024 06:52:32 until 27.01.2024 13:58:47
+		Duration:	07:06:15
+		Location:	53.47627 -2.24989
+
+	BKBH1
+		Images:	5272
+		Time:	27.01.2024 14:04:58 until 27.01.2024 19:59:30
+		Duration:	05:54:32
+		Location:	53.47627 -2.24989
+
+	BPAS1
+		Images:	7584
+		Time:	27.01.2024 14:05:21 until 27.01.2024 19:57:41
+		Duration:	05:52:20
+		Location:	53.47627 -2.24989
+
+	BPHA1
+		Images:	1806
+		Time:	27.01.2024 14:25:21 until 27.01.2024 19:58:34
+		Duration:	05:33:13
+		Location:	53.47627 -2.24989
+
+(8) - Sled Pull
+	AALN1
+		Images:	18452
+		Time:	27.01.2024 07:09:03 until 27.01.2024 14:01:50
+		Duration:	06:52:47
+		Location:	53.47627 -2.24989
+
+	ABKO2
+		Images:	605
+		Time:	27.01.2024 10:38:25 until 27.01.2024 11:07:55
+		Duration:	00:29:30
+		Location:	53.47627 -2.24989
+
+	ADWO1
+		Images:	3660
+		Time:	27.01.2024 07:17:32 until 27.01.2024 14:04:47
+		Duration:	06:47:15
+		Location:	53.47627 -2.24989
+
+	AGUD3
+		Images:	911
+		Time:	27.01.2024 10:39:44 until 27.01.2024 11:07:20
+		Duration:	00:27:36
+		Location:	53.47627 -2.24989
+
+	APARO2
+		Images:	460
+		Time:	27.01.2024 08:40:39 until 27.01.2024 10:58:30
+		Duration:	02:17:51
+		Location:	53.47627 -2.24989
+
+	BBKO2
+		Images:	716
+		Time:	27.01.2024 14:09:13 until 27.01.2024 17:02:13
+		Duration:	02:53:00
+		Location:	53.47627 -2.24989
+
+	BGUD2
+		Images:	1132
+		Time:	27.01.2024 14:07:02 until 27.01.2024 17:01:31
+		Duration:	02:54:29
+		Location:	53.47627 -2.24989
+
+	BMALV1
+		Images:	5401
+		Time:	27.01.2024 14:16:05 until 27.01.2024 20:31:54
+		Duration:	06:15:49
+		Location:	53.47627 -2.24989
+
+	BOB1
+		Images:	6922
+		Time:	27.01.2024 14:12:48 until 27.01.2024 20:22:43
+		Duration:	06:09:55
+		Location:	53.47627 -2.24989
+
+(9) - Sled Push
+	ABKO1
+		Images:	1592
+		Time:	27.01.2024 07:13:55 until 27.01.2024 10:34:37
+		Duration:	03:20:42
+		Location:	53.47627 -2.24989
+
+	AGUD2
+		Images:	347
+		Time:	27.01.2024 10:02:51 until 27.01.2024 10:17:52
+		Duration:	00:15:01
+		Location:	53.47627 -2.24989
+
+	AKBH1
+		Images:	2042
+		Time:	27.01.2024 06:44:40 until 27.01.2024 14:00:40
+		Duration:	07:16:00
+		Location:	53.47627 -2.24989
+
+	APARO4
+		Images:	495
+		Time:	27.01.2024 13:59:25 until 27.01.2024 14:17:57
+		Duration:	00:18:32
+		Location:	53.47627 -2.24989
+
+	APAS1
+		Images:	8151
+		Time:	27.01.2024 07:12:29 until 27.01.2024 13:59:13
+		Duration:	06:46:44
+		Location:	53.47627 -2.24989
+
+	BBKO1
+		Images:	771
+		Time:	27.01.2024 15:49:54 until 27.01.2024 18:58:20
+		Duration:	03:08:26
+		Location:	53.47627 -2.24989
+
+	BGUD1
+		Images:	560
+		Time:	27.01.2024 15:52:47 until 27.01.2024 16:19:45
+		Duration:	00:26:58
+		Location:	53.47627 -2.24989
+
+	BQVT1
+		Images:	4279
+		Time:	27.01.2024 14:18:21 until 27.01.2024 20:08:48
+		Duration:	05:50:27
+		Location:	53.47627 -2.24989
+
+	BWIN1
+		Images:	5655
+		Time:	27.01.2024 14:04:12 until 27.01.2024 20:08:58
+		Duration:	06:04:46
+		Location:	53.47627 -2.24989
+
+(10) - Wall Balls
+	ABKO4
+		Images:	739
+		Time:	27.01.2024 12:00:05 until 27.01.2024 12:33:42
+		Duration:	00:33:37
+		Location:	53.47627 -2.24989
+
+	AGUD6
+		Images:	816
+		Time:	27.01.2024 11:59:27 until 27.01.2024 12:32:09
+		Duration:	00:32:42
+		Location:	53.47627 -2.24989
+
+	AMALV1
+		Images:	4576
+		Time:	27.01.2024 06:30:45 until 27.01.2024 14:09:03
+		Duration:	07:38:18
+		Location:	53.47627 -2.24989
+
+	AOB1
+		Images:	7226
+		Time:	27.01.2024 06:28:52 until 27.01.2024 14:03:24
+		Duration:	07:34:32
+		Location:	53.47627 -2.24989
+
+	BBKO4
+		Images:	459
+		Time:	27.01.2024 14:30:01 until 27.01.2024 14:59:27
+		Duration:	00:29:26
+		Location:	53.47627 -2.24989
+
+	BGUD4
+		Images:	533
+		Time:	27.01.2024 14:30:03 until 27.01.2024 15:00:31
+		Duration:	00:30:28
+		Location:	53.47627 -2.24989
+
+	BJBT1
+		Images:	5387
+		Time:	27.01.2024 14:07:55 until 27.01.2024 21:42:11
+		Duration:	07:34:16
+		Location:	53.47627 -2.24989
+
+	BOLH1
+		Images:	1692
+		Time:	27.01.2024 14:07:28 until 27.01.2024 21:58:50
+		Duration:	07:51:22
+		Location:	53.47627 -2.24989
+

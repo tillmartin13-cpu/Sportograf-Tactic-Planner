@@ -1,0 +1,758 @@
+EventId: 9353
+Spots: 123
+Total Images: 1538440
+Time:	01.01.0001 23:00:00 to 23.04.2023 22:09:14
+Duration: 738631.23:09:14
+
+(1) - 30,0 km Canary Wharf - Marshall Wall
+	NWO2
+		Images:	7309
+		Time:	23.04.2023 14:18:24 until 23.04.2023 17:02:21
+		Duration:	02:43:57
+		Location:	NULL NULL
+
+	NWO2LS1
+		Images:	2544
+		Time:	23.04.2023 14:12:42 until 23.04.2023 17:05:36
+		Duration:	02:52:54
+		Location:	NULL NULL
+
+	SF1
+		Images:	6103
+		Time:	23.04.2023 10:11:56 until 23.04.2023 16:20:56
+		Duration:	06:09:00
+		Location:	NULL NULL
+
+	SPH1
+		Images:	29143
+		Time:	23.04.2023 09:24:34 until 23.04.2023 16:16:42
+		Duration:	06:52:08
+		Location:	NULL NULL
+
+	TOG2
+		Images:	6143
+		Time:	23.04.2023 14:19:36 until 23.04.2023 16:12:00
+		Duration:	01:52:24
+		Location:	NULL NULL
+
+	TOG2LS1
+		Images:	1849
+		Time:	23.04.2023 14:12:26 until 23.04.2023 16:18:33
+		Duration:	02:06:07
+		Location:	NULL NULL
+
+	TV1
+		Images:	8035
+		Time:	23.04.2023 10:11:58 until 23.04.2023 17:02:03
+		Duration:	06:50:05
+		Location:	NULL NULL
+
+(2) - 30,5 km Canary Wharf - Heron Quays
+	AH1
+		Images:	14922
+		Time:	23.04.2023 09:21:04 until 23.04.2023 16:44:40
+		Duration:	07:23:36
+		Location:	NULL NULL
+
+	GF1
+		Images:	26125
+		Time:	23.04.2023 10:12:56 until 23.04.2023 16:48:52
+		Duration:	06:35:56
+		Location:	NULL NULL
+
+	JHD1
+		Images:	14879
+		Time:	23.04.2023 09:30:11 until 23.04.2023 16:42:50
+		Duration:	07:12:39
+		Location:	NULL NULL
+
+	RLW1
+		Images:	16637
+		Time:	23.04.2023 09:20:51 until 23.04.2023 16:51:08
+		Duration:	07:30:17
+		Location:	NULL NULL
+
+(3) - Big Ben - Km 41 / 25.7 mi
+	CMU1
+		Images:	25309
+		Time:	23.04.2023 09:25:52 until 23.04.2023 18:31:54
+		Duration:	09:06:02
+		Location:	51.50112 -0.12830
+
+	DAB2
+		Images:	221
+		Time:	22.04.2023 17:07:20 until 22.04.2023 18:06:06
+		Duration:	00:58:46
+		Location:	51.50112 -0.12830
+
+	DACU2
+		Images:	2269
+		Time:	23.04.2023 16:59:55 until 23.04.2023 18:09:48
+		Duration:	01:09:53
+		Location:	51.50112 -0.12830
+
+	DAKE1
+		Images:	23749
+		Time:	23.04.2023 09:47:17 until 23.04.2023 19:18:20
+		Duration:	09:31:03
+		Location:	51.50112 -0.12830
+
+	DAKE1LS1
+		Images:	7470
+		Time:	23.04.2023 12:24:42 until 23.04.2023 18:42:26
+		Duration:	06:17:44
+		Location:	51.50112 -0.12830
+
+	JWP1
+		Images:	30660
+		Time:	23.04.2023 09:45:12 until 23.04.2023 19:16:35
+		Duration:	09:31:23
+		Location:	51.50112 -0.12830
+
+	LOT1
+		Images:	33030
+		Time:	22.04.2023 21:31:47 until 23.04.2023 19:16:54
+		Duration:	21:45:07
+		Location:	51.50112 -0.12830
+
+	MD1
+		Images:	17636
+		Time:	23.04.2023 10:07:00 until 23.04.2023 19:09:17
+		Duration:	09:02:17
+		Location:	51.50112 -0.12830
+
+	PARO1
+		Images:	36647
+		Time:	22.04.2023 08:58:44 until 23.04.2023 18:12:14
+		Duration:	1.09:13:30
+		Location:	51.50112 -0.12830
+
+	PARO1LS1
+		Images:	10565
+		Time:	23.04.2023 11:34:42 until 23.04.2023 18:30:41
+		Duration:	06:55:59
+		Location:	51.50112 -0.12830
+
+	PARO1LS2
+		Images:	9775
+		Time:	23.04.2023 10:05:43 until 23.04.2023 18:30:58
+		Duration:	08:25:15
+		Location:	51.50112 -0.12830
+
+	PAS1
+		Images:	40042
+		Time:	23.04.2023 10:36:02 until 23.04.2023 19:15:15
+		Duration:	08:39:13
+		Location:	51.50112 -0.12830
+
+	SALA1
+		Images:	23333
+		Time:	23.04.2023 09:54:05 until 23.04.2023 19:18:12
+		Duration:	09:24:07
+		Location:	51.50112 -0.12830
+
+	STEM1
+		Images:	44387
+		Time:	23.04.2023 09:37:56 until 23.04.2023 19:16:35
+		Duration:	09:38:39
+		Location:	51.50112 -0.12830
+
+(4) - Big Ben - km41 / 25,7mi
+	PARO2
+		Images:	3110
+		Time:	02.07.2022 09:19:28 until 23.04.2023 19:18:12
+		Duration:	295.09:58:44
+		Location:	51.50103 -0.12618
+
+(5) - Birdcage Walk - 600m before finish
+	DD1
+		Images:	12009
+		Time:	23.04.2023 08:34:48 until 23.04.2023 19:21:02
+		Duration:	10:46:14
+		Location:	51.50053 -0.13807
+
+	JUT2
+		Images:	1533
+		Time:	22.04.2023 17:49:00 until 23.04.2023 17:31:10
+		Duration:	23:42:10
+		Location:	51.50086 -0.13452
+
+	MDA1
+		Images:	12560
+		Time:	22.04.2023 16:04:10 until 23.04.2023 19:23:20
+		Duration:	1.03:19:10
+		Location:	51.50086 -0.13452
+
+	ME1
+		Images:	23278
+		Time:	23.04.2023 09:31:10 until 23.04.2023 19:26:39
+		Duration:	09:55:29
+		Location:	51.50053 -0.13807
+
+	MFR2
+		Images:	1692
+		Time:	23.04.2023 17:35:30 until 23.04.2023 19:31:30
+		Duration:	01:56:00
+		Location:	51.50053 -0.13807
+
+	MSC2
+		Images:	1356
+		Time:	23.04.2023 09:28:25 until 23.04.2023 17:10:40
+		Duration:	07:42:15
+		Location:	51.50086 -0.13452
+
+	SK2
+		Images:	1009
+		Time:	23.04.2023 16:39:54 until 23.04.2023 17:13:55
+		Duration:	00:34:01
+		Location:	51.50086 -0.13452
+
+	STG1
+		Images:	12494
+		Time:	23.04.2023 10:37:27 until 23.04.2023 19:20:32
+		Duration:	08:43:05
+		Location:	51.50053 -0.13807
+
+(6) - Buckingham Palace - 400m before finish
+	CMO1
+		Images:	21273
+		Time:	23.04.2023 10:12:57 until 23.04.2023 19:32:00
+		Duration:	09:19:03
+		Location:	51.50205 -0.13981
+
+	EK2
+		Images:	1799
+		Time:	23.04.2023 16:42:52 until 23.04.2023 18:31:02
+		Duration:	01:48:10
+		Location:	51.50205 -0.13981
+
+	MELI2
+		Images:	851
+		Time:	23.04.2023 16:48:10 until 23.04.2023 17:04:52
+		Duration:	00:16:42
+		Location:	51.50208 -0.14003
+
+	MIH1
+		Images:	29601
+		Time:	23.04.2023 09:38:14 until 23.04.2023 19:33:46
+		Duration:	09:55:32
+		Location:	51.50205 -0.13981
+
+	MIH1LS1
+		Images:	13033
+		Time:	23.04.2023 09:13:20 until 23.04.2023 19:44:14
+		Duration:	10:30:54
+		Location:	51.50205 -0.13981
+
+	SW1
+		Images:	27940
+		Time:	23.04.2023 09:10:49 until 23.04.2023 19:32:06
+		Duration:	10:21:17
+		Location:	51.50205 -0.13981
+
+(7) - Cutty Sark - km10,5 / 6,8mi
+	BECB1
+		Images:	11623
+		Time:	22.04.2023 17:57:10 until 23.04.2023 13:28:12
+		Duration:	19:31:02
+		Location:	51.48322 -0.00955
+
+	BECB1LS1
+		Images:	5206
+		Time:	22.04.2023 20:16:46 until 23.04.2023 13:12:58
+		Duration:	16:56:12
+		Location:	51.48322 -0.00955
+
+	CRIC1
+		Images:	13163
+		Time:	23.04.2023 08:59:50 until 23.04.2023 13:19:08
+		Duration:	04:19:18
+		Location:	51.48322 -0.00955
+
+	CRIC1LS1
+		Images:	2740
+		Time:	23.04.2023 09:07:27 until 23.04.2023 12:39:10
+		Duration:	03:31:43
+		Location:	51.48322 -0.00955
+
+	DAT1
+		Images:	8630
+		Time:	23.04.2023 08:54:50 until 23.04.2023 13:28:15
+		Duration:	04:33:25
+		Location:	51.48322 -0.00955
+
+	VG1
+		Images:	7179
+		Time:	23.04.2023 08:48:05 until 23.04.2023 13:39:05
+		Duration:	04:51:00
+		Location:	51.48322 -0.00955
+
+(8) - Finish
+	JOS1
+		Images:	9903
+		Time:	23.04.2023 12:31:30 until 23.04.2023 14:59:03
+		Duration:	02:27:33
+		Location:	51.50323 -0.13716
+
+	JOS2
+		Images:	2866
+		Time:	23.04.2023 16:56:38 until 23.04.2023 19:29:44
+		Duration:	02:33:06
+		Location:	51.50323 -0.13716
+
+	JOS3
+		Images:	5416
+		Time:	23.04.2023 15:05:55 until 23.04.2023 16:54:21
+		Duration:	01:48:26
+		Location:	51.50323 -0.13716
+
+	MELI3
+		Images:	1218
+		Time:	23.04.2023 17:30:07 until 23.04.2023 17:59:51
+		Duration:	00:29:44
+		Location:	51.50323 -0.13716
+
+	MKLS1
+		Images:	8112
+		Time:	23.04.2023 11:12:45 until 23.04.2023 18:36:11
+		Duration:	07:23:26
+		Location:	51.50323 -0.13716
+
+	MKLS2
+		Images:	8084
+		Time:	23.04.2023 11:51:35 until 23.04.2023 18:36:19
+		Duration:	06:44:44
+		Location:	51.50323 -0.13716
+
+	MP1
+		Images:	6099
+		Time:	23.04.2023 09:57:32 until 23.04.2023 15:10:19
+		Duration:	05:12:47
+		Location:	51.50323 -0.13716
+
+	NIKSB1
+		Images:	57
+		Time:	23.04.2023 20:24:45 until 23.04.2023 22:09:14
+		Duration:	01:44:29
+		Location:	51.50474 -0.13397
+
+	REM1
+		Images:	11571
+		Time:	23.04.2023 12:18:54 until 23.04.2023 15:47:43
+		Duration:	03:28:49
+		Location:	51.50323 -0.13716
+
+	REM2
+		Images:	6453
+		Time:	23.04.2023 15:58:22 until 23.04.2023 19:04:49
+		Duration:	03:06:27
+		Location:	51.50323 -0.13716
+
+(9) - Finishing straight
+	DAN1
+		Images:	16029
+		Time:	23.04.2023 12:39:54 until 23.04.2023 19:31:46
+		Duration:	06:51:52
+		Location:	51.50304 -0.13777
+
+	FNLS1
+		Images:	10096
+		Time:	22.04.2023 17:09:33 until 23.04.2023 16:33:16
+		Duration:	23:23:43
+		Location:	51.50402 -0.13531
+
+	FNLS2
+		Images:	10004
+		Time:	23.04.2023 08:04:02 until 23.04.2023 19:19:54
+		Duration:	11:15:52
+		Location:	51.50402 -0.13531
+
+	GUD1
+		Images:	35202
+		Time:	23.04.2023 12:47:16 until 23.04.2023 18:23:11
+		Duration:	05:35:55
+		Location:	51.50362 -0.13630
+
+	GUD1LS1
+		Images:	7650
+		Time:	23.04.2023 12:41:49 until 23.04.2023 19:07:29
+		Duration:	06:25:40
+		Location:	51.50362 -0.13630
+
+	GUD1LS2
+		Images:	7807
+		Time:	23.04.2023 12:38:03 until 23.04.2023 19:12:01
+		Duration:	06:33:58
+		Location:	51.50362 -0.13630
+
+	KHR1
+		Images:	27812
+		Time:	21.04.2023 14:14:03 until 23.04.2023 19:34:22
+		Duration:	2.05:20:19
+		Location:	51.50362 -0.13630
+
+	LV1
+		Images:	33240
+		Time:	23.04.2023 12:50:04 until 23.04.2023 19:34:10
+		Duration:	06:44:06
+		Location:	51.50362 -0.13630
+
+	LV2
+		Images:	4182
+		Time:	23.04.2023 18:12:37 until 23.04.2023 19:34:10
+		Duration:	01:21:33
+		Location:	51.50315 -0.13729
+
+	MK1
+		Images:	55713
+		Time:	23.04.2023 11:38:44 until 23.04.2023 18:33:10
+		Duration:	06:54:26
+		Location:	51.50362 -0.13630
+
+	TIH1
+		Images:	25949
+		Time:	23.04.2023 12:37:18 until 23.04.2023 19:16:08
+		Duration:	06:38:50
+		Location:	51.50362 -0.13630
+
+	TIH1LS1
+		Images:	7554
+		Time:	23.04.2023 12:34:05 until 23.04.2023 19:09:34
+		Duration:	06:35:29
+		Location:	51.50362 -0.13630
+
+(10) - Impressions / Pano
+	PANO1
+(11) - Jubilee Bridge - km39 / 24,5mi
+	RENA1
+		Images:	13708
+		Time:	23.04.2023 09:06:33 until 23.04.2023 19:00:29
+		Duration:	09:53:56
+		Location:	51.50704 -0.12205
+
+	TO1
+		Images:	12212
+		Time:	23.04.2023 10:34:25 until 23.04.2023 19:02:01
+		Duration:	08:27:36
+		Location:	51.50704 -0.12205
+
+(12) - London Eye - km40,5 / 25,5mi
+	BL1
+		Images:	30693
+		Time:	23.04.2023 08:32:19 until 23.04.2023 19:14:15
+		Duration:	10:41:56
+		Location:	51.50109 -0.12426
+
+	EB1
+		Images:	13373
+		Time:	23.04.2023 10:35:54 until 23.04.2023 19:14:15
+		Duration:	08:38:21
+		Location:	51.50109 -0.12426
+
+	LEM1
+		Images:	19121
+		Time:	23.04.2023 09:45:28 until 23.04.2023 19:06:46
+		Duration:	09:21:18
+		Location:	51.50109 -0.12426
+
+	LEM1LS1
+		Images:	7911
+		Time:	23.04.2023 12:29:15 until 23.04.2023 19:07:54
+		Duration:	06:38:39
+		Location:	51.50109 -0.12426
+
+	LEM1LS2
+		Images:	6681
+		Time:	23.04.2023 09:58:43 until 23.04.2023 19:12:42
+		Duration:	09:13:59
+		Location:	51.50109 -0.12426
+
+	SHP1
+		Images:	16324
+		Time:	23.04.2023 09:45:12 until 23.04.2023 19:13:40
+		Duration:	09:28:28
+		Location:	51.50109 -0.12426
+
+(13) - Medals
+	BECB2
+		Images:	1332
+		Time:	23.04.2023 16:12:14 until 23.04.2023 18:28:48
+		Duration:	02:16:34
+		Location:	51.50475 -0.13338
+
+	CRIC2
+		Images:	324
+		Time:	23.04.2023 16:10:53 until 23.04.2023 18:27:45
+		Duration:	02:16:52
+		Location:	51.50475 -0.13338
+
+	DAT2
+		Images:	927
+		Time:	23.04.2023 16:05:56 until 23.04.2023 18:42:12
+		Duration:	02:36:16
+		Location:	51.50475 -0.13338
+
+	JOEM1
+		Images:	4791
+		Time:	23.04.2023 10:27:33 until 23.04.2023 19:19:53
+		Duration:	08:52:20
+		Location:	51.50502 -0.13338
+
+	JUT3
+		Images:	920
+		Time:	23.04.2023 17:31:58 until 23.04.2023 18:31:38
+		Duration:	00:59:40
+		Location:	51.50502 -0.13338
+
+	LMO1
+		Images:	3609
+		Time:	23.04.2023 09:50:25 until 23.04.2023 19:29:47
+		Duration:	09:39:22
+		Location:	51.50502 -0.13338
+
+	MKH1
+		Images:	6789
+		Time:	23.04.2023 09:39:43 until 23.04.2023 19:21:30
+		Duration:	09:41:47
+		Location:	51.50502 -0.13338
+
+	MSC3
+		Images:	390
+		Time:	23.04.2023 17:31:17 until 23.04.2023 18:28:40
+		Duration:	00:57:23
+		Location:	51.50502 -0.13338
+
+	SK3
+		Images:	1946
+		Time:	23.04.2023 17:18:31 until 23.04.2023 18:49:58
+		Duration:	01:31:27
+		Location:	51.50502 -0.13338
+
+	TOMY1
+		Images:	4374
+		Time:	23.04.2023 10:01:03 until 23.04.2023 19:36:23
+		Duration:	09:35:20
+		Location:	51.50502 -0.13338
+
+	VG2
+		Images:	1044
+		Time:	23.04.2023 16:03:29 until 23.04.2023 18:30:43
+		Duration:	02:27:14
+		Location:	51.50475 -0.13338
+
+	WIN1
+		Images:	9516
+		Time:	23.04.2023 10:00:37 until 23.04.2023 19:35:59
+		Duration:	09:35:22
+		Location:	51.50467 -0.13379
+
+(14) - none
+	HLSNI1
+		Images:	9999
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(15) - Spur Road Gates - 500m before finish
+	BKO1
+		Images:	18820
+		Time:	23.04.2023 11:13:04 until 23.04.2023 19:31:08
+		Duration:	08:18:04
+		Location:	51.50063 -0.13697
+
+	GEG2
+		Images:	3332
+		Time:	23.04.2023 17:29:32 until 23.04.2023 19:30:58
+		Duration:	02:01:26
+		Location:	51.50063 -0.13697
+
+	SWEL2
+		Images:	1361
+		Time:	23.04.2023 17:33:52 until 23.04.2023 19:31:14
+		Duration:	01:57:22
+		Location:	51.50063 -0.13697
+
+	TASI1
+		Images:	19286
+		Time:	23.04.2023 09:43:48 until 23.04.2023 19:31:41
+		Duration:	09:47:53
+		Location:	51.50063 -0.13697
+
+(16) - Start
+	NWO1
+		Images:	8882
+		Time:	23.04.2023 08:32:07 until 23.04.2023 11:28:34
+		Duration:	02:56:27
+		Location:	NULL NULL
+
+	NWO1LS1
+		Images:	1614
+		Time:	23.04.2023 09:00:45 until 23.04.2023 11:35:18
+		Duration:	02:34:33
+		Location:	NULL NULL
+
+	TOG1
+		Images:	6937
+		Time:	22.04.2023 22:55:50 until 23.04.2023 16:51:36
+		Duration:	17:55:46
+		Location:	NULL NULL
+
+	TOG1LS1
+		Images:	1477
+		Time:	22.04.2023 23:06:38 until 23.04.2023 11:34:32
+		Duration:	12:27:54
+		Location:	NULL NULL
+
+	TOG1LS2
+		Images:	1595
+		Time:	22.04.2023 23:04:04 until 23.04.2023 11:39:34
+		Duration:	12:35:30
+		Location:	NULL NULL
+
+(17) - Tower Bridge - km20 / 12,5mi
+	ALN1
+		Images:	35286
+		Time:	23.04.2023 08:47:24 until 23.04.2023 14:54:43
+		Duration:	06:07:19
+		Location:	51.50725 -0.07643
+
+	ALN1LS1
+		Images:	2350
+		Time:	23.04.2023 14:21:26 until 23.04.2023 15:15:39
+		Duration:	00:54:13
+		Location:	51.50725 -0.07643
+
+	ALN1LS2
+		Images:	7494
+		Time:	23.04.2023 09:06:37 until 23.04.2023 13:49:54
+		Duration:	04:43:17
+		Location:	51.50725 -0.07643
+
+	CM1
+		Images:	13055
+		Time:	23.04.2023 08:49:01 until 23.04.2023 14:55:39
+		Duration:	06:06:38
+		Location:	51.50609 -0.07485
+
+	CM1LS1
+		Images:	5922
+		Time:	23.04.2023 09:54:11 until 23.04.2023 14:50:41
+		Duration:	04:56:30
+		Location:	51.50609 -0.07485
+
+	DAB1
+		Images:	1510
+		Time:	22.04.2023 09:57:15 until 22.04.2023 15:19:56
+		Duration:	05:22:41
+		Location:	51.50609 -0.07485
+
+	DACU1
+		Images:	30649
+		Time:	23.04.2023 08:36:11 until 23.04.2023 15:15:06
+		Duration:	06:38:55
+		Location:	51.50609 -0.07485
+
+	EK1
+		Images:	10324
+		Time:	23.04.2023 08:27:50 until 23.04.2023 15:14:00
+		Duration:	06:46:10
+		Location:	51.50725 -0.07643
+
+	GEG1
+		Images:	32436
+		Time:	23.04.2023 08:35:44 until 23.04.2023 14:54:44
+		Duration:	06:19:00
+		Location:	51.50609 -0.07485
+
+	GJ1
+		Images:	14323
+		Time:	23.04.2023 09:27:24 until 23.04.2023 15:19:33
+		Duration:	05:52:09
+		Location:	51.50609 -0.07485
+
+	GJ1LS1
+		Images:	4534
+		Time:	23.04.2023 11:12:12 until 23.04.2023 14:58:51
+		Duration:	03:46:39
+		Location:	51.50609 -0.07485
+
+	JUT1
+		Images:	15389
+		Time:	23.04.2023 09:26:14 until 23.04.2023 13:41:36
+		Duration:	04:15:22
+		Location:	51.50609 -0.07485
+
+	MELI1
+		Images:	11679
+		Time:	23.04.2023 09:54:35 until 23.04.2023 15:16:35
+		Duration:	05:22:00
+		Location:	51.50609 -0.07485
+
+	MFR1
+		Images:	6774
+		Time:	23.04.2023 08:35:59 until 23.04.2023 15:09:08
+		Duration:	06:33:09
+		Location:	51.50609 -0.07485
+
+	MSC1
+		Images:	14600
+		Time:	23.04.2023 07:52:37 until 23.04.2023 14:48:27
+		Duration:	06:55:50
+		Location:	51.50609 -0.07485
+
+	NIKS1
+		Images:	23372
+		Time:	23.04.2023 09:55:45 until 23.04.2023 15:19:27
+		Duration:	05:23:42
+		Location:	51.50609 -0.07485
+
+	SK1
+		Images:	20945
+		Time:	22.04.2023 18:14:15 until 23.04.2023 14:51:13
+		Duration:	20:36:58
+		Location:	51.50609 -0.07485
+
+	SWEL1
+		Images:	5699
+		Time:	23.04.2023 08:47:17 until 23.04.2023 15:09:13
+		Duration:	06:21:56
+		Location:	51.50609 -0.07485
+
+(18) - Tower of London - km20,5 / 12,7mi
+	HV1
+		Images:	20821
+		Time:	22.04.2023 17:33:10 until 23.04.2023 13:30:32
+		Duration:	19:57:22
+		Location:	51.50609 -0.07485
+
+	HV1LS1
+		Images:	7070
+		Time:	23.04.2023 08:37:56 until 23.04.2023 14:51:31
+		Duration:	06:13:35
+		Location:	51.50609 -0.07485
+
+	UL1
+		Images:	11521
+		Time:	23.04.2023 09:48:36 until 23.04.2023 15:33:17
+		Duration:	05:44:41
+		Location:	51.50905 -0.07363
+
+(19) - Walk Bridge - km37 / 23mi
+	QVT1
+		Images:	21670
+		Time:	23.04.2023 09:55:28 until 23.04.2023 18:36:01
+		Duration:	08:40:33
+		Location:	51.50951 -0.08558
+
+	RYS1
+		Images:	18820
+		Time:	23.04.2023 09:52:04 until 23.04.2023 18:33:26
+		Duration:	08:41:22
+		Location:	51.50951 -0.08558
+
+	RYS1LS1
+		Images:	21031
+		Time:	23.04.2023 10:28:55 until 23.04.2023 18:29:57
+		Duration:	08:01:02
+		Location:	51.50951 -0.08558
+

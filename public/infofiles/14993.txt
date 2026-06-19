@@ -1,0 +1,89 @@
+EventId: 14993
+Spots: 13
+Total Images: 45888
+Time:	25.01.2025 13:39:19 to 26.01.2025 14:33:46
+Duration: 1.00:54:27
+
+(1) - Obstacle 20 Fire Jump
+	ADSA1
+		Images:	12489
+		Time:	26.01.2025 06:20:00 until 26.01.2025 14:30:58
+		Duration:	08:10:58
+		Location:	24.91551 55.00442
+
+(2) - Obstacle 4 Barbed Waire
+	AGP1
+		Images:	3880
+		Time:	26.01.2025 05:53:41 until 26.01.2025 13:38:27
+		Duration:	07:44:46
+		Location:	24.91140 54.99793
+
+(3) - Obstacle 11 Plate Drag
+	ARP1
+		Images:	4623
+		Time:	25.01.2025 13:39:19 until 26.01.2025 14:04:37
+		Duration:	1.00:25:18
+		Location:	24.91087 55.00439
+
+	MUP1
+		Images:	3253
+		Time:	26.01.2025 06:26:53 until 26.01.2025 13:17:23
+		Duration:	06:50:30
+		Location:	24.91087 55.00439
+
+(4) - 7.5 km Running
+	ARP1LS1
+		Images:	2404
+		Time:	26.01.2025 06:15:16 until 26.01.2025 14:02:38
+		Duration:	07:47:22
+		Location:	24.91076 55.00469
+
+	ARP1LS2
+		Images:	1215
+		Time:	26.01.2025 06:00:47 until 26.01.2025 14:02:39
+		Duration:	08:01:52
+		Location:	24.91076 55.00469
+
+(5) - Obstacle 18 Dunk Wall
+	GSH1
+		Images:	5394
+		Time:	26.01.2025 05:38:51 until 26.01.2025 14:29:58
+		Duration:	08:51:07
+		Location:	24.91544 55.00488
+
+(6) - Obstacle 8 Sandbag Carry
+	MGOT1
+		Images:	3794
+		Time:	26.01.2025 06:07:49 until 26.01.2025 13:50:54
+		Duration:	07:43:05
+		Location:	24.90880 55.00272
+
+(7) - Herotent
+	MRGO1
+		Images:	1124
+		Time:	26.01.2025 05:44:48 until 26.01.2025 14:33:46
+		Duration:	08:48:58
+		Location:	24.91532 55.00426
+
+(8) - 8.0 km Running
+	MUP1LS1
+		Images:	1319
+		Time:	26.01.2025 05:53:16 until 26.01.2025 13:25:30
+		Duration:	07:32:14
+		Location:	24.91102 55.00430
+
+	MUP1LS2
+		Images:	1309
+		Time:	26.01.2025 06:16:18 until 26.01.2025 13:25:32
+		Duration:	07:09:14
+		Location:	24.91102 55.00430
+
+(9) - Obstacle 13 Monkey Bar
+	NIZ1
+		Images:	5084
+		Time:	26.01.2025 05:42:39 until 26.01.2025 14:16:42
+		Duration:	08:34:03
+		Location:	24.91398 55.00359
+
+(10) - Impressions / Pano
+	PANO1

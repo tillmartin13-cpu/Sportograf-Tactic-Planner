@@ -1,0 +1,507 @@
+EventId: 11768
+Spots: 88
+Total Images: 355371
+Time:	29.06.2023 07:57:31 to 29.06.2024 22:50:02
+Duration: 366.14:52:31
+
+(1) - Finish
+	ABIC1
+		Images:	3424
+		Time:	29.06.2024 08:33:27 until 29.06.2024 13:47:30
+		Duration:	05:14:03
+		Location:	1.30401 103.87226
+
+	AGIP2
+		Images:	440
+		Time:	29.06.2024 13:48:05 until 29.06.2024 15:54:25
+		Duration:	02:06:20
+		Location:	1.30401 103.87226
+
+	ANTT2LS1
+	AVMM6
+		Images:	1352
+		Time:	29.06.2024 14:10:38 until 29.06.2024 14:30:01
+		Duration:	00:19:23
+		Location:	1.30401 103.87226
+
+	BBIC2
+		Images:	609
+		Time:	29.06.2024 14:30:00 until 29.06.2024 15:11:19
+		Duration:	00:41:19
+		Location:	1.30401 103.86608
+
+	BDL1
+		Images:	9859
+		Time:	29.06.2024 15:11:09 until 29.06.2024 22:41:13
+		Duration:	07:30:04
+		Location:	1.30401 103.86608
+
+	BHTT4LS1
+		Images:	4358
+		Time:	29.06.2024 07:40:35 until 29.06.2024 22:06:40
+		Duration:	14:26:05
+		Location:	1.30401 103.86608
+
+	BNNG2
+		Images:	939
+		Time:	29.06.2023 18:50:42 until 29.06.2023 19:39:42
+		Duration:	00:49:00
+		Location:	1.30401 103.86608
+
+	BNTT2LS1
+		Images:	4698
+		Time:	29.06.2024 07:30:47 until 29.06.2024 19:45:13
+		Duration:	12:14:26
+		Location:	1.30401 103.86608
+
+(2) - Impressions / Pano
+	PANO1
+(3) - Medalwall
+	AANDR1
+		Images:	2887
+		Time:	29.06.2024 07:20:08 until 29.06.2024 13:29:47
+		Duration:	06:09:39
+		Location:	1.30401 103.87226
+
+	AVMM4
+		Images:	1052
+		Time:	29.06.2024 13:30:12 until 29.06.2024 14:10:03
+		Duration:	00:39:51
+		Location:	1.30401 103.87226
+
+	BANDR2
+		Images:	1061
+		Time:	29.06.2024 14:09:48 until 29.06.2024 15:15:43
+		Duration:	01:05:55
+		Location:	1.30401 103.86608
+
+	BBIC1
+		Images:	4424
+		Time:	29.06.2024 15:15:57 until 29.06.2024 22:41:21
+		Duration:	07:25:24
+		Location:	1.30401 103.86608
+
+	BHTT4
+		Images:	903
+		Time:	29.06.2024 18:53:29 until 29.06.2024 20:19:09
+		Duration:	01:25:40
+		Location:	1.30401 103.86608
+
+	BNTA2LS1
+		Images:	5885
+		Time:	29.06.2024 07:41:02 until 29.06.2024 21:10:18
+		Duration:	13:29:16
+		Location:	1.30401 103.86608
+
+(4) - Run between Sled Push and Sled Pull
+	ALDB2LS1
+	BLDB2LS1
+		Images:	9152
+		Time:	29.06.2024 07:33:10 until 29.06.2024 21:07:32
+		Duration:	13:34:22
+		Location:	1.30401 103.86608
+
+(5) - Start
+	AHTT1
+		Images:	1529
+		Time:	29.06.2024 07:48:40 until 29.06.2024 09:10:10
+		Duration:	01:21:30
+		Location:	1.30401 103.87226
+
+(6) - Station 1 Ski Erg
+	ADL1
+		Images:	9284
+		Time:	29.06.2024 07:26:03 until 29.06.2024 14:55:27
+		Duration:	07:29:24
+		Location:	1.30401 103.87226
+
+	AOCH1
+		Images:	6698
+		Time:	28.06.2024 23:19:30 until 29.06.2024 15:19:52
+		Duration:	16:00:22
+		Location:	1.30401 103.87226
+
+	APCT1
+		Images:	4704
+		Time:	29.06.2024 08:02:05 until 29.06.2024 14:49:39
+		Duration:	06:47:34
+		Location:	1.30401 103.87226
+
+	ARDI1
+		Images:	8745
+		Time:	29.06.2024 07:31:33 until 29.06.2024 14:55:27
+		Duration:	07:23:54
+		Location:	1.30401 103.87226
+
+	BANDR1
+		Images:	4141
+		Time:	29.06.2024 15:22:27 until 29.06.2024 20:36:52
+		Duration:	05:14:25
+		Location:	1.30401 103.86608
+
+	BDL2
+		Images:	1628
+		Time:	29.06.2024 10:39:02 until 29.06.2024 14:53:49
+		Duration:	04:14:47
+		Location:	1.30401 103.86608
+
+	BLDB1
+		Images:	7444
+		Time:	29.06.2024 15:20:49 until 29.06.2024 20:34:48
+		Duration:	05:13:59
+		Location:	1.30401 103.86608
+
+	BNTA1
+		Images:	5570
+		Time:	29.06.2024 15:19:11 until 29.06.2024 20:41:25
+		Duration:	05:22:14
+		Location:	1.30401 103.86608
+
+	BPNQ1
+		Images:	6944
+		Time:	29.06.2024 15:19:43 until 29.06.2024 20:41:24
+		Duration:	05:21:41
+		Location:	1.30401 103.86608
+
+(7) - Station 2 Sled Push
+	AHTT3
+		Images:	3351
+		Time:	29.06.2024 11:00:46 until 29.06.2024 12:32:17
+		Duration:	01:31:31
+		Location:	1.30401 103.87226
+
+	ALDB1
+		Images:	6652
+		Time:	29.06.2024 07:42:08 until 29.06.2024 15:05:18
+		Duration:	07:23:10
+		Location:	1.30401 103.87226
+
+	ANNG1
+		Images:	1337
+		Time:	29.06.2023 10:42:16 until 29.06.2023 11:44:05
+		Duration:	01:01:49
+		Location:	1.30401 103.87226
+
+	ANTA1
+		Images:	7052
+		Time:	29.06.2024 08:13:06 until 29.06.2024 15:04:53
+		Duration:	06:51:47
+		Location:	1.30401 103.87226
+
+	APNQ1
+		Images:	10393
+		Time:	29.06.2024 08:13:08 until 29.06.2024 15:07:21
+		Duration:	06:54:13
+		Location:	1.30401 103.87226
+
+	AVMM1
+		Images:	3278
+		Time:	29.06.2024 08:07:20 until 29.06.2024 11:49:34
+		Duration:	03:42:14
+		Location:	1.30401 103.87226
+
+	BHTT1
+		Images:	1772
+		Time:	29.06.2024 16:26:42 until 29.06.2024 17:06:40
+		Duration:	00:39:58
+		Location:	1.30401 103.86608
+
+	BNNG1
+		Images:	981
+		Time:	29.06.2023 16:37:37 until 29.06.2023 17:05:03
+		Duration:	00:27:26
+		Location:	1.30401 103.86608
+
+	BOCH1
+		Images:	3482
+		Time:	29.06.2024 15:39:11 until 29.06.2024 20:49:31
+		Duration:	05:10:20
+		Location:	1.30401 103.86608
+
+	BPCT1
+		Images:	3323
+		Time:	29.06.2024 15:28:57 until 29.06.2024 20:30:25
+		Duration:	05:01:28
+		Location:	1.30401 103.86608
+
+	BRDI1
+		Images:	2548
+		Time:	29.06.2024 07:40:56 until 29.06.2024 20:47:41
+		Duration:	13:06:45
+		Location:	1.30401 103.86608
+
+	BVMM1
+		Images:	3538
+		Time:	29.06.2023 16:47:16 until 29.06.2024 20:50:15
+		Duration:	366.04:02:59
+		Location:	1.30401 103.86608
+
+(8) - Station 3 Sled Pull
+	AHTT4
+		Images:	1858
+		Time:	29.06.2024 12:38:21 until 29.06.2024 13:22:14
+		Duration:	00:43:53
+		Location:	1.30401 103.87226
+
+	AMVV1
+		Images:	15038
+		Time:	29.06.2024 08:02:12 until 29.06.2024 15:19:37
+		Duration:	07:17:25
+		Location:	1.30401 103.87226
+
+	ANNG2
+		Images:	1079
+		Time:	29.06.2023 11:48:36 until 29.06.2023 15:34:00
+		Duration:	03:45:24
+		Location:	1.30401 103.87226
+
+	ATAP1
+		Images:	5433
+		Time:	29.06.2024 07:21:29 until 29.06.2024 15:26:36
+		Duration:	08:05:07
+		Location:	1.30401 103.87226
+
+	ATDK1
+		Images:	3458
+		Time:	29.06.2024 07:22:39 until 29.06.2024 15:23:18
+		Duration:	08:00:39
+		Location:	1.30401 103.87226
+
+	AVMM2
+		Images:	1463
+		Time:	29.06.2024 11:50:30 until 29.06.2024 12:34:02
+		Duration:	00:43:32
+		Location:	1.30401 103.87226
+
+	BDCL1
+		Images:	5963
+		Time:	29.06.2024 15:43:27 until 29.06.2024 21:13:51
+		Duration:	05:30:24
+		Location:	1.30401 103.86608
+
+	BHTT2
+		Images:	2732
+		Time:	29.06.2024 17:16:02 until 29.06.2024 21:08:32
+		Duration:	03:52:30
+		Location:	1.30401 103.86608
+
+	BLNG1
+		Images:	3246
+		Time:	29.06.2024 15:33:28 until 29.06.2024 21:02:31
+		Duration:	05:29:03
+		Location:	1.30401 103.86608
+
+	BNNG3
+		Images:	1044
+		Time:	29.06.2023 17:13:40 until 29.06.2023 18:00:37
+		Duration:	00:46:57
+		Location:	1.30401 103.86608
+
+	BNTT1
+		Images:	3991
+		Time:	29.06.2024 15:35:42 until 29.06.2024 20:52:32
+		Duration:	05:16:50
+		Location:	1.30401 103.86608
+
+	BVMM4
+		Images:	1842
+		Time:	29.06.2024 11:50:30 until 29.06.2024 18:01:09
+		Duration:	06:10:39
+		Location:	1.30401 103.86608
+
+(9) - Station 5 Rowing
+	AHTT5
+		Images:	293
+		Time:	29.06.2024 13:22:15 until 29.06.2024 13:28:08
+		Duration:	00:05:53
+		Location:	1.30401 103.87226
+
+	ALNG1
+		Images:	7584
+		Time:	29.06.2024 07:25:19 until 29.06.2024 15:39:07
+		Duration:	08:13:48
+		Location:	1.30401 103.87226
+
+	ANNG4
+		Images:	1342
+		Time:	29.06.2023 12:38:59 until 29.06.2023 13:28:12
+		Duration:	00:49:13
+		Location:	1.30401 103.87226
+
+	ANTT1
+		Images:	9217
+		Time:	29.06.2024 07:54:00 until 29.06.2024 15:29:29
+		Duration:	07:35:29
+		Location:	1.30401 103.87226
+
+	BHTT3
+		Images:	2820
+		Time:	29.06.2024 18:08:49 until 29.06.2024 18:51:30
+		Duration:	00:42:41
+		Location:	1.30401 103.86608
+
+	BNP1
+		Images:	10666
+		Time:	29.06.2024 15:47:02 until 29.06.2024 21:45:26
+		Duration:	05:58:24
+		Location:	1.30401 103.86608
+
+	BTAP1
+		Images:	4682
+		Time:	29.06.2024 15:30:26 until 29.06.2024 21:23:58
+		Duration:	05:53:32
+		Location:	1.30401 103.86608
+
+	BVMM3
+		Images:	2178
+		Time:	29.06.2024 18:04:14 until 29.06.2024 20:12:32
+		Duration:	02:08:18
+		Location:	1.30401 103.86608
+
+(10) - Station 6 Farmers Carry
+	AOCH2LS1
+	APCT2LS1
+	AVMM2LS1
+	BOCH2LS1
+		Images:	4342
+		Time:	29.06.2024 07:30:11 until 29.06.2024 21:58:13
+		Duration:	14:28:02
+		Location:	1.30401 103.86608
+
+	BPCT2LS1
+		Images:	4817
+		Time:	29.06.2024 07:30:11 until 29.06.2024 18:24:56
+		Duration:	10:54:45
+		Location:	1.30401 103.86608
+
+	BVMM7LS2
+		Images:	9749
+		Time:	28.06.2024 21:57:54 until 29.06.2024 21:58:14
+		Duration:	1.00:00:20
+		Location:	1.30401 103.86608
+
+(11) - Station 7 Sandbag Lunges
+	ADCL1
+		Images:	9513
+		Time:	29.06.2024 07:30:00 until 29.06.2024 15:31:04
+		Duration:	08:01:04
+		Location:	1.30401 103.87226
+
+	AMVV2LS1
+	ANTA2LS1
+	AVMM3
+		Images:	5603
+		Time:	29.06.2024 08:53:40 until 29.06.2024 15:55:40
+		Duration:	07:02:00
+		Location:	1.30401 103.87226
+
+	BLMD1
+		Images:	14211
+		Time:	29.06.2024 14:19:20 until 29.06.2024 22:21:05
+		Duration:	08:01:45
+		Location:	1.30401 103.86608
+
+	BMVV2LS1
+		Images:	2868
+		Time:	29.06.2024 07:44:31 until 29.06.2024 22:17:25
+		Duration:	14:32:54
+		Location:	1.30401 103.86608
+
+	BNNG4
+		Images:	980
+		Time:	29.06.2023 18:08:17 until 29.06.2023 18:46:47
+		Duration:	00:38:30
+		Location:	1.30401 103.86608
+
+	BVMM5
+		Images:	655
+		Time:	29.06.2024 08:53:40 until 29.06.2024 15:50:07
+		Duration:	06:56:27
+		Location:	1.30401 103.86608
+
+(12) - Station 8 Wall Balls
+	AHTT6
+		Images:	2055
+		Time:	29.06.2024 13:30:50 until 29.06.2024 15:09:59
+		Duration:	01:39:09
+		Location:	1.30401 103.87226
+
+	ALMD1
+		Images:	22820
+		Time:	29.06.2024 07:47:50 until 29.06.2024 15:40:32
+		Duration:	07:52:42
+		Location:	1.30401 103.87226
+
+	ANNG3
+		Images:	1126
+		Time:	29.06.2023 13:42:18 until 29.06.2023 15:54:32
+		Duration:	02:12:14
+		Location:	1.30401 103.87226
+
+	ANP1
+		Images:	13242
+		Time:	29.06.2024 09:00:27 until 29.06.2024 15:41:59
+		Duration:	06:41:32
+		Location:	1.30401 103.87226
+
+	BGIP1
+		Images:	1334
+		Time:	29.06.2024 09:44:45 until 29.06.2024 19:43:21
+		Duration:	09:58:36
+		Location:	1.30401 103.86608
+
+	BHTT5
+		Images:	1396
+		Time:	29.06.2024 20:19:45 until 29.06.2024 22:40:56
+		Duration:	02:21:11
+		Location:	1.30401 103.86608
+
+	BMVV1
+		Images:	7911
+		Time:	29.06.2024 15:43:07 until 29.06.2024 22:50:02
+		Duration:	07:06:55
+		Location:	1.30401 103.86608
+
+	BTDK1
+		Images:	2767
+		Time:	29.06.2024 15:44:00 until 29.06.2024 22:22:42
+		Duration:	06:38:42
+		Location:	1.30401 103.86608
+
+	BVMM2
+		Images:	2436
+		Time:	29.06.2024 17:18:55 until 29.06.2024 19:33:49
+		Duration:	02:14:54
+		Location:	1.30401 103.86608
+
+(13) - Venue
+	AGIP1
+		Images:	745
+		Time:	29.06.2024 08:29:53 until 29.06.2024 19:48:12
+		Duration:	11:18:19
+		Location:	1.30401 103.87226
+
+	AHTT2
+		Images:	4379
+		Time:	29.06.2024 09:11:50 until 29.06.2024 15:54:48
+		Duration:	06:42:58
+		Location:	1.30401 103.87226
+
+	ANNG5
+		Images:	514
+		Time:	29.06.2023 07:57:31 until 29.06.2023 10:31:37
+		Duration:	02:34:06
+		Location:	1.30401 103.87226
+
+	AVMM5
+		Images:	440
+		Time:	29.06.2024 08:31:08 until 29.06.2024 14:58:44
+		Duration:	06:27:36
+		Location:	1.30401 103.87226
+
+	BVMM6
+		Images:	102
+		Time:	29.06.2024 08:31:41 until 29.06.2024 08:51:24
+		Duration:	00:19:43
+		Location:	1.30401 103.86608
+

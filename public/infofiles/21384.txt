@@ -1,0 +1,1638 @@
+EventId: 21384
+Spots: 277
+Total Images: 3046806
+Time:	01.01.0001 23:00:00 to 31.12.2099 22:59:59
+Duration: 766642.23:59:59
+
+(1) - 0,0 km
+	FJSB1
+		Images:	25472
+		Time:	02.11.2025 09:14:40 until 02.11.2025 14:58:26
+		Duration:	05:43:46
+		Location:	NULL NULL
+
+	FKET1
+		Images:	16279
+		Time:	02.11.2025 09:29:47 until 02.11.2025 15:15:21
+		Duration:	05:45:34
+		Location:	NULL NULL
+
+	FPOL1
+		Images:	44673
+		Time:	02.11.2025 09:00:30 until 02.11.2025 14:39:25
+		Duration:	05:38:55
+		Location:	NULL NULL
+
+	FSAM1
+		Images:	5772
+		Time:	02.11.2025 08:30:53 until 02.11.2025 14:42:31
+		Duration:	06:11:38
+		Location:	NULL NULL
+
+	ODATI2
+		Images:	9172
+		Time:	02.11.2025 16:44:36 until 02.11.2025 22:06:39
+		Duration:	05:22:03
+		Location:	NULL NULL
+
+	ODEST1
+		Images:	11032
+		Time:	02.11.2025 13:34:41 until 02.11.2025 15:26:17
+		Duration:	01:51:36
+		Location:	NULL NULL
+
+	OJEL2
+		Images:	3538
+		Time:	02.11.2025 15:59:57 until 02.11.2025 19:04:06
+		Duration:	03:04:09
+		Location:	NULL NULL
+
+	OMAU2
+		Images:	1904
+		Time:	02.11.2025 15:55:27 until 02.11.2025 18:22:06
+		Duration:	02:26:39
+		Location:	NULL NULL
+
+	OTRW1
+		Images:	26016
+		Time:	02.11.2025 10:09:10 until 02.11.2025 15:35:00
+		Duration:	05:25:50
+		Location:	NULL NULL
+
+(2) - 0.0 km
+	AAKRI1
+		Images:	227
+		Time:	02.11.2025 16:08:28 until 02.11.2025 17:50:43
+		Duration:	01:42:15
+		Location:	NULL NULL
+
+	ACFED1
+		Images:	17917
+		Time:	01.01.0001 23:00:00 until 02.11.2025 15:05:50
+		Duration:	739555.16:05:50
+		Location:	NULL NULL
+
+	APGR1
+		Images:	12881
+		Time:	02.11.2025 08:01:47 until 02.11.2025 11:08:07
+		Duration:	03:06:20
+		Location:	NULL NULL
+
+	BDRO1
+		Images:	25336
+		Time:	02.11.2025 10:16:45 until 02.11.2025 15:16:21
+		Duration:	04:59:36
+		Location:	NULL NULL
+
+	BGAUR1
+		Images:	13696
+		Time:	31.12.2020 23:00:28 until 11.02.2025 14:31:37
+		Duration:	1502.15:31:09
+		Location:	NULL NULL
+
+	BGE1
+		Images:	40122
+		Time:	02.11.2025 08:03:24 until 02.11.2025 13:27:33
+		Duration:	05:24:09
+		Location:	NULL NULL
+
+	BMAST1
+		Images:	6390
+		Time:	01.11.2025 22:19:46 until 02.11.2025 12:00:57
+		Duration:	13:41:11
+		Location:	NULL NULL
+
+	BMEB1
+		Images:	1961
+		Time:	02.11.2025 08:22:32 until 02.11.2025 10:32:53
+		Duration:	02:10:21
+		Location:	NULL NULL
+
+	BSHAW1
+		Images:	27624
+		Time:	02.11.2025 08:23:39 until 02.11.2025 12:29:10
+		Duration:	04:05:31
+		Location:	NULL NULL
+
+	BSTAR1
+		Images:	224
+		Time:	02.11.2025 06:54:22 until 02.11.2025 08:16:16
+		Duration:	01:21:54
+		Location:	NULL NULL
+
+	CASB2
+		Images:	14977
+		Time:	01.11.2025 07:46:42 until 02.11.2025 16:33:53
+		Duration:	1.08:47:11
+		Location:	NULL NULL
+
+	CASB5
+		Images:	2997
+		Time:	02.11.2025 15:15:16 until 02.11.2025 16:57:59
+		Duration:	01:42:43
+		Location:	NULL NULL
+
+	CCROP1
+		Images:	55511
+		Time:	02.11.2025 08:33:31 until 02.11.2025 17:51:53
+		Duration:	09:18:22
+		Location:	NULL NULL
+
+	CSGEN1
+		Images:	11657
+		Time:	02.11.2025 10:40:40 until 02.11.2025 13:55:43
+		Duration:	03:15:03
+		Location:	NULL NULL
+
+	CSGEN2
+		Images:	12895
+		Time:	25.10.2025 09:47:42 until 02.11.2025 13:05:58
+		Duration:	8.03:18:16
+		Location:	NULL NULL
+
+	CSGEN3
+		Images:	11988
+		Time:	02.11.2025 10:46:48 until 02.11.2025 14:07:55
+		Duration:	03:21:07
+		Location:	NULL NULL
+
+	CTFBL1
+		Images:	10929
+		Time:	02.11.2025 11:16:01 until 02.11.2025 14:18:47
+		Duration:	03:02:46
+		Location:	NULL NULL
+
+	CTFBR1
+		Images:	7556
+		Time:	02.11.2025 10:52:50 until 02.11.2025 14:05:38
+		Duration:	03:12:48
+		Location:	NULL NULL
+
+	CTFBR3
+		Images:	5348
+		Time:	02.11.2025 14:06:22 until 02.11.2025 15:35:36
+		Duration:	01:29:14
+		Location:	NULL NULL
+
+	DDESM1LS1
+		Images:	21538
+		Time:	02.11.2025 09:07:42 until 02.11.2025 16:55:19
+		Duration:	07:47:37
+		Location:	NULL NULL
+
+	DEAV1
+		Images:	19698
+		Time:	02.11.2025 09:55:51 until 02.11.2025 15:33:16
+		Duration:	05:37:25
+		Location:	NULL NULL
+
+	DGIAN1LS1
+		Images:	6993
+		Time:	02.11.2025 06:53:01 until 02.11.2025 14:55:53
+		Duration:	08:02:52
+		Location:	NULL NULL
+
+	DJEN2
+		Images:	556
+		Time:	02.11.2025 15:55:38 until 02.11.2025 17:30:47
+		Duration:	01:35:09
+		Location:	NULL NULL
+
+	DRFIN1
+		Images:	47466
+		Time:	02.11.2025 10:31:04 until 02.11.2025 16:04:02
+		Duration:	05:32:58
+		Location:	NULL NULL
+
+	DTREA1
+		Images:	3083
+		Time:	02.11.2025 14:08:47 until 02.11.2025 15:57:08
+		Duration:	01:48:21
+		Location:	NULL NULL
+
+	GCCL1
+		Images:	22044
+		Time:	02.11.2025 09:06:41 until 02.11.2025 16:02:30
+		Duration:	06:55:49
+		Location:	NULL NULL
+
+	GCMCA1
+		Images:	26490
+		Time:	02.11.2025 07:39:42 until 02.11.2025 15:33:40
+		Duration:	07:53:58
+		Location:	NULL NULL
+
+	GTRGB1
+		Images:	7927
+		Time:	02.11.2025 12:16:18 until 02.11.2025 14:29:06
+		Duration:	02:12:48
+		Location:	NULL NULL
+
+	HMKEL1
+		Images:	22572
+		Time:	02.11.2025 09:52:40 until 02.11.2025 16:03:09
+		Duration:	06:10:29
+		Location:	NULL NULL
+
+	HSBAR1
+		Images:	37469
+		Time:	02.11.2025 13:35:03 until 02.11.2025 19:50:05
+		Duration:	06:15:02
+		Location:	NULL NULL
+
+	JJADE1
+		Images:	42355
+		Time:	02.11.2025 10:26:45 until 02.11.2025 16:47:00
+		Duration:	06:20:15
+		Location:	NULL NULL
+
+	JMDAN1
+		Images:	24778
+		Time:	02.11.2025 09:37:47 until 02.11.2025 15:34:34
+		Duration:	05:56:47
+		Location:	NULL NULL
+
+	JTMOM1
+		Images:	29731
+		Time:	02.11.2025 10:08:58 until 02.11.2025 17:03:01
+		Duration:	06:54:03
+		Location:	NULL NULL
+
+	JTRI1
+		Images:	12794
+		Time:	02.11.2025 09:17:17 until 02.11.2025 14:07:38
+		Duration:	04:50:21
+		Location:	NULL NULL
+
+	JTRJA1
+		Images:	17838
+		Time:	02.11.2025 10:30:55 until 02.11.2025 16:07:10
+		Duration:	05:36:15
+		Location:	NULL NULL
+
+	KABIG1
+		Images:	1318
+		Time:	02.11.2025 11:32:24 until 02.11.2025 16:39:15
+		Duration:	05:06:51
+		Location:	NULL NULL
+
+	KADIL1
+		Images:	2395
+		Time:	02.11.2025 10:51:23 until 02.11.2025 15:32:57
+		Duration:	04:41:34
+		Location:	NULL NULL
+
+	KAWA1
+		Images:	1426
+		Time:	02.11.2025 10:05:57 until 02.11.2025 15:17:32
+		Duration:	05:11:35
+		Location:	NULL NULL
+
+	KAWA2
+		Images:	319
+		Time:	02.11.2025 14:27:36 until 02.11.2025 16:05:02
+		Duration:	01:37:26
+		Location:	NULL NULL
+
+	KAWA3
+		Images:	852
+		Time:	02.11.2025 16:06:02 until 02.11.2025 18:30:19
+		Duration:	02:24:17
+		Location:	NULL NULL
+
+	KBENL1
+		Images:	780
+		Time:	02.11.2025 11:57:23 until 02.11.2025 15:05:25
+		Duration:	03:08:02
+		Location:	NULL NULL
+
+	KBENL3
+		Images:	184
+		Time:	02.11.2025 16:31:49 until 02.11.2025 19:32:51
+		Duration:	03:01:02
+		Location:	NULL NULL
+
+	KBRAN1
+		Images:	32
+		Time:	02.11.2025 15:48:21 until 02.11.2025 15:53:33
+		Duration:	00:05:12
+		Location:	NULL NULL
+
+	KBRAN3
+	KCHRI1
+		Images:	1429
+		Time:	02.11.2025 10:31:31 until 02.11.2025 15:38:48
+		Duration:	05:07:17
+		Location:	NULL NULL
+
+	KCORO1
+		Images:	1111
+		Time:	02.11.2025 12:09:28 until 02.11.2025 18:48:11
+		Duration:	06:38:43
+		Location:	NULL NULL
+
+	KCORO2
+		Images:	345
+		Time:	02.11.2025 16:32:58 until 02.11.2025 18:48:11
+		Duration:	02:15:13
+		Location:	NULL NULL
+
+	KCPH1
+		Images:	308
+		Time:	02.11.2025 16:44:52 until 02.11.2025 18:46:17
+		Duration:	02:01:25
+		Location:	NULL NULL
+
+	KDIEG1
+		Images:	784
+		Time:	03.11.2025 11:29:02 until 03.11.2025 15:15:32
+		Duration:	03:46:30
+		Location:	NULL NULL
+
+	KDIEG3
+		Images:	317
+		Time:	03.11.2025 16:38:53 until 03.11.2025 18:45:54
+		Duration:	02:07:01
+		Location:	NULL NULL
+
+	KEMIL1
+		Images:	773
+		Time:	01.11.2025 10:40:56 until 01.11.2025 15:26:08
+		Duration:	04:45:12
+		Location:	NULL NULL
+
+	KJAME1
+		Images:	547
+		Time:	02.11.2024 10:31:50 until 02.11.2024 15:40:45
+		Duration:	05:08:55
+		Location:	NULL NULL
+
+	KJEAN1
+		Images:	3571
+		Time:	02.11.2025 11:39:49 until 02.11.2025 18:58:53
+		Duration:	07:19:04
+		Location:	NULL NULL
+
+	KJTHE1
+		Images:	1402
+		Time:	02.11.2025 10:45:29 until 02.11.2025 14:53:32
+		Duration:	04:08:03
+		Location:	NULL NULL
+
+	KKEIT1
+		Images:	788
+		Time:	02.11.2025 10:38:00 until 02.11.2025 15:46:48
+		Duration:	05:08:48
+		Location:	NULL NULL
+
+	KLUCY1
+		Images:	1475
+		Time:	02.11.2025 10:53:10 until 02.11.2025 15:38:07
+		Duration:	04:44:57
+		Location:	NULL NULL
+
+	KMAYA1
+		Images:	1043
+		Time:	02.11.2025 10:38:50 until 02.11.2025 15:35:58
+		Duration:	04:57:08
+		Location:	NULL NULL
+
+	KMAYA2
+		Images:	40
+		Time:	02.11.2025 15:36:51 until 02.11.2025 15:46:37
+		Duration:	00:09:46
+		Location:	NULL NULL
+
+	KMAYA3
+		Images:	354
+		Time:	02.11.2025 15:47:17 until 02.11.2025 17:52:38
+		Duration:	02:05:21
+		Location:	NULL NULL
+
+	KMEGY1
+		Images:	377
+		Time:	02.11.2025 12:55:38 until 02.11.2025 14:20:25
+		Duration:	01:24:47
+		Location:	NULL NULL
+
+	KMEGY3
+		Images:	232
+		Time:	02.11.2025 15:37:11 until 02.11.2025 17:24:06
+		Duration:	01:46:55
+		Location:	NULL NULL
+
+	KOMAR1
+		Images:	77
+		Time:	02.11.2025 15:57:50 until 02.11.2025 17:21:10
+		Duration:	01:23:20
+		Location:	NULL NULL
+
+	KOMAR3
+		Images:	60
+		Time:	02.11.2025 14:52:40 until 02.11.2025 15:31:01
+		Duration:	00:38:21
+		Location:	NULL NULL
+
+	KROM1
+		Images:	599
+		Time:	02.11.2025 11:33:20 until 02.11.2025 14:57:54
+		Duration:	03:24:34
+		Location:	NULL NULL
+
+	KROM3
+		Images:	543
+		Time:	02.11.2025 16:01:35 until 02.11.2025 17:50:34
+		Duration:	01:48:59
+		Location:	NULL NULL
+
+	KSBUN1
+		Images:	41
+		Time:	02.11.2025 16:22:53 until 02.11.2025 16:34:34
+		Duration:	00:11:41
+		Location:	NULL NULL
+
+	KSBUN3
+		Images:	411
+		Time:	02.11.2025 16:35:10 until 02.11.2025 18:49:31
+		Duration:	02:14:21
+		Location:	NULL NULL
+
+	KSVAS1
+		Images:	4316
+		Time:	30.10.2025 23:54:21 until 31.10.2025 04:41:41
+		Duration:	04:47:20
+		Location:	NULL NULL
+
+	KTANY1
+		Images:	1898
+		Time:	02.11.2025 10:45:02 until 02.11.2025 14:59:09
+		Duration:	04:14:07
+		Location:	NULL NULL
+
+	KWHIT1
+		Images:	1301
+		Time:	02.11.2025 09:43:51 until 02.11.2025 14:53:41
+		Duration:	05:09:50
+		Location:	NULL NULL
+
+	KWHIT3
+		Images:	52
+		Time:	02.11.2025 15:00:53 until 02.11.2025 16:25:02
+		Duration:	01:24:09
+		Location:	NULL NULL
+
+	LAHAA1
+		Images:	3067
+		Time:	02.11.2025 11:32:28 until 02.11.2025 15:48:30
+		Duration:	04:16:02
+		Location:	NULL NULL
+
+	LAHAA2
+		Images:	384
+		Time:	02.11.2025 15:51:45 until 02.11.2025 17:27:07
+		Duration:	01:35:22
+		Location:	NULL NULL
+
+	LCBIR1
+		Images:	1946
+		Time:	02.11.2025 16:04:20 until 02.11.2025 20:19:54
+		Duration:	04:15:34
+		Location:	NULL NULL
+
+	LCBIR2
+		Images:	11587
+		Time:	02.11.2025 09:57:24 until 02.11.2025 13:23:40
+		Duration:	03:26:16
+		Location:	NULL NULL
+
+	LCBIR3
+		Images:	9495
+		Time:	02.11.2025 13:25:12 until 02.11.2025 16:02:17
+		Duration:	02:37:05
+		Location:	NULL NULL
+
+	LCRIV1
+		Images:	301
+		Time:	02.11.2025 16:58:31 until 02.11.2025 19:28:31
+		Duration:	02:30:00
+		Location:	NULL NULL
+
+	LCRIV2
+		Images:	1885
+		Time:	02.11.2025 11:31:58 until 02.11.2025 16:56:25
+		Duration:	05:24:27
+		Location:	NULL NULL
+
+	LDAMA1
+		Images:	1772
+		Time:	02.11.2025 10:44:39 until 02.11.2025 15:42:06
+		Duration:	04:57:27
+		Location:	NULL NULL
+
+	LDAMA2
+		Images:	422
+		Time:	02.11.2025 15:43:24 until 02.11.2025 17:55:09
+		Duration:	02:11:45
+		Location:	NULL NULL
+
+	LDBAL1
+		Images:	1437
+		Time:	02.11.2025 11:18:39 until 02.11.2025 16:15:18
+		Duration:	04:56:39
+		Location:	NULL NULL
+
+	LDBAL2
+		Images:	155
+		Time:	02.11.2025 16:16:51 until 02.11.2025 16:50:01
+		Duration:	00:33:10
+		Location:	NULL NULL
+
+	LDSMI1
+		Images:	360
+		Time:	02.11.2025 15:48:02 until 02.11.2025 17:49:21
+		Duration:	02:01:19
+		Location:	NULL NULL
+
+	LDSMI2
+		Images:	1682
+		Time:	02.11.2025 10:48:17 until 02.11.2025 15:41:54
+		Duration:	04:53:37
+		Location:	NULL NULL
+
+	LEMEN1
+		Images:	1699
+		Time:	02.11.2025 11:30:36 until 02.11.2025 15:53:25
+		Duration:	04:22:49
+		Location:	NULL NULL
+
+	LEPER1
+		Images:	1743
+		Time:	01.11.2025 23:31:50 until 02.11.2025 04:26:03
+		Duration:	04:54:13
+		Location:	NULL NULL
+
+	LEPER2
+		Images:	561
+		Time:	02.11.2025 04:26:21 until 02.11.2025 05:49:00
+		Duration:	01:22:39
+		Location:	NULL NULL
+
+	LGFER1
+		Images:	1629
+		Time:	02.11.2025 10:31:44 until 02.11.2025 15:36:11
+		Duration:	05:04:27
+		Location:	NULL NULL
+
+	LGFER2
+		Images:	505
+		Time:	02.11.2025 15:38:24 until 02.11.2025 17:23:44
+		Duration:	01:45:20
+		Location:	NULL NULL
+
+	LJPRI1
+		Images:	1539
+		Time:	02.11.2025 10:22:14 until 02.11.2025 15:52:15
+		Duration:	05:30:01
+		Location:	NULL NULL
+
+	LJPRI2
+		Images:	316
+		Time:	02.11.2025 15:53:03 until 02.11.2025 18:51:01
+		Duration:	02:57:58
+		Location:	NULL NULL
+
+	LJROJ1
+		Images:	328
+		Time:	02.11.2025 15:42:00 until 02.11.2025 17:16:48
+		Duration:	01:34:48
+		Location:	NULL NULL
+
+	LJROJ2
+		Images:	2179
+		Time:	02.11.2025 11:49:23 until 02.11.2025 15:37:06
+		Duration:	03:47:43
+		Location:	NULL NULL
+
+	LJXU1
+		Images:	2122
+		Time:	02.11.2025 10:32:29 until 02.11.2025 15:44:53
+		Duration:	05:12:24
+		Location:	NULL NULL
+
+	LJXU2
+		Images:	821
+		Time:	02.11.2025 15:53:44 until 02.11.2025 18:45:06
+		Duration:	02:51:22
+		Location:	NULL NULL
+
+	LLMA1
+		Images:	361
+		Time:	02.11.2025 15:49:41 until 02.11.2025 17:31:16
+		Duration:	01:41:35
+		Location:	NULL NULL
+
+	LLMA2
+		Images:	361
+		Time:	02.11.2025 15:49:41 until 02.11.2025 17:31:16
+		Duration:	01:41:35
+		Location:	NULL NULL
+
+	LLMA3
+		Images:	4785
+		Time:	02.11.2025 10:33:12 until 02.11.2025 15:47:56
+		Duration:	05:14:44
+		Location:	NULL NULL
+
+	LNDOR1
+		Images:	3089
+		Time:	02.11.2025 10:31:29 until 02.11.2025 16:13:01
+		Duration:	05:41:32
+		Location:	NULL NULL
+
+	LPKOL1
+		Images:	2133
+		Time:	02.11.2025 16:14:08 until 02.11.2025 19:01:02
+		Duration:	02:46:54
+		Location:	NULL NULL
+
+	LPKOL2
+		Images:	13213
+		Time:	02.11.2025 12:05:42 until 02.11.2025 15:31:01
+		Duration:	03:25:19
+		Location:	NULL NULL
+
+	LPKOL3
+		Images:	1562
+		Time:	02.11.2025 15:33:14 until 02.11.2025 16:00:09
+		Duration:	00:26:55
+		Location:	NULL NULL
+
+	LPKOL4
+	LSBHO1
+		Images:	11298
+		Time:	31.12.2013 19:00:07 until 02.11.2025 13:50:57
+		Duration:	4323.18:50:50
+		Location:	NULL NULL
+
+	LSBHO2
+		Images:	8524
+		Time:	31.12.2013 19:00:13 until 02.11.2025 04:04:35
+		Duration:	4323.09:04:22
+		Location:	NULL NULL
+
+	LSBHO3
+		Images:	815
+		Time:	02.11.2025 04:28:01 until 02.11.2025 06:57:24
+		Duration:	02:29:23
+		Location:	NULL NULL
+
+	LSJAC1
+		Images:	2331
+		Time:	02.11.2025 11:44:29 until 02.11.2025 16:38:19
+		Duration:	04:53:50
+		Location:	NULL NULL
+
+	LSMCG1
+		Images:	1262
+		Time:	02.11.2025 16:00:28 until 02.11.2025 19:01:21
+		Duration:	03:00:53
+		Location:	NULL NULL
+
+	LSMCG2
+		Images:	6251
+		Time:	02.11.2025 10:10:55 until 02.11.2025 15:53:04
+		Duration:	05:42:09
+		Location:	NULL NULL
+
+	LTBLO1
+		Images:	1846
+		Time:	02.11.2025 14:56:30 until 02.11.2025 18:41:20
+		Duration:	03:44:50
+		Location:	NULL NULL
+
+	LTBLO2
+		Images:	9352
+		Time:	02.11.2025 10:12:42 until 02.11.2025 14:53:46
+		Duration:	04:41:04
+		Location:	NULL NULL
+
+	LTBLO3
+		Images:	1952
+		Time:	02.11.2025 16:05:44 until 02.11.2025 18:37:24
+		Duration:	02:31:40
+		Location:	NULL NULL
+
+	MCROP1
+		Images:	83416
+		Time:	02.11.2025 10:22:54 until 02.11.2025 17:29:43
+		Duration:	07:06:49
+		Location:	NULL NULL
+
+	MGUS1
+		Images:	75557
+		Time:	19.10.2025 08:02:44 until 02.11.2025 15:59:39
+		Duration:	14.07:56:55
+		Location:	NULL NULL
+
+	MTRA1
+		Images:	18171
+		Time:	02.11.2025 10:16:41 until 02.11.2025 15:37:20
+		Duration:	05:20:39
+		Location:	NULL NULL
+
+	NANG1
+		Images:	54631
+		Time:	02.11.2025 10:02:55 until 02.11.2025 15:57:37
+		Duration:	05:54:42
+		Location:	NULL NULL
+
+	NCFIO1
+		Images:	35142
+		Time:	02.11.2025 11:26:54 until 02.11.2025 16:47:09
+		Duration:	05:20:15
+		Location:	NULL NULL
+
+	NJMOR2
+		Images:	1717
+		Time:	02.11.2025 16:13:34 until 02.11.2025 17:40:04
+		Duration:	01:26:30
+		Location:	NULL NULL
+
+	XCPH1
+		Images:	954
+		Time:	01.01.0001 23:00:00 until 02.11.2025 15:07:13
+		Duration:	739555.16:07:13
+		Location:	NULL NULL
+
+	XCROP2
+		Images:	32023
+		Time:	02.11.2025 10:54:59 until 02.11.2025 17:50:16
+		Duration:	06:55:17
+		Location:	NULL NULL
+
+	ZICAL1
+		Images:	25066
+		Time:	02.11.2025 10:43:56 until 02.11.2025 16:05:32
+		Duration:	05:21:36
+		Location:	NULL NULL
+
+(3) - 0.0 km Pre Fin Trigger Trent Right z8
+	CASB1
+		Images:	20825
+		Time:	02.11.2025 08:05:41 until 02.11.2025 17:51:53
+		Duration:	09:46:12
+		Location:	NULL NULL
+
+(4) - Impressions / Pano
+	PANO1
+(5) - none
+	AAKRI2
+		Images:	25863
+		Time:	02.11.2025 09:27:02 until 02.11.2025 16:06:20
+		Duration:	06:39:18
+		Location:	NULL NULL
+
+	AATWE1
+		Images:	2956
+		Time:	02.11.2025 14:28:52 until 02.11.2025 15:49:50
+		Duration:	01:20:58
+		Location:	NULL NULL
+
+	AATWE2
+		Images:	1134
+		Time:	02.11.2025 16:46:40 until 02.11.2025 17:22:56
+		Duration:	00:36:16
+		Location:	NULL NULL
+
+	AATWE3
+		Images:	14332
+		Time:	02.11.2025 10:12:41 until 02.11.2025 14:28:51
+		Duration:	04:16:10
+		Location:	NULL NULL
+
+	ADEST1
+		Images:	9099
+		Time:	02.11.2025 07:07:03 until 02.11.2025 11:06:33
+		Duration:	03:59:30
+		Location:	NULL NULL
+
+	AISTO1
+		Images:	38813
+		Time:	02.11.2025 08:23:26 until 02.11.2025 14:13:45
+		Duration:	05:50:19
+		Location:	NULL NULL
+
+	AJCC1
+		Images:	36571
+		Time:	02.11.2025 08:14:25 until 02.11.2025 14:24:07
+		Duration:	06:09:42
+		Location:	NULL NULL
+
+	AJEL1
+		Images:	13485
+		Time:	02.11.2025 07:06:09 until 02.11.2025 11:09:06
+		Duration:	04:02:57
+		Location:	NULL NULL
+
+	AMAU1
+		Images:	12133
+		Time:	02.11.2025 08:07:40 until 02.11.2025 12:14:12
+		Duration:	04:06:32
+		Location:	NULL NULL
+
+	ATRAA1
+		Images:	27064
+		Time:	02.11.2025 09:03:07 until 02.11.2025 13:17:07
+		Duration:	04:14:00
+		Location:	NULL NULL
+
+	ATRAB1
+		Images:	13811
+		Time:	02.11.2025 07:18:44 until 02.11.2025 11:13:23
+		Duration:	03:54:39
+		Location:	NULL NULL
+
+	ATRAC1
+		Images:	13114
+		Time:	02.11.2025 07:27:05 until 02.11.2025 11:09:43
+		Duration:	03:42:38
+		Location:	NULL NULL
+
+	ATRAD1
+		Images:	14702
+		Time:	02.11.2025 06:51:30 until 02.11.2025 11:11:53
+		Duration:	04:20:23
+		Location:	NULL NULL
+
+	BAOLO1
+		Images:	1385
+		Time:	02.11.2025 07:19:51 until 02.11.2025 11:31:19
+		Duration:	04:11:28
+		Location:	NULL NULL
+
+	BJFRA1
+		Images:	1319
+		Time:	02.11.2025 07:54:31 until 02.11.2025 11:31:36
+		Duration:	03:37:05
+		Location:	NULL NULL
+
+	BJHAR1
+		Images:	994
+		Time:	02.11.2025 06:57:48 until 02.11.2025 10:31:35
+		Duration:	03:33:47
+		Location:	NULL NULL
+
+	BJMAR1
+		Images:	762
+		Time:	02.11.2025 07:17:25 until 02.11.2025 11:27:44
+		Duration:	04:10:19
+		Location:	NULL NULL
+
+	BLANE1
+		Images:	45834
+		Time:	02.11.2025 08:21:39 until 02.11.2025 13:39:56
+		Duration:	05:18:17
+		Location:	NULL NULL
+
+	BMGEL1
+		Images:	1055
+		Time:	02.11.2025 07:32:47 until 02.11.2025 11:30:41
+		Duration:	03:57:54
+		Location:	NULL NULL
+
+	BMSON1
+		Images:	636
+		Time:	01.11.2025 20:05:33 until 01.11.2025 23:48:43
+		Duration:	03:43:10
+		Location:	NULL NULL
+
+	BPWEI1
+		Images:	579
+		Time:	02.11.2025 06:39:56 until 02.11.2025 10:31:10
+		Duration:	03:51:14
+		Location:	NULL NULL
+
+	BPWIR1
+		Images:	20983
+		Time:	02.11.2025 08:16:49 until 02.11.2025 12:24:44
+		Duration:	04:07:55
+		Location:	NULL NULL
+
+	BTRB1
+		Images:	17251
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+	BTRBL1
+		Images:	13679
+		Time:	31.12.2013 19:00:01 until 31.12.2099 22:59:59
+		Duration:	31411.03:59:58
+		Location:	NULL NULL
+
+	BTROR1
+		Images:	9861
+		Time:	02.11.2025 08:35:05 until 02.11.2025 11:24:25
+		Duration:	02:49:20
+		Location:	NULL NULL
+
+	CASB3
+		Images:	8259
+		Time:	02.11.2025 10:38:35 until 02.11.2025 15:15:14
+		Duration:	04:36:39
+		Location:	NULL NULL
+
+	CASB4
+		Images:	1467
+		Time:	02.11.2025 16:58:01 until 02.11.2025 17:46:53
+		Duration:	00:48:52
+		Location:	NULL NULL
+
+	CCROP2
+		Images:	30300
+		Time:	25.10.2025 11:23:06 until 02.11.2025 13:05:58
+		Duration:	8.01:42:52
+		Location:	NULL NULL
+
+	CCROP3
+		Images:	79468
+		Time:	02.11.2025 11:16:01 until 02.11.2025 18:03:23
+		Duration:	06:47:22
+		Location:	NULL NULL
+
+	CCROP4
+		Images:	95842
+		Time:	02.11.2025 10:52:50 until 02.11.2025 18:59:27
+		Duration:	08:06:37
+		Location:	NULL NULL
+
+	CSGEN4
+		Images:	4995
+		Time:	02.11.2025 14:07:56 until 02.11.2025 16:03:57
+		Duration:	01:56:01
+		Location:	NULL NULL
+
+	CSGEN5
+		Images:	2736
+		Time:	02.11.2025 16:03:58 until 02.11.2025 16:49:33
+		Duration:	00:45:35
+		Location:	NULL NULL
+
+	CSGEN6
+		Images:	7304
+		Time:	02.11.2025 14:03:45 until 02.11.2025 16:05:28
+		Duration:	02:01:43
+		Location:	NULL NULL
+
+	CSGEN7
+		Images:	2695
+		Time:	02.11.2025 16:05:29 until 02.11.2025 16:50:23
+		Duration:	00:44:54
+		Location:	NULL NULL
+
+	CTFBL2
+		Images:	3372
+		Time:	02.11.2025 15:19:07 until 02.11.2025 16:15:27
+		Duration:	00:56:20
+		Location:	NULL NULL
+
+	CTFBL3
+		Images:	3576
+		Time:	02.11.2025 14:19:20 until 02.11.2025 15:19:05
+		Duration:	00:59:45
+		Location:	NULL NULL
+
+	CTFBL4
+		Images:	3048
+		Time:	02.11.2025 16:17:19 until 02.11.2025 17:08:06
+		Duration:	00:50:47
+		Location:	NULL NULL
+
+	CTFBL5
+		Images:	3316
+		Time:	02.11.2025 17:08:07 until 02.11.2025 18:03:23
+		Duration:	00:55:16
+		Location:	NULL NULL
+
+	CTFBR2
+		Images:	4750
+		Time:	02.11.2025 15:35:38 until 02.11.2025 16:55:06
+		Duration:	01:19:28
+		Location:	NULL NULL
+
+	CTFBR4
+		Images:	7391
+		Time:	02.11.2025 16:56:17 until 02.11.2025 18:59:27
+		Duration:	02:03:10
+		Location:	NULL NULL
+
+	DDESM1
+	DDESM1LS2
+		Images:	3305
+		Time:	02.11.2025 16:55:20 until 02.11.2025 18:00:11
+		Duration:	01:04:51
+		Location:	NULL NULL
+
+	DEAV2
+		Images:	2065
+		Time:	02.11.2025 15:33:16 until 02.11.2025 17:49:06
+		Duration:	02:15:50
+		Location:	NULL NULL
+
+	DGIAN1
+	DGIAN1LS2
+		Images:	1998
+		Time:	02.11.2025 14:55:55 until 02.11.2025 16:02:52
+		Duration:	01:06:57
+		Location:	NULL NULL
+
+	DGIAN1LS3
+		Images:	1172
+		Time:	02.11.2025 16:02:54 until 02.11.2025 16:41:56
+		Duration:	00:39:02
+		Location:	NULL NULL
+
+	DJEN1
+		Images:	9549
+		Time:	02.11.2025 10:26:42 until 02.11.2025 15:55:38
+		Duration:	05:28:56
+		Location:	NULL NULL
+
+	DRFIN2
+		Images:	2528
+		Time:	02.11.2025 16:04:06 until 02.11.2025 18:15:38
+		Duration:	02:11:32
+		Location:	NULL NULL
+
+	DTREA2
+		Images:	3359
+		Time:	02.11.2025 15:00:13 until 02.11.2025 15:57:11
+		Duration:	00:56:58
+		Location:	NULL NULL
+
+	DTREA3
+		Images:	11539
+		Time:	02.11.2025 09:07:42 until 02.11.2025 14:08:07
+		Duration:	05:00:25
+		Location:	NULL NULL
+
+	DTREA4
+		Images:	4999
+		Time:	02.11.2025 14:08:08 until 02.11.2025 15:31:59
+		Duration:	01:23:51
+		Location:	NULL NULL
+
+	DTREA5
+		Images:	5000
+		Time:	02.11.2025 15:32:00 until 02.11.2025 16:55:19
+		Duration:	01:23:19
+		Location:	NULL NULL
+
+	DTREA6
+		Images:	3305
+		Time:	02.11.2025 16:55:20 until 02.11.2025 18:00:11
+		Duration:	01:04:51
+		Location:	NULL NULL
+
+	DTRL1
+		Images:	19996
+		Time:	02.11.2025 09:49:56 until 02.11.2025 16:12:34
+		Duration:	06:22:38
+		Location:	NULL NULL
+
+	DTRL2
+		Images:	185
+		Time:	02.11.2025 16:12:35 until 02.11.2025 16:15:56
+		Duration:	00:03:21
+		Location:	NULL NULL
+
+	FJAD1
+		Images:	27584
+		Time:	02.11.2025 10:00:48 until 02.11.2025 16:20:21
+		Duration:	06:19:33
+		Location:	NULL NULL
+
+	FJHR1
+		Images:	23860
+		Time:	02.11.2025 10:25:10 until 02.11.2025 14:44:56
+		Duration:	04:19:46
+		Location:	NULL NULL
+
+	FJPAR1
+		Images:	17875
+		Time:	02.11.2025 09:19:32 until 02.11.2025 14:26:01
+		Duration:	05:06:29
+		Location:	NULL NULL
+
+	FMLEV1
+		Images:	37222
+		Time:	02.11.2025 09:21:42 until 02.11.2025 16:02:25
+		Duration:	06:40:43
+		Location:	NULL NULL
+
+	FTHAN1
+		Images:	22753
+		Time:	02.11.2025 08:34:51 until 02.11.2025 14:39:39
+		Duration:	06:04:48
+		Location:	NULL NULL
+
+	FTRC1
+		Images:	34871
+		Time:	02.11.2025 20:36:38 until 03.11.2025 02:52:27
+		Duration:	06:15:49
+		Location:	NULL NULL
+
+	FTRD1
+		Images:	19455
+		Time:	02.11.2025 09:28:52 until 02.11.2025 15:01:08
+		Duration:	05:32:16
+		Location:	NULL NULL
+
+	FTREA1
+		Images:	21017
+		Time:	02.11.2025 09:21:27 until 02.11.2025 15:15:56
+		Duration:	05:54:29
+		Location:	NULL NULL
+
+	FTREB1
+		Images:	22388
+		Time:	30.11.2012 23:00:16 until 02.11.2025 15:21:20
+		Duration:	4719.16:21:04
+		Location:	NULL NULL
+
+	GAAD1
+		Images:	22752
+		Time:	02.11.2025 09:23:02 until 02.11.2025 16:47:40
+		Duration:	07:24:38
+		Location:	NULL NULL
+
+	GAAL1
+		Images:	21074
+		Time:	02.11.2025 09:27:02 until 02.11.2025 14:37:59
+		Duration:	05:10:57
+		Location:	NULL NULL
+
+	GAAL2
+		Images:	4452
+		Time:	02.11.2025 14:37:59 until 02.11.2025 16:06:20
+		Duration:	01:28:21
+		Location:	NULL NULL
+
+	GAGR1
+		Images:	26093
+		Time:	02.11.2025 08:41:13 until 02.11.2025 15:57:42
+		Duration:	07:16:29
+		Location:	NULL NULL
+
+	GCST1
+		Images:	34252
+		Time:	02.11.2025 12:04:36 until 02.12.2025 12:49:21
+		Duration:	30.00:44:45
+		Location:	NULL NULL
+
+	GMIO1
+		Images:	6684
+		Time:	02.11.2025 08:39:49 until 02.11.2025 12:27:41
+		Duration:	03:47:52
+		Location:	NULL NULL
+
+	GTRF1
+		Images:	20056
+		Time:	01.01.0001 23:00:00 until 02.11.2025 15:16:43
+		Duration:	739555.16:16:43
+		Location:	NULL NULL
+
+	GTRG1
+		Images:	10065
+		Time:	02.11.2025 07:51:02 until 02.11.2025 12:11:38
+		Duration:	04:20:36
+		Location:	NULL NULL
+
+	HBLEE1
+		Images:	19455
+		Time:	02.11.2025 09:21:04 until 02.11.2025 15:38:35
+		Duration:	06:17:31
+		Location:	NULL NULL
+
+	HBLEE2
+		Images:	3391
+		Time:	02.11.2025 15:38:52 until 02.11.2025 18:18:09
+		Duration:	02:39:17
+		Location:	NULL NULL
+
+	HIO1
+		Images:	35079
+		Time:	02.11.2025 06:22:45 until 02.11.2025 16:23:40
+		Duration:	10:00:55
+		Location:	NULL NULL
+
+	HIO2
+		Images:	2303
+		Time:	02.11.2025 16:23:41 until 02.11.2025 18:30:49
+		Duration:	02:07:08
+		Location:	NULL NULL
+
+	HMKEL2
+		Images:	1029
+		Time:	02.11.2025 16:04:58 until 02.11.2025 17:45:18
+		Duration:	01:40:20
+		Location:	NULL NULL
+
+	HSALA1
+		Images:	39573
+		Time:	03.11.2025 09:52:48 until 03.11.2025 17:55:09
+		Duration:	08:02:21
+		Location:	NULL NULL
+
+	HSALA2
+		Images:	223
+		Time:	03.11.2025 17:55:17 until 03.11.2025 18:16:45
+		Duration:	00:21:28
+		Location:	NULL NULL
+
+	HTRH1
+		Images:	24093
+		Time:	02.11.2025 09:18:23 until 02.11.2025 16:18:54
+		Duration:	07:00:31
+		Location:	NULL NULL
+
+	HTRH2
+		Images:	5486
+		Time:	02.11.2025 16:18:55 until 02.11.2025 17:52:39
+		Duration:	01:33:44
+		Location:	NULL NULL
+
+	HTRK1
+		Images:	22432
+		Time:	02.11.2025 09:51:20 until 02.11.2025 17:05:53
+		Duration:	07:14:33
+		Location:	NULL NULL
+
+	HTRK2
+		Images:	6084
+		Time:	02.11.2025 17:05:54 until 02.11.2025 18:50:15
+		Duration:	01:44:21
+		Location:	NULL NULL
+
+	JCROP1
+		Images:	13056
+		Time:	02.11.2025 10:38:44 until 02.11.2025 16:08:11
+		Duration:	05:29:27
+		Location:	NULL NULL
+
+	JEDR1
+		Images:	2325
+		Time:	02.11.2025 15:08:06 until 02.11.2025 17:00:22
+		Duration:	01:52:16
+		Location:	NULL NULL
+
+	JEDR2
+		Images:	40000
+		Time:	02.11.2025 09:23:47 until 02.11.2025 15:08:04
+		Duration:	05:44:17
+		Location:	NULL NULL
+
+	JJADE2
+		Images:	572
+		Time:	02.11.2025 16:47:01 until 02.11.2025 18:04:33
+		Duration:	01:17:32
+		Location:	NULL NULL
+
+	JMDAN2
+		Images:	683
+		Time:	02.11.2025 16:04:53 until 02.11.2025 17:22:34
+		Duration:	01:17:41
+		Location:	NULL NULL
+
+	JTMOM2
+		Images:	428
+		Time:	02.11.2025 17:03:01 until 02.11.2025 17:49:48
+		Duration:	00:46:47
+		Location:	NULL NULL
+
+	JTRJA2
+		Images:	1295
+		Time:	02.11.2025 16:07:11 until 02.11.2025 16:28:45
+		Duration:	00:21:34
+		Location:	NULL NULL
+
+	JTRJB1
+		Images:	16386
+		Time:	02.11.2025 10:13:10 until 02.11.2025 15:19:02
+		Duration:	05:05:52
+		Location:	NULL NULL
+
+	JTRJB2
+		Images:	1907
+		Time:	02.11.2025 15:33:22 until 02.11.2025 16:08:13
+		Duration:	00:34:51
+		Location:	NULL NULL
+
+	JTTW1
+		Images:	1134
+		Time:	02.11.2025 16:46:40 until 02.11.2025 17:22:56
+		Duration:	00:36:16
+		Location:	NULL NULL
+
+	JTTW2
+		Images:	17288
+		Time:	02.11.2025 10:12:41 until 02.11.2025 15:49:50
+		Duration:	05:37:09
+		Location:	NULL NULL
+
+	JWMD1
+		Images:	34726
+		Time:	02.11.2025 10:34:52 until 02.11.2025 18:09:46
+		Duration:	07:34:54
+		Location:	NULL NULL
+
+	JWMD2
+		Images:	4095
+		Time:	02.11.2025 16:41:29 until 02.11.2025 18:09:46
+		Duration:	01:28:17
+		Location:	NULL NULL
+
+	KABIG2
+		Images:	278
+		Time:	02.11.2025 16:42:44 until 02.11.2025 18:42:07
+		Duration:	01:59:23
+		Location:	NULL NULL
+
+	KADIL2
+		Images:	841
+		Time:	02.11.2025 15:34:08 until 02.11.2025 18:22:55
+		Duration:	02:48:47
+		Location:	NULL NULL
+
+	KBENL2
+		Images:	1049
+		Time:	02.11.2025 15:05:33 until 02.11.2025 16:50:39
+		Duration:	01:45:06
+		Location:	NULL NULL
+
+	KBRAN2
+		Images:	500
+		Time:	02.11.2025 14:18:06 until 02.11.2025 15:43:36
+		Duration:	01:25:30
+		Location:	NULL NULL
+
+	KCHRI2
+		Images:	428
+		Time:	02.11.2025 15:40:53 until 02.11.2025 17:47:25
+		Duration:	02:06:32
+		Location:	NULL NULL
+
+	KDIEG2
+		Images:	263
+		Time:	03.11.2025 15:15:54 until 03.11.2025 16:37:27
+		Duration:	01:21:33
+		Location:	NULL NULL
+
+	KEMIL2
+		Images:	370
+		Time:	01.11.2025 15:45:31 until 01.11.2025 18:33:54
+		Duration:	02:48:23
+		Location:	NULL NULL
+
+	KJAME2
+		Images:	215
+		Time:	02.11.2024 15:41:37 until 02.11.2024 18:23:11
+		Duration:	02:41:34
+		Location:	NULL NULL
+
+	KKEIT2
+		Images:	74
+		Time:	02.11.2025 15:51:30 until 02.11.2025 16:59:15
+		Duration:	01:07:45
+		Location:	NULL NULL
+
+	KLUCY2
+		Images:	633
+		Time:	02.11.2025 15:39:18 until 02.11.2025 17:45:31
+		Duration:	02:06:13
+		Location:	NULL NULL
+
+	KMEGY2
+		Images:	328
+		Time:	02.11.2025 14:20:33 until 02.11.2025 15:36:34
+		Duration:	01:16:01
+		Location:	NULL NULL
+
+	KOMAR2
+	KROM2
+		Images:	905
+		Time:	02.11.2025 13:15:17 until 02.11.2025 16:38:18
+		Duration:	03:23:01
+		Location:	NULL NULL
+
+	KSBUN2
+		Images:	980
+		Time:	02.11.2025 11:52:56 until 02.11.2025 16:22:40
+		Duration:	04:29:44
+		Location:	NULL NULL
+
+	KSVAS2
+		Images:	581
+		Time:	31.10.2025 04:41:56 until 31.10.2025 06:48:49
+		Duration:	02:06:53
+		Location:	NULL NULL
+
+	KTANY2
+		Images:	841
+		Time:	02.11.2025 15:00:34 until 02.11.2025 17:04:26
+		Duration:	02:03:52
+		Location:	NULL NULL
+
+	KWHIT2
+		Images:	128
+		Time:	02.11.2025 14:55:28 until 02.11.2025 15:50:27
+		Duration:	00:54:59
+		Location:	NULL NULL
+
+	LSJAC3
+		Images:	288
+		Time:	02.11.2025 16:43:56 until 02.11.2025 17:33:05
+		Duration:	00:49:09
+		Location:	NULL NULL
+
+	MBILL1
+		Images:	50627
+		Time:	02.11.2025 09:12:03 until 02.11.2025 16:03:44
+		Duration:	06:51:41
+		Location:	NULL NULL
+
+	MBILL2
+		Images:	2797
+		Time:	02.11.2025 16:03:44 until 02.11.2025 17:28:55
+		Duration:	01:25:11
+		Location:	NULL NULL
+
+	MGUS2
+		Images:	3311
+		Time:	02.11.2025 15:59:39 until 02.11.2025 17:26:45
+		Duration:	01:27:06
+		Location:	NULL NULL
+
+	MTRA2
+		Images:	6603
+		Time:	02.11.2025 15:37:21 until 02.11.2025 17:29:46
+		Duration:	01:52:25
+		Location:	NULL NULL
+
+	NANG2
+		Images:	4264
+		Time:	02.11.2025 15:58:12 until 02.11.2025 20:59:56
+		Duration:	05:01:44
+		Location:	NULL NULL
+
+	NAROS1
+		Images:	17773
+		Time:	02.11.2025 10:26:48 until 02.11.2025 16:14:18
+		Duration:	05:47:30
+		Location:	NULL NULL
+
+	NAROS2
+		Images:	414
+		Time:	02.11.2025 16:14:23 until 02.11.2025 18:55:06
+		Duration:	02:40:43
+		Location:	NULL NULL
+
+	NCFIO2
+		Images:	11676
+		Time:	02.11.2025 16:18:39 until 02.11.2025 19:39:17
+		Duration:	03:20:38
+		Location:	NULL NULL
+
+	NFARU1
+		Images:	13122
+		Time:	02.11.2025 09:51:02 until 02.11.2025 13:37:18
+		Duration:	03:46:16
+		Location:	NULL NULL
+
+	NFARU2
+		Images:	16738
+		Time:	02.11.2025 13:04:31 until 02.11.2025 18:01:13
+		Duration:	04:56:42
+		Location:	NULL NULL
+
+	NGPH1
+		Images:	21200
+		Time:	02.11.2025 08:29:26 until 02.11.2025 15:17:13
+		Duration:	06:47:47
+		Location:	NULL NULL
+
+	NGPH2
+	NJMOR1
+		Images:	19157
+		Time:	02.11.2025 09:58:39 until 02.11.2025 16:13:33
+		Duration:	06:14:54
+		Location:	NULL NULL
+
+	NMTOD1
+		Images:	26765
+		Time:	02.11.2025 11:17:06 until 02.11.2025 16:34:58
+		Duration:	05:17:52
+		Location:	NULL NULL
+
+	NMTOD2
+		Images:	5616
+		Time:	02.11.2025 16:34:59 until 02.11.2025 19:33:37
+		Duration:	02:58:38
+		Location:	NULL NULL
+
+	NPREY1
+		Images:	10623
+		Time:	02.11.2025 13:40:03 until 02.11.2025 15:40:06
+		Duration:	02:00:03
+		Location:	NULL NULL
+
+	NPREY2
+		Images:	10396
+		Time:	02.11.2025 15:40:07 until 02.11.2025 18:59:20
+		Duration:	03:19:13
+		Location:	NULL NULL
+
+	NTRM1
+		Images:	21933
+		Time:	02.11.2025 11:27:02 until 02.11.2025 17:50:03
+		Duration:	06:23:01
+		Location:	NULL NULL
+
+	NTRM2
+		Images:	7096
+		Time:	02.11.2025 17:50:04 until 02.11.2025 19:50:15
+		Duration:	02:00:11
+		Location:	NULL NULL
+
+	ODATI1
+		Images:	57798
+		Time:	02.11.2025 11:29:55 until 02.11.2025 16:44:35
+		Duration:	05:14:40
+		Location:	NULL NULL
+
+	ODEST2
+		Images:	860
+		Time:	02.11.2025 16:30:35 until 02.11.2025 18:34:46
+		Duration:	02:04:11
+		Location:	NULL NULL
+
+	ODKE1
+		Images:	34575
+		Time:	02.11.2025 11:08:57 until 02.11.2025 16:52:10
+		Duration:	05:43:13
+		Location:	NULL NULL
+
+	ODKE2
+		Images:	9725
+		Time:	02.11.2025 16:52:11 until 02.11.2025 20:01:19
+		Duration:	03:09:08
+		Location:	NULL NULL
+
+	OJEL1
+		Images:	9485
+		Time:	02.11.2025 13:35:03 until 02.11.2025 15:28:10
+		Duration:	01:53:07
+		Location:	NULL NULL
+
+	OMAU1
+		Images:	12717
+		Time:	02.11.2025 13:33:34 until 02.11.2025 15:55:24
+		Duration:	02:21:50
+		Location:	NULL NULL
+
+	OTRW2
+		Images:	2302
+		Time:	02.11.2025 15:38:41 until 02.11.2025 19:45:07
+		Duration:	04:06:26
+		Location:	NULL NULL
+
+	XCPH2
+		Images:	936
+		Time:	01.01.0001 23:00:00 until 02.11.2025 16:38:23
+		Duration:	739555.17:38:23
+		Location:	NULL NULL
+
+	XCROP3
+		Images:	22690
+		Time:	02.11.2025 14:08:47 until 02.11.2025 15:56:32
+		Duration:	01:47:45
+		Location:	NULL NULL
+
+	XCROP4
+		Images:	32023
+		Time:	02.11.2025 10:54:59 until 02.11.2025 17:50:16
+		Duration:	06:55:17
+		Location:	NULL NULL
+
+	ZICAL2
+		Images:	5952
+		Time:	02.11.2025 16:59:23 until 02.11.2025 19:54:56
+		Duration:	02:55:33
+		Location:	NULL NULL
+
+	ZICAL3
+		Images:	5002
+		Time:	02.11.2025 16:05:32 until 02.11.2025 16:59:09
+		Duration:	00:53:37
+		Location:	NULL NULL
+

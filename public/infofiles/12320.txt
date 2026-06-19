@@ -1,0 +1,553 @@
+EventId: 12320
+Spots: 87
+Total Images: 785770
+Time:	30.11.2024 06:20:03 to 01.12.2025 08:08:19
+Duration: 366.01:48:16
+
+(1) - Finish
+	ALNG1
+		Images:	19776
+		Time:	01.12.2024 04:25:46 until 01.12.2024 12:28:13
+		Duration:	08:02:27
+		Location:	1.28752 103.85266
+
+	ALNG1LS1
+		Images:	7096
+		Time:	01.12.2024 03:26:48 until 01.12.2024 11:07:45
+		Duration:	07:40:57
+		Location:	1.28752 103.85266
+
+	ANNG1
+		Images:	11679
+		Time:	01.12.2024 05:14:57 until 01.12.2024 09:26:55
+		Duration:	04:11:58
+		Location:	1.28752 103.85266
+
+	ANNG1LS1
+		Images:	6923
+		Time:	01.12.2024 04:09:23 until 01.12.2024 12:37:12
+		Duration:	08:27:49
+		Location:	1.28752 103.85266
+
+	ATAP1
+		Images:	21353
+		Time:	01.12.2024 04:44:08 until 01.12.2024 10:58:38
+		Duration:	06:14:30
+		Location:	1.28752 103.85266
+
+	ATDB1
+		Images:	31417
+		Time:	01.12.2024 04:38:47 until 01.12.2024 12:34:21
+		Duration:	07:55:34
+		Location:	1.28752 103.85266
+
+	ATDB1LS1
+		Images:	5893
+		Time:	01.12.2024 04:28:36 until 01.12.2024 08:51:23
+		Duration:	04:22:47
+		Location:	1.28752 103.85266
+
+	ATDK1
+		Images:	7716
+		Time:	01.12.2024 04:03:21 until 01.12.2024 12:13:17
+		Duration:	08:09:56
+		Location:	1.28752 103.85266
+
+	BGIP1
+		Images:	188
+		Time:	01.12.2024 08:19:22 until 01.12.2024 08:45:03
+		Duration:	00:25:41
+		Location:	1.28754 103.85008
+
+	EBIC1
+		Images:	6013
+		Time:	01.12.2024 05:41:07 until 01.12.2024 12:28:19
+		Duration:	06:47:12
+		Location:	1.28754 103.85008
+
+	EBIC1LS2
+		Images:	7134
+		Time:	01.12.2024 06:46:13 until 01.12.2024 12:20:30
+		Duration:	05:34:17
+		Location:	1.28754 103.85008
+
+	ECRI2
+		Images:	31
+		Time:	01.12.2024 05:31:13 until 01.12.2024 06:03:27
+		Duration:	00:32:14
+		Location:	1.28754 103.85008
+
+(2) - HM-KM 1.5/M-KM 1.5 Republic Ave Underpass
+	EARM1
+		Images:	2908
+		Time:	01.12.2024 03:29:19 until 01.12.2024 06:05:33
+		Duration:	02:36:14
+		Location:	1.30341 103.86680
+
+	EVLA1
+		Images:	4992
+		Time:	30.11.2024 19:54:08 until 01.12.2024 05:11:22
+		Duration:	09:17:14
+		Location:	1.30341 103.86680
+
+(3) - HM-KM 11/M-KM 11 Benjamin Sheares Bridge
+	CLMD1
+		Images:	27319
+		Time:	01.12.2024 01:38:58 until 01.12.2024 06:59:17
+		Duration:	05:20:19
+		Location:	1.29486 103.86872
+
+	DMUS1
+		Images:	5642
+		Time:	01.12.2024 03:56:32 until 01.12.2024 06:59:12
+		Duration:	03:02:40
+		Location:	1.29486 103.86872
+
+(4) - HM-KM 16 Gardens by the Bay
+	BHALI1
+		Images:	8476
+		Time:	01.12.2024 04:24:50 until 01.12.2024 08:19:05
+		Duration:	03:54:15
+		Location:	1.28799 103.86651
+
+	COCH1
+		Images:	4936
+		Time:	01.12.2024 04:03:19 until 01.12.2024 08:37:08
+		Duration:	04:33:49
+		Location:	1.28799 103.86651
+
+	COCH1LS1
+		Images:	6073
+		Time:	01.12.2024 04:27:27 until 01.12.2024 08:31:59
+		Duration:	04:04:32
+		Location:	1.28799 103.86651
+
+	DVMM1
+		Images:	24299
+		Time:	01.12.2024 03:56:22 until 01.12.2024 09:05:24
+		Duration:	05:09:02
+		Location:	1.28799 103.86651
+
+(5) - HM-KM 17/M-KM 25.5 Marina Barrage Dam
+	APNQ1
+		Images:	35910
+		Time:	01.12.2024 04:17:27 until 01.12.2024 09:33:47
+		Duration:	05:16:20
+		Location:	1.28362 103.85987
+
+	BDTQ1
+		Images:	10219
+		Time:	01.12.2024 04:29:29 until 01.12.2024 09:00:46
+		Duration:	04:31:17
+		Location:	1.2816 103.87024
+
+	BDTQ1LS1
+		Images:	7297
+		Time:	01.12.2024 04:26:57 until 01.12.2024 09:02:09
+		Duration:	04:35:12
+		Location:	1.2816 103.87024
+
+	BMVV2
+		Images:	3631
+		Time:	01.12.2024 08:08:22 until 01.12.2024 09:32:13
+		Duration:	01:23:51
+		Location:	1.2816 103.87024
+
+	BMVV2LS1
+		Images:	1074
+		Time:	01.12.2024 07:55:46 until 01.12.2024 09:40:39
+		Duration:	01:44:53
+		Location:	1.2816 103.87024
+
+	EALN2
+		Images:	2722
+		Time:	01.12.2024 07:55:10 until 01.12.2024 09:31:56
+		Duration:	01:36:46
+		Location:	1.28161 103.87283
+
+	EALN2LS1
+		Images:	1311
+		Time:	01.12.2024 07:54:10 until 01.12.2024 09:32:49
+		Duration:	01:38:39
+		Location:	1.28161 103.87283
+
+(6) - HM-KM 18 Flower Dome
+	BHTT1
+		Images:	23785
+		Time:	01.12.2024 04:31:33 until 01.12.2024 09:13:40
+		Duration:	04:42:07
+		Location:	1.28526 103.86099
+
+	BHTT1LS1
+		Images:	12917
+		Time:	30.11.2024 20:34:19 until 01.12.2024 08:48:56
+		Duration:	12:14:37
+		Location:	1.28526 103.86099
+
+	BNTT1
+		Images:	21256
+		Time:	01.12.2024 03:54:07 until 01.12.2024 08:30:07
+		Duration:	04:36:00
+		Location:	1.28526 103.86099
+
+	BNTT1LS1
+		Images:	6844
+		Time:	01.12.2024 04:31:42 until 01.12.2024 08:31:33
+		Duration:	03:59:51
+		Location:	1.28526 103.86099
+
+	BNTT1LS2
+		Images:	5390
+		Time:	01.12.2025 03:47:57 until 01.12.2025 08:08:19
+		Duration:	04:20:22
+		Location:	1.28526 103.86099
+
+(7) - HM-KM 18.5 Bayfront
+	ALDB1
+		Images:	13617
+		Time:	01.12.2024 04:16:18 until 01.12.2024 09:00:06
+		Duration:	04:43:48
+		Location:	1.28362 103.85987
+
+	ALDB1LS1
+		Images:	8319
+		Time:	01.12.2024 03:41:01 until 01.12.2024 08:51:10
+		Duration:	05:10:09
+		Location:	1.28362 103.85987
+
+	ANTA1
+		Images:	13135
+		Time:	30.11.2024 06:20:03 until 01.12.2024 08:38:22
+		Duration:	1.02:18:19
+		Location:	1.28362 103.85987
+
+	ANTA1LS1
+		Images:	3774
+		Time:	01.12.2024 06:27:46 until 01.12.2024 08:36:41
+		Duration:	02:08:55
+		Location:	1.28362 103.85987
+
+(8) - HM-KM 20.5 /M-KM 41.5 Collyer Quay Rd
+	DJKHA2
+		Images:	3473
+		Time:	01.12.2024 07:02:01 until 01.12.2024 12:28:28
+		Duration:	05:26:27
+		Location:	1.28083 103.84988
+
+	DPZIE2
+		Images:	1066
+		Time:	01.12.2024 09:48:59 until 01.12.2024 12:28:17
+		Duration:	02:39:18
+		Location:	1.28083 103.84988
+
+	DYH2
+		Images:	5510
+		Time:	01.12.2024 07:17:50 until 01.12.2024 12:19:36
+		Duration:	05:01:46
+		Location:	1.28083 103.84988
+
+(9) - HM-KM 20.5/M-KM 40.5 Collyer Quay Rd
+	EYR2
+		Images:	11503
+		Time:	01.12.2024 07:00:18 until 01.12.2024 12:35:04
+		Duration:	05:34:46
+		Location:	1.2845 103.85311
+
+(10) - HM-KM 20.5/M-KM 41.5 Collyer Quay Rd
+	BHALI2
+		Images:	1742
+		Time:	01.12.2024 09:18:38 until 01.12.2024 12:22:05
+		Duration:	03:03:27
+		Location:	1.2845 103.85311
+
+(11) - HM-KM 21/M-KM 42 Fullerton Rd
+	EARM2
+		Images:	7007
+		Time:	01.12.2024 06:12:36 until 01.12.2024 11:22:08
+		Duration:	05:09:32
+		Location:	1.28638 103.85372
+
+	EBUP1
+		Images:	12108
+		Time:	01.12.2024 04:41:54 until 01.12.2024 12:24:08
+		Duration:	07:42:14
+		Location:	1.28638 103.85372
+
+	EVLA2
+		Images:	9842
+		Time:	01.12.2024 06:08:43 until 01.12.2024 12:25:53
+		Duration:	06:17:10
+		Location:	1.28638 103.85372
+
+	EWIG1
+		Images:	23105
+		Time:	30.11.2024 19:46:46 until 01.12.2024 11:23:27
+		Duration:	15:36:41
+		Location:	1.28638 103.85372
+
+(12) - HM-KM 4/M-KM 4 National Stadium
+	DKTN1
+		Images:	4133
+		Time:	01.12.2024 03:07:30 until 01.12.2024 05:39:56
+		Duration:	02:32:26
+		Location:	1.30782 103.87695
+
+	DRYH3
+		Images:	4297
+		Time:	01.12.2024 03:37:17 until 01.12.2024 05:34:15
+		Duration:	01:56:58
+		Location:	1.30782 103.87695
+
+(13) - HM-KM 6.5/M-KM 6.5 Merdeka Bridge
+	DYH1
+		Images:	3299
+		Time:	01.12.2024 03:48:48 until 01.12.2024 06:10:18
+		Duration:	02:21:30
+		Location:	1.30427 103.86855
+
+	EYR1
+		Images:	5400
+		Time:	01.12.2024 03:45:19 until 01.12.2024 06:10:23
+		Duration:	02:25:04
+		Location:	1.30427 103.86855
+
+(14) - HM-KM 7/M-KM 7 Nicoll Hwy Station
+	DAYO1
+		Images:	13261
+		Time:	01.12.2024 03:47:19 until 01.12.2024 06:19:18
+		Duration:	02:31:59
+		Location:	1.30057 103.86061
+
+	DKIK1
+		Images:	9022
+		Time:	01.12.2024 03:47:11 until 01.12.2024 07:16:07
+		Duration:	03:28:56
+		Location:	1.30057 103.86061
+
+	DKTA1
+		Images:	993
+		Time:	01.12.2024 03:38:53 until 01.12.2024 06:07:40
+		Duration:	02:28:47
+		Location:	1.30057 103.86061
+
+(15) - HM-KM 9.5/M-KM 9.5 Singapore Flyer
+	BMVV1
+		Images:	10306
+		Time:	01.12.2024 05:03:52 until 01.12.2024 08:07:54
+		Duration:	03:04:02
+		Location:	1.29243 103.86025
+
+	BMVV1LS1
+		Images:	9680
+		Time:	01.12.2024 03:27:48 until 01.12.2024 06:25:10
+		Duration:	02:57:22
+		Location:	1.29243 103.86025
+
+	EALN1
+		Images:	10682
+		Time:	01.12.2024 03:47:41 until 01.12.2024 06:50:22
+		Duration:	03:02:41
+		Location:	1.29291 103.864
+
+	EALN1LS1
+		Images:	1990
+		Time:	01.12.2024 05:33:46 until 01.12.2024 06:30:43
+		Duration:	00:56:57
+		Location:	1.29291 103.864
+
+	EALN1LS2
+		Images:	3379
+		Time:	01.12.2024 04:41:59 until 01.12.2024 06:26:45
+		Duration:	01:44:46
+		Location:	1.29291 103.864
+
+(16) - HM-KM 9/M-KM 9 Suntec City
+	DJKHA1
+		Images:	3091
+		Time:	01.12.2024 02:43:50 until 01.12.2024 07:00:30
+		Duration:	04:16:40
+		Location:	1.29451 103.85800
+
+	DPZIE1
+		Images:	4024
+		Time:	01.12.2024 03:15:30 until 01.12.2024 07:39:23
+		Duration:	04:23:53
+		Location:	1.29451 103.85800
+
+(17) - M-KM 15.5 East Coast Park
+	EKD1
+		Images:	5863
+		Time:	01.12.2024 04:18:07 until 01.12.2024 08:01:28
+		Duration:	03:43:21
+		Location:	1.30002 103.90385
+
+	EKD1LS1
+		Images:	6150
+		Time:	01.12.2024 04:23:29 until 01.12.2024 08:04:53
+		Duration:	03:41:24
+		Location:	1.30002 103.90385
+
+(18) - M-KM 16 East Coast Park
+	EBECB1
+		Images:	5347
+		Time:	01.12.2024 04:27:05 until 01.12.2024 07:57:59
+		Duration:	03:30:54
+		Location:	1.29997 103.90812
+
+	EBECB1LS1
+		Images:	6607
+		Time:	01.12.2024 04:11:46 until 01.12.2024 08:12:12
+		Duration:	04:00:26
+		Location:	1.29997 103.90812
+
+(19) - M-KM 20 East Coast Park
+	DRYH2
+		Images:	1183
+		Time:	01.12.2024 06:46:46 until 01.12.2024 08:27:16
+		Duration:	01:40:30
+		Location:	1.29994 103.9095
+
+	EBECB1LS2
+		Images:	3972
+		Time:	01.12.2024 04:18:31 until 01.12.2024 08:11:50
+		Duration:	03:53:19
+		Location:	1.29997 103.90812
+
+	EBECB2
+		Images:	3886
+		Time:	01.12.2024 05:04:21 until 01.12.2024 08:11:09
+		Duration:	03:06:48
+		Location:	1.29997 103.90812
+
+(20) - M-KM 21 East Coast Park
+	DKTN2
+		Images:	2403
+		Time:	01.12.2024 06:42:31 until 01.12.2024 08:09:42
+		Duration:	01:27:11
+		Location:	1.29638 103.89841
+
+(21) - M-KM 29/KM 41 Lau Pa Sat
+	BANDR1
+		Images:	9867
+		Time:	01.12.2024 03:31:06 until 01.12.2024 12:17:58
+		Duration:	08:46:52
+		Location:	1.28083 103.84988
+
+	BDL1
+		Images:	23638
+		Time:	30.11.2024 21:53:14 until 01.12.2024 12:16:13
+		Duration:	14:22:59
+		Location:	1.28083 103.84988
+
+	BKAWO1
+		Images:	24156
+		Time:	01.12.2024 04:37:42 until 01.12.2024 12:18:02
+		Duration:	07:40:20
+		Location:	1.28083 103.84988
+
+	CLMD2
+		Images:	6054
+		Time:	01.12.2024 08:07:58 until 01.12.2024 11:58:39
+		Duration:	03:50:41
+		Location:	1.28083 103.84988
+
+	DMUS2
+		Images:	3958
+		Time:	01.12.2024 08:08:10 until 01.12.2024 11:57:44
+		Duration:	03:49:34
+		Location:	1.28082 103.84732
+
+(22) - M-KM 37 West Coast Hwy
+	CCAA1
+		Images:	10767
+		Time:	01.12.2024 04:16:27 until 01.12.2024 10:23:36
+		Duration:	06:07:09
+		Location:	1.26629 103.81900
+
+	CJERO1
+		Images:	15493
+		Time:	01.12.2024 02:02:39 until 01.12.2024 10:50:47
+		Duration:	08:48:08
+		Location:	1.26629 103.81900
+
+	CRDI1
+		Images:	3175
+		Time:	01.12.2024 05:11:11 until 01.12.2024 11:35:58
+		Duration:	06:24:47
+		Location:	1.26629 103.81900
+
+	CRDI1LS1
+		Images:	4579
+		Time:	01.12.2024 04:42:37 until 01.12.2024 10:31:19
+		Duration:	05:48:42
+		Location:	1.26629 103.81900
+
+	CRPB1
+		Images:	11735
+		Time:	01.12.2024 05:10:13 until 02.12.2024 00:27:43
+		Duration:	19:17:30
+		Location:	1.26629 103.81900
+
+(23) - M-KM 38 Keppel Rd & West Coast Hwy
+	ANP1
+		Images:	39945
+		Time:	01.12.2024 04:05:16 until 01.12.2024 10:39:10
+		Duration:	06:33:54
+		Location:	1.26597 103.82461
+
+	ANP1LS1
+		Images:	5635
+		Time:	01.12.2024 05:52:50 until 01.12.2024 10:35:13
+		Duration:	04:42:23
+		Location:	1.26597 103.82461
+
+	CJONI1
+		Images:	8884
+		Time:	01.12.2024 03:51:06 until 01.12.2024 10:51:07
+		Duration:	07:00:01
+		Location:	1.26597 103.82461
+
+(24) - Medals
+	CDCL1
+		Images:	6450
+		Time:	01.12.2024 04:32:42 until 01.12.2024 12:34:02
+		Duration:	08:01:20
+		Location:	1.28752 103.85266
+
+	CIMH1
+		Images:	6429
+		Time:	30.11.2024 20:25:22 until 01.12.2024 12:32:38
+		Duration:	16:07:16
+		Location:	1.28752 103.85266
+
+	CPCT1
+		Images:	15946
+		Time:	01.12.2024 04:46:17 until 01.12.2024 12:32:48
+		Duration:	07:46:31
+		Location:	1.28752 103.85266
+
+	DAYO2
+		Images:	3343
+		Time:	01.12.2024 07:17:33 until 01.12.2024 12:31:34
+		Duration:	05:14:01
+		Location:	1.28752 103.85266
+
+	DKIK2
+		Images:	6078
+		Time:	01.12.2024 07:21:06 until 01.12.2024 11:56:14
+		Duration:	04:35:08
+		Location:	1.28752 103.85266
+
+	DKTA2
+		Images:	964
+		Time:	01.12.2024 07:13:05 until 01.12.2024 12:07:49
+		Duration:	04:54:44
+		Location:	1.28752 103.85266
+
+(25) - Start
+	ECRI1
+		Images:	3285
+		Time:	01.12.2024 02:46:57 until 01.12.2024 05:17:57
+		Duration:	02:31:00
+		Location:	1.29065 103.86361
+

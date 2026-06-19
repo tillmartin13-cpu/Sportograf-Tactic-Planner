@@ -1,0 +1,69 @@
+EventId: 13813
+Spots: 10
+Total Images: 41679
+Time:	17.05.2025 15:56:14 to 18.05.2025 08:47:34
+Duration: 16:51:20
+
+(1) - 0,0 km
+	CAA1
+		Images:	4821
+		Time:	18.05.2025 04:56:43 until 18.05.2025 08:20:33
+		Duration:	03:23:50
+		Location:	14.36607 120.96967
+
+	RPB1
+		Images:	4894
+		Time:	18.05.2025 05:34:48 until 18.05.2025 08:10:30
+		Duration:	02:35:42
+		Location:	14.35651 120.97611
+
+	VMM1
+		Images:	4138
+		Time:	17.05.2025 15:56:14 until 18.05.2025 08:16:10
+		Duration:	16:19:56
+		Location:	14.38281 120.95842
+
+	VMM2
+		Images:	8358
+		Time:	18.05.2025 04:57:19 until 18.05.2025 08:39:04
+		Duration:	03:41:45
+		Location:	14.38281 120.95842
+
+	VMM2LS1
+		Images:	2620
+		Time:	18.05.2025 05:25:03 until 18.05.2025 08:16:17
+		Duration:	02:51:14
+		Location:	14.38281 120.95842
+
+(2) - Start
+	JERO1
+		Images:	7146
+		Time:	18.05.2025 04:52:08 until 18.05.2025 08:47:14
+		Duration:	03:55:06
+		Location:	14.38114 120.96043
+
+	JERO2
+		Images:	2629
+		Time:	18.05.2025 04:54:13 until 18.05.2025 07:32:03
+		Duration:	02:37:50
+		Location:	14.38114 120.96043
+
+	JERO3
+		Images:	235
+		Time:	18.05.2025 04:50:07 until 18.05.2025 07:22:16
+		Duration:	02:32:09
+		Location:	14.38114 120.96043
+
+(3) - Finish
+	LMD1
+		Images:	4741
+		Time:	18.05.2025 04:41:06 until 18.05.2025 08:37:51
+		Duration:	03:56:45
+		Location:	14.38114 120.96043
+
+	LMD2
+		Images:	2097
+		Time:	18.05.2025 04:41:55 until 18.05.2025 08:47:34
+		Duration:	04:05:39
+		Location:	14.38114 120.96043
+

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "47.92712" lon = "7.02781"><name>BP1LS1</name><desc>Start
+Images:1473
+First:27.07.2025 09:45:40
+Last:27.07.2025 14:41:29
+Duration:04:55:49
+</desc></wpt>
+<wpt lat = "47.92712" lon = "7.02781"><name>BP1LS3</name><desc>Start
+Images:683
+First:27.07.2025 09:41:34
+Last:27.07.2025 13:47:54
+Duration:04:06:20
+</desc></wpt>
+<wpt lat = "47.93986" lon = "7.86846"><name>BP1</name><desc>200m after Start
+Images:3204
+First:27.07.2025 09:57:02
+Last:27.07.2025 14:17:36
+Duration:04:20:34
+</desc></wpt>
+<wpt lat = "47.93986" lon = "7.86846"><name>BP1DRONE1</name><desc>200m after Start
+Images:11
+First:27.07.2025 08:20:39
+Last:27.07.2025 10:41:22
+Duration:02:20:43
+</desc></wpt>
+<wpt lat = "47.93923" lon = "7.87028"><name>BP1LS2</name><desc>200m after Start
+Images:1407
+First:27.07.2025 09:37:21
+Last:27.07.2025 14:22:39
+Duration:04:45:18
+</desc></wpt>
+<wpt lat = "47.91418" lon = "7.88217"><name>HS1</name><desc>km7.1
+Images:2827
+First:27.07.2025 09:07:56
+Last:27.07.2025 14:30:53
+Duration:05:22:57
+</desc></wpt>
+<wpt lat = "47.91418" lon = "7.88217"><name>HS1LS2</name><desc>km7.1
+Images:1647
+First:27.07.2025 08:47:13
+Last:27.07.2025 14:40:37
+Duration:05:53:24
+</desc></wpt>
+<wpt lat = "47.91418" lon = "7.88217"><name>HS1LS1</name><desc>km7.1
+Images:2439
+First:27.07.2025 09:17:17
+Last:27.07.2025 14:41:08
+Duration:05:23:51
+</desc></wpt>
+<wpt lat = "47.91822" lon = "7.89075"><name>JBAU1</name><desc>km9.8
+Images:3726
+First:27.07.2025 10:30:58
+Last:27.07.2025 14:57:59
+Duration:04:27:01
+</desc></wpt>
+<wpt lat = "47.91024" lon = "7.89096"><name>MAPP1</name><desc>km11.2
+Images:2856
+First:27.07.2025 08:51:50
+Last:27.07.2025 15:15:32
+Duration:06:23:42
+</desc></wpt>
+<wpt lat = "47.90869" lon = "7.89205"><name>FVOR1</name><desc>Finish
+Images:2352
+First:27.07.2025 08:03:19
+Last:27.07.2025 15:16:30
+Duration:07:13:11
+</desc></wpt>
+</gpx>

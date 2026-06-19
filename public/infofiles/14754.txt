@@ -1,0 +1,97 @@
+EventId: 14754
+Spots: 15
+Total Images: 8258
+Time:	31.05.2025 07:57:23 to 01.06.2025 16:35:00
+Duration: 1.08:37:37
+
+(1) - Start
+	JKE1
+		Images:	1258
+		Time:	31.05.2025 21:27:51 until 01.06.2025 10:49:00
+		Duration:	13:21:09
+		Location:	50.71716 6.14901
+
+(2) - Impressions / Pano
+	JKE3
+		Images:	7
+		Time:	01.06.2025 07:44:00 until 01.06.2025 08:32:27
+		Duration:	00:48:27
+		Location:	50.71716 6.14901
+
+	PANO1
+(3) - 12,5km before finish
+	ALN1
+		Images:	1291
+		Time:	31.05.2025 09:07:19 until 01.06.2025 15:26:39
+		Duration:	1.06:19:20
+		Location:	50.74300 6.11945
+
+	ALN1LS1
+		Images:	336
+		Time:	01.06.2025 09:53:32 until 01.06.2025 15:27:44
+		Duration:	05:34:12
+		Location:	50.74300 6.11945
+
+	ALN1LS2
+		Images:	412
+		Time:	01.06.2025 09:25:29 until 01.06.2025 15:27:52
+		Duration:	06:02:23
+		Location:	50.74300 6.11945
+
+(4) - 8km before finish
+	NWO1
+		Images:	662
+		Time:	01.06.2025 09:57:00 until 01.06.2025 15:17:46
+		Duration:	05:20:46
+		Location:	50.74207 6.15116
+
+	NWO1LS1
+		Images:	415
+		Time:	01.06.2025 09:44:15 until 01.06.2025 15:07:55
+		Duration:	05:23:40
+		Location:	50.74207 6.15116
+
+	NWO1LS2
+		Images:	299
+		Time:	01.06.2025 09:46:48 until 01.06.2025 14:09:40
+		Duration:	04:22:52
+		Location:	50.74207 6.15116
+
+(5) - 5km before finish
+	TOG1
+		Images:	1056
+		Time:	31.05.2025 11:26:24 until 01.06.2025 15:34:01
+		Duration:	1.04:07:37
+		Location:	50.73767 6.15684
+
+	TOG1LS1
+		Images:	219
+		Time:	01.06.2025 09:36:15 until 01.06.2025 15:29:16
+		Duration:	05:53:01
+		Location:	50.73767 6.15684
+
+	TOG1LS2
+		Images:	215
+		Time:	01.06.2025 09:39:45 until 01.06.2025 15:33:59
+		Duration:	05:54:14
+		Location:	50.73767 6.15684
+
+(6) - 0.3km before finish
+	JKE2
+		Images:	1430
+		Time:	01.06.2025 11:09:19 until 01.06.2025 16:34:05
+		Duration:	05:24:46
+		Location:	50.71662 6.14584
+
+	JKE2LS1
+		Images:	332
+		Time:	01.06.2025 11:23:15 until 01.06.2025 16:35:00
+		Duration:	05:11:45
+		Location:	50.71662 6.14584
+
+	JKE2LS2
+		Images:	318
+		Time:	01.06.2025 11:32:46 until 01.06.2025 16:34:06
+		Duration:	05:01:20
+		Location:	50.71662 6.14584
+

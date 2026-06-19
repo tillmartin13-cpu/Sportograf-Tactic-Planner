@@ -1,0 +1,381 @@
+EventId: 10073
+Spots: 59
+Total Images: 107928
+Time:	05.10.2023 07:40:55 to 05.10.2023 18:03:02
+Duration: 10:22:07
+
+(1) - 14.0 km Mid Roc / Roc Tandem / Roc Masters / Rando Altitude
+	STO1
+		Images:	4234
+		Time:	05.10.2023 08:34:51 until 05.10.2023 12:46:38
+		Duration:	04:11:47
+		Location:	43.38557 6.65837
+
+	STO1LS1
+		Images:	1818
+		Time:	05.10.2023 08:26:25 until 05.10.2023 12:46:53
+		Duration:	04:20:28
+		Location:	43.38557 6.65837
+
+(2) - 15.0km Mid Roc / 15.0km Roc Tandems, 14.6km Roc Masters, 14.6km Rando Altitude
+	HS1
+		Images:	2197
+		Time:	05.10.2023 08:39:25 until 05.10.2023 12:32:39
+		Duration:	03:53:14
+		Location:	43.38440 6.65791
+
+	HS1LS1
+		Images:	1781
+		Time:	05.10.2023 08:15:23 until 05.10.2023 12:49:27
+		Duration:	04:34:04
+		Location:	43.38440 6.65791
+
+	HS1LS2
+		Images:	1799
+		Time:	05.10.2023 08:33:22 until 05.10.2023 12:51:08
+		Duration:	04:17:46
+		Location:	43.38440 6.65791
+
+(3) - 17.8km Trophy#2, 17.8km Rando Enduro
+	ROB1
+		Images:	3490
+		Time:	05.10.2023 09:52:54 until 05.10.2023 13:03:37
+		Duration:	03:10:43
+		Location:	43.40075 6.64243
+
+	ROB1LS1
+		Images:	328
+		Time:	05.10.2023 09:57:26 until 05.10.2023 13:04:28
+		Duration:	03:07:02
+		Location:	43.40075 6.64243
+
+	ROB1LS2
+		Images:	430
+		Time:	05.10.2023 09:27:55 until 05.10.2023 13:04:29
+		Duration:	03:36:34
+		Location:	43.40075 6.64243
+
+(4) - 19.5 km Mid Roc / Roc Tandem / Roc Masters / Rando Altitude
+	COR1
+		Images:	3762
+		Time:	05.10.2023 08:50:23 until 05.10.2023 13:24:43
+		Duration:	04:34:20
+		Location:	43.36733 6.66367
+
+	COR1LS1
+		Images:	1117
+		Time:	05.10.2023 08:37:59 until 05.10.2023 13:13:11
+		Duration:	04:35:12
+		Location:	43.36733 6.66367
+
+	COR1LS2
+		Images:	1569
+		Time:	05.10.2023 08:41:20 until 05.10.2023 13:12:55
+		Duration:	04:31:35
+		Location:	43.36733 6.66367
+
+(5) - 21km Roc Masters / Rando Altitude, Tri Roc
+	JH1
+		Images:	3037
+		Time:	05.10.2023 11:02:38 until 05.10.2023 14:59:32
+		Duration:	03:56:54
+		Location:	43.36548 6.68169
+
+	JH1LS1
+		Images:	1036
+		Time:	05.10.2023 10:48:12 until 05.10.2023 15:06:03
+		Duration:	04:17:51
+		Location:	43.36548 6.68169
+
+	JH1LS2
+		Images:	1087
+		Time:	05.10.2023 10:35:26 until 05.10.2023 15:05:04
+		Duration:	04:29:38
+		Location:	43.36548 6.68169
+
+(6) - 26.5km Mid Roc / Roc Tandem, 32.0km Roc Masters, 28.0km Rando Altitude, Tri Roc
+	MANR1
+		Images:	2367
+		Time:	05.10.2023 08:29:05 until 05.10.2023 16:17:52
+		Duration:	07:48:47
+		Location:	43.39537 6.70596
+
+	MANR1LS1
+		Images:	2345
+		Time:	05.10.2023 08:13:23 until 05.10.2023 16:12:13
+		Duration:	07:58:50
+		Location:	43.39537 6.70596
+
+	MANR1LS2
+		Images:	2352
+		Time:	05.10.2023 08:06:27 until 05.10.2023 16:11:54
+		Duration:	08:05:27
+		Location:	43.39537 6.70596
+
+(7) - 26km Mid Roc / Roc Tandem, 31.5km Roc Masters, 27.5km Rando Altitude, Tri Roc
+	JLTG1
+		Images:	5301
+		Time:	05.10.2023 08:31:14 until 05.10.2023 16:22:41
+		Duration:	07:51:27
+		Location:	43.39203 6.70425
+
+	JLTG1LS1
+		Images:	2022
+		Time:	05.10.2023 08:10:13 until 05.10.2023 14:41:46
+		Duration:	06:31:33
+		Location:	43.39203 6.70425
+
+	JLTG1LS2
+		Images:	1835
+		Time:	05.10.2023 08:16:50 until 05.10.2023 16:21:00
+		Duration:	08:04:10
+		Location:	43.39203 6.70425
+
+(8) - 27.0km Mid Roc / Roc Tandem, 32.5km Roc Masters, 28.5km Rando Altitude, Tri Roc
+	DARO1
+		Images:	1589
+		Time:	05.10.2023 08:53:35 until 05.10.2023 16:21:05
+		Duration:	07:27:30
+		Location:	43.40054 6.69948
+
+	DARO1LS1
+		Images:	2317
+		Time:	05.10.2023 08:16:39 until 05.10.2023 16:29:24
+		Duration:	08:12:45
+		Location:	43.40054 6.69948
+
+	DARO1LS2
+		Images:	2536
+		Time:	05.10.2023 08:19:02 until 05.10.2023 16:27:22
+		Duration:	08:08:20
+		Location:	43.40054 6.69948
+
+(9) - 27.5km Mid Roc / Tandem, 33.0km Roc Masters, 29.0km Rando Altitude, Tri Roc
+	MIFP1
+		Images:	4460
+		Time:	05.10.2023 08:37:49 until 05.10.2023 16:34:59
+		Duration:	07:57:10
+		Location:	43.40208 6.70507
+
+	MIFP1LS1
+		Images:	1827
+		Time:	05.10.2023 07:58:00 until 05.10.2023 16:39:06
+		Duration:	08:41:06
+		Location:	43.40208 6.70507
+
+(10) - 30.1km Mid Roc, 36.6km Rando Altitude
+	BATI2
+		Images:	1656
+		Time:	05.10.2023 11:10:24 until 05.10.2023 14:09:56
+		Duration:	02:59:32
+		Location:	43.39116 6.73113
+
+(11) - 30.4km Mid Roc, 36.9km Rando Altitude
+	BATI1
+		Images:	1048
+		Time:	05.10.2023 09:38:38 until 05.10.2023 16:50:55
+		Duration:	07:12:17
+		Location:	43.39245 6.72860
+
+(12) - 30.5km Mid Roc / 30.5km Roc Tandems, 38.8km Roc Masters, 37.0km Rando Altitude, 25.0km Tri Roc
+	DDF1
+		Images:	7465
+		Time:	05.10.2023 09:01:02 until 05.10.2023 16:59:33
+		Duration:	07:58:31
+		Location:	43.39366 6.72784
+
+(13) - 30.5km Mid Roc, 36.5km Rando Altitude
+	COR1LS3
+		Images:	643
+		Time:	05.10.2023 14:13:21 until 05.10.2023 16:28:24
+		Duration:	02:15:03
+		Location:	43.39089 6.72933
+
+	COR1LS4
+		Images:	540
+		Time:	05.10.2023 14:16:35 until 05.10.2023 16:28:25
+		Duration:	02:11:50
+		Location:	43.39089 6.72933
+
+	PKA1
+		Images:	1814
+		Time:	05.10.2023 10:10:23 until 05.10.2023 16:53:36
+		Duration:	06:43:13
+		Location:	43.39089 6.72933
+
+(14) - 35.7km Trophy#2, 29.9km Rando Enduro
+	MATR2
+		Images:	1803
+		Time:	05.10.2023 10:51:01 until 05.10.2023 15:24:07
+		Duration:	04:33:06
+		Location:	43.43450 6.63450
+
+	MATR2DRONE1
+		Images:	25
+		Time:	05.10.2023 11:29:54 until 05.10.2023 11:41:15
+		Duration:	00:11:21
+		Location:	43.43450 6.63450
+
+	MATR2LS1
+		Images:	1114
+		Time:	05.10.2023 10:07:22 until 05.10.2023 15:31:29
+		Duration:	05:24:07
+		Location:	43.43450 6.63450
+
+(15) - 36.6km Trophy#2, 36.6km Rando Enduro
+	BRN2
+		Images:	1276
+		Time:	05.10.2023 10:21:48 until 05.10.2023 15:28:41
+		Duration:	05:06:53
+		Location:	43.43936 6.63346
+
+	BRN2LS1
+		Images:	744
+		Time:	05.10.2023 10:53:13 until 05.10.2023 15:28:41
+		Duration:	04:35:28
+		Location:	43.43936 6.63346
+
+(16) - 4.2km Trophy#2, 4.2km Rando Enduro
+	MATR1
+		Images:	567
+		Time:	05.10.2023 08:46:00 until 05.10.2023 10:03:20
+		Duration:	01:17:20
+		Location:	43.42241 6.64422
+
+(17) - 5.0km Trophy#2, 5.0km Rando Enduro
+	BRN1
+		Images:	339
+		Time:	05.10.2023 09:10:31 until 05.10.2023 09:25:54
+		Duration:	00:15:23
+		Location:	43.42631 6.64742
+
+	BRN1LS1
+		Images:	288
+		Time:	05.10.2023 08:44:08 until 05.10.2023 09:30:09
+		Duration:	00:46:01
+		Location:	43.42631 6.64742
+
+(18) - 9.1km Mid Roc / 9.1km Roc Tandems, 8.7km Roc Masters, 8.4km Rando Altitude, 9.1km Tri Roc
+	EP2
+		Images:	938
+		Time:	05.10.2023 12:55:32 until 05.10.2023 14:44:37
+		Duration:	01:49:05
+		Location:	43.38924 6.69304
+
+	MLU1
+		Images:	6556
+		Time:	05.10.2023 07:40:55 until 05.10.2023 11:29:59
+		Duration:	03:49:04
+		Location:	43.38928 6.69344
+
+	MLU1DRONE1
+		Images:	15
+		Time:	05.10.2023 09:30:10 until 05.10.2023 09:53:35
+		Duration:	00:23:25
+		Location:	43.38928 6.69344
+
+	MLU1LS1
+		Images:	1941
+		Time:	05.10.2023 07:54:28 until 05.10.2023 11:25:39
+		Duration:	03:31:11
+		Location:	43.38928 6.69344
+
+	MLU1LS2
+		Images:	2942
+		Time:	05.10.2023 08:12:00 until 05.10.2023 11:27:09
+		Duration:	03:15:09
+		Location:	43.38928 6.69344
+
+(19) - 9.2km Trophy#2, 9.2km Rando Enduro
+	MAGA1
+		Images:	1197
+		Time:	05.10.2023 08:49:23 until 05.10.2023 11:54:14
+		Duration:	03:04:51
+		Location:	43.40322 6.64324
+
+	MAGA1LS1
+		Images:	962
+		Time:	05.10.2023 08:49:25 until 05.10.2023 11:53:08
+		Duration:	03:03:43
+		Location:	43.40322 6.64324
+
+(20) - 9.3km Mid Roc / 9.3km Roc Tandems, 8.9km Roc Masters, 8.6km Rando Altitude, 9.3km Tri Roc
+	EP1
+		Images:	3972
+		Time:	05.10.2023 08:24:49 until 05.10.2023 11:44:42
+		Duration:	03:19:53
+		Location:	43.38790 6.69202
+
+	EP2LS1
+		Images:	741
+		Time:	05.10.2023 12:23:26 until 05.10.2023 14:48:58
+		Duration:	02:25:32
+		Location:	43.38790 6.69202
+
+(21) - 9.5km Mid Roc / 9.5km Roc Tandems, 9.1km Roc Masters, 9.1km Rando Altitude
+	EP1LS1
+		Images:	2030
+		Time:	05.10.2023 08:12:44 until 05.10.2023 12:06:05
+		Duration:	03:53:21
+		Location:	43.38849 6.69114
+
+	EP1LS2
+		Images:	2015
+		Time:	05.10.2023 08:18:15 until 05.10.2023 12:06:57
+		Duration:	03:48:42
+		Location:	43.38849 6.69114
+
+(22) - Finish
+	JJPT2
+		Images:	4253
+		Time:	05.10.2023 09:48:03 until 05.10.2023 18:03:02
+		Duration:	08:14:59
+		Location:	43.41826 6.73449
+
+(23) - Impressions / Pano
+	COR1DRONE1
+		Images:	21
+		Time:	05.10.2023 08:59:42 until 05.10.2023 09:07:41
+		Duration:	00:07:59
+		Location:	43.36733 6.66367
+
+	PANO1
+(24) - Start
+	JJPT1
+		Images:	114
+		Time:	05.10.2023 07:51:58 until 05.10.2023 08:15:33
+		Duration:	00:23:35
+		Location:	43.41826 6.73449
+
+(25) - Tri Roc Run
+	MLU3
+		Images:	2869
+		Time:	05.10.2023 14:44:48 until 05.10.2023 17:37:45
+		Duration:	02:52:57
+		Location:	43.41223 6.73584
+
+	MLU3LS1
+		Images:	441
+		Time:	05.10.2023 14:26:38 until 05.10.2023 17:51:04
+		Duration:	03:24:26
+		Location:	43.41169 6.73562
+
+	MLU3LS2
+		Images:	218
+		Time:	05.10.2023 14:38:47 until 05.10.2023 17:12:37
+		Duration:	02:33:50
+		Location:	43.41223 6.73584
+
+(26) - Tri Roc Swimm
+	MLU2
+		Images:	717
+		Time:	05.10.2023 12:39:54 until 05.10.2023 13:49:25
+		Duration:	01:09:31
+		Location:	43.41530 6.74250
+
+	MLU2DRONE1
+		Images:	28
+		Time:	05.10.2023 12:55:58 until 05.10.2023 13:03:06
+		Duration:	00:07:08
+		Location:	43.41530 6.74250
+

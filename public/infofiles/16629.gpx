@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "47.28606" lon = "11.39911"><name>COR1</name><desc>Start
+Images:144
+First:01.05.2025 09:21:06
+Last:01.05.2025 10:00:24
+Duration:00:39:18
+</desc></wpt>
+<wpt lat = "47.30241" lon = "11.37618"><name>CHR1LS1</name><desc>500m Before Finish
+Images:421
+First:01.05.2025 08:12:16
+Last:01.05.2025 12:57:03
+Duration:04:44:47
+</desc></wpt>
+<wpt lat = "47.30241" lon = "11.37618"><name>CHR1LS2</name><desc>500m Before Finish
+Images:423
+First:01.05.2025 09:55:39
+Last:01.05.2025 12:57:07
+Duration:03:01:28
+</desc></wpt>
+<wpt lat = "47.30241" lon = "11.37618"><name>CHR1</name><desc>500m Before Finish
+Images:1690
+First:01.05.2025 09:24:49
+Last:01.05.2025 13:14:28
+Duration:03:49:39
+</desc></wpt>
+<wpt lat = "47.30538" lon = "11.37802"><name>COR2LS1</name><desc>100m Before Finish
+Images:4126
+First:01.05.2025 10:24:05
+Last:01.05.2025 13:10:42
+Duration:02:46:37
+</desc></wpt>
+<wpt lat = "47.30538" lon = "11.37802"><name>COR2LS2</name><desc>100m Before Finish
+Images:4015
+First:01.05.2025 10:24:05
+Last:01.05.2025 13:10:42
+Duration:02:46:37
+</desc></wpt>
+<wpt lat = "47.30625" lon = "11.37770"><name>COR2</name><desc>Finish
+Images:1617
+First:01.05.2025 10:13:49
+Last:01.05.2025 13:24:32
+Duration:03:10:43
+</desc></wpt>
+<wpt lat = "47.30625" lon = "11.37770"><name>COR2DRONE1</name><desc>Finish
+Images:9
+First:01.05.2025 11:36:39
+Last:01.05.2025 11:38:18
+Duration:00:01:39
+</desc></wpt>
+</gpx>

@@ -1,0 +1,102 @@
+EventId: 14345
+Spots: 15
+Total Images: 40599
+Time:	05.12.2025 20:07:13 to 06.12.2025 11:58:52
+Duration: 15:51:39
+
+(1) - Water Drams
+	ARP1
+		Images:	4639
+		Time:	06.12.2025 08:09:56 until 06.12.2025 10:39:08
+		Duration:	02:29:12
+		Location:	28.91915 48.14164
+
+(2) - Sand Crawling
+	BUR1
+		Images:	2958
+		Time:	06.12.2025 07:19:01 until 06.12.2025 11:56:49
+		Duration:	04:37:48
+		Location:	28.91899 48.14143
+
+(3) - Chains carry
+	AAM1
+		Images:	4704
+		Time:	05.12.2025 20:07:13 until 05.12.2025 22:45:44
+		Duration:	02:38:31
+		Location:	28.91984 48.13644
+
+(4) - Mud Crawling
+	GOR1
+		Images:	5036
+		Time:	06.12.2025 07:18:58 until 06.12.2025 11:58:52
+		Duration:	04:39:54
+		Location:	28.91939 48.13663
+
+(5) - Barrels Crawling
+	GOR1LS2
+		Images:	1733
+		Time:	06.12.2025 07:47:07 until 06.12.2025 10:55:25
+		Duration:	03:08:18
+		Location:	28.91939 48.13663
+
+	GOR1LS1
+		Images:	594
+		Time:	06.12.2025 07:59:38 until 06.12.2025 08:31:36
+		Duration:	00:31:58
+		Location:	28.91939 48.13663
+
+(6) - Saracen Balance
+	SA1
+		Images:	5191
+		Time:	06.12.2025 08:13:44 until 06.12.2025 10:57:22
+		Duration:	02:43:38
+		Location:	28.91939 48.13663
+
+(7) - Sand Bag Carry
+	SA1LS2
+		Images:	1634
+		Time:	06.12.2025 08:10:20 until 06.12.2025 09:46:13
+		Duration:	01:35:53
+		Location:	28.91939 48.13663
+
+	SA1LS1
+		Images:	3338
+		Time:	06.12.2025 08:08:59 until 06.12.2025 09:45:24
+		Duration:	01:36:25
+		Location:	28.91939 48.13663
+
+(8) - A Frame
+	SADH1
+		Images:	1884
+		Time:	06.12.2025 07:26:19 until 06.12.2025 11:38:25
+		Duration:	04:12:06
+		Location:	28.91885 48.13756
+
+(9) - Cheese Monkey Bar
+	SAQ1
+		Images:	3603
+		Time:	06.12.2025 07:20:30 until 06.12.2025 10:59:56
+		Duration:	03:39:26
+		Location:	28.91939 48.13663
+
+(10) - Finish
+	ARP2
+		Images:	719
+		Time:	06.12.2025 10:48:44 until 06.12.2025 11:52:47
+		Duration:	01:04:03
+		Location:	28.92153 48.14056
+
+	AZF1
+		Images:	4512
+		Time:	06.12.2025 06:58:14 until 06.12.2025 11:55:38
+		Duration:	04:57:24
+		Location:	28.92153 48.14056
+
+(11) - Impressions / Pano
+	PANO1
+	ARP1IMP1
+		Images:	54
+		Time:	06.12.2025 07:13:49 until 06.12.2025 10:41:09
+		Duration:	03:27:20
+		Location:	28.92153 48.14056
+

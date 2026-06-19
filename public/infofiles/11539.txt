@@ -1,0 +1,20 @@
+EventId: 11539
+Spots: 2
+Total Images: 2570
+Time:	07.09.2024 09:59:40 to 07.09.2024 16:05:53
+Duration: 06:06:13
+
+(1) - Finish
+	COK4
+		Images:	2228
+		Time:	07.09.2024 11:06:38 until 07.09.2024 16:05:53
+		Duration:	04:59:15
+		Location:	47.01192 10.28593
+
+(2) - Start
+	COK3
+		Images:	342
+		Time:	07.09.2024 09:59:40 until 07.09.2024 10:58:43
+		Duration:	00:59:03
+		Location:	47.01227 10.28566
+

@@ -1,0 +1,117 @@
+EventId: 16927
+Spots: 18
+Total Images: 8399
+Time:	09.05.2025 22:54:10 to 11.05.2025 13:18:11
+Duration: 1.14:24:01
+
+(1) - Obstacle 2 Mount Neverrest
+	ALN1
+		Images:	903
+		Time:	10.05.2025 11:21:37 until 10.05.2025 11:28:00
+		Duration:	00:06:23
+		Location:	50.32757 6.93821
+
+	ALN2LS1
+		Images:	925
+		Time:	10.05.2025 11:00:13 until 10.05.2025 11:29:17
+		Duration:	00:29:04
+		Location:	50.32757 6.93821
+
+(2) - Obstacle 1 Drehwurm
+	ALN1LS2
+		Images:	1062
+		Time:	10.05.2025 10:50:24 until 10.05.2025 11:29:17
+		Duration:	00:38:53
+		Location:	50.32688 6.93778
+
+	ALN1LS1
+		Images:	150
+		Time:	10.05.2025 10:47:26 until 10.05.2025 11:26:09
+		Duration:	00:38:43
+		Location:	50.32688 6.93778
+
+(3) - Obstacle 19 Rutsche Tribüne
+	ANR1
+		Images:	995
+		Time:	10.05.2025 10:26:23 until 10.05.2025 12:50:51
+		Duration:	02:24:28
+		Location:	50.32584 6.93558
+
+	AZI1
+		Images:	806
+		Time:	10.05.2025 11:56:17 until 10.05.2025 12:42:51
+		Duration:	00:46:34
+		Location:	50.32584 6.93558
+
+	MB2
+		Images:	192
+		Time:	10.05.2025 11:45:07 until 10.05.2025 12:28:07
+		Duration:	00:43:00
+		Location:	50.32584 6.93558
+
+	VIT1
+		Images:	620
+		Time:	10.05.2025 11:59:50 until 10.05.2025 12:43:35
+		Duration:	00:43:45
+		Location:	50.32584 6.93558
+
+(4) - Finish
+	DRI1
+	DRI1LS2
+		Images:	475
+		Time:	11.05.2025 11:57:22 until 11.05.2025 13:18:11
+		Duration:	01:20:49
+		Location:	50.32584 6.93558
+
+	DRI1LS1
+		Images:	384
+		Time:	10.05.2025 12:02:07 until 10.05.2025 13:55:13
+		Duration:	01:53:06
+		Location:	50.32584 6.93558
+
+	HJS1
+		Images:	333
+		Time:	10.05.2025 11:32:39 until 10.05.2025 12:55:51
+		Duration:	01:23:12
+		Location:	50.32584 6.93558
+
+(5) - Start
+	MB1
+		Images:	68
+		Time:	10.05.2025 11:02:33 until 10.05.2025 11:21:51
+		Duration:	00:19:18
+		Location:	50.32584 6.93558
+
+	NBA1
+		Images:	193
+		Time:	10.05.2025 10:22:30 until 10.05.2025 11:21:27
+		Duration:	00:58:57
+		Location:	50.32584 6.93558
+
+(6) - Herotent
+	NBA2
+		Images:	119
+		Time:	10.05.2025 11:29:34 until 10.05.2025 12:56:29
+		Duration:	01:26:55
+		Location:	50.32584 6.93301
+
+(7) - Obstacle 21 Waschstraße
+	OP1
+		Images:	760
+		Time:	09.05.2025 22:55:00 until 10.05.2025 13:48:56
+		Duration:	14:53:56
+		Location:	50.32584 6.93558
+
+	OP1LS1
+		Images:	117
+		Time:	09.05.2025 22:54:10 until 10.05.2025 13:13:54
+		Duration:	14:19:44
+		Location:	50.32584 6.93558
+
+(8) - Obstacle 18  Woodland
+	GAC1
+		Images:	297
+		Time:	09.05.2025 23:12:56 until 10.05.2025 12:49:23
+		Duration:	13:36:27
+		Location:	50.32584 6.93558
+

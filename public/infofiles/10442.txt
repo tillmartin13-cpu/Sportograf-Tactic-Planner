@@ -1,0 +1,107 @@
+EventId: 10442
+Spots: 18
+Total Images: 98474
+Time:	07.10.2023 06:11:32 to 07.10.2023 14:24:26
+Duration: 08:12:54
+
+(1) - 0.0 km
+	SG1
+(2) - 0.0 km Antonio cadena, 852671 finish
+	AC1
+		Images:	14059
+		Time:	07.10.2023 07:08:30 until 07.10.2023 14:24:26
+		Duration:	07:15:56
+		Location:	NULL NULL
+
+(3) - 0.0 km Chantel Dewar, MSC 2, 852685
+	CD1
+		Images:	6007
+		Time:	07.10.2023 07:16:55 until 07.10.2023 11:45:27
+		Duration:	04:28:32
+		Location:	NULL NULL
+
+(4) - 0.0 km Desmond Tan, 852687, msc 3 card 1
+	DT1
+		Images:	15560
+		Time:	07.10.2023 07:32:55 until 07.10.2023 10:45:09
+		Duration:	03:12:14
+		Location:	NULL NULL
+
+(5) - 0.0 km Desmond tan, 852687, msc 3 card 2
+	DX1
+		Images:	2233
+		Time:	07.10.2023 07:32:55 until 07.10.2023 08:14:34
+		Duration:	00:41:39
+		Location:	NULL NULL
+
+(6) - 0.0 km Eric Reder, 852683, msc 1, card 2
+	ERT1
+		Images:	6717
+		Time:	07.10.2023 06:45:28 until 07.10.2023 09:24:47
+		Duration:	02:39:19
+		Location:	NULL NULL
+
+(7) - 0.0 km Eric Reeder, 852669 pfn
+	RE1
+(8) - 0.0 km Eric Reeder, 852683, msc1, card 1
+	ER1
+		Images:	350
+		Time:	07.10.2023 09:25:24 until 07.10.2023 09:35:21
+		Duration:	00:09:57
+		Location:	NULL NULL
+
+(9) - 0.0 km Finisher trigger, 852673
+	FT1
+(10) - 0.0 km Grant Chaffin, pfn, 852670
+	GC1
+		Images:	5684
+		Time:	07.10.2023 06:48:21 until 07.10.2023 12:35:33
+		Duration:	05:47:12
+		Location:	NULL NULL
+
+(11) - 0.0 km Hunter Able medals 852679
+	HA1
+(12) - 0.0 km Joshua Gulizia, 852682, msc 1 card 2
+	JGT1
+		Images:	1226
+		Time:	07.10.2023 06:44:02 until 07.10.2023 13:46:15
+		Duration:	07:02:13
+		Location:	NULL NULL
+
+(13) - 0.0 km Joshua Gulizia, 852682, msc1 card 1
+	JG1
+		Images:	6554
+		Time:	07.10.2023 08:20:06 until 07.10.2023 10:41:28
+		Duration:	02:21:22
+		Location:	NULL NULL
+
+(14) - 0.0 km Katie Hope, 852689, msc4
+	KH1
+		Images:	11172
+		Time:	07.10.2023 07:51:51 until 07.10.2023 12:58:04
+		Duration:	05:06:13
+		Location:	NULL NULL
+
+(15) - 0.0 km Phillip reyes, 852668, pfn
+	PR1
+		Images:	8645
+		Time:	07.10.2023 06:11:32 until 07.10.2023 13:56:06
+		Duration:	07:44:34
+		Location:	NULL NULL
+
+(16) - 0.0 km Shadi, 852678, medal
+	SX1
+		Images:	1240
+		Time:	07.10.2023 06:30:30 until 07.10.2023 12:27:53
+		Duration:	05:57:23
+		Location:	NULL NULL
+
+(17) - Impressions / Pano
+	PANO1
+(18) - none
+	PFT1
+		Images:	19027
+		Time:	07.10.2023 08:03:44 until 07.10.2023 13:54:42
+		Duration:	05:50:58
+		Location:	NULL NULL
+

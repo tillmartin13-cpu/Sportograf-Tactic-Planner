@@ -1,0 +1,276 @@
+EventId: 9083
+Spots: 44
+Total Images: 477205
+Time:	23.04.2023 08:27:30 to 23.04.2023 17:22:11
+Duration: 08:54:41
+
+(1) - A. Van Cauwelaert
+	LMC2
+		Images:	14114
+		Time:	23.04.2023 13:36:57 until 23.04.2023 15:13:13
+		Duration:	01:36:16
+		Location:	51.22015 4.37559
+
+	PBO2
+		Images:	5613
+		Time:	23.04.2023 12:59:36 until 23.04.2023 15:10:31
+		Duration:	02:10:55
+		Location:	51.22015 4.37559
+
+(2) - August Vermeylenlaan
+	DAV1
+		Images:	7159
+		Time:	23.04.2023 11:56:04 until 23.04.2023 17:08:04
+		Duration:	05:12:00
+		Location:	51.22780 4.37843
+
+	DAV1LS1
+		Images:	7018
+		Time:	23.04.2023 11:15:17 until 23.04.2023 17:10:35
+		Duration:	05:55:18
+		Location:	51.22780 4.37843
+
+	TOV1
+		Images:	3677
+		Time:	23.04.2023 11:27:42 until 23.04.2023 16:53:10
+		Duration:	05:25:28
+		Location:	51.22780 4.37843
+
+(3) - Finish
+	MAR1
+		Images:	9369
+		Time:	23.04.2023 11:03:34 until 23.04.2023 17:20:34
+		Duration:	06:17:00
+		Location:	51.22969 4.38622
+
+	TID1
+		Images:	11125
+		Time:	23.04.2023 11:23:15 until 23.04.2023 17:21:35
+		Duration:	05:58:20
+		Location:	51.22969 4.38622
+
+	TLA1
+		Images:	22423
+		Time:	23.04.2023 11:50:55 until 23.04.2023 17:22:11
+		Duration:	05:31:16
+		Location:	51.22969 4.38622
+
+(4) - Galgenweel
+	LMC1
+		Images:	5000
+		Time:	23.04.2023 10:13:31 until 23.04.2023 13:36:56
+		Duration:	03:23:25
+		Location:	51.21743 4.37726
+
+	PBO1
+		Images:	1842
+		Time:	23.04.2023 08:27:30 until 23.04.2023 12:25:44
+		Duration:	03:58:14
+		Location:	51.21743 4.37726
+
+(5) - Godefriduskaai
+	CL1
+		Images:	14981
+		Time:	23.04.2023 13:57:18 until 23.04.2023 16:35:13
+		Duration:	02:37:55
+		Location:	51.22808 4.40873
+
+	CL1LS1
+		Images:	9038
+		Time:	23.04.2023 13:33:07 until 23.04.2023 16:35:01
+		Duration:	03:01:54
+		Location:	51.22808 4.40873
+
+	CL1LS2
+		Images:	9059
+		Time:	23.04.2023 13:32:52 until 23.04.2023 16:53:24
+		Duration:	03:20:32
+		Location:	51.22808 4.40873
+
+	DRI1
+		Images:	31813
+		Time:	23.04.2023 13:41:03 until 23.04.2023 16:36:03
+		Duration:	02:55:00
+		Location:	51.22815 4.40714
+
+	DRI1LS1
+		Images:	24125
+		Time:	23.04.2023 13:38:44 until 23.04.2023 16:37:41
+		Duration:	02:58:57
+		Location:	51.22815 4.40714
+
+	DRI1LS2
+		Images:	7146
+		Time:	23.04.2023 13:39:14 until 23.04.2023 16:50:17
+		Duration:	03:11:03
+		Location:	51.22815 4.40714
+
+	THL1
+		Images:	19637
+		Time:	23.04.2023 12:57:40 until 23.04.2023 16:36:47
+		Duration:	03:39:07
+		Location:	51.22814 4.41073
+
+	THL1LS1
+		Images:	3031
+		Time:	23.04.2023 13:51:08 until 23.04.2023 16:36:26
+		Duration:	02:45:18
+		Location:	51.22814 4.41073
+
+	THL1LS2
+		Images:	4484
+		Time:	23.04.2023 13:44:26 until 23.04.2023 16:36:38
+		Duration:	02:52:12
+		Location:	51.22814 4.41073
+
+(6) - Grote Markt
+	MARS1
+		Images:	33101
+		Time:	23.04.2023 13:30:54 until 23.04.2023 16:16:02
+		Duration:	02:45:08
+		Location:	51.22132 4.39955
+
+	STL1
+		Images:	4728
+		Time:	23.04.2023 13:00:14 until 23.04.2023 16:16:02
+		Duration:	03:15:48
+		Location:	51.22133 4.40042
+
+	VL1
+		Images:	6491
+		Time:	23.04.2023 13:31:26 until 23.04.2023 16:17:08
+		Duration:	02:45:42
+		Location:	51.22133 4.40042
+
+	WEN1
+		Images:	19604
+		Time:	23.04.2023 11:29:28 until 23.04.2023 16:21:02
+		Duration:	04:51:34
+		Location:	51.22138 4.39998
+
+(7) - Impressions / Pano
+	PANO1
+(8) - Koninklijk Museum
+	DEW1
+		Images:	5240
+		Time:	23.04.2023 11:55:37 until 23.04.2023 15:35:04
+		Duration:	03:39:27
+		Location:	51.20915 4.39400
+
+	MW1
+		Images:	10361
+		Time:	23.04.2023 13:23:55 until 23.04.2023 15:59:51
+		Duration:	02:35:56
+		Location:	51.20915 4.39400
+
+	NEZ1
+		Images:	11035
+		Time:	23.04.2023 13:51:29 until 23.04.2023 15:59:03
+		Duration:	02:07:34
+		Location:	51.20941 4.39400
+
+	NEZ1LS1
+		Images:	4700
+		Time:	23.04.2023 13:07:09 until 23.04.2023 16:03:27
+		Duration:	02:56:18
+		Location:	51.20941 4.39400
+
+	NEZ1LS2
+		Images:	10300
+		Time:	23.04.2023 13:10:41 until 23.04.2023 16:00:23
+		Duration:	02:49:42
+		Location:	51.20941 4.39400
+
+(9) - Lambermont monument
+	APL1
+		Images:	24896
+		Time:	23.04.2023 12:08:29 until 23.04.2023 15:59:23
+		Duration:	03:50:54
+		Location:	51.20738 4.39142
+
+	CV1
+		Images:	18862
+		Time:	23.04.2023 13:30:35 until 23.04.2023 15:58:44
+		Duration:	02:28:09
+		Location:	51.20689 4.39148
+
+	CV1LS1
+		Images:	2901
+		Time:	23.04.2023 13:51:11 until 23.04.2023 15:59:25
+		Duration:	02:08:14
+		Location:	51.20689 4.39148
+
+	GAC1
+		Images:	16495
+		Time:	23.04.2023 11:18:31 until 23.04.2023 15:58:13
+		Duration:	04:39:42
+		Location:	51.20700 4.39076
+
+	LUGR1
+		Images:	6579
+		Time:	23.04.2023 10:57:21 until 23.04.2023 15:57:39
+		Duration:	05:00:18
+		Location:	51.20673 4.39050
+
+	ST1
+		Images:	13141
+		Time:	23.04.2023 12:33:06 until 23.04.2023 15:58:34
+		Duration:	03:25:28
+		Location:	51.20731 4.39157
+
+	ST1LS1
+		Images:	5610
+		Time:	23.04.2023 13:02:06 until 23.04.2023 15:40:48
+		Duration:	02:38:42
+		Location:	51.20731 4.39157
+
+	ST1LS2
+		Images:	8632
+		Time:	23.04.2023 13:17:53 until 23.04.2023 15:41:11
+		Duration:	02:23:18
+		Location:	51.20731 4.39157
+
+(10) - Stadskaai
+	AG1
+		Images:	22036
+		Time:	23.04.2023 13:54:48 until 23.04.2023 16:00:02
+		Duration:	02:05:14
+		Location:	51.22114 4.39762
+
+	AG1LS1
+		Images:	3596
+		Time:	23.04.2023 14:02:55 until 23.04.2023 16:03:12
+		Duration:	02:00:17
+		Location:	51.22114 4.39762
+
+	NIG1
+		Images:	9473
+		Time:	23.04.2023 13:31:45 until 23.04.2023 16:14:41
+		Duration:	02:42:56
+		Location:	51.22095 4.39831
+
+	SJA1
+		Images:	8027
+		Time:	23.04.2023 13:55:16 until 23.04.2023 16:14:41
+		Duration:	02:19:25
+		Location:	51.22128 4.39714
+
+	SSW1
+		Images:	9435
+		Time:	23.04.2023 13:30:42 until 23.04.2023 16:14:37
+		Duration:	02:43:55
+		Location:	51.22095 4.39831
+
+(11) - Vlinderpaleis
+	JAD1
+		Images:	8900
+		Time:	23.04.2023 13:29:00 until 23.04.2023 15:55:03
+		Duration:	02:26:03
+		Location:	51.20493 4.38829
+
+	OP1
+		Images:	2408
+		Time:	23.04.2023 13:38:21 until 23.04.2023 15:52:18
+		Duration:	02:13:57
+		Location:	51.20493 4.38829
+

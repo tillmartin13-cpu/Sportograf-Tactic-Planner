@@ -1,0 +1,306 @@
+EventId: 13099
+Spots: 53
+Total Images: 793285
+Time:	31.12.2013 19:00:15 to 22.05.2024 02:40:54
+Duration: 3794.07:40:39
+
+(1) - 0.0 km
+	AAD1
+		Images:	13287
+		Time:	05.05.2024 09:29:59 until 05.05.2024 14:14:57
+		Duration:	04:44:58
+		Location:	NULL NULL
+
+	AAD1LS1
+		Images:	10515
+		Time:	05.05.2024 09:30:18 until 05.05.2024 13:30:07
+		Duration:	03:59:49
+		Location:	NULL NULL
+
+	ACU1
+		Images:	12210
+		Time:	05.05.2024 07:38:17 until 05.05.2024 10:27:22
+		Duration:	02:49:05
+		Location:	NULL NULL
+
+	ACUB1
+		Images:	6567
+		Time:	05.05.2024 11:57:42 until 05.05.2024 14:50:14
+		Duration:	02:52:32
+		Location:	NULL NULL
+
+	ADD1
+	ADD1LS1
+	AKR1
+		Images:	22072
+		Time:	05.05.2024 07:51:06 until 05.05.2024 12:26:57
+		Duration:	04:35:51
+		Location:	NULL NULL
+
+	AZE1
+		Images:	12534
+		Time:	05.05.2024 10:55:00 until 05.05.2024 13:49:29
+		Duration:	02:54:29
+		Location:	NULL NULL
+
+	CBI1
+		Images:	1108
+		Time:	05.05.2024 06:57:30 until 05.05.2024 07:46:06
+		Duration:	00:48:36
+		Location:	NULL NULL
+
+	CBIB1
+		Images:	8523
+		Time:	21.05.2024 22:24:46 until 22.05.2024 02:40:54
+		Duration:	04:16:08
+		Location:	NULL NULL
+
+	CBIC1
+		Images:	6699
+		Time:	05.05.2024 07:48:09 until 21.05.2024 22:16:34
+		Duration:	16.14:28:25
+		Location:	NULL NULL
+
+	CCU1
+		Images:	31318
+		Time:	05.05.2024 11:31:41 until 05.05.2024 15:47:45
+		Duration:	04:16:04
+		Location:	NULL NULL
+
+	CCU1LS1
+		Images:	14167
+		Time:	05.05.2024 06:34:35 until 05.05.2024 08:42:04
+		Duration:	02:07:29
+		Location:	NULL NULL
+
+	CDS1
+		Images:	6555
+		Time:	05.05.2024 08:22:48 until 05.05.2024 11:59:59
+		Duration:	03:37:11
+		Location:	NULL NULL
+
+	CFE1
+		Images:	2335
+		Time:	06.10.2023 03:20:26 until 06.10.2023 06:42:44
+		Duration:	03:22:18
+		Location:	NULL NULL
+
+	CFEB1
+		Images:	2461
+		Time:	06.10.2023 08:10:03 until 06.10.2023 10:23:06
+		Duration:	02:13:03
+		Location:	NULL NULL
+
+	CMC1
+		Images:	35568
+		Time:	17.03.2024 11:44:13 until 05.05.2024 12:10:00
+		Duration:	49.00:25:47
+		Location:	NULL NULL
+
+	DKE1
+		Images:	36453
+		Time:	05.05.2024 10:10:01 until 05.05.2024 16:42:38
+		Duration:	06:32:37
+		Location:	NULL NULL
+
+	DKE1LS1
+		Images:	19582
+		Time:	05.05.2024 09:08:20 until 05.05.2024 16:28:43
+		Duration:	07:20:23
+		Location:	NULL NULL
+
+	HCA1
+		Images:	18509
+		Time:	05.05.2024 08:30:26 until 05.05.2024 13:33:36
+		Duration:	05:03:10
+		Location:	NULL NULL
+
+	HCA1LS1
+		Images:	3550
+		Time:	26.08.2023 02:32:36 until 26.08.2023 07:59:51
+		Duration:	05:27:15
+		Location:	NULL NULL
+
+	JAL1
+		Images:	20833
+		Time:	06.05.2023 09:32:14 until 05.05.2024 11:18:43
+		Duration:	365.01:46:29
+		Location:	NULL NULL
+
+	JCC1
+		Images:	22701
+		Time:	05.05.2024 09:50:00 until 05.05.2024 16:43:05
+		Duration:	06:53:05
+		Location:	NULL NULL
+
+	JCC1LS1
+		Images:	17246
+		Time:	05.05.2024 09:23:13 until 05.05.2024 15:58:19
+		Duration:	06:35:06
+		Location:	NULL NULL
+
+	JDE1
+		Images:	38186
+		Time:	05.05.2024 07:58:05 until 05.05.2024 13:43:11
+		Duration:	05:45:06
+		Location:	NULL NULL
+
+	JDE1LS1
+		Images:	15790
+		Time:	05.05.2024 08:53:08 until 05.05.2024 15:00:42
+		Duration:	06:07:34
+		Location:	NULL NULL
+
+	JKA1
+		Images:	20094
+		Time:	05.05.2024 07:51:51 until 05.05.2024 11:29:03
+		Duration:	03:37:12
+		Location:	NULL NULL
+
+	JRI1
+		Images:	14282
+		Time:	29.05.2014 11:51:27 until 29.05.2014 15:47:39
+		Duration:	03:56:12
+		Location:	NULL NULL
+
+	JRI1LS1
+		Images:	10922
+		Time:	04.05.2024 08:28:58 until 05.05.2024 11:11:00
+		Duration:	1.02:42:02
+		Location:	NULL NULL
+
+	JRIC1
+		Images:	2681
+		Time:	29.05.2014 20:05:23 until 29.05.2014 21:17:49
+		Duration:	01:12:26
+		Location:	NULL NULL
+
+	JRO1
+		Images:	5945
+		Time:	05.05.2024 22:48:38 until 06.05.2024 05:26:37
+		Duration:	06:37:59
+		Location:	NULL NULL
+
+	MLE1
+		Images:	29034
+		Time:	05.05.2024 07:22:42 until 05.05.2024 12:14:57
+		Duration:	04:52:15
+		Location:	NULL NULL
+
+	MLL1
+		Images:	23445
+		Time:	04.05.2024 03:14:00 until 04.05.2024 08:21:57
+		Duration:	05:07:57
+		Location:	NULL NULL
+
+	MMO1
+		Images:	56653
+		Time:	05.05.2024 10:09:19 until 05.05.2024 16:28:24
+		Duration:	06:19:05
+		Location:	NULL NULL
+
+	PBA1
+		Images:	3842
+		Time:	05.05.2024 08:33:06 until 05.05.2024 10:33:18
+		Duration:	02:00:12
+		Location:	NULL NULL
+
+	PBA1LS1
+		Images:	3851
+		Time:	05.05.2024 07:58:06 until 05.05.2024 10:47:49
+		Duration:	02:49:43
+		Location:	NULL NULL
+
+	PBAB1
+		Images:	3147
+		Time:	05.05.2024 12:10:44 until 05.05.2024 14:54:59
+		Duration:	02:44:15
+		Location:	NULL NULL
+
+	PBAB1LS1
+		Images:	7158
+		Time:	05.05.2024 12:09:27 until 05.05.2024 14:37:04
+		Duration:	02:27:37
+		Location:	NULL NULL
+
+	PKJO1
+	PKO1
+		Images:	8886
+		Time:	05.05.2024 11:08:01 until 05.05.2024 15:55:01
+		Duration:	04:47:00
+		Location:	NULL NULL
+
+	PSA1
+		Images:	261
+		Time:	05.05.2024 06:23:53 until 05.05.2024 06:58:41
+		Duration:	00:34:48
+		Location:	NULL NULL
+
+	PSAB1
+		Images:	66580
+		Time:	05.05.2024 07:05:37 until 05.05.2024 13:42:39
+		Duration:	06:37:02
+		Location:	NULL NULL
+
+	PSAB1LS1
+		Images:	10550
+		Time:	05.05.2024 08:06:23 until 05.05.2024 14:40:45
+		Duration:	06:34:22
+		Location:	NULL NULL
+
+	RFI1
+		Images:	37234
+		Time:	05.05.2024 09:38:32 until 05.05.2024 16:38:55
+		Duration:	07:00:23
+		Location:	NULL NULL
+
+	RFI1LS1
+		Images:	38092
+		Time:	05.05.2024 09:08:53 until 05.05.2024 16:35:14
+		Duration:	07:26:21
+		Location:	NULL NULL
+
+	SBH1
+		Images:	5306
+		Time:	05.05.2024 07:16:26 until 05.05.2024 10:07:35
+		Duration:	02:51:09
+		Location:	NULL NULL
+
+	SBHB1
+		Images:	5038
+		Time:	31.12.2013 19:00:15 until 31.12.2013 22:54:06
+		Duration:	03:53:51
+		Location:	NULL NULL
+
+	TMO1
+		Images:	8305
+		Time:	05.05.2024 07:58:50 until 05.05.2024 10:53:29
+		Duration:	02:54:39
+		Location:	NULL NULL
+
+	VNI1
+		Images:	24757
+		Time:	05.05.2024 04:51:20 until 05.05.2024 14:56:48
+		Duration:	10:05:28
+		Location:	NULL NULL
+
+	WDEA1
+		Images:	10238
+		Time:	05.05.2024 07:43:54 until 05.05.2024 10:46:14
+		Duration:	03:02:20
+		Location:	NULL NULL
+
+	WDEA1LS1
+		Images:	10122
+		Time:	05.05.2024 07:39:53 until 05.05.2024 10:49:25
+		Duration:	03:09:32
+		Location:	NULL NULL
+
+	WDEB1
+		Images:	8093
+		Time:	05.05.2024 12:09:33 until 05.05.2024 14:26:27
+		Duration:	02:16:54
+		Location:	NULL NULL
+
+(2) - Impressions / Pano
+	PANO1

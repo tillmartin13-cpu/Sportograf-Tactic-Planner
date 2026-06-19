@@ -1,0 +1,105 @@
+EventId: 16530
+Spots: 15
+Total Images: 5244
+Time:	02.05.2025 02:14:13 to 02.05.2025 17:07:43
+Duration: 14:53:30
+
+(1) - 1 KM After start Short Track
+	LLM1
+		Images:	236
+		Time:	02.05.2025 07:59:54 until 02.05.2025 09:55:21
+		Duration:	01:55:27
+		Location:	45.87699 10.86536
+
+(2) - Lago di Tenno Long Track
+	LULE1
+		Images:	458
+		Time:	02.05.2025 09:30:13 until 02.05.2025 10:19:58
+		Duration:	00:49:45
+		Location:	45.93485 10.82089
+
+	LULE1LS1
+		Images:	120
+		Time:	02.05.2025 09:26:41 until 02.05.2025 10:12:18
+		Duration:	00:45:37
+		Location:	45.93485 10.82089
+
+	LULE1LS2
+		Images:	79
+		Time:	02.05.2025 09:26:37 until 02.05.2025 10:18:11
+		Duration:	00:51:34
+		Location:	45.93485 10.82089
+
+	PINO1
+		Images:	156
+		Time:	02.05.2025 09:16:17 until 02.05.2025 10:03:15
+		Duration:	00:46:58
+		Location:	45.93987 10.81886
+
+(3) - Lago di Cavedine All track_1
+	LAPO1
+		Images:	584
+		Time:	02.05.2025 09:04:31 until 02.05.2025 15:20:23
+		Duration:	06:15:52
+		Location:	46.00234 10.94808
+
+(4) - Lago di Cavedine All Track
+	DCC1
+		Images:	448
+		Time:	02.05.2025 09:29:26 until 02.05.2025 15:24:56
+		Duration:	05:55:30
+		Location:	45.99623 10.94444
+
+(5) - 10 km Before Finish All track
+	LULE2
+		Images:	631
+		Time:	02.05.2025 11:42:26 until 02.05.2025 16:07:43
+		Duration:	04:25:17
+		Location:	45.89880 10.89654
+
+	LULE2LS1
+		Images:	388
+		Time:	02.05.2025 11:16:02 until 02.05.2025 16:42:12
+		Duration:	05:26:10
+		Location:	45.89880 10.89654
+
+	LULE2LS2
+		Images:	168
+		Time:	02.05.2025 11:40:04 until 02.05.2025 16:30:23
+		Duration:	04:50:19
+		Location:	45.89880 10.89654
+
+(6) - 1 KM Before finish All Track
+	LLM2
+		Images:	443
+		Time:	02.05.2025 11:17:48 until 02.05.2025 17:00:11
+		Duration:	05:42:23
+		Location:	45.87699 10.86536
+
+(7) - 9 km Before Finish All Track
+	PINO2
+		Images:	368
+		Time:	02.05.2025 11:13:00 until 02.05.2025 16:28:00
+		Duration:	05:15:00
+		Location:	45.89812 10.89561
+
+(8) - Finish
+	DARU1
+		Images:	547
+		Time:	02.05.2025 02:20:35 until 02.05.2025 17:07:43
+		Duration:	14:47:08
+		Location:	45.88163 10.84899
+
+	DARU1LS1
+		Images:	597
+		Time:	02.05.2025 02:14:13 until 02.05.2025 17:07:17
+		Duration:	14:53:04
+		Location:	45.88163 10.84899
+
+(9) - Impressions / Pano
+	DARU1DRONE1
+		Images:	21
+		Time:	02.05.2025 11:34:09 until 02.05.2025 11:49:52
+		Duration:	00:15:43
+		Location:	45.88163 10.84899
+

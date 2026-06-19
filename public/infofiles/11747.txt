@@ -1,0 +1,354 @@
+EventId: 11747
+Spots: 59
+Total Images: 663235
+Time:	10.08.2024 11:37:33 to 11.08.2024 14:10:29
+Duration: 1.02:32:56
+
+(1) - 0.7 km William St
+	BTOSC1
+		Images:	16568
+		Time:	11.08.2024 07:08:41 until 11.08.2024 10:11:56
+		Duration:	03:03:15
+		Location:	-33.87491 151.21995
+
+	BTOSC1LS1
+		Images:	15244
+		Time:	11.08.2024 07:02:47 until 11.08.2024 10:08:13
+		Duration:	03:05:26
+		Location:	-33.87491 151.21995
+
+	BWP1
+		Images:	8676
+		Time:	10.08.2024 18:44:43 until 11.08.2024 10:06:57
+		Duration:	15:22:14
+		Location:	-33.87491 151.21995
+
+(2) - 1.1 km Kings Cross Footway
+	BDTI1
+		Images:	9373
+		Time:	10.08.2024 20:16:29 until 11.08.2024 10:19:20
+		Duration:	14:02:51
+		Location:	-33.87649 151.22615
+
+	BIAK1
+		Images:	9924
+		Time:	11.08.2024 06:42:29 until 11.08.2024 10:09:55
+		Duration:	03:27:26
+		Location:	-33.87649 151.22615
+
+	BJEK1
+		Images:	14380
+		Time:	10.08.2024 20:53:08 until 11.08.2024 10:11:41
+		Duration:	13:18:33
+		Location:	-33.87645 151.22613
+
+	BKH1
+		Images:	11084
+		Time:	11.08.2024 06:45:59 until 11.08.2024 10:16:50
+		Duration:	03:30:51
+		Location:	-33.87645 151.22613
+
+	BRUP1
+		Images:	19159
+		Time:	10.08.2024 11:37:33 until 11.08.2024 09:48:32
+		Duration:	22:10:59
+		Location:	-33.87645 151.22613
+
+	BRUP2
+		Images:	50
+		Time:	11.08.2024 06:52:30 until 11.08.2024 09:59:52
+		Duration:	03:07:22
+		Location:	-33.87645 151.22613
+
+	BYONG1
+		Images:	25505
+		Time:	11.08.2024 06:07:19 until 11.08.2024 10:17:41
+		Duration:	04:10:22
+		Location:	-33.87645 151.22613
+
+(3) - 13.5 km Campbell Pd
+	DTPA1
+		Images:	7403
+		Time:	11.08.2024 07:43:26 until 11.08.2024 13:22:46
+		Duration:	05:39:20
+		Location:	-33.88980 151.27562
+
+(4) - 13.9 km Campbell Pd
+	EABR1
+		Images:	11587
+		Time:	10.08.2024 18:05:28 until 11.08.2024 13:25:08
+		Duration:	19:19:40
+		Location:	-33.88922 151.27659
+
+	EABR1LS1
+		Images:	10408
+		Time:	10.08.2024 18:12:45 until 11.08.2024 11:30:06
+		Duration:	17:17:21
+		Location:	-33.88922 151.27659
+
+	EABS1
+		Images:	5712
+		Time:	11.08.2024 08:03:04 until 11.08.2024 13:32:06
+		Duration:	05:29:02
+		Location:	-33.88922 151.27659
+
+(5) - 4.7 km Rosebay
+	AIGM1
+		Images:	9240
+		Time:	10.08.2024 19:24:42 until 11.08.2024 11:05:00
+		Duration:	15:40:18
+		Location:	-33.87220 151.25746
+
+	AIGM1LS1
+		Images:	3004
+		Time:	11.08.2024 07:29:08 until 11.08.2024 11:17:18
+		Duration:	03:48:10
+		Location:	-33.87220 151.25746
+
+	AIGM1LS2
+		Images:	3790
+		Time:	11.08.2024 07:50:07 until 11.08.2024 11:24:52
+		Duration:	03:34:45
+		Location:	-33.87220 151.25746
+
+	PANO1
+(6) - 4.8 km Rosebay
+	AEAP1
+		Images:	12379
+		Time:	10.08.2024 19:32:40 until 11.08.2024 11:11:57
+		Duration:	15:39:17
+		Location:	-33.87230 151.25799
+
+	AKHT1
+		Images:	9710
+		Time:	11.08.2024 06:49:31 until 11.08.2024 11:12:34
+		Duration:	04:23:03
+		Location:	-33.87213 151.25807
+
+	AMFS1
+		Images:	13616
+		Time:	11.08.2024 06:21:55 until 11.08.2024 11:12:04
+		Duration:	04:50:09
+		Location:	-33.87230 151.25799
+
+	ANCJ1
+		Images:	7570
+		Time:	11.08.2024 06:41:22 until 11.08.2024 11:13:49
+		Duration:	04:32:27
+		Location:	-33.87213 151.25807
+
+	ASNT1
+		Images:	8079
+		Time:	10.08.2024 19:53:10 until 11.08.2024 11:14:55
+		Duration:	15:21:45
+		Location:	-33.87230 151.25799
+
+	AVFV1
+		Images:	16369
+		Time:	11.08.2024 06:14:32 until 11.08.2024 11:08:25
+		Duration:	04:53:53
+		Location:	-33.87230 151.25799
+
+(7) - 4.9 km Rosebay
+	AESF1
+		Images:	24025
+		Time:	11.08.2024 07:50:01 until 11.08.2024 11:13:09
+		Duration:	03:23:08
+		Location:	-33.87259 151.26158
+
+	AHMT1
+		Images:	19931
+		Time:	11.08.2024 06:37:47 until 11.08.2024 11:12:44
+		Duration:	04:34:57
+		Location:	-33.87220 151.25746
+
+	ALMLS1
+		Images:	21306
+		Time:	11.08.2024 06:21:55 until 11.08.2024 11:12:04
+		Duration:	04:50:09
+		Location:	-33.87234 151.25944
+
+	AYNY1
+		Images:	13697
+		Time:	11.08.2024 07:04:20 until 11.08.2024 11:12:28
+		Duration:	04:08:08
+		Location:	-33.87259 151.26158
+
+(8) - 6.3 km
+	CACV1
+		Images:	15407
+		Time:	10.08.2024 23:37:32 until 11.08.2024 11:36:39
+		Duration:	11:59:07
+		Location:	-33.86720 151.27185
+
+	CBRON1
+		Images:	17531
+		Time:	11.08.2024 06:51:52 until 11.08.2024 11:28:59
+		Duration:	04:37:07
+		Location:	-33.86720 151.27185
+
+	CBRON1LS1
+		Images:	2800
+		Time:	11.08.2024 08:00:00 until 11.08.2024 11:29:39
+		Duration:	03:29:39
+		Location:	-33.86720 151.27185
+
+	CCTM1
+		Images:	9233
+		Time:	11.08.2024 07:53:14 until 11.08.2024 11:36:47
+		Duration:	03:43:33
+		Location:	-33.86720 151.27185
+
+(9) - 6.6 km
+	CJAML1
+		Images:	5571
+		Time:	11.08.2024 07:53:06 until 11.08.2024 11:40:12
+		Duration:	03:47:06
+		Location:	-33.86547 151.27291
+
+	CSED1
+		Images:	15866
+		Time:	11.08.2024 07:22:33 until 11.08.2024 11:40:41
+		Duration:	04:18:08
+		Location:	-33.86547 151.27291
+
+(10) - 7.6 km
+	CCYH1
+		Images:	10517
+		Time:	11.08.2024 00:54:00 until 11.08.2024 11:57:38
+		Duration:	11:03:38
+		Location:	-33.85955 151.27685
+
+	CVO1
+		Images:	15467
+		Time:	11.08.2024 07:49:10 until 11.08.2024 11:56:24
+		Duration:	04:07:14
+		Location:	-33.85955 151.27685
+
+(11) - 8.3 km
+	CBRE1
+		Images:	20317
+		Time:	11.08.2024 08:01:08 until 11.08.2024 12:06:07
+		Duration:	04:04:59
+		Location:	-33.85715 151.28233
+
+	CCRBR1
+		Images:	24878
+		Time:	11.08.2024 07:59:43 until 11.08.2024 12:06:19
+		Duration:	04:06:36
+		Location:	-33.85715 151.28233
+
+	CDTT1
+		Images:	30601
+		Time:	11.08.2024 07:59:43 until 11.08.2024 11:47:02
+		Duration:	03:47:19
+		Location:	-33.85715 151.28233
+
+	CDTT1LS1
+		Images:	6618
+		Time:	11.08.2024 07:34:26 until 11.08.2024 12:05:30
+		Duration:	04:31:04
+		Location:	-33.85715 151.28233
+
+(12) - Ceremony
+	DSBR1
+		Images:	4276
+		Time:	11.08.2024 07:49:30 until 11.08.2024 13:40:58
+		Duration:	05:51:28
+		Location:	-33.89073 151.27694
+
+	DSNS1
+		Images:	3603
+		Time:	11.08.2024 06:45:42 until 11.08.2024 13:41:01
+		Duration:	06:55:19
+		Location:	-33.89073 151.27694
+
+	DVN1
+		Images:	7191
+		Time:	11.08.2024 06:36:01 until 11.08.2024 13:04:30
+		Duration:	06:28:29
+		Location:	-33.89073 151.27694
+
+	PANO1
+(13) - Finish
+	DCSM1
+		Images:	19433
+		Time:	11.08.2024 06:49:35 until 11.08.2024 13:36:16
+		Duration:	06:46:41
+		Location:	-33.89013 151.27868
+
+	DCSM1LS1
+		Images:	10122
+		Time:	11.08.2024 08:01:34 until 11.08.2024 13:31:32
+		Duration:	05:29:58
+		Location:	-33.89013 151.27868
+
+	DJBR1
+		Images:	2252
+		Time:	11.08.2024 08:08:01 until 11.08.2024 13:32:45
+		Duration:	05:24:44
+		Location:	-33.89013 151.27868
+
+	DNIF1
+		Images:	816
+		Time:	11.08.2024 12:23:50 until 11.08.2024 13:09:15
+		Duration:	00:45:25
+		Location:	-33.89013 151.27868
+
+	DPAC1
+		Images:	10174
+		Time:	11.08.2024 08:15:44 until 11.08.2024 13:21:00
+		Duration:	05:05:16
+		Location:	-33.89013 151.27868
+
+	DRCT1
+		Images:	11434
+		Time:	11.08.2024 07:29:28 until 11.08.2024 13:24:16
+		Duration:	05:54:48
+		Location:	-33.89013 151.27868
+
+	DSNS1LS1
+		Images:	6803
+		Time:	11.08.2024 06:28:43 until 11.08.2024 13:43:33
+		Duration:	07:14:50
+		Location:	-33.89013 151.27868
+
+	DTKU1
+		Images:	8016
+		Time:	10.08.2024 22:45:53 until 11.08.2024 13:26:35
+		Duration:	14:40:42
+		Location:	-33.89013 151.27868
+
+	EHC1
+		Images:	6191
+		Time:	10.08.2024 23:21:35 until 11.08.2024 13:35:40
+		Duration:	14:14:05
+		Location:	-33.89013 151.27868
+
+	EJADE1
+		Images:	17673
+		Time:	10.08.2024 15:45:25 until 11.08.2024 13:36:14
+		Duration:	21:50:49
+		Location:	-33.89013 151.27868
+
+	ETOB1
+		Images:	34441
+		Time:	10.08.2024 20:47:26 until 11.08.2024 13:05:58
+		Duration:	16:18:32
+		Location:	-33.89013 151.27868
+
+	ETOB1LS1
+		Images:	5543
+		Time:	11.08.2024 06:20:35 until 11.08.2024 14:10:29
+		Duration:	07:49:54
+		Location:	-33.89013 151.27868
+
+	ETOB1LS2
+		Images:	12672
+		Time:	11.08.2024 06:34:28 until 11.08.2024 14:08:39
+		Duration:	07:34:11
+		Location:	-33.89013 151.27868
+
+	PANO1
+(14) - Impressions / Pano
+	PANO1

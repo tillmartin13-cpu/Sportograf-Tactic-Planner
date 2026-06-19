@@ -1,0 +1,81 @@
+EventId: 10434
+Spots: 13
+Total Images: 37267
+Time:	16.05.2014 18:38:01 to 23.09.2023 12:51:50
+Duration: 3416.18:13:49
+
+(1) - Impressions / Pano
+	PANO1
+(2) - none
+	AC1
+		Images:	4940
+		Time:	23.09.2023 08:06:22 until 23.09.2023 10:13:50
+		Duration:	02:07:28
+		Location:	NULL NULL
+
+	BK1
+		Images:	661
+		Time:	02.08.2022 14:42:45 until 02.08.2022 17:33:14
+		Duration:	02:50:29
+		Location:	NULL NULL
+
+	BS1
+		Images:	7390
+		Time:	16.05.2014 18:38:01 until 16.05.2014 20:55:39
+		Duration:	02:17:38
+		Location:	NULL NULL
+
+	CD1
+		Images:	951
+		Time:	23.09.2023 10:04:26 until 23.09.2023 12:51:50
+		Duration:	02:47:24
+		Location:	NULL NULL
+
+	HW1
+		Images:	664
+		Time:	23.09.2023 09:10:27 until 23.09.2023 12:00:08
+		Duration:	02:49:41
+		Location:	NULL NULL
+
+	KT1
+		Images:	7124
+		Time:	23.09.2023 08:57:38 until 23.09.2023 11:16:19
+		Duration:	02:18:41
+		Location:	NULL NULL
+
+	MS1
+		Images:	801
+		Time:	23.09.2023 09:01:03 until 23.09.2023 11:44:48
+		Duration:	02:43:45
+		Location:	NULL NULL
+
+	MT1
+		Images:	7675
+		Time:	23.09.2023 09:05:37 until 23.09.2023 11:24:38
+		Duration:	02:19:01
+		Location:	NULL NULL
+
+	SB1
+		Images:	310
+		Time:	23.09.2023 09:07:22 until 23.09.2023 12:04:41
+		Duration:	02:57:19
+		Location:	NULL NULL
+
+	SE1
+		Images:	1148
+		Time:	23.09.2023 09:01:28 until 23.09.2023 11:41:04
+		Duration:	02:39:36
+		Location:	NULL NULL
+
+	ST1
+		Images:	524
+		Time:	02.08.2022 16:34:00 until 23.09.2023 12:00:42
+		Duration:	416.19:26:42
+		Location:	NULL NULL
+
+	XF1
+		Images:	5079
+		Time:	23.09.2023 07:42:44 until 23.09.2023 10:00:32
+		Duration:	02:17:48
+		Location:	NULL NULL
+

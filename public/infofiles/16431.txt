@@ -1,0 +1,100 @@
+EventId: 16431
+Spots: 15
+Total Images: 59921
+Time:	01.01.0001 23:00:00 to 14.06.2025 21:44:48
+Duration: 739414.22:44:48
+
+(1) - 6km / 20k+34k+53k - 33,5km/75k - 56,8km/100k
+	MABR1
+		Images:	2689
+		Time:	13.06.2025 19:02:07 until 14.06.2025 10:48:36
+		Duration:	15:46:29
+		Location:	49.80509 5.04554
+
+(2) - 6,3km / 20k+34k+53k - 33,8km/75k - 57,1km/100k
+	ADHA1
+		Images:	1305
+		Time:	14.06.2025 07:36:24 until 14.06.2025 10:51:48
+		Duration:	03:15:24
+		Location:	49.80558 5.0453
+
+(3) - 8.3km/20+34 - 11.5km/53 - 35.6km/75 - 59km/100
+	MK1LS1
+		Images:	774
+		Time:	14.06.2025 07:46:22 until 14.06.2025 10:34:45
+		Duration:	02:48:23
+		Location:	49.82079 5.04314
+
+	MK1LS2
+		Images:	1246
+		Time:	14.06.2025 08:30:13 until 14.06.2025 11:47:57
+		Duration:	03:17:44
+		Location:	9.82073 5.04297
+
+(4) - 8.5km/20+34 - 11.7km/53 - 35.8km/75 - 59,2km/100
+	MK1
+		Images:	16377
+		Time:	14.06.2025 09:07:04 until 14.06.2025 11:51:27
+		Duration:	02:44:23
+		Location:	49.82068 5.04279
+
+	MK1LS3
+		Images:	771
+		Time:	14.06.2025 08:11:12 until 14.06.2025 11:55:58
+		Duration:	03:44:46
+		Location:	49.82068 5.04279
+
+(5) - Impressions / Pano
+	MK1DRONE1
+		Images:	68
+		Time:	14.06.2025 08:55:34 until 14.06.2025 21:11:02
+		Duration:	12:15:28
+		Location:	49.82068 5.04279
+
+	PANO1
+(6) - km87,7/100K - km43,7/75K - km43,7/54K - km25,9/35K - km12,5/20K
+	MABR2
+		Images:	4166
+		Time:	14.06.2025 11:32:51 until 14.06.2025 17:35:36
+		Duration:	06:02:45
+		Location:	49.80133 5.03064
+
+	ADHA2
+		Images:	4019
+		Time:	01.01.0001 23:00:00 until 14.06.2025 17:35:16
+		Duration:	739414.18:35:16
+		Location:	49.80136 5.02877
+
+(7) - 1,5km to the finish
+	MK2
+		Images:	15087
+		Time:	14.06.2025 12:27:29 until 14.06.2025 20:34:19
+		Duration:	08:06:50
+		Location:	49.78713 5.05925
+
+	MK2LS1
+		Images:	1596
+		Time:	14.06.2025 12:38:35 until 14.06.2025 20:26:05
+		Duration:	07:47:30
+		Location:	49.78713 5.05925
+
+	MK2LS2
+		Images:	799
+		Time:	14.06.2025 14:26:00 until 14.06.2025 20:34:11
+		Duration:	06:08:11
+		Location:	49.78713 5.05925
+
+(8) - Castle Bouillon 200 meters to the finish
+	AMAR1
+		Images:	4941
+		Time:	14.06.2025 06:37:04 until 14.06.2025 20:44:07
+		Duration:	14:07:03
+		Location:	49.7937 5.06627
+
+(9) - Finish
+	GUS1
+		Images:	6083
+		Time:	14.06.2025 11:45:59 until 14.06.2025 21:44:48
+		Duration:	09:58:49
+		Location:	49.79423 5.0671
+

@@ -1,0 +1,68 @@
+EventId: 13928
+Spots: 10
+Total Images: 39003
+Time:	21.09.2025 06:58:09 to 21.09.2025 15:28:54
+Duration: 08:30:45
+
+(1) - M:11/30km Hm:11km
+	AKS1
+		Images:	6140
+		Time:	21.09.2025 09:42:09 until 21.09.2025 13:22:16
+		Duration:	03:40:07
+		Location:	49.13379 10.89293
+
+	AKS1LS1
+		Images:	2526
+		Time:	21.09.2025 09:24:19 until 21.09.2025 13:47:30
+		Duration:	04:23:11
+		Location:	49.13601 10.89390
+
+	AKS1LS2
+		Images:	2529
+		Time:	21.09.2025 09:17:12 until 21.09.2025 13:49:07
+		Duration:	04:31:55
+		Location:	49.13601 10.89390
+
+	AKS1DRONE1
+		Images:	24
+		Time:	21.09.2025 10:16:29 until 21.09.2025 13:34:51
+		Duration:	03:18:22
+		Location:	49.13379 10.89293
+
+(2) - M:21,5/40km Hm: 18,8km
+	KAM1
+		Images:	6113
+		Time:	21.09.2025 06:58:09 until 21.09.2025 14:46:28
+		Duration:	07:48:19
+		Location:	49.12071 10.93980
+
+(3) - M:21,9/40,4km Hm:19,3km
+	SDR1
+		Images:	4817
+		Time:	21.09.2025 07:06:17 until 21.09.2025 15:17:39
+		Duration:	08:11:22
+		Location:	49.11560 10.96704
+
+(4) - M:8,2/26,8km Hm:8,2km
+	SISA1
+		Images:	5504
+		Time:	21.09.2025 09:02:56 until 21.09.2025 13:02:38
+		Duration:	03:59:42
+		Location:	49.13962 10.92927
+
+(5) - Start
+	SL1
+		Images:	545
+		Time:	21.09.2025 08:49:20 until 21.09.2025 11:17:06
+		Duration:	02:27:46
+		Location:	49.11131 10.97914
+
+(6) - Finish
+	SL2
+		Images:	10805
+		Time:	21.09.2025 11:45:53 until 21.09.2025 15:28:54
+		Duration:	03:43:01
+		Location:	49.11109 10.98060
+
+(7) - Impressions / Pano
+	PANO1

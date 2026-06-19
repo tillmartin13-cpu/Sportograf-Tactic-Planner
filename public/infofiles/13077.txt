@@ -1,0 +1,177 @@
+EventId: 13077
+Spots: 28
+Total Images: 163983
+Time:	01.01.0001 23:00:00 to 31.12.2099 22:59:59
+Duration: 766642.23:59:59
+
+(1) - 0.0 km
+	AAD1
+		Images:	10517
+		Time:	30.03.2024 06:01:01 until 30.03.2024 10:10:49
+		Duration:	04:09:48
+		Location:	NULL NULL
+
+	AAW1
+		Images:	5743
+		Time:	30.03.2024 06:30:18 until 30.03.2024 09:25:25
+		Duration:	02:55:07
+		Location:	NULL NULL
+
+	ACO1
+		Images:	1628
+		Time:	30.03.2024 07:47:21 until 30.03.2024 10:33:25
+		Duration:	02:46:04
+		Location:	NULL NULL
+
+	ADC1
+		Images:	4981
+		Time:	30.03.2024 07:27:55 until 30.03.2024 10:14:10
+		Duration:	02:46:15
+		Location:	NULL NULL
+
+	AEV1
+		Images:	6663
+		Time:	30.03.2024 06:32:28 until 30.03.2024 09:36:02
+		Duration:	03:03:34
+		Location:	NULL NULL
+
+	AGG1
+		Images:	12755
+		Time:	30.03.2024 08:41:47 until 30.03.2024 11:19:48
+		Duration:	02:38:01
+		Location:	NULL NULL
+
+	AGG1LS1
+		Images:	10570
+		Time:	31.12.2013 19:30:01 until 31.12.2099 22:59:59
+		Duration:	31411.03:29:58
+		Location:	NULL NULL
+
+	AJH1
+		Images:	7511
+		Time:	29.03.2024 19:30:27 until 30.03.2024 11:46:04
+		Duration:	16:15:37
+		Location:	NULL NULL
+
+	AJH1LS1
+		Images:	11898
+		Time:	30.03.2024 06:43:05 until 30.03.2024 10:25:49
+		Duration:	03:42:44
+		Location:	NULL NULL
+
+	AJHI1
+		Images:	910
+		Time:	30.03.2024 06:43:55 until 30.03.2024 10:51:52
+		Duration:	04:07:57
+		Location:	NULL NULL
+
+	AJHPR1
+		Images:	242
+		Time:	29.03.2024 17:48:58 until 30.03.2024 08:30:27
+		Duration:	14:41:29
+		Location:	NULL NULL
+
+	AJM1
+		Images:	11481
+		Time:	30.03.2024 06:30:05 until 30.03.2024 09:25:05
+		Duration:	02:55:00
+		Location:	NULL NULL
+
+	AJMLS1
+		Images:	11867
+		Time:	30.03.2024 06:47:18 until 30.03.2024 10:26:58
+		Duration:	03:39:40
+		Location:	NULL NULL
+
+	AJS1
+		Images:	2881
+		Time:	30.03.2024 07:40:23 until 30.03.2024 10:37:04
+		Duration:	02:56:41
+		Location:	NULL NULL
+
+	ALB1
+		Images:	4619
+		Time:	29.03.2024 07:53:27 until 29.03.2024 09:07:34
+		Duration:	01:14:07
+		Location:	NULL NULL
+
+	AMB1
+		Images:	715
+		Time:	30.03.2024 05:44:05 until 30.03.2024 10:21:26
+		Duration:	04:37:21
+		Location:	NULL NULL
+
+	AMBO1
+		Images:	693
+		Time:	30.03.2024 08:22:35 until 30.03.2024 11:36:43
+		Duration:	03:14:08
+		Location:	NULL NULL
+
+	AMW1
+		Images:	6716
+		Time:	18.01.2016 15:20:43 until 18.01.2016 18:25:52
+		Duration:	03:05:09
+		Location:	NULL NULL
+
+	APC1
+		Images:	4342
+		Time:	29.03.2024 18:47:05 until 29.03.2024 22:28:15
+		Duration:	03:41:10
+		Location:	NULL NULL
+
+	APC1LS1
+		Images:	4763
+		Time:	30.03.2024 07:59:28 until 30.03.2024 11:32:54
+		Duration:	03:33:26
+		Location:	NULL NULL
+
+	APCPF1
+		Images:	2850
+		Time:	29.03.2024 21:16:08 until 29.03.2024 22:14:09
+		Duration:	00:58:01
+		Location:	NULL NULL
+
+	APK1
+		Images:	6625
+		Time:	01.01.0001 23:00:00 until 30.03.2025 12:34:21
+		Duration:	739338.13:34:21
+		Location:	NULL NULL
+
+	APN1
+		Images:	830
+		Time:	18.01.2005 15:05:34 until 30.03.2024 06:36:26
+		Duration:	7010.15:30:52
+		Location:	NULL NULL
+
+	ASH1
+		Images:	15907
+		Time:	30.03.2024 07:31:55 until 30.03.2024 10:27:41
+		Duration:	02:55:46
+		Location:	NULL NULL
+
+	ASH1LS1
+		Images:	9728
+		Time:	30.03.2024 07:31:42 until 30.03.2024 10:32:10
+		Duration:	03:00:28
+		Location:	NULL NULL
+
+	ATP1
+		Images:	6450
+		Time:	29.03.2024 19:09:32 until 29.03.2024 22:10:38
+		Duration:	03:01:06
+		Location:	NULL NULL
+
+(2) - Impressions / Pano
+	PANO1
+		Images:	29
+		Time:	18.01.2016 16:13:18 until 30.03.2025 11:46:07
+		Duration:	3358.19:32:49
+		Location:	NULL NULL
+
+(3) - none
+	ALBPF1
+		Images:	69
+		Time:	29.03.2024 10:12:17 until 29.03.2024 11:00:34
+		Duration:	00:48:17
+		Location:	NULL NULL
+

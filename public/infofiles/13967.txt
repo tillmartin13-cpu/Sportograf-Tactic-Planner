@@ -1,0 +1,158 @@
+EventId: 13967
+Spots: 24
+Total Images: 75238
+Time:	12.09.2025 22:27:41 to 13.09.2025 20:12:56
+Duration: 21:45:15
+
+(1) - Start
+	GAC1
+		Images:	2809
+		Time:	13.09.2025 12:44:14 until 13.09.2025 14:32:03
+		Duration:	01:47:49
+		Location:	51.02157 6.92979
+
+(2) - HOLY Creator Run
+	HOLY1
+		Images:	3442
+		Time:	12.09.2025 22:33:54 until 13.09.2025 20:12:56
+		Duration:	21:39:02
+		Location:	51.02158 6.92590
+
+(3) - Impressions / Pano
+	AG2DRONE1
+		Images:	26
+		Time:	13.09.2025 15:54:43 until 13.09.2025 16:01:18
+		Duration:	00:06:35
+		Location:	51.03319 6.91038
+
+	PANO1
+(4) - Obstacle 1 Krabbelnetz
+	AG2LS1
+		Images:	1871
+		Time:	13.09.2025 14:25:13 until 13.09.2025 15:51:43
+		Duration:	01:26:30
+		Location:	51.03319 6.91038
+
+(5) - Obstacle 1 Matsch
+	MW1
+		Images:	4930
+		Time:	13.09.2025 08:11:04 until 13.09.2025 16:38:08
+		Duration:	08:27:04
+		Location:	51.03315 6.91054
+
+	MW1LS2
+		Images:	4750
+		Time:	13.09.2025 08:14:42 until 13.09.2025 16:30:15
+		Duration:	08:15:33
+		Location:	51.03315 6.91054
+
+	MW1LS1
+		Images:	2393
+		Time:	13.09.2025 14:03:30 until 13.09.2025 16:30:15
+		Duration:	02:26:45
+		Location:	51.03315 6.91054
+
+(6) - Obstacle 1 Strom
+	AG1
+		Images:	2144
+		Time:	13.09.2025 14:10:10 until 13.09.2025 16:38:03
+		Duration:	02:27:53
+		Location:	51.03319 6.91038
+
+	AG1LS2
+		Images:	719
+		Time:	13.09.2025 13:55:05 until 13.09.2025 16:29:52
+		Duration:	02:34:47
+		Location:	51.03319 6.91038
+
+	AG1LS1
+		Images:	1219
+		Time:	13.09.2025 13:55:37 until 13.09.2025 16:29:30
+		Duration:	02:33:53
+		Location:	51.03319 6.91038
+
+(7) - Obstacle 4 Klettern
+	OT1
+		Images:	5873
+		Time:	13.09.2025 11:47:55 until 13.09.2025 17:15:08
+		Duration:	05:27:13
+		Location:	51.02144 6.92873
+
+	OT1LS1
+		Images:	4311
+		Time:	13.09.2025 11:33:55 until 13.09.2025 17:25:12
+		Duration:	05:51:17
+		Location:	51.02144 6.92873
+
+(8) - Obstacle 4 Wasserfall
+	FCO1
+		Images:	5803
+		Time:	13.09.2025 12:46:09 until 13.09.2025 17:28:48
+		Duration:	04:42:39
+		Location:	51.02144 6.92873
+
+(9) - Obstacle 4 Wasserüberquerung
+	JKE1
+		Images:	4902
+		Time:	13.09.2025 13:58:00 until 13.09.2025 17:08:12
+		Duration:	03:10:12
+		Location:	51.02044 6.92480
+
+	JKE1LS2
+		Images:	53
+		Time:	13.09.2025 20:12:16 until 13.09.2025 20:12:56
+		Duration:	00:00:40
+		Location:	51.02044 6.92480
+
+	JKE1LS1
+		Images:	68
+		Time:	12.09.2025 22:27:41 until 13.09.2025 17:16:13
+		Duration:	18:48:32
+		Location:	51.02044 6.92480
+
+(10) - Obstacle 5 Colonia
+	RUA1
+		Images:	4859
+		Time:	13.09.2025 14:41:30 until 13.09.2025 17:12:58
+		Duration:	02:31:28
+		Location:	51.02149 6.92899
+
+(11) - Obstacle 5 Rutsche
+	MIJA1
+		Images:	2833
+		Time:	13.09.2025 10:15:40 until 13.09.2025 17:16:17
+		Duration:	07:00:37
+		Location:	51.02179 6.92894
+
+(12) - Obstacle 6 Klettern
+	ST1
+		Images:	3943
+		Time:	13.09.2025 13:28:12 until 13.09.2025 17:10:17
+		Duration:	03:42:05
+		Location:	51.02158 6.92590
+
+	ST1LS1
+		Images:	841
+		Time:	13.09.2025 11:33:15 until 13.09.2025 15:37:50
+		Duration:	04:04:35
+		Location:	51.02158 6.92590
+
+(13) - Finish
+	MBEN1LS1
+		Images:	1618
+		Time:	13.09.2025 14:34:47 until 13.09.2025 17:17:01
+		Duration:	02:42:14
+		Location:	51.02157 6.92979
+
+	MBEN1
+		Images:	7801
+		Time:	13.09.2025 14:01:50 until 13.09.2025 17:16:45
+		Duration:	03:14:55
+		Location:	51.02157 6.92979
+
+	GAC2
+		Images:	8030
+		Time:	13.09.2025 14:44:01 until 13.09.2025 17:18:58
+		Duration:	02:34:57
+		Location:	51.02157 6.92979
+

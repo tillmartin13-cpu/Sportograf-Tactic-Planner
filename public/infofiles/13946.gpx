@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "46.99165" lon = "10.23675"><name>LSE1</name><desc>6,8 km
+Images:1964
+First:06.09.2025 09:14:11
+Last:06.09.2025 14:21:24
+Duration:05:07:13
+</desc></wpt>
+<wpt lat = "46.99165" lon = "10.23675"><name>LSE1LS1</name><desc>6,8 km
+Images:1099
+First:06.09.2025 09:14:44
+Last:06.09.2025 14:20:24
+Duration:05:05:40
+</desc></wpt>
+<wpt lat = "46.96926" lon = "10.15289"><name>SE1</name><desc>16,7 km
+Images:579
+First:06.09.2025 08:17:22
+Last:06.09.2025 14:31:39
+Duration:06:14:17
+</desc></wpt>
+<wpt lat = "46.97968" lon = "10.13314"><name>UEC1</name><desc>18,6 km
+Images:145
+First:06.09.2025 08:53:06
+Last:06.09.2025 10:18:33
+Duration:01:25:27
+</desc></wpt>
+<wpt lat = "46.97968" lon = "10.13314"><name>UEC1LS2</name><desc>18,6 km
+Images:54
+First:06.09.2025 09:39:12
+Last:06.09.2025 10:15:39
+Duration:00:36:27
+</desc></wpt>
+<wpt lat = "46.97968" lon = "10.13314"><name>UEC1LS1</name><desc>18,6 km
+Images:110
+First:06.09.2025 09:39:08
+Last:06.09.2025 10:18:44
+Duration:00:39:36
+</desc></wpt>
+<wpt lat = "46.98701" lon = "10.23854"><name>UEC2LS2</name><desc>7,8 km
+Images:241
+First:06.09.2025 13:45:17
+Last:06.09.2025 14:32:35
+Duration:00:47:18
+</desc></wpt>
+<wpt lat = "46.98701" lon = "10.23854"><name>UEC2LS1</name><desc>7,8 km
+Images:253
+First:06.09.2025 13:19:43
+Last:06.09.2025 14:32:31
+Duration:01:12:48
+</desc></wpt>
+<wpt lat = "47.01237" lon = "10.28844"><name>LKE1</name><desc>Start
+Images:951
+First:06.09.2025 08:47:36
+Last:06.09.2025 13:48:08
+Duration:05:00:32
+</desc></wpt>
+<wpt lat = "47.01149" lon = "10.28815"><name>LKE2</name><desc>Finish
+Images:137
+First:06.09.2025 10:32:00
+Last:06.09.2025 15:02:35
+Duration:04:30:35
+</desc></wpt>
+<wpt lat = "47.01149" lon = "10.28815"><name>SIPE1</name><desc>Finish
+Images:3691
+First:06.09.2025 10:31:06
+Last:06.09.2025 15:30:44
+Duration:04:59:38
+</desc></wpt>
+</gpx>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "48.01704" lon = "8.53098"><name>BECK3</name><desc>Start
+Images:625
+First:07.09.2025 10:34:29
+Last:07.09.2025 11:17:24
+Duration:00:42:55
+</desc></wpt>
+<wpt lat = "48.04838" lon = "8.70530"><name>JNK1</name><desc>29,0 km
+Images:1556
+First:07.09.2025 11:24:54
+Last:07.09.2025 12:30:26
+Duration:01:05:32
+</desc></wpt>
+<wpt lat = "48.04838" lon = "8.70530"><name>JNK1LS1</name><desc>29,0 km
+Images:800
+First:07.09.2025 11:16:44
+Last:07.09.2025 13:15:20
+Duration:01:58:36
+</desc></wpt>
+<wpt lat = "48.05795" lon = "8.73161"><name>TE1</name><desc>27,0 km
+Images:2142
+First:07.09.2025 10:50:08
+Last:07.09.2025 12:34:05
+Duration:01:43:57
+</desc></wpt>
+<wpt lat = "48.05795" lon = "8.73161"><name>TE1DRONE1</name><desc>27,0 km
+Images:12
+First:01.01.0001 23:00:00
+Last:01.01.0001 23:00:00
+Duration:00:00:00
+</desc></wpt>
+<wpt lat = "48.05795" lon = "8.73161"><name>TE1LS2</name><desc>27,0 km
+Images:918
+First:07.09.2025 10:47:50
+Last:07.09.2025 12:34:09
+Duration:01:46:19
+</desc></wpt>
+<wpt lat = "48.05795" lon = "8.73161"><name>TE1LS1</name><desc>27,0 km
+Images:968
+First:07.09.2025 10:46:56
+Last:07.09.2025 12:34:12
+Duration:01:47:16
+</desc></wpt>
+<wpt lat = "47.96637" lon = "8.56825"><name>JNK2</name><desc>80,0 km
+Images:784
+First:07.09.2025 13:23:17
+Last:07.09.2025 14:01:25
+Duration:00:38:08
+</desc></wpt>
+<wpt lat = "47.96637" lon = "8.56825"><name>JNK2LS1</name><desc>80,0 km
+Images:1643
+First:07.09.2025 13:19:57
+Last:07.09.2025 14:12:57
+Duration:00:53:00
+</desc></wpt>
+<wpt lat = "48.01704" lon = "8.53098"><name>TE2</name><desc>Finish
+Images:729
+First:07.09.2025 13:29:34
+Last:07.09.2025 15:35:02
+Duration:02:05:28
+</desc></wpt>
+<wpt lat = "48.01704" lon = "8.53098"><name>BECK2</name><desc>Finish
+Images:541
+First:07.09.2025 13:07:52
+Last:07.09.2025 14:50:27
+Duration:01:42:35
+</desc></wpt>
+<wpt lat = "48.01704" lon = "8.53098"><name>BECK2LS2</name><desc>Finish
+Images:132
+First:07.09.2025 11:31:11
+Last:07.09.2025 14:26:09
+Duration:02:54:58
+</desc></wpt>
+<wpt lat = "48.01704" lon = "8.53098"><name>BECK2LS1</name><desc>Finish
+Images:235
+First:07.09.2025 11:25:17
+Last:07.09.2025 14:21:51
+Duration:02:56:34
+</desc></wpt>
+</gpx>

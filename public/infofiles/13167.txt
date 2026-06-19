@@ -1,0 +1,474 @@
+EventId: 13167
+Spots: 71
+Total Images: 444753
+Time:	19.01.2018 15:05:05 to 01.06.2024 20:32:45
+Duration: 2325.05:27:40
+
+(1) - 0,0 km David Pre Fin
+	DALVA3
+		Images:	12178
+		Time:	01.06.2024 14:53:32 until 01.06.2024 18:53:48
+		Duration:	04:00:16
+		Location:	NULL NULL
+
+(2) - 0,0 km Finish LS 1 859007
+	RSLEI2LS1
+		Images:	9179
+		Time:	01.06.2024 13:03:07 until 01.06.2024 18:54:11
+		Duration:	05:51:04
+		Location:	NULL NULL
+
+(3) - 0,0 km Finish LS 2 859008
+	RSLEI2LS2
+		Images:	9822
+		Time:	01.06.2024 12:44:06 until 01.06.2024 18:50:11
+		Duration:	06:06:05
+		Location:	NULL NULL
+
+(4) - 0,0 km Finish Michele 859006
+	MBIAN3
+		Images:	9174
+		Time:	01.06.2024 14:19:08 until 01.06.2024 17:09:13
+		Duration:	02:50:05
+		Location:	NULL NULL
+
+(5) - 0,0 km Finish Ryan 859005
+	RSLEI2
+		Images:	9371
+		Time:	01.06.2024 13:53:14 until 01.06.2024 18:54:28
+		Duration:	05:01:14
+		Location:	NULL NULL
+
+(6) - 0,0 km MSC 1 Cesare 859016
+	CMARI1
+		Images:	2102
+		Time:	01.06.2024 11:48:47 until 01.06.2024 12:36:12
+		Duration:	00:47:25
+		Location:	NULL NULL
+
+(7) - 0,0 km MSC 1 David 859017
+	DALVA1
+		Images:	1515
+		Time:	01.06.2024 12:05:47 until 01.06.2024 12:36:17
+		Duration:	00:30:30
+		Location:	NULL NULL
+
+(8) - 0,0 km MSC 1 Jerome 859015
+	JSBLO1
+		Images:	3959
+		Time:	01.06.2024 12:47:17 until 01.06.2024 13:36:59
+		Duration:	00:49:42
+		Location:	NULL NULL
+
+(9) - 0,0 km MSC 1 LS 859514
+	CMARI1LS1
+		Images:	1784
+		Time:	01.06.2024 12:06:32 until 01.06.2024 12:36:15
+		Duration:	00:29:43
+		Location:	NULL NULL
+
+(10) - 0,0 km MSC 1 Michele 859018
+	MBIAN1
+		Images:	2702
+		Time:	01.06.2024 10:41:17 until 01.06.2024 11:38:08
+		Duration:	00:56:51
+		Location:	NULL NULL
+
+(11) - 0,0 km MSC 7 Dave 859463
+	DTIDE2
+		Images:	5615
+		Time:	01.06.2024 12:49:18 until 01.06.2024 14:18:27
+		Duration:	01:29:09
+		Location:	NULL NULL
+
+(12) - 0,0 km MSC 7 David Alvarez 859465
+	DALVA2
+		Images:	1863
+		Time:	01.06.2024 13:30:58 until 01.06.2024 14:26:35
+		Duration:	00:55:37
+		Location:	NULL NULL
+
+(13) - 0,0 km MSC 7 Jerome 859064
+	JSBLO2
+		Images:	3026
+		Time:	01.06.2024 14:34:28 until 01.06.2024 15:20:46
+		Duration:	00:46:18
+		Location:	NULL NULL
+
+(14) - 0,0 km MSC 7 Michele 859066
+	MBIAN2
+		Images:	3325
+		Time:	01.06.2024 12:30:00 until 01.06.2024 14:16:40
+		Duration:	01:46:40
+		Location:	NULL NULL
+
+(15) - 0,0 km PR Dave 859013
+	DTIDE1
+		Images:	186
+		Time:	01.06.2024 11:17:44 until 01.06.2024 12:29:16
+		Duration:	01:11:32
+		Location:	NULL NULL
+
+(16) - 0,0 km PR Ryan 859014
+	RSLEI1
+		Images:	184
+		Time:	01.06.2024 11:10:33 until 01.06.2024 12:26:54
+		Duration:	01:16:21
+		Location:	NULL NULL
+
+(17) - 0,0 km Pre Fin Cesare 859009
+	CMARI2
+		Images:	5619
+		Time:	01.06.2024 14:00:10 until 01.06.2024 18:46:48
+		Duration:	04:46:38
+		Location:	NULL NULL
+
+(18) - 0,0 km Pre Fin Jerome 859010
+	JSBLO3
+		Images:	26474
+		Time:	01.06.2024 16:01:54 until 01.06.2024 19:54:47
+		Duration:	03:52:53
+		Location:	NULL NULL
+
+(19) - 0,0 km Pre FIn Trigger 1 850038
+	CMARI2LS1
+		Images:	12866
+		Time:	05.05.2024 08:31:00 until 01.06.2024 18:42:31
+		Duration:	27.10:11:31
+		Location:	NULL NULL
+
+(20) - 0,0 km Pre FIn Trigger 2 850039
+	CMARI2LS2
+		Images:	14717
+		Time:	01.06.2024 14:19:25 until 01.06.2024 18:42:40
+		Duration:	04:23:15
+		Location:	NULL NULL
+
+(21) - 0,0 km Pre Finish Dave 859011
+	DTIDE3
+		Images:	8712
+		Time:	01.06.2024 15:02:31 until 01.06.2024 16:52:58
+		Duration:	01:50:27
+		Location:	NULL NULL
+
+(22) - 0,0 km Ryan PR 2 859014
+	RSLEI3
+		Images:	194
+		Time:	01.06.2024 11:17:44 until 01.06.2024 12:29:16
+		Duration:	01:11:32
+		Location:	NULL NULL
+
+(23) - 0,0 km Shervin Nikpouya PR
+	SNIKP1
+		Images:	276
+		Time:	01.06.2024 12:04:14 until 01.06.2024 12:33:25
+		Duration:	00:29:11
+		Location:	NULL NULL
+
+(24) - 0.0 km MSC 1 Elnaz 859021
+	EAHAM1
+		Images:	2466
+		Time:	01.06.2024 15:37:35 until 01.06.2024 16:46:30
+		Duration:	01:08:55
+		Location:	NULL NULL
+
+(25) - 0.0 km MSC 1 Olga 859020
+	OSERI1
+		Images:	1464
+		Time:	01.06.2024 13:28:36 until 01.06.2024 14:27:46
+		Duration:	00:59:10
+		Location:	NULL NULL
+
+(26) - 0.0 km MSC 1 Sara 859019
+	SLACU1
+		Images:	7820
+		Time:	01.06.2024 12:07:38 until 01.06.2024 13:18:21
+		Duration:	01:10:43
+		Location:	NULL NULL
+
+(27) - 0.0 km MSC 10 Hugo 859474
+	HTRAN2
+		Images:	8052
+		Time:	01.06.2024 15:14:52 until 01.06.2024 19:10:50
+		Duration:	03:55:58
+		Location:	NULL NULL
+
+(28) - 0.0 km MSC 10 Levin 859473
+	LMOTZ2
+		Images:	13404
+		Time:	01.06.2024 14:30:01 until 01.06.2024 18:12:29
+		Duration:	03:42:28
+		Location:	NULL NULL
+
+(29) - 0.0 km MSC 10 LS 1 859475
+	LMOTZ2LS1
+		Images:	3380
+		Time:	01.06.2024 14:25:25 until 01.06.2024 18:12:38
+		Duration:	03:47:13
+		Location:	NULL NULL
+
+(30) - 0.0 km MSC 10 LS 2 859022
+	LMOTZ2LS2
+		Images:	168
+		Time:	01.06.2024 14:25:09 until 01.06.2024 18:12:11
+		Duration:	03:47:02
+		Location:	NULL NULL
+
+(31) - 0.0 km MSC 4 Hugo 859458
+	HTRAN1
+		Images:	2052
+		Time:	01.06.2024 13:21:55 until 01.06.2024 14:14:42
+		Duration:	00:52:47
+		Location:	NULL NULL
+
+(32) - 0.0 km MSC 4 Levin 859457
+	LMOTZ1
+		Images:	7249
+		Time:	01.06.2024 12:23:37 until 01.06.2024 13:51:25
+		Duration:	01:27:48
+		Location:	NULL NULL
+
+(33) - 0.0 km MSC 5 LS 859021
+	VQUAN1LS1
+		Images:	3836
+		Time:	01.06.2024 11:49:13 until 01.06.2024 13:33:19
+		Duration:	01:44:06
+		Location:	NULL NULL
+
+(34) - 0.0 km MSC 5 Van 859023
+	VQUAN1
+		Images:	9379
+		Time:	01.06.2024 11:24:42 until 01.06.2024 13:32:29
+		Duration:	02:07:47
+		Location:	NULL NULL
+
+(35) - 0.0 km MSC 5 Victor 859024
+	VMULL1
+		Images:	12033
+		Time:	01.06.2024 12:08:48 until 01.06.2024 18:01:48
+		Duration:	05:53:00
+		Location:	NULL NULL
+
+(36) - 0.0 km MSC 6 Ansis 859025
+	AVENT1
+		Images:	7074
+		Time:	01.06.2024 13:45:45 until 01.06.2024 15:39:11
+		Duration:	01:53:26
+		Location:	NULL NULL
+
+	AVENT2
+		Images:	7169
+		Time:	01.06.2024 12:32:47 until 01.06.2024 13:39:49
+		Duration:	01:07:02
+		Location:	NULL NULL
+
+(37) - 0.0 km MSC 6 Asanka 859461
+	AWEER1
+		Images:	3262
+		Time:	01.06.2024 12:24:51 until 01.06.2024 17:43:29
+		Duration:	05:18:38
+		Location:	NULL NULL
+
+	AWEER2
+		Images:	2878
+		Time:	02.06.2023 12:13:47 until 02.06.2023 13:39:09
+		Duration:	01:25:22
+		Location:	NULL NULL
+
+(38) - 0.0 km MSC 6 Daniel 859026
+	DBENG1
+		Images:	7695
+		Time:	01.06.2024 14:52:57 until 01.06.2024 18:06:06
+		Duration:	03:13:09
+		Location:	NULL NULL
+
+	DBENG2
+		Images:	5522
+		Time:	01.06.2024 13:21:09 until 01.06.2024 14:45:24
+		Duration:	01:24:15
+		Location:	NULL NULL
+
+(39) - 0.0 km MSC 6 LS 859462
+	AVENT1LS1
+		Images:	3632
+		Time:	01.06.2024 13:43:40 until 01.06.2024 14:45:44
+		Duration:	01:02:04
+		Location:	NULL NULL
+
+(40) - 0.0 km MSC 8 LS 859469
+	VQUAN2LS1
+		Images:	20814
+		Time:	01.06.2024 14:05:51 until 01.06.2024 18:02:42
+		Duration:	03:56:51
+		Location:	NULL NULL
+
+(41) - 0.0 km MSC 8 Van 859467
+	VQUAN2
+		Images:	23015
+		Time:	01.06.2024 14:32:00 until 01.06.2024 18:02:23
+		Duration:	03:30:23
+		Location:	NULL NULL
+
+(42) - 0.0 km MSC 8 Victor 859468
+	VMULL2
+		Images:	31373
+		Time:	01.06.2024 14:01:48 until 01.06.2024 18:01:48
+		Duration:	04:00:00
+		Location:	NULL NULL
+
+(43) - 0.0 km MSC 9 Elnaz 859472
+	EAHAM2
+		Images:	3379
+		Time:	01.06.2024 17:06:17 until 01.06.2024 20:32:45
+		Duration:	03:26:28
+		Location:	NULL NULL
+
+(44) - 0.0 km MSC 9 Olga 859471
+	OSERI2
+		Images:	5413
+		Time:	01.06.2024 14:46:45 until 01.06.2024 18:17:09
+		Duration:	03:30:24
+		Location:	NULL NULL
+
+(45) - 0.0 km MSC 9 Sara 859470
+	SLACU2
+		Images:	18112
+		Time:	01.06.2024 13:32:26 until 01.06.2024 17:06:26
+		Duration:	03:34:00
+		Location:	NULL NULL
+
+(46) - Impressions / Pano
+	PANO1
+(47) - none
+	AVENT1LS2
+		Images:	3993
+		Time:	01.06.2024 12:31:23 until 01.06.2024 13:43:04
+		Duration:	01:11:41
+		Location:	NULL NULL
+
+	AWEER3
+		Images:	1682
+		Time:	02.06.2023 15:34:09 until 02.06.2023 18:06:20
+		Duration:	02:32:11
+		Location:	NULL NULL
+
+	AWEER4
+		Images:	2967
+		Time:	02.06.2023 13:41:58 until 02.06.2023 15:27:02
+		Duration:	01:45:04
+		Location:	NULL NULL
+
+	BKUHN1
+		Images:	7415
+		Time:	01.06.2024 10:29:01 until 01.06.2024 11:58:57
+		Duration:	01:29:56
+		Location:	NULL NULL
+
+	BKUHN2
+		Images:	8694
+		Time:	01.06.2024 12:41:39 until 01.06.2024 16:22:39
+		Duration:	03:41:00
+		Location:	NULL NULL
+
+	BKUHN3
+		Images:	57
+		Time:	01.06.2024 16:23:07 until 01.06.2024 16:29:14
+		Duration:	00:06:07
+		Location:	NULL NULL
+
+	DBENG3
+		Images:	2226
+		Time:	01.06.2024 12:24:51 until 01.06.2024 13:16:48
+		Duration:	00:51:57
+		Location:	NULL NULL
+
+	DISEN1
+		Images:	880
+		Time:	01.06.2024 13:16:27 until 01.06.2024 17:26:35
+		Duration:	04:10:08
+		Location:	NULL NULL
+
+	DTIDE4
+		Images:	7335
+		Time:	01.06.2024 16:55:49 until 01.06.2024 18:52:06
+		Duration:	01:56:17
+		Location:	NULL NULL
+
+	FSTRZ1
+		Images:	4958
+		Time:	01.06.2024 12:05:16 until 01.06.2024 13:05:22
+		Duration:	01:00:06
+		Location:	NULL NULL
+
+	FSTRZ1LS1
+		Images:	2717
+		Time:	01.06.2023 12:12:24 until 01.06.2023 12:57:52
+		Duration:	00:45:28
+		Location:	NULL NULL
+
+	FSTRZ2
+		Images:	9047
+		Time:	01.06.2024 13:52:48 until 01.06.2024 17:26:39
+		Duration:	03:33:51
+		Location:	NULL NULL
+
+	FSTRZ2LS1
+		Images:	6029
+		Time:	01.06.2023 13:46:05 until 01.06.2023 17:27:33
+		Duration:	03:41:28
+		Location:	NULL NULL
+
+	HSARP1
+		Images:	2389
+		Time:	19.01.2018 15:05:05 until 19.01.2018 19:41:47
+		Duration:	04:36:42
+		Location:	NULL NULL
+
+	KKURS1
+		Images:	1440
+		Time:	02.06.2023 14:14:15 until 02.06.2023 18:42:58
+		Duration:	04:28:43
+		Location:	NULL NULL
+
+	MBIAN4
+		Images:	4889
+		Time:	01.06.2024 17:11:45 until 01.06.2024 18:51:56
+		Duration:	01:40:11
+		Location:	NULL NULL
+
+	MELAC1
+		Images:	1021
+		Time:	01.06.2024 14:15:11 until 01.06.2024 18:27:23
+		Duration:	04:12:12
+		Location:	NULL NULL
+
+	SGENT1
+		Images:	8362
+		Time:	01.06.2024 14:35:00 until 01.06.2024 16:56:34
+		Duration:	02:21:34
+		Location:	NULL NULL
+
+	SGENT2
+		Images:	6384
+		Time:	01.06.2024 16:57:02 until 01.06.2024 18:44:07
+		Duration:	01:47:05
+		Location:	NULL NULL
+
+	SNIKP2
+		Images:	2248
+		Time:	01.06.2024 13:42:21 until 01.06.2024 18:36:34
+		Duration:	04:54:13
+		Location:	NULL NULL
+
+	SWAG1
+		Images:	3001
+		Time:	01.06.2024 01:14:39 until 01.06.2024 06:27:29
+		Duration:	05:12:50
+		Location:	NULL NULL
+
+	VQUAN3
+		Images:	1535
+		Time:	01.06.2024 14:09:28 until 01.06.2024 14:26:35
+		Duration:	00:17:07
+		Location:	NULL NULL
+

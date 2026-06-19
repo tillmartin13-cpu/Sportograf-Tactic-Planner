@@ -1,0 +1,45 @@
+EventId: 15839
+Spots: 6
+Total Images: 19054
+Time:	07.03.2024 09:57:34 to 08.03.2025 16:30:42
+Duration: 366.06:33:08
+
+(1) - 13.0 Mile (Deer Canyon)
+	CC1
+		Images:	2986
+		Time:	07.03.2025 17:09:53 until 08.03.2025 08:38:18
+		Duration:	15:28:25
+		Location:	36.81622 -111.37896
+
+	CC1LS1
+		Images:	4563
+		Time:	08.03.2025 08:53:32 until 08.03.2025 11:32:57
+		Duration:	02:39:25
+		Location:	36.81622 -111.37896
+
+(2) - Horse Shoe Bend
+	ER1
+		Images:	481
+		Time:	08.03.2025 07:01:51 until 08.03.2025 12:49:10
+		Duration:	05:47:19
+		Location:	36.88274 -111.51107
+
+	ER1LS1
+		Images:	3122
+		Time:	07.03.2024 09:57:34 until 07.03.2024 15:48:26
+		Duration:	05:50:52
+		Location:	36.88274 -111.51107
+
+(3) - Finish
+	ER2
+		Images:	6671
+		Time:	08.03.2025 10:53:36 until 08.03.2025 16:30:42
+		Duration:	05:37:06
+		Location:	36.90077 -111.45995
+
+	CC2
+		Images:	1231
+		Time:	08.03.2025 11:07:39 until 08.03.2025 12:26:40
+		Duration:	01:19:01
+		Location:	36.90077 -111.45995
+

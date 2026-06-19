@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "43.59100" lon = "-110.83190"><name>AD1</name><desc>3.0 km
+Images:1724
+First:31.12.2022 23:00:15
+Last:31.12.2022 23:53:15
+Duration:00:53:00
+</desc></wpt>
+<wpt lat = "43.59100" lon = "-110.83190"><name>AD1LS1</name><desc>3.0 km
+Images:530
+First:06.06.2025 17:04:45
+Last:06.06.2025 17:35:40
+Duration:00:30:55
+</desc></wpt>
+<wpt lat = "43.58904" lon = "-110.82850"><name>ER1</name><desc>Finish
+Images:3181
+First:06.06.2025 17:33:22
+Last:06.06.2025 19:17:50
+Duration:01:44:28
+</desc></wpt>
+<wpt lat = "43.58904" lon = "-110.82850"><name>ER1LS1</name><desc>Finish
+Images:2070
+First:06.06.2025 17:15:31
+Last:06.06.2025 19:00:11
+Duration:01:44:40
+</desc></wpt>
+</gpx>

@@ -1,0 +1,1144 @@
+EventId: 10440
+Spots: 167
+Total Images: 1490520
+Time:	01.01.0001 23:00:00 to 09.10.2023 04:12:27
+Duration: 738800.05:12:27
+
+(1) - 0.0 km 852287 trigger mid mass
+	CTIV1
+		Images:	17865
+		Time:	08.10.2023 08:42:19 until 08.10.2023 13:56:59
+		Duration:	05:14:40
+		Location:	NULL NULL
+
+(2) - 0.0 km 852399 nate cordero msc 10
+	JNBCB1
+		Images:	3150
+		Time:	08.10.2023 12:34:13 until 08.10.2023 15:30:18
+		Duration:	02:56:05
+		Location:	NULL NULL
+
+(3) - 0.0 km Angel de la Mora 852224 OFP
+	AAM1
+		Images:	812
+		Time:	08.10.2023 10:05:35 until 08.10.2023 14:25:17
+		Duration:	04:19:42
+		Location:	NULL NULL
+
+(4) - 0.0 km Angelo Marr 852328 Medals
+	BAM1
+		Images:	1856
+		Time:	08.10.2023 09:03:00 until 08.10.2023 13:53:03
+		Duration:	04:50:03
+		Location:	NULL NULL
+
+(5) - 0.0 km barndon blanke msc 8 852316
+	KBBA1
+		Images:	26716
+		Time:	08.10.2023 09:13:39 until 08.10.2023 15:06:25
+		Duration:	05:52:46
+		Location:	NULL NULL
+
+(6) - 0.0 km Bobby PR
+	EBBB1
+		Images:	716
+		Time:	08.10.2023 05:02:19 until 08.10.2023 13:46:29
+		Duration:	08:44:10
+		Location:	NULL NULL
+
+	EBLEE1
+		Images:	1000
+		Time:	08.10.2023 08:06:45 until 08.10.2023 16:29:56
+		Duration:	08:23:11
+		Location:	NULL NULL
+
+(7) - 0.0 km brian whaley candids 852219
+	FBWA1
+		Images:	661
+		Time:	08.10.2023 06:18:15 until 08.10.2023 08:31:16
+		Duration:	02:13:01
+		Location:	NULL NULL
+
+(8) - 0.0 km CFexpress Post
+	ECFEX1
+		Images:	688
+		Time:	08.10.2023 10:25:35 until 08.10.2023 15:28:48
+		Duration:	05:03:13
+		Location:	NULL NULL
+
+(9) - 0.0 km Chad MSC 5 852392
+	GCCAS1
+		Images:	12831
+		Time:	08.10.2023 08:04:40 until 08.10.2023 11:00:20
+		Duration:	02:55:40
+		Location:	NULL NULL
+
+(10) - 0.0 km CHARLIE BROWN MSC 8 852318
+	KCBA1
+		Images:	18256
+		Time:	08.10.2023 08:46:28 until 08.10.2023 15:20:38
+		Duration:	06:34:10
+		Location:	NULL NULL
+
+(11) - 0.0 km Christopher Juhn 852396 MSC10
+	DCJ1
+		Images:	22016
+		Time:	08.10.2023 06:28:22 until 08.10.2023 15:24:11
+		Duration:	08:55:49
+		Location:	NULL NULL
+
+(12) - 0.0 km Chynna Grimes 852336 Medals
+	BCG1
+		Images:	5870
+		Time:	08.10.2023 09:28:03 until 08.10.2023 14:59:54
+		Duration:	05:31:51
+		Location:	NULL NULL
+
+(13) - 0.0 km clark z, msc extra, 854945
+	BCZA1
+(14) - 0.0 km clark, msc xtra, 854945
+	BCZB1
+		Images:	23337
+		Time:	08.10.2023 07:56:15 until 08.10.2023 12:37:35
+		Duration:	04:41:20
+		Location:	NULL NULL
+
+(15) - 0.0 km Claude Bird 852346 Medals
+	BCB1
+		Images:	12986
+		Time:	08.10.2023 08:58:11 until 08.10.2023 15:06:22
+		Duration:	06:08:11
+		Location:	NULL NULL
+
+(16) - 0.0 km claude bird, candid, 852252
+	FCBA1
+		Images:	4512
+		Time:	08.10.2023 04:45:41 until 08.10.2023 07:48:40
+		Duration:	03:02:59
+		Location:	NULL NULL
+
+(17) - 0.0 km claudia marlon candids 852248
+	FCMA1
+		Images:	439
+		Time:	08.10.2023 04:38:15 until 08.10.2023 07:32:59
+		Duration:	02:54:44
+		Location:	NULL NULL
+
+(18) - 0.0 km Claudia Maslon 852234 OFP
+	ACM1
+		Images:	877
+		Time:	08.10.2023 08:55:13 until 08.10.2023 14:26:30
+		Duration:	05:31:17
+		Location:	NULL NULL
+
+(19) - 0.0 km Colin Burke 852327 Medals
+	BCBB1
+		Images:	958
+		Time:	07.10.2023 22:10:06 until 08.10.2023 04:06:15
+		Duration:	05:56:09
+		Location:	NULL NULL
+
+(20) - 0.0 km craig ramsey 852286 mid mass
+	CCSR1
+		Images:	32533
+		Time:	08.10.2023 09:09:29 until 08.10.2023 14:40:07
+		Duration:	05:30:38
+		Location:	NULL NULL
+
+(21) - 0.0 km david krauss 852379 msc 7
+	IDK1
+		Images:	18035
+		Time:	08.10.2023 07:07:33 until 08.10.2023 14:24:37
+		Duration:	07:17:04
+		Location:	NULL NULL
+
+(22) - 0.0 km David Peralta mass 1 852288
+	CDPA1
+		Images:	14039
+		Time:	08.10.2023 07:21:07 until 08.10.2023 12:46:06
+		Duration:	05:24:59
+		Location:	NULL NULL
+
+(23) - 0.0 km Des Tan 852297 msc 1
+	EDTA1
+		Images:	6920
+		Time:	08.10.2023 07:08:39 until 08.10.2023 09:06:44
+		Duration:	01:58:05
+		Location:	NULL NULL
+
+(24) - 0.0 km Deyaneira Rodriguez OFP
+	ADR1
+		Images:	1017
+		Time:	07.10.2023 21:50:40 until 08.10.2023 02:28:02
+		Duration:	04:37:22
+		Location:	NULL NULL
+
+(25) - 0.0 km Dhamee Sinclair 852337 Medals
+	BDS1
+		Images:	3698
+		Time:	08.10.2023 09:26:44 until 08.10.2023 17:05:10
+		Duration:	07:38:26
+		Location:	NULL NULL
+
+(26) - 0.0 km Dulce Rodriguez 852344 Medals
+	BDR1
+		Images:	977
+		Time:	08.10.2023 13:45:21 until 08.10.2023 18:29:19
+		Duration:	04:43:58
+		Location:	NULL NULL
+
+(27) - 0.0 km Dulce Rodriguez candid 852245
+	FDRA1
+		Images:	1124
+		Time:	08.10.2023 09:34:44 until 08.10.2023 12:45:51
+		Duration:	03:11:07
+		Location:	NULL NULL
+
+(28) - 0.0 km Edward After Baffalo 852227 OFP
+	AEAB1
+		Images:	1320
+		Time:	08.10.2023 10:01:43 until 08.10.2023 15:00:58
+		Duration:	04:59:15
+		Location:	NULL NULL
+
+(29) - 0.0 km Elijah Hudley 852351 Medals
+	BEH1
+		Images:	10055
+		Time:	08.10.2023 07:44:46 until 08.10.2023 15:04:07
+		Duration:	07:19:21
+		Location:	NULL NULL
+
+(30) - 0.0 km enrique miret, 852326 msc9
+	BEMA1
+		Images:	11461
+		Time:	08.10.2023 07:42:55 until 08.10.2023 14:13:18
+		Duration:	06:30:23
+		Location:	NULL NULL
+
+(31) - 0.0 km Ernesto Alvarez 852338 Medals
+	BEA1
+		Images:	4184
+		Time:	08.10.2023 09:57:01 until 08.10.2023 15:43:23
+		Duration:	05:46:22
+		Location:	NULL NULL
+
+(32) - 0.0 km Expo Jim 852369
+	FJDAV1
+		Images:	281
+		Time:	07.10.2023 12:35:36 until 07.10.2023 17:54:58
+		Duration:	05:19:22
+		Location:	NULL NULL
+
+(33) - 0.0 km FIn Phillip852356
+	APRRR1
+		Images:	14357
+		Time:	08.10.2023 09:28:56 until 08.10.2023 12:52:23
+		Duration:	03:23:27
+		Location:	NULL NULL
+
+(34) - 0.0 km Fin Tom 852357
+	DTGER1
+		Images:	13530
+		Time:	08.10.2023 10:10:02 until 08.10.2023 12:38:54
+		Duration:	02:28:52
+		Location:	NULL NULL
+
+(35) - 0.0 km FIn trigge Right
+	EZMNA1
+		Images:	13466
+		Time:	08.10.2023 12:56:04 until 08.10.2023 17:02:09
+		Duration:	04:06:05
+		Location:	NULL NULL
+
+(36) - 0.0 km FIn Trigger Center
+	FTTRR1
+		Images:	13083
+		Time:	24.09.2023 08:58:41 until 08.10.2023 14:12:22
+		Duration:	14.05:13:41
+		Location:	NULL NULL
+
+(37) - 0.0 km Fin Trigger Center 852355
+	DTVV1
+		Images:	8318
+		Time:	08.10.2023 09:51:53 until 08.10.2023 12:59:41
+		Duration:	03:07:48
+		Location:	NULL NULL
+
+(38) - 0.0 km FIn Trigger Right
+	EYYYR1
+		Images:	4855
+		Time:	08.10.2022 20:30:32 until 08.10.2022 21:51:34
+		Duration:	01:21:02
+		Location:	NULL NULL
+
+(39) - 0.0 km Fin Trigger Right 852352
+	DTFIN1
+		Images:	7742
+		Time:	08.10.2023 09:00:37 until 08.10.2023 12:55:48
+		Duration:	03:55:11
+		Location:	NULL NULL
+
+(40) - 0.0 km Finish Center Trigge
+	FMMA1
+		Images:	7429
+		Time:	08.10.2023 14:57:37 until 08.10.2023 17:01:58
+		Duration:	02:04:21
+		Location:	NULL NULL
+
+(41) - 0.0 km Finish Gus 852354
+	FGGUS1
+		Images:	11543
+		Time:	08.10.2023 12:45:35 until 08.10.2023 14:37:15
+		Duration:	01:51:40
+		Location:	NULL NULL
+
+(42) - 0.0 km Finish Phillip Reyes
+	FVGVG1
+		Images:	13291
+		Time:	08.10.2023 12:55:10 until 08.10.2023 16:59:09
+		Duration:	04:03:59
+		Location:	NULL NULL
+
+(43) - 0.0 km Finish Toby
+	FTCHH1
+		Images:	13831
+		Time:	08.10.2023 11:03:32 until 08.10.2023 13:12:11
+		Duration:	02:08:39
+		Location:	NULL NULL
+
+(44) - 0.0 km Finish TOm
+	FTGER1
+		Images:	16333
+		Time:	08.10.2023 12:39:46 until 08.10.2023 16:45:16
+		Duration:	04:05:30
+		Location:	NULL NULL
+
+(45) - 0.0 km Finish trigger right 852358
+	DBBS1
+		Images:	8080
+		Time:	08.10.2023 09:18:33 until 08.10.2023 13:01:54
+		Duration:	03:43:21
+		Location:	NULL NULL
+
+(46) - 0.0 km Finsiht Toby
+	ETCHE1
+		Images:	12652
+		Time:	08.10.2023 09:55:43 until 08.10.2023 11:02:57
+		Duration:	01:07:14
+		Location:	NULL NULL
+
+(47) - 0.0 km Giang Pham msc 10 852397
+	JGPB1
+		Images:	5209
+		Time:	09.10.2023 01:36:46 until 09.10.2023 04:02:33
+		Duration:	02:25:47
+		Location:	NULL NULL
+
+(48) - 0.0 km Giang Pham msc 6 852303
+	JGP1
+		Images:	26874
+		Time:	08.10.2023 20:44:40 until 09.10.2023 04:12:27
+		Duration:	07:27:47
+		Location:	NULL NULL
+
+(49) - 0.0 km gus g, press truck, 852370
+	GGA1
+		Images:	2436
+		Time:	08.10.2023 07:08:13 until 08.10.2023 09:29:16
+		Duration:	02:21:03
+		Location:	NULL NULL
+
+(50) - 0.0 km harral msc 7 852378
+	IHAA1
+		Images:	31054
+		Time:	08.10.2023 06:48:04 until 08.10.2023 14:20:11
+		Duration:	07:32:07
+		Location:	NULL NULL
+
+(51) - 0.0 km Jacob Ferguson 852229 OFP
+	AJF1
+		Images:	2012
+		Time:	07.10.2023 16:38:42 until 07.10.2023 23:24:42
+		Duration:	06:46:00
+		Location:	NULL NULL
+
+(52) - 0.0 km Jamil lyons 852398 msc 10
+	JJLB1
+		Images:	2433
+		Time:	08.10.2023 12:31:03 until 08.10.2023 15:06:40
+		Duration:	02:35:37
+		Location:	NULL NULL
+
+(53) - 0.0 km Jamil Lyons msc 6, 852304
+	JJL1
+		Images:	4087
+		Time:	08.10.2023 08:29:30 until 08.10.2023 11:41:38
+		Duration:	03:12:08
+		Location:	NULL NULL
+
+(54) - 0.0 km JC Denava 852333 Medals
+	BJD1
+		Images:	2547
+		Time:	07.10.2023 21:48:53 until 08.10.2023 02:26:08
+		Duration:	04:37:15
+		Location:	NULL NULL
+
+(55) - 0.0 km Jeff <MSC 12
+	EJLAU1
+		Images:	27161
+		Time:	07.10.2023 16:34:05 until 08.10.2023 16:27:45
+		Duration:	23:53:40
+		Location:	NULL NULL
+
+(56) - 0.0 km Jeff alltop msc 9
+	BJAA1
+		Images:	24666
+		Time:	08.10.2023 08:43:32 until 08.10.2023 14:39:41
+		Duration:	05:56:09
+		Location:	NULL NULL
+
+(57) - 0.0 km jeff lautenberger, 852295 msc 1
+	EJLA1
+		Images:	11137
+		Time:	08.10.2023 07:29:23 until 08.10.2023 09:10:16
+		Duration:	01:40:53
+		Location:	NULL NULL
+
+(58) - 0.0 km Jeff Myers 852329 Medals
+	BJM1
+		Images:	3489
+		Time:	08.10.2023 09:47:55 until 08.10.2023 15:43:36
+		Duration:	05:55:41
+		Location:	NULL NULL
+
+(59) - 0.0 km jeff ring msc 9 852323
+	BJRA1
+		Images:	28541
+		Time:	08.10.2023 08:26:28 until 08.10.2023 15:02:28
+		Duration:	06:36:00
+		Location:	NULL NULL
+
+(60) - 0.0 km Jim Cabrera 852331 Medals
+	BJC1
+		Images:	3447
+		Time:	08.10.2023 09:49:35 until 08.10.2023 15:43:22
+		Duration:	05:53:47
+		Location:	NULL NULL
+
+(61) - 0.0 km jim davis pr 852375
+	JDA1
+		Images:	2857
+		Time:	17.06.2023 13:30:40 until 08.10.2023 10:52:07
+		Duration:	112.21:21:27
+		Location:	NULL NULL
+
+(62) - 0.0 km Joeff Davis 852222 OFP
+	AJD1
+		Images:	1082
+		Time:	08.10.2023 10:40:11 until 08.10.2023 15:27:03
+		Duration:	04:46:52
+		Location:	NULL NULL
+
+(63) - 0.0 km John Nero 852223 OFP
+	AJN1
+		Images:	1644
+		Time:	01.01.2002 14:59:01 until 08.10.2023 14:47:22
+		Duration:	7949.23:48:21
+		Location:	NULL NULL
+
+(64) - 0.0 km John O´Shae 852230 OFP
+	AJO1
+		Images:	1129
+		Time:	07.10.2023 20:40:03 until 08.10.2023 01:15:45
+		Duration:	04:35:42
+		Location:	NULL NULL
+
+(65) - 0.0 km Jolene Young 852228 OFP
+	AJY1
+		Images:	611
+		Time:	08.10.2023 08:01:42 until 08.10.2023 14:35:25
+		Duration:	06:33:43
+		Location:	NULL NULL
+
+(66) - 0.0 km jonathan parr, 852325 msc 9
+	BJPA1
+		Images:	15285
+		Time:	08.10.2023 08:32:37 until 08.10.2023 15:04:48
+		Duration:	06:32:11
+		Location:	NULL NULL
+
+(67) - 0.0 km jonathan roberts press truck 852375
+	JRA1
+		Images:	1609
+		Time:	08.10.2023 07:29:49 until 08.10.2023 09:42:18
+		Duration:	02:12:29
+		Location:	NULL NULL
+
+(68) - 0.0 km Jordan Skutar candids 852246
+	FJSA1
+		Images:	391
+		Time:	08.10.2023 05:35:49 until 08.10.2023 08:47:41
+		Duration:	03:11:52
+		Location:	NULL NULL
+
+(69) - 0.0 km Jordan Skutra 852238 OFP
+	AJS1
+		Images:	974
+		Time:	08.10.2023 09:47:02 until 08.10.2023 14:33:37
+		Duration:	04:46:35
+		Location:	NULL NULL
+
+(70) - 0.0 km Joshua Bindewald 852359 OFP
+	AJB1
+		Images:	701
+		Time:	27.09.2023 12:32:48 until 27.09.2023 16:36:27
+		Duration:	04:03:39
+		Location:	NULL NULL
+
+(71) - 0.0 km Julio mora msc 9 852324
+	BJMA1
+		Images:	24800
+		Time:	08.10.2023 08:22:51 until 08.10.2023 13:58:49
+		Duration:	05:35:58
+		Location:	NULL NULL
+
+(72) - 0.0 km Jyn Li 852334 Medals
+	BJL1
+		Images:	11885
+		Time:	08.10.2023 09:43:07 until 08.10.2023 13:32:55
+		Duration:	03:49:48
+		Location:	NULL NULL
+
+(73) - 0.0 km Jyn Li candids 852247
+	FJLA1
+		Images:	7631
+		Time:	08.10.2023 05:31:45 until 08.10.2023 08:33:06
+		Duration:	03:01:21
+		Location:	NULL NULL
+
+(74) - 0.0 km ken moreland msc extra 854946
+	BKMA1
+		Images:	22277
+		Time:	08.10.2023 08:54:18 until 08.10.2023 13:28:33
+		Duration:	04:34:15
+		Location:	NULL NULL
+
+(75) - 0.0 km Kevin Paz candids 852254
+	FKPA1
+		Images:	2658
+		Time:	08.10.2023 06:31:36 until 08.10.2023 09:16:35
+		Duration:	02:44:59
+		Location:	NULL NULL
+
+(76) - 0.0 km Lamine Bedjou 852342 Medals
+	BLB1
+		Images:	855
+		Time:	07.10.2023 23:21:25 until 08.10.2023 04:31:26
+		Duration:	05:10:01
+		Location:	NULL NULL
+
+(77) - 0.0 km Lucas Byron 852226 OFP
+	ALB1
+		Images:	815
+		Time:	08.10.2023 09:35:20 until 08.10.2023 14:35:17
+		Duration:	04:59:57
+		Location:	NULL NULL
+
+(78) - 0.0 km Luis Alvarez 852341 Medals
+	BLA1
+		Images:	3112
+		Time:	24.04.2007 16:41:43 until 24.04.2007 22:15:14
+		Duration:	05:33:31
+		Location:	NULL NULL
+
+(79) - 0.0 km luis alvarez, candids, 852250
+	FLAA1
+		Images:	749
+		Time:	24.04.2007 12:35:08 until 24.04.2007 15:37:56
+		Duration:	03:02:48
+		Location:	NULL NULL
+
+(80) - 0.0 km maria brown msc 8 852317
+	KMB1
+		Images:	16795
+		Time:	08.10.2023 08:27:17 until 08.10.2023 15:16:39
+		Duration:	06:49:22
+		Location:	NULL NULL
+
+(81) - 0.0 km Mario Arenales 852360 Major Banner
+	AMA1
+		Images:	1909
+		Time:	08.10.2023 08:58:04 until 08.10.2023 15:39:46
+		Duration:	06:41:42
+		Location:	NULL NULL
+
+(82) - 0.0 km Mark Elliot 852343 Medals
+	BME1
+		Images:	8384
+		Time:	08.10.2023 09:28:10 until 08.10.2023 15:44:07
+		Duration:	06:15:57
+		Location:	NULL NULL
+
+(83) - 0.0 km Mark elliot candids 852243
+	FMEA1
+		Images:	3973
+		Time:	08.10.2023 05:28:11 until 08.10.2023 08:44:20
+		Duration:	03:16:09
+		Location:	NULL NULL
+
+(84) - 0.0 km Melissa Freitas 852236 OFP
+	AMF1
+		Images:	1298
+		Time:	08.10.2023 09:34:48 until 08.10.2023 15:32:15
+		Duration:	05:57:27
+		Location:	NULL NULL
+
+(85) - 0.0 km Michael Gomez 852374 OFP
+	AMG1
+		Images:	512
+		Time:	07.10.2023 22:13:17 until 08.10.2023 03:00:02
+		Duration:	04:46:45
+		Location:	NULL NULL
+
+(86) - 0.0 km MSC 1 Tom 852298
+	ETGER1
+		Images:	12422
+		Time:	08.10.2023 07:15:26 until 08.10.2023 09:21:58
+		Duration:	02:06:32
+		Location:	NULL NULL
+
+(87) - 0.0 km MSC 11 Alan 852380
+	FFANG1
+		Images:	39309
+		Time:	08.10.2023 11:45:56 until 08.10.2023 16:43:45
+		Duration:	04:57:49
+		Location:	NULL NULL
+
+(88) - 0.0 km MSC 11 Bryan 852381
+	GBSEB1
+		Images:	14408
+		Time:	08.10.2023 12:14:54 until 08.10.2023 15:56:56
+		Duration:	03:42:02
+		Location:	NULL NULL
+
+(89) - 0.0 km MSC 11 Casey 852382
+	EECCA1
+		Images:	16675
+		Time:	08.10.2023 11:50:16 until 08.10.2023 15:46:59
+		Duration:	03:56:43
+		Location:	NULL NULL
+
+(90) - 0.0 km MSC 11 DOdd, 852383
+	GDSNO1
+		Images:	10324
+		Time:	08.10.2023 01:02:11 until 08.10.2023 04:45:48
+		Duration:	03:43:37
+		Location:	NULL NULL
+
+(91) - 0.0 km MSC 12 Roman 852311
+	ERBIR1
+		Images:	2859
+		Time:	08.10.2023 11:13:28 until 08.10.2023 16:23:05
+		Duration:	05:09:37
+		Location:	NULL NULL
+
+(92) - 0.0 km MSC 12 Trigger Left 852314
+	FLIUJ1
+		Images:	19248
+		Time:	17.01.2022 03:56:57 until 17.01.2022 10:25:54
+		Duration:	06:28:57
+		Location:	NULL NULL
+
+(93) - 0.0 km MSC 12 trigger right 852313
+	EGHJA1
+		Images:	10926
+		Time:	08.10.2023 10:41:56 until 08.10.2023 14:03:41
+		Duration:	03:21:45
+		Location:	NULL NULL
+
+(94) - 0.0 km MSC 2 852289 Alan
+	DANG1
+		Images:	17353
+		Time:	08.10.2023 08:06:35 until 08.10.2023 10:11:42
+		Duration:	02:05:07
+		Location:	NULL NULL
+
+(95) - 0.0 km MSC 2 852290 dODD
+	DDSNO1
+		Images:	7021
+		Time:	07.10.2023 19:53:57 until 07.10.2023 22:16:49
+		Duration:	02:22:52
+		Location:	NULL NULL
+
+(96) - 0.0 km MSC 3 Benjamin
+	EBEDD1
+		Images:	6294
+		Time:	08.10.2023 06:21:55 until 08.10.2023 07:53:43
+		Duration:	01:31:48
+		Location:	NULL NULL
+
+(97) - 0.0 km MSC 3 Roman 852301
+	EBIRA1
+		Images:	1638
+		Time:	08.10.2023 09:32:49 until 08.10.2023 13:03:55
+		Duration:	03:31:06
+		Location:	NULL NULL
+
+(98) - 0.0 km MSC 4 Benjamin 852388
+	FBEDD1
+		Images:	7903
+		Time:	08.10.2023 08:07:01 until 08.10.2023 09:42:59
+		Duration:	01:35:58
+		Location:	NULL NULL
+
+(99) - 0.0 km MSC 4 Henry 852387
+	EHCAS1
+		Images:	17981
+		Time:	08.10.2023 08:56:24 until 08.10.2023 11:51:50
+		Duration:	02:55:26
+		Location:	NULL NULL
+
+(100) - 0.0 km MSC 4 Trigger 852259
+	ETDHC1
+		Images:	17901
+		Time:	08.10.2023 08:56:22 until 08.10.2023 11:53:55
+		Duration:	02:57:33
+		Location:	NULL NULL
+
+(101) - 0.0 km MSC 5 Dodd, 852393
+	FFDSN1
+		Images:	6072
+		Time:	07.10.2023 22:44:36 until 08.10.2023 00:01:27
+		Duration:	01:16:51
+		Location:	NULL NULL
+
+(102) - 0.0 km MSC 5 Trigger 852395
+	EETNN1
+		Images:	4885
+		Time:	08.10.2023 10:43:01 until 08.10.2023 12:05:05
+		Duration:	01:22:04
+		Location:	NULL NULL
+
+(103) - 0.0 km MSC 5, Keith, 852391
+	EEKTR1
+		Images:	8944
+		Time:	08.10.2023 07:49:53 until 08.10.2023 11:00:43
+		Duration:	03:10:50
+		Location:	NULL NULL
+
+(104) - 0.0 km MSC 6 trigger 852306
+	JTVI1
+		Images:	20010
+		Time:	08.10.2023 20:53:50 until 09.10.2023 02:56:24
+		Duration:	06:02:34
+		Location:	NULL NULL
+
+(105) - 0.0 km MSC 852292 Trigger
+	DTRIG1
+		Images:	6093
+		Time:	08.10.2023 08:33:21 until 08.10.2023 10:20:34
+		Duration:	01:47:13
+		Location:	NULL NULL
+
+(106) - 0.0 km MSC Trigger 852400
+	GTRIG1
+		Images:	9317
+		Time:	08.10.2023 09:18:30 until 08.10.2023 12:57:29
+		Duration:	03:38:59
+		Location:	NULL NULL
+
+(107) - 0.0 km MSC11 Keith 852384
+	GKTRO1
+		Images:	6756
+		Time:	08.10.2023 12:25:10 until 08.10.2023 16:00:40
+		Duration:	03:35:30
+		Location:	NULL NULL
+
+(108) - 0.0 km MSC11 Trigger 852385
+	GTTTT1
+		Images:	12100
+		Time:	08.10.2023 13:02:06 until 08.10.2023 16:30:58
+		Duration:	03:28:52
+		Location:	NULL NULL
+
+(109) - 0.0 km msc2 852291 Bryan
+	DBSEB1
+		Images:	11712
+		Time:	08.10.2023 07:30:42 until 08.10.2023 09:18:49
+		Duration:	01:48:07
+		Location:	NULL NULL
+
+(110) - 0.0 km MSC4 Demonta 852386
+	EDHAR1
+		Images:	4841
+		Time:	08.10.2023 08:00:15 until 08.10.2023 10:49:31
+		Duration:	02:49:16
+		Location:	NULL NULL
+
+(111) - 0.0 km Nathan Cordero 852305 MSC6
+	DNC1
+(112) - 0.0 km Nathan cordero msc 6 3797
+	JNCB1
+		Images:	3227
+		Time:	01.01.0001 23:00:00 until 08.10.2023 11:46:05
+		Duration:	738799.12:46:05
+		Location:	NULL NULL
+
+(113) - 0.0 km Nick Lalowski 852332 Medals
+	BNL1
+		Images:	3360
+		Time:	08.10.2023 09:37:13 until 08.10.2023 15:37:51
+		Duration:	06:00:38
+		Location:	NULL NULL
+
+(114) - 0.0 km Noel Mcglinn 852225 OFP
+	ANM1
+		Images:	1930
+		Time:	08.10.2023 09:05:03 until 08.10.2023 13:57:17
+		Duration:	04:52:14
+		Location:	NULL NULL
+
+(115) - 0.0 km Paul w, mid mass 1, 852285
+	CPWA1
+		Images:	23494
+		Time:	08.10.2023 08:48:28 until 08.10.2023 13:41:59
+		Duration:	04:53:31
+		Location:	NULL NULL
+
+(116) - 0.0 km Pedrik Hales 852221 OFP
+	APH1
+		Images:	1346
+		Time:	08.10.2023 09:06:17 until 08.10.2023 14:48:48
+		Duration:	05:42:31
+		Location:	NULL NULL
+
+(117) - 0.0 km Pre Fin Desmond 852280
+	EEDTA1
+		Images:	22404
+		Time:	08.10.2023 09:56:29 until 08.10.2023 16:00:52
+		Duration:	06:04:23
+		Location:	NULL NULL
+
+(118) - 0.0 km Pre Fin Far left trigger
+	ETTRI1
+		Images:	5270
+		Time:	08.10.2023 10:19:37 until 08.10.2023 13:33:23
+		Duration:	03:13:46
+		Location:	NULL NULL
+
+(119) - 0.0 km Pre FIn Jonathan 852278
+	EJROB1
+		Images:	8867
+		Time:	08.10.2023 12:38:53 until 08.10.2023 15:59:37
+		Duration:	03:20:44
+		Location:	NULL NULL
+
+(120) - 0.0 km Pre Fin Left trigger
+	EKKSA1
+		Images:	10620
+		Time:	08.10.2023 12:08:42 until 08.10.2023 15:50:59
+		Duration:	03:42:17
+		Location:	NULL NULL
+
+(121) - 0.0 km Pre FIn Steve 852279
+	FFSHA1
+		Images:	16314
+		Time:	08.10.2023 10:54:51 until 08.10.2023 16:16:29
+		Duration:	05:21:38
+		Location:	NULL NULL
+
+(122) - 0.0 km Pre Fin Trigger right
+	FTBNA1
+		Images:	7887
+		Time:	08.10.2023 20:30:28 until 08.10.2023 22:41:54
+		Duration:	02:11:26
+		Location:	NULL NULL
+
+(123) - 0.0 km Pre Fin trigger Right 852283
+	DOPT1
+		Images:	7778
+		Time:	31.12.2013 19:00:01 until 08.09.2023 12:10:10
+		Duration:	3537.17:10:09
+		Location:	NULL NULL
+
+(124) - 0.0 km Prefin Ground Upshot
+	FNBBF1
+		Images:	9176
+		Time:	25.02.2007 23:15:12 until 26.02.2007 02:25:51
+		Duration:	03:10:39
+		Location:	NULL NULL
+
+(125) - 0.0 km PreFin Jim Davis 852281
+	DJIMD1
+		Images:	21131
+		Time:	08.10.2023 11:06:43 until 08.10.2023 13:38:17
+		Duration:	02:31:34
+		Location:	NULL NULL
+
+(126) - 0.0 km PreFIn Jonathan 852278
+	DJROB1
+		Images:	9037
+		Time:	08.10.2023 10:15:04 until 08.10.2023 12:37:55
+		Duration:	02:22:51
+		Location:	NULL NULL
+
+(127) - 0.0 km PreFIn Left Trigger Front
+	ECALO1
+		Images:	9737
+		Time:	08.10.2023 13:33:54 until 08.10.2023 16:16:36
+		Duration:	02:42:42
+		Location:	NULL NULL
+
+(128) - 0.0 km PreFin Trigger Left Fin 852282
+	DPFT1
+		Images:	7922
+		Time:	08.10.2023 08:12:44 until 08.10.2023 12:08:17
+		Duration:	03:55:33
+		Location:	NULL NULL
+
+(129) - 0.0 km PreFIn TriggeR righty
+	EROP1
+		Images:	4855
+		Time:	08.10.2022 20:30:32 until 08.10.2022 21:51:34
+		Duration:	01:21:02
+		Location:	NULL NULL
+
+(130) - 0.0 km Regina saponieri 852249
+	FRSA1
+		Images:	415
+		Time:	07.10.2023 10:53:50 until 07.10.2023 13:35:53
+		Duration:	02:42:03
+		Location:	NULL NULL
+
+(131) - 0.0 km Regina Saponieri 852335 Medals
+	BRS1
+		Images:	853
+		Time:	07.10.2023 14:46:35 until 07.10.2023 19:32:35
+		Duration:	04:46:00
+		Location:	NULL NULL
+
+(132) - 0.0 km Roberto Martinez 852340 Medals
+	BRM1
+		Images:	3371
+		Time:	08.10.2023 09:50:26 until 08.10.2023 14:33:37
+		Duration:	04:43:11
+		Location:	NULL NULL
+
+(133) - 0.0 km Roberto Martinez Candids 852253
+	FRMA1
+		Images:	1144
+		Time:	08.10.2023 06:26:34 until 08.10.2023 08:56:03
+		Duration:	02:29:29
+		Location:	NULL NULL
+
+(134) - 0.0 km Saunun guery candids 852244
+	FSGA1
+		Images:	464
+		Time:	08.10.2023 05:41:38 until 08.10.2023 08:36:58
+		Duration:	02:55:20
+		Location:	NULL NULL
+
+(135) - 0.0 km Scott fiedler 852296 msc 1
+	ESFA1
+		Images:	1626
+		Time:	08.10.2023 07:52:09 until 08.10.2023 09:46:36
+		Duration:	01:54:27
+		Location:	NULL NULL
+
+(136) - 0.0 km sean haworth msc 8 852315
+	KSHA1
+		Images:	27026
+		Time:	08.10.2023 09:35:29 until 08.10.2023 15:07:35
+		Duration:	05:32:06
+		Location:	NULL NULL
+
+(137) - 0.0 km Shanon Guest 852235 OFP
+	ASG1
+		Images:	1697
+		Time:	08.10.2023 09:17:51 until 08.10.2023 14:42:26
+		Duration:	05:24:35
+		Location:	NULL NULL
+
+(138) - 0.0 km Sharmore Clarice 852251
+	FSCA1
+		Images:	875
+		Time:	07.10.2023 17:34:16 until 07.10.2023 20:48:22
+		Duration:	03:14:06
+		Location:	NULL NULL
+
+(139) - 0.0 km steve handwerker 852294 msc 1
+	ESHA1
+		Images:	4788
+		Time:	08.10.2023 06:28:39 until 08.10.2023 09:20:47
+		Duration:	02:52:08
+		Location:	NULL NULL
+
+(140) - 0.0 km Steven Nunez 852330 Medals
+	BSN1
+		Images:	6703
+		Time:	08.10.2023 10:10:29 until 08.10.2023 15:42:45
+		Duration:	05:32:16
+		Location:	NULL NULL
+
+(141) - 0.0 km thomas lamm msc 8 852319
+	KTL1
+		Images:	18588
+		Time:	08.10.2023 08:56:09 until 08.10.2023 13:58:15
+		Duration:	05:02:06
+		Location:	NULL NULL
+
+(142) - 0.0 km toby c msc 1, 852293
+	ETCA1
+		Images:	18820
+		Time:	10.12.2022 15:20:45 until 08.10.2023 06:15:10
+		Duration:	301.14:54:25
+		Location:	NULL NULL
+
+(143) - 0.0 km Trent Weyermuller 852232 OFP
+	ATW1
+		Images:	1274
+		Time:	08.10.2023 10:12:02 until 08.10.2023 15:11:07
+		Duration:	04:59:05
+		Location:	NULL NULL
+
+(144) - 0.0 km trigger 2 msc 1 852260
+	ETAB1
+		Images:	6216
+		Time:	08.10.2023 07:01:51 until 08.10.2023 09:13:11
+		Duration:	02:11:20
+		Location:	NULL NULL
+
+(145) - 0.0 km trigger 3 msc 7 852401
+	ITIII1
+		Images:	20179
+		Time:	08.10.2023 05:07:37 until 08.10.2023 11:34:11
+		Duration:	06:26:34
+		Location:	NULL NULL
+
+(146) - 0.0 km trigger cam msc extra 854947
+	BTXB1
+		Images:	12401
+		Time:	08.10.2023 05:55:13 until 08.10.2023 10:42:24
+		Duration:	04:47:11
+		Location:	NULL NULL
+
+(147) - 0.0 km trigger1 msc 1 852299
+	ETAA1
+		Images:	6824
+		Time:	08.10.2023 07:04:11 until 08.10.2023 09:20:08
+		Duration:	02:15:57
+		Location:	NULL NULL
+
+(148) - 0.0 km Vincent Drakes 852231 OFP
+	AVD1
+		Images:	1023
+		Time:	07.10.2023 21:56:40 until 08.10.2023 03:25:35
+		Duration:	05:28:55
+		Location:	NULL NULL
+
+(149) - 0.0 km Yesenia Esteban 852220 OFP
+	AYE1
+		Images:	2161
+		Time:	25.07.2004 19:25:33 until 08.10.2023 12:21:42
+		Duration:	7013.16:56:09
+		Location:	NULL NULL
+
+(150) - Impressions / Pano
+	PANO1
+(151) - none
+	ABW1
+		Images:	596
+		Time:	08.10.2023 10:04:07 until 08.10.2023 14:24:10
+		Duration:	04:20:03
+		Location:	NULL NULL
+
+	APREY1
+		Images:	2380
+		Time:	08.10.2023 05:59:11 until 08.10.2023 08:57:14
+		Duration:	02:58:03
+		Location:	NULL NULL
+
+	BKP1
+		Images:	5555
+		Time:	08.10.2023 09:57:22 until 08.10.2023 13:59:31
+		Duration:	04:02:09
+		Location:	NULL NULL
+
+	BSC1
+		Images:	2654
+		Time:	07.10.2023 21:42:07 until 08.10.2023 19:08:21
+		Duration:	21:26:14
+		Location:	NULL NULL
+
+	BTEST1
+		Images:	407
+		Time:	24.09.2023 09:49:14 until 24.09.2023 09:57:41
+		Duration:	00:08:27
+		Location:	NULL NULL
+
+	CBEDD1
+		Images:	18755
+		Time:	08.10.2023 11:05:35 until 08.10.2023 15:32:44
+		Duration:	04:27:09
+		Location:	NULL NULL
+
+	CHCAS1
+		Images:	21865
+		Time:	08.10.2023 13:05:16 until 08.10.2023 18:08:31
+		Duration:	05:03:15
+		Location:	NULL NULL
+
+	CTEST1
+		Images:	407
+		Time:	24.09.2023 09:49:14 until 24.09.2023 09:57:41
+		Duration:	00:08:27
+		Location:	NULL NULL
+
+	DGGAR1
+		Images:	22936
+		Time:	08.10.2023 10:06:25 until 08.10.2023 12:43:47
+		Duration:	02:37:22
+		Location:	NULL NULL
+
+	DSFIE1
+		Images:	28471
+		Time:	08.10.2023 09:29:11 until 08.10.2023 16:34:08
+		Duration:	07:04:57
+		Location:	NULL NULL
+
+	DTCHE1
+		Images:	28642
+		Time:	08.10.2023 07:19:36 until 08.10.2023 09:52:42
+		Duration:	02:33:06
+		Location:	NULL NULL
+
+	FFBSE1
+		Images:	494
+		Time:	08.10.2023 09:39:44 until 08.10.2023 09:43:17
+		Duration:	00:03:33
+		Location:	NULL NULL
+
+	FTEST1
+		Images:	404
+		Time:	24.09.2023 09:49:14 until 24.09.2023 09:57:41
+		Duration:	00:08:27
+		Location:	NULL NULL
+
+	GJDAV1
+		Images:	19053
+		Time:	08.10.2023 13:39:01 until 08.10.2023 17:12:49
+		Duration:	03:33:48
+		Location:	NULL NULL
+
+	GTEST1
+		Images:	405
+		Time:	24.09.2023 09:49:14 until 24.09.2023 09:57:41
+		Duration:	00:08:27
+		Location:	NULL NULL
+
+	KDHAR1
+		Images:	4972
+		Time:	08.10.2023 12:30:41 until 08.10.2023 16:34:20
+		Duration:	04:03:39
+		Location:	NULL NULL
+

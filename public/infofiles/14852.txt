@@ -1,0 +1,348 @@
+EventId: 14852
+Spots: 56
+Total Images: 183353
+Time:	11.04.2025 19:24:03 to 13.04.2025 21:34:33
+Duration: 2.02:10:30
+
+(1) - Impressions / Pano
+	MK1IMP1
+		Images:	3
+		Time:	12.04.2025 20:39:40 until 12.04.2025 20:59:32
+		Duration:	00:19:52
+		Location:	NULL NULL
+
+	DEES8IMP1
+		Images:	179
+		Time:	12.04.2025 20:41:17 until 12.04.2025 21:15:15
+		Duration:	00:33:58
+		Location:	NULL NULL
+
+	PANO1
+(2) - Station 1 SKIERG
+	MAMS1
+		Images:	4283
+		Time:	12.04.2025 06:33:45 until 12.04.2025 14:25:44
+		Duration:	07:51:59
+		Location:	NULL NULL
+
+	AAM1
+		Images:	4683
+		Time:	12.04.2025 07:01:35 until 12.04.2025 14:26:56
+		Duration:	07:25:21
+		Location:	NULL NULL
+
+	SAS1
+		Images:	4441
+		Time:	11.04.2025 23:17:15 until 12.04.2025 14:28:58
+		Duration:	15:11:43
+		Location:	NULL NULL
+
+	LV1
+		Images:	172
+		Time:	12.04.2025 14:30:23 until 12.04.2025 14:37:08
+		Duration:	00:06:45
+		Location:	NULL NULL
+
+	MK1
+		Images:	47
+		Time:	12.04.2025 08:45:07 until 12.04.2025 08:46:53
+		Duration:	00:01:46
+		Location:	NULL NULL
+
+	DEES1
+		Images:	106
+		Time:	12.04.2025 13:07:54 until 12.04.2025 14:37:24
+		Duration:	01:29:30
+		Location:	NULL NULL
+
+	GOR2
+		Images:	4446
+		Time:	12.04.2025 15:03:27 until 12.04.2025 20:44:25
+		Duration:	05:40:58
+		Location:	NULL NULL
+
+	YAS2
+		Images:	5393
+		Time:	12.04.2025 15:33:19 until 12.04.2025 20:35:16
+		Duration:	05:01:57
+		Location:	NULL NULL
+
+	SSR2
+		Images:	2344
+		Time:	12.04.2025 14:37:18 until 12.04.2025 20:44:07
+		Duration:	06:06:49
+		Location:	NULL NULL
+
+(3) - Station 2 SLED PUSH
+	MK2
+		Images:	207
+		Time:	12.04.2025 08:39:05 until 12.04.2025 15:39:20
+		Duration:	07:00:15
+		Location:	NULL NULL
+
+	PASA1
+		Images:	2653
+		Time:	12.04.2025 06:22:08 until 12.04.2025 15:29:18
+		Duration:	09:07:10
+		Location:	NULL NULL
+
+	KAJ1
+		Images:	3362
+		Time:	11.04.2025 23:33:11 until 12.04.2025 13:17:24
+		Duration:	13:44:13
+		Location:	NULL NULL
+
+	AMG1
+		Images:	2098
+		Time:	12.04.2025 06:23:49 until 12.04.2025 14:38:34
+		Duration:	08:14:45
+		Location:	NULL NULL
+
+	ADSM2
+		Images:	4543
+		Time:	12.04.2025 14:44:08 until 12.04.2025 20:49:13
+		Duration:	06:05:05
+		Location:	NULL NULL
+
+	YUM2
+		Images:	5936
+		Time:	12.04.2025 15:26:29 until 12.04.2025 20:50:55
+		Duration:	05:24:26
+		Location:	NULL NULL
+
+	SAQ2
+		Images:	1121
+		Time:	12.04.2025 14:22:59 until 12.04.2025 20:44:06
+		Duration:	06:21:07
+		Location:	NULL NULL
+
+(4) - Station 3 SLED PULL
+	SSR1
+		Images:	2812
+		Time:	12.04.2025 06:23:00 until 12.04.2025 13:58:38
+		Duration:	07:35:38
+		Location:	NULL NULL
+
+	SAS2
+		Images:	4422
+		Time:	12.04.2025 14:34:49 until 12.04.2025 21:10:27
+		Duration:	06:35:38
+		Location:	NULL NULL
+
+	MAMS2
+		Images:	3303
+		Time:	12.04.2025 14:37:42 until 12.04.2025 21:04:16
+		Duration:	06:26:34
+		Location:	NULL NULL
+
+	KEHI1
+		Images:	3316
+		Time:	12.04.2025 06:46:58 until 12.04.2025 17:44:46
+		Duration:	10:57:48
+		Location:	NULL NULL
+
+	SSA1
+		Images:	6445
+		Time:	13.04.2025 06:22:32 until 13.04.2025 14:34:37
+		Duration:	08:12:05
+		Location:	NULL NULL
+
+	MK3
+		Images:	180
+		Time:	12.04.2025 08:21:54 until 12.04.2025 15:31:45
+		Duration:	07:09:51
+		Location:	NULL NULL
+
+	MRGO2
+		Images:	2024
+		Time:	12.04.2025 14:50:27 until 12.04.2025 21:09:28
+		Duration:	06:19:01
+		Location:	NULL NULL
+
+(5) - Station 4 BURPEE ROAD
+	LV4
+		Images:	419
+		Time:	12.04.2025 14:50:10 until 12.04.2025 18:28:26
+		Duration:	03:38:16
+		Location:	NULL NULL
+
+(6) - Station 5 ROWING
+	SSA2
+		Images:	10092
+		Time:	13.04.2025 14:48:21 until 13.04.2025 21:34:33
+		Duration:	06:46:12
+		Location:	NULL NULL
+
+	MUP1
+		Images:	7654
+		Time:	12.04.2025 07:10:15 until 12.04.2025 14:31:37
+		Duration:	07:21:22
+		Location:	NULL NULL
+
+	KEHI2
+		Images:	1723
+		Time:	12.04.2025 14:48:37 until 12.04.2025 21:28:00
+		Duration:	06:39:23
+		Location:	NULL NULL
+
+	DEES5
+		Images:	2210
+		Time:	12.04.2025 07:32:18 until 12.04.2025 18:12:56
+		Duration:	10:40:38
+		Location:	NULL NULL
+
+	LV5
+		Images:	5503
+		Time:	12.04.2025 06:48:52 until 12.04.2025 18:13:41
+		Duration:	11:24:49
+		Location:	NULL NULL
+
+	MK5
+		Images:	88
+		Time:	12.04.2025 08:40:57 until 12.04.2025 08:48:57
+		Duration:	00:08:00
+		Location:	NULL NULL
+
+	GOR1
+		Images:	7463
+		Time:	11.04.2025 19:24:03 until 12.04.2025 14:41:00
+		Duration:	19:16:57
+		Location:	NULL NULL
+
+(7) - Station 6 FARMERS CARRY
+	MUP1LS1
+		Images:	3734
+		Time:	12.04.2025 06:35:22 until 12.04.2025 22:24:55
+		Duration:	15:49:33
+		Location:	NULL NULL
+
+	MUP1LS2
+		Images:	4763
+		Time:	12.04.2025 06:36:44 until 12.04.2025 20:26:45
+		Duration:	13:50:01
+		Location:	NULL NULL
+
+(8) - Station 7 SANDBAG LUNGES
+	PASA2
+		Images:	2153
+		Time:	12.04.2025 15:30:34 until 12.04.2025 22:02:19
+		Duration:	06:31:45
+		Location:	NULL NULL
+
+	MK7
+		Images:	4954
+		Time:	12.04.2025 14:36:28 until 12.04.2025 21:13:50
+		Duration:	06:37:22
+		Location:	NULL NULL
+
+	MRGO1
+		Images:	3190
+		Time:	12.04.2025 06:32:19 until 12.04.2025 14:42:05
+		Duration:	08:09:46
+		Location:	NULL NULL
+
+	DEES7
+		Images:	1378
+		Time:	12.04.2025 07:53:27 until 12.04.2025 18:36:48
+		Duration:	10:43:21
+		Location:	NULL NULL
+
+	LV7
+		Images:	3742
+		Time:	12.04.2025 07:37:34 until 12.04.2025 19:50:08
+		Duration:	12:12:34
+		Location:	NULL NULL
+
+(9) - Station 8 WALLBALLS
+	YAS1
+		Images:	5492
+		Time:	12.04.2025 06:56:20 until 12.04.2025 14:22:46
+		Duration:	07:26:26
+		Location:	NULL NULL
+
+	AMG2
+		Images:	2907
+		Time:	12.04.2025 14:43:30 until 12.04.2025 21:48:46
+		Duration:	07:05:16
+		Location:	NULL NULL
+
+	ADSM1
+		Images:	3949
+		Time:	12.04.2025 06:31:45 until 12.04.2025 14:33:03
+		Duration:	08:01:18
+		Location:	NULL NULL
+
+	AAM2
+		Images:	3969
+		Time:	12.04.2025 14:37:02 until 12.04.2025 21:51:55
+		Duration:	07:14:53
+		Location:	NULL NULL
+
+	DEES8
+		Images:	5473
+		Time:	12.04.2025 07:57:15 until 12.04.2025 19:34:30
+		Duration:	11:37:15
+		Location:	NULL NULL
+
+	LV8
+		Images:	6251
+		Time:	12.04.2025 07:57:03 until 12.04.2025 19:36:07
+		Duration:	11:39:04
+		Location:	NULL NULL
+
+(10) - Finish
+	KAJ2
+		Images:	4466
+		Time:	12.04.2025 13:45:40 until 12.04.2025 22:12:43
+		Duration:	08:27:03
+		Location:	NULL NULL
+
+	SAQ1
+		Images:	5522
+		Time:	12.04.2025 06:26:03 until 12.04.2025 14:13:19
+		Duration:	07:47:16
+		Location:	NULL NULL
+
+	MK9
+		Images:	2170
+		Time:	12.04.2025 09:00:55 until 12.04.2025 17:45:16
+		Duration:	08:44:21
+		Location:	NULL NULL
+
+	MK9LS1
+		Images:	3772
+		Time:	12.04.2025 07:37:06 until 12.04.2025 21:59:43
+		Duration:	14:22:37
+		Location:	NULL NULL
+
+	LV9
+		Images:	604
+		Time:	12.04.2025 16:09:35 until 12.04.2025 21:01:04
+		Duration:	04:51:29
+		Location:	NULL NULL
+
+	MK9LS2
+		Images:	3806
+		Time:	12.04.2025 07:51:10 until 12.04.2025 22:17:28
+		Duration:	14:26:18
+		Location:	NULL NULL
+
+(11) - Medalwall
+	MUP2
+		Images:	3365
+		Time:	12.04.2025 15:08:31 until 12.04.2025 22:24:52
+		Duration:	07:16:21
+		Location:	NULL NULL
+
+	YUM1
+		Images:	3402
+		Time:	12.04.2025 08:01:26 until 12.04.2025 15:11:31
+		Duration:	07:10:05
+		Location:	NULL NULL
+
+	MK10
+		Images:	620
+		Time:	12.04.2025 09:31:21 until 12.04.2025 19:11:29
+		Duration:	09:40:08
+		Location:	NULL NULL
+

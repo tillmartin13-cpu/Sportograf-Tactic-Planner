@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "42.95113" lon = "-2.58797"><name>AIS1</name><desc>Swim Exit
+Images:4266
+First:13.07.2025 06:16:27
+Last:13.07.2025 11:13:20
+Duration:04:56:53
+</desc></wpt>
+<wpt lat = "42.95113" lon = "-2.58797"><name>AIS1IMP1</name><desc>Swim Exit
+Images:3
+First:01.01.0001 23:00:00
+Last:01.01.0001 23:00:00
+Duration:00:00:00
+</desc></wpt>
+<wpt lat = "42.95113" lon = "-2.58797"><name>AIS1LS1</name><desc>Swim Exit
+Images:1624
+First:13.07.2025 08:53:34
+Last:13.07.2025 10:52:18
+Duration:01:58:44
+</desc></wpt>
+<wpt lat = "42.95113" lon = "-2.58797"><name>OHO1</name><desc>Swim Exit
+Images:2080
+First:13.07.2025 07:04:52
+Last:13.07.2025 10:54:04
+Duration:03:49:12
+</desc></wpt>
+<wpt lat = "42.84653" lon = "-2.67370"><name>AIS2</name><desc>Running - Plaza Virgen Blanca
+Images:8857
+First:13.07.2025 13:22:22
+Last:13.07.2025 22:26:23
+Duration:09:04:01
+</desc></wpt>
+<wpt lat = "42.84653" lon = "-2.67370"><name>AIS2LS1</name><desc>Running - Plaza Virgen Blanca
+Images:4025
+First:13.07.2025 13:12:56
+Last:13.07.2025 17:35:55
+Duration:04:22:59
+</desc></wpt>
+<wpt lat = "42.95319" lon = "-2.58805"><name>ATRE1</name><desc>Swim - Start
+Images:2177
+First:13.07.2025 06:55:52
+Last:13.07.2025 08:43:57
+Duration:01:48:05
+</desc></wpt>
+<wpt lat = "42.95319" lon = "-2.58805"><name>DAC1</name><desc>Swim - Start
+Images:2393
+First:13.07.2025 06:53:51
+Last:13.07.2025 13:47:53
+Duration:06:54:02
+</desc></wpt>
+<wpt lat = "42.84646" lon = "-2.67223"><name>ATRE2</name><desc>Finish line
+Images:11276
+First:13.07.2025 15:24:35
+Last:14.07.2025 00:02:56
+Duration:08:38:21
+</desc></wpt>
+<wpt lat = "42.84646" lon = "-2.67223"><name>DAC2</name><desc>Finish line
+Images:6587
+First:13.07.2025 15:24:55
+Last:14.07.2025 00:03:03
+Duration:08:38:08
+</desc></wpt>
+<wpt lat = "42.84646" lon = "-2.67223"><name>DAC2LS1</name><desc>Finish line
+Images:2400
+First:13.07.2025 15:16:57
+Last:13.07.2025 23:55:20
+Duration:08:38:23
+</desc></wpt>
+<wpt lat = "42.84646" lon = "-2.67223"><name>ROM3</name><desc>Finish line
+Images:380
+First:13.07.2025 18:21:12
+Last:13.07.2025 20:18:47
+Duration:01:57:35
+</desc></wpt>
+<wpt lat = "42.88981" lon = "-2.38912"><name>GGA1</name><desc>Bike - Luzuriaga
+Images:8319
+First:13.07.2025 08:51:16
+Last:13.07.2025 14:52:11
+Duration:06:00:55
+</desc></wpt>
+<wpt lat = "42.88981" lon = "-2.38912"><name>GGA1IMP1</name><desc>Bike - Luzuriaga
+Images:2
+First:01.01.0001 23:00:00
+Last:01.01.0001 23:00:00
+Duration:00:00:00
+</desc></wpt>
+<wpt lat = "42.88981" lon = "-2.38912"><name>GGA1LS1</name><desc>Bike - Luzuriaga
+Images:3097
+First:13.07.2025 07:32:07
+Last:13.07.2025 14:53:08
+Duration:07:21:01
+</desc></wpt>
+<wpt lat = "42.91467" lon = "-2.46283"><name>JRP1</name><desc>Bike - Iglesia de San Millán
+Images:16143
+First:13.07.2025 07:08:13
+Last:13.07.2025 14:31:32
+Duration:07:23:19
+</desc></wpt>
+<wpt lat = "42.91467" lon = "-2.46283"><name>JRP1LS1</name><desc>Bike - Iglesia de San Millán
+Images:3239
+First:13.07.2025 08:55:02
+Last:13.07.2025 14:34:34
+Duration:05:39:32
+</desc></wpt>
+<wpt lat = "42.84591" lon = "-2.67498"><name>OHO2</name><desc>Running - Catedral Maria Inmaculada de Vitoria
+Images:6398
+First:13.07.2025 12:56:20
+Last:13.07.2025 22:37:16
+Duration:09:40:56
+</desc></wpt>
+<wpt lat = "42.84591" lon = "-2.67498"><name>ROM2</name><desc>Running - Catedral Maria Inmaculada de Vitoria
+Images:1388
+First:13.07.2025 17:33:29
+Last:13.07.2025 22:37:15
+Duration:05:03:46
+</desc></wpt>
+<wpt lat = "42.90724" lon = "-2.39950"><name>ROM1</name><desc>Bike - Salida Narvaja
+Images:7992
+First:13.07.2025 09:11:52
+Last:13.07.2025 14:46:12
+Duration:05:34:20
+</desc></wpt>
+<wpt lat = "42.90724" lon = "-2.39950"><name>ROM1LS1</name><desc>Bike - Salida Narvaja
+Images:2708
+First:01.01.2014 04:06:46
+Last:13.07.2025 15:09:16
+Duration:4211.11:02:30
+</desc></wpt>
+<wpt lat = "42.84607" lon = "-2.67323"><name>ROM4</name><desc>General
+Images:140
+First:13.07.2025 20:20:12
+Last:13.07.2025 21:55:12
+Duration:01:35:00
+</desc></wpt>
+<wpt lat = "42.95165" lon = "-2.58547"><name>UGA1</name><desc>Bike - Transition zone
+Images:6182
+First:13.07.2025 06:35:11
+Last:13.07.2025 11:03:07
+Duration:04:27:56
+</desc></wpt>
+<wpt lat = "42.84493" lon = "-2.67645"><name>UGA2</name><desc>Running - Parque de La Florida
+Images:11584
+First:13.07.2025 12:39:43
+Last:13.07.2025 22:01:11
+Duration:09:21:28
+</desc></wpt>
+<wpt lat = "42.84607" lon = "-2.67323"><name>UGA3</name><desc>Running - Calle Postas
+Images:632
+First:13.07.2025 22:02:59
+Last:13.07.2025 23:06:21
+Duration:01:03:22
+</desc></wpt>
+</gpx>

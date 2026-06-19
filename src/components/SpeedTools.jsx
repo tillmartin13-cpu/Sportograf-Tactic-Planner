@@ -339,7 +339,7 @@ function ConnectionTest() {
                   type="number"
                   min="1"
                   step="1"
-                  placeholder="Eigene GB-Zahl"
+                  placeholder={t('speedToolsCustomSize')}
                   value={customGb}
                   onChange={(e) => setCustomGb(e.target.value)}
                   className="min-w-0 flex-1 bg-transparent text-sm font-bold text-[#1C2B6B] outline-none placeholder:font-normal placeholder:text-[#b0b8cf]"

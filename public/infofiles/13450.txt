@@ -1,0 +1,69 @@
+EventId: 13450
+Spots: 9
+Total Images: 25979
+Time:	31.12.2015 18:00:00 to 27.04.2025 16:31:55
+Duration: 3404.22:31:55
+
+(1) - #1 KISS OF MUD
+	GMAL1
+		Images:	1423
+		Time:	27.04.2025 08:48:29 until 27.04.2025 10:41:00
+		Duration:	01:52:31
+		Location:	33.63793 -84.69931
+
+(2) - #15 BLOCK NESS MONSTER
+	BESC1
+		Images:	4360
+		Time:	31.12.2015 18:00:00 until 31.12.2015 18:03:49
+		Duration:	00:03:49
+		Location:	33.64750 -84.70051
+
+(3) - #16 HANGING TOUGH
+	STRO1
+		Images:	2094
+		Time:	26.04.2025 07:23:13 until 27.04.2025 14:23:22
+		Duration:	1.07:00:09
+		Location:	33.64728 -84.70375
+
+(4) - #18 CAGE CRAWL
+	JAZZ1
+		Images:	3845
+		Time:	26.04.2025 07:45:41 until 27.04.2025 14:29:03
+		Duration:	1.06:43:22
+		Location:	33.64713 -84.70712
+
+(5) - #19 JUST THE TIP
+	RUHO1
+		Images:	2111
+		Time:	26.04.2025 07:27:43 until 27.04.2025 14:40:26
+		Duration:	1.07:12:43
+		Location:	33.64444 -84.71193
+
+(6) - #25 PYRAMID SCHEME
+	JMCK1
+		Images:	3682
+		Time:	26.04.2025 07:45:31 until 27.04.2025 16:10:07
+		Duration:	1.08:24:36
+		Location:	33.63925 -84.71063
+
+(7) - #27 MOTHERHORN
+	TFUL1
+		Images:	2924
+		Time:	27.04.2025 10:23:11 until 27.04.2025 16:23:28
+		Duration:	06:00:17
+		Location:	33.63805 -84.71161
+
+(8) - #28 ELECTROSHOCK THERAPY
+	LCL1
+		Images:	5339
+		Time:	26.04.2025 07:15:25 until 27.04.2025 16:31:55
+		Duration:	1.09:16:30
+		Location:	33.63766 -84.71106
+
+(9) - Impressions / Pano
+	SICA1
+		Images:	201
+		Time:	26.04.2025 07:50:59 until 27.04.2025 13:59:00
+		Duration:	1.06:08:01
+		Location:	33.63766 -84.71106
+

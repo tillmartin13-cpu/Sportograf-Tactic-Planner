@@ -1,0 +1,498 @@
+EventId: 11997
+Spots: 85
+Total Images: 1096545
+Time:	31.12.2012 23:14:40 to 07.07.2024 00:40:39
+Duration: 4205.01:25:59
+
+(1) - 103.0 km
+	BJS1
+		Images:	23747
+		Time:	06.07.2024 09:18:26 until 06.07.2024 17:31:33
+		Duration:	08:13:07
+		Location:	44.06413 7.14484
+
+	BKT1
+		Images:	31902
+		Time:	06.07.2024 10:06:32 until 06.07.2024 17:19:26
+		Duration:	07:12:54
+		Location:	44.06413 7.14484
+
+(2) - 117,0 km
+	CCRGA1
+		Images:	10032
+		Time:	06.07.2024 11:16:43 until 06.07.2024 19:14:30
+		Duration:	07:57:47
+		Location:	44.09664 7.05612
+
+	CCRGA1LS1
+		Images:	15752
+		Time:	06.07.2024 10:05:35 until 06.07.2024 18:57:22
+		Duration:	08:51:47
+		Location:	44.09664 7.05612
+
+	CTGM1
+		Images:	26026
+		Time:	06.07.2024 11:16:51 until 06.07.2024 19:17:30
+		Duration:	08:00:39
+		Location:	44.09664 7.05612
+
+	CTGM1LS1
+		Images:	15798
+		Time:	06.07.2024 08:49:19 until 06.07.2024 18:11:27
+		Duration:	09:22:08
+		Location:	44.09664 7.05612
+
+	CTGM1LS2
+		Images:	16435
+		Time:	06.07.2024 09:15:38 until 06.07.2024 19:14:35
+		Duration:	09:58:57
+		Location:	44.09664 7.05612
+
+(3) - 117,5 km
+	CDAFE1
+		Images:	15086
+		Time:	05.07.2024 23:46:29 until 06.07.2024 19:25:39
+		Duration:	19:39:10
+		Location:	44.09106 7.05875
+
+	CDAFE1LS1
+		Images:	9861
+		Time:	05.07.2024 23:41:01 until 06.07.2024 19:03:41
+		Duration:	19:22:40
+		Location:	44.09106 7.05875
+
+	CDAFE1LS2
+		Images:	9857
+		Time:	05.07.2024 23:43:23 until 06.07.2024 19:05:40
+		Duration:	19:22:17
+		Location:	44.09106 7.05875
+
+	CJCR1
+		Images:	28165
+		Time:	06.07.2024 08:32:24 until 06.07.2024 19:25:15
+		Duration:	10:52:51
+		Location:	44.09106 7.05875
+
+	CJCR1LS1
+		Images:	13999
+		Time:	06.07.2024 08:41:42 until 06.07.2024 19:24:34
+		Duration:	10:42:52
+		Location:	44.09106 7.05875
+
+(4) - 120,0 km
+	CALN1
+		Images:	56354
+		Time:	06.07.2024 11:46:46 until 06.07.2024 19:59:12
+		Duration:	08:12:26
+		Location:	44.09123 7.05003
+
+	CALN1DRONE1
+		Images:	35
+		Time:	23.06.2024 08:47:46 until 06.07.2024 12:57:24
+		Duration:	13.04:09:38
+		Location:	44.09123 7.05003
+
+	CALN1LS1
+		Images:	10737
+		Time:	06.07.2024 10:32:14 until 06.07.2024 19:46:48
+		Duration:	09:14:34
+		Location:	44.09123 7.05003
+
+	CALN1LS2
+		Images:	10826
+		Time:	06.07.2024 10:36:49 until 06.07.2024 19:46:49
+		Duration:	09:10:00
+		Location:	44.09123 7.05003
+
+	CKMC1
+		Images:	27376
+		Time:	06.07.2024 09:42:50 until 06.07.2024 19:45:33
+		Duration:	10:02:43
+		Location:	44.09123 7.05003
+
+(5) - 122,0 km
+	CEKR1
+		Images:	17274
+		Time:	06.07.2024 10:10:22 until 06.07.2024 19:34:31
+		Duration:	09:24:09
+		Location:	44.08833 7.04217
+
+	CMW1
+		Images:	26148
+		Time:	06.07.2024 09:25:15 until 06.07.2024 20:00:39
+		Duration:	10:35:24
+		Location:	44.08833 7.04217
+
+(6) - 124,0 km
+	CMIJA1
+		Images:	20340
+		Time:	06.07.2024 09:46:10 until 06.07.2024 19:39:45
+		Duration:	09:53:35
+		Location:	44.09288 7.02836
+
+	COP1
+	COP1LS1
+		Images:	9523
+		Time:	06.07.2024 10:48:53 until 06.07.2024 19:42:32
+		Duration:	08:53:39
+		Location:	44.09288 7.02836
+
+	COP1LS2
+		Images:	15164
+		Time:	06.07.2024 10:53:35 until 06.07.2024 19:46:51
+		Duration:	08:53:16
+		Location:	44.09288 7.02836
+
+(7) - 138,0 km
+	AST1
+		Images:	15659
+		Time:	06.07.2024 11:22:34 until 06.07.2024 19:59:45
+		Duration:	08:37:11
+		Location:	44.09812 7.02273
+
+	CMBEN1
+		Images:	38092
+		Time:	23.06.2024 09:46:40 until 06.07.2024 19:54:10
+		Duration:	13.10:07:30
+		Location:	44.09812 7.02273
+
+	CST1
+		Images:	50
+		Time:	06.07.2024 12:11:57 until 06.07.2024 17:06:30
+		Duration:	04:54:33
+		Location:	44.09812 7.02273
+
+	CST1LS1
+		Images:	15482
+		Time:	06.07.2024 11:06:28 until 06.07.2024 19:55:13
+		Duration:	08:48:45
+		Location:	44.09812 7.02273
+
+	CST1LS2
+		Images:	12407
+		Time:	23.06.2024 10:50:39 until 06.07.2024 17:00:11
+		Duration:	13.06:09:32
+		Location:	44.09812 7.02273
+
+(8) - 22,0 km
+	AELP1
+		Images:	8324
+		Time:	06.07.2024 07:18:05 until 06.07.2024 10:53:05
+		Duration:	03:35:00
+		Location:	43.85749 7.37759
+
+	AVAE1
+		Images:	10379
+		Time:	06.07.2024 07:15:13 until 06.07.2024 10:53:05
+		Duration:	03:37:52
+		Location:	43.85749 7.37759
+
+	AVAE1LS1
+		Images:	9827
+		Time:	06.07.2024 07:32:36 until 06.07.2024 10:59:26
+		Duration:	03:26:50
+		Location:	43.85749 7.37759
+
+(9) - 28,5 km
+	ABAR1
+		Images:	10316
+		Time:	05.07.2024 10:13:40 until 06.07.2024 11:41:16
+		Duration:	1.01:27:36
+		Location:	43.87382 7.40877
+
+	ADAV1
+		Images:	10548
+		Time:	06.07.2024 08:11:42 until 06.07.2024 11:13:29
+		Duration:	03:01:47
+		Location:	43.87382 7.40877
+
+	ADAV1LS1
+		Images:	11713
+		Time:	06.07.2024 07:46:51 until 06.07.2024 11:33:58
+		Duration:	03:47:07
+		Location:	43.87382 7.40877
+
+	AMOAB1
+		Images:	12568
+		Time:	06.07.2024 00:56:25 until 06.07.2024 11:36:41
+		Duration:	10:40:16
+		Location:	43.87382 7.40877
+
+(10) - 46,2 km
+	AFRI1
+		Images:	5216
+		Time:	06.07.2024 08:43:11 until 06.07.2024 12:38:49
+		Duration:	03:55:38
+		Location:	43.92267 7.41078
+
+	AFRI1DRONE1
+		Images:	5
+		Time:	06.07.2024 09:51:50 until 06.07.2024 09:57:27
+		Duration:	00:05:37
+		Location:	43.92267 7.41078
+
+	AFRI1LS1
+		Images:	6866
+		Time:	06.07.2024 08:07:47 until 06.07.2024 12:42:17
+		Duration:	04:34:30
+		Location:	43.92267 7.41078
+
+	ALQV1
+		Images:	10268
+		Time:	06.07.2024 08:43:12 until 06.07.2024 12:42:21
+		Duration:	03:59:09
+		Location:	43.92267 7.41078
+
+(11) - 46,5 km
+	AMMI1
+		Images:	10101
+		Time:	06.07.2024 08:41:49 until 06.07.2024 12:38:42
+		Duration:	03:56:53
+		Location:	43.92277 7.4114
+
+	AMMI1LS1
+		Images:	9274
+		Time:	06.07.2024 20:09:22 until 07.07.2024 00:40:39
+		Duration:	04:31:17
+		Location:	43.92277 7.4114
+
+	AYG1
+		Images:	9584
+		Time:	05.07.2024 20:02:07 until 06.07.2024 12:39:06
+		Duration:	16:36:59
+		Location:	43.92277 7.4114
+
+	AYG1DRONE1
+		Images:	20
+		Time:	06.07.2024 08:14:08 until 06.07.2024 09:15:30
+		Duration:	01:01:22
+		Location:	43.92277 7.4114
+
+	AYG1LS1
+		Images:	10685
+		Time:	05.07.2024 19:54:37 until 06.07.2024 12:40:40
+		Duration:	16:46:03
+		Location:	43.92277 7.4114
+
+(12) - 51,3 km
+	EO1
+		Images:	7960
+		Time:	06.07.2024 08:55:15 until 06.07.2024 13:17:08
+		Duration:	04:21:53
+		Location:	43.95578 7.41167
+
+	EO1LS1
+		Images:	13447
+		Time:	06.07.2024 08:56:18 until 06.07.2024 12:59:21
+		Duration:	04:03:03
+		Location:	43.95578 7.41167
+
+	FBO1
+		Images:	7133
+		Time:	05.07.2024 21:51:18 until 06.07.2024 13:17:11
+		Duration:	15:25:53
+		Location:	43.95578 7.41167
+
+(13) - 68.3 km
+	BFME1
+		Images:	17052
+		Time:	06.07.2024 09:35:09 until 06.07.2024 13:53:07
+		Duration:	04:17:58
+		Location:	43.98552 7.33913
+
+	BFME1LS1
+		Images:	9199
+		Time:	06.07.2024 09:34:39 until 06.07.2024 13:54:58
+		Duration:	04:20:19
+		Location:	43.98552 7.33913
+
+(14) - 68.5 km
+	BSMO1
+		Images:	5540
+		Time:	06.07.2024 09:06:17 until 06.07.2024 13:49:43
+		Duration:	04:43:26
+		Location:	43.98495 7.34043
+
+(15) - 75,0 km
+	ALV1
+		Images:	43446
+		Time:	05.07.2024 21:38:27 until 06.07.2024 15:13:39
+		Duration:	17:35:12
+		Location:	44.02042 7.31095
+
+	ALV1LS1
+		Images:	9193
+		Time:	31.12.2012 23:14:40 until 06.07.2024 14:39:19
+		Duration:	4204.15:24:39
+		Location:	44.02042 7.31095
+
+	ALV1LS2
+		Images:	8543
+		Time:	05.07.2024 21:48:36 until 06.07.2024 14:23:24
+		Duration:	16:34:48
+		Location:	44.02042 7.31095
+
+	ARM1
+		Images:	56374
+		Time:	06.07.2024 09:49:00 until 06.07.2024 15:15:57
+		Duration:	05:26:57
+		Location:	44.02042 7.31095
+
+	ARM1LS1
+		Images:	9214
+		Time:	05.07.2024 20:01:55 until 06.07.2024 15:20:38
+		Duration:	19:18:43
+		Location:	44.02042 7.31095
+
+(16) - 91.0 km
+	BLV1
+		Images:	1070
+		Time:	06.07.2024 16:48:37 until 06.07.2024 18:08:19
+		Duration:	01:19:42
+		Location:	44.07224 7.23082
+
+	BREM1
+		Images:	17117
+		Time:	06.07.2024 08:31:00 until 06.07.2024 16:53:12
+		Duration:	08:22:12
+		Location:	44.07224 7.23082
+
+	BREM1LS1
+		Images:	10104
+		Time:	06.07.2024 08:15:13 until 06.07.2024 14:32:22
+		Duration:	06:17:09
+		Location:	44.07224 7.23082
+
+	BREM1LS2
+		Images:	13883
+		Time:	06.07.2024 08:15:31 until 06.07.2024 15:37:11
+		Duration:	07:21:40
+		Location:	44.07224 7.23082
+
+	BSF1
+		Images:	15684
+		Time:	06.07.2024 10:00:19 until 06.07.2024 16:56:35
+		Duration:	06:56:16
+		Location:	44.07224 7.23082
+
+(17) - 93.0 km
+	BPGE1
+		Images:	40908
+		Time:	06.07.2024 09:25:45 until 06.07.2024 17:20:43
+		Duration:	07:54:58
+		Location:	43.98293 7.34098
+
+	BSLE1
+		Images:	19356
+		Time:	06.07.2024 08:55:17 until 06.07.2024 17:18:43
+		Duration:	08:23:26
+		Location:	43.98293 7.34098
+
+(18) - 96.0 km
+	BCLG1
+		Images:	18928
+		Time:	06.07.2024 08:40:09 until 06.07.2024 17:07:38
+		Duration:	08:27:29
+		Location:	44.06409 7.18753
+
+	BROB1
+		Images:	11296
+		Time:	06.07.2024 06:39:55 until 06.07.2024 18:05:13
+		Duration:	11:25:18
+		Location:	44.06409 7.18753
+
+	BROB1LS1
+		Images:	6390
+		Time:	06.07.2024 12:31:27 until 06.07.2024 15:52:42
+		Duration:	03:21:15
+		Location:	44.06409 7.18753
+
+(19) - 96.7 km
+	BJNK1
+		Images:	7221
+		Time:	06.07.2024 05:54:03 until 06.07.2024 17:42:21
+		Duration:	11:48:18
+		Location:	44.06687 7.18255
+
+	BJNK1LS1
+		Images:	11414
+		Time:	06.07.2024 10:27:51 until 06.07.2024 17:40:28
+		Duration:	07:12:37
+		Location:	44.06687 7.18255
+
+(20) - Finish
+	AFCO1
+		Images:	13178
+		Time:	06.07.2024 11:46:37 until 06.07.2024 19:53:36
+		Duration:	08:06:59
+		Location:	44.09995 7.02319
+
+	AMAW1LS1
+		Images:	9291
+		Time:	06.07.2024 10:25:12 until 06.07.2024 19:55:50
+		Duration:	09:30:38
+		Location:	44.09995 7.02319
+
+	ARA1
+		Images:	27954
+		Time:	06.07.2024 07:35:02 until 06.07.2024 19:55:25
+		Duration:	12:20:23
+		Location:	44.09995 7.02319
+
+	ARA1LS1
+		Images:	15125
+		Time:	06.07.2024 11:01:43 until 06.07.2024 19:56:32
+		Duration:	08:54:49
+		Location:	44.09995 7.02319
+
+	ARA1LS2
+		Images:	12783
+		Time:	06.07.2024 11:08:43 until 06.07.2024 19:56:07
+		Duration:	08:47:24
+		Location:	44.09995 7.02319
+
+	CFCO1
+	CMAW1
+	CMAW1LS1
+	CRA1
+	CRA1LS1
+	CRA1LS2
+(21) - Impressions / Pano
+	AMK1IMP1
+		Images:	44
+		Time:	06.07.2024 06:26:18 until 06.07.2024 07:00:42
+		Duration:	00:34:24
+		Location:	43.6978 7.27447
+
+	BMK1DRONE1
+		Images:	47
+		Time:	06.07.2024 06:37:42 until 06.07.2024 16:44:36
+		Duration:	10:06:54
+		Location:	44.06687 7.18255
+
+	PANO1
+(22) - Start
+	AMK1
+		Images:	17248
+		Time:	06.07.2024 07:01:05 until 06.07.2024 09:06:37
+		Duration:	02:05:32
+		Location:	43.6978 7.27447
+
+	AMK1LS1
+		Images:	4748
+		Time:	06.07.2024 07:00:24 until 06.07.2024 09:06:53
+		Duration:	02:06:29
+		Location:	43.6978 7.27447
+
+	AMK1LS2
+		Images:	3843
+		Time:	06.07.2024 07:06:10 until 06.07.2024 09:07:33
+		Duration:	02:01:23
+		Location:	43.6978 7.27447
+
+	ANKA1
+		Images:	3991
+		Time:	06.07.2024 06:31:23 until 06.07.2024 09:09:36
+		Duration:	02:38:13
+		Location:	43.6978 7.27447
+

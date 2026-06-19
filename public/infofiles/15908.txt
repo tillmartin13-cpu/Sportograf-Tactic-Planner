@@ -1,0 +1,53 @@
+EventId: 15908
+Spots: 8
+Total Images: 32140
+Time:	07.03.2024 09:57:34 to 17.05.2025 16:52:44
+Duration: 436.06:55:10
+
+(1) - Impressions / Pano
+	PANO1
+(2) - 9.5 Mi Oat Hill Mine Trail
+	BCOAP1
+		Images:	82
+		Time:	17.05.2025 07:00:56 until 17.05.2025 09:36:50
+		Duration:	02:35:54
+		Location:	38.59588 -122.57255
+
+	BCOTO1
+		Images:	3122
+		Time:	07.03.2024 09:57:34 until 07.03.2024 15:48:26
+		Duration:	05:50:52
+		Location:	38.59588 -122.57255
+
+(3) - 12.5 Mi Tubb Ln./ Tamber Bey Vineyards
+	BFNTO1
+		Images:	8369
+		Time:	17.05.2025 08:33:08 until 17.05.2025 16:26:43
+		Duration:	07:53:35
+		Location:	38.59511 -122.60571
+
+	BFNTO2
+		Images:	30
+		Time:	17.05.2025 16:51:53 until 17.05.2025 16:52:44
+		Duration:	00:00:51
+		Location:	38.59511 -122.60571
+
+	BFNTT1
+		Images:	8369
+		Time:	17.05.2025 08:33:08 until 17.05.2025 16:26:43
+		Duration:	07:53:35
+		Location:	38.59511 -122.60571
+
+(4) - 12.4 Mi Tubb Ln./ Tamber Bey Vineyards
+	BPFPR1
+		Images:	2639
+		Time:	17.05.2025 08:55:28 until 17.05.2025 15:26:57
+		Duration:	06:31:29
+		Location:	38.59536 -122.60593
+
+	BPFTO1
+		Images:	9529
+		Time:	17.05.2025 08:54:40 until 17.05.2025 15:37:39
+		Duration:	06:42:59
+		Location:	38.59536 -122.60593
+

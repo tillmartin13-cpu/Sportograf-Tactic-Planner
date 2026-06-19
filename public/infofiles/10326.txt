@@ -1,0 +1,273 @@
+EventId: 10326
+Spots: 39
+Total Images: 212302
+Time:	28.08.2001 11:12:26 to 04.06.2023 12:37:30
+Duration: 7950.01:25:04
+
+(1) - 0.0 km brad kroll, medals, no order number
+	KB1
+		Images:	553
+		Time:	28.08.2001 11:12:26 until 04.06.2023 10:41:51
+		Duration:	7949.23:29:25
+		Location:	NULL NULL
+
+(2) - 0.0 km Bryan Sebastian, PFN, order 850860
+	BS1
+		Images:	13404
+		Time:	04.06.2023 07:19:21 until 04.06.2023 10:41:11
+		Duration:	03:21:50
+		Location:	NULL NULL
+
+(3) - 0.0 km chad casesy, msc 1, order 850859
+	CA1
+		Images:	6303
+		Time:	04.06.2023 07:07:34 until 04.06.2023 08:53:18
+		Duration:	01:45:44
+		Location:	NULL NULL
+
+(4) - 0.0 km chad casey, msc 6, order 850879
+	CC1
+		Images:	8842
+		Time:	04.06.2023 08:55:01 until 04.06.2023 11:01:41
+		Duration:	02:06:40
+		Location:	NULL NULL
+
+(5) - 0.0 km clark zarifis, msc 3, order 850862
+	CZ1
+		Images:	16979
+		Time:	04.06.2023 06:39:34 until 04.06.2023 11:19:56
+		Duration:	04:40:22
+		Location:	NULL NULL
+
+(6) - 0.0 km claudia maslon, medals, no order number
+	CM1
+		Images:	898
+		Time:	04.06.2023 06:50:40 until 04.06.2023 10:24:45
+		Duration:	03:34:05
+		Location:	NULL NULL
+
+(7) - 0.0 km colon burke, medals, order 850869
+	CB1
+		Images:	815
+		Time:	03.06.2023 20:30:21 until 03.06.2023 23:27:05
+		Duration:	02:56:44
+		Location:	NULL NULL
+
+(8) - 0.0 km daniel moreno, msc 4, order 854033
+	DM1
+		Images:	9278
+		Time:	04.06.2023 08:09:34 until 04.06.2023 10:43:53
+		Duration:	02:34:19
+		Location:	NULL NULL
+
+(9) - 0.0 km Demonta Hart- 850858, MSC1
+	DH1
+		Images:	2242
+		Time:	04.06.2023 07:16:48 until 04.06.2023 08:39:48
+		Duration:	01:23:00
+		Location:	NULL NULL
+
+(10) - 0.0 km Demonta Hart, MSC 1, order 850858
+	HD1
+		Images:	2242
+		Time:	04.06.2023 07:16:48 until 04.06.2023 08:39:48
+		Duration:	01:23:00
+		Location:	NULL NULL
+
+(11) - 0.0 km edward buffalo, banners, order 850875
+	EB1
+		Images:	904
+		Time:	04.06.2023 07:29:43 until 04.06.2023 10:29:27
+		Duration:	02:59:44
+		Location:	NULL NULL
+
+(12) - 0.0 km enrique miret, pre finish, order 854032
+	EM1
+		Images:	3588
+		Time:	04.06.2023 06:55:58 until 04.06.2023 10:31:13
+		Duration:	03:35:15
+		Location:	NULL NULL
+
+(13) - 0.0 km Eriq Adams, MSC 4, order 850864
+	EA1
+		Images:	10232
+		Time:	04.06.2023 07:31:58 until 04.06.2023 10:41:44
+		Duration:	03:09:46
+		Location:	NULL NULL
+
+(14) - 0.0 km General PR's
+	BK1
+		Images:	49
+		Time:	04.06.2023 10:01:10 until 04.06.2023 11:00:53
+		Duration:	00:59:43
+		Location:	NULL NULL
+
+(15) - 0.0 km hammy pre finish, order 850865
+	SH1
+		Images:	9809
+		Time:	04.06.2023 08:21:20 until 04.06.2023 12:01:35
+		Duration:	03:40:15
+		Location:	NULL NULL
+
+(16) - 0.0 km Jamil Lyons, MSC 2, order number 854030
+	JL1
+		Images:	7445
+		Time:	04.06.2023 07:18:32 until 04.06.2023 08:35:50
+		Duration:	01:17:18
+		Location:	NULL NULL
+
+(17) - 0.0 km Jamil Lyons, MSC 6, order 854034
+	LJ1
+		Images:	4282
+		Time:	04.06.2023 09:16:51 until 04.06.2023 11:03:31
+		Duration:	01:46:40
+		Location:	NULL NULL
+
+(18) - 0.0 km jeff ring, finish, order number 850856
+	JR1
+		Images:	11553
+		Time:	04.06.2023 07:38:35 until 04.06.2023 11:40:34
+		Duration:	04:01:59
+		Location:	NULL NULL
+
+(19) - 0.0 km Jim, medals, order 850870
+	JM1
+		Images:	467
+		Time:	04.06.2023 08:00:34 until 04.06.2023 11:30:30
+		Duration:	03:29:56
+		Location:	NULL NULL
+
+(20) - 0.0 km jolene young  - ofp, order 850876
+	JY1
+		Images:	936
+		Time:	04.06.2023 05:51:14 until 04.06.2023 09:28:16
+		Duration:	03:37:02
+		Location:	NULL NULL
+
+(21) - 0.0 km jonathan parr, msc 3, order 850863
+	JP1
+		Images:	7115
+		Time:	04.06.2023 07:06:52 until 04.06.2023 11:25:38
+		Duration:	04:18:46
+		Location:	NULL NULL
+
+(22) - 0.0 km lucas kroll, order 850866, pre finish
+	LK1
+		Images:	4179
+		Time:	04.06.2023 08:49:13 until 04.06.2023 12:37:30
+		Duration:	03:48:17
+		Location:	NULL NULL
+
+(23) - 0.0 km lucas, ofp, order 850873
+	LO1
+		Images:	558
+		Time:	04.06.2023 07:18:10 until 04.06.2023 11:07:24
+		Duration:	03:49:14
+		Location:	NULL NULL
+
+(24) - 0.0 km mario arenales, ofp, order 850874
+	MA1
+		Images:	659
+		Time:	04.06.2023 08:31:26 until 04.06.2023 11:09:59
+		Duration:	02:38:33
+		Location:	NULL NULL
+
+(25) - 0.0 km Orlando Salgado MSC 6, order number 854035
+	SO1
+		Images:	8418
+		Time:	04.06.2023 09:18:12 until 04.06.2023 11:02:32
+		Duration:	01:44:20
+		Location:	NULL NULL
+
+(26) - 0.0 km orlando salgado, MSC 2, order 850861
+	OS1
+		Images:	11001
+		Time:	04.06.2023 07:12:56 until 04.06.2023 08:44:46
+		Duration:	01:31:50
+		Location:	NULL NULL
+
+(27) - 0.0 km PR - Bryan
+	PR1
+		Images:	1053
+		Time:	04.06.2023 06:08:55 until 04.06.2023 06:55:46
+		Duration:	00:46:51
+		Location:	NULL NULL
+
+(28) - 0.0 km pre finish trigger, order 854040
+	PF1
+		Images:	9980
+		Time:	04.06.2023 07:46:49 until 04.06.2023 10:37:19
+		Duration:	02:50:30
+		Location:	NULL NULL
+
+	TP1
+		Images:	9809
+		Time:	04.06.2023 08:21:20 until 04.06.2023 12:01:35
+		Duration:	03:40:15
+		Location:	NULL NULL
+
+(29) - 0.0 km roberto, medals, order 850872
+	RO1
+		Images:	1273
+		Time:	04.06.2023 07:39:04 until 04.06.2023 11:21:47
+		Duration:	03:42:43
+		Location:	NULL NULL
+
+(30) - 0.0 km roman, medals, no order number
+	RY1
+		Images:	882
+		Time:	04.06.2023 08:31:17 until 04.06.2023 11:41:08
+		Duration:	03:09:51
+		Location:	NULL NULL
+
+(31) - 0.0 km scott fiedler, finish, order 850855
+	FS1
+		Images:	9154
+		Time:	04.06.2023 07:45:56 until 04.06.2023 11:36:16
+		Duration:	03:50:20
+		Location:	NULL NULL
+
+(32) - 0.0 km trigger 1, MSC 1, Order 854041
+	TC1
+		Images:	9667
+		Time:	04.06.2023 07:52:09 until 04.06.2023 12:23:10
+		Duration:	04:31:01
+		Location:	NULL NULL
+
+(33) - 0.0 km trigger cam, MSC 2, order number 8540312
+	TO1
+		Images:	4928
+		Time:	04.06.2023 07:07:10 until 04.06.2023 08:45:13
+		Duration:	01:38:03
+		Location:	NULL NULL
+
+(34) - 0.0 km trigger cam, MSC 6, order 854036
+	TB1
+		Images:	5718
+		Time:	04.06.2023 09:15:12 until 04.06.2023 11:01:41
+		Duration:	01:46:29
+		Location:	NULL NULL
+
+(35) - 0.0 km trigger finish, order 850857
+	SF1
+		Images:	5915
+		Time:	31.12.2006 19:00:00 until 31.12.2006 22:07:00
+		Duration:	03:07:00
+		Location:	NULL NULL
+
+(36) - 0.0 km trigger, msc 3, order number 854039
+	TA1
+		Images:	10396
+		Time:	04.06.2023 08:06:08 until 04.06.2023 12:09:03
+		Duration:	04:02:55
+		Location:	NULL NULL
+
+(37) - 0.0 km Willie Ollie, Medals, order number 850871
+	WO1
+		Images:	776
+		Time:	04.06.2023 06:51:33 until 04.06.2023 10:08:31
+		Duration:	03:16:58
+		Location:	NULL NULL
+
+(38) - Impressions / Pano
+	PANO1

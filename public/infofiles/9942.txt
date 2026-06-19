@@ -1,0 +1,172 @@
+EventId: 9942
+Spots: 26
+Total Images: 194567
+Time:	11.06.2023 08:33:40 to 11.06.2023 18:08:24
+Duration: 09:34:44
+
+(1) - Finish
+	GUD1LS1
+		Images:	2638
+		Time:	11.06.2023 09:12:17 until 11.06.2023 15:45:28
+		Duration:	06:33:11
+		Location:	NULL NULL
+
+	GUD1LS2
+		Images:	3722
+		Time:	11.06.2023 09:11:42 until 11.06.2023 18:08:23
+		Duration:	08:56:41
+		Location:	NULL NULL
+
+	SLOM1
+		Images:	11412
+		Time:	11.06.2023 08:59:38 until 11.06.2023 18:07:42
+		Duration:	09:08:04
+		Location:	NULL NULL
+
+(2) - Herotent
+	PJE1
+		Images:	3166
+		Time:	11.06.2023 09:31:03 until 11.06.2023 17:58:18
+		Duration:	08:27:15
+		Location:	NULL NULL
+
+	ROH1
+		Images:	4309
+		Time:	11.06.2023 10:06:59 until 11.06.2023 18:08:24
+		Duration:	08:01:25
+		Location:	NULL NULL
+
+(3) - Impressions / Pano
+	GUD1DRONE1
+		Images:	13
+		Time:	11.06.2023 11:38:32 until 11.06.2023 11:46:16
+		Duration:	00:07:44
+		Location:	NULL NULL
+
+	PANO1
+(4) - Laufstrecke nach Obstacle 10 Krabbelnetz
+	TIH1LS1
+		Images:	7067
+		Time:	11.06.2023 09:00:51 until 11.06.2023 16:56:41
+		Duration:	07:55:50
+		Location:	NULL NULL
+
+(5) - Laufstrecke nach Obstacle 16 Krabbelstrecke
+	SK1LS1
+		Images:	3427
+		Time:	11.06.2023 09:03:52 until 11.06.2023 17:29:07
+		Duration:	08:25:15
+		Location:	NULL NULL
+
+(6) - Laufstrecke vor Obstacle 16 Krabbelstrecke
+	CLL1LS1
+		Images:	2899
+		Time:	11.06.2023 09:28:17 until 11.06.2023 16:39:31
+		Duration:	07:11:14
+		Location:	NULL NULL
+
+(7) - Obstacle 10 Krabbelnetz
+	SK1
+		Images:	13328
+		Time:	11.06.2023 08:33:40 until 11.06.2023 17:23:58
+		Duration:	08:50:18
+		Location:	NULL NULL
+
+	TIH1
+		Images:	12066
+		Time:	11.06.2023 09:56:50 until 11.06.2023 17:23:32
+		Duration:	07:26:42
+		Location:	NULL NULL
+
+(8) - Obstacle 16 Krabbelstrecke
+	CLL1
+		Images:	13938
+		Time:	11.06.2023 10:02:35 until 11.06.2023 17:46:33
+		Duration:	07:43:58
+		Location:	NULL NULL
+
+	TONB1
+		Images:	10981
+		Time:	11.06.2023 10:02:50 until 11.06.2023 17:46:14
+		Duration:	07:43:24
+		Location:	NULL NULL
+
+(9) - Obstacle 17 Gitterbecken
+	LXLJ1
+		Images:	6466
+		Time:	11.06.2023 10:05:07 until 11.06.2023 17:53:46
+		Duration:	07:48:39
+		Location:	NULL NULL
+
+	SL1
+		Images:	10931
+		Time:	11.06.2023 10:05:08 until 11.06.2023 17:52:28
+		Duration:	07:47:20
+		Location:	NULL NULL
+
+(10) - Obstacle 21 Containerrutsche
+	ROH1LS1
+		Images:	5367
+		Time:	11.06.2023 09:31:39 until 11.06.2023 14:33:26
+		Duration:	05:01:47
+		Location:	NULL NULL
+
+	ROH1LS2
+		Images:	5120
+		Time:	11.06.2023 09:22:10 until 11.06.2023 14:33:21
+		Duration:	05:11:11
+		Location:	NULL NULL
+
+(11) - Obstacle 3 Schlammbecken
+	DASC1
+		Images:	12380
+		Time:	11.06.2023 09:00:57 until 11.06.2023 16:52:28
+		Duration:	07:51:31
+		Location:	NULL NULL
+
+	MFR1
+		Images:	10684
+		Time:	11.06.2023 09:07:25 until 11.06.2023 16:53:25
+		Duration:	07:46:00
+		Location:	NULL NULL
+
+(12) - Obstacle 5 Schaumparty
+	PK1
+		Images:	11321
+		Time:	11.06.2023 09:34:52 until 11.06.2023 16:56:12
+		Duration:	07:21:20
+		Location:	NULL NULL
+
+(13) - Obstacle 6 Schlupfloch
+	LIS1
+		Images:	13229
+		Time:	11.06.2023 08:53:57 until 11.06.2023 17:01:35
+		Duration:	08:07:38
+		Location:	NULL NULL
+
+(14) - Obstacle 8 Hangelleiter
+	LJ1
+		Images:	13569
+		Time:	11.06.2023 09:32:22 until 11.06.2023 17:17:49
+		Duration:	07:45:27
+		Location:	NULL NULL
+
+	LJ1LS1
+		Images:	6789
+		Time:	11.06.2023 09:18:38 until 11.06.2023 17:17:55
+		Duration:	07:59:17
+		Location:	NULL NULL
+
+	LJ1LS2
+		Images:	9570
+		Time:	11.06.2023 09:12:40 until 11.06.2023 17:18:04
+		Duration:	08:05:24
+		Location:	NULL NULL
+
+(15) - Start
+	GUD1
+		Images:	175
+		Time:	11.06.2023 11:01:22 until 11.06.2023 11:24:11
+		Duration:	00:22:49
+		Location:	NULL NULL
+

@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "46.62401" lon = "8.03429"><name>ALEP1</name><desc>E250 Start
+Images:133
+First:16.07.2025 07:27:40
+Last:16.07.2025 09:33:49
+Duration:02:06:09
+</desc></wpt>
+<wpt lat = "46.61421" lon = "8.01974"><name>COR1</name><desc>2.0 km E250, Grindelwald
+Images:357
+First:16.07.2025 08:02:13
+Last:16.07.2025 08:22:41
+Duration:00:20:28
+</desc></wpt>
+<wpt lat = "46.61421" lon = "8.01974"><name>COR1LS2</name><desc>2.0 km E250, Grindelwald
+Images:124
+First:16.07.2025 07:49:10
+Last:16.07.2025 08:20:06
+Duration:00:30:56
+</desc></wpt>
+<wpt lat = "46.61421" lon = "8.01974"><name>COR1LS1</name><desc>2.0 km E250, Grindelwald
+Images:113
+First:16.07.2025 08:09:15
+Last:16.07.2025 08:20:09
+Duration:00:10:54
+</desc></wpt>
+<wpt lat = "46.57646" lon = "7.97775"><name>COR2</name><desc>10.0 km E250 Eiger Express
+Images:723
+First:16.07.2025 09:45:55
+Last:16.07.2025 11:20:32
+Duration:01:34:37
+</desc></wpt>
+<wpt lat = "46.57646" lon = "7.97775"><name>COR2LS2</name><desc>10.0 km E250 Eiger Express
+Images:251
+First:16.07.2025 09:34:09
+Last:16.07.2025 10:43:18
+Duration:01:09:09
+</desc></wpt>
+<wpt lat = "46.57646" lon = "7.97775"><name>COR2LS1</name><desc>10.0 km E250 Eiger Express
+Images:245
+First:16.07.2025 09:42:47
+Last:16.07.2025 10:43:20
+Duration:01:00:33
+</desc></wpt>
+<wpt lat = "46.57227" lon = "7.96500"><name>ALEP2</name><desc>12.0 km E250, Eiger
+Images:511
+First:16.07.2025 09:34:27
+Last:16.07.2025 12:05:29
+Duration:02:31:02
+</desc></wpt>
+<wpt lat = "46.57227" lon = "7.96500"><name>ALEP2LS1</name><desc>12.0 km E250, Eiger
+Images:195
+First:16.07.2025 09:41:03
+Last:16.07.2025 11:10:50
+Duration:01:29:47
+</desc></wpt>
+<wpt lat = "46.57227" lon = "7.96500"><name>ALEP2LS2</name><desc>12.0 km E250, Eiger
+Images:174
+First:16.07.2025 09:42:10
+Last:16.07.2025 11:10:49
+Duration:01:28:39
+</desc></wpt>
+<wpt lat = "46.30710" lon = "7.73552"><name>ALEP3</name><desc>97.0 km E250, Rhone River
+Images:398
+First:17.07.2025 10:49:39
+Last:17.07.2025 17:25:58
+Duration:06:36:19
+</desc></wpt>
+<wpt lat = "46.30710" lon = "7.73552"><name>ALEP3LS1</name><desc>97.0 km E250, Rhone River
+Images:183
+First:17.07.2025 11:07:36
+Last:17.07.2025 17:28:22
+Duration:06:20:46
+</desc></wpt>
+<wpt lat = "46.30710" lon = "7.73552"><name>ALEP3LS2</name><desc>97.0 km E250, Rhone River
+Images:194
+First:17.07.2025 10:49:40
+Last:17.07.2025 17:28:19
+Duration:06:38:39
+</desc></wpt>
+<wpt lat = "46.36424" lon = "7.96249"><name>COR3</name><desc>132.0 km E250, Belalp
+Images:195
+First:17.07.2025 14:46:12
+Last:17.07.2025 19:04:18
+Duration:04:18:06
+</desc></wpt>
+<wpt lat = "46.36424" lon = "7.96249"><name>COR3LS2</name><desc>132.0 km E250, Belalp
+Images:82
+First:17.07.2025 15:07:53
+Last:17.07.2025 18:21:18
+Duration:03:13:25
+</desc></wpt>
+<wpt lat = "46.36424" lon = "7.96249"><name>COR3LS1</name><desc>132.0 km E250, Belalp
+Images:86
+First:17.07.2025 15:07:14
+Last:17.07.2025 18:21:19
+Duration:03:14:05
+</desc></wpt>
+<wpt lat = "46.62401" lon = "8.03429"><name>PINO1</name><desc>E51 Start
+Images:274
+First:19.07.2025 04:41:47
+Last:19.07.2025 07:45:55
+Duration:03:04:08
+</desc></wpt>
+<wpt lat = "46.62401" lon = "8.03429"><name>PINO3</name><desc>E16 Start
+Images:103
+First:19.07.2025 08:58:34
+Last:19.07.2025 09:30:39
+Duration:00:32:05
+</desc></wpt>
+<wpt lat = "46.62401" lon = "8.03429"><name>CVG1</name><desc>E51 / E16 Start
+Images:221
+First:19.07.2025 04:33:45
+Last:19.07.2025 09:00:36
+Duration:04:26:51
+</desc></wpt>
+<wpt lat = "46.62802" lon = "8.06140"><name>FMU1</name><desc>2.5km/E51
+Images:2716
+First:19.07.2025 07:26:05
+Last:19.07.2025 10:33:34
+Duration:03:07:29
+</desc></wpt>
+<wpt lat = "46.65342" lon = "8.09663"><name>LLM1</name><desc>8km/E101/E51, Grosse Scheidegg
+Images:5300
+First:19.07.2025 04:58:24
+Last:19.07.2025 10:04:09
+Duration:05:05:45
+</desc></wpt>
+<wpt lat = "46.66617" lon = "8.09333"><name>RLLA1</name><desc>10km/E101/E51, Grosse Scheidegg
+Images:3631
+First:19.07.2025 05:09:27
+Last:19.07.2025 10:30:27
+Duration:05:21:00
+</desc></wpt>
+<wpt lat = "46.64742" lon = "8.05040"><name>COR4</name><desc>17.5km/E101, Bort
+Images:1483
+First:19.07.2025 05:17:01
+Last:19.07.2025 07:42:39
+Duration:02:25:38
+</desc></wpt>
+<wpt lat = "46.64742" lon = "8.05040"><name>COR4LS2</name><desc>17.5km/E101, Bort
+Images:608
+First:19.07.2025 05:38:04
+Last:19.07.2025 09:44:35
+Duration:04:06:31
+</desc></wpt>
+<wpt lat = "46.64742" lon = "8.05040"><name>COR4LS1</name><desc>17.5km/E101, Bort
+Images:610
+First:19.07.2025 05:34:57
+Last:19.07.2025 09:44:36
+Duration:04:09:39
+</desc></wpt>
+<wpt lat = "46.66775" lon = "8.02277"><name>ALEP4</name><desc>26.5km/E101, 17.5km/E51, Bachalpsee
+Images:3502
+First:19.07.2025 05:26:37
+Last:19.07.2025 12:01:14
+Duration:06:34:37
+</desc></wpt>
+<wpt lat = "46.66775" lon = "8.02277"><name>ALEP4LS2</name><desc>26.5km/E101, 17.5km/E51, Bachalpsee
+Images:782
+First:19.07.2025 06:20:51
+Last:19.07.2025 12:09:29
+Duration:05:48:38
+</desc></wpt>
+<wpt lat = "46.66775" lon = "8.02277"><name>ALEP4LS1</name><desc>26.5km/E101, 17.5km/E51, Bachalpsee
+Images:744
+First:19.07.2025 06:23:23
+Last:19.07.2025 12:09:34
+Duration:05:46:11
+</desc></wpt>
+<wpt lat = "46.64742" lon = "8.05040"><name>COR5</name><desc>9.5km/E16, Bort
+Images:2214
+First:19.07.2025 09:46:26
+Last:19.07.2025 12:09:24
+Duration:02:22:58
+</desc></wpt>
+<wpt lat = "46.64742" lon = "8.05040"><name>COR5LS2</name><desc>9.5km/E16, Bort
+Images:916
+First:19.07.2025 09:46:22
+Last:19.07.2025 11:57:07
+Duration:02:10:45
+</desc></wpt>
+<wpt lat = "46.64742" lon = "8.05040"><name>COR5LS1</name><desc>9.5km/E16, Bort
+Images:916
+First:19.07.2025 09:46:23
+Last:19.07.2025 11:57:08
+Duration:02:10:45
+</desc></wpt>
+<wpt lat = "46.58967" lon = "7.96228"><name>UEC1</name><desc>50km/E101, 18km/E35 Kleine Scheidegg
+Images:2986
+First:18.07.2025 23:14:03
+Last:19.07.2025 16:09:42
+Duration:16:55:39
+</desc></wpt>
+<wpt lat = "46.58967" lon = "7.96228"><name>UEC1LS1</name><desc>50km/E101, 18km/E35 Kleine Scheidegg
+Images:1296
+First:17.07.2025 20:01:01
+Last:19.07.2025 13:28:42
+Duration:1.17:27:41
+</desc></wpt>
+<wpt lat = "46.58967" lon = "7.96228"><name>UEC1LS2</name><desc>50km/E101, 18km/E35 Kleine Scheidegg
+Images:1386
+First:18.07.2025 23:15:14
+Last:19.07.2025 16:05:55
+Duration:16:50:41
+</desc></wpt>
+<wpt lat = "46.58824" lon = "7.96118"><name>EP1</name><desc>50.5km/E101, 18.5km/E35 Kleine Scheidegg
+Images:4999
+First:18.07.2025 23:26:59
+Last:19.07.2025 16:42:16
+Duration:17:15:17
+</desc></wpt>
+<wpt lat = "46.58824" lon = "7.96118"><name>EP1LS2</name><desc>50.5km/E101, 18.5km/E35 Kleine Scheidegg
+Images:1909
+First:19.07.2025 09:43:10
+Last:19.07.2025 15:16:58
+Duration:05:33:48
+</desc></wpt>
+<wpt lat = "46.58824" lon = "7.96118"><name>EP1LS1</name><desc>50.5km/E101, 18.5km/E35 Kleine Scheidegg
+Images:1526
+First:19.07.2025 09:01:26
+Last:19.07.2025 17:20:38
+Duration:08:19:12
+</desc></wpt>
+<wpt lat = "46.58559" lon = "7.96839"><name>STHE1</name><desc>52km/E101, 20km/E35 Kleine Scheidegg Downhill
+Images:3667
+First:19.07.2025 08:47:44
+Last:19.07.2025 16:42:28
+Duration:07:54:44
+</desc></wpt>
+<wpt lat = "46.60850" lon = "8.00576"><name>FMU2</name><desc>57km/E101, 25km/E35, Brandegg
+Images:3095
+First:19.07.2025 10:36:16
+Last:19.07.2025 18:02:16
+Duration:07:26:00
+</desc></wpt>
+<wpt lat = "46.62401" lon = "8.03429"><name>RLLA2</name><desc>Finish
+Images:2923
+First:19.07.2025 12:34:01
+Last:19.07.2025 18:12:41
+Duration:05:38:40
+</desc></wpt>
+<wpt lat = "46.62401" lon = "8.03429"><name>PINO2</name><desc>Finish
+Images:3630
+First:19.07.2025 10:07:01
+Last:19.07.2025 18:14:39
+Duration:08:07:38
+</desc></wpt>
+<wpt lat = "46.62401" lon = "8.03429"><name>CVG2</name><desc>Finish
+Images:2653
+First:19.07.2025 08:20:59
+Last:19.07.2025 16:28:37
+Duration:08:07:38
+</desc></wpt>
+<wpt lat = "46.62401" lon = "8.03429"><name>LLM2</name><desc>Finish
+Images:3139
+First:19.07.2025 12:28:09
+Last:19.07.2025 18:54:34
+Duration:06:26:25
+</desc></wpt>
+<wpt lat = "46.62401" lon = "8.03429"><name>ALEP5</name><desc>Finish
+Images:739
+First:19.07.2025 18:55:52
+Last:20.07.2025 04:33:13
+Duration:09:37:21
+</desc></wpt>
+<wpt lat = "46.62401" lon = "8.03429"><name>COR5DRONE1</name><desc>Impressions / Pano
+Images:12
+First:19.07.2025 09:14:29
+Last:19.07.2025 10:56:42
+Duration:01:42:13
+</desc></wpt>
+</gpx>

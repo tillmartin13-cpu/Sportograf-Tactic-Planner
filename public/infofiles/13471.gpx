@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "27.41637" lon = "-81.56598"><name>AUC1</name><desc>SPOT#1
+Images:222
+First:26.10.2025 06:43:32
+Last:26.10.2025 07:14:03
+Duration:00:30:31
+</desc></wpt>
+<wpt lat = "27.40012" lon = "-81.61523"><name>AUC2</name><desc>SPOT#2
+Images:515
+First:01.01.0001 23:00:00
+Last:26.10.2025 12:00:37
+Duration:739548.13:00:37
+</desc></wpt>
+<wpt lat = "27.42004" lon = "-81.58245"><name>RASC1</name><desc>SPOT#3
+Images:1425
+First:25.10.2025 21:30:56
+Last:26.10.2025 09:59:29
+Duration:12:28:33
+</desc></wpt>
+<wpt lat = "27.41985" lon = "-81.58475"><name>RASC2</name><desc>SPOT #4
+Images:735
+First:26.10.2025 10:01:28
+Last:26.10.2025 12:12:33
+Duration:02:11:05
+</desc></wpt>
+<wpt lat = "27.34816" lon = "-81.45943"><name>SICA1</name><desc>START-FINISH LINE
+Images:2633
+First:26.10.2026 06:01:33
+Last:26.10.2026 13:13:32
+Duration:07:11:59
+</desc></wpt>
+<wpt lat = "27.34816" lon = "-81.45943"><name>SICA1LS1</name><desc>START-FINISH LINE
+Images:519
+First:26.10.2026 06:46:03
+Last:26.10.2026 13:26:22
+Duration:06:40:19
+</desc></wpt>
+</gpx>

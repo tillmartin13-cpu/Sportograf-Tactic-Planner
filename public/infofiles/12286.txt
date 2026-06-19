@@ -1,0 +1,253 @@
+EventId: 12286
+Spots: 38
+Total Images: 331257
+Time:	15.11.2024 17:13:00 to 15.12.2024 18:44:18
+Duration: 30.01:31:18
+
+(1) - 13.5 km
+	BRISO2
+		Images:	4093
+		Time:	16.11.2024 08:08:07 until 16.11.2024 10:45:58
+		Duration:	02:37:51
+		Location:	-44.98767 168.81120
+
+(2) - 18.0 km
+	BRGD1
+		Images:	7151
+		Time:	16.11.2024 08:02:12 until 16.11.2024 10:28:51
+		Duration:	02:26:39
+		Location:	-44.96936 168.80616
+
+(3) - 22.6 km
+	BTOB2
+		Images:	8859
+		Time:	16.11.2024 07:39:44 until 16.11.2024 13:39:48
+		Duration:	06:00:04
+		Location:	-44.97446 168.76472
+
+	BTOB2LS1
+		Images:	999
+		Time:	16.11.2024 08:03:15 until 16.11.2024 09:53:46
+		Duration:	01:50:31
+		Location:	-44.97446 168.76472
+
+(4) - 26.5 km
+	AMALO1
+		Images:	24111
+		Time:	16.11.2024 06:41:19 until 16.11.2024 12:12:02
+		Duration:	05:30:43
+		Location:	-44.99646 168.75822
+
+	AVN1LS1
+		Images:	5348
+		Time:	15.11.2024 18:22:22 until 16.11.2024 12:12:25
+		Duration:	17:50:03
+		Location:	-44.99646 168.75822
+
+(5) - 27.0 km
+	AVN1
+		Images:	18065
+		Time:	16.11.2024 07:16:12 until 16.11.2024 12:01:24
+		Duration:	04:45:12
+		Location:	-44.99849 168.75676
+
+(6) - 32.0 km
+	ADMB1
+		Images:	8240
+		Time:	16.11.2024 06:35:15 until 16.11.2024 13:14:47
+		Duration:	06:39:32
+		Location:	-45.03148 168.74226
+
+(7) - 32.9 km
+	ALEWD2
+		Images:	1920
+		Time:	16.11.2024 09:04:55 until 16.11.2024 13:00:29
+		Duration:	03:55:34
+		Location:	-45.02755 168.73307
+
+(8) - 33.0 km
+	ALEWD1
+		Images:	1577
+		Time:	16.11.2024 07:24:30 until 16.11.2024 09:03:08
+		Duration:	01:38:38
+		Location:	-45.02755 168.73307
+
+(9) - 34.0 km
+	AKML1
+		Images:	653
+		Time:	16.11.2024 05:30:12 until 16.11.2024 07:02:34
+		Duration:	01:32:22
+		Location:	-45.01954 168.72906
+
+	BBRON1
+		Images:	130
+		Time:	16.11.2024 05:44:50 until 16.11.2024 06:33:59
+		Duration:	00:49:09
+		Location:	-45.01971 168.72962
+
+	BBRON2
+		Images:	1076
+		Time:	16.11.2024 06:36:07 until 16.11.2024 06:56:22
+		Duration:	00:20:15
+		Location:	-45.02009 168.72834
+
+(10) - 34.9 km
+	AKML2
+		Images:	19783
+		Time:	16.11.2024 07:13:40 until 16.11.2024 13:35:53
+		Duration:	06:22:13
+		Location:	-45.02006 168.72837
+
+	BRGD2
+		Images:	1720
+		Time:	15.11.2024 21:26:25 until 16.11.2024 13:46:47
+		Duration:	16:20:22
+		Location:	-45.01693 168.72087
+
+(11) - 40.0 km
+	AMBC1
+		Images:	14308
+		Time:	16.11.2024 06:53:06 until 16.11.2024 14:41:34
+		Duration:	07:48:28
+		Location:	-45.03633 168.66992
+
+(12) - 40.5 km
+	AKOH1
+		Images:	4738
+		Time:	16.11.2024 10:26:49 until 16.11.2024 14:49:34
+		Duration:	04:22:45
+		Location:	-45.03148 168.74226
+
+	AKOH2
+		Images:	14378
+		Time:	16.11.2024 06:01:37 until 16.11.2024 10:21:57
+		Duration:	04:20:20
+		Location:	-45.03148 168.74226
+
+(13) - 41.0 km
+	BDTI1
+		Images:	28268
+		Time:	15.11.2024 19:00:48 until 15.12.2024 18:44:18
+		Duration:	29.23:43:30
+		Location:	-45.03893 168.65705
+
+	BDTI1LS1
+		Images:	42497
+		Time:	15.11.2024 18:38:48 until 16.11.2024 14:07:27
+		Duration:	19:28:39
+		Location:	-45.03893 168.65705
+
+(14) - 41.5 km
+	BDARR1
+		Images:	7810
+		Time:	16.11.2024 09:29:18 until 16.11.2024 15:02:51
+		Duration:	05:33:33
+		Location:	-45.03539 168.66213
+
+	BDARR1LS1
+		Images:	12905
+		Time:	15.11.2024 17:13:00 until 16.11.2024 15:09:29
+		Duration:	21:56:29
+		Location:	-45.03539 168.66213
+
+(15) - 41.8 km
+	BJALL1
+		Images:	16681
+		Time:	16.11.2024 06:59:19 until 16.11.2024 14:05:56
+		Duration:	07:06:37
+		Location:	-45.03229 168.65969
+
+(16) - Ceremony
+	AMASU2
+		Images:	21
+		Time:	16.11.2024 07:22:36 until 16.11.2024 10:11:33
+		Duration:	02:48:57
+		Location:	-45.02920 168.66001
+
+(17) - Finish
+	AJUBA1
+		Images:	2876
+		Time:	16.11.2024 13:05:29 until 16.11.2024 15:17:21
+		Duration:	02:11:52
+		Location:	-45.02920 168.66001
+
+	AMALO2
+		Images:	2137
+		Time:	16.11.2024 13:09:43 until 16.11.2024 15:13:10
+		Duration:	02:03:27
+		Location:	-45.02920 168.66001
+
+	AMASU1
+		Images:	30628
+		Time:	16.11.2024 05:35:19 until 16.11.2024 13:05:33
+		Duration:	07:30:14
+		Location:	-45.02920 168.66001
+
+	AMASU3
+		Images:	1360
+		Time:	16.11.2024 13:18:38 until 16.11.2024 14:25:43
+		Duration:	01:07:05
+		Location:	-45.02920 168.66001
+
+	BBRON3
+		Images:	6547
+		Time:	16.11.2024 07:29:20 until 16.11.2024 13:09:55
+		Duration:	05:40:35
+		Location:	-45.02926 168.65996
+
+	BBRON3LS1
+		Images:	3471
+		Time:	16.11.2024 08:58:00 until 16.11.2024 12:50:21
+		Duration:	03:52:21
+		Location:	-45.02926 168.65996
+
+	BMTRL1
+		Images:	9848
+		Time:	16.11.2024 06:25:36 until 16.11.2024 13:35:42
+		Duration:	07:10:06
+		Location:	-45.02926 168.65996
+
+	BRISO3
+		Images:	3709
+		Time:	16.11.2024 10:55:09 until 16.11.2024 14:42:20
+		Duration:	03:47:11
+		Location:	-45.02843 168.66041
+
+	BVIAL1
+		Images:	17359
+		Time:	16.11.2024 06:09:18 until 16.11.2024 13:06:46
+		Duration:	06:57:28
+		Location:	-45.02926 168.65996
+
+(18) - Impressions / Pano
+	PANO1
+		Images:	4
+		Time:	16.11.2024 06:36:30 until 16.11.2024 15:09:19
+		Duration:	08:32:49
+		Location:	NULL NULL
+
+(19) - Start
+	BRISO1
+		Images:	1064
+		Time:	15.11.2024 17:18:39 until 16.11.2024 07:34:48
+		Duration:	14:16:09
+		Location:	-44.94546 168.81941
+
+	BRISO4
+		Images:	18
+		Time:	16.11.2024 05:26:44 until 16.11.2024 14:11:56
+		Duration:	08:45:12
+		Location:	-44.94546 168.81941
+
+	BTOB1
+		Images:	4156
+		Time:	15.11.2024 18:39:45 until 16.11.2024 07:28:42
+		Duration:	12:48:57
+		Location:	-44.97077 168.75348
+
+	BTOB1LS1
+		Images:	2749
+		Time:	15.11.2024 18:47:21 until 16.11.2024 07:28:35
+		Duration:	12:41:14
+		Location:	-44.97077 168.75348
+

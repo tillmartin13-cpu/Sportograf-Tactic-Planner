@@ -1,0 +1,163 @@
+EventId: 11686
+Spots: 25
+Total Images: 182759
+Time:	13.07.2024 08:00:27 to 13.07.2024 19:03:26
+Duration: 11:02:59
+
+(1) - Finish
+	ANJO3LS1
+		Images:	7794
+		Time:	13.07.2024 09:27:03 until 13.07.2024 18:03:19
+		Duration:	08:36:16
+		Location:	48.31836 11.90931
+
+	AYS2LS1
+		Images:	6986
+		Time:	13.07.2024 11:26:34 until 13.07.2024 17:59:38
+		Duration:	06:33:04
+		Location:	48.31836 11.90931
+
+	BPGE1
+		Images:	22999
+		Time:	13.07.2024 08:53:05 until 13.07.2024 18:53:12
+		Duration:	10:00:07
+		Location:	48.31849 11.90925
+
+(2) - Herotent Finisher Photo!
+	BLENK1
+		Images:	1122
+		Time:	13.07.2024 10:08:47 until 13.07.2024 18:52:49
+		Duration:	08:44:02
+		Location:	48.31852 11.90918
+
+	BSHUE1
+		Images:	4274
+		Time:	13.07.2024 09:28:38 until 13.07.2024 18:56:12
+		Duration:	09:27:34
+		Location:	48.31852 11.90918
+
+(3) - Impressions / Pano
+	ANJO1
+		Images:	272
+		Time:	13.07.2024 12:05:02 until 13.07.2024 15:52:34
+		Duration:	03:47:32
+		Location:	48.31836 11.90931
+
+	ANJO1DRONE1
+		Images:	61
+		Time:	13.07.2024 13:38:44 until 13.07.2024 15:19:24
+		Duration:	01:40:40
+		Location:	48.31836 11.90931
+
+	PANO1
+(4) - Obstacle 10 Barbwire Battle I
+	AYS1
+		Images:	24585
+		Time:	13.07.2024 10:49:17 until 13.07.2024 18:11:16
+		Duration:	07:21:59
+		Location:	48.32588 11.90982
+
+(5) - Obstacle 10 nach Barbwire Battle I
+	AYS1LS1
+		Images:	4952
+		Time:	13.07.2024 09:44:39 until 13.07.2024 13:40:51
+		Duration:	03:56:12
+		Location:	48.32587 11.91003
+
+	AYS1LS2
+		Images:	9413
+		Time:	13.07.2024 13:40:52 until 13.07.2024 17:25:59
+		Duration:	03:45:07
+		Location:	48.32559 11.91007
+
+(6) - Obstacle 11 Freak Froster
+	AMIRS1
+		Images:	8006
+		Time:	13.07.2024 09:45:02 until 13.07.2024 18:16:33
+		Duration:	08:31:31
+		Location:	48.32438 11.91167
+
+	AMIRS1LS1
+		Images:	5618
+		Time:	13.07.2024 09:04:22 until 13.07.2024 17:47:36
+		Duration:	08:43:14
+		Location:	48.32438 11.91167
+
+	ARSJ1
+		Images:	3451
+		Time:	13.07.2024 09:49:44 until 13.07.2024 18:16:05
+		Duration:	08:26:21
+		Location:	48.32438 11.91167
+
+	ARSJ1LS1
+		Images:	11015
+		Time:	13.07.2024 09:45:49 until 13.07.2024 17:46:55
+		Duration:	08:01:06
+		Location:	48.32438 11.91167
+
+(7) - Obstacle 15 Rapid Rings
+	BKAM1
+		Images:	13720
+		Time:	13.07.2024 09:30:35 until 13.07.2024 17:46:59
+		Duration:	08:16:24
+		Location:	48.33853 11.91616
+
+	BSDR1
+		Images:	10203
+		Time:	13.07.2024 09:37:35 until 13.07.2024 17:47:05
+		Duration:	08:09:30
+		Location:	48.33853 11.91616
+
+(8) - Obstacle 17 Beasty Bar
+	BSVL1
+		Images:	7146
+		Time:	13.07.2024 09:59:20 until 13.07.2024 16:45:34
+		Duration:	06:46:14
+		Location:	48.34836 11.91905
+
+	BSVL1LS1
+		Images:	1702
+		Time:	13.07.2024 09:43:45 until 13.07.2024 16:59:25
+		Duration:	07:15:40
+		Location:	48.34836 11.91905
+
+	BSVL1LS2
+		Images:	1931
+		Time:	13.07.2024 09:32:06 until 13.07.2024 16:59:07
+		Duration:	07:27:01
+		Location:	48.34836 11.91905
+
+(9) - Obstacle 20 Devils Domino
+	BXQ1
+		Images:	10214
+		Time:	13.07.2024 09:29:19 until 13.07.2024 16:47:51
+		Duration:	07:18:32
+		Location:	48.35579 11.91421
+
+(10) - Obstacle 28 Clumsy Cliffhanger
+	BDASA1
+		Images:	6601
+		Time:	13.07.2024 09:37:00 until 13.07.2024 18:19:33
+		Duration:	08:42:33
+		Location:	48.32547 11.91431
+
+	BWPO1
+		Images:	2740
+		Time:	13.07.2024 09:53:43 until 13.07.2024 18:20:43
+		Duration:	08:27:00
+		Location:	48.32547 11.91431
+
+(11) - Obstacle 31 Speedslide
+	ANJO2LS1
+		Images:	2015
+		Time:	13.07.2024 10:04:51 until 13.07.2024 19:03:26
+		Duration:	08:58:35
+		Location:	48.32663 11.91105
+
+(12) - Obstacle 7 Muddy Maniacs
+	AKZS1
+		Images:	15939
+		Time:	13.07.2024 08:00:27 until 13.07.2024 17:56:24
+		Duration:	09:55:57
+		Location:	48.32760 11.91042
+

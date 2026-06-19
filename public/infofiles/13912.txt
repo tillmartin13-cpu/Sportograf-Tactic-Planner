@@ -1,0 +1,81 @@
+EventId: 13912
+Spots: 12
+Total Images: 24682
+Time:	16.05.2025 18:38:46 to 17.05.2025 19:08:08
+Duration: 1.00:29:22
+
+(1) - Start
+	PGE1
+		Images:	247
+		Time:	17.05.2025 05:09:27 until 17.05.2025 13:35:48
+		Duration:	08:26:21
+		Location:	48.7864 9.94428
+
+(2) - 5,7 km
+	MIGE1LS1
+		Images:	2711
+		Time:	17.05.2025 09:45:34 until 17.05.2025 10:39:28
+		Duration:	00:53:54
+		Location:	48.79670 9.96436
+
+(3) - 5,8 km
+	MIGE1
+		Images:	2326
+		Time:	17.05.2025 09:46:29 until 17.05.2025 10:22:42
+		Duration:	00:36:13
+		Location:	48.79675 9.96396
+
+(4) - 9,8 km
+	JULG1
+		Images:	1008
+		Time:	17.05.2025 09:17:51 until 17.05.2025 16:21:11
+		Duration:	07:03:20
+		Location:	48.78278 9.95676
+
+(5) - 26,0 km
+	MIKR1
+		Images:	2207
+		Time:	16.05.2025 18:38:46 until 17.05.2025 13:02:00
+		Duration:	18:23:14
+		Location:	48.78168 9.93434
+
+(6) - Finish
+	PGE2
+		Images:	2371
+		Time:	17.05.2025 10:24:59 until 17.05.2025 12:31:15
+		Duration:	02:06:16
+		Location:	48.7864 9.94428
+
+(7) - 0,0 km
+	PGE3
+		Images:	7244
+		Time:	17.05.2025 15:46:35 until 17.05.2025 17:58:23
+		Duration:	02:11:48
+		Location:	48.78534 9.94615
+
+	MIGE2
+		Images:	2680
+		Time:	17.05.2025 14:28:24 until 17.05.2025 17:03:49
+		Duration:	02:35:25
+		Location:	48.78718 9.94898
+
+	MIGE3LS1
+		Images:	2690
+		Time:	17.05.2025 14:25:54 until 17.05.2025 16:32:42
+		Duration:	02:06:48
+		Location:	48.78728 9.94925
+
+	JULG2
+		Images:	232
+		Time:	17.05.2025 16:24:24 until 17.05.2025 19:08:08
+		Duration:	02:43:44
+		Location:	48.78088 9.95623
+
+	MIKR2
+		Images:	966
+		Time:	17.05.2025 13:36:09 until 17.05.2025 17:40:22
+		Duration:	04:04:13
+		Location:	48.78155 9.93938
+
+(8) - Impressions / Pano
+	PANO1

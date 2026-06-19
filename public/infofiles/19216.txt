@@ -1,0 +1,211 @@
+EventId: 19216
+Spots: 33
+Total Images: 158676
+Time:	11.10.2024 04:22:46 to 10.10.2026 22:31:32
+Duration: 729.18:08:46
+
+(1) - 0,0 km Finish Gus 862716
+	GGAR1
+		Images:	11056
+		Time:	11.10.2025 07:45:58 until 11.10.2025 09:00:38
+		Duration:	01:14:40
+		Location:	NULL NULL
+
+(2) - 0,0 km Finish Gus PR 862720
+	GGUS1
+(3) - 0,0 km Finish Lucas 862717
+	GLKR1
+		Images:	8793
+		Time:	11.10.2025 06:54:40 until 11.10.2025 09:05:39
+		Duration:	02:10:59
+		Location:	NULL NULL
+
+(4) - 0,0 km Finish RLTrig 862719
+	GRLT1
+		Images:	4307
+		Time:	11.10.2025 06:22:32 until 11.10.2025 09:01:43
+		Duration:	02:39:11
+		Location:	NULL NULL
+
+(5) - 0,0 km Finish RRTrig 862718
+	GRRT1
+		Images:	4500
+		Time:	11.10.2025 07:42:50 until 11.10.2025 08:57:49
+		Duration:	01:14:59
+		Location:	NULL NULL
+
+(6) - 0,0 km MSC1 Dennis 862736
+	GDPE1
+		Images:	6766
+		Time:	11.10.2025 07:32:44 until 11.10.2025 09:03:16
+		Duration:	01:30:32
+		Location:	NULL NULL
+
+(7) - 0,0 km MSC1 Jorge 862737
+	GJES1
+		Images:	4037
+		Time:	11.10.2025 07:34:08 until 11.10.2025 09:03:08
+		Duration:	01:29:00
+		Location:	NULL NULL
+
+	GJOE1
+		Images:	3122
+		Time:	11.10.2025 08:03:06 until 11.10.2025 08:44:13
+		Duration:	00:41:07
+		Location:	NULL NULL
+
+(8) - 0.0 km PFNBS862723
+	CBSAP1
+		Images:	4413
+		Time:	11.10.2025 07:29:39 until 11.10.2025 09:09:15
+		Duration:	01:39:36
+		Location:	NULL NULL
+
+(9) - 0.0 km PFNDS862724
+	CDSID1
+		Images:	3433
+		Time:	10.10.2025 19:35:38 until 10.10.2025 20:57:43
+		Duration:	01:22:05
+		Location:	NULL NULL
+
+(10) - 0.0 km PFNDT862722
+	CDTID1
+		Images:	10032
+		Time:	11.10.2025 07:45:14 until 11.10.2025 09:05:32
+		Duration:	01:20:18
+		Location:	NULL NULL
+
+(11) - 0.0 km PFNTR1862725
+	CTRG1
+		Images:	4287
+		Time:	11.10.2025 07:49:56 until 11.10.2025 09:01:51
+		Duration:	01:11:55
+		Location:	NULL NULL
+
+(12) - 0.0 km PFNTR2867194
+	CTGR1
+		Images:	4449
+		Time:	11.10.2024 04:22:46 until 11.10.2024 07:02:03
+		Duration:	02:39:17
+		Location:	NULL NULL
+
+(13) - 0.0 km PFNTR3867196
+	CTRI1
+		Images:	4121
+		Time:	11.10.2025 07:45:39 until 11.10.2025 08:56:33
+		Duration:	01:10:54
+		Location:	NULL NULL
+
+(14) - 0.0 km PR GUS 862720
+	BGPR1
+		Images:	74
+		Time:	11.10.2025 06:46:26 until 11.10.2025 07:45:18
+		Duration:	00:58:52
+		Location:	NULL NULL
+
+(15) - 1.5 MI
+	DHALL1
+		Images:	5336
+		Time:	11.10.2025 07:23:54 until 11.10.2025 09:00:53
+		Duration:	01:36:59
+		Location:	NULL NULL
+
+	DHALL1LS1
+	DIVEG1
+		Images:	6879
+		Time:	11.10.2025 07:24:29 until 11.10.2025 08:39:54
+		Duration:	01:15:25
+		Location:	NULL NULL
+
+(16) - 1.5 MI 1.5 Mile
+	BTRIG1
+		Images:	9889
+		Time:	05.10.2025 05:49:27 until 05.10.2025 10:26:16
+		Duration:	04:36:49
+		Location:	NULL NULL
+
+(17) - 1.8 MI
+	DMEIL1
+		Images:	5301
+		Time:	11.10.2025 06:43:51 until 11.10.2025 08:57:15
+		Duration:	02:13:24
+		Location:	NULL NULL
+
+	DMKEL1
+		Images:	6565
+		Time:	11.10.2025 07:07:22 until 11.10.2025 09:04:22
+		Duration:	01:57:00
+		Location:	NULL NULL
+
+	DMKEL1LS1
+		Images:	27029
+		Time:	05.10.2025 08:08:26 until 11.10.2025 08:52:25
+		Duration:	6.00:43:59
+		Location:	NULL NULL
+
+(18) - Ceremony
+	BCLAU1
+		Images:	751
+		Time:	11.10.2025 06:11:16 until 11.10.2025 08:06:18
+		Duration:	01:55:02
+		Location:	NULL NULL
+
+	BELIJ1
+		Images:	2039
+		Time:	11.10.2025 06:59:19 until 11.10.2025 07:46:03
+		Duration:	00:46:44
+		Location:	NULL NULL
+
+	BJENN1
+		Images:	963
+		Time:	11.10.2025 07:34:42 until 11.10.2025 09:21:30
+		Duration:	01:46:48
+		Location:	NULL NULL
+
+	BJOHN1
+		Images:	1768
+		Time:	11.10.2025 05:41:25 until 11.10.2025 07:01:12
+		Duration:	01:19:47
+		Location:	NULL NULL
+
+	BTIFF1
+		Images:	589
+		Time:	10.10.2026 21:16:17 until 10.10.2026 22:31:32
+		Duration:	01:15:15
+		Location:	NULL NULL
+
+	DJHAR1
+		Images:	1247
+		Time:	11.10.2025 07:49:08 until 11.10.2025 09:01:05
+		Duration:	01:11:57
+		Location:	NULL NULL
+
+(19) - Finish
+	DBSTE2
+		Images:	835
+		Time:	11.10.2025 08:32:00 until 11.10.2025 09:04:01
+		Duration:	00:32:01
+		Location:	NULL NULL
+
+(20) - Impressions / Pano
+	PANO1
+(21) - none
+	SGENT1
+		Images:	4145
+		Time:	11.10.2025 04:35:36 until 11.10.2025 08:59:03
+		Duration:	04:23:27
+		Location:	NULL NULL
+
+	SGENT2
+		Images:	10562
+		Time:	11.10.2025 07:50:00 until 11.10.2025 08:58:19
+		Duration:	01:08:19
+		Location:	NULL NULL
+
+(22) - Start
+	DBSTE1
+		Images:	1388
+		Time:	11.10.2025 06:10:00 until 11.10.2025 08:04:28
+		Duration:	01:54:28
+		Location:	NULL NULL
+

@@ -105,6 +105,21 @@ export const usePhotographerStore = create(
         }));
       },
 
+      setSecondaryCameraCheck: (tacticId, cameraKey, confirmed) => {
+        set((s) => {
+          const prev = s.checkIns[tacticId]?.secondaryCameraChecks ?? {};
+          return {
+            checkIns: {
+              ...s.checkIns,
+              [tacticId]: {
+                ...s.checkIns[tacticId],
+                secondaryCameraChecks: { ...prev, [cameraKey]: confirmed },
+              },
+            },
+          };
+        });
+      },
+
       setCameraCheckout: (tacticId, cameraModel, checked) => {
         set((s) => {
           const prev = s.checkIns[tacticId]?.cameraCheckouts ?? {};

@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "47.21760" lon = "8.80567"><name>AKS1</name><desc>33,8/1000km
+Images:191
+First:10.07.2025 18:23:36
+Last:10.07.2025 21:08:54
+Duration:02:45:18
+</desc></wpt>
+<wpt lat = "47.21950" lon = "8.80823"><name>AKS1LS1</name><desc>33/1000km
+Images:253
+First:10.07.2025 17:45:31
+Last:10.07.2025 21:13:43
+Duration:03:28:12
+</desc></wpt>
+<wpt lat = "46.67067" lon = "9.63399"><name>AKS2</name><desc>301/1000km
+Images:99
+First:11.07.2025 08:29:30
+Last:11.07.2025 10:54:16
+Duration:02:24:46
+</desc></wpt>
+<wpt lat = "46.67287" lon = "9.63136"><name>AKS2LS1</name><desc>300/1000km
+Images:486
+First:11.07.2025 08:21:11
+Last:11.07.2025 11:42:17
+Duration:03:21:06
+</desc></wpt>
+<wpt lat = "47.37958" lon = "8.64812"><name>AKS3</name><desc>vor Schwerzenbach
+Images:403
+First:11.07.2025 16:13:33
+Last:11.07.2025 18:20:56
+Duration:02:07:23
+</desc></wpt>
+<wpt lat = "47.37866" lon = "8.64387"><name>AKS3LS1</name><desc>vor Schwerzenbach
+Images:388
+First:11.07.2025 14:10:11
+Last:11.07.2025 18:17:51
+Duration:04:07:40
+</desc></wpt>
+<wpt lat = "46.97782" lon = "9.54064"><name>AKS4LS1</name><desc>374/1000km
+Images:189
+First:11.07.2025 12:55:07
+Last:11.07.2025 14:09:05
+Duration:01:13:58
+</desc></wpt>
+<wpt lat = "47.17382" lon = "8.64228"><name>AKS6</name><desc>Hütten
+Images:3260
+First:12.07.2025 08:48:28
+Last:12.07.2025 15:04:44
+Duration:06:16:16
+</desc></wpt>
+<wpt lat = "47.17267" lon = "8.63572"><name>AKS6LS2</name><desc>Hütten
+Images:11576
+First:12.07.2025 08:32:26
+Last:12.07.2025 14:00:52
+Duration:05:28:26
+</desc></wpt>
+<wpt lat = "46.91590" lon = "8.97840"><name>EP1</name><desc>54,5/1000km
+Images:54
+First:10.07.2025 21:06:31
+Last:10.07.2025 23:56:51
+Duration:02:50:20
+</desc></wpt>
+<wpt lat = "46.91590" lon = "8.97840"><name>EP1LS1</name><desc>54,5/1000km
+Images:73
+First:10.07.2025 21:32:01
+Last:11.07.2025 11:06:59
+Duration:13:34:58
+</desc></wpt>
+<wpt lat = "46.91590" lon = "8.97840"><name>EP1LS2</name><desc>54,5/1000km
+Images:18
+First:01.01.0001 23:00:00
+Last:10.07.2025 23:56:47
+Duration:739441.00:56:47
+</desc></wpt>
+<wpt lat = "47.19294" lon = "9.40099"><name>EP2</name><desc>412,2/1000km
+Images:147
+First:11.07.2025 11:32:26
+Last:11.07.2025 17:58:14
+Duration:06:25:48
+</desc></wpt>
+<wpt lat = "47.19275" lon = "9.40416"><name>EP2LS1</name><desc>412,4/1000km
+Images:384
+First:11.07.2025 11:07:39
+Last:11.07.2025 16:55:47
+Duration:05:48:08
+</desc></wpt>
+<wpt lat = "47.19275" lon = "9.40416"><name>EP2LS2</name><desc>412,4/1000km
+Images:60
+First:01.01.0001 23:00:00
+Last:11.07.2025 14:35:07
+Duration:739441.15:35:07
+</desc></wpt>
+<wpt lat = "47.32768" lon = "8.60627"><name>EP3</name><desc>Finish/Ceremony
+Images:1657
+First:12.07.2025 07:36:00
+Last:12.07.2025 17:37:39
+Duration:10:01:39
+</desc></wpt>
+<wpt lat = "47.32768" lon = "8.60627"><name>EP3LS2</name><desc>Finish
+Images:4545
+First:12.07.2025 08:20:54
+Last:12.07.2025 17:04:37
+Duration:08:43:43
+</desc></wpt>
+<wpt lat = "47.32768" lon = "8.60627"><name>EP3LS1</name><desc>Finish
+Images:3475
+First:12.07.2025 08:09:36
+Last:12.07.2025 15:55:47
+Duration:07:46:11
+</desc></wpt>
+<wpt lat = "46.87203" lon = "8.86113"><name>JH1</name><desc>109/1000km
+Images:52
+First:10.07.2025 21:23:59
+Last:11.07.2025 00:51:18
+Duration:03:27:19
+</desc></wpt>
+<wpt lat = "46.87203" lon = "8.86113"><name>JH1LS1</name><desc>109/1000km
+Images:133
+First:10.07.2025 21:38:42
+Last:11.07.2025 00:51:22
+Duration:03:12:40
+</desc></wpt>
+<wpt lat = "46.87203" lon = "8.86113"><name>JH1LS2</name><desc>109/1000km
+Images:170
+First:10.07.2025 21:44:34
+Last:11.07.2025 00:51:11
+Duration:03:06:37
+</desc></wpt>
+<wpt lat = "47.18861" lon = "9.41873"><name>JH2</name><desc>410/1000km
+Images:209
+First:11.07.2025 11:41:13
+Last:11.07.2025 20:53:28
+Duration:09:12:15
+</desc></wpt>
+<wpt lat = "47.18861" lon = "9.41873"><name>JH2LS1</name><desc>410/1000km
+Images:242
+First:11.07.2025 11:14:31
+Last:11.07.2025 16:59:34
+Duration:05:45:03
+</desc></wpt>
+<wpt lat = "47.18861" lon = "9.41873"><name>JH2LS2</name><desc>410/1000km
+Images:230
+First:11.07.2025 11:19:44
+Last:11.07.2025 16:58:58
+Duration:05:39:14
+</desc></wpt>
+<wpt lat = "47.08124" lon = "8.52353"><name>JH3</name><desc>Zugersee
+Images:743
+First:12.07.2025 08:16:41
+Last:12.07.2025 14:20:27
+Duration:06:03:46
+</desc></wpt>
+<wpt lat = "47.08124" lon = "8.52353"><name>JH3LS1</name><desc>Zugersee
+Images:1572
+First:12.07.2025 08:31:24
+Last:12.07.2025 14:20:28
+Duration:05:49:04
+</desc></wpt>
+<wpt lat = "47.08124" lon = "8.52353"><name>JH3LS2</name><desc>Zugersee
+Images:1543
+First:12.07.2025 08:34:36
+Last:12.07.2025 14:20:26
+Duration:05:45:50
+</desc></wpt>
+<wpt lat = "47.28616" lon = "8.66122"><name>YS1</name><desc>11,5/1000km
+Images:180
+First:10.07.2025 18:21:39
+Last:10.07.2025 20:24:55
+Duration:02:03:16
+</desc></wpt>
+<wpt lat = "47.28616" lon = "8.66122"><name>YS1LS1</name><desc>11,3/1000km
+Images:305
+First:10.07.2025 18:15:43
+Last:10.07.2025 20:29:44
+Duration:02:14:01
+</desc></wpt>
+<wpt lat = "47.28616" lon = "8.66122"><name>YS1LS2</name><desc>11,3/1000km
+Images:403
+First:10.07.2025 18:14:36
+Last:10.07.2025 20:29:57
+Duration:02:15:21
+</desc></wpt>
+<wpt lat = "46.69216" lon = "9.69141"><name>YS2</name><desc>306,8/1000km
+Images:130
+First:11.07.2025 08:41:55
+Last:11.07.2025 11:20:40
+Duration:02:38:45
+</desc></wpt>
+<wpt lat = "46.69004" lon = "9.68750"><name>YS2LS1</name><desc>306,6/1000km
+Images:406
+First:11.07.2025 08:05:15
+Last:11.07.2025 11:24:06
+Duration:03:18:51
+</desc></wpt>
+<wpt lat = "46.69004" lon = "9.68750"><name>YS2LS2</name><desc>306,6/1000km
+Images:396
+First:11.07.2025 08:07:47
+Last:11.07.2025 11:24:19
+Duration:03:16:32
+</desc></wpt>
+<wpt lat = "46.97928" lon = "9.53850"><name>YS3</name><desc>375/1000km
+Images:82
+First:11.07.2025 13:19:59
+Last:11.07.2025 14:08:05
+Duration:00:48:06
+</desc></wpt>
+<wpt lat = "46.97939" lon = "9.53507"><name>YS3LS1</name><desc>376/1000km
+Images:91
+First:11.07.2025 12:48:27
+Last:11.07.2025 14:13:08
+Duration:01:24:41
+</desc></wpt>
+<wpt lat = "46.97939" lon = "9.53507"><name>YS3LS2</name><desc>376/1000km
+Images:95
+First:11.07.2025 12:49:17
+Last:11.07.2025 14:14:33
+Duration:01:25:16
+</desc></wpt>
+<wpt lat = "47.43774" lon = "8.67210"><name>YS4</name><desc>Lindau
+Images:410
+First:11.07.2025 16:41:08
+Last:11.07.2025 17:51:37
+Duration:01:10:29
+</desc></wpt>
+<wpt lat = "47.43709" lon = "8.66983"><name>YS4LS2</name><desc>Lindau
+Images:703
+First:11.07.2025 16:22:29
+Last:11.07.2025 17:56:56
+Duration:01:34:27
+</desc></wpt>
+<wpt lat = "47.43709" lon = "8.66983"><name>YS4LS1</name><desc>Lindau
+Images:693
+First:11.07.2025 16:22:52
+Last:11.07.2025 17:54:33
+Duration:01:31:41
+</desc></wpt>
+<wpt lat = "47.28215" lon = "8.67903"><name>YS5LS2</name><desc>Pfannenstiel
+Images:279
+First:11.07.2025 19:48:44
+Last:12.07.2025 08:27:42
+Duration:12:38:58
+</desc></wpt>
+<wpt lat = "47.28215" lon = "8.67903"><name>YS5LS1</name><desc>Pfannenstiel
+Images:265
+First:11.07.2025 20:00:22
+Last:11.07.2025 21:45:12
+Duration:01:44:50
+</desc></wpt>
+<wpt lat = "47.18237" lon = "8.56520"><name>YS6</name><desc>Edlibach
+Images:1617
+First:12.07.2025 09:26:11
+Last:12.07.2025 14:34:47
+Duration:05:08:36
+</desc></wpt>
+<wpt lat = "47.18237" lon = "8.56520"><name>YS6LS2</name><desc>Edlibach
+Images:2046
+First:12.07.2025 09:10:23
+Last:12.07.2025 14:41:53
+Duration:05:31:30
+</desc></wpt>
+<wpt lat = "47.18237" lon = "8.56520"><name>YS6LS1</name><desc>Edlibach
+Images:1054
+First:12.07.2025 09:06:41
+Last:12.07.2025 14:40:51
+Duration:05:34:10
+</desc></wpt>
+</gpx>

@@ -1,0 +1,588 @@
+EventId: 8832
+Spots: 95
+Total Images: 2798698
+Time:	01.01.0001 23:00:00 to 28.05.2023 20:42:40
+Duration: 738666.21:42:40
+
+(1) - After Start Tower Hill - Mile 1.8
+	EK2
+		Images:	348
+		Time:	28.05.2023 10:02:07 until 28.05.2023 11:15:53
+		Duration:	01:13:46
+		Location:	51.50369 -0.08012
+
+	HV2
+		Images:	13770
+		Time:	28.05.2023 05:55:42 until 28.05.2023 08:42:52
+		Duration:	02:47:10
+		Location:	51.50946 -0.07714
+
+	HV2LS1
+		Images:	7332
+		Time:	28.05.2023 05:24:35 until 28.05.2023 08:46:17
+		Duration:	03:21:42
+		Location:	51.50946 -0.07714
+
+	LJ2
+		Images:	43170
+		Time:	28.05.2023 09:56:24 until 28.05.2023 18:26:20
+		Duration:	08:29:56
+		Location:	51.50323 -0.07696
+
+	MDO1
+		Images:	38826
+		Time:	28.05.2023 05:38:22 until 28.05.2023 08:45:01
+		Duration:	03:06:39
+		Location:	51.50962 -0.07593
+
+	UL1
+		Images:	11242
+		Time:	28.05.2023 06:04:15 until 28.05.2023 08:49:20
+		Duration:	02:45:05
+		Location:	51.50946 -0.07714
+
+(2) - Broom Hill - Mile 21.4 \ 60 & 100
+	AZ1
+		Images:	42926
+		Time:	28.05.2023 06:22:57 until 28.05.2023 12:06:31
+		Duration:	05:43:34
+		Location:	51.66037 0.04314
+
+	AZ1LS1
+		Images:	21278
+		Time:	28.05.2023 06:55:18 until 28.05.2023 11:49:51
+		Duration:	04:54:33
+		Location:	51.66037 0.04314
+
+	AZ1LS2
+		Images:	28308
+		Time:	28.05.2023 06:14:15 until 28.05.2023 11:53:12
+		Duration:	05:38:57
+		Location:	51.66037 0.04314
+
+	AZ1LS3
+		Images:	18790
+		Time:	28.05.2023 05:17:20 until 28.05.2023 10:56:44
+		Duration:	05:39:24
+		Location:	51.66037 0.04314
+
+	LUX1
+		Images:	37556
+		Time:	28.05.2023 06:48:59 until 28.05.2023 12:06:39
+		Duration:	05:17:40
+		Location:	51.66037 0.04314
+
+	LUX1LS1
+		Images:	28096
+		Time:	28.05.2023 06:33:16 until 28.05.2023 12:05:59
+		Duration:	05:32:43
+		Location:	51.66037 0.04314
+
+(3) - Epping Road - Mile 30 \ 60 & 100
+	LV1
+		Images:	93108
+		Time:	28.05.2023 07:10:12 until 28.05.2023 13:00:08
+		Duration:	05:49:56
+		Location:	51.72405 0.20488
+
+	MK1
+		Images:	107268
+		Time:	28.05.2023 07:39:32 until 28.05.2023 12:56:46
+		Duration:	05:17:14
+		Location:	51.72405 0.20488
+
+(4) - Epping Road - Mile 31 \ 60 & 100
+	PARO1
+		Images:	56406
+		Time:	28.05.2023 07:18:15 until 28.05.2023 12:53:26
+		Duration:	05:35:11
+		Location:	51.72094 0.2177
+
+	PARO1LS1
+		Images:	43184
+		Time:	28.05.2023 07:27:12 until 28.05.2023 12:46:46
+		Duration:	05:19:34
+		Location:	51.72094 0.2177
+
+	PARO1LS2
+		Images:	31778
+		Time:	28.05.2023 06:56:01 until 28.05.2023 12:52:53
+		Duration:	05:56:52
+		Location:	51.72094 0.2177
+
+	PARO1LS3
+		Images:	36354
+		Time:	28.05.2023 06:31:35 until 28.05.2023 12:52:38
+		Duration:	06:21:03
+		Location:	51.72094 0.2177
+
+(5) - Finish
+	DAB2
+		Images:	1346
+		Time:	28.05.2023 16:51:53 until 28.05.2023 17:42:40
+		Duration:	00:50:47
+		Location:	51.50394 -0.07645
+
+	EK3
+		Images:	21240
+		Time:	28.05.2023 11:29:22 until 28.05.2023 18:26:53
+		Duration:	06:57:31
+		Location:	51.50329 -0.07694
+
+	JOEM2
+		Images:	4772
+		Time:	28.05.2023 16:53:45 until 28.05.2023 17:45:20
+		Duration:	00:51:35
+		Location:	51.50394 -0.07645
+
+	LJ1
+		Images:	18320
+		Time:	28.05.2023 06:03:50 until 28.05.2023 08:38:05
+		Duration:	02:34:15
+		Location:	51.50962 -0.07593
+
+	LJ2
+		Images:	43170
+		Time:	28.05.2023 09:56:24 until 28.05.2023 18:26:20
+		Duration:	08:29:56
+		Location:	51.50323 -0.07696
+
+	LJ2LS1
+		Images:	16554
+		Time:	28.05.2023 09:18:40 until 28.05.2023 18:28:25
+		Duration:	09:09:45
+		Location:	51.50329 -0.07694
+
+	LJ2LS2
+		Images:	26096
+		Time:	28.05.2023 09:19:15 until 28.05.2023 18:27:37
+		Duration:	09:08:22
+		Location:	51.50323 -0.07696
+
+	THS1
+		Images:	79462
+		Time:	28.05.2023 06:25:39 until 28.05.2023 20:42:40
+		Duration:	14:17:01
+		Location:	51.50329 -0.07694
+
+	THS1LS1
+		Images:	13054
+		Time:	28.05.2023 09:40:41 until 28.05.2023 18:28:55
+		Duration:	08:48:14
+		Location:	51.50329 -0.07694
+
+	THS1LS2
+		Images:	24270
+		Time:	28.05.2023 09:20:15 until 28.05.2023 19:14:43
+		Duration:	09:54:28
+		Location:	51.50329 -0.07694
+
+(6) - Great Waltham - Mile 58.6 \ 100
+	ACA1
+		Images:	27354
+		Time:	28.05.2023 07:27:49 until 28.05.2023 15:13:59
+		Duration:	07:46:10
+		Location:	51.7936 0.45672
+
+	MADO1
+		Images:	66258
+		Time:	28.05.2023 07:31:54 until 28.05.2023 15:13:51
+		Duration:	07:41:57
+		Location:	51.7936 0.45672
+
+(7) - Hartford End - Mile 55.8 \ 100
+	CH1
+		Images:	134236
+		Time:	28.05.2023 05:55:36 until 28.05.2023 14:52:21
+		Duration:	08:56:45
+		Location:	51.82507 0.447
+
+	STEM1
+		Images:	88112
+		Time:	28.05.2023 06:48:10 until 28.05.2023 14:52:38
+		Duration:	08:04:28
+		Location:	51.82507 0.447
+
+(8) - High Roding - Mile 41.9 \ 100
+	JHD1
+		Images:	26056
+		Time:	28.05.2023 07:37:48 until 28.05.2023 13:37:40
+		Duration:	05:59:52
+		Location:	51.83239 0.32641
+
+	RLG1
+		Images:	36224
+		Time:	28.05.2023 06:20:15 until 28.05.2023 13:33:40
+		Duration:	07:13:25
+		Location:	51.83239 0.32641
+
+(9) - Hook Ln - Mile 39.5 \ 60 & 80.2 \ 100
+	CMU1
+		Images:	97812
+		Time:	28.05.2023 08:10:27 until 28.05.2023 16:48:52
+		Duration:	08:38:25
+		Location:	51.63727 0.15086
+
+	QVT1
+		Images:	56664
+		Time:	28.05.2023 11:22:11 until 28.05.2023 16:50:46
+		Duration:	05:28:35
+		Location:	51.63702 0.14944
+
+(10) - Impressions / Pano
+	PANO1
+	THS1IMP1
+		Images:	48
+		Time:	28.05.2023 06:25:39 until 28.05.2023 20:42:40
+		Duration:	14:17:01
+		Location:	51.50322 -0.07698
+
+(11) - Lambourne End - Mile 40.7 \ 60 & 81.5 \ 100
+	AK1
+		Images:	50286
+		Time:	28.05.2023 08:50:24 until 28.05.2023 17:34:34
+		Duration:	08:44:10
+		Location:	51.62743 0.13205
+
+	AZ2
+		Images:	21286
+		Time:	28.05.2023 13:51:58 until 28.05.2023 15:31:18
+		Duration:	01:39:20
+		Location:	51.62743 0.13205
+
+	AZ2LS1
+		Images:	13748
+		Time:	28.05.2023 13:59:52 until 28.05.2023 17:03:38
+		Duration:	03:03:46
+		Location:	51.62743 0.13205
+
+	AZ2LS2
+		Images:	6452
+		Time:	28.05.2023 13:17:15 until 28.05.2023 13:44:29
+		Duration:	00:27:14
+		Location:	51.62743 0.13205
+
+	LUX2
+		Images:	23340
+		Time:	28.05.2023 13:40:48 until 28.05.2023 16:55:17
+		Duration:	03:14:29
+		Location:	NULL NULL
+
+	LUX2LS1
+		Images:	22788
+		Time:	28.05.2023 13:45:31 until 28.05.2023 16:55:53
+		Duration:	03:10:22
+		Location:	NULL NULL
+
+	LUX2LS2
+		Images:	31704
+		Time:	28.05.2023 13:48:26 until 28.05.2023 16:27:50
+		Duration:	02:39:24
+		Location:	NULL NULL
+
+	SALA1
+		Images:	65430
+		Time:	28.05.2023 08:49:03 until 28.05.2023 17:34:32
+		Duration:	08:45:29
+		Location:	51.62743 0.13205
+
+(12) - Lower Lea Crossing - Mile 5.8 \ All - 57.6/60 & 98.3/100
+	AH1
+		Images:	69526
+		Time:	28.05.2023 05:42:44 until 28.05.2023 18:14:17
+		Duration:	12:31:33
+		Location:	51.51021 0.00652
+
+	GF1
+		Images:	52936
+		Time:	28.05.2023 05:41:18 until 28.05.2023 18:14:11
+		Duration:	12:32:53
+		Location:	51.51021 0.00652
+
+(13) - Medals
+	EK1
+		Images:	24562
+		Time:	28.05.2023 05:19:43 until 28.05.2023 09:46:26
+		Duration:	04:26:43
+		Location:	51.50937 -0.07802
+
+	EK2
+		Images:	348
+		Time:	28.05.2023 10:02:07 until 28.05.2023 11:15:53
+		Duration:	01:13:46
+		Location:	51.50369 -0.08012
+
+	MAE1
+		Images:	38614
+		Time:	28.05.2023 06:00:16 until 28.05.2023 09:15:14
+		Duration:	03:14:58
+		Location:	51.51017 -0.11727
+
+	MAE2
+		Images:	11742
+		Time:	28.05.2023 10:28:05 until 28.05.2023 18:35:56
+		Duration:	08:07:51
+		Location:	51.50361 -0.08034
+
+	UL1
+		Images:	11242
+		Time:	28.05.2023 06:04:15 until 28.05.2023 08:49:20
+		Duration:	02:45:05
+		Location:	51.50946 -0.07714
+
+	UL2
+		Images:	4168
+		Time:	28.05.2023 09:18:01 until 28.05.2023 17:41:34
+		Duration:	08:23:33
+		Location:	51.50361 -0.08034
+
+(14) - none
+	LUX1LS2
+		Images:	22928
+		Time:	28.05.2023 06:43:46 until 28.05.2023 12:02:35
+		Duration:	05:18:49
+		Location:	NULL NULL
+
+	LUX2LS1
+		Images:	22788
+		Time:	28.05.2023 13:45:31 until 28.05.2023 16:55:53
+		Duration:	03:10:22
+		Location:	NULL NULL
+
+	LUX2LS2
+		Images:	31704
+		Time:	28.05.2023 13:48:26 until 28.05.2023 16:27:50
+		Duration:	02:39:24
+		Location:	NULL NULL
+
+	LV1LS1
+		Images:	39268
+		Time:	28.05.2023 07:13:58 until 28.05.2023 12:53:32
+		Duration:	05:39:34
+		Location:	NULL NULL
+
+	MK1DRONE1
+		Images:	42
+		Time:	28.05.2023 08:27:13 until 28.05.2023 08:38:28
+		Duration:	00:11:15
+		Location:	NULL NULL
+
+	MK1LS1
+		Images:	37892
+		Time:	28.05.2023 07:10:03 until 28.05.2023 12:54:00
+		Duration:	05:43:57
+		Location:	NULL NULL
+
+	MK1LS2
+		Images:	53756
+		Time:	28.05.2023 07:19:06 until 28.05.2023 12:58:51
+		Duration:	05:39:45
+		Location:	NULL NULL
+
+	TOMY1LS1
+		Images:	26386
+		Time:	28.05.2023 06:39:43 until 28.05.2023 17:11:21
+		Duration:	10:31:38
+		Location:	51.60808 0.02057
+
+(15) - Stapleford Abbots - Mile 38.8 \ 60 & 79.5 \ 100
+	AGH1
+		Images:	25678
+		Time:	28.05.2023 09:01:29 until 28.05.2023 16:51:57
+		Duration:	07:50:28
+		Location:	51.64207 0.16517
+
+(16) - Stapleford Abbotts - Mile 38.8 \ 60 & 79.5 \ 100
+	LMO1
+		Images:	48340
+		Time:	28.05.2023 09:01:31 until 28.05.2023 16:51:57
+		Duration:	07:50:26
+		Location:	51.64207 0.16517
+
+(17) - Start
+	DAB1
+		Images:	7360
+		Time:	28.05.2023 06:00:06 until 28.05.2023 09:02:37
+		Duration:	03:02:31
+		Location:	51.51017 -0.11727
+
+	EDB1
+	JOEM1
+		Images:	18690
+		Time:	28.05.2023 05:55:52 until 28.05.2023 09:07:21
+		Duration:	03:11:29
+		Location:	51.51017 -0.11727
+
+	JUW1
+		Images:	23466
+		Time:	28.05.2023 06:00:10 until 28.05.2023 08:51:51
+		Duration:	02:51:41
+		Location:	51.51017 -0.11727
+
+	MAE1
+		Images:	38614
+		Time:	28.05.2023 06:00:16 until 28.05.2023 09:15:14
+		Duration:	03:14:58
+		Location:	51.51017 -0.11727
+
+	MAE1LS1
+		Images:	18640
+		Time:	28.05.2023 05:43:14 until 28.05.2023 09:18:47
+		Duration:	03:35:33
+		Location:	51.51017 -0.11727
+
+	MAE1LS2
+		Images:	8476
+		Time:	28.05.2023 05:57:14 until 28.05.2023 09:18:28
+		Duration:	03:21:14
+		Location:	51.51017 -0.11727
+
+	MKH1
+		Images:	16834
+		Time:	28.05.2023 05:22:58 until 28.05.2023 12:20:49
+		Duration:	06:57:51
+		Location:	51.51029 -0.11686
+
+	PMA1
+		Images:	18426
+		Time:	28.05.2023 05:55:25 until 28.05.2023 09:37:20
+		Duration:	03:41:55
+		Location:	51.51017 -0.11727
+
+	PMA1LS1
+		Images:	20520
+		Time:	28.05.2023 05:46:14 until 28.05.2023 10:26:15
+		Duration:	04:40:01
+		Location:	51.51017 -0.11727
+
+(18) - Tower Bridge
+	HV1
+		Images:	29372
+		Time:	27.05.2023 22:13:13 until 28.05.2023 18:25:45
+		Duration:	20:12:32
+		Location:	51.50532 -0.07552
+
+	HV1LS1
+		Images:	71212
+		Time:	28.05.2023 09:26:43 until 28.05.2023 17:09:18
+		Duration:	07:42:35
+		Location:	51.50532 -0.07552
+
+	MDO2
+		Images:	73932
+		Time:	28.05.2023 09:52:02 until 28.05.2023 18:43:17
+		Duration:	08:51:15
+		Location:	51.50530 -0.07549
+
+	MDO2LS1
+		Images:	21960
+		Time:	28.05.2023 09:40:44 until 28.05.2023 18:21:53
+		Duration:	08:41:09
+		Location:	51.50530 -0.07549
+
+	PMA1
+		Images:	18426
+		Time:	28.05.2023 05:55:25 until 28.05.2023 09:37:20
+		Duration:	03:41:55
+		Location:	51.51017 -0.11727
+
+	PMA2
+		Images:	39406
+		Time:	28.05.2023 10:29:30 until 28.05.2023 18:32:07
+		Duration:	08:02:37
+		Location:	51.50532 -0.07552
+
+	PMA2LS1
+		Images:	27782
+		Time:	28.05.2023 10:27:50 until 28.05.2023 18:25:16
+		Duration:	07:57:26
+		Location:	51.50532 -0.07552
+
+(19) - Tower Hill
+	RJ2
+		Images:	19800
+		Time:	28.05.2023 06:04:10 until 28.05.2023 08:43:28
+		Duration:	02:39:18
+		Location:	NULL NULL
+
+	RJ2LS1
+		Images:	19496
+		Time:	28.05.2023 06:02:49 until 28.05.2023 14:38:38
+		Duration:	08:35:49
+		Location:	NULL NULL
+
+(20) - Tower Hill Start
+	EK1
+		Images:	24562
+		Time:	28.05.2023 05:19:43 until 28.05.2023 09:46:26
+		Duration:	04:26:43
+		Location:	51.50937 -0.07802
+
+	LJ1
+		Images:	18320
+		Time:	28.05.2023 06:03:50 until 28.05.2023 08:38:05
+		Duration:	02:34:15
+		Location:	51.50962 -0.07593
+
+	LJ1LS1
+		Images:	8972
+		Time:	28.05.2023 05:34:46 until 28.05.2023 08:43:32
+		Duration:	03:08:46
+		Location:	51.50962 -0.07593
+
+	LJ1LS2
+		Images:	7186
+		Time:	28.05.2023 05:35:51 until 28.05.2023 08:45:40
+		Duration:	03:09:49
+		Location:	51.50962 -0.07593
+
+	MDO1
+		Images:	38826
+		Time:	28.05.2023 05:38:22 until 28.05.2023 08:45:01
+		Duration:	03:06:39
+		Location:	51.50962 -0.07593
+
+	MDO1LS1
+		Images:	8094
+		Time:	28.05.2023 05:28:04 until 28.05.2023 08:48:41
+		Duration:	03:20:37
+		Location:	51.50962 -0.07593
+
+(21) - Tower of London
+	RJ1
+		Images:	37500
+		Time:	28.05.2023 09:56:10 until 28.05.2023 18:31:40
+		Duration:	08:35:30
+		Location:	51.5079 -0.07413
+
+	RJ1LS1
+		Images:	33988
+		Time:	28.05.2023 06:02:49 until 28.05.2023 17:05:25
+		Duration:	11:02:36
+		Location:	51.5079 -0.07413
+
+	RJ1LS2
+		Images:	8926
+		Time:	28.05.2023 14:39:26 until 28.05.2023 17:08:15
+		Duration:	02:28:49
+		Location:	51.5079 -0.07413
+
+(22) - Woodford Green - Mile 17.6 \ All & 46.2 \ 60 & 87.1 \ 100
+	RLW1
+		Images:	96414
+		Time:	01.01.0001 23:00:00 until 28.05.2023 17:12:02
+		Duration:	738666.18:12:02
+		Location:	51.60808 0.02057
+
+	TOMY1
+		Images:	73756
+		Time:	28.05.2023 06:39:41 until 28.05.2023 17:15:10
+		Duration:	10:35:29
+		Location:	51.60808 0.02057
+
+	TOMY1LS1
+		Images:	26386
+		Time:	28.05.2023 06:39:43 until 28.05.2023 17:11:21
+		Duration:	10:31:38
+		Location:	51.60808 0.02057
+

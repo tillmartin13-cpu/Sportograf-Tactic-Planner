@@ -1,0 +1,418 @@
+EventId: 13098
+Spots: 69
+Total Images: 441360
+Time:	31.12.2006 19:00:00 to 19.05.2024 12:11:37
+Duration: 6348.17:11:37
+
+(1) - 0.0 km
+	ACFI1
+		Images:	10825
+		Time:	05.05.2024 07:53:35 until 05.05.2024 10:35:44
+		Duration:	02:42:09
+		Location:	NULL NULL
+
+	ACHEL1
+		Images:	9165
+		Time:	05.05.2024 08:07:51 until 05.05.2024 11:51:21
+		Duration:	03:43:30
+		Location:	NULL NULL
+
+	ADON1
+		Images:	11236
+		Time:	05.05.2024 07:07:29 until 05.05.2024 10:37:58
+		Duration:	03:30:29
+		Location:	NULL NULL
+
+	AEDB1
+		Images:	1922
+		Time:	05.05.2024 10:11:26 until 05.05.2024 11:39:52
+		Duration:	01:28:26
+		Location:	NULL NULL
+
+	AEDR1
+		Images:	5782
+		Time:	05.05.2024 07:38:54 until 05.05.2024 09:12:53
+		Duration:	01:33:59
+		Location:	NULL NULL
+
+	AEUG1
+		Images:	1254
+		Time:	05.05.2024 08:29:07 until 05.05.2024 11:48:27
+		Duration:	03:19:20
+		Location:	NULL NULL
+
+	AJJAO1
+		Images:	930
+		Time:	05.05.2024 07:16:31 until 05.05.2024 10:14:24
+		Duration:	02:57:53
+		Location:	NULL NULL
+
+	ASHA1
+		Images:	8047
+		Time:	05.05.2024 07:00:33 until 05.05.2024 10:30:55
+		Duration:	03:30:22
+		Location:	NULL NULL
+
+	ATOM1
+		Images:	16680
+		Time:	05.05.2024 08:08:10 until 05.05.2024 11:25:15
+		Duration:	03:17:05
+		Location:	NULL NULL
+
+	ATRB1
+		Images:	5283
+		Time:	30.07.2023 07:59:22 until 30.07.2023 09:39:27
+		Duration:	01:40:05
+		Location:	NULL NULL
+
+	ATRH1
+		Images:	5729
+		Time:	05.05.2024 08:22:44 until 05.05.2024 11:33:40
+		Duration:	03:10:56
+		Location:	NULL NULL
+
+	ATRK1
+		Images:	6974
+		Time:	05.05.2024 05:00:20 until 05.05.2024 08:56:55
+		Duration:	03:56:35
+		Location:	NULL NULL
+
+	BAND1
+		Images:	12146
+		Time:	05.05.2024 06:50:38 until 05.05.2024 10:54:45
+		Duration:	04:04:07
+		Location:	NULL NULL
+
+	BCHO1
+		Images:	5409
+		Time:	04.05.2024 13:02:54 until 04.05.2024 15:30:01
+		Duration:	02:27:07
+		Location:	NULL NULL
+
+	BFF1
+		Images:	714
+		Time:	04.05.2024 20:34:46 until 04.05.2024 23:31:34
+		Duration:	02:56:48
+		Location:	NULL NULL
+
+	BJBEA1
+		Images:	11245
+		Time:	05.05.2024 06:57:08 until 05.05.2024 10:25:30
+		Duration:	03:28:22
+		Location:	NULL NULL
+
+	BJIM1
+		Images:	6120
+		Time:	05.05.2024 08:35:23 until 05.05.2024 11:56:59
+		Duration:	03:21:36
+		Location:	NULL NULL
+
+	BKRY1
+		Images:	755
+		Time:	04.05.2024 20:43:28 until 04.05.2024 23:46:22
+		Duration:	03:02:54
+		Location:	NULL NULL
+
+	BMAUR1
+		Images:	19063
+		Time:	05.05.2024 08:22:45 until 05.05.2024 11:31:39
+		Duration:	03:08:54
+		Location:	NULL NULL
+
+	BMCB1
+		Images:	577
+		Time:	05.05.2024 10:27:10 until 05.05.2024 11:23:39
+		Duration:	00:56:29
+		Location:	NULL NULL
+
+	BROB1
+		Images:	10193
+		Time:	05.05.2024 08:56:08 until 05.05.2024 11:42:19
+		Duration:	02:46:11
+		Location:	NULL NULL
+
+	BRUSS1
+		Images:	1789
+		Time:	05.05.2024 06:59:12 until 05.05.2024 10:48:31
+		Duration:	03:49:19
+		Location:	NULL NULL
+
+	BSTH1
+		Images:	4669
+		Time:	05.05.2024 06:30:00 until 05.05.2024 08:00:03
+		Duration:	01:30:03
+		Location:	NULL NULL
+
+	BTCG1
+		Images:	5603
+		Time:	05.05.2024 08:19:32 until 05.05.2024 11:31:44
+		Duration:	03:12:12
+		Location:	NULL NULL
+
+	BTRF1
+		Images:	5605
+		Time:	05.05.2024 08:22:36 until 05.05.2024 11:32:47
+		Duration:	03:10:11
+		Location:	NULL NULL
+
+	BTRJ1
+		Images:	10255
+		Time:	05.05.2024 07:24:03 until 05.05.2024 11:26:29
+		Duration:	04:02:26
+		Location:	NULL NULL
+
+(2) - Impressions / Pano
+	PANO1
+(3) - none
+	ABMY1
+		Images:	14480
+		Time:	05.05.2024 07:41:39 until 05.05.2024 10:35:19
+		Duration:	02:53:40
+		Location:	NULL NULL
+
+	ASMA1
+		Images:	15349
+		Time:	05.05.2024 07:48:17 until 05.05.2024 10:26:57
+		Duration:	02:38:40
+		Location:	NULL NULL
+
+	ATRC1
+		Images:	8689
+		Time:	23.01.2024 02:15:48 until 23.01.2024 05:50:58
+		Duration:	03:35:10
+		Location:	NULL NULL
+
+	ATRD1
+		Images:	8714
+		Time:	05.05.2024 07:00:26 until 05.05.2024 09:36:02
+		Duration:	02:35:36
+		Location:	NULL NULL
+
+	BGLEN1
+		Images:	395
+		Time:	05.05.2024 06:51:04 until 05.05.2024 10:46:42
+		Duration:	03:55:38
+		Location:	NULL NULL
+
+	BIANA1
+		Images:	629
+		Time:	05.05.2024 09:03:30 until 05.05.2024 11:26:38
+		Duration:	02:23:08
+		Location:	NULL NULL
+
+	BJNIC1
+		Images:	8420
+		Time:	05.05.2024 07:54:10 until 05.05.2024 11:25:17
+		Duration:	03:31:07
+		Location:	NULL NULL
+
+	BMAD1
+		Images:	1268
+		Time:	04.05.2024 19:18:57 until 04.05.2024 22:13:45
+		Duration:	02:54:48
+		Location:	NULL NULL
+
+	BMADB1
+		Images:	114
+		Time:	04.05.2024 22:15:54 until 04.05.2024 22:55:53
+		Duration:	00:39:59
+		Location:	NULL NULL
+
+	BMCA1
+		Images:	2161
+		Time:	05.05.2024 07:30:46 until 05.05.2024 08:59:29
+		Duration:	01:28:43
+		Location:	NULL NULL
+
+	BSEBA1
+		Images:	7878
+		Time:	19.05.2024 07:21:25 until 19.05.2024 10:37:50
+		Duration:	03:16:25
+		Location:	NULL NULL
+
+	BSTB1
+		Images:	1143
+		Time:	05.05.2024 09:32:15 until 05.05.2024 10:22:15
+		Duration:	00:50:00
+		Location:	NULL NULL
+
+	BTRB1
+		Images:	4718
+		Time:	05.05.2024 07:35:45 until 05.05.2024 09:11:46
+		Duration:	01:36:01
+		Location:	NULL NULL
+
+	BTRE1
+		Images:	10178
+		Time:	05.05.2024 08:00:42 until 05.05.2024 11:05:59
+		Duration:	03:05:17
+		Location:	NULL NULL
+
+	BTRI1
+		Images:	5651
+		Time:	31.12.2006 19:00:00 until 31.12.2006 22:07:53
+		Duration:	03:07:53
+		Location:	NULL NULL
+
+	BWIFE1
+		Images:	837
+		Time:	06.05.2023 07:23:55 until 06.05.2023 10:48:10
+		Duration:	03:24:15
+		Location:	NULL NULL
+
+	CASEY1
+		Images:	7507
+		Time:	19.05.2024 08:07:39 until 19.05.2024 11:02:15
+		Duration:	02:54:36
+		Location:	NULL NULL
+
+	CZARI1
+		Images:	15920
+		Time:	19.05.2024 07:20:36 until 19.05.2024 12:11:37
+		Duration:	04:51:01
+		Location:	NULL NULL
+
+	DKLEI1
+		Images:	1139
+		Time:	19.05.2024 06:35:03 until 19.05.2024 10:05:49
+		Duration:	03:30:46
+		Location:	NULL NULL
+
+	DPERA1
+		Images:	10451
+		Time:	19.05.2024 06:19:45 until 19.05.2024 09:37:04
+		Duration:	03:17:19
+		Location:	NULL NULL
+
+	HANDS1
+		Images:	6785
+		Time:	19.05.2024 08:51:11 until 19.05.2024 11:23:06
+		Duration:	02:31:55
+		Location:	NULL NULL
+
+	JATOP1
+		Images:	9904
+		Time:	19.05.2024 07:07:39 until 19.05.2024 10:12:02
+		Duration:	03:04:23
+		Location:	NULL NULL
+
+	JPARR1
+		Images:	1969
+		Time:	19.05.2024 07:04:40 until 19.05.2024 08:05:28
+		Duration:	01:00:48
+		Location:	NULL NULL
+
+	KALEX1
+		Images:	5027
+		Time:	19.05.2024 06:25:27 until 19.05.2024 08:32:21
+		Duration:	02:06:54
+		Location:	NULL NULL
+
+	KALIF1
+		Images:	10313
+		Time:	19.05.2024 07:14:04 until 19.05.2024 10:31:38
+		Duration:	03:17:34
+		Location:	NULL NULL
+
+	KROLL1
+		Images:	14248
+		Time:	19.05.2024 08:16:22 until 19.05.2024 11:37:25
+		Duration:	03:21:03
+		Location:	NULL NULL
+
+	LKROL1
+		Images:	3208
+		Time:	19.05.2024 07:03:49 until 19.05.2024 07:41:30
+		Duration:	00:37:41
+		Location:	NULL NULL
+
+	MKONO1
+		Images:	11708
+		Time:	19.05.2024 05:54:09 until 19.05.2024 10:14:02
+		Duration:	04:19:53
+		Location:	NULL NULL
+
+	MWHIT1
+		Images:	2188
+		Time:	19.05.2024 08:03:19 until 19.05.2024 09:00:54
+		Duration:	00:57:35
+		Location:	NULL NULL
+
+	NLALO1
+		Images:	681
+		Time:	13.03.2024 19:36:26 until 13.03.2024 22:40:28
+		Duration:	03:04:02
+		Location:	NULL NULL
+
+	PARJ1
+		Images:	13486
+		Time:	24.03.2024 07:30:57 until 19.05.2024 10:22:04
+		Duration:	56.02:51:07
+		Location:	NULL NULL
+
+	PHALE1
+		Images:	709
+		Time:	19.05.2024 07:38:14 until 19.05.2024 10:14:59
+		Duration:	02:36:45
+		Location:	NULL NULL
+
+	PRBRY1
+		Images:	392
+		Time:	19.05.2024 06:24:44 until 19.05.2024 07:20:26
+		Duration:	00:55:42
+		Location:	NULL NULL
+
+	PRCHA1
+		Images:	286
+		Time:	19.05.2024 05:36:13 until 19.05.2024 06:15:29
+		Duration:	00:39:16
+		Location:	NULL NULL
+
+	SHAND1
+		Images:	496
+		Time:	15.12.2016 09:03:45 until 20.08.2017 16:57:04
+		Duration:	248.07:53:19
+		Location:	NULL NULL
+
+	TFOUR1
+		Images:	9843
+		Time:	19.05.2024 07:32:25 until 19.05.2024 11:00:14
+		Duration:	03:27:49
+		Location:	NULL NULL
+
+	TFRED1
+		Images:	5412
+		Time:	19.05.2024 07:03:43 until 19.05.2024 10:29:29
+		Duration:	03:25:46
+		Location:	NULL NULL
+
+	TOCHO1
+		Images:	9862
+		Time:	19.05.2024 09:00:14 until 19.05.2024 12:04:14
+		Duration:	03:04:00
+		Location:	NULL NULL
+
+	TONE1
+		Images:	2971
+		Time:	19.05.2024 07:06:27 until 19.05.2024 08:01:32
+		Duration:	00:55:05
+		Location:	NULL NULL
+
+	TSIET1
+		Images:	9516
+		Time:	18.05.2024 08:12:18 until 18.05.2024 11:03:26
+		Duration:	02:51:08
+		Location:	NULL NULL
+
+	TTWO1
+		Images:	10034
+		Time:	06.01.2024 07:49:04 until 06.01.2024 10:59:38
+		Duration:	03:10:34
+		Location:	NULL NULL
+
+	WHITE1
+		Images:	8711
+		Time:	19.05.2024 09:15:35 until 19.05.2024 12:02:42
+		Duration:	02:47:07
+		Location:	NULL NULL
+

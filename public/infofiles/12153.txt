@@ -1,0 +1,356 @@
+EventId: 12153
+Spots: 57
+Total Images: 851868
+Time:	12.04.2024 16:27:56 to 13.04.2025 18:39:00
+Duration: 366.02:11:04
+
+(1) - 0,0 km Cauberg
+	MKMC1
+		Images:	4761
+		Time:	13.04.2024 08:22:16 until 13.04.2024 18:58:54
+		Duration:	10:36:38
+		Location:	50.86170 5.82683
+
+	MSTL2
+		Images:	8349
+		Time:	13.04.2024 11:03:34 until 13.04.2024 19:16:43
+		Duration:	08:13:09
+		Location:	50.86111 5.82351
+
+	MTID1
+		Images:	20822
+		Time:	13.04.2024 08:26:26 until 13.04.2024 18:58:08
+		Duration:	10:31:42
+		Location:	50.86166 5.82735
+
+	MTID1LS1
+		Images:	32116
+		Time:	13.04.2024 08:12:09 until 13.04.2024 18:49:51
+		Duration:	10:37:42
+		Location:	50.86166 5.82735
+
+	MVL2
+		Images:	11727
+		Time:	13.04.2024 10:55:54 until 13.04.2024 19:17:22
+		Duration:	08:21:28
+		Location:	50.86111 5.82351
+
+(2) - 105,0 km /240, 106/200, 12,4/150
+	DDRI1
+		Images:	12584
+		Time:	13.04.2024 07:01:37 until 13.04.2024 10:06:20
+		Duration:	03:04:43
+		Location:	50.84873 5.77041
+
+	DDRI1LS1
+		Images:	16338
+		Time:	13.04.2024 07:05:48 until 13.04.2024 10:24:59
+		Duration:	03:19:11
+		Location:	50.84873 5.77041
+
+	DDRI1LS2
+		Images:	3026
+		Time:	13.04.2024 07:40:12 until 13.04.2024 10:12:08
+		Duration:	02:31:56
+		Location:	50.84873 5.77041
+
+	DDRI1LS3
+		Images:	3413
+		Time:	13.04.2024 07:18:43 until 13.04.2024 10:15:21
+		Duration:	02:56:38
+		Location:	50.84873 5.77041
+
+	DPV1
+		Images:	19260
+		Time:	13.04.2024 09:06:20 until 13.04.2024 18:57:20
+		Duration:	09:51:00
+		Location:	50.8487 5.92104
+
+	DSJA1
+		Images:	8965
+		Time:	13.04.2024 06:59:33 until 13.04.2024 12:56:34
+		Duration:	05:57:01
+		Location:	50.84873 5.77041
+
+	DSJA1LS2
+(3) - 105,0 km 105/240, 106/200, 12,4/150
+	DSJA1LS1
+		Images:	2948
+		Time:	13.04.2025 07:46:17 until 13.04.2025 10:55:51
+		Duration:	03:09:34
+		Location:	50.84873 5.77041
+
+(4) - 180,0 km /200, 81/100
+	DMAW1
+		Images:	12761
+		Time:	13.04.2024 08:26:27 until 13.04.2024 19:05:11
+		Duration:	10:38:44
+		Location:	50.8487 5.92104
+
+	DMAW1DRONE1
+		Images:	69
+		Time:	13.04.2024 12:35:08 until 13.04.2024 15:58:54
+		Duration:	03:23:46
+		Location:	50.8487 5.92104
+
+	DMAW1LS1
+		Images:	9806
+		Time:	13.04.2024 08:06:32 until 13.04.2024 18:47:48
+		Duration:	10:41:16
+		Location:	50.8487 5.92104
+
+	DMAW1LS2
+		Images:	10208
+		Time:	13.04.2024 08:18:22 until 13.04.2024 18:42:38
+		Duration:	10:24:16
+		Location:	50.8487 5.92104
+
+(5) - 201,0 km /240, 162/200, 108/150
+	DAPL1
+		Images:	13380
+		Time:	13.04.2024 09:08:12 until 13.04.2024 17:52:25
+		Duration:	08:44:13
+		Location:	50.83085 5.92755
+
+	DFLOF1
+		Images:	7311
+		Time:	12.04.2024 19:16:07 until 13.04.2024 18:50:43
+		Duration:	23:34:36
+		Location:	50.83085 5.92755
+
+(6) - 226,0 km /240, 187/200,133/150
+	DDAGG1
+		Images:	7556
+		Time:	12.04.2024 16:27:56 until 13.04.2024 19:08:27
+		Duration:	1.02:40:31
+		Location:	50.84398 5.87366
+
+	DFEF1
+		Images:	18930
+		Time:	13.04.2024 08:27:08 until 13.04.2024 19:04:38
+		Duration:	10:37:30
+		Location:	50.84398 5.87366
+
+(7) - 235,0 km /240, 196/200, 142/150, 118/125, 94/100, 65/65
+	DDRI2
+		Images:	28809
+		Time:	13.04.2024 12:32:18 until 13.04.2024 18:34:51
+		Duration:	06:02:33
+		Location:	50.8563 5.82563
+
+	DDRI2DRONE1
+		Images:	8
+		Time:	13.04.2024 07:57:05 until 13.04.2024 08:01:50
+		Duration:	00:04:45
+		Location:	50.8563 5.82563
+
+	DDRI2LS1
+		Images:	28149
+		Time:	13.04.2024 10:45:29 until 13.04.2024 18:39:06
+		Duration:	07:53:37
+		Location:	50.8563 5.82563
+
+	DDRI2LS2
+		Images:	13967
+		Time:	13.04.2024 11:47:27 until 13.04.2024 18:38:05
+		Duration:	06:50:38
+		Location:	50.8563 5.82563
+
+	DDRI2LS3
+		Images:	7320
+		Time:	13.04.2024 11:54:01 until 13.04.2024 15:49:17
+		Duration:	03:55:16
+		Location:	50.8563 5.82563
+
+	DSJA2
+		Images:	22571
+		Time:	13.04.2024 12:06:50 until 13.04.2024 18:38:36
+		Duration:	06:31:46
+		Location:	50.8563 5.82563
+
+	DSJA2LS1
+		Images:	7689
+		Time:	13.04.2025 11:11:19 until 13.04.2025 18:39:00
+		Duration:	07:27:41
+		Location:	50.8563 5.82563
+
+	DSJA2LS2
+		Images:	5412
+		Time:	13.04.2024 11:14:06 until 13.04.2024 14:15:58
+		Duration:	03:01:52
+		Location:	50.8563 5.82563
+
+(8) - 74,0 km /150 ; 167km/250 - Camerig
+	CD1
+		Images:	18969
+		Time:	13.04.2024 09:56:31 until 13.04.2024 15:44:58
+		Duration:	05:48:27
+		Location:	50.76994 5.92600
+
+	CD1LS1
+		Images:	11650
+		Time:	12.04.2024 22:06:14 until 13.04.2024 15:33:59
+		Duration:	17:27:45
+		Location:	50.76994 5.92600
+
+	CD1LS2
+		Images:	12574
+		Time:	13.04.2024 09:34:09 until 13.04.2024 15:44:42
+		Duration:	06:10:33
+		Location:	50.76994 5.92600
+
+(9) - 74,5 km /150 ; 167,5km/250 - Camerig
+	YT1
+		Images:	18919
+		Time:	13.04.2024 09:15:25 until 13.04.2024 15:45:55
+		Duration:	06:30:30
+		Location:	50.77002 5.93033
+
+	YT1LS1
+		Images:	12126
+		Time:	13.04.2024 09:23:38 until 13.04.2024 14:56:47
+		Duration:	05:33:09
+		Location:	50.77002 5.93033
+
+	YT1LS2
+		Images:	9656
+		Time:	13.04.2024 09:18:20 until 13.04.2024 15:35:14
+		Duration:	06:16:54
+		Location:	50.77002 5.93033
+
+(10) - 83,0 km /240,83/200,106/125,83/100,54/60
+	EKR1
+		Images:	51829
+		Time:	13.04.2024 07:41:39 until 13.04.2024 18:43:32
+		Duration:	11:01:53
+		Location:	50.84476 5.89462
+
+	OP1
+		Images:	15389
+		Time:	13.04.2024 08:31:18 until 13.04.2024 18:44:53
+		Duration:	10:13:35
+		Location:	50.84476 5.89462
+
+	OP1LS1
+		Images:	14465
+		Time:	13.04.2024 08:31:21 until 13.04.2024 18:43:35
+		Duration:	10:12:14
+		Location:	50.84476 5.89462
+
+(11) - 84,0 km /240, 84/200, 129/150, 107/125, 84/100, 55/60
+	BAB1
+		Images:	34787
+		Time:	13.04.2024 08:54:29 until 13.04.2024 18:19:18
+		Duration:	09:24:49
+		Location:	50.84772 5.9007
+
+	BAB1LS1
+		Images:	16516
+		Time:	13.04.2024 08:26:02 until 13.04.2024 19:05:10
+		Duration:	10:39:08
+		Location:	50.84772 5.9007
+
+	BAB1LS2
+		Images:	16553
+		Time:	13.04.2024 08:24:31 until 13.04.2024 18:58:50
+		Duration:	10:34:19
+		Location:	50.84772 5.9007
+
+	PATL1
+		Images:	25936
+		Time:	13.04.2024 08:54:40 until 13.04.2024 18:24:07
+		Duration:	09:29:27
+		Location:	50.84772 5.9007
+
+(12) - 85,0 km /240,85/200,131/150,108/125,85/100,56/60
+	ACCA1
+		Images:	21560
+		Time:	13.04.2024 08:29:19 until 13.04.2024 18:54:30
+		Duration:	10:25:11
+		Location:	50.85391 5.88904
+
+	PBO1
+		Images:	21188
+		Time:	13.04.2024 05:26:20 until 13.04.2024 19:07:42
+		Duration:	13:41:22
+		Location:	50.85391 5.88904
+
+(13) - 86,0 km /240, 86/200, 132/150, 109/125, 86/100, 57/60
+	ANR1
+		Images:	41814
+		Time:	13.04.2024 08:29:50 until 13.04.2024 18:39:11
+		Duration:	10:09:21
+		Location:	50.85247 5.88602
+
+	NWO1
+		Images:	21923
+		Time:	13.04.2024 08:51:55 until 13.04.2024 18:16:38
+		Duration:	09:24:43
+		Location:	50.85247 5.88602
+
+	NWO1LS1
+		Images:	19734
+		Time:	13.04.2024 08:23:12 until 13.04.2024 18:17:47
+		Duration:	09:54:35
+		Location:	50.85247 5.88602
+
+	NWO1LS2
+		Images:	19594
+		Time:	13.04.2024 08:41:36 until 13.04.2024 18:21:03
+		Duration:	09:39:27
+		Location:	50.85247 5.88602
+
+(14) - Ceremony
+	MMARS2
+		Images:	462
+		Time:	13.04.2024 10:53:09 until 13.04.2024 15:52:34
+		Duration:	04:59:25
+		Location:	50.85907 5.79924
+
+(15) - Finish
+	MGAC1
+		Images:	30308
+		Time:	13.04.2024 09:25:57 until 13.04.2024 18:13:34
+		Duration:	08:47:37
+		Location:	50.85861 5.79775
+
+	MMARS3
+		Images:	9281
+		Time:	13.04.2024 15:58:29 until 13.04.2024 19:01:25
+		Duration:	03:02:56
+		Location:	50.85861 5.79775
+
+	MNKR1
+		Images:	25933
+		Time:	13.04.2024 09:20:26 until 13.04.2024 19:00:59
+		Duration:	09:40:33
+		Location:	50.85888 5.79569
+
+	MRKA1
+		Images:	11295
+		Time:	13.04.2024 05:11:58 until 13.04.2024 19:01:23
+		Duration:	13:49:25
+		Location:	50.85853 5.79787
+
+(16) - Herotent
+	MMARS1
+		Images:	353
+		Time:	13.04.2024 06:56:46 until 13.04.2024 09:55:54
+		Duration:	02:59:08
+		Location:	50.85881 5.79596
+
+(17) - Impressions / Pano
+	PANO1
+(18) - Start
+	MSTL1
+		Images:	12670
+		Time:	13.04.2024 06:16:56 until 13.04.2024 10:28:47
+		Duration:	04:11:51
+		Location:	50.86751 5.81924
+
+	MVL1
+		Images:	18129
+		Time:	13.04.2024 06:14:51 until 13.04.2024 10:29:57
+		Duration:	04:15:06
+		Location:	50.86751 5.81924
+

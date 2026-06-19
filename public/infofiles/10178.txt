@@ -1,0 +1,545 @@
+EventId: 10178
+Spots: 84
+Total Images: 231841
+Time:	01.01.0001 23:00:00 to 03.09.2023 17:05:23
+Duration: 738764.18:05:23
+
+(1) - 21.0 km
+	EP3
+		Images:	3625
+		Time:	01.09.2023 10:56:59 until 01.09.2023 15:58:25
+		Duration:	05:01:26
+		Location:	45.84638 7.03537
+
+(2) - CCC 20.5KM Rifugio Bonatti
+	JH1
+		Images:	6210
+		Time:	01.09.2023 08:05:47 until 01.09.2023 19:02:36
+		Duration:	10:56:49
+		Location:	45.84725 7.03190
+
+(3) - CCC 20KM Rifugio Bonatti
+	KAV1
+		Images:	5598
+		Time:	01.09.2023 10:56:12 until 01.09.2023 15:32:58
+		Duration:	04:36:46
+		Location:	45.84799 7.03112
+
+	KAV1LS1
+		Images:	1420
+		Time:	01.09.2023 10:59:33 until 01.09.2023 15:39:54
+		Duration:	04:40:21
+		Location:	45.84799 7.03112
+
+(4) - CCC 21.5KM Rifugio Bonatti
+	COR1
+		Images:	5682
+		Time:	01.09.2023 11:09:57 until 01.09.2023 15:57:03
+		Duration:	04:47:06
+		Location:	45.84958 7.03647
+
+	COR1DRONE1
+		Images:	42
+		Time:	01.01.0001 23:00:00 until 02.09.2023 08:14:34
+		Duration:	738763.09:14:34
+		Location:	45.84958 7.03647
+
+	COR1LS1
+		Images:	2949
+		Time:	01.09.2023 10:58:08 until 02.09.2023 07:53:33
+		Duration:	20:55:25
+		Location:	45.84982 7.03711
+
+(5) - CCC 26KM Arnouvaz
+	KD1
+		Images:	3959
+		Time:	01.09.2023 11:36:02 until 01.09.2023 16:58:17
+		Duration:	05:22:15
+		Location:	45.87413 7.05715
+
+	KD1LS1
+		Images:	2123
+		Time:	01.09.2023 11:18:28 until 01.09.2023 16:48:36
+		Duration:	05:30:08
+		Location:	45.87413 7.05715
+
+	MAWI1
+		Images:	4088
+		Time:	01.09.2023 11:42:58 until 01.09.2023 17:02:07
+		Duration:	05:19:09
+		Location:	45.87229 7.05238
+
+	MAWI1LS1
+		Images:	1155
+		Time:	01.09.2023 11:33:15 until 01.09.2023 16:49:51
+		Duration:	05:16:36
+		Location:	45.87229 7.05238
+
+(6) - CCC 29KM Rifugio Elena
+	TNR1
+		Images:	2314
+		Time:	01.09.2023 13:03:20 until 01.09.2023 18:05:41
+		Duration:	05:02:21
+		Location:	45.88364 7.07021
+
+	TNR1LS1
+		Images:	2893
+		Time:	01.09.2023 11:55:08 until 01.09.2023 15:00:37
+		Duration:	03:05:29
+		Location:	45.88410 7.06564
+
+	TNR1LS2
+		Images:	2888
+		Time:	31.12.2012 23:00:46 until 02.09.2023 12:09:48
+		Duration:	3896.13:09:02
+		Location:	45.88364 7.07021
+
+(7) - CCC 55KM Lac Champex
+	EB2
+		Images:	2693
+		Time:	01.09.2023 12:38:16 until 01.09.2023 23:39:30
+		Duration:	11:01:14
+		Location:	46.02915 7.11745
+
+	EB2LS1
+		Images:	2960
+		Time:	01.09.2023 12:18:11 until 01.09.2023 22:02:11
+		Duration:	09:44:00
+		Location:	46.02915 7.11745
+
+(8) - CCC 63.5KM Alpage Bovine
+	PKA1
+		Images:	764
+		Time:	01.09.2023 13:36:34 until 01.09.2023 20:40:49
+		Duration:	07:04:15
+		Location:	46.05582 7.05204
+
+(9) - CCC 64.5KM Alpage Bovine
+	MHO3
+		Images:	485
+		Time:	01.09.2023 14:35:32 until 01.09.2023 17:57:05
+		Duration:	03:21:33
+		Location:	46.05824 7.04712
+
+	MHO3LS1
+		Images:	198
+		Time:	01.09.2023 14:23:17 until 01.09.2023 17:35:53
+		Duration:	03:12:36
+		Location:	46.05824 7.04712
+
+(10) - CCC 64KM Alpage Bovine
+	ALL1
+		Images:	973
+		Time:	01.09.2023 14:26:45 until 01.09.2023 18:09:21
+		Duration:	03:42:36
+		Location:	46.05486 7.04766
+
+	ALL1LS1
+		Images:	285
+		Time:	01.09.2023 14:14:57 until 01.09.2023 18:17:15
+		Duration:	04:02:18
+		Location:	46.05486 7.04766
+
+(11) - CCC 66KM Alpage Bovine
+	ALL3
+		Images:	229
+		Time:	01.09.2023 19:06:28 until 01.09.2023 23:36:15
+		Duration:	04:29:47
+		Location:	46.05643 7.03144
+
+	ALL3LS1
+		Images:	2899
+		Time:	01.09.2023 19:14:33 until 02.09.2023 01:51:49
+		Duration:	06:37:16
+		Location:	46.05643 7.03144
+
+	MHO4
+		Images:	1541
+		Time:	01.09.2023 18:12:53 until 01.09.2023 23:56:57
+		Duration:	05:44:04
+		Location:	46.05643 7.03144
+
+	MHO4LS1
+		Images:	3181
+		Time:	01.09.2023 18:04:57 until 02.09.2023 02:53:47
+		Duration:	08:48:50
+		Location:	46.05643 7.03144
+
+(12) - CCC 93.2KM La Flagere
+	HS1
+		Images:	1388
+		Time:	01.09.2023 18:45:59 until 02.09.2023 10:28:41
+		Duration:	15:42:42
+		Location:	45.96274 6.88758
+
+	HS1LS1
+		Images:	672
+		Time:	01.09.2023 18:31:51 until 02.09.2023 13:08:10
+		Duration:	18:36:19
+		Location:	45.96274 6.88758
+
+(13) - CCC 93.4KM La Flagere
+	ROB1
+		Images:	2910
+		Time:	01.09.2023 17:36:17 until 02.09.2023 10:47:07
+		Duration:	17:10:50
+		Location:	45.96049 6.88347
+
+	ROB1LS1
+		Images:	1457
+		Time:	01.09.2023 21:46:03 until 02.09.2023 11:23:55
+		Duration:	13:37:52
+		Location:	45.96049 6.88347
+
+(14) - CCC 93KM La Flagere
+	RSJ1
+		Images:	999
+		Time:	01.09.2023 18:39:24 until 02.09.2023 19:23:09
+		Duration:	1.00:43:45
+		Location:	45.96355 6.88933
+
+	RSJ1LS1
+		Images:	2191
+		Time:	02.09.2023 00:18:34 until 02.09.2023 10:57:00
+		Duration:	10:38:26
+		Location:	45.96355 6.88933
+
+(15) - CCC Start
+	COR3
+		Images:	224
+		Time:	01.09.2023 07:01:46 until 01.09.2023 09:15:52
+		Duration:	02:14:06
+		Location:	45.79262 6.96910
+
+	KAV3
+		Images:	109
+		Time:	01.09.2023 08:26:04 until 01.09.2023 09:16:05
+		Duration:	00:50:01
+		Location:	45.79262 6.96910
+
+(16) - Finish
+	AZ1
+		Images:	7056
+		Time:	01.09.2023 19:12:55 until 02.09.2023 04:47:14
+		Duration:	09:34:19
+		Location:	45.92363 6.86902
+
+	AZ2
+		Images:	7195
+		Time:	02.09.2023 17:01:20 until 03.09.2023 05:08:32
+		Duration:	12:07:12
+		Location:	45.92363 6.86902
+
+	DR1
+		Images:	71
+		Time:	01.09.2023 11:17:25 until 01.09.2023 11:44:07
+		Duration:	00:26:42
+		Location:	45.92363 6.86902
+
+	DR3
+		Images:	6287
+		Time:	02.09.2023 05:02:33 until 02.09.2023 12:14:31
+		Duration:	07:11:58
+		Location:	45.92363 6.86902
+
+	DR4
+		Images:	9605
+		Time:	02.09.2023 13:15:17 until 03.09.2023 17:05:23
+		Duration:	1.03:50:06
+		Location:	45.92363 6.86902
+
+	EP1
+		Images:	5214
+		Time:	02.09.2023 05:13:02 until 02.09.2023 12:27:30
+		Duration:	07:14:28
+		Location:	45.92363 6.86902
+
+	EP2
+		Images:	5828
+		Time:	02.09.2023 12:55:18 until 03.09.2023 16:33:02
+		Duration:	1.03:37:44
+		Location:	45.92363 6.86902
+
+	MAX2
+		Images:	8197
+		Time:	01.01.0001 23:00:00 until 02.09.2023 05:10:11
+		Duration:	738763.06:10:11
+		Location:	45.92363 6.86902
+
+	MAX3
+		Images:	6356
+		Time:	02.09.2023 17:43:47 until 03.09.2023 05:08:32
+		Duration:	11:24:45
+		Location:	45.92363 6.86902
+
+(17) - Impressions / Pano
+	EP2IMP1
+		Images:	171
+		Time:	03.09.2023 13:04:06 until 03.09.2023 13:39:55
+		Duration:	00:35:49
+		Location:	45.92363 6.86902
+
+	PANO1
+		Images:	5
+		Time:	01.09.2023 17:55:04 until 02.09.2023 18:26:58
+		Duration:	1.00:31:54
+		Location:	NULL NULL
+
+(18) - PTL 12KM Gare des Glaciers
+	CHR2
+		Images:	1451
+		Time:	28.08.2023 11:01:32 until 29.08.2023 07:35:16
+		Duration:	20:33:44
+		Location:	45.88996 6.87156
+
+(19) - PTL 30KM Before Bellevue
+	EB1
+		Images:	245
+		Time:	28.08.2023 14:01:30 until 28.08.2023 16:53:12
+		Duration:	02:51:42
+		Location:	45.87279 6.79028
+
+	EB1LS1
+		Images:	164
+		Time:	28.08.2023 13:47:51 until 28.08.2023 16:46:05
+		Duration:	02:58:14
+		Location:	45.87279 6.79028
+
+(20) - PTL 9KM Lac Bleu
+	MHO2
+		Images:	1120
+		Time:	28.08.2023 10:01:45 until 28.08.2023 12:51:06
+		Duration:	02:49:21
+		Location:	45.90085 6.89058
+
+(21) - PTL Start
+	CHR1
+		Images:	191
+		Time:	28.08.2023 07:53:24 until 28.08.2023 08:02:08
+		Duration:	00:08:44
+		Location:	45.92364 6.86892
+
+	MHO1
+		Images:	70
+		Time:	28.08.2023 07:53:22 until 28.08.2023 08:01:56
+		Duration:	00:08:34
+		Location:	45.92364 6.86892
+
+(22) - Start
+	AZ3
+		Images:	1070
+		Time:	01.09.2023 16:31:38 until 01.09.2023 18:04:03
+		Duration:	01:32:25
+		Location:	45.92363 6.86902
+
+	DR2
+		Images:	715
+		Time:	01.09.2023 16:34:38 until 02.09.2023 13:13:13
+		Duration:	20:38:35
+		Location:	45.92363 6.86902
+
+	MAX1
+		Images:	813
+		Time:	01.01.0001 23:00:00 until 01.09.2023 18:04:09
+		Duration:	738762.19:04:09
+		Location:	45.92363 6.86902
+
+(23) - UTMB 101KM Rifugio Elena
+	TNR2
+		Images:	2738
+		Time:	02.09.2023 07:02:32 until 02.09.2023 19:45:07
+		Duration:	12:42:35
+		Location:	45.88364 7.07021
+
+	TNR2LS1
+		Images:	3609
+		Time:	02.09.2023 07:48:12 until 02.09.2023 19:51:58
+		Duration:	12:03:46
+		Location:	45.88498 7.06732
+
+	TNR2LS2
+		Images:	2819
+		Time:	02.09.2023 12:10:38 until 03.09.2023 11:16:43
+		Duration:	23:06:05
+		Location:	45.88364 7.07021
+
+(24) - UTMB 137KM Alpage Bovine
+	ALL2
+		Images:	2494
+		Time:	02.09.2023 10:18:23 until 02.09.2023 19:40:51
+		Duration:	09:22:28
+		Location:	46.05486 7.04766
+
+	ALL2LS1
+		Images:	3238
+		Time:	02.09.2023 10:05:07 until 02.09.2023 18:54:35
+		Duration:	08:49:28
+		Location:	46.05486 7.04766
+
+	MHO5
+		Images:	1428
+		Time:	02.09.2023 10:05:34 until 02.09.2023 19:50:44
+		Duration:	09:45:10
+		Location:	46.05565 7.04851
+
+	PKA2
+		Images:	812
+		Time:	02.09.2023 09:41:23 until 03.09.2023 06:13:39
+		Duration:	20:32:16
+		Location:	46.05582 7.05204
+
+(25) - UTMB 137KM Lac Champex
+	EB3
+		Images:	3145
+		Time:	02.09.2023 08:05:00 until 03.09.2023 02:52:12
+		Duration:	18:47:12
+		Location:	46.02915 7.11745
+
+	EB3LS1
+		Images:	687
+		Time:	02.09.2023 07:16:46 until 02.09.2023 20:02:55
+		Duration:	12:46:09
+		Location:	46.02915 7.11745
+
+(26) - UTMB 144KM Trient Church
+	MHO6
+		Images:	409
+		Time:	02.09.2023 22:47:15 until 03.09.2023 06:07:17
+		Duration:	07:20:02
+		Location:	46.05620 6.99238
+
+	MHO6LS1
+		Images:	5205
+		Time:	02.09.2023 21:16:54 until 03.09.2023 08:08:13
+		Duration:	10:51:19
+		Location:	46.05620 6.99238
+
+	PKA3
+		Images:	346
+		Time:	03.09.2023 06:17:18 until 03.09.2023 07:59:21
+		Duration:	01:42:03
+		Location:	46.05620 6.99238
+
+(27) - UTMB 165.5KM La Flagere
+	RSJ2
+		Images:	4558
+		Time:	02.09.2023 19:23:09 until 03.09.2023 14:46:05
+		Duration:	19:22:56
+		Location:	45.96355 6.88933
+
+	RSJ2LS1
+		Images:	2785
+		Time:	02.09.2023 15:39:13 until 03.09.2023 14:53:09
+		Duration:	23:13:56
+		Location:	45.96355 6.88933
+
+(28) - UTMB 165.7KM La Flagere
+	HS2
+		Images:	1712
+		Time:	02.09.2023 13:13:37 until 03.09.2023 14:21:12
+		Duration:	1.01:07:35
+		Location:	45.96274 6.88758
+
+	HS2LS1
+		Images:	3296
+		Time:	31.12.2012 23:03:33 until 03.09.2023 14:44:26
+		Duration:	3897.15:40:53
+		Location:	45.96274 6.88758
+
+(29) - UTMB 166KM La Flagere
+	ROB2
+		Images:	5318
+		Time:	02.09.2023 13:02:59 until 03.09.2023 14:35:33
+		Duration:	1.01:32:34
+		Location:	45.96049 6.88347
+
+	ROB2LS1
+		Images:	1255
+		Time:	02.09.2023 16:40:19 until 03.09.2023 14:33:08
+		Duration:	21:52:49
+		Location:	45.96049 6.88347
+
+(30) - UTMB 93.5KM Rifugio Bonatti
+	JH2
+		Images:	6409
+		Time:	02.09.2023 05:43:37 until 02.09.2023 18:04:09
+		Duration:	12:20:32
+		Location:	45.84725 7.03190
+
+	JH2LS1
+		Images:	3877
+		Time:	02.09.2023 05:57:49 until 02.09.2023 16:50:55
+		Duration:	10:53:06
+		Location:	45.84725 7.03190
+
+(31) - UTMB 93KM Rifugio Bonatti
+	KAV2
+		Images:	5386
+		Time:	02.09.2023 05:57:47 until 02.09.2023 18:03:20
+		Duration:	12:05:33
+		Location:	45.84799 7.03112
+
+	KAV2LS1
+		Images:	2162
+		Time:	01.01.0001 23:00:00 until 02.09.2023 17:32:18
+		Duration:	738763.18:32:18
+		Location:	45.84799 7.03112
+
+(32) - UTMB 94.5KM Rifugio Bonatti
+	CHR3LS1
+		Images:	3114
+		Time:	31.08.2023 22:40:37 until 02.09.2023 22:05:13
+		Duration:	1.23:24:36
+		Location:	45.84982 7.03711
+
+	COR2
+		Images:	6719
+		Time:	02.09.2023 06:05:28 until 02.09.2023 18:04:06
+		Duration:	11:58:38
+		Location:	45.84958 7.03647
+
+	COR2LS1
+		Images:	4209
+		Time:	02.09.2023 07:54:45 until 02.09.2023 14:53:54
+		Duration:	06:59:09
+		Location:	45.84982 7.03711
+
+(33) - UTMB 95.5KM Rifugio Bonatti
+	CHR3
+		Images:	6790
+		Time:	02.09.2023 06:36:48 until 02.09.2023 17:35:34
+		Duration:	10:58:46
+		Location:	45.85489 7.03926
+
+(34) - UTMB 99.3KM Arnouvaz
+	MAWI2
+		Images:	3014
+		Time:	02.09.2023 07:58:40 until 02.09.2023 18:28:46
+		Duration:	10:30:06
+		Location:	45.87229 7.05238
+
+	MAWI2LS1
+		Images:	1395
+		Time:	02.09.2023 07:11:20 until 02.09.2023 18:44:16
+		Duration:	11:32:56
+		Location:	45.87229 7.05238
+
+	MAWI2LS2
+		Images:	2263
+		Time:	02.09.2023 07:45:04 until 02.09.2023 17:20:10
+		Duration:	09:35:06
+		Location:	45.87229 7.05238
+
+(35) - UTMB 99.5KM Arnouvaz
+	KD2
+		Images:	3860
+		Time:	02.09.2023 07:18:25 until 02.09.2023 18:43:34
+		Duration:	11:25:09
+		Location:	45.87413 7.05715
+
+	KD2LS1
+		Images:	3861
+		Time:	02.09.2023 07:06:13 until 02.09.2023 18:49:18
+		Duration:	11:43:05
+		Location:	45.87413 7.05715
+

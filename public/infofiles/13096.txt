@@ -1,0 +1,304 @@
+EventId: 13096
+Spots: 45
+Total Images: 376024
+Time:	13.03.2024 18:56:06 to 05.05.2024 15:58:19
+Duration: 52.21:02:13
+
+(1) - 0.0 km 855867 FIN Toby Cheung
+	TOBY1
+		Images:	14887
+		Time:	05.05.2024 07:32:02 until 05.05.2024 11:30:49
+		Duration:	03:58:47
+		Location:	NULL NULL
+
+(2) - 0.0 km 855868 FIN Michael Kelly
+	AMK1
+		Images:	6104
+		Time:	05.05.2024 04:22:52 until 05.05.2024 09:01:40
+		Duration:	04:38:48
+		Location:	NULL NULL
+
+(3) - 0.0 km 855869 FIN  Zach Bender
+	ZACHB2
+		Images:	9537
+		Time:	05.05.2024 08:32:31 until 05.05.2024 15:58:19
+		Duration:	07:25:48
+		Location:	NULL NULL
+
+(4) - 0.0 km 855869 FIN Zach Bender
+	ZACH2
+(5) - 0.0 km 855870 FIN Ryan Williams
+	RYAN2
+		Images:	27984
+		Time:	05.05.2024 07:26:10 until 05.05.2024 12:35:36
+		Duration:	05:09:26
+		Location:	NULL NULL
+
+(6) - 0.0 km 855880 MSC 1 Phillip Reyes
+	REYES1
+		Images:	6277
+		Time:	05.05.2024 03:41:33 until 05.05.2024 04:43:50
+		Duration:	01:02:17
+		Location:	NULL NULL
+
+(7) - 0.0 km 855881 MSC 1 Eric Andrews
+	ERICA1
+		Images:	3436
+		Time:	05.05.2024 06:47:55 until 05.05.2024 07:48:41
+		Duration:	01:00:46
+		Location:	NULL NULL
+
+(8) - 0.0 km 855882 MSC 2 Zach Bender
+	ZACH1
+	ZACHB1
+		Images:	2349
+		Time:	05.05.2024 06:42:34 until 05.05.2024 07:50:45
+		Duration:	01:08:11
+		Location:	NULL NULL
+
+(9) - 0.0 km 855883 MSC 2 Mark Evard
+	MARK1
+		Images:	10439
+		Time:	05.05.2024 06:46:35 until 05.05.2024 07:54:07
+		Duration:	01:07:32
+		Location:	NULL NULL
+
+(10) - 0.0 km 855884 MSC 2 Ryan Williams
+	RYAN1
+		Images:	7688
+		Time:	05.05.2024 05:48:27 until 05.05.2024 06:55:31
+		Duration:	01:07:04
+		Location:	NULL NULL
+
+(11) - 0.0 km 855885 MSC 3 Brian Spurlock
+	BRIAN1
+		Images:	12620
+		Time:	05.05.2024 05:55:57 until 05.05.2024 07:31:30
+		Duration:	01:35:33
+		Location:	NULL NULL
+
+(12) - 0.0 km 855886 MSC 3 Paul Sisk
+	PSISK1
+		Images:	211
+		Time:	05.05.2024 07:18:49 until 05.05.2024 07:29:32
+		Duration:	00:10:43
+		Location:	NULL NULL
+
+(13) - 0.0 km 855887 MSC 3 Justin Kovach
+	JUSTI1
+		Images:	9759
+		Time:	05.05.2024 05:53:22 until 05.05.2024 07:27:50
+		Duration:	01:34:28
+		Location:	NULL NULL
+
+(14) - 0.0 km 855889 MSC 4 Kosaruba
+	KOSAR1
+		Images:	4564
+		Time:	05.05.2024 06:04:08 until 05.05.2024 07:36:41
+		Duration:	01:32:33
+		Location:	NULL NULL
+
+(15) - 0.0 km 855891 PreFIN Desmond Tan
+	DTAN2
+		Images:	20288
+		Time:	05.05.2024 07:41:37 until 05.05.2024 14:24:23
+		Duration:	06:42:46
+		Location:	NULL NULL
+
+(16) - 0.0 km 855892 PreFIN Clark Zarifis
+	CLARK1
+		Images:	15852
+		Time:	05.05.2024 06:36:09 until 05.05.2024 12:16:46
+		Duration:	05:40:37
+		Location:	NULL NULL
+
+(17) - 0.0 km 855893 PreFIN Phillip Reyes
+	REYES2
+		Images:	11701
+		Time:	05.05.2024 05:18:27 until 05.05.2024 10:06:11
+		Duration:	04:47:44
+		Location:	NULL NULL
+
+(18) - 0.0 km 855894 PreFIN Eric Andrews
+	ERICA2
+		Images:	8377
+		Time:	05.05.2024 08:21:43 until 05.05.2024 13:21:23
+		Duration:	04:59:40
+		Location:	NULL NULL
+
+(19) - 0.0 km 855895 PreFIN Mark Evard
+	MARK2
+		Images:	18912
+		Time:	05.05.2024 08:52:14 until 05.05.2024 13:10:14
+		Duration:	04:18:00
+		Location:	NULL NULL
+
+(20) - 0.0 km 855898 Medals Kelvin Yeoh
+	KELVI1
+		Images:	2915
+		Time:	05.05.2024 07:40:54 until 05.05.2024 12:25:46
+		Duration:	04:44:52
+		Location:	NULL NULL
+
+(21) - 0.0 km 855899 Medals Kaylynn Workman
+	KAYLY1
+		Images:	2019
+		Time:	05.05.2024 07:46:54 until 05.05.2024 12:10:14
+		Duration:	04:23:20
+		Location:	NULL NULL
+
+(22) - 0.0 km 855900 Medals Josie Wright
+	JOSIE1
+		Images:	617
+		Time:	04.05.2024 19:11:26 until 04.05.2024 23:35:40
+		Duration:	04:24:14
+		Location:	NULL NULL
+
+(23) - 0.0 km 855901  Medals Jeremy Long
+	JLONG1
+		Images:	1561
+		Time:	05.05.2024 07:15:25 until 05.05.2024 13:16:54
+		Duration:	06:01:29
+		Location:	NULL NULL
+
+(24) - 0.0 km 855901 Leo K
+	LEOK1
+		Images:	7640
+		Time:	05.05.2024 09:03:38 until 05.05.2024 13:49:34
+		Duration:	04:45:56
+		Location:	NULL NULL
+
+(25) - 0.0 km 855902 OFP Teresa Ripley
+	RIPLE1
+		Images:	949
+		Time:	04.05.2024 19:49:34 until 05.05.2024 00:16:41
+		Duration:	04:27:07
+		Location:	NULL NULL
+
+(26) - 0.0 km 855903 ofp Djuan Capell
+	DJUAN1
+		Images:	1617
+		Time:	04.05.2024 18:49:55 until 05.05.2024 01:09:31
+		Duration:	06:19:36
+		Location:	NULL NULL
+
+(27) - 0.0 km 855904 OFP Kerri Riley
+	KERRI1
+		Images:	568
+		Time:	05.05.2024 07:16:36 until 05.05.2024 12:39:23
+		Duration:	05:22:47
+		Location:	NULL NULL
+
+(28) - 0.0 km 855905 OFP Ken Pease
+	KPEAS1
+		Images:	1403
+		Time:	05.05.2024 05:48:47 until 05.05.2024 10:15:40
+		Duration:	04:26:53
+		Location:	NULL NULL
+
+(29) - 0.0 km 855907 MSC 5Leo K
+	LEOK2
+		Images:	5179
+		Time:	05.05.2024 07:09:29 until 05.05.2024 08:30:44
+		Duration:	01:21:15
+		Location:	NULL NULL
+
+(30) - 0.0 km 855908 msc 5 Brett Wilson
+	BRETT2
+		Images:	7444
+		Time:	05.05.2024 05:39:06 until 05.05.2024 08:31:55
+		Duration:	02:52:49
+		Location:	NULL NULL
+
+(31) - 0.0 km 855913 MSC 8 Jeff Ring
+	JRING1
+		Images:	17323
+		Time:	05.05.2024 06:05:50 until 05.05.2024 13:18:41
+		Duration:	07:12:51
+		Location:	NULL NULL
+
+(32) - 0.0 km 855915 MSC 8 Brian Spurlock
+	BRIAN2
+		Images:	15594
+		Time:	05.05.2024 08:46:40 until 05.05.2024 12:33:35
+		Duration:	03:46:55
+		Location:	NULL NULL
+
+(33) - 0.0 km 855916 Jackson LaCroix
+	JLACR1
+		Images:	6551
+		Time:	05.05.2024 07:00:22 until 05.05.2024 11:42:21
+		Duration:	04:41:59
+		Location:	NULL NULL
+
+(34) - 0.0 km 855917 MSC 8 Justin Kovach
+	JUSTI2
+		Images:	17059
+		Time:	05.05.2024 08:25:49 until 05.05.2024 12:24:14
+		Duration:	03:58:25
+		Location:	NULL NULL
+
+(35) - 0.0 km Brett 2nd
+	BRETT1
+		Images:	12398
+		Time:	05.05.2024 09:06:44 until 05.05.2024 13:47:00
+		Duration:	04:40:16
+		Location:	NULL NULL
+
+(36) - 0.0 km FIN-trigger -HALF
+	AUTO1
+		Images:	10740
+		Time:	05.05.2024 07:40:42 until 05.05.2024 11:22:58
+		Duration:	03:42:16
+		Location:	NULL NULL
+
+(37) - 0.0 km MSC 3 trigger
+	AUTO3
+		Images:	5012
+		Time:	05.05.2024 06:43:21 until 05.05.2024 08:32:36
+		Duration:	01:49:15
+		Location:	NULL NULL
+
+(38) - 0.0 km MSC 6 Trigger
+	AUTO5
+		Images:	5343
+		Time:	13.03.2024 18:56:06 until 13.03.2024 22:07:35
+		Duration:	03:11:29
+		Location:	NULL NULL
+
+(39) - 0.0 km MSC 8 trigger
+	AUTO4
+		Images:	22565
+		Time:	05.05.2024 06:03:41 until 05.05.2024 13:08:31
+		Duration:	07:04:50
+		Location:	NULL NULL
+
+(40) - 0.0 km PreFIN trigger-HALF
+	AUTO2
+		Images:	13116
+		Time:	05.05.2024 06:40:52 until 05.05.2024 11:36:01
+		Duration:	04:55:09
+		Location:	NULL NULL
+
+(41) - 0.0 km Start 855874 Desmond Tan
+	DTAN1
+		Images:	2019
+		Time:	05.05.2024 06:16:06 until 05.05.2024 07:00:14
+		Duration:	00:44:08
+		Location:	NULL NULL
+
+(42) - Impressions / Pano
+	PANO1
+(43) - none
+	ANDYW1
+		Images:	9403
+		Time:	05.05.2024 09:27:33 until 05.05.2024 13:47:00
+		Duration:	04:19:27
+		Location:	NULL NULL
+
+	GARYB1
+		Images:	16004
+		Time:	05.05.2024 06:37:57 until 05.05.2024 08:41:19
+		Duration:	02:03:22
+		Location:	NULL NULL
+

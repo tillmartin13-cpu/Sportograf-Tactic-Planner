@@ -1,0 +1,68 @@
+EventId: 14099
+Spots: 9
+Total Images: 12589
+Time:	08.08.2025 11:06:56 to 10.08.2025 07:15:29
+Duration: 1.20:08:33
+
+(1) - Start
+	JHI1
+		Images:	33
+		Time:	09.08.2025 09:54:16 until 09.08.2025 10:00:11
+		Duration:	00:05:55
+		Location:	-33.29399 23.48735
+
+(2) - 7 KM - Private Gave Reserve
+	TAZ1
+		Images:	1783
+		Time:	09.08.2025 10:09:03 until 09.08.2025 10:35:01
+		Duration:	00:25:58
+		Location:	-33.33694 23.50159
+
+(3) - 7 KM - Gravel Road Entry
+	JHI2
+		Images:	1254
+		Time:	09.08.2025 10:16:48 until 09.08.2025 10:39:37
+		Duration:	00:22:49
+		Location:	-33.33834 23.50273
+
+(4) - Multiple Distances - Along the Baviaans Kloof Road
+	TAZ2
+		Images:	1340
+		Time:	09.08.2025 10:42:19 until 09.08.2025 12:17:22
+		Duration:	01:35:03
+		Location:	-33.52074 23.71196
+
+(5) - 78 KM - Baviaans Kloof Rod
+	TAZ3
+		Images:	2859
+		Time:	09.08.2025 12:32:18 until 09.08.2025 15:04:24
+		Duration:	02:32:06
+		Location:	-33.55023 24.01053
+
+(6) - 78 KM - Water Crossing
+	JHI3
+		Images:	3501
+		Time:	09.08.2025 12:26:27 until 09.08.2025 15:04:54
+		Duration:	02:38:27
+		Location:	-33.55079 24.01252
+
+(7) - Finish
+	LDR1
+		Images:	1252
+		Time:	09.08.2025 16:11:07 until 10.08.2025 07:15:29
+		Duration:	15:04:22
+		Location:	-34.01655 24.88875
+
+	JHI4
+		Images:	455
+		Time:	09.08.2025 22:28:33 until 10.08.2025 07:15:27
+		Duration:	08:46:54
+		Location:	-34.01655 24.88875
+
+(8) - Impressions / Pano
+	PANO1
+		Images:	112
+		Time:	08.08.2025 11:06:56 until 09.08.2025 09:51:22
+		Duration:	22:44:26
+		Location:	NULL NULL
+

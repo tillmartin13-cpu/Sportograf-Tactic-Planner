@@ -1,0 +1,76 @@
+EventId: 13154
+Spots: 10
+Total Images: 90935
+Time:	17.05.2024 12:11:35 to 18.05.2024 15:05:44
+Duration: 1.02:54:09
+
+(1) - 0.0  Antonio Cadena 855672 Finish
+	ACAD1
+		Images:	7928
+		Time:	18.05.2024 08:47:34 until 18.05.2024 13:52:42
+		Duration:	05:05:08
+		Location:	NULL NULL
+
+(2) - 0.0  Connor Bobbitt 855673 Finish
+	CBOB1
+		Images:	7437
+		Time:	17.05.2024 12:11:35 until 17.05.2024 16:19:20
+		Duration:	04:07:45
+		Location:	NULL NULL
+
+(3) - 0.0  Erik Larson 855680 MSC5
+	ELAR1
+		Images:	9239
+		Time:	17.05.2024 19:25:33 until 18.05.2024 00:57:19
+		Duration:	05:31:46
+		Location:	NULL NULL
+
+(4) - 0.0  Guy Higgens 855675 Finish
+	GUYH1
+		Images:	8714
+		Time:	18.05.2024 10:04:49 until 18.05.2024 13:51:53
+		Duration:	03:47:04
+		Location:	NULL NULL
+
+(5) - 0.0  Isabelle McJunkin 855669 MSC2
+	ISAM1
+		Images:	3763
+		Time:	18.05.2024 06:17:33 until 18.05.2024 09:16:40
+		Duration:	02:59:07
+		Location:	NULL NULL
+
+(6) - 0.0  Noah Cahoon 855678 MSC4
+	NCAH1
+		Images:	7750
+		Time:	18.05.2024 06:19:21 until 18.05.2024 11:45:55
+		Duration:	05:26:34
+		Location:	NULL NULL
+
+(7) - 0.0  Trigger1 855674 Finish
+	TRIGG1
+		Images:	21884
+		Time:	18.05.2024 03:45:07 until 18.05.2024 15:05:44
+		Duration:	11:20:37
+		Location:	NULL NULL
+
+(8) - 0.0  Trigger3 855681 MSC5
+	TRIG1
+		Images:	18463
+		Time:	18.05.2024 08:37:40 until 18.05.2024 13:59:07
+		Duration:	05:21:27
+		Location:	NULL NULL
+
+(9) - 0.0 km Joshua Gulizia 855668 MSC2
+	JGUL1
+		Images:	5312
+		Time:	18.05.2024 07:18:11 until 18.05.2024 09:56:52
+		Duration:	02:38:41
+		Location:	NULL NULL
+
+(10) - 0.0 km Nigel May 855685 PR
+	NMAY1
+		Images:	445
+		Time:	18.05.2024 07:05:29 until 18.05.2024 13:55:59
+		Duration:	06:50:30
+		Location:	NULL NULL
+

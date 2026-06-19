@@ -1,0 +1,1496 @@
+EventId: 13379
+Spots: 224
+Total Images: 2607203
+Time:	01.01.0001 23:00:00 to 03.11.2043 18:30:32
+Duration: 746130.19:30:32
+
+(1) - 0,0 km abdo sharhan, 858489
+	EABDO1
+		Images:	4120
+		Time:	03.11.2024 16:47:40 until 03.11.2024 17:37:42
+		Duration:	00:50:02
+		Location:	NULL NULL
+
+(2) - 0,0 km darren keplez 858428, pre finish
+	EDAR1
+		Images:	13232
+		Time:	03.11.2024 13:23:57 until 03.11.2024 18:03:08
+		Duration:	04:39:11
+		Location:	NULL NULL
+
+(3) - 0,0 km finish trigger left
+	EFIN1
+		Images:	23132
+		Time:	03.11.2024 11:34:15 until 03.11.2024 19:41:42
+		Duration:	08:07:27
+		Location:	NULL NULL
+
+(4) - 0,0 km jim dee 858461 msc 9
+	EAAK1
+		Images:	42202
+		Time:	03.11.2024 10:46:48 until 03.11.2024 18:17:39
+		Duration:	07:30:51
+		Location:	NULL NULL
+
+(5) - 0,0 km Joseph Rich 858470 MSC3
+	EAAG1
+		Images:	30199
+		Time:	03.11.2024 08:14:27 until 03.11.2024 14:23:27
+		Duration:	06:09:00
+		Location:	NULL NULL
+
+(6) - 0,0 km jroberts 858444 msc 7
+	EAAE1
+		Images:	29910
+		Time:	03.11.2024 09:23:23 until 03.11.2024 15:43:30
+		Duration:	06:20:07
+		Location:	NULL NULL
+
+(7) - 0,0 km julio mora, 858490, finish upshot
+	EJULI1
+		Images:	6432
+		Time:	03.11.2024 15:12:09 until 03.11.2024 18:17:33
+		Duration:	03:05:24
+		Location:	NULL NULL
+
+(8) - 0,0 km robert hesse, 858425, pre finish
+	EROB1
+		Images:	4353
+		Time:	03.11.2024 16:19:39 until 03.11.2024 19:47:26
+		Duration:	03:27:47
+		Location:	NULL NULL
+
+(9) - 0,0 km tom mendenhall 858445 msc 7
+	EAAF1
+		Images:	30467
+		Time:	03.11.2024 09:23:56 until 03.11.2024 16:31:15
+		Duration:	07:07:19
+		Location:	NULL NULL
+
+(10) - 0,0 km trent wellot, 858424, pre finish
+	ETREN1
+		Images:	19296
+		Time:	03.11.2024 14:08:22 until 03.11.2024 19:38:36
+		Duration:	05:30:14
+		Location:	NULL NULL
+
+(11) - 0,0 km Trigger Five 858473 MSC3
+	EAAI1
+		Images:	22510
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(12) - 0,0 km Trigger Four 858443 MSC8
+	EAAJ1
+		Images:	19858
+		Time:	03.11.2024 08:22:07 until 03.11.2024 15:30:05
+		Duration:	07:07:58
+		Location:	NULL NULL
+
+(13) - 0,0 km Trigger Four 858472 MSC3
+	EAAH1
+		Images:	20094
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(14) - 0.0 km 858401 MEGYN PRE RACE CANDIDS
+	CAAB1
+		Images:	1870
+		Time:	03.11.2024 07:02:00 until 03.11.2024 10:30:26
+		Duration:	03:28:26
+		Location:	NULL NULL
+
+(15) - 0.0 km 858402 PRE RACE JHNAYAH
+	CAAD1
+		Images:	327
+		Time:	03.11.2024 07:36:02 until 03.11.2024 11:33:38
+		Duration:	03:57:36
+		Location:	NULL NULL
+
+(16) - 0.0 km 858403 PRE RACE JORDAN
+	CAAE1
+		Images:	536
+		Time:	03.11.2024 07:59:13 until 03.11.2024 11:53:54
+		Duration:	03:54:41
+		Location:	NULL NULL
+
+(17) - 0.0 km 858405 pre race Olgg
+	CAAH1
+		Images:	622
+		Time:	03.11.2024 08:54:05 until 03.11.2024 12:31:52
+		Duration:	03:37:47
+		Location:	NULL NULL
+
+(18) - 0.0 km 858406 PRE RACE RYAN
+	CAAG1
+		Images:	250
+		Time:	03.11.2024 06:30:20 until 03.11.2024 10:30:30
+		Duration:	04:00:10
+		Location:	NULL NULL
+
+(19) - 0.0 km 858408 LUCIE PRE RACE CANDIDS
+	CAAC1
+		Images:	379
+		Time:	03.11.2024 06:56:51 until 03.11.2024 10:31:17
+		Duration:	03:34:26
+		Location:	NULL NULL
+
+(20) - 0.0 km 858409 pre race Islam
+	CAAI1
+		Images:	363
+		Time:	03.11.2024 06:42:08 until 03.11.2024 10:14:41
+		Duration:	03:32:33
+		Location:	NULL NULL
+
+(21) - 0.0 km 858410 PRE RACE ALEKSANRDA
+	CAAF1
+		Images:	723
+		Time:	03.11.2024 07:42:26 until 03.11.2024 11:30:47
+		Duration:	03:48:21
+		Location:	NULL NULL
+
+(22) - 0.0 km 858426 pre fin Georg Dostmann
+	CAAN1
+		Images:	26343
+		Time:	03.11.2024 10:43:54 until 03.11.2024 13:56:02
+		Duration:	03:12:08
+		Location:	NULL NULL
+
+(23) - 0.0 km 858484 MEGYN START
+	CAAA1
+		Images:	109
+		Time:	03.11.2024 07:49:06 until 03.11.2024 08:15:04
+		Duration:	00:25:58
+		Location:	NULL NULL
+
+(24) - 0.0 km ABDO 858489
+	BAAH1
+		Images:	30567
+		Time:	03.11.2024 11:43:15 until 03.11.2024 14:49:00
+		Duration:	03:05:45
+		Location:	NULL NULL
+
+(25) - 0.0 km ABDO 858489 FINISH
+	BABD1
+		Images:	4637
+		Time:	03.11.2024 17:38:57 until 03.11.2024 19:21:07
+		Duration:	01:42:10
+		Location:	NULL NULL
+
+	BABE1
+		Images:	14872
+		Time:	03.11.2024 14:50:04 until 03.11.2024 17:38:03
+		Duration:	02:47:59
+		Location:	NULL NULL
+
+(26) - 0.0 km Adam Zeliger 858506 MSC13
+	AABB1
+		Images:	12814
+		Time:	27.10.2024 09:35:38 until 03.11.2024 18:39:54
+		Duration:	7.09:04:16
+		Location:	NULL NULL
+
+(27) - 0.0 km ADLER 858434 MSC 11
+	CABA1
+		Images:	10342
+		Time:	03.11.2024 12:55:13 until 03.11.2024 15:33:29
+		Duration:	02:38:16
+		Location:	NULL NULL
+
+	CABB1
+		Images:	3589
+		Time:	03.11.2024 15:33:32 until 03.11.2024 17:53:49
+		Duration:	02:20:17
+		Location:	NULL NULL
+
+(28) - 0.0 km ADLER 858435 PRE FIN
+	BAAF1
+		Images:	9729
+		Time:	03.11.2024 10:12:13 until 03.11.2024 12:53:32
+		Duration:	02:41:19
+		Location:	NULL NULL
+
+(29) - 0.0 km ALANNA 858382 MEDALS
+	HAAI1
+		Images:	1710
+		Time:	03.11.2024 10:51:53 until 03.11.2024 17:24:07
+		Duration:	06:32:14
+		Location:	NULL NULL
+
+(30) - 0.0 km ALEX R 858502 MSC 11
+	CABH1
+		Images:	5522
+		Time:	03.11.2024 13:56:59 until 03.11.2024 17:41:26
+		Duration:	03:44:27
+		Location:	NULL NULL
+
+	CABI1
+		Images:	2654
+		Time:	03.11.2024 15:17:29 until 03.11.2024 16:08:47
+		Duration:	00:51:18
+		Location:	NULL NULL
+
+(31) - 0.0 km Alexander Krivenzshev 858440 MSC8
+	FAAK1
+		Images:	21424
+		Time:	03.11.2024 08:42:50 until 03.11.2024 17:17:31
+		Duration:	08:34:41
+		Location:	NULL NULL
+
+(32) - 0.0 km Asher Dorlester 858471 MSC3
+	AAAR1
+		Images:	14048
+		Time:	03.11.2024 08:05:24 until 03.11.2024 14:20:53
+		Duration:	06:15:29
+		Location:	NULL NULL
+
+(33) - 0.0 km bene pr
+	AAAD1
+		Images:	8325
+		Time:	02.11.2024 08:18:16 until 03.11.2024 14:03:04
+		Duration:	1.05:44:48
+		Location:	NULL NULL
+
+(34) - 0.0 km BOB FINA 85800 MSC 12
+	BAAW1
+		Images:	10399
+		Time:	03.11.2024 14:29:57 until 03.11.2024 15:50:18
+		Duration:	01:20:21
+		Location:	NULL NULL
+
+(35) - 0.0 km BOB FINA 858500 MSC 12
+	BAAX1
+		Images:	2877
+		Time:	03.11.2024 15:50:20 until 03.11.2024 18:53:46
+		Duration:	03:03:26
+		Location:	NULL NULL
+
+(36) - 0.0 km BRUCE KOPLITDZ 858464 MSC 9
+	CAAZ1
+		Images:	15496
+		Time:	03.11.2024 10:31:51 until 03.11.2024 17:14:38
+		Duration:	06:42:47
+		Location:	NULL NULL
+
+(37) - 0.0 km CARL 858385 MEDALS
+	HAAL1
+		Images:	1349
+		Time:	03.11.2024 10:39:30 until 03.11.2024 17:25:23
+		Duration:	06:45:53
+		Location:	NULL NULL
+
+(38) - 0.0 km CHRIS FEDERICO 858468 MSC 2
+	CAAY1
+		Images:	13937
+		Time:	05.04.2024 06:24:22 until 05.04.2024 10:46:36
+		Duration:	04:22:14
+		Location:	NULL NULL
+
+(39) - 0.0 km Christian Fiore 858441 MSC8
+	AAAX1
+		Images:	25345
+		Time:	03.11.2024 09:43:48 until 03.11.2024 14:45:35
+		Duration:	05:01:47
+		Location:	NULL NULL
+
+(40) - 0.0 km CHRISTINE 858448 MSC 6
+	AAAS1
+		Images:	25919
+		Time:	03.10.2024 12:00:05 until 03.11.2024 15:39:22
+		Duration:	31.03:39:17
+		Location:	NULL NULL
+
+(41) - 0.0 km Claude Bird 858374 Medals
+	GCBIR1
+		Images:	4719
+		Time:	03.11.2024 04:16:15 until 03.11.2024 08:44:48
+		Duration:	04:28:33
+		Location:	NULL NULL
+
+	GCBIS1
+		Images:	18179
+		Time:	02.11.2024 23:31:52 until 03.11.2024 03:58:55
+		Duration:	04:27:03
+		Location:	NULL NULL
+
+(42) - 0.0 km CODY 858435 MSC 11
+	CABC1
+		Images:	3302
+		Time:	03.11.2024 16:16:35 until 03.11.2024 18:02:05
+		Duration:	01:45:30
+		Location:	NULL NULL
+
+	CABD1
+		Images:	21389
+		Time:	03.11.2024 09:52:43 until 03.11.2024 13:31:50
+		Duration:	03:39:07
+		Location:	NULL NULL
+
+(43) - 0.0 km DARREN 858428 PRE FIN
+	IAAD1
+		Images:	21203
+		Time:	03.11.2024 13:23:57 until 03.11.2024 17:03:17
+		Duration:	03:39:20
+		Location:	NULL NULL
+
+	IAAE1
+		Images:	1945
+		Time:	03.11.2024 17:07:42 until 03.11.2024 18:03:08
+		Duration:	00:55:26
+		Location:	NULL NULL
+
+(44) - 0.0 km DARREN 858496 VB
+	CAAL1
+		Images:	10693
+		Time:	03.11.2024 06:48:16 until 03.11.2024 11:12:54
+		Duration:	04:24:38
+		Location:	NULL NULL
+
+(45) - 0.0 km DAVE T 858427
+	AAAL1
+		Images:	10161
+		Time:	03.11.2024 12:16:00 until 03.11.2024 13:36:21
+		Duration:	01:20:21
+		Location:	NULL NULL
+
+(46) - 0.0 km DAVE T PRE FIN 858427
+	AAAA1
+		Images:	11011
+		Time:	03.11.2024 10:38:21 until 03.11.2024 12:14:25
+		Duration:	01:36:04
+		Location:	NULL NULL
+
+	HAAA1
+		Images:	8500
+		Time:	03.11.2024 15:10:00 until 03.11.2024 18:17:29
+		Duration:	03:07:29
+		Location:	NULL NULL
+
+(47) - 0.0 km DRU 858463
+	BAAR1
+		Images:	27768
+		Time:	03.11.2024 09:32:20 until 03.11.2024 16:00:38
+		Duration:	06:28:18
+		Location:	NULL NULL
+
+(48) - 0.0 km EDWARD 858389 MEDALS
+	HAAO1
+		Images:	2042
+		Time:	03.11.2024 11:50:33 until 03.11.2024 18:27:46
+		Duration:	06:37:13
+		Location:	NULL NULL
+
+(49) - 0.0 km EMMA 858391 MEDALS
+	HAAQ1
+		Images:	2019
+		Time:	03.11.2024 10:26:22 until 03.11.2024 17:22:48
+		Duration:	06:56:26
+		Location:	NULL NULL
+
+(50) - 0.0 km Fabrizio Ruzzier 858508 MSC13
+	AABC1
+		Images:	6683
+		Time:	03.11.2024 15:17:27 until 03.11.2024 18:01:08
+		Duration:	02:43:41
+		Location:	NULL NULL
+
+(51) - 0.0 km FAHRIS 747388 MEDALS
+	HAAN1
+		Images:	1543
+		Time:	02.11.2024 23:52:57 until 03.11.2024 06:27:18
+		Duration:	06:34:21
+		Location:	NULL NULL
+
+(52) - 0.0 km FINISH TRIGGER RIGHT 858482
+	AAAJ1
+		Images:	5691
+		Time:	03.11.2024 13:11:45 until 03.11.2024 14:46:57
+		Duration:	01:35:12
+		Location:	NULL NULL
+
+	BAAA1
+		Images:	3838
+		Time:	03.11.2024 07:54:50 until 03.11.2024 13:11:28
+		Duration:	05:16:38
+		Location:	NULL NULL
+
+	HAAC1
+		Images:	5654
+		Time:	03.11.2024 16:44:43 until 03.11.2024 19:36:42
+		Duration:	02:51:59
+		Location:	NULL NULL
+
+(53) - 0.0 km GAU BHASIN 858458
+	CAAR1
+		Images:	8610
+		Time:	03.11.2024 08:50:04 until 03.11.2024 14:52:42
+		Duration:	06:02:38
+		Location:	NULL NULL
+
+(54) - 0.0 km GEORG DOSTMANN 858426 PRE FIN
+	BABA1
+		Images:	12080
+		Time:	03.11.2024 15:15:31 until 03.11.2024 19:47:35
+		Duration:	04:32:04
+		Location:	NULL NULL
+
+(55) - 0.0 km george jiang 858437 msc 10
+	AAAB1
+		Images:	14355
+		Time:	03.11.2043 10:52:36 until 03.11.2043 13:32:13
+		Duration:	02:39:37
+		Location:	NULL NULL
+
+(56) - 0.0 km George Jiang 858437 MSC10
+	AABT1
+		Images:	6616
+		Time:	03.11.2043 15:44:12 until 03.11.2043 18:30:32
+		Duration:	02:46:20
+		Location:	NULL NULL
+
+	AABU1
+		Images:	6752
+		Time:	03.11.2043 13:33:27 until 03.11.2043 14:26:56
+		Duration:	00:53:29
+		Location:	NULL NULL
+
+	AABV1
+		Images:	7866
+		Time:	03.11.2043 10:52:36 until 03.11.2043 15:39:58
+		Duration:	04:47:22
+		Location:	NULL NULL
+
+(57) - 0.0 km GREG 858384 MEDALS
+	HAAK1
+		Images:	2802
+		Time:	03.11.2024 10:47:38 until 03.11.2024 17:33:28
+		Duration:	06:45:50
+		Location:	NULL NULL
+
+(58) - 0.0 km Gustavo Gargallo 858331 MMM25
+	AABD1
+		Images:	17166
+		Time:	03.11.2024 09:24:30 until 03.11.2024 12:09:48
+		Duration:	02:45:18
+		Location:	NULL NULL
+
+	AABG1
+		Images:	17596
+		Time:	03.11.2024 09:23:42 until 03.11.2024 13:43:52
+		Duration:	04:20:10
+		Location:	NULL NULL
+
+	AABJ1
+		Images:	16330
+		Time:	03.11.2024 09:23:04 until 03.11.2024 14:55:36
+		Duration:	05:32:32
+		Location:	NULL NULL
+
+	AABK1
+		Images:	14338
+		Time:	03.11.2024 09:22:22 until 03.11.2024 17:43:28
+		Duration:	08:21:06
+		Location:	NULL NULL
+
+(59) - 0.0 km HANDWERKER 858449 MSC 6
+	AAAU1
+		Images:	15809
+		Time:	03.11.2024 08:52:45 until 03.11.2024 15:35:54
+		Duration:	06:43:09
+		Location:	NULL NULL
+
+(60) - 0.0 km HEIDE 858466 MSC 2
+	CAAV1
+		Images:	21138
+		Time:	03.11.2024 08:20:59 until 03.11.2024 14:04:10
+		Duration:	05:43:11
+		Location:	NULL NULL
+
+(61) - 0.0 km JABBAR 858386 MEDALS
+	HAAM1
+		Images:	5385
+		Time:	02.11.2024 22:45:13 until 03.11.2024 05:31:20
+		Duration:	06:46:07
+		Location:	NULL NULL
+
+(62) - 0.0 km JACOB KANDER 858457 MSC 4
+	CAAQ1
+		Images:	15773
+		Time:	13.10.2024 07:46:02 until 03.11.2024 11:55:59
+		Duration:	21.04:09:57
+		Location:	NULL NULL
+
+(63) - 0.0 km JAY ADORABLE 858447
+	CAAU1
+		Images:	27899
+		Time:	03.11.2024 10:22:29 until 03.11.2024 17:08:57
+		Duration:	06:46:28
+		Location:	NULL NULL
+
+(64) - 0.0 km JC 858465 MSC 2
+	CAAX1
+		Images:	25980
+		Time:	03.11.2024 08:07:44 until 03.11.2024 14:04:29
+		Duration:	05:56:45
+		Location:	NULL NULL
+
+(65) - 0.0 km JEFF L 858432 MSC 11
+	BAAS1
+		Images:	800
+		Time:	03.11.2024 16:15:33 until 03.11.2024 17:02:36
+		Duration:	00:47:03
+		Location:	NULL NULL
+
+	BAAT1
+		Images:	18857
+		Time:	03.11.2024 12:58:40 until 03.11.2024 16:04:44
+		Duration:	03:06:04
+		Location:	NULL NULL
+
+	CAAJ1
+		Images:	12918
+		Time:	03.11.2024 10:12:56 until 03.11.2024 12:25:01
+		Duration:	02:12:05
+		Location:	NULL NULL
+
+(66) - 0.0 km JEROME 858456 KMSC 4
+	CAAO1
+		Images:	33484
+		Time:	03.11.2024 08:59:21 until 03.11.2024 14:49:19
+		Duration:	05:49:58
+		Location:	NULL NULL
+
+(67) - 0.0 km JORDJE ROJAS 858377 MEDALS
+	HAAE1
+		Images:	4303
+		Time:	04.11.2024 00:41:33 until 04.11.2024 07:24:29
+		Duration:	06:42:56
+		Location:	NULL NULL
+
+(68) - 0.0 km JULIO 858490
+	AAAK1
+		Images:	9612
+		Time:	03.11.2024 10:38:08 until 03.11.2024 12:57:21
+		Duration:	02:19:13
+		Location:	NULL NULL
+
+(69) - 0.0 km Keith Tromiczak 858505 MSC13
+	AAAZ1
+		Images:	1396
+		Time:	02.11.2024 23:49:20 until 03.11.2024 14:11:02
+		Duration:	14:21:42
+		Location:	NULL NULL
+
+(70) - 0.0 km KYLE 858390 MEDALS
+	HAAP1
+		Images:	2143
+		Time:	03.11.2024 10:41:22 until 03.11.2024 17:27:41
+		Duration:	06:46:19
+		Location:	NULL NULL
+
+(71) - 0.0 km LESLIE 858396 MEDALS
+	HAAT1
+		Images:	11113
+		Time:	03.11.2024 11:30:11 until 03.11.2024 19:02:55
+		Duration:	07:32:44
+		Location:	NULL NULL
+
+(72) - 0.0 km Lisa Bettencourt 858442 MSC8
+	FAAJ1
+		Images:	16651
+		Time:	03.11.2024 10:40:34 until 03.11.2024 17:49:39
+		Duration:	07:09:05
+		Location:	NULL NULL
+
+(73) - 0.0 km lucas 858495 vb
+	AAAE1
+		Images:	23880
+		Time:	03.11.2024 08:08:06 until 03.11.2024 11:11:22
+		Duration:	03:03:16
+		Location:	NULL NULL
+
+(74) - 0.0 km LUCAS FINISH 858492
+	IAAA1
+		Images:	31385
+		Time:	03.11.2024 13:09:58 until 03.11.2024 19:47:28
+		Duration:	06:37:30
+		Location:	NULL NULL
+
+(75) - 0.0 km LUIS BASTARDO 858459 MSC 4
+	CAAS1
+		Images:	15025
+		Time:	03.11.2024 08:26:42 until 03.11.2024 14:43:03
+		Duration:	06:16:21
+		Location:	NULL NULL
+
+(76) - 0.0 km Marco Todaro 858507 MSC13
+	AABA1
+		Images:	5188
+		Time:	01.01.0001 23:00:00 until 03.11.2024 19:01:15
+		Duration:	739191.20:01:15
+		Location:	NULL NULL
+
+(77) - 0.0 km Marvin Dangerfield 858332 MMM25
+	AABE1
+		Images:	13651
+		Time:	03.11.2024 09:19:12 until 03.11.2024 12:18:01
+		Duration:	02:58:49
+		Location:	NULL NULL
+
+	AABH1
+		Images:	15802
+		Time:	03.11.2024 12:19:59 until 03.11.2024 13:59:49
+		Duration:	01:39:50
+		Location:	NULL NULL
+
+	AABI1
+		Images:	15417
+		Time:	03.11.2024 14:01:22 until 03.11.2024 17:48:00
+		Duration:	03:46:38
+		Location:	NULL NULL
+
+(78) - 0.0 km Mauricio Campino 858429 Pre Finish
+	AAAP1
+		Images:	7735
+		Time:	03.11.2024 13:15:26 until 03.11.2024 14:02:47
+		Duration:	00:47:21
+		Location:	NULL NULL
+
+(79) - 0.0 km MCCAN 858446
+	AAAW1
+		Images:	15638
+		Time:	03.11.2024 09:15:11 until 03.11.2024 14:21:37
+		Duration:	05:06:26
+		Location:	NULL NULL
+
+(80) - 0.0 km Megyn Barrower 858373 Medals
+	GMBAR1
+		Images:	5958
+		Time:	03.11.2024 12:18:06 until 03.11.2024 20:28:01
+		Duration:	08:09:55
+		Location:	NULL NULL
+
+(81) - 0.0 km MIA 858380 MEDALS
+	HAAG1
+		Images:	2475
+		Time:	03.11.2024 10:47:34 until 03.11.2024 14:40:27
+		Duration:	03:52:53
+		Location:	NULL NULL
+
+(82) - 0.0 km MIKE KELLY 858503 MSC12
+	CABE1
+		Images:	1630
+		Time:	03.11.2024 15:20:19 until 03.11.2024 15:39:51
+		Duration:	00:19:32
+		Location:	NULL NULL
+
+	CABF1
+		Images:	3098
+		Time:	03.11.2024 15:39:51 until 03.11.2024 19:03:37
+		Duration:	03:23:46
+		Location:	NULL NULL
+
+(83) - 0.0 km MIYAN 858433 MSC 11
+	BAAD1
+		Images:	16542
+		Time:	03.11.2024 10:10:55 until 03.11.2024 12:57:14
+		Duration:	02:46:19
+		Location:	NULL NULL
+
+	BAAU1
+		Images:	13986
+		Time:	03.11.2024 12:59:09 until 03.11.2024 15:33:10
+		Duration:	02:34:01
+		Location:	NULL NULL
+
+	BAAV1
+		Images:	1658
+		Time:	03.11.2024 15:33:10 until 03.11.2024 17:48:43
+		Duration:	02:15:33
+		Location:	NULL NULL
+
+(84) - 0.0 km MSC 7 TRIGGER 858423
+	CAAT1
+		Images:	20056
+		Time:	03.11.2024 10:41:21 until 03.11.2024 17:31:56
+		Duration:	06:50:35
+		Location:	NULL NULL
+
+(85) - 0.0 km NATIAN 858393 MEDALS
+	HAAR1
+		Images:	1445
+		Time:	03.11.2024 11:44:42 until 03.11.2024 17:07:36
+		Duration:	05:22:54
+		Location:	NULL NULL
+
+(86) - 0.0 km PABLO 858467 MSC 2
+	CAAW1
+		Images:	22931
+		Time:	03.11.2024 09:43:22 until 03.11.2024 15:05:19
+		Duration:	05:21:57
+		Location:	NULL NULL
+
+(87) - 0.0 km Paul Santos 858469 MSC3
+	BAAO1
+		Images:	84880
+		Time:	03.10.2024 11:10:14 until 03.11.2024 10:08:27
+		Duration:	30.22:58:13
+		Location:	NULL NULL
+
+(88) - 0.0 km Paul Wirkkala 858337 Mass10kOrange
+	FAAI1
+		Images:	17074
+		Time:	03.11.2024 08:47:05 until 03.11.2024 12:20:32
+		Duration:	03:33:27
+		Location:	NULL NULL
+
+(89) - 0.0 km Peter Kollek 858375 Medals
+	GPKOL1
+		Images:	3706
+		Time:	03.11.2024 12:08:46 until 03.11.2024 13:03:10
+		Duration:	00:54:24
+		Location:	NULL NULL
+
+	GPKOM1
+		Images:	3812
+		Time:	03.11.2024 11:21:09 until 03.11.2024 13:04:31
+		Duration:	01:43:22
+		Location:	NULL NULL
+
+	GPKON1
+		Images:	16095
+		Time:	03.11.2024 11:24:15 until 03.11.2024 15:46:11
+		Duration:	04:21:56
+		Location:	NULL NULL
+
+	GPKOP1
+		Images:	8740
+		Time:	03.11.2024 11:24:15 until 03.11.2024 14:39:34
+		Duration:	03:15:19
+		Location:	NULL NULL
+
+(90) - 0.0 km Peter Koller 858375 Medals
+	GKKOO1
+		Images:	6038
+		Time:	03.11.2024 16:30:48 until 03.11.2024 20:24:25
+		Duration:	03:53:37
+		Location:	NULL NULL
+
+(91) - 0.0 km Phillip 858493 vb
+	BAAG1
+		Images:	11586
+		Time:	03.11.2024 07:13:49 until 03.11.2024 11:02:32
+		Duration:	03:48:43
+		Location:	NULL NULL
+
+(92) - 0.0 km PHILLIP FINISH 858491
+	BAAI1
+		Images:	3797
+		Time:	03.11.2024 13:33:45 until 03.11.2024 14:06:06
+		Duration:	00:32:21
+		Location:	NULL NULL
+
+	IAAB1
+		Images:	8940
+		Time:	03.11.2024 14:06:52 until 03.11.2024 15:30:11
+		Duration:	01:23:19
+		Location:	NULL NULL
+
+(93) - 0.0 km PHILLIP REYES 858428
+	IAAF1
+		Images:	8989
+		Time:	03.11.2024 15:31:17 until 03.11.2024 20:40:51
+		Duration:	05:09:34
+		Location:	NULL NULL
+
+(94) - 0.0 km PRE FIN FRONT
+	BAAE1
+		Images:	9488
+		Time:	03.11.2024 08:35:51 until 03.11.2024 13:09:22
+		Duration:	04:33:31
+		Location:	NULL NULL
+
+(95) - 0.0 km PRE FIN LEFT 858430
+	BABH1
+		Images:	18418
+		Time:	03.11.2024 11:51:43 until 03.11.2024 17:18:34
+		Duration:	05:26:51
+		Location:	NULL NULL
+
+(96) - 0.0 km PRE FIN TRIGGER 1 858430
+	HAAB1
+		Images:	10163
+		Time:	03.11.2024 13:23:46 until 03.11.2024 16:13:28
+		Duration:	02:49:42
+		Location:	NULL NULL
+
+(97) - 0.0 km PRE FIN TRIGGER 2 858431
+	BABB1
+		Images:	2996
+		Time:	03.11.2024 16:31:12 until 03.11.2024 18:16:23
+		Duration:	01:45:11
+		Location:	NULL NULL
+
+	BABC1
+		Images:	3910
+		Time:	03.11.2024 14:09:52 until 03.11.2024 16:27:34
+		Duration:	02:17:42
+		Location:	NULL NULL
+
+(98) - 0.0 km PRE FIN TRIGGER CENTER 858431
+	BAAB1
+		Images:	5733
+		Time:	03.11.2024 11:38:26 until 03.11.2024 13:15:33
+		Duration:	01:37:07
+		Location:	NULL NULL
+
+	BABG1
+		Images:	7844
+		Time:	03.11.2024 16:56:27 until 03.11.2024 19:33:04
+		Duration:	02:36:37
+		Location:	NULL NULL
+
+(99) - 0.0 km RICO 858494 VB
+	CAAM1
+		Images:	11708
+		Time:	03.11.2024 06:24:12 until 03.11.2024 11:10:02
+		Duration:	04:45:50
+		Location:	NULL NULL
+
+(100) - 0.0 km Robert Hesse 858425
+	BABI1
+		Images:	15827
+		Time:	03.11.2024 13:15:12 until 03.11.2024 16:18:22
+		Duration:	03:03:10
+		Location:	NULL NULL
+
+(101) - 0.0 km robert hesse 858425 pre fin
+	AAAC1
+		Images:	15417
+		Time:	03.11.2024 10:21:47 until 03.11.2024 13:14:36
+		Duration:	02:52:49
+		Location:	NULL NULL
+
+(102) - 0.0 km RUFINO 858381 MEDALS
+	HAAH1
+		Images:	2301
+		Time:	03.11.2024 10:07:02 until 03.11.2024 17:29:21
+		Duration:	07:22:19
+		Location:	NULL NULL
+
+(103) - 0.0 km RUSSELL 858395 MEDALS
+	HAAS1
+		Images:	2150
+		Time:	03.11.2024 10:59:18 until 03.11.2024 17:48:05
+		Duration:	06:48:47
+		Location:	NULL NULL
+
+(104) - 0.0 km Sean Edwards 858338 Mass10kOrange
+	BAAP1
+		Images:	20736
+		Time:	02.11.2024 09:46:57 until 02.11.2024 13:47:30
+		Duration:	04:00:33
+		Location:	NULL NULL
+
+(105) - 0.0 km SERANO 858383 MEDALS
+	HAAJ1
+		Images:	1920
+		Time:	03.11.2024 10:41:41 until 03.11.2024 17:32:41
+		Duration:	06:51:00
+		Location:	NULL NULL
+
+(106) - 0.0 km Simon Bhola 858376 Medals
+	GSBHO1
+		Images:	5056
+		Time:	31.12.2013 19:00:29 until 03.11.2024 05:10:13
+		Duration:	3959.10:09:44
+		Location:	NULL NULL
+
+	GSBHP1
+		Images:	10345
+		Time:	31.12.2013 19:00:03 until 03.11.2024 12:48:00
+		Duration:	3959.17:47:57
+		Location:	NULL NULL
+
+(107) - 0.0 km SOFIA 858379 MEDLALS
+	HAAF1
+		Images:	5831
+		Time:	03.11.2024 10:08:16 until 03.11.2024 18:02:05
+		Duration:	07:53:49
+		Location:	NULL NULL
+
+(108) - 0.0 km STACKPOLE 858450 MSC 6
+	AAAT1
+		Images:	24257
+		Time:	03.11.2024 12:23:14 until 03.12.2024 16:43:26
+		Duration:	30.04:20:12
+		Location:	NULL NULL
+
+(109) - 0.0 km Tahyane 858392 Medals
+	GTHAY1
+		Images:	2149
+		Time:	03.11.2024 10:41:02 until 03.11.2024 17:14:50
+		Duration:	06:33:48
+		Location:	NULL NULL
+
+(110) - 0.0 km TERRY 858436 MSC 10
+	BAAC1
+		Images:	8878
+		Time:	03.11.2024 10:36:02 until 03.11.2024 12:37:51
+		Duration:	02:01:49
+		Location:	NULL NULL
+
+(111) - 0.0 km Terry Wherry 858436 MSC10
+	AABR1
+		Images:	8168
+		Time:	03.11.2024 14:03:19 until 03.11.2024 16:22:17
+		Duration:	02:18:58
+		Location:	NULL NULL
+
+	AABS1
+		Images:	13939
+		Time:	03.11.2024 12:40:25 until 03.11.2024 19:08:18
+		Duration:	06:27:53
+		Location:	NULL NULL
+
+(112) - 0.0 km TIM HANNA 858501
+	BAAZ1
+		Images:	5138
+		Time:	03.11.2024 16:13:35 until 03.11.2024 19:08:52
+		Duration:	02:55:17
+		Location:	NULL NULL
+
+(113) - 0.0 km TIM HANNA 858501 MSC 11
+	BAAY1
+		Images:	3837
+		Time:	03.11.2024 15:27:25 until 03.11.2024 16:13:31
+		Duration:	00:46:06
+		Location:	NULL NULL
+
+(114) - 0.0 km TRENT 858424
+	HAAD1
+		Images:	12856
+		Time:	03.11.2024 14:12:09 until 03.11.2024 16:35:03
+		Duration:	02:22:54
+		Location:	NULL NULL
+
+(115) - 0.0 km Trent Wellott 858424 Pre Finish
+	AAAM1
+		Images:	13774
+		Time:	03.11.2024 11:29:25 until 03.11.2024 14:07:35
+		Duration:	02:38:10
+		Location:	NULL NULL
+
+(116) - 0.0 km Trigger 1 858430 Pre Finish
+	AAAQ1
+		Images:	7955
+		Time:	03.11.2024 10:41:20 until 03.11.2024 12:54:05
+		Duration:	02:12:45
+		Location:	NULL NULL
+
+(117) - 0.0 km Trigger 2 858439 MSC10
+	AABQ1
+		Images:	20034
+		Time:	03.11.2024 11:28:01 until 03.11.2024 17:58:49
+		Duration:	06:30:48
+		Location:	NULL NULL
+
+(118) - 0.0 km TRIGGER 2 VB 858498
+	AAAF1
+		Images:	10710
+		Time:	03.11.2024 06:35:48 until 03.11.2024 11:03:03
+		Duration:	04:27:15
+		Location:	NULL NULL
+
+(119) - 0.0 km Trigger 200m right
+	AAAN1
+		Images:	11117
+		Time:	03.11.2024 11:56:50 until 03.11.2024 15:03:42
+		Duration:	03:06:52
+		Location:	NULL NULL
+
+	AAAO1
+		Images:	10912
+		Time:	03.11.2024 12:07:40 until 03.11.2024 15:11:02
+		Duration:	03:03:22
+		Location:	NULL NULL
+
+(120) - 0.0 km TRIGGER 3 VB 858499
+	AAAG1
+		Images:	10210
+		Time:	03.11.2024 07:00:43 until 03.11.2024 11:03:31
+		Duration:	04:02:48
+		Location:	NULL NULL
+
+(121) - 0.0 km Trigger 858333 MMM25
+	AABF1
+		Images:	25374
+		Time:	03.11.2024 09:10:52 until 03.11.2024 18:04:29
+		Duration:	08:53:37
+		Location:	NULL NULL
+
+(122) - 0.0 km Trigger 858339 Mass10kOrange
+	BAAM1
+		Images:	11769
+		Time:	03.11.2024 09:43:19 until 03.11.2024 13:21:03
+		Duration:	03:37:44
+		Location:	NULL NULL
+
+(123) - 0.0 km TRIGGER 858460 MSC 4
+	CAAP1
+		Images:	19983
+		Time:	03.11.2024 09:54:20 until 03.11.2024 15:50:04
+		Duration:	05:55:44
+		Location:	NULL NULL
+
+(124) - 0.0 km Trigger Five 858438 MSC10
+	AABL1
+		Images:	6255
+		Time:	03.11.2024 11:54:44 until 03.11.2024 13:55:50
+		Duration:	02:01:06
+		Location:	NULL NULL
+
+	AABM1
+		Images:	4264
+		Time:	03.11.2024 15:42:49 until 03.11.2024 16:54:34
+		Duration:	01:11:45
+		Location:	NULL NULL
+
+	AABN1
+		Images:	5357
+		Time:	03.11.2024 13:51:40 until 03.11.2024 15:20:58
+		Duration:	01:29:18
+		Location:	NULL NULL
+
+	AABO1
+		Images:	5214
+		Time:	03.11.2024 12:09:32 until 03.11.2024 13:36:27
+		Duration:	01:26:55
+		Location:	NULL NULL
+
+	AABP1
+		Images:	1920
+		Time:	03.11.2024 16:35:00 until 03.11.2024 17:07:22
+		Duration:	00:32:22
+		Location:	NULL NULL
+
+(125) - 0.0 km trigger msc 10 858438
+	CAAK1
+		Images:	5326
+		Time:	03.11.2024 09:05:57 until 03.11.2024 12:00:53
+		Duration:	02:54:56
+		Location:	NULL NULL
+
+(126) - 0.0 km TRIGGER MSC 12 858504
+	CABG1
+		Images:	14534
+		Time:	03.11.2024 10:16:17 until 03.11.2024 16:12:51
+		Duration:	05:56:34
+		Location:	NULL NULL
+
+(127) - 0.0 km TRIGGER MSC 6 858451
+	AAAV1
+		Images:	18434
+		Time:	31.12.2006 18:00:00 until 31.12.2006 23:01:48
+		Duration:	05:01:48
+		Location:	NULL NULL
+
+(128) - 0.0 km TRIGGER PRE FIN 858430
+	BABF1
+		Images:	6431
+		Time:	03.11.2024 16:15:28 until 03.11.2024 18:03:14
+		Duration:	01:47:46
+		Location:	NULL NULL
+
+(129) - 0.0 km Trigger Three 858509 MSC13
+	AAAY1
+		Images:	19584
+		Time:	15.01.2024 01:55:26 until 15.01.2024 09:09:07
+		Duration:	07:13:41
+		Location:	NULL NULL
+
+(130) - 0.0 km VB TRIGGER 1 858497
+	AAAH1
+		Images:	10647
+		Time:	03.11.2024 07:06:30 until 03.11.2024 11:04:36
+		Duration:	03:58:06
+		Location:	NULL NULL
+
+(131) - 0.0 km VB TRIGGER UP
+	AAAI1
+		Images:	4342
+		Time:	03.11.2024 08:11:58 until 03.11.2024 11:04:33
+		Duration:	02:52:35
+		Location:	NULL NULL
+
+(132) - 0.0 km WILLIMAM DEE 858462 MSC 9
+	BAAQ1
+		Images:	28183
+		Time:	03.11.2024 10:32:24 until 03.11.2024 18:12:56
+		Duration:	07:40:32
+		Location:	NULL NULL
+
+(133) - 10.0 km Guy Edwards - 858335 - Mass 10K
+	FAAG1
+		Images:	52023
+		Time:	03.11.2024 09:18:34 until 03.11.2024 22:21:03
+		Duration:	13:02:29
+		Location:	NULL NULL
+
+(134) - 10.0 km Mass 10K Trigger - 858336 - Sean's Trigger
+	FAAH1
+		Images:	12478
+		Time:	03.11.2024 09:22:54 until 03.11.2024 13:29:08
+		Duration:	04:06:14
+		Location:	NULL NULL
+
+(135) - 10.0 km Sean Haworth - 858334 - Mass 10K
+	FAAF1
+		Images:	27317
+		Time:	03.11.2024 08:48:35 until 03.11.2024 12:27:15
+		Duration:	03:38:40
+		Location:	NULL NULL
+
+(136) - 16,0 mi Alan Ng - 858452 - MSC 5
+	EAAA1
+		Images:	60251
+		Time:	03.11.2024 09:34:46 until 03.11.2024 15:13:04
+		Duration:	05:38:18
+		Location:	NULL NULL
+
+(137) - 16,0 mi MSC 5 Trigger ´- 858455 - Alan's Trigger
+	EAAD1
+		Images:	19862
+		Time:	03.11.2024 09:03:00 until 03.11.2024 15:11:37
+		Duration:	06:08:37
+		Location:	NULL NULL
+
+(138) - 16,0 mi Peter Wood - 858453 - MSC 5
+	EAAB1
+		Images:	35933
+		Time:	03.11.2024 09:29:23 until 03.11.2024 15:11:06
+		Duration:	05:41:43
+		Location:	NULL NULL
+
+(139) - 16,0 mi Sara LaCuesta - 858454 - MSC 5
+	EAAC1
+		Images:	46567
+		Time:	03.11.2024 09:32:42 until 03.11.2024 15:15:48
+		Duration:	05:43:06
+		Location:	NULL NULL
+
+(140) - 8.0 mi Frank Natal - 858475 - MSC 1
+	FAAD1
+		Images:	13623
+		Time:	03.11.2024 08:17:27 until 03.11.2024 12:48:17
+		Duration:	04:30:50
+		Location:	NULL NULL
+
+(141) - 8.0 mi Michael Monahan - 858477 - MSC 1
+	FAAC1
+		Images:	47374
+		Time:	03.11.2024 09:06:02 until 03.11.2024 13:50:49
+		Duration:	04:44:47
+		Location:	NULL NULL
+
+(142) - 8.0 mi MSC 1 Trigger - 858478 - Rachel's Trigger
+	FAAE1
+		Images:	13648
+		Time:	03.11.2024 06:21:42 until 03.11.2024 12:46:08
+		Duration:	06:24:26
+		Location:	NULL NULL
+
+(143) - 8.0 mi Rachel Czech - 858474 - MSC 1
+	FAAA1
+		Images:	28715
+		Time:	03.11.2024 10:08:32 until 03.11.2024 15:00:25
+		Duration:	04:51:53
+		Location:	NULL NULL
+
+(144) - 8.0 mi Tanja Momcilovic
+	FAAB1
+		Images:	14946
+		Time:	03.11.2024 08:32:07 until 03.11.2024 13:50:04
+		Duration:	05:17:57
+		Location:	NULL NULL
+
+(145) - adam zeliger 858506
+	DAAG1
+		Images:	5615
+		Time:	03.11.2024 14:30:53 until 03.11.2024 16:29:31
+		Duration:	01:58:38
+		Location:	NULL NULL
+
+	DAAJ1
+		Images:	8876
+		Time:	03.11.2024 10:28:18 until 03.11.2024 14:30:03
+		Duration:	04:01:45
+		Location:	NULL NULL
+
+(146) - alex rosenfeld 858502
+	DAAC1
+		Images:	14760
+		Time:	03.11.2024 10:05:38 until 03.11.2024 13:35:51
+		Duration:	03:30:13
+		Location:	NULL NULL
+
+(147) - fabrzio ruzzier 858508
+	DAAE1
+		Images:	30075
+		Time:	03.11.2024 09:10:43 until 03.11.2024 15:17:26
+		Duration:	06:06:43
+		Location:	NULL NULL
+
+(148) - finish trigger right 858482
+	DAAA1
+		Images:	5656
+		Time:	03.11.2024 14:58:02 until 03.11.2024 16:32:31
+		Duration:	01:34:29
+		Location:	NULL NULL
+
+(149) - Impressions / Pano
+	PANO1
+(150) - john theodore 858348 - OFP
+	FAAL1
+		Images:	997
+		Time:	03.11.2024 11:44:08 until 03.11.2024 17:48:18
+		Duration:	06:04:10
+		Location:	NULL NULL
+
+	FAAM1
+		Images:	258
+		Time:	03.11.2024 17:48:26 until 03.11.2024 18:59:46
+		Duration:	01:11:20
+		Location:	NULL NULL
+
+(151) - keith tromiczak 858505
+	DAAK1
+		Images:	10935
+		Time:	02.11.2024 18:03:57 until 02.11.2024 23:47:09
+		Duration:	05:43:12
+		Location:	NULL NULL
+
+(152) - marco todaro 858507
+	DAAH1
+		Images:	13702
+		Time:	03.11.2024 13:46:50 until 03.11.2024 16:13:01
+		Duration:	02:26:11
+		Location:	NULL NULL
+
+	DAAI1
+		Images:	13919
+		Time:	03.11.2024 10:43:44 until 03.11.2024 13:44:33
+		Duration:	03:00:49
+		Location:	NULL NULL
+
+(153) - michael kelly 858503
+	DAAL1
+		Images:	26003
+		Time:	03.11.2024 10:25:16 until 03.11.2024 15:17:40
+		Duration:	04:52:24
+		Location:	NULL NULL
+
+(154) - none
+	AABW1
+	DAAM1
+		Images:	11274
+		Time:	03.11.2024 13:15:54 until 03.11.2024 16:54:50
+		Duration:	03:38:56
+		Location:	NULL NULL
+
+	DAAN1
+		Images:	4063
+		Time:	03.11.2024 10:39:40 until 03.11.2024 12:58:48
+		Duration:	02:19:08
+		Location:	NULL NULL
+
+	DAAO1
+		Images:	3907
+		Time:	03.11.2024 15:11:48 until 03.11.2024 16:17:02
+		Duration:	01:05:14
+		Location:	NULL NULL
+
+	DAAP1
+		Images:	10013
+		Time:	03.11.2024 13:10:09 until 03.11.2024 15:58:40
+		Duration:	02:48:31
+		Location:	NULL NULL
+
+	DAAQ1
+		Images:	9212
+		Time:	03.11.2024 12:58:11 until 03.11.2024 15:10:39
+		Duration:	02:12:28
+		Location:	NULL NULL
+
+	DAAR1
+		Images:	8445
+		Time:	03.11.2024 13:56:48 until 03.11.2024 15:05:58
+		Duration:	01:09:10
+		Location:	NULL NULL
+
+	DAAS1
+		Images:	1876
+		Time:	03.11.2024 13:39:25 until 03.11.2024 13:54:27
+		Duration:	00:15:02
+		Location:	NULL NULL
+
+	DAAT1
+		Images:	8133
+		Time:	03.11.2024 13:54:27 until 03.11.2024 15:08:16
+		Duration:	01:13:49
+		Location:	NULL NULL
+
+	ERIGH1
+		Images:	1245
+		Time:	03.11.2024 15:11:32 until 03.11.2024 15:32:23
+		Duration:	00:20:51
+		Location:	NULL NULL
+
+	FAAN1
+		Images:	1857
+		Time:	03.11.2024 11:32:24 until 03.11.2024 19:11:05
+		Duration:	07:38:41
+		Location:	NULL NULL
+
+	FAAO1
+		Images:	2071
+		Time:	03.11.2024 12:00:53 until 03.11.2024 17:24:15
+		Duration:	05:23:22
+		Location:	NULL NULL
+
+	FAAP1
+		Images:	1097
+		Time:	03.11.2024 11:48:41 until 03.11.2024 18:36:57
+		Duration:	06:48:16
+		Location:	NULL NULL
+
+	FAAQ1
+		Images:	908
+		Time:	03.11.2024 10:48:46 until 03.11.2024 17:14:00
+		Duration:	06:25:14
+		Location:	NULL NULL
+
+	FAAR1
+		Images:	793
+		Time:	03.11.2024 10:37:31 until 03.11.2024 17:55:47
+		Duration:	07:18:16
+		Location:	NULL NULL
+
+	FAAS1
+		Images:	489
+		Time:	03.11.2023 14:22:41 until 03.11.2023 15:46:57
+		Duration:	01:24:16
+		Location:	NULL NULL
+
+	FAAT1
+		Images:	1863
+		Time:	03.11.2024 11:05:49 until 03.11.2024 18:31:10
+		Duration:	07:25:21
+		Location:	NULL NULL
+
+	FAAU1
+		Images:	3341
+		Time:	26.01.2000 16:41:06 until 03.11.2024 17:35:41
+		Duration:	9048.00:54:35
+		Location:	NULL NULL
+
+	FAAV1
+		Images:	1001
+		Time:	03.11.2024 09:45:38 until 03.11.2024 17:38:14
+		Duration:	07:52:36
+		Location:	NULL NULL
+
+	FAAW1
+		Images:	1482
+		Time:	11.09.2018 18:51:41 until 12.09.2018 02:19:26
+		Duration:	07:27:45
+		Location:	NULL NULL
+
+	FAAX1
+		Images:	945
+		Time:	03.11.2024 10:59:39 until 03.11.2024 18:31:49
+		Duration:	07:32:10
+		Location:	NULL NULL
+
+	FAAY1
+		Images:	908
+		Time:	03.11.2024 10:39:56 until 03.11.2024 16:50:57
+		Duration:	06:11:01
+		Location:	NULL NULL
+
+	FAAZ1
+		Images:	2026
+		Time:	03.11.2024 10:35:55 until 03.11.2024 17:34:57
+		Duration:	06:59:02
+		Location:	NULL NULL
+
+	FABA1
+		Images:	1587
+		Time:	03.11.2024 10:40:41 until 03.11.2024 17:31:58
+		Duration:	06:51:17
+		Location:	NULL NULL
+
+	FABB1
+		Images:	2183
+		Time:	27.01.2000 00:28:06 until 03.11.2024 16:42:50
+		Duration:	9047.16:14:44
+		Location:	NULL NULL
+
+	FABC1
+		Images:	1500
+		Time:	03.11.2024 10:56:17 until 03.11.2024 17:32:20
+		Duration:	06:36:03
+		Location:	NULL NULL
+
+	FABD1
+		Images:	828
+		Time:	03.11.2024 11:42:18 until 03.11.2024 18:39:20
+		Duration:	06:57:02
+		Location:	NULL NULL
+
+	FABE1
+		Images:	1029
+		Time:	02.11.2024 10:41:41 until 02.11.2024 17:55:25
+		Duration:	07:13:44
+		Location:	NULL NULL
+
+	FABF1
+		Images:	2813
+		Time:	03.11.2024 10:35:46 until 03.11.2024 18:32:42
+		Duration:	07:56:56
+		Location:	NULL NULL
+
+	FABG1
+		Images:	1927
+		Time:	03.11.2024 11:05:23 until 03.11.2024 18:32:42
+		Duration:	07:27:19
+		Location:	NULL NULL
+
+	FABH1
+		Images:	1460
+		Time:	03.11.2024 11:33:26 until 03.11.2024 18:37:55
+		Duration:	07:04:29
+		Location:	NULL NULL
+
+(155) - robert fina 858500
+	DAAD1
+		Images:	18595
+		Time:	03.11.2024 10:02:55 until 03.11.2024 12:36:14
+		Duration:	02:33:19
+		Location:	NULL NULL
+
+	DAAF1
+		Images:	17160
+		Time:	03.11.2024 12:39:38 until 03.11.2024 14:26:32
+		Duration:	01:46:54
+		Location:	NULL NULL
+
+(156) - timothy hanna 858501
+	DAAB1
+		Images:	22094
+		Time:	03.11.2024 10:11:41 until 03.11.2024 15:22:08
+		Duration:	05:10:27
+		Location:	NULL NULL
+

@@ -1,0 +1,300 @@
+EventId: 13087
+Spots: 44
+Total Images: 541070
+Time:	31.12.2013 19:00:06 to 28.04.2024 17:15:59
+Duration: 3770.22:15:53
+
+(1) - 0.0 km Finish Jacob
+	AJKAN1
+		Images:	17187
+		Time:	28.04.2024 05:06:10 until 28.04.2024 09:41:47
+		Duration:	04:35:37
+		Location:	NULL NULL
+
+(2) - 0.0 km Finish Jim Dee
+	AJDEE1
+		Images:	35581
+		Time:	28.04.2024 06:49:37 until 28.04.2024 11:37:53
+		Duration:	04:48:16
+		Location:	NULL NULL
+
+(3) - 0.0 km MSC 1 Andrew
+	BACUI1
+		Images:	7740
+		Time:	28.04.2024 06:47:26 until 28.04.2024 08:41:40
+		Duration:	01:54:14
+		Location:	NULL NULL
+
+(4) - 0.0 km MSC 1 Pol
+	BPSAN1
+		Images:	6713
+		Time:	28.04.2024 04:07:25 until 28.04.2024 05:38:52
+		Duration:	01:31:27
+		Location:	NULL NULL
+
+(5) - 0.0 km MSC 1 Trigger
+	BPSAN1LS1
+		Images:	5684
+		Time:	28.04.2024 05:45:55 until 28.04.2024 07:42:28
+		Duration:	01:56:33
+		Location:	NULL NULL
+
+(6) - 0.0 km MSC 2 Miyan
+	AMLEV1
+		Images:	16153
+		Time:	28.04.2024 06:57:26 until 28.04.2024 10:07:24
+		Duration:	03:09:58
+		Location:	NULL NULL
+
+(7) - 0.0 km MSC 2 Terry
+	ATWER1
+		Images:	12738
+		Time:	28.04.2024 07:29:39 until 28.04.2024 10:04:43
+		Duration:	02:35:04
+		Location:	NULL NULL
+
+(8) - 0.0 km MSC 2 Trigger
+	ATWER1LS1
+		Images:	8459
+		Time:	28.04.2024 07:25:09 until 28.04.2024 10:06:24
+		Duration:	02:41:15
+		Location:	NULL NULL
+
+(9) - 0.0 km MSC 3 Alan
+	BANG1
+		Images:	39541
+		Time:	28.04.2024 07:03:26 until 28.04.2024 10:13:26
+		Duration:	03:10:00
+		Location:	NULL NULL
+
+(10) - 0.0 km MSC 3 Henry
+	BHCAS1
+		Images:	18520
+		Time:	28.04.2024 07:19:21 until 28.04.2024 10:11:23
+		Duration:	02:52:02
+		Location:	NULL NULL
+
+(11) - 0.0 km MSC 3 Trigger1
+	BANG1LS2
+		Images:	9856
+		Time:	28.04.2024 06:57:47 until 28.04.2024 10:18:53
+		Duration:	03:21:06
+		Location:	NULL NULL
+
+(12) - 0.0 km MSC 4 Adam
+	AAZEL1
+		Images:	9907
+		Time:	28.04.2024 07:42:58 until 28.04.2024 11:06:46
+		Duration:	03:23:48
+		Location:	NULL NULL
+
+(13) - 0.0 km MSC 4 Peter
+	APWOO1
+		Images:	14259
+		Time:	28.04.2024 06:37:24 until 28.04.2024 10:10:14
+		Duration:	03:32:50
+		Location:	NULL NULL
+
+(14) - 0.0 km MSC 4 Trigger1
+	APWOO1LS1
+		Images:	10159
+		Time:	05.04.2024 05:14:23 until 05.04.2024 08:16:37
+		Duration:	03:02:14
+		Location:	NULL NULL
+
+(15) - 0.0 km MSC 5 Andrew
+	BACU1
+		Images:	5946
+		Time:	28.04.2024 09:34:12 until 28.04.2024 11:47:31
+		Duration:	02:13:19
+		Location:	NULL NULL
+
+(16) - 0.0 km MSC 5 Darren
+	BDKEP1
+		Images:	22851
+		Time:	28.04.2024 07:30:49 until 28.04.2024 11:59:43
+		Duration:	04:28:54
+		Location:	NULL NULL
+
+(17) - 0.0 km MSC 5 Joseph
+	BJRIC1
+		Images:	13321
+		Time:	22.05.2014 12:11:46 until 22.05.2014 16:37:25
+		Duration:	04:25:39
+		Location:	NULL NULL
+
+(18) - 0.0 km MSC 5 Micah
+	BMLLO1
+		Images:	15431
+		Time:	27.04.2024 01:55:29 until 27.04.2024 06:46:25
+		Duration:	04:50:56
+		Location:	NULL NULL
+
+(19) - 0.0 km MSC 5 Pol
+	BPSA1
+		Images:	18635
+		Time:	28.04.2024 06:41:07 until 28.04.2024 09:02:02
+		Duration:	02:20:55
+		Location:	NULL NULL
+
+(20) - 0.0 km MSC 5 Trigger
+	BDKEP1LS1
+		Images:	13608
+		Time:	28.04.2024 07:54:37 until 28.04.2024 12:15:36
+		Duration:	04:20:59
+		Location:	NULL NULL
+
+(21) - 0.0 km MSC 6 Dean
+	BDBOT1
+		Images:	23212
+		Time:	28.04.2024 08:05:14 until 28.04.2024 11:52:29
+		Duration:	03:47:15
+		Location:	NULL NULL
+
+(22) - 0.0 km MSC 6 Trigger
+	BDBOT1LS1
+		Images:	14212
+		Time:	28.04.2024 07:40:36 until 28.04.2024 12:31:04
+		Duration:	04:50:28
+		Location:	NULL NULL
+
+(23) - 0.0 km MSC PFN Trent
+	ATWEL1
+		Images:	20066
+		Time:	28.04.2024 07:51:41 until 28.04.2024 12:31:32
+		Duration:	04:39:51
+		Location:	NULL NULL
+
+(24) - 0.0 km MSC PFN William
+	AWDEE1
+		Images:	17924
+		Time:	28.04.2024 07:46:06 until 28.04.2024 12:31:06
+		Duration:	04:45:00
+		Location:	NULL NULL
+
+(25) - 0.0 km MSC3 Trigger 2
+	BANG1LS1
+		Images:	9065
+		Time:	28.04.2024 05:40:56 until 28.04.2024 08:58:56
+		Duration:	03:18:00
+		Location:	NULL NULL
+
+(26) - 0.0 km PR Staret
+	APKOL1
+		Images:	549
+		Time:	28.04.2024 05:42:47 until 28.04.2024 07:09:06
+		Duration:	01:26:19
+		Location:	NULL NULL
+
+(27) - 0.0 km Pre FIn JC
+	BJCCH1
+		Images:	22852
+		Time:	28.04.2024 07:51:04 until 28.04.2024 12:03:16
+		Duration:	04:12:12
+		Location:	NULL NULL
+
+(28) - 0.0 km Pre Fin Trigger LEft
+	BPFTL1
+		Images:	12827
+		Time:	28.04.2024 12:14:45 until 28.04.2024 17:15:59
+		Duration:	05:01:14
+		Location:	NULL NULL
+
+(29) - 0.0 km Pre Fin Trigger Right
+	BFTRI1
+		Images:	14517
+		Time:	28.04.2024 07:02:09 until 28.04.2024 12:17:55
+		Duration:	05:15:46
+		Location:	NULL NULL
+
+	BPFTR1
+		Images:	13388
+		Time:	28.04.2024 07:48:24 until 28.04.2024 12:46:07
+		Duration:	04:57:43
+		Location:	NULL NULL
+
+(30) - none
+	AAGUI1
+		Images:	1593
+		Time:	28.04.2024 08:27:54 until 28.04.2024 11:53:49
+		Duration:	03:25:55
+		Location:	NULL NULL
+
+	ACFRE1
+		Images:	1010
+		Time:	29.09.2023 04:22:17 until 29.09.2023 08:32:51
+		Duration:	04:10:34
+		Location:	NULL NULL
+
+	ACGUR1
+		Images:	21548
+		Time:	28.04.2024 08:10:24 until 28.04.2024 11:22:09
+		Duration:	03:11:45
+		Location:	NULL NULL
+
+	AIBAL1
+		Images:	1211
+		Time:	28.04.2024 08:21:40 until 28.04.2024 12:18:34
+		Duration:	03:56:54
+		Location:	NULL NULL
+
+	AIVAC1
+		Images:	15591
+		Time:	28.04.2024 08:06:19 until 28.04.2024 12:19:05
+		Duration:	04:12:46
+		Location:	NULL NULL
+
+	AMATT1
+		Images:	1660
+		Time:	05.07.2015 15:46:35 until 05.07.2015 19:44:34
+		Duration:	03:57:59
+		Location:	NULL NULL
+
+	AMCOR1
+		Images:	2128
+		Time:	28.04.2024 08:12:46 until 28.04.2024 11:42:25
+		Duration:	03:29:39
+		Location:	NULL NULL
+
+	ANMAN1
+		Images:	2338
+		Time:	28.04.2024 07:10:09 until 28.04.2024 11:16:00
+		Duration:	04:05:51
+		Location:	NULL NULL
+
+	APKOL2
+		Images:	13302
+		Time:	28.04.2024 08:31:18 until 28.04.2024 12:33:37
+		Duration:	04:02:19
+		Location:	NULL NULL
+
+	APWOO1LS2
+		Images:	1111
+		Time:	05.04.2024 08:19:06 until 28.04.2024 06:14:08
+		Duration:	22.21:55:02
+		Location:	NULL NULL
+
+	AROYA1
+		Images:	482
+		Time:	27.04.2024 19:25:14 until 27.04.2024 23:28:06
+		Duration:	04:02:52
+		Location:	NULL NULL
+
+	ASBHO1
+		Images:	6497
+		Time:	31.12.2013 19:00:06 until 01.01.2014 02:19:46
+		Duration:	07:19:40
+		Location:	NULL NULL
+
+	ASGAG1
+		Images:	8400
+		Time:	26.04.2024 17:56:04 until 28.04.2024 10:04:59
+		Duration:	1.16:08:55
+		Location:	NULL NULL
+
+	BSGTT1
+		Images:	13298
+		Time:	19.08.2023 02:49:32 until 19.08.2023 06:53:50
+		Duration:	04:04:18
+		Location:	NULL NULL
+

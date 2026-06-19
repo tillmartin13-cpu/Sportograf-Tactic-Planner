@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "46.24333" lon = "14.35475"><name>FUP1</name><desc>Start
+Images:198
+First:07.09.2025 08:01:50
+Last:07.09.2025 09:07:20
+Duration:01:05:30
+</desc></wpt>
+<wpt lat = "46.17903" lon = "14.31254"><name>LULE1</name><desc>10,0 km
+Images:1071
+First:07.09.2025 09:20:04
+Last:07.09.2025 09:29:16
+Duration:00:09:12
+</desc></wpt>
+<wpt lat = "46.17903" lon = "14.31254"><name>LULE1LS2</name><desc>10,0 km
+Images:439
+First:07.09.2025 08:58:12
+Last:07.09.2025 09:32:37
+Duration:00:34:25
+</desc></wpt>
+<wpt lat = "46.17903" lon = "14.31254"><name>LULE1LS1</name><desc>10,0 km
+Images:531
+First:07.09.2025 09:08:33
+Last:07.09.2025 09:32:09
+Duration:00:23:36
+</desc></wpt>
+<wpt lat = "46.17628" lon = "14.30919"><name>MATR1</name><desc>11,0 km
+Images:623
+First:07.09.2025 08:59:46
+Last:07.09.2025 09:31:30
+Duration:00:31:44
+</desc></wpt>
+<wpt lat = "46.17628" lon = "14.30919"><name>MATR1LS1</name><desc>11,0 km
+Images:491
+First:07.09.2025 09:06:41
+Last:07.09.2025 09:33:09
+Duration:00:26:28
+</desc></wpt>
+<wpt lat = "46.17628" lon = "14.30919"><name>MATR1DRONE1</name><desc>11,0 km
+Images:21
+First:07.09.2025 09:19:45
+Last:07.09.2025 11:27:31
+Duration:02:07:46
+</desc></wpt>
+<wpt lat = "46.25988" lon = "14.56450"><name>MAGA1</name><desc>50,0 km
+Images:1428
+First:07.09.2025 10:19:20
+Last:07.09.2025 11:21:02
+Duration:01:01:42
+</desc></wpt>
+<wpt lat = "46.25988" lon = "14.56450"><name>MAGA1LS1</name><desc>50,0 km
+Images:1976
+First:07.09.2025 10:08:10
+Last:07.09.2025 11:25:39
+Duration:01:17:29
+</desc></wpt>
+<wpt lat = "46.26178" lon = "14.52229"><name>MMO1</name><desc>55,0 km
+Images:3828
+First:07.09.2025 08:44:00
+Last:07.09.2025 11:44:19
+Duration:03:00:19
+</desc></wpt>
+<wpt lat = "46.28319" lon = "14.37047"><name>LULE2</name><desc>75,0 km
+Images:1704
+First:07.09.2025 10:50:42
+Last:07.09.2025 12:25:12
+Duration:01:34:30
+</desc></wpt>
+<wpt lat = "46.28319" lon = "14.37047"><name>LULE2LS1</name><desc>75,0 km
+Images:726
+First:07.09.2025 10:46:32
+Last:07.09.2025 12:11:31
+Duration:01:24:59
+</desc></wpt>
+<wpt lat = "46.27641" lon = "14.36414"><name>MATR2</name><desc>76,0 km
+Images:3072
+First:07.09.2025 10:51:16
+Last:07.09.2025 12:34:11
+Duration:01:42:55
+</desc></wpt>
+<wpt lat = "46.27641" lon = "14.36414"><name>MATR2LS1</name><desc>76,0 km
+Images:779
+First:07.09.2025 10:30:56
+Last:07.09.2025 13:20:33
+Duration:02:49:37
+</desc></wpt>
+<wpt lat = "46.26178" lon = "14.52229"><name>MMO2</name><desc>650 mt before finish
+Images:2158
+First:07.09.2025 12:21:24
+Last:07.09.2025 14:53:53
+Duration:02:32:29
+</desc></wpt>
+<wpt lat = "46.23825" lon = "14.35334"><name>MATR3LS1</name><desc>600 mt before finish
+Images:306
+First:07.09.2025 13:21:16
+Last:07.09.2025 15:01:32
+Duration:01:40:16
+</desc></wpt>
+<wpt lat = "46.23825" lon = "14.35334"><name>MATR3</name><desc>600 mt before finish
+Images:653
+First:07.09.2025 13:26:47
+Last:07.09.2025 14:39:06
+Duration:01:12:19
+</desc></wpt>
+<wpt lat = "46.23907" lon = "14.35375"><name>MAGA2</name><desc>500 mt before finish
+Images:1514
+First:07.09.2025 11:24:05
+Last:07.09.2025 14:54:14
+Duration:03:30:09
+</desc></wpt>
+<wpt lat = "46.24122" lon = "14.35459"><name>LULE3</name><desc>200 mt before finish
+Images:524
+First:07.09.2025 13:29:19
+Last:07.09.2025 14:36:33
+Duration:01:07:14
+</desc></wpt>
+<wpt lat = "46.24122" lon = "14.35459"><name>LULE3LS1</name><desc>200 mt before finish
+Images:227
+First:07.09.2025 13:23:14
+Last:07.09.2025 14:57:04
+Duration:01:33:50
+</desc></wpt>
+<wpt lat = "46.24333" lon = "14.35475"><name>FUP2</name><desc>Finish
+Images:2385
+First:07.09.2025 10:26:17
+Last:07.09.2025 14:56:22
+Duration:04:30:05
+</desc></wpt>
+</gpx>

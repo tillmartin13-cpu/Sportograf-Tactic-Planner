@@ -1,0 +1,75 @@
+EventId: 14660
+Spots: 10
+Total Images: 29275
+Time:	01.03.2025 05:58:45 to 02.03.2025 14:54:09
+Duration: 1.08:55:24
+
+(1) - Obstacle 1 Kiss of Mud
+	GAPO1
+		Images:	1251
+		Time:	01.03.2025 06:41:19 until 02.03.2025 10:23:46
+		Duration:	1.03:42:27
+		Location:	NULL NULL
+
+(2) - Obstacle 3 Mud Mile
+	JMS1
+		Images:	4660
+		Time:	01.03.2025 06:56:39 until 02.03.2025 11:18:26
+		Duration:	1.04:21:47
+		Location:	NULL NULL
+
+(3) - Obstacle 5 Artic Enema
+	GACA1
+		Images:	1514
+		Time:	01.03.2025 06:46:05 until 02.03.2025 10:48:43
+		Duration:	1.04:02:38
+		Location:	NULL NULL
+
+(4) - Obstacle 17 Well Swung
+	JLEY1
+		Images:	2887
+		Time:	01.03.2025 06:37:48 until 02.03.2025 14:13:08
+		Duration:	1.07:35:20
+		Location:	NULL NULL
+
+(5) - Obstacle 18 Hangin Tough
+	DOBR1
+		Images:	8035
+		Time:	02.03.2025 07:52:21 until 02.03.2025 14:36:13
+		Duration:	06:43:52
+		Location:	NULL NULL
+
+	JVI1
+		Images:	3307
+		Time:	02.03.2025 08:37:33 until 02.03.2025 14:34:57
+		Duration:	05:57:24
+		Location:	NULL NULL
+
+(6) - Obstacle 20 Artic Enema
+	AKT1
+		Images:	1074
+		Time:	01.03.2025 05:58:45 until 02.03.2025 14:50:11
+		Duration:	1.08:51:26
+		Location:	NULL NULL
+
+(7) - Obstacle 21 Electroshock Therapy
+	CIFU1
+		Images:	5097
+		Time:	01.03.2025 06:08:31 until 02.03.2025 14:54:09
+		Duration:	1.08:45:38
+		Location:	NULL NULL
+
+(8) - Obstacle 21 LS Finish Line
+	JOFU1LS1
+		Images:	1409
+		Time:	02.03.2025 07:59:56 until 02.03.2025 11:47:35
+		Duration:	03:47:39
+		Location:	NULL NULL
+
+(9) - Impressions / Pano
+	JOFU1
+		Images:	41
+		Time:	01.03.2025 06:12:05 until 02.03.2025 10:43:17
+		Duration:	1.04:31:12
+		Location:	NULL NULL
+

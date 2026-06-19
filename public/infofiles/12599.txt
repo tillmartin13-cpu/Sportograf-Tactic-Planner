@@ -1,0 +1,108 @@
+EventId: 12599
+Spots: 19
+Total Images: 141367
+Time:	09.10.2019 10:28:06 to 09.12.2023 12:51:52
+Duration: 1522.02:23:46
+
+(1) - 0.0 km
+	AAMAA1
+		Images:	1599
+		Time:	09.12.2023 09:09:14 until 09.12.2023 11:46:19
+		Duration:	02:37:05
+		Location:	NULL NULL
+
+	AAMAA1LS1
+		Images:	5378
+		Time:	31.03.2023 05:03:23 until 31.03.2023 07:22:57
+		Duration:	02:19:34
+		Location:	NULL NULL
+
+	ABDSB1
+		Images:	15635
+		Time:	09.12.2023 07:13:20 until 09.12.2023 11:53:15
+		Duration:	04:39:55
+		Location:	NULL NULL
+
+	ABDSB1LS1
+		Images:	5869
+		Time:	09.12.2023 07:10:24 until 09.12.2023 11:19:18
+		Duration:	04:08:54
+		Location:	NULL NULL
+
+	CHRM1
+		Images:	1122
+		Time:	09.12.2023 07:28:09 until 09.12.2023 08:27:42
+		Duration:	00:59:33
+		Location:	NULL NULL
+
+	CHRM1LS1
+	CODCB1
+		Images:	10405
+		Time:	09.12.2023 07:45:42 until 09.12.2023 10:45:43
+		Duration:	03:00:01
+		Location:	NULL NULL
+
+	CODCB1LS1
+		Images:	11041
+		Time:	09.12.2023 04:16:36 until 09.12.2023 08:10:49
+		Duration:	03:54:13
+		Location:	NULL NULL
+
+	CYNDS1
+		Images:	11064
+		Time:	09.12.2023 08:18:51 until 09.12.2023 11:29:59
+		Duration:	03:11:08
+		Location:	NULL NULL
+
+	FABMB1
+		Images:	9014
+		Time:	09.12.2023 08:18:27 until 09.12.2023 12:19:49
+		Duration:	04:01:22
+		Location:	NULL NULL
+
+	JCCH1
+		Images:	10831
+		Time:	09.12.2023 07:42:21 until 09.12.2023 10:43:21
+		Duration:	03:01:00
+		Location:	NULL NULL
+
+	JCCH1LS1
+		Images:	5941
+		Time:	09.12.2023 07:58:38 until 09.12.2023 11:08:22
+		Duration:	03:09:44
+		Location:	NULL NULL
+
+	JIMD1
+		Images:	13007
+		Time:	09.12.2023 07:09:29 until 09.12.2023 10:56:11
+		Duration:	03:46:42
+		Location:	NULL NULL
+
+	MICM1
+	PETKB1
+		Images:	3146
+		Time:	09.12.2023 08:27:42 until 09.12.2023 12:51:52
+		Duration:	04:24:10
+		Location:	NULL NULL
+
+	REGRB1
+		Images:	9059
+		Time:	09.10.2019 10:28:06 until 26.11.2023 09:52:41
+		Duration:	1508.23:24:35
+		Location:	NULL NULL
+
+	STEB1
+		Images:	1642
+		Time:	09.12.2023 08:01:41 until 09.12.2023 11:29:27
+		Duration:	03:27:46
+		Location:	NULL NULL
+
+(2) - Impressions / Pano
+	PANO1
+(3) - none
+	GGBB1
+		Images:	26614
+		Time:	09.12.2023 08:17:56 until 09.12.2023 11:29:05
+		Duration:	03:11:09
+		Location:	NULL NULL
+

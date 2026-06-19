@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "49.36474" lon = "11.17418"><name>DASA1</name><desc>Ludwig-Main-Donau Kanal
+Images:5217
+First:08.11.2025 06:10:38
+Last:08.11.2025 12:29:58
+Duration:06:19:20
+</desc></wpt>
+<wpt lat = "49.36447" lon = "11.16524"><name>EPR1</name><desc>Ludwig-Main-Donau Kanal
+Images:5689
+First:08.11.2025 08:51:41
+Last:08.11.2025 12:33:42
+Duration:03:42:01
+</desc></wpt>
+<wpt lat = "49.37870" lon = "11.03236"><name>DASA2</name><desc>Finish
+Images:2803
+First:08.11.2025 14:13:12
+Last:08.11.2025 20:18:18
+Duration:06:05:06
+</desc></wpt>
+<wpt lat = "49.37870" lon = "11.03236"><name>DASA2LS1</name><desc>Finish
+Images:293
+First:08.11.2025 14:20:38
+Last:08.11.2025 16:22:36
+Duration:02:01:58
+</desc></wpt>
+<wpt lat = "49.37870" lon = "11.03236"><name>MUT3</name><desc>Finish
+Images:414
+First:08.11.2025 18:21:00
+Last:08.11.2025 21:10:21
+Duration:02:49:21
+</desc></wpt>
+<wpt lat = "49.37870" lon = "11.03236"><name>NJO4LS1</name><desc>Finish
+Images:512
+First:08.11.2025 19:07:09
+Last:08.11.2025 20:38:33
+Duration:01:31:24
+</desc></wpt>
+<wpt lat = "49.37903" lon = "11.03195"><name>DASA3</name><desc>Verpflegungsstation
+Images:40
+First:08.11.2025 12:33:48
+Last:08.11.2025 13:22:32
+Duration:00:48:44
+</desc></wpt>
+<wpt lat = "49.37903" lon = "11.03195"><name>EPR3</name><desc>Verpflegungsstation
+Images:19
+First:08.11.2025 13:07:17
+Last:08.11.2025 13:22:04
+Duration:00:14:47
+</desc></wpt>
+<wpt lat = "49.37866" lon = "11.03208"><name>EPR2</name><desc>Herotent
+Images:916
+First:08.11.2025 14:15:15
+Last:08.11.2025 20:20:35
+Duration:06:05:20
+</desc></wpt>
+<wpt lat = "49.37866" lon = "11.03208"><name>NJO3</name><desc>Herotent
+Images:51
+First:08.11.2025 18:26:13
+Last:08.11.2025 21:11:45
+Duration:02:45:32
+</desc></wpt>
+<wpt lat = "49.37870" lon = "11.03236"><name>MUT1</name><desc>Start
+Images:7169
+First:08.11.2025 05:37:24
+Last:08.11.2025 08:48:32
+Duration:03:11:08
+</desc></wpt>
+<wpt lat = "49.41246" lon = "11.06198"><name>MUT2</name><desc>Mississippi Queen
+Images:5286
+First:08.11.2025 12:31:25
+Last:08.11.2025 17:57:51
+Duration:05:26:26
+</desc></wpt>
+<wpt lat = "49.43489" lon = "11.11745"><name>NJO1</name><desc>Dutzendteich
+Images:2150
+First:08.11.2025 06:46:59
+Last:08.11.2025 08:51:37
+Duration:02:04:38
+</desc></wpt>
+<wpt lat = "49.43489" lon = "11.11745"><name>NJO1LS1</name><desc>Dutzendteich
+Images:2273
+First:08.11.2025 07:03:19
+Last:08.11.2025 08:53:44
+Duration:01:50:25
+</desc></wpt>
+<wpt lat = "49.43489" lon = "11.11745"><name>NJO1LS2</name><desc>Dutzendteich
+Images:469
+First:08.11.2025 07:03:56
+Last:08.11.2025 08:52:50
+Duration:01:48:54
+</desc></wpt>
+<wpt lat = "49.43075" lon = "11.11983"><name>RSJ1</name><desc>Dutzendteich
+Images:1767
+First:08.11.2025 06:32:55
+Last:08.11.2025 08:44:25
+Duration:02:11:30
+</desc></wpt>
+<wpt lat = "49.43075" lon = "11.11983"><name>RSJ1LS1</name><desc>Dutzendteich
+Images:1245
+First:08.11.2025 06:28:27
+Last:08.11.2025 08:48:41
+Duration:02:20:14
+</desc></wpt>
+<wpt lat = "49.40741" lon = "11.0785"><name>NJO1DRONE1</name><desc>Schleuse am Kanal
+Images:6
+First:08.11.2025 12:35:11
+Last:08.11.2025 13:53:26
+Duration:01:18:15
+</desc></wpt>
+<wpt lat = "49.40741" lon = "11.0785"><name>NJO2</name><desc>Schleuse am Kanal
+Images:2117
+First:08.11.2025 13:33:44
+Last:08.11.2025 17:52:05
+Duration:04:18:21
+</desc></wpt>
+<wpt lat = "49.40738" lon = "11.07854"><name>NJO2LS1</name><desc>Schleuse am Kanal
+Images:1822
+First:08.11.2025 13:12:58
+Last:08.11.2025 16:50:12
+Duration:03:37:14
+</desc></wpt>
+<wpt lat = "49.40738" lon = "11.07854"><name>NJO2LS2</name><desc>Schleuse am Kanal
+Images:1904
+First:08.11.2025 12:35:24
+Last:08.11.2025 16:51:12
+Duration:04:15:48
+</desc></wpt>
+<wpt lat = "49.40083" lon = "11.08123"><name>RSJ2</name><desc>Schleuse am Kanal
+Images:2877
+First:08.11.2025 13:26:52
+Last:08.11.2025 17:39:33
+Duration:04:12:41
+</desc></wpt>
+<wpt lat = "49.40083" lon = "11.08123"><name>RSJ2LS1</name><desc>Schleuse am Kanal
+Images:2349
+First:08.11.2025 13:07:15
+Last:08.11.2025 17:31:09
+Duration:04:23:54
+</desc></wpt>
+</gpx>

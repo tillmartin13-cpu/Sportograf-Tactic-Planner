@@ -1,0 +1,250 @@
+EventId: 19212
+Spots: 39
+Total Images: 311678
+Time:	31.12.2006 18:00:01 to 06.10.2025 02:13:49
+Duration: 6853.08:13:48
+
+(1) - 0.0 km catlyzn medals, 863612
+	ACAT1
+		Images:	881
+		Time:	05.10.2025 06:13:02 until 05.10.2025 13:04:18
+		Duration:	06:51:16
+		Location:	NULL NULL
+
+(2) - 0.0 km chanda ounkong, medals, 863604
+	ACHAN1
+		Images:	294
+		Time:	05.10.2025 19:15:46 until 06.10.2025 02:13:49
+		Duration:	06:58:03
+		Location:	NULL NULL
+
+(3) - 0.0 km chris juhn, msc8, 863623
+	KJUHN1
+		Images:	14671
+		Time:	05.10.2025 07:39:47 until 05.10.2025 14:40:41
+		Duration:	07:00:54
+		Location:	NULL NULL
+
+(4) - 0.0 km christina cavitt, medals, 863608
+	ACHRI1
+		Images:	1280
+		Time:	04.10.2025 22:07:26 until 05.10.2025 04:44:29
+		Duration:	06:37:03
+		Location:	NULL NULL
+
+(5) - 0.0 km ethan hunt 863606, medals
+	AETHA1
+		Images:	2803
+		Time:	05.10.2025 07:37:14 until 05.10.2025 14:09:51
+		Duration:	06:32:37
+		Location:	NULL NULL
+
+(6) - 0.0 km Finish Trigger Right Side 863580
+	AFTR1
+		Images:	23524
+		Time:	05.10.2025 07:45:53 until 05.10.2025 14:41:03
+		Duration:	06:55:10
+		Location:	NULL NULL
+
+(7) - 0.0 km gabriella, pfn, 863599
+	GABBY1
+		Images:	9008
+		Time:	05.10.2025 07:48:05 until 05.10.2025 14:51:30
+		Duration:	07:03:25
+		Location:	NULL NULL
+
+(8) - 0.0 km grant, medals
+	KGRAN1
+		Images:	918
+		Time:	05.10.2025 08:04:08 until 05.10.2025 11:50:56
+		Duration:	03:46:48
+		Location:	NULL NULL
+
+(9) - 0.0 km gus gargallo, finish, 863577
+	AGUS1
+		Images:	22970
+		Time:	05.10.2025 08:12:06 until 05.10.2025 14:53:54
+		Duration:	06:41:48
+		Location:	NULL NULL
+
+(10) - 0.0 km ismel mohammed, medals
+	ISH1
+		Images:	1239
+		Time:	05.10.2025 07:43:35 until 05.10.2025 13:57:45
+		Duration:	06:14:10
+		Location:	NULL NULL
+
+(11) - 0.0 km jeff, ofp, 863611
+	AJEFF1
+		Images:	1258
+		Time:	05.10.2025 07:30:51 until 05.10.2025 14:06:37
+		Duration:	06:35:46
+		Location:	NULL NULL
+
+(12) - 0.0 km jonathan roberts, 863597, pre finish
+	AJROB1
+		Images:	18150
+		Time:	05.10.2025 08:11:50 until 05.10.2025 14:53:53
+		Duration:	06:42:03
+		Location:	NULL NULL
+
+(13) - 0.0 km keith, medals, 863615
+	OKEIT1
+		Images:	829
+		Time:	05.10.2025 07:13:09 until 05.10.2025 14:27:55
+		Duration:	07:14:46
+		Location:	NULL NULL
+
+(14) - 0.0 km kurt fagnant, medals, 863607
+	AKURT1
+		Images:	1595
+		Time:	05.10.2025 07:37:51 until 05.10.2025 13:57:50
+		Duration:	06:19:59
+		Location:	NULL NULL
+
+(15) - 0.0 km kzle munshoweer, medals, 863613
+	AKYLE1
+		Images:	805
+		Time:	05.10.2025 07:46:45 until 05.10.2025 14:07:37
+		Duration:	06:20:52
+		Location:	NULL NULL
+
+(16) - 0.0 km kzrstine sanchey, 863610, medals
+	ASAN1
+		Images:	2663
+		Time:	05.10.2023 07:41:25 until 05.10.2023 14:07:30
+		Duration:	06:26:05
+		Location:	NULL NULL
+
+(17) - 0.0 km levi, medals, 863605
+	ALEVI1
+		Images:	539
+		Time:	05.10.2025 06:03:55 until 05.10.2025 13:06:06
+		Duration:	07:02:11
+		Location:	NULL NULL
+
+(18) - 0.0 km lilly dozier, msc 9, 863630
+	YDOZ1
+		Images:	7900
+		Time:	05.10.2025 11:34:13 until 05.10.2025 15:46:14
+		Duration:	04:12:01
+		Location:	NULL NULL
+
+(19) - 0.0 km lucas finish, 863578
+	ALUKE1
+		Images:	29658
+		Time:	05.10.2025 08:41:14 until 05.10.2025 15:54:14
+		Duration:	07:13:00
+		Location:	NULL NULL
+
+(20) - 0.0 km lzdia kelm, medals, 863602
+	LKELM1
+		Images:	706
+		Time:	05.10.2025 07:03:03 until 05.10.2025 13:00:45
+		Duration:	05:57:42
+		Location:	NULL NULL
+
+(21) - 0.0 km lzdia Q, medals, 863615
+	AQ1
+		Images:	1108
+		Time:	05.10.2025 07:09:23 until 05.10.2025 13:22:13
+		Duration:	06:12:50
+		Location:	NULL NULL
+
+(22) - 0.0 km mari woodmansee, msc 9, 863628
+	YMARI1
+		Images:	14199
+		Time:	05.10.2025 07:37:44 until 05.10.2025 13:59:50
+		Duration:	06:22:06
+		Location:	NULL NULL
+
+(23) - 0.0 km paul kelm, pre finish, 863598
+	AKELM1
+		Images:	16019
+		Time:	05.10.2025 07:24:52 until 05.10.2025 14:57:26
+		Duration:	07:32:34
+		Location:	NULL NULL
+
+(24) - 0.0 km pre finish trigger, 863600
+	TPFN1
+		Images:	22694
+		Time:	05.10.2025 08:08:26 until 05.10.2025 14:51:30
+		Duration:	06:43:04
+		Location:	NULL NULL
+
+(25) - 0.0 km pre finish trigger, 863601
+	APFT1
+		Images:	31931
+		Time:	05.10.2025 07:16:18 until 05.10.2025 13:35:04
+		Duration:	06:18:46
+		Location:	NULL NULL
+
+(26) - 0.0 km ryan pletz, ms c8, 863625
+	KPLET1
+		Images:	4072
+		Time:	05.10.2025 10:25:49 until 05.10.2025 13:09:48
+		Duration:	02:43:59
+		Location:	NULL NULL
+
+(27) - 0.0 km scott  homich, msc 9, 863627
+	YSCOT1
+		Images:	3134
+		Time:	05.10.2025 11:03:26 until 05.10.2025 11:54:56
+		Duration:	00:51:30
+		Location:	NULL NULL
+
+(28) - 0.0 km Soren, medals, 863614
+	ASORE1
+		Images:	1107
+		Time:	05.10.2025 07:42:53 until 05.10.2025 14:13:29
+		Duration:	06:30:36
+		Location:	NULL NULL
+
+(29) - 0.0 km thom abbott, medals, 863609
+	THOM1
+		Images:	250
+		Time:	05.10.2025 07:18:47 until 05.10.2025 14:17:03
+		Duration:	06:58:16
+		Location:	NULL NULL
+
+(30) - 0.0 km travis meier, msc5, 863616
+	ATRAV1
+		Images:	5505
+		Time:	05.10.2025 07:11:12 until 05.10.2025 13:03:52
+		Duration:	05:52:40
+		Location:	NULL NULL
+
+(31) - 0.0 km trigger, msc 5, 863618
+	ACINC1
+		Images:	16106
+		Time:	05.10.2025 06:57:12 until 05.10.2025 13:01:01
+		Duration:	06:03:49
+		Location:	NULL NULL
+
+(32) - 0.0 km trigger, msc 8, 863624
+	OCHO1
+(33) - 0.0 km trigger, msc 9, 863631
+	NINE1
+		Images:	16031
+		Time:	05.10.2025 06:27:06 until 05.10.2025 14:43:00
+		Duration:	08:15:54
+		Location:	NULL NULL
+
+(34) - Impressions / Pano
+	PANO1
+(35) - none
+	FREE1
+		Images:	20893
+		Time:	31.12.2006 18:00:01 until 31.12.2006 22:03:46
+		Duration:	04:03:45
+		Location:	NULL NULL
+
+	SGENT1
+		Images:	16938
+		Time:	05.10.2025 05:49:27 until 05.10.2025 12:44:31
+		Duration:	06:55:04
+		Location:	NULL NULL
+
+	SGENT2
+	SGENT3
+	SGENT4

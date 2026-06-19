@@ -1,0 +1,157 @@
+EventId: 10439
+Spots: 33
+Total Images: 119668
+Time:	28.08.2023 12:17:39 to 01.10.2023 15:24:13
+Duration: 34.03:06:34
+
+(1) - 0.0 km Finish - Abdo Sharhan - 852430
+	SHARA3
+(2) - 0.0 km Finish - Trigger 1 - 852431
+	SHARA1
+		Images:	6448
+		Time:	01.10.2023 06:32:41 until 01.10.2023 14:09:54
+		Duration:	07:37:13
+		Location:	NULL NULL
+
+(3) - 0.0 km Finish - Trigger 2 - 852432
+	SHARA2
+(4) - 0.0 km Full Pre-Race Candids - Rachel Czech - 852448
+	RCZEC1
+(5) - 0.0 km Full Start - Rachel Czech - 852449
+	RCZEC2
+(6) - 0.0 km Half Pre-Race Candids - Druscilla Lam - 852445
+	DLAM1
+		Images:	2
+		Time:	28.08.2023 12:17:39 until 28.08.2023 12:19:30
+		Duration:	00:01:51
+		Location:	NULL NULL
+
+(7) - 0.0 km Half Start - Druscilla Lam - 852446
+	DLAM2
+(8) - 0.0 km Half Start Candids - Druscilla Lam - 852439
+	DRUL1
+		Images:	503
+		Time:	28.08.2023 12:17:39 until 01.10.2023 07:46:11
+		Duration:	33.19:28:32
+		Location:	NULL NULL
+
+(9) - 0.0 km Half Start/PRs - Druscilla Lam - 852439
+	DRUL2
+		Images:	239
+		Time:	30.09.2023 23:27:20 until 01.10.2023 12:09:59
+		Duration:	12:42:39
+		Location:	NULL NULL
+
+(10) - 0.0 km Medals - Rachel Czech - 852433
+	RCZEC3
+(11) - 0.0 km MSC 1 - Trent Wellot - 852435
+	TWELL1
+		Images:	2235
+		Time:	01.10.2023 07:43:33 until 01.10.2023 08:48:31
+		Duration:	01:04:58
+		Location:	NULL NULL
+
+(12) - 0.0 km MSC 1 - Trigger - 852436
+	TWELL2
+		Images:	1869
+		Time:	01.10.2023 07:31:03 until 01.10.2023 09:01:16
+		Duration:	01:30:13
+		Location:	NULL NULL
+
+(13) - 0.0 km MSC 2 - Terry Wherry - 852437
+	TWHER1
+	WHERR1
+		Images:	4666
+		Time:	01.10.2023 07:55:42 until 01.10.2023 11:33:40
+		Duration:	03:37:58
+		Location:	NULL NULL
+
+(14) - 0.0 km MSC 2 - Trigger - 852438
+	TWHER2
+	WHERR3
+		Images:	5100
+		Time:	01.10.2023 07:50:16 until 01.10.2023 11:38:55
+		Duration:	03:48:39
+		Location:	NULL NULL
+
+(15) - 0.0 km MSC 3 - Helen Knowles - 852434
+	HELEN1
+		Images:	10729
+		Time:	01.10.2023 08:36:28 until 01.10.2023 14:59:08
+		Duration:	06:22:40
+		Location:	NULL NULL
+
+	HKNOW1
+(16) - 0.0 km MSC 3 - Michael Wanczak - 852440
+	MWANC1
+(17) - 0.0 km MSC 3 - Trigger
+	HELEN2
+		Images:	15266
+		Time:	01.10.2023 07:55:15 until 01.10.2023 13:06:21
+		Duration:	05:11:06
+		Location:	NULL NULL
+
+(18) - 0.0 km MSC 4 - Rick Penny  852452
+	RICKP1
+		Images:	6188
+		Time:	01.10.2023 08:49:12 until 01.10.2023 15:14:54
+		Duration:	06:25:42
+		Location:	NULL NULL
+
+(19) - 0.0 km MSC 4 - Rick Penny - 852452
+	RPENN1
+(20) - 0.0 km MSC 4 - Terry Wherry - 852453
+	TWHER3
+	WHERR2
+		Images:	2743
+		Time:	01.10.2023 12:34:08 until 01.10.2023 14:19:14
+		Duration:	01:45:06
+		Location:	NULL NULL
+
+(21) - 0.0 km MSC 4 - Trigger - 852454
+	RICKP2
+		Images:	10147
+		Time:	01.10.2023 06:18:07 until 01.10.2023 12:52:00
+		Duration:	06:33:53
+		Location:	NULL NULL
+
+	RPENN2
+(22) - 0.0 km OFP - Druscilla Lam - 852439
+	DLAM3
+(23) - 0.0 km Pre-Finish - Tim Hanna - 852442
+	THANN1
+		Images:	11934
+		Time:	28.08.2023 12:17:39 until 01.10.2023 12:17:01
+		Duration:	33.23:59:22
+		Location:	NULL NULL
+
+(24) - 0.0 km Pre-Finish - Tim Hanna - Redo - 852442
+	THANN3
+		Images:	17950
+		Time:	01.10.2023 08:27:46 until 01.10.2023 15:24:13
+		Duration:	06:56:27
+		Location:	NULL NULL
+
+(25) - 0.0 km Pre-Finish - Trent Wellot - 852443
+	TWELL3
+		Images:	7205
+		Time:	01.10.2023 10:19:52 until 01.10.2023 14:36:18
+		Duration:	04:16:26
+		Location:	NULL NULL
+
+(26) - 0.0 km Pre-Finish - Trigger 1 - 852444
+	THANN2
+		Images:	10846
+		Time:	01.10.2023 07:01:46 until 01.10.2023 15:16:25
+		Duration:	08:14:39
+		Location:	NULL NULL
+
+(27) - 0.0 km Pre-Finish - Trigger 2 -
+	TWELL4
+		Images:	5598
+		Time:	01.10.2023 10:09:49 until 01.10.2023 14:39:46
+		Duration:	04:29:57
+		Location:	NULL NULL
+
+(28) - Impressions / Pano
+	PANO1

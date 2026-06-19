@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "29.39761" lon = "47.93079"><name>AZF1</name><desc>5,0 km
+Images:716
+First:22.02.2025 04:57:09
+Last:22.02.2025 07:23:21
+Duration:02:26:12
+</desc></wpt>
+<wpt lat = "29.39761" lon = "47.93079"><name>YAS1</name><desc>5,0 km
+Images:868
+First:22.02.2025 05:00:38
+Last:22.02.2025 07:23:34
+Duration:02:22:56
+</desc></wpt>
+<wpt lat = "29.39749" lon = "47.93303"><name>AZF2</name><desc>Finish
+Images:1947
+First:22.02.2025 07:24:31
+Last:22.02.2025 09:51:30
+Duration:02:26:59
+</desc></wpt>
+<wpt lat = "29.39749" lon = "47.93303"><name>YAS2</name><desc>Finish
+Images:4747
+First:22.02.2025 07:24:37
+Last:22.02.2025 09:25:22
+Duration:02:00:45
+</desc></wpt>
+<wpt lat = "29.39407" lon = "47.92791"><name>BUR1</name><desc>4,5 km
+Images:1691
+First:22.02.2025 05:21:09
+Last:22.02.2025 09:57:19
+Duration:04:36:10
+</desc></wpt>
+<wpt lat = "29.39407" lon = "47.92791"><name>BUR1DRONE1</name><desc>4,5 km
+Images:66
+First:22.02.2025 07:39:58
+Last:22.02.2025 08:50:42
+Duration:01:10:44
+</desc></wpt>
+<wpt lat = "29.36841" lon = "47.90921"><name>MUP1</name><desc>Start
+Images:2894
+First:22.02.2025 06:33:40
+Last:22.02.2025 09:00:01
+Duration:02:26:21
+</desc></wpt>
+<wpt lat = "29.37893" lon = "47.91466"><name>YUM1DRONE1</name><desc>2,0 km
+Images:53
+First:22.02.2025 06:40:33
+Last:22.02.2025 09:28:48
+Duration:02:48:15
+</desc></wpt>
+<wpt lat = "29.37893" lon = "47.91466"><name>YUM1</name><desc>2,0 km
+Images:1536
+First:22.02.2025 07:15:06
+Last:22.02.2025 08:53:30
+Duration:01:38:24
+</desc></wpt>
+</gpx>

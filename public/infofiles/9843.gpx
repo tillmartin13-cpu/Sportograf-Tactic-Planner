@@ -1,0 +1,423 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "39.68341" lon = "2.50044"><name>MHO1</name><desc>106.0 km
+Images:6066
+First:29.04.2023 09:16:50
+Last:29.04.2023 12:36:00
+Duration:03:19:10
+</desc></wpt>
+<wpt lat = "39.68341" lon = "2.50044"><name>MHO1DRONE1</name><desc>106.0 km
+Images:13
+First:29.04.2023 12:06:30
+Last:29.04.2023 12:10:32
+Duration:00:04:02
+</desc></wpt>
+<wpt lat = "39.68341" lon = "2.50044"><name>MHO1LS2</name><desc>106.0 km
+Images:2997
+First:29.04.2023 08:32:25
+Last:29.04.2023 12:48:58
+Duration:04:16:33
+</desc></wpt>
+<wpt lat = "39.68341" lon = "2.50044"><name>MHO2LS1</name><desc>106.0 km
+Images:1431
+First:29.04.2023 16:04:19
+Last:29.04.2023 17:59:47
+Duration:01:55:28
+</desc></wpt>
+<wpt lat = "39.7648" lon = "2.65516"><name>MICE1</name><desc>112.0 km
+Images:7824
+First:29.04.2023 07:50:52
+Last:29.04.2023 10:54:35
+Duration:03:03:43
+</desc></wpt>
+<wpt lat = "39.7648" lon = "2.65516"><name>MICE1LS2</name><desc>112.0 km
+Images:12564
+First:29.04.2023 07:46:34
+Last:29.04.2023 09:59:10
+Duration:02:12:36
+</desc></wpt>
+<wpt lat = "39.65341" lon = "2.48227"><name>MLU1</name><desc>112.0 km
+Images:7500
+First:29.04.2023 08:46:52
+Last:29.04.2023 12:48:43
+Duration:04:01:51
+</desc></wpt>
+<wpt lat = "39.64549" lon = "2.45166"><name>FRN1</name><desc>117.0 km
+Images:11564
+First:29.04.2023 09:13:38
+Last:29.04.2023 13:02:30
+Duration:03:48:52
+</desc></wpt>
+<wpt lat = "39.64549" lon = "2.45166"><name>FRN1LS1</name><desc>117.0 km
+Images:3749
+First:29.04.2023 08:42:39
+Last:29.04.2023 13:06:32
+Duration:04:23:53
+</desc></wpt>
+<wpt lat = "39.69102" lon = "2.78880"><name>TGM2</name><desc>160,0 km
+Images:2215
+First:29.04.2023 14:32:20
+Last:29.04.2023 17:34:37
+Duration:03:02:17
+</desc></wpt>
+<wpt lat = "39.69102" lon = "2.78880"><name>TGM2LS1</name><desc>160,0 km
+Images:2318
+First:29.04.2023 14:26:00
+Last:29.04.2023 17:03:24
+Duration:02:37:24
+</desc></wpt>
+<wpt lat = "39.69102" lon = "2.78880"><name>TGM2LS2</name><desc>160,0 km
+Images:2600
+First:29.04.2023 14:17:21
+Last:29.04.2023 17:31:41
+Duration:03:14:20
+</desc></wpt>
+<wpt lat = "39.72119" lon = "2.82851"><name>JLTG2</name><desc>169,0 km
+Images:3341
+First:29.04.2023 15:02:54
+Last:29.04.2023 17:32:16
+Duration:02:29:22
+</desc></wpt>
+<wpt lat = "39.72119" lon = "2.82851"><name>JLTG2LS1</name><desc>169,0 km
+Images:2455
+First:29.04.2023 14:35:41
+Last:29.04.2023 17:47:04
+Duration:03:11:23
+</desc></wpt>
+<wpt lat = "39.64089" lon = "3.17471"><name>MHO2</name><desc>170.0 km
+Images:2300
+First:29.04.2023 16:12:16
+Last:29.04.2023 18:22:02
+Duration:02:09:46
+</desc></wpt>
+<wpt lat = "39.72077" lon = "2.84435"><name>MANR2</name><desc>171,0 km
+Images:4760
+First:29.04.2023 14:46:11
+Last:29.04.2023 17:31:20
+Duration:02:45:09
+</desc></wpt>
+<wpt lat = "39.72077" lon = "2.84435"><name>MANR2LS1</name><desc>171,0 km
+Images:2240
+First:29.04.2023 14:37:22
+Last:29.04.2023 17:31:21
+Duration:02:53:59
+</desc></wpt>
+<wpt lat = "39.72077" lon = "2.84435"><name>MANR2LS2</name><desc>171,0 km
+Images:2261
+First:29.04.2023 15:51:28
+Last:29.04.2023 18:28:16
+Duration:02:36:48
+</desc></wpt>
+<wpt lat = "39.71656" lon = "2.85291"><name>JCR2</name><desc>172,0 km
+Images:3304
+First:29.04.2023 13:19:17
+Last:29.04.2023 17:46:27
+Duration:04:27:10
+</desc></wpt>
+<wpt lat = "39.71656" lon = "2.85291"><name>JCR2LS1</name><desc>172,0 km
+Images:4090
+First:29.04.2023 13:09:07
+Last:29.04.2023 17:49:43
+Duration:04:40:36
+</desc></wpt>
+<wpt lat = "39.71656" lon = "2.85291"><name>JCR2LS2</name><desc>172,0 km
+Images:3680
+First:29.04.2023 12:10:56
+Last:29.04.2023 16:22:28
+Duration:04:11:32
+</desc></wpt>
+<wpt lat = "39.71259" lon = "2.85866"><name>DR2</name><desc>175,0 km
+Images:12602
+First:29.04.2023 13:02:36
+Last:29.04.2023 17:55:10
+Duration:04:52:34
+</desc></wpt>
+<wpt lat = "39.71142" lon = "2.86075"><name>AMRU2</name><desc>176,0 km
+Images:4064
+First:29.04.2023 13:02:23
+Last:29.04.2023 17:57:38
+Duration:04:55:15
+</desc></wpt>
+<wpt lat = "39.71142" lon = "2.86075"><name>RAB2</name><desc>178,0 km
+Images:5786
+First:29.04.2023 13:35:04
+Last:29.04.2023 18:11:56
+Duration:04:36:52
+</desc></wpt>
+<wpt lat = "39.77789" lon = "2.95280"><name>MPP2</name><desc>179,0 km
+Images:2996
+First:29.04.2023 13:46:02
+Last:29.04.2023 14:59:27
+Duration:01:13:25
+</desc></wpt>
+<wpt lat = "39.77789" lon = "2.95280"><name>MPP2LS1</name><desc>179,0 km
+Images:2729
+First:29.04.2023 13:40:02
+Last:29.04.2023 15:01:48
+Duration:01:21:46
+</desc></wpt>
+<wpt lat = "39.61890" lon = "3.12405"><name>MICE2</name><desc>201.0 km
+Images:1830
+First:29.04.2023 13:01:57
+Last:29.04.2023 17:11:45
+Duration:04:09:48
+</desc></wpt>
+<wpt lat = "39.61890" lon = "3.12405"><name>MICE2LS1</name><desc>201.0 km
+Images:1684
+First:29.04.2023 12:58:07
+Last:29.04.2023 17:11:45
+Duration:04:13:38
+</desc></wpt>
+<wpt lat = "39.63214" lon = "3.16708"><name>MLU2</name><desc>215.0 km
+Images:3009
+First:29.04.2023 15:50:01
+Last:29.04.2023 18:25:35
+Duration:02:35:34
+</desc></wpt>
+<wpt lat = "39.63301" lon = "3.16677"><name>FRN2</name><desc>217.0 km
+Images:3035
+First:29.04.2023 15:59:30
+Last:29.04.2023 18:20:56
+Duration:02:21:26
+</desc></wpt>
+<wpt lat = "39.63301" lon = "3.16677"><name>FRN2LS1</name><desc>217.0 km
+Images:1882
+First:29.04.2023 15:46:18
+Last:29.04.2023 18:25:02
+Duration:02:38:44
+</desc></wpt>
+<wpt lat = "39.63813" lon = "3.14118"><name>GETK2</name><desc>248,0 km
+Images:5469
+First:29.04.2023 13:47:07
+Last:29.04.2023 18:33:03
+Duration:04:45:56
+</desc></wpt>
+<wpt lat = "39.62921" lon = "3.13156"><name>ACC2</name><desc>250,0 km
+Images:2271
+First:29.04.2023 13:50:01
+Last:29.04.2023 18:29:45
+Duration:04:39:44
+</desc></wpt>
+<wpt lat = "39.62921" lon = "3.13156"><name>ACC2LS1</name><desc>250,0 km
+Images:1926
+First:29.04.2023 13:59:45
+Last:29.04.2023 18:18:14
+Duration:04:18:29
+</desc></wpt>
+<wpt lat = "39.86622" lon = "2.92356"><name>JMP1</name><desc>30.0 km
+Images:4188
+First:29.04.2023 07:11:55
+Last:29.04.2023 08:43:47
+Duration:01:31:52
+</desc></wpt>
+<wpt lat = "39.86622" lon = "2.92356"><name>JMP1LS1</name><desc>30.0 km
+Images:4298
+First:29.04.2023 07:01:43
+Last:29.04.2023 08:41:09
+Duration:01:39:26
+</desc></wpt>
+<wpt lat = "39.86622" lon = "2.92356"><name>JMP2DRONE1</name><desc>30.0 km
+Images:105
+First:29.04.2023 06:33:58
+Last:29.04.2023 13:49:43
+Duration:07:15:45
+</desc></wpt>
+<wpt lat = "39.86488" lon = "2.91917"><name>LYB1</name><desc>30.0 km
+Images:6130
+First:29.04.2023 07:09:17
+Last:29.04.2023 08:45:29
+Duration:01:36:12
+</desc></wpt>
+<wpt lat = "39.82876" lon = "2.83716"><name>TGM1</name><desc>45,0 km
+Images:6815
+First:29.04.2023 08:00:25
+Last:29.04.2023 10:14:41
+Duration:02:14:16
+</desc></wpt>
+<wpt lat = "39.82876" lon = "2.83716"><name>TGM1LS1</name><desc>45,0 km
+Images:4929
+First:29.04.2023 06:48:13
+Last:29.04.2023 09:55:06
+Duration:03:06:53
+</desc></wpt>
+<wpt lat = "39.82876" lon = "2.83716"><name>TGM1LS2</name><desc>45,0 km
+Images:4014
+First:29.04.2023 06:35:59
+Last:29.04.2023 09:56:35
+Duration:03:20:36
+</desc></wpt>
+<wpt lat = "39.80717" lon = "2.8193"><name>JLTG1</name><desc>49,0 km
+Images:7569
+First:29.04.2023 07:40:07
+Last:29.04.2023 11:07:18
+Duration:03:27:11
+</desc></wpt>
+<wpt lat = "39.80717" lon = "2.8193"><name>JLTG1LS1</name><desc>49,0 km
+Images:1760
+First:29.04.2023 07:03:37
+Last:29.04.2023 10:07:08
+Duration:03:03:31
+</desc></wpt>
+<wpt lat = "39.80717" lon = "2.8193"><name>JLTG1LS2</name><desc>49,0 km
+Images:4164
+First:29.04.2023 06:55:38
+Last:29.04.2023 09:29:54
+Duration:02:34:16
+</desc></wpt>
+<wpt lat = "39.79052" lon = "2.77442"><name>MANR1</name><desc>56,0 km
+Images:11492
+First:29.04.2023 07:25:59
+Last:29.04.2023 10:58:38
+Duration:03:32:39
+</desc></wpt>
+<wpt lat = "39.79052" lon = "2.77442"><name>MANR1LS1</name><desc>56,0 km
+Images:5637
+First:29.04.2023 07:58:42
+Last:29.04.2023 11:54:19
+Duration:03:55:37
+</desc></wpt>
+<wpt lat = "39.79771" lon = "2.7732"><name>AMRU1</name><desc>57,3 km
+Images:7552
+First:29.04.2023 08:12:10
+Last:29.04.2023 11:09:33
+Duration:02:57:23
+</desc></wpt>
+<wpt lat = "39.79771" lon = "2.7732"><name>AMRU1LS1</name><desc>57,3 km
+Images:3045
+First:29.04.2023 07:47:28
+Last:29.04.2023 09:22:27
+Duration:01:34:59
+</desc></wpt>
+<wpt lat = "39.7962" lon = "2.76696"><name>JCR1</name><desc>59,0 km
+Images:3510
+First:29.04.2023 08:13:57
+Last:29.04.2023 10:51:51
+Duration:02:37:54
+</desc></wpt>
+<wpt lat = "39.7962" lon = "2.76696"><name>JCR1LS1</name><desc>59,0 km
+Images:5078
+First:29.04.2023 07:58:56
+Last:29.04.2023 10:51:47
+Duration:02:52:51
+</desc></wpt>
+<wpt lat = "39.7962" lon = "2.76696"><name>JCR1LS2</name><desc>59,0 km
+Images:3988
+First:29.04.2023 07:03:51
+Last:29.04.2023 08:47:43
+Duration:01:43:52
+</desc></wpt>
+<wpt lat = "39.79196" lon = "2.73623"><name>DR1</name><desc>63,7 km
+Images:12622
+First:29.04.2023 08:31:05
+Last:29.04.2023 10:49:17
+Duration:02:18:12
+</desc></wpt>
+<wpt lat = "39.79196" lon = "2.73623"><name>DR1LS1</name><desc>63,7 km
+Images:1245
+First:29.04.2023 08:24:58
+Last:29.04.2023 10:41:27
+Duration:02:16:29
+</desc></wpt>
+<wpt lat = "39.79196" lon = "2.73623"><name>DR1LS2</name><desc>63,7 km
+Images:4000
+First:29.04.2023 08:29:36
+Last:29.04.2023 10:06:39
+Duration:01:37:03
+</desc></wpt>
+<wpt lat = "39.79196" lon = "2.73623"><name>DR1LS3</name><desc>63,7 km
+Images:828
+First:29.04.2023 08:26:05
+Last:29.04.2023 10:40:27
+Duration:02:14:22
+</desc></wpt>
+<wpt lat = "39.78463" lon = "2.73388"><name>ACC1LS1</name><desc>66,8 km
+Images:6367
+First:29.04.2023 08:52:29
+Last:29.04.2023 12:04:48
+Duration:03:12:19
+</desc></wpt>
+<wpt lat = "39.78463" lon = "2.73388"><name>MPP1</name><desc>66,8 km
+Images:6876
+First:29.04.2023 08:31:53
+Last:29.04.2023 11:40:36
+Duration:03:08:43
+</desc></wpt>
+<wpt lat = "39.78463" lon = "2.73388"><name>MPP1LS1</name><desc>66,8 km
+Images:6838
+First:29.04.2023 08:27:14
+Last:29.04.2023 10:51:41
+Duration:02:24:27
+</desc></wpt>
+<wpt lat = "39.78463" lon = "2.73388"><name>MPP1LS2</name><desc>66,8 km
+Images:8339
+First:29.04.2023 08:25:11
+Last:29.04.2023 10:52:19
+Duration:02:27:08
+</desc></wpt>
+<wpt lat = "39.77427" lon = "2.69845"><name>RAB1</name><desc>72,0 km
+Images:5545
+First:29.04.2023 07:32:16
+Last:29.04.2023 12:15:59
+Duration:04:43:43
+</desc></wpt>
+<wpt lat = "39.7463" lon = "2.64951"><name>ACC1</name><desc>80,5 km
+Images:11259
+First:29.04.2023 08:55:55
+Last:29.04.2023 12:03:26
+Duration:03:07:31
+</desc></wpt>
+<wpt lat = "39.75601" lon = "2.63285"><name>GETK3</name><desc>84,0 km
+Images:14358
+First:29.04.2023 07:10:48
+Last:29.04.2023 12:14:40
+Duration:05:03:52
+</desc></wpt>
+<wpt lat = "39.80667" lon = "3.11683"><name>JMP2</name><desc>Finish
+Images:8753
+First:29.04.2023 10:56:33
+Last:29.04.2023 21:08:21
+Duration:10:11:48
+</desc></wpt>
+<wpt lat = "39.80667" lon = "3.11683"><name>JMP2LS1</name><desc>Finish
+Images:6284
+First:29.04.2023 10:36:52
+Last:29.04.2023 20:43:51
+Duration:10:06:59
+</desc></wpt>
+<wpt lat = "39.86488" lon = "2.91917"><name>LYB2</name><desc>Finish
+Images:8142
+First:29.04.2023 11:22:46
+Last:29.04.2023 20:41:51
+Duration:09:19:05
+</desc></wpt>
+<wpt lat = "39.86488" lon = "2.91917"><name>ROG2</name><desc>Finish
+Images:8240
+First:29.04.2023 11:14:47
+Last:29.04.2023 20:49:05
+Duration:09:34:18
+</desc></wpt>
+<wpt lat = "39.86488" lon = "2.91917"><name>ROG2LS1</name><desc>Finish
+Images:6084
+First:29.04.2023 10:44:28
+Last:29.04.2023 20:43:58
+Duration:09:59:30
+</desc></wpt>
+<wpt lat = "39.80833" lon = "3.11649"><name>ROG1</name><desc>Start
+Images:3434
+First:29.04.2023 06:10:43
+Last:29.04.2023 17:36:19
+Duration:11:25:36
+</desc></wpt>
+<wpt lat = "39.80833" lon = "3.11649"><name>ROG1LS1</name><desc>Start
+Images:860
+First:29.04.2023 06:49:04
+Last:29.04.2023 07:06:52
+Duration:00:17:48
+</desc></wpt>
+<wpt lat = "39.80833" lon = "3.11649"><name>ROG2LS2</name><desc>Start
+Images:6230
+First:29.04.2023 10:47:08
+Last:29.04.2023 20:43:51
+Duration:09:56:43
+</desc></wpt>
+</gpx>

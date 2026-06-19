@@ -1,0 +1,195 @@
+EventId: 13879
+Spots: 29
+Total Images: 87640
+Time:	10.05.2025 06:17:00 to 11.05.2025 18:19:06
+Duration: 1.12:02:06
+
+(1) - Obstacle 5 Schaumparty
+	AAB1
+		Images:	5000
+		Time:	10.05.2025 13:30:40 until 10.05.2025 15:34:33
+		Duration:	02:03:53
+		Location:	50.32238 6.93551
+
+	AAB1LS1
+		Images:	2509
+		Time:	10.05.2025 13:37:50 until 10.05.2025 15:20:27
+		Duration:	01:42:37
+		Location:	50.32238 6.93551
+
+	DRI4
+		Images:	88
+		Time:	10.05.2025 14:20:56 until 10.05.2025 14:22:26
+		Duration:	00:01:30
+		Location:	50.32238 6.93551
+
+(2) - Obstacle 2  Mount Neverrest
+	ALN1
+		Images:	14504
+		Time:	10.05.2025 13:13:32 until 10.05.2025 16:29:00
+		Duration:	03:15:28
+		Location:	50.32757 6.93821
+
+	ALN2LS2
+		Images:	2133
+		Time:	10.05.2025 12:47:10 until 10.05.2025 16:07:53
+		Duration:	03:20:43
+		Location:	50.32757 6.93821
+
+	ALN2LS1
+		Images:	2751
+		Time:	10.05.2025 12:46:59 until 10.05.2025 16:07:42
+		Duration:	03:20:43
+		Location:	50.32757 6.93821
+
+	DRI2
+		Images:	1339
+		Time:	10.05.2025 13:28:22 until 10.05.2025 13:42:12
+		Duration:	00:13:50
+		Location:	50.32757 6.93821
+
+(3) - Obstacle 1 Drehwurm
+	ALN1LS2
+		Images:	3704
+		Time:	10.05.2025 12:37:59 until 10.05.2025 16:21:07
+		Duration:	03:43:08
+		Location:	50.32757 6.93821
+
+(4) - Obstacle 1  Drehwurm
+	ALN1LS1
+		Images:	3138
+		Time:	10.05.2025 12:38:15 until 10.05.2025 16:21:23
+		Duration:	03:43:08
+		Location:	50.32757 6.93821
+
+(5) - Obstacle 12 Rubber Luck
+	ANR1
+		Images:	6337
+		Time:	10.05.2025 13:51:17 until 10.05.2025 17:39:07
+		Duration:	03:47:50
+		Location:	50.33657 6.94094
+
+(6) - Obstacle 14 Matschepampe
+	AZI1
+		Images:	10571
+		Time:	10.05.2025 06:17:00 until 10.05.2025 17:44:38
+		Duration:	11:27:38
+		Location:	50.33568 6.93614
+
+(7) - Start
+	DPH1
+		Images:	439
+		Time:	10.05.2025 12:37:26 until 10.05.2025 13:28:33
+		Duration:	00:51:07
+		Location:	50.32470 6.93439
+
+	DRI1
+		Images:	800
+		Time:	10.05.2025 12:36:51 until 10.05.2025 13:18:44
+		Duration:	00:41:53
+		Location:	50.32470 6.93439
+
+	MB1
+		Images:	922
+		Time:	10.05.2025 12:36:35 until 10.05.2025 13:58:01
+		Duration:	01:21:26
+		Location:	50.32470 6.93439
+
+(8) - Obstacle 17 Spiderman
+	DPH3
+		Images:	2667
+		Time:	10.05.2025 15:11:45 until 10.05.2025 17:43:07
+		Duration:	02:31:22
+		Location:	50.32469 6.93387
+
+(9) - Obstacle 19  Rutsche Tribüne
+	DPH2
+		Images:	1132
+		Time:	10.05.2025 13:48:30 until 10.05.2025 15:06:27
+		Duration:	01:17:57
+		Location:	50.32512 6.93454
+
+	MB2
+		Images:	3992
+		Time:	10.05.2025 14:09:34 until 10.05.2025 17:58:42
+		Duration:	03:49:08
+		Location:	50.32512 6.93454
+
+(10) - Obstacle 7 Knochenmühle
+	DRI3
+		Images:	313
+		Time:	10.05.2025 13:55:19 until 10.05.2025 13:58:10
+		Duration:	00:02:51
+		Location:	50.32417 6.91998
+
+(11) - Obstacle 20  Endgegner
+	DRI5
+		Images:	620
+		Time:	10.05.2025 14:47:44 until 10.05.2025 15:40:45
+		Duration:	00:53:01
+		Location:	50.32512 6.93454
+
+(12) - Herotent
+	DRI6
+		Images:	306
+		Time:	10.05.2025 15:53:26 until 10.05.2025 16:23:02
+		Duration:	00:29:36
+		Location:	50.32584 6.93558
+
+	NBA1
+		Images:	1344
+		Time:	10.05.2025 14:07:47 until 10.05.2025 18:07:55
+		Duration:	04:00:08
+		Location:	50.32584 6.93558
+
+(13) - Finish
+	DRI1LS2
+		Images:	4088
+		Time:	11.05.2025 13:18:11 until 11.05.2025 18:19:06
+		Duration:	05:00:55
+		Location:	50.32512 6.93454
+
+	DRI1DRONE2
+		Images:	13
+		Time:	10.05.2025 15:41:24 until 10.05.2025 15:46:48
+		Duration:	00:05:24
+		Location:	50.32512 6.93454
+
+	DRI1LS1
+		Images:	3521
+		Time:	10.05.2025 13:55:34 until 10.05.2025 18:17:46
+		Duration:	04:22:12
+		Location:	50.32512 6.93454
+
+	HJS1
+		Images:	2110
+		Time:	10.05.2025 13:19:49 until 10.05.2025 17:43:28
+		Duration:	04:23:39
+		Location:	50.32512 6.93454
+
+(14) - Obstacle 13 Das große Krabbeln
+	VIT1
+		Images:	4413
+		Time:	10.05.2025 13:53:47 until 10.05.2025 17:43:33
+		Duration:	03:49:46
+		Location:	50.33568 6.93614
+
+(15) - Obstacle 6  Krabbelland
+	OP1
+		Images:	2657
+		Time:	10.05.2025 13:49:15 until 10.05.2025 17:02:15
+		Duration:	03:13:00
+		Location:	50.32092 6.92869
+
+	OP1LS2
+		Images:	3030
+		Time:	10.05.2025 13:15:16 until 10.05.2025 17:01:38
+		Duration:	03:46:22
+		Location:	50.32092 6.92869
+
+	OP1LS1
+		Images:	3199
+		Time:	10.05.2025 11:53:34 until 10.05.2025 17:02:39
+		Duration:	05:09:05
+		Location:	50.32092 6.92869
+

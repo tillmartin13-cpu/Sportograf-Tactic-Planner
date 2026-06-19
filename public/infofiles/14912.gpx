@@ -1,0 +1,729 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "48.24123" lon = "7.38290"><name>MAPP1</name><desc>Start 100K - Orschwiller
+Images:468
+First:16.05.2025 06:26:42
+Last:16.05.2025 07:30:35
+Duration:01:03:53
+</desc></wpt>
+<wpt lat = "48.24027" lon = "7.37927"><name>BECK1</name><desc>0.4 km Orschwiller - Église Saint-Maurice (100K)
+Images:1033
+First:16.05.2025 07:02:05
+Last:16.05.2025 07:34:20
+Duration:00:32:15
+</desc></wpt>
+<wpt lat = "48.24027" lon = "7.37927"><name>BECK1LS1</name><desc>0.4 km Orschwiller - Église Saint-Maurice (100K)
+Images:640
+First:16.05.2025 06:59:11
+Last:16.05.2025 07:39:51
+Duration:00:40:40
+</desc></wpt>
+<wpt lat = "48.24027" lon = "7.37927"><name>BECK1LS2</name><desc>0.4 km Orschwiller - Église Saint-Maurice (100K)
+Images:534
+First:16.05.2025 06:53:01
+Last:16.05.2025 07:36:12
+Duration:00:43:11
+</desc></wpt>
+<wpt lat = "48.22501" lon = "7.35330"><name>HS1</name><desc>3.6 km Rodern - Église Saint-Georges (100K)
+Images:1560
+First:16.05.2025 07:08:32
+Last:16.05.2025 08:04:18
+Duration:00:55:46
+</desc></wpt>
+<wpt lat = "48.22501" lon = "7.35330"><name>HS1LS1</name><desc>3.6 km Rodern - Église Saint-Georges (100K)
+Images:972
+First:16.05.2025 06:56:37
+Last:16.05.2025 07:59:16
+Duration:01:02:39
+</desc></wpt>
+<wpt lat = "48.24948" lon = "7.34423"><name>AGU1</name><desc>10.0 km Château du Haut-Koenigsbourg (100K)
+Images:1966
+First:16.05.2025 07:53:53
+Last:16.05.2025 09:24:28
+Duration:01:30:35
+</desc></wpt>
+<wpt lat = "48.24948" lon = "7.34423"><name>AGU1LS2</name><desc>10.0 km Château du Haut-Koenigsbourg (100K)
+Images:1408
+First:16.05.2025 07:45:14
+Last:16.05.2025 09:31:45
+Duration:01:46:31
+</desc></wpt>
+<wpt lat = "48.24948" lon = "7.34423"><name>AGU1LS1</name><desc>10.0 km Château du Haut-Koenigsbourg (100K)
+Images:1406
+First:16.05.2025 07:47:00
+Last:16.05.2025 09:35:20
+Duration:01:48:20
+</desc></wpt>
+<wpt lat = "48.24905" lon = "7.33941"><name>LUJ1</name><desc>10.0 km Château du Haut-Koenigsbourg (100K)
+Images:3601
+First:16.05.2025 07:14:25
+Last:16.05.2025 09:10:20
+Duration:01:55:55
+</desc></wpt>
+<wpt lat = "48.24929" lon = "7.34562"><name>AA1</name><desc>10.0 km Château du Haut-Koenigsbourg (100K)
+Images:2413
+First:16.05.2025 07:11:56
+Last:16.05.2025 09:14:50
+Duration:02:02:54
+</desc></wpt>
+<wpt lat = "48.25646" lon = "7.38591"><name>DIG1</name><desc>15.4 km Château de Kintzheim (100K)
+Images:5022
+First:16.05.2025 06:08:22
+Last:16.05.2025 17:16:23
+Duration:11:08:01
+</desc></wpt>
+<wpt lat = "48.26941" lon = "7.39677"><name>JOMA1</name><desc>18.6 km Châtenois - Église Saint-Georges (100K)
+Images:1274
+First:16.05.2025 08:27:41
+Last:16.05.2025 10:42:57
+Duration:02:15:16
+</desc></wpt>
+<wpt lat = "48.26941" lon = "7.39677"><name>JOMA1LS2</name><desc>18.6 km Châtenois - Église Saint-Georges (100K)
+Images:985
+First:16.05.2025 08:27:51
+Last:16.05.2025 10:43:27
+Duration:02:15:36
+</desc></wpt>
+<wpt lat = "48.32324" lon = "7.42505"><name>MAPP2</name><desc>31.0 km Dambach-la-Ville (100K)
+Images:3378
+First:16.05.2025 08:52:53
+Last:16.05.2025 13:13:42
+Duration:04:20:49
+</desc></wpt>
+<wpt lat = "48.32324" lon = "7.42505"><name>MAPP2LS1</name><desc>31.0 km Dambach-la-Ville (100K)
+Images:1608
+First:16.05.2025 09:07:13
+Last:16.05.2025 13:31:12
+Duration:04:23:59
+</desc></wpt>
+<wpt lat = "48.32694" lon = "7.42003"><name>HS2</name><desc>31.7 km Dambach-la-Ville - Chapelle Saint-Sébastian (100K)
+Images:1755
+First:16.05.2025 09:33:12
+Last:16.05.2025 13:55:03
+Duration:04:21:51
+</desc></wpt>
+<wpt lat = "48.32694" lon = "7.42003"><name>HS2LS2</name><desc>31.7 km Dambach-la-Ville - Chapelle Saint-Sébastian (100K)
+Images:1396
+First:16.05.2025 09:12:10
+Last:16.05.2025 13:05:50
+Duration:03:53:40
+</desc></wpt>
+<wpt lat = "48.32694" lon = "7.42003"><name>HS2LS1</name><desc>31.7 km Dambach-la-Ville - Chapelle Saint-Sébastian (100K)
+Images:1417
+First:16.05.2025 09:11:08
+Last:16.05.2025 13:04:38
+Duration:03:53:30
+</desc></wpt>
+<wpt lat = "48.32161" lon = "7.39912"><name>BECK2</name><desc>33.7 km Château du Bernstein (100K)
+Images:3149
+First:16.05.2025 09:48:56
+Last:16.05.2025 13:37:18
+Duration:03:48:22
+</desc></wpt>
+<wpt lat = "48.32161" lon = "7.39912"><name>BECK2LS1</name><desc>33.7 km Château du Bernstein (100K)
+Images:1151
+First:16.05.2025 09:45:42
+Last:16.05.2025 13:37:04
+Duration:03:51:22
+</desc></wpt>
+<wpt lat = "48.32161" lon = "7.39912"><name>BECK2LS2</name><desc>33.7 km Château du Bernstein (100K)
+Images:1545
+First:16.05.2025 09:53:51
+Last:16.05.2025 13:36:20
+Duration:03:42:29
+</desc></wpt>
+<wpt lat = "48.40185" lon = "7.41277"><name>AGU2</name><desc>49.7 km Andlau (100K)
+Images:2623
+First:16.05.2025 08:40:25
+Last:16.05.2025 16:59:44
+Duration:08:19:19
+</desc></wpt>
+<wpt lat = "48.40185" lon = "7.41277"><name>AGU2LS2</name><desc>49.7 km Andlau (100K)
+Images:1314
+First:16.05.2025 11:55:26
+Last:16.05.2025 17:10:53
+Duration:05:15:27
+</desc></wpt>
+<wpt lat = "48.40185" lon = "7.41277"><name>AGU2LS1</name><desc>49.7 km Andlau (100K)
+Images:1280
+First:16.05.2025 12:01:39
+Last:16.05.2025 17:08:07
+Duration:05:06:28
+</desc></wpt>
+<wpt lat = "48.38948" lon = "7.41700"><name>LUJ2</name><desc>52.6 km Château d’Andlau (100K)
+Images:3808
+First:16.05.2025 11:03:27
+Last:16.05.2025 17:22:32
+Duration:06:19:05
+</desc></wpt>
+<wpt lat = "48.40184" lon = "7.39766"><name>ROB1</name><desc>54.3 km Château du Spesbourg (100K)
+Images:6232
+First:16.05.2025 10:30:34
+Last:16.05.2025 17:57:24
+Duration:07:26:50
+</desc></wpt>
+<wpt lat = "48.40184" lon = "7.39766"><name>ROB1LS2</name><desc>54.3 km Château du Spesbourg (100K)
+Images:1063
+First:16.05.2025 10:25:17
+Last:16.05.2025 18:16:12
+Duration:07:50:55
+</desc></wpt>
+<wpt lat = "48.40184" lon = "7.39766"><name>ROB1LS1</name><desc>54.3 km Château du Spesbourg (100K)
+Images:1000
+First:16.05.2025 11:32:35
+Last:16.05.2025 18:07:41
+Duration:06:35:06
+</desc></wpt>
+<wpt lat = "48.40182" lon = "7.39758"><name>AA2</name><desc>54.3 km Château du Spesbourg (100K)
+Images:2230
+First:16.05.2025 11:32:04
+Last:16.05.2025 17:51:23
+Duration:06:19:19
+</desc></wpt>
+<wpt lat = "48.08614" lon = "7.27104"><name>MAPP3</name><desc>Start 100M - Turckheim
+Images:286
+First:16.05.2025 18:20:08
+Last:16.05.2025 19:01:01
+Duration:00:40:53
+</desc></wpt>
+<wpt lat = "48.09307" lon = "7.27558"><name>BECK3</name><desc>1.5 km Col du Brand (100M)
+Images:822
+First:16.05.2025 19:06:02
+Last:16.05.2025 19:13:57
+Duration:00:07:55
+</desc></wpt>
+<wpt lat = "48.09307" lon = "7.27558"><name>BECK3LS2</name><desc>1.5 km Col du Brand (100M)
+Images:890
+First:16.05.2025 18:53:09
+Last:16.05.2025 19:16:51
+Duration:00:23:42
+</desc></wpt>
+<wpt lat = "48.09307" lon = "7.27558"><name>BECK3LS1</name><desc>1.5 km Col du Brand (100M)
+Images:578
+First:16.05.2025 18:56:14
+Last:16.05.2025 19:16:34
+Duration:00:20:20
+</desc></wpt>
+<wpt lat = "48.10921" lon = "7.27756"><name>AGU3</name><desc>9.1 km Katzenthal - Château du Wineck (100M)
+Images:895
+First:16.05.2025 19:39:31
+Last:16.05.2025 20:39:15
+Duration:00:59:44
+</desc></wpt>
+<wpt lat = "48.10921" lon = "7.27756"><name>AGU3LS2</name><desc>9.1 km Katzenthal - Château du Wineck (100M)
+Images:688
+First:16.05.2025 19:32:19
+Last:16.05.2025 20:42:41
+Duration:01:10:22
+</desc></wpt>
+<wpt lat = "48.10921" lon = "7.27756"><name>AGU3LS1</name><desc>9.1 km Katzenthal - Château du Wineck (100M)
+Images:687
+First:16.05.2025 19:31:45
+Last:16.05.2025 20:42:07
+Duration:01:10:22
+</desc></wpt>
+<wpt lat = "48.46228" lon = "7.48250"><name>LUJ3</name><desc>Start 20K Friday - Obernai
+Images:647
+First:16.05.2025 19:46:29
+Last:16.05.2025 20:17:25
+Duration:00:30:56
+</desc></wpt>
+<wpt lat = "48.45685" lon = "7.45338"><name>AA3</name><desc>5.0 km Chem. Kaeferlaechelweg (20K FRI)
+Images:1753
+First:16.05.2025 19:52:48
+Last:16.05.2025 20:56:15
+Duration:01:03:27
+</desc></wpt>
+<wpt lat = "48.46841" lon = "7.45576"><name>ROB2</name><desc>15.3 km L’Ehn (20K FRI)
+Images:4144
+First:16.05.2025 20:53:39
+Last:16.05.2025 22:31:34
+Duration:01:37:55
+</desc></wpt>
+<wpt lat = "48.46841" lon = "7.45576"><name>ROB2LS2</name><desc>15.3 km L’Ehn (20K FRI)
+Images:869
+First:16.05.2025 20:24:26
+Last:16.05.2025 22:23:19
+Duration:01:58:53
+</desc></wpt>
+<wpt lat = "48.46841" lon = "7.45576"><name>ROB2LS1</name><desc>15.3 km L’Ehn (20K FRI)
+Images:724
+First:16.05.2025 20:10:52
+Last:16.05.2025 22:20:41
+Duration:02:09:49
+</desc></wpt>
+<wpt lat = "48.40163" lon = "7.41294"><name>AGU4</name><desc>100.2 km Château d’Andlau (100M)
+Images:481
+First:17.05.2025 08:47:58
+Last:17.05.2025 14:15:04
+Duration:05:27:06
+</desc></wpt>
+<wpt lat = "48.40163" lon = "7.41294"><name>AGU4LS2</name><desc>100.2 km Château d’Andlau (100M)
+Images:618
+First:17.05.2025 08:45:38
+Last:17.05.2025 14:26:03
+Duration:05:40:25
+</desc></wpt>
+<wpt lat = "48.40163" lon = "7.41294"><name>AGU4LS1</name><desc>100.2 km Château d’Andlau (100M)
+Images:624
+First:17.05.2025 08:39:52
+Last:17.05.2025 14:27:26
+Duration:05:47:34
+</desc></wpt>
+<wpt lat = "48.40205" lon = "7.39749"><name>LUJ5</name><desc>101.9 km Château du Spesbourg (100M)
+Images:509
+First:17.05.2025 08:25:10
+Last:17.05.2025 17:04:54
+Duration:08:39:44
+</desc></wpt>
+<wpt lat = "48.42063" lon = "7.42240"><name>HS4</name><desc>113.3 km / 4.9 km Château du Landsberg (100M, 20K SAT)
+Images:3529
+First:17.05.2025 09:05:09
+Last:17.05.2025 18:46:56
+Duration:09:41:47
+</desc></wpt>
+<wpt lat = "48.42063" lon = "7.42240"><name>HS4LS2</name><desc>113.3 km / 4.9 km Château du Landsberg (100M, 20K SAT)
+Images:2313
+First:17.05.2025 08:13:52
+Last:17.05.2025 16:47:45
+Duration:08:33:53
+</desc></wpt>
+<wpt lat = "48.42063" lon = "7.42240"><name>HS4LS1</name><desc>113.3 km / 4.9 km Château du Landsberg (100M, 20K SAT)
+Images:2210
+First:17.05.2025 08:28:16
+Last:17.05.2025 16:47:40
+Duration:08:19:24
+</desc></wpt>
+<wpt lat = "48.42047" lon = "7.42227"><name>MAMO1</name><desc>113.3 km / 4.9 km Château du Landsberg (100M, 20K SAT)
+Images:3519
+First:17.05.2025 08:28:51
+Last:17.05.2025 16:47:00
+Duration:08:18:09
+</desc></wpt>
+<wpt lat = "48.43977" lon = "7.39137"><name>DIG3</name><desc>118.8 km / 10.1 km Château de Dreistein (100M, 20K SAT)
+Images:4038
+First:17.05.2025 15:32:46
+Last:17.05.2025 18:51:52
+Duration:03:19:06
+</desc></wpt>
+<wpt lat = "48.42916" lon = "7.38435"><name>JOMA3</name><desc>121.1 km / 12.5 km Château du Birkenfels (100M, 20K SAT)
+Images:1589
+First:17.05.2025 15:50:38
+Last:17.05.2025 18:42:11
+Duration:02:51:33
+</desc></wpt>
+<wpt lat = "48.42916" lon = "7.38435"><name>JOMA3LS2</name><desc>121.1 km / 12.5 km Château du Birkenfels (100M, 20K SAT)
+Images:1470
+First:17.05.2025 15:45:34
+Last:17.05.2025 18:25:20
+Duration:02:39:46
+</desc></wpt>
+<wpt lat = "48.42916" lon = "7.38435"><name>JOMA3LS1</name><desc>121.1 km / 12.5 km Château du Birkenfels (100M, 20K SAT)
+Images:1480
+First:17.05.2025 15:36:19
+Last:17.05.2025 18:25:20
+Duration:02:49:01
+</desc></wpt>
+<wpt lat = "48.44504" lon = "7.36683"><name>BECK8</name><desc>124.0 km Château du Kagenfels (100M)
+Images:531
+First:17.05.2025 09:43:01
+Last:17.05.2025 14:10:51
+Duration:04:27:50
+</desc></wpt>
+<wpt lat = "48.44504" lon = "7.36683"><name>BECK8LS2</name><desc>124.0 km Château du Kagenfels (100M)
+Images:170
+First:17.05.2025 09:26:50
+Last:17.05.2025 14:05:22
+Duration:04:38:32
+</desc></wpt>
+<wpt lat = "48.44504" lon = "7.36683"><name>BECK8LS1</name><desc>124.0 km Château du Kagenfels (100M)
+Images:204
+First:17.05.2025 09:01:38
+Last:17.05.2025 13:57:18
+Duration:04:55:40
+</desc></wpt>
+<wpt lat = "48.44357" lon = "7.36620"><name>MAPP8</name><desc>124.0 km Château du Kagenfels (100M)
+Images:558
+First:17.05.2025 09:07:53
+Last:17.05.2025 14:17:09
+Duration:05:09:16
+</desc></wpt>
+<wpt lat = "48.44357" lon = "7.36620"><name>MAPP8LS1</name><desc>124.0 km Château du Kagenfels (100M)
+Images:320
+First:17.05.2025 08:45:19
+Last:17.05.2025 14:03:10
+Duration:05:17:51
+</desc></wpt>
+<wpt lat = "48.41006" lon = "7.45102"><name>MAPP5</name><desc>Start 20K Saturday - Barr
+Images:270
+First:17.05.2025 15:06:56
+Last:17.05.2025 15:50:55
+Duration:00:43:59
+</desc></wpt>
+<wpt lat = "48.40901" lon = "7.44341"><name>BECK5</name><desc>1.0 km Barr - Vignes (20K SAT)
+Images:2261
+First:17.05.2025 15:04:13
+Last:17.05.2025 15:55:25
+Duration:00:51:12
+</desc></wpt>
+<wpt lat = "48.40901" lon = "7.44341"><name>BECK5LS2</name><desc>1.0 km Barr - Vignes (20K SAT)
+Images:584
+First:17.05.2025 15:14:28
+Last:17.05.2025 15:54:11
+Duration:00:39:43
+</desc></wpt>
+<wpt lat = "48.40901" lon = "7.44341"><name>BECK5LS1</name><desc>1.0 km Barr - Vignes (20K SAT)
+Images:584
+First:17.05.2025 15:15:50
+Last:17.05.2025 15:54:14
+Duration:00:38:24
+</desc></wpt>
+<wpt lat = "48.46031" lon = "7.48453"><name>AA4</name><desc>Finish (100M, 100K, 20K FRI, 20K SAT)
+Images:2766
+First:17.05.2025 11:36:05
+Last:17.05.2025 23:51:56
+Duration:12:15:51
+</desc></wpt>
+<wpt lat = "48.46031" lon = "7.48453"><name>HS3</name><desc>Finish (100M, 100K, 20K FRI, 20K SAT)
+Images:793
+First:16.05.2025 17:06:16
+Last:16.05.2025 22:44:54
+Duration:05:38:38
+</desc></wpt>
+<wpt lat = "48.46031" lon = "7.48453"><name>HS3LS1</name><desc>Finish (100M, 100K, 20K FRI, 20K SAT)
+Images:518
+First:16.05.2025 16:03:09
+Last:16.05.2025 21:34:17
+Duration:05:31:08
+</desc></wpt>
+<wpt lat = "48.46031" lon = "7.48453"><name>HS3LS2</name><desc>Finish (100M, 100K, 20K FRI, 20K SAT)
+Images:510
+First:16.05.2025 16:05:24
+Last:16.05.2025 21:34:43
+Duration:05:29:19
+</desc></wpt>
+<wpt lat = "48.46031" lon = "7.48453"><name>ROB3</name><desc>Finish (100M, 100K, 20K FRI, 20K SAT)
+Images:8912
+First:17.05.2025 11:32:35
+Last:17.05.2025 23:51:56
+Duration:12:19:21
+</desc></wpt>
+<wpt lat = "48.46031" lon = "7.48453"><name>LUJ4</name><desc>Finish (100M, 100K, 20K FRI, 20K SAT)
+Images:1532
+First:16.05.2025 19:20:16
+Last:16.05.2025 22:46:49
+Duration:03:26:33
+</desc></wpt>
+<wpt lat = "48.46031" lon = "7.48453"><name>DIG2</name><desc>Finish (100M, 100K, 20K FRI, 20K SAT)
+Images:944
+First:16.05.2025 22:48:41
+Last:17.05.2025 05:35:06
+Duration:06:46:25
+</desc></wpt>
+<wpt lat = "48.46031" lon = "7.48453"><name>JOMA2</name><desc>Finish (100M, 100K, 20K FRI, 20K SAT)
+Images:520
+First:16.05.2025 23:30:40
+Last:17.05.2025 07:03:38
+Duration:07:32:58
+</desc></wpt>
+<wpt lat = "48.46031" lon = "7.48453"><name>JOMA2LS1</name><desc>Finish (100M, 100K, 20K FRI, 20K SAT)
+Images:1487
+First:16.05.2025 23:03:19
+Last:17.05.2025 07:06:05
+Duration:08:02:46
+</desc></wpt>
+<wpt lat = "48.46031" lon = "7.48453"><name>JOMA2LS2</name><desc>Finish (100M, 100K, 20K FRI, 20K SAT)
+Images:1405
+First:16.05.2025 23:14:47
+Last:17.05.2025 07:05:11
+Duration:07:50:24
+</desc></wpt>
+<wpt lat = "48.46031" lon = "7.48453"><name>BECK4</name><desc>Finish (100M, 100K, 20K FRI, 20K SAT)
+Images:1696
+First:17.05.2025 07:20:45
+Last:17.05.2025 19:29:39
+Duration:12:08:54
+</desc></wpt>
+<wpt lat = "48.46031" lon = "7.48453"><name>MAPP4</name><desc>Finish (100M, 100K, 20K FRI, 20K SAT)
+Images:104
+First:17.05.2025 07:04:50
+Last:17.05.2025 07:26:40
+Duration:00:21:50
+</desc></wpt>
+<wpt lat = "48.46031" lon = "7.48453"><name>ROB3LS2</name><desc>Finish (100M, 100K, 20K FRI, 20K SAT)
+Images:1742
+First:17.05.2025 11:56:25
+Last:17.05.2025 23:19:19
+Duration:11:22:54
+</desc></wpt>
+<wpt lat = "48.46031" lon = "7.48453"><name>ROB3LS1</name><desc>Finish (100M, 100K, 20K FRI, 20K SAT)
+Images:1366
+First:17.05.2025 11:40:32
+Last:17.05.2025 21:42:44
+Duration:10:02:12
+</desc></wpt>
+<wpt lat = "48.46031" lon = "7.48453"><name>AGU5</name><desc>Finish (100M, 100K, 20K FRI, 20K SAT)
+Images:439
+First:18.05.2025 00:00:49
+Last:18.05.2025 07:58:02
+Duration:07:57:13
+</desc></wpt>
+<wpt lat = "48.46031" lon = "7.48453"><name>AGU5LS2</name><desc>Finish (100M, 100K, 20K FRI, 20K SAT)
+Images:584
+First:18.05.2025 01:04:34
+Last:18.05.2025 08:01:11
+Duration:06:56:37
+</desc></wpt>
+<wpt lat = "48.46031" lon = "7.48453"><name>AGU5LS1</name><desc>Finish (100M, 100K, 20K FRI, 20K SAT)
+Images:683
+First:18.05.2025 00:31:38
+Last:18.05.2025 08:00:41
+Duration:07:29:03
+</desc></wpt>
+<wpt lat = "48.40989" lon = "7.45070"><name>LUJ6</name><desc>Start 50K - Barr
+Images:1823
+First:18.05.2025 06:35:12
+Last:18.05.2025 08:00:49
+Duration:01:25:37
+</desc></wpt>
+<wpt lat = "48.41004" lon = "7.44290"><name>MAPP6</name><desc>1.0 km Barr - Vignes (50K)
+Images:1485
+First:18.05.2025 07:06:38
+Last:18.05.2025 08:16:03
+Duration:01:09:25
+</desc></wpt>
+<wpt lat = "48.41004" lon = "7.44290"><name>MAPP6LS1</name><desc>1.0 km Barr - Vignes (50K)
+Images:1216
+First:18.05.2025 06:46:14
+Last:18.05.2025 08:16:45
+Duration:01:30:31
+</desc></wpt>
+<wpt lat = "48.40901" lon = "7.44342"><name>BECK6</name><desc>1.0 km Barr - Vignes (50K)
+Images:2288
+First:18.05.2025 07:04:27
+Last:18.05.2025 08:11:43
+Duration:01:07:16
+</desc></wpt>
+<wpt lat = "48.40901" lon = "7.44342"><name>BECK6LS2</name><desc>1.0 km Barr - Vignes (50K)
+Images:866
+First:18.05.2025 06:48:03
+Last:18.05.2025 08:11:40
+Duration:01:23:37
+</desc></wpt>
+<wpt lat = "48.40901" lon = "7.44342"><name>BECK6LS1</name><desc>1.0 km Barr - Vignes (50K)
+Images:708
+First:18.05.2025 06:57:48
+Last:18.05.2025 07:54:15
+Duration:00:56:27
+</desc></wpt>
+<wpt lat = "48.42055" lon = "7.42245"><name>ROB4</name><desc>4.9 km Château du Landsberg (50K)
+Images:3946
+First:18.05.2025 07:28:44
+Last:18.05.2025 08:52:59
+Duration:01:24:15
+</desc></wpt>
+<wpt lat = "48.42055" lon = "7.42245"><name>ROB4LS2</name><desc>4.9 km Château du Landsberg (50K)
+Images:1765
+First:18.05.2025 07:16:26
+Last:18.05.2025 08:55:50
+Duration:01:39:24
+</desc></wpt>
+<wpt lat = "48.42055" lon = "7.42245"><name>ROB4LS1</name><desc>4.9 km Château du Landsberg (50K)
+Images:2755
+First:18.05.2025 07:25:40
+Last:18.05.2025 10:39:00
+Duration:03:13:20
+</desc></wpt>
+<wpt lat = "48.42043" lon = "7.42253"><name>AA5</name><desc>4.9 km Château du Landsberg (50K)
+Images:3837
+First:18.05.2025 07:26:31
+Last:18.05.2025 09:55:06
+Duration:02:28:35
+</desc></wpt>
+<wpt lat = "48.43968" lon = "7.39138"><name>DIG5</name><desc>10.1 km Château de Dreistein (50K)
+Images:5865
+First:18.05.2025 07:52:29
+Last:18.05.2025 09:49:24
+Duration:01:56:55
+</desc></wpt>
+<wpt lat = "48.42924" lon = "7.38412"><name>HS7</name><desc>12.5 km Château du Birkenfels (50K)
+Images:3168
+First:18.05.2025 08:02:18
+Last:18.05.2025 09:56:35
+Duration:01:54:17
+</desc></wpt>
+<wpt lat = "48.42924" lon = "7.38412"><name>HS5LS2</name><desc>12.5 km Château du Birkenfels (50K)
+Images:1914
+First:18.05.2025 07:46:30
+Last:18.05.2025 10:04:34
+Duration:02:18:04
+</desc></wpt>
+<wpt lat = "48.42924" lon = "7.38412"><name>HS5LS1</name><desc>12.5 km Château du Birkenfels (50K)
+Images:2548
+First:18.05.2025 07:51:26
+Last:18.05.2025 10:06:45
+Duration:02:15:19
+</desc></wpt>
+<wpt lat = "48.44512" lon = "7.36673"><name>MAMO2</name><desc>15.7 km Château de Kagenfels (50K)
+Images:3300
+First:18.05.2025 07:55:34
+Last:18.05.2025 12:23:28
+Duration:04:27:54
+</desc></wpt>
+<wpt lat = "48.44530" lon = "7.36645"><name>JOMA5</name><desc>15.7 km Château de Kagenfels (50K)
+Images:2442
+First:18.05.2025 08:14:17
+Last:18.05.2025 11:00:27
+Duration:02:46:10
+</desc></wpt>
+<wpt lat = "48.44530" lon = "7.36645"><name>JOMA5LS2</name><desc>15.7 km Château de Kagenfels (50K)
+Images:1878
+First:18.05.2025 07:42:20
+Last:18.05.2025 11:00:28
+Duration:03:18:08
+</desc></wpt>
+<wpt lat = "48.44530" lon = "7.36645"><name>JOMA5LS1</name><desc>15.7 km Château de Kagenfels (50K)
+Images:1160
+First:18.05.2025 07:52:50
+Last:18.05.2025 10:56:47
+Duration:03:03:57
+</desc></wpt>
+<wpt lat = "48.49617" lon = "7.46884"><name>AA6</name><desc>43.0 km Rosheim (50K)
+Images:2767
+First:18.05.2025 09:57:32
+Last:18.05.2025 16:19:01
+Duration:06:21:29
+</desc></wpt>
+<wpt lat = "48.48791" lon = "7.46484"><name>ROB5</name><desc>45.4 km Rosheim  - Vignes (50K)
+Images:6165
+First:18.05.2025 10:17:14
+Last:18.05.2025 16:22:42
+Duration:06:05:28
+</desc></wpt>
+<wpt lat = "48.48791" lon = "7.46484"><name>ROB5LS2</name><desc>45.4 km Rosheim  - Vignes (50K)
+Images:848
+First:18.05.2025 10:30:56
+Last:18.05.2025 14:37:03
+Duration:04:06:07
+</desc></wpt>
+<wpt lat = "48.48791" lon = "7.46484"><name>ROB5LS1</name><desc>45.4 km Rosheim  - Vignes (50K)
+Images:1171
+First:18.05.2025 10:43:37
+Last:18.05.2025 15:11:23
+Duration:04:27:46
+</desc></wpt>
+<wpt lat = "48.47068" lon = "7.48029"><name>DIG4</name><desc>49.0 km Obernai - Forêt (50K)
+Images:5818
+First:18.05.2025 11:13:40
+Last:18.05.2025 17:26:24
+Duration:06:12:44
+</desc></wpt>
+<wpt lat = "48.46880" lon = "7.48152"><name>HS8</name><desc>49.3 km Obernai - Vignes (50K)
+Images:3678
+First:18.05.2025 11:40:41
+Last:18.05.2025 17:29:53
+Duration:05:49:12
+</desc></wpt>
+<wpt lat = "48.46880" lon = "7.48152"><name>HS6LS2</name><desc>49.3 km Obernai - Vignes (50K)
+Images:1689
+First:18.05.2025 11:25:28
+Last:18.05.2025 17:14:48
+Duration:05:49:20
+</desc></wpt>
+<wpt lat = "48.46574" lon = "7.47998"><name>MAMO3</name><desc>50.0 km Obernai - Mémorial National (50K)
+Images:2017
+First:18.05.2025 12:28:41
+Last:18.05.2025 17:37:04
+Duration:05:08:23
+</desc></wpt>
+<wpt lat = "48.46300" lon = "7.48510"><name>JOMA4</name><desc>50.7 km Obernai (50K)
+Images:1843
+First:18.05.2025 12:32:25
+Last:18.05.2025 17:44:26
+Duration:05:12:01
+</desc></wpt>
+<wpt lat = "48.46300" lon = "7.48510"><name>JOMA4LS2</name><desc>50.7 km Obernai (50K)
+Images:1543
+First:18.05.2025 12:20:06
+Last:18.05.2025 17:52:24
+Duration:05:32:18
+</desc></wpt>
+<wpt lat = "48.46300" lon = "7.48510"><name>JOMA4LS1</name><desc>50.7 km Obernai (50K)
+Images:1475
+First:18.05.2025 12:29:03
+Last:18.05.2025 17:44:31
+Duration:05:15:28
+</desc></wpt>
+<wpt lat = "48.46030" lon = "7.48455"><name>MAPP7</name><desc>Finish 50K
+Images:2738
+First:18.05.2025 10:35:06
+Last:18.05.2025 18:16:27
+Duration:07:41:21
+</desc></wpt>
+<wpt lat = "48.46030" lon = "7.48455"><name>MAPP7LS1</name><desc>Finish 50K
+Images:1919
+First:18.05.2025 10:39:32
+Last:18.05.2025 18:08:02
+Duration:07:28:30
+</desc></wpt>
+<wpt lat = "48.46030" lon = "7.48455"><name>LUJ7</name><desc>Finish 50K
+Images:12874
+First:18.05.2025 10:30:45
+Last:18.05.2025 18:10:42
+Duration:07:39:57
+</desc></wpt>
+<wpt lat = "48.46030" lon = "7.48455"><name>BECK7</name><desc>Finish 50K
+Images:2451
+First:18.05.2025 10:34:55
+Last:18.05.2025 15:49:54
+Duration:05:14:59
+</desc></wpt>
+<wpt lat = "48.46030" lon = "7.48455"><name>BECK7LS2</name><desc>Finish 50K
+Images:2563
+First:18.05.2025 10:24:36
+Last:18.05.2025 18:14:51
+Duration:07:50:15
+</desc></wpt>
+<wpt lat = "48.46030" lon = "7.48455"><name>BECK7LS1</name><desc>Finish 50K
+Images:3772
+First:18.05.2025 10:54:56
+Last:18.05.2025 17:28:13
+Duration:06:33:17
+</desc></wpt>
+<wpt lat = "48.25646" lon = "7.38591"><name>DIG1DRONE1</name><desc>Drone Impressions
+Images:25
+First:16.05.2025 07:50:26
+Last:16.05.2025 07:58:55
+Duration:00:08:29
+</desc></wpt>
+<wpt lat = "48.25646" lon = "7.38591"><name>BECK2DRONE1</name><desc>Drone Impressions
+Images:8
+First:16.05.2025 10:07:34
+Last:16.05.2025 10:10:00
+Duration:00:02:26
+</desc></wpt>
+<wpt lat = "48.25646" lon = "7.38591"><name>BECK1DRONE1</name><desc>Drone Impressions
+Images:22
+First:16.05.2025 07:09:26
+Last:16.05.2025 07:21:06
+Duration:00:11:40
+</desc></wpt>
+<wpt lat = "48.25646" lon = "7.38591"><name>DIG2DRONE1</name><desc>Drone Impressions
+Images:67
+First:17.05.2025 06:30:31
+Last:17.05.2025 18:48:01
+Duration:12:17:30
+</desc></wpt>
+<wpt lat = "48.25646" lon = "7.38591"><name>BECK6DRONE1</name><desc>Drone Impressions
+Images:17
+First:18.05.2025 06:33:19
+Last:18.05.2025 07:27:00
+Duration:00:53:41
+</desc></wpt>
+<wpt lat = "48.25646" lon = "7.38591"><name>DIG5DRONE1</name><desc>Drone Impressions
+Images:69
+First:18.05.2025 09:54:24
+Last:18.05.2025 11:29:15
+Duration:01:34:51
+</desc></wpt>
+</gpx>

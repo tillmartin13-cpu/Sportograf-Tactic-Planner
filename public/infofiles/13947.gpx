@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "47.48769" lon = "12.00063"><name>ALEP1</name><desc>97,4 km
+Images:2482
+First:24.08.2025 08:22:11
+Last:24.08.2025 13:04:40
+Duration:04:42:29
+</desc></wpt>
+<wpt lat = "47.48769" lon = "12.00063"><name>ALEP1DRONE1</name><desc>97,4 km
+Images:22
+First:24.08.2025 08:12:31
+Last:24.08.2025 08:19:56
+Duration:00:07:25
+</desc></wpt>
+<wpt lat = "47.48769" lon = "12.00063"><name>ALEP1LS2</name><desc>97,4 km
+Images:1819
+First:24.08.2025 07:52:30
+Last:24.08.2025 13:04:43
+Duration:05:12:13
+</desc></wpt>
+<wpt lat = "47.48769" lon = "12.00063"><name>ALEP1LS1</name><desc>97,4 km
+Images:1842
+First:24.08.2025 07:52:13
+Last:24.08.2025 12:57:48
+Duration:05:05:35
+</desc></wpt>
+<wpt lat = "47.52359" lon = "12.03119"><name>LKE1</name><desc>42,4 km
+Images:4306
+First:24.08.2025 08:05:16
+Last:24.08.2025 09:58:45
+Duration:01:53:29
+</desc></wpt>
+<wpt lat = "47.50666" lon = "11.98723"><name>SZT1</name><desc>46,3 km
+Images:1657
+First:24.08.2025 08:05:16
+Last:24.08.2025 10:05:50
+Duration:02:00:34
+</desc></wpt>
+<wpt lat = "47.51182" lon = "11.89833"><name>UEC1</name><desc>71,9 km
+Images:1365
+First:24.08.2025 09:23:07
+Last:24.08.2025 11:37:52
+Duration:02:14:45
+</desc></wpt>
+<wpt lat = "47.51205" lon = "11.89825"><name>UEC1LS2</name><desc>71,6 km
+Images:907
+First:24.08.2025 09:23:19
+Last:24.08.2025 11:36:19
+Duration:02:13:00
+</desc></wpt>
+<wpt lat = "47.51205" lon = "11.89825"><name>UEC1LS1</name><desc>71,6 km
+Images:877
+First:24.08.2025 08:23:11
+Last:24.08.2025 11:31:32
+Duration:03:08:21
+</desc></wpt>
+<wpt lat = "47.58221" lon = "12.17040"><name>ULKE1</name><desc>Start
+Images:2598
+First:24.08.2025 06:47:39
+Last:24.08.2025 08:24:21
+Duration:01:36:42
+</desc></wpt>
+<wpt lat = "47.58221" lon = "12.17040"><name>ULKE2</name><desc>Finish
+Images:9904
+First:24.08.2025 08:24:21
+Last:24.08.2025 14:01:31
+Duration:05:37:10
+</desc></wpt>
+</gpx>

@@ -1,0 +1,130 @@
+EventId: 15843
+Spots: 20
+Total Images: 73323
+Time:	11.04.2025 14:37:33 to 13.04.2025 11:52:40
+Duration: 1.21:15:07
+
+(1) - Start
+	SIL1
+		Images:	456
+		Time:	13.04.2025 07:51:08 until 13.04.2025 09:32:01
+		Duration:	01:40:53
+		Location:	50.86899 4.70606
+
+	SDT1
+		Images:	21
+		Time:	11.04.2025 14:37:33 until 13.04.2025 09:34:43
+		Duration:	1.18:57:10
+		Location:	50.86899 4.70606
+
+(2) - 1,2 km
+	FVE1
+		Images:	1494
+		Time:	13.04.2025 09:33:27 until 13.04.2025 10:03:46
+		Duration:	00:30:19
+		Location:	50.87624 4.70046
+
+	KO1
+		Images:	1051
+		Time:	13.04.2025 09:33:01 until 13.04.2025 11:52:40
+		Duration:	02:19:39
+		Location:	50.87624 4.70046
+
+(3) - 1,65 km
+	IWI1
+		Images:	5264
+		Time:	13.04.2025 08:54:25 until 13.04.2025 10:06:04
+		Duration:	01:11:39
+		Location:	50.87919 4.70201
+
+	MOKU1
+		Images:	3752
+		Time:	13.04.2025 09:29:17 until 13.04.2025 10:08:04
+		Duration:	00:38:47
+		Location:	50.87919 4.70201
+
+	MOKU1LS1
+		Images:	2720
+		Time:	13.04.2025 09:14:27 until 13.04.2025 10:08:32
+		Duration:	00:54:05
+		Location:	50.87919 4.70201
+
+(4) - 1,82 km
+	BENP1
+		Images:	1959
+		Time:	13.04.2025 09:10:51 until 13.04.2025 10:22:49
+		Duration:	01:11:58
+		Location:	50.88005 4.70012
+
+	WIP1
+		Images:	1518
+		Time:	12.04.2025 22:02:21 until 13.04.2025 10:06:22
+		Duration:	12:04:01
+		Location:	50.88005 4.70012
+
+(5) - 7,3 km
+	JTA1
+		Images:	2360
+		Time:	13.04.2025 06:48:08 until 13.04.2025 10:56:46
+		Duration:	04:08:38
+		Location:	50.88038 4.70984
+
+	KMC1
+		Images:	1907
+		Time:	13.04.2025 09:13:32 until 13.04.2025 11:08:49
+		Duration:	01:55:17
+		Location:	50.88038 4.70984
+
+(6) - 7,63 km
+	DECO1
+		Images:	2910
+		Time:	13.04.2025 08:28:39 until 13.04.2025 11:11:46
+		Duration:	02:43:07
+		Location:	50.88111 4.71447
+
+	GAC1
+		Images:	8979
+		Time:	12.04.2025 22:22:50 until 13.04.2025 11:11:47
+		Duration:	12:48:57
+		Location:	50.88111 4.71447
+
+(7) - 8,55 km
+	KFK1
+		Images:	3432
+		Time:	13.04.2025 06:50:46 until 13.04.2025 11:26:40
+		Duration:	04:35:54
+		Location:	50.87803 4.70644
+
+	GST1
+		Images:	19072
+		Time:	13.04.2025 09:54:05 until 13.04.2025 11:27:30
+		Duration:	01:33:25
+		Location:	50.87803 4.70644
+
+(8) - Finish
+	SDT2
+		Images:	1614
+		Time:	13.04.2025 09:57:42 until 13.04.2025 11:35:34
+		Duration:	01:37:52
+		Location:	50.86943 4.70896
+
+	SDT2LS2
+		Images:	2519
+		Time:	11.04.2025 15:47:41 until 13.04.2025 11:28:44
+		Duration:	1.19:41:03
+		Location:	50.86943 4.70896
+
+	SDT2LS1
+		Images:	2808
+		Time:	13.04.2025 09:46:28 until 13.04.2025 11:28:43
+		Duration:	01:42:15
+		Location:	50.86943 4.70896
+
+	SIL2
+		Images:	9487
+		Time:	13.04.2025 09:38:20 until 13.04.2025 11:26:55
+		Duration:	01:48:35
+		Location:	50.86943 4.70896
+
+(9) - Impressions / Pano
+	PANO1

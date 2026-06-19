@@ -1,0 +1,89 @@
+EventId: 14081
+Spots: 13
+Total Images: 6097
+Time:	30.08.2025 07:24:26 to 30.08.2025 14:50:29
+Duration: 07:26:03
+
+(1) - 54,0 km
+	JADS1
+		Images:	1884
+		Time:	30.08.2025 09:52:14 until 30.08.2025 13:53:04
+		Duration:	04:00:50
+		Location:	46.41084 11.57039
+
+(2) - 22,0 km
+	LKE1
+		Images:	355
+		Time:	30.08.2025 09:59:08 until 30.08.2025 13:51:33
+		Duration:	03:52:25
+		Location:	46.44105 11.57141
+
+	UEC2
+		Images:	265
+		Time:	30.08.2025 09:01:26 until 30.08.2025 10:51:34
+		Duration:	01:50:08
+		Location:	46.41483 11.55226
+
+	UEC2LS2
+		Images:	283
+		Time:	30.08.2025 09:05:20 until 30.08.2025 10:31:50
+		Duration:	01:26:30
+		Location:	46.41483 11.55226
+
+	UEC2LS1
+		Images:	311
+		Time:	30.08.2025 09:05:10 until 30.08.2025 10:31:18
+		Duration:	01:26:08
+		Location:	46.41483 11.55226
+
+(3) - 2,1 km
+	UEC1
+		Images:	255
+		Time:	30.08.2025 07:25:44 until 30.08.2025 08:38:49
+		Duration:	01:13:05
+		Location:	46.41105 11.57039
+
+	UEC1LS1
+		Images:	129
+		Time:	30.08.2025 08:05:23 until 30.08.2025 08:38:26
+		Duration:	00:33:03
+		Location:	46.41105 11.57039
+
+	UEC1LS2
+		Images:	236
+		Time:	30.08.2025 08:04:51 until 30.08.2025 08:38:57
+		Duration:	00:34:06
+		Location:	46.41105 11.57039
+
+(4) - Finish
+	UEC3LS1
+		Images:	127
+		Time:	30.08.2025 12:26:25 until 30.08.2025 14:06:10
+		Duration:	01:39:45
+		Location:	46.41483 11.55226
+
+	ULKE2
+		Images:	1856
+		Time:	30.08.2025 11:02:43 until 30.08.2025 14:50:29
+		Duration:	03:47:46
+		Location:	46.73846 11.95850
+
+	ULKE2DRONE1
+		Images:	8
+		Time:	30.08.2025 11:38:38 until 30.08.2025 11:40:51
+		Duration:	00:02:13
+		Location:	46.73846 11.95850
+
+(5) - Start
+	ULKE1
+		Images:	365
+		Time:	30.08.2025 07:24:26 until 30.08.2025 08:30:26
+		Duration:	01:06:00
+		Location:	46.69770 11.93261
+
+	ULKE1DRONE1
+		Images:	23
+		Time:	30.08.2025 09:30:57 until 30.08.2025 10:24:31
+		Duration:	00:53:34
+		Location:	46.69770 11.93261
+

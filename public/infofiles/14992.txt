@@ -1,0 +1,87 @@
+EventId: 14992
+Spots: 12
+Total Images: 35999
+Time:	25.01.2025 05:19:44 to 25.01.2025 13:40:46
+Duration: 08:21:02
+
+(1) - Obstacle 14 Atlas Carry
+	AGP1
+		Images:	2585
+		Time:	25.01.2025 06:13:59 until 25.01.2025 12:33:33
+		Duration:	06:19:34
+		Location:	24.90914 54.99902
+
+	MUP1
+		Images:	1658
+		Time:	25.01.2025 06:55:16 until 25.01.2025 11:28:40
+		Duration:	04:33:24
+		Location:	24.90914 54.99902
+
+(2) - 2.0 km running
+	MUP1LS1
+		Images:	1295
+		Time:	25.01.2025 06:23:38 until 25.01.2025 12:45:08
+		Duration:	06:21:30
+		Location:	24.90914 54.99902
+
+	MUP1LS2
+		Images:	1031
+		Time:	25.01.2025 06:26:51 until 25.01.2025 12:45:06
+		Duration:	06:18:15
+		Location:	24.90914 54.99902
+
+(3) - Obstacle 4 Barbed Wire
+	GSH1
+		Images:	2684
+		Time:	25.01.2025 05:47:12 until 25.01.2025 12:22:27
+		Duration:	06:35:15
+		Location:	24.91140 54.99793
+
+(4) - Obstacle 23 Bucket Carry
+	ADSA1
+		Images:	3723
+		Time:	25.01.2025 06:43:00 until 25.01.2025 13:03:39
+		Duration:	06:20:39
+		Location:	24.90828 55.00520
+
+(5) - Obstacle 29 A frame
+	MGOT1
+		Images:	3453
+		Time:	25.01.2025 06:16:06 until 25.01.2025 13:31:47
+		Duration:	07:15:41
+		Location:	24.91521 55.00563
+
+(6) - Obstacle 30 Multi Rig
+	ZB1
+		Images:	3924
+		Time:	25.01.2025 06:10:21 until 25.01.2025 13:34:50
+		Duration:	07:24:29
+		Location:	24.91536 55.00519
+
+(7) - Obstacle 33 Fire Jump
+	ARP1
+		Images:	4472
+		Time:	25.01.2025 07:30:00 until 25.01.2025 13:39:19
+		Duration:	06:09:19
+		Location:	24.91551 55.00442
+
+	ARP1LS1
+		Images:	4197
+		Time:	25.01.2025 07:34:05 until 25.01.2025 12:03:13
+		Duration:	04:29:08
+		Location:	24.91551 55.00442
+
+(8) - Herotent
+	NIZ1
+		Images:	2848
+		Time:	25.01.2025 05:34:56 until 25.01.2025 13:40:46
+		Duration:	08:05:50
+		Location:	24.91532 55.00426
+
+(9) - Obstacle 31 Dunk Wall
+	MRGO1
+		Images:	4129
+		Time:	25.01.2025 05:19:44 until 25.01.2025 13:37:05
+		Duration:	08:17:21
+		Location:	24.91544 55.00488
+

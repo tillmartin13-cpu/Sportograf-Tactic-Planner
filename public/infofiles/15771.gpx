@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "61.07426" lon = "14.32425"><name>SBRO1</name><desc>18,1 km before Finish (Spjutmo)
+Images:293
+First:21.02.2025 08:56:17
+Last:23.02.2025 09:58:38
+Duration:2.01:02:21
+</desc></wpt>
+<wpt lat = "61.06348" lon = "14.35333"><name>COR1LS1</name><desc>16,1 km before Finish (Hökberget)
+Images:1
+First:23.02.2025 08:42:45
+Last:23.02.2025 08:42:45
+Duration:00:00:00
+</desc></wpt>
+<wpt lat = "61.06348" lon = "14.35333"><name>COR1</name><desc>16,1 km before Finish (Hökberget)
+Images:179
+First:23.02.2025 08:33:05
+Last:23.02.2025 10:19:44
+Duration:01:46:39
+</desc></wpt>
+<wpt lat = "61.00479" lon = "14.47153"><name>IVAH1LS1</name><desc>4,7 km before Finish (Hemus)
+Images:1117
+First:23.02.2025 09:34:10
+Last:23.02.2025 13:04:59
+Duration:03:30:49
+</desc></wpt>
+<wpt lat = "61.00479" lon = "14.47153"><name>IVAH1</name><desc>4,7 km before Finish (Hemus)
+Images:2370
+First:23.02.2025 09:53:00
+Last:23.02.2025 13:04:58
+Duration:03:11:58
+</desc></wpt>
+<wpt lat = "61.00330" lon = "14.48619"><name>RKO1</name><desc>3,8 km before Finish (Hemus)
+Images:2477
+First:23.02.2025 10:17:47
+Last:23.02.2025 13:04:50
+Duration:02:47:03
+</desc></wpt>
+<wpt lat = "61.00400" lon = "14.50515"><name>DADA1</name><desc>2,7 km before Finish (Hemus)
+Images:2306
+First:23.02.2025 10:20:57
+Last:23.02.2025 12:55:38
+Duration:02:34:41
+</desc></wpt>
+<wpt lat = "61.00660" lon = "14.51871"><name>JLA1</name><desc>1,7 km before Finish (Mora)
+Images:3606
+First:21.02.2025 07:47:27
+Last:23.02.2025 13:04:58
+Duration:2.05:17:31
+</desc></wpt>
+<wpt lat = "61.00852" lon = "14.52607"><name>MAV1</name><desc>1,2 km before Finish (Mora)
+Images:2928
+First:22.02.2025 08:12:12
+Last:23.02.2025 13:04:49
+Duration:1.04:52:37
+</desc></wpt>
+<wpt lat = "61.00699" lon = "14.54266"><name>ALN1LS1</name><desc>Finish
+Images:5983
+First:23.02.2025 09:37:18
+Last:23.02.2025 13:04:58
+Duration:03:27:40
+</desc></wpt>
+<wpt lat = "61.00699" lon = "14.54266"><name>MW1LS1</name><desc>Finish
+Images:13181
+First:23.02.2025 07:19:53
+Last:23.02.2025 13:04:58
+Duration:05:45:05
+</desc></wpt>
+<wpt lat = "61.00699" lon = "14.54266"><name>MW1</name><desc>Finish
+Images:3726
+First:23.02.2025 09:21:04
+Last:23.02.2025 13:04:52
+Duration:03:43:48
+</desc></wpt>
+<wpt lat = "61.00699" lon = "14.54266"><name>ALN1</name><desc>Finish
+Images:2822
+First:21.02.2025 11:28:48
+Last:23.02.2025 13:04:51
+Duration:2.01:36:03
+</desc></wpt>
+<wpt lat = "61.00699" lon = "14.54266"><name>MAE2</name><desc>Finish
+Images:1
+First:23.02.2025 19:06:10
+Last:23.02.2025 19:06:10
+Duration:00:00:00
+</desc></wpt>
+</gpx>

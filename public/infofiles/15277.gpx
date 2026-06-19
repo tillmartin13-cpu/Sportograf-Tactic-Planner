@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "-37.82413" lon = "144.95607"><name>DJA1</name><desc>ENGINE
+Images:1905
+First:09.08.2025 07:29:57
+Last:09.08.2025 12:21:46
+Duration:04:51:49
+</desc></wpt>
+<wpt lat = "-37.82413" lon = "144.95607"><name>IGM2</name><desc>ENGINE
+Images:2873
+First:09.08.2025 13:32:21
+Last:09.08.2025 17:16:05
+Duration:03:43:44
+</desc></wpt>
+<wpt lat = "-37.82413" lon = "144.95607"><name>DJA2</name><desc>LIFT OFF
+Images:1717
+First:09.08.2025 12:35:28
+Last:09.08.2025 18:15:52
+Duration:05:40:24
+</desc></wpt>
+<wpt lat = "-37.82413" lon = "144.95607"><name>ERNG1</name><desc>LIFT OFF
+Images:1423
+First:09.08.2025 07:30:11
+Last:09.08.2025 12:26:17
+Duration:04:56:06
+</desc></wpt>
+<wpt lat = "-37.82413" lon = "144.95607"><name>ERNG2</name><desc>AMRAP
+Images:1713
+First:09.08.2025 12:35:10
+Last:09.08.2025 18:35:57
+Duration:06:00:47
+</desc></wpt>
+<wpt lat = "-37.82413" lon = "144.95607"><name>IGM1</name><desc>AMRAP
+Images:4440
+First:09.08.2025 08:21:03
+Last:09.08.2025 18:37:40
+Duration:10:16:37
+</desc></wpt>
+<wpt lat = "-37.82413" lon = "144.95607"><name>IGM3LS1</name><desc>SPRINT
+Images:1133
+First:09.08.2025 08:05:41
+Last:09.08.2025 17:16:38
+Duration:09:10:57
+</desc></wpt>
+<wpt lat = "-37.82413" lon = "144.95607"><name>IGM3LS2</name><desc>SPRINT
+Images:1162
+First:09.08.2025 08:13:13
+Last:09.08.2025 17:16:38
+Duration:09:03:25
+</desc></wpt>
+</gpx>

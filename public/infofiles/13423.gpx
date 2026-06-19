@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "51.63507" lon = "0.30013"><name>MKH1</name><desc>Station 1
+Images:6124
+First:22.02.2025 06:22:42
+Last:22.02.2025 15:08:13
+Duration:08:45:31
+</desc></wpt>
+<wpt lat = "51.63507" lon = "0.30013"><name>BKO2</name><desc>Station 1
+Images:149
+First:22.02.2025 07:27:06
+Last:22.02.2025 08:12:30
+Duration:00:45:24
+</desc></wpt>
+<wpt lat = "51.63507" lon = "0.30013"><name>BKO2LS1</name><desc>Station 1
+Images:457
+First:22.02.2025 07:03:44
+Last:22.02.2025 15:21:22
+Duration:08:17:38
+</desc></wpt>
+<wpt lat = "51.63507" lon = "0.30013"><name>CUP2LS1</name><desc>Station 1
+Images:352
+First:22.02.2025 07:03:54
+Last:22.02.2025 15:03:29
+Duration:07:59:35
+</desc></wpt>
+<wpt lat = "51.63507" lon = "0.30013"><name>CH1</name><desc>Station 2
+Images:11259
+First:22.02.2025 06:13:59
+Last:22.02.2025 15:32:23
+Duration:09:18:24
+</desc></wpt>
+<wpt lat = "51.63507" lon = "0.30013"><name>BKO3</name><desc>Station 2
+Images:57
+First:22.02.2025 07:29:50
+Last:22.02.2025 07:32:34
+Duration:00:02:44
+</desc></wpt>
+<wpt lat = "51.63507" lon = "0.30013"><name>CUP1</name><desc>Station 3
+Images:11532
+First:22.02.2025 06:58:09
+Last:22.02.2025 15:55:29
+Duration:08:57:20
+</desc></wpt>
+<wpt lat = "51.63507" lon = "0.30013"><name>BKO1</name><desc>Station 4
+Images:18588
+First:22.02.2025 08:18:49
+Last:22.02.2025 16:11:14
+Duration:07:52:25
+</desc></wpt>
+<wpt lat = "51.63507" lon = "0.30013"><name>MADO1</name><desc>Finish Wall
+Images:1777
+First:22.02.2025 06:39:32
+Last:22.02.2025 16:22:35
+Duration:09:43:03
+</desc></wpt>
+</gpx>

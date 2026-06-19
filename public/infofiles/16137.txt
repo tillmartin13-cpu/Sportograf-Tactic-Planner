@@ -1,0 +1,55 @@
+EventId: 16137
+Spots: 7
+Total Images: 11018
+Time:	09.08.2025 07:05:48 to 10.08.2025 16:27:59
+Duration: 1.09:22:11
+
+(1) - Obstacle 1 Weighted Alternating Reverse Lunge
+	VICY2
+		Images:	389
+		Time:	09.08.2025 10:42:36 until 10.08.2025 15:28:41
+		Duration:	1.04:46:05
+		Location:	40.10562 -76.41897
+
+(2) - Obstacle 2 500M Row
+	RU1
+		Images:	940
+		Time:	09.08.2025 07:21:59 until 10.08.2025 15:36:58
+		Duration:	1.08:14:59
+		Location:	40.10562 -76.41897
+
+(3) - Obstacle 5 500M Skierg
+	JAYK1
+		Images:	2439
+		Time:	09.08.2025 07:41:19 until 10.08.2025 15:58:04
+		Duration:	1.08:16:45
+		Location:	40.10562 -76.41897
+
+(4) - Obstacle 6 Farmer's Carry
+	MEC1
+		Images:	1871
+		Time:	10.08.2025 07:05:34 until 10.08.2025 16:06:06
+		Duration:	09:00:32
+		Location:	40.10562 -76.41897
+
+(5) - Obstacle 7 250Cal Air Bike
+	JSAN1
+		Images:	1937
+		Time:	09.08.2025 07:15:30 until 10.08.2025 16:12:49
+		Duration:	1.08:57:19
+		Location:	40.10562 -76.41897
+
+(6) - Obstacle 9 Tank Push/Pull
+	WMY1
+		Images:	1766
+		Time:	09.08.2025 07:05:48 until 10.08.2025 16:27:59
+		Duration:	1.09:22:11
+		Location:	40.10562 -76.41897
+
+(7) - Venue
+	VICY1
+		Images:	1676
+		Time:	09.08.2025 07:49:57 until 10.08.2025 15:11:56
+		Duration:	1.07:21:59
+		Location:	40.10562 -76.41897
+

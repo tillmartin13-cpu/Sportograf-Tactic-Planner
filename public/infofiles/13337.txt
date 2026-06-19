@@ -1,0 +1,164 @@
+EventId: 13337
+Spots: 24
+Total Images: 85704
+Time:	01.01.0001 23:00:00 to 13.10.2025 10:09:24
+Duration: 739535.11:09:24
+
+(1) - 0.0 km Alyson Faulhaber OFP 857162
+	ALYSO1
+		Images:	648
+		Time:	12.10.2024 08:41:13 until 12.10.2024 11:44:46
+		Duration:	03:03:33
+		Location:	NULL NULL
+
+(2) - 0.0 km Eric Andrews MSC4 862237
+	ERICB1
+		Images:	2997
+		Time:	12.10.2024 07:52:35 until 12.10.2024 09:08:54
+		Duration:	01:16:19
+		Location:	NULL NULL
+
+(3) - 0.0 km Eric Andrews MSC5 862239
+	ERICA1
+		Images:	6696
+		Time:	12.10.2024 09:08:54 until 12.10.2024 11:15:40
+		Duration:	02:06:46
+		Location:	NULL NULL
+
+(4) - 0.0 km Justin Kovach MSC1 857158
+	JUSTA1
+		Images:	2053
+		Time:	12.10.2024 06:38:52 until 12.10.2024 07:07:13
+		Duration:	00:28:21
+		Location:	NULL NULL
+
+(5) - 0.0 km Justin Kovach MSC3  857166
+	JUSB1
+		Images:	9307
+		Time:	12.10.2024 07:45:16 until 12.10.2024 10:03:22
+		Duration:	02:18:06
+		Location:	NULL NULL
+
+(6) - 0.0 km Ken Pease Medals 857160
+	KENP1
+		Images:	1362
+		Time:	12.10.2024 05:50:57 until 12.10.2024 08:11:16
+		Duration:	02:20:19
+		Location:	NULL NULL
+
+(7) - 0.0 km Leo Koikov MSC1 857157
+	LKOIA1
+		Images:	1414
+		Time:	12.10.2024 07:33:15 until 12.10.2024 08:15:29
+		Duration:	00:42:14
+		Location:	NULL NULL
+
+(8) - 0.0 km Leo Kovach MSC3 857165
+	LKOIB1
+		Images:	4103
+		Time:	12.10.2024 08:49:04 until 12.10.2024 11:06:59
+		Duration:	02:17:55
+		Location:	NULL NULL
+
+(9) - 0.0 km Michael Koseruba Pre Finish 857151
+	MICHA1
+		Images:	9075
+		Time:	12.10.2024 08:13:59 until 12.10.2024 11:31:33
+		Duration:	03:17:34
+		Location:	NULL NULL
+
+(10) - 0.0 km Rachel Medals 857161
+	RACHE1
+		Images:	3539
+		Time:	12.10.2024 08:38:36 until 12.10.2024 11:49:40
+		Duration:	03:11:04
+		Location:	NULL NULL
+
+(11) - 0.0 km Ryan Williams MSC2 857163
+	RYANA1
+		Images:	3293
+		Time:	12.10.2024 06:58:46 until 12.10.2024 08:11:12
+		Duration:	01:12:26
+		Location:	NULL NULL
+
+(12) - 0.0 km Ryan Williams Pre Finish 857153
+	RYANB1
+		Images:	6720
+		Time:	12.10.2024 08:11:32 until 12.10.2024 10:39:03
+		Duration:	02:27:31
+		Location:	NULL NULL
+
+(13) - 0.0 km Terry Wellott PR 857156
+	TERST1
+		Images:	84
+		Time:	12.10.2024 08:19:22 until 12.10.2024 11:13:52
+		Duration:	02:54:30
+		Location:	NULL NULL
+
+(14) - 0.0 km Terry Wherry Pre Finish 857152
+	TWHER1
+		Images:	5844
+		Time:	01.01.0001 23:00:00 until 12.10.2024 11:38:46
+		Duration:	739169.12:38:46
+		Location:	NULL NULL
+
+(15) - 0.0 km Tim Smith MSC2 857164
+	TIMA1
+		Images:	1419
+		Time:	12.10.2024 07:24:14 until 12.10.2024 08:14:23
+		Duration:	00:50:09
+		Location:	NULL NULL
+
+(16) - 0.0 km Tim Smith MSC5 862240
+	TIMB1
+		Images:	1351
+		Time:	12.10.2024 09:12:11 until 12.10.2024 10:43:16
+		Duration:	01:31:05
+		Location:	NULL NULL
+
+(17) - 0.0 km Trent PR 857155
+	TREST1
+		Images:	71
+		Time:	12.10.2024 06:18:20 until 12.10.2024 08:16:32
+		Duration:	01:58:12
+		Location:	NULL NULL
+
+(18) - 0.0 km Trent Wellot Finish 857148
+	TWELL1
+		Images:	10945
+		Time:	12.10.2024 08:25:46 until 12.10.2024 11:36:54
+		Duration:	03:11:08
+		Location:	NULL NULL
+
+(19) - 0.0 km Trigger 3 Finish 857150
+	TRIGE1
+		Images:	4790
+		Time:	12.10.2024 07:04:52 until 12.10.2024 11:40:33
+		Duration:	04:35:41
+		Location:	NULL NULL
+
+(20) - 0.0 km Trigger 4 Finish 857149
+	TRIGD1
+(21) - 0.0 km Trigger MSC3 857167
+	TRIGB1
+		Images:	3928
+		Time:	13.10.2025 07:47:06 until 13.10.2025 10:09:24
+		Duration:	02:22:18
+		Location:	NULL NULL
+
+(22) - 0.0 km Trigger one MSC1 857159
+	TRIGA1
+		Images:	866
+		Time:	13.10.2025 06:45:21 until 13.10.2025 07:38:43
+		Duration:	00:53:22
+		Location:	NULL NULL
+
+(23) - 0.0 km Trigger Pre Finish 857154
+	TRIGC1
+		Images:	5199
+		Time:	01.01.0001 23:00:00 until 12.10.2024 11:21:37
+		Duration:	739169.12:21:37
+		Location:	NULL NULL
+
+(24) - Impressions / Pano
+	PANO1

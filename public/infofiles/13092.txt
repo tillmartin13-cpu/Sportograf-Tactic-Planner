@@ -1,0 +1,42 @@
+EventId: 13092
+Spots: 6
+Total Images: 11356
+Time:	03.05.2024 17:07:13 to 03.05.2024 20:16:31
+Duration: 03:09:18
+
+(1) - 0.0 km
+	AKY1
+		Images:	619
+		Time:	03.05.2024 19:11:18 until 03.05.2024 20:10:49
+		Duration:	00:59:31
+		Location:	NULL NULL
+
+(2) - 0.0 km FIN 855935 Toby
+	ATOBY1
+		Images:	4339
+		Time:	03.05.2024 18:52:35 until 03.05.2024 20:12:01
+		Duration:	01:19:26
+		Location:	NULL NULL
+
+(3) - 0.0 km Medals 855941 Kaylynn Workman
+	AKAY1
+		Images:	379
+		Time:	03.05.2024 19:17:43 until 03.05.2024 20:16:31
+		Duration:	00:58:48
+		Location:	NULL NULL
+
+(4) - Impressions / Pano
+	PANO1
+(5) - none
+	ABW1
+		Images:	3441
+		Time:	03.05.2024 17:07:13 until 03.05.2024 19:15:11
+		Duration:	02:07:58
+		Location:	NULL NULL
+
+	ACZ1
+		Images:	2578
+		Time:	03.05.2024 18:05:02 until 03.05.2024 19:23:40
+		Duration:	01:18:38
+		Location:	NULL NULL
+

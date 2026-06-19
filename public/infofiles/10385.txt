@@ -1,0 +1,105 @@
+EventId: 10385
+Spots: 17
+Total Images: 96218
+Time:	01.01.0001 23:00:00 to 17.07.2023 03:52:52
+Duration: 738716.04:52:52
+
+(1) - 0.0 km FIN 852775
+	TC1
+		Images:	1
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(2) - 0.0 km FIN 852776
+	JJ2
+(3) - 0.0 km MSC11 852779
+	BB1
+		Images:	5018
+		Time:	20.05.2023 08:19:25 until 16.07.2023 12:54:30
+		Duration:	57.04:35:05
+		Location:	NULL NULL
+
+(4) - 0.0 km MSC11 852781 Bill Berger
+	BB1
+		Images:	5018
+		Time:	20.05.2023 08:19:25 until 16.07.2023 12:54:30
+		Duration:	57.04:35:05
+		Location:	NULL NULL
+
+(5) - 0.0 km MSC12 852780
+	JM1
+		Images:	13041
+		Time:	16.07.2023 20:41:07 until 17.07.2023 03:52:52
+		Duration:	07:11:45
+		Location:	NULL NULL
+
+(6) - 0.0 km MSC13 852781
+	SH1
+		Images:	6463
+		Time:	16.07.2023 10:35:44 until 16.07.2023 17:58:21
+		Duration:	07:22:37
+		Location:	NULL NULL
+
+(7) - 0.0 km MSC8 852771
+	JJ1
+(8) - 0.0 km MSC8 852771 Josh
+	JOSH1
+		Images:	5921
+		Time:	16.07.2023 05:15:30 until 16.07.2023 09:34:42
+		Duration:	04:19:12
+		Location:	NULL NULL
+
+(9) - 0.0 km MSC9 852770
+	JE1
+(10) - 0.0 km MSC9 852770 J Eastep
+	JEAST1
+		Images:	8625
+		Time:	16.07.2023 06:33:39 until 16.07.2023 09:28:50
+		Duration:	02:55:11
+		Location:	NULL NULL
+
+(11) - 0.0 km PreFIN 852773
+	IC1
+		Images:	10208
+		Time:	16.07.2023 12:01:08 until 16.07.2023 21:19:16
+		Duration:	09:18:08
+		Location:	NULL NULL
+
+(12) - 0.0 km PreFIN 852774
+	ES1
+		Images:	7102
+		Time:	25.09.2014 00:05:19 until 25.09.2014 08:43:49
+		Duration:	08:38:30
+		Location:	NULL NULL
+
+(13) - 0.0 km PreFIN-Irene
+	IC1
+		Images:	10208
+		Time:	16.07.2023 12:01:08 until 16.07.2023 21:19:16
+		Duration:	09:18:08
+		Location:	NULL NULL
+
+(14) - 0.0 km Trigger Finish
+	TRIGF1
+		Images:	20272
+		Time:	16.07.2023 13:18:13 until 16.07.2023 22:20:25
+		Duration:	09:02:12
+		Location:	NULL NULL
+
+(15) - 0.0 km trigger prefin
+	AUTO1
+		Images:	12313
+		Time:	16.07.2023 13:36:22 until 16.07.2023 22:17:54
+		Duration:	08:41:32
+		Location:	NULL NULL
+
+(16) - Impressions / Pano
+	PANO1
+(17) - none
+	TTTT1
+		Images:	7254
+		Time:	15.07.2023 08:41:49 until 15.07.2023 15:18:59
+		Duration:	06:37:10
+		Location:	NULL NULL
+

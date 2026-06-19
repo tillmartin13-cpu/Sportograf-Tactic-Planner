@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "55.41939" lon = "-1.69833"><name>KLP1</name><desc>Start
+Images:2766
+First:13.09.2025 06:11:16
+Last:13.09.2025 09:36:30
+Duration:03:25:14
+</desc></wpt>
+<wpt lat = "55.41939" lon = "-1.69833"><name>TSO1</name><desc>Start
+Images:3729
+First:13.09.2025 06:12:04
+Last:13.09.2025 09:30:45
+Duration:03:18:41
+</desc></wpt>
+<wpt lat = "55.51788" lon = "-1.61541"><name>CUP1</name><desc>6,5 km
+Images:7903
+First:13.09.2025 07:23:19
+Last:13.09.2025 11:13:35
+Duration:03:50:16
+</desc></wpt>
+<wpt lat = "55.49198" lon = "-1.59859"><name>BME1</name><desc>22,5 km
+Images:3072
+First:13.09.2025 06:40:18
+Last:13.09.2025 16:05:16
+Duration:09:24:58
+</desc></wpt>
+<wpt lat = "55.51788" lon = "-1.61541"><name>TSO2</name><desc>27,4 km
+Images:24554
+First:13.09.2025 10:51:00
+Last:13.09.2025 17:41:33
+Duration:06:50:33
+</desc></wpt>
+<wpt lat = "55.60911" lon = "-1.71326"><name>TSO3</name><desc>Finish
+Images:95
+First:13.09.2025 20:22:00
+Last:13.09.2025 21:12:35
+Duration:00:50:35
+</desc></wpt>
+<wpt lat = "55.60911" lon = "-1.71326"><name>KLP2</name><desc>Finish
+Images:4336
+First:13.09.2025 14:52:55
+Last:13.09.2025 21:05:54
+Duration:06:12:59
+</desc></wpt>
+<wpt lat = "55.60911" lon = "-1.71326"><name>BME2</name><desc>Finish
+Images:581
+First:13.09.2025 17:51:24
+Last:13.09.2025 20:15:16
+Duration:02:23:52
+</desc></wpt>
+<wpt lat = "55.60911" lon = "-1.71326"><name>CUP2</name><desc>Finish
+Images:1992
+First:13.09.2025 17:19:30
+Last:13.09.2025 18:41:54
+Duration:01:22:24
+</desc></wpt>
+</gpx>

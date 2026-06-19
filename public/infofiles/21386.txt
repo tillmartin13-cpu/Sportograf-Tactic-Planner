@@ -1,0 +1,168 @@
+EventId: 21386
+Spots: 29
+Total Images: 321551
+Time:	31.10.2014 23:02:54 to 08.11.2025 15:26:39
+Duration: 4025.16:23:45
+
+(1) - 25.8 Mile George Washington Statue
+	BAE1
+		Images:	14351
+		Time:	08.11.2025 09:59:56 until 08.11.2025 15:26:39
+		Duration:	05:26:43
+		Location:	39.76730 -86.16252
+
+	BSB1
+		Images:	16321
+		Time:	08.11.2025 09:28:05 until 08.11.2025 14:30:09
+		Duration:	05:02:04
+		Location:	39.76730 -86.16252
+
+	BSB1LS1
+		Images:	4372
+		Time:	08.11.2025 09:02:31 until 08.11.2025 14:26:19
+		Duration:	05:23:48
+		Location:	39.76730 -86.16252
+
+(2) - 26.1 Mile Pre Finish
+	BDD1
+		Images:	26248
+		Time:	08.11.2025 08:00:24 until 08.11.2025 14:29:43
+		Duration:	06:29:19
+		Location:	39.76734 -86.16312
+
+	BGB1
+		Images:	33696
+		Time:	08.11.2025 08:00:45 until 08.11.2025 14:30:01
+		Duration:	06:29:16
+		Location:	39.76734 -86.16312
+
+	BGU1
+		Images:	24818
+		Time:	08.11.2025 08:49:21 until 08.11.2025 13:16:19
+		Duration:	04:26:58
+		Location:	39.76734 -86.16312
+
+	BRT1
+		Images:	25065
+		Time:	08.11.2025 07:42:04 until 08.11.2025 13:34:34
+		Duration:	05:52:30
+		Location:	39.76734 -86.16312
+
+	BRT1LS1
+		Images:	19846
+		Time:	08.11.2025 08:09:59 until 08.11.2025 15:25:09
+		Duration:	07:15:10
+		Location:	39.76734 -86.16312
+
+	BRT1LS2
+		Images:	16901
+		Time:	08.11.2025 08:34:11 until 08.11.2025 13:17:03
+		Duration:	04:42:52
+		Location:	39.76734 -86.16312
+
+(3) - 26.1 Mile Trigger Left Z8
+	BRT1LS4
+		Images:	3823
+		Time:	08.11.2025 12:26:03 until 08.11.2025 13:46:35
+		Duration:	01:20:32
+		Location:	39.76734 -86.16312
+
+(4) - 26.1 Mile Z8 Trigger Right
+	BRT1LS3
+		Images:	13742
+		Time:	08.11.2025 07:07:42 until 08.11.2025 11:49:55
+		Duration:	04:42:13
+		Location:	39.76734 -86.16312
+
+(5) - Ceremony
+	BDJ1
+		Images:	1665
+		Time:	08.11.2025 07:18:37 until 08.11.2025 13:32:00
+		Duration:	06:13:23
+		Location:	39.76734 -86.16312
+
+	BFW1
+		Images:	1312
+		Time:	08.11.2025 06:40:39 until 08.11.2025 12:19:54
+		Duration:	05:39:15
+		Location:	39.76734 -86.16312
+
+	BJD1
+	BLF1
+		Images:	605
+		Time:	08.11.2025 07:48:13 until 08.11.2025 11:44:32
+		Duration:	03:56:19
+		Location:	39.76734 -86.16312
+
+	BLI1
+	BML1
+		Images:	1029
+		Time:	08.11.2025 06:53:38 until 08.11.2025 13:10:05
+		Duration:	06:16:27
+		Location:	39.76734 -86.16312
+
+	BNM1
+		Images:	1016
+		Time:	08.11.2025 08:51:36 until 08.11.2025 14:35:52
+		Duration:	05:44:16
+		Location:	39.76734 -86.16312
+
+	BRCZ1
+		Images:	2557
+		Time:	08.11.2025 08:11:24 until 08.11.2025 14:32:50
+		Duration:	06:21:26
+		Location:	39.76734 -86.16312
+
+	BRM1
+		Images:	1407
+		Time:	08.11.2025 08:34:59 until 08.11.2025 11:38:03
+		Duration:	03:03:04
+		Location:	39.76734 -86.16312
+
+	BST1
+		Images:	2855
+		Time:	08.11.2025 09:00:35 until 08.11.2025 14:55:13
+		Duration:	05:54:38
+		Location:	39.76734 -86.16312
+
+	BTM1
+		Images:	370
+		Time:	08.11.2025 09:16:48 until 08.11.2025 12:57:20
+		Duration:	03:40:32
+		Location:	39.76734 -86.16312
+
+	BYH1
+(6) - Finish
+	BKL1
+		Images:	20710
+		Time:	08.11.2025 08:16:39 until 08.11.2025 13:36:14
+		Duration:	05:19:35
+		Location:	39.76734 -86.16312
+
+	BNG1
+		Images:	40712
+		Time:	08.11.2025 07:44:15 until 08.11.2025 14:34:28
+		Duration:	06:50:13
+		Location:	39.76734 -86.16312
+
+	BNG1LS1
+		Images:	20967
+		Time:	31.10.2014 23:02:54 until 01.11.2014 08:50:46
+		Duration:	09:47:52
+		Location:	39.76734 -86.16312
+
+	BNG1LS2
+		Images:	18305
+		Time:	08.11.2025 05:39:18 until 08.11.2025 14:11:24
+		Duration:	08:32:06
+		Location:	39.76734 -86.16312
+
+(7) - Impressions / Pano
+	PANO1
+(8) - none
+	BCROP1
+		Images:	1257
+		Time:	08.11.2025 12:26:03 until 08.11.2025 13:31:08
+		Duration:	01:05:05
+		Location:	NULL NULL
+

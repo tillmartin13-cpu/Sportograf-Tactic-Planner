@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "48.35513" lon = "17.18338"><name>ADS1</name><desc>72,0 km
+Images:2789
+First:24.08.2025 08:53:00
+Last:24.08.2025 10:20:51
+Duration:01:27:51
+</desc></wpt>
+<wpt lat = "48.14031" lon = "17.10454"><name>EH1</name><desc>3,0 km
+Images:1808
+First:24.08.2025 06:37:01
+Last:24.08.2025 07:27:30
+Duration:00:50:29
+</desc></wpt>
+<wpt lat = "48.14031" lon = "17.10454"><name>EH1LS1</name><desc>3,0 km
+Images:543
+First:24.08.2025 07:06:49
+Last:24.08.2025 07:59:02
+Duration:00:52:13
+</desc></wpt>
+<wpt lat = "48.19051" lon = "17.09789"><name>EH2</name><desc>108,0 km
+Images:7144
+First:24.08.2025 08:52:12
+Last:24.08.2025 12:02:07
+Duration:03:09:55
+</desc></wpt>
+<wpt lat = "48.19051" lon = "17.09789"><name>EH2LS1</name><desc>108,0 km
+Images:4393
+First:24.08.2025 08:28:06
+Last:24.08.2025 12:18:44
+Duration:03:50:38
+</desc></wpt>
+<wpt lat = "48.19051" lon = "17.09789"><name>EH2LS2</name><desc>108,0 km
+Images:1177
+First:24.08.2025 08:41:34
+Last:24.08.2025 12:35:39
+Duration:03:54:05
+</desc></wpt>
+<wpt lat = "48.30205" lon = "17.25480"><name>LU1</name><desc>80,0 km
+Images:1945
+First:22.08.2025 13:05:47
+Last:24.08.2025 12:16:38
+Duration:1.23:10:51
+</desc></wpt>
+<wpt lat = "48.30205" lon = "17.25480"><name>LU1LS1</name><desc>80,0 km
+Images:1547
+First:24.08.2025 09:06:33
+Last:24.08.2025 10:50:01
+Duration:01:43:28
+</desc></wpt>
+<wpt lat = "48.14027" lon = "17.12319"><name>MSI1</name><desc>Start
+Images:1341
+First:24.08.2025 06:24:14
+Last:24.08.2025 07:16:57
+Duration:00:52:43
+</desc></wpt>
+<wpt lat = "48.14027" lon = "17.12319"><name>MSI1LS1</name><desc>Start
+Images:1026
+First:24.08.2025 06:45:36
+Last:24.08.2025 07:18:13
+Duration:00:32:37
+</desc></wpt>
+<wpt lat = "48.18397" lon = "17.09906"><name>MSI2</name><desc>Finish
+Images:5928
+First:24.08.2025 08:34:00
+Last:24.08.2025 12:42:13
+Duration:04:08:13
+</desc></wpt>
+<wpt lat = "48.18397" lon = "17.09906"><name>MSI2LS1</name><desc>Finish
+Images:5924
+First:24.08.2025 08:31:38
+Last:24.08.2025 12:40:32
+Duration:04:08:54
+</desc></wpt>
+<wpt lat = "48.18417" lon = "17.09907"><name>MSI2LS2</name><desc>110,0 km
+Images:2705
+First:24.08.2025 08:44:43
+Last:24.08.2025 12:15:25
+Duration:03:30:42
+</desc></wpt>
+<wpt lat = "48.24853" lon = "17.14437"><name>NAG1</name><desc>46,0 km
+Images:6685
+First:24.08.2025 07:35:20
+Last:24.08.2025 11:54:19
+Duration:04:18:59
+</desc></wpt>
+</gpx>

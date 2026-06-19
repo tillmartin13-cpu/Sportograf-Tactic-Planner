@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "47.02057" lon = "12.69840"><name>UEC1</name><desc>After Lucknerhaus
+Images:268
+First:25.07.2025 21:11:09
+Last:26.07.2025 08:52:11
+Duration:11:41:02
+</desc></wpt>
+<wpt lat = "47.02057" lon = "12.69840"><name>UEC1LS1</name><desc>After Lucknerhaus
+Images:188
+First:25.07.2025 21:08:22
+Last:26.07.2025 09:44:20
+Duration:12:35:58
+</desc></wpt>
+<wpt lat = "47.06905" lon = "12.76607"><name>CHR1</name><desc>Before Glocknerhaus
+Images:21
+First:26.07.2025 09:11:21
+Last:26.07.2025 10:12:57
+Duration:01:01:36
+</desc></wpt>
+<wpt lat = "47.06905" lon = "12.76607"><name>CHR1DRONE1</name><desc>Before Glocknerhaus
+Images:5
+First:26.07.2025 08:33:20
+Last:26.07.2025 08:34:33
+Duration:00:01:13
+</desc></wpt>
+<wpt lat = "47.06905" lon = "12.76607"><name>COR1</name><desc>Before Glocknerhaus
+Images:84
+First:26.07.2025 08:23:10
+Last:26.07.2025 10:10:20
+Duration:01:47:10
+</desc></wpt>
+<wpt lat = "47.06905" lon = "12.76607"><name>EP1</name><desc>Before Glocknerhaus
+Images:112
+First:26.07.2025 08:22:35
+Last:26.07.2025 08:54:00
+Duration:00:31:25
+</desc></wpt>
+<wpt lat = "47.27112" lon = "12.75801"><name>EP2</name><desc>Finish
+Images:143
+First:26.07.2025 11:30:29
+Last:26.07.2025 12:00:19
+Duration:00:29:50
+</desc></wpt>
+<wpt lat = "47.27112" lon = "12.75801"><name>LSE1</name><desc>Finish
+Images:284
+First:01.01.0001 23:00:00
+Last:26.07.2025 14:12:16
+Duration:739456.15:12:16
+</desc></wpt>
+</gpx>

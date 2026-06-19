@@ -1,0 +1,204 @@
+EventId: 13076
+Spots: 29
+Total Images: 75035
+Time:	31.12.2000 18:00:52 to 31.12.2099 22:59:59
+Duration: 36159.04:59:07
+
+(1) - 0.0 km Autocam Finish Line 854295
+	BFIN1
+		Images:	8040
+		Time:	24.03.2024 07:02:58 until 24.03.2024 10:09:47
+		Duration:	03:06:49
+		Location:	NULL NULL
+
+(2) - 0.0 km Brad kroll medals
+	MKROL1
+		Images:	216
+		Time:	24.03.2024 10:01:15 until 24.03.2024 12:21:02
+		Duration:	02:19:47
+		Location:	NULL NULL
+
+(3) - 0.0 km claudia pre candids, order 854254
+	BCLAU1
+		Images:	332
+		Time:	24.03.2024 04:39:05 until 24.03.2024 06:59:30
+		Duration:	02:20:25
+		Location:	NULL NULL
+
+(4) - 0.0 km claudia, medals, order 854291
+	MCLAU1
+		Images:	648
+		Time:	24.03.2024 07:06:33 until 24.03.2024 09:00:47
+		Duration:	01:54:14
+		Location:	NULL NULL
+
+(5) - 0.0 km edward after buffalo, medals, order 854288
+	MEDWA1
+		Images:	840
+		Time:	24.03.2024 06:59:19 until 24.03.2024 08:50:14
+		Duration:	01:50:55
+		Location:	NULL NULL
+
+(6) - 0.0 km Edward After Buffalo, pre candids, 854258
+	BEDWA1
+		Images:	235
+		Time:	24.03.2024 04:49:17 until 24.03.2024 06:43:39
+		Duration:	01:54:22
+		Location:	NULL NULL
+
+(7) - 0.0 km finish trigger 2, order 854296
+	CTRIG1
+		Images:	8526
+		Time:	24.03.2024 07:04:58 until 24.03.2024 10:16:47
+		Duration:	03:11:49
+		Location:	NULL NULL
+
+(8) - 0.0 km JC Denava, pre candids, order 854261
+	BJC1
+		Images:	153
+		Time:	23.03.2024 17:49:15 until 23.03.2024 20:01:38
+		Duration:	02:12:23
+		Location:	NULL NULL
+
+(9) - 0.0 km JC, medals, order 854287
+	MJC1
+		Images:	706
+		Time:	23.03.2024 20:05:38 until 23.03.2024 21:59:35
+		Duration:	01:53:57
+		Location:	NULL NULL
+
+(10) - 0.0 km JEFFALLTOPFINISH 854293
+	BJEFF1
+		Images:	8755
+		Time:	24.03.2024 07:56:48 until 24.03.2024 10:11:58
+		Duration:	02:15:10
+		Location:	NULL NULL
+
+(11) - 0.0 km john nero, pre candids, order 854255
+	BJOHN1
+		Images:	384
+		Time:	24.03.2024 04:43:45 until 24.03.2024 06:57:23
+		Duration:	02:13:38
+		Location:	NULL NULL
+
+(12) - 0.0 km john, medals, 854290
+	MJOHN1
+		Images:	435
+		Time:	24.03.2024 07:09:50 until 24.03.2024 08:52:29
+		Duration:	01:42:39
+		Location:	NULL NULL
+
+(13) - 0.0 km kim alifer, medals, 854253
+	MKIM1
+		Images:	1595
+		Time:	24.03.2024 04:43:23 until 24.03.2024 12:21:02
+		Duration:	07:37:39
+		Location:	NULL NULL
+
+(14) - 0.0 km mario, medals, order 854286
+	MMARI1
+		Images:	622
+		Time:	24.03.2024 08:10:52 until 24.03.2024 09:58:19
+		Duration:	01:47:27
+		Location:	NULL NULL
+
+(15) - 0.0 km Mario, pre candids, order 854262
+	BMARI1
+		Images:	185
+		Time:	24.03.2024 05:53:59 until 24.03.2024 07:48:55
+		Duration:	01:54:56
+		Location:	NULL NULL
+
+(16) - 0.0 km nicholas lalowski, medals, 854283
+	MNICH1
+		Images:	824
+		Time:	24.03.2024 07:54:40 until 24.03.2024 10:00:19
+		Duration:	02:05:39
+		Location:	NULL NULL
+
+(17) - 0.0 km Nicholas lalowski, pre candids, order 854259
+	BNICH1
+		Images:	270
+		Time:	24.03.2024 05:35:57 until 24.03.2024 07:41:44
+		Duration:	02:05:47
+		Location:	NULL NULL
+
+(18) - 0.0 km orlando Salgado Finish 854294
+	BORL1
+		Images:	12962
+		Time:	24.03.2024 06:52:06 until 24.03.2024 10:12:00
+		Duration:	03:19:54
+		Location:	NULL NULL
+
+(19) - 0.0 km pedric hales, medals, order 854285
+	MPED1
+		Images:	972
+		Time:	24.03.2024 07:13:22 until 24.03.2024 09:14:50
+		Duration:	02:01:28
+		Location:	NULL NULL
+
+(20) - 0.0 km pedric hales, pre candids, order 854257
+	BPEDR1
+		Images:	126
+		Time:	24.03.2024 05:06:41 until 24.03.2024 06:56:17
+		Duration:	01:49:36
+		Location:	NULL NULL
+
+(21) - 0.0 km PreFinish Autocam 2 854269
+	BTRIG1
+		Images:	8434
+		Time:	31.12.2013 19:30:01 until 31.12.2099 22:59:59
+		Duration:	31411.03:29:58
+		Location:	NULL NULL
+
+(22) - 0.0 km renita andani, medals, order 854289
+	MRENI1
+		Images:	1193
+		Time:	24.03.2024 08:19:50 until 24.03.2024 10:20:05
+		Duration:	02:00:15
+		Location:	NULL NULL
+
+(23) - 0.0 km renlita andari, pre candids, 854252
+	BREN1
+		Images:	525
+		Time:	24.03.2024 06:02:38 until 24.03.2024 08:15:57
+		Duration:	02:13:19
+		Location:	NULL NULL
+
+(24) - 0.0 km Steve Handworker PreFinish 854266
+	BHAND1
+		Images:	14215
+		Time:	24.03.2024 07:50:17 until 24.03.2024 10:06:53
+		Duration:	02:16:36
+		Location:	NULL NULL
+
+(25) - 0.0 km steven nunez, medals, 854256
+	MSTEV1
+		Images:	2060
+		Time:	24.03.2024 05:51:42 until 24.03.2024 09:49:06
+		Duration:	03:57:24
+		Location:	NULL NULL
+
+(26) - 0.0 km trent weyermuller, order 854284, medals
+	MTREN1
+		Images:	642
+		Time:	31.12.2000 18:00:52 until 24.03.2024 09:38:55
+		Duration:	8483.15:38:03
+		Location:	NULL NULL
+
+(27) - 0.0 km trent weyermuller, pre candids 854263
+	BTREN1
+		Images:	110
+		Time:	24.03.2024 05:54:54 until 24.03.2024 07:46:21
+		Duration:	01:51:27
+		Location:	NULL NULL
+
+(28) - 0.0 km vincent drakes, medals, 854260
+	MVINC1
+		Images:	1030
+		Time:	23.03.2024 18:56:22 until 23.03.2024 22:46:26
+		Duration:	03:50:04
+		Location:	NULL NULL
+
+(29) - Impressions / Pano
+	PANO1

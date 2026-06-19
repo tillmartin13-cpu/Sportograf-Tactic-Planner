@@ -1,0 +1,118 @@
+EventId: 14172
+Spots: 18
+Total Images: 39960
+Time:	06.09.2025 20:15:55 to 07.09.2025 15:02:43
+Duration: 18:46:48
+
+(1) - 2,91km (149km); 2,91km (99km)
+	ALEN1
+		Images:	749
+		Time:	07.09.2025 09:40:45 until 07.09.2025 09:54:38
+		Duration:	00:13:53
+		Location:	49.81926 6.36087
+
+	ALEN1LS1
+		Images:	2360
+		Time:	07.09.2025 09:36:22 until 07.09.2025 09:57:42
+		Duration:	00:21:20
+		Location:	49.81926 6.36087
+
+(2) - Impressions / Pano
+	ALEN1DRONE1
+		Images:	21
+		Time:	07.09.2025 09:42:10 until 07.09.2025 10:57:43
+		Duration:	01:15:33
+		Location:	49.81926 6.36087
+
+	PANO1
+(3) - 5,66km (149km); 5,66km (99km)
+	BAR1
+		Images:	7082
+		Time:	06.09.2025 20:20:26 until 07.09.2025 10:43:44
+		Duration:	14:23:18
+		Location:	49.81768 6.33287
+
+	BAR1LS1
+		Images:	1011
+		Time:	06.09.2025 20:15:55 until 07.09.2025 10:22:41
+		Duration:	14:06:46
+		Location:	49.81768 6.33287
+
+(4) - 5,79km (149km); 5,79km (99km)
+	CWA1
+		Images:	2660
+		Time:	07.09.2025 09:02:04 until 07.09.2025 10:02:31
+		Duration:	01:00:27
+		Location:	49.81695 6.33197
+
+(5) - 6,54km (149km); 6,54km (99km)
+	NWO1
+		Images:	1588
+		Time:	07.09.2025 09:38:41 until 07.09.2025 10:05:17
+		Duration:	00:26:36
+		Location:	49.81120 6.32773
+
+	NWO1LS1
+		Images:	469
+		Time:	07.09.2025 09:30:19 until 07.09.2025 10:18:49
+		Duration:	00:48:30
+		Location:	49.81120 6.32773
+
+	NWO1LS2
+		Images:	735
+		Time:	07.09.2025 09:34:03 until 07.09.2025 10:20:37
+		Duration:	00:46:34
+		Location:	49.81120 6.32773
+
+(6) - 102,46km (149km); 49,86km (99km)
+	CWA2
+		Images:	4193
+		Time:	07.09.2025 10:47:23 until 07.09.2025 14:22:31
+		Duration:	03:35:08
+		Location:	49.81125 6.32786
+
+(7) - 103,42km (149km); 50,70km (99km)
+	ALEN2
+		Images:	2008
+		Time:	07.09.2025 10:49:51 until 07.09.2025 14:28:00
+		Duration:	03:38:09
+		Location:	49.81730 6.33235
+
+	ALEN2LS1
+		Images:	4016
+		Time:	07.09.2025 10:27:50 until 07.09.2025 14:28:29
+		Duration:	04:00:39
+		Location:	49.81730 6.33235
+
+(8) - 103,52km (149km); 50,86km (99km)
+	BAR2
+		Images:	8656
+		Time:	07.09.2025 10:45:34 until 07.09.2025 14:28:42
+		Duration:	03:43:08
+		Location:	49.81786 6.33346
+
+	BAR2LS1
+		Images:	1268
+		Time:	07.09.2025 10:29:00 until 07.09.2025 12:37:21
+		Duration:	02:08:21
+		Location:	49.81786 6.33346
+
+(9) - 115,8km (149km); 63,14km (99km)
+	NWO2
+		Images:	1799
+		Time:	07.09.2025 11:35:12 until 07.09.2025 15:02:43
+		Duration:	03:27:31
+		Location:	49.74337 6.36712
+
+	NWO2LS2
+		Images:	658
+		Time:	07.09.2025 11:57:17 until 07.09.2025 14:48:32
+		Duration:	02:51:15
+		Location:	49.74337 6.36712
+
+	NWO2LS1
+		Images:	687
+		Time:	07.09.2025 11:41:02 until 07.09.2025 14:38:13
+		Duration:	02:57:11
+		Location:	49.74337 6.36712
+

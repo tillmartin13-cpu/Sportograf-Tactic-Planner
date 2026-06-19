@@ -1,0 +1,271 @@
+EventId: 12992
+Spots: 40
+Total Images: 278679
+Time:	24.05.2024 14:08:28 to 25.05.2024 18:25:56
+Duration: 1.04:17:28
+
+(1) - 0.0 km
+	ATIM1DRONE1
+		Images:	62
+		Time:	25.05.2024 04:30:48 until 25.05.2024 13:04:38
+		Duration:	08:33:50
+		Location:	50.60197 10.81440
+
+(2) - HM- | M- | W- | SM2,4 (Burschenschaftsdenkmal)
+	ACKO1
+		Images:	3363
+		Time:	25.05.2024 05:26:29 until 25.05.2024 08:17:15
+		Duration:	02:50:46
+		Location:	50.96723 10.33904
+
+(3) - HM- | M- | W- | SM25,6 (Großer Inselberg)
+	ALPI1
+		Images:	12565
+		Time:	25.05.2024 06:48:03 until 25.05.2024 10:38:50
+		Duration:	03:50:47
+		Location:	50.84986 10.46876
+
+(4) - HM- | M10,5 | W- | SM-
+	ADG2
+		Images:	3317
+		Time:	25.05.2024 10:19:21 until 25.05.2024 11:19:55
+		Duration:	01:00:34
+		Location:	50.47416 11.03994
+
+(5) - HM- | M10,6 | W- | SM- (Dreistromstein)
+	ADASC3
+		Images:	4422
+		Time:	25.05.2024 07:18:00 until 25.05.2024 11:20:12
+		Duration:	04:02:12
+		Location:	50.47391 11.03990
+
+(6) - HM- | M18,4 | W- | SM- (Rennsteigwarte)
+	ARENA1
+		Images:	5384
+		Time:	25.05.2024 10:09:52 until 25.05.2024 13:03:47
+		Duration:	02:53:55
+		Location:	50.51079 10.96932
+
+(7) - HM- | M29,4 | W- | SM- (Bergwiesen Neustadt)
+	AVLE1LS1
+		Images:	2655
+		Time:	25.05.2024 10:49:36 until 25.05.2024 16:17:35
+		Duration:	05:27:59
+		Location:	50.58616 10.92472
+
+	AVLE2
+		Images:	3283
+		Time:	25.05.2024 07:01:35 until 25.05.2024 16:17:45
+		Duration:	09:16:10
+		Location:	50.58616 10.92472
+
+(8) - HM0,3 | M- | W- | SM- (Skipiste)
+	AALRI1
+		Images:	1932
+		Time:	25.05.2024 07:18:35 until 25.05.2024 08:16:06
+		Duration:	00:57:31
+		Location:	50.70856 10.69233
+
+	ALEOG1
+		Images:	2218
+		Time:	24.05.2024 15:23:26 until 25.05.2024 15:00:39
+		Duration:	23:37:13
+		Location:	50.70827 10.69215
+
+(9) - HM10,0 | M- | W7,1 | SM62,4 (Großer Beerberg)
+	ASF1
+		Images:	16769
+		Time:	25.05.2024 07:42:17 until 25.05.2024 16:20:54
+		Duration:	08:38:37
+		Location:	50.65323 10.75121
+
+(10) - HM15,0 | M- | W11,3 | SM67,4 (Mordfleck)
+	ATGR2
+		Images:	9833
+		Time:	25.05.2024 08:22:26 until 25.05.2024 17:07:25
+		Duration:	08:44:59
+		Location:	50.63676 10.77652
+
+(11) - HM15,5 | M- | W- | SM67,8
+	ACKO2
+		Images:	24836
+		Time:	25.05.2024 08:18:07 until 25.05.2024 17:17:30
+		Duration:	08:59:23
+		Location:	50.63372 10.77799
+
+(12) - HM4,6 | M- | W1,7 | SM57,0 (Rondell/Rennsteigbrücke)
+	AREM1
+		Images:	13548
+		Time:	24.05.2024 22:39:59 until 25.05.2024 15:22:25
+		Duration:	16:42:26
+		Location:	50.69416 10.72007
+
+	AREM1LS2
+		Images:	5429
+		Time:	25.05.2024 07:36:16 until 25.05.2024 15:39:49
+		Duration:	08:03:33
+		Location:	50.69416 10.72007
+
+	AREM1LS3
+		Images:	3875
+		Time:	24.05.2024 23:04:09 until 25.05.2024 11:45:29
+		Duration:	12:41:20
+		Location:	50.69416 10.72007
+
+(13) - HM6,2 | M- | W3,3 | SM58,6 (Sommerwiese)
+	ASLE1
+		Images:	8759
+		Time:	25.05.2024 07:34:01 until 25.05.2024 15:38:37
+		Duration:	08:04:36
+		Location:	50.68154 10.73175
+
+(14) - HM6,5 | M- | W3,6 | SM58,9
+	APMA1
+		Images:	23995
+		Time:	25.05.2024 07:24:47 until 25.05.2024 15:43:16
+		Duration:	08:18:29
+		Location:	50.67913 10.73036
+
+	APMA1LS1
+		Images:	10215
+		Time:	24.05.2024 22:56:19 until 25.05.2024 15:19:49
+		Duration:	16:23:30
+		Location:	50.67913 10.73036
+
+(15) - HM9,5 | M- | W6,6 | SM61,9 (Plänckners Aussicht)
+	ASK1
+		Images:	12320
+		Time:	24.05.2024 18:16:18 until 25.05.2024 16:28:40
+		Duration:	22:12:22
+		Location:	50.65662 10.74404
+
+	ASK1LS1
+		Images:	4900
+		Time:	25.05.2024 07:31:38 until 25.05.2024 16:14:51
+		Duration:	08:43:13
+		Location:	50.65662 10.74404
+
+(16) - Impressionen
+	AMIV1
+		Images:	2937
+		Time:	24.05.2024 14:08:28 until 25.05.2024 16:09:28
+		Duration:	1.02:01:00
+		Location:	50.60167 10.81456
+
+(17) - Impressions / Pano
+	PANO1
+		Images:	2
+		Time:	25.05.2024 04:32:22 until 25.05.2024 13:02:52
+		Duration:	08:30:30
+		Location:	50.60197 10.81440
+
+(18) - Medaillen
+	AALES1
+		Images:	5297
+		Time:	25.05.2024 06:44:30 until 25.05.2024 18:24:23
+		Duration:	11:39:53
+		Location:	50.60167 10.81456
+
+	ALPI2
+		Images:	1644
+		Time:	25.05.2024 12:32:42 until 25.05.2024 18:25:56
+		Duration:	05:53:14
+		Location:	50.60197 10.81440
+
+	APU1
+		Images:	4096
+		Time:	25.05.2024 07:24:05 until 25.05.2024 18:19:53
+		Duration:	10:55:48
+		Location:	50.60167 10.81456
+
+(19) - Start Halbmarathon
+	AHV1
+		Images:	2062
+		Time:	25.05.2024 07:15:29 until 25.05.2024 08:13:46
+		Duration:	00:58:17
+		Location:	50.70788 10.69369
+
+	AHV1LS1
+		Images:	729
+		Time:	25.05.2024 07:26:13 until 25.05.2024 08:15:12
+		Duration:	00:48:59
+		Location:	50.70788 10.69369
+
+	ASEB1
+		Images:	2074
+		Time:	25.05.2024 06:50:44 until 25.05.2024 08:13:54
+		Duration:	01:23:10
+		Location:	50.70788 10.69369
+
+(20) - Start Marathon
+	ADG1
+		Images:	2131
+		Time:	25.05.2024 08:59:28 until 25.05.2024 09:18:22
+		Duration:	00:18:54
+		Location:	50.50758 11.14418
+
+(21) - Start Supermarathon
+	ATGR1
+		Images:	810
+		Time:	25.05.2024 05:52:04 until 25.05.2024 06:02:41
+		Duration:	00:10:37
+		Location:	50.97491 10.3203
+
+(22) - Ziel
+	AHV2
+		Images:	6546
+		Time:	25.05.2024 10:09:52 until 25.05.2024 17:53:19
+		Duration:	07:43:27
+		Location:	50.60197 10.81440
+
+	AHV2LS1
+		Images:	13644
+		Time:	25.05.2024 09:32:37 until 25.05.2024 17:54:37
+		Duration:	08:22:00
+		Location:	50.60197 10.81440
+
+	AMASC1
+		Images:	16880
+		Time:	25.05.2024 05:26:29 until 25.05.2024 18:24:10
+		Duration:	12:57:41
+		Location:	50.60167 10.81456
+
+	AMIKO2
+		Images:	5385
+		Time:	25.05.2024 11:50:50 until 25.05.2024 18:24:02
+		Duration:	06:33:12
+		Location:	50.60167 10.81456
+
+	ATIM1
+		Images:	9093
+		Time:	25.05.2024 05:18:41 until 25.05.2024 11:49:25
+		Duration:	06:30:44
+		Location:	50.60197 10.81440
+
+	ATIM1LS1
+		Images:	13986
+		Time:	25.05.2024 06:55:43 until 25.05.2024 18:03:01
+		Duration:	11:07:18
+		Location:	50.60197 10.81440
+
+(23) - Zieleinlauf Marathon
+	ALEOG2
+		Images:	6652
+		Time:	25.05.2024 11:09:01 until 25.05.2024 17:47:31
+		Duration:	06:38:30
+		Location:	50.60282 10.81528
+
+(24) - Zieleinlauf Supermarathon
+	ASEB2
+		Images:	6724
+		Time:	25.05.2024 10:20:09 until 25.05.2024 18:09:59
+		Duration:	07:49:50
+		Location:	50.60314 10.81382
+
+(25) - Zieleinlauf Wanderung
+	AALRI3
+		Images:	4307
+		Time:	25.05.2024 09:56:44 until 25.05.2024 15:04:47
+		Duration:	05:08:03
+		Location:	50.70856 10.69233
+

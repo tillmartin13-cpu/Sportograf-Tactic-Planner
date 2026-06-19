@@ -1,0 +1,382 @@
+EventId: 12216
+Spots: 57
+Total Images: 328286
+Time:	26.04.2024 19:30:11 to 27.04.2024 20:48:34
+Duration: 1.01:18:23
+
+(1) - 106.5 km
+	AFJPH1
+		Images:	4315
+		Time:	27.04.2024 07:12:48 until 27.04.2024 12:25:53
+		Duration:	05:13:05
+		Location:	39.68341 2.50044
+
+(2) - 112.0 km
+	AFRSA1
+		Images:	6735
+		Time:	27.04.2024 08:30:04 until 27.04.2024 12:58:25
+		Duration:	04:28:21
+		Location:	39.65341 2.48227
+
+(3) - 117.1 km
+	AMRG1
+		Images:	5213
+		Time:	27.04.2024 07:14:37 until 27.04.2024 12:26:13
+		Duration:	05:11:36
+		Location:	39.64549 2.45166
+
+(4) - 120.0 km
+	AWRFG1
+		Images:	12980
+		Time:	27.04.2024 09:06:49 until 27.04.2024 13:15:19
+		Duration:	04:08:30
+		Location:	39.62433 2.42431
+
+(5) - 30.0 km
+	AMRAB1
+		Images:	6283
+		Time:	27.04.2024 07:12:09 until 27.04.2024 08:51:50
+		Duration:	01:39:41
+		Location:	39.86649 2.92431
+
+(6) - 30.5 km
+	APSP1
+		Images:	2953
+		Time:	27.04.2024 07:19:51 until 27.04.2024 08:34:24
+		Duration:	01:14:33
+		Location:	39.86492 2.91944
+
+(7) - 45.0 km
+	AJRD1
+		Images:	6088
+		Time:	27.04.2024 07:03:53 until 27.04.2024 10:06:18
+		Duration:	03:02:25
+		Location:	39.82876 2.83716
+
+(8) - 49.0 km
+	AMPP1
+		Images:	11154
+		Time:	27.04.2024 06:55:24 until 27.04.2024 10:12:23
+		Duration:	03:16:59
+		Location:	39.80717 2.8193
+
+	AMPP1LS1
+		Images:	4623
+		Time:	27.04.2024 07:28:35 until 27.04.2024 10:01:34
+		Duration:	02:32:59
+		Location:	39.80717 2.8193
+
+(9) - 56.0 km
+	AMANR1
+		Images:	18050
+		Time:	27.04.2024 07:24:09 until 27.04.2024 10:37:18
+		Duration:	03:13:09
+		Location:	39.79052 2.77442
+
+	AMANR1LS1
+		Images:	5717
+		Time:	27.04.2024 07:24:05 until 27.04.2024 10:32:27
+		Duration:	03:08:22
+		Location:	39.79052 2.77442
+
+(10) - 57.3 km
+	AMIFP1
+		Images:	5303
+		Time:	27.04.2024 07:31:26 until 27.04.2024 10:58:32
+		Duration:	03:27:06
+		Location:	39.79771 2.7732
+
+	AMIFP1LS1
+		Images:	5478
+		Time:	27.04.2024 08:16:27 until 27.04.2024 10:42:24
+		Duration:	02:25:57
+		Location:	39.79771 2.7732
+
+(11) - 59.0 km
+	AACC1
+		Images:	19029
+		Time:	27.04.2024 07:03:39 until 27.04.2024 11:00:41
+		Duration:	03:57:02
+		Location:	39.7962 2.76696
+
+(12) - 63.7 km
+	AGETK1
+		Images:	14507
+		Time:	27.04.2024 06:58:27 until 27.04.2024 11:25:51
+		Duration:	04:27:24
+		Location:	39.79028 2.72575
+
+(13) - 64.0 km
+	AKKP1
+		Images:	6250
+		Time:	27.04.2024 07:16:41 until 27.04.2024 11:24:11
+		Duration:	04:07:30
+		Location:	39.79028 2.72575
+
+(14) - 72.0 km
+	AACP1
+		Images:	16335
+		Time:	27.04.2024 08:27:22 until 27.04.2024 11:45:15
+		Duration:	03:17:53
+		Location:	39.78463 2.73388
+
+(15) - 77.8 km
+	AJLTG1
+		Images:	7325
+		Time:	27.04.2024 07:44:16 until 27.04.2024 12:00:43
+		Duration:	04:16:27
+		Location:	39.77427 2.69845
+
+(16) - 80.5 km
+	AJCR1
+		Images:	6001
+		Time:	27.04.2024 07:17:33 until 27.04.2024 12:22:38
+		Duration:	05:05:05
+		Location:	39.7648 2.65516
+
+	AJCR1LS1
+		Images:	5319
+		Time:	27.04.2024 08:34:52 until 27.04.2024 11:49:17
+		Duration:	03:14:25
+		Location:	39.7648 2.65516
+
+	AJCR1LS2
+		Images:	5624
+		Time:	27.04.2024 07:00:06 until 27.04.2024 11:48:57
+		Duration:	04:48:51
+		Location:	39.7648 2.65516
+
+(17) - 84.0 km
+	ATGM1
+		Images:	8873
+		Time:	27.04.2024 08:51:05 until 27.04.2024 12:03:30
+		Duration:	03:12:25
+		Location:	39.7463 2.64951
+
+	ATGM1LS1
+		Images:	6321
+		Time:	27.04.2024 08:34:20 until 27.04.2024 12:01:47
+		Duration:	03:27:27
+		Location:	39.7463 2.64951
+
+	ATGM1LS2
+		Images:	6022
+		Time:	27.04.2024 07:25:52 until 27.04.2024 12:11:29
+		Duration:	04:45:37
+		Location:	39.7463 2.64951
+
+(18) - Finish
+	DAFE1
+		Images:	14759
+		Time:	27.04.2024 08:17:52 until 27.04.2024 20:46:03
+		Duration:	12:28:11
+		Location:	39.80698 3.11673
+
+	DAFE1LS1
+		Images:	5201
+		Time:	27.04.2024 08:19:53 until 27.04.2024 20:32:43
+		Duration:	12:12:50
+		Location:	39.80698 3.11673
+
+	DAFE1LS2
+		Images:	5518
+		Time:	27.04.2024 08:17:52 until 27.04.2024 20:44:55
+		Duration:	12:27:03
+		Location:	39.80698 3.11673
+
+	MRAB1
+		Images:	10768
+		Time:	27.04.2024 11:09:27 until 27.04.2024 20:48:34
+		Duration:	09:39:07
+		Location:	39.80698 3.11673
+
+	PSP1
+		Images:	4569
+		Time:	27.04.2024 11:09:29 until 27.04.2024 20:46:02
+		Duration:	09:36:33
+		Location:	39.80698 3.11673
+
+(19) - Impressions / Pano
+	PANO1
+		Images:	1
+		Time:	26.04.2024 19:30:11 until 26.04.2024 19:30:11
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(20) - Km 184,4
+	JRD1
+		Images:	4368
+		Time:	27.04.2024 14:45:02 until 27.04.2024 17:07:40
+		Duration:	02:22:38
+		Location:	39.72148 2.82952
+
+(21) - Km 190
+	MANR1
+		Images:	2578
+		Time:	27.04.2024 15:21:07 until 27.04.2024 17:00:30
+		Duration:	01:39:23
+		Location:	39.72032 2.84504
+
+	MANR1LS1
+		Images:	1118
+		Time:	27.04.2024 15:15:50 until 27.04.2024 16:58:13
+		Duration:	01:42:23
+		Location:	39.72032 2.84504
+
+(22) - Km 190,6
+	MPP1
+		Images:	3799
+		Time:	27.04.2024 14:59:21 until 27.04.2024 16:58:21
+		Duration:	01:59:00
+		Location:	39.72115 2.84628
+
+	MPP1DRONE1
+		Images:	15
+		Time:	27.04.2024 15:58:17 until 27.04.2024 16:01:34
+		Duration:	00:03:17
+		Location:	39.72115 2.84628
+
+(23) - Km 191
+	MIFP1
+		Images:	1516
+		Time:	27.04.2024 15:05:09 until 27.04.2024 16:53:06
+		Duration:	01:47:57
+		Location:	39.72171 2.84729
+
+	MIFP1LS1
+		Images:	4705
+		Time:	27.04.2024 14:56:10 until 27.04.2024 16:54:31
+		Duration:	01:58:21
+		Location:	39.72171 2.84729
+
+(24) - Km 191,5
+	ACC1
+		Images:	10025
+		Time:	27.04.2024 13:05:22 until 27.04.2024 17:24:08
+		Duration:	04:18:46
+		Location:	39.71656 2.85291
+
+(25) - Km 192
+	GETK1
+		Images:	12058
+		Time:	27.04.2024 12:53:36 until 27.04.2024 17:34:34
+		Duration:	04:40:58
+		Location:	39.71142 2.86075
+
+(26) - Km 195,6
+	KKP1
+		Images:	3750
+		Time:	27.04.2024 13:25:15 until 27.04.2024 17:21:18
+		Duration:	03:56:03
+		Location:	39.73127 2.88302
+
+(27) - Km 246
+	ACP1
+		Images:	5041
+		Time:	27.04.2024 15:32:53 until 27.04.2024 18:43:34
+		Duration:	03:10:41
+		Location:	39.63815 3.14118
+
+	ACP1LS1
+		Images:	1968
+		Time:	27.04.2024 15:14:12 until 27.04.2024 18:21:24
+		Duration:	03:07:12
+		Location:	39.63815 3.14118
+
+	ACP1LS2
+		Images:	1889
+		Time:	27.04.2024 15:27:50 until 27.04.2024 18:21:24
+		Duration:	02:53:34
+		Location:	39.63815 3.14118
+
+(28) - Km 247,7
+	JLTG1
+		Images:	2739
+		Time:	27.04.2024 16:01:37 until 27.04.2024 18:49:02
+		Duration:	02:47:25
+		Location:	39.63008 3.12956
+
+	JLTG1LS1
+		Images:	1686
+		Time:	27.04.2024 15:52:39 until 27.04.2024 17:59:02
+		Duration:	02:06:23
+		Location:	39.63008 3.12956
+
+	JLTG1LS2
+		Images:	1779
+		Time:	27.04.2024 15:41:12 until 27.04.2024 17:59:03
+		Duration:	02:17:51
+		Location:	39.63008 3.12956
+
+(29) - Km 248
+	JCR1
+		Images:	3074
+		Time:	27.04.2024 15:19:17 until 27.04.2024 19:01:53
+		Duration:	03:42:36
+		Location:	39.62891 3.13207
+
+	JCR1LS1
+		Images:	2644
+		Time:	27.04.2024 15:21:30 until 27.04.2024 18:50:08
+		Duration:	03:28:38
+		Location:	39.62891 3.13207
+
+	JCR1LS2
+		Images:	2505
+		Time:	27.04.2024 15:27:44 until 27.04.2024 18:49:57
+		Duration:	03:22:13
+		Location:	39.62891 3.13207
+
+(30) - Km 249
+	TGM1
+		Images:	4330
+		Time:	27.04.2024 15:28:32 until 27.04.2024 18:49:34
+		Duration:	03:21:02
+		Location:	39.61901 3.12401
+
+	TGM1LS1
+		Images:	1694
+		Time:	27.04.2024 15:42:58 until 27.04.2024 18:49:08
+		Duration:	03:06:10
+		Location:	39.61901 3.12401
+
+	TGM1LS2
+		Images:	1443
+		Time:	27.04.2024 15:28:32 until 27.04.2024 18:49:34
+		Duration:	03:21:02
+		Location:	39.61901 3.12401
+
+(31) - Km 254
+	FJPH1
+		Images:	2261
+		Time:	27.04.2024 15:32:54 until 27.04.2024 18:08:31
+		Duration:	02:35:37
+		Location:	39.6415 3.16582
+
+(32) - Km 255,5
+	FRSA1
+		Images:	3790
+		Time:	27.04.2024 15:30:33 until 27.04.2024 18:14:48
+		Duration:	02:44:15
+		Location:	39.64081 3.17466
+
+(33) - Km 256
+	MRG1
+		Images:	3814
+		Time:	27.04.2024 15:34:09 until 27.04.2024 18:16:07
+		Duration:	02:41:58
+		Location:	39.63716 3.17178
+
+	WRFG1
+		Images:	4104
+		Time:	27.04.2024 16:01:44 until 27.04.2024 18:13:05
+		Duration:	02:11:21
+		Location:	39.63253 3.1667
+
+(34) - Start
+	ADAFE1
+		Images:	2279
+		Time:	27.04.2024 05:42:43 until 27.04.2024 08:13:23
+		Duration:	02:30:40
+		Location:	39.80699 3.11673
+

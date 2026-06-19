@@ -1,0 +1,62 @@
+EventId: 14505
+Spots: 8
+Total Images: 15317
+Time:	17.05.2025 09:54:18 to 18.05.2025 13:30:00
+Duration: 1.03:35:42
+
+(1) - Obstacle 2 slippery slope
+	RLLA1
+		Images:	771
+		Time:	17.05.2025 09:54:18 until 18.05.2025 10:08:55
+		Duration:	1.00:14:37
+		Location:	46.13840 10.96234
+
+(2) - Obstacle 6 floating island
+	DCC1
+		Images:	1277
+		Time:	17.05.2025 10:34:23 until 18.05.2025 13:30:00
+		Duration:	1.02:55:37
+		Location:	46.14109 10.96847
+
+(3) - Obstacle 7 monkey ring swing
+	FRN1
+		Images:	8735
+		Time:	17.05.2025 11:03:31 until 17.05.2025 13:56:26
+		Duration:	02:52:55
+		Location:	46.14109 10.96847
+
+(4) - Obstacle 11 balance tree trunk
+	LLM1
+		Images:	1459
+		Time:	17.05.2025 10:41:53 until 18.05.2025 11:13:14
+		Duration:	1.00:31:21
+		Location:	46.14643 10.95211
+
+(5) - Obstacle 12 climb the rock
+	NBI1
+		Images:	746
+		Time:	17.05.2025 11:16:52 until 17.05.2025 14:25:10
+		Duration:	03:08:18
+		Location:	46.14643 10.95211
+
+(6) - Obstacle 30 fire jump
+	RLLA2
+		Images:	1906
+		Time:	17.05.2025 12:10:45 until 17.05.2025 15:55:32
+		Duration:	03:44:47
+		Location:	46.13840 10.96234
+
+(7) - Finish
+	FRN1LS1
+		Images:	368
+		Time:	17.05.2025 10:34:13 until 17.05.2025 15:55:56
+		Duration:	05:21:43
+		Location:	46.13840 10.96234
+
+(8) - Impressions / Pano
+	FRN1DRONE1
+		Images:	55
+		Time:	17.05.2025 14:48:21 until 18.05.2025 12:10:33
+		Duration:	21:22:12
+		Location:	46.13840 10.96234
+

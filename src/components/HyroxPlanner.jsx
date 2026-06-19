@@ -418,7 +418,7 @@ export function HyroxPlanner() {
             onClick={addShift}
             className="rounded-xl border-2 border-dashed border-gray-300 px-3 py-1.5 text-xs font-bold text-gray-400 hover:border-[#1C2B6B] hover:text-[#1C2B6B] transition-colors"
           >
-            + Schicht
+            {language === 'de' ? '+ Schicht' : '+ Shift'}
           </button>
         </div>
       </div>
@@ -426,7 +426,10 @@ export function HyroxPlanner() {
       {/* Rotation preview banner */}
       {rotationPreview && (
         <div className="rounded-xl border border-[#c4b5fd] bg-[#f5f0ff] px-4 py-2.5 text-xs text-[#6d28d9]">
-          <span className="font-bold">Rotationsvorschlag für Tag {day.id}:</span> Basierend auf Tag {days[safeIdx - 1].id} — späte Stationen (Finish, Wall Balls) werden vermieden, Wiederholungen minimiert. Drag-Drop zum Anpassen, dann „Übernehmen".
+          {language === 'de'
+            ? <><span className="font-bold">Rotationsvorschlag für Tag {day.id}:</span> Basierend auf Tag {days[safeIdx - 1].id} — späte Stationen (Finish, Hero Wall) werden vermieden, Wiederholungen minimiert. Drag-Drop zum Anpassen, dann „Übernehmen".</>
+            : <><span className="font-bold">Rotation suggestion for Day {day.id}:</span> Based on Day {days[safeIdx - 1].id} — late stations (Finish, Hero Wall) avoided, repetitions minimized. Drag & drop to adjust, then apply.</>
+          }
         </div>
       )}
 
@@ -458,7 +461,7 @@ export function HyroxPlanner() {
                   </span>
                   {count > 0 ? (
                     <span className={`text-[10px] font-bold ${isGreen ? 'text-green-600' : 'text-yellow-600'}`}>
-                      {count} {count === 1 ? 'Station' : 'Stationen'}
+                      {count} {language === 'de' ? (count === 1 ? 'Station' : 'Stationen') : (count === 1 ? 'Station' : 'Stations')}
                     </span>
                   ) : (
                     <span className="truncate text-[10px] text-gray-400">{ph.firstName || ph.name || ''}</span>
@@ -517,7 +520,7 @@ export function HyroxPlanner() {
                         <div className="flex items-center gap-2">
                           <span className="inline-block h-2.5 w-2.5 shrink-0 rounded-full" style={{ background: station.color }} />
                           <span className="text-xs font-bold text-gray-700">{station.label}</span>
-                          {isLate && <span className="text-[9px] font-bold text-orange-400 uppercase">spät</span>}
+                          {isLate && <span className="text-[9px] font-bold text-orange-400 uppercase">{language === 'de' ? 'spät' : 'late'}</span>}
                         </div>
                         <StationImages stationId={station.id} />
                       </td>

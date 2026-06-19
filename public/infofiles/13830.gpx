@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "47.26890" lon = "11.39263"><name>SBRO1</name><desc>Start
+Images:271
+First:14.06.2025 20:26:12
+Last:15.06.2025 06:54:13
+Duration:10:28:01
+</desc></wpt>
+<wpt lat = "47.24208" lon = "10.89837"><name>CHR1</name><desc>S1 Haiminger Berg
+Images:2249
+First:15.06.2025 07:37:07
+Last:15.06.2025 09:42:46
+Duration:02:05:39
+</desc></wpt>
+<wpt lat = "47.24208" lon = "10.89837"><name>CHR1DRONE1</name><desc>S1 Haiminger Berg
+Images:11
+First:15.06.2025 08:07:30
+Last:15.06.2025 08:14:53
+Duration:00:07:23
+</desc></wpt>
+<wpt lat = "47.24208" lon = "10.89837"><name>CHR1LS1</name><desc>S1 Haiminger Berg
+Images:1762
+First:15.06.2025 07:59:31
+Last:15.06.2025 09:01:09
+Duration:01:01:38
+</desc></wpt>
+<wpt lat = "47.20973" lon = "10.88335"><name>JH1</name><desc>S1 Downhill Oetz
+Images:2173
+First:15.06.2025 08:38:14
+Last:15.06.2025 10:41:57
+Duration:02:03:43
+</desc></wpt>
+<wpt lat = "47.20973" lon = "10.88335"><name>JH1LS1</name><desc>S1 Downhill Oetz
+Images:1410
+First:15.06.2025 08:21:14
+Last:15.06.2025 10:41:43
+Duration:02:20:29
+</desc></wpt>
+<wpt lat = "47.20973" lon = "10.88335"><name>SBRO2</name><desc>S1 Roppen Ausblick
+Images:2363
+First:15.06.2025 08:09:49
+Last:15.06.2025 11:26:16
+Duration:03:16:27
+</desc></wpt>
+<wpt lat = "47.24094" lon = "10.74701"><name>SBRO3</name><desc>S1 Siegerehrung
+Images:105
+First:15.06.2025 15:46:14
+Last:16.06.2025 08:35:37
+Duration:16:49:23
+</desc></wpt>
+<wpt lat = "47.11703" lon = "10.66749"><name>CHR2</name><desc>S2 Pillerhöhe KM20
+Images:2032
+First:16.06.2025 09:44:43
+Last:16.06.2025 10:49:18
+Duration:01:04:35
+</desc></wpt>
+<wpt lat = "47.11703" lon = "10.66749"><name>CHR2DRONE1</name><desc>S2 Pillerhöhe KM20
+Images:9
+First:16.06.2025 10:18:14
+Last:16.06.2025 10:23:44
+Duration:00:05:30
+</desc></wpt>
+<wpt lat = "47.11703" lon = "10.66749"><name>CHR2LS1</name><desc>S2 Pillerhöhe KM20
+Images:958
+First:16.06.2025 09:15:35
+Last:16.06.2025 10:35:27
+Duration:01:19:52
+</desc></wpt>
+<wpt lat = "47.10653" lon = "10.68015"><name>JH2LS2</name><desc>S2 Pillerhöhe KM22
+Images:672
+First:16.06.2025 09:35:35
+Last:16.06.2025 11:03:35
+Duration:01:28:00
+</desc></wpt>
+<wpt lat = "47.10653" lon = "10.68015"><name>JH2LS1</name><desc>S2 Pillerhöhe KM22
+Images:689
+First:16.06.2025 09:26:01
+Last:16.06.2025 10:58:58
+Duration:01:32:57
+</desc></wpt>
+<wpt lat = "47.10653" lon = "10.68015"><name>JH2</name><desc>S2 Pillerhöhe KM22
+Images:1982
+First:16.06.2025 09:32:34
+Last:16.06.2025 10:58:42
+Duration:01:26:08
+</desc></wpt>
+<wpt lat = "47.07891" lon = "10.69672"><name>SBRO4</name><desc>S2 Downhill Kauns
+Images:2649
+First:16.06.2025 08:40:18
+Last:16.06.2025 11:18:21
+Duration:02:38:03
+</desc></wpt>
+<wpt lat = "46.96773" lon = "10.53424"><name>SBRO5</name><desc>S2 Siegerehrung
+Images:191
+First:16.06.2025 12:08:27
+Last:17.06.2025 09:44:58
+Duration:21:36:31
+</desc></wpt>
+<wpt lat = "46.53391" lon = "10.47525"><name>SBRO6</name><desc>S3 Uphill Passo Stelvio KM75.5
+Images:4401
+First:17.06.2025 09:52:36
+Last:17.06.2025 15:45:24
+Duration:05:52:48
+</desc></wpt>
+<wpt lat = "46.52985" lon = "10.45277"><name>CHR3</name><desc>S3 Uphill Passo Stelvio KM80
+Images:2506
+First:17.06.2025 10:33:27
+Last:17.06.2025 15:43:35
+Duration:05:10:08
+</desc></wpt>
+<wpt lat = "46.52985" lon = "10.45277"><name>CHR3DRONE1</name><desc>S3 Uphill Passo Stelvio KM80
+Images:10
+First:17.06.2025 12:55:36
+Last:17.06.2025 13:00:08
+Duration:00:04:32
+</desc></wpt>
+<wpt lat = "46.52985" lon = "10.45277"><name>CHR3LS1</name><desc>S3 Uphill Passo Stelvio KM80
+Images:1241
+First:17.06.2025 12:00:44
+Last:17.06.2025 13:18:42
+Duration:01:17:58
+</desc></wpt>
+<wpt lat = "46.51498" lon = "10.40449"><name>JH3</name><desc>S3 Downhill Passo Stelvio KM90.5
+Images:3365
+First:17.06.2025 11:58:34
+Last:17.06.2025 15:26:36
+Duration:03:28:02
+</desc></wpt>
+<wpt lat = "46.51498" lon = "10.40449"><name>JH3LS1</name><desc>S3 Downhill Passo Stelvio KM90.5
+Images:1765
+First:17.06.2025 12:00:05
+Last:17.06.2025 15:16:56
+Duration:03:16:51
+</desc></wpt>
+<wpt lat = "46.26203" lon = "10.26628"><name>SBRO7</name><desc>S4 Uphill Passo Mortirolo KM55
+Images:2370
+First:18.06.2025 09:17:42
+Last:18.06.2025 12:28:36
+Duration:03:10:54
+</desc></wpt>
+<wpt lat = "46.24687" lon = "10.29308"><name>CHR4</name><desc>S4 Uphill Passo Mortirolo KM63
+Images:2558
+First:17.06.2025 20:31:56
+Last:18.06.2025 14:05:29
+Duration:17:33:33
+</desc></wpt>
+<wpt lat = "46.24687" lon = "10.29308"><name>CHR4DRONE1</name><desc>S4 Uphill Passo Mortirolo KM63
+Images:7
+First:18.06.2025 11:26:20
+Last:18.06.2025 11:32:57
+Duration:00:06:37
+</desc></wpt>
+<wpt lat = "46.24687" lon = "10.29308"><name>CHR4LS1</name><desc>S4 Uphill Passo Mortirolo KM63
+Images:1183
+First:18.06.2025 10:55:47
+Last:18.06.2025 13:53:01
+Duration:02:57:14
+</desc></wpt>
+<wpt lat = "46.24687" lon = "10.29308"><name>JH4</name><desc>S4 Passo Mortirolo
+Images:2897
+First:18.06.2025 11:09:00
+Last:18.06.2025 14:20:33
+Duration:03:11:33
+</desc></wpt>
+<wpt lat = "46.24687" lon = "10.29308"><name>JH4LS1</name><desc>S4 Passo Mortirolo
+Images:1017
+First:18.06.2025 10:53:15
+Last:18.06.2025 14:25:52
+Duration:03:32:37
+</desc></wpt>
+<wpt lat = "46.24687" lon = "10.29308"><name>JH4LS2</name><desc>S4 Passo Mortirolo
+Images:940
+First:18.06.2025 11:04:27
+Last:18.06.2025 14:15:08
+Duration:03:10:41
+</desc></wpt>
+<wpt lat = "46.17004" lon = "10.15454"><name>SBRO8</name><desc>S5 Passo di Santa Cristina
+Images:874
+First:19.06.2025 08:45:35
+Last:19.06.2025 10:53:54
+Duration:02:08:19
+</desc></wpt>
+<wpt lat = "46.03478" lon = "10.19354"><name>CHR5LS1</name><desc>S5 Passo del Vivione
+Images:653
+First:19.06.2025 10:47:07
+Last:19.06.2025 14:17:51
+Duration:03:30:44
+</desc></wpt>
+<wpt lat = "46.03478" lon = "10.19354"><name>CHR5</name><desc>S5 Passo del Vivione
+Images:1671
+First:15.06.2025 07:37:23
+Last:19.06.2025 15:44:22
+Duration:4.08:06:59
+</desc></wpt>
+<wpt lat = "46.03478" lon = "10.19354"><name>CHR5DRONE1</name><desc>S5 Passo del Vivione
+Images:12
+First:19.06.2025 13:14:36
+Last:19.06.2025 13:22:27
+Duration:00:07:51
+</desc></wpt>
+<wpt lat = "46.02561" lon = "10.21924"><name>JH5</name><desc>S5 Downhill Passo del Vivione
+Images:2448
+First:19.06.2025 10:49:29
+Last:19.06.2025 14:00:30
+Duration:03:11:01
+</desc></wpt>
+<wpt lat = "46.02561" lon = "10.21924"><name>JH5LS1</name><desc>S5 Downhill Passo del Vivione
+Images:694
+First:19.06.2025 10:45:55
+Last:19.06.2025 14:03:07
+Duration:03:17:12
+</desc></wpt>
+<wpt lat = "45.94330" lon = "10.11296"><name>SBRO9</name><desc>S5 Passo di Croce di Salven KM87
+Images:1931
+First:19.06.2025 11:54:59
+Last:19.06.2025 17:10:26
+Duration:05:15:27
+</desc></wpt>
+<wpt lat = "45.90862" lon = "10.41109"><name>SBRO10</name><desc>S6 Passo Crocedomini
+Images:2175
+First:20.06.2025 09:25:52
+Last:20.06.2025 14:15:08
+Duration:04:49:16
+</desc></wpt>
+<wpt lat = "45.91455" lon = "10.42412"><name>CHR6LS1</name><desc>S6 Downhill Passo Crocedomini
+Images:933
+First:20.06.2025 09:35:39
+Last:20.06.2025 13:21:47
+Duration:03:46:08
+</desc></wpt>
+<wpt lat = "45.91455" lon = "10.42412"><name>CHR6</name><desc>S6 Downhill Passo Crocedomini
+Images:1700
+First:20.06.2025 08:31:44
+Last:20.06.2025 14:19:59
+Duration:05:48:15
+</desc></wpt>
+<wpt lat = "45.91455" lon = "10.42412"><name>CHR6DRONE1</name><desc>S6 Downhill Passo Crocedomini
+Images:15
+First:20.06.2025 10:05:47
+Last:20.06.2025 10:45:09
+Duration:00:39:22
+</desc></wpt>
+<wpt lat = "45.88500" lon = "10.84234"><name>SBRO11</name><desc>S7 Allee beforer finish
+Images:716
+First:21.06.2025 10:25:42
+Last:21.06.2025 13:24:59
+Duration:02:59:17
+</desc></wpt>
+<wpt lat = "45.88500" lon = "10.84234"><name>CHR7DRONE1</name><desc>Finish
+Images:8
+First:21.06.2025 12:42:29
+Last:21.06.2025 12:44:50
+Duration:00:02:21
+</desc></wpt>
+<wpt lat = "45.88500" lon = "10.84234"><name>CHR7</name><desc>Finish
+Images:1658
+First:21.06.2025 10:13:57
+Last:21.06.2025 13:19:13
+Duration:03:05:16
+</desc></wpt>
+<wpt lat = "45.88500" lon = "10.84234"><name>CHR7LS1</name><desc>Finish
+Images:652
+First:21.06.2025 10:49:27
+Last:21.06.2025 12:46:24
+Duration:01:56:57
+</desc></wpt>
+</gpx>

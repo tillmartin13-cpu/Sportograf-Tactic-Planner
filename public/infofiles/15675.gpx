@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "36.29605" lon = "-76.21716"><name>SJZ1</name><desc>Finish
+Images:1496
+First:08.03.2025 06:30:18
+Last:08.03.2025 08:44:55
+Duration:02:14:37
+</desc></wpt>
+<wpt lat = "36.29682" lon = "-76.21888"><name>TRG1</name><desc>Finish
+Images:1049
+First:08.03.2025 06:03:03
+Last:08.03.2025 07:56:40
+Duration:01:53:37
+</desc></wpt>
+<wpt lat = "36.29605" lon = "-76.21716"><name>TRGF1</name><desc>Finish
+Images:1280
+First:08.03.2025 07:18:07
+Last:08.03.2025 08:39:45
+Duration:01:21:38
+</desc></wpt>
+<wpt lat = "36.29682" lon = "-76.21888"><name>AWF1</name><desc>Finish
+Images:732
+First:08.03.2025 07:19:26
+Last:08.03.2025 08:45:11
+Duration:01:25:45
+</desc></wpt>
+<wpt lat = "36.29605" lon = "-76.21716"><name>AW1</name><desc>Start
+Images:154
+First:08.03.2025 06:20:58
+Last:08.03.2025 07:05:55
+Duration:00:44:57
+</desc></wpt>
+</gpx>

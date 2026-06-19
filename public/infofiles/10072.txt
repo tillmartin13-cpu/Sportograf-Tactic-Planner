@@ -1,0 +1,382 @@
+EventId: 10072
+Spots: 59
+Total Images: 153624
+Time:	01.01.0001 23:00:00 to 08.10.2023 18:14:58
+Duration: 738799.19:14:58
+
+(1) - 18.5 km Roc d'Azur
+	COR1
+		Images:	6459
+		Time:	08.10.2023 09:06:14 until 08.10.2023 13:50:55
+		Duration:	04:44:41
+		Location:	43.40576 6.64749
+
+	COR1LS1
+		Images:	2766
+		Time:	08.10.2023 09:04:08 until 08.10.2023 13:37:03
+		Duration:	04:32:55
+		Location:	43.40576 6.64749
+
+	COR1LS2
+		Images:	2461
+		Time:	08.10.2023 09:01:41 until 08.10.2023 13:36:39
+		Duration:	04:34:58
+		Location:	43.40576 6.64749
+
+(2) - 35.0 km Roc d'Azur
+	DARO1
+		Images:	1339
+		Time:	08.10.2023 09:59:00 until 08.10.2023 16:25:37
+		Duration:	06:26:37
+		Location:	43.36734 6.66575
+
+	DARO1LS1
+		Images:	3079
+		Time:	08.10.2023 09:45:43 until 08.10.2023 16:16:26
+		Duration:	06:30:43
+		Location:	43.36734 6.66575
+
+	DARO1LS2
+		Images:	2921
+		Time:	08.10.2023 09:47:50 until 08.10.2023 16:10:04
+		Duration:	06:22:14
+		Location:	43.36734 6.66575
+
+(3) - 45.0km Roc d'Azur, 23.5km Juniors
+	MANR1
+		Images:	9136
+		Time:	08.10.2023 08:43:34 until 08.10.2023 17:17:42
+		Duration:	08:34:08
+		Location:	43.39152 6.70677
+
+	MANR1LS1
+		Images:	2615
+		Time:	08.10.2023 08:17:33 until 08.10.2023 17:17:32
+		Duration:	08:59:59
+		Location:	43.39152 6.70677
+
+	MANR1LS2
+		Images:	2605
+		Time:	08.10.2023 08:30:04 until 08.10.2023 17:23:36
+		Duration:	08:53:32
+		Location:	43.39152 6.70677
+
+(4) - 45.5km Roc d'Azur, 24.0km Juniors
+	STO1
+		Images:	3413
+		Time:	08.10.2023 08:29:27 until 08.10.2023 17:34:36
+		Duration:	09:05:09
+		Location:	43.39582 6.69800
+
+	STO1LS1
+		Images:	2541
+		Time:	08.10.2023 08:33:57 until 08.10.2023 17:38:53
+		Duration:	09:04:56
+		Location:	43.39582 6.69800
+
+(5) - 50.2 km Roc d'Azur
+	JH2
+		Images:	866
+		Time:	08.10.2023 16:36:02 until 08.10.2023 17:42:15
+		Duration:	01:06:13
+		Location:	43.38829 6.72794
+
+	JH2LS1
+		Images:	841
+		Time:	08.10.2023 16:26:05 until 08.10.2023 17:49:29
+		Duration:	01:23:24
+		Location:	43.38829 6.72794
+
+	JH2LS2
+		Images:	788
+		Time:	08.10.2023 14:43:33 until 08.10.2023 17:48:16
+		Duration:	03:04:43
+		Location:	43.38829 6.72794
+
+(6) - 50.3 km Roc d'Azur
+	COR2LS1
+		Images:	1246
+		Time:	08.10.2023 14:50:39 until 08.10.2023 17:43:41
+		Duration:	02:53:02
+		Location:	43.38897 6.73040
+
+(7) - 50.5 km Roc d'Azur
+	JJPT1
+		Images:	2920
+		Time:	08.10.2023 09:30:13 until 08.10.2023 17:50:04
+		Duration:	08:19:51
+		Location:	43.39271 6.72825
+
+	JJPT1LS1
+		Images:	5245
+		Time:	08.10.2023 09:17:05 until 08.10.2023 17:12:38
+		Duration:	07:55:33
+		Location:	43.39271 6.72825
+
+	JJPT1LS2
+		Images:	2601
+		Time:	08.10.2023 10:12:28 until 08.10.2023 18:01:30
+		Duration:	07:49:02
+		Location:	43.39271 6.72825
+
+(8) - 51.0 km Roc d'Azur
+	PKA2
+		Images:	867
+		Time:	08.10.2023 15:55:31 until 08.10.2023 17:51:47
+		Duration:	01:56:16
+		Location:	43.39365 6.72529
+
+(9) - Finish
+	JLTG2
+		Images:	6336
+		Time:	08.10.2023 09:01:42 until 08.10.2023 18:13:37
+		Duration:	09:11:55
+		Location:	43.41625 6.73828
+
+	JLTG2LS1
+		Images:	6172
+		Time:	08.10.2023 09:05:29 until 08.10.2023 18:14:58
+		Duration:	09:09:29
+		Location:	43.41625 6.73828
+
+	JLTG2LS2
+		Images:	5344
+		Time:	08.10.2023 09:17:20 until 08.10.2023 13:26:04
+		Duration:	04:08:44
+		Location:	43.41625 6.73828
+
+	MIFP2
+		Images:	4534
+		Time:	08.10.2023 09:13:49 until 08.10.2023 18:13:44
+		Duration:	08:59:55
+		Location:	43.41625 6.73828
+
+(10) - Impressions / Pano
+	COR1DRONE1
+		Images:	26
+		Time:	08.10.2023 13:20:39 until 08.10.2023 15:11:05
+		Duration:	01:50:26
+		Location:	43.40576 6.64749
+
+	DARO1DRONE1
+		Images:	11
+		Time:	08.10.2023 12:32:10 until 08.10.2023 12:38:00
+		Duration:	00:05:50
+		Location:	43.36734 6.66575
+
+	MATR1DRONE1
+		Images:	7
+		Time:	08.10.2023 09:10:45 until 08.10.2023 09:16:06
+		Duration:	00:05:21
+		Location:	43.39827 6.70491
+
+	MLU1DRONE1
+		Images:	31
+		Time:	08.10.2023 07:27:51 until 08.10.2023 12:53:14
+		Duration:	05:25:23
+		Location:	43.39365 6.72786
+
+	PANO1
+(11) - km16.0 Roc d'Azur
+	EP1LS1
+		Images:	5325
+		Time:	08.10.2023 09:10:15 until 08.10.2023 12:08:39
+		Duration:	02:58:24
+		Location:	43.39677 6.65133
+
+	EP1LS2
+		Images:	4456
+		Time:	08.10.2023 09:13:32 until 08.10.2023 11:52:12
+		Duration:	02:38:40
+		Location:	43.39677 6.65133
+
+(12) - km16.1 Roc d'Azur
+	EP1
+		Images:	3158
+		Time:	08.10.2023 09:08:03 until 08.10.2023 13:26:52
+		Duration:	04:18:49
+		Location:	43.39677 6.65133
+
+(13) - km34.9 Roc d'Azur
+	BATI1
+		Images:	2388
+		Time:	08.10.2023 09:33:14 until 08.10.2023 16:24:59
+		Duration:	06:51:45
+		Location:	43.36697 6.66557
+
+(14) - km35.5 Roc d'Azur
+	DDF1
+		Images:	3193
+		Time:	08.10.2023 10:02:11 until 08.10.2023 16:31:10
+		Duration:	06:28:59
+		Location:	43.36748 6.67699
+
+(15) - km46.0 Roc d'Azur, km24.3 Juniors
+	MATR1
+		Images:	3696
+		Time:	08.10.2023 08:33:19 until 08.10.2023 17:35:21
+		Duration:	09:02:02
+		Location:	43.39827 6.70491
+
+	MATR1LS1
+		Images:	3332
+		Time:	08.10.2023 08:28:25 until 08.10.2023 17:35:18
+		Duration:	09:06:53
+		Location:	43.39827 6.70491
+
+(16) - km46.2 Roc d'Azur, km24.6 Juniors
+	MAGA1
+		Images:	2107
+		Time:	08.10.2023 08:46:28 until 08.10.2023 17:35:57
+		Duration:	08:49:29
+		Location:	43.39925 6.70586
+
+	MAGA1LS1
+		Images:	3749
+		Time:	08.10.2023 08:43:15 until 08.10.2023 17:32:00
+		Duration:	08:48:45
+		Location:	43.39925 6.70586
+
+(17) - km50.0 Roc d'Azur
+	BRN2
+		Images:	1028
+		Time:	08.10.2023 14:16:40 until 08.10.2023 17:43:17
+		Duration:	03:26:37
+		Location:	43.38840 6.73041
+
+	BRN2LS1
+		Images:	1021
+		Time:	08.10.2023 14:10:30 until 08.10.2023 17:49:26
+		Duration:	03:38:56
+		Location:	43.38840 6.73041
+
+	HS1
+		Images:	2248
+		Time:	08.10.2023 10:37:45 until 08.10.2023 16:26:36
+		Duration:	05:48:51
+		Location:	43.38809 6.73045
+
+	HS1LS1
+		Images:	4969
+		Time:	08.10.2023 10:41:53 until 08.10.2023 16:27:42
+		Duration:	05:45:49
+		Location:	43.38809 6.73045
+
+	HS1LS2
+		Images:	2392
+		Time:	08.10.2023 09:20:44 until 08.10.2023 16:32:10
+		Duration:	07:11:26
+		Location:	43.38809 6.73045
+
+(18) - km50.1 Roc d'Azur
+	EP1LS3
+		Images:	532
+		Time:	08.10.2023 15:06:44 until 08.10.2023 17:38:17
+		Duration:	02:31:33
+		Location:	43.38940 6.73107
+
+(19) - km50.2 Roc d'Azur
+	ROB1LS1
+		Images:	4764
+		Time:	08.10.2023 09:07:20 until 08.10.2023 14:30:44
+		Duration:	05:23:24
+		Location:	43.38972 6.73181
+
+(20) - km50.3 Roc d'Azur
+	ROB1
+		Images:	2118
+		Time:	08.10.2023 10:32:46 until 08.10.2023 18:09:24
+		Duration:	07:36:38
+		Location:	43.39063 6.73194
+
+	ROB1LS2
+		Images:	1469
+		Time:	08.10.2023 09:27:51 until 08.10.2023 15:19:46
+		Duration:	05:51:55
+		Location:	43.39033 6.73203
+
+(21) - km50.9 Roc d'Azur, km27.6 Juniors
+	MLU1
+		Images:	7669
+		Time:	08.10.2023 09:55:22 until 08.10.2023 15:56:41
+		Duration:	06:01:19
+		Location:	43.39365 6.72786
+
+	MLU1LS1
+		Images:	2436
+		Time:	01.01.0001 23:00:00 until 08.10.2023 17:58:28
+		Duration:	738799.18:58:28
+		Location:	43.39365 6.72786
+
+	MLU1LS2
+		Images:	1534
+		Time:	08.10.2023 09:50:06 until 08.10.2023 17:50:50
+		Duration:	08:00:44
+		Location:	43.39365 6.72786
+
+(22) - km9.1 Roc d'Azur, km9.1 Juniors
+	BRN1
+		Images:	2185
+		Time:	08.10.2023 08:53:40 until 08.10.2023 16:49:18
+		Duration:	07:55:38
+		Location:	43.38781 6.69200
+
+	BRN1LS1
+		Images:	3255
+		Time:	08.10.2023 08:44:05 until 08.10.2023 12:31:29
+		Duration:	03:47:24
+		Location:	43.38781 6.69200
+
+(23) - Last Days Impressions
+	IMPS1
+		Images:	265
+		Time:	01.01.0001 23:00:00 until 07.10.2023 16:18:33
+		Duration:	738798.17:18:33
+		Location:	43.41625 6.73828
+
+(24) - Rando Pedestre 0.8km before Finish
+	PKA1
+		Images:	461
+		Time:	08.10.2023 10:25:58 until 08.10.2023 13:24:02
+		Duration:	02:58:04
+		Location:	43.43731 6.63324
+
+	PKA1LS1
+		Images:	566
+		Time:	08.10.2023 10:17:56 until 08.10.2023 11:50:51
+		Duration:	01:32:55
+		Location:	43.43731 6.63324
+
+(25) - Rando Pedestre 1.3km before Finish
+	JH1LS1
+		Images:	1998
+		Time:	08.10.2023 10:24:39 until 08.10.2023 12:06:50
+		Duration:	01:42:11
+		Location:	43.43445 6.63203
+
+	JH1LS2
+		Images:	1705
+		Time:	08.10.2023 10:12:41 until 08.10.2023 12:21:40
+		Duration:	02:08:59
+		Location:	43.43445 6.63203
+
+(26) - Rando Pedestre 1km before Finish
+	JH1
+		Images:	1780
+		Time:	08.10.2023 10:29:34 until 08.10.2023 13:24:23
+		Duration:	02:54:49
+		Location:	43.43689 6.63634
+
+(27) - Start
+	JLTG1
+		Images:	369
+		Time:	08.10.2023 07:10:42 until 08.10.2023 08:47:08
+		Duration:	01:36:26
+		Location:	43.41625 6.73828
+
+	MIFP1
+		Images:	286
+		Time:	08.10.2023 08:05:17 until 08.10.2023 08:45:29
+		Duration:	00:40:12
+		Location:	43.41625 6.73828
+

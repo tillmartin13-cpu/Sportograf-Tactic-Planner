@@ -1,0 +1,374 @@
+EventId: 13097
+Spots: 77
+Total Images: 338867
+Time:	01.01.0001 23:00:00 to 31.12.2099 22:59:59
+Duration: 766642.23:59:59
+
+(1) - 0.0 km A. NG - MSC2
+	BANG1
+		Images:	11750
+		Time:	05.05.2024 07:00:50 until 05.05.2024 08:39:07
+		Duration:	01:38:17
+		Location:	NULL NULL
+
+(2) - 0.0 km A. NG Finish
+	BANG2
+		Images:	14631
+		Time:	05.05.2024 09:51:41 until 05.05.2024 12:14:58
+		Duration:	02:23:17
+		Location:	NULL NULL
+
+(3) - 0.0 km A. NG Finish Card 2
+	BANG3
+		Images:	5991
+		Time:	05.05.2024 12:17:54 until 05.05.2024 14:52:11
+		Duration:	02:34:17
+		Location:	NULL NULL
+
+(4) - 0.0 km B. Murray MSC8
+	BBMUR1
+		Images:	6273
+		Time:	05.05.2024 10:15:59 until 05.05.2024 14:07:30
+		Duration:	03:51:31
+		Location:	NULL NULL
+
+(5) - 0.0 km DELETE-Trigger MSC2
+	BANG1LS1
+		Images:	11750
+		Time:	05.05.2024 07:00:50 until 05.05.2024 08:39:07
+		Duration:	01:38:17
+		Location:	NULL NULL
+
+(6) - 0.0 km E. Stoner TC MSC5
+	BESTO1
+		Images:	7232
+		Time:	05.05.2024 07:17:00 until 05.05.2024 09:48:50
+		Duration:	02:31:50
+		Location:	NULL NULL
+
+(7) - 0.0 km E. Stoner TC MSC5 Card 2
+	BESTO2
+		Images:	947
+		Time:	05.05.2024 09:50:39 until 05.05.2024 10:36:56
+		Duration:	00:46:17
+		Location:	NULL NULL
+
+(8) - 0.0 km F. Roche - Medals 4017
+	BFROC1
+		Images:	1059
+		Time:	04.05.2024 20:00:15 until 05.05.2024 00:12:57
+		Duration:	04:12:42
+		Location:	NULL NULL
+
+(9) - 0.0 km J. Delio Metals 4002
+	BJDEL1
+		Images:	82
+		Time:	04.05.2024 19:21:22 until 04.05.2024 19:47:03
+		Duration:	00:25:41
+		Location:	NULL NULL
+
+(10) - 0.0 km J. Delio Metals 4039
+	BJDEL2
+		Images:	910
+		Time:	04.05.2024 19:54:22 until 05.05.2024 00:35:43
+		Duration:	04:41:21
+		Location:	NULL NULL
+
+(11) - 0.0 km K. Eyuuo - Metals 4020
+	BKEYU1
+		Images:	837
+		Time:	24.06.2020 07:12:22 until 24.06.2020 12:35:37
+		Duration:	05:23:15
+		Location:	NULL NULL
+
+(12) - 0.0 km K. Tromiczak MSC6
+	BKTRO2
+		Images:	3508
+		Time:	05.05.2024 08:42:17 until 05.05.2024 10:16:17
+		Duration:	01:34:00
+		Location:	NULL NULL
+
+(13) - 0.0 km K. Tromizak MSC7
+	BKTRO1
+		Images:	8044
+		Time:	05.05.2024 06:55:44 until 05.05.2024 12:56:41
+		Duration:	06:00:57
+		Location:	NULL NULL
+
+(14) - 0.0 km MEDALS - Forrest
+	AFCOO1
+(15) - 0.0 km MEDALS - Franke
+	AFROC1
+(16) - 0.0 km MEDALS - Jessica
+	AJDEL1
+(17) - 0.0 km MEDALS - Kailyn
+	AKEYL1
+(18) - 0.0 km MEDALS - Rachel
+	ARLIA1
+(19) - 0.0 km MEDALS - Rick
+	ARMAG1
+(20) - 0.0 km N. Kelly OFP
+	BNKEL1
+		Images:	1288
+		Time:	05.05.2024 06:45:10 until 05.05.2024 12:36:07
+		Duration:	05:50:57
+		Location:	NULL NULL
+
+(21) - 0.0 km OFP - Mansi
+	AMPAT1
+(22) - 0.0 km OFP - Matt
+	AMWAG1
+(23) - 0.0 km OFP - Nathaniel
+	ANKEL1
+(24) - 0.0 km OFP - Robert
+	ARDEB1
+(25) - 0.0 km OFP - William
+	AWMOY1
+(26) - 0.0 km PR - Terry
+	ATWHE1
+(27) - 0.0 km R. Liang - Medals card 4023
+	BRLIA1
+		Images:	684
+		Time:	04.05.2024 21:02:05 until 05.05.2024 01:39:32
+		Duration:	04:37:27
+		Location:	NULL NULL
+
+(28) - 0.0 km R. Taylor MSC1
+	BRTAY2
+		Images:	6512
+		Time:	04.05.2024 18:19:46 until 05.05.2024 00:22:49
+		Duration:	06:03:03
+		Location:	NULL NULL
+
+(29) - 0.0 km R. Taylor MSC6
+	BRTAY3
+		Images:	7263
+		Time:	04.05.2024 20:00:25 until 04.05.2024 21:42:00
+		Duration:	01:41:35
+		Location:	NULL NULL
+
+(30) - 0.0 km R. Taylor MSC7
+	BRTAY1
+(31) - 0.0 km S. Wasilak MSC5 Newbie
+	BSWAS1
+		Images:	5929
+		Time:	05.05.2024 06:22:42 until 05.05.2024 09:39:53
+		Duration:	03:17:11
+		Location:	NULL NULL
+
+(32) - 0.0 km START - Thomas
+	ATPIE1
+		Images:	2480
+		Time:	05.05.2024 05:46:28 until 05.05.2024 06:42:20
+		Duration:	00:55:52
+		Location:	NULL NULL
+
+(33) - 0.0 km T. Pietryka Start-Lift
+	BTPIE1
+		Images:	2480
+		Time:	05.05.2024 05:46:28 until 05.05.2024 06:42:20
+		Duration:	00:55:52
+		Location:	NULL NULL
+
+(34) - 0.0 km T. Wherry - FN
+	BTWHE1
+		Images:	19058
+		Time:	05.05.2024 08:47:17 until 05.05.2024 12:48:40
+		Duration:	04:01:23
+		Location:	NULL NULL
+
+(35) - 0.0 km Trigger -FN Full
+	BTWHE1LS2
+		Images:	20000
+		Time:	05.05.2024 08:04:25 until 05.05.2024 14:22:43
+		Duration:	06:18:18
+		Location:	NULL NULL
+
+(36) - 0.0 km Trigger FN Half 1st Card
+	BTWHE1LS3
+		Images:	147
+		Time:	31.12.2013 19:00:01 until 31.12.2099 22:59:59
+		Duration:	31411.03:59:58
+		Location:	NULL NULL
+
+(37) - 0.0 km Trigger MSC1
+	BKTRO2LS1
+		Images:	1904
+		Time:	05.05.2024 00:30:17 until 05.05.2024 02:10:32
+		Duration:	01:40:15
+		Location:	NULL NULL
+
+(38) - 0.0 km Trigger MSC2
+	BANG1LS2
+		Images:	4816
+		Time:	05.05.2024 07:01:52 until 05.05.2024 08:33:29
+		Duration:	01:31:37
+		Location:	NULL NULL
+
+(39) - 0.0 km Trigger MSC6Bridge Shot
+	BKTRO2LS2
+		Images:	791
+		Time:	05.05.2024 02:38:08 until 05.05.2024 03:05:35
+		Duration:	00:27:27
+		Location:	NULL NULL
+
+(40) - 0.0 km Trigger- FN_Half
+	BTWHE1LS1
+		Images:	10481
+		Time:	05.05.2024 08:39:38 until 05.05.2024 11:57:07
+		Duration:	03:17:29
+		Location:	NULL NULL
+
+(41) - 0.0 km W. Moyer OFP
+	BWMO1
+		Images:	808
+		Time:	04.05.2024 20:03:54 until 05.05.2024 02:47:53
+		Duration:	06:43:59
+		Location:	NULL NULL
+
+(42) - 1.5 mi MSC 1 - Keith
+	AKTRO1
+(43) - 1.5 mi MSC 1 - Robert
+	ARTAY1
+(44) - 1.5 mi MSC 1 - Trig
+	AKTRO1LS1
+(45) - 11.2 mi MSC 6 - Keith
+	AKTRO2
+(46) - 11.2 mi MSC 6 - Robert
+	ARTAY2
+(47) - 11.2 mi MSC 6 - Trig
+	AKTRO2LS1
+(48) - 13.0 mi PRF - Anthony
+	AASUM2
+		Images:	6539
+		Time:	04.05.2024 21:53:39 until 05.05.2024 02:21:52
+		Duration:	04:28:13
+		Location:	NULL NULL
+
+(49) - 13.0 mi PRF - Brandon
+	ABCRO2
+(50) - 13.0 mi PRF - Jeff
+	AJLAU1
+		Images:	22238
+		Time:	05.05.2024 08:01:35 until 05.05.2024 14:50:02
+		Duration:	06:48:27
+		Location:	NULL NULL
+
+(51) - 13.0 mi PRF - Kelly
+	AKSHE1
+		Images:	19166
+		Time:	05.05.2024 08:01:28 until 05.05.2024 14:50:32
+		Duration:	06:49:04
+		Location:	NULL NULL
+
+(52) - 13.0 mi PRF - Trig (HALF)
+	AKSHE1LS1
+		Images:	13776
+		Time:	05.05.2024 08:00:48 until 05.05.2024 12:02:53
+		Duration:	04:02:05
+		Location:	NULL NULL
+
+(53) - 21.5 mi MSC 7 - Keith
+	AKTRO3
+(54) - 21.5 mi MSC 7 - Robert
+	ARTAY3
+(55) - 21.5 mi MSC 8 - Benjamin
+	ABMUR1
+(56) - 21.5 mi MSC 8 - Sean H
+	ASHAG2
+		Images:	10144
+		Time:	05.05.2024 10:03:59 until 05.05.2024 14:36:17
+		Duration:	04:32:18
+		Location:	NULL NULL
+
+(57) - 21.5 mi MSC 8 - Terri
+	ATWAT2
+		Images:	15429
+		Time:	05.05.2024 10:21:57 until 05.05.2024 14:49:01
+		Duration:	04:27:04
+		Location:	NULL NULL
+
+(58) - 25.8 mi MSC 8 - Don
+	ADWEA1
+		Images:	12119
+		Time:	05.05.2024 05:29:38 until 05.05.2024 13:48:04
+		Duration:	08:18:26
+		Location:	NULL NULL
+
+(59) - 25.8 mi MSC 8 - Thomas
+	ATPIE2
+		Images:	31961
+		Time:	01.01.0001 23:00:00 until 05.05.2024 11:07:18
+		Duration:	739009.12:07:18
+		Location:	NULL NULL
+
+(60) - 26.0 mi PRF - Trig (FULL)
+	AKSHE1LS2
+		Images:	7395
+		Time:	05.05.2024 12:17:39 until 05.05.2024 14:31:39
+		Duration:	02:14:00
+		Location:	NULL NULL
+
+(61) - 26.2 mi FIN - Terry
+	ATWHE2
+(62) - 26.2 mi FIN - Trig1
+	ATWHE2LS1
+(63) - 26.2 mi FIN - Trig2
+	ATWHE2LS2
+(64) - 3.0 mi MSC 2 - Alan
+	AANG1
+(65) - 3.0 mi MSC 2 - Brandon
+	ABCRO1
+(66) - 3.0 mi MSC 2 - Trig
+	AANG1LS1
+(67) - 4.0 mi MSC 4 - Sean H
+	ASHAG1
+		Images:	6567
+		Time:	05.05.2024 06:57:29 until 05.05.2024 09:20:11
+		Duration:	02:22:42
+		Location:	NULL NULL
+
+(68) - 4.5 mi MSC 3 - Terri
+	ATWAT1
+		Images:	11243
+		Time:	05.05.2024 07:07:06 until 05.05.2024 09:07:40
+		Duration:	02:00:34
+		Location:	NULL NULL
+
+(69) - 4.5 mi MSC 3 Trig
+	ATWAT1LS1
+		Images:	6555
+		Time:	24.03.2024 10:44:59 until 24.03.2024 13:20:13
+		Duration:	02:35:14
+		Location:	NULL NULL
+
+(70) - 4.5 mil MSC 3 - Benjamin
+	ABMUR2
+		Images:	8162
+		Time:	05.05.2024 04:11:14 until 05.05.2024 06:03:15
+		Duration:	01:52:01
+		Location:	NULL NULL
+
+(71) - 5.0 mi MSC 4 - Anthony
+	AASUM1
+		Images:	3400
+		Time:	04.05.2024 19:13:49 until 04.05.2024 21:17:52
+		Duration:	02:04:03
+		Location:	NULL NULL
+
+(72) - 5.0 mi MSC 4 Trig
+	AASUM1LS1
+		Images:	6518
+		Time:	05.05.2024 07:10:55 until 05.05.2024 09:19:19
+		Duration:	02:08:24
+		Location:	NULL NULL
+
+(73) - 9.0 mi MSC 5 - Ethan
+	AESTO1
+	ASWAS1
+(74) - 9.0 mi MSC 5 - Kayla
+	AKKRE1
+(75) - Impressions / Pano
+	PANO1
+(76) - none
+	AKTRO1DRONE1

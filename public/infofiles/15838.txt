@@ -1,0 +1,39 @@
+EventId: 15838
+Spots: 5
+Total Images: 2806
+Time:	07.03.2025 16:48:28 to 07.03.2025 21:05:11
+Duration: 04:16:43
+
+(1) - 2.5 Mile
+	ER1
+		Images:	1123
+		Time:	07.03.2025 16:48:28 until 07.03.2025 17:16:17
+		Duration:	00:27:49
+		Location:	36.89825 -111.44469
+
+	ER1LS1
+		Images:	547
+		Time:	07.03.2025 19:14:00 until 07.03.2025 20:12:15
+		Duration:	00:58:15
+		Location:	36.89825 -111.44469
+
+(2) - 6.0 Mile
+	ER2
+		Images:	266
+		Time:	07.03.2025 17:36:48 until 07.03.2025 19:07:25
+		Duration:	01:30:37
+		Location:	36.93504 -111.45921
+
+(3) - 7.0 Mile
+	CC1
+		Images:	203
+		Time:	07.03.2025 17:09:53 until 07.03.2025 18:43:39
+		Duration:	01:33:46
+		Location:	36.93704 -111.46800
+
+	CC1LS1
+		Images:	667
+		Time:	07.03.2025 19:15:17 until 07.03.2025 21:05:11
+		Duration:	01:49:54
+		Location:	36.93704 -111.46800
+

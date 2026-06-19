@@ -1,0 +1,409 @@
+EventId: 12510
+Spots: 66
+Total Images: 1291544
+Time:	26.04.2024 08:14:44 to 26.05.2024 18:58:16
+Duration: 30.10:43:32
+
+(1) - Broom Hill - Mile 21.4 of 60 & 100
+	AALSE1
+		Images:	14213
+		Time:	26.05.2024 06:22:31 until 26.05.2024 12:05:20
+		Duration:	05:42:49
+		Location:	51.66037 0.04314
+
+	ADJ1
+		Images:	29080
+		Time:	26.05.2024 06:48:00 until 26.05.2024 12:05:19
+		Duration:	05:17:19
+		Location:	51.66037 0.04314
+
+(2) - Epping Road - Mile 30 of 60 & 100
+	AANL1
+		Images:	26397
+		Time:	26.05.2024 06:37:36 until 26.05.2024 12:42:32
+		Duration:	06:04:56
+		Location:	51.72405 0.20488
+
+	AROM1
+		Images:	11572
+		Time:	26.05.2024 07:08:16 until 26.05.2024 12:41:45
+		Duration:	05:33:29
+		Location:	51.72405 0.20488
+
+	AROM1LS1
+		Images:	13012
+		Time:	26.05.2024 06:58:53 until 26.05.2024 12:40:45
+		Duration:	05:41:52
+		Location:	51.72405 0.20488
+
+(3) - Epping Road - Mile 31 of 60 & 100
+	ADATI1
+		Images:	24477
+		Time:	26.05.2024 07:09:26 until 26.05.2024 12:36:50
+		Duration:	05:27:24
+		Location:	51.72085 0.22008
+
+	APARO1
+		Images:	30483
+		Time:	26.05.2024 07:09:27 until 26.05.2024 12:20:35
+		Duration:	05:11:08
+		Location:	51.72085 0.22008
+
+	APARO1LS1
+		Images:	16111
+		Time:	26.05.2024 06:35:52 until 26.05.2024 12:12:07
+		Duration:	05:36:15
+		Location:	51.72085 0.22008
+
+	APARO1LS2
+		Images:	17767
+		Time:	26.05.2024 06:51:54 until 26.05.2024 11:56:21
+		Duration:	05:04:27
+		Location:	51.72085 0.22008
+
+	APARO1LS3
+		Images:	18475
+		Time:	26.05.2024 06:10:17 until 26.05.2024 12:30:21
+		Duration:	06:20:04
+		Location:	51.72085 0.22008
+
+(4) - Finish
+	DBKO1
+		Images:	16009
+		Time:	26.05.2024 11:44:49 until 26.05.2024 18:27:40
+		Duration:	06:42:51
+		Location:	51.50344 -0.07677
+
+	DBKO1DRONE1
+		Images:	12
+		Time:	26.05.2024 13:44:40 until 26.05.2024 13:51:08
+		Duration:	00:06:28
+		Location:	51.50344 -0.07677
+
+	DBKO1LS1
+		Images:	15889
+		Time:	26.05.2024 08:33:36 until 26.05.2024 18:38:39
+		Duration:	10:05:03
+		Location:	51.50344 -0.07677
+
+	DBKO1LS2
+		Images:	9337
+		Time:	26.05.2024 08:39:21 until 26.05.2024 18:36:01
+		Duration:	09:56:40
+		Location:	51.50344 -0.07677
+
+	DCUP1
+		Images:	21871
+		Time:	26.05.2024 08:43:43 until 26.05.2024 18:50:45
+		Duration:	10:07:02
+		Location:	51.50344 -0.07677
+
+	DYCAN1
+		Images:	21438
+		Time:	26.05.2024 07:53:08 until 26.05.2024 18:50:42
+		Duration:	10:57:34
+		Location:	51.50344 -0.07677
+
+(5) - Great Waltham - Mile 58.6 of 100
+	BRLG1
+		Images:	25958
+		Time:	26.05.2024 07:24:40 until 26.05.2024 14:55:43
+		Duration:	07:31:03
+		Location:	51.7936 0.45672
+
+	BSOOS1
+		Images:	31085
+		Time:	26.04.2024 08:14:44 until 26.04.2024 14:49:09
+		Duration:	06:34:25
+		Location:	51.7936 0.45672
+
+(6) - Hartford End - Mile 55.8 of 100
+	BJOEM1
+		Images:	25900
+		Time:	26.05.2024 08:08:05 until 26.05.2024 14:42:34
+		Duration:	06:34:29
+		Location:	51.82547 0.44748
+
+	BSTEM1
+		Images:	45800
+		Time:	26.05.2024 07:44:01 until 26.05.2024 14:33:34
+		Duration:	06:49:33
+		Location:	51.82547 0.44748
+
+	BSTEM1LS1
+		Images:	7107
+		Time:	26.05.2024 07:51:40 until 26.05.2024 14:38:03
+		Duration:	06:46:23
+		Location:	51.82547 0.44748
+
+	BSTEM1LS2
+		Images:	55449
+		Time:	26.05.2024 08:15:17 until 26.05.2024 14:32:06
+		Duration:	06:16:49
+		Location:	51.82547 0.44748
+
+(7) - High Roding - Mile 42.1 of 100
+	BJHD1
+		Images:	14003
+		Time:	26.05.2024 07:36:06 until 26.05.2024 13:22:18
+		Duration:	05:46:12
+		Location:	51.83237 0.32639
+
+	BLCO1
+		Images:	23780
+		Time:	26.05.2024 06:39:58 until 26.05.2024 13:18:17
+		Duration:	06:38:19
+		Location:	51.83237 0.32639
+
+(8) - Hook Ln - Mile 39.5 of 60 & 80.2 of 100
+	ACH1
+		Images:	49952
+		Time:	26.05.2024 08:05:37 until 26.05.2024 17:05:51
+		Duration:	09:00:14
+		Location:	51.63727 0.15086
+
+	AMKH1
+		Images:	16652
+		Time:	26.05.2024 07:54:18 until 26.05.2024 17:05:54
+		Duration:	09:11:36
+		Location:	51.63727 0.15086
+
+	AMKH1LS1
+		Images:	14140
+		Time:	26.05.2024 07:38:02 until 26.05.2024 16:56:07
+		Duration:	09:18:05
+		Location:	51.63727 0.15086
+
+(9) - Impressions / Pano
+	APARO1DRONE1
+	BPARO1DRONE1
+		Images:	6
+		Time:	26.05.2024 08:58:40 until 26.05.2024 09:05:17
+		Duration:	00:06:37
+		Location:	51.83237 0.32639
+
+	PANO1
+(10) - Lambourne End - Mile 40.7 of 60 & 81.5 of 100
+	AQVT1
+		Images:	34865
+		Time:	26.05.2024 08:18:20 until 26.05.2024 17:08:32
+		Duration:	08:50:12
+		Location:	51.62743 0.13205
+
+	ASALA1
+		Images:	39060
+		Time:	26.05.2024 08:06:39 until 26.05.2024 17:08:56
+		Duration:	09:02:17
+		Location:	51.62743 0.13205
+
+	ASALA1LS1
+		Images:	12691
+		Time:	26.05.2024 08:12:15 until 26.05.2024 16:48:11
+		Duration:	08:35:56
+		Location:	51.62743 0.13205
+
+(11) - Lower Lea Crossing - Mile 5.8 of All / 31 of 30 / 58.6 of 60 / 99.3 of 100
+	BAH1
+		Images:	26437
+		Time:	25.05.2024 21:26:14 until 26.05.2024 18:35:17
+		Duration:	21:09:03
+		Location:	51.51021 0.00652
+
+	BSHP1
+		Images:	21864
+		Time:	26.05.2024 07:53:34 until 26.05.2024 18:35:20
+		Duration:	10:41:46
+		Location:	51.51021 0.00652
+
+(12) - Medals
+	DAGP2
+		Images:	6097
+		Time:	26.05.2024 09:52:41 until 26.05.2024 18:54:39
+		Duration:	09:01:58
+		Location:	51.50352 -0.07999
+
+	DSESA2
+		Images:	19723
+		Time:	26.05.2024 09:24:33 until 26.05.2024 18:54:53
+		Duration:	09:30:20
+		Location:	51.50352 -0.07999
+
+	DSHAK2
+		Images:	7143
+		Time:	26.05.2024 07:59:10 until 26.05.2024 18:54:31
+		Duration:	10:55:21
+		Location:	51.50352 -0.07999
+
+	DWIC2
+		Images:	18127
+		Time:	26.05.2024 09:28:58 until 26.05.2024 18:58:16
+		Duration:	09:29:18
+		Location:	51.50352 -0.07999
+
+(13) - Start
+	CCMS1
+		Images:	15878
+		Time:	25.05.2024 19:01:57 until 26.05.2024 08:45:02
+		Duration:	13:43:05
+		Location:	51.51016 -0.11734
+
+	CJUW1
+		Images:	13648
+		Time:	26.05.2024 05:52:27 until 26.05.2024 09:35:20
+		Duration:	03:42:53
+		Location:	51.51016 -0.11734
+
+	CJUW1LS1
+		Images:	5832
+		Time:	26.05.2024 05:50:13 until 26.05.2024 09:24:01
+		Duration:	03:33:48
+		Location:	51.51016 -0.11734
+
+	CLOT1
+		Images:	9463
+		Time:	26.05.2024 06:00:06 until 26.05.2024 09:33:01
+		Duration:	03:32:55
+		Location:	51.51016 -0.11734
+
+	DAGP1
+		Images:	8573
+		Time:	26.05.2024 06:00:11 until 26.05.2024 08:46:42
+		Duration:	02:46:31
+		Location:	51.51016 -0.11734
+
+	DSESA1
+		Images:	17906
+		Time:	26.05.2024 05:58:25 until 26.05.2024 08:44:18
+		Duration:	02:45:53
+		Location:	51.51016 -0.11734
+
+	DSHP1
+		Images:	8520
+		Time:	26.05.2024 05:52:48 until 26.05.2024 07:26:51
+		Duration:	01:34:03
+		Location:	51.51016 -0.11734
+
+(14) - Tower Bridge - Mile 35 of 30 / 62.5 of 60 / 103.3 of 100
+	CCMS2
+		Images:	25292
+		Time:	26.05.2024 09:46:14 until 26.05.2024 18:50:38
+		Duration:	09:04:24
+		Location:	51.50566 -0.0753
+
+	CCMS2LS1
+		Images:	5808
+		Time:	26.05.2024 10:02:12 until 26.05.2024 15:35:24
+		Duration:	05:33:12
+		Location:	51.50566 -0.0753
+
+	CDANG2
+		Images:	12923
+		Time:	26.05.2024 09:22:25 until 26.05.2024 18:50:42
+		Duration:	09:28:17
+		Location:	51.50566 -0.0753
+
+	CJUW2
+		Images:	11842
+		Time:	26.05.2024 11:59:11 until 26.05.2024 18:30:21
+		Duration:	06:31:10
+		Location:	51.50566 -0.0753
+
+	CJUW2LS1
+		Images:	9420
+		Time:	26.05.2024 11:50:08 until 26.05.2024 17:19:08
+		Duration:	05:29:00
+		Location:	51.50566 -0.0753
+
+	CLOT2
+		Images:	16363
+		Time:	26.05.2024 10:21:20 until 26.05.2024 18:54:09
+		Duration:	08:32:49
+		Location:	51.50566 -0.0753
+
+	CMAT2
+		Images:	9470
+		Time:	26.05.2024 09:43:37 until 26.05.2024 18:51:00
+		Duration:	09:07:23
+		Location:	51.50566 -0.0753
+
+	CSLA2
+		Images:	9796
+		Time:	26.05.2024 09:33:01 until 26.05.2024 18:31:37
+		Duration:	08:58:36
+		Location:	51.50566 -0.0753
+
+(15) - Tower Hill - Mile 1.8 of 30 / 60 / 100
+	CDAKE1
+		Images:	35628
+		Time:	26.05.2024 06:03:41 until 26.05.2024 08:43:50
+		Duration:	02:40:09
+		Location:	51.50967 -0.07567
+
+	CDANG1
+		Images:	27566
+		Time:	26.05.2024 04:40:00 until 26.05.2024 08:58:06
+		Duration:	04:18:06
+		Location:	51.50967 -0.07567
+
+	CMAT1
+		Images:	23058
+		Time:	26.05.2024 05:59:16 until 26.05.2024 08:57:46
+		Duration:	02:58:30
+		Location:	51.50967 -0.07567
+
+	CSLA1
+		Images:	14414
+		Time:	26.05.2024 05:57:04 until 26.05.2024 08:46:35
+		Duration:	02:49:31
+		Location:	51.50967 -0.07567
+
+	CSTN1
+		Images:	23233
+		Time:	26.05.2024 05:58:18 until 26.05.2024 08:50:25
+		Duration:	02:52:07
+		Location:	51.50967 -0.07567
+
+	DSHAK1
+		Images:	3347
+		Time:	26.05.2024 05:59:02 until 26.05.2024 07:57:06
+		Duration:	01:58:04
+		Location:	51.50967 -0.07567
+
+	DWIC1
+		Images:	49910
+		Time:	26.05.2024 05:46:36 until 26.05.2024 08:53:01
+		Duration:	03:06:25
+		Location:	51.50967 -0.07567
+
+(16) - Tower of London - Mile 34.8 of 30 / 62.4 of 60 / 103.2 of 100
+	CDAKE2
+		Images:	32814
+		Time:	26.05.2024 09:41:09 until 26.05.2024 18:49:49
+		Duration:	09:08:40
+		Location:	51.5079 -0.07413
+
+	CDAKE2LS1
+		Images:	11761
+		Time:	26.05.2024 09:10:05 until 26.05.2024 18:27:57
+		Duration:	09:17:52
+		Location:	51.5079 -0.07413
+
+	CSTN2
+		Images:	32363
+		Time:	26.05.2024 09:20:42 until 26.05.2024 18:53:28
+		Duration:	09:32:46
+		Location:	51.5079 -0.07413
+
+(17) - Woodford Green - Mile 18.5 of All / 46.3 of 60 & 87 of 100
+	BKYY1
+		Images:	47384
+		Time:	26.05.2024 06:10:10 until 26.05.2024 17:37:23
+		Duration:	11:27:13
+		Location:	51.62068 0.02772
+
+	BPAUH1
+		Images:	27350
+		Time:	26.05.2024 05:25:56 until 26.05.2024 17:37:43
+		Duration:	12:11:47
+		Location:	51.62068 0.02772
+

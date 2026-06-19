@@ -1,0 +1,184 @@
+EventId: 13049
+Spots: 28
+Total Images: 359622
+Time:	01.01.0001 23:00:00 to 17.03.2024 12:42:39
+Duration: 738960.13:42:39
+
+(1) - 0.0 km
+	ACURA2
+		Images:	17408
+		Time:	17.03.2024 04:04:50 until 17.03.2024 07:24:54
+		Duration:	03:20:04
+		Location:	NULL NULL
+
+(2) - 0.0 km 854317
+	AANG2
+		Images:	13279
+		Time:	17.03.2024 08:34:35 until 17.03.2024 09:55:41
+		Duration:	01:21:06
+		Location:	NULL NULL
+
+(3) - 0.0 km 854318
+	AGEDW2
+		Images:	21448
+		Time:	17.03.2024 05:24:32 until 17.03.2024 09:15:04
+		Duration:	03:50:32
+		Location:	NULL NULL
+
+(4) - 0.0 km Christine Mc
+	ACMCA1
+(5) - 0.0 km Cody Trigger
+	ACURA1LS1
+		Images:	17252
+		Time:	17.03.2024 07:38:56 until 17.03.2024 12:27:05
+		Duration:	04:48:09
+		Location:	NULL NULL
+
+(6) - 0.0 km Fin Cody
+	ACURA1
+		Images:	2211
+		Time:	17.03.2024 10:12:52 until 17.03.2024 11:32:23
+		Duration:	01:19:31
+		Location:	NULL NULL
+
+(7) - 0.0 km Jim Dee MSC 1 854353
+	AJDEE1
+		Images:	18836
+		Time:	17.03.2024 04:35:56 until 17.03.2024 08:21:26
+		Duration:	03:45:30
+		Location:	NULL NULL
+
+(8) - 0.0 km Jim Dee Pre FIn
+	AJDEE2
+		Images:	6275
+		Time:	17.03.2024 09:55:40 until 17.03.2024 11:35:27
+		Duration:	01:39:47
+		Location:	NULL NULL
+
+(9) - 0.0 km Medals Cameron 854307
+	ACBHO1
+		Images:	9436
+		Time:	17.03.2024 08:54:38 until 17.03.2024 12:02:14
+		Duration:	03:07:36
+		Location:	NULL NULL
+
+(10) - 0.0 km MSC 2 Alan 854317
+	AANG1
+		Images:	17708
+		Time:	17.03.2024 05:52:38 until 17.03.2024 08:32:34
+		Duration:	02:39:56
+		Location:	NULL NULL
+
+(11) - 0.0 km MSC 2 Guy 854318
+	AGEDW1
+		Images:	26588
+		Time:	17.03.2024 05:57:11 until 17.03.2024 10:00:43
+		Duration:	04:03:32
+		Location:	NULL NULL
+
+(12) - 0.0 km MSC 2 Trigger 854319
+	AANG2LS1
+		Images:	10837
+		Time:	17.03.2024 05:56:32 until 17.03.2024 09:56:26
+		Duration:	03:59:54
+		Location:	NULL NULL
+
+(13) - 0.0 km MSC1 Trigger 854355
+	AJDEE1LS1
+		Images:	10985
+		Time:	17.03.2024 04:52:34 until 17.03.2024 08:20:46
+		Duration:	03:28:12
+		Location:	NULL NULL
+
+(14) - 0.0 km Pre Fin JC
+	AJCHE1
+		Images:	28013
+		Time:	17.03.2024 07:40:50 until 17.03.2024 12:30:41
+		Duration:	04:49:51
+		Location:	NULL NULL
+
+(15) - 0.0 km PRe FIn Trigger Center
+	APFTC1
+		Images:	16672
+		Time:	17.03.2024 05:12:35 until 17.03.2024 11:20:30
+		Duration:	06:07:55
+		Location:	NULL NULL
+
+(16) - 0.0 km Pre Fin Trigger Ground
+	APFTG1
+		Images:	13374
+		Time:	17.03.2024 06:54:08 until 17.03.2024 11:45:15
+		Duration:	04:51:07
+		Location:	NULL NULL
+
+(17) - 0.0 km Pre FIn Trigger Left
+	APFTL1
+		Images:	15106
+		Time:	17.03.2024 06:26:06 until 17.03.2024 10:55:51
+		Duration:	04:29:45
+		Location:	NULL NULL
+
+(18) - 0.0 km Pre FIn Trigger Right Front
+	APFTR1
+		Images:	14585
+		Time:	17.03.2024 05:34:49 until 17.03.2024 09:39:36
+		Duration:	04:04:47
+		Location:	NULL NULL
+
+(19) - 0.0 km Rico
+	ARICO1
+		Images:	14775
+		Time:	17.03.2024 07:40:03 until 17.03.2024 12:32:32
+		Duration:	04:52:29
+		Location:	NULL NULL
+
+(20) - 0.0 km Tanja
+	ATMON1
+		Images:	9497
+		Time:	17.03.2024 06:59:49 until 17.03.2024 12:42:39
+		Duration:	05:42:50
+		Location:	NULL NULL
+
+(21) - 0.0 km Toby FIn
+	ATCHE1
+		Images:	24418
+		Time:	17.03.2024 06:53:53 until 17.03.2024 10:41:45
+		Duration:	03:47:52
+		Location:	NULL NULL
+
+(22) - 0.0 km Toby Trig
+	ATCHE1LS1
+		Images:	15848
+		Time:	17.03.2024 05:23:32 until 17.03.2024 10:56:15
+		Duration:	05:32:43
+		Location:	NULL NULL
+
+(23) - 0.0 km William Dee MSC 1 854354
+	AWDEE1
+		Images:	12198
+		Time:	17.03.2024 04:36:51 until 17.03.2024 08:30:22
+		Duration:	03:53:31
+		Location:	NULL NULL
+
+(24) - Impressions / Pano
+	PANO1
+(25) - none
+	ATCHE2
+		Images:	8555
+		Time:	17.03.2024 10:42:14 until 17.03.2024 12:33:49
+		Duration:	01:51:35
+		Location:	NULL NULL
+
+	AWDEE2
+	CPKOL1
+		Images:	12749
+		Time:	17.03.2024 06:24:38 until 17.03.2024 11:35:13
+		Duration:	05:10:35
+		Location:	NULL NULL
+
+	CRRED1
+		Images:	1569
+		Time:	01.01.0001 23:00:00 until 17.03.2024 09:24:36
+		Duration:	738960.10:24:36
+		Location:	NULL NULL
+

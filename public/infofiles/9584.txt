@@ -1,0 +1,364 @@
+EventId: 9584
+Spots: 58
+Total Images: 648958
+Time:	01.01.0001 23:00:00 to 23.04.2023 15:51:25
+Duration: 738631.16:51:25
+
+(1) - 0.0 km Nuevos Ministerios
+	AGAR1
+		Images:	15132
+		Time:	23.04.2023 08:02:10 until 23.04.2023 11:04:21
+		Duration:	03:02:11
+		Location:	40.44595 -3.69144
+
+(2) - 19,2 km Plaza de Callao
+	ANL1
+		Images:	15090
+		Time:	23.04.2023 08:36:11 until 23.04.2023 12:33:16
+		Duration:	03:57:05
+		Location:	40.41996 -3.70579
+
+	CRGA1
+		Images:	14398
+		Time:	23.04.2023 07:17:21 until 23.04.2023 12:32:24
+		Duration:	05:15:03
+		Location:	40.41996 -3.70579
+
+	FJBS1
+		Images:	11654
+		Time:	01.01.0001 23:00:00 until 23.04.2023 12:33:53
+		Duration:	738631.13:33:53
+		Location:	40.41996 -3.70579
+
+(3) - 19,5 km Calle Preciados
+	JMP1
+		Images:	19761
+		Time:	23.04.2023 07:47:20 until 23.04.2023 12:32:54
+		Duration:	04:45:34
+		Location:	40.41748 -3.70430
+
+	JMP1LS1
+		Images:	15598
+		Time:	23.04.2023 08:21:11 until 23.04.2023 12:33:03
+		Duration:	04:11:52
+		Location:	40.41748 -3.70430
+
+	JMP1LS2
+		Images:	7040
+		Time:	23.04.2023 07:42:02 until 23.04.2023 12:32:59
+		Duration:	04:50:57
+		Location:	40.41748 -3.70430
+
+	RUR1
+		Images:	8605
+		Time:	23.04.2023 08:22:23 until 23.04.2023 11:33:17
+		Duration:	03:10:54
+		Location:	40.41748 -3.70430
+
+	RUR1LS1
+		Images:	13657
+		Time:	22.04.2023 22:10:21 until 23.04.2023 12:32:26
+		Duration:	14:22:05
+		Location:	40.41748 -3.70430
+
+	RUR1LS2
+		Images:	9830
+		Time:	22.04.2023 22:38:38 until 23.04.2023 11:57:35
+		Duration:	13:18:57
+		Location:	40.41748 -3.70430
+
+(4) - 19,6 km Puerta del Sol
+	DA1
+		Images:	26097
+		Time:	23.04.2023 07:46:45 until 23.04.2023 12:40:08
+		Duration:	04:53:23
+		Location:	40.41674 -3.70327
+
+	JG2
+		Images:	7777
+		Time:	23.04.2023 07:38:57 until 23.04.2023 12:33:46
+		Duration:	04:54:49
+		Location:	40.41662 -3.70432
+
+	SEP1
+		Images:	11658
+		Time:	23.04.2023 07:50:19 until 23.04.2023 12:34:13
+		Duration:	04:43:54
+		Location:	40.41662 -3.70432
+
+	VF1
+		Images:	15681
+		Time:	23.04.2023 08:25:39 until 23.04.2023 12:43:45
+		Duration:	04:18:06
+		Location:	40.41674 -3.70327
+
+(5) - 20,0 km Plaza de las Cortes
+	FFT1
+		Images:	26859
+		Time:	23.04.2023 08:28:06 until 23.04.2023 13:34:00
+		Duration:	05:05:54
+		Location:	40.41593 -3.69644
+
+	MBB1
+		Images:	6802
+		Time:	23.04.2023 08:27:53 until 23.04.2023 12:33:35
+		Duration:	04:05:42
+		Location:	40.41593 -3.69644
+
+(6) - 20,2 km Calle Mayor
+	DJ1
+		Images:	7778
+		Time:	23.04.2023 09:54:20 until 23.04.2023 12:38:56
+		Duration:	02:44:36
+		Location:	40.41548 -3.71074
+
+	SIC1
+		Images:	3383
+		Time:	23.04.2023 09:51:45 until 23.04.2023 12:20:42
+		Duration:	02:28:57
+		Location:	40.41548 -3.71074
+
+(7) - 20,8 km Palacio Real
+	JAI1
+		Images:	9148
+		Time:	23.04.2023 09:25:21 until 23.04.2023 12:12:52
+		Duration:	02:47:31
+		Location:	40.41816 -3.71320
+
+	LUM1
+		Images:	12173
+		Time:	23.04.2023 09:03:32 until 23.04.2023 12:42:58
+		Duration:	03:39:26
+		Location:	40.41816 -3.71320
+
+	MAAP1
+		Images:	8070
+		Time:	23.04.2023 08:55:24 until 23.04.2023 12:43:29
+		Duration:	03:48:05
+		Location:	40.41816 -3.71320
+
+	RBC1
+		Images:	9323
+		Time:	23.04.2023 09:00:20 until 23.04.2023 12:43:52
+		Duration:	03:43:32
+		Location:	40.41816 -3.71320
+
+(8) - 41,0 km Plaza de Cibeles
+	GETK1
+		Images:	19009
+		Time:	23.04.2023 07:17:43 until 23.04.2023 15:45:16
+		Duration:	08:27:33
+		Location:	40.41952 -3.69292
+
+	LGG1
+		Images:	15604
+		Time:	23.04.2023 07:13:40 until 23.04.2023 13:49:31
+		Duration:	06:35:51
+		Location:	40.41952 -3.69292
+
+	MCAS1
+		Images:	12825
+		Time:	23.04.2023 07:22:03 until 23.04.2023 15:43:07
+		Duration:	08:21:04
+		Location:	40.41952 -3.69292
+
+(9) - 41,0 km Recta de meta
+	DR1
+		Images:	12859
+		Time:	23.04.2023 10:43:46 until 23.04.2023 13:12:51
+		Duration:	02:29:05
+		Location:	40.42146 -3.69199
+
+	DR1LS1
+		Images:	12004
+		Time:	23.04.2023 10:23:01 until 23.04.2023 12:39:46
+		Duration:	02:16:45
+		Location:	40.42146 -3.69199
+
+	DR1LS2
+		Images:	10926
+		Time:	23.04.2023 07:04:20 until 23.04.2023 14:31:03
+		Duration:	07:26:43
+		Location:	40.42146 -3.69199
+
+	LOR1
+		Images:	14218
+		Time:	23.04.2023 08:16:07 until 23.04.2023 14:43:55
+		Duration:	06:27:48
+		Location:	40.42146 -3.69199
+
+	LYB1
+		Images:	21010
+		Time:	23.04.2023 08:00:43 until 23.04.2023 15:46:05
+		Duration:	07:45:22
+		Location:	40.42070 -3.69235
+
+	NIE1
+		Images:	11436
+		Time:	23.04.2023 08:05:51 until 23.04.2023 14:44:05
+		Duration:	06:38:14
+		Location:	40.42146 -3.69199
+
+	STO2
+		Images:	3763
+		Time:	23.04.2023 13:08:57 until 23.04.2023 15:48:18
+		Duration:	02:39:21
+		Location:	40.42146 -3.69199
+
+	URU1
+		Images:	27792
+		Time:	23.04.2023 08:18:33 until 23.04.2023 15:46:07
+		Duration:	07:27:34
+		Location:	40.42070 -3.69235
+
+(10) - 41.0 km Plaza de Cibeles
+	OAC1
+		Images:	12817
+		Time:	23.04.2023 08:14:52 until 23.04.2023 14:46:38
+		Duration:	06:31:46
+		Location:	40.41956 -3.69293
+
+(11) - 5.3 km Plaza Castilla
+	GB1
+		Images:	6526
+		Time:	23.04.2023 08:56:33 until 23.04.2023 10:32:40
+		Duration:	01:36:07
+		Location:	40.46574 -3.69063
+
+	GB1LS1
+		Images:	3774
+		Time:	23.04.2023 09:18:01 until 23.04.2023 10:28:36
+		Duration:	01:10:35
+		Location:	40.46574 -3.69063
+
+	GGA1
+		Images:	5700
+		Time:	23.04.2023 09:04:13 until 23.04.2023 10:26:09
+		Duration:	01:21:56
+		Location:	40.46574 -3.69063
+
+	GGA1LS1
+		Images:	2830
+		Time:	23.04.2023 09:15:53 until 23.04.2023 10:30:51
+		Duration:	01:14:58
+		Location:	40.46574 -3.69063
+
+	GGA1LS2
+		Images:	2137
+		Time:	23.04.2023 09:19:46 until 23.04.2023 10:30:33
+		Duration:	01:10:47
+		Location:	40.46574 -3.69063
+
+(12) - 8.9 km Nuevos Ministerios
+	AMRU1
+		Images:	14200
+		Time:	23.04.2023 07:57:26 until 23.04.2023 11:04:31
+		Duration:	03:07:05
+		Location:	40.44614 -3.69096
+
+	AMRU1LS1
+		Images:	2137
+		Time:	23.04.2023 08:03:12 until 23.04.2023 10:55:59
+		Duration:	02:52:47
+		Location:	40.44614 -3.69096
+
+	CBO1
+		Images:	9892
+		Time:	23.04.2023 08:03:14 until 23.04.2023 11:04:22
+		Duration:	03:01:08
+		Location:	40.44614 -3.69116
+
+	RAH1
+		Images:	10177
+		Time:	23.04.2023 08:01:17 until 23.04.2023 11:03:55
+		Duration:	03:02:38
+		Location:	40.44631 -3.69120
+
+(13) - 9.5 km Republica Argentina
+	JRP1
+		Images:	9323
+		Time:	23.04.2023 10:09:50 until 23.04.2023 11:09:03
+		Duration:	00:59:13
+		Location:	40.44494 -3.68518
+
+	SEL1
+		Images:	8420
+		Time:	23.04.2023 08:10:27 until 23.04.2023 10:58:54
+		Duration:	02:48:27
+		Location:	40.44494 -3.68518
+
+(14) - Finish
+	ALSE1
+		Images:	20721
+		Time:	23.04.2023 07:39:36 until 23.04.2023 15:50:24
+		Duration:	08:10:48
+		Location:	40.42221 -3.69164
+
+	JMO1
+		Images:	9766
+		Time:	23.04.2023 07:11:10 until 23.04.2023 15:50:33
+		Duration:	08:39:23
+		Location:	40.42221 -3.69164
+
+	MPP1
+		Images:	11526
+		Time:	23.04.2023 08:23:13 until 23.04.2023 13:29:33
+		Duration:	05:06:20
+		Location:	40.42221 -3.69164
+
+	MPP1LS1
+		Images:	10638
+		Time:	23.04.2023 09:56:09 until 23.04.2023 13:40:19
+		Duration:	03:44:10
+		Location:	40.42221 -3.69164
+
+	ROG1
+		Images:	17298
+		Time:	23.04.2023 08:15:37 until 23.04.2023 15:49:56
+		Duration:	07:34:19
+		Location:	40.42221 -3.69164
+
+	ROG1LS1
+		Images:	10579
+		Time:	23.04.2023 07:25:02 until 23.04.2023 15:51:25
+		Duration:	08:26:23
+		Location:	40.42221 -3.69164
+
+	ROG1LS2
+		Images:	10637
+		Time:	23.04.2023 07:35:37 until 23.04.2023 15:50:19
+		Duration:	08:14:42
+		Location:	40.42221 -3.69164
+
+	ROM1
+		Images:	17127
+		Time:	23.04.2023 07:52:10 until 23.04.2023 15:47:21
+		Duration:	07:55:11
+		Location:	40.42221 -3.69164
+
+	ROM1LS1
+		Images:	7623
+		Time:	23.04.2023 07:26:41 until 23.04.2023 13:37:55
+		Duration:	06:11:14
+		Location:	40.42221 -3.69164
+
+	SEL2
+		Images:	580
+		Time:	23.04.2023 13:04:31 until 23.04.2023 13:40:17
+		Duration:	00:35:46
+		Location:	40.42221 -3.69163
+
+	STO1
+		Images:	7510
+		Time:	23.04.2023 07:42:57 until 23.04.2023 13:07:05
+		Duration:	05:24:08
+		Location:	40.42221 -3.69164
+
+(15) - Impressions / Pano
+	DR1IMP1
+		Images:	60
+		Time:	23.04.2023 08:28:29 until 23.04.2023 11:19:06
+		Duration:	02:50:37
+		Location:	40.42146 -3.69199
+
+	PANO1

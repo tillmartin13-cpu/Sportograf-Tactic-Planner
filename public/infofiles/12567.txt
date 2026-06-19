@@ -1,0 +1,343 @@
+EventId: 12567
+Spots: 49
+Total Images: 420394
+Time:	11.03.2023 03:50:56 to 19.11.2023 14:58:21
+Duration: 253.11:07:25
+
+(1) - 0.0 km Abdo Start
+	FASST1
+		Images:	438
+		Time:	19.11.2023 05:34:39 until 19.11.2023 06:31:16
+		Duration:	00:56:37
+		Location:	NULL NULL
+
+(2) - 0.0 km Alan MSC8
+	IANG1
+		Images:	23542
+		Time:	19.11.2023 10:20:13 until 19.11.2023 14:00:39
+		Duration:	03:40:26
+		Location:	NULL NULL
+
+(3) - 0.0 km Fin Trigger Left
+	IFTRI1
+		Images:	12865
+		Time:	19.11.2023 09:39:54 until 19.11.2023 13:30:32
+		Duration:	03:50:38
+		Location:	NULL NULL
+
+(4) - 0.0 km Finish Abdo 1st
+	FASST2
+		Images:	29144
+		Time:	19.11.2023 07:41:51 until 19.11.2023 14:18:11
+		Duration:	06:36:20
+		Location:	NULL NULL
+
+(5) - 0.0 km Finish Gus
+	FGGFI1
+		Images:	11256
+		Time:	19.11.2023 09:14:05 until 19.11.2023 14:00:56
+		Duration:	04:46:51
+		Location:	NULL NULL
+
+(6) - 0.0 km Finish Trigger Right
+	IFTRL1
+		Images:	11407
+		Time:	19.11.2023 09:49:06 until 19.11.2023 13:19:56
+		Duration:	03:30:50
+		Location:	NULL NULL
+
+(7) - 0.0 km GUS Start
+	IGGST1
+		Images:	494
+		Time:	19.11.2023 06:37:51 until 19.11.2023 07:39:13
+		Duration:	01:01:22
+		Location:	NULL NULL
+
+(8) - 0.0 km Medal Russell
+	IRLIT1
+		Images:	3514
+		Time:	19.11.2023 08:03:35 until 19.11.2023 13:29:41
+		Duration:	05:26:06
+		Location:	NULL NULL
+
+(9) - 0.0 km Medals Alena
+	FALEN1
+		Images:	954
+		Time:	19.11.2023 08:42:35 until 19.11.2023 11:48:22
+		Duration:	03:05:47
+		Location:	NULL NULL
+
+(10) - 0.0 km Medals Charliston
+	FCHAR1
+		Images:	3059
+		Time:	18.11.2023 20:47:31 until 19.11.2023 02:05:02
+		Duration:	05:17:31
+		Location:	NULL NULL
+
+(11) - 0.0 km MSC 1 Darren
+	FDKEP1
+		Images:	3745
+		Time:	19.11.2023 05:51:32 until 19.11.2023 06:38:23
+		Duration:	00:46:51
+		Location:	NULL NULL
+
+(12) - 0.0 km MSC 1 Dru
+	FDLAM1
+		Images:	3477
+		Time:	18.11.2023 23:31:51 until 19.11.2023 00:29:29
+		Duration:	00:57:38
+		Location:	NULL NULL
+
+(13) - 0.0 km MSC 1 Mauricio
+	IMCAM1
+		Images:	3532
+		Time:	19.11.2023 07:02:32 until 19.11.2023 07:37:48
+		Duration:	00:35:16
+		Location:	NULL NULL
+
+(14) - 0.0 km MSC 1 Terrry
+	ITWWE1
+		Images:	3148
+		Time:	19.11.2023 06:02:24 until 19.11.2023 06:37:21
+		Duration:	00:34:57
+		Location:	NULL NULL
+
+(15) - 0.0 km MSC 2 Eljiah
+	IEDRE1
+		Images:	6078
+		Time:	19.11.2023 05:56:58 until 19.11.2023 07:05:11
+		Duration:	01:08:13
+		Location:	NULL NULL
+
+(16) - 0.0 km MSC 2 Rachel
+	FRCZE2
+		Images:	6951
+		Time:	19.11.2023 06:11:50 until 19.11.2023 07:06:19
+		Duration:	00:54:29
+		Location:	NULL NULL
+
+(17) - 0.0 km MSC 2 Trigger
+	INNN1
+		Images:	3039
+		Time:	19.11.2023 05:55:32 until 19.11.2023 07:00:03
+		Duration:	01:04:31
+		Location:	NULL NULL
+
+(18) - 0.0 km MSC 3 Edward
+	FERON1
+		Images:	2960
+		Time:	19.11.2023 06:46:38 until 19.11.2023 08:15:51
+		Duration:	01:29:13
+		Location:	NULL NULL
+
+(19) - 0.0 km MSC 3 JEsse
+	IJBEA1
+		Images:	3461
+		Time:	19.11.2023 06:19:28 until 19.11.2023 07:39:13
+		Duration:	01:19:45
+		Location:	NULL NULL
+
+(20) - 0.0 km MSC 4 Alan
+	IANG2
+		Images:	12831
+		Time:	19.11.2023 07:04:12 until 19.11.2023 09:05:48
+		Duration:	02:01:36
+		Location:	NULL NULL
+
+(21) - 0.0 km MSC 4 Christina
+	FDA2
+		Images:	5684
+		Time:	19.11.2023 06:39:43 until 19.11.2023 08:13:59
+		Duration:	01:34:16
+		Location:	NULL NULL
+
+(22) - 0.0 km MSC 5 Cez
+	ICGCG1
+		Images:	6712
+		Time:	19.11.2023 07:14:11 until 19.11.2023 09:45:30
+		Duration:	02:31:19
+		Location:	NULL NULL
+
+(23) - 0.0 km MSC 5 Tr
+	ICGUB1
+		Images:	9978
+		Time:	19.11.2023 10:41:41 until 19.11.2023 14:25:07
+		Duration:	03:43:26
+		Location:	NULL NULL
+
+(24) - 0.0 km MSC 5 Tri
+	ICGUB2
+		Images:	7518
+		Time:	19.11.2023 07:44:15 until 19.11.2023 09:34:06
+		Duration:	01:49:51
+		Location:	NULL NULL
+
+(25) - 0.0 km MSC 6 elijah
+	FRFIN1
+		Images:	15752
+		Time:	19.11.2023 08:16:31 until 19.11.2023 13:09:24
+		Duration:	04:52:53
+		Location:	NULL NULL
+
+(26) - 0.0 km MSC 6 RAchel
+	FRCZE1
+		Images:	10748
+		Time:	19.11.2023 08:17:08 until 19.11.2023 13:11:22
+		Duration:	04:54:14
+		Location:	NULL NULL
+
+(27) - 0.0 km MSC 6 Rober
+	FRFIN2
+		Images:	16678
+		Time:	19.11.2023 08:23:42 until 19.11.2023 13:04:57
+		Duration:	04:41:15
+		Location:	NULL NULL
+
+(28) - 0.0 km MSC 6 Tr
+	FNNTT1
+		Images:	8060
+		Time:	19.11.2023 08:19:27 until 19.11.2023 13:04:49
+		Duration:	04:45:22
+		Location:	NULL NULL
+
+(29) - 0.0 km MSC 7 Dar
+	FDKEP2
+		Images:	15782
+		Time:	19.11.2023 07:32:00 until 19.11.2023 12:58:42
+		Duration:	05:26:42
+		Location:	NULL NULL
+
+(30) - 0.0 km MSC 7 Dru
+	FDLAM2
+		Images:	18361
+		Time:	19.11.2023 08:39:37 until 19.11.2023 13:57:39
+		Duration:	05:18:02
+		Location:	NULL NULL
+
+(31) - 0.0 km MSC 7 Ed
+	FERON2
+		Images:	4162
+		Time:	19.11.2023 08:51:56 until 19.11.2023 13:30:07
+		Duration:	04:38:11
+		Location:	NULL NULL
+
+(32) - 0.0 km MSC 7 Jesses
+	IJBEA2
+		Images:	12190
+		Time:	19.11.2023 08:28:21 until 19.11.2023 12:54:51
+		Duration:	04:26:30
+		Location:	NULL NULL
+
+(33) - 0.0 km MSC2 BOB
+	IBFIN1
+		Images:	5598
+		Time:	19.11.2023 05:59:09 until 19.11.2023 06:59:59
+		Duration:	01:00:50
+		Location:	NULL NULL
+
+(34) - 0.0 km MSC3 Trigger
+	IJBTR1
+		Images:	4823
+		Time:	19.11.2023 06:15:30 until 19.11.2023 07:45:10
+		Duration:	01:29:40
+		Location:	NULL NULL
+
+(35) - 0.0 km MSC8 Nich
+	FDA1
+		Images:	13783
+		Time:	19.11.2023 09:23:06 until 19.11.2023 13:03:09
+		Duration:	03:40:03
+		Location:	NULL NULL
+
+(36) - 0.0 km OFP Anett
+	FAMIN1
+		Images:	673
+		Time:	19.11.2023 09:33:50 until 19.11.2023 13:40:29
+		Duration:	04:06:39
+		Location:	NULL NULL
+
+(37) - 0.0 km OFP Ashley Crave
+	IACRA1
+		Images:	883
+		Time:	19.11.2023 08:08:31 until 19.11.2023 12:17:37
+		Duration:	04:09:06
+		Location:	NULL NULL
+
+(38) - 0.0 km OFP Daniela Monza
+	IDMON1
+		Images:	2689
+		Time:	19.11.2023 09:20:33 until 19.11.2023 13:38:24
+		Duration:	04:17:51
+		Location:	NULL NULL
+
+(39) - 0.0 km OFP Jesscia
+	FJPIE1
+		Images:	1035
+		Time:	11.03.2023 03:50:56 until 11.03.2023 07:09:26
+		Duration:	03:18:30
+		Location:	NULL NULL
+
+(40) - 0.0 km PR Stefan
+	ISGPR1
+		Images:	88
+		Time:	19.11.2023 13:56:13 until 19.11.2023 14:07:57
+		Duration:	00:11:44
+		Location:	NULL NULL
+
+(41) - 0.0 km Pre FIn Mauricio 1st
+	IMCAM2
+		Images:	23617
+		Time:	19.11.2023 09:36:12 until 19.11.2023 14:58:21
+		Duration:	05:22:09
+		Location:	NULL NULL
+
+(42) - 0.0 km Pre Fin Terry 1st
+	ITWWE2
+		Images:	22898
+		Time:	19.11.2023 08:22:48 until 19.11.2023 13:15:12
+		Duration:	04:52:24
+		Location:	NULL NULL
+
+(43) - 0.0 km PRe FIn trigger Center
+	IFTCC1
+		Images:	5466
+		Time:	19.11.2023 06:04:21 until 19.11.2023 11:43:25
+		Duration:	05:39:04
+		Location:	NULL NULL
+
+(44) - 0.0 km Pre Fin Trigger LEft
+	FPGGH1
+		Images:	13487
+		Time:	18.11.2023 00:39:57 until 18.11.2023 06:42:11
+		Duration:	06:02:14
+		Location:	NULL NULL
+
+(45) - 0.0 km Pre Fin Trigger right 1st
+	FPFTR1
+		Images:	13375
+		Time:	19.11.2023 09:29:01 until 19.11.2023 13:29:37
+		Duration:	04:00:36
+		Location:	NULL NULL
+
+(46) - 0.0 km PreFin George 1st
+	FGJIA1
+		Images:	20661
+		Time:	19.11.2023 08:10:05 until 19.11.2023 13:28:37
+		Duration:	05:18:32
+		Location:	NULL NULL
+
+(47) - Impressions / Pano
+	PANO1
+(48) - none
+	FPKOL1
+		Images:	2504
+		Time:	19.11.2023 11:59:54 until 19.11.2023 14:15:23
+		Duration:	02:15:29
+		Location:	NULL NULL
+
+	ICGCG2
+		Images:	11294
+		Time:	19.11.2023 10:38:29 until 19.11.2023 14:16:38
+		Duration:	03:38:09
+		Location:	NULL NULL
+

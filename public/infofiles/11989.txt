@@ -1,0 +1,57 @@
+EventId: 11989
+Spots: 8
+Total Images: 16240
+Time:	16.11.2024 06:59:59 to 16.11.2024 21:47:48
+Duration: 14:47:49
+
+(1) - Station 10 Hero Wall
+	DEHA7
+		Images:	510
+		Time:	16.11.2024 17:53:22 until 16.11.2024 19:04:37
+		Duration:	01:11:15
+		Location:	34.28047 -81.56845
+
+	DEHA8
+		Images:	285
+		Time:	16.11.2024 12:35:00 until 16.11.2024 13:17:54
+		Duration:	00:42:54
+		Location:	34.28047 -81.56845
+
+	MUK4
+		Images:	1365
+		Time:	16.11.2024 13:16:05 until 16.11.2024 16:52:50
+		Duration:	03:36:45
+		Location:	34.28047 -81.56845
+
+(2) - Station 5 Rowing
+	AAA1
+		Images:	5890
+		Time:	16.11.2024 06:59:59 until 16.11.2024 14:03:17
+		Duration:	07:03:18
+		Location:	34.28047 -81.56845
+
+	ANP5
+		Images:	1743
+		Time:	16.11.2024 11:31:15 until 16.11.2024 17:53:53
+		Duration:	06:22:38
+		Location:	34.28047 -81.56845
+
+	MAT7
+		Images:	1193
+		Time:	16.11.2024 17:30:10 until 16.11.2024 18:46:33
+		Duration:	01:16:23
+		Location:	34.28047 -81.56845
+
+(3) - Station 9 Finish
+	CBAC4
+		Images:	5145
+		Time:	16.11.2024 14:14:52 until 16.11.2024 21:47:48
+		Duration:	07:32:56
+		Location:	34.28047 -81.56845
+
+	DEHA6
+		Images:	109
+		Time:	16.11.2024 13:24:04 until 16.11.2024 13:35:40
+		Duration:	00:11:36
+		Location:	34.28047 -81.56845
+

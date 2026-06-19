@@ -1,0 +1,167 @@
+EventId: 14077
+Spots: 25
+Total Images: 50617
+Time:	18.10.2025 08:24:53 to 19.10.2025 16:15:45
+Duration: 1.07:50:52
+
+(1) - 0,1 km
+	SDT1
+		Images:	647
+		Time:	18.10.2025 20:07:36 until 19.10.2025 11:51:13
+		Duration:	15:43:37
+		Location:	50.80583 4.44642
+
+	SDT1LS1
+		Images:	975
+		Time:	18.10.2025 20:14:50 until 19.10.2025 11:53:57
+		Duration:	15:39:07
+		Location:	50.80583 4.44642
+
+	SDT1LS2
+		Images:	947
+		Time:	18.10.2025 20:09:57 until 19.10.2025 11:53:58
+		Duration:	15:44:01
+		Location:	50.80583 4.44642
+
+(2) - 0,6 km
+	MIJA1
+		Images:	1990
+		Time:	19.10.2025 10:04:31 until 19.10.2025 14:11:07
+		Duration:	04:06:36
+		Location:	50.80353 4.44528
+
+(3) - 0,7 km
+	ALN1
+		Images:	3294
+		Time:	18.10.2025 10:38:54 until 19.10.2025 11:40:55
+		Duration:	1.01:02:01
+		Location:	50.80204 4.44698
+
+	ALN1LS1
+		Images:	737
+		Time:	18.10.2025 09:06:45 until 19.10.2025 11:19:54
+		Duration:	1.02:13:09
+		Location:	50.80204 4.44698
+
+	ALN1LS2
+		Images:	684
+		Time:	19.10.2025 09:47:09 until 19.10.2025 11:19:12
+		Duration:	01:32:03
+		Location:	50.80204 4.44698
+
+(4) - 8,5 km
+	OP1
+		Images:	1206
+		Time:	18.10.2025 09:00:02 until 19.10.2025 12:46:49
+		Duration:	1.03:46:47
+		Location:	50.78265 4.45168
+
+	OP1LS1
+		Images:	645
+		Time:	19.10.2025 10:29:03 until 19.10.2025 12:48:25
+		Duration:	02:19:22
+		Location:	50.78265 4.45168
+
+(5) - 8,7 km
+	TOBB1LS2
+		Images:	597
+		Time:	19.10.2025 09:34:14 until 19.10.2025 12:11:35
+		Duration:	02:37:21
+		Location:	50.78291 4.45031
+
+	TOBB1
+		Images:	2348
+		Time:	19.10.2025 10:35:59 until 19.10.2025 12:05:34
+		Duration:	01:29:35
+		Location:	50.78291 4.45031
+
+	TOBB1LS1
+		Images:	637
+		Time:	18.10.2025 09:06:28 until 19.10.2025 12:07:56
+		Duration:	1.03:01:28
+		Location:	50.78291 4.45031
+
+(6) - 2,0 km before finish
+	OP2
+		Images:	1667
+		Time:	18.10.2025 17:47:13 until 19.10.2025 15:58:39
+		Duration:	22:11:26
+		Location:	50.79019 4.43676
+
+	OP2LS1
+		Images:	887
+		Time:	18.10.2025 12:51:10 until 19.10.2025 15:59:56
+		Duration:	1.03:08:46
+		Location:	50.79019 4.43676
+
+(7) - 1,9 km before finish
+	TOBB2
+		Images:	3567
+		Time:	18.10.2025 12:49:03 until 19.10.2025 16:02:03
+		Duration:	1.03:13:00
+		Location:	50.79053 4.43799
+
+	TOBB2LS1
+		Images:	1378
+		Time:	18.10.2025 12:51:41 until 19.10.2025 15:58:09
+		Duration:	1.03:06:28
+		Location:	50.79053 4.43799
+
+	TOBB2LS2
+		Images:	1386
+		Time:	19.10.2025 12:43:04 until 19.10.2025 15:58:08
+		Duration:	03:15:04
+		Location:	50.79053 4.43799
+
+(8) - 1,0 km before finish
+	ALN2
+		Images:	13215
+		Time:	18.10.2025 15:38:47 until 19.10.2025 16:11:29
+		Duration:	1.00:32:42
+		Location:	50.80242 4.44580
+
+	ALN2LS1
+		Images:	1744
+		Time:	19.10.2025 11:45:49 until 19.10.2025 16:03:00
+		Duration:	04:17:11
+		Location:	50.80242 4.44580
+
+	ALN2LS2
+		Images:	1741
+		Time:	18.10.2025 12:46:47 until 19.10.2025 16:04:03
+		Duration:	1.03:17:16
+		Location:	50.80242 4.44580
+
+(9) - 0,8 km before finish
+	MIJA2
+		Images:	4967
+		Time:	18.10.2025 13:14:59 until 19.10.2025 16:04:34
+		Duration:	1.02:49:35
+		Location:	50.80419 4.44599
+
+(10) - Finish
+	SDT2
+		Images:	2012
+		Time:	19.10.2025 12:18:23 until 19.10.2025 16:10:41
+		Duration:	03:52:18
+		Location:	50.80873 4.44377
+
+	SDT2LS1
+		Images:	1707
+		Time:	19.10.2025 12:09:18 until 19.10.2025 16:15:45
+		Duration:	04:06:27
+		Location:	50.80873 4.44377
+
+	SDT2LS2
+		Images:	1636
+		Time:	19.10.2025 12:13:14 until 19.10.2025 16:11:49
+		Duration:	03:58:35
+		Location:	50.80873 4.44377
+
+(11) - Impressions / Pano
+	PANO1
+		Images:	1
+		Time:	19.10.2025 14:03:36 until 19.10.2025 14:03:36
+		Duration:	00:00:00
+		Location:	NULL NULL
+

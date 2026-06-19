@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "48.91893" lon = "11.86747"><name>MAE4LS1</name><desc>0,3 km
+Images:5186
+First:12.07.2025 22:10:18
+Last:13.07.2025 06:02:51
+Duration:07:52:33
+</desc></wpt>
+<wpt lat = "48.92000" lon = "11.86411"><name>ROH1</name><desc>0,5 km
+Images:512
+First:12.07.2025 13:52:27
+Last:12.07.2025 14:03:21
+Duration:00:10:54
+</desc></wpt>
+<wpt lat = "48.92000" lon = "11.86411"><name>MAE1</name><desc>0,5 km
+Images:438
+First:12.07.2025 13:03:02
+Last:12.07.2025 14:03:34
+Duration:01:00:32
+</desc></wpt>
+<wpt lat = "48.92096" lon = "11.85918"><name>ROH7</name><desc>0,8 km
+Images:5014
+First:13.07.2025 11:23:59
+Last:13.07.2025 12:54:22
+Duration:01:30:23
+</desc></wpt>
+<wpt lat = "48.92110" lon = "11.85428"><name>ROH4</name><desc>1,0 km
+Images:4041
+First:12.07.2025 18:58:20
+Last:12.07.2025 21:37:51
+Duration:02:39:31
+</desc></wpt>
+<wpt lat = "48.92110" lon = "11.85428"><name>ROH4LS1</name><desc>1,0 km
+Images:1502
+First:12.07.2025 18:55:05
+Last:12.07.2025 20:27:58
+Duration:01:32:53
+</desc></wpt>
+<wpt lat = "48.92026" lon = "11.85585"><name>ROH3</name><desc>1,2 km
+Images:2650
+First:12.07.2025 17:34:56
+Last:12.07.2025 18:43:38
+Duration:01:08:42
+</desc></wpt>
+<wpt lat = "48.92026" lon = "11.85585"><name>ROH3LS1</name><desc>1,2 km
+Images:1218
+First:12.07.2025 17:27:32
+Last:12.07.2025 18:44:12
+Duration:01:16:40
+</desc></wpt>
+<wpt lat = "48.91950" lon = "11.84674"><name>ROH2</name><desc>2,0 km
+Images:4539
+First:12.07.2025 15:00:25
+Last:12.07.2025 17:02:04
+Duration:02:01:39
+</desc></wpt>
+<wpt lat = "48.91950" lon = "11.84674"><name>ROH2LS1</name><desc>2,0 km
+Images:2209
+First:12.07.2025 14:56:32
+Last:12.07.2025 17:29:56
+Duration:02:33:24
+</desc></wpt>
+<wpt lat = "48.91394" lon = "11.81416"><name>MAE2</name><desc>4,7 km
+Images:2254
+First:12.07.2025 15:16:27
+Last:12.07.2025 17:03:12
+Duration:01:46:45
+</desc></wpt>
+<wpt lat = "48.91394" lon = "11.81416"><name>MAE2LS1</name><desc>4,7 km
+Images:2458
+First:12.07.2025 14:59:52
+Last:12.07.2025 17:09:36
+Duration:02:09:44
+</desc></wpt>
+<wpt lat = "48.91226" lon = "11.80625"><name>MAE3</name><desc>5,0 km
+Images:1099
+First:12.07.2025 17:48:40
+Last:12.07.2025 18:43:53
+Duration:00:55:13
+</desc></wpt>
+<wpt lat = "48.91226" lon = "11.80625"><name>MAE3LS1</name><desc>5,0 km
+Images:1134
+First:12.07.2025 17:36:28
+Last:12.07.2025 18:48:50
+Duration:01:12:22
+</desc></wpt>
+<wpt lat = "48.91096" lon = "11.80014"><name>MAE4</name><desc>5,2 km
+Images:1661
+First:12.07.2025 19:04:20
+Last:12.07.2025 21:05:31
+Duration:02:01:11
+</desc></wpt>
+<wpt lat = "48.90926" lon = "11.78217"><name>ROH6LS1</name><desc>7,0 km
+Images:1195
+First:13.07.2025 08:58:44
+Last:13.07.2025 10:49:37
+Duration:01:50:53
+</desc></wpt>
+<wpt lat = "48.90926" lon = "11.78217"><name>ROH6</name><desc>7,0 km
+Images:2996
+First:13.07.2025 09:02:40
+Last:13.07.2025 11:23:44
+Duration:02:21:04
+</desc></wpt>
+<wpt lat = "48.91977" lon = "11.78410"><name>ROH5</name><desc>8,0 km
+Images:2688
+First:13.07.2025 07:20:41
+Last:13.07.2025 08:46:39
+Duration:01:25:58
+</desc></wpt>
+<wpt lat = "48.91977" lon = "11.78410"><name>ROH5LS1</name><desc>8,0 km
+Images:673
+First:13.07.2025 07:09:41
+Last:13.07.2025 08:49:21
+Duration:01:39:40
+</desc></wpt>
+<wpt lat = "48.92651" lon = "11.79419"><name>MAE7</name><desc>9,3 km
+Images:2018
+First:13.07.2025 11:58:05
+Last:13.07.2025 13:31:31
+Duration:01:33:26
+</desc></wpt>
+<wpt lat = "48.92651" lon = "11.79419"><name>MAE7LS1</name><desc>9,3 km
+Images:1162
+First:13.07.2025 11:43:28
+Last:13.07.2025 13:19:48
+Duration:01:36:20
+</desc></wpt>
+<wpt lat = "48.92958" lon = "11.79798"><name>MAE6</name><desc>10,1 km
+Images:2349
+First:13.07.2025 09:42:35
+Last:13.07.2025 11:09:12
+Duration:01:26:37
+</desc></wpt>
+<wpt lat = "48.92958" lon = "11.79798"><name>MAE6LS1</name><desc>10,1 km
+Images:1080
+First:13.07.2025 09:31:30
+Last:13.07.2025 11:15:21
+Duration:01:43:51
+</desc></wpt>
+<wpt lat = "48.92731" lon = "11.81542"><name>MAE5</name><desc>10,6 km
+Images:1571
+First:13.07.2025 07:17:54
+Last:13.07.2025 08:44:28
+Duration:01:26:34
+</desc></wpt>
+<wpt lat = "48.92731" lon = "11.81542"><name>MAE5LS1</name><desc>10,6 km
+Images:730
+First:13.07.2025 07:07:47
+Last:13.07.2025 08:51:43
+Duration:01:43:56
+</desc></wpt>
+<wpt lat = "48.9252" lon = "11.83576"><name>STM3</name><desc>12,9 km
+Images:2334
+First:12.07.2025 18:36:28
+Last:12.07.2025 20:46:59
+Duration:02:10:31
+</desc></wpt>
+<wpt lat = "48.92467" lon = "11.83611"><name>STM2</name><desc>13,1 km
+Images:1652
+First:12.07.2025 16:49:23
+Last:12.07.2025 18:20:49
+Duration:01:31:26
+</desc></wpt>
+<wpt lat = "48.92467" lon = "11.83611"><name>STM2LS1</name><desc>13,1 km
+Images:1206
+First:12.07.2025 16:39:34
+Last:12.07.2025 18:23:51
+Duration:01:44:17
+</desc></wpt>
+<wpt lat = "48.92581" lon = "11.83994"><name>STM1</name><desc>13,6 km
+Images:2004
+First:12.07.2025 13:09:13
+Last:12.07.2025 16:20:54
+Duration:03:11:41
+</desc></wpt>
+<wpt lat = "48.92581" lon = "11.83994"><name>STM1LS1</name><desc>13,6 km
+Images:910
+First:12.07.2025 14:03:02
+Last:12.07.2025 16:20:54
+Duration:02:17:52
+</desc></wpt>
+<wpt lat = "48.92320" lon = "11.86840"><name>STM4</name><desc>15,0 km
+Images:1980
+First:13.07.2025 07:32:08
+Last:13.07.2025 09:59:16
+Duration:02:27:08
+</desc></wpt>
+<wpt lat = "48.92320" lon = "11.86840"><name>STM4LS1</name><desc>15,0 km
+Images:1038
+First:13.07.2025 07:19:50
+Last:13.07.2025 10:18:29
+Duration:02:58:39
+</desc></wpt>
+<wpt lat = "48.92115" lon = "11.86664"><name>STM5</name><desc>15,3 km
+Images:1742
+First:13.07.2025 10:22:09
+Last:13.07.2025 12:09:14
+Duration:01:47:05
+</desc></wpt>
+<wpt lat = "48.92115" lon = "11.86664"><name>STM5LS1</name><desc>15,3 km
+Images:975
+First:13.07.2025 10:18:53
+Last:13.07.2025 12:12:11
+Duration:01:53:18
+</desc></wpt>
+<wpt lat = "48.92115" lon = "11.86664"><name>STM3LS1</name><desc>15,4 km
+Images:3119
+First:12.07.2025 22:16:23
+Last:13.07.2025 06:22:57
+Duration:08:06:34
+</desc></wpt>
+<wpt lat = "48.92115" lon = "11.86664"><name>ROH4LS2</name><desc>15,5 km
+Images:3413
+First:12.07.2025 22:08:52
+Last:13.07.2025 06:06:46
+Duration:07:57:54
+</desc></wpt>
+<wpt lat = "48.91868" lon = "11.87044"><name>STM6</name><desc>Finish
+Images:1447
+First:13.07.2025 12:32:19
+Last:13.07.2025 13:59:35
+Duration:01:27:16
+</desc></wpt>
+<wpt lat = "48.92581" lon = "11.83994"><name>MAE1DRONE1</name><desc>Impressions / Pano
+Images:58
+First:12.07.2025 13:25:56
+Last:13.07.2025 07:35:01
+Duration:18:09:05
+</desc></wpt>
+</gpx>

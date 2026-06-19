@@ -1,0 +1,370 @@
+EventId: 9422
+Spots: 58
+Total Images: 730296
+Time:	01.07.2023 07:42:01 to 09.07.2023 20:59:28
+Duration: 8.13:17:27
+
+(1) - Col de Cou - km 39,5
+	MMI1
+		Images:	12612
+		Time:	09.07.2023 07:57:15 until 09.07.2023 11:52:57
+		Duration:	03:55:42
+		Location:	46.26883 6.46612
+
+	MMI1LS1
+		Images:	11715
+		Time:	09.07.2023 08:15:37 until 09.07.2023 11:54:06
+		Duration:	03:38:29
+		Location:	46.26883 6.46612
+
+	SMO1
+		Images:	8770
+		Time:	09.07.2023 08:16:02 until 09.07.2023 11:54:44
+		Duration:	03:38:42
+		Location:	46.26883 6.46612
+
+(2) - Col de Cou downhill / km 41
+	RSP1
+		Images:	9436
+		Time:	09.07.2023 08:19:01 until 09.07.2023 12:02:54
+		Duration:	03:43:53
+		Location:	46.28182 6.47175
+
+(3) - Col de Feu downhill - km 56
+	ADO1
+		Images:	4261
+		Time:	09.07.2023 07:20:59 until 09.07.2023 13:23:37
+		Duration:	06:02:38
+		Location:	46.28652 6.5155
+
+	STR1
+		Images:	23056
+		Time:	09.07.2023 07:24:26 until 09.07.2023 13:27:39
+		Duration:	06:03:13
+		Location:	46.28652 6.5155
+
+(4) - Col de Feu top - km 54.5
+	FME1
+		Images:	8774
+		Time:	09.07.2023 08:24:24 until 09.07.2023 13:12:20
+		Duration:	04:47:56
+		Location:	46.29446 6.5093
+
+	FRPI1
+		Images:	7557
+		Time:	09.07.2023 08:05:17 until 09.07.2023 13:12:13
+		Duration:	05:06:56
+		Location:	46.29446 6.5093
+
+(5) - Col de Joux Plane - km 132
+	MBEN1
+		Images:	9966
+		Time:	09.07.2023 06:55:50 until 09.07.2023 19:02:07
+		Duration:	12:06:17
+		Location:	46.10592 6.71083
+
+	OT1
+		Images:	16618
+		Time:	09.07.2023 06:15:25 until 09.07.2023 19:02:17
+		Duration:	12:46:52
+		Location:	46.10592 6.71083
+
+(6) - Col de Joux Plane - km 134
+	ANR1
+		Images:	20038
+		Time:	09.07.2023 06:20:43 until 09.07.2023 19:35:31
+		Duration:	13:14:48
+		Location:	46.11011 6.70304
+
+	PF1
+		Images:	12319
+		Time:	09.07.2023 08:06:45 until 09.07.2023 19:16:35
+		Duration:	11:09:50
+		Location:	46.11011 6.70304
+
+(7) - Col de Joux Plane - km 135
+	KSA1
+		Images:	16137
+		Time:	09.07.2023 10:03:41 until 09.07.2023 19:59:50
+		Duration:	09:56:09
+		Location:	46.12734 6.71114
+
+(8) - Col de Joux Plane top - km 137
+	MW1
+		Images:	15406
+		Time:	09.07.2023 09:58:44 until 09.07.2023 20:12:11
+		Duration:	10:13:27
+		Location:	46.12721 6.71104
+
+	TOG1
+		Images:	24276
+		Time:	09.07.2023 10:18:59 until 09.07.2023 20:07:03
+		Duration:	09:48:04
+		Location:	46.12721 6.71104
+
+	TOG1DRONE1
+		Images:	24
+		Time:	08.07.2023 11:39:16 until 08.07.2023 15:36:39
+		Duration:	03:57:23
+		Location:	46.12721 6.71104
+
+	TOG1LS1
+		Images:	11634
+		Time:	09.07.2023 10:12:37 until 09.07.2023 20:08:30
+		Duration:	09:55:53
+		Location:	46.12721 6.71104
+
+	TOG1LS2
+		Images:	11972
+		Time:	09.07.2023 10:05:41 until 09.07.2023 20:07:14
+		Duration:	10:01:33
+		Location:	46.12721 6.71104
+
+(9) - Col de la Ramaz - km 94.5
+	GAC1
+		Images:	33571
+		Time:	09.07.2023 09:03:04 until 09.07.2023 16:05:39
+		Duration:	07:02:35
+		Location:	46.15898 6.52299
+
+(10) - Col de la Ramaz - km 97
+	ST1
+		Images:	18634
+		Time:	08.07.2023 23:57:31 until 09.07.2023 16:27:43
+		Duration:	16:30:12
+		Location:	46.15865 6.54448
+
+	ST1LS1
+		Images:	16308
+		Time:	09.07.2023 09:31:19 until 09.07.2023 16:25:49
+		Duration:	06:54:30
+		Location:	46.15865 6.54448
+
+	ST1LS2
+		Images:	11210
+		Time:	09.07.2023 09:25:38 until 09.07.2023 13:48:54
+		Duration:	04:23:16
+		Location:	46.15865 6.54448
+
+(11) - Col de la Ramaz downhill - km 102
+	RM1
+		Images:	74911
+		Time:	09.07.2023 09:25:04 until 09.07.2023 17:49:15
+		Duration:	08:24:11
+		Location:	46.15611 6.57984
+
+	RM1LS1
+		Images:	10402
+		Time:	09.07.2023 09:05:55 until 09.07.2023 17:24:20
+		Duration:	08:18:25
+		Location:	46.15611 6.57984
+
+(12) - Col de la Ramaz downhill - km 102.5
+	WEN1
+		Images:	21943
+		Time:	09.07.2023 08:56:52 until 09.07.2023 17:04:00
+		Duration:	08:07:08
+		Location:	46.15366 6.57953
+
+(13) - Col de la Ramaz start downhill - km 101.5
+	CL1
+		Images:	13306
+		Time:	09.07.2023 06:01:57 until 09.07.2023 17:39:39
+		Duration:	11:37:42
+		Location:	46.15681 6.58037
+
+	CL1LS1
+		Images:	7627
+		Time:	09.07.2023 09:21:46 until 09.07.2023 17:39:09
+		Duration:	08:17:23
+		Location:	46.15681 6.58037
+
+	LV1
+		Images:	34066
+		Time:	01.07.2023 07:42:01 until 09.07.2023 17:34:54
+		Duration:	8.09:52:53
+		Location:	46.15681 6.58037
+
+	LV1LS1
+		Images:	13595
+		Time:	09.07.2023 09:09:47 until 09.07.2023 17:36:15
+		Duration:	08:26:28
+		Location:	46.15681 6.58037
+
+	LV1LS2
+		Images:	12075
+		Time:	09.07.2023 09:22:44 until 09.07.2023 17:44:47
+		Duration:	08:22:03
+		Location:	46.15681 6.58037
+
+(14) - Col de la Ramaz top - km 101
+	DRI1
+		Images:	19771
+		Time:	09.07.2023 10:18:48 until 09.07.2023 16:54:07
+		Duration:	06:35:19
+		Location:	46.16129 6.57891
+
+	DRI1DRONE1
+		Images:	6
+		Time:	08.07.2023 20:03:33 until 09.07.2023 12:47:35
+		Duration:	16:44:02
+		Location:	46.16129 6.57891
+
+	DRI1LS1
+		Images:	20100
+		Time:	09.07.2023 10:10:59 until 09.07.2023 17:08:02
+		Duration:	06:57:03
+		Location:	46.16129 6.57891
+
+	DRI1LS2
+		Images:	11534
+		Time:	09.07.2023 09:51:40 until 09.07.2023 17:21:12
+		Duration:	07:29:32
+		Location:	46.16129 6.57891
+
+	KJ1
+		Images:	17392
+		Time:	09.07.2023 08:49:16 until 09.07.2023 15:51:29
+		Duration:	07:02:13
+		Location:	46.15961 6.58036
+
+(15) - Col de Saxel - km 22
+	EO1
+		Images:	6973
+		Time:	09.07.2023 07:40:23 until 09.07.2023 10:25:12
+		Duration:	02:44:49
+		Location:	46.24243 6.39699
+
+	EO1DRONE1
+		Images:	23
+		Time:	09.07.2023 07:31:52 until 09.07.2023 07:52:54
+		Duration:	00:21:02
+		Location:	46.24243 6.39699
+
+	EO1LS1
+		Images:	1720
+		Time:	09.07.2023 07:41:46 until 09.07.2023 10:26:29
+		Duration:	02:44:43
+		Location:	46.24243 6.39699
+
+	EO1LS2
+		Images:	7316
+		Time:	09.07.2023 07:40:38 until 09.07.2023 10:18:24
+		Duration:	02:37:46
+		Location:	46.24243 6.39699
+
+	FBO1
+		Images:	4082
+		Time:	08.07.2023 23:21:01 until 09.07.2023 10:32:39
+		Duration:	11:11:38
+		Location:	46.24243 6.39699
+
+(16) - Col de Saxel - km21
+	ALBIA1
+		Images:	6668
+		Time:	08.07.2023 23:23:47 until 09.07.2023 10:22:18
+		Duration:	10:58:31
+		Location:	46.23542 6.39458
+
+	MAC1
+		Images:	9518
+		Time:	09.07.2023 06:58:44 until 09.07.2023 10:24:26
+		Duration:	03:25:42
+		Location:	46.23542 6.39458
+
+	MAC1LS1
+		Images:	8689
+		Time:	09.07.2023 07:07:50 until 09.07.2023 10:27:33
+		Duration:	03:19:43
+		Location:	46.23542 6.39458
+
+(17) - Downhill to Morzine - km 144
+	CLG1
+		Images:	17722
+		Time:	09.07.2023 09:01:49 until 09.07.2023 20:30:48
+		Duration:	11:28:59
+		Location:	46.15723 6.70366
+
+	VIT1
+		Images:	8473
+		Time:	09.07.2023 08:51:50 until 09.07.2023 20:30:41
+		Duration:	11:38:51
+		Location:	46.15723 6.70366
+
+(18) - Downhill to Morzine km 146
+	BEN1
+		Images:	13862
+		Time:	09.07.2023 08:56:55 until 09.07.2023 20:36:45
+		Duration:	11:39:50
+		Location:	46.16703 6.70827
+
+	SBRO1
+		Images:	11157
+		Time:	05.07.2023 18:04:46 until 09.07.2023 20:38:26
+		Duration:	4.02:33:40
+		Location:	46.16703 6.70827
+
+(19) - Finish
+	JS1
+		Images:	22693
+		Time:	09.07.2023 10:59:33 until 09.07.2023 20:59:28
+		Duration:	09:59:55
+		Location:	46.1818 6.70673
+
+	KT1
+		Images:	21515
+		Time:	09.07.2023 10:59:54 until 09.07.2023 20:55:36
+		Duration:	09:55:42
+		Location:	46.1818 6.70673
+
+	THL1LS1
+		Images:	4005
+		Time:	09.07.2023 10:51:42 until 09.07.2023 20:53:25
+		Duration:	10:01:43
+		Location:	46.1818 6.70673
+
+	THL1LS2
+		Images:	6139
+		Time:	01.07.2023 09:07:55 until 09.07.2023 20:57:26
+		Duration:	8.11:49:31
+		Location:	46.1818 6.70673
+
+(20) - Impressions / Pano
+	MK1DRONE1
+		Images:	20
+		Time:	09.07.2023 07:21:45 until 09.07.2023 16:04:46
+		Duration:	08:43:01
+		Location:	46.17997 6.24502
+
+	PANO1
+(21) - Start
+	AND1
+		Images:	833
+		Time:	09.07.2023 06:13:17 until 09.07.2023 08:59:35
+		Duration:	02:46:18
+		Location:	46.17997 6.24502
+
+	MK1
+		Images:	9865
+		Time:	09.07.2023 06:38:19 until 09.07.2023 08:59:25
+		Duration:	02:21:06
+		Location:	46.17997 6.24502
+
+	MK1IMP1
+		Images:	111
+		Time:	09.07.2023 06:11:23 until 09.07.2023 07:03:23
+		Duration:	00:52:00
+		Location:	46.17997 6.24502
+
+	MK1LS1
+		Images:	3704
+		Time:	09.07.2023 07:05:15 until 09.07.2023 09:00:42
+		Duration:	01:55:27
+		Location:	46.17997 6.24502
+
+	MK1LS2
+		Images:	4186
+		Time:	09.07.2023 07:00:29 until 09.07.2023 09:00:12
+		Duration:	01:59:43
+		Location:	46.17997 6.24502
+

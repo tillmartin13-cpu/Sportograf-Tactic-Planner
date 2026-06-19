@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "47.36290" lon = "12.62047"><name>MIW1</name><desc>31,2 km
+Images:2108
+First:06.09.2025 10:48:38
+Last:06.09.2025 14:59:36
+Duration:04:10:58
+</desc></wpt>
+<wpt lat = "47.38756" lon = "12.58431"><name>HAWI1</name><desc>74,5 km
+Images:2226
+First:06.09.2025 09:00:25
+Last:06.09.2025 12:30:43
+Duration:03:30:18
+</desc></wpt>
+<wpt lat = "47.38935" lon = "12.65907"><name>SALE1</name><desc>15,6 km
+Images:3375
+First:06.09.2025 09:08:33
+Last:06.09.2025 11:32:53
+Duration:02:24:20
+</desc></wpt>
+<wpt lat = "47.37852" lon = "12.59492"><name>ULKE1</name><desc>Start
+Images:711
+First:06.09.2025 07:21:48
+Last:06.09.2025 09:46:26
+Duration:02:24:38
+</desc></wpt>
+<wpt lat = "47.37852" lon = "12.59492"><name>ULKE2</name><desc>Finish
+Images:2944
+First:06.09.2025 09:54:32
+Last:06.09.2025 16:55:03
+Duration:07:00:31
+</desc></wpt>
+</gpx>

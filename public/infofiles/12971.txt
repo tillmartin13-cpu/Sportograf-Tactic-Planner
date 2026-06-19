@@ -1,0 +1,201 @@
+EventId: 12971
+Spots: 29
+Total Images: 120630
+Time:	31.12.2006 19:00:23 to 28.01.2024 10:33:26
+Duration: 6236.15:33:03
+
+(1) - 0.0 km Abdo MSC1
+	AASHA1
+		Images:	1948
+		Time:	13.01.2024 07:51:33 until 13.01.2024 08:29:55
+		Duration:	00:38:22
+		Location:	NULL NULL
+
+(2) - 0.0 km Alan Bartos
+	BABAR1
+		Images:	5621
+		Time:	13.01.2024 06:59:40 until 13.01.2024 08:24:52
+		Duration:	01:25:12
+		Location:	NULL NULL
+
+(3) - 0.0 km Alan Bartos Trigger
+	BABAR1LS1
+		Images:	4656
+		Time:	05.08.2023 06:38:08 until 05.08.2023 09:01:48
+		Duration:	02:23:40
+		Location:	NULL NULL
+
+(4) - 0.0 km Fin Tob
+	BTCH1
+		Images:	13331
+		Time:	13.01.2024 06:17:46 until 13.01.2024 07:51:26
+		Duration:	01:33:40
+		Location:	NULL NULL
+
+(5) - 0.0 km Finish Trigger
+	ALED1LS1
+		Images:	5737
+		Time:	13.01.2024 08:03:44 until 13.01.2024 09:50:35
+		Duration:	01:46:51
+		Location:	NULL NULL
+
+(6) - 0.0 km Jeff
+	BJLAU1
+		Images:	11410
+		Time:	13.01.2024 07:04:36 until 13.01.2024 08:51:12
+		Duration:	01:46:36
+		Location:	NULL NULL
+
+(7) - 0.0 km Jeff Tri
+	BJLAU1LS1
+		Images:	5900
+		Time:	13.01.2024 07:10:00 until 13.01.2024 08:48:19
+		Duration:	01:38:19
+		Location:	NULL NULL
+
+(8) - 0.0 km Lance Finish
+	ALED1
+		Images:	7389
+		Time:	13.01.2024 06:32:22 until 13.01.2024 07:53:22
+		Duration:	01:21:00
+		Location:	NULL NULL
+
+(9) - 0.0 km Lance MSC 1
+	AEDWA1
+		Images:	1819
+		Time:	13.01.2024 05:44:17 until 13.01.2024 06:31:11
+		Duration:	00:46:54
+		Location:	NULL NULL
+
+(10) - 0.0 km Medal Rick
+	ARICK1
+		Images:	1516
+		Time:	13.01.2024 06:44:01 until 13.01.2024 09:03:22
+		Duration:	02:19:21
+		Location:	NULL NULL
+
+(11) - 0.0 km Medals Chris
+	BCJOS1
+		Images:	604
+		Time:	12.01.2024 20:10:49 until 12.01.2024 21:56:05
+		Duration:	01:45:16
+		Location:	NULL NULL
+
+(12) - 0.0 km MSC  1Douglas
+	BDBRO1
+		Images:	3167
+		Time:	13.01.2024 06:52:55 until 13.01.2024 07:57:33
+		Duration:	01:04:38
+		Location:	NULL NULL
+
+(13) - 0.0 km MSC 1 Sean
+	ASHAW1
+		Images:	3227
+		Time:	13.01.2024 07:59:36 until 13.01.2024 08:57:26
+		Duration:	00:57:50
+		Location:	NULL NULL
+
+(14) - 0.0 km MSC 1 Sean trigger
+	ASHAW1LS1
+		Images:	999
+		Time:	02.10.2023 00:16:52 until 02.10.2023 00:50:46
+		Duration:	00:33:54
+		Location:	NULL NULL
+
+(15) - 0.0 km MSC 1 Trigger
+	AEDWA1LS1
+		Images:	665
+		Time:	13.01.2024 08:01:00 until 13.01.2024 08:23:34
+		Duration:	00:22:34
+		Location:	NULL NULL
+
+(16) - 0.0 km MSC 3 Michael
+	AMVAL1
+		Images:	1779
+		Time:	12.01.2024 06:59:21 until 12.01.2024 08:23:38
+		Duration:	01:24:17
+		Location:	NULL NULL
+
+(17) - 0.0 km MSC 4 Trigger
+	ALBAR1LS1
+		Images:	5701
+		Time:	15.11.2010 17:02:15 until 15.11.2010 19:47:41
+		Duration:	02:45:26
+		Location:	NULL NULL
+
+(18) - 0.0 km MSC4 Leo
+	ALBAR1
+		Images:	6743
+		Time:	13.01.2024 06:38:33 until 13.01.2024 08:48:21
+		Duration:	02:09:48
+		Location:	NULL NULL
+
+(19) - 0.0 km Pre Fin Abdo
+	BASHA1
+		Images:	11102
+		Time:	13.01.2024 08:32:17 until 13.01.2024 09:53:04
+		Duration:	01:20:47
+		Location:	NULL NULL
+
+(20) - 0.0 km Pre Fin Julio
+	AJMOR1
+		Images:	5250
+		Time:	13.01.2024 07:58:34 until 13.01.2024 09:46:05
+		Duration:	01:47:31
+		Location:	NULL NULL
+
+(21) - 0.0 km Pre Fin Trigge 1
+	APFT1
+		Images:	6007
+		Time:	13.01.2024 13:39:06 until 13.01.2024 15:56:10
+		Duration:	02:17:04
+		Location:	NULL NULL
+
+(22) - 0.0 km Pre Fin Trigger
+	BPFT1
+		Images:	5873
+		Time:	13.01.2024 08:59:41 until 13.01.2024 11:04:09
+		Duration:	02:04:28
+		Location:	NULL NULL
+
+(23) - 0.0 km Razmond
+	BRALD1
+		Images:	5066
+		Time:	13.01.2024 07:52:39 until 13.01.2024 09:39:15
+		Duration:	01:46:36
+		Location:	NULL NULL
+
+(24) - 0.0 km Tom
+	BTBOU1
+		Images:	2172
+		Time:	13.01.2024 07:09:42 until 13.01.2024 08:53:59
+		Duration:	01:44:17
+		Location:	NULL NULL
+
+(25) - Impressions / Pano
+	PANO1
+(26) - none
+	ATOBZ1
+		Images:	389
+		Time:	13.01.2024 05:28:20 until 13.01.2024 06:16:23
+		Duration:	00:48:03
+		Location:	NULL NULL
+
+	BMEGY1
+		Images:	1026
+		Time:	13.01.2024 07:47:50 until 13.01.2024 10:05:29
+		Duration:	02:17:39
+		Location:	NULL NULL
+
+	XGUSP1
+		Images:	346
+		Time:	31.12.2006 19:00:23 until 28.01.2024 05:15:56
+		Duration:	6236.10:15:33
+		Location:	NULL NULL
+
+	XPR1
+		Images:	1187
+		Time:	28.01.2024 04:22:57 until 28.01.2024 10:33:26
+		Duration:	06:10:29
+		Location:	NULL NULL
+

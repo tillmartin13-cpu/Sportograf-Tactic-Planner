@@ -1,0 +1,480 @@
+EventId: 12991
+Spots: 69
+Total Images: 508513
+Time:	01.01.0001 23:00:00 to 28.01.2024 17:27:01
+Duration: 738911.18:27:01
+
+(1) - 0.0 km Fin Left Full
+	SBKNN1
+		Images:	24796
+		Time:	28.01.2024 07:25:00 until 28.01.2024 12:11:02
+		Duration:	04:46:02
+		Location:	NULL NULL
+
+(2) - 0.0 km Fin Right Half
+	AJGBA1
+		Images:	13038
+		Time:	28.01.2024 05:02:25 until 28.01.2024 09:05:48
+		Duration:	04:03:23
+		Location:	NULL NULL
+
+(3) - 0.0 km Finish Jason
+	BJBUD1
+		Images:	9808
+		Time:	28.01.2024 08:58:12 until 28.01.2024 11:02:06
+		Duration:	02:03:54
+		Location:	NULL NULL
+
+(4) - 0.0 km Finish Toby
+	BTCHE1
+		Images:	26395
+		Time:	28.01.2024 04:53:59 until 28.01.2024 10:05:33
+		Duration:	05:11:34
+		Location:	NULL NULL
+
+(5) - 0.0 km Finish-Katherine
+	EKA1
+		Images:	2882
+		Time:	28.01.2024 06:10:40 until 28.01.2024 10:39:36
+		Duration:	04:28:56
+		Location:	NULL NULL
+
+(6) - 0.0 km Free Image 2nd attempt
+	BLOG1
+		Images:	20952
+		Time:	28.01.2024 05:33:29 until 28.01.2024 12:31:47
+		Duration:	06:58:18
+		Location:	NULL NULL
+
+(7) - 0.0 km Jaun Pre Fin FIn
+	BJORT2
+		Images:	4949
+		Time:	28.01.2024 06:57:15 until 28.01.2024 08:27:04
+		Duration:	01:29:49
+		Location:	NULL NULL
+
+(8) - 0.0 km Medals Alfred 857651
+	EABER1
+		Images:	2261
+		Time:	28.01.2024 04:06:16 until 28.01.2024 09:29:25
+		Duration:	05:23:09
+		Location:	NULL NULL
+
+(9) - 0.0 km Medals Andres Caro (need order number)
+	EACAR1
+		Images:	5347
+		Time:	28.01.2024 06:29:58 until 28.01.2024 11:47:43
+		Duration:	05:17:45
+		Location:	NULL NULL
+
+(10) - 0.0 km Medals Claude 857648
+	ECBIR1
+		Images:	11360
+		Time:	28.01.2024 03:58:38 until 28.01.2024 12:13:17
+		Duration:	08:14:39
+		Location:	NULL NULL
+
+(11) - 0.0 km Medals Johnny Burbano
+	EJBU1
+		Images:	1618
+		Time:	28.01.2024 07:03:46 until 28.01.2024 09:58:54
+		Duration:	02:55:08
+		Location:	NULL NULL
+
+(12) - 0.0 km medals Jose P 8578650
+	EJPER1
+		Images:	1482
+		Time:	28.01.2024 07:25:52 until 28.01.2024 12:00:49
+		Duration:	04:34:57
+		Location:	NULL NULL
+
+(13) - 0.0 km Medals Pedro 857654
+	EPCOR1
+		Images:	1808
+		Time:	28.01.2024 06:06:26 until 28.01.2024 10:42:24
+		Duration:	04:35:58
+		Location:	NULL NULL
+
+(14) - 0.0 km MSC 1 Juan 857610
+	BJORT1
+		Images:	4339
+		Time:	28.01.2024 04:43:49 until 28.01.2024 06:13:51
+		Duration:	01:30:02
+		Location:	NULL NULL
+
+(15) - 0.0 km MSC 1 Silvio 857609
+	ASCAM2
+		Images:	2584
+		Time:	28.01.2024 05:57:41 until 28.01.2024 07:11:05
+		Duration:	01:13:24
+		Location:	NULL NULL
+
+(16) - 0.0 km MSC 1 Toby857607
+	OTCHE1
+		Images:	8940
+		Time:	28.01.2024 02:55:35 until 28.01.2024 04:13:08
+		Duration:	01:17:33
+		Location:	NULL NULL
+
+(17) - 0.0 km MSC 10 Alquiles 858636
+	EAMER1
+		Images:	2544
+		Time:	28.01.2024 10:45:26 until 28.01.2024 13:29:47
+		Duration:	02:44:21
+		Location:	NULL NULL
+
+(18) - 0.0 km MSC 10 JP
+	BJPE1
+		Images:	3402
+		Time:	28.01.2024 14:31:21 until 28.01.2024 17:27:01
+		Duration:	02:55:40
+		Location:	NULL NULL
+
+(19) - 0.0 km MSC 10 Randy 858638
+	ARAND1
+		Images:	3877
+		Time:	28.01.2024 09:52:50 until 28.01.2024 12:30:52
+		Duration:	02:38:02
+		Location:	NULL NULL
+
+(20) - 0.0 km MSC 10 Trent 858635
+	OTWEL1
+		Images:	5038
+		Time:	28.01.2024 09:55:58 until 28.01.2024 12:30:56
+		Duration:	02:34:58
+		Location:	NULL NULL
+
+(21) - 0.0 km MSC 2 Andres Me 857612
+	AMEND1
+		Images:	5022
+		Time:	28.01.2024 05:04:58 until 28.01.2024 06:40:43
+		Duration:	01:35:45
+		Location:	NULL NULL
+
+(22) - 0.0 km MSC 2 Sergio
+	BSORT1
+		Images:	2830
+		Time:	28.01.2024 05:07:21 until 28.01.2024 06:49:08
+		Duration:	01:41:47
+		Location:	NULL NULL
+
+(23) - 0.0 km MSC 2 Trigger 857614
+	ATTTT1
+		Images:	5309
+		Time:	28.01.2024 05:05:36 until 28.01.2024 06:51:12
+		Duration:	01:45:36
+		Location:	NULL NULL
+
+(24) - 0.0 km MSC 3 Andrew 857616
+	AAMI1
+		Images:	6860
+		Time:	28.01.2024 05:31:03 until 28.01.2024 06:39:16
+		Duration:	01:08:13
+		Location:	NULL NULL
+
+(25) - 0.0 km MSC 3 BoB 857615
+	EBMAR1
+		Images:	6283
+		Time:	28.01.2024 05:33:29 until 28.01.2024 09:40:27
+		Duration:	04:06:58
+		Location:	NULL NULL
+
+(26) - 0.0 km MSC 3 Bronson 857617
+	ABHAR1
+		Images:	4760
+		Time:	28.01.2024 05:24:53 until 28.01.2024 10:56:00
+		Duration:	05:31:07
+		Location:	NULL NULL
+
+(27) - 0.0 km MSC 3 Trigger 857618
+	OBHAR1LS1
+		Images:	2653
+		Time:	31.12.2006 19:00:00 until 31.12.2006 20:22:50
+		Duration:	01:22:50
+		Location:	NULL NULL
+
+(28) - 0.0 km MSC 4 Randy 857620
+	RRAND1
+		Images:	5770
+		Time:	28.01.2024 05:34:46 until 28.01.2024 08:45:41
+		Duration:	03:10:55
+		Location:	NULL NULL
+
+(29) - 0.0 km MSC 4 Trigger 857621
+	OJPED1LS1
+		Images:	2906
+		Time:	28.01.2024 02:32:00 until 28.01.2024 05:41:14
+		Duration:	03:09:14
+		Location:	NULL NULL
+
+(30) - 0.0 km MSC 5 Gabrial 857623
+	BGDIA1
+		Images:	11383
+		Time:	28.01.2024 05:48:30 until 28.01.2024 08:07:55
+		Duration:	02:19:25
+		Location:	NULL NULL
+
+(31) - 0.0 km MSC 5 Gabriel 2nd
+	OGDIA1
+		Images:	12876
+		Time:	28.01.2024 05:48:30 until 28.01.2024 09:15:09
+		Duration:	03:26:39
+		Location:	NULL NULL
+
+(32) - 0.0 km MSC 5 Liu 857624
+	ELIA1
+		Images:	6372
+		Time:	28.01.2024 06:49:55 until 28.01.2024 10:18:46
+		Duration:	03:28:51
+		Location:	NULL NULL
+
+(33) - 0.0 km MSC 5 Trigger 857625
+	OGDTR1
+		Images:	9657
+		Time:	28.01.2024 03:36:09 until 28.01.2024 07:08:22
+		Duration:	03:32:13
+		Location:	NULL NULL
+
+(34) - 0.0 km MSC 6 Silvio 857628
+	ASCAM1
+		Images:	4447
+		Time:	28.01.2024 07:43:56 until 28.01.2024 10:33:10
+		Duration:	02:49:14
+		Location:	NULL NULL
+
+(35) - 0.0 km MSC 6 Trigger 857629
+	ASCAM1LS1
+		Images:	8907
+		Time:	28.01.2024 06:48:17 until 28.01.2024 09:21:43
+		Duration:	02:33:26
+		Location:	NULL NULL
+
+(36) - 0.0 km MSC 6 Wyman 857627
+	BWJON1
+		Images:	5982
+		Time:	28.01.2024 06:51:08 until 28.01.2024 09:29:51
+		Duration:	02:38:43
+		Location:	NULL NULL
+
+(37) - 0.0 km MSC 7 Aquiles 857632
+	BAMER1
+		Images:	11866
+		Time:	28.01.2024 06:28:00 until 28.01.2024 10:03:06
+		Duration:	03:35:06
+		Location:	NULL NULL
+
+(38) - 0.0 km MSC 7 Trent 857631
+	OTWEL2
+		Images:	11928
+		Time:	27.01.2024 07:35:38 until 28.01.2024 08:48:26
+		Duration:	1.01:12:48
+		Location:	NULL NULL
+
+(39) - 0.0 km MSC 7 Trigger 857633
+	EGHAN1
+		Images:	8770
+		Time:	28.01.2024 06:47:23 until 28.01.2024 09:58:37
+		Duration:	03:11:14
+		Location:	NULL NULL
+
+(40) - 0.0 km MSC 8 Andres 857637
+	OAMEN1
+		Images:	7974
+		Time:	28.01.2024 07:09:29 until 28.01.2024 11:52:53
+		Duration:	04:43:24
+		Location:	NULL NULL
+
+(41) - 0.0 km MSC 8 Sergio
+	ASORT1
+		Images:	5908
+		Time:	28.01.2024 07:22:21 until 28.01.2024 11:58:20
+		Duration:	04:35:59
+		Location:	NULL NULL
+
+(42) - 0.0 km MSC 8 Terry 857635
+	ETWER1
+		Images:	15345
+		Time:	01.01.0001 23:00:00 until 28.01.2024 11:56:04
+		Duration:	738911.12:56:04
+		Location:	NULL NULL
+
+(43) - 0.0 km MSC 8 Trigger 857638
+	ASORT1LS1
+		Images:	15245
+		Time:	31.03.2007 03:16:59 until 31.03.2007 08:15:29
+		Duration:	04:58:30
+		Location:	NULL NULL
+
+(44) - 0.0 km MSC 9 Andrew 857600
+	AAMI2
+		Images:	16375
+		Time:	13.01.2024 05:28:20 until 28.01.2024 11:05:38
+		Duration:	15.05:37:18
+		Location:	NULL NULL
+
+(45) - 0.0 km MSC 9 Bob 858299
+	EBMAR2
+		Images:	1702
+		Time:	28.01.2024 09:43:28 until 28.01.2024 11:27:16
+		Duration:	01:43:48
+		Location:	NULL NULL
+
+(46) - 0.0 km MSC JP 857619
+	OJPED1
+		Images:	3492
+		Time:	28.01.2024 10:48:30 until 28.01.2024 13:39:34
+		Duration:	02:51:04
+		Location:	NULL NULL
+
+(47) - 0.0 km MSC1 Wyman 857608
+	AWYON1
+		Images:	3907
+		Time:	28.01.2024 04:42:31 until 28.01.2024 06:13:47
+		Duration:	01:31:16
+		Location:	NULL NULL
+
+(48) - 0.0 km MSC2 David 857612
+	ODAEL1
+		Images:	3770
+		Time:	28.01.2024 05:09:08 until 28.01.2024 06:36:36
+		Duration:	01:27:28
+		Location:	NULL NULL
+
+(49) - 0.0 km MSC9 Bronson 858601
+	OBHAR1
+		Images:	2983
+		Time:	28.01.2024 05:34:17 until 28.01.2024 06:51:55
+		Duration:	01:17:38
+		Location:	NULL NULL
+
+(50) - 0.0 km OFP David Hart 857655
+	EDHAR1
+		Images:	638
+		Time:	28.01.2024 06:05:59 until 28.01.2024 09:45:06
+		Duration:	03:39:07
+		Location:	NULL NULL
+
+(51) - 0.0 km OFP Gabyson Cadestin
+	EGABY1
+		Images:	726
+		Time:	28.01.2024 07:19:08 until 28.01.2024 10:29:23
+		Duration:	03:10:15
+		Location:	NULL NULL
+
+(52) - 0.0 km ofp Manny 857649
+	EMPAR1
+		Images:	316
+		Time:	05.01.2014 07:59:07 until 05.01.2014 10:46:14
+		Duration:	02:47:07
+		Location:	NULL NULL
+
+(53) - 0.0 km OFP Stephen 857653
+	ESCAN1
+		Images:	439
+		Time:	28.01.2024 08:00:52 until 28.01.2024 12:05:22
+		Duration:	04:04:30
+		Location:	NULL NULL
+
+(54) - 0.0 km PR-Gus Gargallo 857605
+	EGGAR1
+		Images:	344
+		Time:	28.01.2024 04:14:10 until 28.01.2024 05:15:56
+		Duration:	01:01:46
+		Location:	NULL NULL
+
+(55) - 0.0 km PR-Jason Budd 857606
+	EJBUD1
+		Images:	457
+		Time:	28.01.2024 04:11:43 until 28.01.2024 13:20:53
+		Duration:	09:09:10
+		Location:	NULL NULL
+
+(56) - 0.0 km Pre Fin David 857642
+	BDADE1
+		Images:	8665
+		Time:	28.01.2024 07:26:53 until 28.01.2024 09:23:59
+		Duration:	01:57:06
+		Location:	NULL NULL
+
+(57) - 0.0 km Pre Fin Donald
+	ADED1
+		Images:	20008
+		Time:	28.01.2024 05:50:48 until 28.01.2024 12:11:53
+		Duration:	06:21:05
+		Location:	NULL NULL
+
+(58) - 0.0 km Pre FIn Full
+	OBKTT1
+		Images:	12963
+		Time:	28.01.2024 05:33:25 until 28.01.2024 11:38:31
+		Duration:	06:05:06
+		Location:	NULL NULL
+
+(59) - 0.0 km Pre Fin Ground
+	ASGTT1
+		Images:	14615
+		Time:	28.01.2024 07:02:43 until 28.01.2024 12:59:56
+		Duration:	05:57:13
+		Location:	NULL NULL
+
+(60) - 0.0 km Pre Fin Trigg
+	BKAF1
+		Images:	13737
+		Time:	28.01.2024 05:10:26 until 28.01.2024 11:34:41
+		Duration:	06:24:15
+		Location:	NULL NULL
+
+(61) - 0.0 km PreFIn Gus 857639
+	OGGAR1
+		Images:	22256
+		Time:	28.01.2024 05:51:10 until 28.01.2024 13:12:23
+		Duration:	07:21:13
+		Location:	NULL NULL
+
+(62) - 0.0 km PreFIN Juan Ortega 857641
+	EORTE1
+		Images:	3672
+		Time:	28.01.2024 08:31:26 until 28.01.2024 12:30:20
+		Duration:	03:58:54
+		Location:	NULL NULL
+
+(63) - 0.0 km Trigger Free
+	ETRIG1
+		Images:	18414
+		Time:	28.01.2024 05:33:29 until 28.01.2024 12:31:47
+		Duration:	06:58:18
+		Location:	NULL NULL
+
+(64) - Impressions / Pano
+	PANO1
+(65) - none
+	BDADE2
+		Images:	4763
+		Time:	28.01.2024 09:26:46 until 28.01.2024 10:59:40
+		Duration:	01:32:54
+		Location:	NULL NULL
+
+	BJBUD2
+		Images:	13345
+		Time:	28.01.2024 06:26:54 until 28.01.2024 08:54:23
+		Duration:	02:27:29
+		Location:	NULL NULL
+
+	BJBUD3
+		Images:	2920
+		Time:	13.01.2024 07:47:50 until 28.01.2024 13:17:35
+		Duration:	15.05:29:45
+		Location:	NULL NULL
+
+	XGUSP1
+		Images:	346
+		Time:	31.12.2006 19:00:23 until 28.01.2024 05:15:56
+		Duration:	6236.10:15:33
+		Location:	NULL NULL
+
+	XPR1
+		Images:	1187
+		Time:	28.01.2024 04:22:57 until 28.01.2024 10:33:26
+		Duration:	06:10:29
+		Location:	NULL NULL
+

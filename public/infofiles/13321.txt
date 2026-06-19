@@ -1,0 +1,120 @@
+EventId: 13321
+Spots: 17
+Total Images: 180212
+Time:	05.10.2024 06:13:43 to 05.10.2024 16:50:03
+Duration: 10:36:20
+
+(1) - 0.0 km 856441 PreFIN Antonio Cadena
+	ANTON1
+		Images:	13270
+		Time:	05.10.2024 08:02:53 until 05.10.2024 13:28:03
+		Duration:	05:25:10
+		Location:	NULL NULL
+
+(2) - 0.0 km 856452 MSC 1 Jacie Alabay
+	JACIE1
+		Images:	7231
+		Time:	05.10.2024 07:06:53 until 05.10.2024 12:02:27
+		Duration:	04:55:34
+		Location:	NULL NULL
+
+(3) - 0.0 km 856453 MSC 1 BOSTON HIGLEY
+	BOSTO1
+		Images:	12478
+		Time:	05.10.2024 07:11:20 until 05.10.2024 10:28:06
+		Duration:	03:16:46
+		Location:	NULL NULL
+
+(4) - 0.0 km 856455 MSC 2 Chantel Dewar
+	CHANT1
+		Images:	5483
+		Time:	05.10.2024 07:11:34 until 05.10.2024 10:59:35
+		Duration:	03:48:01
+		Location:	NULL NULL
+
+(5) - 0.0 km 856457 MSC 3 Desmond Tan
+	DESM1
+		Images:	27488
+		Time:	05.10.2024 07:40:43 until 05.10.2024 13:10:49
+		Duration:	05:30:06
+		Location:	NULL NULL
+
+(6) - 0.0 km 856458 MSC 3 trigger
+	AUTO4
+		Images:	14283
+		Time:	05.10.2024 07:51:51 until 05.10.2024 12:16:31
+		Duration:	04:24:40
+		Location:	NULL NULL
+
+(7) - 0.0 km 856459 MSC 4 Tosh Monday
+	TOSH1
+		Images:	5452
+		Time:	05.10.2024 06:52:24 until 05.10.2024 12:07:44
+		Duration:	05:15:20
+		Location:	NULL NULL
+
+(8) - 0.0 km 856460 MSC 5 Chris Caldwell
+	CHRIS1
+		Images:	9034
+		Time:	05.10.2024 07:26:00 until 05.10.2024 09:10:57
+		Duration:	01:44:57
+		Location:	NULL NULL
+
+(9) - 0.0 km 862185 MSC 4 Trigger
+	AUTO3
+		Images:	18385
+		Time:	05.10.2024 09:56:07 until 05.10.2024 15:14:35
+		Duration:	05:18:28
+		Location:	NULL NULL
+
+(10) - 0.0 km FIN Boston HIGLEY
+	BOSTO2
+		Images:	3954
+		Time:	05.10.2024 11:11:48 until 05.10.2024 14:42:25
+		Duration:	03:30:37
+		Location:	NULL NULL
+
+(11) - 0.0 km FIN Toby
+	TOBY1
+		Images:	9095
+		Time:	05.10.2024 09:57:12 until 05.10.2024 15:32:26
+		Duration:	05:35:14
+		Location:	NULL NULL
+
+(12) - 0.0 km FIN TRIGGER
+	AUTO2
+		Images:	18627
+		Time:	05.10.2024 08:30:52 until 05.10.2024 14:41:20
+		Duration:	06:10:28
+		Location:	NULL NULL
+
+(13) - 0.0 km medals whitney
+	WHIT1
+		Images:	1112
+		Time:	05.10.2024 06:13:43 until 05.10.2024 11:59:19
+		Duration:	05:45:36
+		Location:	NULL NULL
+
+(14) - 0.0 km PreFIN Jacie Alabay
+	JACIE2
+		Images:	3052
+		Time:	05.10.2024 11:37:07 until 05.10.2024 13:44:28
+		Duration:	02:07:21
+		Location:	NULL NULL
+
+(15) - 0.0 km prefin trigger
+	AUTO1
+		Images:	24242
+		Time:	05.10.2024 09:47:48 until 05.10.2024 16:50:03
+		Duration:	07:02:15
+		Location:	NULL NULL
+
+(16) - Impressions / Pano
+	PANO1
+(17) - none
+	JOSH1
+		Images:	7026
+		Time:	05.10.2024 08:01:55 until 05.10.2024 14:41:14
+		Duration:	06:39:19
+		Location:	NULL NULL
+

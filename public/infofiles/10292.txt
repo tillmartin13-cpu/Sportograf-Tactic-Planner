@@ -1,0 +1,206 @@
+EventId: 10292
+Spots: 34
+Total Images: 200663
+Time:	31.12.2006 19:00:00 to 08.05.2023 01:50:53
+Duration: 5971.06:50:53
+
+(1) - 0.0 km alexander medals
+	AF1
+		Images:	1013
+		Time:	07.05.2023 09:37:38 until 07.05.2023 14:45:19
+		Duration:	05:07:41
+		Location:	NULL NULL
+
+(2) - 0.0 km Joe  Taylor medals
+	JT1
+		Images:	743
+		Time:	07.05.2023 07:20:31 until 07.05.2023 11:07:56
+		Duration:	03:47:25
+		Location:	NULL NULL
+
+(3) - 0.0 km Pre Finish trigger rain
+	TD1LS1
+		Images:	3527
+		Time:	07.05.2023 16:48:15 until 07.05.2023 17:48:10
+		Duration:	00:59:55
+		Location:	NULL NULL
+
+(4) - 0.0 km Ziel Trigger Regen
+	AC1LS1
+		Images:	3322
+		Time:	07.05.2023 13:12:28 until 07.05.2023 14:43:20
+		Duration:	01:30:52
+		Location:	NULL NULL
+
+(5) - Impressions / Pano
+	PANO1
+(6) - none
+	AA1
+		Images:	1557
+		Time:	07.05.2023 07:45:02 until 07.05.2023 12:20:53
+		Duration:	04:35:51
+		Location:	NULL NULL
+
+	AC1
+		Images:	11352
+		Time:	07.05.2023 07:13:02 until 07.05.2023 13:04:07
+		Duration:	05:51:05
+		Location:	NULL NULL
+
+	AC1LS2
+		Images:	9743
+		Time:	07.05.2023 14:44:13 until 07.05.2023 18:02:40
+		Duration:	03:18:27
+		Location:	NULL NULL
+
+	AL1
+		Images:	625
+		Time:	07.05.2023 07:46:40 until 07.05.2023 12:56:02
+		Duration:	05:09:22
+		Location:	NULL NULL
+
+	BJ1
+		Images:	8417
+		Time:	07.05.2023 07:19:08 until 07.05.2023 12:04:19
+		Duration:	04:45:11
+		Location:	NULL NULL
+
+	BK1
+		Images:	4373
+		Time:	07.05.2023 08:51:46 until 07.05.2023 11:03:27
+		Duration:	02:11:41
+		Location:	NULL NULL
+
+	BS1
+		Images:	3013
+		Time:	07.05.2023 08:27:01 until 07.05.2023 10:46:41
+		Duration:	02:19:40
+		Location:	NULL NULL
+
+	DG1
+		Images:	12158
+		Time:	07.05.2023 07:15:55 until 07.05.2023 12:51:45
+		Duration:	05:35:50
+		Location:	NULL NULL
+
+	DR1
+		Images:	19256
+		Time:	07.05.2023 07:44:36 until 07.05.2023 12:52:26
+		Duration:	05:07:50
+		Location:	NULL NULL
+
+	DT1
+		Images:	9648
+		Time:	07.05.2023 08:45:02 until 07.05.2023 13:48:03
+		Duration:	05:03:01
+		Location:	NULL NULL
+
+	DW1
+		Images:	5693
+		Time:	07.05.2023 20:43:07 until 07.05.2023 22:26:00
+		Duration:	01:42:53
+		Location:	NULL NULL
+
+	DW2
+		Images:	2047
+		Time:	07.05.2023 23:40:04 until 08.05.2023 01:50:53
+		Duration:	02:10:49
+		Location:	NULL NULL
+
+	ES1
+		Images:	9985
+		Time:	07.05.2023 07:42:14 until 07.05.2023 12:54:25
+		Duration:	05:12:11
+		Location:	NULL NULL
+
+	FR1
+		Images:	4164
+		Time:	07.05.2023 08:45:07 until 07.05.2023 10:27:25
+		Duration:	01:42:18
+		Location:	NULL NULL
+
+	FR2
+		Images:	1214
+		Time:	07.05.2023 12:27:50 until 07.05.2023 13:52:28
+		Duration:	01:24:38
+		Location:	NULL NULL
+
+	GV1
+		Images:	725
+		Time:	06.05.2023 18:33:11 until 06.05.2023 23:44:12
+		Duration:	05:11:01
+		Location:	NULL NULL
+
+	IR1
+		Images:	14367
+		Time:	07.05.2023 07:59:05 until 07.05.2023 13:04:22
+		Duration:	05:05:17
+		Location:	NULL NULL
+
+	JS1
+		Images:	4423
+		Time:	07.05.2023 07:47:39 until 07.05.2023 08:58:54
+		Duration:	01:11:15
+		Location:	NULL NULL
+
+	JS2
+		Images:	6715
+		Time:	07.05.2023 10:18:58 until 07.05.2023 12:54:57
+		Duration:	02:35:59
+		Location:	NULL NULL
+
+	KL1
+		Images:	2698
+		Time:	07.05.2023 06:32:31 until 07.05.2023 13:43:24
+		Duration:	07:10:53
+		Location:	NULL NULL
+
+	PF1
+		Images:	5640
+		Time:	31.12.2006 19:00:00 until 06.02.2012 08:20:48
+		Duration:	1862.13:20:48
+		Location:	NULL NULL
+
+	RD1
+		Images:	1324
+		Time:	07.05.2023 07:36:37 until 07.05.2023 08:51:34
+		Duration:	01:14:57
+		Location:	NULL NULL
+
+	RD2
+		Images:	3250
+		Time:	07.05.2023 10:02:58 until 07.05.2023 12:48:56
+		Duration:	02:45:58
+		Location:	NULL NULL
+
+	RT1
+		Images:	3206
+		Time:	07.05.2023 06:35:41 until 07.05.2023 12:25:13
+		Duration:	05:49:32
+		Location:	NULL NULL
+
+	SG1
+		Images:	9146
+		Time:	07.05.2023 17:58:42 until 07.05.2023 21:04:01
+		Duration:	03:05:19
+		Location:	NULL NULL
+
+	TD1
+	VR1
+		Images:	17591
+		Time:	07.05.2023 08:42:58 until 07.05.2023 13:46:52
+		Duration:	05:03:54
+		Location:	NULL NULL
+
+	WS1
+		Images:	11389
+		Time:	07.05.2023 09:00:15 until 07.05.2023 11:36:34
+		Duration:	02:36:19
+		Location:	NULL NULL
+
+	WS1LS1
+		Images:	8339
+		Time:	07.05.2023 08:15:37 until 07.05.2023 11:23:10
+		Duration:	03:07:33
+		Location:	NULL NULL
+

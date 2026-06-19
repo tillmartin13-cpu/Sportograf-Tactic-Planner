@@ -1,0 +1,373 @@
+EventId: 12625
+Spots: 103
+Total Images: 13779916
+Time:	01.01.0001 23:00:00 to 19.02.2024 07:17:25
+Duration: 738933.08:17:25
+
+(1) - Bang Saen Royal Beach
+	XRUN5
+(2) - Bike - 0,0 km
+	CHAY1
+	OCH2
+	OCH2LS1
+	VMM1
+(3) - Bike - 0.0 km
+	ARM3
+		Images:	448588
+		Time:	18.02.2024 14:08:45 until 18.02.2024 14:18:08
+		Duration:	00:09:23
+		Location:	NULL NULL
+
+	JEFF3
+		Images:	96089
+		Time:	18.02.2024 14:58:59 until 18.02.2024 15:02:29
+		Duration:	00:03:30
+		Location:	NULL NULL
+
+	JOB3
+		Images:	601657
+		Time:	18.02.2024 14:15:11 until 18.02.2024 14:22:03
+		Duration:	00:06:52
+		Location:	NULL NULL
+
+	KOB3
+		Images:	276353
+		Time:	18.02.2024 03:53:57 until 18.02.2024 12:40:18
+		Duration:	08:46:21
+		Location:	NULL NULL
+
+	MYY4
+		Images:	31080
+		Time:	18.02.2024 06:54:08 until 18.02.2024 07:04:14
+		Duration:	00:10:06
+		Location:	NULL NULL
+
+	NON3
+		Images:	514633
+		Time:	18.02.2024 06:15:07 until 18.02.2024 08:53:09
+		Duration:	02:38:02
+		Location:	NULL NULL
+
+	PEEM5
+		Images:	90909
+		Time:	18.02.2024 06:43:23 until 18.02.2024 07:05:33
+		Duration:	00:22:10
+		Location:	NULL NULL
+
+	PIC2
+		Images:	144004
+		Time:	18.02.2024 15:11:19 until 18.02.2024 15:19:13
+		Duration:	00:07:54
+		Location:	NULL NULL
+
+	TUNG2
+		Images:	420875
+		Time:	18.02.2024 07:18:12 until 18.02.2024 09:53:27
+		Duration:	02:35:15
+		Location:	NULL NULL
+
+	UNF2
+		Images:	765604
+		Time:	18.02.2024 16:05:18 until 18.02.2024 17:09:01
+		Duration:	01:03:43
+		Location:	NULL NULL
+
+(4) - Bike - Transition zone
+	AEK4
+	ARM2
+		Images:	59052
+		Time:	18.02.2024 13:54:48 until 18.02.2024 13:56:51
+		Duration:	00:02:03
+		Location:	NULL NULL
+
+	JEFF2
+		Images:	4662
+		Time:	18.02.2024 14:58:49 until 18.02.2024 14:58:58
+		Duration:	00:00:09
+		Location:	NULL NULL
+
+	JMAO3
+	JOB1
+		Images:	55426
+		Time:	18.02.2024 14:14:54 until 18.02.2024 14:15:11
+		Duration:	00:00:17
+		Location:	NULL NULL
+
+	LMD2
+		Images:	181818
+		Time:	18.02.2024 05:51:56 until 18.02.2024 06:54:49
+		Duration:	01:02:53
+		Location:	NULL NULL
+
+	MYY3
+		Images:	106449
+		Time:	18.02.2024 06:32:32 until 18.02.2024 14:02:35
+		Duration:	07:30:03
+		Location:	NULL NULL
+
+	PEEM4
+		Images:	142450
+		Time:	18.02.2024 05:58:42 until 18.02.2024 06:42:59
+		Duration:	00:44:17
+		Location:	NULL NULL
+
+	XSWIM3
+	YONG2
+		Images:	86172
+		Time:	18.02.2024 06:47:40 until 18.02.2024 07:41:40
+		Duration:	00:54:00
+		Location:	NULL NULL
+
+(5) - Bike - Transition zone Bang Saen Heritage Hotel
+	XBIKE6
+(6) - Bike Ban Bang Phra
+	XBIKE4
+(7) - Bike Drink Station
+	XBIKE2
+(8) - Bike Khao Lai-Khao Mai Daeng Rd
+	XBIKE5
+(9) - Bike Mixed
+	XBIKE1
+(10) - Ceremony
+	VMM3
+(11) - Finish
+	DCL4
+	GIN3
+	GIN4
+	OCH3
+	PCT4
+	PCT4LS1
+	PCT4LS2
+	VMM2
+	XRUN11
+	XRUN4
+	XRUN8
+	XRUN9
+	YONG4
+		Images:	1150680
+		Time:	01.01.2000 06:00:02 until 18.02.2024 14:28:59
+		Duration:	8814.08:28:57
+		Location:	NULL NULL
+
+(12) - Herotent
+	NON4
+		Images:	108521
+		Time:	18.02.2024 11:34:45 until 18.02.2024 13:17:18
+		Duration:	01:42:33
+		Location:	NULL NULL
+
+(13) - Imps before the event
+	XMISC1
+(14) - Run - 0,0 km
+	AEK5
+	CHAY2
+	JMAO4
+	JMAO4LS1
+(15) - Run - 0.0 km
+	ARM4
+		Images:	370111
+		Time:	18.02.2024 14:22:21 until 18.02.2024 14:31:06
+		Duration:	00:08:45
+		Location:	NULL NULL
+
+	JEFF4
+		Images:	55426
+		Time:	18.02.2024 14:59:46 until 18.02.2024 15:04:18
+		Duration:	00:04:32
+		Location:	NULL NULL
+
+	JOB2
+		Images:	136752
+		Time:	18.02.2024 14:20:31 until 18.02.2024 14:22:03
+		Duration:	00:01:32
+		Location:	NULL NULL
+
+	KOB2
+		Images:	377104
+		Time:	18.02.2024 11:26:43 until 18.02.2024 13:13:22
+		Duration:	01:46:39
+		Location:	NULL NULL
+
+	LMD3
+		Images:	2163427
+		Time:	18.02.2024 06:35:47 until 18.02.2024 14:40:30
+		Duration:	08:04:43
+		Location:	NULL NULL
+
+	MYY5
+		Images:	328671
+		Time:	01.01.0001 23:00:00 until 18.02.2024 14:02:40
+		Duration:	738932.15:02:40
+		Location:	NULL NULL
+
+	PEEM6
+		Images:	1492099
+		Time:	18.02.2024 09:03:49 until 18.02.2024 11:53:35
+		Duration:	02:49:46
+		Location:	NULL NULL
+
+	PIC3
+		Images:	86506
+		Time:	18.02.2024 16:17:28 until 18.02.2024 16:23:11
+		Duration:	00:05:43
+		Location:	NULL NULL
+
+	TUNG3
+		Images:	635845
+		Time:	18.02.2024 11:18:23 until 18.02.2024 13:06:04
+		Duration:	01:47:41
+		Location:	NULL NULL
+
+	UNF3
+		Images:	328930
+		Time:	18.02.2024 16:10:34 until 18.02.2024 16:33:28
+		Duration:	00:22:54
+		Location:	NULL NULL
+
+(16) - Run - Transition zone
+	XRUN7
+	YONG3
+		Images:	89526
+		Time:	18.02.2024 08:01:27 until 18.02.2024 09:00:05
+		Duration:	00:58:38
+		Location:	NULL NULL
+
+(17) - Run Bang Saen Beach
+	XRUN6
+(18) - Run Drink Station
+	XRUN2
+(19) - Run Khao Sam Muk
+	XRUN3
+(20) - Run Mixed
+	XRUN1
+	XRUN10
+(21) - Swim - Impressions / Pano
+	AEK1
+	AEK3
+	DCL1
+	GIN1
+	JEFF1
+		Images:	8029
+		Time:	18.02.2024 14:58:33 until 18.02.2024 14:59:32
+		Duration:	00:00:59
+		Location:	NULL NULL
+
+	JMAO1
+	KOB1
+		Images:	20202
+		Time:	18.02.2024 04:04:22 until 18.02.2024 06:44:59
+		Duration:	02:40:37
+		Location:	NULL NULL
+
+	LMD1
+		Images:	31857
+		Time:	18.02.2024 04:48:26 until 18.02.2024 05:46:48
+		Duration:	00:58:22
+		Location:	NULL NULL
+
+	MYY1
+		Images:	3367
+		Time:	18.02.2024 05:28:40 until 18.02.2024 14:02:31
+		Duration:	08:33:51
+		Location:	NULL NULL
+
+	NICE1
+		Images:	37037
+		Time:	18.02.2024 17:23:55 until 18.02.2024 17:28:51
+		Duration:	00:04:56
+		Location:	NULL NULL
+
+	NON1
+		Images:	38073
+		Time:	18.02.2024 03:52:46 until 18.02.2024 05:40:59
+		Duration:	01:48:13
+		Location:	NULL NULL
+
+	OCH1
+	PANO1
+		Images:	259
+		Time:	19.02.2024 07:17:25 until 19.02.2024 07:17:25
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+	PEEM1
+		Images:	4403
+		Time:	18.02.2024 05:12:22 until 18.02.2024 05:18:39
+		Duration:	00:06:17
+		Location:	NULL NULL
+
+	TUNG1
+		Images:	33929
+		Time:	18.02.2024 04:26:19 until 18.02.2024 05:36:37
+		Duration:	01:10:18
+		Location:	NULL NULL
+
+(22) - Swim - Start
+	AEK2
+	DCL2
+	GIN2
+	JMAO2
+	NON2
+		Images:	12432
+		Time:	18.02.2024 05:24:43 until 18.02.2024 05:36:04
+		Duration:	00:11:21
+		Location:	NULL NULL
+
+	PCT2
+	PEEM2
+		Images:	187775
+		Time:	18.02.2024 05:24:59 until 18.02.2024 05:52:44
+		Duration:	00:27:45
+		Location:	NULL NULL
+
+	PIC1
+		Images:	166019
+		Time:	18.02.2024 13:39:00 until 18.02.2024 13:45:28
+		Duration:	00:06:28
+		Location:	NULL NULL
+
+	XBIKE3
+	XSWIM1
+(23) - Swim - Transition zone
+	ARM1
+		Images:	21238
+		Time:	18.02.2024 13:54:09 until 18.02.2024 13:54:48
+		Duration:	00:00:39
+		Location:	NULL NULL
+
+	DCL3
+	MYY2
+		Images:	269878
+		Time:	01.01.0001 23:00:00 until 18.02.2024 14:02:32
+		Duration:	738932.15:02:32
+		Location:	NULL NULL
+
+	NICE2
+		Images:	183372
+		Time:	18.02.2024 17:23:58 until 18.02.2024 17:28:31
+		Duration:	00:04:33
+		Location:	NULL NULL
+
+	PCT1
+	PCT3
+	PEEM3
+		Images:	5957
+		Time:	18.02.2024 05:53:40 until 18.02.2024 05:56:52
+		Duration:	00:03:12
+		Location:	NULL NULL
+
+	UNF1
+		Images:	656565
+		Time:	18.02.2024 16:30:32 until 18.02.2024 17:17:10
+		Duration:	00:46:38
+		Location:	NULL NULL
+
+	XSWIM4
+	YONG1
+		Images:	750105
+		Time:	18.02.2024 05:20:49 until 18.02.2024 06:40:59
+		Duration:	01:20:10
+		Location:	NULL NULL
+
+(24) - Swim - Transition zone Swim out
+	XSWIM2

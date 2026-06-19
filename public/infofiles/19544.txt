@@ -1,0 +1,57 @@
+EventId: 19544
+Spots: 8
+Total Images: 35083
+Time:	27.04.2025 05:54:39 to 27.04.2025 12:42:57
+Duration: 06:48:18
+
+(1) - 0.0 km 861144 Kyle Brown MSC1
+	XKBA1
+		Images:	2504
+		Time:	27.04.2025 06:33:18 until 27.04.2025 06:56:03
+		Duration:	00:22:45
+		Location:	NULL NULL
+
+(2) - 0.0 km 861147 Paul Sisk MSC2
+	XPSIS1
+		Images:	574
+		Time:	27.04.2025 07:19:19 until 27.04.2025 07:22:57
+		Duration:	00:03:38
+		Location:	NULL NULL
+
+(3) - 0.0 km 861155 Ryan Williams MSC5
+	XRWIL1
+		Images:	10650
+		Time:	27.04.2025 06:23:25 until 27.04.2025 10:05:41
+		Duration:	03:42:16
+		Location:	NULL NULL
+
+(4) - 0.0 km 861156 Stephen Archinal MSC5
+	XSAR1
+		Images:	6575
+		Time:	27.04.2025 06:19:33 until 27.04.2025 10:00:12
+		Duration:	03:40:39
+		Location:	NULL NULL
+
+(5) - 0.0 km 861167 JB BilBrey PR Start
+	XJBB1
+		Images:	433
+		Time:	27.04.2025 05:54:39 until 27.04.2025 06:58:59
+		Duration:	01:04:20
+		Location:	NULL NULL
+
+(6) - 0.0 km 861172 Kyle Brown PreFinish
+	XKBB1
+		Images:	2876
+		Time:	27.04.2025 07:41:20 until 27.04.2025 08:32:58
+		Duration:	00:51:38
+		Location:	NULL NULL
+
+(7) - 0.0 km jb bilbrey pre fin861173
+	XJBA1
+		Images:	11471
+		Time:	27.04.2025 07:23:10 until 27.04.2025 12:42:57
+		Duration:	05:19:47
+		Location:	NULL NULL
+
+(8) - Impressions / Pano
+	PANO1

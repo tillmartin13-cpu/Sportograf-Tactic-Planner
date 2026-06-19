@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "50.69087" lon = "3.43556"><name>DRI1</name><desc>10,7 km 85/125/160
+Images:5837
+First:03.05.2025 07:44:15
+Last:03.05.2025 09:23:11
+Duration:01:38:56
+</desc></wpt>
+<wpt lat = "50.69087" lon = "3.43556"><name>DRI1DRONE1</name><desc>10,7 km 85/125/160
+Images:12
+First:03.05.2025 08:33:16
+Last:03.05.2025 15:11:38
+Duration:06:38:22
+</desc></wpt>
+<wpt lat = "50.69087" lon = "3.43556"><name>DRI1LS2</name><desc>10,7 km 85/125/160
+Images:4214
+First:03.05.2025 08:01:23
+Last:03.05.2025 11:36:41
+Duration:03:35:18
+</desc></wpt>
+<wpt lat = "50.69087" lon = "3.43556"><name>DRI1LS1</name><desc>10,7 km 85/125/160
+Images:3627
+First:04.05.2025 08:07:46
+Last:04.05.2025 09:51:39
+Duration:01:43:53
+</desc></wpt>
+<wpt lat = "50.69087" lon = "3.43556"><name>KOLSI1</name><desc>10,7 km 85/125/160
+Images:907
+First:03.05.2025 08:36:45
+Last:03.05.2025 10:49:59
+Duration:02:13:14
+</desc></wpt>
+<wpt lat = "50.69087" lon = "3.43556"><name>LHA2</name><desc>10,7 km 85/125/160
+Images:4808
+First:03.05.2025 07:41:24
+Last:03.05.2025 11:29:18
+Duration:03:47:54
+</desc></wpt>
+<wpt lat = "50.64890" lon = "3.40434"><name>DRI2</name><desc>83,0 km 121/158
+Images:8884
+First:03.05.2025 12:02:16
+Last:03.05.2025 15:59:57
+Duration:03:57:41
+</desc></wpt>
+<wpt lat = "50.64890" lon = "3.40434"><name>DRI2LS2</name><desc>83,0 km 121/158
+Images:10833
+First:03.05.2025 11:39:16
+Last:03.05.2025 16:12:28
+Duration:04:33:12
+</desc></wpt>
+<wpt lat = "50.64890" lon = "3.40434"><name>DRI2LS1</name><desc>83,0 km 121/158
+Images:4913
+First:04.05.2025 11:46:22
+Last:04.05.2025 16:12:01
+Duration:04:25:39
+</desc></wpt>
+<wpt lat = "50.64890" lon = "3.40434"><name>KOLSI3</name><desc>83,0 km 121/158
+Images:5444
+First:03.05.2025 12:34:07
+Last:03.05.2025 18:32:12
+Duration:05:58:05
+</desc></wpt>
+<wpt lat = "50.64890" lon = "3.40434"><name>LHA4</name><desc>83,0 km 121/158
+Images:8015
+First:03.05.2025 11:30:09
+Last:03.05.2025 16:24:36
+Duration:04:54:27
+</desc></wpt>
+<wpt lat = "50.65339" lon = "3.40762"><name>KOLSI2</name><desc>55,0 km 93/130
+Images:363
+First:03.05.2025 11:35:03
+Last:03.05.2025 11:50:29
+Duration:00:15:26
+</desc></wpt>
+<wpt lat = "50.65339" lon = "3.40762"><name>LHA3</name><desc>55,0 km 93/130
+Images:533
+First:03.05.2025 10:29:09
+Last:03.05.2025 12:06:43
+Duration:01:37:34
+</desc></wpt>
+<wpt lat = "50.63003" lon = "3.39128"><name>LHA1</name><desc>Start
+Images:96
+First:03.05.2025 07:26:24
+Last:03.05.2025 07:39:07
+Duration:00:12:43
+</desc></wpt>
+<wpt lat = "50.67495" lon = "3.42344"><name>TB1</name><desc>6,0 km 85/160 /125
+Images:4440
+First:02.05.2025 20:45:36
+Last:03.05.2025 09:59:02
+Duration:13:13:26
+</desc></wpt>
+<wpt lat = "50.67495" lon = "3.42344"><name>TB1LS1</name><desc>6,0 km 85/160 /125
+Images:1157
+First:02.05.2025 20:56:58
+Last:03.05.2025 09:55:31
+Duration:12:58:33
+</desc></wpt>
+<wpt lat = "50.63003" lon = "3.39128"><name>TB2</name><desc>Finish
+Images:2416
+First:03.05.2025 11:04:27
+Last:03.05.2025 16:29:54
+Duration:05:25:27
+</desc></wpt>
+<wpt lat = "50.63003" lon = "3.39128"><name>TB2LS1</name><desc>Finish
+Images:2972
+First:03.05.2025 11:00:44
+Last:03.05.2025 16:29:52
+Duration:05:29:08
+</desc></wpt>
+</gpx>

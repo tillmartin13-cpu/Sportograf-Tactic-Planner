@@ -1,0 +1,80 @@
+EventId: 14276
+Spots: 12
+Total Images: 9314
+Time:	07.06.2025 22:03:33 to 08.06.2025 15:41:17
+Duration: 17:37:44
+
+(1) - Start
+	YSE1
+		Images:	396
+		Time:	08.06.2025 08:36:42 until 08.06.2025 10:30:24
+		Duration:	01:53:42
+		Location:	48.45358 13.98862
+
+(2) - 2.0 km
+	COR1LS2
+		Images:	461
+		Time:	08.06.2025 08:46:48 until 08.06.2025 10:38:26
+		Duration:	01:51:38
+		Location:	48.46399 13.99057
+
+	COR1LS1
+		Images:	456
+		Time:	08.06.2025 08:52:47 until 08.06.2025 11:15:25
+		Duration:	02:22:38
+		Location:	48.46399 13.99057
+
+	COR1
+		Images:	621
+		Time:	08.06.2025 09:05:23 until 08.06.2025 10:38:24
+		Duration:	01:33:01
+		Location:	48.46399 13.99057
+
+(3) - 6.0 km
+	EJ1
+		Images:	1112
+		Time:	07.06.2025 22:03:33 until 08.06.2025 10:23:57
+		Duration:	12:20:24
+		Location:	48.45079 13.98500
+
+(4) - 50.0 km Forest
+	COR2LS2
+		Images:	310
+		Time:	08.06.2025 11:44:35 until 08.06.2025 14:07:08
+		Duration:	02:22:33
+		Location:	48.46180 14.00364
+
+	COR2LS1
+		Images:	311
+		Time:	08.06.2025 11:42:49 until 08.06.2025 14:07:06
+		Duration:	02:24:17
+		Location:	48.46180 14.00364
+
+	COR2
+		Images:	1295
+		Time:	08.06.2025 11:18:08 until 08.06.2025 15:41:17
+		Duration:	04:23:09
+		Location:	48.46180 14.00364
+
+(5) - 56.0 km Quarry
+	EJ2
+		Images:	1667
+		Time:	08.06.2025 11:29:31 until 08.06.2025 15:32:31
+		Duration:	04:03:00
+		Location:	48.44887 13.99507
+
+(6) - Finish
+	YSE2
+		Images:	2652
+		Time:	08.06.2025 11:06:35 until 08.06.2025 15:27:52
+		Duration:	04:21:17
+		Location:	48.45358 13.98862
+
+(7) - Impressions / Pano
+	COR2DRONE1
+		Images:	33
+		Time:	08.06.2025 12:12:39 until 08.06.2025 13:57:04
+		Duration:	01:44:25
+		Location:	48.46180 14.00364
+
+	PANO1

@@ -1,0 +1,178 @@
+EventId: 14053
+Spots: 28
+Total Images: 58954
+Time:	15.03.2025 10:30:52 to 16.03.2025 15:31:06
+Duration: 1.05:00:14
+
+(1) - 1,5 km Marathon only
+	LV1
+		Images:	1686
+		Time:	16.03.2025 08:41:03 until 16.03.2025 09:14:30
+		Duration:	00:33:27
+		Location:	50.85328 5.74363
+
+	LV1LS1
+		Images:	308
+		Time:	16.03.2025 08:56:21 until 16.03.2025 09:14:33
+		Duration:	00:18:12
+		Location:	50.85328 5.74363
+
+	MK1
+		Images:	1532
+		Time:	16.03.2025 09:08:16 until 16.03.2025 09:14:10
+		Duration:	00:05:54
+		Location:	50.85328 5.74363
+
+	MK1LS1
+		Images:	318
+		Time:	16.03.2025 08:47:02 until 16.03.2025 09:14:26
+		Duration:	00:27:24
+		Location:	50.85328 5.74363
+
+	MK1LS2
+		Images:	277
+		Time:	16.03.2025 09:06:36 until 16.03.2025 09:14:23
+		Duration:	00:07:47
+		Location:	50.85328 5.74363
+
+(2) - Impressions / Pano
+	MK1DRONE1
+		Images:	40
+		Time:	16.03.2025 08:59:36 until 16.03.2025 14:22:35
+		Duration:	05:22:59
+		Location:	50.85328 5.74363
+
+	PANO1
+(3) - 1,2 km Half Marathon only
+	RM1
+		Images:	1765
+		Time:	16.03.2025 09:35:20 until 16.03.2025 09:42:50
+		Duration:	00:07:30
+		Location:	50.80445 5.89999
+
+	RM1LS1
+		Images:	311
+		Time:	15.03.2025 10:30:52 until 15.03.2025 10:41:12
+		Duration:	00:10:20
+		Location:	50.80445 5.89999
+
+	RM1LS2
+		Images:	393
+		Time:	16.03.2025 09:06:49 until 16.03.2025 09:42:18
+		Duration:	00:35:29
+		Location:	50.80445 5.89999
+
+(4) - km 6 half Marathon  -  km 27,5 full marathon
+	MAW1
+		Images:	4709
+		Time:	16.03.2025 09:39:24 until 16.03.2025 13:07:32
+		Duration:	03:28:08
+		Location:	50.77604 5.9025
+
+	MAW1LS1
+		Images:	936
+		Time:	16.03.2025 09:31:55 until 16.03.2025 13:07:24
+		Duration:	03:35:29
+		Location:	50.77604 5.9025
+
+	MAW1LS2
+		Images:	829
+		Time:	16.03.2025 09:28:45 until 16.03.2025 13:07:28
+		Duration:	03:38:43
+		Location:	50.77604 5.9025
+
+(5) - km 6,4 half Marathon  - km 27,9 full marathon
+	JKE1
+		Images:	4084
+		Time:	16.03.2025 07:12:53 until 16.03.2025 13:10:30
+		Duration:	05:57:37
+		Location:	50.77617 5.90487
+
+	JKE1LS1
+		Images:	429
+		Time:	16.03.2025 07:02:27 until 16.03.2025 13:06:36
+		Duration:	06:04:09
+		Location:	50.77617 5.90487
+
+	JKE1LS2
+		Images:	990
+		Time:	16.03.2025 07:07:24 until 16.03.2025 13:29:48
+		Duration:	06:22:24
+		Location:	50.77617 5.90487
+
+(6) - 12,7 km Marathon only
+	MK2
+		Images:	2409
+		Time:	16.03.2025 09:56:49 until 16.03.2025 10:36:52
+		Duration:	00:40:03
+		Location:	50.78859 5.82837
+
+	MK2LS1
+		Images:	434
+		Time:	16.03.2025 09:48:21 until 16.03.2025 10:31:34
+		Duration:	00:43:13
+		Location:	50.78859 5.82837
+
+	LV2
+		Images:	4321
+		Time:	16.03.2025 09:47:11 until 16.03.2025 11:09:53
+		Duration:	01:22:42
+		Location:	50.78859 5.82837
+
+	LV2LS1
+		Images:	374
+		Time:	16.03.2025 09:52:59 until 16.03.2025 10:34:17
+		Duration:	00:41:18
+		Location:	50.78859 5.82837
+
+	LV2LS2
+		Images:	421
+		Time:	16.03.2025 09:54:05 until 16.03.2025 10:30:35
+		Duration:	00:36:30
+		Location:	50.78859 5.82837
+
+(7) - Vijlenerbos  km 13,7 half marathon km 35,5 full marathon
+	LV3
+		Images:	6312
+		Time:	16.03.2025 11:09:53 until 16.03.2025 14:21:42
+		Duration:	03:11:49
+		Location:	50.76567 5.96487
+
+	LV3LS1
+		Images:	907
+		Time:	16.03.2025 11:10:43 until 16.03.2025 14:24:25
+		Duration:	03:13:42
+		Location:	50.76567 5.96487
+
+(8) - Vijlenerbos  km 14 half marathon km 35,8 full marathon
+	MK3
+		Images:	5836
+		Time:	16.03.2025 11:27:34 until 16.03.2025 14:22:07
+		Duration:	02:54:33
+		Location:	50.76552 5.96404
+
+	MK3LS1
+		Images:	840
+		Time:	16.03.2025 11:20:08 until 16.03.2025 14:22:23
+		Duration:	03:02:15
+		Location:	50.76552 5.96404
+
+	MK3LS2
+		Images:	884
+		Time:	16.03.2025 11:04:18 until 16.03.2025 14:16:02
+		Duration:	03:11:44
+		Location:	50.76552 5.96404
+
+(9) - Finish
+	RM2
+		Images:	16592
+		Time:	16.03.2025 11:05:44 until 16.03.2025 15:31:06
+		Duration:	04:25:22
+		Location:	50.75486 6.01984
+
+	RM2LS1
+		Images:	1017
+		Time:	16.03.2025 10:48:48 until 16.03.2025 15:27:22
+		Duration:	04:38:34
+		Location:	50.75486 6.01984
+

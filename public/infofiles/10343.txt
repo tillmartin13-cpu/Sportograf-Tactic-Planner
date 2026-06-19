@@ -1,0 +1,317 @@
+EventId: 10343
+Spots: 50
+Total Images: 114194
+Time:	17.04.2022 11:25:08 to 18.11.2023 21:13:19
+Duration: 580.09:48:11
+
+(1) - Farmers Carry
+	BTGM1LS1
+		Images:	3582
+		Time:	18.11.2023 07:50:12 until 18.11.2023 19:42:22
+		Duration:	11:52:10
+		Location:	41.35469 2.12563
+
+	BTGM1LS2
+		Images:	3535
+		Time:	18.11.2023 07:26:20 until 18.11.2023 19:37:26
+		Duration:	12:11:06
+		Location:	41.35469 2.12563
+
+(2) - Finish
+	ADAFE6
+		Images:	306
+		Time:	18.11.2023 13:29:12 until 18.11.2023 13:51:20
+		Duration:	00:22:08
+		Location:	41.35469 2.12563
+
+	AMANR6
+		Images:	301
+		Time:	18.11.2023 13:12:33 until 18.11.2023 13:29:11
+		Duration:	00:16:38
+		Location:	41.35469 2.12563
+
+	ASTO1
+		Images:	4684
+		Time:	18.11.2023 08:16:54 until 18.11.2023 13:11:39
+		Duration:	04:54:45
+		Location:	41.35469 2.12563
+
+	BJMP1LS1
+		Images:	3771
+		Time:	18.11.2023 07:17:11 until 18.11.2023 20:26:34
+		Duration:	13:09:23
+		Location:	41.35469 2.12563
+
+	BMANR3
+		Images:	563
+		Time:	18.11.2023 17:45:08 until 18.11.2023 18:40:58
+		Duration:	00:55:50
+		Location:	41.35469 2.12563
+
+	BMIFP1LS1
+		Images:	3601
+		Time:	18.11.2023 07:10:53 until 18.11.2023 20:02:55
+		Duration:	12:52:02
+		Location:	41.35469 2.12563
+
+	BSTO1
+		Images:	4357
+		Time:	18.11.2023 13:52:39 until 18.11.2023 20:17:26
+		Duration:	06:24:47
+		Location:	41.35469 2.12563
+
+(3) - Generales
+	ADAFE1
+		Images:	198
+		Time:	18.11.2023 07:40:29 until 18.11.2023 09:57:40
+		Duration:	02:17:11
+		Location:	41.35469 2.12563
+
+	AMANR1
+		Images:	334
+		Time:	18.11.2023 08:07:07 until 18.11.2023 10:22:31
+		Duration:	02:15:24
+		Location:	41.35469 2.12563
+
+(4) - Hero Wall
+	AJMP1
+		Images:	1446
+		Time:	18.11.2023 07:43:05 until 18.11.2023 13:30:30
+		Duration:	05:47:25
+		Location:	41.35469 2.12563
+
+	BJMP1
+		Images:	2243
+		Time:	18.11.2023 13:31:31 until 18.11.2023 20:19:35
+		Duration:	06:48:04
+		Location:	41.35469 2.12563
+
+(5) - Rowing
+	ADAFE4
+		Images:	765
+		Time:	18.11.2023 11:22:01 until 18.11.2023 11:51:35
+		Duration:	00:29:34
+		Location:	41.35469 2.12563
+
+	ARAH1
+		Images:	5832
+		Time:	18.11.2023 07:55:42 until 18.11.2023 14:19:53
+		Duration:	06:24:11
+		Location:	41.35469 2.12563
+
+	BDAFE3
+		Images:	790
+		Time:	18.11.2023 16:25:21 until 18.11.2023 16:50:57
+		Duration:	00:25:36
+		Location:	41.35469 2.12563
+
+	BRAH1
+		Images:	5157
+		Time:	18.11.2023 14:22:52 until 18.11.2023 19:37:28
+		Duration:	05:14:36
+		Location:	41.35469 2.12563
+
+(6) - Run
+	BDAFE1LS1
+		Images:	5281
+		Time:	18.11.2023 07:29:52 until 18.11.2023 19:26:21
+		Duration:	11:56:29
+		Location:	41.35469 2.12563
+
+(7) - Sandbag Lunges
+	AMANR4
+		Images:	200
+		Time:	18.11.2023 11:31:50 until 18.11.2023 11:56:48
+		Duration:	00:24:58
+		Location:	41.35469 2.12563
+
+	APSP1
+		Images:	2268
+		Time:	18.11.2023 07:48:34 until 18.11.2023 14:20:51
+		Duration:	06:32:17
+		Location:	41.35469 2.12563
+
+	BJLTG1LS1
+		Images:	6077
+		Time:	18.11.2023 09:05:46 until 18.11.2023 21:00:58
+		Duration:	11:55:12
+		Location:	41.35469 2.12563
+
+	BMANR1LS1
+		Images:	5265
+		Time:	17.04.2022 11:25:08 until 18.11.2023 19:49:19
+		Duration:	580.08:24:11
+		Location:	41.35469 2.12563
+
+	BMANR2
+		Images:	416
+		Time:	18.11.2023 16:25:53 until 18.11.2023 17:01:58
+		Duration:	00:36:05
+		Location:	41.35469 2.12563
+
+	BPSP1
+		Images:	1009
+		Time:	18.11.2023 14:22:33 until 18.11.2023 19:58:04
+		Duration:	05:35:31
+		Location:	41.35469 2.12563
+
+(8) - Skierg
+	AALV1
+		Images:	4439
+		Time:	18.11.2023 07:34:22 until 18.11.2023 14:09:48
+		Duration:	06:35:26
+		Location:	41.35469 2.12563
+
+	AURU1
+		Images:	5157
+		Time:	18.11.2023 07:43:07 until 18.11.2023 14:10:22
+		Duration:	06:27:15
+		Location:	41.35469 2.12563
+
+	BALV1
+		Images:	5592
+		Time:	18.11.2023 14:34:18 until 18.11.2023 18:37:14
+		Duration:	04:02:56
+		Location:	41.35469 2.12563
+
+	BURU1
+		Images:	1237
+		Time:	18.11.2023 14:34:07 until 18.11.2023 18:40:05
+		Duration:	04:05:58
+		Location:	41.35469 2.12563
+
+(9) - Sled Pull
+	ADAFE3
+		Images:	629
+		Time:	18.11.2023 10:34:11 until 18.11.2023 11:13:25
+		Duration:	00:39:14
+		Location:	41.35469 2.12563
+
+	AJLTG1
+		Images:	1864
+		Time:	18.11.2023 08:16:36 until 18.11.2023 14:18:19
+		Duration:	06:01:43
+		Location:	41.35469 2.12563
+
+	AMANR3
+		Images:	477
+		Time:	18.11.2023 10:43:06 until 18.11.2023 11:10:28
+		Duration:	00:27:22
+		Location:	41.35469 2.12563
+
+	ATGM1
+		Images:	2590
+		Time:	18.11.2023 08:16:22 until 18.11.2023 14:17:54
+		Duration:	06:01:32
+		Location:	41.35469 2.12563
+
+	BDAFE2
+		Images:	1172
+		Time:	18.11.2023 15:10:17 until 18.11.2023 16:10:59
+		Duration:	01:00:42
+		Location:	41.35469 2.12563
+
+	BJLTG1
+		Images:	1050
+		Time:	18.11.2023 14:19:26 until 18.11.2023 19:03:12
+		Duration:	04:43:46
+		Location:	41.35469 2.12563
+
+	BMANR1
+		Images:	324
+		Time:	18.11.2023 14:36:44 until 18.11.2023 16:11:05
+		Duration:	01:34:21
+		Location:	41.35469 2.12563
+
+	BTGM1
+		Images:	1463
+		Time:	18.11.2023 14:18:16 until 18.11.2023 18:58:26
+		Duration:	04:40:10
+		Location:	41.35469 2.12563
+
+(10) - Sled Push
+	ADAFE2
+		Images:	347
+		Time:	18.11.2023 09:52:55 until 18.11.2023 10:29:35
+		Duration:	00:36:40
+		Location:	41.35469 2.12563
+
+	AGUS1
+		Images:	2196
+		Time:	18.11.2023 07:32:24 until 18.11.2023 14:14:07
+		Duration:	06:41:43
+		Location:	41.35469 2.12563
+
+	AMANR2
+		Images:	136
+		Time:	18.11.2023 10:22:52 until 18.11.2023 10:27:59
+		Duration:	00:05:07
+		Location:	41.35469 2.12563
+
+	AMIFP1
+		Images:	4218
+		Time:	18.11.2023 07:35:02 until 18.11.2023 14:15:54
+		Duration:	06:40:52
+		Location:	41.35469 2.12563
+
+	BDAFE1
+		Images:	153
+		Time:	18.11.2023 14:42:21 until 18.11.2023 14:53:40
+		Duration:	00:11:19
+		Location:	41.35469 2.12563
+
+	BGUS1
+		Images:	1741
+		Time:	18.11.2023 14:16:18 until 18.11.2023 18:50:55
+		Duration:	04:34:37
+		Location:	41.35469 2.12563
+
+	BMIFP1
+		Images:	3353
+		Time:	18.11.2023 07:35:02 until 18.11.2023 18:49:37
+		Duration:	11:14:35
+		Location:	41.35469 2.12563
+
+(11) - Wall Balls
+	AACP1
+		Images:	5270
+		Time:	18.11.2023 08:18:27 until 18.11.2023 14:44:47
+		Duration:	06:26:20
+		Location:	41.35469 2.12563
+
+	AAIC1
+		Images:	2396
+		Time:	18.11.2023 08:48:53 until 18.11.2023 15:44:04
+		Duration:	06:55:11
+		Location:	41.35469 2.12563
+
+	ADAFE5
+		Images:	751
+		Time:	18.11.2023 12:15:10 until 18.11.2023 13:02:09
+		Duration:	00:46:59
+		Location:	41.35469 2.12563
+
+	AMANR5
+		Images:	705
+		Time:	18.11.2023 12:30:08 until 18.11.2023 12:49:43
+		Duration:	00:19:35
+		Location:	41.35469 2.12563
+
+	BACP1
+		Images:	2926
+		Time:	18.11.2023 14:45:24 until 18.11.2023 20:12:11
+		Duration:	05:26:47
+		Location:	41.35469 2.12563
+
+	BAIC1
+		Images:	1668
+		Time:	18.11.2023 15:45:14 until 18.11.2023 21:13:19
+		Duration:	05:28:05
+		Location:	41.35469 2.12563
+
+	BDAFE4
+		Images:	359
+		Time:	18.11.2023 17:30:15 until 18.11.2023 18:18:32
+		Duration:	00:48:17
+		Location:	41.35469 2.12563
+

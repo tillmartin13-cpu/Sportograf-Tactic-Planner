@@ -1,0 +1,123 @@
+EventId: 14797
+Spots: 51
+Total Images: 32
+Time:	01.02.2025 06:32:39 to 01.02.2025 20:11:05
+Duration: 13:38:26
+
+(1) - Station 1 SKI ERG
+	MAW1
+	KSA1
+	PBO1
+		Images:	10
+		Time:	01.02.2025 06:32:39 until 01.02.2025 07:08:59
+		Duration:	00:36:20
+		Location:	50.83850 5.71077
+
+	LUGR2
+	MBEN2
+	MW2
+	LV1
+	PARO1
+(2) - Station 2 SLED PUSH
+	VL1
+		Images:	3
+		Time:	01.02.2025 06:48:42 until 01.02.2025 07:02:38
+		Duration:	00:13:56
+		Location:	50.83850 5.71077
+
+	WEN1
+		Images:	5
+		Time:	01.02.2025 06:47:08 until 01.02.2025 06:48:56
+		Duration:	00:01:48
+		Location:	50.83850 5.71077
+
+	BENL1
+		Images:	1
+		Time:	01.02.2025 06:57:52 until 01.02.2025 06:57:52
+		Duration:	00:00:00
+		Location:	50.83850 5.71077
+
+	OT2
+	RM2
+	DR2
+(3) - RUN OUT SLEDPUSH / SLEDPULL
+	LV3LS1
+	MK1LS1
+(4) - Station 3 SLED PULL
+	LUGR1
+	MBEN1
+		Images:	3
+		Time:	01.02.2025 07:02:29 until 01.02.2025 07:03:59
+		Duration:	00:01:30
+		Location:	50.83850 5.71077
+
+	LV3
+	PARO3
+		Images:	1
+		Time:	01.02.2025 20:11:05 until 01.02.2025 20:11:05
+		Duration:	00:00:00
+		Location:	50.83850 5.71077
+
+	KSA2
+	PBO2
+(5) - Station 5 ROWING
+	RM1
+		Images:	3
+		Time:	01.02.2025 06:51:34 until 01.02.2025 06:55:08
+		Duration:	00:03:34
+		Location:	50.83850 5.71077
+
+	JOS1
+	LV5
+	PARO5
+	WEN2
+	VL2
+(6) - Station 6 FARMERS CARRY
+	PARO7LS2
+	PARO7LS1
+(7) - Station 7 SANDBAG LUNGES
+	MIV1
+	DR1
+		Images:	1
+		Time:	01.02.2025 06:58:12 until 01.02.2025 06:58:12
+		Duration:	00:00:00
+		Location:	50.83850 5.71077
+
+	LV7
+	PARO7
+		Images:	1
+		Time:	01.02.2025 12:47:17 until 01.02.2025 12:47:17
+		Duration:	00:00:00
+		Location:	50.83850 5.71077
+
+	BENL2
+	JOS2
+(8) - Station 8 WALL BALLS
+	RA1
+	PARO8
+	AMAR1
+		Images:	2
+		Time:	01.02.2025 06:44:50 until 01.02.2025 06:46:07
+		Duration:	00:01:17
+		Location:	50.83850 5.71077
+
+	LV8
+(9) - Finish
+	MW1LS1
+	MK1
+	MAW2
+	MK1LS2
+	MW1
+	PARO9
+(10) - Medalwall
+	OT1
+	MIV2
+	MK2
+(11) - Impressions / Pano
+	MK1IMP1
+		Images:	2
+		Time:	01.02.2025 09:07:12 until 01.02.2025 09:32:17
+		Duration:	00:25:05
+		Location:	50.83850 5.71077
+
+	PANO1

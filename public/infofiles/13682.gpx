@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "47.70443" lon = "8.46025"><name>BP1</name><desc>27.0 km
+Images:1350
+First:25.10.2025 12:40:42
+Last:25.10.2025 16:45:01
+Duration:04:04:19
+</desc></wpt>
+<wpt lat = "47.70443" lon = "8.46025"><name>BP1LS2</name><desc>27.0 km
+Images:679
+First:25.10.2025 12:58:38
+Last:25.10.2025 19:08:58
+Duration:06:10:20
+</desc></wpt>
+<wpt lat = "47.70443" lon = "8.46025"><name>BP1LS1</name><desc>27.0 km
+Images:556
+First:25.10.2025 12:03:50
+Last:25.10.2025 16:48:52
+Duration:04:45:02
+</desc></wpt>
+<wpt lat = "47.68980" lon = "8.75386"><name>BP2</name><desc>63.5 km
+Images:481
+First:25.10.2025 20:08:01
+Last:26.10.2025 01:01:20
+Duration:04:53:19
+</desc></wpt>
+<wpt lat = "47.69029" lon = "8.75073"><name>BP2LS2</name><desc>63.5 km
+Images:246
+First:25.10.2025 19:09:52
+Last:26.10.2025 00:37:59
+Duration:05:28:07
+</desc></wpt>
+<wpt lat = "47.69029" lon = "8.75073"><name>BP2LS1</name><desc>63.5 km
+Images:1234
+First:25.10.2025 19:38:28
+Last:26.10.2025 01:13:42
+Duration:05:35:14
+</desc></wpt>
+<wpt lat = "47.69565" lon = "8.63360"><name>DABI1</name><desc>Start
+Images:910
+First:25.10.2025 08:51:05
+Last:25.10.2025 10:05:38
+Duration:01:14:33
+</desc></wpt>
+<wpt lat = "47.69565" lon = "8.63360"><name>DABI2</name><desc>Herotent
+Images:1448
+First:25.10.2025 15:39:50
+Last:26.10.2025 09:17:56
+Duration:17:38:06
+</desc></wpt>
+<wpt lat = "47.70443" lon = "8.46025"><name>HS1</name><desc>16.4 km
+Images:793
+First:25.10.2025 11:31:38
+Last:25.10.2025 13:58:33
+Duration:02:26:55
+</desc></wpt>
+<wpt lat = "47.70443" lon = "8.46025"><name>HS1LS2</name><desc>16.4 km
+Images:2568
+First:25.10.2025 11:10:58
+Last:25.10.2025 14:07:48
+Duration:02:56:50
+</desc></wpt>
+<wpt lat = "47.70443" lon = "8.46025"><name>HS1LS1</name><desc>16.4 km
+Images:687
+First:25.10.2025 11:10:30
+Last:25.10.2025 14:08:45
+Duration:02:58:15
+</desc></wpt>
+<wpt lat = "47.69057" lon = "8.75078"><name>HS2</name><desc>63.0 km
+Images:468
+First:25.10.2025 19:17:52
+Last:26.10.2025 01:33:01
+Duration:06:15:09
+</desc></wpt>
+<wpt lat = "47.67867" lon = "8.61133"><name>MAWI1</name><desc>4.5 km
+Images:1876
+First:25.10.2025 09:36:01
+Last:25.10.2025 11:10:15
+Duration:01:34:14
+</desc></wpt>
+<wpt lat = "47.67867" lon = "8.61133"><name>MAWI1DRONE1</name><desc>4.5 km
+Images:13
+First:26.10.2025 05:35:54
+Last:26.10.2025 11:11:05
+Duration:05:35:11
+</desc></wpt>
+<wpt lat = "47.67867" lon = "8.61133"><name>MAWI1LS2</name><desc>4.5 km
+Images:596
+First:25.10.2025 09:21:40
+Last:25.10.2025 10:27:57
+Duration:01:06:17
+</desc></wpt>
+<wpt lat = "47.67867" lon = "8.61133"><name>MAWI1LS1</name><desc>4.5 km
+Images:348
+First:25.10.2025 10:04:45
+Last:25.10.2025 10:32:36
+Duration:00:27:51
+</desc></wpt>
+<wpt lat = "47.69646" lon = "8.63326"><name>MAWI2</name><desc>49.9 km
+Images:670
+First:25.10.2025 15:35:41
+Last:25.10.2025 22:07:23
+Duration:06:31:42
+</desc></wpt>
+<wpt lat = "47.69646" lon = "8.63326"><name>MAWI2LS1</name><desc>49.9 km
+Images:1421
+First:25.10.2025 15:27:30
+Last:25.10.2025 22:00:45
+Duration:06:33:15
+</desc></wpt>
+<wpt lat = "47.69604" lon = "8.63411"><name>MAWI3</name><desc>99.9 km
+Images:689
+First:25.10.2025 22:51:43
+Last:26.10.2025 09:16:29
+Duration:10:24:46
+</desc></wpt>
+<wpt lat = "47.69604" lon = "8.63411"><name>MAWI3LS1</name><desc>99.9 km
+Images:440
+First:25.10.2025 22:43:14
+Last:26.10.2025 07:37:40
+Duration:08:54:26
+</desc></wpt>
+<wpt lat = "47.67594" lon = "8.61867"><name>MOG1</name><desc>4.4 km
+Images:11742
+First:01.01.0001 23:00:00
+Last:25.10.2025 10:21:10
+Duration:739547.11:21:10
+</desc></wpt>
+<wpt lat = "47.67594" lon = "8.61867"><name>MOG1LS1</name><desc>4.4 km
+Images:575
+First:25.10.2025 09:28:03
+Last:25.10.2025 10:29:17
+Duration:01:01:14
+</desc></wpt>
+<wpt lat = "47.67594" lon = "8.61867"><name>MOG1LS2</name><desc>4.4 km
+Images:534
+First:25.10.2025 09:25:13
+Last:25.10.2025 10:28:08
+Duration:01:02:55
+</desc></wpt>
+<wpt lat = "47.69565" lon = "8.63360"><name>MOG3</name><desc>Finish
+Images:2121
+First:25.10.2025 15:55:38
+Last:26.10.2025 10:05:22
+Duration:18:09:44
+</desc></wpt>
+<wpt lat = "47.69565" lon = "8.63360"><name>MOG3LS1</name><desc>Finish
+Images:1904
+First:25.10.2025 15:17:51
+Last:26.10.2025 09:52:16
+Duration:18:34:25
+</desc></wpt>
+<wpt lat = "47.69565" lon = "8.63360"><name>MOG3LS2</name><desc>Finish
+Images:1278
+First:25.10.2025 15:17:02
+Last:26.10.2025 09:51:57
+Duration:18:34:55
+</desc></wpt>
+</gpx>

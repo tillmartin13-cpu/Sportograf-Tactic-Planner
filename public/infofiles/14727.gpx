@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "42.70770" lon = "0.90336"><name>OAC1</name><desc>Start
+Images:1053
+First:03.07.2025 06:32:51
+Last:03.07.2025 08:01:31
+Duration:01:28:40
+</desc></wpt>
+<wpt lat = "42.70770" lon = "0.90336"><name>JMO1</name><desc>Start
+Images:726
+First:02.07.2025 18:39:16
+Last:03.07.2025 07:44:42
+Duration:13:05:26
+</desc></wpt>
+<wpt lat = "42.65075" lon = "0.93360"><name>AMRU1</name><desc>8,0 km
+Images:1558
+First:03.07.2025 07:21:34
+Last:03.07.2025 09:59:14
+Duration:02:37:40
+</desc></wpt>
+<wpt lat = "42.65075" lon = "0.93360"><name>AMRU1LS1</name><desc>8,0 km
+Images:999
+First:03.07.2025 07:08:17
+Last:03.07.2025 14:26:41
+Duration:07:18:24
+</desc></wpt>
+<wpt lat = "42.62296" lon = "0.93160"><name>RAVE1</name><desc>13,0 km
+Images:3539
+First:03.07.2025 08:13:48
+Last:03.07.2025 11:29:26
+Duration:03:15:38
+</desc></wpt>
+<wpt lat = "42.62296" lon = "0.93160"><name>RAVE1LS1</name><desc>13,0 km
+Images:2282
+First:03.07.2025 08:08:09
+Last:03.07.2025 11:38:04
+Duration:03:29:55
+</desc></wpt>
+<wpt lat = "42.62065" lon = "0.93439"><name>JMP1</name><desc>14,0 km
+Images:4959
+First:02.07.2025 18:03:09
+Last:03.07.2025 11:34:14
+Duration:17:31:05
+</desc></wpt>
+<wpt lat = "42.62065" lon = "0.93439"><name>JMP1LS1</name><desc>14,0 km
+Images:1801
+First:03.07.2025 07:56:31
+Last:03.07.2025 11:26:14
+Duration:03:29:43
+</desc></wpt>
+<wpt lat = "42.62065" lon = "0.93439"><name>JMP1LS2</name><desc>14,0 km
+Images:2112
+First:03.07.2025 07:46:52
+Last:03.07.2025 11:27:08
+Duration:03:40:16
+</desc></wpt>
+<wpt lat = "42.70067" lon = "0.86962"><name>AMRU2</name><desc>39,0 km
+Images:2597
+First:03.07.2025 14:10:48
+Last:03.07.2025 17:34:39
+Duration:03:23:51
+</desc></wpt>
+<wpt lat = "42.70067" lon = "0.86962"><name>AMRU2LS1</name><desc>39,0 km
+Images:293
+First:03.07.2025 14:06:49
+Last:03.07.2025 15:30:23
+Duration:01:23:34
+</desc></wpt>
+<wpt lat = "42.69800" lon = "0.87020"><name>JMO2</name><desc>40,0 km
+Images:6693
+First:03.07.2025 07:44:42
+Last:03.07.2025 17:36:00
+Duration:09:51:18
+</desc></wpt>
+<wpt lat = "42.70115" lon = "0.79876"><name>OAC2</name><desc>Finish
+Images:9559
+First:03.07.2025 11:52:10
+Last:03.07.2025 20:54:51
+Duration:09:02:41
+</desc></wpt>
+<wpt lat = "42.70115" lon = "0.79876"><name>RAVE2</name><desc>Finish
+Images:1228
+First:03.07.2025 15:32:43
+Last:03.07.2025 20:54:27
+Duration:05:21:44
+</desc></wpt>
+<wpt lat = "42.70115" lon = "0.79876"><name>RAVE2LS1</name><desc>Finish
+Images:2036
+First:03.07.2025 14:32:41
+Last:03.07.2025 20:45:03
+Duration:06:12:22
+</desc></wpt>
+<wpt lat = "42.62065" lon = "0.93439"><name>PANO1</name><desc>Impressions / Pano
+Images:2
+First:03.07.2025 07:00:02
+Last:03.07.2025 08:01:24
+Duration:01:01:22
+</desc></wpt>
+</gpx>

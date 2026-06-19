@@ -1,0 +1,341 @@
+EventId: 12519
+Spots: 55
+Total Images: 228770
+Time:	06.05.2024 07:10:22 to 06.05.2024 20:01:01
+Duration: 12:50:39
+
+(1) - Farmers Carry
+	FPARO2LS1
+		Images:	5211
+		Time:	06.05.2024 07:14:00 until 06.05.2024 19:39:14
+		Duration:	12:25:14
+		Location:	51.49673 -0.21083
+
+	FPARO2LS2
+		Images:	4008
+		Time:	06.05.2024 07:28:34 until 06.05.2024 19:44:15
+		Duration:	12:15:41
+		Location:	51.49673 -0.21083
+
+(2) - Finish
+	EBKO5
+		Images:	699
+		Time:	06.05.2024 13:41:38 until 06.05.2024 14:09:58
+		Duration:	00:28:20
+		Location:	51.49673 -0.21083
+
+	EBKO8
+		Images:	10
+		Time:	06.05.2024 16:01:43 until 06.05.2024 16:01:56
+		Duration:	00:00:13
+		Location:	51.49673 -0.21083
+
+	EJUW5
+		Images:	153
+		Time:	06.05.2024 15:13:14 until 06.05.2024 15:16:37
+		Duration:	00:03:23
+		Location:	51.49673 -0.21083
+
+	EPARO8
+		Images:	802
+		Time:	06.05.2024 17:07:28 until 06.05.2024 17:30:19
+		Duration:	00:22:51
+		Location:	51.49673 -0.21083
+
+	ESTEM1
+		Images:	14089
+		Time:	06.05.2024 07:37:30 until 06.05.2024 15:12:00
+		Duration:	07:34:30
+		Location:	51.49673 -0.21083
+
+	FBKO1LS1
+		Images:	1773
+		Time:	06.05.2024 08:00:28 until 06.05.2024 20:00:39
+		Duration:	12:00:11
+		Location:	51.49673 -0.21083
+
+	FJUW1LS1
+		Images:	2703
+		Time:	06.05.2024 07:11:09 until 06.05.2024 19:57:07
+		Duration:	12:45:58
+		Location:	51.49673 -0.21083
+
+	FMALV1
+		Images:	3660
+		Time:	06.05.2024 15:16:59 until 06.05.2024 19:59:36
+		Duration:	04:42:37
+		Location:	51.49673 -0.21083
+
+(3) - Impressions / Pano
+	EBKO6
+		Images:	94
+		Time:	06.05.2024 07:52:15 until 06.05.2024 08:06:48
+		Duration:	00:14:33
+		Location:	51.49673 -0.21083
+
+	PANO1
+(4) - Medalwall
+	EMALV1
+		Images:	2046
+		Time:	06.05.2024 09:04:14 until 06.05.2024 15:14:04
+		Duration:	06:09:50
+		Location:	51.49673 -0.21083
+
+	FSTEM1
+		Images:	1359
+		Time:	06.05.2024 15:14:43 until 06.05.2024 20:00:21
+		Duration:	04:45:38
+		Location:	51.49673 -0.21083
+
+(5) - Rowing
+	EBKO3
+		Images:	2950
+		Time:	06.05.2024 12:20:09 until 06.05.2024 16:40:53
+		Duration:	04:20:44
+		Location:	51.49673 -0.21083
+
+	ECMU1
+		Images:	7085
+		Time:	06.05.2024 07:14:56 until 06.05.2024 15:05:47
+		Duration:	07:50:51
+		Location:	51.49673 -0.21083
+
+	EJUW3
+		Images:	3522
+		Time:	06.05.2024 12:20:16 until 06.05.2024 16:40:12
+		Duration:	04:19:56
+		Location:	51.49673 -0.21083
+
+	ELAE1
+		Images:	7721
+		Time:	06.05.2024 07:14:15 until 06.05.2024 15:03:27
+		Duration:	07:49:12
+		Location:	51.49673 -0.21083
+
+	EPARO5
+		Images:	128
+		Time:	06.05.2024 14:57:36 until 06.05.2024 15:15:47
+		Duration:	00:18:11
+		Location:	51.49673 -0.21083
+
+	FALN1
+		Images:	4414
+		Time:	06.05.2024 15:16:31 until 06.05.2024 19:21:43
+		Duration:	04:05:12
+		Location:	51.49673 -0.21083
+
+	FLOT1
+		Images:	4695
+		Time:	06.05.2024 15:04:36 until 06.05.2024 19:18:14
+		Duration:	04:13:38
+		Location:	51.49673 -0.21083
+
+(6) - Sandbag Lunges
+	EBKO7
+		Images:	635
+		Time:	06.05.2024 15:18:01 until 06.05.2024 15:27:49
+		Duration:	00:09:48
+		Location:	51.49673 -0.21083
+
+	EMKH1
+		Images:	4228
+		Time:	06.05.2024 07:54:55 until 06.05.2024 15:09:24
+		Duration:	07:14:29
+		Location:	51.49673 -0.21083
+
+	EPARO4
+		Images:	1755
+		Time:	06.05.2024 12:23:45 until 06.05.2024 16:50:16
+		Duration:	04:26:31
+		Location:	51.49673 -0.21083
+
+	EYCAN1
+		Images:	3244
+		Time:	06.05.2024 07:10:22 until 06.05.2024 15:16:56
+		Duration:	08:06:34
+		Location:	51.49673 -0.21083
+
+	FSHP1
+		Images:	1688
+		Time:	06.05.2024 15:16:39 until 06.05.2024 19:48:01
+		Duration:	04:31:22
+		Location:	51.49673 -0.21083
+
+	FWIN1
+		Images:	3734
+		Time:	06.05.2024 15:27:41 until 06.05.2024 19:45:45
+		Duration:	04:18:04
+		Location:	51.49673 -0.21083
+
+(7) - SkiErg
+	EJIHI1
+		Images:	2711
+		Time:	06.05.2024 07:49:47 until 06.05.2024 14:53:12
+		Duration:	07:03:25
+		Location:	51.49673 -0.21083
+
+	EKYY1
+		Images:	15773
+		Time:	06.05.2024 07:54:29 until 06.05.2024 17:01:18
+		Duration:	09:06:49
+		Location:	51.49673 -0.21083
+
+	EPARO1
+		Images:	826
+		Time:	06.05.2024 08:05:10 until 06.05.2024 10:41:40
+		Duration:	02:36:30
+		Location:	51.49673 -0.21083
+
+	EPAS1
+		Images:	13192
+		Time:	06.05.2024 08:02:50 until 06.05.2024 14:51:21
+		Duration:	06:48:31
+		Location:	51.49673 -0.21083
+
+	FCMS1
+		Images:	6005
+		Time:	06.05.2024 08:00:05 until 06.05.2024 18:40:39
+		Duration:	10:40:34
+		Location:	51.49673 -0.21083
+
+	FKYY1
+		Images:	1406
+		Time:	06.05.2024 17:05:59 until 06.05.2024 18:41:40
+		Duration:	01:35:41
+		Location:	51.49673 -0.21083
+
+	FQVT1
+		Images:	4267
+		Time:	06.05.2024 15:15:33 until 06.05.2024 18:39:29
+		Duration:	03:23:56
+		Location:	51.49673 -0.21083
+
+(8) - Sled Pull
+	EALN1
+		Images:	8504
+		Time:	06.05.2024 08:04:50 until 06.05.2024 15:09:28
+		Duration:	07:04:38
+		Location:	51.49673 -0.21083
+
+	EBKO2
+		Images:	3944
+		Time:	06.05.2024 11:39:31 until 06.05.2024 17:20:20
+		Duration:	05:40:49
+		Location:	51.49673 -0.21083
+
+	EJUW2
+		Images:	6619
+		Time:	06.05.2024 08:21:05 until 06.05.2024 17:19:44
+		Duration:	08:58:39
+		Location:	51.49673 -0.21083
+
+	ELOT1
+		Images:	11001
+		Time:	06.05.2024 08:20:55 until 06.05.2024 14:56:29
+		Duration:	06:35:34
+		Location:	51.49673 -0.21083
+
+	EPARO3
+		Images:	398
+		Time:	06.05.2024 11:43:03 until 06.05.2024 12:00:46
+		Duration:	00:17:43
+		Location:	51.49673 -0.21083
+
+	FCMU1
+		Images:	1649
+		Time:	06.05.2024 15:14:26 until 06.05.2024 18:58:53
+		Duration:	03:44:27
+		Location:	51.49673 -0.21083
+
+	FLAE1
+		Images:	2319
+		Time:	06.05.2024 15:10:38 until 06.05.2024 18:58:43
+		Duration:	03:48:05
+		Location:	51.49673 -0.21083
+
+(9) - Sled Push
+	EBKO1
+		Images:	9311
+		Time:	06.05.2024 08:14:51 until 06.05.2024 18:05:28
+		Duration:	09:50:37
+		Location:	51.49673 -0.21083
+
+	ECMS1
+		Images:	18180
+		Time:	06.05.2024 08:14:35 until 06.05.2024 15:03:32
+		Duration:	06:48:57
+		Location:	51.49673 -0.21083
+
+	EJUW1
+		Images:	2177
+		Time:	06.05.2024 08:10:23 until 06.05.2024 17:57:48
+		Duration:	09:47:25
+		Location:	51.49673 -0.21083
+
+	EPARO2
+		Images:	84
+		Time:	06.05.2024 11:11:39 until 06.05.2024 11:30:55
+		Duration:	00:19:16
+		Location:	51.49673 -0.21083
+
+	EQVT1
+		Images:	11961
+		Time:	06.05.2024 07:58:33 until 06.05.2024 15:01:24
+		Duration:	07:02:51
+		Location:	51.49673 -0.21083
+
+	FPAS1
+		Images:	3950
+		Time:	06.05.2024 15:25:12 until 06.05.2024 18:50:49
+		Duration:	03:25:37
+		Location:	51.49673 -0.21083
+
+	FYCAN1
+		Images:	2147
+		Time:	06.05.2024 15:25:14 until 06.05.2024 18:51:40
+		Duration:	03:26:26
+		Location:	51.49673 -0.21083
+
+(10) - Wall Balls
+	EBKO4
+		Images:	2223
+		Time:	06.05.2024 13:02:22 until 06.05.2024 15:58:14
+		Duration:	02:55:52
+		Location:	51.49673 -0.21083
+
+	EJUW4
+		Images:	2435
+		Time:	06.05.2024 13:00:44 until 06.05.2024 15:57:54
+		Duration:	02:57:10
+		Location:	51.49673 -0.21083
+
+	EPARO7
+		Images:	27
+		Time:	06.05.2024 15:20:06 until 06.05.2024 15:22:22
+		Duration:	00:02:16
+		Location:	51.49673 -0.21083
+
+	ESHP1
+		Images:	3593
+		Time:	06.05.2024 08:56:34 until 06.05.2024 15:14:11
+		Duration:	06:17:37
+		Location:	51.49673 -0.21083
+
+	EWIN1
+		Images:	8217
+		Time:	06.05.2024 07:52:05 until 06.05.2024 15:19:40
+		Duration:	07:27:35
+		Location:	51.49673 -0.21083
+
+	FJIHI1
+		Images:	1881
+		Time:	06.05.2024 15:04:46 until 06.05.2024 20:01:01
+		Duration:	04:56:15
+		Location:	51.49673 -0.21083
+
+	FMKH1
+		Images:	1564
+		Time:	06.05.2024 15:22:32 until 06.05.2024 19:55:51
+		Duration:	04:33:19
+		Location:	51.49673 -0.21083
+

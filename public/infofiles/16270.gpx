@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "54.05894" lon = "-2.15301"><name>YCAN1</name><desc>Start
+Images:1439
+First:28.06.2025 06:09:12
+Last:28.06.2025 11:33:02
+Duration:05:23:50
+</desc></wpt>
+<wpt lat = "54.05894" lon = "-2.15301"><name>PHBU1</name><desc>Start
+Images:7068
+First:28.06.2025 06:17:22
+Last:28.06.2025 10:31:24
+Duration:04:14:02
+</desc></wpt>
+<wpt lat = "54.06592" lon = "-1.99991"><name>CUP1</name><desc>18,0 km
+Images:11763
+First:28.06.2025 07:36:15
+Last:28.06.2025 16:12:31
+Duration:08:36:16
+</desc></wpt>
+<wpt lat = "54.06553" lon = "-2.13735"><name>PHBU2</name><desc>39,0 km
+Images:3032
+First:28.06.2025 10:52:09
+Last:28.06.2025 19:42:18
+Duration:08:50:09
+</desc></wpt>
+<wpt lat = "54.06264" lon = "-1.96254"><name>KSTH1</name><desc>Finish
+Images:2408
+First:28.06.2025 08:58:10
+Last:28.06.2025 17:15:23
+Duration:08:17:13
+</desc></wpt>
+<wpt lat = "54.05894" lon = "-2.15301"><name>KSTH2</name><desc>Finish
+Images:255
+First:28.06.2025 18:48:05
+Last:28.06.2025 21:06:25
+Duration:02:18:20
+</desc></wpt>
+<wpt lat = "54.05894" lon = "-2.15301"><name>YCAN2</name><desc>Finish
+Images:3415
+First:28.06.2025 11:49:21
+Last:28.06.2025 20:44:25
+Duration:08:55:04
+</desc></wpt>
+<wpt lat = "54.05894" lon = "-2.15301"><name>CUP2</name><desc>Finish
+Images:1236
+First:28.06.2025 17:42:11
+Last:28.06.2025 18:46:23
+Duration:01:04:12
+</desc></wpt>
+</gpx>

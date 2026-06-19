@@ -1,0 +1,330 @@
+EventId: 15354
+Spots: 52
+Total Images: 123361
+Time:	02.05.2025 22:25:54 to 03.05.2025 19:36:39
+Duration: 21:10:45
+
+(1) - Finish
+	GIP1
+		Images:	1001
+		Time:	03.05.2025 13:01:05 until 03.05.2025 17:04:40
+		Duration:	04:03:35
+		Location:	19.14854 72.85424
+
+	GIP1LS1
+		Images:	1432
+		Time:	03.05.2025 07:43:30 until 03.05.2025 19:33:21
+		Duration:	11:49:51
+		Location:	19.14854 72.85424
+
+	HTT1LS1
+		Images:	3087
+		Time:	03.05.2025 07:31:58 until 03.05.2025 19:30:52
+		Duration:	11:58:54
+		Location:	19.14854 72.85424
+
+	KEHI1
+		Images:	1423
+		Time:	02.05.2025 23:09:13 until 03.05.2025 14:01:17
+		Duration:	14:52:04
+		Location:	19.14854 72.85424
+
+	MVV2
+		Images:	1151
+		Time:	03.05.2025 14:02:36 until 03.05.2025 19:34:01
+		Duration:	05:31:25
+		Location:	19.14854 72.85424
+
+(2) - Medalwall
+	HTT1
+		Images:	806
+		Time:	03.05.2025 13:38:30 until 03.05.2025 17:04:41
+		Duration:	03:26:11
+		Location:	19.14854 72.85424
+
+	KKES2
+		Images:	1998
+		Time:	03.05.2025 14:03:13 until 03.05.2025 19:34:50
+		Duration:	05:31:37
+		Location:	19.14854 72.85424
+
+	SAUS1
+		Images:	1504
+		Time:	03.05.2025 08:14:42 until 03.05.2025 13:39:17
+		Duration:	05:24:35
+		Location:	19.14854 72.85424
+
+(3) - Station 6 Farmers Carry
+	NNG1LS2
+		Images:	6060
+		Time:	03.05.2025 08:24:34 until 03.05.2025 18:55:56
+		Duration:	10:31:22
+		Location:	19.14854 72.85424
+
+	MVV2LS1
+		Images:	5298
+		Time:	02.05.2025 22:25:54 until 03.05.2025 19:36:39
+		Duration:	21:10:45
+		Location:	19.14854 72.85424
+
+(4) - Station 1 Ski Erg
+	AMAR2
+		Images:	1807
+		Time:	03.05.2025 14:18:12 until 03.05.2025 17:49:17
+		Duration:	03:31:05
+		Location:	19.14854 72.85424
+
+	HTT2
+		Images:	4434
+		Time:	03.05.2025 08:12:27 until 03.05.2025 11:28:13
+		Duration:	03:15:46
+		Location:	19.14854 72.85424
+
+	KADE1
+		Images:	2968
+		Time:	03.05.2025 07:52:07 until 03.05.2025 13:52:58
+		Duration:	06:00:51
+		Location:	19.14854 72.85424
+
+	KAJ1
+		Images:	7352
+		Time:	03.05.2025 08:03:53 until 03.05.2025 13:53:04
+		Duration:	05:49:11
+		Location:	19.14854 72.85424
+
+	NNG1
+		Images:	237
+		Time:	03.05.2025 11:03:44 until 03.05.2025 11:22:23
+		Duration:	00:18:39
+		Location:	19.14854 72.85424
+
+	SSR2
+		Images:	1979
+		Time:	03.05.2025 14:16:53 until 03.05.2025 17:48:42
+		Duration:	03:31:49
+		Location:	19.14854 72.85424
+
+(5) - Station 2 Sled Push
+	AMAR1
+		Images:	2045
+		Time:	03.05.2025 07:36:49 until 03.05.2025 14:16:27
+		Duration:	06:39:38
+		Location:	19.14854 72.85424
+
+	HTT3
+		Images:	1177
+		Time:	03.05.2025 11:30:28 until 03.05.2025 11:52:54
+		Duration:	00:22:26
+		Location:	19.14854 72.85424
+
+	KADE2
+		Images:	896
+		Time:	03.05.2025 12:26:58 until 03.05.2025 18:11:01
+		Duration:	05:44:03
+		Location:	19.14854 72.85424
+
+	KAJ2
+		Images:	1350
+		Time:	03.05.2025 14:28:25 until 03.05.2025 18:00:08
+		Duration:	03:31:43
+		Location:	19.14854 72.85424
+
+	NNG2
+		Images:	319
+		Time:	03.05.2025 11:30:29 until 03.05.2025 11:53:08
+		Duration:	00:22:39
+		Location:	19.14854 72.85424
+
+	SSR1
+		Images:	2034
+		Time:	03.05.2025 07:55:42 until 03.05.2025 14:08:17
+		Duration:	06:12:35
+		Location:	19.14854 72.85424
+
+(6) - Station 3 Sled Pull
+	HTT4
+		Images:	2714
+		Time:	03.05.2025 11:57:53 until 03.05.2025 15:59:58
+		Duration:	04:02:05
+		Location:	19.14854 72.85424
+
+	MUAS1
+		Images:	3149
+		Time:	03.05.2025 08:33:16 until 03.05.2025 14:15:53
+		Duration:	05:42:37
+		Location:	19.14854 72.85424
+
+	NNG3
+		Images:	842
+		Time:	03.05.2025 12:09:18 until 03.05.2025 15:51:15
+		Duration:	03:41:57
+		Location:	19.14854 72.85424
+
+	PASA2
+		Images:	1154
+		Time:	03.05.2025 14:14:52 until 03.05.2025 18:11:18
+		Duration:	03:56:26
+		Location:	19.14854 72.85424
+
+	SAS2
+		Images:	2440
+		Time:	03.05.2025 14:33:54 until 03.05.2025 18:15:41
+		Duration:	03:41:47
+		Location:	19.14854 72.85424
+
+	SHJA1
+		Images:	5375
+		Time:	03.05.2025 08:34:48 until 03.05.2025 14:12:14
+		Duration:	05:37:26
+		Location:	19.14854 72.85424
+
+(7) - Station 4 Burpees
+	AMG2
+		Images:	1631
+		Time:	03.05.2025 14:12:40 until 03.05.2025 18:30:33
+		Duration:	04:17:53
+		Location:	19.14854 72.85424
+
+	GIP2
+		Images:	1094
+		Time:	03.05.2025 12:28:05 until 03.05.2025 16:39:45
+		Duration:	04:11:40
+		Location:	19.14854 72.85424
+
+	PASA1
+		Images:	2576
+		Time:	03.05.2025 08:05:00 until 03.05.2025 14:10:38
+		Duration:	06:05:38
+		Location:	19.14854 72.85424
+
+(8) - Station 5 Rowing
+	AMG1
+		Images:	1681
+		Time:	03.05.2025 08:45:44 until 03.05.2025 14:02:52
+		Duration:	05:17:08
+		Location:	19.14854 72.85424
+
+	HTT5
+		Images:	3021
+		Time:	03.05.2025 12:38:05 until 03.05.2025 16:18:40
+		Duration:	03:40:35
+		Location:	19.14854 72.85424
+
+	KSJK2
+		Images:	2706
+		Time:	03.05.2025 14:34:37 until 03.05.2025 18:19:39
+		Duration:	03:45:02
+		Location:	19.14854 72.85424
+
+	NNG5
+		Images:	781
+		Time:	03.05.2025 12:38:47 until 03.05.2025 16:14:00
+		Duration:	03:35:13
+		Location:	19.14854 72.85424
+
+	RAME2
+		Images:	2822
+		Time:	03.05.2025 14:28:38 until 03.05.2025 18:38:59
+		Duration:	04:10:21
+		Location:	19.14854 72.85424
+
+	SAS1
+		Images:	4047
+		Time:	02.05.2025 22:28:51 until 03.05.2025 14:06:59
+		Duration:	15:38:08
+		Location:	19.14854 72.85424
+
+(9) - Run Between Sled Push and Sled Pull
+	NNG1LS1
+		Images:	2285
+		Time:	03.05.2025 08:50:22 until 03.05.2025 18:22:17
+		Duration:	09:31:55
+		Location:	19.14854 72.85424
+
+(10) - Station 7 Sandbag Lunges
+	RAME1
+		Images:	2939
+		Time:	02.05.2025 23:23:10 until 03.05.2025 14:21:19
+		Duration:	14:58:09
+		Location:	19.14854 72.85424
+
+	HTT6
+		Images:	1791
+		Time:	03.05.2025 13:08:26 until 03.05.2025 16:42:30
+		Duration:	03:34:04
+		Location:	19.14854 72.85424
+
+	KSJK1
+		Images:	882
+		Time:	02.05.2025 23:18:28 until 03.05.2025 14:20:56
+		Duration:	15:02:28
+		Location:	19.14854 72.85424
+
+	MUAS2
+		Images:	2821
+		Time:	03.05.2025 14:38:12 until 03.05.2025 19:07:50
+		Duration:	04:29:38
+		Location:	19.14854 72.85424
+
+	NNG6
+		Images:	871
+		Time:	03.05.2025 13:10:47 until 03.05.2025 16:42:54
+		Duration:	03:32:07
+		Location:	19.14854 72.85424
+
+	SHJA2
+		Images:	2465
+		Time:	03.05.2025 14:33:56 until 03.05.2025 18:49:45
+		Duration:	04:15:49
+		Location:	19.14854 72.85424
+
+(11) - Station 8 Wall Balls
+	HTT7
+		Images:	151
+		Time:	03.05.2025 17:14:59 until 03.05.2025 17:22:35
+		Duration:	00:07:36
+		Location:	19.14854 72.85424
+
+	GIP3
+		Images:	865
+		Time:	03.05.2025 13:35:36 until 03.05.2025 17:18:58
+		Duration:	03:43:22
+		Location:	19.14854 72.85424
+
+	KKES1
+		Images:	3836
+		Time:	03.05.2025 08:08:02 until 03.05.2025 13:38:11
+		Duration:	05:30:09
+		Location:	19.14854 72.85424
+
+	KEHI2
+		Images:	2097
+		Time:	03.05.2025 14:10:53 until 03.05.2025 19:26:30
+		Duration:	05:15:37
+		Location:	19.14854 72.85424
+
+	MVV1
+		Images:	7344
+		Time:	03.05.2025 09:06:08 until 03.05.2025 13:31:14
+		Duration:	04:25:06
+		Location:	19.14854 72.85424
+
+	NNG4
+		Images:	787
+		Time:	03.05.2025 13:31:18 until 03.05.2025 17:15:48
+		Duration:	03:44:30
+		Location:	19.14854 72.85424
+
+	SAUS2
+		Images:	6154
+		Time:	03.05.2025 14:03:09 until 03.05.2025 19:26:20
+		Duration:	05:23:11
+		Location:	19.14854 72.85424
+
+(12) - Venue
+	GIP4
+		Images:	1682
+		Time:	03.05.2025 08:57:25 until 03.05.2025 14:23:35
+		Duration:	05:26:10
+		Location:	19.14854 72.85424
+

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "48.06931" lon = "6.86822"><name>DABI1</name><desc>Start
+Images:479
+First:31.08.2025 07:25:50
+Last:31.08.2025 08:57:19
+Duration:01:31:29
+</desc></wpt>
+<wpt lat = "48.06218" lon = "6.98345"><name>EVL1</name><desc>9,5 km
+Images:696
+First:31.08.2025 07:52:24
+Last:31.08.2025 09:17:59
+Duration:01:25:35
+</desc></wpt>
+<wpt lat = "48.06218" lon = "6.98345"><name>EVL1LS1</name><desc>9,5 km
+Images:257
+First:31.08.2025 07:48:05
+Last:31.08.2025 09:17:15
+Duration:01:29:10
+</desc></wpt>
+<wpt lat = "48.06177" lon = "7.01918"><name>MRO1</name><desc>12,5 km
+Images:1186
+First:31.08.2025 07:34:56
+Last:31.08.2025 09:36:28
+Duration:02:01:32
+</desc></wpt>
+<wpt lat = "48.03721" lon = "7.00801"><name>LBO1</name><desc>14,3 km
+Images:896
+First:31.08.2025 08:27:08
+Last:31.08.2025 09:43:06
+Duration:01:15:58
+</desc></wpt>
+<wpt lat = "48.05228" lon = "6.94495"><name>MRO2</name><desc>141,8 km
+Images:1629
+First:31.08.2025 10:01:13
+Last:31.08.2025 16:40:12
+Duration:06:38:59
+</desc></wpt>
+<wpt lat = "48.03973" lon = "6.93033"><name>LBO2</name><desc>143,8 km
+Images:876
+First:31.08.2025 10:13:11
+Last:31.08.2025 16:43:23
+Duration:06:30:12
+</desc></wpt>
+<wpt lat = "48.02524" lon = "6.89670"><name>EVL2</name><desc>155,0 km
+Images:625
+First:31.08.2025 11:17:02
+Last:31.08.2025 16:55:21
+Duration:05:38:19
+</desc></wpt>
+<wpt lat = "48.02524" lon = "6.89670"><name>EVL2LS1</name><desc>155,0 km
+Images:1011
+First:31.08.2025 11:15:39
+Last:31.08.2025 16:58:14
+Duration:05:42:35
+</desc></wpt>
+<wpt lat = "48.05967" lon = "6.89239"><name>DABI2</name><desc>Finish
+Images:2315
+First:31.08.2025 11:40:42
+Last:31.08.2025 16:29:08
+Duration:04:48:26
+</desc></wpt>
+<wpt lat = "48.05967" lon = "6.89210"><name>DABI2LS1</name><desc>Finish
+Images:400
+First:31.08.2025 11:37:23
+Last:31.08.2025 16:32:38
+Duration:04:55:15
+</desc></wpt>
+<wpt lat = "48.06218" lon = "6.98345"><name>EVL1DRONE1</name><desc>Impressions / Pano
+Images:13
+First:31.08.2025 09:01:00
+Last:31.08.2025 09:06:22
+Duration:00:05:22
+</desc></wpt>
+<wpt lat = "48.06931" lon = "6.86822"><name>PANO1</name><desc>Impressions / Pano
+Images:1
+First:31.08.2025 15:30:02
+Last:31.08.2025 15:30:02
+Duration:00:00:00
+</desc></wpt>
+</gpx>

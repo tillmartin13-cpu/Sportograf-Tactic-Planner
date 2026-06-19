@@ -1,0 +1,136 @@
+EventId: 14262
+Spots: 20
+Total Images: 30959
+Time:	05.12.2025 04:56:13 to 05.12.2025 14:25:58
+Duration: 09:29:45
+
+(1) - Swim - Start
+	ADSM1
+		Images:	110
+		Time:	05.12.2025 04:59:32 until 05.12.2025 05:44:18
+		Duration:	00:44:46
+		Location:	26.23625 50.56078
+
+	GSH1
+		Images:	2918
+		Time:	05.12.2025 04:56:13 until 05.12.2025 07:05:10
+		Duration:	02:08:57
+		Location:	26.23625 50.56078
+
+(2) - Bike - 89.0 km
+	ADSM3
+		Images:	1117
+		Time:	05.12.2025 07:55:37 until 05.12.2025 10:26:47
+		Duration:	02:31:10
+		Location:	26.23360 50.56072
+
+(3) - Bike - 2.0 km
+	ADSM2
+		Images:	595
+		Time:	05.12.2025 05:51:51 until 05.12.2025 07:51:16
+		Duration:	01:59:25
+		Location:	26.23348 50.56411
+
+(4) - Finish
+	ADSM4
+		Images:	1266
+		Time:	05.12.2025 10:37:04 until 05.12.2025 13:16:33
+		Duration:	02:39:29
+		Location:	26.23688 50.56022
+
+	GSH2
+		Images:	2962
+		Time:	05.12.2025 08:48:55 until 05.12.2025 14:17:58
+		Duration:	05:29:03
+		Location:	26.23688 50.56022
+
+	MISE3
+		Images:	949
+		Time:	05.12.2025 11:13:58 until 05.12.2025 13:50:53
+		Duration:	02:36:55
+		Location:	26.23688 50.56022
+
+	MUP2
+		Images:	4033
+		Time:	05.12.2025 08:28:21 until 05.12.2025 14:25:58
+		Duration:	05:57:37
+		Location:	26.23692 50.56021
+
+	MUP1LS3
+		Images:	963
+		Time:	05.12.2025 08:17:47 until 05.12.2025 13:43:15
+		Duration:	05:25:28
+		Location:	26.23692 50.56021
+
+	MUP1LS4
+		Images:	509
+		Time:	05.12.2025 07:44:00 until 05.12.2025 13:43:27
+		Duration:	05:59:27
+		Location:	26.23692 50.56021
+
+(5) - Swim - Transition zone
+	MGOT1
+		Images:	3967
+		Time:	05.12.2025 05:01:34 until 05.12.2025 09:50:10
+		Duration:	04:48:36
+		Location:	26.23623 50.56073
+
+(6) - Run - 1.0 km
+	MGOT2
+		Images:	2009
+		Time:	05.12.2025 09:50:10 until 05.12.2025 12:48:34
+		Duration:	02:58:24
+		Location:	26.23057 50.56089
+
+	MRGO3
+		Images:	42
+		Time:	05.12.2025 12:07:49 until 05.12.2025 13:14:04
+		Duration:	01:06:15
+		Location:	26.23360 50.56072
+
+(7) - Bike - 60.0 km
+	MISE1
+		Images:	11
+		Time:	05.12.2025 05:21:42 until 05.12.2025 06:04:57
+		Duration:	00:43:15
+		Location:	26.03680 50.51141
+
+	MISE2
+		Images:	4698
+		Time:	05.12.2025 06:34:16 until 05.12.2025 13:50:53
+		Duration:	07:16:37
+		Location:	26.03680 50.51141
+
+(8) - Run - 2.0 km
+	MRGO2
+		Images:	1057
+		Time:	05.12.2025 07:55:46 until 05.12.2025 11:26:17
+		Duration:	03:30:31
+		Location:	26.23292 50.55994
+
+(9) - Run - Transition zone
+	MRGO1
+		Images:	553
+		Time:	05.12.2025 05:01:53 until 05.12.2025 07:02:34
+		Duration:	02:00:41
+		Location:	26.23629 50.56066
+
+(10) - Bike - Transition zone
+	MUP1
+		Images:	1382
+		Time:	05.12.2025 04:56:40 until 05.12.2025 07:01:33
+		Duration:	02:04:53
+		Location:	26.23753 50.56045
+
+	MUP1LS1
+		Images:	915
+		Time:	05.12.2025 04:59:09 until 05.12.2025 07:08:17
+		Duration:	02:09:08
+		Location:	26.23753 50.56008
+
+	MUP1LS2
+		Images:	903
+		Time:	05.12.2025 04:59:42 until 05.12.2025 07:08:29
+		Duration:	02:08:47
+		Location:	26.23753 50.56008
+

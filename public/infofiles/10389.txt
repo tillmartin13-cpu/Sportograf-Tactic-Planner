@@ -1,0 +1,161 @@
+EventId: 10389
+Spots: 23
+Total Images: 102642
+Time:	01.01.0001 23:00:00 to 24.07.2023 01:00:13
+Duration: 738723.02:00:13
+
+(1) - 0.0 km FIN 854047 Toby
+	TCH1
+		Images:	12799
+		Time:	01.01.0001 23:00:00 until 23.07.2023 09:18:55
+		Duration:	738722.10:18:55
+		Location:	NULL NULL
+
+	TOBY1
+		Images:	7763
+		Time:	20.05.2023 08:19:25 until 23.07.2023 10:16:17
+		Duration:	64.01:56:52
+		Location:	NULL NULL
+
+(2) - 0.0 km FIN 854048 Antoinette B
+	ANTON1
+		Images:	4818
+		Time:	23.07.2023 07:27:25 until 23.07.2023 10:11:42
+		Duration:	02:44:17
+		Location:	NULL NULL
+
+(3) - 0.0 km MSC1 854087 Chris W
+	CHRIS1
+		Images:	11828
+		Time:	23.07.2023 15:24:15 until 23.07.2023 17:21:21
+		Duration:	01:57:06
+		Location:	NULL NULL
+
+(4) - 0.0 km MSC1 PR 854088
+	ALEX1
+		Images:	967
+		Time:	23.07.2023 08:29:28 until 23.07.2023 11:00:58
+		Duration:	02:31:30
+		Location:	NULL NULL
+
+(5) - 0.0 km MSC1 Trigger 854089
+	AUTOA1
+		Images:	4535
+		Time:	22.07.2023 08:17:14 until 22.07.2023 10:15:42
+		Duration:	01:58:28
+		Location:	NULL NULL
+
+(6) - 0.0 km MSC2 854090 Jeff F
+	JEFFF1
+		Images:	10988
+		Time:	23.07.2023 07:35:25 until 23.07.2023 13:59:41
+		Duration:	06:24:16
+		Location:	NULL NULL
+
+(7) - 0.0 km MSC2 854091 Reg R
+	REG1
+		Images:	4394
+		Time:	23.07.2023 08:44:31 until 23.07.2023 10:41:52
+		Duration:	01:57:21
+		Location:	NULL NULL
+
+(8) - 0.0 km MSC2 854092 Jesse C
+	JESSE1
+		Images:	4139
+		Time:	23.07.2023 07:15:13 until 23.07.2023 09:20:59
+		Duration:	02:05:46
+		Location:	NULL NULL
+
+(9) - 0.0 km MSC2 Trigger 854105
+	TRIGB1
+		Images:	2710
+		Time:	23.07.2023 10:10:16 until 23.07.2023 11:56:10
+		Duration:	01:45:54
+		Location:	NULL NULL
+
+(10) - 0.0 km PFN 854093 Elliot P
+	ELLIO1
+		Images:	10394
+		Time:	23.07.2023 08:57:09 until 23.07.2023 11:09:31
+		Duration:	02:12:22
+		Location:	NULL NULL
+
+(11) - 0.0 km PFN 854094 Emi Ito
+	EMI1
+		Images:	6443
+		Time:	23.07.2023 08:37:39 until 23.07.2023 11:06:55
+		Duration:	02:29:16
+		Location:	NULL NULL
+
+(12) - 0.0 km POST 854097 Richard R
+	RICHA1
+		Images:	824
+		Time:	23.07.2023 08:23:23 until 23.07.2023 11:41:32
+		Duration:	03:18:09
+		Location:	NULL NULL
+
+(13) - 0.0 km Post 854098 Austin F
+	AUSTI1
+		Images:	379
+		Time:	23.07.2023 07:10:58 until 23.07.2023 10:10:35
+		Duration:	02:59:37
+		Location:	NULL NULL
+
+(14) - 0.0 km POST 854103 Samatha H
+	SAMAT1
+		Images:	70
+		Time:	21.07.2023 21:49:38 until 21.07.2023 22:19:20
+		Duration:	00:29:42
+		Location:	NULL NULL
+
+(15) - 0.0 km Post FIN 854100 Luke P
+	LUKE1
+		Images:	187
+		Time:	23.07.2023 08:08:38 until 23.07.2023 11:26:56
+		Duration:	03:18:18
+		Location:	NULL NULL
+
+(16) - 0.0 km POST PR 854104 Laura G
+	LAURA1
+		Images:	1575
+		Time:	23.07.2023 08:20:16 until 23.07.2023 11:34:46
+		Duration:	03:14:30
+		Location:	NULL NULL
+
+(17) - 0.0 km PostFIN 854095 Justin A
+	JUSTI1
+		Images:	454
+		Time:	23.07.2023 00:03:39 until 23.07.2023 02:01:30
+		Duration:	01:57:51
+		Location:	NULL NULL
+
+(18) - 0.0 km PostFIN 854096 Bilal S
+	BS1
+		Images:	829
+		Time:	23.07.2023 08:34:10 until 23.07.2023 11:06:11
+		Duration:	02:32:01
+		Location:	NULL NULL
+
+(19) - 0.0 km PostFIN 854099 Kaitlyn J
+	KAITL1
+		Images:	886
+		Time:	22.07.2023 06:59:01 until 22.07.2023 10:17:08
+		Duration:	03:18:07
+		Location:	NULL NULL
+
+(20) - 0.0 km trig Finish 854049
+	TRIGF1
+		Images:	7945
+		Time:	23.07.2023 11:20:21 until 23.07.2023 14:09:00
+		Duration:	02:48:39
+		Location:	NULL NULL
+
+(21) - 0.0 km Trigger PFN 854101
+	TRIGC1
+		Images:	7715
+		Time:	23.07.2023 22:51:39 until 24.07.2023 01:00:13
+		Duration:	02:08:34
+		Location:	NULL NULL
+
+(22) - Impressions / Pano
+	PANO1

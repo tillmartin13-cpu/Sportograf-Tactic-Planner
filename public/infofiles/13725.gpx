@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "50.41816" lon = "12.93321"><name>MAE1</name><desc>Start
+Images:1629
+First:21.06.2025 06:01:32
+Last:21.06.2025 08:42:34
+Duration:02:41:02
+</desc></wpt>
+<wpt lat = "50.41860" lon = "12.93742"><name>MAE1LS2</name><desc>0.5 km
+Images:529
+First:21.06.2025 06:47:54
+Last:21.06.2025 08:40:58
+Duration:01:53:04
+</desc></wpt>
+<wpt lat = "50.41860" lon = "12.93742"><name>MAE1LS1</name><desc>0.5 km
+Images:797
+First:21.06.2025 05:53:49
+Last:21.06.2025 08:41:51
+Duration:02:48:02
+</desc></wpt>
+<wpt lat = "50.42413" lon = "12.92923"><name>THO1</name><desc>1.4 km
+Images:1464
+First:21.06.2025 04:47:06
+Last:21.06.2025 08:58:50
+Duration:04:11:44
+</desc></wpt>
+<wpt lat = "50.42413" lon = "12.92923"><name>THO1LS2</name><desc>1.4 km
+Images:825
+First:21.06.2025 06:02:52
+Last:21.06.2025 08:58:50
+Duration:02:55:58
+</desc></wpt>
+<wpt lat = "50.42413" lon = "12.92923"><name>THO1LS1</name><desc>1.4 km
+Images:793
+First:21.06.2025 06:07:02
+Last:21.06.2025 08:58:50
+Duration:02:51:48
+</desc></wpt>
+<wpt lat = "50.43169" lon = "12.89147"><name>DASC1</name><desc>4.5 km
+Images:2588
+First:21.06.2025 05:41:08
+Last:21.06.2025 09:32:25
+Duration:03:51:17
+</desc></wpt>
+<wpt lat = "50.43169" lon = "12.89147"><name>DASC1LS1</name><desc>4.5 km
+Images:925
+First:21.06.2025 06:11:58
+Last:21.06.2025 09:34:22
+Duration:03:22:24
+</desc></wpt>
+<wpt lat = "50.39929" lon = "12.77878"><name>DG1</name><desc>21.4 km
+Images:6621
+First:21.06.2025 05:44:22
+Last:21.06.2025 15:31:23
+Duration:09:47:01
+</desc></wpt>
+<wpt lat = "50.39929" lon = "12.77878"><name>DG1LS1</name><desc>21.4 km
+Images:6057
+First:21.06.2025 08:05:47
+Last:21.06.2025 14:36:59
+Duration:06:31:12
+</desc></wpt>
+<wpt lat = "50.41817" lon = "12.67688"><name>DG2</name><desc>32.7 km
+Images:864
+First:21.06.2025 15:32:22
+Last:21.06.2025 17:21:03
+Duration:01:48:41
+</desc></wpt>
+<wpt lat = "50.41817" lon = "12.67688"><name>DG2LS1</name><desc>32.7 km
+Images:333
+First:21.06.2025 15:27:19
+Last:21.06.2025 17:20:55
+Duration:01:53:36
+</desc></wpt>
+<wpt lat = "50.43095" lon = "12.70648"><name>THO2</name><desc>Finish 35km
+Images:1213
+First:21.06.2025 10:27:33
+Last:21.06.2025 18:05:26
+Duration:07:37:53
+</desc></wpt>
+<wpt lat = "50.43095" lon = "12.70648"><name>THO2LS2</name><desc>Finish 35km
+Images:429
+First:21.06.2025 10:34:18
+Last:21.06.2025 18:14:48
+Duration:07:40:30
+</desc></wpt>
+<wpt lat = "50.43095" lon = "12.70648"><name>THO2LS1</name><desc>Finish
+Images:423
+First:21.06.2025 11:16:21
+Last:21.06.2025 18:14:49
+Duration:06:58:28
+</desc></wpt>
+<wpt lat = "50.45597" lon = "12.64420"><name>MAE2</name><desc>Finish
+Images:1965
+First:21.06.2025 12:14:10
+Last:21.06.2025 19:36:14
+Duration:07:22:04
+</desc></wpt>
+<wpt lat = "50.45545" lon = "12.64600"><name>MAE2LS1</name><desc>Finish
+Images:632
+First:21.06.2025 12:12:42
+Last:21.06.2025 19:35:31
+Duration:07:22:49
+</desc></wpt>
+<wpt lat = "50.45545" lon = "12.64600"><name>MAE2LS2</name><desc>Finish
+Images:678
+First:21.06.2025 12:41:42
+Last:21.06.2025 19:34:37
+Duration:06:52:55
+</desc></wpt>
+<wpt lat = "50.45597" lon = "12.64420"><name>MAE2DRONE1</name><desc>Finish
+Images:31
+First:21.06.2025 06:19:22
+Last:21.06.2025 13:14:46
+Duration:06:55:24
+</desc></wpt>
+<wpt lat = "50.42449" lon = "12.59581"><name>DASC2</name><desc>39.7 km
+Images:1765
+First:21.06.2025 11:08:10
+Last:21.06.2025 17:04:54
+Duration:05:56:44
+</desc></wpt>
+<wpt lat = "50.42449" lon = "12.59581"><name>DASC2LS1</name><desc>39.7 km
+Images:858
+First:21.06.2025 11:32:03
+Last:21.06.2025 17:04:56
+Duration:05:32:53
+</desc></wpt>
+</gpx>

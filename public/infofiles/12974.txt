@@ -1,0 +1,156 @@
+EventId: 12974
+Spots: 58
+Total Images: 132389
+Time:	28.11.2019 10:17:32 to 28.01.2024 12:28:33
+Duration: 1522.02:11:01
+
+(1) - 0.0 km
+	AAKR1
+		Images:	5039
+		Time:	28.01.2024 07:24:10 until 28.01.2024 10:29:04
+		Duration:	03:04:54
+		Location:	NULL NULL
+
+	AAKR1LS1
+		Images:	3782
+		Time:	28.01.2024 08:11:00 until 28.01.2024 09:44:17
+		Duration:	01:33:17
+		Location:	NULL NULL
+
+	AASH1
+	ACDS1
+		Images:	3298
+		Time:	28.01.2024 07:28:22 until 28.01.2024 09:28:20
+		Duration:	01:59:58
+		Location:	NULL NULL
+
+	ACMC1
+	ACST1
+		Images:	9736
+		Time:	28.01.2024 07:37:22 until 28.01.2024 10:12:04
+		Duration:	02:34:42
+		Location:	NULL NULL
+
+	ADBO1
+	ADBOO1
+	ADBOO1LS1
+	ADKE1
+	AJCC1
+	AJCC1LS1
+	AJDE1
+		Images:	7234
+		Time:	28.01.2024 07:00:55 until 28.01.2024 08:58:30
+		Duration:	01:57:35
+		Location:	NULL NULL
+
+	AJDEE1
+		Images:	6388
+		Time:	28.01.2024 09:10:12 until 28.01.2024 11:02:55
+		Duration:	01:52:43
+		Location:	NULL NULL
+
+	AJDEE1LS1
+	AJKA1
+	AJMT1
+	AJRI1
+	ALED1
+	ALED1LS1
+	ALMA1
+	AMHI1
+	AMMO1
+		Images:	31411
+		Time:	28.01.2024 07:08:26 until 28.01.2024 09:48:08
+		Duration:	02:39:42
+		Location:	NULL NULL
+
+	APKO1
+	ARMI1
+	ARRE1
+		Images:	1341
+		Time:	28.11.2019 10:17:32 until 28.11.2019 12:30:44
+		Duration:	02:13:12
+		Location:	NULL NULL
+
+	AWDE1
+	AWDEE1
+		Images:	3730
+		Time:	28.01.2024 09:06:19 until 28.01.2024 11:03:34
+		Duration:	01:57:15
+		Location:	NULL NULL
+
+	AWDEE1LS1
+	BAKR1
+	BASH1
+		Images:	14117
+		Time:	28.01.2024 08:10:23 until 28.01.2024 10:36:38
+		Duration:	02:26:15
+		Location:	NULL NULL
+
+	BBDOO1
+		Images:	7678
+		Time:	28.01.2024 09:50:25 until 28.01.2024 12:28:33
+		Duration:	02:38:08
+		Location:	NULL NULL
+
+	BBDOO1LS1
+		Images:	8818
+		Time:	28.01.2024 04:32:18 until 28.01.2024 07:43:11
+		Duration:	03:10:53
+		Location:	NULL NULL
+
+	BCDS1
+	BCMC1
+	BCST1
+	BDBO1
+		Images:	9483
+		Time:	28.01.2024 08:07:32 until 28.01.2024 09:36:55
+		Duration:	01:29:23
+		Location:	NULL NULL
+
+	BDKE1
+	BJCC1
+	BJCC1LS1
+	BJDE1
+	BJDEE1
+	BJDEE1LS1
+		Images:	4351
+		Time:	28.01.2024 08:27:28 until 28.01.2024 11:49:56
+		Duration:	03:22:28
+		Location:	NULL NULL
+
+	BJKA1
+	BJMT1
+		Images:	740
+		Time:	28.01.2024 09:12:34 until 28.01.2024 11:42:07
+		Duration:	02:29:33
+		Location:	NULL NULL
+
+	BJRI1
+	BLED1
+	BLED1LS1
+	BLMA1
+		Images:	1602
+		Time:	28.01.2024 09:11:11 until 28.01.2024 11:40:27
+		Duration:	02:29:16
+		Location:	NULL NULL
+
+	BMHI1
+	BMMO1
+	BPKO1
+		Images:	4316
+		Time:	28.01.2024 09:03:47 until 28.01.2024 11:14:43
+		Duration:	02:10:56
+		Location:	NULL NULL
+
+	BRMI1
+	BRRE1
+	BWDE1
+	BWDEE1
+	BWDEE1LS1
+		Images:	9325
+		Time:	28.01.2024 08:32:45 until 28.01.2024 11:39:02
+		Duration:	03:06:17
+		Location:	NULL NULL
+
+(2) - Impressions / Pano
+	PANO1

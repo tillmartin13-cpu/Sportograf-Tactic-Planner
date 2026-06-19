@@ -2,6 +2,17 @@ import { useState } from 'react';
 import { usePlannerStore } from '../store/usePlannerStore';
 import { useCurrentEvent } from '../hooks/useCurrentEvent';
 
+const VEHICLE_TYPES = [
+  { value: 'private', label: 'Private Car', emoji: '🚗' },
+  { value: 'rental', label: 'Rental', emoji: '🔑' },
+  { value: 'van', label: 'Sportograf Van', emoji: '🚐' },
+  { value: 'other', label: 'Other', emoji: '🚙' },
+];
+
+function vehicleEmoji(type) {
+  return VEHICLE_TYPES.find((v) => v.value === type)?.emoji ?? '🚗';
+}
+
 function CarCard({ car, photographers, onUpdate, onDelete }) {
   const [editingDriver, setEditingDriver] = useState(false);
   const [driverDraft, setDriverDraft] = useState(car.driver);
@@ -43,7 +54,16 @@ function CarCard({ car, photographers, onUpdate, onDelete }) {
     >
       <div className="flex items-center justify-between gap-2 mb-2">
         <div className="flex items-center gap-1.5 min-w-0">
-          <span className="text-base">🚗</span>
+          <select
+            value={car.vehicleType || 'private'}
+            onChange={(e) => onUpdate({ vehicleType: e.target.value })}
+            className="border-none bg-transparent outline-none cursor-pointer text-base pr-1"
+            title="Vehicle type"
+          >
+            {VEHICLE_TYPES.map((v) => (
+              <option key={v.value} value={v.value}>{v.emoji} {v.label}</option>
+            ))}
+          </select>
           {editingDriver ? (
             <input
               autoFocus
@@ -126,7 +146,7 @@ function PhotographerChip({ photographer, assignedCarId }) {
   );
 }
 
-export function TravelPanel() {
+export function TravelPanel({ alwaysExpanded = false }) {
   const event = useCurrentEvent();
   const allPhotographers = usePlannerStore((s) => s.photographers) || [];
   const photographers = event
@@ -136,7 +156,7 @@ export function TravelPanel() {
     : [];
   const updateEvent = usePlannerStore((s) => s.updateEvent);
 
-  const [collapsed, setCollapsed] = useState(true);
+  const [collapsed, setCollapsed] = useState(!alwaysExpanded);
   const [addingCar, setAddingCar] = useState(false);
   const [newDriver, setNewDriver] = useState('');
   const [newSeats, setNewSeats] = useState(4);

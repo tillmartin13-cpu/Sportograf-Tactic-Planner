@@ -1,0 +1,357 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "37.89314" lon = "-4.77991"><name>PANO1</name><desc>Impressions / Pano
+Images:4
+First:27.02.2025 09:48:56
+Last:27.02.2025 13:24:16
+Duration:03:35:20
+</desc></wpt>
+<wpt lat = "37.20841" lon = "-3.49263"><name>S1MANR1DRONE1</name><desc>Impressions / Pano
+Images:7
+First:24.02.2025 08:15:49
+Last:24.02.2025 10:33:28
+Duration:02:17:39
+</desc></wpt>
+<wpt lat = "37.15476" lon = "-3.55709"><name>S2MANR1DRONE1</name><desc>Impressions / Pano
+Images:5
+First:26.02.2025 10:50:23
+Last:26.02.2025 12:09:42
+Duration:01:19:19
+</desc></wpt>
+<wpt lat = "37.75991" lon = "-3.84171"><name>S4MANR1DRONE1</name><desc>Impressions / Pano
+Images:37
+First:27.02.2025 09:47:55
+Last:27.02.2025 11:36:32
+Duration:01:48:37
+</desc></wpt>
+<wpt lat = "37.20841" lon = "-3.49263"><name>S1MANR1</name><desc>Stage 1 -Km 16,5
+Images:1521
+First:24.02.2025 09:42:46
+Last:24.02.2025 10:34:01
+Duration:00:51:15
+</desc></wpt>
+<wpt lat = "37.20839" lon = "-3.4929"><name>S1MANR1LS1</name><desc>Stage 1 -Km 17
+Images:452
+First:24.02.2025 08:44:13
+Last:24.02.2025 09:54:31
+Duration:01:10:18
+</desc></wpt>
+<wpt lat = "37.22016" lon = "-3.45211"><name>S1TGM1LS1</name><desc>Stage 1 -Km 21,4
+Images:530
+First:24.02.2025 08:58:16
+Last:24.02.2025 11:22:07
+Duration:02:23:51
+</desc></wpt>
+<wpt lat = "37.21997" lon = "-3.45186"><name>S1TGM1</name><desc>Stage 1 -Km 21,5
+Images:2349
+First:24.02.2025 09:58:38
+Last:24.02.2025 11:21:53
+Duration:01:23:15
+</desc></wpt>
+<wpt lat = "37.21997" lon = "-3.45186"><name>S1TGM1LS2</name><desc>Stage 1 -Km 21,5
+Images:536
+First:24.02.2025 08:20:33
+Last:24.02.2025 11:22:17
+Duration:03:01:44
+</desc></wpt>
+<wpt lat = "37.23100" lon = "-3.44377"><name>S1JCFJ1</name><desc>Stage 1 -Km 23
+Images:4558
+First:24.02.2025 09:02:06
+Last:24.02.2025 12:46:43
+Duration:03:44:37
+</desc></wpt>
+<wpt lat = "37.23100" lon = "-3.44377"><name>S1JCFJ1LS1</name><desc>Stage 1 -Km 23
+Images:984
+First:24.02.2025 09:03:30
+Last:24.02.2025 12:42:10
+Duration:03:38:40
+</desc></wpt>
+<wpt lat = "37.15499" lon = "-3.54053"><name>S1JCFJ2</name><desc>Stage 1 -Km 61
+Images:1235
+First:24.02.2025 12:49:27
+Last:24.02.2025 15:44:53
+Duration:02:55:26
+</desc></wpt>
+<wpt lat = "37.15499" lon = "-3.54053"><name>S1JCFJ2LS1</name><desc>Stage 1 -Km 61
+Images:248
+First:24.02.2025 12:42:19
+Last:24.02.2025 15:17:18
+Duration:02:34:59
+</desc></wpt>
+<wpt lat = "37.15695" lon = "-3.54895"><name>S1MANR2</name><desc>Stage 1 -Km 62,5
+Images:1123
+First:24.02.2025 12:13:48
+Last:24.02.2025 15:21:03
+Duration:03:07:15
+</desc></wpt>
+<wpt lat = "37.15695" lon = "-3.54895"><name>S1MANR2LS1</name><desc>Stage 1 -Km 62,5
+Images:344
+First:24.02.2025 11:35:43
+Last:24.02.2025 13:44:58
+Duration:02:09:15
+</desc></wpt>
+<wpt lat = "37.15695" lon = "-3.54895"><name>S1TGM2</name><desc>Stage 1 -Km 62,5
+Images:197
+First:24.02.2025 12:47:57
+Last:24.02.2025 15:22:19
+Duration:02:34:22
+</desc></wpt>
+<wpt lat = "37.21979" lon = "-3.45169"><name>S1TGM2LS1</name><desc>Stage 1 -Km 63
+Images:584
+First:24.02.2025 12:18:57
+Last:24.02.2025 15:21:52
+Duration:03:02:55
+</desc></wpt>
+<wpt lat = "37.15604" lon = "-3.55906"><name>S2TGM1</name><desc>Stage 2 -Km 14,3
+Images:488
+First:25.02.2025 09:39:31
+Last:25.02.2025 11:28:59
+Duration:01:49:28
+</desc></wpt>
+<wpt lat = "37.15589" lon = "-3.55927"><name>S2TGM1LS1</name><desc>Stage 2 -Km 14,4
+Images:511
+First:25.02.2025 08:22:54
+Last:25.02.2025 11:29:22
+Duration:03:06:28
+</desc></wpt>
+<wpt lat = "37.1549" lon = "-3.55675"><name>S2MANR1LS1</name><desc>Stage 2 -Km 16,5
+Images:704
+First:25.02.2025 09:39:24
+Last:25.02.2025 12:36:16
+Duration:02:56:52
+</desc></wpt>
+<wpt lat = "37.15499" lon = "-3.55705"><name>S2MANR1LS2</name><desc>Stage 2 -Km 16,6
+Images:149
+First:25.02.2025 08:57:54
+Last:25.02.2025 09:12:05
+Duration:00:14:11
+</desc></wpt>
+<wpt lat = "37.15476" lon = "-3.55709"><name>S2MANR1</name><desc>Stage 2 -Km 16,7
+Images:1822
+First:24.02.2025 18:39:37
+Last:25.02.2025 11:39:39
+Duration:17:00:02
+</desc></wpt>
+<wpt lat = "37.15496" lon = "-3.55523"><name>S2JCFJ1</name><desc>Stage 2 -Km 17
+Images:3936
+First:25.02.2025 09:10:33
+Last:25.02.2025 11:44:28
+Duration:02:33:55
+</desc></wpt>
+<wpt lat = "37.15496" lon = "-3.55524"><name>S2JCFJ1LS3</name><desc>Stage 2 -Km 17,2
+Images:566
+First:25.02.2025 09:01:31
+Last:25.02.2025 11:42:57
+Duration:02:41:26
+</desc></wpt>
+<wpt lat = "37.15476" lon = "-3.55530"><name>S2JCFJ1LS2</name><desc>Stage 2 -Km 17,3
+Images:614
+First:25.02.2025 09:01:52
+Last:25.02.2025 11:44:21
+Duration:02:42:29
+</desc></wpt>
+<wpt lat = "37.15476" lon = "-3.55530"><name>S2JCFJ1LS1</name><desc>Stage 2 -Km 17,5
+Images:616
+First:25.02.2025 08:29:51
+Last:25.02.2025 11:44:21
+Duration:03:14:30
+</desc></wpt>
+<wpt lat = "37.15476" lon = "-3.55530"><name>S3JCFJ1LS2</name><desc>Stage 3 -Km 19,2
+Images:964
+First:26.02.2025 08:14:57
+Last:26.02.2025 11:26:16
+Duration:03:11:19
+</desc></wpt>
+<wpt lat = "37.15476" lon = "-3.55530"><name>S3JCFJ1</name><desc>Stage 3 -Km 19,2
+Images:5004
+First:26.02.2025 09:55:34
+Last:26.02.2025 11:27:09
+Duration:01:31:35
+</desc></wpt>
+<wpt lat = "37.15589" lon = "-3.55927"><name>S3TGM1</name><desc>Stage 3 -Km 19,4
+Images:3771
+First:26.02.2025 09:55:15
+Last:26.02.2025 11:26:51
+Duration:01:31:36
+</desc></wpt>
+<wpt lat = "37.15589" lon = "-3.55927"><name>S3TGM1LS1</name><desc>Stage 3 -Km 19,4
+Images:389
+First:26.02.2025 08:58:59
+Last:26.02.2025 11:27:11
+Duration:02:28:12
+</desc></wpt>
+<wpt lat = "37.76993" lon = "-3.58907"><name>S3MANR1LS1</name><desc>Stage 3 -Km 36
+Images:815
+First:26.02.2025 08:00:00
+Last:26.02.2025 12:20:38
+Duration:04:20:38
+</desc></wpt>
+<wpt lat = "37.76975" lon = "-3.58898"><name>S3MANR1</name><desc>Stage 3 -Km 36,2
+Images:966
+First:26.02.2025 08:56:43
+Last:26.02.2025 13:20:54
+Duration:04:24:11
+</desc></wpt>
+<wpt lat = "37.73973" lon = "-3.65487"><name>S3TGM2</name><desc>Stage 3 -Km 53
+Images:1379
+First:26.02.2025 12:41:40
+Last:26.02.2025 15:20:36
+Duration:02:38:56
+</desc></wpt>
+<wpt lat = "37.73311" lon = "-3.67930"><name>S3TGM2LS1</name><desc>Stage 3 -Km 53,1
+Images:403
+First:26.02.2025 12:18:27
+Last:26.02.2025 15:21:03
+Duration:03:02:36
+</desc></wpt>
+<wpt lat = "37.73311" lon = "-3.67930"><name>S3JCFJ2</name><desc>Stage 3 -Km 53,4
+Images:2612
+First:26.02.2025 12:19:13
+Last:26.02.2025 15:29:07
+Duration:03:09:54
+</desc></wpt>
+<wpt lat = "37.75957" lon = "-3.84270"><name>S4MANR1LS1</name><desc>Stage 4 -Km 23,8
+Images:454
+First:27.02.2025 07:49:38
+Last:27.02.2025 10:41:37
+Duration:02:51:59
+</desc></wpt>
+<wpt lat = "37.75991" lon = "-3.84171"><name>S4MANR1</name><desc>Stage 4 -Km 24
+Images:495
+First:27.02.2025 09:32:55
+Last:27.02.2025 12:05:03
+Duration:02:32:08
+</desc></wpt>
+<wpt lat = "37.76215" lon = "-3.82306"><name>S4JCFJ1LS1</name><desc>Stage 4 -Km 28,3
+Images:1162
+First:27.02.2025 09:27:46
+Last:27.02.2025 12:59:12
+Duration:03:31:26
+</desc></wpt>
+<wpt lat = "37.76176" lon = "-3.82380"><name>S4JCFJ1LS3</name><desc>Stage 4 -Km 28,4
+Images:1712
+First:27.02.2025 08:51:14
+Last:27.02.2025 13:00:12
+Duration:04:08:58
+</desc></wpt>
+<wpt lat = "37.76176" lon = "-3.82380"><name>S4JCFJ1LS2</name><desc>Stage 4 -Km 28,4
+Images:1990
+First:27.02.2025 08:29:49
+Last:27.02.2025 13:00:11
+Duration:04:30:22
+</desc></wpt>
+<wpt lat = "37.76157" lon = "-3.82413"><name>S4JCFJ1</name><desc>Stage 4 -Km 28,5
+Images:5661
+First:27.02.2025 09:29:48
+Last:27.02.2025 12:52:22
+Duration:03:22:34
+</desc></wpt>
+<wpt lat = "37.76118" lon = "-3.82434"><name>S4TGM1LS2</name><desc>Stage 4 -Km 28,6
+Images:573
+First:27.02.2025 09:40:51
+Last:27.02.2025 13:00:12
+Duration:03:19:21
+</desc></wpt>
+<wpt lat = "37.76111" lon = "-3.82473"><name>S4TGM1LS1</name><desc>Stage 4 -Km 28,7
+Images:509
+First:27.02.2025 08:38:36
+Last:27.02.2025 12:41:38
+Duration:04:03:02
+</desc></wpt>
+<wpt lat = "37.76116" lon = "-3.82391"><name>S4TGM1</name><desc>Stage 4 -Km 28,8
+Images:3861
+First:27.02.2025 10:22:16
+Last:27.02.2025 12:55:30
+Duration:02:33:14
+</desc></wpt>
+<wpt lat = "37.957" lon = "-4.8143"><name>S5MANR1LS2</name><desc>Stage 5 -Km 29,2
+Images:1413
+First:28.02.2025 07:45:09
+Last:28.02.2025 10:30:43
+Duration:02:45:34
+</desc></wpt>
+<wpt lat = "37.957" lon = "-4.8143"><name>S5MANR1LS1</name><desc>Stage 5 -Km 29,2
+Images:1556
+First:28.02.2025 08:10:04
+Last:28.02.2025 10:30:11
+Duration:02:20:07
+</desc></wpt>
+<wpt lat = "37.89314" lon = "-4.77991"><name>S5JCFJ1</name><desc>Start
+Images:506
+First:28.02.2025 07:50:02
+Last:28.02.2025 09:01:14
+Duration:01:11:12
+</desc></wpt>
+<wpt lat = "37.95694" lon = "-4.81491"><name>S5MANR1</name><desc>Stage 5 -Km 29,3
+Images:1243
+First:28.02.2025 09:41:43
+Last:28.02.2025 12:39:55
+Duration:02:58:12
+</desc></wpt>
+<wpt lat = "37.96091" lon = "-4.83194"><name>S5TGM1LS1</name><desc>Stage 5 -Km 31,4
+Images:346
+First:28.02.2025 09:02:32
+Last:28.02.2025 12:51:06
+Duration:03:48:34
+</desc></wpt>
+<wpt lat = "37.96097" lon = "-4.83194"><name>S5TGM1LS2</name><desc>Stage 5 -Km 31,5
+Images:457
+First:28.02.2025 09:10:28
+Last:28.02.2025 12:51:06
+Duration:03:40:38
+</desc></wpt>
+<wpt lat = "37.96174" lon = "-4.8319"><name>S5TGM1</name><desc>Stage 5 -Km 31,7
+Images:3537
+First:28.02.2025 10:16:39
+Last:28.02.2025 12:50:30
+Duration:02:33:51
+</desc></wpt>
+<wpt lat = "37.90314" lon = "-4.77805"><name>S5JCFJ2</name><desc>Finish
+Images:3568
+First:28.02.2025 10:24:28
+Last:28.02.2025 14:55:34
+Duration:04:31:06
+</desc></wpt>
+<wpt lat = "37.90314" lon = "-4.77805"><name>S5JCFJ2LS2</name><desc>Finish
+Images:617
+First:28.02.2025 11:05:41
+Last:28.02.2025 14:59:21
+Duration:03:53:40
+</desc></wpt>
+<wpt lat = "37.90314" lon = "-4.77805"><name>S5JCFJ2LS1</name><desc>Finish
+Images:404
+First:28.02.2025 10:04:22
+Last:28.02.2025 14:59:17
+Duration:04:54:55
+</desc></wpt>
+<wpt lat = "37.93297" lon = "-4.7673"><name>S6MANR1LS1</name><desc>Stage 6 -Km 6,2
+Images:559
+First:01.03.2025 06:28:06
+Last:01.03.2025 09:58:09
+Duration:03:30:03
+</desc></wpt>
+<wpt lat = "37.93218" lon = "-4.76778"><name>S6MANR1</name><desc>Stage 6 -Km 6,3
+Images:1309
+First:01.03.2025 07:59:12
+Last:01.03.2025 11:07:41
+Duration:03:08:29
+</desc></wpt>
+<wpt lat = "37.93272" lon = "-4.76849"><name>S6TGM1LS2</name><desc>Stage 6 -Km 6,5
+Images:539
+First:01.03.2025 08:21:27
+Last:01.03.2025 11:16:37
+Duration:02:55:10
+</desc></wpt>
+<wpt lat = "37.93283" lon = "-4.76841"><name>S6TGM1</name><desc>Stage 6 -Km 6,7
+Images:3956
+First:01.03.2025 08:42:30
+Last:01.03.2025 11:07:39
+Duration:02:25:09
+</desc></wpt>
+<wpt lat = "37.93287" lon = "-4.76841"><name>S6TGM1LS1</name><desc>Stage 6 -Km 6,8
+Images:552
+First:01.03.2025 08:38:36
+Last:01.03.2025 11:10:17
+Duration:02:31:41
+</desc></wpt>
+</gpx>

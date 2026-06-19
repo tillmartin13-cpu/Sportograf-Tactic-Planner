@@ -1,0 +1,407 @@
+EventId: 12517
+Spots: 66
+Total Images: 252143
+Time:	05.05.2024 00:21:01 to 05.05.2024 22:52:21
+Duration: 22:31:20
+
+(1) - Farmers Carry
+	DPARO5LS1
+		Images:	5973
+		Time:	05.05.2024 07:28:25 until 05.05.2024 22:06:25
+		Duration:	14:38:00
+		Location:	51.49673 -0.21083
+
+	DPARO5LS2
+		Images:	3677
+		Time:	05.05.2024 07:08:39 until 05.05.2024 22:10:35
+		Duration:	15:01:56
+		Location:	51.49673 -0.21083
+
+(2) - Finish
+	CBKO5
+		Images:	495
+		Time:	05.05.2024 13:40:39 until 05.05.2024 14:12:01
+		Duration:	00:31:22
+		Location:	51.49673 -0.21083
+
+	CTOMY1
+		Images:	20374
+		Time:	05.05.2024 00:21:01 until 05.05.2024 15:14:50
+		Duration:	14:53:49
+		Location:	51.49673 -0.21083
+
+	DBKO6
+		Images:	680
+		Time:	05.05.2024 18:10:18 until 05.05.2024 18:42:58
+		Duration:	00:32:40
+		Location:	51.49673 -0.21083
+
+	DBKO6LS1
+		Images:	2779
+		Time:	05.05.2024 08:42:01 until 05.05.2024 21:29:56
+		Duration:	12:47:55
+		Location:	51.49673 -0.21083
+
+	DJUW6LS1
+		Images:	2727
+		Time:	05.05.2024 07:12:25 until 05.05.2024 21:30:00
+		Duration:	14:17:35
+		Location:	51.49673 -0.21083
+
+	DPARO2
+		Images:	167
+		Time:	05.05.2024 15:15:07 until 05.05.2024 15:21:27
+		Duration:	00:06:20
+		Location:	51.49673 -0.21083
+
+	DWIN1
+		Images:	6488
+		Time:	05.05.2024 15:21:58 until 05.05.2024 22:50:39
+		Duration:	07:28:41
+		Location:	51.49673 -0.21083
+
+(3) - Impressions / Pano
+	CBKO6
+		Images:	16
+		Time:	05.05.2024 07:49:08 until 05.05.2024 08:00:28
+		Duration:	00:11:20
+		Location:	51.49673 -0.21083
+
+	CPARO8
+		Images:	10
+		Time:	05.05.2024 07:58:18 until 05.05.2024 10:39:59
+		Duration:	02:41:41
+		Location:	51.49673 -0.21083
+
+	DPARO4
+		Images:	15
+		Time:	05.05.2024 20:00:17 until 05.05.2024 20:17:39
+		Duration:	00:17:22
+		Location:	51.49673 -0.21083
+
+	PANO1
+(4) - Medalwall
+	CWIN1
+		Images:	2867
+		Time:	05.05.2024 07:42:02 until 05.05.2024 15:14:02
+		Duration:	07:32:00
+		Location:	51.49673 -0.21083
+
+	DTOMY1
+		Images:	1779
+		Time:	05.05.2024 00:24:03 until 05.05.2024 22:52:21
+		Duration:	22:28:18
+		Location:	51.49673 -0.21083
+
+(5) - Rowing
+	CBKO3
+		Images:	2353
+		Time:	05.05.2024 12:20:34 until 05.05.2024 12:51:22
+		Duration:	00:30:48
+		Location:	51.49673 -0.21083
+
+	CJUW4
+		Images:	1515
+		Time:	05.05.2024 12:20:14 until 05.05.2024 12:48:44
+		Duration:	00:28:30
+		Location:	51.49673 -0.21083
+
+	CPARO4
+		Images:	14
+		Time:	05.05.2024 09:07:59 until 05.05.2024 09:10:28
+		Duration:	00:02:29
+		Location:	51.49673 -0.21083
+
+	CQVT1
+		Images:	14348
+		Time:	05.05.2024 07:49:23 until 05.05.2024 15:02:59
+		Duration:	07:13:36
+		Location:	51.49673 -0.21083
+
+	CSESA1
+		Images:	4261
+		Time:	05.05.2024 07:15:35 until 05.05.2024 15:03:02
+		Duration:	07:47:27
+		Location:	51.49673 -0.21083
+
+	DBKO4
+		Images:	2430
+		Time:	05.05.2024 16:10:08 until 05.05.2024 16:40:31
+		Duration:	00:30:23
+		Location:	51.49673 -0.21083
+
+	DJUW4
+		Images:	1993
+		Time:	05.05.2024 16:09:41 until 05.05.2024 16:36:46
+		Duration:	00:27:05
+		Location:	51.49673 -0.21083
+
+	DMADO1
+		Images:	4059
+		Time:	05.05.2024 15:03:13 until 05.05.2024 21:51:11
+		Duration:	06:47:58
+		Location:	51.49673 -0.21083
+
+	DMALV1
+		Images:	5331
+		Time:	05.05.2024 15:03:26 until 05.05.2024 21:46:18
+		Duration:	06:42:52
+		Location:	51.49673 -0.21083
+
+(6) - Sandbag Lunges
+	CALN1
+		Images:	8541
+		Time:	05.05.2024 08:36:09 until 05.05.2024 15:16:52
+		Duration:	06:40:43
+		Location:	51.49673 -0.21083
+
+	CCMU1
+		Images:	4933
+		Time:	05.05.2024 08:12:13 until 05.05.2024 15:12:31
+		Duration:	07:00:18
+		Location:	51.49673 -0.21083
+
+	CPARO5
+		Images:	997
+		Time:	05.05.2024 12:27:51 until 05.05.2024 13:30:04
+		Duration:	01:02:13
+		Location:	51.49673 -0.21083
+
+	DCMS1
+		Images:	8421
+		Time:	05.05.2024 15:17:15 until 05.05.2024 22:20:56
+		Duration:	07:03:41
+		Location:	51.49673 -0.21083
+
+	DPARO1
+		Images:	1550
+		Time:	05.05.2024 17:01:05 until 05.05.2024 18:01:53
+		Duration:	01:00:48
+		Location:	51.49673 -0.21083
+
+	DSALA1
+		Images:	5964
+		Time:	05.05.2024 15:17:04 until 05.05.2024 22:23:52
+		Duration:	07:06:48
+		Location:	51.49673 -0.21083
+
+(7) - SkiErg
+	CMKH1
+		Images:	3869
+		Time:	05.05.2024 07:45:45 until 05.05.2024 14:59:25
+		Duration:	07:13:40
+		Location:	51.49673 -0.21083
+
+	CPARO1
+		Images:	392
+		Time:	05.05.2024 08:07:13 until 05.05.2024 10:01:27
+		Duration:	01:54:14
+		Location:	51.49673 -0.21083
+
+	CSHP1
+		Images:	4163
+		Time:	05.05.2024 07:49:15 until 05.05.2024 15:28:49
+		Duration:	07:39:34
+		Location:	51.49673 -0.21083
+
+	CYCAN1
+		Images:	5211
+		Time:	05.05.2024 07:17:16 until 05.05.2024 14:59:39
+		Duration:	07:42:23
+		Location:	51.49673 -0.21083
+
+	DCH1
+		Images:	4101
+		Time:	05.05.2024 15:14:58 until 05.05.2024 20:49:47
+		Duration:	05:34:49
+		Location:	51.49673 -0.21083
+
+	DJUW1
+		Images:	284
+		Time:	05.05.2024 15:05:32 until 05.05.2024 15:09:49
+		Duration:	00:04:17
+		Location:	51.49673 -0.21083
+
+	DLOT1
+		Images:	2805
+		Time:	05.05.2024 15:45:06 until 05.05.2024 20:47:46
+		Duration:	05:02:40
+		Location:	51.49673 -0.21083
+
+	DSHP1
+		Images:	3186
+		Time:	05.05.2024 15:34:49 until 05.05.2024 20:49:10
+		Duration:	05:14:21
+		Location:	51.49673 -0.21083
+
+(8) - Sled Pull
+	CBKO2
+		Images:	1113
+		Time:	05.05.2024 11:41:13 until 05.05.2024 11:59:52
+		Duration:	00:18:39
+		Location:	51.49673 -0.21083
+
+	CJUW3
+		Images:	4623
+		Time:	05.05.2024 08:18:51 until 05.05.2024 12:09:40
+		Duration:	03:50:49
+		Location:	51.49673 -0.21083
+
+	CMADO1
+		Images:	10362
+		Time:	05.05.2024 07:38:56 until 05.05.2024 14:53:02
+		Duration:	07:14:06
+		Location:	51.49673 -0.21083
+
+	CMALV1
+		Images:	8286
+		Time:	05.05.2024 07:29:40 until 05.05.2024 14:58:26
+		Duration:	07:28:46
+		Location:	51.49673 -0.21083
+
+	CPARO3
+		Images:	737
+		Time:	05.05.2024 11:44:06 until 05.05.2024 12:09:27
+		Duration:	00:25:21
+		Location:	51.49673 -0.21083
+
+	DBKO3
+		Images:	2749
+		Time:	05.05.2024 14:58:04 until 05.05.2024 17:18:17
+		Duration:	02:20:13
+		Location:	51.49673 -0.21083
+
+	DJUW3
+		Images:	2734
+		Time:	05.05.2024 16:50:21 until 05.05.2024 21:09:49
+		Duration:	04:19:28
+		Location:	51.49673 -0.21083
+
+	DPARO3
+		Images:	249
+		Time:	05.05.2024 14:58:23 until 05.05.2024 15:09:12
+		Duration:	00:10:49
+		Location:	51.49673 -0.21083
+
+	DQVT1
+		Images:	6844
+		Time:	05.05.2024 15:09:32 until 05.05.2024 21:14:30
+		Duration:	06:04:58
+		Location:	51.49673 -0.21083
+
+	DSESA1
+		Images:	3899
+		Time:	05.05.2024 15:12:24 until 05.05.2024 21:15:46
+		Duration:	06:03:22
+		Location:	51.49673 -0.21083
+
+(9) - Sled Push
+	CALN2
+		Images:	64
+		Time:	05.05.2024 15:21:04 until 05.05.2024 15:27:39
+		Duration:	00:06:35
+		Location:	51.49673 -0.21083
+
+	CBKO1
+		Images:	13071
+		Time:	05.05.2024 08:13:16 until 05.05.2024 11:31:22
+		Duration:	03:18:06
+		Location:	51.49673 -0.21083
+
+	CCH1
+		Images:	5740
+		Time:	05.05.2024 07:16:27 until 05.05.2024 15:10:30
+		Duration:	07:54:03
+		Location:	51.49673 -0.21083
+
+	CJUW2
+		Images:	1242
+		Time:	05.05.2024 10:55:01 until 05.05.2024 11:31:11
+		Duration:	00:36:10
+		Location:	51.49673 -0.21083
+
+	CLOT1
+		Images:	11150
+		Time:	05.05.2024 08:07:42 until 05.05.2024 15:18:53
+		Duration:	07:11:11
+		Location:	51.49673 -0.21083
+
+	CPARO2
+		Images:	550
+		Time:	05.05.2024 08:29:31 until 05.05.2024 11:30:53
+		Duration:	03:01:22
+		Location:	51.49673 -0.21083
+
+	DALN1
+		Images:	3518
+		Time:	05.05.2024 15:29:12 until 05.05.2024 21:01:18
+		Duration:	05:32:06
+		Location:	51.49673 -0.21083
+
+	DBKO2
+		Images:	6178
+		Time:	05.05.2024 15:13:51 until 05.05.2024 21:01:01
+		Duration:	05:47:10
+		Location:	51.49673 -0.21083
+
+	DCMU1
+		Images:	4668
+		Time:	05.05.2024 15:24:02 until 05.05.2024 21:01:04
+		Duration:	05:37:02
+		Location:	51.49673 -0.21083
+
+	DJUW2
+		Images:	1226
+		Time:	05.05.2024 17:29:06 until 05.05.2024 17:59:05
+		Duration:	00:29:59
+		Location:	51.49673 -0.21083
+
+(10) - Wall Balls
+	CBKO4
+		Images:	1276
+		Time:	05.05.2024 13:00:36 until 05.05.2024 13:30:50
+		Duration:	00:30:14
+		Location:	51.49673 -0.21083
+
+	CCMS1
+		Images:	4304
+		Time:	05.05.2024 07:59:18 until 05.05.2024 15:06:49
+		Duration:	07:07:31
+		Location:	51.49673 -0.21083
+
+	CJUW5
+		Images:	1119
+		Time:	05.05.2024 13:00:29 until 05.05.2024 13:29:36
+		Duration:	00:29:07
+		Location:	51.49673 -0.21083
+
+	CSALA1
+		Images:	8933
+		Time:	05.05.2024 08:04:05 until 05.05.2024 15:07:58
+		Duration:	07:03:53
+		Location:	51.49673 -0.21083
+
+	DBKO5
+		Images:	814
+		Time:	05.05.2024 15:31:34 until 05.05.2024 15:59:24
+		Duration:	00:27:50
+		Location:	51.49673 -0.21083
+
+	DJUW5
+		Images:	1217
+		Time:	05.05.2024 15:29:54 until 05.05.2024 15:57:19
+		Duration:	00:27:25
+		Location:	51.49673 -0.21083
+
+	DMKH1
+		Images:	3127
+		Time:	05.05.2024 15:10:19 until 05.05.2024 22:52:12
+		Duration:	07:41:53
+		Location:	51.49673 -0.21083
+
+	DYCAN1
+		Images:	3582
+		Time:	05.05.2024 15:07:29 until 05.05.2024 22:38:34
+		Duration:	07:31:05
+		Location:	51.49673 -0.21083
+

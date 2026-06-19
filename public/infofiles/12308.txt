@@ -1,0 +1,386 @@
+EventId: 12308
+Spots: 61
+Total Images: 1001791
+Time:	02.11.2024 12:18:24 to 03.11.2024 14:33:08
+Duration: 1.02:14:44
+
+(1) - 1,8km before finish
+	BBAR2
+		Images:	14300
+		Time:	02.11.2024 23:20:28 until 03.11.2024 14:21:38
+		Duration:	15:01:10
+		Location:	50.84313 4.38032
+
+	BBAR2LS1
+		Images:	16192
+		Time:	02.11.2024 23:23:51 until 03.11.2024 13:37:35
+		Duration:	14:13:44
+		Location:	50.84313 4.38032
+
+	BBC2
+		Images:	12734
+		Time:	03.11.2024 10:34:03 until 03.11.2024 14:21:32
+		Duration:	03:47:29
+		Location:	50.84313 4.38032
+
+(2) - 200m before finish (7K, HM, M
+	BAG1
+		Images:	53284
+		Time:	03.11.2024 08:10:35 until 03.11.2024 13:31:59
+		Duration:	05:21:24
+		Location:	50.84371 4.36554
+
+	BAG1LS1
+		Images:	5728
+		Time:	03.11.2024 07:54:01 until 03.11.2024 12:20:57
+		Duration:	04:26:56
+		Location:	50.84371 4.36554
+
+	BAG1LS2
+		Images:	13864
+		Time:	03.11.2024 07:49:11 until 03.11.2024 13:48:42
+		Duration:	05:59:31
+		Location:	50.84371 4.36554
+
+	BTHL1
+		Images:	46690
+		Time:	02.11.2024 14:43:50 until 03.11.2024 14:31:54
+		Duration:	23:48:04
+		Location:	50.84371 4.36554
+
+	BTHL1LS1
+		Images:	10076
+		Time:	02.11.2024 14:47:30 until 03.11.2024 13:27:53
+		Duration:	22:40:23
+		Location:	50.84371 4.36554
+
+(3) - 24.0 km
+	BPBO2
+		Images:	8852
+		Time:	03.11.2024 09:21:41 until 03.11.2024 12:21:01
+		Duration:	02:59:20
+		Location:	50.85786 4.35637
+
+	BTLA2
+		Images:	8918
+		Time:	03.11.2024 10:19:21 until 03.11.2024 12:20:44
+		Duration:	02:01:23
+		Location:	50.85786 4.35637
+
+(4) - 300m before finish
+	BKMC1
+		Images:	16738
+		Time:	03.11.2024 08:26:09 until 03.11.2024 14:22:14
+		Duration:	05:56:05
+		Location:	50.84585 4.36732
+
+	BOP1
+		Images:	17182
+		Time:	02.11.2024 20:12:27 until 03.11.2024 14:13:07
+		Duration:	18:00:40
+		Location:	50.84585 4.36732
+
+	BOP1LS1
+		Images:	13908
+		Time:	02.11.2024 20:12:03 until 03.11.2024 14:11:43
+		Duration:	17:59:40
+		Location:	50.84585 4.36732
+
+(5) - Atomium km8,5/21, km17/42 (HM, M)
+	ADAV1
+		Images:	3365
+		Time:	03.11.2024 08:35:21 until 03.11.2024 11:12:10
+		Duration:	02:36:49
+		Location:	50.89603 4.34294
+
+	AFVE1
+		Images:	4510
+		Time:	03.11.2024 08:31:29 until 03.11.2024 11:16:21
+		Duration:	02:44:52
+		Location:	50.89603 4.34294
+
+	ASDT1
+		Images:	3830
+		Time:	02.11.2024 18:26:30 until 03.11.2024 11:12:54
+		Duration:	16:46:24
+		Location:	50.89603 4.34294
+
+	ASDT1LS1
+		Images:	4606
+		Time:	02.11.2024 18:30:07 until 03.11.2024 11:16:57
+		Duration:	16:46:50
+		Location:	50.89603 4.34294
+
+	ASDT1LS2
+		Images:	5205
+		Time:	02.11.2024 18:34:24 until 03.11.2024 11:15:40
+		Duration:	16:41:16
+		Location:	50.89603 4.34294
+
+(6) - Basilique Nationale du Sacré-Cœur de Koekelberg km3/42
+	BBAR1
+		Images:	4824
+		Time:	03.11.2024 08:40:26 until 03.11.2024 10:28:48
+		Duration:	01:48:22
+		Location:	50.86611 4.31957
+
+	BBC1
+		Images:	3574
+		Time:	02.11.2024 20:01:15 until 03.11.2024 09:24:32
+		Duration:	13:23:17
+		Location:	50.86611 4.31957
+
+(7) - Bd Brand Whitlock 3,7km before finish (7K, HM, M)
+	BACCA1
+		Images:	53750
+		Time:	03.11.2024 06:19:45 until 03.11.2024 14:10:34
+		Duration:	07:50:49
+		Location:	50.83819 4.40765
+
+	BMOAB1
+		Images:	14536
+		Time:	03.11.2024 08:30:23 until 03.11.2024 14:08:15
+		Duration:	05:37:52
+		Location:	50.83819 4.40765
+
+(8) - Brussel Noordstation km0,8/21, km26,8/42
+	BKSA1
+		Images:	14592
+		Time:	03.11.2024 08:07:27 until 03.11.2024 11:57:35
+		Duration:	03:50:08
+		Location:	50.86158 4.35467
+
+	BRA1
+		Images:	20788
+		Time:	03.11.2024 07:56:59 until 03.11.2024 12:26:06
+		Duration:	04:29:07
+		Location:	50.86158 4.35467
+
+	BRA1LS1
+		Images:	6680
+		Time:	03.11.2024 07:41:52 until 03.11.2024 12:30:11
+		Duration:	04:48:19
+		Location:	50.86158 4.35467
+
+	BRA1LS2
+		Images:	7452
+		Time:	03.11.2024 07:44:34 until 03.11.2024 12:30:47
+		Duration:	04:46:13
+		Location:	50.86158 4.35467
+
+(9) - Finish
+	BDERS1
+		Images:	18670
+		Time:	03.11.2024 07:26:14 until 03.11.2024 14:25:26
+		Duration:	06:59:12
+		Location:	50.84252 4.36341
+
+	BTID1
+		Images:	30474
+		Time:	02.11.2024 21:44:52 until 03.11.2024 14:33:08
+		Duration:	16:48:16
+		Location:	50.84252 4.36341
+
+	BTID1LS1
+		Images:	15272
+		Time:	02.11.2024 21:51:00 until 03.11.2024 14:26:35
+		Duration:	16:35:35
+		Location:	50.84252 4.36341
+
+(10) - Impressions / Pano
+	PANO1
+(11) - Montgomery 3,5km before finish (7K, HM, M)
+	BMIV1
+		Images:	44346
+		Time:	03.11.2024 07:07:28 until 03.11.2024 14:09:12
+		Duration:	07:01:44
+		Location:	50.83772 4.40691
+
+	BOT1
+		Images:	58452
+		Time:	02.11.2024 20:53:24 until 03.11.2024 14:09:46
+		Duration:	17:16:22
+		Location:	50.83772 4.40691
+
+	BOT1LS1
+		Images:	24330
+		Time:	02.11.2024 20:55:56 until 03.11.2024 14:06:00
+		Duration:	17:10:04
+		Location:	50.83772 4.40691
+
+(12) - Musée d'Extrême-Orient km9,9/21, km31/42
+	AKN1
+		Images:	7028
+		Time:	03.11.2024 08:36:19 until 03.11.2024 12:58:52
+		Duration:	04:22:33
+		Location:	50.89340 4.36037
+
+	AYHA1
+		Images:	6291
+		Time:	02.11.2024 18:50:01 until 03.11.2024 12:43:38
+		Duration:	17:53:37
+		Location:	50.89340 4.36037
+
+(13) - none
+	TTGT1
+		Images:	941
+		Time:	03.11.2024 07:12:44 until 03.11.2024 08:31:33
+		Duration:	01:18:49
+		Location:	NULL NULL
+
+	TTJT1
+		Images:	8106
+		Time:	03.11.2024 08:08:31 until 03.11.2024 14:12:14
+		Duration:	06:03:43
+		Location:	NULL NULL
+
+(14) - Parc du Cinquantenaire 3km before finish (7K, HM, M)
+	BMBEN2
+		Images:	28108
+		Time:	03.11.2024 08:53:11 until 03.11.2024 14:11:37
+		Duration:	05:18:26
+		Location:	50.83899 4.40038
+
+	BMBEN2LS1
+		Images:	10092
+		Time:	03.11.2024 08:31:34 until 03.11.2024 14:11:32
+		Duration:	05:39:58
+		Location:	50.83899 4.40038
+
+	BMW2
+		Images:	25860
+		Time:	03.11.2024 09:12:25 until 03.11.2024 14:11:34
+		Duration:	04:59:09
+		Location:	50.83899 4.40038
+
+	BMW2LS1
+		Images:	14908
+		Time:	03.11.2024 08:40:09 until 03.11.2024 14:12:12
+		Duration:	05:32:03
+		Location:	50.83899 4.40038
+
+(15) - Parc du Cinquantenaire km3/7 (7K)
+	BMBEN1
+		Images:	5172
+		Time:	03.11.2024 07:23:46 until 03.11.2024 08:38:44
+		Duration:	01:14:58
+		Location:	50.83899 4.40038
+
+	BMBEN1LS1
+		Images:	1882
+		Time:	03.11.2024 07:12:44 until 03.11.2024 08:31:33
+		Duration:	01:18:49
+		Location:	50.83899 4.40038
+
+	BMW1
+		Images:	2594
+		Time:	02.11.2024 18:27:54 until 03.11.2024 08:34:05
+		Duration:	14:06:11
+		Location:	50.83899 4.40038
+
+	BMW1LS1
+		Images:	3044
+		Time:	02.11.2024 18:38:28 until 03.11.2024 08:36:37
+		Duration:	13:58:09
+		Location:	50.83899 4.40038
+
+(16) - Stade Roi Baudouin km6,6/21, km15,3/42 (HM, M)
+	AJOS1
+		Images:	12100
+		Time:	03.11.2024 08:26:15 until 03.11.2024 10:59:39
+		Duration:	02:33:24
+		Location:	50.89542 4.33363
+
+	ALV1
+		Images:	17448
+		Time:	03.11.2024 08:26:58 until 03.11.2024 11:14:41
+		Duration:	02:47:43
+		Location:	50.89542 4.33363
+
+	ALV1LS1
+		Images:	11650
+		Time:	03.11.2024 08:26:44 until 03.11.2024 11:00:05
+		Duration:	02:33:21
+		Location:	50.89542 4.33363
+
+	AMK1
+		Images:	22186
+		Time:	03.11.2024 08:29:35 until 03.11.2024 10:58:17
+		Duration:	02:28:42
+		Location:	50.89542 4.33363
+
+	AMK1LS1
+		Images:	7192
+		Time:	02.11.2024 12:18:24 until 03.11.2024 10:59:22
+		Duration:	22:40:58
+		Location:	50.89542 4.33363
+
+	AMK1LS2
+		Images:	5200
+		Time:	03.11.2024 08:15:17 until 03.11.2024 11:02:47
+		Duration:	02:47:30
+		Location:	50.89542 4.33363
+
+(17) - Start
+	BPBO1
+		Images:	11064
+		Time:	02.11.2024 12:38:54 until 03.11.2024 09:04:20
+		Duration:	20:25:26
+		Location:	50.85666 4.35353
+
+	BTLA1
+		Images:	15742
+		Time:	03.11.2024 08:05:59 until 03.11.2024 09:03:52
+		Duration:	00:57:53
+		Location:	50.85666 4.35353
+
+(18) - Tour Japonaise km10,1/21, km31,2/42
+	AGVDL1
+		Images:	8340
+		Time:	02.11.2024 22:21:11 until 03.11.2024 12:51:05
+		Duration:	14:29:54
+		Location:	50.89321 4.3615
+
+	ATB1
+		Images:	20525
+		Time:	02.11.2024 21:36:51 until 03.11.2024 12:59:14
+		Duration:	15:22:23
+		Location:	50.89321 4.3615
+
+(19) - Tunnel Parc du Cinquantenaire 2,2km before finish (7K, HM, M)
+	BALN1
+		Images:	52896
+		Time:	03.11.2024 08:24:49 until 03.11.2024 14:11:33
+		Duration:	05:46:44
+		Location:	50.84132 4.38904
+
+	BALN1LS1
+		Images:	15318
+		Time:	03.11.2024 08:11:09 until 03.11.2024 14:11:45
+		Duration:	06:00:36
+		Location:	50.84132 4.38904
+
+	BALN1LS2
+		Images:	16212
+		Time:	03.11.2024 08:08:31 until 03.11.2024 14:12:14
+		Duration:	06:03:43
+		Location:	50.84132 4.38904
+
+	BDRI1
+		Images:	58894
+		Time:	03.11.2024 08:14:33 until 03.11.2024 14:10:04
+		Duration:	05:55:31
+		Location:	50.84132 4.38904
+
+	BDRI1LS1
+		Images:	19290
+		Time:	03.11.2024 08:07:25 until 03.11.2024 14:10:44
+		Duration:	06:03:19
+		Location:	50.84132 4.38904
+
+	BDRI1LS2
+		Images:	15986
+		Time:	03.11.2024 08:09:39 until 03.11.2024 14:10:38
+		Duration:	06:00:59
+		Location:	50.84132 4.38904
+

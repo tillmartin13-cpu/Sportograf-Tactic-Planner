@@ -1,0 +1,496 @@
+EventId: 12109
+Spots: 78
+Total Images: 1215038
+Time:	01.01.0001 23:00:00 to 03.03.2024 13:47:17
+Duration: 738946.14:47:17
+
+(1) - 11.0 km
+	MIJA1
+		Images:	18005
+		Time:	03.03.2024 08:19:24 until 03.03.2024 13:00:18
+		Duration:	04:40:54
+		Location:	48.83021 2.45024
+
+	MW1
+		Images:	21400
+		Time:	02.03.2024 21:59:39 until 03.03.2024 12:00:19
+		Duration:	14:00:40
+		Location:	48.83021 2.45024
+
+(2) - 12.0 km
+	DERS1
+		Images:	10982
+		Time:	03.03.2024 07:03:34 until 03.03.2024 12:02:56
+		Duration:	04:59:22
+		Location:	48.84063 2.4349
+
+	FLOF1
+		Images:	30311
+		Time:	03.03.2024 06:05:35 until 03.03.2024 11:59:51
+		Duration:	05:54:16
+		Location:	48.84063 2.4349
+
+(3) - 15,0 km Place Félix-Éboué
+	MSC1
+		Images:	14532
+		Time:	03.03.2024 07:55:38 until 03.03.2024 12:39:06
+		Duration:	04:43:28
+		Location:	48.83924 2.39554
+
+	ST1
+		Images:	24223
+		Time:	03.03.2024 07:56:01 until 03.03.2024 12:42:45
+		Duration:	04:46:44
+		Location:	48.83952 2.39277
+
+	ST1LS1
+		Images:	9867
+		Time:	03.03.2024 08:01:11 until 03.03.2024 11:23:04
+		Duration:	03:21:53
+		Location:	48.83952 2.39277
+
+	ST1LS2
+		Images:	21357
+		Time:	03.03.2024 08:01:05 until 03.03.2024 12:02:12
+		Duration:	04:01:07
+		Location:	48.83952 2.39277
+
+(4) - 19,0 km La Seine
+	BAB1
+		Images:	25907
+		Time:	03.03.2024 06:39:15 until 03.03.2024 13:03:32
+		Duration:	06:24:17
+		Location:	48.85180 2.35861
+
+	BAB1LS1
+		Images:	3997
+		Time:	03.03.2024 07:51:46 until 03.03.2024 13:05:40
+		Duration:	05:13:54
+		Location:	48.85180 2.35861
+
+	BAB1LS2
+		Images:	4080
+		Time:	03.03.2024 07:20:56 until 03.03.2024 13:05:20
+		Duration:	05:44:24
+		Location:	48.85180 2.35861
+
+	MB1
+		Images:	14950
+		Time:	03.03.2024 07:53:59 until 03.03.2024 12:50:53
+		Duration:	04:56:54
+		Location:	48.85180 2.35861
+
+(5) - 19,3 km Pont Marie
+	JABR1
+		Images:	9387
+		Time:	03.03.2024 07:54:58 until 03.03.2024 13:11:59
+		Duration:	05:17:01
+		Location:	48.85369 2.35635
+
+	OT1
+		Images:	38978
+		Time:	02.03.2024 17:11:14 until 03.03.2024 13:12:00
+		Duration:	20:00:46
+		Location:	48.85369 2.35635
+
+(6) - 19,5 km Voie Georges-Pompidou
+	PV1
+		Images:	7127
+		Time:	03.03.2024 07:55:05 until 03.03.2024 13:16:49
+		Duration:	05:21:44
+		Location:	48.85496 2.35335
+
+	SSW1
+		Images:	14534
+		Time:	02.03.2024 21:41:59 until 03.03.2024 13:18:03
+		Duration:	15:36:04
+		Location:	48.85496 2.35335
+
+(7) - 19,8 km Hotel de ville
+	APL1
+		Images:	8104
+		Time:	03.03.2024 06:46:36 until 03.03.2024 13:19:33
+		Duration:	06:32:57
+		Location:	48.85602 2.35321
+
+	OP1
+		Images:	14120
+		Time:	03.03.2024 06:42:23 until 03.03.2024 13:20:16
+		Duration:	06:37:53
+		Location:	48.85602 2.35321
+
+	OP1LS1
+		Images:	8125
+		Time:	03.03.2024 07:26:09 until 03.03.2024 13:15:13
+		Duration:	05:49:04
+		Location:	48.85602 2.35321
+
+(8) - 19.8 km Hotel de ville
+	BAR1
+		Images:	6040
+		Time:	03.03.2024 07:25:55 until 03.03.2024 13:19:22
+		Duration:	05:53:27
+		Location:	48.85641 2.35335
+
+	BAR1LS1
+		Images:	5147
+		Time:	03.03.2024 08:43:19 until 03.03.2024 13:19:46
+		Duration:	04:36:27
+		Location:	48.85641 2.35335
+
+(9) - 20,0 km Rue de Rivoli
+	ACCA1
+		Images:	13202
+		Time:	03.03.2024 07:36:19 until 03.03.2024 13:21:50
+		Duration:	05:45:31
+		Location:	48.85672 2.35504
+
+(10) - 20,3 km Temple du Marais
+	NWO1
+		Images:	14003
+		Time:	03.03.2024 07:56:02 until 03.03.2024 13:20:58
+		Duration:	05:24:56
+		Location:	48.85352 2.36694
+
+	NWO1LS1
+		Images:	4089
+		Time:	03.03.2024 07:23:54 until 03.03.2024 13:22:46
+		Duration:	05:58:52
+		Location:	48.85352 2.36694
+
+(11) - 20.0 km Rue de Rivoli
+	FEF1
+		Images:	7898
+		Time:	03.03.2024 07:54:11 until 03.03.2024 13:18:54
+		Duration:	05:24:43
+		Location:	48.85671 2.35497
+
+	JAD1
+		Images:	10769
+		Time:	03.03.2024 07:35:47 until 03.03.2024 13:20:49
+		Duration:	05:45:02
+		Location:	48.85671 2.35497
+
+(12) - 20.3 km Temple du Marais
+	TOG1
+		Images:	22200
+		Time:	03.03.2024 06:09:42 until 03.03.2024 13:32:18
+		Duration:	07:22:36
+		Location:	48.85352 2.36694
+
+	TOG1LS1
+		Images:	4708
+		Time:	03.03.2024 06:49:02 until 03.03.2024 13:20:54
+		Duration:	06:31:52
+		Location:	48.85352 2.36694
+
+	TOG1LS2
+		Images:	4674
+		Time:	03.03.2024 07:15:45 until 03.03.2024 13:22:15
+		Duration:	06:06:30
+		Location:	48.85352 2.36694
+
+(13) - 21.0 km Place de la Bastille
+	LV1
+		Images:	44214
+		Time:	03.03.2024 06:41:52 until 03.03.2024 13:47:17
+		Duration:	07:05:25
+		Location:	48.85288 2.36958
+
+	LV1LS1
+		Images:	24720
+		Time:	03.03.2024 07:32:43 until 03.03.2024 13:31:49
+		Duration:	05:59:06
+		Location:	48.85288 2.36958
+
+	NEZ1
+		Images:	26059
+		Time:	03.03.2024 07:25:46 until 03.03.2024 13:39:37
+		Duration:	06:13:51
+		Location:	48.85288 2.36958
+
+	NEZ1LS1
+		Images:	7012
+		Time:	03.03.2024 07:00:42 until 03.03.2024 13:39:41
+		Duration:	06:38:59
+		Location:	48.85288 2.36958
+
+	NEZ1LS2
+		Images:	9017
+		Time:	03.03.2024 06:45:09 until 03.03.2024 13:39:40
+		Duration:	06:54:31
+		Location:	48.85288 2.36958
+
+(14) - 3.0 km  Rue Joseph kessel
+	CL1
+		Images:	21116
+		Time:	03.03.2024 06:52:51 until 03.03.2024 10:55:32
+		Duration:	04:02:41
+		Location:	48.83402 2.38305
+
+	CL1LS1
+		Images:	4367
+		Time:	03.03.2024 06:59:59 until 03.03.2024 10:50:46
+		Duration:	03:50:47
+		Location:	48.83402 2.38305
+
+	TAL1
+		Images:	27052
+		Time:	03.03.2024 07:02:18 until 03.03.2024 10:55:31
+		Duration:	03:53:13
+		Location:	48.83402 2.38305
+
+	TAL1LS1
+		Images:	4162
+		Time:	03.03.2024 06:57:50 until 03.03.2024 10:50:37
+		Duration:	03:52:47
+		Location:	48.83402 2.38305
+
+	THL1
+		Images:	26372
+		Time:	03.03.2024 07:55:20 until 03.03.2024 10:55:07
+		Duration:	02:59:47
+		Location:	48.83402 2.38305
+
+	THL1LS1
+		Images:	4381
+		Time:	03.03.2024 06:56:21 until 03.03.2024 10:56:17
+		Duration:	03:59:56
+		Location:	48.83402 2.38305
+
+(15) - 3.1 km  Rue Joseph kessel
+	ALN1LS1
+		Images:	11232
+		Time:	03.03.2024 07:07:39 until 03.03.2024 10:57:26
+		Duration:	03:49:47
+		Location:	48.83418 2.38335
+
+	ALN1LS2
+		Images:	10825
+		Time:	03.03.2024 07:07:42 until 03.03.2024 10:54:23
+		Duration:	03:46:41
+		Location:	48.83418 2.38335
+
+	ALN2
+		Images:	36851
+		Time:	03.03.2024 07:10:38 until 03.03.2024 10:56:23
+		Duration:	03:45:45
+		Location:	48.83418 2.38335
+
+	DRI1
+		Images:	52849
+		Time:	03.03.2024 07:08:45 until 03.03.2024 10:55:17
+		Duration:	03:46:32
+		Location:	48.83418 2.38335
+
+	DRI1LS1
+		Images:	13469
+		Time:	03.03.2024 07:20:48 until 03.03.2024 10:57:43
+		Duration:	03:36:55
+		Location:	48.83418 2.38335
+
+	DRI1LS2
+		Images:	10453
+		Time:	03.03.2024 07:18:43 until 03.03.2024 10:57:55
+		Duration:	03:39:12
+		Location:	48.83418 2.38335
+
+	GAC1
+		Images:	37667
+		Time:	03.03.2024 04:16:29 until 03.03.2024 10:53:46
+		Duration:	06:37:17
+		Location:	48.83418 2.38335
+
+	GAC1LS1
+		Images:	9818
+		Time:	03.03.2024 07:11:25 until 03.03.2024 10:56:35
+		Duration:	03:45:10
+		Location:	48.83418 2.38335
+
+(16) - 3.2 km  Rue Joseph kessel
+	CD1
+		Images:	14738
+		Time:	03.03.2024 07:09:13 until 03.03.2024 11:00:10
+		Duration:	03:50:57
+		Location:	48.83449 2.38407
+
+	CD1LS1
+		Images:	2886
+		Time:	03.03.2024 07:24:27 until 03.03.2024 10:39:33
+		Duration:	03:15:06
+		Location:	48.83449 2.38407
+
+	CD1LS2
+		Images:	2550
+		Time:	03.03.2024 07:18:59 until 03.03.2024 10:54:30
+		Duration:	03:35:31
+		Location:	48.83449 2.38407
+
+	EQT1
+		Images:	9593
+		Time:	03.03.2024 07:08:51 until 03.03.2024 10:57:16
+		Duration:	03:48:25
+		Location:	48.83449 2.38407
+
+	EQT1LS1
+		Images:	2507
+		Time:	03.03.2024 07:22:01 until 03.03.2024 10:54:32
+		Duration:	03:32:31
+		Location:	48.83449 2.38407
+
+	EQT1LS2
+		Images:	3245
+		Time:	03.03.2024 07:11:43 until 03.03.2024 10:54:37
+		Duration:	03:42:54
+		Location:	48.83449 2.38407
+
+	LL1
+		Images:	24618
+		Time:	03.03.2024 06:51:49 until 03.03.2024 10:57:09
+		Duration:	04:05:20
+		Location:	48.83449 2.38407
+
+(17) - 7.0 km
+	DAGG1
+		Images:	30303
+		Time:	03.03.2024 06:44:11 until 03.03.2024 11:28:18
+		Duration:	04:44:07
+		Location:	48.82394 2.42785
+
+	MBEN1
+		Images:	25485
+		Time:	03.03.2024 07:06:19 until 03.03.2024 11:29:46
+		Duration:	04:23:27
+		Location:	48.82394 2.42785
+
+(18) - 7.5 km
+	DAH1
+		Images:	17938
+		Time:	03.03.2024 06:55:21 until 03.03.2024 11:31:44
+		Duration:	04:36:23
+		Location:	48.82338 2.43005
+
+	MOKU1
+		Images:	27697
+		Time:	03.03.2024 06:43:35 until 03.03.2024 11:30:33
+		Duration:	04:46:58
+		Location:	48.82338 2.43005
+
+(19) - Finish
+	BC1
+		Images:	10226
+		Time:	03.03.2024 07:24:00 until 03.03.2024 13:32:10
+		Duration:	06:08:10
+		Location:	48.85181 2.36955
+
+	JKE1
+		Images:	15888
+		Time:	03.03.2024 05:20:19 until 03.03.2024 13:32:48
+		Duration:	08:12:29
+		Location:	48.85181 2.36955
+
+	JORI1
+		Images:	3767
+		Time:	02.03.2024 15:47:57 until 03.03.2024 13:44:23
+		Duration:	21:56:26
+		Location:	48.85181 2.36955
+
+	KSA1
+		Images:	19978
+		Time:	03.03.2024 06:27:08 until 03.03.2024 13:40:25
+		Duration:	07:13:17
+		Location:	48.85181 2.36955
+
+	MAI2
+		Images:	4724
+		Time:	03.03.2024 11:12:21 until 03.03.2024 13:44:08
+		Duration:	02:31:47
+		Location:	48.85181 2.36955
+
+	MAW1
+		Images:	28734
+		Time:	03.03.2024 04:58:39 until 03.03.2024 12:52:33
+		Duration:	07:53:54
+		Location:	48.85181 2.36955
+
+	MAW1LS1
+		Images:	14200
+		Time:	03.03.2024 04:55:36 until 03.03.2024 12:05:21
+		Duration:	07:09:45
+		Location:	48.85181 2.36955
+
+	MAW1LS2
+		Images:	17948
+		Time:	03.03.2024 07:28:29 until 03.03.2024 13:36:29
+		Duration:	06:08:00
+		Location:	48.85181 2.36955
+
+	RA1
+		Images:	62785
+		Time:	03.03.2024 07:11:25 until 03.03.2024 13:36:37
+		Duration:	06:25:12
+		Location:	48.85181 2.36955
+
+	RA1LS1
+		Images:	19890
+		Time:	03.03.2024 07:38:29 until 03.03.2024 13:36:39
+		Duration:	05:58:10
+		Location:	48.85181 2.36955
+
+	RA1LS2
+		Images:	19581
+		Time:	03.03.2024 07:45:01 until 03.03.2024 13:36:51
+		Duration:	05:51:50
+		Location:	48.85181 2.36955
+
+(20) - Impressions / Pano
+	PANO1
+		Images:	1
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	48.85180 2.35861
+
+(21) - Medals
+	ANR1
+		Images:	10851
+		Time:	03.03.2024 06:50:59 until 03.03.2024 13:32:44
+		Duration:	06:41:45
+		Location:	48.85076 2.36962
+
+	API1
+		Images:	5481
+		Time:	03.03.2024 06:41:33 until 03.03.2024 13:42:17
+		Duration:	07:00:44
+		Location:	48.85076 2.36962
+
+	JI2
+		Images:	1429
+		Time:	03.03.2024 11:19:32 until 03.03.2024 13:44:18
+		Duration:	02:24:46
+		Location:	48.85076 2.36962
+
+	LMC1
+		Images:	10265
+		Time:	03.03.2024 06:35:08 until 03.03.2024 13:30:17
+		Duration:	06:55:09
+		Location:	48.85076 2.36962
+
+	PBO1
+		Images:	7668
+		Time:	02.03.2024 13:43:48 until 03.03.2024 13:45:17
+		Duration:	1.00:01:29
+		Location:	48.85076 2.36962
+
+(22) - Start
+	JI1
+		Images:	14561
+		Time:	02.03.2024 20:06:45 until 03.03.2024 10:32:41
+		Duration:	14:25:56
+		Location:	48.84942 2.35420
+
+	MAI1
+		Images:	11149
+		Time:	03.03.2024 06:20:45 until 03.03.2024 10:32:42
+		Duration:	04:11:57
+		Location:	48.84942 2.35420
+

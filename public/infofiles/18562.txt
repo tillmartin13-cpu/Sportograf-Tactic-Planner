@@ -1,0 +1,337 @@
+EventId: 18562
+Spots: 48
+Total Images: 419515
+Time:	01.01.0001 23:00:00 to 31.12.2099 22:59:59
+Duration: 766642.23:59:59
+
+(1) - 0.0 km alan ng, pre finish
+	ANG1
+		Images:	26514
+		Time:	21.09.2025 10:40:13 until 21.09.2025 15:23:26
+		Duration:	04:43:13
+		Location:	NULL NULL
+
+(2) - 0.0 km aldrich castro, msc 3, 863053
+	ALDRI1
+		Images:	3177
+		Time:	21.09.2025 07:12:33 until 21.09.2025 08:28:37
+		Duration:	01:16:04
+		Location:	NULL NULL
+
+(3) - 0.0 km aldrich, msc 5, 863059
+	ACAST1
+		Images:	4351
+		Time:	21.09.2025 09:14:03 until 21.09.2025 12:04:51
+		Duration:	02:50:48
+		Location:	NULL NULL
+
+(4) - 0.0 km alma, medals
+	ALMA1
+		Images:	1232
+		Time:	21.09.2025 09:14:34 until 21.09.2025 14:18:54
+		Duration:	05:04:20
+		Location:	NULL NULL
+
+(5) - 0.0 km brandon, medals, 863071
+	ABRAN1
+		Images:	863
+		Time:	21.09.2025 09:08:09 until 21.09.2025 14:11:08
+		Duration:	05:02:59
+		Location:	NULL NULL
+
+(6) - 0.0 km eduardo, finish, 863036
+	AJUR1
+		Images:	16355
+		Time:	21.09.2025 10:28:16 until 21.09.2025 15:11:29
+		Duration:	04:43:13
+		Location:	NULL NULL
+
+(7) - 0.0 km elizabeth morusk
+	ALIZ1
+		Images:	27156
+		Time:	21.09.2025 08:00:37 until 21.09.2025 14:59:08
+		Duration:	06:58:31
+		Location:	NULL NULL
+
+(8) - 0.0 km elodie, medals, 863075
+	AELOD1
+		Images:	661
+		Time:	20.09.2025 21:07:49 until 21.09.2025 01:59:20
+		Duration:	04:51:31
+		Location:	NULL NULL
+
+(9) - 0.0 km eric yu, pre finish, 863042
+	XERIC1
+		Images:	14065
+		Time:	21.09.2025 10:07:27 until 21.09.2025 15:00:09
+		Duration:	04:52:42
+		Location:	NULL NULL
+
+(10) - 0.0 km federico, msc 8, 863068
+	AFED1
+		Images:	5239
+		Time:	21.09.2025 08:15:19 until 21.09.2025 11:39:39
+		Duration:	03:24:20
+		Location:	NULL NULL
+
+(11) - 0.0 km fedrico, msc 8, 863068
+	XFED1
+		Images:	7182
+		Time:	20.09.2025 10:55:42 until 21.09.2025 13:17:15
+		Duration:	1.02:21:33
+		Location:	NULL NULL
+
+(12) - 0.0 km finish trigger big tripod
+	AFIT1
+		Images:	20409
+		Time:	20.09.2024 08:10:53 until 20.09.2024 14:08:37
+		Duration:	05:57:44
+		Location:	NULL NULL
+
+(13) - 0.0 km finish upshot
+	AUP1
+		Images:	10531
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(14) - 0.0 km grace kennedy, medals, 863074
+	AGRAC1
+		Images:	1261
+		Time:	21.09.2025 09:33:28 until 21.09.2025 13:32:02
+		Duration:	03:58:34
+		Location:	NULL NULL
+
+(15) - 0.0 km ines, 863057, msc4
+	AINES1
+		Images:	10994
+		Time:	21.09.2025 08:22:49 until 21.09.2025 13:42:18
+		Duration:	05:19:29
+		Location:	NULL NULL
+
+(16) - 0.0 km jade gelinas, msc 7,
+	AJADE1
+		Images:	14980
+		Time:	21.09.2025 07:41:25 until 21.09.2025 14:48:28
+		Duration:	07:07:03
+		Location:	NULL NULL
+
+(17) - 0.0 km jeff finish 863035
+	AJEFF1
+		Images:	22096
+		Time:	21.09.2025 08:25:31 until 21.09.2025 12:15:33
+		Duration:	03:50:02
+		Location:	NULL NULL
+
+(18) - 0.0 km john spruil
+	AJOHN1
+		Images:	8028
+		Time:	21.09.2025 08:46:05 until 21.09.2025 14:44:45
+		Duration:	05:58:40
+		Location:	NULL NULL
+
+(19) - 0.0 km jorjena, medals, 863076
+	AJORJ1
+		Images:	1585
+		Time:	21.09.2025 09:05:34 until 21.09.2025 14:55:48
+		Duration:	05:50:14
+		Location:	NULL NULL
+
+(20) - 0.0 km josh hummel, pre finish, 863041
+	XJOSH1
+		Images:	8543
+		Time:	21.09.2025 10:07:52 until 21.09.2025 15:00:14
+		Duration:	04:52:22
+		Location:	NULL NULL
+
+(21) - 0.0 km kyra thicke, msc 5, 863060
+	ATHIC1
+		Images:	3666
+		Time:	21.09.2025 10:10:03 until 21.09.2025 13:02:41
+		Duration:	02:52:38
+		Location:	NULL NULL
+
+(22) - 0.0 km kyran thicke, msc 3, 863054
+	AKYRA1
+		Images:	4042
+		Time:	21.09.2025 08:12:28 until 21.09.2025 09:28:56
+		Duration:	01:16:28
+		Location:	NULL NULL
+
+(23) - 0.0 km lift trigger finish, 863038
+	ALIFT1
+		Images:	18200
+		Time:	31.12.2006 16:00:00 until 31.12.2006 21:08:05
+		Duration:	05:08:05
+		Location:	NULL NULL
+
+(24) - 0.0 km lucie, medals
+	ALUCI1
+		Images:	906
+		Time:	21.09.2025 09:02:51 until 21.09.2025 14:49:44
+		Duration:	05:46:53
+		Location:	NULL NULL
+
+(25) - 0.0 km mikaela, msc 7 , 863065
+	MHIM1
+		Images:	10332
+		Time:	21.09.2025 08:44:33 until 21.09.2025 15:01:17
+		Duration:	06:16:44
+		Location:	NULL NULL
+
+(26) - 0.0 km msc 6, trigger, 863062
+	ASEIS1
+		Images:	12222
+		Time:	31.12.2013 16:00:01 until 31.12.2099 22:59:59
+		Duration:	31411.06:59:58
+		Location:	NULL NULL
+
+(27) - 0.0 km natalie osorio, msc 8, 863069
+	XNAT1
+		Images:	2464
+		Time:	21.09.2025 11:43:43 until 21.09.2025 14:54:21
+		Duration:	03:10:38
+		Location:	NULL NULL
+
+(28) - 0.0 km natalie, msc 8, 863069
+	ANAT1
+		Images:	6986
+		Time:	21.09.2025 08:48:32 until 21.09.2025 11:42:18
+		Duration:	02:53:46
+		Location:	NULL NULL
+
+(29) - 0.0 km nathan taylor, msc 3, 863052
+	ATAY1
+		Images:	4463
+		Time:	21.09.2025 08:18:21 until 21.09.2025 09:25:23
+		Duration:	01:07:02
+		Location:	NULL NULL
+
+(30) - 0.0 km nathan taylor, msc 6, 863061
+	XTAY1
+		Images:	5767
+		Time:	21.09.2025 10:13:02 until 21.09.2025 13:22:41
+		Duration:	03:09:39
+		Location:	NULL NULL
+
+(31) - 0.0 km omar, medals, 863073
+	AOMAR1
+		Images:	1450
+		Time:	21.09.2025 08:52:22 until 21.09.2025 15:23:25
+		Duration:	06:31:03
+		Location:	NULL NULL
+
+(32) - 0.0 km pre finish trigger d4
+	APFT1
+		Images:	14304
+		Time:	21.09.2025 07:35:56 until 21.09.2025 12:01:47
+		Duration:	04:25:51
+		Location:	NULL NULL
+
+(33) - 0.0 km pre finish trigger, 863037
+	CTRIG1
+		Images:	14631
+		Time:	21.09.2025 07:34:01 until 21.09.2025 11:56:35
+		Duration:	04:22:34
+		Location:	NULL NULL
+
+(34) - 0.0 km pre finish trigger, right side, 863043
+	APFR1
+		Images:	21489
+		Time:	02.01.2014 07:36:57 until 02.01.2014 14:22:52
+		Duration:	06:45:55
+		Location:	NULL NULL
+
+(35) - 0.0 km pre finish upshot trigger, 863044
+	YPFT1
+		Images:	7790
+		Time:	01.01.0001 23:00:00 until 01.01.0001 23:00:00
+		Duration:	00:00:00
+		Location:	NULL NULL
+
+(36) - 0.0 km pre pre finish trigger
+	APPFT1
+		Images:	10445
+		Time:	16.07.2000 18:52:04 until 20.09.2025 11:56:06
+		Duration:	9196.17:04:02
+		Location:	NULL NULL
+
+(37) - 0.0 km renita, medals
+	AREN1
+		Images:	976
+		Time:	21.09.2025 09:09:55 until 21.09.2025 14:03:16
+		Duration:	04:53:21
+		Location:	NULL NULL
+
+(38) - 0.0 km Serkan, msc 4, 863058
+	ASERK1
+		Images:	7568
+		Time:	21.09.2025 08:23:16 until 21.09.2025 13:39:53
+		Duration:	05:16:37
+		Location:	NULL NULL
+
+(39) - 0.0 km shoshana medals, 863077
+	ASHOS1
+		Images:	1050
+		Time:	21.09.2025 09:13:42 until 21.09.2025 13:43:42
+		Duration:	04:30:00
+		Location:	NULL NULL
+
+(40) - 0.0 km steffie, msc 4, 863056
+	XSTEF1
+		Images:	9223
+		Time:	21.09.2025 08:28:44 until 21.09.2025 13:41:43
+		Duration:	05:12:59
+		Location:	NULL NULL
+
+(41) - 0.0 km tatiana, medals, 863072
+	ATAT1
+		Images:	1124
+		Time:	21.09.2025 08:23:52 until 21.09.2025 13:43:56
+		Duration:	05:20:04
+		Location:	NULL NULL
+
+(42) - 0.0 km terry wherry, msc 8 , 863067
+	XTER1
+		Images:	6551
+		Time:	21.09.2025 11:43:41 until 21.09.2025 14:56:17
+		Duration:	03:12:36
+		Location:	NULL NULL
+
+(43) - 0.0 km terry wherry, msc 8, 863067
+	ATERR1
+		Images:	8212
+		Time:	21.09.2025 08:54:59 until 21.09.2025 11:43:18
+		Duration:	02:48:19
+		Location:	NULL NULL
+
+(44) - 0.0 km trent, 863039 pre finish
+	ATREN1
+		Images:	29631
+		Time:	21.09.2025 08:24:50 until 21.09.2025 15:27:32
+		Duration:	07:02:42
+		Location:	NULL NULL
+
+(45) - 0.0 km trigger, 863066, msc 7
+	ASEIT1
+		Images:	1246
+		Time:	21.09.2025 06:21:23 until 21.09.2025 11:06:35
+		Duration:	04:45:12
+		Location:	NULL NULL
+
+(46) - 0.0 km trigger, msc 3, 863055
+	ATRES1
+		Images:	4114
+		Time:	31.12.2013 16:00:01 until 31.12.2099 22:59:59
+		Duration:	31411.06:59:58
+		Location:	NULL NULL
+
+(47) - 0.0 km trigger, msc 8, 863070
+	AOCHO1
+		Images:	5441
+		Time:	21.09.2025 09:55:08 until 21.09.2025 11:40:13
+		Duration:	01:45:05
+		Location:	NULL NULL
+
+(48) - Impressions / Pano
+	PANO1

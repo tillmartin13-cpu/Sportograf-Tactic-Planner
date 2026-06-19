@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "45.92790" lon = "6.86895"><name>MDS1</name><desc>Start
+Images:216
+First:25.08.2025 23:12:00
+Last:26.08.2025 00:00:00
+Duration:00:48:00
+</desc></wpt>
+<wpt lat = "45.92790" lon = "6.86895"><name>MATR2</name><desc>Start
+Images:86
+First:25.08.2025 23:12:02
+Last:25.08.2025 23:52:05
+Duration:00:40:03
+</desc></wpt>
+<wpt lat = "45.68675" lon = "6.87824"><name>MATR1</name><desc>34.0 km Lago Verney
+Images:2328
+First:26.08.2025 02:40:32
+Last:26.08.2025 09:19:19
+Duration:06:38:47
+</desc></wpt>
+<wpt lat = "45.68675" lon = "6.87824"><name>MATR1LS1</name><desc>34.0 km Lago Verney
+Images:1990
+First:26.08.2025 03:02:03
+Last:26.08.2025 08:26:20
+Duration:05:24:17
+</desc></wpt>
+<wpt lat = "45.68455" lon = "6.88195"><name>MDS2</name><desc>34.5 km Lago Verney
+Images:1762
+First:26.08.2025 03:45:20
+Last:26.08.2025 08:59:25
+Duration:05:14:05
+</desc></wpt>
+<wpt lat = "45.68455" lon = "6.88195"><name>MDS2LS1</name><desc>34.5 km Lago Verney
+Images:3816
+First:26.08.2025 02:50:41
+Last:26.08.2025 19:42:03
+Duration:16:51:22
+</desc></wpt>
+<wpt lat = "45.63991" lon = "6.73850"><name>LULE2</name><desc>56.7 km Fort de la Platte
+Images:9194
+First:26.08.2025 06:04:13
+Last:26.08.2025 13:47:53
+Duration:07:43:40
+</desc></wpt>
+<wpt lat = "45.63808" lon = "6.74253"><name>MAWI1LS1</name><desc>55.6 km Fort de la Platte
+Images:6234
+First:26.08.2025 06:35:12
+Last:26.08.2025 13:52:28
+Duration:07:17:16
+</desc></wpt>
+<wpt lat = "45.63808" lon = "6.74253"><name>MAWI1</name><desc>55.6 km Fort de la Platte
+Images:2509
+First:26.08.2025 05:47:50
+Last:26.08.2025 13:41:46
+Duration:07:53:56
+</desc></wpt>
+<wpt lat = "45.66827" lon = "6.71212"><name>BP1</name><desc>61.6 km Le passeur de Pralognan
+Images:4884
+First:26.08.2025 06:44:55
+Last:26.08.2025 16:49:20
+Duration:10:04:25
+</desc></wpt>
+<wpt lat = "45.66827" lon = "6.71212"><name>BP1LS1</name><desc>61.4 km Le passeur de Pralognan
+Images:2932
+First:26.08.2025 06:52:58
+Last:26.08.2025 16:53:32
+Duration:10:00:34
+</desc></wpt>
+<wpt lat = "45.66897" lon = "6.71207"><name>TNR1LS1</name><desc>61.4 km Le passeur de Pralognan
+Images:3233
+First:26.08.2025 07:18:47
+Last:26.08.2025 17:00:41
+Duration:09:41:54
+</desc></wpt>
+<wpt lat = "45.66604" lon = "6.71119"><name>TNR1</name><desc>61.4 km Le passeur de Pralognan
+Images:1837
+First:26.08.2025 07:22:34
+Last:26.08.2025 16:44:33
+Duration:09:21:59
+</desc></wpt>
+<wpt lat = "45.72440" lon = "6.68876"><name>HS1</name><desc>75.7 km Chemin de Cure
+Images:3411
+First:26.08.2025 08:24:50
+Last:26.08.2025 18:37:02
+Duration:10:12:12
+</desc></wpt>
+<wpt lat = "45.72440" lon = "6.68876"><name>HS1LS1</name><desc>75.7 km Chemin de Cure
+Images:2245
+First:26.08.2025 07:47:34
+Last:26.08.2025 18:39:56
+Duration:10:52:22
+</desc></wpt>
+<wpt lat = "45.72386" lon = "6.68878"><name>ROB1LS1</name><desc>75.8 km Chemin de Cure
+Images:350
+First:26.08.2025 07:56:44
+Last:26.08.2025 13:43:50
+Duration:05:47:06
+</desc></wpt>
+<wpt lat = "45.72386" lon = "6.68878"><name>ROB1</name><desc>75.8 km Chemin de Cure
+Images:3762
+First:01.01.0001 23:00:00
+Last:26.08.2025 17:50:44
+Duration:739487.18:50:44
+</desc></wpt>
+<wpt lat = "45.92372" lon = "6.86902"><name>MATR3LS1</name><desc>Finish
+Images:1135
+First:26.08.2025 19:44:34
+Last:27.08.2025 05:00:31
+Duration:09:15:57
+</desc></wpt>
+<wpt lat = "45.92372" lon = "6.86902"><name>MATR3</name><desc>Finish
+Images:1012
+First:26.08.2025 19:42:51
+Last:27.08.2025 05:11:57
+Duration:09:29:06
+</desc></wpt>
+<wpt lat = "45.92372" lon = "6.86902"><name>MDS3</name><desc>Finish
+Images:603
+First:26.08.2025 20:05:23
+Last:27.08.2025 03:03:32
+Duration:06:58:09
+</desc></wpt>
+<wpt lat = "45.92372" lon = "6.86902"><name>MDS3LS1</name><desc>Finish
+Images:1039
+First:26.08.2025 19:43:51
+Last:27.08.2025 18:30:17
+Duration:22:46:26
+</desc></wpt>
+<wpt lat = "45.92372" lon = "6.86902"><name>MAWI2LS1</name><desc>Finish
+Images:1227
+First:27.08.2025 04:48:39
+Last:27.08.2025 12:43:17
+Duration:07:54:38
+</desc></wpt>
+<wpt lat = "45.92372" lon = "6.86902"><name>MAWI2</name><desc>Finish
+Images:2109
+First:09.08.2025 10:20:50
+Last:26.04.2035 20:05:28
+Duration:3547.09:44:38
+</desc></wpt>
+<wpt lat = "45.92372" lon = "6.86902"><name>LULE1</name><desc>Finish
+Images:3444
+First:27.08.2025 07:17:39
+Last:27.08.2025 13:16:12
+Duration:05:58:33
+</desc></wpt>
+<wpt lat = "45.92372" lon = "6.86902"><name>TNR2</name><desc>Finish
+Images:1856
+First:27.08.2025 15:15:11
+Last:27.08.2025 21:01:19
+Duration:05:46:08
+</desc></wpt>
+<wpt lat = "45.92372" lon = "6.86902"><name>TNR2LS1</name><desc>Finish
+Images:4810
+First:27.08.2025 15:07:03
+Last:27.08.2025 20:47:27
+Duration:05:40:24
+</desc></wpt>
+</gpx>

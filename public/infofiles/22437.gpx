@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "34.14591" lon = "-118.12140"><name>MASAT1</name><desc>1.9 Mile Turnaround
+Images:1508
+First:31.12.2025 22:45:29
+Last:31.12.2025 23:47:06
+Duration:01:01:37
+</desc></wpt>
+<wpt lat = "34.14573" lon = "-118.15414"><name>DAVID2</name><desc>Start
+Images:102
+First:31.12.2025 22:15:45
+Last:31.12.2025 23:00:43
+Duration:00:44:58
+</desc></wpt>
+<wpt lat = "34.14573" lon = "-118.15414"><name>KENNE2</name><desc>Start
+Images:449
+First:31.12.2025 22:17:55
+Last:31.12.2025 23:13:36
+Duration:00:55:41
+</desc></wpt>
+<wpt lat = "34.14580" lon = "-118.14431"><name>DAVID3</name><desc>Ceremony
+Images:442
+First:31.12.2025 22:15:45
+Last:01.01.2026 00:33:19
+Duration:02:17:34
+</desc></wpt>
+<wpt lat = "34.14580" lon = "-118.14424"><name>THOMA1</name><desc>Finish
+Images:3357
+First:31.12.2025 22:13:06
+Last:01.01.2026 00:07:11
+Duration:01:54:05
+</desc></wpt>
+<wpt lat = "34.14580" lon = "-118.14424"><name>KENNE1</name><desc>Finish
+Images:921
+First:31.12.2025 23:42:53
+Last:01.01.2026 00:15:58
+Duration:00:33:05
+</desc></wpt>
+</gpx>

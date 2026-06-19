@@ -1,0 +1,515 @@
+EventId: 13351
+Spots: 76
+Total Images: 905285
+Time:	01.01.0001 23:00:00 to 27.10.2024 23:11:40
+Duration: 739185.00:11:40
+
+(1) - 0,0 km FINISH GUY 857495
+	EGUY1
+		Images:	25636
+		Time:	27.10.2024 18:02:34 until 27.10.2024 23:11:40
+		Duration:	05:09:06
+		Location:	NULL NULL
+
+(2) - 0,0 km MID GUS 851521
+	EGUS1
+		Images:	23929
+		Time:	27.10.2024 09:41:45 until 27.10.2024 14:06:58
+		Duration:	04:25:13
+		Location:	NULL NULL
+
+(3) - 0,0 km MSC 10 RACHEL 857530
+	ERCZ1
+		Images:	23593
+		Time:	27.10.2024 08:32:02 until 27.10.2024 12:58:58
+		Duration:	04:26:56
+		Location:	NULL NULL
+
+(4) - 0,0 km MSC 10 TRENT 857529
+	ETWEL1
+		Images:	14733
+		Time:	27.10.2024 07:22:13 until 27.10.2024 11:57:25
+		Duration:	04:35:12
+		Location:	NULL NULL
+
+(5) - 0,0 km MSC 11 857531 CRAIG
+	ECRAM1
+		Images:	15289
+		Time:	27.10.2024 05:50:51 until 27.10.2024 12:07:37
+		Duration:	06:16:46
+		Location:	NULL NULL
+
+(6) - 0,0 km MSC 13 TOBY 857536
+	ETOBY1
+		Images:	25471
+		Time:	27.10.2024 09:10:26 until 27.10.2024 14:12:00
+		Duration:	05:01:34
+		Location:	NULL NULL
+
+(7) - 0,0 km MSC 7 857523 ALAN
+	EANG1
+		Images:	32456
+		Time:	27.10.2024 06:28:32 until 27.10.2024 10:40:07
+		Duration:	04:11:35
+		Location:	NULL NULL
+
+(8) - 0,0 km MSC 7 857524 ROBYN
+	ERBR1
+		Images:	6940
+		Time:	27.10.2024 07:22:37 until 27.10.2024 11:35:16
+		Duration:	04:12:39
+		Location:	NULL NULL
+
+(9) - 0,0 km MSC 7 MICHELE DANDREA 859660
+	EMDA1
+		Images:	5376
+		Time:	27.10.2024 07:29:26 until 27.10.2024 11:21:52
+		Duration:	03:52:26
+		Location:	NULL NULL
+
+(10) - 0,0 km MSC 9 TERRY 857527
+	ETWE1
+		Images:	19617
+		Time:	27.10.2024 06:56:00 until 27.10.2024 10:58:22
+		Duration:	04:02:22
+		Location:	NULL NULL
+
+(11) - 0.0 km
+	DBRFR1
+		Images:	583
+		Time:	27.10.2024 07:32:41 until 27.10.2024 13:53:48
+		Duration:	06:21:07
+		Location:	NULL NULL
+
+	DCHMC1
+		Images:	12726
+		Time:	27.10.2024 10:31:33 until 27.10.2024 14:05:30
+		Duration:	03:33:57
+		Location:	NULL NULL
+
+	DCLBI1
+		Images:	9968
+		Time:	26.10.2024 21:16:03 until 27.10.2024 02:57:03
+		Duration:	05:41:00
+		Location:	NULL NULL
+
+	DEUHO1
+		Images:	1391
+		Time:	27.10.2024 07:16:09 until 27.10.2024 14:10:00
+		Duration:	06:53:51
+		Location:	NULL NULL
+
+	DITDE1
+		Images:	976
+		Time:	27.10.2024 06:59:19 until 27.10.2024 14:17:32
+		Duration:	07:18:13
+		Location:	NULL NULL
+
+	DJACO1
+		Images:	1536
+		Time:	27.10.2024 07:31:34 until 27.10.2024 14:18:22
+		Duration:	06:46:48
+		Location:	NULL NULL
+
+	DJETH1
+		Images:	983
+		Time:	27.10.2024 06:54:32 until 27.10.2024 14:18:42
+		Duration:	07:24:10
+		Location:	NULL NULL
+
+	DJIDE1
+		Images:	32296
+		Time:	27.10.2024 09:41:27 until 27.10.2024 14:05:25
+		Duration:	04:23:58
+		Location:	NULL NULL
+
+	DKEHA1
+		Images:	1735
+		Time:	27.10.2024 07:00:33 until 27.10.2024 14:12:18
+		Duration:	07:11:45
+		Location:	NULL NULL
+
+	DKIWA1
+		Images:	2154
+		Time:	27.10.2024 07:34:07 until 27.10.2024 13:33:07
+		Duration:	05:59:00
+		Location:	NULL NULL
+
+	DLOLE1
+		Images:	868
+		Time:	27.10.2024 08:25:59 until 27.10.2024 13:04:17
+		Duration:	04:38:18
+		Location:	NULL NULL
+
+	DMEBA1
+		Images:	2992
+		Time:	27.10.2024 08:51:12 until 27.10.2024 14:16:49
+		Duration:	05:25:37
+		Location:	NULL NULL
+
+	DMESM1
+		Images:	381
+		Time:	27.10.2024 07:37:05 until 27.10.2024 13:41:47
+		Duration:	06:04:42
+		Location:	NULL NULL
+
+	DMIHA1
+		Images:	923
+		Time:	27.10.2024 07:32:11 until 27.10.2024 13:52:25
+		Duration:	06:20:14
+		Location:	NULL NULL
+
+	DPAPA1
+		Images:	2551
+		Time:	27.10.2024 07:28:25 until 27.10.2024 14:06:22
+		Duration:	06:37:57
+		Location:	NULL NULL
+
+	DPEKO1
+		Images:	6545
+		Time:	27.10.2024 08:07:36 until 27.10.2024 13:17:13
+		Duration:	05:09:37
+		Location:	NULL NULL
+
+	DSIBH1
+		Images:	8523
+		Time:	31.12.2013 19:00:29 until 27.10.2024 12:22:30
+		Duration:	3952.17:22:01
+		Location:	NULL NULL
+
+	DTARH1
+		Images:	936
+		Time:	26.10.2024 20:26:07 until 27.10.2024 02:59:21
+		Duration:	06:33:14
+		Location:	NULL NULL
+
+	DWIDE1
+		Images:	20863
+		Time:	27.10.2024 09:39:34 until 27.10.2024 14:09:23
+		Duration:	04:29:49
+		Location:	NULL NULL
+
+(12) - 0.0 km 10K START GENTIAN
+	BGENT1
+		Images:	911
+		Time:	26.10.2024 07:56:24 until 26.10.2024 08:14:12
+		Duration:	00:17:48
+		Location:	NULL NULL
+
+(13) - 0.0 km 10K START TERRY 857501
+	BTWE1
+		Images:	1776
+		Time:	27.10.2024 06:12:17 until 27.10.2024 07:03:41
+		Duration:	00:51:24
+		Location:	NULL NULL
+
+(14) - 0.0 km BRUCE PR
+	CBPR1
+		Images:	772
+		Time:	27.10.2024 06:42:58 until 27.10.2024 10:56:37
+		Duration:	04:13:39
+		Location:	NULL NULL
+
+(15) - 0.0 km FINISH LANCE 857496
+	BLAN1
+		Images:	27639
+		Time:	27.10.2024 13:05:29 until 27.10.2024 18:14:33
+		Duration:	05:09:04
+		Location:	NULL NULL
+
+(16) - 0.0 km FINISH TRIGGER LEFT
+	CFTL1
+		Images:	13837
+		Time:	27.10.2024 09:34:00 until 27.10.2024 13:42:53
+		Duration:	04:08:53
+		Location:	NULL NULL
+
+(17) - 0.0 km FINISH TRIGGER RIGHT
+	CFTR1
+		Images:	11885
+		Time:	27.10.2024 09:29:00 until 27.10.2024 14:13:27
+		Duration:	04:44:27
+		Location:	NULL NULL
+
+(18) - 0.0 km JONATHAN START 857500
+	CJST1
+		Images:	584
+		Time:	27.10.2024 06:43:09 until 27.10.2024 07:43:53
+		Duration:	01:00:44
+		Location:	NULL NULL
+
+(19) - 0.0 km MEDALS JIM 857545
+	CJIM1
+		Images:	1891
+		Time:	27.10.2024 06:51:24 until 27.10.2024 13:55:10
+		Duration:	07:03:46
+		Location:	NULL NULL
+
+(20) - 0.0 km MID LUCAS 857522
+	FLUC1
+		Images:	26615
+		Time:	27.10.2024 09:44:06 until 27.10.2024 14:11:21
+		Duration:	04:27:15
+		Location:	NULL NULL
+
+(21) - 0.0 km MSC 10 AZIF 859662
+	FJAZ1
+		Images:	24927
+		Time:	27.10.2024 07:27:41 until 27.10.2024 11:57:48
+		Duration:	04:30:07
+		Location:	NULL NULL
+
+(22) - 0.0 km MSC 10 SARA 859663
+	BSLA1
+		Images:	20568
+		Time:	27.10.2024 06:56:37 until 27.10.2024 12:02:10
+		Duration:	05:05:33
+		Location:	NULL NULL
+
+(23) - 0.0 km MSC 10 TRIGGER 2 859665
+	CTRJB1
+		Images:	14541
+		Time:	27.10.2024 06:22:57 until 27.10.2024 11:58:21
+		Duration:	05:35:24
+		Location:	NULL NULL
+
+(24) - 0.0 km MSC 10 TRIGGER 859664
+	CTRJA1
+		Images:	12581
+		Time:	27.10.2024 06:28:42 until 27.10.2024 18:16:50
+		Duration:	11:48:08
+		Location:	NULL NULL
+
+(25) - 0.0 km MSC 11 857511 TRIGGER
+	BTRK1
+		Images:	13746
+		Time:	27.10.2024 06:10:18 until 27.10.2024 12:08:12
+		Duration:	05:57:54
+		Location:	NULL NULL
+
+(26) - 0.0 km MSC 11 857532 CEZARY
+	FCZ1
+		Images:	12065
+		Time:	27.10.2024 05:29:58 until 27.10.2024 10:49:05
+		Duration:	05:19:07
+		Location:	NULL NULL
+
+(27) - 0.0 km MSC 11 863969 DAVID BUKY
+	BDBU1
+		Images:	12033
+		Time:	27.10.2024 06:14:21 until 27.10.2024 11:42:49
+		Duration:	05:28:28
+		Location:	NULL NULL
+
+(28) - 0.0 km MSC 12 TRIGGER 859658
+	CTRL1
+		Images:	8024
+		Time:	20.10.2024 07:56:37 until 27.10.2024 12:52:41
+		Duration:	7.04:56:04
+		Location:	NULL NULL
+
+(29) - 0.0 km MSC 12 VOLODYMR 859657
+	CVOLO1
+		Images:	11198
+		Time:	27.10.2024 10:16:11 until 27.10.2024 14:04:09
+		Duration:	03:47:58
+		Location:	NULL NULL
+
+(30) - 0.0 km MSC 13 DARREN 857535
+	BDKEP1
+		Images:	27302
+		Time:	27.10.2024 09:25:20 until 27.10.2024 14:18:17
+		Duration:	04:52:57
+		Location:	NULL NULL
+
+(31) - 0.0 km MSC 13 MARCO 860552
+	FMARC1
+		Images:	17478
+		Time:	27.10.2024 09:20:32 until 27.10.2024 14:09:23
+		Duration:	04:48:51
+		Location:	NULL NULL
+
+(32) - 0.0 km MSC 13 TRIGGER 859655
+	CTRM1
+		Images:	15428
+		Time:	27.10.2024 09:16:36 until 27.10.2024 14:06:53
+		Duration:	04:50:17
+		Location:	NULL NULL
+
+(33) - 0.0 km MSC 4 857519 CHARLIE
+	CCMC1
+		Images:	9993
+		Time:	27.10.2024 06:48:04 until 27.10.2024 09:48:17
+		Duration:	03:00:13
+		Location:	NULL NULL
+
+(34) - 0.0 km MSC 4 857520 V BUKALO
+	CVOL1
+		Images:	8220
+		Time:	27.10.2024 07:14:03 until 27.10.2024 09:54:13
+		Duration:	02:40:10
+		Location:	NULL NULL
+
+(35) - 0.0 km MSC 5 RICO 860541
+	CRICO1
+		Images:	11825
+		Time:	27.10.2024 07:51:01 until 27.10.2024 10:04:00
+		Duration:	02:12:59
+		Location:	NULL NULL
+
+(36) - 0.0 km MSC 5 TRIGGER 860542
+	CTRE1
+		Images:	6889
+		Time:	27.10.2024 04:50:26 until 27.10.2024 07:06:17
+		Duration:	02:15:51
+		Location:	NULL NULL
+
+(37) - 0.0 km MSC 6 860543 ALEX
+	CAKR1
+		Images:	10688
+		Time:	27.10.2024 07:24:06 until 27.10.2024 10:30:56
+		Duration:	03:06:50
+		Location:	NULL NULL
+
+(38) - 0.0 km MSC 6 860544 JOSEPH CERNOCK
+	BJCE1
+		Images:	10621
+		Time:	27.10.2024 07:24:21 until 27.10.2024 10:54:06
+		Duration:	03:29:45
+		Location:	NULL NULL
+
+(39) - 0.0 km MSC 6 TRIGGER 1 860545
+	BTRFA1
+		Images:	8855
+		Time:	27.10.2024 07:36:02 until 27.10.2024 10:32:02
+		Duration:	02:56:00
+		Location:	NULL NULL
+
+(40) - 0.0 km MSC 8 857525 JAMES
+	BJWH1
+		Images:	13482
+		Time:	27.10.2024 07:40:24 until 27.10.2024 11:43:32
+		Duration:	04:03:08
+		Location:	NULL NULL
+
+(41) - 0.0 km MSC 8 GERALD 857526
+	FGWY1
+		Images:	12848
+		Time:	27.10.2024 05:27:30 until 27.10.2024 09:40:33
+		Duration:	04:13:03
+		Location:	NULL NULL
+
+(42) - 0.0 km MSC 9 857528 GENTIAN
+	FGENT1
+		Images:	14975
+		Time:	26.10.2024 09:22:36 until 26.10.2024 13:05:11
+		Duration:	03:42:35
+		Location:	NULL NULL
+
+(43) - 0.0 km MSC 9 TRIGGER 857508
+	BTRI1
+		Images:	17950
+		Time:	27.10.2024 08:05:19 until 27.10.2024 11:53:34
+		Duration:	03:48:15
+		Location:	NULL NULL
+
+(44) - 0.0 km MSC TRIGGER 2 860546
+	CTRFB1
+		Images:	8975
+		Time:	27.10.2024 07:24:19 until 27.10.2024 10:30:13
+		Duration:	03:05:54
+		Location:	NULL NULL
+
+(45) - 0.0 km MSC7 TRIGGER 1 859661
+	FTRGA1
+		Images:	11122
+		Time:	27.10.2024 07:23:10 until 27.10.2024 11:38:05
+		Duration:	04:14:55
+		Location:	NULL NULL
+
+(46) - 0.0 km PETER MEDALS 857543
+	CPETE1
+		Images:	1316
+		Time:	27.10.2024 13:17:56 until 27.10.2024 14:24:12
+		Duration:	01:06:16
+		Location:	NULL NULL
+
+(47) - 0.0 km PRE FIN ABDO 857539
+	FABD1
+		Images:	13861
+		Time:	27.10.2024 10:37:50 until 27.10.2024 14:14:22
+		Duration:	03:36:32
+		Location:	NULL NULL
+
+(48) - 0.0 km PRE FIN DAVE T 857537
+	BDTID1
+		Images:	24003
+		Time:	27.10.2024 09:08:16 until 27.10.2024 13:50:43
+		Duration:	04:42:27
+		Location:	NULL NULL
+
+(49) - 0.0 km PRE FIN FABRIZIO 857540
+	BFAB1
+		Images:	8060
+		Time:	27.10.2024 11:53:18 until 27.10.2024 14:14:15
+		Duration:	02:20:57
+		Location:	NULL NULL
+
+(50) - 0.0 km PRE FIN JROB 857538
+	CJROB1
+		Images:	24561
+		Time:	27.10.2024 07:55:15 until 27.10.2024 14:13:43
+		Duration:	06:18:28
+		Location:	NULL NULL
+
+(51) - 0.0 km PRE FIN TRIGGER LEFT
+	CPFTL1
+		Images:	15665
+		Time:	27.10.2024 09:36:03 until 27.10.2024 14:07:27
+		Duration:	04:31:24
+		Location:	NULL NULL
+
+(52) - 0.0 km PRE FIN TRIGGER RIGHT
+	CPFTR1
+		Images:	12612
+		Time:	27.10.2024 09:50:31 until 27.10.2024 14:01:41
+		Duration:	04:11:10
+		Location:	NULL NULL
+
+(53) - 0.0 km PRE FIN UP
+	CPFUP1
+		Images:	22584
+		Time:	01.01.0001 23:00:00 until 27.10.2024 14:13:54
+		Duration:	739184.15:13:54
+		Location:	NULL NULL
+
+(54) - 0.0 km RICO PRE FIN 860550
+	CMOR1
+		Images:	10131
+		Time:	27.10.2024 12:09:43 until 27.10.2024 14:13:46
+		Duration:	02:04:03
+		Location:	NULL NULL
+
+(55) - 0.0 km TRIGGER MID 860549
+	FMMTR1
+		Images:	18703
+		Time:	26.10.2024 05:56:15 until 27.10.2024 14:35:54
+		Duration:	1.08:39:39
+		Location:	NULL NULL
+
+(56) - 0.0 km TRIGGER MSC 2 860540
+	CTRB1
+		Images:	7733
+		Time:	27.10.2024 07:02:31 until 27.10.2024 10:38:12
+		Duration:	03:35:41
+		Location:	NULL NULL
+
+(57) - 0.0 km TRIGGER MSC 8 857509
+	BTRHA1
+		Images:	21842
+		Time:	27.10.2024 07:27:11 until 27.10.2024 10:49:11
+		Duration:	03:22:00
+		Location:	NULL NULL
+
+(58) - Impressions / Pano
+	PANO1

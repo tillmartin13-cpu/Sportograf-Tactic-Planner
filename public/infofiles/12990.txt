@@ -1,0 +1,79 @@
+EventId: 12990
+Spots: 12
+Total Images: 26363
+Time:	01.01.0001 23:00:00 to 27.01.2024 09:26:04
+Duration: 738910.10:26:04
+
+(1) - 0.0 km Brad Kroll - PR Images
+	BBK1
+		Images:	253
+		Time:	27.01.2024 07:25:27 until 27.01.2024 09:26:04
+		Duration:	02:00:37
+		Location:	NULL NULL
+
+(2) - 0.0 km MSC 1 Trigger Cam order 857661
+	BTC1
+		Images:	1871
+		Time:	27.01.2024 07:47:15 until 27.01.2024 08:19:09
+		Duration:	00:31:54
+		Location:	NULL NULL
+
+(3) - 0.0 km MSC 1, Trent Wellot, order 857662
+	BTW1
+		Images:	2801
+		Time:	13.01.2024 07:47:50 until 27.01.2024 07:29:20
+		Duration:	13.23:41:30
+		Location:	NULL NULL
+
+(4) - 0.0 km Salvo Campos Order 857660, MSC 1
+	BSC1
+		Images:	1314
+		Time:	27.01.2024 07:25:35 until 27.01.2024 08:13:57
+		Duration:	00:48:22
+		Location:	NULL NULL
+
+(5) - Impressions / Pano
+	PANO1
+(6) - none
+	BPFTR1
+		Images:	2848
+		Time:	27.01.2024 05:32:13 until 27.01.2024 06:43:54
+		Duration:	01:11:41
+		Location:	NULL NULL
+
+	EBHAR1
+		Images:	1784
+		Time:	01.01.0001 23:00:00 until 27.01.2024 07:48:53
+		Duration:	738910.08:48:53
+		Location:	NULL NULL
+
+	EPFTR1
+		Images:	2848
+		Time:	27.01.2024 05:32:13 until 27.01.2024 06:43:54
+		Duration:	01:11:41
+		Location:	NULL NULL
+
+	EPPTR1
+		Images:	1173
+		Time:	27.01.2024 06:05:31 until 27.01.2024 07:37:07
+		Duration:	01:31:36
+		Location:	NULL NULL
+
+	OAM1
+		Images:	7065
+		Time:	27.01.2024 06:38:57 until 27.01.2024 07:41:17
+		Duration:	01:02:20
+		Location:	NULL NULL
+
+	OFTR1
+		Images:	3023
+		Time:	27.01.2024 05:55:38 until 27.01.2024 07:43:30
+		Duration:	01:47:52
+		Location:	NULL NULL
+
+	OSORT1
+		Images:	1383
+		Time:	31.12.2006 19:00:23 until 27.01.2024 07:51:14
+		Duration:	6235.12:50:51
+		Location:	NULL NULL
+

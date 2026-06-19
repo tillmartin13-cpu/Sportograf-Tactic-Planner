@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "52.46217" lon = "13.32575"><name>EBO1</name><desc>Start
+Images:938
+First:24.08.2025 08:15:06
+Last:24.08.2025 09:22:04
+Duration:01:06:58
+</desc></wpt>
+<wpt lat = "52.46217" lon = "13.32575"><name>JAKR1</name><desc>Start
+Images:521
+First:22.08.2025 08:14:25
+Last:22.08.2025 09:20:14
+Duration:01:05:49
+</desc></wpt>
+<wpt lat = "52.47866" lon = "13.31250"><name>FAW1</name><desc>Heidelberger Platz
+Images:6184
+First:24.08.2025 09:23:18
+Last:24.08.2025 11:49:33
+Duration:02:26:15
+</desc></wpt>
+<wpt lat = "52.47229" lon = "13.31425"><name>MIRW1</name><desc>Rüdesheimer Platz
+Images:6998
+First:24.08.2025 09:08:58
+Last:24.08.2025 11:48:22
+Duration:02:39:24
+</desc></wpt>
+<wpt lat = "52.47008" lon = "13.31611"><name>BOC1</name><desc>Baumallee Geisenheimer Straße
+Images:9627
+First:24.08.2025 08:23:13
+Last:24.08.2025 11:50:01
+Duration:03:26:48
+</desc></wpt>
+<wpt lat = "52.47153" lon = "13.32538"><name>SIG1</name><desc>Baumallee Wiesbadener Straße
+Images:13340
+First:24.08.2025 08:14:32
+Last:24.08.2025 12:06:56
+Duration:03:52:24
+</desc></wpt>
+<wpt lat = "52.47048" lon = "13.32830"><name>RYS1</name><desc>Friedrich-Wilhelm-Platz Kirche
+Images:12065
+First:24.08.2026 08:37:09
+Last:24.08.2026 12:08:42
+Duration:03:31:33
+</desc></wpt>
+<wpt lat = "52.47048" lon = "13.32830"><name>RYS1LS1</name><desc>Friedrich-Wilhelm-Platz Kirche
+Images:5273
+First:24.08.2025 08:29:49
+Last:24.08.2025 11:57:45
+Duration:03:27:56
+</desc></wpt>
+<wpt lat = "52.47048" lon = "13.32830"><name>RYS1LS2</name><desc>Friedrich-Wilhelm-Platz Kirche
+Images:5270
+First:24.08.2025 08:18:31
+Last:24.08.2025 11:57:47
+Duration:03:39:16
+</desc></wpt>
+<wpt lat = "52.46729" lon = "13.32759"><name>CM1</name><desc>Baumallee Bundesallee
+Images:7722
+First:24.08.2025 08:20:28
+Last:24.08.2025 11:54:08
+Duration:03:33:40
+</desc></wpt>
+<wpt lat = "52.46729" lon = "13.32759"><name>CM1LS1</name><desc>Baumallee Bundesallee
+Images:4089
+First:24.08.2025 09:29:42
+Last:24.08.2025 11:51:50
+Duration:02:22:08
+</desc></wpt>
+<wpt lat = "52.46217" lon = "13.32575"><name>EBO2</name><desc>Finish
+Images:6172
+First:24.08.2025 09:27:46
+Last:24.08.2025 12:17:10
+Duration:02:49:24
+</desc></wpt>
+<wpt lat = "52.46217" lon = "13.32575"><name>JAKR2</name><desc>Finish
+Images:3869
+First:22.08.2025 09:28:14
+Last:22.08.2025 12:20:00
+Duration:02:51:46
+</desc></wpt>
+</gpx>

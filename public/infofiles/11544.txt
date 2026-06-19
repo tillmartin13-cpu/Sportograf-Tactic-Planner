@@ -1,0 +1,179 @@
+EventId: 11544
+Spots: 26
+Total Images: 199000
+Time:	21.07.2024 08:10:19 to 21.07.2024 17:56:18
+Duration: 09:45:59
+
+(1) - Finish
+	ANJO2LS1
+		Images:	14550
+		Time:	21.07.2024 09:54:48 until 21.07.2024 17:55:59
+		Duration:	08:01:11
+		Location:	48.12245 11.71413
+
+	ANJO2LS2
+		Images:	7699
+		Time:	21.07.2024 09:55:25 until 21.07.2024 17:56:18
+		Duration:	08:00:53
+		Location:	48.12245 11.71413
+
+	BJM1
+		Images:	7976
+		Time:	21.07.2024 08:24:20 until 21.07.2024 17:54:46
+		Duration:	09:30:26
+		Location:	48.12245 11.71413
+
+(2) - Herotent
+	BSHUE1
+		Images:	3605
+		Time:	21.07.2024 09:48:03 until 21.07.2024 17:55:52
+		Duration:	08:07:49
+		Location:	48.12363 11.71377
+
+	BWPO1
+		Images:	1454
+		Time:	21.07.2024 10:00:00 until 21.07.2024 17:51:40
+		Duration:	07:51:40
+		Location:	48.12363 11.71377
+
+(3) - Kiesweg Laufstrecke
+	BNH1LS2
+		Images:	1369
+		Time:	21.07.2024 14:39:47 until 21.07.2024 16:52:59
+		Duration:	02:13:12
+		Location:	48.12209 11.72000
+
+(4) - Kurve nach Krabbelstrecke
+	AYS1LS1
+		Images:	4977
+		Time:	21.07.2024 09:14:19 until 21.07.2024 17:05:06
+		Duration:	07:50:47
+		Location:	48.11739 11.72390
+
+	AYS1LS2
+		Images:	1949
+		Time:	21.07.2024 09:04:40 until 21.07.2024 14:51:04
+		Duration:	05:46:24
+		Location:	48.11739 11.72390
+
+(5) - Laufstrecke Förderband
+	BNH1LS1
+		Images:	1980
+		Time:	21.07.2024 09:07:19 until 21.07.2024 14:34:48
+		Duration:	05:27:29
+		Location:	48.12209 11.72000
+
+(6) - Obstacle 12 Gitterbecken
+	BAKS1
+		Images:	8122
+		Time:	21.07.2024 09:59:21 until 21.07.2024 17:25:17
+		Duration:	07:25:56
+		Location:	48.11934 11.71559
+
+(7) - Obstacle 15 Balance Akt
+	ARSJ1
+		Images:	9184
+		Time:	21.07.2024 09:18:57 until 21.07.2024 17:33:19
+		Duration:	08:14:22
+		Location:	48.12039 11.71945
+
+	ARSJ1LS1
+		Images:	2996
+		Time:	21.07.2024 09:13:59 until 21.07.2024 17:10:51
+		Duration:	07:56:52
+		Location:	48.12039 11.71945
+
+(8) - Obstacle 15 Kletterwand
+	BPGE1
+		Images:	15931
+		Time:	21.07.2024 09:26:25 until 21.07.2024 17:36:41
+		Duration:	08:10:16
+		Location:	48.12064 11.72113
+
+(9) - Obstacle 19 Seiltanz
+	BRAK1
+		Images:	17392
+		Time:	21.07.2024 09:32:28 until 21.07.2024 17:18:22
+		Duration:	07:45:54
+		Location:	48.12272 11.71711
+
+(10) - Obstacle 3 Schlammbecken
+	AIH1
+		Images:	8973
+		Time:	21.07.2024 08:10:19 until 21.07.2024 16:47:36
+		Duration:	08:37:17
+		Location:	48.12228 11.71922
+
+	BNH1
+		Images:	8427
+		Time:	21.07.2024 09:43:55 until 21.07.2024 16:47:46
+		Duration:	07:03:51
+		Location:	48.12228 11.71922
+
+(11) - Obstacle 4 Schaumparty
+	BREM1
+		Images:	13457
+		Time:	21.07.2024 09:46:10 until 21.07.2024 16:53:48
+		Duration:	07:07:38
+		Location:	48.11992 11.72065
+
+	BREM1LS1
+		Images:	2795
+		Time:	21.07.2024 09:31:06 until 21.07.2024 16:53:00
+		Duration:	07:21:54
+		Location:	48.11992 11.72065
+
+(12) - Obstacle 5 nach Pyramide
+	BAKS1LS1
+		Images:	1934
+		Time:	21.07.2024 09:40:11 until 21.07.2024 17:05:25
+		Duration:	07:25:14
+		Location:	48.11967 11.71936
+
+(13) - Obstacle 5 Pyramide
+	AXQ1
+		Images:	17655
+		Time:	21.07.2024 09:26:35 until 21.07.2024 16:54:58
+		Duration:	07:28:23
+		Location:	48.11967 11.71936
+
+(14) - Obstacle 7 Krabbelstrecke
+	AYS1
+		Images:	19665
+		Time:	21.07.2024 08:21:29 until 21.07.2024 17:01:45
+		Duration:	08:40:16
+		Location:	48.11761 11.72356
+
+	BMJO1
+		Images:	9447
+		Time:	21.07.2024 09:28:11 until 21.07.2024 17:00:50
+		Duration:	07:32:39
+		Location:	48.11761 11.72356
+
+(15) - Obstacle 9 Hangelleiter
+	BDASA1
+		Images:	10564
+		Time:	21.07.2024 09:55:27 until 21.07.2024 17:13:57
+		Duration:	07:18:30
+		Location:	48.11979 11.71799
+
+(16) - Quetschwerk Strecke
+	BREM1LS2
+		Images:	6782
+		Time:	21.07.2024 09:10:12 until 21.07.2024 16:58:41
+		Duration:	07:48:29
+		Location:	48.11992 11.72065
+
+(17) - Start
+	ANJO1
+		Images:	87
+		Time:	21.07.2024 16:36:12 until 21.07.2024 16:47:05
+		Duration:	00:10:53
+		Location:	48.12360 11.71398
+
+	ANJO1DRONE1
+		Images:	30
+		Time:	21.07.2024 13:18:58 until 21.07.2024 13:45:38
+		Duration:	00:26:40
+		Location:	48.12360 11.71398
+

@@ -1,0 +1,550 @@
+EventId: 22475
+Spots: 82
+Total Images: 965831
+Time:	01.01.0001 23:00:00 to 12.01.2026 04:33:04
+Duration: 739626.05:33:04
+
+(1) - 0,0 km alan bartos, 866522, msc 5
+	ABART1
+		Images:	9386
+		Time:	11.01.2026 05:46:51 until 11.01.2026 08:19:29
+		Duration:	02:32:38
+		Location:	NULL NULL
+
+(2) - 0,0 km alan bartos, 866559, msc 10
+	BARTO1
+		Images:	10561
+		Time:	11.01.2026 10:11:03 until 11.01.2026 13:26:51
+		Duration:	03:15:48
+		Location:	NULL NULL
+
+(3) - 0,0 km alan ng, (daylight), msc 1, 866549
+	ANG1
+		Images:	9666
+		Time:	11.01.2026 06:10:49 until 11.01.2026 07:02:17
+		Duration:	00:51:28
+		Location:	NULL NULL
+
+(4) - 0,0 km alan ng, (in the dark) msc 1, 866549
+	ALAN1
+		Images:	845
+		Time:	11.01.2026 05:07:51 until 11.01.2026 06:07:44
+		Duration:	00:59:53
+		Location:	NULL NULL
+
+(5) - 0,0 km antwan dickerson, 866550, msc 1,
+	ADICK1
+		Images:	4696
+		Time:	13.12.2025 08:34:28 until 11.01.2026 06:56:37
+		Duration:	28.22:22:09
+		Location:	NULL NULL
+
+(6) - 0,0 km brantley stephens, (dark) 866547, msc 1
+	ABRAN1
+		Images:	727
+		Time:	11.01.2026 05:34:43 until 11.01.2026 06:12:13
+		Duration:	00:37:30
+		Location:	NULL NULL
+
+(7) - 0,0 km brantley stephens, (daylight) 866547, msc 1
+	ASTEP1
+		Images:	4131
+		Time:	11.01.2026 06:12:14 until 11.01.2026 07:00:41
+		Duration:	00:48:27
+		Location:	NULL NULL
+
+(8) - 0,0 km Christina Cortez, 866529, msc 3
+	ACHRI1
+		Images:	13674
+		Time:	11.01.2026 05:48:09 until 11.01.2026 07:59:55
+		Duration:	02:11:46
+		Location:	NULL NULL
+
+(9) - 0,0 km christina cortez, 866570, msc 7
+	ACORT1
+		Images:	3283
+		Time:	11.01.2026 09:09:10 until 11.01.2026 10:26:43
+		Duration:	01:17:33
+		Location:	NULL NULL
+
+(10) - 0,0 km claude Bird (indoors) 866537, pre candids
+	ACLAU1
+		Images:	1146
+		Time:	11.01.2026 05:36:53 until 11.01.2026 07:14:24
+		Duration:	01:37:31
+		Location:	NULL NULL
+
+(11) - 0,0 km claude bird (outdoors) 866537, pre candids
+	ABIRD1
+		Images:	2861
+		Time:	11.01.2026 07:05:48 until 11.01.2026 08:16:30
+		Duration:	01:10:42
+		Location:	NULL NULL
+
+(12) - 0,0 km cropped images from ABCD1
+	GCROP1
+		Images:	11713
+		Time:	11.01.2026 10:28:26 until 12.01.2026 02:22:07
+		Duration:	15:53:41
+		Location:	NULL NULL
+
+(13) - 0,0 km cropped images from ATRES1, MSC 3
+	CCROP1
+		Images:	2253
+		Time:	11.01.2026 06:05:22 until 11.01.2026 08:04:24
+		Duration:	01:59:02
+		Location:	NULL NULL
+
+(14) - 0,0 km cropped images from BPFIN1 Pre Finish
+	FCROP1
+		Images:	3456
+		Time:	12.01.2026 01:59:04 until 12.01.2026 02:22:07
+		Duration:	00:23:03
+		Location:	NULL NULL
+
+(15) - 0,0 km Cropped images from EFGH1
+	HCROP1
+		Images:	13669
+		Time:	11.01.2026 09:29:07 until 11.01.2026 10:28:24
+		Duration:	00:59:17
+		Location:	NULL NULL
+
+(16) - 0,0 km cropped images from TPFIN1, pre finish
+	ECROP1
+		Images:	19693
+		Time:	12.01.2026 00:47:26 until 12.01.2026 02:22:07
+		Duration:	01:34:41
+		Location:	NULL NULL
+
+(17) - 0,0 km cropped images from XTRIG1 Pre Finish
+	BCROP1
+		Images:	29581
+		Time:	11.01.2026 06:52:24 until 11.01.2026 09:27:18
+		Duration:	02:34:54
+		Location:	NULL NULL
+
+(18) - 0,0 km cropped images from YTRIG1 Pre Finish
+	ACROP1
+		Images:	8953
+		Time:	11.01.2026 22:26:02 until 11.01.2026 23:54:40
+		Duration:	01:28:38
+		Location:	NULL NULL
+
+(19) - 0,0 km cropped images from ZTRIG1
+	DCROP1
+		Images:	31834
+		Time:	11.01.2026 06:05:22 until 11.01.2026 09:27:18
+		Duration:	03:21:56
+		Location:	NULL NULL
+
+(20) - 0,0 km images to be cropped from Christina Cortez
+	ABCD1
+		Images:	3727
+		Time:	11.01.2026 10:28:26 until 11.01.2026 11:34:11
+		Duration:	01:05:45
+		Location:	NULL NULL
+
+	EFGH1
+		Images:	3487
+		Time:	11.01.2026 09:29:07 until 11.01.2026 10:28:24
+		Duration:	00:59:17
+		Location:	NULL NULL
+
+(21) - 0,0 km iziah house, 866523, msc 5
+	AIZAH1
+		Images:	7206
+		Time:	11.01.2026 05:19:53 until 11.01.2026 08:19:50
+		Duration:	02:59:57
+		Location:	NULL NULL
+
+(22) - 0,0 km iziah house, 866560, msc10
+	AHOUS1
+		Images:	7256
+		Time:	11.01.2026 09:37:08 until 11.01.2026 13:00:12
+		Duration:	03:23:04
+		Location:	NULL NULL
+
+(23) - 0,0 km jeff lautenberger, msc 3, 866528
+	AJEFF1
+		Images:	11304
+		Time:	11.01.2026 05:49:16 until 11.01.2026 08:06:17
+		Duration:	02:17:01
+		Location:	NULL NULL
+
+(24) - 0,0 km jeff lautenberger, msc10, 866558
+	ALAUT1
+		Images:	11282
+		Time:	11.01.2026 09:20:18 until 11.01.2026 13:25:23
+		Duration:	04:05:05
+		Location:	NULL NULL
+
+(25) - 0,0 km julio madrid, 866544, msc 8
+	AMADR1
+		Images:	7870
+		Time:	11.01.2026 08:10:51 until 11.01.2026 12:43:34
+		Duration:	04:32:43
+		Location:	NULL NULL
+
+(26) - 0,0 km julio mora, 866548, MSC 1
+	AJULO1
+		Images:	4702
+		Time:	11.01.2026 05:41:59 until 11.01.2026 07:01:57
+		Duration:	01:19:58
+		Location:	NULL NULL
+
+(27) - 0,0 km larrz castillo, 866542, msc 8
+	ALARZ1
+		Images:	34274
+		Time:	23.11.2025 08:39:36 until 11.01.2026 12:53:45
+		Duration:	49.04:14:09
+		Location:	NULL NULL
+
+(28) - 0,0 km leo bartos, 866557, msc10
+	ALEO1
+		Images:	41072
+		Time:	11.01.2026 06:42:28 until 11.01.2026 13:27:30
+		Duration:	06:45:02
+		Location:	NULL NULL
+
+(29) - 0,0 km megyn barroner, 866536, pre candid
+	AMEG1
+		Images:	438
+		Time:	11.01.2026 05:27:05 until 11.01.2026 06:46:45
+		Duration:	01:19:40
+		Location:	NULL NULL
+
+(30) - 0,0 km msc 11 cindy 866565
+	ACIND1
+		Images:	14262
+		Time:	11.01.2026 10:50:14 until 11.01.2026 13:00:38
+		Duration:	02:10:24
+		Location:	NULL NULL
+
+(31) - 0,0 km msc 11 joe f 866564
+	AJOEF1
+		Images:	11288
+		Time:	11.01.2026 10:51:18 until 11.01.2026 12:59:55
+		Duration:	02:08:37
+		Location:	NULL NULL
+
+(32) - 0,0 km msc 11 jonathan 866562
+	AJROB1
+		Images:	20036
+		Time:	11.01.2026 07:43:28 until 11.01.2026 13:59:39
+		Duration:	06:16:11
+		Location:	NULL NULL
+
+(33) - 0,0 km msc 11 julio 866563
+	AJOLI1
+		Images:	17132
+		Time:	11.01.2026 07:50:40 until 11.01.2026 12:58:47
+		Duration:	05:08:07
+		Location:	NULL NULL
+
+(34) - 0,0 km msc 11 trigger 866566
+	AJROB1LS1
+		Images:	21354
+		Time:	11.01.2026 04:27:04 until 11.01.2026 12:55:36
+		Duration:	08:28:32
+		Location:	NULL NULL
+
+(35) - 0,0 km MSC 8 Brisenia FLores
+	ABFLO1
+		Images:	13649
+		Time:	11.01.2026 10:02:36 until 11.01.2026 13:06:52
+		Duration:	03:04:16
+		Location:	NULL NULL
+
+(36) - 0,0 km MSC 8 Trigger
+	ALARZ1LS1
+		Images:	14778
+		Time:	01.01.0001 23:00:00 until 11.01.2026 12:55:19
+		Duration:	739625.13:55:19
+		Location:	NULL NULL
+
+(37) - 0,0 km MSC8 Johaddy Batista
+	AJBAT1
+		Images:	6975
+		Time:	11.01.2026 10:21:42 until 11.01.2026 12:19:14
+		Duration:	01:57:32
+		Location:	NULL NULL
+
+(38) - 0,0 km Phuc nguyen, 866530, msc 3
+	APHUC1
+		Images:	6360
+		Time:	11.01.2026 05:35:51 until 11.01.2026 08:14:03
+		Duration:	02:38:12
+		Location:	NULL NULL
+
+(39) - 0,0 km Phuc nguyen, 866571, MSC 7
+	ANGUY1
+		Images:	3751
+		Time:	11.01.2026 08:46:22 until 11.01.2026 10:28:28
+		Duration:	01:42:06
+		Location:	NULL NULL
+
+(40) - 0,0 km pre finish images to be cropped
+	XTRIG1
+		Images:	3109
+		Time:	11.01.2026 23:54:41 until 12.01.2026 00:46:33
+		Duration:	00:51:52
+		Location:	NULL NULL
+
+	YTRIG1
+		Images:	5261
+		Time:	11.01.2026 21:51:56 until 11.01.2026 23:54:40
+		Duration:	02:02:44
+		Location:	NULL NULL
+
+(41) - 0,0 km pre finish trigger ground full marathon 866516
+	AJROB1LS2
+		Images:	29920
+		Time:	11.01.2026 06:40:16 until 11.01.2026 13:00:42
+		Duration:	06:20:26
+		Location:	NULL NULL
+
+(42) - 0,0 km pre finish trigger, needs cropping
+	BPFIN1
+		Images:	1363
+		Time:	12.01.2026 01:59:04 until 12.01.2026 02:22:07
+		Duration:	00:23:03
+		Location:	NULL NULL
+
+	BPFIN2
+		Images:	7273
+		Time:	12.01.2026 02:23:07 until 12.01.2026 04:33:04
+		Duration:	02:09:57
+		Location:	NULL NULL
+
+	TPFIN1
+		Images:	4273
+		Time:	12.01.2026 00:47:26 until 12.01.2026 01:59:03
+		Duration:	01:11:37
+		Location:	NULL NULL
+
+(43) - 0,0 km rick mccauley, 866538, pre candids
+	ARICK1
+		Images:	1763
+		Time:	11.01.2026 04:22:48 until 11.01.2026 06:42:35
+		Duration:	02:19:47
+		Location:	NULL NULL
+
+(44) - 0,0 km start area PRs, Gus Gargallo, 866540
+	APR1
+		Images:	1001
+		Time:	10.01.2026 21:34:18 until 11.01.2026 06:57:53
+		Duration:	09:23:35
+		Location:	NULL NULL
+
+(45) - 0,0 km Start photo, Gus Gargallo, 866539
+	ASTAR1
+		Images:	680
+		Time:	10.01.2026 21:36:34 until 11.01.2026 06:58:28
+		Duration:	09:21:54
+		Location:	NULL NULL
+
+(46) - 0,0 km toby trigger images to be cropped
+	ZTRIG1
+		Images:	8779
+		Time:	11.01.2026 06:52:24 until 11.01.2026 09:27:18
+		Duration:	02:34:54
+		Location:	NULL NULL
+
+(47) - 0,0 km tom b, msc 8 , 866543
+	ATBOU2
+		Images:	4806
+		Time:	11.01.2026 08:17:31 until 11.01.2026 11:45:39
+		Duration:	03:28:08
+		Location:	NULL NULL
+
+(48) - 0,0 km Tom B, MSC 8, 866543
+	ATBOU1
+		Images:	1332
+		Time:	11.01.2026 11:49:42 until 11.01.2026 13:29:49
+		Duration:	01:40:07
+		Location:	NULL NULL
+
+(49) - 0,0 km trigger 10, 866561, msc 10
+	ATEN1
+		Images:	24324
+		Time:	11.01.2026 18:32:21 until 12.01.2026 01:29:24
+		Duration:	06:57:03
+		Location:	NULL NULL
+
+(50) - 0,0 km Trigger 6, 866569, MSC 6
+	ASEIS1
+		Images:	11660
+		Time:	10.01.2026 15:59:32 until 11.01.2026 09:37:19
+		Duration:	17:37:47
+		Location:	NULL NULL
+
+(51) - 0,0 km trigger 7, 866572, MSC 7
+	SIETE1
+		Images:	8036
+		Time:	01.01.0001 23:00:00 until 11.01.2026 09:34:59
+		Duration:	739625.10:34:59
+		Location:	NULL NULL
+
+(52) - 0,0 km trigger cam, MSC 1, 866551
+	ATRIG1
+		Images:	3062
+		Time:	11.01.2026 06:11:50 until 11.01.2026 07:02:51
+		Duration:	00:51:01
+		Location:	NULL NULL
+
+(53) - 0,0 km trigger cam, msc 5, 866524
+	ACINC1
+		Images:	6813
+		Time:	11.01.2026 06:33:07 until 11.01.2026 08:27:26
+		Duration:	01:54:19
+		Location:	NULL NULL
+
+(54) - 0,0 km Trigger, MSC 3, 866531, needs cropping
+	ATRES1
+		Images:	6932
+		Time:	11.01.2026 06:04:59 until 11.01.2026 08:04:25
+		Duration:	01:59:26
+		Location:	NULL NULL
+
+(55) - 0.0 km
+	DALAN1
+		Images:	77605
+		Time:	11.01.2026 07:44:37 until 11.01.2026 13:01:20
+		Duration:	05:16:43
+		Location:	NULL NULL
+
+	DDOUG1
+		Images:	21064
+		Time:	11.01.2026 06:17:39 until 11.01.2026 08:14:43
+		Duration:	01:57:04
+		Location:	NULL NULL
+
+	DGUS1
+		Images:	26735
+		Time:	11.01.2026 07:17:47 until 11.01.2026 13:01:07
+		Duration:	05:43:20
+		Location:	NULL NULL
+
+	DGUS1LS1
+		Images:	19598
+		Time:	11.01.2026 06:44:55 until 11.01.2026 12:14:06
+		Duration:	05:29:11
+		Location:	NULL NULL
+
+	DJOHA1
+		Images:	6052
+		Time:	11.01.2026 07:02:22 until 11.01.2026 09:40:27
+		Duration:	02:38:05
+		Location:	NULL NULL
+
+	DLARR1
+		Images:	7533
+		Time:	11.01.2026 05:40:29 until 11.01.2026 07:30:11
+		Duration:	01:49:42
+		Location:	NULL NULL
+
+	DLUCA1
+		Images:	33866
+		Time:	11.01.2026 06:41:15 until 11.01.2026 13:20:41
+		Duration:	06:39:26
+		Location:	NULL NULL
+
+(56) - 0.0 km brantley
+	BRANT1
+		Images:	31061
+		Time:	11.01.2026 07:46:54 until 11.01.2026 13:01:12
+		Duration:	05:14:18
+		Location:	NULL NULL
+
+(57) - 0.0 km cindy fusco, 866568, MSC 6
+	BCFUS1
+		Images:	24686
+		Time:	10.01.2026 16:07:28 until 11.01.2026 09:36:38
+		Duration:	17:29:10
+		Location:	NULL NULL
+
+(58) - 0.0 km joe fusco, 866567, msc 6
+	BJOE1
+		Images:	25848
+		Time:	10.01.2026 15:58:03 until 11.01.2026 09:34:56
+		Duration:	17:36:53
+		Location:	NULL NULL
+
+(59) - 0.0 km Mo - personal card
+	BMO1
+		Images:	25003
+		Time:	11.01.2026 06:41:12 until 11.01.2026 13:00:31
+		Duration:	06:19:19
+		Location:	NULL NULL
+
+(60) - 0.0 km MSC 8 Laura 866545
+	BLMCK1
+		Images:	8528
+		Time:	11.01.2026 09:03:20 until 11.01.2026 13:44:11
+		Duration:	04:40:51
+		Location:	NULL NULL
+
+(61) - Impressions / Pano
+	PANO1
+(62) - none
+	AAAA1
+		Images:	2206
+		Time:	11.01.2026 06:44:31 until 11.01.2026 08:21:54
+		Duration:	01:37:23
+		Location:	NULL NULL
+
+	BDBRO1
+		Images:	8757
+		Time:	11.01.2026 11:01:17 until 11.01.2026 12:30:56
+		Duration:	01:29:39
+		Location:	NULL NULL
+
+	BDBRO2
+		Images:	86
+		Time:	11.01.2026 09:30:53 until 11.01.2026 09:31:25
+		Duration:	00:00:32
+		Location:	NULL NULL
+
+	BDBRO2LS1
+	DBRIS1
+		Images:	6249
+		Time:	11.01.2026 07:11:41 until 11.01.2026 09:51:22
+		Duration:	02:39:41
+		Location:	NULL NULL
+
+	DGUS1LS2
+		Images:	41296
+		Time:	01.01.0001 23:00:00 until 11.01.2026 12:59:00
+		Duration:	739625.13:59:00
+		Location:	NULL NULL
+
+	DJULI1
+		Images:	5149
+		Time:	11.01.2026 05:37:30 until 11.01.2026 07:35:47
+		Duration:	01:58:17
+		Location:	NULL NULL
+
+	DLARR1LS1
+		Images:	5292
+		Time:	11.01.2026 04:51:13 until 11.01.2026 07:32:55
+		Duration:	02:41:42
+		Location:	NULL NULL
+
+	DLAUR1
+		Images:	6062
+		Time:	11.01.2026 06:41:11 until 11.01.2026 08:33:46
+		Duration:	01:52:35
+		Location:	NULL NULL
+
+	DRAPH1
+		Images:	4011
+		Time:	11.01.2026 06:29:49 until 11.01.2026 11:49:12
+		Duration:	05:19:23
+		Location:	NULL NULL
+
+	DTOM1
+		Images:	4426
+		Time:	11.01.2026 05:51:35 until 11.01.2026 07:37:58
+		Duration:	01:46:23
+		Location:	NULL NULL
+

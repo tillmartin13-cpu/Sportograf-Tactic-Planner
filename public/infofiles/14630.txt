@@ -1,0 +1,107 @@
+EventId: 14630
+Spots: 15
+Total Images: 43075
+Time:	25.04.2025 23:46:40 to 26.04.2025 16:43:24
+Duration: 16:56:44
+
+(1) - Start
+	MMO1
+		Images:	298
+		Time:	26.04.2025 07:33:43 until 26.04.2025 09:27:36
+		Duration:	01:53:53
+		Location:	NULL NULL
+
+(2) - SWIM OUT 1 1km after start
+	DEC1
+		Images:	1310
+		Time:	26.04.2025 08:16:15 until 26.04.2025 10:07:30
+		Duration:	01:51:15
+		Location:	NULL NULL
+
+(3) - Impressions / Pano
+	DEC1DRONE1
+		Images:	9
+		Time:	26.04.2025 10:23:18 until 26.04.2025 10:34:32
+		Duration:	00:11:14
+		Location:	NULL NULL
+
+	DARU1DRONE1
+		Images:	18
+		Time:	26.04.2025 07:51:47 until 26.04.2025 08:52:48
+		Duration:	01:01:01
+		Location:	NULL NULL
+
+(4) - BARBER WIRE
+	DEC2
+		Images:	1473
+		Time:	26.04.2025 11:10:06 until 26.04.2025 14:48:20
+		Duration:	03:38:14
+		Location:	NULL NULL
+
+(5) - LOG CARRY
+	GAZ1
+		Images:	4473
+		Time:	26.04.2025 07:32:39 until 26.04.2025 14:42:46
+		Duration:	07:10:07
+		Location:	NULL NULL
+
+	GAZ1LS1
+		Images:	2673
+		Time:	26.04.2025 08:02:27 until 26.04.2025 14:47:45
+		Duration:	06:45:18
+		Location:	NULL NULL
+
+(6) - BUCKET CARRY
+	LULE1
+		Images:	7938
+		Time:	26.04.2025 08:54:35 until 26.04.2025 13:28:41
+		Duration:	04:34:06
+		Location:	NULL NULL
+
+	LULE1LS1
+		Images:	3088
+		Time:	26.04.2025 09:03:24 until 26.04.2025 13:33:03
+		Duration:	04:29:39
+		Location:	NULL NULL
+
+(7) - FRAME
+	MMO2
+		Images:	4370
+		Time:	26.04.2025 09:41:41 until 26.04.2025 16:40:22
+		Duration:	06:58:41
+		Location:	NULL NULL
+
+(8) - MULTI RIG
+	MCO1
+		Images:	2788
+		Time:	26.04.2025 06:37:12 until 26.04.2025 16:31:13
+		Duration:	09:54:01
+		Location:	NULL NULL
+
+(9) - SWIM OUT Near finish line
+	RLO1
+		Images:	6024
+		Time:	26.04.2025 08:13:31 until 26.04.2025 16:32:39
+		Duration:	08:19:08
+		Location:	NULL NULL
+
+(10) - Finish
+	MDS1
+		Images:	4932
+		Time:	26.04.2025 10:11:03 until 26.04.2025 16:36:32
+		Duration:	06:25:29
+		Location:	NULL NULL
+
+	MDS1LS1
+		Images:	1214
+		Time:	26.04.2025 08:27:12 until 26.04.2025 16:40:03
+		Duration:	08:12:51
+		Location:	NULL NULL
+
+(11) - Herotent
+	DARU1
+		Images:	2467
+		Time:	25.04.2025 23:46:40 until 26.04.2025 16:43:24
+		Duration:	16:56:44
+		Location:	NULL NULL
+

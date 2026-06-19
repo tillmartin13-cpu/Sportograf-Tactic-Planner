@@ -1,0 +1,388 @@
+EventId: 10456
+Spots: 59
+Total Images: 374657
+Time:	14.10.2023 04:15:30 to 16.10.2023 02:44:32
+Duration: 1.22:29:02
+
+(1) - 0.0 km 852826 m. wagner
+	WM1
+		Images:	11133
+		Time:	15.10.2023 08:31:39 until 15.10.2023 13:09:38
+		Duration:	04:37:59
+		Location:	NULL NULL
+
+(2) - 0.0 km 852827 a. wilhelm
+	WA1
+		Images:	11909
+		Time:	15.10.2023 08:30:54 until 15.10.2023 14:10:03
+		Duration:	05:39:09
+		Location:	NULL NULL
+
+(3) - 0.0 km 852828 T. Wherry
+	WT1
+		Images:	5888
+		Time:	15.10.2023 09:22:01 until 15.10.2023 11:43:20
+		Duration:	02:21:19
+		Location:	NULL NULL
+
+(4) - 0.0 km 852829 D. Snow
+	SD1
+		Images:	6008
+		Time:	15.10.2023 08:59:38 until 15.10.2023 11:48:01
+		Duration:	02:48:23
+		Location:	NULL NULL
+
+(5) - 0.0 km 852830 Trigger XB
+	XB1
+		Images:	9466
+		Time:	15.10.2023 07:08:04 until 15.10.2023 10:00:19
+		Duration:	02:52:15
+		Location:	NULL NULL
+
+(6) - 0.0 km 852831 Wellott PreFIN
+	TR1
+		Images:	11457
+		Time:	15.10.2023 09:17:14 until 15.10.2023 11:49:59
+		Duration:	02:32:45
+		Location:	NULL NULL
+
+(7) - 0.0 km 852832 PreFIN J Roberts
+	RJ1
+		Images:	15217
+		Time:	15.10.2023 08:33:12 until 15.10.2023 14:33:51
+		Duration:	06:00:39
+		Location:	NULL NULL
+
+(8) - 0.0 km 852834 Spurlock PreFIN
+	SB1
+		Images:	18995
+		Time:	15.10.2023 09:09:21 until 15.10.2023 11:40:25
+		Duration:	02:31:04
+		Location:	NULL NULL
+
+(9) - 0.0 km 852835 L. Gardner
+	LG1
+		Images:	639
+		Time:	15.10.2023 07:58:01 until 15.10.2023 14:41:56
+		Duration:	06:43:55
+		Location:	NULL NULL
+
+(10) - 0.0 km 852835 PreFIN Trigger 1 Half Side
+	XF1
+		Images:	10027
+		Time:	15.10.2023 08:31:44 until 15.10.2023 11:47:27
+		Duration:	03:15:43
+		Location:	NULL NULL
+
+(11) - 0.0 km 852836 C. Towe
+	CT1
+		Images:	1022
+		Time:	15.10.2023 08:42:52 until 15.10.2023 14:26:15
+		Duration:	05:43:23
+		Location:	NULL NULL
+
+(12) - 0.0 km 852836 PreFIN Trigger 2 Full Side
+	XG1
+		Images:	10016
+		Time:	15.10.2023 08:09:35 until 15.10.2023 12:19:44
+		Duration:	04:10:09
+		Location:	NULL NULL
+
+(13) - 0.0 km 852837 A. Uhler
+	AU1
+		Images:	769
+		Time:	15.10.2023 08:07:05 until 15.10.2023 12:19:11
+		Duration:	04:12:06
+		Location:	NULL NULL
+
+(14) - 0.0 km 852840 T. Cheung
+	TC1
+		Images:	24953
+		Time:	15.10.2023 04:58:03 until 15.10.2023 12:57:25
+		Duration:	07:59:22
+		Location:	NULL NULL
+
+(15) - 0.0 km 852841 G. Gargallo
+	GU1
+		Images:	25344
+		Time:	15.10.2023 04:58:03 until 15.10.2023 14:40:48
+		Duration:	09:42:45
+		Location:	NULL NULL
+
+(16) - 0.0 km 852843 Trigger Fin
+	XH1
+		Images:	17197
+		Time:	15.10.2023 07:29:52 until 15.10.2023 13:06:08
+		Duration:	05:36:16
+		Location:	NULL NULL
+
+(17) - 0.0 km 852845 G. Gargallo
+	GG1
+		Images:	368
+		Time:	15.10.2023 07:12:38 until 15.10.2023 07:43:31
+		Duration:	00:30:53
+		Location:	NULL NULL
+
+(18) - 0.0 km 852845 J. Roberts
+	JR1
+		Images:	197
+		Time:	15.10.2023 07:07:09 until 15.10.2023 07:41:48
+		Duration:	00:34:39
+		Location:	NULL NULL
+
+(19) - 0.0 km 852846 M. Barroner
+	ME1
+		Images:	2753
+		Time:	15.10.2023 08:47:29 until 15.10.2023 14:33:47
+		Duration:	05:46:18
+		Location:	NULL NULL
+
+(20) - 0.0 km 852847 M. Silverman
+	MS1
+		Images:	5592
+		Time:	15.10.2023 06:19:52 until 15.10.2023 11:12:31
+		Duration:	04:52:39
+		Location:	NULL NULL
+
+(21) - 0.0 km 852848 K. Pease
+	KP1
+		Images:	2298
+		Time:	15.10.2023 21:37:48 until 16.10.2023 02:44:32
+		Duration:	05:06:44
+		Location:	NULL NULL
+
+(22) - 0.0 km 852854 T. Wherry
+	TW1
+		Images:	757
+		Time:	15.10.2023 07:12:11 until 15.10.2023 09:12:34
+		Duration:	02:00:23
+		Location:	NULL NULL
+
+(23) - 0.0 km 852855 A. Wilhelm
+	AW1
+		Images:	784
+		Time:	15.10.2023 07:30:51 until 15.10.2023 08:01:25
+		Duration:	00:30:34
+		Location:	NULL NULL
+
+(24) - 0.0 km 852856 M. Wagner
+	MW1
+		Images:	1891
+		Time:	15.10.2023 07:18:36 until 15.10.2023 08:00:52
+		Duration:	00:42:16
+		Location:	NULL NULL
+
+(25) - 0.0 km 852857 D. Snow
+	DS1
+		Images:	1433
+		Time:	15.10.2023 07:17:06 until 15.10.2023 08:01:51
+		Duration:	00:44:45
+		Location:	NULL NULL
+
+(26) - 0.0 km 852858 M. Koseruba
+	MK1
+		Images:	1372
+		Time:	15.10.2023 07:36:24 until 15.10.2023 08:06:59
+		Duration:	00:30:35
+		Location:	NULL NULL
+
+(27) - 0.0 km 852859 B. Spurlock
+	BS1
+		Images:	6678
+		Time:	15.10.2023 07:34:43 until 15.10.2023 08:04:51
+		Duration:	00:30:08
+		Location:	NULL NULL
+
+(28) - 0.0 km 852860 K. Dick
+	DK1
+		Images:	7496
+		Time:	15.10.2023 07:36:10 until 15.10.2023 09:32:25
+		Duration:	01:56:15
+		Location:	NULL NULL
+
+(29) - 0.0 km 852861 M. Blair
+	MB1
+		Images:	12581
+		Time:	15.10.2023 07:22:37 until 15.10.2023 10:02:00
+		Duration:	02:39:23
+		Location:	NULL NULL
+
+(30) - 0.0 km 852862 k. dick
+	KD1
+		Images:	6821
+		Time:	15.10.2023 10:08:36 until 15.10.2023 13:57:51
+		Duration:	03:49:15
+		Location:	NULL NULL
+
+(31) - 0.0 km 852863 M. blair
+	BM1
+		Images:	7660
+		Time:	15.10.2023 10:47:43 until 15.10.2023 13:10:48
+		Duration:	02:23:05
+		Location:	NULL NULL
+
+(32) - 0.0 km 852864 G. Gillman
+	GR1
+		Images:	16132
+		Time:	15.10.2023 07:31:00 until 15.10.2023 13:59:22
+		Duration:	06:28:22
+		Location:	NULL NULL
+
+(33) - 0.0 km 852866 Trigger
+	XE1
+		Images:	17452
+		Time:	15.10.2023 08:32:01 until 15.10.2023 13:33:14
+		Duration:	05:01:13
+		Location:	NULL NULL
+
+(34) - 0.0 km 853833 Koseruba PreFIN
+	KM1
+		Images:	12975
+		Time:	15.10.2023 09:13:16 until 15.10.2023 14:33:28
+		Duration:	05:20:12
+		Location:	NULL NULL
+
+(35) - 0.0 km 854937 A. Glenn
+	AG1
+		Images:	5459
+		Time:	14.10.2023 19:31:29 until 14.10.2023 21:45:35
+		Duration:	02:14:06
+		Location:	NULL NULL
+
+(36) - 0.0 km 854938 Glenn A.
+	GA1
+		Images:	4807
+		Time:	14.10.2023 22:19:39 until 15.10.2023 02:15:32
+		Duration:	03:55:53
+		Location:	NULL NULL
+
+(37) - 0.0 km 854939 trigger
+	XC1
+		Images:	6886
+		Time:	15.10.2023 10:25:35 until 15.10.2023 14:03:08
+		Duration:	03:37:33
+		Location:	NULL NULL
+
+(38) - 0.0 km 854940 Trigger
+	XA1
+		Images:	3369
+		Time:	15.10.2023 07:22:33 until 15.10.2023 09:41:30
+		Duration:	02:18:57
+		Location:	NULL NULL
+
+(39) - 0.0 km 854941 trigger
+	XD1
+		Images:	9047
+		Time:	14.10.2023 20:38:36 until 15.10.2023 01:47:53
+		Duration:	05:09:17
+		Location:	NULL NULL
+
+(40) - Impressions / Pano
+	PANO1
+(41) - none
+	PANO2
+	SGJW3
+		Images:	2439
+		Time:	14.10.2023 07:21:21 until 14.10.2023 08:23:07
+		Duration:	01:01:46
+		Location:	NULL NULL
+
+	SGLD2
+		Images:	5528
+		Time:	14.10.2023 10:52:20 until 14.10.2023 15:14:12
+		Duration:	04:21:52
+		Location:	NULL NULL
+
+	SGSZ2LS1
+		Images:	1573
+		Time:	14.10.2023 10:29:56 until 14.10.2023 13:58:26
+		Duration:	03:28:30
+		Location:	NULL NULL
+
+(42) - Swim - Impressions / Pano
+	PANO1
+(43) - Swim - Start
+	SGCMC1
+		Images:	2854
+		Time:	14.10.2023 07:03:54 until 14.10.2023 08:31:54
+		Duration:	01:28:00
+		Location:	NULL NULL
+
+	SGCMC2
+		Images:	2056
+		Time:	14.10.2023 08:52:32 until 14.10.2023 11:17:10
+		Duration:	02:24:38
+		Location:	NULL NULL
+
+	SGCMC3
+		Images:	4295
+		Time:	14.10.2023 11:17:10 until 14.10.2023 16:26:56
+		Duration:	05:09:46
+		Location:	NULL NULL
+
+	SGDSH1
+		Images:	3328
+		Time:	14.10.2023 07:30:12 until 14.10.2023 10:28:53
+		Duration:	02:58:41
+		Location:	NULL NULL
+
+	SGDSH2
+		Images:	1764
+		Time:	14.10.2023 11:09:24 until 14.10.2023 15:59:09
+		Duration:	04:49:45
+		Location:	NULL NULL
+
+	SGED1
+		Images:	4260
+		Time:	14.10.2023 07:05:13 until 14.10.2023 10:12:45
+		Duration:	03:07:32
+		Location:	NULL NULL
+
+	SGED2
+		Images:	4315
+		Time:	14.10.2023 10:13:55 until 14.10.2023 16:29:58
+		Duration:	06:16:03
+		Location:	NULL NULL
+
+	SGGS1
+		Images:	4346
+		Time:	14.10.2023 13:40:38 until 14.10.2023 17:10:45
+		Duration:	03:30:07
+		Location:	NULL NULL
+
+	SGGS2
+		Images:	2890
+		Time:	14.10.2023 17:12:31 until 14.10.2023 19:54:13
+		Duration:	02:41:42
+		Location:	NULL NULL
+
+	SGJW1
+		Images:	1756
+		Time:	14.10.2023 09:03:02 until 14.10.2023 10:32:22
+		Duration:	01:29:20
+		Location:	NULL NULL
+
+	SGJW2
+		Images:	8517
+		Time:	14.10.2023 11:24:25 until 14.10.2023 15:17:21
+		Duration:	03:52:56
+		Location:	NULL NULL
+
+	SGLD1
+		Images:	5408
+		Time:	14.10.2023 07:09:42 until 14.10.2023 10:44:28
+		Duration:	03:34:46
+		Location:	NULL NULL
+
+	SGSZ1
+		Images:	4301
+		Time:	14.10.2023 09:20:13 until 14.10.2023 15:49:44
+		Duration:	06:29:31
+		Location:	NULL NULL
+
+	SGSZ2
+		Images:	179
+		Time:	14.10.2023 04:15:30 until 14.10.2023 09:20:29
+		Duration:	05:04:59
+		Location:	NULL NULL
+

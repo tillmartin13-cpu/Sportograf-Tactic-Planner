@@ -1,0 +1,588 @@
+EventId: 13392
+Spots: 104
+Total Images: 433865
+Time:	01.01.0001 23:00:00 to 23.11.2024 23:52:07
+Duration: 739212.00:52:07
+
+(1) - 0,0 km
+	BTWH1LS1
+		Images:	5302
+		Time:	23.11.2024 20:36:04 until 23.11.2024 22:09:17
+		Duration:	01:33:13
+		Location:	NULL NULL
+
+(2) - 0,0 km 8k MSC7 Trigger
+	BTWH2LS2
+		Images:	4753
+		Time:	23.11.2024 22:29:00 until 23.11.2024 23:52:07
+		Duration:	01:23:07
+		Location:	NULL NULL
+
+(3) - 0,0 km MSC 3 Billy
+	BBME1
+		Images:	12050
+		Time:	23.11.2024 05:56:00 until 23.11.2024 08:36:56
+		Duration:	02:40:56
+		Location:	NULL NULL
+
+(4) - 0,0 km MSC 3 Marvin
+	BMARV1
+		Images:	7670
+		Time:	23.11.2024 06:31:24 until 23.11.2024 08:39:17
+		Duration:	02:07:53
+		Location:	NULL NULL
+
+(5) - 0,0 km MSC 3 Trigger
+	BMARV1LS1
+		Images:	7682
+		Time:	23.11.2024 06:16:51 until 23.11.2024 08:38:47
+		Duration:	02:21:56
+		Location:	NULL NULL
+
+(6) - 0,0 km MSC 7 Marvin
+	BMELA1
+		Images:	4191
+		Time:	23.11.2024 07:13:54 until 23.11.2024 10:30:16
+		Duration:	03:16:22
+		Location:	NULL NULL
+
+(7) - 0,0 km MSC 7 Terrry
+	BTWH1
+		Images:	5157
+		Time:	23.11.2024 08:50:16 until 23.11.2024 10:18:53
+		Duration:	01:28:37
+		Location:	NULL NULL
+
+(8) - 0,0 km MSC 7 Terry 8k
+	BTWH2
+		Images:	5382
+		Time:	23.11.2024 10:21:57 until 23.11.2024 11:56:55
+		Duration:	01:34:58
+		Location:	NULL NULL
+
+(9) - 0,0 km MSC7 8k Mavin
+	BMELA2
+		Images:	2353
+		Time:	23.11.2024 10:30:36 until 23.11.2024 11:50:11
+		Duration:	01:19:35
+		Location:	NULL NULL
+
+(10) - 0,0 km Pre Fin Rico 8K
+	BMCAM1
+		Images:	5975
+		Time:	23.11.2024 10:29:17 until 23.11.2024 12:09:03
+		Duration:	01:39:46
+		Location:	NULL NULL
+
+(11) - 0,0 km Trent 8k
+	BTWEL3
+		Images:	5289
+		Time:	23.11.2024 10:27:33 until 23.11.2024 11:55:40
+		Duration:	01:28:07
+		Location:	NULL NULL
+
+(12) - 0,0 km Trent Pre
+	BTWEL2
+		Images:	13306
+		Time:	23.11.2024 07:11:43 until 23.11.2024 10:25:33
+		Duration:	03:13:50
+		Location:	NULL NULL
+
+(13) - 0,0 km Trent Start
+	BTWEL1
+		Images:	1584
+		Time:	23.11.2024 05:30:53 until 23.11.2024 06:56:34
+		Duration:	01:25:41
+		Location:	NULL NULL
+
+(14) - 0.0 km 8K Abdo
+	AASHA2
+(15) - 0.0 km 8k Cneter
+	ABBB4
+		Images:	5067
+		Time:	23.11.2024 11:35:27 until 23.11.2024 12:59:53
+		Duration:	01:24:26
+		Location:	NULL NULL
+
+(16) - 0.0 km 8K Ground
+	AGROU2
+		Images:	3117
+		Time:	23.11.2024 11:52:47 until 23.11.2024 12:45:05
+		Duration:	00:52:18
+		Location:	NULL NULL
+
+(17) - 0.0 km 8K Gus
+	AGGAR3
+(18) - 0.0 km 8K Jim
+	AJDEE3
+		Images:	9390
+		Time:	23.11.2024 11:15:32 until 23.11.2024 12:54:18
+		Duration:	01:38:46
+		Location:	NULL NULL
+
+(19) - 0.0 km 8k Left
+	ABBB2
+		Images:	5117
+		Time:	04.02.2024 03:05:36 until 04.02.2024 04:30:53
+		Duration:	01:25:17
+		Location:	NULL NULL
+
+(20) - 0.0 km 8K Rachel
+	ARCZE3
+(21) - 0.0 km 8K Rico
+	AMCAM3
+(22) - 0.0 km 8K right
+	ABBB3
+		Images:	4612
+		Time:	23.11.2024 10:25:46 until 23.11.2024 11:54:28
+		Duration:	01:28:42
+		Location:	NULL NULL
+
+(23) - 0.0 km 8K Terry
+	ATWER3
+(24) - 0.0 km 8K Trent
+	ATWEL3
+(25) - 0.0 km 8K William
+	AWDEE3
+		Images:	5206
+		Time:	23.11.2024 10:26:27 until 23.11.2024 11:52:37
+		Duration:	01:26:10
+		Location:	NULL NULL
+
+(26) - 0.0 km Awa Dia
+	AADIA1
+(27) - 0.0 km awa ofp
+	CAWA1
+		Images:	1049
+		Time:	23.11.2024 06:57:02 until 23.11.2024 11:50:56
+		Duration:	04:53:54
+		Location:	NULL NULL
+
+(28) - 0.0 km awa ofp 8k
+	CAWA2
+		Images:	358
+		Time:	23.11.2024 10:42:42 until 23.11.2024 11:50:56
+		Duration:	01:08:14
+		Location:	NULL NULL
+
+(29) - 0.0 km Awards
+	ASGEN1
+		Images:	75
+		Time:	23.11.2024 07:52:15 until 23.11.2024 08:16:48
+		Duration:	00:24:33
+		Location:	NULL NULL
+
+(30) - 0.0 km Chris Jordan
+	ACJOR1
+(31) - 0.0 km Chris ofp
+	CCHRI2
+		Images:	460
+		Time:	23.11.2024 07:09:38 until 23.11.2024 11:20:15
+		Duration:	04:10:37
+		Location:	NULL NULL
+
+(32) - 0.0 km chris ofp 8k
+	CCHRI3
+		Images:	134
+		Time:	23.11.2024 10:18:15 until 23.11.2024 11:20:15
+		Duration:	01:02:00
+		Location:	NULL NULL
+
+(33) - 0.0 km Christian Bautista
+	ACBAU1
+(34) - 0.0 km Courtney Cabbage
+	ACCUB1
+(35) - 0.0 km Eric Brehm
+	AEBRE1
+(36) - 0.0 km Fin Trigger LEft
+	ASGEN5
+		Images:	9315
+		Time:	01.01.0001 23:00:00 until 23.11.2024 09:50:37
+		Duration:	739211.10:50:37
+		Location:	NULL NULL
+
+(37) - 0.0 km Finish Abdo
+	AASHA1
+(38) - 0.0 km Finish Gus
+	AGGAR2
+		Images:	12034
+		Time:	23.11.2024 07:29:18 until 23.11.2024 10:17:18
+		Duration:	02:48:00
+		Location:	NULL NULL
+
+(39) - 0.0 km Front Pre Right 8K
+	ABBB1
+		Images:	1348
+		Time:	01.01.0001 23:00:00 until 23.11.2024 11:01:13
+		Duration:	739211.12:01:13
+		Location:	NULL NULL
+
+(40) - 0.0 km Ground Fin
+	AGROU1
+		Images:	13130
+		Time:	23.11.2024 07:52:06 until 23.11.2024 12:45:05
+		Duration:	04:52:59
+		Location:	NULL NULL
+
+(41) - 0.0 km Gus Start
+	AGGAR1
+		Images:	399
+		Time:	23.11.2024 05:23:16 until 23.11.2024 06:44:55
+		Duration:	01:21:39
+		Location:	NULL NULL
+
+(42) - 0.0 km Gus Start 2
+	AGGAR4
+		Images:	325
+		Time:	23.11.2024 05:32:33 until 23.11.2024 06:40:16
+		Duration:	01:07:43
+		Location:	NULL NULL
+
+(43) - 0.0 km Gus Start 3
+	AGGAR5
+		Images:	152
+		Time:	23.11.2024 05:33:32 until 23.11.2024 06:48:41
+		Duration:	01:15:09
+		Location:	NULL NULL
+
+(44) - 0.0 km Kate Ferraro
+	AKFER1
+(45) - 0.0 km Keith Fleming
+	AKFLE1
+(46) - 0.0 km Liam McMahon
+	ALMCM1
+(47) - 0.0 km MSC 1 Jim
+	AJDEE1
+		Images:	6869
+		Time:	23.11.2024 06:52:16 until 23.11.2024 08:03:52
+		Duration:	01:11:36
+		Location:	NULL NULL
+
+(48) - 0.0 km MSC 1 Rachel
+	ARCZE1
+		Images:	4649
+		Time:	23.11.2024 08:14:32 until 23.11.2024 09:13:46
+		Duration:	00:59:14
+		Location:	NULL NULL
+
+(49) - 0.0 km MSC 1 RIco
+	AMCAM1
+		Images:	2992
+		Time:	23.11.2024 06:12:51 until 23.11.2024 07:00:59
+		Duration:	00:48:08
+		Location:	NULL NULL
+
+(50) - 0.0 km MSC 1 Terry
+	ATWER1
+		Images:	3586
+		Time:	23.11.2024 06:03:24 until 23.11.2024 07:03:48
+		Duration:	01:00:24
+		Location:	NULL NULL
+
+(51) - 0.0 km MSC 1 William
+	AWDEE1
+		Images:	3683
+		Time:	23.11.2024 06:04:52 until 23.11.2024 07:01:10
+		Duration:	00:56:18
+		Location:	NULL NULL
+
+(52) - 0.0 km MSC 2 Alan
+	CANG3
+		Images:	10782
+		Time:	23.11.2024 05:52:23 until 23.11.2024 07:09:30
+		Duration:	01:17:07
+		Location:	NULL NULL
+
+(53) - 0.0 km MSC 2 Jesse
+	CJBEA3
+		Images:	3712
+		Time:	01.01.0001 23:00:00 until 23.11.2024 07:09:44
+		Duration:	739211.08:09:44
+		Location:	NULL NULL
+
+(54) - 0.0 km MSC 2 Trigger
+	CANG3LS1
+		Images:	3245
+		Time:	23.11.2024 05:45:56 until 23.11.2024 07:09:20
+		Duration:	01:23:24
+		Location:	NULL NULL
+
+(55) - 0.0 km MSC 4 Adam
+	CANEI1
+		Images:	5801
+		Time:	23.11.2024 06:35:33 until 23.11.2024 08:57:36
+		Duration:	02:22:03
+		Location:	NULL NULL
+
+(56) - 0.0 km MSC 4 Christian
+	CCFIO1
+		Images:	10767
+		Time:	23.11.2024 06:35:09 until 23.11.2024 08:56:28
+		Duration:	02:21:19
+		Location:	NULL NULL
+
+(57) - 0.0 km MSC 4 Trigger
+	CCFIO1LS1
+		Images:	7695
+		Time:	23.11.2024 06:34:51 until 23.11.2024 08:57:24
+		Duration:	02:22:33
+		Location:	NULL NULL
+
+(58) - 0.0 km MSC 5 8K
+	CANG2
+		Images:	15266
+		Time:	23.11.2024 10:14:44 until 23.11.2024 11:34:10
+		Duration:	01:19:26
+		Location:	NULL NULL
+
+(59) - 0.0 km MSC 5 8K Jesse
+	CJBEA2
+		Images:	4182
+		Time:	23.11.2024 10:14:41 until 23.11.2024 11:36:59
+		Duration:	01:22:18
+		Location:	NULL NULL
+
+(60) - 0.0 km MSC 5 Alan
+	CANG1
+		Images:	17400
+		Time:	23.11.2024 07:58:48 until 23.11.2024 09:49:10
+		Duration:	01:50:22
+		Location:	NULL NULL
+
+(61) - 0.0 km MSC 5 Trigger
+	CANG1LS1
+		Images:	8294
+		Time:	23.11.2024 07:51:14 until 23.11.2024 10:23:02
+		Duration:	02:31:48
+		Location:	NULL NULL
+
+(62) - 0.0 km MSC 6 Jim
+	AJDEE2
+		Images:	22870
+		Time:	23.11.2024 08:44:36 until 23.11.2024 11:26:44
+		Duration:	02:42:08
+		Location:	NULL NULL
+
+(63) - 0.0 km MSC 7 Terry
+	ATWER2
+(64) - 0.0 km MSC5 8K trigger
+	CANG1LS2
+		Images:	4574
+		Time:	23.11.2024 10:23:58 until 23.11.2024 11:40:17
+		Duration:	01:16:19
+		Location:	NULL NULL
+
+(65) - 0.0 km MSC5 Jesse
+	CJBEA1
+		Images:	13436
+		Time:	23.11.2024 07:54:30 until 23.11.2024 10:02:36
+		Duration:	02:08:06
+		Location:	NULL NULL
+
+(66) - 0.0 km MSC7 Marvin
+	AMELA1
+(67) - 0.0 km OFP Allyson
+	CALLY1
+		Images:	598
+		Time:	23.11.2024 07:57:29 until 23.11.2024 13:00:04
+		Duration:	05:02:35
+		Location:	NULL NULL
+
+(68) - 0.0 km Ofp Allyson 8k
+	CALLY2
+		Images:	160
+		Time:	23.11.2024 11:38:00 until 23.11.2024 13:00:04
+		Duration:	01:22:04
+		Location:	NULL NULL
+
+(69) - 0.0 km OFP KAte 8k
+	CKATE2
+		Images:	347
+		Time:	23.11.2024 10:26:04 until 23.11.2024 11:33:58
+		Duration:	01:07:54
+		Location:	NULL NULL
+
+(70) - 0.0 km OPF Kate
+	CKATE1
+		Images:	1065
+		Time:	23.11.2024 06:53:28 until 23.11.2024 10:10:56
+		Duration:	03:17:28
+		Location:	NULL NULL
+
+(71) - 0.0 km PR Trent
+	ATWEL1
+(72) - 0.0 km Pre
+	AFRON2
+(73) - 0.0 km Pre Fin Left
+	ASGEN6
+		Images:	3994
+		Time:	04.02.2024 01:21:58 until 04.02.2024 02:28:31
+		Duration:	01:06:33
+		Location:	NULL NULL
+
+(74) - 0.0 km Pre Fin Rachel
+	ARCZE2
+(75) - 0.0 km Pre Fin Rico
+	AMCAM2
+		Images:	10579
+		Time:	03.11.2024 10:43:51 until 23.11.2024 09:24:24
+		Duration:	19.22:40:33
+		Location:	NULL NULL
+
+(76) - 0.0 km Pre FIn Trent
+	ATWEL2
+(77) - 0.0 km Pre Front
+	AFRON1
+		Images:	10045
+		Time:	23.11.2024 07:26:32 until 23.11.2024 10:26:51
+		Duration:	03:00:19
+		Location:	NULL NULL
+
+(78) - 0.0 km PreFin Trigger Center
+	ASGEN2
+		Images:	10721
+		Time:	23.11.2024 07:45:19 until 23.11.2024 11:20:31
+		Duration:	03:35:12
+		Location:	NULL NULL
+
+(79) - 0.0 km PreFin Trigger Left
+	ASGEN3
+		Images:	5436
+		Time:	03.02.2024 23:18:13 until 04.02.2024 01:20:52
+		Duration:	02:02:39
+		Location:	NULL NULL
+
+(80) - 0.0 km PreFin Trigger Right
+	ASGEN4
+		Images:	9683
+		Time:	23.11.2024 06:45:09 until 23.11.2024 10:24:34
+		Duration:	03:39:25
+		Location:	NULL NULL
+
+(81) - 0.0 km Zack Henningsgaard
+	AZHEN1
+(82) - Impressions / Pano
+	PANO1
+(83) - none
+	ABBB5
+		Images:	4925
+		Time:	23.11.2024 10:34:26 until 23.11.2024 11:57:00
+		Duration:	01:22:34
+		Location:	NULL NULL
+
+	AGGAR2LS1
+		Images:	9794
+		Time:	23.11.2024 05:05:05 until 23.11.2024 10:10:25
+		Duration:	05:05:20
+		Location:	NULL NULL
+
+	AMCAM4
+	AWDEE4
+	BASH1
+		Images:	15456
+		Time:	23.11.2024 07:00:41 until 23.11.2024 11:32:17
+		Duration:	04:31:36
+		Location:	NULL NULL
+
+	BASH2
+		Images:	6217
+		Time:	23.11.2024 11:33:17 until 23.11.2024 13:10:41
+		Duration:	01:37:24
+		Location:	NULL NULL
+
+	BGGAR1
+		Images:	5303
+		Time:	23.11.2024 10:30:29 until 23.11.2024 11:59:15
+		Duration:	01:28:46
+		Location:	NULL NULL
+
+	BGGAR1LS1
+		Images:	5523
+		Time:	23.11.2024 10:29:28 until 23.11.2024 12:01:30
+		Duration:	01:32:02
+		Location:	NULL NULL
+
+	BRZEC1
+		Images:	13823
+		Time:	23.11.2024 10:01:48 until 23.11.2024 12:33:03
+		Duration:	02:31:15
+		Location:	NULL NULL
+
+	BRZEC2
+		Images:	5281
+		Time:	23.11.2024 12:34:39 until 23.11.2024 14:16:13
+		Duration:	01:41:34
+		Location:	NULL NULL
+
+	CCOUR1
+		Images:	855
+		Time:	23.11.2024 06:57:17 until 23.11.2024 10:14:14
+		Duration:	03:16:57
+		Location:	NULL NULL
+
+	CCOUR2
+		Images:	376
+		Time:	23.11.2024 10:21:41 until 23.11.2024 11:39:38
+		Duration:	01:17:57
+		Location:	NULL NULL
+
+	CERIC1
+		Images:	1917
+		Time:	23.11.2024 07:00:12 until 23.11.2024 10:08:10
+		Duration:	03:07:58
+		Location:	NULL NULL
+
+	CERIC2
+		Images:	688
+		Time:	23.11.2024 10:26:58 until 23.11.2024 11:57:18
+		Duration:	01:30:20
+		Location:	NULL NULL
+
+	CKEIT1
+		Images:	1022
+		Time:	23.11.2024 07:19:46 until 23.11.2024 12:08:32
+		Duration:	04:48:46
+		Location:	NULL NULL
+
+	CKEIT2
+		Images:	305
+		Time:	23.11.2024 10:09:52 until 23.11.2024 12:08:32
+		Duration:	01:58:40
+		Location:	NULL NULL
+
+	CLIAM1
+		Images:	848
+		Time:	23.11.2024 06:57:28 until 23.11.2024 10:13:03
+		Duration:	03:15:35
+		Location:	NULL NULL
+
+	CLIAM2
+		Images:	164
+		Time:	23.11.2024 10:34:03 until 23.11.2024 11:37:19
+		Duration:	01:03:16
+		Location:	NULL NULL
+
+	CRUS1
+		Images:	3020
+		Time:	23.11.2024 07:17:42 until 23.11.2024 12:13:58
+		Duration:	04:56:16
+		Location:	NULL NULL
+
+	CRUS2
+		Images:	1042
+		Time:	23.11.2024 10:23:51 until 23.11.2024 12:13:58
+		Duration:	01:50:07
+		Location:	NULL NULL
+
+	CZACH1
+		Images:	2356
+		Time:	23.11.2024 06:38:18 until 23.11.2024 12:35:26
+		Duration:	05:57:08
+		Location:	NULL NULL
+
+	CZACH2
+		Images:	537
+		Time:	23.11.2024 11:33:32 until 23.11.2024 12:35:26
+		Duration:	01:01:54
+		Location:	NULL NULL
+

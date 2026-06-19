@@ -1,0 +1,120 @@
+EventId: 13190
+Spots: 17
+Total Images: 49741
+Time:	22.06.2021 16:54:27 to 21.06.2024 20:37:52
+Duration: 1095.03:43:25
+
+(1) - 0.0 km 855983 FIN Toby Cheung
+	TOBY1
+		Images:	4017
+		Time:	21.06.2024 18:20:52 until 21.06.2024 20:37:52
+		Duration:	02:17:00
+		Location:	NULL NULL
+
+(2) - 0.0 km 855984 FIN Scott Homich
+	SCOTT1
+		Images:	6982
+		Time:	21.06.2024 18:13:51 until 21.06.2024 19:39:06
+		Duration:	01:25:15
+		Location:	NULL NULL
+
+(3) - 0.0 km 855988 PreFIN Caitlin Kroll
+	CAITL1
+		Images:	5098
+		Time:	21.06.2024 18:04:35 until 21.06.2024 20:26:55
+		Duration:	02:22:20
+		Location:	NULL NULL
+
+(4) - 0.0 km 855991 Medals Abigail Neutgens
+	EAN1
+		Images:	476
+		Time:	21.06.2024 17:44:27 until 21.06.2024 19:27:33
+		Duration:	01:43:06
+		Location:	NULL NULL
+
+(5) - 0.0 km 855993 MSC 1 Jenny Taggart
+	JENNY1
+		Images:	2916
+		Time:	21.06.2024 17:47:23 until 21.06.2024 18:56:43
+		Duration:	01:09:20
+		Location:	NULL NULL
+
+(6) - 0.0 km FIN Trigger 1
+	ETRIG2
+		Images:	3147
+		Time:	21.06.2024 19:18:49 until 21.06.2024 20:14:38
+		Duration:	00:55:49
+		Location:	NULL NULL
+
+(7) - 0.0 km FIN trigger 2 Upshot
+	ETRIG3
+		Images:	3272
+		Time:	21.06.2024 19:17:45 until 21.06.2024 20:15:38
+		Duration:	00:57:53
+		Location:	NULL NULL
+
+(8) - 0.0 km Medals Heidi Hostelter 855990
+	EHH1
+		Images:	375
+		Time:	21.06.2024 15:30:55 until 21.06.2024 17:30:07
+		Duration:	01:59:12
+		Location:	NULL NULL
+
+(9) - 0.0 km Medals Sydney Mathison 855989
+	ESM1
+		Images:	189
+		Time:	21.06.2024 16:04:42 until 21.06.2024 18:42:16
+		Duration:	02:37:34
+		Location:	NULL NULL
+
+(10) - 0.0 km MSC 2 Mari Woodmansee
+	EMW1
+		Images:	1117
+		Time:	22.06.2021 16:54:27 until 22.06.2021 18:26:14
+		Duration:	01:31:47
+		Location:	NULL NULL
+
+(11) - 0.0 km MSC 2 Michael Kelly
+	EMK1
+		Images:	2989
+		Time:	21.06.2024 16:04:02 until 21.06.2024 17:29:44
+		Duration:	01:25:42
+		Location:	NULL NULL
+
+(12) - 0.0 km MSC 2 Trigger
+	ETRIG1
+		Images:	4113
+		Time:	07.04.2024 20:04:28 until 07.04.2024 21:51:28
+		Duration:	01:47:00
+		Location:	NULL NULL
+
+(13) - 0.0 km PreFIN 1
+	AUTO1
+		Images:	4389
+		Time:	21.06.2024 17:54:51 until 21.06.2024 20:29:44
+		Duration:	02:34:53
+		Location:	NULL NULL
+
+(14) - 0.0 km PreFIN 2
+	AUTO2
+		Images:	3408
+		Time:	21.06.2024 17:07:15 until 21.06.2024 19:11:40
+		Duration:	02:04:25
+		Location:	NULL NULL
+
+(15) - 0.0 km PreFin Jeff Alltop
+	EJA1
+		Images:	2577
+		Time:	21.06.2024 17:47:23 until 21.06.2024 19:20:03
+		Duration:	01:32:40
+		Location:	NULL NULL
+
+(16) - 0.0 km PreFin Jennifer Gallant
+	EJG1
+		Images:	4676
+		Time:	21.06.2024 17:48:41 until 21.06.2024 19:37:43
+		Duration:	01:49:02
+		Location:	NULL NULL
+
+(17) - Impressions / Pano
+	PANO1

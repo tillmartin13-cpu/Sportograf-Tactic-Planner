@@ -1,0 +1,294 @@
+EventId: 13085
+Spots: 42
+Total Images: 258580
+Time:	28.12.2018 12:43:14 to 28.04.2024 20:23:45
+Duration: 1948.07:40:31
+
+(1) - 0.0 km
+	EBIIL1
+		Images:	129
+		Time:	28.04.2024 06:47:50 until 28.04.2024 07:21:40
+		Duration:	00:33:50
+		Location:	NULL NULL
+
+	ES1
+		Images:	415
+		Time:	26.04.2024 20:18:02 until 27.04.2024 18:45:13
+		Duration:	22:27:11
+		Location:	NULL NULL
+
+(2) - 0.0 km 856113 candids LaShonda
+	EM1
+		Images:	417
+		Time:	28.04.2024 04:24:53 until 28.04.2024 05:33:13
+		Duration:	01:08:20
+		Location:	NULL NULL
+
+(3) - 0.0 km 856115 Medals LaShonda
+	EM2
+		Images:	1145
+		Time:	28.04.2024 06:41:53 until 28.04.2024 11:18:26
+		Duration:	04:36:33
+		Location:	NULL NULL
+
+(4) - 0.0 km 856118 Medals Mira Levi
+	EO1
+		Images:	862
+		Time:	28.04.2024 07:19:07 until 28.04.2024 12:35:19
+		Duration:	05:16:12
+		Location:	NULL NULL
+
+(5) - 0.0 km 856121 FIN Toby
+	ETOBY1
+		Images:	12590
+		Time:	28.04.2024 09:15:54 until 28.04.2024 14:29:39
+		Duration:	05:13:45
+		Location:	NULL NULL
+
+(6) - 0.0 km 856122 Finish James Downs
+	EJAME1
+		Images:	28118
+		Time:	28.04.2024 07:25:28 until 28.04.2024 12:37:45
+		Duration:	05:12:17
+		Location:	NULL NULL
+
+(7) - 0.0 km 856123 FINISH Trigger
+	EL2
+		Images:	10537
+		Time:	28.04.2024 09:18:20 until 28.04.2024 14:29:37
+		Duration:	05:11:17
+		Location:	NULL NULL
+
+(8) - 0.0 km 856124 Elaine Mile 24
+	EB2
+		Images:	9423
+		Time:	28.04.2024 07:31:31 until 28.04.2024 12:20:34
+		Duration:	04:49:03
+		Location:	NULL NULL
+
+(9) - 0.0 km 856124 ELainne Mile 1.5
+	EB1
+		Images:	2043
+		Time:	28.04.2024 06:21:56 until 28.04.2024 07:27:59
+		Duration:	01:06:03
+		Location:	NULL NULL
+
+(10) - 0.0 km 856125 Christine Roosa Mile 1.5
+	EA1
+		Images:	1352
+		Time:	28.04.2024 06:21:47 until 28.04.2024 07:18:19
+		Duration:	00:56:32
+		Location:	NULL NULL
+
+(11) - 0.0 km 856125 Christine Roosa Mile24
+	EA2
+		Images:	10957
+		Time:	28.04.2024 07:19:22 until 28.04.2024 12:20:17
+		Duration:	05:00:55
+		Location:	NULL NULL
+
+(12) - 0.0 km 856126 trigger Mile 1.5
+	EC1
+		Images:	2266
+		Time:	28.04.2024 06:21:40 until 28.04.2024 07:22:31
+		Duration:	01:00:51
+		Location:	NULL NULL
+
+(13) - 0.0 km 856126 trigger mile 24
+	EC2
+		Images:	13265
+		Time:	28.04.2024 07:25:49 until 28.04.2024 12:04:57
+		Duration:	04:39:08
+		Location:	NULL NULL
+
+(14) - 0.0 km 856127 Chris W MSC 3 North bound
+	EH2
+		Images:	4731
+		Time:	28.04.2024 15:03:22 until 28.04.2024 17:56:17
+		Duration:	02:52:55
+		Location:	NULL NULL
+
+(15) - 0.0 km 856127 Chris W MSC 3 South bound
+	EH1
+		Images:	2970
+		Time:	28.04.2024 13:50:10 until 28.04.2024 14:48:36
+		Duration:	00:58:26
+		Location:	NULL NULL
+
+(16) - 0.0 km 856128 Reg MSC 3 north bound
+	EG2
+		Images:	1912
+		Time:	27.04.2024 19:41:50 until 27.04.2024 22:50:34
+		Duration:	03:08:44
+		Location:	NULL NULL
+
+(17) - 0.0 km 856128 Reg MSC 3 South bound
+	EG1
+		Images:	1134
+		Time:	27.04.2024 18:43:11 until 27.04.2024 19:37:34
+		Duration:	00:54:23
+		Location:	NULL NULL
+
+(18) - 0.0 km 856129 MSC 3 Trigger
+	ETRIG3
+		Images:	3332
+		Time:	28.04.2024 08:19:00 until 28.04.2024 10:37:01
+		Duration:	02:18:01
+		Location:	NULL NULL
+
+(19) - 0.0 km 856130 MSC 2 Hal Ogata
+	ED1
+		Images:	2670
+		Time:	28.04.2024 06:23:28 until 28.04.2024 06:56:18
+		Duration:	00:32:50
+		Location:	NULL NULL
+
+(20) - 0.0 km 856131 Emi Ito MSC 2
+	EE1
+		Images:	2471
+		Time:	28.04.2024 06:21:12 until 28.04.2024 07:24:50
+		Duration:	01:03:38
+		Location:	NULL NULL
+
+(21) - 0.0 km 856133 MSC 4 Laura G Mile 17
+	EJ2
+		Images:	3547
+		Time:	28.04.2024 08:46:08 until 28.04.2024 10:17:51
+		Duration:	01:31:43
+		Location:	NULL NULL
+
+(22) - 0.0 km 856133 MSC 4 Laura G Mile 7
+	EJ1
+		Images:	1714
+		Time:	28.04.2024 07:00:33 until 28.04.2024 08:36:47
+		Duration:	01:36:14
+		Location:	NULL NULL
+
+(23) - 0.0 km 856134 MSC 4 David Mile 17
+	EI2
+		Images:	3927
+		Time:	28.04.2024 08:10:20 until 28.04.2024 10:09:40
+		Duration:	01:59:20
+		Location:	NULL NULL
+
+(24) - 0.0 km 856134 MSC 4 David Mile 7
+	EI1
+		Images:	2870
+		Time:	28.04.2024 06:20:30 until 28.04.2024 08:06:32
+		Duration:	01:46:02
+		Location:	NULL NULL
+
+(25) - 0.0 km 856135 MSC 4 Nico Mile 17
+	EK2
+		Images:	4945
+		Time:	28.04.2024 08:15:15 until 28.04.2024 10:11:32
+		Duration:	01:56:17
+		Location:	NULL NULL
+
+(26) - 0.0 km 856135 MSC 4 Nico Mile 7
+	EK1
+		Images:	2746
+		Time:	28.04.2024 06:28:04 until 28.04.2024 08:13:03
+		Duration:	01:44:59
+		Location:	NULL NULL
+
+(27) - 0.0 km 856136 MSC 5 Hal O
+	EHAL1
+		Images:	17248
+		Time:	28.04.2024 07:34:18 until 28.04.2024 11:54:32
+		Duration:	04:20:14
+		Location:	NULL NULL
+
+(28) - 0.0 km 856137 MSC 5 Emi Ito
+	EEMI1
+		Images:	12103
+		Time:	28.04.2024 07:31:27 until 28.04.2024 12:07:47
+		Duration:	04:36:20
+		Location:	NULL NULL
+
+(29) - 0.0 km 856138 MSC 5 trigger
+	ETRIG4
+		Images:	14795
+		Time:	28.04.2024 10:34:32 until 28.04.2024 15:56:06
+		Duration:	05:21:34
+		Location:	NULL NULL
+
+(30) - 0.0 km 856140 MSC 2 Christine St Germain
+	EF1
+		Images:	2173
+		Time:	28.04.2024 06:04:01 until 28.04.2024 07:13:18
+		Duration:	01:09:17
+		Location:	NULL NULL
+
+(31) - 0.0 km 856141 MSC 5  Christine St Germain
+	ECSG1
+		Images:	8909
+		Time:	28.04.2024 07:15:40 until 28.04.2024 11:37:21
+		Duration:	04:21:41
+		Location:	NULL NULL
+
+(32) - 0.0 km 856142 PreFIN Phillip Reyes
+	EPR1
+		Images:	14819
+		Time:	28.04.2024 07:30:05 until 28.04.2024 12:37:37
+		Duration:	05:07:32
+		Location:	NULL NULL
+
+(33) - 0.0 km 856143 PreFIN Desmond Tan
+	EDT1
+		Images:	16114
+		Time:	28.04.2024 07:25:00 until 28.04.2024 12:37:54
+		Duration:	05:12:54
+		Location:	NULL NULL
+
+(34) - 0.0 km 856144 PreFIN Trigger  L
+	EL1
+		Images:	16442
+		Time:	28.04.2024 08:30:14 until 28.04.2024 14:35:55
+		Duration:	06:05:41
+		Location:	NULL NULL
+
+(35) - 0.0 km 856145 PreFIN Trigger Right
+	ETRIG1
+		Images:	18684
+		Time:	28.04.2024 05:02:46 until 28.04.2024 11:37:19
+		Duration:	06:34:33
+		Location:	NULL NULL
+
+(36) - 0.0 km 856150 medals Samantha Hutz
+	EP1
+		Images:	896
+		Time:	26.04.2024 20:43:01 until 27.04.2024 01:17:04
+		Duration:	04:34:03
+		Location:	NULL NULL
+
+(37) - 0.0 km 856151 Jonathan Russel OFP
+	ER1
+		Images:	1599
+		Time:	28.12.2018 12:43:14 until 28.12.2018 17:33:43
+		Duration:	04:50:29
+		Location:	NULL NULL
+
+(38) - 0.0 km 856152 OFP Harlie Twisselman
+	EQ1
+		Images:	987
+		Time:	28.04.2024 15:14:50 until 28.04.2024 20:23:45
+		Duration:	05:08:55
+		Location:	NULL NULL
+
+(39) - 0.0 km Candids Phillip Reyes
+	EN1
+		Images:	393
+		Time:	28.04.2024 05:24:58 until 28.04.2024 06:26:43
+		Duration:	01:01:45
+		Location:	NULL NULL
+
+(40) - 0.0 km PR- Desmond Tan
+	EDT2
+		Images:	930
+		Time:	28.04.2024 05:17:47 until 28.04.2024 07:08:40
+		Duration:	01:50:53
+		Location:	NULL NULL
+
+(41) - Impressions / Pano
+	PANO1

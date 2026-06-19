@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "48.76785" lon = "9.04695"><name>AKAM1</name><desc>Start Race
+Images:987
+First:03.10.2025 08:57:17
+Last:03.10.2025 10:47:06
+Duration:01:49:49
+</desc></wpt>
+<wpt lat = "48.76560" lon = "9.04573"><name>MSAI1</name><desc>0.5 km after Start
+Images:4892
+First:03.10.2025 09:55:15
+Last:03.10.2025 13:01:23
+Duration:03:06:08
+</desc></wpt>
+<wpt lat = "48.75338" lon = "9.08752"><name>ROB1</name><desc>7.4 km after Start
+Images:5735
+First:03.10.2025 10:21:34
+Last:03.10.2025 13:28:03
+Duration:03:06:29
+</desc></wpt>
+<wpt lat = "48.75338" lon = "9.08752"><name>ROB1LS1</name><desc>7.4 km after Start
+Images:3307
+First:03.10.2025 09:40:59
+Last:03.10.2025 13:44:38
+Duration:04:03:39
+</desc></wpt>
+<wpt lat = "48.75338" lon = "9.08752"><name>ROB1DRONE1</name><desc>7.4 km after Start
+Images:13
+First:03.10.2025 08:51:39
+Last:03.10.2025 10:56:46
+Duration:02:05:07
+</desc></wpt>
+<wpt lat = "48.75754" lon = "9.06801"><name>JULG1</name><desc>9.6 km after Start
+Images:4522
+First:03.10.2025 09:32:52
+Last:03.10.2025 13:32:18
+Duration:03:59:26
+</desc></wpt>
+<wpt lat = "48.76785" lon = "9.04695"><name>AKAM2</name><desc>Finish Race
+Images:2632
+First:03.10.2025 12:26:39
+Last:03.10.2025 13:37:07
+Duration:01:10:28
+</desc></wpt>
+<wpt lat = "48.76785" lon = "9.04695"><name>AKAM3</name><desc>Start Tour
+Images:329
+First:03.10.2025 13:50:52
+Last:03.10.2025 14:12:38
+Duration:00:21:46
+</desc></wpt>
+<wpt lat = "48.75802" lon = "9.06623"><name>JULG2</name><desc>1.4 km after Start
+Images:2839
+First:03.10.2025 14:02:24
+Last:03.10.2025 16:40:38
+Duration:02:38:14
+</desc></wpt>
+<wpt lat = "48.75344" lon = "9.08764"><name>ROB2</name><desc>3.9 km after Start
+Images:4198
+First:03.10.2025 14:17:58
+Last:03.10.2025 16:51:52
+Duration:02:33:54
+</desc></wpt>
+<wpt lat = "48.75344" lon = "9.08764"><name>ROB2LS1</name><desc>3.9 km after Start
+Images:1191
+First:03.10.2025 13:45:29
+Last:03.10.2025 15:32:29
+Duration:01:47:00
+</desc></wpt>
+<wpt lat = "48.76470" lon = "9.04283"><name>MSAI2</name><desc>10.9 km after Start
+Images:3467
+First:03.10.2025 14:17:43
+Last:03.10.2025 17:12:13
+Duration:02:54:30
+</desc></wpt>
+<wpt lat = "48.76785" lon = "9.04695"><name>AKAM4</name><desc>Finish Tour
+Images:2231
+First:03.10.2025 16:10:04
+Last:03.10.2025 17:14:23
+Duration:01:04:19
+</desc></wpt>
+</gpx>

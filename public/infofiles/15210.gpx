@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "22.39728" lon = "114.32043"><name>YDLE1</name><desc>Friday 56km:Start
+Images:322
+First:17.01.2025 06:34:53
+Last:17.01.2025 07:01:31
+Duration:00:26:38
+</desc></wpt>
+<wpt lat = "22.39728" lon = "114.32043"><name>YLNG1</name><desc>Friday 56km:Start
+Images:231
+First:17.01.2025 06:02:21
+Last:17.01.2025 07:01:36
+Duration:00:59:15
+</desc></wpt>
+<wpt lat = "22.39728" lon = "114.32043"><name>YNNG1</name><desc>Friday 56km:Start
+Images:356
+First:17.01.2025 06:06:53
+Last:17.01.2025 07:03:35
+Duration:00:56:42
+</desc></wpt>
+<wpt lat = "22.42217" lon = "114.32687"><name>YDLE2</name><desc>Friday 56km:29,0 km
+Images:6646
+First:17.01.2025 08:24:12
+Last:17.01.2025 15:24:01
+Duration:06:59:49
+</desc></wpt>
+<wpt lat = "22.40942" lon = "114.37530"><name>YHTT1</name><desc>Friday 56km:20,0 km
+Images:11398
+First:17.01.2025 06:04:36
+Last:17.01.2025 12:13:49
+Duration:06:09:13
+</desc></wpt>
+<wpt lat = "22.40942" lon = "114.37530"><name>YHTT1DRONE1</name><desc>Friday 56km:20,0 km
+Images:6
+First:28.09.2024 19:44:00
+Last:28.09.2024 21:06:54
+Duration:01:22:54
+</desc></wpt>
+<wpt lat = "22.40942" lon = "114.37530"><name>YHTT1LS1</name><desc>Friday 56km:20,0 km
+Images:1025
+First:17.01.2025 07:44:49
+Last:17.01.2025 11:49:42
+Duration:04:04:53
+</desc></wpt>
+<wpt lat = "22.40942" lon = "114.37530"><name>YHTT1LS2</name><desc>Friday 56km:20,0 km
+Images:940
+First:17.01.2025 08:13:29
+Last:17.01.2025 11:49:42
+Duration:03:36:13
+</desc></wpt>
+<wpt lat = "22.40942" lon = "114.37530"><name>YPNQ1</name><desc>Friday 56km:20,0 km
+Images:11591
+First:17.01.2025 08:20:41
+Last:17.01.2025 12:18:55
+Duration:03:58:14
+</desc></wpt>
+<wpt lat = "22.40326" lon = "114.31790"><name>YHTT2</name><desc>Friday 56km:55,0 km
+Images:1353
+First:17.01.2025 16:37:09
+Last:17.01.2025 20:43:35
+Duration:04:06:26
+</desc></wpt>
+<wpt lat = "22.40326" lon = "114.31790"><name>YHTT2LS1</name><desc>Friday 56km:55,0 km
+Images:904
+First:17.01.2025 15:55:59
+Last:17.01.2025 20:47:01
+Duration:04:51:02
+</desc></wpt>
+<wpt lat = "22.40326" lon = "114.31790"><name>YHTT2LS2</name><desc>Friday 56km:55,0 km
+Images:1038
+First:17.01.2025 15:19:07
+Last:17.01.2025 20:55:19
+Duration:05:36:12
+</desc></wpt>
+<wpt lat = "22.40326" lon = "114.31790"><name>YPNQ2</name><desc>Friday 56km:55,0 km
+Images:6634
+First:17.01.2025 15:29:01
+Last:17.01.2025 20:55:46
+Duration:05:26:45
+</desc></wpt>
+<wpt lat = "22.37902" lon = "114.37998"><name>YHYI1</name><desc>Friday 56km:12,0 km
+Images:4578
+First:16.01.2025 05:57:50
+Last:17.01.2025 10:40:54
+Duration:1.04:43:04
+</desc></wpt>
+<wpt lat = "22.39728" lon = "114.32043"><name>YHYI2</name><desc>Friday 56km:Finish
+Images:3761
+First:17.01.2025 11:36:05
+Last:17.01.2025 20:13:57
+Duration:08:37:52
+</desc></wpt>
+<wpt lat = "22.39728" lon = "114.32043"><name>YNP2</name><desc>Friday 56km:Finish
+Images:7524
+First:17.01.2025 11:36:05
+Last:17.01.2025 21:28:30
+Duration:09:52:25
+</desc></wpt>
+<wpt lat = "22.39728" lon = "114.32043"><name>YNP2LS1</name><desc>Friday 56km:Finish
+Images:4282
+First:17.01.2025 11:43:21
+Last:17.01.2025 19:12:24
+Duration:07:29:03
+</desc></wpt>
+<wpt lat = "22.39728" lon = "114.32043"><name>YNP2LS2</name><desc>Friday 56km:Finish
+Images:5995
+First:17.01.2025 11:39:28
+Last:17.01.2025 19:12:25
+Duration:07:32:57
+</desc></wpt>
+<wpt lat = "22.42282" lon = "114.29610"><name>YLNG2</name><desc>Friday 56km:51,0 km
+Images:2438
+First:17.01.2025 11:04:32
+Last:17.01.2025 17:39:32
+Duration:06:35:00
+</desc></wpt>
+<wpt lat = "22.42282" lon = "114.29610"><name>YLNG2LS1</name><desc>Friday 56km:51,0 km
+Images:1598
+First:17.01.2025 09:30:48
+Last:17.01.2025 15:52:52
+Duration:06:22:04
+</desc></wpt>
+<wpt lat = "22.42282" lon = "114.29610"><name>YLNG2LS2</name><desc>Friday 56km:51,0 km
+Images:2707
+First:17.01.2025 09:13:33
+Last:17.01.2025 15:46:22
+Duration:06:32:49
+</desc></wpt>
+<wpt lat = "22.42980" lon = "114.28568"><name>YNNG2</name><desc>Friday 56km:49,0 km
+Images:2259
+First:17.01.2025 10:57:05
+Last:17.01.2025 16:53:46
+Duration:05:56:41
+</desc></wpt>
+<wpt lat = "22.42980" lon = "114.28568"><name>YNNG2LS1</name><desc>Friday 56km:49,0 km
+Images:584
+First:17.01.2025 12:37:07
+Last:17.01.2025 17:17:02
+Duration:04:39:55
+</desc></wpt>
+<wpt lat = "22.37418" lon = "114.3406"><name>YNP1</name><desc>Friday 56km:6,5 km
+Images:5367
+First:17.01.2025 06:23:50
+Last:17.01.2025 11:25:26
+Duration:05:01:36
+</desc></wpt>
+<wpt lat = "22.37418" lon = "114.3406"><name>YNP1LS1</name><desc>Friday 56km:6,5 km
+Images:1184
+First:17.01.2025 06:44:13
+Last:17.01.2025 11:39:29
+Duration:04:55:16
+</desc></wpt>
+<wpt lat = "22.37418" lon = "114.3406"><name>YNP1LS2</name><desc>Friday 56km:6,5 km
+Images:5237
+First:17.01.2025 06:43:20
+Last:17.01.2025 09:37:05
+Duration:02:53:45
+</desc></wpt>
+<wpt lat = "22.38039" lon = "114.37708"><name>HTT1</name><desc>Sat/Sun 103km:12,0 km
+Images:14700
+First:18.01.2025 07:56:26
+Last:18.01.2025 11:57:52
+Duration:04:01:26
+</desc></wpt>
+<wpt lat = "22.38039" lon = "114.37708"><name>HTT1LS1</name><desc>Sat/Sun 103km:12,0 km
+Images:2498
+First:18.01.2025 07:14:22
+Last:18.01.2025 10:26:37
+Duration:03:12:15
+</desc></wpt>
+<wpt lat = "22.38039" lon = "114.37708"><name>HTT1LS2</name><desc>Sat/Sun 103km:12,0 km
+Images:2031
+First:18.01.2025 06:21:35
+Last:18.01.2025 10:40:41
+Duration:04:19:06
+</desc></wpt>
+<wpt lat = "22.35574" lon = "114.19253"><name>HTT2</name><desc>Sat/Sun 103km:75,0 km
+Images:2627
+First:18.01.2025 12:09:07
+Last:18.01.2025 23:46:49
+Duration:11:37:42
+</desc></wpt>
+<wpt lat = "22.35574" lon = "114.19253"><name>HTT2LS1</name><desc>Sat/Sun 103km:75,0 km
+Images:5278
+First:18.01.2025 16:38:13
+Last:19.01.2025 04:43:58
+Duration:12:05:45
+</desc></wpt>
+<wpt lat = "22.41063" lon = "114.37456"><name>HYI1</name><desc>Sat/Sun 103km:20,0 km
+Images:8125
+First:18.01.2025 08:15:36
+Last:18.01.2025 12:14:15
+Duration:03:58:39
+</desc></wpt>
+<wpt lat = "22.41063" lon = "114.37456"><name>PNQ1</name><desc>Sat/Sun 103km:20,0 km
+Images:17964
+First:18.01.2025 08:38:15
+Last:18.01.2025 12:15:26
+Duration:03:37:11
+</desc></wpt>
+<wpt lat = "22.40488" lon = "114.10342"><name>HYI2</name><desc>Sat/Sun 103km:Finish
+Images:5394
+First:19.01.2025 05:00:33
+Last:19.01.2025 13:13:11
+Duration:08:12:38
+</desc></wpt>
+<wpt lat = "22.40488" lon = "114.10342"><name>LNG3</name><desc>Sat/Sun 103km:Finish
+Images:494
+First:18.01.2025 16:43:14
+Last:18.01.2025 22:31:30
+Duration:05:48:16
+</desc></wpt>
+<wpt lat = "22.40488" lon = "114.10342"><name>NNG2</name><desc>Sat/Sun 103km:Finish
+Images:266
+First:19.01.2025 00:54:08
+Last:19.01.2025 04:59:36
+Duration:04:05:28
+</desc></wpt>
+<wpt lat = "22.40488" lon = "114.10342"><name>NNG2DRONE1</name><desc>Sat/Sun 103km:Finish
+Images:3
+First:01.10.2024 00:25:08
+Last:01.10.2024 00:26:14
+Duration:00:01:06
+</desc></wpt>
+<wpt lat = "22.40488" lon = "114.10342"><name>NNG2LS1</name><desc>Sat/Sun 103km:Finish
+Images:2465
+First:18.01.2025 23:57:57
+Last:19.01.2025 05:09:53
+Duration:05:11:56
+</desc></wpt>
+<wpt lat = "22.40488" lon = "114.10342"><name>NP3</name><desc>Sat/Sun 103km:Finish
+Images:5902
+First:19.01.2025 05:13:36
+Last:19.01.2025 14:07:26
+Duration:08:53:50
+</desc></wpt>
+<wpt lat = "22.40488" lon = "114.10342"><name>NP3LS1</name><desc>Sat/Sun 103km:Finish
+Images:3836
+First:19.01.2025 04:47:32
+Last:19.01.2025 13:34:46
+Duration:08:47:14
+</desc></wpt>
+<wpt lat = "22.40488" lon = "114.10342"><name>NP3LS2</name><desc>Sat/Sun 103km:Finish
+Images:5691
+First:19.01.2025 05:12:03
+Last:19.01.2025 13:17:03
+Duration:08:05:00
+</desc></wpt>
+<wpt lat = "22.40488" lon = "114.10342"><name>PNQ2</name><desc>Sat/Sun 103km:Finish
+Images:6478
+First:18.01.2025 22:31:41
+Last:19.01.2025 05:13:09
+Duration:06:41:28
+</desc></wpt>
+<wpt lat = "22.40488" lon = "114.10342"><name>STW2</name><desc>Sat/Sun 103km:Finish
+Images:697
+First:18.01.2025 16:43:13
+Last:18.01.2025 21:57:12
+Duration:05:13:59
+</desc></wpt>
+<wpt lat = "22.37324" lon = "114.33859"><name>LNG1</name><desc>Sat/Sun 103km:6,5 km
+Images:3778
+First:18.01.2025 07:17:16
+Last:18.01.2025 10:35:52
+Duration:03:18:36
+</desc></wpt>
+<wpt lat = "22.37324" lon = "114.33859"><name>LNG1LS1</name><desc>Sat/Sun 103km:6,5 km
+Images:3349
+First:18.01.2025 06:38:50
+Last:18.01.2025 08:40:51
+Duration:02:02:01
+</desc></wpt>
+<wpt lat = "22.37324" lon = "114.33859"><name>LNG1LS2</name><desc>Sat/Sun 103km:6,5 km
+Images:5534
+First:18.01.2025 06:35:14
+Last:18.01.2025 11:51:14
+Duration:05:16:00
+</desc></wpt>
+<wpt lat = "22.42339" lon = "114.33224"><name>LNG2</name><desc>Sat/Sun 103km:28,0 km
+Images:2156
+First:18.01.2025 10:36:25
+Last:18.01.2025 13:57:32
+Duration:03:21:07
+</desc></wpt>
+<wpt lat = "22.42339" lon = "114.33224"><name>LNG2LS1</name><desc>Sat/Sun 103km:28,0 km
+Images:2346
+First:18.01.2025 11:52:10
+Last:18.01.2025 13:47:58
+Duration:01:55:48
+</desc></wpt>
+<wpt lat = "22.42926" lon = "114.28609"><name>NNG1</name><desc>Sat/Sun 103km:49,0 km
+Images:4710
+First:18.01.2025 11:09:19
+Last:18.01.2025 16:59:39
+Duration:05:50:20
+</desc></wpt>
+<wpt lat = "22.42926" lon = "114.28609"><name>NNG1DRONE1</name><desc>Sat/Sun 103km:49,0 km
+Images:2
+First:30.09.2024 03:11:59
+Last:30.09.2024 03:18:53
+Duration:00:06:54
+</desc></wpt>
+<wpt lat = "22.42926" lon = "114.28609"><name>NNG1LS1</name><desc>Sat/Sun 103km:49,0 km
+Images:2133
+First:18.01.2025 11:42:35
+Last:18.01.2025 17:00:34
+Duration:05:17:59
+</desc></wpt>
+<wpt lat = "22.42926" lon = "114.28609"><name>NNG1LS2</name><desc>Sat/Sun 103km:49,0 km
+Images:1637
+First:18.01.2025 12:13:24
+Last:18.01.2025 17:34:44
+Duration:05:21:20
+</desc></wpt>
+<wpt lat = "22.39792" lon = "114.31798"><name>NP1</name><desc>Sat/Sun 103km:Start
+Images:717
+First:18.01.2025 06:06:47
+Last:18.01.2025 07:15:03
+Duration:01:08:16
+</desc></wpt>
+<wpt lat = "22.39792" lon = "114.31798"><name>STW1</name><desc>Sat/Sun 103km:Start
+Images:403
+First:18.01.2025 06:51:21
+Last:18.01.2025 16:12:43
+Duration:09:21:22
+</desc></wpt>
+<wpt lat = "22.42281" lon = "114.29343"><name>NP2</name><desc>Sat/Sun 103km:51,0 km
+Images:10790
+First:18.01.2025 11:15:16
+Last:19.01.2025 05:13:10
+Duration:17:57:54
+</desc></wpt>
+<wpt lat = "22.42281" lon = "114.29343"><name>NP2LS1</name><desc>Sat/Sun 103km:51,0 km
+Images:3200
+First:18.01.2025 09:25:45
+Last:18.01.2025 17:21:48
+Duration:07:56:03
+</desc></wpt>
+<wpt lat = "22.42281" lon = "114.29343"><name>NP2LS2</name><desc>Sat/Sun 103km:51,0 km
+Images:10282
+First:18.01.2025 09:43:18
+Last:19.01.2025 04:49:59
+Duration:19:06:41
+</desc></wpt>
+</gpx>

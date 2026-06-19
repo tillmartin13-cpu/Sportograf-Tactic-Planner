@@ -1,0 +1,249 @@
+EventId: 11727
+Spots: 39
+Total Images: 187343
+Time:	25.05.2024 20:34:07 to 26.05.2024 15:31:23
+Duration: 18:57:16
+
+(1) - 1.2 km before Finish Severinsbrücke
+	BNWO2
+		Images:	2726
+		Time:	26.05.2024 12:18:56 until 26.05.2024 14:08:40
+		Duration:	01:49:44
+		Location:	50.93108 6.97102
+
+	BNWO2LS1
+		Images:	1988
+		Time:	26.05.2024 12:03:50 until 26.05.2024 14:11:00
+		Duration:	02:07:10
+		Location:	50.93108 6.97102
+
+	BNWO2LS2
+		Images:	2642
+		Time:	26.05.2024 12:03:21 until 26.05.2024 14:06:17
+		Duration:	02:02:56
+		Location:	50.93108 6.97102
+
+(2) - 1.4 km Severinsbrücke
+	BNWO1
+		Images:	3188
+		Time:	26.05.2024 08:54:16 until 26.05.2024 11:32:59
+		Duration:	02:38:43
+		Location:	50.93108 6.97102
+
+	BNWO1LS1
+		Images:	1136
+		Time:	26.05.2024 09:19:26 until 26.05.2024 11:43:03
+		Duration:	02:23:37
+		Location:	50.93108 6.97102
+
+	BNWO1LS2
+		Images:	1787
+		Time:	26.05.2024 09:15:48 until 26.05.2024 11:46:59
+		Duration:	02:31:11
+		Location:	50.93108 6.97102
+
+(3) - 12.0 km before Finish
+	BOT1
+		Images:	8868
+		Time:	26.05.2024 10:02:04 until 26.05.2024 14:06:44
+		Duration:	04:04:40
+		Location:	50.92006 7.09884
+
+(4) - 20.0 km before Finish
+	BSSW1
+		Images:	4424
+		Time:	26.05.2024 09:34:36 until 26.05.2024 13:34:34
+		Duration:	03:59:58
+		Location:	50.97291 7.14455
+
+	BSSW1LS1
+		Images:	7822
+		Time:	26.05.2024 10:16:59 until 26.05.2024 13:45:25
+		Duration:	03:28:26
+		Location:	50.97291 7.14455
+
+	BSSW1LS2
+		Images:	9101
+		Time:	26.05.2024 10:32:49 until 26.05.2024 13:44:39
+		Duration:	03:11:50
+		Location:	50.97291 7.14455
+
+(5) - 22,5 km Altenberger Dom
+	ATOG1
+		Images:	6379
+		Time:	25.05.2024 20:34:07 until 26.05.2024 12:34:24
+		Duration:	16:00:17
+		Location:	51.05449 7.13653
+
+	ATOG1LS1
+		Images:	3923
+		Time:	26.05.2024 08:44:10 until 26.05.2024 12:32:12
+		Duration:	03:48:02
+		Location:	51.05449 7.13653
+
+	ATOG1LS2
+		Images:	3810
+		Time:	26.05.2024 08:57:00 until 26.05.2024 13:05:42
+		Duration:	04:08:42
+		Location:	51.05449 7.13653
+
+	AWEN1
+		Images:	6998
+		Time:	26.05.2024 09:17:41 until 26.05.2024 11:35:27
+		Duration:	02:17:46
+		Location:	51.05449 7.13653
+
+(6) - 29,5 km Neschen
+	ACD1
+		Images:	8985
+		Time:	26.05.2024 08:56:35 until 26.05.2024 12:40:52
+		Duration:	03:44:17
+		Location:	51.05485 7.17210
+
+	ACD1LS1
+		Images:	1914
+		Time:	26.05.2024 09:29:37 until 26.05.2024 12:07:03
+		Duration:	02:37:26
+		Location:	51.05485 7.17210
+
+	ACD1LS2
+		Images:	2876
+		Time:	26.05.2024 09:34:23 until 26.05.2024 12:42:36
+		Duration:	03:08:13
+		Location:	51.05485 7.17210
+
+	AYT1
+		Images:	6778
+		Time:	26.05.2024 08:56:38 until 26.05.2024 12:42:08
+		Duration:	03:45:30
+		Location:	51.05485 7.17210
+
+	AYT1LS1
+		Images:	2901
+		Time:	26.05.2024 09:35:45 until 26.05.2024 12:44:48
+		Duration:	03:09:03
+		Location:	51.05485 7.17210
+
+	AYT1LS2
+		Images:	3254
+		Time:	26.05.2024 09:27:04 until 26.05.2024 12:42:46
+		Duration:	03:15:42
+		Location:	51.05485 7.17210
+
+(7) - 46,1 km Schloss Bensberg
+	AANR1
+		Images:	8526
+		Time:	26.05.2024 10:36:30 until 26.05.2024 13:57:17
+		Duration:	03:20:47
+		Location:	50.96649 7.16004
+
+	AHM1
+		Images:	11697
+		Time:	26.05.2024 10:35:29 until 26.05.2024 13:55:57
+		Duration:	03:20:28
+		Location:	50.96649 7.16004
+
+	AHM1LS1
+		Images:	7109
+		Time:	26.05.2024 09:20:58 until 26.05.2024 13:02:51
+		Duration:	03:41:53
+		Location:	50.96649 7.16004
+
+	AHM1LS2
+		Images:	7732
+		Time:	26.05.2024 09:30:17 until 26.05.2024 12:32:46
+		Duration:	03:02:29
+		Location:	50.96649 7.16004
+
+(8) - 46,3 km Schloss Bensberg
+	AMW1
+		Images:	10395
+		Time:	26.05.2024 10:36:45 until 26.05.2024 13:50:13
+		Duration:	03:13:28
+		Location:	50.96603 7.16013
+
+(9) - 5.0 km before Finish
+	BFLOF1
+		Images:	9954
+		Time:	26.05.2024 10:41:35 until 26.05.2024 14:02:56
+		Duration:	03:21:21
+		Location:	50.93368 7.01550
+
+(10) - 50.8 km Forsbach
+	BMSC1
+		Images:	8888
+		Time:	26.05.2024 10:21:24 until 26.05.2024 14:54:14
+		Duration:	04:32:50
+		Location:	50.93055 7.17478
+
+(11) - 53,0 km Forsbach
+	AMIJA1
+		Images:	8548
+		Time:	26.05.2024 10:42:25 until 26.05.2024 13:53:22
+		Duration:	03:10:57
+		Location:	50.92113 7.15556
+
+(12) - Finish
+	BBAB2
+		Images:	7377
+		Time:	26.05.2024 12:18:31 until 26.05.2024 14:24:04
+		Duration:	02:05:33
+		Location:	50.92528 6.96534
+
+	BBAB2LS1
+		Images:	3002
+		Time:	26.05.2024 11:42:32 until 26.05.2024 14:45:41
+		Duration:	03:03:09
+		Location:	50.92528 6.96534
+
+	BBAB2LS2
+		Images:	638
+		Time:	26.05.2024 11:56:46 until 26.05.2024 14:21:13
+		Duration:	02:24:27
+		Location:	50.92528 6.96534
+
+	BDAGG2
+		Images:	3094
+		Time:	26.05.2024 12:27:35 until 26.05.2024 15:08:55
+		Duration:	02:41:20
+		Location:	50.92528 6.96534
+
+(13) - Impressions / Pano
+	ACD1DRONE1
+		Images:	13
+		Time:	26.05.2024 11:01:55 until 26.05.2024 11:05:31
+		Duration:	00:03:36
+		Location:	51.02496 7.02959
+
+	AHM1DRONE1
+		Images:	4
+		Time:	26.05.2024 13:49:09 until 26.05.2024 13:50:29
+		Duration:	00:01:20
+		Location:	51.02496 7.02959
+
+	BMBEN1
+		Images:	1640
+		Time:	26.05.2024 08:33:41 until 26.05.2024 15:31:23
+		Duration:	06:57:42
+		Location:	50.92528 6.96534
+
+	PANO1
+(14) - Start
+	BBAB1
+		Images:	4231
+		Time:	26.05.2024 09:02:06 until 26.05.2024 11:29:58
+		Duration:	02:27:52
+		Location:	50.92528 6.96534
+
+	BDAGG1
+		Images:	2738
+		Time:	26.05.2024 08:37:55 until 26.05.2024 11:29:49
+		Duration:	02:51:54
+		Location:	50.92528 6.96534
+
+	BSSW2
+		Images:	257
+		Time:	26.05.2024 11:54:57 until 26.05.2024 12:30:23
+		Duration:	00:35:26
+		Location:	50.97603 7.13819
+

@@ -1,0 +1,204 @@
+EventId: 12563
+Spots: 29
+Total Images: 160766
+Time:	01.01.0001 23:00:00 to 12.11.2023 12:06:07
+Duration: 738834.13:06:07
+
+(1) - 0.0 km 853598 - Abdo Sharhan - Finish
+	LTIAS1
+		Images:	7637
+		Time:	12.11.2023 07:14:31 until 12.11.2023 09:38:11
+		Duration:	02:23:40
+		Location:	NULL NULL
+
+(2) - 0.0 km 853599 - James Aylward - Finish
+	LTIJA1
+		Images:	6696
+		Time:	12.11.2023 08:06:27 until 12.11.2023 11:36:57
+		Duration:	03:30:30
+		Location:	NULL NULL
+
+(3) - 0.0 km 853600 - Trigger - Finish
+	LTIAS2
+		Images:	10151
+		Time:	01.01.0001 23:00:00 until 12.11.2023 11:27:11
+		Duration:	738834.12:27:11
+		Location:	NULL NULL
+
+(4) - 0.0 km 853601 - Trigger - Finish
+	LTIAS3
+		Images:	8559
+		Time:	12.11.2023 07:00:46 until 12.11.2023 11:01:20
+		Duration:	04:00:34
+		Location:	NULL NULL
+
+(5) - 0.0 km 853602 - Dan Smith - Medals
+	LTIDS1
+		Images:	1365
+		Time:	12.11.2023 08:21:48 until 12.11.2023 10:41:09
+		Duration:	02:19:21
+		Location:	NULL NULL
+
+(6) - 0.0 km 853603 - Ant Oraloglu - OFP
+	LTIAO1
+		Images:	526
+		Time:	12.11.2023 08:41:31 until 12.11.2023 11:02:01
+		Duration:	02:20:30
+		Location:	NULL NULL
+
+(7) - 0.0 km 853604 - David Lavallee - MSC 4
+	LTFDL1
+		Images:	8060
+		Time:	01.01.0001 23:00:00 until 12.11.2023 10:35:02
+		Duration:	738834.11:35:02
+		Location:	NULL NULL
+
+(8) - 0.0 km 853605 - Jessica Bolandrina - Medals
+	LTIJB1
+		Images:	631
+		Time:	12.11.2023 09:34:21 until 12.11.2023 12:06:07
+		Duration:	02:31:46
+		Location:	NULL NULL
+
+(9) - 0.0 km 853606 - Erin Flagg - OFP
+	LTIEF1
+		Images:	921
+		Time:	12.11.2023 08:33:44 until 12.11.2023 11:45:33
+		Duration:	03:11:49
+		Location:	NULL NULL
+
+(10) - 0.0 km 853607 - Bryan Ouellette - OFP
+	LTIBO1
+		Images:	549
+		Time:	12.11.2023 08:45:56 until 12.11.2023 11:46:29
+		Duration:	03:00:33
+		Location:	NULL NULL
+
+(11) - 0.0 km 853610 - Kelly Sheehan - Pre-Finish
+	LTIKS2
+		Images:	12547
+		Time:	12.11.2013 07:53:10 until 12.11.2013 10:46:59
+		Duration:	02:53:49
+		Location:	NULL NULL
+
+(12) - 0.0 km 853611 - Mike Bordon - Pre-Finish
+	LTIMB2
+		Images:	5892
+		Time:	12.11.2023 08:04:23 until 12.11.2023 11:58:18
+		Duration:	03:53:55
+		Location:	NULL NULL
+
+(13) - 0.0 km 853612 - Druscilla Lam - Pre-Finish
+	LTIDL1
+		Images:	13295
+		Time:	01.01.0001 23:00:00 until 12.11.2023 11:45:55
+		Duration:	738834.12:45:55
+		Location:	NULL NULL
+
+(14) - 0.0 km 853613 - Trigger - MSC 4
+	LTFRF3
+		Images:	7321
+		Time:	12.11.2023 08:01:33 until 12.11.2023 10:21:35
+		Duration:	02:20:02
+		Location:	NULL NULL
+
+(15) - 0.0 km 853615 - Paul Meredith - MSC 1
+	LTFPM1
+		Images:	2132
+		Time:	31.12.1999 23:00:01 until 31.12.1999 23:19:44
+		Duration:	00:19:43
+		Location:	NULL NULL
+
+(16) - 0.0 km 853616 - Rory Fisher - MSC 1
+	LTFRF1
+		Images:	1675
+		Time:	12.11.2023 08:00:58 until 12.11.2023 08:28:14
+		Duration:	00:27:16
+		Location:	NULL NULL
+
+(17) - 0.0 km 853617 - Lana Citowsky - MSC 1
+	LTFLC1
+		Images:	3482
+		Time:	12.11.2023 08:04:41 until 12.11.2023 08:34:25
+		Duration:	00:29:44
+		Location:	NULL NULL
+
+(18) - 0.0 km 853618 - Johnn Nunziato - MSC 1
+	LTFJN1
+		Images:	1626
+		Time:	12.11.2023 08:00:16 until 12.11.2023 08:32:57
+		Duration:	00:32:41
+		Location:	NULL NULL
+
+(19) - 0.0 km 853619 - Paul Meredith - MSC 3
+	LTFPM2
+		Images:	8553
+		Time:	31.12.1999 23:00:00 until 01.01.2000 00:27:33
+		Duration:	01:27:33
+		Location:	NULL NULL
+
+(20) - 0.0 km 853619 - Paul Meredith - MSC 3 - Card 2
+	LTFPM3
+		Images:	8231
+		Time:	31.12.1999 23:00:00 until 01.01.2000 00:27:33
+		Duration:	01:27:33
+		Location:	NULL NULL
+
+(21) - 0.0 km 853620 - Lana Citowsky - MSC 3
+	LTFLC2
+		Images:	11277
+		Time:	12.11.2023 08:55:14 until 12.11.2023 11:20:49
+		Duration:	02:25:35
+		Location:	NULL NULL
+
+(22) - 0.0 km 853622 - Kelly Sheehan - Start PRs
+	LTIKS1
+		Images:	1686
+		Time:	12.11.2013 06:22:06 until 12.11.2013 07:24:49
+		Duration:	01:02:43
+		Location:	NULL NULL
+
+(23) - 0.0 km 853623 - Mike Bordon - PRs
+	LTIMB1
+		Images:	102
+		Time:	12.11.2023 07:23:32 until 12.11.2023 08:04:20
+		Duration:	00:40:48
+		Location:	NULL NULL
+
+(24) - 0.0 km 853623 - Rory Fisher - MSC 4
+	LTFRF2
+		Images:	7274
+		Time:	12.11.2023 09:02:29 until 12.11.2023 11:35:45
+		Duration:	02:33:16
+		Location:	NULL NULL
+
+(25) - 0.0 km 853624 - John Nunziato - MSC 4
+	LTFJN2
+		Images:	7086
+		Time:	12.11.2023 08:58:50 until 12.11.2023 11:32:51
+		Duration:	02:34:01
+		Location:	NULL NULL
+
+(26) - 0.0 km 853625 - Henry Castellanos - MSC 2
+	LTFHC1
+		Images:	9170
+		Time:	12.11.2023 08:14:59 until 12.11.2023 10:21:58
+		Duration:	02:06:59
+		Location:	NULL NULL
+
+(27) - 0.0 km 853626 - Julia Levine - MSC 2
+	LTFJL1
+		Images:	4809
+		Time:	12.11.2023 08:00:31 until 12.11.2023 10:15:13
+		Duration:	02:14:42
+		Location:	NULL NULL
+
+(28) - 0.0 km 857371 - Trigger - Pre-Finish
+	LTIKS3
+		Images:	9513
+		Time:	12.11.2023 07:51:33 until 12.11.2023 11:46:41
+		Duration:	03:55:08
+		Location:	NULL NULL
+
+(29) - Impressions / Pano
+	PANO1

@@ -1,0 +1,720 @@
+EventId: 12236
+Spots: 116
+Total Images: 2138223
+Time:	01.01.0001 23:00:00 to 29.09.2024 18:23:19
+Duration: 739156.19:23:19
+
+(1) - 0,9 km Siegessäule
+	BDAR1
+		Images:	10642
+		Time:	29.09.2024 08:57:55 until 29.09.2024 11:04:15
+		Duration:	02:06:20
+		Location:	52.51425 13.34606
+
+	BDAR1LS1
+		Images:	4951
+		Time:	29.09.2024 08:38:40 until 29.09.2024 11:05:49
+		Duration:	02:27:09
+		Location:	52.51425 13.34606
+
+	DAGA1
+		Images:	12846
+		Time:	29.09.2024 08:50:15 until 29.09.2024 11:04:58
+		Duration:	02:14:43
+		Location:	52.51425 13.34606
+
+	DAGA1LS1
+		Images:	4764
+		Time:	29.09.2024 08:10:48 until 29.09.2024 11:05:48
+		Duration:	02:55:00
+		Location:	52.51425 13.34606
+
+	DAGA1LS2
+		Images:	2526
+		Time:	29.09.2024 08:42:25 until 29.09.2024 11:05:48
+		Duration:	02:23:23
+		Location:	52.51425 13.34606
+
+	ECF1
+		Images:	14394
+		Time:	29.09.2024 08:39:25 until 29.09.2024 18:10:41
+		Duration:	09:31:16
+		Location:	52.51425 13.34606
+
+(2) - 12,1 km Strausberger Platz
+	AFDC1
+		Images:	19220
+		Time:	29.09.2024 08:57:43 until 29.09.2024 12:48:38
+		Duration:	03:50:55
+		Location:	52.51813 13.42799
+
+	DCRIC1
+		Images:	11811
+		Time:	29.09.2024 14:14:01 until 29.09.2024 18:07:35
+		Duration:	03:53:34
+		Location:	52.51813 13.42799
+
+(3) - 23,3 km Townhall Schöneberg / Kennedy's balcony
+	BGEG1
+		Images:	28511
+		Time:	29.09.2024 08:18:36 until 29.09.2024 14:42:23
+		Duration:	06:23:47
+		Location:	52.48421 13.34502
+
+	BMAXW1
+		Images:	11694
+		Time:	29.09.2024 09:12:52 until 29.09.2024 14:20:55
+		Duration:	05:08:03
+		Location:	52.48421 13.34502
+
+(4) - 29,0 km Graffiti bridges
+	ABL1
+		Images:	11630
+		Time:	29.09.2024 08:29:50 until 29.09.2024 14:13:16
+		Duration:	05:43:26
+		Location:	52.49322 13.36824
+
+	ALUKS1
+		Images:	9354
+		Time:	29.09.2024 08:49:27 until 29.09.2024 14:13:21
+		Duration:	05:23:54
+		Location:	52.49322 13.36824
+
+(5) - 34,7 km Drone Kurfürstendamm/Café Kranzler
+	EGJKD1
+		Images:	6463
+		Time:	29.09.2024 11:00:05 until 29.09.2024 16:23:11
+		Duration:	05:23:06
+		Location:	52.50369 13.33127
+
+(6) - 34,7 km Kurfürstendamm / Cafe Kranzler
+	EDAB1
+		Images:	4401
+		Time:	29.09.2024 09:27:08 until 29.09.2024 16:12:30
+		Duration:	06:45:22
+		Location:	52.50369 13.33127
+
+(7) - 34,7 km Kurfürstendamm/Café Kranzler
+	CYTS1
+		Images:	21966
+		Time:	29.09.2024 08:29:04 until 29.09.2024 16:38:01
+		Duration:	08:08:57
+		Location:	52.50369 13.33127
+
+(8) - 35,2 km Drone Kaiser-Wilhelm-Gedächtniskirche
+	EGJGK1
+		Images:	6699
+		Time:	29.09.2024 10:40:55 until 29.09.2024 16:30:12
+		Duration:	05:49:17
+		Location:	52.50395 13.33696
+
+(9) - 35,2 km Kaiser-Wilhelm-Gedächtniskirche
+	CMPU1
+		Images:	16792
+		Time:	27.09.2024 10:54:14 until 29.09.2024 16:45:29
+		Duration:	2.05:51:15
+		Location:	52.50395 13.33696
+
+(10) - 36,5 km  Nollendorf Platz
+	ARET1
+		Images:	20331
+		Time:	29.09.2024 08:35:58 until 29.09.2024 16:48:29
+		Duration:	08:12:31
+		Location:	52.4992 13.35621
+
+(11) - 38,8 km Potsdamer Platz
+	CFAW1
+		Images:	11804
+		Time:	29.09.2024 07:50:20 until 29.09.2024 17:28:34
+		Duration:	09:38:14
+		Location:	52.5096 13.37866
+
+	CJOWE1
+		Images:	25581
+		Time:	29.09.2024 09:07:37 until 29.09.2024 17:29:14
+		Duration:	08:21:37
+		Location:	52.5096 13.37866
+
+	CRJ1
+		Images:	38208
+		Time:	29.09.2024 09:50:25 until 29.09.2024 17:26:57
+		Duration:	07:36:32
+		Location:	52.5096 13.37866
+
+	CRJ1LS1
+		Images:	5015
+		Time:	29.09.2024 11:08:12 until 29.09.2024 17:09:58
+		Duration:	06:01:46
+		Location:	52.5096 13.37866
+
+(12) - 39,2 km  Bundesrat
+	BPHI1
+		Images:	4375
+		Time:	29.09.2024 12:37:26 until 29.09.2024 17:27:04
+		Duration:	04:49:38
+		Location:	52.50984 13.38172
+
+(13) - 39,2 km Bundesrat
+	CARTA2
+		Images:	8609
+		Time:	29.09.2024 12:52:40 until 29.09.2024 17:28:28
+		Duration:	04:35:48
+		Location:	52.50984 13.38172
+
+	EOAD1
+		Images:	24786
+		Time:	29.09.2024 09:20:28 until 29.09.2024 17:28:54
+		Duration:	08:08:26
+		Location:	52.50984 13.38172
+
+(14) - 40,4 km  Potsdamer Platz
+	AJMAR1
+		Images:	13927
+		Time:	29.09.2024 09:11:32 until 29.09.2024 17:27:31
+		Duration:	08:15:59
+		Location:	52.5096 13.37866
+
+(15) - 40,4 km Deutscher Dom
+	EADRE2
+		Images:	16323
+		Time:	29.09.2024 12:28:19 until 29.09.2024 17:52:15
+		Duration:	05:23:56
+		Location:	52.5096 13.37866
+
+	EDABT1
+		Images:	11613
+		Time:	29.09.2024 09:23:05 until 29.09.2024 17:51:59
+		Duration:	08:28:54
+		Location:	52.51302 13.39338
+
+	EDDT1
+		Images:	29012
+		Time:	29.09.2024 09:24:00 until 29.09.2024 17:51:59
+		Duration:	08:27:59
+		Location:	52.51302 13.39338
+
+(16) - 40,6 km Konzerthaus Berlin/Gendarmenmarkt
+	ADV1
+		Images:	15943
+		Time:	29.09.2024 09:23:29 until 29.09.2024 17:28:05
+		Duration:	08:04:36
+		Location:	52.51406 13.39318
+
+	BBL2
+		Images:	8216
+		Time:	29.09.2024 12:49:06 until 29.09.2024 17:53:51
+		Duration:	05:04:45
+		Location:	52.51406 13.39318
+
+	BBL2LS1
+		Images:	5143
+		Time:	29.09.2024 12:46:36 until 29.09.2024 17:06:36
+		Duration:	04:20:00
+		Location:	52.51406 13.39318
+
+	BJKM1
+		Images:	36174
+		Time:	29.09.2024 10:44:22 until 29.09.2024 15:57:24
+		Duration:	05:13:02
+		Location:	52.51406 13.39318
+
+	CTHS1
+		Images:	128665
+		Time:	29.09.2024 10:00:51 until 29.09.2024 17:53:04
+		Duration:	07:52:13
+		Location:	52.51406 13.39318
+
+	DLIZ1
+		Images:	18251
+		Time:	29.09.2024 09:46:02 until 29.09.2024 17:53:08
+		Duration:	08:07:06
+		Location:	52.51406 13.39318
+
+	DLIZ1LS1
+		Images:	24001
+		Time:	29.09.2024 08:16:37 until 29.09.2024 18:09:56
+		Duration:	09:53:19
+		Location:	52.51406 13.39318
+
+	EMLO1
+		Images:	5918
+		Time:	29.09.2024 08:37:46 until 29.09.2024 17:53:41
+		Duration:	09:15:55
+		Location:	52.51406 13.39318
+
+	FTHS1LS1
+		Images:	12353
+		Time:	29.09.2024 09:52:42 until 29.09.2024 17:55:11
+		Duration:	08:02:29
+		Location:	52.51406 13.39318
+
+	FTHS1LS2
+		Images:	8088
+		Time:	29.09.2024 09:54:30 until 29.09.2024 17:55:12
+		Duration:	08:00:42
+		Location:	52.51406 13.39318
+
+(17) - 40,8 km Französischer Dom
+	ABAK2
+		Images:	1985
+		Time:	29.09.2024 12:49:58 until 29.09.2024 17:48:30
+		Duration:	04:58:32
+		Location:	52.51494 13.39293
+
+	EDES1
+		Images:	7579
+		Time:	29.09.2024 10:03:25 until 29.09.2024 17:55:51
+		Duration:	07:52:26
+		Location:	52.51494 13.39293
+
+	EEPF1
+		Images:	8832
+		Time:	29.09.2024 08:28:30 until 29.09.2024 17:29:00
+		Duration:	09:00:30
+		Location:	52.51494 13.39293
+
+(18) - 41,4 km Unter den Linden
+	ABIL1
+		Images:	8133
+		Time:	29.09.2024 09:37:41 until 29.09.2024 18:05:46
+		Duration:	08:28:05
+		Location:	52.51652 13.3839
+
+	AFDC2
+		Images:	3287
+		Time:	29.09.2024 13:47:55 until 29.09.2024 17:08:09
+		Duration:	03:20:14
+		Location:	52.51652 13.3839
+
+	AHV1
+		Images:	19740
+		Time:	29.09.2024 09:07:25 until 29.09.2024 18:11:18
+		Duration:	09:03:53
+		Location:	52.51652 13.3839
+
+	AJZE1
+		Images:	16542
+		Time:	29.09.2024 07:49:13 until 29.09.2024 18:02:37
+		Duration:	10:13:24
+		Location:	52.51652 13.3839
+
+	AJZE1LS1
+		Images:	8016
+		Time:	29.09.2024 09:54:12 until 29.09.2024 17:26:59
+		Duration:	07:32:47
+		Location:	52.51652 13.3839
+
+(19) - 41,8 km Pariser Platz/Hotel Adlon
+	AREM1
+		Images:	35451
+		Time:	29.09.2024 09:46:52 until 29.09.2024 18:10:04
+		Duration:	08:23:12
+		Location:	52.51629 13.37836
+
+	AREM1LS1
+		Images:	1008
+		Time:	27.09.2024 20:15:03 until 29.09.2024 12:32:12
+		Duration:	1.16:17:09
+		Location:	52.51629 13.37836
+
+	AREM1LS2
+		Images:	5588
+		Time:	29.09.2024 09:25:36 until 29.09.2024 16:16:18
+		Duration:	06:50:42
+		Location:	52.51629 13.37836
+
+	BNU1
+		Images:	26751
+		Time:	29.09.2024 09:25:08 until 29.09.2024 17:57:04
+		Duration:	08:31:56
+		Location:	52.51629 13.37836
+
+	BNU1LS1
+		Images:	6204
+		Time:	29.09.2024 11:17:16 until 29.09.2024 17:59:05
+		Duration:	06:41:49
+		Location:	52.51629 13.37836
+
+	DAGA2
+		Images:	23842
+		Time:	29.09.2024 12:44:22 until 29.09.2024 18:10:11
+		Duration:	05:25:49
+		Location:	52.51629 13.37836
+
+	DAGA2LS1
+		Images:	17856
+		Time:	29.09.2024 12:36:31 until 29.09.2024 18:09:16
+		Duration:	05:32:45
+		Location:	52.51629 13.37836
+
+	DAGA2LS2
+		Images:	5522
+		Time:	29.09.2024 12:37:18 until 29.09.2024 17:04:09
+		Duration:	04:26:51
+		Location:	52.51629 13.37836
+
+	ECF2
+		Images:	10198
+		Time:	29.09.2024 11:18:16 until 29.09.2024 15:26:12
+		Duration:	04:07:56
+		Location:	52.51629 13.37836
+
+(20) - 41,9 km Brandenburger Tor
+	AMDO1
+		Images:	19955
+		Time:	29.09.2024 15:03:25 until 29.09.2024 18:11:02
+		Duration:	03:07:37
+		Location:	52.51627 13.37689
+
+	AMDO1LS1
+		Images:	14560
+		Time:	29.09.2024 08:50:28 until 29.09.2024 17:55:12
+		Duration:	09:04:44
+		Location:	52.51627 13.37689
+
+	AMDO1LS2
+		Images:	31131
+		Time:	29.09.2024 08:29:05 until 29.09.2024 15:20:00
+		Duration:	06:50:55
+		Location:	52.51627 13.37689
+
+	APMA1
+		Images:	36731
+		Time:	01.01.0001 23:00:00 until 29.09.2024 17:45:52
+		Duration:	739156.18:45:52
+		Location:	52.51627 13.37689
+
+	BHT1
+		Images:	36207
+		Time:	29.09.2024 09:10:42 until 29.09.2024 18:07:43
+		Duration:	08:57:01
+		Location:	52.51627 13.37689
+
+	DHV1
+	DHV1LS1
+		Images:	9440
+		Time:	29.09.2024 08:55:39 until 29.09.2024 17:54:17
+		Duration:	08:58:38
+		Location:	52.51627 13.37689
+
+	DHV1LS2
+		Images:	12568
+		Time:	29.09.2024 10:55:52 until 29.09.2024 17:57:49
+		Duration:	07:01:57
+		Location:	52.51627 13.37689
+
+	DMIH1
+		Images:	30929
+		Time:	29.09.2024 08:30:29 until 29.09.2024 18:07:36
+		Duration:	09:37:07
+		Location:	52.51627 13.37689
+
+	DMIH1LS1
+		Images:	7977
+		Time:	29.09.2024 08:15:17 until 29.09.2024 18:07:47
+		Duration:	09:52:30
+		Location:	52.51627 13.37689
+
+	ECM1
+		Images:	17138
+		Time:	29.09.2024 08:32:13 until 29.09.2024 18:10:57
+		Duration:	09:38:44
+		Location:	52.51627 13.37689
+
+	ECM1LS1
+		Images:	10509
+		Time:	29.09.2024 10:31:34 until 29.09.2024 17:36:02
+		Duration:	07:04:28
+		Location:	52.51627 13.37689
+
+(21) - 42,0 km Zieleinlauf / Finish Straight
+	BDAR2
+		Images:	24192
+		Time:	29.09.2024 12:16:35 until 29.09.2024 18:12:46
+		Duration:	05:56:11
+		Location:	52.51612 13.37454
+
+	BDAR2LS1
+		Images:	20832
+		Time:	29.09.2024 12:08:44 until 29.09.2024 18:13:35
+		Duration:	06:04:51
+		Location:	52.51612 13.37454
+
+	FALN1
+		Images:	47195
+		Time:	01.01.0001 23:00:00 until 29.09.2024 18:13:15
+		Duration:	739156.19:13:15
+		Location:	52.51612 13.37454
+
+	FALN1LS1
+		Images:	31458
+		Time:	29.09.2024 11:02:13 until 29.09.2024 17:55:20
+		Duration:	06:53:07
+		Location:	52.51612 13.37454
+
+	FALN1LS2
+		Images:	22674
+		Time:	29.09.2024 08:19:52 until 29.09.2024 16:34:35
+		Duration:	08:14:43
+		Location:	52.51612 13.37454
+
+(22) - 42,2 km Fotobridge after Finish
+	BNH1
+		Images:	23682
+		Time:	29.09.2024 07:53:30 until 29.09.2024 18:12:53
+		Duration:	10:19:23
+		Location:	52.51599 13.37216
+
+	DKHR1
+		Images:	21150
+		Time:	29.09.2024 09:56:18 until 29.09.2024 18:16:43
+		Duration:	08:20:25
+		Location:	52.51599 13.37216
+
+	DKHR1LS1
+		Images:	9141
+		Time:	29.09.2024 11:21:05 until 29.09.2024 16:40:20
+		Duration:	05:19:15
+		Location:	52.51599 13.37216
+
+(23) - 42,2 km Medals
+	BDAN1
+		Images:	4394
+		Time:	29.09.2024 09:35:10 until 29.09.2024 18:23:19
+		Duration:	08:48:09
+		Location:	52.5159 13.37094
+
+	DALES1
+		Images:	8948
+		Time:	29.09.2024 06:41:02 until 29.09.2024 17:43:32
+		Duration:	11:02:30
+		Location:	52.5159 13.37094
+
+	DALES2
+	DAP1
+		Images:	8020
+		Time:	29.09.2024 08:33:16 until 29.09.2024 17:13:36
+		Duration:	08:40:20
+		Location:	52.5159 13.37094
+
+	DCHW1
+		Images:	6776
+		Time:	29.09.2024 07:53:42 until 29.09.2024 17:20:50
+		Duration:	09:27:08
+		Location:	52.5159 13.37094
+
+	DCPI1
+		Images:	3010
+		Time:	29.09.2024 09:33:47 until 29.09.2024 18:08:29
+		Duration:	08:34:42
+		Location:	52.5159 13.37094
+
+	DRK1
+		Images:	5513
+		Time:	29.09.2024 10:08:44 until 29.09.2024 18:11:21
+		Duration:	08:02:37
+		Location:	52.5159 13.37094
+
+	EBB1
+		Images:	2539
+		Time:	29.09.2024 09:10:41 until 29.09.2024 16:34:21
+		Duration:	07:23:40
+		Location:	52.5159 13.37094
+
+(24) - 5,1 km  Kleiner Tiergarten
+	BPHI2
+		Images:	3860
+		Time:	29.09.2024 08:55:18 until 29.09.2024 11:42:36
+		Duration:	02:47:18
+		Location:	52.52497 13.34627
+
+(25) - 5,1 km Kleiner Tiergarten
+	CARTA1
+		Images:	9017
+		Time:	29.09.2024 08:51:43 until 29.09.2024 11:42:18
+		Duration:	02:50:35
+		Location:	52.51406 13.39318
+
+(26) - 6,6 km Moltkebrücke
+	EADRE1
+		Images:	10006
+		Time:	29.09.2024 08:54:44 until 29.09.2024 11:58:28
+		Duration:	03:03:44
+		Location:	52.5219 13.36872
+
+(27) - 7,2 km Kronprinzenbrücke
+	BBL1
+		Images:	8982
+		Time:	29.09.2024 07:38:11 until 29.09.2024 12:02:31
+		Duration:	04:24:20
+		Location:	52.5219 13.37598
+
+	BBL1LS1
+		Images:	3366
+		Time:	29.09.2024 09:01:14 until 29.09.2024 12:00:29
+		Duration:	02:59:15
+		Location:	52.5219 13.37598
+
+	BJKM2
+		Images:	17729
+		Time:	29.09.2024 07:54:22 until 29.09.2024 10:43:52
+		Duration:	02:49:30
+		Location:	52.5219 13.37598
+
+(28) - 8,1 km Friedrichstadt-Palast
+	ABAK1
+		Images:	1106
+		Time:	29.09.2024 09:04:37 until 29.09.2024 12:49:35
+		Duration:	03:44:58
+		Location:	52.5245 13.3875
+
+(29) - Finish
+	BMBEN1
+		Images:	43453
+		Time:	29.09.2024 08:48:36 until 29.09.2024 18:02:58
+		Duration:	09:14:22
+		Location:	52.51601 13.37257
+
+	EJUT2
+		Images:	17334
+		Time:	29.09.2024 11:52:28 until 29.09.2024 18:14:53
+		Duration:	06:22:25
+		Location:	52.51601 13.37257
+
+	ERIS1
+		Images:	31001
+		Time:	29.09.2024 11:51:11 until 29.09.2024 18:15:03
+		Duration:	06:23:52
+		Location:	52.51601 13.37257
+
+	ERYS2
+		Images:	18815
+		Time:	29.09.2024 11:22:55 until 29.09.2024 18:17:47
+		Duration:	06:54:52
+		Location:	52.51601 13.37257
+
+	ERYS2LS1
+		Images:	20424
+		Time:	29.09.2024 11:49:25 until 29.09.2024 17:58:07
+		Duration:	06:08:42
+		Location:	52.51601 13.37257
+
+	FTIM2
+		Images:	24505
+		Time:	29.09.2024 12:33:20 until 29.09.2024 18:15:54
+		Duration:	05:42:34
+		Location:	52.51601 13.37257
+
+	FTIM2LS1
+		Images:	5656
+		Time:	29.09.2024 11:51:01 until 29.09.2024 16:32:50
+		Duration:	04:41:49
+		Location:	52.51601 13.37257
+
+	GUD2
+		Images:	53362
+		Time:	29.09.2024 11:18:45 until 29.09.2024 18:14:15
+		Duration:	06:55:30
+		Location:	52.51601 13.37257
+
+	GUD2LS1
+		Images:	14436
+		Time:	29.09.2024 11:54:24 until 29.09.2024 17:59:15
+		Duration:	06:04:51
+		Location:	52.51601 13.37257
+
+(30) - Impressions / Pano
+	PANO1
+(31) - Medals
+	ABK1
+		Images:	14143
+		Time:	27.09.2024 21:06:22 until 29.09.2024 17:34:42
+		Duration:	1.20:28:20
+		Location:	52.5159 13.37094
+
+(32) - none
+	FALN2
+		Images:	47195
+		Time:	01.01.0001 23:00:00 until 29.09.2024 18:13:15
+		Duration:	739156.19:13:15
+		Location:	NULL NULL
+
+	FALN3
+		Images:	31458
+		Time:	29.09.2024 11:02:13 until 29.09.2024 17:55:20
+		Duration:	06:53:07
+		Location:	NULL NULL
+
+	FALN4
+		Images:	22674
+		Time:	29.09.2024 08:19:52 until 29.09.2024 16:34:35
+		Duration:	08:14:43
+		Location:	NULL NULL
+
+	FTHS1
+		Images:	12353
+		Time:	29.09.2024 09:52:42 until 29.09.2024 17:55:11
+		Duration:	08:02:29
+		Location:	NULL NULL
+
+	FTHS2
+		Images:	8088
+		Time:	29.09.2024 09:54:30 until 29.09.2024 17:55:12
+		Duration:	08:00:42
+		Location:	NULL NULL
+
+	FTIM3
+		Images:	24505
+		Time:	29.09.2024 12:33:20 until 29.09.2024 18:15:54
+		Duration:	05:42:34
+		Location:	NULL NULL
+
+	FTIM4
+		Images:	5656
+		Time:	29.09.2024 11:51:01 until 29.09.2024 16:32:50
+		Duration:	04:41:49
+		Location:	NULL NULL
+
+(33) - Start
+	EJUT1
+		Images:	7010
+		Time:	29.09.2024 08:33:34 until 29.09.2024 15:26:12
+		Duration:	06:52:38
+		Location:	52.51521 13.3602
+
+	ERISS1
+		Images:	4530
+		Time:	29.09.2024 08:33:04 until 29.09.2024 10:56:03
+		Duration:	02:22:59
+		Location:	52.51521 13.3602
+
+	ERYS1
+		Images:	1417
+		Time:	29.09.2024 08:01:29 until 29.09.2024 11:22:33
+		Duration:	03:21:04
+		Location:	52.51521 13.3602
+
+	ERYS1LS1
+		Images:	2252
+		Time:	29.09.2024 08:28:40 until 29.09.2024 10:57:52
+		Duration:	02:29:12
+		Location:	52.51521 13.3602
+
+	FTIM1
+		Images:	1043
+		Time:	29.09.2024 08:26:25 until 29.09.2024 10:59:00
+		Duration:	02:32:35
+		Location:	52.51521 13.3602
+
+	GUD1
+		Images:	4157
+		Time:	29.09.2024 08:56:23 until 29.09.2024 10:59:11
+		Duration:	02:02:48
+		Location:	52.51521 13.3602
+
+	GUD1LS1
+		Images:	9072
+		Time:	28.09.2024 09:47:01 until 29.09.2024 11:02:21
+		Duration:	1.01:15:20
+		Location:	52.51521 13.3602
+

@@ -1,0 +1,231 @@
+EventId: 12565
+Spots: 33
+Total Images: 171918
+Time:	01.01.0001 23:00:00 to 13.11.2023 00:00:27
+Duration: 738835.01:00:27
+
+(1) - 0.0 km  Race Day PR Megyn
+	EMB1
+		Images:	170
+		Time:	31.12.1999 23:00:06 until 31.12.1999 23:22:39
+		Duration:	00:22:33
+		Location:	NULL NULL
+
+(2) - 0.0 km 853370-MSC 2 Trigger
+	OAUTO2
+		Images:	3883
+		Time:	12.11.2023 06:02:15 until 12.11.2023 07:18:12
+		Duration:	01:15:57
+		Location:	NULL NULL
+
+(3) - 0.0 km 853734-PR-Alex Diaz
+	OAD2
+		Images:	433
+		Time:	12.11.2023 06:56:41 until 12.11.2023 08:18:03
+		Duration:	01:21:22
+		Location:	NULL NULL
+
+(4) - 0.0 km 853737 MSC 1 Desmond Tam
+	ODT1
+		Images:	3966
+		Time:	12.11.2023 06:09:10 until 12.11.2023 06:50:22
+		Duration:	00:41:12
+		Location:	NULL NULL
+
+(5) - 0.0 km 853740-FIN-Toby
+	OTOBY1
+		Images:	18886
+		Time:	11.11.2023 08:10:00 until 12.11.2023 10:46:29
+		Duration:	1.02:36:29
+		Location:	NULL NULL
+
+(6) - 0.0 km 853741 FIN Alex Diaz
+	OAD1
+		Images:	13407
+		Time:	12.11.2023 08:18:52 until 12.11.2023 11:22:39
+		Duration:	03:03:47
+		Location:	NULL NULL
+
+(7) - 0.0 km 853742 Trigger FIN
+	OAUTO1
+		Images:	11964
+		Time:	12.11.2023 09:36:37 until 12.11.2023 14:17:26
+		Duration:	04:40:49
+		Location:	NULL NULL
+
+(8) - 0.0 km 853743 - Medals - Megyn Barroner
+	OMB1
+		Images:	2408
+		Time:	31.12.1999 23:00:02 until 01.01.2000 01:25:31
+		Duration:	02:25:29
+		Location:	NULL NULL
+
+(9) - 0.0 km 853745 - Medals - Samantha Hutz
+	OSH1
+		Images:	561
+		Time:	10.11.2023 19:45:41 until 11.11.2023 00:21:38
+		Duration:	04:35:57
+		Location:	NULL NULL
+
+(10) - 0.0 km 853748 - Christina Roosa - MSC_2
+	OCR1
+		Images:	4113
+		Time:	12.11.2023 05:07:30 until 12.11.2023 07:17:12
+		Duration:	02:09:42
+		Location:	NULL NULL
+
+(11) - 0.0 km 853751 MSC 4 Reg Regaldo
+	ERR1
+		Images:	652
+		Time:	12.11.2023 06:28:46 until 12.11.2023 06:49:18
+		Duration:	00:20:32
+		Location:	NULL NULL
+
+(12) - 0.0 km 853754 MSC 4 trigger
+	EAUTO2
+		Images:	649
+		Time:	12.11.2023 08:01:48 until 12.11.2023 08:50:27
+		Duration:	00:48:39
+		Location:	NULL NULL
+
+(13) - 0.0 km 853755 - Elliott Pinck - MSC_6
+	OEP1
+		Images:	1843
+		Time:	12.11.2023 23:26:56 until 13.11.2023 00:00:27
+		Duration:	00:33:31
+		Location:	NULL NULL
+
+(14) - 0.0 km 853756 - Emi Ito - MSC_6
+	OEI1
+		Images:	4725
+		Time:	12.11.2023 08:22:59 until 12.11.2023 09:30:11
+		Duration:	01:07:12
+		Location:	NULL NULL
+
+(15) - 0.0 km 853757 - Christina Roosa - MSC_7
+	OCR2
+		Images:	6622
+		Time:	12.11.2023 07:26:04 until 12.11.2023 09:29:43
+		Duration:	02:03:39
+		Location:	NULL NULL
+
+(16) - 0.0 km 853758 MSC 8 Desmond Tam
+	ODT2
+		Images:	8984
+		Time:	12.11.2023 07:03:10 until 12.11.2023 10:01:05
+		Duration:	02:57:55
+		Location:	NULL NULL
+
+(17) - 0.0 km 853759 MSC 8 Hal Ogata
+	OHAL2
+		Images:	15019
+		Time:	12.11.2023 07:03:06 until 12.11.2023 10:02:03
+		Duration:	02:58:57
+		Location:	NULL NULL
+
+(18) - 0.0 km 857367 MSC 1 Hal Ogata
+	OHAL1
+		Images:	3739
+		Time:	12.11.2023 06:04:41 until 12.11.2023 06:56:49
+		Duration:	00:52:08
+		Location:	NULL NULL
+
+(19) - 0.0 km 857368 PreFIN-Trigger
+	EAUTO1
+		Images:	11438
+		Time:	12.11.2023 09:11:56 until 12.11.2023 14:16:19
+		Duration:	05:04:23
+		Location:	NULL NULL
+
+(20) - 0.0 km 857369 - Trigger - MSC_7
+	OAUTO3
+		Images:	7135
+		Time:	12.11.2023 07:21:58 until 12.11.2023 09:27:20
+		Duration:	02:05:22
+		Location:	NULL NULL
+
+(21) - 0.0 km Expo PR Megyn
+	EMB2
+		Images:	295
+		Time:	01.01.0001 23:00:00 until 23.07.2023 08:30:02
+		Duration:	738722.09:30:02
+		Location:	NULL NULL
+
+(22) - 0.0 km MSC 3 Elliot P
+	EEP1
+		Images:	2748
+		Time:	12.11.2023 06:26:07 until 12.11.2023 06:55:34
+		Duration:	00:29:27
+		Location:	NULL NULL
+
+(23) - 0.0 km MSC 3 Emi
+	EEI1
+		Images:	5575
+		Time:	12.11.2023 07:11:51 until 12.11.2023 10:12:55
+		Duration:	03:01:04
+		Location:	NULL NULL
+
+(24) - 0.0 km MSC 4 Laura Gonsalve
+	ELG1
+		Images:	3508
+		Time:	12.11.2023 07:08:53 until 12.11.2023 08:23:45
+		Duration:	01:14:52
+		Location:	NULL NULL
+
+(25) - 0.0 km MSC 5 Reg R
+	ERR2
+		Images:	1775
+		Time:	12.11.2023 06:52:54 until 12.11.2023 08:57:39
+		Duration:	02:04:45
+		Location:	NULL NULL
+
+(26) - 0.0 km MSC 5 trigger
+	EAUTO3
+		Images:	2915
+		Time:	12.11.2023 08:53:31 until 12.11.2023 10:51:59
+		Duration:	01:58:28
+		Location:	NULL NULL
+
+(27) - 0.0 km PR VIP
+	ETOB1
+		Images:	190
+		Time:	10.11.2023 18:08:57 until 10.11.2023 20:13:03
+		Duration:	02:04:06
+		Location:	NULL NULL
+
+(28) - 0.0 km PRE FIN Yiu Nien Wang
+	EYNW1
+		Images:	11783
+		Time:	12.11.2023 06:45:27 until 12.11.2023 10:19:39
+		Duration:	03:34:12
+		Location:	NULL NULL
+
+(29) - 0.0 km PreFIN Phillip Reyes
+	EPR1
+		Images:	12187
+		Time:	12.11.2023 07:03:43 until 12.11.2023 10:19:27
+		Duration:	03:15:44
+		Location:	NULL NULL
+
+(30) - 0.0 km Start Phillip
+	EPR2
+		Images:	789
+		Time:	12.11.2023 04:37:06 until 12.11.2023 06:22:09
+		Duration:	01:45:03
+		Location:	NULL NULL
+
+(31) - Impressions / Pano
+	PANO1
+(32) - none
+	ELG2
+		Images:	8727
+		Time:	12.11.2023 07:22:26 until 12.11.2023 10:05:52
+		Duration:	02:43:26
+		Location:	NULL NULL
+
+	OBS1
+		Images:	829
+		Time:	12.11.2023 08:04:33 until 12.11.2023 11:13:52
+		Duration:	03:09:19
+		Location:	NULL NULL
+

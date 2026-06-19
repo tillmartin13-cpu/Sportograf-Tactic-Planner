@@ -1,0 +1,200 @@
+EventId: 12972
+Spots: 50
+Total Images: 233261
+Time:	01.01.0001 23:00:00 to 14.01.2024 19:03:41
+Duration: 738897.20:03:41
+
+(1) - 0.0 km Dru MCS 1
+	BDLAM1
+		Images:	8178
+		Time:	14.01.2024 01:26:39 until 14.01.2024 08:33:45
+		Duration:	07:07:06
+		Location:	NULL NULL
+
+(2) - 0.0 km DRu MSC 6
+	BDLAM2
+		Images:	11219
+		Time:	14.01.2024 03:08:39 until 14.01.2024 07:20:50
+		Duration:	04:12:11
+		Location:	NULL NULL
+
+(3) - 0.0 km Finish Trigger
+	BFTRI1
+(4) - 0.0 km Mike Kelly
+	AAMKE1
+		Images:	17397
+		Time:	14.01.2024 05:47:42 until 14.01.2024 13:29:28
+		Duration:	07:41:46
+		Location:	NULL NULL
+
+(5) - 0.0 km MSC 1 ABDO
+	BASHA1
+(6) - 0.0 km MSC 1 Lance
+	BLEDW1
+(7) - 0.0 km MSC 2 Jad
+	BJVAL1
+		Images:	9790
+		Time:	13.01.2024 07:47:50 until 14.01.2024 05:08:42
+		Duration:	21:20:52
+		Location:	NULL NULL
+
+(8) - 0.0 km MSC 2 Tom
+	BTBOR1
+		Images:	2692
+		Time:	14.01.2024 06:14:51 until 14.01.2024 07:13:51
+		Duration:	00:59:00
+		Location:	NULL NULL
+
+(9) - 0.0 km MSC 2 Trigger
+	ADDD1
+		Images:	3782
+		Time:	14.01.2024 06:47:13 until 14.01.2024 09:15:46
+		Duration:	02:28:33
+		Location:	NULL NULL
+
+(10) - 0.0 km MSC 3 Jeff
+	BJLAU1
+(11) - 0.0 km MSC 3 Trigger
+	BJLAU1LS1
+(12) - 0.0 km MSC 4 Trigger
+	BBDBR1LS1
+		Images:	6331
+		Time:	14.01.2024 13:09:49 until 14.01.2024 15:59:14
+		Duration:	02:49:25
+		Location:	NULL NULL
+
+(13) - 0.0 km MSC 5 Gray
+	BGKIN1
+(14) - 0.0 km MSC 5 Karen
+	BKCAR1
+(15) - 0.0 km MSC 5 Trigger
+	BGKIN1LS1
+(16) - 0.0 km MSC 6 Jad
+	AJVAD1
+		Images:	16615
+		Time:	01.01.0001 23:00:00 until 14.01.2024 10:30:03
+		Duration:	738897.11:30:03
+		Location:	NULL NULL
+
+(17) - 0.0 km MSC 8 Larry
+	ALCAS1
+(18) - 0.0 km MSC 8 Leo
+	ALBAR1
+(19) - 0.0 km MSC 8 Michael Vallarta
+	AMVA1
+(20) - 0.0 km MSC 8 Trig
+	ADDD2
+		Images:	8630
+		Time:	14.01.2024 09:27:03 until 14.01.2024 12:24:56
+		Duration:	02:57:53
+		Location:	NULL NULL
+
+(21) - 0.0 km MSC 9 Alan
+	BABAR1
+		Images:	31531
+		Time:	14.01.2024 06:58:09 until 14.01.2024 12:59:10
+		Duration:	06:01:01
+		Location:	NULL NULL
+
+(22) - 0.0 km MSC1 Julio
+	BJMOR1
+(23) - 0.0 km MSC1 Kelly
+	BKSHE1
+(24) - 0.0 km MSC3 Larry
+	BLCAS1
+(25) - 0.0 km MSC3 Michael
+	BMVAL1
+		Images:	3824
+		Time:	13.01.2024 06:00:45 until 13.01.2024 08:10:51
+		Duration:	02:10:06
+		Location:	NULL NULL
+
+(26) - 0.0 km MSC4 douglas
+	BBDBR1
+		Images:	18222
+		Time:	14.01.2024 06:13:50 until 14.01.2024 08:16:57
+		Duration:	02:03:07
+		Location:	NULL NULL
+
+(27) - 0.0 km MSC7 Doug
+	AADB1
+		Images:	30328
+		Time:	14.01.2024 09:08:41 until 14.01.2024 11:54:17
+		Duration:	02:45:36
+		Location:	NULL NULL
+
+(28) - 0.0 km MSC7 Ray
+	AARAY1
+		Images:	6670
+		Time:	14.01.2024 09:44:22 until 14.01.2024 12:57:18
+		Duration:	03:12:56
+		Location:	NULL NULL
+
+(29) - 0.0 km MSC7 Trig
+	AATW1
+		Images:	8449
+		Time:	14.01.2024 16:02:42 until 14.01.2024 19:03:41
+		Duration:	03:00:59
+		Location:	NULL NULL
+
+(30) - 0.0 km MSC8 Trigger Leo
+	ALBT1
+(31) - 0.0 km MSC9 Gray
+	AGKIN1
+(32) - 0.0 km MSC9 karen Carter
+	AKCAR1
+(33) - 0.0 km MSC9 Marcus
+	AMORG1
+(34) - 0.0 km MSC9 Trigger Alan
+	AATR1
+(35) - 0.0 km PR TOBY
+	BTCHE1
+(36) - 0.0 km Pre FIn Abdo
+	AASHA1
+(37) - 0.0 km Pre Fin Gus
+	AGGAR1
+(38) - 0.0 km Pre FIn Kelly
+	BKSHE2
+(39) - 0.0 km Pre FIn Trigger Left
+	APFTL1
+(40) - 0.0 km Pre Fin Trigger Right
+	APFTR1
+(41) - 0.0 km Pre Fin Trigger Right 2nd
+	BPRTR1
+(42) - 0.0 km Pre Pre Trigger ground
+	APPFT1
+(43) - 0.0 km PreFin Julio
+	AJMOR1
+(44) - 0.0 km Road Art Trig
+	BRAYM1
+		Images:	7224
+		Time:	14.01.2024 06:56:32 until 14.01.2024 09:01:01
+		Duration:	02:04:29
+		Location:	NULL NULL
+
+(45) - 0.0 km Road Art Trigger
+	BBKK1
+		Images:	19159
+		Time:	14.01.2024 08:58:30 until 14.01.2024 15:01:52
+		Duration:	06:03:22
+		Location:	NULL NULL
+
+(46) - 0.0 km Road Sean
+	BBSH1
+		Images:	16932
+		Time:	14.01.2024 07:54:29 until 14.01.2024 13:58:58
+		Duration:	06:04:29
+		Location:	NULL NULL
+
+(47) - 0.0 km START GUS
+	BGGAL1
+(48) - Impressions / Pano
+	PANO1
+(49) - none
+	BJLAU2
+	BTBOR2
+		Images:	6288
+		Time:	14.01.2024 08:13:53 until 14.01.2024 12:35:28
+		Duration:	04:21:35
+		Location:	NULL NULL
+

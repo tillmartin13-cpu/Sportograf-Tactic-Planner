@@ -1,0 +1,389 @@
+EventId: 12013
+Spots: 63
+Total Images: 235385
+Time:	04.05.2024 07:00:52 to 04.05.2024 22:51:17
+Duration: 15:50:25
+
+(1) - Farmers Carry
+	BPARO2LS1
+		Images:	5946
+		Time:	04.05.2024 08:44:17 until 04.05.2024 22:07:06
+		Duration:	13:22:49
+		Location:	51.49673 -0.21083
+
+	BPARO2LS2
+		Images:	3957
+		Time:	04.05.2024 08:45:21 until 04.05.2024 21:58:36
+		Duration:	13:13:15
+		Location:	51.49673 -0.21083
+
+(2) - Finish
+	ABKO5
+		Images:	594
+		Time:	04.05.2024 13:39:20 until 04.05.2024 14:08:05
+		Duration:	00:28:45
+		Location:	51.49673 -0.21083
+
+	APARO8
+		Images:	103
+		Time:	04.05.2024 09:22:26 until 04.05.2024 15:25:15
+		Duration:	06:02:49
+		Location:	51.49673 -0.21083
+
+	AYCAN1
+		Images:	4165
+		Time:	04.05.2024 07:00:52 until 04.05.2024 15:21:53
+		Duration:	08:21:01
+		Location:	51.49673 -0.21083
+
+	BBKO5
+		Images:	668
+		Time:	04.05.2024 18:10:13 until 04.05.2024 18:38:53
+		Duration:	00:28:40
+		Location:	51.49673 -0.21083
+
+	BBKO5LS1
+		Images:	2985
+		Time:	04.05.2024 08:44:14 until 04.05.2024 22:09:37
+		Duration:	13:25:23
+		Location:	51.49673 -0.21083
+
+	BJUW5LS1
+		Images:	2738
+		Time:	04.05.2024 07:06:15 until 04.05.2024 22:12:13
+		Duration:	15:05:58
+		Location:	51.49673 -0.21083
+
+	BMKH1
+		Images:	3965
+		Time:	04.05.2024 08:20:38 until 04.05.2024 22:49:45
+		Duration:	14:29:07
+		Location:	51.49673 -0.21083
+
+(3) - Impressions / Pano
+	ABKO6
+		Images:	10
+		Time:	04.05.2024 07:55:35 until 04.05.2024 08:05:47
+		Duration:	00:10:12
+		Location:	51.49673 -0.21083
+
+	BBKO7
+		Images:	11
+		Time:	04.05.2024 19:28:08 until 04.05.2024 19:37:44
+		Duration:	00:09:36
+		Location:	51.49673 -0.21083
+
+	BPARO2
+		Images:	24
+		Time:	04.05.2024 19:37:44 until 04.05.2024 19:59:08
+		Duration:	00:21:24
+		Location:	51.49673 -0.21083
+
+	PANO1
+(4) - Medalwall
+	AMKH1
+		Images:	2516
+		Time:	04.05.2024 07:39:13 until 04.05.2024 15:22:46
+		Duration:	07:43:33
+		Location:	51.49673 -0.21083
+
+	BYCAN1
+		Images:	2354
+		Time:	04.05.2024 15:23:52 until 04.05.2024 22:51:17
+		Duration:	07:27:25
+		Location:	51.49673 -0.21083
+
+(5) - Rowing
+	ABKO3
+		Images:	1204
+		Time:	04.05.2024 12:20:37 until 04.05.2024 12:50:35
+		Duration:	00:29:58
+		Location:	51.49673 -0.21083
+
+	AJUW4
+		Images:	1215
+		Time:	04.05.2024 12:20:54 until 04.05.2024 12:43:57
+		Duration:	00:23:03
+		Location:	51.49673 -0.21083
+
+	ASALA1
+		Images:	5203
+		Time:	04.05.2024 07:31:10 until 04.05.2024 15:08:42
+		Duration:	07:37:32
+		Location:	51.49673 -0.21083
+
+	ASTEM1
+		Images:	9853
+		Time:	04.05.2024 07:39:27 until 04.05.2024 15:04:46
+		Duration:	07:25:19
+		Location:	51.49673 -0.21083
+
+	BBKO3
+		Images:	974
+		Time:	04.05.2024 16:10:42 until 04.05.2024 16:39:12
+		Duration:	00:28:30
+		Location:	51.49673 -0.21083
+
+	BCMS1
+		Images:	8847
+		Time:	04.05.2024 15:05:06 until 04.05.2024 21:29:21
+		Duration:	06:24:15
+		Location:	51.49673 -0.21083
+
+	BJUW3
+		Images:	1694
+		Time:	04.05.2024 16:11:15 until 04.05.2024 16:37:55
+		Duration:	00:26:40
+		Location:	51.49673 -0.21083
+
+	BKYY1
+		Images:	5786
+		Time:	04.05.2024 15:06:55 until 04.05.2024 21:39:59
+		Duration:	06:33:04
+		Location:	51.49673 -0.21083
+
+(6) - Sandbag Lunges
+	AJOEM1
+		Images:	6962
+		Time:	04.05.2024 07:28:45 until 04.05.2024 15:34:11
+		Duration:	08:05:26
+		Location:	51.49673 -0.21083
+
+	APARO5
+		Images:	1395
+		Time:	04.05.2024 09:31:41 until 04.05.2024 13:29:58
+		Duration:	03:58:17
+		Location:	51.49673 -0.21083
+
+	AWIN1
+		Images:	8195
+		Time:	04.05.2024 08:15:22 until 04.05.2024 16:13:54
+		Duration:	07:58:32
+		Location:	51.49673 -0.21083
+
+	BPARO1
+		Images:	678
+		Time:	04.05.2024 17:13:30 until 04.05.2024 18:04:36
+		Duration:	00:51:06
+		Location:	51.49673 -0.21083
+
+	BQVT1
+		Images:	4957
+		Time:	04.05.2024 15:12:52 until 04.05.2024 21:25:17
+		Duration:	06:12:25
+		Location:	51.49673 -0.21083
+
+	BSESA1
+		Images:	2478
+		Time:	04.05.2024 15:32:09 until 04.05.2024 22:13:50
+		Duration:	06:41:41
+		Location:	51.49673 -0.21083
+
+(7) - SkiErg
+	AALN1
+		Images:	7890
+		Time:	04.05.2024 07:04:35 until 04.05.2024 15:20:04
+		Duration:	08:15:29
+		Location:	51.49673 -0.21083
+
+	ALOT1
+		Images:	10819
+		Time:	04.05.2024 08:05:04 until 04.05.2024 15:33:33
+		Duration:	07:28:29
+		Location:	51.49673 -0.21083
+
+	AMALV1
+		Images:	6239
+		Time:	04.05.2024 07:21:16 until 04.05.2024 15:29:55
+		Duration:	08:08:39
+		Location:	51.49673 -0.21083
+
+	APARO1
+		Images:	78
+		Time:	04.05.2024 09:50:01 until 04.05.2024 10:12:36
+		Duration:	00:22:35
+		Location:	51.49673 -0.21083
+
+	BBKO6
+		Images:	996
+		Time:	04.05.2024 15:05:19 until 04.05.2024 15:30:27
+		Duration:	00:25:08
+		Location:	51.49673 -0.21083
+
+	BLAE1
+		Images:	1739
+		Time:	04.05.2024 15:35:49 until 04.05.2024 20:42:26
+		Duration:	05:06:37
+		Location:	51.49673 -0.21083
+
+	BMALV1
+		Images:	4590
+		Time:	04.05.2024 15:34:50 until 04.05.2024 20:40:10
+		Duration:	05:05:20
+		Location:	51.49673 -0.21083
+
+	BTOMY1
+		Images:	9455
+		Time:	04.05.2024 15:33:08 until 04.05.2024 20:40:04
+		Duration:	05:06:56
+		Location:	51.49673 -0.21083
+
+(8) - Sled Pull
+	ABKO2
+		Images:	652
+		Time:	04.05.2024 11:39:21 until 04.05.2024 12:12:29
+		Duration:	00:33:08
+		Location:	51.49673 -0.21083
+
+	ACMS1
+		Images:	11144
+		Time:	04.05.2024 07:09:05 until 04.05.2024 14:57:30
+		Duration:	07:48:25
+		Location:	51.49673 -0.21083
+
+	AJUW3
+		Images:	4041
+		Time:	04.05.2024 08:08:06 until 04.05.2024 12:12:38
+		Duration:	04:04:32
+		Location:	51.49673 -0.21083
+
+	AKYY1
+		Images:	6211
+		Time:	04.05.2024 07:09:50 until 04.05.2024 14:59:10
+		Duration:	07:49:20
+		Location:	51.49673 -0.21083
+
+	APARO3
+		Images:	822
+		Time:	04.05.2024 10:40:11 until 04.05.2024 15:15:53
+		Duration:	04:35:42
+		Location:	51.49673 -0.21083
+
+	BBKO2
+		Images:	2681
+		Time:	04.05.2024 16:49:42 until 04.05.2024 17:21:37
+		Duration:	00:31:55
+		Location:	51.49673 -0.21083
+
+	BJUW2
+		Images:	3529
+		Time:	04.05.2024 14:59:05 until 04.05.2024 20:51:51
+		Duration:	05:52:46
+		Location:	51.49673 -0.21083
+
+	BSALA1
+		Images:	4245
+		Time:	04.05.2024 15:17:40 until 04.05.2024 21:09:32
+		Duration:	05:51:52
+		Location:	51.49673 -0.21083
+
+	BSTEM1
+		Images:	5939
+		Time:	04.05.2024 15:11:21 until 04.05.2024 21:01:16
+		Duration:	05:49:55
+		Location:	51.49673 -0.21083
+
+(9) - Sled Push
+	ABKO1
+		Images:	4496
+		Time:	04.05.2024 08:15:13 until 04.05.2024 11:29:39
+		Duration:	03:14:26
+		Location:	51.49673 -0.21083
+
+	AJUW2
+		Images:	1384
+		Time:	04.05.2024 07:38:21 until 04.05.2024 12:50:30
+		Duration:	05:12:09
+		Location:	51.49673 -0.21083
+
+	ALAE1
+		Images:	5418
+		Time:	04.05.2024 08:07:06 until 04.05.2024 15:30:02
+		Duration:	07:22:56
+		Location:	51.49673 -0.21083
+
+	APARO2
+		Images:	619
+		Time:	04.05.2024 10:13:57 until 04.05.2024 15:47:38
+		Duration:	05:33:41
+		Location:	51.49673 -0.21083
+
+	ATOMY1
+		Images:	10210
+		Time:	04.05.2024 07:35:33 until 04.05.2024 15:20:13
+		Duration:	07:44:40
+		Location:	51.49673 -0.21083
+
+	BBKO1
+		Images:	4130
+		Time:	04.05.2024 17:29:56 until 04.05.2024 20:29:33
+		Duration:	02:59:37
+		Location:	51.49673 -0.21083
+
+	BJOEM1
+		Images:	3562
+		Time:	04.05.2024 15:44:25 until 04.05.2024 20:52:28
+		Duration:	05:08:03
+		Location:	51.49673 -0.21083
+
+	BJUW1
+		Images:	982
+		Time:	04.05.2024 17:29:35 until 04.05.2024 17:59:03
+		Duration:	00:29:28
+		Location:	51.49673 -0.21083
+
+	BWIN1
+		Images:	4818
+		Time:	04.05.2024 15:25:30 until 04.05.2024 20:50:44
+		Duration:	05:25:14
+		Location:	51.49673 -0.21083
+
+(10) - Wall Balls
+	ABKO4
+		Images:	1560
+		Time:	04.05.2024 13:00:42 until 04.05.2024 13:38:09
+		Duration:	00:37:27
+		Location:	51.49673 -0.21083
+
+	AJUW5
+		Images:	1124
+		Time:	04.05.2024 13:00:10 until 04.05.2024 13:30:38
+		Duration:	00:30:28
+		Location:	51.49673 -0.21083
+
+	AQVT1
+		Images:	6790
+		Time:	04.05.2024 07:31:57 until 04.05.2024 15:11:12
+		Duration:	07:39:15
+		Location:	51.49673 -0.21083
+
+	ASESA1
+		Images:	2114
+		Time:	04.05.2024 07:17:21 until 04.05.2024 15:25:16
+		Duration:	08:07:55
+		Location:	51.49673 -0.21083
+
+	BALN1
+		Images:	7570
+		Time:	04.05.2024 15:29:32 until 04.05.2024 22:38:53
+		Duration:	07:09:21
+		Location:	51.49673 -0.21083
+
+	BBKO4
+		Images:	1057
+		Time:	04.05.2024 15:34:51 until 04.05.2024 16:07:09
+		Duration:	00:32:18
+		Location:	51.49673 -0.21083
+
+	BJUW4
+		Images:	1575
+		Time:	04.05.2024 15:25:12 until 04.05.2024 16:01:55
+		Duration:	00:36:43
+		Location:	51.49673 -0.21083
+
+	BLOT1
+		Images:	7429
+		Time:	04.05.2024 13:32:22 until 04.05.2024 22:13:08
+		Duration:	08:40:46
+		Location:	51.49673 -0.21083
+

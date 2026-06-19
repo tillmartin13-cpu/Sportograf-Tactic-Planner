@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "52.50068" lon = "13.26242"><name>AGA1</name><desc>Start
+Images:764
+First:31.12.2025 10:58:11
+Last:31.12.2025 11:51:24
+Duration:00:53:13
+</desc></wpt>
+<wpt lat = "52.50068" lon = "13.26242"><name>AGA1DRONE1</name><desc>Start
+Images:13
+First:31.12.2025 11:01:31
+Last:31.12.2025 11:07:00
+Duration:00:05:29
+</desc></wpt>
+<wpt lat = "52.50068" lon = "13.26242"><name>AGA1IMP1</name><desc>Start
+Images:371
+First:31.12.2025 10:58:11
+Last:31.12.2025 11:51:24
+Duration:00:53:13
+</desc></wpt>
+<wpt lat = "52.49926" lon = "13.25969"><name>CM1</name><desc>0,2km/2,2km
+Images:2970
+First:31.12.2025 10:31:07
+Last:31.12.2025 12:22:42
+Duration:01:51:35
+</desc></wpt>
+<wpt lat = "52.49651" lon = "13.25578"><name>JZE1</name><desc>0,6km/2,6km
+Images:4004
+First:31.12.2025 11:33:52
+Last:31.12.2025 12:19:04
+Duration:00:45:12
+</desc></wpt>
+<wpt lat = "52.49651" lon = "13.25578"><name>JZE1LS1</name><desc>0,6km/2,6km
+Images:640
+First:31.12.2025 11:33:28
+Last:31.12.2025 12:19:20
+Duration:00:45:52
+</desc></wpt>
+<wpt lat = "52.50265" lon = "13.25354"><name>ABRI1</name><desc>1km (only 4km Race)
+Images:2716
+First:31.12.2025 10:25:33
+Last:31.12.2025 11:28:29
+Duration:01:02:56
+</desc></wpt>
+<wpt lat = "52.50022" lon = "13.25067"><name>ABRI2</name><desc>4,6km/8,0km
+Images:10610
+First:31.12.2025 11:46:33
+Last:31.12.2025 13:26:11
+Duration:01:39:38
+</desc></wpt>
+<wpt lat = "52.50352" lon = "13.25235"><name>CM2</name><desc>5,0km/9,0km
+Images:2148
+First:31.12.2025 12:44:14
+Last:31.12.2025 13:29:04
+Duration:00:44:50
+</desc></wpt>
+<wpt lat = "52.50426" lon = "13.25555"><name>JZE2</name><desc>5,3km/8,7km
+Images:4438
+First:31.12.2025 12:45:55
+Last:31.12.2025 13:31:56
+Duration:00:46:01
+</desc></wpt>
+<wpt lat = "52.50426" lon = "13.25555"><name>JZE2LS1</name><desc>5,3km/8,7km
+Images:812
+First:31.12.2025 12:44:20
+Last:31.12.2025 13:25:42
+Duration:00:41:22
+</desc></wpt>
+<wpt lat = "52.50068" lon = "13.26242"><name>AGA2</name><desc>Finish
+Images:15321
+First:31.12.2025 11:14:52
+Last:31.12.2025 13:39:37
+Duration:02:24:45
+</desc></wpt>
+<wpt lat = "52.50068" lon = "13.26242"><name>AGA1LS1</name><desc>Finish
+Images:2108
+First:31.12.2025 11:12:18
+Last:31.12.2025 13:39:27
+Duration:02:27:09
+</desc></wpt>
+</gpx>

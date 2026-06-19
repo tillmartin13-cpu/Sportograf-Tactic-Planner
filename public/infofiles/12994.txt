@@ -1,0 +1,17 @@
+EventId: 12994
+Spots: 3
+Total Images: 260
+Time:	03.02.2024 06:56:15 to 03.02.2024 08:45:59
+Duration: 01:49:44
+
+(1) - 0.0 km MSC4 - 854746 - Elainne Reyes
+	BFOER1
+(2) - Impressions / Pano
+	PANO1
+(3) - none
+	BPRPR1
+		Images:	260
+		Time:	03.02.2024 06:56:15 until 03.02.2024 08:45:59
+		Duration:	01:49:44
+		Location:	NULL NULL
+

@@ -1,0 +1,86 @@
+EventId: 10454
+Spots: 13
+Total Images: 44288
+Time:	17.09.2023 07:45:28 to 14.10.2023 12:44:39
+Duration: 27.04:59:11
+
+(1) - 0.0 km 852367 P. Sisk
+	PS1
+		Images:	2009
+		Time:	14.10.2023 07:41:37 until 14.10.2023 08:49:19
+		Duration:	01:07:42
+		Location:	NULL NULL
+
+(2) - 0.0 km 852524 m. koseruba
+	MK1
+		Images:	6605
+		Time:	14.10.2023 08:19:36 until 14.10.2023 11:47:08
+		Duration:	03:27:32
+		Location:	NULL NULL
+
+(3) - 0.0 km 852526 T.Wellott
+	TR1
+		Images:	30
+		Time:	14.10.2023 07:38:05 until 14.10.2023 08:21:05
+		Duration:	00:43:00
+		Location:	NULL NULL
+
+(4) - 0.0 km 852527 T.Wherry
+	TW1
+		Images:	65
+		Time:	14.10.2023 07:35:14 until 14.10.2023 07:53:06
+		Duration:	00:17:52
+		Location:	NULL NULL
+
+(5) - 0.0 km 852528 A. Wilhelm
+	AW1
+		Images:	2175
+		Time:	14.10.2023 07:46:02 until 14.10.2023 08:17:35
+		Duration:	00:31:33
+		Location:	NULL NULL
+
+(6) - 0.0 km 852530 Trigger
+	XA1
+		Images:	1599
+		Time:	14.10.2023 07:45:56 until 14.10.2023 08:13:29
+		Duration:	00:27:33
+		Location:	NULL NULL
+
+(7) - 0.0 km 852531 Trigger
+	XB1
+		Images:	6860
+		Time:	14.10.2023 09:04:39 until 14.10.2023 11:11:56
+		Duration:	02:07:17
+		Location:	NULL NULL
+
+(8) - 0.0 km 852534 t.wherry
+	WT1
+		Images:	7372
+		Time:	14.10.2023 08:28:00 until 14.10.2023 11:35:08
+		Duration:	03:07:08
+		Location:	NULL NULL
+
+(9) - 0.0 km 852538 A. Wilhelm
+	WA1
+		Images:	6916
+		Time:	17.09.2023 07:45:28 until 14.10.2023 11:29:10
+		Duration:	27.03:43:42
+		Location:	NULL NULL
+
+(10) - 0.0 km 852539 L. Koikov
+	KL1
+		Images:	9202
+		Time:	14.10.2023 08:51:07 until 14.10.2023 11:27:31
+		Duration:	02:36:24
+		Location:	NULL NULL
+
+(11) - Impressions / Pano
+	PANO1
+(12) - none
+	PANO2
+	SP1
+		Images:	1455
+		Time:	14.10.2023 10:28:44 until 14.10.2023 12:44:39
+		Duration:	02:15:55
+		Location:	NULL NULL
+

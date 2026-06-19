@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "46.86926" lon = "9.88141"><name>ROB1</name><desc>Start
+Images:362
+First:08.08.2025 16:34:47
+Last:09.08.2025 06:32:18
+Duration:13:57:31
+</desc></wpt>
+<wpt lat = "46.85914" lon = "9.92420"><name>HS1</name><desc>km5.0
+Images:566
+First:08.08.2025 17:46:33
+Last:09.08.2025 08:44:57
+Duration:14:58:24
+</desc></wpt>
+<wpt lat = "46.85914" lon = "9.92420"><name>HS1LS1</name><desc>km5.0
+Images:258
+First:08.08.2025 18:21:38
+Last:08.08.2025 19:06:07
+Duration:00:44:29
+</desc></wpt>
+<wpt lat = "46.85914" lon = "9.92420"><name>HS1LS2</name><desc>km5.0
+Images:223
+First:08.08.2025 17:42:00
+Last:08.08.2025 18:53:16
+Duration:01:11:16
+</desc></wpt>
+<wpt lat = "46.85914" lon = "9.92420"><name>HS1DRONE1</name><desc>km5.0
+Images:8
+First:08.08.2025 18:14:34
+Last:08.08.2025 18:59:04
+Duration:00:44:30
+</desc></wpt>
+<wpt lat = "46.86436" lon = "9.91687"><name>BP1</name><desc>km6.3
+Images:461
+First:08.08.2025 18:36:00
+Last:08.08.2025 19:23:05
+Duration:00:47:05
+</desc></wpt>
+<wpt lat = "46.86436" lon = "9.91687"><name>BP1LS1</name><desc>km6.3
+Images:266
+First:08.08.2025 17:57:37
+Last:09.08.2025 07:03:21
+Duration:13:05:44
+</desc></wpt>
+<wpt lat = "46.86436" lon = "9.91687"><name>BP1LS2</name><desc>km6.3
+Images:437
+First:08.08.2025 18:13:16
+Last:08.08.2025 19:27:56
+Duration:01:14:40
+</desc></wpt>
+<wpt lat = "46.86436" lon = "9.91687"><name>BP1LS3</name><desc>km6.3
+Images:256
+First:08.08.2025 17:46:06
+Last:08.08.2025 19:34:00
+Duration:01:47:54
+</desc></wpt>
+<wpt lat = "46.86436" lon = "9.91687"><name>BP1DRONE1</name><desc>km6.3
+Images:42
+First:08.08.2025 17:28:05
+Last:09.08.2025 16:15:01
+Duration:22:46:56
+</desc></wpt>
+<wpt lat = "46.86926" lon = "9.88141"><name>ROB2</name><desc>Finish
+Images:3815
+First:08.08.2025 18:42:18
+Last:08.08.2025 20:22:28
+Duration:01:40:10
+</desc></wpt>
+<wpt lat = "46.86926" lon = "9.88141"><name>ROB2LS2</name><desc>Finish
+Images:147
+First:08.08.2025 18:17:44
+Last:09.08.2025 09:57:30
+Duration:15:39:46
+</desc></wpt>
+<wpt lat = "46.86926" lon = "9.88141"><name>ROB2LS1</name><desc>Finish
+Images:127
+First:08.08.2025 17:25:48
+Last:08.08.2025 20:11:26
+Duration:02:45:38
+</desc></wpt>
+</gpx>

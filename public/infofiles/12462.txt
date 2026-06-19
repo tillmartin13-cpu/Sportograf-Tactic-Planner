@@ -1,0 +1,591 @@
+EventId: 12462
+Spots: 92
+Total Images: 251157
+Time:	01.01.0001 23:00:00 to 01.09.2024 16:51:55
+Duration: 739128.17:51:55
+
+(1) - CCC 20.5KM Rif. Walter Bonatti
+	AEP2
+		Images:	5467
+		Time:	30.08.2024 11:11:34 until 30.08.2024 15:49:49
+		Duration:	04:38:15
+		Location:	45.84728 7.03190
+
+	AEP2LS1
+		Images:	2834
+		Time:	30.08.2024 10:32:47 until 30.08.2024 15:42:23
+		Duration:	05:09:36
+		Location:	45.84728 7.03190
+
+(2) - CCC 21.5KM Punto Panoramica
+	ACOR4
+		Images:	4919
+		Time:	30.08.2024 11:17:17 until 30.08.2024 15:40:45
+		Duration:	04:23:28
+		Location:	45.84956 7.03693
+
+	ACOR4DRONE1
+		Images:	10
+		Time:	30.08.2024 11:58:38 until 30.08.2024 12:01:34
+		Duration:	00:02:56
+		Location:	45.84956 7.03693
+
+	ACOR4LS1
+		Images:	2147
+		Time:	30.08.2024 10:54:43 until 30.08.2024 15:01:23
+		Duration:	04:06:40
+		Location:	45.84956 7.03693
+
+(3) - CCC 24KM Grandes Jorasses View
+	ACHR3
+		Images:	7558
+		Time:	30.08.2024 10:02:34 until 30.08.2024 16:16:41
+		Duration:	06:14:07
+		Location:	45.86401 7.05526
+
+(4) - CCC 25,8 KM Arnouvaz
+	BNJO1LS1
+		Images:	7352
+		Time:	30.08.2024 10:45:56 until 30.08.2024 16:28:51
+		Duration:	05:42:55
+		Location:	45.86962 7.05882
+
+	BNJO1LS2
+		Images:	10184
+		Time:	30.08.2024 10:05:07 until 30.08.2024 16:32:10
+		Duration:	06:27:03
+		Location:	45.86844 7.05813
+
+(5) - CCC 25,9 KM Arnouvaz
+	BNJO1
+		Images:	8116
+		Time:	30.08.2024 11:30:39 until 30.08.2024 16:20:03
+		Duration:	04:49:24
+		Location:	45.86915 7.05813
+
+	BNJO1DRONE1
+		Images:	2
+		Time:	30.08.2024 16:20:03 until 30.08.2024 16:20:16
+		Duration:	00:00:13
+		Location:	45.86915 7.05813
+
+(6) - CCC 30,5KM Grand Col Ferret
+	BLULE1
+		Images:	6875
+		Time:	30.08.2024 11:57:02 until 30.08.2024 20:42:45
+		Duration:	08:45:43
+		Location:	45.88534 7.07512
+
+	BLULE1LS1
+		Images:	3215
+		Time:	30.08.2024 12:35:08 until 30.08.2024 20:34:18
+		Duration:	07:59:10
+		Location:	45.88534 7.07512
+
+(7) - CCC 30,6KM Rifugio Elena
+	BTNR1
+		Images:	2318
+		Time:	01.01.0001 23:00:00 until 30.08.2024 18:10:37
+		Duration:	739126.19:10:37
+		Location:	45.88355 7.07039
+
+	BTNR1LS1
+		Images:	6761
+		Time:	01.01.0001 23:00:00 until 30.08.2024 17:57:08
+		Duration:	739126.18:57:08
+		Location:	45.88355 7.07039
+
+(8) - CCC 55KM Lac Champex
+	AMHO1
+		Images:	2440
+		Time:	30.08.2024 14:22:00 until 30.08.2024 23:35:03
+		Duration:	09:13:03
+		Location:	46.02912 7.11750
+
+	AMHO1LS1
+		Images:	890
+		Time:	30.08.2024 14:23:20 until 30.08.2024 20:14:17
+		Duration:	05:50:57
+		Location:	46.02912 7.11750
+
+(9) - CCC 63.5KM Before Alpage Bovine
+	APKA1
+		Images:	658
+		Time:	30.08.2024 15:20:03 until 30.08.2024 20:40:06
+		Duration:	05:20:03
+		Location:	46.05589 7.05535
+
+	APKA1LS1
+		Images:	166
+		Time:	30.08.2024 14:36:48 until 30.08.2024 19:14:34
+		Duration:	04:37:46
+		Location:	46.05589 7.05535
+
+(10) - CCC 64KM Behind Alpage Bovine
+	AALPE1
+		Images:	1036
+		Time:	30.08.2024 15:29:41 until 30.08.2024 21:24:20
+		Duration:	05:54:39
+		Location:	46.05530 7.04512
+
+	AALPE1LS1
+		Images:	2368
+		Time:	30.08.2024 14:25:54 until 31.08.2024 09:24:50
+		Duration:	18:58:56
+		Location:	46.05530 7.04512
+
+	AKAV1
+		Images:	1102
+		Time:	30.08.2024 15:27:49 until 30.08.2024 20:42:23
+		Duration:	05:14:34
+		Location:	46.05733 7.04421
+
+	AKAV1LS1
+		Images:	268
+		Time:	30.08.2024 16:52:41 until 30.08.2024 19:28:30
+		Duration:	02:35:49
+		Location:	46.05733 7.04421
+
+(11) - CCC 92.1KM La Flegere
+	BMAWI1
+		Images:	1239
+		Time:	30.08.2024 18:38:04 until 31.08.2024 10:51:10
+		Duration:	16:13:06
+		Location:	45.96274 6.88514
+
+	BMAWI1LS1
+		Images:	4307
+		Time:	30.08.2024 15:44:55 until 31.08.2024 10:55:34
+		Duration:	19:10:39
+		Location:	45.96274 6.88514
+
+	BMAWI1LS2
+		Images:	1229
+		Time:	30.08.2024 18:03:23 until 31.08.2024 09:52:34
+		Duration:	15:49:11
+		Location:	45.96274 6.88514
+
+(12) - CCC 93KM La Flegere
+	ARSJ1
+		Images:	2861
+		Time:	30.08.2024 18:41:25 until 31.08.2024 11:52:17
+		Duration:	17:10:52
+		Location:	45.96348 6.88917
+
+	ARSJ1LS1
+		Images:	3466
+		Time:	30.08.2024 17:01:53 until 31.08.2024 10:43:15
+		Duration:	17:41:22
+		Location:	45.96348 6.88917
+
+(13) - CCC Start
+	ACOR3
+		Images:	159
+		Time:	30.08.2024 08:33:30 until 30.08.2024 09:01:47
+		Duration:	00:28:17
+		Location:	45.79263 6.97171
+
+	AEP1
+		Images:	317
+		Time:	30.08.2024 08:31:17 until 30.08.2024 09:03:22
+		Duration:	00:32:05
+		Location:	45.79263 6.97171
+
+(14) - Finish
+	CALL1
+		Images:	8620
+		Time:	31.08.2024 01:56:33 until 31.08.2024 09:50:38
+		Duration:	07:54:05
+		Location:	45.92363 6.86837
+
+	CALL2
+		Images:	2197
+		Time:	31.08.2024 18:53:13 until 01.09.2024 01:52:18
+		Duration:	06:59:05
+		Location:	45.92363 6.86837
+
+	CALL3
+		Images:	5030
+		Time:	01.09.2024 10:00:58 until 01.09.2024 16:50:42
+		Duration:	06:49:44
+		Location:	45.92363 6.86837
+
+	CDR2
+		Images:	1867
+		Time:	30.08.2024 19:19:04 until 31.08.2024 09:52:55
+		Duration:	14:33:51
+		Location:	45.92363 6.86837
+
+	CDR2LS1
+		Images:	22174
+		Time:	30.08.2024 23:16:45 until 01.09.2024 09:54:04
+		Duration:	1.10:37:19
+		Location:	45.92363 6.86837
+
+	CDR3
+		Images:	3224
+		Time:	31.08.2024 09:53:36 until 31.08.2024 12:43:28
+		Duration:	02:49:52
+		Location:	45.92363 6.86837
+
+	CDR4
+		Images:	1074
+		Time:	31.08.2024 13:29:53 until 31.08.2024 18:57:46
+		Duration:	05:27:53
+		Location:	45.92363 6.86837
+
+	CDR5
+		Images:	4437
+		Time:	01.09.2024 01:56:53 until 01.09.2024 10:10:28
+		Duration:	08:13:35
+		Location:	45.92363 6.86837
+
+	CEB1
+		Images:	2287
+		Time:	31.08.2024 02:42:21 until 31.08.2024 08:35:37
+		Duration:	05:53:16
+		Location:	45.92363 6.86837
+
+	CEB1LS1
+		Images:	11141
+		Time:	31.08.2024 02:01:13 until 01.09.2024 14:36:26
+		Duration:	1.12:35:13
+		Location:	45.92363 6.86837
+
+	CEB2
+		Images:	1926
+		Time:	31.08.2024 18:52:30 until 01.09.2024 00:08:31
+		Duration:	05:16:01
+		Location:	45.92363 6.86837
+
+	CEB3
+		Images:	775
+		Time:	31.08.2024 08:35:40 until 31.08.2024 09:50:17
+		Duration:	01:14:37
+		Location:	45.92363 6.86837
+
+	CEB4
+		Images:	3807
+		Time:	01.09.2024 00:09:22 until 01.09.2024 16:51:55
+		Duration:	16:42:33
+		Location:	45.92363 6.86837
+
+	CEGA2
+		Images:	5891
+		Time:	30.08.2024 19:20:59 until 31.08.2024 12:58:44
+		Duration:	17:37:45
+		Location:	45.92363 6.86837
+
+	CEGA3
+		Images:	1186
+		Time:	31.08.2024 13:55:47 until 31.08.2024 19:07:06
+		Duration:	05:11:19
+		Location:	45.92363 6.86837
+
+	CEGA4
+		Images:	3101
+		Time:	01.09.2024 01:53:13 until 01.09.2024 10:11:05
+		Duration:	08:17:52
+		Location:	45.92363 6.86837
+
+(15) - Impressions / Pano
+	PANO1
+(16) - PTL - PlanPraz KM 6
+	COR2
+		Images:	952
+		Time:	26.08.2024 09:09:03 until 26.08.2024 10:37:29
+		Duration:	01:28:26
+		Location:	45.93687 6.85005
+
+	COR2LS1
+		Images:	431
+		Time:	26.08.2024 09:09:57 until 26.08.2024 10:02:34
+		Duration:	00:52:37
+		Location:	45.93687 6.85005
+
+(17) - PTL - PlanPraz KM 6.5
+	CHR2
+		Images:	1340
+		Time:	26.08.2024 09:14:56 until 26.08.2024 10:34:21
+		Duration:	01:19:25
+		Location:	45.93870 6.84610
+
+	CHR2DRONE1
+		Images:	17
+		Time:	26.08.2024 10:22:41 until 26.08.2024 10:30:17
+		Duration:	00:07:36
+		Location:	45.93870 6.84610
+
+	CHR2LS1
+		Images:	225
+		Time:	26.08.2024 09:23:26 until 26.08.2024 10:11:47
+		Duration:	00:48:21
+		Location:	45.93870 6.84610
+
+(18) - PTL - Start
+	CHR1
+		Images:	196
+		Time:	26.08.2024 07:32:40 until 26.08.2024 08:02:09
+		Duration:	00:29:29
+		Location:	45.92381 6.86915
+
+	COR1
+		Images:	197
+		Time:	26.08.2024 07:32:50 until 26.08.2024 08:02:17
+		Duration:	00:29:27
+		Location:	45.92381 6.86915
+
+(19) - PTL 6.5KM PlanPraz
+	ACOR2
+		Images:	952
+		Time:	26.08.2024 09:09:03 until 26.08.2024 10:37:29
+		Duration:	01:28:26
+		Location:	45.92436 6.86244
+
+	ACOR2LS1
+		Images:	431
+		Time:	26.08.2024 09:09:57 until 26.08.2024 10:02:34
+		Duration:	00:52:37
+		Location:	45.92436 6.86244
+
+(20) - PTL 7KM Mont-Blanc View
+	ACHR2
+		Images:	1340
+		Time:	26.08.2024 09:14:56 until 26.08.2024 10:34:21
+		Duration:	01:19:25
+		Location:	45.93870 6.84867
+
+	ACHR2DRONE1
+		Images:	6
+		Time:	26.08.2024 10:24:37 until 26.08.2024 10:29:10
+		Duration:	00:04:33
+		Location:	45.93870 6.84867
+
+	ACHR2LS1
+		Images:	225
+		Time:	26.08.2024 09:23:26 until 26.08.2024 10:11:47
+		Duration:	00:48:21
+		Location:	45.93870 6.84867
+
+(21) - PTL Start
+	ACHR1
+		Images:	196
+		Time:	26.08.2024 07:32:40 until 26.08.2024 08:02:09
+		Duration:	00:29:29
+		Location:	45.92381 6.86915
+
+	ACOR1
+		Images:	197
+		Time:	26.08.2024 07:32:50 until 26.08.2024 08:02:17
+		Duration:	00:29:27
+		Location:	45.92381 6.86915
+
+(22) - Start
+	CDR1
+		Images:	499
+		Time:	30.08.2024 16:50:09 until 30.08.2024 18:07:14
+		Duration:	01:17:05
+		Location:	45.92363 6.86837
+
+	CEGA1
+		Images:	380
+		Time:	30.08.2024 16:45:24 until 30.08.2024 18:08:17
+		Duration:	01:22:53
+		Location:	45.92363 6.86837
+
+(23) - UTMB 102,1KM Rifugio Elena
+	BTNR2LS1
+		Images:	1030
+		Time:	01.01.0001 23:00:00 until 31.08.2024 11:04:33
+		Duration:	739127.12:04:33
+		Location:	45.88355 7.07039
+
+(24) - UTMB 102,3 KM Grand Col Ferret
+	BLULE2
+		Images:	10217
+		Time:	31.08.2024 06:03:28 until 31.08.2024 19:42:40
+		Duration:	13:39:12
+		Location:	45.88597 7.07439
+
+(25) - UTMB 102KM Rifugio Elena
+	BTNR2
+		Images:	333
+		Time:	01.01.0001 23:00:00 until 31.08.2024 11:27:37
+		Duration:	739127.12:27:37
+		Location:	45.88355 7.07039
+
+(26) - UTMB 128.5KM Lac Champex
+	AMHO2
+		Images:	2144
+		Time:	31.08.2024 09:06:03 until 01.09.2024 01:17:25
+		Duration:	16:11:22
+		Location:	46.02912 7.11750
+
+	AMHO2LS1
+		Images:	634
+		Time:	31.08.2024 10:38:48 until 31.08.2024 19:48:19
+		Duration:	09:09:31
+		Location:	46.02912 7.11750
+
+(27) - UTMB 137.5KM Before Alpage Bovine
+	APKA2
+		Images:	442
+		Time:	31.08.2024 09:44:10 until 31.08.2024 19:28:50
+		Duration:	09:44:40
+		Location:	46.05589 7.05535
+
+	APKA2LS1
+		Images:	713
+		Time:	31.08.2024 09:36:00 until 31.08.2024 18:41:08
+		Duration:	09:05:08
+		Location:	46.05589 7.05535
+
+(28) - UTMB 138KM Behind Alpage Bovine
+	AALPE2
+		Images:	827
+		Time:	31.08.2024 10:00:27 until 31.08.2024 19:52:38
+		Duration:	09:52:11
+		Location:	46.05530 7.04512
+
+	AALPE2LS1
+		Images:	949
+		Time:	31.08.2024 09:25:13 until 31.08.2024 18:58:26
+		Duration:	09:33:13
+		Location:	46.05530 7.04512
+
+	AKAV2
+		Images:	874
+		Time:	30.08.2024 20:07:52 until 31.08.2024 19:50:34
+		Duration:	23:42:42
+		Location:	46.05733 7.04421
+
+	AKAV2LS1
+		Images:	2159
+		Time:	31.08.2024 11:11:45 until 31.08.2024 16:48:05
+		Duration:	05:36:20
+		Location:	46.05733 7.04421
+
+(29) - UTMB 145KM Trient Church
+	APKA3
+		Images:	331
+		Time:	31.08.2024 21:36:38 until 01.09.2024 08:00:44
+		Duration:	10:24:06
+		Location:	46.05614 6.99489
+
+	APKA3LS1
+		Images:	3187
+		Time:	31.08.2024 21:01:43 until 01.09.2024 08:03:17
+		Duration:	11:01:34
+		Location:	46.05614 6.99489
+
+(30) - UTMB 162,7KM La Flegere
+	BHS1
+		Images:	1964
+		Time:	31.08.2024 13:08:09 until 01.09.2024 14:15:14
+		Duration:	1.01:07:05
+		Location:	45.96274 6.88514
+
+	BHS1LS1
+		Images:	1835
+		Time:	31.08.2024 16:59:58 until 01.09.2024 11:50:20
+		Duration:	18:50:22
+		Location:	45.96274 6.88514
+
+	BHS1LS2
+		Images:	2003
+		Time:	31.08.2024 12:50:58 until 01.09.2024 14:52:32
+		Duration:	1.02:01:34
+		Location:	45.96274 6.88514
+
+(31) - UTMB 163,2KM La Flegere
+	BROB1LS1
+		Images:	2151
+		Time:	31.08.2024 12:51:02 until 01.09.2024 11:04:49
+		Duration:	22:13:47
+		Location:	45.96028 6.88601
+
+	BROB1LS2
+		Images:	1141
+		Time:	31.08.2024 14:30:24 until 01.09.2024 10:59:39
+		Duration:	20:29:15
+		Location:	45.96028 6.88601
+
+(32) - UTMB 163KM La Flegere
+	BROB1
+		Images:	1721
+		Time:	31.08.2024 13:10:36 until 01.09.2024 10:53:26
+		Duration:	21:42:50
+		Location:	45.96060 6.88670
+
+(33) - UTMB 28KM Grand Col Ferret
+	BTNR3
+		Images:	1906
+		Time:	31.08.2024 11:28:17 until 31.08.2024 23:21:10
+		Duration:	11:52:53
+		Location:	45.88323 7.06558
+
+	BTNR3LS1
+		Images:	3902
+		Time:	01.01.0001 23:00:00 until 31.08.2024 18:27:51
+		Duration:	739127.19:27:51
+		Location:	45.88323 7.06558
+
+(34) - UTMB 89.5KM Mont Blanc View
+	ACHR4
+		Images:	6110
+		Time:	31.08.2024 06:35:56 until 31.08.2024 15:44:52
+		Duration:	09:08:56
+		Location:	45.82423 6.98938
+
+	ACHR4DRONE1
+		Images:	8
+		Time:	31.08.2024 09:03:57 until 31.08.2024 09:18:31
+		Duration:	00:14:34
+		Location:	45.82423 6.98938
+
+(35) - UTMB 95.5KM Punto Panoramica
+	ACOR5
+		Images:	5142
+		Time:	31.08.2024 06:41:42 until 31.08.2024 17:51:20
+		Duration:	11:09:38
+		Location:	45.84956 7.03693
+
+	ACOR5LS1
+		Images:	2858
+		Time:	31.08.2024 10:18:39 until 31.08.2024 17:32:07
+		Duration:	07:13:28
+		Location:	45.84956 7.03693
+
+(36) - UTMB 98,8 KM Arnouvaz
+	BNJO2LS1
+		Images:	2262
+		Time:	31.08.2024 07:33:02 until 31.08.2024 17:33:41
+		Duration:	10:00:39
+		Location:	45.86844 7.05813
+
+	BNJO2LS2
+		Images:	3331
+		Time:	31.08.2024 07:02:12 until 31.08.2024 14:51:35
+		Duration:	07:49:23
+		Location:	45.86844 7.05813
+
+(37) - UTMB 98KM Arnouvaz
+	BNJO2
+		Images:	5851
+		Time:	31.08.2024 06:39:49 until 31.08.2024 17:49:07
+		Duration:	11:09:18
+		Location:	45.86935 7.05856
+
+(38) - UTMB 98KM Grandes Jorasses View
+	AEP3
+		Images:	6615
+		Time:	31.08.2024 06:28:47 until 31.08.2024 17:55:24
+		Duration:	11:26:37
+		Location:	45.86400 7.05282
+
+	AEP3LS1
+		Images:	1932
+		Time:	31.08.2024 06:55:28 until 31.08.2024 17:38:19
+		Duration:	10:42:51
+		Location:	45.86400 7.05282
+

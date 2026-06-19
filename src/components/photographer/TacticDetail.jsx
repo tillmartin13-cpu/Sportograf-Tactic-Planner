@@ -75,6 +75,38 @@ function openExternal(url) {
   window.open(url, '_blank', 'noopener,noreferrer');
 }
 
+// ─── Add to calendar (ICS) ───────────────────────────────────────────────────
+
+function addToCalendar(eventName, dateStr) {
+  // dateStr expected as YYYY-MM-DD
+  const d = new Date(dateStr);
+  const fmt = (date) => date.toISOString().replace(/-/g, '').slice(0, 8);
+  const start = fmt(d);
+  const end = fmt(new Date(d.getTime() + 86400000)); // next day (all-day exclusive end)
+  const safe = (s) => (s || '').replace(/[,;\\]/g, '\\$&').replace(/\n/g, '\\n');
+  const ics = [
+    'BEGIN:VCALENDAR',
+    'VERSION:2.0',
+    'PRODID:-//Sportograf Tactic//EN',
+    'BEGIN:VEVENT',
+    `DTSTART;VALUE=DATE:${start}`,
+    `DTEND;VALUE=DATE:${end}`,
+    `SUMMARY:${safe(eventName)}`,
+    'END:VEVENT',
+    'END:VCALENDAR',
+  ].join('\r\n');
+
+  const blob = new Blob([ics], { type: 'text/calendar;charset=utf-8' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = `${(eventName || 'event').replace(/[^a-z0-9]/gi, '_')}.ics`;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  setTimeout(() => URL.revokeObjectURL(url), 1000);
+}
+
 // ─── Image lightbox ───────────────────────────────────────────────────────────
 
 function ImageLightbox({ src, onClose }) {
@@ -331,6 +363,16 @@ function SpotCard({ spot, index }) {
               📍 {Number(spot.km_mark).toFixed(1)} km
             </span>
           )}
+          {spot.lens_type === 'tele' && (
+            <span className="rounded-full bg-[#fff8e6] px-2 py-0.5 text-[11px] font-semibold text-[#b45309]">
+              🔭 Tele
+            </span>
+          )}
+          {spot.lens_type === 'wide' && (
+            <span className="rounded-full bg-[#f0fdf4] px-2 py-0.5 text-[11px] font-semibold text-[#166534]">
+              🔲 Weitwinkel
+            </span>
+          )}
         </div>
         {spot.notes && (
           <p className="mt-2 text-xs text-gray-500">{spot.notes}</p>
@@ -433,11 +475,25 @@ function DirectionArrows({ track, color }) {
 
 // ─── Spot marker — identical style to planning map ────────────────────────────
 
-function makeSpotMarkerIcon(spot, index, isMine) {
-  // Wrap in opacity container for non-own spots
-  const html = isMine
-    ? buildSpotMarkerHtml(spot, index)
-    : `<div style="opacity:0.5">${buildSpotMarkerHtml(spot, index)}</div>`;
+function makeSpotMarkerIcon(spot, index, role) {
+  // role: 'mine' | 'general' | 'other'
+  let html;
+  if (role === 'other') {
+    const text = spot.name || '?';
+    html = `
+      <div style="position:absolute;bottom:0;left:50%;transform:translateX(-50%);opacity:0.45">
+        <div style="background:#9ca3af;color:#fff;border-radius:8px;padding:2px 7px;font-size:10px;font-weight:700;letter-spacing:0.2px;white-space:nowrap;position:relative;margin-bottom:5px;box-shadow:0 1px 4px rgba(0,0,0,0.18)">
+          ${text}
+          <div style="position:absolute;bottom:-6px;left:50%;transform:translateX(-50%);width:0;height:0;border-left:5px solid transparent;border-right:5px solid transparent;border-top:6px solid #9ca3af"></div>
+        </div>
+        <div style="display:flex;flex-direction:column;align-items:center;margin:0 auto;width:fit-content">
+          <div style="width:2px;height:8px;background:#9ca3af;border-radius:2px"></div>
+          <div style="width:6px;height:6px;background:#9ca3af;border-radius:50%;margin-top:-1px;border:2px solid #fff"></div>
+        </div>
+      </div>`;
+  } else {
+    html = buildSpotMarkerHtml(spot, index);
+  }
   return L.divIcon({ className: '', html, iconSize: [0, 0], iconAnchor: [0, 0] });
 }
 
@@ -635,13 +691,15 @@ function SpotsMap({ allSpots, mySpotIds, gpxTracks }) {
               return <Polyline key={ti} positions={pts} color={color} weight={4} opacity={0.88} />;
             })}
             {visibleSpots.map((spot, i) => {
+              const isGeneral = spot.location_type && spot.location_type !== 'photo';
               const isMine = mySpotIds ? mySpotIds.has(spot.id) : true;
+              const role = isGeneral ? 'general' : isMine ? 'mine' : 'other';
               return (
                 <Marker
                   key={spot.id ?? i}
                   position={[spot.latitude, spot.longitude]}
-                  icon={makeSpotMarkerIcon(spot, i + 1, isMine)}
-                  zIndexOffset={isMine ? 500 : 100}
+                  icon={makeSpotMarkerIcon(spot, i + 1, role)}
+                  zIndexOffset={role === 'mine' ? 500 : role === 'general' ? 300 : 100}
                   interactive={false}
                 />
               );
@@ -749,7 +807,9 @@ function SpotsMap({ allSpots, mySpotIds, gpxTracks }) {
 
         {/* All spots — same marker style as planning map */}
         {visibleSpots.map((spot, i) => {
+          const isGeneral = spot.location_type && spot.location_type !== 'photo';
           const isMine = mySpotIds ? mySpotIds.has(spot.id) : true;
+          const role = isGeneral ? 'general' : isMine ? 'mine' : 'other';
           const lat = spot.latitude, lng = spot.longitude;
           const svUrl = `https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=${lat},${lng}`;
           const mapUrl = `https://www.mapillary.com/app/?lat=${lat}&lng=${lng}&z=17`;
@@ -758,13 +818,13 @@ function SpotsMap({ allSpots, mySpotIds, gpxTracks }) {
             <Marker
               key={spot.id || i}
               position={[lat, lng]}
-              icon={makeSpotMarkerIcon(spot, i + 1, isMine)}
-              zIndexOffset={isMine ? 500 : 100}
+              icon={makeSpotMarkerIcon(spot, i + 1, role)}
+              zIndexOffset={role === 'mine' ? 500 : role === 'general' ? 300 : 100}
             >
               <Popup minWidth={200}>
                 <div style={{ fontFamily: 'system-ui', fontSize: 13 }}>
                   <div style={{ fontWeight: 800, color: '#1C2B6B', marginBottom: 2 }}>{spot.name}</div>
-                  {!isMine && (spot.location_type === 'photo' || !spot.location_type) && (
+                  {role === 'other' && (
                     <div style={{ fontSize: 10, color: '#9ca3af', marginBottom: 2 }}>Other photographer</div>
                   )}
                   {(spot.time_from || spot.time_to) && (
@@ -863,14 +923,124 @@ function SpotsMap({ allSpots, mySpotIds, gpxTracks }) {
   );
 }
 
+// ─── Rain radar (RainViewer) ──────────────────────────────────────────────────
+
+function RainRadar({ lat, lon }) {
+  const [frames, setFrames] = useState([]);
+  const [frameIdx, setFrameIdx] = useState(0);
+  const [playing, setPlaying] = useState(true);
+  const [loadError, setLoadError] = useState(false);
+
+  useEffect(() => {
+    fetch('https://api.rainviewer.com/public/weather-maps.json')
+      .then((r) => r.json())
+      .then((data) => {
+        const past = data.radar?.past ?? [];
+        const nowcast = data.radar?.nowcast ?? [];
+        const all = [...past, ...nowcast];
+        if (all.length) {
+          setFrames(all);
+          setFrameIdx(past.length > 0 ? past.length - 1 : 0);
+        } else {
+          setLoadError(true);
+        }
+      })
+      .catch(() => setLoadError(true));
+  }, []);
+
+  useEffect(() => {
+    if (!playing || frames.length < 2) return;
+    const id = setInterval(() => setFrameIdx((i) => (i + 1) % frames.length), 650);
+    return () => clearInterval(id);
+  }, [playing, frames.length]);
+
+  if (loadError) {
+    return (
+      <div className="rounded-xl bg-gray-50 border border-gray-100 px-3 py-3 text-center text-[11px] text-gray-400">
+        Radar not available
+      </div>
+    );
+  }
+
+  if (!frames.length) {
+    return (
+      <div className="flex items-center justify-center gap-2 rounded-xl bg-gray-50 py-5 text-[11px] text-gray-400">
+        <span className="animate-spin inline-block">🌀</span> Loading radar…
+      </div>
+    );
+  }
+
+  const frame = frames[frameIdx];
+  const tileUrl = `https://tilecache.rainviewer.com${frame.path}/256/{z}/{x}/{y}/2/1_1.png`;
+  const frameTime = frame.time
+    ? new Date(frame.time * 1000).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
+    : '';
+
+  const dotIcon = L.divIcon({
+    className: '',
+    html: '<div style="width:10px;height:10px;border-radius:50%;background:#cc1336;border:2.5px solid white;box-shadow:0 1px 4px rgba(0,0,0,.5);margin:-5px 0 0 -5px"></div>',
+    iconSize: [0, 0],
+  });
+
+  return (
+    <div className="rounded-xl overflow-hidden border border-blue-100">
+      <div style={{ height: 230 }}>
+        <MapContainer
+          center={[lat, lon]}
+          zoom={7}
+          style={{ height: 230, width: '100%' }}
+          zoomControl={false}
+          attributionControl={false}
+          scrollWheelZoom={false}
+        >
+          <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" attribution="© OSM" />
+          <TileLayer key={frame.path} url={tileUrl} opacity={0.75} />
+          <Marker position={[lat, lon]} icon={dotIcon} interactive={false} />
+        </MapContainer>
+      </div>
+      {/* Playback controls */}
+      <div className="flex items-center gap-3 bg-white px-3 py-2">
+        <button
+          type="button"
+          onClick={() => setPlaying((v) => !v)}
+          className="flex h-7 w-7 shrink-0 items-center justify-center rounded-lg bg-[#f0f2fa] text-[11px] text-[#1C2B6B] hover:bg-[#e4e8f5] transition-colors"
+        >
+          {playing ? '⏸' : '▶'}
+        </button>
+        <input
+          type="range"
+          min={0}
+          max={frames.length - 1}
+          value={frameIdx}
+          onChange={(e) => { setPlaying(false); setFrameIdx(Number(e.target.value)); }}
+          className="flex-1 accent-[#1C2B6B] h-1.5"
+        />
+        <span className="shrink-0 min-w-[38px] text-right text-[11px] font-bold text-[#1C2B6B]">
+          {frameTime}
+        </span>
+      </div>
+      <div className="bg-white px-3 pb-2 text-[9px] text-gray-400">
+        Rain radar · RainViewer · live + 90 min nowcast
+      </div>
+    </div>
+  );
+}
+
 // ─── Weather briefing ─────────────────────────────────────────────────────────
 
-function WeatherBriefing({ event, spots }) {
+function WeatherBriefing({ event, spots, gpxTracks = [] }) {
   const [expanded, setExpanded] = useState(false);
+  const [radarOpen, setRadarOpen] = useState(false);
 
-  // Use event location or first spot with coords
-  const lat = event?.latitude ?? event?.lat ?? spots.find((s) => s.latitude != null)?.latitude;
-  const lon = event?.longitude ?? event?.lon ?? spots.find((s) => s.longitude != null)?.longitude;
+  // Derive location: event coords → spots → GPX midpoint
+  const gpxMid = (() => {
+    const pts = gpxTracks[0]?.points;
+    if (!pts?.length) return null;
+    const mid = pts[Math.floor(pts.length / 2)];
+    return mid ? { lat: mid.lat, lon: mid.lng } : null;
+  })();
+  const lat = event?.latitude ?? event?.lat ?? spots.find((s) => s.latitude != null)?.latitude ?? gpxMid?.lat;
+  const lon = event?.longitude ?? event?.lon ?? spots.find((s) => s.longitude != null)?.longitude ?? gpxMid?.lon;
   // Support both date field names
   // Fall back to today if no event date set
   const today = new Date().toISOString().slice(0, 10);
@@ -1002,6 +1172,32 @@ function WeatherBriefing({ event, spots }) {
               <div key={i} className="text-xs text-[#1C2B6B]/80 leading-snug">{tip}</div>
             ))}
           </div>
+
+          {/* Rain radar toggle */}
+          <div>
+            <button
+              type="button"
+              onClick={() => setRadarOpen((v) => !v)}
+              className={`flex w-full items-center gap-2 rounded-xl border px-3 py-2.5 text-left transition-colors ${
+                radarOpen
+                  ? 'border-blue-300 bg-blue-100 text-[#1C2B6B]'
+                  : 'border-blue-100 bg-white/70 text-[#1C2B6B]/70 hover:bg-white'
+              }`}
+            >
+              <span className="text-base leading-none">🌧️</span>
+              <span className="flex-1 text-[12px] font-bold">Rain Radar</span>
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"
+                strokeLinecap="round" strokeLinejoin="round"
+                className={`shrink-0 transition-transform ${radarOpen ? 'rotate-180' : ''}`}>
+                <polyline points="6 9 12 15 18 9"/>
+              </svg>
+            </button>
+            {radarOpen && (
+              <div className="mt-2">
+                <RainRadar lat={lat} lon={lon} />
+              </div>
+            )}
+          </div>
         </div>
       )}
     </div>
@@ -1010,66 +1206,60 @@ function WeatherBriefing({ event, spots }) {
 
 // ─── TL Info section ─────────────────────────────────────────────────────────
 
+const WA_ICON = (
+  <svg viewBox="0 0 24 24" fill="currentColor" className="h-4 w-4 text-[#25D366] shrink-0">
+    <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/>
+    <path d="M12 0C5.373 0 0 5.373 0 12c0 2.127.558 4.126 1.532 5.862L.053 23.447a.5.5 0 0 0 .608.61l5.701-1.494A11.954 11.954 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.89 0-3.663-.523-5.176-1.432l-.371-.22-3.383.887.9-3.293-.242-.381A9.96 9.96 0 0 1 2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/>
+  </svg>
+);
+
 function TLInfoSection({ pkg }) {
   const tlInfo = pkg?.tactic?.tlInfo;
-  const [open, setOpen] = useState(false);
+  // Open by default so the photographer sees the briefing immediately
+  const [open, setOpen] = useState(true);
   if (!tlInfo) return null;
   const { notes, whatsappGroups = [] } = tlInfo;
   if (!notes && !whatsappGroups.length) return null;
 
-  // WhatsApp groups shown always as quick-access buttons; notes + non-chat groups behind toggle
-  const chatGroups = whatsappGroups.filter((g) => g.name === 'Team Chat');
-  const otherGroups = whatsappGroups.filter((g) => g.name !== 'Team Chat');
-
   return (
     <div className="rounded-2xl border border-[#e3e7f2] bg-white overflow-hidden">
-      {/* Always visible: Team Chat buttons */}
-      {chatGroups.length > 0 && (
-        <div className="flex flex-wrap gap-2 px-4 pt-3 pb-2">
-          {chatGroups.map((g) => (
-            <a key={g.id} href={g.url} target="_blank" rel="noopener noreferrer"
-              className="flex items-center gap-2 rounded-xl bg-[#f0fdf4] px-3 py-2 text-sm font-bold text-[#166534] hover:bg-[#dcfce7] transition-colors">
-              <svg viewBox="0 0 24 24" fill="currentColor" className="h-4 w-4 text-[#25D366] shrink-0">
-                <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/>
-                <path d="M12 0C5.373 0 0 5.373 0 12c0 2.127.558 4.126 1.532 5.862L.053 23.447a.5.5 0 0 0 .608.61l5.701-1.494A11.954 11.954 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.89 0-3.663-.523-5.176-1.432l-.371-.22-3.383.887.9-3.293-.242-.381A9.96 9.96 0 0 1 2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/>
-              </svg>
-              {g.name}
-            </a>
-          ))}
+      {/* Header — always visible, click to collapse */}
+      <button
+        type="button"
+        onClick={() => setOpen((v) => !v)}
+        className="flex w-full items-center justify-between px-4 py-3 text-left hover:bg-[#f8f9ff] transition-colors"
+      >
+        <div className="flex items-center gap-2">
+          <span className="text-base leading-none">📋</span>
+          <span className="text-sm font-extrabold text-[#1C2B6B]">Team Info</span>
         </div>
-      )}
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"
+          strokeLinecap="round" strokeLinejoin="round"
+          className={`shrink-0 text-[#b0b8cf] transition-transform ${open ? 'rotate-180' : ''}`}>
+          <polyline points="6 9 12 15 18 9" />
+        </svg>
+      </button>
 
-      {/* Collapsible: notes + other groups */}
-      {(notes || otherGroups.length > 0) && (
-        <>
-          <button type="button" onClick={() => setOpen((v) => !v)}
-            className="flex w-full items-center justify-between px-4 py-2.5 text-left hover:bg-[#f8f9ff] transition-colors">
-            <span className="text-xs font-bold uppercase tracking-wider text-gray-400">Team Info</span>
-            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"
-              className={`text-[#b0b8cf] transition-transform ${open ? 'rotate-180' : ''}`}>
-              <polyline points="6 9 12 15 18 9" />
-            </svg>
-          </button>
-          {open && (
-            <div className="border-t border-[#f0f2fa] px-4 pb-4 pt-3 space-y-3">
-              {notes && <p className="whitespace-pre-wrap text-sm text-[#1C2B6B] leading-relaxed">{notes}</p>}
-              {otherGroups.length > 0 && (
-                <div className="flex flex-col gap-2">
-                  {otherGroups.map((g) => (
-                    <a key={g.id} href={g.url} target="_blank" rel="noopener noreferrer"
-                      className="flex items-center gap-3 rounded-xl bg-[#f0fdf4] px-3 py-2.5 text-sm font-bold text-[#166534] hover:bg-[#dcfce7] transition-colors">
-                      <svg viewBox="0 0 24 24" fill="currentColor" className="h-4 w-4 text-[#25D366] shrink-0">
-                        <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/>
-                        <path d="M12 0C5.373 0 0 5.373 0 12c0 2.127.558 4.126 1.532 5.862L.053 23.447a.5.5 0 0 0 .608.61l5.701-1.494A11.954 11.954 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.89 0-3.663-.523-5.176-1.432l-.371-.22-3.383.887.9-3.293-.242-.381A9.96 9.96 0 0 1 2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/>
-                      </svg>
-                      {g.name}
-                    </a>
-                  ))}
-                </div>
-              )}
+      {open && (
+        <div className="border-t border-[#f0f2fa] px-4 pb-4 pt-3 space-y-3">
+          {/* Notes — full text, no truncation */}
+          {notes && (
+            <p className="whitespace-pre-wrap text-sm text-[#1C2B6B] leading-relaxed">{notes}</p>
+          )}
+
+          {/* WhatsApp groups */}
+          {whatsappGroups.length > 0 && (
+            <div className="flex flex-col gap-2">
+              {whatsappGroups.map((g) => (
+                <a key={g.id} href={g.url} target="_blank" rel="noopener noreferrer"
+                  className="flex items-center gap-3 rounded-xl bg-[#f0fdf4] px-3 py-2.5 text-sm font-bold text-[#166534] hover:bg-[#dcfce7] transition-colors">
+                  {WA_ICON}
+                  {g.name}
+                </a>
+              ))}
             </div>
           )}
-        </>
+        </div>
       )}
     </div>
   );
@@ -1368,9 +1558,28 @@ export function TacticDetail({ onOpenCheckIn }) {
         {greeting && (
           <div className="text-sm font-bold text-[#1C2B6B]/60 mb-0.5">{greeting}</div>
         )}
-        <h2 className="text-base font-extrabold leading-tight text-[#1C2B6B]">{event?.name}</h2>
+        <div className="flex items-start gap-2">
+          <h2 className="flex-1 text-base font-extrabold leading-tight text-[#1C2B6B]">{event?.name}</h2>
+          {dateRaw && (
+            <button
+              type="button"
+              title="Add to calendar"
+              onClick={() => addToCalendar(event?.name, dateRaw)}
+              className="shrink-0 flex h-7 w-7 items-center justify-center rounded-lg bg-[#f0f2fa] text-[#1C2B6B] hover:bg-[#e4e8f5] transition-colors mt-0.5"
+            >
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+                <line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/>
+                <line x1="3" y1="10" x2="21" y2="10"/>
+              </svg>
+            </button>
+          )}
+        </div>
         {date && <div className="mt-0.5 text-xs text-gray-400">{date}</div>}
       </div>
+
+      {/* Team briefing — full text, open by default */}
+      <TLInfoSection pkg={pkg} />
 
       {/* Personalized profile card — equipment with inline check-in buttons */}
       {isMatched && profile && (
@@ -1436,11 +1645,8 @@ export function TacticDetail({ onOpenCheckIn }) {
         );
       })()}
 
-      {/* TL Info — collapsible, above map */}
-      <TLInfoSection pkg={pkg} />
-
       {/* Weather briefing */}
-      <WeatherBriefing event={event} spots={mySpots.length > 0 ? mySpots : spots} />
+      <WeatherBriefing event={event} spots={mySpots.length > 0 ? mySpots : spots} gpxTracks={entry?.pkg?.tactic?.gpxTracks ?? []} />
 
       {/* Spots map — all spots + GPX tracks */}
       <SpotsMap

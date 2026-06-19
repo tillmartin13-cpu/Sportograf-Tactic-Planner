@@ -1,0 +1,407 @@
+EventId: 12571
+Spots: 66
+Total Images: 196855
+Time:	28.01.2024 06:36:29 to 28.01.2024 20:32:22
+Duration: 13:55:53
+
+(1) - Farmers Carry
+	CPARO8
+		Images:	7
+		Time:	28.01.2024 08:26:16 until 28.01.2024 08:29:09
+		Duration:	00:02:53
+		Location:	53.47618 -2.24872
+
+	DBKO5LS1
+		Images:	3761
+		Time:	28.01.2024 06:43:34 until 28.01.2024 20:09:10
+		Duration:	13:25:36
+		Location:	53.47618 -2.24872
+
+	DPARO2LS1
+		Images:	7785
+		Time:	28.01.2024 07:23:37 until 28.01.2024 20:15:30
+		Duration:	12:51:53
+		Location:	53.47618 -2.24872
+
+(2) - Finish
+	CDWO1
+		Images:	3280
+		Time:	28.01.2024 07:45:46 until 28.01.2024 14:18:44
+		Duration:	06:32:58
+		Location:	53.47618 -2.24872
+
+	CGUD6
+		Images:	479
+		Time:	28.01.2024 12:40:09 until 28.01.2024 13:10:20
+		Duration:	00:30:11
+		Location:	53.47618 -2.24872
+
+	CPARO7
+		Images:	11
+		Time:	28.01.2024 14:19:13 until 28.01.2024 14:19:55
+		Duration:	00:00:42
+		Location:	53.47618 -2.24872
+
+	DDWO1
+		Images:	3253
+		Time:	28.01.2024 14:20:45 until 28.01.2024 20:31:47
+		Duration:	06:11:02
+		Location:	53.47618 -2.24872
+
+	DGUD6
+		Images:	466
+		Time:	28.01.2024 17:12:27 until 28.01.2024 17:43:23
+		Duration:	00:30:56
+		Location:	53.47618 -2.24872
+
+	DGUD6LS1
+		Images:	2356
+		Time:	28.01.2024 06:37:26 until 28.01.2024 20:23:22
+		Duration:	13:45:56
+		Location:	53.47618 -2.24872
+
+	DJUW2LS1
+		Images:	2324
+		Time:	28.01.2024 06:41:39 until 28.01.2024 20:23:39
+		Duration:	13:42:00
+		Location:	53.47618 -2.24872
+
+	DPARO2
+		Images:	174
+		Time:	28.01.2024 19:20:33 until 28.01.2024 19:28:21
+		Duration:	00:07:48
+		Location:	53.47618 -2.24872
+
+(3) - Hero Wall
+	CWIN1
+		Images:	2346
+		Time:	28.01.2024 06:45:57 until 28.01.2024 14:18:09
+		Duration:	07:32:12
+		Location:	53.47618 -2.24872
+
+	DWIN1
+		Images:	2592
+		Time:	28.01.2024 14:19:52 until 28.01.2024 20:32:22
+		Duration:	06:12:30
+		Location:	53.47618 -2.24872
+
+(4) - Impressions / Pano
+	CBKO5
+		Images:	15
+		Time:	28.01.2024 06:52:19 until 28.01.2024 07:00:55
+		Duration:	00:08:36
+		Location:	53.47618 -2.24872
+
+	PANO1
+(5) - Rowing
+	CBKO3
+		Images:	744
+		Time:	28.01.2024 11:22:42 until 28.01.2024 11:46:48
+		Duration:	00:24:06
+		Location:	53.47618 -2.24872
+
+	CGUD4
+		Images:	1190
+		Time:	28.01.2024 11:22:05 until 28.01.2024 11:49:58
+		Duration:	00:27:53
+		Location:	53.47618 -2.24872
+
+	CMALV1
+		Images:	8544
+		Time:	28.01.2024 06:42:24 until 28.01.2024 14:09:14
+		Duration:	07:26:50
+		Location:	53.47618 -2.24872
+
+	COLH1
+		Images:	4338
+		Time:	28.01.2024 06:56:05 until 28.01.2024 14:02:45
+		Duration:	07:06:40
+		Location:	53.47618 -2.24872
+
+	CPARO4
+		Images:	10
+		Time:	28.01.2024 08:17:00 until 28.01.2024 08:19:35
+		Duration:	00:02:35
+		Location:	53.47618 -2.24872
+
+	DBKO3
+		Images:	663
+		Time:	28.01.2024 15:50:24 until 28.01.2024 16:16:44
+		Duration:	00:26:20
+		Location:	53.47618 -2.24872
+
+	DGUD4
+		Images:	1134
+		Time:	28.01.2024 15:51:54 until 28.01.2024 16:22:44
+		Duration:	00:30:50
+		Location:	53.47618 -2.24872
+
+	DJBT1
+		Images:	9353
+		Time:	28.01.2024 14:11:42 until 28.01.2024 19:59:03
+		Duration:	05:47:21
+		Location:	53.47618 -2.24872
+
+	DPAS1
+		Images:	5071
+		Time:	28.01.2024 14:10:22 until 28.01.2024 19:48:50
+		Duration:	05:38:28
+		Location:	53.47618 -2.24872
+
+(6) - Sandbag Lunges
+	CPARO5
+		Images:	1056
+		Time:	28.01.2024 08:03:07 until 28.01.2024 11:54:06
+		Duration:	03:50:59
+		Location:	53.47618 -2.24872
+
+	CPHA1
+		Images:	1910
+		Time:	28.01.2024 06:44:44 until 28.01.2024 14:06:25
+		Duration:	07:21:41
+		Location:	53.47618 -2.24872
+
+	CQVT1
+		Images:	5103
+		Time:	28.01.2024 06:48:48 until 28.01.2024 14:14:55
+		Duration:	07:26:07
+		Location:	53.47618 -2.24872
+
+	DBKO4
+		Images:	685
+		Time:	28.01.2024 16:28:38 until 28.01.2024 16:57:44
+		Duration:	00:29:06
+		Location:	53.47618 -2.24872
+
+	DGUD5
+		Images:	1047
+		Time:	28.01.2024 16:28:30 until 28.01.2024 17:01:54
+		Duration:	00:33:24
+		Location:	53.47618 -2.24872
+
+	DJUW1
+		Images:	7679
+		Time:	28.01.2024 14:15:20 until 28.01.2024 20:17:14
+		Duration:	06:01:54
+		Location:	53.47618 -2.24872
+
+	DOB1
+		Images:	4799
+		Time:	28.01.2024 14:05:20 until 28.01.2024 20:18:01
+		Duration:	06:12:41
+		Location:	53.47618 -2.24872
+
+(7) - SkiErg
+	CGHI1
+		Images:	2607
+		Time:	28.01.2024 06:50:54 until 28.01.2024 14:00:21
+		Duration:	07:09:27
+		Location:	53.47618 -2.24872
+
+	CGUD1
+		Images:	2460
+		Time:	28.01.2024 07:05:56 until 28.01.2024 09:39:37
+		Duration:	02:33:41
+		Location:	53.47618 -2.24872
+
+	CKU1
+		Images:	5889
+		Time:	28.01.2024 07:04:45 until 28.01.2024 13:59:24
+		Duration:	06:54:39
+		Location:	53.47618 -2.24872
+
+	COB1
+		Images:	7877
+		Time:	28.01.2024 06:36:29 until 28.01.2024 13:49:33
+		Duration:	07:13:04
+		Location:	53.47618 -2.24872
+
+	CPARO1
+		Images:	104
+		Time:	28.01.2024 07:38:02 until 28.01.2024 08:01:35
+		Duration:	00:23:33
+		Location:	53.47618 -2.24872
+
+	DBKO5
+		Images:	352
+		Time:	28.01.2024 14:05:12 until 28.01.2024 14:17:44
+		Duration:	00:12:32
+		Location:	53.47618 -2.24872
+
+	DGUD1
+		Images:	151
+		Time:	28.01.2024 14:06:37 until 28.01.2024 14:17:39
+		Duration:	00:11:02
+		Location:	53.47618 -2.24872
+
+	DKBH1
+		Images:	5459
+		Time:	28.01.2024 14:20:08 until 28.01.2024 18:59:13
+		Duration:	04:39:05
+		Location:	53.47618 -2.24872
+
+	DMALV1
+		Images:	3054
+		Time:	28.01.2024 14:15:30 until 28.01.2024 18:58:31
+		Duration:	04:43:01
+		Location:	53.47618 -2.24872
+
+	DQVT1
+		Images:	6038
+		Time:	28.01.2024 14:24:02 until 28.01.2024 18:59:36
+		Duration:	04:35:34
+		Location:	53.47618 -2.24872
+
+(8) - Sled Pull
+	CBKO2
+		Images:	678
+		Time:	28.01.2024 10:38:40 until 28.01.2024 11:11:21
+		Duration:	00:32:41
+		Location:	53.47618 -2.24872
+
+	CGUD3
+		Images:	811
+		Time:	28.01.2024 10:39:57 until 28.01.2024 11:11:09
+		Duration:	00:31:12
+		Location:	53.47618 -2.24872
+
+	CJBT1
+		Images:	5240
+		Time:	28.01.2024 06:42:42 until 28.01.2024 14:04:11
+		Duration:	07:21:29
+		Location:	53.47618 -2.24872
+
+	CPARO3
+		Images:	221
+		Time:	28.01.2024 08:06:58 until 28.01.2024 10:51:27
+		Duration:	02:44:29
+		Location:	53.47618 -2.24872
+
+	CPAS1
+		Images:	12861
+		Time:	28.01.2024 07:03:03 until 28.01.2024 14:03:51
+		Duration:	07:00:48
+		Location:	53.47618 -2.24872
+
+	DBKO2
+		Images:	1131
+		Time:	28.01.2024 15:09:59 until 28.01.2024 15:39:58
+		Duration:	00:29:59
+		Location:	53.47618 -2.24872
+
+	DGHI1
+		Images:	3319
+		Time:	28.01.2024 14:06:54 until 28.01.2024 19:23:09
+		Duration:	05:16:15
+		Location:	53.47618 -2.24872
+
+	DKU1
+		Images:	4687
+		Time:	28.01.2024 14:05:12 until 28.01.2024 19:25:18
+		Duration:	05:20:06
+		Location:	53.47618 -2.24872
+
+(9) - Sled Push
+	CALN1
+		Images:	6476
+		Time:	28.01.2024 07:13:07 until 28.01.2024 14:01:57
+		Duration:	06:48:50
+		Location:	53.47618 -2.24872
+
+	CBKO1
+		Images:	2357
+		Time:	28.01.2024 07:13:29 until 28.01.2024 10:31:06
+		Duration:	03:17:37
+		Location:	53.47618 -2.24872
+
+	CGO1
+		Images:	4422
+		Time:	28.01.2024 07:14:57 until 28.01.2024 13:53:13
+		Duration:	06:38:16
+		Location:	53.47618 -2.24872
+
+	CGUD2
+		Images:	554
+		Time:	28.01.2024 10:04:06 until 28.01.2024 10:31:57
+		Duration:	00:27:51
+		Location:	53.47618 -2.24872
+
+	CPARO2
+		Images:	387
+		Time:	28.01.2024 07:34:05 until 28.01.2024 14:11:51
+		Duration:	06:37:46
+		Location:	53.47618 -2.24872
+
+	DOLH1
+		Images:	1976
+		Time:	28.01.2024 14:14:09 until 28.01.2024 19:10:10
+		Duration:	04:56:01
+		Location:	53.47618 -2.24872
+
+	DPARO1
+		Images:	1565
+		Time:	28.01.2024 15:35:59 until 28.01.2024 17:34:16
+		Duration:	01:58:17
+		Location:	53.47618 -2.24872
+
+	DPHA1
+		Images:	1409
+		Time:	28.01.2024 14:14:04 until 28.01.2024 19:11:13
+		Duration:	04:57:09
+		Location:	53.47618 -2.24872
+
+(10) - Wall Balls
+	CBKO4
+		Images:	1265
+		Time:	28.01.2024 11:59:23 until 28.01.2024 12:29:35
+		Duration:	00:30:12
+		Location:	53.47618 -2.24872
+
+	CGUD5
+		Images:	1181
+		Time:	28.01.2024 11:58:42 until 28.01.2024 12:30:26
+		Duration:	00:31:44
+		Location:	53.47618 -2.24872
+
+	CJUW1
+		Images:	13537
+		Time:	28.01.2024 06:57:23 until 28.01.2024 14:25:04
+		Duration:	07:27:41
+		Location:	53.47618 -2.24872
+
+	CKBH1
+		Images:	5088
+		Time:	28.01.2024 06:59:04 until 28.01.2024 14:08:45
+		Duration:	07:09:41
+		Location:	53.47618 -2.24872
+
+	CPARO6
+		Images:	189
+		Time:	28.01.2024 08:10:24 until 28.01.2024 10:17:19
+		Duration:	02:06:55
+		Location:	53.47618 -2.24872
+
+	DALN1
+		Images:	3992
+		Time:	28.01.2024 14:09:13 until 28.01.2024 20:28:29
+		Duration:	06:19:16
+		Location:	53.47618 -2.24872
+
+	DBKO1
+		Images:	1003
+		Time:	28.01.2024 14:30:11 until 28.01.2024 14:59:10
+		Duration:	00:28:59
+		Location:	53.47618 -2.24872
+
+	DGO1
+		Images:	5566
+		Time:	28.01.2024 14:10:22 until 28.01.2024 20:12:51
+		Duration:	06:02:29
+		Location:	53.47618 -2.24872
+
+	DGUD2
+		Images:	774
+		Time:	28.01.2024 14:37:51 until 28.01.2024 19:00:56
+		Duration:	04:23:05
+		Location:	53.47618 -2.24872
+

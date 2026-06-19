@@ -1,0 +1,389 @@
+EventId: 12575
+Spots: 63
+Total Images: 244417
+Time:	31.12.2016 23:00:04 to 03.03.2024 20:46:04
+Duration: 2618.21:46:00
+
+(1) - Farmers Carry
+	DBKO2LS1
+		Images:	3810
+		Time:	03.03.2024 06:23:52 until 03.03.2024 19:57:25
+		Duration:	13:33:33
+		Location:	55.86029 -4.29226
+
+(2) - Finish
+	CLOT6
+		Images:	1318
+		Time:	03.03.2024 12:39:26 until 03.03.2024 13:09:47
+		Duration:	00:30:21
+		Location:	55.86029 -4.29226
+
+	CQVT1
+		Images:	5859
+		Time:	03.03.2024 07:01:44 until 03.03.2024 14:28:14
+		Duration:	07:26:30
+		Location:	55.86029 -4.29226
+
+	DJUW6LS1
+		Images:	3699
+		Time:	03.03.2024 06:12:27 until 03.03.2024 19:08:09
+		Duration:	12:55:42
+		Location:	55.86029 -4.29226
+
+	DLOT5
+		Images:	839
+		Time:	03.03.2024 17:11:10 until 03.03.2024 17:40:36
+		Duration:	00:29:26
+		Location:	55.86029 -4.29226
+
+	DLOT5LS1
+		Images:	3747
+		Time:	03.03.2024 06:15:53 until 03.03.2024 19:11:58
+		Duration:	12:56:05
+		Location:	55.86029 -4.29226
+
+	DQVT1
+		Images:	4578
+		Time:	03.03.2024 14:29:12 until 03.03.2024 20:42:25
+		Duration:	06:13:13
+		Location:	55.86029 -4.29226
+
+(3) - Hero Wall
+	CJBT1
+		Images:	3855
+		Time:	03.03.2024 08:06:47 until 03.03.2024 14:31:46
+		Duration:	06:24:59
+		Location:	55.86029 -4.29226
+
+	DJBT1
+		Images:	2780
+		Time:	03.03.2024 14:33:11 until 03.03.2024 20:46:04
+		Duration:	06:12:53
+		Location:	55.86029 -4.29226
+
+(4) - Impressions / Pano
+	COOT2
+		Images:	40
+		Time:	03.03.2024 06:21:44 until 03.03.2024 06:58:56
+		Duration:	00:37:12
+		Location:	55.86029 -4.29226
+
+	CRTA2
+		Images:	255
+		Time:	03.03.2024 06:32:50 until 03.03.2024 07:36:14
+		Duration:	01:03:24
+		Location:	55.86029 -4.29226
+
+	PANO1
+(5) - Rowing
+	CBKO3
+		Images:	565
+		Time:	03.03.2024 10:32:21 until 03.03.2024 10:37:22
+		Duration:	00:05:01
+		Location:	55.86029 -4.29226
+
+	CJUW4
+		Images:	1783
+		Time:	03.03.2024 06:56:10 until 03.03.2024 11:53:45
+		Duration:	04:57:35
+		Location:	55.86029 -4.29226
+
+	CLOT4
+		Images:	2043
+		Time:	03.03.2024 11:19:21 until 03.03.2024 11:53:58
+		Duration:	00:34:37
+		Location:	55.86029 -4.29226
+
+	CMKH1
+		Images:	6363
+		Time:	31.12.2016 23:00:04 until 03.03.2024 14:00:55
+		Duration:	2618.15:00:51
+		Location:	55.86029 -4.29226
+
+	CRTA1
+		Images:	9920
+		Time:	03.03.2024 07:38:11 until 03.03.2024 14:23:11
+		Duration:	06:45:00
+		Location:	55.86029 -4.29226
+
+	DJBRE1
+		Images:	3999
+		Time:	03.03.2024 14:12:35 until 03.03.2024 19:49:17
+		Duration:	05:36:42
+		Location:	55.86029 -4.29226
+
+	DJUW8
+		Images:	1837
+		Time:	03.03.2024 15:49:00 until 03.03.2024 16:20:01
+		Duration:	00:31:01
+		Location:	55.86029 -4.29226
+
+	DLOT2
+		Images:	1640
+		Time:	03.03.2024 15:49:10 until 03.03.2024 16:21:33
+		Duration:	00:32:23
+		Location:	55.86029 -4.29226
+
+	DPAS1
+		Images:	3295
+		Time:	03.03.2024 14:26:05 until 03.03.2024 19:41:17
+		Duration:	05:15:12
+		Location:	55.86029 -4.29226
+
+(6) - Sandbag Lunges
+	CBKO1
+		Images:	2485
+		Time:	03.03.2024 11:02:04 until 03.03.2024 11:59:05
+		Duration:	00:57:01
+		Location:	55.86029 -4.29226
+
+	CJBRE1
+		Images:	6951
+		Time:	03.03.2024 06:29:21 until 03.03.2024 14:07:44
+		Duration:	07:38:23
+		Location:	55.86029 -4.29226
+
+	CPAS1
+		Images:	4995
+		Time:	03.03.2024 07:03:35 until 03.03.2024 14:22:45
+		Duration:	07:19:10
+		Location:	55.86029 -4.29226
+
+	DBF1
+		Images:	5361
+		Time:	03.03.2024 14:25:59 until 03.03.2024 20:16:37
+		Duration:	05:50:38
+		Location:	55.86029 -4.29226
+
+	DBKO3LS1
+		Images:	9642
+		Time:	03.03.2024 06:12:31 until 03.03.2024 20:13:27
+		Duration:	14:00:56
+		Location:	55.86029 -4.29226
+
+	DJUW3
+		Images:	1028
+		Time:	03.03.2024 16:28:25 until 03.03.2024 16:57:58
+		Duration:	00:29:33
+		Location:	55.86029 -4.29226
+
+	DKBH1
+		Images:	2677
+		Time:	03.03.2024 14:25:21 until 03.03.2024 20:19:55
+		Duration:	05:54:34
+		Location:	55.86029 -4.29226
+
+	DLOT3
+		Images:	979
+		Time:	03.03.2024 16:30:27 until 03.03.2024 17:00:01
+		Duration:	00:29:34
+		Location:	55.86029 -4.29226
+
+(7) - SkiErg
+	CADG1
+		Images:	7915
+		Time:	03.03.2024 06:17:10 until 03.03.2024 13:28:52
+		Duration:	07:11:42
+		Location:	55.86029 -4.29226
+
+	CCMS1
+		Images:	7356
+		Time:	03.03.2024 06:19:02 until 03.03.2024 14:00:41
+		Duration:	07:41:39
+		Location:	55.86029 -4.29226
+
+	CIG1
+		Images:	15196
+		Time:	03.03.2024 06:20:34 until 03.03.2024 14:01:02
+		Duration:	07:40:28
+		Location:	55.86029 -4.29226
+
+	CLOT1
+		Images:	5363
+		Time:	03.03.2024 07:05:37 until 03.03.2024 09:40:13
+		Duration:	02:34:36
+		Location:	55.86029 -4.29226
+
+	DADG2
+		Images:	615
+		Time:	03.03.2024 13:28:52 until 03.03.2024 13:59:13
+		Duration:	00:30:21
+		Location:	55.86029 -4.29226
+
+	DAH1
+		Images:	2876
+		Time:	03.03.2024 14:36:03 until 03.03.2024 18:47:53
+		Duration:	04:11:50
+		Location:	55.86029 -4.29226
+
+	DJUW7
+		Images:	224
+		Time:	03.03.2024 14:05:11 until 03.03.2024 14:07:14
+		Duration:	00:02:03
+		Location:	55.86029 -4.29226
+
+	DLOT6
+		Images:	190
+		Time:	03.03.2024 14:06:26 until 03.03.2024 14:10:35
+		Duration:	00:04:09
+		Location:	55.86029 -4.29226
+
+	DRTA1
+		Images:	5226
+		Time:	03.03.2024 14:34:59 until 03.03.2024 18:47:03
+		Duration:	04:12:04
+		Location:	55.86029 -4.29226
+
+	DWIN1
+		Images:	4383
+		Time:	03.03.2024 15:05:44 until 03.03.2024 18:48:14
+		Duration:	03:42:30
+		Location:	55.86029 -4.29226
+
+(8) - Sled Pull
+	CBF1
+		Images:	11884
+		Time:	03.03.2024 07:02:06 until 03.03.2024 14:18:45
+		Duration:	07:16:39
+		Location:	55.86029 -4.29226
+
+	CJUW3
+		Images:	1415
+		Time:	03.03.2024 10:40:25 until 03.03.2024 11:10:33
+		Duration:	00:30:08
+		Location:	55.86029 -4.29226
+
+	CKBH1
+		Images:	18100
+		Time:	03.03.2024 07:02:49 until 03.03.2024 14:17:47
+		Duration:	07:14:58
+		Location:	55.86029 -4.29226
+
+	CLOT3
+		Images:	1275
+		Time:	03.03.2024 10:40:38 until 03.03.2024 11:11:21
+		Duration:	00:30:43
+		Location:	55.86029 -4.29226
+
+	DJUW1
+		Images:	1245
+		Time:	03.03.2024 15:11:28 until 03.03.2024 15:38:37
+		Duration:	00:27:09
+		Location:	55.86029 -4.29226
+
+	DLOT1
+		Images:	867
+		Time:	03.03.2024 15:10:55 until 03.03.2024 15:38:06
+		Duration:	00:27:11
+		Location:	55.86029 -4.29226
+
+	DOOT1
+		Images:	2383
+		Time:	03.03.2024 14:25:11 until 03.03.2024 19:14:23
+		Duration:	04:49:12
+		Location:	55.86029 -4.29226
+
+	DYCAN1
+		Images:	4223
+		Time:	03.03.2024 14:37:07 until 03.03.2024 19:13:37
+		Duration:	04:36:30
+		Location:	55.86029 -4.29226
+
+(9) - Sled Push
+	CAH1
+		Images:	9884
+		Time:	03.03.2024 06:36:07 until 03.03.2024 14:06:18
+		Duration:	07:30:11
+		Location:	55.86029 -4.29226
+
+	CJUW1
+		Images:	3776
+		Time:	03.03.2024 07:04:43 until 03.03.2024 10:30:59
+		Duration:	03:26:16
+		Location:	55.86029 -4.29226
+
+	CLOT2
+		Images:	1634
+		Time:	03.03.2024 09:59:06 until 03.03.2024 10:30:50
+		Duration:	00:31:44
+		Location:	55.86029 -4.29226
+
+	CWIN1
+		Images:	8184
+		Time:	03.03.2024 06:51:12 until 03.03.2024 14:03:21
+		Duration:	07:12:09
+		Location:	55.86029 -4.29226
+
+	DBKO1
+		Images:	2632
+		Time:	03.03.2024 15:32:20 until 03.03.2024 16:27:58
+		Duration:	00:55:38
+		Location:	55.86029 -4.29226
+
+	DCMS1
+		Images:	2763
+		Time:	03.03.2024 14:08:29 until 03.03.2024 18:56:27
+		Duration:	04:47:58
+		Location:	55.86029 -4.29226
+
+	DJUW9
+		Images:	648
+		Time:	03.03.2024 18:35:28 until 03.03.2024 19:02:01
+		Duration:	00:26:33
+		Location:	55.86029 -4.29226
+
+	DMKH1
+		Images:	2092
+		Time:	03.03.2024 05:09:57 until 03.03.2024 19:02:09
+		Duration:	13:52:12
+		Location:	55.86029 -4.29226
+
+(10) - Wall Balls
+	CJUW5
+		Images:	1046
+		Time:	03.03.2024 12:01:04 until 03.03.2024 12:29:09
+		Duration:	00:28:05
+		Location:	55.86029 -4.29226
+
+	CLOT5
+		Images:	903
+		Time:	03.03.2024 12:00:55 until 03.03.2024 12:28:50
+		Duration:	00:27:55
+		Location:	55.86029 -4.29226
+
+	COOT1
+		Images:	2306
+		Time:	03.03.2024 07:51:07 until 03.03.2024 14:09:27
+		Duration:	06:18:20
+		Location:	55.86029 -4.29226
+
+	CYCAN1
+		Images:	5401
+		Time:	03.03.2024 06:24:40 until 03.03.2024 14:34:52
+		Duration:	08:10:12
+		Location:	55.86029 -4.29226
+
+	DADG1
+		Images:	5590
+		Time:	03.03.2024 14:09:50 until 03.03.2024 20:35:13
+		Duration:	06:25:23
+		Location:	55.86029 -4.29226
+
+	DIG1
+		Images:	8457
+		Time:	03.03.2024 14:09:22 until 03.03.2024 20:18:55
+		Duration:	06:09:33
+		Location:	55.86029 -4.29226
+
+	DJUW4
+		Images:	1339
+		Time:	03.03.2024 14:30:01 until 03.03.2024 15:01:15
+		Duration:	00:31:14
+		Location:	55.86029 -4.29226
+
+	DLOT4
+		Images:	683
+		Time:	03.03.2024 14:29:59 until 03.03.2024 15:02:50
+		Duration:	00:32:51
+		Location:	55.86029 -4.29226
+

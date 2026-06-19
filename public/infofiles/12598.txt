@@ -1,0 +1,283 @@
+EventId: 12598
+Spots: 41
+Total Images: 367202
+Time:	01.01.0001 23:00:00 to 04.12.2023 06:41:45
+Duration: 738856.07:41:45
+
+(1) - 0.0 km
+	OAB1
+		Images:	1183
+		Time:	03.12.2023 09:11:51 until 03.12.2023 13:49:44
+		Duration:	04:37:53
+		Location:	NULL NULL
+
+(2) - 0.0 km ^trigger finish lift south
+	ETRIG4
+		Images:	13845
+		Time:	02.12.2023 12:17:41 until 03.12.2023 15:12:22
+		Duration:	1.02:54:41
+		Location:	NULL NULL
+
+(3) - 0.0 km 835410 Trigger MSC 5
+	ETRIG3
+		Images:	25670
+		Time:	03.12.2023 07:08:46 until 03.12.2023 11:47:22
+		Duration:	04:38:36
+		Location:	NULL NULL
+
+(4) - 0.0 km 853393 Toby Finish
+	OTOBY2
+		Images:	15063
+		Time:	31.12.2006 19:00:23 until 03.12.2023 14:37:45
+		Duration:	6180.19:37:22
+		Location:	NULL NULL
+
+(5) - 0.0 km 853395 trigger ground finish
+	ETRIG2
+		Images:	6711
+		Time:	03.12.2023 11:11:46 until 03.12.2023 13:09:39
+		Duration:	01:57:53
+		Location:	NULL NULL
+
+(6) - 0.0 km 853399 MSC 1 Desmond Tan
+	EDESM1
+		Images:	3944
+		Time:	01.01.0001 23:00:00 until 03.12.2023 06:46:45
+		Duration:	738855.07:46:45
+		Location:	NULL NULL
+
+(7) - 0.0 km 853400 MSC 1 Hal Ogata
+	EHAL1
+		Images:	3012
+		Time:	01.01.0001 23:00:00 until 03.12.2023 06:47:45
+		Duration:	738855.07:47:45
+		Location:	NULL NULL
+
+(8) - 0.0 km 853401 MSC 2 Phillip Reyes
+	OPREY1
+		Images:	8484
+		Time:	03.12.2023 06:18:15 until 03.12.2023 07:52:31
+		Duration:	01:34:16
+		Location:	NULL NULL
+
+(9) - 0.0 km 853402 msc 2 Chris Winterfeldt
+	OCW1
+		Images:	5775
+		Time:	03.12.2023 14:22:49 until 03.12.2023 15:53:11
+		Duration:	01:30:22
+		Location:	NULL NULL
+
+(10) - 0.0 km 853403 msc 3  yiu nien wang msc 3
+	OYNW1
+		Images:	9055
+		Time:	03.12.2023 06:30:26 until 03.12.2023 08:14:19
+		Duration:	01:43:53
+		Location:	NULL NULL
+
+(11) - 0.0 km 853404 MSC 3 Harry Lopez
+	HARRY1
+		Images:	5753
+		Time:	03.12.2023 08:11:51 until 03.12.2023 09:41:56
+		Duration:	01:30:05
+		Location:	NULL NULL
+
+(12) - 0.0 km 853406 MSC 4 Stephen Leonardi
+	OSTEP1
+		Images:	6525
+		Time:	03.12.2023 07:15:53 until 03.12.2023 10:22:38
+		Duration:	03:06:45
+		Location:	NULL NULL
+
+(13) - 0.0 km 853407 MSC 4 Laura Gonsalve
+	OLAUR1
+		Images:	10198
+		Time:	03.12.2023 06:32:11 until 03.12.2023 10:29:01
+		Duration:	03:56:50
+		Location:	NULL NULL
+
+(14) - 0.0 km 853408 MSC 5 Phillip Welty
+	EPW1
+		Images:	54410
+		Time:	03.12.2023 08:43:48 until 03.12.2023 12:56:29
+		Duration:	04:12:41
+		Location:	NULL NULL
+
+(15) - 0.0 km 853409 Alex Diaz MSC 5
+	EALEX1
+		Images:	14456
+		Time:	03.12.2023 09:01:15 until 03.12.2023 12:41:51
+		Duration:	03:40:36
+		Location:	NULL NULL
+
+(16) - 0.0 km 853411 MSC 6  Phillip Reyes
+	EPR1
+		Images:	14868
+		Time:	03.12.2023 08:39:30 until 03.12.2023 13:33:41
+		Duration:	04:54:11
+		Location:	NULL NULL
+
+(17) - 0.0 km 853412 MSC 6 Chris Winiterfeldt
+	OCWIN1
+		Images:	11619
+		Time:	03.12.2023 16:50:51 until 03.12.2023 21:03:36
+		Duration:	04:12:45
+		Location:	NULL NULL
+
+(18) - 0.0 km 853414 bill mahon medals
+	EBILL1
+		Images:	3156
+		Time:	02.12.2023 20:44:41 until 03.12.2023 02:21:49
+		Duration:	05:37:08
+		Location:	NULL NULL
+
+(19) - 0.0 km 853414 Megyn Barroner Medals
+	EMEG1
+		Images:	3097
+		Time:	03.12.2023 08:38:24 until 03.12.2023 12:59:11
+		Duration:	04:20:47
+		Location:	NULL NULL
+
+(20) - 0.0 km 853416 anthony clarke medlas
+	EANTH1
+		Images:	3736
+		Time:	03.12.2023 09:18:07 until 03.12.2023 13:57:00
+		Duration:	04:38:53
+		Location:	NULL NULL
+
+(21) - 0.0 km 853418 jocelynn jones ofp
+	EJOCE1
+		Images:	773
+		Time:	04.12.2023 01:58:52 until 04.12.2023 06:41:45
+		Duration:	04:42:53
+		Location:	NULL NULL
+
+(22) - 0.0 km 853419 ofp jacob borja
+	OJB1
+		Images:	1398
+		Time:	03.12.2023 09:10:08 until 03.12.2023 13:54:45
+		Duration:	04:44:37
+		Location:	NULL NULL
+
+(23) - 0.0 km 853421 vijen naicker ofp
+	EVIJE1
+		Images:	883
+		Time:	03.12.2023 08:05:46 until 03.12.2023 12:57:06
+		Duration:	04:51:20
+		Location:	NULL NULL
+
+(24) - 0.0 km 853422 Toby Start
+	OTOBY1
+		Images:	392
+		Time:	03.12.2023 06:01:53 until 03.12.2023 07:25:53
+		Duration:	01:24:00
+		Location:	NULL NULL
+
+(25) - 0.0 km 853424 PreFIN Steve Handwerker
+	ESHAN1
+		Images:	10478
+		Time:	03.12.2023 12:02:09 until 03.12.2023 14:47:01
+		Duration:	02:44:52
+		Location:	NULL NULL
+
+(26) - 0.0 km 853425 PreFIN Desmond Tan
+	ODT1
+		Images:	20011
+		Time:	03.12.2023 08:31:20 until 03.12.2023 13:07:14
+		Duration:	04:35:54
+		Location:	NULL NULL
+
+(27) - 0.0 km 853426 PreFIN-Hal Ogata
+	OHO1
+		Images:	20358
+		Time:	03.12.2023 08:09:55 until 03.12.2023 12:55:04
+		Duration:	04:45:09
+		Location:	NULL NULL
+
+(28) - 0.0 km 853427 PreFIN Yiu Nien Wang
+	OYNW2
+		Images:	9328
+		Time:	03.12.2023 10:08:04 until 03.12.2023 13:22:18
+		Duration:	03:14:14
+		Location:	NULL NULL
+
+(29) - 0.0 km 857392 MSC 1 trigger
+	ETRIG1
+		Images:	1895
+		Time:	03.12.2023 09:51:20 until 03.12.2023 10:50:31
+		Duration:	00:59:11
+		Location:	NULL NULL
+
+(30) - 0.0 km 857393 trigger msc 4
+	OTRIG1
+		Images:	8980
+		Time:	03.12.2023 10:30:23 until 03.12.2023 13:00:31
+		Duration:	02:30:08
+		Location:	NULL NULL
+
+(31) - 0.0 km 857394 msc 4 Elle Reyes
+	OELLE1
+		Images:	7315
+		Time:	03.12.2023 06:38:18 until 03.12.2023 09:03:17
+		Duration:	02:24:59
+		Location:	NULL NULL
+
+(32) - 0.0 km 857395 Matthew Nantze MSC 4
+	OMATT1
+		Images:	2104
+		Time:	03.12.2023 06:49:04 until 03.12.2023 09:02:24
+		Duration:	02:13:20
+		Location:	NULL NULL
+
+(33) - 0.0 km 857396 Jonathan Johnson MSC 6
+	OJOHN1
+		Images:	14419
+		Time:	03.12.2023 08:52:53 until 03.12.2023 12:39:53
+		Duration:	03:47:00
+		Location:	NULL NULL
+
+(34) - 0.0 km FIN GROUND Jonathan Johnson
+	EJOHN1
+		Images:	3543
+		Time:	03.12.2023 12:42:42 until 03.12.2023 14:25:15
+		Duration:	01:42:33
+		Location:	NULL NULL
+
+(35) - 0.0 km FIN Trigger North side
+	OTRIG4
+		Images:	1922
+		Time:	03.12.2023 11:46:16 until 03.12.2023 12:57:54
+		Duration:	01:11:38
+		Location:	NULL NULL
+
+(36) - 0.0 km Gustavo FINISh 853394
+	GUST1
+		Images:	6884
+		Time:	03.12.2023 12:10:45 until 03.12.2023 17:14:12
+		Duration:	05:03:27
+		Location:	NULL NULL
+
+(37) - 0.0 km trigger left prefin
+	OTRIG2
+		Images:	15595
+		Time:	03.12.2023 12:06:52 until 03.12.2023 16:54:06
+		Duration:	04:47:14
+		Location:	NULL NULL
+
+(38) - 0.0 km trigger msc 2 857393
+	OTRIG3
+		Images:	4443
+		Time:	03.12.2023 06:09:04 until 03.12.2023 07:49:35
+		Duration:	01:40:31
+		Location:	NULL NULL
+
+(39) - 0.0 km trigger prefinish right
+	ETRIG5
+		Images:	15921
+		Time:	03.12.2023 12:04:16 until 03.12.2023 16:57:05
+		Duration:	04:52:49
+		Location:	NULL NULL
+
+(40) - Impressions / Pano
+	PANO1
+(41) - none
+	OTRIG5

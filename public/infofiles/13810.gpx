@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "45.56654" lon = "5.92281"><name>LTU1</name><desc>Start
+Images:4048
+First:02.08.2025 06:41:35
+Last:02.08.2025 09:15:08
+Duration:02:33:33
+</desc></wpt>
+<wpt lat = "45.56652" lon = "5.92282"><name>AMU1</name><desc>Start
+Images:290
+First:02.08.2025 06:26:46
+Last:02.08.2025 08:03:04
+Duration:01:36:18
+</desc></wpt>
+<wpt lat = "45.56661" lon = "5.92299"><name>CC1</name><desc>Start
+Images:4438
+First:02.08.2025 06:36:36
+Last:02.08.2025 07:31:49
+Duration:00:55:13
+</desc></wpt>
+<wpt lat = "45.57794" lon = "6.15038"><name>JTF1</name><desc>50,2 km
+Images:7747
+First:01.01.0001 23:00:00
+Last:02.08.2025 10:55:41
+Duration:739463.11:55:41
+</desc></wpt>
+<wpt lat = "45.57794" lon = "6.15038"><name>OLB1</name><desc>50,2 km
+Images:9298
+First:02.08.2025 06:43:58
+Last:02.08.2025 14:54:47
+Duration:08:10:49
+</desc></wpt>
+<wpt lat = "45.36617" lon = "6.29929"><name>CC2</name><desc>96,5 km
+Images:17952
+First:02.08.2025 09:14:57
+Last:02.08.2025 13:32:16
+Duration:04:17:19
+</desc></wpt>
+<wpt lat = "45.36617" lon = "6.29929"><name>LTU2</name><desc>96,5 km
+Images:12012
+First:02.08.2025 09:16:55
+Last:02.08.2025 13:33:06
+Duration:04:16:11
+</desc></wpt>
+<wpt lat = "45.41256" lon = "6.33983"><name>DART1</name><desc>99,0 km
+Images:15767
+First:02.08.2025 09:13:29
+Last:02.08.2025 14:42:46
+Duration:05:29:17
+</desc></wpt>
+<wpt lat = "45.41711" lon = "6.34922"><name>AMU2</name><desc>110,8 km
+Images:9115
+First:02.08.2025 09:44:56
+Last:02.08.2025 15:25:47
+Duration:05:40:51
+</desc></wpt>
+<wpt lat = "45.41923" lon = "6.35540"><name>TE1</name><desc>111,0 km
+Images:14915
+First:01.08.2025 22:21:59
+Last:02.08.2025 15:00:57
+Duration:16:38:58
+</desc></wpt>
+<wpt lat = "45.41923" lon = "6.35540"><name>TE1LS2</name><desc>111,0 km
+Images:6072
+First:01.08.2025 22:17:10
+Last:02.08.2025 15:02:20
+Duration:16:45:10
+</desc></wpt>
+<wpt lat = "45.41923" lon = "6.35540"><name>TE1LS1</name><desc>111,0 km
+Images:6033
+First:01.08.2025 22:20:56
+Last:02.08.2025 14:55:28
+Duration:16:34:32
+</desc></wpt>
+<wpt lat = "45.41963" lon = "6.35359"><name>HS1</name><desc>111,4 km
+Images:5757
+First:02.08.2025 10:20:30
+Last:02.08.2025 15:23:11
+Duration:05:02:41
+</desc></wpt>
+<wpt lat = "45.41963" lon = "6.35359"><name>HS1LS2</name><desc>111,4 km
+Images:8129
+First:02.08.2025 10:03:53
+Last:02.08.2025 14:59:39
+Duration:04:55:46
+</desc></wpt>
+<wpt lat = "45.41963" lon = "6.35359"><name>HS1LS1</name><desc>111,4 km
+Images:8126
+First:02.08.2025 10:04:29
+Last:02.08.2025 15:00:15
+Duration:04:55:46
+</desc></wpt>
+<wpt lat = "45.42342" lon = "6.36274"><name>MAPP1</name><desc>112,7 km
+Images:4120
+First:01.08.2025 22:07:43
+Last:02.08.2025 15:06:39
+Duration:16:58:56
+</desc></wpt>
+<wpt lat = "45.42342" lon = "6.36274"><name>MAPP1LS1</name><desc>112,7 km
+Images:1155
+First:02.08.2025 14:30:22
+Last:02.08.2025 15:11:27
+Duration:00:41:05
+</desc></wpt>
+<wpt lat = "45.42496" lon = "6.36476"><name>SEI1</name><desc>113,5 km
+Images:8181
+First:02.08.2025 10:00:03
+Last:02.08.2025 15:32:52
+Duration:05:32:49
+</desc></wpt>
+<wpt lat = "45.42471" lon = "6.36777"><name>BA1</name><desc>114,0 km
+Images:12369
+First:01.08.2025 22:06:55
+Last:02.08.2025 15:18:21
+Duration:17:11:26
+</desc></wpt>
+<wpt lat = "45.42500" lon = "6.37046"><name>ARF1</name><desc>114,1 km
+Images:9893
+First:02.08.2025 10:06:28
+Last:02.08.2025 15:35:54
+Duration:05:29:26
+</desc></wpt>
+<wpt lat = "45.42525" lon = "6.37181"><name>ISA1</name><desc>114,2 km
+Images:3304
+First:02.08.2025 10:53:21
+Last:02.08.2025 15:23:40
+Duration:04:30:19
+</desc></wpt>
+<wpt lat = "45.42525" lon = "6.37181"><name>ISA1LS2</name><desc>114,2 km
+Images:4553
+First:02.08.2025 10:12:24
+Last:02.08.2025 15:23:28
+Duration:05:11:04
+</desc></wpt>
+<wpt lat = "45.42525" lon = "6.37181"><name>ISA1LS1</name><desc>114,2 km
+Images:2763
+First:02.08.2025 10:22:35
+Last:02.08.2025 14:14:11
+Duration:03:51:36
+</desc></wpt>
+<wpt lat = "45.42583" lon = "6.37416"><name>CVG1</name><desc>114,5 km
+Images:11615
+First:02.08.2025 10:11:07
+Last:02.08.2025 15:20:25
+Duration:05:09:18
+</desc></wpt>
+<wpt lat = "45.42617" lon = "6.37370"><name>NBI1</name><desc>114,5 km
+Images:10702
+First:02.08.2025 10:11:08
+Last:02.08.2025 15:40:14
+Duration:05:29:06
+</desc></wpt>
+<wpt lat = "45.42628" lon = "6.37030"><name>LAPO1</name><desc>114,8 km
+Images:6655
+First:02.08.2025 10:12:34
+Last:02.08.2025 15:24:47
+Duration:05:12:13
+</desc></wpt>
+<wpt lat = "45.43051" lon = "6.36238"><name>EB1</name><desc>116,0 km
+Images:12723
+First:02.08.2025 10:31:16
+Last:02.08.2025 15:32:09
+Duration:05:00:53
+</desc></wpt>
+<wpt lat = "45.43051" lon = "6.36238"><name>EB1LS1</name><desc>116,0 km
+Images:8905
+First:02.08.2025 10:41:20
+Last:02.08.2025 15:30:22
+Duration:04:49:02
+</desc></wpt>
+<wpt lat = "45.43571" lon = "6.37554"><name>GAT1</name><desc>Finish
+Images:6760
+First:02.08.2025 10:46:07
+Last:02.08.2025 15:30:01
+Duration:04:43:54
+</desc></wpt>
+<wpt lat = "45.43571" lon = "6.37554"><name>IVB1</name><desc>Finish
+Images:4231
+First:02.08.2025 10:50:25
+Last:02.08.2025 15:29:23
+Duration:04:38:58
+</desc></wpt>
+</gpx>

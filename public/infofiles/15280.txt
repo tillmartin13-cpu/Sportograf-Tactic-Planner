@@ -1,0 +1,128 @@
+EventId: 15280
+Spots: 20
+Total Images: 31748
+Time:	09.05.2025 19:22:43 to 10.05.2025 15:26:50
+Duration: 20:04:07
+
+(1) - Obstacle 1
+	TSOC1
+		Images:	1884
+		Time:	10.05.2025 07:33:54 until 10.05.2025 12:03:38
+		Duration:	04:29:44
+		Location:	-27.49324 153.01208
+
+(2) - Obstacle 2
+	TSOC2
+		Images:	773
+		Time:	10.05.2025 07:40:22 until 10.05.2025 13:49:00
+		Duration:	06:08:38
+		Location:	-27.49324 153.01208
+
+	TSOC6LS1
+		Images:	8266
+		Time:	09.05.2025 19:22:43 until 10.05.2025 14:51:37
+		Duration:	19:28:54
+		Location:	-27.49324 153.01208
+
+	BSZ2
+		Images:	1125
+		Time:	10.05.2025 09:31:49 until 10.05.2025 14:34:03
+		Duration:	05:02:14
+		Location:	-27.49324 153.01208
+
+	AKC1
+		Images:	643
+		Time:	10.05.2025 06:38:43 until 10.05.2025 09:30:42
+		Duration:	02:51:59
+		Location:	-27.49324 153.01208
+
+	AMI2
+		Images:	817
+		Time:	10.05.2025 10:39:11 until 10.05.2025 14:19:26
+		Duration:	03:40:15
+		Location:	-27.49324 153.01208
+
+	AMI3
+		Images:	53
+		Time:	10.05.2025 09:51:25 until 10.05.2025 10:07:57
+		Duration:	00:16:32
+		Location:	-27.49324 153.01208
+
+(3) - Obstacle 3
+	TSOC3
+		Images:	168
+		Time:	10.05.2025 06:57:06 until 10.05.2025 07:32:28
+		Duration:	00:35:22
+		Location:	-27.49324 153.01208
+
+	TSOC7LS1
+		Images:	11290
+		Time:	09.05.2025 19:27:05 until 10.05.2025 14:42:16
+		Duration:	19:15:11
+		Location:	-27.49324 153.01208
+
+	BSZ1
+		Images:	1788
+		Time:	10.05.2025 06:33:28 until 10.05.2025 13:49:47
+		Duration:	07:16:19
+		Location:	-27.49324 153.01208
+
+	BSZ3
+		Images:	229
+		Time:	10.05.2025 12:55:06 until 10.05.2025 13:23:23
+		Duration:	00:28:17
+		Location:	-27.49324 153.01208
+
+	AKC2
+		Images:	1701
+		Time:	10.05.2025 09:34:17 until 10.05.2025 14:41:46
+		Duration:	05:07:29
+		Location:	-27.49324 153.01208
+
+	AMI4
+		Images:	1678
+		Time:	10.05.2025 06:34:06 until 10.05.2025 10:37:06
+		Duration:	04:03:00
+		Location:	-27.49324 153.01208
+
+(4) - Obstacle 4
+	TSOC4
+		Images:	8
+		Time:	10.05.2025 14:34:11 until 10.05.2025 14:35:33
+		Duration:	00:01:22
+		Location:	-27.49324 153.01208
+
+	AKC3
+		Images:	68
+		Time:	10.05.2025 14:45:52 until 10.05.2025 15:18:38
+		Duration:	00:32:46
+		Location:	-27.49324 153.01208
+
+(5) - Obstacle 0
+	TSOC5
+		Images:	122
+		Time:	10.05.2025 12:08:23 until 10.05.2025 14:32:21
+		Duration:	02:23:58
+		Location:	-27.49324 153.01208
+
+(6) - Impressions / Pano
+	PANO1
+	BSZ4
+		Images:	30
+		Time:	10.05.2025 14:44:35 until 10.05.2025 14:56:18
+		Duration:	00:11:43
+		Location:	-27.49324 153.01208
+
+(7) - Finish
+	AMI1LS1
+		Images:	1034
+		Time:	10.05.2025 05:57:15 until 10.05.2025 15:22:07
+		Duration:	09:24:52
+		Location:	-27.49324 153.01208
+
+	AMI5
+		Images:	71
+		Time:	10.05.2025 14:19:54 until 10.05.2025 15:26:50
+		Duration:	01:06:56
+		Location:	-27.49324 153.01208
+

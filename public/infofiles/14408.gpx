@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "47.92675" lon = "7.02806"><name>TE2</name><desc>Start
+Images:1221
+First:27.04.2025 09:46:35
+Last:27.04.2025 11:04:31
+Duration:01:17:56
+</desc></wpt>
+<wpt lat = "47.92757" lon = "7.02841"><name>DIG1</name><desc>Start
+Images:4015
+First:27.04.2025 08:56:56
+Last:27.04.2025 12:04:04
+Duration:03:07:08
+</desc></wpt>
+<wpt lat = "47.92200" lon = "7.03400"><name>TE2LS2</name><desc>0.5 km Le Markstein (33KM, 24KM, 16KM)
+Images:591
+First:27.04.2025 09:34:10
+Last:27.04.2025 11:14:27
+Duration:01:40:17
+</desc></wpt>
+<wpt lat = "47.92200" lon = "7.03400"><name>TE2LS1</name><desc>0.5 km Le Markstein (33KM, 24KM, 16KM)
+Images:631
+First:27.04.2025 09:27:11
+Last:27.04.2025 11:15:29
+Duration:01:48:18
+</desc></wpt>
+<wpt lat = "47.90560" lon = "7.09003"><name>BECK1</name><desc>18.2 km Col du Haag (33KM)
+Images:1412
+First:27.04.2025 11:37:14
+Last:27.04.2025 14:22:35
+Duration:02:45:21
+</desc></wpt>
+<wpt lat = "47.90560" lon = "7.09003"><name>BECK1LS2</name><desc>18.2 km Col du Haag (33KM)
+Images:474
+First:27.04.2025 11:08:31
+Last:27.04.2025 13:27:08
+Duration:02:18:37
+</desc></wpt>
+<wpt lat = "47.90560" lon = "7.09003"><name>BECK1LS1</name><desc>18.2 km Col du Haag (33KM)
+Images:563
+First:27.04.2025 11:22:39
+Last:27.04.2025 13:21:09
+Duration:01:58:30
+</desc></wpt>
+<wpt lat = "47.91282" lon = "7.04893"><name>MAMO1</name><desc>24.8 km / 15.2 km / 5.3 km Hundsruecken (33KM, 24KM, 16KM)
+Images:1906
+First:27.04.2025 11:22:32
+Last:27.04.2025 14:51:44
+Duration:03:29:12
+</desc></wpt>
+<wpt lat = "47.93585" lon = "7.04557"><name>JFI1</name><desc>28.6 km / 18.9 km / 9.0 km Lac de la Lauch (33KM, 24KM, 16KM)
+Images:2584
+First:27.04.2025 11:25:43
+Last:27.04.2025 15:35:59
+Duration:04:10:16
+</desc></wpt>
+<wpt lat = "47.93585" lon = "7.04557"><name>HS1</name><desc>29.6 km / 19.9 km / 10.0 km Oberlauchen (33KM, 24KM, 16KM)
+Images:3213
+First:27.04.2025 11:05:19
+Last:27.04.2025 15:49:42
+Duration:04:44:23
+</desc></wpt>
+<wpt lat = "47.93585" lon = "7.04557"><name>HS1LS2</name><desc>29.6 km / 19.9 km / 10.0 km Oberlauchen (33KM, 24KM, 16KM)
+Images:1417
+First:27.04.2025 11:36:05
+Last:27.04.2025 15:49:50
+Duration:04:13:45
+</desc></wpt>
+<wpt lat = "47.93585" lon = "7.04557"><name>HS1LS1</name><desc>29.6 km / 19.9 km / 10.0 km Oberlauchen (33KM, 24KM, 16KM)
+Images:800
+First:27.04.2025 11:35:56
+Last:27.04.2025 15:49:41
+Duration:04:13:45
+</desc></wpt>
+<wpt lat = "47.92899" lon = "7.02886"><name>TE1</name><desc>32.5 km / 22.8 km / 16.6 km Le Markstein (33KM, 24KM, 16KM)
+Images:6816
+First:27.04.2025 12:01:21
+Last:27.04.2025 16:31:31
+Duration:04:30:10
+</desc></wpt>
+<wpt lat = "47.92899" lon = "7.02886"><name>TE1LS2</name><desc>32.5 km / 22.8 km / 16.6 km Le Markstein (33KM, 24KM, 16KM)
+Images:2260
+First:27.04.2025 11:29:41
+Last:27.04.2025 16:21:34
+Duration:04:51:53
+</desc></wpt>
+<wpt lat = "47.92899" lon = "7.02886"><name>TE1LS1</name><desc>32.5 km / 22.8 km / 16.6 km Le Markstein (33KM, 24KM, 16KM)
+Images:1793
+First:27.04.2025 11:38:36
+Last:27.04.2025 16:15:57
+Duration:04:37:21
+</desc></wpt>
+<wpt lat = "47.92757" lon = "7.02841"><name>DIG3</name><desc>Finish
+Images:6021
+First:27.04.2025 12:18:16
+Last:27.04.2025 16:40:57
+Duration:04:22:41
+</desc></wpt>
+<wpt lat = "47.90560" lon = "7.09003"><name>BECK1DRONE1</name><desc>Drone
+Images:23
+First:27.04.2025 09:40:13
+Last:27.04.2025 13:59:33
+Duration:04:19:20
+</desc></wpt>
+</gpx>

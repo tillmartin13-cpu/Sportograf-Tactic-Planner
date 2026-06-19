@@ -1,0 +1,48 @@
+EventId: 22437
+Spots: 7
+Total Images: 6779
+Time:	31.12.2025 22:13:06 to 01.01.2026 00:33:19
+Duration: 02:20:13
+
+(1) - Impressions / Pano
+	PANO1
+(2) - 1.9 Mile Turnaround
+	MASAT1
+		Images:	1508
+		Time:	31.12.2025 22:45:29 until 31.12.2025 23:47:06
+		Duration:	01:01:37
+		Location:	34.14591 -118.12140
+
+(3) - Start
+	DAVID2
+		Images:	102
+		Time:	31.12.2025 22:15:45 until 31.12.2025 23:00:43
+		Duration:	00:44:58
+		Location:	34.14573 -118.15414
+
+	KENNE2
+		Images:	449
+		Time:	31.12.2025 22:17:55 until 31.12.2025 23:13:36
+		Duration:	00:55:41
+		Location:	34.14573 -118.15414
+
+(4) - Ceremony
+	DAVID3
+		Images:	442
+		Time:	31.12.2025 22:15:45 until 01.01.2026 00:33:19
+		Duration:	02:17:34
+		Location:	34.14580 -118.14431
+
+(5) - Finish
+	THOMA1
+		Images:	3357
+		Time:	31.12.2025 22:13:06 until 01.01.2026 00:07:11
+		Duration:	01:54:05
+		Location:	34.14580 -118.14424
+
+	KENNE1
+		Images:	921
+		Time:	31.12.2025 23:42:53 until 01.01.2026 00:15:58
+		Duration:	00:33:05
+		Location:	34.14580 -118.14424
+

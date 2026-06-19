@@ -1,0 +1,45 @@
+EventId: 15907
+Spots: 6
+Total Images: 25678
+Time:	16.05.2025 07:15:33 to 16.05.2025 13:28:08
+Duration: 06:12:35
+
+(1) - 10.0 Mi Kortum Trail/ Furlong Gulch
+	BCOAP1
+		Images:	1788
+		Time:	16.05.2025 07:15:33 until 16.05.2025 13:18:02
+		Duration:	06:02:29
+		Location:	38.41288 -123.10150
+
+	BCOTO1
+		Images:	3993
+		Time:	16.05.2025 07:16:12 until 16.05.2025 12:15:30
+		Duration:	04:59:18
+		Location:	38.41288 -123.10150
+
+(2) - 11.2 Mi Finish Line - Wright's Beach Campground
+	BFNTO1
+		Images:	5476
+		Time:	16.05.2025 07:51:21 until 16.05.2025 13:28:08
+		Duration:	05:36:47
+		Location:	38.40116 -123.09513
+
+	BFNTT1
+		Images:	8292
+		Time:	16.05.2025 07:33:24 until 16.05.2025 13:14:09
+		Duration:	05:40:45
+		Location:	38.40116 -123.09513
+
+(3) - 11.0 Mi Kortum Trail / Bodega Bay
+	BPFPR1
+		Images:	3200
+		Time:	16.05.2025 08:06:26 until 16.05.2025 13:10:49
+		Duration:	05:04:23
+		Location:	38.40403 -123.09774
+
+	BPFTO1
+		Images:	2929
+		Time:	16.05.2025 08:45:53 until 16.05.2025 13:11:13
+		Duration:	04:25:20
+		Location:	38.40403 -123.09774
+

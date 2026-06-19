@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "18.81754" lon = "-68.66846"><name>BEB1</name><desc>KM 88 (Long) | KM 47 (Medium)
+Images:492
+First:16.03.2025 05:49:03
+Last:16.03.2025 09:32:48
+Duration:03:43:45
+</desc></wpt>
+<wpt lat = "18.57404" lon = "-68.38520"><name>BEB2</name><desc>KM 144 (Long) | KM 91 (Medium)
+Images:853
+First:16.03.2025 08:55:50
+Last:16.03.2025 11:08:43
+Duration:02:12:53
+</desc></wpt>
+<wpt lat = "18.64686" lon = "-68.41912"><name>EGG1</name><desc>KM 13
+Images:397
+First:15.03.2025 17:33:59
+Last:16.03.2025 06:00:06
+Duration:12:26:07
+</desc></wpt>
+<wpt lat = "18.73133" lon = "-68.65448"><name>EGG2</name><desc>KM 95 (Long)
+Images:770
+First:16.03.2025 07:41:01
+Last:16.03.2025 09:43:48
+Duration:02:02:47
+</desc></wpt>
+<wpt lat = "18.73133" lon = "-68.65448"><name>EGG2LS1</name><desc>KM 95 (Long)
+Images:230
+First:16.03.2025 08:32:29
+Last:16.03.2025 10:04:29
+Duration:01:32:00
+</desc></wpt>
+<wpt lat = "18.55927" lon = "-68.38279"><name>TDG1</name><desc>Start
+Images:676
+First:16.03.2025 04:53:11
+Last:16.03.2025 05:36:40
+Duration:00:43:29
+</desc></wpt>
+<wpt lat = "18.55927" lon = "-68.38279"><name>TDG2</name><desc>Finish
+Images:1497
+First:16.03.2025 07:07:29
+Last:16.03.2025 11:37:51
+Duration:04:30:22
+</desc></wpt>
+<wpt lat = "18.55927" lon = "-68.38279"><name>TDG2LS1</name><desc>Finish
+Images:68
+First:16.03.2025 07:16:59
+Last:16.03.2025 08:32:50
+Duration:01:15:51
+</desc></wpt>
+</gpx>

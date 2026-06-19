@@ -1,0 +1,105 @@
+EventId: 14253
+Spots: 16
+Total Images: 17692
+Time:	16.11.2025 03:02:33 to 16.11.2025 10:53:54
+Duration: 07:51:21
+
+(1) - Swim - Impressions / Pano
+	PANO1
+	LMD1
+		Images:	297
+		Time:	16.11.2025 03:02:33 until 16.11.2025 04:22:06
+		Duration:	01:19:33
+		Location:	14.45363 120.42199
+
+	DCL1
+		Images:	79
+		Time:	16.11.2025 04:39:38 until 16.11.2025 06:13:07
+		Duration:	01:33:29
+		Location:	14.43956 120.49782
+
+(2) - Swim - Start
+	LMD2
+		Images:	1208
+		Time:	16.11.2025 04:23:51 until 16.11.2025 05:23:54
+		Duration:	01:00:03
+		Location:	14.45308 120.42124
+
+(3) - Swim - Transition zone
+	LMD3
+		Images:	3461
+		Time:	16.11.2025 05:24:31 until 16.11.2025 06:11:25
+		Duration:	00:46:54
+		Location:	14.4529 120.42164
+
+(4) - Bike - Impressions / Pano
+	IMH1
+		Images:	1
+		Time:	16.11.2025 05:20:38 until 16.11.2025 05:20:38
+		Duration:	00:00:00
+		Location:	14.47981 120.44424
+
+(5) - Bike - 0,0 km
+	IMH2
+		Images:	1181
+		Time:	16.11.2025 04:51:01 until 16.11.2025 08:25:35
+		Duration:	03:34:34
+		Location:	14.47981 120.44424
+
+	LMD4
+		Images:	2465
+		Time:	16.11.2025 06:34:39 until 16.11.2025 08:10:26
+		Duration:	01:35:47
+		Location:	14.49225 120.42769
+
+(6) - Run - Impressions / Pano
+	PCT1
+		Images:	73
+		Time:	16.11.2025 05:33:26 until 16.11.2025 07:13:01
+		Duration:	01:39:35
+		Location:	14.44574 120.50636
+
+(7) - Run - 0,0 km
+	PCT2
+		Images:	3102
+		Time:	16.11.2025 06:20:49 until 16.11.2025 09:49:20
+		Duration:	03:28:31
+		Location:	14.44574 120.50636
+
+	PCT2LS1
+		Images:	395
+		Time:	16.11.2025 06:18:33 until 16.11.2025 09:49:23
+		Duration:	03:30:50
+		Location:	14.44574 120.50636
+
+	PCT2LS2
+		Images:	294
+		Time:	16.11.2025 07:13:51 until 16.11.2025 10:00:22
+		Duration:	02:46:31
+		Location:	14.44574 120.50636
+
+	IMH3
+		Images:	133
+		Time:	16.11.2025 09:31:04 until 16.11.2025 09:55:45
+		Duration:	00:24:41
+		Location:	14.44574 120.50636
+
+(8) - Finish
+	DCL2
+		Images:	2873
+		Time:	16.11.2025 06:00:08 until 16.11.2025 10:44:50
+		Duration:	04:44:42
+		Location:	14.43956 120.49782
+
+	DCL2LS1
+		Images:	1811
+		Time:	16.11.2025 05:18:05 until 16.11.2025 10:53:54
+		Duration:	05:35:49
+		Location:	14.43956 120.49782
+
+	LMD5
+		Images:	319
+		Time:	16.11.2025 08:51:35 until 16.11.2025 10:13:13
+		Duration:	01:21:38
+		Location:	14.43956 120.49782
+

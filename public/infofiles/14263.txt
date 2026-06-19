@@ -1,0 +1,67 @@
+EventId: 14263
+Spots: 10
+Total Images: 29082
+Time:	30.03.2025 03:51:24 to 30.03.2025 09:06:09
+Duration: 05:14:45
+
+(1) - 0,0 km Turnaround
+	CAA1
+		Images:	2500
+		Time:	30.03.2025 05:08:57 until 30.03.2025 08:24:09
+		Duration:	03:15:12
+		Location:	14.35651 120.97611
+
+(2) - Finish
+	LMD1
+		Images:	6951
+		Time:	30.03.2025 03:51:24 until 30.03.2025 09:06:09
+		Duration:	05:14:45
+		Location:	14.37887 120.96271
+
+	VMM2
+		Images:	6339
+		Time:	30.03.2025 05:59:43 until 30.03.2025 08:49:42
+		Duration:	02:49:59
+		Location:	14.37833 120.96046
+
+	VMM1LS2
+		Images:	1461
+		Time:	30.03.2025 05:22:07 until 30.03.2025 08:57:38
+		Duration:	03:35:31
+		Location:	14.37833 120.96046
+
+(3) - 0,0 km Vermosa blvd marathon drive
+	RDI1
+		Images:	1782
+		Time:	30.03.2025 05:17:00 until 30.03.2025 08:30:06
+		Duration:	03:13:06
+		Location:	14.36607 120.96967
+
+	RDI1LS1
+		Images:	1131
+		Time:	30.03.2025 05:28:47 until 30.03.2025 07:04:47
+		Duration:	01:36:00
+		Location:	14.36607 120.96967
+
+(4) - 0,0 km Entry
+	RPB1
+		Images:	5090
+		Time:	30.03.2025 05:47:32 until 30.03.2025 08:43:00
+		Duration:	02:55:28
+		Location:	14.38281 120.95842
+
+(5) - Start
+	VMM1
+		Images:	3110
+		Time:	30.03.2025 04:56:09 until 30.03.2025 07:13:16
+		Duration:	02:17:07
+		Location:	14.35651 120.97611
+
+	VMM1LS1
+		Images:	718
+		Time:	30.03.2025 05:23:43 until 30.03.2025 08:23:43
+		Duration:	03:00:00
+		Location:	14.35651 120.97611
+
+(6) - Impressions / Pano
+	PANO1

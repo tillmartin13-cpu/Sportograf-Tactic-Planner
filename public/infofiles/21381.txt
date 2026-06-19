@@ -1,0 +1,276 @@
+EventId: 21381
+Spots: 45
+Total Images: 226832
+Time:	01.01.2014 04:25:21 to 01.11.2025 09:17:03
+Duration: 4322.04:51:42
+
+(1) - 0.0 km
+	ABST1
+		Images:	3661
+		Time:	01.11.2025 08:06:57 until 01.11.2025 09:11:55
+		Duration:	01:04:58
+		Location:	NULL NULL
+
+	ACPER1
+		Images:	608
+		Time:	31.10.2025 20:02:27 until 31.10.2025 21:12:53
+		Duration:	01:10:26
+		Location:	NULL NULL
+
+	AMEB1
+		Images:	1062
+		Time:	01.11.2025 06:36:06 until 01.11.2025 08:10:46
+		Duration:	01:34:40
+		Location:	NULL NULL
+
+	AMKEL1
+		Images:	3304
+		Time:	01.11.2025 06:47:45 until 01.11.2025 07:21:53
+		Duration:	00:34:08
+		Location:	NULL NULL
+
+	APOL1
+		Images:	5860
+		Time:	01.11.2025 07:47:29 until 01.11.2025 08:28:33
+		Duration:	00:41:04
+		Location:	NULL NULL
+
+	ASIMB1
+		Images:	2570
+		Time:	01.01.2014 04:25:21 until 01.11.2025 09:15:02
+		Duration:	4322.04:49:41
+		Location:	NULL NULL
+
+	ASLA1
+		Images:	6107
+		Time:	01.11.2025 07:41:28 until 01.11.2025 08:36:45
+		Duration:	00:55:17
+		Location:	NULL NULL
+
+	ATOC1
+		Images:	13147
+		Time:	01.11.2025 07:32:22 until 01.11.2025 09:11:03
+		Duration:	01:38:41
+		Location:	NULL NULL
+
+	BCROP1
+		Images:	14700
+		Time:	01.11.2025 08:00:59 until 01.11.2025 09:10:10
+		Duration:	01:09:11
+		Location:	NULL NULL
+
+	BTRIG3
+		Images:	7556
+		Time:	01.11.2025 04:48:10 until 01.11.2025 09:08:52
+		Duration:	04:20:42
+		Location:	NULL NULL
+
+(2) - Finish
+	BHIGH1
+		Images:	4152
+		Time:	01.11.2025 08:00:59 until 01.11.2025 09:10:10
+		Duration:	01:09:11
+		Location:	NULL NULL
+
+	BHIGH2
+		Images:	3606
+		Time:	01.11.2025 07:46:42 until 01.11.2025 09:11:03
+		Duration:	01:24:21
+		Location:	NULL NULL
+
+	BHIGH3
+		Images:	4154
+		Time:	01.11.2025 07:50:48 until 01.11.2025 09:10:37
+		Duration:	01:19:49
+		Location:	NULL NULL
+
+	BHIGH4
+		Images:	3460
+		Time:	01.11.2025 06:54:41 until 01.11.2025 09:07:57
+		Duration:	02:13:16
+		Location:	NULL NULL
+
+(3) - Impressions / Pano
+	PANO1
+(4) - none
+	AAMED1
+		Images:	343
+		Time:	01.11.2025 06:15:42 until 01.11.2025 08:09:14
+		Duration:	01:53:32
+		Location:	NULL NULL
+
+	AARA1
+		Images:	1361
+		Time:	01.11.2025 07:50:04 until 01.11.2025 09:09:33
+		Duration:	01:19:29
+		Location:	NULL NULL
+
+	ACBIR1
+		Images:	3785
+		Time:	01.11.2025 06:33:07 until 01.11.2025 08:17:29
+		Duration:	01:44:22
+		Location:	NULL NULL
+
+	ADROS1
+		Images:	5540
+		Time:	01.11.2025 08:05:04 until 01.11.2025 09:12:13
+		Duration:	01:07:09
+		Location:	NULL NULL
+
+	ADTID1
+		Images:	10303
+		Time:	01.11.2025 08:12:11 until 01.11.2025 09:12:44
+		Duration:	01:00:33
+		Location:	NULL NULL
+
+	AFARU1
+		Images:	5230
+		Time:	01.11.2025 07:34:30 until 01.11.2025 08:28:27
+		Duration:	00:53:57
+		Location:	NULL NULL
+
+	AGAUR1
+		Images:	1219
+		Time:	31.12.2020 23:00:01 until 31.12.2020 23:14:51
+		Duration:	00:14:50
+		Location:	NULL NULL
+
+	AJHAR1
+		Images:	874
+		Time:	01.11.2025 08:02:34 until 01.11.2025 09:11:49
+		Duration:	01:09:15
+		Location:	NULL NULL
+
+	AJRIC1
+		Images:	4148
+		Time:	01.11.2025 07:48:43 until 01.11.2025 08:26:20
+		Duration:	00:37:37
+		Location:	NULL NULL
+
+	AJRO1
+		Images:	533
+		Time:	01.11.2025 05:49:36 until 01.11.2025 07:07:24
+		Duration:	01:17:48
+		Location:	NULL NULL
+
+	AJSB1
+		Images:	6704
+		Time:	01.11.2025 07:52:17 until 01.11.2025 08:37:31
+		Duration:	00:45:14
+		Location:	NULL NULL
+
+	AKRI1
+		Images:	4719
+		Time:	01.11.2025 07:50:49 until 01.11.2025 09:14:15
+		Duration:	01:23:26
+		Location:	NULL NULL
+
+	ALKRO1
+		Images:	10427
+		Time:	01.11.2025 07:51:07 until 01.11.2025 09:13:32
+		Duration:	01:22:25
+		Location:	NULL NULL
+
+	AMTOD1
+		Images:	4745
+		Time:	01.11.2025 07:34:48 until 01.11.2025 08:29:05
+		Duration:	00:54:17
+		Location:	NULL NULL
+
+	APKOL1
+		Images:	7162
+		Time:	01.11.2025 07:47:04 until 01.11.2025 09:17:03
+		Duration:	01:29:59
+		Location:	NULL NULL
+
+	ASANT1
+		Images:	652
+		Time:	01.11.2025 08:01:45 until 01.11.2025 08:38:45
+		Duration:	00:37:00
+		Location:	NULL NULL
+
+	ASKIZ1
+		Images:	3236
+		Time:	01.11.2025 07:49:36 until 01.11.2025 08:23:40
+		Duration:	00:34:04
+		Location:	NULL NULL
+
+	ASMC1
+		Images:	424
+		Time:	01.11.2025 05:54:21 until 01.11.2025 08:07:41
+		Duration:	02:13:20
+		Location:	NULL NULL
+
+	ATRA1
+		Images:	2630
+		Time:	01.11.2025 07:19:37 until 01.11.2025 08:28:25
+		Duration:	01:08:48
+		Location:	NULL NULL
+
+	ATRB1
+		Images:	2665
+		Time:	01.11.2025 07:36:25 until 01.11.2025 08:28:44
+		Duration:	00:52:19
+		Location:	NULL NULL
+
+	ATRC1
+		Images:	3020
+		Time:	01.11.2025 07:02:58 until 01.11.2025 08:02:37
+		Duration:	00:59:39
+		Location:	NULL NULL
+
+	BCROP2
+		Images:	19330
+		Time:	01.11.2025 07:46:42 until 01.11.2025 09:11:03
+		Duration:	01:24:21
+		Location:	NULL NULL
+
+	BCROP3
+		Images:	11427
+		Time:	01.11.2025 07:50:48 until 01.11.2025 09:10:37
+		Duration:	01:19:49
+		Location:	NULL NULL
+
+	BCROP4
+		Images:	641
+		Time:	01.11.2025 08:11:28 until 01.11.2025 09:07:48
+		Duration:	00:56:20
+		Location:	NULL NULL
+
+(5) - Start
+	BALAN1
+		Images:	14731
+		Time:	01.11.2025 07:29:12 until 01.11.2025 08:44:15
+		Duration:	01:15:03
+		Location:	NULL NULL
+
+	BANNA1
+		Images:	3731
+		Time:	01.11.2025 07:36:47 until 01.11.2025 08:55:28
+		Duration:	01:18:41
+		Location:	NULL NULL
+
+	BLANC1
+		Images:	9493
+		Time:	01.11.2025 07:24:38 until 01.11.2025 08:50:00
+		Duration:	01:25:22
+		Location:	NULL NULL
+
+	BMP1
+		Images:	6570
+		Time:	01.11.2025 06:50:40 until 01.11.2025 08:49:44
+		Duration:	01:59:04
+		Location:	NULL NULL
+
+	BTRIG1
+		Images:	3186
+		Time:	01.11.2025 07:20:50 until 01.11.2025 08:46:09
+		Duration:	01:25:19
+		Location:	NULL NULL
+
+	BTRIG2
+		Images:	4056
+		Time:	01.11.2025 07:05:50 until 01.11.2025 08:14:00
+		Duration:	01:08:10
+		Location:	NULL NULL
+

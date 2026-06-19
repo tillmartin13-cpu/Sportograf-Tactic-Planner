@@ -1,0 +1,153 @@
+EventId: 14669
+Spots: 23
+Total Images: 23383
+Time:	18.10.2025 07:12:26 to 19.10.2025 14:37:37
+Duration: 1.07:25:11
+
+(1) - Impressions / Pano
+	PANO1
+(2) - Obstacle 1 Cardio Club
+	TOSC1
+		Images:	4353
+		Time:	19.10.2025 08:19:51 until 19.10.2025 14:37:37
+		Duration:	06:17:46
+		Location:	-27.90841 153.39670
+
+	CHRO1
+		Images:	5002
+		Time:	19.10.2025 07:15:16 until 19.10.2025 13:36:02
+		Duration:	06:20:46
+		Location:	-27.90841 153.39670
+
+	AKC1
+		Images:	1819
+		Time:	19.10.2025 07:05:00 until 19.10.2025 11:20:45
+		Duration:	04:15:45
+		Location:	-27.90841 153.39670
+
+	MTS1
+		Images:	390
+		Time:	18.10.2025 07:38:37 until 19.10.2025 14:33:21
+		Duration:	1.06:54:44
+		Location:	-27.90841 153.39670
+
+(3) - Obstacle 2 Centurium Worm
+	TOSC2
+		Images:	423
+		Time:	19.10.2025 09:22:21 until 19.10.2025 09:55:10
+		Duration:	00:32:49
+		Location:	-27.90841 153.39670
+
+	CHRO2
+		Images:	149
+		Time:	19.10.2025 10:05:20 until 19.10.2025 10:23:46
+		Duration:	00:18:26
+		Location:	-27.90841 153.39670
+
+	AMI1
+		Images:	1862
+		Time:	19.10.2025 07:07:11 until 19.10.2025 10:17:31
+		Duration:	03:10:20
+		Location:	-27.90841 153.39670
+
+(4) - Obstacle 4 Divide and Conquer
+	TOSC3
+		Images:	488
+		Time:	19.10.2025 09:17:01 until 19.10.2025 10:18:51
+		Duration:	01:01:50
+		Location:	-27.90841 153.39670
+
+(5) - Obstacle 5 Lift Heavy
+	TOSC4
+		Images:	603
+		Time:	19.10.2025 07:22:56 until 19.10.2025 11:04:55
+		Duration:	03:41:59
+		Location:	-27.90841 153.39670
+
+	CHRO5
+		Images:	33
+		Time:	19.10.2025 13:45:36 until 19.10.2025 13:48:31
+		Duration:	00:02:55
+		Location:	-27.90841 153.39670
+
+	AKC2
+		Images:	1547
+		Time:	19.10.2025 11:44:52 until 19.10.2025 14:14:35
+		Duration:	02:29:43
+		Location:	-27.90841 153.39670
+
+	HOO1
+		Images:	580
+		Time:	18.10.2025 07:14:02 until 19.10.2025 09:53:59
+		Duration:	1.02:39:57
+		Location:	-27.90841 153.39670
+
+	MTS2
+		Images:	942
+		Time:	19.10.2025 08:15:32 until 19.10.2025 12:47:15
+		Duration:	04:31:43
+		Location:	-27.90841 153.39670
+
+(6) - Obstacle 6 Jaws Swim
+	TOSC5
+		Images:	119
+		Time:	19.10.2025 08:59:06 until 19.10.2025 09:08:58
+		Duration:	00:09:52
+		Location:	-27.90841 153.39670
+
+(7) - Obstacle 6 Jaws/ swim1
+	CHRO3
+		Images:	200
+		Time:	19.10.2025 10:27:38 until 19.10.2025 10:40:44
+		Duration:	00:13:06
+		Location:	-27.90841 153.39670
+
+(8) - Obstacle 8 Misc/ Portarits
+	CHRO4
+		Images:	100
+		Time:	19.10.2025 09:45:05 until 19.10.2025 10:27:03
+		Duration:	00:41:58
+		Location:	-27.90841 153.39670
+
+(9) - Obstacle 3 Divide and Conquer
+	HOO2
+		Images:	203
+		Time:	19.10.2025 10:00:16 until 19.10.2025 10:18:03
+		Duration:	00:17:47
+		Location:	-27.90841 153.39670
+
+(10) - Obstacle 7 Jaws/ swim2
+	HOO3
+		Images:	446
+		Time:	19.10.2025 11:20:56 until 19.10.2025 12:10:50
+		Duration:	00:49:54
+		Location:	-27.90841 153.39670
+
+(11) - Obstacle 3 Double Team1
+	HOO4
+		Images:	429
+		Time:	19.10.2025 12:35:55 until 19.10.2025 13:48:06
+		Duration:	01:12:11
+		Location:	-27.90841 153.39670
+
+(12) - Obstacle 6 Lift Heavy1
+	AMI2
+		Images:	435
+		Time:	19.10.2025 11:17:07 until 19.10.2025 14:14:10
+		Duration:	02:57:03
+		Location:	-27.90841 153.39670
+
+(13) - Obstacle 6 Jaws/ Swim3
+	JGAT1
+		Images:	1150
+		Time:	18.10.2025 07:34:30 until 19.10.2025 10:41:55
+		Duration:	1.03:07:25
+		Location:	-27.90841 153.39670
+
+(14) - Obstacle 3 Double team2
+	JGAT2
+		Images:	2103
+		Time:	19.10.2025 11:19:28 until 19.10.2025 13:50:31
+		Duration:	02:31:03
+		Location:	-27.90841 153.39670
+

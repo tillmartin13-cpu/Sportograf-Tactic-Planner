@@ -1,0 +1,355 @@
+EventId: 12566
+Spots: 52
+Total Images: 354305
+Time:	01.01.0001 23:00:00 to 18.11.2023 16:31:55
+Duration: 738840.17:31:55
+
+(1) - 0.0 km 853145 - Abdo Sharhan - Finish
+	FABDS1
+		Images:	13976
+		Time:	18.11.2023 05:37:57 until 18.11.2023 09:15:51
+		Duration:	03:37:54
+		Location:	NULL NULL
+
+(2) - 0.0 km 853146 - Gus Gargallo - Finish
+	IGUSG2
+		Images:	13351
+		Time:	18.11.2023 08:23:32 until 18.11.2023 10:54:43
+		Duration:	02:31:11
+		Location:	NULL NULL
+
+(3) - 0.0 km 853147 - Trigger 1 left - FInish
+	FABDS2
+		Images:	7856
+		Time:	18.11.2023 07:27:52 until 18.11.2023 10:49:36
+		Duration:	03:21:44
+		Location:	NULL NULL
+
+(4) - 0.0 km 853148 - Trigger 2 - Finish
+	FABDS3
+		Images:	13172
+		Time:	18.11.2023 08:19:20 until 18.11.2023 12:33:57
+		Duration:	04:14:37
+		Location:	NULL NULL
+
+(5) - 0.0 km 853149 - Elijah Dreuitt - Pre Finish
+	IELID2
+		Images:	8940
+		Time:	18.11.2023 07:43:24 until 18.11.2023 10:10:24
+		Duration:	02:27:00
+		Location:	NULL NULL
+
+(6) - 0.0 km 853149 ELIJAH 2ND
+	IELID3
+		Images:	5014
+		Time:	18.11.2023 10:11:36 until 18.11.2023 11:52:25
+		Duration:	01:40:49
+		Location:	NULL NULL
+
+(7) - 0.0 km 853150 - Rico Campino - Pre Finish
+	IRICC2
+		Images:	15661
+		Time:	18.11.2023 08:18:45 until 18.11.2023 11:09:38
+		Duration:	02:50:53
+		Location:	NULL NULL
+
+(8) - 0.0 km 853152 - Trigger 1 Left - Pre Finish
+	ITERW2
+		Images:	8272
+		Time:	18.11.2023 12:29:33 until 18.11.2023 14:48:16
+		Duration:	02:18:43
+		Location:	NULL NULL
+
+(9) - 0.0 km 853163 - Alan Ng - MSC 1
+	IALAN1
+		Images:	6368
+		Time:	18.11.2023 06:44:00 until 18.11.2023 07:52:37
+		Duration:	01:08:37
+		Location:	NULL NULL
+
+(10) - 0.0 km 853164 - Bob Fina - MSC 1
+	IBOBF1
+		Images:	3401
+		Time:	18.11.2023 06:07:40 until 18.11.2023 06:57:21
+		Duration:	00:49:41
+		Location:	NULL NULL
+
+(11) - 0.0 km 853165 - Jesse Beam - MSC 2
+	FJESB1
+		Images:	1800
+		Time:	18.11.2023 06:02:25 until 18.11.2023 07:03:08
+		Duration:	01:00:43
+		Location:	NULL NULL
+
+(12) - 0.0 km 853166 - Nicholas Davis - MSC 2
+	FNICD1
+		Images:	2212
+		Time:	18.11.2023 07:09:45 until 18.11.2023 08:03:54
+		Duration:	00:54:09
+		Location:	NULL NULL
+
+(13) - 0.0 km 853167 - Trigger - MSC 2
+	FJESB2
+		Images:	2920
+		Time:	18.11.2023 06:13:12 until 18.11.2023 07:02:14
+		Duration:	00:49:02
+		Location:	NULL NULL
+
+(14) - 0.0 km 853168 - Cezary Gurbada - MSC 3
+	FCEZG1
+		Images:	8472
+		Time:	18.11.2023 07:12:49 until 18.11.2023 09:30:53
+		Duration:	02:18:04
+		Location:	NULL NULL
+
+(15) - 0.0 km 853169 - Edward Rondon - MSC 3
+	FEDWR1
+		Images:	4018
+		Time:	18.11.2023 07:00:33 until 18.11.2023 09:01:55
+		Duration:	02:01:22
+		Location:	NULL NULL
+
+(16) - 0.0 km 853170 - Ryan Porch - MSC 4
+	FRYAP1
+		Images:	5629
+		Time:	18.11.2023 07:58:48 until 18.11.2023 09:58:19
+		Duration:	01:59:31
+		Location:	NULL NULL
+
+(17) - 0.0 km 853171 - Christian Fiore - MSC 4
+	FCHRF1
+		Images:	6343
+		Time:	18.11.2023 06:46:40 until 18.11.2023 08:52:02
+		Duration:	02:05:22
+		Location:	NULL NULL
+
+(18) - 0.0 km 853172 - Trigger - MSC 4
+	FRYAP2
+(19) - 0.0 km 853173 - Jesse Beam - MSC 5
+	FJESB3
+		Images:	10227
+		Time:	18.11.2023 07:37:55 until 18.11.2023 11:30:32
+		Duration:	03:52:37
+		Location:	NULL NULL
+
+(20) - 0.0 km 853174 - Nicholas Davis - MSC 5
+	FNICD2
+		Images:	7835
+		Time:	18.11.2023 08:37:05 until 18.11.2023 12:08:58
+		Duration:	03:31:53
+		Location:	NULL NULL
+
+(21) - 0.0 km 853175 - Elijah Dreuitt - MSC 1
+	IELID1
+		Images:	2298
+		Time:	18.11.2023 06:01:55 until 18.11.2023 06:57:19
+		Duration:	00:55:24
+		Location:	NULL NULL
+
+(22) - 0.0 km 853176 - Trigger - MSC 3
+	FCEZG2
+		Images:	6513
+		Time:	18.11.2023 06:39:12 until 18.11.2023 09:34:02
+		Duration:	02:54:50
+		Location:	NULL NULL
+
+(23) - 0.0 km 853177 - Druscilla Lam - MSC 1
+	IDRUL1
+		Images:	5396
+		Time:	18.11.2023 06:45:16 until 18.11.2023 07:57:10
+		Duration:	01:11:54
+		Location:	NULL NULL
+
+(24) - 0.0 km 853178 - Terry Wherry - MSC 1
+	ITERW1
+		Images:	11946
+		Time:	17.11.2023 06:59:56 until 17.11.2023 07:58:34
+		Duration:	00:58:38
+		Location:	NULL NULL
+
+(25) - 0.0 km 853179 - Rico Campino - Start/PRs
+	IRICC1
+		Images:	1395
+		Time:	18.11.2023 06:42:02 until 18.11.2023 07:51:16
+		Duration:	01:09:14
+		Location:	NULL NULL
+
+(26) - 0.0 km 853180 - Gus Gargallo - Start/PRs
+	IGUSG1
+		Images:	597
+		Time:	01.01.0001 23:00:00 until 18.11.2023 07:29:19
+		Duration:	738840.08:29:19
+		Location:	NULL NULL
+
+(27) - 0.0 km 853181 - Alan Ng - MSC 6
+	IALAN2
+		Images:	27715
+		Time:	18.11.2023 08:41:13 until 18.11.2023 12:31:51
+		Duration:	03:50:38
+		Location:	NULL NULL
+
+(28) - 0.0 km 853182 - Druscilla Lam - MSC 6
+	IDRUL2
+		Images:	18483
+		Time:	18.11.2023 08:45:56 until 18.11.2023 12:40:13
+		Duration:	03:54:17
+		Location:	NULL NULL
+
+(29) - 0.0 km 853183 - Bob Fina - MSC 7
+	IBOBF2
+		Images:	16735
+		Time:	18.11.2023 07:36:46 until 18.11.2023 11:49:53
+		Duration:	04:13:07
+		Location:	NULL NULL
+
+(30) - 0.0 km 853185 - Trigger - MSC 7
+	IBOBF3
+		Images:	9773
+		Time:	18.11.2023 07:32:28 until 18.11.2023 10:15:32
+		Duration:	02:43:04
+		Location:	NULL NULL
+
+(31) - 0.0 km Alana Palmer - Medals
+	FALAP1
+		Images:	1993
+		Time:	18.11.2023 07:51:39 until 18.11.2023 10:47:36
+		Duration:	02:55:57
+		Location:	NULL NULL
+
+(32) - 0.0 km Arnett Mindermann - OFP
+	FARNM1
+		Images:	633
+		Time:	18.11.2023 08:27:30 until 18.11.2023 11:01:24
+		Duration:	02:33:54
+		Location:	NULL NULL
+
+(33) - 0.0 km Ashley Craven - OFP
+	FASHC1
+		Images:	235
+		Time:	18.11.2023 07:10:57 until 18.11.2023 09:44:16
+		Duration:	02:33:19
+		Location:	NULL NULL
+
+(34) - 0.0 km Charliston Homen - Medals
+	FCHAH1
+		Images:	3312
+		Time:	17.11.2023 19:49:23 until 18.11.2023 00:40:17
+		Duration:	04:50:54
+		Location:	NULL NULL
+
+(35) - 0.0 km Fin trigger left
+	FABDS4
+		Images:	3832
+		Time:	18.11.2023 11:23:34 until 18.11.2023 12:34:23
+		Duration:	01:10:49
+		Location:	NULL NULL
+
+(36) - 0.0 km gus fin 2nd
+	IGUSG3
+		Images:	5519
+		Time:	18.11.2023 11:22:25 until 18.11.2023 12:41:23
+		Duration:	01:18:58
+		Location:	NULL NULL
+
+(37) - 0.0 km Hunter Douglas - Medals
+	FHUND1
+(38) - 0.0 km Jesi Pietroniro - OFP
+	FJESP1
+		Images:	600
+		Time:	18.11.2023 06:23:44 until 18.11.2023 10:33:48
+		Duration:	04:10:04
+		Location:	NULL NULL
+
+(39) - 0.0 km msc 7 TRIGGER 2ND
+	IBOBF4
+		Images:	5168
+		Time:	18.11.2023 10:18:24 until 18.11.2023 11:50:08
+		Duration:	01:31:44
+		Location:	NULL NULL
+
+(40) - 0.0 km Peter Kollek - Medals
+	FPETK1
+		Images:	4967
+		Time:	18.11.2023 07:56:16 until 18.11.2023 12:51:48
+		Duration:	04:55:32
+		Location:	NULL NULL
+
+(41) - 0.0 km pRE fiN CENTER
+	IPFCC1
+		Images:	7803
+		Time:	18.11.2023 09:25:41 until 18.11.2023 12:07:12
+		Duration:	02:41:31
+		Location:	NULL NULL
+
+(42) - 0.0 km pre fin trigger 2nd
+	FPFTR2
+		Images:	3708
+		Time:	18.11.2023 11:29:52 until 18.11.2023 12:36:51
+		Duration:	01:06:59
+		Location:	NULL NULL
+
+(43) - 0.0 km Pre Fin trigger left
+	ITERW3
+		Images:	3677
+		Time:	18.11.2023 15:25:44 until 18.11.2023 16:31:55
+		Duration:	01:06:11
+		Location:	NULL NULL
+
+(44) - 0.0 km PreFin Terry
+	ITWPF1
+		Images:	18624
+		Time:	17.11.2023 09:14:44 until 17.11.2023 10:55:30
+		Duration:	01:40:46
+		Location:	NULL NULL
+
+(45) - 0.0 km PreFIn trigger Right
+	FPFTR1
+		Images:	8600
+		Time:	18.11.2023 08:23:13 until 18.11.2023 10:56:11
+		Duration:	02:32:58
+		Location:	NULL NULL
+
+(46) - 0.0 km Rachel Czech - Medals
+	FRACC1
+		Images:	3697
+		Time:	18.11.2023 07:22:58 until 18.11.2023 11:56:10
+		Duration:	04:33:12
+		Location:	NULL NULL
+
+(47) - 0.0 km Richard Smith - OFP
+	FRICS1
+		Images:	693
+		Time:	18.11.2023 08:01:29 until 18.11.2023 12:38:22
+		Duration:	04:36:53
+		Location:	NULL NULL
+
+(48) - 0.0 km rico pre fin 2nd
+	IRICC3
+		Images:	7189
+		Time:	18.11.2023 11:10:53 until 18.11.2023 12:48:55
+		Duration:	01:38:02
+		Location:	NULL NULL
+
+(49) - 0.0 km Russell Little - Medals
+	FRUSL1
+		Images:	2013
+		Time:	18.11.2023 06:43:06 until 18.11.2023 11:48:27
+		Duration:	05:05:21
+		Location:	NULL NULL
+
+(50) - 0.0 km Terry 2nd pre fin
+	FTWPF1
+		Images:	13361
+		Time:	17.11.2023 11:08:10 until 17.11.2023 12:52:13
+		Duration:	01:44:03
+		Location:	NULL NULL
+
+(51) - Impressions / Pano
+	PANO1
+(52) - none
+	FABDS5
+		Images:	12363
+		Time:	18.11.2023 09:16:26 until 18.11.2023 11:53:01
+		Duration:	02:36:35
+		Location:	NULL NULL
+

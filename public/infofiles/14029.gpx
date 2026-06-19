@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "51.87308" lon = "9.65780"><name>ALN1</name><desc>Obstacle 27 Speed Slide
+Images:9950
+First:16.08.2025 11:14:31
+Last:16.08.2025 17:46:53
+Duration:06:32:22
+</desc></wpt>
+<wpt lat = "51.87308" lon = "9.65780"><name>ALN1LS2</name><desc>Obstacle 27 Speed Slide
+Images:1040
+First:16.08.2025 10:22:01
+Last:16.08.2025 17:33:38
+Duration:07:11:37
+</desc></wpt>
+<wpt lat = "51.87308" lon = "9.65780"><name>ALN1LS1</name><desc>Obstacle 27 Speed Slide
+Images:1155
+First:16.08.2025 10:20:07
+Last:16.08.2025 17:33:12
+Duration:07:13:05
+</desc></wpt>
+<wpt lat = "51.87388" lon = "9.65729"><name>ALN2LS2</name><desc>Obstacle 26 Burning Bridge
+Images:4525
+First:16.08.2025 10:41:44
+Last:16.08.2025 17:59:32
+Duration:07:17:48
+</desc></wpt>
+<wpt lat = "51.87388" lon = "9.65729"><name>ALN2LS1</name><desc>Obstacle 26 Burning Bridge
+Images:4997
+First:16.08.2025 10:37:36
+Last:16.08.2025 17:51:41
+Duration:07:14:05
+</desc></wpt>
+<wpt lat = "51.87525" lon = "9.64709"><name>BENL1</name><desc>Obstacle 8 Rotten River
+Images:7034
+First:16.08.2025 10:04:05
+Last:16.08.2025 16:32:00
+Duration:06:27:55
+</desc></wpt>
+<wpt lat = "51.87525" lon = "9.64709"><name>MW2</name><desc>Obstacle 8 Rotten River
+Images:8456
+First:16.08.2025 12:04:54
+Last:16.08.2025 16:31:55
+Duration:04:27:01
+</desc></wpt>
+<wpt lat = "51.87371" lon = "9.66212"><name>DPH1</name><desc>Obstacle 6 Barwire Battle
+Images:13047
+First:16.07.2025 13:41:48
+Last:16.08.2025 16:08:06
+Duration:31.02:26:18
+</desc></wpt>
+<wpt lat = "51.87371" lon = "9.66212"><name>KSA1</name><desc>Obstacle 6 Barwire Battle
+Images:14959
+First:16.08.2025 09:57:23
+Last:16.08.2025 16:08:55
+Duration:06:11:32
+</desc></wpt>
+<wpt lat = "51.87470" lon = "9.64863"><name>DRI1</name><desc>Start
+Images:1079
+First:16.08.2025 09:31:54
+Last:16.08.2025 15:31:53
+Duration:05:59:59
+</desc></wpt>
+<wpt lat = "51.87470" lon = "9.64863"><name>DRI1LS1</name><desc>Start
+Images:7043
+First:16.08.2025 09:04:18
+Last:16.08.2025 18:14:29
+Duration:09:10:11
+</desc></wpt>
+<wpt lat = "51.87470" lon = "9.64863"><name>DRI1DRONE1</name><desc>Start
+Images:34
+First:16.08.2025 09:37:48
+Last:16.08.2025 15:10:16
+Duration:05:32:28
+</desc></wpt>
+<wpt lat = "51.87751" lon = "9.65711"><name>DRI2</name><desc>Obstacle 22 Clumsy Cliffhanger
+Images:1857
+First:16.08.2025 14:10:29
+Last:16.08.2025 14:46:51
+Duration:00:36:22
+</desc></wpt>
+<wpt lat = "51.87751" lon = "9.65711"><name>MIV1LS1</name><desc>Obstacle 22 Clumsy Cliffhanger
+Images:3192
+First:16.08.2025 10:19:30
+Last:16.08.2025 17:24:02
+Duration:07:04:32
+</desc></wpt>
+<wpt lat = "51.87751" lon = "9.65711"><name>MIV1</name><desc>Obstacle 22 Clumsy Cliffhanger
+Images:18112
+First:16.08.2025 10:45:02
+Last:16.08.2025 17:19:44
+Duration:06:34:42
+</desc></wpt>
+<wpt lat = "51.87751" lon = "9.65711"><name>MW1</name><desc>Obstacle 22 Clumsy Cliffhanger
+Images:1257
+First:15.08.2025 23:23:39
+Last:16.08.2025 11:49:07
+Duration:12:25:28
+</desc></wpt>
+<wpt lat = "51.87751" lon = "9.65711"><name>MW1LS2</name><desc>Obstacle 22 Clumsy Cliffhanger
+Images:2871
+First:15.08.2025 23:28:07
+Last:16.08.2025 16:41:52
+Duration:17:13:45
+</desc></wpt>
+<wpt lat = "51.87751" lon = "9.65711"><name>MW1LS1</name><desc>Obstacle 22 Clumsy Cliffhanger
+Images:3016
+First:15.08.2025 23:33:19
+Last:16.08.2025 16:41:51
+Duration:17:08:32
+</desc></wpt>
+<wpt lat = "51.87470" lon = "9.64863"><name>MBEN1</name><desc>Herotent
+Images:1870
+First:16.08.2025 10:18:03
+Last:16.08.2025 18:03:20
+Duration:07:45:17
+</desc></wpt>
+<wpt lat = "51.87470" lon = "9.64863"><name>RA1</name><desc>Herotent
+Images:6363
+First:16.08.2025 09:31:23
+Last:16.08.2025 18:06:16
+Duration:08:34:53
+</desc></wpt>
+<wpt lat = "51.87470" lon = "9.64863"><name>MBEN1LS1</name><desc>Finish
+Images:3442
+First:16.08.2025 09:07:46
+Last:16.08.2025 18:05:30
+Duration:08:57:44
+</desc></wpt>
+<wpt lat = "51.87470" lon = "9.64863"><name>VL1</name><desc>Finish
+Images:17300
+First:16.08.2025 09:11:14
+Last:16.08.2025 18:05:41
+Duration:08:54:27
+</desc></wpt>
+<wpt lat = "51.87237" lon = "9.65935"><name>NWO1</name><desc>Obstacle 5 Crew Carry
+Images:5906
+First:16.08.2025 10:29:26
+Last:16.08.2025 16:02:21
+Duration:05:32:55
+</desc></wpt>
+<wpt lat = "51.87237" lon = "9.65935"><name>NWO1LS2</name><desc>Obstacle 5 Crew Carry
+Images:1050
+First:16.08.2025 10:10:19
+Last:16.08.2025 15:19:22
+Duration:05:09:03
+</desc></wpt>
+<wpt lat = "51.87237" lon = "9.65935"><name>NWO1LS1</name><desc>Obstacle 5 Crew Carry
+Images:2578
+First:16.08.2025 10:16:25
+Last:16.08.2025 16:06:08
+Duration:05:49:43
+</desc></wpt>
+<wpt lat = "51.87553" lon = "9.65831"><name>OT1</name><desc>Obstacle 7 Freak Froster
+Images:17132
+First:16.08.2025 10:00:07
+Last:16.08.2025 16:17:27
+Duration:06:17:20
+</desc></wpt>
+<wpt lat = "51.87553" lon = "9.65831"><name>OT1LS1</name><desc>Obstacle 7 Freak Froster
+Images:4814
+First:16.08.2025 09:40:22
+Last:16.08.2025 16:18:01
+Duration:06:37:39
+</desc></wpt>
+<wpt lat = "51.87553" lon = "9.65831"><name>ADHA1</name><desc>Obstacle 7 Freak Froster
+Images:12446
+First:16.08.2025 10:00:11
+Last:16.08.2025 16:16:31
+Duration:06:16:20
+</desc></wpt>
+<wpt lat = "51.87470" lon = "9.64863"><name>RA1LS2</name><desc>0,1 km before finish
+Images:5688
+First:16.08.2025 09:08:41
+Last:16.08.2025 18:04:16
+Duration:08:55:35
+</desc></wpt>
+<wpt lat = "51.87470" lon = "9.64863"><name>RA1LS1</name><desc>0,1 km before finish
+Images:5101
+First:16.08.2025 09:08:42
+Last:16.08.2025 18:05:00
+Duration:08:56:18
+</desc></wpt>
+<wpt lat = "51.87732" lon = "9.64900"><name>STL1</name><desc>Obstacle 20 Rapid Rings
+Images:6254
+First:16.08.2025 10:30:46
+Last:16.08.2025 16:58:27
+Duration:06:27:41
+</desc></wpt>
+<wpt lat = "51.87665" lon = "9.65489"><name>NBA1</name><desc>Obstacle 11 Muddy Maniacs
+Images:16569
+First:16.08.2025 10:02:40
+Last:16.08.2025 17:01:17
+Duration:06:58:37
+</desc></wpt>
+</gpx>

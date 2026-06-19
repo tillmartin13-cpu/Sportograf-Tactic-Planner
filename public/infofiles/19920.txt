@@ -1,0 +1,135 @@
+EventId: 19920
+Spots: 22
+Total Images: 26948
+Time:	01.01.0001 23:00:00 to 12.10.2025 16:05:29
+Duration: 739534.17:05:29
+
+(1) - 0.0 km
+	PAMAR1
+		Images:	921
+		Time:	12.10.2025 10:08:30 until 12.10.2025 15:09:26
+		Duration:	05:00:56
+		Location:	NULL NULL
+
+	PDBEJ1
+		Images:	578
+		Time:	12.10.2025 10:04:26 until 12.10.2025 14:29:59
+		Duration:	04:25:33
+		Location:	NULL NULL
+
+	PDPIE1
+		Images:	1060
+		Time:	12.10.2025 10:04:46 until 12.10.2025 16:04:48
+		Duration:	06:00:02
+		Location:	NULL NULL
+
+	PEAFT1
+		Images:	1149
+		Time:	12.10.2025 10:09:23 until 12.10.2025 16:05:29
+		Duration:	05:56:06
+		Location:	NULL NULL
+
+	PEBAD1
+		Images:	1296
+		Time:	12.10.2025 09:44:35 until 12.10.2025 14:57:36
+		Duration:	05:13:01
+		Location:	NULL NULL
+
+	PEBOL1
+		Images:	1429
+		Time:	12.10.2025 10:04:48 until 12.10.2025 15:12:07
+		Duration:	05:07:19
+		Location:	NULL NULL
+
+	PERAF1
+		Images:	1336
+		Time:	12.10.2025 10:04:22 until 12.10.2025 15:45:05
+		Duration:	05:40:43
+		Location:	NULL NULL
+
+	PEROS1
+		Images:	1003
+		Time:	01.01.0001 23:00:00 until 12.10.2025 15:41:57
+		Duration:	739534.16:41:57
+		Location:	NULL NULL
+
+	PGHES1
+		Images:	745
+		Time:	12.10.2025 10:09:52 until 12.10.2025 14:56:45
+		Duration:	04:46:53
+		Location:	NULL NULL
+
+	PJKOL1
+		Images:	495
+		Time:	12.10.2025 13:09:14 until 12.10.2025 16:04:09
+		Duration:	02:54:55
+		Location:	NULL NULL
+
+	PJWAL1
+		Images:	901
+		Time:	04.04.2021 14:24:35 until 12.10.2025 10:45:22
+		Duration:	1651.20:20:47
+		Location:	NULL NULL
+
+	PJWIL1
+		Images:	2386
+		Time:	12.10.2025 10:08:05 until 12.10.2025 14:59:12
+		Duration:	04:51:07
+		Location:	NULL NULL
+
+	PKNEL1
+		Images:	1857
+		Time:	12.10.2025 10:11:01 until 12.10.2025 15:50:08
+		Duration:	05:39:07
+		Location:	NULL NULL
+
+	PLHAM1
+		Images:	805
+		Time:	12.10.2025 10:03:34 until 12.10.2025 14:52:20
+		Duration:	04:48:46
+		Location:	NULL NULL
+
+	PLSMI1
+		Images:	713
+		Time:	12.10.2025 10:19:33 until 12.10.2025 15:33:39
+		Duration:	05:14:06
+		Location:	NULL NULL
+
+	PMBAR1
+		Images:	1736
+		Time:	12.10.2025 08:19:19 until 12.10.2025 14:14:39
+		Duration:	05:55:20
+		Location:	NULL NULL
+
+	PMDER1
+		Images:	2355
+		Time:	12.10.2025 09:16:46 until 12.10.2025 15:09:32
+		Duration:	05:52:46
+		Location:	NULL NULL
+
+	PMJIM1
+		Images:	2630
+		Time:	12.10.2025 09:57:23 until 12.10.2025 15:05:28
+		Duration:	05:08:05
+		Location:	NULL NULL
+
+	PMPUS1
+		Images:	744
+		Time:	12.10.2025 10:15:37 until 12.10.2025 15:10:33
+		Duration:	04:54:56
+		Location:	NULL NULL
+
+	PNGUZ1
+		Images:	2155
+		Time:	05.01.2000 17:43:43 until 12.10.2025 13:31:02
+		Duration:	9411.19:47:19
+		Location:	NULL NULL
+
+	PTNGO1
+		Images:	654
+		Time:	12.10.2025 10:14:46 until 12.10.2025 15:02:26
+		Duration:	04:47:40
+		Location:	NULL NULL
+
+(2) - Impressions / Pano
+	PANO1

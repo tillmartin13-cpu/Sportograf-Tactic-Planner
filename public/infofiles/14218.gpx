@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "51.40493" lon = "-0.4037"><name>GWH1</name><desc>Start
+Images:10628
+First:20.09.2025 06:00:46
+Last:20.09.2025 09:27:57
+Duration:03:27:11
+</desc></wpt>
+<wpt lat = "51.23384" lon = "-0.45715"><name>MWAT1</name><desc>29,0 km
+Images:7303
+First:20.09.2025 07:43:06
+Last:20.09.2025 12:48:29
+Duration:05:05:23
+</desc></wpt>
+<wpt lat = "51.17243" lon = "-0.47409"><name>BME1</name><desc>37,0 km
+Images:2329
+First:20.09.2025 08:25:09
+Last:20.09.2025 14:00:42
+Duration:05:35:33
+</desc></wpt>
+<wpt lat = "50.90652" lon = "-0.30634"><name>STHH1</name><desc>75,0 km
+Images:4690
+First:20.09.2025 08:32:49
+Last:20.09.2025 18:16:42
+Duration:09:43:53
+</desc></wpt>
+<wpt lat = "50.86204" lon = "-0.25451"><name>LOT1</name><desc>85,0 km
+Images:5513
+First:20.09.2025 10:40:59
+Last:20.09.2025 18:43:47
+Duration:08:02:48
+</desc></wpt>
+<wpt lat = "50.86204" lon = "-0.25451"><name>LOT2</name><desc>85,0 km
+Images:1317
+First:20.09.2025 10:21:11
+Last:20.09.2025 16:55:34
+Duration:06:34:23
+</desc></wpt>
+<wpt lat = "50.82414" lon = "-0.17289"><name>MWAT2</name><desc>95,0 km
+Images:585
+First:20.09.2025 16:35:27
+Last:20.09.2025 18:27:10
+Duration:01:51:43
+</desc></wpt>
+<wpt lat = "50.82432" lon = "-0.17462"><name>BME2</name><desc>95,0 km
+Images:171
+First:20.09.2025 16:18:03
+Last:20.09.2025 17:27:52
+Duration:01:09:49
+</desc></wpt>
+<wpt lat = "50.82442" lon = "-0.17825"><name>BME3</name><desc>Finish
+Images:64
+First:20.09.2025 17:28:18
+Last:20.09.2025 17:46:57
+Duration:00:18:39
+</desc></wpt>
+<wpt lat = "50.82442" lon = "-0.17825"><name>GWH2</name><desc>Finish
+Images:13463
+First:20.09.2025 12:32:34
+Last:20.09.2025 19:06:27
+Duration:06:33:53
+</desc></wpt>
+<wpt lat = "50.82442" lon = "-0.17825"><name>CUP1</name><desc>Finish
+Images:6232
+First:20.09.2025 07:38:36
+Last:20.09.2025 20:13:02
+Duration:12:34:26
+</desc></wpt>
+<wpt lat = "50.82442" lon = "-0.17825"><name>CUP2</name><desc>Finish
+Images:1427
+First:20.09.2025 11:15:59
+Last:20.09.2025 18:12:12
+Duration:06:56:13
+</desc></wpt>
+<wpt lat = "50.82442" lon = "-0.17825"><name>CUP3</name><desc>Finish
+Images:10404
+First:20.09.2025 10:40:32
+Last:20.09.2025 17:53:46
+Duration:07:13:14
+</desc></wpt>
+</gpx>

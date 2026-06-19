@@ -1,0 +1,315 @@
+EventId: 12589
+Spots: 50
+Total Images: 179460
+Time:	31.05.2024 18:50:03 to 01.06.2025 06:59:10
+Duration: 365.12:09:07
+
+(1) - Finish
+	AGIP2
+		Images:	1547
+		Time:	01.06.2024 13:32:12 until 01.06.2024 18:48:52
+		Duration:	05:16:40
+		Location:	40.75895 -74.00525
+
+	APKO1
+		Images:	5587
+		Time:	01.06.2024 06:44:46 until 01.06.2024 15:00:47
+		Duration:	08:16:01
+		Location:	40.75895 -74.00525
+
+	BSICA1
+		Images:	2434
+		Time:	01.06.2024 15:03:05 until 01.06.2024 21:39:27
+		Duration:	06:36:22
+		Location:	40.75895 -74.00525
+
+(2) - Medalwall
+	ADANM5
+		Images:	414
+		Time:	01.06.2024 13:35:34 until 01.06.2024 18:43:32
+		Duration:	05:07:58
+		Location:	40.75895 -74.00525
+
+	ASICA1
+		Images:	2411
+		Time:	01.06.2024 06:08:51 until 01.06.2024 15:02:20
+		Duration:	08:53:29
+		Location:	40.75895 -74.00525
+
+	BPKO1
+		Images:	4932
+		Time:	01.06.2024 15:01:51 until 01.06.2024 21:34:06
+		Duration:	06:32:15
+		Location:	40.75895 -74.00525
+
+(3) - Station 1 Skierg
+	ACBER1
+		Images:	2890
+		Time:	01.06.2024 06:30:56 until 01.06.2024 16:48:56
+		Duration:	10:18:00
+		Location:	40.75895 -74.00525
+
+	ADANM1
+		Images:	1583
+		Time:	01.06.2024 06:15:39 until 01.06.2024 09:36:55
+		Duration:	03:21:16
+		Location:	40.75895 -74.00525
+
+	AJAYA1
+		Images:	4804
+		Time:	31.05.2024 19:59:38 until 01.06.2024 16:17:51
+		Duration:	20:18:13
+		Location:	40.75895 -74.00525
+
+	APARO5
+		Images:	368
+		Time:	01.06.2024 08:15:26 until 01.06.2024 17:47:23
+		Duration:	09:31:57
+		Location:	40.75895 -74.00525
+
+	ATHS1
+		Images:	5582
+		Time:	31.05.2024 21:40:23 until 01.06.2024 16:17:36
+		Duration:	18:37:13
+		Location:	40.75895 -74.00525
+
+	BCBER1
+		Images:	795
+		Time:	01.06.2024 16:53:12 until 01.06.2024 20:21:40
+		Duration:	03:28:28
+		Location:	40.75895 -74.00525
+
+	BJAY1
+		Images:	1692
+		Time:	01.06.2024 16:24:04 until 01.06.2024 20:13:31
+		Duration:	03:49:27
+		Location:	40.75895 -74.00525
+
+	BTHS1
+		Images:	2739
+		Time:	01.06.2024 16:23:56 until 01.06.2024 20:00:01
+		Duration:	03:36:05
+		Location:	40.75895 -74.00525
+
+(4) - Station 2 Sled Push
+	ADANM2
+		Images:	832
+		Time:	01.06.2024 11:05:11 until 01.06.2024 17:03:59
+		Duration:	05:58:48
+		Location:	40.75895 -74.00525
+
+	AGIP1
+		Images:	3143
+		Time:	01.06.2024 07:12:08 until 01.06.2024 16:56:07
+		Duration:	09:43:59
+		Location:	40.75895 -74.00525
+
+	AIZZY1
+		Images:	6461
+		Time:	01.06.2024 06:09:15 until 01.06.2024 14:57:32
+		Duration:	08:48:17
+		Location:	40.75895 -74.00525
+
+	AJVI1
+		Images:	3173
+		Time:	01.06.2024 00:18:50 until 01.06.2024 14:56:10
+		Duration:	14:37:20
+		Location:	40.75895 -74.00525
+
+	APARO2
+		Images:	2653
+		Time:	01.06.2024 09:42:55 until 01.06.2024 20:07:47
+		Duration:	10:24:52
+		Location:	40.75895 -74.00525
+
+	BBABA1
+		Images:	1394
+		Time:	01.06.2024 15:16:44 until 01.06.2024 20:24:17
+		Duration:	05:07:33
+		Location:	40.75895 -74.00525
+
+	BKASO1
+		Images:	872
+		Time:	01.06.2024 15:18:27 until 01.06.2024 20:17:52
+		Duration:	04:59:25
+		Location:	40.75895 -74.00525
+
+(5) - Station 3 Sled Pull
+	ADANM3
+		Images:	1333
+		Time:	01.06.2024 11:35:30 until 01.06.2024 18:03:58
+		Duration:	06:28:28
+		Location:	40.75895 -74.00525
+
+	AGIP5
+		Images:	1579
+		Time:	01.06.2024 11:32:40 until 01.06.2024 18:10:20
+		Duration:	06:37:40
+		Location:	40.75895 -74.00525
+
+	AJONH1
+		Images:	3530
+		Time:	01.06.2024 07:03:10 until 01.06.2025 06:59:10
+		Duration:	364.23:56:00
+		Location:	40.75895 -74.00525
+
+	APARO3
+		Images:	2821
+		Time:	01.06.2024 11:51:09 until 01.06.2024 19:21:51
+		Duration:	07:30:42
+		Location:	40.75895 -74.00525
+
+	AVICY2
+		Images:	867
+		Time:	01.06.2024 17:44:40 until 01.06.2024 18:02:28
+		Duration:	00:17:48
+		Location:	40.75895 -74.00525
+
+	AWMY1
+		Images:	5094
+		Time:	01.06.2024 06:17:49 until 01.06.2024 15:19:13
+		Duration:	09:01:24
+		Location:	40.75895 -74.00525
+
+	BEUGP1
+		Images:	3001
+		Time:	01.06.2024 15:34:32 until 01.06.2024 20:45:45
+		Duration:	05:11:13
+		Location:	40.75895 -74.00525
+
+	BYEP1
+		Images:	3118
+		Time:	01.06.2024 15:32:16 until 01.06.2024 20:45:32
+		Duration:	05:13:16
+		Location:	40.75895 -74.00525
+
+(6) - Station 5 Rowing
+	ABABA1
+		Images:	3955
+		Time:	31.05.2024 20:59:08 until 01.06.2024 15:08:55
+		Duration:	18:09:47
+		Location:	40.75895 -74.00525
+
+	ADANM4
+		Images:	1494
+		Time:	01.06.2024 12:08:03 until 01.06.2024 17:31:14
+		Duration:	05:23:11
+		Location:	40.75895 -74.00525
+
+	AGIP4
+		Images:	2400
+		Time:	01.06.2024 12:06:08 until 01.06.2024 17:32:37
+		Duration:	05:26:29
+		Location:	40.75895 -74.00525
+
+	APARO4
+		Images:	269
+		Time:	01.06.2024 12:09:44 until 01.06.2024 12:29:52
+		Duration:	00:20:08
+		Location:	40.75895 -74.00525
+
+	ATAT1
+		Images:	9127
+		Time:	31.05.2024 22:15:00 until 01.06.2024 16:11:59
+		Duration:	17:56:59
+		Location:	40.75895 -74.00525
+
+	BMESE1
+		Images:	4234
+		Time:	01.06.2024 15:08:06 until 01.06.2024 20:44:00
+		Duration:	05:35:54
+		Location:	40.75895 -74.00525
+
+	BTAT1
+		Images:	4555
+		Time:	01.06.2024 16:14:53 until 01.06.2024 20:38:22
+		Duration:	04:23:29
+		Location:	40.75895 -74.00525
+
+(7) - Station 6 Farmers Carry
+	BPARO1LS1
+		Images:	13437
+		Time:	01.06.2024 08:03:12 until 01.06.2024 21:22:17
+		Duration:	13:19:05
+		Location:	40.75895 -74.00525
+
+	BPARO1LS2
+		Images:	4131
+		Time:	01.06.2024 08:11:25 until 01.06.2024 21:15:45
+		Duration:	13:04:20
+		Location:	40.75895 -74.00525
+
+(8) - Station 7 Sandbag Lunges
+	AEUGP1
+		Images:	8551
+		Time:	01.06.2024 06:26:22 until 01.06.2024 15:22:40
+		Duration:	08:56:18
+		Location:	40.75895 -74.00525
+
+	APARO1
+		Images:	7180
+		Time:	01.06.2024 13:04:34 until 01.06.2024 17:24:45
+		Duration:	04:20:11
+		Location:	40.75895 -74.00525
+
+	AVICY1
+		Images:	1323
+		Time:	31.05.2024 18:50:03 until 01.06.2024 17:44:10
+		Duration:	22:54:07
+		Location:	40.75895 -74.00525
+
+	AYEP1
+		Images:	5645
+		Time:	01.06.2024 06:26:22 until 01.06.2024 15:22:00
+		Duration:	08:55:38
+		Location:	40.75895 -74.00525
+
+	BJONH1
+		Images:	2202
+		Time:	01.06.2024 15:24:53 until 01.06.2024 21:30:44
+		Duration:	06:05:51
+		Location:	40.75895 -74.00525
+
+	BWMY1
+		Images:	4185
+		Time:	01.06.2024 15:25:22 until 01.06.2024 21:29:44
+		Duration:	06:04:22
+		Location:	40.75895 -74.00525
+
+(9) - Station 8 Wall Balls
+	ADANM6
+		Images:	776
+		Time:	01.06.2024 12:49:58 until 01.06.2024 16:04:19
+		Duration:	03:14:21
+		Location:	40.75895 -74.00525
+
+	AGIP3
+		Images:	4030
+		Time:	01.06.2024 12:48:09 until 01.06.2024 20:23:59
+		Duration:	07:35:50
+		Location:	40.75895 -74.00525
+
+	AKASO1
+		Images:	2234
+		Time:	01.06.2024 06:26:47 until 01.06.2024 15:00:28
+		Duration:	08:33:41
+		Location:	40.75895 -74.00525
+
+	AMESE1
+		Images:	10058
+		Time:	01.06.2024 06:21:03 until 01.06.2024 15:03:59
+		Duration:	08:42:56
+		Location:	40.75895 -74.00525
+
+	BIZZY1
+		Images:	6623
+		Time:	01.06.2024 15:04:13 until 01.06.2024 21:41:01
+		Duration:	06:36:48
+		Location:	40.75895 -74.00525
+
+	BJVI1
+		Images:	5402
+		Time:	01.06.2024 15:04:24 until 01.06.2024 21:47:02
+		Duration:	06:42:38
+		Location:	40.75895 -74.00525
+

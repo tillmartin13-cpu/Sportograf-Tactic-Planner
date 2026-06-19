@@ -1,0 +1,168 @@
+EventId: 11668
+Spots: 27
+Total Images: 223283
+Time:	23.10.2024 22:26:04 to 24.12.2024 03:39:48
+Duration: 61.05:13:44
+
+(1) - 0,0 km
+	ACHAO1
+		Images:	6840
+		Time:	23.11.2024 21:07:50 until 24.11.2024 03:45:54
+		Duration:	06:38:04
+		Location:	14.56444 120.985
+
+	ACHAO1LS1
+		Images:	4140
+		Time:	23.11.2024 21:43:18 until 24.11.2024 03:31:37
+		Duration:	05:48:19
+		Location:	14.56444 120.985
+
+	ACHTE1
+		Images:	3480
+		Time:	23.11.2024 21:25:03 until 24.11.2024 03:29:33
+		Duration:	06:04:30
+		Location:	14.59096 120.98063
+
+	AHTT1
+		Images:	20439
+		Time:	23.11.2024 21:06:59 until 24.11.2024 03:32:21
+		Duration:	06:25:22
+		Location:	14.58965 120.97889
+
+	AHTT1LS1
+		Images:	5986
+		Time:	23.11.2024 20:23:06 until 24.11.2024 02:59:46
+		Duration:	06:36:40
+		Location:	14.58965 120.97889
+
+	AJOC1
+		Images:	11737
+		Time:	23.11.2024 21:53:44 until 24.11.2024 04:20:25
+		Duration:	06:26:41
+		Location:	14.59063 120.97112
+
+	ALMD1
+		Images:	10682
+		Time:	23.11.2024 18:13:40 until 24.11.2024 03:58:12
+		Duration:	09:44:32
+		Location:	14.59061 120.97605
+
+	ALNG1
+		Images:	10916
+		Time:	23.11.2024 20:43:12 until 24.11.2024 03:43:54
+		Duration:	07:00:42
+		Location:	14.58663 120.97756
+
+	ALNG1LS1
+		Images:	10860
+		Time:	23.11.2024 20:18:21 until 24.11.2024 03:10:22
+		Duration:	06:52:01
+		Location:	14.58663 120.97756
+
+	AMLFR1
+		Images:	1994
+		Time:	23.11.2024 21:19:54 until 24.11.2024 04:02:17
+		Duration:	06:42:23
+		Location:	14.582 120.98118
+
+	APCT1
+		Images:	5466
+		Time:	23.11.2024 20:07:11 until 24.11.2024 04:06:52
+		Duration:	07:59:41
+		Location:	14.58099 120.97652
+
+	APCT1LS1
+		Images:	18040
+		Time:	23.11.2024 20:30:03 until 24.11.2024 03:57:01
+		Duration:	07:26:58
+		Location:	14.58099 120.97652
+
+	ARDI1
+		Images:	2658
+		Time:	23.11.2024 21:37:55 until 24.11.2024 02:54:12
+		Duration:	05:16:17
+		Location:	14.58693 120.98124
+
+	ARDI1LS1
+		Images:	1829
+		Time:	23.11.2024 21:35:53 until 24.11.2024 01:16:15
+		Duration:	03:40:22
+		Location:	14.58693 120.98124
+
+	AVLA1
+		Images:	7641
+		Time:	23.12.2024 17:46:57 until 24.12.2024 03:39:48
+		Duration:	09:52:51
+		Location:	14.56865 120.98297
+
+	AWIG1
+		Images:	10808
+		Time:	23.11.2024 17:35:25 until 24.11.2024 04:23:20
+		Duration:	10:47:55
+		Location:	14.59063 120.97112
+
+(2) - 0.0 km
+	BARM1
+		Images:	3651
+		Time:	23.11.2024 20:27:40 until 24.11.2024 03:44:02
+		Duration:	07:16:22
+		Location:	14.57129 120.98570
+
+	BBUP1
+		Images:	6916
+		Time:	23.11.2024 21:39:40 until 24.11.2024 04:13:32
+		Duration:	06:33:52
+		Location:	14.59248 120.97457
+
+	BCAA1
+		Images:	7920
+		Time:	23.10.2024 22:26:04 until 24.10.2024 04:34:11
+		Duration:	06:08:07
+		Location:	14.60644 120.97482
+
+	BDCL1
+		Images:	9694
+		Time:	23.11.2024 20:45:05 until 24.11.2024 03:56:20
+		Duration:	07:11:15
+		Location:	14.56925 120.98296
+
+	BRPB1
+		Images:	4186
+		Time:	23.11.2024 21:27:55 until 24.11.2024 03:33:59
+		Duration:	06:06:04
+		Location:	14.60207 120.97580
+
+(3) - Finish
+	AJERO2
+		Images:	19209
+		Time:	24.11.2024 00:15:29 until 24.11.2024 04:36:28
+		Duration:	04:20:59
+		Location:	14.58223 120.9741
+
+	AVMM2
+		Images:	25433
+		Time:	23.11.2024 23:41:18 until 24.11.2024 04:37:07
+		Duration:	04:55:49
+		Location:	14.58223 120.9741
+
+	AVMM2LS1
+		Images:	5644
+		Time:	15.11.2024 13:12:23 until 24.11.2024 03:12:01
+		Duration:	8.13:59:38
+		Location:	14.58223 120.9741
+
+(4) - Impressions / Pano
+	PANO1
+(5) - Start
+	AJERO1
+		Images:	4311
+		Time:	23.11.2024 17:40:13 until 24.11.2024 00:12:22
+		Duration:	06:32:09
+		Location:	14.58099 120.97652
+
+	AVMM1
+		Images:	2803
+		Time:	23.11.2024 17:43:57 until 23.11.2024 23:05:29
+		Duration:	05:21:32
+		Location:	14.58099 120.97652
+

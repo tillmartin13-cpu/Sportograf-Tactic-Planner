@@ -1,0 +1,88 @@
+EventId: 14664
+Spots: 12
+Total Images: 69051
+Time:	31.12.2014 23:10:06 to 01.03.2025 16:34:22
+Duration: 3712.17:24:16
+
+(1) - Obstacle 1 Course before Kiss of Mud
+	JOFU1LS1
+		Images:	4460
+		Time:	01.03.2025 07:28:11 until 01.03.2025 10:11:07
+		Duration:	02:42:56
+		Location:	30.79592 -98.36074
+
+(2) - Obstacle 1 Kiss of Mud
+	CIFU1
+		Images:	7499
+		Time:	01.03.2025 04:14:21 until 01.03.2025 13:26:36
+		Duration:	09:12:15
+		Location:	30.79445 -98.35921
+
+(3) - Obstacle 3 Mud Mile
+	DOBR1
+		Images:	8763
+		Time:	01.03.2025 05:34:36 until 01.03.2025 13:28:00
+		Duration:	07:53:24
+		Location:	30.79096 -98.35480
+
+(4) - Obstacle 5 The BlockNess Monster
+	JVI1
+		Images:	15392
+		Time:	01.03.2025 05:35:09 until 01.03.2025 13:42:55
+		Duration:	08:07:46
+		Location:	30.79342 -98.34843
+
+(5) - Obstacle 17 Well Swung
+	AKT1
+		Images:	5772
+		Time:	01.03.2025 05:58:45 until 01.03.2025 15:33:19
+		Duration:	09:34:34
+		Location:	30.79473 -98.35745
+
+(6) - Obstacle 18 Hangin Tough
+	JLEY1
+		Images:	7678
+		Time:	01.03.2025 05:12:45 until 01.03.2025 16:15:52
+		Duration:	11:03:07
+		Location:	30.79936 -98.35829
+
+	JMS1
+		Images:	10557
+		Time:	01.03.2025 06:56:28 until 01.03.2025 16:12:45
+		Duration:	09:16:17
+		Location:	30.79937 -98.35834
+
+(7) - Obstacle 20 Artic Enema
+	JVI2
+		Images:	490
+		Time:	01.03.2025 14:34:17 until 01.03.2025 15:11:16
+		Duration:	00:36:59
+		Location:	30.80022 -98.35870
+
+	GACA1
+		Images:	4113
+		Time:	31.12.2014 23:10:06 until 01.03.2025 16:30:47
+		Duration:	3712.17:20:41
+		Location:	30.80022 -98.35870
+
+(8) - Obstacle 21 Electroshock
+	GAPO1
+		Images:	3218
+		Time:	01.03.2025 06:41:18 until 01.03.2025 16:34:22
+		Duration:	09:53:04
+		Location:	30.79961 -98.35915
+
+(9) - Obstacle 21 LS Finish
+	JOFU1LS2
+		Images:	1065
+		Time:	01.03.2025 08:00:09 until 01.03.2025 16:00:27
+		Duration:	08:00:18
+		Location:	30.79961 -98.35915
+
+(10) - Impressions / Pano
+	JOFU1
+		Images:	44
+		Time:	01.03.2025 04:04:48 until 01.03.2025 11:17:18
+		Duration:	07:12:30
+		Location:	30.80080 -98.35746
+

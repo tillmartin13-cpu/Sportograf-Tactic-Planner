@@ -1,0 +1,87 @@
+EventId: 14828
+Spots: 12
+Total Images: 53541
+Time:	15.06.2025 07:29:21 to 15.06.2025 16:39:39
+Duration: 09:10:18
+
+(1) - Swim - Motorboot
+	BK1
+		Images:	543
+		Time:	15.06.2025 07:33:55 until 15.06.2025 08:36:26
+		Duration:	01:02:31
+		Location:	NULL NULL
+
+(2) - Swim - Ausstieg
+	FGA1
+		Images:	788
+		Time:	15.06.2025 07:42:01 until 15.06.2025 09:00:34
+		Duration:	01:18:33
+		Location:	NULL NULL
+
+	SZ1
+		Images:	2664
+		Time:	15.06.2025 07:51:11 until 15.06.2025 14:46:29
+		Duration:	06:55:18
+		Location:	NULL NULL
+
+(3) - Bike - Brücke vor Haste
+	MNO1
+		Images:	10064
+		Time:	15.06.2025 07:29:21 until 15.06.2025 12:18:44
+		Duration:	04:49:23
+		Location:	NULL NULL
+
+(4) - Bike - Kaliberg Bokeloh
+	JKOR1
+		Images:	4481
+		Time:	15.06.2025 07:40:35 until 15.06.2025 12:57:37
+		Duration:	05:17:02
+		Location:	NULL NULL
+
+(5) - Bike - Wendepunkt Sprint
+	MNO2
+		Images:	8927
+		Time:	15.06.2025 13:24:20 until 15.06.2025 15:36:46
+		Duration:	02:12:26
+		Location:	NULL NULL
+
+(6) - Bike - Einfahrt Steinhude
+	BK3
+		Images:	5489
+		Time:	15.06.2025 13:40:57 until 15.06.2025 15:35:10
+		Duration:	01:54:13
+		Location:	NULL NULL
+
+(7) - Run - Promenade Steinhude
+	MELS1
+		Images:	5042
+		Time:	15.06.2025 08:05:53 until 15.06.2025 16:27:25
+		Duration:	08:21:32
+		Location:	NULL NULL
+
+(8) - Run - Tümpel Steinhude
+	JKOR2
+		Images:	4348
+		Time:	15.06.2025 13:27:44 until 15.06.2025 15:53:19
+		Duration:	02:25:35
+		Location:	NULL NULL
+
+(9) - Finish
+	FGA2
+		Images:	6485
+		Time:	15.06.2025 12:04:41 until 15.06.2025 16:39:39
+		Duration:	04:34:58
+		Location:	NULL NULL
+
+	BK2
+		Images:	659
+		Time:	15.06.2025 13:10:37 until 15.06.2025 13:38:20
+		Duration:	00:27:43
+		Location:	NULL NULL
+
+	SZ2
+		Images:	4051
+		Time:	15.06.2025 12:03:48 until 15.06.2025 16:37:26
+		Duration:	04:33:38
+		Location:	NULL NULL
+

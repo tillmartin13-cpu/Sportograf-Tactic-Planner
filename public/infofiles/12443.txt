@@ -1,0 +1,495 @@
+EventId: 12443
+Spots: 77
+Total Images: 602624
+Time:	20.04.2024 10:59:05 to 21.04.2024 15:40:46
+Duration: 1.04:41:41
+
+(1) - Bahnhof City West (Marathon: 18,3 km/Halbmarathon: 18,3 km)
+	BLSE1
+		Images:	7911
+		Time:	21.04.2024 09:54:42 until 21.04.2024 12:21:44
+		Duration:	02:27:02
+		Location:	48.19602 16.34083
+
+	BSTUK1
+		Images:	3631
+		Time:	21.04.2024 09:54:33 until 21.04.2024 12:22:11
+		Duration:	02:27:38
+		Location:	48.19602 16.34083
+
+	BSTUK1LS1
+		Images:	2791
+		Time:	21.04.2024 09:31:41 until 21.04.2024 12:21:23
+		Duration:	02:49:42
+		Location:	48.19602 16.34083
+
+	BSTUK1LS2
+		Images:	1869
+		Time:	21.04.2024 09:29:28 until 21.04.2024 11:44:47
+		Duration:	02:15:19
+		Location:	48.19602 16.34083
+
+(2) - Café Savoy (Marathon: 11,8 km/Halbmarathon: 11,8 km)
+	ADMAC1
+		Images:	2766
+		Time:	21.04.2024 09:34:26 until 21.04.2024 11:12:58
+		Duration:	01:38:32
+		Location:	48.19743 16.35962
+
+	AULKE1
+		Images:	7290
+		Time:	21.04.2024 08:14:54 until 21.04.2024 11:17:19
+		Duration:	03:02:25
+		Location:	48.19743 16.35962
+
+	AULKE1LS1
+		Images:	1904
+		Time:	21.04.2024 09:32:50 until 21.04.2024 11:08:22
+		Duration:	01:35:32
+		Location:	48.19743 16.35962
+
+(3) - Ernst-Happel-Stadion (Marathon: 30,5 km/Halbmarathon: -)
+	AJOHD2
+		Images:	19777
+		Time:	21.04.2024 10:28:57 until 21.04.2024 13:43:22
+		Duration:	03:14:25
+		Location:	48.2062 16.41808
+
+(4) - Hauptallee (Marathon: 3,9 km/Halbmarathon: 3,9 km)
+	AJOHD1
+		Images:	8531
+		Time:	21.04.2024 08:33:28 until 21.04.2024 10:17:00
+		Duration:	01:43:32
+		Location:	48.2096 16.40668
+
+	BLOMA1
+		Images:	5124
+		Time:	21.04.2024 08:57:45 until 21.04.2024 11:05:44
+		Duration:	02:07:59
+		Location:	48.2096 16.40668
+
+	BLOMA1LS1
+		Images:	3753
+		Time:	21.04.2024 09:04:23 until 21.04.2024 10:07:01
+		Duration:	01:02:38
+		Location:	48.2096 16.40668
+
+(5) - Hauptallee (Marathon: 32,9 km/Halbmarathon: -)
+	BLOMA2
+		Images:	26210
+		Time:	21.04.2024 11:06:00 until 21.04.2024 14:15:45
+		Duration:	03:09:45
+		Location:	48.19388 16.43641
+
+	BLOMA2LS1
+		Images:	9350
+		Time:	21.04.2024 10:54:06 until 21.04.2024 14:13:25
+		Duration:	03:19:19
+		Location:	48.19388 16.43641
+
+(6) - Impressions / Pano
+	PANO1
+(7) - Kärntner Ring (Marathon: 10,6 & 40,7 km/Halbmarathon: 10,6 km)
+	AADB1
+		Images:	5521
+		Time:	21.04.2024 09:31:37 until 21.04.2024 15:21:22
+		Duration:	05:49:45
+		Location:	48.20191 16.37155
+
+	AADB2
+		Images:	1356
+		Time:	21.04.2024 09:31:37 until 21.04.2024 12:39:24
+		Duration:	03:07:47
+		Location:	48.20191 16.37155
+
+	ANAG1
+		Images:	10378
+		Time:	21.04.2024 09:31:59 until 21.04.2024 15:21:29
+		Duration:	05:49:30
+		Location:	48.20191 16.37155
+
+(8) - Medaillen
+	ADS1
+		Images:	4431
+		Time:	21.04.2024 09:21:10 until 21.04.2024 15:33:38
+		Duration:	06:12:28
+		Location:	48.21097 16.36081
+
+	AEH1
+		Images:	14095
+		Time:	21.04.2024 09:29:30 until 21.04.2024 15:34:50
+		Duration:	06:05:20
+		Location:	48.21097 16.36081
+
+	BSEB1
+		Images:	7061
+		Time:	21.04.2024 09:22:12 until 21.04.2024 15:37:30
+		Duration:	06:15:18
+		Location:	48.21097 16.36081
+
+(9) - Naturhistorisches Museum (Marathon: 41,9 km/Halbmarathon: 20,6 km)
+	BSF1
+		Images:	15893
+		Time:	21.04.2024 09:00:09 until 21.04.2024 15:29:23
+		Duration:	06:29:14
+		Location:	48.20673 16.36007
+
+(10) - Obere Donaustraße (Marathon: 25,8 km/Halbmarathon: -)
+	AJIS2
+		Images:	4089
+		Time:	21.04.2024 10:11:20 until 21.04.2024 13:07:58
+		Duration:	02:56:38
+		Location:	48.2135 16.37634
+
+(11) - Parkring (Marathon: 10,2 & 40,3 km/Halbmarathon: 10,2 km)
+	AJUS1
+		Images:	23447
+		Time:	21.04.2024 08:56:12 until 21.04.2024 15:17:57
+		Duration:	06:21:45
+		Location:	48.20385 16.37712
+
+	AJUS1LS1
+		Images:	4856
+		Time:	21.04.2024 08:38:27 until 21.04.2024 14:01:39
+		Duration:	05:23:12
+		Location:	48.20385 16.37712
+
+	AKYR1
+		Images:	21644
+		Time:	21.04.2024 09:10:31 until 21.04.2024 15:15:23
+		Duration:	06:04:52
+		Location:	48.20385 16.37712
+
+(12) - Parlament (Marathon: 42,0 km/Halbmarathon: 20,9 km)
+	AJAT1
+		Images:	6631
+		Time:	21.04.2024 08:14:09 until 21.04.2024 13:04:01
+		Duration:	04:49:52
+		Location:	48.20852 16.36013
+
+	ALU2
+		Images:	5054
+		Time:	21.04.2024 12:59:05 until 21.04.2024 15:31:38
+		Duration:	02:32:33
+		Location:	48.20852 16.36013
+
+	ALUL1
+		Images:	9261
+		Time:	21.04.2024 08:49:32 until 21.04.2024 13:03:59
+		Duration:	04:14:27
+		Location:	48.20852 16.36013
+
+	ALUL1LS1
+		Images:	4385
+		Time:	21.04.2024 10:05:00 until 21.04.2024 13:04:04
+		Duration:	02:59:04
+		Location:	48.20852 16.36013
+
+	ASDS2
+		Images:	2047
+		Time:	21.04.2024 10:02:22 until 21.04.2024 12:47:50
+		Duration:	02:45:28
+		Location:	48.20852 16.36013
+
+	ASDS3
+		Images:	1464
+		Time:	21.04.2024 13:02:58 until 21.04.2024 15:28:42
+		Duration:	02:25:44
+		Location:	48.20852 16.36013
+
+(13) - Praterstern (Marathon: 2,5 km/Halbmarathon: 2,5 km)
+	AKHW1
+		Images:	2087
+		Time:	21.04.2024 09:13:47 until 21.04.2024 09:53:23
+		Duration:	00:39:36
+		Location:	48.21719 16.39312
+
+	BRMA1
+		Images:	2758
+		Time:	21.04.2024 08:32:11 until 21.04.2024 09:48:38
+		Duration:	01:16:27
+		Location:	48.21779 16.39031
+
+(14) - Raiffeisenplatz (Marathon: 25,8 km/Halbmarathon: -)
+	BANN2
+		Images:	6262
+		Time:	21.04.2024 10:12:54 until 21.04.2024 13:08:15
+		Duration:	02:55:21
+		Location:	48.2135 16.37634
+
+(15) - Reichsbrücke (Marathon: 1,2 km/Halbmarathon: 1,2 km)
+	AJIS1
+		Images:	2474
+		Time:	21.04.2024 08:12:40 until 21.04.2024 09:41:43
+		Duration:	01:29:03
+		Location:	48.22518 16.40365
+
+	BANN1
+		Images:	4585
+		Time:	21.04.2024 08:13:17 until 21.04.2024 09:41:16
+		Duration:	01:27:59
+		Location:	48.22518 16.40365
+
+(16) - Rustenschacherallee (Marathon: 36,0 km/Halbmarathon: -)
+	ACLS2
+		Images:	10399
+		Time:	21.04.2024 10:47:26 until 21.04.2024 14:40:43
+		Duration:	03:53:17
+		Location:	48.2012 16.41108
+
+(17) - Schloss Schönbrunn (Marathon: 16,0 km/Halbmarathon: 16,0 km)
+	AJOTO1
+		Images:	7649
+		Time:	20.04.2024 10:59:05 until 21.04.2024 11:57:28
+		Duration:	1.00:58:23
+		Location:	48.18816 16.31427
+
+	ALU1
+		Images:	15495
+		Time:	21.04.2024 08:54:13 until 21.04.2024 11:52:16
+		Duration:	02:58:03
+		Location:	48.18816 16.31427
+
+	ALU1LS1
+		Images:	1210
+		Time:	21.04.2024 08:36:27 until 21.04.2024 11:40:47
+		Duration:	03:04:20
+		Location:	48.18816 16.31427
+
+(18) - Schüttelstraße Skyline (Marathon: 6,1 km/Halbmarathon: 6,1 km)
+	ACLS1
+		Images:	5293
+		Time:	21.04.2024 09:18:16 until 21.04.2024 10:26:43
+		Duration:	01:08:27
+		Location:	48.20018 16.40906
+
+(19) - Schwarzenbergplatz (Marathon: 10,4 & 40,5 km/Halbmarathon: 10,4 km)
+	AMR1
+		Images:	18372
+		Time:	21.04.2024 09:28:50 until 21.04.2024 15:11:13
+		Duration:	05:42:23
+		Location:	48.20164 16.37407
+
+	BADCR1
+		Images:	8875
+		Time:	21.04.2024 09:21:50 until 21.04.2024 15:20:29
+		Duration:	05:58:39
+		Location:	48.20164 16.37407
+
+(20) - Start
+	ASDS1
+		Images:	673
+		Time:	21.04.2024 08:44:24 until 21.04.2024 09:33:31
+		Duration:	00:49:07
+		Location:	48.2312 16.41502
+
+	BWB1
+		Images:	602
+		Time:	21.04.2024 08:32:46 until 21.04.2024 09:13:08
+		Duration:	00:40:22
+		Location:	48.2312 16.41502
+
+(21) - Start mit Skyline (Marathon: 0,8 km/Halbmarathon: 0,8 km)
+	AHSA1
+		Images:	5616
+		Time:	21.04.2024 08:31:35 until 21.04.2024 09:37:42
+		Duration:	01:06:07
+		Location:	48.22909 16.41114
+
+	AISM1
+		Images:	2076
+		Time:	21.04.2024 08:16:04 until 21.04.2024 09:37:46
+		Duration:	01:21:42
+		Location:	48.22909 16.41114
+
+(22) - Stubenring (Marathon: 9,2 km/Halbmarathon: 9,2 km)
+	ARIP1
+		Images:	7531
+		Time:	21.04.2024 09:15:43 until 21.04.2024 10:43:07
+		Duration:	01:27:24
+		Location:	48.20986 16.38239
+
+(23) - Technisches Museum (Marathon: 16,4 km/Halbmarathon: 16,4 km)
+	BEJ1
+		Images:	6443
+		Time:	21.04.2024 09:22:15 until 21.04.2024 12:58:34
+		Duration:	03:36:19
+		Location:	48.1904 16.3184
+
+	BTJA1
+		Images:	4571
+		Time:	21.04.2024 09:46:30 until 21.04.2024 12:05:35
+		Duration:	02:19:05
+		Location:	48.1904 16.3184
+
+(24) - Untere Donaustraße (Marathon: 26,0 km/Halbmarathon: -)
+	AHSA2
+		Images:	11155
+		Time:	21.04.2024 10:12:59 until 21.04.2024 13:10:25
+		Duration:	02:57:26
+		Location:	48.22909 16.41114
+
+	AISM2
+		Images:	4960
+		Time:	21.04.2024 10:13:41 until 21.04.2024 13:10:27
+		Duration:	02:56:46
+		Location:	48.21242 16.37963
+
+(25) - Volkstheater (Marathon: 21,8 km/Halbmarathon: 20,5 km)
+	AMAMI1
+		Images:	2498
+		Time:	21.04.2024 07:45:36 until 21.04.2024 12:40:36
+		Duration:	04:55:00
+		Location:	48.20551 16.3576
+
+	AMAMI1LS1
+		Images:	3135
+		Time:	21.04.2024 09:50:05 until 21.04.2024 12:40:42
+		Duration:	02:50:37
+		Location:	48.20551 16.3576
+
+	ARMI1
+		Images:	3638
+		Time:	21.04.2024 07:46:16 until 21.04.2024 12:40:42
+		Duration:	04:54:26
+		Location:	48.20551 16.3576
+
+	BIRG1
+		Images:	5350
+		Time:	21.04.2024 09:25:56 until 21.04.2024 12:44:22
+		Duration:	03:18:26
+		Location:	48.20537 16.35851
+
+	BIRG1LS1
+		Images:	4785
+		Time:	21.04.2024 09:03:53 until 21.04.2024 12:12:10
+		Duration:	03:08:17
+		Location:	48.20537 16.35851
+
+	BUEC1
+		Images:	9618
+		Time:	21.04.2024 08:37:50 until 21.04.2024 12:14:25
+		Duration:	03:36:35
+		Location:	48.20537 16.35851
+
+	BUEC1LS1
+		Images:	3195
+		Time:	21.04.2024 08:44:45 until 21.04.2024 12:08:07
+		Duration:	03:23:22
+		Location:	48.20537 16.35851
+
+(26) - Votivkirche (Marathon: 22,0 km/Halbmarathon: -)
+	BEP1
+		Images:	5398
+		Time:	21.04.2024 09:31:34 until 21.04.2024 12:44:26
+		Duration:	03:12:52
+		Location:	48.21457 16.36198
+
+	BEP1LS1
+		Images:	1738
+		Time:	21.04.2024 09:07:54 until 21.04.2024 12:06:57
+		Duration:	02:59:03
+		Location:	48.21457 16.36198
+
+(27) - Wiener Staatsoper (Marathon: 10,8 & 41,0 km/Halbmarathon: 10,8 km)
+	BFAJ1
+		Images:	31479
+		Time:	21.04.2024 08:52:35 until 21.04.2024 15:22:56
+		Duration:	06:30:21
+		Location:	48.20264 16.36803
+
+	BMSI1
+		Images:	26394
+		Time:	21.04.2024 09:01:06 until 21.04.2024 15:40:46
+		Duration:	06:39:40
+		Location:	48.20264 16.36803
+
+(28) - Ziel Halbmarathon
+	APGE1
+		Images:	10579
+		Time:	21.04.2024 08:34:21 until 21.04.2024 12:56:45
+		Duration:	04:22:24
+		Location:	48.21097 16.36081
+
+	BMIRS1
+		Images:	6194
+		Time:	20.04.2024 14:19:10 until 21.04.2024 12:56:40
+		Duration:	22:37:30
+		Location:	48.21097 16.36081
+
+	BMIRS1LS1
+		Images:	2433
+		Time:	20.04.2024 14:21:03 until 21.04.2024 12:42:08
+		Duration:	22:21:05
+		Location:	48.21097 16.36081
+
+(29) - Ziel Marathon
+	AJOTO2
+		Images:	3370
+		Time:	21.04.2024 12:58:01 until 21.04.2024 15:32:22
+		Duration:	02:34:21
+		Location:	48.21098 16.3607
+
+	ATIM1
+		Images:	4980
+		Time:	21.04.2024 09:58:07 until 21.04.2024 13:04:24
+		Duration:	03:06:17
+		Location:	48.21089 16.36076
+
+	ATIM1LS1
+		Images:	7204
+		Time:	21.04.2024 09:40:04 until 21.04.2024 14:48:06
+		Duration:	05:08:02
+		Location:	48.21089 16.36076
+
+	BWB2
+		Images:	3398
+		Time:	21.04.2024 09:13:08 until 21.04.2024 14:36:44
+		Duration:	05:23:36
+		Location:	48.21098 16.3607
+
+(30) - Zieleinlauf Halbmarathon
+	ASVL1
+		Images:	15306
+		Time:	21.04.2024 09:00:05 until 21.04.2024 12:56:37
+		Duration:	03:56:32
+		Location:	48.21089 16.36076
+
+	ASVL1LS1
+		Images:	13056
+		Time:	21.04.2024 09:57:27 until 21.04.2024 12:56:41
+		Duration:	02:59:14
+		Location:	48.21089 16.36076
+
+	ASVL1LS2
+		Images:	13851
+		Time:	21.04.2024 09:57:24 until 21.04.2024 12:56:38
+		Duration:	02:59:14
+		Location:	48.21089 16.36076
+
+	AXQ1
+		Images:	23037
+		Time:	21.04.2024 09:11:44 until 21.04.2024 13:13:05
+		Duration:	04:01:21
+		Location:	48.21089 16.36076
+
+(31) - Zieleinlauf Marathon
+	AKHW2
+		Images:	5806
+		Time:	21.04.2024 11:00:55 until 21.04.2024 15:34:11
+		Duration:	04:33:16
+		Location:	48.21089 16.36076
+
+	BRMA2
+		Images:	11572
+		Time:	21.04.2024 10:23:50 until 21.04.2024 15:33:57
+		Duration:	05:10:07
+		Location:	48.21089 16.36076
+
+(32) - Zollamtssteg (Marathon: 39,2 km/Halbmarathon: -)
+	ARIP2
+		Images:	13004
+		Time:	21.04.2024 10:58:52 until 21.04.2024 15:11:48
+		Duration:	04:12:56
+		Location:	48.20938 16.38473
+

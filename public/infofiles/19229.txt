@@ -1,0 +1,29 @@
+EventId: 19229
+Spots: 5
+Total Images: 14810
+Time:	18.10.2025 21:04:20 to 19.10.2025 14:45:00
+Duration: 17:40:40
+
+(1) - Ceremony
+	CTONC1
+(2) - Impressions / Pano
+	PANO1
+(3) - none
+	ABRXX1
+		Images:	1005
+		Time:	19.10.2025 07:30:59 until 19.10.2025 11:51:19
+		Duration:	04:20:20
+		Location:	NULL NULL
+
+	JBJB1
+		Images:	13092
+		Time:	19.10.2025 08:57:41 until 19.10.2025 14:45:00
+		Duration:	05:47:19
+		Location:	NULL NULL
+
+	SONXX1
+		Images:	713
+		Time:	18.10.2025 21:04:20 until 19.10.2025 01:20:24
+		Duration:	04:16:04
+		Location:	NULL NULL
+

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "17.99062" lon = "-66.44275"><name>AUC1</name><desc>21.8 km / 25.4 km Medium | 21.8 km / 93.2 km Long
+Images:518
+First:23.11.2025 06:45:57
+Last:23.11.2025 09:54:06
+Duration:03:08:09
+</desc></wpt>
+<wpt lat = "17.97332" lon = "-66.60226"><name>AUC2</name><desc>Start
+Images:22
+First:23.11.2025 05:24:10
+Last:23.11.2025 05:48:40
+Duration:00:24:30
+</desc></wpt>
+<wpt lat = "17.97332" lon = "-66.60226"><name>BEB2</name><desc>Start
+Images:137
+First:22.11.2025 19:55:06
+Last:23.11.2025 06:01:25
+Duration:10:06:19
+</desc></wpt>
+<wpt lat = "17.97332" lon = "-66.60226"><name>RASC2</name><desc>Start
+Images:77
+First:23.11.2025 05:24:20
+Last:23.11.2025 05:53:57
+Duration:00:29:37
+</desc></wpt>
+<wpt lat = "17.97596" lon = "-66.60392"><name>BEB1</name><desc>1.0 km Medium and Long
+Images:590
+First:23.11.2025 06:09:37
+Last:23.11.2025 06:16:02
+Duration:00:06:25
+</desc></wpt>
+<wpt lat = "17.97332" lon = "-66.60226"><name>BEB3</name><desc>Finish
+Images:1051
+First:23.11.2025 06:55:43
+Last:23.11.2025 10:46:00
+Duration:03:50:17
+</desc></wpt>
+<wpt lat = "17.97332" lon = "-66.60226"><name>BEB3LS1</name><desc>Finish
+Images:312
+First:23.11.2025 06:50:03
+Last:23.11.2025 10:46:32
+Duration:03:56:29
+</desc></wpt>
+<wpt lat = "17.97838" lon = "-66.32725"><name>RASC1</name><desc>35 km / 79 km Long
+Images:1339
+First:23.11.2025 07:01:16
+Last:23.11.2025 09:48:16
+Duration:02:47:00
+</desc></wpt>
+</gpx>

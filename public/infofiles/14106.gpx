@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "45.22741" lon = "6.20361"><name>AGU1</name><desc>31.0 km Col de la Croix de Fer
+Images:841
+First:24.08.2025 09:29:31
+Last:24.08.2025 11:29:19
+Duration:01:59:48
+</desc></wpt>
+<wpt lat = "45.22741" lon = "6.20361"><name>AGU1LS2</name><desc>31.0 km Col de la Croix de Fer
+Images:792
+First:24.08.2025 09:25:31
+Last:24.08.2025 10:42:59
+Duration:01:17:28
+</desc></wpt>
+<wpt lat = "45.22741" lon = "6.20361"><name>AGU1LS1</name><desc>31.0 km Col de la Croix de Fer
+Images:726
+First:24.08.2025 09:25:57
+Last:24.08.2025 10:40:34
+Duration:01:14:37
+</desc></wpt>
+<wpt lat = "45.24035" lon = "6.17570"><name>AGU2</name><desc>91.0 km Col du Glandon
+Images:1179
+First:24.08.2025 11:29:37
+Last:24.08.2025 15:07:01
+Duration:03:37:24
+</desc></wpt>
+<wpt lat = "45.24035" lon = "6.17570"><name>AGU2LS2</name><desc>91.0 km Col du Glandon
+Images:1100
+First:24.08.2025 11:17:21
+Last:24.08.2025 14:56:07
+Duration:03:38:46
+</desc></wpt>
+<wpt lat = "45.24035" lon = "6.17570"><name>AGU2LS1</name><desc>91.0 km Col du Glandon
+Images:1120
+First:24.08.2025 11:18:49
+Last:24.08.2025 14:59:34
+Duration:03:40:45
+</desc></wpt>
+<wpt lat = "45.23212" lon = "6.16367"><name>DIBO1</name><desc>28.0 km Le Plan du Suet
+Images:1747
+First:24.08.2025 09:10:45
+Last:24.08.2025 10:33:40
+Duration:01:22:55
+</desc></wpt>
+<wpt lat = "45.23212" lon = "6.16367"><name>DIBO2</name><desc>93.0 km Le Plan du Suet
+Images:1952
+First:24.08.2025 10:53:36
+Last:24.08.2025 15:05:56
+Duration:04:12:20
+</desc></wpt>
+<wpt lat = "45.20570" lon = "6.10329"><name>LTU1</name><desc>21.0 km Barrage de Grand Maison
+Images:800
+First:24.08.2025 08:22:02
+Last:24.08.2025 10:16:09
+Duration:01:54:07
+</desc></wpt>
+<wpt lat = "45.20570" lon = "6.10329"><name>LTU2</name><desc>99.0 km Barrage de Grand Maison
+Images:1189
+First:24.08.2025 10:17:22
+Last:24.08.2025 15:19:55
+Duration:05:02:33
+</desc></wpt>
+<wpt lat = "45.15922" lon = "6.07894"><name>MARY1</name><desc>Start
+Images:171
+First:24.08.2025 07:47:21
+Last:24.08.2025 08:04:12
+Duration:00:16:51
+</desc></wpt>
+<wpt lat = "45.15922" lon = "6.07894"><name>MARY2</name><desc>Finish
+Images:1717
+First:24.08.2025 10:11:12
+Last:24.08.2025 16:28:06
+Duration:06:16:54
+</desc></wpt>
+</gpx>

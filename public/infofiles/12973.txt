@@ -1,0 +1,45 @@
+EventId: 12973
+Spots: 7
+Total Images: 21886
+Time:	14.01.2024 04:30:01 to 14.01.2024 19:11:25
+Duration: 14:41:24
+
+(1) - Impressions / Pano
+	PANO1
+(2) - none
+	OCWM1
+		Images:	4401
+		Time:	14.01.2024 12:17:49 until 14.01.2024 16:21:42
+		Duration:	04:03:53
+		Location:	NULL NULL
+
+	OCWTR1
+		Images:	4476
+		Time:	14.01.2024 10:17:33 until 14.01.2024 16:05:15
+		Duration:	05:47:42
+		Location:	NULL NULL
+
+	OMSM1
+		Images:	3076
+		Time:	14.01.2024 04:30:01 until 14.01.2024 10:26:53
+		Duration:	05:56:52
+		Location:	NULL NULL
+
+	OMSTR1
+		Images:	3564
+		Time:	14.01.2024 11:04:10 until 14.01.2024 16:20:41
+		Duration:	05:16:31
+		Location:	NULL NULL
+
+	OPRM1
+		Images:	3128
+		Time:	14.01.2024 07:34:35 until 14.01.2024 19:11:25
+		Duration:	11:36:50
+		Location:	NULL NULL
+
+	OPRTR1
+		Images:	3241
+		Time:	14.01.2024 04:51:30 until 14.01.2024 10:21:24
+		Duration:	05:29:54
+		Location:	NULL NULL
+

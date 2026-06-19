@@ -1,0 +1,387 @@
+EventId: 9847
+Spots: 60
+Total Images: 384985
+Time:	23.04.2023 06:50:20 to 23.04.2023 16:09:32
+Duration: 09:19:12
+
+(1) - 0,5 km Die zwei Türme
+	AP1
+		Images:	2308
+		Time:	23.04.2023 07:34:30 until 23.04.2023 10:43:14
+		Duration:	03:08:44
+		Location:	53.55678 9.97539
+
+	KAR1
+		Images:	2592
+		Time:	23.04.2023 08:19:23 until 23.04.2023 09:48:44
+		Duration:	01:29:21
+		Location:	53.55678 9.97539
+
+(2) - 1,6 km Reeperbahn Regenbogenhaus
+	RKJ1
+		Images:	761
+		Time:	23.04.2023 08:25:50 until 23.04.2023 09:55:54
+		Duration:	01:30:04
+		Location:	53.54959 9.96225
+
+(3) - 10,6 km St. Pauli Fischmarkt
+	MNO1
+		Images:	4393
+		Time:	23.04.2023 08:43:42 until 23.04.2023 11:10:23
+		Duration:	02:26:41
+		Location:	53.54599 9.95767
+
+	MNO1LS1
+		Images:	9142
+		Time:	23.04.2023 07:56:29 until 23.04.2023 10:49:45
+		Duration:	02:53:16
+		Location:	53.54599 9.95767
+
+(4) - 11,5 km Landungsbrücken
+	THR1
+		Images:	8112
+		Time:	23.04.2023 08:48:25 until 23.04.2023 11:28:18
+		Duration:	02:39:53
+		Location:	53.54566 9.97012
+
+	THR1LS1
+		Images:	3665
+		Time:	23.04.2023 06:59:22 until 23.04.2023 11:19:22
+		Duration:	04:20:00
+		Location:	53.54566 9.97012
+
+(5) - 11,5 km Landungsbrückenturm
+	AFO1
+		Images:	3491
+		Time:	23.04.2023 06:58:09 until 23.04.2023 12:22:17
+		Duration:	05:24:08
+		Location:	53.54571 9.97043
+
+	AFO2
+		Images:	5723
+		Time:	23.04.2023 06:50:20 until 23.04.2023 11:28:11
+		Duration:	04:37:51
+		Location:	53.54571 9.97043
+
+(6) - 11,8 km Überseebrücke
+	SEN1
+		Images:	5120
+		Time:	23.04.2023 08:46:00 until 23.04.2023 11:13:35
+		Duration:	02:27:35
+		Location:	53.54504 9.97452
+
+(7) - 11,9 km Hammerbrooklyn
+	ARTA1
+		Images:	6470
+		Time:	23.04.2023 07:56:24 until 23.04.2023 11:22:15
+		Duration:	03:25:51
+		Location:	53.54416 9.97989
+
+	KBO1
+		Images:	3786
+		Time:	23.04.2023 08:18:11 until 23.04.2023 11:38:17
+		Duration:	03:20:06
+		Location:	53.54416 9.97989
+
+	KBO1LS1
+		Images:	3468
+		Time:	23.04.2023 08:50:06 until 23.04.2023 11:11:26
+		Duration:	02:21:20
+		Location:	53.54416 9.97989
+
+(8) - 13,3 km Elbphilharmonie
+	OK1
+		Images:	23334
+		Time:	23.04.2023 07:51:22 until 23.04.2023 11:58:38
+		Duration:	04:07:16
+		Location:	53.54587 9.99563
+
+(9) - 13,3 km Kornhausbrücke
+	PAG1
+		Images:	2445
+		Time:	23.04.2023 10:38:14 until 23.04.2023 11:13:15
+		Duration:	00:35:01
+		Location:	53.54652 9.99695
+
+(10) - 14,4 km Wallringtunnel
+	CRI1
+		Images:	7220
+		Time:	23.04.2023 08:03:05 until 23.04.2023 12:54:57
+		Duration:	04:51:52
+		Location:	53.55437 10.00299
+
+	CRI1LS1
+		Images:	1342
+		Time:	23.04.2023 08:44:44 until 23.04.2023 09:42:19
+		Duration:	00:57:35
+		Location:	53.55437 10.00299
+
+	CRI1LS2
+		Images:	3855
+		Time:	23.04.2023 09:42:21 until 23.04.2023 11:50:49
+		Duration:	02:08:28
+		Location:	53.55437 10.00299
+
+(11) - 15,5 km Binnenalster
+	JRI1
+		Images:	14497
+		Time:	23.04.2023 08:55:29 until 23.04.2023 12:01:32
+		Duration:	03:06:03
+		Location:	53.55255 9.99588
+
+	SVS1
+		Images:	8426
+		Time:	23.04.2023 08:05:57 until 23.04.2023 11:52:53
+		Duration:	03:46:56
+		Location:	53.55255 9.99588
+
+(12) - 15,9 km Jungfernstieg
+	ABAE1
+		Images:	4242
+		Time:	23.04.2023 09:01:46 until 23.04.2023 11:54:24
+		Duration:	02:52:38
+		Location:	53.55253 9.99374
+
+	BK1
+		Images:	9864
+		Time:	23.04.2023 08:24:52 until 23.04.2023 13:47:30
+		Duration:	05:22:38
+		Location:	53.55253 9.99374
+
+(13) - 16,2 km Neuer Jungfernstieg
+	GL1
+		Images:	11041
+		Time:	23.04.2023 08:55:47 until 23.04.2023 11:00:03
+		Duration:	02:04:16
+		Location:	53.55682 9.99264
+
+	MELS1
+		Images:	12212
+		Time:	23.04.2023 08:57:45 until 23.04.2023 12:00:50
+		Duration:	03:03:05
+		Location:	53.55682 9.99264
+
+(14) - 19,4 km Schöne Aussicht
+	SZ1
+		Images:	7626
+		Time:	23.04.2023 08:51:44 until 23.04.2023 12:17:10
+		Duration:	03:25:26
+		Location:	53.57024 10.01024
+
+(15) - 2,1 km Reeperbahn Pink Palace
+	EBO1
+		Images:	3792
+		Time:	23.04.2023 07:44:45 until 23.04.2023 09:57:45
+		Duration:	02:13:00
+		Location:	53.54936 9.96224
+
+(16) - 20,2 km Langer Zug Brücke
+	NF1
+		Images:	9950
+		Time:	23.04.2023 09:19:03 until 23.04.2023 14:42:41
+		Duration:	05:23:38
+		Location:	53.57733 10.01006
+
+(17) - 28,8 km An der Alster
+	FKR1
+		Images:	8454
+		Time:	23.04.2023 10:55:33 until 23.04.2023 14:02:25
+		Duration:	03:06:52
+		Location:	53.61317 10.01446
+
+	THM1
+		Images:	8802
+		Time:	23.04.2023 09:50:52 until 23.04.2023 14:02:14
+		Duration:	04:11:22
+		Location:	53.61317 10.01446
+
+(18) - 3,6 km Rathaus Altona
+	HT1
+		Images:	7208
+		Time:	23.04.2023 07:45:42 until 23.04.2023 10:12:35
+		Duration:	02:26:53
+		Location:	53.54777 9.93512
+
+(19) - 37,2 km Eppendorfer Baum
+	AP2
+		Images:	6380
+		Time:	23.04.2023 11:06:37 until 23.04.2023 15:11:57
+		Duration:	04:05:20
+		Location:	53.58326 9.98512
+
+(20) - 39,3 km Harvestehuder Weg
+	EBO2
+		Images:	7672
+		Time:	23.04.2023 10:56:55 until 23.04.2023 15:34:50
+		Duration:	04:37:55
+		Location:	53.57003 10.00039
+
+	RKJ2
+		Images:	3632
+		Time:	23.04.2023 10:44:54 until 23.04.2023 15:32:14
+		Duration:	04:47:20
+		Location:	53.56942 10.00052
+
+	SER1
+		Images:	14101
+		Time:	23.04.2023 09:16:17 until 23.04.2023 15:31:54
+		Duration:	06:15:37
+		Location:	53.56942 10.00052
+
+(21) - 40,9 km Dammtor
+	GL2
+		Images:	11780
+		Time:	23.04.2023 11:11:09 until 23.04.2023 15:48:54
+		Duration:	04:37:45
+		Location:	53.55926 9.98982
+
+	MELS2
+		Images:	11066
+		Time:	23.04.2023 12:22:08 until 23.04.2023 15:46:49
+		Duration:	03:24:41
+		Location:	53.55926 9.98982
+
+	PAG2
+		Images:	11653
+		Time:	23.04.2023 12:04:32 until 23.04.2023 15:48:38
+		Duration:	03:44:06
+		Location:	53.55939 9.98990
+
+(22) - 41,6 km Gorch-Fock-Wall
+	HT2
+		Images:	11851
+		Time:	23.04.2023 10:50:06 until 23.04.2023 15:51:47
+		Duration:	05:01:41
+		Location:	53.55799 9.98469
+
+	JRI2
+		Images:	12704
+		Time:	23.04.2023 12:29:44 until 23.04.2023 15:14:38
+		Duration:	02:44:54
+		Location:	53.55815 9.98584
+
+	SEN2
+		Images:	6872
+		Time:	23.04.2023 11:34:22 until 23.04.2023 15:57:15
+		Duration:	04:22:53
+		Location:	53.55606 9.97955
+
+	SVS2
+		Images:	5298
+		Time:	23.04.2023 11:57:08 until 23.04.2023 15:27:22
+		Duration:	03:30:14
+		Location:	53.55815 9.98584
+
+(23) - 41,8 km Johannes-Brahms-Platz
+	ABAE2
+		Images:	5019
+		Time:	23.04.2023 12:17:20 until 23.04.2023 15:08:53
+		Duration:	02:51:33
+		Location:	53.55601 9.97856
+
+	BK2
+		Images:	2370
+		Time:	23.04.2023 13:47:31 until 23.04.2023 15:50:50
+		Duration:	02:03:19
+		Location:	53.55601 9.97856
+
+(24) - Finish
+	ARTA2
+		Images:	4659
+		Time:	23.04.2023 12:16:49 until 23.04.2023 16:03:44
+		Duration:	03:46:55
+		Location:	53.56096 9.97564
+
+	FKR2
+		Images:	860
+		Time:	23.04.2023 15:02:55 until 23.04.2023 16:04:38
+		Duration:	01:01:43
+		Location:	53.55992 9.97534
+
+	KAR2
+		Images:	11488
+		Time:	23.04.2023 11:29:57 until 23.04.2023 16:02:54
+		Duration:	04:32:57
+		Location:	53.55992 9.97534
+
+	KBO2
+		Images:	3087
+		Time:	23.04.2023 11:38:39 until 23.04.2023 16:03:44
+		Duration:	04:25:05
+		Location:	53.56096 9.97564
+
+	KBO2LS1
+		Images:	5892
+		Time:	23.04.2023 11:50:32 until 23.04.2023 16:04:00
+		Duration:	04:13:28
+		Location:	53.56096 9.97564
+
+	LARS2
+		Images:	4437
+		Time:	23.04.2023 08:47:01 until 23.04.2023 12:32:19
+		Duration:	03:45:18
+		Location:	53.55838 9.97819
+
+	LARS2LS1
+		Images:	2392
+		Time:	23.04.2023 09:22:06 until 23.04.2023 12:01:02
+		Duration:	02:38:56
+		Location:	53.55838 9.97819
+
+	LARS2LS2
+		Images:	2841
+		Time:	23.04.2023 12:01:31 until 23.04.2023 16:09:32
+		Duration:	04:08:01
+		Location:	53.56096 9.97564
+
+	MNO2
+		Images:	16952
+		Time:	23.04.2023 12:14:38 until 23.04.2023 15:56:50
+		Duration:	03:42:12
+		Location:	53.55992 9.97534
+
+	SNI2
+		Images:	3803
+		Time:	23.04.2023 08:56:09 until 23.04.2023 11:16:06
+		Duration:	02:19:57
+		Location:	53.55838 9.97819
+
+	SNI2LS1
+		Images:	2411
+		Time:	23.04.2023 07:50:32 until 23.04.2023 11:16:01
+		Duration:	03:25:29
+		Location:	53.55838 9.97819
+
+	SNI3
+		Images:	3209
+		Time:	23.04.2023 11:42:29 until 23.04.2023 16:04:05
+		Duration:	04:21:36
+		Location:	53.56096 9.97564
+
+	SNI3LS1
+		Images:	1967
+		Time:	23.04.2023 11:31:18 until 23.04.2023 16:05:45
+		Duration:	04:34:27
+		Location:	53.56096 9.97564
+
+	THR2
+		Images:	4580
+		Time:	23.04.2023 12:14:29 until 23.04.2023 15:17:26
+		Duration:	03:02:57
+		Location:	53.55982 9.97571
+
+(25) - Impressions / Pano
+	PANO1
+(26) - Start
+	LARS1
+		Images:	2148
+		Time:	23.04.2023 07:34:56 until 23.04.2023 09:44:33
+		Duration:	02:09:37
+		Location:	53.55838 9.97819
+
+	SNI1
+		Images:	520
+		Time:	23.04.2023 08:05:57 until 23.04.2023 08:35:12
+		Duration:	00:29:15
+		Location:	53.55838 9.97819
+

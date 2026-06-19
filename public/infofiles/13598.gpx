@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "44.25641" lon = "5.15397"><name>CAIS1</name><desc>10.0 km
+Images:4488
+First:01.06.2025 07:48:38
+Last:01.06.2025 08:27:07
+Duration:00:38:29
+</desc></wpt>
+<wpt lat = "44.25641" lon = "5.15397"><name>CAIS1LS1</name><desc>10.0 km
+Images:675
+First:01.06.2025 07:34:53
+Last:01.06.2025 08:17:48
+Duration:00:42:55
+</desc></wpt>
+<wpt lat = "44.25660" lon = "5.14984"><name>LAPO1</name><desc>10.0 km
+Images:3076
+First:01.06.2025 06:32:21
+Last:01.06.2025 08:27:35
+Duration:01:55:14
+</desc></wpt>
+<wpt lat = "44.16942" lon = "5.28865"><name>CAIS2</name><desc>131.0 km
+Images:6680
+First:01.06.2025 10:00:25
+Last:01.06.2025 16:59:49
+Duration:06:59:24
+</desc></wpt>
+<wpt lat = "44.16942" lon = "5.28865"><name>CAIS2LS1</name><desc>131.0 km
+Images:7143
+First:01.06.2025 10:17:53
+Last:01.06.2025 15:40:53
+Duration:05:23:00
+</desc></wpt>
+<wpt lat = "44.24394" lon = "5.06945"><name>CC1</name><desc>Start
+Images:2154
+First:01.06.2025 07:02:39
+Last:01.06.2025 07:53:07
+Duration:00:50:28
+</desc></wpt>
+<wpt lat = "44.24394" lon = "5.06945"><name>GAT1</name><desc>Start
+Images:4612
+First:01.06.2025 06:50:51
+Last:01.06.2025 07:53:11
+Duration:01:02:20
+</desc></wpt>
+<wpt lat = "44.24394" lon = "5.06945"><name>MARY1</name><desc>Start
+Images:1326
+First:01.06.2025 06:43:18
+Last:01.06.2025 09:21:09
+Duration:02:37:51
+</desc></wpt>
+<wpt lat = "44.16239" lon = "5.29926"><name>CC2</name><desc>129.0 km
+Images:7369
+First:01.06.2025 09:56:36
+Last:01.06.2025 16:23:03
+Duration:06:26:27
+</desc></wpt>
+<wpt lat = "44.05025" lon = "5.33046"><name>GABO1</name><desc>90.0 km
+Images:3489
+First:01.06.2025 09:59:52
+Last:01.06.2025 12:34:45
+Duration:02:34:53
+</desc></wpt>
+<wpt lat = "44.16543" lon = "5.29492"><name>GAT2</name><desc>130.0 km
+Images:4174
+First:01.06.2025 09:57:52
+Last:01.06.2025 16:49:28
+Duration:06:51:36
+</desc></wpt>
+<wpt lat = "44.17106" lon = "5.28202"><name>JLTG1</name><desc>133.0 km
+Images:9548
+First:01.06.2025 09:53:26
+Last:01.06.2025 17:09:28
+Duration:07:16:02
+</desc></wpt>
+<wpt lat = "44.17106" lon = "5.28202"><name>JLTG1LS1</name><desc>133.0 km
+Images:5341
+First:01.06.2025 09:09:02
+Last:01.06.2025 14:06:09
+Duration:04:57:07
+</desc></wpt>
+<wpt lat = "44.17106" lon = "5.28202"><name>JLTG1LS2</name><desc>133.0 km
+Images:3485
+First:01.06.2025 09:20:36
+Last:01.06.2025 16:00:35
+Duration:06:39:59
+</desc></wpt>
+<wpt lat = "44.16919" lon = "5.28443"><name>LAPO2</name><desc>132.0 km
+Images:3818
+First:01.06.2025 10:02:09
+Last:01.06.2025 17:04:36
+Duration:07:02:27
+</desc></wpt>
+<wpt lat = "44.17347" lon = "5.26982"><name>LEBE1</name><desc>136.0 km
+Images:7698
+First:01.06.2025 09:23:31
+Last:01.06.2025 17:31:09
+Duration:08:07:38
+</desc></wpt>
+<wpt lat = "44.17347" lon = "5.26982"><name>LEBE1DRONE1</name><desc>136.0 km
+Images:35
+First:01.06.2025 09:35:20
+Last:01.06.2025 12:48:27
+Duration:03:13:07
+</desc></wpt>
+<wpt lat = "44.06751" lon = "5.31502"><name>LUB1</name><desc>94.0 km
+Images:5581
+First:01.06.2025 08:58:58
+Last:01.06.2025 14:02:08
+Duration:05:03:10
+</desc></wpt>
+<wpt lat = "44.17351" lon = "5.27563"><name>MANR1</name><desc>Finish
+Images:30434
+First:01.06.2025 09:31:29
+Last:01.06.2025 17:13:39
+Duration:07:42:10
+</desc></wpt>
+<wpt lat = "44.17351" lon = "5.27563"><name>MANR1LS2</name><desc>Finish
+Images:7442
+First:01.06.2025 09:17:25
+Last:01.06.2025 16:58:18
+Duration:07:40:53
+</desc></wpt>
+<wpt lat = "44.17351" lon = "5.27563"><name>MANR1LS1</name><desc>Finish
+Images:6137
+First:01.06.2025 09:19:59
+Last:01.06.2025 14:53:54
+Duration:05:33:55
+</desc></wpt>
+<wpt lat = "44.06351" lon = "5.31209"><name>MAPA1</name><desc>96.0 km
+Images:3284
+First:01.06.2025 08:45:41
+Last:01.06.2025 12:49:42
+Duration:04:04:01
+</desc></wpt>
+<wpt lat = "44.17431" lon = "5.28079"><name>MIFP1</name><desc>134.0 km
+Images:10318
+First:01.06.2025 09:31:01
+Last:01.06.2025 17:16:17
+Duration:07:45:16
+</desc></wpt>
+<wpt lat = "44.06201" lon = "5.31773"><name>ELLA1</name><desc>92.0 km
+Images:2700
+First:01.06.2025 09:01:01
+Last:01.06.2025 12:38:09
+Duration:03:37:08
+</desc></wpt>
+<wpt lat = "44.06201" lon = "5.31773"><name>ELLA1IMP1</name><desc>92.0 km
+Images:196
+First:01.06.2025 14:05:47
+Last:01.06.2025 15:33:46
+Duration:01:27:59
+</desc></wpt>
+</gpx>

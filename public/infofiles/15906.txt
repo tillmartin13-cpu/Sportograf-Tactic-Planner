@@ -1,0 +1,62 @@
+EventId: 15906
+Spots: 8
+Total Images: 22200
+Time:	15.05.2025 06:54:54 to 15.05.2025 13:37:50
+Duration: 06:42:56
+
+(1) - 7.5 Mi Course - 864297 - Armando Ibarra Padilla
+	BCOAP1
+		Images:	1366
+		Time:	15.05.2025 07:06:06 until 15.05.2025 12:26:33
+		Duration:	05:20:27
+		Location:	38.55655 -123.01047
+
+(2) - 7.5 Mi Course - 864298 - Trigger
+	BCOTO1
+		Images:	3371
+		Time:	15.05.2025 07:27:37 until 15.05.2025 10:46:59
+		Duration:	03:19:22
+		Location:	38.55655 -123.01047
+
+(3) - 10.4 Mi Finish - 864302 - Trigger Up Shot
+	BFNTO1
+		Images:	5421
+		Time:	15.05.2025 08:37:51 until 15.05.2025 13:37:50
+		Duration:	04:59:59
+		Location:	38.52879 -122.99917
+
+(4) - 0.0 km
+	BFNTO2
+		Images:	27
+		Time:	15.05.2025 12:42:26 until 15.05.2025 12:48:29
+		Duration:	00:06:03
+		Location:	38.55655 -123.01047
+
+(5) - 10.3 Mi PreFinish - 864299 - Phillip Reyes
+	BPFPR1
+		Images:	1771
+		Time:	15.05.2025 09:08:34 until 15.05.2025 13:30:52
+		Duration:	04:22:18
+		Location:	38.52810 -122.99939
+
+(6) - 10.3 Mi PreFinish - 864300 - Trigger
+	BPFTO1
+		Images:	3549
+		Time:	15.05.2025 09:09:58 until 15.05.2025 13:31:00
+		Duration:	04:21:02
+		Location:	38.52810 -122.99939
+
+(7) - 0.6 Mi Start - 000000 - Phillip Reyes
+	BSTPR1
+		Images:	867
+		Time:	15.05.2025 07:11:34 until 15.05.2025 07:50:20
+		Duration:	00:38:46
+		Location:	38.53225 -123.00253
+
+(8) - 10.4 Mi Finish - 000000 - Trigger Down Shot
+	BFNTT1
+		Images:	5828
+		Time:	15.05.2025 06:54:54 until 15.05.2025 13:34:33
+		Duration:	06:39:39
+		Location:	38.52879 -122.99917
+

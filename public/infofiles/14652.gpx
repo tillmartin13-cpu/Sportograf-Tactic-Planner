@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="Infofile GPX Generator">
+<wpt lat = "42.81552" lon = "0.71153"><name>JMP1</name><desc>START CDH
+Images:84
+First:03.07.2025 22:41:06
+Last:04.07.2025 06:15:03
+Duration:07:33:57
+</desc></wpt>
+<wpt lat = "42.81552" lon = "0.71153"><name>JLTG1</name><desc>START CDH
+Images:281
+First:04.07.2025 05:32:02
+Last:04.07.2025 14:18:53
+Duration:08:46:51
+</desc></wpt>
+<wpt lat = "42.81790" lon = "0.81221"><name>OAC1</name><desc>CDH KM 7,5
+Images:6813
+First:04.07.2025 07:17:09
+Last:04.07.2025 09:21:59
+Duration:02:04:50
+</desc></wpt>
+<wpt lat = "42.83862" lon = "0.73958"><name>ATRE1</name><desc>CDH KM 7
+Images:4375
+First:04.07.2025 06:34:45
+Last:04.07.2025 09:27:46
+Duration:02:53:01
+</desc></wpt>
+<wpt lat = "42.82247" lon = "0.79962"><name>UGA1</name><desc>CDH KM 8
+Images:4589
+First:04.07.2025 07:02:12
+Last:04.07.2025 08:59:51
+Duration:01:57:39
+</desc></wpt>
+<wpt lat = "42.81847" lon = "0.81190"><name>JMO1</name><desc>CDH KM 10
+Images:3298
+First:04.07.2025 05:59:51
+Last:04.07.2025 08:44:09
+Duration:02:44:18
+</desc></wpt>
+<wpt lat = "42.81847" lon = "0.81190"><name>JMO2</name><desc>CDH KM 10
+Images:3172
+First:04.07.2025 08:44:10
+Last:04.07.2025 18:50:53
+Duration:10:06:43
+</desc></wpt>
+<wpt lat = "42.75882" lon = "0.99468"><name>GGA1</name><desc>CDH KM 46,9
+Images:2262
+First:04.07.2025 10:07:09
+Last:04.07.2025 16:24:57
+Duration:06:17:48
+</desc></wpt>
+<wpt lat = "42.75882" lon = "0.99468"><name>GGA1LS1</name><desc>CDH KM 46,9
+Images:2057
+First:04.07.2025 10:43:16
+Last:04.07.2025 16:19:00
+Duration:05:35:44
+</desc></wpt>
+<wpt lat = "42.75882" lon = "0.99468"><name>GGA1LS2</name><desc>CDH KM 46,9
+Images:2144
+First:04.07.2025 10:39:18
+Last:04.07.2025 16:17:20
+Duration:05:38:02
+</desc></wpt>
+<wpt lat = "42.75911" lon = "0.99347"><name>AIS1</name><desc>CDH KM 46,9
+Images:4080
+First:04.07.2025 10:49:02
+Last:04.07.2025 16:12:16
+Duration:05:23:14
+</desc></wpt>
+<wpt lat = "42.75906" lon = "0.99349"><name>AIS1LS1</name><desc>CDH KM 46,9
+Images:1290
+First:04.07.2025 10:16:58
+Last:04.07.2025 16:12:12
+Duration:05:55:14
+</desc></wpt>
+<wpt lat = "42.75866" lon = "0.99383"><name>DAC1</name><desc>CDH KM 47
+Images:3099
+First:04.07.2025 10:55:29
+Last:04.07.2025 16:33:50
+Duration:05:38:21
+</desc></wpt>
+<wpt lat = "42.75866" lon = "0.99383"><name>DAC1LS1</name><desc>CDH KM 47
+Images:1339
+First:03.07.2025 21:29:11
+Last:04.07.2025 16:10:37
+Duration:18:41:26
+</desc></wpt>
+<wpt lat = "42.66392" lon = "0.97582"><name>JMO3</name><desc>CDH KM 51
+Images:2443
+First:04.07.2025 13:00:48
+Last:04.07.2025 18:50:53
+Duration:05:50:05
+</desc></wpt>
+<wpt lat = "42.73770" lon = "0.97267"><name>MRAB1</name><desc>CDH KM 51
+Images:3525
+First:04.07.2025 10:21:45
+Last:04.07.2025 17:20:38
+Duration:06:58:53
+</desc></wpt>
+<wpt lat = "42.74312" lon = "0.97668"><name>AMRU1</name><desc>CDH KM 52
+Images:5973
+First:04.07.2025 10:24:04
+Last:04.07.2025 16:42:26
+Duration:06:18:22
+</desc></wpt>
+<wpt lat = "42.73424" lon = "0.97007"><name>OAC2</name><desc>CDH KM 53
+Images:5335
+First:04.07.2025 12:34:22
+Last:04.07.2025 17:27:25
+Duration:04:53:03
+</desc></wpt>
+<wpt lat = "42.65326" lon = "0.92795"><name>AFGA1</name><desc>CDH KM 70
+Images:3404
+First:04.07.2025 12:52:50
+Last:05.07.2025 05:38:26
+Duration:16:45:36
+</desc></wpt>
+<wpt lat = "42.65326" lon = "0.92795"><name>AFGA1LS1</name><desc>CDH KM 70
+Images:927
+First:04.07.2025 12:31:45
+Last:04.07.2025 21:50:23
+Duration:09:18:38
+</desc></wpt>
+<wpt lat = "42.65074" lon = "0.93335"><name>RAVE1LS1</name><desc>CDH KM 77,9
+Images:6789
+First:04.07.2025 12:37:11
+Last:04.07.2025 21:48:05
+Duration:09:10:54
+</desc></wpt>
+<wpt lat = "42.65074" lon = "0.93336"><name>RAVE1</name><desc>CDH KM 78
+Images:2963
+First:04.07.2025 13:15:30
+Last:05.07.2025 05:30:49
+Duration:16:15:19
+</desc></wpt>
+<wpt lat = "42.65084" lon = "0.93357"><name>TGM1</name><desc>CDH KM 78
+Images:1217
+First:04.07.2025 13:40:31
+Last:04.07.2025 21:54:01
+Duration:08:13:30
+</desc></wpt>
+<wpt lat = "42.65065" lon = "0.93341"><name>TGM1LS1</name><desc>CDH KM 78
+Images:3094
+First:04.07.2025 13:46:26
+Last:04.07.2025 22:05:26
+Duration:08:19:00
+</desc></wpt>
+<wpt lat = "42.65065" lon = "0.93336"><name>TGM1LS2</name><desc>CDH KM 78
+Images:1450
+First:04.07.2025 12:29:58
+Last:04.07.2025 21:57:42
+Duration:09:27:44
+</desc></wpt>
+<wpt lat = "42.70134" lon = "0.79845"><name>JMP3</name><desc>FINISH CDH
+Images:1250
+First:04.07.2025 16:31:37
+Last:04.07.2025 22:16:34
+Duration:05:44:57
+</desc></wpt>
+<wpt lat = "42.70134" lon = "0.79845"><name>JLTG3</name><desc>FINISH CDH
+Images:4954
+First:04.07.2025 21:48:39
+Last:05.07.2025 02:51:05
+Duration:05:02:26
+</desc></wpt>
+<wpt lat = "42.70134" lon = "0.79845"><name>JLTG3LS1</name><desc>FINISH CDH
+Images:69
+First:04.07.2025 22:07:52
+Last:05.07.2025 02:38:19
+Duration:04:30:27
+</desc></wpt>
+<wpt lat = "42.70134" lon = "0.79845"><name>JLTG3LS2</name><desc>FINISH CDH
+Images:978
+First:04.07.2025 21:58:29
+Last:05.07.2025 02:30:41
+Duration:04:32:12
+</desc></wpt>
+<wpt lat = "42.81552" lon = "0.71153"><name>UGA3</name><desc>FINISH CDH
+Images:804
+First:05.07.2025 02:53:26
+Last:05.07.2025 06:15:33
+Duration:03:22:07
+</desc></wpt>
+<wpt lat = "42.70134" lon = "0.79845"><name>JMP2</name><desc>START VDA
+Images:152
+First:04.07.2025 15:27:53
+Last:04.07.2025 16:01:22
+Duration:00:33:29
+</desc></wpt>
+<wpt lat = "42.71565" lon = "0.77293"><name>JLTG2</name><desc>VDA KM 6
+Images:703
+First:04.07.2025 16:40:30
+Last:04.07.2025 18:03:02
+Duration:01:22:32
+</desc></wpt>
+<wpt lat = "42.71611" lon = "0.77202"><name>ATRE2</name><desc>VDA KM 6
+Images:1781
+First:04.07.2025 16:23:00
+Last:04.07.2025 17:33:36
+Duration:01:10:36
+</desc></wpt>
+<wpt lat = "42.71611" lon = "0.77202"><name>UGA2</name><desc>VDA KM 6
+Images:1555
+First:04.07.2025 16:40:58
+Last:04.07.2025 17:50:53
+Duration:01:09:55
+</desc></wpt>
+<wpt lat = "42.65326" lon = "0.92795"><name>AFGA2</name><desc>VDA KM 109
+Images:3092
+First:05.07.2025 05:39:04
+Last:05.07.2025 20:02:33
+Duration:14:23:29
+</desc></wpt>
+<wpt lat = "42.65297" lon = "0.92839"><name>AFGA2LS1</name><desc>VDA KM 109
+Images:374
+First:05.07.2025 08:13:28
+Last:05.07.2025 19:51:28
+Duration:11:38:00
+</desc></wpt>
+<wpt lat = "42.65070" lon = "0.93324"><name>RAVE2LS1</name><desc>VDA KM 110
+Images:1170
+First:05.07.2025 06:11:15
+Last:05.07.2025 20:00:53
+Duration:13:49:38
+</desc></wpt>
+<wpt lat = "42.65070" lon = "0.93324"><name>RAVE2</name><desc>VDA KM 110
+Images:1538
+First:05.07.2025 05:32:58
+Last:05.07.2025 20:28:46
+Duration:14:55:48
+</desc></wpt>
+<wpt lat = "42.65078" lon = "0.93344"><name>TGM2</name><desc>VDA KM 110
+Images:824
+First:05.07.2025 06:08:33
+Last:05.07.2025 20:33:07
+Duration:14:24:34
+</desc></wpt>
+<wpt lat = "42.65084" lon = "0.93357"><name>TGM2LS1</name><desc>VDA KM 110,6
+Images:1036
+First:05.07.2025 06:22:46
+Last:05.07.2025 20:27:45
+Duration:14:04:59
+</desc></wpt>
+<wpt lat = "42.65078" lon = "0.93344"><name>TGM2LS2</name><desc>VDA KM 110,5
+Images:1069
+First:05.07.2025 05:04:47
+Last:05.07.2025 20:01:23
+Duration:14:56:36
+</desc></wpt>
+<wpt lat = "42.70285" lon = "0.88924"><name>JMO4</name><desc>VDA KM 125
+Images:1275
+First:05.07.2025 06:48:17
+Last:05.07.2025 15:42:42
+Duration:08:54:25
+</desc></wpt>
+<wpt lat = "42.70402" lon = "0.88941"><name>MRAB2</name><desc>VDA KM 125
+Images:1364
+First:05.07.2025 15:55:15
+Last:06.07.2025 01:51:19
+Duration:09:56:04
+</desc></wpt>
+<wpt lat = "42.70402" lon = "0.88941"><name>AMRU2LS1</name><desc>VDA KM 125
+Images:436
+First:05.07.2025 15:28:50
+Last:06.07.2025 01:42:09
+Duration:10:13:19
+</desc></wpt>
+<wpt lat = "42.69805" lon = "0.87019"><name>OAC3</name><desc>VDA KM 127
+Images:1795
+First:05.07.2025 06:59:41
+Last:05.07.2025 16:22:23
+Duration:09:22:42
+</desc></wpt>
+<wpt lat = "42.69808" lon = "0.87049"><name>AMRU2</name><desc>VDA KM 127
+Images:3107
+First:05.07.2025 16:24:25
+Last:06.07.2025 11:06:19
+Duration:18:41:54
+</desc></wpt>
+<wpt lat = "42.81552" lon = "0.71153"><name>ATRE3</name><desc>FINISH VDA
+Images:410
+First:05.07.2025 08:25:45
+Last:05.07.2025 12:27:56
+Duration:04:02:11
+</desc></wpt>
+<wpt lat = "42.70134" lon = "0.79845"><name>JLTG4</name><desc>FINISH VDA
+Images:2225
+First:05.07.2025 17:59:54
+Last:06.07.2025 00:52:00
+Duration:06:52:06
+</desc></wpt>
+<wpt lat = "42.70134" lon = "0.79845"><name>JLTG4LS1</name><desc>FINISH VDA
+Images:1876
+First:05.07.2025 17:46:18
+Last:06.07.2025 00:53:51
+Duration:07:07:33
+</desc></wpt>
+<wpt lat = "42.70134" lon = "0.79845"><name>JLTG4LS2</name><desc>FINISH VDA
+Images:1772
+First:05.07.2025 18:22:32
+Last:06.07.2025 00:52:22
+Duration:06:29:50
+</desc></wpt>
+<wpt lat = "42.70134" lon = "0.79845"><name>JMP4</name><desc>FINISH VDA
+Images:2113
+First:05.07.2025 12:27:06
+Last:06.07.2025 06:05:46
+Duration:17:38:40
+</desc></wpt>
+<wpt lat = "42.70134" lon = "0.79845"><name>JMP4LS1</name><desc>FINISH VDA
+Images:236
+First:03.07.2025 22:45:37
+Last:06.07.2025 06:05:49
+Duration:2.07:20:12
+</desc></wpt>
+<wpt lat = "42.70134" lon = "0.79845"><name>JMP4LS2</name><desc>FINISH VDA
+Images:233
+First:03.07.2025 22:43:42
+Last:06.07.2025 06:06:53
+Duration:2.07:23:11
+</desc></wpt>
+<wpt lat = "42.70134" lon = "0.79845"><name>TGM2DRONE1</name><desc>Impressions / Pano
+Images:13
+First:04.07.2025 14:20:26
+Last:04.07.2025 14:26:37
+Duration:00:06:11
+</desc></wpt>
+<wpt lat = "42.81552" lon = "0.71153"><name>PANO1</name><desc>Impressions / Pano
+Images:7
+First:01.01.0001 23:00:00
+Last:01.01.0001 23:00:00
+Duration:00:00:00
+</desc></wpt>
+</gpx>

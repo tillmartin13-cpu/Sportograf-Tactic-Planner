@@ -1,0 +1,190 @@
+EventId: 13324
+Spots: 27
+Total Images: 262082
+Time:	01.01.0001 23:00:00 to 06.10.2024 18:14:24
+Duration: 739163.19:14:24
+
+(1) - 0.0 km auto cam two, 857290, msc 3
+	DOS1
+		Images:	3637
+		Time:	06.10.2024 09:14:43 until 06.10.2024 10:30:10
+		Duration:	01:15:27
+		Location:	NULL NULL
+
+(2) - 0.0 km Finish Trigger right, 857279, side
+	FTRS1
+		Images:	10170
+		Time:	01.01.0001 23:00:00 until 01.10.2014 02:05:46
+		Duration:	735505.03:05:46
+		Location:	NULL NULL
+
+(3) - 0.0 km Finish trigger, 857278 left side.
+	FTLS1
+		Images:	21702
+		Time:	01.01.0001 23:00:00 until 06.10.2024 13:43:37
+		Duration:	739163.14:43:37
+		Location:	NULL NULL
+
+(4) - 0.0 km Gus Gargallo, 857293, Pre Finish
+	GUS1
+		Images:	13532
+		Time:	06.10.2024 08:44:29 until 06.10.2024 12:27:05
+		Duration:	03:42:36
+		Location:	NULL NULL
+
+(5) - 0.0 km jennifer gallant, msc6, 857310
+	EJENN1
+		Images:	18160
+		Time:	06.10.2024 07:09:15 until 06.10.2024 13:15:12
+		Duration:	06:05:57
+		Location:	NULL NULL
+
+(6) - 0.0 km jonathan roberts, 857294, Pre Finish
+	JROB1
+		Images:	14089
+		Time:	06.10.2024 08:41:10 until 06.10.2024 14:12:07
+		Duration:	05:30:57
+		Location:	NULL NULL
+
+(7) - 0.0 km keith tromiczak, msc 2, 857286
+	ETROM1
+		Images:	2314
+		Time:	06.10.2024 07:02:57 until 06.10.2024 07:57:36
+		Duration:	00:54:39
+		Location:	NULL NULL
+
+(8) - 0.0 km keith tromiczak, msc4, 8547291
+	KEIT1
+		Images:	3459
+		Time:	06.10.2024 08:22:57 until 06.10.2024 09:40:58
+		Duration:	01:18:01
+		Location:	NULL NULL
+
+(9) - 0.0 km keith tromiczak, msc9, 857319
+	EKET1
+		Images:	7397
+		Time:	06.10.2024 10:27:37 until 06.10.2024 14:29:19
+		Duration:	04:01:42
+		Location:	NULL NULL
+
+(10) - 0.0 km Kelly, Pre Finish, 857295
+	KELLY1
+		Images:	5367
+		Time:	06.10.2024 07:40:08 until 06.10.2024 11:47:26
+		Duration:	04:07:18
+		Location:	NULL NULL
+
+(11) - 0.0 km lance Edwards, 857276, finish
+	LANCE1
+		Images:	16930
+		Time:	06.10.2024 14:16:52 until 06.10.2024 18:14:24
+		Duration:	03:57:32
+		Location:	NULL NULL
+
+(12) - 0.0 km Lucas Kroll, finish,857277
+	LUCAS1
+		Images:	40024
+		Time:	06.10.2024 08:46:01 until 06.10.2024 14:00:41
+		Duration:	05:14:40
+		Location:	NULL NULL
+
+(13) - 0.0 km paul kelm, msc 4, 857292
+	KELM1
+		Images:	335
+		Time:	06.10.2024 07:40:24 until 06.10.2024 08:33:24
+		Duration:	00:53:00
+		Location:	NULL NULL
+
+(14) - 0.0 km paul kelm, msc9, 857320
+	PK1
+		Images:	6009
+		Time:	01.01.0001 23:00:00 until 06.10.2024 14:17:49
+		Duration:	739163.15:17:49
+		Location:	NULL NULL
+
+(15) - 0.0 km paul kewlm, msc2, 857287
+	EKELM1
+		Images:	1755
+		Time:	06.10.2024 07:07:57 until 06.10.2024 07:45:19
+		Duration:	00:37:22
+		Location:	NULL NULL
+
+(16) - 0.0 km pre finish right side sponsored image
+	FREE1
+		Images:	6171
+		Time:	31.10.2014 23:00:03 until 01.11.2014 00:45:44
+		Duration:	01:45:41
+		Location:	NULL NULL
+
+(17) - 0.0 km pre finish trigger, left side
+	PFTL1
+		Images:	21575
+		Time:	06.10.2024 07:51:04 until 06.10.2024 13:52:05
+		Duration:	06:01:01
+		Location:	NULL NULL
+
+(18) - 0.0 km Ryan Pletz, 857284, msc 1
+	RYAN1
+		Images:	3183
+		Time:	06.10.2024 05:58:50 until 06.10.2024 06:39:29
+		Duration:	00:40:39
+		Location:	NULL NULL
+
+(19) - 0.0 km Ryan Pletz, 857289, msc 3
+	PLET1
+		Images:	5503
+		Time:	06.10.2024 07:15:16 until 06.10.2024 08:24:32
+		Duration:	01:09:16
+		Location:	NULL NULL
+
+(20) - 0.0 km scott homich, msc9, 857318
+	ESCOT1
+		Images:	19774
+		Time:	06.10.2024 07:10:21 until 06.10.2024 14:21:47
+		Duration:	07:11:26
+		Location:	NULL NULL
+
+(21) - 0.0 km Serena Omangi, 857301, medals
+	SEREN1
+		Images:	871
+		Time:	05.10.2024 19:37:53 until 05.10.2024 23:50:46
+		Duration:	04:12:53
+		Location:	NULL NULL
+
+(22) - 0.0 km short trigger, pre finish
+	SHORT1
+		Images:	20038
+		Time:	05.10.2024 07:15:38 until 05.10.2024 13:16:21
+		Duration:	06:00:43
+		Location:	NULL NULL
+
+(23) - 0.0 km Start - Lance Edwards, 857281
+	START1
+		Images:	1890
+		Time:	06.10.2024 11:21:17 until 06.10.2024 13:14:22
+		Duration:	01:53:05
+		Location:	NULL NULL
+
+(24) - 0.0 km toby cheung, 857283, msc 1
+	TOBY1
+		Images:	7297
+		Time:	06.10.2024 08:01:47 until 06.10.2024 08:42:34
+		Duration:	00:40:47
+		Location:	NULL NULL
+
+(25) - 0.0 km toby cheung, 857288, msc 3
+	CHEUN1
+		Images:	8809
+		Time:	06.10.2024 09:11:05 until 06.10.2024 10:27:24
+		Duration:	01:16:19
+		Location:	NULL NULL
+
+(26) - 0.0 km Trigger one, 857285, msc 1
+	AUTO1
+		Images:	2091
+		Time:	06.10.2024 07:46:20 until 06.10.2024 09:05:59
+		Duration:	01:19:39
+		Location:	NULL NULL
+
+(27) - Impressions / Pano
+	PANO1
