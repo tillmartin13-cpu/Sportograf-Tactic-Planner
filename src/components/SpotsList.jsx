@@ -97,7 +97,14 @@ function SpotCard({ spot, index }) {
       <div className="mb-2 flex flex-wrap items-center gap-1 text-[10px] text-[#8a93b0]">
         <span className="rounded bg-[#f4f5fa] px-1 py-0.5 font-bold uppercase">{spot.spot_type}</span>
         {spot.km_mark != null && <span>{spot.km_mark} km</span>}
-        {timeLabel && <span className="text-[#9aa3bf]">{timeLabel}</span>}
+        {timeLabel && (
+          <span className={spot.time_estimated ? 'text-amber-500 font-medium' : 'text-[#9aa3bf]'}>
+            {spot.time_estimated ? `~${timeLabel}` : timeLabel}
+          </span>
+        )}
+        {spot.time_estimated && (
+          <span className="rounded bg-amber-50 px-1 py-0.5 text-amber-500 font-bold">Geschätzt</span>
+        )}
       </div>
 
       {/* Notes preview */}
@@ -169,7 +176,7 @@ export function SpotsList() {
             {terms.emptyHint}
           </div>
         ) : (
-          <div className="grid grid-cols-2 gap-2 sm:grid-cols-3 lg:grid-cols-4">
+          <div className="grid grid-cols-2 gap-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
             {tactic.spots.map((spot, index) => (
               <SpotCard key={spot.id} spot={spot} index={index} />
             ))}

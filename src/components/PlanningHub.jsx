@@ -221,16 +221,16 @@ const TABS = [
 
 function TabBar({ active, onChange }) {
   return (
-    <div className="flex shrink-0 border-b border-[#e3e7f2] bg-white px-3">
+    <div className="flex shrink-0 items-center gap-1.5 border-b border-[#e3e7f2] bg-[#1C2B6B] px-3 py-2">
       {TABS.map((tab) => (
         <button
           key={tab.id}
           type="button"
           onClick={() => onChange(tab.id)}
-          className={`px-4 py-2.5 text-xs font-bold border-b-2 transition-colors -mb-px ${
+          className={`px-4 py-1.5 text-xs font-bold rounded-lg transition-colors ${
             active === tab.id
-              ? 'border-[#1C2B6B] text-[#1C2B6B]'
-              : 'border-transparent text-[#8a93b0] hover:text-[#1C2B6B]'
+              ? 'bg-white text-[#1C2B6B] shadow-sm'
+              : 'text-white/70 hover:text-white hover:bg-white/10'
           }`}
         >
           {tab.label}

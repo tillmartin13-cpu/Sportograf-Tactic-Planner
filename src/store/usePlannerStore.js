@@ -464,8 +464,9 @@ export const usePlannerStore = create(
           longitude: refSpot.longitude ?? null,
           km_mark: refSpot.km_mark ?? null,
           results: refSpot.results ?? [],
-          time_from: null,
-          time_to: null,
+          time_from: refSpot.time_from ?? null,
+          time_to: refSpot.time_to ?? null,
+          time_estimated: !!(refSpot.time_from || refSpot.time_to),
           notes: refSpot.notes || '',
           lens_type: null,
           refImages: [],
@@ -979,8 +980,11 @@ export const usePlannerStore = create(
         const event = get().getCurrentEvent();
         if (!event) return;
         const tactic = get().getTactic(event.id);
+        const finalPatch = ('time_from' in patch || 'time_to' in patch)
+          ? { ...patch, time_estimated: false }
+          : patch;
         get().updateTactic(event.id, {
-          spots: tactic.spots.map((s) => (s.id === spotId ? { ...s, ...patch } : s)),
+          spots: tactic.spots.map((s) => (s.id === spotId ? { ...s, ...finalPatch } : s)),
         });
       },
 
