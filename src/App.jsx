@@ -9,7 +9,80 @@ import { Toast } from './components/Toast';
 import { CsvDiffModal } from './components/CsvDiffModal';
 import { ErrorBoundary } from './components/ErrorBoundary';
 
-const MAINTENANCE_MODE = true;
+const MAINTENANCE_MODE = false;
+const APP_PASSWORD = '0750';
+
+function PasswordGate({ onUnlock }) {
+  const [value, setValue] = useState('');
+  const [error, setError] = useState(false);
+
+  function handleSubmit(e) {
+    e.preventDefault();
+    if (value === APP_PASSWORD) {
+      sessionStorage.setItem('app_unlocked', '1');
+      onUnlock();
+    } else {
+      setError(true);
+      setValue('');
+    }
+  }
+
+  return (
+    <div style={{
+      minHeight: '100vh',
+      background: '#111827',
+      display: 'flex',
+      flexDirection: 'column',
+      alignItems: 'center',
+      justifyContent: 'center',
+      gap: '24px',
+      padding: '32px',
+      textAlign: 'center',
+      fontFamily: 'system-ui, sans-serif',
+    }}>
+      <img src="/sg-logo-white.svg" alt="Sportograf" style={{ height: 28, opacity: 0.6 }} />
+      <div style={{ color: '#6b7db3', fontSize: 12, letterSpacing: '0.12em', textTransform: 'uppercase' }}>
+        Geschützter Bereich
+      </div>
+      <form onSubmit={handleSubmit} style={{ display: 'flex', flexDirection: 'column', gap: 12, width: '100%', maxWidth: 260 }}>
+        <input
+          autoFocus
+          type="password"
+          value={value}
+          onChange={(e) => { setValue(e.target.value); setError(false); }}
+          placeholder="Passwort"
+          style={{
+            background: '#1f2937',
+            border: error ? '1.5px solid #f87171' : '1.5px solid #374151',
+            borderRadius: 10,
+            color: '#e5e7eb',
+            fontSize: 16,
+            padding: '10px 14px',
+            outline: 'none',
+            textAlign: 'center',
+            letterSpacing: '0.2em',
+          }}
+        />
+        {error && <div style={{ color: '#f87171', fontSize: 12 }}>Falsches Passwort</div>}
+        <button
+          type="submit"
+          style={{
+            background: '#1C2B6B',
+            border: 'none',
+            borderRadius: 10,
+            color: '#fff',
+            cursor: 'pointer',
+            fontSize: 13,
+            fontWeight: 700,
+            padding: '10px 14px',
+          }}
+        >
+          Zugang
+        </button>
+      </form>
+    </div>
+  );
+}
 
 function MaintenancePage() {
   return (
@@ -37,8 +110,12 @@ export default function App() {
   const hydrated = useStoreHydration();
   const appScreen = usePlannerStore((s) => s.appScreen);
   const [tlUnlocked, setTlUnlocked] = useState(false);
+  const [appUnlocked, setAppUnlocked] = useState(
+    () => sessionStorage.getItem('app_unlocked') === '1'
+  );
 
   if (MAINTENANCE_MODE) return <MaintenancePage />;
+  if (!appUnlocked) return <PasswordGate onUnlock={() => setAppUnlocked(true)} />;
 
   if (!hydrated) {
     return (
