@@ -9,7 +9,7 @@ import { Toast } from './components/Toast';
 import { CsvDiffModal } from './components/CsvDiffModal';
 import { ErrorBoundary } from './components/ErrorBoundary';
 
-const MAINTENANCE_MODE = false;
+const MAINTENANCE_MODE = true;
 const APP_PASSWORD = '0750';
 
 function PasswordGate({ onUnlock }) {
