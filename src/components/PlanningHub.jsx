@@ -323,7 +323,9 @@ export function PlanningHub({ title = 'Tactic Planner' }) {
 
                         {/* MAP TAB */}
                         {activeTab === 'map' && (
-                          <MapPanel onExpand={() => setMapExpanded(true)} />
+                          <div className="relative" style={{ height: 'calc(100vh - 140px)' }}>
+                            <MapPanel fullscreen onCollapse={() => setActiveTab('spots')} />
+                          </div>
                         )}
 
                         {/* LOGISTICS TAB */}
