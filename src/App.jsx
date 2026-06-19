@@ -110,12 +110,7 @@ export default function App() {
   const hydrated = useStoreHydration();
   const appScreen = usePlannerStore((s) => s.appScreen);
   const [tlUnlocked, setTlUnlocked] = useState(false);
-  const [appUnlocked, setAppUnlocked] = useState(
-    () => sessionStorage.getItem('app_unlocked') === '1'
-  );
-
   if (MAINTENANCE_MODE) return <MaintenancePage />;
-  if (!appUnlocked) return <PasswordGate onUnlock={() => setAppUnlocked(true)} />;
 
   if (!hydrated) {
     return (
