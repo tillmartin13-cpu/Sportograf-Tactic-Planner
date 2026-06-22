@@ -11,6 +11,7 @@ import { getGpxTracks } from '../lib/gpxTracks';
 import { getSpotNavUrls } from '../lib/navUrls';
 import { extractCoords } from '../lib/extractCoords';
 import { compressImageFile, MAX_REF_IMAGES } from '../lib/compressImage';
+import { getSunInfo, lightQuality, formatSunTime } from '../lib/sunPosition';
 
 function KmPreview({ lat, lng, tracks, kmOverrides, onToggleKm }) {
   if (!tracks.length) {
@@ -444,6 +445,40 @@ export function SpotModal() {
             })}
           </div>
         </div>
+
+        {/* Sun position info — only when spot has coordinates */}
+        {editingSpot?.latitude && editingSpot?.longitude && event?.eventDate && (() => {
+          const info = getSunInfo(editingSpot.latitude, editingSpot.longitude, event.eventDate, editingSpot.time_from);
+          if (!info) return null;
+          const q = lightQuality(info);
+          return (
+            <div className="mb-4 rounded-xl border border-[#e3e7f2] overflow-hidden">
+              <div className="flex items-center gap-2 px-3 py-2 border-b border-[#e3e7f2]" style={{ background: q.bg }}>
+                <span>☀️</span>
+                <span className="text-xs font-bold" style={{ color: q.color }}>{q.label}</span>
+                <span className="text-xs ml-auto" style={{ color: q.color }}>{info.direction} · {info.altitudeDeg}°</span>
+              </div>
+              <div className="grid grid-cols-3 divide-x divide-[#f0f0f0] bg-white">
+                <div className="flex flex-col items-center py-2 px-1">
+                  <span className="text-[9px] font-bold uppercase tracking-wide text-gray-400 mb-0.5">Sonnenaufgang</span>
+                  <span className="text-xs font-bold text-gray-700">{formatSunTime(info.sunrise)}</span>
+                </div>
+                <div className="flex flex-col items-center py-2 px-1">
+                  <span className="text-[9px] font-bold uppercase tracking-wide text-amber-400 mb-0.5">Golden Hour</span>
+                  <span className="text-xs font-bold text-gray-700">{formatSunTime(info.goldenHourEnd)}</span>
+                  <span className="text-[9px] text-gray-400">& {formatSunTime(info.goldenHour)}</span>
+                </div>
+                <div className="flex flex-col items-center py-2 px-1">
+                  <span className="text-[9px] font-bold uppercase tracking-wide text-gray-400 mb-0.5">Sonnenuntergang</span>
+                  <span className="text-xs font-bold text-gray-700">{formatSunTime(info.sunset)}</span>
+                </div>
+              </div>
+              <div className="px-3 py-1.5 bg-[#fafafa] border-t border-[#f0f0f0]">
+                <p className="text-[10px] text-gray-400">Basierend auf {event.eventDate ? new Date(event.eventDate).toLocaleDateString('de-DE') : 'Eventdatum'} · Spotposition</p>
+              </div>
+            </div>
+          );
+        })()}
 
         <label className="mb-4 block">
           <span className="text-[10px] font-bold uppercase tracking-wide text-[#bbb]">Comment (optional)</span>

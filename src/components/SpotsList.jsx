@@ -3,6 +3,7 @@ import { useCurrentEvent } from '../hooks/useCurrentEvent';
 import { useTactic } from '../hooks/useTactic';
 import { SPOT_TYPE_COLORS } from '../lib/spotTypes';
 import { getSpotTerms } from '../lib/hyrox';
+import { getSunInfo, lightQuality, formatSunTime } from '../lib/sunPosition';
 
 function SpotAssignments({ spotId }) {
   const event = useCurrentEvent();
@@ -36,7 +37,27 @@ function SpotAssignments({ spotId }) {
   );
 }
 
-function SpotCard({ spot, index }) {
+function SunBadge({ spot, eventDate }) {
+  if (!spot.latitude || !spot.longitude) return null;
+  const time = spot.time_from || null;
+  const info = getSunInfo(spot.latitude, spot.longitude, eventDate, time);
+  if (!info) return null;
+  const quality = lightQuality(info);
+
+  return (
+    <div
+      className="mt-1.5 flex items-center gap-1.5 rounded-lg px-2 py-1"
+      style={{ background: quality.bg }}
+      title={`Sonne: ${info.direction} · ${info.altitudeDeg}° · ${quality.label}`}
+    >
+      <span style={{ fontSize: 12 }}>☀️</span>
+      <span className="text-[10px] font-bold" style={{ color: quality.color }}>{quality.label}</span>
+      <span className="text-[10px]" style={{ color: quality.color }}>· {info.direction} {info.altitudeDeg}°</span>
+    </div>
+  );
+}
+
+function SpotCard({ spot, index, eventDate }) {
   const openEditSpotModal = usePlannerStore((s) => s.openEditSpotModal);
   const assignPhotographer = usePlannerStore((s) => s.assignPhotographer);
 
@@ -115,6 +136,7 @@ function SpotCard({ spot, index }) {
       )}
 
       <SpotAssignments spotId={spot.id} />
+      <SunBadge spot={spot} eventDate={eventDate} />
 
       {spot.refImages?.length > 0 && (
         <div className="mt-2 flex gap-1">
@@ -178,7 +200,7 @@ export function SpotsList() {
         ) : (
           <div className="grid grid-cols-2 gap-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
             {tactic.spots.map((spot, index) => (
-              <SpotCard key={spot.id} spot={spot} index={index} />
+              <SpotCard key={spot.id} spot={spot} index={index} eventDate={event.eventDate} />
             ))}
           </div>
         )}
